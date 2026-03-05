@@ -26,24 +26,24 @@ aliases:
 - 새턴 V 로켓
 has_id_wikidata: Q54363
 has_part_s_:
-- '[[_Standards/WikiData/WD~S_IVB,257161]]'
-- '[[_Standards/WikiData/WD~S_IC,1029937]]'
-- '[[_Standards/WikiData/WD~S_II,1093699]]'
-- '[[_Standards/WikiData/WD~Saturn_IB_V_Instrument_Unit,7426817]]'
+- '[[_Standards/WikiData/WD~S_IVB,257161|WD~S_IVB,257161]]'
+- '[[_Standards/WikiData/WD~S_IC,1029937|WD~S_IC,1029937]]'
+- '[[_Standards/WikiData/WD~S_II,1093699|WD~S_II,1093699]]'
+- '[[_Standards/WikiData/WD~Saturn_IB_V_Instrument_Unit,7426817|WD~Saturn_IB_V_Instrument_Unit,7426817]]'
 manufacturer:
-- '[[_Standards/WikiData/WD~North_American_Aviation,519560]]'
-- '[[_Standards/WikiData/WD~Douglas,651778]]'
-- '[[_Standards/WikiData/WD~Boeing,66]]'
-- '[[_Standards/WikiData/WD~IBM,37156]]'
-start_point: '[[_Standards/WikiData/WD~Kennedy_Space_Center_Launch_Complex_39,845774]]'
+- '[[_Standards/WikiData/WD~North_American_Aviation,519560|WD~North_American_Aviation,519560]]'
+- '[[_Standards/WikiData/WD~Douglas,651778|WD~Douglas,651778]]'
+- '[[_Standards/WikiData/WD~Boeing,66|WD~Boeing,66]]'
+- '[[_Standards/WikiData/WD~IBM,37156|WD~IBM,37156]]'
+start_point: '[[_Standards/WikiData/WD~Kennedy_Space_Center_Launch_Complex_39,845774|WD~Kennedy_Space_Center_Launch_Complex_39,845774]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Saturn,1285723]]'
-- '[[_Standards/WikiData/WD~super_heavy_lift_launch_vehicle,23759442]]'
+- '[[_Standards/WikiData/WD~Saturn,1285723|WD~Saturn,1285723]]'
+- '[[_Standards/WikiData/WD~super_heavy_lift_launch_vehicle,23759442|WD~super_heavy_lift_launch_vehicle,23759442]]'
 significant_event:
-- '[[_Standards/WikiData/WD~maiden_flight,1362364]]'
-- '[[_Standards/WikiData/WD~last_flight,104716501]]'
-instance_of: '[[_Standards/WikiData/WD~rocket_model,110055303]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~maiden_flight,1362364|WD~maiden_flight,1362364]]'
+- '[[_Standards/WikiData/WD~last_flight,104716501|WD~last_flight,104716501]]'
+instance_of: '[[_Standards/WikiData/WD~rocket_model,110055303|WD~rocket_model,110055303]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 maximum_thrust: 7600000
 payload_mass:
 - 118000

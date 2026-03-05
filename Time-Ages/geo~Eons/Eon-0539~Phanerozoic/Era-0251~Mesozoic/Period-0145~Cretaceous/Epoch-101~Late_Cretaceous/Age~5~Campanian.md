@@ -33,15 +33,15 @@ aliases:
 - 샹파뉴절
 has_id_wikidata: Q492941
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Champagne,1080717]]'
-named_by: '[[_Standards/WikiData/WD~Henri_Coquand,3130874]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Campanian,21784190]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Campanian,133894676]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Champagne,1080717|WD~Champagne,1080717]]'
+named_by: '[[_Standards/WikiData/WD~Henri_Coquand,3130874|WD~Henri_Coquand,3130874]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Campanian,21784190|WD~Category_Campanian,21784190]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Campanian,133894676|WD~GSSP_for_the_base_of_the_Campanian,133894676]]'
 end_time: -72100000-01-01T00:00:00Z
-significant_place: '[[_Standards/WikiData/WD~Gubbio,20458]]'
+significant_place: '[[_Standards/WikiData/WD~Gubbio,20458|WD~Gubbio,20458]]'
 coordinate_location: Point(12.58283 43.36267)
 Commons_category: Campanian
 start_time: -83600000-01-01T00:00:00Z

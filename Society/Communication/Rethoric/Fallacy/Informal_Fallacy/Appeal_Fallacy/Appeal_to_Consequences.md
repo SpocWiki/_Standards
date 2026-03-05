@@ -22,10 +22,10 @@ aliases:
 - 诉诸后果
 - 결과에 호소
 has_id_wikidata: Q777000
-instance_of: '[[_Standards/WikiData/WD~fallacy,186150]]'
-subclass_of: '[[_Standards/WikiData/WD~argument,186619]]'
-different_from: '[[_Standards/WikiData/WD~argumentum_ad_baculum,752275]]'
-part_of: '[[_Standards/WikiData/WD~wishful_thinking,8154361]]'
+instance_of: '[[_Standards/WikiData/WD~fallacy,186150|WD~fallacy,186150]]'
+subclass_of: '[[_Standards/WikiData/WD~argument,186619|WD~argument,186619]]'
+different_from: '[[_Standards/WikiData/WD~argumentum_ad_baculum,752275|WD~argumentum_ad_baculum,752275]]'
+part_of: '[[_Standards/WikiData/WD~wishful_thinking,8154361|WD~wishful_thinking,8154361]]'
 dv_has_:
   name_:
     ar: توسل بالنتيجة

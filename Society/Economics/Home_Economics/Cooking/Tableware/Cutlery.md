@@ -70,22 +70,22 @@ aliases:
 - 커틀러리
 has_id_wikidata: Q81944
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~table_set,1191255]]'
-- '[[_Standards/WikiData/WD~service_cutlery,15847317]]'
+- '[[_Standards/WikiData/WD~table_set,1191255|WD~table_set,1191255]]'
+- '[[_Standards/WikiData/WD~service_cutlery,15847317|WD~service_cutlery,15847317]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~utensil,1310214]]'
-- '[[_Standards/WikiData/WD~kitchenware,1521410]]'
+- '[[_Standards/WikiData/WD~utensil,1310214|WD~utensil,1310214]]'
+- '[[_Standards/WikiData/WD~kitchenware,1521410|WD~kitchenware,1521410]]'
 has_use:
-- '[[_Standards/WikiData/WD~ingestion,1663054]]'
-- '[[_Standards/WikiData/WD~food_and_drink_preparation,16920758]]'
-- '[[_Standards/WikiData/WD~serving,25559167]]'
+- '[[_Standards/WikiData/WD~ingestion,1663054|WD~ingestion,1663054]]'
+- '[[_Standards/WikiData/WD~food_and_drink_preparation,16920758|WD~food_and_drink_preparation,16920758]]'
+- '[[_Standards/WikiData/WD~serving,25559167|WD~serving,25559167]]'
 different_from:
-- '[[_Standards/WikiData/WD~cutlery,2247610]]'
-- '[[_Standards/WikiData/WD~Flatware,8563682]]'
-used_by: '[[_Standards/WikiData/WD~eater,20984678]]'
+- '[[_Standards/WikiData/WD~cutlery,2247610|WD~cutlery,2247610]]'
+- '[[_Standards/WikiData/WD~Flatware,8563682|WD~Flatware,8563682]]'
+used_by: '[[_Standards/WikiData/WD~eater,20984678|WD~eater,20984678]]'
 Nomenclature_for_Museum_Cataloging: 5033
 OmegaWiki_Defined_Meaning: 1383297
 Dewey_Decimal_Classification:

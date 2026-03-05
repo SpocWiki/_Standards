@@ -35,8 +35,8 @@ aliases:
 - 인적 손실
 has_id_wikidata: Q1056901
 subclass_of:
-- '[[_Standards/WikiData/WD~victim,1851760]]'
-- '[[_Standards/WikiData/WD~effects_of_war,3511052]]'
+- '[[_Standards/WikiData/WD~victim,1851760|WD~victim,1851760]]'
+- '[[_Standards/WikiData/WD~effects_of_war,3511052|WD~effects_of_war,3511052]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Dead%20german%20member%20of%20Waffen-SS.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/UnknownBritishSoldiers.JPG

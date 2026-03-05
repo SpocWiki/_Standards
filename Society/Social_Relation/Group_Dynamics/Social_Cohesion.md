@@ -40,21 +40,21 @@ aliases:
 - 집단 응집성
 has_id_wikidata: Q553270
 has_part_s_:
-- '[[_Standards/WikiData/WD~resonance,172858]]'
-- '[[_Standards/WikiData/WD~convention,367293]]'
-- '[[_Standards/WikiData/WD~trust,659974]]'
-- '[[_Standards/WikiData/WD~social_network,2715623]]'
+- '[[_Standards/WikiData/WD~resonance,172858|WD~resonance,172858]]'
+- '[[_Standards/WikiData/WD~convention,367293|WD~convention,367293]]'
+- '[[_Standards/WikiData/WD~trust,659974|WD~trust,659974]]'
+- '[[_Standards/WikiData/WD~social_network,2715623|WD~social_network,2715623]]'
 has_effect:
-- '[[_Standards/WikiData/WD~public_health,189603]]'
-- '[[_Standards/WikiData/WD~mental_health,317309]]'
+- '[[_Standards/WikiData/WD~public_health,189603|WD~public_health,189603]]'
+- '[[_Standards/WikiData/WD~mental_health,317309|WD~mental_health,317309]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_integration,370735]]'
-- '[[../../../WikiData/WD~group_dynamics,839578]]'
+- '[[_Standards/WikiData/WD~social_integration,370735|WD~social_integration,370735]]'
+- '[[../../../WikiData/WD~group_dynamics,839578|WD~group_dynamics,839578]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Division_of_Labour_in_Society,3020435]]'
-- '[[_Standards/WikiData/WD~Bowling_Alone,4845526]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-instance_of: '[[_Standards/WikiData/WD~sociological_concept,33104129]]'
+- '[[_Standards/WikiData/WD~The_Division_of_Labour_in_Society,3020435|WD~The_Division_of_Labour_in_Society,3020435]]'
+- '[[_Standards/WikiData/WD~Bowling_Alone,4845526|WD~Bowling_Alone,4845526]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+instance_of: '[[_Standards/WikiData/WD~sociological_concept,33104129|WD~sociological_concept,33104129]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Soziologie%2001.jpg
 UMLS_CUI: C0237515
 MeSH_tree_code:

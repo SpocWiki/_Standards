@@ -73,12 +73,12 @@ aliases:
 - 이슬람의 역사
 has_id_wikidata: Q642379
 subclass_of:
-- '[[_Standards/WikiData/WD~Islamic_studies,843909]]'
-- '[[_Standards/WikiData/WD~history_of_religions,846742]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Islam,6326604]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-facet_of: '[[_Standards/WikiData/WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~Islamic_studies,843909|WD~Islamic_studies,843909]]'
+- '[[_Standards/WikiData/WD~history_of_religions,846742|WD~history_of_religions,846742]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Islam,6326604|WD~Template_History_of_Islam,6326604]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
 Stack_Exchange_tag:
 - https://history.stackexchange.com/tags/islam
 - https://islam.stackexchange.com/tags/history

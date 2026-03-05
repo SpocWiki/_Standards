@@ -46,7 +46,7 @@ dv_has_domain:
   - "[[../../../bio/Medicine/Medical_Entity/Medical_Device|Medical_Device]]"
   - "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure|Therapeutic_Procedure]]"
 dv_has_name: has_adverse_outcome
-dv_has_range: "[[../../../bio/Medicine/Medical_Entity]]"
+dv_has_range: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
 dv_is_same_as:
   - "[[has_adverse_outcome]]"
   - "[[/_public/schema-org/Relation/has/has_adverse_outcome.public|has_adverse_outcome.public]]"

@@ -33,11 +33,11 @@ aliases:
 - 쌍절곤
 has_id_wikidata: Q204206
 subclass_of:
-- '[[_Standards/WikiData/WD~cold_weapon,222405]]'
-- '[[_Standards/WikiData/WD~farmer_weapon,811318]]'
-- '[[_Standards/WikiData/WD~melee_weapon,5581528]]'
-- '[[_Standards/WikiData/WD~prohibited_weapon,74409921]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_family,15142889]]'
+- '[[_Standards/WikiData/WD~cold_weapon,222405|WD~cold_weapon,222405]]'
+- '[[_Standards/WikiData/WD~farmer_weapon,811318|WD~farmer_weapon,811318]]'
+- '[[_Standards/WikiData/WD~melee_weapon,5581528|WD~melee_weapon,5581528]]'
+- '[[_Standards/WikiData/WD~prohibited_weapon,74409921|WD~prohibited_weapon,74409921]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_family,15142889|WD~weapon_family,15142889]]'
 Commons_category: Nunchaku
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ja-Nunchaku.oga
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nunchaku.JPG

@@ -36,7 +36,7 @@ dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 134.4667
 dv_has_place_latitude: 7.35
 dv_has_name: Melekeok
-dv_Country: "[[../../../../Micronesia/Palau]]]"
+dv_Country: "[[../../../../Micronesia/Palau|Palau]]]"
 dv_Unknown: 32
 dv_is_:
   same_as:

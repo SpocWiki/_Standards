@@ -83,27 +83,27 @@ aliases:
 - 환생
 has_id_wikidata: Q128593
 part_of:
-- '[[_Standards/WikiData/WD~Samsara,173324]]'
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-- '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~Samsara,173324|WD~Samsara,173324]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
-has_effect: '[[_Standards/WikiData/WD~afterlife,623282]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519|WD~New_World_Encyclopedia,116780519]]'
+has_effect: '[[_Standards/WikiData/WD~afterlife,623282|WD~afterlife,623282]]'
 instance_of:
-- '[[_Standards/WikiData/WD~superpower,1047698]]'
-- '[[_Standards/WikiData/WD~religious_concept,23847174]]'
-different_from: '[[_Standards/WikiData/WD~metempsychosis,1262856]]'
-subclass_of: '[[_Standards/WikiData/WD~hypothetical_event,72867640]]'
-has_cause: '[[_Standards/WikiData/WD~previous_life,115203478]]'
+- '[[_Standards/WikiData/WD~superpower,1047698|WD~superpower,1047698]]'
+- '[[_Standards/WikiData/WD~religious_concept,23847174|WD~religious_concept,23847174]]'
+different_from: '[[_Standards/WikiData/WD~metempsychosis,1262856|WD~metempsychosis,1262856]]'
+subclass_of: '[[_Standards/WikiData/WD~hypothetical_event,72867640|WD~hypothetical_event,72867640]]'
+has_cause: '[[_Standards/WikiData/WD~previous_life,115203478|WD~previous_life,115203478]]'
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Buddhism,748]]'
-- '[[_Standards/WikiData/WD~Hinduism,9089]]'
+- '[[_Standards/WikiData/WD~Buddhism,748|WD~Buddhism,748]]'
+- '[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]'
 Commons_category: Reincarnation
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Reinkarnation.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Reincarnation%20AS.jpg

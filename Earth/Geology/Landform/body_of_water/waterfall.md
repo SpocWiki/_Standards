@@ -150,28 +150,28 @@ tags:
 title: is_a_waterfall Class
 type: Type
 has_part_s_:
-- '[[_Standards/WikiData/WD~cliff,107679]]'
-- '[[_Standards/WikiData/WD~watercourse,355304]]'
-- '[[_Standards/WikiData/WD~Q46867411,46867411]]'
+- '[[_Standards/WikiData/WD~cliff,107679|WD~cliff,107679]]'
+- '[[_Standards/WikiData/WD~watercourse,355304|WD~watercourse,355304]]'
+- '[[_Standards/WikiData/WD~Q46867411,46867411|WD~Q46867411,46867411]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~height,208826]]'
-- '[[_Standards/WikiData/WD~volume_flow_rate,1134348]]'
-- '[[_Standards/WikiData/WD~fall,11620540]]'
+- '[[_Standards/WikiData/WD~height,208826|WD~height,208826]]'
+- '[[_Standards/WikiData/WD~volume_flow_rate,1134348|WD~volume_flow_rate,1134348]]'
+- '[[_Standards/WikiData/WD~fall,11620540|WD~fall,11620540]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~landform,271669]]'
-- '[[_Standards/WikiData/WD~natural_geographic_object,35145263]]'
-- '[[_Standards/WikiData/WD~body_of_water,15324]]'
-part_of: '[[_Standards/WikiData/WD~watercourse,355304]]'
+- '[[_Standards/WikiData/WD~landform,271669|WD~landform,271669]]'
+- '[[_Standards/WikiData/WD~natural_geographic_object,35145263|WD~natural_geographic_object,35145263]]'
+- '[[_Standards/WikiData/WD~body_of_water,15324|WD~body_of_water,15324]]'
+part_of: '[[_Standards/WikiData/WD~watercourse,355304|WD~watercourse,355304]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-has_list: '[[_Standards/WikiData/WD~list_of_waterfalls,936787]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_waterfall,6064869]]'
-different_from: '[[_Standards/WikiData/WD~Cascata,21443562]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+has_list: '[[_Standards/WikiData/WD~list_of_waterfalls,936787|WD~list_of_waterfalls,936787]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_waterfall,6064869|WD~Template_Infobox_waterfall,6064869]]'
+different_from: '[[_Standards/WikiData/WD~Cascata,21443562|WD~Cascata,21443562]]'
 properties_for_this_type:
 - part of
 - elevation above sea level
@@ -179,7 +179,7 @@ properties_for_this_type:
 - discharge
 - World Waterfall Database ID
 - located in or next to body of water
-manifestation_of: '[[_Standards/WikiData/WD~geomorphology,52109]]'
+manifestation_of: '[[_Standards/WikiData/WD~geomorphology,52109|WD~geomorphology,52109]]'
 OmegaWiki_Defined_Meaning: 4079
 Iconclass_notation: 25H216
 Wolfram_Language_entity_type: Waterfall
@@ -368,7 +368,7 @@ dv_has_:
     zh_hant: 瀑布
     zh_tw: 瀑布
     zu: Impophoma
-  parent_class: '[[../BodyOfWater]]'
+  parent_class: '[[../BodyOfWater|BodyOfWater]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:
   same_as:
@@ -380,7 +380,7 @@ dv_is_:
   - '[[/_private/Earth/Geology/Landform/body_of_water/waterfall.private|waterfall.private]]'
   - '[[/_personal/Earth/Geology/Landform/body_of_water/waterfall.personal|waterfall.personal]]'
   - '[[/_secret/Earth/Geology/Landform/body_of_water/waterfall.secret|waterfall.secret]]'
-dv_has_parent_class: '[[../BodyOfWater]]'
+dv_has_parent_class: '[[../BodyOfWater|BodyOfWater]]'
 dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
 - '[[../../../../WikiData/WD~Waterfall,34038|WD~Waterfall,34038]]'

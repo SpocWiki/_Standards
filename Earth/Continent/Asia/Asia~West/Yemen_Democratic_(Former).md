@@ -10,7 +10,7 @@ tags:
 type: Country
 dv_has_name_en: Yemen Democratic (Former)
 dv_has_name_de: Süd Jemen
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: "[[../../Africa|Africa]]"
 dv_Language-Id: 472
 dv_is_:
   same_as:

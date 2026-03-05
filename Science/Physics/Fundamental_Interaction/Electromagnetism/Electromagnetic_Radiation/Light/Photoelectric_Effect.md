@@ -78,14 +78,14 @@ aliases:
 - 빛전기효과
 has_id_wikidata: Q83213
 instance_of:
-- '[[_Standards/WikiData/WD~principle,211364]]'
-- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
+- '[[_Standards/WikiData/WD~principle,211364|WD~principle,211364]]'
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-has_part_s_: '[[_Standards/WikiData/WD~photoelectron,11388587]]'
-solved_by: '[[_Standards/WikiData/WD~Albert_Einstein,937]]'
-subclass_of: '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_part_s_: '[[_Standards/WikiData/WD~photoelectron,11388587|WD~photoelectron,11388587]]'
+solved_by: '[[_Standards/WikiData/WD~Albert_Einstein,937|WD~Albert_Einstein,937]]'
+subclass_of: '[[_Standards/WikiData/WD~quantum_mechanics,944|WD~quantum_mechanics,944]]'
 OmegaWiki_Defined_Meaning: 1113976
 Commons_gallery: Photoelectric effect
 Commons_category: Photoelectric effect

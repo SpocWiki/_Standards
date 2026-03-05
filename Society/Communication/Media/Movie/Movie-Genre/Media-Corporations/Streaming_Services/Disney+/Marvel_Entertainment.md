@@ -95,10 +95,10 @@ dv_has_:
 > was an American entertainment company founded in June 1998 and based in New York City, 
 > formed by the merger of [[Marvel Entertainment Group]] (or **MEG**),  and Toy Biz, 
 > the former again was incorporated on December 2, 1986, 
-> and included [[../../../../books/Comics/Marvel_Comics]] and [Marvel Productions](https://en.wikipedia.org/wiki/Marvel_Productions "Marvel Productions").. 
+> and included [[../../../../books/Comics/Marvel_Comics|Marvel_Comics]] and [Marvel Productions](https://en.wikipedia.org/wiki/Marvel_Productions "Marvel Productions").. 
 > 
-> The company has been a wholly owned subsidiary of the [[../Walt_Disney_Company]] since 2009, 
-> and was mainly known for consumer products, licensing, and comic books by [[../../../../books/Comics/Marvel_Comics]], 
+> The company has been a wholly owned subsidiary of the [[../Walt_Disney_Company|Walt_Disney_Company]] since 2009, 
+> and was mainly known for consumer products, licensing, and comic books by [[../../../../books/Comics/Marvel_Comics|Marvel_Comics]], 
 > as well as its early forays into films and television series, 
 > including those within the Marvel Cinematic Universe (MCU).
 >

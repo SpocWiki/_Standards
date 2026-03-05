@@ -146,29 +146,29 @@ tags:
 title: is_a_mosque Class
 type: Type
 has_part_s_:
-- '[[_Standards/WikiData/WD~mihrab,173907]]'
-- '[[_Standards/WikiData/WD~Qubba,1719880]]'
-- '[[_Standards/WikiData/WD~wudu_basin,126029617]]'
-- '[[_Standards/WikiData/WD~musalla,45990]]'
-- '[[_Standards/WikiData/WD~minaret,48356]]'
-facet_of: '[[_Standards/WikiData/WD~Islamic_architecture,212940]]'
-instance_of: '[[_Standards/WikiData/WD~building_type,811102]]'
+- '[[_Standards/WikiData/WD~mihrab,173907|WD~mihrab,173907]]'
+- '[[_Standards/WikiData/WD~Qubba,1719880|WD~Qubba,1719880]]'
+- '[[_Standards/WikiData/WD~wudu_basin,126029617|WD~wudu_basin,126029617]]'
+- '[[_Standards/WikiData/WD~musalla,45990|WD~musalla,45990]]'
+- '[[_Standards/WikiData/WD~minaret,48356|WD~minaret,48356]]'
+facet_of: '[[_Standards/WikiData/WD~Islamic_architecture,212940|WD~Islamic_architecture,212940]]'
+instance_of: '[[_Standards/WikiData/WD~building_type,811102|WD~building_type,811102]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~structure_of_worship,1370598]]'
-- '[[_Standards/WikiData/WD~religious_building,24398318]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~structure_of_worship,1370598|WD~structure_of_worship,1370598]]'
+- '[[_Standards/WikiData/WD~religious_building,24398318|WD~religious_building,24398318]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_mosque,13420133]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q32413069,32413069]]'
-activity_policy_in_this_place: '[[_Standards/WikiData/WD~please_take_off_your_shoes,66361369]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_mosque,13420133|WD~Template_Infobox_mosque,13420133]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32413069,32413069|WD~Q32413069,32413069]]'
+activity_policy_in_this_place: '[[_Standards/WikiData/WD~please_take_off_your_shoes,66361369|WD~please_take_off_your_shoes,66361369]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
 Nomenclature_for_Museum_Cataloging: 591
 OmegaWiki_Defined_Meaning: 6563
 IMDb_keyword: mosque
@@ -379,7 +379,7 @@ dv_has_:
     zh_cn: 清真寺
     zh_hans: 清真寺
     zh_hant: 清真寺
-  parent_class: '[[../PlaceOfWorship]]'
+  parent_class: '[[../PlaceOfWorship|PlaceOfWorship]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:
   same_as:
@@ -391,7 +391,7 @@ dv_is_:
   - '[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.private|Mosque.private]]'
   - '[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.personal|Mosque.personal]]'
   - '[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.secret|Mosque.secret]]'
-dv_has_parent_class: '[[../PlaceOfWorship]]'
+dv_has_parent_class: '[[../PlaceOfWorship|PlaceOfWorship]]'
 dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
 - '[[../../../../../WikiData/WD~Mosque,32815|WD~Mosque,32815]]'

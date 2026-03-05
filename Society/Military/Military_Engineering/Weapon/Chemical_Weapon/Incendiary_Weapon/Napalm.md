@@ -29,11 +29,11 @@ aliases:
 - 네이팜탄
 has_id_wikidata: Q181822
 subclass_of:
-- '[[_Standards/WikiData/WD~mixture,169336]]'
-- '[[_Standards/WikiData/WD~fuel,42501]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Louis_Fieser,384156]]'
-has_use: '[[_Standards/WikiData/WD~incendiary_weapon,898389]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~mixture,169336|WD~mixture,169336]]'
+- '[[_Standards/WikiData/WD~fuel,42501|WD~fuel,42501]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Louis_Fieser,384156|WD~Louis_Fieser,384156]]'
+has_use: '[[_Standards/WikiData/WD~incendiary_weapon,898389|WD~incendiary_weapon,898389]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 Commons_gallery: Napalm
 Commons_category: Napalm
 U_S_National_Archives_Identifier: 10645858

@@ -55,12 +55,12 @@ aliases:
 - 节奏蓝调
 - 리듬 앤 블루스
 has_id_wikidata: Q45981
-instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
-subclass_of: '[[_Standards/WikiData/WD~popular_music,373342]]'
-different_from: '[[_Standards/WikiData/WD~Rythm_and_Blues,9325115]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Rhythm_and_blues,14338004]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_R&B_and_Soul_Music,55408346]]'
-described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+subclass_of: '[[_Standards/WikiData/WD~popular_music,373342|WD~popular_music,373342]]'
+different_from: '[[_Standards/WikiData/WD~Rythm_and_Blues,9325115|WD~Rythm_and_Blues,9325115]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Rhythm_and_blues,14338004|WD~Template_Rhythm_and_blues,14338004]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_R&B_and_Soul_Music,55408346|WD~Portal_R&B_and_Soul_Music,55408346]]'
+described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149|WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
 IAB_code: 362
 short_name: R&B
 IMDb_keyword: rhythm-and-blues

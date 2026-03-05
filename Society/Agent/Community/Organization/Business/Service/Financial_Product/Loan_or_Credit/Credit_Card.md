@@ -258,7 +258,7 @@ Commonly used values:
 <li>http://purl.org/goodrelations/v1#VISA</li>
 </ul>
 
-#has_/parent_class :: [[../LoanOrCredit, PaymentCard]]  
+#has_/parent_class :: [[../LoanOrCredit, PaymentCard|LoanOrCredit, PaymentCard]]  
 
 #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, cashBack, category, contactlessPayment, currency, description, disambiguatingDescription, feesAndCommissionsSpecification, floorLimit, gracePeriod, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, loanRepaymentForm, loanTerm, loanType, logo, mainEntityOfPage, monthlyMinimumRepaymentAmount, name, offers, potentialAction, produces, provider, providerMobility, recourseLoan, renegotiableLoan, requiredCollateral, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ]  
 

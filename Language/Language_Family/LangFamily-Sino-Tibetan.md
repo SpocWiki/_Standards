@@ -122,7 +122,7 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Sino-Tibeta
 Glottolog_code: sino1245
 GOST_7_75_97_code: сит 601
 IETF_language_tag: sit
-instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
 ISO_639_2_code: sit
 ISO_639_5_code: sit
 ISO_639_6_code: snot
@@ -132,15 +132,15 @@ Linguist_List_code: sitb
 number_of_speakers_writers_or_signers: 1200000000
 Stack_Exchange_tag: https://languages.stackexchange.com/tags/sino-tibetan
 subclass_of:
-- '[[_Standards/WikiData/WD~Dené_Caucasian,507968]]'
-- '[[_Standards/WikiData/WD~Sino-Austronesian,7524744]]'
-- '[[_Standards/WikiData/WD~Sino-Tibetan-Indo-European,97690709]]'
-- '[[_Standards/WikiData/WD~Asian_languages,98791755]]'
+- '[[_Standards/WikiData/WD~Dené_Caucasian,507968|WD~Dené_Caucasian,507968]]'
+- '[[_Standards/WikiData/WD~Sino-Austronesian,7524744|WD~Sino-Austronesian,7524744]]'
+- '[[_Standards/WikiData/WD~Sino-Tibetan-Indo-European,97690709|WD~Sino-Tibetan-Indo-European,97690709]]'
+- '[[_Standards/WikiData/WD~Asian_languages,98791755|WD~Asian_languages,98791755]]'
 tags:
 - Lang_Family
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Q10500323,10500323]]'
-- '[[_Standards/WikiData/WD~Template_Sino-Tibetan_branches,22768844]]'
+- '[[_Standards/WikiData/WD~Q10500323,10500323|WD~Q10500323,10500323]]'
+- '[[_Standards/WikiData/WD~Template_Sino-Tibetan_branches,22768844|WD~Template_Sino-Tibetan_branches,22768844]]'
 type: LangFamily
 WALS_family_code: sinotibetan
 dv_has_:

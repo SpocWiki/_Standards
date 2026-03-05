@@ -77,16 +77,16 @@ aliases:
 - 海鲜
 - 해산물
 has_id_wikidata: Q192935
-history_of_topic: '[[_Standards/WikiData/WD~history_of_seafood,764434]]'
-has_effect: '[[_Standards/WikiData/WD~seafood_allergy,1275863]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_seafood,764434|WD~history_of_seafood,764434]]'
+has_effect: '[[_Standards/WikiData/WD~seafood_allergy,1275863|WD~seafood_allergy,1275863]]'
 instance_of:
-- '[[_Standards/WikiData/WD~cuisine,1778821]]'
-- '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Seafood,15985397]]'
+- '[[_Standards/WikiData/WD~cuisine,1778821|WD~cuisine,1778821]]'
+- '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951|WD~type_of_food_or_dish,19861951]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Seafood,15985397|WD~Template_Seafood,15985397]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-- '[[_Standards/WikiData/WD~aquatic_product,107166476]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~aquatic_product,107166476|WD~aquatic_product,107166476]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plateau%20van%20zeevruchten.jpg
 Commons_gallery: Seafood
 Commons_category: Seafood

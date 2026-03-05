@@ -1,7 +1,7 @@
 
 ## Multiple Implementation Inheritance 
 
-#has_/examples :: [[OO-Lang/Prog~C++]] 
+#has_/examples :: [[OO-Lang/Prog~C++|Prog~C++]] 
 
 That turned out to be complex to implement both for the Compiler and for the User. 
 

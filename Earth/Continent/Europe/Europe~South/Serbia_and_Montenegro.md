@@ -13,7 +13,7 @@ tags:
 type: Country
 dv_has_name_en: Serbia and Montenegro
 dv_has_name_de: Serbien-Montenegro
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: "[[../../Europe|Europe]]"
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 20.4667
 dv_has_place_latitude: 44.8167
@@ -55,7 +55,7 @@ has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 ![[Coat_of_arms_of_Serbia.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Serbia.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Serbia.mp3|Anthem-Serbia.mp3]]
 ![[Flag_of_Serbia.svg|350]]
 [Alcohol-l::]
 [Language-Id::]

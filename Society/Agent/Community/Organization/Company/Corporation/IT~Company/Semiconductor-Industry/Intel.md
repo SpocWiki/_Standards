@@ -99,9 +99,9 @@ aliases:
 # [[Intel]] 
 
 #has_/time_/started :: 1968-07-18 
-#has_/creator :: [[Intel/Moore,Gordon]] 
-#has_/creator :: [[Intel/Noyce,Robert]] 
-#has_/creator :: [[Intel/Grove,Andrew]] 
+#has_/creator :: [[Intel/Moore,Gordon|Moore,Gordon]] 
+#has_/creator :: [[Intel/Noyce,Robert|Noyce,Robert]] 
+#has_/creator :: [[Intel/Grove,Andrew|Grove,Andrew]] 
 #has_/previous_/item :: [[Fairchild_Semiconductor]] 
 
 
@@ -135,9 +135,9 @@ aliases:
 > Threading Building Blocks (TBB), and Xen.
 >
 > Intel (Integrated electronics) was founded on 1968-07-18, 
-> by semiconductor pioneers [[Intel/Moore,Gordon]] (of Moore's law) and [[Intel/Noyce,Robert]], 
+> by semiconductor pioneers [[Intel/Moore,Gordon|Moore,Gordon]] (of Moore's law) and [[Intel/Noyce,Robert|Noyce,Robert]], 
 > along with investor Arthur Rock, 
-> and is associated with the executive leadership and vision of [[Intel/Grove,Andrew]]. 
+> and is associated with the executive leadership and vision of [[Intel/Grove,Andrew|Grove,Andrew]]. 
 > 
 > The company was a key component 
 > of the rise of Silicon Valley as a high-tech center, 

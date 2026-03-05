@@ -58,13 +58,13 @@ aliases:
 - 電子遊戲發行商
 - 비디오 게임 퍼블리셔
 has_id_wikidata: Q1137109
-different_from: '[[_Standards/WikiData/WD~video_game_developer,210167]]'
-industry: '[[_Standards/WikiData/WD~video_game_industry,941594]]'
-has_list: '[[_Standards/WikiData/WD~list_of_video_game_publishers,1053990]]'
+different_from: '[[_Standards/WikiData/WD~video_game_developer,210167|WD~video_game_developer,210167]]'
+industry: '[[_Standards/WikiData/WD~video_game_industry,941594|WD~video_game_industry,941594]]'
+has_list: '[[_Standards/WikiData/WD~list_of_video_game_publishers,1053990|WD~list_of_video_game_publishers,1053990]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~business,4830453]]'
-- '[[_Standards/WikiData/WD~software_publisher,7554349]]'
-- '[[_Standards/WikiData/WD~video_game_company,112042224]]'
+- '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~software_publisher,7554349|WD~software_publisher,7554349]]'
+- '[[_Standards/WikiData/WD~video_game_company,112042224|WD~video_game_company,112042224]]'
 dv_has_:
   name_:
     af: videospeletjie-uitgewer
@@ -138,7 +138,7 @@ dv_has_:
 
 # [[Video_Game_Publisher]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~video_game_publisher,1137109]] 
+#is_/same_as :: [[_Standards/WikiData/WD~video_game_publisher,1137109|WD~video_game_publisher,1137109]] 
 
 ## #has_/text_of_/abstract 
 

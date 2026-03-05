@@ -38,11 +38,11 @@ dv_is_:
     - "[[is_drive_through_service]]"
 dv_is_drive_through_service: Boolean
 dv_has_:
-  domain: "[[../../../Earth/Geography/Place]]"
+  domain: "[[../../../Earth/Geography/Place|Place]]"
   name: is_drive_through_service
   range: Boolean
 dv_is_part_of: "pending:"
-dv_has_domain: "[[../../../Earth/Geography/Place]]"
+dv_has_domain: "[[../../../Earth/Geography/Place|Place]]"
 dv_has_name: is_drive_through_service
 dv_has_range: Boolean
 dv_is_same_as:
@@ -55,10 +55,10 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/Flags/is_drive_through_service.secret|is_drive_through_service.secret]]"
 ---
 
-Indicates whether some facility (e.g. [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment]] or [[../../../bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility]]) 
+Indicates whether some facility (e.g. [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|Food_Establishment]] or [[../../../bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility|Covid_Testing_Facility]]) 
 offers a service that can be used by driving through in a car. 
 
-In the case of [[../../../bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility]] 
+In the case of [[../../../bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility|Covid_Testing_Facility]] 
 such facilities could potentially help with social distancing from other potentially-infected users.
 
 Renamed from `hasDriveThroughService`, because it is a boolean Type. 

@@ -57,9 +57,9 @@ aliases:
 - 拉曼效應
 - 라만 산란
 has_id_wikidata: Q466824
-instance_of: '[[_Standards/WikiData/WD~effect,926230]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
-named_after: '[[_Standards/WikiData/WD~Chandrasekhara_Venkata_Raman,60429]]'
+instance_of: '[[_Standards/WikiData/WD~effect,926230|WD~effect,926230]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+named_after: '[[_Standards/WikiData/WD~Chandrasekhara_Venkata_Raman,60429|WD~Chandrasekhara_Venkata_Raman,60429]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Setup%20Raman%20Spectroscopy%20adapted%20from%20Thomas%20Schmid%20and%20Petra%20Dariz%20in%20Heritage%202%282%29%20%282019%29%201662-1683.png
 Commons_category: Raman spectroscopy
 dv_has_:
@@ -132,7 +132,7 @@ dv_has_:
 # [[Raman_Scattering]] 
 
 #is_/similar_to :: [[Rayleigh_Scattering]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Raman_scattering,466824]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Raman_scattering,466824|WD~Raman_scattering,466824]] 
 
 ## #has_/text_of_/abstract 
 

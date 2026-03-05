@@ -34,9 +34,9 @@ aliases:
 - 運動對
 - 면짝
 has_id_wikidata: Q526016
-subclass_of: '[[_Standards/WikiData/WD~linkage,1153014]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12545556,12545556]]'
-has_part_s_: '[[_Standards/WikiData/WD~physical_interface,64830866]]'
+subclass_of: '[[_Standards/WikiData/WD~linkage,1153014|WD~linkage,1153014]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12545556,12545556|WD~Q12545556,12545556]]'
+has_part_s_: '[[_Standards/WikiData/WD~physical_interface,64830866|WD~physical_interface,64830866]]'
 Commons_category: Kinematic pairs
 dv_has_:
   name_:

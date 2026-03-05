@@ -24,10 +24,10 @@ aliases:
 - 前方誤り訂正
 has_id_wikidata: Q989220
 subclass_of:
-- '[[_Standards/WikiData/WD~communication_protocol,132364]]'
-- '[[_Standards/WikiData/WD~error_detection_and_correction,1062839]]'
-instance_of: '[[_Standards/WikiData/WD~technique,2695280]]'
-uses: '[[_Standards/WikiData/WD~error_correction_code,55611017]]'
+- '[[_Standards/WikiData/WD~communication_protocol,132364|WD~communication_protocol,132364]]'
+- '[[_Standards/WikiData/WD~error_detection_and_correction,1062839|WD~error_detection_and_correction,1062839]]'
+instance_of: '[[_Standards/WikiData/WD~technique,2695280|WD~technique,2695280]]'
+uses: '[[_Standards/WikiData/WD~error_correction_code,55611017|WD~error_correction_code,55611017]]'
 dv_has_:
   name_:
     ar: خاصية تصحيح الخطأ

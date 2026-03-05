@@ -28,11 +28,11 @@ tags:
 title: has_child
 type: Predi_Relation
 dv_has_:
-  children: "[[../../../Society/Agent/Person]]"
-  domain: "[[../../../Society/Agent/Person]]"
+  children: "[[../../../Society/Agent/Person|Person]]"
+  domain: "[[../../../Society/Agent/Person|Person]]"
   name: has_child
-  range: "[[../../../Society/Agent/Person]]"
-dv_has_child: "[[../../../Society/Agent/Person]]"
+  range: "[[../../../Society/Agent/Person|Person]]"
+dv_has_child: "[[../../../Society/Agent/Person|Person]]"
 dv_is_:
   same_as:
     - "[[has_child|has_child]]"
@@ -43,9 +43,9 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_child.personal|has_child.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_child.secret|has_child.secret]]"
     - "[[has_child]]"
-dv_has_domain: "[[../../../Society/Agent/Person]]"
+dv_has_domain: "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: has_child
-dv_has_range: "[[../../../Society/Agent/Person]]"
+dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[has_child]]"
   - "[[/_public/schema-org/Relation/has/has_child.public|has_child.public]]"

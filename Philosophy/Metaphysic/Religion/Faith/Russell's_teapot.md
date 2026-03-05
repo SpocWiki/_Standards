@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Russell's_teapot]] 
 
-#is_/similar_to :: [[Monotheism/Pastafari]] 
+#is_/similar_to :: [[Monotheism/Pastafari|Pastafari]] 
 
 ## #has_/text_of_/abstract 
 

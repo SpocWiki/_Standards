@@ -94,15 +94,15 @@ aliases:
 - 온실
 has_id_wikidata: Q165044
 subclass_of:
-- '[[_Standards/WikiData/WD~vivarium,315630]]'
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~agricultural_structure,10480682]]'
-- '[[_Standards/WikiData/WD~garden_feature,112049379]]'
+- '[[_Standards/WikiData/WD~vivarium,315630|WD~vivarium,315630]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~agricultural_structure,10480682|WD~agricultural_structure,10480682]]'
+- '[[_Standards/WikiData/WD~garden_feature,112049379|WD~garden_feature,112049379]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-used_by: '[[_Standards/WikiData/WD~greenhouse_agriculture,3479981]]'
-part_of: '[[_Standards/WikiData/WD~building_integrated_agriculture,4986435]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+used_by: '[[_Standards/WikiData/WD~greenhouse_agriculture,3479981|WD~greenhouse_agriculture,3479981]]'
+part_of: '[[_Standards/WikiData/WD~building_integrated_agriculture,4986435|WD~building_integrated_agriculture,4986435]]'
 Nomenclature_for_Museum_Cataloging: 556
 DPLA_subject_term: Greenhouses
 subreddit: Greenhouses

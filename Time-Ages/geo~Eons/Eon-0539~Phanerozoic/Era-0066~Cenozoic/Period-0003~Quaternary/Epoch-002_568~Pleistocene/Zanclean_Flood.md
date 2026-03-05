@@ -26,8 +26,8 @@ aliases:
 - 贊克爾洪災
 - 잔클레 홍수
 has_id_wikidata: Q3612703
-location: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
-instance_of: '[[_Standards/WikiData/WD~flood,8068]]'
+location: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
+instance_of: '[[_Standards/WikiData/WD~flood,8068|WD~flood,8068]]'
 duration: 1
 point_in_time: -5330000-01-01T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Etapa4.jpg

@@ -27,19 +27,19 @@ aliases:
 - 리더스 다이제스트
 has_id_wikidata: Q371820
 founded_by:
-- '[[_Standards/WikiData/WD~Lila_Bell_Wallace,1824903]]'
-- '[[_Standards/WikiData/WD~DeWitt_Wallace,5244201]]'
-owner_of: '[[_Standards/WikiData/WD~11_Westferry_Circus,4547785]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~Trusted_Media_Brands,7300422]]'
-has_edition_or_translation: "[[_Standards/WikiData/WD~Selezione_dal_Reader's_Digest,16601414]]"
+- '[[_Standards/WikiData/WD~Lila_Bell_Wallace,1824903|WD~Lila_Bell_Wallace,1824903]]'
+- '[[_Standards/WikiData/WD~DeWitt_Wallace,5244201|WD~DeWitt_Wallace,5244201]]'
+owner_of: '[[_Standards/WikiData/WD~11_Westferry_Circus,4547785|WD~11_Westferry_Circus,4547785]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Trusted_Media_Brands,7300422|WD~Trusted_Media_Brands,7300422]]'
+has_edition_or_translation: "[[_Standards/WikiData/WD~Selezione_dal_Reader's_Digest,16601414|WD~Selezione_dal_Reader's_Digest,16601414]]"
 language_of_work_or_name:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
 publication_interval: 1
-instance_of: '[[_Standards/WikiData/WD~magazine,41298]]'
+instance_of: '[[_Standards/WikiData/WD~magazine,41298|WD~magazine,41298]]'
 ISSN_L: 0034-0375
 ISSN: 0034-0375
 described_at_URL: http://www.namebase.net:82/names/nn01.cgi?READERS_DIGEST_

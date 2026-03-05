@@ -46,12 +46,12 @@ aliases:
 - 圖示
 - 아이콘
 has_id_wikidata: Q138754
-different_from: '[[_Standards/WikiData/WD~Q223876,223876]]'
+different_from: '[[_Standards/WikiData/WD~Q223876,223876|WD~Q223876,223876]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~character,3241972]]'
-- '[[_Standards/WikiData/WD~graphical_user_interface_element,5597179]]'
+- '[[_Standards/WikiData/WD~character,3241972|WD~character,3241972]]'
+- '[[_Standards/WikiData/WD~graphical_user_interface_element,5597179|WD~graphical_user_interface_element,5597179]]'
 Wikidata_property: icon
-partially_coincident_with: '[[_Standards/WikiData/WD~pictogram,52827]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~pictogram,52827|WD~pictogram,52827]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Icons%20example.png
 ArchWiki_article:
 - Icons

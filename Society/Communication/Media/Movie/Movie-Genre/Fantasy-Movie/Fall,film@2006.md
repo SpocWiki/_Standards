@@ -1,5 +1,5 @@
 
-> The Fall is a 2006 adventure fantasy film directed and co-written by [[../Movie-Directors/Tarsem Singh]] 
+> The Fall is a 2006 adventure fantasy film directed and co-written by [[../Movie-Directors/Tarsem Singh|Tarsem Singh]] 
 > and starring Lee Pace, Catinca Untaru, and Justine Waddell. 
 > 
 > It is based on the screenplay of the 1981 Bulgarian film Yo Ho Ho by Valeri Petrov. 

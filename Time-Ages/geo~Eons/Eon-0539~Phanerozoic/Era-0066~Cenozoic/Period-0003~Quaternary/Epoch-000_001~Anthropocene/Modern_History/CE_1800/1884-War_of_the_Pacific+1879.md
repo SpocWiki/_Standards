@@ -60,28 +60,28 @@ aliases:
 - 硝石戰爭
 - 태평양 전쟁
 has_id_wikidata: Q152004
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 named_after:
-- '[[_Standards/WikiData/WD~centavo,1553039]]'
-- '[[_Standards/WikiData/WD~saltpeter,12970360]]'
-- '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~centavo,1553039|WD~centavo,1553039]]'
+- '[[_Standards/WikiData/WD~saltpeter,12970360|WD~saltpeter,12970360]]'
+- '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
 order_of_battle:
-- '[[_Standards/WikiData/WD~order_of_battle_of_the_Chilean_Army_during_the_Pacific_War,30904822]]'
-- '[[_Standards/WikiData/WD~order_of_battle_of_the_Bolivian_Army_during_the_Pacific_War,48781628]]'
+- '[[_Standards/WikiData/WD~order_of_battle_of_the_Chilean_Army_during_the_Pacific_War,30904822|WD~order_of_battle_of_the_Chilean_Army_during_the_Pacific_War,30904822]]'
+- '[[_Standards/WikiData/WD~order_of_battle_of_the_Bolivian_Army_during_the_Pacific_War,48781628|WD~order_of_battle_of_the_Bolivian_Army_during_the_Pacific_War,48781628]]'
 end_time: 1884-04-04T00:00:00Z
 start_time: 1879-04-05T00:00:00Z
 participant:
-- '[[_Standards/WikiData/WD~Chile,298]]'
-- '[[_Standards/WikiData/WD~Peru,419]]'
-- '[[_Standards/WikiData/WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Peru,419|WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Bolivia,750|WD~Bolivia,750]]'
 country:
-- '[[_Standards/WikiData/WD~Chile,298]]'
-- '[[_Standards/WikiData/WD~Peru,419]]'
-- '[[_Standards/WikiData/WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Peru,419|WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Bolivia,750|WD~Bolivia,750]]'
 location:
-- '[[_Standards/WikiData/WD~Peru,419]]'
-- '[[_Standards/WikiData/WD~Bolivia,750]]'
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+- '[[_Standards/WikiData/WD~Peru,419|WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Bolivia,750|WD~Bolivia,750]]'
+instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sinking%20of%20the%20Esmeralda%20during%20the%20battle%20of%20Iquique.jpg
 Commons_gallery: Óleos de la Guerra del Pacífico
 Commons_category: War of the Pacific

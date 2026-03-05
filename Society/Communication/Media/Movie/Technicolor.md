@@ -15,12 +15,12 @@ aliases:
 - 特藝七彩
 - 테크니컬러
 has_id_wikidata: Q674564
-award_received: '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
-instance_of: '[[_Standards/WikiData/WD~photographic_technique,1439691]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Herbert_Kalmus,12687644]]'
-subclass_of: '[[_Standards/WikiData/WD~color,22006653]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-location_of_formation: '[[_Standards/WikiData/WD~Boston,100]]'
+award_received: '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328|WD~Academy_Honorary_Award,727328]]'
+instance_of: '[[_Standards/WikiData/WD~photographic_technique,1439691|WD~photographic_technique,1439691]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Herbert_Kalmus,12687644|WD~Herbert_Kalmus,12687644]]'
+subclass_of: '[[_Standards/WikiData/WD~color,22006653|WD~color,22006653]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+location_of_formation: '[[_Standards/WikiData/WD~Boston,100|WD~Boston,100]]'
 Commons_category: Technicolor
 logo_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Technicolor.svg

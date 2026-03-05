@@ -50,13 +50,13 @@ aliases:
 - 게임 쇼
 has_id_wikidata: Q846662
 subclass_of:
-- '[[_Standards/WikiData/WD~reality_television,182415]]'
-- '[[_Standards/WikiData/WD~competition,841654]]'
-- '[[_Standards/WikiData/WD~concours,1967459]]'
-- '[[_Standards/WikiData/WD~game,11410]]'
+- '[[_Standards/WikiData/WD~reality_television,182415|WD~reality_television,182415]]'
+- '[[_Standards/WikiData/WD~competition,841654|WD~competition,841654]]'
+- '[[_Standards/WikiData/WD~concours,1967459|WD~concours,1967459]]'
+- '[[_Standards/WikiData/WD~game,11410|WD~game,11410]]'
 instance_of:
-- '[[_Standards/WikiData/WD~radio_genre,15961983]]'
-- '[[_Standards/WikiData/WD~television_genre,15961987]]'
+- '[[_Standards/WikiData/WD~radio_genre,15961983|WD~radio_genre,15961983]]'
+- '[[_Standards/WikiData/WD~television_genre,15961987|WD~television_genre,15961987]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wheel%20of%20Fortune%20Navy.jpg
 Commons_category: Game shows
 IMDb_keyword: quiz-game-show

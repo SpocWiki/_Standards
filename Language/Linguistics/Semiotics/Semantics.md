@@ -67,24 +67,24 @@ aliases:
 - 语义学
 - 의미론
 has_id_wikidata: Q39645
-is_the_study_of: '[[_Standards/WikiData/WD~meaning,183046]]'
+is_the_study_of: '[[_Standards/WikiData/WD~meaning,183046|WD~meaning,183046]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-- '[[_Standards/WikiData/WD~semantics,796212]]'
-- '[[_Standards/WikiData/WD~semantics,92789101]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~semantics,796212]]'
+- '[[_Standards/WikiData/WD~semantics,796212|WD~semantics,796212]]'
+- '[[_Standards/WikiData/WD~semantics,92789101|WD~semantics,92789101]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~semantics,796212|WD~semantics,796212]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~language_subsystem,66745531]]'
-- '[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Semantics,14449689]]'
-practiced_by: '[[_Standards/WikiData/WD~semanticist,123111556]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~language_subsystem,66745531|WD~language_subsystem,66745531]]'
+- '[[_Standards/WikiData/WD~branch_of_linguistics,135892289|WD~branch_of_linguistics,135892289]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Semantics,14449689|WD~Template_Semantics,14449689]]'
+practiced_by: '[[_Standards/WikiData/WD~semanticist,123111556|WD~semanticist,123111556]]'
 part_of:
-- '[[_Standards/WikiData/WD~linguistics,8162]]'
-- '[[_Standards/WikiData/WD~semiotics,60195]]'
-subclass_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
+- '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
+- '[[_Standards/WikiData/WD~semiotics,60195|WD~semiotics,60195]]'
+subclass_of: '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
 OmegaWiki_Defined_Meaning: 414911
 Dewey_Decimal_Classification: 401.43
 PhilPapers_topic: semantics

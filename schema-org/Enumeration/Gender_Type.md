@@ -26,7 +26,7 @@ tags:
 title: is_a_gender_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Gender_Type|Gender_Type]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Gender_Type.personal|Gender_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Gender_Type.secret|Gender_Type.secret]]"
     - "[[Gender_Type]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Gender_Type]]"
   - "[[/_public/schema-org/Enumeration/Gender_Type.public|Gender_Type.public]]"

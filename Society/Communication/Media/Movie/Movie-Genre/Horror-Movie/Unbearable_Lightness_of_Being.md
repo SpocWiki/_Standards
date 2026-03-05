@@ -47,23 +47,23 @@ aliases:
 - 生命中不能承受之轻
 - 참을 수 없는 존재의 가벼움
 has_id_wikidata: Q917055
-author: '[[_Standards/WikiData/WD~Milan_Kundera,93166]]'
-derivative_work: '[[_Standards/WikiData/WD~The_Unbearable_Lightness_of_Being,1122571]]'
-different_from: '[[_Standards/WikiData/WD~The_Unbearable_Lightness_of_Being,1122571]]'
-instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+author: '[[_Standards/WikiData/WD~Milan_Kundera,93166|WD~Milan_Kundera,93166]]'
+derivative_work: '[[_Standards/WikiData/WD~The_Unbearable_Lightness_of_Being,1122571|WD~The_Unbearable_Lightness_of_Being,1122571]]'
+different_from: '[[_Standards/WikiData/WD~The_Unbearable_Lightness_of_Being,1122571|WD~The_Unbearable_Lightness_of_Being,1122571]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634|WD~literary_work,7725634]]'
 characters:
-- '[[_Standards/WikiData/WD~Tereza,17716070]]'
-- '[[_Standards/WikiData/WD~Sabina,17716439]]'
-- '[[_Standards/WikiData/WD~Tomáš,18918303]]'
-genre: '[[_Standards/WikiData/WD~philosophical_fiction,20737414]]'
+- '[[_Standards/WikiData/WD~Tereza,17716070|WD~Tereza,17716070]]'
+- '[[_Standards/WikiData/WD~Sabina,17716439|WD~Sabina,17716439]]'
+- '[[_Standards/WikiData/WD~Tomáš,18918303|WD~Tomáš,18918303]]'
+genre: '[[_Standards/WikiData/WD~philosophical_fiction,20737414|WD~philosophical_fiction,20737414]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~Q50326783,50326783]]'
-- '[[_Standards/WikiData/WD~Nesnesitelná_lehkost_bytí,50326809]]'
-- '[[_Standards/WikiData/WD~L_insoutenable_légèreté_de_l_être,50326832]]'
-- '[[_Standards/WikiData/WD~Q50326877,50326877]]'
-- '[[_Standards/WikiData/WD~Die_unerträgliche_Leichtigkeit_des_Seins,50326890]]'
-form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~Czech,9056]]'
+- '[[_Standards/WikiData/WD~Q50326783,50326783|WD~Q50326783,50326783]]'
+- '[[_Standards/WikiData/WD~Nesnesitelná_lehkost_bytí,50326809|WD~Nesnesitelná_lehkost_bytí,50326809]]'
+- '[[_Standards/WikiData/WD~L_insoutenable_légèreté_de_l_être,50326832|WD~L_insoutenable_légèreté_de_l_être,50326832]]'
+- '[[_Standards/WikiData/WD~Q50326877,50326877|WD~Q50326877,50326877]]'
+- '[[_Standards/WikiData/WD~Die_unerträgliche_Leichtigkeit_des_Seins,50326890|WD~Die_unerträgliche_Leichtigkeit_des_Seins,50326890]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261|WD~novel,8261]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Czech,9056|WD~Czech,9056]]'
 title:
 - The Unbearable Lightness of Being
 - Nesnesitelná lehkost bytí

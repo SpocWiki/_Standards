@@ -37,7 +37,7 @@ dv_is_:
     - "[[Property_Value_Specification]]"
 dv_has_:
   parent_class:
-    - "[[../Intangible]]"
+    - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
     - "[[../../../Property/has_name/has_name_alternate|alternateName]]"
@@ -63,7 +63,7 @@ dv_has_:
     - "[[../../../Property/Texts/has_value_pattern|has_value_pattern]]"
     - "[[../../../Property/Flags/is_value_required|is_value_required]]"
 dv_has_parent_class:
-  - "[[../Intangible]]"
+  - "[[../Intangible|Intangible]]"
 dv_has_properties:
   - "[[../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
   - "[[../../../Property/has_name/has_name_alternate|alternateName]]"

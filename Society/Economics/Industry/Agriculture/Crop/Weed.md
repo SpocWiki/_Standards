@@ -92,13 +92,13 @@ aliases:
 - 잡초
 has_id_wikidata: Q101879
 subclass_of:
-- '[[_Standards/WikiData/WD~pest,219174]]'
-- '[[_Standards/WikiData/WD~plant,756]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Beikraut,814728]]'
-different_from: '[[_Standards/WikiData/WD~Q10857265,10857265]]'
+- '[[_Standards/WikiData/WD~pest,219174|WD~pest,219174]]'
+- '[[_Standards/WikiData/WD~plant,756|WD~plant,756]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Beikraut,814728|WD~Beikraut,814728]]'
+different_from: '[[_Standards/WikiData/WD~Q10857265,10857265|WD~Q10857265,10857265]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823|WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 OmegaWiki_Defined_Meaning: 4134
 Commons_gallery: Weed
 U_S_National_Archives_Identifier: 10662855

@@ -123,24 +123,24 @@ aliases:
 - 컴퓨터 프로그램
 - 프로그람
 has_id_wikidata: Q40056
-has_cause: '[[_Standards/WikiData/WD~source_code,128751]]'
-different_from: '[[_Standards/WikiData/WD~process,205663]]'
+has_cause: '[[_Standards/WikiData/WD~source_code,128751|WD~source_code,128751]]'
+different_from: '[[_Standards/WikiData/WD~process,205663|WD~process,205663]]'
 part_of:
-- '[[_Standards/WikiData/WD~software_suite,1143070]]'
-- '[[_Standards/WikiData/WD~vampire,56822593]]'
-- '[[_Standards/WikiData/WD~software,7397]]'
+- '[[_Standards/WikiData/WD~software_suite,1143070|WD~software_suite,1143070]]'
+- '[[_Standards/WikiData/WD~vampire,56822593|WD~vampire,56822593]]'
+- '[[_Standards/WikiData/WD~software,7397|WD~software,7397]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~program,4303335]]'
-- '[[_Standards/WikiData/WD~routine,11491547]]'
+- '[[_Standards/WikiData/WD~program,4303335|WD~program,4303335]]'
+- '[[_Standards/WikiData/WD~routine,11491547|WD~routine,11491547]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~application_domain,5289798]]'
-- '[[_Standards/WikiData/WD~program_lifecycle_phase,7248421]]'
-- '[[_Standards/WikiData/WD~programming_language,9143]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_software,5621231]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~computer_program,134875415]]'
-manifestation_of: '[[_Standards/WikiData/WD~software,7397]]'
-field_of_work: '[[_Standards/WikiData/WD~information_technology,11661]]'
-uses: '[[_Standards/WikiData/WD~machine_code,55813]]'
+- '[[_Standards/WikiData/WD~application_domain,5289798|WD~application_domain,5289798]]'
+- '[[_Standards/WikiData/WD~program_lifecycle_phase,7248421|WD~program_lifecycle_phase,7248421]]'
+- '[[_Standards/WikiData/WD~programming_language,9143|WD~programming_language,9143]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_software,5621231|WD~Template_Infobox_software,5621231]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~computer_program,134875415|WD~computer_program,134875415]]'
+manifestation_of: '[[_Standards/WikiData/WD~software,7397|WD~software,7397]]'
+field_of_work: '[[_Standards/WikiData/WD~information_technology,11661|WD~information_technology,11661]]'
+uses: '[[_Standards/WikiData/WD~machine_code,55813|WD~machine_code,55813]]'
 OmegaWiki_Defined_Meaning: 479859
 Commons_category: Software
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Object-Oriented-Programming-Methods-And-Classes-with-Inheritance.png

@@ -59,22 +59,22 @@ aliases:
 - 滑雪板
 - 스키판
 has_id_wikidata: Q172226
-sport: '[[_Standards/WikiData/WD~skiing,130949]]'
+sport: '[[_Standards/WikiData/WD~skiing,130949|WD~skiing,130949]]'
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sports_equipment,768186]]'
-- '[[_Standards/WikiData/WD~means_of_transport,106839123]]'
-- '[[_Standards/WikiData/WD~skiing_&_snowboarding_equipment,117209093]]'
-different_from: '[[_Standards/WikiData/WD~runner,3381460]]'
-instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
-has_part_s_: '[[_Standards/WikiData/WD~ski_tip,112964616]]'
+- '[[_Standards/WikiData/WD~sports_equipment,768186|WD~sports_equipment,768186]]'
+- '[[_Standards/WikiData/WD~means_of_transport,106839123|WD~means_of_transport,106839123]]'
+- '[[_Standards/WikiData/WD~skiing_&_snowboarding_equipment,117209093|WD~skiing_&_snowboarding_equipment,117209093]]'
+different_from: '[[_Standards/WikiData/WD~runner,3381460|WD~runner,3381460]]'
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
+has_part_s_: '[[_Standards/WikiData/WD~ski_tip,112964616|WD~ski_tip,112964616]]'
 Nomenclature_for_Museum_Cataloging: 14639
 Commons_category: Skis
 name: Schneeschuh

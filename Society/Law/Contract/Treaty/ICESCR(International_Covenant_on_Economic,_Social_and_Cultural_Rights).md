@@ -68,33 +68,33 @@ aliases:
 - ꯃꯥꯂꯦꯝꯒꯤ ꯂꯩꯄꯥꯛꯁꯤꯡꯒꯤ ꯃꯔꯛꯇ ꯁꯦꯟꯃꯤꯠꯂꯣꯟ, ꯈꯨꯟꯅꯥꯢ ꯑꯃꯁꯨꯡ ꯆꯠꯅꯂꯣꯟꯒꯤ ꯐꯪꯐꯝ ꯊꯣꯛꯄꯁꯤꯡꯒꯤ ꯃꯇꯥꯡꯗ ꯌꯥꯅꯕ
 - 경제적, 사회적 및 문화적 권리에 관한 국제규약
 has_id_wikidata: Q457862
-depositary: '[[_Standards/WikiData/WD~United_Nations_Secretary_General,81066]]'
+depositary: '[[_Standards/WikiData/WD~United_Nations_Secretary_General,81066|WD~United_Nations_Secretary_General,81066]]'
 part_of:
-- '[[_Standards/WikiData/WD~international_human_rights_law,1147615]]'
-- '[[_Standards/WikiData/WD~International_Bill_of_Human_Rights,1328552]]'
-- '[[_Standards/WikiData/WD~international_human_rights_instrument,1414472]]'
-- '[[_Standards/WikiData/WD~Q3820803,3820803]]'
-- '[[_Standards/WikiData/WD~United_Nations_General_Assembly_Resolution_2200_A,108882167]]'
+- '[[_Standards/WikiData/WD~international_human_rights_law,1147615|WD~international_human_rights_law,1147615]]'
+- '[[_Standards/WikiData/WD~International_Bill_of_Human_Rights,1328552|WD~International_Bill_of_Human_Rights,1328552]]'
+- '[[_Standards/WikiData/WD~international_human_rights_instrument,1414472|WD~international_human_rights_instrument,1414472]]'
+- '[[_Standards/WikiData/WD~Q3820803,3820803|WD~Q3820803,3820803]]'
+- '[[_Standards/WikiData/WD~United_Nations_General_Assembly_Resolution_2200_A,108882167|WD~United_Nations_General_Assembly_Resolution_2200_A,108882167]]'
 instance_of:
-- '[[_Standards/WikiData/WD~international_human_rights_instrument,1414472]]'
-- '[[_Standards/WikiData/WD~United_Nations_treaty,1691434]]'
-- '[[_Standards/WikiData/WD~written_work,47461344]]'
-- '[[_Standards/WikiData/WD~core_international_human_rights_instrument,79700418]]'
+- '[[_Standards/WikiData/WD~international_human_rights_instrument,1414472|WD~international_human_rights_instrument,1414472]]'
+- '[[_Standards/WikiData/WD~United_Nations_treaty,1691434|WD~United_Nations_treaty,1691434]]'
+- '[[_Standards/WikiData/WD~written_work,47461344|WD~written_work,47461344]]'
+- '[[_Standards/WikiData/WD~core_international_human_rights_instrument,79700418|WD~core_international_human_rights_instrument,79700418]]'
 different_from:
-- '[[_Standards/WikiData/WD~Committee_on_Economic,_Social_and_Cultural_Rights,1428380]]'
-- '[[_Standards/WikiData/WD~United_Nations_Document_A_RES_2200(XXI),19022908]]'
+- '[[_Standards/WikiData/WD~Committee_on_Economic,_Social_and_Cultural_Rights,1428380|WD~Committee_on_Economic,_Social_and_Cultural_Rights,1428380]]'
+- '[[_Standards/WikiData/WD~United_Nations_Document_A_RES_2200(XXI),19022908|WD~United_Nations_Document_A_RES_2200(XXI),19022908]]'
 main_subject:
-- '[[_Standards/WikiData/WD~social_rights,1987559]]'
-- '[[_Standards/WikiData/WD~cultural_rights,5193405]]'
-- '[[_Standards/WikiData/WD~economic_rights,11826710]]'
+- '[[_Standards/WikiData/WD~social_rights,1987559|WD~social_rights,1987559]]'
+- '[[_Standards/WikiData/WD~cultural_rights,5193405|WD~cultural_rights,5193405]]'
+- '[[_Standards/WikiData/WD~economic_rights,11826710|WD~economic_rights,11826710]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-- '[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]'
-foundational_text: '[[_Standards/WikiData/WD~United_Nations_Document_A_RES_2200(XXI),19022908]]'
-has_edition_or_translation: '[[_Standards/WikiData/WD~Q128898331,128898331]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~Czech,9056]]'
-applies_to_jurisdiction: '[[_Standards/WikiData/WD~Guernsey,25230]]'
-author: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962|WD~WikiForHumanRights_2019,78499962]]'
+foundational_text: '[[_Standards/WikiData/WD~United_Nations_Document_A_RES_2200(XXI),19022908|WD~United_Nations_Document_A_RES_2200(XXI),19022908]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~Q128898331,128898331|WD~Q128898331,128898331]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Czech,9056|WD~Czech,9056]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~Guernsey,25230|WD~Guernsey,25230]]'
+author: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
 United_Nations_Treaty_Series_registration_number: 14531
 publication_date: 1967-01-01T00:00:00Z
 inception: 1966-12-16T00:00:00Z

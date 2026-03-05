@@ -56,18 +56,18 @@ aliases:
 - 오리엔티어링
 has_id_wikidata: Q29358
 subclass_of:
-- '[[_Standards/WikiData/WD~cross_country_running,500050]]'
-- '[[_Standards/WikiData/WD~sports_in_nature,3493904]]'
+- '[[_Standards/WikiData/WD~cross_country_running,500050|WD~cross_country_running,500050]]'
+- '[[_Standards/WikiData/WD~sports_in_nature,3493904|WD~sports_in_nature,3493904]]'
 uses:
-- '[[_Standards/WikiData/WD~orienteering_map,1974665]]'
-- '[[_Standards/WikiData/WD~compass,34735]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q10815200,10815200]]'
+- '[[_Standards/WikiData/WD~orienteering_map,1974665|WD~orienteering_map,1974665]]'
+- '[[_Standards/WikiData/WD~compass,34735|WD~compass,34735]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q10815200,10815200|WD~Q10815200,10815200]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~urban_orienteering,10929917]]'
-- '[[_Standards/WikiData/WD~orientation,122276631]]'
-practiced_by: '[[_Standards/WikiData/WD~orienteer,13581129]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Orienteering,14338484]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~urban_orienteering,10929917|WD~urban_orienteering,10929917]]'
+- '[[_Standards/WikiData/WD~orientation,122276631|WD~orientation,122276631]]'
+practiced_by: '[[_Standards/WikiData/WD~orienteer,13581129|WD~orienteer,13581129]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Orienteering,14338484|WD~Template_Orienteering,14338484]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 Stadtwiki_Dresden_article: Orientierungslauf
 OpenStreetMap_key: orienteering
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Orienteering%20Compass.jpg

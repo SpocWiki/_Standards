@@ -166,43 +166,43 @@ aliases:
 - 토마토
 has_id_wikidata: Q23501
 has_use:
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~fruit_vegetable,1470762]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~fruit_vegetable,1470762|WD~fruit_vegetable,1470762]]'
 is_pollinated_by:
-- '[[_Standards/WikiData/WD~Bombus_pascuorum,267532]]'
-- '[[_Standards/WikiData/WD~Trigona_fulviventris,2132968]]'
-- '[[_Standards/WikiData/WD~Bombus_sonorus,2205436]]'
-- '[[_Standards/WikiData/WD~Augochlora_pura,5517118]]'
-- '[[_Standards/WikiData/WD~Xylocopa_tabaniformis_orpifex,49596531]]'
-- '[[_Standards/WikiData/WD~Pieris_rapae,27653]]'
-different_from: '[[_Standards/WikiData/WD~Lycopersicon,544652]]'
+- '[[_Standards/WikiData/WD~Bombus_pascuorum,267532|WD~Bombus_pascuorum,267532]]'
+- '[[_Standards/WikiData/WD~Trigona_fulviventris,2132968|WD~Trigona_fulviventris,2132968]]'
+- '[[_Standards/WikiData/WD~Bombus_sonorus,2205436|WD~Bombus_sonorus,2205436]]'
+- '[[_Standards/WikiData/WD~Augochlora_pura,5517118|WD~Augochlora_pura,5517118]]'
+- '[[_Standards/WikiData/WD~Xylocopa_tabaniformis_orpifex,49596531|WD~Xylocopa_tabaniformis_orpifex,49596531]]'
+- '[[_Standards/WikiData/WD~Pieris_rapae,27653|WD~Pieris_rapae,27653]]'
+different_from: '[[_Standards/WikiData/WD~Lycopersicon,544652|WD~Lycopersicon,544652]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~tomato_juice,787325]]'
-- '[[_Standards/WikiData/WD~tomato,20638126]]'
-- '[[_Standards/WikiData/WD~tomato_skin,132398820]]'
-award_received: '[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]'
-subclass_of: '[[_Standards/WikiData/WD~fruit_vegetable,1470762]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Lycopersicon_esculentum,15530945]]'
-basionym_of: '[[_Standards/WikiData/WD~Lycopersicon_lycopersicum_H.Karst._(1882),28563542]]'
+- '[[_Standards/WikiData/WD~tomato_juice,787325|WD~tomato_juice,787325]]'
+- '[[_Standards/WikiData/WD~tomato,20638126|WD~tomato,20638126]]'
+- '[[_Standards/WikiData/WD~tomato_skin,132398820|WD~tomato_skin,132398820]]'
+award_received: '[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055|WD~Vegetable_of_the_year,1344055]]'
+subclass_of: '[[_Standards/WikiData/WD~fruit_vegetable,1470762|WD~fruit_vegetable,1470762]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Lycopersicon_esculentum,15530945|WD~Lycopersicon_esculentum,15530945]]'
+basionym_of: '[[_Standards/WikiData/WD~Lycopersicon_lycopersicum_H.Karst._(1882),28563542|WD~Lycopersicon_lycopersicum_H.Karst._(1882),28563542]]'
 instance_of:
-- '[[_Standards/WikiData/WD~food_crop,31839438]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
+- '[[_Standards/WikiData/WD~food_crop,31839438|WD~food_crop,31839438]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131|WD~2,99546131]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Gabon,1000]]'
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-has_fruit_type: '[[_Standards/WikiData/WD~berry,13184]]'
+- '[[_Standards/WikiData/WD~Gabon,1000|WD~Gabon,1000]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269|WD~Tibet_Autonomous_Region,17269]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+has_fruit_type: '[[_Standards/WikiData/WD~berry,13184|WD~berry,13184]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Bright%20red%20tomato%20and%20cross%20section02.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Pomodorini%20sulla%20pianta.jpg

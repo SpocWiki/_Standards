@@ -93,28 +93,28 @@ aliases:
 - 인어
 has_id_wikidata: Q182559
 different_from:
-- '[[_Standards/WikiData/WD~siren,150986]]'
-- '[[_Standards/WikiData/WD~Rusalka,336237]]'
-- '[[_Standards/WikiData/WD~merfolk_in_a_work_of_fiction,30168533]]'
+- '[[_Standards/WikiData/WD~siren,150986|WD~siren,150986]]'
+- '[[_Standards/WikiData/WD~Rusalka,336237|WD~Rusalka,336237]]'
+- '[[_Standards/WikiData/WD~merfolk_in_a_work_of_fiction,30168533|WD~merfolk_in_a_work_of_fiction,30168533]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~siren,150986]]'
-- '[[_Standards/WikiData/WD~Pharaonka,4481191]]'
+- '[[_Standards/WikiData/WD~siren,150986|WD~siren,150986]]'
+- '[[_Standards/WikiData/WD~Pharaonka,4481191|WD~Pharaonka,4481191]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~human_torso,2261656]]'
-- '[[_Standards/WikiData/WD~fin,4162555]]'
+- '[[_Standards/WikiData/WD~human_torso,2261656|WD~human_torso,2261656]]'
+- '[[_Standards/WikiData/WD~fin,4162555|WD~fin,4162555]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~waterwoman,2550974]]'
-- '[[_Standards/WikiData/WD~merfolk,69379490]]'
-opposite_of: '[[_Standards/WikiData/WD~merman,4995044]]'
-sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mermaids,18857158]]'
+- '[[_Standards/WikiData/WD~waterwoman,2550974|WD~waterwoman,2550974]]'
+- '[[_Standards/WikiData/WD~merfolk,69379490|WD~merfolk,69379490]]'
+opposite_of: '[[_Standards/WikiData/WD~merman,4995044|WD~merman,4995044]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072|WD~female,6581072]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mermaids,18857158|WD~Portal_Mermaids,18857158]]'
 Commons_category: Mermaids
 IMDb_keyword: mermaid
 Commons_gallery: Mermaid

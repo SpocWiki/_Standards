@@ -93,29 +93,29 @@ aliases:
 has_id_wikidata: Q35865
 Commons_category: Inflation
 described_by_source:
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-different_from: '[[_Standards/WikiData/WD~Inflation,1175643]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106|WD~Kazakhstan._National_encyclopedia,4208106]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+different_from: '[[_Standards/WikiData/WD~Inflation,1175643|WD~Inflation,1175643]]'
 Gujarati_Vishwakosh_entry: ફુગાવો-inflation
 Iconclass_notation: 46B932
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/CPI%20GDP%20M2%20and%20Velocity.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Cpis.PNG
 instance_of:
-- '[[_Standards/WikiData/WD~phenomenon,483247]]'
-- '[[_Standards/WikiData/WD~economic_concept,29028649]]'
+- '[[_Standards/WikiData/WD~phenomenon,483247|WD~phenomenon,483247]]'
+- '[[_Standards/WikiData/WD~economic_concept,29028649|WD~economic_concept,29028649]]'
 IPTC_NewsCode: mediatopic/20000370
 Library_of_Congress_Classification: HD49.5
 MeSH_tree_code: N03.219.680
 OmegaWiki_Defined_Meaning: 361080
-opposite_of: '[[_Standards/WikiData/WD~deflation,161081]]'
+opposite_of: '[[_Standards/WikiData/WD~deflation,161081|WD~deflation,161081]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Inflation.ogg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Inflatie-article.ogg
 studied_by:
-- '[[_Standards/WikiData/WD~financial_economics,2294553]]'
-- '[[_Standards/WikiData/WD~macroeconomics,39680]]'
-subclass_of: '[[_Standards/WikiData/WD~economic_problem,3539169]]'
+- '[[_Standards/WikiData/WD~financial_economics,2294553|WD~financial_economics,2294553]]'
+- '[[_Standards/WikiData/WD~macroeconomics,39680|WD~macroeconomics,39680]]'
+subclass_of: '[[_Standards/WikiData/WD~economic_problem,3539169|WD~economic_problem,3539169]]'
 UMLS_CUI: C0021398
 U_S_National_Archives_Identifier: 10638421
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Kurzerkl%C3%A4rt%2C%20Inflation%20-%20Tagesschau.webm

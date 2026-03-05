@@ -25,57 +25,57 @@ aliases:
 has_id_wikidata: Q57423
 birth_name: Johann Jakob Astor
 occupation:
-- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-- '[[_Standards/WikiData/WD~wholesaler,18242306]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524|WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~wholesaler,18242306|WD~wholesaler,18242306]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~The_Biographical_Dictionary_of_America,19079852]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-family: '[[_Standards/WikiData/WD~Astor_family,661575]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208|WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667|WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~The_Biographical_Dictionary_of_America,19079852|WD~The_Biographical_Dictionary_of_America,19079852]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+family: '[[_Standards/WikiData/WD~Astor_family,661575|WD~Astor_family,661575]]'
 child:
-- '[[_Standards/WikiData/WD~William_Backhouse_Astor,_Sr.,870607]]'
-- '[[_Standards/WikiData/WD~Henry_Astor,16206771]]'
-- '[[_Standards/WikiData/WD~unnamed_infant_son_Astor,75413941]]'
-- '[[_Standards/WikiData/WD~John_Jacob_Astor,75413945]]'
-- '[[_Standards/WikiData/WD~Magdalen_Astor,75414032]]'
-- '[[_Standards/WikiData/WD~Dorothea_Astor,75414042]]'
-- '[[_Standards/WikiData/WD~Sarah_Astor,75414040]]'
-- '[[_Standards/WikiData/WD~Eliza_Astor,75414066]]'
+- '[[_Standards/WikiData/WD~William_Backhouse_Astor,_Sr.,870607|WD~William_Backhouse_Astor,_Sr.,870607]]'
+- '[[_Standards/WikiData/WD~Henry_Astor,16206771|WD~Henry_Astor,16206771]]'
+- '[[_Standards/WikiData/WD~unnamed_infant_son_Astor,75413941|WD~unnamed_infant_son_Astor,75413941]]'
+- '[[_Standards/WikiData/WD~John_Jacob_Astor,75413945|WD~John_Jacob_Astor,75413945]]'
+- '[[_Standards/WikiData/WD~Magdalen_Astor,75414032|WD~Magdalen_Astor,75414032]]'
+- '[[_Standards/WikiData/WD~Dorothea_Astor,75414042|WD~Dorothea_Astor,75414042]]'
+- '[[_Standards/WikiData/WD~Sarah_Astor,75414040|WD~Sarah_Astor,75414040]]'
+- '[[_Standards/WikiData/WD~Eliza_Astor,75414066|WD~Eliza_Astor,75414066]]'
 given_name:
-- '[[_Standards/WikiData/WD~John,4925477]]'
-- '[[_Standards/WikiData/WD~Jacob,25999604]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-place_of_burial: '[[_Standards/WikiData/WD~Trinity_Church_Cemetery,7842673]]'
+- '[[_Standards/WikiData/WD~John,4925477|WD~John,4925477]]'
+- '[[_Standards/WikiData/WD~Jacob,25999604|WD~Jacob,25999604]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+place_of_burial: '[[_Standards/WikiData/WD~Trinity_Church_Cemetery,7842673|WD~Trinity_Church_Cemetery,7842673]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Vanderbilt_Mansion,7914443]]'
-- '[[_Standards/WikiData/WD~Astor_House,14706163]]'
-family_name: '[[_Standards/WikiData/WD~Astor,16479757]]'
-depicted_by: '[[_Standards/WikiData/WD~John_Jacob_Astor,28796817]]'
+- '[[_Standards/WikiData/WD~Vanderbilt_Mansion,7914443|WD~Vanderbilt_Mansion,7914443]]'
+- '[[_Standards/WikiData/WD~Astor_House,14706163|WD~Astor_House,14706163]]'
+family_name: '[[_Standards/WikiData/WD~Astor,16479757|WD~Astor,16479757]]'
+depicted_by: '[[_Standards/WikiData/WD~John_Jacob_Astor,28796817|WD~John_Jacob_Astor,28796817]]'
 date_of_birth: 1763-07-17T00:00:00Z
-mother: '[[_Standards/WikiData/WD~Maria_Magdalena,75413922]]'
-father: '[[_Standards/WikiData/WD~Johann_Jakob_Astor,75413920]]'
-spouse: '[[_Standards/WikiData/WD~Sarah_Todd,75413939]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
-partner_in_business_or_sport: '[[_Standards/WikiData/WD~Francis_W._Lasak,134646972]]'
+mother: '[[_Standards/WikiData/WD~Maria_Magdalena,75413922|WD~Maria_Magdalena,75413922]]'
+father: '[[_Standards/WikiData/WD~Johann_Jakob_Astor,75413920|WD~Johann_Jakob_Astor,75413920]]'
+spouse: '[[_Standards/WikiData/WD~Sarah_Todd,75413939|WD~Sarah_Todd,75413939]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359|WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+partner_in_business_or_sport: '[[_Standards/WikiData/WD~Francis_W._Lasak,134646972|WD~Francis_W._Lasak,134646972]]'
 date_of_death: 1848-03-29T00:00:00Z
-place_of_death: '[[_Standards/WikiData/WD~Manhattan,11299]]'
-place_of_birth: '[[_Standards/WikiData/WD~Walldorf,22872]]'
+place_of_death: '[[_Standards/WikiData/WD~Manhattan,11299|WD~Manhattan,11299]]'
+place_of_birth: '[[_Standards/WikiData/WD~Walldorf,22872|WD~Walldorf,22872]]'
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~Electoral_Palatinate,22880]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Electoral_Palatinate,22880|WD~Electoral_Palatinate,22880]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
 Commons_gallery: John Jacob Astor
 Commons_category: John Jacob Astor
 U_S_National_Archives_Identifier: 10569105

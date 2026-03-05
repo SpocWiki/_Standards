@@ -56,11 +56,11 @@ aliases:
 - 연대
 has_id_wikidata: Q815726
 different_from:
-- '[[_Standards/WikiData/WD~Solidarité,343953]]'
-- '[[_Standards/WikiData/WD~Solidarity,1003]]'
-subclass_of: '[[_Standards/WikiData/WD~social_relation,853725]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-opposite_of: '[[_Standards/WikiData/WD~non_solidarity,46904368]]'
+- '[[_Standards/WikiData/WD~Solidarité,343953|WD~Solidarité,343953]]'
+- '[[_Standards/WikiData/WD~Solidarity,1003|WD~Solidarity,1003]]'
+subclass_of: '[[_Standards/WikiData/WD~social_relation,853725|WD~social_relation,853725]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+opposite_of: '[[_Standards/WikiData/WD~non_solidarity,46904368|WD~non_solidarity,46904368]]'
 Commons_category: Solidarity
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Abramowski-braterstwo-solidarnosc-wspoldzialanie-okladka.png
 dv_has_:

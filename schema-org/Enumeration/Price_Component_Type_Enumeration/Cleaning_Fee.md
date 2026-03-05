@@ -28,8 +28,8 @@ title: is_a_cleaning_fee Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../PriceComponentTypeEnumeration]]"
-  enum_of: "[[../PriceComponentTypeEnumeration]]"
+  parent_class: "[[../PriceComponentTypeEnumeration|PriceComponentTypeEnumeration]]"
+  enum_of: "[[../PriceComponentTypeEnumeration|PriceComponentTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee|Cleaning_Fee]]"
     - "[[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.public|Cleaning_Fee.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.secret|Cleaning_Fee.secret]]"
     - "[[Cleaning_Fee]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../PriceComponentTypeEnumeration]]"
-dv_is_enum_of: "[[../PriceComponentTypeEnumeration]]"
+dv_has_parent_class: "[[../PriceComponentTypeEnumeration|PriceComponentTypeEnumeration]]"
+dv_is_enum_of: "[[../PriceComponentTypeEnumeration|PriceComponentTypeEnumeration]]"
 dv_is_same_as:
   - "[[Cleaning_Fee]]"
   - "[[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.public|Cleaning_Fee.public]]"

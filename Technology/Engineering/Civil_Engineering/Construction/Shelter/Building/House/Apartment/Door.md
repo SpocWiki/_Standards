@@ -117,32 +117,32 @@ aliases:
 - 문
 has_id_wikidata: Q36794
 has_part_s_:
-- '[[_Standards/WikiData/WD~peephole,82711]]'
-- '[[_Standards/WikiData/WD~door_lock,24644118]]'
-- '[[_Standards/WikiData/WD~door_handle,23009]]'
-- '[[_Standards/WikiData/WD~window,35473]]'
+- '[[_Standards/WikiData/WD~peephole,82711|WD~peephole,82711]]'
+- '[[_Standards/WikiData/WD~door_lock,24644118|WD~door_lock,24644118]]'
+- '[[_Standards/WikiData/WD~door_handle,23009|WD~door_handle,23009]]'
+- '[[_Standards/WikiData/WD~window,35473|WD~window,35473]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~obstacle,264661]]'
-- '[[../../../../../../../../WikiData/WD~architectural_element,391414]]'
-- '[[_Standards/WikiData/WD~appliance,1183543]]'
+- '[[_Standards/WikiData/WD~obstacle,264661|WD~obstacle,264661]]'
+- '[[../../../../../../../../WikiData/WD~architectural_element,391414|WD~architectural_element,391414]]'
+- '[[_Standards/WikiData/WD~appliance,1183543|WD~appliance,1183543]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556|WD~Diccionario_del_español_de_México,5805556]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 item_operated:
-- '[[_Standards/WikiData/WD~door_closer,1936189]]'
-- '[[_Standards/WikiData/WD~door_hinge,2464427]]'
+- '[[_Standards/WikiData/WD~door_closer,1936189|WD~door_closer,1936189]]'
+- '[[_Standards/WikiData/WD~door_hinge,2464427|WD~door_hinge,2464427]]'
 part_of:
-- '[[_Standards/WikiData/WD~tram,3407658]]'
-- '[[_Standards/WikiData/WD~doorway,21263223]]'
-- '[[_Standards/WikiData/WD~house,3947]]'
-- '[[_Standards/WikiData/WD~building,41176]]'
-- '[[_Standards/WikiData/WD~vehicle,42889]]'
-- '[[_Standards/WikiData/WD~wall,42948]]'
-connects_with: '[[_Standards/WikiData/WD~doorway,21263223]]'
-different_from: '[[_Standards/WikiData/WD~doorway,21263223]]'
+- '[[_Standards/WikiData/WD~tram,3407658|WD~tram,3407658]]'
+- '[[_Standards/WikiData/WD~doorway,21263223|WD~doorway,21263223]]'
+- '[[_Standards/WikiData/WD~house,3947|WD~house,3947]]'
+- '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
+- '[[_Standards/WikiData/WD~vehicle,42889|WD~vehicle,42889]]'
+- '[[_Standards/WikiData/WD~wall,42948|WD~wall,42948]]'
+connects_with: '[[_Standards/WikiData/WD~doorway,21263223|WD~doorway,21263223]]'
+different_from: '[[_Standards/WikiData/WD~doorway,21263223|WD~doorway,21263223]]'
 Nomenclature_for_Museum_Cataloging: 108
 Commons_category: Doors
 OmegaWiki_Defined_Meaning: 1253751

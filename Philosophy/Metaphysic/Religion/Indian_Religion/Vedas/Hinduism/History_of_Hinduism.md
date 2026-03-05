@@ -47,13 +47,13 @@ aliases:
 - 印度教历史
 - 힌두교의 역사
 has_id_wikidata: Q1192933
-part_of: '[[_Standards/WikiData/WD~history_of_religions,846742]]'
+part_of: '[[_Standards/WikiData/WD~history_of_religions,846742|WD~history_of_religions,846742]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~history_of_religions,846742]]'
-- '[[_Standards/WikiData/WD~Hindu_studies,5766501]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-facet_of: '[[_Standards/WikiData/WD~Hinduism,9089]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089]]'
+- '[[_Standards/WikiData/WD~history_of_religions,846742|WD~history_of_religions,846742]]'
+- '[[_Standards/WikiData/WD~Hindu_studies,5766501|WD~Hindu_studies,5766501]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Krishna%20Rukmini%20Satyabhama%20Garuda.jpg
 Stack_Exchange_tag: https://hinduism.stackexchange.com/tags/history
 Commons_category: History of Hinduism

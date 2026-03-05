@@ -69,20 +69,20 @@ aliases:
 - 관현악단
 has_id_wikidata: Q42998
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~instrumental_ensemble,11072804]]'
-- '[[_Standards/WikiData/WD~music_organization,32178211]]'
-different_from: '[[_Standards/WikiData/WD~Orkiestra,11799196]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_orchestra,16919565]]'
-members_have_occupation: '[[_Standards/WikiData/WD~orchestral_musician,99460544]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_musical_group,105756498]]'
+- '[[_Standards/WikiData/WD~instrumental_ensemble,11072804|WD~instrumental_ensemble,11072804]]'
+- '[[_Standards/WikiData/WD~music_organization,32178211|WD~music_organization,32178211]]'
+different_from: '[[_Standards/WikiData/WD~Orkiestra,11799196|WD~Orkiestra,11799196]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_orchestra,16919565|WD~Template_Infobox_orchestra,16919565]]'
+members_have_occupation: '[[_Standards/WikiData/WD~orchestral_musician,99460544|WD~orchestral_musician,99460544]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_group,105756498|WD~type_of_musical_group,105756498]]'
 OmegaWiki_Defined_Meaning: 483387
 U_S_National_Archives_Identifier: 10676179
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/ORKESTR.html

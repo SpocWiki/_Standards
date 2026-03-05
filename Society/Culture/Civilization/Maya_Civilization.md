@@ -107,34 +107,34 @@ aliases:
 - 馬雅
 - 마야 문명
 has_id_wikidata: Q28567
-location_of_formation: '[[_Standards/WikiData/WD~Yucatan_Peninsula,130978]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~city_state,133442]]'
+location_of_formation: '[[_Standards/WikiData/WD~Yucatan_Peninsula,130978|WD~Yucatan_Peninsula,130978]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~city_state,133442|WD~city_state,133442]]'
 has_works_in_the_collection:
-- '[[_Standards/WikiData/WD~Musée_du_quai_Branly,167863]]'
-- '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
-- "[[_Standards/WikiData/WD~Musée_de_l'Homme,670268]]"
+- '[[_Standards/WikiData/WD~Musée_du_quai_Branly,167863|WD~Musée_du_quai_Branly,167863]]'
+- '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303|WD~Art_Institute_of_Chicago,239303]]'
+- "[[_Standards/WikiData/WD~Musée_de_l'Homme,670268|WD~Musée_de_l'Homme,670268]]"
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_History,8486462]]'
-- '[[_Standards/WikiData/WD~WikiProject_Indigenous_peoples_of_the_Americas,13360854]]'
-- '[[_Standards/WikiData/WD~WikiProject_Central_America,15304977]]'
-- '[[_Standards/WikiData/WD~WikiProject_Former_countries,15304996]]'
-- '[[_Standards/WikiData/WD~WikiProject_Guatemala,15884842]]'
-- '[[_Standards/WikiData/WD~WikiProject_Mexico,16917942]]'
-- '[[_Standards/WikiData/WD~WikiProject_Mesoamerica,21830366]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Maya,9457439]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Maya_civilization,11881874]]'
-studied_by: '[[_Standards/WikiData/WD~Maya_studies,12771257]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Maya_civilization,16242103]]'
+- '[[_Standards/WikiData/WD~WikiProject_History,8486462|WD~WikiProject_History,8486462]]'
+- '[[_Standards/WikiData/WD~WikiProject_Indigenous_peoples_of_the_Americas,13360854|WD~WikiProject_Indigenous_peoples_of_the_Americas,13360854]]'
+- '[[_Standards/WikiData/WD~WikiProject_Central_America,15304977|WD~WikiProject_Central_America,15304977]]'
+- '[[_Standards/WikiData/WD~WikiProject_Former_countries,15304996|WD~WikiProject_Former_countries,15304996]]'
+- '[[_Standards/WikiData/WD~WikiProject_Guatemala,15884842|WD~WikiProject_Guatemala,15884842]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mexico,16917942|WD~WikiProject_Mexico,16917942]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mesoamerica,21830366|WD~WikiProject_Mesoamerica,21830366]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Maya,9457439|WD~Template_Maya,9457439]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Maya_civilization,11881874|WD~history_of_the_Maya_civilization,11881874]]'
+studied_by: '[[_Standards/WikiData/WD~Maya_studies,12771257|WD~Maya_studies,12771257]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Maya_civilization,16242103|WD~economy_of_the_Maya_civilization,16242103]]'
 instance_of:
-- '[[_Standards/WikiData/WD~group,16887380]]'
-- '[[_Standards/WikiData/WD~ancient_civilization,28171280]]'
-- '[[_Standards/WikiData/WD~civilization,8432]]'
-replaced_by: '[[_Standards/WikiData/WD~Kingdom_of_New_Spain,20978063]]'
-culture: '[[_Standards/WikiData/WD~Maya_culture,25590327]]'
-continent: '[[_Standards/WikiData/WD~Central_America,27611]]'
+- '[[_Standards/WikiData/WD~group,16887380|WD~group,16887380]]'
+- '[[_Standards/WikiData/WD~ancient_civilization,28171280|WD~ancient_civilization,28171280]]'
+- '[[_Standards/WikiData/WD~civilization,8432|WD~civilization,8432]]'
+replaced_by: '[[_Standards/WikiData/WD~Kingdom_of_New_Spain,20978063|WD~Kingdom_of_New_Spain,20978063]]'
+culture: '[[_Standards/WikiData/WD~Maya_culture,25590327|WD~Maya_culture,25590327]]'
+continent: '[[_Standards/WikiData/WD~Central_America,27611|WD~Central_America,27611]]'
 inception: -2000-01-01T00:00:00Z
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Cartes%20monde%20Maya%201519.tif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/El%20Castillo%2C%20Chich%C3%A9n%20Itz%C3%A1.jpg

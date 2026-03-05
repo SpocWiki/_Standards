@@ -43,48 +43,48 @@ social_media_followers:
 inception: 2002-03-14T00:00:00Z
 official_website: https://spacex.com
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~SpaceX_Draco,73931]]'
-- '[[_Standards/WikiData/WD~Merlin,76148]]'
-- '[[_Standards/WikiData/WD~Dragon,236448]]'
-- '[[_Standards/WikiData/WD~Kestrel,1165099]]'
-- '[[_Standards/WikiData/WD~Falcon,3770701]]'
-- '[[_Standards/WikiData/WD~Raptor,4135025]]'
-- '[[_Standards/WikiData/WD~SuperDraco,17183363]]'
-- '[[_Standards/WikiData/WD~autonomous_spaceport_drone_ship,18603647]]'
-- '[[_Standards/WikiData/WD~Starhopper,65395237]]'
-- '[[_Standards/WikiData/WD~Octagrabber,108807603]]'
+- '[[_Standards/WikiData/WD~SpaceX_Draco,73931|WD~SpaceX_Draco,73931]]'
+- '[[_Standards/WikiData/WD~Merlin,76148|WD~Merlin,76148]]'
+- '[[_Standards/WikiData/WD~Dragon,236448|WD~Dragon,236448]]'
+- '[[_Standards/WikiData/WD~Kestrel,1165099|WD~Kestrel,1165099]]'
+- '[[_Standards/WikiData/WD~Falcon,3770701|WD~Falcon,3770701]]'
+- '[[_Standards/WikiData/WD~Raptor,4135025|WD~Raptor,4135025]]'
+- '[[_Standards/WikiData/WD~SuperDraco,17183363|WD~SuperDraco,17183363]]'
+- '[[_Standards/WikiData/WD~autonomous_spaceport_drone_ship,18603647|WD~autonomous_spaceport_drone_ship,18603647]]'
+- '[[_Standards/WikiData/WD~Starhopper,65395237|WD~Starhopper,65395237]]'
+- '[[_Standards/WikiData/WD~Octagrabber,108807603|WD~Octagrabber,108807603]]'
 investor:
-- '[[_Standards/WikiData/WD~Elon_Musk,317521]]'
-- '[[_Standards/WikiData/WD~Fidelity_Investments,1411292]]'
-- '[[_Standards/WikiData/WD~Founders_Fund,1439864]]'
-- '[[_Standards/WikiData/WD~Draper_Fisher_Jurvetson,4354870]]'
-- '[[_Standards/WikiData/WD~Baillie_Gifford,4848455]]'
-- '[[_Standards/WikiData/WD~Scott_Banister,7435944]]'
-- '[[_Standards/WikiData/WD~Rothenberg_Ventures,16979664]]'
-- '[[_Standards/WikiData/WD~Craft_Ventures,55074985]]'
-- '[[_Standards/WikiData/WD~Threshold_Ventures,96178550]]'
-- '[[_Standards/WikiData/WD~Google,95]]'
-chief_executive_officer: '[[_Standards/WikiData/WD~Elon_Musk,317521]]'
-owned_by: '[[_Standards/WikiData/WD~Elon_Musk,317521]]'
-founded_by: '[[_Standards/WikiData/WD~Elon_Musk,317521]]'
+- '[[_Standards/WikiData/WD~Elon_Musk,317521|WD~Elon_Musk,317521]]'
+- '[[_Standards/WikiData/WD~Fidelity_Investments,1411292|WD~Fidelity_Investments,1411292]]'
+- '[[_Standards/WikiData/WD~Founders_Fund,1439864|WD~Founders_Fund,1439864]]'
+- '[[_Standards/WikiData/WD~Draper_Fisher_Jurvetson,4354870|WD~Draper_Fisher_Jurvetson,4354870]]'
+- '[[_Standards/WikiData/WD~Baillie_Gifford,4848455|WD~Baillie_Gifford,4848455]]'
+- '[[_Standards/WikiData/WD~Scott_Banister,7435944|WD~Scott_Banister,7435944]]'
+- '[[_Standards/WikiData/WD~Rothenberg_Ventures,16979664|WD~Rothenberg_Ventures,16979664]]'
+- '[[_Standards/WikiData/WD~Craft_Ventures,55074985|WD~Craft_Ventures,55074985]]'
+- '[[_Standards/WikiData/WD~Threshold_Ventures,96178550|WD~Threshold_Ventures,96178550]]'
+- '[[_Standards/WikiData/WD~Google,95|WD~Google,95]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Elon_Musk,317521|WD~Elon_Musk,317521]]'
+owned_by: '[[_Standards/WikiData/WD~Elon_Musk,317521|WD~Elon_Musk,317521]]'
+founded_by: '[[_Standards/WikiData/WD~Elon_Musk,317521|WD~Elon_Musk,317521]]'
 instance_of:
-- '[[_Standards/WikiData/WD~aerospace_manufacturer,936518]]'
-- '[[_Standards/WikiData/WD~business,4830453]]'
-- '[[_Standards/WikiData/WD~launch_service_provider,11753232]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
-location_of_formation: '[[_Standards/WikiData/WD~El_Segundo,983859]]'
-chief_operating_officer: '[[_Standards/WikiData/WD~Gwynne_Shotwell,1557944]]'
-industry: '[[_Standards/WikiData/WD~space_industry,2729047]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_SpaceX,6454125]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_SpaceX,14334866]]'
+- '[[_Standards/WikiData/WD~aerospace_manufacturer,936518|WD~aerospace_manufacturer,936518]]'
+- '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~launch_service_provider,11753232|WD~launch_service_provider,11753232]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+location_of_formation: '[[_Standards/WikiData/WD~El_Segundo,983859|WD~El_Segundo,983859]]'
+chief_operating_officer: '[[_Standards/WikiData/WD~Gwynne_Shotwell,1557944|WD~Gwynne_Shotwell,1557944]]'
+industry: '[[_Standards/WikiData/WD~space_industry,2729047|WD~space_industry,2729047]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_SpaceX,6454125|WD~Category_SpaceX,6454125]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_SpaceX,14334866|WD~Template_SpaceX,14334866]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Starbase,16950811]]'
-- '[[_Standards/WikiData/WD~Starship,62833385]]'
-legal_form: '[[_Standards/WikiData/WD~Delaware_corporation,88537331]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Starbase,16950811|WD~Starbase,16950811]]'
+- '[[_Standards/WikiData/WD~Starship,62833385|WD~Starship,62833385]]'
+legal_form: '[[_Standards/WikiData/WD~Delaware_corporation,88537331|WD~Delaware_corporation,88537331]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 employees: 12000
 estimated_value: 125000000000
-headquarters_location: '[[_Standards/WikiData/WD~Brownsville,51693]]'
+headquarters_location: '[[_Standards/WikiData/WD~Brownsville,51693|WD~Brownsville,51693]]'
 BaGLAMa_GID: 190
 autonomous_system_number: 27277
 Delaware_Division_of_Corporations_file_number: 3500808
@@ -222,7 +222,7 @@ dv_has_:
 
 # [[SpaceX]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~SpaceX,193701]] 
+#is_/same_as :: [[_Standards/WikiData/WD~SpaceX,193701|WD~SpaceX,193701]] 
 
 ## #has_/text_of_/abstract 
 
@@ -240,7 +240,7 @@ dv_has_:
 > The company currently produces and operates the Falcon 9 
 > and Falcon Heavy rockets along with the Dragon spacecraft.
 >
-> The company offers internet service via its [[SpaceX/Starlink]] subsidiary, 
+> The company offers internet service via its [[SpaceX/Starlink|Starlink]] subsidiary, 
 > which became the largest-ever satellite constellation in January 2020 
 > and, as of April 2024, comprised more than 6,000 small satellites in orbit.
 >
@@ -263,7 +263,7 @@ dv_has_:
 > - to achieve a vertical propulsive landing of an orbital rocket booster 
 > - and the first to reuse such a booster. 
 > 
-> The company's [[SpaceX/Falcon_9]] rockets have landed and flown again more than 300 times. 
+> The company's [[SpaceX/Falcon_9|Falcon_9]] rockets have landed and flown again more than 300 times. 
 > As of June 2024, SpaceX has around US$200 billion valuation.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/SpaceX)

@@ -56,16 +56,16 @@ aliases:
 - 陸軍元帥
 - 육군원수
 has_id_wikidata: Q7821620
-next_lower_rank: '[[_Standards/WikiData/WD~general,83460]]'
+next_lower_rank: '[[_Standards/WikiData/WD~general,83460|WD~general,83460]]'
 different_from:
-- '[[_Standards/WikiData/WD~marshal,111837]]'
-- '[[_Standards/WikiData/WD~general_field_marshal,7820253]]'
-subclass_of: '[[_Standards/WikiData/WD~military_officer,189290]]'
+- '[[_Standards/WikiData/WD~marshal,111837|WD~marshal,111837]]'
+- '[[_Standards/WikiData/WD~general_field_marshal,7820253|WD~general_field_marshal,7820253]]'
+subclass_of: '[[_Standards/WikiData/WD~military_officer,189290|WD~military_officer,189290]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~maréchal_de_camp,2579265]]'
-- '[[_Standards/WikiData/WD~field_marshal,2703373]]'
-- '[[_Standards/WikiData/WD~fältmarskalk,16149000]]'
-instance_of: '[[_Standards/WikiData/WD~military_rank,56019]]'
+- '[[_Standards/WikiData/WD~maréchal_de_camp,2579265|WD~maréchal_de_camp,2579265]]'
+- '[[_Standards/WikiData/WD~field_marshal,2703373|WD~field_marshal,2703373]]'
+- '[[_Standards/WikiData/WD~fältmarskalk,16149000|WD~fältmarskalk,16149000]]'
+instance_of: '[[_Standards/WikiData/WD~military_rank,56019|WD~military_rank,56019]]'
 Commons_category: Field Marshals
 dv_has_:
   name_:
@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Field Marshal]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~field_marshal,7821620]] 
+#is_/same_as :: [[_Standards/WikiData/WD~field_marshal,7821620|WD~field_marshal,7821620]] 
 
 ## #has_/text_of_/abstract 
 

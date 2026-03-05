@@ -125,22 +125,22 @@ aliases:
 - ꠜꠣꠞꠈꠣꠝ
 - 동사
 has_id_wikidata: Q24905
-instance_of: '[[_Standards/WikiData/WD~part_of_speech,82042]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~copula,207509]]'
-part_of: '[[_Standards/WikiData/WD~word_order,257885]]'
+instance_of: '[[_Standards/WikiData/WD~part_of_speech,82042|WD~part_of_speech,82042]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~copula,207509|WD~copula,207509]]'
+part_of: '[[_Standards/WikiData/WD~word_order,257885|WD~word_order,257885]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~content_word,789016]]'
-- '[[_Standards/WikiData/WD~word,8171]]'
-has_characteristic: '[[_Standards/WikiData/WD~transitivity,830012]]'
-represents: '[[_Standards/WikiData/WD~occurrence,1190554]]'
-different_from: '[[_Standards/WikiData/WD~process,3249551]]'
-has_list: '[[_Standards/WikiData/WD~list_of_Wikimedia_categories_for_verbs,54553995]]'
+- '[[_Standards/WikiData/WD~content_word,789016|WD~content_word,789016]]'
+- '[[_Standards/WikiData/WD~word,8171|WD~word,8171]]'
+has_characteristic: '[[_Standards/WikiData/WD~transitivity,830012|WD~transitivity,830012]]'
+represents: '[[_Standards/WikiData/WD~occurrence,1190554|WD~occurrence,1190554]]'
+different_from: '[[_Standards/WikiData/WD~process,3249551|WD~process,3249551]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Wikimedia_categories_for_verbs,54553995|WD~list_of_Wikimedia_categories_for_verbs,54553995]]'
 properties_for_this_type: auxiliary verb
 entry_in_abbreviations_table:
 - so

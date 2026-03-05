@@ -54,17 +54,17 @@ aliases:
 - 계량경제학
 has_id_wikidata: Q160039
 significant_person:
-- '[[_Standards/WikiData/WD~Ragnar_Frisch,187988]]'
-- '[[_Standards/WikiData/WD~Daniel_McFadden,312560]]'
-- '[[_Standards/WikiData/WD~James_Heckman,312561]]'
-subclass_of: '[[_Standards/WikiData/WD~social_science_methodology,1193625]]'
+- '[[_Standards/WikiData/WD~Ragnar_Frisch,187988|WD~Ragnar_Frisch,187988]]'
+- '[[_Standards/WikiData/WD~Daniel_McFadden,312560|WD~Daniel_McFadden,312560]]'
+- '[[_Standards/WikiData/WD~James_Heckman,312561|WD~James_Heckman,312561]]'
+subclass_of: '[[_Standards/WikiData/WD~social_science_methodology,1193625|WD~social_science_methodology,1193625]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 part_of:
-- '[[_Standards/WikiData/WD~econometric_and_statistical_methods,112955551]]'
-- '[[_Standards/WikiData/WD~economics,8134]]'
-- '[[_Standards/WikiData/WD~statistics,12483]]'
+- '[[_Standards/WikiData/WD~econometric_and_statistical_methods,112955551|WD~econometric_and_statistical_methods,112955551]]'
+- '[[_Standards/WikiData/WD~economics,8134|WD~economics,8134]]'
+- '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
 OmegaWiki_Defined_Meaning: 862563
 GitHub_topic: econometrics
 subreddit: econometrics

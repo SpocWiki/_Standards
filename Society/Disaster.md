@@ -116,30 +116,30 @@ aliases:
 - 자연재해
 has_id_wikidata: Q8065
 Commons_category: Natural disasters
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~disaster_preparedness,4583103]]'
-has_cause: '[[_Standards/WikiData/WD~global_warming,7942]]'
-has_effect: '[[_Standards/WikiData/WD~damage,481609]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~disaster_preparedness,4583103|WD~disaster_preparedness,4583103]]'
+has_cause: '[[_Standards/WikiData/WD~global_warming,7942|WD~global_warming,7942]]'
+has_effect: '[[_Standards/WikiData/WD~damage,481609|WD~damage,481609]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pinatubo91eruption%20plume.jpg
-instance_of: '[[_Standards/WikiData/WD~failure_mode,100151658]]'
+instance_of: '[[_Standards/WikiData/WD~failure_mode,100151658|WD~failure_mode,100151658]]'
 IPTC_NewsCode: mediatopic/20000151
-manifestation_of: '[[_Standards/WikiData/WD~natural_risk,3433179]]'
+manifestation_of: '[[_Standards/WikiData/WD~natural_risk,3433179|WD~natural_risk,3433179]]'
 MeSH_tree_code: N06.230.100.230
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
 P8189: 987007560771505171
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%95%E0%A9%81%E0%A8%A6%E0%A8%B0%E0%A8%A4%E0%A9%80%20%E0%A8%A4%E0%A8%AC%E0%A8%BE%E0%A8%B9%E0%A9%80.wav
 relates_to_sustainable_development_goal_target_or_indicator:
-- '[[_Standards/WikiData/WD~Target_1.5_of_the_Sustainable_Development_Goals,57590322]]'
-- '[[_Standards/WikiData/WD~Target_11.5_of_the_Sustainable_Development_Goals,57590860]]'
+- '[[_Standards/WikiData/WD~Target_1.5_of_the_Sustainable_Development_Goals,57590322|WD~Target_1.5_of_the_Sustainable_Development_Goals,57590322]]'
+- '[[_Standards/WikiData/WD~Target_11.5_of_the_Sustainable_Development_Goals,57590860|WD~Target_11.5_of_the_Sustainable_Development_Goals,57590860]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~natural_phenomenon,1322005]]'
-- '[[_Standards/WikiData/WD~natural_risk,3433179]]'
-- '[[_Standards/WikiData/WD~disaster,3839081]]'
-- '[[_Standards/WikiData/WD~risk_source,86923152]]'
-- '[[_Standards/WikiData/WD~environmental_disturbance,122355536]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Natural_disasters,8090872]]'
+- '[[_Standards/WikiData/WD~natural_phenomenon,1322005|WD~natural_phenomenon,1322005]]'
+- '[[_Standards/WikiData/WD~natural_risk,3433179|WD~natural_risk,3433179]]'
+- '[[_Standards/WikiData/WD~disaster,3839081|WD~disaster,3839081]]'
+- '[[_Standards/WikiData/WD~risk_source,86923152|WD~risk_source,86923152]]'
+- '[[_Standards/WikiData/WD~environmental_disturbance,122355536|WD~environmental_disturbance,122355536]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Natural_disasters,8090872|WD~Template_Natural_disasters,8090872]]'
 UMLS_CUI: C0027485
 U_S_National_Archives_Identifier: 10642735
 dv_has_:
@@ -283,7 +283,7 @@ dv_has_:
 
 # [[Disaster]] 
 
-#is_/same_as :: [[../WikiData/WD~Natural_disaster,8065]]
+#is_/same_as :: [[../WikiData/WD~Natural_disaster,8065|WD~Natural_disaster,8065]]
 
 In addition to [[Disaster/Natural_Disaster|Natural_Disaster]] there are Disasters caused by Humans: 
 - [[Military/Military_Operation/War|War]]s 

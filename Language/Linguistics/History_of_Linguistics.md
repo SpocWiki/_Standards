@@ -50,10 +50,10 @@ aliases:
 - 語言學史
 - 语言学史
 has_id_wikidata: Q1478235
-different_from: '[[_Standards/WikiData/WD~historical_linguistics,190375]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-facet_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
+different_from: '[[_Standards/WikiData/WD~historical_linguistics,190375|WD~historical_linguistics,190375]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869|WD~history_of_the_social_sciences,5076869]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
 Commons_category: History of linguistics
 dv_has_:
   name_:

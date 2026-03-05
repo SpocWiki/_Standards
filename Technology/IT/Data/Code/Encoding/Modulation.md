@@ -59,19 +59,19 @@ aliases:
 - 변조
 has_id_wikidata: Q170474
 has_part_s_:
-- '[[_Standards/WikiData/WD~frequency_modulation,181417]]'
-- '[[_Standards/WikiData/WD~amplitude_modulation,183755]]'
-facet_of: '[[_Standards/WikiData/WD~physical_layer,192727]]'
-uses: '[[_Standards/WikiData/WD~carrier_wave,499193]]'
-different_from: '[[_Standards/WikiData/WD~modulation,750240]]'
-opposite_of: '[[_Standards/WikiData/WD~demodulation,1185939]]'
-instance_of: '[[_Standards/WikiData/WD~technique,2695280]]'
-has_use: '[[_Standards/WikiData/WD~information_transfer,4350200]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Modulation_techniques,8056464]]'
+- '[[_Standards/WikiData/WD~frequency_modulation,181417|WD~frequency_modulation,181417]]'
+- '[[_Standards/WikiData/WD~amplitude_modulation,183755|WD~amplitude_modulation,183755]]'
+facet_of: '[[_Standards/WikiData/WD~physical_layer,192727|WD~physical_layer,192727]]'
+uses: '[[_Standards/WikiData/WD~carrier_wave,499193|WD~carrier_wave,499193]]'
+different_from: '[[_Standards/WikiData/WD~modulation,750240|WD~modulation,750240]]'
+opposite_of: '[[_Standards/WikiData/WD~demodulation,1185939|WD~demodulation,1185939]]'
+instance_of: '[[_Standards/WikiData/WD~technique,2695280|WD~technique,2695280]]'
+has_use: '[[_Standards/WikiData/WD~information_transfer,4350200|WD~information_transfer,4350200]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Modulation_techniques,8056464|WD~Template_Modulation_techniques,8056464]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-subclass_of: '[[_Standards/WikiData/WD~telecommunications,418]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+subclass_of: '[[_Standards/WikiData/WD~telecommunications,418|WD~telecommunications,418]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Modulation%20categorization.svg
 Stack_Exchange_tag: https://stackoverflow.com/tags/modulation
 IEV_number: 701-03-08

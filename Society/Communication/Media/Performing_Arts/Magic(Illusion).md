@@ -71,19 +71,19 @@ aliases:
 - 요술
 has_id_wikidata: Q148442
 different_from:
-- '[[_Standards/WikiData/WD~magic,81741]]'
-- '[[_Standards/WikiData/WD~Magic,224102]]'
+- '[[_Standards/WikiData/WD~magic,81741|WD~magic,81741]]'
+- '[[_Standards/WikiData/WD~Magic,224102|WD~Magic,224102]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~performing_arts,184485]]'
-- '[[_Standards/WikiData/WD~circus_skill,4990963]]'
-instance_of: '[[_Standards/WikiData/WD~genre,483394]]'
+- '[[_Standards/WikiData/WD~performing_arts,184485|WD~performing_arts,184485]]'
+- '[[_Standards/WikiData/WD~circus_skill,4990963|WD~circus_skill,4990963]]'
+instance_of: '[[_Standards/WikiData/WD~genre,483394|WD~genre,483394]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-practiced_by: '[[_Standards/WikiData/WD~magician,15855449]]'
-has_characteristic: '[[_Standards/WikiData/WD~magic_collecting,110581477]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+practiced_by: '[[_Standards/WikiData/WD~magician,15855449|WD~magician,15855449]]'
+has_characteristic: '[[_Standards/WikiData/WD~magic_collecting,110581477|WD~magic_collecting,110581477]]'
 IAB_code: 241
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Czech-2013-Prague-Street%20performers%20%28crop%29.jpg
 Commons_category: Magic (illusion)

@@ -35,20 +35,20 @@ aliases:
 - 自然大调
 has_id_wikidata: Q58795659
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~property,937228]]'
-- '[[_Standards/WikiData/WD~elements_of_music,11696608]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~property,937228|WD~property,937228]]'
+- '[[_Standards/WikiData/WD~elements_of_music,11696608|WD~elements_of_music,11696608]]'
 characteristic_of:
-- '[[_Standards/WikiData/WD~chord,170439]]'
-- '[[_Standards/WikiData/WD~scale,179651]]'
-- '[[_Standards/WikiData/WD~key,534932]]'
-- '[[_Standards/WikiData/WD~music,638]]'
-different_from: '[[_Standards/WikiData/WD~major_scale,190812]]'
-subclass_of: '[[_Standards/WikiData/WD~tonality,192822]]'
-facet_of: '[[_Standards/WikiData/WD~music_theory,193544]]'
-part_of: '[[_Standards/WikiData/WD~major_and_minor,1439151]]'
-opposite_of: '[[_Standards/WikiData/WD~minor,12827391]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~chord,170439|WD~chord,170439]]'
+- '[[_Standards/WikiData/WD~scale,179651|WD~scale,179651]]'
+- '[[_Standards/WikiData/WD~key,534932|WD~key,534932]]'
+- '[[_Standards/WikiData/WD~music,638|WD~music,638]]'
+different_from: '[[_Standards/WikiData/WD~major_scale,190812|WD~major_scale,190812]]'
+subclass_of: '[[_Standards/WikiData/WD~tonality,192822|WD~tonality,192822]]'
+facet_of: '[[_Standards/WikiData/WD~music_theory,193544|WD~music_theory,193544]]'
+part_of: '[[_Standards/WikiData/WD~major_and_minor,1439151|WD~major_and_minor,1439151]]'
+opposite_of: '[[_Standards/WikiData/WD~minor,12827391|WD~minor,12827391]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 dv_has_:
   name_:
     ar: وضع كبير

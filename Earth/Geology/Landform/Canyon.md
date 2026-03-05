@@ -71,19 +71,19 @@ aliases:
 - 협곡
 has_id_wikidata: Q150784
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 different_from:
-- '[[_Standards/WikiData/WD~defile,3699460]]'
-- '[[_Standards/WikiData/WD~urban_canyon,7900102]]'
-- '[[_Standards/WikiData/WD~Q131155202,131155202]]'
+- '[[_Standards/WikiData/WD~defile,3699460|WD~defile,3699460]]'
+- '[[_Standards/WikiData/WD~urban_canyon,7900102|WD~urban_canyon,7900102]]'
+- '[[_Standards/WikiData/WD~Q131155202,131155202|WD~Q131155202,131155202]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~fluvial_landform,55462971]]'
-- '[[_Standards/WikiData/WD~valley,39816]]'
+- '[[_Standards/WikiData/WD~fluvial_landform,55462971|WD~fluvial_landform,55462971]]'
+- '[[_Standards/WikiData/WD~valley,39816|WD~valley,39816]]'
 OmegaWiki_Defined_Meaning: 871313
 IMDb_keyword: canyon
 Commons_gallery: Canyon

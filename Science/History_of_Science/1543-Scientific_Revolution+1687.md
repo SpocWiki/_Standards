@@ -75,9 +75,9 @@ aliases:
 - 科學革命
 - 과학 혁명
 has_id_wikidata: Q214078
-facet_of: '[[_Standards/WikiData/WD~innovation,174165]]'
-instance_of: '[[_Standards/WikiData/WD~era,6428674]]'
-location: '[[_Standards/WikiData/WD~Europe,46]]'
+facet_of: '[[_Standards/WikiData/WD~innovation,174165|WD~innovation,174165]]'
+instance_of: '[[_Standards/WikiData/WD~era,6428674|WD~era,6428674]]'
+location: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 end_time: 1687-01-01T00:00:00Z
 start_time: 1543-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bertini%20fresco%20of%20Galileo%20Galilei%20and%20Doge%20of%20Venice.jpg

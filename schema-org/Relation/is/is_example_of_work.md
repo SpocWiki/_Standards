@@ -58,7 +58,7 @@ dv_is_same_as:
 
 A [[../../../Society/Communication/Media/Creative_Work|creative_work]] that this work is an example/instance/realization/derivation of.
 
-Inverse Relation of [[../has/has_work/has_work_example]] and . 
+Inverse Relation of [[../has/has_work/has_work_example|has_work_example]] and . 
 
 
 Use it like this: 

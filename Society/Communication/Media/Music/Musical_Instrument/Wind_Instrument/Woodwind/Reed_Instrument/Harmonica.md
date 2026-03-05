@@ -85,16 +85,16 @@ aliases:
 - 하모니카
 has_id_wikidata: Q51290
 different_from:
-- "[[_Standards/WikiData/WD~Jew's_harp,185003]]"
-- '[[_Standards/WikiData/WD~Mundhaarmonika,60445356]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Christian_Friedrich_Ludwig_Buschmann,1079637]]'
-subclass_of: '[[_Standards/WikiData/WD~sets_of_free_reeds,19650003]]'
+- "[[_Standards/WikiData/WD~Jew's_harp,185003|WD~Jew's_harp,185003]]"
+- '[[_Standards/WikiData/WD~Mundhaarmonika,60445356|WD~Mundhaarmonika,60445356]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Christian_Friedrich_Ludwig_Buschmann,1079637|WD~Christian_Friedrich_Ludwig_Buschmann,1079637]]'
+subclass_of: '[[_Standards/WikiData/WD~sets_of_free_reeds,19650003|WD~sets_of_free_reeds,19650003]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-used_by: '[[_Standards/WikiData/WD~harmonicist,20850090]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+used_by: '[[_Standards/WikiData/WD~harmonicist,20850090|WD~harmonicist,20850090]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396|WD~type_of_musical_instrument,110295396]]'
 Nomenclature_for_Museum_Cataloging: 10845
 image: http://commons.wikimedia.org/wiki/Special:FilePath/16-hole%20chrom%2010-hole%20diatonic.jpg
 OmegaWiki_Defined_Meaning: 369380

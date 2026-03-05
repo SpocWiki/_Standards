@@ -52,9 +52,9 @@ aliases:
 - 佛教歷史
 - 불교의 역사
 has_id_wikidata: Q464200
-subclass_of: '[[_Standards/WikiData/WD~history_of_religions,846742]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-facet_of: '[[_Standards/WikiData/WD~Buddhism,748]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_religions,846742|WD~history_of_religions,846742]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~Buddhism,748|WD~Buddhism,748]]'
 Commons_category: History of Buddhism
 dv_has_:
   name_:

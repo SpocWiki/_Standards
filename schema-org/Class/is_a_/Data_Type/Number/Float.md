@@ -35,9 +35,9 @@ dv_is_:
     - "[[Float]]"
 dv_has_:
   parent_class:
-    - "[[../Number]]"
+    - "[[../Number|Number]]"
 dv_has_parent_class:
-  - "[[../Number]]"
+  - "[[../Number|Number]]"
 dv_is_same_as:
   - "[[Float]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Number/Float.public|Float.public]]"

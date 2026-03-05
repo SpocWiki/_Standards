@@ -127,43 +127,43 @@ location:
 - 30
 - 125
 coordinate_location: Point(125.0 30.0)
-instance_of: '[[_Standards/WikiData/WD~marginal_sea,204894]]'
+instance_of: '[[_Standards/WikiData/WD~marginal_sea,204894|WD~marginal_sea,204894]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Q35541239,35541239]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 inflows:
-- '[[_Standards/WikiData/WD~Ou_River,713020]]'
-- '[[_Standards/WikiData/WD~Min_River,976458]]'
-- '[[_Standards/WikiData/WD~Jiao_River,1770054]]'
-- '[[_Standards/WikiData/WD~Sendai_River,3478526]]'
-- '[[_Standards/WikiData/WD~Asato_River,4521491]]'
-- '[[_Standards/WikiData/WD~Urauchi_River,4521517]]'
-- '[[_Standards/WikiData/WD~Genka_River,4521581]]'
-- '[[_Standards/WikiData/WD~Kokuba_River,4521609]]'
-- '[[_Standards/WikiData/WD~Hija_River,4521724]]'
-- '[[_Standards/WikiData/WD~Manose_River,11353751]]'
-- '[[_Standards/WikiData/WD~Jisso_River,11405103]]'
-- '[[_Standards/WikiData/WD~Oigawa_River,11432150]]'
-- '[[_Standards/WikiData/WD~Futenma_River,11514564]]'
-- '[[_Standards/WikiData/WD~Tabaru_River,11576251]]'
-- '[[_Standards/WikiData/WD~Q11638072,11638072]]'
-- '[[_Standards/WikiData/WD~Yangtze,5413]]'
+- '[[_Standards/WikiData/WD~Ou_River,713020|WD~Ou_River,713020]]'
+- '[[_Standards/WikiData/WD~Min_River,976458|WD~Min_River,976458]]'
+- '[[_Standards/WikiData/WD~Jiao_River,1770054|WD~Jiao_River,1770054]]'
+- '[[_Standards/WikiData/WD~Sendai_River,3478526|WD~Sendai_River,3478526]]'
+- '[[_Standards/WikiData/WD~Asato_River,4521491|WD~Asato_River,4521491]]'
+- '[[_Standards/WikiData/WD~Urauchi_River,4521517|WD~Urauchi_River,4521517]]'
+- '[[_Standards/WikiData/WD~Genka_River,4521581|WD~Genka_River,4521581]]'
+- '[[_Standards/WikiData/WD~Kokuba_River,4521609|WD~Kokuba_River,4521609]]'
+- '[[_Standards/WikiData/WD~Hija_River,4521724|WD~Hija_River,4521724]]'
+- '[[_Standards/WikiData/WD~Manose_River,11353751|WD~Manose_River,11353751]]'
+- '[[_Standards/WikiData/WD~Jisso_River,11405103|WD~Jisso_River,11405103]]'
+- '[[_Standards/WikiData/WD~Oigawa_River,11432150|WD~Oigawa_River,11432150]]'
+- '[[_Standards/WikiData/WD~Futenma_River,11514564|WD~Futenma_River,11514564]]'
+- '[[_Standards/WikiData/WD~Tabaru_River,11576251|WD~Tabaru_River,11576251]]'
+- '[[_Standards/WikiData/WD~Q11638072,11638072|WD~Q11638072,11638072]]'
+- '[[_Standards/WikiData/WD~Yangtze,5413|WD~Yangtze,5413]]'
 basin_country:
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~South_Korea,884]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 country:
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~South_Korea,884]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 connects_with:
-- '[[_Standards/WikiData/WD~Sea_of_Japan,27092]]'
-- '[[_Standards/WikiData/WD~South_China_Sea,37660]]'
-- '[[_Standards/WikiData/WD~Yellow_Sea,37960]]'
-part_of: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~Sea_of_Japan,27092|WD~Sea_of_Japan,27092]]'
+- '[[_Standards/WikiData/WD~South_China_Sea,37660|WD~South_China_Sea,37660]]'
+- '[[_Standards/WikiData/WD~Yellow_Sea,37960|WD~Yellow_Sea,37960]]'
+part_of: '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
 area: 1249000
 vertical_depth: 2719
 OmegaWiki_Defined_Meaning: 877087

@@ -78,22 +78,22 @@ aliases:
 - 骑士
 - 기사
 has_id_wikidata: Q102083
-honorific_prefix: '[[_Standards/WikiData/WD~Sir,209690]]'
+honorific_prefix: '[[_Standards/WikiData/WD~Sir,209690|WD~Sir,209690]]'
 instance_of:
-- '[[_Standards/WikiData/WD~noble_title,355567]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
-- '[[_Standards/WikiData/WD~military_rank,56019]]'
+- '[[_Standards/WikiData/WD~noble_title,355567|WD~noble_title,355567]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~military_rank,56019|WD~military_rank,56019]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~chivalry,1056721]]'
-subclass_of: '[[_Standards/WikiData/WD~warrior,1250916]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~knight,2261440]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59576034,59576034]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~chivalry,1056721|WD~chivalry,1056721]]'
+subclass_of: '[[_Standards/WikiData/WD~warrior,1250916|WD~warrior,1250916]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~knight,2261440|WD~knight,2261440]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59576034,59576034|WD~Q59576034,59576034]]'
 OmegaWiki_Defined_Meaning: 459910
 Commons_category: Knights
 IMDb_keyword: knight

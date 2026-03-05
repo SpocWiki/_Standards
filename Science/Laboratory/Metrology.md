@@ -62,21 +62,21 @@ aliases:
 - 도량형학
 has_id_wikidata: Q394
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-practiced_by: '[[_Standards/WikiData/WD~meteorologist,6824851]]'
-subclass_of: '[[_Standards/WikiData/WD~physical_sciences,14632398]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~meteorologist,6824851|WD~meteorologist,6824851]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_sciences,14632398|WD~physical_sciences,14632398]]'
 different_from:
-- '[[_Standards/WikiData/WD~measure_theory,15614122]]'
-- '[[_Standards/WikiData/WD~meteorology,25261]]'
+- '[[_Standards/WikiData/WD~measure_theory,15614122|WD~measure_theory,15614122]]'
+- '[[_Standards/WikiData/WD~meteorology,25261|WD~meteorology,25261]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~scientific_metrology,55029126]]'
-- '[[_Standards/WikiData/WD~applied_metrology,55033061]]'
-- '[[_Standards/WikiData/WD~legal_metrology,55070421]]'
+- '[[_Standards/WikiData/WD~scientific_metrology,55029126|WD~scientific_metrology,55029126]]'
+- '[[_Standards/WikiData/WD~applied_metrology,55033061|WD~applied_metrology,55033061]]'
+- '[[_Standards/WikiData/WD~legal_metrology,55070421|WD~legal_metrology,55070421]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574|WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 Dewey_Decimal_Classification: 389
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MicrometerInside5-30%2025-50.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2.wav

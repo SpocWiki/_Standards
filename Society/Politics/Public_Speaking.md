@@ -65,19 +65,19 @@ aliases:
 - 講演
 - 연설
 has_id_wikidata: Q861911
-uses: '[[_Standards/WikiData/WD~rhetoric,81009]]'
+uses: '[[_Standards/WikiData/WD~rhetoric,81009|WD~rhetoric,81009]]'
 different_from:
-- '[[_Standards/WikiData/WD~discourse,190539]]'
-- '[[_Standards/WikiData/WD~Q117008193,117008193]]'
+- '[[_Standards/WikiData/WD~discourse,190539|WD~discourse,190539]]'
+- '[[_Standards/WikiData/WD~Q117008193,117008193|WD~Q117008193,117008193]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~event,1656682]]'
-- '[[_Standards/WikiData/WD~creative_work,17537576]]'
-- '[[_Standards/WikiData/WD~oral_media,17584038]]'
+- '[[_Standards/WikiData/WD~event,1656682|WD~event,1656682]]'
+- '[[_Standards/WikiData/WD~creative_work,17537576|WD~creative_work,17537576]]'
+- '[[_Standards/WikiData/WD~oral_media,17584038|WD~oral_media,17584038]]'
 instance_of:
-- '[[_Standards/WikiData/WD~literary_form,4263830]]'
-- '[[_Standards/WikiData/WD~form_of_event,108586636]]'
-part_of: '[[_Standards/WikiData/WD~public_speaking,18342738]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_oration,117822031]]'
+- '[[_Standards/WikiData/WD~literary_form,4263830|WD~literary_form,4263830]]'
+- '[[_Standards/WikiData/WD~form_of_event,108586636|WD~form_of_event,108586636]]'
+part_of: '[[_Standards/WikiData/WD~public_speaking,18342738|WD~public_speaking,18342738]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_oration,117822031|WD~Template_Infobox_oration,117822031]]'
 properties_for_this_type:
 - speaker
 - first line

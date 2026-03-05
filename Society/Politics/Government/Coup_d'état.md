@@ -98,17 +98,17 @@ aliases:
 - 쿠데타
 has_id_wikidata: Q45382
 subclass_of:
-- '[[_Standards/WikiData/WD~conflict,180684]]'
-- '[[_Standards/WikiData/WD~regime_change,1673271]]'
+- '[[_Standards/WikiData/WD~conflict,180684|WD~conflict,180684]]'
+- '[[_Standards/WikiData/WD~regime_change,1673271|WD~regime_change,1673271]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-- '[[_Standards/WikiData/WD~Golpe_de_Estado,3110317]]'
-- '[[_Standards/WikiData/WD~military_coup,3449092]]'
-- "[[_Standards/WikiData/WD~attempted_coup_d'état,25906438]]"
-uses: '[[_Standards/WikiData/WD~force,5467425]]'
-topic_has_template: "[[_Standards/WikiData/WD~Template_Coup_d'état,7740480]]"
+- '[[_Standards/WikiData/WD~Golpe_de_Estado,3110317|WD~Golpe_de_Estado,3110317]]'
+- '[[_Standards/WikiData/WD~military_coup,3449092|WD~military_coup,3449092]]'
+- "[[_Standards/WikiData/WD~attempted_coup_d'état,25906438|WD~attempted_coup_d'état,25906438]]"
+uses: '[[_Standards/WikiData/WD~force,5467425|WD~force,5467425]]'
+topic_has_template: "[[_Standards/WikiData/WD~Template_Coup_d'état,7740480|WD~Template_Coup_d'état,7740480]]"
 OmegaWiki_Defined_Meaning: 799053
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20arrest%20of%20Robespierre%20cropped.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-staatsgreep-article.oga

@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_secret/schema-org/Collection/item_list.secret|item_list.secret]]"
     - "[[item_list]]"
 dv_has_:
-  parent_class: "[[../Class/is_a_/Intangible]]"
+  parent_class: "[[../Class/is_a_/Intangible|Intangible]]"
   child_class:
     - "[[item_list/breadcrumb_list|breadcrumb_list]]"
     - "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Section|How_to_Section]]"
@@ -110,7 +110,7 @@ has_properties = `=this.dv_has_properties`
 [[has_properties]] 
 [[is_property_of]] 
 [[has_child_property]] 
-[[../Relation/has/has_parent/has_parent_property]] 
+[[../Relation/has/has_parent/has_parent_property|has_parent_property]] 
 
 
 ## Confidential Links & Embeds: 

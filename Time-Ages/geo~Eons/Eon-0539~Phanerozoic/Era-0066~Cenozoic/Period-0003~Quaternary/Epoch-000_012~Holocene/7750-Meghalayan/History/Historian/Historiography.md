@@ -70,24 +70,24 @@ aliases:
 - 역사학
 has_id_wikidata: Q50675
 instance_of:
-- '[[_Standards/WikiData/WD~umbrella_term,210588]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~umbrella_term,210588|WD~umbrella_term,210588]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 described_by_source:
-- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-facet_of: '[[_Standards/WikiData/WD~study_of_history,1066186]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_historiography,2699662]]'
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+facet_of: '[[_Standards/WikiData/WD~study_of_history,1066186|WD~study_of_history,1066186]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_historiography,2699662|WD~history_of_historiography,2699662]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~history_of_historiography,2699662]]'
-- '[[_Standards/WikiData/WD~historiography,30277550]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Historiography,30117093]]'
+- '[[_Standards/WikiData/WD~history_of_historiography,2699662|WD~history_of_historiography,2699662]]'
+- '[[_Standards/WikiData/WD~historiography,30277550|WD~historiography,30277550]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Historiography,30117093|WD~Template_Historiography,30117093]]'
 different_from:
-- '[[_Standards/WikiData/WD~historiography,30277550]]'
-- '[[_Standards/WikiData/WD~school_of_history,107923750]]'
-practiced_by: '[[_Standards/WikiData/WD~historiographer,56314891]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Historiography,58221704]]'
-subclass_of: '[[_Standards/WikiData/WD~epistemology_of_history,109023778]]'
-is_the_study_of: '[[_Standards/WikiData/WD~history,309]]'
+- '[[_Standards/WikiData/WD~historiography,30277550|WD~historiography,30277550]]'
+- '[[_Standards/WikiData/WD~school_of_history,107923750|WD~school_of_history,107923750]]'
+practiced_by: '[[_Standards/WikiData/WD~historiographer,56314891|WD~historiographer,56314891]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Historiography,58221704|WD~Portal_Historiography,58221704]]'
+subclass_of: '[[_Standards/WikiData/WD~epistemology_of_history,109023778|WD~epistemology_of_history,109023778]]'
+is_the_study_of: '[[_Standards/WikiData/WD~history,309|WD~history,309]]'
 Library_of_Congress_Classification: D13-D15
 Commons_category: Historiography
 Basisklassifikation: 15.01
@@ -101,7 +101,7 @@ UMLS_CUI: C0019663
 MeSH_tree_code: K01.400.441
 dv_is_:
   same_as:
-  - '[[../../../../../../../../../WikiData/WD~Historiography,50675]]'
+  - '[[../../../../../../../../../WikiData/WD~Historiography,50675|WD~Historiography,50675]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography|Historiography]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.public|Historiography.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.internal|Historiography.internal]]'
@@ -110,7 +110,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.personal|Historiography.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.secret|Historiography.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../../WikiData/WD~Historiography,50675]]'
+- '[[../../../../../../../../../WikiData/WD~Historiography,50675|WD~Historiography,50675]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography|Historiography]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.public|Historiography.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.internal|Historiography.internal]]'

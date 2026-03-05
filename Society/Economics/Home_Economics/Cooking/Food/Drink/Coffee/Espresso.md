@@ -40,20 +40,20 @@ aliases:
 - 에스프레소
 - 에스프렛쏘
 has_id_wikidata: Q180289
-part_of: '[[_Standards/WikiData/WD~caffè_con_panna,70408]]'
-made_from_material: '[[_Standards/WikiData/WD~coffee_bean,153697]]'
-has_part_s_: '[[_Standards/WikiData/WD~caffè_crema,1139549]]'
-uses: '[[_Standards/WikiData/WD~espresso_machine,1210743]]'
-subclass_of: '[[_Standards/WikiData/WD~caffè,17075804]]'
-different_from: '[[_Standards/WikiData/WD~moka_pot_brew,91466557]]'
+part_of: '[[_Standards/WikiData/WD~caffè_con_panna,70408|WD~caffè_con_panna,70408]]'
+made_from_material: '[[_Standards/WikiData/WD~coffee_bean,153697|WD~coffee_bean,153697]]'
+has_part_s_: '[[_Standards/WikiData/WD~caffè_crema,1139549|WD~caffè_crema,1139549]]'
+uses: '[[_Standards/WikiData/WD~espresso_machine,1210743|WD~espresso_machine,1210743]]'
+subclass_of: '[[_Standards/WikiData/WD~caffè,17075804|WD~caffè,17075804]]'
+different_from: '[[_Standards/WikiData/WD~moka_pot_brew,91466557|WD~moka_pot_brew,91466557]]'
 inception: 1884-01-01T00:00:00Z
-ancestral_home: '[[_Standards/WikiData/WD~Milan,490]]'
+ancestral_home: '[[_Standards/WikiData/WD~Milan,490|WD~Milan,490]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 country:
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 Commons_category: Espresso
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Espresso%20BW%201.jpg
 subreddit: espresso

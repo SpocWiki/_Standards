@@ -123,32 +123,32 @@ aliases:
 - 研究
 - 연구
 has_id_wikidata: Q42240
-instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
+instance_of: '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~research_and_development,276099]]'
-- '[[_Standards/WikiData/WD~science_project,1298668]]'
-- '[[_Standards/WikiData/WD~research_design,1438035]]'
-- '[[_Standards/WikiData/WD~research_process,112666400]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~research_and_development,276099|WD~research_and_development,276099]]'
+- '[[_Standards/WikiData/WD~science_project,1298668|WD~science_project,1298668]]'
+- '[[_Standards/WikiData/WD~research_design,1438035|WD~research_design,1438035]]'
+- '[[_Standards/WikiData/WD~research_process,112666400|WD~research_process,112666400]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~researcher,1650915]]'
-- '[[_Standards/WikiData/WD~research_fellow,1706722]]'
+- '[[_Standards/WikiData/WD~researcher,1650915|WD~researcher,1650915]]'
+- '[[_Standards/WikiData/WD~research_fellow,1706722|WD~research_fellow,1706722]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~study,1782301]]'
-- '[[_Standards/WikiData/WD~exploration,116967296]]'
+- '[[_Standards/WikiData/WD~study,1782301|WD~study,1782301]]'
+- '[[_Standards/WikiData/WD~exploration,116967296|WD~exploration,116967296]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~activity,1914636]]'
-- '[[_Standards/WikiData/WD~process,3249551]]'
-- '[[_Standards/WikiData/WD~inquiry,21004260]]'
-- '[[_Standards/WikiData/WD~Q130370832,130370832]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Research,25930158]]'
-studied_by: '[[_Standards/WikiData/WD~metascience,30599095]]'
+- '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~process,3249551|WD~process,3249551]]'
+- '[[_Standards/WikiData/WD~inquiry,21004260|WD~inquiry,21004260]]'
+- '[[_Standards/WikiData/WD~Q130370832,130370832|WD~Q130370832,130370832]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Research,25930158|WD~Portal_Research,25930158]]'
+studied_by: '[[_Standards/WikiData/WD~metascience,30599095|WD~metascience,30599095]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~study_type,78088984]]'
-- '[[_Standards/WikiData/WD~scientific_method,46857]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Research_sidebar,110154169]]'
-part_of: '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~study_type,78088984|WD~study_type,78088984]]'
+- '[[_Standards/WikiData/WD~scientific_method,46857|WD~scientific_method,46857]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Research_sidebar,110154169|WD~Template_Research_sidebar,110154169]]'
+part_of: '[[_Standards/WikiData/WD~science,336|WD~science,336]]'
 properties_for_this_type: uses
 Wikidata_property: is the study of
 IAB_code: 1011

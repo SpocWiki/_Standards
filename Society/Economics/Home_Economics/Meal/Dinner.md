@@ -72,14 +72,14 @@ aliases:
 - 正餐
 - 주찬
 has_id_wikidata: Q657221
-followed_by: '[[_Standards/WikiData/WD~supper,568285]]'
+followed_by: '[[_Standards/WikiData/WD~supper,568285|WD~supper,568285]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-subclass_of: '[[_Standards/WikiData/WD~meal,6460735]]'
-follows: '[[_Standards/WikiData/WD~lunch,12896105]]'
-has_part_s_: '[[_Standards/WikiData/WD~course,14915034]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+subclass_of: '[[_Standards/WikiData/WD~meal,6460735|WD~meal,6460735]]'
+follows: '[[_Standards/WikiData/WD~lunch,12896105|WD~lunch,12896105]]'
+has_part_s_: '[[_Standards/WikiData/WD~course,14915034|WD~course,14915034]]'
 OmegaWiki_Defined_Meaning: 343542
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kaczka%20na%20obiad%20w%20Daszewicach%20-%20maj%202019.jpg
 IMDb_keyword: dinner

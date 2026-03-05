@@ -166,10 +166,10 @@ dv_has_time_started: -1200000000
 dv_has_time_stopped: -1000000000
 dv_has_text_of_color: 0xFED99A
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Stenian,106856425]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Stenian,106856425|WD~Category_Stenian,106856425]]'
 end_time: -1000000000-01-01T00:00:00Z
 start_time: -1200000000-01-01T00:00:00Z
 Commons_category: Stenian

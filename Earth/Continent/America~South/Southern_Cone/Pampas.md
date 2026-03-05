@@ -36,32 +36,32 @@ aliases:
 - 팜파스
 has_id_wikidata: Q184382
 instance_of:
-- '[[_Standards/WikiData/WD~biome,101998]]'
-- '[[_Standards/WikiData/WD~steppe,123991]]'
-- '[[_Standards/WikiData/WD~plain,160091]]'
+- '[[_Standards/WikiData/WD~biome,101998|WD~biome,101998]]'
+- '[[_Standards/WikiData/WD~steppe,123991|WD~steppe,123991]]'
+- '[[_Standards/WikiData/WD~plain,160091|WD~plain,160091]]'
 different_from:
-- '[[_Standards/WikiData/WD~Pampa,292490]]'
-- '[[_Standards/WikiData/WD~Pampas,111795835]]'
+- '[[_Standards/WikiData/WD~Pampa,292490|WD~Pampa,292490]]'
+- '[[_Standards/WikiData/WD~Pampas,111795835|WD~Pampas,111795835]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403|WD~Meyer_s_Universum,_Achter_Band,131447403]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Geography,3189123]]'
-- '[[_Standards/WikiData/WD~WikiProject_Brazil,11134020]]'
-- '[[_Standards/WikiData/WD~WikiProject_Argentina,11210037]]'
-- '[[_Standards/WikiData/WD~WikiProject_Indigenous_peoples_of_the_Americas,13360854]]'
-- '[[_Standards/WikiData/WD~WikiProject_Ecoregions,15305048]]'
-- '[[_Standards/WikiData/WD~WikiProject_Uruguay,15505683]]'
-part_of: '[[_Standards/WikiData/WD~La_Plata_lowland,5977745]]'
-has_part_s_: '[[_Standards/WikiData/WD~Pampas,111795835]]'
+- '[[_Standards/WikiData/WD~WikiProject_Geography,3189123|WD~WikiProject_Geography,3189123]]'
+- '[[_Standards/WikiData/WD~WikiProject_Brazil,11134020|WD~WikiProject_Brazil,11134020]]'
+- '[[_Standards/WikiData/WD~WikiProject_Argentina,11210037|WD~WikiProject_Argentina,11210037]]'
+- '[[_Standards/WikiData/WD~WikiProject_Indigenous_peoples_of_the_Americas,13360854|WD~WikiProject_Indigenous_peoples_of_the_Americas,13360854]]'
+- '[[_Standards/WikiData/WD~WikiProject_Ecoregions,15305048|WD~WikiProject_Ecoregions,15305048]]'
+- '[[_Standards/WikiData/WD~WikiProject_Uruguay,15505683|WD~WikiProject_Uruguay,15505683]]'
+part_of: '[[_Standards/WikiData/WD~La_Plata_lowland,5977745|WD~La_Plata_lowland,5977745]]'
+has_part_s_: '[[_Standards/WikiData/WD~Pampas,111795835|WD~Pampas,111795835]]'
 coordinate_location: Point(-62.0 -35.0)
 country:
-- '[[_Standards/WikiData/WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~Uruguay,77]]'
-- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
+- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
 elevation_above_sea_level: 160
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aut%C3%B3dromo%20Eusebio%20Marcilla.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Anden%20als%20Klimascheide.webm
@@ -69,7 +69,7 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20for%
 Commons_category: Pampa fields
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Pampas,184382]]'
+  - '[[../../../../WikiData/WD~Pampas,184382|WD~Pampas,184382]]'
   - '[[/_Standards/Earth/Continent/America~South/Southern_Cone/Pampas|Pampas]]'
   - '[[/_public/Earth/Continent/America~South/Southern_Cone/Pampas.public|Pampas.public]]'
   - '[[/_internal/Earth/Continent/America~South/Southern_Cone/Pampas.internal|Pampas.internal]]'
@@ -78,7 +78,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/America~South/Southern_Cone/Pampas.personal|Pampas.personal]]'
   - '[[/_secret/Earth/Continent/America~South/Southern_Cone/Pampas.secret|Pampas.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Pampas,184382]]'
+- '[[../../../../WikiData/WD~Pampas,184382|WD~Pampas,184382]]'
 - '[[/_Standards/Earth/Continent/America~South/Southern_Cone/Pampas|Pampas]]'
 - '[[/_public/Earth/Continent/America~South/Southern_Cone/Pampas.public|Pampas.public]]'
 - '[[/_internal/Earth/Continent/America~South/Southern_Cone/Pampas.internal|Pampas.internal]]'

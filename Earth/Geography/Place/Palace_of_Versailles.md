@@ -120,53 +120,53 @@ aliases:
 - 베르사유궁
 has_id_wikidata: Q2946
 has_use:
-- '[[_Standards/WikiData/WD~art_museum,207694]]'
-- '[[_Standards/WikiData/WD~filming_location,1045481]]'
-- '[[_Standards/WikiData/WD~palace,16560]]'
+- '[[_Standards/WikiData/WD~art_museum,207694|WD~art_museum,207694]]'
+- '[[_Standards/WikiData/WD~filming_location,1045481|WD~filming_location,1045481]]'
+- '[[_Standards/WikiData/WD~palace,16560|WD~palace,16560]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_museum,207694]]'
-- '[[_Standards/WikiData/WD~Château,751876]]'
-- '[[_Standards/WikiData/WD~royal_palace,53536964]]'
-- '[[_Standards/WikiData/WD~palace,16560]]'
-- '[[_Standards/WikiData/WD~museum,33506]]'
+- '[[_Standards/WikiData/WD~art_museum,207694|WD~art_museum,207694]]'
+- '[[_Standards/WikiData/WD~Château,751876|WD~Château,751876]]'
+- '[[_Standards/WikiData/WD~royal_palace,53536964|WD~royal_palace,53536964]]'
+- '[[_Standards/WikiData/WD~palace,16560|WD~palace,16560]]'
+- '[[_Standards/WikiData/WD~museum,33506|WD~museum,33506]]'
 architect:
-- '[[_Standards/WikiData/WD~Charles_Le_Brun,271676]]'
-- '[[_Standards/WikiData/WD~André_Le_Nôtre,273849]]'
-- '[[_Standards/WikiData/WD~Louis_Le_Vau,310530]]'
-- '[[_Standards/WikiData/WD~Ange_Jacques_Gabriel,352451]]'
-- '[[_Standards/WikiData/WD~Robert_de_Cotte,568839]]'
-- "[[_Standards/WikiData/WD~François_d'Orbay,1270258]]"
-- '[[_Standards/WikiData/WD~Jules_Hardouin_Mansart,8053]]'
-founded_by: '[[_Standards/WikiData/WD~Louis_XIII_of_France,737533]]'
-different_from: '[[_Standards/WikiData/WD~Versailles,1322580]]'
+- '[[_Standards/WikiData/WD~Charles_Le_Brun,271676|WD~Charles_Le_Brun,271676]]'
+- '[[_Standards/WikiData/WD~André_Le_Nôtre,273849|WD~André_Le_Nôtre,273849]]'
+- '[[_Standards/WikiData/WD~Louis_Le_Vau,310530|WD~Louis_Le_Vau,310530]]'
+- '[[_Standards/WikiData/WD~Ange_Jacques_Gabriel,352451|WD~Ange_Jacques_Gabriel,352451]]'
+- '[[_Standards/WikiData/WD~Robert_de_Cotte,568839|WD~Robert_de_Cotte,568839]]'
+- "[[_Standards/WikiData/WD~François_d'Orbay,1270258|WD~François_d'Orbay,1270258]]"
+- '[[_Standards/WikiData/WD~Jules_Hardouin_Mansart,8053|WD~Jules_Hardouin_Mansart,8053]]'
+founded_by: '[[_Standards/WikiData/WD~Louis_XIII_of_France,737533|WD~Louis_XIII_of_France,737533]]'
+different_from: '[[_Standards/WikiData/WD~Versailles,1322580|WD~Versailles,1322580]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Hall_of_Mirrors,1583447]]'
-- '[[_Standards/WikiData/WD~Opéra_royal_de_Versailles,1796145]]'
-- '[[_Standards/WikiData/WD~escalier_des_Ambassadeurs,3057826]]'
-- '[[_Standards/WikiData/WD~Salle_des_Croisades,3469964]]'
-has_facility: '[[_Standards/WikiData/WD~changing_table,1780834]]'
-award_received: '[[_Standards/WikiData/WD~musée_de_France,2275045]]'
-owner_of: '[[_Standards/WikiData/WD~Allegory_on_the_18th_Brumaire,_or_France_saved,2839021]]'
-owned_by: '[[_Standards/WikiData/WD~Crown_of_France,3001280]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Palace_and_Park_of_Versailles,3034552]]'
-part_of: '[[_Standards/WikiData/WD~Palace_and_Park_of_Versailles,3034552]]'
-occupant: '[[_Standards/WikiData/WD~Museum_of_the_History_of_France,3329787]]'
+- '[[_Standards/WikiData/WD~Hall_of_Mirrors,1583447|WD~Hall_of_Mirrors,1583447]]'
+- '[[_Standards/WikiData/WD~Opéra_royal_de_Versailles,1796145|WD~Opéra_royal_de_Versailles,1796145]]'
+- '[[_Standards/WikiData/WD~escalier_des_Ambassadeurs,3057826|WD~escalier_des_Ambassadeurs,3057826]]'
+- '[[_Standards/WikiData/WD~Salle_des_Croisades,3469964|WD~Salle_des_Croisades,3469964]]'
+has_facility: '[[_Standards/WikiData/WD~changing_table,1780834|WD~changing_table,1780834]]'
+award_received: '[[_Standards/WikiData/WD~musée_de_France,2275045|WD~musée_de_France,2275045]]'
+owner_of: '[[_Standards/WikiData/WD~Allegory_on_the_18th_Brumaire,_or_France_saved,2839021|WD~Allegory_on_the_18th_Brumaire,_or_France_saved,2839021]]'
+owned_by: '[[_Standards/WikiData/WD~Crown_of_France,3001280|WD~Crown_of_France,3001280]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Palace_and_Park_of_Versailles,3034552|WD~Palace_and_Park_of_Versailles,3034552]]'
+part_of: '[[_Standards/WikiData/WD~Palace_and_Park_of_Versailles,3034552|WD~Palace_and_Park_of_Versailles,3034552]]'
+occupant: '[[_Standards/WikiData/WD~Museum_of_the_History_of_France,3329787|WD~Museum_of_the_History_of_France,3329787]]'
 heritage_designation:
-- '[[_Standards/WikiData/WD~classified_historical_monument,10387684]]'
-- '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Versailles_(château),15649884]]'
+- '[[_Standards/WikiData/WD~classified_historical_monument,10387684|WD~classified_historical_monument,10387684]]'
+- '[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Versailles_(château),15649884|WD~Portal_Versailles_(château),15649884]]'
 World_Heritage_criteria:
-- '[[_Standards/WikiData/WD~(i),23038972]]'
-- '[[_Standards/WikiData/WD~(ii),23038976]]'
-- '[[_Standards/WikiData/WD~(vi),23038980]]'
-category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32663760,32663760]]'
-category_of_associated_people: '[[_Standards/WikiData/WD~Q32663766,32663766]]'
-activity_policy_in_this_place: '[[_Standards/WikiData/WD~no_selfie_sticks,53540617]]'
-depicted_by: '[[_Standards/WikiData/WD~Nouvelle_description_des_chasteaux_et_parcs_de_Versailles_et_de_Marly,60510978]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Versailles,621]]'
-commissioned_by: '[[_Standards/WikiData/WD~Louis_XIV_of_France,7742]]'
-country: '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~(i),23038972|WD~(i),23038972]]'
+- '[[_Standards/WikiData/WD~(ii),23038976|WD~(ii),23038976]]'
+- '[[_Standards/WikiData/WD~(vi),23038980|WD~(vi),23038980]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32663760,32663760|WD~Q32663760,32663760]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32663766,32663766|WD~Q32663766,32663766]]'
+activity_policy_in_this_place: '[[_Standards/WikiData/WD~no_selfie_sticks,53540617|WD~no_selfie_sticks,53540617]]'
+depicted_by: '[[_Standards/WikiData/WD~Nouvelle_description_des_chasteaux_et_parcs_de_Versailles_et_de_Marly,60510978|WD~Nouvelle_description_des_chasteaux_et_parcs_de_Versailles_et_de_Marly,60510978]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903|WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Versailles,621|WD~Versailles,621]]'
+commissioned_by: '[[_Standards/WikiData/WD~Louis_XIV_of_France,7742|WD~Louis_XIV_of_France,7742]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 social_media_followers:
 - 100000
 - 497943
@@ -334,7 +334,7 @@ dv_has_:
 
 # [[Palace_of_Versailles]] 
 
-![[../../../assets/Palace_of_Versailles.png]]  
+![[../../../assets/Palace_of_Versailles.png|Palace_of_Versailles.png]]  
 By <a href="https://fr.wikipedia.org/wiki/Utilisateur:G_CHP" class="extiw" title="fr:Utilisateur:G CHP">G CHP</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12214780">Link</a> 
 
 #is_/same_as :: [[../../../WikiData/WD~Palace_of_Versailles,2946|WD~Palace_of_Versailles,2946]] 

@@ -100,28 +100,28 @@ aliases:
 - 비옥한 초승달 지대
 has_id_wikidata: Q170526
 has_part_s_:
-- '[[_Standards/WikiData/WD~Levant,81483]]'
-- '[[_Standards/WikiData/WD~Cyprus,644636]]'
-- '[[_Standards/WikiData/WD~Mesopotamia,11767]]'
-instance_of: '[[_Standards/WikiData/WD~region,82794]]'
+- '[[_Standards/WikiData/WD~Levant,81483|WD~Levant,81483]]'
+- '[[_Standards/WikiData/WD~Cyprus,644636|WD~Cyprus,644636]]'
+- '[[_Standards/WikiData/WD~Mesopotamia,11767|WD~Mesopotamia,11767]]'
+instance_of: '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
 named_after:
-- '[[_Standards/WikiData/WD~soil_fertility,202080]]'
-- '[[_Standards/WikiData/WD~crescent_moon,24961162]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q25720212,25720212]]'
+- '[[_Standards/WikiData/WD~soil_fertility,202080|WD~soil_fertility,202080]]'
+- '[[_Standards/WikiData/WD~crescent_moon,24961162|WD~crescent_moon,24961162]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q25720212,25720212|WD~Q25720212,25720212]]'
 coordinate_location: Point(40.0 36.0)
 country:
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~Iraq,796]]'
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Jordan,810]]'
-- '[[_Standards/WikiData/WD~Lebanon,822]]'
-- '[[_Standards/WikiData/WD~Syria,858]]'
-- '[[_Standards/WikiData/WD~Northern_Cyprus,23681]]'
-- '[[_Standards/WikiData/WD~Palestine,23792]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Egypt,79]]'
-- '[[_Standards/WikiData/WD~Cyprus,229]]'
-part_of: '[[_Standards/WikiData/WD~Middle_East,7204]]'
+- '[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Jordan,810|WD~Jordan,810]]'
+- '[[_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
+- '[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]'
+- '[[_Standards/WikiData/WD~Northern_Cyprus,23681|WD~Northern_Cyprus,23681]]'
+- '[[_Standards/WikiData/WD~Palestine,23792|WD~Palestine,23792]]'
+- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Cyprus,229|WD~Cyprus,229]]'
+part_of: '[[_Standards/WikiData/WD~Middle_East,7204|WD~Middle_East,7204]]'
 locator_map_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20fertile%20crescent-ca.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20fertile%20crescent.svg

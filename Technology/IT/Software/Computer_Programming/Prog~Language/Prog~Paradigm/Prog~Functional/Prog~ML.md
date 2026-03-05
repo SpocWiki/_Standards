@@ -3,7 +3,7 @@
 #is_a_/ComputerLanguage 
 #is_a_/computer_language  
 
-#has_/parent :: [[../Prog~Structured/Structured_Prog-Lang/ISWIM]] 
+#has_/parent :: [[../Prog~Structured/Structured_Prog-Lang/ISWIM|ISWIM]] 
 #has_/creator :: [[Milner~Robin]] 
 #has_/time_/started :: 1973-07-01 
 

@@ -39,14 +39,14 @@ aliases:
 - 전체론
 has_id_wikidata: Q192891
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
-opposite_of: '[[_Standards/WikiData/WD~reductionism,206829]]'
-subclass_of: '[[_Standards/WikiData/WD~means,12774177]]'
-different_from: '[[_Standards/WikiData/WD~Q25412060,25412060]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~philosophical_concept,33104279|WD~philosophical_concept,33104279]]'
+opposite_of: '[[_Standards/WikiData/WD~reductionism,206829|WD~reductionism,206829]]'
+subclass_of: '[[_Standards/WikiData/WD~means,12774177|WD~means,12774177]]'
+different_from: '[[_Standards/WikiData/WD~Q25412060,25412060|WD~Q25412060,25412060]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Colouring%20pencils.jpg
 Commons_category: Holism
 dv_has_:
@@ -122,7 +122,7 @@ dv_has_:
 # [[Holism]] 
 
 #has_/complement :: [[Reductionism]]
-#is_/same_as :: [[_Standards/WikiData/WD~holism,192891]] 
+#is_/same_as :: [[_Standards/WikiData/WD~holism,192891|WD~holism,192891]] 
 
 ## #has_/text_of_/abstract 
 

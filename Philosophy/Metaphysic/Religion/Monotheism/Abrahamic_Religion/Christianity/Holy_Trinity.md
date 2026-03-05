@@ -115,34 +115,34 @@ has_id_wikidata: Q37090
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/2025%20Figura%20Tr%C3%B3jcy%20%C5%9Awi%C4%99tej%20w%20K%C5%82odzku%20%282%29.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20016.jpg
-opposite_of: '[[_Standards/WikiData/WD~Arianism,83922]]'
+opposite_of: '[[_Standards/WikiData/WD~Arianism,83922|WD~Arianism,83922]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~God_the_Father,186350]]'
-- '[[_Standards/WikiData/WD~God_the_Son,1141210]]'
-- '[[_Standards/WikiData/WD~God_the_Holy_Spirit,58646537]]'
+- '[[_Standards/WikiData/WD~God_the_Father,186350|WD~God_the_Father,186350]]'
+- '[[_Standards/WikiData/WD~God_the_Son,1141210|WD~God_the_Son,1141210]]'
+- '[[_Standards/WikiData/WD~God_the_Holy_Spirit,58646537|WD~God_the_Holy_Spirit,58646537]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Dictionnaire_de_théologie_catholique,22682042]]'
-- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_de_théologie_catholique,22682042|WD~Dictionnaire_de_théologie_catholique,22682042]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519|WD~New_World_Encyclopedia,116780519]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Christian_dogma,3045134]]'
-- '[[_Standards/WikiData/WD~attributes_of_God_in_Christianity,4818719]]'
-- '[[_Standards/WikiData/WD~triad,29430681]]'
-- '[[_Standards/WikiData/WD~monad,39604065]]'
+- '[[_Standards/WikiData/WD~Christian_dogma,3045134|WD~Christian_dogma,3045134]]'
+- '[[_Standards/WikiData/WD~attributes_of_God_in_Christianity,4818719|WD~attributes_of_God_in_Christianity,4818719]]'
+- '[[_Standards/WikiData/WD~triad,29430681|WD~triad,29430681]]'
+- '[[_Standards/WikiData/WD~monad,39604065|WD~monad,39604065]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Trinity_Altarpiece,3428057]]'
-- '[[_Standards/WikiData/WD~Holy_Trinity_and_Saints,131349567]]'
-- '[[_Standards/WikiData/WD~Trinity_Polyptych,131501830]]'
-- '[[_Standards/WikiData/WD~Manuscript_Leaf_with_the_Trinity_in_an_Initial_G,_from_an_Antiphonary,131557430]]'
-- '[[_Standards/WikiData/WD~Manuscript_Leaf_with_the_Trinity_in_an_Initial_T,_from_an_Antiphonary,131557431]]'
-- '[[_Standards/WikiData/WD~Glory_of_Carlo_Borromeo,131823364]]'
-subclass_of: '[[_Standards/WikiData/WD~triple_deity,3451071]]'
-uses: '[[_Standards/WikiData/WD~trichotomy,13134154]]'
+- '[[_Standards/WikiData/WD~Trinity_Altarpiece,3428057|WD~Trinity_Altarpiece,3428057]]'
+- '[[_Standards/WikiData/WD~Holy_Trinity_and_Saints,131349567|WD~Holy_Trinity_and_Saints,131349567]]'
+- '[[_Standards/WikiData/WD~Trinity_Polyptych,131501830|WD~Trinity_Polyptych,131501830]]'
+- '[[_Standards/WikiData/WD~Manuscript_Leaf_with_the_Trinity_in_an_Initial_G,_from_an_Antiphonary,131557430|WD~Manuscript_Leaf_with_the_Trinity_in_an_Initial_G,_from_an_Antiphonary,131557430]]'
+- '[[_Standards/WikiData/WD~Manuscript_Leaf_with_the_Trinity_in_an_Initial_T,_from_an_Antiphonary,131557431|WD~Manuscript_Leaf_with_the_Trinity_in_an_Initial_T,_from_an_Antiphonary,131557431]]'
+- '[[_Standards/WikiData/WD~Glory_of_Carlo_Borromeo,131823364|WD~Glory_of_Carlo_Borromeo,131823364]]'
+subclass_of: '[[_Standards/WikiData/WD~triple_deity,3451071|WD~triple_deity,3451071]]'
+uses: '[[_Standards/WikiData/WD~trichotomy,13134154|WD~trichotomy,13134154]]'
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%20%28Shield%20of%20the%20Trinity%29%20%E0%B8%AA%E0%B8%B5%20color%20Thai.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5%D0%B2%20%D0%A9%D0%B8%D1%82.jpg
@@ -164,8 +164,8 @@ schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Sxildo-de-fido%20de-la-Triunuo.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Teslis%20%28T%C3%BCrk%C3%A7e%29.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Triangle%20trinitaire%20J%20Flore.jpg
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~God_in_Christianity,825]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~God_in_Christianity,825|WD~God_in_Christianity,825]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
 Iconclass_notation: 11B
 OmegaWiki_Defined_Meaning: 385423
 native_label: trinitas

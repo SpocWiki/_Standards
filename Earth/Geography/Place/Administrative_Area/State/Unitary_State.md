@@ -100,18 +100,18 @@ aliases:
 - 單一制
 - 단일 국가
 has_id_wikidata: Q179164
-instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~federal_system,22676603]]'
-- '[[_Standards/WikiData/WD~federation,43702]]'
-has_part_s_: '[[_Standards/WikiData/WD~unitary_parliamentary_republic,22909549]]'
-different_from: '[[_Standards/WikiData/WD~centralized_government,25585330]]'
-subclass_of: '[[_Standards/WikiData/WD~state,7275]]'
+- '[[_Standards/WikiData/WD~federal_system,22676603|WD~federal_system,22676603]]'
+- '[[_Standards/WikiData/WD~federation,43702|WD~federation,43702]]'
+has_part_s_: '[[_Standards/WikiData/WD~unitary_parliamentary_republic,22909549|WD~unitary_parliamentary_republic,22909549]]'
+different_from: '[[_Standards/WikiData/WD~centralized_government,25585330|WD~centralized_government,25585330]]'
+subclass_of: '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
 vocalized_name: מְדִינַת שִׁלְטוֹן מָאֳחָד
 dv_is_:
   opposite_of: '[[Federation]]'
   same_as:
-  - '[[../../../../../WikiData/WD~Unitary_state,179164]]'
+  - '[[../../../../../WikiData/WD~Unitary_state,179164|WD~Unitary_state,179164]]'
   - '[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Unitary_State|Unitary_State]]'
   - '[[/_public/Earth/Geography/Place/Administrative_Area/State/Unitary_State.public|Unitary_State.public]]'
   - '[[/_internal/Earth/Geography/Place/Administrative_Area/State/Unitary_State.internal|Unitary_State.internal]]'
@@ -121,7 +121,7 @@ dv_is_:
   - '[[/_secret/Earth/Geography/Place/Administrative_Area/State/Unitary_State.secret|Unitary_State.secret]]'
 dv_is_opposite_of: '[[Federation]]'
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Unitary_state,179164]]'
+- '[[../../../../../WikiData/WD~Unitary_state,179164|WD~Unitary_state,179164]]'
 - '[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Unitary_State|Unitary_State]]'
 - '[[/_public/Earth/Geography/Place/Administrative_Area/State/Unitary_State.public|Unitary_State.public]]'
 - '[[/_internal/Earth/Geography/Place/Administrative_Area/State/Unitary_State.internal|Unitary_State.internal]]'

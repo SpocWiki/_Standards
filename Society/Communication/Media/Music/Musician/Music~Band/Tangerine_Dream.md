@@ -69,7 +69,7 @@ aliases:
 
 # [[Tangerine_Dream]]  
 
-#has_/created_/soundtrack :: [[../../../../../../../_private/Society/Communication/Media/TV-Series/Tatort/Mädchen_auf_der_Treppe,Tatort]]
+#has_/created_/soundtrack :: [[../../../../../../../_private/Society/Communication/Media/TV-Series/Tatort/Mädchen_auf_der_Treppe,Tatort|Mädchen_auf_der_Treppe,Tatort]]
 
 ## #has_/text_of_/abstract 
 

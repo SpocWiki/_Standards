@@ -79,23 +79,23 @@ aliases:
 - 서리
 has_id_wikidata: Q4590598
 different_from:
-- '[[_Standards/WikiData/WD~rime_ice,131099]]'
-- '[[_Standards/WikiData/WD~freezing,1135221]]'
-- '[[_Standards/WikiData/WD~glaze,1192031]]'
-- '[[_Standards/WikiData/WD~halla,21043960]]'
+- '[[_Standards/WikiData/WD~rime_ice,131099|WD~rime_ice,131099]]'
+- '[[_Standards/WikiData/WD~freezing,1135221|WD~freezing,1135221]]'
+- '[[_Standards/WikiData/WD~glaze,1192031|WD~glaze,1192031]]'
+- '[[_Standards/WikiData/WD~halla,21043960|WD~halla,21043960]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~phenomenon,483247]]'
-- '[[_Standards/WikiData/WD~hydrometeor,1972098]]'
+- '[[_Standards/WikiData/WD~phenomenon,483247|WD~phenomenon,483247]]'
+- '[[_Standards/WikiData/WD~hydrometeor,1972098|WD~hydrometeor,1972098]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-manifestation_of: '[[_Standards/WikiData/WD~deposition,871279]]'
-instance_of: '[[_Standards/WikiData/WD~ice,23392]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+manifestation_of: '[[_Standards/WikiData/WD~deposition,871279|WD~deposition,871279]]'
+instance_of: '[[_Standards/WikiData/WD~ice,23392|WD~ice,23392]]'
 OmegaWiki_Defined_Meaning: 1571
 Commons_category: Frost
 image:

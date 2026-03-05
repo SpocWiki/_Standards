@@ -63,7 +63,7 @@ dv_has_:
     - "[[Structured_Value/Type_and_Quantity_Node|Type_and_Quantity_Node]]"
     - "[[Structured_Value/Warranty_Promise|Warranty_Promise|]]"
   parent_class:
-    - "[[../Intangible]]"
+    - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -78,7 +78,7 @@ dv_has_:
     - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
     - "[[../../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../Intangible]]"
+  - "[[../Intangible|Intangible]]"
 dv_has_child_class:
   - "[[Structured_Value/Cdcpmd_Record|CDCPMDRecord]]"
   - "[[Structured_Value/Contact_Point|Contact_Point]]"

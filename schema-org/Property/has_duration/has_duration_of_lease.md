@@ -61,7 +61,7 @@ Use it like this:
 - #has_/duration_of_lease = `=this.dv_has_duration_of_lease`  
 - has_duration_of_lease = `=this.dv_has_duration_of_lease`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
-Length of the lease for some [[../../../Earth/Geography/Place/Accommodation]], either particular to some [[../../../Society/Agent/Community/Organization/Business/Offer]] or in some cases intrinsic to the property.
+Length of the lease for some [[../../../Earth/Geography/Place/Accommodation|Accommodation]], either particular to some [[../../../Society/Agent/Community/Organization/Business/Offer|Offer]] or in some cases intrinsic to the property.
 
 Formal Predicate: 
 domain = `=this.dv_domain` 

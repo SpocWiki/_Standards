@@ -59,7 +59,7 @@ For example, NASA has specific criteria for human-rating spacecraft and rockets,
 ensuring that they are safe for astronauts.
 
 ## Examples:
-NASA’s Space Launch System (SLS) and the [[../../../../_Standards/Technology/Spaceflight/NASA/NASA~Artemis/Orion_Spacecraft]] 
+NASA’s Space Launch System (SLS) and the [[../../../../_Standards/Technology/Spaceflight/NASA/NASA~Artemis/Orion_Spacecraft|Orion_Spacecraft]] 
 are human-rated for future crewed missions to the Moon and beyond.
 
 The **SpaceX Crew Dragon** and **Boeing CST-100 Starliner** are human-rated spacecraft 

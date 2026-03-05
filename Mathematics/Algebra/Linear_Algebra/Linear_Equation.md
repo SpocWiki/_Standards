@@ -86,13 +86,13 @@ aliases:
 - 線性方程式
 - 일차 방정식
 has_id_wikidata: Q484637
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>y</mi><mo stretchy="false">=</mo><mi>m</mi><mi>x</mi><mo stretchy="false">+</mo><mi>b</mi></mstyle></mrow></math>
-followed_by: '[[_Standards/WikiData/WD~quadratic_equation,41299]]'
-subclass_of: '[[_Standards/WikiData/WD~algebraic_equation,50698]]'
+followed_by: '[[_Standards/WikiData/WD~quadratic_equation,41299|WD~quadratic_equation,41299]]'
+subclass_of: '[[_Standards/WikiData/WD~algebraic_equation,50698|WD~algebraic_equation,50698]]'
 Colon_Classification: B231
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>b</mi></mstyle></mrow></math>

@@ -75,7 +75,7 @@ tags:
 - ''
 title: Carter,Jimmy
 type: private_note
-dv_has_role: '[[../US_President]]'
+dv_has_role: '[[../US_President|US_President]]'
 dv_is_member_of: '[[]]'
 dv_created: 1977-01-20
 dv_cancelled: 1981-01-20
@@ -320,7 +320,7 @@ dv_is_same_as:
 
 #has_/time_/started :: 
 #has_/time_/stopped  :: 
--   [has_role :: [[../US_President]] ]is_member_of = `=this.dv_is_member_of`
+-   [has_role :: [[../US_President|US_President]] ]is_member_of = `=this.dv_is_member_of`
 
 
 ## Confidential Links & Embeds: 

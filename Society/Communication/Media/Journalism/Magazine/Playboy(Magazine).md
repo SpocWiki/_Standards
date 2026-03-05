@@ -29,24 +29,24 @@ aliases:
 - 花花公子
 - 플레이보이
 has_id_wikidata: Q150820
-product_or_material_produced: '[[_Standards/WikiData/WD~pornographic_film,185529]]'
-creator: '[[_Standards/WikiData/WD~Hugh_Hefner,194280]]'
-editor: '[[_Standards/WikiData/WD~Hugh_Hefner,194280]]'
-different_from: '[[_Standards/WikiData/WD~Playboy,240704]]'
-named_after: '[[_Standards/WikiData/WD~playboy,2099032]]'
-publisher: '[[_Standards/WikiData/WD~Play_boy_Enterprises,3107204]]'
-industry: '[[_Standards/WikiData/WD~pornography_industry,4373046]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~pornographic_film,185529|WD~pornographic_film,185529]]'
+creator: '[[_Standards/WikiData/WD~Hugh_Hefner,194280|WD~Hugh_Hefner,194280]]'
+editor: '[[_Standards/WikiData/WD~Hugh_Hefner,194280|WD~Hugh_Hefner,194280]]'
+different_from: '[[_Standards/WikiData/WD~Playboy,240704|WD~Playboy,240704]]'
+named_after: '[[_Standards/WikiData/WD~playboy,2099032|WD~playboy,2099032]]'
+publisher: '[[_Standards/WikiData/WD~Play_boy_Enterprises,3107204|WD~Play_boy_Enterprises,3107204]]'
+industry: '[[_Standards/WikiData/WD~pornography_industry,4373046|WD~pornography_industry,4373046]]'
 derivative_work:
-- '[[_Standards/WikiData/WD~Playboy,10350469]]'
-- '[[_Standards/WikiData/WD~Playboy,16349412]]'
-- '[[_Standards/WikiData/WD~Playboy,16469775]]'
-- '[[_Standards/WikiData/WD~Playboy,20530574]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Playmate,11172328]]'
-main_subject: "[[_Standards/WikiData/WD~men's_magazine,21886169]]"
-instance_of: "[[_Standards/WikiData/WD~men's_magazine,21886169]]"
-language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Playboy,10350469|WD~Playboy,10350469]]'
+- '[[_Standards/WikiData/WD~Playboy,16349412|WD~Playboy,16349412]]'
+- '[[_Standards/WikiData/WD~Playboy,16469775|WD~Playboy,16469775]]'
+- '[[_Standards/WikiData/WD~Playboy,20530574|WD~Playboy,20530574]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Playmate,11172328|WD~Template_Playmate,11172328]]'
+main_subject: "[[_Standards/WikiData/WD~men's_magazine,21886169|WD~men's_magazine,21886169]]"
+instance_of: "[[_Standards/WikiData/WD~men's_magazine,21886169|WD~men's_magazine,21886169]]"
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
 related_property: Playboy Plus ID
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 social_media_followers:
 - 1500000
 - 1577753

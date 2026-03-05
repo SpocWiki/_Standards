@@ -59,23 +59,23 @@ aliases:
 - 马戏团
 - 서커스
 has_id_wikidata: Q47928
-field_of_work: '[[_Standards/WikiData/WD~circus_arts,713197]]'
+field_of_work: '[[_Standards/WikiData/WD~circus_arts,713197|WD~circus_arts,713197]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~conferencier,736415]]'
-- '[[_Standards/WikiData/WD~equilibrist,19828933]]'
-- '[[_Standards/WikiData/WD~clown,7358]]'
+- '[[_Standards/WikiData/WD~conferencier,736415|WD~conferencier,736415]]'
+- '[[_Standards/WikiData/WD~equilibrist,19828933|WD~equilibrist,19828933]]'
+- '[[_Standards/WikiData/WD~clown,7358|WD~clown,7358]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 different_from:
-- '[[_Standards/WikiData/WD~Cerc,7931061]]'
-- '[[_Standards/WikiData/WD~Cirkus,31631041]]'
-subclass_of: '[[_Standards/WikiData/WD~performing_arts_group,105815710]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
-intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Living_traditions_An_inventory_of_intangible_cultural_heritage_in_Sweden,115596878]]'
-history_of_topic: '[[_Standards/WikiData/WD~History_of_the_Circus,122415732]]'
-uses: '[[_Standards/WikiData/WD~circus,123655171]]'
+- '[[_Standards/WikiData/WD~Cerc,7931061|WD~Cerc,7931061]]'
+- '[[_Standards/WikiData/WD~Cirkus,31631041|WD~Cirkus,31631041]]'
+subclass_of: '[[_Standards/WikiData/WD~performing_arts_group,105815710|WD~performing_arts_group,105815710]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263|WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Living_traditions_An_inventory_of_intangible_cultural_heritage_in_Sweden,115596878|WD~Living_traditions_An_inventory_of_intangible_cultural_heritage_in_Sweden,115596878]]'
+history_of_topic: '[[_Standards/WikiData/WD~History_of_the_Circus,122415732|WD~History_of_the_Circus,122415732]]'
+uses: '[[_Standards/WikiData/WD~circus,123655171|WD~circus,123655171]]'
 Commons_gallery: Circus
 Commons_category: Circus
 OmegaWiki_Defined_Meaning: 1195931

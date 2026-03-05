@@ -129,20 +129,20 @@ aliases:
 - 쇠고기
 has_id_wikidata: Q192628
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Beef,6713907]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+- '[[_Standards/WikiData/WD~Template_Beef,6713907|WD~Template_Beef,6713907]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 different_from:
-- '[[_Standards/WikiData/WD~Manzo,18493000]]'
+- '[[_Standards/WikiData/WD~Manzo,18493000|WD~Manzo,18493000]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~bovid_meat,124815153]]'
-natural_product_of_taxon: '[[_Standards/WikiData/WD~cattle,830]]'
+- '[[_Standards/WikiData/WD~bovid_meat,124815153|WD~bovid_meat,124815153]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~cattle,830|WD~cattle,830]]'
 instance_of:
-- '[[_Standards/WikiData/WD~meat,10990]]'
+- '[[_Standards/WikiData/WD~meat,10990|WD~meat,10990]]'
 price:
 - 600
 - 125000

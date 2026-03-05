@@ -101,30 +101,30 @@ aliases:
 - 달리기
 has_id_wikidata: Q105674
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_exercise,219067]]'
-- '[[_Standards/WikiData/WD~terrestrial_locomotion,2535935]]'
-- '[[_Standards/WikiData/WD~locomotor_skill,106170525]]'
-- '[[_Standards/WikiData/WD~sport,349]]'
+- '[[_Standards/WikiData/WD~physical_exercise,219067|WD~physical_exercise,219067]]'
+- '[[_Standards/WikiData/WD~terrestrial_locomotion,2535935|WD~terrestrial_locomotion,2535935]]'
+- '[[_Standards/WikiData/WD~locomotor_skill,106170525|WD~locomotor_skill,106170525]]'
+- '[[_Standards/WikiData/WD~sport,349|WD~sport,349]]'
 different_from:
-- '[[_Standards/WikiData/WD~Corsa,403243]]'
-- '[[_Standards/WikiData/WD~Running,623273]]'
-- '[[_Standards/WikiData/WD~jogging,816261]]'
-- '[[_Standards/WikiData/WD~Laufen,1807412]]'
-- '[[_Standards/WikiData/WD~running_discipline_of_track,21467672]]'
-- '[[_Standards/WikiData/WD~Renning,23016176]]'
+- '[[_Standards/WikiData/WD~Corsa,403243|WD~Corsa,403243]]'
+- '[[_Standards/WikiData/WD~Running,623273|WD~Running,623273]]'
+- '[[_Standards/WikiData/WD~jogging,816261|WD~jogging,816261]]'
+- '[[_Standards/WikiData/WD~Laufen,1807412|WD~Laufen,1807412]]'
+- '[[_Standards/WikiData/WD~running_discipline_of_track,21467672|WD~running_discipline_of_track,21467672]]'
+- '[[_Standards/WikiData/WD~Renning,23016176|WD~Renning,23016176]]'
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-part_of: '[[_Standards/WikiData/WD~physical_culture,2997362]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_running,7112719]]'
-practiced_by: '[[_Standards/WikiData/WD~runner,12803959]]'
-sport: '[[_Standards/WikiData/WD~athletics,542]]'
+- '[[_Standards/WikiData/WD~sports_discipline,2312410|WD~sports_discipline,2312410]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+part_of: '[[_Standards/WikiData/WD~physical_culture,2997362|WD~physical_culture,2997362]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_running,7112719|WD~outline_of_running,7112719]]'
+practiced_by: '[[_Standards/WikiData/WD~runner,12803959|WD~runner,12803959]]'
+sport: '[[_Standards/WikiData/WD~athletics,542|WD~athletics,542]]'
 Commons_gallery: Running
 Commons_category: Running
 BHCL_UUID: 72388249-4f59-482d-9562-2231243da7b4

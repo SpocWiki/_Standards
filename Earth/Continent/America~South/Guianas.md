@@ -44,17 +44,17 @@ aliases:
 - 圭亚那
 - 기아나
 has_id_wikidata: Q650667
-instance_of: '[[_Standards/WikiData/WD~region,82794]]'
+instance_of: '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 located_in_on_physical_feature:
-- '[[_Standards/WikiData/WD~Guiana_Shield,9309106]]'
-- '[[_Standards/WikiData/WD~South_America,18]]'
+- '[[_Standards/WikiData/WD~Guiana_Shield,9309106|WD~Guiana_Shield,9309106]]'
+- '[[_Standards/WikiData/WD~South_America,18|WD~South_America,18]]'
 coordinate_location: Point(-56.076716 4.320096)
 detail_map:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Guyanas.svg
@@ -70,7 +70,7 @@ U_S_National_Archives_Identifier: 10044431
 Krugosvet_article_archived_: Earth_sciences/geografiya/GVIANA.html
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Guianas,650667]]'
+  - '[[_Standards/WikiData/WD~Guianas,650667|WD~Guianas,650667]]'
   - '[[/_Standards/Earth/Continent/America~South/Guianas|Guianas]]'
   - '[[/_public/Earth/Continent/America~South/Guianas.public|Guianas.public]]'
   - '[[/_internal/Earth/Continent/America~South/Guianas.internal|Guianas.internal]]'
@@ -79,7 +79,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/America~South/Guianas.personal|Guianas.personal]]'
   - '[[/_secret/Earth/Continent/America~South/Guianas.secret|Guianas.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Guianas,650667]]'
+- '[[_Standards/WikiData/WD~Guianas,650667|WD~Guianas,650667]]'
 - '[[/_Standards/Earth/Continent/America~South/Guianas|Guianas]]'
 - '[[/_public/Earth/Continent/America~South/Guianas.public|Guianas.public]]'
 - '[[/_internal/Earth/Continent/America~South/Guianas.internal|Guianas.internal]]'
@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Guianas]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Guianas,650667]]
+#is_/same_as :: [[_Standards/WikiData/WD~Guianas,650667|WD~Guianas,650667]]
 
 ## #has_/text_of_/abstract 
 

@@ -67,17 +67,17 @@ aliases:
 - 사프란
 has_id_wikidata: Q25434
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~food_coloring,753009]]'
-- '[[_Standards/WikiData/WD~colourant,911922]]'
-- '[[_Standards/WikiData/WD~edible_flower,2349698]]'
-- '[[_Standards/WikiData/WD~spice,42527]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_saffron,3137949]]'
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Crocus_sativus,15041677]]'
-different_from: '[[_Standards/WikiData/WD~Saffron,54857352]]'
+- '[[_Standards/WikiData/WD~food_coloring,753009|WD~food_coloring,753009]]'
+- '[[_Standards/WikiData/WD~colourant,911922|WD~colourant,911922]]'
+- '[[_Standards/WikiData/WD~edible_flower,2349698|WD~edible_flower,2349698]]'
+- '[[_Standards/WikiData/WD~spice,42527|WD~spice,42527]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_saffron,3137949|WD~history_of_saffron,3137949]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Crocus_sativus,15041677|WD~Crocus_sativus,15041677]]'
+different_from: '[[_Standards/WikiData/WD~Saffron,54857352|WD~Saffron,54857352]]'
 OmegaWiki_Defined_Meaning: 847814
 Commons_category: Saffron
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Safran-Weinviertel%20Niederreiter%202%20Gramm%208285.jpg
@@ -203,7 +203,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> **Saffron** is a spice derived from the flower of [[../../../../../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus]], 
+> **Saffron** is a spice derived from the flower of [[../../../../../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus|Saffron_Crocus]], 
 > commonly known as the "saffron crocus". 
 > 
 > The vivid crimson stigma and styles, called threads, are collected and dried 

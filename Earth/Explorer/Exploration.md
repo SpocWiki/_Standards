@@ -75,15 +75,15 @@ aliases:
 - 探險
 - 탐험
 has_id_wikidata: Q6502154
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~expedition,2401485]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~expedition,2401485|WD~expedition,2401485]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~scientific_explorer,10498147]]'
-- '[[_Standards/WikiData/WD~explorer,11900058]]'
-- '[[_Standards/WikiData/WD~expedition_leader,116485046]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Exploration,18857150]]'
+- '[[_Standards/WikiData/WD~scientific_explorer,10498147|WD~scientific_explorer,10498147]]'
+- '[[_Standards/WikiData/WD~explorer,11900058|WD~explorer,11900058]]'
+- '[[_Standards/WikiData/WD~expedition_leader,116485046|WD~expedition_leader,116485046]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Exploration,18857150|WD~Portal_Exploration,18857150]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~exploration,116967296]]'
-- '[[_Standards/WikiData/WD~travel,61509]]'
+- '[[_Standards/WikiData/WD~exploration,116967296|WD~exploration,116967296]]'
+- '[[_Standards/WikiData/WD~travel,61509|WD~travel,61509]]'
 Commons_category: Exploration
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Footprints%20Banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz%20Nowak%20in%20jungle%202.jpg

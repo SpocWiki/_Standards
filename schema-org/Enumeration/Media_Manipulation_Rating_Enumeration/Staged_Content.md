@@ -28,8 +28,8 @@ title: is_a_staged_content Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
-  enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+  parent_class: "[[../Media_Manipulation_Rating_Enumeration|Media_Manipulation_Rating_Enumeration]]"
+  enum_of: "[[../Media_Manipulation_Rating_Enumeration|Media_Manipulation_Rating_Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Staged_Content|Staged_Content]]"
     - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Staged_Content.public|Staged_Content.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Staged_Content.secret|Staged_Content.secret]]"
     - "[[Staged_Content]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
-dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_has_parent_class: "[[../Media_Manipulation_Rating_Enumeration|Media_Manipulation_Rating_Enumeration]]"
+dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration|Media_Manipulation_Rating_Enumeration]]"
 dv_is_same_as:
   - "[[Staged_Content]]"
   - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Staged_Content.public|Staged_Content.public]]"

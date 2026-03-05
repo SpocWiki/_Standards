@@ -37,16 +37,16 @@ dv_is_:
     - "[[/_personal/schema-org/Property/has_name/has_id_legislation.personal|has_id_legislation.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_id_legislation.secret|has_id_legislation.secret]]"
 dv_has_:
-  domain: "[[../../../Society/Communication/Media/Creative_Work/Legislation]]"
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]"
   name: has_id_legislation
   range: Text, URL
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_part_of: "pending:"
-dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Legislation]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]"
 dv_has_name: has_id_legislation
 dv_has_range: Text, URL
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_name/has_id_legislation|has_id_legislation]]"
   - "[[/_public/schema-org/Property/has_name/has_id_legislation.public|has_id_legislation.public]]"

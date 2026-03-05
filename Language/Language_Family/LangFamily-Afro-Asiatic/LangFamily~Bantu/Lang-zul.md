@@ -94,40 +94,40 @@ aliases:
 - 줄루어
 has_id_wikidata: Q10179
 indigenous_to:
-- '[[_Standards/WikiData/WD~KwaZulu_Natal,81725]]'
-- '[[_Standards/WikiData/WD~Mpumalanga,132410]]'
-- '[[_Standards/WikiData/WD~Gauteng,133083]]'
+- '[[_Standards/WikiData/WD~KwaZulu_Natal,81725|WD~KwaZulu_Natal,81725]]'
+- '[[_Standards/WikiData/WD~Mpumalanga,132410|WD~Mpumalanga,132410]]'
+- '[[_Standards/WikiData/WD~Gauteng,133083|WD~Gauteng,133083]]'
 linguistic_typology:
-- '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
-- '[[_Standards/WikiData/WD~stress,181767]]'
-- '[[_Standards/WikiData/WD~tonal_language,191328]]'
-- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
-- '[[_Standards/WikiData/WD~pro_drop_language,661936]]'
-- '[[_Standards/WikiData/WD~pitch_accent,1441804]]'
-- "[[_Standards/WikiData/WD~Meeussen's_rule,2309250]]"
-- '[[_Standards/WikiData/WD~noun_adjective,74835210]]'
-- '[[_Standards/WikiData/WD~synthetic_language,48612]]'
+- '[[_Standards/WikiData/WD~agglutinative_language,171263|WD~agglutinative_language,171263]]'
+- '[[_Standards/WikiData/WD~stress,181767|WD~stress,181767]]'
+- '[[_Standards/WikiData/WD~tonal_language,191328|WD~tonal_language,191328]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641|WD~subject_verb_object,651641]]'
+- '[[_Standards/WikiData/WD~pro_drop_language,661936|WD~pro_drop_language,661936]]'
+- '[[_Standards/WikiData/WD~pitch_accent,1441804|WD~pitch_accent,1441804]]'
+- "[[_Standards/WikiData/WD~Meeussen's_rule,2309250|WD~Meeussen's_rule,2309250]]"
+- '[[_Standards/WikiData/WD~noun_adjective,74835210|WD~noun_adjective,74835210]]'
+- '[[_Standards/WikiData/WD~synthetic_language,48612|WD~synthetic_language,48612]]'
 has_grammatical_case:
-- '[[_Standards/WikiData/WD~vocative_case,185077]]'
-- '[[_Standards/WikiData/WD~locative_case,202142]]'
+- '[[_Standards/WikiData/WD~vocative_case,185077|WD~vocative_case,185077]]'
+- '[[_Standards/WikiData/WD~locative_case,202142|WD~locative_case,202142]]'
 has_tense:
-- '[[_Standards/WikiData/WD~present_tense,192613]]'
-- '[[_Standards/WikiData/WD~future_tense,501405]]'
-- '[[_Standards/WikiData/WD~past_tense,1994301]]'
+- '[[_Standards/WikiData/WD~present_tense,192613|WD~present_tense,192613]]'
+- '[[_Standards/WikiData/WD~future_tense,501405|WD~future_tense,501405]]'
+- '[[_Standards/WikiData/WD~past_tense,1994301|WD~past_tense,1994301]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Nguni,961559]]'
-- '[[_Standards/WikiData/WD~Zunda,10725103]]'
-language_regulatory_body: '[[_Standards/WikiData/WD~Pan_South_African_Language_Board,967935]]'
+- '[[_Standards/WikiData/WD~Nguni,961559|WD~Nguni,961559]]'
+- '[[_Standards/WikiData/WD~Zunda,10725103|WD~Zunda,10725103]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Pan_South_African_Language_Board,967935|WD~Pan_South_African_Language_Board,967935]]'
 instance_of:
-- '[[_Standards/WikiData/WD~modern_language,1288568]]'
-- '[[_Standards/WikiData/WD~language,34770]]'
-Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q131938994,131938994]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568|WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~language,34770|WD~language,34770]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546|WD~1_National,29051546]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q131938994,131938994|WD~Q131938994,131938994]]'
 country:
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~Lesotho,1013]]'
-- '[[_Standards/WikiData/WD~Mozambique,1029]]'
-writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
+- '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~Lesotho,1013|WD~Lesotho,1013]]'
+- '[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
+writing_system: '[[_Standards/WikiData/WD~Latin_script,8229|WD~Latin_script,8229]]'
 number_of_speakers_writers_or_signers: 12100000
 IAB_code: 1214
 ABS_ASCL_2011_code: 9213

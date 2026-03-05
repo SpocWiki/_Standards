@@ -50,19 +50,19 @@ aliases:
 - 잉글리시 호른
 has_id_wikidata: Q185041
 subclass_of:
-- '[[_Standards/WikiData/WD~transposing_instrument,217306]]'
-- '[[_Standards/WikiData/WD~oboe_family_instrument,42889517]]'
+- '[[_Standards/WikiData/WD~transposing_instrument,217306|WD~transposing_instrument,217306]]'
+- '[[_Standards/WikiData/WD~oboe_family_instrument,42889517|WD~oboe_family_instrument,42889517]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~bocal,472731]]'
-- "[[_Standards/WikiData/WD~pavillon_d'amour,1410359]]"
-- '[[_Standards/WikiData/WD~key,42935438]]'
+- '[[_Standards/WikiData/WD~bocal,472731|WD~bocal,472731]]'
+- "[[_Standards/WikiData/WD~pavillon_d'amour,1410359|WD~pavillon_d'amour,1410359]]"
+- '[[_Standards/WikiData/WD~key,42935438|WD~key,42935438]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-different_from: '[[_Standards/WikiData/WD~Cor_anglais,15992559]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+different_from: '[[_Standards/WikiData/WD~Cor_anglais,15992559|WD~Cor_anglais,15992559]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396|WD~type_of_musical_instrument,110295396]]'
 Nomenclature_for_Museum_Cataloging: 10848
 Commons_category: Cor anglais
 Hornbostel_Sachs_classification: 422.112-71

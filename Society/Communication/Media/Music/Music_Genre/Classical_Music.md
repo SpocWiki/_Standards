@@ -128,26 +128,26 @@ aliases:
 - 洋樂
 - 서양 고전 음악
 has_id_wikidata: Q9730
-instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
 different_from:
-- '[[_Standards/WikiData/WD~Indian_classical_music,1323698]]'
-- '[[_Standards/WikiData/WD~art_music,1583807]]'
-- '[[_Standards/WikiData/WD~Classical_period,17723]]'
+- '[[_Standards/WikiData/WD~Indian_classical_music,1323698|WD~Indian_classical_music,1323698]]'
+- '[[_Standards/WikiData/WD~art_music,1583807|WD~art_music,1583807]]'
+- '[[_Standards/WikiData/WD~Classical_period,17723|WD~Classical_period,17723]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~art_music,1583807]]'
-- '[[_Standards/WikiData/WD~serious_music,10666381]]'
-subclass_of: '[[_Standards/WikiData/WD~art_music,1583807]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Classical_music,8921101]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Classical_music,17600120]]'
+- '[[_Standards/WikiData/WD~art_music,1583807|WD~art_music,1583807]]'
+- '[[_Standards/WikiData/WD~serious_music,10666381|WD~serious_music,10666381]]'
+subclass_of: '[[_Standards/WikiData/WD~art_music,1583807|WD~art_music,1583807]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Classical_music,8921101|WD~Portal_Classical_music,8921101]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Classical_music,17600120|WD~Template_Classical_music,17600120]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~classical_composer,21680663]]'
-- '[[_Standards/WikiData/WD~classical_musician,81729632]]'
+- '[[_Standards/WikiData/WD~classical_composer,21680663|WD~classical_composer,21680663]]'
+- '[[_Standards/WikiData/WD~classical_musician,81729632|WD~classical_musician,81729632]]'
 subreddit:
 - classical_circlejerk
 - classicalmusic
-described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
+described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149|WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
 inception: 0500-01-01T00:00:00Z
-indigenous_to: '[[_Standards/WikiData/WD~Europe,46]]'
+indigenous_to: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 IAB_code: 346
 OmegaWiki_Defined_Meaning: 1154769
 short_name: klassisk

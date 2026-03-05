@@ -93,25 +93,25 @@ aliases:
   - 자동차 경주
 has_id_wikidata: Q5386
 uses:
-  - "[[_Standards/WikiData/WD~racing_automobile,673687]]"
-  - "[[_Standards/WikiData/WD~motorsport_racing_track,2338524]]"
-  - "[[_Standards/WikiData/WD~international_auto_racing_colour,110396474]]"
-  - "[[_Standards/WikiData/WD~car,1420]]"
+  - "[[_Standards/WikiData/WD~racing_automobile,673687|WD~racing_automobile,673687]]"
+  - "[[_Standards/WikiData/WD~motorsport_racing_track,2338524|WD~motorsport_racing_track,2338524]]"
+  - "[[_Standards/WikiData/WD~international_auto_racing_colour,110396474|WD~international_auto_racing_colour,110396474]]"
+  - "[[_Standards/WikiData/WD~car,1420|WD~car,1420]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~racing,878123]]"
-  - "[[_Standards/WikiData/WD~automobile_sport,9340418]]"
-  - "[[_Standards/WikiData/WD~motorsport,5367]]"
+  - "[[_Standards/WikiData/WD~racing,878123|WD~racing,878123]]"
+  - "[[_Standards/WikiData/WD~automobile_sport,9340418|WD~automobile_sport,9340418]]"
+  - "[[_Standards/WikiData/WD~motorsport,5367|WD~motorsport,5367]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~sports_discipline,2312410]]"
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_auto_racing,5900233]]"
-practiced_by: "[[_Standards/WikiData/WD~racing_automobile_driver,10349745]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Motorsport,10803551]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_auto_racing,39087004]]"
+  - "[[_Standards/WikiData/WD~sports_discipline,2312410|WD~sports_discipline,2312410]]"
+  - "[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_auto_racing,5900233|WD~history_of_auto_racing,5900233]]"
+practiced_by: "[[_Standards/WikiData/WD~racing_automobile_driver,10349745|WD~racing_automobile_driver,10349745]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Motorsport,10803551|WD~WikiProject_Motorsport,10803551]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_auto_racing,39087004|WD~outline_of_auto_racing,39087004]]"
 different_from:
-  - "[[_Standards/WikiData/WD~automobilism,112341544]]"
-  - "[[_Standards/WikiData/WD~rallying,7856]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - "[[_Standards/WikiData/WD~automobilism,112341544|WD~automobilism,112341544]]"
+  - "[[_Standards/WikiData/WD~rallying,7856|WD~rallying,7856]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 OmegaWiki_Defined_Meaning: 858144
 IMDb_keyword:
   - auto-racing

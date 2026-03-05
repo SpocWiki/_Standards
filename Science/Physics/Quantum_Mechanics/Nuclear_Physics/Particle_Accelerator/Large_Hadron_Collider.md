@@ -80,41 +80,41 @@ aliases:
 - 大強子對撞機
 - 대형 강입자 충돌기
 has_id_wikidata: Q40605
-uses: '[[_Standards/WikiData/WD~superconducting_magnet,120120]]'
+uses: '[[_Standards/WikiData/WD~superconducting_magnet,120120|WD~superconducting_magnet,120120]]'
 significant_event:
-- '[[_Standards/WikiData/WD~pentaquark,277816]]'
-- '[[_Standards/WikiData/WD~construction,385378]]'
-- '[[_Standards/WikiData/WD~quark_gluon_plasma,733096]]'
-- '[[_Standards/WikiData/WD~inauguration,1417098]]'
-- '[[_Standards/WikiData/WD~Development_approvals,5266727]]'
-- '[[_Standards/WikiData/WD~opening,15051339]]'
-- '[[_Standards/WikiData/WD~magnet_quench,16708069]]'
-- '[[_Standards/WikiData/WD~Discovery_of_the_Higgs_Boson,54004690]]'
-- '[[_Standards/WikiData/WD~Opening_the_tetraquark,105970204]]'
+- '[[_Standards/WikiData/WD~pentaquark,277816|WD~pentaquark,277816]]'
+- '[[_Standards/WikiData/WD~construction,385378|WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~quark_gluon_plasma,733096|WD~quark_gluon_plasma,733096]]'
+- '[[_Standards/WikiData/WD~inauguration,1417098|WD~inauguration,1417098]]'
+- '[[_Standards/WikiData/WD~Development_approvals,5266727|WD~Development_approvals,5266727]]'
+- '[[_Standards/WikiData/WD~opening,15051339|WD~opening,15051339]]'
+- '[[_Standards/WikiData/WD~magnet_quench,16708069|WD~magnet_quench,16708069]]'
+- '[[_Standards/WikiData/WD~Discovery_of_the_Higgs_Boson,54004690|WD~Discovery_of_the_Higgs_Boson,54004690]]'
+- '[[_Standards/WikiData/WD~Opening_the_tetraquark,105970204|WD~Opening_the_tetraquark,105970204]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~A_Large_Ion_Collider_Experiment,294437]]'
-- '[[_Standards/WikiData/WD~ATLAS_experiment,299002]]'
-- '[[_Standards/WikiData/WD~CMS_experiment,659478]]'
-- '[[_Standards/WikiData/WD~LHCb,665728]]'
-structure_replaces: '[[_Standards/WikiData/WD~Large_Electron_Positron_Collider,659029]]'
-follows: '[[_Standards/WikiData/WD~Large_Electron_Positron_Collider,659029]]'
+- '[[_Standards/WikiData/WD~A_Large_Ion_Collider_Experiment,294437|WD~A_Large_Ion_Collider_Experiment,294437]]'
+- '[[_Standards/WikiData/WD~ATLAS_experiment,299002|WD~ATLAS_experiment,299002]]'
+- '[[_Standards/WikiData/WD~CMS_experiment,659478|WD~CMS_experiment,659478]]'
+- '[[_Standards/WikiData/WD~LHCb,665728|WD~LHCb,665728]]'
+structure_replaces: '[[_Standards/WikiData/WD~Large_Electron_Positron_Collider,659029|WD~Large_Electron_Positron_Collider,659029]]'
+follows: '[[_Standards/WikiData/WD~Large_Electron_Positron_Collider,659029|WD~Large_Electron_Positron_Collider,659029]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synchrotron,689863]]'
-- '[[_Standards/WikiData/WD~fixed_construction,811430]]'
-- '[[_Standards/WikiData/WD~hadron_collider,16964297]]'
+- '[[_Standards/WikiData/WD~synchrotron,689863|WD~synchrotron,689863]]'
+- '[[_Standards/WikiData/WD~fixed_construction,811430|WD~fixed_construction,811430]]'
+- '[[_Standards/WikiData/WD~hadron_collider,16964297|WD~hadron_collider,16964297]]'
 coordinate_location: Point(6.045 46.235)
-followed_by: '[[_Standards/WikiData/WD~High_Luminosity_Large_Hadron_Collider,7642498]]'
-described_by_source: '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+followed_by: '[[_Standards/WikiData/WD~High_Luminosity_Large_Hadron_Collider,7642498|WD~High_Luminosity_Large_Hadron_Collider,7642498]]'
+described_by_source: '[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]'
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Ain,3083]]'
-- '[[_Standards/WikiData/WD~Canton_of_Geneva,11917]]'
+- '[[_Standards/WikiData/WD~Ain,3083|WD~Ain,3083]]'
+- '[[_Standards/WikiData/WD~Canton_of_Geneva,11917|WD~Canton_of_Geneva,11917]]'
 country:
-- '[[_Standards/WikiData/WD~Switzerland,39]]'
-- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 force: 11000
 length: 27
 beam_energy: 6800
-owned_by: '[[_Standards/WikiData/WD~CERN,42944]]'
+owned_by: '[[_Standards/WikiData/WD~CERN,42944|WD~CERN,42944]]'
 short_name:
 - LHC
 - БАК

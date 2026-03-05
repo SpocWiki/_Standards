@@ -24,10 +24,10 @@ aliases:
 - 自己関係
 - 齊次關係
 has_id_wikidata: Q54938846
-subclass_of: '[[_Standards/WikiData/WD~binary_relation,130901]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-opposite_of: '[[_Standards/WikiData/WD~heterogeneous_relation,54939316]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
+subclass_of: '[[_Standards/WikiData/WD~binary_relation,130901|WD~binary_relation,130901]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+opposite_of: '[[_Standards/WikiData/WD~heterogeneous_relation,54939316|WD~heterogeneous_relation,54939316]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710|WD~type_of_relation,130324710]]'
 dv_is_:
   same_as:
   - '[[/_Standards/schema-org/Relation/Binary_Relation/Homogeneous_Relation|Homogeneous_Relation]]'

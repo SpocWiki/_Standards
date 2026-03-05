@@ -61,7 +61,7 @@ aliases:
 
 > ALGOL 58, originally named IAL, is one of the family of ALGOL computer programming languages. It was an early compromise design soon superseded by ALGOL 60. According to John Backus:
 >
-> The Zurich [[../../../../../../IT/Programming/Programmers/ACM(Association_for_Computing_Machinery)]]-[[../../../../../../IT/Programming/Programmers/GAMM]] Conference had two principal motives in proposing the IAL: (a) To provide a means of communicating numerical methods and other procedures between people, and (b) To provide a means of realizing a stated process on a variety of machines...
+> The Zurich [[../../../../../../IT/Programming/Programmers/ACM(Association_for_Computing_Machinery)|ACM(Association_for_Computing_Machinery)]]-[[../../../../../../IT/Programming/Programmers/GAMM|GAMM]] Conference had two principal motives in proposing the IAL: (a) To provide a means of communicating numerical methods and other procedures between people, and (b) To provide a means of realizing a stated process on a variety of machines...
 >
 > ALGOL 58 introduced structured Programming 
 > and the compound statement / Block with  `Begin` and `End` Delimiters, 

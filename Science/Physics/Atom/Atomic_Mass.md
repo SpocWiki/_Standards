@@ -85,20 +85,20 @@ aliases:
 - 原子量
 - 원자 질량
 has_id_wikidata: Q3840065
-instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
+instance_of: '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~dalton,483261]]'
-- '[[_Standards/WikiData/WD~kilogram,11570]]'
+- '[[_Standards/WikiData/WD~dalton,483261|WD~dalton,483261]]'
+- '[[_Standards/WikiData/WD~kilogram,11570|WD~kilogram,11570]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171|WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Commons_category: Relative atomic mass
 different_from:
-- '[[_Standards/WikiData/WD~nuclidic_mass,97010809]]'
-- '[[_Standards/WikiData/WD~rest_mass_of_atom,108211288]]'
-- '[[_Standards/WikiData/WD~relative_atomic_mass,41377]]'
+- '[[_Standards/WikiData/WD~nuclidic_mass,97010809|WD~nuclidic_mass,97010809]]'
+- '[[_Standards/WikiData/WD~rest_mass_of_atom,108211288|WD~rest_mass_of_atom,108211288]]'
+- '[[_Standards/WikiData/WD~relative_atomic_mass,41377|WD~relative_atomic_mass,41377]]'
 ISQ_dimension: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {M}}}">
     <semantics>
@@ -114,7 +114,7 @@ ISQ_dimension: >-
       <annotation encoding="application/x-tex">{\displaystyle {\mathsf {M}}}</annotation>
     </semantics>
   </math>
-subclass_of: '[[_Standards/WikiData/WD~mass,11423]]'
+subclass_of: '[[_Standards/WikiData/WD~mass,11423|WD~mass,11423]]'
 OmegaWiki_Defined_Meaning: 8297
 quantity_symbol_LaTeX_:
 - >-

@@ -24,7 +24,7 @@ tags:
 title: is_a_hackathon Class
 type: Type
 dv_is_:
-  parent_class: "[[../Event]]"
+  parent_class: "[[../Event|Event]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Event/Hackathon|Hackathon]]"
@@ -92,7 +92,7 @@ dv_has_:
     - "[[../../../Relation/has/has_work/has_work_performed|has_work_performed]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../Event]]"
+  - "[[../Event|Event]]"
 dv_has_properties:
   - "[[about|about]]"
   - "[[../../../Relation/has/has_actor|has_actor]]"

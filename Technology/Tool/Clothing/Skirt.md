@@ -91,9 +91,9 @@ aliases:
 - 裙
 - 치마
 has_id_wikidata: Q2160801
-described_by_source: '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-different_from: '[[_Standards/WikiData/WD~Falda,18447775]]'
-has_characteristic: '[[_Standards/WikiData/WD~skirt_length,110655871]]'
+described_by_source: '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+different_from: '[[_Standards/WikiData/WD~Falda,18447775|WD~Falda,18447775]]'
+has_characteristic: '[[_Standards/WikiData/WD~skirt_length,110655871|WD~skirt_length,110655871]]'
 Nomenclature_for_Museum_Cataloging: 2485
 OmegaWiki_Defined_Meaning: 6552
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Peasant%20skirt%201435043608.jpg

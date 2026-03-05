@@ -141,13 +141,13 @@ end_time: 1975-04-30
 has_time_started: 1955-11-01
 has_time_stopped: 1975-04-30
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VietnamMural.jpg
-instance_of: '[[_Standards/WikiData/WD~proxy_war,864113]]'
+instance_of: '[[_Standards/WikiData/WD~proxy_war,864113|WD~proxy_war,864113]]'
 Krugosvet_article: istoriya/VETNAMSKAYA_VONA.html
 location:
-- '[[_Standards/WikiData/WD~Cambodia,424]]'
-- '[[_Standards/WikiData/WD~Laos,819]]'
-- '[[_Standards/WikiData/WD~North_Vietnam,172640]]'
-- '[[_Standards/WikiData/WD~Republic_of_Vietnam,180573]]'
+- '[[_Standards/WikiData/WD~Cambodia,424|WD~Cambodia,424]]'
+- '[[_Standards/WikiData/WD~Laos,819|WD~Laos,819]]'
+- '[[_Standards/WikiData/WD~North_Vietnam,172640|WD~North_Vietnam,172640]]'
+- '[[_Standards/WikiData/WD~Republic_of_Vietnam,180573|WD~Republic_of_Vietnam,180573]]'
 MeSH_tree_code:
 - I01.880.735.950.250.937
 - K01.400.504.968.850
@@ -156,34 +156,34 @@ number_of_deaths:
 - 1291426
 - 4211459
 order_of_battle:
-- '[[_Standards/WikiData/WD~Order_of_battle_of_Australian_forces_during_the_Vietnam_War,21005872]]'
-- '[[_Standards/WikiData/WD~order_of_battle_of_the_Vietnam_War,12598128]]'
+- '[[_Standards/WikiData/WD~Order_of_battle_of_Australian_forces_during_the_Vietnam_War,21005872|WD~Order_of_battle_of_Australian_forces_during_the_Vietnam_War,21005872]]'
+- '[[_Standards/WikiData/WD~order_of_battle_of_the_Vietnam_War,12598128|WD~order_of_battle_of_the_Vietnam_War,12598128]]'
 participant:
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Colombia,739]]'
-- '[[_Standards/WikiData/WD~GRUNK,221066]]'
-- '[[_Standards/WikiData/WD~Philippines,928]]'
-- '[[_Standards/WikiData/WD~Thailand,869]]'
-- '[[_Standards/WikiData/WD~Khmer_Republic,1054184]]'
-- '[[_Standards/WikiData/WD~Khmer_Rouge,191764]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Cambodia,2638486]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Laos,870055]]'
-- '[[_Standards/WikiData/WD~National_Liberation_Front_of_South_Vietnam,174423]]'
-- '[[_Standards/WikiData/WD~New_Zealand,664]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~North_Vietnam,172640]]'
-- '[[_Standards/WikiData/WD~Pathet_Lao,858887]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Republic_of_Vietnam,180573]]'
-- '[[_Standards/WikiData/WD~South_Korea,884]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Colombia,739|WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~GRUNK,221066|WD~GRUNK,221066]]'
+- '[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]'
+- '[[_Standards/WikiData/WD~Khmer_Republic,1054184|WD~Khmer_Republic,1054184]]'
+- '[[_Standards/WikiData/WD~Khmer_Rouge,191764|WD~Khmer_Rouge,191764]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Cambodia,2638486|WD~Kingdom_of_Cambodia,2638486]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Laos,870055|WD~Kingdom_of_Laos,870055]]'
+- '[[_Standards/WikiData/WD~National_Liberation_Front_of_South_Vietnam,174423|WD~National_Liberation_Front_of_South_Vietnam,174423]]'
+- '[[_Standards/WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~North_Vietnam,172640|WD~North_Vietnam,172640]]'
+- '[[_Standards/WikiData/WD~Pathet_Lao,858887|WD~Pathet_Lao,858887]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Republic_of_Vietnam,180573|WD~Republic_of_Vietnam,180573]]'
+- '[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Vietnamkrieg.ogg
 start_time: 1955-11-01
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Campaignbox_Vietnam_War,8085558]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Campaignbox_Vietnam_War,8085558|WD~Template_Campaignbox_Vietnam_War,8085558]]'
 UMLS_CUI: C1449760
 U_S_National_Archives_Identifier: 10643608
 video: http://commons.wikimedia.org/wiki/Special:FilePath/1965-02-08%20Showdown%20in%20Vietnam.ogv
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Vietnam_War,8192852]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Vietnam_War,8192852|WD~outline_of_the_Vietnam_War,8192852]]'
 dv_has_:
   duration: P19Y6M1D
   duration_:
@@ -346,7 +346,7 @@ dv_has_:
     zh-tw: 越南戰爭
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Vietnam_War,8740]]'
+  - '[[../../../../../../../../WikiData/WD~Vietnam_War,8740|WD~Vietnam_War,8740]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Vietnam_War|1955-Vietnam_War]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Vietnam_War.public|1955-Vietnam_War.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Vietnam_War.internal|1955-Vietnam_War.internal]]'
@@ -357,7 +357,7 @@ dv_is_:
 dv_has_duration_years: 19
 dv_has_duration: P19Y6M1D
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Vietnam_War,8740]]'
+- '[[../../../../../../../../WikiData/WD~Vietnam_War,8740|WD~Vietnam_War,8740]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Vietnam_War|1955-Vietnam_War]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Vietnam_War.public|1955-Vietnam_War.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Vietnam_War.internal|1955-Vietnam_War.internal]]'
@@ -371,7 +371,7 @@ dv_is_same_as:
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Vietnam_War,8740]]  
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Vietnam_War,8740|WD~Vietnam_War,8740]]  
 
 ## #has_/text_of_/abstract 
 

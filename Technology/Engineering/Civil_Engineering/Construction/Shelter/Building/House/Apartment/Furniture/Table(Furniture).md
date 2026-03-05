@@ -127,15 +127,15 @@ aliases:
 - "\U00010331\U00010339\U0001033F\U00010338\U00010343"
 has_id_wikidata: Q14748
 different_from:
-- '[[_Standards/WikiData/WD~table,496946]]'
-- '[[_Standards/WikiData/WD~Table,14749]]'
+- '[[_Standards/WikiData/WD~table,496946|WD~table,496946]]'
+- '[[_Standards/WikiData/WD~Table,14749|WD~Table,14749]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~1911_Encyclopædia_Britannica_Table,84694475]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-has_part_s_: '[[_Standards/WikiData/WD~furniture_leg,56056049]]'
-subclass_of: '[[_Standards/WikiData/WD~furniture,14745]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~1911_Encyclopædia_Britannica_Table,84694475|WD~1911_Encyclopædia_Britannica_Table,84694475]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+has_part_s_: '[[_Standards/WikiData/WD~furniture_leg,56056049|WD~furniture_leg,56056049]]'
+subclass_of: '[[_Standards/WikiData/WD~furniture,14745|WD~furniture,14745]]'
 Nomenclature_for_Museum_Cataloging: 1349
 OmegaWiki_Defined_Meaning: 7196
 IMDb_keyword: table

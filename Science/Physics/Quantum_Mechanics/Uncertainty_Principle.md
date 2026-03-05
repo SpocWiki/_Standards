@@ -75,15 +75,15 @@ aliases:
 - 하이젠베르그의 불확정성관계
 has_id_wikidata: Q44746
 subclass_of:
-- '[[_Standards/WikiData/WD~relation,930933]]'
-- '[[_Standards/WikiData/WD~uncertainty,13649246]]'
-facet_of: '[[_Standards/WikiData/WD~quantum_physics,1144457]]'
-instance_of: '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-notable_work: '[[_Standards/WikiData/WD~I_am,107036412]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-named_after: '[[_Standards/WikiData/WD~Werner_Heisenberg,40904]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Werner_Heisenberg,40904]]'
+- '[[_Standards/WikiData/WD~relation,930933|WD~relation,930933]]'
+- '[[_Standards/WikiData/WD~uncertainty,13649246|WD~uncertainty,13649246]]'
+facet_of: '[[_Standards/WikiData/WD~quantum_physics,1144457|WD~quantum_physics,1144457]]'
+instance_of: '[[_Standards/WikiData/WD~scientific_theory,3239681|WD~scientific_theory,3239681]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+notable_work: '[[_Standards/WikiData/WD~I_am,107036412|WD~I_am,107036412]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+named_after: '[[_Standards/WikiData/WD~Werner_Heisenberg,40904|WD~Werner_Heisenberg,40904]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Werner_Heisenberg,40904|WD~Werner_Heisenberg,40904]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>&#x03C3;</mi><mrow data-mjx-texclass="ORD"><mi>x</mi></mrow></msub><msub><mi>&#x03C3;</mi><mrow data-mjx-texclass="ORD"><mi>p</mi></mrow></msub><mo stretchy="false">&#x2265;</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi alternate="1">&#x210F;</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></mfrac></mrow></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gamma-ray-microscope.svg
 Commons_category: Uncertainty principle

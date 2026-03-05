@@ -130,21 +130,21 @@ aliases:
 - 뉴스
 has_id_wikidata: Q38926
 different_from:
-- '[[_Standards/WikiData/WD~Vest,176845]]'
-- '[[_Standards/WikiData/WD~Naujiena,4325628]]'
-- '[[_Standards/WikiData/WD~news_article,5707594]]'
-- '[[_Standards/WikiData/WD~Wiadomości,9372383]]'
+- '[[_Standards/WikiData/WD~Vest,176845|WD~Vest,176845]]'
+- '[[_Standards/WikiData/WD~Naujiena,4325628|WD~Naujiena,4325628]]'
+- '[[_Standards/WikiData/WD~news_article,5707594|WD~news_article,5707594]]'
+- '[[_Standards/WikiData/WD~Wiadomości,9372383|WD~Wiadomości,9372383]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~data_set,1172284]]'
-- '[[_Standards/WikiData/WD~radio_genre,15961983]]'
-- '[[_Standards/WikiData/WD~television_genre,15961987]]'
-practiced_by: '[[_Standards/WikiData/WD~news_presenter,270389]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~data_set,1172284|WD~data_set,1172284]]'
+- '[[_Standards/WikiData/WD~radio_genre,15961983|WD~radio_genre,15961983]]'
+- '[[_Standards/WikiData/WD~television_genre,15961987|WD~television_genre,15961987]]'
+practiced_by: '[[_Standards/WikiData/WD~news_presenter,270389|WD~news_presenter,270389]]'
 subclass_of:
-- '[[../../../../WikiData/WD~work,386724]]'
-- '[[_Standards/WikiData/WD~communication,11024]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Current_events,4597488]]'
-model_item: '[[_Standards/WikiData/WD~Tagesthemen,19916]]'
+- '[[../../../../WikiData/WD~work,386724|WD~work,386724]]'
+- '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Current_events,4597488|WD~Portal_Current_events,4597488]]'
+model_item: '[[_Standards/WikiData/WD~Tagesthemen,19916|WD~Tagesthemen,19916]]'
 social_media_followers: 35900000
 IAB_code: 1020
 Commons_category: News

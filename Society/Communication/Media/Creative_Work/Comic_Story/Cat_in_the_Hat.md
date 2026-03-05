@@ -41,21 +41,21 @@ aliases:
 - 魔法靈貓
 - 모자 쓴 고양이
 has_id_wikidata: Q973053
-genre: "[[_Standards/WikiData/WD~children's_literature,131539]]"
-author: '[[_Standards/WikiData/WD~Dr._Seuss,298685]]'
-follows: '[[_Standards/WikiData/WD~How_the_Grinch_Stole_Christmas!,446612]]'
-followed_by: '[[_Standards/WikiData/WD~The_Cat_in_the_Hat_Comes_Back,3795581]]'
-derivative_work: '[[_Standards/WikiData/WD~The_Cat_in_the_Cap,4235898]]'
-instance_of: '[[_Standards/WikiData/WD~written_work,47461344]]'
+genre: "[[_Standards/WikiData/WD~children's_literature,131539|WD~children's_literature,131539]]"
+author: '[[_Standards/WikiData/WD~Dr._Seuss,298685|WD~Dr._Seuss,298685]]'
+follows: '[[_Standards/WikiData/WD~How_the_Grinch_Stole_Christmas!,446612|WD~How_the_Grinch_Stole_Christmas!,446612]]'
+followed_by: '[[_Standards/WikiData/WD~The_Cat_in_the_Hat_Comes_Back,3795581|WD~The_Cat_in_the_Hat_Comes_Back,3795581]]'
+derivative_work: '[[_Standards/WikiData/WD~The_Cat_in_the_Cap,4235898|WD~The_Cat_in_the_Cap,4235898]]'
+instance_of: '[[_Standards/WikiData/WD~written_work,47461344|WD~written_work,47461344]]'
 characters:
-- '[[_Standards/WikiData/WD~The_Cat_in_the_Hat,60466596]]'
-- '[[_Standards/WikiData/WD~Thing_1,60541561]]'
-- '[[_Standards/WikiData/WD~Thing_2,60541643]]'
-- '[[_Standards/WikiData/WD~The_Fish,60542386]]'
-has_edition_or_translation: '[[_Standards/WikiData/WD~The_Cat_in_the_Hat_(1985_edition),126109584]]'
-intended_public: '[[_Standards/WikiData/WD~child,7569]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~American_English,7976]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~The_Cat_in_the_Hat,60466596|WD~The_Cat_in_the_Hat,60466596]]'
+- '[[_Standards/WikiData/WD~Thing_1,60541561|WD~Thing_1,60541561]]'
+- '[[_Standards/WikiData/WD~Thing_2,60541643|WD~Thing_2,60541643]]'
+- '[[_Standards/WikiData/WD~The_Fish,60542386|WD~The_Fish,60542386]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~The_Cat_in_the_Hat_(1985_edition),126109584|WD~The_Cat_in_the_Hat_(1985_edition),126109584]]'
+intended_public: '[[_Standards/WikiData/WD~child,7569|WD~child,7569]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~American_English,7976|WD~American_English,7976]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 OCLC_number: 304833
 title: The Cat in the Hat
 publication_date: 1957-03-12T00:00:00Z

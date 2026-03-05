@@ -33,7 +33,7 @@ dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
   inverse: "[[../has/has_member|has_member]]"
   child_:
-    property: "[[../has/has_affiliation_with]]"
+    property: "[[../has/has_affiliation_with|has_affiliation_with]]"
   domain:
     - "[[../../../Society/Agent/Community/Organization|Organization]]"
     - "[[../../../Society/Agent/Person|Person]]"
@@ -51,7 +51,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/is/is_member_of.personal|is_member_of.personal]]"
     - "[[/_secret/schema-org/Relation/is/is_member_of.secret|is_member_of.secret]]"
 dv_has_inverse: "[[../has/has_member|has_member]]"
-dv_has_child_property: "[[../has/has_affiliation_with]]"
+dv_has_child_property: "[[../has/has_affiliation_with|has_affiliation_with]]"
 dv_has_domain:
   - "[[../../../Society/Agent/Community/Organization|Organization]]"
   - "[[../../../Society/Agent/Person|Person]]"

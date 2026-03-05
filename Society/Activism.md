@@ -67,18 +67,18 @@ aliases:
 - 활동주의
 has_id_wikidata: Q203764
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_engagement,1283504]]'
-- '[[_Standards/WikiData/WD~advocacy,2509280]]'
+- '[[_Standards/WikiData/WD~social_engagement,1283504|WD~social_engagement,1283504]]'
+- '[[_Standards/WikiData/WD~advocacy,2509280|WD~advocacy,2509280]]'
 part_of:
-- '[[_Standards/WikiData/WD~civic_engagement,4116870]]'
-- '[[_Standards/WikiData/WD~social_movement,49773]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12097912,12097912]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-practiced_by: '[[_Standards/WikiData/WD~activist,15253558]]'
-different_from: '[[_Standards/WikiData/WD~political_activism,19890758]]'
+- '[[_Standards/WikiData/WD~civic_engagement,4116870|WD~civic_engagement,4116870]]'
+- '[[_Standards/WikiData/WD~social_movement,49773|WD~social_movement,49773]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12097912,12097912|WD~Q12097912,12097912]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+practiced_by: '[[_Standards/WikiData/WD~activist,15253558|WD~activist,15253558]]'
+different_from: '[[_Standards/WikiData/WD~political_activism,19890758|WD~political_activism,19890758]]'
 social_media_followers: 12400
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Greenpeacebelomonte.jpg
 IMDb_keyword: activism
@@ -198,7 +198,7 @@ dv_has_:
 
 # [[Activism]] 
 
-#is_/same_as :: [[../WikiData/WD~Activism,203764]] 
+#is_/same_as :: [[../WikiData/WD~Activism,203764|WD~Activism,203764]] 
 
 ## #has_/text_of_/abstract 
 

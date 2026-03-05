@@ -32,10 +32,10 @@ aliases:
 - 사이리스터
 has_id_wikidata: Q180805
 has_part_s_:
-- '[[_Standards/WikiData/WD~cathode,175233]]'
-- '[[_Standards/WikiData/WD~anode,181232]]'
-subclass_of: '[[_Standards/WikiData/WD~semiconductor_device,175805]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+- '[[_Standards/WikiData/WD~cathode,175233|WD~cathode,175233]]'
+- '[[_Standards/WikiData/WD~anode,181232|WD~anode,181232]]'
+subclass_of: '[[_Standards/WikiData/WD~semiconductor_device,175805|WD~semiconductor_device,175805]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 time_of_discovery_or_invention: 1956-01-01T00:00:00Z
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D1%82%D0%B8%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B0.svg

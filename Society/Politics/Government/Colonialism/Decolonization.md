@@ -68,10 +68,10 @@ aliases:
 - 非殖民化
 - 탈식민지화
 has_id_wikidata: Q230533
-opposite_of: '[[_Standards/WikiData/WD~colonization,815962]]'
-subclass_of: '[[_Standards/WikiData/WD~process,3249551]]'
-described_by_source: '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-facet_of: '[[_Standards/WikiData/WD~colonialism,7167]]'
+opposite_of: '[[_Standards/WikiData/WD~colonization,815962|WD~colonization,815962]]'
+subclass_of: '[[_Standards/WikiData/WD~process,3249551|WD~process,3249551]]'
+described_by_source: '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+facet_of: '[[_Standards/WikiData/WD~colonialism,7167|WD~colonialism,7167]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20Star%20Monument%2C%20Accra%2C%20Ghana.JPG
 Commons_category: Decolonization
 Commons_gallery: Decolonization - Décolonisation

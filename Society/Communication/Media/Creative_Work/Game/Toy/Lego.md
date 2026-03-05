@@ -29,24 +29,24 @@ aliases:
 - 레고
 has_id_wikidata: Q170484
 has_part_s_:
-- '[[_Standards/WikiData/WD~Lego_minifigure,133803]]'
-- '[[_Standards/WikiData/WD~Lego_set,6518582]]'
-- '[[_Standards/WikiData/WD~Lego_brick,58780590]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Ole_Kirk_Christiansen,364571]]'
-instance_of: '[[_Standards/WikiData/WD~brand,431289]]'
-manufacturer: '[[_Standards/WikiData/WD~The_Lego_Group,1063455]]'
-part_of: '[[_Standards/WikiData/WD~Danish_Culture_Canon,1269747]]'
+- '[[_Standards/WikiData/WD~Lego_minifigure,133803|WD~Lego_minifigure,133803]]'
+- '[[_Standards/WikiData/WD~Lego_set,6518582|WD~Lego_set,6518582]]'
+- '[[_Standards/WikiData/WD~Lego_brick,58780590|WD~Lego_brick,58780590]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Ole_Kirk_Christiansen,364571|WD~Ole_Kirk_Christiansen,364571]]'
+instance_of: '[[_Standards/WikiData/WD~brand,431289|WD~brand,431289]]'
+manufacturer: '[[_Standards/WikiData/WD~The_Lego_Group,1063455|WD~The_Lego_Group,1063455]]'
+part_of: '[[_Standards/WikiData/WD~Danish_Culture_Canon,1269747|WD~Danish_Culture_Canon,1269747]]'
 history_of_topic:
-- '[[_Standards/WikiData/WD~history_of_Lego,1983721]]'
-- '[[_Standards/WikiData/WD~Lego_timeline,4992866]]'
+- '[[_Standards/WikiData/WD~history_of_Lego,1983721|WD~history_of_Lego,1983721]]'
+- '[[_Standards/WikiData/WD~Lego_timeline,4992866|WD~Lego_timeline,4992866]]'
 derivative_work:
-- '[[_Standards/WikiData/WD~The_LEGO_Movie,2608065]]'
-- '[[_Standards/WikiData/WD~LEGO_Worlds,20024451]]'
-- '[[_Standards/WikiData/WD~The_LEGO_Movie_2_The_Second_Part,23796643]]'
-- '[[_Standards/WikiData/WD~Lego,108371143]]'
-different_from: '[[_Standards/WikiData/WD~Lego_clone,16188409]]'
-country_of_origin: '[[_Standards/WikiData/WD~Denmark,35]]'
-country: '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~The_LEGO_Movie,2608065|WD~The_LEGO_Movie,2608065]]'
+- '[[_Standards/WikiData/WD~LEGO_Worlds,20024451|WD~LEGO_Worlds,20024451]]'
+- '[[_Standards/WikiData/WD~The_LEGO_Movie_2_The_Second_Part,23796643|WD~The_LEGO_Movie_2_The_Second_Part,23796643]]'
+- '[[_Standards/WikiData/WD~Lego,108371143|WD~Lego,108371143]]'
+different_from: '[[_Standards/WikiData/WD~Lego_clone,16188409|WD~Lego_clone,16188409]]'
+country_of_origin: '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+country: '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
 social_media_followers:
 - 19400000
 - 233057

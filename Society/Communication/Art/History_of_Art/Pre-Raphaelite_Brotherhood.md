@@ -61,21 +61,21 @@ aliases:
 - 라파엘 전파
 has_id_wikidata: Q184814
 founded_by:
-- '[[_Standards/WikiData/WD~John_Everett_Millais,159606]]'
-- '[[_Standards/WikiData/WD~Dante_Gabriel_Rossetti,186748]]'
-- '[[_Standards/WikiData/WD~William_Holman_Hunt,211763]]'
-influenced_by: '[[_Standards/WikiData/WD~John_Ruskin,179126]]'
+- '[[_Standards/WikiData/WD~John_Everett_Millais,159606|WD~John_Everett_Millais,159606]]'
+- '[[_Standards/WikiData/WD~Dante_Gabriel_Rossetti,186748|WD~Dante_Gabriel_Rossetti,186748]]'
+- '[[_Standards/WikiData/WD~William_Holman_Hunt,211763|WD~William_Holman_Hunt,211763]]'
+influenced_by: '[[_Standards/WikiData/WD~John_Ruskin,179126|WD~John_Ruskin,179126]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~style,1292119]]'
-- '[[_Standards/WikiData/WD~art_group,4502119]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~style,1292119|WD~style,1292119]]'
+- '[[_Standards/WikiData/WD~art_group,4502119|WD~art_group,4502119]]'
 inception: 1848-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Everett%20Millais%20-%20Mariana%20-%20Google%20Art%20Project.jpg
 ISNI: 0000000099935375

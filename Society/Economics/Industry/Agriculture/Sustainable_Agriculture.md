@@ -56,16 +56,16 @@ aliases:
 - 지속농업
 has_id_wikidata: Q2751054
 subclass_of:
-- '[[_Standards/WikiData/WD~sustainable_development,131201]]'
-- '[[_Standards/WikiData/WD~green_infrastructure,3427027]]'
-different_from: '[[_Standards/WikiData/WD~organic_agriculture,165647]]'
+- '[[_Standards/WikiData/WD~sustainable_development,131201|WD~sustainable_development,131201]]'
+- '[[_Standards/WikiData/WD~green_infrastructure,3427027|WD~green_infrastructure,3427027]]'
+different_from: '[[_Standards/WikiData/WD~organic_agriculture,165647|WD~organic_agriculture,165647]]'
 part_of:
-- '[[_Standards/WikiData/WD~sustainability,219416]]'
-- '[[_Standards/WikiData/WD~sustainable_food_system,76737185]]'
-has_part_s_: '[[_Standards/WikiData/WD~good_agricultural_practice,1318169]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-instance_of: '[[_Standards/WikiData/WD~farming_system,56395513]]'
-described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+- '[[_Standards/WikiData/WD~sustainability,219416|WD~sustainability,219416]]'
+- '[[_Standards/WikiData/WD~sustainable_food_system,76737185|WD~sustainable_food_system,76737185]]'
+has_part_s_: '[[_Standards/WikiData/WD~good_agricultural_practice,1318169|WD~good_agricultural_practice,1318169]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+instance_of: '[[_Standards/WikiData/WD~farming_system,56395513|WD~farming_system,56395513]]'
+described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
 Library_of_Congress_Classification: S494.5.S86
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coffee%20farm%20in%20Colombia.jpg
 Commons_category: Sustainable agriculture

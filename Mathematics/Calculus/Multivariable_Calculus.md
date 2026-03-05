@@ -37,11 +37,11 @@ aliases:
 - 다변수 미적분학
 has_id_wikidata: Q2035437
 different_from:
-- '[[_Standards/WikiData/WD~calculus,149972]]'
-- '[[_Standards/WikiData/WD~motor_vehicle_registration_agency,539809]]'
-instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-part_of: '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
+- '[[_Standards/WikiData/WD~calculus,149972|WD~calculus,149972]]'
+- '[[_Standards/WikiData/WD~motor_vehicle_registration_agency,539809|WD~motor_vehicle_registration_agency,539809]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+part_of: '[[_Standards/WikiData/WD~mathematical_analysis,7754|WD~mathematical_analysis,7754]]'
 Commons_category: Multivariate calculus
 dv_has_:
   name_:

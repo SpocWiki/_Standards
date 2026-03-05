@@ -108,10 +108,10 @@ aliases:
 - 아침
 has_id_wikidata: Q80973
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-subclass_of: '[[_Standards/WikiData/WD~meal,6460735]]'
-followed_by: '[[_Standards/WikiData/WD~lunch,12896105]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+subclass_of: '[[_Standards/WikiData/WD~meal,6460735|WD~meal,6460735]]'
+followed_by: '[[_Standards/WikiData/WD~lunch,12896105|WD~lunch,12896105]]'
 OmegaWiki_Defined_Meaning: 5787
 Iconclass_notation: 41C41
 subreddit: Breakfast

@@ -82,22 +82,22 @@ aliases:
 - 비디오 게임 콘솔
 has_id_wikidata: Q8076
 subclass_of:
-- '[[_Standards/WikiData/WD~home_appliance,212920]]'
-- '[[_Standards/WikiData/WD~manufactured_good,1836700]]'
-- '[[_Standards/WikiData/WD~electronic_toy,15654425]]'
-- '[[_Standards/WikiData/WD~video_game_platform,27666158]]'
-- '[[_Standards/WikiData/WD~console,55417699]]'
-- '[[_Standards/WikiData/WD~computer,68]]'
+- '[[_Standards/WikiData/WD~home_appliance,212920|WD~home_appliance,212920]]'
+- '[[_Standards/WikiData/WD~manufactured_good,1836700|WD~manufactured_good,1836700]]'
+- '[[_Standards/WikiData/WD~electronic_toy,15654425|WD~electronic_toy,15654425]]'
+- '[[_Standards/WikiData/WD~video_game_platform,27666158|WD~video_game_platform,27666158]]'
+- '[[_Standards/WikiData/WD~console,55417699|WD~console,55417699]]'
+- '[[_Standards/WikiData/WD~computer,68|WD~computer,68]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Lexico,4807054]]'
-- '[[_Standards/WikiData/WD~Dictionary.com,16960686]]'
-- '[[_Standards/WikiData/WD~Techopedia_Dictionary,52020585]]'
-- '[[_Standards/WikiData/WD~webopedia,55152191]]'
-- '[[_Standards/WikiData/WD~PC_Magazine_Encyclopedia,55417982]]'
+- '[[_Standards/WikiData/WD~Lexico,4807054|WD~Lexico,4807054]]'
+- '[[_Standards/WikiData/WD~Dictionary.com,16960686|WD~Dictionary.com,16960686]]'
+- '[[_Standards/WikiData/WD~Techopedia_Dictionary,52020585|WD~Techopedia_Dictionary,52020585]]'
+- '[[_Standards/WikiData/WD~webopedia,55152191|WD~webopedia,55152191]]'
+- '[[_Standards/WikiData/WD~PC_Magazine_Encyclopedia,55417982|WD~PC_Magazine_Encyclopedia,55417982]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_video_game_console,5650071]]'
-- '[[_Standards/WikiData/WD~Template_Video_game_consoles,18507268]]'
-has_list: '[[_Standards/WikiData/WD~Q121364283,121364283]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_video_game_console,5650071|WD~Template_Infobox_video_game_console,5650071]]'
+- '[[_Standards/WikiData/WD~Template_Video_game_consoles,18507268|WD~Template_Video_game_consoles,18507268]]'
+has_list: '[[_Standards/WikiData/WD~Q121364283,121364283|WD~Q121364283,121364283]]'
 properties_for_this_type:
 - operating system
 - input device

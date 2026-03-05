@@ -34,15 +34,15 @@ aliases:
 - 게토
 has_id_wikidata: Q152018
 subclass_of:
-- '[[_Standards/WikiData/WD~neighborhood,123705]]'
-- '[[_Standards/WikiData/WD~ethnic_enclave,3610510]]'
+- '[[_Standards/WikiData/WD~neighborhood,123705|WD~neighborhood,123705]]'
+- '[[_Standards/WikiData/WD~ethnic_enclave,3610510|WD~ethnic_enclave,3610510]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_Holocaust_event,13415629]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_Holocaust_event,13415629|WD~Template_Infobox_Holocaust_event,13415629]]'
 Commons_category: Ghetto
 IMDb_keyword: ghetto
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20N%201576%20Bild-006%2C%20Minsk%2C%20Juden.jpg

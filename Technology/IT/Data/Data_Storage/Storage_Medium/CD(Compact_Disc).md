@@ -86,33 +86,33 @@ MeSH_tree_code:
 - L01.224.230.260.115.475.600.325
 - L01.280.960.800.250
 subclass_of:
-- '[[_Standards/WikiData/WD~computer_storage_media,66221]]'
-- '[[_Standards/WikiData/WD~optical_disc,234870]]'
-- '[[_Standards/WikiData/WD~audio_storage_device,354004]]'
-- '[[_Standards/WikiData/WD~machine_readable_medium,1048236]]'
-- '[[_Standards/WikiData/WD~music_&_sound_recording_product,117208271]]'
+- '[[_Standards/WikiData/WD~computer_storage_media,66221|WD~computer_storage_media,66221]]'
+- '[[_Standards/WikiData/WD~optical_disc,234870|WD~optical_disc,234870]]'
+- '[[_Standards/WikiData/WD~audio_storage_device,354004|WD~audio_storage_device,354004]]'
+- '[[_Standards/WikiData/WD~machine_readable_medium,1048236|WD~machine_readable_medium,1048236]]'
+- '[[_Standards/WikiData/WD~music_&_sound_recording_product,117208271|WD~music_&_sound_recording_product,117208271]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Koninklijke_Philips_NV,170416]]'
-- '[[_Standards/WikiData/WD~Kees_Schouhamer_Immink,738978]]'
-- '[[_Standards/WikiData/WD~James_Russell,3308724]]'
-- '[[_Standards/WikiData/WD~Sony_Group,41187]]'
+- '[[_Standards/WikiData/WD~Koninklijke_Philips_NV,170416|WD~Koninklijke_Philips_NV,170416]]'
+- '[[_Standards/WikiData/WD~Kees_Schouhamer_Immink,738978|WD~Kees_Schouhamer_Immink,738978]]'
+- '[[_Standards/WikiData/WD~James_Russell,3308724|WD~James_Russell,3308724]]'
+- '[[_Standards/WikiData/WD~Sony_Group,41187|WD~Sony_Group,41187]]'
 replaces:
-- '[[_Standards/WikiData/WD~vinyl_record,178588]]'
-- '[[_Standards/WikiData/WD~phonograph_record,16629185]]'
-collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-compatible_with: '[[_Standards/WikiData/WD~CD_player,1023100]]'
-creator: '[[_Standards/WikiData/WD~Philips_Natuurkundig_Laboratorium,1741148]]'
-shape: '[[_Standards/WikiData/WD~disk,10803218]]'
-described_by_source: '[[_Standards/WikiData/WD~Museum_of_Obsolete_Media,61996814]]'
+- '[[_Standards/WikiData/WD~vinyl_record,178588|WD~vinyl_record,178588]]'
+- '[[_Standards/WikiData/WD~phonograph_record,16629185|WD~phonograph_record,16629185]]'
+collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740|WD~Museum_of_Modern_Art,188740]]'
+compatible_with: '[[_Standards/WikiData/WD~CD_player,1023100|WD~CD_player,1023100]]'
+creator: '[[_Standards/WikiData/WD~Philips_Natuurkundig_Laboratorium,1741148|WD~Philips_Natuurkundig_Laboratorium,1741148]]'
+shape: '[[_Standards/WikiData/WD~disk,10803218|WD~disk,10803218]]'
+described_by_source: '[[_Standards/WikiData/WD~Museum_of_Obsolete_Media,61996814|WD~Museum_of_Obsolete_Media,61996814]]'
 instance_of:
-- '[[_Standards/WikiData/WD~product_category,63981612]]'
-- '[[_Standards/WikiData/WD~physical_media_format,82036085]]'
-- '[[_Standards/WikiData/WD~audio_release_format,108037652]]'
-facet_of: '[[_Standards/WikiData/WD~physical_distribution,108039701]]'
-followed_by: '[[_Standards/WikiData/WD~DVD,5294]]'
-different_from: '[[_Standards/WikiData/WD~CD_ROM,7982]]'
+- '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
+- '[[_Standards/WikiData/WD~physical_media_format,82036085|WD~physical_media_format,82036085]]'
+- '[[_Standards/WikiData/WD~audio_release_format,108037652|WD~audio_release_format,108037652]]'
+facet_of: '[[_Standards/WikiData/WD~physical_distribution,108039701|WD~physical_distribution,108039701]]'
+followed_by: '[[_Standards/WikiData/WD~DVD,5294|WD~DVD,5294]]'
+different_from: '[[_Standards/WikiData/WD~CD_ROM,7982|WD~CD_ROM,7982]]'
 storage_capacity: 700
-owned_by: '[[_Standards/WikiData/WD~Sony_Group,41187]]'
+owned_by: '[[_Standards/WikiData/WD~Sony_Group,41187|WD~Sony_Group,41187]]'
 Nomenclature_for_Museum_Cataloging: 10487
 IMDb_keyword: cd
 OmegaWiki_Defined_Meaning: 862432

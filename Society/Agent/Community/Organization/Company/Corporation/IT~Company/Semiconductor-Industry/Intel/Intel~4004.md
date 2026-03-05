@@ -154,7 +154,7 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Intel%204004) 
 
 
-[[Faggin,Federico]] later created [[../Zilog]] 
+[[Faggin,Federico]] later created [[../Zilog|Zilog]] 
 
 
 ## Confidential Links & Embeds: 

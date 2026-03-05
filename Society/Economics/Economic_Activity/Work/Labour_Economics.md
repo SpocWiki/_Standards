@@ -57,18 +57,18 @@ aliases:
 - 노동경제학
 has_id_wikidata: Q28161
 significant_person:
-- '[[_Standards/WikiData/WD~Michael_Spence,157245]]'
-- '[[_Standards/WikiData/WD~Gary_Becker,191020]]'
-- '[[_Standards/WikiData/WD~Alan_B._Krueger,931129]]'
-- '[[_Standards/WikiData/WD~David_Card,1173928]]'
-- '[[_Standards/WikiData/WD~Jacob_Mincer,2599645]]'
-is_the_study_of: '[[../../../../WikiData/WD~work,268378]]'
+- '[[_Standards/WikiData/WD~Michael_Spence,157245|WD~Michael_Spence,157245]]'
+- '[[_Standards/WikiData/WD~Gary_Becker,191020|WD~Gary_Becker,191020]]'
+- '[[_Standards/WikiData/WD~Alan_B._Krueger,931129|WD~Alan_B._Krueger,931129]]'
+- '[[_Standards/WikiData/WD~David_Card,1173928|WD~David_Card,1173928]]'
+- '[[_Standards/WikiData/WD~Jacob_Mincer,2599645|WD~Jacob_Mincer,2599645]]'
+is_the_study_of: '[[../../../../WikiData/WD~work,268378|WD~work,268378]]'
 different_from:
-- '[[_Standards/WikiData/WD~labor_economics,628722]]'
-- '[[_Standards/WikiData/WD~labour,_migration_and_development,113115876]]'
-facet_of: '[[_Standards/WikiData/WD~economic_theory,1401304]]'
-instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-subclass_of: '[[_Standards/WikiData/WD~economics,8134]]'
+- '[[_Standards/WikiData/WD~labor_economics,628722|WD~labor_economics,628722]]'
+- '[[_Standards/WikiData/WD~labour,_migration_and_development,113115876|WD~labour,_migration_and_development,113115876]]'
+facet_of: '[[_Standards/WikiData/WD~economic_theory,1401304|WD~economic_theory,1401304]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+subclass_of: '[[_Standards/WikiData/WD~economics,8134|WD~economics,8134]]'
 Dewey_Decimal_Classification: 331
 Commons_category: Work
 dv_has_:

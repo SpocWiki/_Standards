@@ -65,17 +65,17 @@ aliases:
 - 폭동
 has_id_wikidata: Q124757
 subclass_of:
-- '[[_Standards/WikiData/WD~protest,273120]]'
-- '[[_Standards/WikiData/WD~civil_disorder,686984]]'
-- '[[_Standards/WikiData/WD~social_movement,49773]]'
+- '[[_Standards/WikiData/WD~protest,273120|WD~protest,273120]]'
+- '[[_Standards/WikiData/WD~civil_disorder,686984|WD~civil_disorder,686984]]'
+- '[[_Standards/WikiData/WD~social_movement,49773|WD~social_movement,49773]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-different_from: '[[_Standards/WikiData/WD~insurgency,1323212]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~insurgency,1323212|WD~insurgency,1323212]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Protest%20after%20the%20killing%20of%20Daunte%20Wright%20in%20Brooklyn%20Center%20April%2011%202021.jpg
 MIL_STD_2525_Symbol_Identification_Code: 10014000001101100000
 U_S_National_Archives_Identifier: 10643051

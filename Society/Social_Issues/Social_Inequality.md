@@ -63,13 +63,13 @@ aliases:
 - 사회적 불평등
 has_id_wikidata: Q5431887
 instance_of:
-- '[[_Standards/WikiData/WD~social_phenomenon,602884]]'
-- '[[_Standards/WikiData/WD~social_issue,1920219]]'
-- '[[_Standards/WikiData/WD~social_science_concept,131362181]]'
-subclass_of: '[[_Standards/WikiData/WD~disparity,11536499]]'
-has_cause: '[[_Standards/WikiData/WD~greed,12819497]]'
-opposite_of: '[[_Standards/WikiData/WD~social_equality,13416790]]'
-studied_by: '[[_Standards/WikiData/WD~sociology_of_inequalities,111327036]]'
+- '[[_Standards/WikiData/WD~social_phenomenon,602884|WD~social_phenomenon,602884]]'
+- '[[_Standards/WikiData/WD~social_issue,1920219|WD~social_issue,1920219]]'
+- '[[_Standards/WikiData/WD~social_science_concept,131362181|WD~social_science_concept,131362181]]'
+subclass_of: '[[_Standards/WikiData/WD~disparity,11536499|WD~disparity,11536499]]'
+has_cause: '[[_Standards/WikiData/WD~greed,12819497|WD~greed,12819497]]'
+opposite_of: '[[_Standards/WikiData/WD~social_equality,13416790|WD~social_equality,13416790]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_inequalities,111327036|WD~sociology_of_inequalities,111327036]]'
 Library_of_Congress_Classification: HM821-HM821.17
 Dewey_Decimal_Classification: 305.5
 Commons_category: Social inequality
@@ -146,7 +146,7 @@ dv_has_:
 # [[Social_Inequality]] 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~social_inequality,5431887]] 
+#is_/same_as :: [[_Standards/WikiData/WD~social_inequality,5431887|WD~social_inequality,5431887]] 
 
 ## #has_/text_of_/abstract 
 

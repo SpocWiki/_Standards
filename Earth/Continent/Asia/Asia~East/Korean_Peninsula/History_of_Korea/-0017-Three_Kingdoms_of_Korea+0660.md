@@ -91,21 +91,21 @@ aliases:
 - 삼국 시대
 - 세나라시기
 has_id_wikidata: Q165292
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~kingdom,417175]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~kingdom,417175|WD~kingdom,417175]]'
 instance_of:
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-- '[[_Standards/WikiData/WD~triad,29430681]]'
-- '[[_Standards/WikiData/WD~geopolitical_group,52110228]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q130911468,130911468]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~triad,29430681|WD~triad,29430681]]'
+- '[[_Standards/WikiData/WD~geopolitical_group,52110228|WD~geopolitical_group,52110228]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q130911468,130911468|WD~Q130911468,130911468]]'
 start_time: -0017-01-01T00:00:00Z
 end_time: 0660-01-01T00:00:00Z
-location: '[[_Standards/WikiData/WD~Korea,18097]]'
+location: '[[_Standards/WikiData/WD~Korea,18097|WD~Korea,18097]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Goguryeo,28370]]'
-- '[[_Standards/WikiData/WD~Silla,28456]]'
+- '[[_Standards/WikiData/WD~Goguryeo,28370|WD~Goguryeo,28370]]'
+- '[[_Standards/WikiData/WD~Silla,28456|WD~Silla,28456]]'
 named_after:
-- '[[_Standards/WikiData/WD~Goguryeo,28370]]'
-- '[[_Standards/WikiData/WD~Silla,28456]]'
+- '[[_Standards/WikiData/WD~Goguryeo,28370|WD~Goguryeo,28370]]'
+- '[[_Standards/WikiData/WD~Silla,28456|WD~Silla,28456]]'
 Commons_gallery: Three Kingdoms of Korea
 Commons_category: Three Kingdoms of Korea
 image: http://commons.wikimedia.org/wiki/Special:FilePath/History%20of%20Korea-476.PNG

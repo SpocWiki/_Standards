@@ -203,44 +203,44 @@ aliases:
 - "\U00010345\U00010339\U00010344\U00010339\U00010342\U00010330\U00010337\U0001033D\U0001033E\U00010330\U0001033D\U00010333\U00010343"
 has_id_wikidata: Q68
 different_from:
-- '[[_Standards/WikiData/WD~computing,179310]]'
-- '[[_Standards/WikiData/WD~computer_monitor,5290]]'
-- '[[_Standards/WikiData/WD~central_processing_unit,5300]]'
+- '[[_Standards/WikiData/WD~computing,179310|WD~computing,179310]]'
+- '[[_Standards/WikiData/WD~computer_monitor,5290|WD~computer_monitor,5290]]'
+- '[[_Standards/WikiData/WD~central_processing_unit,5300|WD~central_processing_unit,5300]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~graphics_processing_unit,183484]]'
-- '[[_Standards/WikiData/WD~input_output_device,2384798]]'
-- '[[_Standards/WikiData/WD~computer_hardware,3966]]'
-- '[[_Standards/WikiData/WD~central_processing_unit,5300]]'
-- '[[_Standards/WikiData/WD~software,7397]]'
-- '[[_Standards/WikiData/WD~computer_keyboard,250]]'
+- '[[_Standards/WikiData/WD~graphics_processing_unit,183484|WD~graphics_processing_unit,183484]]'
+- '[[_Standards/WikiData/WD~input_output_device,2384798|WD~input_output_device,2384798]]'
+- '[[_Standards/WikiData/WD~computer_hardware,3966|WD~computer_hardware,3966]]'
+- '[[_Standards/WikiData/WD~central_processing_unit,5300|WD~central_processing_unit,5300]]'
+- '[[_Standards/WikiData/WD~software,7397|WD~software,7397]]'
+- '[[_Standards/WikiData/WD~computer_keyboard,250|WD~computer_keyboard,250]]'
 uses:
-- '[[_Standards/WikiData/WD~mechanical_energy,184550]]'
-- '[[_Standards/WikiData/WD~electronics,11650]]'
-- '[[_Standards/WikiData/WD~electricity,12725]]'
+- '[[_Standards/WikiData/WD~mechanical_energy,184550|WD~mechanical_energy,184550]]'
+- '[[_Standards/WikiData/WD~electronics,11650|WD~electronics,11650]]'
+- '[[_Standards/WikiData/WD~electricity,12725|WD~electricity,12725]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~computing_platform,241317]]'
-- '[[_Standards/WikiData/WD~data_terminal_equipment,1172400]]'
-- '[[_Standards/WikiData/WD~IT_system,1662611]]'
-- '[[_Standards/WikiData/WD~information_processor,3181395]]'
-- '[[_Standards/WikiData/WD~computer_file_location,115517465]]'
-- '[[_Standards/WikiData/WD~machine,11019]]'
+- '[[_Standards/WikiData/WD~computing_platform,241317|WD~computing_platform,241317]]'
+- '[[_Standards/WikiData/WD~data_terminal_equipment,1172400|WD~data_terminal_equipment,1172400]]'
+- '[[_Standards/WikiData/WD~IT_system,1662611|WD~IT_system,1662611]]'
+- '[[_Standards/WikiData/WD~information_processor,3181395|WD~information_processor,3181395]]'
+- '[[_Standards/WikiData/WD~computer_file_location,115517465|WD~computer_file_location,115517465]]'
+- '[[_Standards/WikiData/WD~machine,11019|WD~machine,11019]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~class_of_computers,716676]]'
-- '[[_Standards/WikiData/WD~computer_performance,1197550]]'
-- '[[_Standards/WikiData/WD~computer_configuration,1781447]]'
-- '[[_Standards/WikiData/WD~computer_interface,23808]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_computing_device,5616658]]'
+- '[[_Standards/WikiData/WD~class_of_computers,716676|WD~class_of_computers,716676]]'
+- '[[_Standards/WikiData/WD~computer_performance,1197550|WD~computer_performance,1197550]]'
+- '[[_Standards/WikiData/WD~computer_configuration,1781447|WD~computer_configuration,1781447]]'
+- '[[_Standards/WikiData/WD~computer_interface,23808|WD~computer_interface,23808]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_computing_device,5616658|WD~Template_Infobox_computing_device,5616658]]'
 influenced_by:
-- '[[_Standards/WikiData/WD~MUSASINO_1,6719084]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_computers,7112590]]'
+- '[[_Standards/WikiData/WD~MUSASINO_1,6719084|WD~MUSASINO_1,6719084]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_computers,7112590|WD~outline_of_computers,7112590]]'
 instance_of:
-- '[[_Standards/WikiData/WD~invention,14208553]]'
+- '[[_Standards/WikiData/WD~invention,14208553|WD~invention,14208553]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q55744235,55744235]]'
-- '[[_Standards/WikiData/WD~computer,134875356]]'
+- '[[_Standards/WikiData/WD~Q55744235,55744235|WD~Q55744235,55744235]]'
+- '[[_Standards/WikiData/WD~computer,134875356|WD~computer,134875356]]'
 studied_by:
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Babbage,46633]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Babbage,46633|WD~Charles_Babbage,46633]]'
 Commons_gallery: Computer
 OmegaWiki_Defined_Meaning: 5669
 Nomenclature_for_Museum_Cataloging: 10453

@@ -27,7 +27,7 @@ title: is_a_return_label_source_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration|Return_Label_Source_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Return_Label_Source_Enumeration.public|Return_Label_Source_Enumeration.public]]"
@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration.secret|Return_Label_Source_Enumeration.secret]]"
     - "[[Return_Label_Source_Enumeration]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Return_Label_Source_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Return_Label_Source_Enumeration.public|Return_Label_Source_Enumeration.public]]"

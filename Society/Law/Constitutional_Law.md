@@ -72,19 +72,19 @@ aliases:
 - 憲法
 - 헌법
 has_id_wikidata: Q11206
-subclass_of: '[[_Standards/WikiData/WD~public_law,207892]]'
+subclass_of: '[[_Standards/WikiData/WD~public_law,207892|WD~public_law,207892]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-instance_of: '[[_Standards/WikiData/WD~area_of_law,1756157]]'
-history_of_topic: '[[_Standards/WikiData/WD~constitutional_history,2515460]]'
-studied_by: '[[_Standards/WikiData/WD~constitutional_theory,6818846]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_law,1756157|WD~area_of_law,1756157]]'
+history_of_topic: '[[_Standards/WikiData/WD~constitutional_history,2515460|WD~constitutional_history,2515460]]'
+studied_by: '[[_Standards/WikiData/WD~constitutional_theory,6818846|WD~constitutional_theory,6818846]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~constitutionalist,77844028]]'
-- '[[_Standards/WikiData/WD~constitutional_drafter,120499721]]'
+- '[[_Standards/WikiData/WD~constitutionalist,77844028|WD~constitutionalist,77844028]]'
+- '[[_Standards/WikiData/WD~constitutional_drafter,120499721|WD~constitutional_drafter,120499721]]'
 Dewey_Decimal_Classification: 342
 U_S_National_Archives_Identifier: 10639675
 Commons_category: Constitutional law

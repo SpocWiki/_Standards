@@ -21,22 +21,22 @@ aliases:
 - 生活
 - 라이프
 has_id_wikidata: Q463198
-significant_person: '[[_Standards/WikiData/WD~Robert_Capa,152524]]'
-has_works_in_the_collection: '[[_Standards/WikiData/WD~Anne_Frank_House,165366]]'
-publisher: '[[_Standards/WikiData/WD~Clair_Maxwell,5125113]]'
-editor: '[[_Standards/WikiData/WD~George_Cary_Eggleston,5537737]]'
+significant_person: '[[_Standards/WikiData/WD~Robert_Capa,152524|WD~Robert_Capa,152524]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Anne_Frank_House,165366|WD~Anne_Frank_House,165366]]'
+publisher: '[[_Standards/WikiData/WD~Clair_Maxwell,5125113|WD~Clair_Maxwell,5125113]]'
+editor: '[[_Standards/WikiData/WD~George_Cary_Eggleston,5537737|WD~George_Cary_Eggleston,5537737]]'
 archives_at:
-- '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
-- '[[_Standards/WikiData/WD~Life_magazine_photo_archive,119597382]]'
-has_part_s_: '[[_Standards/WikiData/WD~Life_magazine_photo_archive,119597382]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
-owned_by: '[[_Standards/WikiData/WD~People_Inc.,124250582]]'
+- '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887|WD~New_York_Public_Library_Main_Branch,7013887]]'
+- '[[_Standards/WikiData/WD~Life_magazine_photo_archive,119597382|WD~Life_magazine_photo_archive,119597382]]'
+has_part_s_: '[[_Standards/WikiData/WD~Life_magazine_photo_archive,119597382|WD~Life_magazine_photo_archive,119597382]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821|WD~WikiProject_New_York_Public_Library,121437821]]'
+owned_by: '[[_Standards/WikiData/WD~People_Inc.,124250582|WD~People_Inc.,124250582]]'
 inception: 1883-01-01T00:00:00Z
-language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-main_subject: '[[_Standards/WikiData/WD~humor,35874]]'
-instance_of: '[[_Standards/WikiData/WD~magazine,41298]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+main_subject: '[[_Standards/WikiData/WD~humor,35874|WD~humor,35874]]'
+instance_of: '[[_Standards/WikiData/WD~magazine,41298|WD~magazine,41298]]'
 ISSN:
 - 2169-1576
 - 0024-3019

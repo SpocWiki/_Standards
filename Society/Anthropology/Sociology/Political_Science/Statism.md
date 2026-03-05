@@ -48,9 +48,9 @@ aliases:
 - 國家主義
 - 국가주의
 has_id_wikidata: Q322294
-opposite_of: '[[_Standards/WikiData/WD~anti_statism,646407]]'
-part_of: '[[_Standards/WikiData/WD~corporate_statism,872760]]'
-instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+opposite_of: '[[_Standards/WikiData/WD~anti_statism,646407|WD~anti_statism,646407]]'
+part_of: '[[_Standards/WikiData/WD~corporate_statism,872760|WD~corporate_statism,872760]]'
+instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
 dv_has_:
   name_:
     ar: سيطرة الدولة

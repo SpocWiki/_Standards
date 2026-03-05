@@ -31,10 +31,10 @@ aliases:
 - 計算可能関数
 - 계산 가능한 함수
 has_id_wikidata: Q1148456
-studied_by: '[[_Standards/WikiData/WD~computability_theory,818930]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-opposite_of: '[[_Standards/WikiData/WD~Non_computable_function,127841039]]'
-subclass_of: '[[_Standards/WikiData/WD~function,11348]]'
+studied_by: '[[_Standards/WikiData/WD~computability_theory,818930|WD~computability_theory,818930]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+opposite_of: '[[_Standards/WikiData/WD~Non_computable_function,127841039|WD~Non_computable_function,127841039]]'
+subclass_of: '[[_Standards/WikiData/WD~function,11348|WD~function,11348]]'
 dv_has_:
   name_:
     ar: دالة حسوبة

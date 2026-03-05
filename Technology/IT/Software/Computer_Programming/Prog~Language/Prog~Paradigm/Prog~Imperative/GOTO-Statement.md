@@ -1,5 +1,5 @@
-[[Edsger_Dijkstra]] wrote the [[../../../../../../../Society/Communication/Media/Creative_Work/Article]]  "GOTO considered harmful" 
-[[../Prog~Structured]] is propagated instead.
+[[Edsger_Dijkstra]] wrote the [[../../../../../../../Society/Communication/Media/Creative_Work/Article|Article]]  "GOTO considered harmful" 
+[[../Prog~Structured|Prog~Structured]] is propagated instead.
 
 
 ## Confidential Links & Embeds: 

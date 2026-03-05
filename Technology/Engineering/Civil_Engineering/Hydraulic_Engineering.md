@@ -55,21 +55,21 @@ aliases:
 - 水利工程
 - 水工学
 has_id_wikidata: Q1130265
-subclass_of: '[[_Standards/WikiData/WD~civil_engineering,77590]]'
+subclass_of: '[[_Standards/WikiData/WD~civil_engineering,77590|WD~civil_engineering,77590]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~economic_sector,3958441]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
-- '[[_Standards/WikiData/WD~course_of_study,114948502]]'
-has_characteristic: '[[_Standards/WikiData/WD~Q1267237,1267237]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~economic_sector,3958441|WD~economic_sector,3958441]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
+- '[[_Standards/WikiData/WD~course_of_study,114948502|WD~course_of_study,114948502]]'
+has_characteristic: '[[_Standards/WikiData/WD~Q1267237,1267237|WD~Q1267237,1267237]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~hydraulic_engineer,1651055]]'
-- '[[_Standards/WikiData/WD~hydrology_technician,10385897]]'
+- '[[_Standards/WikiData/WD~hydraulic_engineer,1651055|WD~hydraulic_engineer,1651055]]'
+- '[[_Standards/WikiData/WD~hydrology_technician,10385897|WD~hydrology_technician,10385897]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-different_from: '[[_Standards/WikiData/WD~hydrologic_engineering,72358999]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+different_from: '[[_Standards/WikiData/WD~hydrologic_engineering,72358999|WD~hydrologic_engineering,72358999]]'
 Dewey_Decimal_Classification: 627
 OmegaWiki_Defined_Meaning: 1816
 Colon_Classification: D3

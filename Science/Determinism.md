@@ -45,16 +45,16 @@ aliases:
 - 決定論
 - 결정론
 has_id_wikidata: Q131133
-opposite_of: '[[_Standards/WikiData/WD~indeterminism,876695]]'
+opposite_of: '[[_Standards/WikiData/WD~indeterminism,876695|WD~indeterminism,876695]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-subclass_of: '[[_Standards/WikiData/WD~philosophical_theory,5389993]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Determinism,19817629]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophical_theory,5389993|WD~philosophical_theory,5389993]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Determinism,19817629|WD~Template_Determinism,19817629]]'
 different_from:
-- '[[_Standards/WikiData/WD~determinism,111031095]]'
-- '[[_Standards/WikiData/WD~fatalism,29253]]'
-instance_of: '[[_Standards/WikiData/WD~world_view,49447]]'
+- '[[_Standards/WikiData/WD~determinism,111031095|WD~determinism,111031095]]'
+- '[[_Standards/WikiData/WD~fatalism,29253|WD~fatalism,29253]]'
+instance_of: '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
 Dewey_Decimal_Classification: 123
 OmegaWiki_Defined_Meaning: 525954
 image:

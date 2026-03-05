@@ -13,7 +13,7 @@ aliases:
 
 # [[Skin_in_the_Game]]
 
-#is_/similar_to :: [[Skin_in_the_Game/Eating_your_own_dog_food]] 
+#is_/similar_to :: [[Skin_in_the_Game/Eating_your_own_dog_food|Eating_your_own_dog_food]] 
 
 ## #has_/text_of_/abstract 
 

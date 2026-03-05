@@ -11,21 +11,21 @@ aliases:
 - 멀틱스
 has_id_wikidata: Q739186
 programmed_in:
-- '[[_Standards/WikiData/WD~assembly_language,165436]]'
-- '[[_Standards/WikiData/WD~PL_I,223433]]'
+- '[[_Standards/WikiData/WD~assembly_language,165436|WD~assembly_language,165436]]'
+- '[[_Standards/WikiData/WD~PL_I,223433|WD~PL_I,223433]]'
 developer:
-- '[[_Standards/WikiData/WD~Bell_Labs,217365]]'
-- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
-- '[[_Standards/WikiData/WD~General_Electric,54173]]'
-copyright_license: '[[_Standards/WikiData/WD~MIT_License,334661]]'
+- '[[_Standards/WikiData/WD~Bell_Labs,217365|WD~Bell_Labs,217365]]'
+- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108|WD~Massachusetts_Institute_of_Technology,49108]]'
+- '[[_Standards/WikiData/WD~General_Electric,54173|WD~General_Electric,54173]]'
+copyright_license: '[[_Standards/WikiData/WD~MIT_License,334661|WD~MIT_License,334661]]'
 platform:
-- '[[_Standards/WikiData/WD~Honeywell_6000_series,5893978]]'
-- '[[_Standards/WikiData/WD~GE_645,55612177]]'
-copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
-instance_of: '[[_Standards/WikiData/WD~operating_system,9135]]'
-followed_by: '[[_Standards/WikiData/WD~Q11368,11368]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Honeywell_6000_series,5893978|WD~Honeywell_6000_series,5893978]]'
+- '[[_Standards/WikiData/WD~GE_645,55612177|WD~GE_645,55612177]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~operating_system,9135|WD~operating_system,9135]]'
+followed_by: '[[_Standards/WikiData/WD~Q11368,11368|WD~Q11368,11368]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 publication_date: 1969-10-01T00:00:00Z
 inception: 1965-01-01T00:00:00Z
 Commons_category: Multics

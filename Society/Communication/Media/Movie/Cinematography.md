@@ -83,22 +83,22 @@ aliases:
 - 電影翕影
 - 촬영
 has_id_wikidata: Q590870
-history_of_topic: '[[_Standards/WikiData/WD~history_of_film,107478]]'
-practiced_by: '[[_Standards/WikiData/WD~cinematographer,222344]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_film,107478|WD~history_of_film,107478]]'
+practiced_by: '[[_Standards/WikiData/WD~cinematographer,222344|WD~cinematographer,222344]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~cinematography,2993278]]'
-- '[[_Standards/WikiData/WD~cinema,16144339]]'
-- '[[_Standards/WikiData/WD~Q128619791,128619791]]'
+- '[[_Standards/WikiData/WD~cinematography,2993278|WD~cinematography,2993278]]'
+- '[[_Standards/WikiData/WD~cinema,16144339|WD~cinema,16144339]]'
+- '[[_Standards/WikiData/WD~Q128619791,128619791|WD~Q128619791,128619791]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~conflation,14946528]]'
-- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~conflation,14946528|WD~conflation,14946528]]'
+- '[[_Standards/WikiData/WD~type_of_arts,56055944|WD~type_of_arts,56055944]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-subclass_of: '[[_Standards/WikiData/WD~photography,11633]]'
-part_of: '[[_Standards/WikiData/WD~visual_arts,36649]]'
-different_from: '[[_Standards/WikiData/WD~cinematograph,46872]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+subclass_of: '[[_Standards/WikiData/WD~photography,11633|WD~photography,11633]]'
+part_of: '[[_Standards/WikiData/WD~visual_arts,36649|WD~visual_arts,36649]]'
+different_from: '[[_Standards/WikiData/WD~cinematograph,46872|WD~cinematograph,46872]]'
 Dewey_Decimal_Classification: 777
 social_media_followers: 263333
 OmegaWiki_Defined_Meaning: 351491

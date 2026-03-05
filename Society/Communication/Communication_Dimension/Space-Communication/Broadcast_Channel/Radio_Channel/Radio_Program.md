@@ -59,22 +59,22 @@ aliases:
 - 라디오 프로그램
 has_id_wikidata: Q1555508
 different_from:
-- '[[_Standards/WikiData/WD~radio_broadcasting,273623]]'
-- '[[_Standards/WikiData/WD~radio_show,1742009]]'
-part_of: '[[_Standards/WikiData/WD~radio_programming,2296548]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~radio_broadcasting,273623|WD~radio_broadcasting,273623]]'
+- '[[_Standards/WikiData/WD~radio_show,1742009|WD~radio_show,1742009]]'
+part_of: '[[_Standards/WikiData/WD~radio_programming,2296548|WD~radio_programming,2296548]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~radio_personality,2722764]]'
-- '[[_Standards/WikiData/WD~radio_producer,3406651]]'
-- '[[_Standards/WikiData/WD~radio_editor,10270331]]'
+- '[[_Standards/WikiData/WD~radio_personality,2722764|WD~radio_personality,2722764]]'
+- '[[_Standards/WikiData/WD~radio_producer,3406651|WD~radio_producer,3406651]]'
+- '[[_Standards/WikiData/WD~radio_editor,10270331|WD~radio_editor,10270331]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~broadcasting_program,11578774]]'
-- '[[_Standards/WikiData/WD~audio_work,110879422]]'
-- '[[_Standards/WikiData/WD~published_audio_work,119649004]]'
-- '[[_Standards/WikiData/WD~mass_media,11033]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_radio_show,13033995]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_mass_media,121132955]]'
-manufacturer: '[[_Standards/WikiData/WD~radio_station,14350]]'
+- '[[_Standards/WikiData/WD~broadcasting_program,11578774|WD~broadcasting_program,11578774]]'
+- '[[_Standards/WikiData/WD~audio_work,110879422|WD~audio_work,110879422]]'
+- '[[_Standards/WikiData/WD~published_audio_work,119649004|WD~published_audio_work,119649004]]'
+- '[[_Standards/WikiData/WD~mass_media,11033|WD~mass_media,11033]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_radio_show,13033995|WD~Template_Infobox_radio_show,13033995]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_mass_media,121132955|WD~type_of_mass_media,121132955]]'
+manufacturer: '[[_Standards/WikiData/WD~radio_station,14350|WD~radio_station,14350]]'
 U_S_National_Archives_Identifier:
 - 10644300
 - 10657688
@@ -161,7 +161,7 @@ dv_has_:
 
 # [[Radio_Program]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~radio_program,1555508]] 
+#is_/same_as :: [[_Standards/WikiData/WD~radio_program,1555508|WD~radio_program,1555508]] 
 
 ## #has_/text_of_/abstract 
 

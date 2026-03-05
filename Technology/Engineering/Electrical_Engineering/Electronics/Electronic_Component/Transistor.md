@@ -70,10 +70,10 @@ Dewey_Decimal_Classification:
 - 621.381528
 - 621.38832
 follows:
-- '[[_Standards/WikiData/WD~gas-filled_tube,1159201]]'
-- '[[_Standards/WikiData/WD~semiconductor_diode,1929430]]'
-- '[[_Standards/WikiData/WD~vacuum_tube,3574371]]'
-has_part_s_: '[[_Standards/WikiData/WD~p_n_junction,176300]]'
+- '[[_Standards/WikiData/WD~gas-filled_tube,1159201|WD~gas-filled_tube,1159201]]'
+- '[[_Standards/WikiData/WD~semiconductor_diode,1929430|WD~semiconductor_diode,1929430]]'
+- '[[_Standards/WikiData/WD~vacuum_tube,3574371|WD~vacuum_tube,3574371]]'
+has_part_s_: '[[_Standards/WikiData/WD~p_n_junction,176300|WD~p_n_junction,176300]]'
 icon:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20NPN%20symbol.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20PNP%20symbol.png
@@ -83,10 +83,10 @@ MeSH_tree_code: E07.305.625.714
 Nomenclature_for_Museum_Cataloging: 8832
 Stack_Exchange_tag: https://electronics.stackexchange.com/tags/transistors
 subclass_of:
-- '[[_Standards/WikiData/WD~semiconductor_device,175805]]'
-- '[[_Standards/WikiData/WD~active_electronic_component,12492106]]'
+- '[[_Standards/WikiData/WD~semiconductor_device,175805|WD~semiconductor_device,175805]]'
+- '[[_Standards/WikiData/WD~active_electronic_component,12492106|WD~active_electronic_component,12492106]]'
 time_of_discovery_or_invention: 1947-12-01
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_transistor,22835127]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_transistor,22835127|WD~Template_Infobox_transistor,22835127]]'
 UMLS_CUI: C2713584
 dv_has_:
   name_:
@@ -291,15 +291,15 @@ dv_has_:
 
 | Year | Technology                                                                                               | Organization                                            |
 | ---- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| 1947 | [Point contact](https://en.wikipedia.org/wiki/Point-contact_transistor "Point-contact transistor")       | [[../Bell_Telephone_Company/Bell_Labs]]                                        |
-| 1948 | [Grown junction](https://en.wikipedia.org/wiki/Grown-junction_transistor "Grown-junction transistor")    | [[../Bell_Telephone_Company/Bell_Labs]]                                        |
+| 1947 | [Point contact](https://en.wikipedia.org/wiki/Point-contact_transistor "Point-contact transistor")       | [[../Bell_Telephone_Company/Bell_Labs|Bell_Labs]]                                        |
+| 1948 | [Grown junction](https://en.wikipedia.org/wiki/Grown-junction_transistor "Grown-junction transistor")    | [[../Bell_Telephone_Company/Bell_Labs|Bell_Labs]]                                        |
 | 1951 | [Alloy junction](https://en.wikipedia.org/wiki/Alloy-junction_transistor "Alloy-junction transistor")    | [[GE(General_Electric)]]                                |
 | 1953 | [Surface barrier](https://en.wikipedia.org/wiki/Surface-barrier_transistor "Surface-barrier transistor") | [Philco](https://en.wikipedia.org/wiki/Philco "Philco") |
-| 1953 | [JFET](https://en.wikipedia.org/wiki/JFET "JFET")                                                        | [[../Bell_Telephone_Company/Bell_Labs]]                                        |
-| 1954 | [Diffused base](https://en.wikipedia.org/wiki/Diffused-base_transistor "Diffused-base transistor")       | [[../Bell_Telephone_Company/Bell_Labs]]                                        |
-| 1954 | [Mesa](https://en.wikipedia.org/wiki/Mesa_transistor "Mesa transistor")                                  | [[../Bell_Telephone_Company/Bell_Labs]]                                        |
+| 1953 | [JFET](https://en.wikipedia.org/wiki/JFET "JFET")                                                        | [[../Bell_Telephone_Company/Bell_Labs|Bell_Labs]]                                        |
+| 1954 | [Diffused base](https://en.wikipedia.org/wiki/Diffused-base_transistor "Diffused-base transistor")       | [[../Bell_Telephone_Company/Bell_Labs|Bell_Labs]]                                        |
+| 1954 | [Mesa](https://en.wikipedia.org/wiki/Mesa_transistor "Mesa transistor")                                  | [[../Bell_Telephone_Company/Bell_Labs|Bell_Labs]]                                        |
 | 1959 | [Planar](https://en.wikipedia.org/wiki/Planar_transistor "Planar transistor")                            | [[Fairchild_Semiconductor]]                             |
-| 1959 | [MOSFET](https://en.wikipedia.org/wiki/MOSFET "MOSFET")                                                  | [[../Bell_Telephone_Company/Bell_Labs]]                                        |
+| 1959 | [MOSFET](https://en.wikipedia.org/wiki/MOSFET "MOSFET")                                                  | [[../Bell_Telephone_Company/Bell_Labs|Bell_Labs]]                                        |
 In 1955, Carl Frosch and Lincoln Derick at Bell Telephone Laboratories (BTL) 
 accidentally discovered that silicon dioxide (SiO2) could be grown on silicon. 
 

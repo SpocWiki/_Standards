@@ -61,28 +61,28 @@ aliases:
 - 백조의 호수
 has_id_wikidata: Q199786
 derivative_work:
-- '[[_Standards/WikiData/WD~Barbie_of_Swan_Lake,138718]]'
-- '[[_Standards/WikiData/WD~Swan_Lake,1044928]]'
-- '[[_Standards/WikiData/WD~Swan_Lake,1093555]]'
-- '[[_Standards/WikiData/WD~The_Swan_Princess,1216146]]'
-- '[[_Standards/WikiData/WD~Swan_Lake_Loch_na_hEala,96798316]]'
-location_of_first_performance: '[[_Standards/WikiData/WD~Bolshoi_Theatre,138908]]'
+- '[[_Standards/WikiData/WD~Barbie_of_Swan_Lake,138718|WD~Barbie_of_Swan_Lake,138718]]'
+- '[[_Standards/WikiData/WD~Swan_Lake,1044928|WD~Swan_Lake,1044928]]'
+- '[[_Standards/WikiData/WD~Swan_Lake,1093555|WD~Swan_Lake,1093555]]'
+- '[[_Standards/WikiData/WD~The_Swan_Princess,1216146|WD~The_Swan_Princess,1216146]]'
+- '[[_Standards/WikiData/WD~Swan_Lake_Loch_na_hEala,96798316|WD~Swan_Lake_Loch_na_hEala,96798316]]'
+location_of_first_performance: '[[_Standards/WikiData/WD~Bolshoi_Theatre,138908|WD~Bolshoi_Theatre,138908]]'
 choreographer:
-- '[[_Standards/WikiData/WD~Lev_Ivanov,282950]]'
-- '[[_Standards/WikiData/WD~Marius_Petipa,312320]]'
-- '[[_Standards/WikiData/WD~Julius_Reisinger,2077278]]'
-librettist: '[[_Standards/WikiData/WD~Vladimir_Begichev,3316785]]'
+- '[[_Standards/WikiData/WD~Lev_Ivanov,282950|WD~Lev_Ivanov,282950]]'
+- '[[_Standards/WikiData/WD~Marius_Petipa,312320|WD~Marius_Petipa,312320]]'
+- '[[_Standards/WikiData/WD~Julius_Reisinger,2077278|WD~Julius_Reisinger,2077278]]'
+librettist: '[[_Standards/WikiData/WD~Vladimir_Begichev,3316785|WD~Vladimir_Begichev,3316785]]'
 instance_of:
-- '[[_Standards/WikiData/WD~ballet,15079786]]'
-- '[[_Standards/WikiData/WD~dramatico_musical_work,58483083]]'
-- '[[_Standards/WikiData/WD~choreographic_work,58483088]]'
-- '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
-named_after: '[[_Standards/WikiData/WD~Lake_Svetloye,37965055]]'
-different_from: '[[_Standards/WikiData/WD~Swan_Lake,101251130]]'
+- '[[_Standards/WikiData/WD~ballet,15079786|WD~ballet,15079786]]'
+- '[[_Standards/WikiData/WD~dramatico_musical_work,58483083|WD~dramatico_musical_work,58483083]]'
+- '[[_Standards/WikiData/WD~choreographic_work,58483088|WD~choreographic_work,58483088]]'
+- '[[_Standards/WikiData/WD~musical_work_composition,105543609|WD~musical_work_composition,105543609]]'
+named_after: '[[_Standards/WikiData/WD~Lake_Svetloye,37965055|WD~Lake_Svetloye,37965055]]'
+different_from: '[[_Standards/WikiData/WD~Swan_Lake,101251130|WD~Swan_Lake,101251130]]'
 date_of_first_performance: 1877-02-20T00:00:00Z
-composer: '[[_Standards/WikiData/WD~Pyotr_Ilyich_Tchaikovsky,7315]]'
+composer: '[[_Standards/WikiData/WD~Pyotr_Ilyich_Tchaikovsky,7315|WD~Pyotr_Ilyich_Tchaikovsky,7315]]'
 number_of_parts_of_this_work: 29
-genre: '[[_Standards/WikiData/WD~ballet,41425]]'
+genre: '[[_Standards/WikiData/WD~ballet,41425|WD~ballet,41425]]'
 opus_number: 20
 title: Лебединое озеро
 Commons_category: Swan Lake

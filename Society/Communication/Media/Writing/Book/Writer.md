@@ -195,26 +195,26 @@ aliases:
 - 작가
 has_id_wikidata: Q36180
 different_from:
-- '[[_Standards/WikiData/WD~author,482980]]'
-- '[[_Standards/WikiData/WD~penman,108762424]]'
+- '[[_Standards/WikiData/WD~author,482980|WD~author,482980]]'
+- '[[_Standards/WikiData/WD~penman,108762424|WD~penman,108762424]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~author,482980]]'
-- '[[_Standards/WikiData/WD~artist,483501]]'
-- '[[_Standards/WikiData/WD~penman,108762424]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~homme_de_lettres,1626130]]'
+- '[[_Standards/WikiData/WD~author,482980|WD~author,482980]]'
+- '[[_Standards/WikiData/WD~artist,483501|WD~artist,483501]]'
+- '[[_Standards/WikiData/WD~penman,108762424|WD~penman,108762424]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~homme_de_lettres,1626130|WD~homme_de_lettres,1626130]]'
 field_of_this_occupation:
-- '[[_Standards/WikiData/WD~writing,2250012]]'
-- '[[_Standards/WikiData/WD~book_signing,4943143]]'
+- '[[_Standards/WikiData/WD~writing,2250012|WD~writing,2250012]]'
+- '[[_Standards/WikiData/WD~book_signing,4943143|WD~book_signing,4943143]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_writer,5615832]]'
-- '[[_Standards/WikiData/WD~Template_Writer_stub,6535605]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_writer,5615832|WD~Template_Infobox_writer,5615832]]'
+- '[[_Standards/WikiData/WD~Template_Writer_stub,6535605|WD~Template_Writer_stub,6535605]]'
 instance_of:
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
-has_list: '[[_Standards/WikiData/WD~lists_of_writers,13019738]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Scribe,116465820]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
+has_list: '[[_Standards/WikiData/WD~lists_of_writers,13019738|WD~lists_of_writers,13019738]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039|WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Scribe,116465820|WD~Scribe,116465820]]'
 Wikidata_property:
 - author name string
 - author
@@ -555,7 +555,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~writer,36180]]
+#is_/same_as :: [[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]
 
 
 ## #has_/text_of_/abstract 

@@ -49,16 +49,16 @@ aliases:
 - 熱點 (地質學)
 - 열점
 has_id_wikidata: Q105131
-model_item: '[[_Standards/WikiData/WD~Hawaiian_Islands,192626]]'
-greater_than: '[[_Standards/WikiData/WD~surroundings,16189205]]'
-subclass_of: '[[_Standards/WikiData/WD~volcanic_landform,29025902]]'
+model_item: '[[_Standards/WikiData/WD~Hawaiian_Islands,192626|WD~Hawaiian_Islands,192626]]'
+greater_than: '[[_Standards/WikiData/WD~surroundings,16189205|WD~surroundings,16189205]]'
+subclass_of: '[[_Standards/WikiData/WD~volcanic_landform,29025902|WD~volcanic_landform,29025902]]'
 OmegaWiki_Defined_Meaning: 665791
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hawaii%20hotspot.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tectonic%20plates%20hotspots-fr.svg
 Commons_category: Hotspot volcanoes
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Hotspot,105131]]'
+  - '[[../../WikiData/WD~Hotspot,105131|WD~Hotspot,105131]]'
   - '[[/_Standards/Earth/Geology/Hotspot(Geology)|Hotspot(Geology)]]'
   - '[[/_public/Earth/Geology/Hotspot(Geology).public|Hotspot(Geology).public]]'
   - '[[/_internal/Earth/Geology/Hotspot(Geology).internal|Hotspot(Geology).internal]]'
@@ -67,7 +67,7 @@ dv_is_:
   - '[[/_personal/Earth/Geology/Hotspot(Geology).personal|Hotspot(Geology).personal]]'
   - '[[/_secret/Earth/Geology/Hotspot(Geology).secret|Hotspot(Geology).secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Hotspot,105131]]'
+- '[[../../WikiData/WD~Hotspot,105131|WD~Hotspot,105131]]'
 - '[[/_Standards/Earth/Geology/Hotspot(Geology)|Hotspot(Geology)]]'
 - '[[/_public/Earth/Geology/Hotspot(Geology).public|Hotspot(Geology).public]]'
 - '[[/_internal/Earth/Geology/Hotspot(Geology).internal|Hotspot(Geology).internal]]'

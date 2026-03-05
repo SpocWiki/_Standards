@@ -146,47 +146,47 @@ tags:
 title: is_an_organization Class
 type: Type
 has_characteristic:
-- '[[_Standards/WikiData/WD~organizational_culture,730573]]'
-- '[[_Standards/WikiData/WD~organizational_structure,759524]]'
-- '[[_Standards/WikiData/WD~organizational_learning,1430172]]'
-- '[[_Standards/WikiData/WD~organizational_communication,1937189]]'
-- '[[_Standards/WikiData/WD~organizational_conflict,2310419]]'
-- '[[_Standards/WikiData/WD~organizational_memory,2727939]]'
-- '[[_Standards/WikiData/WD~organizational_life_cycle,3535173]]'
-- '[[_Standards/WikiData/WD~type_of_organization,17197366]]'
-- '[[_Standards/WikiData/WD~organizational_behavior_studies,19483216]]'
-- '[[_Standards/WikiData/WD~organizational_identity,25048163]]'
-- "[[_Standards/WikiData/WD~organisation's_goals,53281408]]"
-- '[[_Standards/WikiData/WD~resolution_to_dissolve,112692667]]'
+- '[[_Standards/WikiData/WD~organizational_culture,730573|WD~organizational_culture,730573]]'
+- '[[_Standards/WikiData/WD~organizational_structure,759524|WD~organizational_structure,759524]]'
+- '[[_Standards/WikiData/WD~organizational_learning,1430172|WD~organizational_learning,1430172]]'
+- '[[_Standards/WikiData/WD~organizational_communication,1937189|WD~organizational_communication,1937189]]'
+- '[[_Standards/WikiData/WD~organizational_conflict,2310419|WD~organizational_conflict,2310419]]'
+- '[[_Standards/WikiData/WD~organizational_memory,2727939|WD~organizational_memory,2727939]]'
+- '[[_Standards/WikiData/WD~organizational_life_cycle,3535173|WD~organizational_life_cycle,3535173]]'
+- '[[_Standards/WikiData/WD~type_of_organization,17197366|WD~type_of_organization,17197366]]'
+- '[[_Standards/WikiData/WD~organizational_behavior_studies,19483216|WD~organizational_behavior_studies,19483216]]'
+- '[[_Standards/WikiData/WD~organizational_identity,25048163|WD~organizational_identity,25048163]]'
+- "[[_Standards/WikiData/WD~organisation's_goals,53281408|WD~organisation's_goals,53281408]]"
+- '[[_Standards/WikiData/WD~resolution_to_dissolve,112692667|WD~resolution_to_dissolve,112692667]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~complex_system,854457]]'
-- '[[_Standards/WikiData/WD~social_system,1639378]]'
-- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-- '[[_Standards/WikiData/WD~person_or_organization,106559804]]'
-- '[[_Standards/WikiData/WD~corporate_body,106668099]]'
+- '[[_Standards/WikiData/WD~complex_system,854457|WD~complex_system,854457]]'
+- '[[_Standards/WikiData/WD~social_system,1639378|WD~social_system,1639378]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~person_or_organization,106559804|WD~person_or_organization,106559804]]'
+- '[[_Standards/WikiData/WD~corporate_body,106668099|WD~corporate_body,106668099]]'
 different_from:
-- '[[_Standards/WikiData/WD~organization,2029841]]'
-- '[[_Standards/WikiData/WD~organization_unit,10387680]]'
-- '[[_Standards/WikiData/WD~facility,13226383]]'
-- '[[_Standards/WikiData/WD~arranging,36993249]]'
-- '[[_Standards/WikiData/WD~corporate_body,106668099]]'
+- '[[_Standards/WikiData/WD~organization,2029841|WD~organization,2029841]]'
+- '[[_Standards/WikiData/WD~organization_unit,10387680|WD~organization_unit,10387680]]'
+- '[[_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
+- '[[_Standards/WikiData/WD~arranging,36993249|WD~arranging,36993249]]'
+- '[[_Standards/WikiData/WD~corporate_body,106668099|WD~corporate_body,106668099]]'
 studied_by:
-- '[[_Standards/WikiData/WD~organizational_studies,2029930]]'
-- '[[_Standards/WikiData/WD~sociology_of_organisations,9339103]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Organizations,5613113]]'
+- '[[_Standards/WikiData/WD~organizational_studies,2029930|WD~organizational_studies,2029930]]'
+- '[[_Standards/WikiData/WD~sociology_of_organisations,9339103|WD~sociology_of_organisations,9339103]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Organizations,5613113|WD~Category_Organizations,5613113]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_organization,6190581]]'
-- '[[_Standards/WikiData/WD~Template_Aspects_of_organizations,6688962]]'
-- '[[_Standards/WikiData/WD~Template_Org_stub,7786335]]'
-- '[[_Standards/WikiData/WD~Q26117813,26117813]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_organization_Wikidata,57971242]]'
-related_category: '[[_Standards/WikiData/WD~Category_Types_of_organization,6448834]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Category_Wikipedia_categories_named_after_organizations,8103926]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_organizations,17166051]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_organization,6190581|WD~Template_Infobox_organization,6190581]]'
+- '[[_Standards/WikiData/WD~Template_Aspects_of_organizations,6688962|WD~Template_Aspects_of_organizations,6688962]]'
+- '[[_Standards/WikiData/WD~Template_Org_stub,7786335|WD~Template_Org_stub,7786335]]'
+- '[[_Standards/WikiData/WD~Q26117813,26117813|WD~Q26117813,26117813]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_organization_Wikidata,57971242|WD~Template_Infobox_organization_Wikidata,57971242]]'
+related_category: '[[_Standards/WikiData/WD~Category_Types_of_organization,6448834|WD~Category_Types_of_organization,6448834]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Category_Wikipedia_categories_named_after_organizations,8103926|WD~Category_Wikipedia_categories_named_after_organizations,8103926]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_organizations,17166051|WD~history_of_organizations,17166051]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_organization,17197366]]'
-- '[[_Standards/WikiData/WD~social_science_concept,131362181]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~type_of_organization,17197366|WD~type_of_organization,17197366]]'
+- '[[_Standards/WikiData/WD~social_science_concept,131362181|WD~social_science_concept,131362181]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 properties_for_this_type:
 - child organization or unit
 - industry
@@ -268,7 +268,7 @@ equivalent_class:
 - http://sw-portal.deri.org/ontologies/swportal#Organization
 - http://www.popoloproject.com/specs/organization.html
 - http://www.w3.org/ns/org#Organization
-- '[[_Standards/WikiData/WD~https_id.oclc.org_worldcat_entity_Q4,4]]'
+- '[[_Standards/WikiData/WD~https_id.oclc.org_worldcat_entity_Q4,4|WD~https_id.oclc.org_worldcat_entity_Q4,4]]'
 - https://schema.org/Organization
 - https://www.w3.org/ns/activitystreams#Organization
 OmegaWiki_Defined_Meaning: 4987

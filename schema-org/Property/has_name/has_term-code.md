@@ -42,12 +42,12 @@ dv_has_:
   name: has_text_of_term_code
   range: text
   child_:
-    property: "[ [[../has_id/has_code_value]] ]"
+    property: "[ [[../has_id/has_code_value|has_code_value]] ]"
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../Relation/has/has_delivery/has_defined_term|defined_term]]"
 dv_has_name: has_text_of_term_code
 dv_has_range: text
-dv_has_child_property: "[ [[../has_id/has_code_value]] ]"
+dv_has_child_property: "[ [[../has_id/has_code_value|has_code_value]] ]"
 dv_is_same_as:
   - "[[has_term-code]]"
   - "[[/_public/schema-org/Property/has_name/has_term-code.public|has_term-code.public]]"

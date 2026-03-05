@@ -18,12 +18,12 @@ aliases:
 - 格倫戴爾
 - 그렌델
 has_id_wikidata: Q29372
-killed_by: '[[_Standards/WikiData/WD~Beowulf,1281177]]'
-mother: "[[_Standards/WikiData/WD~Grendel's_mother,2361245]]"
-instance_of: '[[_Standards/WikiData/WD~literary_character,3658341]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-different_from: '[[_Standards/WikiData/WD~Gretel,108529145]]'
-present_in_work: '[[_Standards/WikiData/WD~Beowulf,48328]]'
+killed_by: '[[_Standards/WikiData/WD~Beowulf,1281177|WD~Beowulf,1281177]]'
+mother: "[[_Standards/WikiData/WD~Grendel's_mother,2361245|WD~Grendel's_mother,2361245]]"
+instance_of: '[[_Standards/WikiData/WD~literary_character,3658341|WD~literary_character,3658341]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+different_from: '[[_Standards/WikiData/WD~Gretel,108529145|WD~Gretel,108529145]]'
+present_in_work: '[[_Standards/WikiData/WD~Beowulf,48328|WD~Beowulf,48328]]'
 Commons_category: Grendel
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stories%20of%20beowulf%20grendel.jpg
 dv_has_:

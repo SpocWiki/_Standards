@@ -75,9 +75,9 @@ aliases:
 - 轰炸机
 - 폭격기
 has_id_wikidata: Q170877
-has_use: '[[_Standards/WikiData/WD~airstrike,2380335]]'
-instance_of: '[[_Standards/WikiData/WD~aircraft_functional_class,20027953]]'
-subclass_of: '[[_Standards/WikiData/WD~attack_airplane,65924079]]'
+has_use: '[[_Standards/WikiData/WD~airstrike,2380335|WD~airstrike,2380335]]'
+instance_of: '[[_Standards/WikiData/WD~aircraft_functional_class,20027953|WD~aircraft_functional_class,20027953]]'
+subclass_of: '[[_Standards/WikiData/WD~attack_airplane,65924079|WD~attack_airplane,65924079]]'
 military_designation:
 - B
 - VB

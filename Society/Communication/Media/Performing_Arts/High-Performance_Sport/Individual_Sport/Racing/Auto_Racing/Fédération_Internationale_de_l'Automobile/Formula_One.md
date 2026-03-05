@@ -65,29 +65,29 @@ aliases:
 - 포뮬러 원
 has_id_wikidata: Q1968
 statistical_leader:
-- '[[_Standards/WikiData/WD~Scuderia_Ferrari,169898]]'
-- '[[_Standards/WikiData/WD~Michael_Schumacher,9671]]'
-- '[[_Standards/WikiData/WD~Lewis_Hamilton,9673]]'
-operator: '[[_Standards/WikiData/WD~Formula_One_Group,174035]]'
-organizer: "[[_Standards/WikiData/WD~Fédération_Internationale_de_l'Automobile,179412]]"
+- '[[_Standards/WikiData/WD~Scuderia_Ferrari,169898|WD~Scuderia_Ferrari,169898]]'
+- '[[_Standards/WikiData/WD~Michael_Schumacher,9671|WD~Michael_Schumacher,9671]]'
+- '[[_Standards/WikiData/WD~Lewis_Hamilton,9673|WD~Lewis_Hamilton,9673]]'
+operator: '[[_Standards/WikiData/WD~Formula_One_Group,174035|WD~Formula_One_Group,174035]]'
+organizer: "[[_Standards/WikiData/WD~Fédération_Internationale_de_l'Automobile,179412|WD~Fédération_Internationale_de_l'Automobile,179412]]"
 league_level_below:
-- '[[_Standards/WikiData/WD~GP2_Series,208744]]'
-- '[[_Standards/WikiData/WD~Formula_3000,362400]]'
-- '[[_Standards/WikiData/WD~FIA_Formula_2_Championship,29383721]]'
+- '[[_Standards/WikiData/WD~GP2_Series,208744|WD~GP2_Series,208744]]'
+- '[[_Standards/WikiData/WD~Formula_3000,362400|WD~Formula_3000,362400]]'
+- '[[_Standards/WikiData/WD~FIA_Formula_2_Championship,29383721|WD~FIA_Formula_2_Championship,29383721]]'
 different_from:
-- '[[_Standards/WikiData/WD~F1,225109]]'
-- '[[_Standards/WikiData/WD~F1_hybrid,2293576]]'
+- '[[_Standards/WikiData/WD~F1,225109|WD~F1,225109]]'
+- '[[_Standards/WikiData/WD~F1_hybrid,2293576|WD~F1_hybrid,2293576]]'
 instance_of:
-- '[[_Standards/WikiData/WD~world_championship,1344963]]'
-- '[[_Standards/WikiData/WD~automobile_racing_series,60147807]]'
-- '[[_Standards/WikiData/WD~sport,349]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Formula_One,6316867]]'
-practiced_by: '[[_Standards/WikiData/WD~Formula_One_driver,10841764]]'
+- '[[_Standards/WikiData/WD~world_championship,1344963|WD~world_championship,1344963]]'
+- '[[_Standards/WikiData/WD~automobile_racing_series,60147807|WD~automobile_racing_series,60147807]]'
+- '[[_Standards/WikiData/WD~sport,349|WD~sport,349]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Formula_One,6316867|WD~Portal_Formula_One,6316867]]'
+practiced_by: '[[_Standards/WikiData/WD~Formula_One_driver,10841764|WD~Formula_One_driver,10841764]]'
 competition_class:
-- "[[_Standards/WikiData/WD~Formula_One_World_Constructors'_Championship,63436495]]"
-- "[[_Standards/WikiData/WD~Formula_One_drivers'_championship,108861450]]"
-theme_music: '[[_Standards/WikiData/WD~Formula_1_Theme,136724503]]'
-sport: '[[_Standards/WikiData/WD~auto_racing,5386]]'
+- "[[_Standards/WikiData/WD~Formula_One_World_Constructors'_Championship,63436495|WD~Formula_One_World_Constructors'_Championship,63436495]]"
+- "[[_Standards/WikiData/WD~Formula_One_drivers'_championship,108861450|WD~Formula_One_drivers'_championship,108861450]]"
+theme_music: '[[_Standards/WikiData/WD~Formula_1_Theme,136724503|WD~Formula_1_Theme,136724503]]'
+sport: '[[_Standards/WikiData/WD~auto_racing,5386|WD~auto_racing,5386]]'
 social_media_followers:
 - 12400000
 - 8952433

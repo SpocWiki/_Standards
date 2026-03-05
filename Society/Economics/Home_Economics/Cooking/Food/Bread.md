@@ -205,22 +205,22 @@ Commons_category: Bread
 Commons_gallery: Bread
 Danbooru_tag: bread
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524|WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Bread,1709565]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
+  - "[[_Standards/WikiData/WD~Bread,1709565|WD~Bread,1709565]]"
+  - "[[_Standards/WikiData/WD~food,2095|WD~food,2095]]"
 EPPO_Code: YBRED
-fabrication_method: "[[_Standards/WikiData/WD~breadmaking,3063799]]"
+fabrication_method: "[[_Standards/WikiData/WD~breadmaking,3063799|WD~breadmaking,3063799]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~flour,36465]]"
+  - "[[_Standards/WikiData/WD~water,283|WD~water,283]]"
+  - "[[_Standards/WikiData/WD~flour,36465|WD~flour,36465]]"
 has_time_started: -30000
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Home%20made%20sour%20dough%20bread.jpg
@@ -229,17 +229,17 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Assorted%20bread.jpg
 inception: -30000
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]"
+  - "[[_Standards/WikiData/WD~type_of_food_or_dish,19861951|WD~type_of_food_or_dish,19861951]]"
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-pa-spreadthesign.ogv
 made_from_material:
-  - "[[_Standards/WikiData/WD~Saccharomyces_cerevisiae,719725]]"
-  - "[[_Standards/WikiData/WD~condiment,2596997]]"
-  - "[[_Standards/WikiData/WD~chicken_egg,15260613]]"
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~milk,8495]]"
-  - "[[_Standards/WikiData/WD~table_salt,11254]]"
-  - "[[_Standards/WikiData/WD~flour,36465]]"
-  - "[[_Standards/WikiData/WD~oil,42962]]"
+  - "[[_Standards/WikiData/WD~Saccharomyces_cerevisiae,719725|WD~Saccharomyces_cerevisiae,719725]]"
+  - "[[_Standards/WikiData/WD~condiment,2596997|WD~condiment,2596997]]"
+  - "[[_Standards/WikiData/WD~chicken_egg,15260613|WD~chicken_egg,15260613]]"
+  - "[[_Standards/WikiData/WD~water,283|WD~water,283]]"
+  - "[[_Standards/WikiData/WD~milk,8495|WD~milk,8495]]"
+  - "[[_Standards/WikiData/WD~table_salt,11254|WD~table_salt,11254]]"
+  - "[[_Standards/WikiData/WD~flour,36465|WD~flour,36465]]"
+  - "[[_Standards/WikiData/WD~oil,42962|WD~oil,42962]]"
 MeSH_tree_code:
   - G07.203.300.100
   - J02.500.100
@@ -251,8 +251,8 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Pronouncing%20bread%20in%20Tigrinya.ogg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Brood-article.ogg
 subclass_of:
-  - "[[_Standards/WikiData/WD~staple_food,736427]]"
-  - "[[_Standards/WikiData/WD~baked_good,2251745]]"
+  - "[[_Standards/WikiData/WD~staple_food,736427|WD~staple_food,736427]]"
+  - "[[_Standards/WikiData/WD~baked_good,2251745|WD~baked_good,2251745]]"
 subreddit:
   - breaddit
 UMLS_CUI: C0006138

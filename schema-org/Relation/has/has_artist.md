@@ -28,7 +28,7 @@ dv_has_:
     - "[[../../../Society/Communication/Media/Creative_Work/Comic_Story|Comic_Story]]"
     - "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"
   name: has_artist
-  range: "[[../../../Society/Agent/Person]]"
+  range: "[[../../../Society/Agent/Person|Person]]"
   inverse: "[[is_artist_of]]"
 dv_is_:
   part_of: https://bib.schema.org
@@ -47,7 +47,7 @@ dv_has_domain:
   - "[[../../../Society/Communication/Media/Creative_Work/Comic_Story|Comic_Story]]"
   - "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"
 dv_has_name: has_artist
-dv_has_range: "[[../../../Society/Agent/Person]]"
+dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[has_artist]]"
   - "[[/_public/schema-org/Relation/has/has_artist.public|has_artist.public]]"

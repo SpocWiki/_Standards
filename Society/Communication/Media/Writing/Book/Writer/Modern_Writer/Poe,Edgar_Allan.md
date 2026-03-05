@@ -59,120 +59,120 @@ aliases:
 - 에드거 앨런 포
 has_id_wikidata: Q16867
 archives_at:
-- '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
-artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+- '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855|WD~Harry_Ransom_Center,5671855]]'
+artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390|WD~Frick_Art_Research_Library,5503390]]'
 BHCL_UUID: 3875a997-5639-4c76-936e-a44c29eeb010
 birth_name: Edgar Allan Poe
 cause_of_death: http://www.wikidata.org/.well-known/genid/3224ee5b5a9edfa89c05c4364696eb34
 Commons_category: Edgar Allan Poe
 Commons_Creator_page: Edgar Allan Poe
 Commons_gallery: Edgar Allan Poe
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 date_of_birth: 1809-01-19T00:00:00Z
 date_of_death: 1849-10-07T00:00:00Z
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835|WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897|WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~ProDetLit,124821483|WD~ProDetLit,124821483]]'
 different_from:
-- '[[_Standards/WikiData/WD~Poe,295520]]'
-- '[[_Standards/WikiData/WD~Po,110231648]]'
-- '[[_Standards/WikiData/WD~Po,643]]'
+- '[[_Standards/WikiData/WD~Poe,295520|WD~Poe,295520]]'
+- '[[_Standards/WikiData/WD~Po,110231648|WD~Po,110231648]]'
+- '[[_Standards/WikiData/WD~Po,643|WD~Po,643]]'
 DPLA_subject_term:
 - Poe, Edgar Allan
 - Poe, Edgar Allan, 1809-1849
 educated_at:
-- '[[_Standards/WikiData/WD~University_of_Virginia,213439]]'
-- '[[_Standards/WikiData/WD~United_States_Military_Academy,9219]]'
+- '[[_Standards/WikiData/WD~University_of_Virginia,213439|WD~University_of_Virginia,213439]]'
+- '[[_Standards/WikiData/WD~United_States_Military_Academy,9219|WD~United_States_Military_Academy,9219]]'
 Europeana_entity: agent/base/59955
 Facebook_username: EdgarAllanPoeAuthor
-family_name: '[[_Standards/WikiData/WD~Q16881297,16881297]]'
-father: '[[_Standards/WikiData/WD~David_Poe,_Jr.,3018630]]'
+family_name: '[[_Standards/WikiData/WD~Q16881297,16881297|WD~Q16881297,16881297]]'
+father: '[[_Standards/WikiData/WD~David_Poe,_Jr.,3018630|WD~David_Poe,_Jr.,3018630]]'
 genre:
-- '[[_Standards/WikiData/WD~detective_fiction,186424]]'
-- '[[_Standards/WikiData/WD~dark_romanticism,1418745]]'
-- '[[_Standards/WikiData/WD~Gothic_literature,19715429]]'
-- '[[_Standards/WikiData/WD~fantastique,116213606]]'
-- '[[_Standards/WikiData/WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~detective_fiction,186424|WD~detective_fiction,186424]]'
+- '[[_Standards/WikiData/WD~dark_romanticism,1418745|WD~dark_romanticism,1418745]]'
+- '[[_Standards/WikiData/WD~Gothic_literature,19715429|WD~Gothic_literature,19715429]]'
+- '[[_Standards/WikiData/WD~fantastique,116213606|WD~fantastique,116213606]]'
+- '[[_Standards/WikiData/WD~poetry,482|WD~poetry,482]]'
 given_name:
-- '[[_Standards/WikiData/WD~Allan,2616573]]'
-- '[[_Standards/WikiData/WD~Edgar,2660560]]'
+- '[[_Standards/WikiData/WD~Allan,2616573|WD~Allan,2616573]]'
+- '[[_Standards/WikiData/WD~Edgar,2660560|WD~Edgar,2660560]]'
 has_works_in_the_collection:
-- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
-- '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]'
-- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
-- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867|WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527|WD~Museum_Boijmans_Van_Beuningen,679527]]'
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335|WD~Stedelijk_Museum_Amsterdam,924335]]'
+- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481|WD~Minneapolis_Institute_of_Art,1700481]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Allan%20Poe%2C%20circa%201849%2C%20restored%2C%20squared%20off.jpg
 IMDb_keyword: edgar-allan-poe
 instance_of:
-- '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ISNI: 121354025
 Krugosvet_article: kultura_i_obrazovanie/literatura/PO_EDGAR_ALLAN.html
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
 last_words: Lord help my poor Soul.
 Library_of_Congress_Classification: PS2600-PS2648
 Libris_URI: gdsvt2v01tdgb3s
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-military_branch: '[[_Standards/WikiData/WD~United_States_Army,9212]]'
-mother: '[[_Standards/WikiData/WD~Eliza_Poe,2663300]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+military_branch: '[[_Standards/WikiData/WD~United_States_Army,9212|WD~United_States_Army,9212]]'
+mother: '[[_Standards/WikiData/WD~Eliza_Poe,2663300|WD~Eliza_Poe,2663300]]'
 name_in_native_language: Edgar Allan Poe
-native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+native_language: '[[_Standards/WikiData/WD~American_English,7976|WD~American_English,7976]]'
 NLC_authorities: 198844
 notable_work:
-- '[[_Standards/WikiData/WD~The_Pit_and_the_Pendulum,379449]]'
-- '[[_Standards/WikiData/WD~The_Murders_in_the_Rue_Morgue,459667]]'
-- '[[_Standards/WikiData/WD~The_Black_Cat,465395]]'
-- '[[_Standards/WikiData/WD~The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket,615383]]'
-- '[[_Standards/WikiData/WD~The_Purloined_Letter,733448]]'
-- '[[_Standards/WikiData/WD~The_Tell_Tale_Heart,762206]]'
-- '[[_Standards/WikiData/WD~The_Oval_Portrait,878571]]'
-- '[[_Standards/WikiData/WD~The_Gold_Bug,878580]]'
-- '[[_Standards/WikiData/WD~The_Fall_of_the_House_of_Usher,1197735]]'
-- '[[_Standards/WikiData/WD~William_Wilson,1275853]]'
-- '[[_Standards/WikiData/WD~The_Raven,22726]]'
+- '[[_Standards/WikiData/WD~The_Pit_and_the_Pendulum,379449|WD~The_Pit_and_the_Pendulum,379449]]'
+- '[[_Standards/WikiData/WD~The_Murders_in_the_Rue_Morgue,459667|WD~The_Murders_in_the_Rue_Morgue,459667]]'
+- '[[_Standards/WikiData/WD~The_Black_Cat,465395|WD~The_Black_Cat,465395]]'
+- '[[_Standards/WikiData/WD~The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket,615383|WD~The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket,615383]]'
+- '[[_Standards/WikiData/WD~The_Purloined_Letter,733448|WD~The_Purloined_Letter,733448]]'
+- '[[_Standards/WikiData/WD~The_Tell_Tale_Heart,762206|WD~The_Tell_Tale_Heart,762206]]'
+- '[[_Standards/WikiData/WD~The_Oval_Portrait,878571|WD~The_Oval_Portrait,878571]]'
+- '[[_Standards/WikiData/WD~The_Gold_Bug,878580|WD~The_Gold_Bug,878580]]'
+- '[[_Standards/WikiData/WD~The_Fall_of_the_House_of_Usher,1197735|WD~The_Fall_of_the_House_of_Usher,1197735]]'
+- '[[_Standards/WikiData/WD~William_Wilson,1275853|WD~William_Wilson,1275853]]'
+- '[[_Standards/WikiData/WD~The_Raven,22726|WD~The_Raven,22726]]'
 occupation:
-- '[[_Standards/WikiData/WD~literary_critic,4263842]]'
-- '[[_Standards/WikiData/WD~novelist,6625963]]'
-- '[[_Standards/WikiData/WD~essayist,11774202]]'
-- '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-- '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~literary_critic,4263842|WD~literary_critic,4263842]]'
+- '[[_Standards/WikiData/WD~novelist,6625963|WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~essayist,11774202|WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~short_story_writer,15949613|WD~short_story_writer,15949613]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757|WD~poet,49757]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359|WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 P8189: 987007266642405100
-place_of_birth: '[[_Standards/WikiData/WD~Boston,100]]'
-place_of_burial: '[[_Standards/WikiData/WD~Westminster_Hall_and_Burying_Ground,129795]]'
-place_of_death: '[[_Standards/WikiData/WD~Baltimore,5092]]'
+place_of_birth: '[[_Standards/WikiData/WD~Boston,100|WD~Boston,100]]'
+place_of_burial: '[[_Standards/WikiData/WD~Westminster_Hall_and_Burying_Ground,129795|WD~Westminster_Hall_and_Burying_Ground,129795]]'
+place_of_death: '[[_Standards/WikiData/WD~Baltimore,5092|WD~Baltimore,5092]]'
 Plex_person_key: 5dcd37b327f42b001fe29fd6
 position_held:
-- '[[_Standards/WikiData/WD~editor_in_chief,589298]]'
+- '[[_Standards/WikiData/WD~editor_in_chief,589298|WD~editor_in_chief,589298]]'
 Provenio_UUID: 3bf05d60-cd16-4d35-9e4a-8dd417879312
 pseudonym:
 - Edgar A. Perry
 Regensburg_Classification: HT 6550
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 sibling:
-- '[[_Standards/WikiData/WD~William_Henry_Leonard_Poe,918138]]'
-- '[[_Standards/WikiData/WD~Rosalie_Mackenzie_Poe,3442219]]'
+- '[[_Standards/WikiData/WD~William_Henry_Leonard_Poe,918138|WD~William_Henry_Leonard_Poe,918138]]'
+- '[[_Standards/WikiData/WD~Rosalie_Mackenzie_Poe,3442219|WD~Rosalie_Mackenzie_Poe,3442219]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Allan%20Poe%20Signature.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20allen%20poe%20recording.ogg
-spouse: '[[_Standards/WikiData/WD~Virginia_Eliza_Clemm_Poe,2377500]]'
+spouse: '[[_Standards/WikiData/WD~Virginia_Eliza_Clemm_Poe,2377500|WD~Virginia_Eliza_Clemm_Poe,2377500]]'
 U_S_National_Archives_Identifier: 10582268
 Wolfram_Language_entity_code: Entity["Concept", "EdgarAllanPoe::dkz2d"]
 work_period_end_: 1849-01-01T00:00:00Z
 work_period_start_: 1827-01-01T00:00:00Z
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
 dv_has_:
   name_:
     af: Edgar Allan Poe
@@ -339,7 +339,7 @@ dv_has_:
 
 # [[Poe,Edgar_Allan]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Edgar_Allan_Poe,16867]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Edgar_Allan_Poe,16867|WD~Edgar_Allan_Poe,16867]] 
 
 ## #has_/text_of_/abstract 
 

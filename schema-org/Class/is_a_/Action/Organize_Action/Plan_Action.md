@@ -41,7 +41,7 @@ dv_has_:
     - "[[Plan_Action/Reserve_Action|Reserve_Action]]"
     - "[[Plan_Action/Schedule_Action|Schedule_Action]]"
   parent_class:
-    - "[[../OrganizeAction]]"
+    - "[[../OrganizeAction|OrganizeAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
@@ -69,7 +69,7 @@ dv_has_:
     - "[[../../../../Relation/has/has_target|has_target]]"
     - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../organize_action|../organize_action]]"
+  - "[[../organize_action|../organize_action|organize_action]]"
 dv_has_child_class:
   - "[[Plan_Action/Cancel_Action|Cancel_Action]]"
   - "[[Plan_Action/Reserve_Action|Reserve_Action]]"

@@ -463,7 +463,7 @@ A photograph of this place.
 Photo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"}}
 
 ### PublicAccess
-A flag to signal that the [[../../Earth/Geography/Place]] is open to public visitors.  If this property is omitted there is no assumed default boolean value
+A flag to signal that the [[../../Earth/Geography/Place|Place]] is open to public visitors.  If this property is omitted there is no assumed default boolean value
 
 PublicAccess:: {"type":"Boolean","options":{}}
 
@@ -495,7 +495,7 @@ The telephone number.
 Telephone:: {"type":"Input","options":{}}
 
 ### TourBookingPage
-A page providing information on how to book a tour of some [[../../Earth/Geography/Place]], such as an [[../../Earth/Geography/Place/Accommodation]] or [[ApartmentComplex]] in a real estate setting, as well as other kinds of tours as appropriate.
+A page providing information on how to book a tour of some [[../../Earth/Geography/Place|Place]], such as an [[../../Earth/Geography/Place/Accommodation|Accommodation]] or [[ApartmentComplex]] in a real estate setting, as well as other kinds of tours as appropriate.
 
 TourBookingPage:: {"type":"Input","options":{}}
 

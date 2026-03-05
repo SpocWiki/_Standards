@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 立陶宛共和国
 dv_UNTERM_French_Formal: la République de Lituanie
 dv_UNTERM_Russian: Литва
 dv_UNTERM_Russian_Formal: Литовская Республика
-dv_Region_Name: '[[../../Europe]]'
+dv_Region_Name: '[[../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Lithuania]]'
 dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
@@ -386,9 +386,9 @@ dv_has_:
 dv_has_name_de: Litauen
 dv_Area-Total: 65300
 dv_Area-Land: 30080
-dv_has_place_continent: '[[../../Europe]]'
+dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: LT
-dv_Capital: '[[Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius]]'
+dv_Capital: '[[Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius|Vilnius]]'
 dv_Alcohol-l: 15
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 25.3167
@@ -549,101 +549,101 @@ aliases:
 - 리투아니아
 - "\U0001033B\U00010339\U00010344\U00010345\U00010330\U0001033D\U0001033E\U00010330"
 has_id_wikidata: Q37
-flag: '[[_Standards/WikiData/WD~flag_of_Lithuania,81477]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Lithuania,81477|WD~flag_of_Lithuania,81477]]'
 replaces:
-- '[[_Standards/WikiData/WD~Lithuanian_Soviet_Socialist_Republic,173761]]'
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Lithuanian_Soviet_Socialist_Republic,173761|WD~Lithuanian_Soviet_Socialist_Republic,173761]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
 instance_of:
-- '[[_Standards/WikiData/WD~unitary_state,179164]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country_bordering_the_Baltic_Sea,63791824]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~unitary_state,179164|WD~unitary_state,179164]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country_bordering_the_Baltic_Sea,63791824|WD~country_bordering_the_Baltic_Sea,63791824]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Šiauliai_County,186410]]'
-- '[[_Standards/WikiData/WD~Vilnius_County,188061]]'
-- '[[_Standards/WikiData/WD~Panevėžys_County,188085]]'
-- '[[_Standards/WikiData/WD~Utena_County,188659]]'
-- '[[_Standards/WikiData/WD~Telšiai_County,188963]]'
-- '[[_Standards/WikiData/WD~Tauragė_County,188960]]'
-- '[[_Standards/WikiData/WD~Klaipėda_County,475207]]'
-- '[[_Standards/WikiData/WD~Alytus_County,669470]]'
-- '[[_Standards/WikiData/WD~Kaunas_County,853861]]'
-- '[[_Standards/WikiData/WD~Marijampolė_County,853948]]'
-coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Lithuania,188047]]'
+- '[[_Standards/WikiData/WD~Šiauliai_County,186410|WD~Šiauliai_County,186410]]'
+- '[[_Standards/WikiData/WD~Vilnius_County,188061|WD~Vilnius_County,188061]]'
+- '[[_Standards/WikiData/WD~Panevėžys_County,188085|WD~Panevėžys_County,188085]]'
+- '[[_Standards/WikiData/WD~Utena_County,188659|WD~Utena_County,188659]]'
+- '[[_Standards/WikiData/WD~Telšiai_County,188963|WD~Telšiai_County,188963]]'
+- '[[_Standards/WikiData/WD~Tauragė_County,188960|WD~Tauragė_County,188960]]'
+- '[[_Standards/WikiData/WD~Klaipėda_County,475207|WD~Klaipėda_County,475207]]'
+- '[[_Standards/WikiData/WD~Alytus_County,669470|WD~Alytus_County,669470]]'
+- '[[_Standards/WikiData/WD~Kaunas_County,853861|WD~Kaunas_County,853861]]'
+- '[[_Standards/WikiData/WD~Marijampolė_County,853948|WD~Marijampolė_County,853948]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Lithuania,188047|WD~Coat_of_arms_of_Lithuania,188047]]'
 language_used:
-- '[[_Standards/WikiData/WD~Samogitian,213434]]'
-- '[[_Standards/WikiData/WD~Lithuanian_Sign_Language,3915480]]'
-- '[[_Standards/WikiData/WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~Lithuanian,9083]]'
-- '[[_Standards/WikiData/WD~Karaim,33725]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Lithuania,215063]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Lithuania,247477]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_Lithuania,277656]]'
-patron_saint: '[[_Standards/WikiData/WD~Saint_Casimir,312057]]'
-legislative_body: '[[_Standards/WikiData/WD~Seimas,374152]]'
+- '[[_Standards/WikiData/WD~Samogitian,213434|WD~Samogitian,213434]]'
+- '[[_Standards/WikiData/WD~Lithuanian_Sign_Language,3915480|WD~Lithuanian_Sign_Language,3915480]]'
+- '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Lithuanian,9083|WD~Lithuanian,9083]]'
+- '[[_Standards/WikiData/WD~Karaim,33725|WD~Karaim,33725]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Lithuania,215063|WD~history_of_Lithuania,215063]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Lithuania,247477|WD~demographics_of_Lithuania,247477]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Lithuania,277656|WD~Government_of_Lithuania,277656]]'
+patron_saint: '[[_Standards/WikiData/WD~Saint_Casimir,312057|WD~Saint_Casimir,312057]]'
+legislative_body: '[[_Standards/WikiData/WD~Seimas,374152|WD~Seimas,374152]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-central_bank: '[[_Standards/WikiData/WD~Bank_of_Lithuania,616849]]'
-highest_point: '[[_Standards/WikiData/WD~Aukštojas_Hill,771431]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+central_bank: '[[_Standards/WikiData/WD~Bank_of_Lithuania,616849|WD~Bank_of_Lithuania,616849]]'
+highest_point: '[[_Standards/WikiData/WD~Aukštojas_Hill,771431|WD~Aukštojas_Hill,771431]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Belarusian_People's_Republic,842199]]"
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Sweden,34]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Austria,40]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Belarus,184]]'
-- '[[_Standards/WikiData/WD~Latvia,211]]'
-- '[[_Standards/WikiData/WD~Ukraine,212]]'
-- '[[_Standards/WikiData/WD~Romania,218]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Lithuania,845439]]'
+- "[[_Standards/WikiData/WD~Belarusian_People's_Republic,842199|WD~Belarusian_People's_Republic,842199]]"
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]'
+- '[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Romania,218|WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Lithuania,845439|WD~Prime_Minister_of_Lithuania,845439]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Lithuania,1145425]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Lithuania,1752947]]'
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Lithuania,3180989]]'
-lowest_point: '[[_Standards/WikiData/WD~Nemunas_Delta,3488554]]'
+- '[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Lithuania,1145425|WD~economy_of_Lithuania,1145425]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Lithuania,1752947|WD~geography_of_Lithuania,1752947]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Lithuania,3180989|WD~culture_of_Lithuania,3180989]]'
+lowest_point: '[[_Standards/WikiData/WD~Nemunas_Delta,3488554|WD~Nemunas_Delta,3488554]]'
 basic_form_of_government:
-- '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
-- '[[_Standards/WikiData/WD~semi-presidential_system,49890]]'
-different_from: '[[_Standards/WikiData/WD~Lithuania,6648245]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Lithuania,7112338]]'
-head_of_state: '[[_Standards/WikiData/WD~Gitanas_Nausėda,9268379]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Q10607271,10607271]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Lithuania,10815301]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Lithuania,11037150]]'
-head_of_government: '[[_Standards/WikiData/WD~Gintautas_Paluckas,12655545]]'
-railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21508706,21508706]]'
-emergency_phone_number: '[[_Standards/WikiData/WD~02,25648899]]'
-open_data_portal: '[[_Standards/WikiData/WD~Open_data_in_Lithuania,97011850]]'
+- '[[_Standards/WikiData/WD~parliamentary_republic,4198907|WD~parliamentary_republic,4198907]]'
+- '[[_Standards/WikiData/WD~semi-presidential_system,49890|WD~semi-presidential_system,49890]]'
+different_from: '[[_Standards/WikiData/WD~Lithuania,6648245|WD~Lithuania,6648245]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Lithuania,7112338|WD~outline_of_Lithuania,7112338]]'
+head_of_state: '[[_Standards/WikiData/WD~Gitanas_Nausėda,9268379|WD~Gitanas_Nausėda,9268379]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q10607271,10607271|WD~Q10607271,10607271]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Lithuania,10815301|WD~Portal_Lithuania,10815301]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Lithuania,11037150|WD~WikiProject_Lithuania,11037150]]'
+head_of_government: '[[_Standards/WikiData/WD~Gintautas_Paluckas,12655545|WD~Gintautas_Paluckas,12655545]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21508706,21508706|WD~Q21508706,21508706]]'
+emergency_phone_number: '[[_Standards/WikiData/WD~02,25648899|WD~02,25648899]]'
+open_data_portal: '[[_Standards/WikiData/WD~Open_data_in_Lithuania,97011850|WD~Open_data_in_Lithuania,97011850]]'
 nominal_GDP: 70334299008
 demonym:
 - litovo
@@ -699,25 +699,25 @@ demonym:
 - Lietuvänan
 ISNI: 123641220
 part_of:
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~European_Economic_Area,8932]]'
-- '[[_Standards/WikiData/WD~Northern_Europe,27479]]'
-- '[[_Standards/WikiData/WD~Baltic_states,39731]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Baltic_Sea,545]]'
-member_of: '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~European_Economic_Area,8932|WD~European_Economic_Area,8932]]'
+- '[[_Standards/WikiData/WD~Northern_Europe,27479|WD~Northern_Europe,27479]]'
+- '[[_Standards/WikiData/WD~Baltic_states,39731|WD~Baltic_states,39731]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Baltic_Sea,545|WD~Baltic_Sea,545]]'
+member_of: '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-official_language: '[[_Standards/WikiData/WD~Lithuanian,9083]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]'
+official_language: '[[_Standards/WikiData/WD~Lithuanian,9083|WD~Lithuanian,9083]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Sweden,34]]'
-- '[[_Standards/WikiData/WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Belarus,184]]'
-- '[[_Standards/WikiData/WD~Latvia,211]]'
-country: '[[_Standards/WikiData/WD~Lithuania,37]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
-capital: '[[_Standards/WikiData/WD~Vilnius,216]]'
+- '[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]'
+country: '[[_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+capital: '[[_Standards/WikiData/WD~Vilnius,216|WD~Vilnius,216]]'
 Inequality_adjusted_Human_Development_Index: 0.8
 birth_rate:
 - 9
@@ -746,10 +746,10 @@ BTI_Status_Index:
 - 9.27
 total_fertility_rate: 1.59
 suicide_rate: 20.2
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Baltic_states,39731]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.lt,39900]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Baltic_states,39731|WD~Baltic_states,39731]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.lt,39900|WD~.lt,39900]]'
 Gini_coefficient: 35.3
-anthem: '[[_Standards/WikiData/WD~Tautiška_giesmė,43978]]'
+anthem: '[[_Standards/WikiData/WD~Tautiška_giesmė,43978|WD~Tautiška_giesmė,43978]]'
 Happy_Planet_Index_score: 36.9
 trunk_prefix: 8
 area: 65300
@@ -961,7 +961,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Lithuania/ReadMe]] 
+[[Lithuania/ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -985,7 +985,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Lithuania.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Lithuania.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Lithuania.mp3|Anthem-Lithuania.mp3]]
 ![[Flag_of_Lithuania.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]

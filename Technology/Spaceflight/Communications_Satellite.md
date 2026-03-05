@@ -66,11 +66,11 @@ aliases:
 - 通讯卫星
 - 통신 위성
 has_id_wikidata: Q149918
-has_use: '[[../../WikiData/WD~Satellite_communication,2225985]]'
-subclass_of: '[[_Standards/WikiData/WD~artificial_satellite_of_the_Earth,12832168]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_communications_satellite,13965330]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-instance_of: '[[_Standards/WikiData/WD~spacecraft_type,131610589]]'
+has_use: '[[../../WikiData/WD~Satellite_communication,2225985|WD~Satellite_communication,2225985]]'
+subclass_of: '[[_Standards/WikiData/WD~artificial_satellite_of_the_Earth,12832168|WD~artificial_satellite_of_the_Earth,12832168]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_communications_satellite,13965330|WD~Template_Infobox_communications_satellite,13965330]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~spacecraft_type,131610589|WD~spacecraft_type,131610589]]'
 Nomenclature_for_Museum_Cataloging: 11739
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AFSATCOM%20diagram.PNG
 MIL_STD_2525_Symbol_Identification_Code:

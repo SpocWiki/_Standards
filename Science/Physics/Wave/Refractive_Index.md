@@ -69,21 +69,21 @@ aliases:
 - 굴절률
 has_id_wikidata: Q174102
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
-- '[[_Standards/WikiData/WD~index_number,1738991]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]'
+- '[[_Standards/WikiData/WD~index_number,1738991|WD~index_number,1738991]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~ISO_80000_7_2008_Quantities_and_units_Part_7_Light,26711937]]'
-- '[[_Standards/WikiData/WD~ISO_80000_7_2019_Quantities_and_units_Part_7_Light_and_radiation,80232369]]'
-different_from: '[[_Standards/WikiData/WD~complex_refractive_index,108073699]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000_7_2008_Quantities_and_units_Part_7_Light,26711937|WD~ISO_80000_7_2008_Quantities_and_units_Part_7_Light,26711937]]'
+- '[[_Standards/WikiData/WD~ISO_80000_7_2019_Quantities_and_units_Part_7_Light_and_radiation,80232369|WD~ISO_80000_7_2019_Quantities_and_units_Part_7_Light_and_radiation,80232369]]'
+different_from: '[[_Standards/WikiData/WD~complex_refractive_index,108073699|WD~complex_refractive_index,108073699]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>c</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>c</mi></mstyle></mrow></math>
 Wikidata_property: refractive index
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~1,199]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~1,199|WD~1,199]]'
 quantity_symbol_string_: n
 Commons_category: Refraction
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>

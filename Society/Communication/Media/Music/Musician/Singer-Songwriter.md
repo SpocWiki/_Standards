@@ -99,20 +99,20 @@ aliases:
 - 싱어송라이터
 has_id_wikidata: Q488205
 subclass_of:
-- '[[_Standards/WikiData/WD~singer,177220]]'
-- '[[_Standards/WikiData/WD~songwriter,753110]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~lyricist,822146]]'
+- '[[_Standards/WikiData/WD~singer,177220|WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~songwriter,753110|WD~songwriter,753110]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~lyricist,822146|WD~lyricist,822146]]'
 field_of_this_occupation:
-- '[[_Standards/WikiData/WD~music_composing,11895763]]'
-- '[[_Standards/WikiData/WD~singer_songwriter_music,89363113]]'
-- '[[_Standards/WikiData/WD~singing,27939]]'
+- '[[_Standards/WikiData/WD~music_composing,11895763|WD~music_composing,11895763]]'
+- '[[_Standards/WikiData/WD~singer_songwriter_music,89363113|WD~singer_songwriter_music,89363113]]'
+- '[[_Standards/WikiData/WD~singing,27939|WD~singing,27939]]'
 instance_of:
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~musical_profession,66715801]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q34530555,34530555]]'
-has_list: '[[_Standards/WikiData/WD~list_of_singer_songwriters_by_name,64358609]]'
-different_from: '[[_Standards/WikiData/WD~singer_songwriter_music,89363113]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~singer_songwriter_music,89363113]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~musical_profession,66715801|WD~musical_profession,66715801]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q34530555,34530555|WD~Q34530555,34530555]]'
+has_list: '[[_Standards/WikiData/WD~list_of_singer_songwriters_by_name,64358609|WD~list_of_singer_songwriters_by_name,64358609]]'
+different_from: '[[_Standards/WikiData/WD~singer_songwriter_music,89363113|WD~singer_songwriter_music,89363113]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~singer_songwriter_music,89363113|WD~singer_songwriter_music,89363113]]'
 male_form_of_label:
 - cantautore
 - auteur-compositeur-interprète

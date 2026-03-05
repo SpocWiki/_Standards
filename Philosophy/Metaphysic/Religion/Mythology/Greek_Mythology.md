@@ -117,23 +117,23 @@ aliases:
 - 그리스 신화
 has_id_wikidata: Q34726
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-part_of: '[[_Standards/WikiData/WD~classical_mythology,1367434]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+part_of: '[[_Standards/WikiData/WD~classical_mythology,1367434|WD~classical_mythology,1367434]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Greek_underworld,1521549]]'
-- '[[_Standards/WikiData/WD~Greek_deity,22989102]]'
+- '[[_Standards/WikiData/WD~Greek_underworld,1521549|WD~Greek_underworld,1521549]]'
+- '[[_Standards/WikiData/WD~Greek_deity,22989102|WD~Greek_deity,22989102]]'
 Library_of_Congress_Classification: BL780-BL795
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Mythology,8485907]]'
-- '[[_Standards/WikiData/WD~WikiProject_Greece,10740384]]'
-- '[[_Standards/WikiData/WD~WikiProject_Classical_Greece_and_Rome,26208713]]'
-- '[[_Standards/WikiData/WD~WikiProject_Rome,58824487]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Q10801248,10801248]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Greek_mythology,12126721]]'
-instance_of: '[[_Standards/WikiData/WD~mythology,9134]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mythology,8485907|WD~WikiProject_Mythology,8485907]]'
+- '[[_Standards/WikiData/WD~WikiProject_Greece,10740384|WD~WikiProject_Greece,10740384]]'
+- '[[_Standards/WikiData/WD~WikiProject_Classical_Greece_and_Rome,26208713|WD~WikiProject_Classical_Greece_and_Rome,26208713]]'
+- '[[_Standards/WikiData/WD~WikiProject_Rome,58824487|WD~WikiProject_Rome,58824487]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q10801248,10801248|WD~Q10801248,10801248]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Greek_mythology,12126721|WD~Portal_Greek_mythology,12126721]]'
+instance_of: '[[_Standards/WikiData/WD~mythology,9134|WD~mythology,9134]]'
 Iconclass_notation:
 - 94
 - 95

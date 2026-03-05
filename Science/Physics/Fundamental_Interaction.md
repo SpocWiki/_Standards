@@ -88,22 +88,22 @@ has_id_wikidata: Q104934
 Commons_category: Fundamental forces
 Dewey_Decimal_Classification: 539.754
 Wikidata_property: interaction
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415|WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418|WD~weak_interaction,11418]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tetrad,29428373]]'
-- '[[_Standards/WikiData/WD~type_of_interaction,123345464]]'
+- '[[_Standards/WikiData/WD~tetrad,29428373|WD~tetrad,29428373]]'
+- '[[_Standards/WikiData/WD~type_of_interaction,123345464|WD~type_of_interaction,123345464]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Feynman-electron-photon-emission.svg
-studied_in: '[[_Standards/WikiData/WD~physics,413]]'
+studied_in: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-- '[[_Standards/WikiData/WD~interaction,52948]]'
-studied_by: '[[_Standards/WikiData/WD~physics,413]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_FundamentalForces,8081453]]'
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+- '[[_Standards/WikiData/WD~interaction,52948|WD~interaction,52948]]'
+studied_by: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_FundamentalForces,8081453|WD~Template_FundamentalForces,8081453]]'
 dv_has_:
   name_:
     af: fundamentele wisselwerking
@@ -218,7 +218,7 @@ dv_has_:
 > - gravity, 
 > - electromagnetism, 
 > - [[Fundamental_Interaction/Weak_Interaction|Weak_Interaction]], and 
-> - [[Fundamental_Interaction/Strong_Interaction]]. 
+> - [[Fundamental_Interaction/Strong_Interaction|Strong_Interaction]]. 
 > 
 > The gravitational and electromagnetic interactions produce long-range forces whose effects can be seen directly in everyday life. The strong and weak interactions produce forces at subatomic scales and govern nuclear interactions inside atoms.
 >

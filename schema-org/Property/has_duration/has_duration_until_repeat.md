@@ -45,7 +45,7 @@ dv_is_:
     - "[[/_personal/schema-org/Property/has_duration_of/has_duration_until_repeat.personal|has_duration_until_repeat.personal]]"
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_until_repeat.secret|has_duration_until_repeat.secret]]"
     - "[[has_duration_until_repeat]]"
-  similar_to: "[[../has_duration]]"
+  similar_to: "[[../has_duration|has_duration]]"
 dv_has_name: has_duration_until_repeat
 dv_is_same_as:
   - "[[has_duration_until_repeat]]"
@@ -55,7 +55,7 @@ dv_is_same_as:
   - "[[/_private/schema-org/Property/has_duration_of/has_duration_until_repeat.private|has_duration_until_repeat.private]]"
   - "[[/_personal/schema-org/Property/has_duration_of/has_duration_until_repeat.personal|has_duration_until_repeat.personal]]"
   - "[[/_secret/schema-org/Property/has_duration_of/has_duration_until_repeat.secret|has_duration_until_repeat.secret]]"
-dv_is_similar_to: "[[../has_duration]]"
+dv_is_similar_to: "[[../has_duration|has_duration]]"
 ---
 
 # [[has_duration_until_repeat]] 
@@ -72,7 +72,7 @@ Use it like this:
   with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 Defines the frequency at which [[Event]]s will occur according to a [[Schedule]]. The intervals between
-	  events should be defined as a [[../../Predicate/Quantity/Duration]] of time.
+	  events should be defined as a [[../../Predicate/Quantity/Duration|Duration]] of time.
 
 Formal Predicate: 
 domain = `=this.dv_domain` 

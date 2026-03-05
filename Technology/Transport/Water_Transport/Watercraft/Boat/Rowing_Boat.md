@@ -35,19 +35,19 @@ aliases:
 - 漕ぎ船
 has_id_wikidata: Q1195684
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~rowlock,1424332]]'
-- '[[_Standards/WikiData/WD~hull,6750281]]'
+- '[[_Standards/WikiData/WD~rowlock,1424332|WD~rowlock,1424332]]'
+- '[[_Standards/WikiData/WD~hull,6750281|WD~hull,6750281]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~human_powered_vehicle,1507442]]'
-- '[[_Standards/WikiData/WD~rowing_equipment,43399738]]'
-- '[[_Standards/WikiData/WD~boat,35872]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~rowboat,10656226]]'
-instance_of: '[[_Standards/WikiData/WD~boat_type,16103215]]'
-has_use: '[[_Standards/WikiData/WD~rowing,21368803]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q25820992,25820992]]'
+- '[[_Standards/WikiData/WD~human_powered_vehicle,1507442|WD~human_powered_vehicle,1507442]]'
+- '[[_Standards/WikiData/WD~rowing_equipment,43399738|WD~rowing_equipment,43399738]]'
+- '[[_Standards/WikiData/WD~boat,35872|WD~boat,35872]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~rowboat,10656226|WD~rowboat,10656226]]'
+instance_of: '[[_Standards/WikiData/WD~boat_type,16103215|WD~boat_type,16103215]]'
+has_use: '[[_Standards/WikiData/WD~rowing,21368803|WD~rowing,21368803]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q25820992,25820992|WD~Q25820992,25820992]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/%28Woman%20in%20Hat%20Rowing%20a%20Boat%29%20-%20Google%20Art%20Project.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/WRJCH%202018-08-09%20JM2x%20Reps%20%28Martin%20Rulsch%29%2008.jpg

@@ -21,11 +21,11 @@ aliases:
 - 우류절
 has_id_wikidata: Q5025311
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Wuliuan,131610414]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Wuliuan,134972332]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Wuliuan,131610414|WD~Category_Wuliuan,131610414]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Wuliuan,134972332|WD~GSSP_for_the_base_of_Wuliuan,134972332]]'
 end_time: -504500000-01-01T00:00:00Z
 Commons_category: Wuliuan
 coordinate_location: Point(108.413833333 26.747383333)
@@ -117,7 +117,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 509 to 504.5 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-505_Ma_(Wuliuan_Stage).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-505_Ma_(Wuliuan_Stage).png|Earth-505_Ma_(Wuliuan_Stage).png]] 
 
 ## #has_/text_of_/abstract 
 

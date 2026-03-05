@@ -138,45 +138,45 @@ aliases:
 - ꯈꯥꯀꯤ ꯃꯌꯦꯛ
 - 한자
 has_id_wikidata: Q8201
-has_effect: '[[_Standards/WikiData/WD~East_Asian_cultural_sphere,716566]]'
+has_effect: '[[_Standards/WikiData/WD~East_Asian_cultural_sphere,716566|WD~East_Asian_cultural_sphere,716566]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Chinese_character_radical,849778]]'
-- '[[_Standards/WikiData/WD~Chinese_character_stroke,1689024]]'
-- '[[_Standards/WikiData/WD~hanzi_component,15911848]]'
-creator: '[[_Standards/WikiData/WD~Cangjie,1033199]]'
+- '[[_Standards/WikiData/WD~Chinese_character_radical,849778|WD~Chinese_character_radical,849778]]'
+- '[[_Standards/WikiData/WD~Chinese_character_stroke,1689024|WD~Chinese_character_stroke,1689024]]'
+- '[[_Standards/WikiData/WD~hanzi_component,15911848|WD~hanzi_component,15911848]]'
+creator: '[[_Standards/WikiData/WD~Cangjie,1033199|WD~Cangjie,1033199]]'
 part_of:
-- '[[_Standards/WikiData/WD~CJKV,1198450]]'
-- '[[_Standards/WikiData/WD~Han_with_Bopomofo,28454520]]'
-- '[[_Standards/WikiData/WD~Chinese,7850]]'
+- '[[_Standards/WikiData/WD~CJKV,1198450|WD~CJKV,1198450]]'
+- '[[_Standards/WikiData/WD~Han_with_Bopomofo,28454520|WD~Han_with_Bopomofo,28454520]]'
+- '[[_Standards/WikiData/WD~Chinese,7850|WD~Chinese,7850]]'
 instance_of:
-- '[[_Standards/WikiData/WD~logographic_writing_system,3953107]]'
-- '[[_Standards/WikiData/WD~natural_writing_system,29517555]]'
-- '[[_Standards/WikiData/WD~writing_system,8192]]'
+- '[[_Standards/WikiData/WD~logographic_writing_system,3953107|WD~logographic_writing_system,3953107]]'
+- '[[_Standards/WikiData/WD~natural_writing_system,29517555|WD~natural_writing_system,29517555]]'
+- '[[_Standards/WikiData/WD~writing_system,8192|WD~writing_system,8192]]'
 history_of_topic:
-- '[[_Standards/WikiData/WD~stages_of_evolution_of_Chinese_characters,4532947]]'
-- '[[_Standards/WikiData/WD~history_of_Chinese_characters,15899315]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~sinogram,17300291]]'
-different_from: '[[_Standards/WikiData/WD~sinogram,17300291]]'
+- '[[_Standards/WikiData/WD~stages_of_evolution_of_Chinese_characters,4532947|WD~stages_of_evolution_of_Chinese_characters,4532947]]'
+- '[[_Standards/WikiData/WD~history_of_Chinese_characters,15899315|WD~history_of_Chinese_characters,15899315]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~sinogram,17300291|WD~sinogram,17300291]]'
+different_from: '[[_Standards/WikiData/WD~sinogram,17300291|WD~sinogram,17300291]]'
 script_directionality:
-- '[[_Standards/WikiData/WD~left-to-right,17321844]]'
-- '[[_Standards/WikiData/WD~vertical_right-to-left,105395084]]'
-based_on: '[[_Standards/WikiData/WD~proto-writing,18175774]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Q91927946,91927946]]'
+- '[[_Standards/WikiData/WD~left-to-right,17321844|WD~left-to-right,17321844]]'
+- '[[_Standards/WikiData/WD~vertical_right-to-left,105395084|WD~vertical_right-to-left,105395084]]'
+based_on: '[[_Standards/WikiData/WD~proto-writing,18175774|WD~proto-writing,18175774]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q91927946,91927946|WD~Q91927946,91927946]]'
 inception: -1250
 has_time_started: -1250
 facet_of:
-- '[[_Standards/WikiData/WD~Japanese,5287]]'
-- '[[_Standards/WikiData/WD~Chinese,7850]]'
+- '[[_Standards/WikiData/WD~Japanese,5287|WD~Japanese,5287]]'
+- '[[_Standards/WikiData/WD~Chinese,7850|WD~Chinese,7850]]'
 language_of_work_or_name:
-- '[[_Standards/WikiData/WD~Japanese,5287]]'
-- '[[_Standards/WikiData/WD~Chinese,7850]]'
-- '[[_Standards/WikiData/WD~Korean,9176]]'
-- '[[_Standards/WikiData/WD~Vietnamese,9199]]'
-- '[[_Standards/WikiData/WD~Zhuang,13216]]'
-- '[[_Standards/WikiData/WD~Okinawan,34233]]'
+- '[[_Standards/WikiData/WD~Japanese,5287|WD~Japanese,5287]]'
+- '[[_Standards/WikiData/WD~Chinese,7850|WD~Chinese,7850]]'
+- '[[_Standards/WikiData/WD~Korean,9176|WD~Korean,9176]]'
+- '[[_Standards/WikiData/WD~Vietnamese,9199|WD~Vietnamese,9199]]'
+- '[[_Standards/WikiData/WD~Zhuang,13216|WD~Zhuang,13216]]'
+- '[[_Standards/WikiData/WD~Okinawan,34233|WD~Okinawan,34233]]'
 Wikidata_property: Han character in this lexeme
-subclass_of: '[[_Standards/WikiData/WD~writing_system,8192]]'
-country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
+subclass_of: '[[_Standards/WikiData/WD~writing_system,8192|WD~writing_system,8192]]'
+country_of_origin: '[[_Standards/WikiData/WD~China,29520|WD~China,29520]]'
 ISO_15924_numeric_code: 500
 name:
 - Han

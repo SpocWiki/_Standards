@@ -68,27 +68,27 @@ aliases:
 - 부활
 has_id_wikidata: Q188681
 different_from:
-- '[[_Standards/WikiData/WD~reincarnation,128593]]'
-- '[[_Standards/WikiData/WD~resuscitation,5491454]]'
-- '[[_Standards/WikiData/WD~Zmartwychwstanie,87481747]]'
+- '[[_Standards/WikiData/WD~reincarnation,128593|WD~reincarnation,128593]]'
+- '[[_Standards/WikiData/WD~resuscitation,5491454|WD~resuscitation,5491454]]'
+- '[[_Standards/WikiData/WD~Zmartwychwstanie,87481747|WD~Zmartwychwstanie,87481747]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Divine_Principle,12609286]]'
-- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
-- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
-facet_of: '[[_Standards/WikiData/WD~afterlife,623282]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Divine_Principle,12609286|WD~Divine_Principle,12609286]]'
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706|WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519|WD~New_World_Encyclopedia,116780519]]'
+facet_of: '[[_Standards/WikiData/WD~afterlife,623282|WD~afterlife,623282]]'
 instance_of:
-- '[[_Standards/WikiData/WD~superpower,1047698]]'
-- '[[_Standards/WikiData/WD~narrative_motif,1697305]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Resurrection_of_the_dead,2997437]]'
+- '[[_Standards/WikiData/WD~superpower,1047698|WD~superpower,1047698]]'
+- '[[_Standards/WikiData/WD~narrative_motif,1697305|WD~narrative_motif,1697305]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Resurrection_of_the_dead,2997437|WD~Resurrection_of_the_dead,2997437]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~faith,5410500]]'
-- '[[_Standards/WikiData/WD~vivification,115399440]]'
-has_part_s_: '[[_Standards/WikiData/WD~al_baʻth_baʻd_al_mawt,12184524]]'
+- '[[_Standards/WikiData/WD~faith,5410500|WD~faith,5410500]]'
+- '[[_Standards/WikiData/WD~vivification,115399440|WD~vivification,115399440]]'
+has_part_s_: '[[_Standards/WikiData/WD~al_baʻth_baʻd_al_mawt,12184524|WD~al_baʻth_baʻd_al_mawt,12184524]]'
 PhilPapers_topic: resurrection
 Commons_category: Resurrection
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Phoenix-Fabelwesen.jpg

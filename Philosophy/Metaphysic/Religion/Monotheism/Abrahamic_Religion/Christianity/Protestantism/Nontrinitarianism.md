@@ -42,20 +42,20 @@ aliases:
 - 반삼위일체론
 has_id_wikidata: Q584205
 facet_of:
-- '[[_Standards/WikiData/WD~Arianism,83922]]'
-- "[[_Standards/WikiData/WD~Jehovah's_Witnesses,35269]]"
+- '[[_Standards/WikiData/WD~Arianism,83922|WD~Arianism,83922]]'
+- "[[_Standards/WikiData/WD~Jehovah's_Witnesses,35269|WD~Jehovah's_Witnesses,35269]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082|WD~Orthodox_Theological_Encyclopedia,19211082]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~heresy_in_Christianity,2912496]]'
-- '[[_Standards/WikiData/WD~Christian_theological_school,28109769]]'
-- '[[_Standards/WikiData/WD~God_in_Christianity,825]]'
-instance_of: '[[_Standards/WikiData/WD~Christian_doctrine,3714546]]'
-opposite_of: '[[_Standards/WikiData/WD~trinitarianism,16360083]]'
-has_part_s_: '[[_Standards/WikiData/WD~nontrinitarian,38704413]]'
+- '[[_Standards/WikiData/WD~heresy_in_Christianity,2912496|WD~heresy_in_Christianity,2912496]]'
+- '[[_Standards/WikiData/WD~Christian_theological_school,28109769|WD~Christian_theological_school,28109769]]'
+- '[[_Standards/WikiData/WD~God_in_Christianity,825|WD~God_in_Christianity,825]]'
+instance_of: '[[_Standards/WikiData/WD~Christian_doctrine,3714546|WD~Christian_doctrine,3714546]]'
+opposite_of: '[[_Standards/WikiData/WD~trinitarianism,16360083|WD~trinitarianism,16360083]]'
+has_part_s_: '[[_Standards/WikiData/WD~nontrinitarian,38704413|WD~nontrinitarian,38704413]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Christadelphian%20Hall%20%28Bath%29.JPG
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/non-trinitarian
 dv_has_:

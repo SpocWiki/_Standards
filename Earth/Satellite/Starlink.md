@@ -39,26 +39,26 @@ aliases:
 - 星链
 - 스타링크
 has_id_wikidata: Q19867977
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~communications_satellite,149918]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~communications_satellite,149918|WD~communications_satellite,149918]]'
 instance_of:
-- '[[_Standards/WikiData/WD~project,170584]]'
-- '[[_Standards/WikiData/WD~satellite_internet_constellation,54806917]]'
+- '[[_Standards/WikiData/WD~project,170584|WD~project,170584]]'
+- '[[_Standards/WikiData/WD~satellite_internet_constellation,54806917|WD~satellite_internet_constellation,54806917]]'
 operating_area:
-- '[[_Standards/WikiData/WD~Metropolitan_France,212429]]'
-- '[[_Standards/WikiData/WD~Armenia,399]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
-- '[[_Standards/WikiData/WD~Rwanda,1037]]'
-- '[[_Standards/WikiData/WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Brazil,155]]'
-named_after: '[[_Standards/WikiData/WD~The_Fault_in_Our_Stars,658375]]'
-has_use: '[[_Standards/WikiData/WD~satellite_Internet_access,877159]]'
-has_list: '[[_Standards/WikiData/WD~list_of_Starlink_launches,110311637]]'
-different_from: '[[_Standards/WikiData/WD~Starlink,127785902]]'
-manufacturer: '[[_Standards/WikiData/WD~Starlink,127785902]]'
-operator: '[[_Standards/WikiData/WD~Starlink,127785902]]'
-part_of: '[[_Standards/WikiData/WD~list_of_companies_involved_in_the_Gaza_war,134661623]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Metropolitan_France,212429|WD~Metropolitan_France,212429]]'
+- '[[_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Rwanda,1037|WD~Rwanda,1037]]'
+- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+named_after: '[[_Standards/WikiData/WD~The_Fault_in_Our_Stars,658375|WD~The_Fault_in_Our_Stars,658375]]'
+has_use: '[[_Standards/WikiData/WD~satellite_Internet_access,877159|WD~satellite_Internet_access,877159]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Starlink_launches,110311637|WD~list_of_Starlink_launches,110311637]]'
+different_from: '[[_Standards/WikiData/WD~Starlink,127785902|WD~Starlink,127785902]]'
+manufacturer: '[[_Standards/WikiData/WD~Starlink,127785902|WD~Starlink,127785902]]'
+operator: '[[_Standards/WikiData/WD~Starlink,127785902|WD~Starlink,127785902]]'
+part_of: '[[_Standards/WikiData/WD~list_of_companies_involved_in_the_Gaza_war,134661623|WD~list_of_companies_involved_in_the_Gaza_war,134661623]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 mass:
 - 800
 - 260

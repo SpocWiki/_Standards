@@ -59,23 +59,23 @@ aliases:
 - 씨족
 has_id_wikidata: Q211503
 different_from:
-- '[[_Standards/WikiData/WD~family_name,101352]]'
-- '[[_Standards/WikiData/WD~grammatical_gender,162378]]'
-- '[[_Standards/WikiData/WD~Klan,395886]]'
-- '[[_Standards/WikiData/WD~genus,34740]]'
-facet_of: '[[_Standards/WikiData/WD~kinship,171318]]'
+- '[[_Standards/WikiData/WD~family_name,101352|WD~family_name,101352]]'
+- '[[_Standards/WikiData/WD~grammatical_gender,162378|WD~grammatical_gender,162378]]'
+- '[[_Standards/WikiData/WD~Klan,395886|WD~Klan,395886]]'
+- '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
+facet_of: '[[_Standards/WikiData/WD~kinship,171318|WD~kinship,171318]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~Klan,12824902]]'
-- '[[_Standards/WikiData/WD~clan,30897454]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_clan,13383694]]'
-subclass_of: '[[_Standards/WikiData/WD~family,8436]]'
+- '[[_Standards/WikiData/WD~Klan,12824902|WD~Klan,12824902]]'
+- '[[_Standards/WikiData/WD~clan,30897454|WD~clan,30897454]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_clan,13383694|WD~Template_Infobox_clan,13383694]]'
+subclass_of: '[[_Standards/WikiData/WD~family,8436|WD~family,8436]]'
 Commons_category: Clans
 P8189: 987007283793105171
 dv_has_:

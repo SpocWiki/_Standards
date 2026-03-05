@@ -43,11 +43,11 @@ aliases:
 - 跨撒哈拉贸易
 - 사하라 종단 무역
 has_id_wikidata: Q465279
-subclass_of: '[[_Standards/WikiData/WD~international_trade,178803]]'
-instance_of: '[[_Standards/WikiData/WD~trade,601401]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q28976226,28976226]]'
-described_by_source: "[[_Standards/WikiData/WD~Great_journeys_travel_the_world's_most_spectacular_routes,125766454]]"
-country: '[[_Standards/WikiData/WD~Algeria,262]]'
+subclass_of: '[[_Standards/WikiData/WD~international_trade,178803|WD~international_trade,178803]]'
+instance_of: '[[_Standards/WikiData/WD~trade,601401|WD~trade,601401]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q28976226,28976226|WD~Q28976226,28976226]]'
+described_by_source: "[[_Standards/WikiData/WD~Great_journeys_travel_the_world's_most_spectacular_routes,125766454|WD~Great_journeys_travel_the_world's_most_spectacular_routes,125766454]]"
+country: '[[_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]'
 Commons_category: Sahara
 route_map: http://commons.wikimedia.org/wiki/Special:FilePath/Niger%20saharan%20medieval%20trade%20routes.PNG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/French%20language%20map%20of%20Central%20and%20Eastern%20Africa%201862.jpg

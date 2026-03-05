@@ -71,22 +71,22 @@ aliases:
 - 종교철학
 has_id_wikidata: Q209295
 described_by_source:
-- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553|WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~religious_philosophy,2054106]]'
-- '[[_Standards/WikiData/WD~theology,34178]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Philosophy_of_religion,8035133]]'
+- '[[_Standards/WikiData/WD~religious_philosophy,2054106|WD~religious_philosophy,2054106]]'
+- '[[_Standards/WikiData/WD~theology,34178|WD~theology,34178]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Philosophy_of_religion,8035133|WD~Template_Philosophy_of_religion,8035133]]'
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
-- '[[_Standards/WikiData/WD~topic,26256810]]'
-practiced_by: '[[_Standards/WikiData/WD~philosopher_of_religion,88114145]]'
-facet_of: '[[_Standards/WikiData/WD~Philosophy_of_Religion,113546436]]'
-subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234|WD~branch_of_philosophy,22811234]]'
+- '[[_Standards/WikiData/WD~topic,26256810|WD~topic,26256810]]'
+practiced_by: '[[_Standards/WikiData/WD~philosopher_of_religion,88114145|WD~philosopher_of_religion,88114145]]'
+facet_of: '[[_Standards/WikiData/WD~Philosophy_of_Religion,113546436|WD~Philosophy_of_Religion,113546436]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~religion,9174]]'
-- '[[_Standards/WikiData/WD~God,190]]'
-main_subject: '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~God,190|WD~God,190]]'
+main_subject: '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
 social_media_followers: 24770
 Basisklassifikation: 08.37
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bronnikov%20gimnpifagoreizev.jpg

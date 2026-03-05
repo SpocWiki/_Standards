@@ -53,13 +53,13 @@ aliases:
 - 狄拉克方程式
 - 디랙 방정식
 has_id_wikidata: Q272621
-different_from: '[[_Standards/WikiData/WD~Dirac_delta_function,209675]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-instance_of: '[[_Standards/WikiData/WD~relativistic_wave_equation,7310838]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-derivative_work: '[[_Standards/WikiData/WD~Dirac_equation_in_curved_spacetime,16853908]]'
-named_after: '[[_Standards/WikiData/WD~Paul_Dirac,47480]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul_Dirac,47480]]'
+different_from: '[[_Standards/WikiData/WD~Dirac_delta_function,209675|WD~Dirac_delta_function,209675]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~relativistic_wave_equation,7310838|WD~relativistic_wave_equation,7310838]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+derivative_work: '[[_Standards/WikiData/WD~Dirac_equation_in_curved_spacetime,16853908|WD~Dirac_equation_in_curved_spacetime,16853908]]'
+named_after: '[[_Standards/WikiData/WD~Paul_Dirac,47480|WD~Paul_Dirac,47480]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul_Dirac,47480|WD~Paul_Dirac,47480]]'
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/dirac-equation
 defining_formula: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mi>i</mi><mi alternate=\"1\">&#x210F;</mi><mrow data-mjx-texclass=\"ORD\"><mfrac><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>&#x2202;</mi><mi mathvariant=\"normal\">&#x03A8;</mi></mrow></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>&#x2202;</mi><mi>t</mi></mrow></mrow></mfrac></mrow><mo stretchy=\"false\">=</mo><mo stretchy=\"false\">(</mo><mi>c</mi><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mover><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"bold-italic\">&#x03B1;</mi></mrow><mo>^</mo></mover></mrow></mrow><mo stretchy=\"false\">&#x22C5;</mo><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mover><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D491</mi></mrow><mo>^</mo></mover></mrow></mrow><mo stretchy=\"false\">+</mo><mi>m</mi><msup><mi>c</mi><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mover><mi>&#x03B2;</mi><mo>^</mo></mover></mrow></mrow><mo stretchy=\"false\">)</mo><mi mathvariant=\"normal\">&#x03A8;</mi></mstyle></mrow></math>"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dirac%20equation%20%284089777873%29.jpg
@@ -131,7 +131,7 @@ dv_has_:
 
 # [[Dirac_Equation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Dirac_equation,272621]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Dirac_equation,272621|WD~Dirac_equation,272621]] 
 
 ## #has_/formula_   
 

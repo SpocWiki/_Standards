@@ -52,20 +52,20 @@ aliases:
 - 無土栽培
 - 양액재배
 has_id_wikidata: Q191667
-uses: '[[_Standards/WikiData/WD~fertilizer,83323]]'
-followed_by: '[[_Standards/WikiData/WD~aeroponics,381640]]'
-different_from: '[[_Standards/WikiData/WD~aquaponics,557542]]'
-follows: '[[_Standards/WikiData/WD~arable_farming,3198719]]'
+uses: '[[_Standards/WikiData/WD~fertilizer,83323|WD~fertilizer,83323]]'
+followed_by: '[[_Standards/WikiData/WD~aeroponics,381640|WD~aeroponics,381640]]'
+different_from: '[[_Standards/WikiData/WD~aquaponics,557542|WD~aquaponics,557542]]'
+follows: '[[_Standards/WikiData/WD~arable_farming,3198719|WD~arable_farming,3198719]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~process,10843872]]'
-- '[[_Standards/WikiData/WD~controlled_environment_agriculture,16951286]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Chi,_Chün_tao,11054345]]'
-depicted_by: '[[_Standards/WikiData/WD~IOP_1955_Episode_236,127946864]]'
+- '[[_Standards/WikiData/WD~process,10843872|WD~process,10843872]]'
+- '[[_Standards/WikiData/WD~controlled_environment_agriculture,16951286|WD~controlled_environment_agriculture,16951286]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Chi,_Chün_tao,11054345|WD~Chi,_Chün_tao,11054345]]'
+depicted_by: '[[_Standards/WikiData/WD~IOP_1955_Episode_236,127946864|WD~IOP_1955_Episode_236,127946864]]'
 item_operated:
-- '[[_Standards/WikiData/WD~water,283]]'
-- '[[_Standards/WikiData/WD~plant,756]]'
-used_by: '[[_Standards/WikiData/WD~horticulture,48803]]'
-has_use: '[[_Standards/WikiData/WD~horticulture,48803]]'
+- '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
+- '[[_Standards/WikiData/WD~plant,756|WD~plant,756]]'
+used_by: '[[_Standards/WikiData/WD~horticulture,48803|WD~horticulture,48803]]'
+has_use: '[[_Standards/WikiData/WD~horticulture,48803|WD~horticulture,48803]]'
 social_media_followers:
 - 68102
 - 105294

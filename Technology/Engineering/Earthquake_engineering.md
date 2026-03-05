@@ -45,11 +45,11 @@ aliases:
 - 지진공학
 has_id_wikidata: Q909789
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
-practiced_by: '[[_Standards/WikiData/WD~earthquake_engineer,110845266]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
+practiced_by: '[[_Standards/WikiData/WD~earthquake_engineer,110845266|WD~earthquake_engineer,110845266]]'
 Commons_category: Earthquake engineering
 dv_has_:
   name_:

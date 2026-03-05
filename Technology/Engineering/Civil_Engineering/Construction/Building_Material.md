@@ -81,12 +81,12 @@ aliases:
 - 건축재료
 has_id_wikidata: Q206615
 subclass_of:
-- '[[_Standards/WikiData/WD~material,214609]]'
-- '[[_Standards/WikiData/WD~construction_product,16110223]]'
-has_use: '[[_Standards/WikiData/WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
+- '[[_Standards/WikiData/WD~construction_product,16110223|WD~construction_product,16110223]]'
+has_use: '[[_Standards/WikiData/WD~construction,385378|WD~construction,385378]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 Nomenclature_for_Museum_Cataloging: 43
 OmegaWiki_Defined_Meaning: 447
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stapel%20bakstenen%20-%20Pile%20of%20bricks%202005%20Fruggo.jpg

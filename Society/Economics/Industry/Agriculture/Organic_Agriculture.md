@@ -82,15 +82,15 @@ aliases:
 - 유기농
 has_id_wikidata: Q165647
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~method,1799072]]'
-uses: '[[_Standards/WikiData/WD~organic_fertilizer,539815]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~method,1799072|WD~method,1799072]]'
+uses: '[[_Standards/WikiData/WD~organic_fertilizer,539815|WD~organic_fertilizer,539815]]'
 different_from:
-- '[[_Standards/WikiData/WD~sustainable_agriculture,2751054]]'
-- '[[_Standards/WikiData/WD~ecological_farming,17074184]]'
+- '[[_Standards/WikiData/WD~sustainable_agriculture,2751054|WD~sustainable_agriculture,2751054]]'
+- '[[_Standards/WikiData/WD~ecological_farming,17074184|WD~ecological_farming,17074184]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
 OmegaWiki_Defined_Meaning: 2663
 Library_of_Congress_Classification: S605.5
 Commons_gallery: Organic farming

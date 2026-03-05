@@ -36,10 +36,10 @@ aliases:
 - 超泛神論
 - 내재신론
 has_id_wikidata: Q221390
-subclass_of: '[[_Standards/WikiData/WD~theism,620805]]'
-different_from: '[[_Standards/WikiData/WD~pantheism,728455]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-instance_of: '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
+subclass_of: '[[_Standards/WikiData/WD~theism,620805|WD~theism,620805]]'
+different_from: '[[_Standards/WikiData/WD~pantheism,728455|WD~pantheism,728455]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852|WD~philosophical_schools_and_traditions,12765852]]'
 IMDb_keyword: panentheism
 PhilPapers_topic: panentheism
 dv_has_:

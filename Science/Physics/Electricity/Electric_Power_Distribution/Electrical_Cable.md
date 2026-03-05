@@ -61,27 +61,27 @@ aliases:
 - 케이블
 has_id_wikidata: Q188447
 different_from:
-- '[[_Standards/WikiData/WD~overhead_contact_line,110701]]'
-- '[[_Standards/WikiData/WD~wire,551997]]'
-- '[[_Standards/WikiData/WD~cable,646462]]'
-- '[[_Standards/WikiData/WD~overhead_power_line,2144320]]'
+- '[[_Standards/WikiData/WD~overhead_contact_line,110701|WD~overhead_contact_line,110701]]'
+- '[[_Standards/WikiData/WD~wire,551997|WD~wire,551997]]'
+- '[[_Standards/WikiData/WD~cable,646462|WD~cable,646462]]'
+- '[[_Standards/WikiData/WD~overhead_power_line,2144320|WD~overhead_power_line,2144320]]'
 has_use:
-- '[[_Standards/WikiData/WD~electrical_circuit,132629]]'
-- '[[_Standards/WikiData/WD~electrical_wiring,192043]]'
+- '[[_Standards/WikiData/WD~electrical_circuit,132629|WD~electrical_circuit,132629]]'
+- '[[_Standards/WikiData/WD~electrical_wiring,192043|WD~electrical_wiring,192043]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~braid,320809]]'
-- '[[_Standards/WikiData/WD~color_code,1738927]]'
-- '[[_Standards/WikiData/WD~twist,55294736]]'
-has_part_s_: '[[_Standards/WikiData/WD~wire,551997]]'
+- '[[_Standards/WikiData/WD~braid,320809|WD~braid,320809]]'
+- '[[_Standards/WikiData/WD~color_code,1738927|WD~color_code,1738927]]'
+- '[[_Standards/WikiData/WD~twist,55294736|WD~twist,55294736]]'
+has_part_s_: '[[_Standards/WikiData/WD~wire,551997|WD~wire,551997]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-subclass_of: '[[_Standards/WikiData/WD~assembly,811367]]'
-connects_with: '[[_Standards/WikiData/WD~electrical_connector,2119531]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+subclass_of: '[[_Standards/WikiData/WD~assembly,811367|WD~assembly,811367]]'
+connects_with: '[[_Standards/WikiData/WD~electrical_connector,2119531|WD~electrical_connector,2119531]]'
 OmegaWiki_Defined_Meaning: 467
 Nomenclature_for_Museum_Cataloging: 8783
 image:

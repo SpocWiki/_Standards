@@ -77,26 +77,26 @@ aliases:
 - 열전도율
 has_id_wikidata: Q487005
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~thermodynamic_material_property,3523867]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~thermodynamic_material_property,3523867|WD~thermodynamic_material_property,3523867]]'
 studied_by:
-- '[[_Standards/WikiData/WD~materials_science,228736]]'
-- '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~materials_science,228736|WD~materials_science,228736]]'
+- '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~watt_per_metre_kelvin,1463969]]'
-- '[[_Standards/WikiData/WD~kilogram_metre_per_cubic_second_kelvin,106689063]]'
+- '[[_Standards/WikiData/WD~watt_per_metre_kelvin,1463969|WD~watt_per_metre_kelvin,1463969]]'
+- '[[_Standards/WikiData/WD~kilogram_metre_per_cubic_second_kelvin,106689063|WD~kilogram_metre_per_cubic_second_kelvin,106689063]]'
 different_from:
-- '[[_Standards/WikiData/WD~thermal_diffusivity,3381809]]'
-- '[[_Standards/WikiData/WD~thermal_conduction,7465774]]'
-- '[[_Standards/WikiData/WD~thermal_conductance,17176562]]'
-- '[[_Standards/WikiData/WD~thermal_conductivity_tensor,112840322]]'
-facet_of: '[[_Standards/WikiData/WD~thermal_conduction,7465774]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~thermal_diffusivity,3381809|WD~thermal_diffusivity,3381809]]'
+- '[[_Standards/WikiData/WD~thermal_conduction,7465774|WD~thermal_conduction,7465774]]'
+- '[[_Standards/WikiData/WD~thermal_conductance,17176562|WD~thermal_conductance,17176562]]'
+- '[[_Standards/WikiData/WD~thermal_conductivity_tensor,112840322|WD~thermal_conductivity_tensor,112840322]]'
+facet_of: '[[_Standards/WikiData/WD~thermal_conduction,7465774|WD~thermal_conduction,7465774]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]'
-- '[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]'
-opposite_of: '[[_Standards/WikiData/WD~thermal_resistivity,66311516]]'
+- '[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934|WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]'
+- '[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468|WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]'
+opposite_of: '[[_Standards/WikiData/WD~thermal_resistivity,66311516|WD~thermal_resistivity,66311516]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi data-mjx-texclass="OP" mathvariant="normal">grad</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><mi>T</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BB;</mi></mstyle></mrow></math>

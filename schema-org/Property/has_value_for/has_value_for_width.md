@@ -87,7 +87,7 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 To specify an alternative Scale, 
 prefer to use Scientific Notation. 
 Alternatively create a JSON-object with `{"value": 1.1 "unit":"meter"}` Properties, similar to XML Elements 
-as described in [[../../../Dimension/Unit_of_Measure]]. 
+as described in [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]. 
 
 
 [[../../Predicate|Predicate]] to describe the [[../../Predicate/Quantity|Quantity]] of a [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]],  [[../../Class/is_a_/Intangible/structured_value/offer_shipping_details|OfferShippingDetails]],  [[../../../Society/Agent/Community/Organization/Business/Product|Product]],  [[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|VisualArtwork]].

@@ -25,9 +25,9 @@ tags:
 title: is_a_female Class
 type: Type
 dv_has_:
-  parent_class: "[[../GenderType]]"
+  parent_class: "[[../GenderType|GenderType]]"
 dv_is_:
-  enum_of: "[[../GenderType]]"
+  enum_of: "[[../GenderType|GenderType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Gender_Type/Female|Female]]"
     - "[[/_public/schema-org/Enumeration/Gender_Type/Female.public|Female.public]]"
@@ -37,8 +37,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Gender_Type/Female.personal|Female.personal]]"
     - "[[/_secret/schema-org/Enumeration/Gender_Type/Female.secret|Female.secret]]"
     - "[[Female]]"
-dv_has_parent_class: "[[../GenderType]]"
-dv_is_enum_of: "[[../GenderType]]"
+dv_has_parent_class: "[[../GenderType|GenderType]]"
+dv_is_enum_of: "[[../GenderType|GenderType]]"
 dv_is_same_as:
   - "[[Female]]"
   - "[[/_public/schema-org/Enumeration/Gender_Type/Female.public|Female.public]]"

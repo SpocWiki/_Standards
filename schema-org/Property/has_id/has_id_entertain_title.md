@@ -38,19 +38,19 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_name/has_id_entertain_title.secret|has_id_entertain_title.secret]]"
 dv_has_:
   domain:
-    - "[[../../../Society/Communication/Media/Movie]]"
+    - "[[../../../Society/Communication/Media/Movie|Movie]]"
     - "[[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]"
   name: has_id_entertain_title
   range: Text, URL
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_part_of: "pending:"
 dv_has_domain:
-  - "[[../../../Society/Communication/Media/Movie]]"
+  - "[[../../../Society/Communication/Media/Movie|Movie]]"
   - "[[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]"
 dv_has_name: has_id_entertain_title
 dv_has_range: Text, URL
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_name/has_id_entertain_title|has_id_entertain_title]]"
   - "[[/_public/schema-org/Property/has_name/has_id_entertain_title.public|has_id_entertain_title.public]]"
@@ -77,11 +77,11 @@ For example, the motion picture known as "Ghostbusters" has a titleEIDR of  "10.
 
 
 
-Since schema.org types like [[../../../Society/Communication/Media/Creative_Work/Movie]] and [[TVEpisode]] can be used for both works and their multiple expressions, it is possible to use [[titleEIDR]] alone (for a general description), or alongside [[editEIDR]] for a more edit-specific description.
+Since schema.org types like [[../../../Society/Communication/Media/Creative_Work/Movie|Movie]] and [[TVEpisode]] can be used for both works and their multiple expressions, it is possible to use [[titleEIDR]] alone (for a general description), or alongside [[editEIDR]] for a more edit-specific description.
 
 Predicated describes that: 
 
-#has_/domain  :: [[../../../Society/Communication/Media/Movie]],  [[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]  
+#has_/domain  :: [[../../../Society/Communication/Media/Movie|Movie]],  [[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]  
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

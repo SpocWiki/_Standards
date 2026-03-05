@@ -40,19 +40,19 @@ aliases:
 - 캠퍼스
 has_id_wikidata: Q209465
 part_of:
-- '[[_Standards/WikiData/WD~college,189004]]'
-- '[[_Standards/WikiData/WD~university_of_applied_sciences,1365560]]'
-- '[[_Standards/WikiData/WD~educational_institution,2385804]]'
-- '[[_Standards/WikiData/WD~university,3918]]'
+- '[[_Standards/WikiData/WD~college,189004|WD~college,189004]]'
+- '[[_Standards/WikiData/WD~university_of_applied_sciences,1365560|WD~university_of_applied_sciences,1365560]]'
+- '[[_Standards/WikiData/WD~educational_institution,2385804|WD~educational_institution,2385804]]'
+- '[[_Standards/WikiData/WD~university,3918|WD~university,3918]]'
 different_from:
-- '[[_Standards/WikiData/WD~Q10572386,10572386]]'
-- '[[_Standards/WikiData/WD~campus,123302448]]'
-has_part_s_: '[[_Standards/WikiData/WD~university_building,19844914]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q22711973,22711973]]'
+- '[[_Standards/WikiData/WD~Q10572386,10572386|WD~Q10572386,10572386]]'
+- '[[_Standards/WikiData/WD~campus,123302448|WD~campus,123302448]]'
+has_part_s_: '[[_Standards/WikiData/WD~university_building,19844914|WD~university_building,19844914]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q22711973,22711973|WD~Q22711973,22711973]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_social_space,111414683]]'
-- '[[_Standards/WikiData/WD~campus,123302448]]'
-- '[[_Standards/WikiData/WD~academic_facility,134503503]]'
+- '[[_Standards/WikiData/WD~physical_social_space,111414683|WD~physical_social_space,111414683]]'
+- '[[_Standards/WikiData/WD~campus,123302448|WD~campus,123302448]]'
+- '[[_Standards/WikiData/WD~academic_facility,134503503|WD~academic_facility,134503503]]'
 OmegaWiki_Defined_Meaning: 389174
 Commons_category: Campuses
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20View%20BITS%20Pilani%2C%202014.png

@@ -32,8 +32,8 @@ dv_has_:
   name: has_duration_total
   duration_:
     total: P#Y#M#W#DT#H#M#s.fff
-  parts: "[[../has_duration]]"
-dv_range: "[[../../Predicate/Quantity/Duration]]"
+  parts: "[[../has_duration|has_duration]]"
+dv_range: "[[../../Predicate/Quantity/Duration|Duration]]"
 dv_is_:
   same_as:
     - "[[has_duration_total|has_duration_total]]"
@@ -44,7 +44,7 @@ dv_is_:
     - "[[/_personal/schema-org/Property/has_duration_of/has_duration_total.personal|has_duration_total.personal]]"
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_total.secret|has_duration_total.secret]]"
     - "[[has_duration_total]]"
-  similar_to: "[[../has_duration]]"
+  similar_to: "[[../has_duration|has_duration]]"
 dv_has_name: has_duration_total
 dv_is_same_as:
   - "[[has_duration_total]]"
@@ -54,8 +54,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Property/has_duration_of/has_duration_total.private|has_duration_total.private]]"
   - "[[/_personal/schema-org/Property/has_duration_of/has_duration_total.personal|has_duration_total.personal]]"
   - "[[/_secret/schema-org/Property/has_duration_of/has_duration_total.secret|has_duration_total.secret]]"
-dv_has_parts: "[[../has_duration]]"
-dv_is_similar_to: "[[../has_duration]]"
+dv_has_parts: "[[../has_duration|has_duration]]"
+dv_is_similar_to: "[[../has_duration|has_duration]]"
 ---
 
 # [[has_duration_total]] 
@@ -63,7 +63,7 @@ dv_is_similar_to: "[[../has_duration]]"
 has_parts = `=this.dv_has_parts` 
 is_similar_to = `=this.dv_is_similar_to` 
 
-Predicate to describe the [[../../Predicate/Quantity/Duration]] of [[../../../Society/Communication/Media/Creative_Work/How_to|How_To]],  [[../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]].
+Predicate to describe the [[../../Predicate/Quantity/Duration|Duration]] of [[../../../Society/Communication/Media/Creative_Work/How_to|How_To]],  [[../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]].
 
 Use it like this: 
 - #has_/duration_/total = `=this.dv_has_duration_total`  

@@ -34,52 +34,52 @@ aliases:
 - 앤젤리카 휴스턴
 has_id_wikidata: Q190998
 nominated_for:
-- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618|WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301|WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
 award_received:
-- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
-- '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
-- '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
-- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-- '[[_Standards/WikiData/WD~Crystal_Award,56085709]]'
-student_of: '[[_Standards/WikiData/WD~Martin_Landau,294641]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301|WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~Donostia_Award,908858|WD~Donostia_Award,908858]]'
+- '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045|WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761|WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Crystal_Award,56085709|WD~Crystal_Award,56085709]]'
+student_of: '[[_Standards/WikiData/WD~Martin_Landau,294641|WD~Martin_Landau,294641]]'
 sibling:
-- '[[_Standards/WikiData/WD~Danny_Huston,357762]]'
-- '[[_Standards/WikiData/WD~Allegra_Huston,4731396]]'
-- '[[_Standards/WikiData/WD~Tony_Huston,19059415]]'
-member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Danny_Huston,357762|WD~Danny_Huston,357762]]'
+- '[[_Standards/WikiData/WD~Allegra_Huston,4731396|WD~Allegra_Huston,4731396]]'
+- '[[_Standards/WikiData/WD~Tony_Huston,19059415|WD~Tony_Huston,19059415]]'
+member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303|WD~American_Academy_of_Arts_and_Sciences,463303]]'
 unmarried_partner:
-- '[[_Standards/WikiData/WD~Q726136,726136]]'
-- '[[_Standards/WikiData/WD~Jack_Nicholson,39792]]'
-spouse: '[[_Standards/WikiData/WD~Q726136,726136]]'
+- '[[_Standards/WikiData/WD~Q726136,726136|WD~Q726136,726136]]'
+- '[[_Standards/WikiData/WD~Jack_Nicholson,39792|WD~Jack_Nicholson,39792]]'
+spouse: '[[_Standards/WikiData/WD~Q726136,726136|WD~Q726136,726136]]'
 occupation:
-- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
-- '[[_Standards/WikiData/WD~film_director,2526255]]'
-- '[[_Standards/WikiData/WD~film_producer,3282637]]'
-- '[[_Standards/WikiData/WD~model,4610556]]'
-- '[[_Standards/WikiData/WD~television_actor,10798782]]'
-- '[[_Standards/WikiData/WD~film_actor,10800557]]'
-- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-- '[[_Standards/WikiData/WD~actor,33999]]'
-given_name: '[[_Standards/WikiData/WD~Anjelica,4765791]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451|WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480|WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_director,2526255|WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637|WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~model,4610556|WD~model,4610556]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782|WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623|WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~actor,33999|WD~actor,33999]]'
+given_name: '[[_Standards/WikiData/WD~Anjelica,4765791|WD~Anjelica,4765791]]'
 educated_at:
-- '[[_Standards/WikiData/WD~Holland_Park_School,5881040]]'
-- "[[_Standards/WikiData/WD~St._Mary's_Town_and_Country_School,7590441]]"
-sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
-mother: '[[_Standards/WikiData/WD~Enrica_Soma,18211504]]'
-family_name: '[[_Standards/WikiData/WD~Huston,20008663]]'
-documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Holland_Park_School,5881040|WD~Holland_Park_School,5881040]]'
+- "[[_Standards/WikiData/WD~St._Mary's_Town_and_Country_School,7590441|WD~St._Mary's_Town_and_Country_School,7590441]]"
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072|WD~female,6581072]]'
+mother: '[[_Standards/WikiData/WD~Enrica_Soma,18211504|WD~Enrica_Soma,18211504]]'
+family_name: '[[_Standards/WikiData/WD~Huston,20008663|WD~Huston,20008663]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
 native_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~American_English,7976]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
-place_of_birth: '[[_Standards/WikiData/WD~Santa_Monica,47164]]'
-father: '[[_Standards/WikiData/WD~John_Huston,51575]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~American_English,7976|WD~American_English,7976]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+place_of_birth: '[[_Standards/WikiData/WD~Santa_Monica,47164|WD~Santa_Monica,47164]]'
+father: '[[_Standards/WikiData/WD~John_Huston,51575|WD~John_Huston,51575]]'
 EcuRed_article: Anjelica_Huston
 X_Twitter_username: anjelicahuston
 Wolfram_Language_entity_code: Entity["Person", "AnjelicaHuston::922qw"]
@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Huston,Anjelica]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Anjelica_Huston,190998]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Anjelica_Huston,190998|WD~Anjelica_Huston,190998]] 
 
 ## #has_/text_of_/abstract 
 

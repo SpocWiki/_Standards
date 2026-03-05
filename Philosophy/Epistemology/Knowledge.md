@@ -159,49 +159,49 @@ aliases:
 has_id_wikidata: Q9081
 Commons_category: Knowledge
 contributing_factor_of:
-- '[[_Standards/WikiData/WD~competence,527091]]'
-- '[[_Standards/WikiData/WD~understanding,46744]]'
+- '[[_Standards/WikiData/WD~competence,527091|WD~competence,527091]]'
+- '[[_Standards/WikiData/WD~understanding,46744|WD~understanding,46744]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
 Dewey_Decimal_Classification: 001
 different_from:
-- '[[_Standards/WikiData/WD~Knowledge,405996]]'
-- '[[_Standards/WikiData/WD~Kila,417266]]'
-- '[[_Standards/WikiData/WD~Wissen,1216869]]'
+- '[[_Standards/WikiData/WD~Knowledge,405996|WD~Knowledge,405996]]'
+- '[[_Standards/WikiData/WD~Kila,417266|WD~Kila,417266]]'
+- '[[_Standards/WikiData/WD~Wissen,1216869|WD~Wissen,1216869]]'
 has_cause:
-- '[[_Standards/WikiData/WD~learning,133500]]'
-- '[[_Standards/WikiData/WD~revelation,192906]]'
-- '[[_Standards/WikiData/WD~qualia,282250]]'
+- '[[_Standards/WikiData/WD~learning,133500|WD~learning,133500]]'
+- '[[_Standards/WikiData/WD~revelation,192906|WD~revelation,192906]]'
+- '[[_Standards/WikiData/WD~qualia,282250|WD~qualia,282250]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~knowledge_environment,6423374]]'
-- '[[_Standards/WikiData/WD~limits_of_knowledge,20921244]]'
-- '[[_Standards/WikiData/WD~knowledge_type,110403031]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_knowledge,16929577]]'
+- '[[_Standards/WikiData/WD~knowledge_environment,6423374|WD~knowledge_environment,6423374]]'
+- '[[_Standards/WikiData/WD~limits_of_knowledge,20921244|WD~limits_of_knowledge,20921244]]'
+- '[[_Standards/WikiData/WD~knowledge_type,110403031|WD~knowledge_type,110403031]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_knowledge,16929577|WD~history_of_knowledge,16929577]]'
 Iconclass_notation: 52A5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tetradrachm%20Athens%20480-420BC%20MBA%20Lyon.jpg
-instance_of: '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
+instance_of: '[[_Standards/WikiData/WD~philosophical_concept,33104279|WD~philosophical_concept,33104279]]'
 MeSH_tree_code: K01.468
 OmegaWiki_Defined_Meaning: 8484
-opposite_of: '[[_Standards/WikiData/WD~ignorance,815577]]'
+opposite_of: '[[_Standards/WikiData/WD~ignorance,815577|WD~ignorance,815577]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~experience,164359]]'
-- '[[_Standards/WikiData/WD~understanding,46744]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117833695,117833695]]'
+- '[[_Standards/WikiData/WD~experience,164359|WD~experience,164359]]'
+- '[[_Standards/WikiData/WD~understanding,46744|WD~understanding,46744]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117833695,117833695|WD~Q117833695,117833695]]'
 PhilPapers_topic: knowledge
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8.wav
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~certainty,1520777]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~certainty,1520777|WD~certainty,1520777]]'
 Stack_Exchange_tag: https://philosophy.stackexchange.com/tags/knowledge
 studied_in:
-- '[[_Standards/WikiData/WD~sociology_of_knowledge,847486]]'
-- '[[_Standards/WikiData/WD~theory_of_knowledge,116930361]]'
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-- '[[_Standards/WikiData/WD~epistemology,9471]]'
-subclass_of: '[[_Standards/WikiData/WD~memory,104127086]]'
+- '[[_Standards/WikiData/WD~sociology_of_knowledge,847486|WD~sociology_of_knowledge,847486]]'
+- '[[_Standards/WikiData/WD~theory_of_knowledge,116930361|WD~theory_of_knowledge,116930361]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~epistemology,9471|WD~epistemology,9471]]'
+subclass_of: '[[_Standards/WikiData/WD~memory,104127086|WD~memory,104127086]]'
 UMLS_CUI: C0376553
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-used_by: '[[_Standards/WikiData/WD~knowledge_management,192060]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_knowledge,7112676]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+used_by: '[[_Standards/WikiData/WD~knowledge_management,192060|WD~knowledge_management,192060]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_knowledge,7112676|WD~outline_of_knowledge,7112676]]'
 dv_has_:
   name_:
     af: kennis
@@ -410,9 +410,9 @@ dv_has_:
 
 # [[Knowledge]] 
 
-#is_/better_than :: [[./Information]]  
-#is_/worse_than :: [[./Insight]]  
-#is_/worse_than :: [[./Wisdom]]   
+#is_/better_than :: [[./Information|Information]]  
+#is_/worse_than :: [[./Insight|Insight]]  
+#is_/worse_than :: [[./Wisdom|Wisdom]]   
 #is_/same_as :: [[../../WikiData/WD~Knowledge,9081|WD~Knowledge,9081]] 
 
 Knowledge is mental possession of information or skills, contributing to understanding of Information. 

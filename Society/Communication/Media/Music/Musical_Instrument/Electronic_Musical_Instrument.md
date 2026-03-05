@@ -46,13 +46,13 @@ aliases:
 - 전자 악기
 has_id_wikidata: Q1327500
 subclass_of:
-- '[[_Standards/WikiData/WD~electrophone,105738]]'
-- '[[_Standards/WikiData/WD~electronic_instrument,876367]]'
-- '[[_Standards/WikiData/WD~musical_instrument,34379]]'
-uses: '[[_Standards/WikiData/WD~analog_electronics,174925]]'
-instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: "[[_Standards/WikiData/WD~MIMO's_classification_of_musical_instruments,26836418]]"
+- '[[_Standards/WikiData/WD~electrophone,105738|WD~electrophone,105738]]'
+- '[[_Standards/WikiData/WD~electronic_instrument,876367|WD~electronic_instrument,876367]]'
+- '[[_Standards/WikiData/WD~musical_instrument,34379|WD~musical_instrument,34379]]'
+uses: '[[_Standards/WikiData/WD~analog_electronics,174925|WD~analog_electronics,174925]]'
+instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773|WD~family_of_musical_instruments,1254773]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: "[[_Standards/WikiData/WD~MIMO's_classification_of_musical_instruments,26836418|WD~MIMO's_classification_of_musical_instruments,26836418]]"
 Hornbostel_Sachs_classification: 53
 Nomenclature_for_Museum_Cataloging: 10688
 Dewey_Decimal_Classification: 786.7

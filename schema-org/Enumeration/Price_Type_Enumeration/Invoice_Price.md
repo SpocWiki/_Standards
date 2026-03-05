@@ -28,8 +28,8 @@ title: is_an_invoice_price Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../PriceTypeEnumeration]]"
-  enum_of: "[[../PriceTypeEnumeration]]"
+  parent_class: "[[../PriceTypeEnumeration|PriceTypeEnumeration]]"
+  enum_of: "[[../PriceTypeEnumeration|PriceTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price|Invoice_Price]]"
     - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.public|Invoice_Price.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.secret|Invoice_Price.secret]]"
     - "[[Invoice_Price]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../PriceTypeEnumeration]]"
-dv_is_enum_of: "[[../PriceTypeEnumeration]]"
+dv_has_parent_class: "[[../PriceTypeEnumeration|PriceTypeEnumeration]]"
+dv_is_enum_of: "[[../PriceTypeEnumeration|PriceTypeEnumeration]]"
 dv_is_same_as:
   - "[[Invoice_Price]]"
   - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.public|Invoice_Price.public]]"

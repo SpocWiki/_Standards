@@ -51,18 +51,18 @@ aliases:
 - 비디오테이프
 has_id_wikidata: Q747779
 subclass_of:
-- '[[_Standards/WikiData/WD~recording_medium,193395]]'
-- '[[_Standards/WikiData/WD~magnetic_tape,193663]]'
-- '[[_Standards/WikiData/WD~machine_readable_medium,1048236]]'
+- '[[_Standards/WikiData/WD~recording_medium,193395|WD~recording_medium,193395]]'
+- '[[_Standards/WikiData/WD~magnetic_tape,193663|WD~magnetic_tape,193663]]'
+- '[[_Standards/WikiData/WD~machine_readable_medium,1048236|WD~machine_readable_medium,1048236]]'
 used_by:
-- '[[_Standards/WikiData/WD~camcorder,335234]]'
-- '[[_Standards/WikiData/WD~videocassette_recorder,380616]]'
-- '[[_Standards/WikiData/WD~video_tape_recorder,732942]]'
+- '[[_Standards/WikiData/WD~camcorder,335234|WD~camcorder,335234]]'
+- '[[_Standards/WikiData/WD~videocassette_recorder,380616|WD~videocassette_recorder,380616]]'
+- '[[_Standards/WikiData/WD~video_tape_recorder,732942|WD~video_tape_recorder,732942]]'
 different_from:
-- '[[_Standards/WikiData/WD~open_reel_videotape,29167500]]'
-- '[[_Standards/WikiData/WD~video_cartridge,105063216]]'
-- '[[_Standards/WikiData/WD~videocassette,121141504]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
+- '[[_Standards/WikiData/WD~open_reel_videotape,29167500|WD~open_reel_videotape,29167500]]'
+- '[[_Standards/WikiData/WD~video_cartridge,105063216|WD~video_cartridge,105063216]]'
+- '[[_Standards/WikiData/WD~videocassette,121141504|WD~videocassette,121141504]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075|WD~NADD_Wikidata_project,123694075]]'
 Nomenclature_for_Museum_Cataloging: 10968
 Commons_gallery: Videotape
 dv_has_:

@@ -87,29 +87,29 @@ aliases:
 - 自動車産業
 - 자동차 산업
 has_id_wikidata: Q190117
-subclass_of: '[[_Standards/WikiData/WD~manufacturing,187939]]'
+subclass_of: '[[_Standards/WikiData/WD~manufacturing,187939|WD~manufacturing,187939]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~motor_vehicle,752870]]'
-- '[[_Standards/WikiData/WD~car,1420]]'
-- '[[_Standards/WikiData/WD~motorcycle,34493]]'
-- '[[_Standards/WikiData/WD~truck,43193]]'
-facet_of: '[[_Standards/WikiData/WD~transportation_industry,2516512]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Automotive_industry,6705436]]'
-instance_of: '[[../../../../../../WikiData/WD~economic_activity,8187769]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~manufacture_of_motor_vehicles,_trailers_and_semi_trailers,15815448]]'
+- '[[_Standards/WikiData/WD~motor_vehicle,752870|WD~motor_vehicle,752870]]'
+- '[[_Standards/WikiData/WD~car,1420|WD~car,1420]]'
+- '[[_Standards/WikiData/WD~motorcycle,34493|WD~motorcycle,34493]]'
+- '[[_Standards/WikiData/WD~truck,43193|WD~truck,43193]]'
+facet_of: '[[_Standards/WikiData/WD~transportation_industry,2516512|WD~transportation_industry,2516512]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Automotive_industry,6705436|WD~Template_Automotive_industry,6705436]]'
+instance_of: '[[../../../../../../WikiData/WD~economic_activity,8187769|WD~economic_activity,8187769]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~manufacture_of_motor_vehicles,_trailers_and_semi_trailers,15815448|WD~manufacture_of_motor_vehicles,_trailers_and_semi_trailers,15815448]]'
 different_from:
-- '[[_Standards/WikiData/WD~vehicle_industry,17132031]]'
-- '[[_Standards/WikiData/WD~vehicle_construction,100231164]]'
-- '[[_Standards/WikiData/WD~vehicle_construction,107597958]]'
-- '[[_Standards/WikiData/WD~car_industry,128803296]]'
+- '[[_Standards/WikiData/WD~vehicle_industry,17132031|WD~vehicle_industry,17132031]]'
+- '[[_Standards/WikiData/WD~vehicle_construction,100231164|WD~vehicle_construction,100231164]]'
+- '[[_Standards/WikiData/WD~vehicle_construction,107597958|WD~vehicle_construction,107597958]]'
+- '[[_Standards/WikiData/WD~car_industry,128803296|WD~car_industry,128803296]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~manufacture_of_bodies_(coachwork)_for_motor_vehicles;_manufacture_of_trailers_and_semi_trailers,29584631]]'
-- '[[_Standards/WikiData/WD~manufacture_of_motor_vehicles,29584629]]'
-- '[[_Standards/WikiData/WD~Manufacture_of_parts_and_accessories_for_motor_vehicles,29584632]]'
-part_of: '[[_Standards/WikiData/WD~division_in_classification_of_productive_activities,112117722]]'
+- '[[_Standards/WikiData/WD~manufacture_of_bodies_(coachwork)_for_motor_vehicles;_manufacture_of_trailers_and_semi_trailers,29584631|WD~manufacture_of_bodies_(coachwork)_for_motor_vehicles;_manufacture_of_trailers_and_semi_trailers,29584631]]'
+- '[[_Standards/WikiData/WD~manufacture_of_motor_vehicles,29584629|WD~manufacture_of_motor_vehicles,29584629]]'
+- '[[_Standards/WikiData/WD~Manufacture_of_parts_and_accessories_for_motor_vehicles,29584632|WD~Manufacture_of_parts_and_accessories_for_motor_vehicles,29584632]]'
+part_of: '[[_Standards/WikiData/WD~division_in_classification_of_productive_activities,112117722|WD~division_in_classification_of_productive_activities,112117722]]'
 inception: 1893-01-01T00:00:00Z
 NAF_code_v2: 29
 NACE_code_rev_2: 29

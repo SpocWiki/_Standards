@@ -12,8 +12,8 @@ tags:
 type: Country
 dv_has_name_en: South Vietnam
 dv_has_name_de: Süd Vietnam
-dv_has_place_continent: "[[../../Asia]]"
-dv_Capital: "[[Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City]]"
+dv_has_place_continent: "[[../../Asia|Asia]]"
+dv_Capital: "[[Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City|Ho_Chi_Minh,City]]"
 dv_Language-Id: 460
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 106.667
@@ -56,7 +56,7 @@ has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Vietnam.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Vietnam.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Vietnam.mp3|Anthem-Vietnam.mp3]]
 ![[Flag_of_Vietnam.svg|350]]
 [Alcohol-l::]
 Language-Id = `=this.dv_Language-Id`

@@ -102,23 +102,23 @@ aliases:
 - 펜
 has_id_wikidata: Q165447
 subclass_of:
-- '[[_Standards/WikiData/WD~writing_implement,121916]]'
-- '[[_Standards/WikiData/WD~drawing_instrument,26972858]]'
-- '[[_Standards/WikiData/WD~pen_shape_writing_instrument,126087899]]'
-uses: '[[_Standards/WikiData/WD~ink,127418]]'
-made_from_material: '[[_Standards/WikiData/WD~ink,127418]]'
+- '[[_Standards/WikiData/WD~writing_implement,121916|WD~writing_implement,121916]]'
+- '[[_Standards/WikiData/WD~drawing_instrument,26972858|WD~drawing_instrument,26972858]]'
+- '[[_Standards/WikiData/WD~pen_shape_writing_instrument,126087899|WD~pen_shape_writing_instrument,126087899]]'
+uses: '[[_Standards/WikiData/WD~ink,127418|WD~ink,127418]]'
+made_from_material: '[[_Standards/WikiData/WD~ink,127418|WD~ink,127418]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~ballpoint_pen,160137]]'
-- '[[_Standards/WikiData/WD~fountain_pen,192401]]'
-- '[[_Standards/WikiData/WD~marker_pen,493615]]'
-- '[[_Standards/WikiData/WD~pencil,14674]]'
+- '[[_Standards/WikiData/WD~ballpoint_pen,160137|WD~ballpoint_pen,160137]]'
+- '[[_Standards/WikiData/WD~fountain_pen,192401|WD~fountain_pen,192401]]'
+- '[[_Standards/WikiData/WD~marker_pen,493615|WD~marker_pen,493615]]'
+- '[[_Standards/WikiData/WD~pencil,14674|WD~pencil,14674]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~pen_shape_writing_instrument,126087899]]'
-has_use: '[[_Standards/WikiData/WD~writing,37260]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~pen_shape_writing_instrument,126087899|WD~pen_shape_writing_instrument,126087899]]'
+has_use: '[[_Standards/WikiData/WD~writing,37260|WD~writing,37260]]'
 Nomenclature_for_Museum_Cataloging: 11572
 GS1_GPC_code: 10001235
 OmegaWiki_Defined_Meaning: 347193

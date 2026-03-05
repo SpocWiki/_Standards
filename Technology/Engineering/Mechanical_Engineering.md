@@ -102,27 +102,27 @@ aliases:
 - 기계공학
 has_id_wikidata: Q101333
 different_from:
-- '[[_Standards/WikiData/WD~civil_engineering,77590]]'
-- '[[_Standards/WikiData/WD~structural_engineering,633538]]'
-- '[[_Standards/WikiData/WD~manufacture_of_machinery_and_equipment,1957908]]'
-- '[[_Standards/WikiData/WD~mechanical_engineering_studies,2358766]]'
-- '[[_Standards/WikiData/WD~design_engineering,5638464]]'
+- '[[_Standards/WikiData/WD~civil_engineering,77590|WD~civil_engineering,77590]]'
+- '[[_Standards/WikiData/WD~structural_engineering,633538|WD~structural_engineering,633538]]'
+- '[[_Standards/WikiData/WD~manufacture_of_machinery_and_equipment,1957908|WD~manufacture_of_machinery_and_equipment,1957908]]'
+- '[[_Standards/WikiData/WD~mechanical_engineering_studies,2358766|WD~mechanical_engineering_studies,2358766]]'
+- '[[_Standards/WikiData/WD~design_engineering,5638464|WD~design_engineering,5638464]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
-practiced_by: '[[_Standards/WikiData/WD~mechanical_engineer,1906857]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
+practiced_by: '[[_Standards/WikiData/WD~mechanical_engineer,1906857|WD~mechanical_engineer,1906857]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~Q12056592,12056592]]'
-- '[[_Standards/WikiData/WD~Q12335235,12335235]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mechanics,18820035]]'
-has_list: '[[_Standards/WikiData/WD~Glossary_of_mechanical_engineering,24899018]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mechanics,52677583]]'
-subclass_of: '[[_Standards/WikiData/WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~Q12056592,12056592|WD~Q12056592,12056592]]'
+- '[[_Standards/WikiData/WD~Q12335235,12335235|WD~Q12335235,12335235]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mechanics,18820035|WD~Portal_Mechanics,18820035]]'
+has_list: '[[_Standards/WikiData/WD~Glossary_of_mechanical_engineering,24899018|WD~Glossary_of_mechanical_engineering,24899018]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mechanics,52677583|WD~WikiProject_Mechanics,52677583]]'
+subclass_of: '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
 IAB_code: 105
 Basisklassifikation: 52
 OmegaWiki_Defined_Meaning: 2301

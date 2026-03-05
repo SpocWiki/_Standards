@@ -69,7 +69,7 @@ dv_is_same_as:
 The latitude of a location on the WGS84 Geoid in Degrees with decimal Fractions. 
 For example <code>37.42242</code> (<a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84</a>).
 
-- #is_/different_from : : #has_/location which is a Relation to a [[../../../Earth/Geography/Place]] with Latitude 
+- #is_/different_from : : #has_/location which is a Relation to a [[../../../Earth/Geography/Place|different_from : : ]] with Latitude 
 
 Predicate to describe the Quantity of [[../../../Earth/Geography/Place|Places]] and [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], 
 together with [[has_place_longitude|longitude]] and [[has_place_elevation|elevation]].

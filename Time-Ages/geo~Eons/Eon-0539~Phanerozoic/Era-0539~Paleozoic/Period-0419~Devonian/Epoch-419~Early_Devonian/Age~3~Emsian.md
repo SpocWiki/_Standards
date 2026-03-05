@@ -27,13 +27,13 @@ aliases:
 - 埃姆斯期
 - 艾姆斯期
 has_id_wikidata: Q576789
-named_after: '[[_Standards/WikiData/WD~Bad_Ems,490670]]'
+named_after: '[[_Standards/WikiData/WD~Bad_Ems,490670|WD~Bad_Ems,490670]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Henry_de_Dorlodot,2080455]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Emsian,134587729]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Henry_de_Dorlodot,2080455|WD~Henry_de_Dorlodot,2080455]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Emsian,134587729|WD~GSSP_for_the_base_of_the_Emsian,134587729]]'
 end_time: -393300000-01-01T00:00:00Z
 start_time: -407600000-01-01T00:00:00Z
 sRGB_color_hex_triplet: ECCF87

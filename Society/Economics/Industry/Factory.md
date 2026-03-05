@@ -93,21 +93,21 @@ aliases:
 - ꯄꯣꯠꯁꯥꯁꯪ
 - 공장
 has_id_wikidata: Q83405
-different_from: '[[_Standards/WikiData/WD~manufactory,380342]]'
+different_from: '[[_Standards/WikiData/WD~manufactory,380342|WD~manufactory,380342]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~industrial_building,1662011]]'
-- '[[_Standards/WikiData/WD~facility,13226383]]'
-- '[[_Standards/WikiData/WD~industrial_facility,134496677]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~industrial_building,1662011]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~industrial_building,1662011|WD~industrial_building,1662011]]'
+- '[[_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
+- '[[_Standards/WikiData/WD~industrial_facility,134496677|WD~industrial_facility,134496677]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~industrial_building,1662011|WD~industrial_building,1662011]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-part_of: '[[_Standards/WikiData/WD~business,4830453]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_factory,13383730]]'
-has_effect: '[[_Standards/WikiData/WD~pollution,58734]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+part_of: '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_factory,13383730|WD~Template_Infobox_factory,13383730]]'
+has_effect: '[[_Standards/WikiData/WD~pollution,58734|WD~pollution,58734]]'
 Nomenclature_for_Museum_Cataloging: 807
 OmegaWiki_Defined_Meaning: 385823
 IMDb_keyword: factory

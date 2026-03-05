@@ -115,7 +115,7 @@ aliases:
 
 # [[Instagram]]  
 
-#is_/part_of :: [[../Meta_Platforms]] 
+#is_/part_of :: [[../Meta_Platforms|Meta_Platforms]] 
 
 | Feature/Aspect          | Facebook                                                                  | Instagram                                                   |
 | ----------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------- |

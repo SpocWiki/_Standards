@@ -118,18 +118,18 @@ aliases:
 - 인도이란어파
 has_id_wikidata: Q33514
 has_part_s_:
-- '[[_Standards/WikiData/WD~Nuristani,161804]]'
-- '[[_Standards/WikiData/WD~Iranian,33527]]'
-- '[[_Standards/WikiData/WD~Indo_Aryan,33577]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Indo_Iranian_languages,8084941]]'
+- '[[_Standards/WikiData/WD~Nuristani,161804|WD~Nuristani,161804]]'
+- '[[_Standards/WikiData/WD~Iranian,33527|WD~Iranian,33527]]'
+- '[[_Standards/WikiData/WD~Indo_Aryan,33577|WD~Indo_Aryan,33577]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Indo_Iranian_languages,8084941|WD~Template_Indo_Iranian_languages,8084941]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Asian_languages,98791755]]'
-- '[[_Standards/WikiData/WD~Indo_European,19860]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q101018535,101018535]]'
-instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+- '[[_Standards/WikiData/WD~Asian_languages,98791755|WD~Asian_languages,98791755]]'
+- '[[_Standards/WikiData/WD~Indo_European,19860|WD~Indo_European,19860]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q101018535,101018535|WD~Q101018535,101018535]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
 Linguist_List_code: indi
 OmegaWiki_Defined_Meaning: 1659600
 ISO_639_5_code: iir
@@ -264,7 +264,7 @@ dv_has_:
     zh_tw: 印度－伊朗語族
 ---
 
-# [[LangFamily-Indo-Iranian/Lang-ira]] 
+# [[LangFamily-Indo-Iranian/Lang-ira|Lang-ira]] 
 
 #is_/same_as :: [[WD~Indo-Iranian,33514]] 
 

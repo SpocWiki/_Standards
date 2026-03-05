@@ -118,44 +118,44 @@ motto_text:
 - Unione per la Pace e per il Socialismo
 native_label: Договор о дружбе, сотрудничестве и взаимной помощи
 has_part_s_:
-- "[[_Standards/WikiData/WD~People's_Republic_of_Bulgaria,121932]]"
-- "[[_Standards/WikiData/WD~Polish_People's_Republic,211274]]"
-- "[[_Standards/WikiData/WD~People's_Socialist_Republic_of_Albania,467864]]"
-- '[[_Standards/WikiData/WD~Socialist_Republic_of_Romania,842794]]'
-- '[[_Standards/WikiData/WD~Czechoslovak_Socialist_Republic,853348]]'
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410]]"
-- '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_Bulgaria,121932|WD~People's_Republic_of_Bulgaria,121932]]"
+- "[[_Standards/WikiData/WD~Polish_People's_Republic,211274|WD~Polish_People's_Republic,211274]]"
+- "[[_Standards/WikiData/WD~People's_Socialist_Republic_of_Albania,467864|WD~People's_Socialist_Republic_of_Albania,467864]]"
+- '[[_Standards/WikiData/WD~Socialist_Republic_of_Romania,842794|WD~Socialist_Republic_of_Romania,842794]]'
+- '[[_Standards/WikiData/WD~Czechoslovak_Socialist_Republic,853348|WD~Czechoslovak_Socialist_Republic,853348]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410|WD~Hungarian_People's_Republic,16410]]"
+- '[[_Standards/WikiData/WD~German_Democratic_Republic,16957|WD~German_Democratic_Republic,16957]]'
 commanded_by:
-- '[[_Standards/WikiData/WD~Ivan_Konev,185024]]'
-- '[[_Standards/WikiData/WD~Andrei_Grechko,312495]]'
-- '[[_Standards/WikiData/WD~Pyotr_Lushev,2097741]]'
-- '[[_Standards/WikiData/WD~Viktor_Kulikov,48051]]'
-- '[[_Standards/WikiData/WD~Ivan_Yakubovsky,48048]]'
+- '[[_Standards/WikiData/WD~Ivan_Konev,185024|WD~Ivan_Konev,185024]]'
+- '[[_Standards/WikiData/WD~Andrei_Grechko,312495|WD~Andrei_Grechko,312495]]'
+- '[[_Standards/WikiData/WD~Pyotr_Lushev,2097741|WD~Pyotr_Lushev,2097741]]'
+- '[[_Standards/WikiData/WD~Viktor_Kulikov,48051|WD~Viktor_Kulikov,48051]]'
+- '[[_Standards/WikiData/WD~Ivan_Yakubovsky,48048|WD~Ivan_Yakubovsky,48048]]'
 instance_of:
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
-- '[[_Standards/WikiData/WD~military_alliance,1127126]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Warsaw_Pact,107561859]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-headquarters_location: '[[_Standards/WikiData/WD~Moscow,649]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~military_alliance,1127126|WD~military_alliance,1127126]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Warsaw_Pact,107561859|WD~coat_of_arms_of_Warsaw_Pact,107561859]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+headquarters_location: '[[_Standards/WikiData/WD~Moscow,649|WD~Moscow,649]]'
 official_language:
-- '[[_Standards/WikiData/WD~Polish,809]]'
-- '[[_Standards/WikiData/WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~Romanian,7913]]'
-- '[[_Standards/WikiData/WD~Bulgarian,7918]]'
-- '[[_Standards/WikiData/WD~Czech,9056]]'
-- '[[_Standards/WikiData/WD~Hungarian,9067]]'
-- '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Polish,809|WD~Polish,809]]'
+- '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Romanian,7913|WD~Romanian,7913]]'
+- '[[_Standards/WikiData/WD~Bulgarian,7918|WD~Bulgarian,7918]]'
+- '[[_Standards/WikiData/WD~Czech,9056|WD~Czech,9056]]'
+- '[[_Standards/WikiData/WD~Hungarian,9067|WD~Hungarian,9067]]'
+- '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
 language_used:
-- '[[_Standards/WikiData/WD~Polish,809]]'
-- '[[_Standards/WikiData/WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~Romanian,7913]]'
-- '[[_Standards/WikiData/WD~Bulgarian,7918]]'
-- '[[_Standards/WikiData/WD~Slovak,9058]]'
-- '[[_Standards/WikiData/WD~Czech,9056]]'
-- '[[_Standards/WikiData/WD~Hungarian,9067]]'
-- '[[_Standards/WikiData/WD~German,188]]'
-opposite_of: '[[_Standards/WikiData/WD~NATO,7184]]'
+- '[[_Standards/WikiData/WD~Polish,809|WD~Polish,809]]'
+- '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Romanian,7913|WD~Romanian,7913]]'
+- '[[_Standards/WikiData/WD~Bulgarian,7918|WD~Bulgarian,7918]]'
+- '[[_Standards/WikiData/WD~Slovak,9058|WD~Slovak,9058]]'
+- '[[_Standards/WikiData/WD~Czech,9056|WD~Czech,9056]]'
+- '[[_Standards/WikiData/WD~Hungarian,9067|WD~Hungarian,9067]]'
+- '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
+opposite_of: '[[_Standards/WikiData/WD~NATO,7184|WD~NATO,7184]]'
 employees: 7300
 BHCL_UUID:
 - ae1a1e6c-bfa3-465e-807b-bf297afb78ed
@@ -173,7 +173,7 @@ Commons_gallery: Warsaw Pact
 Commons_category: Warsaw Pact
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Warsaw_Pact,41644]]'
+  - '[[../../../../../../../../WikiData/WD~Warsaw_Pact,41644|WD~Warsaw_Pact,41644]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991|1955-Warsaw_Pact+1991]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.public|1955-Warsaw_Pact+1991.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.internal|1955-Warsaw_Pact+1991.internal]]'
@@ -182,7 +182,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.personal|1955-Warsaw_Pact+1991.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.secret|1955-Warsaw_Pact+1991.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Warsaw_Pact,41644]]'
+- '[[../../../../../../../../WikiData/WD~Warsaw_Pact,41644|WD~Warsaw_Pact,41644]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991|1955-Warsaw_Pact+1991]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.public|1955-Warsaw_Pact+1991.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.internal|1955-Warsaw_Pact+1991.internal]]'

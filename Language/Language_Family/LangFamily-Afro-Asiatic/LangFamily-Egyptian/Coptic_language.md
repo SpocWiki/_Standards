@@ -103,29 +103,29 @@ aliases:
 - 콥트어
 has_id_wikidata: Q36155
 linguistic_typology:
-- '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
-- '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
-- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
-writing_system: '[[_Standards/WikiData/WD~Coptic_script,321083]]'
+- '[[_Standards/WikiData/WD~agglutinative_language,171263|WD~agglutinative_language,171263]]'
+- '[[_Standards/WikiData/WD~nominative_accusative_language,178435|WD~nominative_accusative_language,178435]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641|WD~subject_verb_object,651641]]'
+writing_system: '[[_Standards/WikiData/WD~Coptic_script,321083|WD~Coptic_script,321083]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sacred_language,839470]]'
-- '[[_Standards/WikiData/WD~chronolect,2966838]]'
-- '[[_Standards/WikiData/WD~language,34770]]'
-- '[[_Standards/WikiData/WD~dead_language,45762]]'
-indigenous_to: '[[_Standards/WikiData/WD~Egyptians,1061510]]'
-studied_by: '[[_Standards/WikiData/WD~Coptology,1784169]]'
+- '[[_Standards/WikiData/WD~sacred_language,839470|WD~sacred_language,839470]]'
+- '[[_Standards/WikiData/WD~chronolect,2966838|WD~chronolect,2966838]]'
+- '[[_Standards/WikiData/WD~language,34770|WD~language,34770]]'
+- '[[_Standards/WikiData/WD~dead_language,45762|WD~dead_language,45762]]'
+indigenous_to: '[[_Standards/WikiData/WD~Egyptians,1061510|WD~Egyptians,1061510]]'
+studied_by: '[[_Standards/WikiData/WD~Coptology,1784169|WD~Coptology,1784169]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-UNESCO_language_status: '[[_Standards/WikiData/WD~6_extinct,20672091]]'
-language_regulatory_body: '[[_Standards/WikiData/WD~Institute_of_Coptology,24199164]]'
-Ethnologue_language_status: '[[_Standards/WikiData/WD~9_Second_language_only,61954942]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~6_extinct,20672091|WD~6_extinct,20672091]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Institute_of_Coptology,24199164|WD~Institute_of_Coptology,24199164]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~9_Second_language_only,61954942|WD~9_Second_language_only,61954942]]'
 country:
-- '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
-- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]'
+- '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
 number_of_speakers_writers_or_signers: 0
-subclass_of: '[[_Standards/WikiData/WD~Egyptian,50868]]'
+subclass_of: '[[_Standards/WikiData/WD~Egyptian,50868|WD~Egyptian,50868]]'
 Ethnologue_com_language_code: cop
 WALS_lect_code: cop
 Wikimedia_language_code: cop

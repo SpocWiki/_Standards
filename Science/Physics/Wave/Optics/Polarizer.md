@@ -30,10 +30,10 @@ aliases:
 - 偏振片
 - 편광자
 has_id_wikidata: Q11942175
-has_use: '[[_Standards/WikiData/WD~polarization,193760]]'
+has_use: '[[_Standards/WikiData/WD~polarization,193760|WD~polarization,193760]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~polarization,193760]]'
-- '[[_Standards/WikiData/WD~optical_filter,1134091]]'
+- '[[_Standards/WikiData/WD~polarization,193760|WD~polarization,193760]]'
+- '[[_Standards/WikiData/WD~optical_filter,1134091|WD~optical_filter,1134091]]'
 IEV_number: 845-24-014
 Commons_category: Polarization (waves)
 dv_has_:

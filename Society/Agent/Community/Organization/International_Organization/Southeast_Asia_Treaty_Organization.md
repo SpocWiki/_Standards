@@ -47,21 +47,21 @@ aliases:
 - 동남아시아 조약 기구
 has_id_wikidata: Q277252
 instance_of:
-- '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-- '[[_Standards/WikiData/WD~military_alliance,1127126]]'
+- '[[_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
+- '[[_Standards/WikiData/WD~military_alliance,1127126|WD~military_alliance,1127126]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~East_Pakistan,842931]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~New_Zealand,664]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Thailand,869]]'
-- '[[_Standards/WikiData/WD~Philippines,928]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-country: '[[_Standards/WikiData/WD~Thailand,869]]'
-headquarters_location: '[[_Standards/WikiData/WD~Bangkok,1861]]'
+- '[[_Standards/WikiData/WD~East_Pakistan,842931|WD~East_Pakistan,842931]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]'
+- '[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+country: '[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]'
+headquarters_location: '[[_Standards/WikiData/WD~Bangkok,1861|WD~Bangkok,1861]]'
 dissolved_abolished_or_demolished_date: 1977-06-30T00:00:00Z
 inception: 1954-09-08T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CongressBuilding%20SEATO.jpg

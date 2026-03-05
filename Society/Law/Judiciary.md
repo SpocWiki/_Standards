@@ -103,21 +103,21 @@ aliases:
 - 사법부
 has_id_wikidata: Q105985
 facet_of:
-- '[[_Standards/WikiData/WD~separation_of_powers,79896]]'
-- '[[_Standards/WikiData/WD~Gerichtsbarkeit,15811980]]'
+- '[[_Standards/WikiData/WD~separation_of_powers,79896|WD~separation_of_powers,79896]]'
+- '[[_Standards/WikiData/WD~Gerichtsbarkeit,15811980|WD~Gerichtsbarkeit,15811980]]'
 instance_of:
-- '[[_Standards/WikiData/WD~institution,178706]]'
-- '[[_Standards/WikiData/WD~state_power,2324993]]'
+- '[[_Standards/WikiData/WD~institution,178706|WD~institution,178706]]'
+- '[[_Standards/WikiData/WD~state_power,2324993|WD~state_power,2324993]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~justice_of_the_peace,329455]]'
-- '[[_Standards/WikiData/WD~judge,16533]]'
-different_from: '[[_Standards/WikiData/WD~jurisdiction,471855]]'
-part_of: '[[_Standards/WikiData/WD~legal_system,2478386]]'
-subclass_of: '[[_Standards/WikiData/WD~public_authority,4383245]]'
+- '[[_Standards/WikiData/WD~justice_of_the_peace,329455|WD~justice_of_the_peace,329455]]'
+- '[[_Standards/WikiData/WD~judge,16533|WD~judge,16533]]'
+different_from: '[[_Standards/WikiData/WD~jurisdiction,471855|WD~jurisdiction,471855]]'
+part_of: '[[_Standards/WikiData/WD~legal_system,2478386|WD~legal_system,2478386]]'
+subclass_of: '[[_Standards/WikiData/WD~public_authority,4383245|WD~public_authority,4383245]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_of_Libertarianism,55872361]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q120174117,120174117]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_of_Libertarianism,55872361|WD~The_Encyclopedia_of_Libertarianism,55872361]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q120174117,120174117|WD~Q120174117,120174117]]'
 properties_for_this_type:
 - part of
 - inception

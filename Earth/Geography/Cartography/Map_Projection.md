@@ -61,13 +61,13 @@ aliases:
 - 投影法
 - 지도 투영법
 has_id_wikidata: Q186386
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-subclass_of: '[[_Standards/WikiData/WD~projection,13415428]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[_Standards/WikiData/WD~projection,13415428|WD~projection,13415428]]'
 U_S_National_Archives_Identifier: 10640363
 Commons_category: Map projections
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Map_projection,186386]]'
+  - '[[../../../WikiData/WD~Map_projection,186386|WD~Map_projection,186386]]'
   - '[[/_Standards/Earth/Geography/Cartography/Map_Projection|Map_Projection]]'
   - '[[/_public/Earth/Geography/Cartography/Map_Projection.public|Map_Projection.public]]'
   - '[[/_internal/Earth/Geography/Cartography/Map_Projection.internal|Map_Projection.internal]]'
@@ -76,7 +76,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Cartography/Map_Projection.personal|Map_Projection.personal]]'
   - '[[/_secret/Earth/Geography/Cartography/Map_Projection.secret|Map_Projection.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Map_projection,186386]]'
+- '[[../../../WikiData/WD~Map_projection,186386|WD~Map_projection,186386]]'
 - '[[/_Standards/Earth/Geography/Cartography/Map_Projection|Map_Projection]]'
 - '[[/_public/Earth/Geography/Cartography/Map_Projection.public|Map_Projection.public]]'
 - '[[/_internal/Earth/Geography/Cartography/Map_Projection.internal|Map_Projection.internal]]'

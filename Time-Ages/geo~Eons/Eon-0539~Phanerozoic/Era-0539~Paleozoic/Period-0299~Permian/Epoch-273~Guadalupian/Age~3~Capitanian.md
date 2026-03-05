@@ -24,13 +24,13 @@ aliases:
 - 卡匹敦期
 has_id_wikidata: Q858203
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~El_Capitan,5350921]]'
-named_by: '[[_Standards/WikiData/WD~George_Burr_Richardson,23091654]]'
-significant_place: '[[_Standards/WikiData/WD~Nipple_Hill,31714143]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Capitanian,134425322]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~El_Capitan,5350921|WD~El_Capitan,5350921]]'
+named_by: '[[_Standards/WikiData/WD~George_Burr_Richardson,23091654|WD~George_Burr_Richardson,23091654]]'
+significant_place: '[[_Standards/WikiData/WD~Nipple_Hill,31714143|WD~Nipple_Hill,31714143]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Capitanian,134425322|WD~GSSP_for_the_base_of_the_Capitanian,134425322]]'
 start_time: -265100000-01-01T00:00:00Z
 coordinate_location: Point(-104.7892 31.9091)
 sRGB_color_hex_triplet: FEA38A

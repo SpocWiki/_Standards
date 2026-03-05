@@ -37,14 +37,14 @@ aliases:
 - 火山頸
 has_id_wikidata: Q653139
 different_from:
-- '[[_Standards/WikiData/WD~lava_dome,534282]]'
-- '[[_Standards/WikiData/WD~Lava_spine,718569]]'
-- '[[_Standards/WikiData/WD~volcanic_pipe,2261752]]'
-- '[[_Standards/WikiData/WD~Nek,45036]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~lava_dome,534282|WD~lava_dome,534282]]'
+- '[[_Standards/WikiData/WD~Lava_spine,718569|WD~Lava_spine,718569]]'
+- '[[_Standards/WikiData/WD~volcanic_pipe,2261752|WD~volcanic_pipe,2261752]]'
+- '[[_Standards/WikiData/WD~Nek,45036|WD~Nek,45036]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~volcanic_landform,29025902]]'
-- '[[_Standards/WikiData/WD~igneous_intrusion,61041319]]'
+- '[[_Standards/WikiData/WD~volcanic_landform,29025902|WD~volcanic_landform,29025902]]'
+- '[[_Standards/WikiData/WD~igneous_intrusion,61041319|WD~igneous_intrusion,61041319]]'
 Commons_category: Volcanic plugs
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhumsiki%20Peak.jpg
 dv_is_:

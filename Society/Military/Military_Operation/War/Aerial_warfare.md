@@ -46,10 +46,10 @@ aliases:
 - 항공전
 has_id_wikidata: Q471145
 subclass_of:
-- '[[_Standards/WikiData/WD~military_aviation,627716]]'
-- '[[_Standards/WikiData/WD~warfare,12786121]]'
-history_of_topic: '[[_Standards/WikiData/WD~Q20918167,20918167]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_war,124867660]]'
+- '[[_Standards/WikiData/WD~military_aviation,627716|WD~military_aviation,627716]]'
+- '[[_Standards/WikiData/WD~warfare,12786121|WD~warfare,12786121]]'
+history_of_topic: '[[_Standards/WikiData/WD~Q20918167,20918167|WD~Q20918167,20918167]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_war,124867660|WD~type_of_war,124867660]]'
 Commons_category: Aerial warfare
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Boeing%20B-52%20dropping%20bombs.jpg
@@ -118,7 +118,7 @@ dv_has_:
 
 # [[Aerial_warfare]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Aerial_warfare,471145]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Aerial_warfare,471145|WD~Aerial_warfare,471145]] 
 
 ## #has_/text_of_/abstract 
 

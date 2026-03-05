@@ -27,9 +27,9 @@ tags:
 title: is_a_co_op Class
 type: Type
 dv_has_:
-  parent_class: "[[../GamePlayMode]]"
+  parent_class: "[[../GamePlayMode|GamePlayMode]]"
 dv_is_:
-  enum_of: "[[../GamePlayMode]]"
+  enum_of: "[[../GamePlayMode|GamePlayMode]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode/Co_Op|Co_Op]]"
     - "[[/_public/schema-org/Enumeration/Game_Play_Mode/Co_Op.public|Co_Op.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Game_Play_Mode/Co_Op.personal|Co_Op.personal]]"
     - "[[/_secret/schema-org/Enumeration/Game_Play_Mode/Co_Op.secret|Co_Op.secret]]"
     - "[[Co_Op]]"
-dv_has_parent_class: "[[../GamePlayMode]]"
-dv_is_enum_of: "[[../GamePlayMode]]"
+dv_has_parent_class: "[[../GamePlayMode|GamePlayMode]]"
+dv_is_enum_of: "[[../GamePlayMode|GamePlayMode]]"
 dv_is_same_as:
   - "[[Co_Op]]"
   - "[[/_public/schema-org/Enumeration/Game_Play_Mode/Co_Op.public|Co_Op.public]]"

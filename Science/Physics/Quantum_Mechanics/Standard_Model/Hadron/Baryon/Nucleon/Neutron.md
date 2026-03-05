@@ -76,30 +76,30 @@ aliases:
 - 中性子
 - 중성자
 has_id_wikidata: Q2348
-discoverer_or_inventor: '[[_Standards/WikiData/WD~James_Chadwick,80884]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~James_Chadwick,80884|WD~James_Chadwick,80884]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~nucleon,102165]]'
-- '[[_Standards/WikiData/WD~baryon,159731]]'
-- '[[_Standards/WikiData/WD~neutral_particle,2990328]]'
-- '[[_Standards/WikiData/WD~fermion,44363]]'
-antiparticle: '[[_Standards/WikiData/WD~antineutron,156530]]'
-followed_by: '[[_Standards/WikiData/WD~dineutron,453105]]'
+- '[[_Standards/WikiData/WD~nucleon,102165|WD~nucleon,102165]]'
+- '[[_Standards/WikiData/WD~baryon,159731|WD~baryon,159731]]'
+- '[[_Standards/WikiData/WD~neutral_particle,2990328|WD~neutral_particle,2990328]]'
+- '[[_Standards/WikiData/WD~fermion,44363|WD~fermion,44363]]'
+antiparticle: '[[_Standards/WikiData/WD~antineutron,156530|WD~antineutron,156530]]'
+followed_by: '[[_Standards/WikiData/WD~dineutron,453105|WD~dineutron,453105]]'
 interaction:
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
-different_from: '[[_Standards/WikiData/WD~neutronium,1195471]]'
-studied_by: '[[_Standards/WikiData/WD~neutron_transport,3338735]]'
-decays_to: '[[_Standards/WikiData/WD~protium,12830437]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
-location_of_discovery: '[[_Standards/WikiData/WD~Cavendish_Laboratory_Of_Experimental_Physics,26616677]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415|WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418|WD~weak_interaction,11418]]'
+different_from: '[[_Standards/WikiData/WD~neutronium,1195471|WD~neutronium,1195471]]'
+studied_by: '[[_Standards/WikiData/WD~neutron_transport,3338735|WD~neutron_transport,3338735]]'
+decays_to: '[[_Standards/WikiData/WD~protium,12830437|WD~protium,12830437]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015|WD~type_of_quantum_particle,22675015]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Cavendish_Laboratory_Of_Experimental_Physics,26616677|WD~Cavendish_Laboratory_Of_Experimental_Physics,26616677]]'
 g_factor: -3.8260845
 mass_excess: 8071.31713
 magnetic_moment: -1.9130427
 has_part_s_:
-- '[[_Standards/WikiData/WD~up_quark,6732]]'
-- '[[_Standards/WikiData/WD~down_quark,6745]]'
+- '[[_Standards/WikiData/WD~up_quark,6732|WD~up_quark,6732]]'
+- '[[_Standards/WikiData/WD~down_quark,6745|WD~down_quark,6745]]'
 electric_charge: -2e-22
 binding_energy: 0
 atomic_number: 0
@@ -108,7 +108,7 @@ parity_quantum_number: 1
 isospin_quantum_number: 0.5
 spin_quantum_number: 0.5
 electric_dipole_moment: 1.8e-26
-part_of: '[[_Standards/WikiData/WD~atomic_nucleus,37147]]'
+part_of: '[[_Standards/WikiData/WD~atomic_nucleus,37147|WD~atomic_nucleus,37147]]'
 OmegaWiki_Defined_Meaning: 8194
 mean_lifetime: 878.4
 half_life: 10.183

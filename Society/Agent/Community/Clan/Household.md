@@ -62,19 +62,19 @@ aliases:
 - 세대
 has_id_wikidata: Q259059
 subclass_of:
-- '[[_Standards/WikiData/WD~social_group,874405]]'
-- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~social_group,874405|WD~social_group,874405]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
 instance_of:
-- '[[_Standards/WikiData/WD~social_group,874405]]'
-- '[[_Standards/WikiData/WD~economic_agent,1415187]]'
-- '[[_Standards/WikiData/WD~economic_relation,1959714]]'
-- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-has_use: '[[_Standards/WikiData/WD~unit_of_analysis,7887142]]'
+- '[[_Standards/WikiData/WD~social_group,874405|WD~social_group,874405]]'
+- '[[_Standards/WikiData/WD~economic_agent,1415187|WD~economic_agent,1415187]]'
+- '[[_Standards/WikiData/WD~economic_relation,1959714|WD~economic_relation,1959714]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
+has_use: '[[_Standards/WikiData/WD~unit_of_analysis,7887142|WD~unit_of_analysis,7887142]]'
 different_from:
-- '[[_Standards/WikiData/WD~household,10854954]]'
-- '[[_Standards/WikiData/WD~family,8436]]'
+- '[[_Standards/WikiData/WD~household,10854954|WD~household,10854954]]'
+- '[[_Standards/WikiData/WD~family,8436|WD~family,8436]]'
 Wikidata_property: number of households
-partially_coincident_with: '[[_Standards/WikiData/WD~family,8436]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~family,8436|WD~family,8436]]'
 Dewey_Decimal_Classification: 644
 OmegaWiki_Defined_Meaning: 1786
 Commons_category: Household

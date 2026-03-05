@@ -78,24 +78,24 @@ aliases:
 - 조정
 has_id_wikidata: Q159354
 instance_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-different_from: '[[_Standards/WikiData/WD~canoeing_and_kayaking,213934]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+different_from: '[[_Standards/WikiData/WD~canoeing_and_kayaking,213934|WD~canoeing_and_kayaking,213934]]'
 uses:
-- '[[_Standards/WikiData/WD~rowing_boat,1195684]]'
-- '[[_Standards/WikiData/WD~rowing_venue,121085064]]'
-record_or_record_progression: '[[_Standards/WikiData/WD~list_of_world_records_in_rowing,1570041]]'
+- '[[_Standards/WikiData/WD~rowing_boat,1195684|WD~rowing_boat,1195684]]'
+- '[[_Standards/WikiData/WD~rowing_venue,121085064|WD~rowing_venue,121085064]]'
+record_or_record_progression: '[[_Standards/WikiData/WD~list_of_world_records_in_rowing,1570041|WD~list_of_world_records_in_rowing,1570041]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~coxswain,1690874]]'
-- '[[_Standards/WikiData/WD~rower,13382576]]'
-- '[[_Standards/WikiData/WD~rowing_coach,21121588]]'
-described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Rowing,12357569]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Rowing,18729867]]'
+- '[[_Standards/WikiData/WD~coxswain,1690874|WD~coxswain,1690874]]'
+- '[[_Standards/WikiData/WD~rower,13382576|WD~rower,13382576]]'
+- '[[_Standards/WikiData/WD~rowing_coach,21121588|WD~rowing_coach,21121588]]'
+described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Rowing,12357569|WD~Portal_Rowing,12357569]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Rowing,18729867|WD~WikiProject_Rowing,18729867]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~rowing,21368803]]'
-- '[[_Standards/WikiData/WD~water_sport,61065]]'
+- '[[_Standards/WikiData/WD~rowing,21368803|WD~rowing,21368803]]'
+- '[[_Standards/WikiData/WD~water_sport,61065|WD~water_sport,61065]]'
 IAB_code: 526
 BHCL_UUID: 46147fe2-f4c9-49d0-87c7-408e56f002ab
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WRJCH%202018-08-11%20JM2x%20Semi%20CD%20%28Martin%20Rulsch%29%2068.jpg

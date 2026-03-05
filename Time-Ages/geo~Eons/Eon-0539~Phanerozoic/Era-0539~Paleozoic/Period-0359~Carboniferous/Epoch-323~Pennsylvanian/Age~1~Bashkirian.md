@@ -36,15 +36,15 @@ aliases:
 has_id_wikidata: Q639443
 ischart: LowerPennsylvanian
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bashkirian,30869507]]'
-significant_place: '[[_Standards/WikiData/WD~Arrow_Canyon,49774932]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-named_by: '[[_Standards/WikiData/WD~Sofia_Viktorovna_Semikhatova,106574396]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bashkirian,134498081]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bashkirian,30869507|WD~Category_Bashkirian,30869507]]'
+significant_place: '[[_Standards/WikiData/WD~Arrow_Canyon,49774932|WD~Arrow_Canyon,49774932]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+named_by: '[[_Standards/WikiData/WD~Sofia_Viktorovna_Semikhatova,106574396|WD~Sofia_Viktorovna_Semikhatova,106574396]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bashkirian,134498081|WD~GSSP_for_the_base_of_the_Bashkirian,134498081]]'
 end_time: -315200000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Bashkortostan,5710]]'
+named_after: '[[_Standards/WikiData/WD~Bashkortostan,5710|WD~Bashkortostan,5710]]'
 Commons_category: Bashkirian
 coordinate_location: Point(-114.7778 36.7333)
 sRGB_color_hex_triplet: 99C2B5

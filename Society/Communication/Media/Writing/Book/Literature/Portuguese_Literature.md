@@ -39,12 +39,12 @@ aliases:
 - 포르투갈 문학
 has_id_wikidata: Q548144
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-studied_by: '[[_Standards/WikiData/WD~Portuguese_studies,1721024]]'
-part_of: '[[_Standards/WikiData/WD~Romance_literature,11891165]]'
-different_from: '[[_Standards/WikiData/WD~Portuguese_language_literature,12353945]]'
-instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+studied_by: '[[_Standards/WikiData/WD~Portuguese_studies,1721024|WD~Portuguese_studies,1721024]]'
+part_of: '[[_Standards/WikiData/WD~Romance_literature,11891165|WD~Romance_literature,11891165]]'
+different_from: '[[_Standards/WikiData/WD~Portuguese_language_literature,12353945|WD~Portuguese_language_literature,12353945]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
 Dewey_Decimal_Classification:
 - 869
 - 860

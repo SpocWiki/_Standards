@@ -109,21 +109,21 @@ aliases:
 - 로마 숫자
 has_id_wikidata: Q38918
 instance_of:
-- '[[_Standards/WikiData/WD~numeric_writing_system,140774]]'
-- '[[_Standards/WikiData/WD~sign_value_numeral_system,353240]]'
-used_by: '[[_Standards/WikiData/WD~chronogram,161108]]'
-subclass_of: '[[_Standards/WikiData/WD~notation,2001982]]'
-different_from: '[[_Standards/WikiData/WD~Latin_numerals,2097357]]'
+- '[[_Standards/WikiData/WD~numeric_writing_system,140774|WD~numeric_writing_system,140774]]'
+- '[[_Standards/WikiData/WD~sign_value_numeral_system,353240|WD~sign_value_numeral_system,353240]]'
+used_by: '[[_Standards/WikiData/WD~chronogram,161108|WD~chronogram,161108]]'
+subclass_of: '[[_Standards/WikiData/WD~notation,2001982|WD~notation,2001982]]'
+different_from: '[[_Standards/WikiData/WD~Latin_numerals,2097357|WD~Latin_numerals,2097357]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~_,2932176]]'
-- '[[_Standards/WikiData/WD~_,3011516]]'
-- '[[_Standards/WikiData/WD~_,3147025]]'
-- '[[_Standards/WikiData/WD~_,3206231]]'
-- '[[_Standards/WikiData/WD~_,3273364]]'
-- '[[_Standards/WikiData/WD~_,3553034]]'
-- '[[_Standards/WikiData/WD~_,3570499]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-uses: '[[_Standards/WikiData/WD~Latin_alphabet,41670]]'
+- '[[_Standards/WikiData/WD~_,2932176|WD~_,2932176]]'
+- '[[_Standards/WikiData/WD~_,3011516|WD~_,3011516]]'
+- '[[_Standards/WikiData/WD~_,3147025|WD~_,3147025]]'
+- '[[_Standards/WikiData/WD~_,3206231|WD~_,3206231]]'
+- '[[_Standards/WikiData/WD~_,3273364|WD~_,3273364]]'
+- '[[_Standards/WikiData/WD~_,3553034|WD~_,3553034]]'
+- '[[_Standards/WikiData/WD~_,3570499|WD~_,3570499]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+uses: '[[_Standards/WikiData/WD~Latin_alphabet,41670|WD~Latin_alphabet,41670]]'
 OmegaWiki_Defined_Meaning: 815575
 Commons_category: Roman numerals
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CuttySarkRomNum.jpg

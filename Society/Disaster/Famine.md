@@ -94,16 +94,16 @@ aliases:
 - 기근
 has_id_wikidata: Q168247
 has_cause:
-- '[[_Standards/WikiData/WD~population_growth,386191]]'
-- '[[_Standards/WikiData/WD~starvation,853930]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~population_growth,386191|WD~population_growth,386191]]'
+- '[[_Standards/WikiData/WD~starvation,853930|WD~starvation,853930]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~deficiency,2184645]]'
-- '[[_Standards/WikiData/WD~food_crisis,2964234]]'
-- '[[_Standards/WikiData/WD~disaster,3839081]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_famine,13420025]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25554940,25554940]]'
-different_from: '[[_Standards/WikiData/WD~Hungersnot,33053536]]'
+- '[[_Standards/WikiData/WD~deficiency,2184645|WD~deficiency,2184645]]'
+- '[[_Standards/WikiData/WD~food_crisis,2964234|WD~food_crisis,2964234]]'
+- '[[_Standards/WikiData/WD~disaster,3839081|WD~disaster,3839081]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_famine,13420025|WD~Template_Infobox_famine,13420025]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25554940,25554940|WD~Q25554940,25554940]]'
+different_from: '[[_Standards/WikiData/WD~Hungersnot,33053536|WD~Hungersnot,33053536]]'
 OmegaWiki_Defined_Meaning: 1407
 IMDb_keyword: famine
 U_S_National_Archives_Identifier: 10639719

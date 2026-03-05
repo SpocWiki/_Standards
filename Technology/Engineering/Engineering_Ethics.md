@@ -32,8 +32,8 @@ aliases:
 - 工程學倫理
 - 공학윤리
 has_id_wikidata: Q1133029
-subclass_of: '[[_Standards/WikiData/WD~ethics,9465]]'
-facet_of: '[[_Standards/WikiData/WD~engineering,11023]]'
+subclass_of: '[[_Standards/WikiData/WD~ethics,9465|WD~ethics,9465]]'
+facet_of: '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
 dv_has_:
   name_:
     ar: أخلاقيات الهندسة

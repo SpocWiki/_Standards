@@ -61,15 +61,15 @@ aliases:
 - 法治国家
 - 法治國
 has_id_wikidata: Q4209223
-instance_of: '[[_Standards/WikiData/WD~legal_doctrine,1192543]]'
-opposite_of: '[[_Standards/WikiData/WD~Unrechtsstaat,1503467]]'
-different_from: '[[_Standards/WikiData/WD~State_of_Law_Coalition,1971776]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~rule_of_law,7378937]]'
-part_of: '[[_Standards/WikiData/WD~rule_of_law,7378937]]'
+instance_of: '[[_Standards/WikiData/WD~legal_doctrine,1192543|WD~legal_doctrine,1192543]]'
+opposite_of: '[[_Standards/WikiData/WD~Unrechtsstaat,1503467|WD~Unrechtsstaat,1503467]]'
+different_from: '[[_Standards/WikiData/WD~State_of_Law_Coalition,1971776|WD~State_of_Law_Coalition,1971776]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~rule_of_law,7378937|WD~rule_of_law,7378937]]'
+part_of: '[[_Standards/WikiData/WD~rule_of_law,7378937|WD~rule_of_law,7378937]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Rechtsstaat_statt_Revolution,_Verrechtlichung_statt_Demokratie_,65013282]]'
-- '[[_Standards/WikiData/WD~Rechtsstaat_versus_Demokratie,65015824]]'
-subclass_of: '[[_Standards/WikiData/WD~state,7275]]'
+- '[[_Standards/WikiData/WD~Rechtsstaat_statt_Revolution,_Verrechtlichung_statt_Demokratie_,65013282|WD~Rechtsstaat_statt_Revolution,_Verrechtlichung_statt_Demokratie_,65013282]]'
+- '[[_Standards/WikiData/WD~Rechtsstaat_versus_Demokratie,65015824|WD~Rechtsstaat_versus_Demokratie,65015824]]'
+subclass_of: '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
 Dewey_Decimal_Classification:
 - 320.1
 - 340.11
@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Rechtsstaat]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rechtsstaat,4209223]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rechtsstaat,4209223|WD~Rechtsstaat,4209223]] 
 
 ## #has_/text_of_/abstract 
 

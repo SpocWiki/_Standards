@@ -91,31 +91,31 @@ aliases:
 - 雙峰塔
 - 페트로나스 트윈 타워
 has_id_wikidata: Q83063
-named_after: '[[_Standards/WikiData/WD~Petronas,221692]]'
+named_after: '[[_Standards/WikiData/WD~Petronas,221692|WD~Petronas,221692]]'
 owned_by:
-- '[[_Standards/WikiData/WD~Petronas,221692]]'
-- '[[_Standards/WikiData/WD~KLCC_Properties,6332463]]'
-architect: '[[_Standards/WikiData/WD~César_Pelli,309483]]'
+- '[[_Standards/WikiData/WD~Petronas,221692|WD~Petronas,221692]]'
+- '[[_Standards/WikiData/WD~KLCC_Properties,6332463|WD~KLCC_Properties,6332463]]'
+architect: '[[_Standards/WikiData/WD~César_Pelli,309483|WD~César_Pelli,309483]]'
 main_building_contractor:
-- '[[_Standards/WikiData/WD~Samsung_C&T_Corporation,499194]]'
-- '[[_Standards/WikiData/WD~Hazama_Ando_Corporation,4410214]]'
-- '[[_Standards/WikiData/WD~Kukdong_Engineering_&_Construction,16169758]]'
+- '[[_Standards/WikiData/WD~Samsung_C&T_Corporation,499194|WD~Samsung_C&T_Corporation,499194]]'
+- '[[_Standards/WikiData/WD~Hazama_Ando_Corporation,4410214|WD~Hazama_Ando_Corporation,4410214]]'
+- '[[_Standards/WikiData/WD~Kukdong_Engineering_&_Construction,16169758|WD~Kukdong_Engineering_&_Construction,16169758]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~twin_towers,118896406]]'
-- '[[_Standards/WikiData/WD~skyscraper,11303]]'
-part_of: '[[_Standards/WikiData/WD~Suria_KLCC,1306924]]'
-part_of_the_series: "[[_Standards/WikiData/WD~history_of_the_world's_tallest_buildings,3698493]]"
-located_on_street: '[[_Standards/WikiData/WD~Jalan_Ampang,6126035]]'
-real_estate_developer: '[[_Standards/WikiData/WD~KLCC_Properties,6332463]]'
-structural_engineer: '[[_Standards/WikiData/WD~Thornton_Tomasetti,7796559]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~twin_towers,118896406|WD~twin_towers,118896406]]'
+- '[[_Standards/WikiData/WD~skyscraper,11303|WD~skyscraper,11303]]'
+part_of: '[[_Standards/WikiData/WD~Suria_KLCC,1306924|WD~Suria_KLCC,1306924]]'
+part_of_the_series: "[[_Standards/WikiData/WD~history_of_the_world's_tallest_buildings,3698493|WD~history_of_the_world's_tallest_buildings,3698493]]"
+located_on_street: '[[_Standards/WikiData/WD~Jalan_Ampang,6126035|WD~Jalan_Ampang,6126035]]'
+real_estate_developer: '[[_Standards/WikiData/WD~KLCC_Properties,6332463|WD~KLCC_Properties,6332463]]'
+structural_engineer: '[[_Standards/WikiData/WD~Thornton_Tomasetti,7796559|WD~Thornton_Tomasetti,7796559]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Petronas_Tower_2,25658657]]'
-- '[[_Standards/WikiData/WD~Petronas_Tower_1,111668384]]'
-state_of_use: '[[_Standards/WikiData/WD~in_use,55654238]]'
+- '[[_Standards/WikiData/WD~Petronas_Tower_2,25658657|WD~Petronas_Tower_2,25658657]]'
+- '[[_Standards/WikiData/WD~Petronas_Tower_1,111668384|WD~Petronas_Tower_1,111668384]]'
+state_of_use: '[[_Standards/WikiData/WD~in_use,55654238|WD~in_use,55654238]]'
 coordinate_location: Point(101.711666666 3.157777777)
-country: '[[_Standards/WikiData/WD~Malaysia,833]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Kuala_Lumpur,1865]]'
+country: '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Kuala_Lumpur,1865|WD~Kuala_Lumpur,1865]]'
 capital_cost: 1600000000
 number_of_elevators: 39
 floors_above_ground: 88
@@ -243,7 +243,7 @@ dv_has_:
 
 # [[Petronas_Towers]] 
 
-![[../../../assets/Petronas_Towers.png]] 
+![[../../../assets/Petronas_Towers.png|Petronas_Towers.png]] 
 
 #is_/same_as :: [[WD~Petronas_Towers,83063]] 
 

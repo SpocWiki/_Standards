@@ -36,7 +36,7 @@ dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 145.75
 dv_has_place_latitude: 15.18333
 dv_has_name: Saipan
-dv_has_place_country: "[[../../../Northern_Mariana~Islands]]"
+dv_has_place_country: "[[../../../Northern_Mariana~Islands|Northern_Mariana~Islands]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan|Saipan]]"

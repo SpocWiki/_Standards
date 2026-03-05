@@ -40,27 +40,27 @@ aliases:
 - 그라프
 - 그래프
 has_id_wikidata: Q141488
-facet_of: '[[_Standards/WikiData/WD~discrete_mathematics,121416]]'
-studied_by: '[[_Standards/WikiData/WD~graph_theory,131476]]'
+facet_of: '[[_Standards/WikiData/WD~discrete_mathematics,121416|WD~discrete_mathematics,121416]]'
+studied_by: '[[_Standards/WikiData/WD~graph_theory,131476|WD~graph_theory,131476]]'
 different_from:
-- '[[_Standards/WikiData/WD~graph_of_a_function,182598]]'
-- '[[_Standards/WikiData/WD~graph_data_structure,2479726]]'
-- '[[_Standards/WikiData/WD~count,3519259]]'
-- '[[_Standards/WikiData/WD~chart,28923]]'
-has_characteristic: '[[_Standards/WikiData/WD~graph_property,722659]]'
+- '[[_Standards/WikiData/WD~graph_of_a_function,182598|WD~graph_of_a_function,182598]]'
+- '[[_Standards/WikiData/WD~graph_data_structure,2479726|WD~graph_data_structure,2479726]]'
+- '[[_Standards/WikiData/WD~count,3519259|WD~count,3519259]]'
+- '[[_Standards/WikiData/WD~chart,28923|WD~chart,28923]]'
+has_characteristic: '[[_Standards/WikiData/WD~graph_property,722659|WD~graph_property,722659]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~hypergraph,840247]]'
-- '[[_Standards/WikiData/WD~relational_structure,134487654]]'
+- '[[_Standards/WikiData/WD~hypergraph,840247|WD~hypergraph,840247]]'
+- '[[_Standards/WikiData/WD~relational_structure,134487654|WD~relational_structure,134487654]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~node,1304193]]'
-- '[[_Standards/WikiData/WD~edge,3297804]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_graph,6600928]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~node,1304193|WD~node,1304193]]'
+- '[[_Standards/WikiData/WD~edge,3297804|WD~edge,3297804]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_graph,6600928|WD~Template_Infobox_graph,6600928]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>G</mi><mo stretchy="false">=</mo><mo stretchy="false">(</mo><mi>V</mi><mo>,</mo><mi>E</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~simple_graph,15838309]]'
-- '[[_Standards/WikiData/WD~mixed_graph,17104046]]'
-- '[[_Standards/WikiData/WD~finite_graph,110679812]]'
+- '[[_Standards/WikiData/WD~simple_graph,15838309|WD~simple_graph,15838309]]'
+- '[[_Standards/WikiData/WD~mixed_graph,17104046|WD~mixed_graph,17104046]]'
+- '[[_Standards/WikiData/WD~finite_graph,110679812|WD~finite_graph,110679812]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">(</mo><mo>,</mo><mo stretchy="false">)</mo></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>G</mi></mstyle></mrow></math>

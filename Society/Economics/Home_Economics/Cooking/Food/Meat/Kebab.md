@@ -43,14 +43,14 @@ aliases:
 - "\U00010345\U00010342\U00010330\U00010332\U0001033A\U00010349\U00010343"
 has_id_wikidata: Q179010
 made_from_material:
-- '[[_Standards/WikiData/WD~pita,211340]]'
-- '[[_Standards/WikiData/WD~meat,10990]]'
-subclass_of: '[[_Standards/WikiData/WD~dish,746549]]'
-course: '[[_Standards/WikiData/WD~main_course,772630]]'
-part_of: '[[_Standards/WikiData/WD~Middle_Eastern_cuisine,1547037]]'
-different_from: '[[_Standards/WikiData/WD~grilled_skewer,108885127]]'
-instance_of: '[[_Standards/WikiData/WD~grilled_skewer,108885127]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~shashlik,15181]]'
+- '[[_Standards/WikiData/WD~pita,211340|WD~pita,211340]]'
+- '[[_Standards/WikiData/WD~meat,10990|WD~meat,10990]]'
+subclass_of: '[[_Standards/WikiData/WD~dish,746549|WD~dish,746549]]'
+course: '[[_Standards/WikiData/WD~main_course,772630|WD~main_course,772630]]'
+part_of: '[[_Standards/WikiData/WD~Middle_Eastern_cuisine,1547037|WD~Middle_Eastern_cuisine,1547037]]'
+different_from: '[[_Standards/WikiData/WD~grilled_skewer,108885127|WD~grilled_skewer,108885127]]'
+instance_of: '[[_Standards/WikiData/WD~grilled_skewer,108885127|WD~grilled_skewer,108885127]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~shashlik,15181|WD~shashlik,15181]]'
 native_label:
 - कबाब
 - کباب

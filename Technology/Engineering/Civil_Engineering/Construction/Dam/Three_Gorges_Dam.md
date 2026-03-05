@@ -1,5 +1,5 @@
 ---
-location: '[[_Standards/WikiData/WD~Sandouping_Town,849367]]'
+location: '[[_Standards/WikiData/WD~Sandouping_Town,849367|WD~Sandouping_Town,849367]]'
 aliases:
 - ': 三峡大坝; traditional Chinese: 三峽大壩; pinyin: Sānxiá Dàbà'
 - Argae'r Tri Cheunant
@@ -105,41 +105,41 @@ capacity_factor: 45
 Commons_category: Three Gorges Dam
 Commons_gallery: Three Gorges Dam
 coordinate_location: Point(111.00367 30.82386)
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 date_of_official_opening: 2003
 discharge: 116000
-drainage_basin: '[[_Standards/WikiData/WD~Yangtze_River_basin,15758768]]'
+drainage_basin: '[[_Standards/WikiData/WD~Yangtze_River_basin,15758768|WD~Yangtze_River_basin,15758768]]'
 elevation_above_sea_level:
 - 4
 - 185
 has_time_started: 2003-06
 has_use:
-- '[[_Standards/WikiData/WD~hydroelectricity,80638]]'
-- '[[_Standards/WikiData/WD~inland_navigation,499814]]'
-- '[[_Standards/WikiData/WD~flood_control,1187968]]'
+- '[[_Standards/WikiData/WD~hydroelectricity,80638|WD~hydroelectricity,80638]]'
+- '[[_Standards/WikiData/WD~inland_navigation,499814|WD~inland_navigation,499814]]'
+- '[[_Standards/WikiData/WD~flood_control,1187968|WD~flood_control,1187968]]'
 height: 181
 hydraulic_head: 80.6
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ThreeGorgesDam-China2009.jpg
 inception: 2003
 instance_of:
-- '[[_Standards/WikiData/WD~gravity_dam,3497167]]'
-- '[[_Standards/WikiData/WD~hydroelectric_power_station,15911738]]'
-- '[[_Standards/WikiData/WD~boat_lift,14908]]'
+- '[[_Standards/WikiData/WD~gravity_dam,3497167|WD~gravity_dam,3497167]]'
+- '[[_Standards/WikiData/WD~hydroelectric_power_station,15911738|WD~hydroelectric_power_station,15911738]]'
+- '[[_Standards/WikiData/WD~boat_lift,14908|WD~boat_lift,14908]]'
 length: 2335
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Yangtze,5413]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Yangtze,5413]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Sandouping_Town,849367]]'
-named_after: '[[_Standards/WikiData/WD~Three_Gorges,673287]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Yangtze,5413|WD~Yangtze,5413]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Yangtze,5413|WD~Yangtze,5413]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Sandouping_Town,849367|WD~Sandouping_Town,849367]]'
+named_after: '[[_Standards/WikiData/WD~Three_Gorges,673287|WD~Three_Gorges,673287]]'
 native_label:
 - 三峽大壩
 - 三峡大坝
 nominal_power_output: 22500
 OmegaWiki_Defined_Meaning: 876979
-operator: '[[_Standards/WikiData/WD~China_Yangtze_Power,752496]]'
-owned_by: '[[_Standards/WikiData/WD~China_Yangtze_Power,752496]]'
-part_of: '[[_Standards/WikiData/WD~Cascade_of_hydropower_stations_on_Yangtze_River,4216607]]'
-powered_by: '[[_Standards/WikiData/WD~Francis_turbine,217817]]'
-reservoir_created: '[[_Standards/WikiData/WD~Three_Gorges_Reservoir_Region,7797505]]'
+operator: '[[_Standards/WikiData/WD~China_Yangtze_Power,752496|WD~China_Yangtze_Power,752496]]'
+owned_by: '[[_Standards/WikiData/WD~China_Yangtze_Power,752496|WD~China_Yangtze_Power,752496]]'
+part_of: '[[_Standards/WikiData/WD~Cascade_of_hydropower_stations_on_Yangtze_River,4216607|WD~Cascade_of_hydropower_stations_on_Yangtze_River,4216607]]'
+powered_by: '[[_Standards/WikiData/WD~Francis_turbine,217817|WD~Francis_turbine,217817]]'
+reservoir_created: '[[_Standards/WikiData/WD~Three_Gorges_Reservoir_Region,7797505|WD~Three_Gorges_Reservoir_Region,7797505]]'
 service_entry: 2003
 watershed_area: 1000000
 width:

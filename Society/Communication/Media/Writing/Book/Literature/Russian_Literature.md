@@ -69,19 +69,19 @@ aliases:
 - 俄文文學
 - 러시아 문학
 has_id_wikidata: Q179161
-studied_by: '[[_Standards/WikiData/WD~Russian_studies,375470]]'
+studied_by: '[[_Standards/WikiData/WD~Russian_studies,375470|WD~Russian_studies,375470]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Russian_literature,16656428]]'
-instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
-subclass_of: '[[_Standards/WikiData/WD~Central_and_Eastern_European_literature,113208817]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Russian_literature,16656428|WD~history_of_Russian_literature,16656428]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
+subclass_of: '[[_Standards/WikiData/WD~Central_and_Eastern_European_literature,113208817|WD~Central_and_Eastern_European_literature,113208817]]'
 facet_of:
-- '[[_Standards/WikiData/WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~literature,8242]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~literature,8242|WD~literature,8242]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B8%D0%B7%20%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%83.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Open%20book%20Russia.svg

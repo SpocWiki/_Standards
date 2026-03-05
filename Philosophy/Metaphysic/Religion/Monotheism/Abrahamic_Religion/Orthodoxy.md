@@ -46,12 +46,12 @@ aliases:
 - 正統教義
 - 정통주의
 has_id_wikidata: Q383258
-opposite_of: '[[_Standards/WikiData/WD~heresy,160598]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+opposite_of: '[[_Standards/WikiData/WD~heresy,160598|WD~heresy,160598]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484|WD~Eastern_Orthodoxy,3333484]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~religion,9174]]'
-- '[[_Standards/WikiData/WD~thought,9420]]'
+- '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~thought,9420|WD~thought,9420]]'
 OmegaWiki_Defined_Meaning: 1407815
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Orthodoxie-article.ogg
 Commons_category: Orthodoxy

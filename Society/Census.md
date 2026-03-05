@@ -108,28 +108,28 @@ aliases:
 - 인구 조사
 has_id_wikidata: Q39825
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~recurring_event,15275719]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~recurring_event,15275719|WD~recurring_event,15275719]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~data_set,1172284]]'
-- '[[_Standards/WikiData/WD~source_of_information,3523102]]'
-- '[[_Standards/WikiData/WD~census,4350743]]'
+- '[[_Standards/WikiData/WD~data_set,1172284|WD~data_set,1172284]]'
+- '[[_Standards/WikiData/WD~source_of_information,3523102|WD~source_of_information,3523102]]'
+- '[[_Standards/WikiData/WD~census,4350743|WD~census,4350743]]'
 different_from:
-- '[[_Standards/WikiData/WD~number_of_individuals,1613416]]'
-- '[[_Standards/WikiData/WD~Hamming_weight,5645805]]'
-has_effect: '[[_Standards/WikiData/WD~apportionment_of_seats,2286103]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_census,16911771]]'
-has_use: '[[_Standards/WikiData/WD~population_estimation,29051383]]'
+- '[[_Standards/WikiData/WD~number_of_individuals,1613416|WD~number_of_individuals,1613416]]'
+- '[[_Standards/WikiData/WD~Hamming_weight,5645805|WD~Hamming_weight,5645805]]'
+has_effect: '[[_Standards/WikiData/WD~apportionment_of_seats,2286103|WD~apportionment_of_seats,2286103]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_census,16911771|WD~Template_Infobox_census,16911771]]'
+has_use: '[[_Standards/WikiData/WD~population_estimation,29051383|WD~population_estimation,29051383]]'
 Wikidata_property: has census
 OmegaWiki_Defined_Meaning: 4462
 Dewey_Decimal_Classification: 304.6021

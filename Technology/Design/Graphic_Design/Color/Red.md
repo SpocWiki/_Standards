@@ -211,26 +211,26 @@ aliases:
 - 빨강
 - "\U00010342\U00010330\U0001033F\U00010338\U00010343"
 has_id_wikidata: Q3142
-instance_of: '[[_Standards/WikiData/WD~primary_color,166902]]'
-follows: '[[_Standards/WikiData/WD~violet,428124]]'
+instance_of: '[[_Standards/WikiData/WD~primary_color,166902|WD~primary_color,166902]]'
+follows: '[[_Standards/WikiData/WD~violet,428124|WD~violet,428124]]'
 different_from:
-- '[[_Standards/WikiData/WD~Rouge,437052]]'
-- '[[_Standards/WikiData/WD~Rot,9167553]]'
-- '[[_Standards/WikiData/WD~Red,124022720]]'
+- '[[_Standards/WikiData/WD~Rouge,437052|WD~Rouge,437052]]'
+- '[[_Standards/WikiData/WD~Rot,9167553|WD~Rot,9167553]]'
+- '[[_Standards/WikiData/WD~Red,124022720|WD~Red,124022720]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-part_of: '[[_Standards/WikiData/WD~seven_prismatic_colors,43213808]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+part_of: '[[_Standards/WikiData/WD~seven_prismatic_colors,43213808|WD~seven_prismatic_colors,43213808]]'
 symbolizes:
-- '[[_Standards/WikiData/WD~martyrdom,46999986]]'
-- '[[_Standards/WikiData/WD~love,316]]'
-- '[[_Standards/WikiData/WD~revolution,10931]]'
-- '[[_Standards/WikiData/WD~happiness,8]]'
+- '[[_Standards/WikiData/WD~martyrdom,46999986|WD~martyrdom,46999986]]'
+- '[[_Standards/WikiData/WD~love,316|WD~love,316]]'
+- '[[_Standards/WikiData/WD~revolution,10931|WD~revolution,10931]]'
+- '[[_Standards/WikiData/WD~happiness,8|WD~happiness,8]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~color,1075]]'
-- '[[_Standards/WikiData/WD~light,9128]]'
-followed_by: '[[_Standards/WikiData/WD~orange,39338]]'
+- '[[_Standards/WikiData/WD~color,1075|WD~color,1075]]'
+- '[[_Standards/WikiData/WD~light,9128|WD~light,9128]]'
+followed_by: '[[_Standards/WikiData/WD~orange,39338|WD~orange,39338]]'
 frequency: 429000000000000
 wavelength: 685.5
 subreddit: Red

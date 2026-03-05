@@ -42,7 +42,7 @@ aliases:
 
 #has_/creator :: [[Haskell-Committee]] 
 #has_/time_/started :: 1990-07-01 
-#has_/parent :: [[Prog~Miranda]], [[Prog~LISP/Prog~Scheme]], [[Prog~LISP|Prog~LISP]] 
+#has_/parent :: [[Prog~Miranda]], [[Prog~LISP/Prog~Scheme|Prog~Scheme]], [[Prog~LISP|Prog~LISP]] 
 
 > **haskell** () is a general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation. Designed for teaching, research, and industrial applications, Haskell has pioneered a number of programming language features such as type classes, which enable type-safe operator overloading, and monadic input/output (IO). It is named after logician Haskell Curry. Haskell's main implementation is the Glasgow Haskell Compiler (GHC).
 >

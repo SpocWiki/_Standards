@@ -32,7 +32,7 @@ Tag Instances like this:
 
 A review of an item - for example, of a restaurant, movie, or store.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ ClaimReview, CriticReview, EmployerReview, MediaReview, Recommendation, UserReview ]  
 

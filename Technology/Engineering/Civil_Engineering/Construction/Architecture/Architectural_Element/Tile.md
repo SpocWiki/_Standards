@@ -71,17 +71,17 @@ aliases:
 - 타일
 has_id_wikidata: Q468402
 subclass_of:
-- '[[_Standards/WikiData/WD~building_material,206615]]'
-- '[[../../../../../../WikiData/WD~architectural_element,391414]]'
-- '[[_Standards/WikiData/WD~manufactured_good,1836700]]'
+- '[[_Standards/WikiData/WD~building_material,206615|WD~building_material,206615]]'
+- '[[../../../../../../WikiData/WD~architectural_element,391414|WD~architectural_element,391414]]'
+- '[[_Standards/WikiData/WD~manufactured_good,1836700|WD~manufactured_good,1836700]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-has_characteristic: '[[_Standards/WikiData/WD~portable_object,32914898]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+has_characteristic: '[[_Standards/WikiData/WD~portable_object,32914898|WD~portable_object,32914898]]'
 different_from:
-- '[[_Standards/WikiData/WD~game_tile,45808677]]'
-- '[[_Standards/WikiData/WD~brick,40089]]'
-made_from_material: '[[_Standards/WikiData/WD~clay,42302]]'
+- '[[_Standards/WikiData/WD~game_tile,45808677|WD~game_tile,45808677]]'
+- '[[_Standards/WikiData/WD~brick,40089|WD~brick,40089]]'
+made_from_material: '[[_Standards/WikiData/WD~clay,42302|WD~clay,42302]]'
 Nomenclature_for_Museum_Cataloging: 446
 Commons_category: Tiles
 Commons_gallery: Tile

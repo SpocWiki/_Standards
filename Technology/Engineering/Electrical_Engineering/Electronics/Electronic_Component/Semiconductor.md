@@ -95,10 +95,10 @@ aliases:
 - 반도체
 has_id_wikidata: Q11456
 Commons_category: Semiconductors
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~p-type_semiconductor,1196214]]'
-- '[[_Standards/WikiData/WD~n-type_semiconductor,1332028]]'
+- '[[_Standards/WikiData/WD~p-type_semiconductor,1196214|WD~p-type_semiconductor,1196214]]'
+- '[[_Standards/WikiData/WD~n-type_semiconductor,1332028|WD~n-type_semiconductor,1332028]]'
 IEV_number: 121-12-06
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Capteurs%20CCD%20et%20CMOS.jpg
@@ -106,17 +106,17 @@ image:
 MeSH_tree_code: E07.305.625
 OmegaWiki_Defined_Meaning: 3378
 part_of:
-- '[[_Standards/WikiData/WD~semiconductor_device,175805]]'
-- '[[_Standards/WikiData/WD~semiconductor_memory,1143031]]'
-- '[[_Standards/WikiData/WD~semiconductor_diode,1929430]]'
+- '[[_Standards/WikiData/WD~semiconductor_device,175805|WD~semiconductor_device,175805]]'
+- '[[_Standards/WikiData/WD~semiconductor_memory,1143031|WD~semiconductor_memory,1143031]]'
+- '[[_Standards/WikiData/WD~semiconductor_diode,1929430|WD~semiconductor_diode,1929430]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~semiconductor_industry,2986369]]'
-- '[[_Standards/WikiData/WD~semiconductors_chemistry,12168144]]'
-studied_in: '[[_Standards/WikiData/WD~semiconductors_chemistry,12168144]]'
+- '[[_Standards/WikiData/WD~semiconductor_industry,2986369|WD~semiconductor_industry,2986369]]'
+- '[[_Standards/WikiData/WD~semiconductors_chemistry,12168144|WD~semiconductors_chemistry,12168144]]'
+studied_in: '[[_Standards/WikiData/WD~semiconductors_chemistry,12168144|WD~semiconductors_chemistry,12168144]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~electrical_conductor,124291]]'
-- '[[_Standards/WikiData/WD~material,214609]]'
-- '[[_Standards/WikiData/WD~Q31450902,31450902]]'
+- '[[_Standards/WikiData/WD~electrical_conductor,124291|WD~electrical_conductor,124291]]'
+- '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
+- '[[_Standards/WikiData/WD~Q31450902,31450902|WD~Q31450902,31450902]]'
 UMLS_CUI: C0036623
 dv_has_:
   name_:

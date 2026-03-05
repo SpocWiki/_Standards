@@ -72,7 +72,7 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Ones%20Who%20Walk%20Away%20from%20Omelas) 
 
 
-[[../../../../../../../_Standards/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame]]] 
+[[../../../../../../../_Standards/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame|Nkrumah,Kwame]]] 
 
 
 ## Confidential Links & Embeds: 

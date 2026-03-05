@@ -80,7 +80,7 @@ dv_has_:
 # [[Carmack,John_D]]  
 
 #has_/time_/started :: 1970-08-21 
-#has_/created ::[[../id_Software]]] 
+#has_/created ::[[../id_Software|id_Software]]] 
 #has_/created :: [[Wolfenstein 3D]] 
 #has_/created ::[[Doom(game)]]] 
 #has_/created :: [[Quake]] 

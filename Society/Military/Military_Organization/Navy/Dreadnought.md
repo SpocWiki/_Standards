@@ -20,13 +20,13 @@ aliases:
 - 無畏艦
 - 드레드노트
 has_id_wikidata: Q847109
-subclass_of: '[[_Standards/WikiData/WD~battleship,182531]]'
-named_after: '[[_Standards/WikiData/WD~HMS_Dreadnought,308909]]'
-follows: '[[_Standards/WikiData/WD~pre_dreadnought_battleship,1051067]]'
-instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
+subclass_of: '[[_Standards/WikiData/WD~battleship,182531|WD~battleship,182531]]'
+named_after: '[[_Standards/WikiData/WD~HMS_Dreadnought,308909|WD~HMS_Dreadnought,308909]]'
+follows: '[[_Standards/WikiData/WD~pre_dreadnought_battleship,1051067|WD~pre_dreadnought_battleship,1051067]]'
+instance_of: '[[_Standards/WikiData/WD~ship_type,2235308|WD~ship_type,2235308]]'
 different_from:
-- '[[_Standards/WikiData/WD~dreadnought,4167999]]'
-- '[[_Standards/WikiData/WD~Dreadnoughtus,17581455]]'
+- '[[_Standards/WikiData/WD~dreadnought,4167999|WD~dreadnought,4167999]]'
+- '[[_Standards/WikiData/WD~Dreadnoughtus,17581455|WD~Dreadnoughtus,17581455]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HMS%20Dreadnought%201906.jpg
 dv_has_:
   name_:

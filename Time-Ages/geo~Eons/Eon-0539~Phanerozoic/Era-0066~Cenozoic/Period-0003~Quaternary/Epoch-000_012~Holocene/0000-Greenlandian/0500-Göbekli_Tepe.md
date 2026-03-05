@@ -41,25 +41,25 @@ aliases:
 - 哥贝克力石阵
 - 괴베클리 테페
 has_id_wikidata: Q214944
-director_of_archaeological_fieldwork: '[[_Standards/WikiData/WD~Klaus_Schmidt,88419]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Southeastern_Anatolia_Region,155638]]'
+director_of_archaeological_fieldwork: '[[_Standards/WikiData/WD~Klaus_Schmidt,88419|WD~Klaus_Schmidt,88419]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Southeastern_Anatolia_Region,155638|WD~Southeastern_Anatolia_Region,155638]]'
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Şanlıurfa_Province,388469]]'
-- '[[_Standards/WikiData/WD~Haliliye_district,16841546]]'
+- '[[_Standards/WikiData/WD~Şanlıurfa_Province,388469|WD~Şanlıurfa_Province,388469]]'
+- '[[_Standards/WikiData/WD~Haliliye_district,16841546|WD~Haliliye_district,16841546]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tell,755017]]'
-- '[[_Standards/WikiData/WD~archaeological_site,839954]]'
+- '[[_Standards/WikiData/WD~tell,755017|WD~tell,755017]]'
+- '[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]'
 World_Heritage_criteria:
-- '[[_Standards/WikiData/WD~(i),23038972]]'
-- '[[_Standards/WikiData/WD~(iv),23038978]]'
-- '[[_Standards/WikiData/WD~(ii),23038976]]'
-state_of_conservation: '[[_Standards/WikiData/WD~preserved,56557591]]'
-affiliation: '[[_Standards/WikiData/WD~Museum_Directorate_of_Şanlıurfa,108563849]]'
+- '[[_Standards/WikiData/WD~(i),23038972|WD~(i),23038972]]'
+- '[[_Standards/WikiData/WD~(iv),23038978|WD~(iv),23038978]]'
+- '[[_Standards/WikiData/WD~(ii),23038976|WD~(ii),23038976]]'
+state_of_conservation: '[[_Standards/WikiData/WD~preserved,56557591|WD~preserved,56557591]]'
+affiliation: '[[_Standards/WikiData/WD~Museum_Directorate_of_Şanlıurfa,108563849|WD~Museum_Directorate_of_Şanlıurfa,108563849]]'
 dissolved_abolished_or_demolished_date: -7000-01-01T00:00:00Z
 inception: -9999-01-01T00:00:00Z
 coordinate_location: Point(38.9225 37.223055555)
-heritage_designation: '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
-country: '[[_Standards/WikiData/WD~Turkey,43]]'
+heritage_designation: '[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]'
+country: '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
 elevation_above_sea_level: 760
 area:
 - 126

@@ -57,14 +57,14 @@ aliases:
 - 貨櫃船
 - 컨테이너선
 has_id_wikidata: Q17210
-designed_to_carry: '[[_Standards/WikiData/WD~intermodal_container,187956]]'
+designed_to_carry: '[[_Standards/WikiData/WD~intermodal_container,187956|WD~intermodal_container,187956]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~bridge,846929]]'
-- '[[_Standards/WikiData/WD~engine_room,1415781]]'
-- '[[_Standards/WikiData/WD~compass_deck,28820986]]'
-subclass_of: '[[_Standards/WikiData/WD~lolo_ship,1866980]]'
-instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
-has_use: '[[_Standards/WikiData/WD~transport,7590]]'
+- '[[_Standards/WikiData/WD~bridge,846929|WD~bridge,846929]]'
+- '[[_Standards/WikiData/WD~engine_room,1415781|WD~engine_room,1415781]]'
+- '[[_Standards/WikiData/WD~compass_deck,28820986|WD~compass_deck,28820986]]'
+subclass_of: '[[_Standards/WikiData/WD~lolo_ship,1866980|WD~lolo_ship,1866980]]'
+instance_of: '[[_Standards/WikiData/WD~ship_type,2235308|WD~ship_type,2235308]]'
+has_use: '[[_Standards/WikiData/WD~transport,7590|WD~transport,7590]]'
 Nomenclature_for_Museum_Cataloging: 12762
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Container%20Ship.jpg

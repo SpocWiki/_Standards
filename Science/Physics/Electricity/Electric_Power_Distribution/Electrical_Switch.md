@@ -61,19 +61,19 @@ aliases:
 - 개폐기
 has_id_wikidata: Q5320
 subclass_of:
-- '[[_Standards/WikiData/WD~electrical_element,210729]]'
-- '[[_Standards/WikiData/WD~switchgear,1273786]]'
-- '[[_Standards/WikiData/WD~electromechanical_device,102110916]]'
-- '[[_Standards/WikiData/WD~physical_switch,114982040]]'
-has_use: '[[_Standards/WikiData/WD~light_switch,962420]]'
+- '[[_Standards/WikiData/WD~electrical_element,210729|WD~electrical_element,210729]]'
+- '[[_Standards/WikiData/WD~switchgear,1273786|WD~switchgear,1273786]]'
+- '[[_Standards/WikiData/WD~electromechanical_device,102110916|WD~electromechanical_device,102110916]]'
+- '[[_Standards/WikiData/WD~physical_switch,114982040|WD~physical_switch,114982040]]'
+has_use: '[[_Standards/WikiData/WD~light_switch,962420|WD~light_switch,962420]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~electronic_switch,5358435]]'
-- '[[_Standards/WikiData/WD~slider,47450667]]'
-- '[[_Standards/WikiData/WD~network_switch,4503]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Switches,91125835]]'
+- '[[_Standards/WikiData/WD~electronic_switch,5358435|WD~electronic_switch,5358435]]'
+- '[[_Standards/WikiData/WD~slider,47450667|WD~slider,47450667]]'
+- '[[_Standards/WikiData/WD~network_switch,4503|WD~network_switch,4503]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Switches,91125835|WD~Template_Switches,91125835]]'
 Nomenclature_for_Museum_Cataloging: 8352
 OpenStreetMap_tag_or_key: Tag:power=switch
 Commons_category: Electric switches

@@ -27,9 +27,9 @@ tags:
 title: is_a_compilation_album Class
 type: Type
 dv_has_:
-  parent_class: "[[../MusicAlbumProductionType]]"
+  parent_class: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
 dv_is_:
-  enum_of: "[[../MusicAlbumProductionType]]"
+  enum_of: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album|Compilation_Album]]"
     - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.public|Compilation_Album.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.personal|Compilation_Album.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.secret|Compilation_Album.secret]]"
     - "[[Compilation_Album]]"
-dv_has_parent_class: "[[../MusicAlbumProductionType]]"
-dv_is_enum_of: "[[../MusicAlbumProductionType]]"
+dv_has_parent_class: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
+dv_is_enum_of: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
 dv_is_same_as:
   - "[[Compilation_Album]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.public|Compilation_Album.public]]"

@@ -30,17 +30,17 @@ dv_has_:
   course_prerequisites:
     - "[[../../../Class/is_a_/Intangible/Alignment_Object|Alignment_Object]]"
     - "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]"
-    - "[[../../../Class/is_a_/Data_Type/Text]]"
+    - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
   domain: "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]"
   name: "[[has_course_prerequisites]]"
   range:
     - "[[../../../Class/is_a_/Intangible/Alignment_Object|Alignment_Object]]"
     - "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]"
-    - "[[../../../Class/is_a_/Data_Type/Text]]"
+    - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
 dv_has_course_prerequisites:
   - "[[../../../Class/is_a_/Intangible/Alignment_Object|Alignment_Object]]"
   - "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]"
-  - "[[../../../Class/is_a_/Data_Type/Text]]"
+  - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_:
   same_as:
     - "[[has_course_prerequisites|has_course_prerequisites]]"
@@ -56,7 +56,7 @@ dv_has_name: "[[has_course_prerequisites]]"
 dv_has_range:
   - "[[../../../Class/is_a_/Intangible/Alignment_Object|Alignment_Object]]"
   - "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]"
-  - "[[../../../Class/is_a_/Data_Type/Text]]"
+  - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[has_course_prerequisites]]"
   - "[[/_public/schema-org/Relation/has/has_course_prerequisites.public|has_course_prerequisites.public]]"

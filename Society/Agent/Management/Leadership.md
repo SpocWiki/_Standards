@@ -82,23 +82,23 @@ aliases:
 - 领导力
 - 지도력
 has_id_wikidata: Q484275
-practiced_by: '[[_Standards/WikiData/WD~leader,1251441]]'
+practiced_by: '[[_Standards/WikiData/WD~leader,1251441|WD~leader,1251441]]'
 instance_of:
-- '[[_Standards/WikiData/WD~aptitude,1347367]]'
-- '[[_Standards/WikiData/WD~personality_trait,2393196]]'
+- '[[_Standards/WikiData/WD~aptitude,1347367|WD~aptitude,1347367]]'
+- '[[_Standards/WikiData/WD~personality_trait,2393196|WD~personality_trait,2393196]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~leadership_development,1481075]]'
-- '[[_Standards/WikiData/WD~accountability,2798912]]'
-- '[[_Standards/WikiData/WD~leadership_style,6508686]]'
-subclass_of: '[[_Standards/WikiData/WD~activity,1914636]]'
-opposite_of: '[[_Standards/WikiData/WD~followership,8564242]]'
-has_part_s_: '[[_Standards/WikiData/WD~military_leadership,11637363]]'
+- '[[_Standards/WikiData/WD~leadership_development,1481075|WD~leadership_development,1481075]]'
+- '[[_Standards/WikiData/WD~accountability,2798912|WD~accountability,2798912]]'
+- '[[_Standards/WikiData/WD~leadership_style,6508686|WD~leadership_style,6508686]]'
+subclass_of: '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+opposite_of: '[[_Standards/WikiData/WD~followership,8564242|WD~followership,8564242]]'
+has_part_s_: '[[_Standards/WikiData/WD~military_leadership,11637363|WD~military_leadership,11637363]]'
 studied_by:
-- '[[_Standards/WikiData/WD~management_studies,22811962]]'
-- '[[_Standards/WikiData/WD~interaction_science,97008347]]'
+- '[[_Standards/WikiData/WD~management_studies,22811962|WD~management_studies,22811962]]'
+- '[[_Standards/WikiData/WD~interaction_science,97008347|WD~interaction_science,97008347]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Q44835238,44835238]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Q44835238,44835238|WD~Q44835238,44835238]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/3D%20Team%20Leadership%20Arrow%20Concept.jpg
 Commons_category: Leadership
 U_S_National_Archives_Identifier: 10642651

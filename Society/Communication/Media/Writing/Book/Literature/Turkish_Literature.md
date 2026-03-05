@@ -46,11 +46,11 @@ aliases:
 - 土耳其文文學
 - 터키 문학
 has_id_wikidata: Q1328366
-instance_of: '[[_Standards/WikiData/WD~literary_genre,223393]]'
-described_by_source: '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-facet_of: '[[_Standards/WikiData/WD~culture_of_Turkey,1082380]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~Turkish,256]]'
-subclass_of: '[[_Standards/WikiData/WD~literature,8242]]'
+instance_of: '[[_Standards/WikiData/WD~literary_genre,223393|WD~literary_genre,223393]]'
+described_by_source: '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+facet_of: '[[_Standards/WikiData/WD~culture_of_Turkey,1082380|WD~culture_of_Turkey,1082380]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Turkish,256|WD~Turkish,256]]'
+subclass_of: '[[_Standards/WikiData/WD~literature,8242|WD~literature,8242]]'
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/TURETSKAYA_LITERATURA.html
 Commons_category: Literature of Turkey
 Dewey_Decimal_Classification: 894.35

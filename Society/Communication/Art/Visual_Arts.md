@@ -120,35 +120,35 @@ aliases:
 - 시각 예술
 has_id_wikidata: Q36649
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~art_genre,1792379]]'
-- '[[_Standards/WikiData/WD~economic_sector,3958441]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
-part_of: '[[_Standards/WikiData/WD~visual_culture,861716]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436|WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~art_genre,1792379|WD~art_genre,1792379]]'
+- '[[_Standards/WikiData/WD~economic_sector,3958441|WD~economic_sector,3958441]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_arts,56055944|WD~type_of_arts,56055944]]'
+part_of: '[[_Standards/WikiData/WD~visual_culture,861716|WD~visual_culture,861716]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~visual_artist,3391743]]'
-- '[[_Standards/WikiData/WD~fictional_visual_artist,125938125]]'
-different_from: '[[_Standards/WikiData/WD~visual_artwork,4502142]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~visual_artwork,4502142]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Branches_of_the_visual_arts,6725236]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_visual_arts,7112797]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Visual_arts,13627814]]'
-has_characteristic: '[[_Standards/WikiData/WD~genre_of_painting,16743958]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Visual_arts,19369129]]'
+- '[[_Standards/WikiData/WD~visual_artist,3391743|WD~visual_artist,3391743]]'
+- '[[_Standards/WikiData/WD~fictional_visual_artist,125938125|WD~fictional_visual_artist,125938125]]'
+different_from: '[[_Standards/WikiData/WD~visual_artwork,4502142|WD~visual_artwork,4502142]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~visual_artwork,4502142|WD~visual_artwork,4502142]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Branches_of_the_visual_arts,6725236|WD~Template_Branches_of_the_visual_arts,6725236]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_visual_arts,7112797|WD~outline_of_the_visual_arts,7112797]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Visual_arts,13627814|WD~WikiProject_Visual_arts,13627814]]'
+has_characteristic: '[[_Standards/WikiData/WD~genre_of_painting,16743958|WD~genre_of_painting,16743958]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Visual_arts,19369129|WD~Portal_Visual_arts,19369129]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~Q25609395,25609395]]'
-- '[[_Standards/WikiData/WD~art,42314818]]'
-- '[[_Standards/WikiData/WD~Q135482804,135482804]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
-subclass_of: '[[_Standards/WikiData/WD~art,735]]'
-has_part_s_: '[[_Standards/WikiData/WD~art_of_sculpture,11634]]'
+- '[[_Standards/WikiData/WD~Q25609395,25609395|WD~Q25609395,25609395]]'
+- '[[_Standards/WikiData/WD~art,42314818|WD~art,42314818]]'
+- '[[_Standards/WikiData/WD~Q135482804,135482804|WD~Q135482804,135482804]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806|WD~WikiProject_Craft,110249806]]'
+subclass_of: '[[_Standards/WikiData/WD~art,735|WD~art,735]]'
+has_part_s_: '[[_Standards/WikiData/WD~art_of_sculpture,11634|WD~art_of_sculpture,11634]]'
 Provenio_UUID: 4f81190f-d9bd-443f-8ec2-2c00eb570606
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Fuji%20southern%20wind%20clear%20morning.jpg
 Commons_category: Visual arts

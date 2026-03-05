@@ -128,32 +128,32 @@ aliases:
 - 수니파 이슬람교
 has_id_wikidata: Q483654
 has_part_s_:
-- "[[_Standards/WikiData/WD~Shafi'i,82245]]"
-- '[[_Standards/WikiData/WD~Hanafism,228986]]'
-- '[[_Standards/WikiData/WD~Hanbalism,233387]]'
-- '[[_Standards/WikiData/WD~Maturidi,492501]]'
-- "[[_Standards/WikiData/WD~Ash'ari,539918]]"
-- '[[_Standards/WikiData/WD~Athari,638043]]'
-- "[[_Standards/WikiData/WD~Mu'tazila,668460]]"
-- "[[_Standards/WikiData/WD~Murji'ah,2359550]]"
-- '[[_Standards/WikiData/WD~Sufism,9603]]'
-- '[[_Standards/WikiData/WD~Malikism,48221]]'
+- "[[_Standards/WikiData/WD~Shafi'i,82245|WD~Shafi'i,82245]]"
+- '[[_Standards/WikiData/WD~Hanafism,228986|WD~Hanafism,228986]]'
+- '[[_Standards/WikiData/WD~Hanbalism,233387|WD~Hanbalism,233387]]'
+- '[[_Standards/WikiData/WD~Maturidi,492501|WD~Maturidi,492501]]'
+- "[[_Standards/WikiData/WD~Ash'ari,539918|WD~Ash'ari,539918]]"
+- '[[_Standards/WikiData/WD~Athari,638043|WD~Athari,638043]]'
+- "[[_Standards/WikiData/WD~Mu'tazila,668460|WD~Mu'tazila,668460]]"
+- "[[_Standards/WikiData/WD~Murji'ah,2359550|WD~Murji'ah,2359550]]"
+- '[[_Standards/WikiData/WD~Sufism,9603|WD~Sufism,9603]]'
+- '[[_Standards/WikiData/WD~Malikism,48221|WD~Malikism,48221]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~Islamic_denomination,1192063]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~Islamic_denomination,1192063|WD~Islamic_denomination,1192063]]'
 foundational_text:
-- '[[_Standards/WikiData/WD~list_of_hadith_books,3602186]]'
-- '[[_Standards/WikiData/WD~Qur_an,428]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12831260,12831260]]'
+- '[[_Standards/WikiData/WD~list_of_hadith_books,3602186|WD~list_of_hadith_books,3602186]]'
+- '[[_Standards/WikiData/WD~Qur_an,428|WD~Qur_an,428]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12831260,12831260|WD~Q12831260,12831260]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B1%D8%B3%D9%85%20%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1%D9%8A%20%D9%84%D9%84%D9%81%D8%B8%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%D8%A9%20%D9%88%D9%85%D9%86%20%D9%8A%D8%AC%D9%84%D9%87%D9%85%20%D8%A3%D9%87%D9%84%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9.png
-subclass_of: '[[_Standards/WikiData/WD~Islam,432]]'
-official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
+subclass_of: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
 inception: 0601-01-01T00:00:00Z
 Commons_category: Sunni Islam
 Colon_Classification: Q71

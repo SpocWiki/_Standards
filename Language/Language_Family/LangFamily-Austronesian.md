@@ -123,33 +123,33 @@ ABS_ASCL_2011_code:
 - 65
 - 93
 Commons_category: Austronesian languages
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification: 499.2
-different_from: '[[_Standards/WikiData/WD~Austroasiatic,33199]]'
+different_from: '[[_Standards/WikiData/WD~Austroasiatic,33199|WD~Austroasiatic,33199]]'
 distribution_map:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Austronesian%20family.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Austronesian%20languages.PNG
 Glottolog_code: aust1307
 GOST_7_75_97_code: авс 017
 has_part_s_:
-- '[[_Standards/WikiData/WD~Malayo-Polynesian,143158]]'
-- '[[_Standards/WikiData/WD~Formosan,715278]]'
+- '[[_Standards/WikiData/WD~Malayo-Polynesian,143158|WD~Malayo-Polynesian,143158]]'
+- '[[_Standards/WikiData/WD~Formosan,715278|WD~Formosan,715278]]'
 IETF_language_tag: map
-instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
 ISO_639_2_code: map
 ISO_639_5_code: map
 Krugosvet_article: gumanitarnye_nauki/lingvistika/AVSTRONEZISKIE_YAZIKI.html
 Linguist_List_code: anes
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Taiwan_Island,22502]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Taiwan_Island,22502|WD~Taiwan_Island,22502]]'
 number_of_speakers_writers_or_signers: 300000000
 OmegaWiki_Defined_Meaning: 1639143
 subclass_of:
-- '[[_Standards/WikiData/WD~Austric,783787]]'
-- '[[_Standards/WikiData/WD~Austro-Tai,783816]]'
-- '[[_Standards/WikiData/WD~Sino-Austronesian,7524744]]'
+- '[[_Standards/WikiData/WD~Austric,783787|WD~Austric,783787]]'
+- '[[_Standards/WikiData/WD~Austro-Tai,783816|WD~Austro-Tai,783816]]'
+- '[[_Standards/WikiData/WD~Sino-Austronesian,7524744|WD~Sino-Austronesian,7524744]]'
 tags:
 - Lang_Family
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Austronesian_languages,19891014]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Austronesian_languages,19891014|WD~Template_Austronesian_languages,19891014]]'
 type: LangFamily
 WALS_family_code: austronesian
 dv_has_:

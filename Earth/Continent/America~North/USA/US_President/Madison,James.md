@@ -70,7 +70,7 @@ tags:
 - ''
 title: Madison,James
 type: private_note
-dv_has_role: '[[../US_President]]'
+dv_has_role: '[[../US_President|US_President]]'
 dv_is_member_of: '[[Democratic-Republican Party]]'
 dv_created: 1809-03-04
 dv_cancelled: 1817-03-04
@@ -266,7 +266,7 @@ dv_is_same_as:
 
 has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped`
--   [has_role :: [[../US_President]] ]is_member_of = `=this.dv_is_member_of`
+-   [has_role :: [[../US_President|US_President]] ]is_member_of = `=this.dv_is_member_of`
 
 #is_/same_as :: [[../../../../WikiData/WD~James_Madison,11813|WD~James_Madison,11813]] 
 

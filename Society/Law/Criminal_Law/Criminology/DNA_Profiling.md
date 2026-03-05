@@ -58,9 +58,9 @@ aliases:
 - 遺傳指紋分析
 - 법의유전학
 has_id_wikidata: Q476697
-instance_of: '[[_Standards/WikiData/WD~forensic_technique,456443]]'
-different_from: '[[_Standards/WikiData/WD~DNA_phenotyping,19903970]]'
-subclass_of: '[[_Standards/WikiData/WD~biometry,67364833]]'
+instance_of: '[[_Standards/WikiData/WD~forensic_technique,456443|WD~forensic_technique,456443]]'
+different_from: '[[_Standards/WikiData/WD~DNA_phenotyping,19903970|WD~DNA_phenotyping,19903970]]'
+subclass_of: '[[_Standards/WikiData/WD~biometry,67364833|WD~biometry,67364833]]'
 OmegaWiki_Defined_Meaning: 799819
 Commons_category: DNA profiling
 MeSH_tree_code:

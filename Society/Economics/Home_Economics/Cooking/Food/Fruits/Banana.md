@@ -164,31 +164,31 @@ Wikidata_usage_instructions:
   - 栽培品種はQ10757112、属名はQ8666090を参照
   - 有关最著名物种，请参见Q10757112；有关生物属，请参见Q8666090
 natural_product_of_taxon:
-  - "[[_Standards/WikiData/WD~Musa_balbisiana,94643]]"
-  - "[[_Standards/WikiData/WD~Musa_acuminata,132970]]"
-  - "[[_Standards/WikiData/WD~Musa,8666090]]"
-  - "[[_Standards/WikiData/WD~Musa_paradisiaca,10757112]]"
-  - "[[_Standards/WikiData/WD~banana_tree,75195775]]"
+  - "[[_Standards/WikiData/WD~Musa_balbisiana,94643|WD~Musa_balbisiana,94643]]"
+  - "[[_Standards/WikiData/WD~Musa_acuminata,132970|WD~Musa_acuminata,132970]]"
+  - "[[_Standards/WikiData/WD~Musa,8666090|WD~Musa,8666090]]"
+  - "[[_Standards/WikiData/WD~Musa_paradisiaca,10757112|WD~Musa_paradisiaca,10757112]]"
+  - "[[_Standards/WikiData/WD~banana_tree,75195775|WD~banana_tree,75195775]]"
 different_from:
-  - "[[_Standards/WikiData/WD~cooking_banana,165449]]"
-  - "[[_Standards/WikiData/WD~Musa,8666090]]"
+  - "[[_Standards/WikiData/WD~cooking_banana,165449|WD~cooking_banana,165449]]"
+  - "[[_Standards/WikiData/WD~Musa,8666090|WD~Musa,8666090]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~tropical_fruit,844144]]"
-  - "[[_Standards/WikiData/WD~fruit,3314483]]"
-  - "[[_Standards/WikiData/WD~tropical_and_subtropical_fruit,27481647]]"
-  - "[[_Standards/WikiData/WD~berry,13184]]"
+  - "[[_Standards/WikiData/WD~tropical_fruit,844144|WD~tropical_fruit,844144]]"
+  - "[[_Standards/WikiData/WD~fruit,3314483|WD~fruit,3314483]]"
+  - "[[_Standards/WikiData/WD~tropical_and_subtropical_fruit,27481647|WD~tropical_and_subtropical_fruit,27481647]]"
+  - "[[_Standards/WikiData/WD~berry,13184|WD~berry,13184]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 color:
-  - "[[_Standards/WikiData/WD~purple,3257809]]"
-  - "[[_Standards/WikiData/WD~yellow,943]]"
-  - "[[_Standards/WikiData/WD~green,3133]]"
-  - "[[_Standards/WikiData/WD~brown,47071]]"
-instance_of: "[[_Standards/WikiData/WD~fruit,3314483]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q135485501,135485501]]"
+  - "[[_Standards/WikiData/WD~purple,3257809|WD~purple,3257809]]"
+  - "[[_Standards/WikiData/WD~yellow,943|WD~yellow,943]]"
+  - "[[_Standards/WikiData/WD~green,3133|WD~green,3133]]"
+  - "[[_Standards/WikiData/WD~brown,47071|WD~brown,47071]]"
+instance_of: "[[_Standards/WikiData/WD~fruit,3314483|WD~fruit,3314483]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q135485501,135485501|WD~Q135485501,135485501]]"
 carbon_footprint:
   - 0.6
   - 0.8

@@ -74,41 +74,41 @@ aliases:
 - 스토아 학파
 has_id_wikidata: Q48235
 significant_person:
-- '[[_Standards/WikiData/WD~Zeno_of_Citium,171303]]'
-- '[[_Standards/WikiData/WD~Epictetus,183144]]'
-- '[[_Standards/WikiData/WD~Chrysippus_of_Soli,211411]]'
-- '[[_Standards/WikiData/WD~Marcus_Aurelius,1430]]'
-- '[[_Standards/WikiData/WD~Seneca,2054]]'
-founded_by: '[[_Standards/WikiData/WD~Zeno_of_Citium,171303]]'
+- '[[_Standards/WikiData/WD~Zeno_of_Citium,171303|WD~Zeno_of_Citium,171303]]'
+- '[[_Standards/WikiData/WD~Epictetus,183144|WD~Epictetus,183144]]'
+- '[[_Standards/WikiData/WD~Chrysippus_of_Soli,211411|WD~Chrysippus_of_Soli,211411]]'
+- '[[_Standards/WikiData/WD~Marcus_Aurelius,1430|WD~Marcus_Aurelius,1430]]'
+- '[[_Standards/WikiData/WD~Seneca,2054|WD~Seneca,2054]]'
+founded_by: '[[_Standards/WikiData/WD~Zeno_of_Citium,171303|WD~Zeno_of_Citium,171303]]'
 different_from:
-- '[[_Standards/WikiData/WD~Epicureanism,179541]]'
-- '[[_Standards/WikiData/WD~skepticism,1395219]]'
-- '[[_Standards/WikiData/WD~Academic_skepticism,3345153]]'
-- '[[_Standards/WikiData/WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~Epicureanism,179541|WD~Epicureanism,179541]]'
+- '[[_Standards/WikiData/WD~skepticism,1395219|WD~skepticism,1395219]]'
+- '[[_Standards/WikiData/WD~Academic_skepticism,3345153|WD~Academic_skepticism,3345153]]'
+- '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
 facet_of:
-- '[[_Standards/WikiData/WD~adiaphora,356932]]'
-- '[[_Standards/WikiData/WD~oikeiôsis,624819]]'
-- '[[_Standards/WikiData/WD~executive_functions,783092]]'
-- '[[_Standards/WikiData/WD~cardinal_virtues,904802]]'
-- '[[_Standards/WikiData/WD~eudaimonia,1771260]]'
-- '[[_Standards/WikiData/WD~telos,3243630]]'
-- '[[_Standards/WikiData/WD~bear_and_forbear,3505752]]'
+- '[[_Standards/WikiData/WD~adiaphora,356932|WD~adiaphora,356932]]'
+- '[[_Standards/WikiData/WD~oikeiôsis,624819|WD~oikeiôsis,624819]]'
+- '[[_Standards/WikiData/WD~executive_functions,783092|WD~executive_functions,783092]]'
+- '[[_Standards/WikiData/WD~cardinal_virtues,904802|WD~cardinal_virtues,904802]]'
+- '[[_Standards/WikiData/WD~eudaimonia,1771260|WD~eudaimonia,1771260]]'
+- '[[_Standards/WikiData/WD~telos,3243630|WD~telos,3243630]]'
+- '[[_Standards/WikiData/WD~bear_and_forbear,3505752|WD~bear_and_forbear,3505752]]'
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-named_after: '[[_Standards/WikiData/WD~Stoa_Poikile,936234]]'
-instance_of: '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240|WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+named_after: '[[_Standards/WikiData/WD~Stoa_Poikile,936234|WD~Stoa_Poikile,936234]]'
+instance_of: '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852|WD~philosophical_schools_and_traditions,12765852]]'
 inception: -0300-01-01T00:00:00Z
 has_part_s_:
-- '[[_Standards/WikiData/WD~physics,413]]'
-- '[[_Standards/WikiData/WD~logic,8078]]'
-- '[[_Standards/WikiData/WD~ethics,9465]]'
+- '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
+- '[[_Standards/WikiData/WD~logic,8078|WD~logic,8078]]'
+- '[[_Standards/WikiData/WD~ethics,9465|WD~ethics,9465]]'
 Dewey_Decimal_Classification: 188
 Library_of_Congress_Classification: B528
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Stoicism-article.ogg
@@ -260,7 +260,7 @@ dv_has_:
 > and pleasure, are not good or bad in themselves (adiaphora) 
 > but have value (only) as "material for virtue to act upon". 
 > 
-> Many Stoics—such as [[Philosopher/Ancient_Philosopher/Seneca]] and [[Epictetus]]—emphasized that 
+> Many Stoics—such as [[Philosopher/Ancient_Philosopher/Seneca|Seneca]] and [[Epictetus]]—emphasized that 
 > because "virtue is sufficient for happiness", 
 > a sage would be emotionally resilient to misfortune. 
 > 
@@ -284,7 +284,7 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Stoicism) 
 
 
-Modern Stoicism was captured by the [[../Society/Ideology/Political_Ideology/Fascism/Manosphere]] to form [[../Society/Ideology/Political_Ideology/Fascism/Broicism]]. 
+Modern Stoicism was captured by the [[../Society/Ideology/Political_Ideology/Fascism/Manosphere|Manosphere]] to form [[../Society/Ideology/Political_Ideology/Fascism/Broicism|Broicism]]. 
 
 | Philosopher        | year | year | Origin  | Major Contributions                                 |
 | ------------------ | ---: | ---: | ------- | --------------------------------------------------- |

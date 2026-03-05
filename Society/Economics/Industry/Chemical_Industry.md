@@ -63,11 +63,11 @@ aliases:
 - 化學工業
 - 화학공업
 has_id_wikidata: Q207652
-instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~chemical_product,1069267]]'
-subclass_of: '[[_Standards/WikiData/WD~economic_sector,3958441]]'
-field_of_work: '[[_Standards/WikiData/WD~industrial_chemistry,6745636]]'
-has_part_s_: '[[_Standards/WikiData/WD~petrochemical_industry,16070574]]'
+instance_of: '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~chemical_product,1069267|WD~chemical_product,1069267]]'
+subclass_of: '[[_Standards/WikiData/WD~economic_sector,3958441|WD~economic_sector,3958441]]'
+field_of_work: '[[_Standards/WikiData/WD~industrial_chemistry,6745636|WD~industrial_chemistry,6745636]]'
+has_part_s_: '[[_Standards/WikiData/WD~petrochemical_industry,16070574|WD~petrochemical_industry,16070574]]'
 International_Standard_Industrial_Classification_code_Rev_4: 20
 U_S_National_Archives_Identifier: 10640482
 OmegaWiki_Defined_Meaning: 1592514

@@ -254,7 +254,7 @@ aliases:
 
 # [[Jurist]] 
 
-#is_/similar_to :: [[Jurist/Lawyer]] 
+#is_/similar_to :: [[Jurist/Lawyer|Lawyer]] 
 #is_/same_as :: [[WD~Jurist,185351]] 
 
 | Attribute              | Jurist                                       | Lawyer                                          |

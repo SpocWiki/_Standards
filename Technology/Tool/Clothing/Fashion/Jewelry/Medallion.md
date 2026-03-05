@@ -76,32 +76,32 @@ aliases:
 - 메달
 has_id_wikidata: Q131647
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~award,618779]]'
-- '[[_Standards/WikiData/WD~work_of_art,838948]]'
-- '[[_Standards/WikiData/WD~work_with_multiple_executions,28886448]]'
-- '[[_Standards/WikiData/WD~monetiform_object,116035976]]'
+- '[[_Standards/WikiData/WD~award,618779|WD~award,618779]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948|WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~work_with_multiple_executions,28886448|WD~work_with_multiple_executions,28886448]]'
+- '[[_Standards/WikiData/WD~monetiform_object,116035976|WD~monetiform_object,116035976]]'
 studied_by:
-- '[[_Standards/WikiData/WD~numismatics,631286]]'
-- '[[_Standards/WikiData/WD~Q92300887,92300887]]'
+- '[[_Standards/WikiData/WD~numismatics,631286|WD~numismatics,631286]]'
+- '[[_Standards/WikiData/WD~Q92300887,92300887|WD~Q92300887,92300887]]'
 different_from:
-- '[[_Standards/WikiData/WD~Schaumünze,1750740]]'
-- '[[_Standards/WikiData/WD~medaillon,2691994]]'
-- '[[_Standards/WikiData/WD~decoration,11796413]]'
-- '[[_Standards/WikiData/WD~medal_of_an_order,38593919]]'
-- '[[_Standards/WikiData/WD~award_medal,57082336]]'
+- '[[_Standards/WikiData/WD~Schaumünze,1750740|WD~Schaumünze,1750740]]'
+- '[[_Standards/WikiData/WD~medaillon,2691994|WD~medaillon,2691994]]'
+- '[[_Standards/WikiData/WD~decoration,11796413|WD~decoration,11796413]]'
+- '[[_Standards/WikiData/WD~medal_of_an_order,38593919|WD~medal_of_an_order,38593919]]'
+- '[[_Standards/WikiData/WD~award_medal,57082336|WD~award_medal,57082336]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_medal_templates,5894777]]'
-- '[[_Standards/WikiData/WD~Template_Medal,12857424]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~decoration,11796413]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_award,107467117]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_medal_templates,5894777|WD~Template_Infobox_medal_templates,5894777]]'
+- '[[_Standards/WikiData/WD~Template_Medal,12857424|WD~Template_Medal,12857424]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~decoration,11796413|WD~decoration,11796413]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_award,107467117|WD~type_of_award,107467117]]'
 Nomenclature_for_Museum_Cataloging: 13940
 U_S_National_Archives_Identifier:
 - 10640364

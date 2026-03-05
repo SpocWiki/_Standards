@@ -81,30 +81,30 @@ aliases:
 - 航天飞机
 - 우주왕복선
 has_id_wikidata: Q48806
-has_use: '[[_Standards/WikiData/WD~orbital_spaceflight,218455]]'
+has_use: '[[_Standards/WikiData/WD~orbital_spaceflight,218455|WD~orbital_spaceflight,218455]]'
 manufacturer:
-- '[[_Standards/WikiData/WD~Alliant_Techsystems,238765]]'
-- '[[_Standards/WikiData/WD~Martin_Marietta,626800]]'
-- '[[_Standards/WikiData/WD~United_Space_Alliance,1541150]]'
-- '[[_Standards/WikiData/WD~Thiokol,2357348]]'
-- '[[_Standards/WikiData/WD~Lockheed_Martin,7240]]'
-- '[[_Standards/WikiData/WD~Boeing,66]]'
-start_point: '[[_Standards/WikiData/WD~Kennedy_Space_Center_Launch_Complex_39,845774]]'
+- '[[_Standards/WikiData/WD~Alliant_Techsystems,238765|WD~Alliant_Techsystems,238765]]'
+- '[[_Standards/WikiData/WD~Martin_Marietta,626800|WD~Martin_Marietta,626800]]'
+- '[[_Standards/WikiData/WD~United_Space_Alliance,1541150|WD~United_Space_Alliance,1541150]]'
+- '[[_Standards/WikiData/WD~Thiokol,2357348|WD~Thiokol,2357348]]'
+- '[[_Standards/WikiData/WD~Lockheed_Martin,7240|WD~Lockheed_Martin,7240]]'
+- '[[_Standards/WikiData/WD~Boeing,66|WD~Boeing,66]]'
+start_point: '[[_Standards/WikiData/WD~Kennedy_Space_Center_Launch_Complex_39,845774|WD~Kennedy_Space_Center_Launch_Complex_39,845774]]'
 powered_by:
-- '[[_Standards/WikiData/WD~RS_25,1030042]]'
-- '[[_Standards/WikiData/WD~Space_Shuttle_Orbital_Maneuvering_System,1263822]]'
-- '[[_Standards/WikiData/WD~Space_Shuttle_Solid_Rocket_Booster,1422862]]'
+- '[[_Standards/WikiData/WD~RS_25,1030042|WD~RS_25,1030042]]'
+- '[[_Standards/WikiData/WD~Space_Shuttle_Orbital_Maneuvering_System,1263822|WD~Space_Shuttle_Orbital_Maneuvering_System,1263822]]'
+- '[[_Standards/WikiData/WD~Space_Shuttle_Solid_Rocket_Booster,1422862|WD~Space_Shuttle_Solid_Rocket_Booster,1422862]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Space_Shuttle_external_tank,1061044]]'
-- '[[_Standards/WikiData/WD~Space_Shuttle_orbiter,1064394]]'
-- '[[_Standards/WikiData/WD~Space_Shuttle_Solid_Rocket_Booster,1422862]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_space_shuttle,6266629]]'
+- '[[_Standards/WikiData/WD~Space_Shuttle_external_tank,1061044|WD~Space_Shuttle_external_tank,1061044]]'
+- '[[_Standards/WikiData/WD~Space_Shuttle_orbiter,1064394|WD~Space_Shuttle_orbiter,1064394]]'
+- '[[_Standards/WikiData/WD~Space_Shuttle_Solid_Rocket_Booster,1422862|WD~Space_Shuttle_Solid_Rocket_Booster,1422862]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_space_shuttle,6266629|WD~Template_Infobox_space_shuttle,6266629]]'
 instance_of:
-- '[[_Standards/WikiData/WD~rocket_model,110055303]]'
-- '[[_Standards/WikiData/WD~spacecraft_model,117384800]]'
-different_from: '[[_Standards/WikiData/WD~space_shuttle,125217474]]'
-subclass_of: '[[_Standards/WikiData/WD~reusable_launch_vehicle,30128]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~rocket_model,110055303|WD~rocket_model,110055303]]'
+- '[[_Standards/WikiData/WD~spacecraft_model,117384800|WD~spacecraft_model,117384800]]'
+different_from: '[[_Standards/WikiData/WD~space_shuttle,125217474|WD~space_shuttle,125217474]]'
+subclass_of: '[[_Standards/WikiData/WD~reusable_launch_vehicle,30128|WD~reusable_launch_vehicle,30128]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 diameter: 343
 height: 2209
 Nomenclature_for_Museum_Cataloging: 11734

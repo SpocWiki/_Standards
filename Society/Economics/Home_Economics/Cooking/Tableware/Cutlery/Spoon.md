@@ -148,19 +148,19 @@ aliases:
 - 숟가락
 has_id_wikidata: Q81895
 subclass_of:
-- '[[_Standards/WikiData/WD~cutlery,81944]]'
-- '[[_Standards/WikiData/WD~cookware_and_bakeware,154038]]'
-- '[[_Standards/WikiData/WD~table_set,1191255]]'
+- '[[_Standards/WikiData/WD~cutlery,81944|WD~cutlery,81944]]'
+- '[[_Standards/WikiData/WD~cookware_and_bakeware,154038|WD~cookware_and_bakeware,154038]]'
+- '[[_Standards/WikiData/WD~table_set,1191255|WD~table_set,1191255]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 has_use:
-- '[[_Standards/WikiData/WD~ingestion,1663054]]'
-- '[[_Standards/WikiData/WD~stirring,2826873]]'
+- '[[_Standards/WikiData/WD~ingestion,1663054|WD~ingestion,1663054]]'
+- '[[_Standards/WikiData/WD~stirring,2826873|WD~stirring,2826873]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~shaft,2230201]]'
-- '[[_Standards/WikiData/WD~vat,3007956]]'
+- '[[_Standards/WikiData/WD~shaft,2230201|WD~shaft,2230201]]'
+- '[[_Standards/WikiData/WD~vat,3007956|WD~vat,3007956]]'
 OmegaWiki_Defined_Meaning: 5944
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Ngaji.jpg

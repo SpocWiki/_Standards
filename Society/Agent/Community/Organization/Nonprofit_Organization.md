@@ -113,22 +113,22 @@ aliases:
 - 비영리 단체
 has_id_wikidata: Q163740
 model_item:
-- '[[_Standards/WikiData/WD~World_Economic_Forum,170418]]'
-- '[[_Standards/WikiData/WD~Lebenshilfe_Deutschland,20533]]'
+- '[[_Standards/WikiData/WD~World_Economic_Forum,170418|WD~World_Economic_Forum,170418]]'
+- '[[_Standards/WikiData/WD~Lebenshilfe_Deutschland,20533|WD~Lebenshilfe_Deutschland,20533]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~legal_form,10541491]]'
-- '[[_Standards/WikiData/WD~type_of_organization,17197366]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~legal_form,10541491|WD~legal_form,10541491]]'
+- '[[_Standards/WikiData/WD~type_of_organization,17197366|WD~type_of_organization,17197366]]'
 different_from:
-- '[[_Standards/WikiData/WD~NPO,361647]]'
-- '[[_Standards/WikiData/WD~voluntary_association,48204]]'
-studied_by: '[[_Standards/WikiData/WD~nonprofit_management,975065]]'
-industry: '[[_Standards/WikiData/WD~voluntary_sector,1063076]]'
+- '[[_Standards/WikiData/WD~NPO,361647|WD~NPO,361647]]'
+- '[[_Standards/WikiData/WD~voluntary_association,48204|WD~voluntary_association,48204]]'
+studied_by: '[[_Standards/WikiData/WD~nonprofit_management,975065|WD~nonprofit_management,975065]]'
+industry: '[[_Standards/WikiData/WD~voluntary_sector,1063076|WD~voluntary_sector,1063076]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~for_profit_charity,5466627]]'
-- '[[_Standards/WikiData/WD~commercial_organization,21980538]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_non_profit,5622928]]'
-described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+- '[[_Standards/WikiData/WD~for_profit_charity,5466627|WD~for_profit_charity,5466627]]'
+- '[[_Standards/WikiData/WD~commercial_organization,21980538|WD~commercial_organization,21980538]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_non_profit,5622928|WD~Template_Infobox_non_profit,5622928]]'
+described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
 properties_for_this_type:
 - inception
 - sponsor
@@ -142,7 +142,7 @@ properties_for_this_type:
 - donations
 - country
 - located in the administrative territorial entity
-subclass_of: '[[_Standards/WikiData/WD~organization,43229]]'
+subclass_of: '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 IAB_code: 108
 U_S_National_Archives_Identifier: 10644512
 short_name:

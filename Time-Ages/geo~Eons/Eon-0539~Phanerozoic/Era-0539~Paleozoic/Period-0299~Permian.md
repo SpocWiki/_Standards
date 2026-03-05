@@ -55,23 +55,23 @@ aliases:
 - 二疊紀
 - 페름기
 has_id_wikidata: Q76402
-named_by: '[[_Standards/WikiData/WD~Roderick_Murchison,_1st_Baronet,361900]]'
+named_by: '[[_Standards/WikiData/WD~Roderick_Murchison,_1st_Baronet,361900|WD~Roderick_Murchison,_1st_Baronet,361900]]'
 named_after:
-- '[[_Standards/WikiData/WD~Great_Perm,385084]]'
-- '[[_Standards/WikiData/WD~Perm_Governorate,1124098]]'
+- '[[_Standards/WikiData/WD~Great_Perm,385084|WD~Great_Perm,385084]]'
+- '[[_Standards/WikiData/WD~Perm_Governorate,1124098|WD~Perm_Governorate,1124098]]'
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Permian,8966043]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Permian,8966043|WD~Category_Permian,8966043]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -251902000-01-01T00:00:00Z
 start_time: -298900000-01-01T00:00:00Z
 time_of_discovery_or_invention: 1841-01-01T00:00:00Z
-different_from: '[[_Standards/WikiData/WD~Perm,915]]'
+different_from: '[[_Standards/WikiData/WD~Perm,915|WD~Perm,915]]'
 Commons_category: Permian
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20275%20Ma%20%28Kungurian%20Age%29.png
 sRGB_color_hex_triplet: F04028
@@ -243,12 +243,12 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 298.9 to 251.902 million years ago. 
 
-![[../../../../../xLarge/Earth/Geology/Earth-265_Ma_(Wordian_Age).png]] 
+![[../../../../../xLarge/Earth/Geology/Earth-265_Ma_(Wordian_Age).png|Earth-265_Ma_(Wordian_Age).png]] 
 
 
 ## #has_/text_of_/abstract 
 
-> The **Permian** ( PUR-mee-ən) is a geologic period and stratigraphic system which spans 47 million years from the end of the [[Period-0359~Carboniferous]] 298.9 million years ago (Mya), to the beginning of the [[../Era-0251~Mesozoic/Period-0252~Triassic|Period~1~Triassic]] 251.902 Mya. It is the last period of the Paleozoic Era; the following Triassic Period belongs to the [[../Era-0251~Mesozoic]]. 
+> The **Permian** ( PUR-mee-ən) is a geologic period and stratigraphic system which spans 47 million years from the end of the [[Period-0359~Carboniferous]] 298.9 million years ago (Mya), to the beginning of the [[../Era-0251~Mesozoic/Period-0252~Triassic|Period~1~Triassic]] 251.902 Mya. It is the last period of the Paleozoic Era; the following Triassic Period belongs to the [[../Era-0251~Mesozoic|Era-0251~Mesozoic]]. 
 > 
 > The concept of the Permian was introduced in 1841 by geologist Sir Roderick Murchison, who named it after the region of Perm in Russia.The Permian witnessed the diversification of the two groups of amniotes, the synapsids and the sauropsids (reptiles). The world at the time was dominated by the supercontinent Pangaea, which had formed due to the collision of Euramerica and Gondwana during the Carboniferous. Pangaea was surrounded by the superocean Panthalassa. The Carboniferous rainforest collapse left behind vast regions of desert within the continental interior. Amniotes, which could better cope with these drier conditions, rose to dominance in place of their amphibian ancestors.
 >

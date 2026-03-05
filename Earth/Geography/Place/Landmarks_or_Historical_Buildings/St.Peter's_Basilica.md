@@ -143,49 +143,49 @@ aliases:
 - 聖伯多祿大殿
 - 성 베드로 대성전
 has_id_wikidata: Q12512
-founded_by: '[[_Standards/WikiData/WD~Julius_II,80516]]'
-located_on_street: "[[_Standards/WikiData/WD~Saint_Peter's_Square,83425]]"
+founded_by: '[[_Standards/WikiData/WD~Julius_II,80516|WD~Julius_II,80516]]'
+located_on_street: "[[_Standards/WikiData/WD~Saint_Peter's_Square,83425|WD~Saint_Peter's_Square,83425]]"
 architect:
-- '[[_Standards/WikiData/WD~Carlo_Maderno,122328]]'
-- '[[_Standards/WikiData/WD~Gian_Lorenzo_Bernini,160538]]'
-- '[[_Standards/WikiData/WD~Giacomo_della_Porta,175566]]'
-- '[[_Standards/WikiData/WD~Baldassare_Peruzzi,177213]]'
-- '[[_Standards/WikiData/WD~Giacomo_Barozzi_da_Vignola,297565]]'
-- '[[_Standards/WikiData/WD~Giuliano_da_Sangallo,312365]]'
-- '[[_Standards/WikiData/WD~Bernardo_Rossellino,325930]]'
-- '[[_Standards/WikiData/WD~Antonio_da_Sangallo_the_Younger,357276]]'
-- '[[_Standards/WikiData/WD~Pirro_Ligorio,736090]]'
-- '[[_Standards/WikiData/WD~Giovanni_Giocondo,5585]]'
-- '[[_Standards/WikiData/WD~Michelangelo,5592]]'
-- '[[_Standards/WikiData/WD~Raphael,5597]]'
-- '[[_Standards/WikiData/WD~Donato_Bramante,7793]]'
+- '[[_Standards/WikiData/WD~Carlo_Maderno,122328|WD~Carlo_Maderno,122328]]'
+- '[[_Standards/WikiData/WD~Gian_Lorenzo_Bernini,160538|WD~Gian_Lorenzo_Bernini,160538]]'
+- '[[_Standards/WikiData/WD~Giacomo_della_Porta,175566|WD~Giacomo_della_Porta,175566]]'
+- '[[_Standards/WikiData/WD~Baldassare_Peruzzi,177213|WD~Baldassare_Peruzzi,177213]]'
+- '[[_Standards/WikiData/WD~Giacomo_Barozzi_da_Vignola,297565|WD~Giacomo_Barozzi_da_Vignola,297565]]'
+- '[[_Standards/WikiData/WD~Giuliano_da_Sangallo,312365|WD~Giuliano_da_Sangallo,312365]]'
+- '[[_Standards/WikiData/WD~Bernardo_Rossellino,325930|WD~Bernardo_Rossellino,325930]]'
+- '[[_Standards/WikiData/WD~Antonio_da_Sangallo_the_Younger,357276|WD~Antonio_da_Sangallo_the_Younger,357276]]'
+- '[[_Standards/WikiData/WD~Pirro_Ligorio,736090|WD~Pirro_Ligorio,736090]]'
+- '[[_Standards/WikiData/WD~Giovanni_Giocondo,5585|WD~Giovanni_Giocondo,5585]]'
+- '[[_Standards/WikiData/WD~Michelangelo,5592|WD~Michelangelo,5592]]'
+- '[[_Standards/WikiData/WD~Raphael,5597|WD~Raphael,5597]]'
+- '[[_Standards/WikiData/WD~Donato_Bramante,7793|WD~Donato_Bramante,7793]]'
 instance_of:
-- '[[_Standards/WikiData/WD~major_basilica,124936]]'
-- '[[_Standards/WikiData/WD~parish_church,317557]]'
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
-- '[[_Standards/WikiData/WD~papal_basilica,2713379]]'
-- '[[_Standards/WikiData/WD~patriarchal_basilica,15487029]]'
+- '[[_Standards/WikiData/WD~major_basilica,124936|WD~major_basilica,124936]]'
+- '[[_Standards/WikiData/WD~parish_church,317557|WD~parish_church,317557]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~architectural_landmark,2319498|WD~architectural_landmark,2319498]]'
+- '[[_Standards/WikiData/WD~papal_basilica,2713379|WD~papal_basilica,2713379]]'
+- '[[_Standards/WikiData/WD~patriarchal_basilica,15487029|WD~patriarchal_basilica,15487029]]'
 architectural_style:
-- '[[_Standards/WikiData/WD~Renaissance_architecture,236122]]'
-- '[[_Standards/WikiData/WD~baroque_architecture,840829]]'
-award_received: '[[_Standards/WikiData/WD~Golden_Rose,367484]]'
-diocese: '[[_Standards/WikiData/WD~Diocese_of_Rome,665037]]'
-Christian_liturgical_rite: '[[_Standards/WikiData/WD~Roman_Rite,730757]]'
-structure_replaces: "[[_Standards/WikiData/WD~Old_St._Peter's_Basilica,810126]]"
+- '[[_Standards/WikiData/WD~Renaissance_architecture,236122|WD~Renaissance_architecture,236122]]'
+- '[[_Standards/WikiData/WD~baroque_architecture,840829|WD~baroque_architecture,840829]]'
+award_received: '[[_Standards/WikiData/WD~Golden_Rose,367484|WD~Golden_Rose,367484]]'
+diocese: '[[_Standards/WikiData/WD~Diocese_of_Rome,665037|WD~Diocese_of_Rome,665037]]'
+Christian_liturgical_rite: '[[_Standards/WikiData/WD~Roman_Rite,730757|WD~Roman_Rite,730757]]'
+structure_replaces: "[[_Standards/WikiData/WD~Old_St._Peter's_Basilica,810126|WD~Old_St._Peter's_Basilica,810126]]"
 significant_event:
-- '[[_Standards/WikiData/WD~dedication,1762010]]'
-- '[[_Standards/WikiData/WD~start_of_construction,27136782]]'
+- '[[_Standards/WikiData/WD~dedication,1762010|WD~dedication,1762010]]'
+- '[[_Standards/WikiData/WD~start_of_construction,27136782|WD~start_of_construction,27136782]]'
 part_of:
-- '[[_Standards/WikiData/WD~Seven_Pilgrim_Churches_of_Rome,2166566]]'
-- '[[_Standards/WikiData/WD~Vatican_City,237]]'
+- '[[_Standards/WikiData/WD~Seven_Pilgrim_Churches_of_Rome,2166566|WD~Seven_Pilgrim_Churches_of_Rome,2166566]]'
+- '[[_Standards/WikiData/WD~Vatican_City,237|WD~Vatican_City,237]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_Altars_and_Altarpieces_of_New_St._Peter's,116764361]]"
-has_part_s_: '[[_Standards/WikiData/WD~Tomb_of_Pope_Leo_XI,20897993]]'
-heritage_designation: '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Archpriest_of_St._Peter's_Basilica,_Vatican_City,105848309]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_Altars_and_Altarpieces_of_New_St._Peter's,116764361|WD~The_Altars_and_Altarpieces_of_New_St._Peter's,116764361]]"
+has_part_s_: '[[_Standards/WikiData/WD~Tomb_of_Pope_Leo_XI,20897993|WD~Tomb_of_Pope_Leo_XI,20897993]]'
+heritage_designation: '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623|WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Archpriest_of_St._Peter's_Basilica,_Vatican_City,105848309|WD~Archpriest_of_St._Peter's_Basilica,_Vatican_City,105848309]]"
 name:
 - church of the Prince of the Apostles
 - S. Piero
@@ -199,18 +199,18 @@ ISNI: 85215588
 hashtag:
 - BasilicaDiSanPietro
 - StPetersBasilica
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Vatican_City,237]]'
-country: '[[_Standards/WikiData/WD~Vatican_City,237]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Vatican_City,237|WD~Vatican_City,237]]'
+country: '[[_Standards/WikiData/WD~Vatican_City,237|WD~Vatican_City,237]]'
 visitors_per_year: 11000000
 width: 150
 length: 220
-dedicated_to: '[[_Standards/WikiData/WD~Saint_Peter,33923]]'
-patron_saint: '[[_Standards/WikiData/WD~Saint_Peter,33923]]'
-named_after: '[[_Standards/WikiData/WD~Saint_Peter,33923]]'
+dedicated_to: '[[_Standards/WikiData/WD~Saint_Peter,33923|WD~Saint_Peter,33923]]'
+patron_saint: '[[_Standards/WikiData/WD~Saint_Peter,33923|WD~Saint_Peter,33923]]'
+named_after: '[[_Standards/WikiData/WD~Saint_Peter,33923|WD~Saint_Peter,33923]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~marble,40861]]'
-- '[[_Standards/WikiData/WD~cement,45190]]'
+- '[[_Standards/WikiData/WD~marble,40861|WD~marble,40861]]'
+- '[[_Standards/WikiData/WD~cement,45190|WD~cement,45190]]'
 height: 136.6
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20di%20San%20Pietro%20%28notte%29.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20di%20San%20Pietro%20in%20Vaticano%20September%202015-1a.jpg
@@ -372,7 +372,7 @@ dv_has_:
 
 #is_/same_as :: [[../../../../WikiData/WD~St._Peter's_Basilica,12512|WD~St._Peter's_Basilica,12512]] 
 
-![[../../../../assets/St.Peter's_Basilica.png]] 
+![[../../../../assets/St.Peter's_Basilica.png|St.Peter's_Basilica.png]] 
 
 ## #has_/map  
 

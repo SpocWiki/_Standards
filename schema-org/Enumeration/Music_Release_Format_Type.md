@@ -26,7 +26,7 @@ tags:
 title: is_a_music_release_format_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type|Music_Release_Format_Type]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type.personal|Music_Release_Format_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type.secret|Music_Release_Format_Type.secret]]"
     - "[[Music_Release_Format_Type]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Music_Release_Format_Type]]"
   - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type.public|Music_Release_Format_Type.public]]"

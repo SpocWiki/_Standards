@@ -69,20 +69,20 @@ aliases:
 - 슈퍼히어로
 has_id_wikidata: Q188784
 uses:
-- '[[_Standards/WikiData/WD~situation_awareness,478123]]'
-- '[[_Standards/WikiData/WD~superpower,1047698]]'
-- '[[_Standards/WikiData/WD~hero_name,67094518]]'
+- '[[_Standards/WikiData/WD~situation_awareness,478123|WD~situation_awareness,478123]]'
+- '[[_Standards/WikiData/WD~superpower,1047698|WD~superpower,1047698]]'
+- '[[_Standards/WikiData/WD~hero_name,67094518|WD~hero_name,67094518]]'
 instance_of:
-- '[[_Standards/WikiData/WD~stock_character,636497]]'
-- '[[_Standards/WikiData/WD~pattern_of_behavior,2515887]]'
-- '[[_Standards/WikiData/WD~fictional_profession,17305127]]'
-fictional_or_mythical_analog_of: '[[_Standards/WikiData/WD~real_life_superhero,1143338]]'
-opposite_of: '[[_Standards/WikiData/WD~supervillain,6498903]]'
-facet_of: '[[_Standards/WikiData/WD~superhero_fiction,7643432]]'
+- '[[_Standards/WikiData/WD~stock_character,636497|WD~stock_character,636497]]'
+- '[[_Standards/WikiData/WD~pattern_of_behavior,2515887|WD~pattern_of_behavior,2515887]]'
+- '[[_Standards/WikiData/WD~fictional_profession,17305127|WD~fictional_profession,17305127]]'
+fictional_or_mythical_analog_of: '[[_Standards/WikiData/WD~real_life_superhero,1143338|WD~real_life_superhero,1143338]]'
+opposite_of: '[[_Standards/WikiData/WD~supervillain,6498903|WD~supervillain,6498903]]'
+facet_of: '[[_Standards/WikiData/WD~superhero_fiction,7643432|WD~superhero_fiction,7643432]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~superhuman,7643449]]'
-- '[[_Standards/WikiData/WD~hero,25535646]]'
-has_list: '[[_Standards/WikiData/WD~Q11879642,11879642]]'
+- '[[_Standards/WikiData/WD~superhuman,7643449|WD~superhuman,7643449]]'
+- '[[_Standards/WikiData/WD~hero,25535646|WD~hero,25535646]]'
+has_list: '[[_Standards/WikiData/WD~Q11879642,11879642|WD~Q11879642,11879642]]'
 properties_for_this_type:
 - member of
 - from narrative universe

@@ -40,7 +40,7 @@ dv_has_:
     - "[[Medical_Audience|Medical_Audience]]"
     - "[[People_Audience/Parent_Audience|Parent_Audience]]"
   parent_class:
-    - "[[../Audience]]"
+    - "[[../Audience|Audience]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -66,7 +66,7 @@ dv_has_:
     - "[[suggested_min_age|suggested_min_age]]"
     - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../Audience]]"
+  - "[[../Audience|Audience]]"
 dv_has_child_class:
   - "[[Medical_Audience|Medical_Audience]]"
   - "[[People_Audience/Parent_Audience|Parent_Audience]]"

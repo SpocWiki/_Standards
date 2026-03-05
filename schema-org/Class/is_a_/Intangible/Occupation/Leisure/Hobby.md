@@ -65,11 +65,11 @@ aliases:
 - 趣味
 - 취미
 has_id_wikidata: Q47728
-subclass_of: '[[_Standards/WikiData/WD~recreation,184872]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-has_list: '[[_Standards/WikiData/WD~list_of_hobbies,6623388]]'
-practiced_by: '[[_Standards/WikiData/WD~hobbyist,65720209]]'
-opposite_of: '[[_Standards/WikiData/WD~profession,28640]]'
+subclass_of: '[[_Standards/WikiData/WD~recreation,184872|WD~recreation,184872]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+has_list: '[[_Standards/WikiData/WD~list_of_hobbies,6623388|WD~list_of_hobbies,6623388]]'
+practiced_by: '[[_Standards/WikiData/WD~hobbyist,65720209|WD~hobbyist,65720209]]'
+opposite_of: '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 IAB_code: 239
 social_media_followers: 64025
 subreddit: Hobbies
@@ -83,7 +83,7 @@ IPTC_NewsCode: mediatopic/20000550
 Library_of_Congress_Classification: GV1201.5
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~hobby,47728]]'
+  - '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
   - '[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby|Hobby]]'
   - '[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.public|Hobby.public]]'
   - '[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.internal|Hobby.internal]]'
@@ -93,7 +93,7 @@ dv_is_:
   - '[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.secret|Hobby.secret]]'
   - '[[Hobby]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
 - '[[Hobby]]'
 - '[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.public|Hobby.public]]'
 - '[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.internal|Hobby.internal]]'
@@ -218,7 +218,7 @@ dv_has_:
 
 # [[Hobby]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~hobby,47728]] 
+#is_/same_as :: [[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]] 
 
 ## #has_/text_of_/abstract 
 

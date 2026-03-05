@@ -38,7 +38,7 @@ dv_is_:
     - "[[User_Downloads]]"
 dv_has_:
   parent_class:
-    - "[[../UserInteraction]]"
+    - "[[../UserInteraction|UserInteraction]]"
   properties:
     - "[[about|about]]"
     - "[[../../../../Relation/has/has_actor|has_actor]]"
@@ -94,7 +94,7 @@ dv_has_:
     - "[[../../../../Relation/has/has_work/has_work_featured|has_work_featured]]"
     - "[[../../../../Relation/has/has_work/has_work_performed|has_work_performed]]"
 dv_has_parent_class:
-  - "[[../user_interaction|../user_interaction]]"
+  - "[[../user_interaction|../user_interaction|user_interaction]]"
 dv_has_properties:
   - "[[about|about]]"
   - "[[../../../../Relation/has/has_actor|has_actor]]"
@@ -162,7 +162,7 @@ dv_is_same_as:
 Class of all [[user_downloads]].
 
 [[User_Interaction]] and its subtypes are an old way of counting users interacting with pages. 
-It is generally better to use [[../Intangible/structured_value/interaction_counter|InteractionCounter]]s with an [[../../../Relation/has/has_interaction_type|interaction-type]]- Relation to the extensible [[Action]] vocabulary, in this case [[../../action/transfer_action/download_action|Download-Action]], alongside types such as [[../../../../../Society/Communication/Media/Creative_Work/Comment]].
+It is generally better to use [[../Intangible/structured_value/interaction_counter|InteractionCounter]]s with an [[../../../Relation/has/has_interaction_type|interaction-type]]- Relation to the extensible [[Action]] vocabulary, in this case [[../../action/transfer_action/download_action|Download-Action]], alongside types such as [[../../../../../Society/Communication/Media/Creative_Work/Comment|Comment]].
 
 Tag Instances like this: 
 #is_a_/user_downloads

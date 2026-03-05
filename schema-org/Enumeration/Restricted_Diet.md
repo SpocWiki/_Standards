@@ -26,7 +26,7 @@ tags:
 title: is_a_restricted_diet Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Restricted_Diet|Restricted_Diet]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Restricted_Diet.personal|Restricted_Diet.personal]]"
     - "[[/_secret/schema-org/Enumeration/Restricted_Diet.secret|Restricted_Diet.secret]]"
     - "[[Restricted_Diet]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Restricted_Diet]]"
   - "[[/_public/schema-org/Enumeration/Restricted_Diet.public|Restricted_Diet.public]]"

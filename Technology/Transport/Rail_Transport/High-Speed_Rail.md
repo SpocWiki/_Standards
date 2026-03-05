@@ -69,26 +69,26 @@ aliases:
 - 高速铁路
 - 고속철도
 has_id_wikidata: Q211382
-model_item: '[[_Standards/WikiData/WD~Tōkaidō_Shinkansen,660895]]'
+model_item: '[[_Standards/WikiData/WD~Tōkaidō_Shinkansen,660895|WD~Tōkaidō_Shinkansen,660895]]'
 has_use:
-- '[[_Standards/WikiData/WD~climate_change_mitigation,898653]]'
-- '[[_Standards/WikiData/WD~inter_city_rail,1022147]]'
-- '[[_Standards/WikiData/WD~rail_transport,3565868]]'
-does_not_have_part: '[[_Standards/WikiData/WD~narrow_gauge_railway,1112477]]'
+- '[[_Standards/WikiData/WD~climate_change_mitigation,898653|WD~climate_change_mitigation,898653]]'
+- '[[_Standards/WikiData/WD~inter_city_rail,1022147|WD~inter_city_rail,1022147]]'
+- '[[_Standards/WikiData/WD~rail_transport,3565868|WD~rail_transport,3565868]]'
+does_not_have_part: '[[_Standards/WikiData/WD~narrow_gauge_railway,1112477|WD~narrow_gauge_railway,1112477]]'
 track_gauge:
-- '[[_Standards/WikiData/WD~1520_mm_track_gauge,1197451]]'
-- '[[_Standards/WikiData/WD~standard_gauge_railway,1999572]]'
+- '[[_Standards/WikiData/WD~1520_mm_track_gauge,1197451|WD~1520_mm_track_gauge,1197451]]'
+- '[[_Standards/WikiData/WD~standard_gauge_railway,1999572|WD~standard_gauge_railway,1999572]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~grade_separation,1643599]]'
-- '[[_Standards/WikiData/WD~speed,3711325]]'
+- '[[_Standards/WikiData/WD~grade_separation,1643599|WD~grade_separation,1643599]]'
+- '[[_Standards/WikiData/WD~speed,3711325|WD~speed,3711325]]'
 different_from:
-- '[[_Standards/WikiData/WD~higher_speed_rail,4422352]]'
-- '[[_Standards/WikiData/WD~high_speed_train,13402959]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_High_speed_rail,6279565]]'
-subclass_of: '[[_Standards/WikiData/WD~railway_system,16608251]]'
-instance_of: '[[_Standards/WikiData/WD~train_and_rail_category,16858238]]'
-uses: '[[_Standards/WikiData/WD~electricity,12725]]'
-country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~higher_speed_rail,4422352|WD~higher_speed_rail,4422352]]'
+- '[[_Standards/WikiData/WD~high_speed_train,13402959|WD~high_speed_train,13402959]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_High_speed_rail,6279565|WD~Template_High_speed_rail,6279565]]'
+subclass_of: '[[_Standards/WikiData/WD~railway_system,16608251|WD~railway_system,16608251]]'
+instance_of: '[[_Standards/WikiData/WD~train_and_rail_category,16858238|WD~train_and_rail_category,16858238]]'
+uses: '[[_Standards/WikiData/WD~electricity,12725|WD~electricity,12725]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
 inception: 1964-01-01T00:00:00Z
 Commons_gallery: High speed trains
 Commons_category: High speed trains

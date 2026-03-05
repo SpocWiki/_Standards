@@ -169,8 +169,8 @@ aliases:
 #has_/location_/created:: [[Schaumburg,Illinois]]  
 #has_/time_/stopped  :: 2011-01-04 
 
-#has_/logo ::  [[../../../assets/Motorola-Logo.svg]]
-![[../../../assets/Motorola-Logo.svg]]
+#has_/logo ::  [[../../../assets/Motorola-Logo.svg|Motorola-Logo.svg]]
+![[../../../assets/Motorola-Logo.svg|Motorola-Logo.svg]]
 
 > **Motorola**, Inc. () was an American multinational telecommunications company 
 > based in Schaumburg, Illinois. 

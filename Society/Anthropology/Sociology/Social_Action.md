@@ -50,17 +50,17 @@ aliases:
 - 사회적 활동
 has_id_wikidata: Q769620
 facet_of:
-- '[[_Standards/WikiData/WD~social_policy,828395]]'
-- '[[_Standards/WikiData/WD~social_issue,1920219]]'
+- '[[_Standards/WikiData/WD~social_policy,828395|WD~social_policy,828395]]'
+- '[[_Standards/WikiData/WD~social_issue,1920219|WD~social_issue,1920219]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_process,2305441]]'
-- '[[_Standards/WikiData/WD~action,4026292]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~social_process,2305441|WD~social_process,2305441]]'
+- '[[_Standards/WikiData/WD~action,4026292|WD~action,4026292]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 different_from:
-- '[[_Standards/WikiData/WD~Azione_sociale,3631535]]'
-- '[[_Standards/WikiData/WD~Działanie,9248232]]'
-- '[[_Standards/WikiData/WD~social_action,60963421]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9425610,9425610]]'
+- '[[_Standards/WikiData/WD~Azione_sociale,3631535|WD~Azione_sociale,3631535]]'
+- '[[_Standards/WikiData/WD~Działanie,9248232|WD~Działanie,9248232]]'
+- '[[_Standards/WikiData/WD~social_action,60963421|WD~social_action,60963421]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9425610,9425610|WD~Q9425610,9425610]]'
 Wolfram_Language_entity_code: Entity["Concept", "SocialAction::289f8"]
 dv_has_:
   name_:

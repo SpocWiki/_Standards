@@ -40,22 +40,22 @@ aliases:
 - 瑪淇淋
 - 마가린
 has_id_wikidata: Q4287
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Hippolyte_Mège_Mouriès,554521]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Hippolyte_Mège_Mouriès,554521|WD~Hippolyte_Mège_Mouriès,554521]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 has_use:
-- '[[_Standards/WikiData/WD~spread,1472481]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~spread,1472481|WD~spread,1472481]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~fat_spread,1727434]]'
-- '[[_Standards/WikiData/WD~vegetable_fat,11870297]]'
-- '[[_Standards/WikiData/WD~margarine_and_similar_edible_fats,27908772]]'
-- '[[_Standards/WikiData/WD~Margarines,_spreads,_mayonnaise_and_other_fatty_emulsion_products,27918613]]'
-made_from_material: '[[_Standards/WikiData/WD~vegetable_oil,4739805]]'
-country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
-simulates: '[[_Standards/WikiData/WD~butter,34172]]'
+- '[[_Standards/WikiData/WD~fat_spread,1727434|WD~fat_spread,1727434]]'
+- '[[_Standards/WikiData/WD~vegetable_fat,11870297|WD~vegetable_fat,11870297]]'
+- '[[_Standards/WikiData/WD~margarine_and_similar_edible_fats,27908772|WD~margarine_and_similar_edible_fats,27908772]]'
+- '[[_Standards/WikiData/WD~Margarines,_spreads,_mayonnaise_and_other_fatty_emulsion_products,27918613|WD~Margarines,_spreads,_mayonnaise_and_other_fatty_emulsion_products,27918613]]'
+made_from_material: '[[_Standards/WikiData/WD~vegetable_oil,4739805|WD~vegetable_oil,4739805]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+simulates: '[[_Standards/WikiData/WD~butter,34172|WD~butter,34172]]'
 USDA_NDB_number:
 - 04585
 - 04613

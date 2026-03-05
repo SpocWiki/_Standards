@@ -39,9 +39,9 @@ aliases:
 - 第十期
 has_id_wikidata: Q5025305
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -486850000-01-01T00:00:00Z
 sRGB_color_hex_triplet: E6F5C9
 start_time: -491000000-01-01T00:00:00Z
@@ -175,7 +175,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 489.5 to 485.4 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-495_Ma_(Paibian_Stage).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-495_Ma_(Paibian_Stage).png|Earth-495_Ma_(Paibian_Stage).png]] 
 
 ## #has_/text_of_/abstract 
 

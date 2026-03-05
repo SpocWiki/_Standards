@@ -54,16 +54,16 @@ aliases:
 - 매너리즘
 has_id_wikidata: Q131808
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~style,1292119]]'
-- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-- '[[_Standards/WikiData/WD~architectural_style,32880]]'
-different_from: '[[_Standards/WikiData/WD~mannerism,1890336]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~style,1292119|WD~style,1292119]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855|WD~cultural_movement,2198855]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880|WD~architectural_style,32880]]'
+different_from: '[[_Standards/WikiData/WD~mannerism,1890336|WD~mannerism,1890336]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 end_time: 1600-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20003b.jpg
 Commons_gallery: Mannerism

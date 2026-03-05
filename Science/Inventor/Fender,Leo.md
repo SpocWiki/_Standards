@@ -19,27 +19,27 @@ aliases:
 - 리오 펜더
 has_id_wikidata: Q297469
 award_received:
-- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-- '[[_Standards/WikiData/WD~Technical_Grammy_Award,17011048]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191|WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Technical_Grammy_Award,17011048|WD~Technical_Grammy_Award,17011048]]'
 occupation:
-- '[[_Standards/WikiData/WD~inventor,205375]]'
-- '[[_Standards/WikiData/WD~guitar_maker,450202]]'
-- '[[_Standards/WikiData/WD~luthier,762707]]'
-- '[[_Standards/WikiData/WD~musical_instrument_maker,1955150]]'
-- '[[_Standards/WikiData/WD~businessperson,43845]]'
-place_of_death: '[[_Standards/WikiData/WD~Fullerton,494723]]'
-given_name: '[[_Standards/WikiData/WD~Leo,606764]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-educated_at: '[[_Standards/WikiData/WD~Fullerton_Union_High_School,5508304]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-family_name: '[[_Standards/WikiData/WD~Fender,16869924]]'
-place_of_burial: '[[_Standards/WikiData/WD~Fairhaven_Memorial_Park,99617577]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
-cause_of_death: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
-place_of_birth: '[[_Standards/WikiData/WD~Anaheim,49247]]'
+- '[[_Standards/WikiData/WD~inventor,205375|WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~guitar_maker,450202|WD~guitar_maker,450202]]'
+- '[[_Standards/WikiData/WD~luthier,762707|WD~luthier,762707]]'
+- '[[_Standards/WikiData/WD~musical_instrument_maker,1955150|WD~musical_instrument_maker,1955150]]'
+- '[[_Standards/WikiData/WD~businessperson,43845|WD~businessperson,43845]]'
+place_of_death: '[[_Standards/WikiData/WD~Fullerton,494723|WD~Fullerton,494723]]'
+given_name: '[[_Standards/WikiData/WD~Leo,606764|WD~Leo,606764]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+educated_at: '[[_Standards/WikiData/WD~Fullerton_Union_High_School,5508304|WD~Fullerton_Union_High_School,5508304]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Fender,16869924|WD~Fender,16869924]]'
+place_of_burial: '[[_Standards/WikiData/WD~Fairhaven_Memorial_Park,99617577|WD~Fairhaven_Memorial_Park,99617577]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085|WD~Parkinson's_disease,11085]]"
+cause_of_death: "[[_Standards/WikiData/WD~Parkinson's_disease,11085|WD~Parkinson's_disease,11085]]"
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+place_of_birth: '[[_Standards/WikiData/WD~Anaheim,49247|WD~Anaheim,49247]]'
 Commons_Creator_page: Leo Fender
 Commons_category: Leo Fender
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FGF%20museum%2001.%20Leo%20and%20early%20models.jpg

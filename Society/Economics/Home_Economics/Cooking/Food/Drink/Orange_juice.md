@@ -66,11 +66,11 @@ aliases:
 - 오렌지 주스
 has_id_wikidata: Q219059
 different_from:
-- '[[_Standards/WikiData/WD~orange_soft_drink,604712]]'
-- '[[_Standards/WikiData/WD~orange_drink,7099769]]'
-subclass_of: '[[_Standards/WikiData/WD~citrus_juice,104126379]]'
-has_part_s_: '[[_Standards/WikiData/WD~orange,13191]]'
-made_from_material: '[[_Standards/WikiData/WD~orange,13191]]'
+- '[[_Standards/WikiData/WD~orange_soft_drink,604712|WD~orange_soft_drink,604712]]'
+- '[[_Standards/WikiData/WD~orange_drink,7099769|WD~orange_drink,7099769]]'
+subclass_of: '[[_Standards/WikiData/WD~citrus_juice,104126379|WD~citrus_juice,104126379]]'
+has_part_s_: '[[_Standards/WikiData/WD~orange,13191|WD~orange,13191]]'
+made_from_material: '[[_Standards/WikiData/WD~orange,13191|WD~orange,13191]]'
 pH_value: 3.6
 water_footprint: 1018
 USDA_NDB_number:

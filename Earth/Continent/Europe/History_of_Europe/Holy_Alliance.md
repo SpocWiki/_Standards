@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Holy_Alliance,154640]]'
+  - '[[../../../../WikiData/WD~Holy_Alliance,154640|WD~Holy_Alliance,154640]]'
   - '[[/_Standards/Earth/Continent/Europe/History_of_Europe/Holy_Alliance|Holy_Alliance]]'
   - '[[/_public/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.public|Holy_Alliance.public]]'
   - '[[/_internal/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.internal|Holy_Alliance.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.personal|Holy_Alliance.personal]]'
   - '[[/_secret/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.secret|Holy_Alliance.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Holy_Alliance,154640]]'
+- '[[../../../../WikiData/WD~Holy_Alliance,154640|WD~Holy_Alliance,154640]]'
 - '[[/_Standards/Earth/Continent/Europe/History_of_Europe/Holy_Alliance|Holy_Alliance]]'
 - '[[/_public/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.public|Holy_Alliance.public]]'
 - '[[/_internal/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.internal|Holy_Alliance.internal]]'
@@ -79,23 +79,23 @@ aliases:
 - 신성 동맹
 has_id_wikidata: Q154640
 signatory:
-- '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
-- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~Austrian_Empire,131964|WD~Austrian_Empire,131964]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306|WD~Kingdom_of_Prussia,27306]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
-- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~Austrian_Empire,131964|WD~Austrian_Empire,131964]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306|WD~Kingdom_of_Prussia,27306]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~military_alliance,1127126]]'
-locations: '[[_Standards/WikiData/WD~Paris,90]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~military_alliance,1127126|WD~military_alliance,1127126]]'
+locations: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
 Library_of_Congress_Classification: KZ1358-KZ1358.3
 BHCL_UUID: 6e56e916-9e63-4988-8fbb-927b7a309dd7
 start_time: 1815-09-26T00:00:00Z

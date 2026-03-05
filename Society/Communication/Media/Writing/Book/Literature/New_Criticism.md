@@ -32,7 +32,7 @@ aliases:
 - 新批評
 - 新批评
 has_id_wikidata: Q742302
-instance_of: '[[_Standards/WikiData/WD~literary_theory,459381]]'
+instance_of: '[[_Standards/WikiData/WD~literary_theory,459381|WD~literary_theory,459381]]'
 dv_has_:
   name_:
     ar: نقد جديد

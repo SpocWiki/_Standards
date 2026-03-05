@@ -327,7 +327,7 @@ dv_UNTERM_Chinese_Formal: 老挝人民民主共和国
 dv_UNTERM_French_Formal: la République démocratique populaire lao
 dv_UNTERM_Russian: Лаосская Народно-Демократическая Республика
 dv_UNTERM_Russian_Formal: Лаосская Народно-Демократическая Республика
-dv_Region_Name: '[[../../Asia]]'
+dv_Region_Name: '[[../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Laos]]'
 dv_Sub-region_Name: '[[South-eastern Asia]]'
 dv_Region: 142
@@ -364,9 +364,9 @@ dv_is_:
 dv_has_name_de: Lao People's Democratic Republic
 dv_Area-Total: 236800
 dv_Area-Land: 230800
-dv_has_place_continent: '[[../../Asia]]'
+dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: LAO
-dv_Capital: '[[Laos/Counties/Vientiane]]'
+dv_Capital: '[[Laos/Counties/Vientiane|Vientiane]]'
 dv_Alcohol-l: 6.7
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 102.6
@@ -483,156 +483,156 @@ aliases:
 - 라오스
 has_id_wikidata: Q819
 instance_of:
-- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
-- "[[_Standards/WikiData/WD~people's_republic,465613]]"
-- '[[_Standards/WikiData/WD~communist_state,849866]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~landlocked_country,123480|WD~landlocked_country,123480]]'
+- "[[_Standards/WikiData/WD~people's_republic,465613|WD~people's_republic,465613]]"
+- '[[_Standards/WikiData/WD~communist_state,849866|WD~communist_state,849866]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 member_of:
-- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Association_of_South-East_Asian_Nations,7768]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-coat_of_arms: '[[_Standards/WikiData/WD~Emblem_of_Laos,201112]]'
-different_from: '[[_Standards/WikiData/WD~Popular_Orthodox_Rally,226085]]'
-highest_point: '[[_Standards/WikiData/WD~Phou_Bia,239485]]'
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981|WD~ASEAN_Regional_Forum,7886981]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Association_of_South-East_Asian_Nations,7768|WD~Association_of_South-East_Asian_Nations,7768]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Emblem_of_Laos,201112|WD~Emblem_of_Laos,201112]]'
+different_from: '[[_Standards/WikiData/WD~Popular_Orthodox_Rally,226085|WD~Popular_Orthodox_Rally,226085]]'
+highest_point: '[[_Standards/WikiData/WD~Phou_Bia,239485|WD~Phou_Bia,239485]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Salavan_Province,302656]]'
-- '[[_Standards/WikiData/WD~Phongsaly_Province,334868]]'
-- '[[_Standards/WikiData/WD~Bokeo_Province,334884]]'
-- '[[_Standards/WikiData/WD~Champasak_Province,334888]]'
-- '[[_Standards/WikiData/WD~Vientiane,390377]]'
-- '[[_Standards/WikiData/WD~Sainyabūlī,465929]]'
-- '[[_Standards/WikiData/WD~Savannakhet_Province,465940]]'
-- '[[_Standards/WikiData/WD~Xiangkhouang_Province,465947]]'
-- '[[_Standards/WikiData/WD~Udomsai,465961]]'
-- '[[_Standards/WikiData/WD~Hūaphan,502997]]'
-- '[[_Standards/WikiData/WD~Attapeu_Province,503004]]'
-- '[[_Standards/WikiData/WD~Khammouane_Province,506641]]'
-- '[[_Standards/WikiData/WD~Sekong_Province,585707]]'
-- '[[_Standards/WikiData/WD~Vientiane_Province,720066]]'
-- '[[_Standards/WikiData/WD~Luang_Prabang_Province,747881]]'
-- '[[_Standards/WikiData/WD~Lūang_Namthā,948691]]'
-- '[[_Standards/WikiData/WD~Bolikhamsai_Province,2403514]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Laos,402391]]'
+- '[[_Standards/WikiData/WD~Salavan_Province,302656|WD~Salavan_Province,302656]]'
+- '[[_Standards/WikiData/WD~Phongsaly_Province,334868|WD~Phongsaly_Province,334868]]'
+- '[[_Standards/WikiData/WD~Bokeo_Province,334884|WD~Bokeo_Province,334884]]'
+- '[[_Standards/WikiData/WD~Champasak_Province,334888|WD~Champasak_Province,334888]]'
+- '[[_Standards/WikiData/WD~Vientiane,390377|WD~Vientiane,390377]]'
+- '[[_Standards/WikiData/WD~Sainyabūlī,465929|WD~Sainyabūlī,465929]]'
+- '[[_Standards/WikiData/WD~Savannakhet_Province,465940|WD~Savannakhet_Province,465940]]'
+- '[[_Standards/WikiData/WD~Xiangkhouang_Province,465947|WD~Xiangkhouang_Province,465947]]'
+- '[[_Standards/WikiData/WD~Udomsai,465961|WD~Udomsai,465961]]'
+- '[[_Standards/WikiData/WD~Hūaphan,502997|WD~Hūaphan,502997]]'
+- '[[_Standards/WikiData/WD~Attapeu_Province,503004|WD~Attapeu_Province,503004]]'
+- '[[_Standards/WikiData/WD~Khammouane_Province,506641|WD~Khammouane_Province,506641]]'
+- '[[_Standards/WikiData/WD~Sekong_Province,585707|WD~Sekong_Province,585707]]'
+- '[[_Standards/WikiData/WD~Vientiane_Province,720066|WD~Vientiane_Province,720066]]'
+- '[[_Standards/WikiData/WD~Luang_Prabang_Province,747881|WD~Luang_Prabang_Province,747881]]'
+- '[[_Standards/WikiData/WD~Lūang_Namthā,948691|WD~Lūang_Namthā,948691]]'
+- '[[_Standards/WikiData/WD~Bolikhamsai_Province,2403514|WD~Bolikhamsai_Province,2403514]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Laos,402391|WD~history_of_Laos,402391]]'
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~people's_republic,465613]]"
-- '[[_Standards/WikiData/WD~communist_dictatorship,117405807]]'
+- "[[_Standards/WikiData/WD~people's_republic,465613|WD~people's_republic,465613]]"
+- '[[_Standards/WikiData/WD~communist_dictatorship,117405807|WD~communist_dictatorship,117405807]]'
 language_used:
-- '[[_Standards/WikiData/WD~Northern_Thai,565110]]'
-- '[[_Standards/WikiData/WD~Kaduo,769809]]'
-- '[[_Standards/WikiData/WD~Iu_Mien,2498808]]'
-- '[[_Standards/WikiData/WD~Alak,2714690]]'
-- '[[_Standards/WikiData/WD~Bit,2904868]]'
-- '[[_Standards/WikiData/WD~Chut,2967709]]'
-- '[[_Standards/WikiData/WD~Ir,3071880]]'
-- '[[_Standards/WikiData/WD~Mlabri,3073465]]'
-- '[[_Standards/WikiData/WD~Sô,3082037]]'
-- '[[_Standards/WikiData/WD~Hmong_Njua,3138831]]'
-- '[[_Standards/WikiData/WD~Lamet,3216723]]'
-- '[[_Standards/WikiData/WD~Mal,3281057]]'
-- '[[_Standards/WikiData/WD~O_du,3347428]]'
-- '[[_Standards/WikiData/WD~Kiorr,3440883]]'
-- '[[_Standards/WikiData/WD~Pacoh,3441136]]'
-- '[[_Standards/WikiData/WD~Yoy,3503717]]'
-- '[[_Standards/WikiData/WD~Arem,3507920]]'
-- "[[_Standards/WikiData/WD~Upper_Ta'oih,3512660]]"
-- '[[_Standards/WikiData/WD~Phu_Thai,3626597]]'
-- '[[_Standards/WikiData/WD~Phong,3914627]]'
-- '[[_Standards/WikiData/WD~Duan,3914632]]'
-- '[[_Standards/WikiData/WD~Jeh,3914636]]'
-- '[[_Standards/WikiData/WD~Tai_Daeng,3915207]]'
-- '[[_Standards/WikiData/WD~Phuan,3915665]]'
-- '[[_Standards/WikiData/WD~Brao,4957737]]'
-- "[[_Standards/WikiData/WD~Jru',6298648]]"
-- '[[_Standards/WikiData/WD~Tai_Khang,6362363]]'
-- '[[_Standards/WikiData/WD~Katu,6378400]]'
-- '[[_Standards/WikiData/WD~Kiorr,6414519]]'
-- '[[_Standards/WikiData/WD~Kuan,6441085]]'
-- '[[_Standards/WikiData/WD~Laos_Sign_Language,6488022]]'
-- '[[_Standards/WikiData/WD~Maleng,6583562]]'
-- '[[_Standards/WikiData/WD~Nyaheun,7070801]]'
-- '[[_Standards/WikiData/WD~Phai,7180184]]'
-- '[[_Standards/WikiData/WD~Phana_,7180427]]'
-- '[[_Standards/WikiData/WD~Phunoi,7188361]]'
-- '[[_Standards/WikiData/WD~Sapuan,7421168]]'
-- '[[_Standards/WikiData/WD~Sila,7514021]]'
-- '[[_Standards/WikiData/WD~Tai_Yo,7675746]]'
-- '[[_Standards/WikiData/WD~Tai_Dón,7675751]]'
-- '[[_Standards/WikiData/WD~Tai_Loi,7675784]]'
-- '[[_Standards/WikiData/WD~Tai_Pao,7675795]]'
-- '[[_Standards/WikiData/WD~Bo,8845514]]'
-- '[[_Standards/WikiData/WD~Hung,12632753]]'
-- '[[_Standards/WikiData/WD~Laopan,12952711]]'
-- '[[_Standards/WikiData/WD~Ong,12953787]]'
-- '[[_Standards/WikiData/WD~Khua,13018510]]'
-- '[[_Standards/WikiData/WD~Lower_Ta_Oi,13018526]]'
-- '[[_Standards/WikiData/WD~Talieng,13018524]]'
-- '[[_Standards/WikiData/WD~Western_Bru,13018531]]'
-- '[[_Standards/WikiData/WD~Ngeq,13018598]]'
-- '[[_Standards/WikiData/WD~Khuen,13018596]]'
-- "[[_Standards/WikiData/WD~Su',13018608]]"
-- '[[_Standards/WikiData/WD~Oi,13018626]]'
-- '[[_Standards/WikiData/WD~Tai_Long,13018630]]'
-- '[[_Standards/WikiData/WD~Eastern_Bru,16115463]]'
-- '[[_Standards/WikiData/WD~Tareng,16306631]]'
-- '[[_Standards/WikiData/WD~Kang,25559558]]'
-- '[[_Standards/WikiData/WD~Chepya,46603077]]'
-- '[[_Standards/WikiData/WD~Lao,9211]]'
-- '[[_Standards/WikiData/WD~Khmu,33335]]'
-- '[[_Standards/WikiData/WD~Lahu,35780]]'
-- '[[_Standards/WikiData/WD~Saek,36437]]'
-- '[[_Standards/WikiData/WD~Tai_Lü,36948]]'
-- '[[_Standards/WikiData/WD~Halang,56307]]'
-- '[[_Standards/WikiData/WD~Kuy,56310]]'
-- '[[_Standards/WikiData/WD~Tai_Dam,56407]]'
-- '[[_Standards/WikiData/WD~Hani,56516]]'
-- '[[_Standards/WikiData/WD~Akha,56643]]'
-anthem: '[[_Standards/WikiData/WD~Pheng_Xat_Lao,623034]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Laos,778651]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Laos,781242]]'
+- '[[_Standards/WikiData/WD~Northern_Thai,565110|WD~Northern_Thai,565110]]'
+- '[[_Standards/WikiData/WD~Kaduo,769809|WD~Kaduo,769809]]'
+- '[[_Standards/WikiData/WD~Iu_Mien,2498808|WD~Iu_Mien,2498808]]'
+- '[[_Standards/WikiData/WD~Alak,2714690|WD~Alak,2714690]]'
+- '[[_Standards/WikiData/WD~Bit,2904868|WD~Bit,2904868]]'
+- '[[_Standards/WikiData/WD~Chut,2967709|WD~Chut,2967709]]'
+- '[[_Standards/WikiData/WD~Ir,3071880|WD~Ir,3071880]]'
+- '[[_Standards/WikiData/WD~Mlabri,3073465|WD~Mlabri,3073465]]'
+- '[[_Standards/WikiData/WD~Sô,3082037|WD~Sô,3082037]]'
+- '[[_Standards/WikiData/WD~Hmong_Njua,3138831|WD~Hmong_Njua,3138831]]'
+- '[[_Standards/WikiData/WD~Lamet,3216723|WD~Lamet,3216723]]'
+- '[[_Standards/WikiData/WD~Mal,3281057|WD~Mal,3281057]]'
+- '[[_Standards/WikiData/WD~O_du,3347428|WD~O_du,3347428]]'
+- '[[_Standards/WikiData/WD~Kiorr,3440883|WD~Kiorr,3440883]]'
+- '[[_Standards/WikiData/WD~Pacoh,3441136|WD~Pacoh,3441136]]'
+- '[[_Standards/WikiData/WD~Yoy,3503717|WD~Yoy,3503717]]'
+- '[[_Standards/WikiData/WD~Arem,3507920|WD~Arem,3507920]]'
+- "[[_Standards/WikiData/WD~Upper_Ta'oih,3512660|WD~Upper_Ta'oih,3512660]]"
+- '[[_Standards/WikiData/WD~Phu_Thai,3626597|WD~Phu_Thai,3626597]]'
+- '[[_Standards/WikiData/WD~Phong,3914627|WD~Phong,3914627]]'
+- '[[_Standards/WikiData/WD~Duan,3914632|WD~Duan,3914632]]'
+- '[[_Standards/WikiData/WD~Jeh,3914636|WD~Jeh,3914636]]'
+- '[[_Standards/WikiData/WD~Tai_Daeng,3915207|WD~Tai_Daeng,3915207]]'
+- '[[_Standards/WikiData/WD~Phuan,3915665|WD~Phuan,3915665]]'
+- '[[_Standards/WikiData/WD~Brao,4957737|WD~Brao,4957737]]'
+- "[[_Standards/WikiData/WD~Jru',6298648|WD~Jru',6298648]]"
+- '[[_Standards/WikiData/WD~Tai_Khang,6362363|WD~Tai_Khang,6362363]]'
+- '[[_Standards/WikiData/WD~Katu,6378400|WD~Katu,6378400]]'
+- '[[_Standards/WikiData/WD~Kiorr,6414519|WD~Kiorr,6414519]]'
+- '[[_Standards/WikiData/WD~Kuan,6441085|WD~Kuan,6441085]]'
+- '[[_Standards/WikiData/WD~Laos_Sign_Language,6488022|WD~Laos_Sign_Language,6488022]]'
+- '[[_Standards/WikiData/WD~Maleng,6583562|WD~Maleng,6583562]]'
+- '[[_Standards/WikiData/WD~Nyaheun,7070801|WD~Nyaheun,7070801]]'
+- '[[_Standards/WikiData/WD~Phai,7180184|WD~Phai,7180184]]'
+- '[[_Standards/WikiData/WD~Phana_,7180427|WD~Phana_,7180427]]'
+- '[[_Standards/WikiData/WD~Phunoi,7188361|WD~Phunoi,7188361]]'
+- '[[_Standards/WikiData/WD~Sapuan,7421168|WD~Sapuan,7421168]]'
+- '[[_Standards/WikiData/WD~Sila,7514021|WD~Sila,7514021]]'
+- '[[_Standards/WikiData/WD~Tai_Yo,7675746|WD~Tai_Yo,7675746]]'
+- '[[_Standards/WikiData/WD~Tai_Dón,7675751|WD~Tai_Dón,7675751]]'
+- '[[_Standards/WikiData/WD~Tai_Loi,7675784|WD~Tai_Loi,7675784]]'
+- '[[_Standards/WikiData/WD~Tai_Pao,7675795|WD~Tai_Pao,7675795]]'
+- '[[_Standards/WikiData/WD~Bo,8845514|WD~Bo,8845514]]'
+- '[[_Standards/WikiData/WD~Hung,12632753|WD~Hung,12632753]]'
+- '[[_Standards/WikiData/WD~Laopan,12952711|WD~Laopan,12952711]]'
+- '[[_Standards/WikiData/WD~Ong,12953787|WD~Ong,12953787]]'
+- '[[_Standards/WikiData/WD~Khua,13018510|WD~Khua,13018510]]'
+- '[[_Standards/WikiData/WD~Lower_Ta_Oi,13018526|WD~Lower_Ta_Oi,13018526]]'
+- '[[_Standards/WikiData/WD~Talieng,13018524|WD~Talieng,13018524]]'
+- '[[_Standards/WikiData/WD~Western_Bru,13018531|WD~Western_Bru,13018531]]'
+- '[[_Standards/WikiData/WD~Ngeq,13018598|WD~Ngeq,13018598]]'
+- '[[_Standards/WikiData/WD~Khuen,13018596|WD~Khuen,13018596]]'
+- "[[_Standards/WikiData/WD~Su',13018608|WD~Su',13018608]]"
+- '[[_Standards/WikiData/WD~Oi,13018626|WD~Oi,13018626]]'
+- '[[_Standards/WikiData/WD~Tai_Long,13018630|WD~Tai_Long,13018630]]'
+- '[[_Standards/WikiData/WD~Eastern_Bru,16115463|WD~Eastern_Bru,16115463]]'
+- '[[_Standards/WikiData/WD~Tareng,16306631|WD~Tareng,16306631]]'
+- '[[_Standards/WikiData/WD~Kang,25559558|WD~Kang,25559558]]'
+- '[[_Standards/WikiData/WD~Chepya,46603077|WD~Chepya,46603077]]'
+- '[[_Standards/WikiData/WD~Lao,9211|WD~Lao,9211]]'
+- '[[_Standards/WikiData/WD~Khmu,33335|WD~Khmu,33335]]'
+- '[[_Standards/WikiData/WD~Lahu,35780|WD~Lahu,35780]]'
+- '[[_Standards/WikiData/WD~Saek,36437|WD~Saek,36437]]'
+- '[[_Standards/WikiData/WD~Tai_Lü,36948|WD~Tai_Lü,36948]]'
+- '[[_Standards/WikiData/WD~Halang,56307|WD~Halang,56307]]'
+- '[[_Standards/WikiData/WD~Kuy,56310|WD~Kuy,56310]]'
+- '[[_Standards/WikiData/WD~Tai_Dam,56407|WD~Tai_Dam,56407]]'
+- '[[_Standards/WikiData/WD~Hani,56516|WD~Hani,56516]]'
+- '[[_Standards/WikiData/WD~Akha,56643|WD~Akha,56643]]'
+anthem: '[[_Standards/WikiData/WD~Pheng_Xat_Lao,623034|WD~Pheng_Xat_Lao,623034]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Laos,778651|WD~Prime_Minister_of_Laos,778651]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Laos,781242|WD~economy_of_Laos,781242]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Laos,904139]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Laos,936032]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Laos,1049083]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Laos,904139|WD~President_of_Laos,904139]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Laos,936032|WD~geography_of_Laos,936032]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Laos,1049083|WD~demographics_of_Laos,1049083]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~Type_E,2335536]]'
-- '[[_Standards/WikiData/WD~NEMA_1-15,24288454]]'
-- '[[_Standards/WikiData/WD~NEMA_5-15,24288456]]'
-legislative_body: '[[_Standards/WikiData/WD~National_Assembly,1188525]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Laos,2623557]]'
-central_bank: '[[_Standards/WikiData/WD~Bank_of_the_Lao_P.D.R.,4077339]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Laos,7112329]]'
-head_of_government: '[[_Standards/WikiData/WD~Phankham_Viphavan,7180477]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Laos,14616665]]'
+- '[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536|WD~Type_E,2335536]]'
+- '[[_Standards/WikiData/WD~NEMA_1-15,24288454|WD~NEMA_1-15,24288454]]'
+- '[[_Standards/WikiData/WD~NEMA_5-15,24288456|WD~NEMA_5-15,24288456]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Assembly,1188525|WD~National_Assembly,1188525]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Laos,2623557|WD~culture_of_Laos,2623557]]'
+central_bank: '[[_Standards/WikiData/WD~Bank_of_the_Lao_P.D.R.,4077339|WD~Bank_of_the_Lao_P.D.R.,4077339]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Laos,7112329|WD~outline_of_Laos,7112329]]'
+head_of_government: '[[_Standards/WikiData/WD~Phankham_Viphavan,7180477|WD~Phankham_Viphavan,7180477]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Laos,14616665|WD~Portal_Laos,14616665]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~190,25648833]]'
-- '[[_Standards/WikiData/WD~191,25648876]]'
-- '[[_Standards/WikiData/WD~195,25743518]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27102789,27102789]]'
-category_for_people_buried_here: '[[_Standards/WikiData/WD~Q32409919,32409919]]'
-has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
+- '[[_Standards/WikiData/WD~190,25648833|WD~190,25648833]]'
+- '[[_Standards/WikiData/WD~191,25648876|WD~191,25648876]]'
+- '[[_Standards/WikiData/WD~195,25743518|WD~195,25743518]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27102789,27102789|WD~Q27102789,27102789]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q32409919,32409919|WD~Q32409919,32409919]]'
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Asia_Vientiane,109528882]]'
-- '[[_Standards/WikiData/WD~UTC+07_00,6940]]'
+- '[[_Standards/WikiData/WD~Asia_Vientiane,109528882|WD~Asia_Vientiane,109528882]]'
+- '[[_Standards/WikiData/WD~UTC+07_00,6940|WD~UTC+07_00,6940]]'
 nominal_GDP:
 - 18827148530
 - 15724383783
@@ -685,36 +685,36 @@ motto_text:
 - ສັນຕິພາບ ເອກະລາດ ປະຊາທິປະໄຕ ເອກະພາບ ວັດທະນາຖາວອນ
 coordinates_of_westernmost_point: Point(100.08419 20.35506)
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Thailand,869]]'
-- '[[_Standards/WikiData/WD~Vietnam,881]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Brunei,921]]'
-- '[[_Standards/WikiData/WD~Philippines,928]]'
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]'
+- '[[_Standards/WikiData/WD~Vietnam,881|WD~Vietnam,881]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Brunei,921|WD~Brunei,921]]'
+- '[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Cambodia,424]]'
-- '[[_Standards/WikiData/WD~Myanmar,836]]'
-- '[[_Standards/WikiData/WD~Thailand,869]]'
-- '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-country: '[[_Standards/WikiData/WD~Laos,819]]'
-official_language: '[[_Standards/WikiData/WD~Lao,9211]]'
-capital: '[[_Standards/WikiData/WD~Vientiane,9326]]'
-part_of: '[[_Standards/WikiData/WD~Southeast_Asia,11708]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Cambodia,424|WD~Cambodia,424]]'
+- '[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
+- '[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]'
+- '[[_Standards/WikiData/WD~Vietnam,881|WD~Vietnam,881]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+country: '[[_Standards/WikiData/WD~Laos,819|WD~Laos,819]]'
+official_language: '[[_Standards/WikiData/WD~Lao,9211|WD~Lao,9211]]'
+capital: '[[_Standards/WikiData/WD~Vientiane,9326|WD~Vientiane,9326]]'
+part_of: '[[_Standards/WikiData/WD~Southeast_Asia,11708|WD~Southeast_Asia,11708]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 VAT_rate: 10
 marriageable_age: 18
 age_of_majority: 18
@@ -722,8 +722,8 @@ mains_voltage: 230
 life_expectancy: 69
 Democracy_Index: 1.77
 total_fertility_rate: 2.57
-lowest_point: '[[_Standards/WikiData/WD~Mekong_River,41179]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.la,41926]]'
+lowest_point: '[[_Standards/WikiData/WD~Mekong_River,41179|WD~Mekong_River,41179]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.la,41926|WD~.la,41926]]'
 female_population: 3260000
 BTI_Status_Index:
 - 3.35
@@ -746,12 +746,12 @@ BTI_Governance_Index:
 - 3.96
 - 4.23
 Gini_coefficient: 38.8
-flag: '[[_Standards/WikiData/WD~flag_of_Laos,46008]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Laos,46008|WD~flag_of_Laos,46008]]'
 Happy_Planet_Index_score: 42.8
 Inequality_adjusted_Human_Development_Index: 0.459
 trunk_prefix: 0
 Human_Development_Index: 0.607
-head_of_state: '[[_Standards/WikiData/WD~Thongloun_Sisoulith,58323]]'
+head_of_state: '[[_Standards/WikiData/WD~Thongloun_Sisoulith,58323|WD~Thongloun_Sisoulith,58323]]'
 literacy_rate: 87.1
 mobile_country_code: 457
 geoshape: http://commons.wikimedia.org/data/main/Data:Laos.map
@@ -922,7 +922,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Laos/ReadMe]] 
+[[Laos/ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -948,7 +948,7 @@ Capital = `=this.dv_Capital`
 
 ![[Emblem_of_Laos.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Laos.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Laos.mp3|Anthem-Laos.mp3]]
 
 ![[Flag_of_Laos.svg|350]]
 

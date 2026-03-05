@@ -75,13 +75,13 @@ aliases:
 - 電腦週邊設備
 - 주변기기
 has_id_wikidata: Q178648
-different_from: '[[_Standards/WikiData/WD~input_output_device,2384798]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~input_output_device,2384798]]'
-has_part_s_: '[[_Standards/WikiData/WD~peripheral_controller,64819603]]'
+different_from: '[[_Standards/WikiData/WD~input_output_device,2384798|WD~input_output_device,2384798]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~input_output_device,2384798|WD~input_output_device,2384798]]'
+has_part_s_: '[[_Standards/WikiData/WD~peripheral_controller,64819603|WD~peripheral_controller,64819603]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~add_on,117670709]]'
-- '[[_Standards/WikiData/WD~computer_hardware,3966]]'
-instance_of: '[[_Standards/WikiData/WD~Q125391054,125391054]]'
+- '[[_Standards/WikiData/WD~add_on,117670709|WD~add_on,117670709]]'
+- '[[_Standards/WikiData/WD~computer_hardware,3966|WD~computer_hardware,3966]]'
+instance_of: '[[_Standards/WikiData/WD~Q125391054,125391054|WD~Q125391054,125391054]]'
 IAB_code: 601
 Nomenclature_for_Museum_Cataloging: 10493
 OmegaWiki_Defined_Meaning: 1220169

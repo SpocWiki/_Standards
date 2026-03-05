@@ -46,11 +46,11 @@ aliases:
 - 확률 공간
 has_id_wikidata: Q623472
 has_part_s_:
-- '[[_Standards/WikiData/WD~sigma_algebra,217357]]'
-- '[[_Standards/WikiData/WD~probability_measure,355020]]'
-- '[[_Standards/WikiData/WD~sample_space,467440]]'
-subclass_of: '[[_Standards/WikiData/WD~measure_space,3058212]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~sigma_algebra,217357|WD~sigma_algebra,217357]]'
+- '[[_Standards/WikiData/WD~probability_measure,355020|WD~probability_measure,355020]]'
+- '[[_Standards/WikiData/WD~sample_space,467440|WD~sample_space,467440]]'
+subclass_of: '[[_Standards/WikiData/WD~measure_space,3058212|WD~measure_space,3058212]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 dv_has_:
   name_:
     af: Waarskynlikheidsruimte

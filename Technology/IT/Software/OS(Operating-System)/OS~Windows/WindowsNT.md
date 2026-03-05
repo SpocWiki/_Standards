@@ -52,7 +52,7 @@ Microsoft made a good offer to Munich, so 2018 Munich switched back to Windows,
 when MS moved their Headquarter back to Munich 
 cost 86M€ 
 
-[[../../../../../WikiData/WD~Schleswig-Holstein,1194]] is also moving to Linux in 2024. 
+[[../../../../../WikiData/WD~Schleswig-Holstein,1194|WD~Schleswig-Holstein,1194]] is also moving to Linux in 2024. 
 
 ## #has_/text_of_/abstract 
 

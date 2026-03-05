@@ -9,28 +9,28 @@ aliases:
 - 啤令貓
 - 벨링캣
 instance_of:
-- '[[_Standards/WikiData/WD~project,170584]]'
-- '[[_Standards/WikiData/WD~collective,13473501]]'
-- '[[_Standards/WikiData/WD~website,35127]]'
-funding_scheme: '[[_Standards/WikiData/WD~crowdfunding,348303]]'
+- '[[_Standards/WikiData/WD~project,170584|WD~project,170584]]'
+- '[[_Standards/WikiData/WD~collective,13473501|WD~collective,13473501]]'
+- '[[_Standards/WikiData/WD~website,35127|WD~website,35127]]'
+funding_scheme: '[[_Standards/WikiData/WD~crowdfunding,348303|WD~crowdfunding,348303]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~open-source_intelligence,1059178]]'
-- '[[_Standards/WikiData/WD~investigative_journalism,1127717]]'
-- '[[_Standards/WikiData/WD~data_journalism,5227309]]'
-- '[[_Standards/WikiData/WD~literature_search,12324699]]'
-- '[[_Standards/WikiData/WD~open-source_defense_intelligence,111268998]]'
-award_received: '[[_Standards/WikiData/WD~Hanns-Joachim-Friedrichs-Award,1576361]]'
-named_after: '[[_Standards/WikiData/WD~Belling_the_Cat,2994336]]'
+- '[[_Standards/WikiData/WD~open-source_intelligence,1059178|WD~open-source_intelligence,1059178]]'
+- '[[_Standards/WikiData/WD~investigative_journalism,1127717|WD~investigative_journalism,1127717]]'
+- '[[_Standards/WikiData/WD~data_journalism,5227309|WD~data_journalism,5227309]]'
+- '[[_Standards/WikiData/WD~literature_search,12324699|WD~literature_search,12324699]]'
+- '[[_Standards/WikiData/WD~open-source_defense_intelligence,111268998|WD~open-source_defense_intelligence,111268998]]'
+award_received: '[[_Standards/WikiData/WD~Hanns-Joachim-Friedrichs-Award,1576361|WD~Hanns-Joachim-Friedrichs-Award,1576361]]'
+named_after: '[[_Standards/WikiData/WD~Belling_the_Cat,2994336|WD~Belling_the_Cat,2994336]]'
 director_manager:
-- '[[_Standards/WikiData/WD~Eliot_Higgins,16218443]]'
-- '[[_Standards/WikiData/WD~Christo_Grozev,104420787]]'
-founded_by: '[[_Standards/WikiData/WD~Eliot_Higgins,16218443]]'
-author: '[[_Standards/WikiData/WD~Eliot_Higgins,16218443]]'
-member_of: '[[_Standards/WikiData/WD~Global_Investigative_Journalism_Network,30591810]]'
-operator: '[[_Standards/WikiData/WD~Stichting_Bellingcat,104417824]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~Q134776306,134776306]]'
-headquarters_location: '[[_Standards/WikiData/WD~Amsterdam,727]]'
-country: '[[_Standards/WikiData/WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~Eliot_Higgins,16218443|WD~Eliot_Higgins,16218443]]'
+- '[[_Standards/WikiData/WD~Christo_Grozev,104420787|WD~Christo_Grozev,104420787]]'
+founded_by: '[[_Standards/WikiData/WD~Eliot_Higgins,16218443|WD~Eliot_Higgins,16218443]]'
+author: '[[_Standards/WikiData/WD~Eliot_Higgins,16218443|WD~Eliot_Higgins,16218443]]'
+member_of: '[[_Standards/WikiData/WD~Global_Investigative_Journalism_Network,30591810|WD~Global_Investigative_Journalism_Network,30591810]]'
+operator: '[[_Standards/WikiData/WD~Stichting_Bellingcat,104417824|WD~Stichting_Bellingcat,104417824]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~Q134776306,134776306|WD~Q134776306,134776306]]'
+headquarters_location: '[[_Standards/WikiData/WD~Amsterdam,727|WD~Amsterdam,727]]'
+country: '[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
 social_media_followers:
 - 38400
 - 22448

@@ -35,12 +35,12 @@ aliases:
 - 과학학
 has_id_wikidata: Q1332231
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-subclass_of: '[[_Standards/WikiData/WD~studies,9347372]]'
-described_by_source: '[[_Standards/WikiData/WD~FILIT,11985944]]'
-different_from: '[[_Standards/WikiData/WD~metascience,30599095]]'
-is_the_study_of: '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+subclass_of: '[[_Standards/WikiData/WD~studies,9347372|WD~studies,9347372]]'
+described_by_source: '[[_Standards/WikiData/WD~FILIT,11985944|WD~FILIT,11985944]]'
+different_from: '[[_Standards/WikiData/WD~metascience,30599095|WD~metascience,30599095]]'
+is_the_study_of: '[[_Standards/WikiData/WD~science,336|WD~science,336]]'
 Commons_category: Science studies
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bibliometrics%20definition.svg
 dv_has_:

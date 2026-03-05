@@ -102,12 +102,12 @@ aliases:
 - 记录片
 - 다큐멘터리 영화
 has_id_wikidata: Q93204
-instance_of: '[[_Standards/WikiData/WD~film_genre,201658]]'
-practiced_by: '[[_Standards/WikiData/WD~documentary_filmmaker,1235146]]'
+instance_of: '[[_Standards/WikiData/WD~film_genre,201658|WD~film_genre,201658]]'
+practiced_by: '[[_Standards/WikiData/WD~documentary_filmmaker,1235146|WD~documentary_filmmaker,1235146]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~documentary,4164344]]'
-- '[[_Standards/WikiData/WD~non_fiction_film,24960157]]'
-opposite_of: '[[_Standards/WikiData/WD~fiction_film,12912091]]'
+- '[[_Standards/WikiData/WD~documentary,4164344|WD~documentary,4164344]]'
+- '[[_Standards/WikiData/WD~non_fiction_film,24960157|WD~non_fiction_film,24960157]]'
+opposite_of: '[[_Standards/WikiData/WD~fiction_film,12912091|WD~fiction_film,12912091]]'
 IAB_code: 332
 U_S_National_Archives_Identifier:
 - 10628858

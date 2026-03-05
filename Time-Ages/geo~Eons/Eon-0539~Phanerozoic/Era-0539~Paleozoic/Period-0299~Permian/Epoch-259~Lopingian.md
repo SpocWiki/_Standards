@@ -29,14 +29,14 @@ aliases:
 - 乐平世
 - 러핑세
 has_id_wikidata: Q1077390
-named_by: '[[_Standards/WikiData/WD~Ferdinand_von_Richthofen,76791]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Zechstein,184168]]'
+named_by: '[[_Standards/WikiData/WD~Ferdinand_von_Richthofen,76791|WD~Ferdinand_von_Richthofen,76791]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Zechstein,184168|WD~Zechstein,184168]]'
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-named_after: '[[_Standards/WikiData/WD~Leping,1335313]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q32103916,32103916]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Leping,1335313|WD~Leping,1335313]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32103916,32103916|WD~Q32103916,32103916]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -251902000-01-01T00:00:00Z
 sRGB_color_hex_triplet: FEAF97
 start_time: -259100000-01-01T00:00:00Z
@@ -153,7 +153,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 259.51 to 251.902 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-255_Ma_(Wuchiapingian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-255_Ma_(Wuchiapingian_Age).png|Earth-255_Ma_(Wuchiapingian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

@@ -110,61 +110,61 @@ aliases:
 has_id_wikidata: Q11051
 Commons_category: Hindustani language
 country:
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Fiji,712]]'
-- '[[_Standards/WikiData/WD~Suriname,730]]'
-- '[[_Standards/WikiData/WD~Guyana,734]]'
-- '[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Fiji,712|WD~Fiji,712]]'
+- '[[_Standards/WikiData/WD~Suriname,730|WD~Suriname,730]]'
+- '[[_Standards/WikiData/WD~Guyana,734|WD~Guyana,734]]'
+- '[[_Standards/WikiData/WD~Trinidad_and_Tobago,754|WD~Trinidad_and_Tobago,754]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
 - http://www.wikidata.org/.well-known/genid/37107bfd74d3cf8880855912cf9d6514
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Hindi,1568]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Hindi,1568|WD~Hindi,1568]]'
 entry_in_abbreviations_table:
 - ҳ.
 - H.
 - ہ
 - ਹਿੰ.
 Glottolog_code: hind1270
-has_grammatical_case: '[[_Standards/WikiData/WD~obliquus_in_Hindi,2491233]]'
+has_grammatical_case: '[[_Standards/WikiData/WD~obliquus_in_Hindi,2491233|WD~obliquus_in_Hindi,2491233]]'
 has_grammatical_gender:
-- '[[_Standards/WikiData/WD~masculine,499327]]'
-- '[[_Standards/WikiData/WD~feminine,1775415]]'
+- '[[_Standards/WikiData/WD~masculine,499327|WD~masculine,499327]]'
+- '[[_Standards/WikiData/WD~feminine,1775415|WD~feminine,1775415]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hindustani.svg
 indigenous_to:
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Delhi,1353]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Delhi,1353|WD~Delhi,1353]]'
 instance_of:
-- '[[_Standards/WikiData/WD~modern_language,1288568]]'
-- '[[_Standards/WikiData/WD~common_language,25568481]]'
-- '[[_Standards/WikiData/WD~natural_language,33742]]'
-language_regulatory_body: '[[_Standards/WikiData/WD~Central_Hindi_Directorate,3634629]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568|WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~common_language,25568481|WD~common_language,25568481]]'
+- '[[_Standards/WikiData/WD~natural_language,33742|WD~natural_language,33742]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Central_Hindi_Directorate,3634629|WD~Central_Hindi_Directorate,3634629]]'
 linguistic_typology:
-- '[[_Standards/WikiData/WD~fusional_language,318917]]'
-- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
-- '[[_Standards/WikiData/WD~syllabic_language,7888569]]'
+- '[[_Standards/WikiData/WD~fusional_language,318917|WD~fusional_language,318917]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808|WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~syllabic_language,7888569|WD~syllabic_language,7888569]]'
 Linguist_List_code: hind
 native_label:
 - ہندوستانی
 - हिन्दुस्तानी
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~Kannauji,2726867]]'
-- '[[_Standards/WikiData/WD~Braj_Bhasha,35243]]'
+- '[[_Standards/WikiData/WD~Kannauji,2726867|WD~Kannauji,2726867]]'
+- '[[_Standards/WikiData/WD~Braj_Bhasha,35243|WD~Braj_Bhasha,35243]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5885%20%28tam%29-Sriveenkat-%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%9A%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AE%BF%20%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF.wav
 related_property: Urdu Lughat ID
-subclass_of: '[[_Standards/WikiData/WD~Western_Hindi,12600937]]'
+subclass_of: '[[_Standards/WikiData/WD~Western_Hindi,12600937|WD~Western_Hindi,12600937]]'
 tags:
 - Lang/hi
 type: Lang
 writing_system:
-- '[[_Standards/WikiData/WD~Urdu_orthography,112887037]]'
-- '[[_Standards/WikiData/WD~Devanagari,38592]]'
+- '[[_Standards/WikiData/WD~Urdu_orthography,112887037|WD~Urdu_orthography,112887037]]'
+- '[[_Standards/WikiData/WD~Devanagari,38592|WD~Devanagari,38592]]'
 dv_has_:
   name_:
     af: Hindoestani

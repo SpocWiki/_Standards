@@ -71,20 +71,20 @@ aliases:
 - ﺋﯩﻜﻜﯩﻨﭽﻰ ﻗﯩﺘﯩﻤﻠﯩﻖ ﯬﭘﻴﯘﻥ ﯰﺭﯗﺷﻰ
 has_id_wikidata: Q418151
 participant:
-- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193|WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 end_time: 1860-01-01T00:00:00Z
 point_in_time: 1856-10-08T00:00:00Z
 start_time: 1856-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Second%20Opium%20War-guangzhou.jpg
 Commons_category: Second Opium War
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Second_Opium_War,418151]]'
+  - '[[../../../../../../../../WikiData/WD~Second_Opium_War,418151|WD~Second_Opium_War,418151]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860|1856-Second_Opium_War+1860]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.public|1856-Second_Opium_War+1860.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.internal|1856-Second_Opium_War+1860.internal]]'
@@ -93,7 +93,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.personal|1856-Second_Opium_War+1860.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.secret|1856-Second_Opium_War+1860.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Second_Opium_War,418151]]'
+- '[[../../../../../../../../WikiData/WD~Second_Opium_War,418151|WD~Second_Opium_War,418151]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860|1856-Second_Opium_War+1860]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.public|1856-Second_Opium_War+1860.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.internal|1856-Second_Opium_War+1860.internal]]'

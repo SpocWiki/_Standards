@@ -314,9 +314,9 @@ dv_has_:
     zh_sg: 质量
     zh_tw: 質量
     zu: Isisindo
-  parent_class: '[[../Quantity]]'
+  parent_class: '[[../Quantity|Quantity]]'
   properties: '[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]'
-dv_has_parent_class: '[[../Quantity]]'
+dv_has_parent_class: '[[../Quantity|Quantity]]'
 dv_has_properties: '[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]'
 dv_is_same_as:
 - '[[has_value_for_mass]]'

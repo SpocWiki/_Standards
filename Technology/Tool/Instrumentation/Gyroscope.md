@@ -62,20 +62,20 @@ aliases:
 - 陀螺儀
 - 자이로스코프
 has_id_wikidata: Q483400
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Léon_Foucault,187966]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Léon_Foucault,187966|WD~Léon_Foucault,187966]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~appliance,1183543]]'
-- '[[_Standards/WikiData/WD~measuring_instrument,2041172]]'
-has_effect: '[[_Standards/WikiData/WD~gyroscopic_effect,11309680]]'
+- '[[_Standards/WikiData/WD~appliance,1183543|WD~appliance,1183543]]'
+- '[[_Standards/WikiData/WD~measuring_instrument,2041172|WD~measuring_instrument,2041172]]'
+has_effect: '[[_Standards/WikiData/WD~gyroscopic_effect,11309680|WD~gyroscopic_effect,11309680]]'
 time_of_discovery_or_invention: 1852-01-01T00:00:00Z
-location_of_creation: '[[_Standards/WikiData/WD~Paris,90]]'
+location_of_creation: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
 Nomenclature_for_Museum_Cataloging: 9258
 OmegaWiki_Defined_Meaning: 1408759
 Commons_category: Gyroscopes

@@ -43,11 +43,11 @@ aliases:
 - 巫毒教
 - 부두교
 has_id_wikidata: Q177764
-religion_or_worldview: '[[_Standards/WikiData/WD~Regla_Osha_Ifa_afrocubana,752660]]'
-different_from: '[[_Standards/WikiData/WD~Voodoo,1461059]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
-subclass_of: '[[_Standards/WikiData/WD~religion,9174]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Regla_Osha_Ifa_afrocubana,752660|WD~Regla_Osha_Ifa_afrocubana,752660]]'
+different_from: '[[_Standards/WikiData/WD~Voodoo,1461059|WD~Voodoo,1461059]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
+subclass_of: '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Voodoo.jpg
 Libris_URI: 64jllqfq5n7tz4x
 Commons_category: West African Vodun

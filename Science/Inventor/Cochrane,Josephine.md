@@ -23,22 +23,22 @@ aliases:
 - 約瑟芬·科克倫
 has_id_wikidata: Q21901
 occupation:
-- '[[_Standards/WikiData/WD~inventor,205375]]'
-- '[[_Standards/WikiData/WD~businessperson,43845]]'
-place_of_birth: '[[_Standards/WikiData/WD~Shelbyville,575659]]'
-given_name: '[[_Standards/WikiData/WD~Josephine,666954]]'
-award_received: '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
-cause_of_death: '[[_Standards/WikiData/WD~cerebrovascular_disease,3010352]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+- '[[_Standards/WikiData/WD~inventor,205375|WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~businessperson,43845|WD~businessperson,43845]]'
+place_of_birth: '[[_Standards/WikiData/WD~Shelbyville,575659|WD~Shelbyville,575659]]'
+given_name: '[[_Standards/WikiData/WD~Josephine,666954|WD~Josephine,666954]]'
+award_received: '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018|WD~National_Inventors_Hall_of_Fame,1366018]]'
+cause_of_death: '[[_Standards/WikiData/WD~cerebrovascular_disease,3010352|WD~cerebrovascular_disease,3010352]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
 family_name:
-- '[[_Standards/WikiData/WD~Cochrane,5139428]]'
-- '[[_Standards/WikiData/WD~Garis,37188468]]'
-sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
-mother: '[[_Standards/WikiData/WD~Irene_Fitch_Garis,107471893]]'
+- '[[_Standards/WikiData/WD~Cochrane,5139428|WD~Cochrane,5139428]]'
+- '[[_Standards/WikiData/WD~Garis,37188468|WD~Garis,37188468]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072|WD~female,6581072]]'
+mother: '[[_Standards/WikiData/WD~Irene_Fitch_Garis,107471893|WD~Irene_Fitch_Garis,107471893]]'
 date_of_birth: 1839-03-08T00:00:00Z
-place_of_death: '[[_Standards/WikiData/WD~Chicago,1297]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~Chicago,1297|WD~Chicago,1297]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Josephine%20Garis%20Cochrane.png
 Commons_category: Josephine Cochrane
 name_in_native_language: Josephine Lorelai Coachrana

@@ -73,57 +73,57 @@ subreddit: antisemitism
 Wolfram_Language_entity_code: Entity["Concept", "Anti-Semitism::4zw4g"]
 IMDb_keyword: anti-semitism
 Dewey_Decimal_Classification: 305.8924
-named_by: '[[_Standards/WikiData/WD~Moritz_Steinschneider,78906]]'
+named_by: '[[_Standards/WikiData/WD~Moritz_Steinschneider,78906|WD~Moritz_Steinschneider,78906]]'
 has_effect:
-- '[[_Standards/WikiData/WD~hatred,160232]]'
-- '[[_Standards/WikiData/WD~pogrom,177716]]'
-- '[[_Standards/WikiData/WD~genocide,41397]]'
-- '[[_Standards/WikiData/WD~persecution_of_Jews,48136]]'
+- '[[_Standards/WikiData/WD~hatred,160232|WD~hatred,160232]]'
+- '[[_Standards/WikiData/WD~pogrom,177716|WD~pogrom,177716]]'
+- '[[_Standards/WikiData/WD~genocide,41397|WD~genocide,41397]]'
+- '[[_Standards/WikiData/WD~persecution_of_Jews,48136|WD~persecution_of_Jews,48136]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~xenophobia,166005]]'
-- '[[_Standards/WikiData/WD~racism,8461]]'
+- '[[_Standards/WikiData/WD~xenophobia,166005|WD~xenophobia,166005]]'
+- '[[_Standards/WikiData/WD~racism,8461|WD~racism,8461]]'
 instance_of:
-- '[[_Standards/WikiData/WD~discrimination,169207]]'
-- '[[_Standards/WikiData/WD~bigotry,859781]]'
-- '[[_Standards/WikiData/WD~hostility,2729863]]'
-- '[[_Standards/WikiData/WD~sentiment,7451247]]'
-- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-- '[[_Standards/WikiData/WD~ideology,7257]]'
+- '[[_Standards/WikiData/WD~discrimination,169207|WD~discrimination,169207]]'
+- '[[_Standards/WikiData/WD~bigotry,859781|WD~bigotry,859781]]'
+- '[[_Standards/WikiData/WD~hostility,2729863|WD~hostility,2729863]]'
+- '[[_Standards/WikiData/WD~sentiment,7451247|WD~sentiment,7451247]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~ideology,7257|WD~ideology,7257]]'
 significant_event:
-- '[[_Standards/WikiData/WD~Spanish_Inquisition,184725]]'
-- '[[_Standards/WikiData/WD~Anti_Jewish_pogroms_in_the_Russian_Empire,247735]]'
-- '[[_Standards/WikiData/WD~Black_Death_Jewish_persecutions,842848]]'
-- '[[_Standards/WikiData/WD~Alhambra_Decree,1061030]]'
+- '[[_Standards/WikiData/WD~Spanish_Inquisition,184725|WD~Spanish_Inquisition,184725]]'
+- '[[_Standards/WikiData/WD~Anti_Jewish_pogroms_in_the_Russian_Empire,247735|WD~Anti_Jewish_pogroms_in_the_Russian_Empire,247735]]'
+- '[[_Standards/WikiData/WD~Black_Death_Jewish_persecutions,842848|WD~Black_Death_Jewish_persecutions,842848]]'
+- '[[_Standards/WikiData/WD~Alhambra_Decree,1061030|WD~Alhambra_Decree,1061030]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~new_antisemitism,583314]]'
-- '[[_Standards/WikiData/WD~racial_antisemitism,4390212]]'
-- '[[_Standards/WikiData/WD~economic_antisemitism,5333440]]'
-- '[[_Standards/WikiData/WD~religious_antisemitism,17015203]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~anti_Zionism,584548]]'
-different_from: '[[_Standards/WikiData/WD~anti_Zionism,584548]]'
+- '[[_Standards/WikiData/WD~new_antisemitism,583314|WD~new_antisemitism,583314]]'
+- '[[_Standards/WikiData/WD~racial_antisemitism,4390212|WD~racial_antisemitism,4390212]]'
+- '[[_Standards/WikiData/WD~economic_antisemitism,5333440|WD~economic_antisemitism,5333440]]'
+- '[[_Standards/WikiData/WD~religious_antisemitism,17015203|WD~religious_antisemitism,17015203]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~anti_Zionism,584548|WD~anti_Zionism,584548]]'
+different_from: '[[_Standards/WikiData/WD~anti_Zionism,584548|WD~anti_Zionism,584548]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Jerusalem_Declaration_on_Antisemitism,106610652]]'
-- '[[_Standards/WikiData/WD~Extremist_Files,110442267]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-facet_of: '[[_Standards/WikiData/WD~social_exclusion,5853064]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Antisemitism_footer,6681237]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Antisemitism,8810763]]'
-practiced_by: '[[_Standards/WikiData/WD~antisemite,15954665]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_Anne_Frank_House,135103484]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Jerusalem_Declaration_on_Antisemitism,106610652|WD~Jerusalem_Declaration_on_Antisemitism,106610652]]'
+- '[[_Standards/WikiData/WD~Extremist_Files,110442267|WD~Extremist_Files,110442267]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+facet_of: '[[_Standards/WikiData/WD~social_exclusion,5853064|WD~social_exclusion,5853064]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Antisemitism_footer,6681237|WD~Template_Antisemitism_footer,6681237]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Antisemitism,8810763|WD~Category_Antisemitism,8810763]]'
+practiced_by: '[[_Standards/WikiData/WD~antisemite,15954665|WD~antisemite,15954665]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_Anne_Frank_House,135103484|WD~Wikidata_Anne_Frank_House,135103484]]'
 history_of_topic:
-- '[[_Standards/WikiData/WD~history_of_antisemitism,48005]]'
-- '[[_Standards/WikiData/WD~timeline_of_antisemitism,48172]]'
+- '[[_Standards/WikiData/WD~history_of_antisemitism,48005|WD~history_of_antisemitism,48005]]'
+- '[[_Standards/WikiData/WD~timeline_of_antisemitism,48172|WD~timeline_of_antisemitism,48172]]'
 Library_of_Congress_Classification: DS145
 OmegaWiki_Defined_Meaning: 844711
 U_S_National_Archives_Identifier: 10640170
@@ -254,7 +254,7 @@ dv_has_:
 
 # [[Antisemitism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~antisemitism,22649]]
+#is_/same_as :: [[_Standards/WikiData/WD~antisemitism,22649|WD~antisemitism,22649]]
 
 ## #has_/text_of_/abstract 
 

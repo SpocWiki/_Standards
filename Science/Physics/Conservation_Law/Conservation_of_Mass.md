@@ -73,14 +73,14 @@ aliases:
 - 质量守恒定律
 - 질량 보존의 법칙
 has_id_wikidata: Q483948
-subclass_of: '[[_Standards/WikiData/WD~conservation_law,205805]]'
-has_part_s_: '[[_Standards/WikiData/WD~law_of_conservation_of_mass_in_chemistry,3829752]]'
+subclass_of: '[[_Standards/WikiData/WD~conservation_law,205805|WD~conservation_law,205805]]'
+has_part_s_: '[[_Standards/WikiData/WD~law_of_conservation_of_mass_in_chemistry,3829752|WD~law_of_conservation_of_mass_in_chemistry,3829752]]'
 part_of:
-- '[[_Standards/WikiData/WD~ponderal_laws,11932225]]'
-- '[[_Standards/WikiData/WD~chemistry,2329]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~conservation_of_energy,11382]]'
-instance_of: '[[_Standards/WikiData/WD~chemical_law,36382]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Antoine_Lavoisier,39607]]'
+- '[[_Standards/WikiData/WD~ponderal_laws,11932225|WD~ponderal_laws,11932225]]'
+- '[[_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~conservation_of_energy,11382|WD~conservation_of_energy,11382]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_law,36382|WD~chemical_law,36382]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Antoine_Lavoisier,39607|WD~Antoine_Lavoisier,39607]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20lavoisier.jpg
 dv_has_:
   name_:

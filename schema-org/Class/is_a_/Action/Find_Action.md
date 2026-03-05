@@ -41,7 +41,7 @@ dv_has_:
     - "[[Find_Action/Discover_Action|Discover_Action]]"
     - "[[Find_Action/Track_Action|Track_Action]]"
   parent_class:
-    - "[[../Action]]"
+    - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_status|has_action_status]]"
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
@@ -68,7 +68,7 @@ dv_has_:
     - "[[../../../Relation/has/has_target|has_target]]"
     - "[[../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../Action]]"
+  - "[[../Action|Action]]"
 dv_has_child_class:
   - "[[Find_Action/Check_Action|Check_Action]]"
   - "[[Find_Action/Discover_Action|Discover_Action]]"

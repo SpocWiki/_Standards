@@ -75,16 +75,16 @@ aliases:
 - 전열
 has_id_wikidata: Q179635
 has_part_s_:
-- '[[_Standards/WikiData/WD~convection,160329]]'
-- '[[_Standards/WikiData/WD~thermal_radiation,192593]]'
-- '[[_Standards/WikiData/WD~thermal_conduction,7465774]]'
-instance_of: '[[_Standards/WikiData/WD~thermodynamic_process,213016]]'
-opposite_of: '[[_Standards/WikiData/WD~adiabasis,356865]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-subclass_of: '[[_Standards/WikiData/WD~energy_transfer,15211908]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-different_from: '[[_Standards/WikiData/WD~heat,44432]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~heat,44432]]'
+- '[[_Standards/WikiData/WD~convection,160329|WD~convection,160329]]'
+- '[[_Standards/WikiData/WD~thermal_radiation,192593|WD~thermal_radiation,192593]]'
+- '[[_Standards/WikiData/WD~thermal_conduction,7465774|WD~thermal_conduction,7465774]]'
+instance_of: '[[_Standards/WikiData/WD~thermodynamic_process,213016|WD~thermodynamic_process,213016]]'
+opposite_of: '[[_Standards/WikiData/WD~adiabasis,356865|WD~adiabasis,356865]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+subclass_of: '[[_Standards/WikiData/WD~energy_transfer,15211908|WD~energy_transfer,15211908]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+different_from: '[[_Standards/WikiData/WD~heat,44432|WD~heat,44432]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~heat,44432|WD~heat,44432]]'
 Dewey_Decimal_Classification:
 - 536.2
 - 621.4022

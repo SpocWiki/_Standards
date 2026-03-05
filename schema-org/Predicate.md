@@ -17,7 +17,7 @@ tags:
   - schema-org/Property
 type: Meta
 dv_like: this
-dv_has_range: "[[Class/is_a_/Data_Type]]"
+dv_has_range: "[[Class/is_a_/Data_Type|Data_Type]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Predicate|Predicate]]"

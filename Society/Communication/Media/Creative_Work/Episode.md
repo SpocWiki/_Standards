@@ -32,7 +32,7 @@ Tag Instances like this:
 
 A media episode (e.g. TV, radio, video game) which can be part of a series or season.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ PodcastEpisode, RadioEpisode, TVEpisode ]  
 

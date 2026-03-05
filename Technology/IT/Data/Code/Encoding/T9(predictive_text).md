@@ -1,7 +1,7 @@
 ---
 has_id_wikidata: Q1142557
-different_from: '[[_Standards/WikiData/WD~T9,423444]]'
-instance_of: '[[_Standards/WikiData/WD~technology,11016]]'
+different_from: '[[_Standards/WikiData/WD~T9,423444|WD~T9,423444]]'
+instance_of: '[[_Standards/WikiData/WD~technology,11016|WD~technology,11016]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Phone%20Numberblock%20ITU-T%20E.161.svg
 Commons_category:
 - 4x3 arrays

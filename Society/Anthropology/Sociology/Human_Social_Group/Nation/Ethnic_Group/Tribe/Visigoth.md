@@ -81,18 +81,18 @@ aliases:
 - "\U00010345\U00010339\U00010343\U00010339\U00010332\U0001033F\U00010344\U00010330"
 has_id_wikidata: Q23693
 subclass_of:
-- '[[_Standards/WikiData/WD~tribe,133311]]'
-- '[[_Standards/WikiData/WD~Germanic_people,22633]]'
+- '[[_Standards/WikiData/WD~tribe,133311|WD~tribe,133311]]'
+- '[[_Standards/WikiData/WD~Germanic_people,22633|WD~Germanic_people,22633]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tribe,133311]]'
-- '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
+- '[[_Standards/WikiData/WD~tribe,133311|WD~tribe,133311]]'
+- '[[_Standards/WikiData/WD~historical_ethnic_group,4204501|WD~historical_ethnic_group,4204501]]'
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 Commons_category: Visigoths
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Visigoths%20sack%20Rome.jpg
 Krugosvet_article_archived_: istoriya/VESTGOTI.html

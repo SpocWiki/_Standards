@@ -50,33 +50,33 @@ aliases:
 - 카스트
 has_id_wikidata: Q484416
 subclass_of:
-- '[[_Standards/WikiData/WD~social_class,187588]]'
-- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~social_class,187588|WD~social_class,187588]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 model_item:
-- '[[_Standards/WikiData/WD~Punjabis,854323]]'
-- '[[_Standards/WikiData/WD~Yadav,1194596]]'
-- '[[_Standards/WikiData/WD~Gurjar,1274487]]'
-- '[[_Standards/WikiData/WD~Jats,1645980]]'
-- '[[_Standards/WikiData/WD~Saini,3631449]]'
-- '[[_Standards/WikiData/WD~Bania,4855741]]'
+- '[[_Standards/WikiData/WD~Punjabis,854323|WD~Punjabis,854323]]'
+- '[[_Standards/WikiData/WD~Yadav,1194596|WD~Yadav,1194596]]'
+- '[[_Standards/WikiData/WD~Gurjar,1274487|WD~Gurjar,1274487]]'
+- '[[_Standards/WikiData/WD~Jats,1645980|WD~Jats,1645980]]'
+- '[[_Standards/WikiData/WD~Saini,3631449|WD~Saini,3631449]]'
+- '[[_Standards/WikiData/WD~Bania,4855741|WD~Bania,4855741]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~social_group,874405]]'
-- '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+- '[[_Standards/WikiData/WD~social_group,874405|WD~social_group,874405]]'
+- '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
 different_from:
-- '[[_Standards/WikiData/WD~cast,1735302]]'
-- '[[_Standards/WikiData/WD~K.A.S.T.A.,11732869]]'
-facet_of: '[[_Standards/WikiData/WD~caste_classification,12108988]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~cast,1735302|WD~cast,1735302]]'
+- '[[_Standards/WikiData/WD~K.A.S.T.A.,11732869|WD~K.A.S.T.A.,11732869]]'
+facet_of: '[[_Standards/WikiData/WD~caste_classification,12108988|WD~caste_classification,12108988]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
 OmegaWiki_Defined_Meaning: 913524
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Basor%20Dalit%20caste.jpg
 P8189: 987007284721705171

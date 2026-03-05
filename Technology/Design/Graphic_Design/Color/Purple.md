@@ -105,17 +105,17 @@ aliases:
 - 자주
 - "\U00010340\U00010330\U0001033F\U00010342\U00010340\U0001033F\U00010342\U00010330"
 has_id_wikidata: Q3257809
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-follows: '[[_Standards/WikiData/WD~indigo,5967009]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+follows: '[[_Standards/WikiData/WD~indigo,5967009|WD~indigo,5967009]]'
 part_of:
-- '[[_Standards/WikiData/WD~shade_of_blue,7460342]]'
-- '[[_Standards/WikiData/WD~shade_of_red,7460345]]'
+- '[[_Standards/WikiData/WD~shade_of_blue,7460342|WD~shade_of_blue,7460342]]'
+- '[[_Standards/WikiData/WD~shade_of_red,7460345|WD~shade_of_red,7460345]]'
 instance_of:
-- '[[_Standards/WikiData/WD~HTML4_named_color,56053097]]'
-- '[[_Standards/WikiData/WD~color,1075]]'
+- '[[_Standards/WikiData/WD~HTML4_named_color,56053097|WD~HTML4_named_color,56053097]]'
+- '[[_Standards/WikiData/WD~color,1075|WD~color,1075]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~blue,1088]]'
-- '[[_Standards/WikiData/WD~red,3142]]'
+- '[[_Standards/WikiData/WD~blue,1088|WD~blue,1088]]'
+- '[[_Standards/WikiData/WD~red,3142|WD~red,3142]]'
 sRGB_color_hex_triplet: 800080
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Color%20icon%20purple%20v2.svg
 CSS_color_keyword: purple

@@ -39,9 +39,9 @@ aliases:
 - 신표현주의
 has_id_wikidata: Q589655
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~style,1292119]]'
-- '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~style,1292119|WD~style,1292119]]'
+- '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
 Commons_category: Neo-expressionism
 dv_has_:
   name_:

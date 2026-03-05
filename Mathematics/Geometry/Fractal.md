@@ -40,14 +40,14 @@ aliases:
 - 프락탈
 - 프랙탈
 has_id_wikidata: Q81392
-theorized_by: '[[_Standards/WikiData/WD~Benoit_Mandelbrot,101740]]'
+theorized_by: '[[_Standards/WikiData/WD~Benoit_Mandelbrot,101740|WD~Benoit_Mandelbrot,101740]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~self_similarity,262372]]'
-- '[[_Standards/WikiData/WD~fractal_dimension,1412452]]'
-studied_by: '[[_Standards/WikiData/WD~fractional_calculus,1339058]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Fractals,8363400]]'
-part_of: '[[_Standards/WikiData/WD~mathematics,395]]'
-subclass_of: '[[_Standards/WikiData/WD~set,36161]]'
+- '[[_Standards/WikiData/WD~self_similarity,262372|WD~self_similarity,262372]]'
+- '[[_Standards/WikiData/WD~fractal_dimension,1412452|WD~fractal_dimension,1412452]]'
+studied_by: '[[_Standards/WikiData/WD~fractional_calculus,1339058|WD~fractional_calculus,1339058]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Fractals,8363400|WD~Template_Fractals,8363400]]'
+part_of: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+subclass_of: '[[_Standards/WikiData/WD~set,36161|WD~set,36161]]'
 Commons_gallery: Fractal
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Romanesco%20broccoli%20%28Brassica%20oleracea%29.jpg

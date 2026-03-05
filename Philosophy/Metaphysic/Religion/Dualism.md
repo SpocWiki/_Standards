@@ -47,22 +47,22 @@ aliases:
 - 이원론
 has_id_wikidata: Q167312
 subclass_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~group_of_2,135268494]]'
-follows: '[[_Standards/WikiData/WD~monism,178801]]'
-followed_by: '[[_Standards/WikiData/WD~pluralism,879021]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~group_of_2,135268494|WD~group_of_2,135268494]]'
+follows: '[[_Standards/WikiData/WD~monism,178801|WD~monism,178801]]'
+followed_by: '[[_Standards/WikiData/WD~pluralism,879021|WD~pluralism,879021]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-- '[[_Standards/WikiData/WD~dyad,5318387]]'
-- '[[_Standards/WikiData/WD~dichotomy,10361123]]'
-- '[[_Standards/WikiData/WD~yin_and_yang,62744]]'
+- '[[_Standards/WikiData/WD~dyad,5318387|WD~dyad,5318387]]'
+- '[[_Standards/WikiData/WD~dichotomy,10361123|WD~dichotomy,10361123]]'
+- '[[_Standards/WikiData/WD~yin_and_yang,62744|WD~yin_and_yang,62744]]'
 instance_of:
-- '[[_Standards/WikiData/WD~dyad,29431432]]'
-- '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
+- '[[_Standards/WikiData/WD~dyad,29431432|WD~dyad,29431432]]'
+- '[[_Standards/WikiData/WD~philosophical_concept,33104279|WD~philosophical_concept,33104279]]'
 PhilPapers_topic: dualism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Good%20and%20Evil%20Angels%20Tate%20Blake.jpg
 Library_of_Congress_Classification: B812.A-B812.Z

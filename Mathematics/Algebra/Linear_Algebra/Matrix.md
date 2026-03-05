@@ -65,23 +65,23 @@ aliases:
 - 행렬
 has_id_wikidata: Q44337
 studied_by:
-- '[[_Standards/WikiData/WD~linear_algebra,82571]]'
-- '[[_Standards/WikiData/WD~matrix_theory,2256206]]'
-facet_of: '[[_Standards/WikiData/WD~linear_algebra,82571]]'
+- '[[_Standards/WikiData/WD~linear_algebra,82571|WD~linear_algebra,82571]]'
+- '[[_Standards/WikiData/WD~matrix_theory,2256206|WD~matrix_theory,2256206]]'
+facet_of: '[[_Standards/WikiData/WD~linear_algebra,82571|WD~linear_algebra,82571]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~array_data_structure,186152]]'
-- '[[_Standards/WikiData/WD~tensor,188524]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~linear_map,207643]]'
-different_from: '[[_Standards/WikiData/WD~table,496946]]'
-has_characteristic: '[[_Standards/WikiData/WD~rank,656784]]'
+- '[[_Standards/WikiData/WD~array_data_structure,186152|WD~array_data_structure,186152]]'
+- '[[_Standards/WikiData/WD~tensor,188524|WD~tensor,188524]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~linear_map,207643|WD~linear_map,207643]]'
+different_from: '[[_Standards/WikiData/WD~table,496946|WD~table,496946]]'
+has_characteristic: '[[_Standards/WikiData/WD~rank,656784|WD~rank,656784]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Matrix_classes,20371767]]'
-has_part_s_: '[[_Standards/WikiData/WD~matrix_element,58215060]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Matrix_classes,20371767|WD~Template_Matrix_classes,20371767]]'
+has_part_s_: '[[_Standards/WikiData/WD~matrix_element,58215060|WD~matrix_element,58215060]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Matrica.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Matrica%20hr.svg

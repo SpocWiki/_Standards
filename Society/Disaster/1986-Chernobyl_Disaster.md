@@ -107,23 +107,23 @@ aliases:
 - 체르노빌 원자력 발전소 사고
 has_id_wikidata: Q486
 present_in_work:
-- '[[_Standards/WikiData/WD~Chernobyl_Diaries,147308]]'
-- '[[_Standards/WikiData/WD~Land_of_Oblivion,2337640]]'
-- '[[_Standards/WikiData/WD~Aurora,4056068]]'
-- '[[_Standards/WikiData/WD~Innocent_Saturday,4101813]]'
-- '[[_Standards/WikiData/WD~Decay,4390213]]'
-- '[[_Standards/WikiData/WD~Chernobyl_The_Final_Warning,5092063]]'
-- '[[_Standards/WikiData/WD~Voices_from_Chernobyl,23793868]]'
-- '[[_Standards/WikiData/WD~Chernobyl_Abyss,65154504]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Kyiv_Oblast,170036]]'
-locations: '[[_Standards/WikiData/WD~Chernobyl_Nuclear_Power_Plant,215419]]'
+- '[[_Standards/WikiData/WD~Chernobyl_Diaries,147308|WD~Chernobyl_Diaries,147308]]'
+- '[[_Standards/WikiData/WD~Land_of_Oblivion,2337640|WD~Land_of_Oblivion,2337640]]'
+- '[[_Standards/WikiData/WD~Aurora,4056068|WD~Aurora,4056068]]'
+- '[[_Standards/WikiData/WD~Innocent_Saturday,4101813|WD~Innocent_Saturday,4101813]]'
+- '[[_Standards/WikiData/WD~Decay,4390213|WD~Decay,4390213]]'
+- '[[_Standards/WikiData/WD~Chernobyl_The_Final_Warning,5092063|WD~Chernobyl_The_Final_Warning,5092063]]'
+- '[[_Standards/WikiData/WD~Voices_from_Chernobyl,23793868|WD~Voices_from_Chernobyl,23793868]]'
+- '[[_Standards/WikiData/WD~Chernobyl_Abyss,65154504|WD~Chernobyl_Abyss,65154504]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Kyiv_Oblast,170036|WD~Kyiv_Oblast,170036]]'
+locations: '[[_Standards/WikiData/WD~Chernobyl_Nuclear_Power_Plant,215419|WD~Chernobyl_Nuclear_Power_Plant,215419]]'
 instance_of:
-- '[[_Standards/WikiData/WD~environmental_disaster,3193890]]'
-- '[[_Standards/WikiData/WD~nuclear_disaster,15725976]]'
-immediate_cause_of: '[[_Standards/WikiData/WD~Declaration_of_State_Sovereignty_of_Ukraine,5249449]]'
-International_Nuclear_Event_Scale: '[[_Standards/WikiData/WD~INES_level_7_event,21013001]]'
-participant: '[[_Standards/WikiData/WD~Iekaterina_Ivanenko,110261028]]'
-country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~environmental_disaster,3193890|WD~environmental_disaster,3193890]]'
+- '[[_Standards/WikiData/WD~nuclear_disaster,15725976|WD~nuclear_disaster,15725976]]'
+immediate_cause_of: '[[_Standards/WikiData/WD~Declaration_of_State_Sovereignty_of_Ukraine,5249449|WD~Declaration_of_State_Sovereignty_of_Ukraine,5249449]]'
+International_Nuclear_Event_Scale: '[[_Standards/WikiData/WD~INES_level_7_event,21013001|WD~INES_level_7_event,21013001]]'
+participant: '[[_Standards/WikiData/WD~Iekaterina_Ivanenko,110261028|WD~Iekaterina_Ivanenko,110261028]]'
+country: '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
 number_of_deaths: 4000
 number_of_casualties: 134
 social_media_followers: 88172

@@ -72,13 +72,13 @@ aliases:
 - 우주 경쟁
 has_id_wikidata: Q1932
 instance_of:
-- '[[_Standards/WikiData/WD~space_exploration,180046]]'
-- '[[_Standards/WikiData/WD~competition,476300]]'
-different_from: '[[_Standards/WikiData/WD~Space_Race,7572621]]'
-subclass_of: '[[_Standards/WikiData/WD~race_to_space,124516650]]'
+- '[[_Standards/WikiData/WD~space_exploration,180046|WD~space_exploration,180046]]'
+- '[[_Standards/WikiData/WD~competition,476300|WD~competition,476300]]'
+different_from: '[[_Standards/WikiData/WD~Space_Race,7572621|WD~Space_Race,7572621]]'
+subclass_of: '[[_Standards/WikiData/WD~race_to_space,124516650|WD~race_to_space,124516650]]'
 participant:
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 Commons_category: Space Race
 end_time: 1975-07-01T00:00:00Z
 start_time: 1957-10-04T00:00:00Z

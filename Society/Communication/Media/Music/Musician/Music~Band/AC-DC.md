@@ -25,40 +25,40 @@ stylized_name: ACϟDC
 Wolfram_Language_entity_code: Entity["MusicAct", "ACDC::j5n2w"]
 official_name: AC/DC
 genre:
-- '[[_Standards/WikiData/WD~hard_rock,83270]]'
-- '[[_Standards/WikiData/WD~blues_rock,193355]]'
-- '[[_Standards/WikiData/WD~classic_rock,56351111]]'
-- '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
+- '[[_Standards/WikiData/WD~hard_rock,83270|WD~hard_rock,83270]]'
+- '[[_Standards/WikiData/WD~blues_rock,193355|WD~blues_rock,193355]]'
+- '[[_Standards/WikiData/WD~classic_rock,56351111|WD~classic_rock,56351111]]'
+- '[[_Standards/WikiData/WD~rock_and_roll,7749|WD~rock_and_roll,7749]]'
 named_after:
-- '[[_Standards/WikiData/WD~alternating_current,124164]]'
-- '[[_Standards/WikiData/WD~direct_current,159241]]'
-award_received: '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~alternating_current,124164|WD~alternating_current,124164]]'
+- '[[_Standards/WikiData/WD~direct_current,159241|WD~direct_current,159241]]'
+award_received: '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191|WD~Rock_and_Roll_Hall_of_Fame,179191]]'
 record_label:
-- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
-- '[[_Standards/WikiData/WD~Island_Records,190585]]'
-- '[[_Standards/WikiData/WD~Geffen_Records,212699]]'
-- '[[_Standards/WikiData/WD~Epic_Records,216364]]'
-- '[[_Standards/WikiData/WD~Interscope_Records,231694]]'
-- '[[_Standards/WikiData/WD~Hollywood_Records,387539]]'
-- '[[_Standards/WikiData/WD~Sony_Music,56760250]]'
-- '[[_Standards/WikiData/WD~Universal_Music_Group,38903]]'
-instance_of: '[[_Standards/WikiData/WD~musical_group,215380]]'
+- '[[_Standards/WikiData/WD~Columbia_Records,183387|WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~Island_Records,190585|WD~Island_Records,190585]]'
+- '[[_Standards/WikiData/WD~Geffen_Records,212699|WD~Geffen_Records,212699]]'
+- '[[_Standards/WikiData/WD~Epic_Records,216364|WD~Epic_Records,216364]]'
+- '[[_Standards/WikiData/WD~Interscope_Records,231694|WD~Interscope_Records,231694]]'
+- '[[_Standards/WikiData/WD~Hollywood_Records,387539|WD~Hollywood_Records,387539]]'
+- '[[_Standards/WikiData/WD~Sony_Music,56760250|WD~Sony_Music,56760250]]'
+- '[[_Standards/WikiData/WD~Universal_Music_Group,38903|WD~Universal_Music_Group,38903]]'
+instance_of: '[[_Standards/WikiData/WD~musical_group,215380|WD~musical_group,215380]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Brian_Johnson,295948]]'
-- '[[_Standards/WikiData/WD~Cliff_Williams,318694]]'
-- '[[_Standards/WikiData/WD~Chris_Chaney,598026]]'
-- '[[_Standards/WikiData/WD~Stevie_Young,1319593]]'
-- '[[_Standards/WikiData/WD~Matt_Laug,1756558]]'
-- '[[_Standards/WikiData/WD~Angus_Young,43932]]'
-influenced_by: '[[_Standards/WikiData/WD~Airbourne,408139]]'
-discography: '[[_Standards/WikiData/WD~AC_DC_discography,430476]]'
-has_list: '[[_Standards/WikiData/WD~list_of_band_members_of_AC_DC,3044863]]'
-different_from: '[[_Standards/WikiData/WD~AC_DC_receiver_design,4650474]]'
-archives_at: '[[_Standards/WikiData/WD~Australian_Performing_Arts_Collection,7168281]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_AC_DC,7219634]]'
-described_by_source: '[[_Standards/WikiData/WD~Myggans_nöjeslexikon_1_A_Barc_(Swedish),101089426]]'
-country_of_origin: '[[_Standards/WikiData/WD~Australia,408]]'
-location_of_formation: '[[_Standards/WikiData/WD~Sydney,3130]]'
+- '[[_Standards/WikiData/WD~Brian_Johnson,295948|WD~Brian_Johnson,295948]]'
+- '[[_Standards/WikiData/WD~Cliff_Williams,318694|WD~Cliff_Williams,318694]]'
+- '[[_Standards/WikiData/WD~Chris_Chaney,598026|WD~Chris_Chaney,598026]]'
+- '[[_Standards/WikiData/WD~Stevie_Young,1319593|WD~Stevie_Young,1319593]]'
+- '[[_Standards/WikiData/WD~Matt_Laug,1756558|WD~Matt_Laug,1756558]]'
+- '[[_Standards/WikiData/WD~Angus_Young,43932|WD~Angus_Young,43932]]'
+influenced_by: '[[_Standards/WikiData/WD~Airbourne,408139|WD~Airbourne,408139]]'
+discography: '[[_Standards/WikiData/WD~AC_DC_discography,430476|WD~AC_DC_discography,430476]]'
+has_list: '[[_Standards/WikiData/WD~list_of_band_members_of_AC_DC,3044863|WD~list_of_band_members_of_AC_DC,3044863]]'
+different_from: '[[_Standards/WikiData/WD~AC_DC_receiver_design,4650474|WD~AC_DC_receiver_design,4650474]]'
+archives_at: '[[_Standards/WikiData/WD~Australian_Performing_Arts_Collection,7168281|WD~Australian_Performing_Arts_Collection,7168281]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_AC_DC,7219634|WD~Template_AC_DC,7219634]]'
+described_by_source: '[[_Standards/WikiData/WD~Myggans_nöjeslexikon_1_A_Barc_(Swedish),101089426|WD~Myggans_nöjeslexikon_1_A_Barc_(Swedish),101089426]]'
+country_of_origin: '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+location_of_formation: '[[_Standards/WikiData/WD~Sydney,3130|WD~Sydney,3130]]'
 social_media_followers: 10900000
 Commons_gallery: AC/DC
 Commons_category: AC/DC
@@ -175,7 +175,7 @@ dv_has_:
 # [[AC-DC]]
 
 
-#is_/same_as :: [[../../../../../../../_Standards/WikiData/WD~AC_DC,27593]] 
+#is_/same_as :: [[../../../../../../../_Standards/WikiData/WD~AC_DC,27593|WD~AC_DC,27593]] 
 
 > AC/DC are an Australian rock band formed in Sydney in 1973. 
 > Their music has been variously described as hard rock, blues rock and heavy metal, 

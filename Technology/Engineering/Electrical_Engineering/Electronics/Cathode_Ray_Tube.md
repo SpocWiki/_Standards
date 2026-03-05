@@ -64,16 +64,16 @@ aliases:
 - 陰極射線管
 - 음극선관
 has_id_wikidata: Q83913
-named_after: '[[_Standards/WikiData/WD~cathode,175233]]'
+named_after: '[[_Standards/WikiData/WD~cathode,175233|WD~cathode,175233]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~vacuum_tube,3574371]]'
-- '[[_Standards/WikiData/WD~display_technology,54006339]]'
+- '[[_Standards/WikiData/WD~vacuum_tube,3574371|WD~vacuum_tube,3574371]]'
+- '[[_Standards/WikiData/WD~display_technology,54006339|WD~display_technology,54006339]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 part_of:
-- '[[_Standards/WikiData/WD~computer_monitor,5290]]'
-- '[[_Standards/WikiData/WD~television_set,8075]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Ferdinand_Braun,57077]]'
+- '[[_Standards/WikiData/WD~computer_monitor,5290|WD~computer_monitor,5290]]'
+- '[[_Standards/WikiData/WD~television_set,8075|WD~television_set,8075]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Ferdinand_Braun,57077|WD~Ferdinand_Braun,57077]]'
 OmegaWiki_Defined_Meaning: 639075
 subreddit:
 - crt

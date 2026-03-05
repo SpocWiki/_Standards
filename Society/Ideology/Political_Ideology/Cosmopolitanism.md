@@ -56,20 +56,20 @@ aliases:
 - 세계주의
 has_id_wikidata: Q188843
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~provincialism,1733479]]'
-- '[[_Standards/WikiData/WD~parochialism,30323949]]'
-- '[[_Standards/WikiData/WD~nationalism,6235]]'
-- '[[_Standards/WikiData/WD~patriotism,6241]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~universalism,6843150]]'
-subclass_of: '[[_Standards/WikiData/WD~political_thought,11499141]]'
+- '[[_Standards/WikiData/WD~provincialism,1733479|WD~provincialism,1733479]]'
+- '[[_Standards/WikiData/WD~parochialism,30323949|WD~parochialism,30323949]]'
+- '[[_Standards/WikiData/WD~nationalism,6235|WD~nationalism,6235]]'
+- '[[_Standards/WikiData/WD~patriotism,6241|WD~patriotism,6241]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~universalism,6843150|WD~universalism,6843150]]'
+subclass_of: '[[_Standards/WikiData/WD~political_thought,11499141|WD~political_thought,11499141]]'
 instance_of:
-- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-- '[[_Standards/WikiData/WD~world_view,49447]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse-Diogenes.jpg
 PhilPapers_topic: cosmopolitanism
 Library_of_Congress_Classification: JZ1308

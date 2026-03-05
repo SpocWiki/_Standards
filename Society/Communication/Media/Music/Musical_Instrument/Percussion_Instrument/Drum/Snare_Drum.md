@@ -50,16 +50,16 @@ aliases:
 - 작은북
 has_id_wikidata: Q208421
 has_use:
-- '[[_Standards/WikiData/WD~drum_kit,128309]]'
-- '[[_Standards/WikiData/WD~military_band,1078286]]'
-- '[[_Standards/WikiData/WD~samba_school,2641403]]'
+- '[[_Standards/WikiData/WD~drum_kit,128309|WD~drum_kit,128309]]'
+- '[[_Standards/WikiData/WD~military_band,1078286|WD~military_band,1078286]]'
+- '[[_Standards/WikiData/WD~samba_school,2641403|WD~samba_school,2641403]]'
 used_by:
-- '[[_Standards/WikiData/WD~drummer,386854]]'
-- '[[_Standards/WikiData/WD~percussionist,4351403]]'
+- '[[_Standards/WikiData/WD~drummer,386854|WD~drummer,386854]]'
+- '[[_Standards/WikiData/WD~percussionist,4351403|WD~percussionist,4351403]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~individual_double_skin_cylindrical_drums,_one_skin_used_for_playing,55723221]]'
-- '[[_Standards/WikiData/WD~drum,11404]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+- '[[_Standards/WikiData/WD~individual_double_skin_cylindrical_drums,_one_skin_used_for_playing,55723221|WD~individual_double_skin_cylindrical_drums,_one_skin_used_for_playing,55723221]]'
+- '[[_Standards/WikiData/WD~drum,11404|WD~drum,11404]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396|WD~type_of_musical_instrument,110295396]]'
 Nomenclature_for_Museum_Cataloging: 10745
 Amazon_com_browse_node:
 - 11970561

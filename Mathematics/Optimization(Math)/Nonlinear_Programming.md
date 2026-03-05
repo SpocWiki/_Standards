@@ -32,8 +32,8 @@ aliases:
 - 비선형 계획법
 has_id_wikidata: Q769909
 subclass_of:
-- '[[_Standards/WikiData/WD~optimization_problem,984063]]'
-- '[[_Standards/WikiData/WD~mathematical_programming,10578306]]'
+- '[[_Standards/WikiData/WD~optimization_problem,984063|WD~optimization_problem,984063]]'
+- '[[_Standards/WikiData/WD~mathematical_programming,10578306|WD~mathematical_programming,10578306]]'
 Stack_Exchange_tag: https://or.stackexchange.com/tags/nonlinear-programming
 dv_has_:
   name_:

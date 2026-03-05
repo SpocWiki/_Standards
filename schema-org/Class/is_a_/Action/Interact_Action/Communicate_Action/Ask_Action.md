@@ -37,7 +37,7 @@ dv_is_:
     - "[[Ask_Action]]"
 dv_has_:
   parent_class:
-    - "[[../CommunicateAction]]"
+    - "[[../CommunicateAction|CommunicateAction]]"
   properties:
     - "[[about|about]]"
     - "[[../../../../../Relation/has/has_action/has_action_status|has_action_status]]"
@@ -69,7 +69,7 @@ dv_has_:
     - "[[../../../../../Relation/has/has_target|has_target]]"
     - "[[../../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../communicate_action|../communicate_action]]"
+  - "[[../communicate_action|../communicate_action|communicate_action]]"
 dv_has_properties:
   - "[[about|about]]"
   - "[[../../../../../Relation/has/has_action/has_action_status|has_action_status]]"

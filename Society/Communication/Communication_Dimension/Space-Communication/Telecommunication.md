@@ -114,19 +114,19 @@ aliases:
 - 원거리 통신
 has_id_wikidata: Q418
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-subclass_of: '[[_Standards/WikiData/WD~remote_communication,1472062]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+subclass_of: '[[_Standards/WikiData/WD~remote_communication,1472062|WD~remote_communication,1472062]]'
 different_from:
-- '[[_Standards/WikiData/WD~telecommunications,2401742]]'
-- '[[_Standards/WikiData/WD~teleconnection,3982797]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~telecommunications,2401742]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_telecommunication,2750030]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_telecommunications,3123418]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_telecommunication,7112741]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Telecommunications,14397509]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~telecommunications,2401742|WD~telecommunications,2401742]]'
+- '[[_Standards/WikiData/WD~teleconnection,3982797|WD~teleconnection,3982797]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~telecommunications,2401742|WD~telecommunications,2401742]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_telecommunication,2750030|WD~history_of_telecommunication,2750030]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_telecommunications,3123418|WD~geography_of_telecommunications,3123418]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_telecommunication,7112741|WD~outline_of_telecommunication,7112741]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Telecommunications,14397509|WD~Template_Telecommunications,14397509]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 Dewey_Decimal_Classification:
 - 384
 - 621.382

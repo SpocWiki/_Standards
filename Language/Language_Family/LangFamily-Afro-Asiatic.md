@@ -136,26 +136,26 @@ tags:
 - Lang_Family
 type: LangFamily
 instance_of:
-- '[[_Standards/WikiData/WD~macrofamily,949344]]'
-- '[[_Standards/WikiData/WD~language_family,25295]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Afroasiatic_languages,20054808]]'
-subclass_of: '[[_Standards/WikiData/WD~human_language,20162172]]'
+- '[[_Standards/WikiData/WD~macrofamily,949344|WD~macrofamily,949344]]'
+- '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Afroasiatic_languages,20054808|WD~Template_Afroasiatic_languages,20054808]]'
+subclass_of: '[[_Standards/WikiData/WD~human_language,20162172|WD~human_language,20162172]]'
 different_from:
-- '[[_Standards/WikiData/WD~Afroasiatism,25403764]]'
-- '[[_Standards/WikiData/WD~Afroasiatic_peoples,63361041]]'
+- '[[_Standards/WikiData/WD~Afroasiatism,25403764|WD~Afroasiatism,25403764]]'
+- '[[_Standards/WikiData/WD~Afroasiatic_peoples,63361041|WD~Afroasiatic_peoples,63361041]]'
 named_after:
-- '[[_Standards/WikiData/WD~Afro_Asia,125965270]]'
-- '[[_Standards/WikiData/WD~Africa,15]]'
-- '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Afro_Asia,125965270|WD~Afro_Asia,125965270]]'
+- '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 inception: -7000-06
 has_part_s_:
-- '[[_Standards/WikiData/WD~Berber,25448]]'
-- '[[_Standards/WikiData/WD~Chadic,33184]]'
-- '[[_Standards/WikiData/WD~Cushitic,33248]]'
-- '[[_Standards/WikiData/WD~Omotic,33860]]'
-- '[[_Standards/WikiData/WD~Semitic,34049]]'
-- '[[_Standards/WikiData/WD~Egyptian,50868]]'
+- '[[_Standards/WikiData/WD~Berber,25448|WD~Berber,25448]]'
+- '[[_Standards/WikiData/WD~Chadic,33184|WD~Chadic,33184]]'
+- '[[_Standards/WikiData/WD~Cushitic,33248|WD~Cushitic,33248]]'
+- '[[_Standards/WikiData/WD~Omotic,33860|WD~Omotic,33860]]'
+- '[[_Standards/WikiData/WD~Semitic,34049|WD~Semitic,34049]]'
+- '[[_Standards/WikiData/WD~Egyptian,50868|WD~Egyptian,50868]]'
 number_of_speakers_writers_or_signers: 270000000
 Dewey_Decimal_Classification: 492
 OmegaWiki_Defined_Meaning: 6840
@@ -329,7 +329,7 @@ dv_has_:
 
 has_/name::Afro-Asiatic 
 
-#is_/same_as :: [[../../WikiData/WD~Afroasiatic,25268]] 
+#is_/same_as :: [[../../WikiData/WD~Afroasiatic,25268|WD~Afroasiatic,25268]] 
 
 
 ## Confidential Links & Embeds: 

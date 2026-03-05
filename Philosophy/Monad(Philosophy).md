@@ -1,5 +1,5 @@
 
-#is_/different_from :: [[../../Knowledge/Math/Category_Theory.internal/Monad]]  
+#is_/different_from :: [[../../Knowledge/Math/Category_Theory.internal/Monad|Monad]]  
 
 ## #has_/text_of_/abstract 
 

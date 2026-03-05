@@ -157,31 +157,31 @@ aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Ruthin%20electri
 Colon_Classification: C6
 Commons_category: Electricity
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
 Dewey_Decimal_Classification: 537
-different_from: '[[_Standards/WikiData/WD~eleki,108297234]]'
-facet_of: '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-has_part_s_: '[[_Standards/WikiData/WD~electrical_polarity,1985691]]'
+different_from: '[[_Standards/WikiData/WD~eleki,108297234|WD~eleki,108297234]]'
+facet_of: '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+has_part_s_: '[[_Standards/WikiData/WD~electrical_polarity,1985691|WD~electrical_polarity,1985691]]'
 IEV_number: 121-11-76
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lightning%20simulator%20questacon04.jpg
 Library_of_Congress_Classification: QC501-QC721
 MeSH_tree_code: G01.358.500.249
 OmegaWiki_Defined_Meaning: 1109
-part_of: '[[_Standards/WikiData/WD~electromagnetism,11406]]'
+part_of: '[[_Standards/WikiData/WD~electromagnetism,11406|WD~electromagnetism,11406]]'
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/electricity
 studied_in:
-- '[[_Standards/WikiData/WD~electrochemistry,7877]]'
-- '[[_Standards/WikiData/WD~electromagnetism,11406]]'
+- '[[_Standards/WikiData/WD~electrochemistry,7877|WD~electrochemistry,7877]]'
+- '[[_Standards/WikiData/WD~electromagnetism,11406|WD~electromagnetism,11406]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-- '[[_Standards/WikiData/WD~energy_source,1522115]]'
-- '[[_Standards/WikiData/WD~energy,11379]]'
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+- '[[_Standards/WikiData/WD~energy_source,1522115|WD~energy_source,1522115]]'
+- '[[_Standards/WikiData/WD~energy,11379|WD~energy,11379]]'
 time_of_discovery_or_invention: 1821
 U_S_National_Archives_Identifier: 10639437
 dv_has_:

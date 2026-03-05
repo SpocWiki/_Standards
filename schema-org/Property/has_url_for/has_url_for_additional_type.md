@@ -27,7 +27,7 @@ tags:
 title: has_url_for_additional_type
 type: Predi_Url
 dv_has_:
-  domain: "[[../../Class/Thing]]"
+  domain: "[[../../Class/Thing|Thing]]"
   name: has_url_for_additional_type
   range: URL
   parent_:
@@ -41,7 +41,7 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url_for_additional_type.private|has_url_for_additional_type.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url_for_additional_type.personal|has_url_for_additional_type.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url_for_additional_type.secret|has_url_for_additional_type.secret]]"
-dv_has_domain: "[[../../Class/Thing]]"
+dv_has_domain: "[[../../Class/Thing|Thing]]"
 dv_has_name: has_url_for_additional_type
 dv_has_range: URL
 dv_has_parent_property: "[ [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) ]"

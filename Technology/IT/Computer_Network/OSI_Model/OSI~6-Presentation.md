@@ -45,11 +45,11 @@ aliases:
 - 表示層
 - 표현 계층
 has_id_wikidata: Q215121
-part_of: '[[_Standards/WikiData/WD~OSI_model,93312]]'
-followed_by: '[[_Standards/WikiData/WD~application_layer,189768]]'
-follows: '[[_Standards/WikiData/WD~session_layer,216292]]'
-instance_of: '[[_Standards/WikiData/WD~OSI_model_layer,65054805]]'
-standards_body: '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]'
+part_of: '[[_Standards/WikiData/WD~OSI_model,93312|WD~OSI_model,93312]]'
+followed_by: '[[_Standards/WikiData/WD~application_layer,189768|WD~application_layer,189768]]'
+follows: '[[_Standards/WikiData/WD~session_layer,216292|WD~session_layer,216292]]'
+instance_of: '[[_Standards/WikiData/WD~OSI_model_layer,65054805|WD~OSI_model_layer,65054805]]'
+standards_body: '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028|WD~International_Organization_for_Standardization,15028]]'
 official_website: https://www.iso.org/ics/35.100.60/x/
 Stack_Exchange_tag: https://stackoverflow.com/tags/presentation-layer
 dv_has_:
@@ -118,7 +118,7 @@ dv_has_:
 
 # [[OSI~6-Presentation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~presentation_layer,215121]] 
+#is_/same_as :: [[_Standards/WikiData/WD~presentation_layer,215121|WD~presentation_layer,215121]] 
 
 ## #has_/text_of_/abstract 
 

@@ -22,25 +22,25 @@ aliases:
 - 버드라이프 인터내셔널
 has_id_wikidata: Q210108
 instance_of:
-- '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
-- '[[_Standards/WikiData/WD~charitable_organization,708676]]'
-- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
-- '[[_Standards/WikiData/WD~conservation_organization,1899015]]'
-- '[[_Standards/WikiData/WD~biological_database,4117139]]'
-- '[[_Standards/WikiData/WD~online_database,7094076]]'
-award_received: '[[_Standards/WikiData/WD~Dr_A._H._Heineken_Prize_for_Environmental_Sciences,278251]]'
-legal_form: '[[_Standards/WikiData/WD~charitable_organization,708676]]'
-field_of_work: '[[_Standards/WikiData/WD~bird_conservation,2005829]]'
+- '[[_Standards/WikiData/WD~nonprofit_organization,163740|WD~nonprofit_organization,163740]]'
+- '[[_Standards/WikiData/WD~charitable_organization,708676|WD~charitable_organization,708676]]'
+- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093|WD~international_non_governmental_organization,1194093]]'
+- '[[_Standards/WikiData/WD~conservation_organization,1899015|WD~conservation_organization,1899015]]'
+- '[[_Standards/WikiData/WD~biological_database,4117139|WD~biological_database,4117139]]'
+- '[[_Standards/WikiData/WD~online_database,7094076|WD~online_database,7094076]]'
+award_received: '[[_Standards/WikiData/WD~Dr_A._H._Heineken_Prize_for_Environmental_Sciences,278251|WD~Dr_A._H._Heineken_Prize_for_Environmental_Sciences,278251]]'
+legal_form: '[[_Standards/WikiData/WD~charitable_organization,708676|WD~charitable_organization,708676]]'
+field_of_work: '[[_Standards/WikiData/WD~bird_conservation,2005829|WD~bird_conservation,2005829]]'
 official_observer_status_in_organisation:
-- '[[_Standards/WikiData/WD~Western_and_Central_Pacific_Fisheries_Commission,2565027]]'
-- '[[_Standards/WikiData/WD~Inter_American_Tropical_Tuna_Commission,3153044]]'
-partnership_with: '[[_Standards/WikiData/WD~Romanian_Ornithological_Society,28726027]]'
+- '[[_Standards/WikiData/WD~Western_and_Central_Pacific_Fisheries_Commission,2565027|WD~Western_and_Central_Pacific_Fisheries_Commission,2565027]]'
+- '[[_Standards/WikiData/WD~Inter_American_Tropical_Tuna_Commission,3153044|WD~Inter_American_Tropical_Tuna_Commission,3153044]]'
+partnership_with: '[[_Standards/WikiData/WD~Romanian_Ornithological_Society,28726027|WD~Romanian_Ornithological_Society,28726027]]'
 Bluesky_handle: birdlifeglobal.bsky.social
-industry: '[[_Standards/WikiData/WD~environment,130370849]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Cambridge,350]]'
-language_used: '[[_Standards/WikiData/WD~English,1860]]'
+industry: '[[_Standards/WikiData/WD~environment,130370849|WD~environment,130370849]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Cambridge,350|WD~Cambridge,350]]'
+language_used: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
 Wikidata_property: BirdLife taxon ID
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 employees:
 - 196
 - 206

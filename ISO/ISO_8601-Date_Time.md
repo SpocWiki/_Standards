@@ -86,7 +86,7 @@ aliases:
 # Periods:
 Durations can be specified as alphanumeric Strings using this Format: 
 
-`P#Y#M#W#DT#H#M#S.fff` with the [[https://en.wikipedia.org/wiki/ISO_8601#Durations]] Duration Format.
+`P#Y#M#W#DT#H#M#S.fff` with the [[https://en.wikipedia.org/wiki/ISO_8601#Durations|ISO_8601]] Duration Format.
 - Any Unit can be omitted, together with its Designator, when 0. 
 - Any Unit Value can exceed its range or be negative. 
 - The smallest Unit Value used may have a decimal fraction with either a [comma](https://en.wikipedia.org/wiki/Comma "Comma") or a [full stop](https://en.wikipedia.org/wiki/Full_stop "Full stop"). 

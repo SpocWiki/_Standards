@@ -53,15 +53,15 @@ aliases:
 - 大數定律
 - 큰 수의 법칙
 has_id_wikidata: Q207952
-instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
-solved_by: '[[_Standards/WikiData/WD~Pafnuty_Chebyshev,206012]]'
-has_effect: '[[_Standards/WikiData/WD~faulty_generalization,2890850]]'
-different_from: '[[_Standards/WikiData/WD~Law_of_truly_large_numbers,2912340]]'
+instance_of: '[[_Standards/WikiData/WD~theorem,65943|WD~theorem,65943]]'
+solved_by: '[[_Standards/WikiData/WD~Pafnuty_Chebyshev,206012|WD~Pafnuty_Chebyshev,206012]]'
+has_effect: '[[_Standards/WikiData/WD~faulty_generalization,2890850|WD~faulty_generalization,2890850]]'
+different_from: '[[_Standards/WikiData/WD~Law_of_truly_large_numbers,2912340|WD~Law_of_truly_large_numbers,2912340]]'
 studied_by:
-- '[[_Standards/WikiData/WD~probability_theory,5862903]]'
-- '[[_Standards/WikiData/WD~Q114728427,114728427]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~probability_theory,5862903|WD~probability_theory,5862903]]'
+- '[[_Standards/WikiData/WD~Q114728427,114728427|WD~Q114728427,114728427]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Law-of-large-numbers.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Law%20of%20large%20numbers.gif

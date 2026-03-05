@@ -92,35 +92,35 @@ Commons_category: 2004 Indian Ocean tsunami
 Commons_gallery: 2004 Indian Ocean earthquake
 coordinate_location: Point(95.982 3.295)
 country:
-- '[[_Standards/WikiData/WD~French_Southern_and_Antarctic_Lands,129003]]'
-- '[[_Standards/WikiData/WD~Chagos_Archipelago,192188]]'
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Yemen,805]]'
-- '[[_Standards/WikiData/WD~Maldives,826]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Myanmar,836]]'
-- '[[_Standards/WikiData/WD~Sri_Lanka,854]]'
-- '[[_Standards/WikiData/WD~Thailand,869]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Tanzania,924]]'
-- '[[_Standards/WikiData/WD~Comoros,970]]'
-- '[[_Standards/WikiData/WD~Madagascar,1019]]'
-- '[[_Standards/WikiData/WD~Mauritius,1027]]'
-- '[[_Standards/WikiData/WD~Seychelles,1042]]'
-- '[[_Standards/WikiData/WD~Somalia,1045]]'
-- '[[_Standards/WikiData/WD~Kenya,114]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~French_Southern_and_Antarctic_Lands,129003|WD~French_Southern_and_Antarctic_Lands,129003]]'
+- '[[_Standards/WikiData/WD~Chagos_Archipelago,192188|WD~Chagos_Archipelago,192188]]'
+- '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Yemen,805|WD~Yemen,805]]'
+- '[[_Standards/WikiData/WD~Maldives,826|WD~Maldives,826]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
+- '[[_Standards/WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]'
+- '[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Comoros,970|WD~Comoros,970]]'
+- '[[_Standards/WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]'
+- '[[_Standards/WikiData/WD~Mauritius,1027|WD~Mauritius,1027]]'
+- '[[_Standards/WikiData/WD~Seychelles,1042|WD~Seychelles,1042]]'
+- '[[_Standards/WikiData/WD~Somalia,1045|WD~Somalia,1045]]'
+- '[[_Standards/WikiData/WD~Kenya,114|WD~Kenya,114]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/2004IndianOceanTsunami.jpg
 earthquake_magnitude_on_the_Richter_magnitude_scale: 9.3
 height: 30
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2004-tsunami.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~disaster,3839081]]'
-- '[[_Standards/WikiData/WD~earthquake,7944]]'
-- '[[_Standards/WikiData/WD~natural_disaster,8065]]'
-- '[[_Standards/WikiData/WD~tsunami,8070]]'
+- '[[_Standards/WikiData/WD~disaster,3839081|WD~disaster,3839081]]'
+- '[[_Standards/WikiData/WD~earthquake,7944|WD~earthquake,7944]]'
+- '[[_Standards/WikiData/WD~natural_disaster,8065|WD~natural_disaster,8065]]'
+- '[[_Standards/WikiData/WD~tsunami,8070|WD~tsunami,8070]]'
 locator_map_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Indian%20Ocean%20earthquake%20-%20affected%20countries.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Harta%20Ocean%20Indian%20Quake%20%28ja%29.png
@@ -131,7 +131,7 @@ locator_map_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Paises%20afectados%20por%20el%20terremoto%20del%20Oceano%20Indico%20de%202004.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Seisme%20Sumatra%20CADRE.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Terremoto%20do%20Oceano%20%C3%8Dndico%202004%20-%20Pa%C3%ADses%20Afetados.png
-modified_Mercalli_intensity_scale: '[[_Standards/WikiData/WD~Mercalli_scale_IX,23925706]]'
+modified_Mercalli_intensity_scale: '[[_Standards/WikiData/WD~Mercalli_scale_IX,23925706|WD~Mercalli_scale_IX,23925706]]'
 number_of_deaths: 227898
 number_of_injured: 125000
 P8189: 987007537403705171
@@ -245,7 +245,7 @@ dv_has_:
 #[[2004-Indian_Ocean_Tsunami]]] 
 
 
-#is_/same_as :: [[../../../../WikiData/WD~2004_Indian_Ocean_earthpene,130754]] 
+#is_/same_as :: [[../../../../WikiData/WD~2004_Indian_Ocean_earthpene,130754|WD~2004_Indian_Ocean_earthpene,130754]] 
 
 ## #has_/text_of_/abstract 
 

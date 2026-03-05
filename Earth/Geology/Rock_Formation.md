@@ -48,15 +48,15 @@ aliases:
 - 组
 - 지질계통
 has_id_wikidata: Q736917
-main_subject: '[[_Standards/WikiData/WD~stratigraphy,134783]]'
+main_subject: '[[_Standards/WikiData/WD~stratigraphy,134783|WD~stratigraphy,134783]]'
 different_from:
-- '[[_Standards/WikiData/WD~rock_formation,631305]]'
-- '[[_Standards/WikiData/WD~lithological_assemblage,5585345]]'
-has_part_s_: '[[_Standards/WikiData/WD~member,2092603]]'
-subclass_of: '[[_Standards/WikiData/WD~lithostratigraphic_unit,3550897]]'
-part_of: '[[_Standards/WikiData/WD~subgroup,11755860]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~formation,56756187]]'
+- '[[_Standards/WikiData/WD~rock_formation,631305|WD~rock_formation,631305]]'
+- '[[_Standards/WikiData/WD~lithological_assemblage,5585345|WD~lithological_assemblage,5585345]]'
+has_part_s_: '[[_Standards/WikiData/WD~member,2092603|WD~member,2092603]]'
+subclass_of: '[[_Standards/WikiData/WD~lithostratigraphic_unit,3550897|WD~lithostratigraphic_unit,3550897]]'
+part_of: '[[_Standards/WikiData/WD~subgroup,11755860|WD~subgroup,11755860]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~formation,56756187|WD~formation,56756187]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SEUtahStrat.JPG
 Commons_category: Geologic formations
 dv_is_:

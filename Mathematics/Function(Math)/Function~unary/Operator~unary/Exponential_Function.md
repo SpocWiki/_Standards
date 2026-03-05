@@ -70,21 +70,21 @@ aliases:
 - 指數函數
 - 지수 함수
 has_id_wikidata: Q168698
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~antilogarithm,577570]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~antilogarithm,577570|WD~antilogarithm,577570]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~transcendental_function,864333]]'
-- '[[_Standards/WikiData/WD~unary_function,7882311]]'
+- '[[_Standards/WikiData/WD~transcendental_function,864333|WD~transcendental_function,864333]]'
+- '[[_Standards/WikiData/WD~unary_function,7882311|WD~unary_function,7882311]]'
 different_from:
-- '[[_Standards/WikiData/WD~exponential_equation,1062932]]'
-- '[[_Standards/WikiData/WD~power_function,1173515]]'
-- '[[_Standards/WikiData/WD~natural_exponential_function,47306354]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]'
-image_of_function: '[[_Standards/WikiData/WD~set_of_positive_real_numbers,47494165]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
-opposite_of: '[[_Standards/WikiData/WD~logarithm,11197]]'
-uses: '[[_Standards/WikiData/WD~exponentiation,33456]]'
-has_part_s_: '[[_Standards/WikiData/WD~exponentiation,33456]]'
+- '[[_Standards/WikiData/WD~exponential_equation,1062932|WD~exponential_equation,1062932]]'
+- '[[_Standards/WikiData/WD~power_function,1173515|WD~power_function,1173515]]'
+- '[[_Standards/WikiData/WD~natural_exponential_function,47306354|WD~natural_exponential_function,47306354]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819|WD~type_of_mathematical_function,47279819]]'
+image_of_function: '[[_Standards/WikiData/WD~set_of_positive_real_numbers,47494165|WD~set_of_positive_real_numbers,47494165]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+opposite_of: '[[_Standards/WikiData/WD~logarithm,11197|WD~logarithm,11197]]'
+uses: '[[_Standards/WikiData/WD~exponentiation,33456|WD~exponentiation,33456]]'
+has_part_s_: '[[_Standards/WikiData/WD~exponentiation,33456|WD~exponentiation,33456]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Exponentials.svg
 Commons_category: Exponential functions
 dv_has_:

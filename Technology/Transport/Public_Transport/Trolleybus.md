@@ -55,16 +55,16 @@ aliases:
 - 트롤리버스
 has_id_wikidata: Q5639
 subclass_of:
-- '[[_Standards/WikiData/WD~electric_bus,926499]]'
-- '[[_Standards/WikiData/WD~electric_vehicle,13629441]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_trolleybus_transport,1517460]]'
-has_list: '[[_Standards/WikiData/WD~list_of_trolleybus_systems,1759138]]'
-different_from: '[[_Standards/WikiData/WD~Obus,2013246]]'
-has_use: '[[_Standards/WikiData/WD~passenger_transport,2072431]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_trolleybus,10809989]]'
-instance_of: '[[_Standards/WikiData/WD~bus_type,56887437]]'
-has_part_s_: '[[_Standards/WikiData/WD~driving_school_trolleybus,130614245]]'
+- '[[_Standards/WikiData/WD~electric_bus,926499|WD~electric_bus,926499]]'
+- '[[_Standards/WikiData/WD~electric_vehicle,13629441|WD~electric_vehicle,13629441]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_trolleybus_transport,1517460|WD~history_of_trolleybus_transport,1517460]]'
+has_list: '[[_Standards/WikiData/WD~list_of_trolleybus_systems,1759138|WD~list_of_trolleybus_systems,1759138]]'
+different_from: '[[_Standards/WikiData/WD~Obus,2013246|WD~Obus,2013246]]'
+has_use: '[[_Standards/WikiData/WD~passenger_transport,2072431|WD~passenger_transport,2072431]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_trolleybus,10809989|WD~Template_Infobox_trolleybus,10809989]]'
+instance_of: '[[_Standards/WikiData/WD~bus_type,56887437|WD~bus_type,56887437]]'
+has_part_s_: '[[_Standards/WikiData/WD~driving_school_trolleybus,130614245|WD~driving_school_trolleybus,130614245]]'
 service_life: 25
 Commons_gallery: Trolleybus
 Nomenclature_for_Museum_Cataloging: 12191

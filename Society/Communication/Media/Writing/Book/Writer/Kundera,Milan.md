@@ -97,7 +97,7 @@ dv_has_:
 > His Czechoslovak citizenship was revoked in 1979, 
 > but he was granted Czech citizenship in 2019.
 >
-> Kundera's best-known work is The [[../../movie/Horror-Movie/Unbearable_Lightness_of_Being]]. 
+> Kundera's best-known work is The [[../../movie/Horror-Movie/Unbearable_Lightness_of_Being|Unbearable_Lightness_of_Being]]. 
 > Before the Velvet Revolution of 1989, 
 > the country's ruling Communist Party of Czechoslovakia banned his books. 
 > 

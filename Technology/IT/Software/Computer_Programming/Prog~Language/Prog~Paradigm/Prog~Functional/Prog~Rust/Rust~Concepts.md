@@ -28,7 +28,7 @@ type: private note
 
 # [[Rust~Concepts]] 
 
-#is_/part_of :: [[../Prog~Rust]] 
+#is_/part_of :: [[../Prog~Rust|Prog~Rust]] 
 
 
 Rust is an C-like, imperative, high-performance programming Language. 

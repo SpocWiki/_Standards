@@ -34,7 +34,7 @@ Represents additional information about a relationship or property. For example 
 
 See also <a href="http://blog.schema.org/2014/06/introducing-role.html">blog post</a>.
 
-#has_/parent_class :: [[../../../../schema-org/Class/is_a_/Intangible]]  
+#has_/parent_class :: [[../../../../schema-org/Class/is_a_/Intangible|Intangible]]  
 
 #has_/child_/class :: [ LinkRole, OrganizationRole, PerformanceRole ]  
 

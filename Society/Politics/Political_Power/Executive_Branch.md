@@ -102,19 +102,19 @@ aliases:
 - 行政機関
 - 행정기관
 has_id_wikidata: Q35798
-facet_of: '[[_Standards/WikiData/WD~separation_of_powers,79896]]'
-described_by_source: '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+facet_of: '[[_Standards/WikiData/WD~separation_of_powers,79896|WD~separation_of_powers,79896]]'
+described_by_source: '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~organ_of_state,948571]]'
-- '[[_Standards/WikiData/WD~state_power,2324993]]'
-- '[[_Standards/WikiData/WD~political_organization,7210356]]'
+- '[[_Standards/WikiData/WD~organ_of_state,948571|WD~organ_of_state,948571]]'
+- '[[_Standards/WikiData/WD~state_power,2324993|WD~state_power,2324993]]'
+- '[[_Standards/WikiData/WD~political_organization,7210356|WD~political_organization,7210356]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~governance,1553864]]'
-- '[[_Standards/WikiData/WD~public_administration,31728]]'
+- '[[_Standards/WikiData/WD~governance,1553864|WD~governance,1553864]]'
+- '[[_Standards/WikiData/WD~public_administration,31728|WD~public_administration,31728]]'
 part_of:
-- '[[_Standards/WikiData/WD~political_power,2101636]]'
-- '[[_Standards/WikiData/WD~government,7188]]'
-opposite_of: '[[_Standards/WikiData/WD~non_executive_branch,118127093]]'
+- '[[_Standards/WikiData/WD~political_power,2101636|WD~political_power,2101636]]'
+- '[[_Standards/WikiData/WD~government,7188|WD~government,7188]]'
+opposite_of: '[[_Standards/WikiData/WD~non_executive_branch,118127093|WD~non_executive_branch,118127093]]'
 Wikidata_property: executive body
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundeskanzleramt%2C%20Weihnachtsbaum%2C%20Blaue%20Stunde%2C%20Berlin%2C%20151223%2C%20ako.jpg
 dv_has_:

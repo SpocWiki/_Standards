@@ -48,16 +48,16 @@ aliases:
 - 축바퀴
 has_id_wikidata: Q592289
 subclass_of:
-- '[[_Standards/WikiData/WD~lifting_equipment,173878]]'
-- '[[_Standards/WikiData/WD~simple_machine,186713]]'
+- '[[_Standards/WikiData/WD~lifting_equipment,173878|WD~lifting_equipment,173878]]'
+- '[[_Standards/WikiData/WD~simple_machine,186713|WD~simple_machine,186713]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~axle,188209]]'
-- '[[_Standards/WikiData/WD~wheel,446]]'
+- '[[_Standards/WikiData/WD~axle,188209|WD~axle,188209]]'
+- '[[_Standards/WikiData/WD~wheel,446|WD~wheel,446]]'
 different_from:
-- '[[_Standards/WikiData/WD~windlass,2373406]]'
-- '[[_Standards/WikiData/WD~Q16291272,16291272]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-part_of: '[[_Standards/WikiData/WD~water_well,43483]]'
+- '[[_Standards/WikiData/WD~windlass,2373406|WD~windlass,2373406]]'
+- '[[_Standards/WikiData/WD~Q16291272,16291272|WD~Q16291272,16291272]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+part_of: '[[_Standards/WikiData/WD~water_well,43483|WD~water_well,43483]]'
 Commons_category: Windlass
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wheelaxle%20quackenbos.gif
 dv_has_:

@@ -33,8 +33,8 @@ aliases:
 - 轫致辐射
 - 제동 복사
 has_id_wikidata: Q655904
-subclass_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
-has_effect: '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
+subclass_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754|WD~electromagnetic_radiation,12969754]]'
+has_effect: '[[_Standards/WikiData/WD~electromagnetic_wave,11386|WD~electromagnetic_wave,11386]]'
 OmegaWiki_Defined_Meaning: 828126
 Commons_category: Bremsstrahlung
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bremsstrahlung.png

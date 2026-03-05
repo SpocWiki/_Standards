@@ -4,7 +4,7 @@ It involves specifying in Detail what the Computer should do and exactly in whic
 
 When using lowest-Level Constructs, this Paradigm does not scale, because of Volume and missing Abstraction. 
 
-The next Level is [[Prog~Paradigm/Prog~Structured]], which allows to build higher-Level Routines. 
+The next Level is [[Prog~Paradigm/Prog~Structured|Prog~Structured]], which allows to build higher-Level Routines. 
 
 
 ## Confidential Links & Embeds: 

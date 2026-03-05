@@ -62,18 +62,18 @@ aliases:
 - 자기 테이프
 has_id_wikidata: Q193663
 derivative_work:
-- '[[_Standards/WikiData/WD~compact_cassette,149757]]'
-- '[[_Standards/WikiData/WD~magnetic_stripe_card,2082626]]'
+- '[[_Standards/WikiData/WD~compact_cassette,149757|WD~compact_cassette,149757]]'
+- '[[_Standards/WikiData/WD~magnetic_stripe_card,2082626|WD~magnetic_stripe_card,2082626]]'
 used_by:
-- '[[_Standards/WikiData/WD~compact_cassette,149757]]'
-- '[[_Standards/WikiData/WD~reel_to_reel_audio_tape,544858]]'
-- '[[_Standards/WikiData/WD~magnetic_stripe_card,2082626]]'
+- '[[_Standards/WikiData/WD~compact_cassette,149757|WD~compact_cassette,149757]]'
+- '[[_Standards/WikiData/WD~reel_to_reel_audio_tape,544858|WD~reel_to_reel_audio_tape,544858]]'
+- '[[_Standards/WikiData/WD~magnetic_stripe_card,2082626|WD~magnetic_stripe_card,2082626]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~recording_medium,193395]]'
-- '[[_Standards/WikiData/WD~machine_readable_medium,1048236]]'
-- '[[_Standards/WikiData/WD~product,2424752]]'
-- '[[_Standards/WikiData/WD~magnetic_memory,60475555]]'
-has_part_s_: '[[_Standards/WikiData/WD~magnetic_particle,105954869]]'
+- '[[_Standards/WikiData/WD~recording_medium,193395|WD~recording_medium,193395]]'
+- '[[_Standards/WikiData/WD~machine_readable_medium,1048236|WD~machine_readable_medium,1048236]]'
+- '[[_Standards/WikiData/WD~product,2424752|WD~product,2424752]]'
+- '[[_Standards/WikiData/WD~magnetic_memory,60475555|WD~magnetic_memory,60475555]]'
+has_part_s_: '[[_Standards/WikiData/WD~magnetic_particle,105954869|WD~magnetic_particle,105954869]]'
 Nomenclature_for_Museum_Cataloging: 10491
 ACM_Classification_Code_2012_: 10003156
 equivalent_class: http://purl.org/ontology/mo/MagneticTape

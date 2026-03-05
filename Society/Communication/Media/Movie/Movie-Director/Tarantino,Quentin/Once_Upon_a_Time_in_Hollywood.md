@@ -1,7 +1,7 @@
 
 # [[Once_Upon_a_Time_in_Hollywood]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Once_Upon_a_Time_in_Hollywood,47300912]]
+#is_/same_as :: [[_Standards/WikiData/WD~Once_Upon_a_Time_in_Hollywood,47300912|WD~Once_Upon_a_Time_in_Hollywood,47300912]]
 
 ## #has_/text_of_/abstract 
 

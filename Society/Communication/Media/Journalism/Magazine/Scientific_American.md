@@ -17,39 +17,39 @@ aliases:
 - 科學美國人
 - 사이언티픽 아메리칸
 has_id_wikidata: Q39379
-publisher: '[[_Standards/WikiData/WD~Nature_Portfolio,180419]]'
+publisher: '[[_Standards/WikiData/WD~Nature_Portfolio,180419|WD~Nature_Portfolio,180419]]'
 indexed_in_bibliographic_review:
-- '[[_Standards/WikiData/WD~Scopus,371467]]'
-- '[[_Standards/WikiData/WD~Science_Citation_Index_Expanded,104047209]]'
-main_subject: '[[_Standards/WikiData/WD~popular_science,995600]]'
-collection: '[[_Standards/WikiData/WD~JSTOR,1420342]]'
+- '[[_Standards/WikiData/WD~Scopus,371467|WD~Scopus,371467]]'
+- '[[_Standards/WikiData/WD~Science_Citation_Index_Expanded,104047209|WD~Science_Citation_Index_Expanded,104047209]]'
+main_subject: '[[_Standards/WikiData/WD~popular_science,995600|WD~popular_science,995600]]'
+collection: '[[_Standards/WikiData/WD~JSTOR,1420342|WD~JSTOR,1420342]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~Spektrum_der_Wissenschaft,1610770]]'
-- '[[_Standards/WikiData/WD~Investigacion_y_Ciencia,6449171]]'
+- '[[_Standards/WikiData/WD~Spektrum_der_Wissenschaft,1610770|WD~Spektrum_der_Wissenschaft,1610770]]'
+- '[[_Standards/WikiData/WD~Investigacion_y_Ciencia,6449171|WD~Investigacion_y_Ciencia,6449171]]'
 instance_of:
-- '[[_Standards/WikiData/WD~popular_science_magazine,1911105]]'
-- '[[_Standards/WikiData/WD~scientific_journal,5633421]]'
+- '[[_Standards/WikiData/WD~popular_science_magazine,1911105|WD~popular_science_magazine,1911105]]'
+- '[[_Standards/WikiData/WD~scientific_journal,5633421|WD~scientific_journal,5633421]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~The_Amateur_Scientist,3985636]]'
-- '[[_Standards/WikiData/WD~Mathematical_Games,80827227]]'
-founded_by: '[[_Standards/WikiData/WD~Rufus_Porter,7378087]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~Springer_Nature,21096327]]'
+- '[[_Standards/WikiData/WD~The_Amateur_Scientist,3985636|WD~The_Amateur_Scientist,3985636]]'
+- '[[_Standards/WikiData/WD~Mathematical_Games,80827227|WD~Mathematical_Games,80827227]]'
+founded_by: '[[_Standards/WikiData/WD~Rufus_Porter,7378087|WD~Rufus_Porter,7378087]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Springer_Nature,21096327|WD~Springer_Nature,21096327]]'
 start_time: 1845-08-28T00:00:00Z
 inception: 1845-08-28T00:00:00Z
 field_of_work:
-- '[[_Standards/WikiData/WD~history,309]]'
-- '[[_Standards/WikiData/WD~mathematics,395]]'
-- '[[_Standards/WikiData/WD~natural_science,7991]]'
-- '[[_Standards/WikiData/WD~engineering,11023]]'
-- '[[_Standards/WikiData/WD~medicine,11190]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
-- '[[_Standards/WikiData/WD~anthropology,23404]]'
-- '[[_Standards/WikiData/WD~archaeology,23498]]'
-- '[[_Standards/WikiData/WD~social_science,34749]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~American_English,7976]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60]]'
-headquarters_location: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+- '[[_Standards/WikiData/WD~history,309|WD~history,309]]'
+- '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~natural_science,7991|WD~natural_science,7991]]'
+- '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
+- '[[_Standards/WikiData/WD~anthropology,23404|WD~anthropology,23404]]'
+- '[[_Standards/WikiData/WD~archaeology,23498|WD~archaeology,23498]]'
+- '[[_Standards/WikiData/WD~social_science,34749|WD~social_science,34749]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~American_English,7976|WD~American_English,7976]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
+headquarters_location: '[[_Standards/WikiData/WD~Los_Angeles,65|WD~Los_Angeles,65]]'
 social_media_followers:
 - 434000
 - 4181378

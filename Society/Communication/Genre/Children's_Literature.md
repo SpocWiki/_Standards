@@ -103,29 +103,29 @@ aliases:
 - 아동 문학
 has_id_wikidata: Q131539
 instance_of:
-- '[[_Standards/WikiData/WD~literary_genre,223393]]'
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+- '[[_Standards/WikiData/WD~literary_genre,223393|WD~literary_genre,223393]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436|WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850|WD~Concise_Literary_Encyclopedia,4239850]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
 different_from:
-- '[[_Standards/WikiData/WD~young_adult_literature,1233720]]'
-- '[[_Standards/WikiData/WD~literature_of_the_children,127353232]]'
+- '[[_Standards/WikiData/WD~young_adult_literature,1233720|WD~young_adult_literature,1233720]]'
+- '[[_Standards/WikiData/WD~literature_of_the_children,127353232|WD~literature_of_the_children,127353232]]'
 practiced_by:
-- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-- '[[_Standards/WikiData/WD~picture_book_author,69031864]]'
-has_part_s_: "[[_Standards/WikiData/WD~children's_book,8275050]]"
-part_of: "[[_Standards/WikiData/WD~children's_and_youth_literature,11163999]]"
-subclass_of: "[[_Standards/WikiData/WD~children's_and_youth_literature,11163999]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Children's_literature,11510340]]"
+- "[[_Standards/WikiData/WD~children's_writer,4853732|WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~picture_book_author,69031864|WD~picture_book_author,69031864]]'
+has_part_s_: "[[_Standards/WikiData/WD~children's_book,8275050|WD~children's_book,8275050]]"
+part_of: "[[_Standards/WikiData/WD~children's_and_youth_literature,11163999|WD~children's_and_youth_literature,11163999]]"
+subclass_of: "[[_Standards/WikiData/WD~children's_and_youth_literature,11163999|WD~children's_and_youth_literature,11163999]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Children's_literature,11510340|WD~Portal_Children's_literature,11510340]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~children's_literary_award,131553263]]"
-- '[[_Standards/WikiData/WD~picture_book_award,131741175]]'
-intended_public: '[[_Standards/WikiData/WD~child,7569]]'
+- "[[_Standards/WikiData/WD~children's_literary_award,131553263|WD~children's_literary_award,131553263]]"
+- '[[_Standards/WikiData/WD~picture_book_award,131741175|WD~picture_book_award,131741175]]'
+intended_public: '[[_Standards/WikiData/WD~child,7569|WD~child,7569]]'
 IAB_code: 45
 Library_of_Congress_Classification: PZ4.2-PZ90
 Commons_category: Children's literature

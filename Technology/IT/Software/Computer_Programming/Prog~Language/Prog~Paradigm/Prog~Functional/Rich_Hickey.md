@@ -36,7 +36,7 @@ dv_has_:
 #is_a_/Person 
   
 
-> Rich Hickey is a computer programmer and speaker, known as the creator of the[[Prog~LISP/Prog~Clojure]]] programming language. 
+> Rich Hickey is a computer programmer and speaker, known as the creator of the[[Prog~LISP/Prog~Clojure|Prog~Clojure]]] programming language. 
 > 
 > Clojure is a Lisp dialect built on top of the Java Virtual Machine.  He also created or designed ClojureScript and the [[EDN(Extensible_Data_Notation)]] data format.
 >

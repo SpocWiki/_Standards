@@ -120,13 +120,13 @@ aliases:
 - 亞巴郎諸教
 - 아브라함의 종교
 has_id_wikidata: Q47280
-topic_has_template: '[[_Standards/WikiData/WD~Template_Religions,15934234]]'
-subclass_of: '[[_Standards/WikiData/WD~monotheistic_religion,19842652]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-instance_of: '[[_Standards/WikiData/WD~religion_type,110401222]]'
-has_characteristic: '[[_Standards/WikiData/WD~monotheism,9159]]'
-named_after: '[[_Standards/WikiData/WD~Abraham,9181]]'
-founded_by: '[[_Standards/WikiData/WD~Abraham,9181]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Religions,15934234|WD~Template_Religions,15934234]]'
+subclass_of: '[[_Standards/WikiData/WD~monotheistic_religion,19842652|WD~monotheistic_religion,19842652]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~religion_type,110401222|WD~religion_type,110401222]]'
+has_characteristic: '[[_Standards/WikiData/WD~monotheism,9159|WD~monotheism,9159]]'
+named_after: '[[_Standards/WikiData/WD~Abraham,9181|WD~Abraham,9181]]'
+founded_by: '[[_Standards/WikiData/WD~Abraham,9181|WD~Abraham,9181]]'
 Universal_Decimal_Classification: 26/28
 inception: -2000-06
 schematic:
@@ -270,7 +270,7 @@ dv_has_:
 
 # [[Abrahamic_Religion]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Abrahamic_religion,47280]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Abrahamic_religion,47280|WD~Abrahamic_religion,47280]] 
 
 ## #has_/text_of_/abstract 
 

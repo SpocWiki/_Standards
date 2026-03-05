@@ -63,7 +63,7 @@ Use it like this:
 - #has_/text_of_/knows_about : : Text, Thing, URL   
 - has_text_of_knows_about : : Text, Thing, URL   
 
-Of a [[../../../Society/Agent/Person]] and less typically of an [[../../../Society/Agent/Community/Organization]], to indicate a topic that is known about - suggesting possible expertise but not implying it. We do not distinguish skill levels here, or relate this to educational content, events, objectives or [[JobPosting]] descriptions.
+Of a [[../../../Society/Agent/Person|Person]] and less typically of an [[../../../Society/Agent/Community/Organization|Organization]], to indicate a topic that is known about - suggesting possible expertise but not implying it. We do not distinguish skill levels here, or relate this to educational content, events, objectives or [[JobPosting]] descriptions.
 
 Predicated describes that: 
 

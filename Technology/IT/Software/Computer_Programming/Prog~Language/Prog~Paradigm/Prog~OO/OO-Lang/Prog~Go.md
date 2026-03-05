@@ -8,7 +8,7 @@
 #has_/creator :: [[Griesemer~Robert]], [[Pike~Rob]], and [[Thompson~Ken]] 
 #has_/time_/started :: 2009-11-10 
 Go was written by plan9 OS Alumni Programmers as a better C Language. 
-Similar to [[../../Prog~Functional/Prog~Rust|Prog~Rust]] which should be a better [[../../Prog~Structured/Structured_Prog-Lang/Prog~C]]. 
+Similar to [[../../Prog~Functional/Prog~Rust|Prog~Rust]] which should be a better [[../../Prog~Structured/Structured_Prog-Lang/Prog~C|Prog~C]]. 
 
 Both C nor Go are rarely modified 
 

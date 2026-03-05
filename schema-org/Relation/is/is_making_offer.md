@@ -28,7 +28,7 @@ dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
   inverse:
     - 
-    - "[[../has/is_offered_by]]"
+    - "[[../has/is_offered_by|is_offered_by]]"
   domain: Organization, Person
   name: is_making_offer
   range: Offer
@@ -43,7 +43,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/is/is_making_offer.secret|is_making_offer.secret]]"
 dv_has_inverse:
   - 
-  - "[[../has/is_offered_by]]"
+  - "[[../has/is_offered_by|is_offered_by]]"
 dv_has_domain: Organization, Person
 dv_has_name: is_making_offer
 dv_has_range: Offer
@@ -76,7 +76,7 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
-#has_/inverse  :: [[../has/is_offered_by]] 
+#has_/inverse  :: [[../has/is_offered_by|is_offered_by]] 
 
 ## Confidential Links & Embeds: 
 

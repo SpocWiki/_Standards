@@ -131,59 +131,59 @@ male_form_of_label:
 - мусульманин
 - musulman
 has_use:
-- '[[_Standards/WikiData/WD~Five_Pillars_of_Islam,176770]]'
-- '[[_Standards/WikiData/WD~good_works_in_Islam,7404508]]'
+- '[[_Standards/WikiData/WD~Five_Pillars_of_Islam,176770|WD~Five_Pillars_of_Islam,176770]]'
+- '[[_Standards/WikiData/WD~good_works_in_Islam,7404508|WD~good_works_in_Islam,7404508]]'
 different_from:
-- '[[_Standards/WikiData/WD~Munafiq,614723]]'
-- '[[_Standards/WikiData/WD~Muslims,1137457]]'
-- '[[_Standards/WikiData/WD~Fasiq,5436817]]'
-- '[[_Standards/WikiData/WD~Fajir,12230368]]'
-- '[[_Standards/WikiData/WD~Mujrim,125804073]]'
-- '[[_Standards/WikiData/WD~Islamist,131160356]]'
+- '[[_Standards/WikiData/WD~Munafiq,614723|WD~Munafiq,614723]]'
+- '[[_Standards/WikiData/WD~Muslims,1137457|WD~Muslims,1137457]]'
+- '[[_Standards/WikiData/WD~Fasiq,5436817|WD~Fasiq,5436817]]'
+- '[[_Standards/WikiData/WD~Fajir,12230368|WD~Fajir,12230368]]'
+- '[[_Standards/WikiData/WD~Mujrim,125804073|WD~Mujrim,125804073]]'
+- '[[_Standards/WikiData/WD~Islamist,131160356|WD~Islamist,131160356]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~kafir,629608]]'
-- '[[_Standards/WikiData/WD~Mushrik,1954080]]'
-- '[[_Standards/WikiData/WD~atheist,13211738]]'
+- '[[_Standards/WikiData/WD~kafir,629608|WD~kafir,629608]]'
+- '[[_Standards/WikiData/WD~Mushrik,1954080|WD~Mushrik,1954080]]'
+- '[[_Standards/WikiData/WD~atheist,13211738|WD~atheist,13211738]]'
 item_operated:
-- '[[_Standards/WikiData/WD~Dua,879046]]'
-- '[[_Standards/WikiData/WD~dhikr,948437]]'
+- '[[_Standards/WikiData/WD~Dua,879046|WD~Dua,879046]]'
+- '[[_Standards/WikiData/WD~dhikr,948437|WD~dhikr,948437]]'
 facet_of:
-- '[[_Standards/WikiData/WD~worship_in_Islam,1231595]]'
-- '[[_Standards/WikiData/WD~ubudiyya,112208621]]'
-- '[[_Standards/WikiData/WD~Abd,125372817]]'
+- '[[_Standards/WikiData/WD~worship_in_Islam,1231595|WD~worship_in_Islam,1231595]]'
+- '[[_Standards/WikiData/WD~ubudiyya,112208621|WD~ubudiyya,112208621]]'
+- '[[_Standards/WikiData/WD~Abd,125372817|WD~Abd,125372817]]'
 partially_coincident_with:
-- "[[_Standards/WikiData/WD~mu'min,1812992]]"
-- '[[_Standards/WikiData/WD~Sufi,2892720]]'
-- '[[_Standards/WikiData/WD~Muhsin,125858267]]'
+- "[[_Standards/WikiData/WD~mu'min,1812992|WD~mu'min,1812992]]"
+- '[[_Standards/WikiData/WD~Sufi,2892720|WD~Sufi,2892720]]'
+- '[[_Standards/WikiData/WD~Muhsin,125858267|WD~Muhsin,125858267]]'
 commemorates:
-- '[[_Standards/WikiData/WD~God_in_Islam,2095353]]'
-- '[[_Standards/WikiData/WD~As_Salam,4115662]]'
+- '[[_Standards/WikiData/WD~God_in_Islam,2095353|WD~God_in_Islam,2095353]]'
+- '[[_Standards/WikiData/WD~As_Salam,4115662|WD~As_Salam,4115662]]'
 follows:
-- '[[_Standards/WikiData/WD~conversion_to_Islam,2996414]]'
-- '[[_Standards/WikiData/WD~repentance_in_Islam,4773257]]'
-- '[[_Standards/WikiData/WD~Shahada,41831]]'
+- '[[_Standards/WikiData/WD~conversion_to_Islam,2996414|WD~conversion_to_Islam,2996414]]'
+- '[[_Standards/WikiData/WD~repentance_in_Islam,4773257|WD~repentance_in_Islam,4773257]]'
+- '[[_Standards/WikiData/WD~Shahada,41831|WD~Shahada,41831]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~religious_adherent,3071477]]'
-- '[[_Standards/WikiData/WD~theist,99521706]]'
+- '[[_Standards/WikiData/WD~religious_adherent,3071477|WD~religious_adherent,3071477]]'
+- '[[_Standards/WikiData/WD~theist,99521706|WD~theist,99521706]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]'
-- '[[_Standards/WikiData/WD~WikiProject_Sufism,125577596]]'
+- '[[_Standards/WikiData/WD~WikiProject_Islam,5496999|WD~WikiProject_Islam,5496999]]'
+- '[[_Standards/WikiData/WD~WikiProject_Sufism,125577596|WD~WikiProject_Sufism,125577596]]'
 language_of_work_or_name:
-- '[[_Standards/WikiData/WD~multiple_languages,20923490]]'
-- '[[_Standards/WikiData/WD~Arabic,13955]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-has_list: '[[_Standards/WikiData/WD~list_of_Muslims,67198618]]'
+- '[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]'
+- '[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Muslims,67198618|WD~list_of_Muslims,67198618]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Sunni_Muslim,71986449]]'
-- '[[_Standards/WikiData/WD~Shia_Muslim,71986641]]'
-part_of: '[[_Standards/WikiData/WD~Ḥizb_Allāh,97223481]]'
-instance_of: '[[_Standards/WikiData/WD~religious_group,111252415]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Muslim_convert,131913027]]'
-manifestation_of: '[[_Standards/WikiData/WD~Islam,432]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
-named_after: '[[_Standards/WikiData/WD~Islam,432]]'
-connects_with: '[[_Standards/WikiData/WD~Sufism,9603]]'
-official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~Sunni_Muslim,71986449|WD~Sunni_Muslim,71986449]]'
+- '[[_Standards/WikiData/WD~Shia_Muslim,71986641|WD~Shia_Muslim,71986641]]'
+part_of: '[[_Standards/WikiData/WD~Ḥizb_Allāh,97223481|WD~Ḥizb_Allāh,97223481]]'
+instance_of: '[[_Standards/WikiData/WD~religious_group,111252415|WD~religious_group,111252415]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Muslim_convert,131913027|WD~Muslim_convert,131913027]]'
+manifestation_of: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+named_after: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+connects_with: '[[_Standards/WikiData/WD~Sufism,9603|WD~Sufism,9603]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
 population: 1900000000
 OmegaWiki_Defined_Meaning: 799106
 booru_tag: muslim

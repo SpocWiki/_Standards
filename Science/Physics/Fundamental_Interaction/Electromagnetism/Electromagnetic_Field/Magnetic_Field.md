@@ -111,15 +111,15 @@ aliases:
 - 자기마당
 - 자기장
 has_id_wikidata: Q11408
-subclass_of: '[[_Standards/WikiData/WD~field,185674]]'
+subclass_of: '[[_Standards/WikiData/WD~field,185674|WD~field,185674]]'
 different_from:
-- '[[_Standards/WikiData/WD~field,188869]]'
-- '[[_Standards/WikiData/WD~Les_Champs_Magnétiques,2745130]]'
+- '[[_Standards/WikiData/WD~field,188869|WD~field,188869]]'
+- '[[_Standards/WikiData/WD~Les_Champs_Magnétiques,2745130|WD~Les_Champs_Magnétiques,2745130]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~magnetism,3294789]]'
-- '[[_Standards/WikiData/WD~magnetic_field_strength,28123]]'
-- '[[../../../../../WikiData/WD~magnetic_flux_density,30204]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~magnetism,3294789|WD~magnetism,3294789]]'
+- '[[_Standards/WikiData/WD~magnetic_field_strength,28123|WD~magnetic_field_strength,28123]]'
+- '[[../../../../../WikiData/WD~magnetic_flux_density,30204|WD~magnetic_flux_density,30204]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 OmegaWiki_Defined_Meaning: 983619
 video: http://commons.wikimedia.org/wiki/Special:FilePath/54.%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B5%D1%82%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%BB%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B0%D0%B2%20%D1%81%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DipolMagnet.svg

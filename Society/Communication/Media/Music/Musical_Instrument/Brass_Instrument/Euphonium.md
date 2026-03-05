@@ -31,17 +31,17 @@ aliases:
 - 粗管上低音號
 - 유포니움
 has_id_wikidata: Q495529
-subclass_of: '[[_Standards/WikiData/WD~tuba,131168]]'
+subclass_of: '[[_Standards/WikiData/WD~tuba,131168|WD~tuba,131168]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-different_from: '[[_Standards/WikiData/WD~baritone_horn,790468]]'
-used_by: '[[_Standards/WikiData/WD~euphonium_player,32999759]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749|WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+different_from: '[[_Standards/WikiData/WD~baritone_horn,790468|WD~baritone_horn,790468]]'
+used_by: '[[_Standards/WikiData/WD~euphonium_player,32999759|WD~euphonium_player,32999759]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396|WD~type_of_musical_instrument,110295396]]'
 Nomenclature_for_Museum_Cataloging: 10684
 OmegaWiki_Defined_Meaning: 1194695
 Hornbostel_Sachs_classification: 423.232

@@ -38,7 +38,7 @@ dv_has_:
 #is_/part_of :: [[goodRelations]] 
 #has_/url :: http://www.heppnetz.de/projects/goodrelations/ 
 
-#has_/creator :: [[Mathematics/Mathematician/Hepp,Martin]] 
+#has_/creator :: [[Mathematics/Mathematician/Hepp,Martin|Hepp,Martin]] 
 
 ## #has_/text_of_/abstract 
 

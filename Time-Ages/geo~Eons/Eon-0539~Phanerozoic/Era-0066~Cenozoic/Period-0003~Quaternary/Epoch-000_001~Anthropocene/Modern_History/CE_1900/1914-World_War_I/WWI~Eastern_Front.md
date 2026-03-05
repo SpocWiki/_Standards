@@ -58,10 +58,10 @@ aliases:
 - 東部戦線
 - 동부 전선
 has_id_wikidata: Q154573
-instance_of: '[[_Standards/WikiData/WD~war_front,842332]]'
+instance_of: '[[_Standards/WikiData/WD~war_front,842332|WD~war_front,842332]]'
 location:
-- '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
-- '[[_Standards/WikiData/WD~Central_Europe,27509]]'
+- '[[_Standards/WikiData/WD~Eastern_Europe,27468|WD~Eastern_Europe,27468]]'
+- '[[_Standards/WikiData/WD~Central_Europe,27509|WD~Central_Europe,27509]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Eastern%20Front%20%28World%20War%20I%29.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Eastern%20Front%2C%201914.jpg

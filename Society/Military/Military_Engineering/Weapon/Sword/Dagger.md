@@ -65,15 +65,15 @@ aliases:
 - 단검
 has_id_wikidata: Q182780
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-subclass_of: '[[_Standards/WikiData/WD~stabbing_weapon,1514280]]'
-has_list: '[[_Standards/WikiData/WD~Q52092067,52092067]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+subclass_of: '[[_Standards/WikiData/WD~stabbing_weapon,1514280|WD~stabbing_weapon,1514280]]'
+has_list: '[[_Standards/WikiData/WD~Q52092067,52092067|WD~Q52092067,52092067]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422|WD~weapon_functional_class,124078422]]'
 length: 25
 Nomenclature_for_Museum_Cataloging: 8165
 Iconclass_notation: 45C13(DAGGER)

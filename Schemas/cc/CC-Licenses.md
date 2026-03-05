@@ -35,8 +35,8 @@ Tags: #IT #URL #license
 - issues License Definitions to organize the usage of data and creative works in the public domain. 
 
 Examples: 
-- [[CC-Licenses/CC-0]] the most permissive  
-- [[CC-Licenses/CC-BY-SA]] used by [[../../Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia]] 
+- [[CC-Licenses/CC-0|CC-0]] the most permissive  
+- [[CC-Licenses/CC-BY-SA|CC-BY-SA]] used by [[../../Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia|Wikipedia]] 
 
 
 #has_/license_/CC/-BY/-SA/-NC
@@ -45,8 +45,8 @@ Examples:
 #has_/license_/CC0
 
 
-[[CC-BY-NC-SA]][[CC-Licenses/CC-BY-SA]]][[CC-Licenses/CC-BY]]]
-[[../../_Standards/cc/CC-Licenses/License~CC0]]
+[[CC-BY-NC-SA]][[CC-Licenses/CC-BY-SA|CC-BY-SA]]][[CC-Licenses/CC-BY|CC-BY]]]
+[[../../_Standards/cc/CC-Licenses/License~CC0|License~CC0]]
 
 
 Creative Commons is a global nonprofit organization dedicated to expanding the range of creative works available for others to build upon and share legally. It was founded in 2001 by Lawrence Lessig, Hal Abelson, and Eric Eldred, with the goal of providing a legal framework for creators to share their works while retaining some rights.

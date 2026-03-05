@@ -50,7 +50,7 @@ JSON-Linked Data
 #is_/using :: [[../Knowledge/Languages/Data~Languages/Json-Format|Json-Format]] 
 
 
-#is_/similar_to :: [[Technology/IT/Data/Data_Language/YAML-LD]] 
+#is_/similar_to :: [[Technology/IT/Data/Data_Language/YAML-LD|YAML-LD]] 
 #has_/url_for_/best_practices:: https://w3c.github.io/json-ld-bp/ 
 #has_/url_for_/discussion :: https://json-ld.org/ 
 

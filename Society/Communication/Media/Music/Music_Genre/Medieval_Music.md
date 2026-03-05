@@ -58,13 +58,13 @@ aliases:
 - 중세의 서양 고전 음악
 has_id_wikidata: Q163775
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~musical_movement,12020884]]'
-- '[[_Standards/WikiData/WD~music_by_period_of_time,106834231]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_movement,12020884|WD~musical_movement,12020884]]'
+- '[[_Standards/WikiData/WD~music_by_period_of_time,106834231|WD~music_by_period_of_time,106834231]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~early_music,436016]]'
-- '[[_Standards/WikiData/WD~music_of_Europe,3328676]]'
-- '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~early_music,436016|WD~early_music,436016]]'
+- '[[_Standards/WikiData/WD~music_of_Europe,3328676|WD~music_of_Europe,3328676]]'
+- '[[_Standards/WikiData/WD~classical_music,9730|WD~classical_music,9730]]'
 inception: 0500-01-01T00:00:00Z
 Commons_category: Medieval music
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Emilio%20Villalba.-%20Zanfona%20s.%20XV%20%28Hurdy%20gurdy%29.%20Je%20vivroie%20liement.webm

@@ -12,35 +12,35 @@ aliases:
 - 알디
 has_id_wikidata: Q125054
 industry:
-- '[[_Standards/WikiData/WD~retail,126793]]'
-- '[[_Standards/WikiData/WD~discount_store,261428]]'
+- '[[_Standards/WikiData/WD~retail,126793|WD~retail,126793]]'
+- '[[_Standards/WikiData/WD~discount_store,261428|WD~discount_store,261428]]'
 headquarters_location:
-- '[[_Standards/WikiData/WD~Batavia,576876]]'
-- '[[_Standards/WikiData/WD~Essen,2066]]'
-- '[[_Standards/WikiData/WD~Mülheim_an_der_Ruhr,2899]]'
-award_received: "[[_Standards/WikiData/WD~'Verschlossene_Auster'_award,2517928]]"
+- '[[_Standards/WikiData/WD~Batavia,576876|WD~Batavia,576876]]'
+- '[[_Standards/WikiData/WD~Essen,2066|WD~Essen,2066]]'
+- '[[_Standards/WikiData/WD~Mülheim_an_der_Ruhr,2899|WD~Mülheim_an_der_Ruhr,2899]]'
+award_received: "[[_Standards/WikiData/WD~'Verschlossene_Auster'_award,2517928|WD~'Verschlossene_Auster'_award,2517928]]"
 instance_of:
-- '[[_Standards/WikiData/WD~brand_name,2519914]]'
-- '[[_Standards/WikiData/WD~supermarket_chain,18043413]]'
+- '[[_Standards/WikiData/WD~brand_name,2519914|WD~brand_name,2519914]]'
+- '[[_Standards/WikiData/WD~supermarket_chain,18043413|WD~supermarket_chain,18043413]]'
 child_organization_unit:
-- '[[_Standards/WikiData/WD~Hofer_KG,15815751]]'
-- '[[_Standards/WikiData/WD~Leader_Price_Exploitation,104439664]]'
-owned_by: '[[_Standards/WikiData/WD~Karl_Albrecht_Jr.,28317051]]'
+- '[[_Standards/WikiData/WD~Hofer_KG,15815751|WD~Hofer_KG,15815751]]'
+- '[[_Standards/WikiData/WD~Leader_Price_Exploitation,104439664|WD~Leader_Price_Exploitation,104439664]]'
+owned_by: '[[_Standards/WikiData/WD~Karl_Albrecht_Jr.,28317051|WD~Karl_Albrecht_Jr.,28317051]]'
 different_from:
-- '[[_Standards/WikiData/WD~Aldi_Nord,41171373]]'
-- '[[_Standards/WikiData/WD~Aldi_Süd,41171672]]'
-- '[[_Standards/WikiData/WD~ALDL,113016473]]'
+- '[[_Standards/WikiData/WD~Aldi_Nord,41171373|WD~Aldi_Nord,41171373]]'
+- '[[_Standards/WikiData/WD~Aldi_Süd,41171672|WD~Aldi_Süd,41171672]]'
+- '[[_Standards/WikiData/WD~ALDL,113016473|WD~ALDL,113016473]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Aldi_Nord,41171373]]'
-- '[[_Standards/WikiData/WD~Aldi_Süd,41171672]]'
+- '[[_Standards/WikiData/WD~Aldi_Nord,41171373|WD~Aldi_Nord,41171373]]'
+- '[[_Standards/WikiData/WD~Aldi_Süd,41171672|WD~Aldi_Süd,41171672]]'
 founded_by:
-- '[[_Standards/WikiData/WD~Karl_Hans_Albrecht,30863]]'
-- '[[_Standards/WikiData/WD~Theo_Albrecht,57771]]'
+- '[[_Standards/WikiData/WD~Karl_Hans_Albrecht,30863|WD~Karl_Hans_Albrecht,30863]]'
+- '[[_Standards/WikiData/WD~Theo_Albrecht,57771|WD~Theo_Albrecht,57771]]'
 country:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~Netherlands,55]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 number_of_branches: 8200
 contact_page_URL: https://www.aldi.us/en/about-aldi/contact-us/
 logo_image:
@@ -156,7 +156,7 @@ dv_has_:
 # [[Aldi]] 
 
 #has_/competitor :: [[Lidl]] 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Aldi,125054]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Aldi,125054|WD~Aldi,125054]] 
 
 ## #has_/text_of_/abstract 
 

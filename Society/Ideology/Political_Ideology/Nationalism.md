@@ -122,28 +122,28 @@ Basisklassifikation: 89.22
 Colon_Classification: W95
 Commons_category: Nationalism
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
 Dewey_Decimal_Classification: 320.54
-different_from: '[[_Standards/WikiData/WD~patriotism,6241]]'
+different_from: '[[_Standards/WikiData/WD~patriotism,6241|WD~patriotism,6241]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~irredentism,182274]]'
-- '[[_Standards/WikiData/WD~Types_of_nationalism,7860958]]'
+- '[[_Standards/WikiData/WD~irredentism,182274|WD~irredentism,182274]]'
+- '[[_Standards/WikiData/WD~Types_of_nationalism,7860958|WD~Types_of_nationalism,7860958]]'
 Library_of_Congress_Classification: JC311
 opposite_of:
-- '[[_Standards/WikiData/WD~cosmopolitanism,188843]]'
-- '[[_Standards/WikiData/WD~anti-nationalism,649132]]'
-- '[[_Standards/WikiData/WD~internationalism,695838]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~patriotism,6241]]'
+- '[[_Standards/WikiData/WD~cosmopolitanism,188843|WD~cosmopolitanism,188843]]'
+- '[[_Standards/WikiData/WD~anti-nationalism,649132|WD~anti-nationalism,649132]]'
+- '[[_Standards/WikiData/WD~internationalism,695838|WD~internationalism,695838]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~patriotism,6241|WD~patriotism,6241]]'
 PhilPapers_topic: nationalism
-practiced_by: '[[_Standards/WikiData/WD~nationalist,106399618]]'
+practiced_by: '[[_Standards/WikiData/WD~nationalist,106399618|WD~nationalist,106399618]]'
 Provenio_UUID: cfabbabf-ca77-4237-aad4-82df4ec93568
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~patriotism,6241]]'
-studied_in: '[[_Standards/WikiData/WD~nationalism_studies,4314780]]'
-subclass_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~patriotism,6241|WD~patriotism,6241]]'
+studied_in: '[[_Standards/WikiData/WD~nationalism_studies,4314780|WD~nationalism_studies,4314780]]'
+subclass_of: '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Nationalism,13107438]]'
-- '[[_Standards/WikiData/WD~Template_Nationalism_sidebar,13107436]]'
+- '[[_Standards/WikiData/WD~Template_Nationalism,13107438|WD~Template_Nationalism,13107438]]'
+- '[[_Standards/WikiData/WD~Template_Nationalism_sidebar,13107436|WD~Template_Nationalism_sidebar,13107436]]'
 U_S_National_Archives_Identifier: 10642479
 dv_has_:
   name_:
@@ -325,8 +325,8 @@ dv_has_:
 
 # [[Nationalism]] 
 
-#is_/different_from :: [[../../../../_protect/Society/Sociology/Politics/Politic_Terms/Patriotism]] 
-#is_/similar_to :: [[../../../../_protect/Society/Sociology/Politics/Politic_Terms/Patriotism]] 
+#is_/different_from :: [[../../../../_protect/Society/Sociology/Politics/Politic_Terms/Patriotism|Patriotism]] 
+#is_/similar_to :: [[../../../../_protect/Society/Sociology/Politics/Politic_Terms/Patriotism|Patriotism]] 
 #is_/same_as :: [[../../../WikiData/WD~Nationalism,6235|WD~Nationalism,6235]] 
 
 ## #has_/text_of_/abstract 

@@ -38,14 +38,14 @@ location:
 - 70
 coordinate_location: Point(70.0 -25.5)
 instance_of:
-- '[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]'
-- '[[_Standards/WikiData/WD~mountain_range,46831]]'
+- '[[_Standards/WikiData/WD~mid_ocean_ridge,104698|WD~mid_ocean_ridge,104698]]'
+- '[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]'
 located_in_on_physical_feature:
-- '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
-- '[[_Standards/WikiData/WD~Southern_Ocean,7354]]'
+- '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
+- '[[_Standards/WikiData/WD~Southern_Ocean,7354|WD~Southern_Ocean,7354]]'
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
-- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+- '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
+- '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
 length: 7700
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Southwest%20Indian%20Ridge%20ETOPO1.png
 Commons_category: Southwest Indian Ridge

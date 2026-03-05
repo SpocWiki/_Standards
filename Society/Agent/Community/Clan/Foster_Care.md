@@ -43,9 +43,9 @@ aliases:
 - 里親制度
 - 수양부모
 has_id_wikidata: Q1430789
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-instance_of: '[[_Standards/WikiData/WD~social_services,11588306]]'
-has_part_s_: '[[_Standards/WikiData/WD~foster_family,20729778]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~social_services,11588306|WD~social_services,11588306]]'
+has_part_s_: '[[_Standards/WikiData/WD~foster_family,20729778|WD~foster_family,20729778]]'
 U_S_National_Archives_Identifier: 10637264
 MeSH_tree_code:
 - E02.760.352

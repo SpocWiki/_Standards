@@ -73,33 +73,33 @@ Baidu_Tieba_name: 羽毛球
 Unicode_character: 🏸
 OpenStreetMap_tag: sport=badminton
 Dewey_Decimal_Classification: 796.345
-authority: "[[_Standards/WikiData/WD~Badminton_World_Federation,126638]]"
+authority: "[[_Standards/WikiData/WD~Badminton_World_Federation,126638|WD~Badminton_World_Federation,126638]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~racket_sport,2426135]]"
+  - "[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]"
+  - "[[_Standards/WikiData/WD~racket_sport,2426135|WD~racket_sport,2426135]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
-different_from: "[[_Standards/WikiData/WD~Badminton,799600]]"
+  - "[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]"
+  - "[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]"
+  - "[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]"
+different_from: "[[_Standards/WikiData/WD~Badminton,799600|WD~Badminton,799600]]"
 uses:
-  - "[[_Standards/WikiData/WD~badminton_racket,799666]]"
-  - "[[_Standards/WikiData/WD~shuttlecock,874669]]"
-  - "[[_Standards/WikiData/WD~badminton_court,2488656]]"
-  - "[[_Standards/WikiData/WD~stringing_machine,7624024]]"
-  - "[[_Standards/WikiData/WD~net,47530522]]"
+  - "[[_Standards/WikiData/WD~badminton_racket,799666|WD~badminton_racket,799666]]"
+  - "[[_Standards/WikiData/WD~shuttlecock,874669|WD~shuttlecock,874669]]"
+  - "[[_Standards/WikiData/WD~badminton_court,2488656|WD~badminton_court,2488656]]"
+  - "[[_Standards/WikiData/WD~stringing_machine,7624024|WD~stringing_machine,7624024]]"
+  - "[[_Standards/WikiData/WD~net,47530522|WD~net,47530522]]"
 practiced_by:
-  - "[[_Standards/WikiData/WD~badminton_umpire,799665]]"
-  - "[[_Standards/WikiData/WD~badminton_player,13141064]]"
-  - "[[_Standards/WikiData/WD~badminton_coach,28143257]]"
-  - "[[_Standards/WikiData/WD~badminton_executive_and_administrator,29817148]]"
+  - "[[_Standards/WikiData/WD~badminton_umpire,799665|WD~badminton_umpire,799665]]"
+  - "[[_Standards/WikiData/WD~badminton_player,13141064|WD~badminton_player,13141064]]"
+  - "[[_Standards/WikiData/WD~badminton_coach,28143257|WD~badminton_coach,28143257]]"
+  - "[[_Standards/WikiData/WD~badminton_executive_and_administrator,29817148|WD~badminton_executive_and_administrator,29817148]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-named_after: "[[_Standards/WikiData/WD~Badminton_House,2628510]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Badminton,13406680]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Badminton,15139693]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+named_after: "[[_Standards/WikiData/WD~Badminton_House,2628510|WD~Badminton_House,2628510]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Badminton,13406680|WD~Portal_Badminton,13406680]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Badminton,15139693|WD~WikiProject_Badminton,15139693]]"
 minimum_number_of_players: 2
 maximum_number_of_players: 4
 IAB_code: 534

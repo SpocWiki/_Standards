@@ -60,15 +60,15 @@ aliases:
 - 긴반지름
 has_id_wikidata: Q171594
 subclass_of:
-- '[[_Standards/WikiData/WD~line_segment,166154]]'
-- '[[_Standards/WikiData/WD~semi_axis,21143897]]'
-- '[[_Standards/WikiData/WD~length,36253]]'
+- '[[_Standards/WikiData/WD~line_segment,166154|WD~line_segment,166154]]'
+- '[[_Standards/WikiData/WD~semi_axis,21143897|WD~semi_axis,21143897]]'
+- '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
 part_of:
-- '[[_Standards/WikiData/WD~spheroid,208395]]'
-- '[[_Standards/WikiData/WD~ellipse,40112]]'
-opposite_of: '[[_Standards/WikiData/WD~semi_minor_axis,1371512]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-different_from: '[[_Standards/WikiData/WD~semi_major_axis_of_an_orbit,78148275]]'
+- '[[_Standards/WikiData/WD~spheroid,208395|WD~spheroid,208395]]'
+- '[[_Standards/WikiData/WD~ellipse,40112|WD~ellipse,40112]]'
+opposite_of: '[[_Standards/WikiData/WD~semi_minor_axis,1371512|WD~semi_minor_axis,1371512]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~semi_major_axis_of_an_orbit,78148275|WD~semi_major_axis_of_an_orbit,78148275]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow></mstyle></mrow></math>"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%A6%E0%A5%80%E0%A4%B0%E0%A5%8D%E0%A4%98%20%E0%A4%85%E0%A4%95%E0%A5%8D%E0%A4%B7.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Semimajoraxis.svg

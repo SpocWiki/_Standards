@@ -68,20 +68,20 @@ aliases:
 - 위상수학
 has_id_wikidata: Q42989
 different_from:
-- '[[_Standards/WikiData/WD~topography,134435]]'
-- '[[_Standards/WikiData/WD~topology,18786106]]'
-is_the_study_of: '[[_Standards/WikiData/WD~topological_space,179899]]'
+- '[[_Standards/WikiData/WD~topography,134435|WD~topography,134435]]'
+- '[[_Standards/WikiData/WD~topology,18786106|WD~topology,18786106]]'
+is_the_study_of: '[[_Standards/WikiData/WD~topological_space,179899|WD~topological_space,179899]]'
 instance_of:
-- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918|WD~mathematical_theory,20026918]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q13561427,13561427]]'
-- '[[_Standards/WikiData/WD~Template_Topology,14847644]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Topology,14616571]]'
-practiced_by: '[[_Standards/WikiData/WD~topologist,18663426]]'
-part_of: '[[_Standards/WikiData/WD~mathematics,395]]'
-subclass_of: '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~Q13561427,13561427|WD~Q13561427,13561427]]'
+- '[[_Standards/WikiData/WD~Template_Topology,14847644|WD~Template_Topology,14847644]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Topology,14616571|WD~Portal_Topology,14616571]]'
+practiced_by: '[[_Standards/WikiData/WD~topologist,18663426|WD~topologist,18663426]]'
+part_of: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+subclass_of: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
 Dewey_Decimal_Classification: 514
 OmegaWiki_Defined_Meaning: 505496
 Universal_Decimal_Classification: 515.1

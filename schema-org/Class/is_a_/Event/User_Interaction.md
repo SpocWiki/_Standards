@@ -48,7 +48,7 @@ dv_has_:
     - "[[User_Interaction/User_Plus_Ones|User_Plus_Ones]]"
     - "[[User_Interaction/User_Tweets|User_Tweets]]"
   parent_class:
-    - "[[../Event]]"
+    - "[[../Event|Event]]"
   properties:
     - "[[about|about]]"
     - "[[../../../Relation/has/has_actor|has_actor]]"
@@ -104,7 +104,7 @@ dv_has_:
     - "[[../../../Relation/has/has_work/has_work_featured|has_work_featured]]"
     - "[[../../../Relation/has/has_work/has_work_performed|has_work_performed]]"
 dv_has_parent_class:
-  - "[[../Event]]"
+  - "[[../Event|Event]]"
 dv_has_child_class:
   - "[[User_Interaction/User_Blocks|User_Blocks]]"
   - "[[User_Interaction/User_Checkins|User_Checkins]]"
@@ -182,7 +182,7 @@ dv_is_same_as:
 Class of all [[user_interaction]]-Counts.
 
 [[User_Interaction]] and its subtypes are an old way of counting users interacting with pages. 
-It is generally better to use [[../Intangible/structured_value/interaction_counter|InteractionCounter]]s with an [[../../../Relation/has/has_interaction/has_interaction_type|interaction-type]]- Relation to the extensible [[Action]] vocabulary, in this case [[user_interaction|user_interaction]], alongside types such as [[../../../../Society/Communication/Media/Creative_Work/Comment]].
+It is generally better to use [[../Intangible/structured_value/interaction_counter|InteractionCounter]]s with an [[../../../Relation/has/has_interaction/has_interaction_type|interaction-type]]- Relation to the extensible [[Action]] vocabulary, in this case [[user_interaction|user_interaction]], alongside types such as [[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]].
 
 has_parent_class = `=this.dv_has_parent_class` 
 

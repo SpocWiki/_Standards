@@ -153,7 +153,7 @@ dv_has_:
 >
 > Korn has released seven video albums and 50 music videos. 
 > The band has released 48 singles, the most notable of which include "Blind"; "Got the Life"; 
-> "[[Korn(Band)/Korn~Freak_on_a_Leash]]"; "Falling Away from Me"; "Here to Stay"; "Did My Time"; "Twisted Transistor"; "Coming Undone"; and "Get Up!" 
+> "[[Korn(Band)/Korn~Freak_on_a_Leash|Korn~Freak_on_a_Leash]]"; "Falling Away from Me"; "Here to Stay"; "Did My Time"; "Twisted Transistor"; "Coming Undone"; and "Get Up!" 
 > Korn has earned two Grammy Awards out of eight nominations and two MTV Video Music Awards out of 11 nominations.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Korn) 

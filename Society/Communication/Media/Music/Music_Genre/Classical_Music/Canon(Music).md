@@ -26,16 +26,16 @@ aliases:
 - 카논
 has_id_wikidata: Q53831
 uses:
-- '[[_Standards/WikiData/WD~counterpoint,186393]]'
-- '[[_Standards/WikiData/WD~imitation,1049742]]'
-subclass_of: '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+- '[[_Standards/WikiData/WD~counterpoint,186393|WD~counterpoint,186393]]'
+- '[[_Standards/WikiData/WD~imitation,1049742|WD~imitation,1049742]]'
+subclass_of: '[[_Standards/WikiData/WD~composed_musical_work,207628|WD~composed_musical_work,207628]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-has_part_s_: '[[_Standards/WikiData/WD~theme,833053]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+has_part_s_: '[[_Standards/WikiData/WD~theme,833053|WD~theme,833053]]'
 instance_of:
-- '[[_Standards/WikiData/WD~musical_form,862597]]'
-- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
+- '[[_Standards/WikiData/WD~musical_form,862597|WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333|WD~type_of_musical_work_composition,107487333]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Canon%20example.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Pachelbel-canon-colors.png

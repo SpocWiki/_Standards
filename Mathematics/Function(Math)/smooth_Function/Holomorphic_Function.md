@@ -51,12 +51,12 @@ aliases:
 - 正則関数
 - 정칙 함수
 has_id_wikidata: Q207476
-studied_by: '[[_Standards/WikiData/WD~complex_analysis,193756]]'
+studied_by: '[[_Standards/WikiData/WD~complex_analysis,193756|WD~complex_analysis,193756]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~meromorphic_function,217616]]'
-- '[[_Standards/WikiData/WD~function_of_a_complex_variable,56312591]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~meromorphic_function,217616|WD~meromorphic_function,217616]]'
+- '[[_Standards/WikiData/WD~function_of_a_complex_variable,56312591|WD~function_of_a_complex_variable,56312591]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Conformal%20map.svg
 dv_has_:
   name_:

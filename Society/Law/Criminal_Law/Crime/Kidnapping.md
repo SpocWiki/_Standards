@@ -68,30 +68,30 @@ aliases:
 - 유괴
 has_id_wikidata: Q318296
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~United_States_Government_Glossary_of_Interagency_and_Associated_Terms,116173167]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~United_States_Government_Glossary_of_Interagency_and_Associated_Terms,116173167|WD~United_States_Government_Glossary_of_Interagency_and_Associated_Terms,116173167]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~false_imprisonment,694752]]'
-- '[[_Standards/WikiData/WD~violation_of_law,1456832]]'
-- '[[_Standards/WikiData/WD~violent_crime,1520311]]'
-- '[[_Standards/WikiData/WD~captivity,28100974]]'
-- '[[_Standards/WikiData/WD~transport,7590]]'
+- '[[_Standards/WikiData/WD~false_imprisonment,694752|WD~false_imprisonment,694752]]'
+- '[[_Standards/WikiData/WD~violation_of_law,1456832|WD~violation_of_law,1456832]]'
+- '[[_Standards/WikiData/WD~violent_crime,1520311|WD~violent_crime,1520311]]'
+- '[[_Standards/WikiData/WD~captivity,28100974|WD~captivity,28100974]]'
+- '[[_Standards/WikiData/WD~transport,7590|WD~transport,7590]]'
 different_from:
-- '[[_Standards/WikiData/WD~Kidnapping,1180732]]'
-- '[[_Standards/WikiData/WD~Únos,11086877]]'
+- '[[_Standards/WikiData/WD~Kidnapping,1180732|WD~Kidnapping,1180732]]'
+- '[[_Standards/WikiData/WD~Únos,11086877|WD~Únos,11086877]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~Q11578717,11578717]]'
-- '[[_Standards/WikiData/WD~Menschenraub,13363321]]'
-has_part_s_: '[[_Standards/WikiData/WD~capture,17768966]]'
-practiced_by: '[[_Standards/WikiData/WD~kidnapper,65622885]]'
-participant: '[[_Standards/WikiData/WD~kidnapping_victim,73168492]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
+- '[[_Standards/WikiData/WD~Q11578717,11578717|WD~Q11578717,11578717]]'
+- '[[_Standards/WikiData/WD~Menschenraub,13363321|WD~Menschenraub,13363321]]'
+has_part_s_: '[[_Standards/WikiData/WD~capture,17768966|WD~capture,17768966]]'
+practiced_by: '[[_Standards/WikiData/WD~kidnapper,65622885|WD~kidnapper,65622885]]'
+participant: '[[_Standards/WikiData/WD~kidnapping_victim,73168492|WD~kidnapping_victim,73168492]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_crime,130583773|WD~type_of_crime,130583773]]'
 Archive_of_Our_Own_tag:
 - Abduction
 - Kidnapping

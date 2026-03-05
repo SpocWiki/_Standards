@@ -52,16 +52,16 @@ aliases:
 - 브레이크댄스
 has_id_wikidata: Q169737
 instance_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~type_of_dance,107357104|WD~type_of_dance,107357104]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~dancesport,738622]]'
-- '[[_Standards/WikiData/WD~hip_hop_dance,2071053]]'
-practiced_by: '[[_Standards/WikiData/WD~breakdancer,767703]]'
-different_from: '[[_Standards/WikiData/WD~break,903557]]'
-part_of: '[[_Standards/WikiData/WD~hip_hop_subculture,12726073]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+- '[[_Standards/WikiData/WD~dancesport,738622|WD~dancesport,738622]]'
+- '[[_Standards/WikiData/WD~hip_hop_dance,2071053|WD~hip_hop_dance,2071053]]'
+practiced_by: '[[_Standards/WikiData/WD~breakdancer,767703|WD~breakdancer,767703]]'
+different_from: '[[_Standards/WikiData/WD~break,903557|WD~break,903557]]'
+part_of: '[[_Standards/WikiData/WD~hip_hop_subculture,12726073|WD~hip_hop_subculture,12726073]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
 Commons_category: Breakdance
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Breakdancing%20pictogram.svg
 Dewey_Decimal_Classification: 793.3

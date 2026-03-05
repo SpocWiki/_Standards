@@ -50,20 +50,20 @@ aliases:
 - 组合数学
 - 조합론
 has_id_wikidata: Q76592
-part_of: '[[_Standards/WikiData/WD~discrete_mathematics,121416]]'
-is_the_study_of: '[[_Standards/WikiData/WD~combination,202805]]'
-named_after: '[[_Standards/WikiData/WD~combination,202805]]'
+part_of: '[[_Standards/WikiData/WD~discrete_mathematics,121416|WD~discrete_mathematics,121416]]'
+is_the_study_of: '[[_Standards/WikiData/WD~combination,202805|WD~combination,202805]]'
+named_after: '[[_Standards/WikiData/WD~combination,202805|WD~combination,202805]]'
 instance_of:
-- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918|WD~mathematical_theory,20026918]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-different_from: '[[_Standards/WikiData/WD~Combinatoriality,5150831]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_combinatorics,7112584]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-practiced_by: '[[_Standards/WikiData/WD~combinatorist,136597128]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~Combinatoriality,5150831|WD~Combinatoriality,5150831]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_combinatorics,7112584|WD~outline_of_combinatorics,7112584]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+practiced_by: '[[_Standards/WikiData/WD~combinatorist,136597128|WD~combinatorist,136597128]]'
 GitHub_topic: combinatorics
 ACM_Classification_Code_2012_: 10003625
 Commons_category: Combinatorics

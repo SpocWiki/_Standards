@@ -40,11 +40,11 @@ aliases:
 - 아프리카의 노예제
 has_id_wikidata: Q3057915
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-- '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_in_a_geographic_region,74817647]]'
-facet_of: '[[_Standards/WikiData/WD~slavery,8463]]'
-subclass_of: '[[_Standards/WikiData/WD~slavery,8463]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_in_a_geographic_region,74817647|WD~aspect_in_a_geographic_region,74817647]]'
+facet_of: '[[_Standards/WikiData/WD~slavery,8463|WD~slavery,8463]]'
+subclass_of: '[[_Standards/WikiData/WD~slavery,8463|WD~slavery,8463]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/African%20slave%20trade.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Burning%20of%20a%20Village%20in%20Africa%2C%20and%20Capture%20of%20its%20Inhabitants%20%28p.12%2C%20February%201859%2C%20XVI%29%20-%20Copy.jpg

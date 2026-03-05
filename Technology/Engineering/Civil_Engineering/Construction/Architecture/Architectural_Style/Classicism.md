@@ -75,15 +75,15 @@ aliases:
 - 고전주의
 has_id_wikidata: Q170292
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~architectural_style,32880]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Classicism,7639724]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Classicism,116985645]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880|WD~architectural_style,32880]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Classicism,7639724|WD~Template_Classicism,7639724]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800|WD~Art+Feminism,24909800]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Classicism,116985645|WD~Portal_Classicism,116985645]]'
 end_time: 1725-01-01T00:00:00Z
 subject_named_as: Klassizismus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Poussin%20-%20L%27Inspiration%20du%20po%C3%A8te%20%281629%29.jpg

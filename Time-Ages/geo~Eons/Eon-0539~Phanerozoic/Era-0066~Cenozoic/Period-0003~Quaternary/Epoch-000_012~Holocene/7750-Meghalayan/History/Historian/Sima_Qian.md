@@ -56,41 +56,41 @@ P1015:
 - 14068411
 CYT_CCS: AC000206985
 name_in_kana: しば せん
-field_of_work: '[[_Standards/WikiData/WD~history_of_China,82972]]'
+field_of_work: '[[_Standards/WikiData/WD~history_of_China,82972|WD~history_of_China,82972]]'
 occupation:
-- '[[_Standards/WikiData/WD~astrologer,155647]]'
-- '[[_Standards/WikiData/WD~mathematician,170790]]'
-- '[[_Standards/WikiData/WD~historian,201788]]'
-- '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- '[[_Standards/WikiData/WD~astronomer,11063]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-- '[[_Standards/WikiData/WD~poet,49757]]'
-subject_has_role: '[[_Standards/WikiData/WD~eunuch,179294]]'
+- '[[_Standards/WikiData/WD~astrologer,155647|WD~astrologer,155647]]'
+- '[[_Standards/WikiData/WD~mathematician,170790|WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~historian,201788|WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~astronomer,11063|WD~astronomer,11063]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757|WD~poet,49757]]'
+subject_has_role: '[[_Standards/WikiData/WD~eunuch,179294|WD~eunuch,179294]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
-- '[[_Standards/WikiData/WD~Book_of_Han,846905]]'
-- '[[_Standards/WikiData/WD~Wanxiaotang_Huazhuan,15904701]]'
-- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-notable_work: '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
-family_name: '[[_Standards/WikiData/WD~Sima,592176]]'
-place_of_birth: '[[_Standards/WikiData/WD~Hejin,769598]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Western_Han,1072949]]'
-father: '[[_Standards/WikiData/WD~Sima_Tan,2401828]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+- '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530|WD~Records_of_the_Grand_Historian,272530]]'
+- '[[_Standards/WikiData/WD~Book_of_Han,846905|WD~Book_of_Han,846905]]'
+- '[[_Standards/WikiData/WD~Wanxiaotang_Huazhuan,15904701|WD~Wanxiaotang_Huazhuan,15904701]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835|WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+notable_work: '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530|WD~Records_of_the_Grand_Historian,272530]]'
+family_name: '[[_Standards/WikiData/WD~Sima,592176|WD~Sima,592176]]'
+place_of_birth: '[[_Standards/WikiData/WD~Hejin,769598|WD~Hejin,769598]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Western_Han,1072949|WD~Western_Han,1072949]]'
+father: '[[_Standards/WikiData/WD~Sima_Tan,2401828|WD~Sima_Tan,2401828]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 child:
-- '[[_Standards/WikiData/WD~Sima_Lin,45623460]]'
-- "[[_Standards/WikiData/WD~Sima_Qian's_daughter_(Yang_Bis_wife),107639199]]"
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+- '[[_Standards/WikiData/WD~Sima_Lin,45623460|WD~Sima_Lin,45623460]]'
+- "[[_Standards/WikiData/WD~Sima_Qian's_daughter_(Yang_Bis_wife),107639199|WD~Sima_Qian's_daughter_(Yang_Bis_wife),107639199]]"
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
 given_name:
-- '[[_Standards/WikiData/WD~Qiān,124640612]]'
-- '[[_Standards/WikiData/WD~Zǐcháng,124665052]]'
+- '[[_Standards/WikiData/WD~Qiān,124640612|WD~Qiān,124640612]]'
+- '[[_Standards/WikiData/WD~Zǐcháng,124665052|WD~Zǐcháng,124665052]]'
 date_of_birth: -0144-01-01T00:00:00Z
-writing_language: '[[_Standards/WikiData/WD~Chinese,7850]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Chinese,7850]]'
-native_language: '[[_Standards/WikiData/WD~Chinese,7850]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-place_of_death: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+writing_language: '[[_Standards/WikiData/WD~Chinese,7850|WD~Chinese,7850]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Chinese,7850|WD~Chinese,7850]]'
+native_language: '[[_Standards/WikiData/WD~Chinese,7850|WD~Chinese,7850]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+place_of_death: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 Libris_URI: 53hkl1sp56z7w42
 Commons_gallery: 司馬遷
 BHCL_UUID:

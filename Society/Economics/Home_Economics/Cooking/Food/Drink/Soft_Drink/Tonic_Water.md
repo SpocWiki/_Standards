@@ -42,11 +42,11 @@ aliases:
 - 通寧水
 - 토닉 워터
 has_id_wikidata: Q237315
-subclass_of: '[[_Standards/WikiData/WD~soft_drink,147538]]'
+subclass_of: '[[_Standards/WikiData/WD~soft_drink,147538|WD~soft_drink,147538]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~quinine,189522]]'
-- '[[_Standards/WikiData/WD~carbonated_water,264554]]'
-has_characteristic: '[[_Standards/WikiData/WD~bitterness,1517187]]'
+- '[[_Standards/WikiData/WD~quinine,189522|WD~quinine,189522]]'
+- '[[_Standards/WikiData/WD~carbonated_water,264554|WD~carbonated_water,264554]]'
+has_characteristic: '[[_Standards/WikiData/WD~bitterness,1517187|WD~bitterness,1517187]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tonic%20water%20uv.jpg
 Amazon_com_browse_node: 5782446011
 Commons_category: Tonic water

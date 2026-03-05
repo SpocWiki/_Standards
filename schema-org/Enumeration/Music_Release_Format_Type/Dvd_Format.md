@@ -27,9 +27,9 @@ tags:
 title: is_a_dvd_format Class
 type: Type
 dv_has_:
-  parent_class: "[[../MusicReleaseFormatType]]"
+  parent_class: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
 dv_is_:
-  enum_of: "[[../MusicReleaseFormatType]]"
+  enum_of: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format|Dvd_Format]]"
     - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.public|Dvd_Format.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.personal|Dvd_Format.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.secret|Dvd_Format.secret]]"
     - "[[Dvd_Format]]"
-dv_has_parent_class: "[[../MusicReleaseFormatType]]"
-dv_is_enum_of: "[[../MusicReleaseFormatType]]"
+dv_has_parent_class: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
+dv_is_enum_of: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
 dv_is_same_as:
   - "[[Dvd_Format]]"
   - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.public|Dvd_Format.public]]"

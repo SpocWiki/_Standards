@@ -59,16 +59,16 @@ aliases:
 - 열뽐프
 - 열펌프
 has_id_wikidata: Q131313
-subclass_of: '[[_Standards/WikiData/WD~heat_engine,178185]]'
+subclass_of: '[[_Standards/WikiData/WD~heat_engine,178185|WD~heat_engine,178185]]'
 uses:
-- '[[_Standards/WikiData/WD~refrigeration,747713]]'
-- '[[_Standards/WikiData/WD~cooling,3929317]]'
-- '[[_Standards/WikiData/WD~thermodynamics,11473]]'
-- '[[_Standards/WikiData/WD~heat,44432]]'
+- '[[_Standards/WikiData/WD~refrigeration,747713|WD~refrigeration,747713]]'
+- '[[_Standards/WikiData/WD~cooling,3929317|WD~cooling,3929317]]'
+- '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~heat,44432|WD~heat,44432]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Project_Drawdown,27218199]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Project_Drawdown,27218199|WD~Project_Drawdown,27218199]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 Nomenclature_for_Museum_Cataloging: 212
 OmegaWiki_Defined_Meaning: 1752
 Library_of_Congress_Classification: TJ262

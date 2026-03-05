@@ -17,9 +17,9 @@ aliases:
 - 耕作
 - 農耕
 has_id_wikidata: Q24886094
-practiced_by: '[[_Standards/WikiData/WD~farmer,131512]]'
-facet_of: '[[_Standards/WikiData/WD~farm,131596]]'
-instance_of: '[[../../../../WikiData/WD~economic_activity,8187769]]'
+practiced_by: '[[_Standards/WikiData/WD~farmer,131512|WD~farmer,131512]]'
+facet_of: '[[_Standards/WikiData/WD~farm,131596|WD~farm,131596]]'
+instance_of: '[[../../../../WikiData/WD~economic_activity,8187769|WD~economic_activity,8187769]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Agricultural%20waste%20from%20weeding%20in%20a%20farm.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Dirty%20palm.jpg
@@ -50,7 +50,7 @@ dv_has_:
 # [[Farming]] 
 
 #is_/similar_to :: [[../../../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening|Gardening]] 
-#is_/same_as :: [[_Standards/WikiData/WD~farming,24886094]]
+#is_/same_as :: [[_Standards/WikiData/WD~farming,24886094|WD~farming,24886094]]
 
 ## #has_/text_of_/abstract 
 

@@ -57,7 +57,7 @@ aliases:
 - 旧石器时代初期
 - 전기 구석기 시대
 has_id_wikidata: Q7463501
-instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
+instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633|WD~archaeological_period,15401633]]'
 end_time: -300000-01-01T00:00:00Z
 start_time: -3300000-01-01T00:00:00Z
 Commons_category: Lower Paleolithic

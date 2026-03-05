@@ -88,20 +88,20 @@ aliases:
 - 통사론
 has_id_wikidata: Q37437
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-is_the_study_of: '[[_Standards/WikiData/WD~constituent,1786828]]'
-different_from: '[[_Standards/WikiData/WD~Syntaktyka,9350376]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Nahv,12828224]]'
-studied_by: '[[_Standards/WikiData/WD~syntactics,29864664]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+is_the_study_of: '[[_Standards/WikiData/WD~constituent,1786828|WD~constituent,1786828]]'
+different_from: '[[_Standards/WikiData/WD~Syntaktyka,9350376|WD~Syntaktyka,9350376]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Nahv,12828224|WD~Nahv,12828224]]'
+studied_by: '[[_Standards/WikiData/WD~syntactics,29864664|WD~syntactics,29864664]]'
 instance_of:
-- '[[_Standards/WikiData/WD~language_subsystem,66745531]]'
-- '[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]'
+- '[[_Standards/WikiData/WD~language_subsystem,66745531|WD~language_subsystem,66745531]]'
+- '[[_Standards/WikiData/WD~branch_of_linguistics,135892289|WD~branch_of_linguistics,135892289]]'
 Wikidata_property: syntax clarification
-subclass_of: '[[_Standards/WikiData/WD~grammar,8091]]'
-part_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
+subclass_of: '[[_Standards/WikiData/WD~grammar,8091|WD~grammar,8091]]'
+part_of: '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
 Dewey_Decimal_Classification: 415
 OmegaWiki_Defined_Meaning: 373994
 PhilPapers_topic: syntax

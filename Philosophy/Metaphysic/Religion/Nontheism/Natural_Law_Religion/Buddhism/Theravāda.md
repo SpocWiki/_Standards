@@ -59,11 +59,11 @@ aliases:
 - 상좌부 불교
 - "\U00011023\U00011042\U0001102D\U0001102F\U00011038\U00011024"
 has_id_wikidata: Q132265
-different_from: '[[_Standards/WikiData/WD~Hīnayāna,193814]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Theravada_Buddhism,10975246]]'
-instance_of: '[[_Standards/WikiData/WD~religious_denomination,13414953]]'
-part_of: '[[_Standards/WikiData/WD~Buddhism,748]]'
-subclass_of: '[[_Standards/WikiData/WD~Buddhism,748]]'
+different_from: '[[_Standards/WikiData/WD~Hīnayāna,193814|WD~Hīnayāna,193814]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Theravada_Buddhism,10975246|WD~Template_Theravada_Buddhism,10975246]]'
+instance_of: '[[_Standards/WikiData/WD~religious_denomination,13414953|WD~religious_denomination,13414953]]'
+part_of: '[[_Standards/WikiData/WD~Buddhism,748|WD~Buddhism,748]]'
+subclass_of: '[[_Standards/WikiData/WD~Buddhism,748|WD~Buddhism,748]]'
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Ensenanza%20gradual%20del%20Buddha%20Cuatro%20Verdades%20Nobles.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Gradigita%20instruo%20de%20Budho%20Kvar%20Noblaj%20Veroj.png

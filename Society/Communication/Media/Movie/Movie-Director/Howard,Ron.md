@@ -152,13 +152,13 @@ dv_has_:
 > Howard was cast in one of the lead roles 
 > in the influential coming-of-age film [[American Graffiti]] (1973), 
 > and became a household name for playing Richie Cunningham 
-> in the sitcom [[../../TV-Series/Happy_Days]] (1974–1980). 
+> in the sitcom [[../../TV-Series/Happy_Days|Happy_Days]] (1974–1980). 
 > He starred in the films The Spikes Gang (1974), The Shootist (1976), 
 > and Grand Theft Auto (1977), the latter being his directorial film debut. 
 >
-> In 1980, Howard left [[../../TV-Series/Happy_Days]] to focus on directing, producing, 
+> In 1980, Howard left [[../../TV-Series/Happy_Days|Happy_Days]] to focus on directing, producing, 
 > and sometimes writing a variety of films and television series. 
-> His films included the comedies Night Shift (1982), [[../../../../../../../_private/Society/Communication/Media/TV-Series/Splash(film)]] (1984), and Cocoon (1985) 
+> His films included the comedies Night Shift (1982), [[../../../../../../../_private/Society/Communication/Media/TV-Series/Splash(film)|Splash(film)]] (1984), and Cocoon (1985) 
 > as well as the fantasy Willow (1988), the thriller Backdraft (1991), 
 > and the newspaper comedy-drama film The Paper (1994). 
 > 

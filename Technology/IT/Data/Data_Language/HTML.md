@@ -37,38 +37,38 @@ Wolfram_Language_entity_code: Entity["FileFormat", "HTML-1"]
 Mozilla_Developer_Network_article: Web/HTML
 JIS_standard: X4156
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/HTML%20file%20type%20mimetype%20icon.png
-based_on: '[[_Standards/WikiData/WD~Standard_Generalized_Markup_Language,207819]]'
+based_on: '[[_Standards/WikiData/WD~Standard_Generalized_Markup_Language,207819|WD~Standard_Generalized_Markup_Language,207819]]'
 developer:
-- '[[_Standards/WikiData/WD~Internet_Engineering_Task_Force,217082]]'
-- '[[_Standards/WikiData/WD~Web_Hypertext_Application_Technology_Working_Group,615940]]'
-- '[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]'
+- '[[_Standards/WikiData/WD~Internet_Engineering_Task_Force,217082|WD~Internet_Engineering_Task_Force,217082]]'
+- '[[_Standards/WikiData/WD~Web_Hypertext_Application_Technology_Working_Group,615940|WD~Web_Hypertext_Application_Technology_Working_Group,615940]]'
+- '[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033|WD~World_Wide_Web_Consortium,37033]]'
 standards_body:
-- '[[_Standards/WikiData/WD~Web_Hypertext_Application_Technology_Working_Group,615940]]'
-- '[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]'
+- '[[_Standards/WikiData/WD~Web_Hypertext_Application_Technology_Working_Group,615940|WD~Web_Hypertext_Application_Technology_Working_Group,615940]]'
+- '[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033|WD~World_Wide_Web_Consortium,37033]]'
 instance_of:
-- '[[_Standards/WikiData/WD~W3C_Recommendation,2661442]]'
-- '[[_Standards/WikiData/WD~ISO_standard,15087423]]'
-- '[[_Standards/WikiData/WD~creative_work,17537576]]'
-- '[[_Standards/WikiData/WD~web_API,20202982]]'
-- '[[_Standards/WikiData/WD~file_format_family,26085352]]'
-- '[[_Standards/WikiData/WD~markup_language,37045]]'
+- '[[_Standards/WikiData/WD~W3C_Recommendation,2661442|WD~W3C_Recommendation,2661442]]'
+- '[[_Standards/WikiData/WD~ISO_standard,15087423|WD~ISO_standard,15087423]]'
+- '[[_Standards/WikiData/WD~creative_work,17537576|WD~creative_work,17537576]]'
+- '[[_Standards/WikiData/WD~web_API,20202982|WD~web_API,20202982]]'
+- '[[_Standards/WikiData/WD~file_format_family,26085352|WD~file_format_family,26085352]]'
+- '[[_Standards/WikiData/WD~markup_language,37045|WD~markup_language,37045]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~HyperText_Markup_Language,_version_2.0,2892563]]'
-- '[[_Standards/WikiData/WD~HTML_4.0,3782232]]'
-- '[[_Standards/WikiData/WD~HTML_3.2,41676372]]'
-- '[[_Standards/WikiData/WD~HTML_3.0,41676552]]'
-- '[[_Standards/WikiData/WD~HTML5,2053]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_HTML,8084765]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_HTML,12906809]]'
-copyright_license: '[[_Standards/WikiData/WD~Creative_Commons_Attribution_4.0_International,20007257]]'
+- '[[_Standards/WikiData/WD~HyperText_Markup_Language,_version_2.0,2892563|WD~HyperText_Markup_Language,_version_2.0,2892563]]'
+- '[[_Standards/WikiData/WD~HTML_4.0,3782232|WD~HTML_4.0,3782232]]'
+- '[[_Standards/WikiData/WD~HTML_3.2,41676372|WD~HTML_3.2,41676372]]'
+- '[[_Standards/WikiData/WD~HTML_3.0,41676552|WD~HTML_3.0,41676552]]'
+- '[[_Standards/WikiData/WD~HTML5,2053|WD~HTML5,2053]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_HTML,8084765|WD~Template_HTML,8084765]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_HTML,12906809|WD~history_of_HTML,12906809]]'
+copyright_license: '[[_Standards/WikiData/WD~Creative_Commons_Attribution_4.0_International,20007257|WD~Creative_Commons_Attribution_4.0_International,20007257]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~RFC_2854_The_'html_html'_Media_Type,47396049]]"
-- '[[_Standards/WikiData/WD~RFC_2659_Security_Extensions_For_HTML,47477241]]'
-copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
-different_from: '[[_Standards/WikiData/WD~HyperText_Markup_Language,62626012]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Tim_Berners_Lee,80]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-subclass_of: '[[_Standards/WikiData/WD~markup_language,37045]]'
+- "[[_Standards/WikiData/WD~RFC_2854_The_'html_html'_Media_Type,47396049|WD~RFC_2854_The_'html_html'_Media_Type,47396049]]"
+- '[[_Standards/WikiData/WD~RFC_2659_Security_Extensions_For_HTML,47477241|WD~RFC_2659_Security_Extensions_For_HTML,47477241]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]'
+different_from: '[[_Standards/WikiData/WD~HyperText_Markup_Language,62626012|WD~HyperText_Markup_Language,62626012]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Tim_Berners_Lee,80|WD~Tim_Berners_Lee,80]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+subclass_of: '[[_Standards/WikiData/WD~markup_language,37045|WD~markup_language,37045]]'
 social_media_followers: 44064
 OmegaWiki_Defined_Meaning: 986547
 ISO_standard: 15445

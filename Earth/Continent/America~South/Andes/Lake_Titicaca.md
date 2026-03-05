@@ -86,40 +86,40 @@ location:
 - -69.325
 coordinate_location: Point(-69.325 -15.825)
 outflows:
-- '[[_Standards/WikiData/WD~evaporation,132814]]'
-- '[[_Standards/WikiData/WD~yuca_guasi,1343322]]'
+- '[[_Standards/WikiData/WD~evaporation,132814|WD~evaporation,132814]]'
+- '[[_Standards/WikiData/WD~yuca_guasi,1343322|WD~yuca_guasi,1343322]]'
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Puno_Department,205104]]'
-- '[[_Standards/WikiData/WD~La_Paz_Department,272784]]'
+- '[[_Standards/WikiData/WD~Puno_Department,205104|WD~Puno_Department,205104]]'
+- '[[_Standards/WikiData/WD~La_Paz_Department,272784|WD~La_Paz_Department,272784]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~monomictic_lake,4862338]]'
-- '[[_Standards/WikiData/WD~lake,23397]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~monomictic_lake,4862338|WD~monomictic_lake,4862338]]'
+- '[[_Standards/WikiData/WD~lake,23397|WD~lake,23397]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 inflows:
-- '[[_Standards/WikiData/WD~Suches_River,1343286]]'
-- '[[_Standards/WikiData/WD~Ramis_River,9072075]]'
-- '[[_Standards/WikiData/WD~Ilave_River,29019530]]'
-- '[[_Standards/WikiData/WD~Huancané_River,29019531]]'
-- '[[_Standards/WikiData/WD~Coata_River,29899926]]'
+- '[[_Standards/WikiData/WD~Suches_River,1343286|WD~Suches_River,1343286]]'
+- '[[_Standards/WikiData/WD~Ramis_River,9072075|WD~Ramis_River,9072075]]'
+- '[[_Standards/WikiData/WD~Ilave_River,29019530|WD~Ilave_River,29019530]]'
+- '[[_Standards/WikiData/WD~Huancané_River,29019531|WD~Huancané_River,29019531]]'
+- '[[_Standards/WikiData/WD~Coata_River,29899926|WD~Coata_River,29899926]]'
 heritage_designation:
-- '[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]'
-- '[[_Standards/WikiData/WD~Ramsar_site,19683138]]'
-located_in_protected_area: '[[_Standards/WikiData/WD~Titicaca_National_Reservation,1502523]]'
-drainage_basin: '[[_Standards/WikiData/WD~Titicaca_basin,2887559]]'
+- '[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900|WD~Tentative_World_Heritage_Site,1459900]]'
+- '[[_Standards/WikiData/WD~Ramsar_site,19683138|WD~Ramsar_site,19683138]]'
+located_in_protected_area: '[[_Standards/WikiData/WD~Titicaca_National_Reservation,1502523|WD~Titicaca_National_Reservation,1502523]]'
+drainage_basin: '[[_Standards/WikiData/WD~Titicaca_basin,2887559|WD~Titicaca_basin,2887559]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Golfo_de_Achacachi,5882420]]'
-- '[[_Standards/WikiData/WD~Puno_Bay,16489347]]'
+- '[[_Standards/WikiData/WD~Golfo_de_Achacachi,5882420|WD~Golfo_de_Achacachi,5882420]]'
+- '[[_Standards/WikiData/WD~Puno_Bay,16489347|WD~Puno_Bay,16489347]]'
 basin_country:
-- '[[_Standards/WikiData/WD~Peru,419]]'
-- '[[_Standards/WikiData/WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Peru,419|WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Bolivia,750|WD~Bolivia,750]]'
 country:
-- '[[_Standards/WikiData/WD~Peru,419]]'
-- '[[_Standards/WikiData/WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Peru,419|WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Bolivia,750|WD~Bolivia,750]]'
 width: 80
 length: 204
 vertical_depth: 489
@@ -140,7 +140,7 @@ Commons_category: Lake Titicaca
 dv_"Lake", "LakeTiticaca: gg9gj"
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Titicaca,35342]]'
+  - '[[../../../../WikiData/WD~Titicaca,35342|WD~Titicaca,35342]]'
   - '[[/_Standards/Earth/Continent/America~South/Andes/Lake_Titicaca|Lake_Titicaca]]'
   - '[[/_public/Earth/Continent/America~South/Andes/Lake_Titicaca.public|Lake_Titicaca.public]]'
   - '[[/_internal/Earth/Continent/America~South/Andes/Lake_Titicaca.internal|Lake_Titicaca.internal]]'
@@ -150,7 +150,7 @@ dv_is_:
   - '[[/_secret/Earth/Continent/America~South/Andes/Lake_Titicaca.secret|Lake_Titicaca.secret]]'
 dv_lake-laketiticaca: gg9gj"
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Titicaca,35342]]'
+- '[[../../../../WikiData/WD~Titicaca,35342|WD~Titicaca,35342]]'
 - '[[/_Standards/Earth/Continent/America~South/Andes/Lake_Titicaca|Lake_Titicaca]]'
 - '[[/_public/Earth/Continent/America~South/Andes/Lake_Titicaca.public|Lake_Titicaca.public]]'
 - '[[/_internal/Earth/Continent/America~South/Andes/Lake_Titicaca.internal|Lake_Titicaca.internal]]'

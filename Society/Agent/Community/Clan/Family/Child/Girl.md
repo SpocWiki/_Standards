@@ -149,18 +149,18 @@ aliases:
 - "\U0001033C\U00010330\U00010345\U00010339"
 has_id_wikidata: Q3031
 different_from:
-- '[[_Standards/WikiData/WD~wife,188830]]'
-- '[[_Standards/WikiData/WD~femininity,866081]]'
-- '[[_Standards/WikiData/WD~feminine,1775415]]'
-- '[[_Standards/WikiData/WD~female,6581072]]'
-- '[[_Standards/WikiData/WD~female_organism,43445]]'
-- '[[_Standards/WikiData/WD~girlfriend,49835]]'
+- '[[_Standards/WikiData/WD~wife,188830|WD~wife,188830]]'
+- '[[_Standards/WikiData/WD~femininity,866081|WD~femininity,866081]]'
+- '[[_Standards/WikiData/WD~feminine,1775415|WD~feminine,1775415]]'
+- '[[_Standards/WikiData/WD~female,6581072|WD~female,6581072]]'
+- '[[_Standards/WikiData/WD~female_organism,43445|WD~female_organism,43445]]'
+- '[[_Standards/WikiData/WD~girlfriend,49835|WD~girlfriend,49835]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~female_human,84048852]]'
-- '[[_Standards/WikiData/WD~child,7569]]'
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-followed_by: '[[_Standards/WikiData/WD~woman,467]]'
-opposite_of: '[[_Standards/WikiData/WD~boy,3010]]'
+- '[[_Standards/WikiData/WD~female_human,84048852|WD~female_human,84048852]]'
+- '[[_Standards/WikiData/WD~child,7569|WD~child,7569]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+followed_by: '[[_Standards/WikiData/WD~woman,467|WD~woman,467]]'
+opposite_of: '[[_Standards/WikiData/WD~boy,3010|WD~boy,3010]]'
 minimum_age: 2
 maximum_age: 18
 OmegaWiki_Defined_Meaning: 6752

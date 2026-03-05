@@ -44,25 +44,25 @@ aliases:
 - 夸克
 - 쿼크
 has_id_wikidata: Q6718
-part_of: '[[_Standards/WikiData/WD~hadron,101667]]'
+part_of: '[[_Standards/WikiData/WD~hadron,101667|WD~hadron,101667]]'
 followed_by:
-- '[[_Standards/WikiData/WD~meson,102742]]'
-- '[[_Standards/WikiData/WD~diquark,265326]]'
+- '[[_Standards/WikiData/WD~meson,102742|WD~meson,102742]]'
+- '[[_Standards/WikiData/WD~diquark,265326|WD~diquark,265326]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~lepton_number,174012]]'
-- '[[_Standards/WikiData/WD~color_charge,380528]]'
-- '[[_Standards/WikiData/WD~electric_charge,1111]]'
+- '[[_Standards/WikiData/WD~lepton_number,174012|WD~lepton_number,174012]]'
+- '[[_Standards/WikiData/WD~color_charge,380528|WD~color_charge,380528]]'
+- '[[_Standards/WikiData/WD~electric_charge,1111|WD~electric_charge,1111]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~charged_particle,587553]]'
-- '[[_Standards/WikiData/WD~elementary_fermion,52234516]]'
+- '[[_Standards/WikiData/WD~charged_particle,587553|WD~charged_particle,587553]]'
+- '[[_Standards/WikiData/WD~elementary_fermion,52234516|WD~elementary_fermion,52234516]]'
 interaction:
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
-antiparticle: '[[_Standards/WikiData/WD~antiquark,2052084]]'
-has_superpartner: '[[_Standards/WikiData/WD~squark,3107191]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415|WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418|WD~weak_interaction,11418]]'
+antiparticle: '[[_Standards/WikiData/WD~antiquark,2052084|WD~antiquark,2052084]]'
+has_superpartner: '[[_Standards/WikiData/WD~squark,3107191|WD~squark,3107191]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015|WD~type_of_quantum_particle,22675015]]'
 spin_quantum_number: 0.5
 Commons_gallery: Quark
 OmegaWiki_Defined_Meaning: 8337

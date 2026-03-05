@@ -81,34 +81,34 @@ aliases:
 - 사도
 has_id_wikidata: Q43412
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865|WD~Kościelna_encyclopedia,9253865]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082|WD~Orthodox_Theological_Encyclopedia,19211082]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963|WD~New_International_Encyclopedia_(1902_1905),20089963]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Christian_minister,1423891]]'
-- '[[_Standards/WikiData/WD~human_biblical_figure,20643955]]'
-- '[[_Standards/WikiData/WD~follower,116112084]]'
+- '[[_Standards/WikiData/WD~Christian_minister,1423891|WD~Christian_minister,1423891]]'
+- '[[_Standards/WikiData/WD~human_biblical_figure,20643955|WD~human_biblical_figure,20643955]]'
+- '[[_Standards/WikiData/WD~follower,116112084|WD~follower,116112084]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Eastern_Orthodox_saint_titles,2642184]]'
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~dodecad,93465857]]'
+- '[[_Standards/WikiData/WD~Eastern_Orthodox_saint_titles,2642184|WD~Eastern_Orthodox_saint_titles,2642184]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~dodecad,93465857|WD~dodecad,93465857]]'
 different_from:
-- '[[_Standards/WikiData/WD~Twelve_Apostles,4155679]]'
-- '[[_Standards/WikiData/WD~Apostel,8202861]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Apostles,6681928]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~apostle,15699988]]'
+- '[[_Standards/WikiData/WD~Twelve_Apostles,4155679|WD~Twelve_Apostles,4155679]]'
+- '[[_Standards/WikiData/WD~Apostel,8202861|WD~Apostel,8202861]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Apostles,6681928|WD~Template_Apostles,6681928]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~apostle,15699988|WD~apostle,15699988]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Christ_with_Apostles_and_Saints,131613582]]'
-- '[[_Standards/WikiData/WD~The_Redeemer_and_the_Apostles,131851008]]'
+- '[[_Standards/WikiData/WD~Christ_with_Apostles_and_Saints,131613582|WD~Christ_with_Apostles_and_Saints,131613582]]'
+- '[[_Standards/WikiData/WD~The_Redeemer_and_the_Apostles,131851008|WD~The_Redeemer_and_the_Apostles,131851008]]'
 OmegaWiki_Defined_Meaning: 542642
 Library_of_Congress_Classification:
 - BS2450-BS2520
@@ -257,7 +257,7 @@ dv_has_:
 
 # [[Apostle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~apostle,43412]] 
+#is_/same_as :: [[_Standards/WikiData/WD~apostle,43412|WD~apostle,43412]] 
 
 ## #has_/text_of_/abstract 
 

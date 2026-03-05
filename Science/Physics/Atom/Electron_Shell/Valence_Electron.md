@@ -57,12 +57,12 @@ aliases:
 - 원자가 전자
 has_id_wikidata: Q107414
 part_of:
-- '[[_Standards/WikiData/WD~electron_shell,193793]]'
-- '[[_Standards/WikiData/WD~lone_pair,804644]]'
-- '[[_Standards/WikiData/WD~valence_shell,11730797]]'
-opposite_of: '[[_Standards/WikiData/WD~core_electron,3587637]]'
-instance_of: '[[_Standards/WikiData/WD~role,4897819]]'
-subclass_of: '[[_Standards/WikiData/WD~electron,2225]]'
+- '[[_Standards/WikiData/WD~electron_shell,193793|WD~electron_shell,193793]]'
+- '[[_Standards/WikiData/WD~lone_pair,804644|WD~lone_pair,804644]]'
+- '[[_Standards/WikiData/WD~valence_shell,11730797|WD~valence_shell,11730797]]'
+opposite_of: '[[_Standards/WikiData/WD~core_electron,3587637|WD~core_electron,3587637]]'
+instance_of: '[[_Standards/WikiData/WD~role,4897819|WD~role,4897819]]'
+subclass_of: '[[_Standards/WikiData/WD~electron,2225|WD~electron,2225]]'
 IEV_number: 113-06-05
 Commons_category: Electrons
 dv_has_:

@@ -75,17 +75,17 @@ aliases:
 - 오피스
 has_id_wikidata: Q182060
 subclass_of:
-- '[[_Standards/WikiData/WD~room,180516]]'
-- '[[_Standards/WikiData/WD~workplace,628858]]'
-- '[[_Standards/WikiData/WD~facility,13226383]]'
+- '[[_Standards/WikiData/WD~room,180516|WD~room,180516]]'
+- '[[_Standards/WikiData/WD~workplace,628858|WD~workplace,628858]]'
+- '[[_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-has_use: '[[_Standards/WikiData/WD~office_work,11371155]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Office_types,18619444]]'
-instance_of: '[[_Standards/WikiData/WD~type,21146257]]'
-used_by: '[[_Standards/WikiData/WD~office_worker,31179608]]'
-different_from: '[[_Standards/WikiData/WD~Q11255,11255]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+has_use: '[[_Standards/WikiData/WD~office_work,11371155|WD~office_work,11371155]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Office_types,18619444|WD~Template_Office_types,18619444]]'
+instance_of: '[[_Standards/WikiData/WD~type,21146257|WD~type,21146257]]'
+used_by: '[[_Standards/WikiData/WD~office_worker,31179608|WD~office_worker,31179608]]'
+different_from: '[[_Standards/WikiData/WD~Q11255,11255|WD~Q11255,11255]]'
 Dewey_Decimal_Classification: 651
 OmegaWiki_Defined_Meaning: 2619
 IMDb_keyword: office
@@ -98,7 +98,7 @@ described_at_URL: https://pixabay.com/es/images/search/oficina/
 Provenio_UUID: b8aec14d-dd22-418a-8f9b-dc9602f977d9
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Office,182060]]'
+  - '[[../../../../../WikiData/WD~Office,182060|WD~Office,182060]]'
   - '[[/_Standards/Earth/Geography/Place/Accommodation/Room/Office|Office]]'
   - '[[/_public/Earth/Geography/Place/Accommodation/Room/Office.public|Office.public]]'
   - '[[/_internal/Earth/Geography/Place/Accommodation/Room/Office.internal|Office.internal]]'
@@ -107,7 +107,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Accommodation/Room/Office.personal|Office.personal]]'
   - '[[/_secret/Earth/Geography/Place/Accommodation/Room/Office.secret|Office.secret]]'
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Office,182060]]'
+- '[[../../../../../WikiData/WD~Office,182060|WD~Office,182060]]'
 - '[[/_Standards/Earth/Geography/Place/Accommodation/Room/Office|Office]]'
 - '[[/_public/Earth/Geography/Place/Accommodation/Room/Office.public|Office.public]]'
 - '[[/_internal/Earth/Geography/Place/Accommodation/Room/Office.internal|Office.internal]]'

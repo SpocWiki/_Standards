@@ -40,15 +40,15 @@ aliases:
 - 場景設計
 - 背景美術
 has_id_wikidata: Q737201
-has_part_s_: '[[_Standards/WikiData/WD~scenic_design,987061]]'
+has_part_s_: '[[_Standards/WikiData/WD~scenic_design,987061|WD~scenic_design,987061]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~scenographer,2707485]]'
-- '[[_Standards/WikiData/WD~stage_carpenter,5045700]]'
-subclass_of: '[[_Standards/WikiData/WD~design,12826253]]'
-described_by_source: '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~scenographer,2707485|WD~scenographer,2707485]]'
+- '[[_Standards/WikiData/WD~stage_carpenter,5045700|WD~stage_carpenter,5045700]]'
+subclass_of: '[[_Standards/WikiData/WD~design,12826253|WD~design,12826253]]'
+described_by_source: '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 OmegaWiki_Defined_Meaning: 1087860
 Provenio_UUID: 0b292fcc-43ed-4c08-b49b-dc7e85ac7507
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/STSENOGRAFIYA.html

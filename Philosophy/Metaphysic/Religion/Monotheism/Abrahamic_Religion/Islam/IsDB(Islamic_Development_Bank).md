@@ -47,16 +47,16 @@ aliases:
 - 伊斯蘭開發銀行
 - 이슬람 개발 은행
 has_id_wikidata: Q41230
-work_location: '[[_Standards/WikiData/WD~Jeddah,374365]]'
-headquarters_location: '[[_Standards/WikiData/WD~Jeddah,374365]]'
-partnership_with: '[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]'
-industry: '[[_Standards/WikiData/WD~financial_services,837171]]'
+work_location: '[[_Standards/WikiData/WD~Jeddah,374365|WD~Jeddah,374365]]'
+headquarters_location: '[[_Standards/WikiData/WD~Jeddah,374365|WD~Jeddah,374365]]'
+partnership_with: '[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859|WD~International_Fund_for_Agricultural_Development,689859]]'
+industry: '[[_Standards/WikiData/WD~financial_services,837171|WD~financial_services,837171]]'
 instance_of:
-- '[[_Standards/WikiData/WD~business,4830453]]'
-- '[[_Standards/WikiData/WD~multilateral_development_bank,105758271]]'
-country: '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
-official_observer_status_in_organization: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~multilateral_development_bank,105758271|WD~multilateral_development_bank,105758271]]'
+country: '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
 social_media_followers:
 - 5010
 - 29875

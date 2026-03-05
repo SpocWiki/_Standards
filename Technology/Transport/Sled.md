@@ -74,22 +74,22 @@ aliases:
 - 썰매
 has_id_wikidata: Q181388
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sports_equipment,768186]]'
-- '[[_Standards/WikiData/WD~horse_drawn_vehicle,1112950]]'
-- '[[_Standards/WikiData/WD~land_vehicle,1301433]]'
-- '[[_Standards/WikiData/WD~transport_vehicle,20980497]]'
+- '[[_Standards/WikiData/WD~sports_equipment,768186|WD~sports_equipment,768186]]'
+- '[[_Standards/WikiData/WD~horse_drawn_vehicle,1112950|WD~horse_drawn_vehicle,1112950]]'
+- '[[_Standards/WikiData/WD~land_vehicle,1301433|WD~land_vehicle,1301433]]'
+- '[[_Standards/WikiData/WD~transport_vehicle,20980497|WD~transport_vehicle,20980497]]'
 uses:
-- '[[_Standards/WikiData/WD~sliding,3108904]]'
-- '[[_Standards/WikiData/WD~snow,7561]]'
-sport: '[[_Standards/WikiData/WD~sledding,3266340]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~runner,3381460]]'
-different_from: '[[_Standards/WikiData/WD~Sanie,7418285]]'
-has_list: '[[_Standards/WikiData/WD~list_of_sleds,50210255]]'
+- '[[_Standards/WikiData/WD~sliding,3108904|WD~sliding,3108904]]'
+- '[[_Standards/WikiData/WD~snow,7561|WD~snow,7561]]'
+sport: '[[_Standards/WikiData/WD~sledding,3266340|WD~sledding,3266340]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~runner,3381460|WD~runner,3381460]]'
+different_from: '[[_Standards/WikiData/WD~Sanie,7418285|WD~Sanie,7418285]]'
+has_list: '[[_Standards/WikiData/WD~list_of_sleds,50210255|WD~list_of_sleds,50210255]]'
 Nomenclature_for_Museum_Cataloging:
 - 12077
 - 12080

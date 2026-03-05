@@ -90,28 +90,28 @@ aliases:
 has_id_wikidata: Q872
 Lemmy_instance_URL: https://lemmy.radio/
 has_part_s_:
-- '[[_Standards/WikiData/WD~antenna,131214]]'
-- '[[_Standards/WikiData/WD~radio_receiver,159391]]'
-- '[[_Standards/WikiData/WD~radio_transmitter,190157]]'
-- '[[_Standards/WikiData/WD~Q1644403,1644403]]'
-- '[[_Standards/WikiData/WD~modulator,1942300]]'
+- '[[_Standards/WikiData/WD~antenna,131214|WD~antenna,131214]]'
+- '[[_Standards/WikiData/WD~radio_receiver,159391|WD~radio_receiver,159391]]'
+- '[[_Standards/WikiData/WD~radio_transmitter,190157|WD~radio_transmitter,190157]]'
+- '[[_Standards/WikiData/WD~Q1644403,1644403|WD~Q1644403,1644403]]'
+- '[[_Standards/WikiData/WD~modulator,1942300|WD~modulator,1942300]]'
 different_from:
-- '[[_Standards/WikiData/WD~radio_receiver,159391]]'
-- '[[_Standards/WikiData/WD~radio_broadcasting,273623]]'
-- '[[_Standards/WikiData/WD~broadcasting_service,109680674]]'
-- '[[_Standards/WikiData/WD~Q132862828,132862828]]'
+- '[[_Standards/WikiData/WD~radio_receiver,159391|WD~radio_receiver,159391]]'
+- '[[_Standards/WikiData/WD~radio_broadcasting,273623|WD~radio_broadcasting,273623]]'
+- '[[_Standards/WikiData/WD~broadcasting_service,109680674|WD~broadcasting_service,109680674]]'
+- '[[_Standards/WikiData/WD~Q132862828,132862828|WD~Q132862828,132862828]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~technology,11016]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~technology,11016|WD~technology,11016]]'
 history_of_topic:
-- '[[_Standards/WikiData/WD~history_of_radio,1517374]]'
-- '[[_Standards/WikiData/WD~timeline_of_radio,4501817]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_radio,7112714]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~radio_industry,7281175]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131928,27131928]]'
+- '[[_Standards/WikiData/WD~history_of_radio,1517374|WD~history_of_radio,1517374]]'
+- '[[_Standards/WikiData/WD~timeline_of_radio,4501817|WD~timeline_of_radio,4501817]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_radio,7112714|WD~outline_of_radio,7112714]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~radio_industry,7281175|WD~radio_industry,7281175]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131928,27131928|WD~Q27131928,27131928]]'
 time_of_discovery_or_invention: 1894-01-01T00:00:00Z
-subclass_of: '[[_Standards/WikiData/WD~telecommunications,418]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Radio,50760]]'
+subclass_of: '[[_Standards/WikiData/WD~telecommunications,418|WD~telecommunications,418]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Radio,50760|WD~Portal_Radio,50760]]'
 Library_of_Congress_Classification:
 - TK
 - PN1991-1991.9

@@ -71,16 +71,16 @@ aliases:
 - 编译器
 - 컴파일러
 has_id_wikidata: Q47506
-uses: '[[_Standards/WikiData/WD~source_code,128751]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~object_code,157965]]'
-opposite_of: '[[_Standards/WikiData/WD~decompiler,913697]]'
-studied_by: '[[_Standards/WikiData/WD~compiler_construction,1121462]]'
+uses: '[[_Standards/WikiData/WD~source_code,128751|WD~source_code,128751]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~object_code,157965|WD~object_code,157965]]'
+opposite_of: '[[_Standards/WikiData/WD~decompiler,913697|WD~decompiler,913697]]'
+studied_by: '[[_Standards/WikiData/WD~compiler_construction,1121462|WD~compiler_construction,1121462]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~implementation_of_a_programming_language,4117406]]'
-- '[[_Standards/WikiData/WD~build_tool,114900488]]'
-has_characteristic: '[[_Standards/WikiData/WD~Compiler_correctness,5156378]]'
-has_use: '[[_Standards/WikiData/WD~compilation,12769326]]'
-instance_of: '[[_Standards/WikiData/WD~software_category,17155032]]'
+- '[[_Standards/WikiData/WD~implementation_of_a_programming_language,4117406|WD~implementation_of_a_programming_language,4117406]]'
+- '[[_Standards/WikiData/WD~build_tool,114900488|WD~build_tool,114900488]]'
+has_characteristic: '[[_Standards/WikiData/WD~Compiler_correctness,5156378|WD~Compiler_correctness,5156378]]'
+has_use: '[[_Standards/WikiData/WD~compilation,12769326|WD~compilation,12769326]]'
+instance_of: '[[_Standards/WikiData/WD~software_category,17155032|WD~software_category,17155032]]'
 social_media_followers: 14055
 GitHub_topic: compiler
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Compiler.svg

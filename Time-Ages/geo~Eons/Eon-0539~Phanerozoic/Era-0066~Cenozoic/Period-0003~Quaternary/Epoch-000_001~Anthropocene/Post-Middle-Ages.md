@@ -10,8 +10,8 @@ aliases:
 - علم الآثار ما بعد العصور الوسطى
 - 近世考古学
 has_id_wikidata: Q1982103
-instance_of: '[[_Standards/WikiData/WD~archaeological_child_discipline,4785472]]'
-subclass_of: '[[_Standards/WikiData/WD~archaeology,23498]]'
+instance_of: '[[_Standards/WikiData/WD~archaeological_child_discipline,4785472|WD~archaeological_child_discipline,4785472]]'
+subclass_of: '[[_Standards/WikiData/WD~archaeology,23498|WD~archaeology,23498]]'
 dv_has_:
   name_:
     ar: علم الآثار ما بعد العصور الوسطى

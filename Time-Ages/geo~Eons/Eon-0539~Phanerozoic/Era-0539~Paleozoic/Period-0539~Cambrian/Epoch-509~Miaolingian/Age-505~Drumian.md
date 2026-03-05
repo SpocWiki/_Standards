@@ -23,12 +23,12 @@ aliases:
 - 鼓山期
 has_id_wikidata: Q43712
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Drum_Mountains,14628892]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Drumian,30869626]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Drumian,134963433]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Drum_Mountains,14628892|WD~Drum_Mountains,14628892]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Drumian,30869626|WD~Category_Drumian,30869626]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Drumian,134963433|WD~GSSP_for_the_base_of_Drumian,134963433]]'
 start_time: -504500000-01-01T00:00:00Z
 coordinate_location: Point(-112.9915 39.5117)
 end_time: -500500000-01-01T00:00:00Z
@@ -138,7 +138,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 504.5 to 500.5 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-505_Ma_(Wuliuan_Stage).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-505_Ma_(Wuliuan_Stage).png|Earth-505_Ma_(Wuliuan_Stage).png]] 
 
 ## #has_/text_of_/abstract 
 

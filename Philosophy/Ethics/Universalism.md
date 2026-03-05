@@ -28,16 +28,16 @@ aliases:
 - 普遍主義 (宗教)
 - 보편주의
 has_id_wikidata: Q6843150
-subclass_of: '[[_Standards/WikiData/WD~Unitarian_Universalism,1622507]]'
+subclass_of: '[[_Standards/WikiData/WD~Unitarian_Universalism,1622507|WD~Unitarian_Universalism,1622507]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~provincialism,1733479]]'
-- '[[_Standards/WikiData/WD~parochialism,30323949]]'
-- '[[_Standards/WikiData/WD~theological_particularism,118822387]]'
+- '[[_Standards/WikiData/WD~provincialism,1733479|WD~provincialism,1733479]]'
+- '[[_Standards/WikiData/WD~parochialism,30323949|WD~parochialism,30323949]]'
+- '[[_Standards/WikiData/WD~theological_particularism,118822387|WD~theological_particularism,118822387]]'
 instance_of:
-- '[[_Standards/WikiData/WD~religious_philosophy,2054106]]'
-- '[[_Standards/WikiData/WD~unitarian_universalism_denomination,137324375]]'
-- '[[_Standards/WikiData/WD~world_view,49447]]'
-different_from: '[[_Standards/WikiData/WD~universalism,19001724]]'
+- '[[_Standards/WikiData/WD~religious_philosophy,2054106|WD~religious_philosophy,2054106]]'
+- '[[_Standards/WikiData/WD~unitarian_universalism_denomination,137324375|WD~unitarian_universalism_denomination,137324375]]'
+- '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
+different_from: '[[_Standards/WikiData/WD~universalism,19001724|WD~universalism,19001724]]'
 Dewey_Decimal_Classification:
 - 111.2
 - 330.15
@@ -87,7 +87,7 @@ dv_has_:
 
 # [[Universalism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~universalism,6843150]] 
+#is_/same_as :: [[_Standards/WikiData/WD~universalism,6843150|WD~universalism,6843150]] 
 
 ## #has_/text_of_/abstract 
 

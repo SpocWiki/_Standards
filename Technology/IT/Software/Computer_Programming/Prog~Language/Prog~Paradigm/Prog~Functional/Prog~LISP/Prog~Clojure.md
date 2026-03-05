@@ -66,8 +66,8 @@ aliases:
 #is_a_/ComputerLanguage 
 #is_a_/computer_language  
 
-#has_/creator :: [[../Rich_Hickey]]
-#has_/parent :: [[../../Prog~OO/OO-Lang/Prog~CSharp|Prog~CSharp]], [[../../Prog~OO/OO-Lang/Prog~C++]] , [[../Prog~LISP]], [[Prog~Erlang]], [[../Prog~Haskell|Prog~Haskell]], [[../../Prog~OO/OO-Lang/Prog~Java|Prog~Java]], [[../Prog~ML|Prog~ML]], [[../../Prog~Logic/Prog~Prolog|Prog~Prolog]], [[Prog~Racket]], [[../../Prog~Structured/Prog~Ruby|Prog~Ruby]], [[Prog~Scheme]], [[Wolfram_Language]] 
+#has_/creator :: [[../Rich_Hickey|Rich_Hickey]]
+#has_/parent :: [[../../Prog~OO/OO-Lang/Prog~CSharp|Prog~CSharp]], [[../../Prog~OO/OO-Lang/Prog~C++|Prog~C++]] , [[../Prog~LISP|Prog~LISP]], [[Prog~Erlang]], [[../Prog~Haskell|Prog~Haskell]], [[../../Prog~OO/OO-Lang/Prog~Java|Prog~Java]], [[../Prog~ML|Prog~ML]], [[../../Prog~Logic/Prog~Prolog|Prog~Prolog]], [[Prog~Racket]], [[../../Prog~Structured/Prog~Ruby|Prog~Ruby]], [[Prog~Scheme]], [[Wolfram_Language]] 
 #has_/time_/started :: 2007-07-01 
 
 > **Clojure** (, like closure) is a dynamic and functional dialect of the Lisp programming language on the Java platform.
@@ -88,7 +88,7 @@ aliases:
 > 
 > The language was created by Rich Hickey in the mid-2000's, originally for the Java platform; the language has since been ported to other platforms, such as the Common Language Runtime (.NET). 
 > 
-> Hickey continues to lead development of the language as its [[../BDfL(benevolent_dictator_for_life)]]. 
+> Hickey continues to lead development of the language as its [[../BDfL(benevolent_dictator_for_life)|BDfL(benevolent_dictator_for_life)]]. 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Clojure) 
 
@@ -103,7 +103,7 @@ strongly consistent == linear > linearizable > serializable > ... > eventual con
 CRDTs = Convergent and Commutative Replicated Data Types 
 
 Shapiro et al. 
-[[../Prog~LISP]]
+[[../Prog~LISP|Prog~LISP]]
 
 [dotlisp.sourceforge.net/dotlisp.htm](https://dotlisp.sourceforge.net/dotlisp.htm)
 ## All Contents

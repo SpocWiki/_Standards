@@ -90,11 +90,11 @@ aliases:
 - 高速道路
 - 고속도로
 has_id_wikidata: Q46622
-subclass_of: '[[_Standards/WikiData/WD~highway,269949]]'
-different_from: '[[_Standards/WikiData/WD~national_road,1716124]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~trunk_road,2145163]]'
-instance_of: '[[_Standards/WikiData/WD~road_type,7860962]]'
-part_of: '[[_Standards/WikiData/WD~limited_access_road,14875255]]'
+subclass_of: '[[_Standards/WikiData/WD~highway,269949|WD~highway,269949]]'
+different_from: '[[_Standards/WikiData/WD~national_road,1716124|WD~national_road,1716124]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~trunk_road,2145163|WD~trunk_road,2145163]]'
+instance_of: '[[_Standards/WikiData/WD~road_type,7860962|WD~road_type,7860962]]'
+part_of: '[[_Standards/WikiData/WD~limited_access_road,14875255|WD~limited_access_road,14875255]]'
 properties_for_this_type:
 - terminus location
 - road number

@@ -62,8 +62,8 @@ aliases:
 > diagnosed with a terminal illness who manages to save his own life 
 > by transferring his consciousness into a new, younger body. 
 > 
-> The film stars [[../../Actor/Canadian_Actor/Reynolds,Ryan]], Natalie Martinez, Matthew Goode, Victor Garber, 
-> Derek Luke, and [[../Movie-Directors/Kingsley,Ben]]. 
+> The film stars [[../../Actor/Canadian_Actor/Reynolds,Ryan|Reynolds,Ryan]], Natalie Martinez, Matthew Goode, Victor Garber, 
+> Derek Luke, and [[../Movie-Directors/Kingsley,Ben|Kingsley,Ben]]. 
 > Many of the film's elements are similar to the [[Seconds-film@1966]].
 >
 > Self/less was originally set to release on September 26, 2014, 

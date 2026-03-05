@@ -28,8 +28,8 @@ title: is_a_sale_price Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../PriceTypeEnumeration]]"
-  enum_of: "[[../PriceTypeEnumeration]]"
+  parent_class: "[[../PriceTypeEnumeration|PriceTypeEnumeration]]"
+  enum_of: "[[../PriceTypeEnumeration|PriceTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price|Sale_Price]]"
     - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.public|Sale_Price.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.secret|Sale_Price.secret]]"
     - "[[Sale_Price]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../PriceTypeEnumeration]]"
-dv_is_enum_of: "[[../PriceTypeEnumeration]]"
+dv_has_parent_class: "[[../PriceTypeEnumeration|PriceTypeEnumeration]]"
+dv_is_enum_of: "[[../PriceTypeEnumeration|PriceTypeEnumeration]]"
 dv_is_same_as:
   - "[[Sale_Price]]"
   - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.public|Sale_Price.public]]"

@@ -57,31 +57,31 @@ aliases:
 - 麦田里的守望者
 - 호밀밭의 파수꾼
 has_id_wikidata: Q183883
-author: '[[_Standards/WikiData/WD~J._D._Salinger,79904]]'
-genre: '[[_Standards/WikiData/WD~bildungsroman,223945]]'
-publisher: '[[_Standards/WikiData/WD~Little,_Brown_and_Company,552959]]'
-narrator: '[[_Standards/WikiData/WD~Holden_Caulfield,720235]]'
+author: '[[_Standards/WikiData/WD~J._D._Salinger,79904|WD~J._D._Salinger,79904]]'
+genre: '[[_Standards/WikiData/WD~bildungsroman,223945|WD~bildungsroman,223945]]'
+publisher: '[[_Standards/WikiData/WD~Little,_Brown_and_Company,552959|WD~Little,_Brown_and_Company,552959]]'
+narrator: '[[_Standards/WikiData/WD~Holden_Caulfield,720235|WD~Holden_Caulfield,720235]]'
 characters:
-- '[[_Standards/WikiData/WD~Holden_Caulfield,720235]]'
-- '[[_Standards/WikiData/WD~Phoebe_Caulfield,6074380]]'
-different_from: '[[_Standards/WikiData/WD~Heartsnatcher,3202350]]'
+- '[[_Standards/WikiData/WD~Holden_Caulfield,720235|WD~Holden_Caulfield,720235]]'
+- '[[_Standards/WikiData/WD~Phoebe_Caulfield,6074380|WD~Phoebe_Caulfield,6074380]]'
+different_from: '[[_Standards/WikiData/WD~Heartsnatcher,3202350|WD~Heartsnatcher,3202350]]'
 award_received:
-- "[[_Standards/WikiData/WD~20th_Century's_Greatest_Hits_100_English_Language_Books_of_Fiction,4630676]]"
-- "[[_Standards/WikiData/WD~Le_Monde's_100_Books_of_the_Century,40734]]"
-has_characteristic: '[[_Standards/WikiData/WD~debut_novel,5248657]]'
-instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
-cover_art_by: '[[_Standards/WikiData/WD~E._Michael_Mitchell,20710973]]'
-copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+- "[[_Standards/WikiData/WD~20th_Century's_Greatest_Hits_100_English_Language_Books_of_Fiction,4630676|WD~20th_Century's_Greatest_Hits_100_English_Language_Books_of_Fiction,4630676]]"
+- "[[_Standards/WikiData/WD~Le_Monde's_100_Books_of_the_Century,40734|WD~Le_Monde's_100_Books_of_the_Century,40734]]"
+has_characteristic: '[[_Standards/WikiData/WD~debut_novel,5248657|WD~debut_novel,5248657]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634|WD~literary_work,7725634]]'
+cover_art_by: '[[_Standards/WikiData/WD~E._Michael_Mitchell,20710973|WD~E._Michael_Mitchell,20710973]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~Q117280018,117280018]]'
-- '[[_Standards/WikiData/WD~Q117281073,117281073]]'
-- '[[_Standards/WikiData/WD~Q125291958,125291958]]'
-- '[[_Standards/WikiData/WD~The_Catcher_in_the_Rye,125291968]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
-form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261]]'
-depicts: '[[_Standards/WikiData/WD~film,11424]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-narrative_location: '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~Q117280018,117280018|WD~Q117280018,117280018]]'
+- '[[_Standards/WikiData/WD~Q117281073,117281073|WD~Q117281073,117281073]]'
+- '[[_Standards/WikiData/WD~Q125291958,125291958|WD~Q125291958,125291958]]'
+- '[[_Standards/WikiData/WD~The_Catcher_in_the_Rye,125291968|WD~The_Catcher_in_the_Rye,125291968]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261|WD~novel,8261]]'
+depicts: '[[_Standards/WikiData/WD~film,11424|WD~film,11424]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+narrative_location: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
 Dewey_Decimal_Classification_works_and_editions_: 813.54
 title: The Catcher in the Rye
 publication_date: 1951-07-16T00:00:00Z

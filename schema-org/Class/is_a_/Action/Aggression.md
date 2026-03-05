@@ -56,16 +56,16 @@ aliases:
 - 공격성
 has_id_wikidata: Q191797
 different_from:
-- '[[_Standards/WikiData/WD~aggressiveness,1754990]]'
-- '[[_Standards/WikiData/WD~Agression,3606850]]'
-has_characteristic: '[[_Standards/WikiData/WD~aggressiveness,1754990]]'
-has_cause: '[[_Standards/WikiData/WD~aggressiveness,1754990]]'
+- '[[_Standards/WikiData/WD~aggressiveness,1754990|WD~aggressiveness,1754990]]'
+- '[[_Standards/WikiData/WD~Agression,3606850|WD~Agression,3606850]]'
+has_characteristic: '[[_Standards/WikiData/WD~aggressiveness,1754990|WD~aggressiveness,1754990]]'
+has_cause: '[[_Standards/WikiData/WD~aggressiveness,1754990|WD~aggressiveness,1754990]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~hostility,2729863]]'
-subclass_of: '[[_Standards/WikiData/WD~action,4026292]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838|WD~Encyclopedia_of_Global_Justice,21002838]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~hostility,2729863|WD~hostility,2729863]]'
+subclass_of: '[[_Standards/WikiData/WD~action,4026292|WD~action,4026292]]'
 Commons_category: Aggression
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Aggression.ogg
 UMLS_CUI:

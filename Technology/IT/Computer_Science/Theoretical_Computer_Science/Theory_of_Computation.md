@@ -53,18 +53,18 @@ aliases:
 - 계산 이론
 has_id_wikidata: Q844718
 is_the_study_of:
-- '[[_Standards/WikiData/WD~average_case_complexity,4828244]]'
-- '[[_Standards/WikiData/WD~computational_complexity,5157286]]'
-- '[[_Standards/WikiData/WD~worst_case_complexity,8037118]]'
-- '[[_Standards/WikiData/WD~algorithm,8366]]'
+- '[[_Standards/WikiData/WD~average_case_complexity,4828244|WD~average_case_complexity,4828244]]'
+- '[[_Standards/WikiData/WD~computational_complexity,5157286|WD~computational_complexity,5157286]]'
+- '[[_Standards/WikiData/WD~worst_case_complexity,8037118|WD~worst_case_complexity,8037118]]'
+- '[[_Standards/WikiData/WD~algorithm,8366|WD~algorithm,8366]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~theory,17737]]'
-has_part_s_: '[[_Standards/WikiData/WD~algorithmics,13636890]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~theory,17737|WD~theory,17737]]'
+has_part_s_: '[[_Standards/WikiData/WD~algorithmics,13636890|WD~algorithmics,13636890]]'
 part_of:
-- '[[_Standards/WikiData/WD~information_science,16387]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
-subclass_of: '[[_Standards/WikiData/WD~theory,17737]]'
+- '[[_Standards/WikiData/WD~information_science,16387|WD~information_science,16387]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
+subclass_of: '[[_Standards/WikiData/WD~theory,17737|WD~theory,17737]]'
 Commons_category: Theory of computation
 dv_has_:
   name_:

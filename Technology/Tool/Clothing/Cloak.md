@@ -47,8 +47,8 @@ aliases:
 - 鬥篷
 - 클로크
 has_id_wikidata: Q516992
-different_from: '[[_Standards/WikiData/WD~cape,1034198]]'
-subclass_of: '[[_Standards/WikiData/WD~outerwear,4388799]]'
+different_from: '[[_Standards/WikiData/WD~cape,1034198|WD~cape,1034198]]'
+subclass_of: '[[_Standards/WikiData/WD~outerwear,4388799|WD~outerwear,4388799]]'
 Nomenclature_for_Museum_Cataloging: 2552
 Commons_gallery: Cloak
 Iconclass_notation: 41D211(MANTEAU)

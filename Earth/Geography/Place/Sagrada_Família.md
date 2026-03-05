@@ -78,45 +78,45 @@ aliases:
 has_id_wikidata: Q48435
 street_address: Mallorca, 401, Marina, 253, Provença, 450 i Sardenya, 314-318
 instance_of:
-- '[[_Standards/WikiData/WD~minor_basilica,120560]]'
-- '[[_Standards/WikiData/WD~unfinished_building,1570262]]'
-- '[[_Standards/WikiData/WD~expiatory_temple,133747929]]'
+- '[[_Standards/WikiData/WD~minor_basilica,120560|WD~minor_basilica,120560]]'
+- '[[_Standards/WikiData/WD~unfinished_building,1570262|WD~unfinished_building,1570262]]'
+- '[[_Standards/WikiData/WD~expiatory_temple,133747929|WD~expiatory_temple,133747929]]'
 significant_event:
-- '[[_Standards/WikiData/WD~consecration,125375]]'
-- '[[_Standards/WikiData/WD~construction,385378]]'
-- '[[_Standards/WikiData/WD~construction,3875186]]'
-- '[[_Standards/WikiData/WD~finishing_time,22083730]]'
-- '[[_Standards/WikiData/WD~papal_visit,92634207]]'
-- '[[_Standards/WikiData/WD~Decretum_De_titulo_Basilicae_Minoris_,133249605]]'
+- '[[_Standards/WikiData/WD~consecration,125375|WD~consecration,125375]]'
+- '[[_Standards/WikiData/WD~construction,385378|WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~construction,3875186|WD~construction,3875186]]'
+- '[[_Standards/WikiData/WD~finishing_time,22083730|WD~finishing_time,22083730]]'
+- '[[_Standards/WikiData/WD~papal_visit,92634207|WD~papal_visit,92634207]]'
+- '[[_Standards/WikiData/WD~Decretum_De_titulo_Basilicae_Minoris_,133249605|WD~Decretum_De_titulo_Basilicae_Minoris_,133249605]]'
 architectural_style:
-- '[[_Standards/WikiData/WD~Gothic_Revival,186363]]'
-- '[[_Standards/WikiData/WD~Noucentisme,1580216]]'
-different_from: '[[_Standards/WikiData/WD~Sagrada_Familia,298843]]'
-named_after: '[[_Standards/WikiData/WD~Holy_Family,618057]]'
-dedicated_to: '[[_Standards/WikiData/WD~Holy_Family,618057]]'
-Christian_liturgical_rite: '[[_Standards/WikiData/WD~Roman_Rite,730757]]'
+- '[[_Standards/WikiData/WD~Gothic_Revival,186363|WD~Gothic_Revival,186363]]'
+- '[[_Standards/WikiData/WD~Noucentisme,1580216|WD~Noucentisme,1580216]]'
+different_from: '[[_Standards/WikiData/WD~Sagrada_Familia,298843|WD~Sagrada_Familia,298843]]'
+named_after: '[[_Standards/WikiData/WD~Holy_Family,618057|WD~Holy_Family,618057]]'
+dedicated_to: '[[_Standards/WikiData/WD~Holy_Family,618057|WD~Holy_Family,618057]]'
+Christian_liturgical_rite: '[[_Standards/WikiData/WD~Roman_Rite,730757|WD~Roman_Rite,730757]]'
 heritage_designation:
-- '[[_Standards/WikiData/WD~Cultural_Asset_of_National_Interest,1019352]]'
-- '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
-- '[[_Standards/WikiData/WD~Bien_de_Interés_Cultural,23712]]'
-diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Barcelona,1364117]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Sagrada_Família,2470217]]'
+- '[[_Standards/WikiData/WD~Cultural_Asset_of_National_Interest,1019352|WD~Cultural_Asset_of_National_Interest,1019352]]'
+- '[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]'
+- '[[_Standards/WikiData/WD~Bien_de_Interés_Cultural,23712|WD~Bien_de_Interés_Cultural,23712]]'
+diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Barcelona,1364117|WD~Roman_Catholic_Archdiocese_of_Barcelona,1364117]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Sagrada_Família,2470217|WD~Sagrada_Família,2470217]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Sagrada_Família_schools,4891653]]'
-- '[[_Standards/WikiData/WD~Crypt_and_Nativity_Facade_of_the_Sagrada_Família,14468710]]'
-- '[[_Standards/WikiData/WD~crypt_of_the_Sagrada_Família,56146086]]'
-- '[[_Standards/WikiData/WD~Passion_Facade_of_the_Sagrada_Família,131342139]]'
-- '[[_Standards/WikiData/WD~Glory_Facade_of_the_Sagrada_Família,131342168]]'
-state_of_conservation: '[[_Standards/WikiData/WD~building_or_structure_under_construction,12377751]]'
-present_in_work: '[[_Standards/WikiData/WD~Origin,30610044]]'
+- '[[_Standards/WikiData/WD~Sagrada_Família_schools,4891653|WD~Sagrada_Família_schools,4891653]]'
+- '[[_Standards/WikiData/WD~Crypt_and_Nativity_Facade_of_the_Sagrada_Família,14468710|WD~Crypt_and_Nativity_Facade_of_the_Sagrada_Família,14468710]]'
+- '[[_Standards/WikiData/WD~crypt_of_the_Sagrada_Família,56146086|WD~crypt_of_the_Sagrada_Família,56146086]]'
+- '[[_Standards/WikiData/WD~Passion_Facade_of_the_Sagrada_Família,131342139|WD~Passion_Facade_of_the_Sagrada_Família,131342139]]'
+- '[[_Standards/WikiData/WD~Glory_Facade_of_the_Sagrada_Família,131342168|WD~Glory_Facade_of_the_Sagrada_Família,131342168]]'
+state_of_conservation: '[[_Standards/WikiData/WD~building_or_structure_under_construction,12377751|WD~building_or_structure_under_construction,12377751]]'
+present_in_work: '[[_Standards/WikiData/WD~Origin,30610044|WD~Origin,30610044]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~wood,287]]'
-- '[[_Standards/WikiData/WD~glass,11469]]'
-- '[[_Standards/WikiData/WD~concrete,22657]]'
-- '[[_Standards/WikiData/WD~stone,22731]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
-architect: '[[_Standards/WikiData/WD~Antoni_Gaudí,25328]]'
-country: '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~wood,287|WD~wood,287]]'
+- '[[_Standards/WikiData/WD~glass,11469|WD~glass,11469]]'
+- '[[_Standards/WikiData/WD~concrete,22657|WD~concrete,22657]]'
+- '[[_Standards/WikiData/WD~stone,22731|WD~stone,22731]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
+architect: '[[_Standards/WikiData/WD~Antoni_Gaudí,25328|WD~Antoni_Gaudí,25328]]'
+country: '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
 width: 60
 maximum_capacity: 9000
 length: 90
@@ -255,7 +255,7 @@ dv_has_:
 
 #is_/same_as :: [[../../../WikiData/WD~Sagrada_Família,48435|WD~Sagrada_Família,48435]] 
 
-![[../../../assets/Sagrada_Família.png]] 
+![[../../../assets/Sagrada_Família.png|Sagrada_Família.png]] 
 ## #has_/map  
 
 ```leaflet

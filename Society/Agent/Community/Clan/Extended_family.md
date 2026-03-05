@@ -51,8 +51,8 @@ aliases:
 - 拡大家族
 - 대가족
 has_id_wikidata: Q721790
-opposite_of: '[[_Standards/WikiData/WD~immediate_family,6004774]]'
-subclass_of: '[[_Standards/WikiData/WD~family,8436]]'
+opposite_of: '[[_Standards/WikiData/WD~immediate_family,6004774|WD~immediate_family,6004774]]'
+subclass_of: '[[_Standards/WikiData/WD~family,8436|WD~family,8436]]'
 Commons_category: Families
 Dewey_Decimal_Classification: 306.857
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FamiliaOjeda.JPG

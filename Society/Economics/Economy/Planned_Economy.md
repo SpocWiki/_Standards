@@ -63,16 +63,16 @@ aliases:
 - 计划经济
 - 계획 경제
 has_id_wikidata: Q189724
-subclass_of: '[[_Standards/WikiData/WD~economy,159810]]'
-opposite_of: '[[_Standards/WikiData/WD~market_economy,179522]]'
-instance_of: '[[_Standards/WikiData/WD~economic_system,273005]]'
+subclass_of: '[[_Standards/WikiData/WD~economy,159810|WD~economy,159810]]'
+opposite_of: '[[_Standards/WikiData/WD~market_economy,179522|WD~market_economy,179522]]'
+instance_of: '[[_Standards/WikiData/WD~economic_system,273005|WD~economic_system,273005]]'
 different_from:
-- '[[_Standards/WikiData/WD~Q9274755,9274755]]'
-- '[[_Standards/WikiData/WD~Centrally_planned_economy,135184682]]'
+- '[[_Standards/WikiData/WD~Q9274755,9274755|WD~Q9274755,9274755]]'
+- '[[_Standards/WikiData/WD~Centrally_planned_economy,135184682|WD~Centrally_planned_economy,135184682]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-has_characteristic: '[[_Standards/WikiData/WD~central_planning,113006965]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+has_characteristic: '[[_Standards/WikiData/WD~central_planning,113006965|WD~central_planning,113006965]]'
 Commons_category: Planned economy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Poster%20of%20Azerbaijan%201938.%20Planned%20economy.jpg
 Dewey_Decimal_Classification: 330.124

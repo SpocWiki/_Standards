@@ -30,7 +30,7 @@ dv_has_:
   domain: AnatomicalSystem
   name: is_comprised_of
   range: AnatomicalStructure, AnatomicalSystem
-  inverse: "[[../../Composite/is_part_of]]"
+  inverse: "[[../../Composite/is_part_of|is_part_of]]"
 dv_is_:
   same_as:
     - "[[is_comprised_of]]"
@@ -43,7 +43,7 @@ dv_is_:
 dv_has_domain: AnatomicalSystem
 dv_has_name: is_comprised_of
 dv_has_range: AnatomicalStructure, AnatomicalSystem
-dv_has_inverse: "[[../../Composite/is_part_of]]"
+dv_has_inverse: "[[../../Composite/is_part_of|is_part_of]]"
 dv_is_same_as:
   - "[[is_comprised_of]]"
   - "[[/_public/schema-org/Relation/is/is_comprised_of.public|is_comprised_of.public]]"

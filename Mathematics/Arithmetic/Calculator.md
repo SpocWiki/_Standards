@@ -104,30 +104,30 @@ aliases:
 - 계산기
 has_id_wikidata: Q31087
 has_part_s_:
-- '[[_Standards/WikiData/WD~integrated_circuit,80831]]'
-- '[[_Standards/WikiData/WD~alkaline_battery,861345]]'
-- '[[_Standards/WikiData/WD~push_button,870870]]'
-- '[[_Standards/WikiData/WD~electronic_visual_display,6021804]]'
-used_by: '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~integrated_circuit,80831|WD~integrated_circuit,80831]]'
+- '[[_Standards/WikiData/WD~alkaline_battery,861345|WD~alkaline_battery,861345]]'
+- '[[_Standards/WikiData/WD~push_button,870870|WD~push_button,870870]]'
+- '[[_Standards/WikiData/WD~electronic_visual_display,6021804|WD~electronic_visual_display,6021804]]'
+used_by: '[[_Standards/WikiData/WD~mathematician,170790|WD~mathematician,170790]]'
 source_of_energy:
-- '[[_Standards/WikiData/WD~electrical_energy,206799]]'
-- '[[_Standards/WikiData/WD~solar_energy,40015]]'
-digital_equivalent_of: '[[_Standards/WikiData/WD~mechanical_calculator,211586]]'
+- '[[_Standards/WikiData/WD~electrical_energy,206799|WD~electrical_energy,206799]]'
+- '[[_Standards/WikiData/WD~solar_energy,40015|WD~solar_energy,40015]]'
+digital_equivalent_of: '[[_Standards/WikiData/WD~mechanical_calculator,211586|WD~mechanical_calculator,211586]]'
 has_use:
-- '[[_Standards/WikiData/WD~counting,247154]]'
-- '[[_Standards/WikiData/WD~calculation,622821]]'
-- '[[_Standards/WikiData/WD~evaluation,1379672]]'
-- '[[_Standards/WikiData/WD~computation,12525525]]'
+- '[[_Standards/WikiData/WD~counting,247154|WD~counting,247154]]'
+- '[[_Standards/WikiData/WD~calculation,622821|WD~calculation,622821]]'
+- '[[_Standards/WikiData/WD~evaluation,1379672|WD~evaluation,1379672]]'
+- '[[_Standards/WikiData/WD~computation,12525525|WD~computation,12525525]]'
 uses:
-- '[[_Standards/WikiData/WD~order_of_operations,845118]]'
-- '[[_Standards/WikiData/WD~function,11348]]'
+- '[[_Standards/WikiData/WD~order_of_operations,845118|WD~order_of_operations,845118]]'
+- '[[_Standards/WikiData/WD~function,11348|WD~function,11348]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~calculating_tool,2135246]]'
-- '[[_Standards/WikiData/WD~electronic_device,2858615]]'
-- '[[_Standards/WikiData/WD~physical_tool,39546]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_calculator,14336244]]'
-has_characteristic: '[[_Standards/WikiData/WD~calculator_model,19799634]]'
-different_from: '[[_Standards/WikiData/WD~computer,68]]'
+- '[[_Standards/WikiData/WD~calculating_tool,2135246|WD~calculating_tool,2135246]]'
+- '[[_Standards/WikiData/WD~electronic_device,2858615|WD~electronic_device,2858615]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_calculator,14336244|WD~Template_Infobox_calculator,14336244]]'
+has_characteristic: '[[_Standards/WikiData/WD~calculator_model,19799634|WD~calculator_model,19799634]]'
+different_from: '[[_Standards/WikiData/WD~computer,68|WD~computer,68]]'
 Nomenclature_for_Museum_Cataloging:
 - 10452
 - 10450

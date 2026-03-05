@@ -13,24 +13,24 @@ aliases:
 - 阿斯麦
 has_id_wikidata: Q297879
 stock_exchange:
-- '[[_Standards/WikiData/WD~Nasdaq,82059]]'
-- '[[_Standards/WikiData/WD~Amsterdam_Stock_Exchange,478720]]'
+- '[[_Standards/WikiData/WD~Nasdaq,82059|WD~Nasdaq,82059]]'
+- '[[_Standards/WikiData/WD~Amsterdam_Stock_Exchange,478720|WD~Amsterdam_Stock_Exchange,478720]]'
 founded_by:
-- '[[_Standards/WikiData/WD~Koninklijke_Philips_NV,170416]]'
-- '[[_Standards/WikiData/WD~ASM_International,2478569]]'
+- '[[_Standards/WikiData/WD~Koninklijke_Philips_NV,170416|WD~Koninklijke_Philips_NV,170416]]'
+- '[[_Standards/WikiData/WD~ASM_International,2478569|WD~ASM_International,2478569]]'
 part_of:
-- '[[_Standards/WikiData/WD~Nasdaq_100,507306]]'
-- '[[_Standards/WikiData/WD~EURO_STOXX_50,981010]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~photolithography,622938]]'
+- '[[_Standards/WikiData/WD~Nasdaq_100,507306|WD~Nasdaq_100,507306]]'
+- '[[_Standards/WikiData/WD~EURO_STOXX_50,981010|WD~EURO_STOXX_50,981010]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~photolithography,622938|WD~photolithography,622938]]'
 child_organization_or_unit:
-- '[[_Standards/WikiData/WD~ASML_Berlin,821543]]'
-- '[[_Standards/WikiData/WD~ASML_(United_States),30338395]]'
-instance_of: '[[_Standards/WikiData/WD~public_company,891723]]'
-legal_form: '[[_Standards/WikiData/WD~naamloze_vennootschap,1436139]]'
-industry: '[[_Standards/WikiData/WD~semiconductor_industry,2986369]]'
-chief_executive_officer: '[[_Standards/WikiData/WD~Peter_Wennink,96654591]]'
-headquarters_location: '[[_Standards/WikiData/WD~Veldhoven,9875]]'
-country: '[[_Standards/WikiData/WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~ASML_Berlin,821543|WD~ASML_Berlin,821543]]'
+- '[[_Standards/WikiData/WD~ASML_(United_States),30338395|WD~ASML_(United_States),30338395]]'
+instance_of: '[[_Standards/WikiData/WD~public_company,891723|WD~public_company,891723]]'
+legal_form: '[[_Standards/WikiData/WD~naamloze_vennootschap,1436139|WD~naamloze_vennootschap,1436139]]'
+industry: '[[_Standards/WikiData/WD~semiconductor_industry,2986369|WD~semiconductor_industry,2986369]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Peter_Wennink,96654591|WD~Peter_Wennink,96654591]]'
+headquarters_location: '[[_Standards/WikiData/WD~Veldhoven,9875|WD~Veldhoven,9875]]'
+country: '[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
 social_media_followers:
 - 58500
 - 22022

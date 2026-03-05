@@ -53,7 +53,7 @@ aliases:
 - 谐振子
 - 조화 진동자
 has_id_wikidata: Q190070
-subclass_of: '[[_Standards/WikiData/WD~physical_system,1454986]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_system,1454986|WD~physical_system,1454986]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Animated-mass-spring-faster.gif
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Amortecimento%20Sub%20Critico-3x-RIFE-RIFE4.0-30fps.gif
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/harmonic-oscillator

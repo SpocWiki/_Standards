@@ -58,41 +58,41 @@ aliases:
 - 이슬람주의
 has_id_wikidata: Q189746
 has_part_s_:
-- '[[_Standards/WikiData/WD~Salafism,191057]]'
-- '[[_Standards/WikiData/WD~Qutbism,632691]]'
-- '[[_Standards/WikiData/WD~Islamic_democracy,2641411]]'
-- '[[_Standards/WikiData/WD~Salafi_jihadism,3380905]]'
-- '[[_Standards/WikiData/WD~Jihadism,3757343]]'
-- "[[_Standards/WikiData/WD~Islamist_Shi'ism,112114970]]"
+- '[[_Standards/WikiData/WD~Salafism,191057|WD~Salafism,191057]]'
+- '[[_Standards/WikiData/WD~Qutbism,632691|WD~Qutbism,632691]]'
+- '[[_Standards/WikiData/WD~Islamic_democracy,2641411|WD~Islamic_democracy,2641411]]'
+- '[[_Standards/WikiData/WD~Salafi_jihadism,3380905|WD~Salafi_jihadism,3380905]]'
+- '[[_Standards/WikiData/WD~Jihadism,3757343|WD~Jihadism,3757343]]'
+- "[[_Standards/WikiData/WD~Islamist_Shi'ism,112114970|WD~Islamist_Shi'ism,112114970]]"
 significant_person:
-- '[[_Standards/WikiData/WD~Sayyid_Qutb,211379]]'
-- '[[_Standards/WikiData/WD~Hassan_al_Banna,230291]]'
-- '[[_Standards/WikiData/WD~Syed_Abul_Ala_Maududi,369907]]'
-- '[[_Standards/WikiData/WD~Hasan_al_Turabi,469299]]'
-- '[[_Standards/WikiData/WD~Rida_Muhammad_Rashid,471046]]'
-- '[[_Standards/WikiData/WD~Ruhollah_Khomeini,38823]]'
+- '[[_Standards/WikiData/WD~Sayyid_Qutb,211379|WD~Sayyid_Qutb,211379]]'
+- '[[_Standards/WikiData/WD~Hassan_al_Banna,230291|WD~Hassan_al_Banna,230291]]'
+- '[[_Standards/WikiData/WD~Syed_Abul_Ala_Maududi,369907|WD~Syed_Abul_Ala_Maududi,369907]]'
+- '[[_Standards/WikiData/WD~Hasan_al_Turabi,469299|WD~Hasan_al_Turabi,469299]]'
+- '[[_Standards/WikiData/WD~Rida_Muhammad_Rashid,471046|WD~Rida_Muhammad_Rashid,471046]]'
+- '[[_Standards/WikiData/WD~Ruhollah_Khomeini,38823|WD~Ruhollah_Khomeini,38823]]'
 has_goal:
-- '[[_Standards/WikiData/WD~Pan_Islamism,430032]]'
-- '[[_Standards/WikiData/WD~sharia,482752]]'
-- '[[_Standards/WikiData/WD~Islamic_state,4204060]]'
+- '[[_Standards/WikiData/WD~Pan_Islamism,430032|WD~Pan_Islamism,430032]]'
+- '[[_Standards/WikiData/WD~sharia,482752|WD~sharia,482752]]'
+- '[[_Standards/WikiData/WD~Islamic_state,4204060|WD~Islamic_state,4204060]]'
 facet_of:
-- '[[_Standards/WikiData/WD~Muslim_world,779924]]'
-- '[[_Standards/WikiData/WD~political_aspects_of_Islam,3057291]]'
+- '[[_Standards/WikiData/WD~Muslim_world,779924|WD~Muslim_world,779924]]'
+- '[[_Standards/WikiData/WD~political_aspects_of_Islam,3057291|WD~political_aspects_of_Islam,3057291]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~supremacism,1031455]]'
-- '[[_Standards/WikiData/WD~political_Islam,30970737]]'
-- '[[_Standards/WikiData/WD~ethnic_supremacism,122167123]]'
-different_from: '[[_Standards/WikiData/WD~Islamic_fundamentalism,1140370]]'
-significant_event: '[[_Standards/WikiData/WD~Islamic_revival,1347675]]'
+- '[[_Standards/WikiData/WD~supremacism,1031455|WD~supremacism,1031455]]'
+- '[[_Standards/WikiData/WD~political_Islam,30970737|WD~political_Islam,30970737]]'
+- '[[_Standards/WikiData/WD~ethnic_supremacism,122167123|WD~ethnic_supremacism,122167123]]'
+different_from: '[[_Standards/WikiData/WD~Islamic_fundamentalism,1140370|WD~Islamic_fundamentalism,1140370]]'
+significant_event: '[[_Standards/WikiData/WD~Islamic_revival,1347675|WD~Islamic_revival,1347675]]'
 instance_of:
-- '[[_Standards/WikiData/WD~identity_politics,2914650]]'
-- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-- '[[_Standards/WikiData/WD~fundamentalism,9149]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Islamism,8094556]]'
-opposite_of: '[[_Standards/WikiData/WD~anti_Islam,65344895]]'
-history_of_topic: '[[_Standards/WikiData/WD~History_of_Islamism,116756682]]'
-practiced_by: '[[_Standards/WikiData/WD~Islamist,131160356]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Islamic_nationalism,131824160]]'
+- '[[_Standards/WikiData/WD~identity_politics,2914650|WD~identity_politics,2914650]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~fundamentalism,9149|WD~fundamentalism,9149]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Islamism,8094556|WD~Template_Islamism,8094556]]'
+opposite_of: '[[_Standards/WikiData/WD~anti_Islam,65344895|WD~anti_Islam,65344895]]'
+history_of_topic: '[[_Standards/WikiData/WD~History_of_Islamism,116756682|WD~History_of_Islamism,116756682]]'
+practiced_by: '[[_Standards/WikiData/WD~Islamist,131160356|WD~Islamist,131160356]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Islamic_nationalism,131824160|WD~Islamic_nationalism,131824160]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2012%20Sydney%20protest.jpg
 subreddit: islamism
 Commons_category: Islamism

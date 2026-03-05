@@ -28,8 +28,8 @@ title: is_a_demo_game_availability Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../GameAvailabilityEnumeration]]"
-  enum_of: "[[../GameAvailabilityEnumeration]]"
+  parent_class: "[[../GameAvailabilityEnumeration|GameAvailabilityEnumeration]]"
+  enum_of: "[[../GameAvailabilityEnumeration|GameAvailabilityEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Game_Availability_Enumeration/Demo_Game_Availability|Demo_Game_Availability]]"
     - "[[/_public/schema-org/Enumeration/Game_Availability_Enumeration/Demo_Game_Availability.public|Demo_Game_Availability.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Game_Availability_Enumeration/Demo_Game_Availability.secret|Demo_Game_Availability.secret]]"
     - "[[Demo_Game_Availability]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../GameAvailabilityEnumeration]]"
-dv_is_enum_of: "[[../GameAvailabilityEnumeration]]"
+dv_has_parent_class: "[[../GameAvailabilityEnumeration|GameAvailabilityEnumeration]]"
+dv_is_enum_of: "[[../GameAvailabilityEnumeration|GameAvailabilityEnumeration]]"
 dv_is_same_as:
   - "[[Demo_Game_Availability]]"
   - "[[/_public/schema-org/Enumeration/Game_Availability_Enumeration/Demo_Game_Availability.public|Demo_Game_Availability.public]]"

@@ -26,7 +26,7 @@ tags:
 title: is_a_game_play_mode Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode|Game_Play_Mode]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Game_Play_Mode.personal|Game_Play_Mode.personal]]"
     - "[[/_secret/schema-org/Enumeration/Game_Play_Mode.secret|Game_Play_Mode.secret]]"
     - "[[Game_Play_Mode]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Game_Play_Mode]]"
   - "[[/_public/schema-org/Enumeration/Game_Play_Mode.public|Game_Play_Mode.public]]"

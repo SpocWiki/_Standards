@@ -30,14 +30,14 @@ aliases:
 - 바렘절
 has_id_wikidata: Q732702
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-described_by_source: '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-named_after: '[[_Standards/WikiData/WD~Barrême,840218]]'
-named_by: '[[_Standards/WikiData/WD~Henri_Coquand,3130874]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Barremian,21708765]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Barremian,134002699]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+described_by_source: '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+named_after: '[[_Standards/WikiData/WD~Barrême,840218|WD~Barrême,840218]]'
+named_by: '[[_Standards/WikiData/WD~Henri_Coquand,3130874|WD~Henri_Coquand,3130874]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Barremian,21708765|WD~Category_Barremian,21708765]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Barremian,134002699|WD~GSSP_for_the_base_of_the_Barremian,134002699]]'
 end_time: -125000000-01-01T00:00:00Z
 Commons_category: Barremian
 start_time: -129400000-01-01T00:00:00Z

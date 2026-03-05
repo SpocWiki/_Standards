@@ -46,20 +46,20 @@ aliases:
 - 그물
 has_id_wikidata: Q986291
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~filter,736556]]'
-- '[[_Standards/WikiData/WD~structure,6671777]]'
-- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
-- '[[_Standards/WikiData/WD~physical_tool,39546]]'
+- '[[_Standards/WikiData/WD~filter,736556|WD~filter,736556]]'
+- '[[_Standards/WikiData/WD~structure,6671777|WD~structure,6671777]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]'
 has_use:
-- '[[_Standards/WikiData/WD~tie_down_straps,1277336]]'
-- '[[_Standards/WikiData/WD~traction,1852039]]'
-- '[[_Standards/WikiData/WD~fishing,14373]]'
+- '[[_Standards/WikiData/WD~tie_down_straps,1277336|WD~tie_down_straps,1277336]]'
+- '[[_Standards/WikiData/WD~traction,1852039|WD~traction,1852039]]'
+- '[[_Standards/WikiData/WD~fishing,14373|WD~fishing,14373]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~grid,2020720]]'
-- '[[_Standards/WikiData/WD~headrope,113290096]]'
+- '[[_Standards/WikiData/WD~grid,2020720|WD~grid,2020720]]'
+- '[[_Standards/WikiData/WD~headrope,113290096|WD~headrope,113290096]]'
 Nomenclature_for_Museum_Cataloging: 11132
 U_S_National_Archives_Identifier: 10676301
 IMDb_keyword: net

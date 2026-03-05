@@ -42,12 +42,12 @@ dv_has_:
   name: is_legislation_passed_by
   range: Organization, Person
   parent_:
-    property: "[[../../has/has_parent/has_creator]]"
+    property: "[[../../has/has_parent/has_creator|has_creator]]"
 dv_is_part_of: "pending:"
 dv_has_domain: Legislation
 dv_has_name: is_legislation_passed_by
 dv_has_range: Organization, Person
-dv_has_parent_property: "[[../../has/has_parent/has_creator]]"
+dv_has_parent_property: "[[../../has/has_parent/has_creator|has_creator]]"
 dv_is_same_as:
   - "[[is_legislation_passed_by]]"
   - "[[/_public/schema-org/Relation/is/is_legislation_passed_by.public|is_legislation_passed_by.public]]"

@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Bennington,Chester]]  
 
-#is_/part_of :: [[../Linkin_Park]] 
+#is_/part_of :: [[../Linkin_Park|Linkin_Park]] 
 
 #has_/time_/started :: 1976-03-20 
 #has_/time_/stopped :: 2017-07-20 

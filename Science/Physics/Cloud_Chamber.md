@@ -52,10 +52,10 @@ aliases:
 - 霧箱
 - 안개 상자
 has_id_wikidata: Q214634
-named_after: '[[_Standards/WikiData/WD~Charles_Thomson_Rees_Wilson,162900]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Thomson_Rees_Wilson,162900]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-subclass_of: '[[_Standards/WikiData/WD~track_chamber,109119424]]'
+named_after: '[[_Standards/WikiData/WD~Charles_Thomson_Rees_Wilson,162900|WD~Charles_Thomson_Rees_Wilson,162900]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Thomson_Rees_Wilson,162900|WD~Charles_Thomson_Rees_Wilson,162900]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+subclass_of: '[[_Standards/WikiData/WD~track_chamber,109119424|WD~track_chamber,109119424]]'
 Nomenclature_for_Museum_Cataloging: 9925
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CTRwilsonCloudChamberCavendishLab2013-08-29-17-09-40.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Wilson%20chamber.webm

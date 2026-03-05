@@ -66,12 +66,12 @@ aliases:
 - 트레일
 has_id_wikidata: Q628179
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
-subclass_of: '[[_Standards/WikiData/WD~path,5004679]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~outdoor_route,11899420]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_trail,13362630]]'
-maintenance_method: '[[_Standards/WikiData/WD~trail_maintenance,66314461]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596|WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
+subclass_of: '[[_Standards/WikiData/WD~path,5004679|WD~path,5004679]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~outdoor_route,11899420|WD~outdoor_route,11899420]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_trail,13362630|WD~Template_Infobox_trail,13362630]]'
+maintenance_method: '[[_Standards/WikiData/WD~trail_maintenance,66314461|WD~trail_maintenance,66314461]]'
 properties_for_this_type:
 - terminus
 - length

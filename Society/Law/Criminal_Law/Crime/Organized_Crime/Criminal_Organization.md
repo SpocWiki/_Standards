@@ -45,17 +45,17 @@ aliases:
 - 犯罪組織
 has_id_wikidata: Q1788992
 has_part_s_:
-- '[[_Standards/WikiData/WD~criminal,2159907]]'
-- '[[_Standards/WikiData/WD~organized_crime_group,4335775]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~organized_crime_group,4335775]]'
+- '[[_Standards/WikiData/WD~criminal,2159907|WD~criminal,2159907]]'
+- '[[_Standards/WikiData/WD~organized_crime_group,4335775|WD~organized_crime_group,4335775]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~organized_crime_group,4335775|WD~organized_crime_group,4335775]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_organization,4430243]]'
-- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_criminal_organization,6584434]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_organization,17197366]]'
-different_from: '[[_Standards/WikiData/WD~organized_crime,46952]]'
-facet_of: '[[_Standards/WikiData/WD~organized_crime,46952]]'
+- '[[_Standards/WikiData/WD~social_organization,4430243|WD~social_organization,4430243]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_criminal_organization,6584434|WD~Template_Infobox_criminal_organization,6584434]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_organization,17197366|WD~type_of_organization,17197366]]'
+different_from: '[[_Standards/WikiData/WD~organized_crime,46952|WD~organized_crime,46952]]'
+facet_of: '[[_Standards/WikiData/WD~organized_crime,46952|WD~organized_crime,46952]]'
 Commons_category: Criminal organizations
 IMDb_keyword: criminal-organization
 dv_has_:
@@ -113,7 +113,7 @@ dv_has_:
 
 # [[Criminal_Organization]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~criminal_organization,1788992]] 
+#is_/same_as :: [[../../../../../WikiData/WD~criminal_organization,1788992|WD~criminal_organization,1788992]] 
 
 ## #has_/text_of_/abstract 
 

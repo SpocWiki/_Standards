@@ -43,13 +43,13 @@ aliases:
 - 팔레오세
 has_id_wikidata: Q76252
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Paleocene,7358142]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Paleocene,7358142|WD~Category_Paleocene,7358142]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -66000000-01-01T00:00:00Z
-named_by: '[[_Standards/WikiData/WD~Wilhelm_Philippe_Schimper,63251]]'
+named_by: '[[_Standards/WikiData/WD~Wilhelm_Philippe_Schimper,63251|WD~Wilhelm_Philippe_Schimper,63251]]'
 Commons_category: Paleocene
 end_time: -56000000-01-01T00:00:00Z
 coordinate_location: Point(8.6486 36.1537)
@@ -212,7 +212,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 66.0 to 56.0 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-060_Ma_(Selandian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-060_Ma_(Selandian_Age).png|Earth-060_Ma_(Selandian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

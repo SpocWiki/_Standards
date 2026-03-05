@@ -121,31 +121,31 @@ aliases:
 - 세계 7대 불가사의
 has_id_wikidata: Q489772
 different_from:
-- '[[_Standards/WikiData/WD~Wonders_of_the_World,209287]]'
-- '[[_Standards/WikiData/WD~7_Wonders,17276]]'
+- '[[_Standards/WikiData/WD~Wonders_of_the_World,209287|WD~Wonders_of_the_World,209287]]'
+- '[[_Standards/WikiData/WD~7_Wonders,17276|WD~7_Wonders,17276]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Wonders_of_the_World,209287]]'
-- '[[_Standards/WikiData/WD~seven_wonders,3703274]]'
-- '[[_Standards/WikiData/WD~heptad,29441572]]'
+- '[[_Standards/WikiData/WD~Wonders_of_the_World,209287|WD~Wonders_of_the_World,209287]]'
+- '[[_Standards/WikiData/WD~seven_wonders,3703274|WD~seven_wonders,3703274]]'
+- '[[_Standards/WikiData/WD~heptad,29441572|WD~heptad,29441572]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Seven_Wonders_of_the_Ancient_World,5677179]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Seven_Wonders_of_the_Ancient_World,5677179|WD~Template_Seven_Wonders_of_the_Ancient_World,5677179]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498|WD~Wonder_of_the_Ancient_World,66108498]]'
 country:
-- '[[_Standards/WikiData/WD~Babylon,5684]]'
-- '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
+- '[[_Standards/WikiData/WD~Babylon,5684|WD~Babylon,5684]]'
+- '[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Great_Pyramid_of_Giza,37200]]'
-- '[[_Standards/WikiData/WD~Colossus_of_Rhodes,41553]]'
-- '[[_Standards/WikiData/WD~Hanging_Gardens_of_Babylon,41931]]'
-- '[[_Standards/WikiData/WD~Temple_of_Ephesian_Artemis,43018]]'
-- '[[_Standards/WikiData/WD~Lighthouse_of_Alexandria,43244]]'
-- '[[_Standards/WikiData/WD~Mausoleum_of_Maussollos,45368]]'
-- '[[_Standards/WikiData/WD~Statue_of_Zeus_at_Olympia,46239]]'
+- '[[_Standards/WikiData/WD~Great_Pyramid_of_Giza,37200|WD~Great_Pyramid_of_Giza,37200]]'
+- '[[_Standards/WikiData/WD~Colossus_of_Rhodes,41553|WD~Colossus_of_Rhodes,41553]]'
+- '[[_Standards/WikiData/WD~Hanging_Gardens_of_Babylon,41931|WD~Hanging_Gardens_of_Babylon,41931]]'
+- '[[_Standards/WikiData/WD~Temple_of_Ephesian_Artemis,43018|WD~Temple_of_Ephesian_Artemis,43018]]'
+- '[[_Standards/WikiData/WD~Lighthouse_of_Alexandria,43244|WD~Lighthouse_of_Alexandria,43244]]'
+- '[[_Standards/WikiData/WD~Mausoleum_of_Maussollos,45368|WD~Mausoleum_of_Maussollos,45368]]'
+- '[[_Standards/WikiData/WD~Statue_of_Zeus_at_Olympia,46239|WD~Statue_of_Zeus_at_Olympia,46239]]'
 Iconclass_notation: 25M
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/SevenWondersOfTheWorld.png
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Halikarnassus.jpg
@@ -311,7 +311,7 @@ dv_has_:
 > is a list of seven notable structures present during classical antiquity, 
 > first established in the 1572 publication Octo Mundi Miracula using a combination of historical sources.
 >
-> The seven traditional wonders are the [[Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza]], the Colossus of Rhodes, the Lighthouse of Alexandria, the Mausoleum at Halicarnassus, the Temple of Artemis, the Statue of Zeus at Olympia, and the Hanging Gardens of Babylon. 
+> The seven traditional wonders are the [[Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza|Great_Pyramid_of_Giza]], the Colossus of Rhodes, the Lighthouse of Alexandria, the Mausoleum at Halicarnassus, the Temple of Artemis, the Statue of Zeus at Olympia, and the Hanging Gardens of Babylon. 
 > 
 > Using modern-day countries, two of the wonders were located in Greece, 
 > two in Turkey, two in Egypt, and one in Iraq. 
@@ -327,7 +327,7 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Seven%20Wonders%20of%20the%20Ancient%20World) 
 
 
-![[https://upload.wikimedia.org/wikipedia/commons/8/85/Ancient_seven_wonders_timeline.svg]] 
+![[https://upload.wikimedia.org/wikipedia/commons/8/85/Ancient_seven_wonders_timeline.svg|Ancient_seven_wonders_timeline.svg]] 
 
 
 ## Confidential Links & Embeds: 

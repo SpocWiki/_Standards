@@ -143,21 +143,21 @@ male_form_of_label:
 - mokinys
 - Student
 instance_of:
-- '[[_Standards/WikiData/WD~social_group,874405]]'
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~social_group,874405|WD~social_group,874405]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
 field_of_this_occupation:
-- '[[_Standards/WikiData/WD~extracurricular_activity,1341006]]'
-- '[[_Standards/WikiData/WD~study,1782301]]'
-subclass_of: '[[_Standards/WikiData/WD~learning_person,11448873]]'
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-depicted_by: '[[_Standards/WikiData/WD~Young_Pupil,132397617]]'
+- '[[_Standards/WikiData/WD~extracurricular_activity,1341006|WD~extracurricular_activity,1341006]]'
+- '[[_Standards/WikiData/WD~study,1782301|WD~study,1782301]]'
+subclass_of: '[[_Standards/WikiData/WD~learning_person,11448873|WD~learning_person,11448873]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+depicted_by: '[[_Standards/WikiData/WD~Young_Pupil,132397617|WD~Young_Pupil,132397617]]'
 Wikidata_property:
 - student
 - count of students
 - student register of the University of Helsinki ID (1640–1852)
-opposite_of: '[[_Standards/WikiData/WD~teacher,37226]]'
-different_from: '[[_Standards/WikiData/WD~schoolchild,48942]]'
+opposite_of: '[[_Standards/WikiData/WD~teacher,37226|WD~teacher,37226]]'
+different_from: '[[_Standards/WikiData/WD~schoolchild,48942|WD~schoolchild,48942]]'
 Commons_gallery: Student
 OmegaWiki_Defined_Meaning: 353776
 Commons_category: Students

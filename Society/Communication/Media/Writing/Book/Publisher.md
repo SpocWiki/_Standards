@@ -78,18 +78,18 @@ aliases:
 - 출판인
 has_id_wikidata: Q2516866
 subclass_of:
-- '[[_Standards/WikiData/WD~media_proprietor,1420621]]'
-- '[[_Standards/WikiData/WD~publisher,105044823]]'
+- '[[_Standards/WikiData/WD~media_proprietor,1420621|WD~media_proprietor,1420621]]'
+- '[[_Standards/WikiData/WD~publisher,105044823|WD~publisher,105044823]]'
 different_from:
-- '[[_Standards/WikiData/WD~publishing_company,2085381]]'
-- '[[_Standards/WikiData/WD~editor,104629540]]'
-- '[[_Standards/WikiData/WD~publisher,105044823]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~publication_manager,3029421]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~publishing,3972943]]'
+- '[[_Standards/WikiData/WD~publishing_company,2085381|WD~publishing_company,2085381]]'
+- '[[_Standards/WikiData/WD~editor,104629540|WD~editor,104629540]]'
+- '[[_Standards/WikiData/WD~publisher,105044823|WD~publisher,105044823]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~publication_manager,3029421|WD~publication_manager,3029421]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~publishing,3972943|WD~publishing,3972943]]'
 instance_of:
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 Wikidata_property: publisher
 female_form_of_label:
 - editora
@@ -242,8 +242,8 @@ dv_has_:
 
 # [[Publisher]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~publisher,2516866]] 
-#is_/same_as :: [[_Standards/WikiData/WD~publishing_company,2085381]]  
+#is_/same_as :: [[_Standards/WikiData/WD~publisher,2516866|WD~publisher,2516866]] 
+#is_/same_as :: [[_Standards/WikiData/WD~publishing_company,2085381|WD~publishing_company,2085381]]  
 
 ## #has_/text_of_/abstract 
 

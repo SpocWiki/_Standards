@@ -69,29 +69,29 @@ aliases:
 - 카스토르와 폴룩스
 has_id_wikidata: Q190103
 worshipped_by:
-- '[[_Standards/WikiData/WD~Roman_mythology,122173]]'
-- '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
+- '[[_Standards/WikiData/WD~Roman_mythology,122173|WD~Roman_mythology,122173]]'
+- '[[_Standards/WikiData/WD~Greek_mythology,34726|WD~Greek_mythology,34726]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-based_on: '[[_Standards/WikiData/WD~Lugal_Irra_and_Meslamta_ea,3266331]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240|WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+based_on: '[[_Standards/WikiData/WD~Lugal_Irra_and_Meslamta_ea,3266331|WD~Lugal_Irra_and_Meslamta_ea,3266331]]'
 instance_of:
-- '[[_Standards/WikiData/WD~twins_in_mythology,4088159]]'
-- '[[_Standards/WikiData/WD~couple_of_mythological_Greek_characters,28061934]]'
-- '[[_Standards/WikiData/WD~twin_deities,115282499]]'
+- '[[_Standards/WikiData/WD~twins_in_mythology,4088159|WD~twins_in_mythology,4088159]]'
+- '[[_Standards/WikiData/WD~couple_of_mythological_Greek_characters,28061934|WD~couple_of_mythological_Greek_characters,28061934]]'
+- '[[_Standards/WikiData/WD~twin_deities,115282499|WD~twin_deities,115282499]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Castor,11294144]]'
-- '[[_Standards/WikiData/WD~Pollux,12046224]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Castor_and_Pollux,11736799]]'
-place_of_burial: '[[_Standards/WikiData/WD~Tomb_of_Castor_in_Sparta,124616316]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Tinas_Clenar,126913825]]'
-depicted_by: '[[_Standards/WikiData/WD~Dioscuri_statue_from_Baiae,131704290]]'
+- '[[_Standards/WikiData/WD~Castor,11294144|WD~Castor,11294144]]'
+- '[[_Standards/WikiData/WD~Pollux,12046224|WD~Pollux,12046224]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Castor_and_Pollux,11736799|WD~Castor_and_Pollux,11736799]]'
+place_of_burial: '[[_Standards/WikiData/WD~Tomb_of_Castor_in_Sparta,124616316|WD~Tomb_of_Castor_in_Sparta,124616316]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Tinas_Clenar,126913825|WD~Tinas_Clenar,126913825]]'
+depicted_by: '[[_Standards/WikiData/WD~Dioscuri_statue_from_Baiae,131704290|WD~Dioscuri_statue_from_Baiae,131704290]]'
 Commons_category: Castor and Pollux
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Castor%20et%20Polux%20porcelaine%20de%20S%C3%A8vres.jpg
 Iconclass_notation: 94R

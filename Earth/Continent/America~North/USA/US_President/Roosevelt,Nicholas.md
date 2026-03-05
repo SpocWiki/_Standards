@@ -34,7 +34,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 > was an American politician. 
 > 
 > He was an early member of the Roosevelt family 
-> and a prominent Dutch-American citizen of New Amsterdam (later [[../../_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/New_York.Cities/New_York,City]]), 
+> and a prominent Dutch-American citizen of New Amsterdam (later [[../../_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/New_York.Cities/New_York,City|New_York,City]]), 
 > and was the 4th great-grandfather to 
 > - [[Roosevelt,Theodore|Theodore Roosevelt]] (1858–1919) and 
 > - [[Roosevelt,Franklin_Delano|Franklin Delano Roosevelt]] (1882–1945). 

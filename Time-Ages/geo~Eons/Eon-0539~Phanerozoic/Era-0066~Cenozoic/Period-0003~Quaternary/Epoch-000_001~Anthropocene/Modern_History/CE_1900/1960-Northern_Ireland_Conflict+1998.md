@@ -61,11 +61,11 @@ aliases:
 - 북아일랜드 분쟁
 has_id_wikidata: Q815436
 instance_of:
-- '[[_Standards/WikiData/WD~ethnic_conflict,766875]]'
-- '[[_Standards/WikiData/WD~sectarian_violence,3774758]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-location: '[[_Standards/WikiData/WD~Northern_Ireland,26]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~ethnic_conflict,766875|WD~ethnic_conflict,766875]]'
+- '[[_Standards/WikiData/WD~sectarian_violence,3774758|WD~sectarian_violence,3774758]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+location: '[[_Standards/WikiData/WD~Northern_Ireland,26|WD~Northern_Ireland,26]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 number_of_deaths: 3532
 number_of_injured: 47541
 start_time: 1960-01-01T00:00:00Z

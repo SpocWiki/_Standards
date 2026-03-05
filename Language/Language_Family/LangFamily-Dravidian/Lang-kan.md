@@ -106,24 +106,24 @@ aliases:
 - 칸나다어
 has_id_wikidata: Q33673
 linguistic_typology:
-- '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
-- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~agglutinative_language,171263|WD~agglutinative_language,171263]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808|WD~subject_object_verb,539808]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-- '[[_Standards/WikiData/WD~modern_language,1288568]]'
-- '[[_Standards/WikiData/WD~natural_language,33742]]'
-subclass_of: '[[_Standards/WikiData/WD~Kannada_Badaga,6363888]]'
-UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
-different_from: '[[_Standards/WikiData/WD~Kannada,21474034]]'
-Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568|WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742|WD~natural_language,33742]]'
+subclass_of: '[[_Standards/WikiData/WD~Kannada_Badaga,6363888|WD~Kannada_Badaga,6363888]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086|WD~1_safe,20672086]]'
+different_from: '[[_Standards/WikiData/WD~Kannada,21474034|WD~Kannada,21474034]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547|WD~2_Provincial,29051547]]'
 part_of:
-- '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]'
-- '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q131938994,131938994]]'
-country: '[[_Standards/WikiData/WD~India,668]]'
-indigenous_to: '[[_Standards/WikiData/WD~Karnataka,1185]]'
+- '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530|WD~Classical_Languages_of_India,116275530]]'
+- '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300|WD~Schedule_languages_of_India,134519300]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q131938994,131938994|WD~Q131938994,131938994]]'
+country: '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+indigenous_to: '[[_Standards/WikiData/WD~Karnataka,1185|WD~Karnataka,1185]]'
 number_of_speakers_writers_or_signers: 43600000
 IAB_code: 1114
 ABS_ASCL_2011_code: 5101

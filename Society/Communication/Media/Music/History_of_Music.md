@@ -67,14 +67,14 @@ aliases:
 - 음악의 역사
 has_id_wikidata: Q846047
 part_of:
-- '[[_Standards/WikiData/WD~musicology,164204]]'
-- '[[_Standards/WikiData/WD~music_history,10590700]]'
+- '[[_Standards/WikiData/WD~musicology,164204|WD~musicology,164204]]'
+- '[[_Standards/WikiData/WD~music_history,10590700|WD~music_history,10590700]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-studied_by: '[[_Standards/WikiData/WD~music_history,10590700]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-facet_of: '[[_Standards/WikiData/WD~music,638]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+studied_by: '[[_Standards/WikiData/WD~music_history,10590700|WD~music_history,10590700]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~music,638|WD~music,638]]'
 Provenio_UUID: f2e9ea43-80e9-495c-ab38-a9703d46dbf1
 Commons_category: History of music
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Chinese%20instrumentalists.jpg

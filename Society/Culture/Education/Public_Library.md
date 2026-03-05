@@ -66,16 +66,16 @@ aliases:
 - 公共圖書館
 - 공공 도서관
 has_id_wikidata: Q28564
-has_use: '[[_Standards/WikiData/WD~public_service,161837]]'
-opposite_of: '[[_Standards/WikiData/WD~private_library,380829]]'
+has_use: '[[_Standards/WikiData/WD~public_service,161837|WD~public_service,161837]]'
+opposite_of: '[[_Standards/WikiData/WD~private_library,380829|WD~private_library,380829]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~facility,13226383]]'
-- '[[_Standards/WikiData/WD~library,7075]]'
+- '[[_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
+- '[[_Standards/WikiData/WD~library,7075|WD~library,7075]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_library,25397890]]'
-has_characteristic: '[[_Standards/WikiData/WD~public,116796279]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_library,25397890|WD~type_of_library,25397890]]'
+has_characteristic: '[[_Standards/WikiData/WD~public,116796279|WD~public,116796279]]'
 properties_for_this_type:
 - inception
 - street address

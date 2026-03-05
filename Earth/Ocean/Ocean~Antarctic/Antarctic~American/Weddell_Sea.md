@@ -67,14 +67,14 @@ coordinate_location: Point(-45.0 -73.0)
 location:
 - -73
 - -45
-instance_of: '[[_Standards/WikiData/WD~marginal_sea,204894]]'
-named_after: '[[_Standards/WikiData/WD~James_Weddell,343065]]'
+instance_of: '[[_Standards/WikiData/WD~marginal_sea,204894|WD~marginal_sea,204894]]'
+named_after: '[[_Standards/WikiData/WD~James_Weddell,343065|WD~James_Weddell,343065]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Ocean,7354]]'
-continent: '[[_Standards/WikiData/WD~Antarctica,51]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062|WD~Antarctic_Treaty_area,21590062]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Ocean,7354|WD~Southern_Ocean,7354]]'
+continent: '[[_Standards/WikiData/WD~Antarctica,51|WD~Antarctica,51]]'
 area: 2800000
 vertical_depth: 6820
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NASA%27s%20DC-8%20Flying%20Over%20the%20Weddell%20Sea.jpg

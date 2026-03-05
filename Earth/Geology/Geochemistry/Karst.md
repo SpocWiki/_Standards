@@ -35,13 +35,13 @@ aliases:
 - 카르스트 지형
 has_id_wikidata: Q16817
 subclass_of:
-- '[[_Standards/WikiData/WD~landscape,107425]]'
-- '[[_Standards/WikiData/WD~landform,271669]]'
+- '[[_Standards/WikiData/WD~landscape,107425|WD~landscape,107425]]'
+- '[[_Standards/WikiData/WD~landform,271669|WD~landform,271669]]'
 different_from:
-- '[[_Standards/WikiData/WD~Kras,412520]]'
-- '[[_Standards/WikiData/WD~pseudokarst,1401173]]'
-studied_by: '[[_Standards/WikiData/WD~karstology,1734506]]'
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Kras,412520|WD~Kras,412520]]'
+- '[[_Standards/WikiData/WD~pseudokarst,1401173|WD~pseudokarst,1401173]]'
+studied_by: '[[_Standards/WikiData/WD~karstology,1734506|WD~karstology,1734506]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
 Commons_category: Karst
 native_label: Karst
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Karst%20Hydrogeologie%20Schema1.jpg
@@ -49,7 +49,7 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000175
 OmegaWiki_Defined_Meaning: 1507851
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Karst,16817]]'
+  - '[[../../../WikiData/WD~Karst,16817|WD~Karst,16817]]'
   - '[[/_Standards/Earth/Geology/Geochemistry/Karst|Karst]]'
   - '[[/_public/Earth/Geology/Geochemistry/Karst.public|Karst.public]]'
   - '[[/_internal/Earth/Geology/Geochemistry/Karst.internal|Karst.internal]]'
@@ -58,7 +58,7 @@ dv_is_:
   - '[[/_personal/Earth/Geology/Geochemistry/Karst.personal|Karst.personal]]'
   - '[[/_secret/Earth/Geology/Geochemistry/Karst.secret|Karst.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Karst,16817]]'
+- '[[../../../WikiData/WD~Karst,16817|WD~Karst,16817]]'
 - '[[/_Standards/Earth/Geology/Geochemistry/Karst|Karst]]'
 - '[[/_public/Earth/Geology/Geochemistry/Karst.public|Karst.public]]'
 - '[[/_internal/Earth/Geology/Geochemistry/Karst.internal|Karst.internal]]'

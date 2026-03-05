@@ -165,34 +165,34 @@ male_form_of_label:
 - teisėjas
 - sodnik
 field_of_this_occupation:
-- '[[_Standards/WikiData/WD~judiciary,105985]]'
-- '[[_Standards/WikiData/WD~law,7748]]'
+- '[[_Standards/WikiData/WD~judiciary,105985|WD~judiciary,105985]]'
+- '[[_Standards/WikiData/WD~law,7748|WD~law,7748]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~jurist,185351]]'
-- '[[_Standards/WikiData/WD~judicial_officer,6302990]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~qadi,217029]]'
-work_locations: '[[_Standards/WikiData/WD~courtroom,939726]]'
+- '[[_Standards/WikiData/WD~jurist,185351|WD~jurist,185351]]'
+- '[[_Standards/WikiData/WD~judicial_officer,6302990|WD~judicial_officer,6302990]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~qadi,217029|WD~qadi,217029]]'
+work_locations: '[[_Standards/WikiData/WD~courtroom,939726|WD~courtroom,939726]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 honorific_prefix:
-- '[[_Standards/WikiData/WD~The_Honourable,2746176]]'
-- '[[_Standards/WikiData/WD~His_Honour,3490024]]'
-- '[[_Standards/WikiData/WD~Justice,113331361]]'
-- '[[_Standards/WikiData/WD~Judge,115860244]]'
+- '[[_Standards/WikiData/WD~The_Honourable,2746176|WD~The_Honourable,2746176]]'
+- '[[_Standards/WikiData/WD~His_Honour,3490024|WD~His_Honour,3490024]]'
+- '[[_Standards/WikiData/WD~Justice,113331361|WD~Justice,113331361]]'
+- '[[_Standards/WikiData/WD~Judge,115860244|WD~Judge,115860244]]'
 instance_of:
-- '[[_Standards/WikiData/WD~embede,4994773]]'
-- '[[_Standards/WikiData/WD~legal_profession,15987302]]'
-- '[[_Standards/WikiData/WD~legal_position,83856136]]'
-- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q15975943,15975943]]'
+- '[[_Standards/WikiData/WD~embede,4994773|WD~embede,4994773]]'
+- '[[_Standards/WikiData/WD~legal_profession,15987302|WD~legal_profession,15987302]]'
+- '[[_Standards/WikiData/WD~legal_position,83856136|WD~legal_position,83856136]]'
+- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140|WD~occupation_group_according_to_ISCO_08,108300140]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q15975943,15975943|WD~Q15975943,15975943]]'
 different_from:
-- '[[_Standards/WikiData/WD~hearing_officer,67207452]]'
-- '[[_Standards/WikiData/WD~Judge,115860244]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~judge,135919367]]'
+- '[[_Standards/WikiData/WD~hearing_officer,67207452|WD~hearing_officer,67207452]]'
+- '[[_Standards/WikiData/WD~Judge,115860244|WD~Judge,115860244]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~judge,135919367|WD~judge,135919367]]'
 Wikidata_property: judge
 ISCO_08_occupation_class: 2612
 ISCO_88_occupation_class: 2422

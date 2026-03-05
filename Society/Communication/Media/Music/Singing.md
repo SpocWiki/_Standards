@@ -119,27 +119,27 @@ aliases:
 - 가창
 has_id_wikidata: Q27939
 practiced_by:
-- '[[_Standards/WikiData/WD~singer,177220]]'
-- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+- '[[_Standards/WikiData/WD~singer,177220|WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205|WD~singer_songwriter,488205]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-immediate_cause_of: '[[_Standards/WikiData/WD~vocal_music,685884]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~vocal_music,685884]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+immediate_cause_of: '[[_Standards/WikiData/WD~vocal_music,685884|WD~vocal_music,685884]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~vocal_music,685884|WD~vocal_music,685884]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~activity,1914636]]'
-- '[[_Standards/WikiData/WD~musical_performance,6942562]]'
+- '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~musical_performance,6942562|WD~musical_performance,6942562]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~vocal,2529757]]'
-- '[[_Standards/WikiData/WD~voice,17172850]]'
-uses: '[[_Standards/WikiData/WD~vocal_apparatus,4142193]]'
+- '[[_Standards/WikiData/WD~vocal,2529757|WD~vocal,2529757]]'
+- '[[_Standards/WikiData/WD~voice,17172850|WD~voice,17172850]]'
+uses: '[[_Standards/WikiData/WD~vocal_apparatus,4142193|WD~vocal_apparatus,4142193]]'
 different_from:
-- '[[_Standards/WikiData/WD~chant,23072435]]'
-- '[[_Standards/WikiData/WD~vocal_performance,105245071]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_activity,125542526]]'
+- '[[_Standards/WikiData/WD~chant,23072435|WD~chant,23072435]]'
+- '[[_Standards/WikiData/WD~vocal_performance,105245071|WD~vocal_performance,105245071]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_activity,125542526|WD~type_of_activity,125542526]]'
 Dewey_Decimal_Classification:
 - 782
 - 783

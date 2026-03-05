@@ -1,6 +1,6 @@
 # [[CEFACT]] 
 
-The CEFACT Standard is documented in the UN-Recommendation [[UN~Recommendations/rec20_Rev7e_2010.xlsx]] . 
+The CEFACT Standard is documented in the UN-Recommendation [[UN~Recommendations/rec20_Rev7e_2010.xlsx|rec20_Rev7e_2010.xlsx]] . 
 It is maintained by the [[../Dimension/Unit_of_Measure/gs1|gs1]] Consortium and both codes coincide. 
 
 "CEFACT" originally stood for 

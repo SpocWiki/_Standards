@@ -58,34 +58,34 @@ aliases:
 - 공공 정책
 has_id_wikidata: Q546113
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~type_of_policy,96251375]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_policy,96251375|WD~type_of_policy,96251375]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~foreign_policy,181648]]'
-- '[[_Standards/WikiData/WD~agricultural_policy,396198]]'
-- '[[_Standards/WikiData/WD~science_policy,904708]]'
-- '[[_Standards/WikiData/WD~environmental_policy,919526]]'
-- '[[_Standards/WikiData/WD~domestic_policy,1573035]]'
-- '[[_Standards/WikiData/WD~military_policy,1667082]]'
-- '[[_Standards/WikiData/WD~cultural_policy,1711347]]'
-- '[[_Standards/WikiData/WD~energy_policy,1805337]]'
-- '[[_Standards/WikiData/WD~transport_policy,2516371]]'
-- '[[_Standards/WikiData/WD~technology_policy,7692619]]'
-subclass_of: '[[_Standards/WikiData/WD~policy,1156854]]'
-main_subject: '[[_Standards/WikiData/WD~state_power,2324993]]'
+- '[[_Standards/WikiData/WD~foreign_policy,181648|WD~foreign_policy,181648]]'
+- '[[_Standards/WikiData/WD~agricultural_policy,396198|WD~agricultural_policy,396198]]'
+- '[[_Standards/WikiData/WD~science_policy,904708|WD~science_policy,904708]]'
+- '[[_Standards/WikiData/WD~environmental_policy,919526|WD~environmental_policy,919526]]'
+- '[[_Standards/WikiData/WD~domestic_policy,1573035|WD~domestic_policy,1573035]]'
+- '[[_Standards/WikiData/WD~military_policy,1667082|WD~military_policy,1667082]]'
+- '[[_Standards/WikiData/WD~cultural_policy,1711347|WD~cultural_policy,1711347]]'
+- '[[_Standards/WikiData/WD~energy_policy,1805337|WD~energy_policy,1805337]]'
+- '[[_Standards/WikiData/WD~transport_policy,2516371|WD~transport_policy,2516371]]'
+- '[[_Standards/WikiData/WD~technology_policy,7692619|WD~technology_policy,7692619]]'
+subclass_of: '[[_Standards/WikiData/WD~policy,1156854|WD~policy,1156854]]'
+main_subject: '[[_Standards/WikiData/WD~state_power,2324993|WD~state_power,2324993]]'
 different_from:
-- '[[_Standards/WikiData/WD~rulemaking,2479254]]'
-- '[[_Standards/WikiData/WD~government_policy,130472575]]'
+- '[[_Standards/WikiData/WD~rulemaking,2479254|WD~rulemaking,2479254]]'
+- '[[_Standards/WikiData/WD~government_policy,130472575|WD~government_policy,130472575]]'
 studied_by:
-- '[[_Standards/WikiData/WD~impact_assessment,6005872]]'
-- '[[_Standards/WikiData/WD~public_policy_studies,85710967]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Public_policy,14398408]]'
+- '[[_Standards/WikiData/WD~impact_assessment,6005872|WD~impact_assessment,6005872]]'
+- '[[_Standards/WikiData/WD~public_policy_studies,85710967|WD~public_policy_studies,85710967]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Public_policy,14398408|WD~Template_Public_policy,14398408]]'
 part_of:
-- '[[_Standards/WikiData/WD~government,7188]]'
-- '[[_Standards/WikiData/WD~state,7275]]'
-- '[[_Standards/WikiData/WD~public_administration,31728]]'
-facet_of: '[[_Standards/WikiData/WD~political_science,36442]]'
+- '[[_Standards/WikiData/WD~government,7188|WD~government,7188]]'
+- '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
+- '[[_Standards/WikiData/WD~public_administration,31728|WD~public_administration,31728]]'
+facet_of: '[[_Standards/WikiData/WD~political_science,36442|WD~political_science,36442]]'
 Commons_category: Public policy
 Wikimedia_import_URL: https://en.wikipedia.org/wiki/Public_policy
 MeSH_tree_code:

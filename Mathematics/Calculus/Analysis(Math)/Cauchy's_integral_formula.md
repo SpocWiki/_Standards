@@ -43,11 +43,11 @@ aliases:
 - 柯西積分公式
 - 코시 적분 공식
 has_id_wikidata: Q913764
-instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
-different_from: "[[_Standards/WikiData/WD~Cauchy's_integral_theorem,834025]]"
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-named_after: '[[_Standards/WikiData/WD~Augustin_Louis_Cauchy,8814]]'
+instance_of: '[[_Standards/WikiData/WD~theorem,65943|WD~theorem,65943]]'
+different_from: "[[_Standards/WikiData/WD~Cauchy's_integral_theorem,834025|WD~Cauchy's_integral_theorem,834025]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+named_after: '[[_Standards/WikiData/WD~Augustin_Louis_Cauchy,8814|WD~Augustin_Louis_Cauchy,8814]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C0;</mi></mstyle></mrow></math>

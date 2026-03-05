@@ -78,19 +78,19 @@ aliases:
 - 거시경제학
 has_id_wikidata: Q39680
 is_the_study_of:
-- '[[_Standards/WikiData/WD~business_cycle,192311]]'
-- '[[_Standards/WikiData/WD~gross_domestic_product,12638]]'
-- '[[_Standards/WikiData/WD~inflation,35865]]'
-facet_of: '[[_Standards/WikiData/WD~economic_theory,1401304]]'
-part_of: '[[_Standards/WikiData/WD~general_economics,10660901]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12960865,12960865]]'
+- '[[_Standards/WikiData/WD~business_cycle,192311|WD~business_cycle,192311]]'
+- '[[_Standards/WikiData/WD~gross_domestic_product,12638|WD~gross_domestic_product,12638]]'
+- '[[_Standards/WikiData/WD~inflation,35865|WD~inflation,35865]]'
+facet_of: '[[_Standards/WikiData/WD~economic_theory,1401304|WD~economic_theory,1401304]]'
+part_of: '[[_Standards/WikiData/WD~general_economics,10660901|WD~general_economics,10660901]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12960865,12960865|WD~Q12960865,12960865]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Macroeconomics,14398169]]'
-- '[[_Standards/WikiData/WD~Template_Macroeconomics_sidebar,77750036]]'
-- '[[_Standards/WikiData/WD~Q106410391,106410391]]'
-subclass_of: '[[_Standards/WikiData/WD~economics,8134]]'
-instance_of: '[[_Standards/WikiData/WD~theory,17737]]'
-opposite_of: '[[_Standards/WikiData/WD~microeconomics,39072]]'
+- '[[_Standards/WikiData/WD~Template_Macroeconomics,14398169|WD~Template_Macroeconomics,14398169]]'
+- '[[_Standards/WikiData/WD~Template_Macroeconomics_sidebar,77750036|WD~Template_Macroeconomics_sidebar,77750036]]'
+- '[[_Standards/WikiData/WD~Q106410391,106410391|WD~Q106410391,106410391]]'
+subclass_of: '[[_Standards/WikiData/WD~economics,8134|WD~economics,8134]]'
+instance_of: '[[_Standards/WikiData/WD~theory,17737|WD~theory,17737]]'
+opposite_of: '[[_Standards/WikiData/WD~microeconomics,39072|WD~microeconomics,39072]]'
 Dewey_Decimal_Classification: 339
 Basisklassifikation: 83.12
 U_S_National_Archives_Identifier: 10637608

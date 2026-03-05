@@ -78,14 +78,14 @@ aliases:
 - 복지국가
 has_id_wikidata: Q192451
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~type_of_policy,96251375]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~social_state,619610]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~type_of_policy,96251375|WD~type_of_policy,96251375]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~social_state,619610|WD~social_state,619610]]'
 facet_of:
-- '[[_Standards/WikiData/WD~social_policy,828395]]'
-- '[[_Standards/WikiData/WD~economic_support,11497309]]'
-subclass_of: '[[_Standards/WikiData/WD~state_model,2325086]]'
-described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~social_policy,828395|WD~social_policy,828395]]'
+- '[[_Standards/WikiData/WD~economic_support,11497309|WD~economic_support,11497309]]'
+subclass_of: '[[_Standards/WikiData/WD~state_model,2325086|WD~state_model,2325086]]'
+described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 Library_of_Congress_Classification: JC479
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Signing%20Of%20The%20Social%20Security%20Act.jpg
 Commons_category: Welfare state

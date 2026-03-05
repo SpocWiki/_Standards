@@ -90,40 +90,40 @@ aliases:
 - 도서관학
 has_id_wikidata: Q199655
 practiced_by:
-- '[[_Standards/WikiData/WD~librarian,182436]]'
-- '[[_Standards/WikiData/WD~cataloger,33109310]]'
-- '[[_Standards/WikiData/WD~library_scientist,55389138]]'
-- '[[_Standards/WikiData/WD~metadata_librarian,80490291]]'
+- '[[_Standards/WikiData/WD~librarian,182436|WD~librarian,182436]]'
+- '[[_Standards/WikiData/WD~cataloger,33109310|WD~cataloger,33109310]]'
+- '[[_Standards/WikiData/WD~library_scientist,55389138|WD~library_scientist,55389138]]'
+- '[[_Standards/WikiData/WD~metadata_librarian,80490291|WD~metadata_librarian,80490291]]'
 instance_of:
-- '[[_Standards/WikiData/WD~job_activity,192581]]'
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~job_activity,192581|WD~job_activity,192581]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436|WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~library_reference_service,630961]]'
-- '[[_Standards/WikiData/WD~cataloging,3535655]]'
-- '[[_Standards/WikiData/WD~library_collection_development,3567214]]'
-- '[[_Standards/WikiData/WD~library_and_archives_activities,29586013]]'
-- '[[_Standards/WikiData/WD~library_service,59309634]]'
-- '[[_Standards/WikiData/WD~document,49848]]'
+- '[[_Standards/WikiData/WD~library_reference_service,630961|WD~library_reference_service,630961]]'
+- '[[_Standards/WikiData/WD~cataloging,3535655|WD~cataloging,3535655]]'
+- '[[_Standards/WikiData/WD~library_collection_development,3567214|WD~library_collection_development,3567214]]'
+- '[[_Standards/WikiData/WD~library_and_archives_activities,29586013|WD~library_and_archives_activities,29586013]]'
+- '[[_Standards/WikiData/WD~library_service,59309634|WD~library_service,59309634]]'
+- '[[_Standards/WikiData/WD~document,49848|WD~document,49848]]'
 part_of:
-- '[[_Standards/WikiData/WD~librarianship,856625]]'
-- '[[_Standards/WikiData/WD~library_and_information_science,13420675]]'
-- '[[_Standards/WikiData/WD~information_science,16387]]'
-is_the_study_of: '[[_Standards/WikiData/WD~knowledge_organization,1929761]]'
+- '[[_Standards/WikiData/WD~librarianship,856625|WD~librarianship,856625]]'
+- '[[_Standards/WikiData/WD~library_and_information_science,13420675|WD~library_and_information_science,13420675]]'
+- '[[_Standards/WikiData/WD~information_science,16387|WD~information_science,16387]]'
+is_the_study_of: '[[_Standards/WikiData/WD~knowledge_organization,1929761|WD~knowledge_organization,1929761]]'
 different_from:
-- '[[_Standards/WikiData/WD~library_and_information_science,13420675]]'
-- '[[_Standards/WikiData/WD~library_and_archives_activities,29586013]]'
-- '[[_Standards/WikiData/WD~librarianship,99231505]]'
+- '[[_Standards/WikiData/WD~library_and_information_science,13420675|WD~library_and_information_science,13420675]]'
+- '[[_Standards/WikiData/WD~library_and_archives_activities,29586013|WD~library_and_archives_activities,29586013]]'
+- '[[_Standards/WikiData/WD~librarianship,99231505|WD~librarianship,99231505]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~library_and_archives_activities,29586013]]'
-- '[[_Standards/WikiData/WD~librarianship,99231505]]'
-subclass_of: '[[_Standards/WikiData/WD~information_science,16387]]'
+- '[[_Standards/WikiData/WD~library_and_archives_activities,29586013|WD~library_and_archives_activities,29586013]]'
+- '[[_Standards/WikiData/WD~librarianship,99231505|WD~librarianship,99231505]]'
+subclass_of: '[[_Standards/WikiData/WD~information_science,16387|WD~information_science,16387]]'
 Colon_Classification: 2
 Universal_Decimal_Classification: 02
 U_S_National_Archives_Identifier: 10636496

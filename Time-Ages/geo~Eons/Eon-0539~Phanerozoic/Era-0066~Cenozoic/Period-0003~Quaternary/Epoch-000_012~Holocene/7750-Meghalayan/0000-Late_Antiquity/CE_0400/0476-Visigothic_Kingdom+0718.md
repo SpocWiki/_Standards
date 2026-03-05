@@ -73,30 +73,30 @@ aliases:
 - "\U00010345\U00010339\U00010343\U00010344\U00010342\U00010330\U00010332\U0001033F\U00010344\U00010339\U00010343\U0001033A \U00010342\U00010334\U00010339\U0001033A\U00010339"
 has_id_wikidata: Q126936
 replaces:
-- '[[_Standards/WikiData/WD~Kingdom_of_the_Suebi,1048918]]'
-- '[[_Standards/WikiData/WD~Western_Roman_Empire,42834]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_the_Suebi,1048918|WD~Kingdom_of_the_Suebi,1048918]]'
+- '[[_Standards/WikiData/WD~Western_Roman_Empire,42834|WD~Western_Roman_Empire,42834]]'
 official_religion:
-- '[[_Standards/WikiData/WD~Germanic_paganism,1122452]]'
-- '[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500]]'
+- '[[_Standards/WikiData/WD~Germanic_paganism,1122452|WD~Germanic_paganism,1122452]]'
+- '[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500|WD~Chalcedonian_Christianity,2711500]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Kingdom_of_Toledo,2940142]]'
-- '[[_Standards/WikiData/WD~Visigothic_Kingdom_of_Tolosa,3307686]]'
-- '[[_Standards/WikiData/WD~Empire_of_Theodoric_the_Great,5919137]]'
-owner_of: '[[_Standards/WikiData/WD~Castle_of_Cabrières,2968724]]'
-instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
-part_of: '[[_Standards/WikiData/WD~barbarian_kingdom,5402094]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~king_of_Wisigoths,22953238]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Toledo,2940142|WD~Kingdom_of_Toledo,2940142]]'
+- '[[_Standards/WikiData/WD~Visigothic_Kingdom_of_Tolosa,3307686|WD~Visigothic_Kingdom_of_Tolosa,3307686]]'
+- '[[_Standards/WikiData/WD~Empire_of_Theodoric_the_Great,5919137|WD~Empire_of_Theodoric_the_Great,5919137]]'
+owner_of: '[[_Standards/WikiData/WD~Castle_of_Cabrières,2968724|WD~Castle_of_Cabrières,2968724]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
+part_of: '[[_Standards/WikiData/WD~barbarian_kingdom,5402094|WD~barbarian_kingdom,5402094]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~king_of_Wisigoths,22953238|WD~king_of_Wisigoths,22953238]]'
 inception: 0476-01-01T00:00:00Z
 capital:
-- '[[_Standards/WikiData/WD~Barcelona,1492]]'
-- '[[_Standards/WikiData/WD~Toledo,5836]]'
-- '[[_Standards/WikiData/WD~Toulouse,7880]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Barcelona,1492|WD~Barcelona,1492]]'
+- '[[_Standards/WikiData/WD~Toledo,5836|WD~Toledo,5836]]'
+- '[[_Standards/WikiData/WD~Toulouse,7880|WD~Toulouse,7880]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 area: 600000
 language_used:
-- '[[_Standards/WikiData/WD~Gothic,35722]]'
-- '[[_Standards/WikiData/WD~Vulgar_Latin,37560]]'
+- '[[_Standards/WikiData/WD~Gothic,35722|WD~Gothic,35722]]'
+- '[[_Standards/WikiData/WD~Vulgar_Latin,37560|WD~Vulgar_Latin,37560]]'
 locator_map_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Reino%20de%20los%20visigodos-ca.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Reino%20de%20los%20visigodos.svg

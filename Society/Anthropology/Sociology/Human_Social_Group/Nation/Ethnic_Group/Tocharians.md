@@ -55,8 +55,8 @@ aliases:
 - 吐火羅人
 - 토하리인
 has_id_wikidata: Q192858
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Daxia,846492]]'
-instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Daxia,846492|WD~Daxia,846492]]'
+instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501|WD~historical_ethnic_group,4204501]]'
 Commons_category: Tocharians
 dv_has_:
   name_:

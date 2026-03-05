@@ -48,14 +48,14 @@ aliases:
 - 中更新期
 - 지바절
 has_id_wikidata: Q492596
-named_after: '[[_Standards/WikiData/WD~Chiba_Prefecture,80011]]'
-significant_place: '[[_Standards/WikiData/WD~Ichihara,207881]]'
-follows: '[[_Standards/WikiData/WD~Early_Pleistocene,444693]]'
+named_after: '[[_Standards/WikiData/WD~Chiba_Prefecture,80011|WD~Chiba_Prefecture,80011]]'
+significant_place: '[[_Standards/WikiData/WD~Ichihara,207881|WD~Ichihara,207881]]'
+follows: '[[_Standards/WikiData/WD~Early_Pleistocene,444693|WD~Early_Pleistocene,444693]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Chibanian,133756548]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Chibanian,133756548|WD~GSSP_for_the_base_of_the_Chibanian,133756548]]'
 coordinate_location: Point(140.146527777 35.294333333)
 sRGB_color_hex_triplet: FFF2C7
 start_time: -774100-01-01T00:00:00Z

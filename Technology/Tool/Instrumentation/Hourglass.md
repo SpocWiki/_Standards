@@ -72,21 +72,21 @@ aliases:
 - 砂時計
 - 모래시계
 has_id_wikidata: Q179904
-has_use: '[[_Standards/WikiData/WD~chronometry,186398]]'
-different_from: '[[_Standards/WikiData/WD~water_clock,194173]]'
+has_use: '[[_Standards/WikiData/WD~chronometry,186398|WD~chronometry,186398]]'
+different_from: '[[_Standards/WikiData/WD~water_clock,194173|WD~water_clock,194173]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~ampoule,477379]]'
-- '[[_Standards/WikiData/WD~granular_material,1155083]]'
-shape: '[[_Standards/WikiData/WD~hyperboloid,505628]]'
+- '[[_Standards/WikiData/WD~ampoule,477379|WD~ampoule,477379]]'
+- '[[_Standards/WikiData/WD~granular_material,1155083|WD~granular_material,1155083]]'
+shape: '[[_Standards/WikiData/WD~hyperboloid,505628|WD~hyperboloid,505628]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~timepiece,42622779]]'
-- '[[_Standards/WikiData/WD~timepiece,376]]'
-source_of_energy: '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~timepiece,42622779|WD~timepiece,42622779]]'
+- '[[_Standards/WikiData/WD~timepiece,376|WD~timepiece,376]]'
+source_of_energy: '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
 Nomenclature_for_Museum_Cataloging:
 - 10301
 - 10300

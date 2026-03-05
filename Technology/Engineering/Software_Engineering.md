@@ -90,30 +90,30 @@ aliases:
 - 소프트웨어 공학
 - 쏘프트웨어공학
 has_id_wikidata: Q80993
-is_the_study_of: '[[_Standards/WikiData/WD~software_development,638608]]'
+is_the_study_of: '[[_Standards/WikiData/WD~software_development,638608|WD~software_development,638608]]'
 part_of:
-- '[[_Standards/WikiData/WD~systems_engineering,682496]]'
-- '[[_Standards/WikiData/WD~information_technology,11661]]'
+- '[[_Standards/WikiData/WD~systems_engineering,682496|WD~systems_engineering,682496]]'
+- '[[_Standards/WikiData/WD~information_technology,11661|WD~information_technology,11661]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~systems_engineering,682496]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
+- '[[_Standards/WikiData/WD~systems_engineering,682496|WD~systems_engineering,682496]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~economic_sector,3958441]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~economic_sector,3958441|WD~economic_sector,3958441]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
 used_by:
-- '[[_Standards/WikiData/WD~information_engineering,1254373]]'
-- '[[_Standards/WikiData/WD~organizational_engineering,7102019]]'
+- '[[_Standards/WikiData/WD~information_engineering,1254373|WD~information_engineering,1254373]]'
+- '[[_Standards/WikiData/WD~organizational_engineering,7102019|WD~organizational_engineering,7102019]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~software_engineer,1709010]]'
-- '[[_Standards/WikiData/WD~research_software_engineer,106268090]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_software_engineering,3348143]]'
-has_list: '[[_Standards/WikiData/WD~Outline_of_software_engineering,7112734]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Software_engineering,10963663]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Software_engineering,63138188]]'
+- '[[_Standards/WikiData/WD~software_engineer,1709010|WD~software_engineer,1709010]]'
+- '[[_Standards/WikiData/WD~research_software_engineer,106268090|WD~research_software_engineer,106268090]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_software_engineering,3348143|WD~history_of_software_engineering,3348143]]'
+has_list: '[[_Standards/WikiData/WD~Outline_of_software_engineering,7112734|WD~Outline_of_software_engineering,7112734]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Software_engineering,10963663|WD~Template_Software_engineering,10963663]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Software_engineering,63138188|WD~Portal_Software_engineering,63138188]]'
 OmegaWiki_Defined_Meaning: 662384
 OKRB_011_2022_code: 6-05-0612-01
 Stack_Exchange_site_URL:

@@ -73,17 +73,17 @@ aliases:
 - 玻爾模型
 - 보어 모형
 has_id_wikidata: Q172948
-facet_of: '[[_Standards/WikiData/WD~spectral_line,212111]]'
+facet_of: '[[_Standards/WikiData/WD~spectral_line,212111|WD~spectral_line,212111]]'
 derivative_work:
-- '[[_Standards/WikiData/WD~Bohr_Sommerfeld_atom_model,360686]]'
-- '[[_Standards/WikiData/WD~Kimball_atom_model,1791159]]'
-instance_of: '[[_Standards/WikiData/WD~atom_model,780649]]'
+- '[[_Standards/WikiData/WD~Bohr_Sommerfeld_atom_model,360686|WD~Bohr_Sommerfeld_atom_model,360686]]'
+- '[[_Standards/WikiData/WD~Kimball_atom_model,1791159|WD~Kimball_atom_model,1791159]]'
+instance_of: '[[_Standards/WikiData/WD~atom_model,780649|WD~atom_model,780649]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~electron,2225]]'
-- '[[_Standards/WikiData/WD~atomic_nucleus,37147]]'
-- '[[_Standards/WikiData/WD~atomic_orbital,53860]]'
-creator: '[[_Standards/WikiData/WD~Niels_Bohr,7085]]'
-named_after: '[[_Standards/WikiData/WD~Niels_Bohr,7085]]'
+- '[[_Standards/WikiData/WD~electron,2225|WD~electron,2225]]'
+- '[[_Standards/WikiData/WD~atomic_nucleus,37147|WD~atomic_nucleus,37147]]'
+- '[[_Standards/WikiData/WD~atomic_orbital,53860|WD~atomic_orbital,53860]]'
+creator: '[[_Standards/WikiData/WD~Niels_Bohr,7085|WD~Niels_Bohr,7085]]'
+named_after: '[[_Standards/WikiData/WD~Niels_Bohr,7085|WD~Niels_Bohr,7085]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Bohr%20atom%20animation%202.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bohr%20atom%20model.svg
 Commons_category: Bohr model

@@ -64,14 +64,14 @@ aliases:
 - 소프트웨어 분류
 has_id_wikidata: Q17155032
 subclass_of:
-- '[[_Standards/WikiData/WD~genre,483394]]'
-- '[[_Standards/WikiData/WD~class,16889133]]'
-- '[[_Standards/WikiData/WD~product_category,63981612]]'
-instance_of: '[[_Standards/WikiData/WD~metaclass,19478619]]'
+- '[[_Standards/WikiData/WD~genre,483394|WD~genre,483394]]'
+- '[[_Standards/WikiData/WD~class,16889133|WD~class,16889133]]'
+- '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
+instance_of: '[[_Standards/WikiData/WD~metaclass,19478619|WD~metaclass,19478619]]'
 properties_for_this_type:
 - part of
 - has use
-is_metaclass_for: '[[_Standards/WikiData/WD~software,7397]]'
+is_metaclass_for: '[[_Standards/WikiData/WD~software,7397|WD~software,7397]]'
 dv_has_:
   name_:
     ar: تصنيف للبرمجيات
@@ -147,7 +147,7 @@ dv_has_:
 
 # [[Software_Category]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~software_category,17155032]] 
+#is_/same_as :: [[_Standards/WikiData/WD~software_category,17155032|WD~software_category,17155032]] 
 
 ## #has_/text_of_/abstract 
 

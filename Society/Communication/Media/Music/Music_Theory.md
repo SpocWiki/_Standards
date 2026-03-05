@@ -71,17 +71,17 @@ aliases:
 - 音樂理論
 - 음악 이론
 has_id_wikidata: Q193544
-part_of: '[[_Standards/WikiData/WD~musicology,164204]]'
+part_of: '[[_Standards/WikiData/WD~musicology,164204|WD~musicology,164204]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-practiced_by: '[[_Standards/WikiData/WD~music_theorist,16031530]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Music_theory,16327995]]'
-is_the_study_of: '[[_Standards/WikiData/WD~music,638]]'
-subclass_of: '[[_Standards/WikiData/WD~theory,17737]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~music_theorist,16031530|WD~music_theorist,16031530]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Music_theory,16327995|WD~Template_Music_theory,16327995]]'
+is_the_study_of: '[[_Standards/WikiData/WD~music,638|WD~music,638]]'
+subclass_of: '[[_Standards/WikiData/WD~theory,17737|WD~theory,17737]]'
 Dewey_Decimal_Classification: 781
 social_media_followers: 539613
 Commons_category: Music theory

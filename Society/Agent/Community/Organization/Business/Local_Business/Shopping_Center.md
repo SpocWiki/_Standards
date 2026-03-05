@@ -102,11 +102,11 @@ tags:
 title: is_a_shopping_center Class
 type: Type
 subclass_of:
-- '[[_Standards/WikiData/WD~retail_building,18760388]]'
-- '[[_Standards/WikiData/WD~retail_environment,39659371]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
-different_from: '[[_Standards/WikiData/WD~shopping_mall,31374404]]'
-instance_of: '[[_Standards/WikiData/WD~ethnological_term,129133491]]'
+- '[[_Standards/WikiData/WD~retail_building,18760388|WD~retail_building,18760388]]'
+- '[[_Standards/WikiData/WD~retail_environment,39659371|WD~retail_environment,39659371]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+different_from: '[[_Standards/WikiData/WD~shopping_mall,31374404|WD~shopping_mall,31374404]]'
+instance_of: '[[_Standards/WikiData/WD~ethnological_term,129133491|WD~ethnological_term,129133491]]'
 Nomenclature_for_Museum_Cataloging:
 - 619
 - 620
@@ -230,7 +230,7 @@ Tag Instances like this:
 
 A shopping center or mall.
 
-#has_/parent_class :: [[../LocalBusiness]]  
+#has_/parent_class :: [[../LocalBusiness|LocalBusiness]]  
 
 #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]  
 

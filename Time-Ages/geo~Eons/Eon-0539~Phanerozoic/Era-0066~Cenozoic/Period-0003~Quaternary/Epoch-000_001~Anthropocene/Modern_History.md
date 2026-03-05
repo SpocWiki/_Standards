@@ -92,25 +92,25 @@ aliases:
 - 근세
 has_id_wikidata: Q3281534
 Commons_category: Modern period
-follows: '[[_Standards/WikiData/WD~Postclassical_Era,7234117]]'
+follows: '[[_Standards/WikiData/WD~Postclassical_Era,7234117|WD~Postclassical_Era,7234117]]'
 has_time_started: 1750-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/La%20Libert%C3%A9%20guidant%20le%20peuple%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%20129%20-%20apr%C3%A8s%20restauration%202024.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~era,6428674]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~era,6428674|WD~era,6428674]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
 MeSH_tree_code: K01.400.504
-part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23016635,23016635]]'
-practiced_by: '[[_Standards/WikiData/WD~historian_of_Modern_Age,17489339]]'
+part_of: '[[_Standards/WikiData/WD~periodization,816829|WD~periodization,816829]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23016635,23016635|WD~Q23016635,23016635]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_Modern_Age,17489339|WD~historian_of_Modern_Age,17489339]]'
 start_time: 1750-06
-subclass_of: '[[_Standards/WikiData/WD~history,309]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Modern_history,13834331]]'
+subclass_of: '[[_Standards/WikiData/WD~history,309|WD~history,309]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Modern_history,13834331|WD~Portal_Modern_history,13834331]]'
 U_S_National_Archives_Identifier: 10647222
 dv_is_:
   same_as:
-  - '[[../../../../../../WikiData/WD~Modern_history,3281534]]'
+  - '[[../../../../../../WikiData/WD~Modern_history,3281534|WD~Modern_history,3281534]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History|Modern_History]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.public|Modern_History.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.internal|Modern_History.internal]]'
@@ -224,7 +224,7 @@ dv_has_:
   time_:
     started: 1750-06-01T00:00:00.000+00:53
 dv_is_same_as:
-- '[[../../../../../../WikiData/WD~Modern_history,3281534]]'
+- '[[../../../../../../WikiData/WD~Modern_history,3281534|WD~Modern_history,3281534]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History|Modern_History]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.public|Modern_History.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.internal|Modern_History.internal]]'
@@ -238,7 +238,7 @@ dv_has_duration_: P275Y7M1W2DT14H27M28.11S
 
 # [[Modern_History]]  
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Modern_history,3281534]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Modern_history,3281534|WD~Modern_history,3281534]] 
 
 #has_/time_/started :: `=this.has_time_started`
 

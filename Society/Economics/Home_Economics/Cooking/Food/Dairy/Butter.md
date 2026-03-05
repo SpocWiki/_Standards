@@ -177,26 +177,26 @@ aliases:
   - 버터
   - 빠다
 has_id_wikidata: Q34172
-has_part_s_: "[[_Standards/WikiData/WD~fat,127980]]"
-instance_of: "[[_Standards/WikiData/WD~dairy_product,185217]]"
+has_part_s_: "[[_Standards/WikiData/WD~fat,127980|WD~fat,127980]]"
+instance_of: "[[_Standards/WikiData/WD~dairy_product,185217|WD~dairy_product,185217]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 has_use:
-  - "[[_Standards/WikiData/WD~spread,1472481]]"
-  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
+  - "[[_Standards/WikiData/WD~spread,1472481|WD~spread,1472481]]"
+  - "[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~fat_spread,1727434]]"
-  - "[[_Standards/WikiData/WD~dry_butter,26869352]]"
-  - "[[_Standards/WikiData/WD~cream_butter,26882158]]"
-fabrication_method: "[[_Standards/WikiData/WD~churning,2916087]]"
-different_from: "[[_Standards/WikiData/WD~spread_butter,16701410]]"
+  - "[[_Standards/WikiData/WD~fat_spread,1727434|WD~fat_spread,1727434]]"
+  - "[[_Standards/WikiData/WD~dry_butter,26869352|WD~dry_butter,26869352]]"
+  - "[[_Standards/WikiData/WD~cream_butter,26882158|WD~cream_butter,26882158]]"
+fabrication_method: "[[_Standards/WikiData/WD~churning,2916087|WD~churning,2916087]]"
+different_from: "[[_Standards/WikiData/WD~spread_butter,16701410|WD~spread_butter,16701410]]"
 made_from_material:
-  - "[[_Standards/WikiData/WD~milk,8495]]"
-  - "[[_Standards/WikiData/WD~cream,13228]]"
+  - "[[_Standards/WikiData/WD~milk,8495|WD~milk,8495]]"
+  - "[[_Standards/WikiData/WD~cream,13228|WD~cream,13228]]"
 carbon_footprint: 9
 OmegaWiki_Defined_Meaning: 5505
 water_footprint: 5553

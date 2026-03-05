@@ -61,16 +61,16 @@ aliases:
 - 비교언어학
 has_id_wikidata: Q878226
 different_from:
-- '[[_Standards/WikiData/WD~contrastive_linguistics,1758140]]'
-- '[[_Standards/WikiData/WD~synchronic_comparative_linguistics,11732839]]'
-- '[[_Standards/WikiData/WD~diachronic_comparative_linguistics,18384059]]'
-is_the_study_of: '[[_Standards/WikiData/WD~historical_language,2315359]]'
+- '[[_Standards/WikiData/WD~contrastive_linguistics,1758140|WD~contrastive_linguistics,1758140]]'
+- '[[_Standards/WikiData/WD~synchronic_comparative_linguistics,11732839|WD~synchronic_comparative_linguistics,11732839]]'
+- '[[_Standards/WikiData/WD~diachronic_comparative_linguistics,18384059|WD~diachronic_comparative_linguistics,18384059]]'
+is_the_study_of: '[[_Standards/WikiData/WD~historical_language,2315359|WD~historical_language,2315359]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_linguistics,135892289|WD~branch_of_linguistics,135892289]]'
 Library_of_Congress_Classification: P143-P143.3
-part_of: '[[_Standards/WikiData/WD~historical,_comparative_and_typological_linguistics,113128713]]'
-subclass_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
+part_of: '[[_Standards/WikiData/WD~historical,_comparative_and_typological_linguistics,113128713|WD~historical,_comparative_and_typological_linguistics,113128713]]'
+subclass_of: '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
 Basisklassifikation: 17.14
 P8189: 987007545493705171
 dv_has_:

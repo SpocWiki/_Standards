@@ -55,11 +55,11 @@ aliases:
 - 財產法
 - 물권법
 has_id_wikidata: Q1149275
-subclass_of: '[[_Standards/WikiData/WD~civil_law,222249]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~ius_de_re,248350]]'
-instance_of: '[[_Standards/WikiData/WD~area_of_law,1756157]]'
-studied_by: '[[_Standards/WikiData/WD~intellectual_property_law,18657604]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Property_law,20344893]]'
+subclass_of: '[[_Standards/WikiData/WD~civil_law,222249|WD~civil_law,222249]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~ius_de_re,248350|WD~ius_de_re,248350]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_law,1756157|WD~area_of_law,1756157]]'
+studied_by: '[[_Standards/WikiData/WD~intellectual_property_law,18657604|WD~intellectual_property_law,18657604]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Property_law,20344893|WD~Template_Property_law,20344893]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Property%20Law%20-%20Gavel%20and%20Block%20and%20House%20Keys.jpg
 Commons_category: Property law
 dv_has_:

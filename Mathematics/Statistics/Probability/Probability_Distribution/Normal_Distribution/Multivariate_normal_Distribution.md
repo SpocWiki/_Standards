@@ -37,11 +37,11 @@ aliases:
 - 다변량 정규분포
 has_id_wikidata: Q1149000
 subclass_of:
-- '[[_Standards/WikiData/WD~multivariate_probability_distribution,1333358]]'
-- '[[_Standards/WikiData/WD~matrix_normal_distribution,4820795]]'
-- '[[_Standards/WikiData/WD~elliptical_distribution,5365806]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
+- '[[_Standards/WikiData/WD~multivariate_probability_distribution,1333358|WD~multivariate_probability_distribution,1333358]]'
+- '[[_Standards/WikiData/WD~matrix_normal_distribution,4820795|WD~matrix_normal_distribution,4820795]]'
+- '[[_Standards/WikiData/WD~elliptical_distribution,5365806|WD~elliptical_distribution,5365806]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641|WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
 in_defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D468</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>"
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mi>f</mi><mo stretchy=\"false\">(</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D499</mi></mrow><mo stretchy=\"false\">)</mo></mstyle></mrow></math>"

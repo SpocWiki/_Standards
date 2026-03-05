@@ -43,15 +43,15 @@ aliases:
 - 繁忙時間
 - 러시아워
 has_id_wikidata: Q868252
-criterion_used: '[[_Standards/WikiData/WD~traffic_congestion,244156]]'
-subclass_of: '[[_Standards/WikiData/WD~time_of_day,1260524]]'
-opposite_of: '[[_Standards/WikiData/WD~Q3134944,3134944]]'
+criterion_used: '[[_Standards/WikiData/WD~traffic_congestion,244156|WD~traffic_congestion,244156]]'
+subclass_of: '[[_Standards/WikiData/WD~time_of_day,1260524|WD~time_of_day,1260524]]'
+opposite_of: '[[_Standards/WikiData/WD~Q3134944,3134944|WD~Q3134944,3134944]]'
 Wikidata_property: nature of statement
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rush%20hour%20Tokyo.jpg
 Commons_category: Rush hour
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Rush_hour,868252]]'
+  - '[[../../../../../WikiData/WD~Rush_hour,868252|WD~Rush_hour,868252]]'
   - '[[Rush_Hour|Rush_Hour]]'
   - '[[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.public|Rush_Hour.public]]'
   - '[[/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.internal|Rush_Hour.internal]]'
@@ -61,7 +61,7 @@ dv_is_:
   - '[[/_secret/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.secret|Rush_Hour.secret]]'
   - '[[Rush_Hour]]'
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Rush_hour,868252]]'
+- '[[../../../../../WikiData/WD~Rush_hour,868252|WD~Rush_hour,868252]]'
 - '[[Rush_Hour]]'
 - '[[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.public|Rush_Hour.public]]'
 - '[[/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.internal|Rush_Hour.internal]]'

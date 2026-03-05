@@ -59,24 +59,24 @@ aliases:
 - 法國號
 - 호른
 has_id_wikidata: Q163759
-has_list: '[[_Standards/WikiData/WD~list_of_compositions_for_horn,381671]]'
+has_list: '[[_Standards/WikiData/WD~list_of_compositions_for_horn,381671|WD~list_of_compositions_for_horn,381671]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-different_from: '[[_Standards/WikiData/WD~horn,1126540]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749|WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+different_from: '[[_Standards/WikiData/WD~horn,1126540|WD~horn,1126540]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~horn,1126540]]'
-- '[[_Standards/WikiData/WD~valve_horns,55738940]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_the_use_of_horn_in_jazz,5903995]]'
-used_by: '[[_Standards/WikiData/WD~horn_player,19729565]]'
-award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
-has_part_s_: '[[_Standards/WikiData/WD~sur,131931143]]'
+- '[[_Standards/WikiData/WD~horn,1126540|WD~horn,1126540]]'
+- '[[_Standards/WikiData/WD~valve_horns,55738940|WD~valve_horns,55738940]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_use_of_horn_in_jazz,5903995|WD~history_of_the_use_of_horn_in_jazz,5903995]]'
+used_by: '[[_Standards/WikiData/WD~horn_player,19729565|WD~horn_player,19729565]]'
+award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486|WD~Instrument_of_the_Year,48757486]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396|WD~type_of_musical_instrument,110295396]]'
+has_part_s_: '[[_Standards/WikiData/WD~sur,131931143|WD~sur,131931143]]'
 Nomenclature_for_Museum_Cataloging:
 - 10667
 - 10666

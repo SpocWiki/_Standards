@@ -69,23 +69,23 @@ aliases:
 - 석유 산업
 has_id_wikidata: Q862571
 has_part_s_:
-- '[[_Standards/WikiData/WD~oil_field,211748]]'
-- '[[_Standards/WikiData/WD~hydrocarbon_exploration,3241434]]'
-- '[[_Standards/WikiData/WD~oil_production_plant,7081437]]'
-- '[[_Standards/WikiData/WD~oil_refinery,12353044]]'
-- '[[_Standards/WikiData/WD~oil_company,14941854]]'
+- '[[_Standards/WikiData/WD~oil_field,211748|WD~oil_field,211748]]'
+- '[[_Standards/WikiData/WD~hydrocarbon_exploration,3241434|WD~hydrocarbon_exploration,3241434]]'
+- '[[_Standards/WikiData/WD~oil_production_plant,7081437|WD~oil_production_plant,7081437]]'
+- '[[_Standards/WikiData/WD~oil_refinery,12353044|WD~oil_refinery,12353044]]'
+- '[[_Standards/WikiData/WD~oil_company,14941854|WD~oil_company,14941854]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~fuel_oil,214199]]'
-- '[[_Standards/WikiData/WD~crude_oil,3412078]]'
-instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
-part_of: '[[_Standards/WikiData/WD~petroleum_gas_industry,4318084]]'
+- '[[_Standards/WikiData/WD~fuel_oil,214199|WD~fuel_oil,214199]]'
+- '[[_Standards/WikiData/WD~crude_oil,3412078|WD~crude_oil,3412078]]'
+instance_of: '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+part_of: '[[_Standards/WikiData/WD~petroleum_gas_industry,4318084|WD~petroleum_gas_industry,4318084]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~petroleum_gas_industry,4318084]]'
-- '[[_Standards/WikiData/WD~extractive_industry,12101591]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Petroleum_industry,13534800]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~manufacture_of_refined_petroleum_products,29585145]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~petroleum_gas_industry,4318084|WD~petroleum_gas_industry,4318084]]'
+- '[[_Standards/WikiData/WD~extractive_industry,12101591|WD~extractive_industry,12101591]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Petroleum_industry,13534800|WD~Template_Petroleum_industry,13534800]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~manufacture_of_refined_petroleum_products,29585145|WD~manufacture_of_refined_petroleum_products,29585145]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 OmegaWiki_Defined_Meaning: 2764
 U_S_National_Archives_Identifier: 10643253
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Oil%20well.jpg
@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Oil_Industry]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~petroleum_industry,862571]]
+#is_/same_as :: [[_Standards/WikiData/WD~petroleum_industry,862571|WD~petroleum_industry,862571]]
 
 ## #has_/text_of_/abstract 
 

@@ -36,7 +36,7 @@ A NewsArticle is an article whose content reports news, or provides background c
 
 A more detailed overview of <a href="/docs/news.html">schema.org News markup</a> is also available.
 
-#has_/parent_class :: [[../Article]]  
+#has_/parent_class :: [[../Article|Article]]  
 
 #has_/child_/class :: [ AnalysisNewsArticle, AskPublicNewsArticle, BackgroundNewsArticle, OpinionNewsArticle, ReportageNewsArticle, ReviewNewsArticle ]  
 

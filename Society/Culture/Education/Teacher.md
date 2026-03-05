@@ -177,40 +177,40 @@ aliases:
 - 교사
 has_id_wikidata: Q37226
 opposite_of:
-- '[[_Standards/WikiData/WD~apprentice,253567]]'
-- '[[_Standards/WikiData/WD~learning_person,11448873]]'
-- '[[_Standards/WikiData/WD~student,48282]]'
+- '[[_Standards/WikiData/WD~apprentice,253567|WD~apprentice,253567]]'
+- '[[_Standards/WikiData/WD~learning_person,11448873|WD~learning_person,11448873]]'
+- '[[_Standards/WikiData/WD~student,48282|WD~student,48282]]'
 field_of_this_occupation:
-- '[[_Standards/WikiData/WD~teaching,352842]]'
-- '[[_Standards/WikiData/WD~education,8434]]'
+- '[[_Standards/WikiData/WD~teaching,352842|WD~teaching,352842]]'
+- '[[_Standards/WikiData/WD~education,8434|WD~education,8434]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-- '[[_Standards/WikiData/WD~educator,974144]]'
-- '[[_Standards/WikiData/WD~pedagogue,1231865]]'
-- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-- '[[_Standards/WikiData/WD~Pedagóg,15966880]]'
-- '[[_Standards/WikiData/WD~Sensei,125119808]]'
+- '[[_Standards/WikiData/WD~educator,974144|WD~educator,974144]]'
+- '[[_Standards/WikiData/WD~pedagogue,1231865|WD~pedagogue,1231865]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272|WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~Pedagóg,15966880|WD~Pedagóg,15966880]]'
+- '[[_Standards/WikiData/WD~Sensei,125119808|WD~Sensei,125119808]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~educator,974144]]'
-- '[[_Standards/WikiData/WD~school_staff,11448772]]'
+- '[[_Standards/WikiData/WD~educator,974144|WD~educator,974144]]'
+- '[[_Standards/WikiData/WD~school_staff,11448772|WD~school_staff,11448772]]'
 instance_of:
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59576065,59576065]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~teaching_professionals,108284914]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59576065,59576065|WD~Q59576065,59576065]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~teaching_professionals,108284914|WD~teaching_professionals,108284914]]'
 relevant_qualification:
-- '[[_Standards/WikiData/WD~Praxis_Early_Childhood_Education_Exam,124753717]]'
-- '[[_Standards/WikiData/WD~Praxis_5161_Mathematics_Content_Knowledge_Exam,125151517]]'
-- '[[_Standards/WikiData/WD~Praxis_5941_World_US_History_exam,125151597]]'
-- '[[_Standards/WikiData/WD~Praxis_5235_Biology_Exam,125151645]]'
-- '[[_Standards/WikiData/WD~Praxis_5001_Elementary_Education,125151696]]'
+- '[[_Standards/WikiData/WD~Praxis_Early_Childhood_Education_Exam,124753717|WD~Praxis_Early_Childhood_Education_Exam,124753717]]'
+- '[[_Standards/WikiData/WD~Praxis_5161_Mathematics_Content_Knowledge_Exam,125151517|WD~Praxis_5161_Mathematics_Content_Knowledge_Exam,125151517]]'
+- '[[_Standards/WikiData/WD~Praxis_5941_World_US_History_exam,125151597|WD~Praxis_5941_World_US_History_exam,125151597]]'
+- '[[_Standards/WikiData/WD~Praxis_5235_Biology_Exam,125151645|WD~Praxis_5235_Biology_Exam,125151645]]'
+- '[[_Standards/WikiData/WD~Praxis_5001_Elementary_Education,125151696|WD~Praxis_5001_Elementary_Education,125151696]]'
 main_Wikidata_property:
 - student of
 - number of teachers

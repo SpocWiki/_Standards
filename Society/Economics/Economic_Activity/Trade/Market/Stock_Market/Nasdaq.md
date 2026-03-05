@@ -30,23 +30,23 @@ aliases:
 - 那斯達克
 - 나스닥
 has_id_wikidata: Q82059
-regulated_by: '[[_Standards/WikiData/WD~Financial_Industry_Regulatory_Authority,387071]]'
-industry: '[[_Standards/WikiData/WD~financial_services,837171]]'
+regulated_by: '[[_Standards/WikiData/WD~Financial_Industry_Regulatory_Authority,387071|WD~Financial_Industry_Regulatory_Authority,387071]]'
+industry: '[[_Standards/WikiData/WD~financial_services,837171|WD~financial_services,837171]]'
 headquarters_location:
-- '[[_Standards/WikiData/WD~One_Liberty_Plaza,1144187]]'
-- '[[_Standards/WikiData/WD~New_York_City,60]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~Nasdaq,_Inc.,1472929]]'
-operator: '[[_Standards/WikiData/WD~Nasdaq,_Inc.,1472929]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_NASDAQ,5922253]]'
-chief_executive_officer: '[[_Standards/WikiData/WD~Adena_Friedman,17003309]]'
-legal_form: '[[_Standards/WikiData/WD~stock_exchange,11691]]'
+- '[[_Standards/WikiData/WD~One_Liberty_Plaza,1144187|WD~One_Liberty_Plaza,1144187]]'
+- '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Nasdaq,_Inc.,1472929|WD~Nasdaq,_Inc.,1472929]]'
+operator: '[[_Standards/WikiData/WD~Nasdaq,_Inc.,1472929|WD~Nasdaq,_Inc.,1472929]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_NASDAQ,5922253|WD~Template_NASDAQ,5922253]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Adena_Friedman,17003309|WD~Adena_Friedman,17003309]]'
+legal_form: '[[_Standards/WikiData/WD~stock_exchange,11691|WD~stock_exchange,11691]]'
 instance_of:
-- '[[_Standards/WikiData/WD~stock_exchange,11691]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~stock_exchange,11691|WD~stock_exchange,11691]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 country:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Sweden,34]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
 market_capitalization: 17250000000000
 social_media_followers: 756432
 inception: 1971-02-04T00:00:00Z

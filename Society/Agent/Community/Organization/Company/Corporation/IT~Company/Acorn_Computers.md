@@ -52,7 +52,7 @@ aliases:
 > its legacy includes the development of reduced instruction set computing (RISC) personal computers. 
 > One of its operating systems, RISC OS, continues to be developed by RISC OS Open. 
 > 
-> Some activities established by Acorn lived on: technology developed by [[Acorn_Computers/ARM(Acorn_RISC_Machine)]]  , 
+> Some activities established by Acorn lived on: technology developed by [[Acorn_Computers/ARM(Acorn_RISC_Machine)|ARM(Acorn_RISC_Machine)]]  , 
 > created by Acorn as a joint venture with Apple and VLSI in 1990, 
 > is dominant in the mobile phone and personal digital assistant (PDA) microprocessor market. 
 > 
@@ -74,7 +74,7 @@ The same happened for the [[Acorn_Electron]]
 They missed the Home Computer Market at Christmas 1983 
 and by 1984 were overtaken by 16 Bit Computers and taken over by [[Olivetti]].
 
-Acorn was named after [[../../../../../../../Technology/IT/Computer_Hardware/Apple_Inc]] so it comes before them in a Phone Book. 
+Acorn was named after [[../../../../../../../Technology/IT/Computer_Hardware/Apple_Inc|Apple_Inc]] so it comes before them in a Phone Book. 
 
 
 ## Confidential Links & Embeds: 

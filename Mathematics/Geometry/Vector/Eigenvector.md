@@ -60,12 +60,12 @@ aliases:
 - 特徵值同特徵向量
 - 고윳값과 고유 벡터
 has_id_wikidata: Q190524
-subclass_of: '[[_Standards/WikiData/WD~invariant,188211]]'
-approximation_algorithm: '[[_Standards/WikiData/WD~Rayleigh_Ritz_method,852247]]'
+subclass_of: '[[_Standards/WikiData/WD~invariant,188211|WD~invariant,188211]]'
+approximation_algorithm: '[[_Standards/WikiData/WD~Rayleigh_Ritz_method,852247|WD~Rayleigh_Ritz_method,852247]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 in_defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D497</mi></mrow></mstyle></mrow></math>"
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BB;</mi></mstyle></mrow></math>

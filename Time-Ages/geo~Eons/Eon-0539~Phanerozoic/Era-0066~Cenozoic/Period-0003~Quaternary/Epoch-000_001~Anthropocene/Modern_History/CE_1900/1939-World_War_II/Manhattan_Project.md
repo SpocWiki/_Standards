@@ -81,29 +81,29 @@ aliases:
 - 맨해튼 계획
 has_id_wikidata: Q127050
 instance_of:
-- '[[_Standards/WikiData/WD~experiment,101965]]'
-- '[[_Standards/WikiData/WD~task,759676]]'
-- '[[_Standards/WikiData/WD~megaproject,2475641]]'
-- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-- '[[_Standards/WikiData/WD~military_project,27665152]]'
+- '[[_Standards/WikiData/WD~experiment,101965|WD~experiment,101965]]'
+- '[[_Standards/WikiData/WD~task,759676|WD~task,759676]]'
+- '[[_Standards/WikiData/WD~megaproject,2475641|WD~megaproject,2475641]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~military_project,27665152|WD~military_project,27665152]]'
 participant:
-- '[[_Standards/WikiData/WD~Robert_Oppenheimer,132537]]'
-- '[[_Standards/WikiData/WD~Leslie_Groves,314675]]'
+- '[[_Standards/WikiData/WD~Robert_Oppenheimer,132537|WD~Robert_Oppenheimer,132537]]'
+- '[[_Standards/WikiData/WD~Leslie_Groves,314675|WD~Leslie_Groves,314675]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~fissile_material,483674]]'
-- '[[_Standards/WikiData/WD~The_Gadget,2364402]]'
-has_part_s_: '[[_Standards/WikiData/WD~calutron,605089]]'
-research_site: '[[_Standards/WikiData/WD~B_Reactor,2472490]]'
-history_of_topic: '[[_Standards/WikiData/WD~timeline_of_the_Manhattan_Project,4562662]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Manhattan_Project,8072988]]'
-described_by_source: '[[_Standards/WikiData/WD~Reminiscences_of_Los_Alamos,_1943_1945,114841097]]'
-has_goal: '[[_Standards/WikiData/WD~nuclear_weapon,12802]]'
+- '[[_Standards/WikiData/WD~fissile_material,483674|WD~fissile_material,483674]]'
+- '[[_Standards/WikiData/WD~The_Gadget,2364402|WD~The_Gadget,2364402]]'
+has_part_s_: '[[_Standards/WikiData/WD~calutron,605089|WD~calutron,605089]]'
+research_site: '[[_Standards/WikiData/WD~B_Reactor,2472490|WD~B_Reactor,2472490]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_the_Manhattan_Project,4562662|WD~timeline_of_the_Manhattan_Project,4562662]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Manhattan_Project,8072988|WD~Template_Manhattan_Project,8072988]]'
+described_by_source: '[[_Standards/WikiData/WD~Reminiscences_of_Los_Alamos,_1943_1945,114841097|WD~Reminiscences_of_Los_Alamos,_1943_1945,114841097]]'
+has_goal: '[[_Standards/WikiData/WD~nuclear_weapon,12802|WD~nuclear_weapon,12802]]'
 country:
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-locations: '[[_Standards/WikiData/WD~Oak_Ridge,48809]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Oak_Ridge,48809]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+locations: '[[_Standards/WikiData/WD~Oak_Ridge,48809|WD~Oak_Ridge,48809]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Oak_Ridge,48809|WD~Oak_Ridge,48809]]'
 Commons_category: Manhattan Project
 locator_map_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Manhattan%20Project%20US%20Canada%20Map%202.svg
@@ -114,7 +114,7 @@ end_time: 1946-01-01T00:00:00Z
 start_time: 1939-01-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../../../../../../../../WikiData/WD~Manhattan_Project,127050]]'
+  - '[[../../../../../../../../../WikiData/WD~Manhattan_Project,127050|WD~Manhattan_Project,127050]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Manhattan_Project|Manhattan_Project]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Manhattan_Project.public|Manhattan_Project.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Manhattan_Project.internal|Manhattan_Project.internal]]'
@@ -123,7 +123,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Manhattan_Project.personal|Manhattan_Project.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Manhattan_Project.secret|Manhattan_Project.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../../WikiData/WD~Manhattan_Project,127050]]'
+- '[[../../../../../../../../../WikiData/WD~Manhattan_Project,127050|WD~Manhattan_Project,127050]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Manhattan_Project|Manhattan_Project]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Manhattan_Project.public|Manhattan_Project.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Manhattan_Project.internal|Manhattan_Project.internal]]'

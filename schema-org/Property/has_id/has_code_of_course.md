@@ -61,7 +61,7 @@ Use it like this:
 - #has_/code_of_course = `=this.dv_has_code_of_course`  
 - has_code_of_course = `=this.dv_has_code_of_course`  
 
-The identifier for the [[../../../Society/Communication/Media/Creative_Work/Course]] used by the course [[provider]] (e.g. CS101 or 6.001).
+The identifier for the [[../../../Society/Communication/Media/Creative_Work/Course|Course]] used by the course [[provider]] (e.g. CS101 or 6.001).
 
 Predicated describes that: 
 

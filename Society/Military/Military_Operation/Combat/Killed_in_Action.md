@@ -83,19 +83,19 @@ aliases:
 - 작전 중 사망
 has_id_wikidata: Q210392
 different_from:
-- '[[_Standards/WikiData/WD~autoerotic_fatality,786444]]'
-- '[[_Standards/WikiData/WD~line_of_duty_death,1036604]]'
-- '[[_Standards/WikiData/WD~death_in_battle,18663901]]'
-- '[[_Standards/WikiData/WD~killed_in_the_exercise_of_their_profession,26216011]]'
-- '[[_Standards/WikiData/WD~killed_by_own_invention,56132449]]'
-- '[[_Standards/WikiData/WD~suicide,10737]]'
+- '[[_Standards/WikiData/WD~autoerotic_fatality,786444|WD~autoerotic_fatality,786444]]'
+- '[[_Standards/WikiData/WD~line_of_duty_death,1036604|WD~line_of_duty_death,1036604]]'
+- '[[_Standards/WikiData/WD~death_in_battle,18663901|WD~death_in_battle,18663901]]'
+- '[[_Standards/WikiData/WD~killed_in_the_exercise_of_their_profession,26216011|WD~killed_in_the_exercise_of_their_profession,26216011]]'
+- '[[_Standards/WikiData/WD~killed_by_own_invention,56132449|WD~killed_by_own_invention,56132449]]'
+- '[[_Standards/WikiData/WD~suicide,10737|WD~suicide,10737]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~casualty,1056901]]'
-- '[[_Standards/WikiData/WD~war_victim,1788815]]'
-- '[[_Standards/WikiData/WD~military_casualties_of_war,122527314]]'
+- '[[_Standards/WikiData/WD~casualty,1056901|WD~casualty,1056901]]'
+- '[[_Standards/WikiData/WD~war_victim,1788815|WD~war_victim,1788815]]'
+- '[[_Standards/WikiData/WD~military_casualties_of_war,122527314|WD~military_casualties_of_war,122527314]]'
 instance_of:
-- '[[_Standards/WikiData/WD~manner_of_death,2438541]]'
-- '[[_Standards/WikiData/WD~military_casualty_classification,16861376]]'
+- '[[_Standards/WikiData/WD~manner_of_death,2438541|WD~manner_of_death,2438541]]'
+- '[[_Standards/WikiData/WD~military_casualty_classification,16861376|WD~military_casualty_classification,16861376]]'
 female_form_of_label:
 - padla v boju
 - قتلت في معركة

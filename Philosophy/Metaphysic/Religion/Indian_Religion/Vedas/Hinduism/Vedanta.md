@@ -35,16 +35,16 @@ aliases:
 - 베단타 학파
 has_id_wikidata: Q2512051
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 instance_of:
-- '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
-- '[[_Standards/WikiData/WD~religious_concept,23847174]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-facet_of: '[[_Standards/WikiData/WD~Hinduism,9089]]'
+- '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852|WD~philosophical_schools_and_traditions,12765852]]'
+- '[[_Standards/WikiData/WD~religious_concept,23847174|WD~religious_concept,23847174]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+facet_of: '[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]'
 Colon_Classification: R65
 Commons_category: Vedanta
 dv_has_:

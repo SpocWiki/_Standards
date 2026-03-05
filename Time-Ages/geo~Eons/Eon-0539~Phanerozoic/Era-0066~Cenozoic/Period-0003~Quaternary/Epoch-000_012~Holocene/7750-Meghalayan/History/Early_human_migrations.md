@@ -55,7 +55,7 @@ aliases:
 - 現生人類の拡散
 - 초기 인간 이주
 has_id_wikidata: Q858288
-has_part_s_: '[[_Standards/WikiData/WD~human_migration,177626]]'
+has_part_s_: '[[_Standards/WikiData/WD~human_migration,177626|WD~human_migration,177626]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Spreading%20homo%20sapiens%20la.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Early%20migrations%20mercator.svg

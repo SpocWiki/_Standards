@@ -62,10 +62,10 @@ aliases:
 - 重力透鏡效應
 - 중력렌즈
 has_id_wikidata: Q185243
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Gravitational_lensing,15793169]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-subclass_of: '[[_Standards/WikiData/WD~astronomical_object,6999]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Gravitational_lensing,15793169|WD~Template_Gravitational_lensing,15793169]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~astronomical_object,6999|WD~astronomical_object,6999]]'
 OmegaWiki_Defined_Meaning: 1246240
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Horseshoe%20Einstein%20Ring%20from%20Hubble.JPG
 video: http://commons.wikimedia.org/wiki/Special:FilePath/BBH%20gravitational%20lensing%20of%20gw150914.webm

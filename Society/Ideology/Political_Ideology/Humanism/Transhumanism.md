@@ -48,15 +48,15 @@ aliases:
 - 트랜스휴머니즘
 has_id_wikidata: Q194100
 subclass_of:
-- '[[_Standards/WikiData/WD~futures_studies,188867]]'
-- '[[_Standards/WikiData/WD~secular_humanism,312226]]'
+- '[[_Standards/WikiData/WD~futures_studies,188867|WD~futures_studies,188867]]'
+- '[[_Standards/WikiData/WD~secular_humanism,312226|WD~secular_humanism,312226]]'
 instance_of:
-- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
-- '[[_Standards/WikiData/WD~world_view,49447]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~human_enhancement,2495354]]'
-main_subject: '[[_Standards/WikiData/WD~transhuman,3849662]]'
-different_from: '[[_Standards/WikiData/WD~transhumance,4657754]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Transhumanism,8771747]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855|WD~cultural_movement,2198855]]'
+- '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~human_enhancement,2495354|WD~human_enhancement,2495354]]'
+main_subject: '[[_Standards/WikiData/WD~transhuman,3849662|WD~transhuman,3849662]]'
+different_from: '[[_Standards/WikiData/WD~transhumance,4657754|WD~transhumance,4657754]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Transhumanism,8771747|WD~Portal_Transhumanism,8771747]]'
 Dewey_Decimal_Classification: 144
 inception: 1980-01-01T00:00:00Z
 subreddit: transhumanism

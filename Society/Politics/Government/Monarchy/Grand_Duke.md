@@ -52,14 +52,14 @@ aliases:
 - 대공
 has_id_wikidata: Q205706
 subclass_of:
-- '[[_Standards/WikiData/WD~duke,166886]]'
-- '[[_Standards/WikiData/WD~monarch,116]]'
-instance_of: '[[_Standards/WikiData/WD~noble_title,355567]]'
+- '[[_Standards/WikiData/WD~duke,166886|WD~duke,166886]]'
+- '[[_Standards/WikiData/WD~monarch,116|WD~monarch,116]]'
+instance_of: '[[_Standards/WikiData/WD~noble_title,355567|WD~noble_title,355567]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-different_from: '[[_Standards/WikiData/WD~Grand_Prince,1549319]]'
-opposite_of: '[[_Standards/WikiData/WD~Q12652917,12652917]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+different_from: '[[_Standards/WikiData/WD~Grand_Prince,1549319|WD~Grand_Prince,1549319]]'
+opposite_of: '[[_Standards/WikiData/WD~Q12652917,12652917|WD~Q12652917,12652917]]'
 female_form_of_label:
 - nadvojvodinja
 - великая герцогиня

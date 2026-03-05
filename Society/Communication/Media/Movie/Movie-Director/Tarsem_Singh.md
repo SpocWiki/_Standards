@@ -69,8 +69,8 @@ dv_has_:
 
 > **Tarsem Singh** Dhandwar (born 26 May 1961), known professionally as Tarsem, 
 > is an Indian director who has worked on films, music videos, and commercials. 
-> He directed The [[../Movie-Genre/Horror-Movie/Cell,film@2000]], The [[../Movie-Genre/Fantasy-Movie/Fall,film@2006]] (also screenwriter and producer), 
-> [[Immortals,film]] (2011),  [[Mirror Mirror]] (2012), [[../Movie-Genre/Horror-Movie/Self⁄less]] (2015), and [[Dear Jassi]] (2023).
+> He directed The [[../Movie-Genre/Horror-Movie/Cell,film@2000|Cell,film@2000]], The [[../Movie-Genre/Fantasy-Movie/Fall,film@2006|Fall,film@2006]] (also screenwriter and producer), 
+> [[Immortals,film]] (2011),  [[Mirror Mirror]] (2012), [[../Movie-Genre/Horror-Movie/Self⁄less|Self⁄less]] (2015), and [[Dear Jassi]] (2023).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tarsem%20Singh) 
 

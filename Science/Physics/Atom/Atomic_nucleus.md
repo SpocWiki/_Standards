@@ -118,30 +118,30 @@ aliases:
 - 원자핵
 has_id_wikidata: Q37147
 studied_by:
-- '[[_Standards/WikiData/WD~nuclear_physics,81197]]'
-- '[[_Standards/WikiData/WD~classical_electromagnetism,377930]]'
-- '[[_Standards/WikiData/WD~particle_physics,18334]]'
-- '[[_Standards/WikiData/WD~atomic_physics,26383]]'
-has_part_s_: '[[_Standards/WikiData/WD~nucleon,102165]]'
+- '[[_Standards/WikiData/WD~nuclear_physics,81197|WD~nuclear_physics,81197]]'
+- '[[_Standards/WikiData/WD~classical_electromagnetism,377930|WD~classical_electromagnetism,377930]]'
+- '[[_Standards/WikiData/WD~particle_physics,18334|WD~particle_physics,18334]]'
+- '[[_Standards/WikiData/WD~atomic_physics,26383|WD~atomic_physics,26383]]'
+has_part_s_: '[[_Standards/WikiData/WD~nucleon,102165|WD~nucleon,102165]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~baryon_number,110346]]'
-- '[[_Standards/WikiData/WD~diameter,37221]]'
-opposite_of: '[[_Standards/WikiData/WD~electron_shell,193793]]'
+- '[[_Standards/WikiData/WD~baryon_number,110346|WD~baryon_number,110346]]'
+- '[[_Standards/WikiData/WD~diameter,37221|WD~diameter,37221]]'
+opposite_of: '[[_Standards/WikiData/WD~electron_shell,193793|WD~electron_shell,193793]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~charged_particle,587553]]'
-- '[[_Standards/WikiData/WD~bound_state,908049]]'
-- '[[_Standards/WikiData/WD~matter_composed_of_quarks,28729554]]'
+- '[[_Standards/WikiData/WD~charged_particle,587553|WD~charged_particle,587553]]'
+- '[[_Standards/WikiData/WD~bound_state,908049|WD~bound_state,908049]]'
+- '[[_Standards/WikiData/WD~matter_composed_of_quarks,28729554|WD~matter_composed_of_quarks,28729554]]'
 interaction:
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Q22840443,22840443]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-part_of: '[[_Standards/WikiData/WD~atom,9121]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015|WD~type_of_quantum_particle,22675015]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q22840443,22840443|WD~Q22840443,22840443]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+part_of: '[[_Standards/WikiData/WD~atom,9121|WD~atom,9121]]'
 diameter:
 - 4
 - 15
-different_from: '[[_Standards/WikiData/WD~nucleus,40260]]'
+different_from: '[[_Standards/WikiData/WD~nucleus,40260|WD~nucleus,40260]]'
 OmegaWiki_Defined_Meaning: 8044
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Nucleus%20drawing.svg

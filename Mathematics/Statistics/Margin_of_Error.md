@@ -35,10 +35,10 @@ aliases:
 - 误差范围
 - 허용 오차
 has_id_wikidata: Q1352827
-different_from: '[[_Standards/WikiData/WD~factor_of_safety,2034862]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-facet_of: '[[_Standards/WikiData/WD~statistics,12483]]'
+different_from: '[[_Standards/WikiData/WD~factor_of_safety,2034862|WD~factor_of_safety,2034862]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
+facet_of: '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Margem%20de%20erro.ogg
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtext>Standard error</mtext></mrow><mo stretchy="false">&#x2248;</mo><mrow data-mjx-texclass="ORD"><msqrt><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>p</mi><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">&#x2212;</mo><mi>p</mi><mo stretchy="false">)</mo></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></mfrac></mrow></msqrt></mrow></mstyle></mrow></math>
 dv_has_:

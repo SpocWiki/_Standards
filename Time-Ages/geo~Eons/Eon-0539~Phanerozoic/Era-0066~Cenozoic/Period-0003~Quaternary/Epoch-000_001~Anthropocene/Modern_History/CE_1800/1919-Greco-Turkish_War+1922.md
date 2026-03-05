@@ -65,8 +65,8 @@ aliases:
 - 希土戰爭
 - 그리스-터키 전쟁
 has_id_wikidata: Q87138
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
-locations: '[[_Standards/WikiData/WD~Anatolia,51614]]'
+instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
+locations: '[[_Standards/WikiData/WD~Anatolia,51614|WD~Anatolia,51614]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ermoscharge.JPG
 Commons_category: Greco-Turkish War (1919–1922)
 end_time: 1922-10-11T00:00:00Z

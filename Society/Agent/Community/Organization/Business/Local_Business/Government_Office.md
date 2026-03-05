@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A government office—for example, an IRS or DMV office.
 
-#has_/parent_class :: [[../LocalBusiness]]  
+#has_/parent_class :: [[../LocalBusiness|LocalBusiness]]  
 
 #has_/child_/class :: [ PostOffice ]  
 

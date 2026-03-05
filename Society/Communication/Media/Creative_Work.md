@@ -247,7 +247,7 @@ dv_has_:
 
 # [[Creative_Work]] 
 
-[[../../../schema-org/Class]] of all [[Creative_Work]]s.
+[[../../../schema-org/Class|Class]] of all [[Creative_Work]]s.
 
 Tag Instances like this: 
 #is_a_/creative_work

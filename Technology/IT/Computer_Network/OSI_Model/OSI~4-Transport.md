@@ -45,14 +45,14 @@ aliases:
 - 전송 계층
 has_id_wikidata: Q209372
 follows:
-- '[[_Standards/WikiData/WD~network_layer,208074]]'
-- '[[_Standards/WikiData/WD~Internet_layer,2910948]]'
+- '[[_Standards/WikiData/WD~network_layer,208074|WD~network_layer,208074]]'
+- '[[_Standards/WikiData/WD~Internet_layer,2910948|WD~Internet_layer,2910948]]'
 followed_by:
-- '[[_Standards/WikiData/WD~session_layer,216292]]'
-- '[[_Standards/WikiData/WD~application_layer,12411691]]'
+- '[[_Standards/WikiData/WD~session_layer,216292|WD~session_layer,216292]]'
+- '[[_Standards/WikiData/WD~application_layer,12411691|WD~application_layer,12411691]]'
 instance_of:
-- '[[_Standards/WikiData/WD~abstraction_layer,1200992]]'
-- '[[_Standards/WikiData/WD~OSI_model_layer,65054805]]'
+- '[[_Standards/WikiData/WD~abstraction_layer,1200992|WD~abstraction_layer,1200992]]'
+- '[[_Standards/WikiData/WD~OSI_model_layer,65054805|WD~OSI_model_layer,65054805]]'
 Stack_Exchange_tag: https://networkengineering.stackexchange.com/tags/layer4
 dv_has_:
   name_:
@@ -120,7 +120,7 @@ dv_has_:
 
 # [[OSI~4-Transport]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~transport_layer,209372]] 
+#is_/same_as :: [[_Standards/WikiData/WD~transport_layer,209372|WD~transport_layer,209372]] 
 
 ## #has_/text_of_/abstract 
 

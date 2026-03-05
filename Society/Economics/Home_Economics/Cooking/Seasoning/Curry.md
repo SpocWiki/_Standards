@@ -64,20 +64,20 @@ aliases:
 - 커리
 has_id_wikidata: Q164606
 has_part_s_:
-- '[[_Standards/WikiData/WD~herb,207123]]'
-- '[[_Standards/WikiData/WD~spice,42527]]'
-subclass_of: '[[_Standards/WikiData/WD~dish,746549]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~herb,207123|WD~herb,207123]]'
+- '[[_Standards/WikiData/WD~spice,42527|WD~spice,42527]]'
+subclass_of: '[[_Standards/WikiData/WD~dish,746549|WD~dish,746549]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 different_from:
-- '[[_Standards/WikiData/WD~curry_powder,1144935]]'
-- '[[_Standards/WikiData/WD~Curry,2368856]]'
-- '[[_Standards/WikiData/WD~Curry,5195194]]'
-- '[[_Standards/WikiData/WD~Curry,31557635]]'
-cuisine: '[[_Standards/WikiData/WD~South_Asian_cuisine,7566053]]'
-instance_of: '[[_Standards/WikiData/WD~viand,25699739]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~salan,113664291]]'
-country_of_origin: '[[_Standards/WikiData/WD~India,668]]'
-made_from_material: '[[_Standards/WikiData/WD~spice,42527]]'
+- '[[_Standards/WikiData/WD~curry_powder,1144935|WD~curry_powder,1144935]]'
+- '[[_Standards/WikiData/WD~Curry,2368856|WD~Curry,2368856]]'
+- '[[_Standards/WikiData/WD~Curry,5195194|WD~Curry,5195194]]'
+- '[[_Standards/WikiData/WD~Curry,31557635|WD~Curry,31557635]]'
+cuisine: '[[_Standards/WikiData/WD~South_Asian_cuisine,7566053|WD~South_Asian_cuisine,7566053]]'
+instance_of: '[[_Standards/WikiData/WD~viand,25699739|WD~viand,25699739]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~salan,113664291|WD~salan,113664291]]'
+country_of_origin: '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+made_from_material: '[[_Standards/WikiData/WD~spice,42527|WD~spice,42527]]'
 Commons_category: Curry
 OmegaWiki_Defined_Meaning: 945189
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Indiandishes.jpg

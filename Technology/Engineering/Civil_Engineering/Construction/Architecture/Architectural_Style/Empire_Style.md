@@ -40,13 +40,13 @@ aliases:
 - 帝政风格
 - 앙피르 양식
 has_id_wikidata: Q191105
-different_from: '[[_Standards/WikiData/WD~Empire,226698]]'
-follows: '[[_Standards/WikiData/WD~Directoire_style,1227514]]'
+different_from: '[[_Standards/WikiData/WD~Empire,226698|WD~Empire,226698]]'
+follows: '[[_Standards/WikiData/WD~Directoire_style,1227514|WD~Directoire_style,1227514]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_style,1792644]]'
-- '[[_Standards/WikiData/WD~architectural_style,32880]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880|WD~architectural_style,32880]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800|WD~Art+Feminism,24909800]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Commons_category: Empire style
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Napoleon%20on%20his%20Imperial%20throne.jpg
 dv_has_:

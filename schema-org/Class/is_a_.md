@@ -3,7 +3,7 @@ aliases:
   - is_instance_of
   - is_an_instance_of
   - 
-dv_is_a_: "[[../Relation]]"
+dv_is_a_: "[[../Relation|Relation]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_|is_a_]]"
@@ -25,7 +25,7 @@ dv_is_same_as:
 ---
 
 
-Use this Relation to specify a [[../Class]] for Any-[[Thing]] like this: 
+Use this Relation to specify a [[../Class|Class]] for Any-[[Thing]] like this: 
 is_a = `=this.dv_is_a_` 
 
 The Name is motivated from the [[TRTL]]-Language 

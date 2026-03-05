@@ -42,13 +42,13 @@ aliases:
 - 부채 속박
 has_id_wikidata: Q2165988
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-significant_event: '[[_Standards/WikiData/WD~colonial_history_of_the_United_States,1055643]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+significant_event: '[[_Standards/WikiData/WD~colonial_history_of_the_United_States,1055643|WD~colonial_history_of_the_United_States,1055643]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~contemporary_slavery,3369955]]'
-- '[[_Standards/WikiData/WD~slavery,8463]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~contemporary_slavery,3369955|WD~contemporary_slavery,3369955]]'
+- '[[_Standards/WikiData/WD~slavery,8463|WD~slavery,8463]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
 dv_has_:
   name_:
     ar: العمل لرد الدين
@@ -95,7 +95,7 @@ dv_has_:
 # [[Debt_Bondage]] 
 
 #is_/similar_to :: [[Serfdom]] 
-#is_/same_as :: [[_Standards/WikiData/WD~debt_bondage,2165988]] 
+#is_/same_as :: [[_Standards/WikiData/WD~debt_bondage,2165988|WD~debt_bondage,2165988]] 
 
 ## #has_/text_of_/abstract 
 

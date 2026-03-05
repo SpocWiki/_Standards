@@ -38,7 +38,7 @@ dv_is_:
   better_than: "[[../../../../Predicate/Quantity|Quantity]]"
 dv_has_:
   parent_class:
-    - "[[../Structured_Value]]"
+    - "[[../Structured_Value|Structured_Value]]"
   properties:
     - "[[../../../../Relation/has/has_additional_property|has_additional_property]]"
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
@@ -60,7 +60,7 @@ dv_has_:
     - "[[../../../../Property/has_value_for|has_value_for]]"
     - "[[../../../../Relation/has/has_value_reference|has_value_reference]]"
 dv_has_parent_class:
-  - "[[../Structured_Value]]"
+  - "[[../Structured_Value|Structured_Value]]"
 dv_has_properties:
   - "[[../../../../Relation/has/has_additional_property|has_additional_property]]"
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

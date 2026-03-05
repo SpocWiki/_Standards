@@ -40,7 +40,7 @@ The place where a person lives.
 ## Properties:
 
 ### AccommodationFloorPlan
-A floorplan of some [[../../../Earth/Geography/Place/Accommodation]].
+A floorplan of some [[../../../Earth/Geography/Place/Accommodation|Accommodation]].
 
 AccommodationFloorPlan:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/FloorPlan')"}}
 

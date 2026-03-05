@@ -37,7 +37,7 @@ dv_is_:
     - "[[Delivery_Charge_Specification]]"
 dv_has_:
   parent_class:
-    - "[[../PriceSpecification]]"
+    - "[[../PriceSpecification|PriceSpecification]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -65,7 +65,7 @@ dv_has_:
     - "[[valid_through|valid_through]]"
     - "[[../../../../../Property/Flags/is_value_added_tax_included|is_value_added_tax_included]]"
 dv_has_parent_class:
-  - "[[../price_specification|../price_specification]]"
+  - "[[../price_specification|../price_specification|price_specification]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"

@@ -21,13 +21,13 @@ aliases:
 - 인라인롤러
 has_id_wikidata: Q2164355
 has_part_s_:
-- '[[_Standards/WikiData/WD~skateboarding,842284]]'
-- '[[_Standards/WikiData/WD~roller_skating,1707432]]'
-- '[[_Standards/WikiData/WD~freestyle_scootering,3540813]]'
-- '[[_Standards/WikiData/WD~inline_skating,6034982]]'
-authority: '[[_Standards/WikiData/WD~World_Skate,60584942]]'
-practiced_by: '[[_Standards/WikiData/WD~roller_athlete,124020978]]'
-subclass_of: '[[_Standards/WikiData/WD~sport,349]]'
+- '[[_Standards/WikiData/WD~skateboarding,842284|WD~skateboarding,842284]]'
+- '[[_Standards/WikiData/WD~roller_skating,1707432|WD~roller_skating,1707432]]'
+- '[[_Standards/WikiData/WD~freestyle_scootering,3540813|WD~freestyle_scootering,3540813]]'
+- '[[_Standards/WikiData/WD~inline_skating,6034982|WD~inline_skating,6034982]]'
+authority: '[[_Standards/WikiData/WD~World_Skate,60584942|WD~World_Skate,60584942]]'
+practiced_by: '[[_Standards/WikiData/WD~roller_athlete,124020978|WD~roller_athlete,124020978]]'
+subclass_of: '[[_Standards/WikiData/WD~sport,349|WD~sport,349]]'
 dv_has_:
   name_:
     be_tarask: ролерны спорт
@@ -53,7 +53,7 @@ dv_has_:
 
 # [[Roller_Sport]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~roller_sport,2164355]] 
+#is_/same_as :: [[../../../../../WikiData/WD~roller_sport,2164355|WD~roller_sport,2164355]] 
 
 ## #has_/text_of_/abstract 
 

@@ -40,17 +40,17 @@ aliases:
 - 現代舞
 - 현대 무용
 has_id_wikidata: Q850130
-has_characteristic: '[[_Standards/WikiData/WD~cultural_heritage,210272]]'
-opposite_of: '[[_Standards/WikiData/WD~historical_dance,549130]]'
-subclass_of: '[[_Standards/WikiData/WD~concert_dance,1020618]]'
-intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~German_Nationwide_Inventory_of_Intangible_Cultural_Heritage,19276012]]'
+has_characteristic: '[[_Standards/WikiData/WD~cultural_heritage,210272|WD~cultural_heritage,210272]]'
+opposite_of: '[[_Standards/WikiData/WD~historical_dance,549130|WD~historical_dance,549130]]'
+subclass_of: '[[_Standards/WikiData/WD~concert_dance,1020618|WD~concert_dance,1020618]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~German_Nationwide_Inventory_of_Intangible_Cultural_Heritage,19276012|WD~German_Nationwide_Inventory_of_Intangible_Cultural_Heritage,19276012]]'
 inception: 1900-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
-part_of: '[[_Standards/WikiData/WD~performing_arts,113143849]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104|WD~type_of_dance,107357104]]'
+part_of: '[[_Standards/WikiData/WD~performing_arts,113143849|WD~performing_arts,113143849]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-country: '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 described_at_URL:
 - https://www.unesco.de/kultur-und-natur/immaterielles-kulturerbe/immaterielles-kulturerbe-deutschland/moderner-tanz
 - https://www.unesco.de/en/culture-and-nature/intangible-cultural-heritage/modern-dance

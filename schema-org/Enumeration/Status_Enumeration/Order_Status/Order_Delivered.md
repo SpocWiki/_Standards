@@ -27,9 +27,9 @@ tags:
 title: is_an_order_delivered Class
 type: Type
 dv_has_:
-  parent_class: "[[../OrderStatus]]"
+  parent_class: "[[../OrderStatus|OrderStatus]]"
 dv_is_:
-  enum_of: "[[../OrderStatus]]"
+  enum_of: "[[../OrderStatus|OrderStatus]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered|Order_Delivered]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.public|Order_Delivered.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.personal|Order_Delivered.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.secret|Order_Delivered.secret]]"
     - "[[Order_Delivered]]"
-dv_has_parent_class: "[[../OrderStatus]]"
-dv_is_enum_of: "[[../OrderStatus]]"
+dv_has_parent_class: "[[../OrderStatus|OrderStatus]]"
+dv_is_enum_of: "[[../OrderStatus|OrderStatus]]"
 dv_is_same_as:
   - "[[Order_Delivered]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.public|Order_Delivered.public]]"

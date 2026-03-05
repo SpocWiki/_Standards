@@ -83,9 +83,9 @@ aliases:
 - 마이크로파
 - 미크로파
 has_id_wikidata: Q127995
-part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117848042,117848042]]'
-subclass_of: '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
+part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139|WD~electromagnetic_spectrum,133139]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117848042,117848042|WD~Q117848042,117848042]]'
+subclass_of: '[[_Standards/WikiData/WD~electromagnetic_wave,11386|WD~electromagnetic_wave,11386]]'
 OmegaWiki_Defined_Meaning: 2348
 Dewey_Decimal_Classification:
 - 537.5344

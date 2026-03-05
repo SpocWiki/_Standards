@@ -27,9 +27,9 @@ tags:
 title: is_an_aerobic_activity Class
 type: Type
 dv_has_:
-  parent_class: "[[../PhysicalActivityCategory]]"
+  parent_class: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
 dv_is_:
-  enum_of: "[[../PhysicalActivityCategory]]"
+  enum_of: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity|Aerobic_Activity]]"
     - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.public|Aerobic_Activity.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.personal|Aerobic_Activity.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.secret|Aerobic_Activity.secret]]"
     - "[[Aerobic_Activity]]"
-dv_has_parent_class: "[[../PhysicalActivityCategory]]"
-dv_is_enum_of: "[[../PhysicalActivityCategory]]"
+dv_has_parent_class: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
+dv_is_enum_of: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
 dv_is_same_as:
   - "[[Aerobic_Activity]]"
   - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.public|Aerobic_Activity.public]]"

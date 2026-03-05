@@ -109,7 +109,7 @@ aliases:
 
 # [[Trueness]]  
 
-[[../../../Science/Physics/Measurement/Accuracy]] = [[Trueness]] AND [[../../../Science/Physics/Measurement/Precision]] 
+[[../../../Science/Physics/Measurement/Accuracy|Accuracy]] = [[Trueness]] AND [[../../../Science/Physics/Measurement/Precision|Precision]] 
 
 The International Organization for Standardization (ISO) defines trueness as, 
 "the closeness of agreement between the arithmetic mean of a large number of test results and the true or accepted reference value."
@@ -118,8 +118,8 @@ The International Organization for Standardization (ISO) defines trueness as,
 
 >
 > **Accuracy** and precision are measures of observational error; 
-> - [[../../../Science/Physics/Measurement/Accuracy]] is how close a given set of measurements is to the true value and 
-> - [[../../../Science/Physics/Measurement/Precision]] is how close the measurements are to each other.
+> - [[../../../Science/Physics/Measurement/Accuracy|Accuracy]] is how close a given set of measurements is to the true value and 
+> - [[../../../Science/Physics/Measurement/Precision|Precision]] is how close the measurements are to each other.
 >
 >
 > While precision is a description of random errors (a measure of statistical variability),

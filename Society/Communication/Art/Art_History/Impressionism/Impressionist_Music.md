@@ -14,11 +14,11 @@ aliases:
 - музыка импрессионизма
 has_id_wikidata: Q105697765
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~musical_style,11921029]]'
-different_from: '[[_Standards/WikiData/WD~impressionism_in_music,837182]]'
-part_of: '[[_Standards/WikiData/WD~impressionism_in_music,837182]]'
-subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_style,11921029|WD~musical_style,11921029]]'
+different_from: '[[_Standards/WikiData/WD~impressionism_in_music,837182|WD~impressionism_in_music,837182]]'
+part_of: '[[_Standards/WikiData/WD~impressionism_in_music,837182|WD~impressionism_in_music,837182]]'
+subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946|WD~modern_classical_music,65937946]]'
 dv_has_:
   name_:
     da: impressionistisk musik
@@ -36,7 +36,7 @@ dv_has_:
 
 # [[Impressionist_Music]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~impressionist_music,105697765]] 
+#is_/same_as :: [[_Standards/WikiData/WD~impressionist_music,105697765|WD~impressionist_music,105697765]] 
 
 ## #has_/text_of_/abstract 
 

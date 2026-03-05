@@ -25,36 +25,36 @@ aliases:
 - 约翰·迪肯
 - 존 디콘
 has_id_wikidata: Q192103
-place_of_birth: '[[_Standards/WikiData/WD~Leicester,83065]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Christian,106039]]'
+place_of_birth: '[[_Standards/WikiData/WD~Leicester,83065|WD~Leicester,83065]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christian,106039|WD~Christian,106039]]'
 notable_work:
-- '[[_Standards/WikiData/WD~I_Want_to_Break_Free,219209]]'
-- '[[_Standards/WikiData/WD~Another_One_Bites_the_Dust,568065]]'
+- '[[_Standards/WikiData/WD~I_Want_to_Break_Free,219209|WD~I_Want_to_Break_Free,219209]]'
+- '[[_Standards/WikiData/WD~Another_One_Bites_the_Dust,568065|WD~Another_One_Bites_the_Dust,568065]]'
 educated_at:
-- "[[_Standards/WikiData/WD~King's_College_London,245247]]"
-- '[[_Standards/WikiData/WD~Beauchamp_College,4877413]]'
+- "[[_Standards/WikiData/WD~King's_College_London,245247|WD~King's_College_London,245247]]"
+- '[[_Standards/WikiData/WD~Beauchamp_College,4877413|WD~Beauchamp_College,4877413]]'
 occupation:
-- '[[_Standards/WikiData/WD~bassist,584301]]'
-- '[[_Standards/WikiData/WD~musician,639669]]'
-- '[[_Standards/WikiData/WD~songwriter,753110]]'
-- '[[_Standards/WikiData/WD~guitarist,855091]]'
-family_name: '[[_Standards/WikiData/WD~Deacon,4161550]]'
-given_name: '[[_Standards/WikiData/WD~John,4925477]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-copyright_representative: '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
-different_from: '[[_Standards/WikiData/WD~John_Deacon,11756140]]'
-award_received: '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
+- '[[_Standards/WikiData/WD~bassist,584301|WD~bassist,584301]]'
+- '[[_Standards/WikiData/WD~musician,639669|WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~songwriter,753110|WD~songwriter,753110]]'
+- '[[_Standards/WikiData/WD~guitarist,855091|WD~guitarist,855091]]'
+family_name: '[[_Standards/WikiData/WD~Deacon,4161550|WD~Deacon,4161550]]'
+given_name: '[[_Standards/WikiData/WD~John,4925477|WD~John,4925477]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+copyright_representative: '[[_Standards/WikiData/WD~PRS_for_Music,7120528|WD~PRS_for_Music,7120528]]'
+different_from: '[[_Standards/WikiData/WD~John_Deacon,11756140|WD~John_Deacon,11756140]]'
+award_received: '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528|WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
 instrument:
-- '[[_Standards/WikiData/WD~electric_bass_guitar,64166304]]'
-- '[[_Standards/WikiData/WD~piano,5994]]'
-- '[[_Standards/WikiData/WD~bass_guitar,46185]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-native_language: '[[_Standards/WikiData/WD~English,1860]]'
-genre: '[[_Standards/WikiData/WD~rock_music,11399]]'
-member_of: '[[_Standards/WikiData/WD~Queen,15862]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~electric_bass_guitar,64166304|WD~electric_bass_guitar,64166304]]'
+- '[[_Standards/WikiData/WD~piano,5994|WD~piano,5994]]'
+- '[[_Standards/WikiData/WD~bass_guitar,46185|WD~bass_guitar,46185]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012|WD~works_protected_by_copyrights,73555012]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+genre: '[[_Standards/WikiData/WD~rock_music,11399|WD~rock_music,11399]]'
+member_of: '[[_Standards/WikiData/WD~Queen,15862|WD~Queen,15862]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 number_of_children: 6
 Commons_category: John Deacon
 work_period_start_: 1965-01-01T00:00:00Z

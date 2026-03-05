@@ -68,15 +68,15 @@ aliases:
 - 대륙붕
 has_id_wikidata: Q134851
 subclass_of:
-- '[[_Standards/WikiData/WD~landform,271669]]'
-- '[[_Standards/WikiData/WD~shallow,2168243]]'
+- '[[_Standards/WikiData/WD~landform,271669|WD~landform,271669]]'
+- '[[_Standards/WikiData/WD~shallow,2168243|WD~shallow,2168243]]'
 different_from:
-- '[[_Standards/WikiData/WD~continental_rise,332602]]'
-- '[[_Standards/WikiData/WD~continental_slope,1031696]]'
+- '[[_Standards/WikiData/WD~continental_rise,332602|WD~continental_rise,332602]]'
+- '[[_Standards/WikiData/WD~continental_slope,1031696|WD~continental_slope,1031696]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 OmegaWiki_Defined_Meaning: 742
 U_S_National_Archives_Identifier: 10636920
 Dewey_Decimal_Classification:

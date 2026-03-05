@@ -24,7 +24,7 @@ tags:
 title: is_a_demand Class
 type: Type
 dv_is_:
-  parent_class: "[[../../../../../schema-org/Class/is_a_/Intangible]]"
+  parent_class: "[[../../../../../schema-org/Class/is_a_/Intangible|Intangible]]"
   same_as:
     - "[[Demand|Demand]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Demand.public|Demand.public]]"
@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Demand.secret|Demand.secret]]"
 dv_has_:
   properties: "[ acceptedPaymentMethod, additionalType, advanceBookingRequirement, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, identifier, image, includesObject, ineligibleRegion, inventoryLevel, itemCondition, itemOffered, mainEntityOfPage, mpn, name, potentialAction, priceSpecification, sameAs, seller, serialNumber, sku, subjectOf, url, validFrom, validThrough, warranty ]"
-dv_has_parent_class: "[[../../../../../schema-org/Class/is_a_/Intangible]]"
+dv_has_parent_class: "[[../../../../../schema-org/Class/is_a_/Intangible|Intangible]]"
 dv_has_properties: "[ acceptedPaymentMethod, additionalType, advanceBookingRequirement, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, identifier, image, includesObject, ineligibleRegion, inventoryLevel, itemCondition, itemOffered, mainEntityOfPage, mpn, name, potentialAction, priceSpecification, sameAs, seller, serialNumber, sku, subjectOf, url, validFrom, validThrough, warranty ]"
 dv_is_same_as:
   - "[[Demand|Demand]]"

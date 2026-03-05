@@ -31,7 +31,7 @@ dv_has_:
   media_authenticity_category: MediaManipulationRatingEnumeration
   domain: MediaReview
   name: has_media_authenticity_category
-  range: "[[../../../Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration]]"
+  range: "[[../../../Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration|media_manipulation_rating_enumeration]]"
 dv_has_media_authenticity_category: MediaManipulationRatingEnumeration
 dv_is_a: "[[../../Relation|Relation]]"
 dv_is_:
@@ -47,7 +47,7 @@ dv_is_:
 dv_is_part_of: "pending:"
 dv_has_domain: MediaReview
 dv_has_name: has_media_authenticity_category
-dv_has_range: "[[../../../Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration]]"
+dv_has_range: "[[../../../Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration|media_manipulation_rating_enumeration]]"
 dv_is_same_as:
   - "[[has_media_authenticity_category]]"
   - "[[/_public/schema-org/Relation/has/has_media_authenticity_category.public|has_media_authenticity_category.public]]"

@@ -27,8 +27,8 @@ aliases:
 - எரிகுண்டு
 - 焼夷兵器
 has_id_wikidata: Q898389
-instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
-subclass_of: '[[_Standards/WikiData/WD~weapon,728]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422|WD~weapon_functional_class,124078422]]'
+subclass_of: '[[_Standards/WikiData/WD~weapon,728|WD~weapon,728]]'
 Nomenclature_for_Museum_Cataloging: 7740
 Commons_category: Incendiary weapons
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/38%20Molotov-koktelo.svg
@@ -61,7 +61,7 @@ dv_has_:
 
 # [[Incendiary_Weapon]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~incendiary_weapon,898389]]
+#is_/same_as :: [[_Standards/WikiData/WD~incendiary_weapon,898389|WD~incendiary_weapon,898389]]
 
 ## #has_/text_of_/abstract 
 

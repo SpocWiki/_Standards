@@ -70,21 +70,21 @@ aliases:
 - 인구통계학
 has_id_wikidata: Q37732
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-is_the_study_of: '[[_Standards/WikiData/WD~demographics,2725376]]'
-different_from: '[[_Standards/WikiData/WD~demographics,2725376]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+is_the_study_of: '[[_Standards/WikiData/WD~demographics,2725376|WD~demographics,2725376]]'
+different_from: '[[_Standards/WikiData/WD~demographics,2725376|WD~demographics,2725376]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-uses: '[[_Standards/WikiData/WD~population_statistics,7229821]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Demography,10963921]]'
-practiced_by: '[[_Standards/WikiData/WD~demographer,12360779]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+uses: '[[_Standards/WikiData/WD~population_statistics,7229821|WD~population_statistics,7229821]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Demography,10963921|WD~Template_Demography,10963921]]'
+practiced_by: '[[_Standards/WikiData/WD~demographer,12360779|WD~demographer,12360779]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~geography,1071]]'
-- '[[_Standards/WikiData/WD~social_science,34749]]'
-part_of: '[[_Standards/WikiData/WD~geography,1071]]'
+- '[[_Standards/WikiData/WD~geography,1071|WD~geography,1071]]'
+- '[[_Standards/WikiData/WD~social_science,34749|WD~social_science,34749]]'
+part_of: '[[_Standards/WikiData/WD~geography,1071|WD~geography,1071]]'
 Universal_Decimal_Classification: 314
 OmegaWiki_Defined_Meaning: 874
 All_Science_Journal_Classification_Codes: 3317

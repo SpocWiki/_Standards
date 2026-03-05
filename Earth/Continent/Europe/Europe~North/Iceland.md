@@ -160,145 +160,145 @@ aliases:
 - 이슬란드
 - "\U00010334\U00010339\U00010343\U00010330\U0001033B\U00010330\U0001033D\U00010333"
 has_id_wikidata: Q189
-official_religion: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
+official_religion: '[[_Standards/WikiData/WD~Lutheranism,75809|WD~Lutheranism,75809]]'
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
-- '[[_Standards/WikiData/WD~Nordic_Council,146165]]'
-- '[[_Standards/WikiData/WD~European_Free_Trade_Association,166546]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~Arctic_Council,674182]]'
-- '[[_Standards/WikiData/WD~Australia_Group,782942]]'
-- '[[_Standards/WikiData/WD~Council_of_the_Baltic_Sea_States,789769]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]'
-- '[[_Standards/WikiData/WD~European_Payments_Union,1377612]]'
-- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]'
-- '[[_Standards/WikiData/WD~Schengen_Area,1969730]]'
-- '[[_Standards/WikiData/WD~Barents_Euro-Arctic_Council,4426190]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~NATO,7184]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
-- '[[_Standards/WikiData/WD~European_Economic_Area,8932]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
-- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]'
-taxon_found_at_locations: '[[_Standards/WikiData/WD~Vulpes_lagopus,82738]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Iceland,93335]]'
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~Nordic_Council,146165|WD~Nordic_Council,146165]]'
+- '[[_Standards/WikiData/WD~European_Free_Trade_Association,166546|WD~European_Free_Trade_Association,166546]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Arctic_Council,674182|WD~Arctic_Council,674182]]'
+- '[[_Standards/WikiData/WD~Australia_Group,782942|WD~Australia_Group,782942]]'
+- '[[_Standards/WikiData/WD~Council_of_the_Baltic_Sea_States,789769|WD~Council_of_the_Baltic_Sea_States,789769]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120|WD~Missile_Technology_Control_Regime,1072120]]'
+- '[[_Standards/WikiData/WD~European_Payments_Union,1377612|WD~European_Payments_Union,1377612]]'
+- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[_Standards/WikiData/WD~Schengen_Area,1969730|WD~Schengen_Area,1969730]]'
+- '[[_Standards/WikiData/WD~Barents_Euro-Arctic_Council,4426190|WD~Barents_Euro-Arctic_Council,4426190]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~NATO,7184|WD~NATO,7184]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]'
+- '[[_Standards/WikiData/WD~European_Economic_Area,8932|WD~European_Economic_Area,8932]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550|WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177|WD~Visa_Waiver_Program,45177]]'
+taxon_found_at_locations: '[[_Standards/WikiData/WD~Vulpes_lagopus,82738|WD~Vulpes_lagopus,82738]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Iceland,93335|WD~flag_of_Iceland,93335]]'
 public_holiday:
-- '[[_Standards/WikiData/WD~Christmas_Eve,106010]]'
-- '[[_Standards/WikiData/WD~Maundy_Thursday,106333]]'
-- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
-- '[[_Standards/WikiData/WD~Easter_Monday,209663]]'
-- '[[_Standards/WikiData/WD~Icelandic_National_Day,580059]]'
-- '[[_Standards/WikiData/WD~May_Day,900013]]'
-- '[[_Standards/WikiData/WD~Boxing_Day,956699]]'
-- '[[_Standards/WikiData/WD~First_Day_of_Summer,2247397]]'
-- '[[_Standards/WikiData/WD~Whit_Monday,2512993]]'
-- '[[_Standards/WikiData/WD~Commerce_Day,14914713]]'
-- '[[_Standards/WikiData/WD~Q16429504,16429504]]'
-- "[[_Standards/WikiData/WD~New_Year's_Eve,11269]]"
-- '[[_Standards/WikiData/WD~Easter,21196]]'
-- '[[_Standards/WikiData/WD~Pentecost,39864]]'
-- '[[_Standards/WikiData/WD~Good_Friday,40317]]'
-- '[[_Standards/WikiData/WD~Palm_Sunday,42236]]'
-- '[[_Standards/WikiData/WD~Feast_of_the_Ascension,51638]]'
+- '[[_Standards/WikiData/WD~Christmas_Eve,106010|WD~Christmas_Eve,106010]]'
+- '[[_Standards/WikiData/WD~Maundy_Thursday,106333|WD~Maundy_Thursday,106333]]'
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627|WD~New_Year's_Day,196627]]"
+- '[[_Standards/WikiData/WD~Easter_Monday,209663|WD~Easter_Monday,209663]]'
+- '[[_Standards/WikiData/WD~Icelandic_National_Day,580059|WD~Icelandic_National_Day,580059]]'
+- '[[_Standards/WikiData/WD~May_Day,900013|WD~May_Day,900013]]'
+- '[[_Standards/WikiData/WD~Boxing_Day,956699|WD~Boxing_Day,956699]]'
+- '[[_Standards/WikiData/WD~First_Day_of_Summer,2247397|WD~First_Day_of_Summer,2247397]]'
+- '[[_Standards/WikiData/WD~Whit_Monday,2512993|WD~Whit_Monday,2512993]]'
+- '[[_Standards/WikiData/WD~Commerce_Day,14914713|WD~Commerce_Day,14914713]]'
+- '[[_Standards/WikiData/WD~Q16429504,16429504|WD~Q16429504,16429504]]'
+- "[[_Standards/WikiData/WD~New_Year's_Eve,11269|WD~New_Year's_Eve,11269]]"
+- '[[_Standards/WikiData/WD~Easter,21196|WD~Easter,21196]]'
+- '[[_Standards/WikiData/WD~Pentecost,39864|WD~Pentecost,39864]]'
+- '[[_Standards/WikiData/WD~Good_Friday,40317|WD~Good_Friday,40317]]'
+- '[[_Standards/WikiData/WD~Palm_Sunday,42236|WD~Palm_Sunday,42236]]'
+- '[[_Standards/WikiData/WD~Feast_of_the_Ascension,51638|WD~Feast_of_the_Ascension,51638]]'
 instance_of:
-- '[[_Standards/WikiData/WD~island_country,112099]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~island_country,112099|WD~island_country,112099]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 different_from:
-- '[[_Standards/WikiData/WD~Island,128651]]'
-- '[[_Standards/WikiData/WD~Iceland,3740828]]'
-legislative_body: '[[_Standards/WikiData/WD~Althing,131279]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Iceland,135356]]'
-highest_point: '[[_Standards/WikiData/WD~Hvannadalshnúkur,140084]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Iceland,151128]]'
-anthem: '[[_Standards/WikiData/WD~Lofsöngur,170582]]'
-coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Iceland,179866]]'
+- '[[_Standards/WikiData/WD~Island,128651|WD~Island,128651]]'
+- '[[_Standards/WikiData/WD~Iceland,3740828|WD~Iceland,3740828]]'
+legislative_body: '[[_Standards/WikiData/WD~Althing,131279|WD~Althing,131279]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Iceland,135356|WD~Supreme_Court_of_Iceland,135356]]'
+highest_point: '[[_Standards/WikiData/WD~Hvannadalshnúkur,140084|WD~Hvannadalshnúkur,140084]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Iceland,151128|WD~history_of_Iceland,151128]]'
+anthem: '[[_Standards/WikiData/WD~Lofsöngur,170582|WD~Lofsöngur,170582]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Iceland,179866|WD~Coat_of_arms_of_Iceland,179866]]'
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Palestine,219060]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~South_Korea,884]]'
-- '[[_Standards/WikiData/WD~Philippines,928]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~Norway,20]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Finland,33]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Latvia,211]]'
-- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Palestine,219060|WD~Palestine,219060]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
+- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Iceland,678377]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Iceland,678377|WD~geography_of_Iceland,678377]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Southwest,770576]]'
-- '[[_Standards/WikiData/WD~South_Constituency,1419190]]'
-- '[[_Standards/WikiData/WD~Reykjavík_North,1526538]]'
-- '[[_Standards/WikiData/WD~Northeast,2001559]]'
-- '[[_Standards/WikiData/WD~Northwest,2001582]]'
-- '[[_Standards/WikiData/WD~Reykjavík_South,2037988]]'
-head_of_government: '[[_Standards/WikiData/WD~Bjarni_Benediktsson,879376]]'
+- '[[_Standards/WikiData/WD~Southwest,770576|WD~Southwest,770576]]'
+- '[[_Standards/WikiData/WD~South_Constituency,1419190|WD~South_Constituency,1419190]]'
+- '[[_Standards/WikiData/WD~Reykjavík_North,1526538|WD~Reykjavík_North,1526538]]'
+- '[[_Standards/WikiData/WD~Northeast,2001559|WD~Northeast,2001559]]'
+- '[[_Standards/WikiData/WD~Northwest,2001582|WD~Northwest,2001582]]'
+- '[[_Standards/WikiData/WD~Reykjavík_South,2037988|WD~Reykjavík_South,2037988]]'
+head_of_government: '[[_Standards/WikiData/WD~Bjarni_Benediktsson,879376|WD~Bjarni_Benediktsson,879376]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Iceland,1195916]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Iceland,2001615]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Iceland,2347868]]'
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+- '[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Iceland,1195916|WD~Central_Bank_of_Iceland,1195916]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Iceland,2001615|WD~demographics_of_Iceland,2001615]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Iceland,2347868|WD~culture_of_Iceland,2347868]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
 language_used:
-- '[[_Standards/WikiData/WD~Icelandic_Sign_Language,3436654]]'
-- '[[_Standards/WikiData/WD~Icelandic,294]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Iceland,10815291]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_Iceland,12351757]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Iceland_topics,14336096]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Iceland,14605772]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Iceland,16056526]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Iceland,19188924]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Iceland,19190022]]'
-head_of_state: '[[_Standards/WikiData/WD~Halla_Tómasdóttir,24494577]]'
+- '[[_Standards/WikiData/WD~Icelandic_Sign_Language,3436654|WD~Icelandic_Sign_Language,3436654]]'
+- '[[_Standards/WikiData/WD~Icelandic,294|WD~Icelandic,294]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_republic,4198907|WD~parliamentary_republic,4198907]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Iceland,10815291|WD~Portal_Iceland,10815291]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Iceland,12351757|WD~Government_of_Iceland,12351757]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Iceland_topics,14336096|WD~Template_Iceland_topics,14336096]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Iceland,14605772|WD~WikiProject_Iceland,14605772]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Iceland,16056526|WD~outline_of_Iceland,16056526]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Iceland,19188924|WD~President_of_Iceland,19188924]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Iceland,19190022|WD~Prime_Minister_of_Iceland,19190022]]'
+head_of_state: '[[_Standards/WikiData/WD~Halla_Tómasdóttir,24494577|WD~Halla_Tómasdóttir,24494577]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q25681638,25681638]]'
-- '[[_Standards/WikiData/WD~Q30277419,30277419]]'
-- '[[_Standards/WikiData/WD~Q53814571,53814571]]'
-- '[[_Standards/WikiData/WD~Q110880069,110880069]]'
-open_data_portal: '[[_Standards/WikiData/WD~Open_Data_Portal_Iceland,97013423]]'
+- '[[_Standards/WikiData/WD~Q25681638,25681638|WD~Q25681638,25681638]]'
+- '[[_Standards/WikiData/WD~Q30277419,30277419|WD~Q30277419,30277419]]'
+- '[[_Standards/WikiData/WD~Q53814571,53814571|WD~Q53814571,53814571]]'
+- '[[_Standards/WikiData/WD~Q110880069,110880069|WD~Q110880069,110880069]]'
+open_data_portal: '[[_Standards/WikiData/WD~Open_Data_Portal_Iceland,97013423|WD~Open_Data_Portal_Iceland,97013423]]'
 coordinates_of_northernmost_point: Point(-18.68 67.13)
 official_name:
 - Komara Îslendayê
@@ -312,23 +312,23 @@ MeSH_tree_code:
 - Z01.542.816.249
 - Z01.639.490
 nominal_GDP: 27841648044
-official_language: '[[_Standards/WikiData/WD~Icelandic,294]]'
-capital: '[[_Standards/WikiData/WD~Reykjavík,1764]]'
+official_language: '[[_Standards/WikiData/WD~Icelandic,294|WD~Icelandic,294]]'
+capital: '[[_Standards/WikiData/WD~Reykjavík,1764|WD~Reykjavík,1764]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Faroe_Islands,4628]]'
-- '[[_Standards/WikiData/WD~Svalbard,25231]]'
-- '[[_Standards/WikiData/WD~Greenland,223]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Iceland,8064]]'
+- '[[_Standards/WikiData/WD~Faroe_Islands,4628|WD~Faroe_Islands,4628]]'
+- '[[_Standards/WikiData/WD~Svalbard,25231|WD~Svalbard,25231]]'
+- '[[_Standards/WikiData/WD~Greenland,223|WD~Greenland,223]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574|WD~UTC_00_00,6574]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Iceland,8064|WD~economy_of_Iceland,8064]]'
 part_of:
-- '[[_Standards/WikiData/WD~European_Economic_Area,8932]]'
-- '[[_Standards/WikiData/WD~Northern_Europe,27479]]'
-- '[[_Standards/WikiData/WD~Nordic_countries,52062]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Scandinavia,21195]]'
-named_after: '[[_Standards/WikiData/WD~ice,23392]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
-lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-country: '[[_Standards/WikiData/WD~Iceland,189]]'
+- '[[_Standards/WikiData/WD~European_Economic_Area,8932|WD~European_Economic_Area,8932]]'
+- '[[_Standards/WikiData/WD~Northern_Europe,27479|WD~Northern_Europe,27479]]'
+- '[[_Standards/WikiData/WD~Nordic_countries,52062|WD~Nordic_countries,52062]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]]'
+named_after: '[[_Standards/WikiData/WD~ice,23392|WD~ice,23392]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+country: '[[_Standards/WikiData/WD~Iceland,189|WD~Iceland,189]]'
 speed_limit:
 - 50
 - 80
@@ -350,7 +350,7 @@ birth_rate:
 - 12.3
 - 13.1
 total_fertility_rate: 1.93
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.is,39896]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.is,39896|WD~.is,39896]]'
 Gini_coefficient: 26.1
 IAB_code: 1318
 ISO_3166_1_numeric_code: 352
@@ -358,7 +358,7 @@ M49_code: 352
 Inequality_adjusted_Human_Development_Index: 0.915
 Democracy_Index: 9.37
 Human_Development_Index: 0.959
-follows: '[[_Standards/WikiData/WD~Kingdom_of_Iceland,62567]]'
+follows: '[[_Standards/WikiData/WD~Kingdom_of_Iceland,62567|WD~Kingdom_of_Iceland,62567]]'
 male_population:
 - 195800
 - 184880
@@ -499,7 +499,7 @@ dv_UNTERM_Chinese_Formal: 冰岛共和国
 dv_UNTERM_French_Formal: la République d'Islande
 dv_UNTERM_Russian: Исландия
 dv_UNTERM_Russian_Formal: Республика Исландия
-dv_Region_Name: '[[../../Europe]]'
+dv_Region_Name: '[[../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Iceland]]'
 dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
@@ -857,7 +857,7 @@ dv_has_:
 dv_has_name_de: Island
 dv_Area-Total: 103000
 dv_Area-Land: 100250
-dv_has_place_continent: '[[../../Europe]]'
+dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: IS
 dv_Alcohol-l: 6.3
 dv_has_place_longitude: -21.718
@@ -951,7 +951,7 @@ ISO3 = `=this.dv_ISO3`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Iceland/ReadMe]] 
+[[Iceland/ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -972,7 +972,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Reykjavik]]  
 ![[Coat_of_arms_of_Iceland.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Iceland.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Iceland.mp3|Anthem-Iceland.mp3]]
 ![[Flag_of_Iceland.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]

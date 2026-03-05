@@ -8,28 +8,28 @@ aliases:
 - 開放虛擬記憶體系統
 has_id_wikidata: Q479882
 developer:
-- '[[_Standards/WikiData/WD~Q80978,80978]]'
-- '[[_Standards/WikiData/WD~Compaq,324603]]'
-- '[[_Standards/WikiData/WD~Digital_Equipment_Corporation,690079]]'
-- '[[_Standards/WikiData/WD~VMS_Software_Inc.,98931752]]'
+- '[[_Standards/WikiData/WD~Q80978,80978|WD~Q80978,80978]]'
+- '[[_Standards/WikiData/WD~Compaq,324603|WD~Compaq,324603]]'
+- '[[_Standards/WikiData/WD~Digital_Equipment_Corporation,690079|WD~Digital_Equipment_Corporation,690079]]'
+- '[[_Standards/WikiData/WD~VMS_Software_Inc.,98931752|WD~VMS_Software_Inc.,98931752]]'
 owned_by:
-- '[[_Standards/WikiData/WD~Q80978,80978]]'
-- '[[_Standards/WikiData/WD~Compaq,324603]]'
-- '[[_Standards/WikiData/WD~Digital_Equipment_Corporation,690079]]'
-- '[[_Standards/WikiData/WD~VMS_Software_Inc.,98931752]]'
+- '[[_Standards/WikiData/WD~Q80978,80978|WD~Q80978,80978]]'
+- '[[_Standards/WikiData/WD~Compaq,324603|WD~Compaq,324603]]'
+- '[[_Standards/WikiData/WD~Digital_Equipment_Corporation,690079|WD~Digital_Equipment_Corporation,690079]]'
+- '[[_Standards/WikiData/WD~VMS_Software_Inc.,98931752|WD~VMS_Software_Inc.,98931752]]'
 instance_of:
-- '[[_Standards/WikiData/WD~proprietary_software,218616]]'
-- '[[_Standards/WikiData/WD~distributed_operating_system,588145]]'
-- '[[_Standards/WikiData/WD~operating_system,9135]]'
+- '[[_Standards/WikiData/WD~proprietary_software,218616|WD~proprietary_software,218616]]'
+- '[[_Standards/WikiData/WD~distributed_operating_system,588145|WD~distributed_operating_system,588145]]'
+- '[[_Standards/WikiData/WD~operating_system,9135|WD~operating_system,9135]]'
 platform:
-- '[[_Standards/WikiData/WD~Q272629,272629]]'
-- '[[_Standards/WikiData/WD~Itanium,390389]]'
-- '[[_Standards/WikiData/WD~VAX,960616]]'
-copyright_license: '[[_Standards/WikiData/WD~proprietary_license,3238057]]'
-copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
-distribution_format: '[[_Standards/WikiData/WD~CD_ROM,7982]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Q272629,272629|WD~Q272629,272629]]'
+- '[[_Standards/WikiData/WD~Itanium,390389|WD~Itanium,390389]]'
+- '[[_Standards/WikiData/WD~VAX,960616|WD~VAX,960616]]'
+copyright_license: '[[_Standards/WikiData/WD~proprietary_license,3238057|WD~proprietary_license,3238057]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+distribution_format: '[[_Standards/WikiData/WD~CD_ROM,7982|WD~CD_ROM,7982]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 publication_date: 1977-10-25T00:00:00Z
 inception: 1977-10-25T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Openvms-8.4-2L1-dcl.png

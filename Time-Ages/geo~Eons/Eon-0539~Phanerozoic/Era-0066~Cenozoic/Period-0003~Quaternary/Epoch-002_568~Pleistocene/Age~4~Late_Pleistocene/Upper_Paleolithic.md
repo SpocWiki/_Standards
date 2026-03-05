@@ -54,12 +54,12 @@ aliases:
 - 후기 구석기 시대
 has_id_wikidata: Q479505
 instance_of:
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-- '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~archaeological_period,15401633|WD~archaeological_period,15401633]]'
 start_time:
 - -38000-01-01T00:00:00Z
 - -48000-01-01T00:00:00Z
-location: '[[_Standards/WikiData/WD~Eurasia,5401]]'
+location: '[[_Standards/WikiData/WD~Eurasia,5401|WD~Eurasia,5401]]'
 end_time: -7700-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lascaux%20painting.jpg
 Commons_category: Upper Paleolithic
@@ -178,7 +178,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 > until the advent of the Neolithic Revolution and agriculture.
 >
 > The  Upper Paleolithic was preceded by the Middle Paleolithic subdivision 
-> and was paralleled by the so-called [[../Age~3~Chibanian/Behavioral_Modernity]]. 
+> and was paralleled by the so-called [[../Age~3~Chibanian/Behavioral_Modernity|Behavioral_Modernity]]. 
 > 
 > Anatomically modern humans (i.e. Homo sapiens) 
 > are believed to have emerged in Africa around 300,000 years ago. 

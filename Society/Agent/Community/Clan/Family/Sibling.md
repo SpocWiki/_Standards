@@ -113,11 +113,11 @@ aliases:
 - 兄弟姐妹
 - 형제자매
 has_id_wikidata: Q31184
-instance_of: '[[_Standards/WikiData/WD~kinship,171318]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-part_of: '[[_Standards/WikiData/WD~sibling_group,16979650]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-subclass_of: '[[_Standards/WikiData/WD~first_degree_relative,25098571]]'
+instance_of: '[[_Standards/WikiData/WD~kinship,171318|WD~kinship,171318]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+part_of: '[[_Standards/WikiData/WD~sibling_group,16979650|WD~sibling_group,16979650]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+subclass_of: '[[_Standards/WikiData/WD~first_degree_relative,25098571|WD~first_degree_relative,25098571]]'
 Wikidata_property: sibling
 OmegaWiki_Defined_Meaning: 6732
 Commons_category: Siblings

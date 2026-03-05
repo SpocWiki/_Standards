@@ -97,22 +97,22 @@ aliases:
 - 四邊形
 - 사각형
 has_id_wikidata: Q36810
-followed_by: '[[_Standards/WikiData/WD~pentagon,127840]]'
-has_vertex_figure: '[[_Standards/WikiData/WD~line_segment,166154]]'
+followed_by: '[[_Standards/WikiData/WD~pentagon,127840|WD~pentagon,127840]]'
+has_vertex_figure: '[[_Standards/WikiData/WD~line_segment,166154|WD~line_segment,166154]]'
 has_characteristic:
-- "[[_Standards/WikiData/WD~Ptolemy's_theorem,459547]]"
-- "[[_Standards/WikiData/WD~Bretschneider's_formula,537518]]"
-- '[[_Standards/WikiData/WD~Quadrilateral_inequality,30894200]]'
-described_by_source: '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- "[[_Standards/WikiData/WD~Ptolemy's_theorem,459547|WD~Ptolemy's_theorem,459547]]"
+- "[[_Standards/WikiData/WD~Bretschneider's_formula,537518|WD~Bretschneider's_formula,537518]]"
+- '[[_Standards/WikiData/WD~Quadrilateral_inequality,30894200|WD~Quadrilateral_inequality,30894200]]'
+described_by_source: '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~tetratope,85292670]]'
-- '[[_Standards/WikiData/WD~polygon,37555]]'
-follows: '[[_Standards/WikiData/WD~triangle,19821]]'
+- '[[_Standards/WikiData/WD~tetratope,85292670|WD~tetratope,85292670]]'
+- '[[_Standards/WikiData/WD~polygon,37555|WD~polygon,37555]]'
+follows: '[[_Standards/WikiData/WD~triangle,19821|WD~triangle,19821]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~edge,26382]]'
-- '[[_Standards/WikiData/WD~vertex,26401]]'
-has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382]]'
+- '[[_Standards/WikiData/WD~edge,26382|WD~edge,26382]]'
+- '[[_Standards/WikiData/WD~vertex,26401|WD~vertex,26401]]'
+has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382|WD~edge,26382]]'
 OmegaWiki_Defined_Meaning: 389793
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tetragon%20measures.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%9A%E0%A5%8C%E0%A4%95%E0%A5%8B%E0%A4%A8.wav

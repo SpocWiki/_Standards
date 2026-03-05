@@ -27,9 +27,9 @@ tags:
 title: is_a_multi_player Class
 type: Type
 dv_has_:
-  parent_class: "[[../GamePlayMode]]"
+  parent_class: "[[../GamePlayMode|GamePlayMode]]"
 dv_is_:
-  enum_of: "[[../GamePlayMode]]"
+  enum_of: "[[../GamePlayMode|GamePlayMode]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode/Multi_Player|Multi_Player]]"
     - "[[/_public/schema-org/Enumeration/Game_Play_Mode/Multi_Player.public|Multi_Player.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Game_Play_Mode/Multi_Player.personal|Multi_Player.personal]]"
     - "[[/_secret/schema-org/Enumeration/Game_Play_Mode/Multi_Player.secret|Multi_Player.secret]]"
     - "[[Multi_Player]]"
-dv_has_parent_class: "[[../GamePlayMode]]"
-dv_is_enum_of: "[[../GamePlayMode]]"
+dv_has_parent_class: "[[../GamePlayMode|GamePlayMode]]"
+dv_is_enum_of: "[[../GamePlayMode|GamePlayMode]]"
 dv_is_same_as:
   - "[[Multi_Player]]"
   - "[[/_public/schema-org/Enumeration/Game_Play_Mode/Multi_Player.public|Multi_Player.public]]"

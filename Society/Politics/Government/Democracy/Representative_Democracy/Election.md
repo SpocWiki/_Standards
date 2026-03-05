@@ -117,27 +117,27 @@ aliases:
 - 선거
 has_id_wikidata: Q40231
 subclass_of:
-- '[[_Standards/WikiData/WD~voting,189760]]'
-- '[[_Standards/WikiData/WD~competition,841654]]'
+- '[[_Standards/WikiData/WD~voting,189760|WD~voting,189760]]'
+- '[[_Standards/WikiData/WD~competition,841654|WD~competition,841654]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-opposite_of: '[[_Standards/WikiData/WD~recall_election,1196663]]'
-studied_by: '[[_Standards/WikiData/WD~sociology_of_voting,3487526]]'
-different_from: '[[_Standards/WikiData/WD~corporate_election,5172455]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+opposite_of: '[[_Standards/WikiData/WD~recall_election,1196663|WD~recall_election,1196663]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_voting,3487526|WD~sociology_of_voting,3487526]]'
+different_from: '[[_Standards/WikiData/WD~corporate_election,5172455|WD~corporate_election,5172455]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_election,5855584]]'
-- '[[_Standards/WikiData/WD~Template_Elections,6447667]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_election,5855584|WD~Template_Infobox_election,5855584]]'
+- '[[_Standards/WikiData/WD~Template_Elections,6447667|WD~Template_Elections,6447667]]'
 part_of:
-- '[[_Standards/WikiData/WD~association,15911314]]'
-- '[[_Standards/WikiData/WD~politics,7163]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
-has_characteristic: '[[_Standards/WikiData/WD~class_of_election,107359024]]'
+- '[[_Standards/WikiData/WD~association,15911314|WD~association,15911314]]'
+- '[[_Standards/WikiData/WD~politics,7163|WD~politics,7163]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+has_characteristic: '[[_Standards/WikiData/WD~class_of_election,107359024|WD~class_of_election,107359024]]'
 properties_for_this_type:
 - office contested
 - point in time

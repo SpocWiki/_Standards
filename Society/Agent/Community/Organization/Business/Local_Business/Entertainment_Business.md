@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A business providing entertainment.
 
-#has_/parent_class :: [[../LocalBusiness]]  
+#has_/parent_class :: [[../LocalBusiness|LocalBusiness]]  
 
 #has_/child_/class :: [ AdultEntertainment, AmusementPark, ArtGallery, Casino, ComedyClub, MovieTheater, NightClub ]  
 

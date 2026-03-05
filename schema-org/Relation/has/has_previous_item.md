@@ -29,7 +29,7 @@ title: has_previous_item
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[../has/has_next_item|has_next_item]]"
-dv_is_similar_to: "[[../is/has_predecessor]]"
+dv_is_similar_to: "[[../is/has_predecessor|has_predecessor]]"
 dv_has_domain: "[[../../Collection/list_item|list_item]]"
 dv_has_name: is_previous_item
 dv_has_range: "[[../../Collection/list_item|list_item]]"
@@ -49,7 +49,7 @@ dv_has_:
   range: ListItem
 dv_has_previous_item: ListItem
 dv_is_:
-  similar_to: "[[../is/has_predecessor]]"
+  similar_to: "[[../is/has_predecessor|has_predecessor]]"
   same_as:
     - "[[has_previous_item]]"
     - "[[/_public/schema-org/Relation/has/has_previous_item.public|has_previous_item.public]]"
@@ -67,7 +67,7 @@ has_inverse = `=this.dv_has_inverse`
 
 A link to the [[../../Collection/list_item|ListItem]] that precedes the current one.
 
-- [ ] TODO: unify with [[../is/has_predecessor]].  
+- [ ] TODO: unify with [[../is/has_predecessor|has_predecessor]].  
 
 
 Use it like this: 

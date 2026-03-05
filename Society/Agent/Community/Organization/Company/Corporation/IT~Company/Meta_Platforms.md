@@ -98,8 +98,8 @@ dv_has_:
 
 # [[Meta_Platforms]]  
 
-#has_/created :: [[Meta_Platforms/Facebook]] 
-#has_/created ::[[../../../../../../../../IT/HardWare/Wearables/AR(Augmented_Reality_Glasses)/Meta~Orion]]] 
+#has_/created :: [[Meta_Platforms/Facebook|Facebook]] 
+#has_/created ::[[../../../../../../../../IT/HardWare/Wearables/AR(Augmented_Reality_Glasses)/Meta~Orion|Meta~Orion]]] 
 
 ## #has_/text_of_/abstract 
 

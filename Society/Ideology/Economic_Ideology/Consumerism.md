@@ -66,13 +66,13 @@ aliases:
 - 消费主义
 - 소비주의
 has_id_wikidata: Q89640
-opposite_of: '[[_Standards/WikiData/WD~anti_consumerism,1783091]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+opposite_of: '[[_Standards/WikiData/WD~anti_consumerism,1783091|WD~anti_consumerism,1783091]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 instance_of:
-- '[[_Standards/WikiData/WD~ideology,7257]]'
-- '[[_Standards/WikiData/WD~lifestyle,32090]]'
-- '[[_Standards/WikiData/WD~social_movement,49773]]'
-has_effect: '[[_Standards/WikiData/WD~waste,45701]]'
+- '[[_Standards/WikiData/WD~ideology,7257|WD~ideology,7257]]'
+- '[[_Standards/WikiData/WD~lifestyle,32090|WD~lifestyle,32090]]'
+- '[[_Standards/WikiData/WD~social_movement,49773|WD~social_movement,49773]]'
+has_effect: '[[_Standards/WikiData/WD~waste,45701|WD~waste,45701]]'
 Commons_category: Consumerism
 inception: 2000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Konsumkritiker.jpg

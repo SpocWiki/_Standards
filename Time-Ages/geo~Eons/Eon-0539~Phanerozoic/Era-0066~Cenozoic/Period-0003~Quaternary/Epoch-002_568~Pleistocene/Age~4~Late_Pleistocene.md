@@ -39,10 +39,10 @@ aliases:
 - 플라이스토세 후기
 has_id_wikidata: Q498831
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Late_Pleistocene,24068315]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Late_Pleistocene,24068315|WD~Category_Late_Pleistocene,24068315]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -9700-01-01T00:00:00Z
 Commons_category: Late Pleistocene
 start_time: -129000-01-01T00:00:00Z
@@ -166,7 +166,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 129 to 11.7 thousand years ago, right before the [[../../../../../../../_internal/Society/Economy/Agricultural_Revolution|Agricultural_Revolution]]. [[../../../../../../bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Homo/Homo_sapiens|Homo_sapiens]] developed and migrated out of [[../../../../../../Earth/Continent/Africa|Africa]]. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-000_021_Ma_(Late_Pleistocene_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-000_021_Ma_(Late_Pleistocene_Age).png|Earth-000_021_Ma_(Late_Pleistocene_Age).png]] 
 
 ## #has_/text_of_/abstract 
 
@@ -176,7 +176,7 @@ A time period from 129 to 11.7 thousand years ago, right before the [[../../../.
 > It is intended to be the fourth division of the Pleistocene Epoch 
 > within the ongoing Quaternary Period. 
 > 
-> It is currently defined as the time between c. 129,000 and c. 11,700 years ago. The __late Pleistocene equates to the proposed Tarantian Age of the geologic time scale__, preceded by the officially ratified [[Age~3~Chibanian]] (commonly known as Middle Pleistocene) and succeeded by the officially ratified [[../Epoch-000_012~Holocene/0000-Greenlandian]]. 
+> It is currently defined as the time between c. 129,000 and c. 11,700 years ago. The __late Pleistocene equates to the proposed Tarantian Age of the geologic time scale__, preceded by the officially ratified [[Age~3~Chibanian]] (commonly known as Middle Pleistocene) and succeeded by the officially ratified [[../Epoch-000_012~Holocene/0000-Greenlandian|0000-Greenlandian]]. 
 > 
 > The estimated beginning of the Tarantian is the start of the Eemian interglacial period (Marine Isotope Stage 5). It is held to end with the termination of the Younger Dryas, some 11,700 years ago when the Holocene Epoch began.The term Upper Pleistocene is currently in use as a provisional or "quasi-formal" designation by the International Union of Geological Sciences (IUGS). Although the three oldest ages of the Pleistocene (the Gelasian, the Calabrian and the Chibanian) have been officially defined, the late Pleistocene has yet to be formally defined, along with consideration of a proposed Anthropocene sub-division of the Holocene.The main feature of the late Pleistocene was glaciation, for example the Würm glaciation in the Alps of Europe, to 14 ka, and the subsequent Younger Dryas. Most of the world's large (megafaunal) animals  became extinct during the Late Pleistocene as part of the Quaternary extinction event, a trend that continued into the Holocene. In palaeoanthropology, the late Pleistocene contains the Upper Palaeolithic stage of human development, including the early human migrations of modern humans outside of Africa, and the extinction of the last remaining archaic human species.
 >

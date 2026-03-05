@@ -78,22 +78,22 @@ aliases:
 - 國際復興開發銀行
 - 국제부흥개발은행
 has_id_wikidata: Q191384
-official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
-chief_executive_officer: '[[_Standards/WikiData/WD~Kristalina_Georgieva,265277]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773|WD~World_Intellectual_Property_Organization,177773]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Kristalina_Georgieva,265277|WD~Kristalina_Georgieva,265277]]'
 different_from:
-- '[[_Standards/WikiData/WD~World_Bank_Group,320863]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~World_Bank,7164]]'
-parent_organization: '[[_Standards/WikiData/WD~World_Bank_Group,320863]]'
-funder: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]'
+- '[[_Standards/WikiData/WD~World_Bank_Group,320863|WD~World_Bank_Group,320863]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~World_Bank,7164|WD~World_Bank,7164]]'
+parent_organization: '[[_Standards/WikiData/WD~World_Bank_Group,320863|WD~World_Bank_Group,320863]]'
+funder: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194|WD~Open_Society_Foundations,786194]]'
 board_member:
-- '[[_Standards/WikiData/WD~Eugene_R._Black,_Sr.,1373171]]'
-- '[[_Standards/WikiData/WD~Robert_L._Garner,64013328]]'
-chairperson: '[[_Standards/WikiData/WD~Ajaypal_Singh_Banga,4699676]]'
-instance_of: '[[_Standards/WikiData/WD~multilateral_development_bank,105758271]]'
-part_of: '[[_Standards/WikiData/WD~World_Bank,7164]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+- '[[_Standards/WikiData/WD~Eugene_R._Black,_Sr.,1373171|WD~Eugene_R._Black,_Sr.,1373171]]'
+- '[[_Standards/WikiData/WD~Robert_L._Garner,64013328|WD~Robert_L._Garner,64013328]]'
+chairperson: '[[_Standards/WikiData/WD~Ajaypal_Singh_Banga,4699676|WD~Ajaypal_Singh_Banga,4699676]]'
+instance_of: '[[_Standards/WikiData/WD~multilateral_development_bank,105758271|WD~multilateral_development_bank,105758271]]'
+part_of: '[[_Standards/WikiData/WD~World_Bank,7164|WD~World_Bank,7164]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61|WD~Washington,_D.C.,61]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20Bank%20building%20at%20Washington.jpg
 short_name:
 - BIRD

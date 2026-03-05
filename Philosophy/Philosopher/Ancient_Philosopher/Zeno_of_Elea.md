@@ -84,40 +84,40 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/ZENON_ELESKI.html
 Commons_category: Zeno of Elea
 PhilPapers_topic: zeno-of-elea
 name_in_native_language: Ζήνων ὁ Ἐλεάτης
-student_of: '[[_Standards/WikiData/WD~Parmenides,125551]]'
-influenced_by: '[[_Standards/WikiData/WD~Parmenides,125551]]'
+student_of: '[[_Standards/WikiData/WD~Parmenides,125551|WD~Parmenides,125551]]'
+influenced_by: '[[_Standards/WikiData/WD~Parmenides,125551|WD~Parmenides,125551]]'
 occupation:
-- '[[_Standards/WikiData/WD~mathematician,170790]]'
-- '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~mathematician,170790|WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
 different_from:
-- '[[_Standards/WikiData/WD~Zeno_of_Citium,171303]]'
-- '[[_Standards/WikiData/WD~Pseudo_Zeno,100149151]]'
-place_of_death: '[[_Standards/WikiData/WD~Velia,272968]]'
-place_of_birth: '[[_Standards/WikiData/WD~Velia,272968]]'
+- '[[_Standards/WikiData/WD~Zeno_of_Citium,171303|WD~Zeno_of_Citium,171303]]'
+- '[[_Standards/WikiData/WD~Pseudo_Zeno,100149151|WD~Pseudo_Zeno,100149151]]'
+place_of_death: '[[_Standards/WikiData/WD~Velia,272968|WD~Velia,272968]]'
+place_of_birth: '[[_Standards/WikiData/WD~Velia,272968|WD~Velia,272968]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553|WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835|WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240|WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
 present_in_work:
-- '[[_Standards/WikiData/WD~Parmenides,1130762]]'
-- '[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-given_name: '[[_Standards/WikiData/WD~Zenon,98446199]]'
+- '[[_Standards/WikiData/WD~Parmenides,1130762|WD~Parmenides,1130762]]'
+- '[[_Standards/WikiData/WD~The_Divine_Comedy,40185|WD~The_Divine_Comedy,40185]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
+given_name: '[[_Standards/WikiData/WD~Zenon,98446199|WD~Zenon,98446199]]'
 date_of_death: -0424-01-01T00:00:00Z
-field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-notable_work: "[[_Standards/WikiData/WD~Zeno's_paradoxes,33378]]"
-writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+field_of_work: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+notable_work: "[[_Standards/WikiData/WD~Zeno's_paradoxes,33378|WD~Zeno's_paradoxes,33378]]"
+writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497|WD~Ancient_Greek,35497]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Ancient_Greek,35497|WD~Ancient_Greek,35497]]'
 BHCL_UUID: 45676e91-a7dc-4777-9d48-14ac89b9893d
 date_of_birth: -0489-01-01T00:00:00Z
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B2%D9%8A%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%A5%D9%8A%D9%84%D9%8A.wav

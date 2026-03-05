@@ -47,7 +47,7 @@ dv_has_:
     - "[[Trade_Action/Sell_Action|Sell_Action]]"
     - "[[Trade_Action/Tip_Action|Tip_Action]]"
   parent_class:
-    - "[[../Action]]"
+    - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_status|has_action_status]]"
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
@@ -77,7 +77,7 @@ dv_has_:
     - "[[../../../Relation/has/has_target|has_target]]"
     - "[[../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../Action]]"
+  - "[[../Action|Action]]"
 dv_has_child_class:
   - "[[Trade_Action/Buy_Action|Buy_Action]]"
   - "[[Trade_Action/Donate_Action|Donate_Action]]"

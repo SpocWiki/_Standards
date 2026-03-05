@@ -66,12 +66,12 @@ aliases:
 - 烏戈爾語支
 - 우그리아어군
 has_id_wikidata: Q156631
-subclass_of: '[[_Standards/WikiData/WD~Finno_Ugric,79890]]'
+subclass_of: '[[_Standards/WikiData/WD~Finno_Ugric,79890|WD~Finno_Ugric,79890]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Hungarian,9067]]'
-- '[[_Standards/WikiData/WD~Khanty,33563]]'
-- '[[_Standards/WikiData/WD~Mansi,33759]]'
-instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+- '[[_Standards/WikiData/WD~Hungarian,9067|WD~Hungarian,9067]]'
+- '[[_Standards/WikiData/WD~Khanty,33563|WD~Khanty,33563]]'
+- '[[_Standards/WikiData/WD~Mansi,33759|WD~Mansi,33759]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
 Dewey_Decimal_Classification: 494.51
 Libris_URI: hftwvx015knrqh4
 Linguist_List_code: ugri
@@ -152,7 +152,7 @@ dv_has_:
 
 # [[LangFamily-Ugric]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ugric,156631]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ugric,156631|WD~Ugric,156631]] 
 
 ## #has_/text_of_/abstract 
 

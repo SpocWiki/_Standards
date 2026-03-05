@@ -94,24 +94,24 @@ aliases:
 - 현미경
 has_id_wikidata: Q196538
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Hans_Lippershay,76468]]'
-- '[[_Standards/WikiData/WD~Zaccarias_Janssen,139518]]'
-- '[[_Standards/WikiData/WD~Hans_Janssen,105926271]]'
+- '[[_Standards/WikiData/WD~Hans_Lippershay,76468|WD~Hans_Lippershay,76468]]'
+- '[[_Standards/WikiData/WD~Zaccarias_Janssen,139518|WD~Zaccarias_Janssen,139518]]'
+- '[[_Standards/WikiData/WD~Hans_Janssen,105926271|WD~Hans_Janssen,105926271]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-has_use: '[[_Standards/WikiData/WD~observational_study,818574]]'
-subclass_of: '[[_Standards/WikiData/WD~optical_instrument,1751850]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+has_use: '[[_Standards/WikiData/WD~observational_study,818574|WD~observational_study,818574]]'
+subclass_of: '[[_Standards/WikiData/WD~optical_instrument,1751850|WD~optical_instrument,1751850]]'
 used_by:
-- '[[_Standards/WikiData/WD~biology,420]]'
-- '[[_Standards/WikiData/WD~scientist,901]]'
-different_from: '[[_Standards/WikiData/WD~Microscopium,10492]]'
+- '[[_Standards/WikiData/WD~biology,420|WD~biology,420]]'
+- '[[_Standards/WikiData/WD~scientist,901|WD~scientist,901]]'
+different_from: '[[_Standards/WikiData/WD~Microscopium,10492|WD~Microscopium,10492]]'
 Nomenclature_for_Museum_Cataloging: 9977
 Amazon_com_browse_node: 499170
 IMDb_keyword: microscope

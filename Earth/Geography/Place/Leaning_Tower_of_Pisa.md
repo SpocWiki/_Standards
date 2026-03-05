@@ -147,59 +147,59 @@ native_label: Torre di Pisa
 coordinate_location: Point(10.396624 43.72301)
 date_of_official_opening: 1373-01-01T00:00:00Z
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~bell,101401]]'
-- '[[_Standards/WikiData/WD~observation_deck,177305]]'
-- '[[_Standards/WikiData/WD~blind_arcade,883746]]'
-- '[[_Standards/WikiData/WD~tread,3289701]]'
-- '[[_Standards/WikiData/WD~bell_chamber,3664270]]'
-- '[[_Standards/WikiData/WD~column,4817]]'
-- '[[_Standards/WikiData/WD~stairs,12511]]'
+- '[[_Standards/WikiData/WD~bell,101401|WD~bell,101401]]'
+- '[[_Standards/WikiData/WD~observation_deck,177305|WD~observation_deck,177305]]'
+- '[[_Standards/WikiData/WD~blind_arcade,883746|WD~blind_arcade,883746]]'
+- '[[_Standards/WikiData/WD~tread,3289701|WD~tread,3289701]]'
+- '[[_Standards/WikiData/WD~bell_chamber,3664270|WD~bell_chamber,3664270]]'
+- '[[_Standards/WikiData/WD~column,4817|WD~column,4817]]'
+- '[[_Standards/WikiData/WD~stairs,12511|WD~stairs,12511]]'
 has_facility:
-- '[[_Standards/WikiData/WD~bookstore,200764]]'
-- '[[_Standards/WikiData/WD~archive_building,635719]]'
-- '[[_Standards/WikiData/WD~cloakroom,965173]]'
-- '[[_Standards/WikiData/WD~photo_archive,27032363]]'
-- '[[_Standards/WikiData/WD~restoration_laboratory,112203425]]'
-- '[[_Standards/WikiData/WD~library,7075]]'
+- '[[_Standards/WikiData/WD~bookstore,200764|WD~bookstore,200764]]'
+- '[[_Standards/WikiData/WD~archive_building,635719|WD~archive_building,635719]]'
+- '[[_Standards/WikiData/WD~cloakroom,965173|WD~cloakroom,965173]]'
+- '[[_Standards/WikiData/WD~photo_archive,27032363|WD~photo_archive,27032363]]'
+- '[[_Standards/WikiData/WD~restoration_laboratory,112203425|WD~restoration_laboratory,112203425]]'
+- '[[_Standards/WikiData/WD~library,7075|WD~library,7075]]'
 significant_event:
-- '[[_Standards/WikiData/WD~construction,385378]]'
-- '[[_Standards/WikiData/WD~ground_freezing,889779]]'
-- '[[_Standards/WikiData/WD~renovation,2144402]]'
-- '[[_Standards/WikiData/WD~digging,4232202]]'
-- '[[_Standards/WikiData/WD~installation,55237917]]'
-- '[[_Standards/WikiData/WD~construction_interrupted,95978231]]'
-- '[[_Standards/WikiData/WD~closure,100064047]]'
-diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Pisa,658891]]'
+- '[[_Standards/WikiData/WD~construction,385378|WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~ground_freezing,889779|WD~ground_freezing,889779]]'
+- '[[_Standards/WikiData/WD~renovation,2144402|WD~renovation,2144402]]'
+- '[[_Standards/WikiData/WD~digging,4232202|WD~digging,4232202]]'
+- '[[_Standards/WikiData/WD~installation,55237917|WD~installation,55237917]]'
+- '[[_Standards/WikiData/WD~construction_interrupted,95978231|WD~construction_interrupted,95978231]]'
+- '[[_Standards/WikiData/WD~closure,100064047|WD~closure,100064047]]'
+diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Pisa,658891|WD~Roman_Catholic_Archdiocese_of_Pisa,658891]]'
 architect:
-- '[[_Standards/WikiData/WD~Diotisalvi,763522]]'
-- '[[_Standards/WikiData/WD~Bonanno_Pisano,892084]]'
+- '[[_Standards/WikiData/WD~Diotisalvi,763522|WD~Diotisalvi,763522]]'
+- '[[_Standards/WikiData/WD~Bonanno_Pisano,892084|WD~Bonanno_Pisano,892084]]'
 named_after:
-- '[[_Standards/WikiData/WD~inclined_tower,797765]]'
-- '[[_Standards/WikiData/WD~tower,12518]]'
-- '[[_Standards/WikiData/WD~Pisa,13375]]'
+- '[[_Standards/WikiData/WD~inclined_tower,797765|WD~inclined_tower,797765]]'
+- '[[_Standards/WikiData/WD~tower,12518|WD~tower,12518]]'
+- '[[_Standards/WikiData/WD~Pisa,13375|WD~Pisa,13375]]'
 instance_of:
-- '[[_Standards/WikiData/WD~inclined_tower,797765]]'
-- '[[_Standards/WikiData/WD~steeple,5191724]]'
-- '[[_Standards/WikiData/WD~church_tower,72926449]]'
-part_of: '[[_Standards/WikiData/WD~Pisa_Cathedral,1754247]]'
-Wi_Fi_access: '[[_Standards/WikiData/WD~no,1814990]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-owned_by: '[[_Standards/WikiData/WD~Opera_della_Primaziale_Pisana,3883875]]'
-maintained_by: '[[_Standards/WikiData/WD~Opera_della_Primaziale_Pisana,3883875]]'
-disabled_accessibility: '[[_Standards/WikiData/WD~wheelchair_accessible,24192067]]'
+- '[[_Standards/WikiData/WD~inclined_tower,797765|WD~inclined_tower,797765]]'
+- '[[_Standards/WikiData/WD~steeple,5191724|WD~steeple,5191724]]'
+- '[[_Standards/WikiData/WD~church_tower,72926449|WD~church_tower,72926449]]'
+part_of: '[[_Standards/WikiData/WD~Pisa_Cathedral,1754247|WD~Pisa_Cathedral,1754247]]'
+Wi_Fi_access: '[[_Standards/WikiData/WD~no,1814990|WD~no,1814990]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+owned_by: '[[_Standards/WikiData/WD~Opera_della_Primaziale_Pisana,3883875|WD~Opera_della_Primaziale_Pisana,3883875]]'
+maintained_by: '[[_Standards/WikiData/WD~Opera_della_Primaziale_Pisana,3883875|WD~Opera_della_Primaziale_Pisana,3883875]]'
+disabled_accessibility: '[[_Standards/WikiData/WD~wheelchair_accessible,24192067|WD~wheelchair_accessible,24192067]]'
 heritage_designation:
-- '[[_Standards/WikiData/WD~Italian_national_heritage,26971668]]'
-- '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
-has_characteristic: '[[_Standards/WikiData/WD~inclination,68297121]]'
-located_on_street: '[[_Standards/WikiData/WD~Piazza_del_Duomo,95979838]]'
+- '[[_Standards/WikiData/WD~Italian_national_heritage,26971668|WD~Italian_national_heritage,26971668]]'
+- '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623|WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
+has_characteristic: '[[_Standards/WikiData/WD~inclination,68297121|WD~inclination,68297121]]'
+located_on_street: '[[_Standards/WikiData/WD~Piazza_del_Duomo,95979838|WD~Piazza_del_Duomo,95979838]]'
 inception: 1173-01-01T00:00:00Z
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
-offers_view_on: '[[_Standards/WikiData/WD~Pisa,13375]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Pisa,13375]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
+offers_view_on: '[[_Standards/WikiData/WD~Pisa,13375|WD~Pisa,13375]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Pisa,13375|WD~Pisa,13375]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~stone,22731]]'
-- '[[_Standards/WikiData/WD~marble,40861]]'
-country: '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~stone,22731|WD~stone,22731]]'
+- '[[_Standards/WikiData/WD~marble,40861|WD~marble,40861]]'
+country: '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
 employees:
 - 1
 - 5
@@ -212,9 +212,9 @@ visitors_per_year:
 - 215099
 - 564974
 - 579842
-shape: '[[_Standards/WikiData/WD~cylinder,34132]]'
+shape: '[[_Standards/WikiData/WD~cylinder,34132|WD~cylinder,34132]]'
 mass: 14700
-architectural_style: '[[_Standards/WikiData/WD~Romanesque_architecture,46261]]'
+architectural_style: '[[_Standards/WikiData/WD~Romanesque_architecture,46261|WD~Romanesque_architecture,46261]]'
 angle_from_vertical: 5.115
 height: 58.36
 diameter:
@@ -358,7 +358,7 @@ dv_has_:
 
 # [[Leaning_Tower_of_Pisa]] 
 
-![[../../../assets/Leaning_Tower_of_Pisa.png]] 
+![[../../../assets/Leaning_Tower_of_Pisa.png|Leaning_Tower_of_Pisa.png]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Leaning_Tower_of_Pisa,39054|WD~Leaning_Tower_of_Pisa,39054]] 
 

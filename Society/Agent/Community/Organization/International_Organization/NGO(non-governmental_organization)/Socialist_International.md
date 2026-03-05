@@ -70,21 +70,21 @@ aliases:
 - 사회주의 인터내셔널
 has_id_wikidata: Q159454
 instance_of:
-- '[[_Standards/WikiData/WD~non_governmental_organization,79913]]'
-- '[[_Standards/WikiData/WD~political_international,2716508]]'
+- '[[_Standards/WikiData/WD~non_governmental_organization,79913|WD~non_governmental_organization,79913]]'
+- '[[_Standards/WikiData/WD~political_international,2716508|WD~political_international,2716508]]'
 political_ideology:
-- '[[_Standards/WikiData/WD~social_democracy,121254]]'
-- '[[_Standards/WikiData/WD~democratic_socialism,189280]]'
-different_from: '[[_Standards/WikiData/WD~Labour_and_Socialist_International,703593]]'
-archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-chairperson: '[[_Standards/WikiData/WD~Pedro_Sánchez,6070218]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~President_of_the_Socialist_International,27104951]]'
-has_characteristic: '[[_Standards/WikiData/WD~United_Nations_General_Consultative_Status,131925847]]'
-headquarters_location: '[[_Standards/WikiData/WD~London,84]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~social_democracy,121254|WD~social_democracy,121254]]'
+- '[[_Standards/WikiData/WD~democratic_socialism,189280|WD~democratic_socialism,189280]]'
+different_from: '[[_Standards/WikiData/WD~Labour_and_Socialist_International,703593|WD~Labour_and_Socialist_International,703593]]'
+archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757|WD~International_Institute_of_Social_History,1667757]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+chairperson: '[[_Standards/WikiData/WD~Pedro_Sánchez,6070218|WD~Pedro_Sánchez,6070218]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~President_of_the_Socialist_International,27104951|WD~President_of_the_Socialist_International,27104951]]'
+has_characteristic: '[[_Standards/WikiData/WD~United_Nations_General_Consultative_Status,131925847|WD~United_Nations_General_Consultative_Status,131925847]]'
+headquarters_location: '[[_Standards/WikiData/WD~London,84|WD~London,84]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 member_count: 153
-legal_form: '[[_Standards/WikiData/WD~voluntary_association,48204]]'
+legal_form: '[[_Standards/WikiData/WD~voluntary_association,48204|WD~voluntary_association,48204]]'
 BHCL_UUID: 745a777b-47e3-4f00-8f60-5e54e17a1052
 inception: 1951-06-03T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Parties%20of%20Socialist%20International.svg

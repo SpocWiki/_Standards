@@ -80,16 +80,16 @@ aliases:
 - 전투
 has_id_wikidata: Q178561
 subclass_of:
-- '[[_Standards/WikiData/WD~armed_conflict,350604]]'
-- '[[_Standards/WikiData/WD~military_operation,645883]]'
-- '[[_Standards/WikiData/WD~combat,650711]]'
-- '[[_Standards/WikiData/WD~historical_event,13418847]]'
-- '[[_Standards/WikiData/WD~geographically_localized_event,123349687]]'
+- '[[_Standards/WikiData/WD~armed_conflict,350604|WD~armed_conflict,350604]]'
+- '[[_Standards/WikiData/WD~military_operation,645883|WD~military_operation,645883]]'
+- '[[_Standards/WikiData/WD~combat,650711|WD~combat,650711]]'
+- '[[_Standards/WikiData/WD~historical_event,13418847|WD~historical_event,13418847]]'
+- '[[_Standards/WikiData/WD~geographically_localized_event,123349687|WD~geographically_localized_event,123349687]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_conflict,125092269|WD~type_of_conflict,125092269]]'
 properties_for_this_type:
 - location
 - part of
@@ -101,7 +101,7 @@ properties_for_this_type:
 - order of battle
 - country
 Wikidata_property: participated in conflict
-part_of: '[[_Standards/WikiData/WD~war,198]]'
+part_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 IMDb_keyword: battle
 OmegaWiki_Defined_Meaning: 158617
 social_media_followers: 1411437

@@ -88,16 +88,16 @@ aliases:
 - 電子レンジ
 - 전자레인지
 has_id_wikidata: Q127956
-uses: '[[_Standards/WikiData/WD~microwave,127995]]'
-location_of_creation: '[[_Standards/WikiData/WD~Raytheon,156644]]'
-creator: '[[_Standards/WikiData/WD~Raytheon,156644]]'
+uses: '[[_Standards/WikiData/WD~microwave,127995|WD~microwave,127995]]'
+location_of_creation: '[[_Standards/WikiData/WD~Raytheon,156644|WD~Raytheon,156644]]'
+creator: '[[_Standards/WikiData/WD~Raytheon,156644|WD~Raytheon,156644]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~home_appliance,212920]]'
-- '[[_Standards/WikiData/WD~electrical_appliance,2425052]]'
-- '[[_Standards/WikiData/WD~cooking_appliance,57583712]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Percy_Spencer,451052]]'
-has_use: '[[../../../../WikiData/WD~heating,4311765]]'
-instance_of: '[[_Standards/WikiData/WD~cooking_appliance,57583712]]'
+- '[[_Standards/WikiData/WD~home_appliance,212920|WD~home_appliance,212920]]'
+- '[[_Standards/WikiData/WD~electrical_appliance,2425052|WD~electrical_appliance,2425052]]'
+- '[[_Standards/WikiData/WD~cooking_appliance,57583712|WD~cooking_appliance,57583712]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Percy_Spencer,451052|WD~Percy_Spencer,451052]]'
+has_use: '[[../../../../WikiData/WD~heating,4311765|WD~heating,4311765]]'
+instance_of: '[[_Standards/WikiData/WD~cooking_appliance,57583712|WD~cooking_appliance,57583712]]'
 Nomenclature_for_Museum_Cataloging: 4114
 OmegaWiki_Defined_Meaning: 1170137
 IMDb_keyword: microwave

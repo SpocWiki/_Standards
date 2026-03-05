@@ -74,15 +74,15 @@ aliases:
 - 포환던지기
 has_id_wikidata: Q180935
 record_or_record_progression:
-- '[[_Standards/WikiData/WD~Q143267,143267]]'
-- "[[_Standards/WikiData/WD~women's_shot_put_world_record_progression,32161]]"
-subclass_of: '[[_Standards/WikiData/WD~weight_throwing,259509]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
-practiced_by: '[[_Standards/WikiData/WD~shot_putter,18534714]]'
-uses: '[[_Standards/WikiData/WD~shot,108799817]]'
-sport: '[[_Standards/WikiData/WD~athletics,542]]'
-country_of_origin: '[[_Standards/WikiData/WD~Scotland,22]]'
+- '[[_Standards/WikiData/WD~Q143267,143267|WD~Q143267,143267]]'
+- "[[_Standards/WikiData/WD~women's_shot_put_world_record_progression,32161|WD~women's_shot_put_world_record_progression,32161]]"
+subclass_of: '[[_Standards/WikiData/WD~weight_throwing,259509|WD~weight_throwing,259509]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410|WD~sports_discipline,2312410]]'
+practiced_by: '[[_Standards/WikiData/WD~shot_putter,18534714|WD~shot_putter,18534714]]'
+uses: '[[_Standards/WikiData/WD~shot,108799817|WD~shot,108799817]]'
+sport: '[[_Standards/WikiData/WD~athletics,542|WD~athletics,542]]'
+country_of_origin: '[[_Standards/WikiData/WD~Scotland,22|WD~Scotland,22]]'
 Iconclass_notation: 43C34
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Remigius%20Machura%20senior%20CZ%20championships%20in%20athletics%20Kladno%202005.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Shot%20Put%20Pictogram.svg

@@ -62,22 +62,22 @@ aliases:
 - 식별자
 has_id_wikidata: Q853614
 different_from:
-- '[[_Standards/WikiData/WD~Universally_Unique_Identifier,195284]]'
-- '[[_Standards/WikiData/WD~globally_unique_identifier,254972]]'
-- '[[_Standards/WikiData/WD~persistent_identifier,420330]]'
-- '[[_Standards/WikiData/WD~identifier,1773882]]'
-- '[[_Standards/WikiData/WD~unique_identifier,6545185]]'
-- '[[_Standards/WikiData/WD~non-persistent_identifier,83378208]]'
-part_of: '[[_Standards/WikiData/WD~notation,2001982]]'
+- '[[_Standards/WikiData/WD~Universally_Unique_Identifier,195284|WD~Universally_Unique_Identifier,195284]]'
+- '[[_Standards/WikiData/WD~globally_unique_identifier,254972|WD~globally_unique_identifier,254972]]'
+- '[[_Standards/WikiData/WD~persistent_identifier,420330|WD~persistent_identifier,420330]]'
+- '[[_Standards/WikiData/WD~identifier,1773882|WD~identifier,1773882]]'
+- '[[_Standards/WikiData/WD~unique_identifier,6545185|WD~unique_identifier,6545185]]'
+- '[[_Standards/WikiData/WD~non-persistent_identifier,83378208|WD~non-persistent_identifier,83378208]]'
+part_of: '[[_Standards/WikiData/WD~notation,2001982|WD~notation,2001982]]'
 topic_s_main_category:
-- '[[_Standards/WikiData/WD~Category_Identifiers,6506565]]'
-- '[[_Standards/WikiData/WD~Q32753931,32753931]]'
+- '[[_Standards/WikiData/WD~Category_Identifiers,6506565|WD~Category_Identifiers,6506565]]'
+- '[[_Standards/WikiData/WD~Q32753931,32753931|WD~Q32753931,32753931]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~impermanence,6776685]]'
-- '[[_Standards/WikiData/WD~uniqueness,17548110]]'
-- '[[_Standards/WikiData/WD~permanence,20742557]]'
-- '[[_Standards/WikiData/WD~multiplicity,22976818]]'
-subclass_of: '[[_Standards/WikiData/WD~identifying_artifact,100792256]]'
+- '[[_Standards/WikiData/WD~impermanence,6776685|WD~impermanence,6776685]]'
+- '[[_Standards/WikiData/WD~uniqueness,17548110|WD~uniqueness,17548110]]'
+- '[[_Standards/WikiData/WD~permanence,20742557|WD~permanence,20742557]]'
+- '[[_Standards/WikiData/WD~multiplicity,22976818|WD~multiplicity,22976818]]'
+subclass_of: '[[_Standards/WikiData/WD~identifying_artifact,100792256|WD~identifying_artifact,100792256]]'
 main_Wikidata_property: record number
 OmegaWiki_Defined_Meaning: 1641235
 Commons_category: Identifiers
@@ -93,9 +93,9 @@ equivalent_class:
 - http://id.loc.gov/ontologies/bibframe/Identifier
 - http://edamontology.org/data_0842
 dv_is_:
-  same_as: '[[_Standards/WikiData/WD~identifier,853614]]'
+  same_as: '[[_Standards/WikiData/WD~identifier,853614|WD~identifier,853614]]'
   similar_to: '[[has_name]]'
-dv_is_same_as: '[[_Standards/WikiData/WD~identifier,853614]]'
+dv_is_same_as: '[[_Standards/WikiData/WD~identifier,853614|WD~identifier,853614]]'
 dv_is_similar_to: '[[has_name]]'
 dv_has_:
   name_:

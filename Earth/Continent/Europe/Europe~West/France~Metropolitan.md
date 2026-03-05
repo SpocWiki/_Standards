@@ -13,9 +13,9 @@ dv_has_name_en: France, Metropolitan
 dv_has_name_de: Frankreich, Metropolen
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: "[[../../Europe|Europe]]"
 dv_VehicleCode: F
-dv_Capital: "[[France/regions~France/Île-de-France/departments~Île-de-France/Paris]]"
+dv_Capital: "[[France/regions~France/Île-de-France/departments~Île-de-France/Paris|Paris]]"
 dv_Language-Id: 496
 dv_is_:
   same_as:

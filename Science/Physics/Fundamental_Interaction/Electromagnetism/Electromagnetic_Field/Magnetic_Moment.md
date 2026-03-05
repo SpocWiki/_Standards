@@ -56,20 +56,20 @@ aliases:
 - 자기 모멘트
 has_id_wikidata: Q242657
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~vector_quantity,2672914]]'
-- '[[_Standards/WikiData/WD~moment,13222844]]'
-- '[[_Standards/WikiData/WD~additive_quantity,117865208]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~vector_quantity,2672914|WD~vector_quantity,2672914]]'
+- '[[_Standards/WikiData/WD~moment,13222844|WD~moment,13222844]]'
+- '[[_Standards/WikiData/WD~additive_quantity,117865208|WD~additive_quantity,117865208]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936|WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945|WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 different_from:
-- '[[_Standards/WikiData/WD~magnetic_dipole_moment,71008556]]'
-- '[[_Standards/WikiData/WD~magnetic_dipole_moment,97143703]]'
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~ampere_square_metre,71581529]]'
+- '[[_Standards/WikiData/WD~magnetic_dipole_moment,71008556|WD~magnetic_dipole_moment,71008556]]'
+- '[[_Standards/WikiData/WD~magnetic_dipole_moment,97143703|WD~magnetic_dipole_moment,97143703]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~ampere_square_metre,71581529|WD~ampere_square_metre,71581529]]'
 in_defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msub><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D486</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">n</mi></mrow></mrow></msub></mstyle></mrow></math>"
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D48E</mi></mrow></mstyle></mrow></math>"

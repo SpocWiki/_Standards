@@ -170,11 +170,11 @@ cssclasses:
 - private
 - note
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 draft: true
 end_time: 1500-06
 excalidraw_autoexport: svg
@@ -187,15 +187,15 @@ has_time_stopped: 1500-06
 Iconclass_notation: 23T25
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich-barbarossa-und-soehne-welfenchronik%201-1000x1540.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~age,17522177]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~age,17522177|WD~age,17522177]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
 isDeleted: false
 isReadOnly: false
 keywords: Middle_Ages
 layout: ''
 license: (c)copyrighted
 linkTitle: Middle_Ages
-locations: '[[_Standards/WikiData/WD~Europe,46]]'
+locations: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 MeSH_tree_code: K01.400.500
 OmegaWiki_Defined_Meaning: 1757744
 OpenStreetMap_tag_or_key: Tag:historic:civilization=middle-ages
@@ -207,18 +207,18 @@ Stack_Exchange_tag: https://history.stackexchange.com/questions/tagged/middle-ag
 Stadtwiki_Dresden_article: Mittelalter
 start_time: 0476-06
 studied_in:
-- '[[_Standards/WikiData/WD~medieval_archaeology,1671076]]'
-- '[[_Standards/WikiData/WD~medieval_history,27992545]]'
-- '[[_Standards/WikiData/WD~medieval_studies,119190]]'
+- '[[_Standards/WikiData/WD~medieval_archaeology,1671076|WD~medieval_archaeology,1671076]]'
+- '[[_Standards/WikiData/WD~medieval_history,27992545|WD~medieval_history,27992545]]'
+- '[[_Standards/WikiData/WD~medieval_studies,119190|WD~medieval_studies,119190]]'
 tags:
 - Middle_Ages
 - excalidraw
 title:
 - - Middle_Ages
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Middle_Ages,3248279]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Middle_Ages,3248279|WD~Portal_Middle_Ages,3248279]]'
 type: private_note
 U_S_National_Archives_Identifier: 10641432
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Middle_Ages,7112768]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Middle_Ages,7112768|WD~outline_of_the_Middle_Ages,7112768]]'
 WordLift_URL: http://data.thenextweb.com/tnw/entity/middle_ages
 dv_has_:
   duration_: P-524Y-10M-1D

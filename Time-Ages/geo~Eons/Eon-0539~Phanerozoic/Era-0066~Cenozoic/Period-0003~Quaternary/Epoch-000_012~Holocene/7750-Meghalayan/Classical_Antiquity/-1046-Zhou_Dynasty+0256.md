@@ -71,27 +71,27 @@ aliases:
 - 周朝
 - 주나라
 has_id_wikidata: Q35216
-follows: '[[_Standards/WikiData/WD~Shang_dynasty,128938]]'
+follows: '[[_Standards/WikiData/WD~Shang_dynasty,128938|WD~Shang_dynasty,128938]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530|WD~Records_of_the_Grand_Historian,272530]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Eastern_Zhou,307066]]'
-- '[[_Standards/WikiData/WD~Western_Zhou,1069609]]'
+- '[[_Standards/WikiData/WD~Eastern_Zhou,307066|WD~Eastern_Zhou,307066]]'
+- '[[_Standards/WikiData/WD~Western_Zhou,1069609|WD~Western_Zhou,1069609]]'
 instance_of:
-- '[[_Standards/WikiData/WD~ancient_Chinese_state,836688]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-- '[[_Standards/WikiData/WD~Chinese_dynasty,12857432]]'
+- '[[_Standards/WikiData/WD~ancient_Chinese_state,836688|WD~ancient_Chinese_state,836688]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~Chinese_dynasty,12857432|WD~Chinese_dynasty,12857432]]'
 currency:
-- '[[_Standards/WikiData/WD~spade_money,949922]]'
-- '[[_Standards/WikiData/WD~knife_money,1069036]]'
-country: '[[_Standards/WikiData/WD~Chinese_Empire,12060881]]'
-different_from: '[[_Standards/WikiData/WD~Zhou,131914472]]'
-replaced_by: '[[_Standards/WikiData/WD~Qin_dynasty,7183]]'
-followed_by: '[[_Standards/WikiData/WD~Qin_dynasty,7183]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
-official_language: '[[_Standards/WikiData/WD~Old_Chinese,35137]]'
+- '[[_Standards/WikiData/WD~spade_money,949922|WD~spade_money,949922]]'
+- '[[_Standards/WikiData/WD~knife_money,1069036|WD~knife_money,1069036]]'
+country: '[[_Standards/WikiData/WD~Chinese_Empire,12060881|WD~Chinese_Empire,12060881]]'
+different_from: '[[_Standards/WikiData/WD~Zhou,131914472|WD~Zhou,131914472]]'
+replaced_by: '[[_Standards/WikiData/WD~Qin_dynasty,7183|WD~Qin_dynasty,7183]]'
+followed_by: '[[_Standards/WikiData/WD~Qin_dynasty,7183|WD~Qin_dynasty,7183]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+official_language: '[[_Standards/WikiData/WD~Old_Chinese,35137|WD~Old_Chinese,35137]]'
 inception: -1045-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zhou%20capitales.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Zhou%20dynasty%201000%20BC.png

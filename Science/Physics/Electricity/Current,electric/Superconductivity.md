@@ -81,19 +81,19 @@ aliases:
 - 초전도 현상
 has_id_wikidata: Q124131
 studied_by:
-- '[[_Standards/WikiData/WD~materials_science,228736]]'
-- '[[_Standards/WikiData/WD~BCS_theory,722131]]'
-- '[[_Standards/WikiData/WD~cryophysics,908692]]'
+- '[[_Standards/WikiData/WD~materials_science,228736|WD~materials_science,228736]]'
+- '[[_Standards/WikiData/WD~BCS_theory,722131|WD~BCS_theory,722131]]'
+- '[[_Standards/WikiData/WD~cryophysics,908692|WD~cryophysics,908692]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_state,230855]]'
-- '[[_Standards/WikiData/WD~electrical_conductivity,4593291]]'
+- '[[_Standards/WikiData/WD~physical_state,230855|WD~physical_state,230855]]'
+- '[[_Standards/WikiData/WD~electrical_conductivity,4593291|WD~electrical_conductivity,4593291]]'
 different_from:
-- '[[_Standards/WikiData/WD~color_superconductivity,1396451]]'
-- '[[_Standards/WikiData/WD~superconductor,16331841]]'
+- '[[_Standards/WikiData/WD~color_superconductivity,1396451|WD~color_superconductivity,1396451]]'
+- '[[_Standards/WikiData/WD~superconductor,16331841|WD~superconductor,16331841]]'
 instance_of:
-- '[[_Standards/WikiData/WD~macroscopic_quantum_phenomena,3457198]]'
-- '[[_Standards/WikiData/WD~type_of_property,96253971]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Superconductivity,123383284]]'
+- '[[_Standards/WikiData/WD~macroscopic_quantum_phenomena,3457198|WD~macroscopic_quantum_phenomena,3457198]]'
+- '[[_Standards/WikiData/WD~type_of_property,96253971|WD~type_of_property,96253971]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Superconductivity,123383284|WD~Template_Superconductivity,123383284]]'
 U_S_National_Archives_Identifier: 10675917
 OmegaWiki_Defined_Meaning: 426523
 Basisklassifikation: 33.74

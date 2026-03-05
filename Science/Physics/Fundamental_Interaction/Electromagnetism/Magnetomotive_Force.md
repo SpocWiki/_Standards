@@ -40,15 +40,15 @@ aliases:
 - 기자력
 has_id_wikidata: Q1266982
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-different_from: '[[_Standards/WikiData/WD~magnetic_tension,77993836]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936|WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945|WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+different_from: '[[_Standards/WikiData/WD~magnetic_tension,77993836|WD~magnetic_tension,77993836]]'
 in_defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46F</mi></mrow></mstyle></mrow></math>"
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msub><mstyle displaystyle=\"true\"><mo>&#x222E;</mo></mstyle><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A2</mi></mrow></mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46F</mi></mrow><mo stretchy=\"false\">&#x22C5;</mo><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">d</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D493</mi></mrow></mstyle></mrow></math>"
@@ -58,7 +58,7 @@ in_defining_formula:
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A8</mi></mrow></mstyle></mrow></math>"
 defining_formula: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msub><mi>F</mi><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">m</mi></mrow></mrow></msub><mo stretchy=\"false\">=</mo><msub><mstyle displaystyle=\"true\"><mo>&#x222E;</mo></mstyle><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A2</mi></mrow></mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46F</mi></mrow><mo stretchy=\"false\">&#x22C5;</mo><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">d</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D493</mi></mrow></mstyle></mrow></math>"
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>F</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">m</mi></mrow></mrow></msub></mstyle></mrow></math>
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~ampere,25272]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~ampere,25272|WD~ampere,25272]]'
 IEV_number: 121-11-60
 short_name: mmf
 dv_has_:

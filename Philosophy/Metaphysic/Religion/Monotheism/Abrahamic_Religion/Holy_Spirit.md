@@ -105,20 +105,20 @@ aliases:
 - 성령
 has_id_wikidata: Q37302
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519|WD~New_World_Encyclopedia,116780519]]'
 instance_of:
-- '[[_Standards/WikiData/WD~hypostasis,651118]]'
-- '[[_Standards/WikiData/WD~biblical_concept,30149195]]'
-part_of: '[[_Standards/WikiData/WD~divine_providence,866338]]'
-studied_by: '[[_Standards/WikiData/WD~pneumatology,1424668]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Holy_Spirit_in_Islam,13815910]]'
-iconographic_symbol: '[[_Standards/WikiData/WD~dove,113546704]]'
-subclass_of: '[[_Standards/WikiData/WD~Holy_Trinity,37090]]'
+- '[[_Standards/WikiData/WD~hypostasis,651118|WD~hypostasis,651118]]'
+- '[[_Standards/WikiData/WD~biblical_concept,30149195|WD~biblical_concept,30149195]]'
+part_of: '[[_Standards/WikiData/WD~divine_providence,866338|WD~divine_providence,866338]]'
+studied_by: '[[_Standards/WikiData/WD~pneumatology,1424668|WD~pneumatology,1424668]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Holy_Spirit_in_Islam,13815910|WD~Holy_Spirit_in_Islam,13815910]]'
+iconographic_symbol: '[[_Standards/WikiData/WD~dove,113546704|WD~dove,113546704]]'
+subclass_of: '[[_Standards/WikiData/WD~Holy_Trinity,37090|WD~Holy_Trinity,37090]]'
 OmegaWiki_Defined_Meaning: 385415
 Commons_category: Holy Spirit
 Iconclass_notation: 11E

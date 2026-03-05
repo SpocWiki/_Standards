@@ -56,19 +56,19 @@ aliases:
 - 本初子午线
 - 본초 자오선
 has_id_wikidata: Q3401774
-different_from: '[[_Standards/WikiData/WD~Greenwich_meridian,131108]]'
-opposite_of: '[[_Standards/WikiData/WD~180th_meridian,838283]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]'
+different_from: '[[_Standards/WikiData/WD~Greenwich_meridian,131108|WD~Greenwich_meridian,131108]]'
+opposite_of: '[[_Standards/WikiData/WD~180th_meridian,838283|WD~180th_meridian,838283]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062|WD~Antarctic_Treaty_area,21590062]]'
 country:
-- '[[_Standards/WikiData/WD~Algeria,262]]'
-- '[[_Standards/WikiData/WD~Mali,912]]'
-- '[[_Standards/WikiData/WD~Togo,945]]'
-- '[[_Standards/WikiData/WD~Burkina_Faso,965]]'
-- '[[_Standards/WikiData/WD~Spain,29]]'
-- '[[_Standards/WikiData/WD~Ghana,117]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-subclass_of: '[[_Standards/WikiData/WD~meridian,32099]]'
+- '[[_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Mali,912|WD~Mali,912]]'
+- '[[_Standards/WikiData/WD~Togo,945|WD~Togo,945]]'
+- '[[_Standards/WikiData/WD~Burkina_Faso,965|WD~Burkina_Faso,965]]'
+- '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Ghana,117|WD~Ghana,117]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+subclass_of: '[[_Standards/WikiData/WD~meridian,32099|WD~meridian,32099]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20Cosmographicae%20%28Mercator%29%20033.jpg
 Commons_category: Prime meridian
 dv_is_:

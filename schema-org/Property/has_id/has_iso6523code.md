@@ -37,13 +37,13 @@ dv_is_:
     - "[[/_personal/schema-org/Property/has_name/has_iso6523code.personal|has_iso6523code.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_iso6523code.secret|has_iso6523code.secret]]"
 dv_has_:
-  domain: "[[../../../Society/Agent/Community/Organization]]"
+  domain: "[[../../../Society/Agent/Community/Organization|Organization]]"
   name: has_text_of_iso6523code
-  range: "[[../../Class/is_a_/Data_Type/Text]]"
+  range: "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_part_of: "pending:"
-dv_has_domain: "[[../../../Society/Agent/Community/Organization]]"
+dv_has_domain: "[[../../../Society/Agent/Community/Organization|Organization]]"
 dv_has_name: has_text_of_iso6523code
-dv_has_range: "[[../../Class/is_a_/Data_Type/Text]]"
+dv_has_range: "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[has_iso6523code]]"
   - "[[/_public/schema-org/Property/has_name/has_iso6523code.public|has_iso6523code.public]]"

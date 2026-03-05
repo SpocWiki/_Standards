@@ -70,58 +70,58 @@ tags:
 title: Polk,James_K
 type: private_note
 occupation:
-- '[[_Standards/WikiData/WD~politician,82955]]'
-- '[[_Standards/WikiData/WD~farmer,131512]]'
-- '[[_Standards/WikiData/WD~statesperson,372436]]'
-- '[[_Standards/WikiData/WD~lawyer,40348]]'
-educated_at: '[[_Standards/WikiData/WD~University_of_North_Carolina_at_Chapel_Hill,192334]]'
-spouse: '[[_Standards/WikiData/WD~Sarah_Childress_Polk,234285]]'
+- '[[_Standards/WikiData/WD~politician,82955|WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~farmer,131512|WD~farmer,131512]]'
+- '[[_Standards/WikiData/WD~statesperson,372436|WD~statesperson,372436]]'
+- '[[_Standards/WikiData/WD~lawyer,40348|WD~lawyer,40348]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_North_Carolina_at_Chapel_Hill,192334|WD~University_of_North_Carolina_at_Chapel_Hill,192334]]'
+spouse: '[[_Standards/WikiData/WD~Sarah_Childress_Polk,234285|WD~Sarah_Childress_Polk,234285]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~A_New_Nation_Votes_American_Electoral_Returns,_1788_1825,104218168]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~A_New_Nation_Votes_American_Electoral_Returns,_1788_1825,104218168|WD~A_New_Nation_Votes_American_Electoral_Returns,_1788_1825,104218168]]'
 given_name:
-- '[[_Standards/WikiData/WD~James,677191]]'
-- '[[_Standards/WikiData/WD~Knox,38202435]]'
+- '[[_Standards/WikiData/WD~James,677191|WD~James,677191]]'
+- '[[_Standards/WikiData/WD~Knox,38202435|WD~Knox,38202435]]'
 position_held:
-- '[[_Standards/WikiData/WD~Speaker_of_the_United_States_House_of_Representatives,912994]]'
-- '[[_Standards/WikiData/WD~President_elect_of_the_United_States,1467287]]'
-- '[[_Standards/WikiData/WD~Governor_of_Tennessee,5589724]]'
-- '[[_Standards/WikiData/WD~member_of_the_United_States_House_of_Representatives,13218630]]'
-- '[[_Standards/WikiData/WD~President_of_the_United_States,11696]]'
-place_of_birth: '[[_Standards/WikiData/WD~Pineville,2029607]]'
-place_of_burial: '[[_Standards/WikiData/WD~Tennessee_State_Capitol,2570396]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-archives_at: '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
-social_classification: '[[_Standards/WikiData/WD~slave_owner,10076267]]'
-family_name: '[[_Standards/WikiData/WD~Polk,20748935]]'
-father: '[[_Standards/WikiData/WD~Samuel_Polk,20767911]]'
-mother: '[[_Standards/WikiData/WD~Jane_Knox,75766519]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+- '[[_Standards/WikiData/WD~Speaker_of_the_United_States_House_of_Representatives,912994|WD~Speaker_of_the_United_States_House_of_Representatives,912994]]'
+- '[[_Standards/WikiData/WD~President_elect_of_the_United_States,1467287|WD~President_elect_of_the_United_States,1467287]]'
+- '[[_Standards/WikiData/WD~Governor_of_Tennessee,5589724|WD~Governor_of_Tennessee,5589724]]'
+- '[[_Standards/WikiData/WD~member_of_the_United_States_House_of_Representatives,13218630|WD~member_of_the_United_States_House_of_Representatives,13218630]]'
+- '[[_Standards/WikiData/WD~President_of_the_United_States,11696|WD~President_of_the_United_States,11696]]'
+place_of_birth: '[[_Standards/WikiData/WD~Pineville,2029607|WD~Pineville,2029607]]'
+place_of_burial: '[[_Standards/WikiData/WD~Tennessee_State_Capitol,2570396|WD~Tennessee_State_Capitol,2570396]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+archives_at: '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887|WD~New_York_Public_Library_Main_Branch,7013887]]'
+social_classification: '[[_Standards/WikiData/WD~slave_owner,10076267|WD~slave_owner,10076267]]'
+family_name: '[[_Standards/WikiData/WD~Polk,20748935|WD~Polk,20748935]]'
+father: '[[_Standards/WikiData/WD~Samuel_Polk,20767911|WD~Samuel_Polk,20767911]]'
+mother: '[[_Standards/WikiData/WD~Jane_Knox,75766519|WD~Jane_Knox,75766519]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821|WD~WikiProject_New_York_Public_Library,121437821]]'
 date_of_death: 1849-06-15T00:00:00Z
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~Latin,397]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Greek,9129]]'
-native_language: '[[_Standards/WikiData/WD~English,1860]]'
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
-cause_of_death: '[[_Standards/WikiData/WD~Cholera,12090]]'
-place_of_death: '[[_Standards/WikiData/WD~Nashville,23197]]'
-member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
-work_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+- '[[_Standards/WikiData/WD~Latin,397|WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Greek,9129|WD~Greek,9129]]'
+native_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+cause_of_death: '[[_Standards/WikiData/WD~Cholera,12090|WD~Cholera,12090]]'
+place_of_death: '[[_Standards/WikiData/WD~Nashville,23197|WD~Nashville,23197]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552|WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+work_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61|WD~Washington,_D.C.,61]]'
 number_of_children: 0
-religion_or_worldview: '[[_Standards/WikiData/WD~Methodism,33203]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Methodism,33203|WD~Methodism,33203]]'
 height: 173
 U_S_National_Archives_Identifier: 10569778
 Commons_gallery: James Knox Polk
@@ -139,7 +139,7 @@ pseudonym: Young Hickory
 name_in_native_language: James K. Polk
 birth_name: James Knox Polk
 date_of_birth: 1795-11-02T00:00:00Z
-dv_has_role: '[[../US_President]]'
+dv_has_role: '[[../US_President|US_President]]'
 dv_created: 1845-03-04
 dv_cancelled: 1849-03-04
 dv_has_:
@@ -305,7 +305,7 @@ dv_has_:
   time_:
     started: 1795-11-02T00:00:00.000+00:53
     stopped: 1849-06-15T00:00:00.000+00:53
-dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]'
+dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party|US~Democratic_Party]]'
 dv_is_:
   same_as:
   - '[[../../../../WikiData/WD~James_K._Polk,11891|WD~James_K._Polk,11891]]'
@@ -335,7 +335,7 @@ has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped`
 is_member_of = `=this.dv_is_member_of`]] ]  
 
--   [has_role :: [[../US_President]] ] [created:: 1845-03-04]cancelled = `=this.dv_cancelled`
+-   [has_role :: [[../US_President|US_President]] ] [created:: 1845-03-04]cancelled = `=this.dv_cancelled`
 
 #is_/same_as :: [[../../../../WikiData/WD~James_K._Polk,11891|WD~James_K._Polk,11891]] 
 

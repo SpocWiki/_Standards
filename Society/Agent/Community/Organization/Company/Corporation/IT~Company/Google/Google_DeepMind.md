@@ -16,32 +16,32 @@ aliases:
 - กูเกิล ดีปไมด์
 - 딥마인드
 has_id_wikidata: Q15733006
-legal_form: '[[_Standards/WikiData/WD~subsidiary_company,658255]]'
+legal_form: '[[_Standards/WikiData/WD~subsidiary_company,658255|WD~subsidiary_company,658255]]'
 instance_of:
-- '[[_Standards/WikiData/WD~subsidiary_company,658255]]'
-- '[[_Standards/WikiData/WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~subsidiary_company,658255|WD~subsidiary_company,658255]]'
+- '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
 headquarters_location:
-- '[[_Standards/WikiData/WD~Googleplex,694178]]'
-- '[[_Standards/WikiData/WD~London,84]]'
-investor: '[[_Standards/WikiData/WD~Founders_Fund,1439864]]'
+- '[[_Standards/WikiData/WD~Googleplex,694178|WD~Googleplex,694178]]'
+- '[[_Standards/WikiData/WD~London,84|WD~London,84]]'
+investor: '[[_Standards/WikiData/WD~Founders_Fund,1439864|WD~Founders_Fund,1439864]]'
 founded_by:
-- '[[../../../../../../../../WikiData/WD~Demis_Hassabis,3022141]]'
-- '[[_Standards/WikiData/WD~Mustafa_Süleyman,16847797]]'
-- '[[_Standards/WikiData/WD~Shane_Legg,22278829]]'
-parent_organization_or_unit: '[[../../../../../../../../WikiData/WD~Alphabet_Inc.,20800404]]'
+- '[[../../../../../../../../WikiData/WD~Demis_Hassabis,3022141|WD~Demis_Hassabis,3022141]]'
+- '[[_Standards/WikiData/WD~Mustafa_Süleyman,16847797|WD~Mustafa_Süleyman,16847797]]'
+- '[[_Standards/WikiData/WD~Shane_Legg,22278829|WD~Shane_Legg,22278829]]'
+parent_organization_or_unit: '[[../../../../../../../../WikiData/WD~Alphabet_Inc.,20800404|WD~Alphabet_Inc.,20800404]]'
 owned_by:
-- '[[../../../../../../../../WikiData/WD~Alphabet_Inc.,20800404]]'
-- '[[_Standards/WikiData/WD~Google,95]]'
+- '[[../../../../../../../../WikiData/WD~Alphabet_Inc.,20800404|WD~Alphabet_Inc.,20800404]]'
+- '[[_Standards/WikiData/WD~Google,95|WD~Google,95]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~AlphaGo,22329209]]'
-- '[[_Standards/WikiData/WD~AlphaGo_Zero,42259287]]'
-- '[[_Standards/WikiData/WD~AlphaFold,60827595]]'
-- '[[_Standards/WikiData/WD~Gemini,123688361]]'
-official_podcast: '[[_Standards/WikiData/WD~Google_DeepMind_The_Podcast,134404957]]'
+- '[[_Standards/WikiData/WD~AlphaGo,22329209|WD~AlphaGo,22329209]]'
+- '[[_Standards/WikiData/WD~AlphaGo_Zero,42259287|WD~AlphaGo_Zero,42259287]]'
+- '[[_Standards/WikiData/WD~AlphaFold,60827595|WD~AlphaFold,60827595]]'
+- '[[_Standards/WikiData/WD~Gemini,123688361|WD~Gemini,123688361]]'
+official_podcast: '[[_Standards/WikiData/WD~Google_DeepMind_The_Podcast,134404957|WD~Google_DeepMind_The_Podcast,134404957]]'
 coordinate_location: Point(-0.126003 51.533261)
-industry: '[[_Standards/WikiData/WD~artificial_intelligence,11660]]'
-location_of_formation: '[[_Standards/WikiData/WD~London,84]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+industry: '[[_Standards/WikiData/WD~artificial_intelligence,11660|WD~artificial_intelligence,11660]]'
+location_of_formation: '[[_Standards/WikiData/WD~London,84|WD~London,84]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 employees: 10000
 social_media_followers:
 - 656000
@@ -122,7 +122,7 @@ dv_has_:
 
 # [[Google_DeepMind]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Google_DeepMind,15733006]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Google_DeepMind,15733006|WD~Google_DeepMind,15733006]] 
 
 ## #has_/text_of_/abstract 
 

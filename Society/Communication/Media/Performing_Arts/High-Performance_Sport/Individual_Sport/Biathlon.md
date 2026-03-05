@@ -40,29 +40,29 @@ aliases:
 - 바이애슬론
 has_id_wikidata: Q166788
 uses:
-- '[[_Standards/WikiData/WD~rifle,124072]]'
-- '[[_Standards/WikiData/WD~ski,172226]]'
+- '[[_Standards/WikiData/WD~rifle,124072|WD~rifle,124072]]'
+- '[[_Standards/WikiData/WD~ski,172226|WD~ski,172226]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~cross_country_skiing,179687]]'
-- '[[_Standards/WikiData/WD~shooting_sport,206989]]'
+- '[[_Standards/WikiData/WD~cross_country_skiing,179687|WD~cross_country_skiing,179687]]'
+- '[[_Standards/WikiData/WD~shooting_sport,206989|WD~shooting_sport,206989]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~winter_sport,204686]]'
-- '[[_Standards/WikiData/WD~individual_sport,2755547]]'
-- '[[_Standards/WikiData/WD~multisport_race,31645]]'
+- '[[_Standards/WikiData/WD~winter_sport,204686|WD~winter_sport,204686]]'
+- '[[_Standards/WikiData/WD~individual_sport,2755547|WD~individual_sport,2755547]]'
+- '[[_Standards/WikiData/WD~multisport_race,31645|WD~multisport_race,31645]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 different_from:
-- '[[_Standards/WikiData/WD~duathlon,429006]]'
-- '[[_Standards/WikiData/WD~biathle,452172]]'
-- '[[_Standards/WikiData/WD~Waffenlauf,2538895]]'
-authority: '[[_Standards/WikiData/WD~International_Biathlon_Union,866910]]'
-replaces: '[[_Standards/WikiData/WD~military_patrol,2418434]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Biathlon,8207868]]'
+- '[[_Standards/WikiData/WD~duathlon,429006|WD~duathlon,429006]]'
+- '[[_Standards/WikiData/WD~biathle,452172|WD~biathle,452172]]'
+- '[[_Standards/WikiData/WD~Waffenlauf,2538895|WD~Waffenlauf,2538895]]'
+authority: '[[_Standards/WikiData/WD~International_Biathlon_Union,866910|WD~International_Biathlon_Union,866910]]'
+replaces: '[[_Standards/WikiData/WD~military_patrol,2418434|WD~military_patrol,2418434]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Biathlon,8207868|WD~Portal_Biathlon,8207868]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~biathlete,16029547]]'
-- '[[_Standards/WikiData/WD~biathlon_coach,19960661]]'
-- '[[_Standards/WikiData/WD~military_skier,117667098]]'
+- '[[_Standards/WikiData/WD~biathlete,16029547|WD~biathlete,16029547]]'
+- '[[_Standards/WikiData/WD~biathlon_coach,19960661|WD~biathlon_coach,19960661]]'
+- '[[_Standards/WikiData/WD~military_skier,117667098|WD~military_skier,117667098]]'
 Commons_gallery: Biathlon
 Commons_category: Biathlon
 BHCL_UUID: a7876f7c-2cab-42c5-8cd1-142259449685

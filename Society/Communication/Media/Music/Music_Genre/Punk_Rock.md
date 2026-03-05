@@ -49,23 +49,23 @@ aliases:
 - 龐克搖滾
 - 펑크 록
 has_id_wikidata: Q3071
-part_of: '[[_Standards/WikiData/WD~punk_subculture,153946]]'
-instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
-followed_by: '[[_Standards/WikiData/WD~post_punk,598929]]'
-different_from: '[[_Standards/WikiData/WD~funk_rock,835891]]'
-history_of_topic: '[[_Standards/WikiData/WD~origins_of_punk_rock,3885865]]'
+part_of: '[[_Standards/WikiData/WD~punk_subculture,153946|WD~punk_subculture,153946]]'
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+followed_by: '[[_Standards/WikiData/WD~post_punk,598929|WD~post_punk,598929]]'
+different_from: '[[_Standards/WikiData/WD~funk_rock,835891|WD~funk_rock,835891]]'
+history_of_topic: '[[_Standards/WikiData/WD~origins_of_punk_rock,3885865|WD~origins_of_punk_rock,3885865]]'
 has_list:
-- '[[_Standards/WikiData/WD~list_of_punk_rock_albums,6635731]]'
-- '[[_Standards/WikiData/WD~list_of_1970s_punk_rock_musicians,16820456]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Punk,10716707]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Punk_rock,14616114]]'
-subclass_of: '[[_Standards/WikiData/WD~punk_music,25554481]]'
+- '[[_Standards/WikiData/WD~list_of_punk_rock_albums,6635731|WD~list_of_punk_rock_albums,6635731]]'
+- '[[_Standards/WikiData/WD~list_of_1970s_punk_rock_musicians,16820456|WD~list_of_1970s_punk_rock_musicians,16820456]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Punk,10716707|WD~Template_Punk,10716707]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Punk_rock,14616114|WD~Portal_Punk_rock,14616114]]'
+subclass_of: '[[_Standards/WikiData/WD~punk_music,25554481|WD~punk_music,25554481]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 location_of_formation:
-- '[[_Standards/WikiData/WD~New_York_City,60]]'
-- '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~London,84|WD~London,84]]'
 subreddit: punkrock
 inception: 1975-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SexPistolsNorway1977.jpg

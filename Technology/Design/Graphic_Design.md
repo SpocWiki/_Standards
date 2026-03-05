@@ -74,15 +74,15 @@ aliases:
 - 그래픽 디자인
 has_id_wikidata: Q185925
 part_of:
-- '[[_Standards/WikiData/WD~design,82604]]'
-- '[[_Standards/WikiData/WD~communication,11024]]'
-subclass_of: '[[_Standards/WikiData/WD~design,82604]]'
-practiced_by: '[[_Standards/WikiData/WD~graphic_designer,627325]]'
+- '[[_Standards/WikiData/WD~design,82604|WD~design,82604]]'
+- '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
+subclass_of: '[[_Standards/WikiData/WD~design,82604|WD~design,82604]]'
+practiced_by: '[[_Standards/WikiData/WD~graphic_designer,627325|WD~graphic_designer,627325]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~advertising,37038]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~advertising,37038|WD~advertising,37038]]'
 Colon_Classification: NM
 Basisklassifikation: 21.37
 Stack_Exchange_site_URL: https://graphicdesign.stackexchange.com/

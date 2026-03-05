@@ -53,16 +53,16 @@ aliases:
 - 裏切り
 - 배신
 has_id_wikidata: Q2166722
-opposite_of: '[[_Standards/WikiData/WD~loyalty,1132131]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~transgression,3537603]]'
+opposite_of: '[[_Standards/WikiData/WD~loyalty,1132131|WD~loyalty,1132131]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~transgression,3537603|WD~transgression,3537603]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~transgression,3537603]]'
-- '[[_Standards/WikiData/WD~human_activity,61788060]]'
-used_by: '[[_Standards/WikiData/WD~con_artist,10591707]]'
-practiced_by: '[[_Standards/WikiData/WD~betrayer,55176871]]'
-described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~infidelity,122228115]]'
-physically_interacts_with: '[[_Standards/WikiData/WD~Anger_of_God_in_Islam,125946849]]'
+- '[[_Standards/WikiData/WD~transgression,3537603|WD~transgression,3537603]]'
+- '[[_Standards/WikiData/WD~human_activity,61788060|WD~human_activity,61788060]]'
+used_by: '[[_Standards/WikiData/WD~con_artist,10591707|WD~con_artist,10591707]]'
+practiced_by: '[[_Standards/WikiData/WD~betrayer,55176871|WD~betrayer,55176871]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~infidelity,122228115|WD~infidelity,122228115]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~Anger_of_God_in_Islam,125946849|WD~Anger_of_God_in_Islam,125946849]]'
 IMDb_keyword: betrayal
 Iconclass_notation: 57AA6142
 P8189: 987007530284305171

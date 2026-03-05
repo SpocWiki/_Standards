@@ -61,30 +61,30 @@ aliases:
 - 多面體
 - 다면체
 has_id_wikidata: Q172937
-studied_by: '[[_Standards/WikiData/WD~solid_geometry,207648]]'
+studied_by: '[[_Standards/WikiData/WD~solid_geometry,207648|WD~solid_geometry,207648]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~polytope,747980]]'
-- '[[_Standards/WikiData/WD~solid_figure,937946]]'
+- '[[_Standards/WikiData/WD~polytope,747980|WD~polytope,747980]]'
+- '[[_Standards/WikiData/WD~solid_figure,937946|WD~solid_figure,937946]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 model_item:
-- '[[_Standards/WikiData/WD~small_stellated_dodecahedron,1234054]]'
-- '[[_Standards/WikiData/WD~octagonal_prism,3100797]]'
-- '[[_Standards/WikiData/WD~regular_dodecahedron,16629569]]'
-followed_by: '[[_Standards/WikiData/WD~4_polytope,2155148]]'
-has_facet_polytope: '[[_Standards/WikiData/WD~face,3064117]]'
+- '[[_Standards/WikiData/WD~small_stellated_dodecahedron,1234054|WD~small_stellated_dodecahedron,1234054]]'
+- '[[_Standards/WikiData/WD~octagonal_prism,3100797|WD~octagonal_prism,3100797]]'
+- '[[_Standards/WikiData/WD~regular_dodecahedron,16629569|WD~regular_dodecahedron,16629569]]'
+followed_by: '[[_Standards/WikiData/WD~4_polytope,2155148|WD~4_polytope,2155148]]'
+has_facet_polytope: '[[_Standards/WikiData/WD~face,3064117|WD~face,3064117]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Polyhedra,6453500]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_polyhedron,11170198]]'
+- '[[_Standards/WikiData/WD~Template_Polyhedra,6453500|WD~Template_Polyhedra,6453500]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_polyhedron,11170198|WD~Template_Infobox_polyhedron,11170198]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-- '[[_Standards/WikiData/WD~WikiProject_Polyhedra,17146006]]'
-different_from: '[[_Standards/WikiData/WD~union_of_polytopes,25379348]]'
-has_characteristic: '[[_Standards/WikiData/WD~Dehn_invariant,30587580]]'
-follows: '[[_Standards/WikiData/WD~polygon,37555]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~WikiProject_Polyhedra,17146006|WD~WikiProject_Polyhedra,17146006]]'
+different_from: '[[_Standards/WikiData/WD~union_of_polytopes,25379348|WD~union_of_polytopes,25379348]]'
+has_characteristic: '[[_Standards/WikiData/WD~Dehn_invariant,30587580|WD~Dehn_invariant,30587580]]'
+follows: '[[_Standards/WikiData/WD~polygon,37555|WD~polygon,37555]]'
 OmegaWiki_Defined_Meaning: 1490103
 Wolfram_Language_entity_type: Polyhedron
 Commons_gallery: Polyhedra

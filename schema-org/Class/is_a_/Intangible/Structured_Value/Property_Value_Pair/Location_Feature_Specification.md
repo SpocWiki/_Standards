@@ -37,7 +37,7 @@ dv_is_:
     - "[[Location_Feature_Specification]]"
 dv_has_:
   parent_class:
-    - "[[../PropertyValue]]"
+    - "[[../PropertyValue|PropertyValue]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -63,7 +63,7 @@ dv_has_:
     - "[[value|value]]"
     - "[[../../../../../Relation/has/has_value_reference|has_value_reference]]"
 dv_has_parent_class:
-  - "[[../property_value|../property_value]]"
+  - "[[../property_value|../property_value|property_value]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"

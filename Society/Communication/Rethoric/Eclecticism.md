@@ -49,12 +49,12 @@ aliases:
 - 절충주의
 has_id_wikidata: Q192068
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+instance_of: '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
 Dewey_Decimal_Classification: 148
 P8189: 987007539359505171
 Commons_category: Eclectic art
@@ -135,7 +135,7 @@ dv_has_:
 a selective adoption of elements from different traditions 
 without necessarily blending them into a new, cohesive belief system
 
-#is_/similar_to :: [[_Standards/WikiData/WD~Eclecticism,192068]] 
+#is_/similar_to :: [[_Standards/WikiData/WD~Eclecticism,192068|WD~Eclecticism,192068]] 
 
 ## #has_/text_of_/abstract 
 

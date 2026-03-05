@@ -72,49 +72,49 @@ aliases:
 - 판테온
 has_id_wikidata: Q99309
 instance_of:
-- '[[_Standards/WikiData/WD~minor_basilica,120560]]'
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~Roman_temple,867143]]'
-- '[[_Standards/WikiData/WD~Italian_national_museum,3867560]]'
-- '[[_Standards/WikiData/WD~ancient_Roman_structure,14752696]]'
-- '[[_Standards/WikiData/WD~Roman_archaeological_site,21752084]]'
-- '[[_Standards/WikiData/WD~religious_museum,92755865]]'
-- '[[_Standards/WikiData/WD~secularized_religious_building,96376684]]'
-- '[[_Standards/WikiData/WD~historical_civil_building_museum,112132522]]'
-- '[[_Standards/WikiData/WD~archaeological_artifact_museum,112132548]]'
-- '[[_Standards/WikiData/WD~Museum_of_the_Italian_Ministry_of_Culture,124830411]]'
-architect: '[[_Standards/WikiData/WD~Apollodorus_of_Damascus,189375]]'
-architectural_style: '[[_Standards/WikiData/WD~ancient_Roman_architecture,223750]]'
+- '[[_Standards/WikiData/WD~minor_basilica,120560|WD~minor_basilica,120560]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~Roman_temple,867143|WD~Roman_temple,867143]]'
+- '[[_Standards/WikiData/WD~Italian_national_museum,3867560|WD~Italian_national_museum,3867560]]'
+- '[[_Standards/WikiData/WD~ancient_Roman_structure,14752696|WD~ancient_Roman_structure,14752696]]'
+- '[[_Standards/WikiData/WD~Roman_archaeological_site,21752084|WD~Roman_archaeological_site,21752084]]'
+- '[[_Standards/WikiData/WD~religious_museum,92755865|WD~religious_museum,92755865]]'
+- '[[_Standards/WikiData/WD~secularized_religious_building,96376684|WD~secularized_religious_building,96376684]]'
+- '[[_Standards/WikiData/WD~historical_civil_building_museum,112132522|WD~historical_civil_building_museum,112132522]]'
+- '[[_Standards/WikiData/WD~archaeological_artifact_museum,112132548|WD~archaeological_artifact_museum,112132548]]'
+- '[[_Standards/WikiData/WD~Museum_of_the_Italian_Ministry_of_Culture,124830411|WD~Museum_of_the_Italian_Ministry_of_Culture,124830411]]'
+architect: '[[_Standards/WikiData/WD~Apollodorus_of_Damascus,189375|WD~Apollodorus_of_Damascus,189375]]'
+architectural_style: '[[_Standards/WikiData/WD~ancient_Roman_architecture,223750|WD~ancient_Roman_architecture,223750]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]'
-diocese: '[[_Standards/WikiData/WD~Diocese_of_Rome,665037]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278|WD~Meyer_s_Universum,_Zweiter_Band,126937278]]'
+diocese: '[[_Standards/WikiData/WD~Diocese_of_Rome,665037|WD~Diocese_of_Rome,665037]]'
 has_use:
-- '[[_Standards/WikiData/WD~Roman_temple,867143]]'
-- '[[_Standards/WikiData/WD~Catholic_church_building,1088552]]'
-- '[[_Standards/WikiData/WD~museum_building,24699794]]'
-culture: '[[_Standards/WikiData/WD~culture_of_ancient_Rome,1200427]]'
-locations: '[[_Standards/WikiData/WD~Pigna,1329671]]'
+- '[[_Standards/WikiData/WD~Roman_temple,867143|WD~Roman_temple,867143]]'
+- '[[_Standards/WikiData/WD~Catholic_church_building,1088552|WD~Catholic_church_building,1088552]]'
+- '[[_Standards/WikiData/WD~museum_building,24699794|WD~museum_building,24699794]]'
+culture: '[[_Standards/WikiData/WD~culture_of_ancient_Rome,1200427|WD~culture_of_ancient_Rome,1200427]]'
+locations: '[[_Standards/WikiData/WD~Pigna,1329671|WD~Pigna,1329671]]'
 different_from:
-- '[[_Standards/WikiData/WD~pantheon,1407042]]'
-- '[[_Standards/WikiData/WD~Pantheon,3409611]]'
+- '[[_Standards/WikiData/WD~pantheon,1407042|WD~pantheon,1407042]]'
+- '[[_Standards/WikiData/WD~Pantheon,3409611|WD~Pantheon,3409611]]'
 Wi_Fi_access:
-- '[[_Standards/WikiData/WD~gratis,1543615]]'
-- '[[_Standards/WikiData/WD~no,1814990]]'
-depicted_by: '[[_Standards/WikiData/WD~Interior_of_the_Pantheon,_Rome,19904602]]'
-disabled_accessibility: '[[_Standards/WikiData/WD~wheelchair_accessible,24192067]]'
-derivative_work: '[[_Standards/WikiData/WD~Mausoleum_von_Carstanjen,26835730]]'
-heritage_designation: '[[_Standards/WikiData/WD~Italian_national_heritage,26971668]]'
+- '[[_Standards/WikiData/WD~gratis,1543615|WD~gratis,1543615]]'
+- '[[_Standards/WikiData/WD~no,1814990|WD~no,1814990]]'
+depicted_by: '[[_Standards/WikiData/WD~Interior_of_the_Pantheon,_Rome,19904602|WD~Interior_of_the_Pantheon,_Rome,19904602]]'
+disabled_accessibility: '[[_Standards/WikiData/WD~wheelchair_accessible,24192067|WD~wheelchair_accessible,24192067]]'
+derivative_work: '[[_Standards/WikiData/WD~Mausoleum_von_Carstanjen,26835730|WD~Mausoleum_von_Carstanjen,26835730]]'
+heritage_designation: '[[_Standards/WikiData/WD~Italian_national_heritage,26971668|WD~Italian_national_heritage,26971668]]'
 inception: 0128-01-01T00:00:00Z
-dedicated_to: '[[_Standards/WikiData/WD~Mary,345]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
-made_from_material: '[[_Standards/WikiData/WD~concrete,22657]]'
-country: '[[_Standards/WikiData/WD~Italy,38]]'
+dedicated_to: '[[_Standards/WikiData/WD~Mary,345|WD~Mary,345]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
+made_from_material: '[[_Standards/WikiData/WD~concrete,22657|WD~concrete,22657]]'
+country: '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
 fee: 0
 area:
 - 2000
@@ -132,7 +132,7 @@ employees:
 - 8
 - 12
 - 13
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Rome,220]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Rome,220|WD~Rome,220]]'
 collection_or_exhibition_size: 50
 number_of_volunteers:
 - 12
@@ -256,7 +256,7 @@ dv_has_:
 
 #is_/same_as :: [[../../../WikiData/WD~Pantheon,99309|WD~Pantheon,99309]] 
 
-![[../../../assets/Pantheon,Rome.png]] 
+![[../../../assets/Pantheon,Rome.png|Pantheon,Rome.png]] 
 
 ## #has_/map  
 

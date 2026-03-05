@@ -53,26 +53,26 @@ aliases:
 - 테크노크라시
 has_id_wikidata: Q190044
 significant_person:
-- '[[_Standards/WikiData/WD~Thorstein_Veblen,73646]]'
-- '[[_Standards/WikiData/WD~Claude_Henri_de_Rouvroy,_comte_de_Saint_Simon,82934]]'
-- '[[_Standards/WikiData/WD~Alexander_Bogdanov,335142]]'
-- '[[_Standards/WikiData/WD~M._King_Hubbert,383883]]'
-- '[[_Standards/WikiData/WD~Howard_Scott,967078]]'
+- '[[_Standards/WikiData/WD~Thorstein_Veblen,73646|WD~Thorstein_Veblen,73646]]'
+- '[[_Standards/WikiData/WD~Claude_Henri_de_Rouvroy,_comte_de_Saint_Simon,82934|WD~Claude_Henri_de_Rouvroy,_comte_de_Saint_Simon,82934]]'
+- '[[_Standards/WikiData/WD~Alexander_Bogdanov,335142|WD~Alexander_Bogdanov,335142]]'
+- '[[_Standards/WikiData/WD~M._King_Hubbert,383883|WD~M._King_Hubbert,383883]]'
+- '[[_Standards/WikiData/WD~Howard_Scott,967078|WD~Howard_Scott,967078]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~oligarchy,79751]]'
-- '[[_Standards/WikiData/WD~state_system,20076236]]'
+- '[[_Standards/WikiData/WD~oligarchy,79751|WD~oligarchy,79751]]'
+- '[[_Standards/WikiData/WD~state_system,20076236|WD~state_system,20076236]]'
 has_effect:
-- '[[_Standards/WikiData/WD~technocracy_movement,120536]]'
-- '[[_Standards/WikiData/WD~Technical_Alliance,370279]]'
+- '[[_Standards/WikiData/WD~technocracy_movement,120536|WD~technocracy_movement,120536]]'
+- '[[_Standards/WikiData/WD~Technical_Alliance,370279|WD~Technical_Alliance,370279]]'
 instance_of:
-- '[[_Standards/WikiData/WD~form_of_state,183039]]'
-- '[[_Standards/WikiData/WD~form_of_government,1307214]]'
-- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~form_of_state,183039|WD~form_of_state,183039]]'
+- '[[_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
 different_from:
-- '[[_Standards/WikiData/WD~representative_democracy,188759]]'
-- '[[_Standards/WikiData/WD~Technocracy,394547]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-has_characteristic: '[[_Standards/WikiData/WD~hypothesis,41719]]'
+- '[[_Standards/WikiData/WD~representative_democracy,188759|WD~representative_democracy,188759]]'
+- '[[_Standards/WikiData/WD~Technocracy,394547|WD~Technocracy,394547]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+has_characteristic: '[[_Standards/WikiData/WD~hypothesis,41719|WD~hypothesis,41719]]'
 Commons_category: Technocracy
 dv_has_:
   name_:

@@ -27,9 +27,9 @@ tags:
 title: is_an_offline_temporarily Class
 type: Type
 dv_has_:
-  parent_class: "[[../GameServerStatus]]"
+  parent_class: "[[../GameServerStatus|GameServerStatus]]"
 dv_is_:
-  enum_of: "[[../GameServerStatus]]"
+  enum_of: "[[../GameServerStatus|GameServerStatus]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily|Offline_Temporarily]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.public|Offline_Temporarily.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.personal|Offline_Temporarily.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.secret|Offline_Temporarily.secret]]"
     - "[[Offline_Temporarily]]"
-dv_has_parent_class: "[[../GameServerStatus]]"
-dv_is_enum_of: "[[../GameServerStatus]]"
+dv_has_parent_class: "[[../GameServerStatus|GameServerStatus]]"
+dv_is_enum_of: "[[../GameServerStatus|GameServerStatus]]"
 dv_is_same_as:
   - "[[Offline_Temporarily]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.public|Offline_Temporarily.public]]"

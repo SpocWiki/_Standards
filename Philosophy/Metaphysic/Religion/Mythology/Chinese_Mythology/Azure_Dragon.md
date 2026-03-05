@@ -39,15 +39,15 @@ aliases:
 - 青龙
 - 청룡
 has_id_wikidata: Q515882
-follows: '[[_Standards/WikiData/WD~Black_Tortoise,125696]]'
-subclass_of: '[[_Standards/WikiData/WD~Loong,215605]]'
-followed_by: '[[_Standards/WikiData/WD~Zhuque,1059392]]'
-part_of: '[[_Standards/WikiData/WD~Four_Symbols,1073260]]'
+follows: '[[_Standards/WikiData/WD~Black_Tortoise,125696|WD~Black_Tortoise,125696]]'
+subclass_of: '[[_Standards/WikiData/WD~Loong,215605|WD~Loong,215605]]'
+followed_by: '[[_Standards/WikiData/WD~Zhuque,1059392|WD~Zhuque,1059392]]'
+part_of: '[[_Standards/WikiData/WD~Four_Symbols,1073260|WD~Four_Symbols,1073260]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Chinese_constellation,1074076]]'
-- '[[_Standards/WikiData/WD~water_deity,1916821]]'
-- '[[_Standards/WikiData/WD~mythical_animal,24334299]]'
-color: '[[_Standards/WikiData/WD~blue,1088]]'
+- '[[_Standards/WikiData/WD~Chinese_constellation,1074076|WD~Chinese_constellation,1074076]]'
+- '[[_Standards/WikiData/WD~water_deity,1916821|WD~water_deity,1916821]]'
+- '[[_Standards/WikiData/WD~mythical_animal,24334299|WD~mythical_animal,24334299]]'
+color: '[[_Standards/WikiData/WD~blue,1088|WD~blue,1088]]'
 Commons_category: Azure Dragon
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20China%20%281889%E2%80%931912%29.svg
 native_label:

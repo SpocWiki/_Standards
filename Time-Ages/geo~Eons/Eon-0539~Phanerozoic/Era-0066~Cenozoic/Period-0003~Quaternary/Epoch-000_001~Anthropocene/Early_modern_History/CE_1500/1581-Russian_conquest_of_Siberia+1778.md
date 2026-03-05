@@ -44,21 +44,21 @@ aliases:
 - 俄羅斯征服西伯利亞
 - 러시아의 시베리아 정복
 has_id_wikidata: Q735349
-depicted_by: '[[_Standards/WikiData/WD~Vasily_Surikov,110228]]'
+depicted_by: '[[_Standards/WikiData/WD~Vasily_Surikov,110228|WD~Vasily_Surikov,110228]]'
 instance_of:
-- '[[_Standards/WikiData/WD~colonization,815962]]'
-- '[[_Standards/WikiData/WD~conquest,1361229]]'
-- '[[_Standards/WikiData/WD~war,198]]'
-part_of: '[[_Standards/WikiData/WD~territorial_evolution_of_Russia,5420783]]'
+- '[[_Standards/WikiData/WD~colonization,815962|WD~colonization,815962]]'
+- '[[_Standards/WikiData/WD~conquest,1361229|WD~conquest,1361229]]'
+- '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
+part_of: '[[_Standards/WikiData/WD~territorial_evolution_of_Russia,5420783|WD~territorial_evolution_of_Russia,5420783]]'
 start_time: 1580-07-01T00:00:00Z
 point_in_time: 1580-01-01T00:00:00Z
 end_time: 1700-01-01T00:00:00Z
-location: '[[_Standards/WikiData/WD~Siberia,5428]]'
+location: '[[_Standards/WikiData/WD~Siberia,5428|WD~Siberia,5428]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Surikov%20Pokoreniye%20Sibiri%20Yermakom.jpg
 Commons_category: Russian conquest of Siberia
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Russian_conquest_of_Siberia,735349]]'
+  - '[[../../../../../../../../WikiData/WD~Russian_conquest_of_Siberia,735349|WD~Russian_conquest_of_Siberia,735349]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1581-Russian_conquest_of_Siberia+1778|1581-Russian_conquest_of_Siberia+1778]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1581-Russian_conquest_of_Siberia+1778.public|1581-Russian_conquest_of_Siberia+1778.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1581-Russian_conquest_of_Siberia+1778.internal|1581-Russian_conquest_of_Siberia+1778.internal]]'
@@ -67,7 +67,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1581-Russian_conquest_of_Siberia+1778.personal|1581-Russian_conquest_of_Siberia+1778.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1581-Russian_conquest_of_Siberia+1778.secret|1581-Russian_conquest_of_Siberia+1778.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Russian_conquest_of_Siberia,735349]]'
+- '[[../../../../../../../../WikiData/WD~Russian_conquest_of_Siberia,735349|WD~Russian_conquest_of_Siberia,735349]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1581-Russian_conquest_of_Siberia+1778|1581-Russian_conquest_of_Siberia+1778]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1581-Russian_conquest_of_Siberia+1778.public|1581-Russian_conquest_of_Siberia+1778.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1581-Russian_conquest_of_Siberia+1778.internal|1581-Russian_conquest_of_Siberia+1778.internal]]'

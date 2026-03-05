@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A sports location, such as a playing field.
 
-#has_/parent_class :: [[../LocalBusiness]]  
+#has_/parent_class :: [[../LocalBusiness|LocalBusiness]]  
 
 #has_/child_/class :: [ BowlingAlley, ExerciseGym, GolfCourse, HealthClub, PublicSwimmingPool, SkiResort, SportsClub, StadiumOrArena, TennisComplex ]  
 

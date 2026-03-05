@@ -66,15 +66,15 @@ aliases:
 - 前哥倫布時期
 - 콜롬버스 이전의 시대
 has_id_wikidata: Q202390
-studied_by: '[[_Standards/WikiData/WD~Pre_Columbian_studies,434198]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Pre_Columbian_era,5617683]]'
+studied_by: '[[_Standards/WikiData/WD~Pre_Columbian_studies,434198|WD~Pre_Columbian_studies,434198]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Pre_Columbian_era,5617683|WD~Template_Pre_Columbian_era,5617683]]'
 instance_of:
-- '[[_Standards/WikiData/WD~era,6428674]]'
-- '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q47123095,47123095]]'
+- '[[_Standards/WikiData/WD~era,6428674|WD~era,6428674]]'
+- '[[_Standards/WikiData/WD~archaeological_period,15401633|WD~archaeological_period,15401633]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q47123095,47123095|WD~Q47123095,47123095]]'
 end_time: 1492-01-01T00:00:00Z
-location: '[[_Standards/WikiData/WD~Americas,828]]'
-subclass_of: '[[_Standards/WikiData/WD~civilization,8432]]'
+location: '[[_Standards/WikiData/WD~Americas,828|WD~Americas,828]]'
+subclass_of: '[[_Standards/WikiData/WD~civilization,8432|WD~civilization,8432]]'
 start_time: -48000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20smoky%20day%20at%20the%20Sugar%20Bowl--Hupa.jpg
 Commons_category: Pre-Columbian era

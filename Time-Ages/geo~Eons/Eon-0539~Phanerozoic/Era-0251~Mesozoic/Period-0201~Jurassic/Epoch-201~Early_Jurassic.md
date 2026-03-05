@@ -43,17 +43,17 @@ aliases:
 - 早侏羅世
 - 쥐라기 전기
 has_id_wikidata: Q284787
-named_after: '[[_Standards/WikiData/WD~Jura_Mountains,178611]]'
+named_after: '[[_Standards/WikiData/WD~Jura_Mountains,178611|WD~Jura_Mountains,178611]]'
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Black_Jura,2253989]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Jurassic,20963454]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Hettangian,134318266]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Black_Jura,2253989|WD~Black_Jura,2253989]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Jurassic,20963454|WD~Category_Early_Jurassic,20963454]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Hettangian,134318266|WD~GSSP_for_the_base_of_the_Hettangian,134318266]]'
 Commons_category: Early Jurassic
 start_time: -201300000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 00B7EA
@@ -184,7 +184,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 201.4 to 174.7 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-190_Ma_(Pliensbachian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-190_Ma_(Pliensbachian_Age).png|Earth-190_Ma_(Pliensbachian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

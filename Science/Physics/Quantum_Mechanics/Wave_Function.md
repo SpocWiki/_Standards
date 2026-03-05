@@ -62,15 +62,15 @@ aliases:
 - 파동 함수
 has_id_wikidata: Q2362761
 subclass_of:
-- '[[_Standards/WikiData/WD~scientific_model,193946]]'
-- '[[_Standards/WikiData/WD~probability_amplitude,653850]]'
-- '[[_Standards/WikiData/WD~function,11348]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~probability_amplitude,653850]]'
+- '[[_Standards/WikiData/WD~scientific_model,193946|WD~scientific_model,193946]]'
+- '[[_Standards/WikiData/WD~probability_amplitude,653850|WD~probability_amplitude,653850]]'
+- '[[_Standards/WikiData/WD~function,11348|WD~function,11348]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~probability_amplitude,653850|WD~probability_amplitude,653850]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-instance_of: '[[_Standards/WikiData/WD~physical_concept,113360143]]'
-studied_by: '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
+- '[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904|WD~_Kyrgyzstan_national_encyclopedia,16679904]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~physical_concept,113360143|WD~physical_concept,113360143]]'
+studied_by: '[[_Standards/WikiData/WD~quantum_mechanics,944|WD~quantum_mechanics,944]]'
 Commons_category: Quantum mechanics
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20mechanics%20travelling%20wavefunctions%20wavelength.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/QuantumHarmonicOscillatorAnimation.gif

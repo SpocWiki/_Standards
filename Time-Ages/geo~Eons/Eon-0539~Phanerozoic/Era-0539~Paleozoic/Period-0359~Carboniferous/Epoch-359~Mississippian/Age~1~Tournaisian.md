@@ -64,13 +64,13 @@ tags:
 title:
   '{ newTitle: }': 
 type: private_note
-named_after: '[[_Standards/WikiData/WD~Tournai,173219]]'
+named_after: '[[_Standards/WikiData/WD~Tournai,173219|WD~Tournai,173219]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Tournaisian,30869494]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Tournaisian,134528883]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Tournaisian,30869494|WD~Category_Tournaisian,30869494]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Tournaisian,134528883|WD~GSSP_for_the_base_of_the_Tournaisian,134528883]]'
 end_time: -346700000-01-01T00:00:00Z
 coordinate_location: Point(3.3573 43.5555)
 Commons_category: Tournaisian

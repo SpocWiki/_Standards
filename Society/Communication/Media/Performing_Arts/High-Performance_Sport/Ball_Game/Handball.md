@@ -104,26 +104,26 @@ OpenStreetMap_tag:
 - sport=team_handball
 - sport=handball
 instance_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~team_sport,216048]]'
-- '[[_Standards/WikiData/WD~ball_game,877517]]'
-different_from: '[[_Standards/WikiData/WD~Handball,398407]]'
-regulated_by: '[[_Standards/WikiData/WD~International_Handball_Federation,651333]]'
-authority: '[[_Standards/WikiData/WD~International_Handball_Federation,651333]]'
+- '[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~ball_game,877517|WD~ball_game,877517]]'
+different_from: '[[_Standards/WikiData/WD~Handball,398407|WD~Handball,398407]]'
+regulated_by: '[[_Standards/WikiData/WD~International_Handball_Federation,651333|WD~International_Handball_Federation,651333]]'
+authority: '[[_Standards/WikiData/WD~International_Handball_Federation,651333|WD~International_Handball_Federation,651333]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~handball_referee,1302317]]'
-- '[[_Standards/WikiData/WD~handball_player,12840545]]'
-- '[[_Standards/WikiData/WD~handball_coach,13365201]]'
-- '[[_Standards/WikiData/WD~handball_national_coach,63349579]]'
-uses: '[[_Standards/WikiData/WD~handball,2881341]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_International_Handball,8081088]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Handball,11051992]]'
+- '[[_Standards/WikiData/WD~handball_referee,1302317|WD~handball_referee,1302317]]'
+- '[[_Standards/WikiData/WD~handball_player,12840545|WD~handball_player,12840545]]'
+- '[[_Standards/WikiData/WD~handball_coach,13365201|WD~handball_coach,13365201]]'
+- '[[_Standards/WikiData/WD~handball_national_coach,63349579|WD~handball_national_coach,63349579]]'
+uses: '[[_Standards/WikiData/WD~handball,2881341|WD~handball,2881341]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_International_Handball,8081088|WD~Template_International_Handball,8081088]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Handball,11051992|WD~Portal_Handball,11051992]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-location_of_formation: '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+location_of_formation: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 hashtag_: handball
 booru_tag: handball
 BHCL_UUID: aca41666-8df2-4cd3-b82f-6cdddf38b77f

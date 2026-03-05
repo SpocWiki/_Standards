@@ -162,24 +162,24 @@ aliases:
 - 青
 - 파란색
 has_id_wikidata: Q1088
-instance_of: '[[_Standards/WikiData/WD~primary_color,166902]]'
+instance_of: '[[_Standards/WikiData/WD~primary_color,166902|WD~primary_color,166902]]'
 part_of:
-- '[[_Standards/WikiData/WD~RGB_color_space,375677]]'
-- '[[_Standards/WikiData/WD~seven_prismatic_colors,43213808]]'
-- '[[_Standards/WikiData/WD~color,1075]]'
-followed_by: '[[_Standards/WikiData/WD~indigo,422662]]'
+- '[[_Standards/WikiData/WD~RGB_color_space,375677|WD~RGB_color_space,375677]]'
+- '[[_Standards/WikiData/WD~seven_prismatic_colors,43213808|WD~seven_prismatic_colors,43213808]]'
+- '[[_Standards/WikiData/WD~color,1075|WD~color,1075]]'
+followed_by: '[[_Standards/WikiData/WD~indigo,422662|WD~indigo,422662]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-different_from: '[[_Standards/WikiData/WD~Ble,1265276]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~Ble,1265276|WD~Ble,1265276]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~green_blue,10834659]]'
-- '[[_Standards/WikiData/WD~light,9128]]'
+- '[[_Standards/WikiData/WD~green_blue,10834659|WD~green_blue,10834659]]'
+- '[[_Standards/WikiData/WD~light,9128|WD~light,9128]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q25930042,25930042]]'
-- '[[_Standards/WikiData/WD~blue,98200604]]'
-follows: '[[_Standards/WikiData/WD~green,3133]]'
+- '[[_Standards/WikiData/WD~Q25930042,25930042|WD~Q25930042,25930042]]'
+- '[[_Standards/WikiData/WD~blue,98200604|WD~blue,98200604]]'
+follows: '[[_Standards/WikiData/WD~green,3133|WD~green,3133]]'
 frequency: 666000000000000
 wavelength: 477.5
 social_media_followers: 13099

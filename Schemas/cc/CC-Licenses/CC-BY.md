@@ -30,7 +30,7 @@ type: ''
 
 Tags: #IT #URL #license 
 
-[[../CC-Licenses]] License with the Restriction to name the source/original author. 
+[[../CC-Licenses|CC-Licenses]] License with the Restriction to name the source/original author. 
 'BY' indicates this Reference.
 
 This has a dual Benefit: 

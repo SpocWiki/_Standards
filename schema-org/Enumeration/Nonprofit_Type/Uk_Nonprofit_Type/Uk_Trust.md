@@ -28,8 +28,8 @@ title: is_a_uk_trust Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../UKNonprofitType]]"
-  enum_of: "[[../UKNonprofitType]]"
+  parent_class: "[[../UKNonprofitType|UKNonprofitType]]"
+  enum_of: "[[../UKNonprofitType|UKNonprofitType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust|Uk_Trust]]"
     - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.public|Uk_Trust.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.secret|Uk_Trust.secret]]"
     - "[[Uk_Trust]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../UKNonprofitType]]"
-dv_is_enum_of: "[[../UKNonprofitType]]"
+dv_has_parent_class: "[[../UKNonprofitType|UKNonprofitType]]"
+dv_is_enum_of: "[[../UKNonprofitType|UKNonprofitType]]"
 dv_is_same_as:
   - "[[Uk_Trust]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.public|Uk_Trust.public]]"

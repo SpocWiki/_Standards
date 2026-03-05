@@ -59,15 +59,15 @@ aliases:
 - 距離空間
 - 거리 공간
 has_id_wikidata: Q180953
-has_characteristic: '[[_Standards/WikiData/WD~Hausdorff_dimension,565186]]'
+has_characteristic: '[[_Standards/WikiData/WD~Hausdorff_dimension,565186|WD~Hausdorff_dimension,565186]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~metric_function,865746]]'
-- '[[_Standards/WikiData/WD~metrizable_space,1194053]]'
+- '[[_Standards/WikiData/WD~metric_function,865746|WD~metric_function,865746]]'
+- '[[_Standards/WikiData/WD~metrizable_space,1194053|WD~metrizable_space,1194053]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~pseudometric_space,1397059]]'
-- '[[_Standards/WikiData/WD~semimetric_space,3058239]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~pseudometric_space,1397059|WD~pseudometric_space,1397059]]'
+- '[[_Standards/WikiData/WD~semimetric_space,3058239|WD~semimetric_space,3058239]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">&#x2264;</mo><mi>d</mi><mo stretchy="false">(</mo><mi>x</mi><mo>,</mo><mi>z</mi><mo stretchy="false">)</mo><mo stretchy="false">+</mo><mi>d</mi><mo stretchy="false">(</mo><mi>z</mi><mo>,</mo><mi>y</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">=</mo><mn>0</mn><mo stretchy="false">&#x21D4;</mo><mi>x</mi><mo stretchy="false">=</mo><mi>y</mi></mstyle></mrow></math>
@@ -188,7 +188,7 @@ dv_has_:
 > as well as uniform, Lipschitz, and Hölder continuity, can be defined in the setting of metric spaces.  
 > 
 > Other notions, such as continuity, compactness, and open and closed sets, can be defined for metric spaces, 
-> but also in the even more general setting of [[../../Topology/Topological_Space]]s.
+> but also in the even more general setting of [[../../Topology/Topological_Space|Topological_Space]]s.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metric%20space) 
 

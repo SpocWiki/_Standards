@@ -25,16 +25,16 @@ aliases:
 - 拉丁尼階
 - 라딘절
 has_id_wikidata: Q726791
-significant_place: '[[_Standards/WikiData/WD~Bagolino,103465]]'
+significant_place: '[[_Standards/WikiData/WD~Bagolino,103465|WD~Bagolino,103465]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Ladins,1799968]]'
-named_by: '[[_Standards/WikiData/WD~Alexander_Bittner,2641834]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ladinian,21607953]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Ladinian,134369408]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Ladins,1799968|WD~Ladins,1799968]]'
+named_by: '[[_Standards/WikiData/WD~Alexander_Bittner,2641834|WD~Alexander_Bittner,2641834]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ladinian,21607953|WD~Category_Ladinian,21607953]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Ladinian,134369408|WD~GSSP_for_the_base_of_the_Ladinian,134369408]]'
 coordinate_location: Point(10.471 45.8193)
 end_time: -237000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: D492BD

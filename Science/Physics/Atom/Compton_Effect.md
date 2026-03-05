@@ -68,12 +68,12 @@ aliases:
 - 康普顿散射
 - 콤프턴 효과
 has_id_wikidata: Q171516
-named_after: '[[_Standards/WikiData/WD~Arthur_Holly_Compton,127944]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Arthur_Holly_Compton,127944]]'
-instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-different_from: '[[_Standards/WikiData/WD~Compton_scattering,25424022]]'
-subclass_of: '[[_Standards/WikiData/WD~Compton_scattering,25424022]]'
+named_after: '[[_Standards/WikiData/WD~Arthur_Holly_Compton,127944|WD~Arthur_Holly_Compton,127944]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Arthur_Holly_Compton,127944|WD~Arthur_Holly_Compton,127944]]'
+instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+different_from: '[[_Standards/WikiData/WD~Compton_scattering,25424022|WD~Compton_scattering,25424022]]'
+subclass_of: '[[_Standards/WikiData/WD~Compton_scattering,25424022|WD~Compton_scattering,25424022]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Compton%20Effect.gif
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Compton%20Effect%20Schematic-de.svg

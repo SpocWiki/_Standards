@@ -51,7 +51,7 @@ dv_has_name_cn: 奥兰群岛
 dv_has_name_ar: جزر ألاند
 dv_has_name_ru: Аландские острова
 dv_CLDR_display_name: Åland Islands
-dv_Region_Name: "[[../../Europe]]"
+dv_Region_Name: "[[../../Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[Åland-Islands]]"
 dv_Sub-region_Name: "[[Northern Europe]]"
 dv_Region: 150
@@ -78,7 +78,7 @@ dv_Small_Island_Developing_States:
   - 
 dv_ISO3166-1-numeric: 248
 dv_has_name_de: Åland Inseln
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: "[[../../Europe|Europe]]"
 dv_has_place_latitude: 60.1481
 dv_independent: Part of FI ]
 dv_is_:

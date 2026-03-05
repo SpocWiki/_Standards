@@ -55,16 +55,16 @@ aliases:
 - 火箭發動機
 - 로켓 엔진
 has_id_wikidata: Q335225
-subclass_of: '[[_Standards/WikiData/WD~jet_engine,178777]]'
+subclass_of: '[[_Standards/WikiData/WD~jet_engine,178777|WD~jet_engine,178777]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~universal_joint,862003]]'
-- '[[_Standards/WikiData/WD~combustion_chamber,909434]]'
-- '[[_Standards/WikiData/WD~rocket_engine_nozzle,1054585]]'
-- '[[_Standards/WikiData/WD~turbopump,1361731]]'
+- '[[_Standards/WikiData/WD~universal_joint,862003|WD~universal_joint,862003]]'
+- '[[_Standards/WikiData/WD~combustion_chamber,909434|WD~combustion_chamber,909434]]'
+- '[[_Standards/WikiData/WD~rocket_engine_nozzle,1054585|WD~rocket_engine_nozzle,1054585]]'
+- '[[_Standards/WikiData/WD~turbopump,1361731|WD~turbopump,1361731]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_rocket_engine,7473576]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_rocket_engine,7473576|WD~Template_Infobox_rocket_engine,7473576]]'
 U_S_National_Archives_Identifier: 10644568
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RS-68%20rocket%20engine%20test.jpg
 Dewey_Decimal_Classification:

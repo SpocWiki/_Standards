@@ -77,11 +77,11 @@ aliases:
 - 슈뢰딩거 방정식
 - 슈뢰딩게르방정식
 has_id_wikidata: Q165498
-subclass_of: '[[_Standards/WikiData/WD~partial_differential_equation,271977]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+subclass_of: '[[_Standards/WikiData/WD~partial_differential_equation,271977|WD~partial_differential_equation,271977]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow><mi alternate="1">&#x210F;</mi><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>d</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>d</mi><mi>t</mi></mrow></mrow></mfrac></mrow><mo stretchy="false">|</mo><mi mathvariant="normal">&#x03A8;</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>H</mi><mo>^</mo></mover></mrow></mrow><mo stretchy="false">|</mo><mi mathvariant="normal">&#x03A8;</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x27E9;</mo></mstyle></mrow></math>
-named_after: '[[_Standards/WikiData/WD~Erwin_Schrödinger,9130]]'
+named_after: '[[_Standards/WikiData/WD~Erwin_Schrödinger,9130|WD~Erwin_Schrödinger,9130]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>t</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>H</mi><mo>^</mo></mover></mrow></mrow></mstyle></mrow></math>

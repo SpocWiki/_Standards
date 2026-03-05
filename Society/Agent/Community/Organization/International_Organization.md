@@ -112,12 +112,12 @@ aliases:
 - 萬國公會
 - 국제기구
 has_id_wikidata: Q484652
-has_characteristic: '[[_Standards/WikiData/WD~internationality,1072012]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_International_organizations,10904757]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~geopolitical_group,52110228]]'
+has_characteristic: '[[_Standards/WikiData/WD~internationality,1072012|WD~internationality,1072012]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_International_organizations,10904757|WD~Template_International_organizations,10904757]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~geopolitical_group,52110228|WD~geopolitical_group,52110228]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 OmegaWiki_Defined_Meaning: 1999
 U_S_National_Archives_Identifier:
 - 10640609
@@ -267,7 +267,7 @@ dv_has_:
 
 # [[International_Organization]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~international_organization,484652]]
+#is_/same_as :: [[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]
 
 ## #has_/text_of_/abstract 
 

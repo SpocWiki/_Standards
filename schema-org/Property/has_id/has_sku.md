@@ -29,7 +29,7 @@ dv_has_:
   name: has_text_of_sku
   range: Text
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_:
   same_as:
     - "[[has_sku]]"
@@ -42,7 +42,7 @@ dv_is_:
 dv_has_domain: Demand, Offer, Product
 dv_has_name: has_text_of_sku
 dv_has_range: Text
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[has_sku]]"
   - "[[/_public/schema-org/Property/has_name/has_sku.public|has_sku.public]]"

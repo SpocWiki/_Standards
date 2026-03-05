@@ -42,10 +42,10 @@ aliases:
 - 方程求解
 - 解方程
 has_id_wikidata: Q1879820
-studied_by: '[[_Standards/WikiData/WD~elementary_algebra,211294]]'
+studied_by: '[[_Standards/WikiData/WD~elementary_algebra,211294|WD~elementary_algebra,211294]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~problem_solving,730920]]'
-- '[[_Standards/WikiData/WD~mathematical_problem,1166625]]'
+- '[[_Standards/WikiData/WD~problem_solving,730920|WD~problem_solving,730920]]'
+- '[[_Standards/WikiData/WD~mathematical_problem,1166625|WD~mathematical_problem,1166625]]'
 dv_has_:
   name_:
     ar: حل معادلة

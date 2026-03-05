@@ -89,19 +89,19 @@ aliases:
 - 햄
 has_id_wikidata: Q170486
 subclass_of:
-- '[[_Standards/WikiData/WD~pork,191768]]'
-- '[[_Standards/WikiData/WD~pork_dish,28100020]]'
-- '[[_Standards/WikiData/WD~whole_muscle_cut,81621279]]'
-- '[[_Standards/WikiData/WD~cold_cut,10426]]'
+- '[[_Standards/WikiData/WD~pork,191768|WD~pork,191768]]'
+- '[[_Standards/WikiData/WD~pork_dish,28100020|WD~pork_dish,28100020]]'
+- '[[_Standards/WikiData/WD~whole_muscle_cut,81621279|WD~whole_muscle_cut,81621279]]'
+- '[[_Standards/WikiData/WD~cold_cut,10426|WD~cold_cut,10426]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-- '[[_Standards/WikiData/WD~Ham,695354]]'
-- '[[_Standards/WikiData/WD~Gare_de_Ham,2169562]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q10381127,10381127]]'
-instance_of: '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-has_part_s_: '[[_Standards/WikiData/WD~pork_thigh,78787699]]'
+- '[[_Standards/WikiData/WD~Ham,695354|WD~Ham,695354]]'
+- '[[_Standards/WikiData/WD~Gare_de_Ham,2169562|WD~Gare_de_Ham,2169562]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q10381127,10381127|WD~Q10381127,10381127]]'
+instance_of: '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+has_part_s_: '[[_Standards/WikiData/WD~pork_thigh,78787699|WD~pork_thigh,78787699]]'
 USDA_NDB_number: 10870
 booru_tag: ham
 Danbooru_tag: ham

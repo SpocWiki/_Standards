@@ -90,38 +90,38 @@ aliases:
 - 亞歷山大圖書館
 - 알렉산드리아 도서관
 has_id_wikidata: Q435
-dedicated_to: '[[_Standards/WikiData/WD~Muse,66016]]'
-creator: '[[_Standards/WikiData/WD~Ptolemy_I_Soter,168261]]'
+dedicated_to: '[[_Standards/WikiData/WD~Muse,66016|WD~Muse,66016]]'
+creator: '[[_Standards/WikiData/WD~Ptolemy_I_Soter,168261|WD~Ptolemy_I_Soter,168261]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-different_from: '[[_Standards/WikiData/WD~Bibliotheca_Alexandrina,501851]]'
-part_of: '[[_Standards/WikiData/WD~Musaeum,684645]]'
-has_works_in_the_collection: '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865|WD~Kościelna_encyclopedia,9253865]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~Bibliotheca_Alexandrina,501851|WD~Bibliotheca_Alexandrina,501851]]'
+part_of: '[[_Standards/WikiData/WD~Musaeum,684645|WD~Musaeum,684645]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335|WD~Stedelijk_Museum_Amsterdam,924335]]'
 instance_of:
-- '[[_Standards/WikiData/WD~research_library,1438040]]'
-- '[[_Standards/WikiData/WD~cultural_institution,3152824]]'
-- '[[_Standards/WikiData/WD~library,7075]]'
-facet_of: '[[_Standards/WikiData/WD~classical_literature,4223073]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~head_of_the_Library_of_Alexandria,18608940]]'
-state_of_conservation: '[[_Standards/WikiData/WD~demolished_or_destroyed,56556915]]'
+- '[[_Standards/WikiData/WD~research_library,1438040|WD~research_library,1438040]]'
+- '[[_Standards/WikiData/WD~cultural_institution,3152824|WD~cultural_institution,3152824]]'
+- '[[_Standards/WikiData/WD~library,7075|WD~library,7075]]'
+facet_of: '[[_Standards/WikiData/WD~classical_literature,4223073|WD~classical_literature,4223073]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~head_of_the_Library_of_Alexandria,18608940|WD~head_of_the_Library_of_Alexandria,18608940]]'
+state_of_conservation: '[[_Standards/WikiData/WD~demolished_or_destroyed,56556915|WD~demolished_or_destroyed,56556915]]'
 dissolved_abolished_or_demolished_date: 0400-01-01T00:00:00Z
 coordinate_location: Point(29.909167 31.208889)
 inception: -0300-01-01T00:00:00Z
-locations: '[[_Standards/WikiData/WD~Alexandria,87]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Alexandria,87]]'
+locations: '[[_Standards/WikiData/WD~Alexandria,87|WD~Alexandria,87]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Alexandria,87|WD~Alexandria,87]]'
 collection_or_exhibition_size: 1000000
 exact_match:
 - http://dbpedia.org/resource/Library_of_Alexandria

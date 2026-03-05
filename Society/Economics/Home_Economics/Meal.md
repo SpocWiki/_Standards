@@ -75,17 +75,17 @@ aliases:
 - 饭
 - 식사
 has_id_wikidata: Q6460735
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~eating,213449]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~eating,213449|WD~eating,213449]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_object,223557]]'
-- '[[_Standards/WikiData/WD~theme,118826633]]'
+- '[[_Standards/WikiData/WD~physical_object,223557|WD~physical_object,223557]]'
+- '[[_Standards/WikiData/WD~theme,118826633|WD~theme,118826633]]'
 instance_of:
-- '[[_Standards/WikiData/WD~cuisine,1778821]]'
-- '[[_Standards/WikiData/WD~livelihood,6658164]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Meals_navbox,20373701]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_meals,28453679]]'
-different_from: '[[_Standards/WikiData/WD~Q30127095,30127095]]'
+- '[[_Standards/WikiData/WD~cuisine,1778821|WD~cuisine,1778821]]'
+- '[[_Standards/WikiData/WD~livelihood,6658164|WD~livelihood,6658164]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Meals_navbox,20373701|WD~Template_Meals_navbox,20373701]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_meals,28453679|WD~outline_of_meals,28453679]]'
+different_from: '[[_Standards/WikiData/WD~Q30127095,30127095|WD~Q30127095,30127095]]'
 Dewey_Decimal_Classification: 642
 OmegaWiki_Defined_Meaning: 6332
 Commons_category: Meals

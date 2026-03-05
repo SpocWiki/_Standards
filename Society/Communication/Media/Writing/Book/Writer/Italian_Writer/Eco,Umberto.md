@@ -35,125 +35,125 @@ aliases:
 - 움베르토 에코
 has_id_wikidata: Q12807
 field_of_work:
-- '[[_Standards/WikiData/WD~Italian_literature,74217]]'
-- '[[_Standards/WikiData/WD~historical_novel,192239]]'
-- '[[_Standards/WikiData/WD~medieval_philosophy,192292]]'
-- '[[_Standards/WikiData/WD~semiology,957366]]'
-- '[[_Standards/WikiData/WD~structural_linguistics,2466334]]'
-- '[[_Standards/WikiData/WD~media_culture,3007315]]'
-- '[[_Standards/WikiData/WD~linguistics,8162]]'
-- '[[_Standards/WikiData/WD~non_fiction_literature,27801]]'
-- '[[_Standards/WikiData/WD~literary_criticism,58854]]'
-- '[[_Standards/WikiData/WD~semiotics,60195]]'
+- '[[_Standards/WikiData/WD~Italian_literature,74217|WD~Italian_literature,74217]]'
+- '[[_Standards/WikiData/WD~historical_novel,192239|WD~historical_novel,192239]]'
+- '[[_Standards/WikiData/WD~medieval_philosophy,192292|WD~medieval_philosophy,192292]]'
+- '[[_Standards/WikiData/WD~semiology,957366|WD~semiology,957366]]'
+- '[[_Standards/WikiData/WD~structural_linguistics,2466334|WD~structural_linguistics,2466334]]'
+- '[[_Standards/WikiData/WD~media_culture,3007315|WD~media_culture,3007315]]'
+- '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
+- '[[_Standards/WikiData/WD~non_fiction_literature,27801|WD~non_fiction_literature,27801]]'
+- '[[_Standards/WikiData/WD~literary_criticism,58854|WD~literary_criticism,58854]]'
+- '[[_Standards/WikiData/WD~semiotics,60195|WD~semiotics,60195]]'
 employer:
-- '[[_Standards/WikiData/WD~University_of_Bologna,131262]]'
-- '[[_Standards/WikiData/WD~Collège_de_France,202660]]'
+- '[[_Standards/WikiData/WD~University_of_Bologna,131262|WD~University_of_Bologna,131262]]'
+- '[[_Standards/WikiData/WD~Collège_de_France,202660|WD~Collège_de_France,202660]]'
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579|WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
 notable_work:
-- '[[_Standards/WikiData/WD~The_Name_of_the_Rose,172850]]'
-- "[[_Standards/WikiData/WD~Foucault's_Pendulum,437791]]"
-- '[[_Standards/WikiData/WD~Apocalypse_Postponed,3620661]]'
-- '[[_Standards/WikiData/WD~How_to_Write_a_Thesis,3684178]]'
-- '[[_Standards/WikiData/WD~On_Ugliness,3974113]]'
-- '[[_Standards/WikiData/WD~Misreadings,16549491]]'
+- '[[_Standards/WikiData/WD~The_Name_of_the_Rose,172850|WD~The_Name_of_the_Rose,172850]]'
+- "[[_Standards/WikiData/WD~Foucault's_Pendulum,437791|WD~Foucault's_Pendulum,437791]]"
+- '[[_Standards/WikiData/WD~Apocalypse_Postponed,3620661|WD~Apocalypse_Postponed,3620661]]'
+- '[[_Standards/WikiData/WD~How_to_Write_a_Thesis,3684178|WD~How_to_Write_a_Thesis,3684178]]'
+- '[[_Standards/WikiData/WD~On_Ugliness,3974113|WD~On_Ugliness,3974113]]'
+- '[[_Standards/WikiData/WD~Misreadings,16549491|WD~Misreadings,16549491]]'
 influenced_by:
-- '[[_Standards/WikiData/WD~Charles_Sanders_Peirce,187520]]'
-- '[[_Standards/WikiData/WD~Jorge_Luis_Borges,909]]'
-- '[[_Standards/WikiData/WD~James_Joyce,6882]]'
-- '[[_Standards/WikiData/WD~Immanuel_Kant,9312]]'
-- '[[_Standards/WikiData/WD~Thomas_Aquinas,9438]]'
-- '[[_Standards/WikiData/WD~Arthur_Conan_Doyle,35610]]'
+- '[[_Standards/WikiData/WD~Charles_Sanders_Peirce,187520|WD~Charles_Sanders_Peirce,187520]]'
+- '[[_Standards/WikiData/WD~Jorge_Luis_Borges,909|WD~Jorge_Luis_Borges,909]]'
+- '[[_Standards/WikiData/WD~James_Joyce,6882|WD~James_Joyce,6882]]'
+- '[[_Standards/WikiData/WD~Immanuel_Kant,9312|WD~Immanuel_Kant,9312]]'
+- '[[_Standards/WikiData/WD~Thomas_Aquinas,9438|WD~Thomas_Aquinas,9438]]'
+- '[[_Standards/WikiData/WD~Arthur_Conan_Doyle,35610|WD~Arthur_Conan_Doyle,35610]]'
 occupation:
-- '[[_Standards/WikiData/WD~historian,201788]]'
-- '[[_Standards/WikiData/WD~translator,333634]]'
-- '[[_Standards/WikiData/WD~pedagogue,1231865]]'
-- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-- '[[_Standards/WikiData/WD~medievalist,3332711]]'
-- '[[_Standards/WikiData/WD~literary_critic,4263842]]'
-- '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- '[[_Standards/WikiData/WD~novelist,6625963]]'
-- '[[_Standards/WikiData/WD~essayist,11774202]]'
-- '[[_Standards/WikiData/WD~semiotician,16402907]]'
-- '[[_Standards/WikiData/WD~literary_scholar,17167049]]'
-- '[[_Standards/WikiData/WD~screenwriter,28389]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-cause_of_death: '[[_Standards/WikiData/WD~pancreatic_cancer,212961]]'
+- '[[_Standards/WikiData/WD~historian,201788|WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~translator,333634|WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~pedagogue,1231865|WD~pedagogue,1231865]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272|WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~medievalist,3332711|WD~medievalist,3332711]]'
+- '[[_Standards/WikiData/WD~literary_critic,4263842|WD~literary_critic,4263842]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~novelist,6625963|WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~essayist,11774202|WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~semiotician,16402907|WD~semiotician,16402907]]'
+- '[[_Standards/WikiData/WD~literary_scholar,17167049|WD~literary_scholar,17167049]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389|WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+cause_of_death: '[[_Standards/WikiData/WD~pancreatic_cancer,212961|WD~pancreatic_cancer,212961]]'
 member_of:
-- '[[_Standards/WikiData/WD~Royal_Academy_of_Science,_Letters_and_Fine_Arts_of_Belgium,337580]]'
-- '[[_Standards/WikiData/WD~Accademia_Nazionale_dei_Lincei,338432]]'
-- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
-- "[[_Standards/WikiData/WD~College_of_'Pataphysics,1371509]]"
-- '[[_Standards/WikiData/WD~International_Association_for_Semiotic_Studies,2060013]]'
-- '[[_Standards/WikiData/WD~CICAP,3648722]]'
-educated_at: '[[_Standards/WikiData/WD~University_of_Turin,499911]]'
+- '[[_Standards/WikiData/WD~Royal_Academy_of_Science,_Letters_and_Fine_Arts_of_Belgium,337580|WD~Royal_Academy_of_Science,_Letters_and_Fine_Arts_of_Belgium,337580]]'
+- '[[_Standards/WikiData/WD~Accademia_Nazionale_dei_Lincei,338432|WD~Accademia_Nazionale_dei_Lincei,338432]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281|WD~American_Academy_of_Arts_and_Letters,463281]]'
+- "[[_Standards/WikiData/WD~College_of_'Pataphysics,1371509|WD~College_of_'Pataphysics,1371509]]"
+- '[[_Standards/WikiData/WD~International_Association_for_Semiotic_Studies,2060013|WD~International_Association_for_Semiotic_Studies,2060013]]'
+- '[[_Standards/WikiData/WD~CICAP,3648722|WD~CICAP,3648722]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Turin,499911|WD~University_of_Turin,499911]]'
 award_received:
-- '[[_Standards/WikiData/WD~Austrian_State_Prize_for_European_Literature,698647]]'
-- '[[_Standards/WikiData/WD~Strega_Prize,731542]]'
-- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Communications_and_Humanities,3323451]]'
-- '[[_Standards/WikiData/WD~Prix_Médicis_étranger,3405076]]'
-- '[[_Standards/WikiData/WD~The_VIZE_97_Prize,7771871]]'
-- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-- "[[_Standards/WikiData/WD~Knight_Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905235]]"
-- '[[_Standards/WikiData/WD~honorary_doctorate,11415564]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Tartu,12376540]]'
-- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
-- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
-- '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
-- '[[_Standards/WikiData/WD~Gold_Medal_of_the_Italian_Order_of_Merit_for_Culture_and_Art,15284180]]'
-- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Liège,23700921]]'
-- '[[_Standards/WikiData/WD~Cesare_Pavese_Prize,24941781]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Katholieke_Universiteit_Leuven,30168724]]'
-- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_Free_University_of_Berlin,32331664]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Uppsala,38040410]]'
-- '[[_Standards/WikiData/WD~honorary_doctorate_from_Brown_University,41795411]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_Tel_Aviv_University,42310166]]'
-- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Burgos,50615715]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Madrid_Complutense,50621171]]'
-- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Glasgow,55149541]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Athens,56239664]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_Sofia_University,59560494]]'
-- '[[_Standards/WikiData/WD~Honorary_Doctorate_of_University_of_Buenos_Aires,61792142]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_Loyola_University_Chicago,68796930]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Belgrade,87781782]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Kent,101085992]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_Rutgers_University,105477187]]'
-- '[[_Standards/WikiData/WD~Q109986273,109986273]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Sorbonne_Nouvelle_University,113532584]]'
-- '[[_Standards/WikiData/WD~honorary_doctorate_from_University_of_Paris_II,126416245]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Marie_and_Louis_Pasteur_University,126416273]]'
-- '[[_Standards/WikiData/WD~honorary_doctorate_of_Grenoble_III_University,126416286]]'
-- '[[_Standards/WikiData/WD~Bancarella_Literary_Prize,135653327]]'
+- '[[_Standards/WikiData/WD~Austrian_State_Prize_for_European_Literature,698647|WD~Austrian_State_Prize_for_European_Literature,698647]]'
+- '[[_Standards/WikiData/WD~Strega_Prize,731542|WD~Strega_Prize,731542]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Communications_and_Humanities,3323451|WD~Princess_of_Asturias_Award_for_Communications_and_Humanities,3323451]]'
+- '[[_Standards/WikiData/WD~Prix_Médicis_étranger,3405076|WD~Prix_Médicis_étranger,3405076]]'
+- '[[_Standards/WikiData/WD~The_VIZE_97_Prize,7771871|WD~The_VIZE_97_Prize,7771871]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195|WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- "[[_Standards/WikiData/WD~Knight_Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905235|WD~Knight_Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905235]]"
+- '[[_Standards/WikiData/WD~honorary_doctorate,11415564|WD~honorary_doctorate,11415564]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Tartu,12376540|WD~honorary_doctor_of_the_University_of_Tartu,12376540]]'
+- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531|WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974|WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
+- '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034|WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
+- '[[_Standards/WikiData/WD~Gold_Medal_of_the_Italian_Order_of_Merit_for_Culture_and_Art,15284180|WD~Gold_Medal_of_the_Italian_Order_of_Merit_for_Culture_and_Art,15284180]]'
+- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Liège,23700921|WD~Honorary_doctor_of_the_University_of_Liège,23700921]]'
+- '[[_Standards/WikiData/WD~Cesare_Pavese_Prize,24941781|WD~Cesare_Pavese_Prize,24941781]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Katholieke_Universiteit_Leuven,30168724|WD~honorary_doctor_of_the_Katholieke_Universiteit_Leuven,30168724]]'
+- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_Free_University_of_Berlin,32331664|WD~Honorary_doctor_of_the_Free_University_of_Berlin,32331664]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Uppsala,38040410|WD~honorary_doctor_of_the_University_of_Uppsala,38040410]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_from_Brown_University,41795411|WD~honorary_doctorate_from_Brown_University,41795411]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Tel_Aviv_University,42310166|WD~honorary_doctor_of_Tel_Aviv_University,42310166]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Burgos,50615715|WD~honorary_doctorate_of_the_University_of_Burgos,50615715]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Madrid_Complutense,50621171|WD~honorary_doctor_of_the_University_of_Madrid_Complutense,50621171]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Glasgow,55149541|WD~honorary_doctorate_of_the_University_of_Glasgow,55149541]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Athens,56239664|WD~honorary_doctor_of_the_University_of_Athens,56239664]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Sofia_University,59560494|WD~honorary_doctor_of_Sofia_University,59560494]]'
+- '[[_Standards/WikiData/WD~Honorary_Doctorate_of_University_of_Buenos_Aires,61792142|WD~Honorary_Doctorate_of_University_of_Buenos_Aires,61792142]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Loyola_University_Chicago,68796930|WD~honorary_doctor_of_Loyola_University_Chicago,68796930]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Belgrade,87781782|WD~honorary_doctor_of_the_University_of_Belgrade,87781782]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Kent,101085992|WD~honorary_doctor_of_the_University_of_Kent,101085992]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Rutgers_University,105477187|WD~honorary_doctor_of_Rutgers_University,105477187]]'
+- '[[_Standards/WikiData/WD~Q109986273,109986273|WD~Q109986273,109986273]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Sorbonne_Nouvelle_University,113532584|WD~honorary_doctor_of_the_Sorbonne_Nouvelle_University,113532584]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_from_University_of_Paris_II,126416245|WD~honorary_doctorate_from_University_of_Paris_II,126416245]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Marie_and_Louis_Pasteur_University,126416273|WD~honorary_doctor_of_the_Marie_and_Louis_Pasteur_University,126416273]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_Grenoble_III_University,126416286|WD~honorary_doctorate_of_Grenoble_III_University,126416286]]'
+- '[[_Standards/WikiData/WD~Bancarella_Literary_Prize,135653327|WD~Bancarella_Literary_Prize,135653327]]'
 student:
-- '[[_Standards/WikiData/WD~Marco_Belpoliti,1679055]]'
-- '[[_Standards/WikiData/WD~Christos_Thivaios,12886151]]'
-spouse: '[[_Standards/WikiData/WD~Renate_Ramge,2143481]]'
-given_name: '[[_Standards/WikiData/WD~Umberto,2478120]]'
-academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Sciences,2628227]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-list_of_works: '[[_Standards/WikiData/WD~Umberto_Eco_bibliography,11145670]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Umberto_Eco,14338816]]'
-founded_by: '[[_Standards/WikiData/WD~La_nave_di_Teseo,23908825]]'
-owner_of: "[[_Standards/WikiData/WD~Umberto_Eco's_library,35029860]]"
-family_name: '[[_Standards/WikiData/WD~Eco,37499372]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Marco_Belpoliti,1679055|WD~Marco_Belpoliti,1679055]]'
+- '[[_Standards/WikiData/WD~Christos_Thivaios,12886151|WD~Christos_Thivaios,12886151]]'
+spouse: '[[_Standards/WikiData/WD~Renate_Ramge,2143481|WD~Renate_Ramge,2143481]]'
+given_name: '[[_Standards/WikiData/WD~Umberto,2478120|WD~Umberto,2478120]]'
+academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Sciences,2628227|WD~Doctor_of_Sciences,2628227]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+list_of_works: '[[_Standards/WikiData/WD~Umberto_Eco_bibliography,11145670|WD~Umberto_Eco_bibliography,11145670]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Umberto_Eco,14338816|WD~Template_Umberto_Eco,14338816]]'
+founded_by: '[[_Standards/WikiData/WD~La_nave_di_Teseo,23908825|WD~La_nave_di_Teseo,23908825]]'
+owner_of: "[[_Standards/WikiData/WD~Umberto_Eco's_library,35029860|WD~Umberto_Eco's_library,35029860]]"
+family_name: '[[_Standards/WikiData/WD~Eco,37499372|WD~Eco,37499372]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
 residence:
-- '[[_Standards/WikiData/WD~Milan,490]]'
-- '[[_Standards/WikiData/WD~Urbino,2759]]'
-- '[[_Standards/WikiData/WD~Alessandria,6088]]'
-place_of_death: '[[_Standards/WikiData/WD~Milan,490]]'
-writing_language: '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~Milan,490|WD~Milan,490]]'
+- '[[_Standards/WikiData/WD~Urbino,2759|WD~Urbino,2759]]'
+- '[[_Standards/WikiData/WD~Alessandria,6088|WD~Alessandria,6088]]'
+place_of_death: '[[_Standards/WikiData/WD~Milan,490|WD~Milan,490]]'
+writing_language: '[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]'
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~Italian,652]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-native_language: '[[_Standards/WikiData/WD~Italian,652]]'
-work_location: '[[_Standards/WikiData/WD~Bologna,1891]]'
-place_of_birth: '[[_Standards/WikiData/WD~Alessandria,6088]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-genre: '[[_Standards/WikiData/WD~essay,35760]]'
+- '[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]'
+work_location: '[[_Standards/WikiData/WD~Bologna,1891|WD~Bologna,1891]]'
+place_of_birth: '[[_Standards/WikiData/WD~Alessandria,6088|WD~Alessandria,6088]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066|WD~atheism,7066]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+genre: '[[_Standards/WikiData/WD~essay,35760|WD~essay,35760]]'
 Commons_gallery: Umberto Eco
 Commons_category: Umberto Eco
 Europeana_entity: agent/base/145365
@@ -230,7 +230,7 @@ dv_has_:
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Umberto_Eco,12807]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Umberto_Eco,12807|WD~Umberto_Eco,12807]] 
 
 ## #has_/text_of_/abstract 
 
@@ -238,7 +238,7 @@ dv_has_:
 > philosopher, semiotician, novelist, cultural critic, 
 > and political and social commentator. 
 > 
-> In English, he is best known for his popular 1980 novel The [[Eco,Umberto/Name_of_the_Rose]], 
+> In English, he is best known for his popular 1980 novel The [[Eco,Umberto/Name_of_the_Rose|Name_of_the_Rose]], 
 > a historical mystery combining semiotics in fiction with biblical analysis, 
 > medieval studies and literary theory, 
 > as well as [[Foucault's Pendulum]], his 1988 novel which touches on similar themes.
@@ -253,7 +253,7 @@ dv_has_:
 > at the University of Bologna, where he taught for much of his life. 
 > 
 > In the 21st century, he has continued to gain recognition 
-> for his 1995 essay "[[Eco,Umberto/Ur-Fascism]]", 
+> for his 1995 essay "[[Eco,Umberto/Ur-Fascism|Ur-Fascism]]", 
 > where Eco lists fourteen general properties he believes comprise fascist ideologies.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Umberto%20Eco) 

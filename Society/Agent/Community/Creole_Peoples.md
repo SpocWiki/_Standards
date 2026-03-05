@@ -47,22 +47,22 @@ aliases:
 - 크리올
 has_id_wikidata: Q498640
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 different_from:
-- '[[_Standards/WikiData/WD~Creole,641388]]'
-- '[[_Standards/WikiData/WD~creole,33289]]'
-subclass_of: '[[_Standards/WikiData/WD~multiracial_people,1378555]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+- '[[_Standards/WikiData/WD~Creole,641388|WD~Creole,641388]]'
+- '[[_Standards/WikiData/WD~creole,33289|WD~creole,33289]]'
+subclass_of: '[[_Standards/WikiData/WD~multiracial_people,1378555|WD~multiracial_people,1378555]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
 indigenous_to:
-- '[[_Standards/WikiData/WD~Indian_Ocean_Region,102599903]]'
-- '[[_Standards/WikiData/WD~Americas,828]]'
-- '[[_Standards/WikiData/WD~Africa,15]]'
-- '[[_Standards/WikiData/WD~Asia,48]]'
-instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+- '[[_Standards/WikiData/WD~Indian_Ocean_Region,102599903|WD~Indian_Ocean_Region,102599903]]'
+- '[[_Standards/WikiData/WD~Americas,828|WD~Americas,828]]'
+- '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
 Krugosvet_article: narody-i-yazyki/kreoly
 dv_has_:
   name_:

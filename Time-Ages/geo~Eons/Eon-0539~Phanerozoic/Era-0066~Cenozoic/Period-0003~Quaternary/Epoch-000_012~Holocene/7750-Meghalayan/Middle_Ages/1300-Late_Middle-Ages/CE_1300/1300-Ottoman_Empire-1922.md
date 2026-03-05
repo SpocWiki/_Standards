@@ -193,31 +193,31 @@ aliases:
 - ꠃꠍꠝꠣꠘꠤ ꠞꠣꠎ
 - 오스만 제국
 has_id_wikidata: Q12560
-anthem: '[[_Standards/WikiData/WD~Imperial_anthems_of_the_Ottoman_Empire,1192863]]'
+anthem: '[[_Standards/WikiData/WD~Imperial_anthems_of_the_Ottoman_Empire,1192863|WD~Imperial_anthems_of_the_Ottoman_Empire,1192863]]'
 area: 5200000
 basic_form_of_government:
-- '[[_Standards/WikiData/WD~absolute_monarchy,184558]]'
-- '[[_Standards/WikiData/WD~dual_monarchy,2994894]]'
-- '[[_Standards/WikiData/WD~monarchy,7269]]'
-- '[[_Standards/WikiData/WD~military_dictatorship,49896]]'
-- '[[_Standards/WikiData/WD~single-party_system,50686]]'
+- '[[_Standards/WikiData/WD~absolute_monarchy,184558|WD~absolute_monarchy,184558]]'
+- '[[_Standards/WikiData/WD~dual_monarchy,2994894|WD~dual_monarchy,2994894]]'
+- '[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
+- '[[_Standards/WikiData/WD~military_dictatorship,49896|WD~military_dictatorship,49896]]'
+- '[[_Standards/WikiData/WD~single-party_system,50686|WD~single-party_system,50686]]'
 BHCL_UUID: dd6c4065-465a-4b28-b626-e8d1bd856704
-capital: '[[_Standards/WikiData/WD~Constantinople,16869]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q8067222,8067222]]'
-central_bank: '[[_Standards/WikiData/WD~Ottoman_Bank,2041453]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_the_Ottoman_Empire,817316]]'
+capital: '[[_Standards/WikiData/WD~Constantinople,16869|WD~Constantinople,16869]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q8067222,8067222|WD~Q8067222,8067222]]'
+central_bank: '[[_Standards/WikiData/WD~Ottoman_Bank,2041453|WD~Ottoman_Bank,2041453]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_the_Ottoman_Empire,817316|WD~coat_of_arms_of_the_Ottoman_Empire,817316]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Ottoman%20Empire%20%281882%E2%80%931922%29.svg
 Commons_category: Ottoman Empire
 continent:
-- '[[_Standards/WikiData/WD~Africa,15]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
-- '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 coordinate_location: Point(29.0 41.0)
 currency:
-- '[[_Standards/WikiData/WD~sultani,188416]]'
-- '[[_Standards/WikiData/WD~Akçe,424754]]'
-- '[[_Standards/WikiData/WD~kuruş,661854]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Ottoman_Empire,5256115]]'
+- '[[_Standards/WikiData/WD~sultani,188416|WD~sultani,188416]]'
+- '[[_Standards/WikiData/WD~Akçe,424754|WD~Akçe,424754]]'
+- '[[_Standards/WikiData/WD~kuruş,661854|WD~kuruş,661854]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Ottoman_Empire,5256115|WD~demographics_of_the_Ottoman_Empire,5256115]]'
 demonym:
 - Otamánach
 - عُثماني
@@ -235,76 +235,76 @@ demonym:
 - Osman
 - Osmanka
 described_by_source:
-- '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Regesta_Imperii_XIII,97879676]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
-- '[[_Standards/WikiData/WD~History_of_Ming,28763]]'
+- '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_History_of_Yuan,1053256|WD~New_History_of_Yuan,1053256]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Regesta_Imperii_XIII,97879676|WD~Regesta_Imperii_XIII,97879676]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188|WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
+- '[[_Standards/WikiData/WD~History_of_Ming,28763|WD~History_of_Ming,28763]]'
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Rise%20and%20Fall%20of%20the%20Ottoman%20Empire%201300-1923.gif
-diplomatic_relation: "[[_Standards/WikiData/WD~Ukrainian_People's_Republic,243610]]"
+diplomatic_relation: "[[_Standards/WikiData/WD~Ukrainian_People's_Republic,243610|WD~Ukrainian_People's_Republic,243610]]"
 dissolved_abolished_or_demolished_date: 1922-11-17
-economy_of_topic: '[[_Standards/WikiData/WD~economic_history_of_the_Ottoman_Empire,4817421]]'
-flag: '[[_Standards/WikiData/WD~flags_of_the_Ottoman_Empire,1907209]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economic_history_of_the_Ottoman_Empire,4817421|WD~economic_history_of_the_Ottoman_Empire,4817421]]'
+flag: '[[_Standards/WikiData/WD~flags_of_the_Ottoman_Empire,1907209|WD~flags_of_the_Ottoman_Empire,1907209]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Ottoman%20Empire%20%281844%E2%80%931922%29.svg
 follows:
-- '[[_Standards/WikiData/WD~Empire_of_Trebizond,178913]]'
-- '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Ottoman_Empire,2564225]]'
+- '[[_Standards/WikiData/WD~Empire_of_Trebizond,178913|WD~Empire_of_Trebizond,178913]]'
+- '[[_Standards/WikiData/WD~Byzantine_Empire,12544|WD~Byzantine_Empire,12544]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Ottoman_Empire,2564225|WD~history_of_the_Ottoman_Empire,2564225]]'
 inception:
 - 1300-01-01
 - 1299-08-05
-instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
 Krugosvet_article: istoriya/OSMANSKAYA_OTTOMANSKAYA_IMPERIYA.html
 language_used:
-- '[[_Standards/WikiData/WD~Greek,9129]]'
-- '[[_Standards/WikiData/WD~Persian,9168]]'
-- '[[_Standards/WikiData/WD~Arabic,13955]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-legislative_body: '[[_Standards/WikiData/WD~General_Assembly_of_the_Ottoman_Empire,3333555]]'
+- '[[_Standards/WikiData/WD~Greek,9129|WD~Greek,9129]]'
+- '[[_Standards/WikiData/WD~Persian,9168|WD~Persian,9168]]'
+- '[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+legislative_body: '[[_Standards/WikiData/WD~General_Assembly_of_the_Ottoman_Empire,3333555|WD~General_Assembly_of_the_Ottoman_Empire,3333555]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/OttomanEmpireIn1683.png
 MeSH_tree_code: Z01.586.687
 motto_text: دولت ابد مدت
-named_after: '[[_Standards/WikiData/WD~Osman_I,83100]]'
+named_after: '[[_Standards/WikiData/WD~Osman_I,83100|WD~Osman_I,83100]]'
 National_Library_of_Poland_Descriptor: 9810651820805606
 native_label: دولت عالیه عثمانیه
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~sultan_of_the_Ottoman_Empire,15315411]]'
-official_religion: '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~sultan_of_the_Ottoman_Empire,15315411|WD~sultan_of_the_Ottoman_Empire,15315411]]'
+official_religion: '[[_Standards/WikiData/WD~Sunni_Islam,483654|WD~Sunni_Islam,483654]]'
 OmegaWiki_Defined_Meaning: 798994
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Ottoman%20Sultan%20Selim%20III%20banner.jpg
-part_of: '[[_Standards/WikiData/WD~Central_Powers,152283]]'
+part_of: '[[_Standards/WikiData/WD~Central_Powers,152283|WD~Central_Powers,152283]]'
 PM20_geo_code: A43
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~sultan_of_the_Ottoman_Empire,15315411]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~sultan_of_the_Ottoman_Empire,15315411|WD~sultan_of_the_Ottoman_Empire,15315411]]'
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Alevism,137097]]'
-- '[[_Standards/WikiData/WD~Syriac_Orthodox_Church,210540]]'
-- '[[_Standards/WikiData/WD~Bektashi_Order,467692]]'
-- '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
-- '[[_Standards/WikiData/WD~Armenian_Apostolic_Church,683724]]'
-- '[[_Standards/WikiData/WD~Greek_Orthodoxy,7970362]]'
-- '[[_Standards/WikiData/WD~Judaism,9268]]'
-replaced_by: '[[_Standards/WikiData/WD~Government_of_the_Grand_National_Assembly,2949827]]'
+- '[[_Standards/WikiData/WD~Alevism,137097|WD~Alevism,137097]]'
+- '[[_Standards/WikiData/WD~Syriac_Orthodox_Church,210540|WD~Syriac_Orthodox_Church,210540]]'
+- '[[_Standards/WikiData/WD~Bektashi_Order,467692|WD~Bektashi_Order,467692]]'
+- '[[_Standards/WikiData/WD~Sunni_Islam,483654|WD~Sunni_Islam,483654]]'
+- '[[_Standards/WikiData/WD~Armenian_Apostolic_Church,683724|WD~Armenian_Apostolic_Church,683724]]'
+- '[[_Standards/WikiData/WD~Greek_Orthodoxy,7970362|WD~Greek_Orthodoxy,7970362]]'
+- '[[_Standards/WikiData/WD~Judaism,9268|WD~Judaism,9268]]'
+replaced_by: '[[_Standards/WikiData/WD~Government_of_the_Grand_National_Assembly,2949827|WD~Government_of_the_Grand_National_Assembly,2949827]]'
 replaces:
-- '[[_Standards/WikiData/WD~Beylik_of_Osman,4338046]]'
-- '[[_Standards/WikiData/WD~Maona_of_Chios_and_Phocaea,6753657]]'
-- '[[_Standards/WikiData/WD~Beylik_of_Bafra,6874824]]'
-- '[[_Standards/WikiData/WD~Duchy_of_Leucas,127607963]]'
-- '[[_Standards/WikiData/WD~Abbasid_Caliphate,12536]]'
-- '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
+- '[[_Standards/WikiData/WD~Beylik_of_Osman,4338046|WD~Beylik_of_Osman,4338046]]'
+- '[[_Standards/WikiData/WD~Maona_of_Chios_and_Phocaea,6753657|WD~Maona_of_Chios_and_Phocaea,6753657]]'
+- '[[_Standards/WikiData/WD~Beylik_of_Bafra,6874824|WD~Beylik_of_Bafra,6874824]]'
+- '[[_Standards/WikiData/WD~Duchy_of_Leucas,127607963|WD~Duchy_of_Leucas,127607963]]'
+- '[[_Standards/WikiData/WD~Abbasid_Caliphate,12536|WD~Abbasid_Caliphate,12536]]'
+- '[[_Standards/WikiData/WD~Byzantine_Empire,12544|WD~Byzantine_Empire,12544]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Bulgaria,147909]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]]'
-- '[[_Standards/WikiData/WD~Austria-Hungary,28513]]'
+- '[[_Standards/WikiData/WD~Austrian_Empire,131964|WD~Austrian_Empire,131964]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Bulgaria,147909|WD~Kingdom_of_Bulgaria,147909]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150|WD~Kingdom_of_Hungary,171150]]'
+- '[[_Standards/WikiData/WD~Austria-Hungary,28513|WD~Austria-Hungary,28513]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Ottoman%20Empire%20%28spoken%20by%20AI%20voice%29.mp3
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ottoman_Empire_topics,14448021]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ottoman_Empire,10634124]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ottoman_Empire_topics,14448021|WD~Template_Ottoman_Empire_topics,14448021]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ottoman_Empire,10634124|WD~Portal_Ottoman_Empire,10634124]]'
 UMLS_CUI: C2718043
 U_S_National_Archives_Identifier: 10046527
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Ottoman_Empire,7112772]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Ottoman_Empire,7112772|WD~outline_of_the_Ottoman_Empire,7112772]]'
 dv_has_:
   duration_: P622Y5M2W2D
   name_:

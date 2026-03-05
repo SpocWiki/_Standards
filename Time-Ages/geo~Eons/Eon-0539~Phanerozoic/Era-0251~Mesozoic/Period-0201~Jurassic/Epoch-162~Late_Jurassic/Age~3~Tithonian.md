@@ -30,14 +30,14 @@ aliases:
 - 提通階
 - 티톤절
 has_id_wikidata: Q855125
-named_by: '[[_Standards/WikiData/WD~Albert_Oppel,66578]]'
+named_by: '[[_Standards/WikiData/WD~Albert_Oppel,66578|WD~Albert_Oppel,66578]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Tithonus,737306]]'
-replaces: '[[_Standards/WikiData/WD~Portland_Group,3399326]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Tithonian,21693869]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Tithonus,737306|WD~Tithonus,737306]]'
+replaces: '[[_Standards/WikiData/WD~Portland_Group,3399326|WD~Portland_Group,3399326]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Tithonian,21693869|WD~Category_Tithonian,21693869]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -152100000-01-01T00:00:00Z
 end_time: -145000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: CFF0FC

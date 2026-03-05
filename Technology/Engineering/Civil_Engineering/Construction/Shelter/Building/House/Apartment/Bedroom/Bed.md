@@ -128,31 +128,31 @@ aliases:
   - 침대
 has_id_wikidata: Q42177
 location:
-  - "[[_Standards/WikiData/WD~bedroom,193837]]"
-  - "[[_Standards/WikiData/WD~medical_facility,4260475]]"
+  - "[[_Standards/WikiData/WD~bedroom,193837|WD~bedroom,193837]]"
+  - "[[_Standards/WikiData/WD~medical_facility,4260475|WD~medical_facility,4260475]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Bett,278202]]"
-  - "[[_Standards/WikiData/WD~Bed,408716]]"
-  - "[[_Standards/WikiData/WD~Seng,2270935]]"
+  - "[[_Standards/WikiData/WD~Bett,278202|WD~Bett,278202]]"
+  - "[[_Standards/WikiData/WD~Bed,408716|WD~Bed,408716]]"
+  - "[[_Standards/WikiData/WD~Seng,2270935|WD~Seng,2270935]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 has_use:
-  - "[[_Standards/WikiData/WD~sitting,1144593]]"
-  - "[[_Standards/WikiData/WD~lying,2268776]]"
-  - "[[_Standards/WikiData/WD~resting,17554390]]"
-  - "[[_Standards/WikiData/WD~human_sexual_behavior,608]]"
-  - "[[_Standards/WikiData/WD~sleep,35831]]"
+  - "[[_Standards/WikiData/WD~sitting,1144593|WD~sitting,1144593]]"
+  - "[[_Standards/WikiData/WD~lying,2268776|WD~lying,2268776]]"
+  - "[[_Standards/WikiData/WD~resting,17554390|WD~resting,17554390]]"
+  - "[[_Standards/WikiData/WD~human_sexual_behavior,608|WD~human_sexual_behavior,608]]"
+  - "[[_Standards/WikiData/WD~sleep,35831|WD~sleep,35831]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~bedroom_furniture,4879419]]"
-  - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
-  - "[[_Standards/WikiData/WD~furnishings,12375131]]"
-  - "[[_Standards/WikiData/WD~folding_furniture,17232204]]"
-  - "[[_Standards/WikiData/WD~sleeping_place,45422604]]"
-instance_of: "[[_Standards/WikiData/WD~furniture,14745]]"
-has_immediate_cause: "[[_Standards/WikiData/WD~sleep,35831]]"
+  - "[[_Standards/WikiData/WD~bedroom_furniture,4879419|WD~bedroom_furniture,4879419]]"
+  - "[[_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]"
+  - "[[_Standards/WikiData/WD~furnishings,12375131|WD~furnishings,12375131]]"
+  - "[[_Standards/WikiData/WD~folding_furniture,17232204|WD~folding_furniture,17232204]]"
+  - "[[_Standards/WikiData/WD~sleeping_place,45422604|WD~sleeping_place,45422604]]"
+instance_of: "[[_Standards/WikiData/WD~furniture,14745|WD~furniture,14745]]"
+has_immediate_cause: "[[_Standards/WikiData/WD~sleep,35831|WD~sleep,35831]]"
 Nomenclature_for_Museum_Cataloging: 1177
 OmegaWiki_Defined_Meaning: 6851
 IMDb_keyword: bed

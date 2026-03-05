@@ -69,19 +69,19 @@ aliases:
 - 유클리드 공간
 has_id_wikidata: Q17295
 underlying_structure_s_:
-- '[[_Standards/WikiData/WD~Hilbert_space,190056]]'
-- '[[_Standards/WikiData/WD~Lie_group,622679]]'
-- '[[_Standards/WikiData/WD~Riemannian_manifold,632814]]'
-- '[[_Standards/WikiData/WD~finite_dimension_vector_space,3058336]]'
-- '[[_Standards/WikiData/WD~analytic_manifold,4751134]]'
-- '[[_Standards/WikiData/WD~real_vector_space,46996054]]'
+- '[[_Standards/WikiData/WD~Hilbert_space,190056|WD~Hilbert_space,190056]]'
+- '[[_Standards/WikiData/WD~Lie_group,622679|WD~Lie_group,622679]]'
+- '[[_Standards/WikiData/WD~Riemannian_manifold,632814|WD~Riemannian_manifold,632814]]'
+- '[[_Standards/WikiData/WD~finite_dimension_vector_space,3058336|WD~finite_dimension_vector_space,3058336]]'
+- '[[_Standards/WikiData/WD~analytic_manifold,4751134|WD~analytic_manifold,4751134]]'
+- '[[_Standards/WikiData/WD~real_vector_space,46996054|WD~real_vector_space,46996054]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~space,472971]]'
-- '[[_Standards/WikiData/WD~geometric_structure,130249724]]'
-opposite_of: '[[_Standards/WikiData/WD~curved_space,5196078]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-studied_by: '[[_Standards/WikiData/WD~mathematics,395]]'
-named_after: '[[_Standards/WikiData/WD~Euclid,8747]]'
+- '[[_Standards/WikiData/WD~space,472971|WD~space,472971]]'
+- '[[_Standards/WikiData/WD~geometric_structure,130249724|WD~geometric_structure,130249724]]'
+opposite_of: '[[_Standards/WikiData/WD~curved_space,5196078|WD~curved_space,5196078]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+studied_by: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+named_after: '[[_Standards/WikiData/WD~Euclid,8747|WD~Euclid,8747]]'
 Euler_characteristic: 1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coord%20system%20CA%200.svg
 IEV_number: 102-03-19

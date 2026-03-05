@@ -34,22 +34,22 @@ aliases:
 - 동적 램
 has_id_wikidata: Q189396
 different_from:
-- '[[_Standards/WikiData/WD~read_only_memory,160710]]'
-- '[[_Standards/WikiData/WD~static_random_access_memory,267416]]'
-- '[[_Standards/WikiData/WD~volatile_memory,496533]]'
-- '[[_Standards/WikiData/WD~non_volatile_random_access_memory,499024]]'
-- '[[_Standards/WikiData/WD~write_only_memory,1535598]]'
-- '[[_Standards/WikiData/WD~storage_capacity,2308599]]'
-- '[[_Standards/WikiData/WD~computer_memory,5830907]]'
-- '[[_Standards/WikiData/WD~non_volatile_memory,10997658]]'
-- '[[_Standards/WikiData/WD~volatile_random_access_memory,67420692]]'
-- '[[_Standards/WikiData/WD~random_access_memory,5295]]'
+- '[[_Standards/WikiData/WD~read_only_memory,160710|WD~read_only_memory,160710]]'
+- '[[_Standards/WikiData/WD~static_random_access_memory,267416|WD~static_random_access_memory,267416]]'
+- '[[_Standards/WikiData/WD~volatile_memory,496533|WD~volatile_memory,496533]]'
+- '[[_Standards/WikiData/WD~non_volatile_random_access_memory,499024|WD~non_volatile_random_access_memory,499024]]'
+- '[[_Standards/WikiData/WD~write_only_memory,1535598|WD~write_only_memory,1535598]]'
+- '[[_Standards/WikiData/WD~storage_capacity,2308599|WD~storage_capacity,2308599]]'
+- '[[_Standards/WikiData/WD~computer_memory,5830907|WD~computer_memory,5830907]]'
+- '[[_Standards/WikiData/WD~non_volatile_memory,10997658|WD~non_volatile_memory,10997658]]'
+- '[[_Standards/WikiData/WD~volatile_random_access_memory,67420692|WD~volatile_random_access_memory,67420692]]'
+- '[[_Standards/WikiData/WD~random_access_memory,5295|WD~random_access_memory,5295]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~semiconductor_memory,1143031]]'
-- '[[_Standards/WikiData/WD~volatile_random_access_memory,67420692]]'
-uses: '[[_Standards/WikiData/WD~memory_refresh,6815755]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_DRAM,7748780]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976]]'
+- '[[_Standards/WikiData/WD~semiconductor_memory,1143031|WD~semiconductor_memory,1143031]]'
+- '[[_Standards/WikiData/WD~volatile_random_access_memory,67420692|WD~volatile_random_access_memory,67420692]]'
+uses: '[[_Standards/WikiData/WD~memory_refresh,6815755|WD~memory_refresh,6815755]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_DRAM,7748780|WD~Template_DRAM,7748780]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976|WD~type_of_computer_memory_or_storage,125005976]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DRAM%20DDR2%20512.jpg
 UNSPSC_Code: 32101602
 Commons_category: DRAM

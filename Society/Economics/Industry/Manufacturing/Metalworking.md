@@ -54,24 +54,24 @@ aliases:
 - 금속가공
 has_id_wikidata: Q953045
 subclass_of:
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~material_process,104637425]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436|WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~material_process,104637425|WD~material_process,104637425]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_metalworking_terminology,6822961]]'
-part_of: '[[_Standards/WikiData/WD~manufacturing_engineering,11049265]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~metal_object,11646939]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Metalworking_navbox,12344407]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_metalworking_terminology,6822961|WD~outline_of_metalworking_terminology,6822961]]'
+part_of: '[[_Standards/WikiData/WD~manufacturing_engineering,11049265|WD~manufacturing_engineering,11049265]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~metal_object,11646939|WD~metal_object,11646939]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Metalworking_navbox,12344407|WD~Template_Metalworking_navbox,12344407]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~metalworker,15980591]]'
-- '[[_Standards/WikiData/WD~Precision_tools_mechanic,58582219]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
-class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~metalworker,15980591|WD~metalworker,15980591]]'
+- '[[_Standards/WikiData/WD~Precision_tools_mechanic,58582219|WD~Precision_tools_mechanic,58582219]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806|WD~WikiProject_Craft,110249806]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
 uses:
-- '[[_Standards/WikiData/WD~metal,11426]]'
-- '[[_Standards/WikiData/WD~machine_tool,19768]]'
+- '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~machine_tool,19768|WD~machine_tool,19768]]'
 Dewey_Decimal_Classification: 671
 ISCO_88_occupation_class: 8122
 subreddit: metalworking

@@ -86,16 +86,16 @@ aliases:
 - 유럽 원자력 공동체
 has_id_wikidata: Q8919
 instance_of:
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
-- '[[_Standards/WikiData/WD~regional_organization,4120211]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~regional_organization,4120211|WD~regional_organization,4120211]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-member_of: '[[_Standards/WikiData/WD~The_ITER_Organization,101069148]]'
-part_of: '[[_Standards/WikiData/WD~European_Union,458]]'
-followed_by: '[[_Standards/WikiData/WD~European_Union,458]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897|WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+member_of: '[[_Standards/WikiData/WD~The_ITER_Organization,101069148|WD~The_ITER_Organization,101069148]]'
+part_of: '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+followed_by: '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005|WD~Brussels_metropolitan_area,9005]]'
 OmegaWiki_Defined_Meaning: 1353
 BHCL_UUID: 7039c7dd-a208-42cc-80cc-6d529623a86a
 EU_Corporate_body_code: EAEC

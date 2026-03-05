@@ -27,7 +27,7 @@ tags:
 title: has_performer
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: "[[../is/is_performer_in]]"
+dv_has_inverse: "[[../is/is_performer_in|is_performer_in]]"
 dv_has_:
   domain: Event
   name: has_performer
@@ -78,9 +78,9 @@ has_range = `=this.dv_has_range`
 
 has_inverse = `=this.dv_has_inverse`
 
-[[../has_inverse]]
+[[../has_inverse|has_inverse]]
 
-[[../has_inverse]]
+[[../has_inverse|has_inverse]]
 
 
 ## Confidential Links & Embeds: 

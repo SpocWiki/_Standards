@@ -78,10 +78,10 @@ aliases:
 - 대량살륙무기
 - 대량살상무기
 has_id_wikidata: Q49394
-has_effect: '[[_Standards/WikiData/WD~technology_risk,6108858]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Weapons_of_mass_destruction,11055190]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_type,124078422]]'
-subclass_of: '[[_Standards/WikiData/WD~weapon,728]]'
+has_effect: '[[_Standards/WikiData/WD~technology_risk,6108858|WD~technology_risk,6108858]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Weapons_of_mass_destruction,11055190|WD~Template_Weapons_of_mass_destruction,11055190]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_type,124078422|WD~weapon_type,124078422]]'
+subclass_of: '[[_Standards/WikiData/WD~weapon,728|WD~weapon,728]]'
 U_S_National_Archives_Identifier: 10642605
 Dewey_Decimal_Classification:
 - 358.3

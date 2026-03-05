@@ -43,22 +43,22 @@ Lemmy_instance_URL: https://startrek.website/
 hashtag:
 - star trek
 - StarTrek
-creator: '[[_Standards/WikiData/WD~Gene_Roddenberry,191716]]'
-founded_by: '[[_Standards/WikiData/WD~Gene_Roddenberry,191716]]'
-author: '[[_Standards/WikiData/WD~Gene_Roddenberry,191716]]'
-instance_of: '[[_Standards/WikiData/WD~media_franchise,196600]]'
-different_from: '[[_Standards/WikiData/WD~Star_Trek,344471]]'
-fandom: '[[_Standards/WikiData/WD~Trekkie,1412961]]'
-has_part_s_: '[[_Standards/WikiData/WD~Star_Trek_canon,3500963]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Star_Trek,6134409]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Star_Trek,8209008]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Star_Trek,11756023]]'
-takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~Star_Trek_universe,18043309]]'
+creator: '[[_Standards/WikiData/WD~Gene_Roddenberry,191716|WD~Gene_Roddenberry,191716]]'
+founded_by: '[[_Standards/WikiData/WD~Gene_Roddenberry,191716|WD~Gene_Roddenberry,191716]]'
+author: '[[_Standards/WikiData/WD~Gene_Roddenberry,191716|WD~Gene_Roddenberry,191716]]'
+instance_of: '[[_Standards/WikiData/WD~media_franchise,196600|WD~media_franchise,196600]]'
+different_from: '[[_Standards/WikiData/WD~Star_Trek,344471|WD~Star_Trek,344471]]'
+fandom: '[[_Standards/WikiData/WD~Trekkie,1412961|WD~Trekkie,1412961]]'
+has_part_s_: '[[_Standards/WikiData/WD~Star_Trek_canon,3500963|WD~Star_Trek_canon,3500963]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Star_Trek,6134409|WD~Template_Star_Trek,6134409]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Star_Trek,8209008|WD~Portal_Star_Trek,8209008]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Star_Trek,11756023|WD~WikiProject_Star_Trek,11756023]]'
+takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~Star_Trek_universe,18043309|WD~Star_Trek_universe,18043309]]'
 notable_work:
-- '[[_Standards/WikiData/WD~Star_Trek_is_,49404247]]'
-- '[[_Standards/WikiData/WD~The_Cage,20909]]'
-genre: '[[_Standards/WikiData/WD~science_fiction,24925]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Star_Trek_is_,49404247|WD~Star_Trek_is_,49404247]]'
+- '[[_Standards/WikiData/WD~The_Cage,20909|WD~The_Cage,20909]]'
+genre: '[[_Standards/WikiData/WD~science_fiction,24925|WD~science_fiction,24925]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 social_media_followers:
 - 170000
 - 553173

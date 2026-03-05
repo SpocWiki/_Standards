@@ -5,10 +5,10 @@
 | 1971  | ARPANET                           | Early network enabling file transfers among institutions.        |
 | 1985  | [[FTP]]                           | Protocol for transferring files over a network.                  |
 | 1997  | Hotline                           | Combined chat, news, and file sharing.                           |
-| 1999  | [[Streaming_Services/Napster]]    | Pioneered P2P file sharing for music.                            |
+| 1999  | [[Streaming_Services/Napster|Napster]]    | Pioneered P2P file sharing for music.                            |
 | 2000  | Gnutella                          | Decentralized P2P network.                                       |
 | 2001  | Kazaa                             | Popular P2P file sharing application post-Napster.               |
-| 2002  | [[Streaming_Services/BitTorrent]] | Distributed large files by splitting into smaller pieces.        |
+| 2002  | [[Streaming_Services/BitTorrent|BitTorrent]] | Distributed large files by splitting into smaller pieces.        |
 | 2004  | RapidShare                        | One-click file hosting and sharing via direct links.             |
 | 2005  | MegaUpload                        | Similar to RapidShare, shut down in 2012.                        |
 | 2007  | [[Dropbox]]                       | Introduced cloud storage and synchronization.                    |

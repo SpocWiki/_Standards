@@ -96,15 +96,15 @@ aliases:
 - 歐洲歷史
 - 유럽의 역사
 has_id_wikidata: Q7787
-part_of: '[[_Standards/WikiData/WD~history_of_Eurasia,1949625]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Europe,9478882]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Eurasia,1949625|WD~history_of_Eurasia,1949625]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Europe,9478882|WD~Template_History_of_Europe,9478882]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685|WD~history_of_a_geographic_region,63313685]]'
 facet_of:
-- '[[_Standards/WikiData/WD~history,309]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~history,309|WD~history,309]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 Dewey_Decimal_Classification: 940
 Commons_category: History of Europe
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Ortelius%20Map%20of%20Europe.jpg

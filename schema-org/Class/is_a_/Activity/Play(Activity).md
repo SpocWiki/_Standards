@@ -68,17 +68,17 @@ aliases:
 - "\U00029443"
 has_id_wikidata: Q1150958
 subclass_of:
-- '[[_Standards/WikiData/WD~recreation,184872]]'
-- '[[_Standards/WikiData/WD~activity,1914636]]'
-has_cause: '[[_Standards/WikiData/WD~play_drive,1301206]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828744,22828744]]'
+- '[[_Standards/WikiData/WD~recreation,184872|WD~recreation,184872]]'
+- '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+has_cause: '[[_Standards/WikiData/WD~play_drive,1301206|WD~play_drive,1301206]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828744,22828744|WD~Q22828744,22828744]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-facet_of: '[[_Standards/WikiData/WD~psychology,9418]]'
-different_from: '[[_Standards/WikiData/WD~game,11410]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+facet_of: '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+different_from: '[[_Standards/WikiData/WD~game,11410|WD~game,11410]]'
 Commons_category: Play
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Sandbox%20Lawn%20Jam%20Our%20Community%20Place%20Harrisonburg%20VA%20June%202008.jpg
@@ -87,7 +87,7 @@ image:
 IMDb_keyword: playing
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Play,1150958]]'
+  - '[[../../../../WikiData/WD~Play,1150958|WD~Play,1150958]]'
   - '[[/_Standards/schema-org/Class/is_a_/Activity/Play(Activity)|Play(Activity)]]'
   - '[[/_public/schema-org/Class/is_a_/Activity/Play(Activity).public|Play(Activity).public]]'
   - '[[/_internal/schema-org/Class/is_a_/Activity/Play(Activity).internal|Play(Activity).internal]]'
@@ -97,7 +97,7 @@ dv_is_:
   - '[[/_secret/schema-org/Class/is_a_/Activity/Play(Activity).secret|Play(Activity).secret]]'
   - '[[Play(Activity)]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Play,1150958]]'
+- '[[../../../../WikiData/WD~Play,1150958|WD~Play,1150958]]'
 - '[[Play(Activity)]]'
 - '[[/_public/schema-org/Class/is_a_/Activity/Play(Activity).public|Play(Activity).public]]'
 - '[[/_internal/schema-org/Class/is_a_/Activity/Play(Activity).internal|Play(Activity).internal]]'

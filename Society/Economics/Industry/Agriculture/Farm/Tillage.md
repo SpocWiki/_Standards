@@ -72,31 +72,31 @@ aliases:
 - 경작
 has_id_wikidata: Q878333
 uses:
-- '[[_Standards/WikiData/WD~hoe,131154]]'
-- '[[_Standards/WikiData/WD~rake,200822]]'
-- '[[_Standards/WikiData/WD~pickaxe,232254]]'
-- '[[_Standards/WikiData/WD~cultivator,1273840]]'
-- '[[_Standards/WikiData/WD~shovel,7220961]]'
-- '[[_Standards/WikiData/WD~mattock,8193873]]'
-- '[[_Standards/WikiData/WD~tillage_machine,15306431]]'
-- '[[_Standards/WikiData/WD~plough,11464]]'
+- '[[_Standards/WikiData/WD~hoe,131154|WD~hoe,131154]]'
+- '[[_Standards/WikiData/WD~rake,200822|WD~rake,200822]]'
+- '[[_Standards/WikiData/WD~pickaxe,232254|WD~pickaxe,232254]]'
+- '[[_Standards/WikiData/WD~cultivator,1273840|WD~cultivator,1273840]]'
+- '[[_Standards/WikiData/WD~shovel,7220961|WD~shovel,7220961]]'
+- '[[_Standards/WikiData/WD~mattock,8193873|WD~mattock,8193873]]'
+- '[[_Standards/WikiData/WD~tillage_machine,15306431|WD~tillage_machine,15306431]]'
+- '[[_Standards/WikiData/WD~plough,11464|WD~plough,11464]]'
 different_from:
-- '[[_Standards/WikiData/WD~crop,235352]]'
-- '[[_Standards/WikiData/WD~Uprawa,9366920]]'
+- '[[_Standards/WikiData/WD~crop,235352|WD~crop,235352]]'
+- '[[_Standards/WikiData/WD~Uprawa,9366920|WD~Uprawa,9366920]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 facet_of:
-- '[[_Standards/WikiData/WD~Q3003218,3003218]]'
-- '[[_Standards/WikiData/WD~soil,36133]]'
+- '[[_Standards/WikiData/WD~Q3003218,3003218|WD~Q3003218,3003218]]'
+- '[[_Standards/WikiData/WD~soil,36133|WD~soil,36133]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~arable_farming,3198719]]'
-- '[[_Standards/WikiData/WD~process,10843872]]'
-- '[[_Standards/WikiData/WD~farming_practice,117048972]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~ploughing,11218006]]'
-class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~soil,36133]]'
+- '[[_Standards/WikiData/WD~arable_farming,3198719|WD~arable_farming,3198719]]'
+- '[[_Standards/WikiData/WD~process,10843872|WD~process,10843872]]'
+- '[[_Standards/WikiData/WD~farming_practice,117048972|WD~farming_practice,117048972]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~ploughing,11218006|WD~ploughing,11218006]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~soil,36133|WD~soil,36133]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/04-09-12-Schaupfl%C3%BCgen-Fahrenwalde-RalfR-IMG%201232.jpg
 Commons_category: Tillage
 Basisklassifikation: 48.36

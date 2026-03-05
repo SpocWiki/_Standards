@@ -60,21 +60,21 @@ aliases:
 - 입체파
 has_id_wikidata: Q42934
 influenced_by:
-- '[[_Standards/WikiData/WD~African_art,386302]]'
-- '[[_Standards/WikiData/WD~primitivism,848365]]'
-- '[[_Standards/WikiData/WD~Paul_Cézanne,35548]]'
-named_after: '[[_Standards/WikiData/WD~cube,812880]]'
+- '[[_Standards/WikiData/WD~African_art,386302|WD~African_art,386302]]'
+- '[[_Standards/WikiData/WD~primitivism,848365|WD~primitivism,848365]]'
+- '[[_Standards/WikiData/WD~Paul_Cézanne,35548|WD~Paul_Cézanne,35548]]'
+named_after: '[[_Standards/WikiData/WD~cube,812880|WD~cube,812880]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~art_style,1792644]]'
-- '[[_Standards/WikiData/WD~painting_movement,3326867]]'
-- '[[_Standards/WikiData/WD~architectural_style,32880]]'
-different_from: '[[_Standards/WikiData/WD~quantum_Bayesianism,7268978]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~painting_movement,3326867|WD~painting_movement,3326867]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880|WD~architectural_style,32880]]'
+different_from: '[[_Standards/WikiData/WD~quantum_Bayesianism,7268978|WD~quantum_Bayesianism,7268978]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q65253925,65253925]]'
-country: '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q65253925,65253925|WD~Q65253925,65253925]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 Artsy_gene: cubism
 OmegaWiki_Defined_Meaning: 673221
 Commons_gallery: Cubism

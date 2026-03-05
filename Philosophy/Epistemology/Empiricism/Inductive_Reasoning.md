@@ -60,23 +60,23 @@ aliases:
 - 歸納推理
 - 귀납
 has_id_wikidata: Q484511
-has_characteristic: '[[_Standards/WikiData/WD~generalization,170084]]'
+has_characteristic: '[[_Standards/WikiData/WD~generalization,170084|WD~generalization,170084]]'
 different_from:
-- '[[_Standards/WikiData/WD~mathematical_induction,178377]]'
-- '[[_Standards/WikiData/WD~Abduction,226590]]'
-- '[[../../../WikiData/WD~magnetic_flux_density,30204]]'
-opposite_of: '[[_Standards/WikiData/WD~deductive_reasoning,484284]]'
+- '[[_Standards/WikiData/WD~mathematical_induction,178377|WD~mathematical_induction,178377]]'
+- '[[_Standards/WikiData/WD~Abduction,226590|WD~Abduction,226590]]'
+- '[[../../../WikiData/WD~magnetic_flux_density,30204|WD~magnetic_flux_density,30204]]'
+opposite_of: '[[_Standards/WikiData/WD~deductive_reasoning,484284|WD~deductive_reasoning,484284]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
-subclass_of: '[[_Standards/WikiData/WD~reasoning,1156402]]'
-studied_by: '[[_Standards/WikiData/WD~inductive_logic,10535277]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_reasoning,126723190]]'
-part_of: '[[_Standards/WikiData/WD~logic,8078]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+subclass_of: '[[_Standards/WikiData/WD~reasoning,1156402|WD~reasoning,1156402]]'
+studied_by: '[[_Standards/WikiData/WD~inductive_logic,10535277|WD~inductive_logic,10535277]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_reasoning,126723190|WD~type_of_reasoning,126723190]]'
+part_of: '[[_Standards/WikiData/WD~logic,8078|WD~logic,8078]]'
 Dewey_Decimal_Classification: 161
 Colon_Classification: R11
 OmegaWiki_Defined_Meaning: 1155154
@@ -162,8 +162,8 @@ dv_has_:
 
 # [[Inductive_Reasoning]] 
 
-#is_/different_from :: [[../../../Mathematics/Proof(Math)/Induction_Proof]] 
-#is_/same_as :: [[_Standards/WikiData/WD~inductive_reasoning,484511]] 
+#is_/different_from :: [[../../../Mathematics/Proof(Math)/Induction_Proof|Induction_Proof]] 
+#is_/same_as :: [[_Standards/WikiData/WD~inductive_reasoning,484511|WD~inductive_reasoning,484511]] 
 
 ## #has_/text_of_/abstract 
 

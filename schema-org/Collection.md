@@ -25,7 +25,7 @@ title: is_a_collection Class
 type: Type
 dv_is_:
   part_of: https://bib.schema.org
-  parent_class: "[[../CreativeWork]]"
+  parent_class: "[[../CreativeWork|CreativeWork]]"
   same_as:
     - "[[/_Standards/schema-org/Collection|Collection]]"
     - "[[/_public/schema-org/Collection.public|Collection.public]]"
@@ -38,7 +38,7 @@ dv_has_:
   child_class: "[ ProductCollection ]"
   properties: "[ [], [[has_subject]]", "[[has_abstract]]", "[[has_access_Mode]], [has_access_mode_sufficient](../../../Relation/has/has_access_mode_sufficient), accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, collectionSize, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ]"
 dv_is_part_of: https://bib.schema.org
-dv_has_parent_class: "[[../CreativeWork]]"
+dv_has_parent_class: "[[../CreativeWork|CreativeWork]]"
 dv_has_child_class: "[ ProductCollection ]"
 dv_has_properties: "[ [], [[has_subject]]", "[[has_abstract]]", "[[has_access_Mode]], [has_access_mode_sufficient](../../../Relation/has/has_access_mode_sufficient), accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, collectionSize, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ]"
 dv_is_same_as:
@@ -64,7 +64,7 @@ and performing operations on each of them.
 
 Collections are usually finite and often untyped, i.e. not generic;
 therefore it should **not be used as the Domain** of Relations. 
-Instead e.g. schema.org leaves the [[../../Knowledge/Math/Cardinality]] open; 
+Instead e.g. schema.org leaves the [[../../Knowledge/Math/Cardinality|Cardinality]] open; 
 this can be amended using OWL with [[owl~minCardinality]]:  
 ``` turtle
 schema:employee a owl:ObjectProperty .

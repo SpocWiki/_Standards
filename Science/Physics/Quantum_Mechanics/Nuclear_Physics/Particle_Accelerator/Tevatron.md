@@ -16,13 +16,13 @@ aliases:
 - 테바트론
 has_id_wikidata: Q944533
 instance_of:
-- '[[_Standards/WikiData/WD~particle_accelerator,130825]]'
-- '[[_Standards/WikiData/WD~hadron_collider,16964297]]'
-owned_by: '[[_Standards/WikiData/WD~Fermilab,337641]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Batavia,576876]]'
-state_of_use: '[[_Standards/WikiData/WD~out_of_service,56651571]]'
+- '[[_Standards/WikiData/WD~particle_accelerator,130825|WD~particle_accelerator,130825]]'
+- '[[_Standards/WikiData/WD~hadron_collider,16964297|WD~hadron_collider,16964297]]'
+owned_by: '[[_Standards/WikiData/WD~Fermilab,337641|WD~Fermilab,337641]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Batavia,576876|WD~Batavia,576876]]'
+state_of_use: '[[_Standards/WikiData/WD~out_of_service,56651571|WD~out_of_service,56651571]]'
 coordinate_location: Point(-88.251715 41.831904)
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 beam_energy: 980
 service_entry: 1983-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fermilab.jpg

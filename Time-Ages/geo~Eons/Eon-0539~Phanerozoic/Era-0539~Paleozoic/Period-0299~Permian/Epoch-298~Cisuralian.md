@@ -26,12 +26,12 @@ aliases:
 - 古世
 has_id_wikidata: Q642169
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q32103921,32103921]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32103921,32103921|WD~Q32103921,32103921]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -298900000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Ural_Mountains,35600]]'
+named_after: '[[_Standards/WikiData/WD~Ural_Mountains,35600|WD~Ural_Mountains,35600]]'
 end_time: -272950000-01-01T00:00:00Z
 sRGB_color_hex_triplet: F76E54
 dv_has_:
@@ -143,7 +143,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 298.9 to 273.01 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-285_Ma_(Artinskian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-285_Ma_(Artinskian_Age).png|Earth-285_Ma_(Artinskian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

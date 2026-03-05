@@ -80,14 +80,14 @@ aliases:
 - 참고서
 has_id_wikidata: Q13136
 subclass_of:
-- '[[_Standards/WikiData/WD~project,170584]]'
-- '[[_Standards/WikiData/WD~publication,732577]]'
-- '[[_Standards/WikiData/WD~tertiary_source,1063801]]'
-- '[[_Standards/WikiData/WD~instructional_materials,1348645]]'
-- '[[_Standards/WikiData/WD~written_work,47461344]]'
-- '[[_Standards/WikiData/WD~document,49848]]'
-instance_of: '[[_Standards/WikiData/WD~literary_genre,223393]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216]]'
+- '[[_Standards/WikiData/WD~project,170584|WD~project,170584]]'
+- '[[_Standards/WikiData/WD~publication,732577|WD~publication,732577]]'
+- '[[_Standards/WikiData/WD~tertiary_source,1063801|WD~tertiary_source,1063801]]'
+- '[[_Standards/WikiData/WD~instructional_materials,1348645|WD~instructional_materials,1348645]]'
+- '[[_Standards/WikiData/WD~written_work,47461344|WD~written_work,47461344]]'
+- '[[_Standards/WikiData/WD~document,49848|WD~document,49848]]'
+instance_of: '[[_Standards/WikiData/WD~literary_genre,223393|WD~literary_genre,223393]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216|WD~Open_Culture_GLAM_Glossary,115123216]]'
 properties_for_this_type: has edition or translation
 U_S_National_Archives_Identifier:
 - 10644302

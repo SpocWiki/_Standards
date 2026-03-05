@@ -76,21 +76,21 @@ aliases:
 - 전자 도서관
 has_id_wikidata: Q212805
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~type_of_library,25397890]]'
-different_from: '[[_Standards/WikiData/WD~document_repository,1235234]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_library,25397890|WD~type_of_library,25397890]]'
+different_from: '[[_Standards/WikiData/WD~document_repository,1235234|WD~document_repository,1235234]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~memory_institution,1497649]]'
-- '[[_Standards/WikiData/WD~collection,2668072]]'
-- '[[_Standards/WikiData/WD~online_database,7094076]]'
-- '[[_Standards/WikiData/WD~library,7075]]'
-practiced_by: '[[_Standards/WikiData/WD~digital_librarian,20013489]]'
-contains: '[[_Standards/WikiData/WD~digital_object,59138870]]'
-described_by_source: '[[_Standards/WikiData/WD~Open_Science_Thesaurus,108928644]]'
-digital_equivalent_of: '[[_Standards/WikiData/WD~physical_library,111536312]]'
-opposite_of: '[[_Standards/WikiData/WD~physical_library,111536312]]'
+- '[[_Standards/WikiData/WD~memory_institution,1497649|WD~memory_institution,1497649]]'
+- '[[_Standards/WikiData/WD~collection,2668072|WD~collection,2668072]]'
+- '[[_Standards/WikiData/WD~online_database,7094076|WD~online_database,7094076]]'
+- '[[_Standards/WikiData/WD~library,7075|WD~library,7075]]'
+practiced_by: '[[_Standards/WikiData/WD~digital_librarian,20013489|WD~digital_librarian,20013489]]'
+contains: '[[_Standards/WikiData/WD~digital_object,59138870|WD~digital_object,59138870]]'
+described_by_source: '[[_Standards/WikiData/WD~Open_Science_Thesaurus,108928644|WD~Open_Science_Thesaurus,108928644]]'
+digital_equivalent_of: '[[_Standards/WikiData/WD~physical_library,111536312|WD~physical_library,111536312]]'
+opposite_of: '[[_Standards/WikiData/WD~physical_library,111536312|WD~physical_library,111536312]]'
 Wikidata_property: work available at URL
 OmegaWiki_Defined_Meaning: 534628
 Commons_category: Digital libraries

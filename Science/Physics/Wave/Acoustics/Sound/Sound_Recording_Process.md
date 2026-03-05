@@ -55,14 +55,14 @@ aliases:
 - 録音
 - 녹음
 has_id_wikidata: Q5057302
-practiced_by: '[[_Standards/WikiData/WD~audio_technician,2442329]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~audio_recording,3302947]]'
+practiced_by: '[[_Standards/WikiData/WD~audio_technician,2442329|WD~audio_technician,2442329]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~audio_recording,3302947|WD~audio_recording,3302947]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~software_feature,4485156]]'
-- '[[_Standards/WikiData/WD~recording,13557414]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_sound_recording,7222258]]'
-has_effect: '[[_Standards/WikiData/WD~audio_content,108676767]]'
+- '[[_Standards/WikiData/WD~software_feature,4485156|WD~software_feature,4485156]]'
+- '[[_Standards/WikiData/WD~recording,13557414|WD~recording,13557414]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_sound_recording,7222258|WD~history_of_sound_recording,7222258]]'
+has_effect: '[[_Standards/WikiData/WD~audio_content,108676767|WD~audio_content,108676767]]'
 U_S_National_Archives_Identifier: 10643323
 Commons_category: Sound recording
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Frances%20Densmore%20recording%20Mountain%20Chief2.jpg

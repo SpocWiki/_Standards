@@ -62,32 +62,32 @@ aliases:
 - 티탄
 has_id_wikidata: Q45713
 has_part_s_:
-- '[[_Standards/WikiData/WD~Mnemosyne,102884]]'
-- '[[_Standards/WikiData/WD~Rhea,108419]]'
-- '[[_Standards/WikiData/WD~Oceanus,161419]]'
-- '[[_Standards/WikiData/WD~Hyperion,179209]]'
-- '[[_Standards/WikiData/WD~Iapetos,179543]]'
-- '[[_Standards/WikiData/WD~Coeus,182837]]'
-- '[[_Standards/WikiData/WD~Phoebe,183281]]'
-- '[[_Standards/WikiData/WD~Tethys,184216]]'
-- '[[_Standards/WikiData/WD~Theia,184232]]'
-- '[[_Standards/WikiData/WD~Kreios,192136]]'
-- '[[_Standards/WikiData/WD~Cronus,44204]]'
+- '[[_Standards/WikiData/WD~Mnemosyne,102884|WD~Mnemosyne,102884]]'
+- '[[_Standards/WikiData/WD~Rhea,108419|WD~Rhea,108419]]'
+- '[[_Standards/WikiData/WD~Oceanus,161419|WD~Oceanus,161419]]'
+- '[[_Standards/WikiData/WD~Hyperion,179209|WD~Hyperion,179209]]'
+- '[[_Standards/WikiData/WD~Iapetos,179543|WD~Iapetos,179543]]'
+- '[[_Standards/WikiData/WD~Coeus,182837|WD~Coeus,182837]]'
+- '[[_Standards/WikiData/WD~Phoebe,183281|WD~Phoebe,183281]]'
+- '[[_Standards/WikiData/WD~Tethys,184216|WD~Tethys,184216]]'
+- '[[_Standards/WikiData/WD~Theia,184232|WD~Theia,184232]]'
+- '[[_Standards/WikiData/WD~Kreios,192136|WD~Kreios,192136]]'
+- '[[_Standards/WikiData/WD~Cronus,44204|WD~Cronus,44204]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
-worshipped_by: '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240|WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+worshipped_by: '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270|WD~Ancient_Greek_religion,855270]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~giant,3707571]]'
-- '[[_Standards/WikiData/WD~Greek_deity,22989102]]'
-different_from: '[[_Standards/WikiData/WD~Tytan,10382763]]'
-instance_of: '[[_Standards/WikiData/WD~mythical_humanoid_race,24533670]]'
-has_list: '[[_Standards/WikiData/WD~list_of_Titans,28702838]]'
+- '[[_Standards/WikiData/WD~giant,3707571|WD~giant,3707571]]'
+- '[[_Standards/WikiData/WD~Greek_deity,22989102|WD~Greek_deity,22989102]]'
+different_from: '[[_Standards/WikiData/WD~Tytan,10382763|WD~Tytan,10382763]]'
+instance_of: '[[_Standards/WikiData/WD~mythical_humanoid_race,24533670|WD~mythical_humanoid_race,24533670]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Titans,28702838|WD~list_of_Titans,28702838]]'
 Commons_category: Titans
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cornelis%20Cornelisz.%20van%20Haarlem%20002.jpg
 P8189: 987007538812405171
@@ -205,7 +205,7 @@ dv_has_:
 
 #is_/different_from :: [[../../../../../WikiData/WD~Titan,2565|WD~Titan,2565]] 
 #is_/different_from :: [[../../../../../Chemistry/Chemical_Element/Group-04-Titanium/Titanium|Titanium]] 
-#is_/same_as :: [[_Standards/WikiData/WD~titan,45713]]  
+#is_/same_as :: [[_Standards/WikiData/WD~titan,45713|WD~titan,45713]]  
 
 ## #has_/text_of_/abstract 
 

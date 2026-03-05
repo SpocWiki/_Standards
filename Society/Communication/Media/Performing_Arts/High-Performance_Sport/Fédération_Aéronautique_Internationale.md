@@ -37,34 +37,34 @@ aliases:
 - 國際航空聯盟
 - 국제 항공 연맹
 has_id_wikidata: Q214130
-partnership_with: '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]'
-sport: '[[_Standards/WikiData/WD~air_sports,644628]]'
+partnership_with: '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761|WD~International_Civil_Aviation_Organization,125761]]'
+sport: '[[_Standards/WikiData/WD~air_sports,644628|WD~air_sports,644628]]'
 member_of:
-- '[[_Standards/WikiData/WD~Association_of_IOC_Recognised_International_Sports_Federations,744105]]'
-- '[[_Standards/WikiData/WD~Global_Association_of_International_Sports_Federations,1067053]]'
-award_received: '[[_Standards/WikiData/WD~Edward_Warner_Award,1291465]]'
-different_from: '[[_Standards/WikiData/WD~International_Astronautical_Federation,1634011]]'
+- '[[_Standards/WikiData/WD~Association_of_IOC_Recognised_International_Sports_Federations,744105|WD~Association_of_IOC_Recognised_International_Sports_Federations,744105]]'
+- '[[_Standards/WikiData/WD~Global_Association_of_International_Sports_Federations,1067053|WD~Global_Association_of_International_Sports_Federations,1067053]]'
+award_received: '[[_Standards/WikiData/WD~Edward_Warner_Award,1291465|WD~Edward_Warner_Award,1291465]]'
+different_from: '[[_Standards/WikiData/WD~International_Astronautical_Federation,1634011|WD~International_Astronautical_Federation,1634011]]'
 child_organization_unit:
-- '[[_Standards/WikiData/WD~FAI_Gliding_Commission,1667464]]'
-- '[[_Standards/WikiData/WD~International_Skydiving_Commission,16875729]]'
-- '[[_Standards/WikiData/WD~Hang_Gliding_and_Paragliding_Commission,108282042]]'
-instance_of: '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
+- '[[_Standards/WikiData/WD~FAI_Gliding_Commission,1667464|WD~FAI_Gliding_Commission,1667464]]'
+- '[[_Standards/WikiData/WD~International_Skydiving_Commission,16875729|WD~International_Skydiving_Commission,16875729]]'
+- '[[_Standards/WikiData/WD~Hang_Gliding_and_Paragliding_Commission,108282042|WD~Hang_Gliding_and_Paragliding_Commission,108282042]]'
+instance_of: '[[_Standards/WikiData/WD~international_sport_governing_body,11422536|WD~international_sport_governing_body,11422536]]'
 operating_area:
-- '[[_Standards/WikiData/WD~worldwide,13780930]]'
-- '[[_Standards/WikiData/WD~Earth,2]]'
+- '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+- '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
 industry:
-- '[[_Standards/WikiData/WD~Activities_of_business_and_employers_membership_organisations,29586050]]'
-- '[[_Standards/WikiData/WD~vehicle_construction,107597958]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Lausanne,807]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Lausanne,807]]'
+- '[[_Standards/WikiData/WD~Activities_of_business_and_employers_membership_organisations,29586050|WD~Activities_of_business_and_employers_membership_organisations,29586050]]'
+- '[[_Standards/WikiData/WD~vehicle_construction,107597958|WD~vehicle_construction,107597958]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Lausanne,807|WD~Lausanne,807]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Lausanne,807|WD~Lausanne,807]]'
 official_language:
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
 Wikidata_property: FAI ID
-country: '[[_Standards/WikiData/WD~Switzerland,39]]'
-legal_form: '[[_Standards/WikiData/WD~voluntary_association,48204]]'
+country: '[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
+legal_form: '[[_Standards/WikiData/WD~voluntary_association,48204|WD~voluntary_association,48204]]'
 social_media_followers:
 - 8520
 - 4215

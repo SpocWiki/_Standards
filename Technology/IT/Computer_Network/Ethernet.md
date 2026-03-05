@@ -29,36 +29,36 @@ aliases:
 - 以太网
 - 이더넷
 has_id_wikidata: Q79984
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Robert_Metcalfe,92766]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Robert_Metcalfe,92766|WD~Robert_Metcalfe,92766]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~node,173106]]'
-- '[[_Standards/WikiData/WD~Category_5_cable,925780]]'
-- '[[_Standards/WikiData/WD~Category_6_cable,2111479]]'
-- '[[_Standards/WikiData/WD~Category_7_cable,3009674]]'
-- '[[_Standards/WikiData/WD~Category_8_cable,6007183]]'
-- '[[_Standards/WikiData/WD~network_switch,4503]]'
-uses: '[[_Standards/WikiData/WD~twisted_pair_cable,192808]]'
-replaces: '[[_Standards/WikiData/WD~token_ring,207971]]'
+- '[[_Standards/WikiData/WD~node,173106|WD~node,173106]]'
+- '[[_Standards/WikiData/WD~Category_5_cable,925780|WD~Category_5_cable,925780]]'
+- '[[_Standards/WikiData/WD~Category_6_cable,2111479|WD~Category_6_cable,2111479]]'
+- '[[_Standards/WikiData/WD~Category_7_cable,3009674|WD~Category_7_cable,3009674]]'
+- '[[_Standards/WikiData/WD~Category_8_cable,6007183|WD~Category_8_cable,6007183]]'
+- '[[_Standards/WikiData/WD~network_switch,4503|WD~network_switch,4503]]'
+uses: '[[_Standards/WikiData/WD~twisted_pair_cable,192808|WD~twisted_pair_cable,192808]]'
+replaces: '[[_Standards/WikiData/WD~token_ring,207971|WD~token_ring,207971]]'
 named_after:
-- '[[_Standards/WikiData/WD~luminiferous_aether,208702]]'
-- '[[_Standards/WikiData/WD~computer_network,1301371]]'
+- '[[_Standards/WikiData/WD~luminiferous_aether,208702|WD~luminiferous_aether,208702]]'
+- '[[_Standards/WikiData/WD~computer_network,1301371|WD~computer_network,1301371]]'
 different_from:
-- '[[_Standards/WikiData/WD~wireless_LAN,212607]]'
-- '[[_Standards/WikiData/WD~Wi_Fi,29643]]'
-replaced_by: '[[_Standards/WikiData/WD~wireless_LAN,212607]]'
+- '[[_Standards/WikiData/WD~wireless_LAN,212607|WD~wireless_LAN,212607]]'
+- '[[_Standards/WikiData/WD~Wi_Fi,29643|WD~Wi_Fi,29643]]'
+replaced_by: '[[_Standards/WikiData/WD~wireless_LAN,212607|WD~wireless_LAN,212607]]'
 instance_of:
-- '[[_Standards/WikiData/WD~technical_standard,317623]]'
-- '[[_Standards/WikiData/WD~communications_media,340169]]'
-- '[[_Standards/WikiData/WD~de_facto_standard,385853]]'
-complies_with: '[[_Standards/WikiData/WD~IEEE_802.3,570951]]'
-described_by_source: '[[_Standards/WikiData/WD~IEEE_802.3,570951]]'
+- '[[_Standards/WikiData/WD~technical_standard,317623|WD~technical_standard,317623]]'
+- '[[_Standards/WikiData/WD~communications_media,340169|WD~communications_media,340169]]'
+- '[[_Standards/WikiData/WD~de_facto_standard,385853|WD~de_facto_standard,385853]]'
+complies_with: '[[_Standards/WikiData/WD~IEEE_802.3,570951|WD~IEEE_802.3,570951]]'
+described_by_source: '[[_Standards/WikiData/WD~IEEE_802.3,570951|WD~IEEE_802.3,570951]]'
 derivative_work:
-- '[[_Standards/WikiData/WD~power_over_Ethernet,831858]]'
-- '[[_Standards/WikiData/WD~Point_to_point_protocol_over_Ethernet,866392]]'
+- '[[_Standards/WikiData/WD~power_over_Ethernet,831858|WD~power_over_Ethernet,831858]]'
+- '[[_Standards/WikiData/WD~Point_to_point_protocol_over_Ethernet,866392|WD~Point_to_point_protocol_over_Ethernet,866392]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~computer_network,1301371]]'
-- '[[_Standards/WikiData/WD~electrical_connector,2119531]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Ethernet,14412065]]'
+- '[[_Standards/WikiData/WD~computer_network,1301371|WD~computer_network,1301371]]'
+- '[[_Standards/WikiData/WD~electrical_connector,2119531|WD~electrical_connector,2119531]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ethernet,14412065|WD~Template_Ethernet,14412065]]'
 OmegaWiki_Defined_Meaning: 6871
 Commons_gallery: Ethernet
 Commons_category: Ethernet

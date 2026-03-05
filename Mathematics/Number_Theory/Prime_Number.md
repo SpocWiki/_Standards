@@ -127,18 +127,18 @@ aliases:
 - 소수
 - 씨수
 has_id_wikidata: Q49008
-followed_by: '[[_Standards/WikiData/WD~twin_prime,110863]]'
-has_list: '[[_Standards/WikiData/WD~list_of_prime_numbers,225987]]'
+followed_by: '[[_Standards/WikiData/WD~twin_prime,110863|WD~twin_prime,110863]]'
+has_list: '[[_Standards/WikiData/WD~list_of_prime_numbers,225987|WD~list_of_prime_numbers,225987]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~prime_element,240651]]'
-- '[[_Standards/WikiData/WD~square_free_integer,50706]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-different_from: '[[_Standards/WikiData/WD~set_of_prime_numbers,47370614]]'
-part_of: '[[_Standards/WikiData/WD~set_of_prime_numbers,47370614]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_integer,77358734]]'
-notation: '[[_Standards/WikiData/WD~P_p,9946]]'
-opposite_of: '[[_Standards/WikiData/WD~composite_number,50707]]'
-has_characteristic: '[[_Standards/WikiData/WD~divisor,50708]]'
+- '[[_Standards/WikiData/WD~prime_element,240651|WD~prime_element,240651]]'
+- '[[_Standards/WikiData/WD~square_free_integer,50706|WD~square_free_integer,50706]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~set_of_prime_numbers,47370614|WD~set_of_prime_numbers,47370614]]'
+part_of: '[[_Standards/WikiData/WD~set_of_prime_numbers,47370614|WD~set_of_prime_numbers,47370614]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_integer,77358734|WD~type_of_integer,77358734]]'
+notation: '[[_Standards/WikiData/WD~P_p,9946|WD~P_p,9946]]'
+opposite_of: '[[_Standards/WikiData/WD~composite_number,50707|WD~composite_number,50707]]'
+has_characteristic: '[[_Standards/WikiData/WD~divisor,50708|WD~divisor,50708]]'
 OmegaWiki_Defined_Meaning: 377574
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>p</mi></mstyle></mrow></math>

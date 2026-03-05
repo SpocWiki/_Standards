@@ -85,17 +85,17 @@ aliases:
 - 阿卡德帝國
 - 아카드 제국
 has_id_wikidata: Q4461035
-replaces: '[[_Standards/WikiData/WD~Kish,132272]]'
-capital: '[[_Standards/WikiData/WD~Akkad,150996]]'
-official_religion: '[[_Standards/WikiData/WD~Sumerian_religion,275051]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Sumerian_religion,275051]]'
-different_from: '[[_Standards/WikiData/WD~Acadians,415054]]'
+replaces: '[[_Standards/WikiData/WD~Kish,132272|WD~Kish,132272]]'
+capital: '[[_Standards/WikiData/WD~Akkad,150996|WD~Akkad,150996]]'
+official_religion: '[[_Standards/WikiData/WD~Sumerian_religion,275051|WD~Sumerian_religion,275051]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Sumerian_religion,275051|WD~Sumerian_religion,275051]]'
+different_from: '[[_Standards/WikiData/WD~Acadians,415054|WD~Acadians,415054]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
 inception:
 - -2333-01-01T00:00:00Z
 - -2269-01-01T00:00:00Z
@@ -103,8 +103,8 @@ coordinate_location: Point(44.1 33.1)
 dissolved_abolished_or_demolished_date:
 - -2082-01-01T00:00:00Z
 - -2153-01-01T00:00:00Z
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
-language_used: '[[_Standards/WikiData/WD~Sumerian,36790]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+language_used: '[[_Standards/WikiData/WD~Sumerian,36790|WD~Sumerian,36790]]'
 demonym: Akkadian
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Empire%20akkad.svg
 Commons_category: Akkadian Empire
@@ -115,7 +115,7 @@ native_label:
 - "\U00012000\U000120B5\U00012248\U000121A0"
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Akkadian_Empire,4461035]]'
+  - '[[_Standards/WikiData/WD~Akkadian_Empire,4461035|WD~Akkadian_Empire,4461035]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154|-2334-Akkadian_Empire-2154]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154.public|-2334-Akkadian_Empire-2154.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154.internal|-2334-Akkadian_Empire-2154.internal]]'
@@ -124,7 +124,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154.personal|-2334-Akkadian_Empire-2154.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154.secret|-2334-Akkadian_Empire-2154.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Akkadian_Empire,4461035]]'
+- '[[_Standards/WikiData/WD~Akkadian_Empire,4461035|WD~Akkadian_Empire,4461035]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154|-2334-Akkadian_Empire-2154]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154.public|-2334-Akkadian_Empire-2154.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154.internal|-2334-Akkadian_Empire-2154.internal]]'
@@ -238,7 +238,7 @@ dv_has_:
 
 # [[-2334-Akkadian_Empire-2154]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Akkadian_Empire,4461035]]
+#is_/same_as :: [[_Standards/WikiData/WD~Akkadian_Empire,4461035|WD~Akkadian_Empire,4461035]]
 
 ## #has_/text_of_/abstract 
 

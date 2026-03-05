@@ -67,24 +67,24 @@ aliases:
 - 诅咒
 - 저주
 has_id_wikidata: Q109411
-has_characteristic: '[[_Standards/WikiData/WD~supernatural,80837]]'
+has_characteristic: '[[_Standards/WikiData/WD~supernatural,80837|WD~supernatural,80837]]'
 part_of:
-- '[[_Standards/WikiData/WD~witchcraft,259745]]'
-- '[[_Standards/WikiData/WD~black_magic,690768]]'
+- '[[_Standards/WikiData/WD~witchcraft,259745|WD~witchcraft,259745]]'
+- '[[_Standards/WikiData/WD~black_magic,690768|WD~black_magic,690768]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~blessing,626510]]'
-- '[[_Standards/WikiData/WD~benediction,2637365]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~misfortune,690140]]'
+- '[[_Standards/WikiData/WD~blessing,626510|WD~blessing,626510]]'
+- '[[_Standards/WikiData/WD~benediction,2637365|WD~benediction,2637365]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~misfortune,690140|WD~misfortune,690140]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~incantation,1999796]]'
-- '[[_Standards/WikiData/WD~maleficium,2229858]]'
+- '[[_Standards/WikiData/WD~incantation,1999796|WD~incantation,1999796]]'
+- '[[_Standards/WikiData/WD~maleficium,2229858|WD~maleficium,2229858]]'
 OmegaWiki_Defined_Meaning: 1523338
 Commons_category: Curses
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20woman%20makes%20a%20cursing%20ritual%20ceremony.jpg

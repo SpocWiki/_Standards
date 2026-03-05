@@ -53,20 +53,20 @@ aliases:
 - 拉丁语联盟
 - 라틴 연합
 has_id_wikidata: Q123209
-instance_of: '[[_Standards/WikiData/WD~international_organization,484652]]'
-different_from: '[[_Standards/WikiData/WD~Latin_Monetary_Union,613420]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Latin_Union,7470333]]'
+instance_of: '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
+different_from: '[[_Standards/WikiData/WD~Latin_Monetary_Union,613420|WD~Latin_Monetary_Union,613420]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Latin_Union,7470333|WD~Template_Latin_Union,7470333]]'
 official_language:
-- '[[_Standards/WikiData/WD~Italian,652]]'
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~Portuguese,5146]]'
-- '[[_Standards/WikiData/WD~Catalan,7026]]'
-- '[[_Standards/WikiData/WD~Romanian,7913]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-place_of_birth: '[[_Standards/WikiData/WD~Madrid,2807]]'
-member_of: '[[_Standards/WikiData/WD~UNESCO,7809]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Paris,90]]'
-country: '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146|WD~Portuguese,5146]]'
+- '[[_Standards/WikiData/WD~Catalan,7026|WD~Catalan,7026]]'
+- '[[_Standards/WikiData/WD~Romanian,7913|WD~Romanian,7913]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+place_of_birth: '[[_Standards/WikiData/WD~Madrid,2807|WD~Madrid,2807]]'
+member_of: '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 inception: 1954-05-15T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Union%20Latine.svg
 official_website: https://www.unilat.org

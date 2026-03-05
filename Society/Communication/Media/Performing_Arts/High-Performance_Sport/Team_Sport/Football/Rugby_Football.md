@@ -106,23 +106,23 @@ tags:
 title:
   '{ newTitle: }': ''
 type: private_note
-country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193|WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 instance_of:
-- '[[_Standards/WikiData/WD~team_sport,216048]]'
-- '[[_Standards/WikiData/WD~ball_game,877517]]'
+- '[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~ball_game,877517|WD~ball_game,877517]]'
 different_from:
-- '[[_Standards/WikiData/WD~Rugby,227861]]'
-- '[[_Standards/WikiData/WD~rugby_sevens,270102]]'
-- '[[_Standards/WikiData/WD~Football,296260]]'
-- '[[_Standards/WikiData/WD~rugby_league_nines,3452878]]'
-- '[[_Standards/WikiData/WD~association_football,2736]]'
-- '[[_Standards/WikiData/WD~rugby_union,5849]]'
-- '[[_Standards/WikiData/WD~rugby_league,10962]]'
-subclass_of: '[[_Standards/WikiData/WD~football,1081491]]'
-named_after: '[[_Standards/WikiData/WD~Rugby_School,1143281]]'
-uses: '[[_Standards/WikiData/WD~rugby_ball,2881344]]'
-practiced_by: '[[_Standards/WikiData/WD~rugby_player,13415036]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Rugby,16867512]]'
+- '[[_Standards/WikiData/WD~Rugby,227861|WD~Rugby,227861]]'
+- '[[_Standards/WikiData/WD~rugby_sevens,270102|WD~rugby_sevens,270102]]'
+- '[[_Standards/WikiData/WD~Football,296260|WD~Football,296260]]'
+- '[[_Standards/WikiData/WD~rugby_league_nines,3452878|WD~rugby_league_nines,3452878]]'
+- '[[_Standards/WikiData/WD~association_football,2736|WD~association_football,2736]]'
+- '[[_Standards/WikiData/WD~rugby_union,5849|WD~rugby_union,5849]]'
+- '[[_Standards/WikiData/WD~rugby_league,10962|WD~rugby_league,10962]]'
+subclass_of: '[[_Standards/WikiData/WD~football,1081491|WD~football,1081491]]'
+named_after: '[[_Standards/WikiData/WD~Rugby_School,1143281|WD~Rugby_School,1143281]]'
+uses: '[[_Standards/WikiData/WD~rugby_ball,2881344|WD~rugby_ball,2881344]]'
+practiced_by: '[[_Standards/WikiData/WD~rugby_player,13415036|WD~rugby_player,13415036]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Rugby,16867512|WD~Portal_Rugby,16867512]]'
 Wikidata_property: number of tries marked
 maximum_number_of_players: 30
 IAB_code: 527
@@ -135,8 +135,8 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Rugby%20union%20pictogr
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-rugby.wav
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rugby%20banner.jpg
 narrower_external_class:
-- '[[_Standards/WikiData/WD~https_www.wikidata.org_wiki_Q270102,270102]]'
-- '[[_Standards/WikiData/WD~https_www.wikidata.org_wiki_Q5849,5849]]'
+- '[[_Standards/WikiData/WD~https_www.wikidata.org_wiki_Q270102,270102|WD~https_www.wikidata.org_wiki_Q270102,270102]]'
+- '[[_Standards/WikiData/WD~https_www.wikidata.org_wiki_Q5849,5849|WD~https_www.wikidata.org_wiki_Q5849,5849]]'
 Dewey_Decimal_Classification: 796.333
 Library_of_Congress_Classification: GV944.8-GV946.22
 MeSH_tree_code: I03.450.642.845.608

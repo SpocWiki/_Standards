@@ -90,15 +90,15 @@ aliases:
 - 반투어군
 has_id_wikidata: Q33146
 linguistic_typology:
-- '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
-- '[[_Standards/WikiData/WD~synthetic_language,48612]]'
+- '[[_Standards/WikiData/WD~agglutinative_language,171263|WD~agglutinative_language,171263]]'
+- '[[_Standards/WikiData/WD~synthetic_language,48612|WD~synthetic_language,48612]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Atlantic_Congo,771124]]'
-- '[[_Standards/WikiData/WD~Southern_Bantoid,3183152]]'
+- '[[_Standards/WikiData/WD~Atlantic_Congo,771124|WD~Atlantic_Congo,771124]]'
+- '[[_Standards/WikiData/WD~Southern_Bantoid,3183152|WD~Southern_Bantoid,3183152]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
 OmegaWiki_Defined_Meaning: 459269
 ISO_639_5_code: bnt
 IETF_language_tag: bnt

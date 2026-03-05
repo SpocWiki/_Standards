@@ -43,12 +43,12 @@ aliases:
 - 生產機械化
 has_id_wikidata: Q1160362
 subclass_of:
-- '[[_Standards/WikiData/WD~production_process,1408286]]'
-- '[[_Standards/WikiData/WD~transformation,65757353]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~automatization,24410992]]'
-instance_of: '[[_Standards/WikiData/WD~technical_activity,119822504]]'
-has_characteristic: '[[_Standards/WikiData/WD~machine,11019]]'
+- '[[_Standards/WikiData/WD~production_process,1408286|WD~production_process,1408286]]'
+- '[[_Standards/WikiData/WD~transformation,65757353|WD~transformation,65757353]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~automatization,24410992|WD~automatization,24410992]]'
+instance_of: '[[_Standards/WikiData/WD~technical_activity,119822504|WD~technical_activity,119822504]]'
+has_characteristic: '[[_Standards/WikiData/WD~machine,11019|WD~machine,11019]]'
 dv_has_:
   name_:
     ar: استعمال الآلات

@@ -26,7 +26,7 @@ tags:
 title: is_a_camping_pitch Class
 type: Type
 dv_has_:
-  parent_class: "[[../Accommodation]]"
+  parent_class: "[[../Accommodation|Accommodation]]"
   properties: "[ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ]"
 dv_is_:
   same_as:
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/Earth/Geography/Place/Accommodation/Camping_Pitch.private|Camping_Pitch.private]]"
     - "[[/_personal/Earth/Geography/Place/Accommodation/Camping_Pitch.personal|Camping_Pitch.personal]]"
     - "[[/_secret/Earth/Geography/Place/Accommodation/Camping_Pitch.secret|Camping_Pitch.secret]]"
-dv_has_parent_class: "[[../Accommodation]]"
+dv_has_parent_class: "[[../Accommodation|Accommodation]]"
 dv_has_properties: "[ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ]"
 dv_is_same_as:
   - "[[/_Standards/Earth/Geography/Place/Accommodation/Camping_Pitch|Camping_Pitch]]"
@@ -54,7 +54,7 @@ Class of all camping_pitchs.
 Tag Instances like this: 
 #is_a_/camping_pitch
 
-A [[CampingPitch]] is an individual place for overnight stay in the outdoors, typically being part of a larger camping site, or [[../Civic_Structure/Campground]].
+A [[CampingPitch]] is an individual place for overnight stay in the outdoors, typically being part of a larger camping site, or [[../Civic_Structure/Campground|Campground]].
 
 In British English a campsite, or campground, is an area, usually divided into a number of pitches, where people can camp overnight using tents or camper vans or caravans; this British English use of the word is synonymous with the American English expression campground. In American English the term campsite generally means an area where an individual, family, group, or military unit can pitch a tent or park a camper; a campground may contain many campsites.
 (Source: Wikipedia, see https://en.wikipedia.org/wiki/Campsite )

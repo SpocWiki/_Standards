@@ -57,21 +57,21 @@ aliases:
 - 범주론
 has_id_wikidata: Q217413
 is_the_study_of:
-- '[[_Standards/WikiData/WD~category,719395]]'
-- '[[_Standards/WikiData/WD~functor,864475]]'
-- '[[_Standards/WikiData/WD~natural_transformation,1442189]]'
-instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-has_use: '[[_Standards/WikiData/WD~programming_language_theory,2670534]]'
+- '[[_Standards/WikiData/WD~category,719395|WD~category,719395]]'
+- '[[_Standards/WikiData/WD~functor,864475|WD~functor,864475]]'
+- '[[_Standards/WikiData/WD~natural_transformation,1442189|WD~natural_transformation,1442189]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+has_use: '[[_Standards/WikiData/WD~programming_language_theory,2670534|WD~programming_language_theory,2670534]]'
 part_of:
-- '[[_Standards/WikiData/WD~higher_category_theory,5758318]]'
-- '[[_Standards/WikiData/WD~theory_of_sets,_relations_and_functions,114705834]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_category_theory,7112576]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Category_theory,64618977]]'
-has_part_s_: '[[_Standards/WikiData/WD~category_theory_terminology,77544558]]'
+- '[[_Standards/WikiData/WD~higher_category_theory,5758318|WD~higher_category_theory,5758318]]'
+- '[[_Standards/WikiData/WD~theory_of_sets,_relations_and_functions,114705834|WD~theory_of_sets,_relations_and_functions,114705834]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_category_theory,7112576|WD~outline_of_category_theory,7112576]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Category_theory,64618977|WD~Template_Category_theory,64618977]]'
+has_part_s_: '[[_Standards/WikiData/WD~category_theory_terminology,77544558|WD~category_theory_terminology,77544558]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Sets_for_Mathematics_(2003),94451781]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Sets_for_Mathematics_(2003),94451781|WD~Sets_for_Mathematics_(2003),94451781]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 OmegaWiki_Defined_Meaning: 1017424
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Prod%20chain.svg
 Stack_Exchange_tag:
@@ -187,7 +187,7 @@ dv_has_:
 > For example, a monoid may be viewed as a category with a single object, 
 > whose morphisms are the elements of the monoid.
 >
-> The second fundamental concept of category theory is the concept of a [[../../Knowledge/Math/Category_Theory.internal/Functor]], 
+> The second fundamental concept of category theory is the concept of a [[../../Knowledge/Math/Category_Theory.internal/Functor|Functor]], 
 > which plays the role of a morphism between two categories 
 >
 >    it maps objects of C1 to objects of C2 

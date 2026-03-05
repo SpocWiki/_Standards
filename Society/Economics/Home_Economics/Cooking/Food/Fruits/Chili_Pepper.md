@@ -124,20 +124,20 @@ aliases:
   - 辣椒 (果实)
   - 고추
 has_id_wikidata: Q165199
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~peperoncino,181572]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~peperoncino,181572|WD~peperoncino,181572]]"
 natural_product_of_taxon:
-  - "[[_Standards/WikiData/WD~Capsicum,201959]]"
-  - "[[_Standards/WikiData/WD~Capsicum_annuum,1380]]"
-different_from: "[[_Standards/WikiData/WD~bell_pepper,1548030]]"
+  - "[[_Standards/WikiData/WD~Capsicum,201959|WD~Capsicum,201959]]"
+  - "[[_Standards/WikiData/WD~Capsicum_annuum,1380|WD~Capsicum_annuum,1380]]"
+different_from: "[[_Standards/WikiData/WD~bell_pepper,1548030|WD~bell_pepper,1548030]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~condiment,2596997]]"
-  - "[[_Standards/WikiData/WD~fruit,1364]]"
-  - "[[_Standards/WikiData/WD~spice,42527]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~Mirchi,3315932]]"
+  - "[[_Standards/WikiData/WD~condiment,2596997|WD~condiment,2596997]]"
+  - "[[_Standards/WikiData/WD~fruit,1364|WD~fruit,1364]]"
+  - "[[_Standards/WikiData/WD~spice,42527|WD~spice,42527]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~Mirchi,3315932|WD~Mirchi,3315932]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
-  - "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Chili_peppers,100890114]]"
+  - "[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]"
+  - "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Chili_peppers,100890114|WD~Template_Chili_peppers,100890114]]"
 water_footprint:
   - 379
   - 7365

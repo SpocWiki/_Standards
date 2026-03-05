@@ -33,7 +33,7 @@ dv_has_:
     - recordedIn
   domain: CreativeWork
   name: is_recorded_at
-  range: "[[../../../Class/is_a_thing/event]]"
+  range: "[[../../../Class/is_a_thing/event|event]]"
 dv_is_:
   same_as:
     - "[[is_recorded_at]]"
@@ -48,7 +48,7 @@ dv_has_inverse:
   - recordedIn
 dv_has_domain: CreativeWork
 dv_has_name: is_recorded_at
-dv_has_range: "[[../../../Class/is_a_thing/event]]"
+dv_has_range: "[[../../../Class/is_a_thing/event|event]]"
 dv_is_same_as:
   - "[[is_recorded_at]]"
   - "[[/_public/schema-org/Relation/is/is_recorded_at.public|is_recorded_at.public]]"

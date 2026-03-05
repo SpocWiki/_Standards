@@ -38,44 +38,44 @@ aliases:
 - 土耳其行棋傀儡
 - 더 투르크
 has_id_wikidata: Q275924
-named_after: '[[_Standards/WikiData/WD~Turks_of_Türkiye,84072]]'
+named_after: '[[_Standards/WikiData/WD~Turks_of_Türkiye,84072|WD~Turks_of_Türkiye,84072]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~chessboard,110079]]'
-- '[[_Standards/WikiData/WD~mannequin,855680]]'
-- '[[_Standards/WikiData/WD~clockwork,1400734]]'
-- '[[_Standards/WikiData/WD~seat,2207370]]'
-- '[[_Standards/WikiData/WD~cabinet,2741056]]'
-- '[[_Standards/WikiData/WD~chess_set,25098560]]'
+- '[[_Standards/WikiData/WD~chessboard,110079|WD~chessboard,110079]]'
+- '[[_Standards/WikiData/WD~mannequin,855680|WD~mannequin,855680]]'
+- '[[_Standards/WikiData/WD~clockwork,1400734|WD~clockwork,1400734]]'
+- '[[_Standards/WikiData/WD~seat,2207370|WD~seat,2207370]]'
+- '[[_Standards/WikiData/WD~cabinet,2741056|WD~cabinet,2741056]]'
+- '[[_Standards/WikiData/WD~chess_set,25098560|WD~chess_set,25098560]]'
 owned_by:
-- '[[_Standards/WikiData/WD~Eugène_de_Beauharnais,155545]]'
-- '[[_Standards/WikiData/WD~Wolfgang_von_Kempelen,252041]]'
-- '[[_Standards/WikiData/WD~Peale_Museum,3373833]]'
-- '[[_Standards/WikiData/WD~John_Kearsley_Mitchell,6242585]]'
-- '[[_Standards/WikiData/WD~John_Ohl,24254506]]'
-- '[[_Standards/WikiData/WD~Johann_Nepomuk_Maelzel,60927]]'
+- '[[_Standards/WikiData/WD~Eugène_de_Beauharnais,155545|WD~Eugène_de_Beauharnais,155545]]'
+- '[[_Standards/WikiData/WD~Wolfgang_von_Kempelen,252041|WD~Wolfgang_von_Kempelen,252041]]'
+- '[[_Standards/WikiData/WD~Peale_Museum,3373833|WD~Peale_Museum,3373833]]'
+- '[[_Standards/WikiData/WD~John_Kearsley_Mitchell,6242585|WD~John_Kearsley_Mitchell,6242585]]'
+- '[[_Standards/WikiData/WD~John_Ohl,24254506|WD~John_Ohl,24254506]]'
+- '[[_Standards/WikiData/WD~Johann_Nepomuk_Maelzel,60927|WD~Johann_Nepomuk_Maelzel,60927]]'
 has_use:
-- '[[_Standards/WikiData/WD~hoax,190084]]'
-- '[[_Standards/WikiData/WD~chess_tournament,2210277]]'
-- '[[_Standards/WikiData/WD~temporary_exhibition,29023906]]'
-creator: '[[_Standards/WikiData/WD~Wolfgang_von_Kempelen,252041]]'
+- '[[_Standards/WikiData/WD~hoax,190084|WD~hoax,190084]]'
+- '[[_Standards/WikiData/WD~chess_tournament,2210277|WD~chess_tournament,2210277]]'
+- '[[_Standards/WikiData/WD~temporary_exhibition,29023906|WD~temporary_exhibition,29023906]]'
+creator: '[[_Standards/WikiData/WD~Wolfgang_von_Kempelen,252041|WD~Wolfgang_von_Kempelen,252041]]'
 operator:
-- '[[_Standards/WikiData/WD~William_Lewis,329029]]'
-- '[[_Standards/WikiData/WD~Aaron_Alexandre,2467677]]'
-- '[[_Standards/WikiData/WD~William_Schlumberger,3506229]]'
-- '[[_Standards/WikiData/WD~Jacques_François_Mouret,12022213]]'
-- '[[_Standards/WikiData/WD~Hyacinthe_Henri_Boncourt,15515413]]'
-- '[[_Standards/WikiData/WD~Johann_Baptist_Allgaier,64939]]'
+- '[[_Standards/WikiData/WD~William_Lewis,329029|WD~William_Lewis,329029]]'
+- '[[_Standards/WikiData/WD~Aaron_Alexandre,2467677|WD~Aaron_Alexandre,2467677]]'
+- '[[_Standards/WikiData/WD~William_Schlumberger,3506229|WD~William_Schlumberger,3506229]]'
+- '[[_Standards/WikiData/WD~Jacques_François_Mouret,12022213|WD~Jacques_François_Mouret,12022213]]'
+- '[[_Standards/WikiData/WD~Hyacinthe_Henri_Boncourt,15515413|WD~Hyacinthe_Henri_Boncourt,15515413]]'
+- '[[_Standards/WikiData/WD~Johann_Baptist_Allgaier,64939|WD~Johann_Baptist_Allgaier,64939]]'
 - http://www.wikidata.org/.well-known/genid/e448b458bb2e18776cdda7516a6898ea
 instance_of:
-- '[[_Standards/WikiData/WD~work_of_art,838948]]'
-- '[[_Standards/WikiData/WD~appliance,1183543]]'
-- '[[_Standards/WikiData/WD~hoax_chess_automaton,12075990]]'
-described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-collection: '[[_Standards/WikiData/WD~Peale_Museum,3373833]]'
-contains: '[[_Standards/WikiData/WD~chess_player,10873124]]'
-uses: '[[_Standards/WikiData/WD~chess_player,10873124]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948|WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~appliance,1183543|WD~appliance,1183543]]'
+- '[[_Standards/WikiData/WD~hoax_chess_automaton,12075990|WD~hoax_chess_automaton,12075990]]'
+described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+collection: '[[_Standards/WikiData/WD~Peale_Museum,3373833|WD~Peale_Museum,3373833]]'
+contains: '[[_Standards/WikiData/WD~chess_player,10873124|WD~chess_player,10873124]]'
+uses: '[[_Standards/WikiData/WD~chess_player,10873124|WD~chess_player,10873124]]'
 dissolved_abolished_or_demolished_date: 1854-07-05T00:00:00Z
-sport: '[[_Standards/WikiData/WD~chess,718]]'
+sport: '[[_Standards/WikiData/WD~chess,718|WD~chess,718]]'
 Commons_category: The Turk
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Racknitz%20-%20The%20Turk%201.jpg
 inception: 1769-01-01T00:00:00Z
@@ -127,7 +127,7 @@ dv_has_:
 
 # [[Mechanical_Turk]] 
 
-#is_/similar_to :: [[../../../../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk]] 
+#is_/similar_to :: [[../../../../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk|Amazon_Mechanical_Turk]] 
 
 ## #has_/text_of_/abstract  
 

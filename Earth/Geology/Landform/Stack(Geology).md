@@ -44,10 +44,10 @@ aliases:
 - 시스택
 has_id_wikidata: Q747957
 subclass_of:
-- '[[_Standards/WikiData/WD~rock_formation,631305]]'
-- '[[_Standards/WikiData/WD~coastal_landform,19817101]]'
-different_from: '[[_Standards/WikiData/WD~Kolona,4228414]]'
-has_list: '[[_Standards/WikiData/WD~list_of_sea_stacks,28686448]]'
+- '[[_Standards/WikiData/WD~rock_formation,631305|WD~rock_formation,631305]]'
+- '[[_Standards/WikiData/WD~coastal_landform,19817101|WD~coastal_landform,19817101]]'
+different_from: '[[_Standards/WikiData/WD~Kolona,4228414|WD~Kolona,4228414]]'
+has_list: '[[_Standards/WikiData/WD~list_of_sea_stacks,28686448|WD~list_of_sea_stacks,28686448]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pizzomunno%20with%20bathers%20for%20scale.jpg
 Wolfram_Language_entity_code: Entity"Ship", "FarallonSteamshipDisaster = `=this.dv_"Ship", "FarallonSteamshipDisaster`
 Commons_category: Geological stacks

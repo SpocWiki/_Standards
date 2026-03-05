@@ -32,12 +32,12 @@ aliases:
 - 长兴期
 has_id_wikidata: Q860048
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Changxing_County,1062178]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Ochoan,7076350]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Changhsingian,134394788]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Changxing_County,1062178|WD~Changxing_County,1062178]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Ochoan,7076350|WD~Ochoan,7076350]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Changhsingian,134394788|WD~GSSP_for_the_base_of_the_Changhsingian,134394788]]'
 end_time: -251902000-01-01T00:00:00Z
 coordinate_location: Point(119.70638889 31.08194444)
 start_time: -254140000-01-01T00:00:00Z

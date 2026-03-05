@@ -60,16 +60,16 @@ aliases:
 - 벡터 미적분학
 has_id_wikidata: Q200802
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~vector_valued_function,1375954]]'
-- '[[_Standards/WikiData/WD~vector,13471665]]'
-- '[[_Standards/WikiData/WD~Euclidean_vector,44528]]'
-instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-different_from: '[[_Standards/WikiData/WD~geometric_calculus,5535476]]'
-part_of: '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
+- '[[_Standards/WikiData/WD~vector_valued_function,1375954|WD~vector_valued_function,1375954]]'
+- '[[_Standards/WikiData/WD~vector,13471665|WD~vector,13471665]]'
+- '[[_Standards/WikiData/WD~Euclidean_vector,44528|WD~Euclidean_vector,44528]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+different_from: '[[_Standards/WikiData/WD~geometric_calculus,5535476|WD~geometric_calculus,5535476]]'
+part_of: '[[_Standards/WikiData/WD~mathematical_analysis,7754|WD~mathematical_analysis,7754]]'
 Dewey_Decimal_Classification: 515.63
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Derivada%20vectorial.PNG
 Commons_category: Vector calculus

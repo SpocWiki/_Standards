@@ -86,15 +86,15 @@ aliases:
 - 옷장
 has_id_wikidata: Q106106
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~sideboard,1762308]]'
-- '[[_Standards/WikiData/WD~cupboard,5662058]]'
-- '[[_Standards/WikiData/WD~clothes_closet,10883050]]'
-has_use: '[[_Standards/WikiData/WD~storage,9158768]]'
-subclass_of: '[[_Standards/WikiData/WD~furniture,14745]]'
+- '[[_Standards/WikiData/WD~sideboard,1762308|WD~sideboard,1762308]]'
+- '[[_Standards/WikiData/WD~cupboard,5662058|WD~cupboard,5662058]]'
+- '[[_Standards/WikiData/WD~clothes_closet,10883050|WD~clothes_closet,10883050]]'
+has_use: '[[_Standards/WikiData/WD~storage,9158768|WD~storage,9158768]]'
+subclass_of: '[[_Standards/WikiData/WD~furniture,14745|WD~furniture,14745]]'
 Nomenclature_for_Museum_Cataloging: 1308
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wardrobe%20MET%20DP235302.jpg
 OmegaWiki_Defined_Meaning: 506882

@@ -42,11 +42,11 @@ aliases:
 - 家族社会学
 - 가족사회학
 has_id_wikidata: Q2290557
-instance_of: '[[_Standards/WikiData/WD~branch_of_sociology,105760881]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_sociology,105760881|WD~branch_of_sociology,105760881]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~family_science,117742678]]'
-- '[[_Standards/WikiData/WD~sociology,21201]]'
-is_the_study_of: '[[_Standards/WikiData/WD~family,8436]]'
+- '[[_Standards/WikiData/WD~family_science,117742678|WD~family_science,117742678]]'
+- '[[_Standards/WikiData/WD~sociology,21201|WD~sociology,21201]]'
+is_the_study_of: '[[_Standards/WikiData/WD~family,8436|WD~family,8436]]'
 dv_has_:
   name_:
     ar: علم اجتماع العائلة

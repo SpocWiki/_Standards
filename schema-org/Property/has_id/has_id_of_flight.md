@@ -31,7 +31,7 @@ dv_has_:
   name: has_id_of_flight
   range: Text
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_of_flight|has_id_of_flight]]"
@@ -44,7 +44,7 @@ dv_is_:
 dv_has_domain: "[[../../Class/is_a_/Intangible/Trip/Flight|Flight]]"
 dv_has_name: has_id_of_flight
 dv_has_range: Text
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_name/has_id_of_flight|has_id_of_flight]]"
   - "[[/_public/schema-org/Property/has_name/has_id_of_flight.public|has_id_of_flight.public]]"

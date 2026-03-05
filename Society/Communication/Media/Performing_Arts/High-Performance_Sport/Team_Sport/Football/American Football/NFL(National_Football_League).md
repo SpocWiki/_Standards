@@ -38,24 +38,24 @@ aliases:
 - 國家美式足球聯盟
 - 내셔널 풋볼 리그
 has_id_wikidata: Q1215884
-sponsor: '[[_Standards/WikiData/WD~Pizza_Hut,191615]]'
+sponsor: '[[_Standards/WikiData/WD~Pizza_Hut,191615|WD~Pizza_Hut,191615]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~American_Football_Conference,276530]]'
-- '[[_Standards/WikiData/WD~National_Football_Conference,319007]]'
-headquarters_locations: '[[_Standards/WikiData/WD~345_Park_Avenue,3489200]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_the_National_Football_League,5870004]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_NFL,6307529]]'
+- '[[_Standards/WikiData/WD~American_Football_Conference,276530|WD~American_Football_Conference,276530]]'
+- '[[_Standards/WikiData/WD~National_Football_Conference,319007|WD~National_Football_Conference,319007]]'
+headquarters_locations: '[[_Standards/WikiData/WD~345_Park_Avenue,3489200|WD~345_Park_Avenue,3489200]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_National_Football_League,5870004|WD~history_of_the_National_Football_League,5870004]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_NFL,6307529|WD~Template_NFL,6307529]]'
 instance_of:
-- '[[_Standards/WikiData/WD~professional_sports_league,15991290]]'
-- '[[_Standards/WikiData/WD~American_football_league,124059801]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-season_starts: '[[_Standards/WikiData/WD~September,123]]'
+- '[[_Standards/WikiData/WD~professional_sports_league,15991290|WD~professional_sports_league,15991290]]'
+- '[[_Standards/WikiData/WD~American_football_league,124059801|WD~American_football_league,124059801]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+season_starts: '[[_Standards/WikiData/WD~September,123|WD~September,123]]'
 number_of_participants: 32
 social_media_followers:
 - 15400000
 - 32600630
 - 4130783
-sport: '[[_Standards/WikiData/WD~American_football,41323]]'
+sport: '[[_Standards/WikiData/WD~American_football,41323|WD~American_football,41323]]'
 TikTok_username: nfl
 Giphy_username: nfl
 subreddit: nfl

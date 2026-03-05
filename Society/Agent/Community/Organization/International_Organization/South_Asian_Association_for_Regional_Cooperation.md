@@ -76,25 +76,25 @@ aliases:
 - 남아시아 지역 협력 연합
 has_id_wikidata: Q145700
 instance_of:
-- '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-- '[[_Standards/WikiData/WD~economic_union,3623811]]'
-operating_area: '[[_Standards/WikiData/WD~South_Asia,771405]]'
+- '[[_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
+- '[[_Standards/WikiData/WD~economic_union,3623811|WD~economic_union,3623811]]'
+operating_area: '[[_Standards/WikiData/WD~South_Asia,771405|WD~South_Asia,771405]]'
 child_organization_or_unit:
-- '[[_Standards/WikiData/WD~South_Asian_Federation_of_Accountants,7566034]]'
-- '[[_Standards/WikiData/WD~South_Asian_University,7566050]]'
-- '[[_Standards/WikiData/WD~Foundation_of_SAARC_Writers_and_Literature,19881225]]'
-- '[[_Standards/WikiData/WD~South_Asia_Foundation,24945412]]'
-- '[[_Standards/WikiData/WD~SAARC_Agriculture_Centre,67988647]]'
-- '[[_Standards/WikiData/WD~SAARC_Development_Fund,120512563]]'
-general_secretary: '[[_Standards/WikiData/WD~Esala_Weerakoon,23761295]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_SAARC,24040443]]'
-country: '[[_Standards/WikiData/WD~Nepal,837]]'
-official_language: '[[_Standards/WikiData/WD~English,1860]]'
-headquarters_location: '[[_Standards/WikiData/WD~Kathmandu,3037]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Kathmandu,3037]]'
+- '[[_Standards/WikiData/WD~South_Asian_Federation_of_Accountants,7566034|WD~South_Asian_Federation_of_Accountants,7566034]]'
+- '[[_Standards/WikiData/WD~South_Asian_University,7566050|WD~South_Asian_University,7566050]]'
+- '[[_Standards/WikiData/WD~Foundation_of_SAARC_Writers_and_Literature,19881225|WD~Foundation_of_SAARC_Writers_and_Literature,19881225]]'
+- '[[_Standards/WikiData/WD~South_Asia_Foundation,24945412|WD~South_Asia_Foundation,24945412]]'
+- '[[_Standards/WikiData/WD~SAARC_Agriculture_Centre,67988647|WD~SAARC_Agriculture_Centre,67988647]]'
+- '[[_Standards/WikiData/WD~SAARC_Development_Fund,120512563|WD~SAARC_Development_Fund,120512563]]'
+general_secretary: '[[_Standards/WikiData/WD~Esala_Weerakoon,23761295|WD~Esala_Weerakoon,23761295]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_SAARC,24040443|WD~Portal_SAARC,24040443]]'
+country: '[[_Standards/WikiData/WD~Nepal,837|WD~Nepal,837]]'
+official_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+headquarters_location: '[[_Standards/WikiData/WD~Kathmandu,3037|WD~Kathmandu,3037]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Kathmandu,3037|WD~Kathmandu,3037]]'
 member_count: 8
 employees: 61
-official_observer_status_in_organization: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
 social_media_followers: 4601
 short_name:
 - سارک

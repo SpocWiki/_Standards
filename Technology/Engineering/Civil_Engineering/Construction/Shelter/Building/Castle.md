@@ -110,33 +110,33 @@ aliases:
   - 성
 has_id_wikidata: Q23413
 has_part_s_:
-  - "[[_Standards/WikiData/WD~keep,91165]]"
-  - "[[_Standards/WikiData/WD~castle_courtyard,96597597]]"
-  - "[[_Standards/WikiData/WD~defensive_wall,57346]]"
+  - "[[_Standards/WikiData/WD~keep,91165|WD~keep,91165]]"
+  - "[[_Standards/WikiData/WD~castle_courtyard,96597597|WD~castle_courtyard,96597597]]"
+  - "[[_Standards/WikiData/WD~defensive_wall,57346|WD~defensive_wall,57346]]"
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~alcázar,613611]]"
-  - "[[_Standards/WikiData/WD~château,751876]]"
+  - "[[_Standards/WikiData/WD~alcázar,613611|WD~alcázar,613611]]"
+  - "[[_Standards/WikiData/WD~château,751876|WD~château,751876]]"
 subject_has_role:
-  - "[[_Standards/WikiData/WD~dwelling,699405]]"
-  - "[[_Standards/WikiData/WD~status_symbol,1758228]]"
-  - "[[_Standards/WikiData/WD~defense,29688905]]"
+  - "[[_Standards/WikiData/WD~dwelling,699405|WD~dwelling,699405]]"
+  - "[[_Standards/WikiData/WD~status_symbol,1758228|WD~status_symbol,1758228]]"
+  - "[[_Standards/WikiData/WD~defense,29688905|WD~defense,29688905]]"
 different_from:
-  - "[[_Standards/WikiData/WD~château,751876]]"
-  - "[[_Standards/WikiData/WD~palace,16560]]"
-instance_of: "[[_Standards/WikiData/WD~building_type,811102]]"
-studied_by: "[[_Standards/WikiData/WD~castellology,2941393]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_castle,10805532]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q19332893,19332893]]"
-subclass_of: "[[_Standards/WikiData/WD~fortification,57821]]"
+  - "[[_Standards/WikiData/WD~château,751876|WD~château,751876]]"
+  - "[[_Standards/WikiData/WD~palace,16560|WD~palace,16560]]"
+instance_of: "[[_Standards/WikiData/WD~building_type,811102|WD~building_type,811102]]"
+studied_by: "[[_Standards/WikiData/WD~castellology,2941393|WD~castellology,2941393]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_castle,10805532|WD~Template_Infobox_castle,10805532]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q19332893,19332893|WD~Q19332893,19332893]]"
+subclass_of: "[[_Standards/WikiData/WD~fortification,57821|WD~fortification,57821]]"
 Wolfram_Language_entity_type: Castle
 Commons_gallery: Castle
 IMDb_keyword: castle

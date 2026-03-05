@@ -53,7 +53,7 @@ aliases:
 
 ### [[Eternal_Sunshine_of_the_Spotless_Mind]] 
 
-### [[../Comedies/Scott_Pilgrim_vs.the_World]] 
+### [[../Comedies/Scott_Pilgrim_vs.the_World|Scott_Pilgrim_vs.the_World]] 
 
 
 ## Confidential Links & Embeds: 

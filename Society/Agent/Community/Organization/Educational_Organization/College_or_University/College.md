@@ -74,24 +74,24 @@ aliases:
 - 단과대학
 has_id_wikidata: Q189004
 different_from:
-- '[[_Standards/WikiData/WD~railway_track,160342]]'
-- '[[_Standards/WikiData/WD~Collegium,344476]]'
-- '[[_Standards/WikiData/WD~college_in_France,1459186]]'
-- '[[_Standards/WikiData/WD~professional_and_vocational_university,30934637]]'
-- '[[_Standards/WikiData/WD~university,3918]]'
+- '[[_Standards/WikiData/WD~railway_track,160342|WD~railway_track,160342]]'
+- '[[_Standards/WikiData/WD~Collegium,344476|WD~Collegium,344476]]'
+- '[[_Standards/WikiData/WD~college_in_France,1459186|WD~college_in_France,1459186]]'
+- '[[_Standards/WikiData/WD~professional_and_vocational_university,30934637|WD~professional_and_vocational_university,30934637]]'
+- '[[_Standards/WikiData/WD~university,3918|WD~university,3918]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~educational_institution,2385804]]'
-- '[[_Standards/WikiData/WD~higher_education_institution,38723]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~college,5146315]]'
-model_item: '[[_Standards/WikiData/WD~Pomona_College,7227384]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_college,17615621]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_educational_institution,112872396]]'
+- '[[_Standards/WikiData/WD~educational_institution,2385804|WD~educational_institution,2385804]]'
+- '[[_Standards/WikiData/WD~higher_education_institution,38723|WD~higher_education_institution,38723]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~college,5146315|WD~college,5146315]]'
+model_item: '[[_Standards/WikiData/WD~Pomona_College,7227384|WD~Pomona_College,7227384]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_college,17615621|WD~Template_Infobox_college,17615621]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_educational_institution,112872396|WD~type_of_educational_institution,112872396]]'
 Archive_of_Our_Own_tag: College
 Commons_gallery: College
 IMDb_keyword: college

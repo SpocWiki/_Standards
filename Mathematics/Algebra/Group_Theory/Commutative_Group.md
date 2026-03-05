@@ -53,28 +53,28 @@ aliases:
 - 阿贝尔群
 - 아벨 군
 has_id_wikidata: Q181296
-named_after: '[[_Standards/WikiData/WD~Niels_Henrik_Abel,124115]]'
+named_after: '[[_Standards/WikiData/WD~Niels_Henrik_Abel,124115|WD~Niels_Henrik_Abel,124115]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~commutative_property,165474]]'
-- '[[_Standards/WikiData/WD~associativity,177251]]'
-- '[[_Standards/WikiData/WD~identity_element,185813]]'
-- '[[_Standards/WikiData/WD~inverse_element,338057]]'
-- '[[_Standards/WikiData/WD~closure,4720939]]'
-opposite_of: '[[_Standards/WikiData/WD~non_abelian_group,592651]]'
+- '[[_Standards/WikiData/WD~commutative_property,165474|WD~commutative_property,165474]]'
+- '[[_Standards/WikiData/WD~associativity,177251|WD~associativity,177251]]'
+- '[[_Standards/WikiData/WD~identity_element,185813|WD~identity_element,185813]]'
+- '[[_Standards/WikiData/WD~inverse_element,338057|WD~inverse_element,338057]]'
+- '[[_Standards/WikiData/WD~closure,4720939|WD~closure,4720939]]'
+opposite_of: '[[_Standards/WikiData/WD~non_abelian_group,592651|WD~non_abelian_group,592651]]'
 studied_by:
-- '[[_Standards/WikiData/WD~group_theory,874429]]'
-- '[[_Standards/WikiData/WD~module_theory,114722746]]'
+- '[[_Standards/WikiData/WD~group_theory,874429|WD~group_theory,874429]]'
+- '[[_Standards/WikiData/WD~module_theory,114722746|WD~module_theory,114722746]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~nilpotent_group,1755242]]'
-- '[[_Standards/WikiData/WD~CA_group,5008459]]'
-- '[[_Standards/WikiData/WD~elementary_amenable_group,5358894]]'
-- '[[_Standards/WikiData/WD~FC_group,5424694]]'
-- '[[_Standards/WikiData/WD~commutative_monoid,19934355]]'
-- '[[_Standards/WikiData/WD~Dedekind_group,21189838]]'
-- '[[_Standards/WikiData/WD~commutative_Moufang_loop,39485777]]'
-- '[[_Standards/WikiData/WD~module,18848]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+- '[[_Standards/WikiData/WD~nilpotent_group,1755242|WD~nilpotent_group,1755242]]'
+- '[[_Standards/WikiData/WD~CA_group,5008459|WD~CA_group,5008459]]'
+- '[[_Standards/WikiData/WD~elementary_amenable_group,5358894|WD~elementary_amenable_group,5358894]]'
+- '[[_Standards/WikiData/WD~FC_group,5424694|WD~FC_group,5424694]]'
+- '[[_Standards/WikiData/WD~commutative_monoid,19934355|WD~commutative_monoid,19934355]]'
+- '[[_Standards/WikiData/WD~Dedekind_group,21189838|WD~Dedekind_group,21189838]]'
+- '[[_Standards/WikiData/WD~commutative_Moufang_loop,39485777|WD~commutative_Moufang_loop,39485777]]'
+- '[[_Standards/WikiData/WD~module,18848|WD~module,18848]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
 Stack_Exchange_tag:
 - https://math.stackexchange.com/tags/abelian-groups
 - https://mathoverflow.net/tags/abelian-groups
@@ -154,7 +154,7 @@ dv_has_:
 
 # [[Commutative_Group]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Abelian_group,181296]] 
+#is_/same_as :: [[../../../WikiData/WD~Abelian_group,181296|WD~Abelian_group,181296]] 
 
 ## #has_/text_of_/abstract 
 

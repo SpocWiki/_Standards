@@ -76,11 +76,11 @@ aliases:
 - 戰國
 - 전국 시대
 has_id_wikidata: Q185063
-named_after: '[[_Standards/WikiData/WD~Zhan_Guo_Ce,197396]]'
-instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
+named_after: '[[_Standards/WikiData/WD~Zhan_Guo_Ce,197396|WD~Zhan_Guo_Ce,197396]]'
+instance_of: '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
 start_time: -0475-01-01T00:00:00Z
-followed_by: '[[_Standards/WikiData/WD~Qin_dynasty,7183]]'
-location: '[[_Standards/WikiData/WD~China,29520]]'
+followed_by: '[[_Standards/WikiData/WD~Qin_dynasty,7183|WD~Qin_dynasty,7183]]'
+location: '[[_Standards/WikiData/WD~China,29520|WD~China,29520]]'
 end_time: -0220-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/De%20stridande%20staterna%20animering.gif
 Library_of_Congress_Classification: DS747.2

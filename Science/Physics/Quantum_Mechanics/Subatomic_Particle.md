@@ -90,15 +90,15 @@ aliases:
 - 次原子粒子
 - 아원자 입자
 has_id_wikidata: Q177013
-topic_has_template: '[[_Standards/WikiData/WD~Template_Subatomic_particle,5616536]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~quantum_particle,28693603]]'
-subclass_of: '[[_Standards/WikiData/WD~quantum_particle,28693603]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Subatomic_particle,5616536|WD~Template_Subatomic_particle,5616536]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~quantum_particle,28693603|WD~quantum_particle,28693603]]'
+subclass_of: '[[_Standards/WikiData/WD~quantum_particle,28693603|WD~quantum_particle,28693603]]'
 properties_for_this_type:
 - spin quantum number
 - electric charge
-part_of: '[[_Standards/WikiData/WD~atom,9121]]'
-interaction: '[[_Standards/WikiData/WD~gravity,11412]]'
-studied_by: '[[_Standards/WikiData/WD~particle_physics,18334]]'
+part_of: '[[_Standards/WikiData/WD~atom,9121|WD~atom,9121]]'
+interaction: '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+studied_by: '[[_Standards/WikiData/WD~particle_physics,18334|WD~particle_physics,18334]]'
 OmegaWiki_Defined_Meaning: 2722
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atom.png
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Classement%20particules.jpg

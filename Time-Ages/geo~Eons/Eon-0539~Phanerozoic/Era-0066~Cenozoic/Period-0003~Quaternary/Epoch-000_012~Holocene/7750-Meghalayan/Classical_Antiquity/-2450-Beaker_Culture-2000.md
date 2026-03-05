@@ -51,17 +51,17 @@ aliases:
 - 鐘状ビーカー文化
 - 비커 문화
 has_id_wikidata: Q470867
-followed_by: '[[_Standards/WikiData/WD~Hilversum_culture,278382]]'
-instance_of: '[[_Standards/WikiData/WD~archaeological_culture,465299]]'
+followed_by: '[[_Standards/WikiData/WD~Hilversum_culture,278382|WD~Hilversum_culture,278382]]'
+instance_of: '[[_Standards/WikiData/WD~archaeological_culture,465299|WD~archaeological_culture,465299]]'
 start_time: -2600-01-01T00:00:00Z
 end_time:
 - -2200-01-01T00:00:00Z
 - -1800-01-01T00:00:00Z
 location:
-- '[[_Standards/WikiData/WD~Southern_Europe,27449]]'
-- '[[_Standards/WikiData/WD~Western_Europe,27496]]'
-- '[[_Standards/WikiData/WD~Central_Europe,27509]]'
-indigenous_to: '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Southern_Europe,27449|WD~Southern_Europe,27449]]'
+- '[[_Standards/WikiData/WD~Western_Europe,27496|WD~Western_Europe,27496]]'
+- '[[_Standards/WikiData/WD~Central_Europe,27509|WD~Central_Europe,27509]]'
+indigenous_to: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 BHCL_UUID: cd631548-6492-4fb5-a9e4-f07f0183a79c
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20Beaker%20artefacts%2C%20Spain.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20Beaker%20culture.jpg

@@ -1,11 +1,11 @@
 
-#has_/director :: [[../Movie-Directors/Forman,Miloš]]
-#has_/author :: [[../../books/Authors/Shaffer,Peter]] 
-#has_/creator :: [[../Movie-Directors/Forman,Miloš]] 
+#has_/director :: [[../Movie-Directors/Forman,Miloš|Forman,Miloš]]
+#has_/author :: [[../../books/Authors/Shaffer,Peter|Shaffer,Peter]] 
+#has_/creator :: [[../Movie-Directors/Forman,Miloš|Forman,Miloš]] 
 
-> Amadeus is a 1984 American period biographical drama film directed by [[../Movie-Directors/Forman,Miloš]], 
-> and adapted by [[../../books/Authors/Shaffer,Peter]] from his 1979 stage play of the same name, 
-> in turn inspired by  the 1830 play [[Mozart_and_Salieri]] by [[../../books/Authors/Pushkin,Alexander]]. 
+> Amadeus is a 1984 American period biographical drama film directed by [[../Movie-Directors/Forman,Miloš|Forman,Miloš]], 
+> and adapted by [[../../books/Authors/Shaffer,Peter|Shaffer,Peter]] from his 1979 stage play of the same name, 
+> in turn inspired by  the 1830 play [[Mozart_and_Salieri]] by [[../../books/Authors/Pushkin,Alexander|Pushkin,Alexander]]. 
 > 
 > Set in Vienna, Austria, during the latter half of the 18th century, 
 > the film is a fictionalized story of Wolfgang Amadeus Mozart from the time he left Salzburg, 

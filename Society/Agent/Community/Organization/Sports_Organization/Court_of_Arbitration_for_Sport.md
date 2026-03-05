@@ -49,12 +49,12 @@ aliases:
 - 國際體育仲裁院
 - 스포츠 중재 재판소
 has_id_wikidata: Q659499
-instance_of: '[[_Standards/WikiData/WD~sports_tribunal,2312501]]'
-legal_form: '[[_Standards/WikiData/WD~association,15177651]]'
-operator: '[[_Standards/WikiData/WD~International_Council_of_Arbitration_for_Sport,15820277]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Lausanne,807]]'
-country: '[[_Standards/WikiData/WD~Switzerland,39]]'
-founded_by: '[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]'
+instance_of: '[[_Standards/WikiData/WD~sports_tribunal,2312501|WD~sports_tribunal,2312501]]'
+legal_form: '[[_Standards/WikiData/WD~association,15177651|WD~association,15177651]]'
+operator: '[[_Standards/WikiData/WD~International_Council_of_Arbitration_for_Sport,15820277|WD~International_Council_of_Arbitration_for_Sport,15820277]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Lausanne,807|WD~Lausanne,807]]'
+country: '[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
+founded_by: '[[_Standards/WikiData/WD~International_Olympic_Committee,40970|WD~International_Olympic_Committee,40970]]'
 short_name:
 - CAS
 - TAS

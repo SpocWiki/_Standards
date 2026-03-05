@@ -70,17 +70,17 @@ aliases:
 - 아시아의 역사
 has_id_wikidata: Q627531
 has_part_s_:
-- '[[_Standards/WikiData/WD~history_of_Central_Asia,635111]]'
-- '[[_Standards/WikiData/WD~history_of_East_Asia,831198]]'
-- '[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514]]'
-- '[[_Standards/WikiData/WD~history_of_South_Asia,67141869]]'
-subclass_of: '[[_Standards/WikiData/WD~study_of_history,1066186]]'
-part_of: '[[_Standards/WikiData/WD~history_of_Eurasia,1949625]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_History_of_Asia,42351243]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685]]'
-facet_of: '[[_Standards/WikiData/WD~Asia,48]]'
-locations: '[[_Standards/WikiData/WD~Asia,48]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Asia,55512]]'
+- '[[_Standards/WikiData/WD~history_of_Central_Asia,635111|WD~history_of_Central_Asia,635111]]'
+- '[[_Standards/WikiData/WD~history_of_East_Asia,831198|WD~history_of_East_Asia,831198]]'
+- '[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514|WD~history_of_Southeast_Asia,2227514]]'
+- '[[_Standards/WikiData/WD~history_of_South_Asia,67141869|WD~history_of_South_Asia,67141869]]'
+subclass_of: '[[_Standards/WikiData/WD~study_of_history,1066186|WD~study_of_history,1066186]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Eurasia,1949625|WD~history_of_Eurasia,1949625]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_History_of_Asia,42351243|WD~Portal_History_of_Asia,42351243]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685|WD~history_of_a_geographic_region,63313685]]'
+facet_of: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+locations: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Asia,55512|WD~Template_History_of_Asia,55512]]'
 Dewey_Decimal_Classification: 950
 Classification_of_Instructional_Programs_code: 54.0106
 Commons_category: History of Asia

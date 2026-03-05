@@ -72,11 +72,11 @@ aliases:
 - 庫希特語族
 - 쿠시어파
 has_id_wikidata: Q33248
-named_after: '[[_Standards/WikiData/WD~Cush,1138595]]'
-indigenous_to: '[[_Standards/WikiData/WD~Cushitic_peoples,2065086]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
-subclass_of: '[[_Standards/WikiData/WD~Afroasiatic,25268]]'
-instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+named_after: '[[_Standards/WikiData/WD~Cush,1138595|WD~Cush,1138595]]'
+indigenous_to: '[[_Standards/WikiData/WD~Cushitic_peoples,2065086|WD~Cushitic_peoples,2065086]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+subclass_of: '[[_Standards/WikiData/WD~Afroasiatic,25268|WD~Afroasiatic,25268]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
 ISO_639_5_code: cus
 IETF_language_tag: cus
 ISO_639_2_code: cus
@@ -172,7 +172,7 @@ dv_has_:
 
 # [[LangFamily~Cushitic]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Cushitic,33248]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Cushitic,33248|WD~Cushitic,33248]] 
 
 ## #has_/text_of_/abstract 
 

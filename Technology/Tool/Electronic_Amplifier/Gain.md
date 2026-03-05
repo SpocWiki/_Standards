@@ -36,8 +36,8 @@ aliases:
 - 增益
 - 이득
 has_id_wikidata: Q854659
-instance_of: '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-different_from: '[[_Standards/WikiData/WD~Wzmocnienie,9381126]]'
+instance_of: '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+different_from: '[[_Standards/WikiData/WD~Wzmocnienie,9381126|WD~Wzmocnienie,9381126]]'
 dv_has_:
   name_:
     ar: كسب كهربائي

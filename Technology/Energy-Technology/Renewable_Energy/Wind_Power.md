@@ -95,18 +95,18 @@ aliases:
 - 风能
 - 풍력 발전
 has_id_wikidata: Q43302
-instance_of: '[[_Standards/WikiData/WD~renewable_resource,1138571]]'
+instance_of: '[[_Standards/WikiData/WD~renewable_resource,1138571|WD~renewable_resource,1138571]]'
 different_from:
-- '[[_Standards/WikiData/WD~wind_load,1711941]]'
-- '[[_Standards/WikiData/WD~wind_energy,52664317]]'
+- '[[_Standards/WikiData/WD~wind_load,1711941|WD~wind_load,1711941]]'
+- '[[_Standards/WikiData/WD~wind_energy,52664317|WD~wind_energy,52664317]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sustainable_energy,1962383]]'
-- '[[_Standards/WikiData/WD~economic_sector,3958441]]'
-- '[[_Standards/WikiData/WD~alternative_energy,4202245]]'
-- '[[_Standards/WikiData/WD~renewable_energy,12705]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Wind_power,13108246]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-source_of_energy: '[[_Standards/WikiData/WD~wind,8094]]'
+- '[[_Standards/WikiData/WD~sustainable_energy,1962383|WD~sustainable_energy,1962383]]'
+- '[[_Standards/WikiData/WD~economic_sector,3958441|WD~economic_sector,3958441]]'
+- '[[_Standards/WikiData/WD~alternative_energy,4202245|WD~alternative_energy,4202245]]'
+- '[[_Standards/WikiData/WD~renewable_energy,12705|WD~renewable_energy,12705]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Wind_power,13108246|WD~Template_Wind_power,13108246]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+source_of_energy: '[[_Standards/WikiData/WD~wind,8094|WD~wind,8094]]'
 carbon_footprint: 12
 OmegaWiki_Defined_Meaning: 4163
 U_S_National_Archives_Identifier: 10641576

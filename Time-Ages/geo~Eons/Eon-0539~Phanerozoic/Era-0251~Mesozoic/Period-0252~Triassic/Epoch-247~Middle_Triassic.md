@@ -39,11 +39,11 @@ aliases:
 ischart: MiddleTriassic
 has_id_wikidata: Q929395
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Middle_Triassic,21605749]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-named_after: '[[_Standards/WikiData/WD~Q201,201]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Middle_Triassic,21605749|WD~Category_Middle_Triassic,21605749]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+named_after: '[[_Standards/WikiData/WD~Q201,201|WD~Q201,201]]'
 start_time: -247200000-01-01T00:00:00Z
 Commons_category: Middle Triassic
 sRGB_color_hex_triplet: BF7CB1
@@ -162,7 +162,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 247.2 to 237 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-250_Ma_(Olenekian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-250_Ma_(Olenekian_Age).png|Earth-250_Ma_(Olenekian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

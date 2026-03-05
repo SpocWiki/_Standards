@@ -86,18 +86,18 @@ aliases:
 - 階級
 - 사회 계급
 has_id_wikidata: Q187588
-partially_coincident_with: '[[_Standards/WikiData/WD~social_stratum,149211]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~social_status,189970]]'
-has_cause: '[[_Standards/WikiData/WD~social_stratification,841628]]'
-subclass_of: '[[_Standards/WikiData/WD~social_group,874405]]'
-different_from: '[[_Standards/WikiData/WD~Klasse,1744556]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~social_stratum,149211|WD~social_stratum,149211]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~social_status,189970|WD~social_status,189970]]'
+has_cause: '[[_Standards/WikiData/WD~social_stratification,841628|WD~social_stratification,841628]]'
+subclass_of: '[[_Standards/WikiData/WD~social_group,874405|WD~social_group,874405]]'
+different_from: '[[_Standards/WikiData/WD~Klasse,1744556|WD~Klasse,1744556]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Social_class,13599862]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Social_class,13599862|WD~Template_Social_class,13599862]]'
 Wikidata_property: social classification
-studied_by: '[[_Standards/WikiData/WD~sociology,21201]]'
+studied_by: '[[_Standards/WikiData/WD~sociology,21201|WD~sociology,21201]]'
 OmegaWiki_Defined_Meaning: 487631
 Dewey_Decimal_Classification: 305.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20Noble%20Samurai%20and%20Servant%20by%20Pannemaker%20c1845.png

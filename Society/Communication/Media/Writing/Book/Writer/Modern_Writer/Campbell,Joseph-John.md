@@ -115,7 +115,7 @@ aliases:
 > His work covers many aspects of the human experience. 
 > Campbell's best-known work is his book The [[Hero_with_a_Thousand_Faces(1949)]], 
 > in which he discusses his theory of the journey of the archetypal hero 
-> shared by world mythologies, termed the [[../../../../../../../_private/Society/Communication/Media/books/Flatland/Monomyth]].
+> shared by world mythologies, termed the [[../../../../../../../_private/Society/Communication/Media/books/Flatland/Monomyth|Monomyth]].
 >
 > Since the publication of The Hero with a Thousand Faces, 
 > Campbell's theories have been applied by a wide variety of modern writers and artists. 

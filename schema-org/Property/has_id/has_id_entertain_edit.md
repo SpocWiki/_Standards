@@ -41,12 +41,12 @@ dv_has_:
   name: has_id_entertain_edit
   range: Text, URL
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
 dv_has_name: has_id_entertain_edit
 dv_has_range: Text, URL
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_name/has_id_entertain_edit|has_id_entertain_edit]]"
   - "[[/_public/schema-org/Property/has_name/has_id_entertain_edit.public|has_id_entertain_edit.public]]"
@@ -73,7 +73,7 @@ For example, the motion picture known as "Ghostbusters" whose [[titleEIDR]] is "
 
 
 
-Since schema.org types like [[../../../Society/Communication/Media/Creative_Work/Movie]] and [[TVEpisode]] can be used for both works and their multiple expressions, it is possible to use [[titleEIDR]] alone (for a general description), or alongside [[editEIDR]] for a more edit-specific description.
+Since schema.org types like [[../../../Society/Communication/Media/Creative_Work/Movie|Movie]] and [[TVEpisode]] can be used for both works and their multiple expressions, it is possible to use [[titleEIDR]] alone (for a general description), or alongside [[editEIDR]] for a more edit-specific description.
 
 Predicated describes that: 
 

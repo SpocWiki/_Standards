@@ -39,11 +39,11 @@ aliases:
 - 최소 음악
 has_id_wikidata: Q572901
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~musical_movement,12020884]]'
-different_from: '[[_Standards/WikiData/WD~Minimalism,416389]]'
-subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_movement,12020884|WD~musical_movement,12020884]]'
+different_from: '[[_Standards/WikiData/WD~Minimalism,416389|WD~Minimalism,416389]]'
+subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946|WD~modern_classical_music,65937946]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 inception: 1964-01-01T00:00:00Z
 Commons_category: Minimal music
 dv_has_:

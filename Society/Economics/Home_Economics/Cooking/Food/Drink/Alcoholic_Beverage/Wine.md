@@ -148,28 +148,28 @@ has_id_wikidata: Q282
 Amazon_com_browse_node: 2983386011
 Colon_Classification: F547
 color:
-- '[[_Standards/WikiData/WD~pink,429220]]'
-- '[[_Standards/WikiData/WD~red,3142]]'
-- '[[_Standards/WikiData/WD~white,23444]]'
-- '[[_Standards/WikiData/WD~orange,39338]]'
+- '[[_Standards/WikiData/WD~pink,429220|WD~pink,429220]]'
+- '[[_Standards/WikiData/WD~red,3142|WD~red,3142]]'
+- '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
+- '[[_Standards/WikiData/WD~orange,39338|WD~orange,39338]]'
 Commons_category: Wine
 Commons_gallery: Wine
 CosIng_number: 60188
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 641.22
-different_from: '[[_Standards/WikiData/WD~wino,6167984]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+different_from: '[[_Standards/WikiData/WD~wino,6167984|WD~wino,6167984]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 earliest_date: -5400-01-01T00:00:00Z
 equivalent_class: http://dbpedia.org/ontology/Wine
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000014
@@ -177,18 +177,18 @@ GitHub_topic:
 - wines
 - wine
 has_part_s_:
-- '[[_Standards/WikiData/WD~sparkling_wine,321263]]'
-- '[[_Standards/WikiData/WD~red_wine,1827]]'
-- '[[_Standards/WikiData/WD~white_wine,10210]]'
+- '[[_Standards/WikiData/WD~sparkling_wine,321263|WD~sparkling_wine,321263]]'
+- '[[_Standards/WikiData/WD~red_wine,1827|WD~red_wine,1827]]'
+- '[[_Standards/WikiData/WD~white_wine,10210|WD~white_wine,10210]]'
 has_use:
-- '[[_Standards/WikiData/WD~cooking_alcohol,8193047]]'
-- '[[_Standards/WikiData/WD~drink,40050]]'
+- '[[_Standards/WikiData/WD~cooking_alcohol,8193047|WD~cooking_alcohol,8193047]]'
+- '[[_Standards/WikiData/WD~drink,40050|WD~drink,40050]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Red%20and%20white%20wine%2012-2015.jpg
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/VINO.html
 made_from_material:
-- '[[_Standards/WikiData/WD~grape,10978]]'
-- '[[_Standards/WikiData/WD~yeast,45422]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Wines,15885167]]'
+- '[[_Standards/WikiData/WD~grape,10978|WD~grape,10978]]'
+- '[[_Standards/WikiData/WD~yeast,45422|WD~yeast,45422]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Wines,15885167|WD~WikiProject_Wines,15885167]]'
 MeSH_tree_code:
 - G07.203.100.100.900
 - G07.203.100.559.968
@@ -196,21 +196,21 @@ MeSH_tree_code:
 - J02.200.100.900
 - J02.200.559.968
 - J02.350.594.968
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Vitis_vinifera_subsp._vinifera,20634]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Vitis_vinifera_subsp._vinifera,20634|WD~Vitis_vinifera_subsp._vinifera,20634]]'
 OmegaWiki_Defined_Meaning: 6329
 produced_by:
-- '[[_Standards/WikiData/WD~yeast_in_winemaking,3237250]]'
-- '[[_Standards/WikiData/WD~fermentation,41760]]'
+- '[[_Standards/WikiData/WD~yeast_in_winemaking,3237250|WD~yeast_in_winemaking,3237250]]'
+- '[[_Standards/WikiData/WD~fermentation,41760|WD~fermentation,41760]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D9%86%D8%A8%D9%8A%D8%B0.wav
 subclass_of:
-- '[[_Standards/WikiData/WD~fermented_alcoholic_beverage,11258817]]'
-- '[[_Standards/WikiData/WD~alcoholic_fruit_beverage,56351009]]'
+- '[[_Standards/WikiData/WD~fermented_alcoholic_beverage,11258817|WD~fermented_alcoholic_beverage,11258817]]'
+- '[[_Standards/WikiData/WD~alcoholic_fruit_beverage,56351009|WD~alcoholic_fruit_beverage,56351009]]'
 subreddit: wine
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Wine,11120865]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Wine,11120865|WD~Portal_Wine,11120865]]'
 UMLS_CUI: C0043188
 UNII: 13TE483N5I
 water_footprint: 869
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_wine,7112812]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_wine,7112812|WD~outline_of_wine,7112812]]'
 IMDb_keyword: wine
 dv_has_:
   name_:

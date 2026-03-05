@@ -74,12 +74,12 @@ aliases:
 - 인쇄 회로 기판
 has_id_wikidata: Q173350
 subclass_of:
-- '[[_Standards/WikiData/WD~electrical_circuit,132629]]'
-- '[[_Standards/WikiData/WD~physical_technological_component,811909]]'
-- '[[_Standards/WikiData/WD~plate,23400204]]'
-- '[[_Standards/WikiData/WD~board,123421533]]'
-different_from: '[[_Standards/WikiData/WD~printed_electronics,1497629]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~printed_circuit_board_assembly,3951866]]'
+- '[[_Standards/WikiData/WD~electrical_circuit,132629|WD~electrical_circuit,132629]]'
+- '[[_Standards/WikiData/WD~physical_technological_component,811909|WD~physical_technological_component,811909]]'
+- '[[_Standards/WikiData/WD~plate,23400204|WD~plate,23400204]]'
+- '[[_Standards/WikiData/WD~board,123421533|WD~board,123421533]]'
+different_from: '[[_Standards/WikiData/WD~printed_electronics,1497629|WD~printed_electronics,1497629]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~printed_circuit_board_assembly,3951866|WD~printed_circuit_board_assembly,3951866]]'
 Nomenclature_for_Museum_Cataloging: 8773
 OmegaWiki_Defined_Meaning: 357190
 Commons_category: Printed circuit boards

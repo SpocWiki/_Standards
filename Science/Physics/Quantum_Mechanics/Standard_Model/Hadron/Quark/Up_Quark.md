@@ -50,15 +50,15 @@ aliases:
 - 위 쿼크
 has_id_wikidata: Q6732
 interaction:
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
-antiparticle: '[[_Standards/WikiData/WD~up_antiquark,18481607]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415|WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418|WD~weak_interaction,11418]]'
+antiparticle: '[[_Standards/WikiData/WD~up_antiquark,18481607|WD~up_antiquark,18481607]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015|WD~type_of_quantum_particle,22675015]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~quark,6718]]'
-- '[[_Standards/WikiData/WD~elementary_particle,43116]]'
+- '[[_Standards/WikiData/WD~quark,6718|WD~quark,6718]]'
+- '[[_Standards/WikiData/WD~elementary_particle,43116|WD~elementary_particle,43116]]'
 parity_quantum_number: 1
 spin_quantum_number: 0.5
 mass: 2.16

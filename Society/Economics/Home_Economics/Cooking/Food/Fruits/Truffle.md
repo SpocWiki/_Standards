@@ -61,15 +61,15 @@ aliases:
 - 松露
 - 서양송로
 has_id_wikidata: Q2690965
-subclass_of: '[[_Standards/WikiData/WD~edible_mushroom,654236]]'
+subclass_of: '[[_Standards/WikiData/WD~edible_mushroom,654236|WD~edible_mushroom,654236]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from:
-- '[[_Standards/WikiData/WD~chocolate_truffle,1063560]]'
-- '[[_Standards/WikiData/WD~Tuber,7850807]]'
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Tuber,7850807]]'
+- '[[_Standards/WikiData/WD~chocolate_truffle,1063560|WD~chocolate_truffle,1063560]]'
+- '[[_Standards/WikiData/WD~Tuber,7850807|WD~Tuber,7850807]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Tuber,7850807|WD~Tuber,7850807]]'
 Commons_category: Truffles
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Truffle%204.jpg
 Dewey_Decimal_Classification:

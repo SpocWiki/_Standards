@@ -68,16 +68,16 @@ aliases:
 - 新古典主義
 - 신고전주의
 has_id_wikidata: Q14378
-different_from: '[[_Standards/WikiData/WD~neoclassicism,535611]]'
+different_from: '[[_Standards/WikiData/WD~neoclassicism,535611|WD~neoclassicism,535611]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~style,1292119]]'
-- '[[_Standards/WikiData/WD~art_style,1792644]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~neoclassical_art,11081726]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-subclass_of: '[[_Standards/WikiData/WD~Western_art,31793078]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Neoclassicism,116985647]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~style,1292119|WD~style,1292119]]'
+- '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~neoclassical_art,11081726|WD~neoclassical_art,11081726]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800|WD~Art+Feminism,24909800]]'
+subclass_of: '[[_Standards/WikiData/WD~Western_art,31793078|WD~Western_art,31793078]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Neoclassicism,116985647|WD~Portal_Neoclassicism,116985647]]'
 start_time: 1760-01-01T00:00:00Z
 OmegaWiki_Defined_Meaning: 1224029
 end_time: 1830-01-01T00:00:00Z

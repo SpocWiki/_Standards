@@ -96,20 +96,20 @@ aliases:
 - 锯子
 - 톱
 has_id_wikidata: Q125356
-used_by: '[[_Standards/WikiData/WD~carpenter,154549]]'
-has_use: '[[_Standards/WikiData/WD~machining,192047]]'
+used_by: '[[_Standards/WikiData/WD~carpenter,154549|WD~carpenter,154549]]'
+has_use: '[[_Standards/WikiData/WD~machining,192047|WD~machining,192047]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-different_from: '[[_Standards/WikiData/WD~Piła,1296193]]'
-subclass_of: '[[_Standards/WikiData/WD~cutting_tool,1760958]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~Piła,1296193|WD~Piła,1296193]]'
+subclass_of: '[[_Standards/WikiData/WD~cutting_tool,1760958|WD~cutting_tool,1760958]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~saw_tooth,3023312]]'
-- '[[_Standards/WikiData/WD~saw_blade,4683254]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~saw_blade,4683254]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_tool,123588392]]'
+- '[[_Standards/WikiData/WD~saw_tooth,3023312|WD~saw_tooth,3023312]]'
+- '[[_Standards/WikiData/WD~saw_blade,4683254|WD~saw_blade,4683254]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~saw_blade,4683254|WD~saw_blade,4683254]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_tool,123588392|WD~type_of_tool,123588392]]'
 Nomenclature_for_Museum_Cataloging: 6603
 OmegaWiki_Defined_Meaning: 876531
 image: http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A5gkamraten.jpg

@@ -66,7 +66,7 @@ Use it like this:
 - #has_/text_of_/accommodation_category : : Text   
 - has_text_of_accommodation_category : : Text   
 
-Category of an [[../../../Earth/Geography/Place/Accommodation]], following real estate conventions, e.g. RESO (see [PropertySubType](https://ddwiki.reso.org/display/DDW17/PropertySubType+Field), and [PropertyType](https://ddwiki.reso.org/display/DDW17/PropertyType+Field) fields  for suggested values).
+Category of an [[../../../Earth/Geography/Place/Accommodation|Accommodation]], following real estate conventions, e.g. RESO (see [PropertySubType](https://ddwiki.reso.org/display/DDW17/PropertySubType+Field), and [PropertyType](https://ddwiki.reso.org/display/DDW17/PropertyType+Field) fields  for suggested values).
 
 Predicated describes that: 
 

@@ -58,14 +58,14 @@ aliases:
 - 電子電路
 - 전자 회로
 has_id_wikidata: Q1815901
-subclass_of: '[[_Standards/WikiData/WD~electrical_circuit,132629]]'
+subclass_of: '[[_Standards/WikiData/WD~electrical_circuit,132629|WD~electrical_circuit,132629]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~printed_circuit_board,173350]]'
-- '[[_Standards/WikiData/WD~electronic_component,11653]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-studied_by: '[[_Standards/WikiData/WD~electrical_circuits_and_systems,113161574]]'
+- '[[_Standards/WikiData/WD~printed_circuit_board,173350|WD~printed_circuit_board,173350]]'
+- '[[_Standards/WikiData/WD~electronic_component,11653|WD~electronic_component,11653]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+studied_by: '[[_Standards/WikiData/WD~electrical_circuits_and_systems,113161574|WD~electrical_circuits_and_systems,113161574]]'
 properties_for_this_type: instruction set
-part_of: '[[_Standards/WikiData/WD~electronics,11650]]'
+part_of: '[[_Standards/WikiData/WD~electronics,11650|WD~electronics,11650]]'
 social_media_followers: 15371
 Nomenclature_for_Museum_Cataloging: 8790
 image:
@@ -152,7 +152,7 @@ dv_has_:
 
 # [[Electronic_Circuit]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~electronic_circuit,1815901]] 
+#is_/same_as :: [[_Standards/WikiData/WD~electronic_circuit,1815901|WD~electronic_circuit,1815901]] 
 
 ## #has_/text_of_/abstract 
 

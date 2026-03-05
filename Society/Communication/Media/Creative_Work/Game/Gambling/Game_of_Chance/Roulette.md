@@ -30,16 +30,16 @@ aliases:
 - 轮盘
 - 룰렛
 has_id_wikidata: Q190975
-based_on: '[[_Standards/WikiData/WD~Biribi,865425]]'
+based_on: '[[_Standards/WikiData/WD~Biribi,865425|WD~Biribi,865425]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~casino_game,3742351]]'
-- '[[_Standards/WikiData/WD~game_of_pure_chance,66662037]]'
-different_from: '[[_Standards/WikiData/WD~spinner,111285563]]'
+- '[[_Standards/WikiData/WD~casino_game,3742351|WD~casino_game,3742351]]'
+- '[[_Standards/WikiData/WD~game_of_pure_chance,66662037|WD~game_of_pure_chance,66662037]]'
+different_from: '[[_Standards/WikiData/WD~spinner,111285563|WD~spinner,111285563]]'
 Nomenclature_for_Museum_Cataloging: 14208
 IMDb_keyword: roulette
 image:

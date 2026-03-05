@@ -91,24 +91,24 @@ aliases:
 - 거짓말
 has_id_wikidata: Q4925193
 subclass_of:
-- '[[_Standards/WikiData/WD~proposition,108163]]'
-- '[[_Standards/WikiData/WD~false_statement,17949]]'
+- '[[_Standards/WikiData/WD~proposition,108163|WD~proposition,108163]]'
+- '[[_Standards/WikiData/WD~false_statement,17949|WD~false_statement,17949]]'
 different_from:
-- '[[_Standards/WikiData/WD~deception,170028]]'
-- '[[_Standards/WikiData/WD~lying,2268776]]'
-- '[[_Standards/WikiData/WD~false_statement,17949]]'
-has_use: '[[_Standards/WikiData/WD~deception,170028]]'
+- '[[_Standards/WikiData/WD~deception,170028|WD~deception,170028]]'
+- '[[_Standards/WikiData/WD~lying,2268776|WD~lying,2268776]]'
+- '[[_Standards/WikiData/WD~false_statement,17949|WD~false_statement,17949]]'
+has_use: '[[_Standards/WikiData/WD~deception,170028|WD~deception,170028]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Wiktionary,151]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Wiktionary,151|WD~Wiktionary,151]]'
 instance_of:
-- '[[_Standards/WikiData/WD~assertion,814441]]'
-- '[[_Standards/WikiData/WD~section,3181348]]'
-- '[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697]]'
-practiced_by: '[[_Standards/WikiData/WD~liar,43670229]]'
+- '[[_Standards/WikiData/WD~assertion,814441|WD~assertion,814441]]'
+- '[[_Standards/WikiData/WD~section,3181348|WD~section,3181348]]'
+- '[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697|WD~Wikibase_reason_for_deprecated_rank,27949697]]'
+practiced_by: '[[_Standards/WikiData/WD~liar,43670229|WD~liar,43670229]]'
 subreddit:
 - lies
 - thatHappened

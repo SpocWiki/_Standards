@@ -79,14 +79,14 @@ aliases:
 - 형질인류학
 has_id_wikidata: Q27172
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_anthropology,106720965]]'
-practiced_by: '[[_Standards/WikiData/WD~biological_anthropologist,102123287]]'
-subclass_of: '[[_Standards/WikiData/WD~anthropology,23404]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436|WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_anthropology,106720965|WD~branch_of_anthropology,106720965]]'
+practiced_by: '[[_Standards/WikiData/WD~biological_anthropologist,102123287|WD~biological_anthropologist,102123287]]'
+subclass_of: '[[_Standards/WikiData/WD~anthropology,23404|WD~anthropology,23404]]'
 described_at_URL:
 - https://anthropology.dartmouth.edu/undergraduate/courses/biological-anthropology
 - https://physanth.org/career/career-biological-anthropology/

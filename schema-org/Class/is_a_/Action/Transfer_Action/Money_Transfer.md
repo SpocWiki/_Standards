@@ -26,7 +26,7 @@ tags:
 title: is_a_money_transfer Class
 type: Type
 dv_is_:
-  parent_class: "[[../TransferAction]]"
+  parent_class: "[[../TransferAction|TransferAction]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer|Money_Transfer]]"
@@ -69,7 +69,7 @@ dv_has_:
     - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../transfer_action|../transfer_action]]"
+  - "[[../transfer_action|../transfer_action|transfer_action]]"
 dv_has_properties:
   - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

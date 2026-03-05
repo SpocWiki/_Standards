@@ -27,9 +27,9 @@ tags:
 title: is_a_digital_audio_tape_format Class
 type: Type
 dv_has_:
-  parent_class: "[[../MusicReleaseFormatType]]"
+  parent_class: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
 dv_is_:
-  enum_of: "[[../MusicReleaseFormatType]]"
+  enum_of: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format|Digital_Audio_Tape_Format]]"
     - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format.public|Digital_Audio_Tape_Format.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format.personal|Digital_Audio_Tape_Format.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format.secret|Digital_Audio_Tape_Format.secret]]"
     - "[[Digital_Audio_Tape_Format]]"
-dv_has_parent_class: "[[../MusicReleaseFormatType]]"
-dv_is_enum_of: "[[../MusicReleaseFormatType]]"
+dv_has_parent_class: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
+dv_is_enum_of: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
 dv_is_same_as:
   - "[[Digital_Audio_Tape_Format]]"
   - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format.public|Digital_Audio_Tape_Format.public]]"

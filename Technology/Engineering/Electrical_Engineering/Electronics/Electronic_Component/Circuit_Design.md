@@ -29,13 +29,13 @@ aliases:
 - 電路設計
 - 회로 설계
 has_id_wikidata: Q3245116
-uses: '[[_Standards/WikiData/WD~circuit_diagram,1045991]]'
-instance_of: '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+uses: '[[_Standards/WikiData/WD~circuit_diagram,1045991|WD~circuit_diagram,1045991]]'
+instance_of: '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
-- '[[_Standards/WikiData/WD~electronic_design,28502983]]'
-opposite_of: '[[_Standards/WikiData/WD~functional_electronics,4493416]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9733548,9733548]]'
+- '[[_Standards/WikiData/WD~school_of_thought,1387659|WD~school_of_thought,1387659]]'
+- '[[_Standards/WikiData/WD~electronic_design,28502983|WD~electronic_design,28502983]]'
+opposite_of: '[[_Standards/WikiData/WD~functional_electronics,4493416|WD~functional_electronics,4493416]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9733548,9733548|WD~Q9733548,9733548]]'
 described_at_URL:
 - https://phys.libretexts.org/Courses/University_of_California_Davis/UCD%3A_Physics_7B_-_General_Physics/5%3A_Flow_Transport_and_Exponential_-_working_copy/5.06%3A_Circuit_Problem_Solving
 - https://stickmanphysics.com/stickman-physics-home/unit-8-current-and-circuits/complex-circuit/

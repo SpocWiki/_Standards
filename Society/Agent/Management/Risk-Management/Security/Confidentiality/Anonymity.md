@@ -48,18 +48,18 @@ aliases:
 - 익명
 has_id_wikidata: Q308859
 has_goal:
-- '[[_Standards/WikiData/WD~privacy,188728]]'
-- '[[_Standards/WikiData/WD~safety,10566551]]'
+- '[[_Standards/WikiData/WD~privacy,188728|WD~privacy,188728]]'
+- '[[_Standards/WikiData/WD~safety,10566551|WD~safety,10566551]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~privacy,188728]]'
-- '[[_Standards/WikiData/WD~confidentiality,2476929]]'
-- '[[_Standards/WikiData/WD~pseudonymity,7255188]]'
-characteristic_of: '[[_Standards/WikiData/WD~person,215627]]'
-has_characteristic: '[[_Standards/WikiData/WD~secrecy,1503443]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Anonymity,8254929]]'
-opposite_of: '[[_Standards/WikiData/WD~autonym,12526769]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~relative_quality,100195948]]'
+- '[[_Standards/WikiData/WD~privacy,188728|WD~privacy,188728]]'
+- '[[_Standards/WikiData/WD~confidentiality,2476929|WD~confidentiality,2476929]]'
+- '[[_Standards/WikiData/WD~pseudonymity,7255188|WD~pseudonymity,7255188]]'
+characteristic_of: '[[_Standards/WikiData/WD~person,215627|WD~person,215627]]'
+has_characteristic: '[[_Standards/WikiData/WD~secrecy,1503443|WD~secrecy,1503443]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Anonymity,8254929|WD~Category_Anonymity,8254929]]'
+opposite_of: '[[_Standards/WikiData/WD~autonym,12526769|WD~autonym,12526769]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~relative_quality,100195948|WD~relative_quality,100195948]]'
 OmegaWiki_Defined_Meaning: 431058
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20at%20Scientology%20in%20Los%20Angeles.jpg
 GitHub_topic: anonymity
@@ -136,7 +136,7 @@ dv_has_:
 # [[Anonymity]] 
 
 #is_/better_than :: [[Pseudonymity]] 
-#is_/same_as :: [[_Standards/WikiData/WD~anonymity,308859]]
+#is_/same_as :: [[_Standards/WikiData/WD~anonymity,308859|WD~anonymity,308859]]
 
 ## #has_/text_of_/abstract 
 

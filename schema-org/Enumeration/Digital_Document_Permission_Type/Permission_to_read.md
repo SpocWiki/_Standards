@@ -28,9 +28,9 @@ tags:
 title: is_a_read_permission Class
 type: Type
 dv_has_:
-  parent_class: "[[../DigitalDocumentPermissionType]]"
+  parent_class: "[[../DigitalDocumentPermissionType|DigitalDocumentPermissionType]]"
 dv_is_:
-  enum_of: "[[../DigitalDocumentPermissionType]]"
+  enum_of: "[[../DigitalDocumentPermissionType|DigitalDocumentPermissionType]]"
   same_as:
     - "[[Permission_to_read|Permission_to_Read]]"
     - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.public|Read_Permission.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.personal|Read_Permission.personal]]"
     - "[[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.secret|Read_Permission.secret]]"
     - "[[Permission_to_Read]]"
-dv_has_parent_class: "[[../DigitalDocumentPermissionType]]"
-dv_is_enum_of: "[[../DigitalDocumentPermissionType]]"
+dv_has_parent_class: "[[../DigitalDocumentPermissionType|DigitalDocumentPermissionType]]"
+dv_is_enum_of: "[[../DigitalDocumentPermissionType|DigitalDocumentPermissionType]]"
 dv_is_same_as:
   - "[[Permission_to_Read]]"
   - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.public|Read_Permission.public]]"

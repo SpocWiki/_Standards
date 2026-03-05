@@ -127,21 +127,21 @@ aliases:
 - 연필
 has_id_wikidata: Q14674
 has_use:
-- '[[_Standards/WikiData/WD~drawing,93184]]'
-- '[[_Standards/WikiData/WD~writing,37260]]'
+- '[[_Standards/WikiData/WD~drawing,93184|WD~drawing,93184]]'
+- '[[_Standards/WikiData/WD~writing,37260|WD~writing,37260]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~writing_implement,121916]]'
-- '[[_Standards/WikiData/WD~drawing_instrument,26972858]]'
+- '[[_Standards/WikiData/WD~writing_implement,121916|WD~writing_implement,121916]]'
+- '[[_Standards/WikiData/WD~drawing_instrument,26972858|WD~drawing_instrument,26972858]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Jacques_Conté,907411]]'
-different_from: '[[_Standards/WikiData/WD~Q9209264,9209264]]'
-instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Jacques_Conté,907411|WD~Nicolas_Jacques_Conté,907411]]'
+different_from: '[[_Standards/WikiData/WD~Q9209264,9209264|WD~Q9209264,9209264]]'
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~wood,287]]'
-- '[[_Standards/WikiData/WD~graphite,5309]]'
+- '[[_Standards/WikiData/WD~wood,287|WD~wood,287]]'
+- '[[_Standards/WikiData/WD~graphite,5309|WD~graphite,5309]]'
 Nomenclature_for_Museum_Cataloging: 11584
 OmegaWiki_Defined_Meaning: 5835
 GS1_GPC_code: 10001234

@@ -123,23 +123,23 @@ taxon_common_name:
 - Arbre à pain
 - "'ulu"
 external_data_available_at_URL: https://www.gbif.org/dataset/31dc1507-a6e1-4233-a8df-c7a78596a7e4
-parent_taxon: '[[_Standards/WikiData/WD~Artocarpus,161085]]'
-has_use: '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+parent_taxon: '[[_Standards/WikiData/WD~Artocarpus,161085|WD~Artocarpus,161085]]'
+has_use: '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~breadfruit,5869893]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Veritab,12898088]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Artocarpus_communis,24852921]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~breadfruit,5869893|WD~breadfruit,5869893]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Veritab,12898088|WD~Veritab,12898088]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Artocarpus_communis,24852921|WD~Artocarpus_communis,24852921]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Gabon,1000]]'
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- '[[_Standards/WikiData/WD~Fujian,41705]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Gabon,1000|WD~Gabon,1000]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~Fujian,41705|WD~Fujian,41705]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 184181
 Commons_category: Artocarpus altilis
 taxon_name: Artocarpus altilis

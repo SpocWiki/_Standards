@@ -26,7 +26,7 @@ tags:
 title: is_a_boarding_policy_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Boarding_Policy_Type|Boarding_Policy_Type]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Boarding_Policy_Type.personal|Boarding_Policy_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Boarding_Policy_Type.secret|Boarding_Policy_Type.secret]]"
     - "[[Boarding_Policy_Type]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Boarding_Policy_Type]]"
   - "[[/_public/schema-org/Enumeration/Boarding_Policy_Type.public|Boarding_Policy_Type.public]]"

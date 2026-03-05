@@ -35,7 +35,7 @@ dv_is_:
     - "[[Flight]]"
 dv_has_:
   parent_class:
-    - "[[../Trip]]"
+    - "[[../Trip|Trip]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../Relation/has/has_aircraft|has_aircraft]]"
@@ -72,7 +72,7 @@ dv_has_:
     - "[[../../Property/has_url_for/has_url|has_url]]"
     - "[[web_checkin_time|web_checkin_time]]"
 dv_has_parent_class:
-  - "[[../Trip]]"
+  - "[[../Trip|Trip]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../Relation/has/has_aircraft|has_aircraft]]"

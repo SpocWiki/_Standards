@@ -30,9 +30,9 @@ aliases:
 - 봉고
 has_id_wikidata: Q243998
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+- '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396|WD~type_of_musical_instrument,110295396]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~musical_instrument,34379]]'
+- '[[_Standards/WikiData/WD~musical_instrument,34379|WD~musical_instrument,34379]]'
 Nomenclature_for_Museum_Cataloging: 10742
 OmegaWiki_Defined_Meaning: 404017
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bongo.jpg

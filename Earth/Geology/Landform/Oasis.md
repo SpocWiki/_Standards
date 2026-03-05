@@ -65,17 +65,17 @@ aliases:
 - 绿洲
 - 오아시스
 has_id_wikidata: Q43742
-different_from: '[[_Standards/WikiData/WD~Oasis,227537]]'
+different_from: '[[_Standards/WikiData/WD~Oasis,227537|WD~Oasis,227537]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Q134547386,134547386]]'
-subclass_of: '[[_Standards/WikiData/WD~physico_geographical_object,20719696]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Q134547386,134547386|WD~Q134547386,134547386]]'
+subclass_of: '[[_Standards/WikiData/WD~physico_geographical_object,20719696|WD~physico_geographical_object,20719696]]'
 Commons_gallery: Oasis
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Oase.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Libyen-oase1.jpg
@@ -86,7 +86,7 @@ GeoNames_feature_code: L.OAS
 Commons_category: Oases
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Oasis,43742]]'
+  - '[[../../../WikiData/WD~Oasis,43742|WD~Oasis,43742]]'
   - '[[/_Standards/Earth/Geology/Landform/Oasis|Oasis]]'
   - '[[/_public/Earth/Geology/Landform/Oasis.public|Oasis.public]]'
   - '[[/_internal/Earth/Geology/Landform/Oasis.internal|Oasis.internal]]'
@@ -95,7 +95,7 @@ dv_is_:
   - '[[/_personal/Earth/Geology/Landform/Oasis.personal|Oasis.personal]]'
   - '[[/_secret/Earth/Geology/Landform/Oasis.secret|Oasis.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Oasis,43742]]'
+- '[[../../../WikiData/WD~Oasis,43742|WD~Oasis,43742]]'
 - '[[/_Standards/Earth/Geology/Landform/Oasis|Oasis]]'
 - '[[/_public/Earth/Geology/Landform/Oasis.public|Oasis.public]]'
 - '[[/_internal/Earth/Geology/Landform/Oasis.internal|Oasis.internal]]'

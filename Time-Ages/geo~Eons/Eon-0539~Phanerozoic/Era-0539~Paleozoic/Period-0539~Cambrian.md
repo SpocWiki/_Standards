@@ -64,17 +64,17 @@ aliases:
 - 寒武纪
 - 캄브리아기
 has_id_wikidata: Q79064
-named_by: '[[_Standards/WikiData/WD~Adam_Sedgwick,350891]]'
+named_by: '[[_Standards/WikiData/WD~Adam_Sedgwick,350891|WD~Adam_Sedgwick,350891]]'
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~Fortune_Head,22494755]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~Fortune_Head,22494755|WD~Fortune_Head,22494755]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -486850000-06
-named_after: '[[_Standards/WikiData/WD~Cambria,27814]]'
+named_after: '[[_Standards/WikiData/WD~Cambria,27814|WD~Cambria,27814]]'
 Commons_category: Cambrian
 start_time: -538800000-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20510%20Ma.png

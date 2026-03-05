@@ -68,8 +68,8 @@ aliases:
 - 超自然現象
 - 초자연적 현상
 has_id_wikidata: Q80837
-subclass_of: '[[_Standards/WikiData/WD~paranormal,332102]]'
-studied_by: '[[_Standards/WikiData/WD~supernaturalism,21071527]]'
+subclass_of: '[[_Standards/WikiData/WD~paranormal,332102|WD~paranormal,332102]]'
+studied_by: '[[_Standards/WikiData/WD~supernaturalism,21071527|WD~supernaturalism,21071527]]'
 Commons_category: Supernatural
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Mathieu%20Kappler-surnaturel.wav
 Provenio_UUID: 41d2f2cf-4dac-4a15-b1c0-615391b0d846

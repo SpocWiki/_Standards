@@ -37,7 +37,7 @@ A part of a successively published publication such as a periodical or publicati
 
 See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliographic_2.html">blog post</a>.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ ComicIssue ]  
 

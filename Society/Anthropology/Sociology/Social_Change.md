@@ -66,15 +66,15 @@ aliases:
 - 社會變遷
 - 사회 변천
 has_id_wikidata: Q1510761
-has_effect: '[[_Standards/WikiData/WD~social_structure,211606]]'
+has_effect: '[[_Standards/WikiData/WD~social_structure,211606|WD~social_structure,211606]]'
 studied_by:
-- '[[_Standards/WikiData/WD~sociocultural_evolution,1050187]]'
-- '[[_Standards/WikiData/WD~cultural_evolution,12031891]]'
+- '[[_Standards/WikiData/WD~sociocultural_evolution,1050187|WD~sociocultural_evolution,1050187]]'
+- '[[_Standards/WikiData/WD~cultural_evolution,12031891|WD~cultural_evolution,12031891]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_process,2305441]]'
-- '[[_Standards/WikiData/WD~culture_change,5193493]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
-part_of: '[[_Standards/WikiData/WD~political_economy_and_social_change,113115885]]'
+- '[[_Standards/WikiData/WD~social_process,2305441|WD~social_process,2305441]]'
+- '[[_Standards/WikiData/WD~culture_change,5193493|WD~culture_change,5193493]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
+part_of: '[[_Standards/WikiData/WD~political_economy_and_social_change,113115885|WD~political_economy_and_social_change,113115885]]'
 Library_of_Congress_Classification: HM831-HM901
 U_S_National_Archives_Identifier: 10643450
 Basisklassifikation: 71.41

@@ -11,8 +11,8 @@ aliases:
 - vakiotanssi
 - стандартный танец
 has_id_wikidata: Q11900060
-subclass_of: '[[_Standards/WikiData/WD~ballroom_dance,1085001]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
+subclass_of: '[[_Standards/WikiData/WD~ballroom_dance,1085001|WD~ballroom_dance,1085001]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104|WD~type_of_dance,107357104]]'
 dv_has_:
   name_:
     cs: standardní tanec

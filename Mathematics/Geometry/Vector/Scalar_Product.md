@@ -75,13 +75,13 @@ aliases:
 - 스칼라곱
 has_id_wikidata: Q181365
 subclass_of:
-- '[[_Standards/WikiData/WD~binary_operation,164307]]'
-- '[[_Standards/WikiData/WD~inner_product,23924662]]'
-- '[[_Standards/WikiData/WD~vector_multiplication,56457918]]'
-different_from: '[[_Standards/WikiData/WD~inner_product_space,214159]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~binary_operation,164307|WD~binary_operation,164307]]'
+- '[[_Standards/WikiData/WD~inner_product,23924662|WD~inner_product,23924662]]'
+- '[[_Standards/WikiData/WD~vector_multiplication,56457918|WD~vector_multiplication,56457918]]'
+different_from: '[[_Standards/WikiData/WD~inner_product_space,214159|WD~inner_product_space,214159]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 defining_formula: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D482</mi></mrow><mo stretchy=\"false\">&#x22C5;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D483</mi></mrow><mo stretchy=\"false\">=</mo><munder><mo stretchy=\"false\">&#x2211;</mo><mrow data-mjx-texclass=\"ORD\"><mi>i</mi></mrow></munder><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>i</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>i</mi></mrow></msub></mstyle></mrow></math>"
-described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D482</mi></mrow><mo stretchy=\"false\">&#x22C5;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D483</mi></mrow></mstyle></mrow></math>"

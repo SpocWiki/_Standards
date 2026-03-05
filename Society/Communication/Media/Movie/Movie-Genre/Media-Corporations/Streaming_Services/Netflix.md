@@ -113,17 +113,17 @@ aliases:
 
 ## Netflix-Originals 
 
-### [[Netflix/Arcane(TV_series)]] 
+### [[Netflix/Arcane(TV_series)|Arcane(TV_series)]] 
 
 ### [[RRR]] 
 
-### [[Netflix/Black_Mirror]] 
+### [[Netflix/Black_Mirror|Black_Mirror]] 
 
-### [[Netflix/Sandman(TV_series)]] 
+### [[Netflix/Sandman(TV_series)|Sandman(TV_series)]] 
 
-### [[Netflix/Stranger_Things]] 
+### [[Netflix/Stranger_Things|Stranger_Things]] 
 
-### [[Netflix/Wednesday,Netflix_series]] 
+### [[Netflix/Wednesday,Netflix_series|Wednesday,Netflix_series]] 
 
 
 ## Confidential Links & Embeds: 

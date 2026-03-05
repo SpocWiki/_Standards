@@ -32,18 +32,18 @@ aliases:
 - 施拉格音樂
 - 슐라거 음악
 has_id_wikidata: Q959583
-instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~music_of_Europe,3328676]]'
-- '[[_Standards/WikiData/WD~pop_music,37073]]'
+- '[[_Standards/WikiData/WD~music_of_Europe,3328676|WD~music_of_Europe,3328676]]'
+- '[[_Standards/WikiData/WD~pop_music,37073|WD~pop_music,37073]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~schlager_singer,73802176]]'
-- '[[_Standards/WikiData/WD~schlager_musician,105652965]]'
+- '[[_Standards/WikiData/WD~schlager_singer,73802176|WD~schlager_singer,73802176]]'
+- '[[_Standards/WikiData/WD~schlager_musician,105652965|WD~schlager_musician,105652965]]'
 inception: 1874-01-01T00:00:00Z
 country_of_origin:
-- '[[_Standards/WikiData/WD~Scandinavia,21195]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 Commons_category: Schlager
 native_label: Schlager
 date_popularized: 1920-01-01T00:00:00Z

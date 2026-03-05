@@ -280,76 +280,76 @@ web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
 Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
 API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
 founded_by:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 author:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 readable_file_format:
-  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
-  - "[[_Standards/WikiData/WD~WebM,309440]]"
-  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
-  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
-  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
-  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
-  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
-  - "[[_Standards/WikiData/WD~FLV,27967488]]"
-  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
-  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054|WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440|WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316|WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350|WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098|WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097|WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063|WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488|WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470|WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471|WD~MPEG_2_program_stream,28018471]]"
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
-  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
-  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+  - "[[_Standards/WikiData/WD~streaming_media,220499|WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534|WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282|WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737|WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379|WD~YouTube_Shorts,99438379]]"
 different_from:
-  - "[[_Standards/WikiData/WD~YT,251969]]"
-  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~YT,251969|WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148|WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
 industry:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700|WD~Internet_industry,56611700]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~online_community,6576792]]"
-  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
-  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
-  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282|WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293|WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350|WD~user_generated_content_platform,122759350]]"
 location:
-  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-  - "[[_Standards/WikiData/WD~California,99]]"
-headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
-legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+  - "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99|WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920|WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718|WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307|WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134|WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645|WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]"
 official_app:
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
-copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137|WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534|WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508|WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891|WD~Q110087891,110087891]]"
 owned_by:
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
-  - "[[_Standards/WikiData/WD~Google,95]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95|WD~Google,95]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Python,28865]]"
-  - "[[_Standards/WikiData/WD~Go,37227]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Python,28865|WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227|WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 Alexa_rank: 2
 number_of_viewers_listeners:
   - 1350000000
@@ -359,7 +359,7 @@ number_of_viewers_listeners:
   - 1780000000
   - 1860000000
 total_revenue: 31500000000
-platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+platform: "[[_Standards/WikiData/WD~Wii_U,56942|WD~Wii_U,56942]]"
 press_information_URL: https://blog.youtube/press/
 official_website: https://www.youtube.com/
 contact_page_URL: https://www.youtube.com/t/contact_us
@@ -592,76 +592,76 @@ web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
 Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
 API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
 founded_by:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 author:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 readable_file_format:
-  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
-  - "[[_Standards/WikiData/WD~WebM,309440]]"
-  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
-  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
-  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
-  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
-  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
-  - "[[_Standards/WikiData/WD~FLV,27967488]]"
-  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
-  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054|WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440|WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316|WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350|WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098|WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097|WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063|WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488|WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470|WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471|WD~MPEG_2_program_stream,28018471]]"
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
-  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
-  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+  - "[[_Standards/WikiData/WD~streaming_media,220499|WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534|WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282|WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737|WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379|WD~YouTube_Shorts,99438379]]"
 different_from:
-  - "[[_Standards/WikiData/WD~YT,251969]]"
-  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~YT,251969|WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148|WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
 industry:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700|WD~Internet_industry,56611700]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~online_community,6576792]]"
-  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
-  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
-  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282|WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293|WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350|WD~user_generated_content_platform,122759350]]"
 location:
-  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-  - "[[_Standards/WikiData/WD~California,99]]"
-headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
-legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+  - "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99|WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920|WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718|WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307|WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134|WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645|WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]"
 official_app:
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
-copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137|WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534|WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508|WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891|WD~Q110087891,110087891]]"
 owned_by:
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
-  - "[[_Standards/WikiData/WD~Google,95]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95|WD~Google,95]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Python,28865]]"
-  - "[[_Standards/WikiData/WD~Go,37227]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Python,28865|WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227|WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 Alexa_rank: 2
 number_of_viewers_listeners:
   - 1350000000
@@ -671,7 +671,7 @@ number_of_viewers_listeners:
   - 1780000000
   - 1860000000
 total_revenue: 31500000000
-platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+platform: "[[_Standards/WikiData/WD~Wii_U,56942|WD~Wii_U,56942]]"
 press_information_URL: https://blog.youtube/press/
 official_website: https://www.youtube.com/
 contact_page_URL: https://www.youtube.com/t/contact_us
@@ -904,76 +904,76 @@ web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
 Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
 API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
 founded_by:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 author:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 readable_file_format:
-  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
-  - "[[_Standards/WikiData/WD~WebM,309440]]"
-  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
-  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
-  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
-  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
-  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
-  - "[[_Standards/WikiData/WD~FLV,27967488]]"
-  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
-  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054|WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440|WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316|WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350|WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098|WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097|WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063|WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488|WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470|WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471|WD~MPEG_2_program_stream,28018471]]"
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
-  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
-  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+  - "[[_Standards/WikiData/WD~streaming_media,220499|WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534|WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282|WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737|WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379|WD~YouTube_Shorts,99438379]]"
 different_from:
-  - "[[_Standards/WikiData/WD~YT,251969]]"
-  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~YT,251969|WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148|WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
 industry:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700|WD~Internet_industry,56611700]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~online_community,6576792]]"
-  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
-  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
-  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282|WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293|WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350|WD~user_generated_content_platform,122759350]]"
 location:
-  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-  - "[[_Standards/WikiData/WD~California,99]]"
-headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
-legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+  - "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99|WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920|WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718|WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307|WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134|WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645|WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]"
 official_app:
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
-copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137|WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534|WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508|WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891|WD~Q110087891,110087891]]"
 owned_by:
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
-  - "[[_Standards/WikiData/WD~Google,95]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95|WD~Google,95]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Python,28865]]"
-  - "[[_Standards/WikiData/WD~Go,37227]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Python,28865|WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227|WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 Alexa_rank: 2
 number_of_viewers_listeners:
   - 1350000000
@@ -983,7 +983,7 @@ number_of_viewers_listeners:
   - 1780000000
   - 1860000000
 total_revenue: 31500000000
-platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+platform: "[[_Standards/WikiData/WD~Wii_U,56942|WD~Wii_U,56942]]"
 press_information_URL: https://blog.youtube/press/
 official_website: https://www.youtube.com/
 contact_page_URL: https://www.youtube.com/t/contact_us
@@ -1216,76 +1216,76 @@ web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
 Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
 API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
 founded_by:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 author:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 readable_file_format:
-  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
-  - "[[_Standards/WikiData/WD~WebM,309440]]"
-  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
-  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
-  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
-  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
-  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
-  - "[[_Standards/WikiData/WD~FLV,27967488]]"
-  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
-  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054|WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440|WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316|WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350|WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098|WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097|WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063|WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488|WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470|WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471|WD~MPEG_2_program_stream,28018471]]"
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
-  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
-  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+  - "[[_Standards/WikiData/WD~streaming_media,220499|WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534|WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282|WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737|WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379|WD~YouTube_Shorts,99438379]]"
 different_from:
-  - "[[_Standards/WikiData/WD~YT,251969]]"
-  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~YT,251969|WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148|WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
 industry:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700|WD~Internet_industry,56611700]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~online_community,6576792]]"
-  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
-  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
-  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282|WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293|WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350|WD~user_generated_content_platform,122759350]]"
 location:
-  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-  - "[[_Standards/WikiData/WD~California,99]]"
-headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
-legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+  - "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99|WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920|WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718|WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307|WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134|WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645|WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]"
 official_app:
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
-copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137|WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534|WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508|WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891|WD~Q110087891,110087891]]"
 owned_by:
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
-  - "[[_Standards/WikiData/WD~Google,95]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95|WD~Google,95]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Python,28865]]"
-  - "[[_Standards/WikiData/WD~Go,37227]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Python,28865|WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227|WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 Alexa_rank: 2
 number_of_viewers_listeners:
   - 1350000000
@@ -1295,7 +1295,7 @@ number_of_viewers_listeners:
   - 1780000000
   - 1860000000
 total_revenue: 31500000000
-platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+platform: "[[_Standards/WikiData/WD~Wii_U,56942|WD~Wii_U,56942]]"
 press_information_URL: https://blog.youtube/press/
 official_website: https://www.youtube.com/
 contact_page_URL: https://www.youtube.com/t/contact_us
@@ -1528,76 +1528,76 @@ web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
 Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
 API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
 founded_by:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 author:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 readable_file_format:
-  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
-  - "[[_Standards/WikiData/WD~WebM,309440]]"
-  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
-  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
-  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
-  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
-  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
-  - "[[_Standards/WikiData/WD~FLV,27967488]]"
-  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
-  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054|WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440|WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316|WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350|WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098|WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097|WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063|WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488|WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470|WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471|WD~MPEG_2_program_stream,28018471]]"
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
-  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
-  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+  - "[[_Standards/WikiData/WD~streaming_media,220499|WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534|WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282|WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737|WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379|WD~YouTube_Shorts,99438379]]"
 different_from:
-  - "[[_Standards/WikiData/WD~YT,251969]]"
-  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~YT,251969|WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148|WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
 industry:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700|WD~Internet_industry,56611700]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~online_community,6576792]]"
-  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
-  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
-  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282|WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293|WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350|WD~user_generated_content_platform,122759350]]"
 location:
-  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-  - "[[_Standards/WikiData/WD~California,99]]"
-headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
-legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+  - "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99|WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920|WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718|WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307|WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134|WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645|WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]"
 official_app:
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
-copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137|WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534|WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508|WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891|WD~Q110087891,110087891]]"
 owned_by:
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
-  - "[[_Standards/WikiData/WD~Google,95]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95|WD~Google,95]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Python,28865]]"
-  - "[[_Standards/WikiData/WD~Go,37227]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Python,28865|WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227|WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 Alexa_rank: 2
 number_of_viewers_listeners:
   - 1350000000
@@ -1607,7 +1607,7 @@ number_of_viewers_listeners:
   - 1780000000
   - 1860000000
 total_revenue: 31500000000
-platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+platform: "[[_Standards/WikiData/WD~Wii_U,56942|WD~Wii_U,56942]]"
 press_information_URL: https://blog.youtube/press/
 official_website: https://www.youtube.com/
 contact_page_URL: https://www.youtube.com/t/contact_us
@@ -1840,76 +1840,76 @@ web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
 Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
 API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
 founded_by:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 author:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 readable_file_format:
-  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
-  - "[[_Standards/WikiData/WD~WebM,309440]]"
-  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
-  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
-  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
-  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
-  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
-  - "[[_Standards/WikiData/WD~FLV,27967488]]"
-  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
-  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054|WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440|WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316|WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350|WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098|WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097|WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063|WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488|WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470|WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471|WD~MPEG_2_program_stream,28018471]]"
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
-  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
-  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+  - "[[_Standards/WikiData/WD~streaming_media,220499|WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534|WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282|WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737|WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379|WD~YouTube_Shorts,99438379]]"
 different_from:
-  - "[[_Standards/WikiData/WD~YT,251969]]"
-  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~YT,251969|WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148|WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
 industry:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700|WD~Internet_industry,56611700]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~online_community,6576792]]"
-  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
-  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
-  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282|WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293|WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350|WD~user_generated_content_platform,122759350]]"
 location:
-  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-  - "[[_Standards/WikiData/WD~California,99]]"
-headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
-legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+  - "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99|WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920|WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718|WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307|WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134|WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645|WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]"
 official_app:
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
-copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137|WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534|WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508|WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891|WD~Q110087891,110087891]]"
 owned_by:
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
-  - "[[_Standards/WikiData/WD~Google,95]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95|WD~Google,95]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Python,28865]]"
-  - "[[_Standards/WikiData/WD~Go,37227]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Python,28865|WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227|WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 Alexa_rank: 2
 number_of_viewers_listeners:
   - 1350000000
@@ -1919,7 +1919,7 @@ number_of_viewers_listeners:
   - 1780000000
   - 1860000000
 total_revenue: 31500000000
-platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+platform: "[[_Standards/WikiData/WD~Wii_U,56942|WD~Wii_U,56942]]"
 press_information_URL: https://blog.youtube/press/
 official_website: https://www.youtube.com/
 contact_page_URL: https://www.youtube.com/t/contact_us
@@ -2152,76 +2152,76 @@ web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
 Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
 API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
 founded_by:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 author:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 readable_file_format:
-  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
-  - "[[_Standards/WikiData/WD~WebM,309440]]"
-  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
-  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
-  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
-  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
-  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
-  - "[[_Standards/WikiData/WD~FLV,27967488]]"
-  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
-  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054|WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440|WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316|WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350|WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098|WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097|WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063|WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488|WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470|WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471|WD~MPEG_2_program_stream,28018471]]"
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
-  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
-  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+  - "[[_Standards/WikiData/WD~streaming_media,220499|WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534|WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282|WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737|WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379|WD~YouTube_Shorts,99438379]]"
 different_from:
-  - "[[_Standards/WikiData/WD~YT,251969]]"
-  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~YT,251969|WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148|WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
 industry:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700|WD~Internet_industry,56611700]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~online_community,6576792]]"
-  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
-  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
-  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282|WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293|WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350|WD~user_generated_content_platform,122759350]]"
 location:
-  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-  - "[[_Standards/WikiData/WD~California,99]]"
-headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
-legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+  - "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99|WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920|WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718|WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307|WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134|WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645|WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]"
 official_app:
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
-copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137|WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534|WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508|WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891|WD~Q110087891,110087891]]"
 owned_by:
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
-  - "[[_Standards/WikiData/WD~Google,95]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95|WD~Google,95]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Python,28865]]"
-  - "[[_Standards/WikiData/WD~Go,37227]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Python,28865|WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227|WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 Alexa_rank: 2
 number_of_viewers_listeners:
   - 1350000000
@@ -2231,7 +2231,7 @@ number_of_viewers_listeners:
   - 1780000000
   - 1860000000
 total_revenue: 31500000000
-platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+platform: "[[_Standards/WikiData/WD~Wii_U,56942|WD~Wii_U,56942]]"
 press_information_URL: https://blog.youtube/press/
 official_website: https://www.youtube.com/
 contact_page_URL: https://www.youtube.com/t/contact_us
@@ -2464,76 +2464,76 @@ web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
 Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
 API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
 founded_by:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 author:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 readable_file_format:
-  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
-  - "[[_Standards/WikiData/WD~WebM,309440]]"
-  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
-  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
-  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
-  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
-  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
-  - "[[_Standards/WikiData/WD~FLV,27967488]]"
-  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
-  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054|WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440|WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316|WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350|WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098|WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097|WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063|WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488|WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470|WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471|WD~MPEG_2_program_stream,28018471]]"
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
-  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
-  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+  - "[[_Standards/WikiData/WD~streaming_media,220499|WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534|WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282|WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737|WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379|WD~YouTube_Shorts,99438379]]"
 different_from:
-  - "[[_Standards/WikiData/WD~YT,251969]]"
-  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~YT,251969|WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148|WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
 industry:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700|WD~Internet_industry,56611700]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~online_community,6576792]]"
-  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
-  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
-  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282|WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293|WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350|WD~user_generated_content_platform,122759350]]"
 location:
-  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-  - "[[_Standards/WikiData/WD~California,99]]"
-headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
-legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+  - "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99|WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920|WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718|WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307|WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134|WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645|WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]"
 official_app:
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
-copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137|WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534|WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508|WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891|WD~Q110087891,110087891]]"
 owned_by:
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
-  - "[[_Standards/WikiData/WD~Google,95]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95|WD~Google,95]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Python,28865]]"
-  - "[[_Standards/WikiData/WD~Go,37227]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Python,28865|WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227|WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 Alexa_rank: 2
 number_of_viewers_listeners:
   - 1350000000
@@ -2543,7 +2543,7 @@ number_of_viewers_listeners:
   - 1780000000
   - 1860000000
 total_revenue: 31500000000
-platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+platform: "[[_Standards/WikiData/WD~Wii_U,56942|WD~Wii_U,56942]]"
 press_information_URL: https://blog.youtube/press/
 official_website: https://www.youtube.com/
 contact_page_URL: https://www.youtube.com/t/contact_us
@@ -2776,76 +2776,76 @@ web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
 Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
 API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
 founded_by:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 author:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 readable_file_format:
-  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
-  - "[[_Standards/WikiData/WD~WebM,309440]]"
-  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
-  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
-  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
-  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
-  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
-  - "[[_Standards/WikiData/WD~FLV,27967488]]"
-  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
-  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054|WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440|WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316|WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350|WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098|WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097|WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063|WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488|WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470|WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471|WD~MPEG_2_program_stream,28018471]]"
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
-  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
-  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+  - "[[_Standards/WikiData/WD~streaming_media,220499|WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534|WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282|WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737|WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379|WD~YouTube_Shorts,99438379]]"
 different_from:
-  - "[[_Standards/WikiData/WD~YT,251969]]"
-  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~YT,251969|WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148|WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
 industry:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700|WD~Internet_industry,56611700]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~online_community,6576792]]"
-  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
-  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
-  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282|WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293|WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350|WD~user_generated_content_platform,122759350]]"
 location:
-  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-  - "[[_Standards/WikiData/WD~California,99]]"
-headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
-legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+  - "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99|WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920|WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718|WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307|WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134|WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645|WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]"
 official_app:
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
-copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137|WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534|WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508|WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891|WD~Q110087891,110087891]]"
 owned_by:
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
-  - "[[_Standards/WikiData/WD~Google,95]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95|WD~Google,95]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Python,28865]]"
-  - "[[_Standards/WikiData/WD~Go,37227]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Python,28865|WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227|WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 Alexa_rank: 2
 number_of_viewers_listeners:
   - 1350000000
@@ -2855,7 +2855,7 @@ number_of_viewers_listeners:
   - 1780000000
   - 1860000000
 total_revenue: 31500000000
-platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+platform: "[[_Standards/WikiData/WD~Wii_U,56942|WD~Wii_U,56942]]"
 press_information_URL: https://blog.youtube/press/
 official_website: https://www.youtube.com/
 contact_page_URL: https://www.youtube.com/t/contact_us
@@ -3088,76 +3088,76 @@ web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
 Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
 API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
 founded_by:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 author:
-  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
-  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
-  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]"
 readable_file_format:
-  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
-  - "[[_Standards/WikiData/WD~WebM,309440]]"
-  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
-  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
-  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
-  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
-  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
-  - "[[_Standards/WikiData/WD~FLV,27967488]]"
-  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
-  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054|WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440|WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316|WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350|WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098|WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097|WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063|WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488|WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470|WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471|WD~MPEG_2_program_stream,28018471]]"
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
-  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
-  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
-  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+  - "[[_Standards/WikiData/WD~streaming_media,220499|WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534|WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282|WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737|WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379|WD~YouTube_Shorts,99438379]]"
 different_from:
-  - "[[_Standards/WikiData/WD~YT,251969]]"
-  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
-  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~YT,251969|WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148|WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
 industry:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700|WD~Internet_industry,56611700]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
-  - "[[_Standards/WikiData/WD~online_community,6576792]]"
-  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
-  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
-  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282|WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293|WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350|WD~user_generated_content_platform,122759350]]"
 location:
-  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-  - "[[_Standards/WikiData/WD~California,99]]"
-headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
-copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
-legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+  - "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99|WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920|WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718|WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307|WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134|WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645|WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]"
 official_app:
-  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
-  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
-copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137|WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534|WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508|WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891|WD~Q110087891,110087891]]"
 owned_by:
-  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
-  - "[[_Standards/WikiData/WD~Google,95]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95|WD~Google,95]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Python,28865]]"
-  - "[[_Standards/WikiData/WD~Go,37227]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Python,28865|WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227|WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 Alexa_rank: 2
 number_of_viewers_listeners:
   - 1350000000
@@ -3167,7 +3167,7 @@ number_of_viewers_listeners:
   - 1780000000
   - 1860000000
 total_revenue: 31500000000
-platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+platform: "[[_Standards/WikiData/WD~Wii_U,56942|WD~Wii_U,56942]]"
 press_information_URL: https://blog.youtube/press/
 official_website: https://www.youtube.com/
 contact_page_URL: https://www.youtube.com/t/contact_us
@@ -3386,76 +3386,76 @@ web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
 Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
 API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
 founded_by:
-- '[[_Standards/WikiData/WD~Jawed_Karim,76694]]'
-- '[[_Standards/WikiData/WD~Chad_Hurley,370299]]'
-- '[[_Standards/WikiData/WD~Steve_Chen,379396]]'
+- '[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]'
+- '[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]'
+- '[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]'
 author:
-- '[[_Standards/WikiData/WD~Jawed_Karim,76694]]'
-- '[[_Standards/WikiData/WD~Chad_Hurley,370299]]'
-- '[[_Standards/WikiData/WD~Steve_Chen,379396]]'
+- '[[_Standards/WikiData/WD~Jawed_Karim,76694|WD~Jawed_Karim,76694]]'
+- '[[_Standards/WikiData/WD~Chad_Hurley,370299|WD~Chad_Hurley,370299]]'
+- '[[_Standards/WikiData/WD~Steve_Chen,379396|WD~Steve_Chen,379396]]'
 readable_file_format:
-- '[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]'
-- '[[_Standards/WikiData/WD~WebM,309440]]'
-- '[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]'
-- '[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]'
-- '[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]'
-- '[[_Standards/WikiData/WD~3GPP_file_format,27863097]]'
-- '[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]'
-- '[[_Standards/WikiData/WD~FLV,27967488]]'
-- '[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]'
-- '[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]'
+- '[[_Standards/WikiData/WD~Audio_Video_Interleave,209054|WD~Audio_Video_Interleave,209054]]'
+- '[[_Standards/WikiData/WD~WebM,309440|WD~WebM,309440]]'
+- '[[_Standards/WikiData/WD~MPEG_4_Part_14,336316|WD~MPEG_4_Part_14,336316]]'
+- '[[_Standards/WikiData/WD~QuickTime_File_Format,942350|WD~QuickTime_File_Format,942350]]'
+- '[[_Standards/WikiData/WD~3GPP2_file_format,27863098|WD~3GPP2_file_format,27863098]]'
+- '[[_Standards/WikiData/WD~3GPP_file_format,27863097|WD~3GPP_file_format,27863097]]'
+- '[[_Standards/WikiData/WD~Windows_Media_Video,27895063|WD~Windows_Media_Video,27895063]]'
+- '[[_Standards/WikiData/WD~FLV,27967488|WD~FLV,27967488]]'
+- '[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470|WD~MPEG_1_program_stream,28018470]]'
+- '[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471|WD~MPEG_2_program_stream,28018471]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~streaming_media,220499]]'
-- '[[_Standards/WikiData/WD~online_video_platform,559856]]'
-- '[[_Standards/WikiData/WD~YouTube_Premium,18643737]]'
-- '[[_Standards/WikiData/WD~YouTube_Music,28404534]]'
-- '[[_Standards/WikiData/WD~YouTube_Kids,30637282]]'
-- '[[_Standards/WikiData/WD~YouTube_TV,53720737]]'
-- '[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]'
+- '[[_Standards/WikiData/WD~streaming_media,220499|WD~streaming_media,220499]]'
+- '[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]'
+- '[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]'
+- '[[_Standards/WikiData/WD~YouTube_Music,28404534|WD~YouTube_Music,28404534]]'
+- '[[_Standards/WikiData/WD~YouTube_Kids,30637282|WD~YouTube_Kids,30637282]]'
+- '[[_Standards/WikiData/WD~YouTube_TV,53720737|WD~YouTube_TV,53720737]]'
+- '[[_Standards/WikiData/WD~YouTube_Shorts,99438379|WD~YouTube_Shorts,99438379]]'
 different_from:
-- '[[_Standards/WikiData/WD~YT,251969]]'
-- '[[_Standards/WikiData/WD~YouTube,18157148]]'
-- '[[_Standards/WikiData/WD~YouTube_Premium,18643737]]'
-- '[[_Standards/WikiData/WD~YouTube,41697543]]'
-- '[[_Standards/WikiData/WD~YouTube_LLC,112247183]]'
+- '[[_Standards/WikiData/WD~YT,251969|WD~YT,251969]]'
+- '[[_Standards/WikiData/WD~YouTube,18157148|WD~YouTube,18157148]]'
+- '[[_Standards/WikiData/WD~YouTube_Premium,18643737|WD~YouTube_Premium,18643737]]'
+- '[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]'
+- '[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]'
 industry:
-- '[[_Standards/WikiData/WD~online_video_platform,559856]]'
-- '[[_Standards/WikiData/WD~Internet_industry,56611700]]'
+- '[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]'
+- '[[_Standards/WikiData/WD~Internet_industry,56611700|WD~Internet_industry,56611700]]'
 instance_of:
-- '[[_Standards/WikiData/WD~online_video_platform,559856]]'
-- '[[_Standards/WikiData/WD~online_community,6576792]]'
-- '[[_Standards/WikiData/WD~video_streaming_service,59152282]]'
-- '[[_Standards/WikiData/WD~live_streaming_service,102336293]]'
-- '[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]'
+- '[[_Standards/WikiData/WD~online_video_platform,559856|WD~online_video_platform,559856]]'
+- '[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]'
+- '[[_Standards/WikiData/WD~video_streaming_service,59152282|WD~video_streaming_service,59152282]]'
+- '[[_Standards/WikiData/WD~live_streaming_service,102336293|WD~live_streaming_service,102336293]]'
+- '[[_Standards/WikiData/WD~user_generated_content_platform,122759350|WD~user_generated_content_platform,122759350]]'
 location:
-- '[[_Standards/WikiData/WD~San_Bruno,667738]]'
-- '[[_Standards/WikiData/WD~California,99]]'
-headquarters_location: '[[_Standards/WikiData/WD~San_Bruno,667738]]'
-copyright_license: '[[_Standards/WikiData/WD~end_user_license_agreement,725920]]'
-legal_form: '[[_Standards/WikiData/WD~big_business,4906718]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_YouTube,5867307]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]'
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+- '[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]'
+- '[[_Standards/WikiData/WD~California,99|WD~California,99]]'
+headquarters_location: '[[_Standards/WikiData/WD~San_Bruno,667738|WD~San_Bruno,667738]]'
+copyright_license: '[[_Standards/WikiData/WD~end_user_license_agreement,725920|WD~end_user_license_agreement,725920]]'
+legal_form: '[[_Standards/WikiData/WD~big_business,4906718|WD~big_business,4906718]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_YouTube,5867307|WD~history_of_YouTube,5867307]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134|WD~Template_YouTube_navbox,6621134]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-- '[[_Standards/WikiData/WD~Q96472645,96472645]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~YouTube_channel,17558136]]'
-has_part_s_: '[[_Standards/WikiData/WD~YouTube_channel,17558136]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~multiple_languages,20923490]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Q96472645,96472645|WD~Q96472645,96472645]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]'
+has_part_s_: '[[_Standards/WikiData/WD~YouTube_channel,17558136|WD~YouTube_channel,17558136]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]'
 official_app:
-- '[[_Standards/WikiData/WD~YouTube,41697543]]'
-- '[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]'
-copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
-subject_has_role: '[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]'
-copyright_representative: '[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110087891,110087891]]'
+- '[[_Standards/WikiData/WD~YouTube,41697543|WD~YouTube,41697543]]'
+- '[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137|WD~YouTube_for_Android_TV,125755137]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]'
+subject_has_role: '[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534|WD~ISNI_Direct_Data_Contributor,96176534]]'
+copyright_representative: '[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508|WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110087891,110087891|WD~Q110087891,110087891]]'
 owned_by:
-- '[[_Standards/WikiData/WD~YouTube_LLC,112247183]]'
-- '[[_Standards/WikiData/WD~Google,95]]'
+- '[[_Standards/WikiData/WD~YouTube_LLC,112247183|WD~YouTube_LLC,112247183]]'
+- '[[_Standards/WikiData/WD~Google,95|WD~Google,95]]'
 programmed_in:
-- '[[_Standards/WikiData/WD~Python,28865]]'
-- '[[_Standards/WikiData/WD~Go,37227]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Python,28865|WD~Python,28865]]'
+- '[[_Standards/WikiData/WD~Go,37227|WD~Go,37227]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 Alexa_rank: 2
 number_of_viewers_listeners:
 - 1350000000
@@ -3465,7 +3465,7 @@ number_of_viewers_listeners:
 - 1780000000
 - 1860000000
 total_revenue: 31500000000
-platform: '[[_Standards/WikiData/WD~Wii_U,56942]]'
+platform: '[[_Standards/WikiData/WD~Wii_U,56942|WD~Wii_U,56942]]'
 press_information_URL: https://blog.youtube/press/
 official_website: https://www.youtube.com/
 contact_page_URL: https://www.youtube.com/t/contact_us

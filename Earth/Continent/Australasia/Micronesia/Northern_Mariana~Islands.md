@@ -183,9 +183,9 @@ dv_has_name_cn: 北马里亚纳群岛
 dv_has_name_ar: جزر ماريانا الشمالية
 dv_has_name_ru: Северные Марианские острова
 dv_CLDR_display_name: Northern Mariana Islands
-dv_Region_Name: '[[../../Oceania]]'
+dv_Region_Name: '[[../../Oceania|Oceania]]'
 dv_Intermediate_Region_Name: '[[Northern_Mariana~Islands]]'
-dv_Sub-region_Name: '[[../Micronesia]]'
+dv_Sub-region_Name: '[[../Micronesia|Micronesia]]'
 dv_Region: 9
 dv_Sub-region: 57
 dv_Geoname-ID: 4041468
@@ -210,8 +210,8 @@ dv_ISO3: MNP
 dv_has_name_de: Nördliche Marianen Inseln
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Oceania]]'
-dv_Capital: '[[Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan]]'
+dv_has_place_continent: '[[../../Oceania|Oceania]]'
+dv_Capital: '[[Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan|Saipan]]'
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 145.75
 dv_has_place_latitude: 15.1833

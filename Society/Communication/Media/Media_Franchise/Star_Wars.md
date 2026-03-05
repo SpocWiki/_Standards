@@ -96,22 +96,22 @@ subreddit:
 Baidu_Tieba_name: 星球大战
 nickname: Sq'tah Anaa'
 instance_of:
-- '[[_Standards/WikiData/WD~media_franchise,196600]]'
-- '[[_Standards/WikiData/WD~brand,431289]]'
-- '[[_Standards/WikiData/WD~film_franchise,130371093]]'
+- '[[_Standards/WikiData/WD~media_franchise,196600|WD~media_franchise,196600]]'
+- '[[_Standards/WikiData/WD~brand,431289|WD~brand,431289]]'
+- '[[_Standards/WikiData/WD~film_franchise,130371093|WD~film_franchise,130371093]]'
 owned_by:
-- '[[_Standards/WikiData/WD~Lucasfilm,242446]]'
-- '[[_Standards/WikiData/WD~Walt_Disney_Studios,2216535]]'
-- '[[_Standards/WikiData/WD~The_Walt_Disney_Company,7414]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Star_Wars,5912766]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Star_Wars,8208664]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Star_Wars,11034787]]'
-has_part_s_: '[[_Standards/WikiData/WD~Star_Wars,22092344]]'
-narrative_motif: '[[_Standards/WikiData/WD~evil_empire,55611244]]'
-fandom: '[[_Standards/WikiData/WD~Star_Wars_fandom,65117533]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-creator: '[[_Standards/WikiData/WD~George_Lucas,38222]]'
-founded_by: '[[_Standards/WikiData/WD~George_Lucas,38222]]'
+- '[[_Standards/WikiData/WD~Lucasfilm,242446|WD~Lucasfilm,242446]]'
+- '[[_Standards/WikiData/WD~Walt_Disney_Studios,2216535|WD~Walt_Disney_Studios,2216535]]'
+- '[[_Standards/WikiData/WD~The_Walt_Disney_Company,7414|WD~The_Walt_Disney_Company,7414]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Star_Wars,5912766|WD~Template_Star_Wars,5912766]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Star_Wars,8208664|WD~Portal_Star_Wars,8208664]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Star_Wars,11034787|WD~WikiProject_Star_Wars,11034787]]'
+has_part_s_: '[[_Standards/WikiData/WD~Star_Wars,22092344|WD~Star_Wars,22092344]]'
+narrative_motif: '[[_Standards/WikiData/WD~evil_empire,55611244|WD~evil_empire,55611244]]'
+fandom: '[[_Standards/WikiData/WD~Star_Wars_fandom,65117533|WD~Star_Wars_fandom,65117533]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+creator: '[[_Standards/WikiData/WD~George_Lucas,38222|WD~George_Lucas,38222]]'
+founded_by: '[[_Standards/WikiData/WD~George_Lucas,38222|WD~George_Lucas,38222]]'
 social_media_followers:
 - 4120000
 - 6242187

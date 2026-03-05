@@ -73,55 +73,55 @@ type: Country
 tags:
 - geo/Country
 SpocWebEntityId: 27041
-flag: '[[_Standards/WikiData/WD~flag_of_Tuvalu,105643]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Tuvalu,105643|WD~flag_of_Tuvalu,105643]]'
 instance_of:
-- '[[_Standards/WikiData/WD~island_country,112099]]'
-- '[[_Standards/WikiData/WD~Commonwealth_realm,202686]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~archipelagic_state,13107770]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~island_country,112099|WD~island_country,112099]]'
+- '[[_Standards/WikiData/WD~Commonwealth_realm,202686|WD~Commonwealth_realm,202686]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~archipelagic_state,13107770|WD~archipelagic_state,13107770]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 member_of:
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Tuvalu,240796]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Tuvalu,261643]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Tuvalu,309159]]'
-emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Tuvalu,592866]]'
-highest_point: '[[_Standards/WikiData/WD~Niulakita,632489]]'
-anthem: '[[_Standards/WikiData/WD~Tuvalu_mo_te_Atua,756708]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967|WD~Alliance_of_Small_Island_States,496967]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785|WD~Commonwealth_of_Nations,7785]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Tuvalu,240796|WD~history_of_Tuvalu,240796]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Tuvalu,261643|WD~economy_of_Tuvalu,261643]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Tuvalu,309159|WD~coat_of_arms_of_Tuvalu,309159]]'
+emergency_phone_number: '[[_Standards/WikiData/WD~911,533806|WD~911,533806]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Tuvalu,592866|WD~Prime_Minister_of_Tuvalu,592866]]'
+highest_point: '[[_Standards/WikiData/WD~Niulakita,632489|WD~Niulakita,632489]]'
+anthem: '[[_Standards/WikiData/WD~Tuvalu_mo_te_Atua,756708|WD~Tuvalu_mo_te_Atua,756708]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Atlas_of_Vanishing_Places,113243983]]'
-legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Tuvalu,897278]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Tuvalu,897500]]'
-electrical_plug_type: '[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Tuvalu,3044350]]'
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
-replaces: '[[_Standards/WikiData/WD~Ellice_Islands,3593530]]'
-head_of_government: '[[_Standards/WikiData/WD~Feleti_Teo,5441662]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Tuvalu,7112497]]'
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q13335075,13335075]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tuvalu,15145513]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Tuvalu,20725820]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103550,27103550]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~monarch_of_Tuvalu,34517851]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Atlas_of_Vanishing_Places,113243983|WD~Atlas_of_Vanishing_Places,113243983]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Tuvalu,897278|WD~Parliament_of_Tuvalu,897278]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Tuvalu,897500|WD~geography_of_Tuvalu,897500]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~AS_NZS_3112,2335539|WD~AS_NZS_3112,2335539]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Tuvalu,3044350|WD~demographics_of_Tuvalu,3044350]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
+replaces: '[[_Standards/WikiData/WD~Ellice_Islands,3593530|WD~Ellice_Islands,3593530]]'
+head_of_government: '[[_Standards/WikiData/WD~Feleti_Teo,5441662|WD~Feleti_Teo,5441662]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Tuvalu,7112497|WD~outline_of_Tuvalu,7112497]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q13335075,13335075|WD~Q13335075,13335075]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tuvalu,15145513|WD~Portal_Tuvalu,15145513]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Tuvalu,20725820|WD~culture_of_Tuvalu,20725820]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103550,27103550|WD~Q27103550,27103550]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~monarch_of_Tuvalu,34517851|WD~monarch_of_Tuvalu,34517851]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Pacific_Funafuti,63285989]]'
-- '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
+- '[[_Standards/WikiData/WD~Pacific_Funafuti,63285989|WD~Pacific_Funafuti,63285989]]'
+- '[[_Standards/WikiData/WD~UTC+12_00,7105|WD~UTC+12_00,7105]]'
 demonym:
 - توڤالوي
 - توڤالوية
@@ -162,21 +162,21 @@ motto_text:
 coordinate_location: Point(178.005556 -7.475)
 coordinates_of_westernmost_point: Point(176.0674 -5.6472)
 continent:
-- '[[_Standards/WikiData/WD~Insular_Oceania,538]]'
-- '[[_Standards/WikiData/WD~Oceania,55643]]'
-country: '[[_Standards/WikiData/WD~Tuvalu,672]]'
+- '[[_Standards/WikiData/WD~Insular_Oceania,538|WD~Insular_Oceania,538]]'
+- '[[_Standards/WikiData/WD~Oceania,55643|WD~Oceania,55643]]'
+country: '[[_Standards/WikiData/WD~Tuvalu,672|WD~Tuvalu,672]]'
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Fiji,712]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Cuba,241]]'
+- '[[_Standards/WikiData/WD~Fiji,712|WD~Fiji,712]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Cuba,241|WD~Cuba,241]]'
 language_used:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Tuvaluan,34055]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Tuvaluan,34055|WD~Tuvaluan,34055]]'
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Tuvaluan,34055]]'
-lowest_point: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Tuvaluan,34055|WD~Tuvaluan,34055]]'
+lowest_point: '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
 marriageable_age: 21
 mains_voltage: 220
 area: 26
@@ -185,15 +185,15 @@ rural_population:
 - 4030
 - 3945
 - 3983
-capital: '[[_Standards/WikiData/WD~Funafuti,34126]]'
+capital: '[[_Standards/WikiData/WD~Funafuti,34126|WD~Funafuti,34126]]'
 number_of_out_of_school_children: 510
 life_expectancy:
 - 64
 - 65
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Polynesia,35942]]'
-part_of: '[[_Standards/WikiData/WD~Polynesia,35942]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.tv,40373]]'
-head_of_state: '[[_Standards/WikiData/WD~Charles_III,43274]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Polynesia,35942|WD~Polynesia,35942]]'
+part_of: '[[_Standards/WikiData/WD~Polynesia,35942|WD~Polynesia,35942]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tv,40373|WD~.tv,40373]]'
+head_of_state: '[[_Standards/WikiData/WD~Charles_III,43274|WD~Charles_III,43274]]'
 Gini_coefficient: 39.1
 Inequality_adjusted_Human_Development_Index: 0.541
 Human_Development_Index: 0.641
@@ -331,9 +331,9 @@ dv_UNTERM_Chinese_Formal: 图瓦卢
 dv_UNTERM_French_Formal: Tuvalu (les) [masc.]
 dv_UNTERM_Russian: Тувалу
 dv_UNTERM_Russian_Formal: Тувалу
-dv_Region_Name: '[[../Oceania]]'
+dv_Region_Name: '[[../Oceania|Oceania]]'
 dv_Intermediate_Region_Name: '[[Tuvalu]]'
-dv_Sub-region_Name: '[[../Oceania/Polynesia]]'
+dv_Sub-region_Name: '[[../Oceania/Polynesia|Polynesia]]'
 dv_Region: 9
 dv_Sub-region: 61
 dv_Geoname-ID: 2110297
@@ -359,7 +359,7 @@ dv_ISO3: TUV
 dv_has_name_de: Tuvalu
 dv_Area-Total: 26
 dv_Area-Land: 30
-dv_has_place_continent: '[[../Oceania]]'
+dv_has_place_continent: '[[../Oceania|Oceania]]'
 dv_VehicleCode: TUV
 dv_Alcohol-l: 2.4
 dv_Language-Id: 499
@@ -632,7 +632,7 @@ Unicode_character: 🇹🇻
 
 is_part_of = `=this.dv_is_part_of`
 
-despite being counted to [[../Oceania/Polynesia]], due to its position western to the date-Line, it is included here.
+despite being counted to [[../Oceania/Polynesia|Polynesia]], due to its position western to the date-Line, it is included here.
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

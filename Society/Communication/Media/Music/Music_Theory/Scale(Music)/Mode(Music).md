@@ -42,22 +42,22 @@ aliases:
 - 调式
 - 선법
 has_id_wikidata: Q731978
-part_of: '[[_Standards/WikiData/WD~musicology,164204]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~scale,179651]]'
-subclass_of: '[[_Standards/WikiData/WD~harmony,184421]]'
+part_of: '[[_Standards/WikiData/WD~musicology,164204|WD~musicology,164204]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~scale,179651|WD~scale,179651]]'
+subclass_of: '[[_Standards/WikiData/WD~harmony,184421|WD~harmony,184421]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-facet_of: '[[_Standards/WikiData/WD~sound_tone,1744295]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~(1_4_...Qq),6173448]]'
-different_from: '[[_Standards/WikiData/WD~mode,6888090]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Scales,10831748]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+facet_of: '[[_Standards/WikiData/WD~sound_tone,1744295|WD~sound_tone,1744295]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~(1_4_...Qq),6173448|WD~(1_4_...Qq),6173448]]'
+different_from: '[[_Standards/WikiData/WD~mode,6888090|WD~mode,6888090]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Scales,10831748|WD~Template_Scales,10831748]]'
 instance_of:
-- '[[_Standards/WikiData/WD~technical_term,12812139]]'
-- '[[_Standards/WikiData/WD~musical_concept,115211517]]'
-used_by: '[[_Standards/WikiData/WD~modal_system,110407926]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~Kazakh,9252]]'
+- '[[_Standards/WikiData/WD~technical_term,12812139|WD~technical_term,12812139]]'
+- '[[_Standards/WikiData/WD~musical_concept,115211517|WD~musical_concept,115211517]]'
+used_by: '[[_Standards/WikiData/WD~modal_system,110407926|WD~modal_system,110407926]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Kazakh,9252|WD~Kazakh,9252]]'
 Commons_category: Musical modes
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/LADI.html
 dv_has_:

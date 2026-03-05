@@ -67,27 +67,27 @@ aliases:
 - 퓨즈
 has_id_wikidata: Q182221
 instance_of:
-- '[[_Standards/WikiData/WD~electrical_element,210729]]'
-- '[[_Standards/WikiData/WD~passive_electronic_component,9252564]]'
+- '[[_Standards/WikiData/WD~electrical_element,210729|WD~electrical_element,210729]]'
+- '[[_Standards/WikiData/WD~passive_electronic_component,9252564|WD~passive_electronic_component,9252564]]'
 different_from:
-- '[[_Standards/WikiData/WD~circuit_breaker,211058]]'
-- '[[_Standards/WikiData/WD~Fusible,235778]]'
-- '[[_Standards/WikiData/WD~fuse,664571]]'
-opposite_of: '[[_Standards/WikiData/WD~Antifuse,365870]]'
+- '[[_Standards/WikiData/WD~circuit_breaker,211058|WD~circuit_breaker,211058]]'
+- '[[_Standards/WikiData/WD~Fusible,235778|WD~Fusible,235778]]'
+- '[[_Standards/WikiData/WD~fuse,664571|WD~fuse,664571]]'
+opposite_of: '[[_Standards/WikiData/WD~Antifuse,365870|WD~Antifuse,365870]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~breaking_capacity,779913]]'
-- '[[_Standards/WikiData/WD~rated_voltage,816369]]'
+- '[[_Standards/WikiData/WD~breaking_capacity,779913|WD~breaking_capacity,779913]]'
+- '[[_Standards/WikiData/WD~rated_voltage,816369|WD~rated_voltage,816369]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sacrificial_part,7397371]]'
-- '[[_Standards/WikiData/WD~power_resistor,64706764]]'
+- '[[_Standards/WikiData/WD~sacrificial_part,7397371|WD~sacrificial_part,7397371]]'
+- '[[_Standards/WikiData/WD~power_resistor,64706764|WD~power_resistor,64706764]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~fuse_element,12375422]]'
-- '[[_Standards/WikiData/WD~Q16137204,16137204]]'
-has_use: '[[_Standards/WikiData/WD~overcurrent_protection,15856134]]'
+- '[[_Standards/WikiData/WD~fuse_element,12375422|WD~fuse_element,12375422]]'
+- '[[_Standards/WikiData/WD~Q16137204,16137204|WD~Q16137204,16137204]]'
+has_use: '[[_Standards/WikiData/WD~overcurrent_protection,15856134|WD~overcurrent_protection,15856134]]'
 OmegaWiki_Defined_Meaning: 1589486
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Smeltveiligheid.jpg

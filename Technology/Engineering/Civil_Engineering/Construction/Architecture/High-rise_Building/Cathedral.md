@@ -80,25 +80,25 @@ aliases:
 - 주교좌 성당
 has_id_wikidata: Q2977
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-instance_of: '[[_Standards/WikiData/WD~building_type,811102]]'
-locations: '[[_Standards/WikiData/WD~episcopal_see,866196]]'
-headquarters_locations: '[[_Standards/WikiData/WD~episcopal_see,866196]]'
-contains: '[[_Standards/WikiData/WD~cathedra,1138500]]'
-named_after: '[[_Standards/WikiData/WD~cathedra,1138500]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+instance_of: '[[_Standards/WikiData/WD~building_type,811102|WD~building_type,811102]]'
+locations: '[[_Standards/WikiData/WD~episcopal_see,866196|WD~episcopal_see,866196]]'
+headquarters_locations: '[[_Standards/WikiData/WD~episcopal_see,866196|WD~episcopal_see,866196]]'
+contains: '[[_Standards/WikiData/WD~cathedra,1138500|WD~cathedra,1138500]]'
+named_after: '[[_Standards/WikiData/WD~cathedra,1138500|WD~cathedra,1138500]]'
 occupant:
-- '[[_Standards/WikiData/WD~high_priest,1399157]]'
-- '[[_Standards/WikiData/WD~bishop,29182]]'
+- '[[_Standards/WikiData/WD~high_priest,1399157|WD~high_priest,1399157]]'
+- '[[_Standards/WikiData/WD~bishop,29182|WD~bishop,29182]]'
 different_from:
-- '[[_Standards/WikiData/WD~former_cathedral,97588309]]'
-- '[[_Standards/WikiData/WD~Katedra,105415360]]'
-depicted_by: '[[_Standards/WikiData/WD~Cathedral,131576649]]'
+- '[[_Standards/WikiData/WD~former_cathedral,97588309|WD~former_cathedral,97588309]]'
+- '[[_Standards/WikiData/WD~Katedra,105415360|WD~Katedra,105415360]]'
+depicted_by: '[[_Standards/WikiData/WD~Cathedral,131576649|WD~Cathedral,131576649]]'
 Wikidata_property: cathedral
-subclass_of: '[[_Standards/WikiData/WD~church_building,16970]]'
+subclass_of: '[[_Standards/WikiData/WD~church_building,16970|WD~church_building,16970]]'
 Nomenclature_for_Museum_Cataloging: 588
 U_S_National_Archives_Identifier: 10674952
 pronunciation_audio:

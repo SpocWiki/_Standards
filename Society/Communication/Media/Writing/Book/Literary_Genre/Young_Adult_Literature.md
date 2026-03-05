@@ -59,16 +59,16 @@ aliases:
 - 青年小說
 - 青年文学
 has_id_wikidata: Q1233720
-different_from: "[[_Standards/WikiData/WD~children's_literature,131539]]"
+different_from: "[[_Standards/WikiData/WD~children's_literature,131539|WD~children's_literature,131539]]"
 instance_of:
-- '[[_Standards/WikiData/WD~literary_genre,223393]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
-has_characteristic: '[[_Standards/WikiData/WD~young_adult_literature_award,8057845]]'
-subclass_of: "[[_Standards/WikiData/WD~children's_and_youth_literature,11163999]]"
-intended_public: '[[_Standards/WikiData/WD~young_adult,17156455]]'
-practiced_by: '[[_Standards/WikiData/WD~young_adult_author,62083492]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~young_adult_fiction,111984153]]'
+- '[[_Standards/WikiData/WD~literary_genre,223393|WD~literary_genre,223393]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
+has_characteristic: '[[_Standards/WikiData/WD~young_adult_literature_award,8057845|WD~young_adult_literature_award,8057845]]'
+subclass_of: "[[_Standards/WikiData/WD~children's_and_youth_literature,11163999|WD~children's_and_youth_literature,11163999]]"
+intended_public: '[[_Standards/WikiData/WD~young_adult,17156455|WD~young_adult,17156455]]'
+practiced_by: '[[_Standards/WikiData/WD~young_adult_author,62083492|WD~young_adult_author,62083492]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~young_adult_fiction,111984153|WD~young_adult_fiction,111984153]]'
 IAB_code: 51
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ben%20White%202016-08-22%20%28Unsplash%20mIESPbiPwkI%29.jpg
 UMLS_CUI: C0600654

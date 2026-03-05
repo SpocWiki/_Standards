@@ -49,31 +49,31 @@ aliases:
 - 聖瑪莉艾克斯30號大樓
 has_id_wikidata: Q191161
 architect:
-- '[[_Standards/WikiData/WD~Norman_Foster,104898]]'
-- '[[_Standards/WikiData/WD~Foster_and_Partners,1208016]]'
-- '[[_Standards/WikiData/WD~Ken_Shuttleworth,6388488]]'
+- '[[_Standards/WikiData/WD~Norman_Foster,104898|WD~Norman_Foster,104898]]'
+- '[[_Standards/WikiData/WD~Foster_and_Partners,1208016|WD~Foster_and_Partners,1208016]]'
+- '[[_Standards/WikiData/WD~Ken_Shuttleworth,6388488|WD~Ken_Shuttleworth,6388488]]'
 significant_event:
-- '[[_Standards/WikiData/WD~construction,385378]]'
-- '[[_Standards/WikiData/WD~occupancy,7075743]]'
+- '[[_Standards/WikiData/WD~construction,385378|WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~occupancy,7075743|WD~occupancy,7075743]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~skyscraper,11303]]'
-occupant: '[[_Standards/WikiData/WD~Swiss_Re,605565]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~skyscraper,11303|WD~skyscraper,11303]]'
+occupant: '[[_Standards/WikiData/WD~Swiss_Re,605565|WD~Swiss_Re,605565]]'
 named_after:
-- '[[_Standards/WikiData/WD~Swiss_Re,605565]]'
-- '[[_Standards/WikiData/WD~pickled_cucumber,1365891]]'
-structural_engineer: '[[_Standards/WikiData/WD~Arup,716737]]'
-main_building_contractor: '[[_Standards/WikiData/WD~Skanska_AB,1537811]]'
-owned_by: '[[_Standards/WikiData/WD~Safra_Group,7398834]]'
-located_on_street: '[[_Standards/WikiData/WD~St._Mary_Axe,7590464]]'
-structure_replaces: '[[_Standards/WikiData/WD~Baltic_Exchange,22087317]]'
+- '[[_Standards/WikiData/WD~Swiss_Re,605565|WD~Swiss_Re,605565]]'
+- '[[_Standards/WikiData/WD~pickled_cucumber,1365891|WD~pickled_cucumber,1365891]]'
+structural_engineer: '[[_Standards/WikiData/WD~Arup,716737|WD~Arup,716737]]'
+main_building_contractor: '[[_Standards/WikiData/WD~Skanska_AB,1537811|WD~Skanska_AB,1537811]]'
+owned_by: '[[_Standards/WikiData/WD~Safra_Group,7398834|WD~Safra_Group,7398834]]'
+located_on_street: '[[_Standards/WikiData/WD~St._Mary_Axe,7590464|WD~St._Mary_Axe,7590464]]'
+structure_replaces: '[[_Standards/WikiData/WD~Baltic_Exchange,22087317|WD~Baltic_Exchange,22087317]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~steel,11427]]'
-- '[[_Standards/WikiData/WD~glass,11469]]'
-- '[[_Standards/WikiData/WD~concrete,22657]]'
-historic_county: '[[_Standards/WikiData/WD~Middlesex,19186]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~City_of_London,23311]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~steel,11427|WD~steel,11427]]'
+- '[[_Standards/WikiData/WD~glass,11469|WD~glass,11469]]'
+- '[[_Standards/WikiData/WD~concrete,22657|WD~concrete,22657]]'
+historic_county: '[[_Standards/WikiData/WD~Middlesex,19186|WD~Middlesex,19186]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~City_of_London,23311|WD~City_of_London,23311]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 height: 250
 number_of_elevators: 26
 floors_above_ground: 41
@@ -154,7 +154,7 @@ dv_has_:
 
 # [[Gherkin,London]] 
 
-![[../../../assets/Gherkin,London.png]] 
+![[../../../assets/Gherkin,London.png|Gherkin,London.png]] 
 
 #is_/same_as :: [[WD~The_Gherkin]] 
 

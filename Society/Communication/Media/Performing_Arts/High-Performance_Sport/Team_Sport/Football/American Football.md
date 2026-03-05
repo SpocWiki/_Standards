@@ -103,20 +103,20 @@ aliases:
 - 미식축구
 - "\U0001F3C8"
 has_id_wikidata: Q41323
-instance_of: '[[_Standards/WikiData/WD~team_sport,216048]]'
+instance_of: '[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]'
 different_from:
-- '[[_Standards/WikiData/WD~Football,296260]]'
-- '[[_Standards/WikiData/WD~football,1081491]]'
+- '[[_Standards/WikiData/WD~Football,296260|WD~Football,296260]]'
+- '[[_Standards/WikiData/WD~football,1081491|WD~football,1081491]]'
 uses:
-- '[[_Standards/WikiData/WD~penalty_flag,583235]]'
-- '[[_Standards/WikiData/WD~American_football_ball,2715770]]'
-subclass_of: '[[_Standards/WikiData/WD~gridiron_football,1546270]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_American_Football,14615031]]'
+- '[[_Standards/WikiData/WD~penalty_flag,583235|WD~penalty_flag,583235]]'
+- '[[_Standards/WikiData/WD~American_football_ball,2715770|WD~American_football_ball,2715770]]'
+subclass_of: '[[_Standards/WikiData/WD~gridiron_football,1546270|WD~gridiron_football,1546270]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_American_Football,14615031|WD~Portal_American_Football,14615031]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~American_football_player,19204627]]'
-- '[[_Standards/WikiData/WD~American_football_coach,42331263]]'
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~American_football_player,19204627|WD~American_football_player,19204627]]'
+- '[[_Standards/WikiData/WD~American_football_coach,42331263|WD~American_football_coach,42331263]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 duration:
 - 60
 - 48

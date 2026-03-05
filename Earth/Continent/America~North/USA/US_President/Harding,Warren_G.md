@@ -63,8 +63,8 @@ tags:
 - ''
 title: Harding,Warren_G
 type: private_note
-dv_has_role: '[[../US_President]]'
-dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]'
+dv_has_role: '[[../US_President|US_President]]'
+dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party|US~Republican_Party]]'
 dv_created: 1921-03-04
 dv_cancelled: 1923-08-02
 dv_has_:
@@ -244,7 +244,7 @@ dv_is_same_as:
 
 has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped`
--   [has_role :: [[../US_President]] ]is_member_of = `=this.dv_is_member_of`
+-   [has_role :: [[../US_President|US_President]] ]is_member_of = `=this.dv_is_member_of`
 
 
 ## Confidential Links & Embeds: 

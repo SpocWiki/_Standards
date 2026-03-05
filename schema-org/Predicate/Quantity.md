@@ -105,20 +105,20 @@ tags:
 title: is_a_quantity Class
 type: Type
 subclass_of:
-- '[[_Standards/WikiData/WD~property,937228]]'
-- '[[_Standards/WikiData/WD~value,2912517]]'
+- '[[_Standards/WikiData/WD~property,937228|WD~property,937228]]'
+- '[[_Standards/WikiData/WD~value,2912517|WD~value,2912517]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~level_of_measurement,951437]]'
-- '[[_Standards/WikiData/WD~quantity_value,110597311]]'
-- '[[_Standards/WikiData/WD~quantity_dimension,19110]]'
-- '[[_Standards/WikiData/WD~unit_of_measurement,47574]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~cardinality,4049983]]'
-opposite_of: '[[_Standards/WikiData/WD~qualitative_property,7268708]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_property,96253971]]'
-different_from: '[[_Standards/WikiData/WD~ordinal_quantity,110645437]]'
+- '[[_Standards/WikiData/WD~level_of_measurement,951437|WD~level_of_measurement,951437]]'
+- '[[_Standards/WikiData/WD~quantity_value,110597311|WD~quantity_value,110597311]]'
+- '[[_Standards/WikiData/WD~quantity_dimension,19110|WD~quantity_dimension,19110]]'
+- '[[_Standards/WikiData/WD~unit_of_measurement,47574|WD~unit_of_measurement,47574]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~cardinality,4049983|WD~cardinality,4049983]]'
+opposite_of: '[[_Standards/WikiData/WD~qualitative_property,7268708|WD~qualitative_property,7268708]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_property,96253971|WD~type_of_property,96253971]]'
+different_from: '[[_Standards/WikiData/WD~ordinal_quantity,110645437|WD~ordinal_quantity,110645437]]'
 main_Wikidata_property: quantity
 properties_for_this_type: quantity symbol (LaTeX)
-facet_of: '[[_Standards/WikiData/WD~measurement,12453]]'
+facet_of: '[[_Standards/WikiData/WD~measurement,12453|WD~measurement,12453]]'
 Commons_category: Quantity
 dv_is_:
   same_as:
@@ -131,7 +131,7 @@ dv_is_:
   - '[[/_personal/schema-org/Predicate/Quantity.personal|Quantity.personal]]'
   - '[[/_secret/schema-org/Predicate/Quantity.secret|Quantity.secret]]'
   - '[[Quantity]]'
-  parent_class: '[[../Class/is_a_/Intangible]]'
+  parent_class: '[[../Class/is_a_/Intangible|Intangible]]'
   worse_than: '[[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]'
 dv_has_:
   child_class: '[ Distance, Duration, Energy, Mass ]'
@@ -249,7 +249,7 @@ dv_is_same_as:
 - '[[/_private/schema-org/Predicate/Quantity.private|Quantity.private]]'
 - '[[/_personal/schema-org/Predicate/Quantity.personal|Quantity.personal]]'
 - '[[/_secret/schema-org/Predicate/Quantity.secret|Quantity.secret]]'
-dv_has_parent_class: '[[../Class/is_a_/Intangible]]'
+dv_has_parent_class: '[[../Class/is_a_/Intangible|Intangible]]'
 dv_has_child_class: '[ Distance, Duration, Energy, Mass ]'
 dv_has_properties: '[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]'
 dv_is_worse_than: '[[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]'

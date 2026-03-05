@@ -64,19 +64,19 @@ aliases:
 - 수표
 has_id_wikidata: Q80042
 subclass_of:
-- '[[_Standards/WikiData/WD~promissory_note,190122]]'
-- '[[_Standards/WikiData/WD~foreign_currencies,831772]]'
-- '[[_Standards/WikiData/WD~paper_product,1668556]]'
-- '[[_Standards/WikiData/WD~negotiable_instrument,3359388]]'
+- '[[_Standards/WikiData/WD~promissory_note,190122|WD~promissory_note,190122]]'
+- '[[_Standards/WikiData/WD~foreign_currencies,831772|WD~foreign_currencies,831772]]'
+- '[[_Standards/WikiData/WD~paper_product,1668556|WD~paper_product,1668556]]'
+- '[[_Standards/WikiData/WD~negotiable_instrument,3359388|WD~negotiable_instrument,3359388]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 instance_of:
-- '[[_Standards/WikiData/WD~payment_method,1912682]]'
-- '[[_Standards/WikiData/WD~product_category,63981612]]'
-part_of: '[[_Standards/WikiData/WD~checkbook,87002152]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~check_stub,107392820]]'
+- '[[_Standards/WikiData/WD~payment_method,1912682|WD~payment_method,1912682]]'
+- '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
+part_of: '[[_Standards/WikiData/WD~checkbook,87002152|WD~checkbook,87002152]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~check_stub,107392820|WD~check_stub,107392820]]'
 Nomenclature_for_Museum_Cataloging: 13896
 OmegaWiki_Defined_Meaning: 434769
 Commons_category: Cheques

@@ -28,21 +28,21 @@ aliases:
 - 森诺曼阶
 - 세노마눔절
 has_id_wikidata: Q185567
-named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
+named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cenomanian,20979613]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Cenomanian,133930647]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cenomanian,20979613|WD~Category_Cenomanian,20979613]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Cenomanian,133930647|WD~GSSP_for_the_base_of_the_Cenomanian,133930647]]'
 end_time: -93900000-01-01T00:00:00Z
 start_time: -100500000-01-01T00:00:00Z
 coordinate_location: Point(5.5119 44.3925)
-named_after: '[[_Standards/WikiData/WD~Le_Mans,1476]]'
-country: '[[_Standards/WikiData/WD~France,142]]'
+named_after: '[[_Standards/WikiData/WD~Le_Mans,1476|WD~Le_Mans,1476]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 sRGB_color_hex_triplet: B5DA71
 Commons_category: Cenomanian
 dv_has_:

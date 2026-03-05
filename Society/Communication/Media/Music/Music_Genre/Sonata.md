@@ -33,25 +33,25 @@ aliases:
 - 쏘나타
 has_id_wikidata: Q131269
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333|WD~type_of_musical_work_composition,107487333]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
-- '[[_Standards/WikiData/WD~instrumental_music,639197]]'
-- '[[_Standards/WikiData/WD~classical_music,9730]]'
-different_from: '[[_Standards/WikiData/WD~sonata_form,212044]]'
+- '[[_Standards/WikiData/WD~composed_musical_work,207628|WD~composed_musical_work,207628]]'
+- '[[_Standards/WikiData/WD~instrumental_music,639197|WD~instrumental_music,639197]]'
+- '[[_Standards/WikiData/WD~classical_music,9730|WD~classical_music,9730]]'
+different_from: '[[_Standards/WikiData/WD~sonata_form,212044|WD~sonata_form,212044]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,2152210]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-studied_by: '[[_Standards/WikiData/WD~Sonata_theory,7560824]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,2152210|WD~Riemann's_Music_Dictionary,2152210]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+studied_by: '[[_Standards/WikiData/WD~Sonata_theory,7560824|WD~Sonata_theory,7560824]]'
 inception: 1600-01-01T00:00:00Z
-country_of_origin: '[[_Standards/WikiData/WD~Europe,46]]'
+country_of_origin: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 Dewey_Decimal_Classification: 780
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Azzolino%20della%20Ciaja%20Sonata%20III%20frammento%203.JPG
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Domenico.Scarlatti.Sonata.f.minor.Kirkpatrick.466.ogg

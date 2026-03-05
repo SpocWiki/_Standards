@@ -71,22 +71,22 @@ aliases:
 - 彈簧
 - 용수철
 has_id_wikidata: Q102836
-has_use: '[[_Standards/WikiData/WD~shock_absorber,211251]]'
+has_use: '[[_Standards/WikiData/WD~shock_absorber,211251|WD~shock_absorber,211251]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 used_by:
-- '[[_Standards/WikiData/WD~spring_scale,772032]]'
-- '[[_Standards/WikiData/WD~battery_holder,4869892]]'
-subclass_of: '[[_Standards/WikiData/WD~machine_element,839546]]'
+- '[[_Standards/WikiData/WD~spring_scale,772032|WD~spring_scale,772032]]'
+- '[[_Standards/WikiData/WD~battery_holder,4869892|WD~battery_holder,4869892]]'
+subclass_of: '[[_Standards/WikiData/WD~machine_element,839546|WD~machine_element,839546]]'
 different_from:
-- '[[_Standards/WikiData/WD~coil_spring,3175877]]'
-- '[[_Standards/WikiData/WD~Spring,9340730]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-has_characteristic: '[[_Standards/WikiData/WD~elasticity,62932]]'
+- '[[_Standards/WikiData/WD~coil_spring,3175877|WD~coil_spring,3175877]]'
+- '[[_Standards/WikiData/WD~Spring,9340730|WD~Spring,9340730]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+has_characteristic: '[[_Standards/WikiData/WD~elasticity,62932|WD~elasticity,62932]]'
 GS1_GPC_code: 10003168
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Springs%20009.jpg
 UNSPSC_Code: 31161900

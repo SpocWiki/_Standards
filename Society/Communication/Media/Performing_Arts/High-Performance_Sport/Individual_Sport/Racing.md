@@ -61,13 +61,13 @@ aliases:
 - 경주
 has_id_wikidata: Q878123
 different_from:
-- '[[_Standards/WikiData/WD~Spanish_style_bullfighting,2640883]]'
-- '[[_Standards/WikiData/WD~The_Ride,29581183]]'
-- '[[_Standards/WikiData/WD~Q54894541,54894541]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~race,22938576]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-subclass_of: '[[_Standards/WikiData/WD~sport,349]]'
+- '[[_Standards/WikiData/WD~Spanish_style_bullfighting,2640883|WD~Spanish_style_bullfighting,2640883]]'
+- '[[_Standards/WikiData/WD~The_Ride,29581183|WD~The_Ride,29581183]]'
+- '[[_Standards/WikiData/WD~Q54894541,54894541|WD~Q54894541,54894541]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~race,22938576|WD~race,22938576]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+subclass_of: '[[_Standards/WikiData/WD~sport,349|WD~sport,349]]'
 IMDb_keyword: racing
 Commons_category: Racing sports
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Course%20Nf%201%201%201%20-%20Elix.webm
@@ -145,7 +145,7 @@ dv_has_:
 
 # [[Racing]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~racing,878123]] 
+#is_/same_as :: [[_Standards/WikiData/WD~racing,878123|WD~racing,878123]] 
 
 ## #has_/text_of_/abstract 
 

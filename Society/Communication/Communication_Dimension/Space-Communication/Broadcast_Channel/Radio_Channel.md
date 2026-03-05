@@ -91,13 +91,13 @@ Tag Instances like this:
 
 A unique instance of a [[../../../../../Agent/Community/Organization/Business/Service/Broadcast_Service/Radio_Broadcast_Service|Radio_Broadcast_Service]] on a [[../../../../../Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service|Cable_or_Satellite_Service]] lineup.
 
-#has_/parent_class :: [[../BroadcastChannel]]  
+#has_/parent_class :: [[../BroadcastChannel|BroadcastChannel]]  
 
 #has_/child_/class :: [ AMRadioChannel, FMRadioChannel ]  
 
 #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~radio_channel,1474440]] 
+#is_/same_as :: [[_Standards/WikiData/WD~radio_channel,1474440|WD~radio_channel,1474440]] 
 
 ## #has_/text_of_/abstract 
 

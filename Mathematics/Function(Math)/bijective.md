@@ -133,7 +133,7 @@ aliases:
 
 # [[bijective]]  
 
-#is_/same_as :: [[../Isomorphism]] 
+#is_/same_as :: [[../Isomorphism|Isomorphism]] 
 
 
 A function is bijective 
@@ -170,7 +170,7 @@ A function is bijective
 > More generally, two sets are said to have the same cardinal number 
 > if there exists a bijection between them.
 >
-> A bijective function from a set to itself is also called a [[../Statistics/Combinatorics/Permutation]], 
+> A bijective function from a set to itself is also called a [[../Statistics/Combinatorics/Permutation|Permutation]], 
 > and the set of all permutations of a set forms its [[Symmetric Group]].
 >
 > Some bijections with further properties have received specific names, which include automorphisms, 

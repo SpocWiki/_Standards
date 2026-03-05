@@ -1,6 +1,6 @@
 ---
 has_time_started: 1957-01-01
-location: '[[_Standards/WikiData/WD~Rome,220]]'
+location: '[[_Standards/WikiData/WD~Rome,220|WD~Rome,220]]'
 aliases:
 - Bilim ve Dünya İlişkileri üzerine Pugwash Konferansı
 - Comhdháil Pugwash
@@ -50,13 +50,13 @@ aliases:
 - 帕格沃什科學和世界事務會議
 - 퍼그워시 회의
 has_id_wikidata: Q381282
-different_from: '[[_Standards/WikiData/WD~Pugwash,7258978]]'
-member_of: '[[_Standards/WikiData/WD~Campaign_to_Stop_Killer_Robots,20991391]]'
-archives_at: '[[_Standards/WikiData/WD~Niels_Bohr_Library_&_Archives,43290734]]'
-has_works_in_the_collection: '[[_Standards/WikiData/WD~Pugwash_Movement_Collection,93272429]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+different_from: '[[_Standards/WikiData/WD~Pugwash,7258978|WD~Pugwash,7258978]]'
+member_of: '[[_Standards/WikiData/WD~Campaign_to_Stop_Killer_Robots,20991391|WD~Campaign_to_Stop_Killer_Robots,20991391]]'
+archives_at: '[[_Standards/WikiData/WD~Niels_Bohr_Library_&_Archives,43290734|WD~Niels_Bohr_Library_&_Archives,43290734]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Pugwash_Movement_Collection,93272429|WD~Pugwash_Movement_Collection,93272429]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 coordinate_location: Point(12.4668318 41.8932669)
-instance_of: '[[_Standards/WikiData/WD~organization,43229]]'
+instance_of: '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 inception: 1957-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pugwash%20NAL%20tour%201970-com.jpg
 official_website: https://pugwash.org/

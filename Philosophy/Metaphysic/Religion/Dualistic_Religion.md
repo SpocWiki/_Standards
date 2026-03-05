@@ -21,9 +21,9 @@ aliases:
 - 二元宇宙觀
 - 二元論的宇宙論
 has_id_wikidata: Q5310255
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~dualism,167312]]'
-instance_of: '[[_Standards/WikiData/WD~dualism,167312]]'
-subclass_of: '[[_Standards/WikiData/WD~religious_cosmology,2998321]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~dualism,167312|WD~dualism,167312]]'
+instance_of: '[[_Standards/WikiData/WD~dualism,167312|WD~dualism,167312]]'
+subclass_of: '[[_Standards/WikiData/WD~religious_cosmology,2998321|WD~religious_cosmology,2998321]]'
 dv_has_:
   name_:
     bn: দ্বৈতবাদী সৃষ্টিতত্ত্ব

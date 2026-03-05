@@ -39,14 +39,14 @@ aliases:
 - 메사
 has_id_wikidata: Q623319
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~highland,878223]]'
-- '[[_Standards/WikiData/WD~mountain,8502]]'
-- '[[_Standards/WikiData/WD~mountain_range,46831]]'
-- '[[_Standards/WikiData/WD~hill,54050]]'
-different_from: '[[_Standards/WikiData/WD~Tafelberg,7674932]]'
+- '[[_Standards/WikiData/WD~highland,878223|WD~highland,878223]]'
+- '[[_Standards/WikiData/WD~mountain,8502|WD~mountain,8502]]'
+- '[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]'
+- '[[_Standards/WikiData/WD~hill,54050|WD~hill,54050]]'
+different_from: '[[_Standards/WikiData/WD~Tafelberg,7674932|WD~Tafelberg,7674932]]'
 Commons_category: Mesas
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000179
 GeoNames_feature_code:
@@ -57,7 +57,7 @@ dv_is_:
   - '[[Plateau]]'
   - '[[Guyot]]'
   same_as:
-  - '[[../../../WikiData/WD~Mesa,623319]]'
+  - '[[../../../WikiData/WD~Mesa,623319|WD~Mesa,623319]]'
   - '[[/_Standards/Earth/Geology/Landform/Mesa|Mesa]]'
   - '[[/_public/Earth/Geology/Landform/Mesa.public|Mesa.public]]'
   - '[[/_internal/Earth/Geology/Landform/Mesa.internal|Mesa.internal]]'
@@ -69,7 +69,7 @@ dv_is_similar_to:
 - '[[Plateau]]'
 - '[[Guyot]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Mesa,623319]]'
+- '[[../../../WikiData/WD~Mesa,623319|WD~Mesa,623319]]'
 - '[[/_Standards/Earth/Geology/Landform/Mesa|Mesa]]'
 - '[[/_public/Earth/Geology/Landform/Mesa.public|Mesa.public]]'
 - '[[/_internal/Earth/Geology/Landform/Mesa.internal|Mesa.internal]]'

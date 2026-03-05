@@ -114,20 +114,20 @@ aliases:
 - 조선반도
 - 한반도
 has_id_wikidata: Q483134
-highest_point: '[[_Standards/WikiData/WD~Baekdu_Mountain,107635]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Korea_topics,8083518]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116148307,116148307]]'
+highest_point: '[[_Standards/WikiData/WD~Baekdu_Mountain,107635|WD~Baekdu_Mountain,107635]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Korea_topics,8083518|WD~Template_Korea_topics,8083518]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116148307,116148307|WD~Q116148307,116148307]]'
 country:
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~South_Korea,884]]'
-different_from: '[[_Standards/WikiData/WD~Korea,18097]]'
-part_of: '[[_Standards/WikiData/WD~Korea,18097]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]'
+different_from: '[[_Standards/WikiData/WD~Korea,18097|WD~Korea,18097]]'
+part_of: '[[_Standards/WikiData/WD~Korea,18097|WD~Korea,18097]]'
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
-- '[[_Standards/WikiData/WD~Yellow_Sea,37960]]'
-- '[[_Standards/WikiData/WD~East_China_Sea,45341]]'
-instance_of: '[[_Standards/WikiData/WD~peninsula,34763]]'
+- '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~Yellow_Sea,37960|WD~Yellow_Sea,37960]]'
+- '[[_Standards/WikiData/WD~East_China_Sea,45341|WD~East_China_Sea,45341]]'
+instance_of: '[[_Standards/WikiData/WD~peninsula,34763|WD~peninsula,34763]]'
 area: 85270
 Commons_category: Korea
 U_S_National_Archives_Identifier: 10044356

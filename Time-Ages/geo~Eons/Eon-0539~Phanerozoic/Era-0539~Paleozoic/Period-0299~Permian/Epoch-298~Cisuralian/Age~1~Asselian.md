@@ -29,13 +29,13 @@ aliases:
 - 阿瑟爾階
 has_id_wikidata: Q740340
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q789402,789402]]'
-named_after: "[[_Standards/WikiData/WD~Assel',3697749]]"
-named_by: '[[_Standards/WikiData/WD~Vasiliy_E._Ruzhentsev,4399810]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Asselian,134468842]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q789402,789402|WD~Q789402,789402]]'
+named_after: "[[_Standards/WikiData/WD~Assel',3697749|WD~Assel',3697749]]"
+named_by: '[[_Standards/WikiData/WD~Vasiliy_E._Ruzhentsev,4399810|WD~Vasiliy_E._Ruzhentsev,4399810]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Asselian,134468842|WD~GSSP_for_the_base_of_the_Asselian,134468842]]'
 start_time: -298900000-01-01T00:00:00Z
 end_time: -295000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: F0775F

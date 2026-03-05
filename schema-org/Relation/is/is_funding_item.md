@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/is/is_funding_item.personal|is_funding_item.personal]]"
     - "[[/_secret/schema-org/Relation/is/is_funding_item.secret|is_funding_item.secret]]"
 dv_has_:
-  inverse: "[[../has/has_funding]]"
+  inverse: "[[../has/has_funding|has_funding]]"
   domain: "[[../../Class/is_a_/Intangible/Grant|Grant]]"
   name: is_funding_item
   range:
@@ -49,7 +49,7 @@ dv_has_:
     - "[[../../../Society/Agent/Person|Person]]"
     - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
 dv_is_part_of: "pending:"
-dv_has_inverse: "[[../has/has_funding]]"
+dv_has_inverse: "[[../has/has_funding|has_funding]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Grant|Grant]]"
 dv_has_name: is_funding_item
 dv_has_range:

@@ -41,22 +41,22 @@ aliases:
 - 积分学
 - 積分法
 has_id_wikidata: Q150008
-is_the_study_of: '[[_Standards/WikiData/WD~integral,80091]]'
+is_the_study_of: '[[_Standards/WikiData/WD~integral,80091|WD~integral,80091]]'
 part_of:
-- '[[_Standards/WikiData/WD~calculus,149972]]'
-- '[[_Standards/WikiData/WD~analysis_in_one_real_variable_(calculus),114440953]]'
-subclass_of: '[[_Standards/WikiData/WD~calculus,149972]]'
-opposite_of: '[[_Standards/WikiData/WD~differential_calculus,149999]]'
-different_from: '[[_Standards/WikiData/WD~integral_theory,275242]]'
+- '[[_Standards/WikiData/WD~calculus,149972|WD~calculus,149972]]'
+- '[[_Standards/WikiData/WD~analysis_in_one_real_variable_(calculus),114440953|WD~analysis_in_one_real_variable_(calculus),114440953]]'
+subclass_of: '[[_Standards/WikiData/WD~calculus,149972|WD~calculus,149972]]'
+opposite_of: '[[_Standards/WikiData/WD~differential_calculus,149999|WD~differential_calculus,149999]]'
+different_from: '[[_Standards/WikiData/WD~integral_theory,275242|WD~integral_theory,275242]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106|WD~Kazakhstan._National_encyclopedia,4208106]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918|WD~mathematical_theory,20026918]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Integral%20as%20region%20under%20curve.svg
 ACM_Classification_Code_2012_: 10003735
 Wolfram_Language_entity_code: Entity["Concept", "IntegralCalculus::6w387"]
@@ -113,7 +113,7 @@ dv_has_:
 # [[Integral_Calculus]] 
 
 #has_/complement :: [[Differential_Calculus]] 
-#is_/same_as :: [[_Standards/WikiData/WD~integral_calculus,150008]] 
+#is_/same_as :: [[_Standards/WikiData/WD~integral_calculus,150008|WD~integral_calculus,150008]] 
 
 ## #has_/text_of_/abstract 
 

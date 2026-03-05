@@ -26,7 +26,7 @@ tags:
 title: is_an_item_list_order_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Item_List_Order_Type|Item_List_Order_Type]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Item_List_Order_Type.personal|Item_List_Order_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_List_Order_Type.secret|Item_List_Order_Type.secret]]"
     - "[[Item_List_Order_Type]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Item_List_Order_Type]]"
   - "[[/_public/schema-org/Enumeration/Item_List_Order_Type.public|Item_List_Order_Type.public]]"

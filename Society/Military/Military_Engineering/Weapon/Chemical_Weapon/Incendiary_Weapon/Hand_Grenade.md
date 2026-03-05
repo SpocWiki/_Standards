@@ -71,26 +71,26 @@ aliases:
 - 수류탄
 has_id_wikidata: Q173517
 model_item:
-- '[[_Standards/WikiData/WD~Molotov_cocktail,167096]]'
-- '[[_Standards/WikiData/WD~Mills_bomb,1636085]]'
+- '[[_Standards/WikiData/WD~Molotov_cocktail,167096|WD~Molotov_cocktail,167096]]'
+- '[[_Standards/WikiData/WD~Mills_bomb,1636085|WD~Mills_bomb,1636085]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~shell,318028]]'
-- '[[_Standards/WikiData/WD~throwing_weapon,1566976]]'
-- '[[_Standards/WikiData/WD~grenade,12314199]]'
-- '[[_Standards/WikiData/WD~Q126647655,126647655]]'
+- '[[_Standards/WikiData/WD~shell,318028|WD~shell,318028]]'
+- '[[_Standards/WikiData/WD~throwing_weapon,1566976|WD~throwing_weapon,1566976]]'
+- '[[_Standards/WikiData/WD~grenade,12314199|WD~grenade,12314199]]'
+- '[[_Standards/WikiData/WD~Q126647655,126647655|WD~Q126647655,126647655]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-used_by: '[[_Standards/WikiData/WD~soldier,4991371]]'
-different_from: '[[_Standards/WikiData/WD~Grenado,12348350]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_hand_grenade,25791729]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+used_by: '[[_Standards/WikiData/WD~soldier,4991371|WD~soldier,4991371]]'
+different_from: '[[_Standards/WikiData/WD~Grenado,12348350|WD~Grenado,12348350]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_hand_grenade,25791729|WD~Template_Infobox_hand_grenade,25791729]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422|WD~weapon_functional_class,124078422]]'
 Product_and_Service_Code: 1330
 Nomenclature_for_Museum_Cataloging:
 - 7763

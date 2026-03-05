@@ -63,30 +63,30 @@ aliases:
 - 抽象化
 - 추상
 has_id_wikidata: Q673661
-has_use: '[[_Standards/WikiData/WD~generalization,170084]]'
+has_use: '[[_Standards/WikiData/WD~generalization,170084|WD~generalization,170084]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-subclass_of: '[[_Standards/WikiData/WD~cognitive_process,781413]]'
-used_by: '[[_Standards/WikiData/WD~The_law_of_reverse_relations_between_the_content_and_the_volume_of_the_concept_(Russian),4184865]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865|WD~Kościelna_encyclopedia,9253865]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+subclass_of: '[[_Standards/WikiData/WD~cognitive_process,781413|WD~cognitive_process,781413]]'
+used_by: '[[_Standards/WikiData/WD~The_law_of_reverse_relations_between_the_content_and_the_volume_of_the_concept_(Russian),4184865|WD~The_law_of_reverse_relations_between_the_content_and_the_volume_of_the_concept_(Russian),4184865]]'
 has_effect:
-- '[[_Standards/WikiData/WD~abstract_entity,7048977]]'
-- '[[_Standards/WikiData/WD~abstractness,64920589]]'
-opposite_of: '[[_Standards/WikiData/WD~concretization,18195733]]'
-different_from: '[[_Standards/WikiData/WD~Abstrakcja,60315249]]'
-part_of: '[[_Standards/WikiData/WD~psychological_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~abstract_entity,7048977|WD~abstract_entity,7048977]]'
+- '[[_Standards/WikiData/WD~abstractness,64920589|WD~abstractness,64920589]]'
+opposite_of: '[[_Standards/WikiData/WD~concretization,18195733|WD~concretization,18195733]]'
+different_from: '[[_Standards/WikiData/WD~Abstrakcja,60315249|WD~Abstrakcja,60315249]]'
+part_of: '[[_Standards/WikiData/WD~psychological_terminology,77468620|WD~psychological_terminology,77468620]]'
 OmegaWiki_Defined_Meaning: 849472
 Commons_category: Abstraction
 Dewey_Decimal_Classification: 153.24
@@ -189,7 +189,7 @@ dv_has_:
 
 # [[Abstraction]] 
 
-#is_/same_as :: [[../WikiData/WD~Abstraction,673661]] 
+#is_/same_as :: [[../WikiData/WD~Abstraction,673661|WD~Abstraction,673661]] 
 
 ## #has_/text_of_/abstract 
 

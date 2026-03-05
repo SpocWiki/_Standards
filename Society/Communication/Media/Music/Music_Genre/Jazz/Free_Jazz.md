@@ -27,11 +27,11 @@ aliases:
 - 自由爵士
 - 프리 재즈
 has_id_wikidata: Q211781
-instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
-subclass_of: '[[_Standards/WikiData/WD~avant_garde_jazz,790188]]'
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+subclass_of: '[[_Standards/WikiData/WD~avant_garde_jazz,790188|WD~avant_garde_jazz,790188]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 inception: 1960-01-01T00:00:00Z
 dv_has_:
   name_:

@@ -58,10 +58,10 @@ aliases:
 - 가상 공동체
 has_id_wikidata: Q210980
 subclass_of:
-- '[[_Standards/WikiData/WD~Web_2.0,131164]]'
-- '[[_Standards/WikiData/WD~community,177634]]'
-- '[[_Standards/WikiData/WD~website,35127]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~online_community,6576792]]'
+- '[[_Standards/WikiData/WD~Web_2.0,131164|WD~Web_2.0,131164]]'
+- '[[_Standards/WikiData/WD~community,177634|WD~community,177634]]'
+- '[[_Standards/WikiData/WD~website,35127|WD~website,35127]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HD%40DH.nrw%20Online-Meeting.svg
 Commons_category: Community websites
 Dewey_Decimal_Classification: 302.30285

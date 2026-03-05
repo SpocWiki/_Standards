@@ -51,15 +51,15 @@ aliases:
 - 합동
 has_id_wikidata: Q154210
 subclass_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~relation,203066]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~relation,203066|WD~relation,203066]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-notation: '[[_Standards/WikiData/WD~_,87524561]]'
-studied_by: '[[_Standards/WikiData/WD~geometry,8087]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+notation: '[[_Standards/WikiData/WD~_,87524561|WD~_,87524561]]'
+studied_by: '[[_Standards/WikiData/WD~geometry,8087|WD~geometry,8087]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quadrilateral%20congruence.png
 Unicode_character: ≅
 Commons_category: Congruence

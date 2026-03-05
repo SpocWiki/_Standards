@@ -41,7 +41,7 @@ dv_has_:
     - "[[Update_Action/Delete_Action|Delete_Action]]"
     - "[[Update_Action/Replace_Action|Replace_Action]]"
   parent_class:
-    - "[[../Action]]"
+    - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_status|has_action_status]]"
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
@@ -70,7 +70,7 @@ dv_has_:
     - "[[../../../Relation/has/has_target/has_target_collection|has_target_collection]]"
     - "[[../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../Action]]"
+  - "[[../Action|Action]]"
 dv_has_child_class:
   - "[[Update_Action/Add_Action|Add_Action]]"
   - "[[Update_Action/Delete_Action|Delete_Action]]"

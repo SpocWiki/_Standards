@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Aegean_Sea,34575]]'
+  - '[[../../../WikiData/WD~Aegean_Sea,34575|WD~Aegean_Sea,34575]]'
   - '[[/_Standards/Earth/Ocean/Mediterranean_Sea/Aegean_Sea|Aegean_Sea]]'
   - '[[/_public/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.public|Aegean_Sea.public]]'
   - '[[/_internal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.internal|Aegean_Sea.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.personal|Aegean_Sea.personal]]'
   - '[[/_secret/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.secret|Aegean_Sea.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Aegean_Sea,34575]]'
+- '[[../../../WikiData/WD~Aegean_Sea,34575|WD~Aegean_Sea,34575]]'
 - '[[/_Standards/Earth/Ocean/Mediterranean_Sea/Aegean_Sea|Aegean_Sea]]'
 - '[[/_public/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.public|Aegean_Sea.public]]'
 - '[[/_internal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.internal|Aegean_Sea.internal]]'
@@ -154,53 +154,53 @@ aliases:
 has_id_wikidata: Q34575
 area: 214000
 basin_country:
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Aegean%20Sea%20map%20bathymetry.svg
 BHCL_UUID: c56c35bc-02d2-4088-90a4-98573c348642
 Commons_category: Aegean Sea
 Commons_gallery: Aegean Sea
 coordinate_location: Point(25.3 38.5)
 country:
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
-- '[[_Standards/WikiData/WD~Q35541239,35541239]]'
-drainage_basin: '[[_Standards/WikiData/WD~Aegean_Sea_basin,84480837]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240|WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+- '[[_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]'
+drainage_basin: '[[_Standards/WikiData/WD~Aegean_Sea_basin,84480837|WD~Aegean_Sea_basin,84480837]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Sea_of_Crete,193149]]'
-- '[[_Standards/WikiData/WD~Thracian_Sea,379063]]'
-- '[[_Standards/WikiData/WD~Myrtoan_Sea,840427]]'
-- '[[_Standards/WikiData/WD~Gulf_of_İzmir,1536377]]'
-- '[[_Standards/WikiData/WD~Icarian_Sea,1640853]]'
+- '[[_Standards/WikiData/WD~Sea_of_Crete,193149|WD~Sea_of_Crete,193149]]'
+- '[[_Standards/WikiData/WD~Thracian_Sea,379063|WD~Thracian_Sea,379063]]'
+- '[[_Standards/WikiData/WD~Myrtoan_Sea,840427|WD~Myrtoan_Sea,840427]]'
+- '[[_Standards/WikiData/WD~Gulf_of_İzmir,1536377|WD~Gulf_of_İzmir,1536377]]'
+- '[[_Standards/WikiData/WD~Icarian_Sea,1640853|WD~Icarian_Sea,1640853]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aegeansea.jpg
 inflows:
-- '[[_Standards/WikiData/WD~Maritsa,204347]]'
-- '[[_Standards/WikiData/WD~Great_Menderes_River,211089]]'
-- '[[_Standards/WikiData/WD~Küçük_Menderes_River,922382]]'
-- '[[_Standards/WikiData/WD~Gediz_River,1351474]]'
-- '[[_Standards/WikiData/WD~Yassıçay,3571966]]'
-- '[[_Standards/WikiData/WD~Enipeas,5367265]]'
-- '[[_Standards/WikiData/WD~Sedountas,15057081]]'
-- '[[_Standards/WikiData/WD~Almyrós,25163977]]'
+- '[[_Standards/WikiData/WD~Maritsa,204347|WD~Maritsa,204347]]'
+- '[[_Standards/WikiData/WD~Great_Menderes_River,211089|WD~Great_Menderes_River,211089]]'
+- '[[_Standards/WikiData/WD~Küçük_Menderes_River,922382|WD~Küçük_Menderes_River,922382]]'
+- '[[_Standards/WikiData/WD~Gediz_River,1351474|WD~Gediz_River,1351474]]'
+- '[[_Standards/WikiData/WD~Yassıçay,3571966|WD~Yassıçay,3571966]]'
+- '[[_Standards/WikiData/WD~Enipeas,5367265|WD~Enipeas,5367265]]'
+- '[[_Standards/WikiData/WD~Sedountas,15057081|WD~Sedountas,15057081]]'
+- '[[_Standards/WikiData/WD~Almyrós,25163977|WD~Almyrós,25163977]]'
 instance_of:
-- '[[_Standards/WikiData/WD~drainage_basin,166620]]'
-- '[[_Standards/WikiData/WD~sea,165]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+- '[[_Standards/WikiData/WD~drainage_basin,166620|WD~drainage_basin,166620]]'
+- '[[_Standards/WikiData/WD~sea,165|WD~sea,165]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Aegean%20Sea%20in%20its%20region.svg
-named_after: '[[_Standards/WikiData/WD~Aegeus,191725]]'
+named_after: '[[_Standards/WikiData/WD~Aegeus,191725|WD~Aegeus,191725]]'
 OmegaWiki_Defined_Meaning: 738290
 P8189: 987007293966705200
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Aegean%20Sea%20Wikivoyage%20Banner.jpg
-part_of: '[[_Standards/WikiData/WD~Eastern_Mediterranean,3301962]]'
+part_of: '[[_Standards/WikiData/WD~Eastern_Mediterranean,3301962|WD~Eastern_Mediterranean,3301962]]'
 U_S_National_Archives_Identifier: 10044383
 vertical_depth: 2100
 dv_has_:
@@ -358,7 +358,7 @@ dv_has_:
 
 # [[Aegean_Sea]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Aegean_Sea,34575]]
+#is_/same_as :: [[../../../WikiData/WD~Aegean_Sea,34575|WD~Aegean_Sea,34575]]
 
 ## #has_/map  
 

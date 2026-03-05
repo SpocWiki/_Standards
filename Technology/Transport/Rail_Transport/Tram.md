@@ -85,38 +85,38 @@ aliases:
 has_id_wikidata: Q3407658
 Dewey_Decimal_Classification: 388.46
 has_part_s_:
-- '[[_Standards/WikiData/WD~electric_motor,72313]]'
-- "[[_Standards/WikiData/WD~train_driver's_cab,1418299]]"
-- '[[_Standards/WikiData/WD~coach,1588072]]'
-- '[[_Standards/WikiData/WD~current_collector,4459608]]'
-- '[[_Standards/WikiData/WD~door,36794]]'
+- '[[_Standards/WikiData/WD~electric_motor,72313|WD~electric_motor,72313]]'
+- "[[_Standards/WikiData/WD~train_driver's_cab,1418299|WD~train_driver's_cab,1418299]]"
+- '[[_Standards/WikiData/WD~coach,1588072|WD~coach,1588072]]'
+- '[[_Standards/WikiData/WD~current_collector,4459608|WD~current_collector,4459608]]'
+- '[[_Standards/WikiData/WD~door,36794|WD~door,36794]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~railroad_car,208502]]'
-- '[[_Standards/WikiData/WD~motor_vehicle,752870]]'
-- '[[_Standards/WikiData/WD~rolling_stock,1414135]]'
-- '[[_Standards/WikiData/WD~light_rail_vehicle,15825863]]'
+- '[[_Standards/WikiData/WD~railroad_car,208502|WD~railroad_car,208502]]'
+- '[[_Standards/WikiData/WD~motor_vehicle,752870|WD~motor_vehicle,752870]]'
+- '[[_Standards/WikiData/WD~rolling_stock,1414135|WD~rolling_stock,1414135]]'
+- '[[_Standards/WikiData/WD~light_rail_vehicle,15825863|WD~light_rail_vehicle,15825863]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-- '[[_Standards/WikiData/WD~elektrichka,1326583]]'
-- '[[_Standards/WikiData/WD~Q3537007,3537007]]'
-facet_of: '[[_Standards/WikiData/WD~urban_transport,1585110]]'
-opposite_of: '[[_Standards/WikiData/WD~Vollbahn,2532434]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~electric_tram,2625479]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_tram,5876417]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Trams,8210711]]'
+- '[[_Standards/WikiData/WD~elektrichka,1326583|WD~elektrichka,1326583]]'
+- '[[_Standards/WikiData/WD~Q3537007,3537007|WD~Q3537007,3537007]]'
+facet_of: '[[_Standards/WikiData/WD~urban_transport,1585110|WD~urban_transport,1585110]]'
+opposite_of: '[[_Standards/WikiData/WD~Vollbahn,2532434|WD~Vollbahn,2532434]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~electric_tram,2625479|WD~electric_tram,2625479]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_tram,5876417|WD~Template_Infobox_tram,5876417]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Trams,8210711|WD~Portal_Trams,8210711]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Technology,9497549]]'
-- '[[_Standards/WikiData/WD~WikiProject_Streetcars,14914962]]'
-- '[[_Standards/WikiData/WD~WikiProject_Trains,53051]]'
-- '[[_Standards/WikiData/WD~WikiProject_Transport,53057]]'
-has_use: '[[_Standards/WikiData/WD~tram_system,15640053]]'
-part_of: '[[_Standards/WikiData/WD~tram_system,15640053]]'
+- '[[_Standards/WikiData/WD~WikiProject_Technology,9497549|WD~WikiProject_Technology,9497549]]'
+- '[[_Standards/WikiData/WD~WikiProject_Streetcars,14914962|WD~WikiProject_Streetcars,14914962]]'
+- '[[_Standards/WikiData/WD~WikiProject_Trains,53051|WD~WikiProject_Trains,53051]]'
+- '[[_Standards/WikiData/WD~WikiProject_Transport,53057|WD~WikiProject_Transport,53057]]'
+has_use: '[[_Standards/WikiData/WD~tram_system,15640053|WD~tram_system,15640053]]'
+part_of: '[[_Standards/WikiData/WD~tram_system,15640053|WD~tram_system,15640053]]'
 properties_for_this_type:
 - country of origin
 - track gauge

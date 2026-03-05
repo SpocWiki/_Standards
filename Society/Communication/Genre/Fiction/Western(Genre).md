@@ -3,16 +3,16 @@ aliases:
   - Western
 has_id_wikidata: Q21590660
 different_from:
-  - "[[_Standards/WikiData/WD~history_of_art_in_Europe,406905]]"
-  - "[[_Standards/WikiData/WD~Western_painting,3756540]]"
+  - "[[_Standards/WikiData/WD~history_of_art_in_Europe,406905|WD~history_of_art_in_Europe,406905]]"
+  - "[[_Standards/WikiData/WD~Western_painting,3756540|WD~Western_painting,3756540]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~artistic_theme,1406161]]"
-  - "[[_Standards/WikiData/WD~fiction_genre,108465955]]"
-main_subject: "[[_Standards/WikiData/WD~Wild_West,14947899]]"
-has_list: "[[_Standards/WikiData/WD~list_of_Western_subgenres,115775801]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Western_(genre),116949274]]"
-subclass_of: "[[_Standards/WikiData/WD~fiction,8253]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~artistic_theme,1406161|WD~artistic_theme,1406161]]"
+  - "[[_Standards/WikiData/WD~fiction_genre,108465955|WD~fiction_genre,108465955]]"
+main_subject: "[[_Standards/WikiData/WD~Wild_West,14947899|WD~Wild_West,14947899]]"
+has_list: "[[_Standards/WikiData/WD~list_of_Western_subgenres,115775801|WD~list_of_Western_subgenres,115775801]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Western_(genre),116949274|WD~Template_Western_(genre),116949274]]"
+subclass_of: "[[_Standards/WikiData/WD~fiction,8253|WD~fiction,8253]]"
+country_of_origin: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 social_media_followers: 18408
 native_label: Western
 subreddit: Westerns

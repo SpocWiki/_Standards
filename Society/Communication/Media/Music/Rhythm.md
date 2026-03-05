@@ -60,20 +60,20 @@ aliases:
 - 节奏
 - 리듬
 has_id_wikidata: Q170406
-different_from: '[[_Standards/WikiData/WD~Ritm,250958]]'
+different_from: '[[_Standards/WikiData/WD~Ritm,250958|WD~Ritm,250958]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-uses: '[[_Standards/WikiData/WD~isochrony,968561]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+uses: '[[_Standards/WikiData/WD~isochrony,968561|WD~isochrony,968561]]'
 instance_of:
-- '[[_Standards/WikiData/WD~activity,1914636]]'
-- '[[_Standards/WikiData/WD~elements_of_music,11696608]]'
+- '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~elements_of_music,11696608|WD~elements_of_music,11696608]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~pace,3306516]]'
-- '[[_Standards/WikiData/WD~Q117898917,117898917]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q7216645,7216645]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12688210,12688210]]'
-practiced_by: '[[_Standards/WikiData/WD~rhythmist,124738271]]'
+- '[[_Standards/WikiData/WD~pace,3306516|WD~pace,3306516]]'
+- '[[_Standards/WikiData/WD~Q117898917,117898917|WD~Q117898917,117898917]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q7216645,7216645|WD~Q7216645,7216645]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12688210,12688210|WD~Q12688210,12688210]]'
+practiced_by: '[[_Standards/WikiData/WD~rhythmist,124738271|WD~rhythmist,124738271]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/8beat%20example%2001.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/RITM.html
 Commons_category: Rhythms

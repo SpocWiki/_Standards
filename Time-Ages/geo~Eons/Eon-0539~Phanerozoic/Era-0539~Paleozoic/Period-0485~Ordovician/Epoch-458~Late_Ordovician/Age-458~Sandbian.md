@@ -26,12 +26,12 @@ aliases:
 - 산드뷔절
 has_id_wikidata: Q1807140
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Södra_Sandby,569800]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Sandbian,30869528]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Sandbian,134737960]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Södra_Sandby,569800|WD~Södra_Sandby,569800]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Sandbian,30869528|WD~Category_Sandbian,30869528]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Sandbian,134737960|WD~GSSP_for_the_base_of_Sandbian,134737960]]'
 sRGB_color_hex_triplet: 72D0A9
 end_time: -453000000-01-01T00:00:00Z
 coordinate_location: Point(13.3255 55.7137)
@@ -139,7 +139,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 458.4 to 453.0 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-450_Ma_(Katian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-450_Ma_(Katian_Age).png|Earth-450_Ma_(Katian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

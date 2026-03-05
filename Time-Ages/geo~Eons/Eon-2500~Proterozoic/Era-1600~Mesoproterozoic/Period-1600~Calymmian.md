@@ -47,10 +47,10 @@ aliases:
 - 칼리미아기
 has_id_wikidata: Q876805
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Calymmian,131228499]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Calymmian,131228499|WD~Category_Calymmian,131228499]]'
 end_time: -1400000000-01-01T00:00:00Z
 Commons_category: Calymmian
 start_time: -1600000000-01-01T00:00:00Z
@@ -119,7 +119,7 @@ dv_has_:
     started: -1600000000
     stopped: -1400000000
 dv_is_:
-  part_of: '[[../../Eon-0539~Phanerozoic/Era-0251~Mesozoic]]'
+  part_of: '[[../../Eon-0539~Phanerozoic/Era-0251~Mesozoic|Era-0251~Mesozoic]]'
   same_as:
   - '[[WD~Calymmian,876805]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian|Period-1600~Calymmian]]'
@@ -132,7 +132,7 @@ dv_is_:
 dv_has_duration_years: 2.000e+8
 dv_has_previous_item: '[[../Era-2500~Paleoproterozoic/Period-1800~Statherian|Period-1800~Statherian]]'
 dv_has_next_item: '[[Period-1400~Ectasian]]'
-dv_is_part_of: '[[../../Eon-0539~Phanerozoic/Era-0251~Mesozoic]]'
+dv_is_part_of: '[[../../Eon-0539~Phanerozoic/Era-0251~Mesozoic|Era-0251~Mesozoic]]'
 dv_is_same_as:
 - '[[WD~Calymmian,876805]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian|Period-1600~Calymmian]]'

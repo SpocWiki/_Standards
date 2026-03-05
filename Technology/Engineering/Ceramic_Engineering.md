@@ -34,13 +34,13 @@ aliases:
 - 세라믹공학
 has_id_wikidata: Q1936199
 subclass_of:
-- '[[_Standards/WikiData/WD~manufacturing,187939]]'
-- '[[_Standards/WikiData/WD~materials_science,228736]]'
-- '[[_Standards/WikiData/WD~process,10843872]]'
+- '[[_Standards/WikiData/WD~manufacturing,187939|WD~manufacturing,187939]]'
+- '[[_Standards/WikiData/WD~materials_science,228736|WD~materials_science,228736]]'
+- '[[_Standards/WikiData/WD~process,10843872|WD~process,10843872]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
-practiced_by: '[[_Standards/WikiData/WD~ceramic_engineer,114244126]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
+practiced_by: '[[_Standards/WikiData/WD~ceramic_engineer,114244126|WD~ceramic_engineer,114244126]]'
 All_Science_Journal_Classification_Codes: 2503
 Commons_category: Ceramic engineering
 dv_has_:

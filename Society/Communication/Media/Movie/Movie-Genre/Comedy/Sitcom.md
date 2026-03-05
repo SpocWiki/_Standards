@@ -61,14 +61,14 @@ aliases:
 - 處境喜劇
 - 시트콤
 has_id_wikidata: Q170238
-different_from: '[[_Standards/WikiData/WD~comedy_film,157443]]'
+different_from: '[[_Standards/WikiData/WD~comedy_film,157443|WD~comedy_film,157443]]'
 instance_of:
-- '[[_Standards/WikiData/WD~comedic_genre,5151404]]'
-- '[[_Standards/WikiData/WD~television_series_genre,12343431]]'
-- '[[_Standards/WikiData/WD~radio_genre,15961983]]'
+- '[[_Standards/WikiData/WD~comedic_genre,5151404|WD~comedic_genre,5151404]]'
+- '[[_Standards/WikiData/WD~television_series_genre,12343431|WD~television_series_genre,12343431]]'
+- '[[_Standards/WikiData/WD~radio_genre,15961983|WD~radio_genre,15961983]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~comedy_television_series,9335576]]'
-- '[[_Standards/WikiData/WD~serial,15709880]]'
+- '[[_Standards/WikiData/WD~comedy_television_series,9335576|WD~comedy_television_series,9335576]]'
+- '[[_Standards/WikiData/WD~serial,15709880|WD~serial,15709880]]'
 OmegaWiki_Defined_Meaning: 1289421
 identifier_in_filmpolski_movie_database: 40576
 IMDb_keyword:

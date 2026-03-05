@@ -58,20 +58,20 @@ aliases:
 - 르네상스 미술
 has_id_wikidata: Q1133779
 has_part_s_:
-- '[[_Standards/WikiData/WD~Renaissance_music,201405]]'
-- '[[_Standards/WikiData/WD~Renaissance_architecture,236122]]'
-- '[[_Standards/WikiData/WD~Renaissance_sculpture,936588]]'
-- '[[_Standards/WikiData/WD~Renaissance_dance,978825]]'
-- '[[_Standards/WikiData/WD~Renaissance_literature,1781608]]'
-- '[[_Standards/WikiData/WD~Renaissance_theatre,3527942]]'
-- '[[_Standards/WikiData/WD~Renaissance_painting,15885248]]'
+- '[[_Standards/WikiData/WD~Renaissance_music,201405|WD~Renaissance_music,201405]]'
+- '[[_Standards/WikiData/WD~Renaissance_architecture,236122|WD~Renaissance_architecture,236122]]'
+- '[[_Standards/WikiData/WD~Renaissance_sculpture,936588|WD~Renaissance_sculpture,936588]]'
+- '[[_Standards/WikiData/WD~Renaissance_dance,978825|WD~Renaissance_dance,978825]]'
+- '[[_Standards/WikiData/WD~Renaissance_literature,1781608|WD~Renaissance_literature,1781608]]'
+- '[[_Standards/WikiData/WD~Renaissance_theatre,3527942|WD~Renaissance_theatre,3527942]]'
+- '[[_Standards/WikiData/WD~Renaissance_painting,15885248|WD~Renaissance_painting,15885248]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_style,1792644]]'
-- '[[_Standards/WikiData/WD~aspect_in_a_historical_period,111676757]]'
-subclass_of: '[[_Standards/WikiData/WD~Western_art,31793078]]'
+- '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~aspect_in_a_historical_period,111676757|WD~aspect_in_a_historical_period,111676757]]'
+subclass_of: '[[_Standards/WikiData/WD~Western_art,31793078|WD~Western_art,31793078]]'
 facet_of:
-- '[[_Standards/WikiData/WD~history_of_the_Renaissance,112647812]]'
-- '[[_Standards/WikiData/WD~art_history,50637]]'
+- '[[_Standards/WikiData/WD~history_of_the_Renaissance,112647812|WD~history_of_the_Renaissance,112647812]]'
+- '[[_Standards/WikiData/WD~art_history,50637|WD~art_history,50637]]'
 Commons_gallery: Renaissance art
 Commons_category: Renaissance art
 Gujarati_Vishwakosh_entry: રેનેસાંસ-કલા-renaissance-art

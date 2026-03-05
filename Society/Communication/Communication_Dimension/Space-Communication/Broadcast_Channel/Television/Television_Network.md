@@ -57,8 +57,8 @@ aliases:
 - 電視聯播網
 - 텔레비전 네트워크
 has_id_wikidata: Q1254874
-subclass_of: '[[_Standards/WikiData/WD~broadcast_network,141683]]'
-different_from: '[[_Standards/WikiData/WD~television_channel,2001305]]'
+subclass_of: '[[_Standards/WikiData/WD~broadcast_network,141683|WD~broadcast_network,141683]]'
+different_from: '[[_Standards/WikiData/WD~television_channel,2001305|WD~television_channel,2001305]]'
 Commons_category: Television channels
 dv_has_:
   name_:

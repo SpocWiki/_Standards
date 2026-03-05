@@ -17,9 +17,9 @@ aliases:
 - ジャイヴ (ダンス)
 - 捷舞
 has_id_wikidata: Q17237
-subclass_of: '[[_Standards/WikiData/WD~partner_dance,280336]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
-different_from: '[[_Standards/WikiData/WD~Jive,17239]]'
+subclass_of: '[[_Standards/WikiData/WD~partner_dance,280336|WD~partner_dance,280336]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104|WD~type_of_dance,107357104]]'
+different_from: '[[_Standards/WikiData/WD~Jive,17239|WD~Jive,17239]]'
 Commons_category: Jive
 image: http://commons.wikimedia.org/wiki/Special:FilePath/20151121%20WDSF%20Austrian%20Open%202015%207813.jpg
 dv_has_:

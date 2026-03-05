@@ -84,18 +84,18 @@ aliases:
 - 콘스탄티노폴리스의 함락
 has_id_wikidata: Q160077
 instance_of:
-- '[[_Standards/WikiData/WD~battle,178561]]'
-- '[[_Standards/WikiData/WD~siege,188055]]'
-- '[[_Standards/WikiData/WD~conquest,1361229]]'
-different_from: '[[_Standards/WikiData/WD~Fall_of_Constantinople,1361212]]'
+- '[[_Standards/WikiData/WD~battle,178561|WD~battle,178561]]'
+- '[[_Standards/WikiData/WD~siege,188055|WD~siege,188055]]'
+- '[[_Standards/WikiData/WD~conquest,1361229|WD~conquest,1361229]]'
+different_from: '[[_Standards/WikiData/WD~Fall_of_Constantinople,1361212|WD~Fall_of_Constantinople,1361212]]'
 coordinate_location: Point(28.935 41.03)
 end_time: 1453-05-29T00:00:00Z
 start_time: 1453-04-15T00:00:00Z
 participant:
-- '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
-- '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
-country: '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
-locations: '[[_Standards/WikiData/WD~Constantinople,16869]]'
+- '[[_Standards/WikiData/WD~Byzantine_Empire,12544|WD~Byzantine_Empire,12544]]'
+- '[[_Standards/WikiData/WD~Ottoman_Empire,12560|WD~Ottoman_Empire,12560]]'
+country: '[[_Standards/WikiData/WD~Byzantine_Empire,12544|WD~Byzantine_Empire,12544]]'
+locations: '[[_Standards/WikiData/WD~Constantinople,16869|WD~Constantinople,16869]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Le%20si%C3%A8ge%20de%20Constantinople%20%281453%29%20by%20Jean%20Le%20Tavernier%20after%201455.jpg
 Commons_category: Fall of Constantinople (1453)
 dv_is_:

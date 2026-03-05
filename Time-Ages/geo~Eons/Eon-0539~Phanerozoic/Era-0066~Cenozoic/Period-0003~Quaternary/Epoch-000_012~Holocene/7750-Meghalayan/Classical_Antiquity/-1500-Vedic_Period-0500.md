@@ -170,10 +170,10 @@ aliases:
 aliases:
 has_id_wikidata: Q215262
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~civilization,8432]]"
-country: "[[_Standards/WikiData/WD~India,668]]"
-named_after: "[[_Standards/WikiData/WD~Vedas,39950]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]"
+  - "[[_Standards/WikiData/WD~civilization,8432|WD~civilization,8432]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+named_after: "[[_Standards/WikiData/WD~Vedas,39950|WD~Vedas,39950]]"
 end_time: -0500-01-01T00:00:00Z
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Early%20Vedic%20Culture%20%281700-1100%20BCE%29.png

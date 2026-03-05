@@ -220,16 +220,16 @@ aliases:
 - "\U000110A9\U000110B0\U00011094\U000110A1\U000110B0\U000110A2\U000110B2"
 has_id_wikidata: Q5119
 different_from:
-- '[[_Standards/WikiData/WD~seat,470540]]'
-- '[[_Standards/WikiData/WD~The_Capitol,709151]]'
-- '[[_Standards/WikiData/WD~administrative_centre,1306755]]'
-- '[[_Standards/WikiData/WD~Q20451116,20451116]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~chef_lieu,956214]]'
+- '[[_Standards/WikiData/WD~seat,470540|WD~seat,470540]]'
+- '[[_Standards/WikiData/WD~The_Capitol,709151|WD~The_Capitol,709151]]'
+- '[[_Standards/WikiData/WD~administrative_centre,1306755|WD~administrative_centre,1306755]]'
+- '[[_Standards/WikiData/WD~Q20451116,20451116|WD~Q20451116,20451116]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~chef_lieu,956214|WD~chef_lieu,956214]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~administrative_centre,1306755]]'
-- '[[_Standards/WikiData/WD~city,515]]'
-opposite_of: '[[_Standards/WikiData/WD~former_capital,27554677]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~largest_city,51929311]]'
+- '[[_Standards/WikiData/WD~administrative_centre,1306755|WD~administrative_centre,1306755]]'
+- '[[_Standards/WikiData/WD~city,515|WD~city,515]]'
+opposite_of: '[[_Standards/WikiData/WD~former_capital,27554677|WD~former_capital,27554677]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~largest_city,51929311|WD~largest_city,51929311]]'
 main_Wikidata_property:
 - capital of
 - capital

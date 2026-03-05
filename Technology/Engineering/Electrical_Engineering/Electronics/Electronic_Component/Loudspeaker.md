@@ -92,30 +92,30 @@ aliases:
 - 音響喇叭
 - 스피커
 has_id_wikidata: Q570
-creator: '[[_Standards/WikiData/WD~Dieter_Rams,76427]]'
+creator: '[[_Standards/WikiData/WD~Dieter_Rams,76427|WD~Dieter_Rams,76427]]'
 part_of:
-- '[[_Standards/WikiData/WD~headphone,186819]]'
-- '[[_Standards/WikiData/WD~megaphone,216217]]'
-- '[[_Standards/WikiData/WD~loudspeaker_box,390573]]'
-- '[[_Standards/WikiData/WD~transistor_radio,506260]]'
-- '[[_Standards/WikiData/WD~computer_speaker,1209975]]'
-- '[[_Standards/WikiData/WD~boombox,1358666]]'
-- '[[_Standards/WikiData/WD~Line_array,1826385]]'
-- '[[_Standards/WikiData/WD~clock_radio,3928875]]'
-- '[[_Standards/WikiData/WD~wireless_speaker,8026900]]'
-- '[[_Standards/WikiData/WD~telephone,11035]]'
+- '[[_Standards/WikiData/WD~headphone,186819|WD~headphone,186819]]'
+- '[[_Standards/WikiData/WD~megaphone,216217|WD~megaphone,216217]]'
+- '[[_Standards/WikiData/WD~loudspeaker_box,390573|WD~loudspeaker_box,390573]]'
+- '[[_Standards/WikiData/WD~transistor_radio,506260|WD~transistor_radio,506260]]'
+- '[[_Standards/WikiData/WD~computer_speaker,1209975|WD~computer_speaker,1209975]]'
+- '[[_Standards/WikiData/WD~boombox,1358666|WD~boombox,1358666]]'
+- '[[_Standards/WikiData/WD~Line_array,1826385|WD~Line_array,1826385]]'
+- '[[_Standards/WikiData/WD~clock_radio,3928875|WD~clock_radio,3928875]]'
+- '[[_Standards/WikiData/WD~wireless_speaker,8026900|WD~wireless_speaker,8026900]]'
+- '[[_Standards/WikiData/WD~telephone,11035|WD~telephone,11035]]'
 different_from:
-- '[[_Standards/WikiData/WD~megaphone,216217]]'
-- '[[_Standards/WikiData/WD~loudspeaker_box,390573]]'
-- '[[_Standards/WikiData/WD~amplifier,27094]]'
-- '[[_Standards/WikiData/WD~loudspeaker_enclosure,59123]]'
+- '[[_Standards/WikiData/WD~megaphone,216217|WD~megaphone,216217]]'
+- '[[_Standards/WikiData/WD~loudspeaker_box,390573|WD~loudspeaker_box,390573]]'
+- '[[_Standards/WikiData/WD~amplifier,27094|WD~amplifier,27094]]'
+- '[[_Standards/WikiData/WD~loudspeaker_enclosure,59123|WD~loudspeaker_enclosure,59123]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sound_generator,267228]]'
-- '[[_Standards/WikiData/WD~sound_transducer,1718024]]'
-- '[[_Standards/WikiData/WD~electrical_device,3749263]]'
+- '[[_Standards/WikiData/WD~sound_generator,267228|WD~sound_generator,267228]]'
+- '[[_Standards/WikiData/WD~sound_transducer,1718024|WD~sound_transducer,1718024]]'
+- '[[_Standards/WikiData/WD~electrical_device,3749263|WD~electrical_device,3749263]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Edward_Washburn_Kellogg,1293995]]'
-- '[[_Standards/WikiData/WD~Chester_Williams_Rice,5093769]]'
+- '[[_Standards/WikiData/WD~Edward_Washburn_Kellogg,1293995|WD~Edward_Washburn_Kellogg,1293995]]'
+- '[[_Standards/WikiData/WD~Chester_Williams_Rice,5093769|WD~Chester_Williams_Rice,5093769]]'
 Nomenclature_for_Museum_Cataloging: 11249
 U_S_National_Archives_Identifier: 10647904
 image:

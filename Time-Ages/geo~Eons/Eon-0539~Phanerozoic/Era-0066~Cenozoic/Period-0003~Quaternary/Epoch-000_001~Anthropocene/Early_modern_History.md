@@ -83,23 +83,23 @@ aliases:
 has_id_wikidata: Q5308718
 Commons_category: Early Modern period
 Commons_gallery: Early Modern period
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 end_time: 1750-06
-follows: '[[_Standards/WikiData/WD~Postclassical_Era,7234117]]'
+follows: '[[_Standards/WikiData/WD~Postclassical_Era,7234117|WD~Postclassical_Era,7234117]]'
 has_time_started: 1500-06
 has_time_stopped: 1750-06
-history_of_topic: '[[_Standards/WikiData/WD~Early_Modern_history,109120185]]'
+history_of_topic: '[[_Standards/WikiData/WD~Early_Modern_history,109120185|WD~Early_Modern_history,109120185]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leonhard%20Euler%20World%20Map%20AD1760.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~era,6428674]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~era,6428674|WD~era,6428674]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
 MeSH_tree_code: K01.400.475
-part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
+part_of: '[[_Standards/WikiData/WD~periodization,816829|WD~periodization,816829]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Early%20modern%20period.mp3
 start_time: 1500-06
 dv_is_:
   same_as:
-  - '[[../../../../../../WikiData/WD~Early_modern_period,5308718_WD~Early_modern_period,5308718]]'
+  - '[[../../../../../../WikiData/WD~Early_modern_period,5308718_WD~Early_modern_period,5308718|WD~Early_modern_period,5308718_WD~Early_modern_period,5308718]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History|Early_modern_History]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History.public|Early_modern_History.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History.internal|Early_modern_History.internal]]'
@@ -203,7 +203,7 @@ dv_has_:
     started: 1500-06-01T00:00:00.000+00:53
     stopped: 1750-06-01T00:00:00.000+00:53
 dv_is_same_as:
-- '[[../../../../../../WikiData/WD~Early_modern_period,5308718_WD~Early_modern_period,5308718]]'
+- '[[../../../../../../WikiData/WD~Early_modern_period,5308718_WD~Early_modern_period,5308718|WD~Early_modern_period,5308718_WD~Early_modern_period,5308718]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History|Early_modern_History]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History.public|Early_modern_History.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History.internal|Early_modern_History.internal]]'
@@ -217,7 +217,7 @@ dv_has_duration_: P250Y
 
 # [[Early_modern_History]]  
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Early_modern_period,5308718_WD~Early_modern_period,5308718]]  
+#is_/same_as :: [[../../../../../../WikiData/WD~Early_modern_period,5308718_WD~Early_modern_period,5308718|WD~Early_modern_period,5308718_WD~Early_modern_period,5308718]]  
 
 #has_/time_/started :: `=this.has_time_started`
 #has_/time_/stopped ::  `=this.has_time_stopped`

@@ -161,35 +161,35 @@ aliases:
 - 나이프
 has_id_wikidata: Q32489
 used_by:
-- '[[_Standards/WikiData/WD~cook,156839]]'
-- '[[_Standards/WikiData/WD~butcher,329737]]'
-- '[[_Standards/WikiData/WD~murderer,931260]]'
+- '[[_Standards/WikiData/WD~cook,156839|WD~cook,156839]]'
+- '[[_Standards/WikiData/WD~butcher,329737|WD~butcher,329737]]'
+- '[[_Standards/WikiData/WD~murderer,931260|WD~murderer,931260]]'
 has_use:
-- '[[_Standards/WikiData/WD~cutting,196751]]'
-- '[[_Standards/WikiData/WD~stabbing_weapon,1514280]]'
-- '[[_Standards/WikiData/WD~throwing_weapon,1566976]]'
-- '[[_Standards/WikiData/WD~collection,2668072]]'
+- '[[_Standards/WikiData/WD~cutting,196751|WD~cutting,196751]]'
+- '[[_Standards/WikiData/WD~stabbing_weapon,1514280|WD~stabbing_weapon,1514280]]'
+- '[[_Standards/WikiData/WD~throwing_weapon,1566976|WD~throwing_weapon,1566976]]'
+- '[[_Standards/WikiData/WD~collection,2668072|WD~collection,2668072]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~blade,330946]]'
-- '[[_Standards/WikiData/WD~tang,1355195]]'
-- '[[_Standards/WikiData/WD~tool_handle,17504947]]'
+- '[[_Standards/WikiData/WD~blade,330946|WD~blade,330946]]'
+- '[[_Standards/WikiData/WD~tang,1355195|WD~tang,1355195]]'
+- '[[_Standards/WikiData/WD~tool_handle,17504947|WD~tool_handle,17504947]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~stabbing_weapon,1514280]]'
-- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
-- '[[_Standards/WikiData/WD~bladed_object,28692583]]'
-- '[[_Standards/WikiData/WD~physical_tool,39546]]'
+- '[[_Standards/WikiData/WD~stabbing_weapon,1514280|WD~stabbing_weapon,1514280]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]'
+- '[[_Standards/WikiData/WD~bladed_object,28692583|WD~bladed_object,28692583]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~table_knife,3130638]]'
-- '[[_Standards/WikiData/WD~puukko,16271688]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Knives,14444728]]'
+- '[[_Standards/WikiData/WD~table_knife,3130638|WD~table_knife,3130638]]'
+- '[[_Standards/WikiData/WD~puukko,16271688|WD~puukko,16271688]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Knives,14444728|WD~Template_Knives,14444728]]'
 OmegaWiki_Defined_Meaning: 5873
 Nomenclature_for_Museum_Cataloging: 6594
 Commons_category: Knives
@@ -429,7 +429,7 @@ dv_has_:
 > - scouts, campers, and hikers carry a pocketknife; 
 > - there are kitchen knives for preparing foods 
 > - (the chef's knife, the paring knife, bread knife, cleaver), 
-> - [[../../../../Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Table_Knife]] (butter knives and steak knives), 
+> - [[../../../../Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Table_Knife|Table_Knife]] (butter knives and steak knives), 
 > - weapons (daggers or switchblades), 
 > - knives for throwing or juggling, and 
 > - knives for religious ceremony or display (the kirpan).

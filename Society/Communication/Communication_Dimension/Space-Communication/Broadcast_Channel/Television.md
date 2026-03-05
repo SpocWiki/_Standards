@@ -178,34 +178,34 @@ Colon_Classification: D65,45
 Commons_category: Television
 Commons_gallery: Television
 described_by_source:
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 Dewey_Decimal_Classification: 791.45
-different_from: '[[_Standards/WikiData/WD~Internet_television,841645]]'
+different_from: '[[_Standards/WikiData/WD~Internet_television,841645|WD~Internet_television,841645]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~John_Logie_Baird,133544]]'
-- '[[_Standards/WikiData/WD~Philo_Farnsworth,360098]]'
-- '[[_Standards/WikiData/WD~Charles_Francis_Jenkins,1064424]]'
-- '[[_Standards/WikiData/WD~Kenjirō_Takayanagi,1473588]]'
+- '[[_Standards/WikiData/WD~John_Logie_Baird,133544|WD~John_Logie_Baird,133544]]'
+- '[[_Standards/WikiData/WD~Philo_Farnsworth,360098|WD~Philo_Farnsworth,360098]]'
+- '[[_Standards/WikiData/WD~Charles_Francis_Jenkins,1064424|WD~Charles_Francis_Jenkins,1064424]]'
+- '[[_Standards/WikiData/WD~Kenjirō_Takayanagi,1473588|WD~Kenjirō_Takayanagi,1473588]]'
 exact_match: http://cv.iptc.org/newscodes/subjectcode/01016000
 GS1_GPC_code:
 - 10001400
 - 68010100
 has_part_s_:
-- '[[_Standards/WikiData/WD~television_network,1254874]]'
-- '[[_Standards/WikiData/WD~television_station,1616075]]'
-- '[[_Standards/WikiData/WD~television_channel,2001305]]'
-- '[[_Standards/WikiData/WD~people-meter,3780321]]'
-- '[[_Standards/WikiData/WD~television_watcher,3982960]]'
-- '[[_Standards/WikiData/WD~television_set,8075]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_television,1517344]]'
+- '[[_Standards/WikiData/WD~television_network,1254874|WD~television_network,1254874]]'
+- '[[_Standards/WikiData/WD~television_station,1616075|WD~television_station,1616075]]'
+- '[[_Standards/WikiData/WD~television_channel,2001305|WD~television_channel,2001305]]'
+- '[[_Standards/WikiData/WD~people-meter,3780321|WD~people-meter,3780321]]'
+- '[[_Standards/WikiData/WD~television_watcher,3982960|WD~television_watcher,3982960]]'
+- '[[_Standards/WikiData/WD~television_set,8075|WD~television_set,8075]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_television,1517344|WD~history_of_television,1517344]]'
 IAB_code: 640
 IEV_number: 701-01-15
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LG%20smart%20TV.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~infrastructure,121359]]'
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~type_of_mass_media,121132955]]'
+- '[[_Standards/WikiData/WD~infrastructure,121359|WD~infrastructure,121359]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~type_of_mass_media,121132955|WD~type_of_mass_media,121132955]]'
 International_Standard_Industrial_Classification_code_Rev_4: 6020
 IPTC_NewsCode: mediatopic/20000051
 Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/RADIO_I_TELEVIDENIE.html
@@ -217,23 +217,23 @@ MeSH_tree_code:
 - L01.462.500.847.823
 Nomenclature_for_Museum_Cataloging: 11342
 OmegaWiki_Defined_Meaning: 3734
-patron_saint: '[[_Standards/WikiData/WD~Clare_of_Assisi,191107]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131926,27131926]]'
+patron_saint: '[[_Standards/WikiData/WD~Clare_of_Assisi,191107|WD~Clare_of_Assisi,191107]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131926,27131926|WD~Q27131926,27131926]]'
 PhilPapers_topic: television
-practiced_by: '[[_Standards/WikiData/WD~announcer,1371925]]'
+practiced_by: '[[_Standards/WikiData/WD~announcer,1371925|WD~announcer,1371925]]'
 product_material_or_service_produced_or_provided:
-- '[[_Standards/WikiData/WD~concert_film,430525]]'
-- '[[_Standards/WikiData/WD~television_program,15416]]'
+- '[[_Standards/WikiData/WD~concert_film,430525|WD~concert_film,430525]]'
+- '[[_Standards/WikiData/WD~television_program,15416|WD~television_program,15416]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~broadcasting,15078788]]'
-- '[[_Standards/WikiData/WD~mass_media,11033]]'
+- '[[_Standards/WikiData/WD~broadcasting,15078788|WD~broadcasting,15078788]]'
+- '[[_Standards/WikiData/WD~mass_media,11033|WD~mass_media,11033]]'
 subreddit: television
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Q25719785,25719785]]'
-- '[[_Standards/WikiData/WD~Template_Television,26837387]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Television,10316697]]'
+- '[[_Standards/WikiData/WD~Q25719785,25719785|WD~Q25719785,25719785]]'
+- '[[_Standards/WikiData/WD~Template_Television,26837387|WD~Template_Television,26837387]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Television,10316697|WD~Portal_Television,10316697]]'
 UMLS_CUI: C0039461
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier: 10643842
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Around%20the%20Corner%20%281937%29%2024fps%20selection.webm
 dv_has_:

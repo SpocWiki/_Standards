@@ -67,16 +67,16 @@ aliases:
 - 지하실
 has_id_wikidata: Q234852
 subclass_of:
-- '[[_Standards/WikiData/WD~storey,831691]]'
-- '[[_Standards/WikiData/WD~subterranea,863404]]'
-- '[[_Standards/WikiData/WD~building_component,19603939]]'
+- '[[_Standards/WikiData/WD~storey,831691|WD~storey,831691]]'
+- '[[_Standards/WikiData/WD~subterranea,863404|WD~subterranea,863404]]'
+- '[[_Standards/WikiData/WD~building_component,19603939|WD~building_component,19603939]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-different_from: '[[_Standards/WikiData/WD~cellar,43275450]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+different_from: '[[_Standards/WikiData/WD~cellar,43275450|WD~cellar,43275450]]'
 part_of:
-- '[[_Standards/WikiData/WD~house,3947]]'
-- '[[_Standards/WikiData/WD~building,41176]]'
+- '[[_Standards/WikiData/WD~house,3947|WD~house,3947]]'
+- '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
 OmegaWiki_Defined_Meaning: 914882
 spoken_text_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Es-S%C3%B3tano-article.ogg

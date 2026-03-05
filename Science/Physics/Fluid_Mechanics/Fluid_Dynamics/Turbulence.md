@@ -57,13 +57,13 @@ aliases:
 - 난류 현상
 - 란류현상
 has_id_wikidata: Q190132
-subclass_of: '[[_Standards/WikiData/WD~motion,79782]]'
-class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~fluid,102205]]'
-opposite_of: '[[../../../../WikiData/WD~laminar_flow,189452]]'
+subclass_of: '[[_Standards/WikiData/WD~motion,79782|WD~motion,79782]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~fluid,102205|WD~fluid,102205]]'
+opposite_of: '[[../../../../WikiData/WD~laminar_flow,189452|WD~laminar_flow,189452]]'
 instance_of:
-- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-- '[[_Standards/WikiData/WD~physical_property,4373292]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+- '[[_Standards/WikiData/WD~physical_property,4373292|WD~physical_property,4373292]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 Commons_category: Turbulence
 OmegaWiki_Defined_Meaning: 1111115
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/%D7%9E%D7%94%D7%99%D7%A8%D7%95%D7%AA%20%D7%9E%D7%9E%D7%95%D7%A6%D7%A2%D7%AA%20%D7%A2%D7%91%D7%95%D7%A8%20%D7%96%D7%A8%D7%99%D7%9E%D7%94%20%D7%98%D7%95%D7%A8%D7%91%D7%95%D7%9C%D7%A0%D7%98%D7%99%D7%AA.JPG

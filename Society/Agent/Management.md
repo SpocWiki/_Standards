@@ -89,45 +89,45 @@ aliases:
 - 경영
 has_id_wikidata: Q2920921
 fabrication_method:
-- '[[_Standards/WikiData/WD~planning,309100]]'
-- '[[_Standards/WikiData/WD~social_control,623971]]'
-- '[[_Standards/WikiData/WD~public_administration,31728]]'
+- '[[_Standards/WikiData/WD~planning,309100|WD~planning,309100]]'
+- '[[_Standards/WikiData/WD~social_control,623971|WD~social_control,623971]]'
+- '[[_Standards/WikiData/WD~public_administration,31728|WD~public_administration,31728]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~control,338754]]'
-- '[[_Standards/WikiData/WD~coordination,1783823]]'
-- '[[_Standards/WikiData/WD~control,29017603]]'
+- '[[_Standards/WikiData/WD~control,338754|WD~control,338754]]'
+- '[[_Standards/WikiData/WD~coordination,1783823|WD~coordination,1783823]]'
+- '[[_Standards/WikiData/WD~control,29017603|WD~control,29017603]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~strategic_management,376657]]'
-- '[[_Standards/WikiData/WD~function,1474521]]'
-- '[[_Standards/WikiData/WD~management_style,1481177]]'
-- '[[_Standards/WikiData/WD~management_process,1888611]]'
-- '[[_Standards/WikiData/WD~type_of_management,96247293]]'
+- '[[_Standards/WikiData/WD~strategic_management,376657|WD~strategic_management,376657]]'
+- '[[_Standards/WikiData/WD~function,1474521|WD~function,1474521]]'
+- '[[_Standards/WikiData/WD~management_style,1481177|WD~management_style,1481177]]'
+- '[[_Standards/WikiData/WD~management_process,1888611|WD~management_process,1888611]]'
+- '[[_Standards/WikiData/WD~type_of_management,96247293|WD~type_of_management,96247293]]'
 class_of_object_s_of_occurrence:
-- '[[_Standards/WikiData/WD~employee,703534]]'
-- '[[_Standards/WikiData/WD~business,4830453]]'
-- '[[_Standards/WikiData/WD~society,8425]]'
-- '[[_Standards/WikiData/WD~human,5]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~employee,703534|WD~employee,703534]]'
+- '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~society,8425|WD~society,8425]]'
+- '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 facet_of:
-- '[[_Standards/WikiData/WD~business_administration,2043282]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~business_administration,2043282|WD~business_administration,2043282]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 studied_by:
-- '[[_Standards/WikiData/WD~management_science,2414942]]'
-- '[[_Standards/WikiData/WD~management_studies,22811962]]'
-- '[[_Standards/WikiData/WD~sociology_of_management,113884213]]'
+- '[[_Standards/WikiData/WD~management_science,2414942|WD~management_science,2414942]]'
+- '[[_Standards/WikiData/WD~management_studies,22811962|WD~management_studies,22811962]]'
+- '[[_Standards/WikiData/WD~sociology_of_management,113884213|WD~sociology_of_management,113884213]]'
 different_from:
-- '[[_Standards/WikiData/WD~management_science,2414942]]'
-- '[[_Standards/WikiData/WD~management_studies,22811962]]'
-- '[[_Standards/WikiData/WD~control,29017603]]'
-- '[[_Standards/WikiData/WD~sociology_of_management,113884213]]'
-practiced_by: '[[_Standards/WikiData/WD~manager,2462658]]'
+- '[[_Standards/WikiData/WD~management_science,2414942|WD~management_science,2414942]]'
+- '[[_Standards/WikiData/WD~management_studies,22811962|WD~management_studies,22811962]]'
+- '[[_Standards/WikiData/WD~control,29017603|WD~control,29017603]]'
+- '[[_Standards/WikiData/WD~sociology_of_management,113884213|WD~sociology_of_management,113884213]]'
+practiced_by: '[[_Standards/WikiData/WD~manager,2462658|WD~manager,2462658]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~administration,5283295]]'
-- '[[_Standards/WikiData/WD~administration,50412353]]'
+- '[[_Standards/WikiData/WD~administration,5283295|WD~administration,5283295]]'
+- '[[_Standards/WikiData/WD~administration,50412353|WD~administration,50412353]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~type_of_process,116505632]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Management,14399581]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_process,116505632|WD~type_of_process,116505632]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Management,14399581|WD~Template_Management,14399581]]'
 Dewey_Decimal_Classification: 650
 IAB_code: 76
 Commons_category: Management

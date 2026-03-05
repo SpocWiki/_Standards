@@ -43,15 +43,15 @@ aliases:
 - 환론
 has_id_wikidata: Q1208658
 part_of:
-- '[[_Standards/WikiData/WD~abstract_algebra,159943]]'
-- '[[_Standards/WikiData/WD~algebra,3968]]'
-is_the_study_of: '[[_Standards/WikiData/WD~ring,161172]]'
-creator: '[[_Standards/WikiData/WD~Joseph_Wedderburn,667683]]'
+- '[[_Standards/WikiData/WD~abstract_algebra,159943|WD~abstract_algebra,159943]]'
+- '[[_Standards/WikiData/WD~algebra,3968|WD~algebra,3968]]'
+is_the_study_of: '[[_Standards/WikiData/WD~ring,161172|WD~ring,161172]]'
+creator: '[[_Standards/WikiData/WD~Joseph_Wedderburn,667683|WD~Joseph_Wedderburn,667683]]'
 instance_of:
-- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Ring_theory_sidebar,22736465]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918|WD~mathematical_theory,20026918]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ring_theory_sidebar,22736465|WD~Template_Ring_theory_sidebar,22736465]]'
 OmegaWiki_Defined_Meaning: 1413214
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ringhierarchy.png
 Stack_Exchange_tag: https://math.stackexchange.com/tags/ring-theory

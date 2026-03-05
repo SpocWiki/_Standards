@@ -42,15 +42,15 @@ aliases:
 - 팝 아트
 has_id_wikidata: Q134147
 influenced_by:
-- '[[_Standards/WikiData/WD~popular_culture,131265]]'
-- '[[_Standards/WikiData/WD~abstract_expressionism,177725]]'
-- '[[_Standards/WikiData/WD~comics,1004]]'
-- '[[_Standards/WikiData/WD~Dada,6034]]'
-- '[[_Standards/WikiData/WD~advertising,37038]]'
+- '[[_Standards/WikiData/WD~popular_culture,131265|WD~popular_culture,131265]]'
+- '[[_Standards/WikiData/WD~abstract_expressionism,177725|WD~abstract_expressionism,177725]]'
+- '[[_Standards/WikiData/WD~comics,1004|WD~comics,1004]]'
+- '[[_Standards/WikiData/WD~Dada,6034|WD~Dada,6034]]'
+- '[[_Standards/WikiData/WD~advertising,37038|WD~advertising,37038]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~architectural_style,32880]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880|WD~architectural_style,32880]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 Commons_category: Pop art
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GILL%2C%20James%2C%20519%20Pink%20Marilyn%20%282008%29.jpg
 Europeana_entity: agent/base/147311

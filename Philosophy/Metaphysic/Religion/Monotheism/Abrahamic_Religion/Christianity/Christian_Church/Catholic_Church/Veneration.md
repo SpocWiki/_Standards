@@ -39,10 +39,10 @@ aliases:
 - 공경지례
 has_id_wikidata: Q1579384
 subclass_of:
-- '[[_Standards/WikiData/WD~adoration,851918]]'
-- '[[_Standards/WikiData/WD~respect,28510]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q8972572,8972572]]'
-intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_in_France,21011287]]'
+- '[[_Standards/WikiData/WD~adoration,851918|WD~adoration,851918]]'
+- '[[_Standards/WikiData/WD~respect,28510|WD~respect,28510]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q8972572,8972572|WD~Q8972572,8972572]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_in_France,21011287|WD~National_Inventory_of_Intangible_Cultural_Heritage_in_France,21011287]]'
 Commons_category: Saints
 Provenio_UUID: 534e1e79-a17a-43cc-b159-c3e7f7dd3bee
 dv_has_:

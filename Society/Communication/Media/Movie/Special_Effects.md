@@ -56,11 +56,11 @@ aliases:
 - 特殊效果
 - 특수 효과
 has_id_wikidata: Q381243
-instance_of: '[[_Standards/WikiData/WD~cinematic_technique,1001378]]'
-subclass_of: '[[_Standards/WikiData/WD~film_effect,15088947]]'
-practiced_by: '[[_Standards/WikiData/WD~Special_effects_artist,21560152]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-different_from: '[[_Standards/WikiData/WD~special_effect,125572810]]'
+instance_of: '[[_Standards/WikiData/WD~cinematic_technique,1001378|WD~cinematic_technique,1001378]]'
+subclass_of: '[[_Standards/WikiData/WD~film_effect,15088947|WD~film_effect,15088947]]'
+practiced_by: '[[_Standards/WikiData/WD~Special_effects_artist,21560152|WD~Special_effects_artist,21560152]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+different_from: '[[_Standards/WikiData/WD~special_effect,125572810|WD~special_effect,125572810]]'
 Commons_category: Special effects
 image: http://commons.wikimedia.org/wiki/Special:FilePath/No%C3%ABl-No%C3%ABl%20Pigrizia.jpg
 IMDb_keyword: special-effects

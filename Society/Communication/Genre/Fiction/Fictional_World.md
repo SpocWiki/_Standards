@@ -70,21 +70,21 @@ aliases:
 has_id_wikidata: Q559618
 Commons_category: Fictional settings
 different_from:
-- '[[_Standards/WikiData/WD~fictional_parallel_universe,47306921]]'
-- '[[_Standards/WikiData/WD~mythical_universe,107863035]]'
+- '[[_Standards/WikiData/WD~fictional_parallel_universe,47306921|WD~fictional_parallel_universe,47306921]]'
+- '[[_Standards/WikiData/WD~mythical_universe,107863035|WD~mythical_universe,107863035]]'
 equivalent_class: http://comicmeta.org/cbo/ComicUniverse
-fictional_or_mythical_analog_of: '[[_Standards/WikiData/WD~universe,36906466]]'
+fictional_or_mythical_analog_of: '[[_Standards/WikiData/WD~universe,36906466|WD~universe,36906466]]'
 has_list:
-- '[[_Standards/WikiData/WD~list_of_fictional_universes_in_literature,6619794]]'
-- '[[_Standards/WikiData/WD~list_of_science_fiction_universes,6638008]]'
-has_part_s_: '[[_Standards/WikiData/WD~fictional_object,15706911]]'
+- '[[_Standards/WikiData/WD~list_of_fictional_universes_in_literature,6619794|WD~list_of_fictional_universes_in_literature,6619794]]'
+- '[[_Standards/WikiData/WD~list_of_science_fiction_universes,6638008|WD~list_of_science_fiction_universes,6638008]]'
+has_part_s_: '[[_Standards/WikiData/WD~fictional_object,15706911|WD~fictional_object,15706911]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bryce-demo-May00PicOfMonth.JPG
 instance_of:
-- '[[_Standards/WikiData/WD~class_of_fictional_entities,15831596]]'
-- '[[_Standards/WikiData/WD~fictional_class,126864576]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Fictional_universes,73601054]]'
+- '[[_Standards/WikiData/WD~class_of_fictional_entities,15831596|WD~class_of_fictional_entities,15831596]]'
+- '[[_Standards/WikiData/WD~fictional_class,126864576|WD~fictional_class,126864576]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Fictional_universes,73601054|WD~WikiProject_Fictional_universes,73601054]]'
 properties_for_this_type: fictional universe described in
-subclass_of: '[[_Standards/WikiData/WD~fictional_collective_entity,108764372]]'
+subclass_of: '[[_Standards/WikiData/WD~fictional_collective_entity,108764372|WD~fictional_collective_entity,108764372]]'
 Wikidata_property:
 - from narrative universe
 - takes place in fictional universe

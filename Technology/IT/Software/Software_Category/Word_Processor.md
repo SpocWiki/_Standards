@@ -73,18 +73,18 @@ aliases:
 - 워드 프로세서
 has_id_wikidata: Q54277
 subclass_of:
-- '[[_Standards/WikiData/WD~application,166142]]'
-- '[[_Standards/WikiData/WD~editor,985394]]'
-- '[[_Standards/WikiData/WD~productivity_software,7247856]]'
+- '[[_Standards/WikiData/WD~application,166142|WD~application,166142]]'
+- '[[_Standards/WikiData/WD~editor,985394|WD~editor,985394]]'
+- '[[_Standards/WikiData/WD~productivity_software,7247856|WD~productivity_software,7247856]]'
 has_use:
-- '[[_Standards/WikiData/WD~editing,194105]]'
-- '[[_Standards/WikiData/WD~word_processing,3307703]]'
-has_list: '[[_Standards/WikiData/WD~list_of_word_processors,985710]]'
-manifestation_of: '[[_Standards/WikiData/WD~word_processing,3307703]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~word_processing,3307703]]'
+- '[[_Standards/WikiData/WD~editing,194105|WD~editing,194105]]'
+- '[[_Standards/WikiData/WD~word_processing,3307703|WD~word_processing,3307703]]'
+has_list: '[[_Standards/WikiData/WD~list_of_word_processors,985710|WD~list_of_word_processors,985710]]'
+manifestation_of: '[[_Standards/WikiData/WD~word_processing,3307703|WD~word_processing,3307703]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~word_processing,3307703|WD~word_processing,3307703]]'
 instance_of:
-- '[[_Standards/WikiData/WD~software_feature,4485156]]'
-- '[[_Standards/WikiData/WD~software_category,17155032]]'
+- '[[_Standards/WikiData/WD~software_feature,4485156|WD~software_feature,4485156]]'
+- '[[_Standards/WikiData/WD~software_category,17155032|WD~software_category,17155032]]'
 ACM_Classification_Code_2012_: 10011188
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LibreOffice%207.2.4.1%20Writer%20screenshot.png
 OmegaWiki_Defined_Meaning: 672317

@@ -26,7 +26,7 @@ tags:
 title: is_a_play_game_action Class
 type: Type
 dv_is_:
-  parent_class: "[[../ConsumeAction]]"
+  parent_class: "[[../ConsumeAction|ConsumeAction]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action|Play_Game_Action]]"
@@ -68,7 +68,7 @@ dv_has_:
     - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../consume_action|../consume_action]]"
+  - "[[../consume_action|../consume_action|consume_action]]"
 dv_has_properties:
   - "[[../../../../Relation/has/has_action/has_action_accessibility_requirement|has_action_accessibility_requirement]]"
   - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"

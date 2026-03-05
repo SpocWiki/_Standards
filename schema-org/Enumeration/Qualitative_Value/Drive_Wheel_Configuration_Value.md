@@ -36,9 +36,9 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.secret|Drive_Wheel_Configuration_Value.secret]]"
     - "[[Drive_Wheel_Configuration_Value]]"
 dv_has_:
-  parent_class: "[[../QualitativeValue]]"
+  parent_class: "[[../QualitativeValue|QualitativeValue]]"
   properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
-dv_has_parent_class: "[[../QualitativeValue]]"
+dv_has_parent_class: "[[../QualitativeValue|QualitativeValue]]"
 dv_has_properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
 dv_is_same_as:
   - "[[Drive_Wheel_Configuration_Value]]"

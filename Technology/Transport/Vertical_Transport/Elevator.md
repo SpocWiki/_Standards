@@ -78,26 +78,26 @@ aliases:
 - "\U000282E2"
 has_id_wikidata: Q132911
 different_from:
-- '[[_Standards/WikiData/WD~lift,194433]]'
-- '[[_Standards/WikiData/WD~Winda,_Warmian_Masurian_Voivodeship,2583426]]'
-- '[[_Standards/WikiData/WD~repetition,16686611]]'
+- '[[_Standards/WikiData/WD~lift,194433|WD~lift,194433]]'
+- '[[_Standards/WikiData/WD~Winda,_Warmian_Masurian_Voivodeship,2583426|WD~Winda,_Warmian_Masurian_Voivodeship,2583426]]'
+- '[[_Standards/WikiData/WD~repetition,16686611|WD~repetition,16686611]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mode_of_transport,334166]]'
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~elevators_and_escalators,4368509]]'
-- '[[_Standards/WikiData/WD~lifting_device,9249606]]'
-- '[[_Standards/WikiData/WD~machine,11019]]'
-instance_of: '[[_Standards/WikiData/WD~mode_of_transport,334166]]'
+- '[[_Standards/WikiData/WD~mode_of_transport,334166|WD~mode_of_transport,334166]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~elevators_and_escalators,4368509|WD~elevators_and_escalators,4368509]]'
+- '[[_Standards/WikiData/WD~lifting_device,9249606|WD~lifting_device,9249606]]'
+- '[[_Standards/WikiData/WD~machine,11019|WD~machine,11019]]'
+instance_of: '[[_Standards/WikiData/WD~mode_of_transport,334166|WD~mode_of_transport,334166]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~elevator_shaft,760158]]'
-- '[[_Standards/WikiData/WD~elevator_door,760161]]'
-- '[[_Standards/WikiData/WD~elevator_car,107197203]]'
-- '[[_Standards/WikiData/WD~Q122068021,122068021]]'
+- '[[_Standards/WikiData/WD~elevator_shaft,760158|WD~elevator_shaft,760158]]'
+- '[[_Standards/WikiData/WD~elevator_door,760161|WD~elevator_door,760161]]'
+- '[[_Standards/WikiData/WD~elevator_car,107197203|WD~elevator_car,107197203]]'
+- '[[_Standards/WikiData/WD~Q122068021,122068021|WD~Q122068021,122068021]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 Wikidata_property: number of elevators
 Nomenclature_for_Museum_Cataloging: 98
 OmegaWiki_Defined_Meaning: 156773

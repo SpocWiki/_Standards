@@ -54,10 +54,10 @@ aliases:
 - 焦土政策
 - 초토화
 has_id_wikidata: Q208485
-subclass_of: '[[_Standards/WikiData/WD~military_strategy,219087]]'
-different_from: '[[_Standards/WikiData/WD~slash_and_burn,622543]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-uses: '[[_Standards/WikiData/WD~destruction,17781833]]'
+subclass_of: '[[_Standards/WikiData/WD~military_strategy,219087|WD~military_strategy,219087]]'
+different_from: '[[_Standards/WikiData/WD~slash_and_burn,622543|WD~slash_and_burn,622543]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+uses: '[[_Standards/WikiData/WD~destruction,17781833|WD~destruction,17781833]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/F.O.C.%20Darley%20and%20Alexander%20Hay%20Ritchie%20-%20Sherman%27s%20March%20to%20the%20Sea.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/BrennendeOelquellenKuwait1991.jpg

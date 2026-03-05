@@ -50,52 +50,52 @@ nickname:
 birth_name: Ronaldo Luís Nazário de Lima
 work_period_end_: 2011-02-14T00:00:00Z
 member_of_sports_team:
-- "[[_Standards/WikiData/WD~Brazil_men's_national_football_team,83459]]"
-- '[[_Standards/WikiData/WD~Cruzeiro_E.C.,188277]]'
-- '[[_Standards/WikiData/WD~Brazil_national_under_23_football_team,899189]]'
-- '[[_Standards/WikiData/WD~Brazil_national_under_17_football_team,2402747]]'
-- '[[_Standards/WikiData/WD~Inter_Milan,631]]'
-- '[[_Standards/WikiData/WD~AC_Milan,1543]]'
-- '[[_Standards/WikiData/WD~FC_Barcelona,7156]]'
-- '[[_Standards/WikiData/WD~Real_Madrid_Club_de_Fútbol,8682]]'
-- '[[_Standards/WikiData/WD~PSV_Eindhoven,11938]]'
-- '[[_Standards/WikiData/WD~S.C._Corinthians_Paulista,35933]]'
+- "[[_Standards/WikiData/WD~Brazil_men's_national_football_team,83459|WD~Brazil_men's_national_football_team,83459]]"
+- '[[_Standards/WikiData/WD~Cruzeiro_E.C.,188277|WD~Cruzeiro_E.C.,188277]]'
+- '[[_Standards/WikiData/WD~Brazil_national_under_23_football_team,899189|WD~Brazil_national_under_23_football_team,899189]]'
+- '[[_Standards/WikiData/WD~Brazil_national_under_17_football_team,2402747|WD~Brazil_national_under_17_football_team,2402747]]'
+- '[[_Standards/WikiData/WD~Inter_Milan,631|WD~Inter_Milan,631]]'
+- '[[_Standards/WikiData/WD~AC_Milan,1543|WD~AC_Milan,1543]]'
+- '[[_Standards/WikiData/WD~FC_Barcelona,7156|WD~FC_Barcelona,7156]]'
+- '[[_Standards/WikiData/WD~Real_Madrid_Club_de_Fútbol,8682|WD~Real_Madrid_Club_de_Fútbol,8682]]'
+- '[[_Standards/WikiData/WD~PSV_Eindhoven,11938|WD~PSV_Eindhoven,11938]]'
+- '[[_Standards/WikiData/WD~S.C._Corinthians_Paulista,35933|WD~S.C._Corinthians_Paulista,35933]]'
 award_received:
-- '[[_Standards/WikiData/WD~Golden_Foot,83710]]'
-- "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
-- '[[_Standards/WikiData/WD~Bravo_Award,554495]]'
-- '[[_Standards/WikiData/WD~UEFA_Club_Footballer_of_the_Year,1187699]]'
-- '[[_Standards/WikiData/WD~Italian_Football_Hall_of_Fame,1847685]]'
-- '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
-- '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]'
-- "[[_Standards/WikiData/WD~Ballon_d'Or_Dream_Team,101116082]]"
-position_played_on_team_speciality: '[[_Standards/WikiData/WD~forward,280658]]'
+- '[[_Standards/WikiData/WD~Golden_Foot,83710|WD~Golden_Foot,83710]]'
+- "[[_Standards/WikiData/WD~Ballon_d'Or,166177|WD~Ballon_d'Or,166177]]"
+- '[[_Standards/WikiData/WD~Bravo_Award,554495|WD~Bravo_Award,554495]]'
+- '[[_Standards/WikiData/WD~UEFA_Club_Footballer_of_the_Year,1187699|WD~UEFA_Club_Footballer_of_the_Year,1187699]]'
+- '[[_Standards/WikiData/WD~Italian_Football_Hall_of_Fame,1847685|WD~Italian_Football_Hall_of_Fame,1847685]]'
+- '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048|WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
+- '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204|WD~World_Cup_Golden_Ball,17355204]]'
+- "[[_Standards/WikiData/WD~Ballon_d'Or_Dream_Team,101116082|WD~Ballon_d'Or_Dream_Team,101116082]]"
+position_played_on_team_speciality: '[[_Standards/WikiData/WD~forward,280658|WD~forward,280658]]'
 place_of_birth:
-- '[[_Standards/WikiData/WD~Itaguaí,730437]]'
-- '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]'
-occupation: '[[_Standards/WikiData/WD~association_football_player,937857]]'
+- '[[_Standards/WikiData/WD~Itaguaí,730437|WD~Itaguaí,730437]]'
+- '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678|WD~Rio_de_Janeiro,8678]]'
+occupation: '[[_Standards/WikiData/WD~association_football_player,937857|WD~association_football_player,937857]]'
 different_from:
-- '[[_Standards/WikiData/WD~Ronaldo,2165978]]'
-- '[[_Standards/WikiData/WD~Cristiano_Ronaldo,11571]]'
-- '[[_Standards/WikiData/WD~Ronaldinho,39444]]'
+- '[[_Standards/WikiData/WD~Ronaldo,2165978|WD~Ronaldo,2165978]]'
+- '[[_Standards/WikiData/WD~Cristiano_Ronaldo,11571|WD~Cristiano_Ronaldo,11571]]'
+- '[[_Standards/WikiData/WD~Ronaldinho,39444|WD~Ronaldinho,39444]]'
 given_name:
-- '[[_Standards/WikiData/WD~Luis,2598693]]'
-- '[[_Standards/WikiData/WD~Ronaldo,19819804]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-owner_of: '[[_Standards/WikiData/WD~9ine,9555170]]'
+- '[[_Standards/WikiData/WD~Luis,2598693|WD~Luis,2598693]]'
+- '[[_Standards/WikiData/WD~Ronaldo,19819804|WD~Ronaldo,19819804]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+owner_of: '[[_Standards/WikiData/WD~9ine,9555170|WD~9ine,9555170]]'
 family_name:
-- '[[_Standards/WikiData/WD~de_Lima,21475251]]'
-- '[[_Standards/WikiData/WD~Nazario,56244128]]'
+- '[[_Standards/WikiData/WD~de_Lima,21475251|WD~de_Lima,21475251]]'
+- '[[_Standards/WikiData/WD~Nazario,56244128|WD~Nazario,56244128]]'
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~Portuguese,5146]]'
-sport: '[[_Standards/WikiData/WD~association_football,2736]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146|WD~Portuguese,5146]]'
+sport: '[[_Standards/WikiData/WD~association_football,2736|WD~association_football,2736]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 total_goals_in_career:
 - 0
 - 1
-country_for_sport: '[[_Standards/WikiData/WD~Brazil,155]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Brazil,155]]'
+country_for_sport: '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
 number_of_matches_played_races_starts:
 - 1
 - 2

@@ -83,7 +83,7 @@ aliases:
 #is_/similar_to :: [[SnapChat]] 
 #is_/similar_to :: [[WeChat]] 
 #is_/similar_to :: [[Wire(Messenger)]] 
-#is_/part_of :: [[../Meta_Platforms]] 
+#is_/part_of :: [[../Meta_Platforms|Meta_Platforms]] 
 
 
 #has_/time_/started :: 2009-02 

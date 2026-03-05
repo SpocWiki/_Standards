@@ -54,16 +54,16 @@ aliases:
 - 廂型車
 - 승합차
 has_id_wikidata: Q193468
-different_from: '[[_Standards/WikiData/WD~Van,227024]]'
+different_from: '[[_Standards/WikiData/WD~Van,227024|WD~Van,227024]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~motor_vehicle,752870]]'
-- '[[_Standards/WikiData/WD~road_vehicle,1515493]]'
-- '[[_Standards/WikiData/WD~multi_track_vehicle,12060681]]'
-- '[[_Standards/WikiData/WD~wheeled_vehicle,15618781]]'
+- '[[_Standards/WikiData/WD~motor_vehicle,752870|WD~motor_vehicle,752870]]'
+- '[[_Standards/WikiData/WD~road_vehicle,1515493|WD~road_vehicle,1515493]]'
+- '[[_Standards/WikiData/WD~multi_track_vehicle,12060681|WD~multi_track_vehicle,12060681]]'
+- '[[_Standards/WikiData/WD~wheeled_vehicle,15618781|WD~wheeled_vehicle,15618781]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-instance_of: '[[_Standards/WikiData/WD~coachwork_type,15729598]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+instance_of: '[[_Standards/WikiData/WD~coachwork_type,15729598|WD~coachwork_type,15729598]]'
 IAB_code: 7
 Nomenclature_for_Museum_Cataloging: 12242
 IMDb_keyword: van

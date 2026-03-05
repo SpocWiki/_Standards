@@ -1,4 +1,4 @@
-OO brings new Concepts to [[../Prog~Structured]]: 
+OO brings new Concepts to [[../Prog~Structured|Prog~Structured]]: 
 ## Inheritance  & Re-Use 
 Arguably the most hailed Concept was Inheritance, because it promised (too) easily re-use existing Class-Definitions. 
 ### Class-Re-Use 

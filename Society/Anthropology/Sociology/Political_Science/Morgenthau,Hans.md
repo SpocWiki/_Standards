@@ -28,32 +28,32 @@ birth_name: Hans Joachim Morgenthau
 name_in_native_language: Hans Morgenthau
 date_of_birth: 1904-02-17T00:00:00Z
 employer:
-- '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
-- '[[_Standards/WikiData/WD~University_of_Geneva,503473]]'
-- '[[_Standards/WikiData/WD~City_University_of_New_York,762266]]'
-field_of_work: '[[_Standards/WikiData/WD~international_relations,166542]]'
-member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-given_name: '[[_Standards/WikiData/WD~Hans,632842]]'
+- '[[_Standards/WikiData/WD~University_of_Chicago,131252|WD~University_of_Chicago,131252]]'
+- '[[_Standards/WikiData/WD~University_of_Geneva,503473|WD~University_of_Geneva,503473]]'
+- '[[_Standards/WikiData/WD~City_University_of_New_York,762266|WD~City_University_of_New_York,762266]]'
+field_of_work: '[[_Standards/WikiData/WD~international_relations,166542|WD~international_relations,166542]]'
+member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303|WD~American_Academy_of_Arts_and_Sciences,463303]]'
+given_name: '[[_Standards/WikiData/WD~Hans,632842|WD~Hans,632842]]'
 educated_at:
-- '[[_Standards/WikiData/WD~Geneva_Graduate_Institute,691686]]'
-- '[[_Standards/WikiData/WD~Gymnasium_Casimirianum_Coburg,1047520]]'
+- '[[_Standards/WikiData/WD~Geneva_Graduate_Institute,691686|WD~Geneva_Graduate_Institute,691686]]'
+- '[[_Standards/WikiData/WD~Gymnasium_Casimirianum_Coburg,1047520|WD~Gymnasium_Casimirianum_Coburg,1047520]]'
 occupation:
-- '[[_Standards/WikiData/WD~political_scientist,1238570]]'
-- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-- '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- '[[_Standards/WikiData/WD~judge,16533]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-award_received: "[[_Standards/WikiData/WD~Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905276]]"
-family_name: '[[_Standards/WikiData/WD~Morgenthau,21508017]]'
+- '[[_Standards/WikiData/WD~political_scientist,1238570|WD~political_scientist,1238570]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272|WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~judge,16533|WD~judge,16533]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+award_received: "[[_Standards/WikiData/WD~Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905276|WD~Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905276]]"
+family_name: '[[_Standards/WikiData/WD~Morgenthau,21508017|WD~Morgenthau,21508017]]'
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~American_English,7976]]'
-- '[[_Standards/WikiData/WD~German,188]]'
-place_of_birth: '[[_Standards/WikiData/WD~Coburg,14821]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-place_of_death: '[[_Standards/WikiData/WD~New_York_City,60]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~American_English,7976|WD~American_English,7976]]'
+- '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
+place_of_birth: '[[_Standards/WikiData/WD~Coburg,14821|WD~Coburg,14821]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 BHCL_UUID: 69a4818f-fc3d-4e2b-b840-4d89ef2c1651
 date_of_death: 1980-07-19T00:00:00Z
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Stolperstein%20Joachim%20Morgenthau%20by%202eight%203SC1356.jpg

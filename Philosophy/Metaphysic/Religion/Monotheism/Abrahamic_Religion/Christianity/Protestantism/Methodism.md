@@ -66,22 +66,22 @@ aliases:
 - 循道衛理公會
 - 감리교
 has_id_wikidata: Q33203
-separated_from: '[[_Standards/WikiData/WD~Church_of_England,82708]]'
-founded_by: '[[_Standards/WikiData/WD~John_Wesley,213393]]'
+separated_from: '[[_Standards/WikiData/WD~Church_of_England,82708|WD~Church_of_England,82708]]'
+founded_by: '[[_Standards/WikiData/WD~John_Wesley,213393|WD~John_Wesley,213393]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Methodism,13481972]]'
-- '[[_Standards/WikiData/WD~Template_Methodism_footer,25728107]]'
-practiced_by: '[[_Standards/WikiData/WD~Methodist_pastor,97344615]]'
-instance_of: '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
-subclass_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
+- '[[_Standards/WikiData/WD~Template_Methodism,13481972|WD~Template_Methodism,13481972]]'
+- '[[_Standards/WikiData/WD~Template_Methodism_footer,25728107|WD~Template_Methodism_footer,25728107]]'
+practiced_by: '[[_Standards/WikiData/WD~Methodist_pastor,97344615|WD~Methodist_pastor,97344615]]'
+instance_of: '[[_Standards/WikiData/WD~Christian_denominational_family,123129246|WD~Christian_denominational_family,123129246]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+subclass_of: '[[_Standards/WikiData/WD~Protestantism,23540|WD~Protestantism,23540]]'
 Dewey_Decimal_Classification: 287
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/methodist
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/METODISTI.html

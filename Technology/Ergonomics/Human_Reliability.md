@@ -29,14 +29,14 @@ aliases:
 - 인간요인오류
 has_id_wikidata: Q186289
 facet_of:
-- '[[_Standards/WikiData/WD~operational_risk,944806]]'
-- '[[_Standards/WikiData/WD~operational_risk_management,18357734]]'
-- '[[_Standards/WikiData/WD~human_factor,117346259]]'
+- '[[_Standards/WikiData/WD~operational_risk,944806|WD~operational_risk,944806]]'
+- '[[_Standards/WikiData/WD~operational_risk_management,18357734|WD~operational_risk_management,18357734]]'
+- '[[_Standards/WikiData/WD~human_factor,117346259|WD~human_factor,117346259]]'
 part_of:
-- '[[_Standards/WikiData/WD~work_psychology,6096488]]'
-- '[[_Standards/WikiData/WD~organizational_psychology,16270338]]'
-subclass_of: '[[_Standards/WikiData/WD~reliability,17994098]]'
-instance_of: '[[_Standards/WikiData/WD~contributing_factor,18603648]]'
+- '[[_Standards/WikiData/WD~work_psychology,6096488|WD~work_psychology,6096488]]'
+- '[[_Standards/WikiData/WD~organizational_psychology,16270338|WD~organizational_psychology,16270338]]'
+subclass_of: '[[_Standards/WikiData/WD~reliability,17994098|WD~reliability,17994098]]'
+instance_of: '[[_Standards/WikiData/WD~contributing_factor,18603648|WD~contributing_factor,18603648]]'
 dv_has_:
   name_:
     af: menslike betroubaarheid

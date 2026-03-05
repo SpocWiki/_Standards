@@ -50,20 +50,20 @@ aliases:
 - 중동의 역사
 has_id_wikidata: Q51615
 subclass_of:
-- '[[_Standards/WikiData/WD~history_of_Africa,149813]]'
-- '[[_Standards/WikiData/WD~history_of_Asia,627531]]'
+- '[[_Standards/WikiData/WD~history_of_Africa,149813|WD~history_of_Africa,149813]]'
+- '[[_Standards/WikiData/WD~history_of_Asia,627531|WD~history_of_Asia,627531]]'
 instance_of:
-- '[[_Standards/WikiData/WD~study_of_history,1066186]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-- '[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685]]'
+- '[[_Standards/WikiData/WD~study_of_history,1066186|WD~study_of_history,1066186]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+- '[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685|WD~history_of_a_geographic_region,63313685]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~history_of_the_ancient_Levant,4164459]]'
-- '[[_Standards/WikiData/WD~genetic_history_of_the_Middle_East,4785363]]'
-- '[[_Standards/WikiData/WD~history_of_the_Saudi_Arabian_Peninsula,22137063]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_History_of_the_Middle_East,42351239]]'
-practiced_by: '[[_Standards/WikiData/WD~historian_of_the_Middle_East,100751527]]'
-facet_of: '[[_Standards/WikiData/WD~Middle_East,7204]]'
-locations: '[[_Standards/WikiData/WD~Middle_East,7204]]'
+- '[[_Standards/WikiData/WD~history_of_the_ancient_Levant,4164459|WD~history_of_the_ancient_Levant,4164459]]'
+- '[[_Standards/WikiData/WD~genetic_history_of_the_Middle_East,4785363|WD~genetic_history_of_the_Middle_East,4785363]]'
+- '[[_Standards/WikiData/WD~history_of_the_Saudi_Arabian_Peninsula,22137063|WD~history_of_the_Saudi_Arabian_Peninsula,22137063]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_History_of_the_Middle_East,42351239|WD~Portal_History_of_the_Middle_East,42351239]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_the_Middle_East,100751527|WD~historian_of_the_Middle_East,100751527]]'
+facet_of: '[[_Standards/WikiData/WD~Middle_East,7204|WD~Middle_East,7204]]'
+locations: '[[_Standards/WikiData/WD~Middle_East,7204|WD~Middle_East,7204]]'
 Dewey_Decimal_Classification: 956
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ishtar-gate-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20History%20of%20the%20Middle%20East.ogg

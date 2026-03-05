@@ -37,7 +37,7 @@ dv_is_:
     - "[[Education_Event]]"
 dv_has_:
   parent_class:
-    - "[[../Event]]"
+    - "[[../Event|Event]]"
   properties:
     - "[[about|about]]"
     - "[[../../../Relation/has/has_actor|has_actor]]"
@@ -96,7 +96,7 @@ dv_has_:
     - "[[../../../Relation/has/has_work/has_work_featured|has_work_featured]]"
     - "[[../../../Relation/has/has_work/has_work_performed|has_work_performed]]"
 dv_has_parent_class:
-  - "[[../Event]]"
+  - "[[../Event|Event]]"
 dv_has_properties:
   - "[[about|about]]"
   - "[[../../../Relation/has/has_actor|has_actor]]"

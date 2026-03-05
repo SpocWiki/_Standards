@@ -18,104 +18,104 @@ aliases:
 - กนู
 has_id_wikidata: Q44571
 has_part_s_:
-- '[[_Standards/WikiData/WD~GnuCash,123326]]'
-- '[[_Standards/WikiData/WD~GNU_Compiler_Collection,178940]]'
-- '[[_Standards/WikiData/WD~GNU_Bash,189248]]'
-- '[[_Standards/WikiData/WD~GTK,189464]]'
-- '[[_Standards/WikiData/WD~LilyPond,195946]]'
-- '[[_Standards/WikiData/WD~R,206904]]'
-- '[[_Standards/WikiData/WD~GNU_GRUB,212885]]'
-- '[[_Standards/WikiData/WD~Gnumeric,220993]]'
-- '[[_Standards/WikiData/WD~GNU_Privacy_Guard,223204]]'
-- '[[_Standards/WikiData/WD~GNU_Octave,223679]]'
-- '[[_Standards/WikiData/WD~GNU_gzip,283647]]'
-- '[[_Standards/WikiData/WD~GNU_nano,306101]]'
-- '[[_Standards/WikiData/WD~less,345096]]'
-- '[[_Standards/WikiData/WD~GNU_Debugger,464113]]'
-- '[[_Standards/WikiData/WD~GNU_Chess,494713]]'
-- '[[_Standards/WikiData/WD~Wget,535461]]'
-- '[[_Standards/WikiData/WD~CLISP,581256]]'
-- '[[_Standards/WikiData/WD~MediaGoblin,611965]]'
-- '[[_Standards/WikiData/WD~Linux_libre,665683]]'
-- '[[_Standards/WikiData/WD~GNU_Bazaar,812656]]'
-- '[[_Standards/WikiData/WD~GParted,843156]]'
-- '[[_Standards/WikiData/WD~GNU_C_Library,856089]]'
-- '[[_Standards/WikiData/WD~GNU_Data_Language,929932]]'
-- '[[_Standards/WikiData/WD~GNU_Screen,930835]]'
-- '[[_Standards/WikiData/WD~GNU_Gettext,937302]]'
-- '[[_Standards/WikiData/WD~GNU_Compiler_for_Java,1007042]]'
-- '[[_Standards/WikiData/WD~GNUnet,1007056]]'
-- '[[_Standards/WikiData/WD~GNU_Fortran,1050459]]'
-- '[[_Standards/WikiData/WD~GNU_bison,1071969]]'
-- '[[_Standards/WikiData/WD~Gnash,1142317]]'
-- '[[_Standards/WikiData/WD~GNU_Binutils,1144975]]'
-- '[[_Standards/WikiData/WD~GNU_arch,1187993]]'
-- '[[_Standards/WikiData/WD~GNU_Emacs,1252773]]'
-- '[[_Standards/WikiData/WD~Automake,1324275]]'
-- '[[_Standards/WikiData/WD~GNU_Core_Utilities,1348204]]'
-- '[[_Standards/WikiData/WD~GNU_Aspell,1368325]]'
-- '[[_Standards/WikiData/WD~GNU_Go,1404540]]'
-- '[[_Standards/WikiData/WD~GNU_Common_Lisp,1424922]]'
-- '[[_Standards/WikiData/WD~GNU_assembler,1486175]]'
-- '[[_Standards/WikiData/WD~GNU_Classpath,1486192]]'
-- '[[_Standards/WikiData/WD~GNU_Guile,1486208]]'
-- '[[_Standards/WikiData/WD~GNU_Scientific_Library,1486247]]'
-- '[[_Standards/WikiData/WD~GnuTLS,1533305]]'
-- '[[_Standards/WikiData/WD~GNU_PSPP,1848165]]'
-- '[[_Standards/WikiData/WD~GNU_IceCat,2009630]]'
-- '[[_Standards/WikiData/WD~GNU_Health,2703769]]'
-- '[[_Standards/WikiData/WD~GNU_AutoGen,3093270]]'
-- '[[_Standards/WikiData/WD~GNU_Archimedes,3093274]]'
-- '[[_Standards/WikiData/WD~GNU_FreeIPMI,3093281]]'
-- '[[_Standards/WikiData/WD~GNU_Ghostscript,3093287]]'
-- '[[_Standards/WikiData/WD~GNU_FreeFont,3093285]]'
-- '[[_Standards/WikiData/WD~GNUbik,3093290]]'
-- '[[_Standards/WikiData/WD~GNU_Solfege,3093299]]'
-- '[[_Standards/WikiData/WD~GNU_inetutils,3093307]]'
-- '[[_Standards/WikiData/WD~GNU_findutils,4039165]]'
-- '[[_Standards/WikiData/WD~GNU_Circuit_Analysis_Package,4039527]]'
-- '[[_Standards/WikiData/WD~GNU_Enscript,5379931]]'
-- '[[_Standards/WikiData/WD~GNU_Anubis,5514020]]'
-- '[[_Standards/WikiData/WD~GNU_Unifont,5514030]]'
-- '[[_Standards/WikiData/WD~GNU_Radio,5514028]]'
-- '[[_Standards/WikiData/WD~GNU_fcrypt,5514032]]'
-- '[[_Standards/WikiData/WD~Gnuspeech,5574498]]'
-- '[[_Standards/WikiData/WD~GnuCOBOL,7095747]]'
-- '[[_Standards/WikiData/WD~SLIB,7390950]]'
-- '[[_Standards/WikiData/WD~GNU_ddrescue,15427600]]'
-- '[[_Standards/WikiData/WD~GNU_Hello,16988498]]'
-- '[[_Standards/WikiData/WD~LibreJS,17940363]]'
-- '[[_Standards/WikiData/WD~GNU_Guix,18968627]]'
-- '[[_Standards/WikiData/WD~GNU_social,20204906]]'
-- '[[_Standards/WikiData/WD~GNU_cpio,21162921]]'
-- '[[_Standards/WikiData/WD~GNU_Shepherd,21194368]]'
-- '[[_Standards/WikiData/WD~GNU_Grep,21282417]]'
-- '[[_Standards/WikiData/WD~JWHOIS,21286813]]'
-- '[[_Standards/WikiData/WD~Java_Expressions_Library,21296542]]'
-- '[[_Standards/WikiData/WD~GNU_Artanis,21404072]]'
-- '[[_Standards/WikiData/WD~GNU_Autoconf_Archive,21405244]]'
-- '[[_Standards/WikiData/WD~Q8038,8038]]'
-- '[[_Standards/WikiData/WD~Q44316,44316]]'
-- '[[_Standards/WikiData/WD~Hurd,48464]]'
+- '[[_Standards/WikiData/WD~GnuCash,123326|WD~GnuCash,123326]]'
+- '[[_Standards/WikiData/WD~GNU_Compiler_Collection,178940|WD~GNU_Compiler_Collection,178940]]'
+- '[[_Standards/WikiData/WD~GNU_Bash,189248|WD~GNU_Bash,189248]]'
+- '[[_Standards/WikiData/WD~GTK,189464|WD~GTK,189464]]'
+- '[[_Standards/WikiData/WD~LilyPond,195946|WD~LilyPond,195946]]'
+- '[[_Standards/WikiData/WD~R,206904|WD~R,206904]]'
+- '[[_Standards/WikiData/WD~GNU_GRUB,212885|WD~GNU_GRUB,212885]]'
+- '[[_Standards/WikiData/WD~Gnumeric,220993|WD~Gnumeric,220993]]'
+- '[[_Standards/WikiData/WD~GNU_Privacy_Guard,223204|WD~GNU_Privacy_Guard,223204]]'
+- '[[_Standards/WikiData/WD~GNU_Octave,223679|WD~GNU_Octave,223679]]'
+- '[[_Standards/WikiData/WD~GNU_gzip,283647|WD~GNU_gzip,283647]]'
+- '[[_Standards/WikiData/WD~GNU_nano,306101|WD~GNU_nano,306101]]'
+- '[[_Standards/WikiData/WD~less,345096|WD~less,345096]]'
+- '[[_Standards/WikiData/WD~GNU_Debugger,464113|WD~GNU_Debugger,464113]]'
+- '[[_Standards/WikiData/WD~GNU_Chess,494713|WD~GNU_Chess,494713]]'
+- '[[_Standards/WikiData/WD~Wget,535461|WD~Wget,535461]]'
+- '[[_Standards/WikiData/WD~CLISP,581256|WD~CLISP,581256]]'
+- '[[_Standards/WikiData/WD~MediaGoblin,611965|WD~MediaGoblin,611965]]'
+- '[[_Standards/WikiData/WD~Linux_libre,665683|WD~Linux_libre,665683]]'
+- '[[_Standards/WikiData/WD~GNU_Bazaar,812656|WD~GNU_Bazaar,812656]]'
+- '[[_Standards/WikiData/WD~GParted,843156|WD~GParted,843156]]'
+- '[[_Standards/WikiData/WD~GNU_C_Library,856089|WD~GNU_C_Library,856089]]'
+- '[[_Standards/WikiData/WD~GNU_Data_Language,929932|WD~GNU_Data_Language,929932]]'
+- '[[_Standards/WikiData/WD~GNU_Screen,930835|WD~GNU_Screen,930835]]'
+- '[[_Standards/WikiData/WD~GNU_Gettext,937302|WD~GNU_Gettext,937302]]'
+- '[[_Standards/WikiData/WD~GNU_Compiler_for_Java,1007042|WD~GNU_Compiler_for_Java,1007042]]'
+- '[[_Standards/WikiData/WD~GNUnet,1007056|WD~GNUnet,1007056]]'
+- '[[_Standards/WikiData/WD~GNU_Fortran,1050459|WD~GNU_Fortran,1050459]]'
+- '[[_Standards/WikiData/WD~GNU_bison,1071969|WD~GNU_bison,1071969]]'
+- '[[_Standards/WikiData/WD~Gnash,1142317|WD~Gnash,1142317]]'
+- '[[_Standards/WikiData/WD~GNU_Binutils,1144975|WD~GNU_Binutils,1144975]]'
+- '[[_Standards/WikiData/WD~GNU_arch,1187993|WD~GNU_arch,1187993]]'
+- '[[_Standards/WikiData/WD~GNU_Emacs,1252773|WD~GNU_Emacs,1252773]]'
+- '[[_Standards/WikiData/WD~Automake,1324275|WD~Automake,1324275]]'
+- '[[_Standards/WikiData/WD~GNU_Core_Utilities,1348204|WD~GNU_Core_Utilities,1348204]]'
+- '[[_Standards/WikiData/WD~GNU_Aspell,1368325|WD~GNU_Aspell,1368325]]'
+- '[[_Standards/WikiData/WD~GNU_Go,1404540|WD~GNU_Go,1404540]]'
+- '[[_Standards/WikiData/WD~GNU_Common_Lisp,1424922|WD~GNU_Common_Lisp,1424922]]'
+- '[[_Standards/WikiData/WD~GNU_assembler,1486175|WD~GNU_assembler,1486175]]'
+- '[[_Standards/WikiData/WD~GNU_Classpath,1486192|WD~GNU_Classpath,1486192]]'
+- '[[_Standards/WikiData/WD~GNU_Guile,1486208|WD~GNU_Guile,1486208]]'
+- '[[_Standards/WikiData/WD~GNU_Scientific_Library,1486247|WD~GNU_Scientific_Library,1486247]]'
+- '[[_Standards/WikiData/WD~GnuTLS,1533305|WD~GnuTLS,1533305]]'
+- '[[_Standards/WikiData/WD~GNU_PSPP,1848165|WD~GNU_PSPP,1848165]]'
+- '[[_Standards/WikiData/WD~GNU_IceCat,2009630|WD~GNU_IceCat,2009630]]'
+- '[[_Standards/WikiData/WD~GNU_Health,2703769|WD~GNU_Health,2703769]]'
+- '[[_Standards/WikiData/WD~GNU_AutoGen,3093270|WD~GNU_AutoGen,3093270]]'
+- '[[_Standards/WikiData/WD~GNU_Archimedes,3093274|WD~GNU_Archimedes,3093274]]'
+- '[[_Standards/WikiData/WD~GNU_FreeIPMI,3093281|WD~GNU_FreeIPMI,3093281]]'
+- '[[_Standards/WikiData/WD~GNU_Ghostscript,3093287|WD~GNU_Ghostscript,3093287]]'
+- '[[_Standards/WikiData/WD~GNU_FreeFont,3093285|WD~GNU_FreeFont,3093285]]'
+- '[[_Standards/WikiData/WD~GNUbik,3093290|WD~GNUbik,3093290]]'
+- '[[_Standards/WikiData/WD~GNU_Solfege,3093299|WD~GNU_Solfege,3093299]]'
+- '[[_Standards/WikiData/WD~GNU_inetutils,3093307|WD~GNU_inetutils,3093307]]'
+- '[[_Standards/WikiData/WD~GNU_findutils,4039165|WD~GNU_findutils,4039165]]'
+- '[[_Standards/WikiData/WD~GNU_Circuit_Analysis_Package,4039527|WD~GNU_Circuit_Analysis_Package,4039527]]'
+- '[[_Standards/WikiData/WD~GNU_Enscript,5379931|WD~GNU_Enscript,5379931]]'
+- '[[_Standards/WikiData/WD~GNU_Anubis,5514020|WD~GNU_Anubis,5514020]]'
+- '[[_Standards/WikiData/WD~GNU_Unifont,5514030|WD~GNU_Unifont,5514030]]'
+- '[[_Standards/WikiData/WD~GNU_Radio,5514028|WD~GNU_Radio,5514028]]'
+- '[[_Standards/WikiData/WD~GNU_fcrypt,5514032|WD~GNU_fcrypt,5514032]]'
+- '[[_Standards/WikiData/WD~Gnuspeech,5574498|WD~Gnuspeech,5574498]]'
+- '[[_Standards/WikiData/WD~GnuCOBOL,7095747|WD~GnuCOBOL,7095747]]'
+- '[[_Standards/WikiData/WD~SLIB,7390950|WD~SLIB,7390950]]'
+- '[[_Standards/WikiData/WD~GNU_ddrescue,15427600|WD~GNU_ddrescue,15427600]]'
+- '[[_Standards/WikiData/WD~GNU_Hello,16988498|WD~GNU_Hello,16988498]]'
+- '[[_Standards/WikiData/WD~LibreJS,17940363|WD~LibreJS,17940363]]'
+- '[[_Standards/WikiData/WD~GNU_Guix,18968627|WD~GNU_Guix,18968627]]'
+- '[[_Standards/WikiData/WD~GNU_social,20204906|WD~GNU_social,20204906]]'
+- '[[_Standards/WikiData/WD~GNU_cpio,21162921|WD~GNU_cpio,21162921]]'
+- '[[_Standards/WikiData/WD~GNU_Shepherd,21194368|WD~GNU_Shepherd,21194368]]'
+- '[[_Standards/WikiData/WD~GNU_Grep,21282417|WD~GNU_Grep,21282417]]'
+- '[[_Standards/WikiData/WD~JWHOIS,21286813|WD~JWHOIS,21286813]]'
+- '[[_Standards/WikiData/WD~Java_Expressions_Library,21296542|WD~Java_Expressions_Library,21296542]]'
+- '[[_Standards/WikiData/WD~GNU_Artanis,21404072|WD~GNU_Artanis,21404072]]'
+- '[[_Standards/WikiData/WD~GNU_Autoconf_Archive,21405244|WD~GNU_Autoconf_Archive,21405244]]'
+- '[[_Standards/WikiData/WD~Q8038,8038|WD~Q8038,8038]]'
+- '[[_Standards/WikiData/WD~Q44316,44316|WD~Q44316,44316]]'
+- '[[_Standards/WikiData/WD~Hurd,48464|WD~Hurd,48464]]'
 copyright_license:
-- '[[_Standards/WikiData/WD~GNU_Lesser_General_Public_License,192897]]'
-- '[[_Standards/WikiData/WD~Q1131681,1131681]]'
-- '[[_Standards/WikiData/WD~GNU_General_Public_License,7603]]'
-different_from: '[[_Standards/WikiData/WD~GNU,227580]]'
-movement: '[[_Standards/WikiData/WD~free_software_movement,1076638]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q8787454,8787454]]'
-package_management_system: '[[_Standards/WikiData/WD~GNU_Guix,18968627]]'
-copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
-mascot: '[[_Standards/WikiData/WD~GNU,60111307]]'
-creator: '[[_Standards/WikiData/WD~Richard_Stallman,7439]]'
-developer: '[[_Standards/WikiData/WD~GNU_Project,7598]]'
-instance_of: '[[_Standards/WikiData/WD~operating_system,9135]]'
-significant_event: '[[_Standards/WikiData/WD~GNU_Manifesto,11275]]'
+- '[[_Standards/WikiData/WD~GNU_Lesser_General_Public_License,192897|WD~GNU_Lesser_General_Public_License,192897]]'
+- '[[_Standards/WikiData/WD~Q1131681,1131681|WD~Q1131681,1131681]]'
+- '[[_Standards/WikiData/WD~GNU_General_Public_License,7603|WD~GNU_General_Public_License,7603]]'
+different_from: '[[_Standards/WikiData/WD~GNU,227580|WD~GNU,227580]]'
+movement: '[[_Standards/WikiData/WD~free_software_movement,1076638|WD~free_software_movement,1076638]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q8787454,8787454|WD~Q8787454,8787454]]'
+package_management_system: '[[_Standards/WikiData/WD~GNU_Guix,18968627|WD~GNU_Guix,18968627]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]'
+mascot: '[[_Standards/WikiData/WD~GNU,60111307|WD~GNU,60111307]]'
+creator: '[[_Standards/WikiData/WD~Richard_Stallman,7439|WD~Richard_Stallman,7439]]'
+developer: '[[_Standards/WikiData/WD~GNU_Project,7598|WD~GNU_Project,7598]]'
+instance_of: '[[_Standards/WikiData/WD~operating_system,9135|WD~operating_system,9135]]'
+significant_event: '[[_Standards/WikiData/WD~GNU_Manifesto,11275|WD~GNU_Manifesto,11275]]'
 named_after:
-- '[[_Standards/WikiData/WD~Q11368,11368]]'
-- '[[_Standards/WikiData/WD~GNU,44571]]'
-subclass_of: '[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]'
-sponsor: '[[_Standards/WikiData/WD~Free_Software_Foundation,48413]]'
+- '[[_Standards/WikiData/WD~Q11368,11368|WD~Q11368,11368]]'
+- '[[_Standards/WikiData/WD~GNU,44571|WD~GNU,44571]]'
+subclass_of: '[[_Standards/WikiData/WD~Unix_like_operating_system,14656|WD~Unix_like_operating_system,14656]]'
+sponsor: '[[_Standards/WikiData/WD~Free_Software_Foundation,48413|WD~Free_Software_Foundation,48413]]'
 GitHub_topic: gnu
 subreddit: gnu
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Heckert%20GNU%20white.svg
@@ -136,15 +136,15 @@ IRC_channel_URL: irc://irc.freenode.net/#gnu
 Commons_category: GNU Project
 official_name: GNU's not UNIX
 official_website: https://gnu.org
-legal_form: '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
-industry: '[[_Standards/WikiData/WD~software_industry,880371]]'
-part_of: '[[_Standards/WikiData/WD~free_software_community,2989352]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_GNU,10542482]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~software,7397]]'
-founded_by: '[[_Standards/WikiData/WD~Richard_Stallman,7439]]'
-foundational_text: '[[_Standards/WikiData/WD~GNU_Manifesto,11275]]'
-affiliation: '[[_Standards/WikiData/WD~Free_Software_Foundation,48413]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Free_Software_Foundation,48413]]'
+legal_form: '[[_Standards/WikiData/WD~nonprofit_organization,163740|WD~nonprofit_organization,163740]]'
+industry: '[[_Standards/WikiData/WD~software_industry,880371|WD~software_industry,880371]]'
+part_of: '[[_Standards/WikiData/WD~free_software_community,2989352|WD~free_software_community,2989352]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_GNU,10542482|WD~Template_GNU,10542482]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~software,7397|WD~software,7397]]'
+founded_by: '[[_Standards/WikiData/WD~Richard_Stallman,7439|WD~Richard_Stallman,7439]]'
+foundational_text: '[[_Standards/WikiData/WD~GNU_Manifesto,11275|WD~GNU_Manifesto,11275]]'
+affiliation: '[[_Standards/WikiData/WD~Free_Software_Foundation,48413|WD~Free_Software_Foundation,48413]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Free_Software_Foundation,48413|WD~Free_Software_Foundation,48413]]'
 Private_Enterprise_Number: 11591
 ArchWiki_article:
 - GNU
@@ -157,104 +157,104 @@ search_formatter_URL: https://www.gnu.org/cgi-bin/estseek.cgi?phrase=has_time_st
 aliases:
 has_id_wikidata: Q44571
 has_part_s_:
-  - "[[_Standards/WikiData/WD~GnuCash,123326]]"
-  - "[[_Standards/WikiData/WD~GNU_Compiler_Collection,178940]]"
-  - "[[_Standards/WikiData/WD~GNU_Bash,189248]]"
-  - "[[_Standards/WikiData/WD~GTK,189464]]"
-  - "[[_Standards/WikiData/WD~LilyPond,195946]]"
-  - "[[_Standards/WikiData/WD~R,206904]]"
-  - "[[_Standards/WikiData/WD~GNU_GRUB,212885]]"
-  - "[[_Standards/WikiData/WD~Gnumeric,220993]]"
-  - "[[_Standards/WikiData/WD~GNU_Privacy_Guard,223204]]"
-  - "[[_Standards/WikiData/WD~GNU_Octave,223679]]"
-  - "[[_Standards/WikiData/WD~GNU_gzip,283647]]"
-  - "[[_Standards/WikiData/WD~GNU_nano,306101]]"
-  - "[[_Standards/WikiData/WD~less,345096]]"
-  - "[[_Standards/WikiData/WD~GNU_Debugger,464113]]"
-  - "[[_Standards/WikiData/WD~GNU_Chess,494713]]"
-  - "[[_Standards/WikiData/WD~Wget,535461]]"
-  - "[[_Standards/WikiData/WD~CLISP,581256]]"
-  - "[[_Standards/WikiData/WD~MediaGoblin,611965]]"
-  - "[[_Standards/WikiData/WD~Linux_libre,665683]]"
-  - "[[_Standards/WikiData/WD~GNU_Bazaar,812656]]"
-  - "[[_Standards/WikiData/WD~GParted,843156]]"
-  - "[[_Standards/WikiData/WD~GNU_C_Library,856089]]"
-  - "[[_Standards/WikiData/WD~GNU_Data_Language,929932]]"
-  - "[[_Standards/WikiData/WD~GNU_Screen,930835]]"
-  - "[[_Standards/WikiData/WD~GNU_Gettext,937302]]"
-  - "[[_Standards/WikiData/WD~GNU_Compiler_for_Java,1007042]]"
-  - "[[_Standards/WikiData/WD~GNUnet,1007056]]"
-  - "[[_Standards/WikiData/WD~GNU_Fortran,1050459]]"
-  - "[[_Standards/WikiData/WD~GNU_bison,1071969]]"
-  - "[[_Standards/WikiData/WD~Gnash,1142317]]"
-  - "[[_Standards/WikiData/WD~GNU_Binutils,1144975]]"
-  - "[[_Standards/WikiData/WD~GNU_arch,1187993]]"
-  - "[[_Standards/WikiData/WD~GNU_Emacs,1252773]]"
-  - "[[_Standards/WikiData/WD~Automake,1324275]]"
-  - "[[_Standards/WikiData/WD~GNU_Core_Utilities,1348204]]"
-  - "[[_Standards/WikiData/WD~GNU_Aspell,1368325]]"
-  - "[[_Standards/WikiData/WD~GNU_Go,1404540]]"
-  - "[[_Standards/WikiData/WD~GNU_Common_Lisp,1424922]]"
-  - "[[_Standards/WikiData/WD~GNU_assembler,1486175]]"
-  - "[[_Standards/WikiData/WD~GNU_Classpath,1486192]]"
-  - "[[_Standards/WikiData/WD~GNU_Guile,1486208]]"
-  - "[[_Standards/WikiData/WD~GNU_Scientific_Library,1486247]]"
-  - "[[_Standards/WikiData/WD~GnuTLS,1533305]]"
-  - "[[_Standards/WikiData/WD~GNU_PSPP,1848165]]"
-  - "[[_Standards/WikiData/WD~GNU_IceCat,2009630]]"
-  - "[[_Standards/WikiData/WD~GNU_Health,2703769]]"
-  - "[[_Standards/WikiData/WD~GNU_AutoGen,3093270]]"
-  - "[[_Standards/WikiData/WD~GNU_Archimedes,3093274]]"
-  - "[[_Standards/WikiData/WD~GNU_FreeIPMI,3093281]]"
-  - "[[_Standards/WikiData/WD~GNU_Ghostscript,3093287]]"
-  - "[[_Standards/WikiData/WD~GNU_FreeFont,3093285]]"
-  - "[[_Standards/WikiData/WD~GNUbik,3093290]]"
-  - "[[_Standards/WikiData/WD~GNU_Solfege,3093299]]"
-  - "[[_Standards/WikiData/WD~GNU_inetutils,3093307]]"
-  - "[[_Standards/WikiData/WD~GNU_findutils,4039165]]"
-  - "[[_Standards/WikiData/WD~GNU_Circuit_Analysis_Package,4039527]]"
-  - "[[_Standards/WikiData/WD~GNU_Enscript,5379931]]"
-  - "[[_Standards/WikiData/WD~GNU_Anubis,5514020]]"
-  - "[[_Standards/WikiData/WD~GNU_Unifont,5514030]]"
-  - "[[_Standards/WikiData/WD~GNU_Radio,5514028]]"
-  - "[[_Standards/WikiData/WD~GNU_fcrypt,5514032]]"
-  - "[[_Standards/WikiData/WD~Gnuspeech,5574498]]"
-  - "[[_Standards/WikiData/WD~GnuCOBOL,7095747]]"
-  - "[[_Standards/WikiData/WD~SLIB,7390950]]"
-  - "[[_Standards/WikiData/WD~GNU_ddrescue,15427600]]"
-  - "[[_Standards/WikiData/WD~GNU_Hello,16988498]]"
-  - "[[_Standards/WikiData/WD~LibreJS,17940363]]"
-  - "[[_Standards/WikiData/WD~GNU_Guix,18968627]]"
-  - "[[_Standards/WikiData/WD~GNU_social,20204906]]"
-  - "[[_Standards/WikiData/WD~GNU_cpio,21162921]]"
-  - "[[_Standards/WikiData/WD~GNU_Shepherd,21194368]]"
-  - "[[_Standards/WikiData/WD~GNU_Grep,21282417]]"
-  - "[[_Standards/WikiData/WD~JWHOIS,21286813]]"
-  - "[[_Standards/WikiData/WD~Java_Expressions_Library,21296542]]"
-  - "[[_Standards/WikiData/WD~GNU_Artanis,21404072]]"
-  - "[[_Standards/WikiData/WD~GNU_Autoconf_Archive,21405244]]"
-  - "[[_Standards/WikiData/WD~Q8038,8038]]"
-  - "[[_Standards/WikiData/WD~Q44316,44316]]"
-  - "[[_Standards/WikiData/WD~Hurd,48464]]"
+  - "[[_Standards/WikiData/WD~GnuCash,123326|WD~GnuCash,123326]]"
+  - "[[_Standards/WikiData/WD~GNU_Compiler_Collection,178940|WD~GNU_Compiler_Collection,178940]]"
+  - "[[_Standards/WikiData/WD~GNU_Bash,189248|WD~GNU_Bash,189248]]"
+  - "[[_Standards/WikiData/WD~GTK,189464|WD~GTK,189464]]"
+  - "[[_Standards/WikiData/WD~LilyPond,195946|WD~LilyPond,195946]]"
+  - "[[_Standards/WikiData/WD~R,206904|WD~R,206904]]"
+  - "[[_Standards/WikiData/WD~GNU_GRUB,212885|WD~GNU_GRUB,212885]]"
+  - "[[_Standards/WikiData/WD~Gnumeric,220993|WD~Gnumeric,220993]]"
+  - "[[_Standards/WikiData/WD~GNU_Privacy_Guard,223204|WD~GNU_Privacy_Guard,223204]]"
+  - "[[_Standards/WikiData/WD~GNU_Octave,223679|WD~GNU_Octave,223679]]"
+  - "[[_Standards/WikiData/WD~GNU_gzip,283647|WD~GNU_gzip,283647]]"
+  - "[[_Standards/WikiData/WD~GNU_nano,306101|WD~GNU_nano,306101]]"
+  - "[[_Standards/WikiData/WD~less,345096|WD~less,345096]]"
+  - "[[_Standards/WikiData/WD~GNU_Debugger,464113|WD~GNU_Debugger,464113]]"
+  - "[[_Standards/WikiData/WD~GNU_Chess,494713|WD~GNU_Chess,494713]]"
+  - "[[_Standards/WikiData/WD~Wget,535461|WD~Wget,535461]]"
+  - "[[_Standards/WikiData/WD~CLISP,581256|WD~CLISP,581256]]"
+  - "[[_Standards/WikiData/WD~MediaGoblin,611965|WD~MediaGoblin,611965]]"
+  - "[[_Standards/WikiData/WD~Linux_libre,665683|WD~Linux_libre,665683]]"
+  - "[[_Standards/WikiData/WD~GNU_Bazaar,812656|WD~GNU_Bazaar,812656]]"
+  - "[[_Standards/WikiData/WD~GParted,843156|WD~GParted,843156]]"
+  - "[[_Standards/WikiData/WD~GNU_C_Library,856089|WD~GNU_C_Library,856089]]"
+  - "[[_Standards/WikiData/WD~GNU_Data_Language,929932|WD~GNU_Data_Language,929932]]"
+  - "[[_Standards/WikiData/WD~GNU_Screen,930835|WD~GNU_Screen,930835]]"
+  - "[[_Standards/WikiData/WD~GNU_Gettext,937302|WD~GNU_Gettext,937302]]"
+  - "[[_Standards/WikiData/WD~GNU_Compiler_for_Java,1007042|WD~GNU_Compiler_for_Java,1007042]]"
+  - "[[_Standards/WikiData/WD~GNUnet,1007056|WD~GNUnet,1007056]]"
+  - "[[_Standards/WikiData/WD~GNU_Fortran,1050459|WD~GNU_Fortran,1050459]]"
+  - "[[_Standards/WikiData/WD~GNU_bison,1071969|WD~GNU_bison,1071969]]"
+  - "[[_Standards/WikiData/WD~Gnash,1142317|WD~Gnash,1142317]]"
+  - "[[_Standards/WikiData/WD~GNU_Binutils,1144975|WD~GNU_Binutils,1144975]]"
+  - "[[_Standards/WikiData/WD~GNU_arch,1187993|WD~GNU_arch,1187993]]"
+  - "[[_Standards/WikiData/WD~GNU_Emacs,1252773|WD~GNU_Emacs,1252773]]"
+  - "[[_Standards/WikiData/WD~Automake,1324275|WD~Automake,1324275]]"
+  - "[[_Standards/WikiData/WD~GNU_Core_Utilities,1348204|WD~GNU_Core_Utilities,1348204]]"
+  - "[[_Standards/WikiData/WD~GNU_Aspell,1368325|WD~GNU_Aspell,1368325]]"
+  - "[[_Standards/WikiData/WD~GNU_Go,1404540|WD~GNU_Go,1404540]]"
+  - "[[_Standards/WikiData/WD~GNU_Common_Lisp,1424922|WD~GNU_Common_Lisp,1424922]]"
+  - "[[_Standards/WikiData/WD~GNU_assembler,1486175|WD~GNU_assembler,1486175]]"
+  - "[[_Standards/WikiData/WD~GNU_Classpath,1486192|WD~GNU_Classpath,1486192]]"
+  - "[[_Standards/WikiData/WD~GNU_Guile,1486208|WD~GNU_Guile,1486208]]"
+  - "[[_Standards/WikiData/WD~GNU_Scientific_Library,1486247|WD~GNU_Scientific_Library,1486247]]"
+  - "[[_Standards/WikiData/WD~GnuTLS,1533305|WD~GnuTLS,1533305]]"
+  - "[[_Standards/WikiData/WD~GNU_PSPP,1848165|WD~GNU_PSPP,1848165]]"
+  - "[[_Standards/WikiData/WD~GNU_IceCat,2009630|WD~GNU_IceCat,2009630]]"
+  - "[[_Standards/WikiData/WD~GNU_Health,2703769|WD~GNU_Health,2703769]]"
+  - "[[_Standards/WikiData/WD~GNU_AutoGen,3093270|WD~GNU_AutoGen,3093270]]"
+  - "[[_Standards/WikiData/WD~GNU_Archimedes,3093274|WD~GNU_Archimedes,3093274]]"
+  - "[[_Standards/WikiData/WD~GNU_FreeIPMI,3093281|WD~GNU_FreeIPMI,3093281]]"
+  - "[[_Standards/WikiData/WD~GNU_Ghostscript,3093287|WD~GNU_Ghostscript,3093287]]"
+  - "[[_Standards/WikiData/WD~GNU_FreeFont,3093285|WD~GNU_FreeFont,3093285]]"
+  - "[[_Standards/WikiData/WD~GNUbik,3093290|WD~GNUbik,3093290]]"
+  - "[[_Standards/WikiData/WD~GNU_Solfege,3093299|WD~GNU_Solfege,3093299]]"
+  - "[[_Standards/WikiData/WD~GNU_inetutils,3093307|WD~GNU_inetutils,3093307]]"
+  - "[[_Standards/WikiData/WD~GNU_findutils,4039165|WD~GNU_findutils,4039165]]"
+  - "[[_Standards/WikiData/WD~GNU_Circuit_Analysis_Package,4039527|WD~GNU_Circuit_Analysis_Package,4039527]]"
+  - "[[_Standards/WikiData/WD~GNU_Enscript,5379931|WD~GNU_Enscript,5379931]]"
+  - "[[_Standards/WikiData/WD~GNU_Anubis,5514020|WD~GNU_Anubis,5514020]]"
+  - "[[_Standards/WikiData/WD~GNU_Unifont,5514030|WD~GNU_Unifont,5514030]]"
+  - "[[_Standards/WikiData/WD~GNU_Radio,5514028|WD~GNU_Radio,5514028]]"
+  - "[[_Standards/WikiData/WD~GNU_fcrypt,5514032|WD~GNU_fcrypt,5514032]]"
+  - "[[_Standards/WikiData/WD~Gnuspeech,5574498|WD~Gnuspeech,5574498]]"
+  - "[[_Standards/WikiData/WD~GnuCOBOL,7095747|WD~GnuCOBOL,7095747]]"
+  - "[[_Standards/WikiData/WD~SLIB,7390950|WD~SLIB,7390950]]"
+  - "[[_Standards/WikiData/WD~GNU_ddrescue,15427600|WD~GNU_ddrescue,15427600]]"
+  - "[[_Standards/WikiData/WD~GNU_Hello,16988498|WD~GNU_Hello,16988498]]"
+  - "[[_Standards/WikiData/WD~LibreJS,17940363|WD~LibreJS,17940363]]"
+  - "[[_Standards/WikiData/WD~GNU_Guix,18968627|WD~GNU_Guix,18968627]]"
+  - "[[_Standards/WikiData/WD~GNU_social,20204906|WD~GNU_social,20204906]]"
+  - "[[_Standards/WikiData/WD~GNU_cpio,21162921|WD~GNU_cpio,21162921]]"
+  - "[[_Standards/WikiData/WD~GNU_Shepherd,21194368|WD~GNU_Shepherd,21194368]]"
+  - "[[_Standards/WikiData/WD~GNU_Grep,21282417|WD~GNU_Grep,21282417]]"
+  - "[[_Standards/WikiData/WD~JWHOIS,21286813|WD~JWHOIS,21286813]]"
+  - "[[_Standards/WikiData/WD~Java_Expressions_Library,21296542|WD~Java_Expressions_Library,21296542]]"
+  - "[[_Standards/WikiData/WD~GNU_Artanis,21404072|WD~GNU_Artanis,21404072]]"
+  - "[[_Standards/WikiData/WD~GNU_Autoconf_Archive,21405244|WD~GNU_Autoconf_Archive,21405244]]"
+  - "[[_Standards/WikiData/WD~Q8038,8038|WD~Q8038,8038]]"
+  - "[[_Standards/WikiData/WD~Q44316,44316|WD~Q44316,44316]]"
+  - "[[_Standards/WikiData/WD~Hurd,48464|WD~Hurd,48464]]"
 copyright_license:
-  - "[[_Standards/WikiData/WD~GNU_Lesser_General_Public_License,192897]]"
-  - "[[_Standards/WikiData/WD~Q1131681,1131681]]"
-  - "[[_Standards/WikiData/WD~GNU_General_Public_License,7603]]"
-different_from: "[[_Standards/WikiData/WD~GNU,227580]]"
-movement: "[[_Standards/WikiData/WD~free_software_movement,1076638]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q8787454,8787454]]"
-package_management_system: "[[_Standards/WikiData/WD~GNU_Guix,18968627]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-mascot: "[[_Standards/WikiData/WD~GNU,60111307]]"
-creator: "[[_Standards/WikiData/WD~Richard_Stallman,7439]]"
-developer: "[[_Standards/WikiData/WD~GNU_Project,7598]]"
-instance_of: "[[_Standards/WikiData/WD~operating_system,9135]]"
-significant_event: "[[_Standards/WikiData/WD~GNU_Manifesto,11275]]"
+  - "[[_Standards/WikiData/WD~GNU_Lesser_General_Public_License,192897|WD~GNU_Lesser_General_Public_License,192897]]"
+  - "[[_Standards/WikiData/WD~Q1131681,1131681|WD~Q1131681,1131681]]"
+  - "[[_Standards/WikiData/WD~GNU_General_Public_License,7603|WD~GNU_General_Public_License,7603]]"
+different_from: "[[_Standards/WikiData/WD~GNU,227580|WD~GNU,227580]]"
+movement: "[[_Standards/WikiData/WD~free_software_movement,1076638|WD~free_software_movement,1076638]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q8787454,8787454|WD~Q8787454,8787454]]"
+package_management_system: "[[_Standards/WikiData/WD~GNU_Guix,18968627|WD~GNU_Guix,18968627]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]"
+mascot: "[[_Standards/WikiData/WD~GNU,60111307|WD~GNU,60111307]]"
+creator: "[[_Standards/WikiData/WD~Richard_Stallman,7439|WD~Richard_Stallman,7439]]"
+developer: "[[_Standards/WikiData/WD~GNU_Project,7598|WD~GNU_Project,7598]]"
+instance_of: "[[_Standards/WikiData/WD~operating_system,9135|WD~operating_system,9135]]"
+significant_event: "[[_Standards/WikiData/WD~GNU_Manifesto,11275|WD~GNU_Manifesto,11275]]"
 named_after:
-  - "[[_Standards/WikiData/WD~Q11368,11368]]"
-  - "[[_Standards/WikiData/WD~GNU,44571]]"
-subclass_of: "[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]"
-sponsor: "[[_Standards/WikiData/WD~Free_Software_Foundation,48413]]"
+  - "[[_Standards/WikiData/WD~Q11368,11368|WD~Q11368,11368]]"
+  - "[[_Standards/WikiData/WD~GNU,44571|WD~GNU,44571]]"
+subclass_of: "[[_Standards/WikiData/WD~Unix_like_operating_system,14656|WD~Unix_like_operating_system,14656]]"
+sponsor: "[[_Standards/WikiData/WD~Free_Software_Foundation,48413|WD~Free_Software_Foundation,48413]]"
 GitHub_topic: gnu
 subreddit: gnu
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Heckert%20GNU%20white.svg
@@ -275,15 +275,15 @@ IRC_channel_URL: irc://irc.freenode.net/#gnu
 Commons_category: GNU Project
 official_name: GNU's not UNIX
 official_website: https://gnu.org
-legal_form: "[[_Standards/WikiData/WD~nonprofit_organization,163740]]"
-industry: "[[_Standards/WikiData/WD~software_industry,880371]]"
-part_of: "[[_Standards/WikiData/WD~free_software_community,2989352]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_GNU,10542482]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~software,7397]]"
-founded_by: "[[_Standards/WikiData/WD~Richard_Stallman,7439]]"
-foundational_text: "[[_Standards/WikiData/WD~GNU_Manifesto,11275]]"
-affiliation: "[[_Standards/WikiData/WD~Free_Software_Foundation,48413]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Free_Software_Foundation,48413]]"
+legal_form: "[[_Standards/WikiData/WD~nonprofit_organization,163740|WD~nonprofit_organization,163740]]"
+industry: "[[_Standards/WikiData/WD~software_industry,880371|WD~software_industry,880371]]"
+part_of: "[[_Standards/WikiData/WD~free_software_community,2989352|WD~free_software_community,2989352]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_GNU,10542482|WD~Template_GNU,10542482]]"
+product_or_material_produced: "[[_Standards/WikiData/WD~software,7397|WD~software,7397]]"
+founded_by: "[[_Standards/WikiData/WD~Richard_Stallman,7439|WD~Richard_Stallman,7439]]"
+foundational_text: "[[_Standards/WikiData/WD~GNU_Manifesto,11275|WD~GNU_Manifesto,11275]]"
+affiliation: "[[_Standards/WikiData/WD~Free_Software_Foundation,48413|WD~Free_Software_Foundation,48413]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~Free_Software_Foundation,48413|WD~Free_Software_Foundation,48413]]"
 Private_Enterprise_Number: "11591"
 ArchWiki_article:
   - GNU
@@ -391,8 +391,8 @@ dv_has_:
 
 # [[GNU_Project]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~GNU,44571]]
-#is_/similar_to :: [[_Standards/WikiData/WD~GNU,7598]]
+#is_/same_as :: [[_Standards/WikiData/WD~GNU,44571|WD~GNU,44571]]
+#is_/similar_to :: [[_Standards/WikiData/WD~GNU,7598|WD~GNU,7598]]
 
 ## #has_/text_of_/abstract 
 

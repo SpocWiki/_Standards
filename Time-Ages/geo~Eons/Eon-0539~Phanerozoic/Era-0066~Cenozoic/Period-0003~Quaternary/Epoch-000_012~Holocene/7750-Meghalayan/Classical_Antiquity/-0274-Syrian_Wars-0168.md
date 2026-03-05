@@ -40,11 +40,11 @@ aliases:
 - 시리아 전쟁
 has_id_wikidata: Q1330607
 participant:
-- '[[_Standards/WikiData/WD~Seleucid_Empire,93180]]'
-- '[[_Standards/WikiData/WD~Diadochi,201546]]'
-- '[[_Standards/WikiData/WD~Ptolemaic_Kingdom,2320005]]'
-location: '[[_Standards/WikiData/WD~Coele_Syria,1123749]]'
-instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151]]'
+- '[[_Standards/WikiData/WD~Seleucid_Empire,93180|WD~Seleucid_Empire,93180]]'
+- '[[_Standards/WikiData/WD~Diadochi,201546|WD~Diadochi,201546]]'
+- '[[_Standards/WikiData/WD~Ptolemaic_Kingdom,2320005|WD~Ptolemaic_Kingdom,2320005]]'
+location: '[[_Standards/WikiData/WD~Coele_Syria,1123749|WD~Coele_Syria,1123749]]'
+instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151|WD~series_of_wars,104212151]]'
 end_time: -0167-01-01T00:00:00Z
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Xenoph%C3%B4n-guerres%20de%20Syrie.wav
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Diadochs-fr.png

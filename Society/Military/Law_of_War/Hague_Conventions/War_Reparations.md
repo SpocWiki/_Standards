@@ -62,10 +62,10 @@ aliases:
 - 전쟁배상금
 has_id_wikidata: Q194181
 instance_of:
-- '[[_Standards/WikiData/WD~legal_concept,2135465]]'
-- '[[_Standards/WikiData/WD~economic_concept,29028649]]'
-facet_of: '[[_Standards/WikiData/WD~war_damage,3035596]]'
-subclass_of: '[[_Standards/WikiData/WD~reparations,7313909]]'
+- '[[_Standards/WikiData/WD~legal_concept,2135465|WD~legal_concept,2135465]]'
+- '[[_Standards/WikiData/WD~economic_concept,29028649|WD~economic_concept,29028649]]'
+facet_of: '[[_Standards/WikiData/WD~war_damage,3035596|WD~war_damage,3035596]]'
+subclass_of: '[[_Standards/WikiData/WD~reparations,7313909|WD~reparations,7313909]]'
 dv_has_:
   name_:
     ar: تعويضات الحروب

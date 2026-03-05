@@ -69,18 +69,18 @@ aliases:
 - 간첩
 - "\U00010346\U00010334\U00010342\U0001033E\U00010330"
 has_id_wikidata: Q9352089
-field_of_this_occupation: '[[_Standards/WikiData/WD~espionage,165950]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~espionage,165950|WD~espionage,165950]]'
 different_from:
-- '[[_Standards/WikiData/WD~Spy,365660]]'
-- '[[_Standards/WikiData/WD~army_scout,2314719]]'
-subclass_of: '[[_Standards/WikiData/WD~intelligence_agent,392651]]'
+- '[[_Standards/WikiData/WD~Spy,365660|WD~Spy,365660]]'
+- '[[_Standards/WikiData/WD~army_scout,2314719|WD~army_scout,2314719]]'
+subclass_of: '[[_Standards/WikiData/WD~intelligence_agent,392651|WD~intelligence_agent,392651]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-opposite_of: '[[_Standards/WikiData/WD~army_scout,2314719]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~army_scout,2314719]]'
-instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+opposite_of: '[[_Standards/WikiData/WD~army_scout,2314719|WD~army_scout,2314719]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~army_scout,2314719|WD~army_scout,2314719]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 Commons_category: Spies
 male_form_of_label:
 - spia

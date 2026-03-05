@@ -40,40 +40,40 @@ aliases:
 - ꯍꯦꯁ꯭ꯇꯤꯌꯥ
 - 헤스티아
 has_id_wikidata: Q41419
-part_of: '[[_Standards/WikiData/WD~Twelve_Olympians,101609]]'
+part_of: '[[_Standards/WikiData/WD~Twelve_Olympians,101609|WD~Twelve_Olympians,101609]]'
 iconographic_symbol:
-- '[[_Standards/WikiData/WD~kettle,107444]]'
-- '[[_Standards/WikiData/WD~Vitex_agnus_castus,259318]]'
-- '[[_Standards/WikiData/WD~pig,787]]'
-mother: '[[_Standards/WikiData/WD~Rhea,108419]]'
+- '[[_Standards/WikiData/WD~kettle,107444|WD~kettle,107444]]'
+- '[[_Standards/WikiData/WD~Vitex_agnus_castus,259318|WD~Vitex_agnus_castus,259318]]'
+- '[[_Standards/WikiData/WD~pig,787|WD~pig,787]]'
+mother: '[[_Standards/WikiData/WD~Rhea,108419|WD~Rhea,108419]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~Vesta,178710]]'
-- '[[_Standards/WikiData/WD~Anuket,211611]]'
-- '[[_Standards/WikiData/WD~Chantico,2052073]]'
+- '[[_Standards/WikiData/WD~Vesta,178710|WD~Vesta,178710]]'
+- '[[_Standards/WikiData/WD~Anuket,211611|WD~Anuket,211611]]'
+- '[[_Standards/WikiData/WD~Chantico,2052073|WD~Chantico,2052073]]'
 domain_of_saint_or_deity:
-- '[[_Standards/WikiData/WD~hearth,585473]]'
-- '[[_Standards/WikiData/WD~dwelling,699405]]'
-- '[[_Standards/WikiData/WD~fire,3196]]'
+- '[[_Standards/WikiData/WD~hearth,585473|WD~hearth,585473]]'
+- '[[_Standards/WikiData/WD~dwelling,699405|WD~dwelling,699405]]'
+- '[[_Standards/WikiData/WD~fire,3196|WD~fire,3196]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-worshipped_by: '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]'
-sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+worshipped_by: '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270|WD~Ancient_Greek_religion,855270]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072|WD~female,6581072]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Greek_deity,22989102]]'
-- '[[_Standards/WikiData/WD~household_deity,30307677]]'
-- '[[_Standards/WikiData/WD~Olympian_god,113103481]]'
-official_residence: '[[_Standards/WikiData/WD~Olympus,70054479]]'
+- '[[_Standards/WikiData/WD~Greek_deity,22989102|WD~Greek_deity,22989102]]'
+- '[[_Standards/WikiData/WD~household_deity,30307677|WD~household_deity,30307677]]'
+- '[[_Standards/WikiData/WD~Olympian_god,113103481|WD~Olympian_god,113103481]]'
+official_residence: '[[_Standards/WikiData/WD~Olympus,70054479|WD~Olympus,70054479]]'
 number_of_children: 0
 sibling:
-- '[[_Standards/WikiData/WD~Zeus,34201]]'
-- '[[_Standards/WikiData/WD~Hera,38012]]'
-- '[[_Standards/WikiData/WD~Demeter,40730]]'
-- '[[_Standards/WikiData/WD~Poseidon,41127]]'
-- '[[_Standards/WikiData/WD~Hades,41410]]'
-father: '[[_Standards/WikiData/WD~Cronus,44204]]'
+- '[[_Standards/WikiData/WD~Zeus,34201|WD~Zeus,34201]]'
+- '[[_Standards/WikiData/WD~Hera,38012|WD~Hera,38012]]'
+- '[[_Standards/WikiData/WD~Demeter,40730|WD~Demeter,40730]]'
+- '[[_Standards/WikiData/WD~Poseidon,41127|WD~Poseidon,41127]]'
+- '[[_Standards/WikiData/WD~Hades,41410|WD~Hades,41410]]'
+father: '[[_Standards/WikiData/WD~Cronus,44204|WD~Cronus,44204]]'
 Hederich_encyclopedia_article: Hestia
 Commons_category: Hestia
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hestia%20-%20Wellesley%20College%20-%20DSC09634.JPG

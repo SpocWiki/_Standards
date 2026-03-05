@@ -41,13 +41,13 @@ aliases:
 - 希伯來文文學
 has_id_wikidata: Q1057314
 subclass_of:
-- '[[_Standards/WikiData/WD~oriental_studies,476294]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~literature,8242]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
-uses: '[[_Standards/WikiData/WD~Hebrew,9288]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~Hebrew,9288]]'
+- '[[_Standards/WikiData/WD~oriental_studies,476294|WD~oriental_studies,476294]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~literature,8242|WD~literature,8242]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
+uses: '[[_Standards/WikiData/WD~Hebrew,9288|WD~Hebrew,9288]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Hebrew,9288|WD~Hebrew,9288]]'
 Commons_category: Hebrew-language literature
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/EVRESKAYA_LITERATURA_NA_IVRITE.html
 dv_has_:

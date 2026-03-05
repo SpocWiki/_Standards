@@ -8,7 +8,7 @@ dv_has_:
     property:
       - "[[../../Texts/has_action_option.md|has_actionOption]]"
       - "[[has_candidate]]"
-      - "[[../is/is_in_collection]]"
+      - "[[../is/is_in_collection|is_in_collection]]"
       - "[[../is/is_followee_of|is_followee_of]]"
       - "[[../../Property/Texts/has_action_option|has_action_option]]"
       - "[[has_question]]"
@@ -31,7 +31,7 @@ dv_has_range: "[[../../Class/Thing|Thing]]"
 dv_has_child_property:
   - "[[../../Texts/has_action_option.md|has_actionOption]]"
   - "[[has_candidate]]"
-  - "[[../is/is_in_collection]]"
+  - "[[../is/is_in_collection|is_in_collection]]"
   - "[[../is/is_followee_of|is_followee_of]]"
   - "[[../../Property/Texts/has_action_option|has_action_option]]"
   - "[[has_question]]"
@@ -101,7 +101,7 @@ has_name = `=this.dv_has_name`
 has_range = `=this.dv_has_range`  
 
 (Links work only in read-mode)
-#has_/child_/property :: [[../../Texts/has_action_option.md|has_actionOption]] , [[has_candidate.md]] , [[../is/is_in_collection.md]],  [[../is/is_followee_of|is_followee_of]],  [[../../Property/Texts/has_action_option|has_action_option]] , [[has_question.md]],  [[has_replacee]],  [[has_replacer|has_replacer]] , [[has_target/has_target_collection|has_targetCollection]] 
+#has_/child_/property :: [[../../Texts/has_action_option.md|has_actionOption]] , [[has_candidate.md]] , [[../is/is_in_collection.md|is_in_collection.md]],  [[../is/is_followee_of|is_followee_of]],  [[../../Property/Texts/has_action_option|has_action_option]] , [[has_question.md]],  [[has_replacee]],  [[has_replacer|has_replacer]] , [[has_target/has_target_collection|has_targetCollection]] 
 
 
 ## Confidential Links & Embeds: 

@@ -54,9 +54,9 @@ aliases:
 - 必須医薬品
 - 필수 의약품
 has_id_wikidata: Q35456
-instance_of: '[[_Standards/WikiData/WD~drug_class,2585617]]'
-facet_of: '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-subclass_of: '[[_Standards/WikiData/WD~medication,12140]]'
+instance_of: '[[_Standards/WikiData/WD~drug_class,2585617|WD~drug_class,2585617]]'
+facet_of: '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+subclass_of: '[[_Standards/WikiData/WD~medication,12140|WD~medication,12140]]'
 UMLS_CUI: C0282568
 MeSH_tree_code: D26.355
 dv_has_:

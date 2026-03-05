@@ -36,29 +36,29 @@ domain_name: nationalgeographic.com
 ISO_4_abbreviation: Natl. Geogr.
 CODEN: NGGMAF
 document_file_on_Wikimedia_Commons: http://commons.wikimedia.org/wiki/Special:FilePath/The%20National%20geographic%20magazine%20%28IA%20nationalgeograph11889nati%29.pdf
-publisher: '[[_Standards/WikiData/WD~National_Geographic_Society,167186]]'
-author: '[[_Standards/WikiData/WD~National_Geographic_Society,167186]]'
+publisher: '[[_Standards/WikiData/WD~National_Geographic_Society,167186|WD~National_Geographic_Society,167186]]'
+author: '[[_Standards/WikiData/WD~National_Geographic_Society,167186|WD~National_Geographic_Society,167186]]'
 different_from:
-- '[[_Standards/WikiData/WD~National_Geographic_Society,167186]]'
-- '[[_Standards/WikiData/WD~National_Geographic_Eesti,20529513]]'
-indexed_in_bibliographic_review: '[[_Standards/WikiData/WD~Scopus,371467]]'
+- '[[_Standards/WikiData/WD~National_Geographic_Society,167186|WD~National_Geographic_Society,167186]]'
+- '[[_Standards/WikiData/WD~National_Geographic_Eesti,20529513|WD~National_Geographic_Eesti,20529513]]'
+indexed_in_bibliographic_review: '[[_Standards/WikiData/WD~Scopus,371467|WD~Scopus,371467]]'
 main_subject:
-- '[[_Standards/WikiData/WD~natural_history,484591]]'
-- '[[_Standards/WikiData/WD~photojournalism,506858]]'
-- '[[_Standards/WikiData/WD~social_geography,524273]]'
-- '[[_Standards/WikiData/WD~geography,1071]]'
-instance_of: '[[_Standards/WikiData/WD~scientific_journal,5633421]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~Kompas_Gramedia_Group,6428600]]'
-website_account_on: '[[_Standards/WikiData/WD~Kahoot!,21683250]]'
+- '[[_Standards/WikiData/WD~natural_history,484591|WD~natural_history,484591]]'
+- '[[_Standards/WikiData/WD~photojournalism,506858|WD~photojournalism,506858]]'
+- '[[_Standards/WikiData/WD~social_geography,524273|WD~social_geography,524273]]'
+- '[[_Standards/WikiData/WD~geography,1071|WD~geography,1071]]'
+instance_of: '[[_Standards/WikiData/WD~scientific_journal,5633421|WD~scientific_journal,5633421]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Kompas_Gramedia_Group,6428600|WD~Kompas_Gramedia_Group,6428600]]'
+website_account_on: '[[_Standards/WikiData/WD~Kahoot!,21683250|WD~Kahoot!,21683250]]'
 start_time: 1888-01-01T00:00:00Z
 inception: 1888-01-01T00:00:00Z
 language_of_work_or_name:
-- '[[_Standards/WikiData/WD~Italian,652]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Indonesian,9240]]'
-owned_by: '[[_Standards/WikiData/WD~The_Walt_Disney_Company,7414]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-place_of_publication: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+- '[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Indonesian,9240|WD~Indonesian,9240]]'
+owned_by: '[[_Standards/WikiData/WD~The_Walt_Disney_Company,7414|WD~The_Walt_Disney_Company,7414]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~Washington,_D.C.,61|WD~Washington,_D.C.,61]]'
 publication_interval: 1
 Universal_Decimal_Classification_works_and_editions_: 91
 Dewey_Decimal_Classification_works_and_editions_: 910

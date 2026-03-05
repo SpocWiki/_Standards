@@ -34,9 +34,9 @@ aliases:
 - 靜磁學
 - 정자기학
 has_id_wikidata: Q665093
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~physics,413]]'
-instance_of: '[[_Standards/WikiData/WD~theory,17737]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
+instance_of: '[[_Standards/WikiData/WD~theory,17737|WD~theory,17737]]'
 IEV_number: 121-11-73
 Commons_category: Magnetostatics
 dv_has_:

@@ -40,15 +40,15 @@ aliases:
 - 輕艇
 - 카누 경기
 has_id_wikidata: Q20856109
-uses: '[[_Standards/WikiData/WD~canoe,171529]]'
+uses: '[[_Standards/WikiData/WD~canoe,171529|WD~canoe,171529]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~canoeing_and_kayaking,213934]]'
-- '[[_Standards/WikiData/WD~human_activity,61788060]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~canoeing_and_kayaking,213934]]'
-part_of: '[[_Standards/WikiData/WD~canoeing_and_kayaking,213934]]'
-practiced_by: '[[_Standards/WikiData/WD~canoeist,13382566]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~canoeing_and_kayaking,213934|WD~canoeing_and_kayaking,213934]]'
+- '[[_Standards/WikiData/WD~human_activity,61788060|WD~human_activity,61788060]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~canoeing_and_kayaking,213934|WD~canoeing_and_kayaking,213934]]'
+part_of: '[[_Standards/WikiData/WD~canoeing_and_kayaking,213934|WD~canoeing_and_kayaking,213934]]'
+practiced_by: '[[_Standards/WikiData/WD~canoeist,13382566|WD~canoeist,13382566]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 BHCL_UUID: 3e6092bc-674f-4fce-a4ef-c8cdafd6c03d
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Canoeing%20%28flatwater%29%20pictogram.svg
 Commons_category: Canoeing

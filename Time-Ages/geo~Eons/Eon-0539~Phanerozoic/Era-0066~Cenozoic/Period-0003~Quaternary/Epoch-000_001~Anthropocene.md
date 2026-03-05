@@ -45,17 +45,17 @@ aliases:
 - 인류세
 has_id_wikidata: Q26841
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-has_cause: '[[_Standards/WikiData/WD~human_overpopulation,331439]]'
-inspired_by: '[[_Standards/WikiData/WD~noosphere,729672]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+has_cause: '[[_Standards/WikiData/WD~human_overpopulation,331439|WD~human_overpopulation,331439]]'
+inspired_by: '[[_Standards/WikiData/WD~noosphere,729672|WD~noosphere,729672]]'
 studied_by:
-- '[[_Standards/WikiData/WD~Quaternary_science,2453249]]'
-- '[[_Standards/WikiData/WD~Earth_science,8008]]'
-- '[[_Standards/WikiData/WD~anthropology,23404]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Anthropocene,108045866]]'
-facet_of: '[[_Standards/WikiData/WD~human_nature_relationship,109278985]]'
+- '[[_Standards/WikiData/WD~Quaternary_science,2453249|WD~Quaternary_science,2453249]]'
+- '[[_Standards/WikiData/WD~Earth_science,8008|WD~Earth_science,8008]]'
+- '[[_Standards/WikiData/WD~anthropology,23404|WD~anthropology,23404]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Anthropocene,108045866|WD~Category_Anthropocene,108045866]]'
+facet_of: '[[_Standards/WikiData/WD~human_nature_relationship,109278985|WD~human_nature_relationship,109278985]]'
 coordinate_location: Point(-79.948611111 43.468055555)
 Commons_category: Anthropocene
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Anthropocene%20collage.jpg

@@ -40,12 +40,12 @@ aliases:
 - 密西西比亚纪
 - 미시시피기
 has_id_wikidata: Q744718
-described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
 instance_of:
-- '[[_Standards/WikiData/WD~subperiod,2239359]]'
-- '[[_Standards/WikiData/WD~subsystem,115645631]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Mississippian_(geology),21510717]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~subperiod,2239359|WD~subperiod,2239359]]'
+- '[[_Standards/WikiData/WD~subsystem,115645631|WD~subsystem,115645631]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Mississippian_(geology),21510717|WD~Category_Mississippian_(geology),21510717]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 Commons_category: Mississippian Subperiod
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20340%20Ma%20%28Vis%C3%A9an%20Age%29.png
 sRGB_color_hex_triplet: 678F66
@@ -159,7 +159,7 @@ dv_has_text_of_color: 0x678F66
 
 A time period from 358.9 to 323.2 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-340_Ma_(Viséan_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-340_Ma_(Viséan_Age).png|Earth-340_Ma_(Viséan_Age).png]] 
 
 ## #has_/text_of_/abstract  
 

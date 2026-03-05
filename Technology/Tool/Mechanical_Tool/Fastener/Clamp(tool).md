@@ -40,11 +40,11 @@ aliases:
 - 조임틀
 has_id_wikidata: Q846600
 subclass_of:
-- '[[_Standards/WikiData/WD~joining_technology,266328]]'
-- '[[_Standards/WikiData/WD~fastener,2002016]]'
-- '[[_Standards/WikiData/WD~physical_tool,39546]]'
-has_use: '[[_Standards/WikiData/WD~fixture,10863071]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~joining_technology,266328|WD~joining_technology,266328]]'
+- '[[_Standards/WikiData/WD~fastener,2002016|WD~fastener,2002016]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]'
+has_use: '[[_Standards/WikiData/WD~fixture,10863071|WD~fixture,10863071]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 Nomenclature_for_Museum_Cataloging: 9170
 GS1_GPC_code: 10003535
 Commons_gallery: Clamp

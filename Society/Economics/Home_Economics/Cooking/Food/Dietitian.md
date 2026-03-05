@@ -46,14 +46,14 @@ aliases:
 - 营养师
 - 영양사
 has_id_wikidata: Q842811
-field_of_this_occupation: '[[_Standards/WikiData/WD~dietetics,1231861]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~dietetics,1231861|WD~dietetics,1231861]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~nutritionist,2576499]]'
-- '[[_Standards/WikiData/WD~health_professional,11974939]]'
-instance_of: '[[_Standards/WikiData/WD~health_profession,3922583]]'
+- '[[_Standards/WikiData/WD~nutritionist,2576499|WD~nutritionist,2576499]]'
+- '[[_Standards/WikiData/WD~health_professional,11974939|WD~health_professional,11974939]]'
+instance_of: '[[_Standards/WikiData/WD~health_profession,3922583|WD~health_profession,3922583]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~Q56787564,56787564]]'
-- '[[_Standards/WikiData/WD~Q94778593,94778593]]'
+- '[[_Standards/WikiData/WD~Q56787564,56787564|WD~Q56787564,56787564]]'
+- '[[_Standards/WikiData/WD~Q94778593,94778593|WD~Q94778593,94778593]]'
 KldB_2010_occupation_code: 81762
 ISCO_88_occupation_class: 3223
 ISCO_08_occupation_class: 2265

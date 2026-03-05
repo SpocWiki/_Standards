@@ -80,28 +80,28 @@ aliases:
 - 풍력 터빈
 has_id_wikidata: Q49833
 has_part_s_:
-- '[[_Standards/WikiData/WD~electrical_generator,131502]]'
-- '[[_Standards/WikiData/WD~wind_turbine_blade,15768944]]'
-- '[[_Standards/WikiData/WD~nacelle,17096790]]'
-- '[[_Standards/WikiData/WD~tower,61881737]]'
+- '[[_Standards/WikiData/WD~electrical_generator,131502|WD~electrical_generator,131502]]'
+- '[[_Standards/WikiData/WD~wind_turbine_blade,15768944|WD~wind_turbine_blade,15768944]]'
+- '[[_Standards/WikiData/WD~nacelle,17096790|WD~nacelle,17096790]]'
+- '[[_Standards/WikiData/WD~tower,61881737|WD~tower,61881737]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~power_station,159719]]'
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~electric_power_source,1753139]]'
-part_of: '[[_Standards/WikiData/WD~wind_farm,194356]]'
-has_characteristic: '[[_Standards/WikiData/WD~height,208826]]'
+- '[[_Standards/WikiData/WD~power_station,159719|WD~power_station,159719]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~electric_power_source,1753139|WD~electric_power_source,1753139]]'
+part_of: '[[_Standards/WikiData/WD~wind_farm,194356|WD~wind_farm,194356]]'
+has_characteristic: '[[_Standards/WikiData/WD~height,208826|WD~height,208826]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~wind_turbine,719875]]'
-- '[[_Standards/WikiData/WD~Q85885276,85885276]]'
+- '[[_Standards/WikiData/WD~wind_turbine,719875|WD~wind_turbine,719875]]'
+- '[[_Standards/WikiData/WD~Q85885276,85885276|WD~Q85885276,85885276]]'
 different_from:
-- '[[_Standards/WikiData/WD~wind_turbine_generator_system,2875694]]'
-- '[[_Standards/WikiData/WD~windmill,38720]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_wind_turbine,22861245]]'
-has_effect: '[[_Standards/WikiData/WD~wind_turbine_noise,66459114]]'
-described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+- '[[_Standards/WikiData/WD~wind_turbine_generator_system,2875694|WD~wind_turbine_generator_system,2875694]]'
+- '[[_Standards/WikiData/WD~windmill,38720|WD~windmill,38720]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_wind_turbine,22861245|WD~Template_Infobox_wind_turbine,22861245]]'
+has_effect: '[[_Standards/WikiData/WD~wind_turbine_noise,66459114|WD~wind_turbine_noise,66459114]]'
+described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
 time_of_discovery_or_invention: 1887-01-01T00:00:00Z
 carbon_footprint: 12
-source_of_energy: '[[_Standards/WikiData/WD~wind_power,43302]]'
+source_of_energy: '[[_Standards/WikiData/WD~wind_power,43302|WD~wind_power,43302]]'
 Commons_gallery: Wind turbine
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Windkraftanlage.ogg
 hashtag: Windkraftanlage
@@ -221,7 +221,7 @@ dv_has_:
 
 # [[Wind_Turbine]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Wind_turbine,49833]] 
+#is_/same_as :: [[../../../../WikiData/WD~Wind_turbine,49833|WD~Wind_turbine,49833]] 
 
 ## #has_/text_of_/abstract 
 

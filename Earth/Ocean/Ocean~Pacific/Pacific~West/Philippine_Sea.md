@@ -92,27 +92,27 @@ location:
 - 134
 coordinate_location: Point(134.0 18.0)
 connects_with:
-- '[[_Standards/WikiData/WD~Seto_Inland_Sea,231312]]'
-- '[[_Standards/WikiData/WD~Bohol_Sea,242326]]'
-- '[[_Standards/WikiData/WD~Samar_Sea,392623]]'
-- '[[_Standards/WikiData/WD~Celebes_Sea,19270]]'
-- '[[_Standards/WikiData/WD~South_China_Sea,37660]]'
-- '[[_Standards/WikiData/WD~East_China_Sea,45341]]'
+- '[[_Standards/WikiData/WD~Seto_Inland_Sea,231312|WD~Seto_Inland_Sea,231312]]'
+- '[[_Standards/WikiData/WD~Bohol_Sea,242326|WD~Bohol_Sea,242326]]'
+- '[[_Standards/WikiData/WD~Samar_Sea,392623|WD~Samar_Sea,392623]]'
+- '[[_Standards/WikiData/WD~Celebes_Sea,19270|WD~Celebes_Sea,19270]]'
+- '[[_Standards/WikiData/WD~South_China_Sea,37660|WD~South_China_Sea,37660]]'
+- '[[_Standards/WikiData/WD~East_China_Sea,45341|WD~East_China_Sea,45341]]'
 inflows:
-- '[[_Standards/WikiData/WD~Catubig_River,1051349]]'
-- '[[_Standards/WikiData/WD~Nakama_River,11378628]]'
-- '[[_Standards/WikiData/WD~Hinatuan_Enchanted_River,15224141]]'
-described_by_source: '[[_Standards/WikiData/WD~Q35541239,35541239]]'
+- '[[_Standards/WikiData/WD~Catubig_River,1051349|WD~Catubig_River,1051349]]'
+- '[[_Standards/WikiData/WD~Nakama_River,11378628|WD~Nakama_River,11378628]]'
+- '[[_Standards/WikiData/WD~Hinatuan_Enchanted_River,15224141|WD~Hinatuan_Enchanted_River,15224141]]'
+described_by_source: '[[_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]'
 country:
-- '[[_Standards/WikiData/WD~Palau,695]]'
-- '[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Philippines,928]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
-part_of: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
-instance_of: '[[_Standards/WikiData/WD~sea,165]]'
+- '[[_Standards/WikiData/WD~Palau,695|WD~Palau,695]]'
+- '[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702|WD~Federated_States_of_Micronesia,702]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
+part_of: '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
+instance_of: '[[_Standards/WikiData/WD~sea,165|WD~sea,165]]'
 area: 5000000
 vertical_depth: 10911
 U_S_National_Archives_Identifier: 10046235

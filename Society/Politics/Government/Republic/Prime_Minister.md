@@ -130,18 +130,18 @@ aliases:
 - 수상
 has_id_wikidata: Q14212
 subclass_of:
-- '[[_Standards/WikiData/WD~minister,83307]]'
-- '[[_Standards/WikiData/WD~governing_body,895526]]'
-- '[[_Standards/WikiData/WD~head_of_government,2285706]]'
-next_lower_rank: '[[_Standards/WikiData/WD~deputy_prime_minister,877955]]'
-substitute_deputy_replacement_of_office_officeholder: '[[_Standards/WikiData/WD~deputy_prime_minister,877955]]'
+- '[[_Standards/WikiData/WD~minister,83307|WD~minister,83307]]'
+- '[[_Standards/WikiData/WD~governing_body,895526|WD~governing_body,895526]]'
+- '[[_Standards/WikiData/WD~head_of_government,2285706|WD~head_of_government,2285706]]'
+next_lower_rank: '[[_Standards/WikiData/WD~deputy_prime_minister,877955|WD~deputy_prime_minister,877955]]'
+substitute_deputy_replacement_of_office_officeholder: '[[_Standards/WikiData/WD~deputy_prime_minister,877955|WD~deputy_prime_minister,877955]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~premier,959664]]'
-- '[[_Standards/WikiData/WD~minister_president,3099723]]'
-- '[[_Standards/WikiData/WD~Statsminister,13409304]]'
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_prime_minister,25953780]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_position,136649946]]'
+- '[[_Standards/WikiData/WD~premier,959664|WD~premier,959664]]'
+- '[[_Standards/WikiData/WD~minister_president,3099723|WD~minister_president,3099723]]'
+- '[[_Standards/WikiData/WD~Statsminister,13409304|WD~Statsminister,13409304]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_prime_minister,25953780|WD~Template_Infobox_prime_minister,25953780]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_position,136649946|WD~type_of_position,136649946]]'
 U_S_National_Archives_Identifier: 10646144
 OmegaWiki_Defined_Meaning: 1209002
 female_form_of_label:

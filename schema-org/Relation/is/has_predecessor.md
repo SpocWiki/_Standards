@@ -74,7 +74,7 @@ Use it like this:
 
 This is typically temporal or causal, while [[../has/has_next_item|has_next_item]] refers to items in a (1D linked) List. 
 
-- [ ] TODO: unify with [[../has/has_previous_item]].  
+- [ ] TODO: unify with [[../has/has_previous_item|has_previous_item]].  
 
 A pointer from a newer variant of a product  to its previous, 
 often [[../../Enumeration/Item_Availability/Discontinued|discontinued]] predecessor.

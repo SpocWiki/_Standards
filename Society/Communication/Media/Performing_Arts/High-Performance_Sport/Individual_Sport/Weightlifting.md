@@ -91,25 +91,25 @@ aliases:
 - 역도
 has_id_wikidata: Q83462
 instance_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~powerlifting,213796]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~powerlifting,213796|WD~powerlifting,213796]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~strength_sport,337979]]'
-- '[[_Standards/WikiData/WD~individual_sport,2755547]]'
-- '[[_Standards/WikiData/WD~weightlifting,114397581]]'
-- '[[_Standards/WikiData/WD~lifting,115728332]]'
-part_of: '[[_Standards/WikiData/WD~heavy_athletics,363752]]'
+- '[[_Standards/WikiData/WD~strength_sport,337979|WD~strength_sport,337979]]'
+- '[[_Standards/WikiData/WD~individual_sport,2755547|WD~individual_sport,2755547]]'
+- '[[_Standards/WikiData/WD~weightlifting,114397581|WD~weightlifting,114397581]]'
+- '[[_Standards/WikiData/WD~lifting,115728332|WD~lifting,115728332]]'
+part_of: '[[_Standards/WikiData/WD~heavy_athletics,363752|WD~heavy_athletics,363752]]'
 uses:
-- '[[_Standards/WikiData/WD~dumbbell,465453]]'
-- '[[_Standards/WikiData/WD~barbell,1043897]]'
-- '[[_Standards/WikiData/WD~weight_plate,2220762]]'
-- '[[_Standards/WikiData/WD~lifting,115728332]]'
-record_or_record_progression: '[[_Standards/WikiData/WD~list_of_world_records_in_Olympic_weightlifting,606511]]'
-authority: '[[_Standards/WikiData/WD~International_Weightlifting_Federation,913687]]'
-practiced_by: '[[_Standards/WikiData/WD~weightlifter,13381376]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~repetition,16686611]]'
+- '[[_Standards/WikiData/WD~dumbbell,465453|WD~dumbbell,465453]]'
+- '[[_Standards/WikiData/WD~barbell,1043897|WD~barbell,1043897]]'
+- '[[_Standards/WikiData/WD~weight_plate,2220762|WD~weight_plate,2220762]]'
+- '[[_Standards/WikiData/WD~lifting,115728332|WD~lifting,115728332]]'
+record_or_record_progression: '[[_Standards/WikiData/WD~list_of_world_records_in_Olympic_weightlifting,606511|WD~list_of_world_records_in_Olympic_weightlifting,606511]]'
+authority: '[[_Standards/WikiData/WD~International_Weightlifting_Federation,913687|WD~International_Weightlifting_Federation,913687]]'
+practiced_by: '[[_Standards/WikiData/WD~weightlifter,13381376|WD~weightlifter,13381376]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~repetition,16686611|WD~repetition,16686611]]'
 IAB_code: 544
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-W1107-0054%2C%20Peter%20Wenzel.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Weightlifting%20pictogram.svg

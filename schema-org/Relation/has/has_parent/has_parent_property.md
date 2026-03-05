@@ -40,7 +40,7 @@ title:
   "{ newTitle: }":
 type: private_note
 dv_is_:
-  sub_property_of: "[[../../../Property]]"
+  sub_property_of: "[[../../../Property|Property]]"
   similar_to: "[[../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subPropertyOf|rdfs~subPropertyOf]]"
   same_as:
     - "[[has_parent_property|has_parent_property]]"
@@ -52,15 +52,15 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_parent_property.secret|has_parent_property.secret]]"
     - "[[has_parent_property]]"
   part_of: "[[has_parent_property]]"
-dv_has_parent_property: "[[../../../Property]]"
+dv_has_parent_property: "[[../../../Property|Property]]"
 dv_has_:
   inverse: "[[has_child_properties]]"
-  domain: "[[../../../Property]]"
+  domain: "[[../../../Property|Property]]"
   name: "[[has_parent_property]]"
-  range: "[[../../../Property]]"
-dv_has_domain: "[[../../../Property]]"
+  range: "[[../../../Property|Property]]"
+dv_has_domain: "[[../../../Property|Property]]"
 dv_has_name: "[[has_parent_property]]"
-dv_has_range: "[[../../../Property]]"
+dv_has_range: "[[../../../Property|Property]]"
 dv_is_similar_to: "[[../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subPropertyOf|rdfs~subPropertyOf]]"
 dv_has_inverse: "[[has_child_properties]]"
 dv_is_same_as:
@@ -81,7 +81,7 @@ lang: en
 dv_is_part_of: "[[has_parent_property]]"
 ---
 
-# [[../Relation/has_parent_property]]
+# [[../Relation/has_parent_property|has_parent_property]]
 
 is_similar_to = `=this.dv_is_similar_to` 
 has_inverse = `=this.dv_has_inverse` 

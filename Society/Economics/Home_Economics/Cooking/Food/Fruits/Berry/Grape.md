@@ -154,32 +154,32 @@ aliases:
 - 포도
 has_id_wikidata: Q10978
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-part_of: '[[_Standards/WikiData/WD~grape_juice,1209756]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]'
+part_of: '[[_Standards/WikiData/WD~grape_juice,1209756|WD~grape_juice,1209756]]'
 color:
-- '[[_Standards/WikiData/WD~purple,3257809]]'
-- '[[_Standards/WikiData/WD~green,3133]]'
-- '[[_Standards/WikiData/WD~red,3142]]'
-- '[[_Standards/WikiData/WD~black,23445]]'
+- '[[_Standards/WikiData/WD~purple,3257809|WD~purple,3257809]]'
+- '[[_Standards/WikiData/WD~green,3133|WD~green,3133]]'
+- '[[_Standards/WikiData/WD~red,3142|WD~red,3142]]'
+- '[[_Standards/WikiData/WD~black,23445|WD~black,23445]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~fruit,3314483]]'
-- '[[_Standards/WikiData/WD~berry,13184]]'
-instance_of: '[[_Standards/WikiData/WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~fruit,3314483|WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~berry,13184|WD~berry,13184]]'
+instance_of: '[[_Standards/WikiData/WD~fruit,3314483|WD~fruit,3314483]]'
 different_from:
-- '[[_Standards/WikiData/WD~Q18909646,18909646]]'
-- '[[_Standards/WikiData/WD~grapefruit,21552830]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131430,27131430]]'
+- '[[_Standards/WikiData/WD~Q18909646,18909646|WD~Q18909646,18909646]]'
+- '[[_Standards/WikiData/WD~grapefruit,21552830|WD~grapefruit,21552830]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131430,27131430|WD~Q27131430,27131430]]'
 natural_product_of_taxon:
-- '[[_Standards/WikiData/WD~Vitis_vinifera_subsp._vinifera,20634]]'
-- '[[_Standards/WikiData/WD~Vitis_vinifera,30046]]'
+- '[[_Standards/WikiData/WD~Vitis_vinifera_subsp._vinifera,20634|WD~Vitis_vinifera_subsp._vinifera,20634]]'
+- '[[_Standards/WikiData/WD~Vitis_vinifera,30046|WD~Vitis_vinifera,30046]]'
 carbon_footprint: 0.7
 water_footprint:
 - 608

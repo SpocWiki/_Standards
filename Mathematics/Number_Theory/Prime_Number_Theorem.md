@@ -48,13 +48,13 @@ aliases:
 - 质数定理
 - 소수 정리
 has_id_wikidata: Q386292
-instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
+instance_of: '[[_Standards/WikiData/WD~theorem,65943|WD~theorem,65943]]'
 proved_by:
-- '[[_Standards/WikiData/WD~Jacques_Hadamard,164425]]'
-- '[[_Standards/WikiData/WD~Charles_Jean_de_la_Vallée_Poussin,982518]]'
-part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-studied_by: '[[_Standards/WikiData/WD~analytic_number_theory,10843274]]'
+- '[[_Standards/WikiData/WD~Jacques_Hadamard,164425|WD~Jacques_Hadamard,164425]]'
+- '[[_Standards/WikiData/WD~Charles_Jean_de_la_Vallée_Poussin,982518|WD~Charles_Jean_de_la_Vallée_Poussin,982518]]'
+part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443|WD~list_of_theorems,944443]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+studied_by: '[[_Standards/WikiData/WD~analytic_number_theory,10843274|WD~analytic_number_theory,10843274]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><munder><mi form="prefix">lim</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>x</mi><mo stretchy="false" accent="false">&#x2192;</mo><mi mathvariant="normal">&#x221E;</mi></mrow></mrow></munder><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03C0;</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>x</mi><mo lspace="0" rspace="0">/</mo><mi>log</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></mrow></mfrac></mrow><mo stretchy="false">=</mo><mn>1</mn></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PrimeNumberTheorem.png
 dv_has_:

@@ -167,7 +167,7 @@ dv_has_:
 > by mainstream viewers, championing filmmakers like Woody Allen, Spike Lee, Werner Herzog 
 > and Errol Morris, as well as Martin Scorsese, whose first published review he wrote. 
 > 
-> In 1975, Ebert became the first film critic to win the [[../../Journalism/Pulitzer_Prize]] for Criticism. 
+> In 1975, Ebert became the first film critic to win the [[../../Journalism/Pulitzer_Prize|Pulitzer_Prize]] for Criticism. 
 > Neil Steinberg of the Chicago Sun-Times said 
 > Ebert "was without question the nation's most prominent and influential film critic," 
 > and Kenneth Turan of the Los Angeles Times called him "the best-known film critic in America."
@@ -187,7 +187,7 @@ dv_has_:
 > After Siskel died from a brain tumor in 1999, Ebert continued hosting the show 
 > with various co-hosts and then, starting in 2000, with Richard Roeper.
 >
-> In the early 2000s, Ebert was diagnosed with cancer of the [[../../TV-Series/thyroid_gland]] and [[salivary gland]]s. 
+> In the early 2000s, Ebert was diagnosed with cancer of the [[../../TV-Series/thyroid_gland|thyroid_gland]] and [[salivary gland]]s. 
 > He required treatment that included removing a section of his lower jaw in 2006, 
 > leaving him severely disfigured and unable to speak or eat normally. 
 > However, his ability to write remained unimpaired and he continued 

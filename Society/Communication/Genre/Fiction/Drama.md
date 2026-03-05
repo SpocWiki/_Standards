@@ -57,24 +57,24 @@ aliases:
 - 드라마
 has_id_wikidata: Q25372
 different_from:
-- '[[_Standards/WikiData/WD~drama_film,130232]]'
-- '[[_Standards/WikiData/WD~dramaturgy,492537]]'
-- '[[_Standards/WikiData/WD~narrative,1318295]]'
-- '[[_Standards/WikiData/WD~lyricism,3326349]]'
-- '[[_Standards/WikiData/WD~drama_fiction,21010853]]'
-- '[[_Standards/WikiData/WD~play,25379]]'
+- '[[_Standards/WikiData/WD~drama_film,130232|WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~dramaturgy,492537|WD~dramaturgy,492537]]'
+- '[[_Standards/WikiData/WD~narrative,1318295|WD~narrative,1318295]]'
+- '[[_Standards/WikiData/WD~lyricism,3326349|WD~lyricism,3326349]]'
+- '[[_Standards/WikiData/WD~drama_fiction,21010853|WD~drama_fiction,21010853]]'
+- '[[_Standards/WikiData/WD~play,25379|WD~play,25379]]'
 instance_of:
-- '[[_Standards/WikiData/WD~literary_mode,621993]]'
-- '[[_Standards/WikiData/WD~literary_form,4263830]]'
+- '[[_Standards/WikiData/WD~literary_mode,621993|WD~literary_mode,621993]]'
+- '[[_Standards/WikiData/WD~literary_form,4263830|WD~literary_form,4263830]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-subclass_of: '[[_Standards/WikiData/WD~narrative,1318295]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~ख_ळ,27131234]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Drama,42353171]]'
-facet_of: '[[_Standards/WikiData/WD~dramatic_work,116476516]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~narrative,1318295|WD~narrative,1318295]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~ख_ळ,27131234|WD~ख_ळ,27131234]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Drama,42353171|WD~Portal_Drama,42353171]]'
+facet_of: '[[_Standards/WikiData/WD~dramatic_work,116476516|WD~dramatic_work,116476516]]'
 Archive_of_Our_Own_tag: Drama
 Commons_category: Drama
 image:

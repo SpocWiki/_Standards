@@ -65,7 +65,7 @@ aliases:
 
 # [[Table_Knife]] 
 
-#is_a :: [[../../../../../../Technology/Tool/Mechanical_Tool/Hand_Tool/Knife]] 
+#is_a :: [[../../../../../../Technology/Tool/Mechanical_Tool/Hand_Tool/Knife|Knife]] 
 
 ## #has_/text_of_/abstract 
 

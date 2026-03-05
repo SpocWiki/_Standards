@@ -95,23 +95,23 @@ aliases:
 - "俗麭\U000296E9"
 - 샌드위치
 has_id_wikidata: Q28803
-named_after: '[[_Standards/WikiData/WD~John_Montagu,_4th_Earl_of_Sandwich,334953]]'
+named_after: '[[_Standards/WikiData/WD~John_Montagu,_4th_Earl_of_Sandwich,334953|WD~John_Montagu,_4th_Earl_of_Sandwich,334953]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~finger_food,748611]]'
-- '[[_Standards/WikiData/WD~bánh,5004791]]'
-- '[[_Standards/WikiData/WD~bread_dish,27994935]]'
+- '[[_Standards/WikiData/WD~finger_food,748611|WD~finger_food,748611]]'
+- '[[_Standards/WikiData/WD~bánh,5004791|WD~bánh,5004791]]'
+- '[[_Standards/WikiData/WD~bread_dish,27994935|WD~bread_dish,27994935]]'
 different_from:
-- '[[_Standards/WikiData/WD~Butterbrot,1018075]]'
-- '[[_Standards/WikiData/WD~open_sandwich,6559431]]'
-- '[[_Standards/WikiData/WD~sandwich,111836983]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q111907435,111907435]]'
-has_part_s_: '[[_Standards/WikiData/WD~bread,7802]]'
-made_from_material: '[[_Standards/WikiData/WD~bread,7802]]'
-country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
+- '[[_Standards/WikiData/WD~Butterbrot,1018075|WD~Butterbrot,1018075]]'
+- '[[_Standards/WikiData/WD~open_sandwich,6559431|WD~open_sandwich,6559431]]'
+- '[[_Standards/WikiData/WD~sandwich,111836983|WD~sandwich,111836983]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951|WD~type_of_food_or_dish,19861951]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q111907435,111907435|WD~Q111907435,111907435]]'
+has_part_s_: '[[_Standards/WikiData/WD~bread,7802|WD~bread,7802]]'
+made_from_material: '[[_Standards/WikiData/WD~bread,7802|WD~bread,7802]]'
+country_of_origin: '[[_Standards/WikiData/WD~England,21|WD~England,21]]'
 social_media_followers: 163294
 Commons_gallery: Sandwich
 booru_tag: sandwich

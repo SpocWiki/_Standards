@@ -21,11 +21,11 @@ aliases:
 - 기하화 추측
 has_id_wikidata: Q1503309
 instance_of:
-- '[[_Standards/WikiData/WD~theorem,65943]]'
-- '[[_Standards/WikiData/WD~conjecture,319141]]'
-solved_by: '[[_Standards/WikiData/WD~Grigori_Perelman,117346]]'
-studied_by: '[[_Standards/WikiData/WD~Riemannian_geometry,761383]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~theorem,65943|WD~theorem,65943]]'
+- '[[_Standards/WikiData/WD~conjecture,319141|WD~conjecture,319141]]'
+solved_by: '[[_Standards/WikiData/WD~Grigori_Perelman,117346|WD~Grigori_Perelman,117346]]'
+studied_by: '[[_Standards/WikiData/WD~Riemannian_geometry,761383|WD~Riemannian_geometry,761383]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 dv_has_:
   name_:
     da: geometriseringsformodning
@@ -52,7 +52,7 @@ dv_has_:
 # [[Geometrization_Conjecture]] 
 
 #is_/better_than :: [[Poincaré_Conjecture]] 
-#is_/same_as :: [[_Standards/WikiData/WD~geometrization_conjecture,1503309]]  
+#is_/same_as :: [[_Standards/WikiData/WD~geometrization_conjecture,1503309|WD~geometrization_conjecture,1503309]]  
 
 ## #has_/text_of_/abstract 
 

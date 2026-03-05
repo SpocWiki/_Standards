@@ -60,21 +60,21 @@ aliases:
 - 교회 일치주의
 has_id_wikidata: Q156112
 significant_person:
-- '[[_Standards/WikiData/WD~Nathan_Söderblom,159723]]'
-- '[[_Standards/WikiData/WD~John_Mott,159726]]'
-- '[[_Standards/WikiData/WD~Yves_Congar,363970]]'
-- "[[_Standards/WikiData/WD~Willem_Visser_'t_Hooft,574414]]"
-- '[[_Standards/WikiData/WD~Patriarch_Germanus_V_of_Constantinople,2374911]]'
+- '[[_Standards/WikiData/WD~Nathan_Söderblom,159723|WD~Nathan_Söderblom,159723]]'
+- '[[_Standards/WikiData/WD~John_Mott,159726|WD~John_Mott,159726]]'
+- '[[_Standards/WikiData/WD~Yves_Congar,363970|WD~Yves_Congar,363970]]'
+- "[[_Standards/WikiData/WD~Willem_Visser_'t_Hooft,574414|WD~Willem_Visser_'t_Hooft,574414]]"
+- '[[_Standards/WikiData/WD~Patriarch_Germanus_V_of_Constantinople,2374911|WD~Patriarch_Germanus_V_of_Constantinople,2374911]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~cooperation,380962]]'
-- '[[_Standards/WikiData/WD~interconfessionalism,12021731]]'
-- '[[_Standards/WikiData/WD~religion_or_world_view,71966963]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-different_from: '[[_Standards/WikiData/WD~ecumenical_movement,5404068]]'
-facet_of: '[[_Standards/WikiData/WD~ecumenical_movement,5404068]]'
-studied_by: '[[_Standards/WikiData/WD~ecumenics,11857274]]'
-practiced_by: '[[_Standards/WikiData/WD~ecumenist,59559569]]'
-part_of: '[[_Standards/WikiData/WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~cooperation,380962|WD~cooperation,380962]]'
+- '[[_Standards/WikiData/WD~interconfessionalism,12021731|WD~interconfessionalism,12021731]]'
+- '[[_Standards/WikiData/WD~religion_or_world_view,71966963|WD~religion_or_world_view,71966963]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+different_from: '[[_Standards/WikiData/WD~ecumenical_movement,5404068|WD~ecumenical_movement,5404068]]'
+facet_of: '[[_Standards/WikiData/WD~ecumenical_movement,5404068|WD~ecumenical_movement,5404068]]'
+studied_by: '[[_Standards/WikiData/WD~ecumenics,11857274|WD~ecumenics,11857274]]'
+practiced_by: '[[_Standards/WikiData/WD~ecumenist,59559569|WD~ecumenist,59559569]]'
+part_of: '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ecumenism%20symbol.jpg
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/ecumenism
 Commons_category: Ecumenism

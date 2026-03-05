@@ -72,11 +72,11 @@ aliases:
 - 超音波
 - 초음파
 has_id_wikidata: Q162564
-opposite_of: '[[_Standards/WikiData/WD~infrasound,212082]]'
+opposite_of: '[[_Standards/WikiData/WD~infrasound,212082|WD~infrasound,212082]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~visualization,451553]]'
-- '[[_Standards/WikiData/WD~acoustic_wave,3882459]]'
-- '[[_Standards/WikiData/WD~medical_service,55698119]]'
+- '[[_Standards/WikiData/WD~visualization,451553|WD~visualization,451553]]'
+- '[[_Standards/WikiData/WD~acoustic_wave,3882459|WD~acoustic_wave,3882459]]'
+- '[[_Standards/WikiData/WD~medical_service,55698119|WD~medical_service,55698119]]'
 Commons_category: Ultrasound
 Dewey_Decimal_Classification:
 - 620.28

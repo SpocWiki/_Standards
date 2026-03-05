@@ -47,27 +47,27 @@ aliases:
 - 레이다
 - 레이더
 has_id_wikidata: Q47528
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Christian_Hülsmeyer,67152]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Christian_Hülsmeyer,67152|WD~Christian_Hülsmeyer,67152]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~antenna,131214]]'
-- '[[_Standards/WikiData/WD~radio_receiver,159391]]'
-- '[[_Standards/WikiData/WD~radio_transmitter,190157]]'
-- '[[_Standards/WikiData/WD~radar_display,353916]]'
+- '[[_Standards/WikiData/WD~antenna,131214|WD~antenna,131214]]'
+- '[[_Standards/WikiData/WD~radio_receiver,159391|WD~radio_receiver,159391]]'
+- '[[_Standards/WikiData/WD~radio_transmitter,190157|WD~radio_transmitter,190157]]'
+- '[[_Standards/WikiData/WD~radar_display,353916|WD~radar_display,353916]]'
 has_use:
-- '[[_Standards/WikiData/WD~remote_sensing,199687]]'
-- '[[_Standards/WikiData/WD~air_traffic_control,221395]]'
-- '[[_Standards/WikiData/WD~military_technology,329864]]'
-- '[[_Standards/WikiData/WD~road_traffic_safety,1147899]]'
-- '[[_Standards/WikiData/WD~aircraft_component,16693356]]'
-- '[[_Standards/WikiData/WD~meteorology,25261]]'
-different_from: '[[_Standards/WikiData/WD~Radar,404956]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_radar,1517472]]'
+- '[[_Standards/WikiData/WD~remote_sensing,199687|WD~remote_sensing,199687]]'
+- '[[_Standards/WikiData/WD~air_traffic_control,221395|WD~air_traffic_control,221395]]'
+- '[[_Standards/WikiData/WD~military_technology,329864|WD~military_technology,329864]]'
+- '[[_Standards/WikiData/WD~road_traffic_safety,1147899|WD~road_traffic_safety,1147899]]'
+- '[[_Standards/WikiData/WD~aircraft_component,16693356|WD~aircraft_component,16693356]]'
+- '[[_Standards/WikiData/WD~meteorology,25261|WD~meteorology,25261]]'
+different_from: '[[_Standards/WikiData/WD~Radar,404956|WD~Radar,404956]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_radar,1517472|WD~history_of_radar,1517472]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~measuring_instrument,2041172]]'
-- '[[_Standards/WikiData/WD~electronic_instrument,25447495]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_radar,14336238]]'
-practiced_by: '[[_Standards/WikiData/WD~radar_operator,54086658]]'
+- '[[_Standards/WikiData/WD~measuring_instrument,2041172|WD~measuring_instrument,2041172]]'
+- '[[_Standards/WikiData/WD~electronic_instrument,25447495|WD~electronic_instrument,25447495]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_radar,14336238|WD~Template_Infobox_radar,14336238]]'
+practiced_by: '[[_Standards/WikiData/WD~radar_operator,54086658|WD~radar_operator,54086658]]'
 OmegaWiki_Defined_Meaning: 3069
 Commons_gallery: Radar
 Commons_category: Radars

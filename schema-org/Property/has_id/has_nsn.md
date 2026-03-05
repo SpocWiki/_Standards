@@ -41,12 +41,12 @@ dv_has_:
   name: has_text_of_nsn
   range: Text
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_part_of: "pending:"
 dv_has_domain: Product
 dv_has_name: has_text_of_nsn
 dv_has_range: Text
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[has_nsn]]"
   - "[[/_public/schema-org/Property/has_name/has_nsn.public|has_nsn.public]]"
@@ -65,7 +65,7 @@ Use it like this:
 - #has_/text_of_/nsn : : Text   
 - has_text_of_nsn : : Text   
 
-Indicates the [NATO stock number](https://en.wikipedia.org/wiki/NATO_Stock_Number) (nsn) of a [[../../../Society/Agent/Community/Organization/Business/Product]].
+Indicates the [NATO stock number](https://en.wikipedia.org/wiki/NATO_Stock_Number) (nsn) of a [[../../../Society/Agent/Community/Organization/Business/Product|Product]].
 
 Predicated describes that: 
 

@@ -54,13 +54,13 @@ aliases:
 - 非洲傳統宗教
 - 아프리카의 전통 종교
 has_id_wikidata: Q386498
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
-subclass_of: '[[_Standards/WikiData/WD~African_religion,18280411]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Traditional_African_religion,22751790]]'
-instance_of: '[[_Standards/WikiData/WD~religion_type,110401222]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
+subclass_of: '[[_Standards/WikiData/WD~African_religion,18280411|WD~African_religion,18280411]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Traditional_African_religion,22751790|WD~Template_Traditional_African_religion,22751790]]'
+instance_of: '[[_Standards/WikiData/WD~religion_type,110401222|WD~religion_type,110401222]]'
 inception: http://www.wikidata.org/.well-known/genid/655c613fbc0507ff3bfcc0e425b653c3
-location_of_formation: '[[_Standards/WikiData/WD~Africa,15]]'
-location: '[[_Standards/WikiData/WD~Africa,15]]'
+location_of_formation: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+location: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/COLLECTIE%20TROPENMUSEUM%20Houten%20masker%20TMnr%206372-2.jpg
 Commons_gallery: African Religion
 dv_has_:

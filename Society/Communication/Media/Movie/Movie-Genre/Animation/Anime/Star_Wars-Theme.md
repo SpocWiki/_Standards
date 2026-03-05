@@ -1,11 +1,11 @@
 
 # [[Star_Wars-Theme]]
 
-The Star Wars Theme was a major Contribution to the Success of the [[../../../../Media_Franchise/Star_Wars]] Movie. 
+The Star Wars Theme was a major Contribution to the Success of the [[../../../../Media_Franchise/Star_Wars|Star_Wars]] Movie. 
 
 #has_/creator :: [[../../music/Musician/Williams,John(Composer)|John_Williams]] 
 
-Here in [[../../../../../../../../IT/Data/Data~Text/Markdown/ABC-Music-notation]] 
+Here in [[../../../../../../../../IT/Data/Data~Text/Markdown/ABC-Music-notation|ABC-Music-notation]] 
 ```abc
 X: 1
 T: Star Wars Main Theme

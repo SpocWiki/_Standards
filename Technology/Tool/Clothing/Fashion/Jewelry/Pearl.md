@@ -82,27 +82,27 @@ aliases:
 - 진주
 has_id_wikidata: Q43436
 has_use:
-- '[[_Standards/WikiData/WD~jewelry,161439]]'
-- '[[_Standards/WikiData/WD~costume_accessory,1065579]]'
-- '[[_Standards/WikiData/WD~traditional_costume,3172759]]'
-made_from_material: '[[_Standards/WikiData/WD~nacre,215865]]'
+- '[[_Standards/WikiData/WD~jewelry,161439|WD~jewelry,161439]]'
+- '[[_Standards/WikiData/WD~costume_accessory,1065579|WD~costume_accessory,1065579]]'
+- '[[_Standards/WikiData/WD~traditional_costume,3172759|WD~traditional_costume,3172759]]'
+made_from_material: '[[_Standards/WikiData/WD~nacre,215865|WD~nacre,215865]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-- '[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597|WD~hedendaagsesieraden.nl,89929597]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~animal_product,629103]]'
-- '[[_Standards/WikiData/WD~organic_gem,110688445]]'
-- '[[_Standards/WikiData/WD~spherical_body,112511193]]'
-different_from: '[[_Standards/WikiData/WD~bead,1053956]]'
-streak_color: '[[_Standards/WikiData/WD~rainbow_colours,120833460]]'
+- '[[_Standards/WikiData/WD~animal_product,629103|WD~animal_product,629103]]'
+- '[[_Standards/WikiData/WD~organic_gem,110688445|WD~organic_gem,110688445]]'
+- '[[_Standards/WikiData/WD~spherical_body,112511193|WD~spherical_body,112511193]]'
+different_from: '[[_Standards/WikiData/WD~bead,1053956|WD~bead,1053956]]'
+streak_color: '[[_Standards/WikiData/WD~rainbow_colours,120833460|WD~rainbow_colours,120833460]]'
 OmegaWiki_Defined_Meaning: 799152
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Various%20pearls.jpg
 Iconclass_notation: 41D26611

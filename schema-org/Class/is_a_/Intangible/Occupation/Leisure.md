@@ -92,22 +92,22 @@ aliases:
 - 여가
 has_id_wikidata: Q180910
 has_part_s_:
-- '[[_Standards/WikiData/WD~entertainment,173799]]'
-- '[[_Standards/WikiData/WD~recreation,184872]]'
-opposite_of: '[[../../../../../WikiData/WD~work,268378]]'
+- '[[_Standards/WikiData/WD~entertainment,173799|WD~entertainment,173799]]'
+- '[[_Standards/WikiData/WD~recreation,184872|WD~recreation,184872]]'
+opposite_of: '[[../../../../../WikiData/WD~work,268378|WD~work,268378]]'
 has_cause:
-- '[[_Standards/WikiData/WD~retirement,946865]]'
-- '[[_Standards/WikiData/WD~reduction_of_working_hours,3454697]]'
-- '[[_Standards/WikiData/WD~annual_leave,5338673]]'
-does_not_have_cause: '[[_Standards/WikiData/WD~parenting,1217379]]'
-studied_by: '[[_Standards/WikiData/WD~sociology_of_leisure,1454999]]'
-subclass_of: '[[_Standards/WikiData/WD~human_behavior,3769299]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12893806,12893806]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~retirement,946865|WD~retirement,946865]]'
+- '[[_Standards/WikiData/WD~reduction_of_working_hours,3454697|WD~reduction_of_working_hours,3454697]]'
+- '[[_Standards/WikiData/WD~annual_leave,5338673|WD~annual_leave,5338673]]'
+does_not_have_cause: '[[_Standards/WikiData/WD~parenting,1217379|WD~parenting,1217379]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_leisure,1454999|WD~sociology_of_leisure,1454999]]'
+subclass_of: '[[_Standards/WikiData/WD~human_behavior,3769299|WD~human_behavior,3769299]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12893806,12893806|WD~Q12893806,12893806]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Dewey_Decimal_Classification: 175
 Commons_category: Leisure
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Hern%C3%A1ndez%20-%20Leisure%20Moments.jpg
@@ -121,7 +121,7 @@ U_S_National_Archives_Identifier: 10639521
 IPTC_NewsCode: mediatopic/20000538
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Leisure,180910]]'
+  - '[[../../../../../WikiData/WD~Leisure,180910|WD~Leisure,180910]]'
   - '[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure|Leisure]]'
   - '[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure.public|Leisure.public]]'
   - '[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure.internal|Leisure.internal]]'
@@ -131,7 +131,7 @@ dv_is_:
   - '[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure.secret|Leisure.secret]]'
   - '[[Leisure]]'
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Leisure,180910]]'
+- '[[../../../../../WikiData/WD~Leisure,180910|WD~Leisure,180910]]'
 - '[[Leisure]]'
 - '[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure.public|Leisure.public]]'
 - '[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure.internal|Leisure.internal]]'

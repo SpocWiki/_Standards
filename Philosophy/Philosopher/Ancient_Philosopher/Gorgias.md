@@ -47,39 +47,39 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/GORGI.html
 name_in_native_language: Γοργίας
 date_of_death: -0374-01-01T00:00:00Z
 student_of:
-- '[[_Standards/WikiData/WD~Empedocles,83375]]'
-- '[[_Standards/WikiData/WD~Tisias,931271]]'
+- '[[_Standards/WikiData/WD~Empedocles,83375|WD~Empedocles,83375]]'
+- '[[_Standards/WikiData/WD~Tisias,931271|WD~Tisias,931271]]'
 movement:
-- '[[_Standards/WikiData/WD~sophism,166955]]'
-- '[[_Standards/WikiData/WD~Pre_Socratic_philosophy,178540]]'
-- '[[_Standards/WikiData/WD~sophist,3750514]]'
-place_of_death: '[[_Standards/WikiData/WD~Larissa,178405]]'
+- '[[_Standards/WikiData/WD~sophism,166955|WD~sophism,166955]]'
+- '[[_Standards/WikiData/WD~Pre_Socratic_philosophy,178540|WD~Pre_Socratic_philosophy,178540]]'
+- '[[_Standards/WikiData/WD~sophist,3750514|WD~sophist,3750514]]'
+place_of_death: '[[_Standards/WikiData/WD~Larissa,178405|WD~Larissa,178405]]'
 student:
-- '[[_Standards/WikiData/WD~Isocrates,221182]]'
-- '[[_Standards/WikiData/WD~Polus,372798]]'
-- '[[_Standards/WikiData/WD~Hippocrates,5264]]'
-place_of_birth: '[[_Standards/WikiData/WD~Lentini,488240]]'
-writing_language: '[[_Standards/WikiData/WD~Attic_Greek,506588]]'
+- '[[_Standards/WikiData/WD~Isocrates,221182|WD~Isocrates,221182]]'
+- '[[_Standards/WikiData/WD~Polus,372798|WD~Polus,372798]]'
+- '[[_Standards/WikiData/WD~Hippocrates,5264|WD~Hippocrates,5264]]'
+place_of_birth: '[[_Standards/WikiData/WD~Lentini,488240|WD~Lentini,488240]]'
+writing_language: '[[_Standards/WikiData/WD~Attic_Greek,506588|WD~Attic_Greek,506588]]'
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~Attic_Greek,506588]]'
-- '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+- '[[_Standards/WikiData/WD~Attic_Greek,506588|WD~Attic_Greek,506588]]'
+- '[[_Standards/WikiData/WD~Ancient_Greek,35497|WD~Ancient_Greek,35497]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240|WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
 different_from:
-- '[[_Standards/WikiData/WD~Gordias,1413020]]'
-- '[[_Standards/WikiData/WD~Gorgias_of_Athens,11925073]]'
-occupation: '[[_Standards/WikiData/WD~sophist,3750514]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-depicted_by: '[[_Standards/WikiData/WD~Gorgias_statue_at_Olympia,107043619]]'
-field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~Gordias,1413020|WD~Gordias,1413020]]'
+- '[[_Standards/WikiData/WD~Gorgias_of_Athens,11925073|WD~Gorgias_of_Athens,11925073]]'
+occupation: '[[_Standards/WikiData/WD~sophist,3750514|WD~sophist,3750514]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
+depicted_by: '[[_Standards/WikiData/WD~Gorgias_statue_at_Olympia,107043619|WD~Gorgias_statue_at_Olympia,107043619]]'
+field_of_work: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 BHCL_UUID: f6b3d59c-d48f-4ff8-af41-8ccbdea8ca40
 date_of_birth:
 - -0482-01-01T00:00:00Z

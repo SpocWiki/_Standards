@@ -84,23 +84,23 @@ aliases:
 - 영문학
 has_id_wikidata: Q186579
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
 different_from:
-- '[[_Standards/WikiData/WD~British_literature,764912]]'
-- '[[_Standards/WikiData/WD~literature_of_England,16982896]]'
-instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+- '[[_Standards/WikiData/WD~British_literature,764912|WD~British_literature,764912]]'
+- '[[_Standards/WikiData/WD~literature_of_England,16982896|WD~literature_of_England,16982896]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
 studied_by:
-- '[[_Standards/WikiData/WD~English_literature,109587623]]'
-- '[[_Standards/WikiData/WD~English_studies,27968]]'
-facet_of: '[[_Standards/WikiData/WD~English,1860]]'
-subclass_of: '[[_Standards/WikiData/WD~literature,8242]]'
+- '[[_Standards/WikiData/WD~English_literature,109587623|WD~English_literature,109587623]]'
+- '[[_Standards/WikiData/WD~English_studies,27968|WD~English_studies,27968]]'
+facet_of: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+subclass_of: '[[_Standards/WikiData/WD~literature,8242|WD~literature,8242]]'
 Dewey_Decimal_Classification: 820
 Library_of_Congress_Classification: PE
 Universal_Decimal_Classification: 821.111

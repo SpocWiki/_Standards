@@ -309,9 +309,9 @@ dv_has_name_en: Yugoslavia
 dv_has_name_de: Jugoslawien
 dv_Area-Total: 102173
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Europe]]'
+dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: YU
-dv_Capital: '[[Serbia/districts~Serbia/Beograd]]]'
+dv_Capital: '[[Serbia/districts~Serbia/Beograd|Beograd]]]'
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 17.6905
 dv_has_place_latitude: 43.9957

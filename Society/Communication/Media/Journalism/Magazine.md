@@ -106,28 +106,28 @@ aliases:
 - 잡지
 has_id_wikidata: Q41298
 subclass_of:
-- '[[_Standards/WikiData/WD~communications_media,340169]]'
-- '[[_Standards/WikiData/WD~periodical,1002697]]'
-- '[[_Standards/WikiData/WD~written_work,47461344]]'
-- '[[_Standards/WikiData/WD~print_native_publication,119648442]]'
-- '[[_Standards/WikiData/WD~newspaper,11032]]'
-- '[[_Standards/WikiData/WD~mass_media,11033]]'
+- '[[_Standards/WikiData/WD~communications_media,340169|WD~communications_media,340169]]'
+- '[[_Standards/WikiData/WD~periodical,1002697|WD~periodical,1002697]]'
+- '[[_Standards/WikiData/WD~written_work,47461344|WD~written_work,47461344]]'
+- '[[_Standards/WikiData/WD~print_native_publication,119648442|WD~print_native_publication,119648442]]'
+- '[[_Standards/WikiData/WD~newspaper,11032|WD~newspaper,11032]]'
+- '[[_Standards/WikiData/WD~mass_media,11033|WD~mass_media,11033]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_magazine,5618602]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Periodicals,15657033]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Academic_Journals,21597731]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_magazine,5618602|WD~Template_Infobox_magazine,5618602]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Periodicals,15657033|WD~Portal_Periodicals,15657033]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Academic_Journals,21597731|WD~WikiProject_Academic_Journals,21597731]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_publication,39725049]]'
-- '[[_Standards/WikiData/WD~type_of_mass_media,121132955]]'
-has_part_s_: '[[_Standards/WikiData/WD~magazine_cover,44532723]]'
-model_item: '[[_Standards/WikiData/WD~El_Comité_1973,53644712]]'
+- '[[_Standards/WikiData/WD~type_of_publication,39725049|WD~type_of_publication,39725049]]'
+- '[[_Standards/WikiData/WD~type_of_mass_media,121132955|WD~type_of_mass_media,121132955]]'
+has_part_s_: '[[_Standards/WikiData/WD~magazine_cover,44532723|WD~magazine_cover,44532723]]'
+model_item: '[[_Standards/WikiData/WD~El_Comité_1973,53644712|WD~El_Comité_1973,53644712]]'
 properties_for_this_type:
 - ZDB ID
 - Research Papers in Economics Series handle
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~journal,49850]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~journal,49850|WD~journal,49850]]'
 Nomenclature_for_Museum_Cataloging: 13799
 OmegaWiki_Defined_Meaning: 413594
 IMDb_keyword: magazine

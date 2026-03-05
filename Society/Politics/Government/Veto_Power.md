@@ -45,19 +45,19 @@ aliases:
 - 拒否権
 - 거부권
 has_id_wikidata: Q178074
-different_from: '[[_Standards/WikiData/WD~Vetto,111295]]'
+different_from: '[[_Standards/WikiData/WD~Vetto,111295|WD~Vetto,111295]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-instance_of: '[[_Standards/WikiData/WD~legal_concept,2135465]]'
-part_of: '[[_Standards/WikiData/WD~legislative_process,3406566]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~veto,65474590]]'
-subclass_of: '[[_Standards/WikiData/WD~power,25107]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+instance_of: '[[_Standards/WikiData/WD~legal_concept,2135465|WD~legal_concept,2135465]]'
+part_of: '[[_Standards/WikiData/WD~legislative_process,3406566|WD~legislative_process,3406566]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~veto,65474590|WD~veto,65474590]]'
+subclass_of: '[[_Standards/WikiData/WD~power,25107|WD~power,25107]]'
 Dewey_Decimal_Classification:
 - 328
 - 342.057

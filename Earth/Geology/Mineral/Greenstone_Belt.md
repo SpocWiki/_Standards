@@ -25,7 +25,7 @@ aliases:
 - 綠巖帶
 - 绿岩带
 has_id_wikidata: Q595991
-subclass_of: '[[_Standards/WikiData/WD~geological_formation,736917]]'
+subclass_of: '[[_Standards/WikiData/WD~geological_formation,736917|WD~geological_formation,736917]]'
 Commons_category: Greenstone belts
 dv_is_:
   same_as:

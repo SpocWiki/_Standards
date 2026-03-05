@@ -52,23 +52,23 @@ aliases:
 - 國際商會
 - 국제 상업 회의소
 has_id_wikidata: Q848633
-instance_of: '[[_Standards/WikiData/WD~non_governmental_organization,79913]]'
+instance_of: '[[_Standards/WikiData/WD~non_governmental_organization,79913|WD~non_governmental_organization,79913]]'
 partnership_with:
-- '[[_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151]]'
-- '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]'
+- '[[_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151|WD~Food_and_Agriculture_Organization,82151]]'
+- '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761|WD~International_Civil_Aviation_Organization,125761]]'
 official_observer_status_in_organization:
-- '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
-- '[[_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]'
-- '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
-industry: '[[_Standards/WikiData/WD~international_trade,178803]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~16th_arrondissement_of_Paris,194420]]'
-chairperson: '[[_Standards/WikiData/WD~Philippe_Varin,1370124]]'
-archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
-located_on_street: '[[_Standards/WikiData/WD~avenue_du_Président_Wilson,2874189]]'
-headquarters_locations: "[[_Standards/WikiData/WD~Palais_d'Iéna,3360957]]"
-founded_by: '[[_Standards/WikiData/WD~Étienne_Clémentel,3592114]]'
+- '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773|WD~World_Intellectual_Property_Organization,177773]]'
+- '[[_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318|WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]'
+- '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
+industry: '[[_Standards/WikiData/WD~international_trade,178803|WD~international_trade,178803]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~16th_arrondissement_of_Paris,194420|WD~16th_arrondissement_of_Paris,194420]]'
+chairperson: '[[_Standards/WikiData/WD~Philippe_Varin,1370124|WD~Philippe_Varin,1370124]]'
+archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757|WD~International_Institute_of_Social_History,1667757]]'
+located_on_street: '[[_Standards/WikiData/WD~avenue_du_Président_Wilson,2874189|WD~avenue_du_Président_Wilson,2874189]]'
+headquarters_locations: "[[_Standards/WikiData/WD~Palais_d'Iéna,3360957|WD~Palais_d'Iéna,3360957]]"
+founded_by: '[[_Standards/WikiData/WD~Étienne_Clémentel,3592114|WD~Étienne_Clémentel,3592114]]'
 coordinate_location: Point(2.292307 48.864112)
-country: '[[_Standards/WikiData/WD~France,142]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 social_media_followers:
 - 7240
 - 37267

@@ -36,56 +36,56 @@ aliases:
 - 루치아노 파바로티
 has_id_wikidata: Q37615
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-cause_of_death: '[[_Standards/WikiData/WD~pancreatic_cancer,212961]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579|WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+cause_of_death: '[[_Standards/WikiData/WD~pancreatic_cancer,212961|WD~pancreatic_cancer,212961]]'
 award_received:
-- '[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482]]'
-- '[[_Standards/WikiData/WD~Classic_Brit_Awards,1096102]]'
-- '[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347]]'
-- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Merit_of_the_Italian_Republic,14539729]]'
-- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_Merit_of_the_Italian_Republic,14539884]]'
-- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
-- '[[_Standards/WikiData/WD~honorary_citizen_of_Sarajevo,58382530]]'
-- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Cultural_Merit,62743716]]'
+- '[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482|WD~MusiCares_Person_of_the_Year,326482]]'
+- '[[_Standards/WikiData/WD~Classic_Brit_Awards,1096102|WD~Classic_Brit_Awards,1096102]]'
+- '[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347|WD~Grammy_Legend_Award,1542347]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195|WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Merit_of_the_Italian_Republic,14539729|WD~Commander_of_the_Order_of_Merit_of_the_Italian_Republic,14539729]]'
+- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_Merit_of_the_Italian_Republic,14539884|WD~Grand_Officer_of_the_Order_of_Merit_of_the_Italian_Republic,14539884]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974|WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Sarajevo,58382530|WD~honorary_citizen_of_Sarajevo,58382530]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Cultural_Merit,62743716|WD~Commander_of_the_Order_of_Cultural_Merit,62743716]]'
 nominated_for:
-- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_New_Star,385186]]'
-- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actor,602299]]'
-advertises: '[[_Standards/WikiData/WD~Lavazza,543750]]'
-record_label: '[[_Standards/WikiData/WD~Decca,557632]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_New_Star,385186|WD~Golden_Raspberry_Award_for_Worst_New_Star,385186]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actor,602299|WD~Golden_Raspberry_Award_for_Worst_Actor,602299]]'
+advertises: '[[_Standards/WikiData/WD~Lavazza,543750|WD~Lavazza,543750]]'
+record_label: '[[_Standards/WikiData/WD~Decca,557632|WD~Decca,557632]]'
 student_of:
-- '[[_Standards/WikiData/WD~Arrigo_Pola,699892]]'
-- '[[_Standards/WikiData/WD~Ettore_Campogalliani,960760]]'
-member_of: '[[_Standards/WikiData/WD~The_Three_Tenors,751079]]'
+- '[[_Standards/WikiData/WD~Arrigo_Pola,699892|WD~Arrigo_Pola,699892]]'
+- '[[_Standards/WikiData/WD~Ettore_Campogalliani,960760|WD~Ettore_Campogalliani,960760]]'
+member_of: '[[_Standards/WikiData/WD~The_Three_Tenors,751079|WD~The_Three_Tenors,751079]]'
 occupation:
-- '[[_Standards/WikiData/WD~opera_singer,2865819]]'
-- '[[_Standards/WikiData/WD~film_actor,10800557]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-sibling: '[[_Standards/WikiData/WD~Gabriella_Pavarotti,3756757]]'
-voice_type: '[[_Standards/WikiData/WD~lyric_tenor,5492408]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-given_name: '[[_Standards/WikiData/WD~Luciano,7296213]]'
-student: '[[_Standards/WikiData/WD~Dai_Yuqiang,10284608]]'
-discography: '[[_Standards/WikiData/WD~Luciano_Pavarotti_discography,12726787]]'
-instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
-blood_type: '[[_Standards/WikiData/WD~Q19831454,19831454]]'
-documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+- '[[_Standards/WikiData/WD~opera_singer,2865819|WD~opera_singer,2865819]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+sibling: '[[_Standards/WikiData/WD~Gabriella_Pavarotti,3756757|WD~Gabriella_Pavarotti,3756757]]'
+voice_type: '[[_Standards/WikiData/WD~lyric_tenor,5492408|WD~lyric_tenor,5492408]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Luciano,7296213|WD~Luciano,7296213]]'
+student: '[[_Standards/WikiData/WD~Dai_Yuqiang,10284608|WD~Dai_Yuqiang,10284608]]'
+discography: '[[_Standards/WikiData/WD~Luciano_Pavarotti_discography,12726787|WD~Luciano_Pavarotti_discography,12726787]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850|WD~voice,17172850]]'
+blood_type: '[[_Standards/WikiData/WD~Q19831454,19831454|WD~Q19831454,19831454]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-father: '[[_Standards/WikiData/WD~Fernando_Pavarotti,104836495]]'
-family_name: '[[_Standards/WikiData/WD~Pavarotti,106848476]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019|WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+father: '[[_Standards/WikiData/WD~Fernando_Pavarotti,104836495|WD~Fernando_Pavarotti,104836495]]'
+family_name: '[[_Standards/WikiData/WD~Pavarotti,106848476|WD~Pavarotti,106848476]]'
 spouse:
-- '[[_Standards/WikiData/WD~Adua_Veroni,108650588]]'
-- '[[_Standards/WikiData/WD~Nicoletta_Mantovani,108650597]]'
-place_of_burial: '[[_Standards/WikiData/WD~cemetery_of_Montale_Rangone,109587173]]'
-place_of_death: '[[_Standards/WikiData/WD~Modena,279]]'
-place_of_birth: '[[_Standards/WikiData/WD~Modena,279]]'
-work_location: '[[_Standards/WikiData/WD~Modena,279]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Italian,652]]'
-genre: '[[_Standards/WikiData/WD~opera,1344]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~Adua_Veroni,108650588|WD~Adua_Veroni,108650588]]'
+- '[[_Standards/WikiData/WD~Nicoletta_Mantovani,108650597|WD~Nicoletta_Mantovani,108650597]]'
+place_of_burial: '[[_Standards/WikiData/WD~cemetery_of_Montale_Rangone,109587173|WD~cemetery_of_Montale_Rangone,109587173]]'
+place_of_death: '[[_Standards/WikiData/WD~Modena,279|WD~Modena,279]]'
+place_of_birth: '[[_Standards/WikiData/WD~Modena,279|WD~Modena,279]]'
+work_location: '[[_Standards/WikiData/WD~Modena,279|WD~Modena,279]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]'
+genre: '[[_Standards/WikiData/WD~opera,1344|WD~opera,1344]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 number_of_children: 4
 social_media_followers: 838000
 P1015: 15927
@@ -227,10 +227,10 @@ dv_has_:
 #has_/time_/started :: 1935-10-12   
 #has_/time_/stopped  :: 2007-09-06  
 #has_/location_/created :: [[../../../../../../../../_Standards/Earth/Continent/Europe/Europe~South/Italy|Italy]]  
-#is_/member_/of :: [[../Three_Tenors]]
+#is_/member_/of :: [[../Three_Tenors|Three_Tenors]]
 #has_/id_/wikidata :: Q37615
 
-![[../../../../../../../../assets/Pictures/People/Public/Luciano_Pavarotti_2004.jpg]]
+![[../../../../../../../../assets/Pictures/People/Public/Luciano_Pavarotti_2004.jpg|Luciano_Pavarotti_2004.jpg]]
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Luciano_Pavarotti,37615|WD~Luciano_Pavarotti,37615]] 
 
@@ -250,7 +250,7 @@ dv_has_:
 > From the beginning of his professional career as a tenor in 1961 in Italy 
 > to his final performance of "Nessun dorma" at the 2006 Winter Olympics in [[Turin]], 
 > Pavarotti was at his best in bel canto operas, pre-Aida Verdi roles, and Puccini works 
-> such as [[La bohème]], [[Tosca]], [[Turandot]] and [[../../../Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly]]. 
+> such as [[La bohème]], [[Tosca]], [[Turandot]] and [[../../../Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly|Madame_Butterfly]]. 
 > 
 > He sold over 100 million records, and the first Three Tenors recording 
 > became the best-selling classical album of all time. 

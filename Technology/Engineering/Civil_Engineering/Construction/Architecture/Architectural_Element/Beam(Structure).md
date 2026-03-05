@@ -55,16 +55,16 @@ aliases:
 - 들보
 has_id_wikidata: Q3705329
 different_from:
-- '[[_Standards/WikiData/WD~Beam,346704]]'
-- '[[_Standards/WikiData/WD~arroyo,373315]]'
+- '[[_Standards/WikiData/WD~Beam,346704|WD~Beam,346704]]'
+- '[[_Standards/WikiData/WD~arroyo,373315|WD~arroyo,373315]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~beam,11538319]]'
-- '[[_Standards/WikiData/WD~kōryō,124421222]]'
+- '[[_Standards/WikiData/WD~beam,11538319|WD~beam,11538319]]'
+- '[[_Standards/WikiData/WD~kōryō,124421222|WD~kōryō,124421222]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-subclass_of: '[[_Standards/WikiData/WD~horizontal_structural_element,30327093]]'
-connects_with: '[[_Standards/WikiData/WD~marubashira,127599090]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+subclass_of: '[[_Standards/WikiData/WD~horizontal_structural_element,30327093|WD~horizontal_structural_element,30327093]]'
+connects_with: '[[_Standards/WikiData/WD~marubashira,127599090|WD~marubashira,127599090]]'
 Nomenclature_for_Museum_Cataloging: 354
 UNSPSC_Code: 30101700
 OmegaWiki_Defined_Meaning: 498099
@@ -152,7 +152,7 @@ dv_has_:
 
 # [[Beam(Structure)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~beam,3705329]] 
+#is_/same_as :: [[_Standards/WikiData/WD~beam,3705329|WD~beam,3705329]] 
 
 ## #has_/text_of_/abstract 
 

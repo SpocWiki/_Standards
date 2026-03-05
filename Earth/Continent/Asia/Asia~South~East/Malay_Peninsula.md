@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Malay_Peninsula,18758]]'
+  - '[[../../../../WikiData/WD~Malay_Peninsula,18758|WD~Malay_Peninsula,18758]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula|Malay_Peninsula]]'
   - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.public|Malay_Peninsula.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.internal|Malay_Peninsula.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.personal|Malay_Peninsula.personal]]'
   - '[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.secret|Malay_Peninsula.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Malay_Peninsula,18758]]'
+- '[[../../../../WikiData/WD~Malay_Peninsula,18758|WD~Malay_Peninsula,18758]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula|Malay_Peninsula]]'
 - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.public|Malay_Peninsula.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.internal|Malay_Peninsula.internal]]'
@@ -107,21 +107,21 @@ aliases:
 - 말레이반도
 has_id_wikidata: Q18758
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Gulf_of_Thailand,131217]]'
-- '[[_Standards/WikiData/WD~Andaman_Sea,47632]]'
-part_of: '[[_Standards/WikiData/WD~Farther_India,390695]]'
+- '[[_Standards/WikiData/WD~Gulf_of_Thailand,131217|WD~Gulf_of_Thailand,131217]]'
+- '[[_Standards/WikiData/WD~Andaman_Sea,47632|WD~Andaman_Sea,47632]]'
+part_of: '[[_Standards/WikiData/WD~Farther_India,390695|WD~Farther_India,390695]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Peninsular_Malaysia,1973345]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Golden_Chersonese,5579267]]'
-country: '[[_Standards/WikiData/WD~Malaysia,833]]'
-instance_of: '[[_Standards/WikiData/WD~peninsula,34763]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Peninsular_Malaysia,1973345|WD~Peninsular_Malaysia,1973345]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Golden_Chersonese,5579267|WD~Golden_Chersonese,5579267]]'
+country: '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+instance_of: '[[_Standards/WikiData/WD~peninsula,34763|WD~peninsula,34763]]'
 Commons_category: Malay Peninsula
 area: 242363.8
 coordinate_location: Point(100.0 7.0)

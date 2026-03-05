@@ -25,11 +25,11 @@ aliases:
 - 埃隆期
 has_id_wikidata: Q381595
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Aeronian,134704042]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829|WD~Charles_Hepworth_Holland,1064829]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Aeronian,134704042|WD~GSSP_for_the_base_of_Aeronian,134704042]]'
 end_time: -438500000-01-01T00:00:00Z
 start_time: -440800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: A4E0D0

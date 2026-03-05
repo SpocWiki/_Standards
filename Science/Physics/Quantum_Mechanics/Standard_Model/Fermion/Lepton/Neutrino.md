@@ -54,18 +54,18 @@ aliases:
 - 중성미자
 has_id_wikidata: Q2126
 subclass_of:
-- '[[_Standards/WikiData/WD~lepton,82586]]'
-- '[[_Standards/WikiData/WD~neutral_particle,2990328]]'
-has_characteristic: '[[_Standards/WikiData/WD~neutrino_oscillation,509021]]'
-antiparticle: '[[_Standards/WikiData/WD~antineutrino,1066748]]'
-has_superpartner: '[[_Standards/WikiData/WD~sneutrino,1087194]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Subatomic_particle_symbol_neutrino,21370136]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
-different_from: '[[_Standards/WikiData/WD~neutron,2348]]'
+- '[[_Standards/WikiData/WD~lepton,82586|WD~lepton,82586]]'
+- '[[_Standards/WikiData/WD~neutral_particle,2990328|WD~neutral_particle,2990328]]'
+has_characteristic: '[[_Standards/WikiData/WD~neutrino_oscillation,509021|WD~neutrino_oscillation,509021]]'
+antiparticle: '[[_Standards/WikiData/WD~antineutrino,1066748|WD~antineutrino,1066748]]'
+has_superpartner: '[[_Standards/WikiData/WD~sneutrino,1087194|WD~sneutrino,1087194]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Subatomic_particle_symbol_neutrino,21370136|WD~Template_Subatomic_particle_symbol_neutrino,21370136]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015|WD~type_of_quantum_particle,22675015]]'
+different_from: '[[_Standards/WikiData/WD~neutron,2348|WD~neutron,2348]]'
 interaction:
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+- '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418|WD~weak_interaction,11418]]'
 electric_charge: 0
 spin_quantum_number: 0.5
 mass: 0.28

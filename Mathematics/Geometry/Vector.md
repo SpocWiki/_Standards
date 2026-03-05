@@ -76,14 +76,14 @@ aliases:
 - 벡터
 - 벡토르
 has_id_wikidata: Q44528
-different_from: '[[_Standards/WikiData/WD~Vektor,1420778]]'
+different_from: '[[_Standards/WikiData/WD~Vektor,1420778|WD~Vektor,1420778]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~direction,3055344]]'
-- '[[_Standards/WikiData/WD~vector_length,12124094]]'
-- '[[_Standards/WikiData/WD~unidirectionality,67203587]]'
-subclass_of: '[[_Standards/WikiData/WD~vector,13471665]]'
-instance_of: '[[_Standards/WikiData/WD~geometric_concept,21550639]]'
-part_of: '[[_Standards/WikiData/WD~Euclidean_space,17295]]'
+- '[[_Standards/WikiData/WD~direction,3055344|WD~direction,3055344]]'
+- '[[_Standards/WikiData/WD~vector_length,12124094|WD~vector_length,12124094]]'
+- '[[_Standards/WikiData/WD~unidirectionality,67203587|WD~unidirectionality,67203587]]'
+subclass_of: '[[_Standards/WikiData/WD~vector,13471665|WD~vector,13471665]]'
+instance_of: '[[_Standards/WikiData/WD~geometric_concept,21550639|WD~geometric_concept,21550639]]'
+part_of: '[[_Standards/WikiData/WD~Euclidean_space,17295|WD~Euclidean_space,17295]]'
 OmegaWiki_Defined_Meaning: 5165
 Commons_category: Vectors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vector%20from%20A%20to%20B.svg
@@ -208,7 +208,7 @@ dv_has_:
 
 # [[Vector]] 
 
-#is_/similar_to :: [[Geometry-2D/Triangle/Angle]]  
+#is_/similar_to :: [[Geometry-2D/Triangle/Angle|Angle]]  
 #is_/same_as :: [[../../WikiData/WD~Euclidean_vector,44528|WD~Euclidean_vector,44528]] 
 
 ## #has_/text_of_/abstract 

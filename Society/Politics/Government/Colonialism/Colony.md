@@ -74,21 +74,21 @@ aliases:
 - 식민지
 has_id_wikidata: Q133156
 subclass_of:
-- '[[_Standards/WikiData/WD~region,82794]]'
-- '[[_Standards/WikiData/WD~dependent_territory,161243]]'
+- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
+- '[[_Standards/WikiData/WD~dependent_territory,161243|WD~dependent_territory,161243]]'
 different_from:
-- '[[_Standards/WikiData/WD~colony,354341]]'
-- '[[_Standards/WikiData/WD~colonialism,7167]]'
+- '[[_Standards/WikiData/WD~colony,354341|WD~colony,354341]]'
+- '[[_Standards/WikiData/WD~colonialism,7167|WD~colonialism,7167]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-has_cause: '[[_Standards/WikiData/WD~colonization,815962]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~colonial_governor,42953119]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_cause: '[[_Standards/WikiData/WD~colonization,815962|WD~colonization,815962]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~colonial_governor,42953119|WD~colonial_governor,42953119]]'
 Library_of_Congress_Classification: KZ4066
 OmegaWiki_Defined_Meaning: 833614
 Commons_category: Colonies

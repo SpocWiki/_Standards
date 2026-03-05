@@ -75,27 +75,27 @@ aliases:
 - 아메리카의 유럽 식민지화
 has_id_wikidata: Q184716
 has_part_s_:
-- '[[_Standards/WikiData/WD~German_colonization_of_the_Americas,551482]]'
-- '[[_Standards/WikiData/WD~Scottish_colonization_of_the_Americas,575878]]'
-- '[[_Standards/WikiData/WD~Danish_colonization_of_the_Americas,761602]]'
-- '[[_Standards/WikiData/WD~British_colonization_of_the_Americas,918254]]'
-- '[[_Standards/WikiData/WD~Swedish_colonization_of_the_Americas,1441453]]'
-- '[[_Standards/WikiData/WD~French_colonization_of_the_Americas,1990219]]'
-- '[[_Standards/WikiData/WD~Couronian_colonization_of_the_Americas,2984269]]'
-- '[[_Standards/WikiData/WD~Dutch_colonization_of_the_Americas,5556538]]'
-- '[[_Standards/WikiData/WD~Colonies_of_the_Sovereign_Military_Order_of_Malta,16844925]]'
+- '[[_Standards/WikiData/WD~German_colonization_of_the_Americas,551482|WD~German_colonization_of_the_Americas,551482]]'
+- '[[_Standards/WikiData/WD~Scottish_colonization_of_the_Americas,575878|WD~Scottish_colonization_of_the_Americas,575878]]'
+- '[[_Standards/WikiData/WD~Danish_colonization_of_the_Americas,761602|WD~Danish_colonization_of_the_Americas,761602]]'
+- '[[_Standards/WikiData/WD~British_colonization_of_the_Americas,918254|WD~British_colonization_of_the_Americas,918254]]'
+- '[[_Standards/WikiData/WD~Swedish_colonization_of_the_Americas,1441453|WD~Swedish_colonization_of_the_Americas,1441453]]'
+- '[[_Standards/WikiData/WD~French_colonization_of_the_Americas,1990219|WD~French_colonization_of_the_Americas,1990219]]'
+- '[[_Standards/WikiData/WD~Couronian_colonization_of_the_Americas,2984269|WD~Couronian_colonization_of_the_Americas,2984269]]'
+- '[[_Standards/WikiData/WD~Dutch_colonization_of_the_Americas,5556538|WD~Dutch_colonization_of_the_Americas,5556538]]'
+- '[[_Standards/WikiData/WD~Colonies_of_the_Sovereign_Military_Order_of_Malta,16844925|WD~Colonies_of_the_Sovereign_Military_Order_of_Malta,16844925]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~colonization,815962]]'
-- '[[_Standards/WikiData/WD~European_colonialism,17631847]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~colonization,815962|WD~colonization,815962]]'
+- '[[_Standards/WikiData/WD~European_colonialism,17631847|WD~European_colonialism,17631847]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 instance_of:
-- '[[_Standards/WikiData/WD~colonization,815962]]'
-- '[[_Standards/WikiData/WD~occurrence,1190554]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-described_by_source: '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Euromericas,10975716]]'
-has_cause: '[[_Standards/WikiData/WD~Exploration_of_North_America,98681686]]'
-continent: '[[_Standards/WikiData/WD~Americas,828]]'
+- '[[_Standards/WikiData/WD~colonization,815962|WD~colonization,815962]]'
+- '[[_Standards/WikiData/WD~occurrence,1190554|WD~occurrence,1190554]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+described_by_source: '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Euromericas,10975716|WD~Template_Euromericas,10975716]]'
+has_cause: '[[_Standards/WikiData/WD~Exploration_of_North_America,98681686|WD~Exploration_of_North_America,98681686]]'
+continent: '[[_Standards/WikiData/WD~Americas,828|WD~Americas,828]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Italian%20explorers.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Latin%20letter%20W.svg
 Commons_category: Colonization of the Americas

@@ -32,17 +32,17 @@ aliases:
 - 콘트랙트 브리지
 has_id_wikidata: Q188966
 instance_of:
-- '[[_Standards/WikiData/WD~card_game,142714]]'
-- '[[_Standards/WikiData/WD~mind_sport,1188693]]'
-- '[[_Standards/WikiData/WD~bidding_based_game,112972683]]'
-different_from: '[[_Standards/WikiData/WD~Bridge,347789]]'
+- '[[_Standards/WikiData/WD~card_game,142714|WD~card_game,142714]]'
+- '[[_Standards/WikiData/WD~mind_sport,1188693|WD~mind_sport,1188693]]'
+- '[[_Standards/WikiData/WD~bidding_based_game,112972683|WD~bidding_based_game,112972683]]'
+different_from: '[[_Standards/WikiData/WD~Bridge,347789|WD~Bridge,347789]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~strategy_game,1150710]]'
-- '[[_Standards/WikiData/WD~trick_taking_game,1191150]]'
-uses: '[[_Standards/WikiData/WD~standard_52_card_deck,3419503]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_contract_bridge,5867569]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-practiced_by: '[[_Standards/WikiData/WD~bridge_player,18437198]]'
+- '[[_Standards/WikiData/WD~strategy_game,1150710|WD~strategy_game,1150710]]'
+- '[[_Standards/WikiData/WD~trick_taking_game,1191150|WD~trick_taking_game,1191150]]'
+uses: '[[_Standards/WikiData/WD~standard_52_card_deck,3419503|WD~standard_52_card_deck,3419503]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_contract_bridge,5867569|WD~history_of_contract_bridge,5867569]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+practiced_by: '[[_Standards/WikiData/WD~bridge_player,18437198|WD~bridge_player,18437198]]'
 maximum_number_of_players: 4
 minimum_number_of_players: 4
 Commons_category: Bridge (card game)

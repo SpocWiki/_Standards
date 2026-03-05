@@ -15,7 +15,7 @@ dv_is_a_: "[[../../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 165.33
 dv_has_place_latitude: 11.58
 dv_has_name: Bikini
-dv_has_place_country: "[[../../../Marshall~Islands]]"
+dv_has_place_country: "[[../../../Marshall~Islands|Marshall~Islands]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain/Bikini|Bikini]]"

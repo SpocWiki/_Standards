@@ -59,16 +59,16 @@ aliases:
 - 화염병
 has_id_wikidata: Q167096
 has_part_s_:
-- '[[_Standards/WikiData/WD~bottle,80228]]'
-- '[[_Standards/WikiData/WD~gasoline,39558]]'
-named_after: '[[_Standards/WikiData/WD~Vyacheslav_Molotov,132899]]'
+- '[[_Standards/WikiData/WD~bottle,80228|WD~bottle,80228]]'
+- '[[_Standards/WikiData/WD~gasoline,39558|WD~gasoline,39558]]'
+named_after: '[[_Standards/WikiData/WD~Vyacheslav_Molotov,132899|WD~Vyacheslav_Molotov,132899]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~hand_grenade,173517]]'
-- '[[_Standards/WikiData/WD~incendiary_weapon,898389]]'
-- '[[_Standards/WikiData/WD~improvised_explosive_device,1249453]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_model,15142894]]'
-present_in_work: '[[_Standards/WikiData/WD~Hitman_3,96216496]]'
-country_of_origin: '[[_Standards/WikiData/WD~Finland,33]]'
+- '[[_Standards/WikiData/WD~hand_grenade,173517|WD~hand_grenade,173517]]'
+- '[[_Standards/WikiData/WD~incendiary_weapon,898389|WD~incendiary_weapon,898389]]'
+- '[[_Standards/WikiData/WD~improvised_explosive_device,1249453|WD~improvised_explosive_device,1249453]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_model,15142894|WD~weapon_model,15142894]]'
+present_in_work: '[[_Standards/WikiData/WD~Hitman_3,96216496|WD~Hitman_3,96216496]]'
+country_of_origin: '[[_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
 Commons_gallery: Molotov cocktail
 Commons_category: Molotov cocktail
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Training%20bijstandseenheid%2012%20%28molotov%20zoom%29.jpg

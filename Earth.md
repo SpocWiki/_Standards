@@ -278,94 +278,94 @@ bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/AYool%20top
 booru_tag: earth_(planet)
 catalog_code: 806.4616.0110
 child_astronomical_body:
-- '[[_Standards/WikiData/WD~Skylab,190776]]'
-- '[[_Standards/WikiData/WD~geostationary_orbit,192316]]'
-- '[[_Standards/WikiData/WD~2006_RH120,211498]]'
-- '[[_Standards/WikiData/WD~Salyut_1,211761]]'
-- '[[_Standards/WikiData/WD~STS_90,262787]]'
-- '[[_Standards/WikiData/WD~Soil_Moisture_and_Ocean_Salinity,280068]]'
-- '[[_Standards/WikiData/WD~ADM_Aeolus,290390]]'
-- '[[_Standards/WikiData/WD~Explorer_4,370053]]'
-- '[[_Standards/WikiData/WD~TerraSAR_X,705882]]'
-- '[[_Standards/WikiData/WD~Salyut_5,1043322]]'
-- '[[_Standards/WikiData/WD~Vanguard_2,1076866]]'
-- '[[_Standards/WikiData/WD~Transiting_Exoplanet_Survey_Satellite,1323537]]'
-- '[[_Standards/WikiData/WD~Explorer_6,1384577]]'
-- '[[_Standards/WikiData/WD~geosynchronous_satellite,1412630]]'
-- '[[_Standards/WikiData/WD~Kosmos_557,1420942]]'
-- '[[_Standards/WikiData/WD~Kordylewski_cloud,1430362]]'
-- '[[_Standards/WikiData/WD~ESA_GEOS_2,1485199]]'
-- '[[_Standards/WikiData/WD~geocentric_orbit,1579577]]'
-- '[[_Standards/WikiData/WD~Landsat_1,1816481]]'
-- '[[_Standards/WikiData/WD~Wide_Field_Infrared_Explorer,1891259]]'
-- '[[_Standards/WikiData/WD~AMSAT_OSCAR_7,2278545]]'
-- '[[_Standards/WikiData/WD~ITAMSAT,2790523]]'
-- '[[_Standards/WikiData/WD~Tiangong_2,3122598]]'
-- '[[_Standards/WikiData/WD~Libertad_1,3270674]]'
-- '[[_Standards/WikiData/WD~DODGE,3329015]]'
-- '[[_Standards/WikiData/WD~Soil_Moisture_Active_Passive,3459718]]'
-- '[[_Standards/WikiData/WD~SPOT_1,3459966]]'
-- '[[_Standards/WikiData/WD~Landsat_5,3502357]]'
-- '[[_Standards/WikiData/WD~Taiyin,3514088]]'
-- '[[_Standards/WikiData/WD~e_st@r,3717087]]'
-- '[[_Standards/WikiData/WD~artificial_satellite_of_the_Earth,12832168]]'
-- '[[_Standards/WikiData/WD~Sentinel_1A,16054810]]'
-- '[[_Standards/WikiData/WD~UniSat_6,17285883]]'
-- '[[_Standards/WikiData/WD~AsiaSat_8,17486654]]'
-- '[[_Standards/WikiData/WD~geostationary_satellite,19362195]]'
-- '[[_Standards/WikiData/WD~SpaceX_CRS_9,19636560]]'
-- '[[_Standards/WikiData/WD~GSAT_18,20055945]]'
-- '[[_Standards/WikiData/WD~Sentinel_2A,20354353]]'
-- '[[_Standards/WikiData/WD~Sentinel_1B,23818223]]'
-- '[[_Standards/WikiData/WD~QUESS,25382402]]'
-- '[[_Standards/WikiData/WD~Telstar_18V,25426699]]'
-- '[[_Standards/WikiData/WD~SGDC_1,25449060]]'
-- '[[_Standards/WikiData/WD~Van_Allen_Probe_A,28473093]]'
-- '[[_Standards/WikiData/WD~Van_Allen_Probe_B,28473100]]'
-- '[[_Standards/WikiData/WD~Sentinel_2B,28857865]]'
-- '[[_Standards/WikiData/WD~X_ray_Imaging_and_Spectroscopy_Mission,39053896]]'
-- '[[_Standards/WikiData/WD~GRACE_1,46539410]]'
-- '[[_Standards/WikiData/WD~GRACE_2,46539486]]'
-- '[[_Standards/WikiData/WD~GRACE_FO_1,61040416]]'
-- '[[_Standards/WikiData/WD~GRACE_FO_2,61040417]]'
-- '[[_Standards/WikiData/WD~Seeker,73389119]]'
-- '[[_Standards/WikiData/WD~2020_CD3,86388198]]'
-- '[[_Standards/WikiData/WD~Sentinel_6_Michael_Freilich,102424477]]'
-- '[[_Standards/WikiData/WD~Sentinel_6B,102424501]]'
-- '[[_Standards/WikiData/WD~Asgardia_1,105889224]]'
-- '[[_Standards/WikiData/WD~Enxaneta,106073481]]'
-- '[[_Standards/WikiData/WD~SXM_8,107629312]]'
-- '[[_Standards/WikiData/WD~SAMPAN_I,108104224]]'
-- '[[_Standards/WikiData/WD~Orbital_Reef,109250322]]'
-- '[[_Standards/WikiData/WD~Starlab,109283872]]'
-- '[[_Standards/WikiData/WD~LEDsat,110613557]]'
-- '[[_Standards/WikiData/WD~Unisat_5,111471801]]'
-- '[[_Standards/WikiData/WD~2022_NX1,113380363]]'
-- '[[_Standards/WikiData/WD~AstroBio_CubeSat,115329454]]'
-- '[[_Standards/WikiData/WD~Space_Travelling_Egg_Controlled_Catadioptric_Object,115563191]]'
-- '[[_Standards/WikiData/WD~Spei_Satelles,119457151]]'
-- '[[_Standards/WikiData/WD~Haven_1,120069071]]'
-- '[[_Standards/WikiData/WD~Gaofen_12_04,122987993]]'
-- '[[_Standards/WikiData/WD~Gaofen_12_02,122989364]]'
-- '[[_Standards/WikiData/WD~Kosmos_2553,126372457]]'
-- '[[_Standards/WikiData/WD~Ariane_flight_VA262,127460082]]'
-- '[[_Standards/WikiData/WD~Fram2,128945147]]'
-- '[[_Standards/WikiData/WD~Lemu_Nge,129522190]]'
-- '[[_Standards/WikiData/WD~2024_PT5,130301991]]'
-- '[[_Standards/WikiData/WD~Sentinel_1C,130475553]]'
-- '[[_Standards/WikiData/WD~PROBA_3_Coronagraph,131540118]]'
-- '[[_Standards/WikiData/WD~PROBA_3_Occulter,131540119]]'
-- '[[_Standards/WikiData/WD~SXM_9,131577490]]'
-- '[[_Standards/WikiData/WD~New_Glenn_NG_1,131587302]]'
-- '[[_Standards/WikiData/WD~Blue_Ring_Pathfinder,131826169]]'
-- '[[_Standards/WikiData/WD~Moon,405]]'
-- '[[_Standards/WikiData/WD~Hubble_Space_Telescope,2513]]'
-- '[[_Standards/WikiData/WD~Active_Magnetospheric_Particle_Tracer_Explorers,15011]]'
-- '[[_Standards/WikiData/WD~Aqua,17397]]'
-- '[[_Standards/WikiData/WD~Array_of_Low_Energy_X_ray_Imaging_Sensors,18539]]'
-- '[[_Standards/WikiData/WD~International_Space_Station,25271]]'
-- '[[_Standards/WikiData/WD~Tyazhely_Sputnik,40610]]'
-- '[[_Standards/WikiData/WD~Mir,48604]]'
+- '[[_Standards/WikiData/WD~Skylab,190776|WD~Skylab,190776]]'
+- '[[_Standards/WikiData/WD~geostationary_orbit,192316|WD~geostationary_orbit,192316]]'
+- '[[_Standards/WikiData/WD~2006_RH120,211498|WD~2006_RH120,211498]]'
+- '[[_Standards/WikiData/WD~Salyut_1,211761|WD~Salyut_1,211761]]'
+- '[[_Standards/WikiData/WD~STS_90,262787|WD~STS_90,262787]]'
+- '[[_Standards/WikiData/WD~Soil_Moisture_and_Ocean_Salinity,280068|WD~Soil_Moisture_and_Ocean_Salinity,280068]]'
+- '[[_Standards/WikiData/WD~ADM_Aeolus,290390|WD~ADM_Aeolus,290390]]'
+- '[[_Standards/WikiData/WD~Explorer_4,370053|WD~Explorer_4,370053]]'
+- '[[_Standards/WikiData/WD~TerraSAR_X,705882|WD~TerraSAR_X,705882]]'
+- '[[_Standards/WikiData/WD~Salyut_5,1043322|WD~Salyut_5,1043322]]'
+- '[[_Standards/WikiData/WD~Vanguard_2,1076866|WD~Vanguard_2,1076866]]'
+- '[[_Standards/WikiData/WD~Transiting_Exoplanet_Survey_Satellite,1323537|WD~Transiting_Exoplanet_Survey_Satellite,1323537]]'
+- '[[_Standards/WikiData/WD~Explorer_6,1384577|WD~Explorer_6,1384577]]'
+- '[[_Standards/WikiData/WD~geosynchronous_satellite,1412630|WD~geosynchronous_satellite,1412630]]'
+- '[[_Standards/WikiData/WD~Kosmos_557,1420942|WD~Kosmos_557,1420942]]'
+- '[[_Standards/WikiData/WD~Kordylewski_cloud,1430362|WD~Kordylewski_cloud,1430362]]'
+- '[[_Standards/WikiData/WD~ESA_GEOS_2,1485199|WD~ESA_GEOS_2,1485199]]'
+- '[[_Standards/WikiData/WD~geocentric_orbit,1579577|WD~geocentric_orbit,1579577]]'
+- '[[_Standards/WikiData/WD~Landsat_1,1816481|WD~Landsat_1,1816481]]'
+- '[[_Standards/WikiData/WD~Wide_Field_Infrared_Explorer,1891259|WD~Wide_Field_Infrared_Explorer,1891259]]'
+- '[[_Standards/WikiData/WD~AMSAT_OSCAR_7,2278545|WD~AMSAT_OSCAR_7,2278545]]'
+- '[[_Standards/WikiData/WD~ITAMSAT,2790523|WD~ITAMSAT,2790523]]'
+- '[[_Standards/WikiData/WD~Tiangong_2,3122598|WD~Tiangong_2,3122598]]'
+- '[[_Standards/WikiData/WD~Libertad_1,3270674|WD~Libertad_1,3270674]]'
+- '[[_Standards/WikiData/WD~DODGE,3329015|WD~DODGE,3329015]]'
+- '[[_Standards/WikiData/WD~Soil_Moisture_Active_Passive,3459718|WD~Soil_Moisture_Active_Passive,3459718]]'
+- '[[_Standards/WikiData/WD~SPOT_1,3459966|WD~SPOT_1,3459966]]'
+- '[[_Standards/WikiData/WD~Landsat_5,3502357|WD~Landsat_5,3502357]]'
+- '[[_Standards/WikiData/WD~Taiyin,3514088|WD~Taiyin,3514088]]'
+- '[[_Standards/WikiData/WD~e_st@r,3717087|WD~e_st@r,3717087]]'
+- '[[_Standards/WikiData/WD~artificial_satellite_of_the_Earth,12832168|WD~artificial_satellite_of_the_Earth,12832168]]'
+- '[[_Standards/WikiData/WD~Sentinel_1A,16054810|WD~Sentinel_1A,16054810]]'
+- '[[_Standards/WikiData/WD~UniSat_6,17285883|WD~UniSat_6,17285883]]'
+- '[[_Standards/WikiData/WD~AsiaSat_8,17486654|WD~AsiaSat_8,17486654]]'
+- '[[_Standards/WikiData/WD~geostationary_satellite,19362195|WD~geostationary_satellite,19362195]]'
+- '[[_Standards/WikiData/WD~SpaceX_CRS_9,19636560|WD~SpaceX_CRS_9,19636560]]'
+- '[[_Standards/WikiData/WD~GSAT_18,20055945|WD~GSAT_18,20055945]]'
+- '[[_Standards/WikiData/WD~Sentinel_2A,20354353|WD~Sentinel_2A,20354353]]'
+- '[[_Standards/WikiData/WD~Sentinel_1B,23818223|WD~Sentinel_1B,23818223]]'
+- '[[_Standards/WikiData/WD~QUESS,25382402|WD~QUESS,25382402]]'
+- '[[_Standards/WikiData/WD~Telstar_18V,25426699|WD~Telstar_18V,25426699]]'
+- '[[_Standards/WikiData/WD~SGDC_1,25449060|WD~SGDC_1,25449060]]'
+- '[[_Standards/WikiData/WD~Van_Allen_Probe_A,28473093|WD~Van_Allen_Probe_A,28473093]]'
+- '[[_Standards/WikiData/WD~Van_Allen_Probe_B,28473100|WD~Van_Allen_Probe_B,28473100]]'
+- '[[_Standards/WikiData/WD~Sentinel_2B,28857865|WD~Sentinel_2B,28857865]]'
+- '[[_Standards/WikiData/WD~X_ray_Imaging_and_Spectroscopy_Mission,39053896|WD~X_ray_Imaging_and_Spectroscopy_Mission,39053896]]'
+- '[[_Standards/WikiData/WD~GRACE_1,46539410|WD~GRACE_1,46539410]]'
+- '[[_Standards/WikiData/WD~GRACE_2,46539486|WD~GRACE_2,46539486]]'
+- '[[_Standards/WikiData/WD~GRACE_FO_1,61040416|WD~GRACE_FO_1,61040416]]'
+- '[[_Standards/WikiData/WD~GRACE_FO_2,61040417|WD~GRACE_FO_2,61040417]]'
+- '[[_Standards/WikiData/WD~Seeker,73389119|WD~Seeker,73389119]]'
+- '[[_Standards/WikiData/WD~2020_CD3,86388198|WD~2020_CD3,86388198]]'
+- '[[_Standards/WikiData/WD~Sentinel_6_Michael_Freilich,102424477|WD~Sentinel_6_Michael_Freilich,102424477]]'
+- '[[_Standards/WikiData/WD~Sentinel_6B,102424501|WD~Sentinel_6B,102424501]]'
+- '[[_Standards/WikiData/WD~Asgardia_1,105889224|WD~Asgardia_1,105889224]]'
+- '[[_Standards/WikiData/WD~Enxaneta,106073481|WD~Enxaneta,106073481]]'
+- '[[_Standards/WikiData/WD~SXM_8,107629312|WD~SXM_8,107629312]]'
+- '[[_Standards/WikiData/WD~SAMPAN_I,108104224|WD~SAMPAN_I,108104224]]'
+- '[[_Standards/WikiData/WD~Orbital_Reef,109250322|WD~Orbital_Reef,109250322]]'
+- '[[_Standards/WikiData/WD~Starlab,109283872|WD~Starlab,109283872]]'
+- '[[_Standards/WikiData/WD~LEDsat,110613557|WD~LEDsat,110613557]]'
+- '[[_Standards/WikiData/WD~Unisat_5,111471801|WD~Unisat_5,111471801]]'
+- '[[_Standards/WikiData/WD~2022_NX1,113380363|WD~2022_NX1,113380363]]'
+- '[[_Standards/WikiData/WD~AstroBio_CubeSat,115329454|WD~AstroBio_CubeSat,115329454]]'
+- '[[_Standards/WikiData/WD~Space_Travelling_Egg_Controlled_Catadioptric_Object,115563191|WD~Space_Travelling_Egg_Controlled_Catadioptric_Object,115563191]]'
+- '[[_Standards/WikiData/WD~Spei_Satelles,119457151|WD~Spei_Satelles,119457151]]'
+- '[[_Standards/WikiData/WD~Haven_1,120069071|WD~Haven_1,120069071]]'
+- '[[_Standards/WikiData/WD~Gaofen_12_04,122987993|WD~Gaofen_12_04,122987993]]'
+- '[[_Standards/WikiData/WD~Gaofen_12_02,122989364|WD~Gaofen_12_02,122989364]]'
+- '[[_Standards/WikiData/WD~Kosmos_2553,126372457|WD~Kosmos_2553,126372457]]'
+- '[[_Standards/WikiData/WD~Ariane_flight_VA262,127460082|WD~Ariane_flight_VA262,127460082]]'
+- '[[_Standards/WikiData/WD~Fram2,128945147|WD~Fram2,128945147]]'
+- '[[_Standards/WikiData/WD~Lemu_Nge,129522190|WD~Lemu_Nge,129522190]]'
+- '[[_Standards/WikiData/WD~2024_PT5,130301991|WD~2024_PT5,130301991]]'
+- '[[_Standards/WikiData/WD~Sentinel_1C,130475553|WD~Sentinel_1C,130475553]]'
+- '[[_Standards/WikiData/WD~PROBA_3_Coronagraph,131540118|WD~PROBA_3_Coronagraph,131540118]]'
+- '[[_Standards/WikiData/WD~PROBA_3_Occulter,131540119|WD~PROBA_3_Occulter,131540119]]'
+- '[[_Standards/WikiData/WD~SXM_9,131577490|WD~SXM_9,131577490]]'
+- '[[_Standards/WikiData/WD~New_Glenn_NG_1,131587302|WD~New_Glenn_NG_1,131587302]]'
+- '[[_Standards/WikiData/WD~Blue_Ring_Pathfinder,131826169|WD~Blue_Ring_Pathfinder,131826169]]'
+- '[[_Standards/WikiData/WD~Moon,405|WD~Moon,405]]'
+- '[[_Standards/WikiData/WD~Hubble_Space_Telescope,2513|WD~Hubble_Space_Telescope,2513]]'
+- '[[_Standards/WikiData/WD~Active_Magnetospheric_Particle_Tracer_Explorers,15011|WD~Active_Magnetospheric_Particle_Tracer_Explorers,15011]]'
+- '[[_Standards/WikiData/WD~Aqua,17397|WD~Aqua,17397]]'
+- '[[_Standards/WikiData/WD~Array_of_Low_Energy_X_ray_Imaging_Sensors,18539|WD~Array_of_Low_Energy_X_ray_Imaging_Sensors,18539]]'
+- '[[_Standards/WikiData/WD~International_Space_Station,25271|WD~International_Space_Station,25271]]'
+- '[[_Standards/WikiData/WD~Tyazhely_Sputnik,40610|WD~Tyazhely_Sputnik,40610]]'
+- '[[_Standards/WikiData/WD~Mir,48604|WD~Mir,48604]]'
 Commons_category: Earth
 Commons_gallery: Earth
 coordinates_of_northernmost_point: Point(0.0 90.0)
@@ -421,32 +421,32 @@ demonym:
 density: 5514
 described_at_URL: https://wikispooks.com/wiki/World
 described_by_source:
-- '[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Der_Volks_Brockhaus,107433072]]'
-- '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
+- '[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Der_Volks_Brockhaus,107433072|WD~Der_Volks_Brockhaus,107433072]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836|WD~Dictionnaire_des_biens_communs,120799836]]'
 Dewey_Decimal_Classification:
 - 525
 - 550
 - 910.02
 diameter: 12742
 different_from:
-- '[[_Standards/WikiData/WD~Tellus,340271]]'
-- '[[_Standards/WikiData/WD~Erde,348045]]'
-- '[[_Standards/WikiData/WD~Terra,400922]]'
-- '[[_Standards/WikiData/WD~Jorda,1703583]]'
-- '[[_Standards/WikiData/WD~land,11081619]]'
-- '[[_Standards/WikiData/WD~Earth,23048336]]'
-- '[[_Standards/WikiData/WD~Eerd,115837838]]'
+- '[[_Standards/WikiData/WD~Tellus,340271|WD~Tellus,340271]]'
+- '[[_Standards/WikiData/WD~Erde,348045|WD~Erde,348045]]'
+- '[[_Standards/WikiData/WD~Terra,400922|WD~Terra,400922]]'
+- '[[_Standards/WikiData/WD~Jorda,1703583|WD~Jorda,1703583]]'
+- '[[_Standards/WikiData/WD~land,11081619|WD~land,11081619]]'
+- '[[_Standards/WikiData/WD~Earth,23048336|WD~Earth,23048336]]'
+- '[[_Standards/WikiData/WD~Eerd,115837838|WD~Eerd,115837838]]'
 dissolved_abolished_or_demolished_date: http://www.wikidata.org/.well-known/genid/0fd6af797143eec0be1c120968b50da2
 distance_from_Earth: 0
 exact_match:
@@ -454,91 +454,91 @@ exact_match:
 - http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/16260
 - https://global.dbpedia.org/id/1u1Br
 - https://www.newworldencyclopedia.org/entry/Earth
-flag: '[[_Standards/WikiData/WD~flag_of_the_Earth,2293672]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Earth,2293672|WD~flag_of_the_Earth,2293672]]'
 flattening: 0.0033528
-geography_of_topic: '[[_Standards/WikiData/WD~world_geography,11362158]]'
+geography_of_topic: '[[_Standards/WikiData/WD~world_geography,11362158|WD~world_geography,11362158]]'
 hashtag:
 - Earth
 - earth_(planet)
 has_characteristic:
-- '[[_Standards/WikiData/WD~planetary_habitability,846030]]'
-- "[[_Standards/WikiData/WD~Earth's_magnetic_field,6500960]]"
-- '[[_Standards/WikiData/WD~mass_of_the_Earth,25935139]]'
-- '[[_Standards/WikiData/WD~narrative_location,105115142]]'
-- '[[_Standards/WikiData/WD~geologic_activity,108156638]]'
+- '[[_Standards/WikiData/WD~planetary_habitability,846030|WD~planetary_habitability,846030]]'
+- "[[_Standards/WikiData/WD~Earth's_magnetic_field,6500960|WD~Earth's_magnetic_field,6500960]]"
+- '[[_Standards/WikiData/WD~mass_of_the_Earth,25935139|WD~mass_of_the_Earth,25935139]]'
+- '[[_Standards/WikiData/WD~narrative_location,105115142|WD~narrative_location,105115142]]'
+- '[[_Standards/WikiData/WD~geologic_activity,108156638|WD~geologic_activity,108156638]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrosphere,83169]]'
-- '[[_Standards/WikiData/WD~lithosphere,83296]]'
-- '[[_Standards/WikiData/WD~mantle,101949]]'
-- "[[_Standards/WikiData/WD~Earth's_core,193927]]"
-- '[[_Standards/WikiData/WD~hemisphere_of_the_Earth,399984]]'
-- "[[_Standards/WikiData/WD~Earth's_surface,1349417]]"
-- "[[_Standards/WikiData/WD~Earth's_magnetic_field,6500960]]"
-- '[[_Standards/WikiData/WD~Americas,828]]'
-- '[[_Standards/WikiData/WD~atmosphere_of_Earth,3230]]'
-- '[[_Standards/WikiData/WD~Australian_continent,3960]]'
-- '[[_Standards/WikiData/WD~continent,5107]]'
-- '[[_Standards/WikiData/WD~Eurasia,5401]]'
-- "[[_Standards/WikiData/WD~Earth's_crust,15316]]"
-- '[[_Standards/WikiData/WD~Africa,15]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
-- '[[_Standards/WikiData/WD~Antarctica,51]]'
-- '[[_Standards/WikiData/WD~Asia,48]]'
-- '[[_Standards/WikiData/WD~biosphere,42762]]'
+- '[[_Standards/WikiData/WD~hydrosphere,83169|WD~hydrosphere,83169]]'
+- '[[_Standards/WikiData/WD~lithosphere,83296|WD~lithosphere,83296]]'
+- '[[_Standards/WikiData/WD~mantle,101949|WD~mantle,101949]]'
+- "[[_Standards/WikiData/WD~Earth's_core,193927|WD~Earth's_core,193927]]"
+- '[[_Standards/WikiData/WD~hemisphere_of_the_Earth,399984|WD~hemisphere_of_the_Earth,399984]]'
+- "[[_Standards/WikiData/WD~Earth's_surface,1349417|WD~Earth's_surface,1349417]]"
+- "[[_Standards/WikiData/WD~Earth's_magnetic_field,6500960|WD~Earth's_magnetic_field,6500960]]"
+- '[[_Standards/WikiData/WD~Americas,828|WD~Americas,828]]'
+- '[[_Standards/WikiData/WD~atmosphere_of_Earth,3230|WD~atmosphere_of_Earth,3230]]'
+- '[[_Standards/WikiData/WD~Australian_continent,3960|WD~Australian_continent,3960]]'
+- '[[_Standards/WikiData/WD~continent,5107|WD~continent,5107]]'
+- '[[_Standards/WikiData/WD~Eurasia,5401|WD~Eurasia,5401]]'
+- "[[_Standards/WikiData/WD~Earth's_crust,15316|WD~Earth's_crust,15316]]"
+- '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Antarctica,51|WD~Antarctica,51]]'
+- '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~biosphere,42762|WD~biosphere,42762]]'
 has_time_started: -4540000000
-highest_point: '[[_Standards/WikiData/WD~Mount_Everest,513]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Everest,513|WD~Mount_Everest,513]]'
 history_of_topic:
-- '[[_Standards/WikiData/WD~history_of_Earth,156312]]'
-- '[[_Standards/WikiData/WD~geological_history_of_Earth,2389585]]'
+- '[[_Standards/WikiData/WD~history_of_Earth,156312|WD~history_of_Earth,156312]]'
+- '[[_Standards/WikiData/WD~geological_history_of_Earth,2389585|WD~geological_history_of_Earth,2389585]]'
 icon: earth_americas
 Iconclass_notation: 25
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20%285052124705%29.jpg
 inception: -4540000000-06
 instance_of:
-- '[[_Standards/WikiData/WD~terrestrial_planet,128207]]'
-- '[[_Standards/WikiData/WD~inner_planet_of_the_Solar_System,3504248]]'
+- '[[_Standards/WikiData/WD~terrestrial_planet,128207|WD~terrestrial_planet,128207]]'
+- '[[_Standards/WikiData/WD~inner_planet_of_the_Solar_System,3504248|WD~inner_planet_of_the_Solar_System,3504248]]'
 Krugosvet_article: nauka_i_tehnika/astronomiya/ZEMLYA.html
 Library_of_Congress_Classification: QB630-QB638.8
 location:
-- '[[_Standards/WikiData/WD~circumstellar_habitable_zone,215913]]'
-- '[[_Standards/WikiData/WD~inner_Solar_System,7879772]]'
-- '[[_Standards/WikiData/WD~Milky_Way,321]]'
-- '[[_Standards/WikiData/WD~Local_Group,3944]]'
+- '[[_Standards/WikiData/WD~circumstellar_habitable_zone,215913|WD~circumstellar_habitable_zone,215913]]'
+- '[[_Standards/WikiData/WD~inner_Solar_System,7879772|WD~inner_Solar_System,7879772]]'
+- '[[_Standards/WikiData/WD~Milky_Way,321|WD~Milky_Way,321]]'
+- '[[_Standards/WikiData/WD~Local_Group,3944|WD~Local_Group,3944]]'
 longitude_of_ascending_node: 348.73936
-lowest_point: '[[_Standards/WikiData/WD~Challenger_Deep,459173]]'
+lowest_point: '[[_Standards/WikiData/WD~Challenger_Deep,459173|WD~Challenger_Deep,459173]]'
 magnetic_moment: 7.84e+22
-manifestation_of: '[[_Standards/WikiData/WD~open_system,898312]]'
+manifestation_of: '[[_Standards/WikiData/WD~open_system,898312|WD~open_system,898312]]'
 mass: 5972.37
 maximum_temperature_record: 56.7
 mean_anomaly: 358.617
 MeSH_tree_code: G01.060.075.730.700.200
 minimum_temperature_record: -89.2
 named_after:
-- '[[_Standards/WikiData/WD~ball,838611]]'
-- '[[_Standards/WikiData/WD~land,11081619]]'
-- '[[_Standards/WikiData/WD~soil,36133]]'
+- '[[_Standards/WikiData/WD~ball,838611|WD~ball,838611]]'
+- '[[_Standards/WikiData/WD~land,11081619|WD~land,11081619]]'
+- '[[_Standards/WikiData/WD~soil,36133|WD~soil,36133]]'
 name_in_kana: ちきゅう
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%27s%20City%20Lights%20by%20DMSP%2C%201994-1995%20%28large%29.jpg
-notation: '[[_Standards/WikiData/WD~Earth_symbol,426529]]'
+notation: '[[_Standards/WikiData/WD~Earth_symbol,426529|WD~Earth_symbol,426529]]'
 number_of_out_of_school_children: 264000000
 OmegaWiki_Defined_Meaning: 7401
 opposite_of:
-- '[[_Standards/WikiData/WD~sky,527]]'
-- '[[_Standards/WikiData/WD~outer_space,4169]]'
+- '[[_Standards/WikiData/WD~sky,527|WD~sky,527]]'
+- '[[_Standards/WikiData/WD~outer_space,4169|WD~outer_space,4169]]'
 orbital_eccentricity: 0.016710219
 orbital_inclination:
 - 7.155
 - 1.57869
 orbital_period: 365.256363004
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
-part_of: '[[_Standards/WikiData/WD~Earth_Moon_system,18589965]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
+part_of: '[[_Standards/WikiData/WD~Earth_Moon_system,18589965|WD~Earth_Moon_system,18589965]]'
 periapsis: 147095000
 perimeter:
 - 24901
 - 40075
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Earth,22828183]]'
-- '[[_Standards/WikiData/WD~Q110087470,110087470]]'
+- '[[_Standards/WikiData/WD~Earth,22828183|WD~Earth,22828183]]'
+- '[[_Standards/WikiData/WD~Q110087470,110087470|WD~Q110087470,110087470]]'
 population: 8028504258
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/En-us-earth.ogg
@@ -554,12 +554,12 @@ radius:
 rotation_period:
 - 86164.098903691
 - 24
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~world,16502]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~world,16502|WD~world,16502]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Jordens%20inre.svg
 semi_major_axis_of_an_orbit:
 - 1
 - 149598023
-shape: '[[_Standards/WikiData/WD~geoid,185969]]'
+shape: '[[_Standards/WikiData/WD~geoid,185969|WD~geoid,185969]]'
 speed: 107200
 spoken_text_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/En-Earth-article.ogg
@@ -571,17 +571,17 @@ Stack_Exchange_tag:
 - https://astronomy.stackexchange.com/tags/earth
 - https://physics.stackexchange.com/tags/earth
 studied_by:
-- '[[_Standards/WikiData/WD~planetary_science,104499]]'
-- '[[_Standards/WikiData/WD~geology,1069]]'
-- '[[_Standards/WikiData/WD~Earth_science,8008]]'
-- '[[_Standards/WikiData/WD~geophysics,46255]]'
+- '[[_Standards/WikiData/WD~planetary_science,104499|WD~planetary_science,104499]]'
+- '[[_Standards/WikiData/WD~geology,1069|WD~geology,1069]]'
+- '[[_Standards/WikiData/WD~Earth_science,8008|WD~Earth_science,8008]]'
+- '[[_Standards/WikiData/WD~geophysics,46255|WD~geophysics,46255]]'
 subreddit: Earth
 surface_gravity: 9.798
 temperature: 15
 time_of_discovery_or_invention: http://www.wikidata.org/.well-known/genid/3f1a0f7863dc31a3ec6f72d6e25b6fcb
 time_of_periapsis: 2459218.90577274
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Earth,8084930]]'
-type_of_orbit: '[[_Standards/WikiData/WD~heliocentric_orbit,737809]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Earth,8084930|WD~Template_Earth,8084930]]'
+type_of_orbit: '[[_Standards/WikiData/WD~heliocentric_orbit,737809|WD~heliocentric_orbit,737809]]'
 UMLS_CUI: C0242744
 Unicode_character:
 - ♁
@@ -595,21 +595,21 @@ U_S_National_Archives_Identifier:
 - 10637787
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lurraren%20ilargiak.webm
 volume_as_quantity: 1083210000000
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Earth,28231576]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Earth,28231576|WD~outline_of_Earth,28231576]]'
 WOEID: 1
 Wolfram_Language_entity_code: Entity["Planet", "Earth"]
 WordLift_URL: http://data.thenextweb.com/tnw/entity/earth
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Geography,3189123]]'
-- '[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]'
-- '[[_Standards/WikiData/WD~WikiProject_Astronomy,8493596]]'
-- '[[_Standards/WikiData/WD~WikiProject_Astronomical_objects,8502932]]'
-- '[[_Standards/WikiData/WD~WikiProject_Science,10522795]]'
-- '[[_Standards/WikiData/WD~WikiProject_Solar_System,11030684]]'
-- '[[_Standards/WikiData/WD~WikiProject_Geology,14943910]]'
-- '[[_Standards/WikiData/WD~WikiProject_Culture,17859486]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Earth,8084930]]'
-most_populous_urban_area: '[[_Standards/WikiData/WD~Guangdong_Hong_Kong_Macao_Greater_Bay_Area,29583237]]'
+- '[[_Standards/WikiData/WD~WikiProject_Geography,3189123|WD~WikiProject_Geography,3189123]]'
+- '[[_Standards/WikiData/WD~WikiProject_Environment,5497659|WD~WikiProject_Environment,5497659]]'
+- '[[_Standards/WikiData/WD~WikiProject_Astronomy,8493596|WD~WikiProject_Astronomy,8493596]]'
+- '[[_Standards/WikiData/WD~WikiProject_Astronomical_objects,8502932|WD~WikiProject_Astronomical_objects,8502932]]'
+- '[[_Standards/WikiData/WD~WikiProject_Science,10522795|WD~WikiProject_Science,10522795]]'
+- '[[_Standards/WikiData/WD~WikiProject_Solar_System,11030684|WD~WikiProject_Solar_System,11030684]]'
+- '[[_Standards/WikiData/WD~WikiProject_Geology,14943910|WD~WikiProject_Geology,14943910]]'
+- '[[_Standards/WikiData/WD~WikiProject_Culture,17859486|WD~WikiProject_Culture,17859486]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Earth,8084930|WD~Template_Earth,8084930]]'
+most_populous_urban_area: '[[_Standards/WikiData/WD~Guangdong_Hong_Kong_Macao_Greater_Bay_Area,29583237|WD~Guangdong_Hong_Kong_Macao_Greater_Bay_Area,29583237]]'
 IMDb_keyword:
 - planet-earth
 - world
@@ -1070,7 +1070,7 @@ dv_has_:
 
 ## Orbits 
 
-![[Earth/Earth-Moon-Orbits.svg]] 
+![[Earth/Earth-Moon-Orbits.svg|Earth-Moon-Orbits.svg]] 
 
 
 Radius_geo_stationary:: 35786.
@@ -1131,7 +1131,7 @@ Earth ecliptic Plane is inclined by 23.43472° (23.5°) which results in the sea
 between northern and southern 2609 km zum Äquator
 between [[Earth/Continent/Asia/Indian_Subcontinent/India|India]] and [[../Earth/Continent/Australasia/Australia|Australia]] resp. [[../Earth/Continent/America~Central|America~Central]] and [[../Earth/Continent/America~South/Brazil|Brazil]] 
 
-Due to [[Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession]] the Location of the Equinoxe moves by a few Meters every year 
+Due to [[Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession|Precession]] the Location of the Equinoxe moves by a few Meters every year 
 with a Period of 28000 years. 
 
 ## Earth Layers 

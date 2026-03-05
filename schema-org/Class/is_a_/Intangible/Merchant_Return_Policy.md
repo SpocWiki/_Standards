@@ -30,7 +30,7 @@ tags:
 title: is_a_merchant_return_policy Class
 type: Type
 dv_is_:
-  parent_class: "[[../Intangible]]"
+  parent_class: "[[../Intangible|Intangible]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy|Merchant_Return_Policy]]"
@@ -78,7 +78,7 @@ dv_has_:
     - "[[../../../Property/has_url_for|url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../Intangible]]"
+  - "[[../Intangible|Intangible]]"
 dv_has_properties:
   - "[[../../../Relation/has/has_additional_property|additionalProperty]]"
   - "[[../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
@@ -130,7 +130,7 @@ Tag Instances like this:
 
 is_part_of = `=this.dv_is_part_of` 
 
-A MerchantReturnPolicy provides information about product return policies associated with an [[../../../../Society/Agent/Community/Organization]],  [[../../../../Society/Agent/Community/Organization/Business/Product]], or [[../../../../Society/Agent/Community/Organization/Business/Offer]].
+A MerchantReturnPolicy provides information about product return policies associated with an [[../../../../Society/Agent/Community/Organization|Organization]],  [[../../../../Society/Agent/Community/Organization/Business/Product|Product]], or [[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]].
 
 has_parent_class = `=this.dv_has_parent_class` 
 

@@ -121,23 +121,23 @@ Dewey_Decimal_Classification:
 - 539.7222
 - 571.457
 - 612.014485
-part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]'
+part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139|WD~electromagnetic_spectrum,133139]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~X_wave,8041592]]'
-instance_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~X_wave,8041592|WD~X_wave,8041592]]'
+instance_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754|WD~electromagnetic_radiation,12969754]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~medical_service,55698119]]'
-- '[[_Standards/WikiData/WD~radiation,18335]]'
-followed_by: '[[_Standards/WikiData/WD~ultraviolet_radiation,11391]]'
-follows: '[[_Standards/WikiData/WD~gamma_ray,11523]]'
+- '[[_Standards/WikiData/WD~medical_service,55698119|WD~medical_service,55698119]]'
+- '[[_Standards/WikiData/WD~radiation,18335|WD~radiation,18335]]'
+followed_by: '[[_Standards/WikiData/WD~ultraviolet_radiation,11391|WD~ultraviolet_radiation,11391]]'
+follows: '[[_Standards/WikiData/WD~gamma_ray,11523|WD~gamma_ray,11523]]'
 wavelength: 50
-named_after: '[[_Standards/WikiData/WD~Wilhelm_Röntgen,35149]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Wilhelm_Röntgen,35149]]'
+named_after: '[[_Standards/WikiData/WD~Wilhelm_Röntgen,35149|WD~Wilhelm_Röntgen,35149]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Wilhelm_Röntgen,35149|WD~Wilhelm_Röntgen,35149]]'
 OmegaWiki_Defined_Meaning: 4187
 U_S_National_Archives_Identifier: 10645918
 Commons_gallery: X-ray

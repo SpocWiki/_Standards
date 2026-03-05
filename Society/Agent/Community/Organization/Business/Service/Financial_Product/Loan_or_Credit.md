@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A financial product for the loaning of an amount of money, or line of credit, under agreed terms and charges.
 
-#has_/parent_class :: [[../FinancialProduct]]  
+#has_/parent_class :: [[../FinancialProduct|FinancialProduct]]  
 
 #has_/child_/class :: [ CreditCard, MortgageLoan ]  
 

@@ -77,20 +77,20 @@ aliases:
 - 철학사
 has_id_wikidata: Q27654
 studied_by:
-- '[[_Standards/WikiData/WD~humanities,80083]]'
-- '[[_Standards/WikiData/WD~Q121267483,121267483]]'
-described_by_source: '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~humanities,80083|WD~humanities,80083]]'
+- '[[_Standards/WikiData/WD~Q121267483,121267483|WD~Q121267483,121267483]]'
+described_by_source: '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~study_of_history,1066186]]'
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-different_from: '[[_Standards/WikiData/WD~history_of_Western_philosophy,2519035]]'
+- '[[_Standards/WikiData/WD~study_of_history,1066186|WD~study_of_history,1066186]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+different_from: '[[_Standards/WikiData/WD~history_of_Western_philosophy,2519035|WD~history_of_Western_philosophy,2519035]]'
 instance_of:
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
-- '[[_Standards/WikiData/WD~branch_of_history,81517619]]'
-practiced_by: '[[_Standards/WikiData/WD~philosophy_historian,24265174]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q121267483,121267483]]'
-facet_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234|WD~branch_of_philosophy,22811234]]'
+- '[[_Standards/WikiData/WD~branch_of_history,81517619|WD~branch_of_history,81517619]]'
+practiced_by: '[[_Standards/WikiData/WD~philosophy_historian,24265174|WD~philosophy_historian,24265174]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q121267483,121267483|WD~Q121267483,121267483]]'
+facet_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 Dewey_Decimal_Classification: 109
 Commons_category: History of philosophy
 Stack_Exchange_tag: https://philosophy.stackexchange.com/tags/history-of-philosophy

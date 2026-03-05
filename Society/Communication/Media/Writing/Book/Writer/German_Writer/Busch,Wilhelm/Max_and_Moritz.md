@@ -61,7 +61,7 @@ dv_has_:
 
 # [[Max_and_Moritz]]  
 
-#has_/creator :: [[../Busch,Wilhelm]] 
+#has_/creator :: [[../Busch,Wilhelm|Busch,Wilhelm]] 
 
 ## #has_/text_of_/abstract 
 

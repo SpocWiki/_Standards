@@ -18,37 +18,37 @@ aliases:
 - 巴西航空工業公司
 - 엠브라에르
 has_id_wikidata: Q105557
-headquarters_locations: '[[_Standards/WikiData/WD~São_José_dos_Campos,191642]]'
+headquarters_locations: '[[_Standards/WikiData/WD~São_José_dos_Campos,191642|WD~São_José_dos_Campos,191642]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~airliner,210932]]'
-- '[[_Standards/WikiData/WD~military_aircraft,216916]]'
-- '[[_Standards/WikiData/WD~agricultural_aircraft,396067]]'
-- '[[_Standards/WikiData/WD~airplane,197]]'
+- '[[_Standards/WikiData/WD~airliner,210932|WD~airliner,210932]]'
+- '[[_Standards/WikiData/WD~military_aircraft,216916|WD~military_aircraft,216916]]'
+- '[[_Standards/WikiData/WD~agricultural_aircraft,396067|WD~agricultural_aircraft,396067]]'
+- '[[_Standards/WikiData/WD~airplane,197|WD~airplane,197]]'
 industry:
-- '[[_Standards/WikiData/WD~arms_industry,392933]]'
-- '[[_Standards/WikiData/WD~aircraft_construction,1434048]]'
-- '[[_Standards/WikiData/WD~aerospace_industry,3477363]]'
+- '[[_Standards/WikiData/WD~arms_industry,392933|WD~arms_industry,392933]]'
+- '[[_Standards/WikiData/WD~aircraft_construction,1434048|WD~aircraft_construction,1434048]]'
+- '[[_Standards/WikiData/WD~aerospace_industry,3477363|WD~aerospace_industry,3477363]]'
 stock_exchange:
-- '[[_Standards/WikiData/WD~São_Paulo_Stock_Exchange,796297]]'
-- '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
+- '[[_Standards/WikiData/WD~São_Paulo_Stock_Exchange,796297|WD~São_Paulo_Stock_Exchange,796297]]'
+- '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677|WD~New_York_Stock_Exchange,13677]]'
 instance_of:
-- '[[_Standards/WikiData/WD~public_company,891723]]'
-- '[[_Standards/WikiData/WD~aerospace_manufacturer,936518]]'
+- '[[_Standards/WikiData/WD~public_company,891723|WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~aerospace_manufacturer,936518|WD~aerospace_manufacturer,936518]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Neiva,1662169]]'
-- '[[_Standards/WikiData/WD~Eleb,10271273]]'
-- '[[_Standards/WikiData/WD~Atech,16495039]]'
-- '[[_Standards/WikiData/WD~Embraer_Defense_&_Security,18473964]]'
+- '[[_Standards/WikiData/WD~Neiva,1662169|WD~Neiva,1662169]]'
+- '[[_Standards/WikiData/WD~Eleb,10271273|WD~Eleb,10271273]]'
+- '[[_Standards/WikiData/WD~Atech,16495039|WD~Atech,16495039]]'
+- '[[_Standards/WikiData/WD~Embraer_Defense_&_Security,18473964|WD~Embraer_Defense_&_Security,18473964]]'
 child_organization_unit:
-- '[[_Standards/WikiData/WD~Neiva,1662169]]'
-- '[[_Standards/WikiData/WD~OGMA_Indústria_Aeronáutica_de_Portugal,66814509]]'
-- '[[_Standards/WikiData/WD~Eve_Air_Mobility,110723009]]'
+- '[[_Standards/WikiData/WD~Neiva,1662169|WD~Neiva,1662169]]'
+- '[[_Standards/WikiData/WD~OGMA_Indústria_Aeronáutica_de_Portugal,66814509|WD~OGMA_Indústria_Aeronáutica_de_Portugal,66814509]]'
+- '[[_Standards/WikiData/WD~Eve_Air_Mobility,110723009|WD~Eve_Air_Mobility,110723009]]'
 founded_by:
-- '[[_Standards/WikiData/WD~Ozires_Silva,1797281]]'
-- '[[_Standards/WikiData/WD~Federal_Government_of_Brazil,5440531]]'
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-legal_form: '[[_Standards/WikiData/WD~sociedade_anônima,50173563]]'
-country: '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Ozires_Silva,1797281|WD~Ozires_Silva,1797281]]'
+- '[[_Standards/WikiData/WD~Federal_Government_of_Brazil,5440531|WD~Federal_Government_of_Brazil,5440531]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+legal_form: '[[_Standards/WikiData/WD~sociedade_anônima,50173563|WD~sociedade_anônima,50173563]]'
+country: '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
 total_revenue: 5300000000
 net_profit: 164000000
 operating_income: 314500000

@@ -112,19 +112,19 @@ aliases:
 - 세계사
 has_id_wikidata: Q200325
 different_from:
-- '[[_Standards/WikiData/WD~history_of_Earth,156312]]'
-- '[[_Standards/WikiData/WD~history_of_Humanity,17086808]]'
+- '[[_Standards/WikiData/WD~history_of_Earth,156312|WD~history_of_Earth,156312]]'
+- '[[_Standards/WikiData/WD~history_of_Humanity,17086808|WD~history_of_Humanity,17086808]]'
 facet_of:
-- '[[_Standards/WikiData/WD~humanity,1156970]]'
-- '[[_Standards/WikiData/WD~Earth,2]]'
-- '[[_Standards/WikiData/WD~human,5]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Q6173448,6173448]]'
-studied_by: '[[_Standards/WikiData/WD~world_history,6457238]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Human_history,7875947]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+- '[[_Standards/WikiData/WD~humanity,1156970|WD~humanity,1156970]]'
+- '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
+- '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Q6173448,6173448|WD~Q6173448,6173448]]'
+studied_by: '[[_Standards/WikiData/WD~world_history,6457238|WD~world_history,6457238]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Human_history,7875947|WD~Template_Human_history,7875947]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
 start_time: -2600000-06
-subclass_of: '[[_Standards/WikiData/WD~history,309]]'
-significant_place: '[[_Standards/WikiData/WD~Africa,15]]'
+subclass_of: '[[_Standards/WikiData/WD~history,309|WD~history,309]]'
+significant_place: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 Colon_Classification: V1
 spoken_text_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Es-Historia%20Universal-article.ogg
@@ -133,7 +133,7 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Human%20migrat
 Baidu_Tieba_name: 世界历史
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Human_history,200325]]'
+  - '[[../../../../../../../../WikiData/WD~Human_history,200325|WD~Human_history,200325]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Human_History|Human_History]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Human_History.public|Human_History.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Human_History.internal|Human_History.internal]]'
@@ -142,7 +142,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Human_History.personal|Human_History.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Human_History.secret|Human_History.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Human_history,200325]]'
+- '[[../../../../../../../../WikiData/WD~Human_history,200325|WD~Human_history,200325]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Human_History|Human_History]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Human_History.public|Human_History.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Human_History.internal|Human_History.internal]]'

@@ -93,18 +93,18 @@ aliases:
 - 殘疾人奧林匹克運動會
 - 패럴림픽
 has_id_wikidata: Q73633
-organizer: '[[_Standards/WikiData/WD~International_Paralympic_Committee,175386]]'
-sport: '[[_Standards/WikiData/WD~paralympic_sports,589184]]'
+organizer: '[[_Standards/WikiData/WD~International_Paralympic_Committee,175386|WD~International_Paralympic_Committee,175386]]'
+sport: '[[_Standards/WikiData/WD~paralympic_sports,589184|WD~paralympic_sports,589184]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~Winter_Paralympic_Games,3317976]]'
-- '[[_Standards/WikiData/WD~Summer_Paralympic_Games,3327913]]'
+- '[[_Standards/WikiData/WD~Winter_Paralympic_Games,3317976|WD~Winter_Paralympic_Games,3317976]]'
+- '[[_Standards/WikiData/WD~Summer_Paralympic_Games,3327913|WD~Summer_Paralympic_Games,3327913]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Paralympic_Games,10704472]]'
-- '[[_Standards/WikiData/WD~Q26119048,26119048]]'
-country: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-trophy_awarded: '[[_Standards/WikiData/WD~Paralympic_medal,15243428]]'
-flag: '[[_Standards/WikiData/WD~Paralympic_flag,119631640]]'
-instance_of: '[[_Standards/WikiData/WD~recurring_international_multi_sports_competition,135741070]]'
+- '[[_Standards/WikiData/WD~Template_Paralympic_Games,10704472|WD~Template_Paralympic_Games,10704472]]'
+- '[[_Standards/WikiData/WD~Q26119048,26119048|WD~Q26119048,26119048]]'
+country: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+trophy_awarded: '[[_Standards/WikiData/WD~Paralympic_medal,15243428|WD~Paralympic_medal,15243428]]'
+flag: '[[_Standards/WikiData/WD~Paralympic_flag,119631640|WD~Paralympic_flag,119631640]]'
+instance_of: '[[_Standards/WikiData/WD~recurring_international_multi_sports_competition,135741070|WD~recurring_international_multi_sports_competition,135741070]]'
 event_interval: 4
 social_media_followers:
 - 1220000

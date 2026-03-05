@@ -72,18 +72,18 @@ aliases:
 - 아파트
 has_id_wikidata: Q188507
 different_from:
-- '[[_Standards/WikiData/WD~Apartment,617820]]'
-- '[[_Standards/WikiData/WD~appartement,620712]]'
+- '[[_Standards/WikiData/WD~Apartment,617820|WD~Apartment,617820]]'
+- '[[_Standards/WikiData/WD~appartement,620712|WD~appartement,620712]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~dwelling,699405]]'
-- '[[_Standards/WikiData/WD~building_part,3305339]]'
+- '[[_Standards/WikiData/WD~dwelling,699405|WD~dwelling,699405]]'
+- '[[_Standards/WikiData/WD~building_part,3305339|WD~building_part,3305339]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_American_Urban_History_(2007_edition),20749109]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_American_Urban_History_(2007_edition),20749109|WD~Encyclopedia_of_American_Urban_History_(2007_edition),20749109]]'
 instance_of:
-- '[[_Standards/WikiData/WD~housing,1247867]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Obydlie,12772867]]'
-part_of: '[[_Standards/WikiData/WD~apartment_building,13402009]]'
+- '[[_Standards/WikiData/WD~housing,1247867|WD~housing,1247867]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Obydlie,12772867|WD~Obydlie,12772867]]'
+part_of: '[[_Standards/WikiData/WD~apartment_building,13402009|WD~apartment_building,13402009]]'
 IAB_code: 442
 Commons_category: Apartment buildings
 Dewey_Decimal_Classification:

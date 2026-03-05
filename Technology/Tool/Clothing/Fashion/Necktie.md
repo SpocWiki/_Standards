@@ -87,12 +87,12 @@ aliases:
 - 넥타이
 has_id_wikidata: Q44416
 subclass_of:
-- '[[_Standards/WikiData/WD~costume_accessory,1065579]]'
-- '[[_Standards/WikiData/WD~neckwear,6985603]]'
-- '[[_Standards/WikiData/WD~long,_thin_object,113519195]]'
-different_from: '[[_Standards/WikiData/WD~Slips,31667808]]'
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-worn_on: '[[_Standards/WikiData/WD~neck,9633]]'
+- '[[_Standards/WikiData/WD~costume_accessory,1065579|WD~costume_accessory,1065579]]'
+- '[[_Standards/WikiData/WD~neckwear,6985603|WD~neckwear,6985603]]'
+- '[[_Standards/WikiData/WD~long,_thin_object,113519195|WD~long,_thin_object,113519195]]'
+different_from: '[[_Standards/WikiData/WD~Slips,31667808|WD~Slips,31667808]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+worn_on: '[[_Standards/WikiData/WD~neck,9633|WD~neck,9633]]'
 Nomenclature_for_Museum_Cataloging: 2067
 OmegaWiki_Defined_Meaning: 6529
 Dewey_Decimal_Classification:

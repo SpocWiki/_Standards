@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A technical article - Example: How-to (task) topics, step-by-step, procedural troubleshooting, specifications, etc.
 
-#has_/parent_class :: [[../Article]]  
+#has_/parent_class :: [[../Article|Article]]  
 
 #has_/child_/class :: [ APIReference ]  
 

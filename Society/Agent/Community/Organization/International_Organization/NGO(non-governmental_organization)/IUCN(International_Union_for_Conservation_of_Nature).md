@@ -124,46 +124,46 @@ official_name:
 - International Union for Conservation of Nature and Natural Resources
 phone_number: +41-22-999-00-00
 email_address: mailto:press@iucn.org
-headquarters_locations: '[[_Standards/WikiData/WD~Gland,69300]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Gland,69300|WD~Gland,69300]]'
 official_observer_status_in_organization:
-- '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
-- '[[_Standards/WikiData/WD~Arctic_Council,674182]]'
-- '[[_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]'
-- '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
-location_of_formation: '[[_Standards/WikiData/WD~Fontainebleau,182872]]'
+- '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773|WD~World_Intellectual_Property_Organization,177773]]'
+- '[[_Standards/WikiData/WD~Arctic_Council,674182|WD~Arctic_Council,674182]]'
+- '[[_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318|WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]'
+- '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
+location_of_formation: '[[_Standards/WikiData/WD~Fontainebleau,182872|WD~Fontainebleau,182872]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~sustainability,219416]]'
-- '[[_Standards/WikiData/WD~data_analysis,1988917]]'
-- '[[_Standards/WikiData/WD~data_collection,4929239]]'
-- '[[_Standards/WikiData/WD~nature_conservation,20113959]]'
-- '[[_Standards/WikiData/WD~plant_conservation,84861608]]'
-significant_person: '[[_Standards/WikiData/WD~Julian_Huxley,243419]]'
-chief_executive_officer: '[[_Standards/WikiData/WD~Bruno_Oberle,993625]]'
+- '[[_Standards/WikiData/WD~sustainability,219416|WD~sustainability,219416]]'
+- '[[_Standards/WikiData/WD~data_analysis,1988917|WD~data_analysis,1988917]]'
+- '[[_Standards/WikiData/WD~data_collection,4929239|WD~data_collection,4929239]]'
+- '[[_Standards/WikiData/WD~nature_conservation,20113959|WD~nature_conservation,20113959]]'
+- '[[_Standards/WikiData/WD~plant_conservation,84861608|WD~plant_conservation,84861608]]'
+significant_person: '[[_Standards/WikiData/WD~Julian_Huxley,243419|WD~Julian_Huxley,243419]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Bruno_Oberle,993625|WD~Bruno_Oberle,993625]]'
 instance_of:
-- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
-- '[[_Standards/WikiData/WD~academic_publisher,96888669]]'
+- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093|WD~international_non_governmental_organization,1194093]]'
+- '[[_Standards/WikiData/WD~academic_publisher,96888669|WD~academic_publisher,96888669]]'
 archives_at:
-- '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
-- '[[_Standards/WikiData/WD~University_of_Toronto_Archives_&_Records_Management_Services,64825166]]'
-owner_of: '[[_Standards/WikiData/WD~World_Commission_on_Protected_Areas,2734584]]'
+- '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757|WD~International_Institute_of_Social_History,1667757]]'
+- '[[_Standards/WikiData/WD~University_of_Toronto_Archives_&_Records_Management_Services,64825166|WD~University_of_Toronto_Archives_&_Records_Management_Services,64825166]]'
+owner_of: '[[_Standards/WikiData/WD~World_Commission_on_Protected_Areas,2734584|WD~World_Commission_on_Protected_Areas,2734584]]'
 award_received:
-- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Concord,3323440]]'
-- '[[_Standards/WikiData/WD~Blue_Planet_Prize,4929631]]'
-industry: '[[_Standards/WikiData/WD~animal_protection,11857638]]'
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-legal_form: '[[_Standards/WikiData/WD~association,15177651]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Concord,3323440|WD~Princess_of_Asturias_Award_for_Concord,3323440]]'
+- '[[_Standards/WikiData/WD~Blue_Planet_Prize,4929631|WD~Blue_Planet_Prize,4929631]]'
+industry: '[[_Standards/WikiData/WD~animal_protection,11857638|WD~animal_protection,11857638]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+legal_form: '[[_Standards/WikiData/WD~association,15177651|WD~association,15177651]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~IUCN_Red_List_of_Ecosystems,24960186]]'
-- '[[_Standards/WikiData/WD~IUCN_Red_List,32059]]'
-chairperson: '[[_Standards/WikiData/WD~Razan_Khalifa_Al_Mubarak,75019718]]'
-child_organization_unit: '[[_Standards/WikiData/WD~Large_Carnivore_Initiative_for_Europe,100717951]]'
+- '[[_Standards/WikiData/WD~IUCN_Red_List_of_Ecosystems,24960186|WD~IUCN_Red_List_of_Ecosystems,24960186]]'
+- '[[_Standards/WikiData/WD~IUCN_Red_List,32059|WD~IUCN_Red_List,32059]]'
+chairperson: '[[_Standards/WikiData/WD~Razan_Khalifa_Al_Mubarak,75019718|WD~Razan_Khalifa_Al_Mubarak,75019718]]'
+child_organization_unit: '[[_Standards/WikiData/WD~Large_Carnivore_Initiative_for_Europe,100717951|WD~Large_Carnivore_Initiative_for_Europe,100717951]]'
 Wikidata_property:
 - IUCN taxon ID
 - IUCN protected areas category
 - IUCN conservation status
-partnership_with: '[[_Standards/WikiData/WD~UNESCO,7809]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Canton_of_Vaud,12771]]'
-country: '[[_Standards/WikiData/WD~Switzerland,39]]'
+partnership_with: '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Canton_of_Vaud,12771|WD~Canton_of_Vaud,12771]]'
+country: '[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
 social_media_followers:
 - 24900
 - 210423

@@ -27,13 +27,13 @@ Commons_category: Northgrippian
 coordinate_location: Point(-42.32 75.1)
 end_time: -2250-06
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~North_Greenland_Ice_Core_Project,9063437]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~North_Greenland_Ice_Core_Project,9063437|WD~North_Greenland_Ice_Core_Project,9063437]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 sRGB_color_hex_triplet: FDECE4
 start_time: -6236-06
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Northgrippian,133697724]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Northgrippian,133697724|WD~GSSP_for_the_base_of_the_Northgrippian,133697724]]'
 dv_has_:
   duration_: 4000
   name_:

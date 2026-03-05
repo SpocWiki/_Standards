@@ -32,10 +32,10 @@ aliases:
 - 范式
 - 패러다임
 has_id_wikidata: Q28643
-different_from: '[[_Standards/WikiData/WD~Paradigm,344284]]'
-subclass_of: '[[_Standards/WikiData/WD~pattern,2083958]]'
-instance_of: '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
-described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+different_from: '[[_Standards/WikiData/WD~Paradigm,344284|WD~Paradigm,344284]]'
+subclass_of: '[[_Standards/WikiData/WD~pattern,2083958|WD~pattern,2083958]]'
+instance_of: '[[_Standards/WikiData/WD~philosophical_concept,33104279|WD~philosophical_concept,33104279]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
 Commons_category: Paradigm
 Library_of_Congress_Classification: BD225
 Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/PARADIGMA.html

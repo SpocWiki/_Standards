@@ -27,7 +27,7 @@ title: is_a_uk_nonprofit_type Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../NonprofitType]]"
+  parent_class: "[[../NonprofitType|NonprofitType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type|Uk_Nonprofit_Type]]"
     - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.public|Uk_Nonprofit_Type.public]]"
@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.secret|Uk_Nonprofit_Type.secret]]"
     - "[[Uk_Nonprofit_Type]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../NonprofitType]]"
+dv_has_parent_class: "[[../NonprofitType|NonprofitType]]"
 dv_is_same_as:
   - "[[Uk_Nonprofit_Type]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.public|Uk_Nonprofit_Type.public]]"

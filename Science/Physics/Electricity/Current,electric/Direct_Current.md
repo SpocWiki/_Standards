@@ -92,13 +92,13 @@ aliases:
 - 직류
 has_id_wikidata: Q159241
 opposite_of:
-- '[[_Standards/WikiData/WD~alternating_current,124164]]'
-- '[[_Standards/WikiData/WD~alternating_current,11830494]]'
+- '[[_Standards/WikiData/WD~alternating_current,124164|WD~alternating_current,124164]]'
+- '[[_Standards/WikiData/WD~alternating_current,11830494|WD~alternating_current,11830494]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110096513,110096513]]'
-subclass_of: '[[_Standards/WikiData/WD~electric_current,11651]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110096513,110096513|WD~Q110096513,110096513]]'
+subclass_of: '[[_Standards/WikiData/WD~electric_current,11651|WD~electric_current,11651]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Recveil%20des%20conferences%20ecclesiastiqves%20dv%20diocese%20de%20Sens.%20Commencees%20en%20l%E2%80%99Annee%20M.%20DC.%20LVIII%20-%20Sens%201664.pdf
 Unicode_character: ⎓
 IEV_number: 131-11-22
@@ -215,7 +215,7 @@ dv_has_:
 # [[Direct_Current]] ⎓ 
 
 
-#is_/same_as :: [[../../../../WikiData/WD~Direct_current,159241]]
+#is_/same_as :: [[../../../../WikiData/WD~Direct_current,159241|WD~Direct_current,159241]]
 
 ## #has_/text_of_/abstract 
 

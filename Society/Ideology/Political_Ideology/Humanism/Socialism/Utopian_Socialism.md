@@ -61,12 +61,12 @@ aliases:
 - 空想社會主義
 - 공상적 사회주의
 has_id_wikidata: Q192447
-opposite_of: '[[_Standards/WikiData/WD~scientific_socialism,865354]]'
-instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+opposite_of: '[[_Standards/WikiData/WD~scientific_socialism,865354|WD~scientific_socialism,865354]]'
+instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~utopianism,112942219]]'
-- '[[_Standards/WikiData/WD~socialism,7272]]'
-described_by_source: '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
+- '[[_Standards/WikiData/WD~utopianism,112942219|WD~utopianism,112942219]]'
+- '[[_Standards/WikiData/WD~socialism,7272|WD~socialism,7272]]'
+described_by_source: '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404|WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
 Commons_category: Utopian socialism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/New%20harmony%20vision.jpg
 dv_has_:

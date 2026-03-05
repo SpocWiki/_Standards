@@ -41,21 +41,21 @@ aliases:
 - 소유스 우주선
 has_id_wikidata: Q579421
 operator:
-- '[[_Standards/WikiData/WD~Roscosmos_State_Corporation,190795]]'
-- '[[_Standards/WikiData/WD~Soviet_space_program,849730]]'
-manufacturer: '[[_Standards/WikiData/WD~S.P._Korolev_Rocket_and_Space_Corporation_Energia,763402]]'
+- '[[_Standards/WikiData/WD~Roscosmos_State_Corporation,190795|WD~Roscosmos_State_Corporation,190795]]'
+- '[[_Standards/WikiData/WD~Soviet_space_program,849730|WD~Soviet_space_program,849730]]'
+manufacturer: '[[_Standards/WikiData/WD~S.P._Korolev_Rocket_and_Space_Corporation_Energia,763402|WD~S.P._Korolev_Rocket_and_Space_Corporation_Energia,763402]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~reentry_capsule,798779]]'
-- '[[_Standards/WikiData/WD~orbital_module,1407434]]'
-- '[[_Standards/WikiData/WD~service_module,15607934]]'
+- '[[_Standards/WikiData/WD~reentry_capsule,798779|WD~reentry_capsule,798779]]'
+- '[[_Standards/WikiData/WD~orbital_module,1407434|WD~orbital_module,1407434]]'
+- '[[_Standards/WikiData/WD~service_module,15607934|WD~service_module,15607934]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~space_capsule,957055]]'
-- '[[_Standards/WikiData/WD~crewed_spacecraft,7217761]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-instance_of: '[[_Standards/WikiData/WD~vehicle_family,22999537]]'
+- '[[_Standards/WikiData/WD~space_capsule,957055|WD~space_capsule,957055]]'
+- '[[_Standards/WikiData/WD~crewed_spacecraft,7217761|WD~crewed_spacecraft,7217761]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~vehicle_family,22999537|WD~vehicle_family,22999537]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
 native_label: Союз
 Commons_gallery: Soyuz spacecraft
 Commons_category: Soyuz spacecraft

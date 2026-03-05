@@ -7,11 +7,11 @@ aliases:
 - Pseudonymity
 - pseudonyymius
 has_id_wikidata: Q7255188
-partially_coincident_with: '[[_Standards/WikiData/WD~anonymity,308859]]'
-has_characteristic: '[[_Standards/WikiData/WD~secrecy,1503443]]'
-characteristic_of: '[[_Standards/WikiData/WD~being,24229398]]'
-instance_of: '[[_Standards/WikiData/WD~relative_quality,100195948]]'
-uses: '[[_Standards/WikiData/WD~pseudonym,61002]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~anonymity,308859|WD~anonymity,308859]]'
+has_characteristic: '[[_Standards/WikiData/WD~secrecy,1503443|WD~secrecy,1503443]]'
+characteristic_of: '[[_Standards/WikiData/WD~being,24229398|WD~being,24229398]]'
+instance_of: '[[_Standards/WikiData/WD~relative_quality,100195948|WD~relative_quality,100195948]]'
+uses: '[[_Standards/WikiData/WD~pseudonym,61002|WD~pseudonym,61002]]'
 dv_has_:
   name_:
     en: pseudonymity
@@ -23,7 +23,7 @@ dv_has_:
 # [[Pseudonymity]] 
 
 #is_/worse_than :: [[Anonymity]]
-#is_/same_as :: [[_Standards/WikiData/WD~pseudonymity,7255188]]
+#is_/same_as :: [[_Standards/WikiData/WD~pseudonymity,7255188|WD~pseudonymity,7255188]]
 
 ## #has_/text_of_/abstract 
 

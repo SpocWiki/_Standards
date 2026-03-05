@@ -70,13 +70,13 @@ aliases:
 - 遥距教育
 - 원격 교육
 has_id_wikidata: Q159595
-opposite_of: '[[_Standards/WikiData/WD~on_campus_education,2114919]]'
-different_from: '[[_Standards/WikiData/WD~computer_assisted_instruction,11303220]]'
+opposite_of: '[[_Standards/WikiData/WD~on_campus_education,2114919|WD~on_campus_education,2114919]]'
+different_from: '[[_Standards/WikiData/WD~computer_assisted_instruction,11303220|WD~computer_assisted_instruction,11303220]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~Q11837277,11837277]]'
-- '[[_Standards/WikiData/WD~distance_teaching,105450646]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
-subclass_of: '[[_Standards/WikiData/WD~education,8434]]'
+- '[[_Standards/WikiData/WD~Q11837277,11837277|WD~Q11837277,11837277]]'
+- '[[_Standards/WikiData/WD~distance_teaching,105450646|WD~distance_teaching,105450646]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614|WD~WikiProject_COVID_19,87748614]]'
+subclass_of: '[[_Standards/WikiData/WD~education,8434|WD~education,8434]]'
 OmegaWiki_Defined_Meaning: 536127
 ACM_Classification_Code_2012_: 10010494
 Commons_category: Distance education

@@ -46,19 +46,19 @@ aliases:
 - 사회 자본
 has_id_wikidata: Q214693
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~resource_type,135412187]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~resource_type,135412187|WD~resource_type,135412187]]'
 has_cause:
-- '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
-- '[[_Standards/WikiData/WD~cooperation,380962]]'
-- '[[_Standards/WikiData/WD~trust,659974]]'
-- '[[_Standards/WikiData/WD~identity,844569]]'
-- '[[_Standards/WikiData/WD~reciprocity,2147331]]'
-- '[[_Standards/WikiData/WD~values,25394833]]'
-described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-part_of: '[[_Standards/WikiData/WD~politics,7163]]'
-subclass_of: '[[_Standards/WikiData/WD~capital,8137]]'
-studied_by: '[[_Standards/WikiData/WD~sociology,21201]]'
+- '[[_Standards/WikiData/WD~interpersonal_relationship,223642|WD~interpersonal_relationship,223642]]'
+- '[[_Standards/WikiData/WD~cooperation,380962|WD~cooperation,380962]]'
+- '[[_Standards/WikiData/WD~trust,659974|WD~trust,659974]]'
+- '[[_Standards/WikiData/WD~identity,844569|WD~identity,844569]]'
+- '[[_Standards/WikiData/WD~reciprocity,2147331|WD~reciprocity,2147331]]'
+- '[[_Standards/WikiData/WD~values,25394833|WD~values,25394833]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+part_of: '[[_Standards/WikiData/WD~politics,7163|WD~politics,7163]]'
+subclass_of: '[[_Standards/WikiData/WD~capital,8137|WD~capital,8137]]'
+studied_by: '[[_Standards/WikiData/WD~sociology,21201|WD~sociology,21201]]'
 MeSH_tree_code: I01.880.853.375
 Commons_category: Social capital
 dv_has_:

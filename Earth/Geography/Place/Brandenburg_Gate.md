@@ -99,48 +99,48 @@ aliases:
 - 브란덴부르크 문
 has_id_wikidata: Q82425
 architect:
-- '[[_Standards/WikiData/WD~Heinrich_Strack,72120]]'
-- '[[_Standards/WikiData/WD~Carl_Gotthard_Langhans,313181]]'
+- '[[_Standards/WikiData/WD~Heinrich_Strack,72120|WD~Heinrich_Strack,72120]]'
+- '[[_Standards/WikiData/WD~Carl_Gotthard_Langhans,313181|WD~Carl_Gotthard_Langhans,313181]]'
 instance_of:
-- '[[_Standards/WikiData/WD~city_gate,82117]]'
-- '[[_Standards/WikiData/WD~triumphal_arch,143912]]'
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~border_checkpoint,757292]]'
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~national_symbol,1128637]]'
-- '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
-commissioned_by: '[[_Standards/WikiData/WD~Friedrich_Wilhelm_II_of_Prussia,152229]]'
-located_on_street: '[[_Standards/WikiData/WD~Pariser_Platz,156716]]'
-part_of: '[[_Standards/WikiData/WD~Berlin_Customs_Wall,532578]]'
-locations: '[[_Standards/WikiData/WD~Dorotheenstadt,677514]]'
-different_from: '[[_Standards/WikiData/WD~Brandenburg_Gate,695045]]'
+- '[[_Standards/WikiData/WD~city_gate,82117|WD~city_gate,82117]]'
+- '[[_Standards/WikiData/WD~triumphal_arch,143912|WD~triumphal_arch,143912]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~border_checkpoint,757292|WD~border_checkpoint,757292]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~national_symbol,1128637|WD~national_symbol,1128637]]'
+- '[[_Standards/WikiData/WD~architectural_landmark,2319498|WD~architectural_landmark,2319498]]'
+commissioned_by: '[[_Standards/WikiData/WD~Friedrich_Wilhelm_II_of_Prussia,152229|WD~Friedrich_Wilhelm_II_of_Prussia,152229]]'
+located_on_street: '[[_Standards/WikiData/WD~Pariser_Platz,156716|WD~Pariser_Platz,156716]]'
+part_of: '[[_Standards/WikiData/WD~Berlin_Customs_Wall,532578|WD~Berlin_Customs_Wall,532578]]'
+locations: '[[_Standards/WikiData/WD~Dorotheenstadt,677514|WD~Dorotheenstadt,677514]]'
+different_from: '[[_Standards/WikiData/WD~Brandenburg_Gate,695045|WD~Brandenburg_Gate,695045]]'
 heritage_designation:
-- '[[_Standards/WikiData/WD~architectural_heritage_monument,811165]]'
-- '[[_Standards/WikiData/WD~Heritage_monument_in_Berlin,85171142]]'
-maintained_by: '[[_Standards/WikiData/WD~BIM_Berliner_Immobilienmanagement,821561]]'
+- '[[_Standards/WikiData/WD~architectural_heritage_monument,811165|WD~architectural_heritage_monument,811165]]'
+- '[[_Standards/WikiData/WD~Heritage_monument_in_Berlin,85171142|WD~Heritage_monument_in_Berlin,85171142]]'
+maintained_by: '[[_Standards/WikiData/WD~BIM_Berliner_Immobilienmanagement,821561|WD~BIM_Berliner_Immobilienmanagement,821561]]'
 country:
-- '[[_Standards/WikiData/WD~German_Reich,1206012]]'
-- '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-architectural_style: '[[_Standards/WikiData/WD~Greek_Revival_architecture,1513688]]'
-inspired_by: '[[_Standards/WikiData/WD~Propylaea_of_Athens,3407649]]'
-appears_in_the_heritage_monument_list: '[[_Standards/WikiData/WD~Q15827544,15827544]]'
+- '[[_Standards/WikiData/WD~German_Reich,1206012|WD~German_Reich,1206012]]'
+- '[[_Standards/WikiData/WD~German_Democratic_Republic,16957|WD~German_Democratic_Republic,16957]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306|WD~Kingdom_of_Prussia,27306]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+architectural_style: '[[_Standards/WikiData/WD~Greek_Revival_architecture,1513688|WD~Greek_Revival_architecture,1513688]]'
+inspired_by: '[[_Standards/WikiData/WD~Propylaea_of_Athens,3407649|WD~Propylaea_of_Athens,3407649]]'
+appears_in_the_heritage_monument_list: '[[_Standards/WikiData/WD~Q15827544,15827544|WD~Q15827544,15827544]]'
 significant_event:
-- '[[_Standards/WikiData/WD~start_of_construction,27136782]]'
-- '[[_Standards/WikiData/WD~building_modification,106334491]]'
+- '[[_Standards/WikiData/WD~start_of_construction,27136782|WD~start_of_construction,27136782]]'
+- '[[_Standards/WikiData/WD~building_modification,106334491|WD~building_modification,106334491]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Brandenburger%20Tor.ogg
-present_in_work: '[[_Standards/WikiData/WD~Grundriss_von_Berlin,66598390]]'
-has_part_s_: '[[_Standards/WikiData/WD~Quadriga_(Brandenburg_Gate),90610978]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyer_s_Universum,_Siebenter_Band,131314460]]'
+present_in_work: '[[_Standards/WikiData/WD~Grundriss_von_Berlin,66598390|WD~Grundriss_von_Berlin,66598390]]'
+has_part_s_: '[[_Standards/WikiData/WD~Quadriga_(Brandenburg_Gate),90610978|WD~Quadriga_(Brandenburg_Gate),90610978]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyer_s_Universum,_Siebenter_Band,131314460|WD~Meyer_s_Universum,_Siebenter_Band,131314460]]'
 coordinate_location: Point(13.377722222 52.516272222)
-named_after: '[[_Standards/WikiData/WD~Brandenburg_an_der_Havel,3931]]'
-made_from_material: '[[_Standards/WikiData/WD~sandstone,13085]]'
+named_after: '[[_Standards/WikiData/WD~Brandenburg_an_der_Havel,3931|WD~Brandenburg_an_der_Havel,3931]]'
+made_from_material: '[[_Standards/WikiData/WD~sandstone,13085|WD~sandstone,13085]]'
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Berlin,64]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-owned_by: '[[_Standards/WikiData/WD~Berlin,64]]'
-applies_to_jurisdiction: '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Berlin,64|WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+owned_by: '[[_Standards/WikiData/WD~Berlin,64|WD~Berlin,64]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 height: 26
 Commons_category: Brandenburg Gate
 native_label: Brandenburger Tor
@@ -255,7 +255,7 @@ dv_has_:
 
 # [[Brandenburg_Gate]] 
 
-![[../../../assets/Brandenburg_Gate.png]]  
+![[../../../assets/Brandenburg_Gate.png|Brandenburg_Gate.png]]  
 
 #is_/same_as :: [[wd Brandenburg Gate,82425]]
 

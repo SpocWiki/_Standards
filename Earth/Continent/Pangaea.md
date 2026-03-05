@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Pangaea,4398]]'
+  - '[[../../WikiData/WD~Pangaea,4398|WD~Pangaea,4398]]'
   - '[[/_Standards/Earth/Continent/Pangaea|Pangaea]]'
   - '[[/_public/Earth/Continent/Pangaea.public|Pangaea.public]]'
   - '[[/_internal/Earth/Continent/Pangaea.internal|Pangaea.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Pangaea.personal|Pangaea.personal]]'
   - '[[/_secret/Earth/Continent/Pangaea.secret|Pangaea.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Pangaea,4398]]'
+- '[[../../WikiData/WD~Pangaea,4398|WD~Pangaea,4398]]'
 - '[[/_Standards/Earth/Continent/Pangaea|Pangaea]]'
 - '[[/_public/Earth/Continent/Pangaea.public|Pangaea.public]]'
 - '[[/_internal/Earth/Continent/Pangaea.internal|Pangaea.internal]]'

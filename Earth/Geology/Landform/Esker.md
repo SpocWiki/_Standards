@@ -37,15 +37,15 @@ aliases:
 - 蛇形丘
 - 에스커
 has_id_wikidata: Q332784
-different_from: '[[_Standards/WikiData/WD~Oz,217893]]'
+different_from: '[[_Standards/WikiData/WD~Oz,217893|WD~Oz,217893]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
-subclass_of: '[[_Standards/WikiData/WD~fluvioglacial_landform,5667598]]'
-studied_by: '[[_Standards/WikiData/WD~geomorphology,52109]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+subclass_of: '[[_Standards/WikiData/WD~fluvioglacial_landform,5667598|WD~fluvioglacial_landform,5667598]]'
+studied_by: '[[_Standards/WikiData/WD~geomorphology,52109|WD~geomorphology,52109]]'
 Commons_gallery: Esker
 Commons_category: Esker
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Esker%20%28PSF%29.png

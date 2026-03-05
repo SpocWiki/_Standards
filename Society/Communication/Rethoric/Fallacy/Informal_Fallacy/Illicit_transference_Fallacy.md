@@ -10,7 +10,7 @@ aliases:
 - 分布謬誤
 - 分布谬误
 has_id_wikidata: Q2911615
-subclass_of: '[[_Standards/WikiData/WD~informal_fallacy,3312438]]'
+subclass_of: '[[_Standards/WikiData/WD~informal_fallacy,3312438|WD~informal_fallacy,3312438]]'
 dv_has_:
   name_:
     en: fallacy of distribution

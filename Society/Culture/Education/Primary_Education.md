@@ -75,22 +75,22 @@ aliases:
 - 초등교육
 has_id_wikidata: Q975085
 has_part_s_:
-- '[[_Standards/WikiData/WD~kindergarten,126807]]'
-- '[[_Standards/WikiData/WD~primary_school,9842]]'
+- '[[_Standards/WikiData/WD~kindergarten,126807|WD~kindergarten,126807]]'
+- '[[_Standards/WikiData/WD~primary_school,9842|WD~primary_school,9842]]'
 part_of:
-- '[[_Standards/WikiData/WD~K_12,1151386]]'
-- '[[_Standards/WikiData/WD~basic_education,3309206]]'
+- '[[_Standards/WikiData/WD~K_12,1151386|WD~K_12,1151386]]'
+- '[[_Standards/WikiData/WD~basic_education,3309206|WD~basic_education,3309206]]'
 follows:
-- '[[_Standards/WikiData/WD~early_childhood_education,1472221]]'
-- '[[_Standards/WikiData/WD~preschool_education,104587761]]'
-different_from: '[[_Standards/WikiData/WD~ensino_fundamental,10269521]]'
-practiced_by: '[[_Standards/WikiData/WD~primary_school_teacher,10509151]]'
-followed_by: '[[_Standards/WikiData/WD~secondary_education,13006147]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~primary_education,110137500]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~elementary_education,112575204]]'
-subclass_of: '[[_Standards/WikiData/WD~education,8434]]'
-instance_of: '[[_Standards/WikiData/WD~educational_stage,18189]]'
+- '[[_Standards/WikiData/WD~early_childhood_education,1472221|WD~early_childhood_education,1472221]]'
+- '[[_Standards/WikiData/WD~preschool_education,104587761|WD~preschool_education,104587761]]'
+different_from: '[[_Standards/WikiData/WD~ensino_fundamental,10269521|WD~ensino_fundamental,10269521]]'
+practiced_by: '[[_Standards/WikiData/WD~primary_school_teacher,10509151|WD~primary_school_teacher,10509151]]'
+followed_by: '[[_Standards/WikiData/WD~secondary_education,13006147|WD~secondary_education,13006147]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~primary_education,110137500|WD~primary_education,110137500]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~elementary_education,112575204|WD~elementary_education,112575204]]'
+subclass_of: '[[_Standards/WikiData/WD~education,8434|WD~education,8434]]'
+instance_of: '[[_Standards/WikiData/WD~educational_stage,18189|WD~educational_stage,18189]]'
 Dewey_Decimal_Classification: 372
 IAB_code: 149
 OmegaWiki_Defined_Meaning: 2961

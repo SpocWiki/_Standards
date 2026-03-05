@@ -17,9 +17,9 @@ aliases:
 - ポイント・ツー・ポイント
 - 點對點通訊
 has_id_wikidata: Q681349
-opposite_of: '[[_Standards/WikiData/WD~point_to_multipoint_communication,6554265]]'
-instance_of: '[[_Standards/WikiData/WD~form_of_communication,38786485]]'
-subclass_of: '[[_Standards/WikiData/WD~communication,11024]]'
+opposite_of: '[[_Standards/WikiData/WD~point_to_multipoint_communication,6554265|WD~point_to_multipoint_communication,6554265]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_communication,38786485|WD~form_of_communication,38786485]]'
+subclass_of: '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
 dv_has_:
   name_:
     ca: Punt a punt

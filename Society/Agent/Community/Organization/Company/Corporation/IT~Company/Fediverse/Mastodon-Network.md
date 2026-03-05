@@ -1,5 +1,5 @@
 
-#is_/similar_to :: [[../X(Twitter)]] 
+#is_/similar_to :: [[../X(Twitter)|X(Twitter)]] 
 #is_/similar_to :: [[GNU social]] 
 
 ## #has_/text_of_/abstract 
@@ -46,7 +46,7 @@
 > 
 > Es steht jedem frei, seinen eigenen Server zu eröffnen. 
 > 
-> Alle Mastodon-Server sind Teil des [[../Fediverse]], 
+> Alle Mastodon-Server sind Teil des [[../Fediverse|Fediverse]], 
 > also mit vielen weiteren sozialen Netzwerken wie zum Beispiel Threads, Firefish und Pleroma 
 > über das ActivityPub Kommunikationsprotokoll vereint.
 >

@@ -100,28 +100,28 @@ aliases:
 - 러시아 내전
 has_id_wikidata: Q79911
 participant:
-- '[[_Standards/WikiData/WD~White_movement,104309]]'
-- '[[_Standards/WikiData/WD~Red_Army,251395]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Joseph_Stalin,855]]'
-- '[[_Standards/WikiData/WD~Vladimir_Lenin,1394]]'
-- '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
-- '[[_Standards/WikiData/WD~Leon_Trotsky,33391]]'
+- '[[_Standards/WikiData/WD~White_movement,104309|WD~White_movement,104309]]'
+- '[[_Standards/WikiData/WD~Red_Army,251395|WD~Red_Army,251395]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Joseph_Stalin,855|WD~Joseph_Stalin,855]]'
+- '[[_Standards/WikiData/WD~Vladimir_Lenin,1394|WD~Vladimir_Lenin,1394]]'
+- '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184|WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
+- '[[_Standards/WikiData/WD~Leon_Trotsky,33391|WD~Leon_Trotsky,33391]]'
 location:
-- '[[_Standards/WikiData/WD~Russian_Republic,139319]]'
-- '[[_Standards/WikiData/WD~Russian_Socialist_Federative_Soviet_Republic,2305208]]'
-- '[[_Standards/WikiData/WD~Russian_Democratic_Federative_Republic,4397927]]'
-- '[[_Standards/WikiData/WD~Qajar_Iran,63158027]]'
-- '[[_Standards/WikiData/WD~Mongolia,711]]'
-- '[[_Standards/WikiData/WD~Tuva,960]]'
+- '[[_Standards/WikiData/WD~Russian_Republic,139319|WD~Russian_Republic,139319]]'
+- '[[_Standards/WikiData/WD~Russian_Socialist_Federative_Soviet_Republic,2305208|WD~Russian_Socialist_Federative_Soviet_Republic,2305208]]'
+- '[[_Standards/WikiData/WD~Russian_Democratic_Federative_Republic,4397927|WD~Russian_Democratic_Federative_Republic,4397927]]'
+- '[[_Standards/WikiData/WD~Qajar_Iran,63158027|WD~Qajar_Iran,63158027]]'
+- '[[_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]'
+- '[[_Standards/WikiData/WD~Tuva,960|WD~Tuva,960]]'
 country:
-- "[[_Standards/WikiData/WD~Ukrainian_People's_Republic,243610]]"
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- "[[_Standards/WikiData/WD~Ukrainian_People's_Republic,243610|WD~Ukrainian_People's_Republic,243610]]"
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
 instance_of:
-- '[[_Standards/WikiData/WD~armed_conflict,350604]]'
-- '[[_Standards/WikiData/WD~civil_war,8465]]'
-part_of: '[[_Standards/WikiData/WD~Revolutions_of_1917_1923,7318933]]'
+- '[[_Standards/WikiData/WD~armed_conflict,350604|WD~armed_conflict,350604]]'
+- '[[_Standards/WikiData/WD~civil_war,8465|WD~civil_war,8465]]'
+part_of: '[[_Standards/WikiData/WD~Revolutions_of_1917_1923,7318933|WD~Revolutions_of_1917_1923,7318933]]'
 BHCL_UUID: ef45ed8a-f9c0-4ab7-85ef-f54b77d9d8c4
 Commons_category: Civil war of Russia
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Russian%20civil%20war%20in%20the%20west.svg
@@ -244,7 +244,7 @@ dv_has_:
   previous_: '[[../../Early_modern_History/CE_1700/1721-Russian_Empire+1917|1721-Russian_Empire+1917]]'
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Russian_Civil_War,79911]]'
+  - '[[../../../../../../../../WikiData/WD~Russian_Civil_War,79911|WD~Russian_Civil_War,79911]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922|1917-Russian_Civil_War+1922]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.public|1917-Russian_Civil_War+1922.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.internal|1917-Russian_Civil_War+1922.internal]]'
@@ -255,7 +255,7 @@ dv_is_:
 dv_has_next_: '[[1922-Soviet_Union+1991]]'
 dv_has_previous_: '[[../../Early_modern_History/CE_1700/1721-Russian_Empire+1917|1721-Russian_Empire+1917]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Russian_Civil_War,79911]]'
+- '[[../../../../../../../../WikiData/WD~Russian_Civil_War,79911|WD~Russian_Civil_War,79911]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922|1917-Russian_Civil_War+1922]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.public|1917-Russian_Civil_War+1922.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.internal|1917-Russian_Civil_War+1922.internal]]'

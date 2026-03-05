@@ -159,44 +159,44 @@ aliases:
 has_id_wikidata: Q11772
 BHCL_UUID: fea2a69b-8216-4b76-ac71-c0552d7a259f
 Commons_category: Ancient Greece
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 coordinate_location: Point(23.0 38.5)
-currency: '[[_Standards/WikiData/WD~ancient_Greek_coinage,440311]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+currency: '[[_Standards/WikiData/WD~ancient_Greek_coinage,440311|WD~ancient_Greek_coinage,440311]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 Dewey_Decimal_Classification:
 - 2--38
 - 938
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_ancient_Greece,2736823]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_ancient_Greece,2736823|WD~economy_of_ancient_Greece,2736823]]'
 end_time: 0600-06
-history_of_topic: '[[_Standards/WikiData/WD~history_of_ancient_Greece,7798]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_ancient_Greece,7798|WD~history_of_ancient_Greece,7798]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sicily%20Selinunte%20Temple%20E%20%28Hera%29.JPG
-indigenous_to: '[[_Standards/WikiData/WD~Greece,41]]'
+indigenous_to: '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
 instance_of:
-- '[[_Standards/WikiData/WD~culture,11042]]'
-- '[[_Standards/WikiData/WD~ancient_civilization,28171280]]'
-- '[[_Standards/WikiData/WD~art_style,1792644]]'
-- '[[_Standards/WikiData/WD~cultural_region,3502482]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-- '[[_Standards/WikiData/WD~historical_region,1620908]]'
+- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
+- '[[_Standards/WikiData/WD~ancient_civilization,28171280|WD~ancient_civilization,28171280]]'
+- '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~cultural_region,3502482|WD~cultural_region,3502482]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~historical_region,1620908|WD~historical_region,1620908]]'
 Krugosvet_article: istoriya/DREVNYAYA_GRETSIYA.html
 MeSH_tree_code: Z01.586.035.519
 OpenStreetMap_tag_or_key: Tag:historic:civilization=ancient_greece
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Herakles%20Kyknos%20pottery%20banner.jpg
-part_of: '[[_Standards/WikiData/WD~history_of_Greece,7794]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828833,22828833]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Greece,7794|WD~history_of_Greece,7794]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828833,22828833|WD~Q22828833,22828833]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Illyria,32047]]'
-- '[[_Standards/WikiData/WD~Thrace,41741]]'
+- '[[_Standards/WikiData/WD~Illyria,32047|WD~Illyria,32047]]'
+- '[[_Standards/WikiData/WD~Thrace,41741|WD~Thrace,41741]]'
 start_time: -1200
 studied_in:
-- '[[_Standards/WikiData/WD~classics,841090]]'
-- '[[_Standards/WikiData/WD~ancient_history,435608]]'
-- '[[_Standards/WikiData/WD~Greek_studies,16267481]]'
+- '[[_Standards/WikiData/WD~classics,841090|WD~classics,841090]]'
+- '[[_Standards/WikiData/WD~ancient_history,435608|WD~ancient_history,435608]]'
+- '[[_Standards/WikiData/WD~Greek_studies,16267481|WD~Greek_studies,16267481]]'
 subreddit: ancientgreece
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ancient_Greece_topics,6054993]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ancient_Greece,10566332]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ancient_Greece_topics,6054993|WD~Template_Ancient_Greece_topics,6054993]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ancient_Greece,10566332|WD~Portal_Ancient_Greece,10566332]]'
 UMLS_CUI: C4505339
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ancient_Greece,7112550]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ancient_Greece,7112550|WD~outline_of_ancient_Greece,7112550]]'
 dv_has_:
   duration_: 1800
   name_:

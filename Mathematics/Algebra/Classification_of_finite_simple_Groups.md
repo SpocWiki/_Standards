@@ -35,15 +35,15 @@ aliases:
 - 有限簡單羣分類
 has_id_wikidata: Q1340623
 instance_of:
-- '[[_Standards/WikiData/WD~theorem,65943]]'
-- '[[_Standards/WikiData/WD~classification,13582682]]'
+- '[[_Standards/WikiData/WD~theorem,65943|WD~theorem,65943]]'
+- '[[_Standards/WikiData/WD~classification,13582682|WD~classification,13582682]]'
 studied_by:
-- '[[_Standards/WikiData/WD~category_theory,217413]]'
-- '[[_Standards/WikiData/WD~group_theory,874429]]'
-part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-items_classified: '[[_Standards/WikiData/WD~finite_simple_group,45033382]]'
-main_subject: '[[_Standards/WikiData/WD~finite_simple_group,45033382]]'
+- '[[_Standards/WikiData/WD~category_theory,217413|WD~category_theory,217413]]'
+- '[[_Standards/WikiData/WD~group_theory,874429|WD~group_theory,874429]]'
+part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443|WD~list_of_theorems,944443]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+items_classified: '[[_Standards/WikiData/WD~finite_simple_group,45033382|WD~finite_simple_group,45033382]]'
+main_subject: '[[_Standards/WikiData/WD~finite_simple_group,45033382|WD~finite_simple_group,45033382]]'
 dv_has_:
   name_:
     ar: تصنيف الزمر المنتهية البسيطة

@@ -73,17 +73,17 @@ aliases:
 - 저기압성 순환
 has_id_wikidata: Q79602
 subclass_of:
-- '[[_Standards/WikiData/WD~storm,81054]]'
-- '[[_Standards/WikiData/WD~low_pressure_area,209190]]'
-- '[[_Standards/WikiData/WD~vortex,732722]]'
+- '[[_Standards/WikiData/WD~storm,81054|WD~storm,81054]]'
+- '[[_Standards/WikiData/WD~low_pressure_area,209190|WD~low_pressure_area,209190]]'
+- '[[_Standards/WikiData/WD~vortex,732722|WD~vortex,732722]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Cyclones,7746467]]'
-different_from: '[[_Standards/WikiData/WD~tropical_cyclone,16172167]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Cyclones,7746467|WD~Template_Cyclones,7746467]]'
+different_from: '[[_Standards/WikiData/WD~tropical_cyclone,16172167|WD~tropical_cyclone,16172167]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587|WD~type_of_meteorological_phenomenon,118733587]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Low%20pressure%20system%20over%20Iceland.jpg
 U_S_National_Archives_Identifier: 10637211
 Commons_category: Cyclones

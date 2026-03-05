@@ -78,27 +78,27 @@ aliases:
 - 음악학
 has_id_wikidata: Q164204
 is_the_study_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~musical_style,11921029]]'
-- '[[_Standards/WikiData/WD~music,638]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_style,11921029|WD~musical_style,11921029]]'
+- '[[_Standards/WikiData/WD~music,638|WD~music,638]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~ethnomusicology,208365]]'
-- '[[_Standards/WikiData/WD~music_therapy,209642]]'
-- '[[_Standards/WikiData/WD~cognitive_musicology,5141221]]'
-- '[[_Standards/WikiData/WD~systematic_musicology,7663779]]'
-- '[[_Standards/WikiData/WD~music_history,10590700]]'
-- '[[_Standards/WikiData/WD~ecomusicology,17119209]]'
-- '[[_Standards/WikiData/WD~music_education,27908]]'
+- '[[_Standards/WikiData/WD~ethnomusicology,208365|WD~ethnomusicology,208365]]'
+- '[[_Standards/WikiData/WD~music_therapy,209642|WD~music_therapy,209642]]'
+- '[[_Standards/WikiData/WD~cognitive_musicology,5141221|WD~cognitive_musicology,5141221]]'
+- '[[_Standards/WikiData/WD~systematic_musicology,7663779|WD~systematic_musicology,7663779]]'
+- '[[_Standards/WikiData/WD~music_history,10590700|WD~music_history,10590700]]'
+- '[[_Standards/WikiData/WD~ecomusicology,17119209|WD~ecomusicology,17119209]]'
+- '[[_Standards/WikiData/WD~music_education,27908|WD~music_education,27908]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Geisteswissenschaften,944537]]'
-- '[[_Standards/WikiData/WD~culturology,1418771]]'
-- '[[_Standards/WikiData/WD~musicking,136076495]]'
+- '[[_Standards/WikiData/WD~Geisteswissenschaften,944537|WD~Geisteswissenschaften,944537]]'
+- '[[_Standards/WikiData/WD~culturology,1418771|WD~culturology,1418771]]'
+- '[[_Standards/WikiData/WD~musicking,136076495|WD~musicking,136076495]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-practiced_by: '[[_Standards/WikiData/WD~musicologist,14915627]]'
-part_of: '[[_Standards/WikiData/WD~Art,_Music,_Theatre_and_Media_Studies,113296040]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~musicologist,14915627|WD~musicologist,14915627]]'
+part_of: '[[_Standards/WikiData/WD~Art,_Music,_Theatre_and_Media_Studies,113296040|WD~Art,_Music,_Theatre_and_Media_Studies,113296040]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 OmegaWiki_Defined_Meaning: 400892
 GitHub_topic: musicology
 subreddit: musicology

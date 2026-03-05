@@ -65,17 +65,17 @@ aliases:
 - 代數基本定理
 - 대수학의 기본 정리
 has_id_wikidata: Q192760
-instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
-proved_by: "[[_Standards/WikiData/WD~Jean_le_Rond_d'Alembert,153232]]"
+instance_of: '[[_Standards/WikiData/WD~theorem,65943|WD~theorem,65943]]'
+proved_by: "[[_Standards/WikiData/WD~Jean_le_Rond_d'Alembert,153232|WD~Jean_le_Rond_d'Alembert,153232]]"
 named_after:
-- "[[_Standards/WikiData/WD~Jean_le_Rond_d'Alembert,153232]]"
-- '[[_Standards/WikiData/WD~Carl_Friedrich_Gauss,6722]]'
+- "[[_Standards/WikiData/WD~Jean_le_Rond_d'Alembert,153232|WD~Jean_le_Rond_d'Alembert,153232]]"
+- '[[_Standards/WikiData/WD~Carl_Friedrich_Gauss,6722|WD~Carl_Friedrich_Gauss,6722]]'
 studied_by:
-- '[[_Standards/WikiData/WD~complex_analysis,193756]]'
-- '[[_Standards/WikiData/WD~algebra,3968]]'
-different_from: '[[_Standards/WikiData/WD~fundamental_theorem_of_arithmetic,670235]]'
-part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~complex_analysis,193756|WD~complex_analysis,193756]]'
+- '[[_Standards/WikiData/WD~algebra,3968|WD~algebra,3968]]'
+different_from: '[[_Standards/WikiData/WD~fundamental_theorem_of_arithmetic,670235|WD~fundamental_theorem_of_arithmetic,670235]]'
+part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443|WD~list_of_theorems,944443]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>ℂ</mi></mrow></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>P</mi></mstyle></mrow></math>

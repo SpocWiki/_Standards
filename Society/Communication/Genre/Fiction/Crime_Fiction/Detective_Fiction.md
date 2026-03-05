@@ -67,17 +67,17 @@ aliases:
 - 추리물
 has_id_wikidata: Q186424
 different_from:
-- '[[_Standards/WikiData/WD~detective,842782]]'
-- '[[_Standards/WikiData/WD~police_film,2101714]]'
-- '[[_Standards/WikiData/WD~detective_literature,20665028]]'
-main_subject: '[[_Standards/WikiData/WD~criminal_investigation,1964968]]'
+- '[[_Standards/WikiData/WD~detective,842782|WD~detective,842782]]'
+- '[[_Standards/WikiData/WD~police_film,2101714|WD~police_film,2101714]]'
+- '[[_Standards/WikiData/WD~detective_literature,20665028|WD~detective_literature,20665028]]'
+main_subject: '[[_Standards/WikiData/WD~criminal_investigation,1964968|WD~criminal_investigation,1964968]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~crime_fiction,5937792]]'
-- '[[_Standards/WikiData/WD~mystery_fiction,6585139]]'
+- '[[_Standards/WikiData/WD~crime_fiction,5937792|WD~crime_fiction,5937792]]'
+- '[[_Standards/WikiData/WD~mystery_fiction,6585139|WD~mystery_fiction,6585139]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~mystery_fiction,6585139]]'
-- '[[_Standards/WikiData/WD~murder_mystery,127339487]]'
-instance_of: '[[_Standards/WikiData/WD~fiction_genre,108465955]]'
+- '[[_Standards/WikiData/WD~mystery_fiction,6585139|WD~mystery_fiction,6585139]]'
+- '[[_Standards/WikiData/WD~murder_mystery,127339487|WD~murder_mystery,127339487]]'
+instance_of: '[[_Standards/WikiData/WD~fiction_genre,108465955|WD~fiction_genre,108465955]]'
 Commons_category: Crime fiction
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Paget%20holmes.png
 Krugosvet_article: kultura_i_obrazovanie/literatura/DETEKTIV.html

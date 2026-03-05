@@ -24,11 +24,11 @@ aliases:
 - 러들로세
 has_id_wikidata: Q1065155
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-named_after: '[[_Standards/WikiData/WD~Ludlow,839811]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ludlow_epoch,30869538]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Ludlow,839811|WD~Ludlow,839811]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ludlow_epoch,30869538|WD~Category_Ludlow_epoch,30869538]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 sRGB_color_hex_triplet: B4E5DB
 Commons_category: Ludlow Epoch
 start_time: -427400000-01-01T00:00:00Z
@@ -142,7 +142,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 427.4 to 419.2 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-425_Ma_(Ludfordian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-425_Ma_(Ludfordian_Age).png|Earth-425_Ma_(Ludfordian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

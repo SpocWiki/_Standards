@@ -100,12 +100,12 @@ aliases:
 - 總統制
 - 대통령제
 has_id_wikidata: Q49892
-instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q32538967,32538967]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32538967,32538967|WD~Q32538967,32538967]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~republic,7270]]'
-- '[[_Standards/WikiData/WD~political_system,28108]]'
-main_subject: '[[_Standards/WikiData/WD~president,30461]]'
+- '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~political_system,28108|WD~political_system,28108]]'
+main_subject: '[[_Standards/WikiData/WD~president,30461|WD~president,30461]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Sistema%20presidencial.svg
 dv_has_:
   name_:

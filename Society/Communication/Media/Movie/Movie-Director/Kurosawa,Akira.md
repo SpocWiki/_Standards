@@ -49,107 +49,107 @@ aliases:
 - 구로사와 아키라
 has_id_wikidata: Q8006
 award_received:
-- '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
-- '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
-- '[[_Standards/WikiData/WD~Order_of_Culture,530124]]'
-- '[[_Standards/WikiData/WD~Order_of_Friendship_of_Peoples,583881]]'
-- '[[_Standards/WikiData/WD~Silver_Bear_for_Best_Director,706031]]'
-- '[[_Standards/WikiData/WD~Silver_Bear,708135]]'
-- '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
-- '[[_Standards/WikiData/WD~Asahi_Prize,720434]]'
-- '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
-- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
-- '[[_Standards/WikiData/WD~César_Award_for_Best_Foreign_Film,900414]]'
-- "[[_Standards/WikiData/WD~People's_Honour_Award,905670]]"
-- '[[_Standards/WikiData/WD~Fukuoka_Asian_Culture_Prize,1323284]]'
-- "[[_Standards/WikiData/WD~Nastro_d'argento_for_best_non-Italian_film,1966054]]"
-- "[[_Standards/WikiData/WD~Prize_of_the_French_Critics'_Union_Best_Australian_Film,2111297]]"
-- '[[_Standards/WikiData/WD~Person_of_Cultural_Merit,2545449]]'
-- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film_Not_in_the_English_Language,2925687]]'
-- '[[_Standards/WikiData/WD~FIPRESCI_Prize_of_the_Festival_de_Cannes,3404587]]'
-- '[[_Standards/WikiData/WD~Mainichi_Film_Award_for_Best_Film,3405005]]'
-- '[[_Standards/WikiData/WD~Kyoto_Prize_in_Arts_and_Philosophy,6452192]]'
-- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-- '[[_Standards/WikiData/WD~Kinema_Junpo_award,13601550]]'
-- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_Merit_of_the_Italian_Republic,14539884]]'
-- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
-- '[[_Standards/WikiData/WD~Amanda_Award_for_Best_Foreign_Feature_Film,17748520]]'
-- '[[_Standards/WikiData/WD~Kinema_Junpo_Award_for_Best_Film_of_the_Year,18388323]]'
-- '[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Director,19833431]]'
-- '[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Film,19833555]]'
-- '[[_Standards/WikiData/WD~Mainichi_Film_Award_for_Best_Director,20002163]]'
-- '[[_Standards/WikiData/WD~Mainichi_Film_Award_for_Best_Screenplay,20002171]]'
-- '[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Screenplay,20982919]]'
-- '[[_Standards/WikiData/WD~Hōchi_Film_Award_for_Best_Picture,28751895]]'
-- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
-- '[[_Standards/WikiData/WD~Academy_Awards,19020]]'
-cause_of_death: '[[_Standards/WikiData/WD~watershed_stroke,7974427]]'
+- '[[_Standards/WikiData/WD~Golden_Lion,209459|WD~Golden_Lion,209459]]'
+- '[[_Standards/WikiData/WD~Praemium_Imperiale,268670|WD~Praemium_Imperiale,268670]]'
+- '[[_Standards/WikiData/WD~Order_of_Culture,530124|WD~Order_of_Culture,530124]]'
+- '[[_Standards/WikiData/WD~Order_of_Friendship_of_Peoples,583881|WD~Order_of_Friendship_of_Peoples,583881]]'
+- '[[_Standards/WikiData/WD~Silver_Bear_for_Best_Director,706031|WD~Silver_Bear_for_Best_Director,706031]]'
+- '[[_Standards/WikiData/WD~Silver_Bear,708135|WD~Silver_Bear,708135]]'
+- '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909|WD~Ordre_des_Arts_et_des_Lettres,716909]]'
+- '[[_Standards/WikiData/WD~Asahi_Prize,720434|WD~Asahi_Prize,720434]]'
+- '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328|WD~Academy_Honorary_Award,727328]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131|WD~BAFTA_Award_for_Best_Direction,787131]]'
+- '[[_Standards/WikiData/WD~César_Award_for_Best_Foreign_Film,900414|WD~César_Award_for_Best_Foreign_Film,900414]]'
+- "[[_Standards/WikiData/WD~People's_Honour_Award,905670|WD~People's_Honour_Award,905670]]"
+- '[[_Standards/WikiData/WD~Fukuoka_Asian_Culture_Prize,1323284|WD~Fukuoka_Asian_Culture_Prize,1323284]]'
+- "[[_Standards/WikiData/WD~Nastro_d'argento_for_best_non-Italian_film,1966054|WD~Nastro_d'argento_for_best_non-Italian_film,1966054]]"
+- "[[_Standards/WikiData/WD~Prize_of_the_French_Critics'_Union_Best_Australian_Film,2111297|WD~Prize_of_the_French_Critics'_Union_Best_Australian_Film,2111297]]"
+- '[[_Standards/WikiData/WD~Person_of_Cultural_Merit,2545449|WD~Person_of_Cultural_Merit,2545449]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film_Not_in_the_English_Language,2925687|WD~BAFTA_Award_for_Best_Film_Not_in_the_English_Language,2925687]]'
+- '[[_Standards/WikiData/WD~FIPRESCI_Prize_of_the_Festival_de_Cannes,3404587|WD~FIPRESCI_Prize_of_the_Festival_de_Cannes,3404587]]'
+- '[[_Standards/WikiData/WD~Mainichi_Film_Award_for_Best_Film,3405005|WD~Mainichi_Film_Award_for_Best_Film,3405005]]'
+- '[[_Standards/WikiData/WD~Kyoto_Prize_in_Arts_and_Philosophy,6452192|WD~Kyoto_Prize_in_Arts_and_Philosophy,6452192]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271|WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Kinema_Junpo_award,13601550|WD~Kinema_Junpo_award,13601550]]'
+- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_Merit_of_the_Italian_Republic,14539884|WD~Grand_Officer_of_the_Order_of_Merit_of_the_Italian_Republic,14539884]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974|WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
+- '[[_Standards/WikiData/WD~Amanda_Award_for_Best_Foreign_Feature_Film,17748520|WD~Amanda_Award_for_Best_Foreign_Feature_Film,17748520]]'
+- '[[_Standards/WikiData/WD~Kinema_Junpo_Award_for_Best_Film_of_the_Year,18388323|WD~Kinema_Junpo_Award_for_Best_Film_of_the_Year,18388323]]'
+- '[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Director,19833431|WD~Blue_Ribbon_Awards_for_Best_Director,19833431]]'
+- '[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Film,19833555|WD~Blue_Ribbon_Awards_for_Best_Film,19833555]]'
+- '[[_Standards/WikiData/WD~Mainichi_Film_Award_for_Best_Director,20002163|WD~Mainichi_Film_Award_for_Best_Director,20002163]]'
+- '[[_Standards/WikiData/WD~Mainichi_Film_Award_for_Best_Screenplay,20002171|WD~Mainichi_Film_Award_for_Best_Screenplay,20002171]]'
+- '[[_Standards/WikiData/WD~Blue_Ribbon_Awards_for_Best_Screenplay,20982919|WD~Blue_Ribbon_Awards_for_Best_Screenplay,20982919]]'
+- '[[_Standards/WikiData/WD~Hōchi_Film_Award_for_Best_Picture,28751895|WD~Hōchi_Film_Award_for_Best_Picture,28751895]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875|WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~Academy_Awards,19020|WD~Academy_Awards,19020]]'
+cause_of_death: '[[_Standards/WikiData/WD~watershed_stroke,7974427|WD~watershed_stroke,7974427]]'
 child:
-- '[[_Standards/WikiData/WD~Hisao_Kurosawa,1620638]]'
-- '[[_Standards/WikiData/WD~Kazuko_Kurosawa,3194478]]'
+- '[[_Standards/WikiData/WD~Hisao_Kurosawa,1620638|WD~Hisao_Kurosawa,1620638]]'
+- '[[_Standards/WikiData/WD~Kazuko_Kurosawa,3194478|WD~Kazuko_Kurosawa,3194478]]'
 Commons_category: Akira Kurosawa
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012|WD~works_protected_by_copyrights,73555012]]'
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Empire_of_Japan,188712|WD~Empire_of_Japan,188712]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
 date_of_birth: 1910-03-23
 date_of_death: 1998-09-06
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-family_name: '[[_Standards/WikiData/WD~Kurosawa,21506731]]'
-given_name: '[[_Standards/WikiData/WD~Akira,29564036]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+family_name: '[[_Standards/WikiData/WD~Kurosawa,21506731|WD~Kurosawa,21506731]]'
+given_name: '[[_Standards/WikiData/WD~Akira,29564036|WD~Akira,29564036]]'
 Google_Doodle: akira-kurosawas-birthday
-has_works_in_the_collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740|WD~Museum_of_Modern_Art,188740]]'
 height: 182
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Akirakurosawa-onthesetof7samurai-1953-page88.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/An%27yo-in%20Kamakura%20Kurosawa%20Akira%27s%20Grave.jpg
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ISNI: 0000000108581899
 Krugosvet_article: istoriya/kurosava-akira
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Japanese,5287]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Japanese,5287|WD~Japanese,5287]]'
 Libris_URI: nl024z463cgt1l5
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303|WD~American_Academy_of_Arts_and_Sciences,463303]]'
 name_in_kana: くろさわ あきら
 name_in_native_language:
 - 黒沢明
 - 黒澤明
-native_language: '[[_Standards/WikiData/WD~Japanese,5287]]'
-nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+native_language: '[[_Standards/WikiData/WD~Japanese,5287|WD~Japanese,5287]]'
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360|WD~Academy_Award_for_Best_Director,103360]]'
 notable_work:
-- '[[_Standards/WikiData/WD~Rashomon,135465]]'
-- '[[_Standards/WikiData/WD~Ikiru,152105]]'
-- '[[_Standards/WikiData/WD~Seven_Samurai,189540]]'
-- '[[_Standards/WikiData/WD~Throne_of_Blood,257818]]'
-- '[[_Standards/WikiData/WD~Dreams,418809]]'
-- '[[_Standards/WikiData/WD~Ran,565231]]'
-- '[[_Standards/WikiData/WD~Yojimbo,20475]]'
-- '[[_Standards/WikiData/WD~The_Hidden_Fortress,39946]]'
+- '[[_Standards/WikiData/WD~Rashomon,135465|WD~Rashomon,135465]]'
+- '[[_Standards/WikiData/WD~Ikiru,152105|WD~Ikiru,152105]]'
+- '[[_Standards/WikiData/WD~Seven_Samurai,189540|WD~Seven_Samurai,189540]]'
+- '[[_Standards/WikiData/WD~Throne_of_Blood,257818|WD~Throne_of_Blood,257818]]'
+- '[[_Standards/WikiData/WD~Dreams,418809|WD~Dreams,418809]]'
+- '[[_Standards/WikiData/WD~Ran,565231|WD~Ran,565231]]'
+- '[[_Standards/WikiData/WD~Yojimbo,20475|WD~Yojimbo,20475]]'
+- '[[_Standards/WikiData/WD~The_Hidden_Fortress,39946|WD~The_Hidden_Fortress,39946]]'
 number_of_children: 2
 occupation:
-- '[[_Standards/WikiData/WD~painter,1028181]]'
-- '[[_Standards/WikiData/WD~film_director,2526255]]'
-- '[[_Standards/WikiData/WD~film_producer,3282637]]'
-- '[[_Standards/WikiData/WD~director,3455803]]'
-- '[[_Standards/WikiData/WD~film_editor,7042855]]'
-- '[[_Standards/WikiData/WD~producer,47541952]]'
-- '[[_Standards/WikiData/WD~screenwriter,28389]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-place_of_birth: '[[_Standards/WikiData/WD~Shinagawa-ku,233495]]'
-place_of_burial: "[[_Standards/WikiData/WD~An'yō-in,615465]]"
-place_of_death: '[[_Standards/WikiData/WD~Setagaya-ku,231645]]'
+- '[[_Standards/WikiData/WD~painter,1028181|WD~painter,1028181]]'
+- '[[_Standards/WikiData/WD~film_director,2526255|WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637|WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803|WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_editor,7042855|WD~film_editor,7042855]]'
+- '[[_Standards/WikiData/WD~producer,47541952|WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389|WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+place_of_birth: '[[_Standards/WikiData/WD~Shinagawa-ku,233495|WD~Shinagawa-ku,233495]]'
+place_of_burial: "[[_Standards/WikiData/WD~An'yō-in,615465|WD~An'yō-in,615465]]"
+place_of_death: '[[_Standards/WikiData/WD~Setagaya-ku,231645|WD~Setagaya-ku,231645]]'
 pseudonym: AK
-residence: '[[_Standards/WikiData/WD~Japan,17]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+residence: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Akira%20Kurosawa%20Signature.svg
-spouse: '[[_Standards/WikiData/WD~Yōko_Yaguchi,3032150]]'
+spouse: '[[_Standards/WikiData/WD~Yōko_Yaguchi,3032150|WD~Yōko_Yaguchi,3032150]]'
 subreddit: akirakurosawa
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Akira_Kurosawa,5903488]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Akira_Kurosawa,5903488|WD~Template_Akira_Kurosawa,5903488]]'
 work_period_end_: 1993
 work_period_start_: 1936
-writing_language: '[[_Standards/WikiData/WD~Japanese,5287]]'
+writing_language: '[[_Standards/WikiData/WD~Japanese,5287|WD~Japanese,5287]]'
 dv_has_:
   name_:
     af: Akira Kurosawa
@@ -321,7 +321,7 @@ dv_has_:
 #has_/name_/family :: Kurosawa 
 #has_/name_/given :: Akira
 
-#is_/same_as :: [[../../../../../WikiData/WD~Akira_Kurosawa,8006]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Akira_Kurosawa,8006|WD~Akira_Kurosawa,8006]] 
 
 ## #has_/text_of_/abstract 
 

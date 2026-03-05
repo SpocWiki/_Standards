@@ -50,22 +50,22 @@ aliases:
 - 航行者計劃
 - 보이저 프로그램
 has_id_wikidata: Q155311
-different_from: '[[_Standards/WikiData/WD~Voyager,155257]]'
-start_point: '[[_Standards/WikiData/WD~Cape_Canaveral_Space_Force_Station,334465]]'
-uses: '[[_Standards/WikiData/WD~Titan_IIIE,1187262]]'
+different_from: '[[_Standards/WikiData/WD~Voyager,155257|WD~Voyager,155257]]'
+start_point: '[[_Standards/WikiData/WD~Cape_Canaveral_Space_Force_Station,334465|WD~Cape_Canaveral_Space_Force_Station,334465]]'
+uses: '[[_Standards/WikiData/WD~Titan_IIIE,1187262|WD~Titan_IIIE,1187262]]'
 instance_of:
-- '[[_Standards/WikiData/WD~science_project,1298668]]'
-- '[[_Standards/WikiData/WD~NASA_program,21605492]]'
-significant_event: '[[_Standards/WikiData/WD~maiden_flight,1362364]]'
-has_goal: '[[_Standards/WikiData/WD~interstellar_probe,1442634]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Voyager_program,12780076]]'
-depicted_by: '[[_Standards/WikiData/WD~The_Farthest,57803374]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-operator: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~science_project,1298668|WD~science_project,1298668]]'
+- '[[_Standards/WikiData/WD~NASA_program,21605492|WD~NASA_program,21605492]]'
+significant_event: '[[_Standards/WikiData/WD~maiden_flight,1362364|WD~maiden_flight,1362364]]'
+has_goal: '[[_Standards/WikiData/WD~interstellar_probe,1442634|WD~interstellar_probe,1442634]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Voyager_program,12780076|WD~Template_Voyager_program,12780076]]'
+depicted_by: '[[_Standards/WikiData/WD~The_Farthest,57803374|WD~The_Farthest,57803374]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+operator: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548|WD~National_Aeronautics_and_Space_Administration,23548]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Voyager_1,48469]]'
-- '[[_Standards/WikiData/WD~Voyager_2,48475]]'
+- '[[_Standards/WikiData/WD~Voyager_1,48469|WD~Voyager_1,48469]]'
+- '[[_Standards/WikiData/WD~Voyager_2,48475|WD~Voyager_2,48475]]'
 start_time: 1977-01-01T00:00:00Z
 inception: 1977-01-01T00:00:00Z
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Voyager%20Probe.stl

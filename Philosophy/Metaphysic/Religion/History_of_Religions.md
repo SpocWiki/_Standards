@@ -57,13 +57,13 @@ aliases:
 - 宗教史
 - 종교사
 has_id_wikidata: Q846742
-subclass_of: '[[_Standards/WikiData/WD~study_of_history,1066186]]'
+subclass_of: '[[_Standards/WikiData/WD~study_of_history,1066186|WD~study_of_history,1066186]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-practiced_by: '[[_Standards/WikiData/WD~historian_of_religion,17488357]]'
-is_the_study_of: '[[_Standards/WikiData/WD~religion,9174]]'
-facet_of: '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_religion,17488357|WD~historian_of_religion,17488357]]'
+is_the_study_of: '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
+facet_of: '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
 Commons_category: History of religion
 dv_has_:
   name_:

@@ -62,26 +62,26 @@ aliases:
 - "\U00010337\U0001033F\U0001033D\U00010343\U0001033B\U00010330\U00010343\U00010344\U00010330\U00010338\U00010343"
 has_id_wikidata: Q101687
 has_use:
-- '[[_Standards/WikiData/WD~sacrifice,179723]]'
-- '[[_Standards/WikiData/WD~rite,628455]]'
+- '[[_Standards/WikiData/WD~sacrifice,179723|WD~sacrifice,179723]]'
+- '[[_Standards/WikiData/WD~rite,628455|WD~rite,628455]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556|WD~Diccionario_del_español_de_México,5805556]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082|WD~Orthodox_Theological_Encyclopedia,19211082]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~sacred_place,4588528]]'
-- '[[_Standards/WikiData/WD~table,14748]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q116173772,116173772]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_work_of_art,116474095]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~sacred_place,4588528|WD~sacred_place,4588528]]'
+- '[[_Standards/WikiData/WD~table,14748|WD~table,14748]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q116173772,116173772|WD~Q116173772,116173772]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_work_of_art,116474095|WD~type_of_work_of_art,116474095]]'
 Nomenclature_for_Museum_Cataloging: 13094
 OmegaWiki_Defined_Meaning: 361044
 IMDb_keyword: altar

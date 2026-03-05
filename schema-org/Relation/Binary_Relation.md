@@ -71,16 +71,16 @@ aliases:
 - 關係
 - 이항 관계
 has_id_wikidata: Q130901
-part_of: '[[_Standards/WikiData/WD~Cartesian_product,173740]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~ordered_pair,191290]]'
+part_of: '[[_Standards/WikiData/WD~Cartesian_product,173740|WD~Cartesian_product,173740]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~ordered_pair,191290|WD~ordered_pair,191290]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~codomain,199006]]'
-- '[[_Standards/WikiData/WD~arity,1315869]]'
-- '[[_Standards/WikiData/WD~input_set,18720436]]'
-subclass_of: '[[_Standards/WikiData/WD~relation,203066]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Binary_relations,22722987]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
+- '[[_Standards/WikiData/WD~codomain,199006|WD~codomain,199006]]'
+- '[[_Standards/WikiData/WD~arity,1315869|WD~arity,1315869]]'
+- '[[_Standards/WikiData/WD~input_set,18720436|WD~input_set,18720436]]'
+subclass_of: '[[_Standards/WikiData/WD~relation,203066|WD~relation,203066]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Binary_relations,22722987|WD~Template_Binary_relations,22722987]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710|WD~type_of_relation,130324710]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>R</mi><mo stretchy="false">&#x2286;</mo><mi>A</mi><mo stretchy="false">&#x00D7;</mo><mi>B</mi></mstyle></mrow></math>
 IEV_number: 102-01-07
 Commons_category: Binary relations
@@ -95,8 +95,8 @@ described_at_URL:
 - https://math.libretexts.org/Courses/Mount_Royal_University/Higher_Arithmetic/2%3A_Binary_relations/2.1%3A_Binary_Relations
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~binary_relation,130901]]'
-  - '[[_Standards/WikiData/WD~,]]'
+  - '[[_Standards/WikiData/WD~binary_relation,130901|WD~binary_relation,130901]]'
+  - '[[_Standards/WikiData/WD~,|WD~,]]'
   - '[[/_Standards/schema-org/Relation/Binary_Relation|Binary_Relation]]'
   - '[[/_public/schema-org/Relation/Binary_Relation.public|Binary_Relation.public]]'
   - '[[/_internal/schema-org/Relation/Binary_Relation.internal|Binary_Relation.internal]]'
@@ -106,8 +106,8 @@ dv_is_:
   - '[[/_secret/schema-org/Relation/Binary_Relation.secret|Binary_Relation.secret]]'
   - '[[Binary_Relation]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~binary_relation,130901]]'
-- '[[_Standards/WikiData/WD~,]]'
+- '[[_Standards/WikiData/WD~binary_relation,130901|WD~binary_relation,130901]]'
+- '[[_Standards/WikiData/WD~,|WD~,]]'
 - '[[Binary_Relation]]'
 - '[[/_public/schema-org/Relation/Binary_Relation.public|Binary_Relation.public]]'
 - '[[/_internal/schema-org/Relation/Binary_Relation.internal|Binary_Relation.internal]]'
@@ -201,8 +201,8 @@ dv_has_:
 
 # [[Binary_Relation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~binary_relation,130901]]
-#is_/same_as :: [[_Standards/WikiData/WD~,]]
+#is_/same_as :: [[_Standards/WikiData/WD~binary_relation,130901|WD~binary_relation,130901]]
+#is_/same_as :: [[_Standards/WikiData/WD~,|WD~,]]
 
 ## #has_/text_of_/abstract 
 

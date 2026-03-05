@@ -112,9 +112,9 @@ aliases:
 - 立憲君主制
 - 입헌군주제
 has_id_wikidata: Q41614
-instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~parliamentary_monarchy,3330103]]'
-subclass_of: '[[_Standards/WikiData/WD~monarchy,7269]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~parliamentary_monarchy,3330103|WD~parliamentary_monarchy,3330103]]'
+subclass_of: '[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
 Colon_Classification: W46
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Government%20constitutional%20monarchy%202022.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Trekongem%C3%B8tet%201917%20OB.F16064.jpg

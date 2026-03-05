@@ -74,24 +74,24 @@ aliases:
 has_id_wikidata: Q8183
 Commons_category: Phonemes
 different_from:
-- '[[_Standards/WikiData/WD~allophone,146863]]'
-- '[[_Standards/WikiData/WD~mora,521164]]'
-- '[[_Standards/WikiData/WD~grapheme,2545446]]'
-- '[[_Standards/WikiData/WD~vocal_sound,4393922]]'
-- '[[_Standards/WikiData/WD~syllable,8188]]'
-- '[[_Standards/WikiData/WD~morpheme,43249]]'
+- '[[_Standards/WikiData/WD~allophone,146863|WD~allophone,146863]]'
+- '[[_Standards/WikiData/WD~mora,521164|WD~mora,521164]]'
+- '[[_Standards/WikiData/WD~grapheme,2545446|WD~grapheme,2545446]]'
+- '[[_Standards/WikiData/WD~vocal_sound,4393922|WD~vocal_sound,4393922]]'
+- '[[_Standards/WikiData/WD~syllable,8188|WD~syllable,8188]]'
+- '[[_Standards/WikiData/WD~morpheme,43249|WD~morpheme,43249]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Jan_Baudouin_de_Courtenay,335092]]'
-- '[[_Standards/WikiData/WD~Mikołaj_Kruszewski,573860]]'
-instance_of: '[[_Standards/WikiData/WD~emic_unit,5371079]]'
+- '[[_Standards/WikiData/WD~Jan_Baudouin_de_Courtenay,335092|WD~Jan_Baudouin_de_Courtenay,335092]]'
+- '[[_Standards/WikiData/WD~Mikołaj_Kruszewski,573860|WD~Mikołaj_Kruszewski,573860]]'
+instance_of: '[[_Standards/WikiData/WD~emic_unit,5371079|WD~emic_unit,5371079]]'
 OmegaWiki_Defined_Meaning: 375783
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Old%20latin%20dipthongs.svg
 Stack_Exchange_tag:
 - https://stackoverflow.com/tags/phoneme
 - https://linguistics.stackexchange.com/tags/phonemes
-studied_in: '[[_Standards/WikiData/WD~phonology,40998]]'
-subclass_of: '[[_Standards/WikiData/WD~vocal_sound,4393922]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_IPA,5614568]]'
+studied_in: '[[_Standards/WikiData/WD~phonology,40998|WD~phonology,40998]]'
+subclass_of: '[[_Standards/WikiData/WD~vocal_sound,4393922|WD~vocal_sound,4393922]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_IPA,5614568|WD~Template_Infobox_IPA,5614568]]'
 Wikidata_property: has phoneme
 dv_has_:
   name_:

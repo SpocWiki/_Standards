@@ -61,17 +61,17 @@ aliases:
 has_id_wikidata: Q25445
 Commons_category: Holocene
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
 IPA_transcription: /ˈhɒl.əsiːn/
-named_by: '[[_Standards/WikiData/WD~Paul_Gervais,433721]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-significant_event: '[[_Standards/WikiData/WD~Middle_Bronze_Age_Cold_Epoch,4375138]]'
+named_by: '[[_Standards/WikiData/WD~Paul_Gervais,433721|WD~Paul_Gervais,433721]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+significant_event: '[[_Standards/WikiData/WD~Middle_Bronze_Age_Cold_Epoch,4375138|WD~Middle_Bronze_Age_Cold_Epoch,4375138]]'
 sRGB_color_hex_triplet: FEEBD2
 start_time: -9700-01-01
 dv_has_:
@@ -192,7 +192,7 @@ dv_has_:
     stopped: 1492
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Holocene,25445]]'
+  - '[[../../../../../WikiData/WD~Holocene,25445|WD~Holocene,25445]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene|Epoch-000_012~Holocene]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.public|Epoch-000_012~Holocene.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.internal|Epoch-000_012~Holocene.internal]]'
@@ -208,7 +208,7 @@ dv_has_duration_years: 1.149e+4
 dv_has_previous_item: '[[Epoch-002_568~Pleistocene]]'
 dv_has_next_item: '[[Epoch-000_001~Anthropocene]]'
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Holocene,25445]]'
+- '[[../../../../../WikiData/WD~Holocene,25445|WD~Holocene,25445]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene|Epoch-000_012~Holocene]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.public|Epoch-000_012~Holocene.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.internal|Epoch-000_012~Holocene.internal]]'
@@ -260,7 +260,7 @@ has_text_of_color = `=this.dv_has_text_of_color`
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[../../../../../WikiData/WD~Holocene,25445]]
+#is_/same_as :: [[../../../../../WikiData/WD~Holocene,25445|WD~Holocene,25445]]
 
 ## #has_/text_of_/abstract 
 

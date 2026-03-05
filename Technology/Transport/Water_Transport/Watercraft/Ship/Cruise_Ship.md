@@ -60,15 +60,15 @@ aliases:
 - 유람선
 has_id_wikidata: Q39804
 different_from:
-- '[[_Standards/WikiData/WD~cruiser,104843]]'
-- '[[_Standards/WikiData/WD~ocean_liner,697196]]'
-has_use: '[[_Standards/WikiData/WD~cruise,1745299]]'
+- '[[_Standards/WikiData/WD~cruiser,104843|WD~cruiser,104843]]'
+- '[[_Standards/WikiData/WD~ocean_liner,697196|WD~ocean_liner,697196]]'
+has_use: '[[_Standards/WikiData/WD~cruise,1745299|WD~cruise,1745299]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~passenger_vessel,2055880]]'
-- '[[_Standards/WikiData/WD~ship,11446]]'
-instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
-designed_to_carry: '[[_Standards/WikiData/WD~cruise_passenger,22813653]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cruise,108633684]]'
+- '[[_Standards/WikiData/WD~passenger_vessel,2055880|WD~passenger_vessel,2055880]]'
+- '[[_Standards/WikiData/WD~ship,11446|WD~ship,11446]]'
+instance_of: '[[_Standards/WikiData/WD~ship_type,2235308|WD~ship_type,2235308]]'
+designed_to_carry: '[[_Standards/WikiData/WD~cruise_passenger,22813653|WD~cruise_passenger,22813653]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cruise,108633684|WD~Portal_Cruise,108633684]]'
 Nomenclature_for_Museum_Cataloging: 12769
 hashtag_: cruises
 Commons_category: Cruise ships

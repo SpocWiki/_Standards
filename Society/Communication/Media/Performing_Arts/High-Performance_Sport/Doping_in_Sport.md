@@ -40,17 +40,17 @@ aliases:
 - 體育禁藥
 - 도핑
 has_id_wikidata: Q166376
-has_use: '[[_Standards/WikiData/WD~competitive_sport,1816033]]'
-instance_of: '[[_Standards/WikiData/WD~activity,1914636]]'
-facet_of: '[[_Standards/WikiData/WD~doping_behavior,2992355]]'
+has_use: '[[_Standards/WikiData/WD~competitive_sport,1816033|WD~competitive_sport,1816033]]'
+instance_of: '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+facet_of: '[[_Standards/WikiData/WD~doping_behavior,2992355|WD~doping_behavior,2992355]]'
 uses:
-- '[[_Standards/WikiData/WD~performance_enhancing_substance,7168187]]'
-- '[[_Standards/WikiData/WD~prohibited_substance,65669378]]'
-different_from: '[[_Standards/WikiData/WD~Q9210072,9210072]]'
-has_effect: '[[_Standards/WikiData/WD~anti_doping_violation,52157573]]'
+- '[[_Standards/WikiData/WD~performance_enhancing_substance,7168187|WD~performance_enhancing_substance,7168187]]'
+- '[[_Standards/WikiData/WD~prohibited_substance,65669378|WD~prohibited_substance,65669378]]'
+different_from: '[[_Standards/WikiData/WD~Q9210072,9210072|WD~Q9210072,9210072]]'
+has_effect: '[[_Standards/WikiData/WD~anti_doping_violation,52157573|WD~anti_doping_violation,52157573]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~cheating_in_sports,107969306]]'
-- '[[_Standards/WikiData/WD~bioactive_compound_use,124542283]]'
+- '[[_Standards/WikiData/WD~cheating_in_sports,107969306|WD~cheating_in_sports,107969306]]'
+- '[[_Standards/WikiData/WD~bioactive_compound_use,124542283|WD~bioactive_compound_use,124542283]]'
 Commons_gallery: Doping
 Commons_category: Doping
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Doping%20%28needle%29.jpg

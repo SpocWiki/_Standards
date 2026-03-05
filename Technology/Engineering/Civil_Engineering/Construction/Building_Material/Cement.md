@@ -79,21 +79,21 @@ aliases:
 - 시멘트
 has_id_wikidata: Q45190
 instance_of:
-- '[[_Standards/WikiData/WD~adhesive,131790]]'
-- '[[_Standards/WikiData/WD~powder,2908004]]'
+- '[[_Standards/WikiData/WD~adhesive,131790|WD~adhesive,131790]]'
+- '[[_Standards/WikiData/WD~powder,2908004|WD~powder,2908004]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~building_material,206615]]'
-- '[[_Standards/WikiData/WD~binder,863583]]'
-has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
+- '[[_Standards/WikiData/WD~building_material,206615|WD~building_material,206615]]'
+- '[[_Standards/WikiData/WD~binder,863583|WD~binder,863583]]'
+has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678|WD~hygroscopy,216678]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-different_from: '[[_Standards/WikiData/WD~concrete,22657]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+different_from: '[[_Standards/WikiData/WD~concrete,22657|WD~concrete,22657]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~limestone,23757]]'
-- '[[_Standards/WikiData/WD~clay,42302]]'
+- '[[_Standards/WikiData/WD~limestone,23757|WD~limestone,23757]]'
+- '[[_Standards/WikiData/WD~clay,42302|WD~clay,42302]]'
 emissivity: 0.54
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cement%2002%20%28cropped%29.jpg
 GS1_GPC_code: 10002526

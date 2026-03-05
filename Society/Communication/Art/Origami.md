@@ -34,25 +34,25 @@ aliases:
 - 종이접기
 has_id_wikidata: Q83357
 different_from:
-- '[[_Standards/WikiData/WD~pop_up_book,759769]]'
-- '[[_Standards/WikiData/WD~origami,56898068]]'
+- '[[_Standards/WikiData/WD~pop_up_book,759769|WD~pop_up_book,759769]]'
+- '[[_Standards/WikiData/WD~origami,56898068|WD~origami,56898068]]'
 instance_of:
-- '[[_Standards/WikiData/WD~method,1799072]]'
-- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~method,1799072|WD~method,1799072]]'
+- '[[_Standards/WikiData/WD~type_of_arts,56055944|WD~type_of_arts,56055944]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~paper_folding,2050700]]'
-- '[[_Standards/WikiData/WD~paper_craft,11802861]]'
-fabrication_method: '[[_Standards/WikiData/WD~origami_technique,2638449]]'
-studied_by: '[[_Standards/WikiData/WD~mathematics_of_paper_folding,3299105]]'
-made_from_material: '[[_Standards/WikiData/WD~origami_paper,7102446]]'
-has_list: '[[_Standards/WikiData/WD~Q11381377,11381377]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_origami,17038781]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q18584545,18584545]]'
-practiced_by: '[[_Standards/WikiData/WD~origamist,56073161]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~origami,56898068]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
-country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~paper_folding,2050700|WD~paper_folding,2050700]]'
+- '[[_Standards/WikiData/WD~paper_craft,11802861|WD~paper_craft,11802861]]'
+fabrication_method: '[[_Standards/WikiData/WD~origami_technique,2638449|WD~origami_technique,2638449]]'
+studied_by: '[[_Standards/WikiData/WD~mathematics_of_paper_folding,3299105|WD~mathematics_of_paper_folding,3299105]]'
+made_from_material: '[[_Standards/WikiData/WD~origami_paper,7102446|WD~origami_paper,7102446]]'
+has_list: '[[_Standards/WikiData/WD~Q11381377,11381377|WD~Q11381377,11381377]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_origami,17038781|WD~history_of_origami,17038781]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q18584545,18584545|WD~Q18584545,18584545]]'
+practiced_by: '[[_Standards/WikiData/WD~origamist,56073161|WD~origamist,56073161]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~origami,56898068|WD~origami,56898068]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806|WD~WikiProject_Craft,110249806]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
 OmegaWiki_Defined_Meaning: 1071143
 Commons_category: Origami
 subreddit: origami

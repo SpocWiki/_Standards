@@ -92,15 +92,15 @@ aliases:
 - 新石器時代
 - 신석기 시대
 has_id_wikidata: Q36422
-discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Lubbock,_1st_Baron_Avebury,312503]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Lubbock,_1st_Baron_Avebury,312503|WD~John_Lubbock,_1st_Baron_Avebury,312503]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Pre_Pottery_Neolithic,1190360]]'
-- '[[_Standards/WikiData/WD~Pottery_Neolithic,1937946]]'
-instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Neolithic,17281651]]'
+- '[[_Standards/WikiData/WD~Pre_Pottery_Neolithic,1190360|WD~Pre_Pottery_Neolithic,1190360]]'
+- '[[_Standards/WikiData/WD~Pottery_Neolithic,1937946|WD~Pottery_Neolithic,1937946]]'
+instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633|WD~archaeological_period,15401633]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Neolithic,17281651|WD~Template_Neolithic,17281651]]'
 end_time:
 - -2999-01-01T00:00:00Z
 - -2199-01-01T00:00:00Z
@@ -108,13 +108,13 @@ start_time:
 - -9000-01-01T00:00:00Z
 - -5200-01-01T00:00:00Z
 - -5500-01-01T00:00:00Z
-subclass_of: '[[_Standards/WikiData/WD~prehistory,11756]]'
+subclass_of: '[[_Standards/WikiData/WD~prehistory,11756|WD~prehistory,11756]]'
 Commons_category: Neolithic
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SkaraBraeJM.jpg
 Krugosvet_article_archived_: istoriya/NEOLIT.html
 OpenStreetMap_tag: historic:era=neolithic
 dv_is_:
-  part_of_: '[[../../Stone-Age]]'
+  part_of_: '[[../../Stone-Age|Stone-Age]]'
   same_as:
   - '[[../../../../../../../WikiData/WD~Neolithic,36422|WD~Neolithic,36422]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/2000-Neolithic|2000-Neolithic]]'
@@ -261,7 +261,7 @@ dv_has_:
   time_:
     started: -8000
     stopped: -3300
-dv_is_part_of_: '[[../../Stone-Age]]'
+dv_is_part_of_: '[[../../Stone-Age|Stone-Age]]'
 dv_has_time_started: -8000
 dv_has_time_stopped: -3300
 dv_has_duration_years: 4700

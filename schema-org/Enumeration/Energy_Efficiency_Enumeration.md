@@ -27,7 +27,7 @@ title: is_an_energy_efficiency_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration|Energy_Efficiency_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration.public|Energy_Efficiency_Enumeration.public]]"
@@ -40,7 +40,7 @@ dv_is_:
 dv_has_:
   child_class: "[ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_has_child_class: "[ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ]"
 dv_is_same_as:
   - "[[Energy_Efficiency_Enumeration]]"

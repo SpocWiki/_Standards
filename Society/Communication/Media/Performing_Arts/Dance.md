@@ -168,51 +168,51 @@ Unicode_character:
 - "\U0001F483"
 - "\U0001F57A"
 U_S_National_Archives_Identifier: 10638328
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_dance,7112602]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_dance,7112602|WD~outline_of_dance,7112602]]'
 Wikidata_property: dance style
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524|WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240|WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Ara_of_the_winged_dancers,131543621]]'
-- '[[_Standards/WikiData/WD~Dance_around_the_tree,131613615]]'
-- '[[_Standards/WikiData/WD~Dance_of_the_Children_of_Alcinous,131719678]]'
+- '[[_Standards/WikiData/WD~Ara_of_the_winged_dancers,131543621|WD~Ara_of_the_winged_dancers,131543621]]'
+- '[[_Standards/WikiData/WD~Dance_around_the_tree,131613615|WD~Dance_around_the_tree,131613615]]'
+- '[[_Standards/WikiData/WD~Dance_of_the_Children_of_Alcinous,131719678|WD~Dance_of_the_Children_of_Alcinous,131719678]]'
 exact_match: http://cv.iptc.org/newscodes/subjectcode/01006000
 has_part_s_:
-- '[[_Standards/WikiData/WD~choreography,180856]]'
-- '[[_Standards/WikiData/WD~musical_work,2188189]]'
-- '[[_Standards/WikiData/WD~performance_work,17538722]]'
-has_list: '[[_Standards/WikiData/WD~list_of_dances,1759354]]'
-history_of_topic: '[[_Standards/WikiData/WD~Dance_in_mythology_and_religion,5215255]]'
+- '[[_Standards/WikiData/WD~choreography,180856|WD~choreography,180856]]'
+- '[[_Standards/WikiData/WD~musical_work,2188189|WD~musical_work,2188189]]'
+- '[[_Standards/WikiData/WD~performance_work,17538722|WD~performance_work,17538722]]'
+has_list: '[[_Standards/WikiData/WD~list_of_dances,1759354|WD~list_of_dances,1759354]]'
+history_of_topic: '[[_Standards/WikiData/WD~Dance_in_mythology_and_religion,5215255|WD~Dance_in_mythology_and_religion,5215255]]'
 instance_of:
-- '[[_Standards/WikiData/WD~performing_arts_genre,45971958]]'
-- '[[_Standards/WikiData/WD~sport,349]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~performing_arts_genre,45971958|WD~performing_arts_genre,45971958]]'
+- '[[_Standards/WikiData/WD~sport,349|WD~sport,349]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dance-At-Bougival.jpg
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Performing_arts,59956276]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Performing_arts,59956276|WD~WikiProject_Performing_arts,59956276]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~répétiteur,1784753]]'
-- '[[_Standards/WikiData/WD~dancer,5716684]]'
+- '[[_Standards/WikiData/WD~répétiteur,1784753|WD~répétiteur,1784753]]'
+- '[[_Standards/WikiData/WD~dancer,5716684|WD~dancer,5716684]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20Journ%C3%A9e%202%20-%2016%20%28Madehub%29-danse.wav
-studied_in: '[[_Standards/WikiData/WD~dance_studies,2393450]]'
+studied_in: '[[_Standards/WikiData/WD~dance_studies,2393450|WD~dance_studies,2393450]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~performing_arts,184485]]'
-- '[[_Standards/WikiData/WD~physical_activity,747883]]'
-- '[[_Standards/WikiData/WD~creative_work,17537576]]'
+- '[[_Standards/WikiData/WD~performing_arts,184485|WD~performing_arts,184485]]'
+- '[[_Standards/WikiData/WD~physical_activity,747883|WD~physical_activity,747883]]'
+- '[[_Standards/WikiData/WD~creative_work,17537576|WD~creative_work,17537576]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Dance,8085029]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_dance,14473795]]'
-used_by: '[[_Standards/WikiData/WD~dance,25543541]]'
+- '[[_Standards/WikiData/WD~Template_Dance,8085029|WD~Template_Dance,8085029]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_dance,14473795|WD~Template_Infobox_dance,14473795]]'
+used_by: '[[_Standards/WikiData/WD~dance,25543541|WD~dance,25543541]]'
 dv_has_:
   name_:
     af: dans

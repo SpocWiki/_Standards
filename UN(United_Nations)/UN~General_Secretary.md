@@ -101,22 +101,22 @@ aliases:
 - 유엔 사무총장
 has_id_wikidata: Q81066
 subclass_of:
-- '[[_Standards/WikiData/WD~diplomat,193391]]'
-- '[[_Standards/WikiData/WD~general_secretary,6501749]]'
+- '[[_Standards/WikiData/WD~diplomat,193391|WD~diplomat,193391]]'
+- '[[_Standards/WikiData/WD~general_secretary,6501749|WD~general_secretary,6501749]]'
 organization_directed_by_the_office_or_position:
-- '[[_Standards/WikiData/WD~United_Nations_Secretariat,220563]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-part_of: '[[_Standards/WikiData/WD~United_Nations_Secretariat,220563]]'
-position_holder: '[[_Standards/WikiData/WD~António_Guterres,311440]]'
-substitute_deputy_replacement_of_office_officeholder: '[[_Standards/WikiData/WD~Deputy_Secretary_General_of_the_United_Nations,3099742]]'
-has_list: '[[_Standards/WikiData/WD~list_of_United_Nations_Secretary_Generals,3254299]]'
-instance_of: '[[_Standards/WikiData/WD~position,4164871]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_LN_and_UN_Secretaries_General,10543504]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-official_residence: '[[_Standards/WikiData/WD~Headquarters_of_the_United_Nations,11297]]'
+- '[[_Standards/WikiData/WD~United_Nations_Secretariat,220563|WD~United_Nations_Secretariat,220563]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+part_of: '[[_Standards/WikiData/WD~United_Nations_Secretariat,220563|WD~United_Nations_Secretariat,220563]]'
+position_holder: '[[_Standards/WikiData/WD~António_Guterres,311440|WD~António_Guterres,311440]]'
+substitute_deputy_replacement_of_office_officeholder: '[[_Standards/WikiData/WD~Deputy_Secretary_General_of_the_United_Nations,3099742|WD~Deputy_Secretary_General_of_the_United_Nations,3099742]]'
+has_list: '[[_Standards/WikiData/WD~list_of_United_Nations_Secretary_Generals,3254299|WD~list_of_United_Nations_Secretary_Generals,3254299]]'
+instance_of: '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_LN_and_UN_Secretaries_General,10543504|WD~Template_LN_and_UN_Secretaries_General,10543504]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+official_residence: '[[_Standards/WikiData/WD~Headquarters_of_the_United_Nations,11297|WD~Headquarters_of_the_United_Nations,11297]]'
 term_length_of_position: 5
-nominated_by: '[[_Standards/WikiData/WD~United_Nations_Security_Council,37470]]'
-appointed_by: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+nominated_by: '[[_Standards/WikiData/WD~United_Nations_Security_Council,37470|WD~United_Nations_Security_Council,37470]]'
+appointed_by: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
 base_salary: 227253
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/UN%20emblem%20blue.svg
 inception: 1945-06-26T00:00:00Z

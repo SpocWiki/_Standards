@@ -237,7 +237,7 @@ dv_has_:
 > He has been cited as one of the best actors never to have received an Academy Award nomination. 
 > In 2017, he received an Academy Honorary Award.
 >
-> Sutherland rose to fame after starring in films such as The [[Dirty Dozen]] (1967), [[../../../../../../../../_private/Society/Communication/Media/TV-Series/M-A-S-H]] (1970), 
+> Sutherland rose to fame after starring in films such as The [[Dirty Dozen]] (1967), [[../../../../../../../../_private/Society/Communication/Media/TV-Series/M-A-S-H|M-A-S-H]] (1970), 
 > and [[Kelly's Heroes]] (1970). 
 > He subsequently starred in many films both in leading and supporting roles, including Klute (1971), 
 > Don't Look Now (1973), The Day of the Locust (1975), Fellini's Casanova (1976), 1900 (1976), 

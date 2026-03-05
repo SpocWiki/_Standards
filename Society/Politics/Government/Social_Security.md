@@ -68,18 +68,18 @@ aliases:
 - 사회 보장
 has_id_wikidata: Q2483208
 described_by_source:
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-- '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813]]'
-studied_by: '[[_Standards/WikiData/WD~social_protection,7551332]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813|WD~Universal_Declaration_of_Human_Rights,7813]]'
+studied_by: '[[_Standards/WikiData/WD~social_protection,7551332|WD~social_protection,7551332]]'
 different_from:
-- '[[_Standards/WikiData/WD~social_insurance,7653906]]'
-- '[[_Standards/WikiData/WD~Old_Age,_Survivors,_and_Disability_Insurance,12184791]]'
-has_part_s_: '[[_Standards/WikiData/WD~social_security_law,11588246]]'
-part_of: '[[_Standards/WikiData/WD~welfare_spending,12002092]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-subclass_of: '[[_Standards/WikiData/WD~government_program,22222786]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_security,96264607]]'
+- '[[_Standards/WikiData/WD~social_insurance,7653906|WD~social_insurance,7653906]]'
+- '[[_Standards/WikiData/WD~Old_Age,_Survivors,_and_Disability_Insurance,12184791|WD~Old_Age,_Survivors,_and_Disability_Insurance,12184791]]'
+has_part_s_: '[[_Standards/WikiData/WD~social_security_law,11588246|WD~social_security_law,11588246]]'
+part_of: '[[_Standards/WikiData/WD~welfare_spending,12002092|WD~welfare_spending,12002092]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+subclass_of: '[[_Standards/WikiData/WD~government_program,22222786|WD~government_program,22222786]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_security,96264607|WD~type_of_security,96264607]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Help-gc8b13fc53%201920.jpg
 U_S_National_Archives_Identifier: 10641016
 MeSH_tree_code:

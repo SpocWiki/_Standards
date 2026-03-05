@@ -123,18 +123,18 @@ aliases:
 - 회색
 has_id_wikidata: Q42519
 instance_of:
-- '[[_Standards/WikiData/WD~web_color,376346]]'
-- '[[_Standards/WikiData/WD~HTML4_named_color,56053097]]'
+- '[[_Standards/WikiData/WD~web_color,376346|WD~web_color,376346]]'
+- '[[_Standards/WikiData/WD~HTML4_named_color,56053097|WD~HTML4_named_color,56053097]]'
 different_from:
-- '[[_Standards/WikiData/WD~gray,1145422]]'
-- '[[_Standards/WikiData/WD~Tykhonivka,4458713]]'
-- '[[_Standards/WikiData/WD~grey_hair,10509939]]'
-- '[[_Standards/WikiData/WD~gray,17245659]]'
-described_by_source: '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~gray,1145422|WD~gray,1145422]]'
+- '[[_Standards/WikiData/WD~Tykhonivka,4458713|WD~Tykhonivka,4458713]]'
+- '[[_Standards/WikiData/WD~grey_hair,10509939|WD~grey_hair,10509939]]'
+- '[[_Standards/WikiData/WD~gray,17245659|WD~gray,17245659]]'
+described_by_source: '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~achromatic_color,11567360]]'
-- '[[_Standards/WikiData/WD~light,9128]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q25618403,25618403]]'
+- '[[_Standards/WikiData/WD~achromatic_color,11567360|WD~achromatic_color,11567360]]'
+- '[[_Standards/WikiData/WD~light,9128|WD~light,9128]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q25618403,25618403|WD~Q25618403,25618403]]'
 sRGB_color_hex_triplet: 808080
 CSS_color_keyword:
 - grey

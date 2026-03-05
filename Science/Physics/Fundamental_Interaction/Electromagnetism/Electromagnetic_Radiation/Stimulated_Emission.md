@@ -41,11 +41,11 @@ aliases:
 - 誘導放出
 - 자극 방출
 has_id_wikidata: Q853656
-instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-studied_by: '[[_Standards/WikiData/WD~laser_science,4252992]]'
-subclass_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
-has_use: '[[_Standards/WikiData/WD~laser,38867]]'
+instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+studied_by: '[[_Standards/WikiData/WD~laser_science,4252992|WD~laser_science,4252992]]'
+subclass_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754|WD~electromagnetic_radiation,12969754]]'
+has_use: '[[_Standards/WikiData/WD~laser,38867|WD~laser,38867]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%20by%20Stimulated%20Emission%20of%20Radiation.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%20by%20Stimulated%20Emission%20of%20Radiation.ogv
 IEV_number: 845-24-045

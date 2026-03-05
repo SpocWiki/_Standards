@@ -86,22 +86,22 @@ aliases:
 - 도시 계획
 has_id_wikidata: Q69883
 practiced_by:
-- '[[_Standards/WikiData/WD~urban_planner,131062]]'
+- '[[_Standards/WikiData/WD~urban_planner,131062|WD~urban_planner,131062]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~spatial_planning,149013]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~strategic_plan,3391375]]'
+- '[[_Standards/WikiData/WD~spatial_planning,149013|WD~spatial_planning,149013]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~strategic_plan,3391375|WD~strategic_plan,3391375]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~type_of_policy,96251375]]'
-- '[[_Standards/WikiData/WD~public_administration,31728]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Urban_Planning,20375033]]'
-has_characteristic: '[[_Standards/WikiData/WD~land_use_planning,60738778]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_policy,96251375|WD~type_of_policy,96251375]]'
+- '[[_Standards/WikiData/WD~public_administration,31728|WD~public_administration,31728]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Urban_Planning,20375033|WD~Template_Urban_Planning,20375033]]'
+has_characteristic: '[[_Standards/WikiData/WD~land_use_planning,60738778|WD~land_use_planning,60738778]]'
 facet_of:
-- '[[_Standards/WikiData/WD~land_use_planning,60738778]]'
-- '[[_Standards/WikiData/WD~urbanism,59950]]'
-part_of: '[[_Standards/WikiData/WD~urban_and_regional_planning,64808211]]'
+- '[[_Standards/WikiData/WD~land_use_planning,60738778|WD~land_use_planning,60738778]]'
+- '[[_Standards/WikiData/WD~urbanism,59950|WD~urbanism,59950]]'
+part_of: '[[_Standards/WikiData/WD~urban_and_regional_planning,64808211|WD~urban_and_regional_planning,64808211]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~urban_design,63100]]'
+- '[[_Standards/WikiData/WD~urban_design,63100|WD~urban_design,63100]]'
 Dewey_Decimal_Classification: 710
 Library_of_Congress_Classification:
 - HT165.5-HT169.9

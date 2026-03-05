@@ -95,25 +95,25 @@ aliases:
 - 어원학
 has_id_wikidata: Q35245
 subclass_of:
-- '[[_Standards/WikiData/WD~historical_linguistics,190375]]'
-- '[[_Standards/WikiData/WD~linguistics,8162]]'
-- '[[_Standards/WikiData/WD~philology,40634]]'
+- '[[_Standards/WikiData/WD~historical_linguistics,190375|WD~historical_linguistics,190375]]'
+- '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
+- '[[_Standards/WikiData/WD~philology,40634|WD~philology,40634]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-instance_of: '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12227664,12227664]]'
-practiced_by: '[[_Standards/WikiData/WD~etymologist,16312408]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Etymology,21830291]]'
-is_the_study_of: '[[_Standards/WikiData/WD~etymology,131684213]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+instance_of: '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12227664,12227664|WD~Q12227664,12227664]]'
+practiced_by: '[[_Standards/WikiData/WD~etymologist,16312408|WD~etymologist,16312408]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Etymology,21830291|WD~WikiProject_Etymology,21830291]]'
+is_the_study_of: '[[_Standards/WikiData/WD~etymology,131684213|WD~etymology,131684213]]'
 different_from:
-- '[[_Standards/WikiData/WD~etymology,131684213]]'
-- '[[_Standards/WikiData/WD~entomology,39286]]'
+- '[[_Standards/WikiData/WD~etymology,131684213|WD~etymology,131684213]]'
+- '[[_Standards/WikiData/WD~entomology,39286|WD~entomology,39286]]'
 Dewey_Decimal_Classification: 412
 OmegaWiki_Defined_Meaning: 7395
 Commons_category: Etymology

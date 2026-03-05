@@ -28,12 +28,12 @@ aliases:
 - 阿爾丁斯剋期
 has_id_wikidata: Q713094
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Krasnousolsky,591613]]'
-named_after: '[[_Standards/WikiData/WD~Arti,712334]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Artinskian,134461822]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Krasnousolsky,591613|WD~Krasnousolsky,591613]]'
+named_after: '[[_Standards/WikiData/WD~Arti,712334|WD~Arti,712334]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Artinskian,134461822|WD~GSSP_for_the_base_of_the_Artinskian,134461822]]'
 end_time: -283500000-01-01T00:00:00Z
 start_time: -290100000-01-01T00:00:00Z
 sRGB_color_hex_triplet: EF8A74
@@ -148,7 +148,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 290.1 to 283.5 million years ago.
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-285_Ma_(Artinskian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-285_Ma_(Artinskian_Age).png|Earth-285_Ma_(Artinskian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

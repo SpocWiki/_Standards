@@ -25,18 +25,18 @@ aliases:
 - 普里阿邦階
 - 프리아보나절
 has_id_wikidata: Q508438
-significant_place: '[[_Standards/WikiData/WD~Piave,213462]]'
+significant_place: '[[_Standards/WikiData/WD~Piave,213462|WD~Piave,213462]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Priabona,1403375]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Priabona,1403375|WD~Priabona,1403375]]'
 named_by:
-- '[[_Standards/WikiData/WD~Albert_de_Lapparent,2739611]]'
-- '[[_Standards/WikiData/WD~Ernest_Munier_Chalmas,3057095]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Ludien,3266056]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Priabonian,24068320]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Priabonian,133861656]]'
+- '[[_Standards/WikiData/WD~Albert_de_Lapparent,2739611|WD~Albert_de_Lapparent,2739611]]'
+- '[[_Standards/WikiData/WD~Ernest_Munier_Chalmas,3057095|WD~Ernest_Munier_Chalmas,3057095]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Ludien,3266056|WD~Ludien,3266056]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Priabonian,24068320|WD~Category_Priabonian,24068320]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Priabonian,133861656|WD~GSSP_for_the_base_of_the_Priabonian,133861656]]'
 start_time: -37800000-01-01T00:00:00Z
 end_time: -33900000-01-01T00:00:00Z
 Commons_category: Priabonian
@@ -161,7 +161,7 @@ has_next_item = `=this.dv_has_next_item`
 
 ## #has_/text_of_/abstract 
 
-> The **Priabonian** is, in the ICS's geologic timescale, the latest age or the upper stage of the Eocene Epoch or Series. It spans the time between 37.71 and 33.9 Ma. The Priabonian is preceded by the [[Age~3~Bartonian]] and is followed by the [[../Epoch-034~Oligocene/Age~1~Rupelian]], the lowest stage of the Oligocene.
+> The **Priabonian** is, in the ICS's geologic timescale, the latest age or the upper stage of the Eocene Epoch or Series. It spans the time between 37.71 and 33.9 Ma. The Priabonian is preceded by the [[Age~3~Bartonian]] and is followed by the [[../Epoch-034~Oligocene/Age~1~Rupelian|Age~1~Rupelian]], the lowest stage of the Oligocene.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Priabonian) 
 

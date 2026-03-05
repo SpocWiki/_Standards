@@ -67,48 +67,48 @@ aliases:
 - 시오니즘
 has_id_wikidata: Q42388
 Dewey_Decimal_Classification: 320.54095694
-named_after: '[[_Standards/WikiData/WD~Zion,205318]]'
-different_from: '[[_Standards/WikiData/WD~Zionist_Occupation_Government,205364]]'
+named_after: '[[_Standards/WikiData/WD~Zion,205318|WD~Zion,205318]]'
+different_from: '[[_Standards/WikiData/WD~Zionist_Occupation_Government,205364|WD~Zionist_Occupation_Government,205364]]'
 has_contributing_factor:
-- '[[_Standards/WikiData/WD~Haskalah,472670]]'
-- '[[_Standards/WikiData/WD~antisemitism,22649]]'
+- '[[_Standards/WikiData/WD~Haskalah,472670|WD~Haskalah,472670]]'
+- '[[_Standards/WikiData/WD~antisemitism,22649|WD~antisemitism,22649]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~post_Zionism,509344]]'
-- '[[_Standards/WikiData/WD~Revisionist_Zionism,592710]]'
-- '[[_Standards/WikiData/WD~Labor_Zionism,607470]]'
-- '[[_Standards/WikiData/WD~Christian_Zionism,1084152]]'
-- '[[_Standards/WikiData/WD~Neo_Zionism,1399359]]'
-- '[[_Standards/WikiData/WD~religious_Zionism,1577041]]'
-- '[[_Standards/WikiData/WD~General_Zionists,1887828]]'
-- '[[_Standards/WikiData/WD~Cultural_Zionism,2912010]]'
-- '[[_Standards/WikiData/WD~Green_Zionism,5603426]]'
-opposite_of: '[[_Standards/WikiData/WD~anti_Zionism,584548]]'
+- '[[_Standards/WikiData/WD~post_Zionism,509344|WD~post_Zionism,509344]]'
+- '[[_Standards/WikiData/WD~Revisionist_Zionism,592710|WD~Revisionist_Zionism,592710]]'
+- '[[_Standards/WikiData/WD~Labor_Zionism,607470|WD~Labor_Zionism,607470]]'
+- '[[_Standards/WikiData/WD~Christian_Zionism,1084152|WD~Christian_Zionism,1084152]]'
+- '[[_Standards/WikiData/WD~Neo_Zionism,1399359|WD~Neo_Zionism,1399359]]'
+- '[[_Standards/WikiData/WD~religious_Zionism,1577041|WD~religious_Zionism,1577041]]'
+- '[[_Standards/WikiData/WD~General_Zionists,1887828|WD~General_Zionists,1887828]]'
+- '[[_Standards/WikiData/WD~Cultural_Zionism,2912010|WD~Cultural_Zionism,2912010]]'
+- '[[_Standards/WikiData/WD~Green_Zionism,5603426|WD~Green_Zionism,5603426]]'
+opposite_of: '[[_Standards/WikiData/WD~anti_Zionism,584548|WD~anti_Zionism,584548]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~ethnic_nationalism,637251]]'
-- '[[_Standards/WikiData/WD~religious_nationalism,2019152]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Zionism,3137945]]'
+- '[[_Standards/WikiData/WD~ethnic_nationalism,637251|WD~ethnic_nationalism,637251]]'
+- '[[_Standards/WikiData/WD~religious_nationalism,2019152|WD~religious_nationalism,2019152]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Zionism,3137945|WD~history_of_Zionism,3137945]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Jewish_political_movements,4173144]]'
-- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Zionism,12270032]]'
-practiced_by: '[[_Standards/WikiData/WD~zionist,12718299]]'
+- '[[_Standards/WikiData/WD~Jewish_political_movements,4173144|WD~Jewish_political_movements,4173144]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Zionism,12270032|WD~Template_Zionism,12270032]]'
+practiced_by: '[[_Standards/WikiData/WD~zionist,12718299|WD~zionist,12718299]]'
 has_goal:
-- '[[_Standards/WikiData/WD~homeland_for_the_Jewish_people,15220693]]'
-- '[[_Standards/WikiData/WD~colonialism,7167]]'
+- '[[_Standards/WikiData/WD~homeland_for_the_Jewish_people,15220693|WD~homeland_for_the_Jewish_people,15220693]]'
+- '[[_Standards/WikiData/WD~colonialism,7167|WD~colonialism,7167]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
-- '[[_Standards/WikiData/WD~Central_Europe,27509]]'
-significant_person: '[[_Standards/WikiData/WD~Theodor_Herzl,44003]]'
+- '[[_Standards/WikiData/WD~Eastern_Europe,27468|WD~Eastern_Europe,27468]]'
+- '[[_Standards/WikiData/WD~Central_Europe,27509|WD~Central_Europe,27509]]'
+significant_person: '[[_Standards/WikiData/WD~Theodor_Herzl,44003|WD~Theodor_Herzl,44003]]'
 U_S_National_Archives_Identifier:
 - 10638149
 - 10642356

@@ -70,25 +70,25 @@ aliases:
 - 왕자
 has_id_wikidata: Q2747456
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~Tsarevich,147925]]'
-- '[[_Standards/WikiData/WD~princess,863048]]'
-- '[[_Standards/WikiData/WD~son_of_sovereign,11572959]]'
+- '[[_Standards/WikiData/WD~Tsarevich,147925|WD~Tsarevich,147925]]'
+- '[[_Standards/WikiData/WD~princess,863048|WD~princess,863048]]'
+- '[[_Standards/WikiData/WD~son_of_sovereign,11572959|WD~son_of_sovereign,11572959]]'
 different_from:
-- '[[_Standards/WikiData/WD~knyaz,273613]]'
-- '[[_Standards/WikiData/WD~Fürst,18244]]'
+- '[[_Standards/WikiData/WD~knyaz,273613|WD~knyaz,273613]]'
+- '[[_Standards/WikiData/WD~Fürst,18244|WD~Fürst,18244]]'
 instance_of:
-- '[[_Standards/WikiData/WD~noble_title,355567]]'
-- '[[_Standards/WikiData/WD~title_of_honor,3320743]]'
+- '[[_Standards/WikiData/WD~noble_title,355567|WD~noble_title,355567]]'
+- '[[_Standards/WikiData/WD~title_of_honor,3320743|WD~title_of_honor,3320743]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-subclass_of: '[[_Standards/WikiData/WD~aristocrat,2478141]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+subclass_of: '[[_Standards/WikiData/WD~aristocrat,2478141|WD~aristocrat,2478141]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~royal_prince,3403409]]'
-- '[[_Standards/WikiData/WD~imperial_prince,28495701]]'
-honorific_prefix: '[[_Standards/WikiData/WD~Prince,128938649]]'
+- '[[_Standards/WikiData/WD~royal_prince,3403409|WD~royal_prince,3403409]]'
+- '[[_Standards/WikiData/WD~imperial_prince,28495701|WD~imperial_prince,28495701]]'
+honorific_prefix: '[[_Standards/WikiData/WD~Prince,128938649|WD~Prince,128938649]]'
 OmegaWiki_Defined_Meaning: 5814
 female_form_of_label:
 - princess

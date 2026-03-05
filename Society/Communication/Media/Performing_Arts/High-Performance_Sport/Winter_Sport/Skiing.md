@@ -82,24 +82,24 @@ aliases:
 - 스키
 has_id_wikidata: Q130949
 uses:
-- '[[_Standards/WikiData/WD~ski,172226]]'
-- '[[_Standards/WikiData/WD~ski_pole,2292640]]'
-- '[[_Standards/WikiData/WD~sliding,3108904]]'
+- '[[_Standards/WikiData/WD~ski,172226|WD~ski,172226]]'
+- '[[_Standards/WikiData/WD~ski_pole,2292640|WD~ski_pole,2292640]]'
+- '[[_Standards/WikiData/WD~sliding,3108904|WD~sliding,3108904]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~winter_sport,204686]]'
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~recreational_sport,484937]]'
-- '[[_Standards/WikiData/WD~skiing,12375604]]'
-practiced_by: '[[_Standards/WikiData/WD~skier,4270517]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Skiing,19754799]]'
+- '[[_Standards/WikiData/WD~winter_sport,204686|WD~winter_sport,204686]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~recreational_sport,484937|WD~recreational_sport,484937]]'
+- '[[_Standards/WikiData/WD~skiing,12375604|WD~skiing,12375604]]'
+practiced_by: '[[_Standards/WikiData/WD~skier,4270517|WD~skier,4270517]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Skiing,19754799|WD~Portal_Skiing,19754799]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117749094,117749094]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117749094,117749094|WD~Q117749094,117749094]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
 IAB_code: 531
 OmegaWiki_Defined_Meaning: 3429
 OpenStreetMap_key: ski

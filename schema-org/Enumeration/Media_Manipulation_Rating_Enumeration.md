@@ -27,7 +27,7 @@ title: is_a_media_manipulation_rating_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration|Media_Manipulation_Rating_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.public|Media_Manipulation_Rating_Enumeration.public]]"
@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.secret|Media_Manipulation_Rating_Enumeration.secret]]"
     - "[[Media_Manipulation_Rating_Enumeration]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Media_Manipulation_Rating_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.public|Media_Manipulation_Rating_Enumeration.public]]"
@@ -56,12 +56,12 @@ Tag Instances like this:
 
 is_part_of = `=this.dv_is_part_of` 
 
-Codes for use with the [[../Relation/has/has_media/has_media_authenticity_category]] property,
+Codes for use with the [[../Relation/has/has_media/has_media_authenticity_category|has_media_authenticity_category]] property,
 indicating the authenticity of a media object (in the context of how it was published or shared).
 
 In general, these codes are not mutually exclusive,
 although some combinations (such as 'original' versus 'transformed', 'edited' and 'staged') would be contradictory
-if applied in the same [[../../../../../Society/Communication/Media/Creative_Work/Review/Media_Review]]. 
+if applied in the same [[../../../../../Society/Communication/Media/Creative_Work/Review/Media_Review|Media_Review]]. 
 
 Note that the application of these codes is with regard to a piece of media shared or published in a particular context.
 

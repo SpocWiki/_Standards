@@ -144,13 +144,13 @@ aliases:
 - ꠘꠤꠎꠘꠣꠝ
 - 명사
 has_id_wikidata: Q1084
-instance_of: '[[_Standards/WikiData/WD~part_of_speech,82042]]'
+instance_of: '[[_Standards/WikiData/WD~part_of_speech,82042|WD~part_of_speech,82042]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~name,82799]]'
-- '[[_Standards/WikiData/WD~nominal_locution,29888377]]'
-represents: '[[_Standards/WikiData/WD~substance,378078]]'
-part_of: '[[_Standards/WikiData/WD~noun_phrase,1401131]]'
-has_characteristic: '[[_Standards/WikiData/WD~countability,107063735]]'
+- '[[_Standards/WikiData/WD~name,82799|WD~name,82799]]'
+- '[[_Standards/WikiData/WD~nominal_locution,29888377|WD~nominal_locution,29888377]]'
+represents: '[[_Standards/WikiData/WD~substance,378078|WD~substance,378078]]'
+part_of: '[[_Standards/WikiData/WD~noun_phrase,1401131|WD~noun_phrase,1401131]]'
+has_characteristic: '[[_Standards/WikiData/WD~countability,107063735|WD~countability,107063735]]'
 entry_in_abbreviations_table:
 - s
 - n

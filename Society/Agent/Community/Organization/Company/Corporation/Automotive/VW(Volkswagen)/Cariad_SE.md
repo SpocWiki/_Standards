@@ -19,7 +19,7 @@
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Cariad) 
 
-2024 wurde vom [[../../IT~Company/CCC(Chaos_Computer_Club)]] eine ungesicherte Datensammlung von Telemetriedaten auf AWS Servern gefunden. 
+2024 wurde vom [[../../IT~Company/CCC(Chaos_Computer_Club)|CCC(Chaos_Computer_Club)]] eine ungesicherte Datensammlung von Telemetriedaten auf AWS Servern gefunden. 
 
 
 ## Confidential Links & Embeds: 

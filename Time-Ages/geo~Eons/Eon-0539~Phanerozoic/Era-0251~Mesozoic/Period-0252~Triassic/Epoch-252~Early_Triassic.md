@@ -38,13 +38,13 @@ aliases:
 ischart: LowerTriassic
 has_id_wikidata: Q1075885
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Triassic,21568731]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q117281940,117281940]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Triassic,21568731|WD~Category_Early_Triassic,21568731]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q117281940,117281940|WD~Q117281940,117281940]]'
 start_time: -252170000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Q201,201]]'
+named_after: '[[_Standards/WikiData/WD~Q201,201|WD~Q201,201]]'
 end_time: -247200000-01-01T00:00:00Z
 sRGB_color_hex_triplet: AD579A
 Dewey_Decimal_Classification: 551.762
@@ -165,7 +165,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 251.902 to 247.2 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-250_Ma_(Olenekian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-250_Ma_(Olenekian_Age).png|Earth-250_Ma_(Olenekian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

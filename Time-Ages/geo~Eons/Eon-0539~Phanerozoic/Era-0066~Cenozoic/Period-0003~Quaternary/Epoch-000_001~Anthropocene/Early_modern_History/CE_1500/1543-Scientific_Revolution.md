@@ -77,15 +77,15 @@ aliases:
 has_id_wikidata: Q214078
 Commons_category: Scientific revolution
 end_time: 1687-06
-facet_of: '[[_Standards/WikiData/WD~innovation,174165]]'
+facet_of: '[[_Standards/WikiData/WD~innovation,174165|WD~innovation,174165]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bertini%20fresco%20of%20Galileo%20Galilei%20and%20Doge%20of%20Venice.jpg
-instance_of: '[[_Standards/WikiData/WD~era,6428674]]'
-location: '[[_Standards/WikiData/WD~Europe,46]]'
+instance_of: '[[_Standards/WikiData/WD~era,6428674|WD~era,6428674]]'
+location: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Scientific%20Revolution%20%28spoken%20by%20AI%20voice%29.mp3
 start_time: 1543-06
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Scientific_Revolution,214078]]'
+  - '[[../../../../../../../../WikiData/WD~Scientific_Revolution,214078|WD~Scientific_Revolution,214078]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1543-Scientific_Revolution|1543-Scientific_Revolution]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1543-Scientific_Revolution.public|1543-Scientific_Revolution.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1543-Scientific_Revolution.internal|1543-Scientific_Revolution.internal]]'
@@ -184,7 +184,7 @@ dv_has_:
     started: 1543-06-01T00:00:00.000+00:53
     stopped: 1687-06-01T00:00:00.000+00:53
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Scientific_Revolution,214078]]'
+- '[[../../../../../../../../WikiData/WD~Scientific_Revolution,214078|WD~Scientific_Revolution,214078]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1543-Scientific_Revolution|1543-Scientific_Revolution]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1543-Scientific_Revolution.public|1543-Scientific_Revolution.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1543-Scientific_Revolution.internal|1543-Scientific_Revolution.internal]]'
@@ -198,7 +198,7 @@ dv_has_time_stopped: 1687-06-01T00:00:00.000+00:53
 
 # [[1543-Scientific_Revolution]]  
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Scientific_Revolution,214078]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Scientific_Revolution,214078|WD~Scientific_Revolution,214078]] 
 #has_/time_/started :: `=this.start_time` 
 #has_/time_/stopped :: `=this.end_time` 
 
@@ -209,7 +209,7 @@ dv_has_time_stopped: 1687-06-01T00:00:00.000+00:53
 > (including human anatomy) and chemistry transformed the views of society about nature. 
 > 
 > The Scientific Revolution took place in Europe in the second half of the Renaissance period, 
-> with the 1543 [[../../../../../../../../Science/Polymath/Copernicus,Nicolaus]] publication De revolutionibus orbium coelestium 
+> with the 1543 [[../../../../../../../../Science/Polymath/Copernicus,Nicolaus|Copernicus,Nicolaus]] publication De revolutionibus orbium coelestium 
 > (On the Revolutions of the Heavenly Spheres) often cited as its beginning. 
 > 
 > The Scientific Revolution has been called "the most important transformation in human history" 

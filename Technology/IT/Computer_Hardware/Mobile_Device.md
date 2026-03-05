@@ -65,13 +65,13 @@ aliases:
 - 行動裝置
 - 모바일 장치
 has_id_wikidata: Q5082128
-instance_of: '[[_Standards/WikiData/WD~class_of_computers,716676]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_computers,716676|WD~class_of_computers,716676]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~appliance,1183543]]'
-- '[[_Standards/WikiData/WD~battery_powered_device,113446414]]'
-different_from: '[[_Standards/WikiData/WD~mobile_computer,16917685]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~mobile_computer,16917685]]'
-has_characteristic: '[[_Standards/WikiData/WD~portable_object,32914898]]'
+- '[[_Standards/WikiData/WD~appliance,1183543|WD~appliance,1183543]]'
+- '[[_Standards/WikiData/WD~battery_powered_device,113446414|WD~battery_powered_device,113446414]]'
+different_from: '[[_Standards/WikiData/WD~mobile_computer,16917685|WD~mobile_computer,16917685]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~mobile_computer,16917685|WD~mobile_computer,16917685]]'
+has_characteristic: '[[_Standards/WikiData/WD~portable_object,32914898|WD~portable_object,32914898]]'
 GitHub_topic: mobile
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Smartwatch%20%26%20Smartphone.jpg
 Commons_category: Handheld devices

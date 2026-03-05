@@ -35,8 +35,8 @@ title: is_a_{{label_snail}} Class
 type: Type
 dv_is_:
   part_of: "{{isPartOf}}"
-  parent_class: "[[../{{subTypeOf}}]]"
-  enum_of: "[[../{{enumerationtype}}]]"
+  parent_class: "[[../{{subTypeOf}}|{{subTypeOf}}]]"
+  enum_of: "[[../{{enumerationtype}}|{{enumerationtype}}]]"
   same_as:
     - "[[/_Standards/schema-org/Class/_a_Type-Template|_a_Type-Template]]"
     - "[[/_public/schema-org/Class/_a_Type-Template.public|_a_Type-Template.public]]"
@@ -50,8 +50,8 @@ dv_has_:
   child_class: "[ {{subTypes}} ]"
   properties: "[ {{properties}} ]"
 dv_is_part_of: "{{isPartOf}}"
-dv_has_parent_class: "[[../{{subTypeOf}}]]"
-dv_is_enum_of: "[[../{{enumerationtype}}]]"
+dv_has_parent_class: "[[../{{subTypeOf}}|{{subTypeOf}}]]"
+dv_is_enum_of: "[[../{{enumerationtype}}|{{enumerationtype}}]]"
 dv_has_child_class: "[ {{subTypes}} ]"
 dv_has_properties: "[ {{properties}} ]"
 dv_is_same_as:

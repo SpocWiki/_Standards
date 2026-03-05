@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 144.75
 dv_has_place_latitude: 13.47917
 dv_has_name: Hagåtña
-dv_has_place_country: "[[../../../../../Oceania/Guam]]"
+dv_has_place_country: "[[../../../../../Oceania/Guam|Guam]]"
 dv_Unknown: 32
 dv_is_:
   same_as:

@@ -78,27 +78,27 @@ aliases:
 - 장군
 has_id_wikidata: Q83460
 next_higher_rank:
-- '[[_Standards/WikiData/WD~marshal,111837]]'
-- '[[_Standards/WikiData/WD~field_marshal,7821620]]'
-- '[[_Standards/WikiData/WD~general_of_the_army,15730331]]'
-next_lower_rank: '[[_Standards/WikiData/WD~lieutenant_general,152951]]'
-subclass_of: '[[_Standards/WikiData/WD~military_officer,189290]]'
+- '[[_Standards/WikiData/WD~marshal,111837|WD~marshal,111837]]'
+- '[[_Standards/WikiData/WD~field_marshal,7821620|WD~field_marshal,7821620]]'
+- '[[_Standards/WikiData/WD~general_of_the_army,15730331|WD~general_of_the_army,15730331]]'
+next_lower_rank: '[[_Standards/WikiData/WD~lieutenant_general,152951|WD~lieutenant_general,152951]]'
+subclass_of: '[[_Standards/WikiData/WD~military_officer,189290|WD~military_officer,189290]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-different_from: '[[_Standards/WikiData/WD~general,2608441]]'
-NATO_code_for_grade: '[[_Standards/WikiData/WD~OF_9,18536832]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~rav_aluf,23758088]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59522138,59522138]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q98645736,98645736]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+different_from: '[[_Standards/WikiData/WD~general,2608441|WD~general,2608441]]'
+NATO_code_for_grade: '[[_Standards/WikiData/WD~OF_9,18536832|WD~OF_9,18536832]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~rav_aluf,23758088|WD~rav_aluf,23758088]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59522138,59522138|WD~Q59522138,59522138]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q98645736,98645736|WD~Q98645736,98645736]]'
 inception: 1300-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~military_rank,56019]]'
+instance_of: '[[_Standards/WikiData/WD~military_rank,56019|WD~military_rank,56019]]'
 OmegaWiki_Defined_Meaning: 444924
 female_form_of_label:
 - גנרלית

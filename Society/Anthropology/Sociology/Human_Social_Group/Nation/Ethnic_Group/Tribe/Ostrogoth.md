@@ -58,15 +58,15 @@ aliases:
 - 동고트족
 - "\U00010330\U0001033F\U00010343\U00010344\U00010342\U00010330\U00010332\U0001033F\U00010344\U00010330"
 has_id_wikidata: Q103122
-subclass_of: '[[_Standards/WikiData/WD~tribe,133311]]'
+subclass_of: '[[_Standards/WikiData/WD~tribe,133311|WD~tribe,133311]]'
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-has_part_s_: '[[_Standards/WikiData/WD~Greuthungi,1400317]]'
-instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+has_part_s_: '[[_Standards/WikiData/WD~Greuthungi,1400317|WD~Greuthungi,1400317]]'
+instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501|WD~historical_ethnic_group,4204501]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mausoleum%20of%20Theodoric%20%28Ravenna%29%20-%20Exterior.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ostrogothic%20Kingdom.svg
 Krugosvet_article_archived_: istoriya/OSTGOTI.html

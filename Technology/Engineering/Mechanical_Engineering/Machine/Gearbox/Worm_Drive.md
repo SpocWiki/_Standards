@@ -41,8 +41,8 @@ aliases:
 - 蝸輪
 - 웜 드라이브
 has_id_wikidata: Q12529
-subclass_of: '[[_Standards/WikiData/WD~gearbox,6497460]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~gearbox,6497460|WD~gearbox,6497460]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schnecke10.gif
 Commons_category: Worm gears
 dv_has_:

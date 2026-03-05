@@ -28,10 +28,10 @@ aliases:
 - 迴轉
 - 迴轉滑雪
 has_id_wikidata: Q4117409
-sport: '[[_Standards/WikiData/WD~alpine_skiing,186222]]'
-subclass_of: '[[_Standards/WikiData/WD~alpine_skiing,186222]]'
-instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+sport: '[[_Standards/WikiData/WD~alpine_skiing,186222|WD~alpine_skiing,186222]]'
+subclass_of: '[[_Standards/WikiData/WD~alpine_skiing,186222|WD~alpine_skiing,186222]]'
+instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410|WD~sports_discipline,2312410]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tonje%20Sekse%20Norway%202011%20Slalom.jpg
 Commons_category: Slalom skiing
 dv_has_:

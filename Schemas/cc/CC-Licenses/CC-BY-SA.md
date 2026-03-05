@@ -30,9 +30,9 @@ type: ''
 
 Tags: #IT #URL 
 
-Media License by the [[../CC-Licenses]] . 
+Media License by the [[../CC-Licenses|CC-Licenses]] . 
 Used by: 
-- [[../../../Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia]]
+- [[../../../Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia|Wikipedia]]
 - [[SpocWiki]] 
 
 Several perceived obstacles of this License proved to be beneficial in data sanity: 

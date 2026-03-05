@@ -67,10 +67,10 @@ aliases:
 - 軍事戰略
 - 군사 전략
 has_id_wikidata: Q219087
-subclass_of: '[[_Standards/WikiData/WD~strategy,185451]]'
-is_part_of: '[[_Standards/WikiData/WD~military_art,2560087]]'
-instance_of: '[[_Standards/WikiData/WD~military_term,66740226]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+subclass_of: '[[_Standards/WikiData/WD~strategy,185451|WD~strategy,185451]]'
+is_part_of: '[[_Standards/WikiData/WD~military_art,2560087|WD~military_art,2560087]]'
+instance_of: '[[_Standards/WikiData/WD~military_term,66740226|WD~military_term,66740226]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 Provenio_UUID: 6ed2b551-86d7-4e1d-8982-963d0efe325e
 UNSPSC_Code: 92111705
 dv_has_:

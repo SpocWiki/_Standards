@@ -44,14 +44,14 @@ aliases:
 - 라켓
 has_id_wikidata: Q240502
 subclass_of:
-- '[[_Standards/WikiData/WD~sports_equipment,768186]]'
-- '[[_Standards/WikiData/WD~bat,12047696]]'
+- '[[_Standards/WikiData/WD~sports_equipment,768186|WD~sports_equipment,768186]]'
+- '[[_Standards/WikiData/WD~bat,12047696|WD~bat,12047696]]'
 sport:
-- '[[_Standards/WikiData/WD~racket_sport,2426135]]'
-- '[[_Standards/WikiData/WD~tennis,847]]'
-- '[[_Standards/WikiData/WD~badminton,7291]]'
-has_use: '[[_Standards/WikiData/WD~racket_sport,2426135]]'
-instance_of: '[[_Standards/WikiData/WD~sports_terminology,28829877]]'
+- '[[_Standards/WikiData/WD~racket_sport,2426135|WD~racket_sport,2426135]]'
+- '[[_Standards/WikiData/WD~tennis,847|WD~tennis,847]]'
+- '[[_Standards/WikiData/WD~badminton,7291|WD~badminton,7291]]'
+has_use: '[[_Standards/WikiData/WD~racket_sport,2426135|WD~racket_sport,2426135]]'
+instance_of: '[[_Standards/WikiData/WD~sports_terminology,28829877|WD~sports_terminology,28829877]]'
 GS1_GPC_code: 10001776
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Tennis%20Racket%20and%20Balls.jpg

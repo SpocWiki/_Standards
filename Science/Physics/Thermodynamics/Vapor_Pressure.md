@@ -63,13 +63,13 @@ aliases:
 - 증기압
 has_id_wikidata: Q2661322
 subclass_of:
-- '[[_Standards/WikiData/WD~chemical_quantity,71550700]]'
-- '[[_Standards/WikiData/WD~pressure,39552]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~chemical_quantity,71550700|WD~chemical_quantity,71550700]]'
+- '[[_Standards/WikiData/WD~pressure,39552|WD~pressure,39552]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>p</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">v</mi></mrow></mrow></msub></mstyle></mrow></math>
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 main_Wikidata_property: vapor pressure
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB%20%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0%20%D1%81%D0%BE%20%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vapor%20pressure.svg
 UMLS_CUI: C0563290

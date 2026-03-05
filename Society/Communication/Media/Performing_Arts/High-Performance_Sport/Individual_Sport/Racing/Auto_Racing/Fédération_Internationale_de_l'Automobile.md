@@ -50,22 +50,22 @@ aliases:
 - 국제 자동차 연맹
 has_id_wikidata: Q179412
 member_of:
-- '[[_Standards/WikiData/WD~Euro_NCAP,223400]]'
-- '[[_Standards/WikiData/WD~Association_of_IOC_Recognised_International_Sports_Federations,744105]]'
-- '[[_Standards/WikiData/WD~Global_Association_of_International_Sports_Federations,1067053]]'
-chairperson: '[[_Standards/WikiData/WD~Mohammed_bin_Sulayem,840815]]'
+- '[[_Standards/WikiData/WD~Euro_NCAP,223400|WD~Euro_NCAP,223400]]'
+- '[[_Standards/WikiData/WD~Association_of_IOC_Recognised_International_Sports_Federations,744105|WD~Association_of_IOC_Recognised_International_Sports_Federations,744105]]'
+- '[[_Standards/WikiData/WD~Global_Association_of_International_Sports_Federations,1067053|WD~Global_Association_of_International_Sports_Federations,1067053]]'
+chairperson: '[[_Standards/WikiData/WD~Mohammed_bin_Sulayem,840815|WD~Mohammed_bin_Sulayem,840815]]'
 instance_of:
-- '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-legal_form: '[[_Standards/WikiData/WD~declared_association,111166550]]'
-industry: '[[_Standards/WikiData/WD~other_voluntary_membership_organizations_(France),112166193]]'
+- '[[_Standards/WikiData/WD~international_sport_governing_body,11422536|WD~international_sport_governing_body,11422536]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+legal_form: '[[_Standards/WikiData/WD~declared_association,111166550|WD~declared_association,111166550]]'
+industry: '[[_Standards/WikiData/WD~other_voluntary_membership_organizations_(France),112166193|WD~other_voluntary_membership_organizations_(France),112166193]]'
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-sport: '[[_Standards/WikiData/WD~auto_racing,5386]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Paris,90]]'
-country: '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+sport: '[[_Standards/WikiData/WD~auto_racing,5386|WD~auto_racing,5386]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 social_media_followers:
 - 222000
 - 1176842

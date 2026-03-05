@@ -93,9 +93,9 @@ aliases:
 - 戰鬥機
 - 전투기
 has_id_wikidata: Q127771
-has_use: '[[_Standards/WikiData/WD~air_combat,18015493]]'
-instance_of: '[[_Standards/WikiData/WD~aircraft_functional_class,20027953]]'
-subclass_of: '[[_Standards/WikiData/WD~combat_airplane,64225484]]'
+has_use: '[[_Standards/WikiData/WD~air_combat,18015493|WD~air_combat,18015493]]'
+instance_of: '[[_Standards/WikiData/WD~aircraft_functional_class,20027953|WD~aircraft_functional_class,20027953]]'
+subclass_of: '[[_Standards/WikiData/WD~combat_airplane,64225484|WD~combat_airplane,64225484]]'
 Nomenclature_for_Museum_Cataloging: 11707
 military_designation:
 - P

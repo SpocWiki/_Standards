@@ -59,12 +59,12 @@ aliases:
 - 饭厅
 - 식당
 has_id_wikidata: Q661199
-subclass_of: '[[_Standards/WikiData/WD~room,180516]]'
+subclass_of: '[[_Standards/WikiData/WD~room,180516|WD~room,180516]]'
 has_use:
-- '[[_Standards/WikiData/WD~eating,213449]]'
-- '[[_Standards/WikiData/WD~meal,6460735]]'
-part_of: '[[_Standards/WikiData/WD~residential_building,11755880]]'
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~eating,213449|WD~eating,213449]]'
+- '[[_Standards/WikiData/WD~meal,6460735|WD~meal,6460735]]'
+part_of: '[[_Standards/WikiData/WD~residential_building,11755880|WD~residential_building,11755880]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 OmegaWiki_Defined_Meaning: 1057664
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Heiligengrabe%2C%20Kloster%20Stift%20zum%20Heiligengrabe%2C%20Abtei%2C%20Speiseraum%20--%202017%20--%207082-8.jpg

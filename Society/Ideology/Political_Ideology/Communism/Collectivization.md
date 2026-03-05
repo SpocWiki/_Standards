@@ -34,8 +34,8 @@ aliases:
 - 集団化
 - 集體化
 has_id_wikidata: Q26844385
-subclass_of: '[[_Standards/WikiData/WD~process,3249551]]'
-facet_of: '[[_Standards/WikiData/WD~collective_farming,4314084]]'
+subclass_of: '[[_Standards/WikiData/WD~process,3249551|WD~process,3249551]]'
+facet_of: '[[_Standards/WikiData/WD~collective_farming,4314084|WD~collective_farming,4314084]]'
 Commons_category: Collectivization
 dv_has_:
   name_:

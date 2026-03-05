@@ -21,8 +21,8 @@ dv_has_provider:
   - "[[../../../Society/Agent/Person|Person]]"
 dv_is_:
   similar_to:
-    - "[[../../Property/Texts/has_dependencies]]"
-    - "[[../../Property/Texts/has_server]]"
+    - "[[../../Property/Texts/has_dependencies|has_dependencies]]"
+    - "[[../../Property/Texts/has_server|has_server]]"
   same_as:
     - "[[has_provider]]"
     - "[[/_public/schema-org/Relation/has/has_provider.public|has_provider.public]]"
@@ -32,8 +32,8 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_provider.personal|has_provider.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_provider.secret|has_provider.secret]]"
 dv_is_similar_to:
-  - "[[../../Property/Texts/has_dependencies]]"
-  - "[[../../Property/Texts/has_server]]"
+  - "[[../../Property/Texts/has_dependencies|has_dependencies]]"
+  - "[[../../Property/Texts/has_server|has_server]]"
 dv_has_domain:
   - "[[../../Class/is_a_/Action|Action]]"
   - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"

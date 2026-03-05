@@ -75,22 +75,22 @@ aliases:
 - 페리
 has_id_wikidata: Q25653
 subclass_of:
-- '[[_Standards/WikiData/WD~merchant_vessel,848944]]'
-- '[[_Standards/WikiData/WD~ship,11446]]'
+- '[[_Standards/WikiData/WD~merchant_vessel,848944|WD~merchant_vessel,848944]]'
+- '[[_Standards/WikiData/WD~ship,11446|WD~ship,11446]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 uses:
-- '[[_Standards/WikiData/WD~ferry_port,1478783]]'
-- '[[_Standards/WikiData/WD~ferry_route,18984099]]'
-instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
+- '[[_Standards/WikiData/WD~ferry_port,1478783|WD~ferry_port,1478783]]'
+- '[[_Standards/WikiData/WD~ferry_route,18984099|WD~ferry_route,18984099]]'
+instance_of: '[[_Standards/WikiData/WD~ship_type,2235308|WD~ship_type,2235308]]'
 different_from:
-- '[[_Standards/WikiData/WD~ferry_route,18984099]]'
-- '[[_Standards/WikiData/WD~Ligne_du_ferry_boat,21175554]]'
-- '[[_Standards/WikiData/WD~Fähre,32498174]]'
-- '[[_Standards/WikiData/WD~ferry_shipping,57499114]]'
+- '[[_Standards/WikiData/WD~ferry_route,18984099|WD~ferry_route,18984099]]'
+- '[[_Standards/WikiData/WD~Ligne_du_ferry_boat,21175554|WD~Ligne_du_ferry_boat,21175554]]'
+- '[[_Standards/WikiData/WD~Fähre,32498174|WD~Fähre,32498174]]'
+- '[[_Standards/WikiData/WD~ferry_shipping,57499114|WD~ferry_shipping,57499114]]'
 Dewey_Decimal_Classification: 386
 Nomenclature_for_Museum_Cataloging: 12747
 Commons_gallery: Ferry

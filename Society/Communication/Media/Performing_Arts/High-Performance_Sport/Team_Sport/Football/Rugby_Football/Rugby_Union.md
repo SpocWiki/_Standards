@@ -64,25 +64,25 @@ aliases:
 - 聯合式欖球
 - 럭비 유니언
 has_id_wikidata: Q5849
-country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-instance_of: '[[_Standards/WikiData/WD~team_sport,216048]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193|WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+instance_of: '[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]'
 different_from:
-- '[[_Standards/WikiData/WD~Rugby,227861]]'
-- '[[_Standards/WikiData/WD~football,1081491]]'
-- '[[_Standards/WikiData/WD~rugby_league,10962]]'
-authority: '[[_Standards/WikiData/WD~World_Rugby,369225]]'
+- '[[_Standards/WikiData/WD~Rugby,227861|WD~Rugby,227861]]'
+- '[[_Standards/WikiData/WD~football,1081491|WD~football,1081491]]'
+- '[[_Standards/WikiData/WD~rugby_league,10962|WD~rugby_league,10962]]'
+authority: '[[_Standards/WikiData/WD~World_Rugby,369225|WD~World_Rugby,369225]]'
 uses:
-- '[[_Standards/WikiData/WD~rugby_union_ball,909196]]'
-- '[[_Standards/WikiData/WD~rugby_union_field,13054561]]'
+- '[[_Standards/WikiData/WD~rugby_union_ball,909196|WD~rugby_union_ball,909196]]'
+- '[[_Standards/WikiData/WD~rugby_union_field,13054561|WD~rugby_union_field,13054561]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~rugby_union_player,14089670]]'
-- '[[_Standards/WikiData/WD~rugby_union_coach,15041977]]'
-- '[[_Standards/WikiData/WD~rugby_union_executive,56117770]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Rugby_union,17644530]]'
-subclass_of: '[[_Standards/WikiData/WD~rugby,5378]]'
+- '[[_Standards/WikiData/WD~rugby_union_player,14089670|WD~rugby_union_player,14089670]]'
+- '[[_Standards/WikiData/WD~rugby_union_coach,15041977|WD~rugby_union_coach,15041977]]'
+- '[[_Standards/WikiData/WD~rugby_union_executive,56117770|WD~rugby_union_executive,56117770]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Rugby_union,17644530|WD~Portal_Rugby_union,17644530]]'
+subclass_of: '[[_Standards/WikiData/WD~rugby,5378|WD~rugby,5378]]'
 IAB_code: 529
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Rugby%20union%20pictogram.svg
 time_of_discovery_or_invention: 1823-01-01T00:00:00Z

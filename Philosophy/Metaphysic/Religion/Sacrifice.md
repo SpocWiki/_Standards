@@ -73,27 +73,27 @@ aliases:
 - 제물
 has_id_wikidata: Q179723
 uses:
-- '[[_Standards/WikiData/WD~frankincense,173486]]'
-- '[[_Standards/WikiData/WD~incense,273131]]'
-- '[[_Standards/WikiData/WD~First_Fruits,1362381]]'
-- '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~frankincense,173486|WD~frankincense,173486]]'
+- '[[_Standards/WikiData/WD~incense,273131|WD~incense,273131]]'
+- '[[_Standards/WikiData/WD~First_Fruits,1362381|WD~First_Fruits,1362381]]'
+- '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 different_from:
-- '[[_Standards/WikiData/WD~Sacrifice,294124]]'
-- '[[_Standards/WikiData/WD~victim,1851760]]'
-- '[[_Standards/WikiData/WD~Q65424978,65424978]]'
+- '[[_Standards/WikiData/WD~Sacrifice,294124|WD~Sacrifice,294124]]'
+- '[[_Standards/WikiData/WD~victim,1851760|WD~victim,1851760]]'
+- '[[_Standards/WikiData/WD~Q65424978,65424978|WD~Q65424978,65424978]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~rite,628455]]'
-- '[[_Standards/WikiData/WD~sacrifice,64534006]]'
+- '[[_Standards/WikiData/WD~rite,628455|WD~rite,628455]]'
+- '[[_Standards/WikiData/WD~sacrifice,64534006|WD~sacrifice,64534006]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-has_part_s_: '[[_Standards/WikiData/WD~qurban,2422754]]'
-facet_of: '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+has_part_s_: '[[_Standards/WikiData/WD~qurban,2422754|WD~qurban,2422754]]'
+facet_of: '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
 Commons_category: Sacrifice
 IMDb_keyword: sacrifice
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Magliabechiano%20%28141%20cropped%29.jpg

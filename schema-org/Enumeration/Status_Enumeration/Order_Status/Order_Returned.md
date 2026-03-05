@@ -27,9 +27,9 @@ tags:
 title: is_an_order_returned Class
 type: Type
 dv_has_:
-  parent_class: "[[../OrderStatus]]"
+  parent_class: "[[../OrderStatus|OrderStatus]]"
 dv_is_:
-  enum_of: "[[../OrderStatus]]"
+  enum_of: "[[../OrderStatus|OrderStatus]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned|Order_Returned]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.public|Order_Returned.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.personal|Order_Returned.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.secret|Order_Returned.secret]]"
     - "[[Order_Returned]]"
-dv_has_parent_class: "[[../OrderStatus]]"
-dv_is_enum_of: "[[../OrderStatus]]"
+dv_has_parent_class: "[[../OrderStatus|OrderStatus]]"
+dv_is_enum_of: "[[../OrderStatus|OrderStatus]]"
 dv_is_same_as:
   - "[[Order_Returned]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.public|Order_Returned.public]]"

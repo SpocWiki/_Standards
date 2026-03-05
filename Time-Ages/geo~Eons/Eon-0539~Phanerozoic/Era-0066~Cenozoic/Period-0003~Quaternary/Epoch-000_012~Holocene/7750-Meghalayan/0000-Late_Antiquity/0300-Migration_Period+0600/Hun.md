@@ -75,19 +75,19 @@ aliases:
 - "\U00010337\U0001033F\U0001033D\U0001033D\U00010334\U00010339\U00010343"
 has_id_wikidata: Q45813
 described_by_source:
-- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Tengrism,837605]]'
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Tengrism,837605|WD~Tengrism,837605]]'
 instance_of:
-- '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
-- '[[_Standards/WikiData/WD~extinct_human_group,55208590]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202729,13202729]]'
-native_language: '[[_Standards/WikiData/WD~Hunnic,35959]]'
+- '[[_Standards/WikiData/WD~historical_ethnic_group,4204501|WD~historical_ethnic_group,4204501]]'
+- '[[_Standards/WikiData/WD~extinct_human_group,55208590|WD~extinct_human_group,55208590]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202729,13202729|WD~Q13202729,13202729]]'
+native_language: '[[_Standards/WikiData/WD~Hunnic,35959|WD~Hunnic,35959]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Huns%20empire.png
 Commons_gallery: Huns
 Commons_category: Huns
@@ -97,7 +97,7 @@ Libris_URI: khwz2nw3524xkh6
 OpenStreetMap_tag: historic:civilization=hun
 dv_is_:
   same_as:
-  - '[[../../../../../../../../../WikiData/WD~Huns,45813]]'
+  - '[[../../../../../../../../../WikiData/WD~Huns,45813|WD~Huns,45813]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun|Hun]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.public|Hun.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.internal|Hun.internal]]'
@@ -106,7 +106,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.personal|Hun.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.secret|Hun.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../../WikiData/WD~Huns,45813]]'
+- '[[../../../../../../../../../WikiData/WD~Huns,45813|WD~Huns,45813]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun|Hun]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.public|Hun.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.internal|Hun.internal]]'

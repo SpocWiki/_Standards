@@ -38,19 +38,19 @@ aliases:
 - 미끈한 함수
 has_id_wikidata: Q868473
 subclass_of:
-- '[[_Standards/WikiData/WD~scalar_function_of_scalar_variable,140645]]'
-- '[[_Standards/WikiData/WD~k_times_continuously_differentiable_function,11855366]]'
-- '[[_Standards/WikiData/WD~continuously_differentiable_function,91933113]]'
+- '[[_Standards/WikiData/WD~scalar_function_of_scalar_variable,140645|WD~scalar_function_of_scalar_variable,140645]]'
+- '[[_Standards/WikiData/WD~k_times_continuously_differentiable_function,11855366|WD~k_times_continuously_differentiable_function,11855366]]'
+- '[[_Standards/WikiData/WD~continuously_differentiable_function,91933113|WD~continuously_differentiable_function,91933113]]'
 different_from:
-- '[[_Standards/WikiData/WD~analytic_function,215084]]'
-- '[[_Standards/WikiData/WD~differentiable_function,783507]]'
-- '[[_Standards/WikiData/WD~smooth_morphism,7546425]]'
-- '[[_Standards/WikiData/WD~k_times_continuously_differentiable_function,11855366]]'
-- '[[_Standards/WikiData/WD~continuously_differentiable_function,91933113]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-facet_of: '[[_Standards/WikiData/WD~differentiability_class,2138760]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~analytic_function,215084|WD~analytic_function,215084]]'
+- '[[_Standards/WikiData/WD~differentiable_function,783507|WD~differentiable_function,783507]]'
+- '[[_Standards/WikiData/WD~smooth_morphism,7546425|WD~smooth_morphism,7546425]]'
+- '[[_Standards/WikiData/WD~k_times_continuously_differentiable_function,11855366|WD~k_times_continuously_differentiable_function,11855366]]'
+- '[[_Standards/WikiData/WD~continuously_differentiable_function,91933113|WD~continuously_differentiable_function,91933113]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+facet_of: '[[_Standards/WikiData/WD~differentiability_class,2138760|WD~differentiability_class,2138760]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 dv_has_:
   name_:
     ar: نعومة دالة
@@ -99,7 +99,7 @@ dv_has_:
 
 # [[smooth_Function]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~smooth_function,868473]] 
+#is_/same_as :: [[_Standards/WikiData/WD~smooth_function,868473|WD~smooth_function,868473]] 
 
 ## #has_/text_of_/abstract 
 

@@ -68,13 +68,13 @@ aliases:
   - 욕조
 has_id_wikidata: Q152095
 has_use:
-  - "[[_Standards/WikiData/WD~bathing,327651]]"
-  - "[[_Standards/WikiData/WD~washing,23841]]"
+  - "[[_Standards/WikiData/WD~bathing,327651|WD~bathing,327651]]"
+  - "[[_Standards/WikiData/WD~washing,23841|WD~washing,23841]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_container,987767]]"
-  - "[[_Standards/WikiData/WD~plumbing_fixture,2024731]]"
-described_by_source: "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-different_from: "[[_Standards/WikiData/WD~Wanna,7967993]]"
+  - "[[_Standards/WikiData/WD~physical_container,987767|WD~physical_container,987767]]"
+  - "[[_Standards/WikiData/WD~plumbing_fixture,2024731|WD~plumbing_fixture,2024731]]"
+described_by_source: "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]"
+different_from: "[[_Standards/WikiData/WD~Wanna,7967993|WD~Wanna,7967993]]"
 Nomenclature_for_Museum_Cataloging: 282
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1rm60rt0t%20rtbcwh.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000991

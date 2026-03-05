@@ -114,27 +114,27 @@ aliases:
 - 원주민
 has_id_wikidata: Q103817
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Third_Edition,23705304]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_First_Edition,23705360]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Third_Edition,23705304|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Third_Edition,23705304]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_First_Edition,23705360|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_First_Edition,23705360]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~population_group,851990]]'
-- '[[_Standards/WikiData/WD~people,2472587]]'
-- '[[_Standards/WikiData/WD~minority_group,30103]]'
-- '[[_Standards/WikiData/WD~ethnic_group,41710]]'
-has_list: '[[_Standards/WikiData/WD~list_of_Indigenous_peoples,1457025]]'
-has_characteristic: '[[_Standards/WikiData/WD~indigenous,3239800]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Indigenous_peoples_by_continent,8084216]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~native_peoples,9064330]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~native_peoples,9064330]]'
-studied_by: '[[_Standards/WikiData/WD~indigenous_studies,108352346]]'
+- '[[_Standards/WikiData/WD~population_group,851990|WD~population_group,851990]]'
+- '[[_Standards/WikiData/WD~people,2472587|WD~people,2472587]]'
+- '[[_Standards/WikiData/WD~minority_group,30103|WD~minority_group,30103]]'
+- '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Indigenous_peoples,1457025|WD~list_of_Indigenous_peoples,1457025]]'
+has_characteristic: '[[_Standards/WikiData/WD~indigenous,3239800|WD~indigenous,3239800]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Indigenous_peoples_by_continent,8084216|WD~Template_Indigenous_peoples_by_continent,8084216]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~native_peoples,9064330|WD~native_peoples,9064330]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~native_peoples,9064330|WD~native_peoples,9064330]]'
+studied_by: '[[_Standards/WikiData/WD~indigenous_studies,108352346|WD~indigenous_studies,108352346]]'
 Wikidata_property: indigenous to
 Library_of_Congress_Classification: GN380
 U_S_National_Archives_Identifier: 10675688

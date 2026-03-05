@@ -66,24 +66,24 @@ aliases:
 - 天花板
 - 천장
 has_id_wikidata: Q221706
-opposite_of: '[[_Standards/WikiData/WD~floor,217164]]'
+opposite_of: '[[_Standards/WikiData/WD~floor,217164|WD~floor,217164]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~architectural_element,391414]]'
-- '[[_Standards/WikiData/WD~horizontal_structural_element,30327093]]'
+- '[[_Standards/WikiData/WD~architectural_element,391414|WD~architectural_element,391414]]'
+- '[[_Standards/WikiData/WD~horizontal_structural_element,30327093|WD~horizontal_structural_element,30327093]]'
 different_from:
-- '[[_Standards/WikiData/WD~Plafond,402611]]'
-- '[[_Standards/WikiData/WD~Strop,9346777]]'
-- '[[_Standards/WikiData/WD~Decke,12140815]]'
+- '[[_Standards/WikiData/WD~Plafond,402611|WD~Plafond,402611]]'
+- '[[_Standards/WikiData/WD~Strop,9346777|WD~Strop,9346777]]'
+- '[[_Standards/WikiData/WD~Decke,12140815|WD~Decke,12140815]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-location: '[[_Standards/WikiData/WD~top,30504649]]'
-connects_with: '[[_Standards/WikiData/WD~mawaribuchi,131603329]]'
-facet_of: '[[_Standards/WikiData/WD~building,41176]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+location: '[[_Standards/WikiData/WD~top,30504649|WD~top,30504649]]'
+connects_with: '[[_Standards/WikiData/WD~mawaribuchi,131603329|WD~mawaribuchi,131603329]]'
+facet_of: '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Systeemplafond.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/2043-01470%20Plafond%20van%20de%20Grote%20Tempel.jpg

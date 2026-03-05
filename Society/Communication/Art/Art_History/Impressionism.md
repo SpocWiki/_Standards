@@ -73,26 +73,26 @@ aliases:
 - 印象派
 - 인상주의
 has_id_wikidata: Q40415
-notable_work: '[[_Standards/WikiData/WD~Impression,_Sunrise,328523]]'
-named_after: '[[_Standards/WikiData/WD~Impression,_Sunrise,328523]]'
+notable_work: '[[_Standards/WikiData/WD~Impression,_Sunrise,328523|WD~Impression,_Sunrise,328523]]'
+named_after: '[[_Standards/WikiData/WD~Impression,_Sunrise,328523|WD~Impression,_Sunrise,328523]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~art_genre,1792379]]'
-- '[[_Standards/WikiData/WD~art_style,1792644]]'
-- '[[_Standards/WikiData/WD~painting_movement,3326867]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_genre,1792379|WD~art_genre,1792379]]'
+- '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~painting_movement,3326867|WD~painting_movement,3326867]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Francesco_Filippini,3749980]]'
-- '[[_Standards/WikiData/WD~Claude_Monet,296]]'
-- '[[_Standards/WikiData/WD~Louis_Leroy,50659]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Impressionism,11158784]]'
-different_from: '[[_Standards/WikiData/WD~Q105405929,105405929]]'
+- '[[_Standards/WikiData/WD~Francesco_Filippini,3749980|WD~Francesco_Filippini,3749980]]'
+- '[[_Standards/WikiData/WD~Claude_Monet,296|WD~Claude_Monet,296]]'
+- '[[_Standards/WikiData/WD~Louis_Leroy,50659|WD~Louis_Leroy,50659]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Impressionism,11158784|WD~Template_Impressionism,11158784]]'
+different_from: '[[_Standards/WikiData/WD~Q105405929,105405929|WD~Q105405929,105405929]]'
 inception: 1860-01-01T00:00:00Z
 subject_named_as: Impressionismus
 OmegaWiki_Defined_Meaning: 1184173

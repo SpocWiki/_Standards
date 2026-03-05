@@ -80,18 +80,18 @@ aliases:
 - 고아
 has_id_wikidata: Q193279
 instance_of:
-- '[[_Standards/WikiData/WD~condition,813912]]'
-- '[[_Standards/WikiData/WD~legal_status,2628882]]'
+- '[[_Standards/WikiData/WD~condition,813912|WD~condition,813912]]'
+- '[[_Standards/WikiData/WD~legal_status,2628882|WD~legal_status,2628882]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-has_characteristic: '[[_Standards/WikiData/WD~orphanhood,12152973]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+has_characteristic: '[[_Standards/WikiData/WD~orphanhood,12152973|WD~orphanhood,12152973]]'
 different_from:
-- '[[_Standards/WikiData/WD~rhymeless_verse,19311234]]'
-- '[[_Standards/WikiData/WD~Orphanhood,29533798]]'
-- '[[_Standards/WikiData/WD~Orphan,40308411]]'
-depicted_by: '[[_Standards/WikiData/WD~The_Captains_of_Bigallo_offer_the_Orphans_to_Adopt,131632042]]'
-subclass_of: '[[_Standards/WikiData/WD~child,7569]]'
+- '[[_Standards/WikiData/WD~rhymeless_verse,19311234|WD~rhymeless_verse,19311234]]'
+- '[[_Standards/WikiData/WD~Orphanhood,29533798|WD~Orphanhood,29533798]]'
+- '[[_Standards/WikiData/WD~Orphan,40308411|WD~Orphan,40308411]]'
+depicted_by: '[[_Standards/WikiData/WD~The_Captains_of_Bigallo_offer_the_Orphans_to_Adopt,131632042|WD~The_Captains_of_Bigallo_offer_the_Orphans_to_Adopt,131632042]]'
+subclass_of: '[[_Standards/WikiData/WD~child,7569|WD~child,7569]]'
 Commons_category: Orphans
 IMDb_keyword:
 - orphan

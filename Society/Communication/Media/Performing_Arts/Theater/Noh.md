@@ -36,17 +36,17 @@ aliases:
 - 노
 has_id_wikidata: Q226887
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~performing_arts_genre,45971958]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~performing_arts_genre,45971958|WD~performing_arts_genre,45971958]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~music_of_Japan,257533]]'
-- '[[_Standards/WikiData/WD~nōgaku,1037119]]'
-uses: '[[_Standards/WikiData/WD~noh_mask,11612081]]'
-described_by_source: '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~noh_play,47485959]]'
-different_from: '[[_Standards/WikiData/WD~noh_play,47485959]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q109899946,109899946]]'
-country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~music_of_Japan,257533|WD~music_of_Japan,257533]]'
+- '[[_Standards/WikiData/WD~nōgaku,1037119|WD~nōgaku,1037119]]'
+uses: '[[_Standards/WikiData/WD~noh_mask,11612081|WD~noh_mask,11612081]]'
+described_by_source: '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836|WD~Larousse_Encyclopedia_online,17329836]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~noh_play,47485959|WD~noh_play,47485959]]'
+different_from: '[[_Standards/WikiData/WD~noh_play,47485959|WD~noh_play,47485959]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q109899946,109899946|WD~Q109899946,109899946]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
 native_label: 能
 Commons_category: Nō
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Noh%20Performance%20%28235951661%29.jpeg

@@ -1,10 +1,10 @@
 
 # [[Political_Power]] 
 
-#is_/similar_to :: [[Political_Power/Authority]]
+#is_/similar_to :: [[Political_Power/Authority|Authority]]
 
 Political Power is always given by groups of supporters. 
-It is important to break up Power Accumulation by [[Political_Power/Separation_of_Powers]] 
+It is important to break up Power Accumulation by [[Political_Power/Separation_of_Powers|Separation_of_Powers]] 
 but also to remind each individual Person that 
 they can decide to remove this Support or even go into Opposition. 
 
@@ -27,7 +27,7 @@ which can eventually be used to change Societies and continuate Power Concentrat
 > and discursive forms, as categories and language 
 > may lend legitimacy to some behaviors and groups over others.
 >
-> The term [[Political_Power/Authority]] is often used for power that is perceived as 
+> The term [[Political_Power/Authority|Authority]] is often used for power that is perceived as 
 > legitimate or socially approved by the social structure.
 >
 > Scholars have distinguished between soft power and hard power.

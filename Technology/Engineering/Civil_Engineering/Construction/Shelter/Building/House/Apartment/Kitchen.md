@@ -126,21 +126,21 @@ aliases:
 - 부엌
 has_id_wikidata: Q43164
 used_by:
-- '[[_Standards/WikiData/WD~cook,156839]]'
-- '[[_Standards/WikiData/WD~kitchen_assistant,1796839]]'
-- '[[_Standards/WikiData/WD~pizzaiolo,3389507]]'
-- '[[_Standards/WikiData/WD~dishwasher,30601866]]'
-- '[[_Standards/WikiData/WD~fast_food_worker,109952115]]'
-subclass_of: '[[_Standards/WikiData/WD~room,180516]]'
+- '[[_Standards/WikiData/WD~cook,156839|WD~cook,156839]]'
+- '[[_Standards/WikiData/WD~kitchen_assistant,1796839|WD~kitchen_assistant,1796839]]'
+- '[[_Standards/WikiData/WD~pizzaiolo,3389507|WD~pizzaiolo,3389507]]'
+- '[[_Standards/WikiData/WD~dishwasher,30601866|WD~dishwasher,30601866]]'
+- '[[_Standards/WikiData/WD~fast_food_worker,109952115|WD~fast_food_worker,109952115]]'
+subclass_of: '[[_Standards/WikiData/WD~room,180516|WD~room,180516]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-- '[[_Standards/WikiData/WD~cuisine,1778821]]'
-- '[[_Standards/WikiData/WD~kitchenette,1804676]]'
-- '[[_Standards/WikiData/WD~larder,4899148]]'
-has_use: '[[_Standards/WikiData/WD~storage,9158768]]'
+- '[[_Standards/WikiData/WD~cuisine,1778821|WD~cuisine,1778821]]'
+- '[[_Standards/WikiData/WD~kitchenette,1804676|WD~kitchenette,1804676]]'
+- '[[_Standards/WikiData/WD~larder,4899148|WD~larder,4899148]]'
+has_use: '[[_Standards/WikiData/WD~storage,9158768|WD~storage,9158768]]'
 U_S_National_Archives_Identifier: 10645803
 OmegaWiki_Defined_Meaning: 5903
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kitchenwhitehouse.jpg

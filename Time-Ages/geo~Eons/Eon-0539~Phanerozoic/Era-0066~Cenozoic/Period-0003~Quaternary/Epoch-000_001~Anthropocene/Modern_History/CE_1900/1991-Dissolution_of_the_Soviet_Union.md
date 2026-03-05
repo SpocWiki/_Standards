@@ -86,29 +86,29 @@ aliases:
 - 蘇聯解體
 - 소비에트 연방의 붕괴
 has_id_wikidata: Q5167679
-theorized_by: '[[_Standards/WikiData/WD~Gennady_Yanayev,113173]]'
+theorized_by: '[[_Standards/WikiData/WD~Gennady_Yanayev,113173|WD~Gennady_Yanayev,113173]]'
 has_cause:
-- '[[_Standards/WikiData/WD~Leninism,155059]]'
-- '[[_Standards/WikiData/WD~New_Union_Treaty,218877]]'
-- '[[_Standards/WikiData/WD~Declaration_of_the_Rights_of_the_Peoples_of_Russia,1047454]]'
-- '[[_Standards/WikiData/WD~Monetary_reform_in_the_Soviet_Union,_1991,4157879]]'
-- '[[_Standards/WikiData/WD~New_political_thinking,4323903]]'
+- '[[_Standards/WikiData/WD~Leninism,155059|WD~Leninism,155059]]'
+- '[[_Standards/WikiData/WD~New_Union_Treaty,218877|WD~New_Union_Treaty,218877]]'
+- '[[_Standards/WikiData/WD~Declaration_of_the_Rights_of_the_Peoples_of_Russia,1047454|WD~Declaration_of_the_Rights_of_the_Peoples_of_Russia,1047454]]'
+- '[[_Standards/WikiData/WD~Monetary_reform_in_the_Soviet_Union,_1991,4157879|WD~Monetary_reform_in_the_Soviet_Union,_1991,4157879]]'
+- '[[_Standards/WikiData/WD~New_political_thinking,4323903|WD~New_political_thinking,4323903]]'
 main_regulatory_text:
-- '[[_Standards/WikiData/WD~1977_Soviet_Constitution,645016]]'
-- '[[_Standards/WikiData/WD~Alma_Ata_Protocol,1786449]]'
-- '[[_Standards/WikiData/WD~Q19181086,19181086]]'
-- '[[_Standards/WikiData/WD~Q19227157,19227157]]'
-- '[[_Standards/WikiData/WD~Q115926086,115926086]]'
+- '[[_Standards/WikiData/WD~1977_Soviet_Constitution,645016|WD~1977_Soviet_Constitution,645016]]'
+- '[[_Standards/WikiData/WD~Alma_Ata_Protocol,1786449|WD~Alma_Ata_Protocol,1786449]]'
+- '[[_Standards/WikiData/WD~Q19181086,19181086|WD~Q19181086,19181086]]'
+- '[[_Standards/WikiData/WD~Q19227157,19227157|WD~Q19227157,19227157]]'
+- '[[_Standards/WikiData/WD~Q115926086,115926086|WD~Q115926086,115926086]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~dismemberment,1228968]]'
-- '[[_Standards/WikiData/WD~dissolution,5282797]]'
-has_immediate_cause: '[[_Standards/WikiData/WD~International_Federation_for_Victory_Over_Communism,9690903]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q13601405,13601405]]'
+- '[[_Standards/WikiData/WD~dismemberment,1228968|WD~dismemberment,1228968]]'
+- '[[_Standards/WikiData/WD~dissolution,5282797|WD~dissolution,5282797]]'
+has_immediate_cause: '[[_Standards/WikiData/WD~International_Federation_for_Victory_Over_Communism,9690903|WD~International_Federation_for_Victory_Over_Communism,9690903]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q13601405,13601405|WD~Q13601405,13601405]]'
 instance_of:
-- '[[_Standards/WikiData/WD~dissolution_of_an_administrative_territorial_entity,18603729]]'
-- '[[_Standards/WikiData/WD~end_cause,22087155]]'
-locations: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~dissolution_of_an_administrative_territorial_entity,18603729|WD~dissolution_of_an_administrative_territorial_entity,18603729]]'
+- '[[_Standards/WikiData/WD~end_cause,22087155|WD~end_cause,22087155]]'
+locations: '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+country: '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
 coordinate_location: Point(90.0 65.0)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RIAN%20archive%20140800%20Signing%20of%20Protocol%20on%20Establishing%20Commonwealth%20of%20Independent%20States.jpg
 described_at_URL: http://ru-90.ru/tutorial/raspad-sssr

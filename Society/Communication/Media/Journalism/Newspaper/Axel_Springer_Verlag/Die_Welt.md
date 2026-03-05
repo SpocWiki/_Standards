@@ -97,7 +97,7 @@ dv_has_:
 >
 > Die Welt was a founding member of the European Dailies Alliance, 
 > and has a longstanding co-operation with comparable daily newspapers from other countries, 
-> including The [[../Daily_Telegraph]] (UK), [[../Le_Figaro]] (France), and ABC (Spain).
+> including The [[../Daily_Telegraph|Daily_Telegraph]] (UK), [[../Le_Figaro|Le_Figaro]] (France), and ABC (Spain).
 >
 > From 2004 to 2019, the newspaper also published a compact edition entitled Welt Kompakt, 
 > a 32-page cut-down version of the main broadsheet targeted to a younger public. 

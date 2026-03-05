@@ -27,9 +27,9 @@ tags:
 title: is_a_venue_map Class
 type: Type
 dv_has_:
-  parent_class: "[[../MapCategoryType]]"
+  parent_class: "[[../MapCategoryType|MapCategoryType]]"
 dv_is_:
-  enum_of: "[[../MapCategoryType]]"
+  enum_of: "[[../MapCategoryType|MapCategoryType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Map_Category_Type/Venue_Map|Venue_Map]]"
     - "[[/_public/schema-org/Enumeration/Map_Category_Type/Venue_Map.public|Venue_Map.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Map_Category_Type/Venue_Map.personal|Venue_Map.personal]]"
     - "[[/_secret/schema-org/Enumeration/Map_Category_Type/Venue_Map.secret|Venue_Map.secret]]"
     - "[[Venue_Map]]"
-dv_has_parent_class: "[[../MapCategoryType]]"
-dv_is_enum_of: "[[../MapCategoryType]]"
+dv_has_parent_class: "[[../MapCategoryType|MapCategoryType]]"
+dv_is_enum_of: "[[../MapCategoryType|MapCategoryType]]"
 dv_is_same_as:
   - "[[Venue_Map]]"
   - "[[/_public/schema-org/Enumeration/Map_Category_Type/Venue_Map.public|Venue_Map.public]]"

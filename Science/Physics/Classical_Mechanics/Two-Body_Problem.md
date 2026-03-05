@@ -43,12 +43,12 @@ aliases:
 - 二體問題
 - 이체 문제
 has_id_wikidata: Q232976
-followed_by: '[[_Standards/WikiData/WD~three_body_problem,607699]]'
+followed_by: '[[_Standards/WikiData/WD~three_body_problem,607699|WD~three_body_problem,607699]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~task,759676]]'
-- '[[_Standards/WikiData/WD~N_body_problem,1199050]]'
-- '[[_Standards/WikiData/WD~integrable_system,1957758]]'
-field_of_work: '[[_Standards/WikiData/WD~classical_mechanics,11397]]'
+- '[[_Standards/WikiData/WD~task,759676|WD~task,759676]]'
+- '[[_Standards/WikiData/WD~N_body_problem,1199050|WD~N_body_problem,1199050]]'
+- '[[_Standards/WikiData/WD~integrable_system,1957758|WD~integrable_system,1957758]]'
+field_of_work: '[[_Standards/WikiData/WD~classical_mechanics,11397|WD~classical_mechanics,11397]]'
 Commons_category: Two-body problem
 dv_has_:
   name_:

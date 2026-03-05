@@ -33,7 +33,7 @@ Tag Instances like this:
 
 A body of structured information describing some topic(s) of interest.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ DataFeed ]  
 

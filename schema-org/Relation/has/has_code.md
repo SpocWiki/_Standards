@@ -24,9 +24,9 @@ tags:
 title: has_code
 type: Predi_Relation
 dv_has_:
-  domain: "[[../../../Class/is_a_thing/medical_entity]]"
+  domain: "[[../../../Class/is_a_thing/medical_entity|medical_entity]]"
   name: has_code
-  range: "[[../../Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code]]"
+  range: "[[../../Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code|Medical_Code]]"
   inverse: "[[is_code_for]]"
 dv_is_:
   same_as:
@@ -38,9 +38,9 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_code.personal|has_code.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_code.secret|has_code.secret]]"
     - "[[has_code]]"
-dv_has_domain: "[[../../../Class/is_a_thing/medical_entity]]"
+dv_has_domain: "[[../../../Class/is_a_thing/medical_entity|medical_entity]]"
 dv_has_name: has_code
-dv_has_range: "[[../../Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code]]"
+dv_has_range: "[[../../Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code|Medical_Code]]"
 dv_is_same_as:
   - "[[has_code]]"
   - "[[/_public/schema-org/Relation/has/has_code.public|has_code.public]]"

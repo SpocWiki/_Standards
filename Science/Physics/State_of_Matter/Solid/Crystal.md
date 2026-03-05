@@ -77,20 +77,20 @@ aliases:
 - 결정
 has_id_wikidata: Q43533
 subclass_of:
-- '[[_Standards/WikiData/WD~chemical_substance,79529]]'
-- '[[_Standards/WikiData/WD~bound_state,908049]]'
-- '[[_Standards/WikiData/WD~solid,11438]]'
-studied_by: '[[_Standards/WikiData/WD~crystallography,160398]]'
+- '[[_Standards/WikiData/WD~chemical_substance,79529|WD~chemical_substance,79529]]'
+- '[[_Standards/WikiData/WD~bound_state,908049|WD~bound_state,908049]]'
+- '[[_Standards/WikiData/WD~solid,11438|WD~solid,11438]]'
+studied_by: '[[_Standards/WikiData/WD~crystallography,160398|WD~crystallography,160398]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-manifestation_of: '[[_Standards/WikiData/WD~crystallinity,1789144]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+manifestation_of: '[[_Standards/WikiData/WD~crystallinity,1789144|WD~crystallinity,1789144]]'
 different_from:
-- '[[_Standards/WikiData/WD~Crystal,13582300]]'
-- '[[_Standards/WikiData/WD~Kristall,36200270]]'
+- '[[_Standards/WikiData/WD~Crystal,13582300|WD~Crystal,13582300]]'
+- '[[_Standards/WikiData/WD~Kristall,36200270|WD~Kristall,36200270]]'
 Dewey_Decimal_Classification: 548
 Colon_Classification: C216
 Commons_gallery: Crystal

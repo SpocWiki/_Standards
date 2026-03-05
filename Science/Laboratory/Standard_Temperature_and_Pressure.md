@@ -73,12 +73,12 @@ aliases:
 - 표준 온도 압력
 has_id_wikidata: Q102145
 has_part_s_:
-- '[[_Standards/WikiData/WD~room_temperature,111092]]'
-- '[[_Standards/WikiData/WD~International_Standard_Atmosphere,579176]]'
-- '[[_Standards/WikiData/WD~standard_pressure,9193068]]'
+- '[[_Standards/WikiData/WD~room_temperature,111092|WD~room_temperature,111092]]'
+- '[[_Standards/WikiData/WD~International_Standard_Atmosphere,579176|WD~International_Standard_Atmosphere,579176]]'
+- '[[_Standards/WikiData/WD~standard_pressure,9193068|WD~standard_pressure,9193068]]'
 instance_of:
-- '[[_Standards/WikiData/WD~technical_standard,317623]]'
-- '[[_Standards/WikiData/WD~reference_point,23008367]]'
+- '[[_Standards/WikiData/WD~technical_standard,317623|WD~technical_standard,317623]]'
+- '[[_Standards/WikiData/WD~reference_point,23008367|WD~reference_point,23008367]]'
 under_pressure:
 - 100000
 - 1

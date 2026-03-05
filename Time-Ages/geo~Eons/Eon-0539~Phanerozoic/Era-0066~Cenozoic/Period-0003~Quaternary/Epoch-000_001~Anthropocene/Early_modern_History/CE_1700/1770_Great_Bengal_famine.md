@@ -39,8 +39,8 @@ aliases:
 - ബംഗാൾ ക്ഷാമം (1770)
 - ベンガル飢饉
 has_id_wikidata: Q2477522
-locations: '[[_Standards/WikiData/WD~Bengal,80338]]'
-instance_of: '[[_Standards/WikiData/WD~famine,168247]]'
+locations: '[[_Standards/WikiData/WD~Bengal,80338|WD~Bengal,80338]]'
+instance_of: '[[_Standards/WikiData/WD~famine,168247|WD~famine,168247]]'
 number_of_deaths:
 - 10000000
 - 7000000

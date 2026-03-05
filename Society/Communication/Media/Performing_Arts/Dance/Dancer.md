@@ -157,23 +157,23 @@ male_form_of_label:
 - šokėjas
 - танчер
 - żeffien
-patron_saint: '[[_Standards/WikiData/WD~Vitus,212850]]'
+patron_saint: '[[_Standards/WikiData/WD~Vitus,212850|WD~Vitus,212850]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~performing_artist,713200]]'
-- '[[_Standards/WikiData/WD~dancers_and_choreographers,108290379]]'
-has_list: '[[_Standards/WikiData/WD~list_of_dancers,6615651]]'
+- '[[_Standards/WikiData/WD~performing_artist,713200|WD~performing_artist,713200]]'
+- '[[_Standards/WikiData/WD~dancers_and_choreographers,108290379|WD~dancers_and_choreographers,108290379]]'
+has_list: '[[_Standards/WikiData/WD~list_of_dancers,6615651|WD~list_of_dancers,6615651]]'
 instance_of:
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_dancer,14401020]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59576044,59576044]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_dancer,14401020|WD~Template_Infobox_dancer,14401020]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59576044,59576044|WD~Q59576044,59576044]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Қазақ_мәдениетi,123225229]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Қазақ_мәдениетi,123225229|WD~Қазақ_мәдениетi,123225229]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Dancing_female_figure_from_Villa_Adriana,126727179]]'
-- '[[_Standards/WikiData/WD~The_dancer_Rita_Sacchetto,131588024]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~dance,11639]]'
+- '[[_Standards/WikiData/WD~Dancing_female_figure_from_Villa_Adriana,126727179|WD~Dancing_female_figure_from_Villa_Adriana,126727179]]'
+- '[[_Standards/WikiData/WD~The_dancer_Rita_Sacchetto,131588024|WD~The_dancer_Rita_Sacchetto,131588024]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~dance,11639|WD~dance,11639]]'
 ISCO_08_occupation_class: 2653
 IMDb_keyword: dancer
 Unicode_character:
@@ -311,7 +311,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~dancer,5716684]] 
+#is_/same_as :: [[_Standards/WikiData/WD~dancer,5716684|WD~dancer,5716684]] 
 
 ## #has_/text_of_/abstract 
 

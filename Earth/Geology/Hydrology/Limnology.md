@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Limnology,165838]]'
+  - '[[../../../WikiData/WD~Limnology,165838|WD~Limnology,165838]]'
   - '[[/_Standards/Earth/Geology/Hydrology/Limnology|Limnology]]'
   - '[[/_public/Earth/Geology/Hydrology/Limnology.public|Limnology.public]]'
   - '[[/_internal/Earth/Geology/Hydrology/Limnology.internal|Limnology.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Geology/Hydrology/Limnology.personal|Limnology.personal]]'
   - '[[/_secret/Earth/Geology/Hydrology/Limnology.secret|Limnology.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Limnology,165838]]'
+- '[[../../../WikiData/WD~Limnology,165838|WD~Limnology,165838]]'
 - '[[/_Standards/Earth/Geology/Hydrology/Limnology|Limnology]]'
 - '[[/_public/Earth/Geology/Hydrology/Limnology.public|Limnology.public]]'
 - '[[/_internal/Earth/Geology/Hydrology/Limnology.internal|Limnology.internal]]'

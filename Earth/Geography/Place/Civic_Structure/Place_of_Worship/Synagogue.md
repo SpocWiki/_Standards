@@ -88,26 +88,26 @@ tags:
 title: is_a_synagogue Class
 type: Type
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Samaritan,182651]]'
-- '[[_Standards/WikiData/WD~Judaism,9268]]'
+- '[[_Standards/WikiData/WD~Samaritan,182651|WD~Samaritan,182651]]'
+- '[[_Standards/WikiData/WD~Judaism,9268|WD~Judaism,9268]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~house_of_prayer,831219]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
-has_part_s_: '[[_Standards/WikiData/WD~bimah,863418]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_synagogue,10805605]]'
-facet_of: '[[_Standards/WikiData/WD~Judaism,9268]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~house_of_prayer,831219|WD~house_of_prayer,831219]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+has_part_s_: '[[_Standards/WikiData/WD~bimah,863418|WD~bimah,863418]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_synagogue,10805605|WD~Template_Infobox_synagogue,10805605]]'
+facet_of: '[[_Standards/WikiData/WD~Judaism,9268|WD~Judaism,9268]]'
 Nomenclature_for_Museum_Cataloging: 594
 OmegaWiki_Defined_Meaning: 6564
 IMDb_keyword: synagogue
@@ -275,7 +275,7 @@ dv_has_:
     zh: 猶太會堂
     zh_hant: 猶太會堂
     zh_tw: 猶太會堂
-  parent_class: '[[../PlaceOfWorship]]'
+  parent_class: '[[../PlaceOfWorship|PlaceOfWorship]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
 - '[[../../../../../WikiData/WD~Synagogue,34627|WD~Synagogue,34627]]'
@@ -286,7 +286,7 @@ dv_is_same_as:
 - '[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.private|Synagogue.private]]'
 - '[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.personal|Synagogue.personal]]'
 - '[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.secret|Synagogue.secret]]'
-dv_has_parent_class: '[[../PlaceOfWorship]]'
+dv_has_parent_class: '[[../PlaceOfWorship|PlaceOfWorship]]'
 dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 Unicode_character: 🕍
 ---

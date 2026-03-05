@@ -136,8 +136,8 @@ dv_has_:
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
-#is_/different_from :: [[../../../../../../Agent/Community/Organization/Business-Person/Carnegie,Andrew]] 
-is **not** related t[[../../../../../../Agent/Community/Organization/Business-Person/Carnegie,Andrew]] the american Steel-Monopolist of the 19th Centure. 
+#is_/different_from :: [[../../../../../../Agent/Community/Organization/Business-Person/Carnegie,Andrew|Carnegie,Andrew]] 
+is **not** related t[[../../../../../../Agent/Community/Organization/Business-Person/Carnegie,Andrew|Carnegie,Andrew]] the american Steel-Monopolist of the 19th Centure. 
 
 Dale Carnegie (1888–1955) was an American writer and lecturer, 
 best known for his self-improvement and interpersonal skills courses. 

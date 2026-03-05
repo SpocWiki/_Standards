@@ -87,7 +87,7 @@ version: 2.0
 # MerchantReturnPolicy
 This is a kind of [[FileClass~Intangible]]
 
-A MerchantReturnPolicy provides information about product return policies associated with an [[../../../Society/Agent/Community/Organization]], [[../../../Society/Agent/Community/Organization/Business/Product]], or [[../../../Society/Agent/Community/Organization/Business/Offer]].
+A MerchantReturnPolicy provides information about product return policies associated with an [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]], or [[../../../Society/Agent/Community/Organization/Business/Offer|Offer]].
 
 
 ## Use one of these Tags for Objects of this Type:
@@ -166,7 +166,7 @@ A refund type, from an enumerated list.
 RefundType:: {"type":"Select","options":{"valuesList":{"ExchangeRefund","FullRefund","StoreCreditRefund"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 ### RestockingFee
-Use [[MonetaryAmount]] to specify a fixed restocking fee for product returns, or use[[../../../schema-org/Class/is_a_/data_type/number]]] to specify a percentage of the product price paid by the customer.
+Use [[MonetaryAmount]] to specify a fixed restocking fee for product returns, or use[[../../../schema-org/Class/is_a_/data_type/number|number]]] to specify a percentage of the product price paid by the customer.
 
 RestockingFee:: {"type":"Number","options":{}}
 
@@ -191,7 +191,7 @@ Specifies an applicable return policy (from an enumeration).
 ReturnPolicyCategory:: {"type":"Select","options":{"valuesList":{"MerchantReturnFiniteReturnWindow","MerchantReturnNotPermitted","MerchantReturnUnlimitedWindow","MerchantReturnUnspecified"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 ### ReturnPolicyCountry
-The country where the product has to be sent to for returns, for example "Ireland" using the [[../../../schema-org/Property/has_name|Name]] property of[[../../../Earth/Geography/Place/Administrative_Area/Country]]]. You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO\_3166-1). Note that this can be different from the country where the product was originally shipped from or sent to.
+The country where the product has to be sent to for returns, for example "Ireland" using the [[../../../schema-org/Property/has_name|Name]] property of[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]]. You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO\_3166-1). Note that this can be different from the country where the product was originally shipped from or sent to.
 
 ReturnPolicyCountry:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea/Country')"}}
 

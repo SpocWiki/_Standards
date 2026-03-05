@@ -87,26 +87,26 @@ aliases:
 - 상표
 has_id_wikidata: Q167270
 subclass_of:
-- '[[_Standards/WikiData/WD~symbol,80071]]'
-- '[[_Standards/WikiData/WD~logo,1886349]]'
-- '[[_Standards/WikiData/WD~sign,3695082]]'
+- '[[_Standards/WikiData/WD~symbol,80071|WD~symbol,80071]]'
+- '[[_Standards/WikiData/WD~logo,1886349|WD~logo,1886349]]'
+- '[[_Standards/WikiData/WD~sign,3695082|WD~sign,3695082]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~brand,431289]]'
-- '[[_Standards/WikiData/WD~commercial_name,70382745]]'
+- '[[_Standards/WikiData/WD~brand,431289|WD~brand,431289]]'
+- '[[_Standards/WikiData/WD~commercial_name,70382745|WD~commercial_name,70382745]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~trade_name,1417728]]'
-- '[[_Standards/WikiData/WD~registered_sign,1853446]]'
+- '[[_Standards/WikiData/WD~trade_name,1417728|WD~trade_name,1417728]]'
+- '[[_Standards/WikiData/WD~registered_sign,1853446|WD~registered_sign,1853446]]'
 notation:
-- '[[_Standards/WikiData/WD~registered_sign,1853446]]'
-- '[[_Standards/WikiData/WD~trademark_symbol,1944044]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_brand,5616238]]'
-instance_of: '[[_Standards/WikiData/WD~intellectual_property_right,108855835]]'
+- '[[_Standards/WikiData/WD~registered_sign,1853446|WD~registered_sign,1853446]]'
+- '[[_Standards/WikiData/WD~trademark_symbol,1944044|WD~trademark_symbol,1944044]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_brand,5616238|WD~Template_Infobox_brand,5616238]]'
+instance_of: '[[_Standards/WikiData/WD~intellectual_property_right,108855835|WD~intellectual_property_right,108855835]]'
 OmegaWiki_Defined_Meaning: 354335
 ACM_Classification_Code_2012_: 10003467
 U_S_National_Archives_Identifier:
@@ -236,7 +236,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~trademark,167270]] 
+#is_/same_as :: [[_Standards/WikiData/WD~trademark,167270|WD~trademark,167270]] 
 
 ## #has_/text_of_/abstract 
 

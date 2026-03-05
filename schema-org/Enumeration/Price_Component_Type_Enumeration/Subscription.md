@@ -26,8 +26,8 @@ title: is_a_subscription Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../PriceComponentTypeEnumeration]]"
-  enum_of: "[[../PriceComponentTypeEnumeration]]"
+  parent_class: "[[../PriceComponentTypeEnumeration|PriceComponentTypeEnumeration]]"
+  enum_of: "[[../PriceComponentTypeEnumeration|PriceComponentTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription|Subscription]]"
     - "[[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.public|Subscription.public]]"
@@ -38,8 +38,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.secret|Subscription.secret]]"
     - "[[Subscription]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../PriceComponentTypeEnumeration]]"
-dv_is_enum_of: "[[../PriceComponentTypeEnumeration]]"
+dv_has_parent_class: "[[../PriceComponentTypeEnumeration|PriceComponentTypeEnumeration]]"
+dv_is_enum_of: "[[../PriceComponentTypeEnumeration|PriceComponentTypeEnumeration]]"
 dv_is_same_as:
   - "[[Subscription]]"
   - "[[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.public|Subscription.public]]"

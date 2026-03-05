@@ -31,7 +31,7 @@ title: has_parent
 type: Predi_Relation
 dv_has_:
   parent: "[[../../../Society/Agent/Person|Person]]"
-  parent_relation: "[[has_parent/has_creator]]"
+  parent_relation: "[[has_parent/has_creator|has_creator]]"
   inverse: "[[has_child]]"
   domain: "[[../../../Society/Agent/Person|Person]]"
   name: has_parent
@@ -47,7 +47,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_parent.private|has_parent.private]]"
     - "[[/_personal/schema-org/Relation/has/has_parent.personal|has_parent.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_parent.secret|has_parent.secret]]"
-dv_has_parent_relation: "[[has_parent/has_creator]]"
+dv_has_parent_relation: "[[has_parent/has_creator|has_creator]]"
 dv_has_inverse: "[[has_child]]"
 dv_is_same_as:
   - "[[WD~P40]]"

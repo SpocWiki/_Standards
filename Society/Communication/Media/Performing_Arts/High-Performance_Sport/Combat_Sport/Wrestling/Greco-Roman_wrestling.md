@@ -66,15 +66,15 @@ aliases:
 - 그레코로만 레슬링
 has_id_wikidata: Q389654
 instance_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~wrestling_style,134396192]]'
-authority: '[[_Standards/WikiData/WD~United_World_Wrestling,688489]]'
-subclass_of: '[[_Standards/WikiData/WD~amateur_wrestling,838089]]'
-practiced_by: '[[_Standards/WikiData/WD~amateur_wrestler,12369333]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~wrestling_style,134396192|WD~wrestling_style,134396192]]'
+authority: '[[_Standards/WikiData/WD~United_World_Wrestling,688489|WD~United_World_Wrestling,688489]]'
+subclass_of: '[[_Standards/WikiData/WD~amateur_wrestling,838089|WD~amateur_wrestling,838089]]'
+practiced_by: '[[_Standards/WikiData/WD~amateur_wrestler,12369333|WD~amateur_wrestler,12369333]]'
 Wikidata_property:
 - JWF Wrestlers Database person ID
 - National Wrestling Hall of Fame wrestler ID
-sport: '[[_Standards/WikiData/WD~wrestling,42486]]'
+sport: '[[_Standards/WikiData/WD~wrestling,42486|WD~wrestling,42486]]'
 BHCL_UUID: a509a333-eac1-45ad-a59e-6b2f5f7fef98
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Wrestling%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GrecoRomanWrestling1.jpg

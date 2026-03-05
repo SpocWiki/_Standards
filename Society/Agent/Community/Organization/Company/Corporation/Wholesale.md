@@ -63,11 +63,11 @@ aliases:
 - 批發
 - 도매
 has_id_wikidata: Q220695
-opposite_of: '[[_Standards/WikiData/WD~retail,126793]]'
-instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
-subclass_of: '[[_Standards/WikiData/WD~trade,601401]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~wholesale_trade,_except_of_motor_vehicles_and_motorcycles,29584308]]'
-part_of: '[[_Standards/WikiData/WD~tertiary_sector_of_the_economy,55638]]'
+opposite_of: '[[_Standards/WikiData/WD~retail,126793|WD~retail,126793]]'
+instance_of: '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+subclass_of: '[[_Standards/WikiData/WD~trade,601401|WD~trade,601401]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~wholesale_trade,_except_of_motor_vehicles_and_motorcycles,29584308|WD~wholesale_trade,_except_of_motor_vehicles_and_motorcycles,29584308]]'
+part_of: '[[_Standards/WikiData/WD~tertiary_sector_of_the_economy,55638|WD~tertiary_sector_of_the_economy,55638]]'
 OmegaWiki_Defined_Meaning: 533617
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Birmingham%20Wholesale%20Markets.jpg
 IPTC_NewsCode: mediatopic/20000255
@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Wholesale]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~wholesale,220695]]  
+#is_/same_as :: [[_Standards/WikiData/WD~wholesale,220695|WD~wholesale,220695]]  
 #has_/complement :: [[Retail]] 
 
 ## #has_/text_of_/abstract 

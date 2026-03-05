@@ -80,23 +80,23 @@ aliases:
 - 해류
 has_id_wikidata: Q129558
 subclass_of:
-- '[[_Standards/WikiData/WD~fluid_mechanics,172145]]'
-- '[[_Standards/WikiData/WD~current,4456944]]'
-- '[[_Standards/WikiData/WD~natural_geographic_object,35145263]]'
-characteristic_of: '[[_Standards/WikiData/WD~seawater,184395]]'
+- '[[_Standards/WikiData/WD~fluid_mechanics,172145|WD~fluid_mechanics,172145]]'
+- '[[_Standards/WikiData/WD~current,4456944|WD~current,4456944]]'
+- '[[_Standards/WikiData/WD~natural_geographic_object,35145263|WD~natural_geographic_object,35145263]]'
+characteristic_of: '[[_Standards/WikiData/WD~seawater,184395|WD~seawater,184395]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Ocean,11398134]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_ocean_current,47206620]]'
+- '[[_Standards/WikiData/WD~Template_Ocean,11398134|WD~Template_Ocean,11398134]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_ocean_current,47206620|WD~Template_Infobox_ocean_current,47206620]]'
 bathymetry_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/CSIRO%20ScienceImage%2011128%20The%20bathymetry%20of%20the%20Kerguelen%20Plateau%20in%20the%20Southern%20Ocean%20governs%20the%20course%20of%20the%20new%20current%20part%20of%20the%20global%20network%20of%20ocean%20currents.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Meyers%20b11%20s0411a.jpg
 part_of:
-- '[[_Standards/WikiData/WD~ocean,9430]]'
-- '[[_Standards/WikiData/WD~sea,165]]'
+- '[[_Standards/WikiData/WD~ocean,9430|WD~ocean,9430]]'
+- '[[_Standards/WikiData/WD~sea,165|WD~sea,165]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Corrientes-oceanicas.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%B8%E0%A8%AE%E0%A9%81%E0%A9%B0%E0%A8%A6%E0%A8%B0%E0%A9%80%20%E0%A8%B0%E0%A9%8C%E0%A8%86%E0%A8%82.wav
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Ocean%20flows%20at%20surface%20and%202000%20meters%20below%20sea%20level.webm
@@ -107,7 +107,7 @@ Commons_category: Ocean currents
 Colon_Classification: U2562
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Ocean_current,129558]]'
+  - '[[../../WikiData/WD~Ocean_current,129558|WD~Ocean_current,129558]]'
   - '[[/_Standards/Earth/Ocean/Ocean_Current|Ocean_Current]]'
   - '[[/_public/Earth/Ocean/Ocean_Current.public|Ocean_Current.public]]'
   - '[[/_internal/Earth/Ocean/Ocean_Current.internal|Ocean_Current.internal]]'
@@ -116,7 +116,7 @@ dv_is_:
   - '[[/_personal/Earth/Ocean/Ocean_Current.personal|Ocean_Current.personal]]'
   - '[[/_secret/Earth/Ocean/Ocean_Current.secret|Ocean_Current.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Ocean_current,129558]]'
+- '[[../../WikiData/WD~Ocean_current,129558|WD~Ocean_current,129558]]'
 - '[[/_Standards/Earth/Ocean/Ocean_Current|Ocean_Current]]'
 - '[[/_public/Earth/Ocean/Ocean_Current.public|Ocean_Current.public]]'
 - '[[/_internal/Earth/Ocean/Ocean_Current.internal|Ocean_Current.internal]]'

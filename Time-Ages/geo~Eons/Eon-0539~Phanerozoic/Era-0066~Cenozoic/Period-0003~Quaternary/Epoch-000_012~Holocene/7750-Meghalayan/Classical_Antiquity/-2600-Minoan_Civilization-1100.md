@@ -1,5 +1,5 @@
 ---
-location: '[[_Standards/WikiData/WD~Crete,34374]]'
+location: '[[_Standards/WikiData/WD~Crete,34374|WD~Crete,34374]]'
 aliases:
 - -2600-Minoan Civilization-1100
 - -2600-Minoan_Civilization-1100
@@ -77,22 +77,22 @@ aliases:
 - 미노스 문명
 has_id_wikidata: Q134178
 instance_of:
-- '[[_Standards/WikiData/WD~archaeological_culture,465299]]'
-- '[[_Standards/WikiData/WD~style,1292119]]'
-- '[[_Standards/WikiData/WD~civilization,2718886]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-- '[[_Standards/WikiData/WD~ancient_civilization,28171280]]'
-part_of: '[[_Standards/WikiData/WD~history_of_Crete,1516494]]'
-language_used: '[[_Standards/WikiData/WD~Minoan,1669994]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q14695113,14695113]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~archaeological_culture,465299|WD~archaeological_culture,465299]]'
+- '[[_Standards/WikiData/WD~style,1292119|WD~style,1292119]]'
+- '[[_Standards/WikiData/WD~civilization,2718886|WD~civilization,2718886]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~ancient_civilization,28171280|WD~ancient_civilization,28171280]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Crete,1516494|WD~history_of_Crete,1516494]]'
+language_used: '[[_Standards/WikiData/WD~Minoan,1669994|WD~Minoan,1669994]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q14695113,14695113|WD~Q14695113,14695113]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 end_time: -1099-01-01T00:00:00Z
 start_time:
 - -3299-01-01T00:00:00Z
 - -2000-01-01T00:00:00Z
 coordinate_location: Point(24.893333 35.309722)
-named_after: '[[_Standards/WikiData/WD~Minos,23168]]'
-indigenous_to: '[[_Standards/WikiData/WD~Crete,34374]]'
+named_after: '[[_Standards/WikiData/WD~Minos,23168|WD~Minos,23168]]'
+indigenous_to: '[[_Standards/WikiData/WD~Crete,34374|WD~Crete,34374]]'
 BHCL_UUID: e45e3efa-3526-4d39-9d49-a0f71a3515fe
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Minoan%20Crete-en.svg
 Library_of_Congress_Classification:

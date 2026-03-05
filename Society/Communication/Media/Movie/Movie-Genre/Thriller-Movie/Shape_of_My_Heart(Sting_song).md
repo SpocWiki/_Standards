@@ -1,5 +1,5 @@
 
-#has_/creator :: [[../../music/Musician/Sting(musician)]], [[Miller,Dominic]] 
+#has_/creator :: [[../../music/Musician/Sting(musician)|Sting(musician)]], [[Miller,Dominic]] 
 #has_/time_/started :: 1993-08-23 
 #is_/similar_to :: [[Rise&Fall(Craig_David)]] 
 

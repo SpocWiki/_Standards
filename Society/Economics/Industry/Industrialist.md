@@ -58,16 +58,16 @@ aliases:
 - 제조사
 has_id_wikidata: Q6606110
 subclass_of:
-- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-- '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524|WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~businessperson,43845|WD~businessperson,43845]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~business_magnate,911554]]'
-- '[[_Standards/WikiData/WD~fabricator,42855995]]'
+- '[[_Standards/WikiData/WD~business_magnate,911554|WD~business_magnate,911554]]'
+- '[[_Standards/WikiData/WD~fabricator,42855995|WD~fabricator,42855995]]'
 instance_of:
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
-different_from: '[[_Standards/WikiData/WD~Gyáros,131314829]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~industrial_sector,8148]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
+different_from: '[[_Standards/WikiData/WD~Gyáros,131314829|WD~Gyáros,131314829]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~industrial_sector,8148|WD~industrial_sector,8148]]'
 male_form_of_label:
 - industriale
 - industriel
@@ -169,7 +169,7 @@ dv_has_:
 
 # [[Industrialist]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~industrialist,6606110]] 
+#is_/same_as :: [[_Standards/WikiData/WD~industrialist,6606110|WD~industrialist,6606110]] 
 
 ## #has_/text_of_/abstract 
 

@@ -46,56 +46,56 @@ aliases:
 - 奧里諾高河
 - 오리노코강
 has_id_wikidata: Q131792
-mouth_of_the_watercourse: '[[_Standards/WikiData/WD~Delta_Amacuro,201137]]'
+mouth_of_the_watercourse: '[[_Standards/WikiData/WD~Delta_Amacuro,201137|WD~Delta_Amacuro,201137]]'
 location:
 - 5.318
 - -61.6
 tributary:
-- '[[_Standards/WikiData/WD~Caroní_River,590533]]'
-- '[[_Standards/WikiData/WD~Meta_River,655251]]'
-- '[[_Standards/WikiData/WD~Apure_River,853315]]'
-- '[[_Standards/WikiData/WD~Guaviare_River,1047596]]'
-- '[[_Standards/WikiData/WD~Arauca_River,1059928]]'
-- '[[_Standards/WikiData/WD~Caura_River,1121956]]'
-- '[[_Standards/WikiData/WD~Ventuari_River,1349924]]'
-- '[[_Standards/WikiData/WD~Tomo_River,2179183]]'
-- '[[_Standards/WikiData/WD~Atabapo_River,3444760]]'
-- '[[_Standards/WikiData/WD~Capanaparo_River,3458561]]'
-- '[[_Standards/WikiData/WD~Parguaza_River,3458738]]'
-- '[[_Standards/WikiData/WD~Vichada_River,3458822]]'
-- '[[_Standards/WikiData/WD~Aro_River,4795460]]'
-- '[[_Standards/WikiData/WD~Cinaruco_River,5120176]]'
-- '[[_Standards/WikiData/WD~Cuchivero_River,5192326]]'
-- '[[_Standards/WikiData/WD~Cunucunuma_River,5194382]]'
-- '[[_Standards/WikiData/WD~Ocamo_River,5407813]]'
-- '[[_Standards/WikiData/WD~Manaviche_River,6747120]]'
-- '[[_Standards/WikiData/WD~Mavaca_River,6794111]]'
-- '[[_Standards/WikiData/WD~Padamo_River,7123213]]'
-- '[[_Standards/WikiData/WD~Suapure_River,7630492]]'
-- '[[_Standards/WikiData/WD~Iyagüey_River,16040335]]'
-- '[[_Standards/WikiData/WD~Río_Iguapo,16040332]]'
-- '[[_Standards/WikiData/WD~Jenita_River,16040339]]'
-- '[[_Standards/WikiData/WD~Putaco_River,16040369]]'
-- '[[_Standards/WikiData/WD~Río_Ugueto,16040385]]'
-- '[[_Standards/WikiData/WD~Yagua_River,16040391]]'
-- '[[_Standards/WikiData/WD~Sipapo_River,16909323]]'
+- '[[_Standards/WikiData/WD~Caroní_River,590533|WD~Caroní_River,590533]]'
+- '[[_Standards/WikiData/WD~Meta_River,655251|WD~Meta_River,655251]]'
+- '[[_Standards/WikiData/WD~Apure_River,853315|WD~Apure_River,853315]]'
+- '[[_Standards/WikiData/WD~Guaviare_River,1047596|WD~Guaviare_River,1047596]]'
+- '[[_Standards/WikiData/WD~Arauca_River,1059928|WD~Arauca_River,1059928]]'
+- '[[_Standards/WikiData/WD~Caura_River,1121956|WD~Caura_River,1121956]]'
+- '[[_Standards/WikiData/WD~Ventuari_River,1349924|WD~Ventuari_River,1349924]]'
+- '[[_Standards/WikiData/WD~Tomo_River,2179183|WD~Tomo_River,2179183]]'
+- '[[_Standards/WikiData/WD~Atabapo_River,3444760|WD~Atabapo_River,3444760]]'
+- '[[_Standards/WikiData/WD~Capanaparo_River,3458561|WD~Capanaparo_River,3458561]]'
+- '[[_Standards/WikiData/WD~Parguaza_River,3458738|WD~Parguaza_River,3458738]]'
+- '[[_Standards/WikiData/WD~Vichada_River,3458822|WD~Vichada_River,3458822]]'
+- '[[_Standards/WikiData/WD~Aro_River,4795460|WD~Aro_River,4795460]]'
+- '[[_Standards/WikiData/WD~Cinaruco_River,5120176|WD~Cinaruco_River,5120176]]'
+- '[[_Standards/WikiData/WD~Cuchivero_River,5192326|WD~Cuchivero_River,5192326]]'
+- '[[_Standards/WikiData/WD~Cunucunuma_River,5194382|WD~Cunucunuma_River,5194382]]'
+- '[[_Standards/WikiData/WD~Ocamo_River,5407813|WD~Ocamo_River,5407813]]'
+- '[[_Standards/WikiData/WD~Manaviche_River,6747120|WD~Manaviche_River,6747120]]'
+- '[[_Standards/WikiData/WD~Mavaca_River,6794111|WD~Mavaca_River,6794111]]'
+- '[[_Standards/WikiData/WD~Padamo_River,7123213|WD~Padamo_River,7123213]]'
+- '[[_Standards/WikiData/WD~Suapure_River,7630492|WD~Suapure_River,7630492]]'
+- '[[_Standards/WikiData/WD~Iyagüey_River,16040335|WD~Iyagüey_River,16040335]]'
+- '[[_Standards/WikiData/WD~Río_Iguapo,16040332|WD~Río_Iguapo,16040332]]'
+- '[[_Standards/WikiData/WD~Jenita_River,16040339|WD~Jenita_River,16040339]]'
+- '[[_Standards/WikiData/WD~Putaco_River,16040369|WD~Putaco_River,16040369]]'
+- '[[_Standards/WikiData/WD~Río_Ugueto,16040385|WD~Río_Ugueto,16040385]]'
+- '[[_Standards/WikiData/WD~Yagua_River,16040391|WD~Yagua_River,16040391]]'
+- '[[_Standards/WikiData/WD~Sipapo_River,16909323|WD~Sipapo_River,16909323]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
 coordinate_location:
 - Point(-63.3617 2.318)
 - Point(-60.5 8.56)
-basin_country: '[[_Standards/WikiData/WD~Venezuela,717]]'
+basin_country: '[[_Standards/WikiData/WD~Venezuela,717|WD~Venezuela,717]]'
 country:
-- '[[_Standards/WikiData/WD~Venezuela,717]]'
-- '[[_Standards/WikiData/WD~Colombia,739]]'
-drainage_basin: '[[_Standards/WikiData/WD~Caribbean_Sea,1247]]'
-instance_of: '[[_Standards/WikiData/WD~river,4022]]'
-continent: '[[_Standards/WikiData/WD~South_America,18]]'
+- '[[_Standards/WikiData/WD~Venezuela,717|WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Colombia,739|WD~Colombia,739]]'
+drainage_basin: '[[_Standards/WikiData/WD~Caribbean_Sea,1247|WD~Caribbean_Sea,1247]]'
+instance_of: '[[_Standards/WikiData/WD~river,4022|WD~river,4022]]'
+continent: '[[_Standards/WikiData/WD~South_America,18|WD~South_America,18]]'
 discharge: 30000
 length: 2140
 watershed_area: 989000
@@ -108,7 +108,7 @@ Wolfram_Language_entity_code: Entity"River", "Orinoco = `=this.dv_"River", "Orin
 dv_"River", "Orinoco: 6yn82"
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Orinoco_River,131792]]'
+  - '[[../../../WikiData/WD~Orinoco_River,131792|WD~Orinoco_River,131792]]'
   - '[[/_Standards/Earth/Continent/America~South/Orinoco_River|Orinoco_River]]'
   - '[[/_public/Earth/Continent/America~South/Orinoco_River.public|Orinoco_River.public]]'
   - '[[/_internal/Earth/Continent/America~South/Orinoco_River.internal|Orinoco_River.internal]]'
@@ -118,7 +118,7 @@ dv_is_:
   - '[[/_secret/Earth/Continent/America~South/Orinoco_River.secret|Orinoco_River.secret]]'
 dv_river-orinoco: 6yn82"
 dv_is_same_as:
-- '[[../../../WikiData/WD~Orinoco_River,131792]]'
+- '[[../../../WikiData/WD~Orinoco_River,131792|WD~Orinoco_River,131792]]'
 - '[[/_Standards/Earth/Continent/America~South/Orinoco_River|Orinoco_River]]'
 - '[[/_public/Earth/Continent/America~South/Orinoco_River.public|Orinoco_River.public]]'
 - '[[/_internal/Earth/Continent/America~South/Orinoco_River.internal|Orinoco_River.internal]]'

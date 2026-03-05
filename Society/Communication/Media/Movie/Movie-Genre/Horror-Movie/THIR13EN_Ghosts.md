@@ -64,7 +64,7 @@ aliases:
 > 
 > A remake of the 1960 film 13 Ghosts by William Castle, 
 > the film stars [[Shalhoub,Tony]] , Embeth Davidtz, [[Lillard,Matthew]], Shannon Elizabeth, 
-> Alec Roberts, Rah Digga, and [[../../Actor/US_Actor/Abraham,F.Murray]].
+> Alec Roberts, Rah Digga, and [[../../Actor/US_Actor/Abraham,F.Murray|Abraham,F.Murray]].
 >
 > Released theatrically on October 26, 2001, the film grossed $68 million at the box office on a budget of $42 million and received generally negative reviews upon release.
 >

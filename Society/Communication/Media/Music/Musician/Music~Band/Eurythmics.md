@@ -72,8 +72,8 @@ aliases:
 
 # [[Eurythmics]]  
 
-#has_/parts :: [[Eurythmics/Lennox,Annie]] 
-#has_/parts :: [[Eurythmics/Stewart,Dave]] 
+#has_/parts :: [[Eurythmics/Lennox,Annie|Lennox,Annie]] 
+#has_/parts :: [[Eurythmics/Stewart,Dave|Stewart,Dave]] 
 
 ## #has_/text_of_/abstract 
 

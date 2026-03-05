@@ -71,7 +71,7 @@ dv_has_:
 
 #is_a :: [[../Observational_Study|Observational_Study]] 
 #is_/worse_than :: [[Observational_Study/Longitudinal_Study|Longitudinal_Study]] 
-#is_/different_from :: [[../Experiment]] 
+#is_/different_from :: [[../Experiment|Experiment]] 
 
 ## #has_/text_of_/abstract 
 

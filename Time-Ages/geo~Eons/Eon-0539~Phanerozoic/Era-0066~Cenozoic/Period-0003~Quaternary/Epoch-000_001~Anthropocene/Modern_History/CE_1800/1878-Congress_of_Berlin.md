@@ -1,7 +1,7 @@
 ---
 location:
-- '[[_Standards/WikiData/WD~Hotel_Kaiserhof,320591]]'
-- '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~Hotel_Kaiserhof,320591|WD~Hotel_Kaiserhof,320591]]'
+- '[[_Standards/WikiData/WD~Berlin,64|WD~Berlin,64]]'
 aliases:
 - 1878-Congress of Berlin
 - 1878-Congress_of_Berlin
@@ -63,22 +63,22 @@ aliases:
 - 베를린 회의
 has_id_wikidata: Q151423
 participant:
-- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-- '[[_Standards/WikiData/WD~German_Reich,1206012]]'
-- '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
-- '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579|WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193|WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~German_Reich,1206012|WD~German_Reich,1206012]]'
+- '[[_Standards/WikiData/WD~Ottoman_Empire,12560|WD~Ottoman_Empire,12560]]'
+- '[[_Standards/WikiData/WD~Austria_Hungary,28513|WD~Austria_Hungary,28513]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
 described_by_source:
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~summit,1072326]]'
-country: '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~summit,1072326|WD~summit,1072326]]'
+country: '[[_Standards/WikiData/WD~German_Reich,1206012|WD~German_Reich,1206012]]'
 end_time: 1878-07-13T00:00:00Z
 start_time: 1878-06-13T00:00:00Z
 coordinate_location: Point(13.381944444 52.511666666)

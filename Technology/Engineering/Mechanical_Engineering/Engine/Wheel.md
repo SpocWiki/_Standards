@@ -148,17 +148,17 @@ aliases:
 has_id_wikidata: Q446
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/MeshRad%2020221030.stl
 Commons_category: Wheels
-connects_with: '[[_Standards/WikiData/WD~wheel_hub_assembly,2140339]]'
+connects_with: '[[_Standards/WikiData/WD~wheel_hub_assembly,2140339|WD~wheel_hub_assembly,2140339]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-different_from: '[[_Standards/WikiData/WD~runner,3381460]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~runner,3381460|WD~runner,3381460]]'
 GS1_GPC_code: 10002926
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Hub%20%28PSF%29.png
@@ -169,10 +169,10 @@ Krugosvet_article: tehnologiya-i-promyshlennost/koleso
 Nomenclature_for_Museum_Cataloging: 9243
 OmegaWiki_Defined_Meaning: 335923
 part_of:
-- '[[_Standards/WikiData/WD~wheel_and_axle,592289]]'
-- '[[_Standards/WikiData/WD~wheeled_vehicle,15618781]]'
-shape: '[[_Standards/WikiData/WD~circle,17278]]'
-subclass_of: '[[_Standards/WikiData/WD~simple_machine,186713]]'
+- '[[_Standards/WikiData/WD~wheel_and_axle,592289|WD~wheel_and_axle,592289]]'
+- '[[_Standards/WikiData/WD~wheeled_vehicle,15618781|WD~wheeled_vehicle,15618781]]'
+shape: '[[_Standards/WikiData/WD~circle,17278|WD~circle,17278]]'
+subclass_of: '[[_Standards/WikiData/WD~simple_machine,186713|WD~simple_machine,186713]]'
 dv_has_:
   name_:
     ab: агьежь

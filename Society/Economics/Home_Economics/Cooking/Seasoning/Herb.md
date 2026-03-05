@@ -92,14 +92,14 @@ aliases:
 - 허브
 has_id_wikidata: Q207123
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-has_list: '[[_Standards/WikiData/WD~list_of_culinary_herbs_and_spices,1509910]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+has_list: '[[_Standards/WikiData/WD~list_of_culinary_herbs_and_spices,1509910|WD~list_of_culinary_herbs_and_spices,1509910]]'
 different_from:
-- '[[_Standards/WikiData/WD~Herb,4892727]]'
-- '[[_Standards/WikiData/WD~condiment_plant,31835960]]'
-subclass_of: '[[_Standards/WikiData/WD~plant,756]]'
-color: '[[_Standards/WikiData/WD~green,3133]]'
+- '[[_Standards/WikiData/WD~Herb,4892727|WD~Herb,4892727]]'
+- '[[_Standards/WikiData/WD~condiment_plant,31835960|WD~condiment_plant,31835960]]'
+subclass_of: '[[_Standards/WikiData/WD~plant,756|WD~plant,756]]'
+color: '[[_Standards/WikiData/WD~green,3133|WD~green,3133]]'
 IAB_code: 234
 OmegaWiki_Defined_Meaning: 8246
 image: http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%BCchenkr%C3%A4uter-1.jpg

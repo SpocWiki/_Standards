@@ -72,18 +72,18 @@ aliases:
 has_id_wikidata: Q483242
 described_by_source:
 - '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~laboratory_equipment,834028]]'
-- '[[_Standards/WikiData/WD~laboratory_technician,1483433]]'
-different_from: '[[_Standards/WikiData/WD~study,1759167]]'
+- '[[_Standards/WikiData/WD~laboratory_equipment,834028|WD~laboratory_equipment,834028]]'
+- '[[_Standards/WikiData/WD~laboratory_technician,1483433|WD~laboratory_technician,1483433]]'
+different_from: '[[_Standards/WikiData/WD~study,1759167|WD~study,1759167]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~study,1759167]]'
-- '[[_Standards/WikiData/WD~facility,13226383]]'
-- '[[_Standards/WikiData/WD~research_institute,31855]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_laboratory,10712699]]'
+- '[[_Standards/WikiData/WD~study,1759167|WD~study,1759167]]'
+- '[[_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
+- '[[_Standards/WikiData/WD~research_institute,31855|WD~research_institute,31855]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_laboratory,10712699|WD~Template_Infobox_laboratory,10712699]]'
 OmegaWiki_Defined_Meaning: 2048
 Dewey_Decimal_Classification:
 - 507.2

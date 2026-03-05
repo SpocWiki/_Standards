@@ -86,24 +86,24 @@ aliases:
 - 아프가니스탄 전쟁
 has_id_wikidata: Q182865
 participant:
-- '[[_Standards/WikiData/WD~Northern_Alliance,309368]]'
-- '[[_Standards/WikiData/WD~Islamic_Emirate_of_Afghanistan,427941]]'
-- '[[_Standards/WikiData/WD~Tehreek_e_Nafaz_e_Shariat_e_Mohammadi,690419]]'
-- '[[_Standards/WikiData/WD~Islamic_Movement_of_Uzbekistan,973179]]'
-- '[[_Standards/WikiData/WD~Turkistan_Islamic_Party,1674170]]'
-- '[[_Standards/WikiData/WD~055_Brigade,3076828]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Al_Qaeda,34490]]'
-follows: '[[_Standards/WikiData/WD~Operation_Infinite_Justice,1294257]]'
-part_of: '[[_Standards/WikiData/WD~post_Soviet_conflicts,1975306]]'
-order_of_battle: '[[_Standards/WikiData/WD~War_in_North_West_Pakistan_order_of_battle,7968614]]'
-location: '[[_Standards/WikiData/WD~Afghanistan,889]]'
-country: '[[_Standards/WikiData/WD~Afghanistan,889]]'
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+- '[[_Standards/WikiData/WD~Northern_Alliance,309368|WD~Northern_Alliance,309368]]'
+- '[[_Standards/WikiData/WD~Islamic_Emirate_of_Afghanistan,427941|WD~Islamic_Emirate_of_Afghanistan,427941]]'
+- '[[_Standards/WikiData/WD~Tehreek_e_Nafaz_e_Shariat_e_Mohammadi,690419|WD~Tehreek_e_Nafaz_e_Shariat_e_Mohammadi,690419]]'
+- '[[_Standards/WikiData/WD~Islamic_Movement_of_Uzbekistan,973179|WD~Islamic_Movement_of_Uzbekistan,973179]]'
+- '[[_Standards/WikiData/WD~Turkistan_Islamic_Party,1674170|WD~Turkistan_Islamic_Party,1674170]]'
+- '[[_Standards/WikiData/WD~055_Brigade,3076828|WD~055_Brigade,3076828]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Al_Qaeda,34490|WD~Al_Qaeda,34490]]'
+follows: '[[_Standards/WikiData/WD~Operation_Infinite_Justice,1294257|WD~Operation_Infinite_Justice,1294257]]'
+part_of: '[[_Standards/WikiData/WD~post_Soviet_conflicts,1975306|WD~post_Soviet_conflicts,1975306]]'
+order_of_battle: '[[_Standards/WikiData/WD~War_in_North_West_Pakistan_order_of_battle,7968614|WD~War_in_North_West_Pakistan_order_of_battle,7968614]]'
+location: '[[_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]'
+country: '[[_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]'
+instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 capital_cost: 2261000000000
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20of%20the%20War%20in%20Afghanistan%20%282001-2021%29.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20of%20the%20War%20in%20Afghanistan%20%282001-2021%29.png
@@ -119,7 +119,7 @@ official_name: Afghanistan Campaign
 start_time: 2001-10-07T00:00:00Z
 end_time: 2021-08-30T00:00:00Z
 booru_tag: war_in_afghanistan
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_War_in_Afghanistan_(2001_2021),7009851]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_War_in_Afghanistan_(2001_2021),7009851|WD~Category_War_in_Afghanistan_(2001_2021),7009851]]'
 dv_is_:
   same_as:
   - '[[../../../../../../../../WikiData/WD~War_in_Afghanistan,182865|WD~War_in_Afghanistan,182865]]'

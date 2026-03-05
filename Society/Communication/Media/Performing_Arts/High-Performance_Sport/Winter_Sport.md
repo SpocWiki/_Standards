@@ -64,13 +64,13 @@ aliases:
 - 冬季運動
 - 겨울 스포츠
 has_id_wikidata: Q204686
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Winter_sport,7465105]]'
-practiced_by: '[[_Standards/WikiData/WD~winter_sports_practitioner,20965770]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Winter_sport,7465105|WD~Portal_Winter_sport,7465105]]'
+practiced_by: '[[_Standards/WikiData/WD~winter_sports_practitioner,20965770|WD~winter_sports_practitioner,20965770]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~ice_and_snow_activities,56147424]]'
-- '[[_Standards/WikiData/WD~sport,349]]'
-opposite_of: '[[_Standards/WikiData/WD~summer_sport,60583336]]'
-described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+- '[[_Standards/WikiData/WD~ice_and_snow_activities,56147424|WD~ice_and_snow_activities,56147424]]'
+- '[[_Standards/WikiData/WD~sport,349|WD~sport,349]]'
+opposite_of: '[[_Standards/WikiData/WD~summer_sport,60583336|WD~summer_sport,60583336]]'
+described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
 U_S_National_Archives_Identifier: 10641836
 Iconclass_notation: 43C24
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Skier-carving-a-turn.jpg

@@ -68,12 +68,12 @@ aliases:
 - 中世纪哲学
 - 중세철학
 has_id_wikidata: Q192292
-different_from: '[[_Standards/WikiData/WD~medieval_Jewish_philosophy,9395791]]'
+different_from: '[[_Standards/WikiData/WD~medieval_Jewish_philosophy,9395791|WD~medieval_Jewish_philosophy,9395791]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~aspect_in_a_historical_period,111676757]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Medieval_Philosophy,13363601]]'
-subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_in_a_historical_period,111676757|WD~aspect_in_a_historical_period,111676757]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Medieval_Philosophy,13363601|WD~Template_Medieval_Philosophy,13363601]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 Dewey_Decimal_Classification: 180
 Basisklassifikation: 08.22
 Provenio_UUID: b78e2f46-4001-4fac-a5ab-ca053d1bdbb1

@@ -69,14 +69,14 @@ aliases:
 - 우주 탐사선
 has_id_wikidata: Q26529
 has_use:
-- '[[_Standards/WikiData/WD~space_exploration,180046]]'
-- '[[_Standards/WikiData/WD~science_project,1298668]]'
-subclass_of: '[[_Standards/WikiData/WD~robotic_spacecraft,1378139]]'
+- '[[_Standards/WikiData/WD~space_exploration,180046|WD~space_exploration,180046]]'
+- '[[_Standards/WikiData/WD~science_project,1298668|WD~science_project,1298668]]'
+subclass_of: '[[_Standards/WikiData/WD~robotic_spacecraft,1378139|WD~robotic_spacecraft,1378139]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Solar_System_probes,17487508]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_space_probe,25819628]]'
-has_part_s_: '[[_Standards/WikiData/WD~space_instrument,100349043]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Template_Solar_System_probes,17487508|WD~Template_Solar_System_probes,17487508]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_space_probe,25819628|WD~Template_Infobox_space_probe,25819628]]'
+has_part_s_: '[[_Standards/WikiData/WD~space_instrument,100349043|WD~space_instrument,100349043]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Nomenclature_for_Museum_Cataloging: 11742
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cassini%20Saturn%20Orbit%20Insertion.jpg
 Krugosvet_article_archived_: aviaciya-i-kosmonavtika/kosmicheskiy-zond

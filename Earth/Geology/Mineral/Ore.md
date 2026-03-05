@@ -68,26 +68,26 @@ aliases:
 - 광석
 has_id_wikidata: Q102798
 different_from:
-- '[[_Standards/WikiData/WD~red_hair,152357]]'
-- '[[_Standards/WikiData/WD~Ruda,226340]]'
-- '[[_Standards/WikiData/WD~or,430099]]'
+- '[[_Standards/WikiData/WD~red_hair,152357|WD~red_hair,152357]]'
+- '[[_Standards/WikiData/WD~Ruda,226340|WD~Ruda,226340]]'
+- '[[_Standards/WikiData/WD~or,430099|WD~or,430099]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mineral_resource,889659]]'
-- '[[_Standards/WikiData/WD~rock,8063]]'
+- '[[_Standards/WikiData/WD~mineral_resource,889659|WD~mineral_resource,889659]]'
+- '[[_Standards/WikiData/WD~rock,8063|WD~rock,8063]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Rocks_and_minerals,10994229]]'
-- '[[_Standards/WikiData/WD~WikiProject_Geology,14943910]]'
-- '[[_Standards/WikiData/WD~WikiProject_Mining,18621297]]'
-- '[[_Standards/WikiData/WD~WikiProject_Materials,88425338]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12548738,12548738]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Ores,17295374]]'
+- '[[_Standards/WikiData/WD~WikiProject_Rocks_and_minerals,10994229|WD~WikiProject_Rocks_and_minerals,10994229]]'
+- '[[_Standards/WikiData/WD~WikiProject_Geology,14943910|WD~WikiProject_Geology,14943910]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mining,18621297|WD~WikiProject_Mining,18621297]]'
+- '[[_Standards/WikiData/WD~WikiProject_Materials,88425338|WD~WikiProject_Materials,88425338]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12548738,12548738|WD~Q12548738,12548738]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ores,17295374|WD~Template_Ores,17295374]]'
 Product_and_Service_Code: 9610
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Banded%20iron%20formation.png
 exact_match: http://purl.obolibrary.org/obo/ENVO_02000094
@@ -96,7 +96,7 @@ Commons_gallery: Ore
 Commons_category: Ores
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Ore,102798]]'
+  - '[[../../../WikiData/WD~Ore,102798|WD~Ore,102798]]'
   - '[[/_Standards/Earth/Geology/Mineral/Ore|Ore]]'
   - '[[/_public/Earth/Geology/Mineral/Ore.public|Ore.public]]'
   - '[[/_internal/Earth/Geology/Mineral/Ore.internal|Ore.internal]]'
@@ -105,7 +105,7 @@ dv_is_:
   - '[[/_personal/Earth/Geology/Mineral/Ore.personal|Ore.personal]]'
   - '[[/_secret/Earth/Geology/Mineral/Ore.secret|Ore.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Ore,102798]]'
+- '[[../../../WikiData/WD~Ore,102798|WD~Ore,102798]]'
 - '[[/_Standards/Earth/Geology/Mineral/Ore|Ore]]'
 - '[[/_public/Earth/Geology/Mineral/Ore.public|Ore.public]]'
 - '[[/_internal/Earth/Geology/Mineral/Ore.internal|Ore.internal]]'

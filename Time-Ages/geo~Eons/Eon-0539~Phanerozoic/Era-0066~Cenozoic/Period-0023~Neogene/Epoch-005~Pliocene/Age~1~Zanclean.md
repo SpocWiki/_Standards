@@ -34,14 +34,14 @@ aliases:
 - 잔클레절
 has_id_wikidata: Q146094
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Giuseppe_Seguenza,3771433]]'
-named_after: '[[_Standards/WikiData/WD~Messana,4023782]]'
-significant_place: '[[_Standards/WikiData/WD~Eraclea_Minoa,18451539]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Zanclean,24068595]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Zanclean,133807943]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Giuseppe_Seguenza,3771433|WD~Giuseppe_Seguenza,3771433]]'
+named_after: '[[_Standards/WikiData/WD~Messana,4023782|WD~Messana,4023782]]'
+significant_place: '[[_Standards/WikiData/WD~Eraclea_Minoa,18451539|WD~Eraclea_Minoa,18451539]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Zanclean,24068595|WD~Category_Zanclean,24068595]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Zanclean,133807943|WD~GSSP_for_the_base_of_the_Zanclean,133807943]]'
 coordinate_location: Point(13.28055556 37.39166667)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Etapa4muda.jpg
 sRGB_color_hex_triplet: FFFFB3
@@ -150,7 +150,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 5.333 to 3.6 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-005_Ma_(Zanclean_Age).png]]  
+![[../../../../../../../xLarge/Earth/Geology/Earth-005_Ma_(Zanclean_Age).png|Earth-005_Ma_(Zanclean_Age).png]]  
 
 ## #has_/text_of_/abstract 
 

@@ -27,11 +27,11 @@ aliases:
 - 발생학적 오류
 has_id_wikidata: Q1202868
 subclass_of:
-- '[[_Standards/WikiData/WD~fallacy,186150]]'
-- '[[_Standards/WikiData/WD~irrelevant_conclusion,737677]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Genetic_fallacies,7178564]]'
-described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199]]'
+- '[[_Standards/WikiData/WD~fallacy,186150|WD~fallacy,186150]]'
+- '[[_Standards/WikiData/WD~irrelevant_conclusion,737677|WD~irrelevant_conclusion,737677]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Genetic_fallacies,7178564|WD~Category_Genetic_fallacies,7178564]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199|WD~type_of_fallacy,130993199]]'
 described_at_URL: https://www.logicallyfallacious.com/logicalfallacies/Genetic-Fallacy
 dv_has_:
   name_:

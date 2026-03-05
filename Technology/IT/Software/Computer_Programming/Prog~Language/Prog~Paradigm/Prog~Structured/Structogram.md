@@ -33,7 +33,7 @@ dv_has_:
 # [[Structogram]] 
 
 The [[Structured_program_theorem|Böhm–Jacopini theorem]] proved 1966, 
-that any Algorithm can be implemented withou[[../Prog~Imperative/GOTO-Statement]]]]. 
+that any Algorithm can be implemented withou[[../Prog~Imperative/GOTO-Statement|GOTO-Statement]]]]. 
 
 > A Nassi–Shneiderman diagram (NSD) in computer programming 
 > is a graphical design representation for structured programming. 
@@ -46,7 +46,7 @@ that any Algorithm can be implemented withou[[../Prog~Imperative/GOTO-Statement]
 
 
 It's Blocky structure is easy for small, Top-Down structured Programs, 
-because they have no representation fo[[../Prog~Imperative/GOTO-Statement]]]]. 
+because they have no representation fo[[../Prog~Imperative/GOTO-Statement|GOTO-Statement]]]]. 
 
 Alternatively use an UML activity-diagram  
 or the similar[[../../../../../IT/Data/Data~Graphics/Text-Diagrams/Diagram~Mermaid/MMD~Flowchart-Diagram|Flowchart-Diagram]]], but these are tempting to be implemented with GOTOs. 
@@ -57,7 +57,7 @@ but for nested Tables you better use HTML.
 Alternatively link to Sub-Diagrams, especially to [[#Function-call|Functions]], 
 instead of detailing them out within the same Diagram. 
 
-[[Structured_Prog-Lang/Prog~Scratch]] is a visual Programming Language whose Shapes form Structograms! 
+[[Structured_Prog-Lang/Prog~Scratch|Prog~Scratch]] is a visual Programming Language whose Shapes form Structograms! 
 
 ## Code-Sequence 
 
@@ -166,7 +166,7 @@ The corresponding[[../../../../../IT/Data/Data~Graphics/Text-Diagrams/Diagram~Me
 
 # return-Method 
 
-This is __not__ [[../Prog~Imperative/GOTO-Statement]]]], but a Method-Exit 
+This is __not__ [[../Prog~Imperative/GOTO-Statement|GOTO-Statement]]]], but a Method-Exit 
 
 <table >
 	<tr>
@@ -183,7 +183,7 @@ This is __not__ [[../Prog~Imperative/GOTO-Statement]]]], but a Method-Exit
 
 # break-Loop 
 
-This is __not__ [[../Prog~Imperative/GOTO-Statement]]]], but a Loop-Exit 
+This is __not__ [[../Prog~Imperative/GOTO-Statement|GOTO-Statement]]]], but a Loop-Exit 
 
 <table >
 	<tr><td colspan="2" >DO</td></tr>

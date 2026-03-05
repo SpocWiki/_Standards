@@ -52,20 +52,20 @@ aliases:
 - 이론 전산학
 has_id_wikidata: Q2878974
 has_part_s_:
-- '[[_Standards/WikiData/WD~computational_complexity_theory,205084]]'
-- '[[_Standards/WikiData/WD~automata_theory,214526]]'
-- '[[_Standards/WikiData/WD~database_theory,4809258]]'
-- '[[_Standards/WikiData/WD~algorithmics,13636890]]'
+- '[[_Standards/WikiData/WD~computational_complexity_theory,205084|WD~computational_complexity_theory,205084]]'
+- '[[_Standards/WikiData/WD~automata_theory,214526|WD~automata_theory,214526]]'
+- '[[_Standards/WikiData/WD~database_theory,4809258|WD~database_theory,4809258]]'
+- '[[_Standards/WikiData/WD~algorithmics,13636890|WD~algorithmics,13636890]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~fundamental_science,580234]]'
-- '[[_Standards/WikiData/WD~mathematics,395]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
+- '[[_Standards/WikiData/WD~fundamental_science,580234|WD~fundamental_science,580234]]'
+- '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
 instance_of:
-- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~branch_of_computer_science,123370638]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Theoretical_computer_science,112676076]]'
-part_of: '[[_Standards/WikiData/WD~computer_science,21198]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~branch_of_computer_science,123370638|WD~branch_of_computer_science,123370638]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Theoretical_computer_science,112676076|WD~Portal_Theoretical_computer_science,112676076]]'
+part_of: '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
 All_Science_Journal_Classification_Codes: 2614
 Basisklassifikation: 54.10
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-0x010C-informatique%20th%C3%A9orique.wav

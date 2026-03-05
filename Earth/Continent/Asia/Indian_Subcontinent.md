@@ -128,24 +128,24 @@ aliases:
 - 印度次大陸
 - 인도 아대륙
 has_id_wikidata: Q60140
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~South_Asia,771405]]'
-instance_of: '[[_Standards/WikiData/WD~subcontinent,855697]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Indian_realm,15566831]]'
-replaces: '[[_Standards/WikiData/WD~Insular_India,55614502]]'
-studied_by: '[[_Standards/WikiData/WD~South_Asia_studies,105397778]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q126806340,126806340]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~South_Asia,771405|WD~South_Asia,771405]]'
+instance_of: '[[_Standards/WikiData/WD~subcontinent,855697|WD~subcontinent,855697]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Indian_realm,15566831|WD~Portal_Indian_realm,15566831]]'
+replaces: '[[_Standards/WikiData/WD~Insular_India,55614502|WD~Insular_India,55614502]]'
+studied_by: '[[_Standards/WikiData/WD~South_Asia_studies,105397778|WD~South_Asia_studies,105397778]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q126806340,126806340|WD~Q126806340,126806340]]'
 coordinate_location: Point(76.97021 22.20775)
-highest_point: '[[_Standards/WikiData/WD~Mount_Everest,513]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Everest,513|WD~Mount_Everest,513]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Maldives,826]]'
-- '[[_Standards/WikiData/WD~Nepal,837]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Sri_Lanka,854]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Bhutan,917]]'
-country: '[[_Standards/WikiData/WD~India,668]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Maldives,826|WD~Maldives,826]]'
+- '[[_Standards/WikiData/WD~Nepal,837|WD~Nepal,837]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Bhutan,917|WD~Bhutan,917]]'
+country: '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 area: 4480000
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Indian%20Subcontinent%20%28orthographic%20projection%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Indian%20Subcontinent%20%28orthographic%20projection%29.svg

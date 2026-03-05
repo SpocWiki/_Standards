@@ -50,19 +50,19 @@ aliases:
 - 꼭대기쿼크
 has_id_wikidata: Q6778
 interaction:
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
-antiparticle: '[[_Standards/WikiData/WD~top_antiquark,11905754]]'
-has_superpartner: '[[_Standards/WikiData/WD~stop_squark,18732748]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415|WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418|WD~weak_interaction,11418]]'
+antiparticle: '[[_Standards/WikiData/WD~top_antiquark,11905754|WD~top_antiquark,11905754]]'
+has_superpartner: '[[_Standards/WikiData/WD~stop_squark,18732748|WD~stop_squark,18732748]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015|WD~type_of_quantum_particle,22675015]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~quark,6718]]'
-- '[[_Standards/WikiData/WD~elementary_particle,43116]]'
+- '[[_Standards/WikiData/WD~quark,6718|WD~quark,6718]]'
+- '[[_Standards/WikiData/WD~elementary_particle,43116|WD~elementary_particle,43116]]'
 parity_quantum_number: 1
 spin_quantum_number: 0.5
-research_site: '[[_Standards/WikiData/WD~Large_Hadron_Collider,40605]]'
+research_site: '[[_Standards/WikiData/WD~Large_Hadron_Collider,40605|WD~Large_Hadron_Collider,40605]]'
 Monte_Carlo_Particle_Number: 6
 mass: 172.57
 electric_charge: 0.6666666666666666

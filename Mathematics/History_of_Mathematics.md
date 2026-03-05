@@ -73,11 +73,11 @@ aliases:
 - 數學史
 - 수학의 역사
 has_id_wikidata: Q185264
-subclass_of: '[[_Standards/WikiData/WD~history_of_science,201486]]'
-practiced_by: '[[_Standards/WikiData/WD~historian_of_mathematics,17486330]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-facet_of: '[[_Standards/WikiData/WD~mathematics,395]]'
-main_subject: '[[_Standards/WikiData/WD~mathematics,395]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_science,201486|WD~history_of_science,201486]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_mathematics,17486330|WD~historian_of_mathematics,17486330]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+main_subject: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
 Library_of_Congress_Classification: QA21-QA27
 Basisklassifikation: 31.01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plimpton%20322.jpg

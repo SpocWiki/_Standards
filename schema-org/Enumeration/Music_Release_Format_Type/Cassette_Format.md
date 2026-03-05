@@ -27,9 +27,9 @@ tags:
 title: is_a_cassette_format Class
 type: Type
 dv_has_:
-  parent_class: "[[../MusicReleaseFormatType]]"
+  parent_class: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
 dv_is_:
-  enum_of: "[[../MusicReleaseFormatType]]"
+  enum_of: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format|Cassette_Format]]"
     - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.public|Cassette_Format.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.personal|Cassette_Format.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.secret|Cassette_Format.secret]]"
     - "[[Cassette_Format]]"
-dv_has_parent_class: "[[../MusicReleaseFormatType]]"
-dv_is_enum_of: "[[../MusicReleaseFormatType]]"
+dv_has_parent_class: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
+dv_is_enum_of: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
 dv_is_same_as:
   - "[[Cassette_Format]]"
   - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.public|Cassette_Format.public]]"

@@ -34,16 +34,16 @@ aliases:
 - ハーグ条約 (1899年及び1907年)
 - 海牙公约
 has_id_wikidata: Q1566316
-instance_of: '[[_Standards/WikiData/WD~treaty,131569]]'
-different_from: '[[_Standards/WikiData/WD~Hague_Convention,247207]]'
+instance_of: '[[_Standards/WikiData/WD~treaty,131569|WD~treaty,131569]]'
+different_from: '[[_Standards/WikiData/WD~Hague_Convention,247207|WD~Hague_Convention,247207]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-applies_to_jurisdiction: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Hague_Conventions_of_1899,123010429]]'
-- '[[_Standards/WikiData/WD~Hague_Conventions_of_1907,123010567]]'
+- '[[_Standards/WikiData/WD~Hague_Conventions_of_1899,123010429|WD~Hague_Conventions_of_1899,123010429]]'
+- '[[_Standards/WikiData/WD~Hague_Conventions_of_1907,123010567|WD~Hague_Conventions_of_1907,123010567]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20First%20International%20Peace%20Conference%2C%20the%20Hague%2C%20May%20-%20June%201899%20HU67224.jpg
 dv_has_:
   name_:
@@ -85,7 +85,7 @@ dv_has_:
 
 # [[Hague_Conventions]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hague_Conventions_of_1899_and_1907,1566316]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Hague_Conventions_of_1899_and_1907,1566316|WD~Hague_Conventions_of_1899_and_1907,1566316]]  
 
 ## #has_/text_of_/abstract 
 

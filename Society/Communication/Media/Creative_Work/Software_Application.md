@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A software application.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ MobileApplication, VideoGame, WebApplication ]  
 

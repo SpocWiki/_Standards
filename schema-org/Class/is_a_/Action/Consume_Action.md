@@ -47,7 +47,7 @@ dv_has_:
     - "[[Consume_Action/View_Action|View_Action]]"
     - "[[Consume_Action/Watch_Action|Watch_Action]]"
   parent_class:
-    - "[[../Action]]"
+    - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_accessibility_requirement|has_action_accessibility_requirement]]"
     - "[[../../../Relation/has/has_action/has_action_status|has_action_status]]"
@@ -76,7 +76,7 @@ dv_has_:
     - "[[../../../Relation/has/has_target|has_target]]"
     - "[[../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../Action]]"
+  - "[[../Action|Action]]"
 dv_has_child_class:
   - "[[Consume_Action/Drink_Action|Drink_Action]]"
   - "[[Consume_Action/Eat_Action|Eat_Action]]"

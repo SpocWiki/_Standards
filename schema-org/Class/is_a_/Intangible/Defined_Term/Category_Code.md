@@ -26,7 +26,7 @@ tags:
 title: is_a_category_code Class
 type: Type
 dv_is_:
-  parent_class: "[[../DefinedTerm]]"
+  parent_class: "[[../DefinedTerm|DefinedTerm]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]"
@@ -59,7 +59,7 @@ dv_has_:
     - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../defined_term|../defined_term]]"
+  - "[[../defined_term|../defined_term|defined_term]]"
 dv_has_child_class:
   - "[[Category_Code/Medical_Code|Medical_Code]]"
 dv_has_properties:

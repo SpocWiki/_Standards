@@ -63,25 +63,25 @@ aliases:
 - 醫藥產業
 - 제약산업
 has_id_wikidata: Q507443
-instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
+instance_of: '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~pharmaceuticals_wholesales,1781782]]'
-- '[[_Standards/WikiData/WD~clinical_research,5133849]]'
-- '[[_Standards/WikiData/WD~pharmaceutical_company,19644607]]'
+- '[[_Standards/WikiData/WD~pharmaceuticals_wholesales,1781782|WD~pharmaceuticals_wholesales,1781782]]'
+- '[[_Standards/WikiData/WD~clinical_research,5133849|WD~clinical_research,5133849]]'
+- '[[_Standards/WikiData/WD~pharmaceutical_company,19644607|WD~pharmaceutical_company,19644607]]'
 has_list:
-- '[[_Standards/WikiData/WD~list_of_pharmaceutical_companies,2087302]]'
-- '[[_Standards/WikiData/WD~list_of_pharmaceutical_manufacturers_in_the_United_Kingdom,6633340]]'
-- '[[_Standards/WikiData/WD~list_of_pharmaceutical_laboratories_by_year_of_foundation,55619472]]'
+- '[[_Standards/WikiData/WD~list_of_pharmaceutical_companies,2087302|WD~list_of_pharmaceutical_companies,2087302]]'
+- '[[_Standards/WikiData/WD~list_of_pharmaceutical_manufacturers_in_the_United_Kingdom,6633340|WD~list_of_pharmaceutical_manufacturers_in_the_United_Kingdom,6633340]]'
+- '[[_Standards/WikiData/WD~list_of_pharmaceutical_laboratories_by_year_of_foundation,55619472|WD~list_of_pharmaceutical_laboratories_by_year_of_foundation,55619472]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~drug_development,2198549]]'
-- '[[_Standards/WikiData/WD~pharmaceutical_marketing,5254772]]'
-- '[[_Standards/WikiData/WD~pharmaceutical_manufacturing,7180757]]'
-- '[[_Standards/WikiData/WD~pharmaceutical_sciences,7180763]]'
+- '[[_Standards/WikiData/WD~drug_development,2198549|WD~drug_development,2198549]]'
+- '[[_Standards/WikiData/WD~pharmaceutical_marketing,5254772|WD~pharmaceutical_marketing,5254772]]'
+- '[[_Standards/WikiData/WD~pharmaceutical_manufacturing,7180757|WD~pharmaceutical_manufacturing,7180757]]'
+- '[[_Standards/WikiData/WD~pharmaceutical_sciences,7180763|WD~pharmaceutical_sciences,7180763]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~pharmaceutical_product,28885102]]'
-- '[[_Standards/WikiData/WD~medication,12140]]'
-different_from: '[[_Standards/WikiData/WD~manufacture_of_basic_pharmaceutical_products_and_pharmaceutical_preparations,29584274]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Big_Pharma,109017490]]'
+- '[[_Standards/WikiData/WD~pharmaceutical_product,28885102|WD~pharmaceutical_product,28885102]]'
+- '[[_Standards/WikiData/WD~medication,12140|WD~medication,12140]]'
+different_from: '[[_Standards/WikiData/WD~manufacture_of_basic_pharmaceutical_products_and_pharmaceutical_preparations,29584274|WD~manufacture_of_basic_pharmaceutical_products_and_pharmaceutical_preparations,29584274]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Big_Pharma,109017490|WD~Big_Pharma,109017490]]'
 IAB_code: 109
 OmegaWiki_Defined_Meaning: 2767
 short_name: Pharma
@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Big_Pharma]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~pharmaceutical_industry,507443]] 
+#is_/same_as :: [[_Standards/WikiData/WD~pharmaceutical_industry,507443|WD~pharmaceutical_industry,507443]] 
 
 ## #has_/text_of_/abstract 
 

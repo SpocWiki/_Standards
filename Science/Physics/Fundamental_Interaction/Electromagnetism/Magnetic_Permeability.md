@@ -55,18 +55,18 @@ aliases:
 - 투자율
 has_id_wikidata: Q28352
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~material_property,112225193]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~material_property,112225193|WD~material_property,112225193]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936|WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945|WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~henry_per_metre,55663153]]'
-- '[[_Standards/WikiData/WD~kilogram_metre_per_square_second_square_ampere,118867655]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~magnetic_permeability,65280352]]'
-different_from: '[[_Standards/WikiData/WD~relative_permeability,77785645]]'
+- '[[_Standards/WikiData/WD~henry_per_metre,55663153|WD~henry_per_metre,55663153]]'
+- '[[_Standards/WikiData/WD~kilogram_metre_per_square_second_square_ampere,118867655|WD~kilogram_metre_per_square_second_square_ampere,118867655]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~magnetic_permeability,65280352|WD~magnetic_permeability,65280352]]'
+different_from: '[[_Standards/WikiData/WD~relative_permeability,77785645|WD~relative_permeability,77785645]]'
 in_defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46F</mi></mrow></mstyle></mrow></math>"
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BC;</mi></mstyle></mrow></math>

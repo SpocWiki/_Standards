@@ -58,16 +58,16 @@ aliases:
 - 혈연
 has_id_wikidata: Q774347
 subclass_of:
-- '[[_Standards/WikiData/WD~kinship,171318]]'
-- '[[_Standards/WikiData/WD~property,937228]]'
+- '[[_Standards/WikiData/WD~kinship,171318|WD~kinship,171318]]'
+- '[[_Standards/WikiData/WD~property,937228|WD~property,937228]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-opposite_of: '[[_Standards/WikiData/WD~nominal_kinship,11666901]]'
-different_from: '[[_Standards/WikiData/WD~genetic_relationship,66372737]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+opposite_of: '[[_Standards/WikiData/WD~nominal_kinship,11666901|WD~nominal_kinship,11666901]]'
+different_from: '[[_Standards/WikiData/WD~genetic_relationship,66372737|WD~genetic_relationship,66372737]]'
 facet_of:
-- '[[_Standards/WikiData/WD~inbreeding,38978]]'
-- '[[_Standards/WikiData/WD~genealogy,47307]]'
+- '[[_Standards/WikiData/WD~inbreeding,38978|WD~inbreeding,38978]]'
+- '[[_Standards/WikiData/WD~genealogy,47307|WD~genealogy,47307]]'
 NCI_Dictionary_of_Genetics_Terms_entry: consanguinity
 Biology_Online_Biology_Dictionary_entry: consanguinity
 Commons_category: Consanguinity

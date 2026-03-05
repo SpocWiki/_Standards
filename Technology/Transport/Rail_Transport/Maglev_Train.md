@@ -61,11 +61,11 @@ aliases:
 - 자기부상열차
 has_id_wikidata: Q160047
 powered_by:
-- '[[_Standards/WikiData/WD~jet_force,748254]]'
-- '[[_Standards/WikiData/WD~linear_motor,1164566]]'
-uses: '[[_Standards/WikiData/WD~magnetic_levitation,1061251]]'
-instance_of: '[[_Standards/WikiData/WD~train_and_rail_category,16858238]]'
-subclass_of: '[[_Standards/WikiData/WD~train,870]]'
+- '[[_Standards/WikiData/WD~jet_force,748254|WD~jet_force,748254]]'
+- '[[_Standards/WikiData/WD~linear_motor,1164566|WD~linear_motor,1164566]]'
+uses: '[[_Standards/WikiData/WD~magnetic_levitation,1061251|WD~magnetic_levitation,1061251]]'
+instance_of: '[[_Standards/WikiData/WD~train_and_rail_category,16858238|WD~train_and_rail_category,16858238]]'
+subclass_of: '[[_Standards/WikiData/WD~train,870|WD~train,870]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shanghai%20maglev%20train.jpg
 Commons_gallery: Maglev
 Commons_category: Magnetic levitation trains

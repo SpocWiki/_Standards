@@ -145,40 +145,40 @@ aliases:
 - 아프리카 연합
 - 아프리카동맹
 has_id_wikidata: Q7159
-anthem: '[[_Standards/WikiData/WD~Let_Us_All_Unite_and_Celebrate_Together,1821037]]'
-capital: '[[_Standards/WikiData/WD~Addis_Ababa,3624]]'
+anthem: '[[_Standards/WikiData/WD~Let_Us_All_Unite_and_Celebrate_Together,1821037|WD~Let_Us_All_Unite_and_Celebrate_Together,1821037]]'
+capital: '[[_Standards/WikiData/WD~Addis_Ababa,3624|WD~Addis_Ababa,3624]]'
 Commons_category: African Union
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_African_Thought,22639418]]'
-different_from: '[[_Standards/WikiData/WD~astronomical_unit,1811]]'
+- '[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_African_Thought,22639418|WD~The_Oxford_Encyclopedia_of_African_Thought,22639418]]'
+different_from: '[[_Standards/WikiData/WD~astronomical_unit,1811|WD~astronomical_unit,1811]]'
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Brazil,155]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_African_Union,5333816]]'
+- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_African_Union,5333816|WD~economy_of_the_African_Union,5333816]]'
 EU_Corporate_body_code: UNION_AFR
-flag: '[[_Standards/WikiData/WD~flag_of_the_African_Union,630077]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_African_Union,630077|WD~flag_of_the_African_Union,630077]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20African%20Union.svg
-follows: '[[_Standards/WikiData/WD~Organisation_of_African_Unity,191703]]'
-funder: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_the_African_Union,5535259]]'
+follows: '[[_Standards/WikiData/WD~Organisation_of_African_Unity,191703|WD~Organisation_of_African_Unity,191703]]'
+funder: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194|WD~Open_Society_Foundations,786194]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_the_African_Union,5535259|WD~geography_of_the_African_Union,5535259]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Regions_of_the_African_Union,17092680]]'
-has_subsidiary: '[[_Standards/WikiData/WD~Africa_Centres_for_Disease_Control_and_Prevention,88234914]]'
+- '[[_Standards/WikiData/WD~Regions_of_the_African_Union,17092680|WD~Regions_of_the_African_Union,17092680]]'
+has_subsidiary: '[[_Standards/WikiData/WD~Africa_Centres_for_Disease_Control_and_Prevention,88234914|WD~Africa_Centres_for_Disease_Control_and_Prevention,88234914]]'
 has_time_started: 1999-09-09
 headquarters_location:
-- '[[_Standards/WikiData/WD~Addis_Ababa,3624]]'
-- '[[_Standards/WikiData/WD~Johannesburg,34647]]'
+- '[[_Standards/WikiData/WD~Addis_Ababa,3624|WD~Addis_Ababa,3624]]'
+- '[[_Standards/WikiData/WD~Johannesburg,34647|WD~Johannesburg,34647]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20the%20African%20Union%20with%20Suspended%20States.svg
 inception: 1999-09-09
 Instagram_username: africanunion_official
 instance_of:
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
-- '[[_Standards/WikiData/WD~continental_union,769802]]'
-- '[[_Standards/WikiData/WD~regional_organization,4120211]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~continental_union,769802|WD~continental_union,769802]]'
+- '[[_Standards/WikiData/WD~regional_organization,4120211|WD~regional_organization,4120211]]'
 ISNI:
 - 0000000121899463
 Krugosvet_article: istoriya/AFRIKANSKI_SOYUZ_AS.html
 legislative_body:
-- '[[_Standards/WikiData/WD~Pan-African_Parliament,1340659]]'
+- '[[_Standards/WikiData/WD~Pan-African_Parliament,1340659|WD~Pan-African_Parliament,1340659]]'
 Libris_URI: khw04hq30jrww20
 MeSH_tree_code:
 - I01.615.500.125
@@ -187,25 +187,25 @@ motto_text:
 - A United and Strong Africa
 - Une Afrique unie et forte
 official_language:
-- '[[_Standards/WikiData/WD~languages_of_Africa,207930]]'
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Portuguese,5146]]'
-- '[[_Standards/WikiData/WD~Swahili,7838]]'
-- '[[_Standards/WikiData/WD~Arabic,13955]]'
-- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~languages_of_Africa,207930|WD~languages_of_Africa,207930]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146|WD~Portuguese,5146]]'
+- '[[_Standards/WikiData/WD~Swahili,7838|WD~Swahili,7838]]'
+- '[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
 official_observer_status_in_organisation:
-- '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
-- '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
-- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773|WD~World_Intellectual_Property_Organization,177773]]'
+- '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311|WD~International_Organization_for_Migration,472311]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
 official_website: https://au.int
 owner_of:
-- '[[_Standards/WikiData/WD~African_Union_Conference_Center_and_Office_Complex,4655013]]'
-- '[[_Standards/WikiData/WD~Q17620982,17620982]]'
-partnership_with: '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Chairperson_of_the_African_Union,946339]]'
+- '[[_Standards/WikiData/WD~African_Union_Conference_Center_and_Office_Complex,4655013|WD~African_Union_Conference_Center_and_Office_Complex,4655013]]'
+- '[[_Standards/WikiData/WD~Q17620982,17620982|WD~Q17620982,17620982]]'
+partnership_with: '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761|WD~International_Civil_Aviation_Organization,125761]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Chairperson_of_the_African_Union,946339|WD~Chairperson_of_the_African_Union,946339]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A.wav
 short_name:
 - XA
@@ -251,10 +251,10 @@ spoken_text_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/African%20Union3.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/African%20Union4.ogg
 Threads_username: africanunion_official
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_African_Union,6481073]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_African_Union,6481073|WD~Template_African_Union,6481073]]'
 UMLS_CUI: C4042919
 webcam_page_URL: https://livestream.com/accounts/2466140
-website_account_on: '[[_Standards/WikiData/WD~Livestream,2378942]]'
+website_account_on: '[[_Standards/WikiData/WD~Livestream,2378942|WD~Livestream,2378942]]'
 X_Twitter_username: _AfricanUnion
 dv_has_:
   name_:
@@ -446,7 +446,7 @@ dv_has_:
 
 # [[African_Union]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~African_Union,7159]] 
+#is_/same_as :: [[../../../../../WikiData/WD~African_Union,7159|WD~African_Union,7159]] 
 
 ## #has_/text_of_/abstract 
 

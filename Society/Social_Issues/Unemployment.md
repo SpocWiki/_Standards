@@ -102,20 +102,20 @@ has_id_wikidata: Q41171
 Commons_category: Unemployment
 Dewey_Decimal_Classification: 331.137
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-has_characteristic: '[[_Standards/WikiData/WD~unemployment_rate,1787954]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_characteristic: '[[_Standards/WikiData/WD~unemployment_rate,1787954|WD~unemployment_rate,1787954]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_issue,1920219]]'
-- '[[_Standards/WikiData/WD~state,3505845]]'
-opposite_of: '[[_Standards/WikiData/WD~employment_opportunities,2266417]]'
+- '[[_Standards/WikiData/WD~social_issue,1920219|WD~social_issue,1920219]]'
+- '[[_Standards/WikiData/WD~state,3505845|WD~state,3505845]]'
+opposite_of: '[[_Standards/WikiData/WD~employment_opportunities,2266417|WD~employment_opportunities,2266417]]'
 has_effect:
-- '[[_Standards/WikiData/WD~psychological_stress,3500368]]'
-- '[[_Standards/WikiData/WD~poverty,10294]]'
-instance_of: '[[_Standards/WikiData/WD~status,11424100]]'
-practiced_by: '[[_Standards/WikiData/WD~unemployed,28790169]]'
+- '[[_Standards/WikiData/WD~psychological_stress,3500368|WD~psychological_stress,3500368]]'
+- '[[_Standards/WikiData/WD~poverty,10294|WD~poverty,10294]]'
+instance_of: '[[_Standards/WikiData/WD~status,11424100|WD~status,11424100]]'
+practiced_by: '[[_Standards/WikiData/WD~unemployed,28790169|WD~unemployed,28790169]]'
 U_S_National_Archives_Identifier: 10643349
 described_at_URL: https://stadtlexikon.karlsruhe.de/index.php/De:Lexikon:ereig-0083
 Iconclass_notation: 46A179

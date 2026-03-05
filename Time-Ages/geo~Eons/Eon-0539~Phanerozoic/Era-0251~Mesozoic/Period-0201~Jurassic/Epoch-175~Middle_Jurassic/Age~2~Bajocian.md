@@ -26,16 +26,16 @@ aliases:
 - 巴柔期
 - 바욕절
 has_id_wikidata: Q375180
-named_after: '[[_Standards/WikiData/WD~Bayeux,183910]]'
-named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
+named_after: '[[_Standards/WikiData/WD~Bayeux,183910|WD~Bayeux,183910]]'
+named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Cabo_Mondego,655636]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bajocian,21697525]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bajocian,134269198]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Cabo_Mondego,655636|WD~Cabo_Mondego,655636]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bajocian,21697525|WD~Category_Bajocian,21697525]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bajocian,134269198|WD~GSSP_for_the_base_of_the_Bajocian,134269198]]'
 start_time: -170300000-01-01T00:00:00Z
 end_time: -168300000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 9CE2EF
@@ -153,7 +153,7 @@ has_next_item = `=this.dv_has_next_item`
 A time period from 170.9 to 168.2 million years ago. 
 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-170_Ma_(Bajocian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-170_Ma_(Bajocian_Age).png|Earth-170_Ma_(Bajocian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

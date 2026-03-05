@@ -60,16 +60,16 @@ aliases:
 - 고대 그리스 연극
 has_id_wikidata: Q189072
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240|WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~ancient_Greek_art,1747618]]'
-- '[[_Standards/WikiData/WD~theatre_of_the_Earth,109677224]]'
-uses: '[[_Standards/WikiData/WD~Greek_theatre,2860319]]'
-part_of: '[[_Standards/WikiData/WD~theatre_in_Greece,4176663]]'
-instance_of: '[[_Standards/WikiData/WD~theatre_of_an_area,81391454]]'
+- '[[_Standards/WikiData/WD~ancient_Greek_art,1747618|WD~ancient_Greek_art,1747618]]'
+- '[[_Standards/WikiData/WD~theatre_of_the_Earth,109677224|WD~theatre_of_the_Earth,109677224]]'
+uses: '[[_Standards/WikiData/WD~Greek_theatre,2860319|WD~Greek_theatre,2860319]]'
+part_of: '[[_Standards/WikiData/WD~theatre_in_Greece,4176663|WD~theatre_in_Greece,4176663]]'
+instance_of: '[[_Standards/WikiData/WD~theatre_of_an_area,81391454|WD~theatre_of_an_area,81391454]]'
 Commons_gallery: Ancient Greek theatre
 Commons_category: Ancient Greek theatre
 Krugosvet_article_archived_:

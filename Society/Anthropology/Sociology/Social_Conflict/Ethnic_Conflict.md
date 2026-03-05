@@ -50,8 +50,8 @@ aliases:
 - 種族衝突
 - 민족 분쟁
 has_id_wikidata: Q766875
-subclass_of: '[[_Standards/WikiData/WD~social_conflict,2672648]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
+subclass_of: '[[_Standards/WikiData/WD~social_conflict,2672648|WD~social_conflict,2672648]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_conflict,125092269|WD~type_of_conflict,125092269]]'
 dv_has_:
   name_:
     ar: صراع عرقي

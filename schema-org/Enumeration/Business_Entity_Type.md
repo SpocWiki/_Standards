@@ -26,7 +26,7 @@ tags:
 title: is_a_business_entity_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Business_Entity_Type|Business_Entity_Type]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Business_Entity_Type.personal|Business_Entity_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Business_Entity_Type.secret|Business_Entity_Type.secret]]"
     - "[[Business_Entity_Type]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Business_Entity_Type]]"
   - "[[/_public/schema-org/Enumeration/Business_Entity_Type.public|Business_Entity_Type.public]]"
@@ -66,9 +66,9 @@ Commonly used values:
 
 Businesses are also distinguished by Ownership:: 
 - [[../../../../../../Knowledge/Business/Business-Entity/Sole_Proprietor|Sole_Proprietor]] 
-- [[../../../../../../Knowledge/Business/Business-Entity/Partnership]] 
-- [[../../../../../Society/Agent/Community/Organization/Company/Corporation]]  
-- [[../../../../../../Knowledge/Business/Business-Entity/LLC(Limited_Liability_Company)]] 
+- [[../../../../../../Knowledge/Business/Business-Entity/Partnership|Partnership]] 
+- [[../../../../../Society/Agent/Community/Organization/Company/Corporation|Corporation]]  
+- [[../../../../../../Knowledge/Business/Business-Entity/LLC(Limited_Liability_Company)|LLC(Limited_Liability_Company)]] 
 
 has_parent_class = `=this.dv_has_parent_class` 
 

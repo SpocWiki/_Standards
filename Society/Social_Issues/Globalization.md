@@ -121,40 +121,40 @@ aliases:
 has_id_wikidata: Q7181
 Commons_category: Globalization
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-different_from: '[[_Standards/WikiData/WD~multilingualization,24897624]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760|WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+different_from: '[[_Standards/WikiData/WD~multilingualization,24897624|WD~multilingualization,24897624]]'
 has_cause:
-- '[[_Standards/WikiData/WD~international_trade,178803]]'
-- '[[_Standards/WikiData/WD~diplomacy,1889]]'
-- '[[_Standards/WikiData/WD~mass_media,11033]]'
-- '[[_Standards/WikiData/WD~travel,61509]]'
+- '[[_Standards/WikiData/WD~international_trade,178803|WD~international_trade,178803]]'
+- '[[_Standards/WikiData/WD~diplomacy,1889|WD~diplomacy,1889]]'
+- '[[_Standards/WikiData/WD~mass_media,11033|WD~mass_media,11033]]'
+- '[[_Standards/WikiData/WD~travel,61509|WD~travel,61509]]'
 has_effect:
-- '[[_Standards/WikiData/WD~multiculturalism,190656]]'
-- '[[_Standards/WikiData/WD~cultural_conflict,5193269]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_globalization,5867928]]'
-instance_of: '[[_Standards/WikiData/WD~social_theory,1990987]]'
+- '[[_Standards/WikiData/WD~multiculturalism,190656|WD~multiculturalism,190656]]'
+- '[[_Standards/WikiData/WD~cultural_conflict,5193269|WD~cultural_conflict,5193269]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_globalization,5867928|WD~history_of_globalization,5867928]]'
+instance_of: '[[_Standards/WikiData/WD~social_theory,1990987|WD~social_theory,1990987]]'
 Krugosvet_article: istoriya/GLOBALIZATSIYA.html
 Library_of_Congress_Classification: JZ1317.5-JZ1324
-named_after: '[[_Standards/WikiData/WD~globe,133792]]'
+named_after: '[[_Standards/WikiData/WD~globe,133792|WD~globe,133792]]'
 OmegaWiki_Defined_Meaning: 7329
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~deglobalization,977984]]'
-- '[[_Standards/WikiData/WD~triadization,2452266]]'
+- '[[_Standards/WikiData/WD~deglobalization,977984|WD~deglobalization,977984]]'
+- '[[_Standards/WikiData/WD~triadization,2452266|WD~triadization,2452266]]'
 PhilPapers_topic: globalization
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Globalisasyon.wav
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Canal%20de%20Panam%C3%A1%20Mayo%202008%20342.jpg
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~economic_globalization,2339766]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~economic_globalization,2339766|WD~economic_globalization,2339766]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Globalization.mp3
 studied_in:
-- '[[_Standards/WikiData/WD~international_studies,5654877]]'
-- '[[_Standards/WikiData/WD~globalization_studies,87593377]]'
-subclass_of: '[[_Standards/WikiData/WD~interaction,52948]]'
+- '[[_Standards/WikiData/WD~international_studies,5654877|WD~international_studies,5654877]]'
+- '[[_Standards/WikiData/WD~globalization_studies,87593377|WD~globalization_studies,87593377]]'
+subclass_of: '[[_Standards/WikiData/WD~interaction,52948|WD~interaction,52948]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Globalization,11289692]]'
-- '[[_Standards/WikiData/WD~Template_Globalization_sidebar,16827250]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_globalization,17164731]]'
+- '[[_Standards/WikiData/WD~Template_Globalization,11289692|WD~Template_Globalization,11289692]]'
+- '[[_Standards/WikiData/WD~Template_Globalization_sidebar,16827250|WD~Template_Globalization_sidebar,16827250]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_globalization,17164731|WD~outline_of_globalization,17164731]]'
 Wolfram_Language_entity_code: Entity["Concept", "Globalisation::zbks4"]
 dv_has_:
   name_:
@@ -345,7 +345,7 @@ dv_has_:
 > large parts of the history of globalization, and of modern globalization.
 >
 > Economically, globalization involves goods, services, data, technology, 
-> and the economic resources of [[../Ideology/Economic_Ideology/Capitalism/Capital(Economics)]]. 
+> and the economic resources of [[../Ideology/Economic_Ideology/Capitalism/Capital(Economics)|Capital(Economics)]]. 
 > 
 > The expansion of global markets liberalizes the economic activities of the exchange of goods and funds. Removal of cross-border trade barriers has made the formation of global markets more feasible. Advances in transportation, like the steam locomotive, steamship, jet engine, and container ships, and developments in telecommunication infrastructure such as the telegraph, the Internet, mobile phones, and smartphones, have been major factors in globalization and have generated further interdependence of economic and cultural activities around the globe.
 >
@@ -358,7 +358,7 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Globalization) 
 
 
-[[../../../_protect/Society/Sociology/Politics/German_Politics/Jamaika-Koalition]] 
+[[../../../_protect/Society/Sociology/Politics/German_Politics/Jamaika-Koalition|Jamaika-Koalition]] 
 
 
 ## Confidential Links & Embeds: 

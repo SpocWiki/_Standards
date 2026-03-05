@@ -70,13 +70,13 @@ aliases:
 - 인테리어 디자인
 has_id_wikidata: Q179232
 instance_of:
-- '[[_Standards/WikiData/WD~creative_industries,969040]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~interior_architecture,1329946]]'
-practiced_by: '[[_Standards/WikiData/WD~interior_designer,2133309]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~interior_decoration,5875045]]'
-subclass_of: '[[_Standards/WikiData/WD~environmental_design,114436249]]'
+- '[[_Standards/WikiData/WD~creative_industries,969040|WD~creative_industries,969040]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~type_of_arts,56055944|WD~type_of_arts,56055944]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~interior_architecture,1329946|WD~interior_architecture,1329946]]'
+practiced_by: '[[_Standards/WikiData/WD~interior_designer,2133309|WD~interior_designer,2133309]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~interior_decoration,5875045|WD~interior_decoration,5875045]]'
+subclass_of: '[[_Standards/WikiData/WD~environmental_design,114436249|WD~environmental_design,114436249]]'
 IAB_code: 283
 Dewey_Decimal_Classification: 747
 UMLS_CUI:
@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Interior_Design]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~interior_design,179232]] 
+#is_/same_as :: [[_Standards/WikiData/WD~interior_design,179232|WD~interior_design,179232]] 
 
 ## #has_/text_of_/abstract 
 

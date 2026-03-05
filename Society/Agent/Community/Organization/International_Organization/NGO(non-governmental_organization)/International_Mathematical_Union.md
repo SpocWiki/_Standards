@@ -45,23 +45,23 @@ aliases:
 - 국제 수학자 연맹
 has_id_wikidata: Q828490
 instance_of:
-- '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
-- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
-- '[[_Standards/WikiData/WD~mathematical_society,112667618]]'
-chairperson: '[[_Standards/WikiData/WD~Hiraku_Nakajima,371515]]'
+- '[[_Standards/WikiData/WD~nonprofit_organization,163740|WD~nonprofit_organization,163740]]'
+- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093|WD~international_non_governmental_organization,1194093]]'
+- '[[_Standards/WikiData/WD~mathematical_society,112667618|WD~mathematical_society,112667618]]'
+chairperson: '[[_Standards/WikiData/WD~Hiraku_Nakajima,371515|WD~Hiraku_Nakajima,371515]]'
 grants:
-- '[[_Standards/WikiData/WD~Chern_Medal,1070276]]'
-- '[[_Standards/WikiData/WD~Leelavati_Award,6547571]]'
+- '[[_Standards/WikiData/WD~Chern_Medal,1070276|WD~Chern_Medal,1070276]]'
+- '[[_Standards/WikiData/WD~Leelavati_Award,6547571|WD~Leelavati_Award,6547571]]'
 member_of:
-- '[[_Standards/WikiData/WD~Committee_on_Space_Research,1115753]]'
-- '[[_Standards/WikiData/WD~International_Council_for_Science,1162568]]'
-- '[[_Standards/WikiData/WD~International_Science_Council,57587699]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Weierstrass_Institute,2555215]]'
-board_member: '[[_Standards/WikiData/WD~Helge_Holden,3378092]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-field_of_work: '[[_Standards/WikiData/WD~mathematics,395]]'
-country: '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Committee_on_Space_Research,1115753|WD~Committee_on_Space_Research,1115753]]'
+- '[[_Standards/WikiData/WD~International_Council_for_Science,1162568|WD~International_Council_for_Science,1162568]]'
+- '[[_Standards/WikiData/WD~International_Science_Council,57587699|WD~International_Science_Council,57587699]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Weierstrass_Institute,2555215|WD~Weierstrass_Institute,2555215]]'
+board_member: '[[_Standards/WikiData/WD~Helge_Holden,3378092|WD~Helge_Holden,3378092]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+field_of_work: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 short_name:
 - IMU
 - UMI

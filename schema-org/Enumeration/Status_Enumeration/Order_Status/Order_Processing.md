@@ -27,9 +27,9 @@ tags:
 title: is_an_order_processing Class
 type: Type
 dv_has_:
-  parent_class: "[[../OrderStatus]]"
+  parent_class: "[[../OrderStatus|OrderStatus]]"
 dv_is_:
-  enum_of: "[[../OrderStatus]]"
+  enum_of: "[[../OrderStatus|OrderStatus]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing|Order_Processing]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.public|Order_Processing.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.personal|Order_Processing.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.secret|Order_Processing.secret]]"
     - "[[Order_Processing]]"
-dv_has_parent_class: "[[../OrderStatus]]"
-dv_is_enum_of: "[[../OrderStatus]]"
+dv_has_parent_class: "[[../OrderStatus|OrderStatus]]"
+dv_is_enum_of: "[[../OrderStatus|OrderStatus]]"
 dv_is_same_as:
   - "[[Order_Processing]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.public|Order_Processing.public]]"

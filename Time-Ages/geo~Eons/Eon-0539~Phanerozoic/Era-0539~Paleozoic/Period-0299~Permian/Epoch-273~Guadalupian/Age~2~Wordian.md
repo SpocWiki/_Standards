@@ -23,12 +23,12 @@ aliases:
 - 沃德期
 has_id_wikidata: Q686803
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Guadalupe_Pass_(Texas),16891927]]'
-named_after: '[[_Standards/WikiData/WD~Word_Formation,18217752]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Wordian,134436714]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Guadalupe_Pass_(Texas),16891927|WD~Guadalupe_Pass_(Texas),16891927]]'
+named_after: '[[_Standards/WikiData/WD~Word_Formation,18217752|WD~Word_Formation,18217752]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Wordian,134436714|WD~GSSP_for_the_base_of_the_Wordian,134436714]]'
 end_time: -265100000-01-01T00:00:00Z
 sRGB_color_hex_triplet: FE987E
 coordinate_location: Point(-104.8328 31.8658)
@@ -139,7 +139,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 266.9 to 264.28 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-265_Ma_(Wordian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-265_Ma_(Wordian_Age).png|Earth-265_Ma_(Wordian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

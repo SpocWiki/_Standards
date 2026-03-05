@@ -80,25 +80,25 @@ aliases:
 - 장미 전쟁
 has_id_wikidata: Q127751
 participant:
-- '[[_Standards/WikiData/WD~House_of_Tudor,101978]]'
-- '[[_Standards/WikiData/WD~House_of_Lancaster,105278]]'
-- '[[_Standards/WikiData/WD~House_of_York,105285]]'
-- '[[_Standards/WikiData/WD~Richard_III_of_England,133028]]'
-location: '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
-country: '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
+- '[[_Standards/WikiData/WD~House_of_Tudor,101978|WD~House_of_Tudor,101978]]'
+- '[[_Standards/WikiData/WD~House_of_Lancaster,105278|WD~House_of_Lancaster,105278]]'
+- '[[_Standards/WikiData/WD~House_of_York,105285|WD~House_of_York,105285]]'
+- '[[_Standards/WikiData/WD~Richard_III_of_England,133028|WD~Richard_III_of_England,133028]]'
+location: '[[_Standards/WikiData/WD~Kingdom_of_England,179876|WD~Kingdom_of_England,179876]]'
+country: '[[_Standards/WikiData/WD~Kingdom_of_England,179876|WD~Kingdom_of_England,179876]]'
 described_by_source:
-- '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Wars_of_the_Roses,8269664]]'
+- '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Wars_of_the_Roses,8269664|WD~Template_Wars_of_the_Roses,8269664]]'
 end_time: 1487-06-16T00:00:00Z
 start_time: 1455-05-22T00:00:00Z
 instance_of:
-- '[[_Standards/WikiData/WD~civil_war,8465]]'
-- '[[_Standards/WikiData/WD~war,198]]'
+- '[[_Standards/WikiData/WD~civil_war,8465|WD~civil_war,8465]]'
+- '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 Dewey_Decimal_Classification: 942.04
 image: http://commons.wikimedia.org/wiki/Special:FilePath/York%20victory%20over%20Lancaster.svg
 Krugosvet_article_archived_: voennoe-delo/aloy-i-beloy-rozy-voyna

@@ -99,15 +99,15 @@ aliases:
 - 드라이버
 has_id_wikidata: Q161071
 has_part_s_:
-- '[[_Standards/WikiData/WD~handle,200266]]'
-- '[[_Standards/WikiData/WD~shaft,309383]]'
-- '[[_Standards/WikiData/WD~screwdriver_bit,1519190]]'
+- '[[_Standards/WikiData/WD~handle,200266|WD~handle,200266]]'
+- '[[_Standards/WikiData/WD~shaft,309383|WD~shaft,309383]]'
+- '[[_Standards/WikiData/WD~screwdriver_bit,1519190|WD~screwdriver_bit,1519190]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~hand_tool,2578402]]'
-- '[[_Standards/WikiData/WD~physical_tool,39546]]'
-has_use: '[[_Standards/WikiData/WD~fastening,91783762]]'
-physically_interacts_with: '[[_Standards/WikiData/WD~screw,11022]]'
-used_by: '[[_Standards/WikiData/WD~culture,11042]]'
+- '[[_Standards/WikiData/WD~hand_tool,2578402|WD~hand_tool,2578402]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]'
+has_use: '[[_Standards/WikiData/WD~fastening,91783762|WD~fastening,91783762]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~screw,11022|WD~screw,11022]]'
+used_by: '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
 Nomenclature_for_Museum_Cataloging: 6607
 OmegaWiki_Defined_Meaning: 356932
 GS1_GPC_code: 80010700

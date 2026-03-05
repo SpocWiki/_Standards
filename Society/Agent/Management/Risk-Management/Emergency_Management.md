@@ -113,7 +113,7 @@ dv_has_:
 
 # [[Emergency_Management]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~emergency_management,1460420]] 
+#is_/same_as :: [[_Standards/WikiData/WD~emergency_management,1460420|WD~emergency_management,1460420]] 
 
 ## #has_/text_of_/abstract 
 

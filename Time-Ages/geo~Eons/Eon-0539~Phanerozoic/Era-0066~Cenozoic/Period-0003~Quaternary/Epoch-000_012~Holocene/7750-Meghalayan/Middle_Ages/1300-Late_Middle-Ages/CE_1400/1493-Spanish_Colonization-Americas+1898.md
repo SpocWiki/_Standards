@@ -54,20 +54,20 @@ aliases:
 - 스페인의 아메리카 대륙 식민지화
 has_id_wikidata: Q1047607
 part_of:
-- '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
-- '[[_Standards/WikiData/WD~European_colonization_of_the_Americas,184716]]'
+- '[[_Standards/WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]'
+- '[[_Standards/WikiData/WD~European_colonization_of_the_Americas,184716|WD~European_colonization_of_the_Americas,184716]]'
 authority:
-- '[[_Standards/WikiData/WD~Juan_Rodríguez_Fonseca,590682]]'
-- '[[_Standards/WikiData/WD~Ferdinand_II_of_Aragon,12860]]'
-- '[[_Standards/WikiData/WD~Isabella_I_of_Castile,45859]]'
+- '[[_Standards/WikiData/WD~Juan_Rodríguez_Fonseca,590682|WD~Juan_Rodríguez_Fonseca,590682]]'
+- '[[_Standards/WikiData/WD~Ferdinand_II_of_Aragon,12860|WD~Ferdinand_II_of_Aragon,12860]]'
+- '[[_Standards/WikiData/WD~Isabella_I_of_Castile,45859|WD~Isabella_I_of_Castile,45859]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Colonial_Argentina,596823]]'
-- '[[_Standards/WikiData/WD~Spanish_colonization_of_North_America,9293069]]'
-- '[[_Standards/WikiData/WD~Spanish_conquest_of_the_Maya,20645869]]'
+- '[[_Standards/WikiData/WD~Colonial_Argentina,596823|WD~Colonial_Argentina,596823]]'
+- '[[_Standards/WikiData/WD~Spanish_colonization_of_North_America,9293069|WD~Spanish_colonization_of_North_America,9293069]]'
+- '[[_Standards/WikiData/WD~Spanish_conquest_of_the_Maya,20645869|WD~Spanish_conquest_of_the_Maya,20645869]]'
 instance_of:
-- '[[_Standards/WikiData/WD~colonization,815962]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-subclass_of: '[[_Standards/WikiData/WD~territorial_expansion,28710139]]'
+- '[[_Standards/WikiData/WD~colonization,815962|WD~colonization,815962]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+subclass_of: '[[_Standards/WikiData/WD~territorial_expansion,28710139|WD~territorial_expansion,28710139]]'
 end_time: 1898-07-13T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fray%20Bartolom%C3%A9%20de%20Olmedo%20bautizando%20a%20las%20mujeres%20ofrecidas%20por%20Xicomec%C3%B3atl%2C%20Miguel%20Gonz%C3%A1lez%20%28~1696%29.png
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Spanish%20colonization%20of%20the%20Americas.mp3

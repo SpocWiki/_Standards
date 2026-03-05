@@ -57,13 +57,13 @@ aliases:
 - 성곽도시
 has_id_wikidata: Q57346
 part_of:
-- '[[_Standards/WikiData/WD~stronghold,3390714]]'
-- '[[_Standards/WikiData/WD~fortification,57821]]'
-- '[[_Standards/WikiData/WD~fortress,57831]]'
-different_from: '[[_Standards/WikiData/WD~Mury_obronne,11786734]]'
+- '[[_Standards/WikiData/WD~stronghold,3390714|WD~stronghold,3390714]]'
+- '[[_Standards/WikiData/WD~fortification,57821|WD~fortification,57821]]'
+- '[[_Standards/WikiData/WD~fortress,57831|WD~fortress,57831]]'
+different_from: '[[_Standards/WikiData/WD~Mury_obronne,11786734|WD~Mury_obronne,11786734]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~wall,42948]]'
-- '[[_Standards/WikiData/WD~fortification,57821]]'
+- '[[_Standards/WikiData/WD~wall,42948|WD~wall,42948]]'
+- '[[_Standards/WikiData/WD~fortification,57821|WD~fortification,57821]]'
 Nomenclature_for_Museum_Cataloging: 730
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20view%20of%20Rani%20Kot%20Fort.jpg
 Commons_category: Defensive walls

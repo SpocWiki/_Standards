@@ -147,47 +147,47 @@ native_label:
 - Ўзбек тили
 - Oʻzbek tili
 has_grammatical_case:
-- '[[_Standards/WikiData/WD~nominative_case,131105]]'
-- '[[_Standards/WikiData/WD~dative_case,145599]]'
-- '[[_Standards/WikiData/WD~accusative_case,146078]]'
-- '[[_Standards/WikiData/WD~genitive_case,146233]]'
-- '[[_Standards/WikiData/WD~ablative_case,156986]]'
-- '[[_Standards/WikiData/WD~locative_case,202142]]'
+- '[[_Standards/WikiData/WD~nominative_case,131105|WD~nominative_case,131105]]'
+- '[[_Standards/WikiData/WD~dative_case,145599|WD~dative_case,145599]]'
+- '[[_Standards/WikiData/WD~accusative_case,146078|WD~accusative_case,146078]]'
+- '[[_Standards/WikiData/WD~genitive_case,146233|WD~genitive_case,146233]]'
+- '[[_Standards/WikiData/WD~ablative_case,156986|WD~ablative_case,156986]]'
+- '[[_Standards/WikiData/WD~locative_case,202142|WD~locative_case,202142]]'
 instance_of:
-- '[[_Standards/WikiData/WD~macrolanguage,152559]]'
-- '[[_Standards/WikiData/WD~modern_language,1288568]]'
-- '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~macrolanguage,152559|WD~macrolanguage,152559]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568|WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742|WD~natural_language,33742]]'
 linguistic_typology:
-- '[[_Standards/WikiData/WD~postposition,161873]]'
-- '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
-- '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
-- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
-- '[[_Standards/WikiData/WD~adjective_noun,74834637]]'
-- '[[_Standards/WikiData/WD~synthetic_language,48612]]'
+- '[[_Standards/WikiData/WD~postposition,161873|WD~postposition,161873]]'
+- '[[_Standards/WikiData/WD~agglutinative_language,171263|WD~agglutinative_language,171263]]'
+- '[[_Standards/WikiData/WD~nominative_accusative_language,178435|WD~nominative_accusative_language,178435]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808|WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~adjective_noun,74834637|WD~adjective_noun,74834637]]'
+- '[[_Standards/WikiData/WD~synthetic_language,48612|WD~synthetic_language,48612]]'
 has_tense:
-- '[[_Standards/WikiData/WD~present_tense,192613]]'
-- '[[_Standards/WikiData/WD~future_tense,501405]]'
-- '[[_Standards/WikiData/WD~past_tense,1994301]]'
-subclass_of: '[[_Standards/WikiData/WD~Western_Karluk,4215335]]'
-UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
-language_regulatory_body: "[[_Standards/WikiData/WD~Alisher_Navo'i_Tashkent_State_University_of_Uzbek_Language_and_Literature,28006255]]"
-topic_has_template: '[[_Standards/WikiData/WD~Q101516084,101516084]]'
+- '[[_Standards/WikiData/WD~present_tense,192613|WD~present_tense,192613]]'
+- '[[_Standards/WikiData/WD~future_tense,501405|WD~future_tense,501405]]'
+- '[[_Standards/WikiData/WD~past_tense,1994301|WD~past_tense,1994301]]'
+subclass_of: '[[_Standards/WikiData/WD~Western_Karluk,4215335|WD~Western_Karluk,4215335]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086|WD~1_safe,20672086]]'
+language_regulatory_body: "[[_Standards/WikiData/WD~Alisher_Navo'i_Tashkent_State_University_of_Uzbek_Language_and_Literature,28006255|WD~Alisher_Navo'i_Tashkent_State_University_of_Uzbek_Language_and_Literature,28006255]]"
+topic_has_template: '[[_Standards/WikiData/WD~Q101516084,101516084|WD~Q101516084,101516084]]'
 country:
-- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
-- '[[_Standards/WikiData/WD~Tajikistan,863]]'
-- '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-- '[[_Standards/WikiData/WD~Afghanistan,889]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]'
+- '[[_Standards/WikiData/WD~Tajikistan,863|WD~Tajikistan,863]]'
+- '[[_Standards/WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]'
+- '[[_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]'
+- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]'
 writing_system:
-- '[[_Standards/WikiData/WD~Arabic_alphabet,8196]]'
-- '[[_Standards/WikiData/WD~Cyrillic_script,8209]]'
-- '[[_Standards/WikiData/WD~Latin_script,8229]]'
+- '[[_Standards/WikiData/WD~Arabic_alphabet,8196|WD~Arabic_alphabet,8196]]'
+- '[[_Standards/WikiData/WD~Cyrillic_script,8209|WD~Cyrillic_script,8209]]'
+- '[[_Standards/WikiData/WD~Latin_script,8229|WD~Latin_script,8229]]'
 number_of_speakers_writers_or_signers: 27000000
-replaces: '[[_Standards/WikiData/WD~Chagatai,36831]]'
+replaces: '[[_Standards/WikiData/WD~Chagatai,36831|WD~Chagatai,36831]]'
 ABS_ASCL_2011_code: 4306
 IAB_code: 1203
 OmegaWiki_Defined_Meaning: 6633

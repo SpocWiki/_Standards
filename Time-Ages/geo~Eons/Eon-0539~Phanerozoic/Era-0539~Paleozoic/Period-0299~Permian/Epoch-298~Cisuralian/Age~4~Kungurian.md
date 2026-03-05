@@ -24,15 +24,15 @@ aliases:
 - 孔古尔期
 - 孔古階
 has_id_wikidata: Q1073812
-different_from: '[[_Standards/WikiData/WD~Kungur,155974]]'
+different_from: '[[_Standards/WikiData/WD~Kungur,155974|WD~Kungur,155974]]'
 named_after:
-- '[[_Standards/WikiData/WD~Kungur,155974]]'
-- '[[_Standards/WikiData/WD~Kungursky_Uyezd,4247139]]'
+- '[[_Standards/WikiData/WD~Kungur,155974|WD~Kungur,155974]]'
+- '[[_Standards/WikiData/WD~Kungursky_Uyezd,4247139|WD~Kungursky_Uyezd,4247139]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -283500000-01-01T00:00:00Z
 sRGB_color_hex_triplet: EF947F
 end_time: -272950000-01-01T00:00:00Z
@@ -142,7 +142,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 283.5 to 273.01 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-275_Ma_(Kungurian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-275_Ma_(Kungurian_Age).png|Earth-275_Ma_(Kungurian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

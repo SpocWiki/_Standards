@@ -145,32 +145,32 @@ aliases:
 has_id_wikidata: Q2269
 Commons_category: Industrial revolution
 Commons_gallery: Industrial revolution
-country_of_origin: '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+country_of_origin: '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885|WD~Kingdom_of_Great_Britain,161885]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403|WD~Meyer_s_Universum,_Achter_Band,131447403]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188|WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
 end_time: 1820-06
 has_characteristic:
-- '[[_Standards/WikiData/WD~industrialization,202398]]'
-- '[[_Standards/WikiData/WD~mechanization,1160362]]'
-- '[[_Standards/WikiData/WD~technological_transition,7692537]]'
-has_effect: '[[_Standards/WikiData/WD~economic_growth,189833]]'
+- '[[_Standards/WikiData/WD~industrialization,202398|WD~industrialization,202398]]'
+- '[[_Standards/WikiData/WD~mechanization,1160362|WD~mechanization,1160362]]'
+- '[[_Standards/WikiData/WD~technological_transition,7692537|WD~technological_transition,7692537]]'
+has_effect: '[[_Standards/WikiData/WD~economic_growth,189833|WD~economic_growth,189833]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Industrial_Revolution_in_England,3938059]]'
-- '[[_Standards/WikiData/WD~Industrial_Revolution_in_Scotland,16847469]]'
-- '[[_Standards/WikiData/WD~Industrial_Revolution_in_Wales,97353535]]'
-- '[[_Standards/WikiData/WD~international_trade,178803]]'
-- '[[_Standards/WikiData/WD~rural_flight,2608153]]'
-- '[[_Standards/WikiData/WD~steam_engine,12760]]'
-- '[[_Standards/WikiData/WD~working_class,191159]]'
+- '[[_Standards/WikiData/WD~Industrial_Revolution_in_England,3938059|WD~Industrial_Revolution_in_England,3938059]]'
+- '[[_Standards/WikiData/WD~Industrial_Revolution_in_Scotland,16847469|WD~Industrial_Revolution_in_Scotland,16847469]]'
+- '[[_Standards/WikiData/WD~Industrial_Revolution_in_Wales,97353535|WD~Industrial_Revolution_in_Wales,97353535]]'
+- '[[_Standards/WikiData/WD~international_trade,178803|WD~international_trade,178803]]'
+- '[[_Standards/WikiData/WD~rural_flight,2608153|WD~rural_flight,2608153]]'
+- '[[_Standards/WikiData/WD~steam_engine,12760|WD~steam_engine,12760]]'
+- '[[_Standards/WikiData/WD~working_class,191159|WD~working_class,191159]]'
 has_time_started: 1760-06
 has_time_stopped: 1820-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9moires%20de%20la%20Soci%C3%A9t%C3%A9%20g%C3%A9ologique%20de%20France%20%28IA%20meymoiresdelaso00socig%29.pdf
-instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
+instance_of: '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/PROMISHLENNAYA_REVOLYUTSIYA.html
 start_time: 1760-06
-subclass_of: '[[_Standards/WikiData/WD~economic_development,4530482]]'
+subclass_of: '[[_Standards/WikiData/WD~economic_development,4530482|WD~economic_development,4530482]]'
 dv_has_:
   duration: P60Y
   duration_: P60Y
@@ -346,7 +346,7 @@ dv_has_:
     stopped: 1820-06-01T00:00:00.000+00:53
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Industrial_Revolution,2269]]'
+  - '[[../../../../../../../../WikiData/WD~Industrial_Revolution,2269|WD~Industrial_Revolution,2269]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|1760-Industrial_Revolution]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.public|1760-Industrial_Revolution.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.internal|1760-Industrial_Revolution.internal]]'
@@ -360,7 +360,7 @@ dv_has_duration_years:
 dv_has_duration_: P60Y
 dv_has_duration: P60Y
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Industrial_Revolution,2269]]'
+- '[[../../../../../../../../WikiData/WD~Industrial_Revolution,2269|WD~Industrial_Revolution,2269]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|1760-Industrial_Revolution]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.public|1760-Industrial_Revolution.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.internal|1760-Industrial_Revolution.internal]]'
@@ -394,7 +394,7 @@ shaping modern industry and the global economy.
 #has_/time_/started :: 1820-06 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Industrial_Revolution,2269]]
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Industrial_Revolution,2269|WD~Industrial_Revolution,2269]]
 
 #### Key Features
 - **Introduction of Mechanized Production**: The First Industrial Revolution marked the shift from agrarian economies to industrialized ones. It began in Britain around the late 18th century.
@@ -475,7 +475,7 @@ Each revolution laid the groundwork for significant shifts in how humans live an
 > First Industrial Revolution and Second Industrial Revolution, 
 > was a period of global transition of the human economy 
 > towards more widespread, efficient and stable manufacturing processes 
-> that succeeded the [[../../../../../../../../../_internal/Society/Economy/Agricultural_Revolution]]. 
+> that succeeded the [[../../../../../../../../../_internal/Society/Economy/Agricultural_Revolution|Agricultural_Revolution]]. 
 > 
 > Beginning in Great Britain, the Industrial Revolution spread to continental Europe 
 > and the United States, during the period from around 1760 to about 1820–1840. 

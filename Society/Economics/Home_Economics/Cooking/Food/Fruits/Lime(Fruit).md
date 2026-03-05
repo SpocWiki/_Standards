@@ -73,19 +73,19 @@ aliases:
 - 라임
 has_id_wikidata: Q13195
 natural_product_of_taxon:
-- '[[_Standards/WikiData/WD~Citrus_aurantiifolia,165354]]'
-- '[[_Standards/WikiData/WD~Citrus_hystrix,465934]]'
-- '[[_Standards/WikiData/WD~Persian_lime,1520920]]'
-- '[[_Standards/WikiData/WD~Citrus_glauca,50839729]]'
-instance_of: '[[_Standards/WikiData/WD~common_name,502895]]'
+- '[[_Standards/WikiData/WD~Citrus_aurantiifolia,165354|WD~Citrus_aurantiifolia,165354]]'
+- '[[_Standards/WikiData/WD~Citrus_hystrix,465934|WD~Citrus_hystrix,465934]]'
+- '[[_Standards/WikiData/WD~Persian_lime,1520920|WD~Persian_lime,1520920]]'
+- '[[_Standards/WikiData/WD~Citrus_glauca,50839729|WD~Citrus_glauca,50839729]]'
+instance_of: '[[_Standards/WikiData/WD~common_name,502895|WD~common_name,502895]]'
 different_from:
-- '[[_Standards/WikiData/WD~lime,906936]]'
-- '[[_Standards/WikiData/WD~sweet_lemon,3241046]]'
-color: '[[_Standards/WikiData/WD~lime,906936]]'
+- '[[_Standards/WikiData/WD~lime,906936|WD~lime,906936]]'
+- '[[_Standards/WikiData/WD~sweet_lemon,3241046|WD~sweet_lemon,3241046]]'
+color: '[[_Standards/WikiData/WD~lime,906936|WD~lime,906936]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~hesperidium,1429336]]'
-- '[[_Standards/WikiData/WD~citrus_fruit,2574750]]'
-- '[[_Standards/WikiData/WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~hesperidium,1429336|WD~hesperidium,1429336]]'
+- '[[_Standards/WikiData/WD~citrus_fruit,2574750|WD~citrus_fruit,2574750]]'
+- '[[_Standards/WikiData/WD~fruit,3314483|WD~fruit,3314483]]'
 food_energy: 30
 water_footprint: 642
 PLU_code:

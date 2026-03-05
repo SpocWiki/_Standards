@@ -75,27 +75,27 @@ aliases:
 - 转动
 - 회전
 has_id_wikidata: Q107617
-subclass_of: '[[_Standards/WikiData/WD~motion,79782]]'
+subclass_of: '[[_Standards/WikiData/WD~motion,79782|WD~motion,79782]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~angular_velocity,161635]]'
-- '[[_Standards/WikiData/WD~angular_acceleration,186300]]'
-- '[[_Standards/WikiData/WD~rotational_direction,504111]]'
-- '[[_Standards/WikiData/WD~axis_of_rotation,516175]]'
-- '[[_Standards/WikiData/WD~areal_velocity,2266743]]'
-- '[[_Standards/WikiData/WD~angle_of_rotation,4763367]]'
-- '[[_Standards/WikiData/WD~frequency,11652]]'
+- '[[_Standards/WikiData/WD~angular_velocity,161635|WD~angular_velocity,161635]]'
+- '[[_Standards/WikiData/WD~angular_acceleration,186300|WD~angular_acceleration,186300]]'
+- '[[_Standards/WikiData/WD~rotational_direction,504111|WD~rotational_direction,504111]]'
+- '[[_Standards/WikiData/WD~axis_of_rotation,516175|WD~axis_of_rotation,516175]]'
+- '[[_Standards/WikiData/WD~areal_velocity,2266743|WD~areal_velocity,2266743]]'
+- '[[_Standards/WikiData/WD~angle_of_rotation,4763367|WD~angle_of_rotation,4763367]]'
+- '[[_Standards/WikiData/WD~frequency,11652|WD~frequency,11652]]'
 different_from:
-- '[[_Standards/WikiData/WD~rotation,225299]]'
-- '[[_Standards/WikiData/WD~rotation,848368]]'
-- '[[_Standards/WikiData/WD~orbital_revolution,1078480]]'
-- '[[_Standards/WikiData/WD~spinning,59172]]'
+- '[[_Standards/WikiData/WD~rotation,225299|WD~rotation,225299]]'
+- '[[_Standards/WikiData/WD~rotation,848368|WD~rotation,848368]]'
+- '[[_Standards/WikiData/WD~orbital_revolution,1078480|WD~orbital_revolution,1078480]]'
+- '[[_Standards/WikiData/WD~spinning,59172|WD~spinning,59172]]'
 manifestation_of:
-- '[[_Standards/WikiData/WD~rotation,848368]]'
-- '[[_Standards/WikiData/WD~time_variation,104649723]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~rotation,848368]]'
-opposite_of: '[[_Standards/WikiData/WD~translational_motion,1129632]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~turn,24246654]]'
+- '[[_Standards/WikiData/WD~rotation,848368|WD~rotation,848368]]'
+- '[[_Standards/WikiData/WD~time_variation,104649723|WD~time_variation,104649723]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~rotation,848368|WD~rotation,848368]]'
+opposite_of: '[[_Standards/WikiData/WD~translational_motion,1129632|WD~translational_motion,1129632]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~turn,24246654|WD~turn,24246654]]'
 Commons_category: Rotation
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%85%E0%A4%95%E0%A5%8D%E0%A4%B7.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rotating%20earth%20%28large%29.gif

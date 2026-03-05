@@ -59,12 +59,12 @@ aliases:
 - 석호
 has_id_wikidata: Q187223
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Laguna,59014063]]'
-subclass_of: '[[_Standards/WikiData/WD~coastal_pond,135951980]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Laguna,59014063|WD~Laguna,59014063]]'
+subclass_of: '[[_Standards/WikiData/WD~coastal_pond,135951980|WD~coastal_pond,135951980]]'
 GeoNames_feature_code:
 - H.LGN
 - H.LGNS
@@ -74,7 +74,7 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000038
 Commons_category: Lagoons
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Lagoon,187223]]'
+  - '[[../../../../WikiData/WD~Lagoon,187223|WD~Lagoon,187223]]'
   - '[[/_Standards/Earth/Geology/Landform/body_of_water/Lagoon|Lagoon]]'
   - '[[/_public/Earth/Geology/Landform/body_of_water/Lagoon.public|Lagoon.public]]'
   - '[[/_internal/Earth/Geology/Landform/body_of_water/Lagoon.internal|Lagoon.internal]]'
@@ -83,7 +83,7 @@ dv_is_:
   - '[[/_personal/Earth/Geology/Landform/body_of_water/Lagoon.personal|Lagoon.personal]]'
   - '[[/_secret/Earth/Geology/Landform/body_of_water/Lagoon.secret|Lagoon.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Lagoon,187223]]'
+- '[[../../../../WikiData/WD~Lagoon,187223|WD~Lagoon,187223]]'
 - '[[/_Standards/Earth/Geology/Landform/body_of_water/Lagoon|Lagoon]]'
 - '[[/_public/Earth/Geology/Landform/body_of_water/Lagoon.public|Lagoon.public]]'
 - '[[/_internal/Earth/Geology/Landform/body_of_water/Lagoon.internal|Lagoon.internal]]'

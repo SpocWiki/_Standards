@@ -21,16 +21,16 @@ aliases:
 - 토카막
 has_id_wikidata: Q188589
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Igor_Tamm,155759]]'
-- '[[_Standards/WikiData/WD~Oleg_Lavrentiev,4252113]]'
-- '[[_Standards/WikiData/WD~Andrei_Sakharov,997]]'
+- '[[_Standards/WikiData/WD~Igor_Tamm,155759|WD~Igor_Tamm,155759]]'
+- '[[_Standards/WikiData/WD~Oleg_Lavrentiev,4252113|WD~Oleg_Lavrentiev,4252113]]'
+- '[[_Standards/WikiData/WD~Andrei_Sakharov,997|WD~Andrei_Sakharov,997]]'
 different_from:
-- '[[_Standards/WikiData/WD~Tokmok,854333]]'
-- '[[_Standards/WikiData/WD~stellarator,1360597]]'
-- '[[_Standards/WikiData/WD~levitated_dipole,3817417]]'
-uses: '[[_Standards/WikiData/WD~magnetic_confinement_fusion,939954]]'
-subclass_of: '[[_Standards/WikiData/WD~fusion_reactor,11536219]]'
-shape: '[[_Standards/WikiData/WD~torus,12510]]'
+- '[[_Standards/WikiData/WD~Tokmok,854333|WD~Tokmok,854333]]'
+- '[[_Standards/WikiData/WD~stellarator,1360597|WD~stellarator,1360597]]'
+- '[[_Standards/WikiData/WD~levitated_dipole,3817417|WD~levitated_dipole,3817417]]'
+uses: '[[_Standards/WikiData/WD~magnetic_confinement_fusion,939954|WD~magnetic_confinement_fusion,939954]]'
+subclass_of: '[[_Standards/WikiData/WD~fusion_reactor,11536219|WD~fusion_reactor,11536219]]'
+shape: '[[_Standards/WikiData/WD~torus,12510|WD~torus,12510]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Department%20of%20Energy%20-%20Science%20-%20425%20003%20001%20%289786811206%29.jpg
 IEV_number: 395-07-149
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/TOKAMAK.html

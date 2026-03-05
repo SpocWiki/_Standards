@@ -27,7 +27,7 @@ title: is_a_car_usage_type Class
 type: Type
 dv_is_:
   part_of: https://auto.schema.org
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Car_Usage_Type|Car_Usage_Type]]"
     - "[[/_public/schema-org/Enumeration/Car_Usage_Type.public|Car_Usage_Type.public]]"
@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Car_Usage_Type.secret|Car_Usage_Type.secret]]"
     - "[[Car_Usage_Type]]"
 dv_is_part_of: https://auto.schema.org
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Car_Usage_Type]]"
   - "[[/_public/schema-org/Enumeration/Car_Usage_Type.public|Car_Usage_Type.public]]"

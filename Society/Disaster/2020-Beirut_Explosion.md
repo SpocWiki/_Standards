@@ -170,7 +170,7 @@ aliases:
 # [[2020-Beirut_Explosion]] 
 
 #has_/time_/started :: 2020-08-04T18:08 
-#has_/place_/started :: [[Lebanon/Counties/Beirut/City/Beirut]] 
+#has_/place_/started :: [[Lebanon/Counties/Beirut/City/Beirut|Beirut]] 
 
 
 ## #has_/text_of_/abstract 

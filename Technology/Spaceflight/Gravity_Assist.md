@@ -52,20 +52,20 @@ aliases:
 - 스윙바이
 has_id_wikidata: Q223776
 developer:
-- '[[_Standards/WikiData/WD~Mstislav_Keldysh,246497]]'
-- '[[_Standards/WikiData/WD~Yuri_Kondratyuk,921167]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Friedrich_Zander,327279]]'
-different_from: '[[_Standards/WikiData/WD~Oberth_effect,824852]]'
-part_of: '[[_Standards/WikiData/WD~interplanetary_spaceflight,834235]]'
-used_by: '[[_Standards/WikiData/WD~Luna_3,942814]]'
-has_characteristic: "[[_Standards/WikiData/WD~Tisserand's_parameter,1806612]]"
+- '[[_Standards/WikiData/WD~Mstislav_Keldysh,246497|WD~Mstislav_Keldysh,246497]]'
+- '[[_Standards/WikiData/WD~Yuri_Kondratyuk,921167|WD~Yuri_Kondratyuk,921167]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Friedrich_Zander,327279|WD~Friedrich_Zander,327279]]'
+different_from: '[[_Standards/WikiData/WD~Oberth_effect,824852|WD~Oberth_effect,824852]]'
+part_of: '[[_Standards/WikiData/WD~interplanetary_spaceflight,834235|WD~interplanetary_spaceflight,834235]]'
+used_by: '[[_Standards/WikiData/WD~Luna_3,942814|WD~Luna_3,942814]]'
+has_characteristic: "[[_Standards/WikiData/WD~Tisserand's_parameter,1806612|WD~Tisserand's_parameter,1806612]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~space_maneuver,17488288]]'
-- '[[_Standards/WikiData/WD~passive_motion,29374520]]'
+- '[[_Standards/WikiData/WD~space_maneuver,17488288|WD~space_maneuver,17488288]]'
+- '[[_Standards/WikiData/WD~passive_motion,29374520|WD~passive_motion,29374520]]'
 has_use:
-- '[[_Standards/WikiData/WD~reduction,47496130]]'
-- '[[_Standards/WikiData/WD~acceleration,11376]]'
-uses: '[[_Standards/WikiData/WD~momentum,41273]]'
+- '[[_Standards/WikiData/WD~reduction,47496130|WD~reduction,47496130]]'
+- '[[_Standards/WikiData/WD~acceleration,11376|WD~acceleration,11376]]'
+uses: '[[_Standards/WikiData/WD~momentum,41273|WD~momentum,41273]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Animation%20of%20Voyager%202%20trajectory.gif
 Commons_category: Gravitational slingshots
 time_of_earliest_written_record: 1925-01-01T00:00:00Z

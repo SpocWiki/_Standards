@@ -71,16 +71,16 @@ aliases:
 - 해령
 has_id_wikidata: Q104698
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
-subclass_of: '[[_Standards/WikiData/WD~undersea_ridge,11702690]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862|WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+subclass_of: '[[_Standards/WikiData/WD~undersea_ridge,11702690|WD~undersea_ridge,11702690]]'
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Global%20SRTM%20Bathymetry%20map.png
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000406
 Commons_category: Mid-ocean ridges
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Mid-ocean_ridge,104698]]'
+  - '[[../../WikiData/WD~Mid-ocean_ridge,104698|WD~Mid-ocean_ridge,104698]]'
   - '[[/_Standards/Earth/Ocean/Mid-Ocean_Ridge|Mid-Ocean_Ridge]]'
   - '[[/_public/Earth/Ocean/Mid-Ocean_Ridge.public|Mid-Ocean_Ridge.public]]'
   - '[[/_internal/Earth/Ocean/Mid-Ocean_Ridge.internal|Mid-Ocean_Ridge.internal]]'
@@ -89,7 +89,7 @@ dv_is_:
   - '[[/_personal/Earth/Ocean/Mid-Ocean_Ridge.personal|Mid-Ocean_Ridge.personal]]'
   - '[[/_secret/Earth/Ocean/Mid-Ocean_Ridge.secret|Mid-Ocean_Ridge.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Mid-ocean_ridge,104698]]'
+- '[[../../WikiData/WD~Mid-ocean_ridge,104698|WD~Mid-ocean_ridge,104698]]'
 - '[[/_Standards/Earth/Ocean/Mid-Ocean_Ridge|Mid-Ocean_Ridge]]'
 - '[[/_public/Earth/Ocean/Mid-Ocean_Ridge.public|Mid-Ocean_Ridge.public]]'
 - '[[/_internal/Earth/Ocean/Mid-Ocean_Ridge.internal|Mid-Ocean_Ridge.internal]]'

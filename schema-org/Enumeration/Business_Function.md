@@ -26,7 +26,7 @@ tags:
 title: is_a_business_function Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Business_Function|Business_Function]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Business_Function.personal|Business_Function.personal]]"
     - "[[/_secret/schema-org/Enumeration/Business_Function.secret|Business_Function.secret]]"
     - "[[Business_Function]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Business_Function]]"
   - "[[/_public/schema-org/Enumeration/Business_Function.public|Business_Function.public]]"

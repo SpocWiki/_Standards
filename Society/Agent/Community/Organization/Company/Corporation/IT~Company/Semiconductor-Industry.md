@@ -4,7 +4,7 @@ EU firms make up a small percentage of semiconductor design
 , fabrication, and assembly.
 
 There are a few world-leading equipment and chemicals companies - 
- [[Semiconductor-Industry/ASML(Advanced_Semiconductor)]] and [[Semiconductor-Industry/STMicroelectronics]] 
+ [[Semiconductor-Industry/ASML(Advanced_Semiconductor)|ASML(Advanced_Semiconductor)]] and [[Semiconductor-Industry/STMicroelectronics|STMicroelectronics]] 
  and [[Infineon]] - but that's about it.
 
 None of this was inevitable. 
@@ -134,7 +134,7 @@ Anyway, attendees and licensees included vacuum tube incumbents and electronics 
 including Texas Instruments' silicon junction transistor and diffused transistor.
 
 ### American teams were more interdisciplinary than the French teams. 
-Take the [[Traitorous_Eight]] - the co-founders of [[Semiconductor-Industry/Fairchild_Semiconductor]] - 
+Take the [[Traitorous_Eight]] - the co-founders of [[Semiconductor-Industry/Fairchild_Semiconductor|Fairchild_Semiconductor]] - 
 originally recruited by William Shockley.
 Shockley had been one of the transistor's original inventors back at Bell Labs. 
 Shockley deliberately recruited an interdisciplinary group. 

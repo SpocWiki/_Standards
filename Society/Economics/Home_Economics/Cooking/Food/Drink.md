@@ -131,19 +131,19 @@ aliases:
 - ꯊꯛꯄ
 - 음료
 has_id_wikidata: Q40050
-used_by: '[[_Standards/WikiData/WD~drinking,876776]]'
+used_by: '[[_Standards/WikiData/WD~drinking,876776|WD~drinking,876776]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-produced_by: '[[_Standards/WikiData/WD~beverage_industry,4899370]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_drink,6288622]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Drink,6947915]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+produced_by: '[[_Standards/WikiData/WD~beverage_industry,4899370|WD~beverage_industry,4899370]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_drink,6288622|WD~Template_Infobox_drink,6288622]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Drink,6947915|WD~Portal_Drink,6947915]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951|WD~type_of_food_or_dish,19861951]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~food_and_beverage,118451828]]'
-- '[[_Standards/WikiData/WD~liquid,11435]]'
-has_part_s_: '[[_Standards/WikiData/WD~drinking_water,7892]]'
+- '[[_Standards/WikiData/WD~food_and_beverage,118451828|WD~food_and_beverage,118451828]]'
+- '[[_Standards/WikiData/WD~liquid,11435|WD~liquid,11435]]'
+has_part_s_: '[[_Standards/WikiData/WD~drinking_water,7892|WD~drinking_water,7892]]'
 2022_Harmonized_System_Code: 22
 OmegaWiki_Defined_Meaning: 339
 U_S_National_Archives_Identifier: 10637997

@@ -58,37 +58,37 @@ aliases:
 - 수호전
 has_id_wikidata: Q70827
 characters:
-- '[[_Standards/WikiData/WD~Pan_Jinlian,699097]]'
-- '[[_Standards/WikiData/WD~Zhang_Heng,855686]]'
-- '[[_Standards/WikiData/WD~Ximen_Qing,6704881]]'
-- '[[_Standards/WikiData/WD~Yang_Jian,6778272]]'
-- '[[_Standards/WikiData/WD~Song_Jiang,45433624]]'
-depicts: '[[_Standards/WikiData/WD~Song_Jiang,716237]]'
+- '[[_Standards/WikiData/WD~Pan_Jinlian,699097|WD~Pan_Jinlian,699097]]'
+- '[[_Standards/WikiData/WD~Zhang_Heng,855686|WD~Zhang_Heng,855686]]'
+- '[[_Standards/WikiData/WD~Ximen_Qing,6704881|WD~Ximen_Qing,6704881]]'
+- '[[_Standards/WikiData/WD~Yang_Jian,6778272|WD~Yang_Jian,6778272]]'
+- '[[_Standards/WikiData/WD~Song_Jiang,45433624|WD~Song_Jiang,45433624]]'
+depicts: '[[_Standards/WikiData/WD~Song_Jiang,716237|WD~Song_Jiang,716237]]'
 derivative_work:
-- '[[_Standards/WikiData/WD~Jin_Ping_Mei,753535]]'
-- '[[_Standards/WikiData/WD~Shui_Hu_Zhuan,7504741]]'
-- '[[_Standards/WikiData/WD~The_Later_Story_of_Water_Margin,11130183]]'
-- '[[_Standards/WikiData/WD~The_Tale_of_Eliminating_Bandits,17031697]]'
-part_of: '[[_Standards/WikiData/WD~Four_Great_Classical_Novels,753883]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~written_vernacular_Chinese,783605]]'
+- '[[_Standards/WikiData/WD~Jin_Ping_Mei,753535|WD~Jin_Ping_Mei,753535]]'
+- '[[_Standards/WikiData/WD~Shui_Hu_Zhuan,7504741|WD~Shui_Hu_Zhuan,7504741]]'
+- '[[_Standards/WikiData/WD~The_Later_Story_of_Water_Margin,11130183|WD~The_Later_Story_of_Water_Margin,11130183]]'
+- '[[_Standards/WikiData/WD~The_Tale_of_Eliminating_Bandits,17031697|WD~The_Tale_of_Eliminating_Bandits,17031697]]'
+part_of: '[[_Standards/WikiData/WD~Four_Great_Classical_Novels,753883|WD~Four_Great_Classical_Novels,753883]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~written_vernacular_Chinese,783605|WD~written_vernacular_Chinese,783605]]'
 genre:
-- '[[_Standards/WikiData/WD~historical_fiction,1196408]]'
-- '[[_Standards/WikiData/WD~adventure_fiction,21802675]]'
-author: "[[_Standards/WikiData/WD~Shi_Nai'an,1777502]]"
-list_of_characters: '[[_Standards/WikiData/WD~list_of_Water_Margin_characters,6603849]]'
-instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
-main_subject: '[[_Standards/WikiData/WD~Song_Jiang_Rebellion,10947744]]'
+- '[[_Standards/WikiData/WD~historical_fiction,1196408|WD~historical_fiction,1196408]]'
+- '[[_Standards/WikiData/WD~adventure_fiction,21802675|WD~adventure_fiction,21802675]]'
+author: "[[_Standards/WikiData/WD~Shi_Nai'an,1777502|WD~Shi_Nai'an,1777502]]"
+list_of_characters: '[[_Standards/WikiData/WD~list_of_Water_Margin_characters,6603849|WD~list_of_Water_Margin_characters,6603849]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634|WD~literary_work,7725634]]'
+main_subject: '[[_Standards/WikiData/WD~Song_Jiang_Rebellion,10947744|WD~Song_Jiang_Rebellion,10947744]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~Q18827907,18827907]]'
-- '[[_Standards/WikiData/WD~Q18834181,18834181]]'
-- '[[_Standards/WikiData/WD~Water_Margin_(120_chapter_edition),70761009]]'
-- '[[_Standards/WikiData/WD~Q70761344,70761344]]'
-takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~Water_Margin_universe,111395910]]'
+- '[[_Standards/WikiData/WD~Q18827907,18827907|WD~Q18827907,18827907]]'
+- '[[_Standards/WikiData/WD~Q18834181,18834181|WD~Q18834181,18834181]]'
+- '[[_Standards/WikiData/WD~Water_Margin_(120_chapter_edition),70761009|WD~Water_Margin_(120_chapter_edition),70761009]]'
+- '[[_Standards/WikiData/WD~Q70761344,70761344|WD~Q70761344,70761344]]'
+takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~Water_Margin_universe,111395910|WD~Water_Margin_universe,111395910]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~Yuan_dynasty,7313]]'
-- '[[_Standards/WikiData/WD~Ming_dynasty,9903]]'
-form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261]]'
-copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+- '[[_Standards/WikiData/WD~Yuan_dynasty,7313|WD~Yuan_dynasty,7313]]'
+- '[[_Standards/WikiData/WD~Ming_dynasty,9903|WD~Ming_dynasty,9903]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261|WD~novel,8261]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652|WD~public_domain,19652]]'
 title: 水滸傳
 publication_date: 1400-01-01T00:00:00Z
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Lu%20Zhishen%20%28Long%20Corridor%29%20%E5%89%AF%E6%9C%AC.png

@@ -78,7 +78,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> **Point Break** is a 1991 American action film directed by [[Movie-Directors/Bigelow,Kathryn]] and written by W. Peter Iliff. 
+> **Point Break** is a 1991 American action film directed by [[Movie-Directors/Bigelow,Kathryn|Bigelow,Kathryn]] and written by W. Peter Iliff. 
 > It stars Patrick Swayze, [[../../Actor/Canadian_Actor/Reeves,Keanu|Keanu Reeves]], Lori Petty and Gary Busey. 
 > The film's title refers to the surfing term "point break", 
 > where a wave breaks as it hits a point of land jutting out from the coastline. 
@@ -88,7 +88,7 @@ dv_has_:
 > while he develops a complex relationship with the group's leader (Swayze).
 >
 > Development of Point Break began in 1986, when Iliff wrote an initial treatment for the film. 
-> Bigelow developed the script with husband [[../../Movie-Director/Cameron,James]], and filming took place four years later. 
+> Bigelow developed the script with husband [[../../Movie-Director/Cameron,James|Cameron,James]], and filming took place four years later. 
 > It was shot across the western coast of the continental United States 
 > and was officially budgeted at $24 million, before being released on July 12, 1991.
 >

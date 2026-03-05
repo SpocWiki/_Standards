@@ -68,20 +68,20 @@ aliases:
 - 구심력
 has_id_wikidata: Q172881
 has_part_s_:
-- '[[_Standards/WikiData/WD~radius,173817]]'
-- '[[_Standards/WikiData/WD~force,11402]]'
-- '[[_Standards/WikiData/WD~mass,11423]]'
-- '[[_Standards/WikiData/WD~velocity,11465]]'
-different_from: '[[_Standards/WikiData/WD~centrifugal_force,178733]]'
+- '[[_Standards/WikiData/WD~radius,173817|WD~radius,173817]]'
+- '[[_Standards/WikiData/WD~force,11402|WD~force,11402]]'
+- '[[_Standards/WikiData/WD~mass,11423|WD~mass,11423]]'
+- '[[_Standards/WikiData/WD~velocity,11465|WD~velocity,11465]]'
+different_from: '[[_Standards/WikiData/WD~centrifugal_force,178733|WD~centrifugal_force,178733]]'
 has_effect:
-- '[[_Standards/WikiData/WD~centripetal_acceleration,2248131]]'
-- '[[_Standards/WikiData/WD~curvilinear_motion,6025295]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-opposite_of: '[[_Standards/WikiData/WD~reactive_centrifugal_force,15087352]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~centripetal_acceleration,2248131|WD~centripetal_acceleration,2248131]]'
+- '[[_Standards/WikiData/WD~curvilinear_motion,6025295|WD~curvilinear_motion,6025295]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+opposite_of: '[[_Standards/WikiData/WD~reactive_centrifugal_force,15087352|WD~reactive_centrifugal_force,15087352]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>F</mi><mo>→</mo></mover></mrow></mrow><mo stretchy="false">=</mo><mo stretchy="false">&#x2212;</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>m</mi><msup><mi>v</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>r</mi><mo>^</mo></mover></mrow></mrow></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>r</mi></mrow></mfrac></mrow></mstyle></mrow></math>
-subclass_of: '[[_Standards/WikiData/WD~force,11402]]'
+subclass_of: '[[_Standards/WikiData/WD~force,11402|WD~force,11402]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rollercoaster%20Tornado%20Avonturenpark%20Hellendoorn%20Netherlands.jpg
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Centripetal-force-fi.svg

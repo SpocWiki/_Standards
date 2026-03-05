@@ -49,10 +49,10 @@ aliases:
 - 文字史
 - 문자의 역사
 has_id_wikidata: Q1340267
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
 facet_of:
-- '[[_Standards/WikiData/WD~writing_system,8192]]'
-- '[[_Standards/WikiData/WD~writing,37260]]'
+- '[[_Standards/WikiData/WD~writing_system,8192|WD~writing_system,8192]]'
+- '[[_Standards/WikiData/WD~writing,37260|WD~writing,37260]]'
 Library_of_Congress_Classification: P211-P211.7
 dv_has_:
   name_:

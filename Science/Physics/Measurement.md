@@ -132,27 +132,27 @@ aliases:
 has_id_wikidata: Q12453
 Commons_category: Measurement
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- '[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]'
-- '[[_Standards/WikiData/WD~ISO_3534-2_2006(en)_Statistics___Vocabulary_and_symbols___Part_2__Applied_statistics,113715213]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574|WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]'
+- '[[_Standards/WikiData/WD~ISO_3534-2_2006(en)_Statistics___Vocabulary_and_symbols___Part_2__Applied_statistics,113715213|WD~ISO_3534-2_2006(en)_Statistics___Vocabulary_and_symbols___Part_2__Applied_statistics,113715213]]'
 exact_match:
 - http://erlangen-crm.org/current/E16_Measurement
 - http://www.ebi.ac.uk/efo/EFO_0001444
 has_characteristic:
-- '[[_Standards/WikiData/WD~measurement_error,196372]]'
-- '[[_Standards/WikiData/WD~measurement_uncertainty,1403517]]'
+- '[[_Standards/WikiData/WD~measurement_error,196372|WD~measurement_error,196372]]'
+- '[[_Standards/WikiData/WD~measurement_uncertainty,1403517|WD~measurement_uncertainty,1403517]]'
 IEV_number: 112-04-01
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/DUB0808c.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Taking%20measurements.jpg
-instance_of: '[[_Standards/WikiData/WD~academic_major,4671286]]'
+instance_of: '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
 Krugosvet_article: nauka_i_tehnika/fizika/IZMERENIYA_I_VZVESHIVANIE.html
 narrower_external_class: http://purl.obolibrary.org/obo/IAO_0000414
-part_of: '[[_Standards/WikiData/WD~metrology,394]]'
-subclass_of: '[[_Standards/WikiData/WD~estimation,791801]]'
+part_of: '[[_Standards/WikiData/WD~metrology,394|WD~metrology,394]]'
+subclass_of: '[[_Standards/WikiData/WD~estimation,791801|WD~estimation,791801]]'
 U_S_National_Archives_Identifier: 10639531
 Wikidata_property: measures
 dv_has_:

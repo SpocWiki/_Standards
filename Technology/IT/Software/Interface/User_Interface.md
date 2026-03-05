@@ -88,24 +88,24 @@ aliases:
 - ꠛꠦꠛꠀꠞꠇꠞ꠆ꠞꠣꠞ ꠛꠣꠄꠇꠥꠞ
 - 사용자 인터페이스
 has_id_wikidata: Q47146
-used_by: '[[_Standards/WikiData/WD~human_computer_interaction,207434]]'
-facet_of: '[[_Standards/WikiData/WD~human_computer_interaction,207434]]'
+used_by: '[[_Standards/WikiData/WD~human_computer_interaction,207434|WD~human_computer_interaction,207434]]'
+facet_of: '[[_Standards/WikiData/WD~human_computer_interaction,207434|WD~human_computer_interaction,207434]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~usability,216378]]'
-- '[[_Standards/WikiData/WD~accessibility,555097]]'
+- '[[_Standards/WikiData/WD~usability,216378|WD~usability,216378]]'
+- '[[_Standards/WikiData/WD~accessibility,555097|WD~accessibility,555097]]'
 subclass_of:
-- '[[../../../../WikiData/WD~work,386724]]'
-- '[[_Standards/WikiData/WD~interface,110558466]]'
-different_from: '[[_Standards/WikiData/WD~user_experience,1047808]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~input_output_device,2384798]]'
-has_use: '[[_Standards/WikiData/WD~human_to_computer_interactivity,39177023]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_User_interfaces,108618081]]'
+- '[[../../../../WikiData/WD~work,386724|WD~work,386724]]'
+- '[[_Standards/WikiData/WD~interface,110558466|WD~interface,110558466]]'
+different_from: '[[_Standards/WikiData/WD~user_experience,1047808|WD~user_experience,1047808]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~input_output_device,2384798|WD~input_output_device,2384798]]'
+has_use: '[[_Standards/WikiData/WD~human_to_computer_interactivity,39177023|WD~human_to_computer_interactivity,39177023]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_User_interfaces,108618081|WD~Template_User_interfaces,108618081]]'
 main_Wikidata_property:
 - input device
 - output device
 part_of:
-- '[[_Standards/WikiData/WD~machine,11019]]'
-- '[[_Standards/WikiData/WD~computer_program,40056]]'
+- '[[_Standards/WikiData/WD~machine,11019|WD~machine,11019]]'
+- '[[_Standards/WikiData/WD~computer_program,40056|WD~computer_program,40056]]'
 short_name: UI
 GitHub_topic:
 - ui

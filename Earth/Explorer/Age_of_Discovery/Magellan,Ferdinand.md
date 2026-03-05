@@ -83,62 +83,62 @@ aliases:
 - 麥哲倫
 - 페르디난드 마젤란
 has_id_wikidata: Q1496
-allegiance: '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
+allegiance: '[[_Standards/WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]'
 award_received:
-- '[[_Standards/WikiData/WD~Order_of_Christ,840941]]'
-- '[[_Standards/WikiData/WD~Military_Order_of_Saint_James_of_the_Sword,1515829]]'
-- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Santiago,67221016]]'
+- '[[_Standards/WikiData/WD~Order_of_Christ,840941|WD~Order_of_Christ,840941]]'
+- '[[_Standards/WikiData/WD~Military_Order_of_Saint_James_of_the_Sword,1515829|WD~Military_Order_of_Saint_James_of_the_Sword,1515829]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Santiago,67221016|WD~Commander_of_the_Order_of_Santiago,67221016]]'
 BHCL_UUID: bb9c4f21-6b3c-4a7a-93ed-ed98da2dc363
-cause_of_death: '[[_Standards/WikiData/WD~killed_in_action,210392]]'
-commander_of_DEPRECATED_: '[[_Standards/WikiData/WD~Trinidad,2453459]]'
+cause_of_death: '[[_Standards/WikiData/WD~killed_in_action,210392|WD~killed_in_action,210392]]'
+commander_of_DEPRECATED_: '[[_Standards/WikiData/WD~Trinidad,2453459|WD~Trinidad,2453459]]'
 Commons_category: Ferdinand Magellan
 Commons_gallery: Fernão de Magalhães
-country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670|WD~Kingdom_of_Portugal,45670]]'
 date_of_birth: 1480
 date_of_death: 1521-05-07
 described_at_URL:
 - http://www.digiporta.net/index.php?id=143424712
 - http://www.digiporta.net/index.php?id=576950260
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-family_name: '[[_Standards/WikiData/WD~Mbappe_lotin,109590735]]'
-father: '[[_Standards/WikiData/WD~Rui_de_Rui_de_Magalhães,42293555]]'
-given_name: '[[_Standards/WikiData/WD~Fernão,18171074]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+family_name: '[[_Standards/WikiData/WD~Mbappe_lotin,109590735|WD~Mbappe_lotin,109590735]]'
+father: '[[_Standards/WikiData/WD~Rui_de_Rui_de_Magalhães,42293555|WD~Rui_de_Rui_de_Magalhães,42293555]]'
+given_name: '[[_Standards/WikiData/WD~Fernão,18171074|WD~Fernão,18171074]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Hernando%20de%20Magallanes.jpg
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ISNI: 121361727
 Krugosvet_article: istoriya/MAGELLAN_FERNAN.html
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~Italian,652]]'
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~Portuguese,5146]]'
+- '[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146|WD~Portuguese,5146]]'
 Libris_URI: 31fhlmwm0rwtplr
-manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
-member_of: '[[_Standards/WikiData/WD~Order_of_Santiago,757097]]'
-military_casualty_classification: '[[_Standards/WikiData/WD~killed_in_action,210392]]'
-military_or_police_rank: '[[_Standards/WikiData/WD~captain,19100]]'
-mother: '[[_Standards/WikiData/WD~Alda_de_Mesquita,100953577]]'
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086|WD~homicide,149086]]'
+member_of: '[[_Standards/WikiData/WD~Order_of_Santiago,757097|WD~Order_of_Santiago,757097]]'
+military_casualty_classification: '[[_Standards/WikiData/WD~killed_in_action,210392|WD~killed_in_action,210392]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~captain,19100|WD~captain,19100]]'
+mother: '[[_Standards/WikiData/WD~Alda_de_Mesquita,100953577|WD~Alda_de_Mesquita,100953577]]'
 name: Magellan, Ferdinand
 name_in_native_language: Fernão de Magalhães
 occupation:
-- '[[_Standards/WikiData/WD~explorer,11900058]]'
-- '[[_Standards/WikiData/WD~seafarer,12038843]]'
-- '[[_Standards/WikiData/WD~sailor,45199]]'
-place_of_birth: '[[_Standards/WikiData/WD~Ponte_da_Barca,491484]]'
+- '[[_Standards/WikiData/WD~explorer,11900058|WD~explorer,11900058]]'
+- '[[_Standards/WikiData/WD~seafarer,12038843|WD~seafarer,12038843]]'
+- '[[_Standards/WikiData/WD~sailor,45199|WD~sailor,45199]]'
+place_of_birth: '[[_Standards/WikiData/WD~Ponte_da_Barca,491484|WD~Ponte_da_Barca,491484]]'
 place_of_burial: http://www.wikidata.org/.well-known/genid/558244b97e26e59ec95aad0e111d826c
-place_of_death: '[[_Standards/WikiData/WD~Mactan,685318]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_death: '[[_Standards/WikiData/WD~Mactan,685318|WD~Mactan,685318]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Magellan%20Signature.svg
-spouse: '[[_Standards/WikiData/WD~Beatriz_Barbosa,22668563]]'
+spouse: '[[_Standards/WikiData/WD~Beatriz_Barbosa,22668563|WD~Beatriz_Barbosa,22668563]]'
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Ferdinand_Magellan,1496|WD~Ferdinand_Magellan,1496]]'

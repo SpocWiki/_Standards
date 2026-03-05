@@ -50,15 +50,15 @@ aliases:
 - 電單車運動
 - 모터사이클 경주
 has_id_wikidata: Q328716
-practiced_by: '[[_Standards/WikiData/WD~motorcycle_racer,3014296]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Motorcycle_racing,11214830]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Motorcycling,15884974]]'
+practiced_by: '[[_Standards/WikiData/WD~motorcycle_racer,3014296|WD~motorcycle_racer,3014296]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Motorcycle_racing,11214830|WD~Portal_Motorcycle_racing,11214830]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Motorcycling,15884974|WD~WikiProject_Motorcycling,15884974]]'
 uses:
-- '[[_Standards/WikiData/WD~motorsport_motorcycle,71440420]]'
-- '[[_Standards/WikiData/WD~motorcycle,34493]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-subclass_of: '[[_Standards/WikiData/WD~motorsport,5367]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~motorsport_motorcycle,71440420|WD~motorsport_motorcycle,71440420]]'
+- '[[_Standards/WikiData/WD~motorcycle,34493|WD~motorcycle,34493]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+subclass_of: '[[_Standards/WikiData/WD~motorsport,5367|WD~motorsport,5367]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 IAB_code: 519
 BHCL_UUID: bb557827-caba-4469-ac46-1a3b39b1cfcd
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Motor%20cycle%20pictogram.svg

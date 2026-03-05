@@ -66,16 +66,16 @@ aliases:
 - 狙擊手
 - 저격수
 has_id_wikidata: Q201948
-uses: '[[_Standards/WikiData/WD~sniper_rifle,190570]]'
+uses: '[[_Standards/WikiData/WD~sniper_rifle,190570|WD~sniper_rifle,190570]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~specialist,1391344]]'
-- '[[_Standards/WikiData/WD~soldier,4991371]]'
-- '[[_Standards/WikiData/WD~shooter,109648129]]'
+- '[[_Standards/WikiData/WD~specialist,1391344|WD~specialist,1391344]]'
+- '[[_Standards/WikiData/WD~soldier,4991371|WD~soldier,4991371]]'
+- '[[_Standards/WikiData/WD~shooter,109648129|WD~shooter,109648129]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~marksman,3529376]]'
-- '[[_Standards/WikiData/WD~Q12827131,12827131]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~sniping,11571401]]'
-instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~marksman,3529376|WD~marksman,3529376]]'
+- '[[_Standards/WikiData/WD~Q12827131,12827131|WD~Q12827131,12827131]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~sniping,11571401|WD~sniping,11571401]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 Commons_gallery: Sniper
 male_form_of_label:
 - Scharfschütze

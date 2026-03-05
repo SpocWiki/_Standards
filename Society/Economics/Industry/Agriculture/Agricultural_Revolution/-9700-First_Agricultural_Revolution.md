@@ -202,7 +202,7 @@ dv_has_:
 
 # [[-9700-First_Agricultural_Revolution]] 
 
-#is_/part_of :: [[../Agricultural_Revolution]] 
+#is_/part_of :: [[../Agricultural_Revolution|Agricultural_Revolution]] 
 #is_/different_from :: [[1670-Second_Agricultural_Revolution+1850]]  
 #is_/same_as :: [[WD~Neolithic_revolution,180548]] 
 

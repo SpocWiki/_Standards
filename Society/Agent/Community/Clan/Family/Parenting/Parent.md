@@ -211,13 +211,13 @@ female_form_of_label:
 - madre
 - motina
 - mot
-instance_of: '[[_Standards/WikiData/WD~kinship,171318]]'
+instance_of: '[[_Standards/WikiData/WD~kinship,171318|WD~kinship,171318]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-part_of: '[[_Standards/WikiData/WD~parent_and_child,5362237]]'
-subclass_of: '[[_Standards/WikiData/WD~first_degree_relative,25098571]]'
-opposite_of: '[[_Standards/WikiData/WD~child,29514218]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+part_of: '[[_Standards/WikiData/WD~parent_and_child,5362237|WD~parent_and_child,5362237]]'
+subclass_of: '[[_Standards/WikiData/WD~first_degree_relative,25098571|WD~first_degree_relative,25098571]]'
+opposite_of: '[[_Standards/WikiData/WD~child,29514218|WD~child,29514218]]'
 Wikidata_property: parent
 family_relationship_degree: 1
 OmegaWiki_Defined_Meaning: 5574

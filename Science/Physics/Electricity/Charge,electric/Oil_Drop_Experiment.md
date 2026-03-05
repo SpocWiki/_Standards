@@ -39,8 +39,8 @@ aliases:
 - 油滴實驗
 - 기름방울 실험
 has_id_wikidata: Q649803
-named_after: '[[_Standards/WikiData/WD~Robert_A._Millikan,130975]]'
-instance_of: '[[_Standards/WikiData/WD~physics_experiment,77872752]]'
+named_after: '[[_Standards/WikiData/WD~Robert_A._Millikan,130975|WD~Robert_A._Millikan,130975]]'
+instance_of: '[[_Standards/WikiData/WD~physics_experiment,77872752|WD~physics_experiment,77872752]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Millikan%27s%20setup%20for%20the%20oil%20drop%20experiment.jpg
 Commons_category: Oil-drop experiment
 dv_has_:

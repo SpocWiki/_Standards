@@ -89,29 +89,29 @@ aliases:
 - 망원경
 has_id_wikidata: Q4213
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Hans_Lippershay,76468]]'
-- '[[_Standards/WikiData/WD~Zaccarias_Janssen,139518]]'
-- '[[_Standards/WikiData/WD~Jacob_Metius,2699503]]'
+- '[[_Standards/WikiData/WD~Hans_Lippershay,76468|WD~Hans_Lippershay,76468]]'
+- '[[_Standards/WikiData/WD~Zaccarias_Janssen,139518|WD~Zaccarias_Janssen,139518]]'
+- '[[_Standards/WikiData/WD~Jacob_Metius,2699503|WD~Jacob_Metius,2699503]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~astronomical_instrument,751997]]'
-- '[[_Standards/WikiData/WD~optical_instrument,1751850]]'
-has_part_s_: '[[_Standards/WikiData/WD~lens,768575]]'
-connects_with: '[[_Standards/WikiData/WD~telescope_mount,1205231]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_the_telescope,2530956]]'
-named_after: '[[_Standards/WikiData/WD~aerial_telescope,3232452]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_telescope,6364603]]'
-instance_of: '[[_Standards/WikiData/WD~invention,14208553]]'
+- '[[_Standards/WikiData/WD~astronomical_instrument,751997|WD~astronomical_instrument,751997]]'
+- '[[_Standards/WikiData/WD~optical_instrument,1751850|WD~optical_instrument,1751850]]'
+has_part_s_: '[[_Standards/WikiData/WD~lens,768575|WD~lens,768575]]'
+connects_with: '[[_Standards/WikiData/WD~telescope_mount,1205231|WD~telescope_mount,1205231]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_telescope,2530956|WD~history_of_the_telescope,2530956]]'
+named_after: '[[_Standards/WikiData/WD~aerial_telescope,3232452|WD~aerial_telescope,3232452]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_telescope,6364603|WD~Template_Infobox_telescope,6364603]]'
+instance_of: '[[_Standards/WikiData/WD~invention,14208553|WD~invention,14208553]]'
 different_from:
-- '[[_Standards/WikiData/WD~Teleskop,20532613]]'
-- '[[_Standards/WikiData/WD~Telescopium,10546]]'
-practiced_by: '[[_Standards/WikiData/WD~telescope_maker,66060315]]'
+- '[[_Standards/WikiData/WD~Teleskop,20532613|WD~Teleskop,20532613]]'
+- '[[_Standards/WikiData/WD~Telescopium,10546|WD~Telescopium,10546]]'
+practiced_by: '[[_Standards/WikiData/WD~telescope_maker,66060315|WD~telescope_maker,66060315]]'
 inception: 1607-01-01T00:00:00Z
 Amazon_com_browse_node: 281063
 OmegaWiki_Defined_Meaning: 456430

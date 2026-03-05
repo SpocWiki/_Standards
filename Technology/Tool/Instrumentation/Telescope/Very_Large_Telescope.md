@@ -26,21 +26,21 @@ aliases:
 - 超大型望遠鏡
 - 초거대 망원경
 has_id_wikidata: Q265628
-operator: '[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]'
+operator: '[[_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~altazimuth_mount,677971]]'
-- '[[_Standards/WikiData/WD~Ritchey_Chrétien_telescope,1062138]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Cerro_Paranal,859718]]'
+- '[[_Standards/WikiData/WD~altazimuth_mount,677971|WD~altazimuth_mount,677971]]'
+- '[[_Standards/WikiData/WD~Ritchey_Chrétien_telescope,1062138|WD~Ritchey_Chrétien_telescope,1062138]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Cerro_Paranal,859718|WD~Cerro_Paranal,859718]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~VLT_Survey_Telescope,900375]]'
-- '[[_Standards/WikiData/WD~Unit_Telescope,3550679]]'
-- '[[_Standards/WikiData/WD~Very_Large_Telescope_Interferometer,3556304]]'
-- '[[_Standards/WikiData/WD~Four_Laser_Guide_Star_Facility,24820708]]'
-- '[[_Standards/WikiData/WD~Auxiliary_Telescope,107053788]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_observatory,1254933]]'
-part_of: '[[_Standards/WikiData/WD~Paranal_Observatory,10914152]]'
-country: '[[_Standards/WikiData/WD~Chile,298]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antofagasta_Region,2118]]'
+- '[[_Standards/WikiData/WD~VLT_Survey_Telescope,900375|WD~VLT_Survey_Telescope,900375]]'
+- '[[_Standards/WikiData/WD~Unit_Telescope,3550679|WD~Unit_Telescope,3550679]]'
+- '[[_Standards/WikiData/WD~Very_Large_Telescope_Interferometer,3556304|WD~Very_Large_Telescope_Interferometer,3556304]]'
+- '[[_Standards/WikiData/WD~Four_Laser_Guide_Star_Facility,24820708|WD~Four_Laser_Guide_Star_Facility,24820708]]'
+- '[[_Standards/WikiData/WD~Auxiliary_Telescope,107053788|WD~Auxiliary_Telescope,107053788]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_observatory,1254933|WD~astronomical_observatory,1254933]]'
+part_of: '[[_Standards/WikiData/WD~Paranal_Observatory,10914152|WD~Paranal_Observatory,10914152]]'
+country: '[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antofagasta_Region,2118|WD~Antofagasta_Region,2118]]'
 angular_resolution: 0.002
 focal_length: 120
 diameter:

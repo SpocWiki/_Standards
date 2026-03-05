@@ -93,21 +93,21 @@ aliases:
 - ꭰꮉ ꭴꮤꮓꮈꮣ
 - 수증기
 has_id_wikidata: Q190120
-has_cause: '[[_Standards/WikiData/WD~evaporation,132814]]'
-subject_has_role: '[[_Standards/WikiData/WD~greenhouse_gas,167336]]'
-has_characteristic: '[[_Standards/WikiData/WD~greenhouse_gas,167336]]'
+has_cause: '[[_Standards/WikiData/WD~evaporation,132814|WD~evaporation,132814]]'
+subject_has_role: '[[_Standards/WikiData/WD~greenhouse_gas,167336|WD~greenhouse_gas,167336]]'
+has_characteristic: '[[_Standards/WikiData/WD~greenhouse_gas,167336|WD~greenhouse_gas,167336]]'
 instance_of:
-- '[[_Standards/WikiData/WD~greenhouse_gas,167336]]'
-- '[[_Standards/WikiData/WD~state_of_matter,11430]]'
-- '[[_Standards/WikiData/WD~gas,11432]]'
+- '[[_Standards/WikiData/WD~greenhouse_gas,167336|WD~greenhouse_gas,167336]]'
+- '[[_Standards/WikiData/WD~state_of_matter,11430|WD~state_of_matter,11430]]'
+- '[[_Standards/WikiData/WD~gas,11432|WD~gas,11432]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~vapor,255722]]'
-- '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~vapor,255722|WD~vapor,255722]]'
+- '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~steam,3251738]]'
-- '[[_Standards/WikiData/WD~evaporated_water,38138553]]'
-follows: '[[_Standards/WikiData/WD~liquid_water,29053744]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[_Standards/WikiData/WD~steam,3251738|WD~steam,3251738]]'
+- '[[_Standards/WikiData/WD~evaporated_water,38138553|WD~evaporated_water,38138553]]'
+follows: '[[_Standards/WikiData/WD~liquid_water,29053744|WD~liquid_water,29053744]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000266
 UMLS_CUI: C0038225
 MeSH_tree_code:

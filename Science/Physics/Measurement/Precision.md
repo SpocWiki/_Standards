@@ -1,5 +1,5 @@
 
-[[../../../Science/Physics/Measurement/Accuracy]] = [[Trueness]] AND [[Precision]] 
+[[../../../Science/Physics/Measurement/Accuracy|Accuracy]] = [[Trueness]] AND [[Precision]] 
 
 Precision describes the Influence of **random errors** (a measure of statistical variability), 
 

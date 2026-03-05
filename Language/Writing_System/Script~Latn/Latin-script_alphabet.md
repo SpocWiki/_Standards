@@ -181,32 +181,32 @@ aliases:
 - "\U000110AA\U000110B6\U00011097\U000110B1\U000110A2 \U000110AA\U000110B1\U0001108E\U000110B0\U00011086"
 has_id_wikidata: Q8229
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/LATEINISCHES%20ALPHABET%20NOTO%20SANS.stl
-based_on: '[[_Standards/WikiData/WD~Old_Italic,4891256]]'
+based_on: '[[_Standards/WikiData/WD~Old_Italic,4891256|WD~Old_Italic,4891256]]'
 Commons_category: Latin alphabet
 Commons_gallery: Latin letters
 described_at_URL: https://wikipesija.org/wiki/sitelen_Lasina
-described_by_source: '[[_Standards/WikiData/WD~Wikipesija,108929142]]'
+described_by_source: '[[_Standards/WikiData/WD~Wikipesija,108929142|WD~Wikipesija,108929142]]'
 different_from:
-- '[[_Standards/WikiData/WD~English_script,16929818]]'
-- '[[_Standards/WikiData/WD~Latin-script_alphabet,29575627]]'
-- '[[_Standards/WikiData/WD~Latin_alphabet,41670]]'
+- '[[_Standards/WikiData/WD~English_script,16929818|WD~English_script,16929818]]'
+- '[[_Standards/WikiData/WD~Latin-script_alphabet,29575627|WD~Latin-script_alphabet,29575627]]'
+- '[[_Standards/WikiData/WD~Latin_alphabet,41670|WD~Latin_alphabet,41670]]'
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Latin%20alphabet%20world%20distribution.svg
-has_part_s_: '[[_Standards/WikiData/WD~Latin-script_letter,19776628]]'
+has_part_s_: '[[_Standards/WikiData/WD~Latin-script_letter,19776628|WD~Latin-script_letter,19776628]]'
 has_time_started: -0700
-history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Latin_alphabet,3772237]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Latin_alphabet,3772237|WD~history_of_the_Latin_alphabet,3772237]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Abecedarium.svg
 inception: -0700
-instance_of: '[[_Standards/WikiData/WD~writing_system,8192]]'
+instance_of: '[[_Standards/WikiData/WD~writing_system,8192|WD~writing_system,8192]]'
 ISO_15924_alpha_4_code: Latn
 ISO_15924_numeric_code: 215
-location: '[[_Standards/WikiData/WD~Italy,38]]'
+location: '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
 name:
 - Latin
 - latin
-script_directionality: '[[_Standards/WikiData/WD~left-to-right,17321844]]'
+script_directionality: '[[_Standards/WikiData/WD~left-to-right,17321844|WD~left-to-right,17321844]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Latijnsalfabet.ogg
-subclass_of: '[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Latin_script,15063213]]'
+subclass_of: '[[_Standards/WikiData/WD~alphabetic_writing_system,2182919|WD~alphabetic_writing_system,2182919]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Latin_script,15063213|WD~Template_Latin_script,15063213]]'
 Unicode_range:
 - U+0041-005A,U+0061-006A
 - U+00AA,U+00BA,U+00C0-00D6,U+00D7-00F6,U+00F8-00FF

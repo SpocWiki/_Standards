@@ -41,10 +41,10 @@ aliases:
 - 托马斯主义
 - 토미즘
 has_id_wikidata: Q328945
-described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-instance_of: '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
-named_after: '[[_Standards/WikiData/WD~Thomas_Aquinas,9438]]'
-founded_by: '[[_Standards/WikiData/WD~Thomas_Aquinas,9438]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+instance_of: '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852|WD~philosophical_schools_and_traditions,12765852]]'
+named_after: '[[_Standards/WikiData/WD~Thomas_Aquinas,9438|WD~Thomas_Aquinas,9438]]'
+founded_by: '[[_Standards/WikiData/WD~Thomas_Aquinas,9438|WD~Thomas_Aquinas,9438]]'
 Dewey_Decimal_Classification: 189.4
 PhilPapers_topic: thomism
 dv_has_:

@@ -60,16 +60,16 @@ aliases:
 - 한국의 역사
 has_id_wikidata: Q713414
 has_part_s_:
-- '[[_Standards/WikiData/WD~history_of_South_Korea,494973]]'
-- '[[_Standards/WikiData/WD~history_of_North_Korea,693277]]'
+- '[[_Standards/WikiData/WD~history_of_South_Korea,494973|WD~history_of_South_Korea,494973]]'
+- '[[_Standards/WikiData/WD~history_of_North_Korea,693277|WD~history_of_North_Korea,693277]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Goryeosa,707566]]'
-- '[[_Standards/WikiData/WD~Svensk_uppslagsbok,1766280]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_East_Asia,831198]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828763,22828763]]'
-facet_of: '[[_Standards/WikiData/WD~Korea,18097]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Korea,55507]]'
+- '[[_Standards/WikiData/WD~Goryeosa,707566|WD~Goryeosa,707566]]'
+- '[[_Standards/WikiData/WD~Svensk_uppslagsbok,1766280|WD~Svensk_uppslagsbok,1766280]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_East_Asia,831198|WD~history_of_East_Asia,831198]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828763,22828763|WD~Q22828763,22828763]]'
+facet_of: '[[_Standards/WikiData/WD~Korea,18097|WD~Korea,18097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Korea,55507|WD~Template_History_of_Korea,55507]]'
 Commons_category: History of Korea
 Dewey_Decimal_Classification: 951.9
 dv_is_:

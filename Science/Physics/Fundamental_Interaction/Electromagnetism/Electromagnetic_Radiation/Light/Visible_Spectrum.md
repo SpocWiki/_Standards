@@ -86,13 +86,13 @@ aliases:
 - 可见光
 - 가시광선
 has_id_wikidata: Q76299
-part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]'
+part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139|WD~electromagnetic_spectrum,133139]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-subclass_of: '[[_Standards/WikiData/WD~light,9128]]'
-follows: '[[_Standards/WikiData/WD~ultraviolet_radiation,11391]]'
-followed_by: '[[_Standards/WikiData/WD~infrared_radiation,11388]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+subclass_of: '[[_Standards/WikiData/WD~light,9128|WD~light,9128]]'
+follows: '[[_Standards/WikiData/WD~ultraviolet_radiation,11391|WD~ultraviolet_radiation,11391]]'
+followed_by: '[[_Standards/WikiData/WD~infrared_radiation,11388|WD~infrared_radiation,11388]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%20by%20Stimulated%20Emission%20of%20Radiation.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%20by%20Stimulated%20Emission%20of%20Radiation.ogv
 Commons_category: Visible spectrum

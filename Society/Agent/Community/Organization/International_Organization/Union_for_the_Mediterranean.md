@@ -61,15 +61,15 @@ aliases:
 - 地中海連合
 - 지중해 연합
 has_id_wikidata: Q192177
-operating_area: '[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]'
-instance_of: '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-award_received: "[[_Standards/WikiData/WD~Saint_George's_Cross,1139785]]"
-has_part_s_: '[[_Standards/WikiData/WD~Parliamentary_Assembly_of_the_Union_for_the_Mediterranean,1375081]]'
+operating_area: '[[_Standards/WikiData/WD~Mediterranean_Basin,72499|WD~Mediterranean_Basin,72499]]'
+instance_of: '[[_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
+award_received: "[[_Standards/WikiData/WD~Saint_George's_Cross,1139785|WD~Saint_George's_Cross,1139785]]"
+has_part_s_: '[[_Standards/WikiData/WD~Parliamentary_Assembly_of_the_Union_for_the_Mediterranean,1375081|WD~Parliamentary_Assembly_of_the_Union_for_the_Mediterranean,1375081]]'
 headquarters_location:
-- '[[_Standards/WikiData/WD~Palau_Reial_de_Pedralbes,1815135]]'
-- '[[_Standards/WikiData/WD~Barcelona,1492]]'
-location_of_formation: '[[_Standards/WikiData/WD~Paris,90]]'
-official_observer_status_in_organization: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+- '[[_Standards/WikiData/WD~Palau_Reial_de_Pedralbes,1815135|WD~Palau_Reial_de_Pedralbes,1815135]]'
+- '[[_Standards/WikiData/WD~Barcelona,1492|WD~Barcelona,1492]]'
+location_of_formation: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
 social_media_followers: 111318
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Union%20for%20the%20Mediterranean%20-%20updatable.svg
 official_website: http://ufmsecretariat.org/

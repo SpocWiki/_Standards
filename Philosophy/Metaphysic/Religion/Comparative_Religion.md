@@ -52,10 +52,10 @@ aliases:
 - 비교종교학
 has_id_wikidata: Q1075827
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/comparative-religion
-topic_has_template: '[[_Standards/WikiData/WD~Template_Comparativing_of_religions,131556120]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Comparativing_of_religions,131556120|WD~Template_Comparativing_of_religions,131556120]]'
 P8189: 987007531783805171
 Commons_category: Comparative religion
 dv_has_:

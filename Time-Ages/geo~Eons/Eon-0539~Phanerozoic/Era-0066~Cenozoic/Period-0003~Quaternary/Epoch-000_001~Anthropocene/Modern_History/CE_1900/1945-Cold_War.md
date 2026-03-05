@@ -164,44 +164,44 @@ aliases:
 - 랭전
 has_id_wikidata: Q8683
 Commons_category: Cold War
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
 end_time: 1991-12-25
-has_cause: '[[_Standards/WikiData/WD~superpower,1489259]]'
+has_cause: '[[_Standards/WikiData/WD~superpower,1489259|WD~superpower,1489259]]'
 has_effect:
-- '[[_Standards/WikiData/WD~dissolution_of_the_Soviet_Union,5167679]]'
-- '[[_Standards/WikiData/WD~Eastern_Bloc,170541]]'
-- '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-has_part_s_: '[[_Standards/WikiData/WD~proxy_war,864113]]'
+- '[[_Standards/WikiData/WD~dissolution_of_the_Soviet_Union,5167679|WD~dissolution_of_the_Soviet_Union,5167679]]'
+- '[[_Standards/WikiData/WD~Eastern_Bloc,170541|WD~Eastern_Bloc,170541]]'
+- '[[_Standards/WikiData/WD~Eastern_Europe,27468|WD~Eastern_Europe,27468]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+has_part_s_: '[[_Standards/WikiData/WD~proxy_war,864113|WD~proxy_war,864113]]'
 has_time_started: 1945-06
 has_time_stopped: 1991-12-25
 image: http://commons.wikimedia.org/wiki/Special:FilePath/US%20Army%20tanks%20face%20off%20against%20Soviet%20tanks%2C%20Berlin%201961.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~cold_war,4176199]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-- '[[_Standards/WikiData/WD~perpetual_war,1469686]]'
-- '[[_Standards/WikiData/WD~proxy_war,864113]]'
+- '[[_Standards/WikiData/WD~cold_war,4176199|WD~cold_war,4176199]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~perpetual_war,1469686|WD~perpetual_war,1469686]]'
+- '[[_Standards/WikiData/WD~proxy_war,864113|WD~proxy_war,864113]]'
 Krugosvet_article: istoriya/HOLODNAYA_VONA.html
 location:
-- '[[_Standards/WikiData/WD~Africa,15]]'
-- '[[_Standards/WikiData/WD~Asia,48]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
-- '[[_Standards/WikiData/WD~Latin_America,12585]]'
+- '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Latin_America,12585|WD~Latin_America,12585]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/NATO%20vs.%20Warsaw%20Pact%20%281949-1990%29.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cold%20war%20banner.jpg
 participant:
-- '[[_Standards/WikiData/WD~Eastern_Bloc,170541]]'
-- '[[_Standards/WikiData/WD~Western_Bloc,1507074]]'
+- '[[_Standards/WikiData/WD~Eastern_Bloc,170541|WD~Eastern_Bloc,170541]]'
+- '[[_Standards/WikiData/WD~Western_Bloc,1507074|WD~Western_Bloc,1507074]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Kalter%20Krieg.ogg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Cold%20War.ogg
 start_time: 1945-06
-studied_in: '[[_Standards/WikiData/WD~history_of_the_Cold_War,108312481]]'
-subclass_of: '[[_Standards/WikiData/WD~low-intensity_conflict,369799]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Cold_War,10652253]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cold_War,10729138]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Cold_War,27627838]]'
+studied_in: '[[_Standards/WikiData/WD~history_of_the_Cold_War,108312481|WD~history_of_the_Cold_War,108312481]]'
+subclass_of: '[[_Standards/WikiData/WD~low-intensity_conflict,369799|WD~low-intensity_conflict,369799]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Cold_War,10652253|WD~Template_Cold_War,10652253]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cold_War,10729138|WD~Portal_Cold_War,10729138]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Cold_War,27627838|WD~outline_of_the_Cold_War,27627838]]'
 dv_has_:
   duration: P46Y6M3W3D
   duration_:
@@ -410,7 +410,7 @@ dv_has_:
     stopped: 1991-12-08T00:00:00.000+01:00
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Cold_War,8683]]'
+  - '[[../../../../../../../../WikiData/WD~Cold_War,8683|WD~Cold_War,8683]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War|1945-Cold_War]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War.public|1945-Cold_War.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War.internal|1945-Cold_War.internal]]'
@@ -422,7 +422,7 @@ dv_has_previous_item: '[[1939-World_War_II]]'
 dv_has_duration_years: 47
 dv_has_duration: P46Y6M3W3D
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Cold_War,8683]]'
+- '[[../../../../../../../../WikiData/WD~Cold_War,8683|WD~Cold_War,8683]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War|1945-Cold_War]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War.public|1945-Cold_War.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War.internal|1945-Cold_War.internal]]'
@@ -439,7 +439,7 @@ dv_is_same_as:
 has_previous_item = `=this.dv_has_previous_item` 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Cold_War,8683]]
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Cold_War,8683|WD~Cold_War,8683]]
 
 ## #has_/text_of_/abstract 
 

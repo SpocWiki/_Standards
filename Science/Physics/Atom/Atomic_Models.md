@@ -60,13 +60,13 @@ aliases:
 - 原子論
 - 원자론
 has_id_wikidata: Q210553
-part_of: '[[_Standards/WikiData/WD~atomism,178668]]'
-has_part_s_: '[[_Standards/WikiData/WD~atom_model,780649]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-instance_of: '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
+part_of: '[[_Standards/WikiData/WD~atomism,178668|WD~atomism,178668]]'
+has_part_s_: '[[_Standards/WikiData/WD~atom_model,780649|WD~atom_model,780649]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+instance_of: '[[_Standards/WikiData/WD~scientific_theory,3239681|WD~scientific_theory,3239681]]'
 main_subject:
-- '[[_Standards/WikiData/WD~atom,9121]]'
-- '[[_Standards/WikiData/WD~matter,35758]]'
+- '[[_Standards/WikiData/WD~atom,9121|WD~atom,9121]]'
+- '[[_Standards/WikiData/WD~matter,35758|WD~matter,35758]]'
 dv_has_:
   name_:
     anp: परमाणु सिद्धांत

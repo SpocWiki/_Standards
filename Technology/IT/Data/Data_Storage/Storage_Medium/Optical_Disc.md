@@ -56,17 +56,17 @@ aliases:
 - 광 디스크
 has_id_wikidata: Q234870
 subclass_of:
-- '[[_Standards/WikiData/WD~computer_storage_media,66221]]'
-- '[[_Standards/WikiData/WD~machine_readable_medium,1048236]]'
-- '[[_Standards/WikiData/WD~optical_storage,2248059]]'
-- '[[_Standards/WikiData/WD~removable_media,37768]]'
+- '[[_Standards/WikiData/WD~computer_storage_media,66221|WD~computer_storage_media,66221]]'
+- '[[_Standards/WikiData/WD~machine_readable_medium,1048236|WD~machine_readable_medium,1048236]]'
+- '[[_Standards/WikiData/WD~optical_storage,2248059|WD~optical_storage,2248059]]'
+- '[[_Standards/WikiData/WD~removable_media,37768|WD~removable_media,37768]]'
 different_from:
-- '[[_Standards/WikiData/WD~Disk,2736869]]'
-- '[[_Standards/WikiData/WD~optic_disc,16873995]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Optical_disc,5893235]]'
-shape: '[[_Standards/WikiData/WD~disk,10803218]]'
-used_by: '[[_Standards/WikiData/WD~optical_disc_drive,4492]]'
-has_characteristic: '[[_Standards/WikiData/WD~removable_media,37768]]'
+- '[[_Standards/WikiData/WD~Disk,2736869|WD~Disk,2736869]]'
+- '[[_Standards/WikiData/WD~optic_disc,16873995|WD~optic_disc,16873995]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Optical_disc,5893235|WD~Template_Optical_disc,5893235]]'
+shape: '[[_Standards/WikiData/WD~disk,10803218|WD~disk,10803218]]'
+used_by: '[[_Standards/WikiData/WD~optical_disc_drive,4492|WD~optical_disc_drive,4492]]'
+has_characteristic: '[[_Standards/WikiData/WD~removable_media,37768|WD~removable_media,37768]]'
 Nomenclature_for_Museum_Cataloging: 10486
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cd-en-vrac.jpg
 Unicode_character:

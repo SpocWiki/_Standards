@@ -14,7 +14,7 @@
 > an obsessed scientist who digs up corpses with his assistant 
 > in order to assemble a living being from body parts. 
 > 
-> The resulting creature, often known as Frankenstein's monster, is portrayed by [[../../Actor/British_Actor/Karloff,Boris]]. 
+> The resulting creature, often known as Frankenstein's monster, is portrayed by [[../../Actor/British_Actor/Karloff,Boris|Karloff,Boris]]. 
 > The makeup for the monster was provided by Jack Pierce. 
 > Alongside Clive and Karloff, the film's cast also includes Mae Clarke, John Boles, Dwight Frye, and Edward Van Sloan.
 >

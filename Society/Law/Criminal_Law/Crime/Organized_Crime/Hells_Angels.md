@@ -23,12 +23,12 @@ aliases:
 - 地獄天使
 - 헬스 엔젤스
 has_id_wikidata: Q622188
-instance_of: '[[_Standards/WikiData/WD~outlaw_motorcycle_club,1849110]]'
-child_organization_unit: '[[_Standards/WikiData/WD~Hells_Angels,3784697]]'
+instance_of: '[[_Standards/WikiData/WD~outlaw_motorcycle_club,1849110|WD~outlaw_motorcycle_club,1849110]]'
+child_organization_unit: '[[_Standards/WikiData/WD~Hells_Angels,3784697|WD~Hells_Angels,3784697]]'
 official_color:
-- '[[_Standards/WikiData/WD~red,3142]]'
-- '[[_Standards/WikiData/WD~white,23444]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~red,3142|WD~red,3142]]'
+- '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 Commons_category: Hells Angels
 inception: 1948-03-17T00:00:00Z
 short_name: HAMC

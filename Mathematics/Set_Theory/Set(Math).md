@@ -104,21 +104,21 @@ aliases:
 - 집합
 has_id_wikidata: Q36161
 subclass_of:
-- '[[_Standards/WikiData/WD~algebraic_structure,205464]]'
-- '[[_Standards/WikiData/WD~class,217594]]'
-- '[[_Standards/WikiData/WD~multiset,864377]]'
-has_part_s_: '[[_Standards/WikiData/WD~element,379825]]'
-uses: '[[_Standards/WikiData/WD~property,937228]]'
+- '[[_Standards/WikiData/WD~algebraic_structure,205464|WD~algebraic_structure,205464]]'
+- '[[_Standards/WikiData/WD~class,217594|WD~class,217594]]'
+- '[[_Standards/WikiData/WD~multiset,864377|WD~multiset,864377]]'
+has_part_s_: '[[_Standards/WikiData/WD~element,379825|WD~element,379825]]'
+uses: '[[_Standards/WikiData/WD~property,937228|WD~property,937228]]'
 has_cause:
-- '[[_Standards/WikiData/WD~intensional_definition,1026899]]'
-- '[[_Standards/WikiData/WD~extensional_definition,5421961]]'
+- '[[_Standards/WikiData/WD~intensional_definition,1026899|WD~intensional_definition,1026899]]'
+- '[[_Standards/WikiData/WD~extensional_definition,5421961|WD~extensional_definition,5421961]]'
 different_from:
-- '[[_Standards/WikiData/WD~set,1514741]]'
-- '[[_Standards/WikiData/WD~group,16887380]]'
-- '[[_Standards/WikiData/WD~class,16889133]]'
-used_by: '[[_Standards/WikiData/WD~set_operation,1964995]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+- '[[_Standards/WikiData/WD~set,1514741|WD~set,1514741]]'
+- '[[_Standards/WikiData/WD~group,16887380|WD~group,16887380]]'
+- '[[_Standards/WikiData/WD~class,16889133|WD~class,16889133]]'
+used_by: '[[_Standards/WikiData/WD~set_operation,1964995|WD~set_operation,1964995]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x2208;</mo></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x2203;</mi></mstyle></mrow></math>
@@ -129,7 +129,7 @@ properties_for_this_type:
 - union of
 - disjoint union of
 - cardinality of this set
-studied_by: '[[_Standards/WikiData/WD~set_theory,12482]]'
+studied_by: '[[_Standards/WikiData/WD~set_theory,12482|WD~set_theory,12482]]'
 OmegaWiki_Defined_Meaning: 6966
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x2203;</mi><mi>Y</mi><mo stretchy="false">&#x003A;</mo><mi>X</mi><mo stretchy="false">&#x2208;</mo><mi>Y</mi></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Example%20of%20a%20set.svg

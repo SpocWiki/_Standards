@@ -81,19 +81,19 @@ aliases:
 - 게릴라전
 has_id_wikidata: Q80895
 practiced_by:
-- '[[_Standards/WikiData/WD~partisan,212948]]'
-- '[[_Standards/WikiData/WD~guerrilla_movement,20642011]]'
+- '[[_Standards/WikiData/WD~partisan,212948|WD~partisan,212948]]'
+- '[[_Standards/WikiData/WD~guerrilla_movement,20642011|WD~guerrilla_movement,20642011]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~asymmetric_warfare,752673]]'
-- '[[_Standards/WikiData/WD~irregular_warfare,6073630]]'
+- '[[_Standards/WikiData/WD~asymmetric_warfare,752673|WD~asymmetric_warfare,752673]]'
+- '[[_Standards/WikiData/WD~irregular_warfare,6073630|WD~irregular_warfare,6073630]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~Gorilla_Warfare,5586480]]'
-- '[[_Standards/WikiData/WD~Guerrilla,49416902]]'
+- '[[_Standards/WikiData/WD~Gorilla_Warfare,5586480|WD~Gorilla_Warfare,5586480]]'
+- '[[_Standards/WikiData/WD~Guerrilla,49416902|WD~Guerrilla,49416902]]'
 U_S_National_Archives_Identifier: 10640581
 IMDb_keyword: guerilla
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Afrikaner%20Commandos2.JPG

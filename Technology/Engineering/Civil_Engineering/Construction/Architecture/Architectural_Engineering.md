@@ -56,20 +56,20 @@ aliases:
 - 건축공학
 has_id_wikidata: Q150737
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~steel_building,1924856]]'
-- '[[_Standards/WikiData/WD~building_services_engineering,4986607]]'
+- '[[_Standards/WikiData/WD~steel_building,1924856|WD~steel_building,1924856]]'
+- '[[_Standards/WikiData/WD~building_services_engineering,4986607|WD~building_services_engineering,4986607]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~architectural_engineer,3151019]]'
-- '[[_Standards/WikiData/WD~building_engineer,21778977]]'
+- '[[_Standards/WikiData/WD~architectural_engineer,3151019|WD~architectural_engineer,3151019]]'
+- '[[_Standards/WikiData/WD~building_engineer,21778977|WD~building_engineer,21778977]]'
 part_of:
-- '[[_Standards/WikiData/WD~engineering,11023]]'
-- '[[_Standards/WikiData/WD~architecture,12271]]'
-different_from: '[[_Standards/WikiData/WD~architecture,12271]]'
-used_by: '[[_Standards/WikiData/WD~architecture,12271]]'
-subclass_of: '[[_Standards/WikiData/WD~architecture,12271]]'
+- '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~architecture,12271|WD~architecture,12271]]'
+different_from: '[[_Standards/WikiData/WD~architecture,12271|WD~architecture,12271]]'
+used_by: '[[_Standards/WikiData/WD~architecture,12271|WD~architecture,12271]]'
+subclass_of: '[[_Standards/WikiData/WD~architecture,12271|WD~architecture,12271]]'
 OmegaWiki_Defined_Meaning: 453
 Basisklassifikation: 56
 Colon_Classification: D2

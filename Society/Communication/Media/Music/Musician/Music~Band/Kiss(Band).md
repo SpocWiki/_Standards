@@ -5,10 +5,10 @@ has_member: ''
 ---
 
 > Kiss (often styled as KISS) was an American rock band formed in New York City in 1973 
-> by [[Kiss(Band)/Stanley,Paul]] (vocals, rhythm guitar) the Starchild, 
-> [[Kiss(Band)/Simmons,Gene]] (vocals, bass guitar) the Demon, 
-> [[Kiss(Band)/Frehley,Ace]]  (lead guitar, vocals) the Spaceman or Space Ace , and 
-> [[Kiss(Band)/Criss,Peter]] (drums, vocals) the Catman. 
+> by [[Kiss(Band)/Stanley,Paul|Stanley,Paul]] (vocals, rhythm guitar) the Starchild, 
+> [[Kiss(Band)/Simmons,Gene|Simmons,Gene]] (vocals, bass guitar) the Demon, 
+> [[Kiss(Band)/Frehley,Ace|Frehley,Ace]]  (lead guitar, vocals) the Spaceman or Space Ace , and 
+> [[Kiss(Band)/Criss,Peter|Criss,Peter]] (drums, vocals) the Catman. 
 > 
 > Known for their face paint and stage outfits, 
 > the group rose to prominence in the mid-1970s with shock rock-style live performances 

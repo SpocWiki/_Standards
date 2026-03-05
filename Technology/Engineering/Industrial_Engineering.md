@@ -58,12 +58,12 @@ aliases:
 - 산업공학
 has_id_wikidata: Q4489420
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
-practiced_by: '[[_Standards/WikiData/WD~industrial_engineer,2267418]]'
-subclass_of: '[[_Standards/WikiData/WD~industrial_engineering_and_operations_research,6027873]]'
-place_of_death: '[[_Standards/WikiData/WD~Haifa,41621]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
+practiced_by: '[[_Standards/WikiData/WD~industrial_engineer,2267418|WD~industrial_engineer,2267418]]'
+subclass_of: '[[_Standards/WikiData/WD~industrial_engineering_and_operations_research,6027873|WD~industrial_engineering_and_operations_research,6027873]]'
+place_of_death: '[[_Standards/WikiData/WD~Haifa,41621|WD~Haifa,41621]]'
 Commons_category: Industrial engineering
 U_S_National_Archives_Identifier: 10637299
 female_form_of_label: ingeniera industrial

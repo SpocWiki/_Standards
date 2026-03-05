@@ -91,23 +91,23 @@ aliases:
 - 波動
 - 파동
 has_id_wikidata: Q37172
-subclass_of: '[[_Standards/WikiData/WD~oscillation,170475]]'
-different_from: '[[_Standards/WikiData/WD~Fala,355091]]'
+subclass_of: '[[_Standards/WikiData/WD~oscillation,170475|WD~oscillation,170475]]'
+different_from: '[[_Standards/WikiData/WD~Fala,355091|WD~Fala,355091]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~longitudinal_wave,626707]]'
-- '[[_Standards/WikiData/WD~transverse_wave,691978]]'
+- '[[_Standards/WikiData/WD~longitudinal_wave,626707|WD~longitudinal_wave,626707]]'
+- '[[_Standards/WikiData/WD~transverse_wave,691978|WD~transverse_wave,691978]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~waveform,1165717]]'
-- '[[_Standards/WikiData/WD~frequency,11652]]'
-- '[[_Standards/WikiData/WD~wavelength,41364]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12565879,12565879]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~waveform,1165717|WD~waveform,1165717]]'
+- '[[_Standards/WikiData/WD~frequency,11652|WD~frequency,11652]]'
+- '[[_Standards/WikiData/WD~wavelength,41364|WD~wavelength,41364]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12565879,12565879|WD~Q12565879,12565879]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 OmegaWiki_Defined_Meaning: 920046
 Commons_category: Waves
 Commons_gallery: Wave

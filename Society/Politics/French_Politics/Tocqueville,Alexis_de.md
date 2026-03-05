@@ -38,71 +38,71 @@ aliases:
 - 알렉시 드 토크빌
 has_id_wikidata: Q140694
 occupation:
-- '[[_Standards/WikiData/WD~politician,82955]]'
-- '[[_Standards/WikiData/WD~jurist,185351]]'
-- '[[_Standards/WikiData/WD~historian,201788]]'
-- '[[_Standards/WikiData/WD~sociologist,2306091]]'
-- '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~politician,82955|WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~jurist,185351|WD~jurist,185351]]'
+- '[[_Standards/WikiData/WD~historian,201788|WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~sociologist,2306091|WD~sociologist,2306091]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
 member_of:
-- '[[_Standards/WikiData/WD~Académie_Française,161806]]'
-- '[[_Standards/WikiData/WD~Académie_des_Sciences_Morales_et_Politiques,337543]]'
-- '[[_Standards/WikiData/WD~Académie_des_sciences,_arts_et_belles_lettres_de_Caen,2822386]]'
+- '[[_Standards/WikiData/WD~Académie_Française,161806|WD~Académie_Française,161806]]'
+- '[[_Standards/WikiData/WD~Académie_des_Sciences_Morales_et_Politiques,337543|WD~Académie_des_Sciences_Morales_et_Politiques,337543]]'
+- '[[_Standards/WikiData/WD~Académie_des_sciences,_arts_et_belles_lettres_de_Caen,2822386|WD~Académie_des_sciences,_arts_et_belles_lettres_de_Caen,2822386]]'
 educated_at:
-- '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
-- '[[_Standards/WikiData/WD~Lycée_Fabert,3268665]]'
+- '[[_Standards/WikiData/WD~University_of_Paris,209842|WD~University_of_Paris,209842]]'
+- '[[_Standards/WikiData/WD~Lycée_Fabert,3268665|WD~Lycée_Fabert,3268665]]'
 award_received:
-- '[[_Standards/WikiData/WD~Montyon_Prize,372160]]'
-- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Montyon_Prize,372160|WD~Montyon_Prize,372160]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271|WD~Knight_of_the_Legion_of_Honour,10855271]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667|WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835|WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
 notable_work:
-- '[[_Standards/WikiData/WD~Democracy_in_America,784882]]'
-- '[[_Standards/WikiData/WD~The_Old_Regime_and_the_Revolution,3178724]]'
+- '[[_Standards/WikiData/WD~Democracy_in_America,784882|WD~Democracy_in_America,784882]]'
+- '[[_Standards/WikiData/WD~The_Old_Regime_and_the_Revolution,3178724|WD~The_Old_Regime_and_the_Revolution,3178724]]'
 archives_at:
-- '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
-- '[[_Standards/WikiData/WD~Departmental_archives_of_Manche,2860496]]'
-given_name: '[[_Standards/WikiData/WD~Alexis,1558167]]'
-place_of_birth: '[[_Standards/WikiData/WD~former_1st_arrondissement_of_Paris,2845750]]'
-residence: '[[_Standards/WikiData/WD~Château_de_Tocqueville,2970811]]'
-family: '[[_Standards/WikiData/WD~Q3065042,3065042]]'
-father: '[[_Standards/WikiData/WD~Hervé_Clérel_de_Tocqueville,3134450]]'
+- '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779|WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+- '[[_Standards/WikiData/WD~Departmental_archives_of_Manche,2860496|WD~Departmental_archives_of_Manche,2860496]]'
+given_name: '[[_Standards/WikiData/WD~Alexis,1558167|WD~Alexis,1558167]]'
+place_of_birth: '[[_Standards/WikiData/WD~former_1st_arrondissement_of_Paris,2845750|WD~former_1st_arrondissement_of_Paris,2845750]]'
+residence: '[[_Standards/WikiData/WD~Château_de_Tocqueville,2970811|WD~Château_de_Tocqueville,2970811]]'
+family: '[[_Standards/WikiData/WD~Q3065042,3065042|WD~Q3065042,3065042]]'
+father: '[[_Standards/WikiData/WD~Hervé_Clérel_de_Tocqueville,3134450|WD~Hervé_Clérel_de_Tocqueville,3134450]]'
 sibling:
-- '[[_Standards/WikiData/WD~Hippolyte_Clérel_de_Tocqueville,3136040]]'
-- '[[_Standards/WikiData/WD~Édouard_de_Tocqueville,58825970]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-mother: '[[_Standards/WikiData/WD~Louise_Le_Peletier_de_Rosanbo,16185903]]'
+- '[[_Standards/WikiData/WD~Hippolyte_Clérel_de_Tocqueville,3136040|WD~Hippolyte_Clérel_de_Tocqueville,3136040]]'
+- '[[_Standards/WikiData/WD~Édouard_de_Tocqueville,58825970|WD~Édouard_de_Tocqueville,58825970]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+mother: '[[_Standards/WikiData/WD~Louise_Le_Peletier_de_Rosanbo,16185903|WD~Louise_Le_Peletier_de_Rosanbo,16185903]]'
 position_held:
-- '[[_Standards/WikiData/WD~Minister_of_Foreign_Affairs,20203208]]'
-- '[[_Standards/WikiData/WD~Q59616651,59616651]]'
-- '[[_Standards/WikiData/WD~Seat_18_of_the_Académie_française,70495970]]'
-- '[[_Standards/WikiData/WD~president,30461]]'
-different_from: '[[_Standards/WikiData/WD~Alexis_de_Tocqueville,53100365]]'
-spouse: '[[_Standards/WikiData/WD~Mary_Mottley_Tocqueville,59515273]]'
+- '[[_Standards/WikiData/WD~Minister_of_Foreign_Affairs,20203208|WD~Minister_of_Foreign_Affairs,20203208]]'
+- '[[_Standards/WikiData/WD~Q59616651,59616651|WD~Q59616651,59616651]]'
+- '[[_Standards/WikiData/WD~Seat_18_of_the_Académie_française,70495970|WD~Seat_18_of_the_Académie_française,70495970]]'
+- '[[_Standards/WikiData/WD~president,30461|WD~president,30461]]'
+different_from: '[[_Standards/WikiData/WD~Alexis_de_Tocqueville,53100365|WD~Alexis_de_Tocqueville,53100365]]'
+spouse: '[[_Standards/WikiData/WD~Mary_Mottley_Tocqueville,59515273|WD~Mary_Mottley_Tocqueville,59515273]]'
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tombeau%20d%27Alexis%20de%20Tocqueville%20%281805%E2%80%931859%29%203.jpg
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-family_name: '[[_Standards/WikiData/WD~Q105701394,105701394]]'
-place_of_burial: '[[_Standards/WikiData/WD~Q110479236,110479236]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
+family_name: '[[_Standards/WikiData/WD~Q105701394,105701394|WD~Q105701394,105701394]]'
+place_of_burial: '[[_Standards/WikiData/WD~Q110479236,110479236|WD~Q110479236,110479236]]'
 date_of_death: 1859-04-16T00:00:00Z
 influenced_by:
-- '[[_Standards/WikiData/WD~Blaise_Pascal,1290]]'
-- '[[_Standards/WikiData/WD~Montesquieu,15975]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
-cause_of_death: '[[_Standards/WikiData/WD~tuberculosis,12204]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
-writing_language: '[[_Standards/WikiData/WD~French,150]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
-native_language: '[[_Standards/WikiData/WD~French,150]]'
-place_of_death: '[[_Standards/WikiData/WD~Cannes,39984]]'
+- '[[_Standards/WikiData/WD~Blaise_Pascal,1290|WD~Blaise_Pascal,1290]]'
+- '[[_Standards/WikiData/WD~Montesquieu,15975|WD~Montesquieu,15975]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
+cause_of_death: '[[_Standards/WikiData/WD~tuberculosis,12204|WD~tuberculosis,12204]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+writing_language: '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+place_of_death: '[[_Standards/WikiData/WD~Cannes,39984|WD~Cannes,39984]]'
 P8189: 987007268935505171
 Europeana_entity: agent/base/145448
 IPA_transcription: alɛksi də tɔkvil
@@ -230,7 +230,7 @@ dv_has_:
 #has_/time_/stopped :: 1859-04-16 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
 
-#is_/same_as :: [[../../../WikiData/WD~Alexis_de_Tocqueville,140694]] 
+#is_/same_as :: [[../../../WikiData/WD~Alexis_de_Tocqueville,140694|WD~Alexis_de_Tocqueville,140694]] 
 
 ## #has_/text_of_/abstract 
 

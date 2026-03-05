@@ -45,12 +45,12 @@ aliases:
 - 誘電体
 - 유전체 (물리학)
 has_id_wikidata: Q184996
-subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529|WD~chemical_substance,79529]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-different_from: '[[_Standards/WikiData/WD~relative_permittivity,4027242]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+different_from: '[[_Standards/WikiData/WD~relative_permittivity,4027242|WD~relative_permittivity,4027242]]'
 IEV_number: 121-12-10
 OmegaWiki_Defined_Meaning: 15978675
 Commons_category: Dielectric material

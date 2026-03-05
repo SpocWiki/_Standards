@@ -40,14 +40,14 @@ aliases:
 - 運油輪
 - 탱크선
 has_id_wikidata: Q14970
-instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
+instance_of: '[[_Standards/WikiData/WD~ship_type,2235308|WD~ship_type,2235308]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862|WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~tanker_vehicle,106070396]]'
-- '[[_Standards/WikiData/WD~bulk_carrier,15276]]'
+- '[[_Standards/WikiData/WD~tanker_vehicle,106070396|WD~tanker_vehicle,106070396]]'
+- '[[_Standards/WikiData/WD~bulk_carrier,15276|WD~bulk_carrier,15276]]'
 OmegaWiki_Defined_Meaning: 3705
 Nomenclature_for_Museum_Cataloging: 12763
 U_S_National_Archives_Identifier: 10641289

@@ -52,15 +52,15 @@ aliases:
 - 寡居
 has_id_wikidata: Q16675060
 instance_of:
-- '[[_Standards/WikiData/WD~role,214339]]'
-- '[[_Standards/WikiData/WD~marital_status,11920938]]'
+- '[[_Standards/WikiData/WD~role,214339|WD~role,214339]]'
+- '[[_Standards/WikiData/WD~marital_status,11920938|WD~marital_status,11920938]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-has_cause: "[[_Standards/WikiData/WD~death_of_subject's_spouse,24037741]]"
-follows: '[[_Standards/WikiData/WD~married,37713312]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+has_cause: "[[_Standards/WikiData/WD~death_of_subject's_spouse,24037741|WD~death_of_subject's_spouse,24037741]]"
+follows: '[[_Standards/WikiData/WD~married,37713312|WD~married,37713312]]'
 Commons_category: Widows
 UMLS_CUI: C0043174
 MeSH_tree_code:

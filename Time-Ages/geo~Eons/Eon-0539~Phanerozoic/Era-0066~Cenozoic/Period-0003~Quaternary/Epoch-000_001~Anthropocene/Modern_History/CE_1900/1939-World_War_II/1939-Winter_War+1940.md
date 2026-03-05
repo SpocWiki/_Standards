@@ -87,16 +87,16 @@ aliases:
 - 冬戦争
 - 겨울 전쟁
 has_id_wikidata: Q134949
-has_part_s_: '[[_Standards/WikiData/WD~battles_at_the_Karelian_Isthmus_during_the_Winter_War,18607874]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+has_part_s_: '[[_Standards/WikiData/WD~battles_at_the_Karelian_Isthmus_during_the_Winter_War,18607874|WD~battles_at_the_Karelian_Isthmus_during_the_Winter_War,18607874]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 participant:
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~Finland,33]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
 country:
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~Finland,33]]'
-location: '[[_Standards/WikiData/WD~Finland,33]]'
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
+location: '[[_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
+instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 detail_map:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Mannerheim-line.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Karelische%20Landenge%2013.%20M%C3%A4rz%201940.png

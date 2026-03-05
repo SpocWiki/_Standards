@@ -40,31 +40,31 @@ aliases:
 - 타임
 has_id_wikidata: Q43297
 founded_by:
-- '[[_Standards/WikiData/WD~Briton_Hadden,324246]]'
-- '[[_Standards/WikiData/WD~Henry_Luce,516473]]'
-indexed_in_bibliographic_review: '[[_Standards/WikiData/WD~Scopus,371467]]'
+- '[[_Standards/WikiData/WD~Briton_Hadden,324246|WD~Briton_Hadden,324246]]'
+- '[[_Standards/WikiData/WD~Henry_Luce,516473|WD~Henry_Luce,516473]]'
+indexed_in_bibliographic_review: '[[_Standards/WikiData/WD~Scopus,371467|WD~Scopus,371467]]'
 instance_of:
-- '[[_Standards/WikiData/WD~online_magazine,847906]]'
-- '[[_Standards/WikiData/WD~news_magazine,1684600]]'
-- '[[_Standards/WikiData/WD~magazine,41298]]'
-publisher: '[[_Standards/WikiData/WD~Time_Inc.,1411739]]'
-owned_by: '[[_Standards/WikiData/WD~Marc_Benioff,1521908]]'
-editor: '[[_Standards/WikiData/WD~Nancy_Gibbs,6962706]]'
-editor_in_chief: '[[_Standards/WikiData/WD~Edward_Felsenthal,54954199]]'
+- '[[_Standards/WikiData/WD~online_magazine,847906|WD~online_magazine,847906]]'
+- '[[_Standards/WikiData/WD~news_magazine,1684600|WD~news_magazine,1684600]]'
+- '[[_Standards/WikiData/WD~magazine,41298|WD~magazine,41298]]'
+publisher: '[[_Standards/WikiData/WD~Time_Inc.,1411739|WD~Time_Inc.,1411739]]'
+owned_by: '[[_Standards/WikiData/WD~Marc_Benioff,1521908|WD~Marc_Benioff,1521908]]'
+editor: '[[_Standards/WikiData/WD~Nancy_Gibbs,6962706|WD~Nancy_Gibbs,6962706]]'
+editor_in_chief: '[[_Standards/WikiData/WD~Edward_Felsenthal,54954199|WD~Edward_Felsenthal,54954199]]'
 different_from:
-- '[[_Standards/WikiData/WD~Time_Magazine,124535786]]'
-- '[[_Standards/WikiData/WD~The_Times,50008]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
-headquarters_location: '[[_Standards/WikiData/WD~Manhattan,11299]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~Time_Magazine,124535786|WD~Time_Magazine,124535786]]'
+- '[[_Standards/WikiData/WD~The_Times,50008|WD~The_Times,50008]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+headquarters_location: '[[_Standards/WikiData/WD~Manhattan,11299|WD~Manhattan,11299]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
 publication_interval: 1
 social_media_followers:
 - 1400000
 - 19457207
-main_subject: '[[_Standards/WikiData/WD~news,38926]]'
-field_of_work: '[[_Standards/WikiData/WD~news,38926]]'
+main_subject: '[[_Standards/WikiData/WD~news,38926|WD~news,38926]]'
+field_of_work: '[[_Standards/WikiData/WD~news,38926|WD~news,38926]]'
 ISSN_L: 0040-781X
 ISSN:
 - 0040-781X
@@ -87,31 +87,31 @@ shortened_URL_formatter: https://ti.me/has_time_started: 1923-03-03
 aliases:
 has_id_wikidata: Q43297
 founded_by:
-  - "[[_Standards/WikiData/WD~Briton_Hadden,324246]]"
-  - "[[_Standards/WikiData/WD~Henry_Luce,516473]]"
-indexed_in_bibliographic_review: "[[_Standards/WikiData/WD~Scopus,371467]]"
+  - "[[_Standards/WikiData/WD~Briton_Hadden,324246|WD~Briton_Hadden,324246]]"
+  - "[[_Standards/WikiData/WD~Henry_Luce,516473|WD~Henry_Luce,516473]]"
+indexed_in_bibliographic_review: "[[_Standards/WikiData/WD~Scopus,371467|WD~Scopus,371467]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~online_magazine,847906]]"
-  - "[[_Standards/WikiData/WD~news_magazine,1684600]]"
-  - "[[_Standards/WikiData/WD~magazine,41298]]"
-publisher: "[[_Standards/WikiData/WD~Time_Inc.,1411739]]"
-owned_by: "[[_Standards/WikiData/WD~Marc_Benioff,1521908]]"
-editor: "[[_Standards/WikiData/WD~Nancy_Gibbs,6962706]]"
-editor_in_chief: "[[_Standards/WikiData/WD~Edward_Felsenthal,54954199]]"
+  - "[[_Standards/WikiData/WD~online_magazine,847906|WD~online_magazine,847906]]"
+  - "[[_Standards/WikiData/WD~news_magazine,1684600|WD~news_magazine,1684600]]"
+  - "[[_Standards/WikiData/WD~magazine,41298|WD~magazine,41298]]"
+publisher: "[[_Standards/WikiData/WD~Time_Inc.,1411739|WD~Time_Inc.,1411739]]"
+owned_by: "[[_Standards/WikiData/WD~Marc_Benioff,1521908|WD~Marc_Benioff,1521908]]"
+editor: "[[_Standards/WikiData/WD~Nancy_Gibbs,6962706|WD~Nancy_Gibbs,6962706]]"
+editor_in_chief: "[[_Standards/WikiData/WD~Edward_Felsenthal,54954199|WD~Edward_Felsenthal,54954199]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Time_Magazine,124535786]]"
-  - "[[_Standards/WikiData/WD~The_Times,50008]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-headquarters_location: "[[_Standards/WikiData/WD~Manhattan,11299]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_publication: "[[_Standards/WikiData/WD~New_York_City,60]]"
+  - "[[_Standards/WikiData/WD~Time_Magazine,124535786|WD~Time_Magazine,124535786]]"
+  - "[[_Standards/WikiData/WD~The_Times,50008|WD~The_Times,50008]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+headquarters_location: "[[_Standards/WikiData/WD~Manhattan,11299|WD~Manhattan,11299]]"
+country_of_origin: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+place_of_publication: "[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]"
 publication_interval: 1
 social_media_followers:
   - 1400000
   - 19457207
-main_subject: "[[_Standards/WikiData/WD~news,38926]]"
-field_of_work: "[[_Standards/WikiData/WD~news,38926]]"
+main_subject: "[[_Standards/WikiData/WD~news,38926|WD~news,38926]]"
+field_of_work: "[[_Standards/WikiData/WD~news,38926|WD~news,38926]]"
 ISSN_L: 0040-781X
 ISSN:
   - 0040-781X

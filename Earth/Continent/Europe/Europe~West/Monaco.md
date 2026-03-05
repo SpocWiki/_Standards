@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 摩纳哥公国
 dv_UNTERM_French_Formal: la Principauté de Monaco
 dv_UNTERM_Russian: Монако
 dv_UNTERM_Russian_Formal: Княжество Монако
-dv_Region_Name: '[[../../Europe]]'
+dv_Region_Name: '[[../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Monaco]]'
 dv_Sub-region_Name: '[[Western Europe]]'
 dv_Region: 150
@@ -359,7 +359,7 @@ dv_has_:
 dv_has_name_de: Monaco
 dv_Area-Total: 2
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Europe]]'
+dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: MC
 dv_Capital: '[[Monaco]]'
 dv_Language-Id: 496
@@ -498,80 +498,80 @@ Languages:
 - it
 icon: flag-mc
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
-- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]'
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Eurocontrol,663492|WD~Eurocontrol,663492]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177|WD~Visa_Waiver_Program,45177]]'
 twinned_administrative_body:
-- '[[_Standards/WikiData/WD~Rivne,156739]]'
-- '[[_Standards/WikiData/WD~Lucciana,677911]]'
-- '[[_Standards/WikiData/WD~Kuwait_City,35178]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Monaco,159746]]'
+- '[[_Standards/WikiData/WD~Rivne,156739|WD~Rivne,156739]]'
+- '[[_Standards/WikiData/WD~Lucciana,677911|WD~Lucciana,677911]]'
+- '[[_Standards/WikiData/WD~Kuwait_City,35178|WD~Kuwait_City,35178]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Monaco,159746|WD~flag_of_Monaco,159746]]'
 located_in_on_physical_feature:
-- '[[_Standards/WikiData/WD~French_Riviera,182822]]'
-- '[[_Standards/WikiData/WD~Maritime_Alps,2451856]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Monaco,209204]]'
-anthem: '[[_Standards/WikiData/WD~Hymne_monégasque,336321]]'
-patron_saint: '[[_Standards/WikiData/WD~Devota,469978]]'
-executive_body: '[[_Standards/WikiData/WD~Council_of_Government,593887]]'
+- '[[_Standards/WikiData/WD~French_Riviera,182822|WD~French_Riviera,182822]]'
+- '[[_Standards/WikiData/WD~Maritime_Alps,2451856|WD~Maritime_Alps,2451856]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Monaco,209204|WD~coat_of_arms_of_Monaco,209204]]'
+anthem: '[[_Standards/WikiData/WD~Hymne_monégasque,336321|WD~Hymne_monégasque,336321]]'
+patron_saint: '[[_Standards/WikiData/WD~Devota,469978|WD~Devota,469978]]'
+executive_body: '[[_Standards/WikiData/WD~Council_of_Government,593887|WD~Council_of_Government,593887]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 basic_form_of_government:
-- '[[_Standards/WikiData/WD~hereditary_monarchy,849242]]'
-- '[[_Standards/WikiData/WD~constitutional_monarchy,41614]]'
-highest_point: '[[_Standards/WikiData/WD~Chemin_des_Révoires,1069352]]'
+- '[[_Standards/WikiData/WD~hereditary_monarchy,849242|WD~hereditary_monarchy,849242]]'
+- '[[_Standards/WikiData/WD~constitutional_monarchy,41614|WD~constitutional_monarchy,41614]]'
+highest_point: '[[_Standards/WikiData/WD~Chemin_des_Révoires,1069352|WD~Chemin_des_Révoires,1069352]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~Type_E,2335536]]'
-- '[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]'
-legislative_body: '[[_Standards/WikiData/WD~National_Council,1127198]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Monaco,1160498]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Minister_of_State_of_Monaco,1655971]]'
-head_of_government: '[[_Standards/WikiData/WD~Isabelle_Berro-Amadeï,1673628]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Monaco,1815375]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Monaco,2345347]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~Prince_of_Monaco,2457774]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Monaco,2739577]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Monaco,2743465]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Monaco,3007217]]'
-motto: '[[_Standards/WikiData/WD~Deo_juvante,3023442]]'
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
-followed_by: '[[_Standards/WikiData/WD~Free_Cities_of_Menton_and_Roquebrune,3559284]]'
-instance_of: '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-coextensive_with: '[[_Standards/WikiData/WD~Commune_of_Monaco,3685392]]'
-contains_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Commune_of_Monaco,3685392]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Monaco,7112365]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Monaco,8210047]]'
-different_from: '[[_Standards/WikiData/WD~Monaco,12304133]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+- '[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536|WD~Type_E,2335536]]'
+- '[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126|WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Council,1127198|WD~National_Council,1127198]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Monaco,1160498|WD~history_of_Monaco,1160498]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Minister_of_State_of_Monaco,1655971|WD~Minister_of_State_of_Monaco,1655971]]'
+head_of_government: '[[_Standards/WikiData/WD~Isabelle_Berro-Amadeï,1673628|WD~Isabelle_Berro-Amadeï,1673628]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Monaco,1815375|WD~geography_of_Monaco,1815375]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Monaco,2345347|WD~demographics_of_Monaco,2345347]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~Prince_of_Monaco,2457774|WD~Prince_of_Monaco,2457774]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Monaco,2739577|WD~economy_of_Monaco,2739577]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Monaco,2743465|WD~Supreme_Court_of_Monaco,2743465]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Monaco,3007217|WD~culture_of_Monaco,3007217]]'
+motto: '[[_Standards/WikiData/WD~Deo_juvante,3023442|WD~Deo_juvante,3023442]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
+followed_by: '[[_Standards/WikiData/WD~Free_Cities_of_Menton_and_Roquebrune,3559284|WD~Free_Cities_of_Menton_and_Roquebrune,3559284]]'
+instance_of: '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+coextensive_with: '[[_Standards/WikiData/WD~Commune_of_Monaco,3685392|WD~Commune_of_Monaco,3685392]]'
+contains_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Commune_of_Monaco,3685392|WD~Commune_of_Monaco,3685392]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Monaco,7112365|WD~outline_of_Monaco,7112365]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Monaco,8210047|WD~Portal_Monaco,8210047]]'
+different_from: '[[_Standards/WikiData/WD~Monaco,12304133|WD~Monaco,12304133]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~17,25648842]]'
-- '[[_Standards/WikiData/WD~18,25648843]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103296,27103296]]'
+- '[[_Standards/WikiData/WD~17,25648842|WD~17,25648842]]'
+- '[[_Standards/WikiData/WD~18,25648843|WD~18,25648843]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103296,27103296|WD~Q27103296,27103296]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Europe_Monaco,63286002]]'
-- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-- '[[_Standards/WikiData/WD~Central_European_Time,25989]]'
+- '[[_Standards/WikiData/WD~Europe_Monaco,63286002|WD~Europe_Monaco,63286002]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~Central_European_Time,25989|WD~Central_European_Time,25989]]'
 coordinates_of_northernmost_point: Point(7.43 43.75)
 demonym:
 - موناكي
@@ -620,39 +620,39 @@ MeSH_tree_code: Z01.542.616
 inception: 1297-01-15
 has_time_started: 1297-01-15
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 official_religion:
-- '[[_Standards/WikiData/WD~Catholicism,1841]]'
-- '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
-present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
-head_of_state: '[[_Standards/WikiData/WD~Albert_II,_Prince_of_Monaco,3910]]'
-lowest_point: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+- '[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
+- '[[_Standards/WikiData/WD~Catholic_Church,9592|WD~Catholic_Church,9592]]'
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385|WD~Civilization_V,2385]]'
+head_of_state: '[[_Standards/WikiData/WD~Albert_II,_Prince_of_Monaco,3910|WD~Albert_II,_Prince_of_Monaco,3910]]'
+lowest_point: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
-- '[[_Standards/WikiData/WD~Ligurian_Sea,42820]]'
-part_of: '[[_Standards/WikiData/WD~Western_Europe,27496]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
+- '[[_Standards/WikiData/WD~Ligurian_Sea,42820|WD~Ligurian_Sea,42820]]'
+part_of: '[[_Standards/WikiData/WD~Western_Europe,27496|WD~Western_Europe,27496]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 rural_population: 0
-language_used: '[[_Standards/WikiData/WD~French,150]]'
-official_language: '[[_Standards/WikiData/WD~French,150]]'
-country: '[[_Standards/WikiData/WD~Monaco,235]]'
+language_used: '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+official_language: '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+country: '[[_Standards/WikiData/WD~Monaco,235|WD~Monaco,235]]'
 age_of_majority: 21
 mains_voltage: 230
 annual_number_of_weddings: 86
 VAT_rate: 19.6
 area: 2.02
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.mc,42020]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mc,42020|WD~.mc,42020]]'
 female_population:
 - 18890
 - 18596
@@ -815,7 +815,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Monaco/ReadMe]] 
+[[Monaco/ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -834,7 +834,7 @@ defaultZoom: 7
 [has_name_en::Monaco]
 has_name_de = `=this.dv_has_name_de`
 ![[Coat_of_arms_of_Monaco.svg|650]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3|Anthem-Montenegro.mp3]]
 ![[Flag_of_Monaco.svg|350]]
 
 Area-Total = `=this.dv_Area-Total`

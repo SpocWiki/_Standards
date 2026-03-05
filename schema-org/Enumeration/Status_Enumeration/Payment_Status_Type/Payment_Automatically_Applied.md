@@ -27,9 +27,9 @@ tags:
 title: is_a_payment_automatically_applied Class
 type: Type
 dv_has_:
-  parent_class: "[[../PaymentStatusType]]"
+  parent_class: "[[../PaymentStatusType|PaymentStatusType]]"
 dv_is_:
-  enum_of: "[[../PaymentStatusType]]"
+  enum_of: "[[../PaymentStatusType|PaymentStatusType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied|Payment_Automatically_Applied]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.public|Payment_Automatically_Applied.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.personal|Payment_Automatically_Applied.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.secret|Payment_Automatically_Applied.secret]]"
     - "[[Payment_Automatically_Applied]]"
-dv_has_parent_class: "[[../PaymentStatusType]]"
-dv_is_enum_of: "[[../PaymentStatusType]]"
+dv_has_parent_class: "[[../PaymentStatusType|PaymentStatusType]]"
+dv_is_enum_of: "[[../PaymentStatusType|PaymentStatusType]]"
 dv_is_same_as:
   - "[[Payment_Automatically_Applied]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.public|Payment_Automatically_Applied.public]]"

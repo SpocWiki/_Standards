@@ -116,44 +116,44 @@ hashtag_:
 IMDb_keyword: golden-gate-bridge
 Facebook_username: goldengatebridge
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Marin_County,108117]]'
-- '[[_Standards/WikiData/WD~San_Francisco,62]]'
+- '[[_Standards/WikiData/WD~Marin_County,108117|WD~Marin_County,108117]]'
+- '[[_Standards/WikiData/WD~San_Francisco,62|WD~San_Francisco,62]]'
 terminus:
-- '[[_Standards/WikiData/WD~Marin_County,108117]]'
-- '[[_Standards/WikiData/WD~San_Francisco,62]]'
+- '[[_Standards/WikiData/WD~Marin_County,108117|WD~Marin_County,108117]]'
+- '[[_Standards/WikiData/WD~San_Francisco,62|WD~San_Francisco,62]]'
 present_in_work:
-- '[[_Standards/WikiData/WD~Vertigo,202548]]'
-- '[[_Standards/WikiData/WD~San_Andreas,15973073]]'
-- '[[_Standards/WikiData/WD~Watch_Dogs_2,24455756]]'
-- '[[_Standards/WikiData/WD~Remembrance,63892451]]'
-- '[[_Standards/WikiData/WD~People_of_Earth,89098416]]'
-crosses: '[[_Standards/WikiData/WD~Golden_Gate,220032]]'
-named_after: '[[_Standards/WikiData/WD~Golden_Gate,220032]]'
-designed_by: '[[_Standards/WikiData/WD~Joseph_Strauss,261174]]'
-architect: '[[_Standards/WikiData/WD~Joseph_Strauss,261174]]'
-structural_engineer: '[[_Standards/WikiData/WD~Joseph_Strauss,261174]]'
-significant_event: '[[_Standards/WikiData/WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~Vertigo,202548|WD~Vertigo,202548]]'
+- '[[_Standards/WikiData/WD~San_Andreas,15973073|WD~San_Andreas,15973073]]'
+- '[[_Standards/WikiData/WD~Watch_Dogs_2,24455756|WD~Watch_Dogs_2,24455756]]'
+- '[[_Standards/WikiData/WD~Remembrance,63892451|WD~Remembrance,63892451]]'
+- '[[_Standards/WikiData/WD~People_of_Earth,89098416|WD~People_of_Earth,89098416]]'
+crosses: '[[_Standards/WikiData/WD~Golden_Gate,220032|WD~Golden_Gate,220032]]'
+named_after: '[[_Standards/WikiData/WD~Golden_Gate,220032|WD~Golden_Gate,220032]]'
+designed_by: '[[_Standards/WikiData/WD~Joseph_Strauss,261174|WD~Joseph_Strauss,261174]]'
+architect: '[[_Standards/WikiData/WD~Joseph_Strauss,261174|WD~Joseph_Strauss,261174]]'
+structural_engineer: '[[_Standards/WikiData/WD~Joseph_Strauss,261174|WD~Joseph_Strauss,261174]]'
+significant_event: '[[_Standards/WikiData/WD~construction,385378|WD~construction,385378]]'
 carries:
-- '[[_Standards/WikiData/WD~U.S._Route_101_in_California,400444]]'
-- '[[_Standards/WikiData/WD~California_State_Route_1,550419]]'
+- '[[_Standards/WikiData/WD~U.S._Route_101_in_California,400444|WD~U.S._Route_101_in_California,400444]]'
+- '[[_Standards/WikiData/WD~California_State_Route_1,550419|WD~California_State_Route_1,550419]]'
 instance_of:
-- '[[_Standards/WikiData/WD~road_bridge,537127]]'
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~toll_bridge,7814330]]'
-- '[[_Standards/WikiData/WD~steel_bridge,12042110]]'
-- '[[_Standards/WikiData/WD~suspension_bridge,12570]]'
-next_crossing_upstream: '[[_Standards/WikiData/WD~Richmond_San_Rafael_Bridge,1485003]]'
-color: '[[_Standards/WikiData/WD~international_orange,2529373]]'
+- '[[_Standards/WikiData/WD~road_bridge,537127|WD~road_bridge,537127]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~toll_bridge,7814330|WD~toll_bridge,7814330]]'
+- '[[_Standards/WikiData/WD~steel_bridge,12042110|WD~steel_bridge,12042110]]'
+- '[[_Standards/WikiData/WD~suspension_bridge,12570|WD~suspension_bridge,12570]]'
+next_crossing_upstream: '[[_Standards/WikiData/WD~Richmond_San_Rafael_Bridge,1485003|WD~Richmond_San_Rafael_Bridge,1485003]]'
+color: '[[_Standards/WikiData/WD~international_orange,2529373|WD~international_orange,2529373]]'
 heritage_designation:
-- '[[_Standards/WikiData/WD~California_Historical_Landmark,2933979]]'
-- '[[_Standards/WikiData/WD~Historic_Civil_Engineering_Landmark,56637937]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~lane,3222002]]'
-owned_by: '[[_Standards/WikiData/WD~Golden_Gate_Bridge,_Highway_and_Transportation_District,5579434]]'
-maintained_by: '[[_Standards/WikiData/WD~Golden_Gate_Bridge,_Highway_and_Transportation_District,5579434]]'
-part_of: '[[_Standards/WikiData/WD~Seven_Wonders_of_the_Modern_World,12800832]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Lime_Point,42382722]]'
-made_from_material: '[[_Standards/WikiData/WD~steel,11427]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~California_Historical_Landmark,2933979|WD~California_Historical_Landmark,2933979]]'
+- '[[_Standards/WikiData/WD~Historic_Civil_Engineering_Landmark,56637937|WD~Historic_Civil_Engineering_Landmark,56637937]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~lane,3222002|WD~lane,3222002]]'
+owned_by: '[[_Standards/WikiData/WD~Golden_Gate_Bridge,_Highway_and_Transportation_District,5579434|WD~Golden_Gate_Bridge,_Highway_and_Transportation_District,5579434]]'
+maintained_by: '[[_Standards/WikiData/WD~Golden_Gate_Bridge,_Highway_and_Transportation_District,5579434|WD~Golden_Gate_Bridge,_Highway_and_Transportation_District,5579434]]'
+part_of: '[[_Standards/WikiData/WD~Seven_Wonders_of_the_Modern_World,12800832|WD~Seven_Wonders_of_the_Modern_World,12800832]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Lime_Point,42382722|WD~Lime_Point,42382722]]'
+made_from_material: '[[_Standards/WikiData/WD~steel,11427|WD~steel,11427]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 number_of_spans: 3
 width: 90
 clearance: 67
@@ -310,7 +310,7 @@ dv_has_:
 
 # [[Golden_Gate_Bridge]] 
 
-![[../../../assets/Golden_Gate_Bridge.png]] 
+![[../../../assets/Golden_Gate_Bridge.png|Golden_Gate_Bridge.png]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Golden_Gate_Bridge,44440|WD~Golden_Gate_Bridge,44440]] 
 

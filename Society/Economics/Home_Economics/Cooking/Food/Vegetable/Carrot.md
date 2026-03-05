@@ -156,30 +156,30 @@ aliases:
   - 당근
 has_id_wikidata: Q81
 subclass_of:
-  - "[[_Standards/WikiData/WD~taproot,609336]]"
-  - "[[_Standards/WikiData/WD~finger_food,748611]]"
-  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
-  - "[[_Standards/WikiData/WD~vegetable,11004]]"
-  - "[[_Standards/WikiData/WD~root_vegetable,20136]]"
-part_of: "[[_Standards/WikiData/WD~finger_food,748611]]"
+  - "[[_Standards/WikiData/WD~taproot,609336|WD~taproot,609336]]"
+  - "[[_Standards/WikiData/WD~finger_food,748611|WD~finger_food,748611]]"
+  - "[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]"
+  - "[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]"
+  - "[[_Standards/WikiData/WD~root_vegetable,20136|WD~root_vegetable,20136]]"
+part_of: "[[_Standards/WikiData/WD~finger_food,748611|WD~finger_food,748611]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
-natural_product_of_taxon: "[[_Standards/WikiData/WD~Daucus_carota_subsp._sativus,11678009]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]"
+natural_product_of_taxon: "[[_Standards/WikiData/WD~Daucus_carota_subsp._sativus,11678009|WD~Daucus_carota_subsp._sativus,11678009]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~food_crop,31839438]]"
-  - "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
+  - "[[_Standards/WikiData/WD~food_crop,31839438|WD~food_crop,31839438]]"
+  - "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]"
 different_from:
-  - "[[_Standards/WikiData/WD~carrot_plant,123663447]]"
-  - "[[_Standards/WikiData/WD~wild_carrot,123663529]]"
+  - "[[_Standards/WikiData/WD~carrot_plant,123663447|WD~carrot_plant,123663447]]"
+  - "[[_Standards/WikiData/WD~wild_carrot,123663529|WD~wild_carrot,123663529]]"
 carbon_footprint:
   - 0.1
   - 0.5
 food_energy: 41
 water_footprint: 195
-color: "[[_Standards/WikiData/WD~orange,39338]]"
-shape: "[[_Standards/WikiData/WD~cone,42344]]"
+color: "[[_Standards/WikiData/WD~orange,39338|WD~orange,39338]]"
+shape: "[[_Standards/WikiData/WD~cone,42344|WD~cone,42344]]"
 PLU_code:
   - 4094
   - 4563

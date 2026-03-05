@@ -107,16 +107,16 @@ tags:
 - schema-org/Class
 title: is_a_movie_theater Class
 type: Type
-different_from: '[[_Standards/WikiData/WD~Kino,650555]]'
-has_use: '[[_Standards/WikiData/WD~film_screening,2295790]]'
+different_from: '[[_Standards/WikiData/WD~Kino,650555|WD~Kino,650555]]'
+has_use: '[[_Standards/WikiData/WD~film_screening,2295790|WD~film_screening,2295790]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~venue,17350442]]'
-- '[[_Standards/WikiData/WD~event_venue,18674739]]'
-- '[[_Standards/WikiData/WD~building,41176]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131943,27131943]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q113157462,113157462]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~cinema_hall,126727687]]'
+- '[[_Standards/WikiData/WD~venue,17350442|WD~venue,17350442]]'
+- '[[_Standards/WikiData/WD~event_venue,18674739|WD~event_venue,18674739]]'
+- '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131943,27131943|WD~Q27131943,27131943]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q113157462,113157462|WD~Q113157462,113157462]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~cinema_hall,126727687|WD~cinema_hall,126727687]]'
 properties_for_this_type:
 - coordinate location
 - Theatres Trust Database ID
@@ -270,7 +270,7 @@ dv_has_:
     zh_sg: 电影院
     zh_tw: 電影院
     zu: Ibhayisikobho
-  parent_class: '[[../CivicStructure, EntertainmentBusiness]]'
+  parent_class: '[[../CivicStructure, EntertainmentBusiness|CivicStructure, EntertainmentBusiness]]'
   properties: '[ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, screenCount, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]'
 dv_is_:
   same_as:
@@ -282,7 +282,7 @@ dv_is_:
   - '[[/_private/Earth/Geography/Place/Civic_Structure/Movie_Theater.private|Movie_Theater.private]]'
   - '[[/_personal/Earth/Geography/Place/Civic_Structure/Movie_Theater.personal|Movie_Theater.personal]]'
   - '[[/_secret/Earth/Geography/Place/Civic_Structure/Movie_Theater.secret|Movie_Theater.secret]]'
-dv_has_parent_class: '[[../CivicStructure, EntertainmentBusiness]]'
+dv_has_parent_class: '[[../CivicStructure, EntertainmentBusiness|CivicStructure, EntertainmentBusiness]]'
 dv_has_properties: '[ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, screenCount, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]'
 dv_is_same_as:
 - '[[../../../../WikiData/WD~Movie_theater,41253|WD~Movie_theater,41253]]'

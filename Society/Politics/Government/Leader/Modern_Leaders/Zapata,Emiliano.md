@@ -35,38 +35,38 @@ Wolfram_Language_entity_code:
 - Entity["Concept", "EmilianoZapata::jwr8y"]
 - Entity["Person", "EmilianoZapata::w322f"]
 date_of_death: 1919-04-10T00:00:00Z
-place_of_death: '[[_Standards/WikiData/WD~Morelos,66117]]'
-military_or_police_rank: '[[_Standards/WikiData/WD~general,83460]]'
+place_of_death: '[[_Standards/WikiData/WD~Morelos,66117|WD~Morelos,66117]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~general,83460|WD~general,83460]]'
 occupation:
-- '[[_Standards/WikiData/WD~farmer,131512]]'
-- '[[_Standards/WikiData/WD~partisan,212948]]'
-- '[[_Standards/WikiData/WD~revolutionary,3242115]]'
-manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
-second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Salazar,1158459]]'
-sibling: '[[_Standards/WikiData/WD~Eufemio_Zapata,1372344]]'
-place_of_birth: '[[_Standards/WikiData/WD~Q1813041,1813041]]'
+- '[[_Standards/WikiData/WD~farmer,131512|WD~farmer,131512]]'
+- '[[_Standards/WikiData/WD~partisan,212948|WD~partisan,212948]]'
+- '[[_Standards/WikiData/WD~revolutionary,3242115|WD~revolutionary,3242115]]'
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086|WD~homicide,149086]]'
+second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Salazar,1158459|WD~Salazar,1158459]]'
+sibling: '[[_Standards/WikiData/WD~Eufemio_Zapata,1372344|WD~Eufemio_Zapata,1372344]]'
+place_of_birth: '[[_Standards/WikiData/WD~Q1813041,1813041|WD~Q1813041,1813041]]'
 military_branch:
-- '[[_Standards/WikiData/WD~Liberation_Army_of_the_South,1865323]]'
-- '[[_Standards/WikiData/WD~cavalry,47315]]'
-allegiance: '[[_Standards/WikiData/WD~Liberation_Army_of_the_South,1865323]]'
-commander_of_DEPRECATED_: '[[_Standards/WikiData/WD~Liberation_Army_of_the_South,1865323]]'
-cause_of_death: '[[_Standards/WikiData/WD~gunshot_wound,2140674]]'
-child: '[[_Standards/WikiData/WD~Paulina_Ana_María_Zapata_Portillo,5673998]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-facial_hair: '[[_Standards/WikiData/WD~walrus_moustache,7963760]]'
-different_from: '[[_Standards/WikiData/WD~Emiliano_Zapata,14214969]]'
-family_name: '[[_Standards/WikiData/WD~Zapata,17042499]]'
+- '[[_Standards/WikiData/WD~Liberation_Army_of_the_South,1865323|WD~Liberation_Army_of_the_South,1865323]]'
+- '[[_Standards/WikiData/WD~cavalry,47315|WD~cavalry,47315]]'
+allegiance: '[[_Standards/WikiData/WD~Liberation_Army_of_the_South,1865323|WD~Liberation_Army_of_the_South,1865323]]'
+commander_of_DEPRECATED_: '[[_Standards/WikiData/WD~Liberation_Army_of_the_South,1865323|WD~Liberation_Army_of_the_South,1865323]]'
+cause_of_death: '[[_Standards/WikiData/WD~gunshot_wound,2140674|WD~gunshot_wound,2140674]]'
+child: '[[_Standards/WikiData/WD~Paulina_Ana_María_Zapata_Portillo,5673998|WD~Paulina_Ana_María_Zapata_Portillo,5673998]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+facial_hair: '[[_Standards/WikiData/WD~walrus_moustache,7963760|WD~walrus_moustache,7963760]]'
+different_from: '[[_Standards/WikiData/WD~Emiliano_Zapata,14214969|WD~Emiliano_Zapata,14214969]]'
+family_name: '[[_Standards/WikiData/WD~Zapata,17042499|WD~Zapata,17042499]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-- '[[_Standards/WikiData/WD~Q130443388,130443388]]'
-given_name: '[[_Standards/WikiData/WD~Emiliano,19830577]]'
-place_of_burial: '[[_Standards/WikiData/WD~Plaza_Revolución_del_Sur,107675052]]'
-spouse: '[[_Standards/WikiData/WD~Josefa_Espejo_Sánchez,109321050]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+- '[[_Standards/WikiData/WD~Q130443388,130443388|WD~Q130443388,130443388]]'
+given_name: '[[_Standards/WikiData/WD~Emiliano,19830577|WD~Emiliano,19830577]]'
+place_of_burial: '[[_Standards/WikiData/WD~Plaza_Revolución_del_Sur,107675052|WD~Plaza_Revolución_del_Sur,107675052]]'
+spouse: '[[_Standards/WikiData/WD~Josefa_Espejo_Sánchez,109321050|WD~Josefa_Espejo_Sánchez,109321050]]'
 date_of_birth: 1879-08-08T00:00:00Z
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Mexico,96]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
 Commons_category: Emiliano Zapata
 Commons_gallery: Emiliano Zapata
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tumba%20de%20Emiliano%20Zapata%20Cuautla.JPG
@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Zapata,Emiliano]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Emiliano_Zapata,41718]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Emiliano_Zapata,41718|WD~Emiliano_Zapata,41718]] 
 
 ## #has_/text_of_/abstract 
 

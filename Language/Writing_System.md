@@ -142,38 +142,38 @@ aliases:
 has_id_wikidata: Q8192
 Commons_category: Writing systems
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 Dewey_Decimal_Classification: 411
-different_from: '[[_Standards/WikiData/WD~handwriting_style,33260112]]'
+different_from: '[[_Standards/WikiData/WD~handwriting_style,33260112|WD~handwriting_style,33260112]]'
 Gujarati_Vishwakosh_entry: લિપિ
-has_characteristic: '[[_Standards/WikiData/WD~type_of_writing_system,119520394]]'
-has_list: '[[_Standards/WikiData/WD~list_of_writing_systems,19845720]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_of_writing_system,119520394|WD~type_of_writing_system,119520394]]'
+has_list: '[[_Standards/WikiData/WD~list_of_writing_systems,19845720|WD~list_of_writing_systems,19845720]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~script,63801299]]'
-- '[[_Standards/WikiData/WD~orthography,43091]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_writing,1340267]]'
+- '[[_Standards/WikiData/WD~script,63801299|WD~script,63801299]]'
+- '[[_Standards/WikiData/WD~orthography,43091|WD~orthography,43091]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_writing,1340267|WD~history_of_writing,1340267]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20alphabets%20%26%20writing%20systems.svg
-instance_of: '[[_Standards/WikiData/WD~type_of_system,96116695]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_system,96116695|WD~type_of_system,96116695]]'
 OmegaWiki_Defined_Meaning: 739994
-part_of: '[[_Standards/WikiData/WD~linguistic_system,6554068]]'
+part_of: '[[_Standards/WikiData/WD~linguistic_system,6554068|WD~linguistic_system,6554068]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%AB%D6%80%20%28Writing%20systems%29.ogg
-studied_in: '[[_Standards/WikiData/WD~graphemics,1411056]]'
-subclass_of: '[[_Standards/WikiData/WD~notation,2001982]]'
+studied_in: '[[_Standards/WikiData/WD~graphemics,1411056|WD~graphemics,1411056]]'
+subclass_of: '[[_Standards/WikiData/WD~notation,2001982|WD~notation,2001982]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_writing_system,5640628]]'
-- '[[_Standards/WikiData/WD~Template_Writing_systems_sidebar,6238870]]'
-- '[[_Standards/WikiData/WD~Template_Writing_systems,13410525]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Writing_system,13256088]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_writing_system,5640628|WD~Template_Infobox_writing_system,5640628]]'
+- '[[_Standards/WikiData/WD~Template_Writing_systems_sidebar,6238870|WD~Template_Writing_systems_sidebar,6238870]]'
+- '[[_Standards/WikiData/WD~Template_Writing_systems,13410525|WD~Template_Writing_systems,13410525]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Writing_system,13256088|WD~Portal_Writing_system,13256088]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 Universal_Decimal_Classification: 003.2
 used_by:
-- '[[_Standards/WikiData/WD~scribe,916292]]'
-- '[[_Standards/WikiData/WD~written_work,47461344]]'
-- '[[_Standards/WikiData/WD~paleographic_index,65768889]]'
-- '[[_Standards/WikiData/WD~typing_hand,65768893]]'
+- '[[_Standards/WikiData/WD~scribe,916292|WD~scribe,916292]]'
+- '[[_Standards/WikiData/WD~written_work,47461344|WD~written_work,47461344]]'
+- '[[_Standards/WikiData/WD~paleographic_index,65768889|WD~paleographic_index,65768889]]'
+- '[[_Standards/WikiData/WD~typing_hand,65768893|WD~typing_hand,65768893]]'
 Wikidata_property: writing system
 Wolfram_Language_entity_type: WritingScript
 confidential: private
@@ -205,11 +205,11 @@ tags:
 title:
   '{ newTitle: null }': ''
 type: private_note
-studied_by: '[[_Standards/WikiData/WD~graphemics,1411056]]'
+studied_by: '[[_Standards/WikiData/WD~graphemics,1411056|WD~graphemics,1411056]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_writing_system,5640628]]'
-- '[[_Standards/WikiData/WD~Template_Writing_systems_sidebar,6238870]]'
-- '[[_Standards/WikiData/WD~Template_Writing_systems,13410525]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_writing_system,5640628|WD~Template_Infobox_writing_system,5640628]]'
+- '[[_Standards/WikiData/WD~Template_Writing_systems_sidebar,6238870|WD~Template_Writing_systems_sidebar,6238870]]'
+- '[[_Standards/WikiData/WD~Template_Writing_systems,13410525|WD~Template_Writing_systems,13410525]]'
 dv_has_:
   name_:
     af: skryfstelsel

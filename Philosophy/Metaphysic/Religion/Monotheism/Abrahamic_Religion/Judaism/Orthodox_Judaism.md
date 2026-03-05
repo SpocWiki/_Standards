@@ -60,9 +60,9 @@ aliases:
 - 猶太教正統派
 - 정통파
 has_id_wikidata: Q80970
-subclass_of: '[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914]]'
-instance_of: '[[_Standards/WikiData/WD~Jewish_religious_movements,3001185]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
+subclass_of: '[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914|WD~Rabbinic_Judaism,1366914]]'
+instance_of: '[[_Standards/WikiData/WD~Jewish_religious_movements,3001185|WD~Jewish_religious_movements,3001185]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268|WD~Judaism,9268]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rishon-KikarHaMeyasdim-04.jpg
 Commons_category: Orthodox Judaism
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A4%A8%E0%A5%80%20%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%A1%E0%A4%BF%E0%A4%9D%E0%A4%AE.wav

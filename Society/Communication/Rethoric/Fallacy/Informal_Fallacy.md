@@ -37,12 +37,12 @@ aliases:
 - 비형식적 오류
 has_id_wikidata: Q3312438
 subclass_of:
-- '[[_Standards/WikiData/WD~fallacy,186150]]'
-- '[[_Standards/WikiData/WD~cognitive_bias,1127759]]'
-opposite_of: '[[_Standards/WikiData/WD~non_sequitur,825737]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Informal_fallacies,6180719]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Informal_fallacies,14403785]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199]]'
+- '[[_Standards/WikiData/WD~fallacy,186150|WD~fallacy,186150]]'
+- '[[_Standards/WikiData/WD~cognitive_bias,1127759|WD~cognitive_bias,1127759]]'
+opposite_of: '[[_Standards/WikiData/WD~non_sequitur,825737|WD~non_sequitur,825737]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Informal_fallacies,6180719|WD~Category_Informal_fallacies,6180719]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Informal_fallacies,14403785|WD~Template_Informal_fallacies,14403785]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199|WD~type_of_fallacy,130993199]]'
 Commons_category: Informal fallacies
 dv_has_:
   name_:

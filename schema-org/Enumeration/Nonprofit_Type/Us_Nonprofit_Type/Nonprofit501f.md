@@ -26,8 +26,8 @@ title: is_a_nonprofit501f Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../USNonprofitType]]"
-  enum_of: "[[../USNonprofitType]]"
+  parent_class: "[[../USNonprofitType|USNonprofitType]]"
+  enum_of: "[[../USNonprofitType|USNonprofitType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f|Nonprofit501f]]"
     - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.public|Nonprofit501f.public]]"
@@ -38,8 +38,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.secret|Nonprofit501f.secret]]"
     - "[[Nonprofit501f]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../USNonprofitType]]"
-dv_is_enum_of: "[[../USNonprofitType]]"
+dv_has_parent_class: "[[../USNonprofitType|USNonprofitType]]"
+dv_is_enum_of: "[[../USNonprofitType|USNonprofitType]]"
 dv_is_same_as:
   - "[[Nonprofit501f]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.public|Nonprofit501f.public]]"

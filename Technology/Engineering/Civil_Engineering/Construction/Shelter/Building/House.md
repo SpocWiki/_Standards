@@ -220,11 +220,11 @@ title: is_a_house Class
 type: Type
 Commons_category: Houses
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification:
 - 690.8
 - 728.37
@@ -233,37 +233,37 @@ Dewey_Decimal_Classification:
 - 728
 - 643.1
 different_from:
-- '[[_Standards/WikiData/WD~Dom,255708]]'
-- '[[_Standards/WikiData/WD~Q65425102,65425102]]'
-- '[[_Standards/WikiData/WD~home,7743]]'
+- '[[_Standards/WikiData/WD~Dom,255708|WD~Dom,255708]]'
+- '[[_Standards/WikiData/WD~Q65425102,65425102|WD~Q65425102,65425102]]'
+- '[[_Standards/WikiData/WD~home,7743|WD~home,7743]]'
 equivalent_class: https://schema.org/House
 exact_match: https://schema.org/House
-facet_of: '[[_Standards/WikiData/WD~minka,935445]]'
+facet_of: '[[_Standards/WikiData/WD~minka,935445|WD~minka,935445]]'
 GeoNames_feature_code: S.HSE
 hashtag: house
 has_part_s_:
-- '[[_Standards/WikiData/WD~roof,83180]]'
-- '[[_Standards/WikiData/WD~room,180516]]'
-- '[[_Standards/WikiData/WD~floor,217164]]'
-- '[[_Standards/WikiData/WD~basement,234852]]'
-- '[[_Standards/WikiData/WD~attic,244490]]'
-- '[[_Standards/WikiData/WD~majlis,10858057]]'
-- '[[_Standards/WikiData/WD~window,35473]]'
-- '[[_Standards/WikiData/WD~door,36794]]'
-- '[[_Standards/WikiData/WD~wall,42948]]'
+- '[[_Standards/WikiData/WD~roof,83180|WD~roof,83180]]'
+- '[[_Standards/WikiData/WD~room,180516|WD~room,180516]]'
+- '[[_Standards/WikiData/WD~floor,217164|WD~floor,217164]]'
+- '[[_Standards/WikiData/WD~basement,234852|WD~basement,234852]]'
+- '[[_Standards/WikiData/WD~attic,244490|WD~attic,244490]]'
+- '[[_Standards/WikiData/WD~majlis,10858057|WD~majlis,10858057]]'
+- '[[_Standards/WikiData/WD~window,35473|WD~window,35473]]'
+- '[[_Standards/WikiData/WD~door,36794|WD~door,36794]]'
+- '[[_Standards/WikiData/WD~wall,42948|WD~wall,42948]]'
 has_use:
-- '[[_Standards/WikiData/WD~residence,699405]]'
-- '[[../../../../../../WikiData/WD~shelter,989946]]'
-- '[[_Standards/WikiData/WD~housing,1247867]]'
-- '[[_Standards/WikiData/WD~home,7743]]'
+- '[[_Standards/WikiData/WD~residence,699405|WD~residence,699405]]'
+- '[[../../../../../../WikiData/WD~shelter,989946|WD~shelter,989946]]'
+- '[[_Standards/WikiData/WD~housing,1247867|WD~housing,1247867]]'
+- '[[_Standards/WikiData/WD~home,7743|WD~home,7743]]'
 IAB_code: 447
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ranch%20style%20home%20in%20Salinas%2C%20California.JPG
-instance_of: '[[_Standards/WikiData/WD~building_type,811102]]'
-made_from_material: '[[_Standards/WikiData/WD~building_material,206615]]'
+instance_of: '[[_Standards/WikiData/WD~building_type,811102|WD~building_type,811102]]'
+made_from_material: '[[_Standards/WikiData/WD~building_material,206615|WD~building_material,206615]]'
 Nomenclature_for_Museum_Cataloging: 743
 OmegaWiki_Defined_Meaning: 5517
 OpenStreetMap_tag_or_key: Tag:building=house
-permanent_duplicated_item: '[[_Standards/WikiData/WD~house,55744010]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~house,55744010|WD~house,55744010]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Haus2.ogg
 properties_for_this_type:
 - occupant
@@ -276,10 +276,10 @@ properties_for_this_type:
 - located in the administrative territorial entity
 - architectural style
 subclass_of:
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[../../../../../../WikiData/WD~shelter,989946]]'
-- '[[_Standards/WikiData/WD~residential_building,11755880]]'
-- '[[_Standards/WikiData/WD~building,41176]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[../../../../../../WikiData/WD~shelter,989946|WD~shelter,989946]]'
+- '[[_Standards/WikiData/WD~residential_building,11755880|WD~residential_building,11755880]]'
+- '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
 Wikidata_property: number of houses
 dv_has_:
   name_:
@@ -554,7 +554,7 @@ A house is a building or structure that has the ability
 to be occupied for habitation by humans or other creatures 
 (source: Wikipedia, the free encyclopedia, see <a href="http://en.wikipedia.org/wiki/House">http://en.wikipedia.org/wiki/House</a>).
 
-#has_/parent_class :: [[../Accommodation]]  
+#has_/parent_class :: [[../Accommodation|Accommodation]]  
 
 #has_/child_/class :: [ SingleFamilyResidence ]  
 

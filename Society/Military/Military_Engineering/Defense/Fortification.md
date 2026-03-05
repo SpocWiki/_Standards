@@ -91,30 +91,30 @@ aliases:
 - 요새화
 has_id_wikidata: Q57821
 has_part_s_:
-- '[[_Standards/WikiData/WD~city_gate,82117]]'
-- '[[_Standards/WikiData/WD~moat,88480]]'
-- '[[_Standards/WikiData/WD~bartizan,729998]]'
-- '[[_Standards/WikiData/WD~place_of_arms,2538929]]'
-- '[[_Standards/WikiData/WD~drill_hall,5307555]]'
-- '[[_Standards/WikiData/WD~gunpowder_magazine,17504814]]'
-- '[[_Standards/WikiData/WD~tower,12518]]'
-- '[[_Standards/WikiData/WD~star_fort,12797]]'
-- '[[_Standards/WikiData/WD~wall,42948]]'
-- '[[_Standards/WikiData/WD~defensive_wall,57346]]'
-studied_by: '[[_Standards/WikiData/WD~fortification,324326]]'
-subclass_of: '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~city_gate,82117|WD~city_gate,82117]]'
+- '[[_Standards/WikiData/WD~moat,88480|WD~moat,88480]]'
+- '[[_Standards/WikiData/WD~bartizan,729998|WD~bartizan,729998]]'
+- '[[_Standards/WikiData/WD~place_of_arms,2538929|WD~place_of_arms,2538929]]'
+- '[[_Standards/WikiData/WD~drill_hall,5307555|WD~drill_hall,5307555]]'
+- '[[_Standards/WikiData/WD~gunpowder_magazine,17504814|WD~gunpowder_magazine,17504814]]'
+- '[[_Standards/WikiData/WD~tower,12518|WD~tower,12518]]'
+- '[[_Standards/WikiData/WD~star_fort,12797|WD~star_fort,12797]]'
+- '[[_Standards/WikiData/WD~wall,42948|WD~wall,42948]]'
+- '[[_Standards/WikiData/WD~defensive_wall,57346|WD~defensive_wall,57346]]'
+studied_by: '[[_Standards/WikiData/WD~fortification,324326|WD~fortification,324326]]'
+subclass_of: '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-has_use: '[[_Standards/WikiData/WD~defense,1985622]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+has_use: '[[_Standards/WikiData/WD~defense,1985622|WD~defense,1985622]]'
 different_from:
-- '[[_Standards/WikiData/WD~coastal_defence_and_fortification,5138347]]'
-- '[[_Standards/WikiData/WD~fortress,57831]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Fortifications,8084813]]'
+- '[[_Standards/WikiData/WD~coastal_defence_and_fortification,5138347|WD~coastal_defence_and_fortification,5138347]]'
+- '[[_Standards/WikiData/WD~fortress,57831|WD~fortress,57831]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Fortifications,8084813|WD~Template_Fortifications,8084813]]'
 Nomenclature_for_Museum_Cataloging:
 - 714
 - 718

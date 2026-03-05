@@ -44,12 +44,12 @@ aliases:
 - 석유공학
 has_id_wikidata: Q1273174
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
-part_of: '[[_Standards/WikiData/WD~energy_engineering,3353193]]'
-practiced_by: '[[_Standards/WikiData/WD~petroleum_engineer,21002343]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
+part_of: '[[_Standards/WikiData/WD~energy_engineering,3353193|WD~energy_engineering,3353193]]'
+practiced_by: '[[_Standards/WikiData/WD~petroleum_engineer,21002343|WD~petroleum_engineer,21002343]]'
 U_S_National_Archives_Identifier: 10646797
 image: http://commons.wikimedia.org/wiki/Special:FilePath/11-09-fotofluege-cux-allg-25a.jpg
 Commons_category: Petroleum engineering

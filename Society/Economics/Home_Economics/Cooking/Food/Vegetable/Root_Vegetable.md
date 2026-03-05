@@ -71,14 +71,14 @@ aliases:
 - 뿌리채소
 has_id_wikidata: Q20136
 subclass_of:
-- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
-part_of: '[[_Standards/WikiData/WD~wild_food,29957571]]'
-instance_of: '[[_Standards/WikiData/WD~group_or_class_of_agricultural_products,113657383]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
+part_of: '[[_Standards/WikiData/WD~wild_food,29957571|WD~wild_food,29957571]]'
+instance_of: '[[_Standards/WikiData/WD~group_or_class_of_agricultural_products,113657383|WD~group_or_class_of_agricultural_products,113657383]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 has_use:
-- '[[_Standards/WikiData/WD~food,2095]]'
-- '[[_Standards/WikiData/WD~medication,12140]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+- '[[_Standards/WikiData/WD~medication,12140|WD~medication,12140]]'
 water_footprint:
 - 0.47
 - 387

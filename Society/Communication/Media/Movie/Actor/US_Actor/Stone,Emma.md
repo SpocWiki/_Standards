@@ -193,8 +193,8 @@ dv_has_:
 > After small television roles, she appeared in a series of well-received teen comedy films, such as [[Superbad]] (2007), [[Zombieland]] (2009), and [[Easy A]] (2010), 
 > which was Stone's first leading role. Following this breakthrough, she starred in the romantic comedy Crazy, Stupid, Love (2011) and the period drama The Help (2011), and gained wider recognition as Gwen Stacy in the 2012 superhero film The Amazing Spider-Man and its 2014 sequel.
 >
-> Stone received nominations for the [[../../../../../../../_Standards/Society/Communication/Media/Movie/Academy_Award]] 
-for Best Supporting Actress for playing a recovering drug addict in Birdman (2014) and portraying Abigail Masham in The Favourite (2018). The latter marked her first of many collaborations with director [[../../Movie-Director/Lanthimos,Yorgos]]. She won two Academy Awards for Best Actress, for her roles as an aspiring actress in the romantic musical [[La La Land]] (2016) 
+> Stone received nominations for the [[../../../../../../../_Standards/Society/Communication/Media/Movie/Academy_Award|Academy_Award]] 
+for Best Supporting Actress for playing a recovering drug addict in Birdman (2014) and portraying Abigail Masham in The Favourite (2018). The latter marked her first of many collaborations with director [[../../Movie-Director/Lanthimos,Yorgos|Lanthimos,Yorgos]]. She won two Academy Awards for Best Actress, for her roles as an aspiring actress in the romantic musical [[La La Land]] (2016) 
 > and a resurrected suicide victim in Lanthimos' comic fantasy film [[Poor_Things]] (2023). 
 > She also portrayed tennis player Billie Jean King in Battle of the Sexes (2017) 
 > and the title role in [[Cruella]] (2021). On television, she starred in the dark comedy miniseries Maniac (2018) and The Curse (2023).

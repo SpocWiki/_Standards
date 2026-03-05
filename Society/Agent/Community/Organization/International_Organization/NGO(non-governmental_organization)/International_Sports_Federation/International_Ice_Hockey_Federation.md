@@ -59,12 +59,12 @@ aliases:
 - 국제 아이스하키 연맹
 has_id_wikidata: Q190173
 sport:
-- '[[_Standards/WikiData/WD~inline_hockey,946171]]'
-- '[[_Standards/WikiData/WD~ice_hockey,41466]]'
-member_of: '[[_Standards/WikiData/WD~Winter_Olympic_Federations,1763847]]'
-instance_of: '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Zurich,72]]'
+- '[[_Standards/WikiData/WD~inline_hockey,946171|WD~inline_hockey,946171]]'
+- '[[_Standards/WikiData/WD~ice_hockey,41466|WD~ice_hockey,41466]]'
+member_of: '[[_Standards/WikiData/WD~Winter_Olympic_Federations,1763847|WD~Winter_Olympic_Federations,1763847]]'
+instance_of: '[[_Standards/WikiData/WD~international_sport_governing_body,11422536|WD~international_sport_governing_body,11422536]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Zurich,72|WD~Zurich,72]]'
 member_count: 83
 social_media_followers: 218333
 image: http://commons.wikimedia.org/wiki/Special:FilePath/IIHF%20Headquarter%20Zurich.JPG

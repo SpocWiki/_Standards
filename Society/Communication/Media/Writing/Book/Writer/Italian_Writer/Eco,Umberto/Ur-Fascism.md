@@ -50,7 +50,7 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Ur-Fascism) 
 
 
-[[../../English_Writer/Golding,William/Lord_of_the_Flies]] 
+[[../../English_Writer/Golding,William/Lord_of_the_Flies|Lord_of_the_Flies]] 
 ## further 
 
 ### Powerful and continuing Nationalism 
@@ -61,7 +61,7 @@ mass elitism - nationality as ultimate privilege
 
 ### Supremacy of the Military 
 
-### Rampant Sexism and [[../../../../../../../_private/Society/Toxic_Masculinity]] 
+### Rampant Sexism and [[../../../../../../../_private/Society/Toxic_Masculinity|Toxic_Masculinity]] 
 
 ### Controlled Mass Media 
 
@@ -98,7 +98,7 @@ Leader incarnates the will of the people
 ### The cult of tradition
 characterized by cultural [syncretism](https://en.wikipedia.org/wiki/Syncretism "Syncretism"), even at the risk of internal contradiction. 
 When all truth has already been revealed by tradition, no new learning can occur, 
-only further interpretation and refinement. [[../../../../../../Rethoric/Syncretism]] 
+only further interpretation and refinement. [[../../../../../../Rethoric/Syncretism|Syncretism]] 
 ### The rejection of rationalism
 which views the __rationalistic development__ of Western culture 
 since [the Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment "Age of Enlightenment") as a descent into __moral corruption__ or wickedness. 

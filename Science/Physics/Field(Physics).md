@@ -55,19 +55,19 @@ aliases:
 - 장
 has_id_wikidata: Q185674
 has_part_s_:
-- '[[_Standards/WikiData/WD~electromagnetic_field,177625]]'
-- '[[_Standards/WikiData/WD~gravitational_field,558066]]'
-- '[[_Standards/WikiData/WD~magnetic_field,11408]]'
-- '[[_Standards/WikiData/WD~electric_field,46221]]'
+- '[[_Standards/WikiData/WD~electromagnetic_field,177625|WD~electromagnetic_field,177625]]'
+- '[[_Standards/WikiData/WD~gravitational_field,558066|WD~gravitational_field,558066]]'
+- '[[_Standards/WikiData/WD~magnetic_field,11408|WD~magnetic_field,11408]]'
+- '[[_Standards/WikiData/WD~electric_field,46221|WD~electric_field,46221]]'
 different_from:
-- '[[_Standards/WikiData/WD~Field,257765]]'
-- '[[_Standards/WikiData/WD~Feld,1308884]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Field,257765|WD~Field,257765]]'
+- '[[_Standards/WikiData/WD~Feld,1308884|WD~Feld,1308884]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~concrete_object,4406616]]'
-- '[[_Standards/WikiData/WD~physical_substance,28732711]]'
-studied_by: '[[_Standards/WikiData/WD~physics,413]]'
-manifestation_of: '[[_Standards/WikiData/WD~function,11348]]'
+- '[[_Standards/WikiData/WD~concrete_object,4406616|WD~concrete_object,4406616]]'
+- '[[_Standards/WikiData/WD~physical_substance,28732711|WD~physical_substance,28732711]]'
+studied_by: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
+manifestation_of: '[[_Standards/WikiData/WD~function,11348|WD~function,11348]]'
 Dewey_Decimal_Classification: 530.14
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VFPt%20charges%20plus%20minus%20thumb.svg
 IEV_number: 102-05-12

@@ -32,15 +32,15 @@ aliases:
 - 吠陀宗教
 has_id_wikidata: Q889766
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-in_opposition_to: '[[_Standards/WikiData/WD~anti_Brahminism,4774117]]'
-subclass_of: '[[_Standards/WikiData/WD~Hinduism,9089]]'
-instance_of: '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082|WD~Orthodox_Theological_Encyclopedia,19211082]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+in_opposition_to: '[[_Standards/WikiData/WD~anti_Brahminism,4774117|WD~anti_Brahminism,4774117]]'
+subclass_of: '[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]'
+instance_of: '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
 Dewey_Decimal_Classification: 294.5
 dv_has_:
   name_:
@@ -94,7 +94,7 @@ dv_has_:
 
 # [[Brahmanism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Brahmanism,889766]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Brahmanism,889766|WD~Brahmanism,889766]] 
 
 ## #has_/text_of_/abstract 
 

@@ -142,33 +142,33 @@ aliases:
   - 의자
 has_id_wikidata: Q15026
 has_characteristic:
-  - "[[_Standards/WikiData/WD~height,208826]]"
-  - "[[_Standards/WikiData/WD~color,1075]]"
-  - "[[_Standards/WikiData/WD~mass,11423]]"
-  - "[[_Standards/WikiData/WD~width,35059]]"
+  - "[[_Standards/WikiData/WD~height,208826|WD~height,208826]]"
+  - "[[_Standards/WikiData/WD~color,1075|WD~color,1075]]"
+  - "[[_Standards/WikiData/WD~mass,11423|WD~mass,11423]]"
+  - "[[_Standards/WikiData/WD~width,35059|WD~width,35059]]"
 made_from_material:
-  - "[[_Standards/WikiData/WD~lumber,354757]]"
-  - "[[_Standards/WikiData/WD~particle_board,898776]]"
-  - "[[_Standards/WikiData/WD~woven_fabric,1314278]]"
-  - "[[_Standards/WikiData/WD~wood,287]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-  - "[[_Standards/WikiData/WD~steel,11427]]"
-  - "[[_Standards/WikiData/WD~plastic,11474]]"
+  - "[[_Standards/WikiData/WD~lumber,354757|WD~lumber,354757]]"
+  - "[[_Standards/WikiData/WD~particle_board,898776|WD~particle_board,898776]]"
+  - "[[_Standards/WikiData/WD~woven_fabric,1314278|WD~woven_fabric,1314278]]"
+  - "[[_Standards/WikiData/WD~wood,287|WD~wood,287]]"
+  - "[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]"
+  - "[[_Standards/WikiData/WD~steel,11427|WD~steel,11427]]"
+  - "[[_Standards/WikiData/WD~plastic,11474|WD~plastic,11474]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240|WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Chair,1240091]]"
-  - "[[_Standards/WikiData/WD~Chaise,2947697]]"
-locations: "[[_Standards/WikiData/WD~interior_space,1299240]]"
-has_part_s_: "[[_Standards/WikiData/WD~furniture_leg,56056049]]"
-present_in_work: "[[_Standards/WikiData/WD~Do_Chairs_Exist_,108562180]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
+  - "[[_Standards/WikiData/WD~Chair,1240091|WD~Chair,1240091]]"
+  - "[[_Standards/WikiData/WD~Chaise,2947697|WD~Chaise,2947697]]"
+locations: "[[_Standards/WikiData/WD~interior_space,1299240|WD~interior_space,1299240]]"
+has_part_s_: "[[_Standards/WikiData/WD~furniture_leg,56056049|WD~furniture_leg,56056049]]"
+present_in_work: "[[_Standards/WikiData/WD~Do_Chairs_Exist_,108562180|WD~Do_Chairs_Exist_,108562180]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806|WD~WikiProject_Craft,110249806]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~seating_furniture,129006002]]"
-  - "[[_Standards/WikiData/WD~furniture,14745]]"
+  - "[[_Standards/WikiData/WD~seating_furniture,129006002|WD~seating_furniture,129006002]]"
+  - "[[_Standards/WikiData/WD~furniture,14745|WD~furniture,14745]]"
 Nomenclature_for_Museum_Cataloging: 1090
 OmegaWiki_Defined_Meaning: 6162
 subreddit: chairs

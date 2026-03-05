@@ -33,10 +33,10 @@ aliases:
 - 토니아기
 has_id_wikidata: Q743343
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Tonian,112243105]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Tonian,112243105|WD~Category_Tonian,112243105]]'
 end_time: -720000000-01-01T00:00:00Z
 start_time: -1000000000-01-01T00:00:00Z
 Commons_category: Tonian
@@ -167,7 +167,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 1000 to 720 Mya. 
 
-![[../../../../../xLarge/Earth/Geology/Earth-750_Ma_(Tonian_Period).png]]
+![[../../../../../xLarge/Earth/Geology/Earth-750_Ma_(Tonian_Period).png|Earth-750_Ma_(Tonian_Period).png]]
 
 ## #has_/text_of_/abstract 
 

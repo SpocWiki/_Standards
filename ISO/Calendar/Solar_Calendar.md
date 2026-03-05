@@ -74,7 +74,7 @@ aliases:
 - ꯀꯣꯏꯂꯧ ꯊꯄꯥꯂꯣꯟ
 - 태양력
 has_id_wikidata: Q210953
-subclass_of: '[[_Standards/WikiData/WD~calendar,12132]]'
+subclass_of: '[[_Standards/WikiData/WD~calendar,12132|WD~calendar,12132]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Calendario%20Solar.%20Piazza%20Vecchia.%20Bergamo-I%C3%B1aki%20Otsoa.%20CC.%20By%20ShA%20%24no-.jpg
 Commons_category: Solar calendars
 dv_has_:

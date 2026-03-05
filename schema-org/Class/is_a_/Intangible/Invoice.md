@@ -35,7 +35,7 @@ dv_is_:
     - "[[Invoice]]"
 dv_has_:
   parent_class:
-    - "[[../Intangible]]"
+    - "[[../Intangible|Intangible]]"
   properties:
     - "[[account_id|account_id]]"
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
@@ -66,7 +66,7 @@ dv_has_:
     - "[[total_payment_due|total_payment_due]]"
     - "[[../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../Intangible]]"
+  - "[[../Intangible|Intangible]]"
 dv_has_properties:
   - "[[account_id|account_id]]"
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

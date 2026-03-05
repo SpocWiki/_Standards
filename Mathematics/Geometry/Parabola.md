@@ -48,22 +48,22 @@ aliases:
 - 포물선
 has_id_wikidata: Q48297
 part_of:
-- '[[_Standards/WikiData/WD~conic_section,124255]]'
-- '[[_Standards/WikiData/WD~paraboloid,192768]]'
+- '[[_Standards/WikiData/WD~conic_section,124255|WD~conic_section,124255]]'
+- '[[_Standards/WikiData/WD~paraboloid,192768|WD~paraboloid,192768]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~locus,211548]]'
-- '[[_Standards/WikiData/WD~algebraic_curve,266237]]'
-- '[[_Standards/WikiData/WD~plane_curve,1060874]]'
-- '[[_Standards/WikiData/WD~sinusoidal_spiral,2064156]]'
-- '[[_Standards/WikiData/WD~Ribaucour_curve,25967482]]'
-- '[[_Standards/WikiData/WD~non_degenerate_conic_section,78145859]]'
+- '[[_Standards/WikiData/WD~locus,211548|WD~locus,211548]]'
+- '[[_Standards/WikiData/WD~algebraic_curve,266237|WD~algebraic_curve,266237]]'
+- '[[_Standards/WikiData/WD~plane_curve,1060874|WD~plane_curve,1060874]]'
+- '[[_Standards/WikiData/WD~sinusoidal_spiral,2064156|WD~sinusoidal_spiral,2064156]]'
+- '[[_Standards/WikiData/WD~Ribaucour_curve,25967482|WD~Ribaucour_curve,25967482]]'
+- '[[_Standards/WikiData/WD~non_degenerate_conic_section,78145859|WD~non_degenerate_conic_section,78145859]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-different_from: '[[_Standards/WikiData/WD~Parabola,19957266]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~Parabola,19957266|WD~Parabola,19957266]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%AA%E0%A4%B0%E0%A4%B5%E0%A4%B2%E0%A4%AF.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Parabola3.svg
 described_at_URL:

@@ -52,17 +52,17 @@ aliases:
 - 신성
 has_id_wikidata: Q1151419
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~biblical_concept,30149195]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~biblical_concept,30149195|WD~biblical_concept,30149195]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-opposite_of: '[[_Standards/WikiData/WD~profane,1583810]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+opposite_of: '[[_Standards/WikiData/WD~profane,1583810|WD~profane,1583810]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~holiness,16600343]]'
-- '[[_Standards/WikiData/WD~holiness,56344991]]'
-subclass_of: '[[_Standards/WikiData/WD~sacred,21651927]]'
-part_of: '[[_Standards/WikiData/WD~sacred_profane_dichotomy,110564788]]'
+- '[[_Standards/WikiData/WD~holiness,16600343|WD~holiness,16600343]]'
+- '[[_Standards/WikiData/WD~holiness,56344991|WD~holiness,56344991]]'
+subclass_of: '[[_Standards/WikiData/WD~sacred,21651927|WD~sacred,21651927]]'
+part_of: '[[_Standards/WikiData/WD~sacred_profane_dichotomy,110564788|WD~sacred_profane_dichotomy,110564788]]'
 OmegaWiki_Defined_Meaning: 1082971
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Mathieu%20Kappler-sacr%C3%A9.wav
 dv_has_:

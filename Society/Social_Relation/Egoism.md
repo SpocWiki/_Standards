@@ -51,20 +51,20 @@ aliases:
 - 自私
 - 이기주의
 has_id_wikidata: Q238350
-opposite_of: '[[_Standards/WikiData/WD~altruism,167323]]'
+opposite_of: '[[_Standards/WikiData/WD~altruism,167323|WD~altruism,167323]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 different_from:
-- '[[_Standards/WikiData/WD~egoism,1151699]]'
-- '[[_Standards/WikiData/WD~egotism,1282131]]'
-instance_of: '[[_Standards/WikiData/WD~moral_quality,31172650]]'
-subclass_of: '[[_Standards/WikiData/WD~ethical_theory,58927801]]'
+- '[[_Standards/WikiData/WD~egoism,1151699|WD~egoism,1151699]]'
+- '[[_Standards/WikiData/WD~egotism,1282131|WD~egotism,1282131]]'
+instance_of: '[[_Standards/WikiData/WD~moral_quality,31172650|WD~moral_quality,31172650]]'
+subclass_of: '[[_Standards/WikiData/WD~ethical_theory,58927801|WD~ethical_theory,58927801]]'
 OmegaWiki_Defined_Meaning: 1076400
 P8189: 987007533490805171
 Archive_of_Our_Own_tag: egoistic
@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Egoism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~egoism,238350]] 
+#is_/same_as :: [[_Standards/WikiData/WD~egoism,238350|WD~egoism,238350]] 
 
 ## #has_/text_of_/abstract 
 

@@ -79,18 +79,18 @@ aliases:
 - 五邊形
 - 오각형
 has_id_wikidata: Q127840
-followed_by: '[[_Standards/WikiData/WD~hexagon,83043]]'
-has_vertex_figure: '[[_Standards/WikiData/WD~line_segment,166154]]'
-described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+followed_by: '[[_Standards/WikiData/WD~hexagon,83043|WD~hexagon,83043]]'
+has_vertex_figure: '[[_Standards/WikiData/WD~line_segment,166154|WD~line_segment,166154]]'
+described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~pentatope,28410579]]'
-- '[[_Standards/WikiData/WD~polygon,37555]]'
+- '[[_Standards/WikiData/WD~pentatope,28410579|WD~pentatope,28410579]]'
+- '[[_Standards/WikiData/WD~polygon,37555|WD~polygon,37555]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~edge,26382]]'
-- '[[_Standards/WikiData/WD~vertex,26401]]'
-has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382]]'
-follows: '[[_Standards/WikiData/WD~quadrilateral,36810]]'
+- '[[_Standards/WikiData/WD~edge,26382|WD~edge,26382]]'
+- '[[_Standards/WikiData/WD~vertex,26401|WD~vertex,26401]]'
+has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382|WD~edge,26382]]'
+follows: '[[_Standards/WikiData/WD~quadrilateral,36810|WD~quadrilateral,36810]]'
 Commons_gallery: Pentagon
 OmegaWiki_Defined_Meaning: 389729
 image:

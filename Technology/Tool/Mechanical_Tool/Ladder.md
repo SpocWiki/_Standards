@@ -84,16 +84,16 @@ aliases:
 - 사다리
 has_id_wikidata: Q168639
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~tread,3289701]]'
-different_from: '[[_Standards/WikiData/WD~Drabina,9210573]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~folding_ladder,130279474]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~tread,3289701|WD~tread,3289701]]'
+different_from: '[[_Standards/WikiData/WD~Drabina,9210573|WD~Drabina,9210573]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~folding_ladder,130279474|WD~folding_ladder,130279474]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~stairs,12511]]'
-- '[[_Standards/WikiData/WD~physical_tool,39546]]'
-has_use: '[[_Standards/WikiData/WD~climbing,22857]]'
+- '[[_Standards/WikiData/WD~stairs,12511|WD~stairs,12511]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]'
+has_use: '[[_Standards/WikiData/WD~climbing,22857|WD~climbing,22857]]'
 OmegaWiki_Defined_Meaning: 6099
 Nomenclature_for_Museum_Cataloging: 1633
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20-%20Kaiser-Wilhelm-Nationaldenkmal%20-%20Gew%C3%B6lbe%206.jpg

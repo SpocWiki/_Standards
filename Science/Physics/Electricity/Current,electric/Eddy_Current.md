@@ -54,11 +54,11 @@ aliases:
 - 渦電流
 - 맴돌이 전류
 has_id_wikidata: Q208598
-named_after: '[[_Standards/WikiData/WD~Léon_Foucault,187966]]'
+named_after: '[[_Standards/WikiData/WD~Léon_Foucault,187966|WD~Léon_Foucault,187966]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-subclass_of: '[[_Standards/WikiData/WD~electric_current,11651]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+subclass_of: '[[_Standards/WikiData/WD~electric_current,11651|WD~electric_current,11651]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/20.%20%D0%92%D0%B0%D0%BB%D1%82%D0%B5%D0%BD%D1%85%D0%BE%D1%84%D0%B5%D0%BD%D0%BE%D0%B2%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE.ogv
 IEV_number: 121-12-32
 Commons_category: Eddy currents

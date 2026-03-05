@@ -92,17 +92,17 @@ aliases:
 - 二次方程式
 - 이차 방정식
 has_id_wikidata: Q41299
-followed_by: '[[_Standards/WikiData/WD~cubic_equation,203565]]'
-follows: '[[_Standards/WikiData/WD~linear_equation,484637]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+followed_by: '[[_Standards/WikiData/WD~cubic_equation,203565|WD~cubic_equation,203565]]'
+follows: '[[_Standards/WikiData/WD~linear_equation,484637|WD~linear_equation,484637]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~polynomial_equation,3782059]]'
-- '[[_Standards/WikiData/WD~equation_solvable_by_radicals,10273427]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~polynomial_equation,3782059|WD~polynomial_equation,3782059]]'
+- '[[_Standards/WikiData/WD~equation_solvable_by_radicals,10273427|WD~equation_solvable_by_radicals,10273427]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 different_from:
-- '[[_Standards/WikiData/WD~quadratic_formula,15909572]]'
-- '[[_Standards/WikiData/WD~single_variable_quadratic_function,60963388]]'
-- '[[_Standards/WikiData/WD~quadratic_function,50695]]'
+- '[[_Standards/WikiData/WD~quadratic_formula,15909572|WD~quadratic_formula,15909572]]'
+- '[[_Standards/WikiData/WD~single_variable_quadratic_function,60963388|WD~single_variable_quadratic_function,60963388]]'
+- '[[_Standards/WikiData/WD~quadratic_function,50695|WD~quadratic_function,50695]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>a</mi><msup><mi>x</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">+</mo><mi>b</mi><mi>x</mi><mo stretchy="false">+</mo><mi>c</mi><mo stretchy="false">=</mo><mn>0</mn></mstyle></mrow></math>
 Colon_Classification: B232
 in_defining_formula:

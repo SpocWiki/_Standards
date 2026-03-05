@@ -27,9 +27,9 @@ tags:
 title: is_a_payment_due Class
 type: Type
 dv_has_:
-  parent_class: "[[../PaymentStatusType]]"
+  parent_class: "[[../PaymentStatusType|PaymentStatusType]]"
 dv_is_:
-  enum_of: "[[../PaymentStatusType]]"
+  enum_of: "[[../PaymentStatusType|PaymentStatusType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due|Payment_Due]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.public|Payment_Due.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.personal|Payment_Due.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.secret|Payment_Due.secret]]"
     - "[[Payment_Due]]"
-dv_has_parent_class: "[[../PaymentStatusType]]"
-dv_is_enum_of: "[[../PaymentStatusType]]"
+dv_has_parent_class: "[[../PaymentStatusType|PaymentStatusType]]"
+dv_is_enum_of: "[[../PaymentStatusType|PaymentStatusType]]"
 dv_is_same_as:
   - "[[Payment_Due]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.public|Payment_Due.public]]"

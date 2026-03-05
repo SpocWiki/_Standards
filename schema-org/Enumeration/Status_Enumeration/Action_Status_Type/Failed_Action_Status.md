@@ -27,9 +27,9 @@ tags:
 title: is_a_failed_action_status Class
 type: Type
 dv_has_:
-  parent_class: "[[../ActionStatusType]]"
+  parent_class: "[[../ActionStatusType|ActionStatusType]]"
 dv_is_:
-  enum_of: "[[../ActionStatusType]]"
+  enum_of: "[[../ActionStatusType|ActionStatusType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Failed_Action_Status|Failed_Action_Status]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Failed_Action_Status.public|Failed_Action_Status.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Failed_Action_Status.personal|Failed_Action_Status.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Failed_Action_Status.secret|Failed_Action_Status.secret]]"
     - "[[Failed_Action_Status]]"
-dv_has_parent_class: "[[../ActionStatusType]]"
-dv_is_enum_of: "[[../ActionStatusType]]"
+dv_has_parent_class: "[[../ActionStatusType|ActionStatusType]]"
+dv_is_enum_of: "[[../ActionStatusType|ActionStatusType]]"
 dv_is_same_as:
   - "[[Failed_Action_Status]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Failed_Action_Status.public|Failed_Action_Status.public]]"

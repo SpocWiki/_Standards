@@ -34,12 +34,12 @@ aliases:
 - 都市工程學
 - 도시공학
 has_id_wikidata: Q1380395
-subclass_of: '[[_Standards/WikiData/WD~civil_engineering,77590]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9201433,9201433]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+subclass_of: '[[_Standards/WikiData/WD~civil_engineering,77590|WD~civil_engineering,77590]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9201433,9201433|WD~Q9201433,9201433]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Anonym%C3%A2t%20%28Kvardek%20du%29-g%C3%A9nie%20urbain.wav
 dv_has_:
   name_:

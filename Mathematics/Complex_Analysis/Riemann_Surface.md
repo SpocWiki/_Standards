@@ -44,11 +44,11 @@ aliases:
 - 리만 곡면
 has_id_wikidata: Q753035
 subclass_of:
-- '[[_Standards/WikiData/WD~complex_manifold,578874]]'
-- '[[_Standards/WikiData/WD~Klein_surface,6420197]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-named_after: '[[_Standards/WikiData/WD~Bernhard_Riemann,42299]]'
+- '[[_Standards/WikiData/WD~complex_manifold,578874|WD~complex_manifold,578874]]'
+- '[[_Standards/WikiData/WD~Klein_surface,6420197|WD~Klein_surface,6420197]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
+named_after: '[[_Standards/WikiData/WD~Bernhard_Riemann,42299|WD~Bernhard_Riemann,42299]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Riemann%20surface%20arcsin.svg
 Commons_category: Complex algebraic curves and Riemann surfaces
 dv_has_:

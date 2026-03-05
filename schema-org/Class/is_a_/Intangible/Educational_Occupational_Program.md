@@ -26,7 +26,7 @@ tags:
 title: is_an_educational_occupational_program Class
 type: Type
 dv_is_:
-  parent_class: "[[../Intangible]]"
+  parent_class: "[[../Intangible|Intangible]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
@@ -79,7 +79,7 @@ dv_has_:
     - "[[../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../Intangible]]"
+  - "[[../Intangible|Intangible]]"
 dv_has_child_class:
   - "[[Educational_Occupational_Program/Work_Based_Program|Work_Based_Program]]"
 dv_has_properties:

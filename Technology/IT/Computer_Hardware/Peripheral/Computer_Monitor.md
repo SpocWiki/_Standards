@@ -92,17 +92,17 @@ aliases:
 - 컴퓨터 모니터
 has_id_wikidata: Q5290
 part_of:
-- '[[_Standards/WikiData/WD~computer_terminal,216640]]'
-- '[[_Standards/WikiData/WD~terminal,3518405]]'
+- '[[_Standards/WikiData/WD~computer_terminal,216640|WD~computer_terminal,216640]]'
+- '[[_Standards/WikiData/WD~terminal,3518405|WD~terminal,3518405]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~display_device,327065]]'
-- '[[_Standards/WikiData/WD~electronic_visual_display,6021804]]'
+- '[[_Standards/WikiData/WD~display_device,327065|WD~display_device,327065]]'
+- '[[_Standards/WikiData/WD~electronic_visual_display,6021804|WD~electronic_visual_display,6021804]]'
 different_from:
-- '[[_Standards/WikiData/WD~electronic_visual_display,6021804]]'
-- '[[_Standards/WikiData/WD~computer,68]]'
+- '[[_Standards/WikiData/WD~electronic_visual_display,6021804|WD~electronic_visual_display,6021804]]'
+- '[[_Standards/WikiData/WD~computer,68|WD~computer,68]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~webopedia,55152191]]'
-- '[[_Standards/WikiData/WD~web_page,36774]]'
+- '[[_Standards/WikiData/WD~webopedia,55152191|WD~webopedia,55152191]]'
+- '[[_Standards/WikiData/WD~web_page,36774|WD~web_page,36774]]'
 Nomenclature_for_Museum_Cataloging: 10519
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/8K-Monitor%2020220929.stl
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MonitorLCDlcd.svg

@@ -53,9 +53,9 @@ aliases:
 - 結晶系
 - 결정계
 has_id_wikidata: Q898786
-subclass_of: '[[_Standards/WikiData/WD~point_group,899720]]'
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Crystal_systems,8085113]]'
+subclass_of: '[[_Standards/WikiData/WD~point_group,899720|WD~point_group,899720]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Crystal_systems,8085113|WD~Template_Crystal_systems,8085113]]'
 Wikidata_property: crystal system
 Commons_category: Crystal structures
 Wolfram_Language_entity_type: CrystalSystem

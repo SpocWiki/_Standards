@@ -73,20 +73,20 @@ aliases:
 - 후식
 has_id_wikidata: Q182940
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~dish,746549]]'
-- '[[_Standards/WikiData/WD~sweet_dish,2382369]]'
-- '[[_Standards/WikiData/WD~course,14915034]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~dish,746549|WD~dish,746549]]'
+- '[[_Standards/WikiData/WD~sweet_dish,2382369|WD~sweet_dish,2382369]]'
+- '[[_Standards/WikiData/WD~course,14915034|WD~course,14915034]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
 follows:
-- '[[_Standards/WikiData/WD~main_course,772630]]'
-- '[[_Standards/WikiData/WD~entremet,2189995]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
-followed_by: '[[_Standards/WikiData/WD~coffee,8486]]'
+- '[[_Standards/WikiData/WD~main_course,772630|WD~main_course,772630]]'
+- '[[_Standards/WikiData/WD~entremet,2189995|WD~entremet,2189995]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951|WD~type_of_food_or_dish,19861951]]'
+followed_by: '[[_Standards/WikiData/WD~coffee,8486|WD~coffee,8486]]'
 IAB_code: 217
 OmegaWiki_Defined_Meaning: 395282
 booru_tag: dessert

@@ -54,20 +54,20 @@ aliases:
 - 豬油
 - 라드
 has_id_wikidata: Q72827
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~animal_fats_and_oils,1423543]]'
-- '[[_Standards/WikiData/WD~fat_spread,1727434]]'
-- '[[_Standards/WikiData/WD~dripping,17105036]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~animal_fats_and_oils,1423543|WD~animal_fats_and_oils,1423543]]'
+- '[[_Standards/WikiData/WD~fat_spread,1727434|WD~fat_spread,1727434]]'
+- '[[_Standards/WikiData/WD~dripping,17105036|WD~dripping,17105036]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
 different_from:
-- '[[_Standards/WikiData/WD~Schmalz,2245809]]'
-- '[[_Standards/WikiData/WD~Lard,6488820]]'
-- '[[_Standards/WikiData/WD~Sádlo,12058017]]'
+- '[[_Standards/WikiData/WD~Schmalz,2245809|WD~Schmalz,2245809]]'
+- '[[_Standards/WikiData/WD~Lard,6488820|WD~Lard,6488820]]'
+- '[[_Standards/WikiData/WD~Sádlo,12058017|WD~Sádlo,12058017]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~fatback,5437342]]'
-- '[[_Standards/WikiData/WD~carbon,623]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~fatback,5437342|WD~fatback,5437342]]'
+- '[[_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
 CosIng_number: 31372
 USDA_NDB_number: 04002
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Homelard.jpg

@@ -47,16 +47,16 @@ aliases:
 - 도시설계
 has_id_wikidata: Q63100
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~urban_planning,69883]]'
-- '[[_Standards/WikiData/WD~architecture,12271]]'
-subclass_of: '[[_Standards/WikiData/WD~design,82604]]'
+- '[[_Standards/WikiData/WD~urban_planning,69883|WD~urban_planning,69883]]'
+- '[[_Standards/WikiData/WD~architecture,12271|WD~architecture,12271]]'
+subclass_of: '[[_Standards/WikiData/WD~design,82604|WD~design,82604]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-studied_by: '[[_Standards/WikiData/WD~urban_studies,23578769]]'
-practiced_by: '[[_Standards/WikiData/WD~urban_designer,84308440]]'
-uses: '[[_Standards/WikiData/WD~urbanism,59950]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+studied_by: '[[_Standards/WikiData/WD~urban_studies,23578769|WD~urban_studies,23578769]]'
+practiced_by: '[[_Standards/WikiData/WD~urban_designer,84308440|WD~urban_designer,84308440]]'
+uses: '[[_Standards/WikiData/WD~urbanism,59950|WD~urbanism,59950]]'
 Commons_category: Urban design
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Dise%C3%B1o%20urbano-article.ogg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20JEP%20%28Madehub%29-am%C3%A9nagement%20urbain.wav

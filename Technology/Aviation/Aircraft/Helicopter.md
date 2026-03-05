@@ -97,25 +97,25 @@ aliases:
 - 直升機
 - 헬리콥터
 has_id_wikidata: Q34486
-has_use: '[[_Standards/WikiData/WD~aviation,765633]]'
-subclass_of: '[[_Standards/WikiData/WD~rotorcraft,949801]]'
-different_from: '[[_Standards/WikiData/WD~gyrodyne,1258304]]'
-item_operated: '[[_Standards/WikiData/WD~helicopter_rotor,1343028]]'
+has_use: '[[_Standards/WikiData/WD~aviation,765633|WD~aviation,765633]]'
+subclass_of: '[[_Standards/WikiData/WD~rotorcraft,949801|WD~rotorcraft,949801]]'
+different_from: '[[_Standards/WikiData/WD~gyrodyne,1258304|WD~gyrodyne,1258304]]'
+item_operated: '[[_Standards/WikiData/WD~helicopter_rotor,1343028|WD~helicopter_rotor,1343028]]'
 operator:
-- '[[_Standards/WikiData/WD~army_aviation_component,1593564]]'
-- '[[_Standards/WikiData/WD~air_force,61883]]'
+- '[[_Standards/WikiData/WD~army_aviation_component,1593564|WD~army_aviation_component,1593564]]'
+- '[[_Standards/WikiData/WD~air_force,61883|WD~air_force,61883]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~The_Complete_Encyclopedia_of_Flight_1848_1939,_Chartwell_Edition,15058267]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~The_Complete_Encyclopedia_of_Flight_1848_1939,_Chartwell_Edition,15058267|WD~The_Complete_Encyclopedia_of_Flight_1848_1939,_Chartwell_Edition,15058267]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 629.133352
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_helicopter,14385255]]'
-- '[[_Standards/WikiData/WD~Template_Helicopters_and_rotorcraft,22744761]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q14614572,14614572]]'
-instance_of: '[[_Standards/WikiData/WD~aircraft_lift_class,20026879]]'
-used_by: '[[_Standards/WikiData/WD~helicopter_in_service,24175396]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_helicopter,14385255|WD~Template_Infobox_helicopter,14385255]]'
+- '[[_Standards/WikiData/WD~Template_Helicopters_and_rotorcraft,22744761|WD~Template_Helicopters_and_rotorcraft,22744761]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q14614572,14614572|WD~Q14614572,14614572]]'
+instance_of: '[[_Standards/WikiData/WD~aircraft_lift_class,20026879|WD~aircraft_lift_class,20026879]]'
+used_by: '[[_Standards/WikiData/WD~helicopter_in_service,24175396|WD~helicopter_in_service,24175396]]'
 military_designation:
 - H
 - VH

@@ -68,17 +68,17 @@ aliases:
 - 탄성
 has_id_wikidata: Q62932
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-studied_by: '[[_Standards/WikiData/WD~elasticity_theory,1913277]]'
-subclass_of: '[[_Standards/WikiData/WD~thermodynamic_material_property,3523867]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+studied_by: '[[_Standards/WikiData/WD~elasticity_theory,1913277|WD~elasticity_theory,1913277]]'
+subclass_of: '[[_Standards/WikiData/WD~thermodynamic_material_property,3523867|WD~thermodynamic_material_property,3523867]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~anelasticity,3616586]]'
-- '[[_Standards/WikiData/WD~softness,12894628]]'
-instance_of: '[[_Standards/WikiData/WD~mechanical_properties_of_fiber,4292136]]'
-has_use: '[[_Standards/WikiData/WD~mechanical_function,45914364]]'
+- '[[_Standards/WikiData/WD~anelasticity,3616586|WD~anelasticity,3616586]]'
+- '[[_Standards/WikiData/WD~softness,12894628|WD~softness,12894628]]'
+instance_of: '[[_Standards/WikiData/WD~mechanical_properties_of_fiber,4292136|WD~mechanical_properties_of_fiber,4292136]]'
+has_use: '[[_Standards/WikiData/WD~mechanical_function,45914364|WD~mechanical_function,45914364]]'
 OmegaWiki_Defined_Meaning: 1104
 Commons_category: Elasticity
 UMLS_CUI: C0013764

@@ -128,17 +128,17 @@ aliases:
 - 보트
 has_id_wikidata: Q35872
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~watercraft,1229765]]'
-- '[[_Standards/WikiData/WD~vehicle,42889]]'
+- '[[_Standards/WikiData/WD~watercraft,1229765|WD~watercraft,1229765]]'
+- '[[_Standards/WikiData/WD~vehicle,42889|WD~vehicle,42889]]'
 instance_of:
-- '[[_Standards/WikiData/WD~boat_type,16103215]]'
-- '[[_Standards/WikiData/WD~watercraft_type,16335899]]'
-different_from: '[[_Standards/WikiData/WD~ship,11446]]'
+- '[[_Standards/WikiData/WD~boat_type,16103215|WD~boat_type,16103215]]'
+- '[[_Standards/WikiData/WD~watercraft_type,16335899|WD~watercraft_type,16335899]]'
+different_from: '[[_Standards/WikiData/WD~ship,11446|WD~ship,11446]]'
 OmegaWiki_Defined_Meaning: 7774
 social_media_followers: 14233
 Nomenclature_for_Museum_Cataloging: 12600

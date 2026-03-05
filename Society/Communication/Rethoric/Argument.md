@@ -52,18 +52,18 @@ aliases:
 - 논증
 has_id_wikidata: Q186619
 subclass_of:
-- '[[_Standards/WikiData/WD~discourse,190539]]'
-- '[[_Standards/WikiData/WD~message,628523]]'
-different_from: '[[_Standards/WikiData/WD~argument,651343]]'
+- '[[_Standards/WikiData/WD~discourse,190539|WD~discourse,190539]]'
+- '[[_Standards/WikiData/WD~message,628523|WD~message,628523]]'
+different_from: '[[_Standards/WikiData/WD~argument,651343|WD~argument,651343]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-has_characteristic: '[[_Standards/WikiData/WD~validity,1047000]]'
-has_goal: '[[_Standards/WikiData/WD~persuasion,1231428]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12359534,12359534]]'
-has_part_s_: '[[_Standards/WikiData/WD~claim,95972591]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+has_characteristic: '[[_Standards/WikiData/WD~validity,1047000|WD~validity,1047000]]'
+has_goal: '[[_Standards/WikiData/WD~persuasion,1231428|WD~persuasion,1231428]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12359534,12359534|WD~Q12359534,12359534]]'
+has_part_s_: '[[_Standards/WikiData/WD~claim,95972591|WD~claim,95972591]]'
 Dewey_Decimal_Classification: 168
 IMDb_keyword: argument
 PhilPapers_topic: argument

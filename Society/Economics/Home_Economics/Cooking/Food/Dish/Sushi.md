@@ -59,22 +59,22 @@ aliases:
 - 鮨
 - 스시
 has_id_wikidata: Q46383
-cuisine: '[[_Standards/WikiData/WD~Japanese_cuisine,234138]]'
-serving_temperature: '[[_Standards/WikiData/WD~cold,270952]]'
+cuisine: '[[_Standards/WikiData/WD~Japanese_cuisine,234138|WD~Japanese_cuisine,234138]]'
+serving_temperature: '[[_Standards/WikiData/WD~cold,270952|WD~cold,270952]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Japanese_rice_dish,1683302]]'
-- '[[_Standards/WikiData/WD~seafood_dish,11559422]]'
-- '[[_Standards/WikiData/WD~raw_fish_dish,44480854]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_sushi,6307500]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Sushi,8084738]]'
-has_part_s_: '[[_Standards/WikiData/WD~sumeshi,10861403]]'
+- '[[_Standards/WikiData/WD~Japanese_rice_dish,1683302|WD~Japanese_rice_dish,1683302]]'
+- '[[_Standards/WikiData/WD~seafood_dish,11559422|WD~seafood_dish,11559422]]'
+- '[[_Standards/WikiData/WD~raw_fish_dish,44480854|WD~raw_fish_dish,44480854]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_sushi,6307500|WD~history_of_sushi,6307500]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Sushi,8084738|WD~Template_Sushi,8084738]]'
+has_part_s_: '[[_Standards/WikiData/WD~sumeshi,10861403|WD~sumeshi,10861403]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~sumeshi,10861403]]'
-- '[[_Standards/WikiData/WD~raw_fish,44480852]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
-different_from: '[[_Standards/WikiData/WD~onigiri,13393]]'
-indigenous_to: '[[_Standards/WikiData/WD~Japan,17]]'
-country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~sumeshi,10861403|WD~sumeshi,10861403]]'
+- '[[_Standards/WikiData/WD~raw_fish,44480852|WD~raw_fish,44480852]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951|WD~type_of_food_or_dish,19861951]]'
+different_from: '[[_Standards/WikiData/WD~onigiri,13393|WD~onigiri,13393]]'
+indigenous_to: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
 OmegaWiki_Defined_Meaning: 7908
 Commons_gallery: Sushi
 Commons_category: Sushi

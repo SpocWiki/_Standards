@@ -41,16 +41,16 @@ aliases:
 - 법
 has_id_wikidata: Q134293
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Dharma_Encyclopedia,122625783]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Dharma_Encyclopedia,122625783|WD~Dharma_Encyclopedia,122625783]]'
 different_from:
-- '[[_Standards/WikiData/WD~dharma_in_Buddhism,9241518]]'
-- '[[_Standards/WikiData/WD~religion,9174]]'
-instance_of: '[[_Standards/WikiData/WD~religious_concept,23847174]]'
+- '[[_Standards/WikiData/WD~dharma_in_Buddhism,9241518|WD~dharma_in_Buddhism,9241518]]'
+- '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
+instance_of: '[[_Standards/WikiData/WD~religious_concept,23847174|WD~religious_concept,23847174]]'
 facet_of:
-- '[[_Standards/WikiData/WD~Buddhism,748]]'
-- '[[_Standards/WikiData/WD~Hinduism,9089]]'
+- '[[_Standards/WikiData/WD~Buddhism,748|WD~Buddhism,748]]'
+- '[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]'
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Dharma.ogg
 Commons_category: Dharma (law)
 Krugosvet_article:

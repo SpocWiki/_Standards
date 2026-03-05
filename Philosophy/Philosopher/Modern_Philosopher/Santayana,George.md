@@ -22,55 +22,55 @@ aliases:
 - 조지 산타야나
 has_id_wikidata: Q237833
 educated_at:
-- '[[_Standards/WikiData/WD~Humboldt-Universität_zu_Berlin,152087]]'
-- "[[_Standards/WikiData/WD~King's_College,924289]]"
-- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
-- '[[_Standards/WikiData/WD~Harvard_College,49123]]'
-- '[[_Standards/WikiData/WD~Boston_Latin_School,49129]]'
-cause_of_death: '[[_Standards/WikiData/WD~stomach_cancer,189588]]'
+- '[[_Standards/WikiData/WD~Humboldt-Universität_zu_Berlin,152087|WD~Humboldt-Universität_zu_Berlin,152087]]'
+- "[[_Standards/WikiData/WD~King's_College,924289|WD~King's_College,924289]]"
+- '[[_Standards/WikiData/WD~Harvard_University,13371|WD~Harvard_University,13371]]'
+- '[[_Standards/WikiData/WD~Harvard_College,49123|WD~Harvard_College,49123]]'
+- '[[_Standards/WikiData/WD~Boston_Latin_School,49129|WD~Boston_Latin_School,49129]]'
+cause_of_death: '[[_Standards/WikiData/WD~stomach_cancer,189588|WD~stomach_cancer,189588]]'
 member_of:
-- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
-- '[[_Standards/WikiData/WD~Phi_Beta_Kappa_Society,1938003]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Christian_atheism,620016]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281|WD~American_Academy_of_Arts_and_Letters,463281]]'
+- '[[_Standards/WikiData/WD~Phi_Beta_Kappa_Society,1938003|WD~Phi_Beta_Kappa_Society,1938003]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christian_atheism,620016|WD~Christian_atheism,620016]]'
 occupation:
-- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-- '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- '[[_Standards/WikiData/WD~novelist,6625963]]'
-- '[[_Standards/WikiData/WD~essayist,11774202]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-- '[[_Standards/WikiData/WD~poet,49757]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272|WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~novelist,6625963|WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~essayist,11774202|WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757|WD~poet,49757]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
 residence:
-- '[[_Standards/WikiData/WD~Beacon_Street,4875985]]'
-- '[[_Standards/WikiData/WD~Ávila,15688]]'
-place_of_birth: '[[_Standards/WikiData/WD~San_Bernardo_street,5740864]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-given_name: '[[_Standards/WikiData/WD~George,15921732]]'
+- '[[_Standards/WikiData/WD~Beacon_Street,4875985|WD~Beacon_Street,4875985]]'
+- '[[_Standards/WikiData/WD~Ávila,15688|WD~Ávila,15688]]'
+place_of_birth: '[[_Standards/WikiData/WD~San_Bernardo_street,5740864|WD~San_Bernardo_street,5740864]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~George,15921732|WD~George,15921732]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]'
-- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-family_name: '[[_Standards/WikiData/WD~Santayana,37478147]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-father: '[[_Standards/WikiData/WD~Agustín_Ruiz_de_Santayana,109424692]]'
-mother: '[[_Standards/WikiData/WD~Josefina_Borrás,113003707]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135|WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835|WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+family_name: '[[_Standards/WikiData/WD~Santayana,37478147|WD~Santayana,37478147]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
+father: '[[_Standards/WikiData/WD~Agustín_Ruiz_de_Santayana,109424692|WD~Agustín_Ruiz_de_Santayana,109424692]]'
+mother: '[[_Standards/WikiData/WD~Josefina_Borrás,113003707|WD~Josefina_Borrás,113003707]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]'
-- '[[_Standards/WikiData/WD~poetry,482]]'
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~creative_and_professional_writing,113209507|WD~creative_and_professional_writing,113209507]]'
+- '[[_Standards/WikiData/WD~poetry,482|WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 date_of_birth: 1863-12-16T00:00:00Z
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
-employer: '[[_Standards/WikiData/WD~Harvard_University,13371]]'
-place_of_burial: '[[_Standards/WikiData/WD~Campo_Verano,27426]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Spain,29]]'
-place_of_death: '[[_Standards/WikiData/WD~Rome,220]]'
-nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+employer: '[[_Standards/WikiData/WD~Harvard_University,13371|WD~Harvard_University,13371]]'
+place_of_burial: '[[_Standards/WikiData/WD~Campo_Verano,27426|WD~Campo_Verano,27426]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+place_of_death: '[[_Standards/WikiData/WD~Rome,220|WD~Rome,220]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922|WD~Nobel_Prize_in_Literature,37922]]'
 pseudonym: George Santayana
 Commons_category: George Santayana
 P1015: 90136716
@@ -171,7 +171,7 @@ dv_has_:
 
 # [[Santayana,George]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~George_Santayana,237833]] 
+#is_/same_as :: [[_Standards/WikiData/WD~George_Santayana,237833|WD~George_Santayana,237833]] 
 
 #has_/created_/quote :: Those who cannot remember the past are condemned to repeat it. 
 This sentence was written by **George Santayana** in **1905 CE** in _The Life of Reason, Volume 1_.

@@ -59,19 +59,19 @@ aliases:
 - 微積分基本定理
 - 미적분학의 기본 정리
 has_id_wikidata: Q1217677
-instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
-studied_by: '[[_Standards/WikiData/WD~calculus,149972]]'
-facet_of: '[[_Standards/WikiData/WD~calculus,149972]]'
-subclass_of: "[[_Standards/WikiData/WD~Stokes'_theorem,467756]]"
-part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
-different_from: '[[_Standards/WikiData/WD~differentiation_and_integration,4027286]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~theorem,65943|WD~theorem,65943]]'
+studied_by: '[[_Standards/WikiData/WD~calculus,149972|WD~calculus,149972]]'
+facet_of: '[[_Standards/WikiData/WD~calculus,149972|WD~calculus,149972]]'
+subclass_of: "[[_Standards/WikiData/WD~Stokes'_theorem,467756|WD~Stokes'_theorem,467756]]"
+part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443|WD~list_of_theorems,944443]]'
+different_from: '[[_Standards/WikiData/WD~differentiation_and_integration,4027286|WD~differentiation_and_integration,4027286]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 main_subject:
-- '[[_Standards/WikiData/WD~first_fundamental_theorem_of_calculus,116450161]]'
-- '[[_Standards/WikiData/WD~second_fundamental_theorem_of_calculus,116450178]]'
+- '[[_Standards/WikiData/WD~first_fundamental_theorem_of_calculus,116450161|WD~first_fundamental_theorem_of_calculus,116450161]]'
+- '[[_Standards/WikiData/WD~second_fundamental_theorem_of_calculus,116450178|WD~second_fundamental_theorem_of_calculus,116450178]]'
 named_after:
-- '[[_Standards/WikiData/WD~Isaac_Newton,935]]'
-- '[[_Standards/WikiData/WD~Gottfried_Wilhelm_Leibniz,9047]]'
+- '[[_Standards/WikiData/WD~Isaac_Newton,935|WD~Isaac_Newton,935]]'
+- '[[_Standards/WikiData/WD~Gottfried_Wilhelm_Leibniz,9047|WD~Gottfried_Wilhelm_Leibniz,9047]]'
 short_name: HDI
 Commons_category: Fundamental theorem of calculus
 dv_has_:

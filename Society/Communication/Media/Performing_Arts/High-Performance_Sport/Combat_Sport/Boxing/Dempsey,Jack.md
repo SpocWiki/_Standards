@@ -26,31 +26,31 @@ aliases:
 - 杰克·登普西
 - 잭 뎀시
 has_id_wikidata: Q313686
-cause_of_death: '[[_Standards/WikiData/WD~heart_failure,181754]]'
+cause_of_death: '[[_Standards/WikiData/WD~heart_failure,181754|WD~heart_failure,181754]]'
 occupation:
-- '[[_Standards/WikiData/WD~military_officer,189290]]'
-- '[[_Standards/WikiData/WD~film_actor,10800557]]'
-- '[[_Standards/WikiData/WD~boxer,11338576]]'
-- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~military_officer,189290|WD~military_officer,189290]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~boxer,11338576|WD~boxer,11338576]]'
+- '[[_Standards/WikiData/WD~actor,33999|WD~actor,33999]]'
 sports_discipline_competed_in:
-- '[[_Standards/WikiData/WD~heavyweight,281678]]'
-- '[[_Standards/WikiData/WD~light_heavyweight,1004748]]'
-- '[[_Standards/WikiData/WD~boxing,32112]]'
-spouse: '[[_Standards/WikiData/WD~Estelle_Taylor,439655]]'
-given_name: '[[_Standards/WikiData/WD~Jack,1159009]]'
-different_from: '[[_Standards/WikiData/WD~Nonpareil_Dempsey,1440806]]'
-place_of_birth: '[[_Standards/WikiData/WD~Manassa,2306710]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-family_name: '[[_Standards/WikiData/WD~Q16774952,16774952]]'
+- '[[_Standards/WikiData/WD~heavyweight,281678|WD~heavyweight,281678]]'
+- '[[_Standards/WikiData/WD~light_heavyweight,1004748|WD~light_heavyweight,1004748]]'
+- '[[_Standards/WikiData/WD~boxing,32112|WD~boxing,32112]]'
+spouse: '[[_Standards/WikiData/WD~Estelle_Taylor,439655|WD~Estelle_Taylor,439655]]'
+given_name: '[[_Standards/WikiData/WD~Jack,1159009|WD~Jack,1159009]]'
+different_from: '[[_Standards/WikiData/WD~Nonpareil_Dempsey,1440806|WD~Nonpareil_Dempsey,1440806]]'
+place_of_birth: '[[_Standards/WikiData/WD~Manassa,2306710|WD~Manassa,2306710]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Q16774952,16774952|WD~Q16774952,16774952]]'
 date_of_birth: 1895-06-24T00:00:00Z
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-native_language: '[[_Standards/WikiData/WD~English,1860]]'
-sport: '[[_Standards/WikiData/WD~boxing,32112]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
-place_of_death: '[[_Standards/WikiData/WD~New_York_City,60]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+sport: '[[_Standards/WikiData/WD~boxing,32112|WD~boxing,32112]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
 mass: 87
 height: 185
 Commons_category: Jack Dempsey

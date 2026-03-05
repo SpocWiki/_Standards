@@ -40,63 +40,63 @@ aliases:
 - 짐 캐리
 has_id_wikidata: Q40504
 unmarried_partner:
-- '[[_Standards/WikiData/WD~Renée_Zellweger,122614]]'
-- '[[_Standards/WikiData/WD~Jenny_McCarthy,230993]]'
-- '[[_Standards/WikiData/WD~Ginger_Gonzaga,66313855]]'
-- '[[_Standards/WikiData/WD~Laurie_Holden,18947]]'
-medical_condition: '[[_Standards/WikiData/WD~dyslexia,132971]]'
+- '[[_Standards/WikiData/WD~Renée_Zellweger,122614|WD~Renée_Zellweger,122614]]'
+- '[[_Standards/WikiData/WD~Jenny_McCarthy,230993|WD~Jenny_McCarthy,230993]]'
+- '[[_Standards/WikiData/WD~Ginger_Gonzaga,66313855|WD~Ginger_Gonzaga,66313855]]'
+- '[[_Standards/WikiData/WD~Laurie_Holden,18947|WD~Laurie_Holden,18947]]'
+medical_condition: '[[_Standards/WikiData/WD~dyslexia,132971|WD~dyslexia,132971]]'
 spouse:
-- '[[_Standards/WikiData/WD~Lauren_Holly,229560]]'
-- '[[_Standards/WikiData/WD~Melissa_Womer,47003901]]'
+- '[[_Standards/WikiData/WD~Lauren_Holly,229560|WD~Lauren_Holly,229560]]'
+- '[[_Standards/WikiData/WD~Melissa_Womer,47003901|WD~Melissa_Womer,47003901]]'
 occupation:
-- '[[_Standards/WikiData/WD~comedian,245068]]'
-- '[[_Standards/WikiData/WD~painter,1028181]]'
-- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
-- '[[_Standards/WikiData/WD~film_producer,3282637]]'
-- '[[_Standards/WikiData/WD~television_actor,10798782]]'
-- '[[_Standards/WikiData/WD~film_actor,10800557]]'
-- '[[_Standards/WikiData/WD~stand_up_comedian,18545066]]'
-- '[[_Standards/WikiData/WD~screenwriter,28389]]'
-- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~comedian,245068|WD~comedian,245068]]'
+- '[[_Standards/WikiData/WD~painter,1028181|WD~painter,1028181]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480|WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637|WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782|WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~stand_up_comedian,18545066|WD~stand_up_comedian,18545066]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389|WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999|WD~actor,33999]]'
 award_received:
-- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Kiss,257235]]'
-- '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
-- "[[_Standards/WikiData/WD~Canada's_Walk_of_Fame,857933]]"
-- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Comedic_Performance,905247]]'
-- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Breakthrough_Performance,1062019]]'
-- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Villain,1062026]]'
-- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Male_Performance,4220901]]'
-- '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Kiss,257235|WD~MTV_Movie_Award_for_Best_Kiss,257235]]'
+- '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909|WD~Ordre_des_Arts_et_des_Lettres,716909]]'
+- "[[_Standards/WikiData/WD~Canada's_Walk_of_Fame,857933|WD~Canada's_Walk_of_Fame,857933]]"
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Comedic_Performance,905247|WD~MTV_Movie_Award_for_Best_Comedic_Performance,905247]]'
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Breakthrough_Performance,1062019|WD~MTV_Movie_Award_for_Best_Breakthrough_Performance,1062019]]'
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Villain,1062026|WD~MTV_Movie_Award_for_Best_Villain,1062026]]'
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Male_Performance,4220901|WD~MTV_Movie_Award_for_Best_Male_Performance,4220901]]'
+- '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528|WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
 given_name:
-- '[[_Standards/WikiData/WD~Eugene,545971]]'
-- '[[_Standards/WikiData/WD~James,677191]]'
-residence: '[[_Standards/WikiData/WD~Brentwood,909975]]'
+- '[[_Standards/WikiData/WD~Eugene,545971|WD~Eugene,545971]]'
+- '[[_Standards/WikiData/WD~James,677191|WD~James,677191]]'
+residence: '[[_Standards/WikiData/WD~Brentwood,909975|WD~Brentwood,909975]]'
 educated_at:
-- '[[_Standards/WikiData/WD~Agincourt_Collegiate_Institute,4692571]]'
-- '[[_Standards/WikiData/WD~Aldershot_School,4713737]]'
-- '[[_Standards/WikiData/WD~Northview_Heights_Secondary_School,7059860]]'
-- '[[_Standards/WikiData/WD~Blessed_Trinity_Catholic_School,54862860]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-filmography: '[[_Standards/WikiData/WD~Jim_Carrey_filmography,12728283]]'
-eye_color: '[[_Standards/WikiData/WD~dark_brown,17244894]]'
-child: '[[_Standards/WikiData/WD~Jane_Carrey,27445213]]'
-hair_color: '[[_Standards/WikiData/WD~dark_brown_hair,28961883]]'
-family_name: '[[_Standards/WikiData/WD~Carrey,37435654]]'
-father: '[[_Standards/WikiData/WD~Percy_Carrey,42720174]]'
-mother: '[[_Standards/WikiData/WD~Kathleen_Carrey,42720450]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
-native_language: '[[_Standards/WikiData/WD~English,1860]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~Agincourt_Collegiate_Institute,4692571|WD~Agincourt_Collegiate_Institute,4692571]]'
+- '[[_Standards/WikiData/WD~Aldershot_School,4713737|WD~Aldershot_School,4713737]]'
+- '[[_Standards/WikiData/WD~Northview_Heights_Secondary_School,7059860|WD~Northview_Heights_Secondary_School,7059860]]'
+- '[[_Standards/WikiData/WD~Blessed_Trinity_Catholic_School,54862860|WD~Blessed_Trinity_Catholic_School,54862860]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+filmography: '[[_Standards/WikiData/WD~Jim_Carrey_filmography,12728283|WD~Jim_Carrey_filmography,12728283]]'
+eye_color: '[[_Standards/WikiData/WD~dark_brown,17244894|WD~dark_brown,17244894]]'
+child: '[[_Standards/WikiData/WD~Jane_Carrey,27445213|WD~Jane_Carrey,27445213]]'
+hair_color: '[[_Standards/WikiData/WD~dark_brown_hair,28961883|WD~dark_brown_hair,28961883]]'
+family_name: '[[_Standards/WikiData/WD~Carrey,37435654|WD~Carrey,37435654]]'
+father: '[[_Standards/WikiData/WD~Percy_Carrey,42720174|WD~Percy_Carrey,42720174]]'
+mother: '[[_Standards/WikiData/WD~Kathleen_Carrey,42720450|WD~Kathleen_Carrey,42720450]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 number_of_children: 1
 social_media_followers:
 - 15700
 - 18924138
-place_of_birth: '[[_Standards/WikiData/WD~Newmarket,52999]]'
+place_of_birth: '[[_Standards/WikiData/WD~Newmarket,52999|WD~Newmarket,52999]]'
 pseudonym: Jim Carrey
 Commons_category: Jim Carrey
 birth_name: James Eugene Carrey
@@ -278,7 +278,7 @@ dv_has_:
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 #has_/nationality :: [[../../../../../../../Earth/Continent/America~North/Canada|Canada]] 
 
-![[../../../../../../../../assets/Pictures/People/Public/330px-Jim_Carrey_2008.jpg]] 
+![[../../../../../../../../assets/Pictures/People/Public/330px-Jim_Carrey_2008.jpg|330px-Jim_Carrey_2008.jpg]] 
 
 > James Eugene Carrey (born January 17, 1962) is a Canadian-American actor 
 > and comedian known for his energetic slapstick performances. 
@@ -311,7 +311,7 @@ dv_has_:
 > winning Golden Globe Awards for each film. 
 > 
 > He later starred in the psychological 
-> science fiction romantic drama film [[../../Movie-Roles/Eternal_Sunshine_of_the_Spotless_Mind]] (2004); 
+> science fiction romantic drama film [[../../Movie-Roles/Eternal_Sunshine_of_the_Spotless_Mind|Eternal_Sunshine_of_the_Spotless_Mind]] (2004); 
 > for which he was nominated for both a BAFTA Award and another Golden Globe Award. 
 > 
 > He also starred as Jeff Piccirillo in the Showtime tragicomedy series Kidding (2018–2020), 

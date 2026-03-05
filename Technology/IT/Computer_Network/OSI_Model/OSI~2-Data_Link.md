@@ -44,15 +44,15 @@ aliases:
 - 資料連結層
 - 데이터 링크 계층
 has_id_wikidata: Q194134
-part_of: '[[_Standards/WikiData/WD~OSI_model,93312]]'
+part_of: '[[_Standards/WikiData/WD~OSI_model,93312|WD~OSI_model,93312]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~logical_link_control,126998]]'
-- '[[_Standards/WikiData/WD~medium_access_control,3295108]]'
-follows: '[[_Standards/WikiData/WD~physical_layer,192727]]'
-followed_by: '[[_Standards/WikiData/WD~network_layer,208074]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~link_layer,2891044]]'
-instance_of: '[[_Standards/WikiData/WD~OSI_model_layer,65054805]]'
-standards_body: '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]'
+- '[[_Standards/WikiData/WD~logical_link_control,126998|WD~logical_link_control,126998]]'
+- '[[_Standards/WikiData/WD~medium_access_control,3295108|WD~medium_access_control,3295108]]'
+follows: '[[_Standards/WikiData/WD~physical_layer,192727|WD~physical_layer,192727]]'
+followed_by: '[[_Standards/WikiData/WD~network_layer,208074|WD~network_layer,208074]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~link_layer,2891044|WD~link_layer,2891044]]'
+instance_of: '[[_Standards/WikiData/WD~OSI_model_layer,65054805|WD~OSI_model_layer,65054805]]'
+standards_body: '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028|WD~International_Organization_for_Standardization,15028]]'
 official_website: https://www.iso.org/ics/35.100.20/x/
 Stack_Exchange_tag:
 - https://networkengineering.stackexchange.com/tags/layer2
@@ -122,7 +122,7 @@ dv_has_:
 
 # [[OSI~2-Data_Link]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~data_link_layer,194134]] 
+#is_/same_as :: [[_Standards/WikiData/WD~data_link_layer,194134|WD~data_link_layer,194134]] 
 
 ## #has_/text_of_/abstract 
 

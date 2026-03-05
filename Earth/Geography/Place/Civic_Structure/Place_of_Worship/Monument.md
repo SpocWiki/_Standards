@@ -72,25 +72,25 @@ aliases:
 - 기념물
 has_id_wikidata: Q4989906
 subclass_of:
-- '[[_Standards/WikiData/WD~statue,179700]]'
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~work_of_art,838948]]'
-part_of: '[[_Standards/WikiData/WD~cultural_heritage,210272]]'
+- '[[_Standards/WikiData/WD~statue,179700|WD~statue,179700]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948|WD~work_of_art,838948]]'
+part_of: '[[_Standards/WikiData/WD~cultural_heritage,210272|WD~cultural_heritage,210272]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~memorial,5003624]]'
-- '[[_Standards/WikiData/WD~monument,20820251]]'
+- '[[_Standards/WikiData/WD~memorial,5003624|WD~memorial,5003624]]'
+- '[[_Standards/WikiData/WD~monument,20820251|WD~monument,20820251]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_monument,5900171]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_monument,13413882]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q10051626,10051626]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_monument,5900171|WD~Template_Infobox_monument,5900171]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_monument,13413882|WD~Template_Infobox_monument,13413882]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q10051626,10051626|WD~Q10051626,10051626]]'
 different_from:
-- '[[_Standards/WikiData/WD~memorial_stone,11734477]]'
-- '[[_Standards/WikiData/WD~Memorial_building,63627448]]'
+- '[[_Standards/WikiData/WD~memorial_stone,11734477|WD~memorial_stone,11734477]]'
+- '[[_Standards/WikiData/WD~Memorial_building,63627448|WD~Memorial_building,63627448]]'
 properties_for_this_type:
 - location
 - designed by
@@ -115,7 +115,7 @@ GeoNames_feature_code: S.MNMT
 OpenStreetMap_tag_or_key: Tag:historic=monument
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~monument,4989906]]'
+  - '[[_Standards/WikiData/WD~monument,4989906|WD~monument,4989906]]'
   - '[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument|Monument]]'
   - '[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.public|Monument.public]]'
   - '[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.internal|Monument.internal]]'
@@ -124,7 +124,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.personal|Monument.personal]]'
   - '[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.secret|Monument.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~monument,4989906]]'
+- '[[_Standards/WikiData/WD~monument,4989906|WD~monument,4989906]]'
 - '[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument|Monument]]'
 - '[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.public|Monument.public]]'
 - '[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.internal|Monument.internal]]'
@@ -253,7 +253,7 @@ dv_has_:
 
 # [[Monument]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~monument,4989906]] 
+#is_/same_as :: [[_Standards/WikiData/WD~monument,4989906|WD~monument,4989906]] 
 
 ## #has_/text_of_/abstract 
 

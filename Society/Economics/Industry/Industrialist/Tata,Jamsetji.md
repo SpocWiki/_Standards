@@ -42,32 +42,32 @@ aliases:
 - 贾姆希德吉·塔塔
 - 잠셋지 타타
 has_id_wikidata: Q320109
-occupation: '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+occupation: '[[_Standards/WikiData/WD~entrepreneur,131524|WD~entrepreneur,131524]]'
 educated_at:
-- '[[_Standards/WikiData/WD~University_of_Mumbai,406402]]'
-- '[[_Standards/WikiData/WD~Elphinstone_College,1333283]]'
+- '[[_Standards/WikiData/WD~University_of_Mumbai,406402|WD~University_of_Mumbai,406402]]'
+- '[[_Standards/WikiData/WD~Elphinstone_College,1333283|WD~Elphinstone_College,1333283]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_second_supplement,16014697]]'
-place_of_burial: '[[_Standards/WikiData/WD~Brookwood_Cemetery,990618]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_second_supplement,16014697|WD~Dictionary_of_National_Biography,_second_supplement,16014697]]'
+place_of_burial: '[[_Standards/WikiData/WD~Brookwood_Cemetery,990618|WD~Brookwood_Cemetery,990618]]'
 child:
-- '[[_Standards/WikiData/WD~Dorabji_Tata,1243687]]'
-- '[[_Standards/WikiData/WD~Ratanji_Tata,4664507]]'
-place_of_birth: '[[_Standards/WikiData/WD~Navsari,1922248]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-family_name: '[[_Standards/WikiData/WD~Tata,37046371]]'
-father: '[[_Standards/WikiData/WD~Nusserwanji_Ratan_Tata,106272275]]'
-mother: '[[_Standards/WikiData/WD~Jeevanbai_Tata,106272276]]'
-spouse: '[[_Standards/WikiData/WD~Hirabai_Daboo,106272720]]'
+- '[[_Standards/WikiData/WD~Dorabji_Tata,1243687|WD~Dorabji_Tata,1243687]]'
+- '[[_Standards/WikiData/WD~Ratanji_Tata,4664507|WD~Ratanji_Tata,4664507]]'
+place_of_birth: '[[_Standards/WikiData/WD~Navsari,1922248|WD~Navsari,1922248]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Tata,37046371|WD~Tata,37046371]]'
+father: '[[_Standards/WikiData/WD~Nusserwanji_Ratan_Tata,106272275|WD~Nusserwanji_Ratan_Tata,106272275]]'
+mother: '[[_Standards/WikiData/WD~Jeevanbai_Tata,106272276|WD~Jeevanbai_Tata,106272276]]'
+spouse: '[[_Standards/WikiData/WD~Hirabai_Daboo,106272720|WD~Hirabai_Daboo,106272720]]'
 date_of_birth: 1839-03-03T00:00:00Z
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Gujarati,5137]]'
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~British_Empire,8680]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Zoroastrianism,9601]]'
-place_of_death: '[[_Standards/WikiData/WD~Bad_Nauheim,16105]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Gujarati,5137|WD~Gujarati,5137]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~British_Empire,8680|WD~British_Empire,8680]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Zoroastrianism,9601|WD~Zoroastrianism,9601]]'
+place_of_death: '[[_Standards/WikiData/WD~Bad_Nauheim,16105|WD~Bad_Nauheim,16105]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 Commons_category: Jamsetji Tata
 image: http://commons.wikimedia.org/wiki/Special:FilePath/JNTata.jpg
 ISNI: 0000000110459243

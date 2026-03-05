@@ -174,7 +174,7 @@ aliases:
 # [[Achilles]] 
 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Achilles,41746]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Achilles,41746|WD~Achilles,41746]] 
 
 ## #has_/text_of_/abstract 
 

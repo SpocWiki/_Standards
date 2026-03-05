@@ -50,13 +50,13 @@ aliases:
 - 建築要素
 - 건축 요소
 has_id_wikidata: Q391414
-different_from: '[[_Standards/WikiData/WD~fixed_construction,811430]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~building_block,4444145]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q10004408,10004408]]'
-subclass_of: '[[_Standards/WikiData/WD~design_element,55412936]]'
+different_from: '[[_Standards/WikiData/WD~fixed_construction,811430|WD~fixed_construction,811430]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~building_block,4444145|WD~building_block,4444145]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q10004408,10004408|WD~Q10004408,10004408]]'
+subclass_of: '[[_Standards/WikiData/WD~design_element,55412936|WD~design_element,55412936]]'
 part_of:
-- '[[_Standards/WikiData/WD~architecture,12271]]'
-- '[[_Standards/WikiData/WD~building,41176]]'
+- '[[_Standards/WikiData/WD~architecture,12271|WD~architecture,12271]]'
+- '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
 Commons_category: Architectural elements
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Avila%20San%20Pedro%20Vaults.jpg
 dv_has_:
@@ -127,7 +127,7 @@ dv_has_:
 
 # [[Architectural_Element]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~architectural_element,391414]] 
+#is_/same_as :: [[../../../../../WikiData/WD~architectural_element,391414|WD~architectural_element,391414]] 
 
 ## #has_/text_of_/abstract 
 

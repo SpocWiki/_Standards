@@ -134,20 +134,20 @@ aliases:
   - 롱구
   - 𐍄𐌰𐌹𐌽𐌾𐌰𐌱𐌰𐌻𐌻𐌹
 has_id_wikidata: Q5372
-authority: "[[_Standards/WikiData/WD~International_Basketball_Federation,46199]]"
+authority: "[[_Standards/WikiData/WD~International_Basketball_Federation,46199|WD~International_Basketball_Federation,46199]]"
 Baidu_Tieba_name: 篮球
 BHCL_UUID: b749c553-f4a5-4c56-8dd0-14a32c86db02
 Colon_Classification: MY2115
 Commons_category: National Basketball Association
 Commons_gallery: Basketball
 competition_class:
-  - "[[_Standards/WikiData/WD~women's_basketball,2887217]]"
-  - "[[_Standards/WikiData/WD~men's_basketball,46343203]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~women's_basketball,2887217|WD~women's_basketball,2887217]]"
+  - "[[_Standards/WikiData/WD~men's_basketball,46343203|WD~men's_basketball,46343203]]"
+country_of_origin: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
 Dewey_Decimal_Classification: 796.323
-different_from: "[[_Standards/WikiData/WD~netball,231200]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~James_Naismith,188962]]"
+different_from: "[[_Standards/WikiData/WD~netball,231200|WD~netball,231200]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~James_Naismith,188962|WD~James_Naismith,188962]]"
 duration:
   - 40
   - 12
@@ -163,9 +163,9 @@ Iconclass_notation: 43C4122
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Three%20point%20shoot.JPG
 inception: 1891-12-01
 instance_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
+  - "[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]"
+  - "[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]"
+  - "[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]"
 IPTC_NewsCode: mediatopic/20000851
 Krugosvet_article: sport/BASKETBOL.html
 Library_of_Congress_Classification: GV882-GV889.23
@@ -173,29 +173,29 @@ maximum_number_of_players: 5
 MeSH_tree_code: I03.450.642.845.117
 nickname: bàsquet
 OmegaWiki_Defined_Meaning: 6375
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]"
 OpenStreetMap_tag_or_key: Tag:sport=basketball
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Basketball%20in%20North%20America%20OKC%20Thunder%20court.jpg
 practiced_by:
-  - "[[_Standards/WikiData/WD~basketball_player,3665646]]"
-  - "[[_Standards/WikiData/WD~basketball_coach,5137571]]"
+  - "[[_Standards/WikiData/WD~basketball_player,3665646|WD~basketball_player,3665646]]"
+  - "[[_Standards/WikiData/WD~basketball_coach,5137571|WD~basketball_coach,5137571]]"
 short_name: basket
 subclass_of:
-  - "[[_Standards/WikiData/WD~team_sport,216048]]"
-  - "[[_Standards/WikiData/WD~ball_game,877517]]"
-  - "[[_Standards/WikiData/WD~game_of_skill,1368898]]"
-  - "[[_Standards/WikiData/WD~throwing_game,128305747]]"
+  - "[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]"
+  - "[[_Standards/WikiData/WD~ball_game,877517|WD~ball_game,877517]]"
+  - "[[_Standards/WikiData/WD~game_of_skill,1368898|WD~game_of_skill,1368898]]"
+  - "[[_Standards/WikiData/WD~throwing_game,128305747|WD~throwing_game,128305747]]"
 subreddit: Basketball
 time_of_discovery_or_invention: 1891-12-01
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Basketball,8090946]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Basketball,8206894]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Basketball,8090946|WD~Template_Basketball,8090946]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Basketball,8206894|WD~Portal_Basketball,8206894]]"
 Unicode_character: 🏀
 UNSPSC_Code: 49161615
 uses:
-  - "[[_Standards/WikiData/WD~basketball,810345]]"
-  - "[[_Standards/WikiData/WD~backboard,1784231]]"
-  - "[[_Standards/WikiData/WD~basket,2283464]]"
-  - "[[_Standards/WikiData/WD~basketball_court,2341939]]"
+  - "[[_Standards/WikiData/WD~basketball,810345|WD~basketball,810345]]"
+  - "[[_Standards/WikiData/WD~backboard,1784231|WD~backboard,1784231]]"
+  - "[[_Standards/WikiData/WD~basket,2283464|WD~basket,2283464]]"
+  - "[[_Standards/WikiData/WD~basketball_court,2341939|WD~basketball_court,2341939]]"
 U_S_National_Archives_Identifier: 10647372
 dv_has_:
   name_:

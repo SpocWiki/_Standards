@@ -1,5 +1,5 @@
 ---
-location: '[[_Standards/WikiData/WD~North_Pacific_Ocean,12353254]]'
+location: '[[_Standards/WikiData/WD~North_Pacific_Ocean,12353254|WD~North_Pacific_Ocean,12353254]]'
 aliases:
 - 2011 m. Sendajaus žemės drebėjimas ir cunamis
 - 2011 metu Sendajė žemės drebiejėms ė conamis
@@ -100,24 +100,24 @@ coordinate_location: Point(142.369 38.322)
 cost_of_damage:
 - 16900000000000
 - 21500000000000
-country: '[[_Standards/WikiData/WD~Japan,17]]'
-damaged: '[[_Standards/WikiData/WD~building,41176]]'
-destroyed: '[[_Standards/WikiData/WD~building,41176]]'
+country: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+damaged: '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
+destroyed: '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
 duration: 160
 earthquake_magnitude_on_the_moment_magnitude_scale: 9.1
 earthquake_magnitude_on_the_Richter_magnitude_scale: 9
-has_cause: '[[_Standards/WikiData/WD~mechanism_of_the_2011_Tōhoku_earthquake_and_tsunami,11526168]]'
+has_cause: '[[_Standards/WikiData/WD~mechanism_of_the_2011_Tōhoku_earthquake_and_tsunami,11526168|WD~mechanism_of_the_2011_Tōhoku_earthquake_and_tsunami,11526168]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SH-60B%20helicopter%20flies%20over%20Sendai.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~megathrust_earthquake,727990]]'
-- '[[_Standards/WikiData/WD~off_Sanriku_earthquake,7446977]]'
-- '[[_Standards/WikiData/WD~multi_segment_earthquake,11639848]]'
-- '[[_Standards/WikiData/WD~Q18460157,18460157]]'
-- '[[_Standards/WikiData/WD~tsunami,8070]]'
+- '[[_Standards/WikiData/WD~megathrust_earthquake,727990|WD~megathrust_earthquake,727990]]'
+- '[[_Standards/WikiData/WD~off_Sanriku_earthquake,7446977|WD~off_Sanriku_earthquake,7446977]]'
+- '[[_Standards/WikiData/WD~multi_segment_earthquake,11639848|WD~multi_segment_earthquake,11639848]]'
+- '[[_Standards/WikiData/WD~Q18460157,18460157|WD~Q18460157,18460157]]'
+- '[[_Standards/WikiData/WD~tsunami,8070|WD~tsunami,8070]]'
 JMA_Magnitude: 9.1
-JMA_Seismic_Intensity_Scale: '[[_Standards/WikiData/WD~shindo_7,24887965]]'
+JMA_Seismic_Intensity_Scale: '[[_Standards/WikiData/WD~shindo_7,24887965|WD~shindo_7,24887965]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Sendai%20Earthquake%202011.jpg
-modified_Mercalli_intensity_scale: '[[_Standards/WikiData/WD~Mercalli_scale_IX,23925706]]'
+modified_Mercalli_intensity_scale: '[[_Standards/WikiData/WD~Mercalli_scale_IX,23925706|WD~Mercalli_scale_IX,23925706]]'
 number_of_deaths: 19759
 number_of_evacuated: 38139
 number_of_injured: 6242
@@ -127,11 +127,11 @@ official_name:
 - 平成23年（2011年）東北地方太平洋沖地震
 point_in_time: 2011-03-11T00:00:00Z
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/2011%20Tohoku%20earthquake%20mechanism%20main.png
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_2011_Tohoku_earthquake_and_tsunami_casualties_dead,8085604]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_2011_Tohoku_earthquake_and_tsunami_casualties_dead,8085604|WD~Template_2011_Tohoku_earthquake_and_tsunami_casualties_dead,8085604]]'
 vertical_depth:
 - 24
 - 32
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_2011_Tōhoku_earthquake_and_tsunami,11526167]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_2011_Tōhoku_earthquake_and_tsunami,11526167|WD~outline_of_the_2011_Tōhoku_earthquake_and_tsunami,11526167]]'
 dv_has_:
   name_:
     af: 2011 Tōhoku aardbewing en tsunami
@@ -233,7 +233,7 @@ dv_has_:
 
 #[[2011-Tōhoku_earthquake_and_tsunami]]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~2011_Tōhoku_earthquake_and_tsunami,36204]] 
+#is_/same_as :: [[../../../../WikiData/WD~2011_Tōhoku_earthquake_and_tsunami,36204|WD~2011_Tōhoku_earthquake_and_tsunami,36204]] 
 
 ## #has_/text_of_/abstract 
 

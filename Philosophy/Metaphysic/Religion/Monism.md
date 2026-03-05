@@ -48,31 +48,31 @@ aliases:
 - 일원론
 has_id_wikidata: Q178801
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
-- '[[_Standards/WikiData/WD~philosophical_theory,5389993]]'
-- '[[_Standards/WikiData/WD~monad,39604065]]'
-- '[[_Standards/WikiData/WD~theory,17737]]'
-followed_by: '[[_Standards/WikiData/WD~dualism,167312]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~philosophical_movement,2915955|WD~philosophical_movement,2915955]]'
+- '[[_Standards/WikiData/WD~philosophical_theory,5389993|WD~philosophical_theory,5389993]]'
+- '[[_Standards/WikiData/WD~monad,39604065|WD~monad,39604065]]'
+- '[[_Standards/WikiData/WD~theory,17737|WD~theory,17737]]'
+followed_by: '[[_Standards/WikiData/WD~dualism,167312|WD~dualism,167312]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~neutral_monism,241657]]'
-- '[[_Standards/WikiData/WD~materialism,7081]]'
-- '[[_Standards/WikiData/WD~idealism,33442]]'
+- '[[_Standards/WikiData/WD~neutral_monism,241657|WD~neutral_monism,241657]]'
+- '[[_Standards/WikiData/WD~materialism,7081|WD~materialism,7081]]'
+- '[[_Standards/WikiData/WD~idealism,33442|WD~idealism,33442]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-opposite_of: '[[_Standards/WikiData/WD~pluralism,879021]]'
-different_from: '[[_Standards/WikiData/WD~monad,12370437]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q60978420,60978420]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~indivisibility,111532417]]'
-facet_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
-subclass_of: '[[_Standards/WikiData/WD~metaphysics,35277]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+opposite_of: '[[_Standards/WikiData/WD~pluralism,879021|WD~pluralism,879021]]'
+different_from: '[[_Standards/WikiData/WD~monad,12370437|WD~monad,12370437]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q60978420,60978420|WD~Q60978420,60978420]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~indivisibility,111532417|WD~indivisibility,111532417]]'
+facet_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+subclass_of: '[[_Standards/WikiData/WD~metaphysics,35277|WD~metaphysics,35277]]'
 Dewey_Decimal_Classification:
 - 147.3
 - 346.0668

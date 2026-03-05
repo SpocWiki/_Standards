@@ -1,11 +1,11 @@
 
 # [[Inheritance,prototypal]] 
 
-#is_a :: [[../../../../../IT/Programming/Patterns/Patterns~Java.1/Patterns~Behavioral/Pattern~Chain_of_Responsibility]] 
+#is_a :: [[../../../../../IT/Programming/Patterns/Patterns~Java.1/Patterns~Behavioral/Pattern~Chain_of_Responsibility|Pattern~Chain_of_Responsibility]] 
 
 #is_/similar_to :: [[Inheritance_by_Class]] 
 #is_/different_from  :: [[Inheritance_by_Class]]  
-#is_/part_of :: [[../Prog~OO]]
+#is_/part_of :: [[../Prog~OO|Prog~OO]]
 
 In prototypal inheritance, each object has an internal [[Prototype-Property]] 
 (often accessible via `__proto__` in modern JavaScript) that points to another object. 

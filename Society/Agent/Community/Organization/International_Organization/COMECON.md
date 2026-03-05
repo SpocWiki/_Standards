@@ -57,14 +57,14 @@ aliases:
 - 경제상호원조회의
 has_id_wikidata: Q191582
 instance_of:
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Comecon,5869261]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Comecon,5869261|WD~history_of_the_Comecon,5869261]]'
 different_from:
-- '[[_Standards/WikiData/WD~list_of_comic_book_conventions,6611889]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Country_data_Comecon,8550649]]'
+- '[[_Standards/WikiData/WD~list_of_comic_book_conventions,6611889|WD~list_of_comic_book_conventions,6611889]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Country_data_Comecon,8550649|WD~Template_Country_data_Comecon,8550649]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Moscow,649]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Moscow,649|WD~Moscow,649]]'
 BHCL_UUID:
 - 54e076fb-06f8-4ba2-8ebe-543534736c16
 - ebb84fa3-2389-4d89-967d-c134550510c4

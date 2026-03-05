@@ -28,8 +28,8 @@ title: is_a_nonprofit_anbi Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../NLNonprofitType]]"
-  enum_of: "[[../NLNonprofitType]]"
+  parent_class: "[[../NLNonprofitType|NLNonprofitType]]"
+  enum_of: "[[../NLNonprofitType|NLNonprofitType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi|Nonprofit_Anbi]]"
     - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.public|Nonprofit_Anbi.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.secret|Nonprofit_Anbi.secret]]"
     - "[[Nonprofit_Anbi]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../NLNonprofitType]]"
-dv_is_enum_of: "[[../NLNonprofitType]]"
+dv_has_parent_class: "[[../NLNonprofitType|NLNonprofitType]]"
+dv_is_enum_of: "[[../NLNonprofitType|NLNonprofitType]]"
 dv_is_same_as:
   - "[[Nonprofit_Anbi]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.public|Nonprofit_Anbi.public]]"

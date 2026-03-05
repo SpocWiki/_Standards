@@ -28,8 +28,8 @@ title: is_an_overview_health_aspect Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../HealthAspectEnumeration]]"
-  enum_of: "[[../HealthAspectEnumeration]]"
+  parent_class: "[[../HealthAspectEnumeration|HealthAspectEnumeration]]"
+  enum_of: "[[../HealthAspectEnumeration|HealthAspectEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect|Overview_Health_Aspect]]"
     - "[[/_public/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.public|Overview_Health_Aspect.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.secret|Overview_Health_Aspect.secret]]"
     - "[[Overview_Health_Aspect]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../HealthAspectEnumeration]]"
-dv_is_enum_of: "[[../HealthAspectEnumeration]]"
+dv_has_parent_class: "[[../HealthAspectEnumeration|HealthAspectEnumeration]]"
+dv_is_enum_of: "[[../HealthAspectEnumeration|HealthAspectEnumeration]]"
 dv_is_same_as:
   - "[[Overview_Health_Aspect]]"
   - "[[/_public/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.public|Overview_Health_Aspect.public]]"

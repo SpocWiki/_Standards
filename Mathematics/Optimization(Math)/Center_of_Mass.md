@@ -66,16 +66,16 @@ aliases:
 - 重心
 - 질량 중심
 has_id_wikidata: Q2945123
-different_from: '[[_Standards/WikiData/WD~center_of_gravity,114084]]'
+different_from: '[[_Standards/WikiData/WD~center_of_gravity,114084|WD~center_of_gravity,114084]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~position_vector,192388]]'
-- '[[_Standards/WikiData/WD~criterion,1789452]]'
-- '[[_Standards/WikiData/WD~point_in_physical_space,122683347]]'
+- '[[_Standards/WikiData/WD~position_vector,192388|WD~position_vector,192388]]'
+- '[[_Standards/WikiData/WD~criterion,1789452|WD~criterion,1789452]]'
+- '[[_Standards/WikiData/WD~point_in_physical_space,122683347|WD~point_in_physical_space,122683347]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-studied_by: '[[_Standards/WikiData/WD~theory_of_center_of_mass,114717525]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+studied_by: '[[_Standards/WikiData/WD~theory_of_center_of_mass,114717525|WD~theory_of_center_of_mass,114717525]]'
 in_defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msub><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D493</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mi>i</mi></mrow></msub></mstyle></mrow></math>"
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>m</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>

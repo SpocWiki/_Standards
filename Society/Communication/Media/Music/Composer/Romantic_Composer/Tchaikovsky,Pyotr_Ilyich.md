@@ -104,56 +104,56 @@ aliases:
 - 柴可夫斯基
 - 표트르 차이콥스키
 has_id_wikidata: Q7315
-academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Music,5287516]]'
+academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Music,5287516|WD~Doctor_of_Music,5287516]]'
 award_received:
-- '[[_Standards/WikiData/WD~Order_of_St._Vladimir,1501067]]'
-- '[[_Standards/WikiData/WD~Order_of_St._Vladimir,_4th_class,21148960]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Vladimir,1501067|WD~Order_of_St._Vladimir,1501067]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Vladimir,_4th_class,21148960|WD~Order_of_St._Vladimir,_4th_class,21148960]]'
 BHCL_UUID: 78c9b126-be03-4c19-8d09-7a7f93b47817
-cause_of_death: '[[_Standards/WikiData/WD~cholera,12090]]'
+cause_of_death: '[[_Standards/WikiData/WD~cholera,12090|WD~cholera,12090]]'
 Commons_category: Pyotr Ilyich Tchaikovsky
 Commons_Creator_page: Pyotr Ilyich Tchaikovsky
-copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087|WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
 date_of_birth: 1840-05-07
 date_of_death: 1893-11-06
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
-- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-- '[[_Standards/WikiData/WD~Antologie_z_oper,54459780]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-different_from: '[[_Standards/WikiData/WD~Piotr_Czajkowski,92840242]]'
-documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511|WD~Faces_of_Moscow,28666511]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019|WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Antologie_z_oper,54459780|WD~Antologie_z_oper,54459780]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+different_from: '[[_Standards/WikiData/WD~Piotr_Czajkowski,92840242|WD~Piotr_Czajkowski,92840242]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 educated_at:
-- '[[_Standards/WikiData/WD~Saint_Petersburg_Conservatory,178416]]'
-- '[[_Standards/WikiData/WD~Imperial_School_of_Jurisprudence,4200373]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Conservatory,178416|WD~Saint_Petersburg_Conservatory,178416]]'
+- '[[_Standards/WikiData/WD~Imperial_School_of_Jurisprudence,4200373|WD~Imperial_School_of_Jurisprudence,4200373]]'
 employer:
-- '[[_Standards/WikiData/WD~Moscow_Conservatory,215539]]'
-- '[[_Standards/WikiData/WD~University_of_Washington,219563]]'
+- '[[_Standards/WikiData/WD~Moscow_Conservatory,215539|WD~Moscow_Conservatory,215539]]'
+- '[[_Standards/WikiData/WD~University_of_Washington,219563|WD~University_of_Washington,219563]]'
 Europeana_entity: agent/base/146907
-family_name: '[[_Standards/WikiData/WD~Tchaikovsky,16884354]]'
-father: '[[_Standards/WikiData/WD~Ilya_Petrovich_Tchaikovsky,4506815]]'
+family_name: '[[_Standards/WikiData/WD~Tchaikovsky,16884354|WD~Tchaikovsky,16884354]]'
+father: '[[_Standards/WikiData/WD~Ilya_Petrovich_Tchaikovsky,4506815|WD~Ilya_Petrovich_Tchaikovsky,4506815]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~music-learning_theory,1554167]]'
-- '[[_Standards/WikiData/WD~music_composing,11895763]]'
-- '[[_Standards/WikiData/WD~music,638]]'
-- '[[_Standards/WikiData/WD~music_education,27908]]'
+- '[[_Standards/WikiData/WD~music-learning_theory,1554167|WD~music-learning_theory,1554167]]'
+- '[[_Standards/WikiData/WD~music_composing,11895763|WD~music_composing,11895763]]'
+- '[[_Standards/WikiData/WD~music,638|WD~music,638]]'
+- '[[_Standards/WikiData/WD~music_education,27908|WD~music_education,27908]]'
 genre:
-- '[[_Standards/WikiData/WD~ballet,4851628]]'
-- '[[_Standards/WikiData/WD~opera,1344]]'
-- '[[_Standards/WikiData/WD~classical_music,9730]]'
-- '[[_Standards/WikiData/WD~symphony,9734]]'
-given_name: '[[_Standards/WikiData/WD~Pyotr,1225705]]'
+- '[[_Standards/WikiData/WD~ballet,4851628|WD~ballet,4851628]]'
+- '[[_Standards/WikiData/WD~opera,1344|WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~classical_music,9730|WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~symphony,9734|WD~symphony,9734]]'
+given_name: '[[_Standards/WikiData/WD~Pyotr,1225705|WD~Pyotr,1225705]]'
 Google_Doodle: pyotr-ilyich-tchaikovskys-170th-birthday
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A4t%20des%20Komponisten%20Pjotr%20I.%20Tschaikowski%20%281840-1893%29.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tchaikovsky%20Grave.jpg
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-instrument: '[[_Standards/WikiData/WD~piano,5994]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+instrument: '[[_Standards/WikiData/WD~piano,5994|WD~piano,5994]]'
 IPI_name_number:
 - 84070584
 - 87528733
@@ -164,84 +164,84 @@ IPI_name_number:
 ISNI: 121449518
 Krugosvet_article: kultura_i_obrazovanie/muzyka/CHAKOVSKI_PETR_ILICH.html
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
 Libris_URI: rp3525690cjjjhr
-list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_Pyotr_Ilyich_Tchaikovsky,2272769]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-medical_condition: '[[_Standards/WikiData/WD~measles,79793]]'
-mother: '[[_Standards/WikiData/WD~Aleksandra_Tchaikovskaya,94572868]]'
+list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_Pyotr_Ilyich_Tchaikovsky,2272769|WD~list_of_compositions_by_Pyotr_Ilyich_Tchaikovsky,2272769]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+medical_condition: '[[_Standards/WikiData/WD~measles,79793|WD~measles,79793]]'
+mother: '[[_Standards/WikiData/WD~Aleksandra_Tchaikovskaya,94572868|WD~Aleksandra_Tchaikovskaya,94572868]]'
 name_in_native_language:
 - Пётр Ильич Чайковский
 - Петръ Ильичъ Чайковскій
-native_language: '[[_Standards/WikiData/WD~Russian,7737]]'
+native_language: '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
 NLC_authorities: 173353
 notable_work:
-- '[[_Standards/WikiData/WD~Piano_Concerto_No._1,162935]]'
-- '[[_Standards/WikiData/WD~The_Nutcracker,193705]]'
-- '[[_Standards/WikiData/WD~Swan_Lake,199786]]'
-- '[[_Standards/WikiData/WD~1812_Overture,212776]]'
-- '[[_Standards/WikiData/WD~The_Queen_of_Spades,221047]]'
-- '[[_Standards/WikiData/WD~Symphony_No._6,246589]]'
-- '[[_Standards/WikiData/WD~Violin_Concerto,372907]]'
-- '[[_Standards/WikiData/WD~The_Sleeping_Beauty,838051]]'
-- '[[_Standards/WikiData/WD~Eugene_Onegin,50956]]'
+- '[[_Standards/WikiData/WD~Piano_Concerto_No._1,162935|WD~Piano_Concerto_No._1,162935]]'
+- '[[_Standards/WikiData/WD~The_Nutcracker,193705|WD~The_Nutcracker,193705]]'
+- '[[_Standards/WikiData/WD~Swan_Lake,199786|WD~Swan_Lake,199786]]'
+- '[[_Standards/WikiData/WD~1812_Overture,212776|WD~1812_Overture,212776]]'
+- '[[_Standards/WikiData/WD~The_Queen_of_Spades,221047|WD~The_Queen_of_Spades,221047]]'
+- '[[_Standards/WikiData/WD~Symphony_No._6,246589|WD~Symphony_No._6,246589]]'
+- '[[_Standards/WikiData/WD~Violin_Concerto,372907|WD~Violin_Concerto,372907]]'
+- '[[_Standards/WikiData/WD~The_Sleeping_Beauty,838051|WD~The_Sleeping_Beauty,838051]]'
+- '[[_Standards/WikiData/WD~Eugene_Onegin,50956|WD~Eugene_Onegin,50956]]'
 number_of_children: 0
 occupation:
-- '[[_Standards/WikiData/WD~conductor,158852]]'
-- '[[_Standards/WikiData/WD~translator,333634]]'
-- '[[_Standards/WikiData/WD~pianist,486748]]'
-- '[[_Standards/WikiData/WD~music_critic,1350157]]'
-- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-- '[[_Standards/WikiData/WD~choreographer,2490358]]'
-- '[[_Standards/WikiData/WD~librettist,8178443]]'
-- '[[_Standards/WikiData/WD~music_educator,16145150]]'
-- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-- '[[_Standards/WikiData/WD~diarist,18939491]]'
-- '[[_Standards/WikiData/WD~composer,36834]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039]]'
-patronym_or_matronym: '[[_Standards/WikiData/WD~Ilyich,130337382]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q8138689,8138689]]'
-place_of_birth: '[[_Standards/WikiData/WD~Votkinsk,133838]]'
-place_of_burial: '[[_Standards/WikiData/WD~Tikhvin_Cemetery,2272835]]'
-place_of_death: '[[_Standards/WikiData/WD~Malaya_Morskaya_Street,_13,30159190]]'
-position_held: '[[_Standards/WikiData/WD~professor,121594]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
+- '[[_Standards/WikiData/WD~conductor,158852|WD~conductor,158852]]'
+- '[[_Standards/WikiData/WD~translator,333634|WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~pianist,486748|WD~pianist,486748]]'
+- '[[_Standards/WikiData/WD~music_critic,1350157|WD~music_critic,1350157]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272|WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~choreographer,2490358|WD~choreographer,2490358]]'
+- '[[_Standards/WikiData/WD~librettist,8178443|WD~librettist,8178443]]'
+- '[[_Standards/WikiData/WD~music_educator,16145150|WD~music_educator,16145150]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623|WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~diarist,18939491|WD~diarist,18939491]]'
+- '[[_Standards/WikiData/WD~composer,36834|WD~composer,36834]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039|WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039]]'
+patronym_or_matronym: '[[_Standards/WikiData/WD~Ilyich,130337382|WD~Ilyich,130337382]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q8138689,8138689|WD~Q8138689,8138689]]'
+place_of_birth: '[[_Standards/WikiData/WD~Votkinsk,133838|WD~Votkinsk,133838]]'
+place_of_burial: '[[_Standards/WikiData/WD~Tikhvin_Cemetery,2272835|WD~Tikhvin_Cemetery,2272835]]'
+place_of_death: '[[_Standards/WikiData/WD~Malaya_Morskaya_Street,_13,30159190|WD~Malaya_Morskaya_Street,_13,30159190]]'
+position_held: '[[_Standards/WikiData/WD~professor,121594|WD~professor,121594]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484|WD~Eastern_Orthodoxy,3333484]]'
 residence:
-- '[[_Standards/WikiData/WD~Alapayevsk,103212]]'
-- '[[_Standards/WikiData/WD~Votkinsk,133838]]'
-- '[[_Standards/WikiData/WD~Klin,153698]]'
-- '[[_Standards/WikiData/WD~Clarens,178508]]'
-- '[[_Standards/WikiData/WD~Moscow,649]]'
-- '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
-- '[[_Standards/WikiData/WD~Florence,2044]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
-- '[[_Standards/WikiData/WD~Rome,220]]'
-sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+- '[[_Standards/WikiData/WD~Alapayevsk,103212|WD~Alapayevsk,103212]]'
+- '[[_Standards/WikiData/WD~Votkinsk,133838|WD~Votkinsk,133838]]'
+- '[[_Standards/WikiData/WD~Klin,153698|WD~Klin,153698]]'
+- '[[_Standards/WikiData/WD~Clarens,178508|WD~Clarens,178508]]'
+- '[[_Standards/WikiData/WD~Moscow,649|WD~Moscow,649]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg,656|WD~Saint_Petersburg,656]]'
+- '[[_Standards/WikiData/WD~Florence,2044|WD~Florence,2044]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Rome,220|WD~Rome,220]]'
+sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636|WD~homosexuality,6636]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 sibling:
-- '[[_Standards/WikiData/WD~Modest_Tchaikovsky,2306644]]'
-- '[[_Standards/WikiData/WD~Ippolit_Chaykovsky,4506816]]'
-- '[[_Standards/WikiData/WD~Anatoly_Tchaikovsky,12359077]]'
-- '[[_Standards/WikiData/WD~Aleksandra_Davydova,49883493]]'
+- '[[_Standards/WikiData/WD~Modest_Tchaikovsky,2306644|WD~Modest_Tchaikovsky,2306644]]'
+- '[[_Standards/WikiData/WD~Ippolit_Chaykovsky,4506816|WD~Ippolit_Chaykovsky,4506816]]'
+- '[[_Standards/WikiData/WD~Anatoly_Tchaikovsky,12359077|WD~Anatoly_Tchaikovsky,12359077]]'
+- '[[_Standards/WikiData/WD~Aleksandra_Davydova,49883493|WD~Aleksandra_Davydova,49883493]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Tchaikovsky%20Signature.svg
-significant_event: '[[_Standards/WikiData/WD~baptism,35856]]'
+significant_event: '[[_Standards/WikiData/WD~baptism,35856|WD~baptism,35856]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8A%D5%B5%D5%B8%D5%BF%D6%80%20%D5%89%D5%A1%D5%B5%D5%AF%D5%B8%D5%BE%D5%BD%D5%AF%D5%AB%20%28Pyotr%20Ilyich%20Tchaikovsky%29.ogg
-sponsor: '[[_Standards/WikiData/WD~Nadezhda_von_Meck,234041]]'
-spouse: '[[_Standards/WikiData/WD~Antonina_Miliukova,4776343]]'
+sponsor: '[[_Standards/WikiData/WD~Nadezhda_von_Meck,234041|WD~Nadezhda_von_Meck,234041]]'
+spouse: '[[_Standards/WikiData/WD~Antonina_Miliukova,4776343|WD~Antonina_Miliukova,4776343]]'
 student:
-- '[[_Standards/WikiData/WD~Alexander_Siloti,366536]]'
-- '[[_Standards/WikiData/WD~Pyotr_Danilchenko,113484550]]'
-- '[[_Standards/WikiData/WD~Thomas_Matthew_James_Joyce,117800828]]'
+- '[[_Standards/WikiData/WD~Alexander_Siloti,366536|WD~Alexander_Siloti,366536]]'
+- '[[_Standards/WikiData/WD~Pyotr_Danilchenko,113484550|WD~Pyotr_Danilchenko,113484550]]'
+- '[[_Standards/WikiData/WD~Thomas_Matthew_James_Joyce,117800828|WD~Thomas_Matthew_James_Joyce,117800828]]'
 student_of:
-- '[[_Standards/WikiData/WD~Anton_Rubinstein,87567]]'
-- '[[_Standards/WikiData/WD~Nikolai_Zaremba,2717812]]'
+- '[[_Standards/WikiData/WD~Anton_Rubinstein,87567|WD~Anton_Rubinstein,87567]]'
+- '[[_Standards/WikiData/WD~Nikolai_Zaremba,2717812|WD~Nikolai_Zaremba,2717812]]'
 transliteration_or_transcription: Tschaikowsky
 U_S_National_Archives_Identifier: 16614780
 work_location:
-- '[[_Standards/WikiData/WD~Moscow,649]]'
-- '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+- '[[_Standards/WikiData/WD~Moscow,649|WD~Moscow,649]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg,656|WD~Saint_Petersburg,656]]'
 work_period_end_: 1893-10-16
 work_period_start_: 1859-06-01
 dv_has_:

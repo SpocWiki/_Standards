@@ -65,14 +65,14 @@ aliases:
 - 기화열
 has_id_wikidata: Q483538
 subclass_of:
-- '[[_Standards/WikiData/WD~enthalpy,161064]]'
-- '[[_Standards/WikiData/WD~latent_heat_of_phase_transition,106553458]]'
+- '[[_Standards/WikiData/WD~enthalpy,161064|WD~enthalpy,161064]]'
+- '[[_Standards/WikiData/WD~latent_heat_of_phase_transition,106553458|WD~latent_heat_of_phase_transition,106553458]]'
 different_from:
-- '[[_Standards/WikiData/WD~enthalpy_of_sublimation,477945]]'
-- '[[_Standards/WikiData/WD~molar_enthalpy_of_vaporization,108898049]]'
-instance_of: '[[_Standards/WikiData/WD~thermodynamic_material_property,3523867]]'
+- '[[_Standards/WikiData/WD~enthalpy_of_sublimation,477945|WD~enthalpy_of_sublimation,477945]]'
+- '[[_Standards/WikiData/WD~molar_enthalpy_of_vaporization,108898049|WD~molar_enthalpy_of_vaporization,108898049]]'
+instance_of: '[[_Standards/WikiData/WD~thermodynamic_material_property,3523867|WD~thermodynamic_material_property,3523867]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 OmegaWiki_Defined_Meaning: 426268
 Commons_category: Enthalpy of vaporization
 dv_has_:

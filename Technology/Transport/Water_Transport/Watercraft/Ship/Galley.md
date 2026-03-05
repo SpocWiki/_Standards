@@ -40,21 +40,21 @@ aliases:
 - 갤리
 has_id_wikidata: Q188924
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-derivative_work: '[[_Standards/WikiData/WD~galleass,897941]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+derivative_work: '[[_Standards/WikiData/WD~galleass,897941|WD~galleass,897941]]'
 different_from:
-- '[[_Standards/WikiData/WD~Galera,1491841]]'
-- '[[_Standards/WikiData/WD~galley,115070835]]'
-instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
-depicted_by: '[[_Standards/WikiData/WD~Reconstruction_of_a_galley,131764591]]'
-subclass_of: '[[_Standards/WikiData/WD~ship,11446]]'
+- '[[_Standards/WikiData/WD~Galera,1491841|WD~Galera,1491841]]'
+- '[[_Standards/WikiData/WD~galley,115070835|WD~galley,115070835]]'
+instance_of: '[[_Standards/WikiData/WD~ship_type,2235308|WD~ship_type,2235308]]'
+depicted_by: '[[_Standards/WikiData/WD~Reconstruction_of_a_galley,131764591|WD~Reconstruction_of_a_galley,131764591]]'
+subclass_of: '[[_Standards/WikiData/WD~ship,11446|WD~ship,11446]]'
 Nomenclature_for_Museum_Cataloging: 11133
 Iconclass_notation: 46C23221
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Galley-knightshospitaller.jpg

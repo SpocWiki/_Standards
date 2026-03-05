@@ -43,18 +43,18 @@ aliases:
 - 선례
 has_id_wikidata: Q665141
 subclass_of:
-- '[[_Standards/WikiData/WD~legal_transaction,327197]]'
-- '[[_Standards/WikiData/WD~sources_of_law,846882]]'
-used_by: '[[_Standards/WikiData/WD~tribunal,1412224]]'
+- '[[_Standards/WikiData/WD~legal_transaction,327197|WD~legal_transaction,327197]]'
+- '[[_Standards/WikiData/WD~sources_of_law,846882|WD~sources_of_law,846882]]'
+used_by: '[[_Standards/WikiData/WD~tribunal,1412224|WD~tribunal,1412224]]'
 has_cause:
-- '[[_Standards/WikiData/WD~legal_opinion,1911852]]'
-- '[[_Standards/WikiData/WD~case_law,11022655]]'
+- '[[_Standards/WikiData/WD~legal_opinion,1911852|WD~legal_opinion,1911852]]'
+- '[[_Standards/WikiData/WD~case_law,11022655|WD~case_law,11022655]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-instance_of: '[[_Standards/WikiData/WD~legal_concept,2135465]]'
-part_of: '[[_Standards/WikiData/WD~legal_case,2334719]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q61421325,61421325]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+instance_of: '[[_Standards/WikiData/WD~legal_concept,2135465|WD~legal_concept,2135465]]'
+part_of: '[[_Standards/WikiData/WD~legal_case,2334719|WD~legal_case,2334719]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q61421325,61421325|WD~Q61421325,61421325]]'
 dv_has_:
   name_:
     af: Stare decisis

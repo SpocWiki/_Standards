@@ -66,12 +66,12 @@ aliases:
 - 益智遊戲
 - 퍼즐
 has_id_wikidata: Q13698
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of:
-- '[[_Standards/WikiData/WD~product_category,63981612]]'
-- '[[_Standards/WikiData/WD~game_genre,107551175]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-subclass_of: '[[_Standards/WikiData/WD~game,11410]]'
+- '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
+- '[[_Standards/WikiData/WD~game_genre,107551175|WD~game_genre,107551175]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+subclass_of: '[[_Standards/WikiData/WD~game,11410|WD~game,11410]]'
 IAB_code: 269
 Nomenclature_for_Museum_Cataloging: 14785
 Commons_category: Puzzles

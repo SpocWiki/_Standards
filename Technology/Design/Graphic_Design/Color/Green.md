@@ -175,20 +175,20 @@ aliases:
 - ꯑꯁꯪꯕ
 - 초록
 has_id_wikidata: Q3133
-instance_of: '[[_Standards/WikiData/WD~primary_color,166902]]'
+instance_of: '[[_Standards/WikiData/WD~primary_color,166902|WD~primary_color,166902]]'
 symbolizes:
-- '[[_Standards/WikiData/WD~hope,190507]]'
-- '[[_Standards/WikiData/WD~Islam,432]]'
-- '[[_Standards/WikiData/WD~spring,1312]]'
-- '[[_Standards/WikiData/WD~Ireland,22890]]'
-described_by_source: '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
-represents: '[[_Standards/WikiData/WD~Gaelic_culture,24527291]]'
-part_of: '[[_Standards/WikiData/WD~seven_prismatic_colors,43213808]]'
-follows: '[[_Standards/WikiData/WD~yellow,943]]'
+- '[[_Standards/WikiData/WD~hope,190507|WD~hope,190507]]'
+- '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~spring,1312|WD~spring,1312]]'
+- '[[_Standards/WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
+described_by_source: '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353|WD~Dictionnaire_Infernal,1210353]]'
+represents: '[[_Standards/WikiData/WD~Gaelic_culture,24527291|WD~Gaelic_culture,24527291]]'
+part_of: '[[_Standards/WikiData/WD~seven_prismatic_colors,43213808|WD~seven_prismatic_colors,43213808]]'
+follows: '[[_Standards/WikiData/WD~yellow,943|WD~yellow,943]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~color,1075]]'
-- '[[_Standards/WikiData/WD~light,9128]]'
-followed_by: '[[_Standards/WikiData/WD~blue,1088]]'
+- '[[_Standards/WikiData/WD~color,1075|WD~color,1075]]'
+- '[[_Standards/WikiData/WD~light,9128|WD~light,9128]]'
+followed_by: '[[_Standards/WikiData/WD~blue,1088|WD~blue,1088]]'
 wavelength: 535
 frequency: 545000000000000
 OmegaWiki_Defined_Meaning: 6403

@@ -254,45 +254,45 @@ type: Type
 Commons_category: Rivers
 Commons_gallery: River
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-- '[[_Standards/WikiData/WD~watercourse,355304]]'
-- '[[_Standards/WikiData/WD~main_stream,573344]]'
-- '[[_Standards/WikiData/WD~coastal_river,3073652]]'
-- '[[_Standards/WikiData/WD~river_water_body,30092769]]'
+- '[[_Standards/WikiData/WD~watercourse,355304|WD~watercourse,355304]]'
+- '[[_Standards/WikiData/WD~main_stream,573344|WD~main_stream,573344]]'
+- '[[_Standards/WikiData/WD~coastal_river,3073652|WD~coastal_river,3073652]]'
+- '[[_Standards/WikiData/WD~river_water_body,30092769|WD~river_water_body,30092769]]'
 Digital_Atlas_of_Idaho_URL: https://digitalatlas.cose.isu.edu/hydr/main/images/river.jpg
 equivalent_class:
 - http://dbpedia.org/ontology/River
 - https://schema.org/RiverBodyOfWater
-- '[[_Standards/WikiData/WD~https___id.oclc.org_worldcat_entity_Q374,374]]'
+- '[[_Standards/WikiData/WD~https___id.oclc.org_worldcat_entity_Q374,374|WD~https___id.oclc.org_worldcat_entity_Q374,374]]'
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000022
 GeoNames_feature_code: H.STM
-greater_than: '[[_Standards/WikiData/WD~brook,63565252]]'
+greater_than: '[[_Standards/WikiData/WD~brook,63565252|WD~brook,63565252]]'
 has_list:
-- '[[_Standards/WikiData/WD~list_of_rivers_by_length,486047]]'
-- '[[_Standards/WikiData/WD~list_of_rivers_by_discharge,2394831]]'
-- '[[_Standards/WikiData/WD~list_of_rivers_by_continent,2644018]]'
-- '[[_Standards/WikiData/WD~list_of_rivers_by_age,6636596]]'
-has_part_s_: '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~list_of_rivers_by_length,486047|WD~list_of_rivers_by_length,486047]]'
+- '[[_Standards/WikiData/WD~list_of_rivers_by_discharge,2394831|WD~list_of_rivers_by_discharge,2394831]]'
+- '[[_Standards/WikiData/WD~list_of_rivers_by_continent,2644018|WD~list_of_rivers_by_continent,2644018]]'
+- '[[_Standards/WikiData/WD~list_of_rivers_by_age,6636596|WD~list_of_rivers_by_age,6636596]]'
+has_part_s_: '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
 has_use:
-- '[[_Standards/WikiData/WD~hydroelectricity,80638]]'
-- '[[_Standards/WikiData/WD~water_transport,155930]]'
-- '[[_Standards/WikiData/WD~boating,2141830]]'
-- '[[_Standards/WikiData/WD~fishing,14373]]'
-- '[[_Standards/WikiData/WD~water_sport,61065]]'
+- '[[_Standards/WikiData/WD~hydroelectricity,80638|WD~hydroelectricity,80638]]'
+- '[[_Standards/WikiData/WD~water_transport,155930|WD~water_transport,155930]]'
+- '[[_Standards/WikiData/WD~boating,2141830|WD~boating,2141830]]'
+- '[[_Standards/WikiData/WD~fishing,14373|WD~fishing,14373]]'
+- '[[_Standards/WikiData/WD~water_sport,61065|WD~water_sport,61065]]'
 Iconclass_notation: 25H213
 image: http://commons.wikimedia.org/wiki/Special:FilePath/White%20Nile%20Fishermen%20%2818156464842%29.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_watercourse,1428660]]'
-- '[[_Standards/WikiData/WD~ecosystem_type,125824188]]'
+- '[[_Standards/WikiData/WD~type_of_watercourse,1428660|WD~type_of_watercourse,1428660]]'
+- '[[_Standards/WikiData/WD~ecosystem_type,125824188|WD~ecosystem_type,125824188]]'
 IPTC_NewsCode: mediatopic/20000439
 Krugosvet_article: Earth_sciences/geografiya/REKA.html
 MeSH_tree_code:
@@ -300,20 +300,20 @@ MeSH_tree_code:
 - G16.500.275.280.650
 - N06.230.232.650
 model_item:
-- '[[_Standards/WikiData/WD~Mississippi_River,1497]]'
-- '[[_Standards/WikiData/WD~Congo,3503]]'
-- '[[_Standards/WikiData/WD~Amazon,3783]]'
-- '[[_Standards/WikiData/WD~Yangtze,5413]]'
-- '[[_Standards/WikiData/WD~River_Thames,19686]]'
+- '[[_Standards/WikiData/WD~Mississippi_River,1497|WD~Mississippi_River,1497]]'
+- '[[_Standards/WikiData/WD~Congo,3503|WD~Congo,3503]]'
+- '[[_Standards/WikiData/WD~Amazon,3783|WD~Amazon,3783]]'
+- '[[_Standards/WikiData/WD~Yangtze,5413|WD~Yangtze,5413]]'
+- '[[_Standards/WikiData/WD~River_Thames,19686|WD~River_Thames,19686]]'
 OmegaWiki_Defined_Meaning: 3253
 OpenStreetMap_tag_or_key:
 - Tag:type=waterway
 - Tag:waterway=river
-partially_coincident_with: '[[_Standards/WikiData/WD~stream,47521]]'
-part_of: '[[_Standards/WikiData/WD~drainage_system,285451]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~stream,47521|WD~stream,47521]]'
+part_of: '[[_Standards/WikiData/WD~drainage_system,285451|WD~drainage_system,285451]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q22828765,22828765]]'
-- '[[_Standards/WikiData/WD~Q110738840,110738840]]'
+- '[[_Standards/WikiData/WD~Q22828765,22828765|WD~Q22828765,22828765]]'
+- '[[_Standards/WikiData/WD~Q110738840,110738840|WD~Q110738840,110738840]]'
 properties_for_this_type:
 - mouth of the watercourse
 - lake on watercourse
@@ -321,22 +321,22 @@ properties_for_this_type:
 - length
 - drainage basin
 - country
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~perennial_stream,7167858]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~perennial_stream,7167858|WD~perennial_stream,7167858]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~open_water,2479431]]'
-- '[[_Standards/WikiData/WD~stream,47521]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9701284,9701284]]'
+- '[[_Standards/WikiData/WD~open_water,2479431|WD~open_water,2479431]]'
+- '[[_Standards/WikiData/WD~stream,47521|WD~stream,47521]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9701284,9701284|WD~Q9701284,9701284]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_river,6643401]]'
-- '[[_Standards/WikiData/WD~Template_Rivers,_streams_and_springs,20314733]]'
-- '[[_Standards/WikiData/WD~Q124309123,124309123]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_river,6643401|WD~Template_Infobox_river,6643401]]'
+- '[[_Standards/WikiData/WD~Template_Rivers,_streams_and_springs,20314733|WD~Template_Rivers,_streams_and_springs,20314733]]'
+- '[[_Standards/WikiData/WD~Q124309123,124309123|WD~Q124309123,124309123]]'
 UMLS_CUI: C0442540
 used_by:
-- '[[_Standards/WikiData/WD~fisher,331432]]'
-- '[[_Standards/WikiData/WD~watercraft,1229765]]'
-- '[[_Standards/WikiData/WD~boater,2891167]]'
-- '[[_Standards/WikiData/WD~swimmer,10843402]]'
-- '[[_Standards/WikiData/WD~aquatic_organism,11710365]]'
+- '[[_Standards/WikiData/WD~fisher,331432|WD~fisher,331432]]'
+- '[[_Standards/WikiData/WD~watercraft,1229765|WD~watercraft,1229765]]'
+- '[[_Standards/WikiData/WD~boater,2891167|WD~boater,2891167]]'
+- '[[_Standards/WikiData/WD~swimmer,10843402|WD~swimmer,10843402]]'
+- '[[_Standards/WikiData/WD~aquatic_organism,11710365|WD~aquatic_organism,11710365]]'
 U_S_National_Archives_Identifier: 10643808
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Bedrohtes%20%C3%96kosystem%20Fluss.webm
 Wolfram_Language_entity_type: River
@@ -638,7 +638,7 @@ dv_has_:
     zh_sg: 河流
     zh_tw: 河流
     zu: umfula
-  parent_class: '[[../BodyOfWater]]'
+  parent_class: '[[../BodyOfWater|BodyOfWater]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:
   same_as:
@@ -650,7 +650,7 @@ dv_is_:
   - '[[/_private/Earth/Geology/Landform/body_of_water/River.private|River.private]]'
   - '[[/_personal/Earth/Geology/Landform/body_of_water/River.personal|River.personal]]'
   - '[[/_secret/Earth/Geology/Landform/body_of_water/River.secret|River.secret]]'
-dv_has_parent_class: '[[../BodyOfWater]]'
+dv_has_parent_class: '[[../BodyOfWater|BodyOfWater]]'
 dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
 - '[[../../../../WikiData/WD~River,4022|WD~River,4022]]'

@@ -76,15 +76,15 @@ aliases:
 - 커튼
 has_id_wikidata: Q49005
 subclass_of:
-- '[[_Standards/WikiData/WD~linens,796635]]'
-- '[[_Standards/WikiData/WD~hanging,64618487]]'
+- '[[_Standards/WikiData/WD~linens,796635|WD~linens,796635]]'
+- '[[_Standards/WikiData/WD~hanging,64618487|WD~hanging,64618487]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-different_from: '[[_Standards/WikiData/WD~front_curtain,2264369]]'
-has_contributing_factor: '[[_Standards/WikiData/WD~Sun,525]]'
-made_from_material: '[[_Standards/WikiData/WD~textile,28823]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~front_curtain,2264369|WD~front_curtain,2264369]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
+made_from_material: '[[_Standards/WikiData/WD~textile,28823|WD~textile,28823]]'
 Nomenclature_for_Museum_Cataloging:
 - 1900
 - 1911

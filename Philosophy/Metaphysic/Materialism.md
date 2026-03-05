@@ -68,21 +68,21 @@ aliases:
 has_id_wikidata: Q7081
 Commons_category: Materialism
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 facet_of:
-- '[[_Standards/WikiData/WD~social,345367]]'
-- '[[_Standards/WikiData/WD~epistemology,9471]]'
-- '[[_Standards/WikiData/WD~metaphysics,35277]]'
-- '[[_Standards/WikiData/WD~ontology,44325]]'
-instance_of: '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
-opposite_of: '[[_Standards/WikiData/WD~idealism,33442]]'
-part_of: '[[_Standards/WikiData/WD~monism,178801]]'
+- '[[_Standards/WikiData/WD~social,345367|WD~social,345367]]'
+- '[[_Standards/WikiData/WD~epistemology,9471|WD~epistemology,9471]]'
+- '[[_Standards/WikiData/WD~metaphysics,35277|WD~metaphysics,35277]]'
+- '[[_Standards/WikiData/WD~ontology,44325|WD~ontology,44325]]'
+instance_of: '[[_Standards/WikiData/WD~school_of_thought,1387659|WD~school_of_thought,1387659]]'
+opposite_of: '[[_Standards/WikiData/WD~idealism,33442|WD~idealism,33442]]'
+part_of: '[[_Standards/WikiData/WD~monism,178801|WD~monism,178801]]'
 dv_has_:
   name_:
     af: materialisme

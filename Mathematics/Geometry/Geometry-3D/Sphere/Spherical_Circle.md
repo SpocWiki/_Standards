@@ -28,9 +28,9 @@ aliases:
 - دائرہ صغیر
 - 球面上の円
 has_id_wikidata: Q149295
-opposite_of: '[[_Standards/WikiData/WD~great_circle,146657]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-subclass_of: '[[_Standards/WikiData/WD~circle_of_a_sphere,91345714]]'
+opposite_of: '[[_Standards/WikiData/WD~great_circle,146657|WD~great_circle,146657]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[_Standards/WikiData/WD~circle_of_a_sphere,91345714|WD~circle_of_a_sphere,91345714]]'
 dv_has_:
   name_:
     ar: دائرة صغيرة
@@ -62,7 +62,7 @@ dv_has_:
 
 # [[Spherical_Circle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~small_circle,149295]]
+#is_/same_as :: [[_Standards/WikiData/WD~small_circle,149295|WD~small_circle,149295]]
 
 ## #has_/text_of_/abstract 
 

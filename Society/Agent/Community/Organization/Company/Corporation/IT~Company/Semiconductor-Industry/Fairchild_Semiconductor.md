@@ -85,7 +85,7 @@ The members of the Traitorous Eight were:
 4. Eugene Kleiner 
 5. Jay Last 
 6. [[Intel/Moore,Gordon|Gordon Moore]] 
-7. [[Intel/Noyce,Robert]]  
+7. [[Intel/Noyce,Robert|Noyce,Robert]]  
 8. Sheldon Roberts 
 
 

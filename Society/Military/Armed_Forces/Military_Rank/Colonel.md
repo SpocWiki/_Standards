@@ -64,21 +64,21 @@ aliases:
 - 상좌
 has_id_wikidata: Q104680
 next_higher_rank:
-- '[[_Standards/WikiData/WD~brigadier_general,152956]]'
-- '[[_Standards/WikiData/WD~major_general,157148]]'
-- '[[_Standards/WikiData/WD~senior_colonel,2582912]]'
-- '[[_Standards/WikiData/WD~brigadier,41685]]'
+- '[[_Standards/WikiData/WD~brigadier_general,152956|WD~brigadier_general,152956]]'
+- '[[_Standards/WikiData/WD~major_general,157148|WD~major_general,157148]]'
+- '[[_Standards/WikiData/WD~senior_colonel,2582912|WD~senior_colonel,2582912]]'
+- '[[_Standards/WikiData/WD~brigadier,41685|WD~brigadier,41685]]'
 next_lower_rank:
-- '[[_Standards/WikiData/WD~lieutenant_colonel,493898]]'
-- '[[_Standards/WikiData/WD~podpolkovnik,13099720]]'
+- '[[_Standards/WikiData/WD~lieutenant_colonel,493898|WD~lieutenant_colonel,493898]]'
+- '[[_Standards/WikiData/WD~podpolkovnik,13099720|WD~podpolkovnik,13099720]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-subclass_of: '[[_Standards/WikiData/WD~field_officer,1053745]]'
-different_from: '[[_Standards/WikiData/WD~Colonel,5148082]]'
-NATO_code_for_grade: '[[_Standards/WikiData/WD~OF_5,18536827]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~captain_1st_rank,20504025]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~field_officer,1053745|WD~field_officer,1053745]]'
+different_from: '[[_Standards/WikiData/WD~Colonel,5148082|WD~Colonel,5148082]]'
+NATO_code_for_grade: '[[_Standards/WikiData/WD~OF_5,18536827|WD~OF_5,18536827]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~captain_1st_rank,20504025|WD~captain_1st_rank,20504025]]'
 female_form_of_label:
 - coronela
 - colonelle
@@ -86,7 +86,7 @@ female_form_of_label:
 rank_insignia:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Naramiennik%20Pulkownik%20lotn.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Naramiennik%20Pulkownik.svg
-instance_of: '[[_Standards/WikiData/WD~military_rank,56019]]'
+instance_of: '[[_Standards/WikiData/WD~military_rank,56019|WD~military_rank,56019]]'
 male_form_of_label:
 - colonel
 - coronel

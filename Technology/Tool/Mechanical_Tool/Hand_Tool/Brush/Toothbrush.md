@@ -96,11 +96,11 @@ aliases:
 - 치솔
 - 칫솔
 has_id_wikidata: Q134205
-has_use: '[[_Standards/WikiData/WD~tooth_brushing,93935]]'
+has_use: '[[_Standards/WikiData/WD~tooth_brushing,93935|WD~tooth_brushing,93935]]'
 subclass_of:
-- '[[../../../../../WikiData/WD~brush,614467]]'
-- '[[_Standards/WikiData/WD~tooth_cleaning_instrument,122052040]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../WikiData/WD~brush,614467|WD~brush,614467]]'
+- '[[_Standards/WikiData/WD~tooth_cleaning_instrument,122052040|WD~tooth_cleaning_instrument,122052040]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Nomenclature_for_Museum_Cataloging: 3146
 OmegaWiki_Defined_Meaning: 7559
 Commons_gallery: Toothbrush

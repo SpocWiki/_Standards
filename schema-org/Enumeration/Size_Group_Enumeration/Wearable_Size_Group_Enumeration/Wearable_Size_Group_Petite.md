@@ -28,8 +28,8 @@ title: is_a_wearable_size_group_petite Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../WearableSizeGroupEnumeration]]"
-  enum_of: "[[../WearableSizeGroupEnumeration]]"
+  parent_class: "[[../WearableSizeGroupEnumeration|WearableSizeGroupEnumeration]]"
+  enum_of: "[[../WearableSizeGroupEnumeration|WearableSizeGroupEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Petite|Wearable_Size_Group_Petite]]"
     - "[[/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Petite.public|Wearable_Size_Group_Petite.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Petite.secret|Wearable_Size_Group_Petite.secret]]"
     - "[[Wearable_Size_Group_Petite]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../WearableSizeGroupEnumeration]]"
-dv_is_enum_of: "[[../WearableSizeGroupEnumeration]]"
+dv_has_parent_class: "[[../WearableSizeGroupEnumeration|WearableSizeGroupEnumeration]]"
+dv_is_enum_of: "[[../WearableSizeGroupEnumeration|WearableSizeGroupEnumeration]]"
 dv_is_same_as:
   - "[[Wearable_Size_Group_Petite]]"
   - "[[/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Petite.public|Wearable_Size_Group_Petite.public]]"

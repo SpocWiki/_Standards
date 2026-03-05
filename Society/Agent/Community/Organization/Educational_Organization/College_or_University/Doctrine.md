@@ -51,17 +51,17 @@ aliases:
 - 독트린
 has_id_wikidata: Q117850
 part_of:
-- '[[_Standards/WikiData/WD~tradition,82821]]'
-- '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
-- '[[_Standards/WikiData/WD~ideology,7257]]'
-facet_of: '[[_Standards/WikiData/WD~codification,214214]]'
+- '[[_Standards/WikiData/WD~tradition,82821|WD~tradition,82821]]'
+- '[[_Standards/WikiData/WD~school_of_thought,1387659|WD~school_of_thought,1387659]]'
+- '[[_Standards/WikiData/WD~ideology,7257|WD~ideology,7257]]'
+facet_of: '[[_Standards/WikiData/WD~codification,214214|WD~codification,214214]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
-- '[[_Standards/WikiData/WD~opinion,3962655]]'
-- '[[_Standards/WikiData/WD~topic,26256810]]'
-- '[[_Standards/WikiData/WD~world_view,49447]]'
-different_from: '[[_Standards/WikiData/WD~religious_doctrine,11499334]]'
-studied_by: '[[_Standards/WikiData/WD~sociology,21201]]'
+- '[[_Standards/WikiData/WD~school_of_thought,1387659|WD~school_of_thought,1387659]]'
+- '[[_Standards/WikiData/WD~opinion,3962655|WD~opinion,3962655]]'
+- '[[_Standards/WikiData/WD~topic,26256810|WD~topic,26256810]]'
+- '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
+different_from: '[[_Standards/WikiData/WD~religious_doctrine,11499334|WD~religious_doctrine,11499334]]'
+studied_by: '[[_Standards/WikiData/WD~sociology,21201|WD~sociology,21201]]'
 Dewey_Decimal_Classification: 202
 Iconclass_notation: 52C51
 Commons_category: Doctrines

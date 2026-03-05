@@ -36,8 +36,8 @@ aliases:
 - 成土作用
 - 토양생성작용
 has_id_wikidata: Q282070
-subclass_of: '[[_Standards/WikiData/WD~pedologic_process,63382959]]'
-has_effect: '[[_Standards/WikiData/WD~soil,36133]]'
+subclass_of: '[[_Standards/WikiData/WD~pedologic_process,63382959|WD~pedologic_process,63382959]]'
+has_effect: '[[_Standards/WikiData/WD~soil,36133|WD~soil,36133]]'
 Commons_category: Soil forming factors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MollisolNebraska.JPG
 dv_is_:

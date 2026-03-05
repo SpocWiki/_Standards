@@ -51,109 +51,109 @@ aliases:
 - 쥘 베른
 has_id_wikidata: Q33977
 influenced_by:
-- '[[_Standards/WikiData/WD~Walter_Scott,79025]]'
-- '[[_Standards/WikiData/WD~James_Fenimore_Cooper,167856]]'
-- '[[_Standards/WikiData/WD~Victor_Hugo,535]]'
-- '[[_Standards/WikiData/WD~George_Sand,3816]]'
-- '[[_Standards/WikiData/WD~Edgar_Allan_Poe,16867]]'
-- '[[_Standards/WikiData/WD~Daniel_Defoe,40946]]'
+- '[[_Standards/WikiData/WD~Walter_Scott,79025|WD~Walter_Scott,79025]]'
+- '[[_Standards/WikiData/WD~James_Fenimore_Cooper,167856|WD~James_Fenimore_Cooper,167856]]'
+- '[[_Standards/WikiData/WD~Victor_Hugo,535|WD~Victor_Hugo,535]]'
+- '[[_Standards/WikiData/WD~George_Sand,3816|WD~George_Sand,3816]]'
+- '[[_Standards/WikiData/WD~Edgar_Allan_Poe,16867|WD~Edgar_Allan_Poe,16867]]'
+- '[[_Standards/WikiData/WD~Daniel_Defoe,40946|WD~Daniel_Defoe,40946]]'
 notable_work:
-- '[[_Standards/WikiData/WD~Twenty_Thousand_Leagues_Under_the_Sea,183565]]'
-- '[[_Standards/WikiData/WD~A_Journey_to_the_Center_of_the_Earth,219457]]'
-- '[[_Standards/WikiData/WD~The_Mysterious_Island,471005]]'
-- '[[_Standards/WikiData/WD~Q622634,622634]]'
-- '[[_Standards/WikiData/WD~Michael_Strogoff,1121567]]'
-- '[[_Standards/WikiData/WD~Around_the_World_in_Eighty_Days,1219561]]'
-- '[[_Standards/WikiData/WD~From_the_Earth_to_the_Moon,53592]]'
+- '[[_Standards/WikiData/WD~Twenty_Thousand_Leagues_Under_the_Sea,183565|WD~Twenty_Thousand_Leagues_Under_the_Sea,183565]]'
+- '[[_Standards/WikiData/WD~A_Journey_to_the_Center_of_the_Earth,219457|WD~A_Journey_to_the_Center_of_the_Earth,219457]]'
+- '[[_Standards/WikiData/WD~The_Mysterious_Island,471005|WD~The_Mysterious_Island,471005]]'
+- '[[_Standards/WikiData/WD~Q622634,622634|WD~Q622634,622634]]'
+- '[[_Standards/WikiData/WD~Michael_Strogoff,1121567|WD~Michael_Strogoff,1121567]]'
+- '[[_Standards/WikiData/WD~Around_the_World_in_Eighty_Days,1219561|WD~Around_the_World_in_Eighty_Days,1219561]]'
+- '[[_Standards/WikiData/WD~From_the_Earth_to_the_Moon,53592|WD~From_the_Earth_to_the_Moon,53592]]'
 educated_at:
-- '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
-- '[[_Standards/WikiData/WD~lycée_Georges_Clemenceau,3268696]]'
-- '[[_Standards/WikiData/WD~lycée_Saint_Stanislas,3268936]]'
+- '[[_Standards/WikiData/WD~University_of_Paris,209842|WD~University_of_Paris,209842]]'
+- '[[_Standards/WikiData/WD~lycée_Georges_Clemenceau,3268696|WD~lycée_Georges_Clemenceau,3268696]]'
+- '[[_Standards/WikiData/WD~lycée_Saint_Stanislas,3268936|WD~lycée_Saint_Stanislas,3268936]]'
 occupation:
-- '[[_Standards/WikiData/WD~playwright,214917]]'
-- '[[_Standards/WikiData/WD~futurist,846430]]'
-- '[[_Standards/WikiData/WD~Esperantist,860918]]'
-- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-- '[[_Standards/WikiData/WD~novelist,6625963]]'
-- '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-- '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~playwright,214917|WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~futurist,846430|WD~futurist,846430]]'
+- '[[_Standards/WikiData/WD~Esperantist,860918|WD~Esperantist,860918]]'
+- "[[_Standards/WikiData/WD~children's_writer,4853732|WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~novelist,6625963|WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~science_fiction_writer,18844224|WD~science_fiction_writer,18844224]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757|WD~poet,49757]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Leksikon_Ofek_le_sifrut_yeladim,6588559]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
-- '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Leksikon_Ofek_le_sifrut_yeladim,6588559|WD~Leksikon_Ofek_le_sifrut_yeladim,6588559]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835|WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Iedereen_Leest,41981607|WD~Iedereen_Leest,41981607]]'
+- '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609|WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
 award_received:
-- '[[_Standards/WikiData/WD~Montyon_Prize,372160]]'
-- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-- '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
-child: '[[_Standards/WikiData/WD~Michel_Verne,580137]]'
-has_works_in_the_collection: '[[_Standards/WikiData/WD~Australian_National_Maritime_Museum,844329]]'
+- '[[_Standards/WikiData/WD~Montyon_Prize,372160|WD~Montyon_Prize,372160]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195|WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271|WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500|WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
+child: '[[_Standards/WikiData/WD~Michel_Verne,580137|WD~Michel_Verne,580137]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Australian_National_Maritime_Museum,844329|WD~Australian_National_Maritime_Museum,844329]]'
 genre:
-- '[[_Standards/WikiData/WD~popular_science_literature,1129795]]'
-- '[[_Standards/WikiData/WD~speculative_fiction,9326077]]'
-- '[[_Standards/WikiData/WD~adventure_fiction,21802675]]'
-- '[[_Standards/WikiData/WD~merveilleux_scientifique,67467614]]'
-- '[[_Standards/WikiData/WD~poetry,482]]'
-- '[[_Standards/WikiData/WD~theatre_art,11635]]'
-- '[[_Standards/WikiData/WD~science_fiction,24925]]'
+- '[[_Standards/WikiData/WD~popular_science_literature,1129795|WD~popular_science_literature,1129795]]'
+- '[[_Standards/WikiData/WD~speculative_fiction,9326077|WD~speculative_fiction,9326077]]'
+- '[[_Standards/WikiData/WD~adventure_fiction,21802675|WD~adventure_fiction,21802675]]'
+- '[[_Standards/WikiData/WD~merveilleux_scientifique,67467614|WD~merveilleux_scientifique,67467614]]'
+- '[[_Standards/WikiData/WD~poetry,482|WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~theatre_art,11635|WD~theatre_art,11635]]'
+- '[[_Standards/WikiData/WD~science_fiction,24925|WD~science_fiction,24925]]'
 given_name:
-- '[[_Standards/WikiData/WD~Jules,1711638]]'
-- '[[_Standards/WikiData/WD~Gabriel,4925914]]'
-sibling: '[[_Standards/WikiData/WD~Paul_Verne,1785509]]'
+- '[[_Standards/WikiData/WD~Jules,1711638|WD~Jules,1711638]]'
+- '[[_Standards/WikiData/WD~Gabriel,4925914|WD~Gabriel,4925914]]'
+sibling: '[[_Standards/WikiData/WD~Paul_Verne,1785509|WD~Paul_Verne,1785509]]'
 member_of:
-- '[[_Standards/WikiData/WD~Société_de_Géographie,2297128]]'
-- "[[_Standards/WikiData/WD~Académie_des_sciences,_des_lettres_et_des_arts_d'Amiens,2822392]]"
+- '[[_Standards/WikiData/WD~Société_de_Géographie,2297128|WD~Société_de_Géographie,2297128]]'
+- "[[_Standards/WikiData/WD~Académie_des_sciences,_des_lettres_et_des_arts_d'Amiens,2822392|WD~Académie_des_sciences,_des_lettres_et_des_arts_d'Amiens,2822392]]"
 residence:
-- '[[_Standards/WikiData/WD~Maison_de_Jules_Verne,2415168]]'
-- '[[_Standards/WikiData/WD~Nantes,12191]]'
-- '[[_Standards/WikiData/WD~Paris,90]]'
-- '[[_Standards/WikiData/WD~Amiens,41604]]'
+- '[[_Standards/WikiData/WD~Maison_de_Jules_Verne,2415168|WD~Maison_de_Jules_Verne,2415168]]'
+- '[[_Standards/WikiData/WD~Nantes,12191|WD~Nantes,12191]]'
+- '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
+- '[[_Standards/WikiData/WD~Amiens,41604|WD~Amiens,41604]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Saint_Michel_II,3463011]]'
-- '[[_Standards/WikiData/WD~Saint_Michel_I,21426769]]'
-- '[[_Standards/WikiData/WD~Q51768241,51768241]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-list_of_works: '[[_Standards/WikiData/WD~Jules_Verne_bibliography,4436315]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-place_of_burial: "[[_Standards/WikiData/WD~Cimetière_de_La_Madeleine_d'Amiens,8510420]]"
-topic_has_template: '[[_Standards/WikiData/WD~Template_Jules_Verne,10585685]]'
-spouse: '[[_Standards/WikiData/WD~Honorine_du_Fraysne_de_Viane,21279020]]'
-family_name: '[[_Standards/WikiData/WD~Verne,24723012]]'
-documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
-depicted_by: '[[_Standards/WikiData/WD~Monument_to_Jules_Verne,51954713]]'
-different_from: '[[_Standards/WikiData/WD~Jules_Vern,56824852]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~Wikiproject_Iedereen_Leest,101246526]]'
-present_in_work: '[[_Standards/WikiData/WD~Firmament,105582867]]'
-father: '[[_Standards/WikiData/WD~Pierre_Verne,108838561]]'
-mother: '[[_Standards/WikiData/WD~Sophie_Allotte_de_La_Fuye,108838577]]'
+- '[[_Standards/WikiData/WD~Saint_Michel_II,3463011|WD~Saint_Michel_II,3463011]]'
+- '[[_Standards/WikiData/WD~Saint_Michel_I,21426769|WD~Saint_Michel_I,21426769]]'
+- '[[_Standards/WikiData/WD~Q51768241,51768241|WD~Q51768241,51768241]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+list_of_works: '[[_Standards/WikiData/WD~Jules_Verne_bibliography,4436315|WD~Jules_Verne_bibliography,4436315]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+place_of_burial: "[[_Standards/WikiData/WD~Cimetière_de_La_Madeleine_d'Amiens,8510420|WD~Cimetière_de_La_Madeleine_d'Amiens,8510420]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Jules_Verne,10585685|WD~Template_Jules_Verne,10585685]]'
+spouse: '[[_Standards/WikiData/WD~Honorine_du_Fraysne_de_Viane,21279020|WD~Honorine_du_Fraysne_de_Viane,21279020]]'
+family_name: '[[_Standards/WikiData/WD~Verne,24723012|WD~Verne,24723012]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+depicted_by: '[[_Standards/WikiData/WD~Monument_to_Jules_Verne,51954713|WD~Monument_to_Jules_Verne,51954713]]'
+different_from: '[[_Standards/WikiData/WD~Jules_Vern,56824852|WD~Jules_Vern,56824852]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Wikiproject_Iedereen_Leest,101246526|WD~Wikiproject_Iedereen_Leest,101246526]]'
+present_in_work: '[[_Standards/WikiData/WD~Firmament,105582867|WD~Firmament,105582867]]'
+father: '[[_Standards/WikiData/WD~Pierre_Verne,108838561|WD~Pierre_Verne,108838561]]'
+mother: '[[_Standards/WikiData/WD~Sophie_Allotte_de_La_Fuye,108838577|WD~Sophie_Allotte_de_La_Fuye,108838577]]'
 work_period_start_: 1850-01-01T00:00:00Z
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
-place_of_birth: '[[_Standards/WikiData/WD~Nantes,12191]]'
-cause_of_death: '[[_Standards/WikiData/WD~diabetes,12206]]'
-field_of_work: '[[_Standards/WikiData/WD~drama,25372]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
+place_of_birth: '[[_Standards/WikiData/WD~Nantes,12191|WD~Nantes,12191]]'
+cause_of_death: '[[_Standards/WikiData/WD~diabetes,12206|WD~diabetes,12206]]'
+field_of_work: '[[_Standards/WikiData/WD~drama,25372|WD~drama,25372]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~Esperanto,143]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-writing_language: '[[_Standards/WikiData/WD~French,150]]'
-native_language: '[[_Standards/WikiData/WD~French,150]]'
-place_of_death: '[[_Standards/WikiData/WD~Amiens,41604]]'
+- '[[_Standards/WikiData/WD~Esperanto,143|WD~Esperanto,143]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+writing_language: '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+place_of_death: '[[_Standards/WikiData/WD~Amiens,41604|WD~Amiens,41604]]'
 Commons_Creator_page: Jules Verne
 Commons_gallery: Jules Verne
 Commons_category: Jules Verne
@@ -328,7 +328,7 @@ dv_has_:
 
 # [[Verne,Jules]] 
 
-Verne had a Notes system, similar to [[../../../../../../../../_orga/Zettelkasten]] that he destroyed before his death. 
+Verne had a Notes system, similar to [[../../../../../../../../_orga/Zettelkasten|Zettelkasten]] that he destroyed before his death. 
 He had a regular monthly income from a contract with his publisher. 
 His Novels were used to educate children on Technology. 
 
@@ -373,7 +373,7 @@ His Novels were used to educate children on Technology.
 > **Jules Verne** has been the second most-translated author in the world since 1979, 
 > ranking below Agatha Christie and above [[../Renaissance_Writer/Shakespeare,William|William Shakespeare]].  
 > He has sometimes been called the "father of science fiction", 
-> a title that has also been given to [[Wells,H.G]] and [[../English_Writer/Gernsback,Hugo]]. 
+> a title that has also been given to [[Wells,H.G]] and [[../English_Writer/Gernsback,Hugo|Gernsback,Hugo]]. 
 > 
 > In the 2010s, he was the most translated French author in the world. 
 > In France, 2005 was declared "Jules Verne Year" 

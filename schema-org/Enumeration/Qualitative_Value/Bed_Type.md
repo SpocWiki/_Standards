@@ -26,9 +26,9 @@ tags:
 title: is_a_bed_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../DayOfWeek]]"
+  parent_class: "[[../DayOfWeek|DayOfWeek]]"
 dv_is_:
-  enum_of: "[[../DayOfWeek]]"
+  enum_of: "[[../DayOfWeek|DayOfWeek]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Bed_Type|Bed_Type]]"
     - "[[/_public/schema-org/Enumeration/Qualitative_Value/Bed_Type.public|Bed_Type.public]]"
@@ -38,8 +38,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Bed_Type.personal|Bed_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Bed_Type.secret|Bed_Type.secret]]"
     - "[[Bed_Type]]"
-dv_has_parent_class: "[[../DayOfWeek]]"
-dv_is_enum_of: "[[../DayOfWeek]]"
+dv_has_parent_class: "[[../DayOfWeek|DayOfWeek]]"
+dv_is_enum_of: "[[../DayOfWeek|DayOfWeek]]"
 dv_is_same_as:
   - "[[Bed_Type]]"
   - "[[/_public/schema-org/Enumeration/Qualitative_Value/Bed_Type.public|Bed_Type.public]]"

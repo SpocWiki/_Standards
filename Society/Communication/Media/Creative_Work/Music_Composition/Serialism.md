@@ -38,12 +38,12 @@ aliases:
 - 음렬주의
 has_id_wikidata: Q507246
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~compositional_technique,9356285]]'
-- '[[_Standards/WikiData/WD~musical_movement,12020884]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-part_of: '[[_Standards/WikiData/WD~serial_art,7454675]]'
-subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~compositional_technique,9356285|WD~compositional_technique,9356285]]'
+- '[[_Standards/WikiData/WD~musical_movement,12020884|WD~musical_movement,12020884]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+part_of: '[[_Standards/WikiData/WD~serial_art,7454675|WD~serial_art,7454675]]'
+subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946|WD~modern_classical_music,65937946]]'
 Commons_category: Serialism
 inception: 1923-01-01T00:00:00Z
 dv_has_:

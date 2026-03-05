@@ -44,16 +44,16 @@ aliases:
 - 贸易战
 - 무역 전쟁
 has_id_wikidata: Q692412
-has_cause: '[[_Standards/WikiData/WD~protectionism,179073]]'
+has_cause: '[[_Standards/WikiData/WD~protectionism,179073|WD~protectionism,179073]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~trade_barrier,377302]]'
-- '[[_Standards/WikiData/WD~tariff,52389]]'
+- '[[_Standards/WikiData/WD~trade_barrier,377302|WD~trade_barrier,377302]]'
+- '[[_Standards/WikiData/WD~tariff,52389|WD~tariff,52389]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_issue,1920219]]'
-- '[[_Standards/WikiData/WD~economic_warfare,2296073]]'
-- '[[_Standards/WikiData/WD~trade_conflict,2912528]]'
-- '[[_Standards/WikiData/WD~political_risk,7885121]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
+- '[[_Standards/WikiData/WD~social_issue,1920219|WD~social_issue,1920219]]'
+- '[[_Standards/WikiData/WD~economic_warfare,2296073|WD~economic_warfare,2296073]]'
+- '[[_Standards/WikiData/WD~trade_conflict,2912528|WD~trade_conflict,2912528]]'
+- '[[_Standards/WikiData/WD~political_risk,7885121|WD~political_risk,7885121]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_conflict,125092269|WD~type_of_conflict,125092269]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Handelsoorlog-article.ogg
 dv_has_:
   name_:
@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Trade_War]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~trade_war,692412]] 
+#is_/same_as :: [[_Standards/WikiData/WD~trade_war,692412|WD~trade_war,692412]] 
 
 ## #has_/text_of_/abstract 
 

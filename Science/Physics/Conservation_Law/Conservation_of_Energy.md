@@ -105,15 +105,15 @@ aliases:
 - 에너지 보존 법칙
 has_id_wikidata: Q11382
 instance_of:
-- '[[_Standards/WikiData/WD~conservation_law,205805]]'
-- '[[_Standards/WikiData/WD~physical_law,214070]]'
-different_from: '[[_Standards/WikiData/WD~energy_conservation,380170]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~conservation_of_mass,483948]]'
+- '[[_Standards/WikiData/WD~conservation_law,205805|WD~conservation_law,205805]]'
+- '[[_Standards/WikiData/WD~physical_law,214070|WD~physical_law,214070]]'
+different_from: '[[_Standards/WikiData/WD~energy_conservation,380170|WD~energy_conservation,380170]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~conservation_of_mass,483948|WD~conservation_of_mass,483948]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-has_part_s_: '[[_Standards/WikiData/WD~energy,11379]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+has_part_s_: '[[_Standards/WikiData/WD~energy,11379|WD~energy,11379]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%20%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8.webm
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B7%D5%B6%D5%A5%D6%80%D5%A3%D5%AB%D5%A1%D5%B5%D5%AB%20%D5%BA%D5%A1%D5%B0%D5%BA%D5%A1%D5%B6%D5%B4%D5%A1%D5%B6%20%D6%85%D6%80%D5%A5%D5%B6%D6%84%20%28Conservation%20of%20energy%29.ogg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Energieerhaltungssatz.wav

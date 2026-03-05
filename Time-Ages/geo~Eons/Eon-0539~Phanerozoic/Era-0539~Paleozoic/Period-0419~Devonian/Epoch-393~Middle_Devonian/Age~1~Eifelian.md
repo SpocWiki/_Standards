@@ -25,15 +25,15 @@ aliases:
 - 艾菲尔期
 - 艾菲爾階
 has_id_wikidata: Q730523
-named_after: '[[_Standards/WikiData/WD~Eifel,152356]]'
-named_by: '[[_Standards/WikiData/WD~André_Dumont,519775]]'
+named_after: '[[_Standards/WikiData/WD~Eifel,152356|WD~Eifel,152356]]'
+named_by: '[[_Standards/WikiData/WD~André_Dumont,519775|WD~André_Dumont,519775]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-different_from: '[[_Standards/WikiData/WD~Q9251709,9251709]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Eifelian,134580210]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+different_from: '[[_Standards/WikiData/WD~Q9251709,9251709|WD~Q9251709,9251709]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Eifelian,134580210|WD~GSSP_for_the_base_of_the_Eifelian,134580210]]'
 start_time: -393300000-01-01T00:00:00Z
 coordinate_location: Point(6.4716 50.1496)
 end_time: -387700000-01-01T00:00:00Z

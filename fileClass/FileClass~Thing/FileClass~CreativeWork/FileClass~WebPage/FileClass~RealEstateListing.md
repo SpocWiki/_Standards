@@ -37,7 +37,7 @@ version: 2.0
 # RealEstateListing
 This is a kind of [[FileClass~WebPage]]
 
-A [[RealEstateListing]] is a listing that describes one or more real-estate [[../../../../Society/Agent/Community/Organization/Business/Offer]]s (whose [[businessFunction]] is typically to lease out, or to sell).  
+A [[RealEstateListing]] is a listing that describes one or more real-estate [[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]]s (whose [[businessFunction]] is typically to lease out, or to sell).  
  The [[RealEstateListing]] type itself represents the overall listing, as manifested in some [[WebPage]].
 
 
@@ -55,7 +55,7 @@ Publication date of an online listing.
 DatePosted:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 ### LeaseLength
-Length of the lease for some [[../../../../Earth/Geography/Place/Accommodation]], either particular to some [[../../../../Society/Agent/Community/Organization/Business/Offer]] or in some cases intrinsic to the property.
+Length of the lease for some [[../../../../Earth/Geography/Place/Accommodation|Accommodation]], either particular to some [[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]] or in some cases intrinsic to the property.
 
 LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}}
 

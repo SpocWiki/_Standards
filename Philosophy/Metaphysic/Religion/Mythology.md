@@ -117,40 +117,40 @@ Wikidata_usage_instructions:
 - Legende (WikiData-Objekt Q44342) verwenden, wenn es um Geschichten über Menschen geht.
 - Use 'Legend' - Q44342 - for stories of heroic humans
 studied_by:
-- '[[_Standards/WikiData/WD~ethnography,132151]]'
-- '[[_Standards/WikiData/WD~mythography,580854]]'
-- '[[_Standards/WikiData/WD~ethnology,43455]]'
+- '[[_Standards/WikiData/WD~ethnography,132151|WD~ethnography,132151]]'
+- '[[_Standards/WikiData/WD~mythography,580854|WD~mythography,580854]]'
+- '[[_Standards/WikiData/WD~ethnology,43455|WD~ethnology,43455]]'
 instance_of:
-- '[[_Standards/WikiData/WD~genre,483394]]'
-- '[[_Standards/WikiData/WD~type_of_world_view,110401282]]'
+- '[[_Standards/WikiData/WD~genre,483394|WD~genre,483394]]'
+- '[[_Standards/WikiData/WD~type_of_world_view,110401282|WD~type_of_world_view,110401282]]'
 part_of:
-- '[[_Standards/WikiData/WD~fictional_universe,559618]]'
-- '[[_Standards/WikiData/WD~culture,11042]]'
+- '[[_Standards/WikiData/WD~fictional_universe,559618|WD~fictional_universe,559618]]'
+- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950_1958),20968284]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Mythology,6325637]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mythology,11042641]]'
-has_part_s_: '[[_Standards/WikiData/WD~myth,12827256]]'
-practiced_by: '[[_Standards/WikiData/WD~mythologist,16724455]]'
-has_list: '[[_Standards/WikiData/WD~list_of_mythologies,21013762]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131935,27131935]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950_1958),20968284|WD~Great_Soviet_Encyclopedia_(1950_1958),20968284]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Mythology,6325637|WD~Template_Mythology,6325637]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mythology,11042641|WD~Portal_Mythology,11042641]]'
+has_part_s_: '[[_Standards/WikiData/WD~myth,12827256|WD~myth,12827256]]'
+practiced_by: '[[_Standards/WikiData/WD~mythologist,16724455|WD~mythologist,16724455]]'
+has_list: '[[_Standards/WikiData/WD~list_of_mythologies,21013762|WD~list_of_mythologies,21013762]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131935,27131935|WD~Q27131935,27131935]]'
 different_from:
-- '[[_Standards/WikiData/WD~mythical_universe,107863035]]'
-- '[[_Standards/WikiData/WD~fiction,8253]]'
+- '[[_Standards/WikiData/WD~mythical_universe,107863035|WD~mythical_universe,107863035]]'
+- '[[_Standards/WikiData/WD~fiction,8253|WD~fiction,8253]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~folklore,36192]]'
-- '[[_Standards/WikiData/WD~world_view,49447]]'
+- '[[_Standards/WikiData/WD~folklore,36192|WD~folklore,36192]]'
+- '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
 OmegaWiki_Defined_Meaning: 1092006
 subreddit: mythology
 short_name: Myth

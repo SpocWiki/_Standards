@@ -65,7 +65,7 @@ aliases:
 - 资源描述框架
 ---
 
-# [[../Technology/IT/Data/Data_Language/RDF(Resource_Description_Framework)]] 
+# [[../Technology/IT/Data/Data_Language/RDF(Resource_Description_Framework)|RDF(Resource_Description_Framework)]] 
 
 #has_/url :: http://www.w3.org/1999/02/22-rdf-syntax-ns#
 #has_/url_for_ :: rdf 

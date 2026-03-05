@@ -98,12 +98,12 @@ aliases:
 - 検索エンジン
 - 검색 엔진
 has_id_wikidata: Q19541
-described_by_source: '[[_Standards/WikiData/WD~search_engine_optimization,180711]]'
-uses: '[[_Standards/WikiData/WD~search_algorithm,755673]]'
-has_use: '[[_Standards/WikiData/WD~information_retrieval,816826]]'
-different_from: '[[_Standards/WikiData/WD~search_engine,4182287]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_search_engines,25348361]]'
-subclass_of: '[[_Standards/WikiData/WD~software,7397]]'
+described_by_source: '[[_Standards/WikiData/WD~search_engine_optimization,180711|WD~search_engine_optimization,180711]]'
+uses: '[[_Standards/WikiData/WD~search_algorithm,755673|WD~search_algorithm,755673]]'
+has_use: '[[_Standards/WikiData/WD~information_retrieval,816826|WD~information_retrieval,816826]]'
+different_from: '[[_Standards/WikiData/WD~search_engine,4182287|WD~search_engine,4182287]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_search_engines,25348361|WD~outline_of_search_engines,25348361]]'
+subclass_of: '[[_Standards/WikiData/WD~software,7397|WD~software,7397]]'
 Commons_category: Search engines
 Thomson_Reuters_Business_Classification: 667898877
 UMLS_CUI: C2348167

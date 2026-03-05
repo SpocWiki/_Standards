@@ -11,7 +11,7 @@
 # Benjamin von Stuckrad-Barre
 
 
-![[../../../../../../assets/Pictures/People/Public/Stuckrad-Barre,Benjamin_von.jpg]] 
+![[../../../../../../assets/Pictures/People/Public/Stuckrad-Barre,Benjamin_von.jpg|Stuckrad-Barre,Benjamin_von.jpg]] 
 Benjamin von Stuckrad-Barre (2016)
 
 **Benjamin von Stuckrad-Barre** (* [27. Januar](https://de.wikipedia.org/wiki/27._Januar "27. Januar") [1975](https://de.wikipedia.org/wiki/1975 "1975") in [Bremen](https://de.wikipedia.org/wiki/Bremen "Bremen")) 
@@ -118,7 +118,7 @@ Im März 2021 erhob Stuckrad-Barre laut dem Magazin _[Medieninsider](https://de.
 
 ## Weblinks
 
-![[../../../../../../assets/Pictures/Icons/6a51dfe178f86844756ccd1b2b7c5a9f_MD5.png]]
+![[../../../../../../assets/Pictures/Icons/6a51dfe178f86844756ccd1b2b7c5a9f_MD5.png|6a51dfe178f86844756ccd1b2b7c5a9f_MD5.png]]
 
 **[Commons: Benjamin von Stuckrad-Barre](https://commons.wikimedia.org/wiki/Category:Benjamin_von_Stuckrad-Barre?uselang=de)** – Sammlung von Bildern
 

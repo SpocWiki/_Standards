@@ -158,23 +158,23 @@ aliases:
 - "\U0001D615"
 has_id_wikidata: Q21199
 different_from:
-- '[[_Standards/WikiData/WD~cardinal_number,163875]]'
-- '[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634]]'
-has_use: '[[_Standards/WikiData/WD~finger_counting,1417141]]'
-has_list: '[[_Standards/WikiData/WD~list_of_natural_numbers,2019236]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_number,5883543]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~cardinal_number,163875|WD~cardinal_number,163875]]'
+- '[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634|WD~set_of_non_negative_integers,28777634]]'
+has_use: '[[_Standards/WikiData/WD~finger_counting,1417141|WD~finger_counting,1417141]]'
+has_list: '[[_Standards/WikiData/WD~list_of_natural_numbers,2019236|WD~list_of_natural_numbers,2019236]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_number,5883543|WD~Template_Infobox_number,5883543]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~positive_integer,28920044]]'
-- '[[_Standards/WikiData/WD~non_negative_integer,28920052]]'
+- '[[_Standards/WikiData/WD~positive_integer,28920044|WD~positive_integer,28920044]]'
+- '[[_Standards/WikiData/WD~non_negative_integer,28920052|WD~non_negative_integer,28920052]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~positive_integer,28920044]]'
-- '[[_Standards/WikiData/WD~non_negative_integer,28920052]]'
-instance_of: '[[_Standards/WikiData/WD~mathematical_term,66786238]]'
+- '[[_Standards/WikiData/WD~positive_integer,28920044|WD~positive_integer,28920044]]'
+- '[[_Standards/WikiData/WD~non_negative_integer,28920052|WD~non_negative_integer,28920052]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_term,66786238|WD~mathematical_term,66786238]]'
 notation:
-- '[[_Standards/WikiData/WD~ℕ,87523845]]'
-- '[[_Standards/WikiData/WD~N,9937]]'
-studied_by: '[[_Standards/WikiData/WD~number_theory,12479]]'
+- '[[_Standards/WikiData/WD~ℕ,87523845|WD~ℕ,87523845]]'
+- '[[_Standards/WikiData/WD~N,9937|WD~N,9937]]'
+studied_by: '[[_Standards/WikiData/WD~number_theory,12479|WD~number_theory,12479]]'
 EntitySchema_for_this_class: E13
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Iowa%20420.svg
 Stack_Exchange_tag: https://proofassistants.stackexchange.com/tags/natural-numbers

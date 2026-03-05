@@ -76,11 +76,11 @@ aliases:
 - 致電離輻射
 - 이온화 방사선
 has_id_wikidata: Q186161
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~radiation_protection,1574099]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~radiation_protection,1574099|WD~radiation_protection,1574099]]'
 has_effect:
-- '[[_Standards/WikiData/WD~radiation_induced_neoplasms,7280327]]'
-- '[[_Standards/WikiData/WD~radiation_injury,11498930]]'
-subclass_of: '[[_Standards/WikiData/WD~radiation,18335]]'
+- '[[_Standards/WikiData/WD~radiation_induced_neoplasms,7280327|WD~radiation_induced_neoplasms,7280327]]'
+- '[[_Standards/WikiData/WD~radiation_injury,11498930|WD~radiation_injury,11498930]]'
+subclass_of: '[[_Standards/WikiData/WD~radiation,18335|WD~radiation,18335]]'
 OmegaWiki_Defined_Meaning: 2021
 U_S_National_Archives_Identifier: 10646158
 subreddit: Radiation

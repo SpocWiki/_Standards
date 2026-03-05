@@ -74,20 +74,20 @@ aliases:
 - 오리엔트 정교회
 has_id_wikidata: Q49377
 has_part_s_:
-- '[[_Standards/WikiData/WD~Ethiopian_Orthodox_Tewahedo_Church,179829]]'
-- '[[_Standards/WikiData/WD~Coptic_Orthodox_Church,198998]]'
-- '[[_Standards/WikiData/WD~Syriac_Orthodox_Church,210540]]'
-- '[[_Standards/WikiData/WD~Armenian_Apostolic_Church,683724]]'
-- '[[_Standards/WikiData/WD~Eritrean_Orthodox_Tewahedo_Church,844083]]'
-has_characteristic: '[[_Standards/WikiData/WD~full_communion,649499]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Oriental_Orthodoxy,21830564]]'
+- '[[_Standards/WikiData/WD~Ethiopian_Orthodox_Tewahedo_Church,179829|WD~Ethiopian_Orthodox_Tewahedo_Church,179829]]'
+- '[[_Standards/WikiData/WD~Coptic_Orthodox_Church,198998|WD~Coptic_Orthodox_Church,198998]]'
+- '[[_Standards/WikiData/WD~Syriac_Orthodox_Church,210540|WD~Syriac_Orthodox_Church,210540]]'
+- '[[_Standards/WikiData/WD~Armenian_Apostolic_Church,683724|WD~Armenian_Apostolic_Church,683724]]'
+- '[[_Standards/WikiData/WD~Eritrean_Orthodox_Tewahedo_Church,844083|WD~Eritrean_Orthodox_Tewahedo_Church,844083]]'
+has_characteristic: '[[_Standards/WikiData/WD~full_communion,649499|WD~full_communion,649499]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Oriental_Orthodoxy,21830564|WD~WikiProject_Oriental_Orthodoxy,21830564]]'
 different_from:
-- '[[_Standards/WikiData/WD~Oriental_Orthodoxy,111464733]]'
-- '[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]'
-- '[[_Standards/WikiData/WD~Eastern_Catholic_Churches,49376]]'
-subclass_of: '[[_Standards/WikiData/WD~Oriental_Orthodoxy,111464733]]'
-practiced_by: '[[_Standards/WikiData/WD~Oriental_Orthodox_Christian,118139738]]'
-instance_of: '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
+- '[[_Standards/WikiData/WD~Oriental_Orthodoxy,111464733|WD~Oriental_Orthodoxy,111464733]]'
+- '[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032|WD~Eastern_Orthodox_Church,35032]]'
+- '[[_Standards/WikiData/WD~Eastern_Catholic_Churches,49376|WD~Eastern_Catholic_Churches,49376]]'
+subclass_of: '[[_Standards/WikiData/WD~Oriental_Orthodoxy,111464733|WD~Oriental_Orthodoxy,111464733]]'
+practiced_by: '[[_Standards/WikiData/WD~Oriental_Orthodox_Christian,118139738|WD~Oriental_Orthodox_Christian,118139738]]'
+instance_of: '[[_Standards/WikiData/WD~Christian_denominational_family,123129246|WD~Christian_denominational_family,123129246]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20feeding%20the%20multitude.jpg
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Oriental%20Orthodoxy%20by%20country.png
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/oriental-orthodox

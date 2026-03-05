@@ -107,36 +107,36 @@ aliases:
 - 학습
 has_id_wikidata: Q133500
 has_effect:
-- '[[_Standards/WikiData/WD~experience,164359]]'
-- '[[_Standards/WikiData/WD~knowledge,9081]]'
-- '[[_Standards/WikiData/WD~understanding,46744]]'
+- '[[_Standards/WikiData/WD~experience,164359|WD~experience,164359]]'
+- '[[_Standards/WikiData/WD~knowledge,9081|WD~knowledge,9081]]'
+- '[[_Standards/WikiData/WD~understanding,46744|WD~understanding,46744]]'
 has_cause:
-- '[[_Standards/WikiData/WD~qualia,282250]]'
-- '[[_Standards/WikiData/WD~teaching,352842]]'
-- '[[_Standards/WikiData/WD~curiosity,366791]]'
-- '[[_Standards/WikiData/WD~education,8434]]'
+- '[[_Standards/WikiData/WD~qualia,282250|WD~qualia,282250]]'
+- '[[_Standards/WikiData/WD~teaching,352842|WD~teaching,352842]]'
+- '[[_Standards/WikiData/WD~curiosity,366791|WD~curiosity,366791]]'
+- '[[_Standards/WikiData/WD~education,8434|WD~education,8434]]'
 studied_by:
-- '[[_Standards/WikiData/WD~learning_theory,1790374]]'
-- '[[_Standards/WikiData/WD~educational_assessment,2585724]]'
+- '[[_Standards/WikiData/WD~learning_theory,1790374|WD~learning_theory,1790374]]'
+- '[[_Standards/WikiData/WD~educational_assessment,2585724|WD~educational_assessment,2585724]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~learning_strategy,1820336]]'
-- '[[_Standards/WikiData/WD~learning_style,1820370]]'
-- '[[_Standards/WikiData/WD~study_skill,1899632]]'
-uses: '[[_Standards/WikiData/WD~learning_cycle,6510168]]'
+- '[[_Standards/WikiData/WD~learning_strategy,1820336|WD~learning_strategy,1820336]]'
+- '[[_Standards/WikiData/WD~learning_style,1820370|WD~learning_style,1820370]]'
+- '[[_Standards/WikiData/WD~study_skill,1899632|WD~study_skill,1899632]]'
+uses: '[[_Standards/WikiData/WD~learning_cycle,6510168|WD~learning_cycle,6510168]]'
 different_from:
-- '[[_Standards/WikiData/WD~Učenie,12778159]]'
-- '[[_Standards/WikiData/WD~Sinau,55992216]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Learning,14440227]]'
-subclass_of: '[[_Standards/WikiData/WD~learning_or_memory,14819853]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-has_part_s_: '[[_Standards/WikiData/WD~learning_activity,98034006]]'
+- '[[_Standards/WikiData/WD~Učenie,12778159|WD~Učenie,12778159]]'
+- '[[_Standards/WikiData/WD~Sinau,55992216|WD~Sinau,55992216]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Learning,14440227|WD~Template_Learning,14440227]]'
+subclass_of: '[[_Standards/WikiData/WD~learning_or_memory,14819853|WD~learning_or_memory,14819853]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+has_part_s_: '[[_Standards/WikiData/WD~learning_activity,98034006|WD~learning_activity,98034006]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_process,116505632]]'
-- '[[_Standards/WikiData/WD~behavior,9332]]'
-facet_of: '[[_Standards/WikiData/WD~memory,492]]'
-participant: '[[_Standards/WikiData/WD~information,11028]]'
+- '[[_Standards/WikiData/WD~type_of_process,116505632|WD~type_of_process,116505632]]'
+- '[[_Standards/WikiData/WD~behavior,9332|WD~behavior,9332]]'
+facet_of: '[[_Standards/WikiData/WD~memory,492|WD~memory,492]]'
+participant: '[[_Standards/WikiData/WD~information,11028|WD~information,11028]]'
 social_media_followers: 21600
-practiced_by: '[[_Standards/WikiData/WD~schoolchild,48942]]'
+practiced_by: '[[_Standards/WikiData/WD~schoolchild,48942|WD~schoolchild,48942]]'
 Library_of_Congress_Classification:
 - QP408
 - LB1060-LB1078

@@ -91,40 +91,40 @@ aliases:
 - 사회 운동
 has_id_wikidata: Q49773
 different_from:
-- '[[_Standards/WikiData/WD~social_mobility,194417]]'
-- '[[_Standards/WikiData/WD~Q4330229,4330229]]'
-- '[[_Standards/WikiData/WD~dissidence,19509099]]'
+- '[[_Standards/WikiData/WD~social_mobility,194417|WD~social_mobility,194417]]'
+- '[[_Standards/WikiData/WD~Q4330229,4330229|WD~Q4330229,4330229]]'
+- '[[_Standards/WikiData/WD~dissidence,19509099|WD~dissidence,19509099]]'
 part_of:
-- '[[_Standards/WikiData/WD~activism,203764]]'
-- '[[_Standards/WikiData/WD~society,8425]]'
+- '[[_Standards/WikiData/WD~activism,203764|WD~activism,203764]]'
+- '[[_Standards/WikiData/WD~society,8425|WD~society,8425]]'
 has_contributing_factor:
-- '[[_Standards/WikiData/WD~relative_deprivation,580987]]'
-- '[[_Standards/WikiData/WD~identity,844569]]'
-- '[[_Standards/WikiData/WD~self_efficacy,1153659]]'
-- '[[_Standards/WikiData/WD~collective_action,1471594]]'
-- '[[_Standards/WikiData/WD~resource,1554231]]'
-- '[[_Standards/WikiData/WD~political_process,11827330]]'
-- '[[_Standards/WikiData/WD~ideology,7257]]'
-- '[[_Standards/WikiData/WD~world_view,49447]]'
+- '[[_Standards/WikiData/WD~relative_deprivation,580987|WD~relative_deprivation,580987]]'
+- '[[_Standards/WikiData/WD~identity,844569|WD~identity,844569]]'
+- '[[_Standards/WikiData/WD~self_efficacy,1153659|WD~self_efficacy,1153659]]'
+- '[[_Standards/WikiData/WD~collective_action,1471594|WD~collective_action,1471594]]'
+- '[[_Standards/WikiData/WD~resource,1554231|WD~resource,1554231]]'
+- '[[_Standards/WikiData/WD~political_process,11827330|WD~political_process,11827330]]'
+- '[[_Standards/WikiData/WD~ideology,7257|WD~ideology,7257]]'
+- '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
 participant:
-- '[[_Standards/WikiData/WD~individual,795052]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~individual,795052|WD~individual,795052]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Q1323572,1323572]]'
-- '[[_Standards/WikiData/WD~radical_politics,97570923]]'
-has_goal: '[[_Standards/WikiData/WD~social_change,1510761]]'
+- '[[_Standards/WikiData/WD~Q1323572,1323572|WD~Q1323572,1323572]]'
+- '[[_Standards/WikiData/WD~radical_politics,97570923|WD~radical_politics,97570923]]'
+has_goal: '[[_Standards/WikiData/WD~social_change,1510761|WD~social_change,1510761]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_change,1510761]]'
-- '[[_Standards/WikiData/WD~social_process,2305441]]'
-- '[[_Standards/WikiData/WD~collective_behavior,2548752]]'
-- '[[_Standards/WikiData/WD~group_action,3533467]]'
-- '[[_Standards/WikiData/WD~human_activity,61788060]]'
-has_list: '[[_Standards/WikiData/WD~list_of_social_movements,6639688]]'
-studied_by: '[[_Standards/WikiData/WD~Social_movement_theory,7551260]]'
-practiced_by: '[[_Standards/WikiData/WD~social_activist,8359428]]'
+- '[[_Standards/WikiData/WD~social_change,1510761|WD~social_change,1510761]]'
+- '[[_Standards/WikiData/WD~social_process,2305441|WD~social_process,2305441]]'
+- '[[_Standards/WikiData/WD~collective_behavior,2548752|WD~collective_behavior,2548752]]'
+- '[[_Standards/WikiData/WD~group_action,3533467|WD~group_action,3533467]]'
+- '[[_Standards/WikiData/WD~human_activity,61788060|WD~human_activity,61788060]]'
+has_list: '[[_Standards/WikiData/WD~list_of_social_movements,6639688|WD~list_of_social_movements,6639688]]'
+studied_by: '[[_Standards/WikiData/WD~Social_movement_theory,7551260|WD~Social_movement_theory,7551260]]'
+practiced_by: '[[_Standards/WikiData/WD~social_activist,8359428|WD~social_activist,8359428]]'
 instance_of:
-- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-- '[[_Standards/WikiData/WD~type_of_world_view,110401282]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~type_of_world_view,110401282|WD~type_of_world_view,110401282]]'
 main_Wikidata_property: in opposition to
 OmegaWiki_Defined_Meaning: 354022
 Library_of_Congress_Classification: HM881-HM883

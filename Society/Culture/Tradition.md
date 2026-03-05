@@ -93,20 +93,20 @@ aliases:
 - 전통
 has_id_wikidata: Q82821
 has_part_s_:
-- '[[_Standards/WikiData/WD~oral_tradition,209815]]'
-- '[[_Standards/WikiData/WD~folklore,36192]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~custom,251777]]'
+- '[[_Standards/WikiData/WD~oral_tradition,209815|WD~oral_tradition,209815]]'
+- '[[_Standards/WikiData/WD~folklore,36192|WD~folklore,36192]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~custom,251777|WD~custom,251777]]'
 part_of:
-- '[[_Standards/WikiData/WD~custom,251777]]'
-- '[[_Standards/WikiData/WD~culture,11042]]'
+- '[[_Standards/WikiData/WD~custom,251777|WD~custom,251777]]'
+- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~custom,251777]]'
-- '[[_Standards/WikiData/WD~heritage,2434238]]'
+- '[[_Standards/WikiData/WD~custom,251777|WD~custom,251777]]'
+- '[[_Standards/WikiData/WD~heritage,2434238|WD~heritage,2434238]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Commons_category: Traditions
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dreschen%20mit%20Flegel.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Kaugalian.wav

@@ -26,7 +26,7 @@ tags:
 title: is_a_defined_region Class
 type: Type
 dv_is_:
-  parent_class: "[[../StructuredValue]]"
+  parent_class: "[[../StructuredValue|StructuredValue]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region|Defined_Region]]"
@@ -58,7 +58,7 @@ dv_has_:
     - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../structured_value|../structured_value]]"
+  - "[[../structured_value|../structured_value|structured_value]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../Relation/has/has_address_country|has_address_country]]"

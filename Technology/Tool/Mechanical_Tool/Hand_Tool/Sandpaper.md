@@ -62,10 +62,10 @@ aliases:
 - 紙やすり
 - 사포
 has_id_wikidata: Q142274
-has_part_s_: '[[_Standards/WikiData/WD~abrasive,372301]]'
-subclass_of: '[[_Standards/WikiData/WD~woodworking_tool,11789812]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-has_use: '[[_Standards/WikiData/WD~sanding,69993563]]'
+has_part_s_: '[[_Standards/WikiData/WD~abrasive,372301|WD~abrasive,372301]]'
+subclass_of: '[[_Standards/WikiData/WD~woodworking_tool,11789812|WD~woodworking_tool,11789812]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_use: '[[_Standards/WikiData/WD~sanding,69993563|WD~sanding,69993563]]'
 Nomenclature_for_Museum_Cataloging: 7561
 OmegaWiki_Defined_Meaning: 1045551
 GS1_GPC_code: 10003156

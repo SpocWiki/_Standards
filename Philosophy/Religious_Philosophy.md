@@ -45,13 +45,13 @@ aliases:
 - 종교적 철학
 has_id_wikidata: Q2054106
 Commons_category: Religious philosophy
-different_from: '[[_Standards/WikiData/WD~philosophy_of_religion,209295]]'
+different_from: '[[_Standards/WikiData/WD~philosophy_of_religion,209295|WD~philosophy_of_religion,209295]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_world_view,110401282]]'
+- '[[_Standards/WikiData/WD~type_of_world_view,110401282|WD~type_of_world_view,110401282]]'
 MeSH_tree_code:
 - K01.844.799
 Provenio_UUID: 8f0820f8-109c-4f42-b9fe-ba67ccc3b1c1
-subclass_of: '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophical_movement,2915955|WD~philosophical_movement,2915955]]'
 dv_has_:
   name_:
     ar: فلسفة دينية

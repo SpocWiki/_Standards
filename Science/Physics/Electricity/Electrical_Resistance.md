@@ -91,21 +91,21 @@ aliases:
 - 전기저항
 has_id_wikidata: Q25358
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
 different_from:
-- '[[_Standards/WikiData/WD~electrical_resistivity,108193]]'
-- '[[_Standards/WikiData/WD~resistance_to_alternating_current,1048490]]'
-part_of: '[[_Standards/WikiData/WD~impedance,179043]]'
-opposite_of: '[[_Standards/WikiData/WD~electrical_conductance,309017]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~electrical_resistivity,108193|WD~electrical_resistivity,108193]]'
+- '[[_Standards/WikiData/WD~resistance_to_alternating_current,1048490|WD~resistance_to_alternating_current,1048490]]'
+part_of: '[[_Standards/WikiData/WD~impedance,179043|WD~impedance,179043]]'
+opposite_of: '[[_Standards/WikiData/WD~electrical_conductance,309017|WD~electrical_conductance,309017]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936|WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945|WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~kilogram_square_metre_per_cubic_second_square_ampere,119205557]]'
-- '[[_Standards/WikiData/WD~ohm,47083]]'
-facet_of: "[[_Standards/WikiData/WD~Ohm's_law,41591]]"
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_cubic_second_square_ampere,119205557|WD~kilogram_square_metre_per_cubic_second_square_ampere,119205557]]'
+- '[[_Standards/WikiData/WD~ohm,47083|WD~ohm,47083]]'
+facet_of: "[[_Standards/WikiData/WD~Ohm's_law,41591|WD~Ohm's_law,41591]]"
 quantity_symbol_string_: R
 OmegaWiki_Defined_Meaning: 497271
 IEV_number: 131-12-04

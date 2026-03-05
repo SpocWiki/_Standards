@@ -29,12 +29,12 @@ tags:
 title: has_child_class
 type: Predi_Relation
 dv_has_:
-  inverse: "[[../has_parent/has_parent_class]]"
-  child_class: "[[../../../Class]]"
-  domain: "[[../../../Class]]"
+  inverse: "[[../has_parent/has_parent_class|has_parent_class]]"
+  child_class: "[[../../../Class|Class]]"
+  domain: "[[../../../Class|Class]]"
   name: has_child_class
   range: "[[Thing]]"
-dv_has_child_class: "[[../../../Class]]"
+dv_has_child_class: "[[../../../Class|Class]]"
 dv_is_:
   better_than: "[[../../is_similar_to|is_similar_to]]"
   similar_to: "[[../../../../../Knowledge/Engineer/Engineer~Generalization|Engineer~Generalization]]"
@@ -49,10 +49,10 @@ dv_is_:
     - "[[has_child_class]]"
 dv_is_better_than: "[[../../is_similar_to|is_similar_to]]"
 dv_is_similar_to: "[[../../../../../Knowledge/Engineer/Engineer~Generalization|Engineer~Generalization]]"
-dv_has_domain: "[[../../../Class]]"
+dv_has_domain: "[[../../../Class|Class]]"
 dv_has_name: has_child_class
 dv_has_range: "[[Thing]]"
-dv_has_inverse: "[[../has_parent/has_parent_class]]"
+dv_has_inverse: "[[../has_parent/has_parent_class|has_parent_class]]"
 dv_is_same_as:
   - "[[has_child_class]]"
   - "[[/_public/schema-org/Class/has_child_class.public|has_child_class.public]]"
@@ -69,7 +69,7 @@ is_better_than = `=this.dv_is_better_than`
 is_similar_to = `=this.dv_is_similar_to` 
 
 
-Indicates a ([[../../../Collection/item_list|item_list]] of) [[Thing]] is an instance of this [[../../../Class]].
+Indicates a ([[../../../Collection/item_list|item_list]] of) [[Thing]] is an instance of this [[../../../Class|Class]].
 
 Use it like this: 
 - #has_/child_/class = `=this.dv_has_child_class` 

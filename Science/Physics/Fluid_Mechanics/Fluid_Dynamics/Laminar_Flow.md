@@ -53,12 +53,12 @@ aliases:
 - 層流
 - 층류
 has_id_wikidata: Q189452
-instance_of: '[[_Standards/WikiData/WD~flow_type,11556633]]'
-subclass_of: '[[_Standards/WikiData/WD~fluid_flow,12142910]]'
+instance_of: '[[_Standards/WikiData/WD~flow_type,11556633|WD~flow_type,11556633]]'
+subclass_of: '[[_Standards/WikiData/WD~fluid_flow,12142910|WD~fluid_flow,12142910]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
-opposite_of: '[[_Standards/WikiData/WD~turbulent_flow,25516230]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+opposite_of: '[[_Standards/WikiData/WD~turbulent_flow,25516230|WD~turbulent_flow,25516230]]'
 Commons_category: Laminar flow
 dv_has_:
   name_:

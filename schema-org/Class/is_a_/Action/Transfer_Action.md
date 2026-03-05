@@ -47,7 +47,7 @@ dv_has_:
     - "[[Transfer_Action/Send_Action|Send_Action]]"
     - "[[Transfer_Action/Take_Action|Take_Action]]"
   parent_class:
-    - "[[../Action]]"
+    - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_status|has_action_status]]"
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
@@ -76,7 +76,7 @@ dv_has_:
     - "[[to_location|to_location]]"
     - "[[../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../Action]]"
+  - "[[../Action|Action]]"
 dv_has_child_class:
   - "[[Transfer_Action/Borrow_Action|Borrow_Action]]"
   - "[[Transfer_Action/Download_Action|Download_Action]]"

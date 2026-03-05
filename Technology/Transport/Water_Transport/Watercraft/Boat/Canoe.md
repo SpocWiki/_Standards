@@ -57,18 +57,18 @@ aliases:
 - 獨木舟
 - 카누
 has_id_wikidata: Q171529
-sport: '[[_Standards/WikiData/WD~canoeing_and_kayaking,213934]]'
+sport: '[[_Standards/WikiData/WD~canoeing_and_kayaking,213934|WD~canoeing_and_kayaking,213934]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~stern,273062]]'
-- '[[_Standards/WikiData/WD~bow,301897]]'
-different_from: '[[_Standards/WikiData/WD~Canadian_canoe,350709]]'
+- '[[_Standards/WikiData/WD~stern,273062|WD~stern,273062]]'
+- '[[_Standards/WikiData/WD~bow,301897|WD~bow,301897]]'
+different_from: '[[_Standards/WikiData/WD~Canadian_canoe,350709|WD~Canadian_canoe,350709]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-subclass_of: '[[_Standards/WikiData/WD~rowing_boat,1195684]]'
-instance_of: '[[_Standards/WikiData/WD~boat_type,16103215]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+subclass_of: '[[_Standards/WikiData/WD~rowing_boat,1195684|WD~rowing_boat,1195684]]'
+instance_of: '[[_Standards/WikiData/WD~boat_type,16103215|WD~boat_type,16103215]]'
 Nomenclature_for_Museum_Cataloging: 12614
 IMDb_keyword: canoe
 OmegaWiki_Defined_Meaning: 911657

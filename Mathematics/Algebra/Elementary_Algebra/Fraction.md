@@ -89,22 +89,22 @@ aliases:
 - 分數
 - 분수
 has_id_wikidata: Q66055
-different_from: '[[_Standards/WikiData/WD~nominative_case,131105]]'
+different_from: '[[_Standards/WikiData/WD~nominative_case,131105|WD~nominative_case,131105]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Matemaatikaleksikon,115203852]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740|WD~Encyclopædia_Britannica_First_Edition,5375740]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Matemaatikaleksikon,115203852|WD~Matemaatikaleksikon,115203852]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mathematical_notation,1140046]]'
-- '[[_Standards/WikiData/WD~rational_number,1244890]]'
+- '[[_Standards/WikiData/WD~mathematical_notation,1140046|WD~mathematical_notation,1140046]]'
+- '[[_Standards/WikiData/WD~rational_number,1244890|WD~rational_number,1244890]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~numerator,2279584]]'
-- '[[_Standards/WikiData/WD~denominator,3044574]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_fractions,3974127]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Fraction,10806324]]'
+- '[[_Standards/WikiData/WD~numerator,2279584|WD~numerator,2279584]]'
+- '[[_Standards/WikiData/WD~denominator,3044574|WD~denominator,3044574]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_fractions,3974127|WD~history_of_fractions,3974127]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Fraction,10806324|WD~Template_Fraction,10806324]]'
 Colon_Classification: B115
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Fracciones.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cake%20fractions.svg

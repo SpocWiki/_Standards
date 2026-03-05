@@ -11,7 +11,7 @@ aliases:
 - اصل_MECE
 - مبدأ التنافي والشمولية
 has_id_wikidata: Q1074664
-instance_of: '[[_Standards/WikiData/WD~principle,1550643]]'
+instance_of: '[[_Standards/WikiData/WD~principle,1550643|WD~principle,1550643]]'
 dv_is_:
   same_as: '[[WD~MECE_principle,1074664]]'
 dv_is_same_as: '[[WD~MECE_principle,1074664]]'

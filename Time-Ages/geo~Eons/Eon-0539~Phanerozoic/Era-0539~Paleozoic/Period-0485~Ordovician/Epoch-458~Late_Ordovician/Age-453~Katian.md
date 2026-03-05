@@ -24,11 +24,11 @@ aliases:
 - 凯迪期
 has_id_wikidata: Q1736601
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Katian,30869525]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Katian,134726206]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Katian,30869525|WD~Category_Katian,30869525]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Katian,134726206|WD~GSSP_for_the_base_of_Katian,134726206]]'
 coordinate_location: Point(-96.07455 34.43048333)
 sRGB_color_hex_triplet: 81D6BC
 start_time: -453000000-01-01T00:00:00Z
@@ -135,7 +135,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 453.0 to 445.2 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-450_Ma_(Katian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-450_Ma_(Katian_Age).png|Earth-450_Ma_(Katian_Age).png]] 
 
 
 ## #has_/text_of_/abstract 

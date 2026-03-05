@@ -120,28 +120,28 @@ aliases:
 - 砂
 - 모래
 has_id_wikidata: Q34679
-studied_by: '[[_Standards/WikiData/WD~sedimentology,205768]]'
+studied_by: '[[_Standards/WikiData/WD~sedimentology,205768|WD~sedimentology,205768]]'
 different_from:
-- '[[_Standards/WikiData/WD~Sand,233617]]'
-- '[[_Standards/WikiData/WD~Q6757098,6757098]]'
-- '[[_Standards/WikiData/WD~Arena,14880308]]'
-- '[[_Standards/WikiData/WD~Q125499041,125499041]]'
+- '[[_Standards/WikiData/WD~Sand,233617|WD~Sand,233617]]'
+- '[[_Standards/WikiData/WD~Q6757098,6757098|WD~Q6757098,6757098]]'
+- '[[_Standards/WikiData/WD~Arena,14880308|WD~Arena,14880308]]'
+- '[[_Standards/WikiData/WD~Q125499041,125499041|WD~Q125499041,125499041]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~granular_material,1155083]]'
-- '[[_Standards/WikiData/WD~dry_bulk_cargo,2259909]]'
-- '[[_Standards/WikiData/WD~natural_building_material,3300024]]'
-- '[[_Standards/WikiData/WD~clastic_sediment,12372934]]'
+- '[[_Standards/WikiData/WD~granular_material,1155083|WD~granular_material,1155083]]'
+- '[[_Standards/WikiData/WD~dry_bulk_cargo,2259909|WD~dry_bulk_cargo,2259909]]'
+- '[[_Standards/WikiData/WD~natural_building_material,3300024|WD~natural_building_material,3300024]]'
+- '[[_Standards/WikiData/WD~clastic_sediment,12372934|WD~clastic_sediment,12372934]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Geology,14943910]]'
-- '[[_Standards/WikiData/WD~WikiProject_Soil,21830802]]'
-- '[[_Standards/WikiData/WD~WikiProject_Materials,88425338]]'
-facet_of: '[[_Standards/WikiData/WD~road,34442]]'
+- '[[_Standards/WikiData/WD~WikiProject_Geology,14943910|WD~WikiProject_Geology,14943910]]'
+- '[[_Standards/WikiData/WD~WikiProject_Soil,21830802|WD~WikiProject_Soil,21830802]]'
+- '[[_Standards/WikiData/WD~WikiProject_Materials,88425338|WD~WikiProject_Materials,88425338]]'
+facet_of: '[[_Standards/WikiData/WD~road,34442|WD~road,34442]]'
 OmegaWiki_Defined_Meaning: 3305
 IMDb_keyword: sand
 Commons_gallery: Sand
@@ -163,7 +163,7 @@ MeSH_tree_code:
 OpenStreetMap_tag: resource=sand
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Sand,34679]]'
+  - '[[../../../WikiData/WD~Sand,34679|WD~Sand,34679]]'
   - '[[/_Standards/Earth/Geology/Mineral/Sand|Sand]]'
   - '[[/_public/Earth/Geology/Mineral/Sand.public|Sand.public]]'
   - '[[/_internal/Earth/Geology/Mineral/Sand.internal|Sand.internal]]'
@@ -172,7 +172,7 @@ dv_is_:
   - '[[/_personal/Earth/Geology/Mineral/Sand.personal|Sand.personal]]'
   - '[[/_secret/Earth/Geology/Mineral/Sand.secret|Sand.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Sand,34679]]'
+- '[[../../../WikiData/WD~Sand,34679|WD~Sand,34679]]'
 - '[[/_Standards/Earth/Geology/Mineral/Sand|Sand]]'
 - '[[/_public/Earth/Geology/Mineral/Sand.public|Sand.public]]'
 - '[[/_internal/Earth/Geology/Mineral/Sand.internal|Sand.internal]]'

@@ -36,7 +36,7 @@ dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 166.9208
 dv_has_place_latitude: -0.5477778
 dv_has_name: Yaren
-dv_has_place_country: "[[../../Nauru]]"
+dv_has_place_country: "[[../../Nauru|Nauru]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren|Yaren]]"

@@ -61,20 +61,20 @@ aliases:
 - 세일링
 has_id_wikidata: Q192520
 subclass_of:
-- '[[_Standards/WikiData/WD~recreational_sport,484937]]'
-- '[[_Standards/WikiData/WD~marine_propulsion,11482290]]'
-- '[[_Standards/WikiData/WD~vehicle_operation,28692567]]'
+- '[[_Standards/WikiData/WD~recreational_sport,484937|WD~recreational_sport,484937]]'
+- '[[_Standards/WikiData/WD~marine_propulsion,11482290|WD~marine_propulsion,11482290]]'
+- '[[_Standards/WikiData/WD~vehicle_operation,28692567|WD~vehicle_operation,28692567]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-different_from: '[[_Standards/WikiData/WD~sailing,14085739]]'
-has_part_s_: '[[_Standards/WikiData/WD~tack,15608352]]'
+- '[[_Standards/WikiData/WD~sports_discipline,2312410|WD~sports_discipline,2312410]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+different_from: '[[_Standards/WikiData/WD~sailing,14085739|WD~sailing,14085739]]'
+has_part_s_: '[[_Standards/WikiData/WD~tack,15608352|WD~tack,15608352]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-uses: '[[_Standards/WikiData/WD~sail,25999]]'
-practiced_by: '[[_Standards/WikiData/WD~sailor,45199]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+uses: '[[_Standards/WikiData/WD~sail,25999|WD~sail,25999]]'
+practiced_by: '[[_Standards/WikiData/WD~sailor,45199|WD~sailor,45199]]'
 OmegaWiki_Defined_Meaning: 345777
 Commons_gallery: Sailing
 Commons_category: Sailing

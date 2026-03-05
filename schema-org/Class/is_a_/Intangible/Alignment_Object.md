@@ -37,7 +37,7 @@ dv_is_:
     - "[[Alignment_Object]]"
 dv_has_:
   parent_class:
-    - "[[../Intangible]]"
+    - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../Property/Texts/has_alignment_type|has_alignment_type]]"
@@ -57,7 +57,7 @@ dv_has_:
     - "[[target_url|target_url]]"
     - "[[../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../Intangible]]"
+  - "[[../Intangible|Intangible]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../Property/Texts/has_alignment_type|has_alignment_type]]"

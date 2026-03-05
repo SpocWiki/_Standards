@@ -49,44 +49,44 @@ donations:
 - 74172000
 official_donation_page_URL: https://donate.hrw.org/page/112271/donate/1
 founded_by:
-- '[[_Standards/WikiData/WD~Robert_L._Bernstein,149547]]'
-- '[[_Standards/WikiData/WD~Aryeh_Neier,4802687]]'
-- '[[_Standards/WikiData/WD~Jeri_Laber,6182081]]'
+- '[[_Standards/WikiData/WD~Robert_L._Bernstein,149547|WD~Robert_L._Bernstein,149547]]'
+- '[[_Standards/WikiData/WD~Aryeh_Neier,4802687|WD~Aryeh_Neier,4802687]]'
+- '[[_Standards/WikiData/WD~Jeri_Laber,6182081|WD~Jeri_Laber,6182081]]'
 instance_of:
-- '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
-- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
-- '[[_Standards/WikiData/WD~human_rights_organization,1920810]]'
-official_observer_status_in_organization: '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
+- '[[_Standards/WikiData/WD~nonprofit_organization,163740|WD~nonprofit_organization,163740]]'
+- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093|WD~international_non_governmental_organization,1194093]]'
+- '[[_Standards/WikiData/WD~human_rights_organization,1920810|WD~human_rights_organization,1920810]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311|WD~International_Organization_for_Migration,472311]]'
 legal_form:
-- '[[_Standards/WikiData/WD~non_profit_organisation,510785]]'
-- '[[_Standards/WikiData/WD~501(c)(3)_organization,18325436]]'
-replaces: '[[_Standards/WikiData/WD~Helsinki_Watch,672781]]'
-funder: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]'
-sponsor: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]'
+- '[[_Standards/WikiData/WD~non_profit_organisation,510785|WD~non_profit_organisation,510785]]'
+- '[[_Standards/WikiData/WD~501(c)(3)_organization,18325436|WD~501(c)(3)_organization,18325436]]'
+replaces: '[[_Standards/WikiData/WD~Helsinki_Watch,672781|WD~Helsinki_Watch,672781]]'
+funder: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194|WD~Open_Society_Foundations,786194]]'
+sponsor: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194|WD~Open_Society_Foundations,786194]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~humanitarian_aid,826745]]'
-- '[[_Standards/WikiData/WD~human_rights,8458]]'
+- '[[_Standards/WikiData/WD~humanitarian_aid,826745|WD~humanitarian_aid,826745]]'
+- '[[_Standards/WikiData/WD~human_rights,8458|WD~human_rights,8458]]'
 member_of:
-- '[[_Standards/WikiData/WD~Forum_Menschenrechte,1439219]]'
-- '[[_Standards/WikiData/WD~International_Freedom_of_Expression_Exchange,1666589]]'
-- '[[_Standards/WikiData/WD~Conference_of_NGOs,7727324]]'
-- '[[_Standards/WikiData/WD~Campaign_to_Stop_Killer_Robots,20991391]]'
-different_from: '[[_Standards/WikiData/WD~Human_Rights_Service,4586557]]'
-chairperson: '[[_Standards/WikiData/WD~James_F._Hoge_Jr.,6133644]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+- '[[_Standards/WikiData/WD~Forum_Menschenrechte,1439219|WD~Forum_Menschenrechte,1439219]]'
+- '[[_Standards/WikiData/WD~International_Freedom_of_Expression_Exchange,1666589|WD~International_Freedom_of_Expression_Exchange,1666589]]'
+- '[[_Standards/WikiData/WD~Conference_of_NGOs,7727324|WD~Conference_of_NGOs,7727324]]'
+- '[[_Standards/WikiData/WD~Campaign_to_Stop_Killer_Robots,20991391|WD~Campaign_to_Stop_Killer_Robots,20991391]]'
+different_from: '[[_Standards/WikiData/WD~Human_Rights_Service,4586557|WD~Human_Rights_Service,4586557]]'
+chairperson: '[[_Standards/WikiData/WD~James_F._Hoge_Jr.,6133644|WD~James_F._Hoge_Jr.,6133644]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
 award_received:
-- '[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_from_Fear,20204999]]'
-- '[[_Standards/WikiData/WD~Theodor_Heuss_Award,55064109]]'
+- '[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_from_Fear,20204999|WD~Four_Freedoms_Award_Freedom_from_Fear,20204999]]'
+- '[[_Standards/WikiData/WD~Theodor_Heuss_Award,55064109|WD~Theodor_Heuss_Award,55064109]]'
 total_revenue: 70485098
-director_manager: '[[_Standards/WikiData/WD~Tirana_Hassan,116263447]]'
-industry: '[[_Standards/WikiData/WD~international_activities,130370864]]'
+director_manager: '[[_Standards/WikiData/WD~Tirana_Hassan,116263447|WD~Tirana_Hassan,116263447]]'
+industry: '[[_Standards/WikiData/WD~international_activities,130370864|WD~international_activities,130370864]]'
 total_assets:
 - 241144801
 - 242488346
-official_language: '[[_Standards/WikiData/WD~English,1860]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-headquarters_locations: '[[_Standards/WikiData/WD~New_York_City,60]]'
+official_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+headquarters_locations: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
 member_count: 4
 employees: 450
 social_media_followers: 5068969

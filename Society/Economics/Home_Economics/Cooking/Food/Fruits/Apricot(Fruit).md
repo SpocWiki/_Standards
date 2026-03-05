@@ -134,21 +134,21 @@ has_id_wikidata: Q3733836
 Amazon_com_browse_node:
 - 16319001
 - 6464949011
-color: '[[_Standards/WikiData/WD~orange,39338]]'
+color: '[[_Standards/WikiData/WD~orange,39338|WD~orange,39338]]'
 Commons_category: Apricots
 described_by_source:
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
 food_energy: 48
 has_part_s_:
-- '[[_Standards/WikiData/WD~(R)_amygdalin,410215]]'
+- '[[_Standards/WikiData/WD~(R)_amygdalin,410215|WD~(R)_amygdalin,410215]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Apricots.jpg
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]'
-- '[[_Standards/WikiData/WD~WikiProject_Plants,10823481]]'
+- '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990|WD~WikiProject_Food_and_drink,8485990]]'
+- '[[_Standards/WikiData/WD~WikiProject_Plants,10823481|WD~WikiProject_Plants,10823481]]'
 natural_product_of_taxon:
-- '[[_Standards/WikiData/WD~Prunus_armeniaca,37453]]'
+- '[[_Standards/WikiData/WD~Prunus_armeniaca,37453|WD~Prunus_armeniaca,37453]]'
 PLU_code:
 - 4219
 - 3302
@@ -158,7 +158,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%A
 sectional_view:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Apricot%20and%20cross%20section.jpg
 subclass_of:
-- '[[_Standards/WikiData/WD~fruit,1364]]'
+- '[[_Standards/WikiData/WD~fruit,1364|WD~fruit,1364]]'
 UNII: 269CJD5GZ9
 USDA_NDB_number:
 - 09035

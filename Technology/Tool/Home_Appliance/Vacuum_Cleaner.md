@@ -100,17 +100,17 @@ aliases:
 - 진공 청소기(유선)
 has_id_wikidata: Q101674
 subclass_of:
-- '[[_Standards/WikiData/WD~home_appliance,212920]]'
-- '[[_Standards/WikiData/WD~power_tool,1327701]]'
-- '[[_Standards/WikiData/WD~cleaning_tool,26270576]]'
-- '[[_Standards/WikiData/WD~electromechanical_device,102110916]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Hubert_Cecil_Booth,339865]]'
-different_from: '[[_Standards/WikiData/WD~vacuum_pump,745837]]'
+- '[[_Standards/WikiData/WD~home_appliance,212920|WD~home_appliance,212920]]'
+- '[[_Standards/WikiData/WD~power_tool,1327701|WD~power_tool,1327701]]'
+- '[[_Standards/WikiData/WD~cleaning_tool,26270576|WD~cleaning_tool,26270576]]'
+- '[[_Standards/WikiData/WD~electromechanical_device,102110916|WD~electromechanical_device,102110916]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Hubert_Cecil_Booth,339865|WD~Hubert_Cecil_Booth,339865]]'
+different_from: '[[_Standards/WikiData/WD~vacuum_pump,745837|WD~vacuum_pump,745837]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-has_effect: '[[_Standards/WikiData/WD~suction,1790295]]'
-has_use: '[[_Standards/WikiData/WD~cleaning,12773274]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+has_effect: '[[_Standards/WikiData/WD~suction,1790295|WD~suction,1790295]]'
+has_use: '[[_Standards/WikiData/WD~cleaning,12773274|WD~cleaning,12773274]]'
 time_of_discovery_or_invention: 1901-01-01T00:00:00Z
 Nomenclature_for_Museum_Cataloging: 9050
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20vacuum%20cleaner.svg

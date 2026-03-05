@@ -153,7 +153,7 @@ aliases:
 ## #has_/text_of_/abstract 
 
 > **Braveheart** is a 1995 American epic historical war drama film 
-> directed and produced by [[Movie-Director/Gibson,Mel]], 
+> directed and produced by [[Movie-Director/Gibson,Mel|Gibson,Mel]], 
 > who portrays Scottish warrior Sir William Wallace 
 > in the First War of Scottish Independence against King Edward I of England. 
 > 

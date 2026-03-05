@@ -35,7 +35,7 @@ A publication in any medium issued in successive parts bearing numerical or chro
 
 See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliographic_2.html">blog post</a>.
 
-#has_/parent_class :: [[../CreativeWorkSeries]]  
+#has_/parent_class :: [[../CreativeWorkSeries|CreativeWorkSeries]]  
 
 #has_/child_/class :: [ ComicSeries, Newspaper ]  
 

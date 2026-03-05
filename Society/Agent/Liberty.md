@@ -111,25 +111,25 @@ aliases:
 - 자유
 has_id_wikidata: Q2979
 instance_of:
-- '[[_Standards/WikiData/WD~ideal,840396]]'
-- '[[_Standards/WikiData/WD~quality,1207505]]'
-- '[[_Standards/WikiData/WD~type_of_value,129510955]]'
+- '[[_Standards/WikiData/WD~ideal,840396|WD~ideal,840396]]'
+- '[[_Standards/WikiData/WD~quality,1207505|WD~quality,1207505]]'
+- '[[_Standards/WikiData/WD~type_of_value,129510955|WD~type_of_value,129510955]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dritter_Band,127953085]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dritter_Band,127953085|WD~Meyer_s_Universum,_Dritter_Band,127953085]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 different_from:
-- '[[_Standards/WikiData/WD~sloboda,1130491]]'
-- '[[_Standards/WikiData/WD~Q19453141,19453141]]'
-subclass_of: '[[_Standards/WikiData/WD~aptitude,1347367]]'
-has_characteristic: '[[_Standards/WikiData/WD~agency,4691992]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Liberty,10542594]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~自由,22828867]]'
-depicted_by: '[[_Standards/WikiData/WD~Statue_of_Liberty,_Kalamata,114139096]]'
-facet_of: '[[_Standards/WikiData/WD~human_rights,8458]]'
+- '[[_Standards/WikiData/WD~sloboda,1130491|WD~sloboda,1130491]]'
+- '[[_Standards/WikiData/WD~Q19453141,19453141|WD~Q19453141,19453141]]'
+subclass_of: '[[_Standards/WikiData/WD~aptitude,1347367|WD~aptitude,1347367]]'
+has_characteristic: '[[_Standards/WikiData/WD~agency,4691992|WD~agency,4691992]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Liberty,10542594|WD~Template_Liberty,10542594]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~自由,22828867|WD~自由,22828867]]'
+depicted_by: '[[_Standards/WikiData/WD~Statue_of_Liberty,_Kalamata,114139096|WD~Statue_of_Liberty,_Kalamata,114139096]]'
+facet_of: '[[_Standards/WikiData/WD~human_rights,8458|WD~human_rights,8458]]'
 OmegaWiki_Defined_Meaning: 4891
 Commons_category: Liberty
 image:

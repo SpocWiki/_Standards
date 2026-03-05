@@ -1,5 +1,5 @@
 ---
-location: '[[_Standards/WikiData/WD~Tiananmen_Square,164055]]'
+location: '[[_Standards/WikiData/WD~Tiananmen_Square,164055|WD~Tiananmen_Square,164055]]'
 aliases:
 - 1989 m. Tiananmenio aikštės protestai
 - 1989 Tiananmen Meydanı Olayları
@@ -92,36 +92,36 @@ has_id_wikidata: Q99717
 Commons_category: Tiananmen Square protests of 1989
 Commons_gallery: Tiananmen Square protests of 1989
 coordinate_location: Point(116.391666666 39.903333333)
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 creator:
-- '[[_Standards/WikiData/WD~Yang_Shangkun,377935]]'
-- '[[_Standards/WikiData/WD~Deng_Xiaoping,16977]]'
-- '[[_Standards/WikiData/WD~Li_Peng,18301]]'
+- '[[_Standards/WikiData/WD~Yang_Shangkun,377935|WD~Yang_Shangkun,377935]]'
+- '[[_Standards/WikiData/WD~Deng_Xiaoping,16977|WD~Deng_Xiaoping,16977]]'
+- '[[_Standards/WikiData/WD~Li_Peng,18301|WD~Li_Peng,18301]]'
 end_time: 1989-06-04T00:00:00Z
 hashtag: TiananmenSquareMassacre
 has_part_s_:
-- '[[_Standards/WikiData/WD~reactions_to_Tiananmen_Square_protests_of_1989,7300287]]'
-- '[[_Standards/WikiData/WD~Q30947620,30947620]]'
+- '[[_Standards/WikiData/WD~reactions_to_Tiananmen_Square_protests_of_1989,7300287|WD~reactions_to_Tiananmen_Square_protests_of_1989,7300287]]'
+- '[[_Standards/WikiData/WD~Q30947620,30947620|WD~Q30947620,30947620]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%E8%92%B2%E5%BF%97%E5%BC%B719890510.jpg
-influenced_by: '[[_Standards/WikiData/WD~Hu_Yaobang,99850]]'
+influenced_by: '[[_Standards/WikiData/WD~Hu_Yaobang,99850|WD~Hu_Yaobang,99850]]'
 instance_of:
-- '[[_Standards/WikiData/WD~demonstration,175331]]'
-- '[[_Standards/WikiData/WD~massacre,3199915]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Beijing,956]]'
+- '[[_Standards/WikiData/WD~demonstration,175331|WD~demonstration,175331]]'
+- '[[_Standards/WikiData/WD~massacre,3199915|WD~massacre,3199915]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Beijing,956|WD~Beijing,956]]'
 name: Tiananmen Square massacre of 1989
-named_after: '[[_Standards/WikiData/WD~Tiananmen_Square,164055]]'
+named_after: '[[_Standards/WikiData/WD~Tiananmen_Square,164055|WD~Tiananmen_Square,164055]]'
 number_of_deaths: 10454
 official_name: 六四事件
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
 P8189: 987007553605405171
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828330,22828330]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828330,22828330|WD~Q22828330,22828330]]'
 perpetrator:
-- '[[_Standards/WikiData/WD~People_s_Liberation_Army,200106]]'
-- '[[_Standards/WikiData/WD~Chinese_Communist_Party,17427]]'
+- '[[_Standards/WikiData/WD~People_s_Liberation_Army,200106|WD~People_s_Liberation_Army,200106]]'
+- '[[_Standards/WikiData/WD~Chinese_Communist_Party,17427|WD~Chinese_Communist_Party,17427]]'
 point_in_time: 1989-01-01T00:00:00Z
 RIA_Novosti_reference: 173226397
 start_time: 1989-04-15T00:00:00Z
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_1989_Tiananmen_Square_protests_and_massacre,6617122]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_1989_Tiananmen_Square_protests_and_massacre,6617122|WD~Template_1989_Tiananmen_Square_protests_and_massacre,6617122]]'
 U_S_National_Archives_Identifier: 10646520
 dv_has_:
   name_:
@@ -227,7 +227,7 @@ dv_has_:
 
 # [[1989_Tiananmen_Square_protests_and_massacre]]
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~1989_Tiananmen_Square_protests_and_massacre,99717]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~1989_Tiananmen_Square_protests_and_massacre,99717|WD~1989_Tiananmen_Square_protests_and_massacre,99717]] 
 
 
 ## #has_/text_of_/abstract 

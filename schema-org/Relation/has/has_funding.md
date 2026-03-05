@@ -24,7 +24,7 @@ title: has_funding
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
-  inverse: "[[../is/is_funding_item]]"
+  inverse: "[[../is/is_funding_item|is_funding_item]]"
   domain:
     - "[[../../Class/is_a_/Bio_Chem_Entity|Bio_Chem_Entity]]"
     - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
@@ -45,7 +45,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_funding.private|has_funding.private]]"
     - "[[/_personal/schema-org/Relation/has/has_funding.personal|has_funding.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_funding.secret|has_funding.secret]]"
-dv_has_inverse: "[[../is/is_funding_item]]"
+dv_has_inverse: "[[../is/is_funding_item|is_funding_item]]"
 dv_is_part_of: "pending:"
 dv_has_domain:
   - "[[../../Class/is_a_/Bio_Chem_Entity|Bio_Chem_Entity]]"

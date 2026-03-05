@@ -108,30 +108,30 @@ aliases:
 - 벽
 has_id_wikidata: Q42948
 has_contributing_factor:
-- '[[_Standards/WikiData/WD~dust,165632]]'
-- '[[_Standards/WikiData/WD~air_current,4698318]]'
-- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-- '[[_Standards/WikiData/WD~precipitation,25257]]'
+- '[[_Standards/WikiData/WD~dust,165632|WD~dust,165632]]'
+- '[[_Standards/WikiData/WD~air_current,4698318|WD~air_current,4698318]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~precipitation,25257|WD~precipitation,25257]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~support,1058733]]'
-- '[[_Standards/WikiData/WD~separation_barrier,27627826]]'
-- '[[_Standards/WikiData/WD~fencing_structure,66098993]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~support,1058733|WD~support,1058733]]'
+- '[[_Standards/WikiData/WD~separation_barrier,27627826|WD~separation_barrier,27627826]]'
+- '[[_Standards/WikiData/WD~fencing_structure,66098993|WD~fencing_structure,66098993]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106|WD~Kazakhstan._National_encyclopedia,4208106]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 connects_with:
-- '[[_Standards/WikiData/WD~baseboard,1630557]]'
-- '[[_Standards/WikiData/WD~built_in_furniture,115732280]]'
-- '[[_Standards/WikiData/WD~mawaribuchi,131603329]]'
-different_from: '[[_Standards/WikiData/WD~wall,2547819]]'
+- '[[_Standards/WikiData/WD~baseboard,1630557|WD~baseboard,1630557]]'
+- '[[_Standards/WikiData/WD~built_in_furniture,115732280|WD~built_in_furniture,115732280]]'
+- '[[_Standards/WikiData/WD~mawaribuchi,131603329|WD~mawaribuchi,131603329]]'
+different_from: '[[_Standards/WikiData/WD~wall,2547819|WD~wall,2547819]]'
 part_of:
-- '[[_Standards/WikiData/WD~house,3947]]'
-- '[[_Standards/WikiData/WD~building,41176]]'
-- '[[_Standards/WikiData/WD~fortification,57821]]'
+- '[[_Standards/WikiData/WD~house,3947|WD~house,3947]]'
+- '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
+- '[[_Standards/WikiData/WD~fortification,57821|WD~fortification,57821]]'
 OmegaWiki_Defined_Meaning: 3989
 Nomenclature_for_Museum_Cataloging: 396
 Commons_category: Walls

@@ -78,29 +78,29 @@ aliases:
 - 탄알
 has_id_wikidata: Q174583
 part_of:
-- '[[_Standards/WikiData/WD~ammunition,185785]]'
-- '[[_Standards/WikiData/WD~cartridge,37144]]'
+- '[[_Standards/WikiData/WD~ammunition,185785|WD~ammunition,185785]]'
+- '[[_Standards/WikiData/WD~cartridge,37144|WD~cartridge,37144]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~ammunition,185785]]'
-- '[[_Standards/WikiData/WD~component,1310239]]'
-- '[[_Standards/WikiData/WD~projectile,49393]]'
+- '[[_Standards/WikiData/WD~ammunition,185785|WD~ammunition,185785]]'
+- '[[_Standards/WikiData/WD~component,1310239|WD~component,1310239]]'
+- '[[_Standards/WikiData/WD~projectile,49393|WD~projectile,49393]]'
 different_from:
-- '[[_Standards/WikiData/WD~Bala,295877]]'
-- '[[_Standards/WikiData/WD~Balle,346068]]'
-- '[[_Standards/WikiData/WD~Bullet,422906]]'
-- '[[_Standards/WikiData/WD~Glans,1529209]]'
-- '[[_Standards/WikiData/WD~Luoti,11879870]]'
-- '[[_Standards/WikiData/WD~Metak,12636721]]'
-model_item: '[[_Standards/WikiData/WD~shell,318028]]'
+- '[[_Standards/WikiData/WD~Bala,295877|WD~Bala,295877]]'
+- '[[_Standards/WikiData/WD~Balle,346068|WD~Balle,346068]]'
+- '[[_Standards/WikiData/WD~Bullet,422906|WD~Bullet,422906]]'
+- '[[_Standards/WikiData/WD~Glans,1529209|WD~Glans,1529209]]'
+- '[[_Standards/WikiData/WD~Luoti,11879870|WD~Luoti,11879870]]'
+- '[[_Standards/WikiData/WD~Metak,12636721|WD~Metak,12636721]]'
+model_item: '[[_Standards/WikiData/WD~shell,318028|WD~shell,318028]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Firearms,11031794]]'
-- '[[_Standards/WikiData/WD~WikiProject_Weaponry,19588592]]'
-- '[[_Standards/WikiData/WD~Military_science,_technology,_and_theory_task_force,21830399]]'
-has_part_s_: '[[_Standards/WikiData/WD~bullet_jacket,11832525]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+- '[[_Standards/WikiData/WD~WikiProject_Firearms,11031794|WD~WikiProject_Firearms,11031794]]'
+- '[[_Standards/WikiData/WD~WikiProject_Weaponry,19588592|WD~WikiProject_Weaponry,19588592]]'
+- '[[_Standards/WikiData/WD~Military_science,_technology,_and_theory_task_force,21830399|WD~Military_science,_technology,_and_theory_task_force,21830399]]'
+has_part_s_: '[[_Standards/WikiData/WD~bullet_jacket,11832525|WD~bullet_jacket,11832525]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422|WD~weapon_functional_class,124078422]]'
 Nomenclature_for_Museum_Cataloging: 7742
 IMDb_keyword: bullet
 Commons_category: Bullets

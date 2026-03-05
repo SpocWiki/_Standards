@@ -6,7 +6,7 @@ tags:
 type: Country
 dv_has_name_en: Channel Islands
 dv_has_name_de: Kanalinseln
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: "[[../../Europe|Europe]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~West/Channel-Islands|Channel-Islands]]"

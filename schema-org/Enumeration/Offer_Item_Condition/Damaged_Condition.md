@@ -27,9 +27,9 @@ tags:
 title: is_a_damaged_condition Class
 type: Type
 dv_has_:
-  parent_class: "[[../OfferItemCondition]]"
+  parent_class: "[[../OfferItemCondition|OfferItemCondition]]"
 dv_is_:
-  enum_of: "[[../OfferItemCondition]]"
+  enum_of: "[[../OfferItemCondition|OfferItemCondition]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition|Damaged_Condition]]"
     - "[[/_public/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.public|Damaged_Condition.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.personal|Damaged_Condition.personal]]"
     - "[[/_secret/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.secret|Damaged_Condition.secret]]"
     - "[[Damaged_Condition]]"
-dv_has_parent_class: "[[../OfferItemCondition]]"
-dv_is_enum_of: "[[../OfferItemCondition]]"
+dv_has_parent_class: "[[../OfferItemCondition|OfferItemCondition]]"
+dv_is_enum_of: "[[../OfferItemCondition|OfferItemCondition]]"
 dv_is_same_as:
   - "[[Damaged_Condition]]"
   - "[[/_public/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.public|Damaged_Condition.public]]"

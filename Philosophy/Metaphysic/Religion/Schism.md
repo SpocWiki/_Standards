@@ -35,19 +35,19 @@ aliases:
 - 이교
 has_id_wikidata: Q41521
 subclass_of:
-- '[[_Standards/WikiData/WD~conflict,180684]]'
-- '[[_Standards/WikiData/WD~occurrence,1190554]]'
-- '[[_Standards/WikiData/WD~separation,3182649]]'
-- '[[_Standards/WikiData/WD~process,3249551]]'
+- '[[_Standards/WikiData/WD~conflict,180684|WD~conflict,180684]]'
+- '[[_Standards/WikiData/WD~occurrence,1190554|WD~occurrence,1190554]]'
+- '[[_Standards/WikiData/WD~separation,3182649|WD~separation,3182649]]'
+- '[[_Standards/WikiData/WD~process,3249551|WD~process,3249551]]'
 instance_of:
-- '[[_Standards/WikiData/WD~discourse,190539]]'
-- '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
+- '[[_Standards/WikiData/WD~discourse,190539|WD~discourse,190539]]'
+- '[[_Standards/WikiData/WD~type_of_conflict,125092269|WD~type_of_conflict,125092269]]'
 described_by_source:
 - '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~Shia_Islam,9585]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~Shia_Islam,9585|WD~Shia_Islam,9585]]'
 Commons_category: Schisms
 dv_has_:
   name_:

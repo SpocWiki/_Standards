@@ -49,10 +49,10 @@ aliases:
 - 極限
 - 수열의 극한
 has_id_wikidata: Q847204
-part_of: '[[_Standards/WikiData/WD~limit,177239]]'
-facet_of: '[[_Standards/WikiData/WD~convergent_sequence,2996364]]'
-subclass_of: '[[_Standards/WikiData/WD~function_value,59715267]]'
-different_from: '[[_Standards/WikiData/WD~sum_of_a_series,91134123]]'
+part_of: '[[_Standards/WikiData/WD~limit,177239|WD~limit,177239]]'
+facet_of: '[[_Standards/WikiData/WD~convergent_sequence,2996364|WD~convergent_sequence,2996364]]'
+subclass_of: '[[_Standards/WikiData/WD~function_value,59715267|WD~function_value,59715267]]'
+different_from: '[[_Standards/WikiData/WD~sum_of_a_series,91134123|WD~sum_of_a_series,91134123]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cauchy%20sequence%20illustration.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Folgenkonvergenz%20-%20Quatematik.webm
 Commons_category: Limit of a sequence

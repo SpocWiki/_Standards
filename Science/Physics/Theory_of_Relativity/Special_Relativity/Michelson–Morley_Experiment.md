@@ -62,15 +62,15 @@ aliases:
 - 마이컬슨-몰리 실험
 has_id_wikidata: Q154844
 named_after:
-- '[[_Standards/WikiData/WD~Albert_A._Michelson,127234]]'
-- '[[_Standards/WikiData/WD~Edward_W._Morley,320889]]'
-main_subject: '[[_Standards/WikiData/WD~luminiferous_aether,208702]]'
+- '[[_Standards/WikiData/WD~Albert_A._Michelson,127234|WD~Albert_A._Michelson,127234]]'
+- '[[_Standards/WikiData/WD~Edward_W._Morley,320889|WD~Edward_W._Morley,320889]]'
+main_subject: '[[_Standards/WikiData/WD~luminiferous_aether,208702|WD~luminiferous_aether,208702]]'
 instance_of:
-- '[[_Standards/WikiData/WD~experimentum_crucis,1384471]]'
-- '[[_Standards/WikiData/WD~physics_experiment,77872752]]'
+- '[[_Standards/WikiData/WD~experimentum_crucis,1384471|WD~experimentum_crucis,1384471]]'
+- '[[_Standards/WikiData/WD~physics_experiment,77872752|WD~physics_experiment,77872752]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 point_in_time: 1887-01-01T00:00:00Z
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Michelson-Morley%20Experiment%20Plaque.JPG
 schematic:

@@ -42,14 +42,14 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has_inverse.personal|has_inverse.personal]]"
     - "[[/_secret/schema-org/Relation/has_inverse.secret|has_inverse.secret]]"
 dv_has_:
-  domain: "[[../Property]]"
+  domain: "[[../Property|Property]]"
   name: has_inverse
-  range: "[[../Property]]"
+  range: "[[../Property|Property]]"
 dv_is_different_from: "[[has_complement]]"
 dv_is_part_of: https://meta.schema.org
-dv_has_domain: "[[../Property]]"
+dv_has_domain: "[[../Property|Property]]"
 dv_has_name: has_inverse
-dv_has_range: "[[../Property]]"
+dv_has_range: "[[../Property|Property]]"
 dv_is_same_as:
   - "[[has_inverse]]"
   - "[[/_public/schema-org/Relation/has_inverse.public|has_inverse.public]]"
@@ -82,7 +82,7 @@ This approach is dominant in academic ontology design,
 
 
 Inverse Relations relate the __same pairs__ of items to each other, but __in reversed direction__.
-For example, the [[../../../Relation/has/has_alumni]] and [[is/is_alumni_of]] properties are [[inverseOf]] each other. 
+For example, the [[../../../Relation/has/has_alumni|has_alumni]] and [[is/is_alumni_of|is_alumni_of]] properties are [[inverseOf]] each other. 
 
 is_part_of = `=this.dv_is_part_of` 
 
@@ -104,7 +104,7 @@ and it does not emphasize the categorical nature of the Statement.
 The mathematical Term is [converse Relation](https://en.wikipedia.org/wiki/Converse_relation)
 The notation is analogous with that for an [inverse function](https://en.wikipedia.org/wiki/Inverse_function "Inverse function"). 
 
-E.g. [[is/is_less_than]] and [[is/is_more_than]] are Converses; 
+E.g. [[is/is_less_than|is_less_than]] and [[is/is_more_than|is_more_than]] are Converses; 
 
 Although many functions do not have an inverse, 
 every relation does have a unique converse Relation, 

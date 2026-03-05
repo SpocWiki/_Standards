@@ -43,7 +43,7 @@ Code
 
 > [[Dartmouth-BASIC]] is the original version of the BASIC programming language. 
 > It was designed by two professors at [[../../../../../OS(Operating-System)/Dartmouth_College|Dartmouth_College]], [[Kemeny,John_G]] and [[Kurtz,Thomas_E]]. 
-> With the underlying [[../../../../../OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System)]], 
+> With the underlying [[../../../../../OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System)|DTSS(Dartmouth_Time_Sharing_System)]], 
 > it offered an interactive programming environment 
 > to all undergraduates as well as the larger university community.
 >

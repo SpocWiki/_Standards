@@ -223,7 +223,7 @@ This use of exception specifications was
 Exceptions can be used to add an Exceptional Control Flow to the regular Method Behavior, 
 which confuses most Developers and is therefore strongly discouraged. 
 
-Therefore [[../Prog~OO/OO-Lang/Prog~Go]] has not `catch` Clause; 
+Therefore [[../Prog~OO/OO-Lang/Prog~Go|Prog~Go]] has not `catch` Clause; 
 instead `panic/defer/recover` allows to only __clean up the State__ and modify the Return Value. 
 
 

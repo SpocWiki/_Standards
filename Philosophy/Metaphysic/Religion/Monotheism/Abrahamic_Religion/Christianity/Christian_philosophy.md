@@ -54,13 +54,13 @@ aliases:
 - 기독교 철학
 has_id_wikidata: Q854807
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~philosophical_movement,2915955|WD~philosophical_movement,2915955]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~religious_philosophy,2054106]]'
-- '[[_Standards/WikiData/WD~Christianity,5043]]'
-facet_of: '[[_Standards/WikiData/WD~Christianity,5043]]'
-part_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~religious_philosophy,2054106|WD~religious_philosophy,2054106]]'
+- '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+facet_of: '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+part_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 Commons_category: Christian philosophy
 Stack_Exchange_tag:
 - https://christianity.stackexchange.com/tags/philosophy

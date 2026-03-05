@@ -53,13 +53,13 @@ aliases:
 - 장
 has_id_wikidata: Q2741056
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-has_use: '[[_Standards/WikiData/WD~storage,9158768]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+has_use: '[[_Standards/WikiData/WD~storage,9158768|WD~storage,9158768]]'
 different_from:
-- '[[_Standards/WikiData/WD~cabinetry,16868432]]'
-- '[[_Standards/WikiData/WD~cabinet,41967291]]'
-subclass_of: '[[_Standards/WikiData/WD~storage_furniture,20921186]]'
+- '[[_Standards/WikiData/WD~cabinetry,16868432|WD~cabinetry,16868432]]'
+- '[[_Standards/WikiData/WD~cabinet,41967291|WD~cabinet,41967291]]'
+subclass_of: '[[_Standards/WikiData/WD~storage_furniture,20921186|WD~storage_furniture,20921186]]'
 Commons_category: Cabinets
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q16868432-ar.ogg
 image:

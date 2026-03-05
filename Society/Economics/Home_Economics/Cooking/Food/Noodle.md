@@ -89,21 +89,21 @@ aliases:
 - 麺
 - 국수
 has_id_wikidata: Q192874
-has_effect: '[[_Standards/WikiData/WD~gluten_related_disorder,1367782]]'
+has_effect: '[[_Standards/WikiData/WD~gluten_related_disorder,1367782|WD~gluten_related_disorder,1367782]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_pasta,2625877]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
-has_list: '[[_Standards/WikiData/WD~list_of_noodles,16466796]]'
+- '[[_Standards/WikiData/WD~type_of_pasta,2625877|WD~type_of_pasta,2625877]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+has_list: '[[_Standards/WikiData/WD~list_of_noodles,16466796|WD~list_of_noodles,16466796]]'
 different_from:
-- '[[_Standards/WikiData/WD~Q19887097,19887097]]'
-- '[[_Standards/WikiData/WD~Q27566431,27566431]]'
-subclass_of: '[[_Standards/WikiData/WD~pasta_and_noodles,25397894]]'
-part_of: '[[_Standards/WikiData/WD~noodle_dish,98826752]]'
+- '[[_Standards/WikiData/WD~Q19887097,19887097|WD~Q19887097,19887097]]'
+- '[[_Standards/WikiData/WD~Q27566431,27566431|WD~Q27566431,27566431]]'
+subclass_of: '[[_Standards/WikiData/WD~pasta_and_noodles,25397894|WD~pasta_and_noodles,25397894]]'
+part_of: '[[_Standards/WikiData/WD~noodle_dish,98826752|WD~noodle_dish,98826752]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~water,283]]'
-- '[[_Standards/WikiData/WD~table_salt,11254]]'
+- '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
+- '[[_Standards/WikiData/WD~table_salt,11254|WD~table_salt,11254]]'
 carbon_footprint: 1
-partially_coincident_with: '[[_Standards/WikiData/WD~pasta,178]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~pasta,178|WD~pasta,178]]'
 Commons_category: Noodles
 booru_tag: noodles
 Danbooru_tag: noodles

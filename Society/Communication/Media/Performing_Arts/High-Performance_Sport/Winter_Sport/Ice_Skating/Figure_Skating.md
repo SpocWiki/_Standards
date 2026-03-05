@@ -87,24 +87,24 @@ aliases:
 - 피겨스케이팅
 has_id_wikidata: Q38108
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~ice_skating,779272]]'
-- '[[_Standards/WikiData/WD~judged_sport,136438337]]'
-has_list: '[[_Standards/WikiData/WD~glossary_of_figure_skating_terms,444519]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~ice_skating,779272|WD~ice_skating,779272]]'
+- '[[_Standards/WikiData/WD~judged_sport,136438337|WD~judged_sport,136438337]]'
+has_list: '[[_Standards/WikiData/WD~glossary_of_figure_skating_terms,444519|WD~glossary_of_figure_skating_terms,444519]]'
 uses:
-- '[[_Standards/WikiData/WD~ISU_Judging_System,678406]]'
-- '[[_Standards/WikiData/WD~figure_skate,4483467]]'
+- '[[_Standards/WikiData/WD~ISU_Judging_System,678406|WD~ISU_Judging_System,678406]]'
+- '[[_Standards/WikiData/WD~figure_skate,4483467|WD~figure_skate,4483467]]'
 different_from:
-- '[[_Standards/WikiData/WD~ice_dance,926191]]'
-- '[[_Standards/WikiData/WD~artistic_roller_skating,1443621]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_figure_skating,1517329]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Figure_skating,11126885]]'
-practiced_by: '[[_Standards/WikiData/WD~figure_skater,13219587]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Figure_Skating,15304993]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~element,47450979]]'
-record_or_record_progression: '[[_Standards/WikiData/WD~figure_skating_records_and_statistics,55611635]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~ice_dance,926191|WD~ice_dance,926191]]'
+- '[[_Standards/WikiData/WD~artistic_roller_skating,1443621|WD~artistic_roller_skating,1443621]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_figure_skating,1517329|WD~history_of_figure_skating,1517329]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Figure_skating,11126885|WD~Portal_Figure_skating,11126885]]'
+practiced_by: '[[_Standards/WikiData/WD~figure_skater,13219587|WD~figure_skater,13219587]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Figure_Skating,15304993|WD~WikiProject_Figure_Skating,15304993]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~element,47450979|WD~element,47450979]]'
+record_or_record_progression: '[[_Standards/WikiData/WD~figure_skating_records_and_statistics,55611635|WD~figure_skating_records_and_statistics,55611635]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 IAB_code: 510
 social_media_followers: 50862
 OmegaWiki_Defined_Meaning: 807080

@@ -104,27 +104,27 @@ aliases:
 - 직물
 has_id_wikidata: Q28823
 subclass_of:
-- '[[_Standards/WikiData/WD~material,214609]]'
-- '[[_Standards/WikiData/WD~product,2424752]]'
-- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
-- '[[_Standards/WikiData/WD~goods,28877]]'
+- '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
+- '[[_Standards/WikiData/WD~product,2424752|WD~product,2424752]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]'
+- '[[_Standards/WikiData/WD~goods,28877|WD~goods,28877]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- "[[_Standards/WikiData/WD~Fairchild's_Dictionary_of_Textiles,28888841]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-maintenance_method: '[[_Standards/WikiData/WD~laundry,852100]]'
-has_characteristic: '[[_Standards/WikiData/WD~flammability,910035]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Fairchild's_Dictionary_of_Textiles,28888841|WD~Fairchild's_Dictionary_of_Textiles,28888841]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+maintenance_method: '[[_Standards/WikiData/WD~laundry,852100|WD~laundry,852100]]'
+has_characteristic: '[[_Standards/WikiData/WD~flammability,910035|WD~flammability,910035]]'
 has_use:
-- '[[_Standards/WikiData/WD~fittings,11631761]]'
-- '[[_Standards/WikiData/WD~textile_artwork,22075301]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~textile_component,28935994]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_textiles,48258816]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
-made_from_material: '[[../../../WikiData/WD~fiber,161]]'
+- '[[_Standards/WikiData/WD~fittings,11631761|WD~fittings,11631761]]'
+- '[[_Standards/WikiData/WD~textile_artwork,22075301|WD~textile_artwork,22075301]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~textile_component,28935994|WD~textile_component,28935994]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_textiles,48258816|WD~history_of_textiles,48258816]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806|WD~WikiProject_Craft,110249806]]'
+made_from_material: '[[../../../WikiData/WD~fiber,161|WD~fiber,161]]'
 Dewey_Decimal_Classification:
 - 687
 - 677

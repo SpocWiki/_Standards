@@ -48,18 +48,18 @@ aliases:
 - 카르
 has_id_wikidata: Q184368
 different_from:
-- '[[_Standards/WikiData/WD~Kar,258056]]'
-- '[[_Standards/WikiData/WD~Cirque,16769279]]'
-- '[[_Standards/WikiData/WD~Cirk,18745865]]'
-model_item: '[[_Standards/WikiData/WD~glacial_cirque,388227]]'
+- '[[_Standards/WikiData/WD~Kar,258056|WD~Kar,258056]]'
+- '[[_Standards/WikiData/WD~Cirque,16769279|WD~Cirque,16769279]]'
+- '[[_Standards/WikiData/WD~Cirk,18745865|WD~Cirk,18745865]]'
+model_item: '[[_Standards/WikiData/WD~glacial_cirque,388227|WD~glacial_cirque,388227]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-has_cause: '[[_Standards/WikiData/WD~glacial_denudation,1383395]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+has_cause: '[[_Standards/WikiData/WD~glacial_denudation,1383395|WD~glacial_denudation,1383395]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~tarn,1851937]]'
-- '[[_Standards/WikiData/WD~Tarn_(Gewässer),131385877]]'
-subclass_of: '[[_Standards/WikiData/WD~valley,39816]]'
+- '[[_Standards/WikiData/WD~tarn,1851937|WD~tarn,1851937]]'
+- '[[_Standards/WikiData/WD~Tarn_(Gewässer),131385877|WD~Tarn_(Gewässer),131385877]]'
+subclass_of: '[[_Standards/WikiData/WD~valley,39816|WD~valley,39816]]'
 Commons_category: Cirques
 name:
 - Gund

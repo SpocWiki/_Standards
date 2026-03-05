@@ -62,23 +62,23 @@ aliases:
 - 마사이족
 has_id_wikidata: Q163022
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Nilotic_peoples,664262]]'
-- '[[_Standards/WikiData/WD~indigenous_peoples_of_Africa,1661387]]'
+- '[[_Standards/WikiData/WD~Nilotic_peoples,664262|WD~Nilotic_peoples,664262]]'
+- '[[_Standards/WikiData/WD~indigenous_peoples_of_Africa,1661387|WD~indigenous_peoples_of_Africa,1661387]]'
 instance_of:
-- '[[_Standards/WikiData/WD~people,2472587]]'
-- '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+- '[[_Standards/WikiData/WD~people,2472587|WD~people,2472587]]'
+- '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
 country:
-- '[[_Standards/WikiData/WD~Tanzania,924]]'
-- '[[_Standards/WikiData/WD~Kenya,114]]'
+- '[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Kenya,114|WD~Kenya,114]]'
 population: 850000
-native_language: '[[_Standards/WikiData/WD~Maasai,35787]]'
+native_language: '[[_Standards/WikiData/WD~Maasai,35787|WD~Maasai,35787]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Bodymodmassai.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Masai%20woman-child.jpg

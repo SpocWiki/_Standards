@@ -26,7 +26,7 @@ tags:
 title: is_a_warranty_scope Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Warranty_Scope|Warranty_Scope]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Warranty_Scope.personal|Warranty_Scope.personal]]"
     - "[[/_secret/schema-org/Enumeration/Warranty_Scope.secret|Warranty_Scope.secret]]"
     - "[[Warranty_Scope]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Warranty_Scope]]"
   - "[[/_public/schema-org/Enumeration/Warranty_Scope.public|Warranty_Scope.public]]"

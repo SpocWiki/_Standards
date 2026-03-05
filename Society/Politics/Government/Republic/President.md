@@ -119,27 +119,27 @@ aliases:
 - 대통령
 has_id_wikidata: Q30461
 subclass_of:
-- '[[_Standards/WikiData/WD~politician,82955]]'
-- '[[_Standards/WikiData/WD~ruler,1097498]]'
-- '[[_Standards/WikiData/WD~head_of_state,48352]]'
+- '[[_Standards/WikiData/WD~politician,82955|WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~ruler,1097498|WD~ruler,1097498]]'
+- '[[_Standards/WikiData/WD~head_of_state,48352|WD~head_of_state,48352]]'
 different_from:
-- '[[_Standards/WikiData/WD~chairperson,140686]]'
-- '[[_Standards/WikiData/WD~President,1175634]]'
-- '[[_Standards/WikiData/WD~president,1255921]]'
-- "[[_Standards/WikiData/WD~président_d'université,2420458]]"
+- '[[_Standards/WikiData/WD~chairperson,140686|WD~chairperson,140686]]'
+- '[[_Standards/WikiData/WD~President,1175634|WD~President,1175634]]'
+- '[[_Standards/WikiData/WD~president,1255921|WD~president,1255921]]'
+- "[[_Standards/WikiData/WD~président_d'université,2420458|WD~président_d'université,2420458]]"
 instance_of:
-- '[[_Standards/WikiData/WD~public_office,294414]]'
-- '[[_Standards/WikiData/WD~position,4164871]]'
-follows: '[[_Standards/WikiData/WD~president_elect,1921011]]'
+- '[[_Standards/WikiData/WD~public_office,294414|WD~public_office,294414]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+follows: '[[_Standards/WikiData/WD~president_elect,1921011|WD~president_elect,1921011]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-has_part_s_: '[[_Standards/WikiData/WD~executive_president,5419944]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_president,16267401]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~President,118287400]]'
-studied_by: '[[_Standards/WikiData/WD~presidential_studies,118720234]]'
-organization_directed_by_the_office_or_position: '[[_Standards/WikiData/WD~state,7275]]'
-next_lower_rank: '[[_Standards/WikiData/WD~vice_president,42178]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+has_part_s_: '[[_Standards/WikiData/WD~executive_president,5419944|WD~executive_president,5419944]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_president,16267401|WD~Template_Infobox_president,16267401]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~President,118287400|WD~President,118287400]]'
+studied_by: '[[_Standards/WikiData/WD~presidential_studies,118720234|WD~presidential_studies,118720234]]'
+organization_directed_by_the_office_or_position: '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
+next_lower_rank: '[[_Standards/WikiData/WD~vice_president,42178|WD~vice_president,42178]]'
 male_form_of_label:
 - président
 - رئيس

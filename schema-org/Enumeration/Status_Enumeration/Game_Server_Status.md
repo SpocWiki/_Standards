@@ -26,7 +26,7 @@ tags:
 title: is_a_game_server_status Class
 type: Type
 dv_has_:
-  parent_class: "[[../StatusEnumeration]]"
+  parent_class: "[[../StatusEnumeration|StatusEnumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status|Game_Server_Status]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.personal|Game_Server_Status.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.secret|Game_Server_Status.secret]]"
     - "[[Game_Server_Status]]"
-dv_has_parent_class: "[[../StatusEnumeration]]"
+dv_has_parent_class: "[[../StatusEnumeration|StatusEnumeration]]"
 dv_is_same_as:
   - "[[Game_Server_Status]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.public|Game_Server_Status.public]]"

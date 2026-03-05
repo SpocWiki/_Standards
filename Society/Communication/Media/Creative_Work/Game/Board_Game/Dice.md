@@ -78,20 +78,20 @@ aliases:
 - 주사위
 has_id_wikidata: Q45089
 has_use:
-- '[[_Standards/WikiData/WD~random_number_generation,228206]]'
-- '[[_Standards/WikiData/WD~game_mechanic,1751513]]'
+- '[[_Standards/WikiData/WD~random_number_generation,228206|WD~random_number_generation,228206]]'
+- '[[_Standards/WikiData/WD~game_mechanic,1751513|WD~game_mechanic,1751513]]'
 different_from:
-- '[[_Standards/WikiData/WD~Die,351991]]'
-- '[[_Standards/WikiData/WD~cube,812880]]'
-shape: '[[_Standards/WikiData/WD~cube,812880]]'
+- '[[_Standards/WikiData/WD~Die,351991|WD~Die,351991]]'
+- '[[_Standards/WikiData/WD~cube,812880|WD~cube,812880]]'
+shape: '[[_Standards/WikiData/WD~cube,812880|WD~cube,812880]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-notation: '[[_Standards/WikiData/WD~d_notation,2843874]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-subclass_of: '[[_Standards/WikiData/WD~game_equipment,17638008]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Dice,22796736]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+notation: '[[_Standards/WikiData/WD~d_notation,2843874|WD~d_notation,2843874]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[_Standards/WikiData/WD~game_equipment,17638008|WD~game_equipment,17638008]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Dice,22796736|WD~Template_Dice,22796736]]'
 Nomenclature_for_Museum_Cataloging: 14173
 OmegaWiki_Defined_Meaning: 6270
 hashtag_:

@@ -57,14 +57,14 @@ aliases:
 - 地理學歷史
 - 지리학의 역사
 has_id_wikidata: Q911070
-subclass_of: '[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869|WD~history_of_the_social_sciences,5076869]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_geography_sidebar,14403062]]'
-practiced_by: '[[_Standards/WikiData/WD~historian_of_geography,108669379]]'
-is_the_study_of: '[[_Standards/WikiData/WD~geography,1071]]'
-facet_of: '[[_Standards/WikiData/WD~geography,1071]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_geography_sidebar,14403062|WD~Template_History_of_geography_sidebar,14403062]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_geography,108669379|WD~historian_of_geography,108669379]]'
+is_the_study_of: '[[_Standards/WikiData/WD~geography,1071|WD~geography,1071]]'
+facet_of: '[[_Standards/WikiData/WD~geography,1071|WD~geography,1071]]'
 Commons_category: History of geography
 dv_is_:
   same_as:

@@ -44,12 +44,12 @@ aliases:
 - 사회 통제
 has_id_wikidata: Q623971
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~type_of_regulation_and_control,96758092]]'
-- '[[_Standards/WikiData/WD~social_science_concept,131362181]]'
-subclass_of: '[[_Standards/WikiData/WD~control,338754]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~society,8425]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~type_of_regulation_and_control,96758092|WD~type_of_regulation_and_control,96758092]]'
+- '[[_Standards/WikiData/WD~social_science_concept,131362181|WD~social_science_concept,131362181]]'
+subclass_of: '[[_Standards/WikiData/WD~control,338754|WD~control,338754]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~society,8425|WD~society,8425]]'
 Wolfram_Language_entity_code: Entity["Concept", "SocialControl::9gfqr"]
 Library_of_Congress_Classification:
 - HM661-HM696

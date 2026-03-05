@@ -56,19 +56,19 @@ aliases:
 - 탄성 계수
 has_id_wikidata: Q192005
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~modulus,2919150]]'
-- '[[_Standards/WikiData/WD~mechanical_property,5725005]]'
-studied_by: '[[_Standards/WikiData/WD~materials_science,228736]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~modulus,2919150|WD~modulus,2919150]]'
+- '[[_Standards/WikiData/WD~mechanical_property,5725005|WD~mechanical_property,5725005]]'
+studied_by: '[[_Standards/WikiData/WD~materials_science,228736|WD~materials_science,228736]]'
 different_from:
-- '[[_Standards/WikiData/WD~shear_modulus,461466]]'
-- '[[_Standards/WikiData/WD~bulk_modulus,900371]]'
-- "[[_Standards/WikiData/WD~Young's_modulus,2091584]]"
+- '[[_Standards/WikiData/WD~shear_modulus,461466|WD~shear_modulus,461466]]'
+- '[[_Standards/WikiData/WD~bulk_modulus,900371|WD~bulk_modulus,900371]]'
+- "[[_Standards/WikiData/WD~Young's_modulus,2091584|WD~Young's_modulus,2091584]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~concept_in_physics,33104303]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~concept_in_physics,33104303|WD~concept_in_physics,33104303]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BB;</mi><mtext>&#160;</mtext><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="REL"><mover><mrow data-mjx-texclass="OP"><mo stretchy="false">=</mo></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mtext>def</mtext></mrow></mrow></mover></mrow></mrow><mtext>&#160;</mtext><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mtext>stress</mtext></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mtext>strain</mtext></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 image:

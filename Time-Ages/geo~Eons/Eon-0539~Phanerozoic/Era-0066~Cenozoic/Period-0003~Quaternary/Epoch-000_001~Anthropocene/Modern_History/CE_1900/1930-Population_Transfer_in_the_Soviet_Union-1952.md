@@ -51,24 +51,24 @@ aliases:
 - 소련의 강제이주
 has_id_wikidata: Q85125
 victim_s_:
-- '[[_Standards/WikiData/WD~Crimean_Tatars,117458]]'
-- '[[_Standards/WikiData/WD~Kalmyks,190209]]'
-- '[[_Standards/WikiData/WD~Balkars,192604]]'
-- '[[_Standards/WikiData/WD~Karachays,243274]]'
-- '[[_Standards/WikiData/WD~Ingush_people,485010]]'
-- '[[_Standards/WikiData/WD~German_Russians,702193]]'
-- '[[_Standards/WikiData/WD~Koryo_saram,711083]]'
-- '[[_Standards/WikiData/WD~Meskhetian_(Turks),1055319]]'
-- '[[_Standards/WikiData/WD~Ingrian_Finns,1998273]]'
-- '[[_Standards/WikiData/WD~Chechens,31230]]'
+- '[[_Standards/WikiData/WD~Crimean_Tatars,117458|WD~Crimean_Tatars,117458]]'
+- '[[_Standards/WikiData/WD~Kalmyks,190209|WD~Kalmyks,190209]]'
+- '[[_Standards/WikiData/WD~Balkars,192604|WD~Balkars,192604]]'
+- '[[_Standards/WikiData/WD~Karachays,243274|WD~Karachays,243274]]'
+- '[[_Standards/WikiData/WD~Ingush_people,485010|WD~Ingush_people,485010]]'
+- '[[_Standards/WikiData/WD~German_Russians,702193|WD~German_Russians,702193]]'
+- '[[_Standards/WikiData/WD~Koryo_saram,711083|WD~Koryo_saram,711083]]'
+- '[[_Standards/WikiData/WD~Meskhetian_(Turks),1055319|WD~Meskhetian_(Turks),1055319]]'
+- '[[_Standards/WikiData/WD~Ingrian_Finns,1998273|WD~Ingrian_Finns,1998273]]'
+- '[[_Standards/WikiData/WD~Chechens,31230|WD~Chechens,31230]]'
 instance_of:
-- '[[_Standards/WikiData/WD~ethnic_cleansing,154278]]'
-- '[[_Standards/WikiData/WD~crime_against_humanity,173462]]'
-- '[[_Standards/WikiData/WD~deportation,379693]]'
-- '[[_Standards/WikiData/WD~forced_displacement,837556]]'
-- '[[_Standards/WikiData/WD~genocide,41397]]'
-locations: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~ethnic_cleansing,154278|WD~ethnic_cleansing,154278]]'
+- '[[_Standards/WikiData/WD~crime_against_humanity,173462|WD~crime_against_humanity,173462]]'
+- '[[_Standards/WikiData/WD~deportation,379693|WD~deportation,379693]]'
+- '[[_Standards/WikiData/WD~forced_displacement,837556|WD~forced_displacement,837556]]'
+- '[[_Standards/WikiData/WD~genocide,41397|WD~genocide,41397]]'
+locations: '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+country: '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
 coordinate_location: Point(90.0 65.0)
 Commons_category: Soviet deportations
 dv_is_:

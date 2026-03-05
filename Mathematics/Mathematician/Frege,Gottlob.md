@@ -31,64 +31,64 @@ aliases:
 - 고틀로프 프레게
 has_id_wikidata: Q60028
 academic_degree:
-- '[[_Standards/WikiData/WD~habilitation,308678]]'
-- '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+- '[[_Standards/WikiData/WD~habilitation,308678|WD~habilitation,308678]]'
+- '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297|WD~Doctor_of_Philosophy,752297]]'
 BHCL_UUID: 4cedef6b-3726-42fa-9d6e-1bdb3eea22da
 birth_name: Friedrich Ludwig Gottlob Frege
 Commons_category: Gottlob Frege
 Commons_gallery: Gottlob Frege
-country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 date_of_birth: 1848-11-08T00:00:00Z
 date_of_death: 1925-07-26T00:00:00Z
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
 doctoral_advisor:
-- '[[_Standards/WikiData/WD~Ernst_Christian_Julius_Schering,91390]]'
-- '[[_Standards/WikiData/WD~Alfred_Clebsch,61737]]'
+- '[[_Standards/WikiData/WD~Ernst_Christian_Julius_Schering,91390|WD~Ernst_Christian_Julius_Schering,91390]]'
+- '[[_Standards/WikiData/WD~Alfred_Clebsch,61737|WD~Alfred_Clebsch,61737]]'
 educated_at:
-- '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
-- '[[_Standards/WikiData/WD~Friedrich_Schiller_University_Jena,154561]]'
-employer: '[[_Standards/WikiData/WD~Friedrich_Schiller_University_Jena,154561]]'
+- '[[_Standards/WikiData/WD~University_of_Göttingen,152838|WD~University_of_Göttingen,152838]]'
+- '[[_Standards/WikiData/WD~Friedrich_Schiller_University_Jena,154561|WD~Friedrich_Schiller_University_Jena,154561]]'
+employer: '[[_Standards/WikiData/WD~Friedrich_Schiller_University_Jena,154561|WD~Friedrich_Schiller_University_Jena,154561]]'
 Europeana_entity: agent/base/145388
-family_name: '[[_Standards/WikiData/WD~Frege,107809308]]'
-field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
+family_name: '[[_Standards/WikiData/WD~Frege,107809308|WD~Frege,107809308]]'
+field_of_work: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 given_name:
-- '[[_Standards/WikiData/WD~Friedrich,14038597]]'
-- '[[_Standards/WikiData/WD~Ludwig,14159020]]'
-- '[[_Standards/WikiData/WD~Gottlob,19830683]]'
+- '[[_Standards/WikiData/WD~Friedrich,14038597|WD~Friedrich,14038597]]'
+- '[[_Standards/WikiData/WD~Ludwig,14159020|WD~Ludwig,14159020]]'
+- '[[_Standards/WikiData/WD~Gottlob,19830683|WD~Gottlob,19830683]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Young%20frege.jpg
-influenced_by: '[[_Standards/WikiData/WD~Bernard_Bolzano,184735]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+influenced_by: '[[_Standards/WikiData/WD~Bernard_Bolzano,184735|WD~Bernard_Bolzano,184735]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ISNI: 0000000121326294
 Krugosvet_article: gumanitarnye_nauki/lingvistika/FREGE_GOTLOB.html
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
 Libris_URI: mkz113d533vcs38
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-member_of: '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+member_of: '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804|WD~German_Academy_of_Sciences_Leopoldina,543804]]'
 name_in_native_language: Friedrich Ludwig Gottlob Frege
 notable_work:
-- '[[_Standards/WikiData/WD~Q330955,330955]]'
-- '[[_Standards/WikiData/WD~The_Foundations_of_Arithmetic,732146]]'
-- '[[_Standards/WikiData/WD~Begriffsschrift,814390]]'
+- '[[_Standards/WikiData/WD~Q330955,330955|WD~Q330955,330955]]'
+- '[[_Standards/WikiData/WD~The_Foundations_of_Arithmetic,732146|WD~The_Foundations_of_Arithmetic,732146]]'
+- '[[_Standards/WikiData/WD~Begriffsschrift,814390|WD~Begriffsschrift,814390]]'
 occupation:
-- '[[_Standards/WikiData/WD~mathematician,170790]]'
-- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-- '[[_Standards/WikiData/WD~logician,14565331]]'
-- '[[_Standards/WikiData/WD~philosopher_of_language,18930236]]'
-- '[[_Standards/WikiData/WD~analytic_philosopher,18930418]]'
+- '[[_Standards/WikiData/WD~mathematician,170790|WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272|WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~logician,14565331|WD~logician,14565331]]'
+- '[[_Standards/WikiData/WD~philosopher_of_language,18930236|WD~philosopher_of_language,18930236]]'
+- '[[_Standards/WikiData/WD~analytic_philosopher,18930418|WD~analytic_philosopher,18930418]]'
 P8189: 987007261360205171
 PhilPapers_topic: gottlob-frege
-place_of_birth: '[[_Standards/WikiData/WD~Wismar,7030]]'
-place_of_death: '[[_Standards/WikiData/WD~Bad_Kleinen,552679]]'
+place_of_birth: '[[_Standards/WikiData/WD~Wismar,7030|WD~Wismar,7030]]'
+place_of_death: '[[_Standards/WikiData/WD~Bad_Kleinen,552679|WD~Bad_Kleinen,552679]]'
 Regensburg_Classification:
 - CG 3380
 - SF 2800
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-spouse: '[[_Standards/WikiData/WD~Margarete_Katharina_Sophia_Anna_Lieseberg,109317730]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+spouse: '[[_Standards/WikiData/WD~Margarete_Katharina_Sophia_Anna_Lieseberg,109317730|WD~Margarete_Katharina_Sophia_Anna_Lieseberg,109317730]]'
 student_of:
-- '[[_Standards/WikiData/WD~Ernst_Abbe,76359]]'
-- '[[_Standards/WikiData/WD~Wilhelm_Eduard_Weber,76707]]'
-- '[[_Standards/WikiData/WD~Ernst_Christian_Julius_Schering,91390]]'
-writing_language: '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Ernst_Abbe,76359|WD~Ernst_Abbe,76359]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Eduard_Weber,76707|WD~Wilhelm_Eduard_Weber,76707]]'
+- '[[_Standards/WikiData/WD~Ernst_Christian_Julius_Schering,91390|WD~Ernst_Christian_Julius_Schering,91390]]'
+writing_language: '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
 dv_has_:
   name_:
     af: Gottlob Frege
@@ -192,7 +192,7 @@ dv_has_:
 #has_/time_/stopped :: 1925-07-26
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
 
-#is_/same_as :: [[../../../_Standards/WikiData/WD~Gottlob_Frege,60028]] 
+#is_/same_as :: [[../../../_Standards/WikiData/WD~Gottlob_Frege,60028|WD~Gottlob_Frege,60028]] 
 
 ## #has_/text_of_/abstract 
 

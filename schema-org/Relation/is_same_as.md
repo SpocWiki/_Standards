@@ -32,12 +32,12 @@ title: has_url_for_same_as
 type: Predi_Url
 dv_has_:
   url_for_:
-    same_as: "[[../Class/is_a_/Data_Type/Text/Url]]"
+    same_as: "[[../Class/is_a_/Data_Type/Text/Url|Url]]"
   complement: "[[is_different_from]]"
   domain: "[[../Class/Thing|Thing]]"
   name: has_url_for_same_as
-  range: "[[../Class/is_a_/Data_Type/Text/Url]]"
-dv_has_url_for_same_as: "[[../../Class/is_a_/data_type/text/URLs]]"
+  range: "[[../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_has_url_for_same_as: "[[../../Class/is_a_/data_type/text/URLs|URLs]]"
 dv_is_:
   different_from: "[[is_similar_to]]"
   similar_to:
@@ -58,7 +58,7 @@ dv_is_similar_to:
   - "[[is/is_equal_to|is_equal_to]]"
 dv_has_domain: "[[../Class/Thing|Thing]]"
 dv_has_name: has_url_for_same_as
-dv_has_range: "[[../Class/is_a_/Data_Type/Text/Url]]"
+dv_has_range: "[[../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_same_as:
   - "[[is_same_as]]"
   - "[[/_public/schema-org/Relation/is_same_as.public|is_same_as.public]]"

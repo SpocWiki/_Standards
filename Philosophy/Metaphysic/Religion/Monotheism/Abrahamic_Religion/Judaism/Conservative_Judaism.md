@@ -44,11 +44,11 @@ aliases:
 - 猶太教保守派
 - 보수파 유대교
 has_id_wikidata: Q205644
-subclass_of: '[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914]]'
-instance_of: '[[_Standards/WikiData/WD~Jewish_religious_movements,3001185]]'
-different_from: '[[_Standards/WikiData/WD~Masortim,14396128]]'
+subclass_of: '[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914|WD~Rabbinic_Judaism,1366914]]'
+instance_of: '[[_Standards/WikiData/WD~Jewish_religious_movements,3001185|WD~Jewish_religious_movements,3001185]]'
+different_from: '[[_Standards/WikiData/WD~Masortim,14396128|WD~Masortim,14396128]]'
 inception: 1900-01-01T00:00:00Z
-religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268|WD~Judaism,9268]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/20191229ADATHISRAEL%20MERION%20Sanctuary.jpg
 Commons_category: Conservative Judaism
 OpenStreetMap_tag_or_key: Tag:denomination=conservative

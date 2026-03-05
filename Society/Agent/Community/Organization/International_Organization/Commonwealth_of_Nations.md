@@ -140,40 +140,40 @@ aliases:
 - 영연방
 has_id_wikidata: Q7785
 BHCL_UUID: 92e59f26-dafa-4e4f-bb67-389af3e351f2
-chairperson: '[[_Standards/WikiData/WD~Charles_III,43274]]'
+chairperson: '[[_Standards/WikiData/WD~Charles_III,43274|WD~Charles_III,43274]]'
 Commons_category: Commonwealth of Nations
 Commons_gallery: Commonwealth of Nations
 coordinate_location: Point(-0.135833 51.505)
 described_by_source:
-- '[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836|WD~Dictionary_of_Common_Goods,120799836]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from:
-- '[[_Standards/WikiData/WD~Commonwealth_realm,202686]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]'
+- '[[_Standards/WikiData/WD~Commonwealth_realm,202686|WD~Commonwealth_realm,202686]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779|WD~Commonwealth_of_Independent_States,7779]]'
 EU_Corporate_body_code: CMNW
 Facebook_username: commonwealthsec
-flag: '[[_Standards/WikiData/WD~flag_of_the_Commonwealth_of_Nations,460072]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Commonwealth_of_Nations,460072|WD~flag_of_the_Commonwealth_of_Nations,460072]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Infobox%20Commonwealth%20of%20Nations%20flag.svg
 has_part_s_:
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~New_Zealand,664]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 has_subsidiary:
-- '[[_Standards/WikiData/WD~Commonwealth_War_Graves_Commission,1117074]]'
-- '[[_Standards/WikiData/WD~Commonwealth_Foundation,3075649]]'
-- '[[_Standards/WikiData/WD~Commonwealth_Secretariat,3954348]]'
-- '[[_Standards/WikiData/WD~Commonwealth_Business_Council,5153705]]'
+- '[[_Standards/WikiData/WD~Commonwealth_War_Graves_Commission,1117074|WD~Commonwealth_War_Graves_Commission,1117074]]'
+- '[[_Standards/WikiData/WD~Commonwealth_Foundation,3075649|WD~Commonwealth_Foundation,3075649]]'
+- '[[_Standards/WikiData/WD~Commonwealth_Secretariat,3954348|WD~Commonwealth_Secretariat,3954348]]'
+- '[[_Standards/WikiData/WD~Commonwealth_Business_Council,5153705|WD~Commonwealth_Business_Council,5153705]]'
 has_time_started: 1931-12-11
-headquarters_location: '[[_Standards/WikiData/WD~Marlborough_House,565532]]'
+headquarters_location: '[[_Standards/WikiData/WD~Marlborough_House,565532|WD~Marlborough_House,565532]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Marlborough%20House.jpg
 inception: 1931-12-11
 Instagram_username: commonwealth_sec
 instance_of:
-- '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-- '[[_Standards/WikiData/WD~commonwealth,2578692]]'
+- '[[_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
+- '[[_Standards/WikiData/WD~commonwealth,2578692|WD~commonwealth,2578692]]'
 ISNI:
 - 97554421
 - 122186588
@@ -182,16 +182,16 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Member%20s
 logo_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Commonwealth%20Icon.svg
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
 official_website: https://thecommonwealth.org
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Head_of_the_Commonwealth,460057]]'
-replaces: '[[_Standards/WikiData/WD~British_Empire,8680]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529|WD~WikiProject_Human_Rights,13382529]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Head_of_the_Commonwealth,460057|WD~Head_of_the_Commonwealth,460057]]'
+replaces: '[[_Standards/WikiData/WD~British_Empire,8680|WD~British_Empire,8680]]'
 social_media_followers: 120069
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_The_Commonwealth,5528714]]'
-- '[[_Standards/WikiData/WD~Template_Commonwealth_of_Nations_topics,7645235]]'
+- '[[_Standards/WikiData/WD~Template_The_Commonwealth,5528714|WD~Template_The_Commonwealth,5528714]]'
+- '[[_Standards/WikiData/WD~Template_Commonwealth_of_Nations_topics,7645235|WD~Template_Commonwealth_of_Nations_topics,7645235]]'
 X_Twitter_username: commonwealthsec
 dv_has_:
   name_:

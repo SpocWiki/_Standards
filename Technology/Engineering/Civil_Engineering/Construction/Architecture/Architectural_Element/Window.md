@@ -139,26 +139,26 @@ aliases:
 - 창문
 has_id_wikidata: Q35473
 part_of:
-- '[[_Standards/WikiData/WD~façade,183061]]'
-- '[[_Standards/WikiData/WD~house,3947]]'
-- '[[_Standards/WikiData/WD~door,36794]]'
-- '[[_Standards/WikiData/WD~building,41176]]'
+- '[[_Standards/WikiData/WD~façade,183061|WD~façade,183061]]'
+- '[[_Standards/WikiData/WD~house,3947|WD~house,3947]]'
+- '[[_Standards/WikiData/WD~door,36794|WD~door,36794]]'
+- '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~building_material,206615]]'
-- '[[../../../../../../WikiData/WD~architectural_element,391414]]'
-- '[[_Standards/WikiData/WD~bay,2879412]]'
-- '[[_Standards/WikiData/WD~separator,135899982]]'
+- '[[_Standards/WikiData/WD~building_material,206615|WD~building_material,206615]]'
+- '[[../../../../../../WikiData/WD~architectural_element,391414|WD~architectural_element,391414]]'
+- '[[_Standards/WikiData/WD~bay,2879412|WD~bay,2879412]]'
+- '[[_Standards/WikiData/WD~separator,135899982|WD~separator,135899982]]'
 has_use:
-- '[[_Standards/WikiData/WD~ventilation,584049]]'
-- '[[_Standards/WikiData/WD~view,2075301]]'
-- '[[_Standards/WikiData/WD~daylighting,54316]]'
+- '[[_Standards/WikiData/WD~ventilation,584049|WD~ventilation,584049]]'
+- '[[_Standards/WikiData/WD~view,2075301|WD~view,2075301]]'
+- '[[_Standards/WikiData/WD~daylighting,54316|WD~daylighting,54316]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-different_from: '[[_Standards/WikiData/WD~Okno,15689935]]'
-made_from_material: '[[_Standards/WikiData/WD~glass,11469]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~Okno,15689935|WD~Okno,15689935]]'
+made_from_material: '[[_Standards/WikiData/WD~glass,11469|WD~glass,11469]]'
 Nomenclature_for_Museum_Cataloging: 150
 OmegaWiki_Defined_Meaning: 5932
 Commons_category: Windows

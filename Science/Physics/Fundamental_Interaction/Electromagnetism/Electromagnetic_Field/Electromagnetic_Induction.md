@@ -75,17 +75,17 @@ aliases:
 - 전자기 유도
 has_id_wikidata: Q988780
 described_by_source:
-- "[[_Standards/WikiData/WD~Faraday's_law_of_induction,181465]]"
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Faraday's_law_of_induction,181465|WD~Faraday's_law_of_induction,181465]]"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-- '[[_Standards/WikiData/WD~electromagnetic_phenomenon,70691163]]'
-has_effect: '[[_Standards/WikiData/WD~inductive_coupling,1498289]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116810811,116810811]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Michael_Faraday,8750]]'
-different_from: '[[../../../../../WikiData/WD~magnetic_flux_density,30204]]'
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+- '[[_Standards/WikiData/WD~electromagnetic_phenomenon,70691163|WD~electromagnetic_phenomenon,70691163]]'
+has_effect: '[[_Standards/WikiData/WD~inductive_coupling,1498289|WD~inductive_coupling,1498289]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116810811,116810811|WD~Q116810811,116810811]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Michael_Faraday,8750|WD~Michael_Faraday,8750]]'
+different_from: '[[../../../../../WikiData/WD~magnetic_flux_density,30204|WD~magnetic_flux_density,30204]]'
 OmegaWiki_Defined_Meaning: 1155191
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Electric-generator-3D-with-load.svg

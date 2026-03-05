@@ -84,16 +84,16 @@ aliases:
 - 醬汁
 - 소스
 has_id_wikidata: Q178359
-different_from: '[[_Standards/WikiData/WD~SOS_S.O.S.,223937]]'
+different_from: '[[_Standards/WikiData/WD~SOS_S.O.S.,223937|WD~SOS_S.O.S.,223937]]'
 part_of:
-- '[[_Standards/WikiData/WD~dish,746549]]'
-- '[[_Standards/WikiData/WD~meal,6460735]]'
-has_use: '[[_Standards/WikiData/WD~seasoning,773108]]'
+- '[[_Standards/WikiData/WD~dish,746549|WD~dish,746549]]'
+- '[[_Standards/WikiData/WD~meal,6460735|WD~meal,6460735]]'
+has_use: '[[_Standards/WikiData/WD~seasoning,773108|WD~seasoning,773108]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-subclass_of: '[[_Standards/WikiData/WD~condiment,2596997]]'
-country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~condiment,2596997|WD~condiment,2596997]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 OmegaWiki_Defined_Meaning: 1275504
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lunch%20sauces.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Saus-article.ogg

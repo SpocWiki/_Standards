@@ -12,7 +12,7 @@
 > while in the United Kingdom it was later published by Bloomsbury.
 >
 > The book was adapted into a 1987 feature film directed by Rob Reiner, 
-> starring [[../../Actor/US_Actor/Wright,Robin]] and [[Cary Elwes]].  
+> starring [[../../Actor/US_Actor/Wright,Robin|Wright,Robin]] and [[Cary Elwes]].  
 >
 > William Goldman said, "I've gotten more responses on The Princess Bride 
 > than on everything else I've done put together—all kinds of strange outpouring letters. 

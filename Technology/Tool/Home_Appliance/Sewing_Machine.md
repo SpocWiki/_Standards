@@ -109,17 +109,17 @@ aliases:
 - 재봉틀
 has_id_wikidata: Q49013
 time_of_discovery_or_invention: 1790-01-01T00:00:00Z
-subclass_of: '[[_Standards/WikiData/WD~home_appliance,212920]]'
+subclass_of: '[[_Standards/WikiData/WD~home_appliance,212920|WD~home_appliance,212920]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-has_use: '[[_Standards/WikiData/WD~machine_sewing,66364432]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Thomas_Saint,130495495]]'
-made_from_material: '[[_Standards/WikiData/WD~steel,11427]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+has_use: '[[_Standards/WikiData/WD~machine_sewing,66364432|WD~machine_sewing,66364432]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Thomas_Saint,130495495|WD~Thomas_Saint,130495495]]'
+made_from_material: '[[_Standards/WikiData/WD~steel,11427|WD~steel,11427]]'
 Nomenclature_for_Museum_Cataloging: 6822
 Commons_category: Sewing machines
 Common_Procurement_Vocabulary_code: 42715000

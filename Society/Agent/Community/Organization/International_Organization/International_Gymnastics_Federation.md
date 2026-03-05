@@ -46,20 +46,20 @@ aliases:
 - 國際體操總會
 - 국제 체조 연맹
 has_id_wikidata: Q379079
-member_of: '[[_Standards/WikiData/WD~Association_of_Summer_Olympic_International_Federations,2420112]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_FIG,8342800]]'
+member_of: '[[_Standards/WikiData/WD~Association_of_Summer_Olympic_International_Federations,2420112|WD~Association_of_Summer_Olympic_International_Federations,2420112]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_FIG,8342800|WD~Template_FIG,8342800]]'
 instance_of:
-- '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
-- '[[_Standards/WikiData/WD~gymnastics_association,100546947]]'
+- '[[_Standards/WikiData/WD~international_sport_governing_body,11422536|WD~international_sport_governing_body,11422536]]'
+- '[[_Standards/WikiData/WD~gymnastics_association,100546947|WD~gymnastics_association,100546947]]'
 operating_area:
-- '[[_Standards/WikiData/WD~worldwide,13780930]]'
-- '[[_Standards/WikiData/WD~Earth,2]]'
-chairperson: '[[_Standards/WikiData/WD~Morinari_Watanabe,27917868]]'
-owner_of: '[[_Standards/WikiData/WD~FIG_database,106711852]]'
+- '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+- '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
+chairperson: '[[_Standards/WikiData/WD~Morinari_Watanabe,27917868|WD~Morinari_Watanabe,27917868]]'
+owner_of: '[[_Standards/WikiData/WD~FIG_database,106711852|WD~FIG_database,106711852]]'
 inception: 1881-07-23T00:00:00Z
-headquarters_locations: '[[_Standards/WikiData/WD~Lausanne,807]]'
-location_of_formation: '[[_Standards/WikiData/WD~Liège,3992]]'
-sport: '[[_Standards/WikiData/WD~gymnastics,43450]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Lausanne,807|WD~Lausanne,807]]'
+location_of_formation: '[[_Standards/WikiData/WD~Liège,3992|WD~Liège,3992]]'
+sport: '[[_Standards/WikiData/WD~gymnastics,43450|WD~gymnastics,43450]]'
 social_media_followers:
 - 922000
 - 81133

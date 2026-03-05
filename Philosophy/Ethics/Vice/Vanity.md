@@ -50,11 +50,11 @@ aliases:
 - 虚飾
 - 자만
 has_id_wikidata: Q1321250
-part_of: '[[_Standards/WikiData/WD~haughtiness,187234]]'
-instance_of: '[[_Standards/WikiData/WD~vice,1411242]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Vanity,19821485]]'
-subclass_of: '[[_Standards/WikiData/WD~behavior,9332]]'
+part_of: '[[_Standards/WikiData/WD~haughtiness,187234|WD~haughtiness,187234]]'
+instance_of: '[[_Standards/WikiData/WD~vice,1411242|WD~vice,1411242]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Vanity,19821485|WD~Category_Vanity,19821485]]'
+subclass_of: '[[_Standards/WikiData/WD~behavior,9332|WD~behavior,9332]]'
 Commons_category: Vanity
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pers-brock-03.jpg
 Dewey_Decimal_Classification: 155.232
@@ -115,7 +115,7 @@ dv_has_:
 
 # [[Vanity]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~vanity,1321250]]
+#is_/same_as :: [[_Standards/WikiData/WD~vanity,1321250|WD~vanity,1321250]]
 
 ## #has_/text_of_/abstract 
 

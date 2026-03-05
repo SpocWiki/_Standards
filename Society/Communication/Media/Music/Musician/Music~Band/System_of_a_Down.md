@@ -15,23 +15,23 @@ aliases:
 - 시스템 오브 어 다운
 has_id_wikidata: Q45165
 record_label:
-- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
-- '[[_Standards/WikiData/WD~Sony_Music,330629]]'
-- '[[_Standards/WikiData/WD~American_Recordings,466649]]'
-instance_of: '[[_Standards/WikiData/WD~musical_group,215380]]'
+- '[[_Standards/WikiData/WD~Columbia_Records,183387|WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~Sony_Music,330629|WD~Sony_Music,330629]]'
+- '[[_Standards/WikiData/WD~American_Recordings,466649|WD~American_Recordings,466649]]'
+instance_of: '[[_Standards/WikiData/WD~musical_group,215380|WD~musical_group,215380]]'
 genre:
-- '[[_Standards/WikiData/WD~nu_metal,263734]]'
-- '[[_Standards/WikiData/WD~alternative_metal,20378]]'
+- '[[_Standards/WikiData/WD~nu_metal,263734|WD~nu_metal,263734]]'
+- '[[_Standards/WikiData/WD~alternative_metal,20378|WD~alternative_metal,20378]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Shavo_Odadjian,379400]]'
-- '[[_Standards/WikiData/WD~Serj_Tankian,486063]]'
-- '[[_Standards/WikiData/WD~Daron_Malakian,486786]]'
-- '[[_Standards/WikiData/WD~John_Dolmayan,491772]]'
-- '[[_Standards/WikiData/WD~Ontronik,1751354]]'
-location_of_formation: '[[_Standards/WikiData/WD~Glendale,485716]]'
-discography: '[[_Standards/WikiData/WD~System_of_a_Down_discography,658610]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_System_of_a_Down,6426369]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Shavo_Odadjian,379400|WD~Shavo_Odadjian,379400]]'
+- '[[_Standards/WikiData/WD~Serj_Tankian,486063|WD~Serj_Tankian,486063]]'
+- '[[_Standards/WikiData/WD~Daron_Malakian,486786|WD~Daron_Malakian,486786]]'
+- '[[_Standards/WikiData/WD~John_Dolmayan,491772|WD~John_Dolmayan,491772]]'
+- '[[_Standards/WikiData/WD~Ontronik,1751354|WD~Ontronik,1751354]]'
+location_of_formation: '[[_Standards/WikiData/WD~Glendale,485716|WD~Glendale,485716]]'
+discography: '[[_Standards/WikiData/WD~System_of_a_Down_discography,658610|WD~System_of_a_Down_discography,658610]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_System_of_a_Down,6426369|WD~Template_System_of_a_Down,6426369]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 social_media_followers: 1501324
 Commons_category: System of a Down
 work_period_start_: 1994-01-01T00:00:00Z

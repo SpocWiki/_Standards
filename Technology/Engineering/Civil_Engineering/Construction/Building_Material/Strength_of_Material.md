@@ -58,12 +58,12 @@ aliases:
 - 재료역학
 has_id_wikidata: Q240553
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~solid_mechanics,1080293]]'
-- '[[_Standards/WikiData/WD~materials_engineering,1710723]]'
+- '[[_Standards/WikiData/WD~solid_mechanics,1080293|WD~solid_mechanics,1080293]]'
+- '[[_Standards/WikiData/WD~materials_engineering,1710723|WD~materials_engineering,1710723]]'
 OmegaWiki_Defined_Meaning: 3643
 U_S_National_Archives_Identifier: 10643394
 Commons_category: Strength of materials

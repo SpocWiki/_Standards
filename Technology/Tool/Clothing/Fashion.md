@@ -82,32 +82,32 @@ aliases:
 - 패션
 has_id_wikidata: Q12684
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 history_of_topic:
-- '[[_Standards/WikiData/WD~history_of_costume,2501507]]'
-- '[[_Standards/WikiData/WD~Italian_fashion,3859789]]'
-- '[[_Standards/WikiData/WD~French_fashion,6672]]'
-different_from: '[[_Standards/WikiData/WD~Q3007130,3007130]]'
-studied_by: '[[_Standards/WikiData/WD~fashion_sociology,3487502]]'
+- '[[_Standards/WikiData/WD~history_of_costume,2501507|WD~history_of_costume,2501507]]'
+- '[[_Standards/WikiData/WD~Italian_fashion,3859789|WD~Italian_fashion,3859789]]'
+- '[[_Standards/WikiData/WD~French_fashion,6672|WD~French_fashion,6672]]'
+different_from: '[[_Standards/WikiData/WD~Q3007130,3007130|WD~Q3007130,3007130]]'
+studied_by: '[[_Standards/WikiData/WD~fashion_sociology,3487502|WD~fashion_sociology,3487502]]'
 subclass_of:
-- '[[../../../WikiData/WD~economic_activity,8187769]]'
-- '[[_Standards/WikiData/WD~fad,13427002]]'
-- '[[_Standards/WikiData/WD~culture,11042]]'
-facet_of: '[[_Standards/WikiData/WD~costume,9053464]]'
-industry: '[[_Standards/WikiData/WD~clothing_industry,11828862]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fashion,13341443]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Fashion,15181203]]'
+- '[[../../../WikiData/WD~economic_activity,8187769|WD~economic_activity,8187769]]'
+- '[[_Standards/WikiData/WD~fad,13427002|WD~fad,13427002]]'
+- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
+facet_of: '[[_Standards/WikiData/WD~costume,9053464|WD~costume,9053464]]'
+industry: '[[_Standards/WikiData/WD~clothing_industry,11828862|WD~clothing_industry,11828862]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fashion,13341443|WD~Portal_Fashion,13341443]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Fashion,15181203|WD~WikiProject_Fashion,15181203]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~fashion_person,27943370]]'
-- '[[_Standards/WikiData/WD~fashion_director,43580060]]'
-has_contributing_factor: '[[_Standards/WikiData/WD~economic_materialism,33233]]'
+- '[[_Standards/WikiData/WD~fashion_person,27943370|WD~fashion_person,27943370]]'
+- '[[_Standards/WikiData/WD~fashion_director,43580060|WD~fashion_director,43580060]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~economic_materialism,33233|WD~economic_materialism,33233]]'
 IAB_code:
 - 552
 - 577

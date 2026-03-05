@@ -25,27 +25,27 @@ aliases:
 - 關孝和
 - 세키 다카카즈
 has_id_wikidata: Q470531
-occupation: '[[_Standards/WikiData/WD~mathematician,170790]]'
+occupation: '[[_Standards/WikiData/WD~mathematician,170790|WD~mathematician,170790]]'
 employer:
-- '[[_Standards/WikiData/WD~Tokugawa_shogunate,205662]]'
-- '[[_Standards/WikiData/WD~Kōfu_Domain,661116]]'
-place_of_death: '[[_Standards/WikiData/WD~Edo,215646]]'
-place_of_birth: '[[_Standards/WikiData/WD~Fujioka,596486]]'
+- '[[_Standards/WikiData/WD~Tokugawa_shogunate,205662|WD~Tokugawa_shogunate,205662]]'
+- '[[_Standards/WikiData/WD~Kōfu_Domain,661116|WD~Kōfu_Domain,661116]]'
+place_of_death: '[[_Standards/WikiData/WD~Edo,215646|WD~Edo,215646]]'
+place_of_birth: '[[_Standards/WikiData/WD~Fujioka,596486|WD~Fujioka,596486]]'
 student:
-- '[[_Standards/WikiData/WD~Takebe_Katahiro,662447]]'
-- '[[_Standards/WikiData/WD~Takebe_Kenbe,130923106]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-place_of_burial: '[[_Standards/WikiData/WD~Jorinji_temple,21019073]]'
-family_name: '[[_Standards/WikiData/WD~Seki,61827451]]'
-given_name: '[[_Standards/WikiData/WD~Takakazu,61827460]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-notable_work: '[[_Standards/WikiData/WD~Taisei_sankei,130877226]]'
+- '[[_Standards/WikiData/WD~Takebe_Katahiro,662447|WD~Takebe_Katahiro,662447]]'
+- '[[_Standards/WikiData/WD~Takebe_Kenbe,130923106|WD~Takebe_Kenbe,130923106]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+place_of_burial: '[[_Standards/WikiData/WD~Jorinji_temple,21019073|WD~Jorinji_temple,21019073]]'
+family_name: '[[_Standards/WikiData/WD~Seki,61827451|WD~Seki,61827451]]'
+given_name: '[[_Standards/WikiData/WD~Takakazu,61827460|WD~Takakazu,61827460]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
+notable_work: '[[_Standards/WikiData/WD~Taisei_sankei,130877226|WD~Taisei_sankei,130877226]]'
 date_of_death: 1708-12-05T00:00:00Z
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Japanese,5287]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-residence: '[[_Standards/WikiData/WD~Japan,17]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Japan,17]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Japanese,5287|WD~Japanese,5287]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+residence: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
 Commons_category: Seki Takakazu
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Seki%20Kowa.jpg
 ISNI: 0000000025520206

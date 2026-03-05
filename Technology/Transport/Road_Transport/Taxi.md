@@ -67,25 +67,25 @@ aliases:
 - 計程車
 - 택시
 has_id_wikidata: Q82650
-different_from: '[[_Standards/WikiData/WD~Taxi,171257]]'
+different_from: '[[_Standards/WikiData/WD~Taxi,171257|WD~Taxi,171257]]'
 facet_of:
-- '[[_Standards/WikiData/WD~urban_and_regional_transportation,294362]]'
-- '[[_Standards/WikiData/WD~non_scheduled_transport,1499585]]'
+- '[[_Standards/WikiData/WD~urban_and_regional_transportation,294362|WD~urban_and_regional_transportation,294362]]'
+- '[[_Standards/WikiData/WD~non_scheduled_transport,1499585|WD~non_scheduled_transport,1499585]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~commercial_vehicle,580939]]'
-- '[[_Standards/WikiData/WD~land_transport,4354683]]'
-- '[[_Standards/WikiData/WD~vehicle,42889]]'
+- '[[_Standards/WikiData/WD~commercial_vehicle,580939|WD~commercial_vehicle,580939]]'
+- '[[_Standards/WikiData/WD~land_transport,4354683|WD~land_transport,4354683]]'
+- '[[_Standards/WikiData/WD~vehicle,42889|WD~vehicle,42889]]'
 model_item:
-- '[[_Standards/WikiData/WD~share_taxi,842389]]'
-- '[[_Standards/WikiData/WD~autorickshaw,59720]]'
+- '[[_Standards/WikiData/WD~share_taxi,842389|WD~share_taxi,842389]]'
+- '[[_Standards/WikiData/WD~autorickshaw,59720|WD~autorickshaw,59720]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~taximeter,1135572]]'
-- '[[_Standards/WikiData/WD~taxi_driver,2961580]]'
-- '[[_Standards/WikiData/WD~transport,7590]]'
-named_after: '[[_Standards/WikiData/WD~taximeter,1135572]]'
-used_by: '[[_Standards/WikiData/WD~taxi_driver,2961580]]'
-has_use: '[[_Standards/WikiData/WD~taxi_service,41222493]]'
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~taximeter,1135572|WD~taximeter,1135572]]'
+- '[[_Standards/WikiData/WD~taxi_driver,2961580|WD~taxi_driver,2961580]]'
+- '[[_Standards/WikiData/WD~transport,7590|WD~transport,7590]]'
+named_after: '[[_Standards/WikiData/WD~taximeter,1135572|WD~taximeter,1135572]]'
+used_by: '[[_Standards/WikiData/WD~taxi_driver,2961580|WD~taxi_driver,2961580]]'
+has_use: '[[_Standards/WikiData/WD~taxi_service,41222493|WD~taxi_service,41222493]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Nomenclature_for_Museum_Cataloging: 12186
 OmegaWiki_Defined_Meaning: 6200
 OpenStreetMap_key: taxi

@@ -67,22 +67,22 @@ aliases:
 - 하디스
 has_id_wikidata: Q234343
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-different_from: '[[_Standards/WikiData/WD~Hadith_Qudsi,1220535]]'
-studied_by: '[[_Standards/WikiData/WD~science_of_hadith,2737409]]'
-history_of_topic: '[[_Standards/WikiData/WD~History_of_hadith,4119903]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+different_from: '[[_Standards/WikiData/WD~Hadith_Qudsi,1220535|WD~Hadith_Qudsi,1220535]]'
+studied_by: '[[_Standards/WikiData/WD~science_of_hadith,2737409|WD~science_of_hadith,2737409]]'
+history_of_topic: '[[_Standards/WikiData/WD~History_of_hadith,4119903|WD~History_of_hadith,4119903]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~group_of_works,17489659]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hadith,27281402]]'
-subclass_of: '[[_Standards/WikiData/WD~written_work,47461344]]'
-maintained_by: '[[_Standards/WikiData/WD~WikiProject_Hadith,125450119]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
-significant_person: '[[_Standards/WikiData/WD~Muhammad,9458]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~group_of_works,17489659|WD~group_of_works,17489659]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hadith,27281402|WD~Portal_Hadith,27281402]]'
+subclass_of: '[[_Standards/WikiData/WD~written_work,47461344|WD~written_work,47461344]]'
+maintained_by: '[[_Standards/WikiData/WD~WikiProject_Hadith,125450119|WD~WikiProject_Hadith,125450119]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+significant_person: '[[_Standards/WikiData/WD~Muhammad,9458|WD~Muhammad,9458]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hadith1.png
 Stack_Exchange_tag: https://islam.stackexchange.com/tags/hadith
 Wolfram_Language_entity_code: Entity["Word", "hadith"]

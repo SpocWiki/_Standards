@@ -118,11 +118,11 @@ aliases:
 - 鮮奶油
 - 크림
 has_id_wikidata: Q13228
-subclass_of: '[[_Standards/WikiData/WD~dairy_product,185217]]'
-described_by_source: '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-has_use: '[[_Standards/WikiData/WD~spread,1472481]]'
-has_cause: '[[_Standards/WikiData/WD~cream_skimming,5183370]]'
-different_from: '[[_Standards/WikiData/WD~Q9395665,9395665]]'
+subclass_of: '[[_Standards/WikiData/WD~dairy_product,185217|WD~dairy_product,185217]]'
+described_by_source: '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+has_use: '[[_Standards/WikiData/WD~spread,1472481|WD~spread,1472481]]'
+has_cause: '[[_Standards/WikiData/WD~cream_skimming,5183370|WD~cream_skimming,5183370]]'
+different_from: '[[_Standards/WikiData/WD~Q9395665,9395665|WD~Q9395665,9395665]]'
 carbon_footprint: 4.2
 OmegaWiki_Defined_Meaning: 6929
 CosIng_number: 33061

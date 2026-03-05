@@ -51,14 +51,14 @@ aliases:
 - 파이프라인 수송
 has_id_wikidata: Q725864
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~mode_of_transport,334166]]'
-- '[[_Standards/WikiData/WD~product,2424752]]'
-- '[[_Standards/WikiData/WD~service,7406919]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~mode_of_transport,334166|WD~mode_of_transport,334166]]'
+- '[[_Standards/WikiData/WD~product,2424752|WD~product,2424752]]'
+- '[[_Standards/WikiData/WD~service,7406919|WD~service,7406919]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~line_transport,3537847]]'
-- '[[_Standards/WikiData/WD~transport,7590]]'
-uses: '[[_Standards/WikiData/WD~pipeline,25471856]]'
+- '[[_Standards/WikiData/WD~line_transport,3537847|WD~line_transport,3537847]]'
+- '[[_Standards/WikiData/WD~transport,7590|WD~transport,7590]]'
+uses: '[[_Standards/WikiData/WD~pipeline,25471856|WD~pipeline,25471856]]'
 OmegaWiki_Defined_Meaning: 2811
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alaska%20Pipeline%2022.jpg
 Commons_gallery: Pipeline transport
@@ -120,7 +120,7 @@ dv_has_:
 
 # [[Pipeline_Transport]] 
 
-#is_/same_as :: [[../../WikiData/WD~Pipeline_transport,725864]] 
+#is_/same_as :: [[../../WikiData/WD~Pipeline_transport,725864|WD~Pipeline_transport,725864]] 
 
 ## #has_/text_of_/abstract 
 

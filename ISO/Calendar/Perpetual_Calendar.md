@@ -28,8 +28,8 @@ aliases:
 - 萬年曆
 - 만년력
 has_id_wikidata: Q1383171
-creator: '[[_Standards/WikiData/WD~Enzo_Mari,319350]]'
-subclass_of: '[[_Standards/WikiData/WD~calendar,12027715]]'
+creator: '[[_Standards/WikiData/WD~Enzo_Mari,319350|WD~Enzo_Mari,319350]]'
+subclass_of: '[[_Standards/WikiData/WD~calendar,12027715|WD~calendar,12027715]]'
 Nomenclature_for_Museum_Cataloging: 13621
 Iconclass_notation: 23U11
 Commons_category: Perpetual calendars

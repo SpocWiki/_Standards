@@ -93,20 +93,20 @@ aliases:
 - 연극연출가
 has_id_wikidata: Q3387717
 different_from:
-- '[[_Standards/WikiData/WD~dramaturge,487596]]'
-- '[[_Standards/WikiData/WD~music_director,1198887]]'
-- '[[_Standards/WikiData/WD~theatre_manager,1776724]]'
-- '[[_Standards/WikiData/WD~stage_manager,19375711]]'
+- '[[_Standards/WikiData/WD~dramaturge,487596|WD~dramaturge,487596]]'
+- '[[_Standards/WikiData/WD~music_director,1198887|WD~music_director,1198887]]'
+- '[[_Standards/WikiData/WD~theatre_manager,1776724|WD~theatre_manager,1776724]]'
+- '[[_Standards/WikiData/WD~stage_manager,19375711|WD~stage_manager,19375711]]'
 field_of_this_occupation:
-- '[[_Standards/WikiData/WD~mise_en_scène,2607241]]'
-- '[[_Standards/WikiData/WD~directing,93438884]]'
+- '[[_Standards/WikiData/WD~mise_en_scène,2607241|WD~mise_en_scène,2607241]]'
+- '[[_Standards/WikiData/WD~directing,93438884|WD~directing,93438884]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~director,3455803]]'
-- '[[_Standards/WikiData/WD~theatre_maker,47492700]]'
+- '[[_Standards/WikiData/WD~director,3455803|WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~theatre_maker,47492700|WD~theatre_maker,47492700]]'
 instance_of:
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~theatrical_occupation,15839299]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~theatrical_occupation,15839299|WD~theatrical_occupation,15839299]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 main_Wikidata_property: director
 ROME_Occupation_Code: 16672
 ISCO_88_occupation_class: 2455

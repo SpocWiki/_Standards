@@ -40,28 +40,28 @@ aliases:
 - 自然哲學的數學原理
 - 자연철학의 수학적 원리
 has_id_wikidata: Q205921
-main_subject: '[[_Standards/WikiData/WD~classical_physics,81745]]'
-imprimatur_granted_by: '[[_Standards/WikiData/WD~Samuel_Pepys,106143]]'
+main_subject: '[[_Standards/WikiData/WD~classical_physics,81745|WD~classical_physics,81745]]'
+imprimatur_granted_by: '[[_Standards/WikiData/WD~Samuel_Pepys,106143|WD~Samuel_Pepys,106143]]'
 genre:
-- '[[_Standards/WikiData/WD~natural_philosophy,269323]]'
-- '[[_Standards/WikiData/WD~classical_mechanics,11397]]'
+- '[[_Standards/WikiData/WD~natural_philosophy,269323|WD~natural_philosophy,269323]]'
+- '[[_Standards/WikiData/WD~classical_mechanics,11397|WD~classical_mechanics,11397]]'
 instance_of:
-- '[[_Standards/WikiData/WD~treatise,384515]]'
-- '[[_Standards/WikiData/WD~academic_work,10383930]]'
-- '[[_Standards/WikiData/WD~written_work,47461344]]'
-described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-based_on: '[[_Standards/WikiData/WD~De_motu_corporum_in_gyrum,5244955]]'
-translator: '[[_Standards/WikiData/WD~Jakob_Philipp_Wolfers,16650623]]'
+- '[[_Standards/WikiData/WD~treatise,384515|WD~treatise,384515]]'
+- '[[_Standards/WikiData/WD~academic_work,10383930|WD~academic_work,10383930]]'
+- '[[_Standards/WikiData/WD~written_work,47461344|WD~written_work,47461344]]'
+described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+based_on: '[[_Standards/WikiData/WD~De_motu_corporum_in_gyrum,5244955|WD~De_motu_corporum_in_gyrum,5244955]]'
+translator: '[[_Standards/WikiData/WD~Jakob_Philipp_Wolfers,16650623|WD~Jakob_Philipp_Wolfers,16650623]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~Philosophiae_Naturalis_Principia_Mathematica,20963630]]'
-- '[[_Standards/WikiData/WD~Philosophiae_Naturalis_Principia_Mathematica,20963633]]'
-- "[[_Standards/WikiData/WD~Sir_Isaac_Newton's_Mathematical_principles_of_natural_philosophy_and_his_System_of_the_world_ed._Florian_Cajori._1934,108524834]]"
-- '[[_Standards/WikiData/WD~Q130243916,130243916]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~Latin,397]]'
-author: '[[_Standards/WikiData/WD~Isaac_Newton,935]]'
-copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
-place_of_publication: '[[_Standards/WikiData/WD~London,84]]'
-depicts: "[[_Standards/WikiData/WD~Newton's_laws_of_motion,38433]]"
+- '[[_Standards/WikiData/WD~Philosophiae_Naturalis_Principia_Mathematica,20963630|WD~Philosophiae_Naturalis_Principia_Mathematica,20963630]]'
+- '[[_Standards/WikiData/WD~Philosophiae_Naturalis_Principia_Mathematica,20963633|WD~Philosophiae_Naturalis_Principia_Mathematica,20963633]]'
+- "[[_Standards/WikiData/WD~Sir_Isaac_Newton's_Mathematical_principles_of_natural_philosophy_and_his_System_of_the_world_ed._Florian_Cajori._1934,108524834|WD~Sir_Isaac_Newton's_Mathematical_principles_of_natural_philosophy_and_his_System_of_the_world_ed._Florian_Cajori._1934,108524834]]"
+- '[[_Standards/WikiData/WD~Q130243916,130243916|WD~Q130243916,130243916]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Latin,397|WD~Latin,397]]'
+author: '[[_Standards/WikiData/WD~Isaac_Newton,935|WD~Isaac_Newton,935]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652|WD~public_domain,19652]]'
+place_of_publication: '[[_Standards/WikiData/WD~London,84|WD~London,84]]'
+depicts: "[[_Standards/WikiData/WD~Newton's_laws_of_motion,38433|WD~Newton's_laws_of_motion,38433]]"
 publication_date: 1687-01-01T00:00:00Z
 inception: 1680-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Newton%27s%20Principia%20title%20page.png

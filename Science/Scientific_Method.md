@@ -109,22 +109,22 @@ aliases:
 - 科學方法
 - 과학적 방법
 has_id_wikidata: Q46857
-studied_by: '[[_Standards/WikiData/WD~methodology,185698]]'
-has_characteristic: '[[_Standards/WikiData/WD~objectivity,206330]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_scientific_method,3137275]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_scientific_method,7112720]]'
+studied_by: '[[_Standards/WikiData/WD~methodology,185698|WD~methodology,185698]]'
+has_characteristic: '[[_Standards/WikiData/WD~objectivity,206330|WD~objectivity,206330]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_scientific_method,3137275|WD~history_of_scientific_method,3137275]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_scientific_method,7112720|WD~outline_of_scientific_method,7112720]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~scholarly_method,17079481]]'
-- '[[_Standards/WikiData/WD~epistemological_values,133798571]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_Scientific_method,106463953]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~research_method,126883870]]'
+- '[[_Standards/WikiData/WD~scholarly_method,17079481|WD~scholarly_method,17079481]]'
+- '[[_Standards/WikiData/WD~epistemological_values,133798571|WD~epistemological_values,133798571]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_Scientific_method,106463953|WD~Template_Infobox_Scientific_method,106463953]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~research_method,126883870|WD~research_method,126883870]]'
 used_by:
-- '[[_Standards/WikiData/WD~science,336]]'
-- '[[_Standards/WikiData/WD~scientist,901]]'
-part_of: '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~science,336|WD~science,336]]'
+- '[[_Standards/WikiData/WD~scientist,901|WD~scientist,901]]'
+part_of: '[[_Standards/WikiData/WD~science,336|WD~science,336]]'
 Wikidata_property: determination method or standard
-facet_of: '[[_Standards/WikiData/WD~research,42240]]'
+facet_of: '[[_Standards/WikiData/WD~research,42240|WD~research,42240]]'
 OmegaWiki_Defined_Meaning: 1592019
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Bilimsel%20yontem.jpg

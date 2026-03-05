@@ -158,11 +158,11 @@ aliases:
 - 波罗的海国家理事会
 - 발트해 국가 이사회
 has_id_wikidata: Q789769
-instance_of: '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-facet_of: '[[_Standards/WikiData/WD~Baltic_Sea,545]]'
-location_of_formation: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
-work_locations: '[[_Standards/WikiData/WD~Stockholm,1754]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Stockholm,1754]]'
+instance_of: '[[_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
+facet_of: '[[_Standards/WikiData/WD~Baltic_Sea,545|WD~Baltic_Sea,545]]'
+location_of_formation: '[[_Standards/WikiData/WD~Copenhagen,1748|WD~Copenhagen,1748]]'
+work_locations: '[[_Standards/WikiData/WD~Stockholm,1754|WD~Stockholm,1754]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Stockholm,1754|WD~Stockholm,1754]]'
 member_count: 10
 social_media_followers: 2959
 EU_Corporate_body_code: CBSS

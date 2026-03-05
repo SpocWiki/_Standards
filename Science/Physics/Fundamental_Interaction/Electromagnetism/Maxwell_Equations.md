@@ -83,22 +83,22 @@ aliases:
 - 맥스웰 방정식
 has_id_wikidata: Q51501
 has_part_s_:
-- "[[_Standards/WikiData/WD~Gauss's_law,173356]]"
-- "[[_Standards/WikiData/WD~Faraday's_law_of_induction,181465]]"
-- "[[_Standards/WikiData/WD~Gauss's_law_for_magnetism,1195250]]"
-- "[[_Standards/WikiData/WD~Ampère's_circuital_law,51500]]"
-different_from: '[[_Standards/WikiData/WD~Maxwell_relations,187465]]'
+- "[[_Standards/WikiData/WD~Gauss's_law,173356|WD~Gauss's_law,173356]]"
+- "[[_Standards/WikiData/WD~Faraday's_law_of_induction,181465|WD~Faraday's_law_of_induction,181465]]"
+- "[[_Standards/WikiData/WD~Gauss's_law_for_magnetism,1195250|WD~Gauss's_law_for_magnetism,1195250]]"
+- "[[_Standards/WikiData/WD~Ampère's_circuital_law,51500|WD~Ampère's_circuital_law,51500]]"
+different_from: '[[_Standards/WikiData/WD~Maxwell_relations,187465|WD~Maxwell_relations,187465]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_law,214070]]'
-- '[[_Standards/WikiData/WD~partial_differential_equation,271977]]'
-facet_of: '[[_Standards/WikiData/WD~classical_electromagnetism,377930]]'
+- '[[_Standards/WikiData/WD~physical_law,214070|WD~physical_law,214070]]'
+- '[[_Standards/WikiData/WD~partial_differential_equation,271977|WD~partial_differential_equation,271977]]'
+facet_of: '[[_Standards/WikiData/WD~classical_electromagnetism,377930|WD~classical_electromagnetism,377930]]'
 instance_of:
-- '[[_Standards/WikiData/WD~mathematical_descriptions_of_the_electromagnetic_field,6786849]]'
-- '[[_Standards/WikiData/WD~physical_theory,9357058]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Maxwell's_equations,17016052]]"
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~mathematical_descriptions_of_the_electromagnetic_field,6786849|WD~mathematical_descriptions_of_the_electromagnetic_field,6786849]]'
+- '[[_Standards/WikiData/WD~physical_theory,9357058|WD~physical_theory,9357058]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Maxwell's_equations,17016052|WD~history_of_Maxwell's_equations,17016052]]"
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>&#x03BC;</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>&#x03F5;</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mstyle></mrow></math>
@@ -111,7 +111,7 @@ defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mtable columnalign=\"right left right left right left right left right left right left\" columnspacing=\"0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em\" displaystyle=\"true\" rowspacing=\"3pt\"><mtr><mtd><mi mathvariant=\"normal\">&#x2207;</mi><mo stretchy=\"false\">&#x22C5;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D404</mi></mrow></mtd><mtd><mo stretchy=\"false\">=</mo><mrow data-mjx-texclass=\"ORD\"><mfrac><mrow data-mjx-texclass=\"ORD\"><mi>&#x03C1;</mi></mrow><mrow data-mjx-texclass=\"ORD\"><msub><mi>&#x03B5;</mi><mrow data-mjx-texclass=\"ORD\"><mn>0</mn></mrow></msub></mrow></mfrac></mrow><mo>,</mo></mtd></mtr><mtr><mtd><mi mathvariant=\"normal\">&#x2207;</mi><mo stretchy=\"false\">&#x22C5;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D401</mi></mrow></mtd><mtd><mo stretchy=\"false\">=</mo><mn>0</mn><mo>,</mo></mtd></mtr><mtr><mtd><mi mathvariant=\"normal\">&#x2207;</mi><mo stretchy=\"false\">&#x00D7;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D404</mi></mrow></mtd><mtd><mo stretchy=\"false\">=</mo><mo stretchy=\"false\">&#x2212;</mo><mrow data-mjx-texclass=\"ORD\"><mfrac><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>&#x2202;</mi><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D401</mi></mrow></mrow></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>&#x2202;</mi><mi>t</mi></mrow></mrow></mfrac></mrow><mo>,</mo></mtd></mtr><mtr><mtd><mi mathvariant=\"normal\">&#x2207;</mi><mo stretchy=\"false\">&#x00D7;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D401</mi></mrow></mtd><mtd><mo stretchy=\"false\">=</mo><msub><mi>&#x03BC;</mi><mrow data-mjx-texclass=\"ORD\"><mn>0</mn></mrow></msub><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D409</mi></mrow><mo stretchy=\"false\">+</mo><msub><mi>&#x03B5;</mi><mrow data-mjx-texclass=\"ORD\"><mn>0</mn></mrow></msub><mrow data-mjx-texclass=\"ORD\"><mfrac><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>&#x2202;</mi><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D404</mi></mrow></mrow></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>&#x2202;</mi><mi>t</mi></mrow></mrow></mfrac></mrow><mo data-mjx-texclass=\"CLOSE\">)</mo></mrow></mtd></mtr></mtable></mrow></mstyle></mrow></math>"
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt"><mtr><mtd><msub><mi>&#x2202;</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">[</mo><mi>&#x03B1;</mi></mrow></mrow></msub><msub><mi>F</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03B2;</mi><mi>&#x03B3;</mi><mo stretchy="false">]</mo></mrow></mrow></msub></mtd><mtd><mo stretchy="false">=</mo><mn>0</mn><mo>,</mo></mtd></mtr><mtr><mtd><msub><mi>&#x2202;</mi><mrow data-mjx-texclass="ORD"><mi>&#x03B1;</mi></mrow></msub><msup><mi>F</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03B1;</mi><mi>&#x03B2;</mi></mrow></mrow></msup></mtd><mtd><mo stretchy="false">=</mo><msub><mi>&#x03BC;</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub><msup><mi>J</mi><mrow data-mjx-texclass="ORD"><mi>&#x03B2;</mi></mrow></msup></mtd></mtr></mtable></mrow></mstyle></mrow></math>
 publication_date: 1861-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~James_Clerk_Maxwell,9095]]'
+named_after: '[[_Standards/WikiData/WD~James_Clerk_Maxwell,9095|WD~James_Clerk_Maxwell,9095]]'
 Commons_category: Maxwell's equations
 plaque_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/James%20Clerk%20Maxwell%20Statue%20Equations.jpg

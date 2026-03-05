@@ -10,7 +10,7 @@ tags:
 type: Country
 dv_has_name_en: Asian Shipping
 dv_has_name_de: Asien Schiffahrt
-dv_has_place_continent: "[[../Asia]]"
+dv_has_place_continent: "[[../Asia|Asia]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Asia/Asian_Shipping|Asian_Shipping]]"

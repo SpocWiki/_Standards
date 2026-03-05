@@ -27,7 +27,7 @@ title: is_a_health_aspect_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration|Health_Aspect_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Health_Aspect_Enumeration.public|Health_Aspect_Enumeration.public]]"
@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Health_Aspect_Enumeration.secret|Health_Aspect_Enumeration.secret]]"
     - "[[Health_Aspect_Enumeration]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Health_Aspect_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Health_Aspect_Enumeration.public|Health_Aspect_Enumeration.public]]"

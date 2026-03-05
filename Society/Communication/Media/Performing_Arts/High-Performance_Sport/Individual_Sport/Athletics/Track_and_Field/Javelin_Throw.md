@@ -78,12 +78,12 @@ aliases:
 - ꯇꯥ ꯂꯪꯕ
 - 창던지기
 has_id_wikidata: Q178108
-instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
-subclass_of: '[[_Standards/WikiData/WD~throwing,3216963]]'
-uses: '[[_Standards/WikiData/WD~javelin,3763954]]'
-record_or_record_progression: "[[_Standards/WikiData/WD~Women's_javelin_world_record_progression,3922790]]"
-practiced_by: '[[_Standards/WikiData/WD~javelin_thrower,18510502]]'
-sport: '[[_Standards/WikiData/WD~athletics,542]]'
+instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410|WD~sports_discipline,2312410]]'
+subclass_of: '[[_Standards/WikiData/WD~throwing,3216963|WD~throwing,3216963]]'
+uses: '[[_Standards/WikiData/WD~javelin,3763954|WD~javelin,3763954]]'
+record_or_record_progression: "[[_Standards/WikiData/WD~Women's_javelin_world_record_progression,3922790|WD~Women's_javelin_world_record_progression,3922790]]"
+practiced_by: '[[_Standards/WikiData/WD~javelin_thrower,18510502|WD~javelin_thrower,18510502]]'
+sport: '[[_Standards/WikiData/WD~athletics,542|WD~athletics,542]]'
 BHCL_UUID: 14d85971-bb95-4154-a0ef-1359a460d3f8
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Athletics%20%28javelin%29%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-S0702-0025%2C%20Wolfgang%20Hanisch.jpg

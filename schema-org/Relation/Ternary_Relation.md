@@ -25,13 +25,13 @@ aliases:
 - יחס טרנארי
 - 三項関係
 has_id_wikidata: Q3756532
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~binary_operation,164307]]'
-subclass_of: '[[_Standards/WikiData/WD~relation,203066]]'
-has_part_s_: '[[_Standards/WikiData/WD~triple,20088882]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~binary_operation,164307|WD~binary_operation,164307]]'
+subclass_of: '[[_Standards/WikiData/WD~relation,203066|WD~relation,203066]]'
+has_part_s_: '[[_Standards/WikiData/WD~triple,20088882|WD~triple,20088882]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710|WD~type_of_relation,130324710]]'
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~ternary_relation,3756532]]'
+  - '[[_Standards/WikiData/WD~ternary_relation,3756532|WD~ternary_relation,3756532]]'
   - '[[/_Standards/schema-org/Relation/Ternary_Relation|Ternary_Relation]]'
   - '[[/_public/schema-org/Relation/Ternary_Relation.public|Ternary_Relation.public]]'
   - '[[/_internal/schema-org/Relation/Ternary_Relation.internal|Ternary_Relation.internal]]'
@@ -41,7 +41,7 @@ dv_is_:
   - '[[/_secret/schema-org/Relation/Ternary_Relation.secret|Ternary_Relation.secret]]'
   - '[[Ternary_Relation]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~ternary_relation,3756532]]'
+- '[[_Standards/WikiData/WD~ternary_relation,3756532|WD~ternary_relation,3756532]]'
 - '[[Ternary_Relation]]'
 - '[[/_public/schema-org/Relation/Ternary_Relation.public|Ternary_Relation.public]]'
 - '[[/_internal/schema-org/Relation/Ternary_Relation.internal|Ternary_Relation.internal]]'
@@ -78,7 +78,7 @@ dv_has_:
 
 # [[Ternary_Relation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~ternary_relation,3756532]] 
+#is_/same_as :: [[_Standards/WikiData/WD~ternary_relation,3756532|WD~ternary_relation,3756532]] 
 
 
 ## Confidential Links & Embeds: 

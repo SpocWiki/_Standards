@@ -48,11 +48,11 @@ aliases:
 - 立憲主義
 - 입헌주의
 has_id_wikidata: Q1194747
-part_of: '[[_Standards/WikiData/WD~philosophy_of_law,126842]]'
-subclass_of: '[[_Standards/WikiData/WD~Q4231506,4231506]]'
-instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q29351358,29351358]]'
+part_of: '[[_Standards/WikiData/WD~philosophy_of_law,126842|WD~philosophy_of_law,126842]]'
+subclass_of: '[[_Standards/WikiData/WD~Q4231506,4231506|WD~Q4231506,4231506]]'
+instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q29351358,29351358|WD~Q29351358,29351358]]'
 PhilPapers_topic: constitutionalism
 dv_has_:
   name_:

@@ -48,10 +48,10 @@ aliases:
 - 黎曼幾何
 - 리만 기하학
 has_id_wikidata: Q761383
-subclass_of: '[[_Standards/WikiData/WD~differential_geometry,188444]]'
-instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-named_after: '[[_Standards/WikiData/WD~Bernhard_Riemann,42299]]'
+subclass_of: '[[_Standards/WikiData/WD~differential_geometry,188444|WD~differential_geometry,188444]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+named_after: '[[_Standards/WikiData/WD~Bernhard_Riemann,42299|WD~Bernhard_Riemann,42299]]'
 Commons_category: Riemannian geometry
 Stack_Exchange_tag:
 - https://math.stackexchange.com/tags/riemannian-geometry

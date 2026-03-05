@@ -74,26 +74,26 @@ aliases:
 - 콘크리트
 has_id_wikidata: Q22657
 subclass_of:
-- '[[_Standards/WikiData/WD~composite_material,181790]]'
-- '[[_Standards/WikiData/WD~malleable_material,34669510]]'
+- '[[_Standards/WikiData/WD~composite_material,181790|WD~composite_material,181790]]'
+- '[[_Standards/WikiData/WD~malleable_material,34669510|WD~malleable_material,34669510]]'
 different_from:
-- '[[_Standards/WikiData/WD~asphalt_concrete,189259]]'
-- '[[_Standards/WikiData/WD~concrete_surface,2534206]]'
+- '[[_Standards/WikiData/WD~asphalt_concrete,189259|WD~asphalt_concrete,189259]]'
+- '[[_Standards/WikiData/WD~concrete_surface,2534206|WD~concrete_surface,2534206]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~additive,350176]]'
-- '[[_Standards/WikiData/WD~mixing_water,557927]]'
-- '[[_Standards/WikiData/WD~aggregate,866298]]'
-- '[[_Standards/WikiData/WD~cement,45190]]'
+- '[[_Standards/WikiData/WD~additive,350176|WD~additive,350176]]'
+- '[[_Standards/WikiData/WD~mixing_water,557927|WD~mixing_water,557927]]'
+- '[[_Standards/WikiData/WD~aggregate,866298|WD~aggregate,866298]]'
+- '[[_Standards/WikiData/WD~cement,45190|WD~cement,45190]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-part_of: '[[_Standards/WikiData/WD~composite_construction,2514392]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Concrete_navbox,7646495]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+part_of: '[[_Standards/WikiData/WD~composite_construction,2514392|WD~composite_construction,2514392]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Concrete_navbox,7646495|WD~Template_Concrete_navbox,7646495]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 compressive_strength: 30
 embodied_energy: 1.11
 Nomenclature_for_Museum_Cataloging: 59

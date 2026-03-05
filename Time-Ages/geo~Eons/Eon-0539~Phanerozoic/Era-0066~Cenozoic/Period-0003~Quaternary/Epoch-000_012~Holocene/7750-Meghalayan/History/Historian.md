@@ -172,18 +172,18 @@ female_form_of_label:
 - historiistino
 - Historikerin
 has_list:
-- '[[_Standards/WikiData/WD~list_of_historians,289906]]'
-- '[[_Standards/WikiData/WD~list_of_historians_by_area_of_study,6623268]]'
-- '[[_Standards/WikiData/WD~list_of_historians_by_continent,42912466]]'
+- '[[_Standards/WikiData/WD~list_of_historians,289906|WD~list_of_historians,289906]]'
+- '[[_Standards/WikiData/WD~list_of_historians_by_area_of_study,6623268|WD~list_of_historians_by_area_of_study,6623268]]'
+- '[[_Standards/WikiData/WD~list_of_historians_by_continent,42912466|WD~list_of_historians_by_continent,42912466]]'
 field_of_this_occupation:
-- '[[_Standards/WikiData/WD~study_of_history,1066186]]'
-- '[[_Standards/WikiData/WD~historiography,50675]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Historians,6395208]]'
-subclass_of: '[[_Standards/WikiData/WD~humanities_scholar,16727193]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Category_Wikipedia_categories_named_after_historians,31960708]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_WikiProject_Systemic_Racism_Knowledge_Graph,120754096]]'
-instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~study_of_history,1066186|WD~study_of_history,1066186]]'
+- '[[_Standards/WikiData/WD~historiography,50675|WD~historiography,50675]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Historians,6395208|WD~Category_Historians,6395208]]'
+subclass_of: '[[_Standards/WikiData/WD~humanities_scholar,16727193|WD~humanities_scholar,16727193]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Category_Wikipedia_categories_named_after_historians,31960708|WD~Category_Wikipedia_categories_named_after_historians,31960708]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_WikiProject_Systemic_Racism_Knowledge_Graph,120754096|WD~Wikidata_WikiProject_Systemic_Racism_Knowledge_Graph,120754096]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 ISCO_08_occupation_class: 2633
 ROME_Occupation_Code: 15469
 IMDb_keyword: historian
@@ -204,7 +204,7 @@ Commons_category: Historians
 dv_"Concept", "Historian: tvny6"
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~historian,201788]]'
+  - '[[_Standards/WikiData/WD~historian,201788|WD~historian,201788]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian|Historian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian.public|Historian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian.internal|Historian.internal]]'
@@ -214,7 +214,7 @@ dv_is_:
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian.secret|Historian.secret]]'
 dv_concept-historian: tvny6"
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~historian,201788|WD~historian,201788]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian|Historian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian.public|Historian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian.internal|Historian.internal]]'
@@ -401,7 +401,7 @@ dv_has_:
 
 # [[Historian]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~historian,201788]]
+#is_/same_as :: [[_Standards/WikiData/WD~historian,201788|WD~historian,201788]]
 
 ## #has_/text_of_/abstract 
 

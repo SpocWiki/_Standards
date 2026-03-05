@@ -54,30 +54,30 @@ aliases:
 - 임진조국전쟁
 has_id_wikidata: Q576338
 participant:
-- '[[_Standards/WikiData/WD~Toyotomi_Hideyoshi,187550]]'
-- '[[_Standards/WikiData/WD~Go_Yōzei,349440]]'
-- '[[_Standards/WikiData/WD~Seonjo_of_Joseon,484359]]'
-- '[[_Standards/WikiData/WD~Toyotomi_government,11634225]]'
-- '[[_Standards/WikiData/WD~Wanli_Emperor,10061]]'
+- '[[_Standards/WikiData/WD~Toyotomi_Hideyoshi,187550|WD~Toyotomi_Hideyoshi,187550]]'
+- '[[_Standards/WikiData/WD~Go_Yōzei,349440|WD~Go_Yōzei,349440]]'
+- '[[_Standards/WikiData/WD~Seonjo_of_Joseon,484359|WD~Seonjo_of_Joseon,484359]]'
+- '[[_Standards/WikiData/WD~Toyotomi_government,11634225|WD~Toyotomi_government,11634225]]'
+- '[[_Standards/WikiData/WD~Wanli_Emperor,10061|WD~Wanli_Emperor,10061]]'
 instance_of:
-- '[[_Standards/WikiData/WD~invasion,467011]]'
-- '[[_Standards/WikiData/WD~war,198]]'
-location: '[[_Standards/WikiData/WD~Korean_Peninsula,483134]]'
-part_of: '[[_Standards/WikiData/WD~history_of_Japan_Korea_relations,491271]]'
-has_effect: '[[_Standards/WikiData/WD~Pukkwan_Victory_Monument,698471]]'
+- '[[_Standards/WikiData/WD~invasion,467011|WD~invasion,467011]]'
+- '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
+location: '[[_Standards/WikiData/WD~Korean_Peninsula,483134|WD~Korean_Peninsula,483134]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Japan_Korea_relations,491271|WD~history_of_Japan_Korea_relations,491271]]'
+has_effect: '[[_Standards/WikiData/WD~Pukkwan_Victory_Monument,698471|WD~Pukkwan_Victory_Monument,698471]]'
 has_list:
-- '[[_Standards/WikiData/WD~list_of_battles_during_the_Japanese_invasions_of_Korea,6607355]]'
-- '[[_Standards/WikiData/WD~list_of_naval_battles_during_the_Japanese_invasions_of_Korea,6630309]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Campaignbox_Japanese_invasions_of_Korea_(1592_1598),6855936]]'
-history_of_topic: '[[_Standards/WikiData/WD~timeline_of_the_Japanese_invasions_of_Korea,7806373]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Imjin_War,8562806]]'
+- '[[_Standards/WikiData/WD~list_of_battles_during_the_Japanese_invasions_of_Korea,6607355|WD~list_of_battles_during_the_Japanese_invasions_of_Korea,6607355]]'
+- '[[_Standards/WikiData/WD~list_of_naval_battles_during_the_Japanese_invasions_of_Korea,6630309|WD~list_of_naval_battles_during_the_Japanese_invasions_of_Korea,6630309]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Campaignbox_Japanese_invasions_of_Korea_(1592_1598),6855936|WD~Template_Campaignbox_Japanese_invasions_of_Korea_(1592_1598),6855936]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_the_Japanese_invasions_of_Korea,7806373|WD~timeline_of_the_Japanese_invasions_of_Korea,7806373]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Imjin_War,8562806|WD~Category_Imjin_War,8562806]]'
 end_time: 1598-12-16T00:00:00Z
 start_time: 1592-05-23T00:00:00Z
 Commons_category: Japanese invasions of Korea
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Siege-of-Busanjin-1592.jpg
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Japanese_invasions_of_Korea,576338]]'
+  - '[[../../../../../../../../WikiData/WD~Japanese_invasions_of_Korea,576338|WD~Japanese_invasions_of_Korea,576338]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598|1592-Japanese_invasions_of_Korea-1598]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.public|1592-Japanese_invasions_of_Korea-1598.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.internal|1592-Japanese_invasions_of_Korea-1598.internal]]'
@@ -86,7 +86,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.personal|1592-Japanese_invasions_of_Korea-1598.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.secret|1592-Japanese_invasions_of_Korea-1598.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Japanese_invasions_of_Korea,576338]]'
+- '[[../../../../../../../../WikiData/WD~Japanese_invasions_of_Korea,576338|WD~Japanese_invasions_of_Korea,576338]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598|1592-Japanese_invasions_of_Korea-1598]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.public|1592-Japanese_invasions_of_Korea-1598.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.internal|1592-Japanese_invasions_of_Korea-1598.internal]]'

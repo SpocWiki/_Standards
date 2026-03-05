@@ -49,9 +49,9 @@ Commons_category: Eoarchean
 end_time: -3600000000
 has_time_started: -4031000000
 instance_of:
-- '[[_Standards/WikiData/WD~era,630830]]'
-- '[[_Standards/WikiData/WD~erathem,2464485]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~era,630830|WD~era,630830]]'
+- '[[_Standards/WikiData/WD~erathem,2464485|WD~erathem,2464485]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 sRGB_color_hex_triplet: DA037F
 start_time: -4031000000
 dv_has_:
@@ -192,7 +192,7 @@ has_text_of_color = `=this.dv_has_text_of_color`
 ## #has_/text_of_/abstract 
 
 > The **Eoarchean** (IPA:  EE-oh-ar-KEE-ən; also spelled Eoarchaean) is the first era of the Archean Eon of the geologic record. 
-> It spans 431 million years, from the end of the [[../Eon-4567~Hadean]] 4031 Mya to the start of the [[Era-3600~Paleoarchean]] 3600 Mya. 
+> It spans 431 million years, from the end of the [[../Eon-4567~Hadean|Eon-4567~Hadean]] 4031 Mya to the start of the [[Era-3600~Paleoarchean]] 3600 Mya. 
 > 
 > The beginnings of life on Earth have been dated to this era 
 > and evidence of archaea and cyanobacteria date to 3500 Mya, comparatively shortly after the Eoarchean. 

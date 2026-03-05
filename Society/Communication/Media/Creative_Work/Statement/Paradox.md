@@ -42,27 +42,27 @@ aliases:
 - 역설
 has_id_wikidata: Q483372
 has_part_s_:
-- '[[_Standards/WikiData/WD~proposition,108163]]'
-- '[[_Standards/WikiData/WD~logical_contradiction,363948]]'
-- '[[_Standards/WikiData/WD~logic,8078]]'
-instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~proposition,108163|WD~proposition,108163]]'
+- '[[_Standards/WikiData/WD~logical_contradiction,363948|WD~logical_contradiction,363948]]'
+- '[[_Standards/WikiData/WD~logic,8078|WD~logic,8078]]'
+instance_of: '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~logical_contradiction,363948]]'
-- '[[_Standards/WikiData/WD~argument,2185614]]'
-- '[[_Standards/WikiData/WD~logic,8078]]'
+- '[[_Standards/WikiData/WD~logical_contradiction,363948|WD~logical_contradiction,363948]]'
+- '[[_Standards/WikiData/WD~argument,2185614|WD~argument,2185614]]'
+- '[[_Standards/WikiData/WD~logic,8078|WD~logic,8078]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~declarative_sentence,474328]]'
-- '[[_Standards/WikiData/WD~incongruence,108268872]]'
+- '[[_Standards/WikiData/WD~declarative_sentence,474328|WD~declarative_sentence,474328]]'
+- '[[_Standards/WikiData/WD~incongruence,108268872|WD~incongruence,108268872]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-facet_of: '[[_Standards/WikiData/WD~management_science,2414942]]'
-different_from: '[[_Standards/WikiData/WD~Paradox,18176451]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+facet_of: '[[_Standards/WikiData/WD~management_science,2414942|WD~management_science,2414942]]'
+different_from: '[[_Standards/WikiData/WD~Paradox,18176451|WD~Paradox,18176451]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Decision_theory_paradoxes,20376213]]'
-- '[[_Standards/WikiData/WD~Template_Paradoxes,20449778]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~Template_Decision_theory_paradoxes,20376213|WD~Template_Decision_theory_paradoxes,20376213]]'
+- '[[_Standards/WikiData/WD~Template_Paradoxes,20449778|WD~Template_Paradoxes,20449778]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
 OmegaWiki_Defined_Meaning: 392908
 Commons_category: Paradox
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LargeTribarGotschuchenAustria.JPG

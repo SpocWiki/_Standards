@@ -27,9 +27,9 @@ tags:
 title: is_a_four_wheel_drive_configuration Class
 type: Type
 dv_has_:
-  parent_class: "[[../DriveWheelConfigurationValue]]"
+  parent_class: "[[../DriveWheelConfigurationValue|DriveWheelConfigurationValue]]"
 dv_is_:
-  enum_of: "[[../DriveWheelConfigurationValue]]"
+  enum_of: "[[../DriveWheelConfigurationValue|DriveWheelConfigurationValue]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration|Four_Wheel_Drive_Configuration]]"
     - "[[/_public/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.public|Four_Wheel_Drive_Configuration.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.personal|Four_Wheel_Drive_Configuration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.secret|Four_Wheel_Drive_Configuration.secret]]"
     - "[[Four_Wheel_Drive_Configuration]]"
-dv_has_parent_class: "[[../DriveWheelConfigurationValue]]"
-dv_is_enum_of: "[[../DriveWheelConfigurationValue]]"
+dv_has_parent_class: "[[../DriveWheelConfigurationValue|DriveWheelConfigurationValue]]"
+dv_is_enum_of: "[[../DriveWheelConfigurationValue|DriveWheelConfigurationValue]]"
 dv_is_same_as:
   - "[[Four_Wheel_Drive_Configuration]]"
   - "[[/_public/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.public|Four_Wheel_Drive_Configuration.public]]"

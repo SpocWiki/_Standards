@@ -48,15 +48,15 @@ aliases:
 - 北歐滑雪
 - 노르딕 스키
 has_id_wikidata: Q216613
-subclass_of: '[[_Standards/WikiData/WD~skiing,130949]]'
+subclass_of: '[[_Standards/WikiData/WD~skiing,130949|WD~skiing,130949]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~cross_country_skiing,179687]]'
-- '[[_Standards/WikiData/WD~Nordic_combined,201965]]'
-- '[[_Standards/WikiData/WD~ski_jumping,7718]]'
-instance_of: '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~cross_country_skiing,179687|WD~cross_country_skiing,179687]]'
+- '[[_Standards/WikiData/WD~Nordic_combined,201965|WD~Nordic_combined,201965]]'
+- '[[_Standards/WikiData/WD~ski_jumping,7718|WD~ski_jumping,7718]]'
+instance_of: '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~Nordic_skier,113510260]]'
-- '[[_Standards/WikiData/WD~military_skier,117667098]]'
+- '[[_Standards/WikiData/WD~Nordic_skier,113510260|WD~Nordic_skier,113510260]]'
+- '[[_Standards/WikiData/WD~military_skier,117667098|WD~military_skier,117667098]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Nordic%20combined%20pictogram.svg
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Combined%20nordic.png

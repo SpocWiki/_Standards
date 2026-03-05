@@ -26,7 +26,7 @@ tags:
 title: is_an_offer_item_condition Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition|Offer_Item_Condition]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Offer_Item_Condition.personal|Offer_Item_Condition.personal]]"
     - "[[/_secret/schema-org/Enumeration/Offer_Item_Condition.secret|Offer_Item_Condition.secret]]"
     - "[[Offer_Item_Condition]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Offer_Item_Condition]]"
   - "[[/_public/schema-org/Enumeration/Offer_Item_Condition.public|Offer_Item_Condition.public]]"

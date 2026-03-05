@@ -63,14 +63,14 @@ aliases:
 - 現代藝術
 - 현대 미술
 has_id_wikidata: Q38166
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~degenerate_art,156460]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~degenerate_art,156460|WD~degenerate_art,156460]]'
 different_from:
-- '[[_Standards/WikiData/WD~contemporary_art,186030]]'
-- '[[_Standards/WikiData/WD~art_of_the_modern_age,1570459]]'
+- '[[_Standards/WikiData/WD~contemporary_art,186030|WD~contemporary_art,186030]]'
+- '[[_Standards/WikiData/WD~art_of_the_modern_age,1570459|WD~art_of_the_modern_age,1570459]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~art_style,1792644]]'
-subclass_of: '[[_Standards/WikiData/WD~Western_art,31793078]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
+subclass_of: '[[_Standards/WikiData/WD~Western_art,31793078|WD~Western_art,31793078]]'
 IAB_code: 207
 Commons_gallery: Arte contemporáneo
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Modern%20and%20contemporary%20art%20banner%20Vincent%20van%20Gogh%20-%20Irises.jpg

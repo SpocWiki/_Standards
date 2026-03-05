@@ -81,29 +81,29 @@ aliases:
 - 기둥
 has_id_wikidata: Q4817
 has_part_s_:
-- '[[_Standards/WikiData/WD~capital,193893]]'
-- '[[_Standards/WikiData/WD~shaft,2745866]]'
-- '[[_Standards/WikiData/WD~column_base,56045633]]'
-has_characteristic: '[[_Standards/WikiData/WD~shape,207961]]'
+- '[[_Standards/WikiData/WD~capital,193893|WD~capital,193893]]'
+- '[[_Standards/WikiData/WD~shaft,2745866|WD~shaft,2745866]]'
+- '[[_Standards/WikiData/WD~column_base,56045633|WD~column_base,56045633]]'
+has_characteristic: '[[_Standards/WikiData/WD~shape,207961|WD~shape,207961]]'
 subclass_of:
-- '[[../../../../../../WikiData/WD~architectural_element,391414]]'
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[../../../../../../WikiData/WD~architectural_element,391414|WD~architectural_element,391414]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240|WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 part_of:
-- '[[_Standards/WikiData/WD~colonnade,657100]]'
-- '[[_Standards/WikiData/WD~building,41176]]'
+- '[[_Standards/WikiData/WD~colonnade,657100|WD~colonnade,657100]]'
+- '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
 different_from:
-- '[[_Standards/WikiData/WD~Column,31510646]]'
-- '[[_Standards/WikiData/WD~memorial_column,51845395]]'
-connects_with: '[[_Standards/WikiData/WD~soban,127362192]]'
+- '[[_Standards/WikiData/WD~Column,31510646|WD~Column,31510646]]'
+- '[[_Standards/WikiData/WD~memorial_column,51845395|WD~memorial_column,51845395]]'
+connects_with: '[[_Standards/WikiData/WD~soban,127362192|WD~soban,127362192]]'
 Nomenclature_for_Museum_Cataloging: 367
 Commons_category: Columns
 pronunciation_audio:

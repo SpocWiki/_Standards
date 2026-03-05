@@ -149,22 +149,22 @@ defining_formula:
 
   </merror></math>
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933]]'
-- '[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units___Part_4__Mechanics,73391977]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933|WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933]]'
+- '[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units___Part_4__Mechanics,73391977|WD~ISO_80000-4_2019_Quantities_and_units___Part_4__Mechanics,73391977]]'
 different_from:
-- '[[_Standards/WikiData/WD~Q12058061,12058061]]'
-- '[[_Standards/WikiData/WD~force,118847911]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-has_cause: '[[_Standards/WikiData/WD~fundamental_interaction,104934]]'
+- '[[_Standards/WikiData/WD~Q12058061,12058061|WD~Q12058061,12058061]]'
+- '[[_Standards/WikiData/WD~force,118847911|WD~force,118847911]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+has_cause: '[[_Standards/WikiData/WD~fundamental_interaction,104934|WD~fundamental_interaction,104934]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~orientation,2235286]]'
-- '[[_Standards/WikiData/WD~scalar_magnitude,28733284]]'
-- '[[_Standards/WikiData/WD~point,44946]]'
-has_effect: '[[_Standards/WikiData/WD~interaction,52948]]'
+- '[[_Standards/WikiData/WD~orientation,2235286|WD~orientation,2235286]]'
+- '[[_Standards/WikiData/WD~scalar_magnitude,28733284|WD~scalar_magnitude,28733284]]'
+- '[[_Standards/WikiData/WD~point,44946|WD~point,44946]]'
+has_effect: '[[_Standards/WikiData/WD~interaction,52948|WD~interaction,52948]]'
 IEV_number: 113-03-14
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Force%20examples.svg
 in_defining_formula:
@@ -254,11 +254,11 @@ ISQ_dimension: >-
     </semantics>
   </math>
 Krugosvet_article: nauka_i_tehnika/fizika/SILA.html
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-part_of: '[[_Standards/WikiData/WD~interaction,52948]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+part_of: '[[_Standards/WikiData/WD~interaction,52948|WD~interaction,52948]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q22828215,22828215]]'
-- '[[_Standards/WikiData/WD~Q118287384,118287384]]'
+- '[[_Standards/WikiData/WD~Q22828215,22828215|WD~Q22828215,22828215]]'
+- '[[_Standards/WikiData/WD~Q118287384,118287384|WD~Q118287384,118287384]]'
 quantity_symbol_LaTeX_: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\boldsymbol {F}}}">
     <semantics>
@@ -275,14 +275,14 @@ quantity_symbol_LaTeX_: >-
 quantity_symbol_string_:
 - F
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~kilogram_metre_per_square_second,106645249]]'
-- '[[_Standards/WikiData/WD~newton,12438]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~strength,12440832]]'
+- '[[_Standards/WikiData/WD~kilogram_metre_per_square_second,106645249|WD~kilogram_metre_per_square_second,106645249]]'
+- '[[_Standards/WikiData/WD~newton,12438|WD~newton,12438]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~strength,12440832|WD~strength,12440832]]'
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/forces
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~vector_quantity,2672914]]'
-- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~vector_quantity,2672914|WD~vector_quantity,2672914]]'
+- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763|WD~ISQ_derived_quantity,30337763]]'
 Wikidata_property: force
 dv_has_:
   name_:

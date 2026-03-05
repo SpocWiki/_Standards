@@ -42,45 +42,45 @@ aliases:
 - 우사인 볼트
 has_id_wikidata: Q1189
 sports_discipline_competed_in:
-- '[[_Standards/WikiData/WD~100_metres,164761]]'
-- '[[_Standards/WikiData/WD~200_metres,211155]]'
-- '[[_Standards/WikiData/WD~4_100_metres_relay,230061]]'
-- '[[_Standards/WikiData/WD~400_metres,334734]]'
-- '[[_Standards/WikiData/WD~300_metres,2402434]]'
-- '[[_Standards/WikiData/WD~150_metres,2807981]]'
+- '[[_Standards/WikiData/WD~100_metres,164761|WD~100_metres,164761]]'
+- '[[_Standards/WikiData/WD~200_metres,211155|WD~200_metres,211155]]'
+- '[[_Standards/WikiData/WD~4_100_metres_relay,230061|WD~4_100_metres_relay,230061]]'
+- '[[_Standards/WikiData/WD~400_metres,334734|WD~400_metres,334734]]'
+- '[[_Standards/WikiData/WD~300_metres,2402434|WD~300_metres,2402434]]'
+- '[[_Standards/WikiData/WD~150_metres,2807981|WD~150_metres,2807981]]'
 member_of_sports_team:
-- '[[_Standards/WikiData/WD~Central_Coast_Mariners_FC,762294]]'
-- '[[_Standards/WikiData/WD~Racers_Track_Club,16671994]]'
+- '[[_Standards/WikiData/WD~Central_Coast_Mariners_FC,762294|WD~Central_Coast_Mariners_FC,762294]]'
+- '[[_Standards/WikiData/WD~Racers_Track_Club,16671994|WD~Racers_Track_Club,16671994]]'
 record_held:
-- "[[_Standards/WikiData/WD~Men's_4_100_metres_relay_world_record_progression,1053804]]"
-- "[[_Standards/WikiData/WD~Men's_100_metres_world_record_progression,1066353]]"
-- "[[_Standards/WikiData/WD~men's_200_metres_world_record_progression,1187829]]"
-- '[[_Standards/WikiData/WD~Q3922803,3922803]]'
+- "[[_Standards/WikiData/WD~Men's_4_100_metres_relay_world_record_progression,1053804|WD~Men's_4_100_metres_relay_world_record_progression,1053804]]"
+- "[[_Standards/WikiData/WD~Men's_100_metres_world_record_progression,1066353|WD~Men's_100_metres_world_record_progression,1066353]]"
+- "[[_Standards/WikiData/WD~men's_200_metres_world_record_progression,1187829|WD~men's_200_metres_world_record_progression,1187829]]"
+- '[[_Standards/WikiData/WD~Q3922803,3922803|WD~Q3922803,3922803]]'
 award_received:
-- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
-- '[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]'
-- '[[_Standards/WikiData/WD~Bislett_medal,11961165]]'
-- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Distinction,14606194]]'
-- '[[_Standards/WikiData/WD~Member_of_the_Order_of_Jamaica,14606267]]'
-place_of_birth: '[[_Standards/WikiData/WD~Sherwood_Content,1278713]]'
-honorific_prefix: '[[_Standards/WikiData/WD~The_Honourable,2746176]]'
-trained_by: '[[_Standards/WikiData/WD~Glen_Mills,3108684]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-occupation: '[[_Standards/WikiData/WD~athletics_competitor,11513337]]'
-family_name: '[[_Standards/WikiData/WD~Bolt,16860206]]'
+- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233|WD~L'Équipe_Champion_of_Champions,1061233]]"
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301|WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
+- '[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696|WD~Best_International_Athlete_ESPY_Award,4896696]]'
+- '[[_Standards/WikiData/WD~Bislett_medal,11961165|WD~Bislett_medal,11961165]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Distinction,14606194|WD~Commander_of_the_Order_of_Distinction,14606194]]'
+- '[[_Standards/WikiData/WD~Member_of_the_Order_of_Jamaica,14606267|WD~Member_of_the_Order_of_Jamaica,14606267]]'
+place_of_birth: '[[_Standards/WikiData/WD~Sherwood_Content,1278713|WD~Sherwood_Content,1278713]]'
+honorific_prefix: '[[_Standards/WikiData/WD~The_Honourable,2746176|WD~The_Honourable,2746176]]'
+trained_by: '[[_Standards/WikiData/WD~Glen_Mills,3108684|WD~Glen_Mills,3108684]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+occupation: '[[_Standards/WikiData/WD~athletics_competitor,11513337|WD~athletics_competitor,11513337]]'
+family_name: '[[_Standards/WikiData/WD~Bolt,16860206|WD~Bolt,16860206]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-given_name: '[[_Standards/WikiData/WD~Usain,20725219]]'
-medical_condition: '[[_Standards/WikiData/WD~COVID_19,84263196]]'
-sport: '[[_Standards/WikiData/WD~athletics,542]]'
-holds_diplomatic_passport_of: '[[_Standards/WikiData/WD~Jamaica,766]]'
-country_for_sport: '[[_Standards/WikiData/WD~Jamaica,766]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Jamaica,766]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-residence: '[[_Standards/WikiData/WD~Kingston,34692]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+given_name: '[[_Standards/WikiData/WD~Usain,20725219|WD~Usain,20725219]]'
+medical_condition: '[[_Standards/WikiData/WD~COVID_19,84263196|WD~COVID_19,84263196]]'
+sport: '[[_Standards/WikiData/WD~athletics,542|WD~athletics,542]]'
+holds_diplomatic_passport_of: '[[_Standards/WikiData/WD~Jamaica,766|WD~Jamaica,766]]'
+country_for_sport: '[[_Standards/WikiData/WD~Jamaica,766|WD~Jamaica,766]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Jamaica,766|WD~Jamaica,766]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+residence: '[[_Standards/WikiData/WD~Kingston,34692|WD~Kingston,34692]]'
 mass: 95
 height: 196
 personal_best:

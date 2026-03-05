@@ -38,7 +38,7 @@ aliases:
 - 技術決定論
 - 기술 결정론
 has_id_wikidata: Q605434
-instance_of: '[[_Standards/WikiData/WD~determinism,131133]]'
+instance_of: '[[_Standards/WikiData/WD~determinism,131133|WD~determinism,131133]]'
 Commons_category: Technology
 dv_has_:
   name_:

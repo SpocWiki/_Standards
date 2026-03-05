@@ -55,17 +55,17 @@ aliases:
 - 부호
 has_id_wikidata: Q188889
 different_from:
-- '[[_Standards/WikiData/WD~program_code,124590]]'
-- '[[_Standards/WikiData/WD~cipher,4681865]]'
-- '[[_Standards/WikiData/WD~code,4994879]]'
-- '[[_Standards/WikiData/WD~Committee_for_the_Defence_of_Democracy,21705863]]'
+- '[[_Standards/WikiData/WD~program_code,124590|WD~program_code,124590]]'
+- '[[_Standards/WikiData/WD~cipher,4681865|WD~cipher,4681865]]'
+- '[[_Standards/WikiData/WD~code,4994879|WD~code,4994879]]'
+- '[[_Standards/WikiData/WD~Committee_for_the_Defence_of_Democracy,21705863|WD~Committee_for_the_Defence_of_Democracy,21705863]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~rule_based_system,1417149]]'
-- '[[_Standards/WikiData/WD~sign,3695082]]'
-has_use: '[[_Standards/WikiData/WD~data_conversion,1783551]]'
+- '[[_Standards/WikiData/WD~rule_based_system,1417149|WD~rule_based_system,1417149]]'
+- '[[_Standards/WikiData/WD~sign,3695082|WD~sign,3695082]]'
+has_use: '[[_Standards/WikiData/WD~data_conversion,1783551|WD~data_conversion,1783551]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 Wikidata_property: encoding
 GitHub_topic: code
 social_media_followers: 371118
@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Code]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~code,188889]] 
+#is_/same_as :: [[_Standards/WikiData/WD~code,188889|WD~code,188889]] 
 
 ## #has_/text_of_/abstract 
 

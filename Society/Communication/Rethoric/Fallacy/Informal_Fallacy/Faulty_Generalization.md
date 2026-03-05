@@ -26,17 +26,17 @@ aliases:
 - 不當概化
 has_id_wikidata: Q2890850
 subclass_of:
-- '[[_Standards/WikiData/WD~generalization,170084]]'
-- '[[_Standards/WikiData/WD~informal_fallacy,3312438]]'
-has_cause: '[[_Standards/WikiData/WD~law_of_large_numbers,207952]]'
+- '[[_Standards/WikiData/WD~generalization,170084|WD~generalization,170084]]'
+- '[[_Standards/WikiData/WD~informal_fallacy,3312438|WD~informal_fallacy,3312438]]'
+has_cause: '[[_Standards/WikiData/WD~law_of_large_numbers,207952|WD~law_of_large_numbers,207952]]'
 different_from:
-- '[[_Standards/WikiData/WD~hasty_generalization,332406]]'
-- '[[_Standards/WikiData/WD~a_dicto_simpliciter,4660909]]'
+- '[[_Standards/WikiData/WD~hasty_generalization,332406|WD~hasty_generalization,332406]]'
+- '[[_Standards/WikiData/WD~a_dicto_simpliciter,4660909|WD~a_dicto_simpliciter,4660909]]'
 has_effect:
-- '[[_Standards/WikiData/WD~cognitive_bias,1127759]]'
-- '[[_Standards/WikiData/WD~error,29485]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Inductive_fallacies,7478516]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199]]'
+- '[[_Standards/WikiData/WD~cognitive_bias,1127759|WD~cognitive_bias,1127759]]'
+- '[[_Standards/WikiData/WD~error,29485|WD~error,29485]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Inductive_fallacies,7478516|WD~Category_Inductive_fallacies,7478516]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199|WD~type_of_fallacy,130993199]]'
 dv_has_:
   name_:
     ar: تعميم خاطئ

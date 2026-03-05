@@ -90,17 +90,17 @@ aliases:
 - 군사 계급
 has_id_wikidata: Q56019
 different_from:
-- '[[_Standards/WikiData/WD~academic_rank,486983]]'
-- '[[_Standards/WikiData/WD~military_position,16631188]]'
-- '[[_Standards/WikiData/WD~police_rank,19476593]]'
+- '[[_Standards/WikiData/WD~academic_rank,486983|WD~academic_rank,486983]]'
+- '[[_Standards/WikiData/WD~military_position,16631188|WD~military_position,16631188]]'
+- '[[_Standards/WikiData/WD~police_rank,19476593|WD~police_rank,19476593]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-subclass_of: '[[_Standards/WikiData/WD~rank,4189293]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+subclass_of: '[[_Standards/WikiData/WD~rank,4189293|WD~rank,4189293]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Military_ranks,8085131]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_military_rank,25730872]]'
-instance_of: '[[_Standards/WikiData/WD~second_order_class,24017414]]'
+- '[[_Standards/WikiData/WD~Template_Military_ranks,8085131|WD~Template_Military_ranks,8085131]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_military_rank,25730872|WD~Template_Infobox_military_rank,25730872]]'
+instance_of: '[[_Standards/WikiData/WD~second_order_class,24017414|WD~second_order_class,24017414]]'
 Wikidata_property: military or police rank
 properties_for_this_type:
 - NATO code for grade
@@ -108,7 +108,7 @@ properties_for_this_type:
 - next higher rank
 - rank insignia
 - military branch
-facet_of: '[[_Standards/WikiData/WD~military,8473]]'
+facet_of: '[[_Standards/WikiData/WD~military,8473|WD~military,8473]]'
 Wolfram_Language_entity_code: Entity["Concept", "MilitaryRank::8bjx3"]
 Commons_category: Military ranks
 dv_has_:

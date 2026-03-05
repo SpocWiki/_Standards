@@ -61,15 +61,15 @@ aliases:
 - 힐베르트 공간
 has_id_wikidata: Q190056
 subclass_of:
-- '[[_Standards/WikiData/WD~Banach_space,194397]]'
-- '[[_Standards/WikiData/WD~inner_product_space,214159]]'
-- '[[_Standards/WikiData/WD~uniformly_convex_space,847535]]'
-- '[[_Standards/WikiData/WD~Hilbert_manifold,3554824]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Hilbert_space,124004879]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-named_after: '[[_Standards/WikiData/WD~David_Hilbert,41585]]'
+- '[[_Standards/WikiData/WD~Banach_space,194397|WD~Banach_space,194397]]'
+- '[[_Standards/WikiData/WD~inner_product_space,214159|WD~inner_product_space,214159]]'
+- '[[_Standards/WikiData/WD~uniformly_convex_space,847535|WD~uniformly_convex_space,847535]]'
+- '[[_Standards/WikiData/WD~Hilbert_manifold,3554824|WD~Hilbert_manifold,3554824]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Hilbert_space,124004879|WD~Template_Hilbert_space,124004879]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+named_after: '[[_Standards/WikiData/WD~David_Hilbert,41585|WD~David_Hilbert,41585]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Harmonic%20partials%20on%20strings.svg
 Stack_Exchange_tag:
 - https://math.stackexchange.com/tags/hilbert-spaces

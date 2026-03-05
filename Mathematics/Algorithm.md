@@ -98,37 +98,37 @@ MeSH_tree_code:
 Krugosvet_article: nauka_i_tehnika/matematika/ALGORITM.html
 Library_of_Congress_Classification: QA9.58
 studied_by:
-- '[[_Standards/WikiData/WD~computational_complexity_theory,205084]]'
-- '[[_Standards/WikiData/WD~analysis_of_algorithms,333464]]'
-- '[[_Standards/WikiData/WD~theory_of_computation,844718]]'
-- '[[_Standards/WikiData/WD~information_science,16387]]'
+- '[[_Standards/WikiData/WD~computational_complexity_theory,205084|WD~computational_complexity_theory,205084]]'
+- '[[_Standards/WikiData/WD~analysis_of_algorithms,333464|WD~analysis_of_algorithms,333464]]'
+- '[[_Standards/WikiData/WD~theory_of_computation,844718|WD~theory_of_computation,844718]]'
+- '[[_Standards/WikiData/WD~information_science,16387|WD~information_science,16387]]'
 subclass_of:
-- '[[../WikiData/WD~work,386724]]'
-- '[[_Standards/WikiData/WD~procedure,20920559]]'
+- '[[../WikiData/WD~work,386724|WD~work,386724]]'
+- '[[_Standards/WikiData/WD~procedure,20920559|WD~procedure,20920559]]'
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251|WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~algorithmic_efficiency,1296251]]'
-- '[[_Standards/WikiData/WD~computational_complexity,5157286]]'
-- '[[_Standards/WikiData/WD~algorithmic_stability,7595718]]'
+- '[[_Standards/WikiData/WD~algorithmic_efficiency,1296251|WD~algorithmic_efficiency,1296251]]'
+- '[[_Standards/WikiData/WD~computational_complexity,5157286|WD~computational_complexity,5157286]]'
+- '[[_Standards/WikiData/WD~algorithmic_stability,7595718|WD~algorithmic_stability,7595718]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_algorithm,5910871]]'
-- '[[_Standards/WikiData/WD~Q22821733,22821733]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_algorithm,5910871|WD~Template_Infobox_algorithm,5910871]]'
+- '[[_Standards/WikiData/WD~Q22821733,22821733|WD~Q22821733,22821733]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Computer_Science,6526225]]'
-- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-fabrication_method: '[[_Standards/WikiData/WD~algorithmization,12077575]]'
+- '[[_Standards/WikiData/WD~WikiProject_Computer_Science,6526225|WD~WikiProject_Computer_Science,6526225]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+fabrication_method: '[[_Standards/WikiData/WD~algorithmization,12077575|WD~algorithmization,12077575]]'
 part_of:
-- '[[_Standards/WikiData/WD~algorithmics,13636890]]'
-- '[[_Standards/WikiData/WD~mathematics,395]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
-different_from: '[[_Standards/WikiData/WD~Algorithm,22349237]]'
+- '[[_Standards/WikiData/WD~algorithmics,13636890|WD~algorithmics,13636890]]'
+- '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
+different_from: '[[_Standards/WikiData/WD~Algorithm,22349237|WD~Algorithm,22349237]]'
 Stack_Exchange_tag:
 - https://tex.stackexchange.com/tags/algorithms
 - https://cs.stackexchange.com/tags/algorithms
@@ -141,7 +141,7 @@ properties_for_this_type:
 - average time complexity
 - average space complexity
 - best-case space complexity
-named_after: '[[_Standards/WikiData/WD~Al_Khwarizmi,9038]]'
+named_after: '[[_Standards/WikiData/WD~Al_Khwarizmi,9038|WD~Al_Khwarizmi,9038]]'
 OmegaWiki_Defined_Meaning: 359598
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Flowchart%20procedural%20programming.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Sorting%20quicksort%20anim.gif
@@ -316,7 +316,7 @@ dv_has_:
 
 # [[Algorithm]] 
 
-#is_/same_as :: [[../WikiData/WD~Algorithm,8366]] 
+#is_/same_as :: [[../WikiData/WD~Algorithm,8366|WD~Algorithm,8366]] 
 
 #is_/similar_to :: [[../../Knowledge/Process|Process]]  
 

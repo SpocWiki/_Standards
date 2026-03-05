@@ -36,26 +36,26 @@ aliases:
 - 帝汶
 - 티모르섬
 has_id_wikidata: Q83067
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Timor_Sea,131418]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Sunda_Islands,154190]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Timor_Sea,131418|WD~Timor_Sea,131418]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Sunda_Islands,154190|WD~Sunda_Islands,154190]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-highest_point: '[[_Standards/WikiData/WD~Tatamailau,1539961]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+highest_point: '[[_Standards/WikiData/WD~Tatamailau,1539961|WD~Tatamailau,1539961]]'
 part_of:
-- '[[_Standards/WikiData/WD~Timor_archipelago,15060436]]'
-- '[[_Standards/WikiData/WD~Lesser_Sunda_Islands,3803]]'
+- '[[_Standards/WikiData/WD~Timor_archipelago,15060436|WD~Timor_archipelago,15060436]]'
+- '[[_Standards/WikiData/WD~Lesser_Sunda_Islands,3803|WD~Lesser_Sunda_Islands,3803]]'
 coordinate_location:
 - Point(125.083333333 -9.083333333)
 - Point(124.354636111 -9.712225)
 country:
-- '[[_Standards/WikiData/WD~Timor_Leste,574]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
-instance_of: '[[_Standards/WikiData/WD~island,23442]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~Timor_Leste,574|WD~Timor_Leste,574]]'
+- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
+instance_of: '[[_Standards/WikiData/WD~island,23442|WD~island,23442]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
 width: 102
 length: 476
 elevation_above_sea_level: 2963

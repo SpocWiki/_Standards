@@ -39,27 +39,27 @@ aliases:
 - "\U000109A0\U000109B4\U000109AB\U000109A2‎"
 has_id_wikidata: Q133343
 spouse:
-- '[[_Standards/WikiData/WD~Horus,84122]]'
-- '[[_Standards/WikiData/WD~Ra,1252904]]'
-child: '[[_Standards/WikiData/WD~Bastet,129106]]'
+- '[[_Standards/WikiData/WD~Horus,84122|WD~Horus,84122]]'
+- '[[_Standards/WikiData/WD~Ra,1252904|WD~Ra,1252904]]'
+child: '[[_Standards/WikiData/WD~Bastet,129106|WD~Bastet,129106]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Ancient_Egyptian_deity,146083]]'
-- '[[_Standards/WikiData/WD~goddess,205985]]'
-- '[[_Standards/WikiData/WD~fertility_deity,1470705]]'
-- '[[_Standards/WikiData/WD~horned_deity,5904253]]'
-part_of: '[[_Standards/WikiData/WD~Egyptian_mythology,205740]]'
-worshipped_by: '[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]'
-different_from: '[[_Standards/WikiData/WD~Hat_Hor,577451]]'
+- '[[_Standards/WikiData/WD~Ancient_Egyptian_deity,146083|WD~Ancient_Egyptian_deity,146083]]'
+- '[[_Standards/WikiData/WD~goddess,205985|WD~goddess,205985]]'
+- '[[_Standards/WikiData/WD~fertility_deity,1470705|WD~fertility_deity,1470705]]'
+- '[[_Standards/WikiData/WD~horned_deity,5904253|WD~horned_deity,5904253]]'
+part_of: '[[_Standards/WikiData/WD~Egyptian_mythology,205740|WD~Egyptian_mythology,205740]]'
+worshipped_by: '[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131|WD~religion_of_ancient_Egypt,447131]]'
+different_from: '[[_Standards/WikiData/WD~Hat_Hor,577451|WD~Hat_Hor,577451]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-father: '[[_Standards/WikiData/WD~Ra,1252904]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Ba_alat_Gebal,2223705]]'
-sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+father: '[[_Standards/WikiData/WD~Ra,1252904|WD~Ra,1252904]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Ba_alat_Gebal,2223705|WD~Ba_alat_Gebal,2223705]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072|WD~female,6581072]]'
 Commons_category: Hathor
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hathor.svg
 ISNI: 467615130

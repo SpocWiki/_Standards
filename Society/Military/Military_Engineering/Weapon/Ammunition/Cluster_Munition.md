@@ -62,10 +62,10 @@ aliases:
 - 集束炸彈
 - 집속탄
 has_id_wikidata: Q184158
-subclass_of: '[[_Standards/WikiData/WD~bomb,127197]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20309956,20309956]]'
-has_characteristic: '[[_Standards/WikiData/WD~cluster,21157127]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+subclass_of: '[[_Standards/WikiData/WD~bomb,127197|WD~bomb,127197]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20309956,20309956|WD~Q20309956,20309956]]'
+has_characteristic: '[[_Standards/WikiData/WD~cluster,21157127|WD~cluster,21157127]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422|WD~weapon_functional_class,124078422]]'
 OmegaWiki_Defined_Meaning: 962669
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Demonstration%20cluster%20bomb.jpg
 U_S_National_Archives_Identifier: 10676227

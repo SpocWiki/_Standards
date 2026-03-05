@@ -27,9 +27,9 @@ tags:
 title: is_a_remix_album Class
 type: Type
 dv_has_:
-  parent_class: "[[../MusicAlbumProductionType]]"
+  parent_class: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
 dv_is_:
-  enum_of: "[[../MusicAlbumProductionType]]"
+  enum_of: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album|Remix_Album]]"
     - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.public|Remix_Album.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.personal|Remix_Album.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.secret|Remix_Album.secret]]"
     - "[[Remix_Album]]"
-dv_has_parent_class: "[[../MusicAlbumProductionType]]"
-dv_is_enum_of: "[[../MusicAlbumProductionType]]"
+dv_has_parent_class: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
+dv_is_enum_of: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
 dv_is_same_as:
   - "[[Remix_Album]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.public|Remix_Album.public]]"

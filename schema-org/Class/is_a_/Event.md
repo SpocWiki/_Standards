@@ -114,12 +114,12 @@ tags:
 - schema-org/Class
 title: is_an_event Class
 type: Type
-facet_of: '[[_Standards/WikiData/WD~planning,309100]]'
+facet_of: '[[_Standards/WikiData/WD~planning,309100|WD~planning,309100]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~occurrence,1190554]]'
-- '[[_Standards/WikiData/WD~service,7406919]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Events,60004055]]'
-has_characteristic: '[[_Standards/WikiData/WD~form_of_event,108586636]]'
+- '[[_Standards/WikiData/WD~occurrence,1190554|WD~occurrence,1190554]]'
+- '[[_Standards/WikiData/WD~service,7406919|WD~service,7406919]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Events,60004055|WD~WikiProject_Events,60004055]]'
+has_characteristic: '[[_Standards/WikiData/WD~form_of_event,108586636|WD~form_of_event,108586636]]'
 properties_for_this_type:
 - location
 - officially opened by
@@ -150,7 +150,7 @@ Commons_category: Events
 Uniform_Type_Identifier: public.calendar-event
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~event,1656682]]'
+  - '[[_Standards/WikiData/WD~event,1656682|WD~event,1656682]]'
   - '[[/_Standards/schema-org/Class/is_a_/Event|Event]]'
   - '[[/_public/schema-org/Class/is_a_/Event.public|Event.public]]'
   - '[[/_internal/schema-org/Class/is_a_/Event.internal|Event.internal]]'
@@ -427,7 +427,7 @@ dv_has_properties:
 - '[[../../Relation/has/has_work/has_work_featured|has_work_featured]]'
 - '[[../../Relation/has/has_work/has_work_performed|has_work_performed]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~event,1656682]]'
+- '[[_Standards/WikiData/WD~event,1656682|WD~event,1656682]]'
 - '[[Event]]'
 - '[[/_public/schema-org/Class/is_a_/Event.public|Event.public]]'
 - '[[/_internal/schema-org/Class/is_a_/Event.internal|Event.internal]]'
@@ -453,7 +453,7 @@ has_child_class = `=this.dv_has_child_class`
 
 has_properties = `=this.dv_has_properties` 
 
-#is_/same_as  :: [[_Standards/WikiData/WD~event,1656682]] 
+#is_/same_as  :: [[_Standards/WikiData/WD~event,1656682|WD~event,1656682]] 
 is_similar_to = `=this.dv_is_similar_to` 
 ## #has_/text_of_/abstract 
 

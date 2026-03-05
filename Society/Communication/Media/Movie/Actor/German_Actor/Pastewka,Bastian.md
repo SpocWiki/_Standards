@@ -17,7 +17,7 @@ aliases:
 > Hörspielsprecher, Komiker, Drehbuchautor, Synchronsprecher und Hörbuchinterpret. 
 > 
 > Einem breiten Publikum wurde er Ende der 1990er Jahre durch die Sketchsendung Die [[Wochenshow]] 
-> sowie im neuen Jahrtausend durch die [[../../Movie-Genre/Comedy/Sitcom]] [[Pastewka]] bekannt.
+> sowie im neuen Jahrtausend durch die [[../../Movie-Genre/Comedy/Sitcom|Sitcom]] [[Pastewka]] bekannt.
 >
 > Eine repräsentative Umfrage des Forsa-Instituts ermittelte ihn 1999 als beliebtesten Komiker Deutschlands. 
 > Pastewka wurde vielfach ausgezeichnet, so 

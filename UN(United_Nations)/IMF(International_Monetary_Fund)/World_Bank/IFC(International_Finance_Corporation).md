@@ -64,16 +64,16 @@ aliases:
 - 國際金融公司
 - 국제 금융 공사
 has_id_wikidata: Q656801
-official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
-parent_organization: '[[_Standards/WikiData/WD~World_Bank_Group,320863]]'
-instance_of: '[[_Standards/WikiData/WD~international_financial_institution,1345691]]'
-chief_executive_officer: '[[_Standards/WikiData/WD~Makhtar_Diop,3280791]]'
-industry: '[[_Standards/WikiData/WD~private_sector_development,7246245]]'
-board_member: '[[_Standards/WikiData/WD~Robert_L._Garner,64013328]]'
-foundational_text: '[[_Standards/WikiData/WD~Articles_of_Agreement_of_the_International_Finance_Corporation,110559113]]'
-legal_form: '[[_Standards/WikiData/WD~Q130264125,130264125]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773|WD~World_Intellectual_Property_Organization,177773]]'
+parent_organization: '[[_Standards/WikiData/WD~World_Bank_Group,320863|WD~World_Bank_Group,320863]]'
+instance_of: '[[_Standards/WikiData/WD~international_financial_institution,1345691|WD~international_financial_institution,1345691]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Makhtar_Diop,3280791|WD~Makhtar_Diop,3280791]]'
+industry: '[[_Standards/WikiData/WD~private_sector_development,7246245|WD~private_sector_development,7246245]]'
+board_member: '[[_Standards/WikiData/WD~Robert_L._Garner,64013328|WD~Robert_L._Garner,64013328]]'
+foundational_text: '[[_Standards/WikiData/WD~Articles_of_Agreement_of_the_International_Finance_Corporation,110559113|WD~Articles_of_Agreement_of_the_International_Finance_Corporation,110559113]]'
+legal_form: '[[_Standards/WikiData/WD~Q130264125,130264125|WD~Q130264125,130264125]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61|WD~Washington,_D.C.,61]]'
 social_media_followers:
 - 38000
 - 252742

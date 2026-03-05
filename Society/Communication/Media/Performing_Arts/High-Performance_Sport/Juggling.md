@@ -50,16 +50,16 @@ aliases:
 - 저글링
 has_id_wikidata: Q194326
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~circus_skill,4990963]]'
-- '[[_Standards/WikiData/WD~object_manipulation,7075058]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-practiced_by: '[[_Standards/WikiData/WD~juggler,10540773]]'
+- '[[_Standards/WikiData/WD~circus_skill,4990963|WD~circus_skill,4990963]]'
+- '[[_Standards/WikiData/WD~object_manipulation,7075058|WD~object_manipulation,7075058]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+practiced_by: '[[_Standards/WikiData/WD~juggler,10540773|WD~juggler,10540773]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
 Commons_gallery: Juggling
 Commons_category: Juggling
 image:

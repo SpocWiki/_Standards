@@ -42,7 +42,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_occupation_location.personal|has_occupation_location.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_occupation_location.secret|has_occupation_location.secret]]"
     - "[[has_occupation_location]]"
-dv_has_domain: "[[../../../Class/is_a_/Intangible/Occupation]]"
+dv_has_domain: "[[../../../Class/is_a_/Intangible/Occupation|Occupation]]"
 dv_has_name: has_occupation_location
 dv_has_range: "[[../../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]"
 dv_is_same_as:

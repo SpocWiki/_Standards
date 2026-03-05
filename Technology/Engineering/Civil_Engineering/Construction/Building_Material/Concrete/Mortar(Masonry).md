@@ -56,16 +56,16 @@ aliases:
 - 모르타르
 has_id_wikidata: Q189566
 subclass_of:
-- '[[_Standards/WikiData/WD~adhesive,131790]]'
-- '[[_Standards/WikiData/WD~binder,863583]]'
-- '[[_Standards/WikiData/WD~binding_material,12106347]]'
+- '[[_Standards/WikiData/WD~adhesive,131790|WD~adhesive,131790]]'
+- '[[_Standards/WikiData/WD~binder,863583|WD~binder,863583]]'
+- '[[_Standards/WikiData/WD~binding_material,12106347|WD~binding_material,12106347]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 different_from:
-- '[[_Standards/WikiData/WD~Zaprawa,9387024]]'
+- '[[_Standards/WikiData/WD~Zaprawa,9387024|WD~Zaprawa,9387024]]'
 Nomenclature_for_Museum_Cataloging: 65
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Three%20old%20bricks%20held%20together%20with%20mortar.jpg

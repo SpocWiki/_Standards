@@ -74,20 +74,20 @@ aliases:
 - 弗等
 - 부등식
 has_id_wikidata: Q28113351
-subclass_of: '[[_Standards/WikiData/WD~binary_relation,130901]]'
-different_from: '[[_Standards/WikiData/WD~inequation,165309]]'
-opposite_of: '[[_Standards/WikiData/WD~equality,842346]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~inequality,3153995]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-notation: '[[_Standards/WikiData/WD~inequality_sign,53045737]]'
-has_part_s_: '[[_Standards/WikiData/WD~not_equal_to,110013332]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+subclass_of: '[[_Standards/WikiData/WD~binary_relation,130901|WD~binary_relation,130901]]'
+different_from: '[[_Standards/WikiData/WD~inequation,165309|WD~inequation,165309]]'
+opposite_of: '[[_Standards/WikiData/WD~equality,842346|WD~equality,842346]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~inequality,3153995|WD~inequality,3153995]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
+notation: '[[_Standards/WikiData/WD~inequality_sign,53045737|WD~inequality_sign,53045737]]'
+has_part_s_: '[[_Standards/WikiData/WD~not_equal_to,110013332|WD~not_equal_to,110013332]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Commons_category: Inequalities (mathematics)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Linear%20Programming%20Feasible%20Region.svg
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Inequality,28113351]]'
+  - '[[../../../WikiData/WD~Inequality,28113351|WD~Inequality,28113351]]'
   - '[[/_Standards/schema-org/Relation/is_same_as/Inequality|Inequality]]'
   - '[[/_public/schema-org/Relation/is_same_as/Inequality.public|Inequality.public]]'
   - '[[/_internal/schema-org/Relation/is_same_as/Inequality.internal|Inequality.internal]]'
@@ -97,7 +97,7 @@ dv_is_:
   - '[[/_secret/schema-org/Relation/is_same_as/Inequality.secret|Inequality.secret]]'
   - '[[Inequality]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Inequality,28113351]]'
+- '[[../../../WikiData/WD~Inequality,28113351|WD~Inequality,28113351]]'
 - '[[Inequality]]'
 - '[[/_public/schema-org/Relation/is_same_as/Inequality.public|Inequality.public]]'
 - '[[/_internal/schema-org/Relation/is_same_as/Inequality.internal|Inequality.internal]]'

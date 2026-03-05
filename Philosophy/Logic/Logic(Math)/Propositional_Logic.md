@@ -61,17 +61,17 @@ aliases:
 - 命题逻辑
 - 명제 논리
 has_id_wikidata: Q200694
-has_characteristic: '[[_Standards/WikiData/WD~validity,1047000]]'
+has_characteristic: '[[_Standards/WikiData/WD~validity,1047000|WD~validity,1047000]]'
 part_of:
-- '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
-- '[[_Standards/WikiData/WD~logic,8078]]'
-is_the_study_of: '[[_Standards/WikiData/WD~propositional_formula,1372900]]'
-different_from: '[[_Standards/WikiData/WD~zeroth_order_logic,8069651]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~propositional_logic,16705128]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~propositional_logic,16705128]]'
-subclass_of: '[[_Standards/WikiData/WD~logical_system,17488292]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~mathematical_logic,1166618|WD~mathematical_logic,1166618]]'
+- '[[_Standards/WikiData/WD~logic,8078|WD~logic,8078]]'
+is_the_study_of: '[[_Standards/WikiData/WD~propositional_formula,1372900|WD~propositional_formula,1372900]]'
+different_from: '[[_Standards/WikiData/WD~zeroth_order_logic,8069651|WD~zeroth_order_logic,8069651]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~propositional_logic,16705128|WD~propositional_logic,16705128]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~propositional_logic,16705128|WD~propositional_logic,16705128]]'
+subclass_of: '[[_Standards/WikiData/WD~logical_system,17488292|WD~logical_system,17488292]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 OmegaWiki_Defined_Meaning: 967134
 Stack_Exchange_tag: https://philosophy.stackexchange.com/tags/propositional-logic
 Commons_category: Propositional logic

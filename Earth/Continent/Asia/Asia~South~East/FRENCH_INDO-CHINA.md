@@ -10,7 +10,7 @@ tags:
 type: Country
 dv_has_name_en: FRENCH INDO-CHINA
 dv_has_name_de: Franz. Indochina
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: "[[../../Asia|Asia]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA|FRENCH_INDO-CHINA]]"

@@ -47,25 +47,25 @@ aliases:
 - 파르미자노 레자노
 has_id_wikidata: Q155922
 subclass_of:
-- '[[_Standards/WikiData/WD~dairy_product,185217]]'
-- '[[_Standards/WikiData/WD~Grana_Cheese,1089663]]'
+- '[[_Standards/WikiData/WD~dairy_product,185217|WD~dairy_product,185217]]'
+- '[[_Standards/WikiData/WD~Grana_Cheese,1089663|WD~Grana_Cheese,1089663]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_cheese,3546121]]'
-- '[[_Standards/WikiData/WD~cheese,10943]]'
+- '[[_Standards/WikiData/WD~type_of_cheese,3546121|WD~type_of_cheese,3546121]]'
+- '[[_Standards/WikiData/WD~cheese,10943|WD~cheese,10943]]'
 made_from_material:
-- "[[_Standards/WikiData/WD~cow's_milk,10988133]]"
-- '[[_Standards/WikiData/WD~calf_rennet,42882139]]'
-product_certification: '[[_Standards/WikiData/WD~Protected_designation_of_origin,13439060]]'
+- "[[_Standards/WikiData/WD~cow's_milk,10988133|WD~cow's_milk,10988133]]"
+- '[[_Standards/WikiData/WD~calf_rennet,42882139|WD~calf_rennet,42882139]]'
+product_certification: '[[_Standards/WikiData/WD~Protected_designation_of_origin,13439060|WD~Protected_designation_of_origin,13439060]]'
 cuisine:
-- '[[_Standards/WikiData/WD~cuisine_of_the_province_of_Modena,16268311]]'
-- '[[_Standards/WikiData/WD~cuisine_of_Emilia_Romagna,107242120]]'
+- '[[_Standards/WikiData/WD~cuisine_of_the_province_of_Modena,16268311|WD~cuisine_of_the_province_of_Modena,16268311]]'
+- '[[_Standards/WikiData/WD~cuisine_of_Emilia_Romagna,107242120|WD~cuisine_of_Emilia_Romagna,107242120]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 location_of_creation:
-- '[[_Standards/WikiData/WD~Emilia_Romagna,1263]]'
-- '[[_Standards/WikiData/WD~Province_of_Parma,16228]]'
-country_of_origin: '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Emilia_Romagna,1263|WD~Emilia_Romagna,1263]]'
+- '[[_Standards/WikiData/WD~Province_of_Parma,16228|WD~Province_of_Parma,16228]]'
+country_of_origin: '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
 food_energy: 392
 USDA_NDB_number:
 - 01204

@@ -62,13 +62,13 @@ aliases:
 - 船舶
 - 워터크래프트
 has_id_wikidata: Q1229765
-has_use: '[[_Standards/WikiData/WD~water_transport,155930]]'
+has_use: '[[_Standards/WikiData/WD~water_transport,155930|WD~water_transport,155930]]'
 instance_of:
-- '[[_Standards/WikiData/WD~mode_of_transport,334166]]'
-- '[[_Standards/WikiData/WD~watercraft_type,16335899]]'
-- '[[_Standards/WikiData/WD~first_order_class,104086571]]'
-subclass_of: '[[_Standards/WikiData/WD~vessel,16391167]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~mode_of_transport,334166|WD~mode_of_transport,334166]]'
+- '[[_Standards/WikiData/WD~watercraft_type,16335899|WD~watercraft_type,16335899]]'
+- '[[_Standards/WikiData/WD~first_order_class,104086571|WD~first_order_class,104086571]]'
+subclass_of: '[[_Standards/WikiData/WD~vessel,16391167|WD~vessel,16391167]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 Nomenclature_for_Museum_Cataloging: 12599
 OmegaWiki_Defined_Meaning: 1152454
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dinghy.jpg

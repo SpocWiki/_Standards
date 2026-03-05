@@ -3,7 +3,7 @@
 
 ## #has_/text_of_/abstract 
 
-> **The Man with the Golden Gun** is the twelfth and final novel in [[../Fleming,Ian]]'s James Bond series 
+> **The Man with the Golden Gun** is the twelfth and final novel in [[../Fleming,Ian|Fleming,Ian]]'s James Bond series 
 > and the thirteenth Bond book overall. 
 > 
 > It was first published by Jonathan Cape in the United Kingdom on 1 April 1965, eight months after the author's death. 
@@ -31,7 +31,7 @@
 > in 1966 a daily comic strip adaptation was also published in the Daily Express. 
 > 
 > In 1974 the book was loosely adapted as the ninth film in the Eon Productions James Bond series, 
-> with Roger Moore playing Bond and Fleming's cousin, [[../../../Actor/British_Actor/Lee,Christopher]], as Scaramanga.
+> with Roger Moore playing Bond and Fleming's cousin, [[../../../Actor/British_Actor/Lee,Christopher|Lee,Christopher]], as Scaramanga.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Man%20with%20the%20Golden%20Gun%20(novel)) 
 

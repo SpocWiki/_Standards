@@ -63,20 +63,20 @@ aliases:
 - 계승
 has_id_wikidata: Q120976
 studied_by:
-- '[[_Standards/WikiData/WD~combinatorics,76592]]'
-- '[[_Standards/WikiData/WD~number_theory,12479]]'
-different_from: '[[_Standards/WikiData/WD~gamma_function,190573]]'
+- '[[_Standards/WikiData/WD~combinatorics,76592|WD~combinatorics,76592]]'
+- '[[_Standards/WikiData/WD~number_theory,12479|WD~number_theory,12479]]'
+different_from: '[[_Standards/WikiData/WD~gamma_function,190573|WD~gamma_function,190573]]'
 instance_of:
-- '[[_Standards/WikiData/WD~integer_sequence,2297602]]'
-- '[[_Standards/WikiData/WD~integer_valued_function,19856468]]'
+- '[[_Standards/WikiData/WD~integer_sequence,2297602|WD~integer_sequence,2297602]]'
+- '[[_Standards/WikiData/WD~integer_valued_function,19856468|WD~integer_valued_function,19856468]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
-- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-codomain: '[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634]]'
-definition_domain: '[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634]]'
-input_set: '[[_Standards/WikiData/WD~set_of_integers,47007735]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251|WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
+- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+codomain: '[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634|WD~set_of_non_negative_integers,28777634]]'
+definition_domain: '[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634|WD~set_of_non_negative_integers,28777634]]'
+input_set: '[[_Standards/WikiData/WD~set_of_integers,47007735|WD~set_of_integers,47007735]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi><mo stretchy="false">!</mo></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x220F;</mo></mstyle></mrow></math>

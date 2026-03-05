@@ -59,21 +59,21 @@ aliases:
 - 선반
 has_id_wikidata: Q187833
 has_part_s_:
-- '[[_Standards/WikiData/WD~electric_motor,72313]]'
-- '[[_Standards/WikiData/WD~spindle,2416476]]'
-- '[[_Standards/WikiData/WD~headstock,12806166]]'
-- '[[_Standards/WikiData/WD~chuck,19818]]'
-has_effect: '[[_Standards/WikiData/WD~rotation,107617]]'
+- '[[_Standards/WikiData/WD~electric_motor,72313|WD~electric_motor,72313]]'
+- '[[_Standards/WikiData/WD~spindle,2416476|WD~spindle,2416476]]'
+- '[[_Standards/WikiData/WD~headstock,12806166|WD~headstock,12806166]]'
+- '[[_Standards/WikiData/WD~chuck,19818|WD~chuck,19818]]'
+has_effect: '[[_Standards/WikiData/WD~rotation,107617|WD~rotation,107617]]'
 has_use:
-- '[[_Standards/WikiData/WD~woodturning,278156]]'
-- '[[_Standards/WikiData/WD~metalworking,953045]]'
-- '[[_Standards/WikiData/WD~metal_spinning,1261779]]'
+- '[[_Standards/WikiData/WD~woodturning,278156|WD~woodturning,278156]]'
+- '[[_Standards/WikiData/WD~metalworking,953045|WD~metalworking,953045]]'
+- '[[_Standards/WikiData/WD~metal_spinning,1261779|WD~metal_spinning,1261779]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-connects_with: '[[_Standards/WikiData/WD~workpiece,2560552]]'
-different_from: '[[_Standards/WikiData/WD~Q110472794,110472794]]'
-subclass_of: '[[_Standards/WikiData/WD~machine_tool,19768]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+connects_with: '[[_Standards/WikiData/WD~workpiece,2560552|WD~workpiece,2560552]]'
+different_from: '[[_Standards/WikiData/WD~Q110472794,110472794|WD~Q110472794,110472794]]'
+subclass_of: '[[_Standards/WikiData/WD~machine_tool,19768|WD~machine_tool,19768]]'
 Nomenclature_for_Museum_Cataloging: 5384
 OmegaWiki_Defined_Meaning: 502545
 U_S_National_Archives_Identifier: 10666351

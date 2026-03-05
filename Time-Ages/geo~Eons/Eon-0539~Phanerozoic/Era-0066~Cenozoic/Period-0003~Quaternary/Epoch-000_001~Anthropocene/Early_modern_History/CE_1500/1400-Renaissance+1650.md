@@ -137,24 +137,24 @@ has_id_wikidata: Q4692
 start_time: 1400-01-01T00:00:00Z
 end_time: 1650-01-01T00:00:00Z
 described_by_source:
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
-has_part_s_: '[[_Standards/WikiData/WD~Renaissance_art,1133779]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Renaissance,7112776]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855|WD~cultural_movement,2198855]]'
+has_part_s_: '[[_Standards/WikiData/WD~Renaissance_art,1133779|WD~Renaissance_art,1133779]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Renaissance,7112776|WD~outline_of_the_Renaissance,7112776]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10721172,10721172]]'
-- '[[_Standards/WikiData/WD~Template_Renaissance,10999203]]'
-different_from: '[[_Standards/WikiData/WD~Renaissance,13400700]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Renaissance,13830551]]'
-studied_by: '[[_Standards/WikiData/WD~Renaissance_studies,25111456]]'
-locations: '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Q10721172,10721172|WD~Q10721172,10721172]]'
+- '[[_Standards/WikiData/WD~Template_Renaissance,10999203|WD~Template_Renaissance,10999203]]'
+different_from: '[[_Standards/WikiData/WD~Renaissance,13400700|WD~Renaissance,13400700]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Renaissance,13830551|WD~Portal_Renaissance,13830551]]'
+studied_by: '[[_Standards/WikiData/WD~Renaissance_studies,25111456|WD~Renaissance_studies,25111456]]'
+locations: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 subject_named_as: Renaissance
 Commons_gallery: Renaissance
 Commons_category: Renaissance

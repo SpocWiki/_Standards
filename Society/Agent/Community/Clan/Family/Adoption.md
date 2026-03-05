@@ -73,27 +73,27 @@ aliases:
 - 養子縁組
 - 양자
 has_id_wikidata: Q180472
-different_from: '[[_Standards/WikiData/WD~Adoption,366262]]'
+different_from: '[[_Standards/WikiData/WD~Adoption,366262|WD~Adoption,366262]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-- '[[_Standards/WikiData/WD~Lexicon_of_Egyptology_(1._Edition),117232527]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240|WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~Lexicon_of_Egyptology_(1._Edition),117232527|WD~Lexicon_of_Egyptology_(1._Edition),117232527]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 instance_of:
-- '[[_Standards/WikiData/WD~legal_fiction,931483]]'
-- '[[_Standards/WikiData/WD~parent_child_relationship,1334052]]'
-- '[[_Standards/WikiData/WD~legal_kinship,1767348]]'
-subclass_of: '[[_Standards/WikiData/WD~procedure,20920559]]'
-has_part_s_: '[[_Standards/WikiData/WD~faʼaʼamu,26701091]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_adoption,28130112]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~starting_a_family,130746549]]'
+- '[[_Standards/WikiData/WD~legal_fiction,931483|WD~legal_fiction,931483]]'
+- '[[_Standards/WikiData/WD~parent_child_relationship,1334052|WD~parent_child_relationship,1334052]]'
+- '[[_Standards/WikiData/WD~legal_kinship,1767348|WD~legal_kinship,1767348]]'
+subclass_of: '[[_Standards/WikiData/WD~procedure,20920559|WD~procedure,20920559]]'
+has_part_s_: '[[_Standards/WikiData/WD~faʼaʼamu,26701091|WD~faʼaʼamu,26701091]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_adoption,28130112|WD~outline_of_adoption,28130112]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~starting_a_family,130746549|WD~starting_a_family,130746549]]'
 IAB_code: 193
 OmegaWiki_Defined_Meaning: 374556
 IMDb_keyword: adoption
@@ -205,7 +205,7 @@ dv_has_:
 
 # [[Adoption]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Adoption,180472]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Adoption,180472|WD~Adoption,180472]] 
 
 ## #has_/text_of_/abstract 
 

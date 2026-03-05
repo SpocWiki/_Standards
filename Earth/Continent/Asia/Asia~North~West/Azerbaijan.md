@@ -574,7 +574,7 @@ dv_UNTERM_Chinese_Formal: 阿塞拜疆共和国
 dv_UNTERM_French_Formal: la République d'Azerbaïdjan
 dv_UNTERM_Russian: Азербайджан
 dv_UNTERM_Russian_Formal: Азербайджанская Республика
-dv_Region_Name: '[[../../Asia]]'
+dv_Region_Name: '[[../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Azerbaijan]]'
 dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
@@ -611,9 +611,9 @@ dv_is_:
 dv_has_name_de: Aserbaidshan
 dv_Area-Total: 86600
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Asia]]'
+dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: AZ
-dv_Capital: '[[Azerbaijan/Counties/Bakı/City/Baku]]'
+dv_Capital: '[[Azerbaijan/Counties/Bakı/City/Baku|Baku]]'
 dv_Alcohol-l: 10.6
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 49.83
@@ -639,7 +639,7 @@ Unicode_character: 🇦🇿
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Azerbaijan/ReadMe]] 
+[[Azerbaijan/ReadMe|ReadMe]] 
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
@@ -732,7 +732,7 @@ Capital = `=this.dv_Capital`
 
 ![[Azerbaijan/Emblem_of_Azerbaijan.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Azerbaijan.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Azerbaijan.mp3|Anthem-Azerbaijan.mp3]]
 
 ![[Azerbaijan/Flag_of_Azerbaijan.svg|350]]
 

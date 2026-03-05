@@ -62,14 +62,14 @@ aliases:
 - 동유럽 혁명
 has_id_wikidata: Q382861
 country:
-- "[[_Standards/WikiData/WD~People's_Republic_of_Bulgaria,121932]]"
-- "[[_Standards/WikiData/WD~Polish_People's_Republic,211274]]"
-- '[[_Standards/WikiData/WD~Socialist_Republic_of_Romania,842794]]'
-- '[[_Standards/WikiData/WD~Czechoslovak_Socialist_Republic,853348]]'
-- "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410]]"
-- '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
-instance_of: '[[_Standards/WikiData/WD~revolutionary_wave,1886460]]'
-has_effect: '[[_Standards/WikiData/WD~dissolution_of_the_Soviet_Union,5167679]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_Bulgaria,121932|WD~People's_Republic_of_Bulgaria,121932]]"
+- "[[_Standards/WikiData/WD~Polish_People's_Republic,211274|WD~Polish_People's_Republic,211274]]"
+- '[[_Standards/WikiData/WD~Socialist_Republic_of_Romania,842794|WD~Socialist_Republic_of_Romania,842794]]'
+- '[[_Standards/WikiData/WD~Czechoslovak_Socialist_Republic,853348|WD~Czechoslovak_Socialist_Republic,853348]]'
+- "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410|WD~Hungarian_People's_Republic,16410]]"
+- '[[_Standards/WikiData/WD~German_Democratic_Republic,16957|WD~German_Democratic_Republic,16957]]'
+instance_of: '[[_Standards/WikiData/WD~revolutionary_wave,1886460|WD~revolutionary_wave,1886460]]'
+has_effect: '[[_Standards/WikiData/WD~dissolution_of_the_Soviet_Union,5167679|WD~dissolution_of_the_Soviet_Union,5167679]]'
 point_in_time: 1989-01-01T00:00:00Z
 start_time: 1989-03-09T00:00:00Z
 end_time: 1992-04-27T00:00:00Z

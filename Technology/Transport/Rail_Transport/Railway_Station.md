@@ -140,46 +140,46 @@ GeoNames_feature_code: S.RSTN
 Commons_category: Train stations
 OpenStreetMap_tag: railway=station
 has_part_s_:
-- '[[_Standards/WikiData/WD~railroad_switch,82818]]'
-- '[[_Standards/WikiData/WD~railway_track,160342]]'
-- '[[_Standards/WikiData/WD~railway_platform,325358]]'
-- '[[_Standards/WikiData/WD~station_building,1339195]]'
-- '[[_Standards/WikiData/WD~Spanish_solution,1342434]]'
-- '[[_Standards/WikiData/WD~cross_platform_interchange,1779831]]'
-- '[[_Standards/WikiData/WD~station_throat,4384188]]'
-- '[[_Standards/WikiData/WD~Q7284260,7284260]]'
-- '[[_Standards/WikiData/WD~split_platform,7578710]]'
-typically_sells: '[[_Standards/WikiData/WD~ride_ticket,182587]]'
+- '[[_Standards/WikiData/WD~railroad_switch,82818|WD~railroad_switch,82818]]'
+- '[[_Standards/WikiData/WD~railway_track,160342|WD~railway_track,160342]]'
+- '[[_Standards/WikiData/WD~railway_platform,325358|WD~railway_platform,325358]]'
+- '[[_Standards/WikiData/WD~station_building,1339195|WD~station_building,1339195]]'
+- '[[_Standards/WikiData/WD~Spanish_solution,1342434|WD~Spanish_solution,1342434]]'
+- '[[_Standards/WikiData/WD~cross_platform_interchange,1779831|WD~cross_platform_interchange,1779831]]'
+- '[[_Standards/WikiData/WD~station_throat,4384188|WD~station_throat,4384188]]'
+- '[[_Standards/WikiData/WD~Q7284260,7284260|WD~Q7284260,7284260]]'
+- '[[_Standards/WikiData/WD~split_platform,7578710|WD~split_platform,7578710]]'
+typically_sells: '[[_Standards/WikiData/WD~ride_ticket,182587|WD~ride_ticket,182587]]'
 model_item:
-- "[[_Standards/WikiData/WD~London_King's_Cross_railway_station,219867]]"
-- '[[_Standards/WikiData/WD~Flinders_Street,260986]]'
-- '[[_Standards/WikiData/WD~Berlin_Central_Station,1097]]'
+- "[[_Standards/WikiData/WD~London_King's_Cross_railway_station,219867|WD~London_King's_Cross_railway_station,219867]]"
+- '[[_Standards/WikiData/WD~Flinders_Street,260986|WD~Flinders_Street,260986]]'
+- '[[_Standards/WikiData/WD~Berlin_Central_Station,1097|WD~Berlin_Central_Station,1097]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~public_transport_stop,548662]]'
-- '[[_Standards/WikiData/WD~railway_facility,800279]]'
-- '[[_Standards/WikiData/WD~station,12819564]]'
-- '[[_Standards/WikiData/WD~operating_control_point,97987466]]'
-- '[[_Standards/WikiData/WD~rail_transport_station,124673697]]'
+- '[[_Standards/WikiData/WD~public_transport_stop,548662|WD~public_transport_stop,548662]]'
+- '[[_Standards/WikiData/WD~railway_facility,800279|WD~railway_facility,800279]]'
+- '[[_Standards/WikiData/WD~station,12819564|WD~station,12819564]]'
+- '[[_Standards/WikiData/WD~operating_control_point,97987466|WD~operating_control_point,97987466]]'
+- '[[_Standards/WikiData/WD~rail_transport_station,124673697|WD~rail_transport_station,124673697]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 part_of:
-- '[[_Standards/WikiData/WD~rail_infrastructure,1311670]]'
-- '[[_Standards/WikiData/WD~railway,22667]]'
+- '[[_Standards/WikiData/WD~rail_infrastructure,1311670|WD~rail_infrastructure,1311670]]'
+- '[[_Standards/WikiData/WD~railway,22667|WD~railway,22667]]'
 different_from:
-- '[[_Standards/WikiData/WD~station_building,1339195]]'
-- '[[_Standards/WikiData/WD~railway_station_settlement,24258416]]'
-- '[[_Standards/WikiData/WD~railway_stop,55678]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~station_master,2962020]]'
+- '[[_Standards/WikiData/WD~station_building,1339195|WD~station_building,1339195]]'
+- '[[_Standards/WikiData/WD~railway_station_settlement,24258416|WD~railway_station_settlement,24258416]]'
+- '[[_Standards/WikiData/WD~railway_stop,55678|WD~railway_stop,55678]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~station_master,2962020|WD~station_master,2962020]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_station,5898006]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_station_2,12224015]]'
-- '[[_Standards/WikiData/WD~Template_Adjacent_stations,57283705]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_station,5898006|WD~Template_Infobox_station,5898006]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_station_2,12224015|WD~Template_Infobox_station_2,12224015]]'
+- '[[_Standards/WikiData/WD~Template_Adjacent_stations,57283705|WD~Template_Adjacent_stations,57283705]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_station,11668217]]'
-- '[[_Standards/WikiData/WD~type_of_organization,17197366]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~train_station,26836219]]'
+- '[[_Standards/WikiData/WD~type_of_station,11668217|WD~type_of_station,11668217]]'
+- '[[_Standards/WikiData/WD~type_of_organization,17197366|WD~type_of_organization,17197366]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~train_station,26836219|WD~train_station,26836219]]'
 properties_for_this_type:
 - station code
 - dissolved, abolished or demolished date

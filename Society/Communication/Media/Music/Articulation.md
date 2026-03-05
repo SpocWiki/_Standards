@@ -36,8 +36,8 @@ aliases:
 - 銜接
 - 아티큘레이션
 has_id_wikidata: Q372923
-different_from: '[[_Standards/WikiData/WD~Articulation,230158]]'
-subclass_of: '[[_Standards/WikiData/WD~musical_parameter,1639408]]'
+different_from: '[[_Standards/WikiData/WD~Articulation,230158|WD~Articulation,230158]]'
+subclass_of: '[[_Standards/WikiData/WD~musical_parameter,1639408|WD~musical_parameter,1639408]]'
 Commons_category: Articulation (music)
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Articulaciones-duracion.png

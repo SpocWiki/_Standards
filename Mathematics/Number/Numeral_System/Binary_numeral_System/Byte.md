@@ -46,17 +46,17 @@ aliases:
 - 字节
 - 바이트
 has_id_wikidata: Q8799
-used_by: '[[_Standards/WikiData/WD~Rust,575650]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~octet,851872]]'
+used_by: '[[_Standards/WikiData/WD~Rust,575650|WD~Rust,575650]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~octet,851872|WD~octet,851872]]'
 instance_of:
-- '[[_Standards/WikiData/WD~unit_of_information,3550873]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~information,71699827]]'
+- '[[_Standards/WikiData/WD~unit_of_information,3550873|WD~unit_of_information,3550873]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~information,71699827|WD~information,71699827]]'
 different_from:
-- '[[_Standards/WikiData/WD~byte,106247603]]'
-- '[[_Standards/WikiData/WD~bit,8805]]'
-has_part_s_: '[[_Standards/WikiData/WD~bit,8805]]'
+- '[[_Standards/WikiData/WD~byte,106247603|WD~byte,106247603]]'
+- '[[_Standards/WikiData/WD~bit,8805|WD~bit,8805]]'
+has_part_s_: '[[_Standards/WikiData/WD~bit,8805|WD~bit,8805]]'
 conversion_to_standard_unit:
 - 1
 - 2

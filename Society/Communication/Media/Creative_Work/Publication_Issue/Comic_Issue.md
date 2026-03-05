@@ -137,26 +137,26 @@ tags:
 title: is_a_comic_issue Class
 type: Type
 instance_of:
-- '[[_Standards/WikiData/WD~literary_genre,223393]]'
-- '[[_Standards/WikiData/WD~literary_form,4263830]]'
-- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+- '[[_Standards/WikiData/WD~literary_genre,223393|WD~literary_genre,223393]]'
+- '[[_Standards/WikiData/WD~literary_form,4263830|WD~literary_form,4263830]]'
+- '[[_Standards/WikiData/WD~type_of_arts,56055944|WD~type_of_arts,56055944]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~comics_artist,715301]]'
-- '[[_Standards/WikiData/WD~comics_writer,11892507]]'
-- '[[_Standards/WikiData/WD~penciller,17098559]]'
-- '[[_Standards/WikiData/WD~comics_creator,109517242]]'
-- '[[_Standards/WikiData/WD~comics_editor,130481652]]'
+- '[[_Standards/WikiData/WD~comics_artist,715301|WD~comics_artist,715301]]'
+- '[[_Standards/WikiData/WD~comics_writer,11892507|WD~comics_writer,11892507]]'
+- '[[_Standards/WikiData/WD~penciller,17098559|WD~penciller,17098559]]'
+- '[[_Standards/WikiData/WD~comics_creator,109517242|WD~comics_creator,109517242]]'
+- '[[_Standards/WikiData/WD~comics_editor,130481652|WD~comics_editor,130481652]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~narrative,1318295]]'
-- '[[_Standards/WikiData/WD~visual_artwork,4502142]]'
-- '[[_Standards/WikiData/WD~sequential_art,7452501]]'
-- '[[_Standards/WikiData/WD~literary_work,7725634]]'
-- '[[_Standards/WikiData/WD~illustrated_work,111885808]]'
+- '[[_Standards/WikiData/WD~narrative,1318295|WD~narrative,1318295]]'
+- '[[_Standards/WikiData/WD~visual_artwork,4502142|WD~visual_artwork,4502142]]'
+- '[[_Standards/WikiData/WD~sequential_art,7452501|WD~sequential_art,7452501]]'
+- '[[_Standards/WikiData/WD~literary_work,7725634|WD~literary_work,7725634]]'
+- '[[_Standards/WikiData/WD~illustrated_work,111885808|WD~illustrated_work,111885808]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_comic_book_title,6623200]]'
-- '[[_Standards/WikiData/WD~Template_Comics_sidebar,7644801]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_animanga_Print,13406738]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Comics,11188275]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_comic_book_title,6623200|WD~Template_Infobox_comic_book_title,6623200]]'
+- '[[_Standards/WikiData/WD~Template_Comics_sidebar,7644801|WD~Template_Comics_sidebar,7644801]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_animanga_Print,13406738|WD~Template_Infobox_animanga_Print,13406738]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Comics,11188275|WD~Portal_Comics,11188275]]'
 properties_for_this_type:
 - Comic Vine ID
 - NicoNicoPedia ID
@@ -357,7 +357,7 @@ All comic issues can be uniquely identified by:
 - the issue number; and 
 - the variant description of the issue (if any).
 
-#has_/parent_class :: [[../PublicationIssue]]  
+#has_/parent_class :: [[../PublicationIssue|PublicationIssue]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Comics,1004|WD~Comics,1004]] 
 

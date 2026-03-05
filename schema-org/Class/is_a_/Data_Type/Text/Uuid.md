@@ -28,7 +28,7 @@ aliases:
 - 범용 고유 식별자
 dv_is_:
   worse_than:
-  - '[[../../../../../../IT/SW~Architecture/Snowflake-ID]]]'
+  - '[[../../../../../../IT/SW~Architecture/Snowflake-ID|Snowflake-ID]]]'
   - '[[Cuid2]]'
   same_as:
   - '[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Uuid|Uuid]]'
@@ -83,7 +83,7 @@ dv_has_:
   url_for_:
     description: https://uuid.ramsey.dev
 dv_is_worse_than:
-- '[[../../../../../../IT/SW~Architecture/Snowflake-ID]]]'
+- '[[../../../../../../IT/SW~Architecture/Snowflake-ID|Snowflake-ID]]]'
 - '[[Cuid2]]'
 dv_has_url_for_description: https://uuid.ramsey.dev
 dv_is_same_as:
@@ -100,7 +100,7 @@ has_id_wikidata: Q195284
 # [[UUID]] 
 
 Better Alternatives are: 
-#is_/worse_than ::[[../../../../../../IT/SW~Architecture/Snowflake-ID]]] 
+#is_/worse_than ::[[../../../../../../IT/SW~Architecture/Snowflake-ID|Snowflake-ID]]] 
 #is_/worse_than :: [[Cuid2]]
 NanoID 
 

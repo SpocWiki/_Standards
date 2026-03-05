@@ -78,12 +78,12 @@ aliases:
 - 義工活動
 - 자원봉사자
 has_id_wikidata: Q188844
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~voluntary_action,4374347]]'
-- '[[../../../../../WikiData/WD~unpaid_work,7897274]]'
-- '[[_Standards/WikiData/WD~voluntarism,7940935]]'
-practiced_by: '[[_Standards/WikiData/WD~volunteer,24716636]]'
+- '[[_Standards/WikiData/WD~voluntary_action,4374347|WD~voluntary_action,4374347]]'
+- '[[../../../../../WikiData/WD~unpaid_work,7897274|WD~unpaid_work,7897274]]'
+- '[[_Standards/WikiData/WD~voluntarism,7940935|WD~voluntarism,7940935]]'
+practiced_by: '[[_Standards/WikiData/WD~volunteer,24716636|WD~volunteer,24716636]]'
 OmegaWiki_Defined_Meaning: 3984
 Commons_category: Volunteering
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HandsOnMiamiVolunteersZooMiami.jpg

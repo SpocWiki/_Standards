@@ -70,15 +70,15 @@ aliases:
 - 과학 이론
 has_id_wikidata: Q3239681
 has_characteristic:
-- '[[_Standards/WikiData/WD~falsifiability,220888]]'
-- '[[_Standards/WikiData/WD~explanatory_power,2557224]]'
-replaces: '[[_Standards/WikiData/WD~scientific_hypothesis,3144351]]'
+- '[[_Standards/WikiData/WD~falsifiability,220888|WD~falsifiability,220888]]'
+- '[[_Standards/WikiData/WD~explanatory_power,2557224|WD~explanatory_power,2557224]]'
+replaces: '[[_Standards/WikiData/WD~scientific_hypothesis,3144351|WD~scientific_hypothesis,3144351]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~scientific_knowledge,6045936]]'
-- '[[_Standards/WikiData/WD~theory,17737]]'
-uses: '[[_Standards/WikiData/WD~scientific_object,30060700]]'
-studied_by: '[[_Standards/WikiData/WD~science,336]]'
-used_by: '[[_Standards/WikiData/WD~scientific_method,46857]]'
+- '[[_Standards/WikiData/WD~scientific_knowledge,6045936|WD~scientific_knowledge,6045936]]'
+- '[[_Standards/WikiData/WD~theory,17737|WD~theory,17737]]'
+uses: '[[_Standards/WikiData/WD~scientific_object,30060700|WD~scientific_object,30060700]]'
+studied_by: '[[_Standards/WikiData/WD~science,336|WD~science,336]]'
+used_by: '[[_Standards/WikiData/WD~scientific_method,46857|WD~scientific_method,46857]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CMB%20Timeline300%20no%20WMAP.jpg
 OmegaWiki_Defined_Meaning: 1592009
 Commons_category: Scientific theories

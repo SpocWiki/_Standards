@@ -34,15 +34,15 @@ aliases:
 - 우주 전쟁
 has_id_wikidata: Q24958
 date_of_first_performance: 1938-10-30T00:00:00Z
-based_on: '[[_Standards/WikiData/WD~The_War_of_the_Worlds,213019]]'
-set_during_recurring_event: '[[_Standards/WikiData/WD~Halloween,251868]]'
-distributed_by: '[[_Standards/WikiData/WD~CBS_Radio,1022995]]'
-instance_of: '[[_Standards/WikiData/WD~radio_drama,2635894]]'
-part_of_the_series: '[[_Standards/WikiData/WD~The_Mercury_Theatre_on_the_Air,2855378]]'
-genre: '[[_Standards/WikiData/WD~science_fiction_radio_play,4506063]]'
+based_on: '[[_Standards/WikiData/WD~The_War_of_the_Worlds,213019|WD~The_War_of_the_Worlds,213019]]'
+set_during_recurring_event: '[[_Standards/WikiData/WD~Halloween,251868|WD~Halloween,251868]]'
+distributed_by: '[[_Standards/WikiData/WD~CBS_Radio,1022995|WD~CBS_Radio,1022995]]'
+instance_of: '[[_Standards/WikiData/WD~radio_drama,2635894|WD~radio_drama,2635894]]'
+part_of_the_series: '[[_Standards/WikiData/WD~The_Mercury_Theatre_on_the_Air,2855378|WD~The_Mercury_Theatre_on_the_Air,2855378]]'
+genre: '[[_Standards/WikiData/WD~science_fiction_radio_play,4506063|WD~science_fiction_radio_play,4506063]]'
 narrative_location:
-- '[[_Standards/WikiData/WD~New_York,1384]]'
-- '[[_Standards/WikiData/WD~New_Jersey,1408]]'
+- '[[_Standards/WikiData/WD~New_York,1384|WD~New_York,1384]]'
+- '[[_Standards/WikiData/WD~New_Jersey,1408|WD~New_Jersey,1408]]'
 native_label: The War of the Worlds
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Landingsite%20statue.JPG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Orson%20Welles%20War%20of%20the%20Worlds%201938.jpg

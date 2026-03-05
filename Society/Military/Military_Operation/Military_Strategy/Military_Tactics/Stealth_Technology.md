@@ -45,8 +45,8 @@ aliases:
 - 隱形技術
 - 스텔스 기술
 has_id_wikidata: Q339042
-subclass_of: '[[_Standards/WikiData/WD~military_technology,329864]]'
-different_from: '[[_Standards/WikiData/WD~stealth_game,858523]]'
+subclass_of: '[[_Standards/WikiData/WD~military_technology,329864|WD~military_technology,329864]]'
+different_from: '[[_Standards/WikiData/WD~stealth_game,858523|WD~stealth_game,858523]]'
 Commons_category: Stealth technology
 dv_has_:
   name_:

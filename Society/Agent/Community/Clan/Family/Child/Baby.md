@@ -123,31 +123,31 @@ aliases:
 - 아기
 has_id_wikidata: Q998
 different_from:
-- '[[_Standards/WikiData/WD~Baba,224204]]'
-- '[[_Standards/WikiData/WD~Baby,230455]]'
-- '[[_Standards/WikiData/WD~Bebe,394507]]'
-- '[[_Standards/WikiData/WD~Bébé,1019380]]'
-- '[[_Standards/WikiData/WD~Q116254991,116254991]]'
-replaces: '[[_Standards/WikiData/WD~neonate,576104]]'
+- '[[_Standards/WikiData/WD~Baba,224204|WD~Baba,224204]]'
+- '[[_Standards/WikiData/WD~Baby,230455|WD~Baby,230455]]'
+- '[[_Standards/WikiData/WD~Bebe,394507|WD~Bebe,394507]]'
+- '[[_Standards/WikiData/WD~Bébé,1019380|WD~Bébé,1019380]]'
+- '[[_Standards/WikiData/WD~Q116254991,116254991|WD~Q116254991,116254991]]'
+replaces: '[[_Standards/WikiData/WD~neonate,576104|WD~neonate,576104]]'
 instance_of:
-- '[[_Standards/WikiData/WD~population_group,851990]]'
-- '[[_Standards/WikiData/WD~demographic_profile,5932254]]'
+- '[[_Standards/WikiData/WD~population_group,851990|WD~population_group,851990]]'
+- '[[_Standards/WikiData/WD~demographic_profile,5932254|WD~demographic_profile,5932254]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~toddler,1340307]]'
-- '[[_Standards/WikiData/WD~child,7569]]'
-replaced_by: '[[_Standards/WikiData/WD~early_childhood,3377398]]'
-follows: '[[_Standards/WikiData/WD~nasciturus,19931235]]'
-followed_by: '[[_Standards/WikiData/WD~one_year_old,97040416]]'
-produced_sound: '[[_Standards/WikiData/WD~baby_cry,109649419]]'
+- '[[_Standards/WikiData/WD~toddler,1340307|WD~toddler,1340307]]'
+- '[[_Standards/WikiData/WD~child,7569|WD~child,7569]]'
+replaced_by: '[[_Standards/WikiData/WD~early_childhood,3377398|WD~early_childhood,3377398]]'
+follows: '[[_Standards/WikiData/WD~nasciturus,19931235|WD~nasciturus,19931235]]'
+followed_by: '[[_Standards/WikiData/WD~one_year_old,97040416|WD~one_year_old,97040416]]'
+produced_sound: '[[_Standards/WikiData/WD~baby_cry,109649419|WD~baby_cry,109649419]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Babies_tondos,131719726]]'
-- '[[_Standards/WikiData/WD~Logos_Ecomuseo_delle_Grigne_a_misura_of_bambino,131825357]]'
-fabrication_method: '[[_Standards/WikiData/WD~sexual_intercourse,5873]]'
+- '[[_Standards/WikiData/WD~Babies_tondos,131719726|WD~Babies_tondos,131719726]]'
+- '[[_Standards/WikiData/WD~Logos_Ecomuseo_delle_Grigne_a_misura_of_bambino,131825357|WD~Logos_Ecomuseo_delle_Grigne_a_misura_of_bambino,131825357]]'
+fabrication_method: '[[_Standards/WikiData/WD~sexual_intercourse,5873|WD~sexual_intercourse,5873]]'
 OmegaWiki_Defined_Meaning: 5642
 Colon_Classification: S13
 IMDb_keyword: baby

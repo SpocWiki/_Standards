@@ -26,11 +26,11 @@ tags:
 title: has_action_application
 type: Predi_Relation
 dv_has_:
-  action_application: "[[../../../../Society/Communication/Media/Creative_Work/Software_Application]]"
-  domain: "[[../../../Class/is_a_thing/intangible/entry_point]]"
+  action_application: "[[../../../../Society/Communication/Media/Creative_Work/Software_Application|Software_Application]]"
+  domain: "[[../../../Class/is_a_thing/intangible/entry_point|entry_point]]"
   name: has_action_application
-  range: "[[../../../../Society/Communication/Media/Creative_Work/Software_Application]]"
-dv_has_action_application: "[[../../../../Society/Communication/Media/Creative_Work/Software_Application]]"
+  range: "[[../../../../Society/Communication/Media/Creative_Work/Software_Application|Software_Application]]"
+dv_has_action_application: "[[../../../../Society/Communication/Media/Creative_Work/Software_Application|Software_Application]]"
 dv_is_:
   same_as:
     - "[[has_action_application|has_action_application]]"
@@ -41,9 +41,9 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_action_application.personal|has_action_application.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_action_application.secret|has_action_application.secret]]"
     - "[[has_action_application]]"
-dv_has_domain: "[[../../../Class/is_a_thing/intangible/entry_point]]"
+dv_has_domain: "[[../../../Class/is_a_thing/intangible/entry_point|entry_point]]"
 dv_has_name: has_action_application
-dv_has_range: "[[../../../../Society/Communication/Media/Creative_Work/Software_Application]]"
+dv_has_range: "[[../../../../Society/Communication/Media/Creative_Work/Software_Application|Software_Application]]"
 dv_is_same_as:
   - "[[has_action_application]]"
   - "[[/_public/schema-org/Relation/has/has_action_application.public|has_action_application.public]]"

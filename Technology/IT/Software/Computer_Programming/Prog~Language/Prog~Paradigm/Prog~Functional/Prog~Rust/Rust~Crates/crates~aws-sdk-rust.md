@@ -1,5 +1,5 @@
 
-[[../../../../../../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)]] has generated Rust Wrappers for all APIs. 
+[[../../../../../../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)|Amazon(Company)]] has generated Rust Wrappers for all APIs. 
 
 ```rust
 use aws_sdk_dynamodb::{Client, Error};

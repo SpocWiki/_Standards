@@ -28,29 +28,29 @@ aliases:
 - 圖波列夫公司
 - 투폴레프
 has_id_wikidata: Q194009
-legal_form: '[[_Standards/WikiData/WD~joint_stock_company,134161]]'
+legal_form: '[[_Standards/WikiData/WD~joint_stock_company,134161|WD~joint_stock_company,134161]]'
 award_received:
-- '[[_Standards/WikiData/WD~Order_of_Lenin,185493]]'
-- '[[_Standards/WikiData/WD~Order_of_the_Red_Banner,337463]]'
-- '[[_Standards/WikiData/WD~Order_of_the_Red_Banner_of_Labour,478850]]'
-- '[[_Standards/WikiData/WD~Order_of_the_October_Revolution,728960]]'
-named_after: '[[_Standards/WikiData/WD~Andrei_Tupolev,219734]]'
-founded_by: '[[_Standards/WikiData/WD~Andrei_Tupolev,219734]]'
-instance_of: '[[_Standards/WikiData/WD~aerospace_manufacturer,936518]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~United_Aircraft_Corporation,1136226]]'
+- '[[_Standards/WikiData/WD~Order_of_Lenin,185493|WD~Order_of_Lenin,185493]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Red_Banner,337463|WD~Order_of_the_Red_Banner,337463]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Red_Banner_of_Labour,478850|WD~Order_of_the_Red_Banner_of_Labour,478850]]'
+- '[[_Standards/WikiData/WD~Order_of_the_October_Revolution,728960|WD~Order_of_the_October_Revolution,728960]]'
+named_after: '[[_Standards/WikiData/WD~Andrei_Tupolev,219734|WD~Andrei_Tupolev,219734]]'
+founded_by: '[[_Standards/WikiData/WD~Andrei_Tupolev,219734|WD~Andrei_Tupolev,219734]]'
+instance_of: '[[_Standards/WikiData/WD~aerospace_manufacturer,936518|WD~aerospace_manufacturer,936518]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~United_Aircraft_Corporation,1136226|WD~United_Aircraft_Corporation,1136226]]'
 industry:
-- '[[_Standards/WikiData/WD~aircraft_industry,1875606]]'
-- '[[_Standards/WikiData/WD~aerospace_industry,3477363]]'
+- '[[_Standards/WikiData/WD~aircraft_industry,1875606|WD~aircraft_industry,1875606]]'
+- '[[_Standards/WikiData/WD~aerospace_industry,3477363|WD~aerospace_industry,3477363]]'
 headquarters_location:
-- '[[_Standards/WikiData/WD~Akademika_Tupoleva_Embankment,4311092]]'
-- '[[_Standards/WikiData/WD~Moscow,649]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Tupolev_aircraft,6489128]]'
+- '[[_Standards/WikiData/WD~Akademika_Tupoleva_Embankment,4311092|WD~Akademika_Tupoleva_Embankment,4311092]]'
+- '[[_Standards/WikiData/WD~Moscow,649|WD~Moscow,649]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Tupolev_aircraft,6489128|WD~Template_Tupolev_aircraft,6489128]]'
 total_equity: 79140741000
 net_profit: -103637000
-location_of_formation: '[[_Standards/WikiData/WD~Moscow,649]]'
-country: '[[_Standards/WikiData/WD~Russia,159]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~airplane,197]]'
+location_of_formation: '[[_Standards/WikiData/WD~Moscow,649|WD~Moscow,649]]'
+country: '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~airplane,197|WD~airplane,197]]'
 employees:
 - 4049
 - 9648

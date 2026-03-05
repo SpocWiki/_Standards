@@ -61,7 +61,7 @@ Use it like this:
 - #has_/location_regions_allowed = `=this.dv_has_location_regions_allowed`  
 - has_location_regions_allowed = `=this.dv_has_location_regions_allowed`  
 
-The regions where the media is allowed. If not specified, then it's assumed to be allowed everywhere. Specify the countries in <a href="http://en.wikipedia.org/wiki/ISO_3166">ISO 3166 format]].
+The regions where the media is allowed. If not specified, then it's assumed to be allowed everywhere. Specify the countries in <a href="http://en.wikipedia.org/wiki/ISO_3166">ISO 3166 format|ISO_3166">ISO 3166 format]].
 
 Predicate describes that: 
 

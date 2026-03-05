@@ -44,11 +44,11 @@ aliases:
 - 알파입자 산란실험
 has_id_wikidata: Q1648751
 participant:
-- '[[_Standards/WikiData/WD~Ernest_Marsden,714452]]'
-- '[[_Standards/WikiData/WD~Ernest_Rutherford,9123]]'
-- '[[_Standards/WikiData/WD~Hans_Geiger,57189]]'
-locations: '[[_Standards/WikiData/WD~University_of_Manchester_Institute_of_Science_and_Technology,4272498]]'
-instance_of: '[[_Standards/WikiData/WD~physics_experiment,77872752]]'
+- '[[_Standards/WikiData/WD~Ernest_Marsden,714452|WD~Ernest_Marsden,714452]]'
+- '[[_Standards/WikiData/WD~Ernest_Rutherford,9123|WD~Ernest_Rutherford,9123]]'
+- '[[_Standards/WikiData/WD~Hans_Geiger,57189|WD~Hans_Geiger,57189]]'
+locations: '[[_Standards/WikiData/WD~University_of_Manchester_Institute_of_Science_and_Technology,4272498|WD~University_of_Manchester_Institute_of_Science_and_Technology,4272498]]'
+instance_of: '[[_Standards/WikiData/WD~physics_experiment,77872752|WD~physics_experiment,77872752]]'
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Geiger-1910-fig1.GIF
 - http://commons.wikimedia.org/wiki/Special:FilePath/Geiger-Marsden%20diagram.gif

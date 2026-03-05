@@ -105,20 +105,20 @@ aliases:
 - 核衰變
 - 방사성
 has_id_wikidata: Q11448
-different_from: '[[_Standards/WikiData/WD~activity,317949]]'
+different_from: '[[_Standards/WikiData/WD~activity,317949|WD~activity,317949]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-has_characteristic: '[[_Standards/WikiData/WD~decay_mode,1048111]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823|WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_characteristic: '[[_Standards/WikiData/WD~decay_mode,1048111|WD~decay_mode,1048111]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-- '[[_Standards/WikiData/WD~physical_process,17320256]]'
-class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~atomic_nucleus,37147]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Henri_Becquerel,41269]]'
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+- '[[_Standards/WikiData/WD~physical_process,17320256|WD~physical_process,17320256]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~atomic_nucleus,37147|WD~atomic_nucleus,37147]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Henri_Becquerel,41269|WD~Henri_Becquerel,41269]]'
 OmegaWiki_Defined_Meaning: 3092
 Unicode_character: ☢
 Commons_category: Radioactivity

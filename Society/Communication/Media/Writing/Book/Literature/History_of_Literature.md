@@ -75,15 +75,15 @@ aliases:
 - 문학사
 has_id_wikidata: Q6497044
 subclass_of:
-- '[[_Standards/WikiData/WD~literary_studies,208217]]'
-- '[[_Standards/WikiData/WD~cultural_history,858517]]'
-has_characteristic: '[[_Standards/WikiData/WD~literary_award,378427]]'
+- '[[_Standards/WikiData/WD~literary_studies,208217|WD~literary_studies,208217]]'
+- '[[_Standards/WikiData/WD~cultural_history,858517|WD~cultural_history,858517]]'
+has_characteristic: '[[_Standards/WikiData/WD~literary_award,378427|WD~literary_award,378427]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-practiced_by: '[[_Standards/WikiData/WD~literary_historian,13570226]]'
-facet_of: '[[_Standards/WikiData/WD~literature,8242]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+practiced_by: '[[_Standards/WikiData/WD~literary_historian,13570226|WD~literary_historian,13570226]]'
+facet_of: '[[_Standards/WikiData/WD~literature,8242|WD~literature,8242]]'
 Dewey_Decimal_Classification: 809
 Provenio_UUID: ac5f636f-5601-4ddb-bd11-0576dbc016bc
 Commons_category: History of literature

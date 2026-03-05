@@ -100,7 +100,7 @@ increasing the chance to find these Sub-Networks exponentially.
 This is similar to [[../../../../Knowledge/Design/Ockham’s_Razor(Design)|Occam’s_Razor]] 
 
 
-[[../../../../_internal/Society/Economy/Extraction_Economy]] 
+[[../../../../_internal/Society/Economy/Extraction_Economy|Extraction_Economy]] 
 
 
 ## #has_/text_of_/abstract 

@@ -65,17 +65,17 @@ aliases:
 - 지화학
 has_id_wikidata: Q161764
 instance_of:
-- '[[_Standards/WikiData/WD~interdisciplinary_science,1665984]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-practiced_by: '[[_Standards/WikiData/WD~geochemist,16335312]]'
+- '[[_Standards/WikiData/WD~interdisciplinary_science,1665984|WD~interdisciplinary_science,1665984]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~geochemist,16335312|WD~geochemist,16335312]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~chemistry,2329]]'
-- '[[_Standards/WikiData/WD~Earth_science,8008]]'
+- '[[_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
+- '[[_Standards/WikiData/WD~Earth_science,8008|WD~Earth_science,8008]]'
 Dewey_Decimal_Classification: 551.9
 OmegaWiki_Defined_Meaning: 789722
 U_S_National_Archives_Identifier: 10639469

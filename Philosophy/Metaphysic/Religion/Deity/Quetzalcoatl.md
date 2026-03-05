@@ -31,22 +31,22 @@ aliases:
 - 켓살코아틀
 has_id_wikidata: Q179818
 sibling:
-- '[[_Standards/WikiData/WD~Huitzilopochtli,219412]]'
-- '[[_Standards/WikiData/WD~Xolotl,279639]]'
-- '[[_Standards/WikiData/WD~Xipe_Totec,558970]]'
-- '[[_Standards/WikiData/WD~Tezcatlipoca,756797]]'
-worshipped_by: '[[_Standards/WikiData/WD~Aztec_mythology,391184]]'
+- '[[_Standards/WikiData/WD~Huitzilopochtli,219412|WD~Huitzilopochtli,219412]]'
+- '[[_Standards/WikiData/WD~Xolotl,279639|WD~Xolotl,279639]]'
+- '[[_Standards/WikiData/WD~Xipe_Totec,558970|WD~Xipe_Totec,558970]]'
+- '[[_Standards/WikiData/WD~Tezcatlipoca,756797|WD~Tezcatlipoca,756797]]'
+worshipped_by: '[[_Standards/WikiData/WD~Aztec_mythology,391184|WD~Aztec_mythology,391184]]'
 appears_in_the_form_of:
-- '[[_Standards/WikiData/WD~resplendent_quetzal,459267]]'
-- '[[_Standards/WikiData/WD~Feathered_Serpent,2736568]]'
-location: '[[_Standards/WikiData/WD~Templo_Mayor,774021]]'
-father: '[[_Standards/WikiData/WD~Mixcoatl,1326558]]'
-mother: '[[_Standards/WikiData/WD~Chimalma,1621750]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-described_by_source: "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- '[[_Standards/WikiData/WD~resplendent_quetzal,459267|WD~resplendent_quetzal,459267]]'
+- '[[_Standards/WikiData/WD~Feathered_Serpent,2736568|WD~Feathered_Serpent,2736568]]'
+location: '[[_Standards/WikiData/WD~Templo_Mayor,774021|WD~Templo_Mayor,774021]]'
+father: '[[_Standards/WikiData/WD~Mixcoatl,1326558|WD~Mixcoatl,1326558]]'
+mother: '[[_Standards/WikiData/WD~Chimalma,1621750|WD~Chimalma,1621750]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+described_by_source: "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667|WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
 instance_of:
-- '[[_Standards/WikiData/WD~mythological_serpent,16326794]]'
-- '[[_Standards/WikiData/WD~Aztec_deity,32066628]]'
+- '[[_Standards/WikiData/WD~mythological_serpent,16326794|WD~mythological_serpent,16326794]]'
+- '[[_Standards/WikiData/WD~Aztec_deity,32066628|WD~Aztec_deity,32066628]]'
 Commons_gallery: Quetzalcoatl
 Commons_category: Quetzalcoatl
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nci-Quetzalcoatl.oga

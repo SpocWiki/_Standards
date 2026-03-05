@@ -135,36 +135,36 @@ title: is_a_motorcycle Class
 type: Type
 Baidu_Tieba_name: 摩托车
 subclass_of:
-- '[[_Standards/WikiData/WD~two_wheeler,233040]]'
-- '[[_Standards/WikiData/WD~road_vehicle,1515493]]'
-- '[[_Standards/WikiData/WD~single_track_vehicle,11723891]]'
-- '[[_Standards/WikiData/WD~motor_vehicle,17152681]]'
+- '[[_Standards/WikiData/WD~two_wheeler,233040|WD~two_wheeler,233040]]'
+- '[[_Standards/WikiData/WD~road_vehicle,1515493|WD~road_vehicle,1515493]]'
+- '[[_Standards/WikiData/WD~single_track_vehicle,11723891|WD~single_track_vehicle,11723891]]'
+- '[[_Standards/WikiData/WD~motor_vehicle,17152681|WD~motor_vehicle,17152681]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~motorcycle_fairing,388379]]'
-- '[[_Standards/WikiData/WD~rigid_frame,1064975]]'
-- '[[_Standards/WikiData/WD~fuel_tank,1411232]]'
-- '[[_Standards/WikiData/WD~motorcycle_engine,3270361]]'
-- '[[_Standards/WikiData/WD~motorcycle_handlebar,11885128]]'
-- '[[_Standards/WikiData/WD~motorcycle_seat,17095725]]'
-- '[[_Standards/WikiData/WD~wheel,446]]'
+- '[[_Standards/WikiData/WD~motorcycle_fairing,388379|WD~motorcycle_fairing,388379]]'
+- '[[_Standards/WikiData/WD~rigid_frame,1064975|WD~rigid_frame,1064975]]'
+- '[[_Standards/WikiData/WD~fuel_tank,1411232|WD~fuel_tank,1411232]]'
+- '[[_Standards/WikiData/WD~motorcycle_engine,3270361|WD~motorcycle_engine,3270361]]'
+- '[[_Standards/WikiData/WD~motorcycle_handlebar,11885128|WD~motorcycle_handlebar,11885128]]'
+- '[[_Standards/WikiData/WD~motorcycle_seat,17095725|WD~motorcycle_seat,17095725]]'
+- '[[_Standards/WikiData/WD~wheel,446|WD~wheel,446]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~engine_displacement,466511]]'
-- '[[_Standards/WikiData/WD~motorcycle_model,23866334]]'
-- '[[_Standards/WikiData/WD~power,25342]]'
-has_list: '[[_Standards/WikiData/WD~list_of_motorcycle_manufacturers,580634]]'
-has_use: '[[_Standards/WikiData/WD~motorcycling,608003]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~motorcycle_component,2995263]]'
-different_from: '[[_Standards/WikiData/WD~Motocycle,6917995]]'
+- '[[_Standards/WikiData/WD~engine_displacement,466511|WD~engine_displacement,466511]]'
+- '[[_Standards/WikiData/WD~motorcycle_model,23866334|WD~motorcycle_model,23866334]]'
+- '[[_Standards/WikiData/WD~power,25342|WD~power,25342]]'
+has_list: '[[_Standards/WikiData/WD~list_of_motorcycle_manufacturers,580634|WD~list_of_motorcycle_manufacturers,580634]]'
+has_use: '[[_Standards/WikiData/WD~motorcycling,608003|WD~motorcycling,608003]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~motorcycle_component,2995263|WD~motorcycle_component,2995263]]'
+different_from: '[[_Standards/WikiData/WD~Motocycle,6917995|WD~Motocycle,6917995]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_motorcycle,8197999]]'
-- '[[_Standards/WikiData/WD~Template_Types_of_motorcycles,18810251]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q11257814,11257814]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Motorcycling,15884974]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_motorcycle,8197999|WD~Template_Infobox_motorcycle,8197999]]'
+- '[[_Standards/WikiData/WD~Template_Types_of_motorcycles,18810251|WD~Template_Types_of_motorcycles,18810251]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q11257814,11257814|WD~Q11257814,11257814]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Motorcycling,15884974|WD~WikiProject_Motorcycling,15884974]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-used_by: '[[_Standards/WikiData/WD~motorcyclist,45787133]]'
-associated_hazard: '[[_Standards/WikiData/WD~motorcycle_accident,48802726]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+used_by: '[[_Standards/WikiData/WD~motorcyclist,45787133|WD~motorcyclist,45787133]]'
+associated_hazard: '[[_Standards/WikiData/WD~motorcycle_accident,48802726|WD~motorcycle_accident,48802726]]'
 IAB_code: 27
 carbon_footprint: 195.61
 OmegaWiki_Defined_Meaning: 2414
@@ -352,7 +352,7 @@ Tag Instances like this:
 
 A motorcycle or motorbike is a single-track, two-wheeled motor vehicle.
 
-#has_/parent_class :: [[../Vehicle]]  
+#has_/parent_class :: [[../Vehicle|Vehicle]]  
 
 #has_/properties :: [ accelerationTime, additionalProperty, additionalType, aggregateRating, alternateName, asin, audience, award, awards, bodyType, brand, callSign, cargoVolume, category, color, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, dateVehicleFirstRegistered, depth, description, disambiguatingDescription, driveWheelConfiguration, emissionsCO2, fuelCapacity, fuelConsumption, fuelEfficiency, fuelType, funding, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasProductReturnPolicy, height, identifier, image, inProductGroupWithID, isAccessoryOrSparePartFor, isConsumableFor, isFamilyFriendly, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, knownVehicleDamages, logo, mainEntityOfPage, manufacturer, material, meetsEmissionStandard, mileageFromOdometer, mobileUrl, model, modelDate, mpn, name, negativeNotes, nsn, numberOfAirbags, numberOfAxles, numberOfDoors, numberOfForwardGears, numberOfPreviousOwners, offers, pattern, payload, positiveNotes, potentialAction, productID, productionDate, purchaseDate, releaseDate, review, reviews, sameAs, seatingCapacity, size, sku, slogan, speed, steeringPosition, stupidProperty, subjectOf, tongueWeight, trailerWeight, url, vehicleConfiguration, vehicleEngine, vehicleIdentificationNumber, vehicleInteriorColor, vehicleInteriorType, vehicleModelDate, vehicleSeatingCapacity, vehicleSpecialUsage, vehicleTransmission, weight, weightTotal, wheelbase, width ]  
 

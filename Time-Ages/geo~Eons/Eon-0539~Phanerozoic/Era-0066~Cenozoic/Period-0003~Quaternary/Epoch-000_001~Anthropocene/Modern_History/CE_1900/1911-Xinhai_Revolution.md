@@ -71,11 +71,11 @@ aliases:
 - 辛亥革命
 - 신해혁명
 has_id_wikidata: Q190517
-part_of: '[[_Standards/WikiData/WD~Chinese_Empire,12060881]]'
+part_of: '[[_Standards/WikiData/WD~Chinese_Empire,12060881|WD~Chinese_Empire,12060881]]'
 country:
-- '[[_Standards/WikiData/WD~Republic_of_China,13426199]]'
-- '[[_Standards/WikiData/WD~China,29520]]'
-instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
+- '[[_Standards/WikiData/WD~Republic_of_China,13426199|WD~Republic_of_China,13426199]]'
+- '[[_Standards/WikiData/WD~China,29520|WD~China,29520]]'
+instance_of: '[[_Standards/WikiData/WD~revolution,10931|WD~revolution,10931]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Xinhai%20Revolution%20in%20Shanghai.jpg
 Commons_category: Xinhai Revolution
 native_label: 辛亥革命

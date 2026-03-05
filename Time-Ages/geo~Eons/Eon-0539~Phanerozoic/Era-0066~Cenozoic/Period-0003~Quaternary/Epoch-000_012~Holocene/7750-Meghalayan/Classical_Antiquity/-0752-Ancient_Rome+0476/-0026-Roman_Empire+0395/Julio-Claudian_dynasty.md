@@ -66,22 +66,22 @@ aliases:
 - 朱里亞·克勞狄王朝
 - 율리우스-클라우디우스 왕조
 has_id_wikidata: Q192841
-instance_of: '[[_Standards/WikiData/WD~dynasty,164950]]'
-replaced_by: '[[_Standards/WikiData/WD~Flavian_dynasty,200565]]'
+instance_of: '[[_Standards/WikiData/WD~dynasty,164950|WD~dynasty,164950]]'
+replaced_by: '[[_Standards/WikiData/WD~Flavian_dynasty,200565|WD~Flavian_dynasty,200565]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Gemma_Augustea,653194]]'
-- '[[_Standards/WikiData/WD~Gemma_Claudia,2049619]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Julio_Claudian_dynasty,14403341]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Gemma_Augustea,653194|WD~Gemma_Augustea,653194]]'
+- '[[_Standards/WikiData/WD~Gemma_Claudia,2049619|WD~Gemma_Claudia,2049619]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Julio_Claudian_dynasty,14403341|WD~Template_Julio_Claudian_dynasty,14403341]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/JulioClaudian.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/JulioClaudian%20de.svg
 EAGLE_id: dates/lod/43
 Commons_category: Julio-Claudian dynasty
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Julio_Claudian_dynasty,8568961]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Julio_Claudian_dynasty,8568961|WD~Category_Julio_Claudian_dynasty,8568961]]'
 dv_is_:
   same_as:
-  - '[[../../../../../../../../../../WikiData/WD~Julio-Claudian_dynasty,192841]]'
+  - '[[../../../../../../../../../../WikiData/WD~Julio-Claudian_dynasty,192841|WD~Julio-Claudian_dynasty,192841]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Julio-Claudian_dynasty|Julio-Claudian_dynasty]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Julio-Claudian_dynasty.public|Julio-Claudian_dynasty.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Julio-Claudian_dynasty.internal|Julio-Claudian_dynasty.internal]]'
@@ -90,7 +90,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Julio-Claudian_dynasty.personal|Julio-Claudian_dynasty.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Julio-Claudian_dynasty.secret|Julio-Claudian_dynasty.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../../../WikiData/WD~Julio-Claudian_dynasty,192841]]'
+- '[[../../../../../../../../../../WikiData/WD~Julio-Claudian_dynasty,192841|WD~Julio-Claudian_dynasty,192841]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Julio-Claudian_dynasty|Julio-Claudian_dynasty]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Julio-Claudian_dynasty.public|Julio-Claudian_dynasty.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Julio-Claudian_dynasty.internal|Julio-Claudian_dynasty.internal]]'

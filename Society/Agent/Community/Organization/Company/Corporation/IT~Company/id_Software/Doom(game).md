@@ -54,7 +54,7 @@ and freely released under the [GNU General Public License](https://en.wikipedia.
 > and has been followed by several games in the series, including Doom II (1994), 
 > Doom 64 (1997), Doom 3 (2004), Doom (2016), Doom Eternal (2020), 
 > and Doom: The Dark Ages (2025), 
-> as well as the films [[Doom(game)/Doom(film)]] and Doom: Annihilation (2019).
+> as well as the films [[Doom(game)/Doom(film)|Doom(film)]] and Doom: Annihilation (2019).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Doom%20(1993%20video%20game)) 
 

@@ -50,12 +50,12 @@ aliases:
 - 군복
 has_id_wikidata: Q1196123
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-studied_by: '[[_Standards/WikiData/WD~cultural_history_of_the_military,1593568]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+studied_by: '[[_Standards/WikiData/WD~cultural_history_of_the_military,1593568|WD~cultural_history_of_the_military,1593568]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~military_personal_equipment,11798718]]'
-- '[[_Standards/WikiData/WD~uniform,7434]]'
+- '[[_Standards/WikiData/WD~military_personal_equipment,11798718|WD~military_personal_equipment,11798718]]'
+- '[[_Standards/WikiData/WD~uniform,7434|WD~uniform,7434]]'
 Nomenclature_for_Museum_Cataloging: 14129
 U_S_National_Archives_Identifier: 10675204
 Thomson_Reuters_Business_Classification: 5210101018

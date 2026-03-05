@@ -5,73 +5,73 @@ aliases:
   - Burton Leon Reynolds Jr.
 has_id_wikidata: Q202148
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actor,602299]]"
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291|WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
+  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actor,602299|WD~Golden_Raspberry_Award_for_Worst_Actor,602299]]"
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~voice_actor,2405480]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~American_football_player,19204627]]"
-  - "[[_Standards/WikiData/WD~producer,47541952]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
+  - "[[_Standards/WikiData/WD~singer,177220|WD~singer,177220]]"
+  - "[[_Standards/WikiData/WD~voice_actor,2405480|WD~voice_actor,2405480]]"
+  - "[[_Standards/WikiData/WD~film_director,2526255|WD~film_director,2526255]]"
+  - "[[_Standards/WikiData/WD~film_producer,3282637|WD~film_producer,3282637]]"
+  - "[[_Standards/WikiData/WD~director,3455803|WD~director,3455803]]"
+  - "[[_Standards/WikiData/WD~television_actor,10798782|WD~television_actor,10798782]]"
+  - "[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]"
+  - "[[_Standards/WikiData/WD~American_football_player,19204627|WD~American_football_player,19204627]]"
+  - "[[_Standards/WikiData/WD~producer,47541952|WD~producer,47541952]]"
+  - "[[_Standards/WikiData/WD~screenwriter,28389|WD~screenwriter,28389]]"
+  - "[[_Standards/WikiData/WD~actor,33999|WD~actor,33999]]"
+  - "[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]"
+  - "[[_Standards/WikiData/WD~businessperson,43845|WD~businessperson,43845]]"
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Sally_Field,187033]]"
-  - "[[_Standards/WikiData/WD~Dinah_Shore,466502]]"
-cause_of_death: "[[_Standards/WikiData/WD~cardiac_arrest,202837]]"
-field_of_work: "[[_Standards/WikiData/WD~acting,222749]]"
+  - "[[_Standards/WikiData/WD~Sally_Field,187033|WD~Sally_Field,187033]]"
+  - "[[_Standards/WikiData/WD~Dinah_Shore,466502|WD~Dinah_Shore,466502]]"
+cause_of_death: "[[_Standards/WikiData/WD~cardiac_arrest,202837|WD~cardiac_arrest,202837]]"
+field_of_work: "[[_Standards/WikiData/WD~acting,222749|WD~acting,222749]]"
 spouse:
-  - "[[_Standards/WikiData/WD~Loni_Anderson,266340]]"
-  - "[[_Standards/WikiData/WD~Judy_Carne,3188034]]"
+  - "[[_Standards/WikiData/WD~Loni_Anderson,266340|WD~Loni_Anderson,266340]]"
+  - "[[_Standards/WikiData/WD~Judy_Carne,3188034|WD~Judy_Carne,3188034]]"
 notable_work:
-  - "[[_Standards/WikiData/WD~Boogie_Nights,291170]]"
-  - "[[_Standards/WikiData/WD~Smokey_and_the_Bandit,521948]]"
-  - "[[_Standards/WikiData/WD~The_Cannonball_Run,759359]]"
-  - "[[_Standards/WikiData/WD~Deliverance,814778]]"
-  - "[[_Standards/WikiData/WD~The_Longest_Yard,1218665]]"
+  - "[[_Standards/WikiData/WD~Boogie_Nights,291170|WD~Boogie_Nights,291170]]"
+  - "[[_Standards/WikiData/WD~Smokey_and_the_Bandit,521948|WD~Smokey_and_the_Bandit,521948]]"
+  - "[[_Standards/WikiData/WD~The_Cannonball_Run,759359|WD~The_Cannonball_Run,759359]]"
+  - "[[_Standards/WikiData/WD~Deliverance,814778|WD~Deliverance,814778]]"
+  - "[[_Standards/WikiData/WD~The_Longest_Yard,1218665|WD~The_Longest_Yard,1218665]]"
 educated_at:
-  - "[[_Standards/WikiData/WD~Florida_State_University,861548]]"
-  - "[[_Standards/WikiData/WD~Neighborhood_Playhouse_School_of_the_Theatre,993267]]"
-  - "[[_Standards/WikiData/WD~Palm_Beach_Lakes_Community_High_School,7127998]]"
-  - "[[_Standards/WikiData/WD~Palm_Beach_State_College,7128010]]"
-position_played_on_team_speciality: "[[_Standards/WikiData/WD~running_back,912985]]"
-place_of_death: "[[_Standards/WikiData/WD~Jupiter,986329]]"
+  - "[[_Standards/WikiData/WD~Florida_State_University,861548|WD~Florida_State_University,861548]]"
+  - "[[_Standards/WikiData/WD~Neighborhood_Playhouse_School_of_the_Theatre,993267|WD~Neighborhood_Playhouse_School_of_the_Theatre,993267]]"
+  - "[[_Standards/WikiData/WD~Palm_Beach_Lakes_Community_High_School,7127998|WD~Palm_Beach_Lakes_Community_High_School,7127998]]"
+  - "[[_Standards/WikiData/WD~Palm_Beach_State_College,7128010|WD~Palm_Beach_State_College,7128010]]"
+position_played_on_team_speciality: "[[_Standards/WikiData/WD~running_back,912985|WD~running_back,912985]]"
+place_of_death: "[[_Standards/WikiData/WD~Jupiter,986329|WD~Jupiter,986329]]"
 award_received:
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series,989442]]"
-  - "[[_Standards/WikiData/WD~Florida_Artists_Hall_of_Fame,5461189]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-place_of_burial: "[[_Standards/WikiData/WD~Hollywood_Forever_Cemetery,1624932]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-member_of_sports_team: "[[_Standards/WikiData/WD~Florida_State_Seminoles_football,5461626]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-related_category: "[[_Standards/WikiData/WD~Category_Films_directed_by_Burt_Reynolds,8453218]]"
-family_name: "[[_Standards/WikiData/WD~Reynolds,14648920]]"
+  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series,989442|WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series,989442]]"
+  - "[[_Standards/WikiData/WD~Florida_Artists_Hall_of_Fame,5461189|WD~Florida_Artists_Hall_of_Fame,5461189]]"
+  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761|WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+place_of_burial: "[[_Standards/WikiData/WD~Hollywood_Forever_Cemetery,1624932|WD~Hollywood_Forever_Cemetery,1624932]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]"
+member_of_sports_team: "[[_Standards/WikiData/WD~Florida_State_Seminoles_football,5461626|WD~Florida_State_Seminoles_football,5461626]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]"
+related_category: "[[_Standards/WikiData/WD~Category_Films_directed_by_Burt_Reynolds,8453218|WD~Category_Films_directed_by_Burt_Reynolds,8453218]]"
+family_name: "[[_Standards/WikiData/WD~Reynolds,14648920|WD~Reynolds,14648920]]"
 given_name:
-  - "[[_Standards/WikiData/WD~Burton,15845626]]"
-  - "[[_Standards/WikiData/WD~Leon,37080]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-genre: "[[_Standards/WikiData/WD~Western,21590660]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Burt_Reynolds,55275488]]"
-filmography: "[[_Standards/WikiData/WD~Burt_Reynolds_filmography,55606205]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-father: "[[_Standards/WikiData/WD~Burton_Milo_Reynolds,_Sr.,101423832]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~Lansing,28237]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Burton,15845626|WD~Burton,15845626]]"
+  - "[[_Standards/WikiData/WD~Leon,37080|WD~Leon,37080]]"
+instrument: "[[_Standards/WikiData/WD~voice,17172850|WD~voice,17172850]]"
+genre: "[[_Standards/WikiData/WD~Western,21590660|WD~Western,21590660]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Burt_Reynolds,55275488|WD~Category_Burt_Reynolds,55275488]]"
+filmography: "[[_Standards/WikiData/WD~Burt_Reynolds_filmography,55606205|WD~Burt_Reynolds_filmography,55606205]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]"
+father: "[[_Standards/WikiData/WD~Burton_Milo_Reynolds,_Sr.,101423832|WD~Burton_Milo_Reynolds,_Sr.,101423832]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+writing_language: "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+native_language: "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+place_of_birth: "[[_Standards/WikiData/WD~Lansing,28237|WD~Lansing,28237]]"
+instance_of: "[[_Standards/WikiData/WD~human,5|WD~human,5]]"
+country_for_sport: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 number_of_children: 1
 net_worth: 3000000
-sport: "[[_Standards/WikiData/WD~American_football,41323]]"
+sport: "[[_Standards/WikiData/WD~American_football,41323|WD~American_football,41323]]"
 date_of_death: 2018-09-06T00:00:00Z
 Commons_gallery: Burt Reynolds
 Commons_category: Burt Reynolds
@@ -95,7 +95,7 @@ end_of_work_period: 2018-01-01T00:00:00Z
 
 # [[Reynolds,Burt]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Burt_Reynolds,202148]]
+#is_/same_as :: [[_Standards/WikiData/WD~Burt_Reynolds,202148|WD~Burt_Reynolds,202148]]
 
 ## #has_/text_of_/abstract 
 
@@ -144,6 +144,6 @@ end_of_work_period: 2018-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Burt%20Reynolds)  
 
-He was the Role-Model for Brad Pitts Stuntman in [[../../Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood]]
+He was the Role-Model for Brad Pitts Stuntman in [[../../Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood|Once_Upon_a_Time_in_Hollywood]]
 
 

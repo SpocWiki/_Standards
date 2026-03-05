@@ -61,58 +61,58 @@ Krugosvet_article: istoriya/DEN_SYAOPIN.html
 date_of_death: 1997-02-19T00:00:00Z
 date_of_birth: 1904-08-22T00:00:00Z
 occupation:
-- '[[_Standards/WikiData/WD~politician,82955]]'
-- '[[_Standards/WikiData/WD~diplomat,193391]]'
-- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~politician,82955|WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~diplomat,193391|WD~diplomat,193391]]'
+- '[[_Standards/WikiData/WD~journalist,1930187|WD~journalist,1930187]]'
 child:
-- '[[_Standards/WikiData/WD~Deng_Pufang,137538]]'
-- '[[_Standards/WikiData/WD~Deng_Nan,500745]]'
-- '[[_Standards/WikiData/WD~Deng_Rong,4121541]]'
-- '[[_Standards/WikiData/WD~Deng_Zhifang,15240891]]'
+- '[[_Standards/WikiData/WD~Deng_Pufang,137538|WD~Deng_Pufang,137538]]'
+- '[[_Standards/WikiData/WD~Deng_Nan,500745|WD~Deng_Nan,500745]]'
+- '[[_Standards/WikiData/WD~Deng_Rong,4121541|WD~Deng_Rong,4121541]]'
+- '[[_Standards/WikiData/WD~Deng_Zhifang,15240891|WD~Deng_Zhifang,15240891]]'
 spouse:
-- '[[_Standards/WikiData/WD~Zhuo_Lin,198231]]'
-- '[[_Standards/WikiData/WD~Zhang_Xiyuan,4121474]]'
-- '[[_Standards/WikiData/WD~Jin_Weiying,4121487]]'
-military_branch: '[[_Standards/WikiData/WD~People_s_Liberation_Army,200106]]'
+- '[[_Standards/WikiData/WD~Zhuo_Lin,198231|WD~Zhuo_Lin,198231]]'
+- '[[_Standards/WikiData/WD~Zhang_Xiyuan,4121474|WD~Zhang_Xiyuan,4121474]]'
+- '[[_Standards/WikiData/WD~Jin_Weiying,4121487|WD~Jin_Weiying,4121487]]'
+military_branch: '[[_Standards/WikiData/WD~People_s_Liberation_Army,200106|WD~People_s_Liberation_Army,200106]]'
 educated_at:
-- '[[_Standards/WikiData/WD~Moscow_Sun_Yat_sen_University,339694]]'
-- '[[_Standards/WikiData/WD~Communist_University_of_the_Toilers_of_the_East,1144000]]'
-- '[[_Standards/WikiData/WD~Q125785011,125785011]]'
-military_or_police_rank: '[[_Standards/WikiData/WD~commander_in_chief,380782]]'
+- '[[_Standards/WikiData/WD~Moscow_Sun_Yat_sen_University,339694|WD~Moscow_Sun_Yat_sen_University,339694]]'
+- '[[_Standards/WikiData/WD~Communist_University_of_the_Toilers_of_the_East,1144000|WD~Communist_University_of_the_Toilers_of_the_East,1144000]]'
+- '[[_Standards/WikiData/WD~Q125785011,125785011|WD~Q125785011,125785011]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~commander_in_chief,380782|WD~commander_in_chief,380782]]'
 position_held:
-- "[[_Standards/WikiData/WD~Vice_Premier_of_the_State_Council_of_the_People's_Republic_of_China,508368]]"
-- "[[_Standards/WikiData/WD~Chairman_of_the_National_Committee_of_the_Chinese_People's_Political_Consultative_Conference,3400466]]"
-- "[[_Standards/WikiData/WD~General_Secretary_of_the_Central_Committee's_Secretariat,6299726]]"
-- '[[_Standards/WikiData/WD~Chairman_of_the_Central_Military_Commission_of_the_Chinese_Communist_Party,20792297]]'
-- "[[_Standards/WikiData/WD~Chairman_of_the_Central_Military_Commission_of_the_People's_Republic_of_China,20792347]]"
-- '[[_Standards/WikiData/WD~member_of_the_Politburo_Standing_Committee_of_the_Chinese_Communist_Party,42327067]]'
-- "[[_Standards/WikiData/WD~paramount_leader_of_the_People's_Republic_of_China,50684]]"
-family_name: '[[_Standards/WikiData/WD~Deng,2578531]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+- "[[_Standards/WikiData/WD~Vice_Premier_of_the_State_Council_of_the_People's_Republic_of_China,508368|WD~Vice_Premier_of_the_State_Council_of_the_People's_Republic_of_China,508368]]"
+- "[[_Standards/WikiData/WD~Chairman_of_the_National_Committee_of_the_Chinese_People's_Political_Consultative_Conference,3400466|WD~Chairman_of_the_National_Committee_of_the_Chinese_People's_Political_Consultative_Conference,3400466]]"
+- "[[_Standards/WikiData/WD~General_Secretary_of_the_Central_Committee's_Secretariat,6299726|WD~General_Secretary_of_the_Central_Committee's_Secretariat,6299726]]"
+- '[[_Standards/WikiData/WD~Chairman_of_the_Central_Military_Commission_of_the_Chinese_Communist_Party,20792297|WD~Chairman_of_the_Central_Military_Commission_of_the_Chinese_Communist_Party,20792297]]'
+- "[[_Standards/WikiData/WD~Chairman_of_the_Central_Military_Commission_of_the_People's_Republic_of_China,20792347|WD~Chairman_of_the_Central_Military_Commission_of_the_People's_Republic_of_China,20792347]]"
+- '[[_Standards/WikiData/WD~member_of_the_Politburo_Standing_Committee_of_the_Chinese_Communist_Party,42327067|WD~member_of_the_Politburo_Standing_Committee_of_the_Chinese_Communist_Party,42327067]]'
+- "[[_Standards/WikiData/WD~paramount_leader_of_the_People's_Republic_of_China,50684|WD~paramount_leader_of_the_People's_Republic_of_China,50684]]"
+family_name: '[[_Standards/WikiData/WD~Deng,2578531|WD~Deng,2578531]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
 award_received:
-- '[[_Standards/WikiData/WD~Financial_Times_Person_of_the_Year,5449677]]'
-- "[[_Standards/WikiData/WD~People's_Liberation_Army_Strategist,10872938]]"
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-place_of_birth: '[[_Standards/WikiData/WD~Guanganzhou,11064571]]'
+- '[[_Standards/WikiData/WD~Financial_Times_Person_of_the_Year,5449677|WD~Financial_Times_Person_of_the_Year,5449677]]'
+- "[[_Standards/WikiData/WD~People's_Liberation_Army_Strategist,10872938|WD~People's_Liberation_Army_Strategist,10872938]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+place_of_birth: '[[_Standards/WikiData/WD~Guanganzhou,11064571|WD~Guanganzhou,11064571]]'
 writing_language:
-- '[[_Standards/WikiData/WD~Simplified_Chinese,13414913]]'
-- '[[_Standards/WikiData/WD~Traditional_Chinese,18130932]]'
+- '[[_Standards/WikiData/WD~Simplified_Chinese,13414913|WD~Simplified_Chinese,13414913]]'
+- '[[_Standards/WikiData/WD~Traditional_Chinese,18130932|WD~Traditional_Chinese,18130932]]'
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~Republic_of_China,13426199]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-residence: '[[_Standards/WikiData/WD~Q21018281,21018281]]'
-given_name: '[[_Standards/WikiData/WD~Xiǎopíng,74342320]]'
-place_of_death: '[[_Standards/WikiData/WD~Beijing,956]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
-native_language: '[[_Standards/WikiData/WD~Chinese,7850]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Chinese,7850]]'
-medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
-cause_of_death: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
+- '[[_Standards/WikiData/WD~Republic_of_China,13426199|WD~Republic_of_China,13426199]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+residence: '[[_Standards/WikiData/WD~Q21018281,21018281|WD~Q21018281,21018281]]'
+given_name: '[[_Standards/WikiData/WD~Xiǎopíng,74342320|WD~Xiǎopíng,74342320]]'
+place_of_death: '[[_Standards/WikiData/WD~Beijing,956|WD~Beijing,956]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066|WD~atheism,7066]]'
+native_language: '[[_Standards/WikiData/WD~Chinese,7850|WD~Chinese,7850]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Chinese,7850|WD~Chinese,7850]]'
+medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085|WD~Parkinson's_disease,11085]]"
+cause_of_death: "[[_Standards/WikiData/WD~Parkinson's_disease,11085|WD~Parkinson's_disease,11085]]"
 member_of_political_party:
-- '[[_Standards/WikiData/WD~Chinese_Communist_Party,17427]]'
-- '[[_Standards/WikiData/WD~Kuomintang,31113]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-ethnic_group: '[[_Standards/WikiData/WD~Han_Chinese_people,42740]]'
+- '[[_Standards/WikiData/WD~Chinese_Communist_Party,17427|WD~Chinese_Communist_Party,17427]]'
+- '[[_Standards/WikiData/WD~Kuomintang,31113|WD~Kuomintang,31113]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+ethnic_group: '[[_Standards/WikiData/WD~Han_Chinese_people,42740|WD~Han_Chinese_people,42740]]'
 Commons_gallery: Deng Xiaoping
 Commons_category: Deng Xiaoping
 BHCL_UUID: 64714cb6-7e7b-48e8-bae4-0eed96e24d08

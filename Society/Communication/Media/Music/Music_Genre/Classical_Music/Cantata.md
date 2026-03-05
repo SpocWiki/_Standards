@@ -28,23 +28,23 @@ aliases:
 - 清唱劇
 - 칸타타
 has_id_wikidata: Q174873
-different_from: '[[_Standards/WikiData/WD~oratorio,85477]]'
+different_from: '[[_Standards/WikiData/WD~oratorio,85477|WD~oratorio,85477]]'
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~musical_form,862597]]'
-- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_form,862597|WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333|WD~type_of_musical_work_composition,107487333]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
-- '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~composed_musical_work,207628|WD~composed_musical_work,207628]]'
+- '[[_Standards/WikiData/WD~classical_music,9730|WD~classical_music,9730]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749|WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
 inception: 1600-01-01T00:00:00Z
-language_of_work_or_name: '[[_Standards/WikiData/WD~Italian,652]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]'
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bach%20Cantata%2029%20Sinfonia%2001.wav
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Soloquartet%20and%20strings.jpg
 P8189: 987007283199705171

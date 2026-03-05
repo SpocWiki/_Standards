@@ -70,16 +70,16 @@ aliases:
 - 코코넛 밀크
 has_id_wikidata: Q841779
 different_from:
-- '[[_Standards/WikiData/WD~Gata,399713]]'
-- '[[_Standards/WikiData/WD~Guta,1217393]]'
+- '[[_Standards/WikiData/WD~Gata,399713|WD~Gata,399713]]'
+- '[[_Standards/WikiData/WD~Guta,1217393|WD~Guta,1217393]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~plant_milk,2640574]]'
-- '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467]]'
+- '[[_Standards/WikiData/WD~plant_milk,2640574|WD~plant_milk,2640574]]'
+- '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467|WD~non_alcoholic_beverage,2647467]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~grated_coconut,11117594]]'
-- '[[_Standards/WikiData/WD~water,283]]'
-instance_of: '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-has_use: '[[_Standards/WikiData/WD~pandan_waffle,69102980]]'
+- '[[_Standards/WikiData/WD~grated_coconut,11117594|WD~grated_coconut,11117594]]'
+- '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
+instance_of: '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+has_use: '[[_Standards/WikiData/WD~pandan_waffle,69102980|WD~pandan_waffle,69102980]]'
 USDA_NDB_number: 12118
 Commons_category: Coconut milk
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coconut%20milk%20from%20can01.JPG

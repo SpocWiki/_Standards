@@ -29,7 +29,7 @@ type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
   inverse: "[[is_founder_of]]"
-  parent_relation: "[[has_parent/has_creator]]"
+  parent_relation: "[[has_parent/has_creator|has_creator]]"
   domain: "[[../../../Society/Agent/Community/Organization|Organization]]"
   name: has_founder
 dv_has_range: "[[../../../Society/Agent/Person|Person]]"
@@ -43,7 +43,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_founder.personal|has_founder.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_founder.secret|has_founder.secret]]"
 dv_has_inverse: "[[is_founder_of]]"
-dv_has_parent_relation: "[[has_parent/has_creator]]"
+dv_has_parent_relation: "[[has_parent/has_creator|has_creator]]"
 dv_has_domain: "[[../../../Society/Agent/Community/Organization|Organization]]"
 dv_has_name: has_founder
 dv_is_same_as:

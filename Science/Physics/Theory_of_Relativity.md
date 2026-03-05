@@ -117,28 +117,28 @@ aliases:
 - 상대성리론
 - 상대성이론
 has_id_wikidata: Q43514
-is_the_study_of: '[[_Standards/WikiData/WD~spacetime,133327]]'
+is_the_study_of: '[[_Standards/WikiData/WD~spacetime,133327|WD~spacetime,133327]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~spacetime,133327]]'
-- '[[_Standards/WikiData/WD~time_dilation,185918]]'
-- '[[_Standards/WikiData/WD~length_contraction,836595]]'
-- '[[_Standards/WikiData/WD~relativity,983751]]'
-- '[[_Standards/WikiData/WD~mass_energy_equivalence,35875]]'
-part_of: '[[_Standards/WikiData/WD~modern_physics,658544]]'
-different_from: '[[_Standards/WikiData/WD~relativity,983751]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_special_relativity,1095704]]'
-subclass_of: '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
+- '[[_Standards/WikiData/WD~spacetime,133327|WD~spacetime,133327]]'
+- '[[_Standards/WikiData/WD~time_dilation,185918|WD~time_dilation,185918]]'
+- '[[_Standards/WikiData/WD~length_contraction,836595|WD~length_contraction,836595]]'
+- '[[_Standards/WikiData/WD~relativity,983751|WD~relativity,983751]]'
+- '[[_Standards/WikiData/WD~mass_energy_equivalence,35875|WD~mass_energy_equivalence,35875]]'
+part_of: '[[_Standards/WikiData/WD~modern_physics,658544|WD~modern_physics,658544]]'
+different_from: '[[_Standards/WikiData/WD~relativity,983751|WD~relativity,983751]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_special_relativity,1095704|WD~history_of_special_relativity,1095704]]'
+subclass_of: '[[_Standards/WikiData/WD~scientific_theory,3239681|WD~scientific_theory,3239681]]'
 instance_of:
-- '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
-- '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Relativity,14839046]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-practiced_by: '[[_Standards/WikiData/WD~relativity_theorist,109096773]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110314677,110314677]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Albert_Einstein,937]]'
+- '[[_Standards/WikiData/WD~scientific_theory,3239681|WD~scientific_theory,3239681]]'
+- '[[_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Relativity,14839046|WD~Template_Relativity,14839046]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+practiced_by: '[[_Standards/WikiData/WD~relativity_theorist,109096773|WD~relativity_theorist,109096773]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110314677,110314677|WD~Q110314677,110314677]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Albert_Einstein,937|WD~Albert_Einstein,937]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~special_relativity,11455]]'
-- '[[_Standards/WikiData/WD~general_relativity,11452]]'
+- '[[_Standards/WikiData/WD~special_relativity,11455|WD~special_relativity,11455]]'
+- '[[_Standards/WikiData/WD~general_relativity,11452|WD~general_relativity,11452]]'
 Library_of_Congress_Classification: QC173.5-QC173.65
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20line.svg
 Dewey_Decimal_Classification: 530.11

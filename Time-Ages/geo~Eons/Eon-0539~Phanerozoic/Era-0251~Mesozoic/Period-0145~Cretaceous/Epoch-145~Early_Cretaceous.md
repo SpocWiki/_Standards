@@ -48,12 +48,12 @@ aliases:
 - 백악기 전기
 ischart: LowerCretaceous
 has_id_wikidata: Q752187
-named_after: '[[_Standards/WikiData/WD~chalk,183670]]'
+named_after: '[[_Standards/WikiData/WD~chalk,183670|WD~chalk,183670]]'
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Cretaceous,20078603]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Cretaceous,20078603|WD~Category_Early_Cretaceous,20078603]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -100500000-01-01T00:00:00Z
 start_time: -145000000-01-01T00:00:00Z
 Commons_category: Early Cretaceous
@@ -181,7 +181,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 145.0 to 100.5 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-120_Ma_(Aptian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-120_Ma_(Aptian_Age).png|Earth-120_Ma_(Aptian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

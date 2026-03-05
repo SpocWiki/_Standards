@@ -68,35 +68,35 @@ aliases:
 - 구글 검색
 has_id_wikidata: Q9366
 distributed_by:
-- '[[_Standards/WikiData/WD~Google_Play,79576]]'
-- '[[_Standards/WikiData/WD~Microsoft_Store,135288]]'
-- '[[_Standards/WikiData/WD~Q368215,368215]]'
+- '[[_Standards/WikiData/WD~Google_Play,79576|WD~Google_Play,79576]]'
+- '[[_Standards/WikiData/WD~Microsoft_Store,135288|WD~Microsoft_Store,135288]]'
+- '[[_Standards/WikiData/WD~Q368215,368215|WD~Q368215,368215]]'
 creator:
-- '[[_Standards/WikiData/WD~Sergey_Brin,92764]]'
-- '[[_Standards/WikiData/WD~Larry_Page,4934]]'
+- '[[_Standards/WikiData/WD~Sergey_Brin,92764|WD~Sergey_Brin,92764]]'
+- '[[_Standards/WikiData/WD~Larry_Page,4934|WD~Larry_Page,4934]]'
 founded_by:
-- '[[_Standards/WikiData/WD~Sergey_Brin,92764]]'
-- '[[_Standards/WikiData/WD~Larry_Page,4934]]'
+- '[[_Standards/WikiData/WD~Sergey_Brin,92764|WD~Sergey_Brin,92764]]'
+- '[[_Standards/WikiData/WD~Larry_Page,4934|WD~Larry_Page,4934]]'
 author:
-- '[[_Standards/WikiData/WD~Sergey_Brin,92764]]'
-- '[[_Standards/WikiData/WD~Larry_Page,4934]]'
-access_restriction_status: '[[_Standards/WikiData/WD~open_access,232932]]'
-industry: '[[_Standards/WikiData/WD~online_advertising,624902]]'
+- '[[_Standards/WikiData/WD~Sergey_Brin,92764|WD~Sergey_Brin,92764]]'
+- '[[_Standards/WikiData/WD~Larry_Page,4934|WD~Larry_Page,4934]]'
+access_restriction_status: '[[_Standards/WikiData/WD~open_access,232932|WD~open_access,232932]]'
+industry: '[[_Standards/WikiData/WD~online_advertising,624902|WD~online_advertising,624902]]'
 different_from:
-- '[[_Standards/WikiData/WD~Google,961680]]'
-- '[[_Standards/WikiData/WD~Google_AI,30688088]]'
-- '[[_Standards/WikiData/WD~googol,507]]'
-instance_of: '[[_Standards/WikiData/WD~search_engine,4182287]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Google,6372045]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~multiple_languages,20923490]]'
-award_received: '[[_Standards/WikiData/WD~BigBrotherAwards,110530811]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116447814,116447814]]'
+- '[[_Standards/WikiData/WD~Google,961680|WD~Google,961680]]'
+- '[[_Standards/WikiData/WD~Google_AI,30688088|WD~Google_AI,30688088]]'
+- '[[_Standards/WikiData/WD~googol,507|WD~googol,507]]'
+instance_of: '[[_Standards/WikiData/WD~search_engine,4182287|WD~search_engine,4182287]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Google,6372045|WD~Template_Google,6372045]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]'
+award_received: '[[_Standards/WikiData/WD~BigBrotherAwards,110530811|WD~BigBrotherAwards,110530811]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116447814,116447814|WD~Q116447814,116447814]]'
 programmed_in:
-- '[[../../../../../../../../WikiData/WD~Q2407,2407]]'
-- '[[../../../../../../../../WikiData/WD~Q15777,15777]]'
-- '[[_Standards/WikiData/WD~Q28865,28865]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-owned_by: '[[_Standards/WikiData/WD~Google,95]]'
+- '[[../../../../../../../../WikiData/WD~Q2407,2407|WD~Q2407,2407]]'
+- '[[../../../../../../../../WikiData/WD~Q15777,15777|WD~Q15777,15777]]'
+- '[[_Standards/WikiData/WD~Q28865,28865|WD~Q28865,28865]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+owned_by: '[[_Standards/WikiData/WD~Google,95|WD~Google,95]]'
 Similarweb_ranking: 1
 Alexa_rank: 1
 social_media_followers: 151519
@@ -128,35 +128,35 @@ aliases:
   - Google_Search
 has_id_wikidata: Q9366
 distributed_by:
-  - '[[_Standards/WikiData/WD~Google_Play,79576]]'
-  - '[[_Standards/WikiData/WD~Microsoft_Store,135288]]'
-  - '[[_Standards/WikiData/WD~Q368215,368215]]'
+  - '[[_Standards/WikiData/WD~Google_Play,79576|WD~Google_Play,79576]]'
+  - '[[_Standards/WikiData/WD~Microsoft_Store,135288|WD~Microsoft_Store,135288]]'
+  - '[[_Standards/WikiData/WD~Q368215,368215|WD~Q368215,368215]]'
 creator:
-  - '[[_Standards/WikiData/WD~Sergey_Brin,92764]]'
-  - '[[_Standards/WikiData/WD~Larry_Page,4934]]'
+  - '[[_Standards/WikiData/WD~Sergey_Brin,92764|WD~Sergey_Brin,92764]]'
+  - '[[_Standards/WikiData/WD~Larry_Page,4934|WD~Larry_Page,4934]]'
 founded_by:
-  - '[[_Standards/WikiData/WD~Sergey_Brin,92764]]'
-  - '[[_Standards/WikiData/WD~Larry_Page,4934]]'
+  - '[[_Standards/WikiData/WD~Sergey_Brin,92764|WD~Sergey_Brin,92764]]'
+  - '[[_Standards/WikiData/WD~Larry_Page,4934|WD~Larry_Page,4934]]'
 author:
-  - '[[_Standards/WikiData/WD~Sergey_Brin,92764]]'
-  - '[[_Standards/WikiData/WD~Larry_Page,4934]]'
-access_restriction_status: '[[_Standards/WikiData/WD~open_access,232932]]'
-industry: '[[_Standards/WikiData/WD~online_advertising,624902]]'
+  - '[[_Standards/WikiData/WD~Sergey_Brin,92764|WD~Sergey_Brin,92764]]'
+  - '[[_Standards/WikiData/WD~Larry_Page,4934|WD~Larry_Page,4934]]'
+access_restriction_status: '[[_Standards/WikiData/WD~open_access,232932|WD~open_access,232932]]'
+industry: '[[_Standards/WikiData/WD~online_advertising,624902|WD~online_advertising,624902]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Google,961680]]'
-  - '[[_Standards/WikiData/WD~Google_AI,30688088]]'
-  - '[[_Standards/WikiData/WD~googol,507]]'
-instance_of: '[[_Standards/WikiData/WD~search_engine,4182287]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Google,6372045]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~multiple_languages,20923490]]'
-award_received: '[[_Standards/WikiData/WD~BigBrotherAwards,110530811]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116447814,116447814]]'
+  - '[[_Standards/WikiData/WD~Google,961680|WD~Google,961680]]'
+  - '[[_Standards/WikiData/WD~Google_AI,30688088|WD~Google_AI,30688088]]'
+  - '[[_Standards/WikiData/WD~googol,507|WD~googol,507]]'
+instance_of: '[[_Standards/WikiData/WD~search_engine,4182287|WD~search_engine,4182287]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Google,6372045|WD~Template_Google,6372045]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]'
+award_received: '[[_Standards/WikiData/WD~BigBrotherAwards,110530811|WD~BigBrotherAwards,110530811]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116447814,116447814|WD~Q116447814,116447814]]'
 programmed_in:
-  - '[[../../../../../../../../WikiData/WD~Q2407,2407]]'
-  - '[[../../../../../../../../WikiData/WD~Q15777,15777]]'
-  - '[[_Standards/WikiData/WD~Q28865,28865]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-owned_by: '[[_Standards/WikiData/WD~Google,95]]'
+  - '[[../../../../../../../../WikiData/WD~Q2407,2407|WD~Q2407,2407]]'
+  - '[[../../../../../../../../WikiData/WD~Q15777,15777|WD~Q15777,15777]]'
+  - '[[_Standards/WikiData/WD~Q28865,28865|WD~Q28865,28865]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+owned_by: '[[_Standards/WikiData/WD~Google,95|WD~Google,95]]'
 Similarweb_ranking: 1
 Alexa_rank: 1
 social_media_followers: 151519

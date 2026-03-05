@@ -193,17 +193,17 @@ aliases:
 - ꯍꯪꯒꯥꯝꯄꯥꯟ
 - 노랑
 has_id_wikidata: Q943
-instance_of: '[[_Standards/WikiData/WD~primary_color,166902]]'
+instance_of: '[[_Standards/WikiData/WD~primary_color,166902|WD~primary_color,166902]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-different_from: '[[_Standards/WikiData/WD~Vàng,9393441]]'
-part_of: '[[_Standards/WikiData/WD~seven_prismatic_colors,43213808]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+different_from: '[[_Standards/WikiData/WD~Vàng,9393441|WD~Vàng,9393441]]'
+part_of: '[[_Standards/WikiData/WD~seven_prismatic_colors,43213808|WD~seven_prismatic_colors,43213808]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~color,1075]]'
-- '[[_Standards/WikiData/WD~light,9128]]'
-followed_by: '[[_Standards/WikiData/WD~green,3133]]'
-follows: '[[_Standards/WikiData/WD~orange,39338]]'
+- '[[_Standards/WikiData/WD~color,1075|WD~color,1075]]'
+- '[[_Standards/WikiData/WD~light,9128|WD~light,9128]]'
+followed_by: '[[_Standards/WikiData/WD~green,3133|WD~green,3133]]'
+follows: '[[_Standards/WikiData/WD~orange,39338|WD~orange,39338]]'
 frequency: 516000000000000
 wavelength: 575
 OmegaWiki_Defined_Meaning: 6031

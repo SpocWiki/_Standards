@@ -101,30 +101,30 @@ aliases:
 - 斯堪的纳维亚半岛
 - 스칸디나비아반도
 has_id_wikidata: Q73169
-highest_point: '[[_Standards/WikiData/WD~Galdhøpiggen,203942]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Fennoscandia,604496]]'
+highest_point: '[[_Standards/WikiData/WD~Galdhøpiggen,203942|WD~Galdhøpiggen,203942]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Fennoscandia,604496|WD~Fennoscandia,604496]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Varanger_Peninsula,911240]]'
-- '[[_Standards/WikiData/WD~Nordkinnhalvøya,1064604]]'
-- '[[_Standards/WikiData/WD~Porsanger_Peninsula,4456908]]'
-- '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~Varanger_Peninsula,911240|WD~Varanger_Peninsula,911240]]'
+- '[[_Standards/WikiData/WD~Nordkinnhalvøya,1064604|WD~Nordkinnhalvøya,1064604]]'
+- '[[_Standards/WikiData/WD~Porsanger_Peninsula,4456908|WD~Porsanger_Peninsula,4456908]]'
+- '[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Nationalencyklopedin,1165538]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Nationalencyklopedin,1165538|WD~Nationalencyklopedin,1165538]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 coordinate_location: Point(14.0 63.0)
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Baltic_Sea,545]]'
-- '[[_Standards/WikiData/WD~North_Sea,1693]]'
-- '[[_Standards/WikiData/WD~Barents_Sea,45823]]'
-- '[[_Standards/WikiData/WD~Norwegian_Sea,47545]]'
-named_after: '[[_Standards/WikiData/WD~Scandinavia,21195]]'
+- '[[_Standards/WikiData/WD~Baltic_Sea,545|WD~Baltic_Sea,545]]'
+- '[[_Standards/WikiData/WD~North_Sea,1693|WD~North_Sea,1693]]'
+- '[[_Standards/WikiData/WD~Barents_Sea,45823|WD~Barents_Sea,45823]]'
+- '[[_Standards/WikiData/WD~Norwegian_Sea,47545|WD~Norwegian_Sea,47545]]'
+named_after: '[[_Standards/WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]]'
 country:
-- '[[_Standards/WikiData/WD~Norway,20]]'
-- '[[_Standards/WikiData/WD~Sweden,34]]'
-- '[[_Standards/WikiData/WD~Finland,33]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
-instance_of: '[[_Standards/WikiData/WD~peninsula,34763]]'
+- '[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+instance_of: '[[_Standards/WikiData/WD~peninsula,34763|WD~peninsula,34763]]'
 area: 750000
 Commons_category: Scandinavia
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Iusratiarfauetn.jpg

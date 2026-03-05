@@ -30,16 +30,16 @@ aliases:
 - 코냐크절
 has_id_wikidata: Q645398
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Henri_Coquand,3130874]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Coniacian,21708743]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Coniacian,133895092]]'
-different_from: '[[_Standards/WikiData/WD~cognac,284]]'
-named_after: '[[_Standards/WikiData/WD~Cognac,285]]'
-significant_place: '[[_Standards/WikiData/WD~Salzgitter,3200]]'
-country: '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Henri_Coquand,3130874|WD~Henri_Coquand,3130874]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Coniacian,21708743|WD~Category_Coniacian,21708743]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Coniacian,133895092|WD~GSSP_for_the_base_of_the_Coniacian,133895092]]'
+different_from: '[[_Standards/WikiData/WD~cognac,284|WD~cognac,284]]'
+named_after: '[[_Standards/WikiData/WD~Cognac,285|WD~Cognac,285]]'
+significant_place: '[[_Standards/WikiData/WD~Salzgitter,3200|WD~Salzgitter,3200]]'
+country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 Commons_category: Coniacian
 start_time: -89800000-01-01T00:00:00Z
 end_time: -86300000-01-01T00:00:00Z

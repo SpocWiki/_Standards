@@ -71,25 +71,25 @@ aliases:
 - 천막
 has_id_wikidata: Q170544
 has_use:
-- '[[_Standards/WikiData/WD~concert,182832]]'
-- '[[_Standards/WikiData/WD~camping,455550]]'
-- '[[_Standards/WikiData/WD~outdoor_recreation,968907]]'
-- '[[_Standards/WikiData/WD~expedition,2401485]]'
-- '[[_Standards/WikiData/WD~circus,47928]]'
-- '[[_Standards/WikiData/WD~tourism,49389]]'
+- '[[_Standards/WikiData/WD~concert,182832|WD~concert,182832]]'
+- '[[_Standards/WikiData/WD~camping,455550|WD~camping,455550]]'
+- '[[_Standards/WikiData/WD~outdoor_recreation,968907|WD~outdoor_recreation,968907]]'
+- '[[_Standards/WikiData/WD~expedition,2401485|WD~expedition,2401485]]'
+- '[[_Standards/WikiData/WD~circus,47928|WD~circus,47928]]'
+- '[[_Standards/WikiData/WD~tourism,49389|WD~tourism,49389]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sports_equipment,768186]]'
-- '[[../../../../../WikiData/WD~shelter,989946]]'
-- '[[_Standards/WikiData/WD~temporary_structure,1240161]]'
+- '[[_Standards/WikiData/WD~sports_equipment,768186|WD~sports_equipment,768186]]'
+- '[[../../../../../WikiData/WD~shelter,989946|WD~shelter,989946]]'
+- '[[_Standards/WikiData/WD~temporary_structure,1240161|WD~temporary_structure,1240161]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-part_of: '[[_Standards/WikiData/WD~hiking_equipment,16000111]]'
-has_characteristic: '[[_Standards/WikiData/WD~portability,68015325]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+part_of: '[[_Standards/WikiData/WD~hiking_equipment,16000111|WD~hiking_equipment,16000111]]'
+has_characteristic: '[[_Standards/WikiData/WD~portability,68015325|WD~portability,68015325]]'
 Nomenclature_for_Museum_Cataloging: 954
 U_S_National_Archives_Identifier: 10647749
 Iconclass_notation: 41A191

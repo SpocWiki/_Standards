@@ -4,7 +4,7 @@ aliases:
   - Cell,film@2000
 ---
 
-> The Cell is a 2000 science fiction psychological thriller film directed by [[../Movie-Directors/Tarsem Singh]] 
+> The Cell is a 2000 science fiction psychological thriller film directed by [[../Movie-Directors/Tarsem Singh|Tarsem Singh]] 
 > in his directorial debut, and starring [[Jennifer Lopez]], [[Vince Vaughn]], and [[Vincent D'Onofrio]]. 
 > The film follows scientists as they use experimental technology 
 > to enter the mind of a comatose serial killer 

@@ -74,23 +74,23 @@ aliases:
 - 고딕 미술
 has_id_wikidata: Q46825
 has_part_s_:
-- '[[_Standards/WikiData/WD~Gothic_architecture,176483]]'
-- '[[_Standards/WikiData/WD~International_Gothic,867769]]'
-- '[[_Standards/WikiData/WD~Gothic_painting,947129]]'
-- '[[_Standards/WikiData/WD~Gothic_sculpture,1277524]]'
-has_effect: '[[_Standards/WikiData/WD~Gothic_Revival,186363]]'
-different_from: '[[_Standards/WikiData/WD~gothic_rock,485395]]'
+- '[[_Standards/WikiData/WD~Gothic_architecture,176483|WD~Gothic_architecture,176483]]'
+- '[[_Standards/WikiData/WD~International_Gothic,867769|WD~International_Gothic,867769]]'
+- '[[_Standards/WikiData/WD~Gothic_painting,947129|WD~Gothic_painting,947129]]'
+- '[[_Standards/WikiData/WD~Gothic_sculpture,1277524|WD~Gothic_sculpture,1277524]]'
+has_effect: '[[_Standards/WikiData/WD~Gothic_Revival,186363|WD~Gothic_Revival,186363]]'
+different_from: '[[_Standards/WikiData/WD~gothic_rock,485395|WD~gothic_rock,485395]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_the_Middle_Ages,42962936]]'
-instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
-subclass_of: '[[_Standards/WikiData/WD~medieval_art,3624153]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_the_Middle_Ages,42962936|WD~Encyclopedia_of_the_Middle_Ages,42962936]]'
+instance_of: '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+subclass_of: '[[_Standards/WikiData/WD~medieval_art,3624153|WD~medieval_art,3624153]]'
 country:
-- '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548|WD~Holy_Roman_Empire,12548]]'
+- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 Commons_gallery: Gothic art
 Commons_category: Gothic art
 start_time: 1140-01-01T00:00:00Z

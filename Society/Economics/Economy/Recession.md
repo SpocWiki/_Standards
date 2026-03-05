@@ -59,15 +59,15 @@ aliases:
 - 경기후퇴
 has_id_wikidata: Q176494
 different_from:
-- '[[_Standards/WikiData/WD~steady_state_economy,134775]]'
-- '[[_Standards/WikiData/WD~economic_crisis,290178]]'
-- '[[_Standards/WikiData/WD~degrowth,611217]]'
-- '[[_Standards/WikiData/WD~economic_contraction,2995714]]'
-facet_of: '[[_Standards/WikiData/WD~economy,159810]]'
-opposite_of: '[[_Standards/WikiData/WD~economic_growth,189833]]'
-part_of: '[[_Standards/WikiData/WD~business_cycle,192311]]'
-subclass_of: '[[_Standards/WikiData/WD~social_issue,1920219]]'
-described_by_source: '[[_Standards/WikiData/WD~Investopedia,6060906]]'
+- '[[_Standards/WikiData/WD~steady_state_economy,134775|WD~steady_state_economy,134775]]'
+- '[[_Standards/WikiData/WD~economic_crisis,290178|WD~economic_crisis,290178]]'
+- '[[_Standards/WikiData/WD~degrowth,611217|WD~degrowth,611217]]'
+- '[[_Standards/WikiData/WD~economic_contraction,2995714|WD~economic_contraction,2995714]]'
+facet_of: '[[_Standards/WikiData/WD~economy,159810|WD~economy,159810]]'
+opposite_of: '[[_Standards/WikiData/WD~economic_growth,189833|WD~economic_growth,189833]]'
+part_of: '[[_Standards/WikiData/WD~business_cycle,192311|WD~business_cycle,192311]]'
+subclass_of: '[[_Standards/WikiData/WD~social_issue,1920219|WD~social_issue,1920219]]'
+described_by_source: '[[_Standards/WikiData/WD~Investopedia,6060906|WD~Investopedia,6060906]]'
 OmegaWiki_Defined_Meaning: 992666
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Run%20on%20the%20Seamen%27s%20Savings%27%20Bank%20during%20the%20Panic%20of%201857.png
 U_S_National_Archives_Identifier: 10642538

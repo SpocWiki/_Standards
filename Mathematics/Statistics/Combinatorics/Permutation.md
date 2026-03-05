@@ -61,23 +61,23 @@ aliases:
 - 置換
 - 순열
 has_id_wikidata: Q161519
-studied_by: '[[_Standards/WikiData/WD~combinatorics,76592]]'
-subclass_of: '[[_Standards/WikiData/WD~bijection,180907]]'
-different_from: '[[_Standards/WikiData/WD~combination,202805]]'
-has_characteristic: '[[_Standards/WikiData/WD~parity_of_a_permutation,1064405]]'
+studied_by: '[[_Standards/WikiData/WD~combinatorics,76592|WD~combinatorics,76592]]'
+subclass_of: '[[_Standards/WikiData/WD~bijection,180907|WD~bijection,180907]]'
+different_from: '[[_Standards/WikiData/WD~combination,202805|WD~combination,202805]]'
+has_characteristic: '[[_Standards/WikiData/WD~parity_of_a_permutation,1064405|WD~parity_of_a_permutation,1064405]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251|WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
 has_effect:
-- '[[_Standards/WikiData/WD~sorting,2303697]]'
-- '[[_Standards/WikiData/WD~arranging,36993249]]'
+- '[[_Standards/WikiData/WD~sorting,2303697|WD~sorting,2303697]]'
+- '[[_Standards/WikiData/WD~arranging,36993249|WD~arranging,36993249]]'
 instance_of:
-- '[[_Standards/WikiData/WD~unary_function,7882311]]'
-- '[[_Standards/WikiData/WD~integer_valued_function,19856468]]'
-- '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~unary_function,7882311|WD~unary_function,7882311]]'
+- '[[_Standards/WikiData/WD~integer_valued_function,19856468|WD~integer_valued_function,19856468]]'
+- '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C3;</mi><mo stretchy="false">:</mo><mo fence="false" stretchy="false">{</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mo stretchy="false">&#x2026;</mo><mo>,</mo><mi>n</mi><mo fence="false" stretchy="false">}</mo><mo stretchy="false">&#x2192;</mo><mo fence="false" stretchy="false">{</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mo stretchy="false">&#x2026;</mo><mo>,</mo><mi>n</mi><mo fence="false" stretchy="false">}</mo></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>P</mi><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msub><mo stretchy="false">=</mo><mi>n</mi><mo stretchy="false">!</mo></mstyle></mrow></math>

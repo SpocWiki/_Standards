@@ -57,17 +57,17 @@ aliases:
 - 기화
 has_id_wikidata: Q6452502
 different_from:
-- '[[_Standards/WikiData/WD~evaporation,132814]]'
-- '[[_Standards/WikiData/WD~vaporization,9256973]]'
-- '[[_Standards/WikiData/WD~boiling,41716]]'
-opposite_of: '[[_Standards/WikiData/WD~condensation,166583]]'
-subclass_of: '[[_Standards/WikiData/WD~phase_change,185357]]'
+- '[[_Standards/WikiData/WD~evaporation,132814|WD~evaporation,132814]]'
+- '[[_Standards/WikiData/WD~vaporization,9256973|WD~vaporization,9256973]]'
+- '[[_Standards/WikiData/WD~boiling,41716|WD~boiling,41716]]'
+opposite_of: '[[_Standards/WikiData/WD~condensation,166583|WD~condensation,166583]]'
+subclass_of: '[[_Standards/WikiData/WD~phase_change,185357|WD~phase_change,185357]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-uses: '[[_Standards/WikiData/WD~liquid_state_of_matter,6761456]]'
-has_effect: '[[_Standards/WikiData/WD~gaseous_state_of_matter,29147941]]'
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+uses: '[[_Standards/WikiData/WD~liquid_state_of_matter,6761456|WD~liquid_state_of_matter,6761456]]'
+has_effect: '[[_Standards/WikiData/WD~gaseous_state_of_matter,29147941|WD~gaseous_state_of_matter,29147941]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Phase%20change%20-%20en.svg
 Commons_category: Vaporization
 dv_has_:
@@ -139,8 +139,8 @@ dv_has_:
 # [[Vaporization]] 
 
 
-#has_/complement :: [[Phase_Transition/Condensation]] 
-#is_/same_as :: [[_Standards/WikiData/WD~vaporization,6452502]]
+#has_/complement :: [[Phase_Transition/Condensation|Condensation]] 
+#is_/same_as :: [[_Standards/WikiData/WD~vaporization,6452502|WD~vaporization,6452502]]
 
 ## #has_/text_of_/abstract 
 

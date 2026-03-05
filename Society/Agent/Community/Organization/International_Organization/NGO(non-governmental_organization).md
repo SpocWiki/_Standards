@@ -105,14 +105,14 @@ short_name:
 - NVO
 - НДА
 - NGO
-subclass_of: '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
-different_from: '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-opposite_of: '[[_Standards/WikiData/WD~government_organization,2659904]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~community_organization,3269648]]'
-instance_of: '[[_Standards/WikiData/WD~legal_form,10541491]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~social_organization,11799101]]'
+subclass_of: '[[_Standards/WikiData/WD~nonprofit_organization,163740|WD~nonprofit_organization,163740]]'
+different_from: '[[_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
+opposite_of: '[[_Standards/WikiData/WD~government_organization,2659904|WD~government_organization,2659904]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~community_organization,3269648|WD~community_organization,3269648]]'
+instance_of: '[[_Standards/WikiData/WD~legal_form,10541491|WD~legal_form,10541491]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~social_organization,11799101|WD~social_organization,11799101]]'
 described_at_URL: https://wikispooks.com/wiki/Non-governmental_organizations
-topic_has_template: '[[_Standards/WikiData/WD~Q18881752,18881752]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q18881752,18881752|WD~Q18881752,18881752]]'
 properties_for_this_type:
 - inception
 - official website
@@ -254,7 +254,7 @@ dv_has_:
 
 # [[NGO(non-governmental_organization)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~non_governmental_organization,79913]] 
+#is_/same_as :: [[_Standards/WikiData/WD~non_governmental_organization,79913|WD~non_governmental_organization,79913]] 
 
 ## #has_/text_of_/abstract 
 

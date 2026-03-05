@@ -64,25 +64,25 @@ aliases:
 - 자유지상주의
 has_id_wikidata: Q178598
 instance_of:
-- '[[_Standards/WikiData/WD~political_philosophy,179805]]'
-- '[[_Standards/WikiData/WD~political_movement,2738074]]'
-- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~political_philosophy,179805|WD~political_philosophy,179805]]'
+- '[[_Standards/WikiData/WD~political_movement,2738074|WD~political_movement,2738074]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~right_libertarianism,250598]]'
-- '[[_Standards/WikiData/WD~left_libertarianism,831192]]'
+- '[[_Standards/WikiData/WD~right_libertarianism,250598|WD~right_libertarianism,250598]]'
+- '[[_Standards/WikiData/WD~left_libertarianism,831192|WD~left_libertarianism,831192]]'
 has_goal:
-- '[[_Standards/WikiData/WD~autonomy,484105]]'
-- '[[_Standards/WikiData/WD~political_freedom,831058]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_libertarianism,3531509]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Libertarianism,15223267]]'
+- '[[_Standards/WikiData/WD~autonomy,484105|WD~autonomy,484105]]'
+- '[[_Standards/WikiData/WD~political_freedom,831058|WD~political_freedom,831058]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_libertarianism,3531509|WD~outline_of_libertarianism,3531509]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Libertarianism,15223267|WD~Portal_Libertarianism,15223267]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-based_on: '[[_Standards/WikiData/WD~liberty,2979]]'
-different_from: '[[_Standards/WikiData/WD~liberalism,6216]]'
-influenced_by: '[[_Standards/WikiData/WD~liberalism,6216]]'
-subclass_of: '[[_Standards/WikiData/WD~liberalism,6216]]'
+- '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404|WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+based_on: '[[_Standards/WikiData/WD~liberty,2979|WD~liberty,2979]]'
+different_from: '[[_Standards/WikiData/WD~liberalism,6216|WD~liberalism,6216]]'
+influenced_by: '[[_Standards/WikiData/WD~liberalism,6216|WD~liberalism,6216]]'
+subclass_of: '[[_Standards/WikiData/WD~liberalism,6216|WD~liberalism,6216]]'
 subreddit: Libertarian
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Libertarisme-article.ogg
 described_at_URL: https://mises.org/library/myth-and-truth-about-libertarianism

@@ -54,22 +54,22 @@ aliases:
 - 结晶
 - 결정화
 has_id_wikidata: Q284256
-partially_coincident_with: '[[_Standards/WikiData/WD~freezing,108000]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~freezing,108000|WD~freezing,108000]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~stochastic_process,176737]]'
-- '[[_Standards/WikiData/WD~thermodynamic_process,213016]]'
-- '[[_Standards/WikiData/WD~separation_process,898987]]'
-- '[[_Standards/WikiData/WD~self_assembly,910150]]'
+- '[[_Standards/WikiData/WD~stochastic_process,176737|WD~stochastic_process,176737]]'
+- '[[_Standards/WikiData/WD~thermodynamic_process,213016|WD~thermodynamic_process,213016]]'
+- '[[_Standards/WikiData/WD~separation_process,898987|WD~separation_process,898987]]'
+- '[[_Standards/WikiData/WD~self_assembly,910150|WD~self_assembly,910150]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 has_effect:
-- '[[_Standards/WikiData/WD~increase,9073584]]'
-- '[[_Standards/WikiData/WD~planned_creation,11398090]]'
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~increase,9073584|WD~increase,9073584]]'
+- '[[_Standards/WikiData/WD~planned_creation,11398090|WD~planned_creation,11398090]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Process-of-Crystallization-200px.png
 UMLS_CUI: C0010423
 Commons_category: Crystallization

@@ -49,16 +49,16 @@ aliases:
 - 패스너
 has_id_wikidata: Q2002016
 subclass_of:
-- '[[_Standards/WikiData/WD~machine_element,839546]]'
-- '[[_Standards/WikiData/WD~connector,18819626]]'
-- '[[_Standards/WikiData/WD~physical_tool,39546]]'
+- '[[_Standards/WikiData/WD~machine_element,839546|WD~machine_element,839546]]'
+- '[[_Standards/WikiData/WD~connector,18819626|WD~connector,18819626]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]'
 different_from:
-- '[[_Standards/WikiData/WD~coupling,944517]]'
-- '[[_Standards/WikiData/WD~fastening,91783762]]'
+- '[[_Standards/WikiData/WD~coupling,944517|WD~coupling,944517]]'
+- '[[_Standards/WikiData/WD~fastening,91783762|WD~fastening,91783762]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_machine_element,44409287]]'
-- '[[_Standards/WikiData/WD~type_of_physical_object_by_use,123035442]]'
-has_use: '[[_Standards/WikiData/WD~fastening,91783762]]'
+- '[[_Standards/WikiData/WD~type_of_machine_element,44409287|WD~type_of_machine_element,44409287]]'
+- '[[_Standards/WikiData/WD~type_of_physical_object_by_use,123035442|WD~type_of_physical_object_by_use,123035442]]'
+has_use: '[[_Standards/WikiData/WD~fastening,91783762|WD~fastening,91783762]]'
 Nomenclature_for_Museum_Cataloging: 6557
 subreddit: fasteners
 Commons_gallery: Fastener

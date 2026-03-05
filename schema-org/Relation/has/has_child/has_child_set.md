@@ -30,7 +30,7 @@ dv_has_child_set: "[[../../../Collection|Collection]]"
 dv_has_:
   sub_sets: "[[../../../Collection|Collection]]"
   domain: "[[../../../Collection|Collection]]"
-  inverse: "[[../has_parent/has_parent_set]]"
+  inverse: "[[../has_parent/has_parent_set|has_parent_set]]"
   name: has_child_set
   range: "[[../../../Collection|Collection]]"
 dv_is_:
@@ -46,7 +46,7 @@ dv_is_:
 dv_has_domain: "[[../../../Collection|Collection]]"
 dv_has_name: has_child_set
 dv_has_range: "[[../../../Collection|Collection]]"
-dv_has_inverse: "[[../has_parent/has_parent_set]]"
+dv_has_inverse: "[[../has_parent/has_parent_set|has_parent_set]]"
 dv_is_same_as:
   - "[[has_child_set]]"
   - "[[/_public/schema-org/Collection/has_child_set.public|has_child_set.public]]"

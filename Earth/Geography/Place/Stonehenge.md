@@ -50,53 +50,53 @@ P8189: 987007536419005171
 X_Twitter_username: EH_Stonehenge
 Krugosvet_article: istoriya/STONHENDZH.html
 heritage_designation:
-- '[[_Standards/WikiData/WD~scheduled_monument,219538]]'
-- '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
-owned_by: '[[_Standards/WikiData/WD~National_Trust,333515]]'
-architectural_style: '[[_Standards/WikiData/WD~prehistoric_Britain,435405]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Amesbury,470299]]'
+- '[[_Standards/WikiData/WD~scheduled_monument,219538|WD~scheduled_monument,219538]]'
+- '[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]'
+owned_by: '[[_Standards/WikiData/WD~National_Trust,333515|WD~National_Trust,333515]]'
+architectural_style: '[[_Standards/WikiData/WD~prehistoric_Britain,435405|WD~prehistoric_Britain,435405]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Amesbury,470299|WD~Amesbury,470299]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~archaeological_site,839954]]'
-- '[[_Standards/WikiData/WD~cromlech,935773]]'
-- '[[_Standards/WikiData/WD~henge,1035294]]'
-- '[[_Standards/WikiData/WD~monument,4989906]]'
-- '[[_Standards/WikiData/WD~history_museum,16735822]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]'
+- '[[_Standards/WikiData/WD~cromlech,935773|WD~cromlech,935773]]'
+- '[[_Standards/WikiData/WD~henge,1035294|WD~henge,1035294]]'
+- '[[_Standards/WikiData/WD~monument,4989906|WD~monument,4989906]]'
+- '[[_Standards/WikiData/WD~history_museum,16735822|WD~history_museum,16735822]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Q97948727,97948727]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]'
-operator: '[[_Standards/WikiData/WD~English_Heritage,936287]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q97948727,97948727|WD~Q97948727,97948727]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318|WD~Meyer_s_Universum,_Zehnter_Band,132672318]]'
+operator: '[[_Standards/WikiData/WD~English_Heritage,936287|WD~English_Heritage,936287]]'
 has_facility:
-- '[[_Standards/WikiData/WD~accessible_toilet,2775009]]'
-- '[[_Standards/WikiData/WD~Changing_Places_toilet,115144693]]'
+- '[[_Standards/WikiData/WD~accessible_toilet,2775009|WD~accessible_toilet,2775009]]'
+- '[[_Standards/WikiData/WD~Changing_Places_toilet,115144693|WD~Changing_Places_toilet,115144693]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~sarsen,2920343]]'
-- '[[_Standards/WikiData/WD~bluestone,56490299]]'
+- '[[_Standards/WikiData/WD~sarsen,2920343|WD~sarsen,2920343]]'
+- '[[_Standards/WikiData/WD~bluestone,56490299|WD~bluestone,56490299]]'
 World_Heritage_criteria:
-- '[[_Standards/WikiData/WD~(i),23038972]]'
-- '[[_Standards/WikiData/WD~(ii),23038976]]'
-- '[[_Standards/WikiData/WD~(iii),23038977]]'
-depicted_by: '[[_Standards/WikiData/WD~Stonehenge_with_Sheep,52155456]]'
-historic_county: '[[_Standards/WikiData/WD~Wiltshire,67575300]]'
+- '[[_Standards/WikiData/WD~(i),23038972|WD~(i),23038972]]'
+- '[[_Standards/WikiData/WD~(ii),23038976|WD~(ii),23038976]]'
+- '[[_Standards/WikiData/WD~(iii),23038977|WD~(iii),23038977]]'
+depicted_by: '[[_Standards/WikiData/WD~Stonehenge_with_Sheep,52155456|WD~Stonehenge_with_Sheep,52155456]]'
+historic_county: '[[_Standards/WikiData/WD~Wiltshire,67575300|WD~Wiltshire,67575300]]'
 inception:
 - -3000-06
 - -1848-01-01T00:00:00Z
-topic_has_template: '[[_Standards/WikiData/WD~Template_Stonehenge,99540863]]'
-has_part_s_: '[[_Standards/WikiData/WD~Stonehenge_stone_150,110065002]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Stonehenge,99540863|WD~Template_Stonehenge,99540863]]'
+has_part_s_: '[[_Standards/WikiData/WD~Stonehenge_stone_150,110065002|WD~Stonehenge_stone_150,110065002]]'
 coordinate_location: Point(-1.826111111 51.178888888)
 dissolved_abolished_or_demolished_date: -1399-01-01T00:00:00Z
-located_in_time_zone: '[[_Standards/WikiData/WD~Greenwich_Mean_Time,30192]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~Greenwich_Mean_Time,30192|WD~Greenwich_Mean_Time,30192]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 diameter:
 - 30
 - 104
-significant_event: '[[_Standards/WikiData/WD~Guinness_World_Records,41675]]'
+significant_event: '[[_Standards/WikiData/WD~Guinness_World_Records,41675|WD~Guinness_World_Records,41675]]'
 social_media_followers: 48311
 National_Heritage_List_for_England_number: 1010140
 described_at_URL:
@@ -266,7 +266,7 @@ dv_has_:
 
 # [[Stonehenge]] 
 
-![[../../../assets/Stonehenge.png]] 
+![[../../../assets/Stonehenge.png|Stonehenge.png]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Stonehenge,39671|WD~Stonehenge,39671]] 
 

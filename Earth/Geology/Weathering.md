@@ -71,24 +71,24 @@ aliases:
 - 풍화
 has_id_wikidata: Q179177
 has_effect:
-- '[[_Standards/WikiData/WD~erosion,80026]]'
-- '[[_Standards/WikiData/WD~smoothness,104177302]]'
-- '[[_Standards/WikiData/WD~limestone,23757]]'
-influenced_by: '[[_Standards/WikiData/WD~ocean_acidification,855711]]'
+- '[[_Standards/WikiData/WD~erosion,80026|WD~erosion,80026]]'
+- '[[_Standards/WikiData/WD~smoothness,104177302|WD~smoothness,104177302]]'
+- '[[_Standards/WikiData/WD~limestone,23757|WD~limestone,23757]]'
+influenced_by: '[[_Standards/WikiData/WD~ocean_acidification,855711|WD~ocean_acidification,855711]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~transformation,2449090]]'
-- '[[_Standards/WikiData/WD~destruction,17781833]]'
-- '[[_Standards/WikiData/WD~pedologic_process,63382959]]'
+- '[[_Standards/WikiData/WD~transformation,2449090|WD~transformation,2449090]]'
+- '[[_Standards/WikiData/WD~destruction,17781833|WD~destruction,17781833]]'
+- '[[_Standards/WikiData/WD~pedologic_process,63382959|WD~pedologic_process,63382959]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 destroyed:
-- '[[_Standards/WikiData/WD~artificial_object,16686448]]'
-- '[[_Standards/WikiData/WD~rock,8063]]'
-- '[[_Standards/WikiData/WD~soil,36133]]'
+- '[[_Standards/WikiData/WD~artificial_object,16686448|WD~artificial_object,16686448]]'
+- '[[_Standards/WikiData/WD~rock,8063|WD~rock,8063]]'
+- '[[_Standards/WikiData/WD~soil,36133|WD~soil,36133]]'
 applies_to_part:
-- '[[_Standards/WikiData/WD~water,283]]'
-- '[[_Standards/WikiData/WD~calcium_carbonate,23767]]'
+- '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
+- '[[_Standards/WikiData/WD~calcium_carbonate,23767|WD~calcium_carbonate,23767]]'
 Dewey_Decimal_Classification:
 - 620.11223
 - 551.302

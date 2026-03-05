@@ -70,7 +70,7 @@ Use it like this:
 - is_variant_of : : `=this.dv_has_domain` 
 - #is_/variant_of : : `=this.dv_has_domain`
 
-Indicates a [[../../../Society/Agent/Community/Organization/Business/Product]] that is a member of this [[ProductGroup]] (or [[ProductModel]]).
+Indicates a [[../../../Society/Agent/Community/Organization/Business/Product|Product]] that is a member of this [[ProductGroup]] (or [[ProductModel]]).
 
 Relation describes that: 
 

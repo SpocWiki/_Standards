@@ -130,29 +130,29 @@ cssclasses:
 - private
 - note
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~ISO_80000-5_2007_Quantities_and_units___Part_5__Thermodynamics,26711934]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-- '[[_Standards/WikiData/WD~ISO_80000-5_2019_Quantities_and_units___Part_5__Thermodynamics,92157468]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~ISO_80000-5_2007_Quantities_and_units___Part_5__Thermodynamics,26711934|WD~ISO_80000-5_2007_Quantities_and_units___Part_5__Thermodynamics,26711934]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~ISO_80000-5_2019_Quantities_and_units___Part_5__Thermodynamics,92157468|WD~ISO_80000-5_2019_Quantities_and_units___Part_5__Thermodynamics,92157468]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
 different_from:
-- '[[_Standards/WikiData/WD~Energia,295193]]'
-- '[[_Standards/WikiData/WD~energy_source,1522115]]'
+- '[[_Standards/WikiData/WD~Energia,295193|WD~Energia,295193]]'
+- '[[_Standards/WikiData/WD~energy_source,1522115|WD~energy_source,1522115]]'
 draft: true
 equivalent_class: https://schema.org/Energy
 exact_match: http://purl.obolibrary.org/obo/ENVO_2000015
 expiryDate: ''
 has_characteristic:
-- '[[_Standards/WikiData/WD~form_of_energy,3935690]]'
-- '[[_Standards/WikiData/WD~conservation_of_energy,11382]]'
-- '[[_Standards/WikiData/WD~mass,11423]]'
+- '[[_Standards/WikiData/WD~form_of_energy,3935690|WD~form_of_energy,3935690]]'
+- '[[_Standards/WikiData/WD~conservation_of_energy,11382|WD~conservation_of_energy,11382]]'
+- '[[_Standards/WikiData/WD~mass,11423|WD~mass,11423]]'
 has_use:
-- '[[_Standards/WikiData/WD~energy_industry,2151621]]'
-- '[[_Standards/WikiData/WD~energy_technology,14554973]]'
+- '[[_Standards/WikiData/WD~energy_industry,2151621|WD~energy_industry,2151621]]'
+- '[[_Standards/WikiData/WD~energy_technology,14554973|WD~energy_technology,14554973]]'
 IEV_number: 113-03-45
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Electric%20power%20transmission.jpg
 isDeleted: false
@@ -199,10 +199,10 @@ layout: ''
 license: (c)copyrighted
 linkTitle:
   '{ newTitle: }': ''
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Energy,15106301]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Energy,15106301|WD~WikiProject_Energy,15106301]]'
 OmegaWiki_Defined_Meaning: 1172
-part_of: '[[_Standards/WikiData/WD~mass_energy_equivalence,35875]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117561470,117561470]]'
+part_of: '[[_Standards/WikiData/WD~mass_energy_equivalence,35875|WD~mass_energy_equivalence,35875]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117561470,117561470|WD~Q117561470,117561470]]'
 publish: false
 publishDate: ''
 quantity_symbol_LaTeX_:
@@ -229,18 +229,18 @@ quantity_symbol_LaTeX_:
     </semantics>
   </math>
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~electronvolt,83327]]'
-- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350]]'
-- '[[_Standards/WikiData/WD~joule,25269]]'
+- '[[_Standards/WikiData/WD~electronvolt,83327|WD~electronvolt,83327]]'
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350|WD~kilogram_square_metre_per_square_second,106681350]]'
+- '[[_Standards/WikiData/WD~joule,25269|WD~joule,25269]]'
 social_media_followers: 171461
 Stack_Exchange_tag:
 - https://worldbuilding.stackexchange.com/tags/energy
 - https://physics.stackexchange.com/tags/energy
-studied_in: '[[_Standards/WikiData/WD~energetics,719597]]'
+studied_in: '[[_Standards/WikiData/WD~energetics,719597|WD~energetics,719597]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~extensive_quantity,3386703]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~extensive_quantity,3386703|WD~extensive_quantity,3386703]]'
 subreddit: energy
 tags:
 - class/Class
@@ -249,9 +249,9 @@ tags:
 - excalidraw
 title:
   '{ newTitle: }': ''
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Energy_footer,8093244]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Energy_footer,8093244|WD~Template_Energy_footer,8093244]]'
 type: private_note
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_energy,7112616]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_energy,7112616|WD~outline_of_energy,7112616]]'
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
@@ -470,9 +470,9 @@ dv_has_:
     zh_hans: 能量
     zh_hant: 能量
     zu: amandla
-  parent_class: '[[../Quantity]]'
+  parent_class: '[[../Quantity|Quantity]]'
   properties: '[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]'
-dv_has_parent_class: '[[../Quantity]]'
+dv_has_parent_class: '[[../Quantity|Quantity]]'
 dv_has_properties: '[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]'
 dv_is_same_as:
 - '[[has_value_for_energy]]'

@@ -25,23 +25,23 @@ aliases:
 - 우지 기관단총
 has_id_wikidata: Q155644
 ammunition:
-- '[[_Standards/WikiData/WD~9_19_mm_Parabellum,135550]]'
-- '[[_Standards/WikiData/WD~.22_long_rifle,158715]]'
-- '[[_Standards/WikiData/WD~.45_ACP,158803]]'
-- '[[_Standards/WikiData/WD~9_21mm,649326]]'
-- '[[_Standards/WikiData/WD~.41_Action_Express,2894884]]'
-subclass_of: '[[_Standards/WikiData/WD~submachine_gun,178550]]'
+- '[[_Standards/WikiData/WD~9_19_mm_Parabellum,135550|WD~9_19_mm_Parabellum,135550]]'
+- '[[_Standards/WikiData/WD~.22_long_rifle,158715|WD~.22_long_rifle,158715]]'
+- '[[_Standards/WikiData/WD~.45_ACP,158803|WD~.45_ACP,158803]]'
+- '[[_Standards/WikiData/WD~9_21mm,649326|WD~9_21mm,649326]]'
+- '[[_Standards/WikiData/WD~.41_Action_Express,2894884|WD~.41_Action_Express,2894884]]'
+subclass_of: '[[_Standards/WikiData/WD~submachine_gun,178550|WD~submachine_gun,178550]]'
 manufacturer:
-- '[[_Standards/WikiData/WD~FN_Herstal,747353]]'
-- '[[_Standards/WikiData/WD~IMI_Systems,1148423]]'
-- '[[_Standards/WikiData/WD~China_North_Industries_Group_Corporation_Limited,1538336]]'
-- '[[_Standards/WikiData/WD~Q2826721,2826721]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_family,15142889]]'
-country_of_origin: '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~FN_Herstal,747353|WD~FN_Herstal,747353]]'
+- '[[_Standards/WikiData/WD~IMI_Systems,1148423|WD~IMI_Systems,1148423]]'
+- '[[_Standards/WikiData/WD~China_North_Industries_Group_Corporation_Limited,1538336|WD~China_North_Industries_Group_Corporation_Limited,1538336]]'
+- '[[_Standards/WikiData/WD~Q2826721,2826721|WD~Q2826721,2826721]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_family,15142889|WD~weapon_family,15142889]]'
+country_of_origin: '[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
 total_produced: 10000000
 mass: 3.52
-designed_by: '[[_Standards/WikiData/WD~Uziel_Gal,60962]]'
-named_after: '[[_Standards/WikiData/WD~Uziel_Gal,60962]]'
+designed_by: '[[_Standards/WikiData/WD~Uziel_Gal,60962|WD~Uziel_Gal,60962]]'
+named_after: '[[_Standards/WikiData/WD~Uziel_Gal,60962|WD~Uziel_Gal,60962]]'
 Commons_gallery: Uzi
 service_entry: 1954-01-01T00:00:00Z
 inception: 1948-01-01T00:00:00Z

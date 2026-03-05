@@ -14,25 +14,25 @@ aliases:
 - 白色聖誕 (歌曲)
 - 白色聖誕節
 has_id_wikidata: Q1131761
-performer: '[[_Standards/WikiData/WD~Bing_Crosby,72984]]'
-different_from: '[[_Standards/WikiData/WD~White_Christmas,82597]]'
-lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
-composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
-tonality: '[[_Standards/WikiData/WD~A_major,277793]]'
-music_created_for: '[[_Standards/WikiData/WD~Holiday_Inn,1431567]]'
-genre: '[[_Standards/WikiData/WD~Christmas_music,1443316]]'
+performer: '[[_Standards/WikiData/WD~Bing_Crosby,72984|WD~Bing_Crosby,72984]]'
+different_from: '[[_Standards/WikiData/WD~White_Christmas,82597|WD~White_Christmas,82597]]'
+lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746|WD~Irving_Berlin,128746]]'
+composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746|WD~Irving_Berlin,128746]]'
+tonality: '[[_Standards/WikiData/WD~A_major,277793|WD~A_major,277793]]'
+music_created_for: '[[_Standards/WikiData/WD~Holiday_Inn,1431567|WD~Holiday_Inn,1431567]]'
+genre: '[[_Standards/WikiData/WD~Christmas_music,1443316|WD~Christmas_music,1443316]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~Christmas_themed_song,56572789]]'
-- '[[_Standards/WikiData/WD~film_song,93540236]]'
+- '[[_Standards/WikiData/WD~Christmas_themed_song,56572789|WD~Christmas_themed_song,56572789]]'
+- '[[_Standards/WikiData/WD~film_song,93540236|WD~film_song,93540236]]'
 derivative_work:
-- '[[_Standards/WikiData/WD~Noël_blanc,59618581]]'
-- '[[_Standards/WikiData/WD~Howaito_kurisumasu,59618675]]'
-- '[[_Standards/WikiData/WD~Jag_drömmer_om_en_jul_hemma,106017693]]'
-- '[[_Standards/WikiData/WD~Jag_drömmer_om_en_vår_med_dig,110271317]]'
-- '[[_Standards/WikiData/WD~Bianco_Natale,116188656]]'
-instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
-form_of_creative_work: '[[_Standards/WikiData/WD~song,7366]]'
+- '[[_Standards/WikiData/WD~Noël_blanc,59618581|WD~Noël_blanc,59618581]]'
+- '[[_Standards/WikiData/WD~Howaito_kurisumasu,59618675|WD~Howaito_kurisumasu,59618675]]'
+- '[[_Standards/WikiData/WD~Jag_drömmer_om_en_jul_hemma,106017693|WD~Jag_drömmer_om_en_jul_hemma,106017693]]'
+- '[[_Standards/WikiData/WD~Jag_drömmer_om_en_vår_med_dig,110271317|WD~Jag_drömmer_om_en_vår_med_dig,110271317]]'
+- '[[_Standards/WikiData/WD~Bianco_Natale,116188656|WD~Bianco_Natale,116188656]]'
+instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609|WD~musical_work_composition,105543609]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~song,7366|WD~song,7366]]'
 ISWC: T-070.199.660-2
 title: White Christmas
 Parsons_code: '*udduuuu uuuudddd duurru ddrru ddudddu uudduuuu uuuudddd duurrudu duurudrru'

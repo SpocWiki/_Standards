@@ -167,7 +167,7 @@ aliases:
 
 #has_/complement :: [[Atheism|Atheism]] 
 #has_/complement :: [[../../../Society/Ideology/Political_Ideology/Humanism|Humanism]]  
-#is_/different_from :: [[Nontheism/Animism]] 
+#is_/different_from :: [[Nontheism/Animism|Animism]] 
 #is_/same_as :: [[../../../WikiData/WD~Theism,620805|WD~Theism,620805]]  
 
 ## #has_/text_of_/abstract 

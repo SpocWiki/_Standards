@@ -17,17 +17,17 @@ aliases:
 - 波音星際航線
 - 보잉 CST-100 스타라이너
 has_id_wikidata: Q1024445
-type_of_orbit: '[[_Standards/WikiData/WD~low_Earth_orbit,663611]]'
+type_of_orbit: '[[_Standards/WikiData/WD~low_Earth_orbit,663611|WD~low_Earth_orbit,663611]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~space_capsule,957055]]'
-- '[[_Standards/WikiData/WD~crewed_spacecraft,7217761]]'
-- '[[_Standards/WikiData/WD~reusable_spacecraft,96401666]]'
-significant_event: '[[_Standards/WikiData/WD~maiden_flight,1362364]]'
-instance_of: '[[_Standards/WikiData/WD~vehicle_model,29048322]]'
-space_launch_vehicle: '[[_Standards/WikiData/WD~Atlas_V_N22,97684935]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-manufacturer: '[[_Standards/WikiData/WD~Boeing,66]]'
-operator: '[[_Standards/WikiData/WD~Boeing,66]]'
+- '[[_Standards/WikiData/WD~space_capsule,957055|WD~space_capsule,957055]]'
+- '[[_Standards/WikiData/WD~crewed_spacecraft,7217761|WD~crewed_spacecraft,7217761]]'
+- '[[_Standards/WikiData/WD~reusable_spacecraft,96401666|WD~reusable_spacecraft,96401666]]'
+significant_event: '[[_Standards/WikiData/WD~maiden_flight,1362364|WD~maiden_flight,1362364]]'
+instance_of: '[[_Standards/WikiData/WD~vehicle_model,29048322|WD~vehicle_model,29048322]]'
+space_launch_vehicle: '[[_Standards/WikiData/WD~Atlas_V_N22,97684935|WD~Atlas_V_N22,97684935]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+manufacturer: '[[_Standards/WikiData/WD~Boeing,66|WD~Boeing,66]]'
+operator: '[[_Standards/WikiData/WD~Boeing,66|WD~Boeing,66]]'
 total_produced: 3
 service_life:
 - 60

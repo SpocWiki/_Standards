@@ -35,14 +35,14 @@ aliases:
 - 白虎
 - 백호
 has_id_wikidata: Q1072455
-followed_by: '[[_Standards/WikiData/WD~Black_Tortoise,125696]]'
-follows: '[[_Standards/WikiData/WD~Zhuque,1059392]]'
-part_of: '[[_Standards/WikiData/WD~Four_Symbols,1073260]]'
+followed_by: '[[_Standards/WikiData/WD~Black_Tortoise,125696|WD~Black_Tortoise,125696]]'
+follows: '[[_Standards/WikiData/WD~Zhuque,1059392|WD~Zhuque,1059392]]'
+part_of: '[[_Standards/WikiData/WD~Four_Symbols,1073260|WD~Four_Symbols,1073260]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Chinese_constellation,1074076]]'
-- '[[_Standards/WikiData/WD~mythical_animal,24334299]]'
-fictional_or_mythical_analog_of: '[[_Standards/WikiData/WD~tiger,19939]]'
-color: '[[_Standards/WikiData/WD~white,23444]]'
+- '[[_Standards/WikiData/WD~Chinese_constellation,1074076|WD~Chinese_constellation,1074076]]'
+- '[[_Standards/WikiData/WD~mythical_animal,24334299|WD~mythical_animal,24334299]]'
+fictional_or_mythical_analog_of: '[[_Standards/WikiData/WD~tiger,19939|WD~tiger,19939]]'
+color: '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
 native_label:
 - 白虎
 - 白虎

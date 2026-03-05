@@ -62,27 +62,27 @@ aliases:
 - 等緊高鐸
 - 고도를 기다리며
 has_id_wikidata: Q19871
-genre: '[[_Standards/WikiData/WD~theatre_of_the_absurd,191760]]'
-location_of_first_performance: '[[_Standards/WikiData/WD~Theatre_de_Babylone,2430625]]'
+genre: '[[_Standards/WikiData/WD~theatre_of_the_absurd,191760|WD~theatre_of_the_absurd,191760]]'
+location_of_first_performance: '[[_Standards/WikiData/WD~Theatre_de_Babylone,2430625|WD~Theatre_de_Babylone,2430625]]'
 characters:
-- '[[_Standards/WikiData/WD~Estragon,5401769]]'
-- '[[_Standards/WikiData/WD~Lucky,6697827]]'
-- '[[_Standards/WikiData/WD~Pozzo,7237071]]'
-- '[[_Standards/WikiData/WD~Vladimir,7938230]]'
-instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
-translator: '[[_Standards/WikiData/WD~Francisco_Pillado,20534671]]'
+- '[[_Standards/WikiData/WD~Estragon,5401769|WD~Estragon,5401769]]'
+- '[[_Standards/WikiData/WD~Lucky,6697827|WD~Lucky,6697827]]'
+- '[[_Standards/WikiData/WD~Pozzo,7237071|WD~Pozzo,7237071]]'
+- '[[_Standards/WikiData/WD~Vladimir,7938230|WD~Vladimir,7938230]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634|WD~literary_work,7725634]]'
+translator: '[[_Standards/WikiData/WD~Francisco_Pillado,20534671|WD~Francisco_Pillado,20534671]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~Wrth_aros_Godot,56848491]]'
-- '[[_Standards/WikiData/WD~En_attendant_Godot,101095440]]'
-- '[[_Standards/WikiData/WD~En_attendant_Godot,101095473]]'
-- '[[_Standards/WikiData/WD~Q121916049,121916049]]'
-- '[[_Standards/WikiData/WD~Q122027880,122027880]]'
-- '[[_Standards/WikiData/WD~Q122040361,122040361]]'
-form_of_creative_work: '[[_Standards/WikiData/WD~play,25379]]'
-country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~French,150]]'
-author: '[[_Standards/WikiData/WD~Samuel_Beckett,37327]]'
-award_received: "[[_Standards/WikiData/WD~Le_Monde's_100_Books_of_the_Century,40734]]"
+- '[[_Standards/WikiData/WD~Wrth_aros_Godot,56848491|WD~Wrth_aros_Godot,56848491]]'
+- '[[_Standards/WikiData/WD~En_attendant_Godot,101095440|WD~En_attendant_Godot,101095440]]'
+- '[[_Standards/WikiData/WD~En_attendant_Godot,101095473|WD~En_attendant_Godot,101095473]]'
+- '[[_Standards/WikiData/WD~Q121916049,121916049|WD~Q121916049,121916049]]'
+- '[[_Standards/WikiData/WD~Q122027880,122027880|WD~Q122027880,122027880]]'
+- '[[_Standards/WikiData/WD~Q122040361,122040361|WD~Q122040361,122040361]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~play,25379|WD~play,25379]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+author: '[[_Standards/WikiData/WD~Samuel_Beckett,37327|WD~Samuel_Beckett,37327]]'
+award_received: "[[_Standards/WikiData/WD~Le_Monde's_100_Books_of_the_Century,40734|WD~Le_Monde's_100_Books_of_the_Century,40734]]"
 title: En attendant Godot
 date_of_first_performance: 1953-01-05T00:00:00Z
 publication_date: 1952-01-01T00:00:00Z

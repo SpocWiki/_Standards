@@ -78,21 +78,21 @@ aliases:
 - 間尺
 - 자
 has_id_wikidata: Q104555
-partially_coincident_with: '[[_Standards/WikiData/WD~straightedge,354733]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~straightedge,354733|WD~straightedge,354733]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~straightedge,354733]]'
-- '[[_Standards/WikiData/WD~stationery,875696]]'
-- '[[_Standards/WikiData/WD~measuring_instrument,2041172]]'
-- '[[_Standards/WikiData/WD~metrological_mechanism,4198689]]'
-- '[[_Standards/WikiData/WD~measuring_tools_&_sensor,116971226]]'
+- '[[_Standards/WikiData/WD~straightedge,354733|WD~straightedge,354733]]'
+- '[[_Standards/WikiData/WD~stationery,875696|WD~stationery,875696]]'
+- '[[_Standards/WikiData/WD~measuring_instrument,2041172|WD~measuring_instrument,2041172]]'
+- '[[_Standards/WikiData/WD~metrological_mechanism,4198689|WD~metrological_mechanism,4198689]]'
+- '[[_Standards/WikiData/WD~measuring_tools_&_sensor,116971226|WD~measuring_tools_&_sensor,116971226]]'
 different_from:
-- '[[_Standards/WikiData/WD~ruler,1097498]]'
-- '[[_Standards/WikiData/WD~remmalag,11757562]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~scale_marking,2632744]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
-measures: '[[_Standards/WikiData/WD~length,36253]]'
+- '[[_Standards/WikiData/WD~ruler,1097498|WD~ruler,1097498]]'
+- '[[_Standards/WikiData/WD~remmalag,11757562|WD~remmalag,11757562]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~scale_marking,2632744|WD~scale_marking,2632744]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
+measures: '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
 Nomenclature_for_Museum_Cataloging: 10351
 Commons_gallery: Ruler
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Measurement%20unit.jpg

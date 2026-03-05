@@ -55,13 +55,13 @@ aliases:
 - 跨媒體製作
 - 미디어 프랜차이즈
 has_id_wikidata: Q196600
-facet_of: '[[_Standards/WikiData/WD~franchising,171947]]'
-different_from: '[[_Standards/WikiData/WD~book_series,277759]]'
+facet_of: '[[_Standards/WikiData/WD~franchising,171947|WD~franchising,171947]]'
+different_from: '[[_Standards/WikiData/WD~book_series,277759|WD~book_series,277759]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~series_of_creative_works,7725310]]'
-- '[[_Standards/WikiData/WD~intellectual_work,15621286]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_media_franchise,13398748]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~media_mix,18591554]]'
+- '[[_Standards/WikiData/WD~series_of_creative_works,7725310|WD~series_of_creative_works,7725310]]'
+- '[[_Standards/WikiData/WD~intellectual_work,15621286|WD~intellectual_work,15621286]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_media_franchise,13398748|WD~Template_Infobox_media_franchise,13398748]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~media_mix,18591554|WD~media_mix,18591554]]'
 properties_for_this_type:
 - Box Office Mojo franchise ID (former scheme)
 - Fandom wiki ID
@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Media_Franchise]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~media_franchise,196600]] 
+#is_/same_as :: [[_Standards/WikiData/WD~media_franchise,196600|WD~media_franchise,196600]] 
 
 ## #has_/text_of_/abstract 
 

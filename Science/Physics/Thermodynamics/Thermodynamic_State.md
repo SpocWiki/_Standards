@@ -40,11 +40,11 @@ aliases:
 - 熱力學狀態
 - 열역학적 상태
 has_id_wikidata: Q230875
-subclass_of: '[[_Standards/WikiData/WD~physical_state,230855]]'
-has_part_s_: '[[_Standards/WikiData/WD~state_function,230937]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_state,230855|WD~physical_state,230855]]'
+has_part_s_: '[[_Standards/WikiData/WD~state_function,230937|WD~state_function,230937]]'
 related_property: phase of matter
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
-has_characteristic: '[[_Standards/WikiData/WD~thermodynamic_equilibrium,51363]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
+has_characteristic: '[[_Standards/WikiData/WD~thermodynamic_equilibrium,51363|WD~thermodynamic_equilibrium,51363]]'
 dv_has_:
   name_:
     af: Termodinamiese toestand

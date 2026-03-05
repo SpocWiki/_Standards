@@ -116,34 +116,34 @@ aliases:
 - 安達曼海
 - 안다만해
 has_id_wikidata: Q47632
-named_after: '[[_Standards/WikiData/WD~Andaman_Islands,186233]]'
-instance_of: '[[_Standards/WikiData/WD~marginal_sea,204894]]'
+named_after: '[[_Standards/WikiData/WD~Andaman_Islands,186233|WD~Andaman_Islands,186233]]'
+instance_of: '[[_Standards/WikiData/WD~marginal_sea,204894|WD~marginal_sea,204894]]'
 inflows:
-- '[[_Standards/WikiData/WD~Sittaung_River,1075555]]'
-- '[[_Standards/WikiData/WD~Kraburi_River,1359708]]'
-- '[[_Standards/WikiData/WD~Dawei_River,5242295]]'
-- '[[_Standards/WikiData/WD~Trang_River,13026371]]'
-- '[[_Standards/WikiData/WD~Great_Tenasserim_River,15222074]]'
-- '[[_Standards/WikiData/WD~Khlong_Bang_Niang,35431593]]'
-- '[[_Standards/WikiData/WD~Irrawaddy_River,26076]]'
-- '[[_Standards/WikiData/WD~Salween_River,26422]]'
+- '[[_Standards/WikiData/WD~Sittaung_River,1075555|WD~Sittaung_River,1075555]]'
+- '[[_Standards/WikiData/WD~Kraburi_River,1359708|WD~Kraburi_River,1359708]]'
+- '[[_Standards/WikiData/WD~Dawei_River,5242295|WD~Dawei_River,5242295]]'
+- '[[_Standards/WikiData/WD~Trang_River,13026371|WD~Trang_River,13026371]]'
+- '[[_Standards/WikiData/WD~Great_Tenasserim_River,15222074|WD~Great_Tenasserim_River,15222074]]'
+- '[[_Standards/WikiData/WD~Khlong_Bang_Niang,35431593|WD~Khlong_Bang_Niang,35431593]]'
+- '[[_Standards/WikiData/WD~Irrawaddy_River,26076|WD~Irrawaddy_River,26076]]'
+- '[[_Standards/WikiData/WD~Salween_River,26422|WD~Salween_River,26422]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Q35541239,35541239]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 coordinate_location: Point(96.0 10.0)
 basin_country:
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Myanmar,836]]'
-- '[[_Standards/WikiData/WD~Thailand,869]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
+- '[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]'
+- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
 country:
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Myanmar,836]]'
-- '[[_Standards/WikiData/WD~Thailand,869]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
-part_of: '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
+- '[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]'
+- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
+part_of: '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
 width: 650
 area: 798000
 vertical_depth: 3777

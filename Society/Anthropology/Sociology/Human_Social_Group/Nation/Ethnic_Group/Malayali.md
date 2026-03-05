@@ -34,19 +34,19 @@ aliases:
 - 马拉雅拉姆人
 - 말라얄리인
 has_id_wikidata: Q1267987
-subclass_of: '[[_Standards/WikiData/WD~Dravidian_peoples,69798]]'
-different_from: '[[_Standards/WikiData/WD~Malaysia,142702]]'
+subclass_of: '[[_Standards/WikiData/WD~Dravidian_peoples,69798|WD~Dravidian_peoples,69798]]'
+different_from: '[[_Standards/WikiData/WD~Malaysia,142702|WD~Malaysia,142702]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Castes_and_Tribes_of_Southern_India_Malayāli,64362720]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Castes_and_Tribes_of_Southern_India_Malayāli,64362720|WD~Castes_and_Tribes_of_Southern_India_Malayāli,64362720]]'
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Islam,432]]'
-- '[[_Standards/WikiData/WD~Buddhism,748]]'
-- '[[_Standards/WikiData/WD~Christianity,5043]]'
-- '[[_Standards/WikiData/WD~Hinduism,9089]]'
-- '[[_Standards/WikiData/WD~Jainism,9232]]'
-native_language: '[[_Standards/WikiData/WD~Malayalam,36236]]'
-instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+- '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~Buddhism,748|WD~Buddhism,748]]'
+- '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]'
+- '[[_Standards/WikiData/WD~Jainism,9232|WD~Jainism,9232]]'
+native_language: '[[_Standards/WikiData/WD~Malayalam,36236|WD~Malayalam,36236]]'
+instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Malayali%20flag.svg
 Commons_category: Malayali people
 dv_has_:

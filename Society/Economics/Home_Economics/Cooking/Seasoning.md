@@ -84,7 +84,7 @@ dv_has_:
 
 # [[Seasoning]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~seasoning,773108]]
+#is_/same_as :: [[_Standards/WikiData/WD~seasoning,773108|WD~seasoning,773108]]
 
 ## #has_/text_of_/abstract 
 

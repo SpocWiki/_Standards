@@ -346,7 +346,7 @@ dv_has_:
 
 # [[Painter]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~painter,1028181]] 
+#is_/same_as :: [[_Standards/WikiData/WD~painter,1028181|WD~painter,1028181]] 
 
 ## #has_/text_of_/abstract 
 

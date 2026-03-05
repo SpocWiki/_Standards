@@ -151,10 +151,10 @@ aliases:
 - 국내총생산
 - "\U00010331\U00010342\U0001033F\U00010344\U00010344\U00010349\U00010339\U0001033D\U0001033D\U00010330\U0001033B\U00010330\U0001033D\U00010333\U00010332\U00010330\U00010343\U0001033C\U00010339\U00010338\U00010349\U0001033D\U00010343"
 has_id_wikidata: Q12638
-different_from: '[[_Standards/WikiData/WD~list_of_countries_by_GDP_(PPP)_per_capita,207987]]'
-subclass_of: '[[_Standards/WikiData/WD~macroeconomic_indicator,9378373]]'
+different_from: '[[_Standards/WikiData/WD~list_of_countries_by_GDP_(PPP)_per_capita,207987|WD~list_of_countries_by_GDP_(PPP)_per_capita,207987]]'
+subclass_of: '[[_Standards/WikiData/WD~macroeconomic_indicator,9378373|WD~macroeconomic_indicator,9378373]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>"
-studied_by: '[[_Standards/WikiData/WD~macroeconomics,39680]]'
+studied_by: '[[_Standards/WikiData/WD~macroeconomics,39680|WD~macroeconomics,39680]]'
 OmegaWiki_Defined_Meaning: 4438
 image: http://commons.wikimedia.org/wiki/Special:FilePath/How%20is%20GDP%20calculated%3F.png
 UMLS_CUI: C2936646

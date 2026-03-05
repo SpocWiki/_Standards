@@ -77,7 +77,7 @@ has_inverse = `=this.dv_has_inverse`
 
 has_child_property = `=this.dv_has_child_property` 
 
-[[has_parent/has_creator]] 
+[[has_parent/has_creator|has_creator]] 
 
 #has_/complement 
 

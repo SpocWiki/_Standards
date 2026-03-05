@@ -36,9 +36,9 @@ aliases:
 - 中音薩克斯風
 - 알토 색소폰
 has_id_wikidata: Q445275
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Adolphe_Sax,181995]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Adolphe_Sax,181995|WD~Adolphe_Sax,181995]]'
 time_of_discovery_or_invention: 1846-06-28T00:00:00Z
-subclass_of: '[[_Standards/WikiData/WD~saxophone,9798]]'
+subclass_of: '[[_Standards/WikiData/WD~saxophone,9798|WD~saxophone,9798]]'
 Nomenclature_for_Museum_Cataloging: 10856
 Amazon_com_browse_node:
 - 11969851
@@ -97,7 +97,7 @@ dv_has_:
 
 # [[Alto_Saxophone]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Alto_saxophone,445275]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Alto_saxophone,445275|WD~Alto_saxophone,445275]] 
 
 ## #has_/text_of_/abstract 
 

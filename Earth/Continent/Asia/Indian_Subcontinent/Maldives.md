@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 马尔代夫共和国
 dv_UNTERM_French_Formal: la République des Maldives
 dv_UNTERM_Russian: Мальдивские Острова
 dv_UNTERM_Russian_Formal: Мальдивская Республика
-dv_Region_Name: '[[../../Asia]]'
+dv_Region_Name: '[[../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Maldives]]'
 dv_Sub-region_Name: '[[Southern Asia]]'
 dv_Region: 142
@@ -336,9 +336,9 @@ dv_has_:
 dv_has_name_de: Malediven
 dv_Area-Total: 298
 dv_Area-Land: 300
-dv_has_place_continent: '[[../../Asia]]'
+dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: MV
-dv_Capital: '[[Maldives/Counties/Malé/City/Malé]]'
+dv_Capital: '[[Maldives/Counties/Malé/City/Malé|Malé]]'
 dv_Alcohol-l: 0.8
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 73.5
@@ -513,60 +513,60 @@ aliases:
 - 몰디브
 has_id_wikidata: Q826
 age_of_majority: 18
-anthem: '[[_Standards/WikiData/WD~Gaumiii_salaaam,660117]]'
+anthem: '[[_Standards/WikiData/WD~Gaumiii_salaaam,660117|WD~Gaumiii_salaaam,660117]]'
 area: 298
 birth_rate:
 - 13.638
 - 14.088
 - 14.576
 - 15.001
-capital: '[[_Standards/WikiData/WD~Malé,9347]]'
-central_bank: '[[_Standards/WikiData/WD~Maldives_Monetary_Authority,1188022]]'
+capital: '[[_Standards/WikiData/WD~Malé,9347|WD~Malé,9347]]'
+central_bank: '[[_Standards/WikiData/WD~Maldives_Monetary_Authority,1188022|WD~Maldives_Monetary_Authority,1188022]]'
 CIVICUS_Monitor_country_entry: maldives
-coat_of_arms: '[[_Standards/WikiData/WD~emblem_of_Maldives,213023]]'
+coat_of_arms: '[[_Standards/WikiData/WD~emblem_of_Maldives,213023|WD~emblem_of_Maldives,213023]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Maldives.svg
 Commons_category: Maldives
 Commons_gallery: Maldives
 confidential: public
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Addu_Atoll,353375]]'
-- '[[_Standards/WikiData/WD~Alif_Alif_Atoll,775323]]'
-- '[[_Standards/WikiData/WD~Baa_Atoll,949513]]'
-- '[[_Standards/WikiData/WD~Gaafu_Alif_Atoll,1116203]]'
-- '[[_Standards/WikiData/WD~Lhaviyani_Atoll,1390048]]'
-- '[[_Standards/WikiData/WD~Raa_Atoll,1457965]]'
-- '[[_Standards/WikiData/WD~Kaafu_Atoll,1468407]]'
-- '[[_Standards/WikiData/WD~Gnaviyani_Atoll,1811116]]'
-- '[[_Standards/WikiData/WD~Laamu_Atoll,1996432]]'
-- '[[_Standards/WikiData/WD~Shaviyani_Atoll,2190334]]'
-- '[[_Standards/WikiData/WD~Meemu_Atoll,2210716]]'
-- '[[_Standards/WikiData/WD~Dhaalu_Atoll,2290784]]'
-- '[[_Standards/WikiData/WD~Alif_Dhaal_Atoll,2316922]]'
-- '[[_Standards/WikiData/WD~Haa_Dhaalu_Atoll,2360368]]'
-- '[[_Standards/WikiData/WD~Haa_Alif_Atoll,2360912]]'
-- '[[_Standards/WikiData/WD~Noonu_Atoll,2406322]]'
-- '[[_Standards/WikiData/WD~Faafu_Atoll,2469227]]'
-- '[[_Standards/WikiData/WD~Gaafu_Dhaalu_Atoll,2640183]]'
-- '[[_Standards/WikiData/WD~Vaavu_Atoll,2709111]]'
-- '[[_Standards/WikiData/WD~Thaa_Atoll,2709118]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Addu_Atoll,353375|WD~Addu_Atoll,353375]]'
+- '[[_Standards/WikiData/WD~Alif_Alif_Atoll,775323|WD~Alif_Alif_Atoll,775323]]'
+- '[[_Standards/WikiData/WD~Baa_Atoll,949513|WD~Baa_Atoll,949513]]'
+- '[[_Standards/WikiData/WD~Gaafu_Alif_Atoll,1116203|WD~Gaafu_Alif_Atoll,1116203]]'
+- '[[_Standards/WikiData/WD~Lhaviyani_Atoll,1390048|WD~Lhaviyani_Atoll,1390048]]'
+- '[[_Standards/WikiData/WD~Raa_Atoll,1457965|WD~Raa_Atoll,1457965]]'
+- '[[_Standards/WikiData/WD~Kaafu_Atoll,1468407|WD~Kaafu_Atoll,1468407]]'
+- '[[_Standards/WikiData/WD~Gnaviyani_Atoll,1811116|WD~Gnaviyani_Atoll,1811116]]'
+- '[[_Standards/WikiData/WD~Laamu_Atoll,1996432|WD~Laamu_Atoll,1996432]]'
+- '[[_Standards/WikiData/WD~Shaviyani_Atoll,2190334|WD~Shaviyani_Atoll,2190334]]'
+- '[[_Standards/WikiData/WD~Meemu_Atoll,2210716|WD~Meemu_Atoll,2210716]]'
+- '[[_Standards/WikiData/WD~Dhaalu_Atoll,2290784|WD~Dhaalu_Atoll,2290784]]'
+- '[[_Standards/WikiData/WD~Alif_Dhaal_Atoll,2316922|WD~Alif_Dhaal_Atoll,2316922]]'
+- '[[_Standards/WikiData/WD~Haa_Dhaalu_Atoll,2360368|WD~Haa_Dhaalu_Atoll,2360368]]'
+- '[[_Standards/WikiData/WD~Haa_Alif_Atoll,2360912|WD~Haa_Alif_Atoll,2360912]]'
+- '[[_Standards/WikiData/WD~Noonu_Atoll,2406322|WD~Noonu_Atoll,2406322]]'
+- '[[_Standards/WikiData/WD~Faafu_Atoll,2469227|WD~Faafu_Atoll,2469227]]'
+- '[[_Standards/WikiData/WD~Gaafu_Dhaalu_Atoll,2640183|WD~Gaafu_Dhaalu_Atoll,2640183]]'
+- '[[_Standards/WikiData/WD~Vaavu_Atoll,2709111|WD~Vaavu_Atoll,2709111]]'
+- '[[_Standards/WikiData/WD~Thaa_Atoll,2709118|WD~Thaa_Atoll,2709118]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 coordinates_of_easternmost_point: Point(73.516666666 3.466666666)
 coordinates_of_northernmost_point: Point(72.898888888 7.105833333)
 coordinates_of_southernmost_point: Point(73.155 -0.694444444)
 coordinates_of_westernmost_point: Point(72.62944444 6.33833333)
 coordinate_location: Point(73.51 4.18)
-country: '[[_Standards/WikiData/WD~Maldives,826]]'
+country: '[[_Standards/WikiData/WD~Maldives,826|WD~Maldives,826]]'
 country_calling_code: 960
 cssclasses:
 - Country
-culture: '[[_Standards/WikiData/WD~culture_of_the_Maldives,288576]]'
-currency: '[[_Standards/WikiData/WD~Maldivian_rufiyaa,206600]]'
+culture: '[[_Standards/WikiData/WD~culture_of_the_Maldives,288576|WD~culture_of_the_Maldives,288576]]'
+currency: '[[_Standards/WikiData/WD~Maldivian_rufiyaa,206600|WD~Maldivian_rufiyaa,206600]]'
 death_rate:
 - 3.02
 - 2.777
 - 2.858
 - 3.001
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Maldives,3044341]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Maldives,3044341|WD~demographics_of_the_Maldives,3044341]]'
 demonym:
 - Maldivijka
 - مالديڤي
@@ -607,56 +607,56 @@ demonym:
 - maldivegno
 - maldivian
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification: 2--5495
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
-- '[[_Standards/WikiData/WD~Sri_Lanka,854]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 draft: false
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Maldives,2366880]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Maldives,2366880|WD~economy_of_the_Maldives,2366880]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~Type_K,1502017]]'
-- '[[_Standards/WikiData/WD~Type_L,1520890]]'
-- '[[_Standards/WikiData/WD~BS_1363,1528507]]'
-- '[[_Standards/WikiData/WD~SN_441011,2335530]]'
-- '[[_Standards/WikiData/WD~NEMA_1-15,24288454]]'
-- '[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_K,1502017|WD~Type_K,1502017]]'
+- '[[_Standards/WikiData/WD~Type_L,1520890|WD~Type_L,1520890]]'
+- '[[_Standards/WikiData/WD~BS_1363,1528507|WD~BS_1363,1528507]]'
+- '[[_Standards/WikiData/WD~SN_441011,2335530|WD~SN_441011,2335530]]'
+- '[[_Standards/WikiData/WD~NEMA_1-15,24288454|WD~NEMA_1-15,24288454]]'
+- '[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126|WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~119,2807090]]'
-- '[[_Standards/WikiData/WD~118,11185210]]'
-- '[[_Standards/WikiData/WD~102,25648798]]'
+- '[[_Standards/WikiData/WD~119,2807090|WD~119,2807090]]'
+- '[[_Standards/WikiData/WD~118,11185210|WD~118,11185210]]'
+- '[[_Standards/WikiData/WD~102,25648798|WD~102,25648798]]'
 expiryDate: ''
 female_population: 187698
 FIPS_10_4_countries_and_regions_: MV
-flag: '[[_Standards/WikiData/WD~flag_of_Maldives,169441]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Maldives,169441|WD~flag_of_Maldives,169441]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Maldives.svg
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_the_Maldives,2579185]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_the_Maldives,2579185|WD~geography_of_the_Maldives,2579185]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Maldives.map
 Gini_coefficient: 29.3
 GitHub_topic: maldives
 hashtag: Maldives
-has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
-head_of_government: '[[_Standards/WikiData/WD~Mohamed_Muizzu,116293030]]'
-head_of_state: '[[_Standards/WikiData/WD~Mohamed_Muizzu,116293030]]'
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145|WD~partly_free_country,47185145]]'
+head_of_government: '[[_Standards/WikiData/WD~Mohamed_Muizzu,116293030|WD~Mohamed_Muizzu,116293030]]'
+head_of_state: '[[_Standards/WikiData/WD~Mohamed_Muizzu,116293030|WD~Mohamed_Muizzu,116293030]]'
 highest_point:
-- '[[_Standards/WikiData/WD~Villingili,176749]]'
-- '[[_Standards/WikiData/WD~Addu_City,4681407]]'
-history_of_topic: '[[_Standards/WikiData/WD~History_of_the_Maldives,1074669]]'
+- '[[_Standards/WikiData/WD~Villingili,176749|WD~Villingili,176749]]'
+- '[[_Standards/WikiData/WD~Addu_City,4681407|WD~Addu_City,4681407]]'
+history_of_topic: '[[_Standards/WikiData/WD~History_of_the_Maldives,1074669|WD~History_of_the_Maldives,1074669]]'
 Human_Development_Index: 0.747
 IAB_code: 1348
 icon: flag-mv
@@ -666,10 +666,10 @@ inception:
 Inequality_adjusted_Human_Development_Index: 0.594
 INSEE_countries_and_foreign_territories_code: 99229
 instance_of:
-- '[[_Standards/WikiData/WD~island_country,112099]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~archipelagic_state,13107770]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~island_country,112099|WD~island_country,112099]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~archipelagic_state,13107770|WD~archipelagic_state,13107770]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 IOC_country_code: MDV
 isDeleted: false
 ISO_3166_1_alpha_2_code: MV
@@ -683,23 +683,23 @@ Languages:
 - dv
 - en
 language_used:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Divehi,32656]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Divehi,32656|WD~Divehi,32656]]'
 layout: ''
-legislative_body: "[[_Standards/WikiData/WD~People's_Majlis,650066]]"
+legislative_body: "[[_Standards/WikiData/WD~People's_Majlis,650066|WD~People's_Majlis,650066]]"
 license: CC BY-SA 4.0
 life_expectancy: 77.339
 linkTitle: ''
 literacy_rate: 97.7
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~South_Asia,771405]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~South_Asia,771405|WD~South_Asia,771405]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Indian_Maldives,63285949]]'
-- '[[_Standards/WikiData/WD~UTC+05_00,6806]]'
+- '[[_Standards/WikiData/WD~Indian_Maldives,63285949|WD~Indian_Maldives,63285949]]'
+- '[[_Standards/WikiData/WD~UTC+05_00,6806|WD~UTC+05_00,6806]]'
 location:
 - 4.16667
 - 73.5
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Maldives%20%28orthographic%20projection%29.svg
-lowest_point: '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
+lowest_point: '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
 M49_code: 462
 mains_voltage: 230
 male_population: 195053
@@ -707,24 +707,24 @@ maritime_identification_digits: 455
 marriageable_age: 18
 median_income: 282000
 member_of:
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967|WD~Alliance_of_Small_Island_States,496967]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785|WD~Commonwealth_of_Nations,7785]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
 MeSH_tree_code: Z01.252.245.782.906
 mobile_country_code: 472
 motto_text:
@@ -737,20 +737,20 @@ nominal_GDP:
 - 6189865408
 - 5405557162
 number_of_out_of_school_children: 8537
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_the_Maldives,1064606]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_the_Maldives,1064606]]'
-official_language: '[[_Standards/WikiData/WD~Divehi,32656]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_the_Maldives,1064606|WD~President_of_the_Maldives,1064606]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_the_Maldives,1064606|WD~President_of_the_Maldives,1064606]]'
+official_language: '[[_Standards/WikiData/WD~Divehi,32656|WD~Divehi,32656]]'
 official_name:
 - ދިވެހިރާއްޖެ
 - ދިވެހިރާއްޖޭގެ ޖުމުހޫރިއްޔާ
 - la République des Maldives
-official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
+official_religion: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
 official_website: https://visitmaldives.com/
 OmegaWiki_Defined_Meaning: 8427
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Maldives%20banner%20Small%20island%20shoreline%20with%20beach.jpg
-part_of: '[[_Standards/WikiData/WD~South_Asia,771405]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Maldives,27103869]]'
+part_of: '[[_Standards/WikiData/WD~South_Asia,771405|WD~South_Asia,771405]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Maldives,27103869|WD~Maldives,27103869]]'
 PM20_geo_code: B60
 population: 436330
 pronunciation_audio:
@@ -758,16 +758,16 @@ pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Maldive.wav
 publish: true
 publishDate: ''
-religion_or_worldview: '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Sunni_Islam,483654|WD~Sunni_Islam,483654]]'
 replaces:
-- '[[_Standards/WikiData/WD~United_Suvadive_Republic,150069]]'
-- '[[_Standards/WikiData/WD~Sultanate_of_the_Maldives,11344632]]'
+- '[[_Standards/WikiData/WD~United_Suvadive_Republic,150069|WD~United_Suvadive_Republic,150069]]'
+- '[[_Standards/WikiData/WD~Sultanate_of_the_Maldives,11344632|WD~Sultanate_of_the_Maldives,11344632]]'
 rural_population:
 - 301504
 - 305221
 - 306227
 - 307128
-shares_border_with: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+shares_border_with: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 short_name: "\U0001F1F2\U0001F1FB"
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26972
@@ -775,8 +775,8 @@ subreddit: maldives
 tags:
 - geo/Country
 title: Maldives
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Maldives,14615866]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.mv,43753]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Maldives,14615866|WD~Portal_Maldives,14615866]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mv,43753|WD~.mv,43753]]'
 total_fertility_rate: 1.71
 type: Country
 unemployment_rate: 12
@@ -787,7 +787,7 @@ urban_population:
 - 214329
 U_S_National_Archives_Identifier: 10044514
 VAT_rate: 6
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Maldives,7112345]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Maldives,7112345|WD~outline_of_Maldives,7112345]]'
 WIPO_ST_3: MV
 Wolfram_Language_entity_code: Entity["Country", "Maldives"]
 Unicode_character: 🇲🇻
@@ -872,7 +872,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Maldives/ReadMe]] 
+[[Maldives/ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -896,7 +896,7 @@ VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Maldives/Emblem_of_Maldives.svg|350]]  
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Maldives.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Maldives.mp3|Anthem-Maldives.mp3]]
 ![[Maldives/Flag_of_Maldives.svg|350]]  
 
 Alcohol-l = `=this.dv_Alcohol-l`

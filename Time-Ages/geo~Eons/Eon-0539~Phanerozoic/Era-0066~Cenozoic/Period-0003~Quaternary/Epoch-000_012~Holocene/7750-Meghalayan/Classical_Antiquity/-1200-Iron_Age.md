@@ -153,15 +153,15 @@ has_id_wikidata: Q11764
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Pentref%20Celtaidd%20Din%20Lligwy%20Celtic%20village%20%28pre-Roman%29%20nr%20Moelfre%2C%20Ynys%20Mon%2C%20Wales%2005.png
 Commons_category: Iron Age
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-different_from: '[[_Standards/WikiData/WD~Iron_age,2805136]]'
-has_part_s_: '[[_Standards/WikiData/WD~Early_Iron_Age,98271225]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+different_from: '[[_Standards/WikiData/WD~Iron_age,2805136|WD~Iron_age,2805136]]'
+has_part_s_: '[[_Standards/WikiData/WD~Early_Iron_Age,98271225|WD~Early_Iron_Age,98271225]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HMB%20Keltengrab%20M%C3%BCnsingen-Rain%20Grab%2091.jpg
-instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
+instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633|WD~archaeological_period,15401633]]'
 Krugosvet_article: istoriya/ZHELEZNI_VEK.html
-named_after: '[[_Standards/WikiData/WD~iron,677]]'
+named_after: '[[_Standards/WikiData/WD~iron,677|WD~iron,677]]'
 OmegaWiki_Defined_Meaning: 846346
 OpenStreetMap_tag_or_key: Tag:historic:period=iron-age
 Stadtwiki_Dresden_article: Eisenzeit
@@ -171,7 +171,7 @@ start_time:
 - -1049-06
 - -1199-06
 - -0799-06
-subclass_of: '[[_Standards/WikiData/WD~prehistory,11756]]'
+subclass_of: '[[_Standards/WikiData/WD~prehistory,11756|WD~prehistory,11756]]'
 subject_named_as: Eisenzeit
 dv_has_:
   duration_: 650

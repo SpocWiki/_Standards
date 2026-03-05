@@ -97,8 +97,8 @@ dv_has_:
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
-[[../../../../../../../../assets/Pictures/People/Public/Monty_Python/Chapman,Graham.jpg]]
-![[../../../../../../../../assets/Pictures/People/Public/Monty_Python/Chapman,Graham.jpg]]
+[[../../../../../../../../assets/Pictures/People/Public/Monty_Python/Chapman,Graham.jpg|Chapman,Graham.jpg]]
+![[../../../../../../../../assets/Pictures/People/Public/Monty_Python/Chapman,Graham.jpg|Chapman,Graham.jpg]]
 
 > **Graham Chapman** (8 January 1941 – 4 October 1989) was a British actor, comedian and writer. 
 > He was one of the six members of the surrealist comedy group Monty Python. 

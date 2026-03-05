@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Surveillance]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~surveillance,334401]] 
+#is_/same_as :: [[_Standards/WikiData/WD~surveillance,334401|WD~surveillance,334401]] 
 
 ## #has_/text_of_/abstract 
 

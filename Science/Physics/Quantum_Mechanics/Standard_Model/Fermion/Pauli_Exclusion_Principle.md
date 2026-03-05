@@ -74,11 +74,11 @@ aliases:
 - 鮑利不相容原理
 - 파울리 배타 원리
 has_id_wikidata: Q131594
-named_after: '[[_Standards/WikiData/WD~Wolfgang_Pauli,65989]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Wolfgang_Pauli,65989]]'
-subclass_of: '[[_Standards/WikiData/WD~principle_of_identity,4378893]]'
-instance_of: '[[_Standards/WikiData/WD~education_theory,5341232]]'
-facet_of: '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
+named_after: '[[_Standards/WikiData/WD~Wolfgang_Pauli,65989|WD~Wolfgang_Pauli,65989]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Wolfgang_Pauli,65989|WD~Wolfgang_Pauli,65989]]'
+subclass_of: '[[_Standards/WikiData/WD~principle_of_identity,4378893|WD~principle_of_identity,4378893]]'
+instance_of: '[[_Standards/WikiData/WD~education_theory,5341232|WD~education_theory,5341232]]'
+facet_of: '[[_Standards/WikiData/WD~quantum_mechanics,944|WD~quantum_mechanics,944]]'
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "PauliExclusionPrinciple"]
 dv_has_:
   name_:

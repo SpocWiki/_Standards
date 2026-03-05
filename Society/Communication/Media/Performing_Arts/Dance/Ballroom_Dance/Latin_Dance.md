@@ -32,9 +32,9 @@ aliases:
 - ラテンダンス
 - 拉丁舞
 has_id_wikidata: Q1457972
-topic_has_template: '[[_Standards/WikiData/WD~Q10603228,10603228]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
-subclass_of: '[[_Standards/WikiData/WD~dance,11639]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q10603228,10603228|WD~Q10603228,10603228]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104|WD~type_of_dance,107357104]]'
+subclass_of: '[[_Standards/WikiData/WD~dance,11639|WD~dance,11639]]'
 Commons_category: Latin dance
 Dewey_Decimal_Classification:
 - 793.33

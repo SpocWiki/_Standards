@@ -71,14 +71,14 @@ aliases:
 - ꯂꯩ ꯍꯥꯢꯅ ꯊꯥꯖꯅꯕ ꯊꯋꯥꯢ ꯄꯥꯟꯕ
 - 전설 속 생물
 has_id_wikidata: Q2239243
-fictional_or_mythical_analog_of: '[[_Standards/WikiData/WD~creature,1274979]]'
-has_list: '[[_Standards/WikiData/WD~list_of_legendary_creatures,2383080]]'
-different_from: '[[_Standards/WikiData/WD~fictional_creature,2593744]]'
+fictional_or_mythical_analog_of: '[[_Standards/WikiData/WD~creature,1274979|WD~creature,1274979]]'
+has_list: '[[_Standards/WikiData/WD~list_of_legendary_creatures,2383080|WD~list_of_legendary_creatures,2383080]]'
+different_from: '[[_Standards/WikiData/WD~fictional_creature,2593744|WD~fictional_creature,2593744]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mythical_entity,24334685]]'
-- '[[_Standards/WikiData/WD~organism,7239]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Legendary_creatures,52678482]]'
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~mythical_entity,24334685|WD~mythical_entity,24334685]]'
+- '[[_Standards/WikiData/WD~organism,7239|WD~organism,7239]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Legendary_creatures,52678482|WD~Portal_Legendary_creatures,52678482]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 OmegaWiki_Defined_Meaning: 463768
 image: http://commons.wikimedia.org/wiki/Special:FilePath/J.F.Bertuch-Fabelwesen2.JPG
 Stack_Exchange_tag: https://worldbuilding.stackexchange.com/tags/mythical-creatures
@@ -161,7 +161,7 @@ dv_has_:
 
 # [[Mythical_Creature]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~mythical_creature,2239243]] 
+#is_/same_as :: [[_Standards/WikiData/WD~mythical_creature,2239243|WD~mythical_creature,2239243]] 
 
 ## #has_/text_of_/abstract 
 

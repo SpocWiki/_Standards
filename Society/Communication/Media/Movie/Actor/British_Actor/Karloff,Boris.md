@@ -120,7 +120,7 @@ dv_has_:
 > and he reprised the role for the sequels Bride of Frankenstein (1935) 
 > and Son of Frankenstein (1939). 
 > 
-> He also appeared as [[../../../../../../../../_private/Society/Communication/Media/music/Imhotep]] in The [[../../Movie-Genre/Horror-Movie/Mummy(1932)]], 
+> He also appeared as [[../../../../../../../../_private/Society/Communication/Media/music/Imhotep|Imhotep]] in The [[../../Movie-Genre/Horror-Movie/Mummy(1932)|Mummy(1932)]], 
 > and voiced the Grinch in, as well as narrating, 
 > the animated television special of Dr. Seuss' How the Grinch Stole Christmas! (1966), 
 > which won him a Grammy Award.

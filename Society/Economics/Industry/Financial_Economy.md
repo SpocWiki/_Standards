@@ -46,17 +46,17 @@ aliases:
 - 金融经济学
 - 금융경제학
 has_id_wikidata: Q2294553
-is_the_study_of: '[[_Standards/WikiData/WD~financial_market,208697]]'
+is_the_study_of: '[[_Standards/WikiData/WD~financial_market,208697|WD~financial_market,208697]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~financial_market,208697]]'
-- '[[_Standards/WikiData/WD~Master_of_Financial_Economics,6785187]]'
+- '[[_Standards/WikiData/WD~financial_market,208697|WD~financial_market,208697]]'
+- '[[_Standards/WikiData/WD~Master_of_Financial_Economics,6785187|WD~Master_of_Financial_Economics,6785187]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~economics,8134]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Financial_economics,6907554]]'
-instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-practiced_by: '[[_Standards/WikiData/WD~financial_economist,56352811]]'
-part_of: '[[_Standards/WikiData/WD~economics,8134]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~economics,8134|WD~economics,8134]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Financial_economics,6907554|WD~Category_Financial_economics,6907554]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~financial_economist,56352811|WD~financial_economist,56352811]]'
+part_of: '[[_Standards/WikiData/WD~economics,8134|WD~economics,8134]]'
 Dewey_Decimal_Classification: 332
 Commons_category: Financial economics
 dv_has_:

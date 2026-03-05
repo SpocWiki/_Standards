@@ -56,22 +56,22 @@ aliases:
 - 世界银行集团
 - 세계은행 그룹
 has_id_wikidata: Q320863
-partnership_with: '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]'
+partnership_with: '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761|WD~International_Civil_Aviation_Organization,125761]]'
 different_from:
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~World_Bank,7164]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~World_Bank,7164|WD~World_Bank,7164]]'
 child_organization_or_unit:
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-funder: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]'
-member_of: '[[_Standards/WikiData/WD~Digital_Preservation_Coalition,5275956]]'
-instance_of: '[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165]]'
-has_part_s_: '[[_Standards/WikiData/WD~World_Bank,7164]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-headquarters_location: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+funder: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194|WD~Open_Society_Foundations,786194]]'
+member_of: '[[_Standards/WikiData/WD~Digital_Preservation_Coalition,5275956|WD~Digital_Preservation_Coalition,5275956]]'
+instance_of: '[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165|WD~specialized_agency_of_the_United_Nations,15925165]]'
+has_part_s_: '[[_Standards/WikiData/WD~World_Bank,7164|WD~World_Bank,7164]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+headquarters_location: '[[_Standards/WikiData/WD~Washington,_D.C.,61|WD~Washington,_D.C.,61]]'
 social_media_followers: 3785996
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20Bank%20building%20at%20Washington.jpg
 Commons_category: World Bank Group

@@ -28,8 +28,8 @@ title: is_an_online_event_attendance_mode Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../EventAttendanceModeEnumeration]]"
-  enum_of: "[[../EventAttendanceModeEnumeration]]"
+  parent_class: "[[../EventAttendanceModeEnumeration|EventAttendanceModeEnumeration]]"
+  enum_of: "[[../EventAttendanceModeEnumeration|EventAttendanceModeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Online_Event_Attendance_Mode|Online_Event_Attendance_Mode]]"
     - "[[/_public/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Online_Event_Attendance_Mode.public|Online_Event_Attendance_Mode.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Online_Event_Attendance_Mode.secret|Online_Event_Attendance_Mode.secret]]"
     - "[[Online_Event_Attendance_Mode]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../EventAttendanceModeEnumeration]]"
-dv_is_enum_of: "[[../EventAttendanceModeEnumeration]]"
+dv_has_parent_class: "[[../EventAttendanceModeEnumeration|EventAttendanceModeEnumeration]]"
+dv_is_enum_of: "[[../EventAttendanceModeEnumeration|EventAttendanceModeEnumeration]]"
 dv_is_same_as:
   - "[[Online_Event_Attendance_Mode]]"
   - "[[/_public/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Online_Event_Attendance_Mode.public|Online_Event_Attendance_Mode.public]]"

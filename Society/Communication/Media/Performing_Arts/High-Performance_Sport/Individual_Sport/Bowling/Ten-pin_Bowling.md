@@ -45,13 +45,13 @@ aliases:
 - 볼링
 has_id_wikidata: Q172809
 uses:
-- '[[_Standards/WikiData/WD~bowling_ball,635982]]'
-- '[[_Standards/WikiData/WD~bowling_pin,4951263]]'
-different_from: '[[../../../../../../../WikiData/WD~bowling,3177899]]'
-subclass_of: '[[../../../../../../../WikiData/WD~bowling,3177899]]'
-practiced_by: '[[_Standards/WikiData/WD~bowler,4951095]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~bowling_ball,635982|WD~bowling_ball,635982]]'
+- '[[_Standards/WikiData/WD~bowling_pin,4951263|WD~bowling_pin,4951263]]'
+different_from: '[[../../../../../../../WikiData/WD~bowling,3177899|WD~bowling,3177899]]'
+subclass_of: '[[../../../../../../../WikiData/WD~bowling,3177899|WD~bowling,3177899]]'
+practiced_by: '[[_Standards/WikiData/WD~bowler,4951095|WD~bowler,4951095]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 Commons_gallery: Bowling
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Algemene%20sfeer%20op%20een%20bowlingbaan%20-%20SoundCloud%20-%20Beeld%20en%20Geluid.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bowlerbowling.JPG

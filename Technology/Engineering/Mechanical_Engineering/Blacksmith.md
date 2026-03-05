@@ -111,24 +111,24 @@ aliases:
 - "\U00010343\U0001033C\U00010339\U00010338\U00010330"
 has_id_wikidata: Q1639825
 uses:
-- '[[_Standards/WikiData/WD~anvil,104363]]'
-- '[[_Standards/WikiData/WD~bellows,208103]]'
-- '[[_Standards/WikiData/WD~pincers,840979]]'
-- '[[_Standards/WikiData/WD~forge,1368573]]'
-- "[[_Standards/WikiData/WD~blacksmith's_hammer,2246394]]"
-- "[[_Standards/WikiData/WD~blacksmith's_tongs,98558226]]"
-- '[[_Standards/WikiData/WD~fire,3196]]'
+- '[[_Standards/WikiData/WD~anvil,104363|WD~anvil,104363]]'
+- '[[_Standards/WikiData/WD~bellows,208103|WD~bellows,208103]]'
+- '[[_Standards/WikiData/WD~pincers,840979|WD~pincers,840979]]'
+- '[[_Standards/WikiData/WD~forge,1368573|WD~forge,1368573]]'
+- "[[_Standards/WikiData/WD~blacksmith's_hammer,2246394|WD~blacksmith's_hammer,2246394]]"
+- "[[_Standards/WikiData/WD~blacksmith's_tongs,98558226|WD~blacksmith's_tongs,98558226]]"
+- '[[_Standards/WikiData/WD~fire,3196|WD~fire,3196]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~metalsmith,838566]]'
-- '[[_Standards/WikiData/WD~metalworker,15980591]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~ironwork,1562096]]'
+- '[[_Standards/WikiData/WD~metalsmith,838566|WD~metalsmith,838566]]'
+- '[[_Standards/WikiData/WD~metalworker,15980591|WD~metalworker,15980591]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~ironwork,1562096|WD~ironwork,1562096]]'
 different_from:
-- '[[_Standards/WikiData/WD~ironworker,3069732]]'
-- '[[_Standards/WikiData/WD~Kowal,11168472]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~blacksmithing,11204681]]'
+- '[[_Standards/WikiData/WD~ironworker,3069732|WD~ironworker,3069732]]'
+- '[[_Standards/WikiData/WD~Kowal,11168472|WD~Kowal,11168472]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~blacksmithing,11204681|WD~blacksmithing,11204681]]'
 instance_of:
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~historical_profession,16335296]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~historical_profession,16335296|WD~historical_profession,16335296]]'
 female_form_of_label:
 - ferreira
 - נפחית
@@ -144,12 +144,12 @@ female_form_of_label:
 - kovačica
 - Schmattesch
 described_by_source:
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
-- '[[_Standards/WikiData/WD~NADD_occupations,133270020]]'
-locations: '[[_Standards/WikiData/WD~smithy,40558]]'
+- '[[_Standards/WikiData/WD~WikiProject_Craft,110249806|WD~WikiProject_Craft,110249806]]'
+- '[[_Standards/WikiData/WD~NADD_occupations,133270020|WD~NADD_occupations,133270020]]'
+locations: '[[_Standards/WikiData/WD~smithy,40558|WD~smithy,40558]]'
 Dewey_Decimal_Classification: 682
 SBFI_occupation_code: 44032
 NOC_Occupation_Code: 7384

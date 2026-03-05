@@ -27,7 +27,7 @@ title: is_a_body_measurement_type_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../MeasurementTypeEnumeration]]"
+  parent_class: "[[../MeasurementTypeEnumeration|MeasurementTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration|Body_Measurement_Type_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration.public|Body_Measurement_Type_Enumeration.public]]"
@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration.secret|Body_Measurement_Type_Enumeration.secret]]"
     - "[[Body_Measurement_Type_Enumeration]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../MeasurementTypeEnumeration]]"
+dv_has_parent_class: "[[../MeasurementTypeEnumeration|MeasurementTypeEnumeration]]"
 dv_is_same_as:
   - "[[Body_Measurement_Type_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration.public|Body_Measurement_Type_Enumeration.public]]"

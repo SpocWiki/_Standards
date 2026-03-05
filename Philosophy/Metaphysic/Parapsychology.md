@@ -47,14 +47,14 @@ aliases:
 - 超心理學
 - 초심리학
 has_id_wikidata: Q179098
-subclass_of: '[[_Standards/WikiData/WD~pseudoscience,483677]]'
+subclass_of: '[[_Standards/WikiData/WD~pseudoscience,483677|WD~pseudoscience,483677]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-practiced_by: '[[_Standards/WikiData/WD~parapsychologist,3363630]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_parapsychology,7112698]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_pseudoscience,60031086]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+practiced_by: '[[_Standards/WikiData/WD~parapsychologist,3363630|WD~parapsychologist,3363630]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_parapsychology,7112698|WD~outline_of_parapsychology,7112698]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_pseudoscience,60031086|WD~branch_of_pseudoscience,60031086]]'
 Dewey_Decimal_Classification: 130
 Iconclass_notation: 13H
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Pearce%20with%20J.%20B.%20Rhine.png

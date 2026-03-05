@@ -41,9 +41,9 @@ aliases:
 - 色相
 - 색상
 has_id_wikidata: Q372948
-instance_of: '[[_Standards/WikiData/WD~measure,192276]]'
-subclass_of: '[[_Standards/WikiData/WD~quality,1207505]]'
-characteristic_of: '[[_Standards/WikiData/WD~color,1075]]'
+instance_of: '[[_Standards/WikiData/WD~measure,192276|WD~measure,192276]]'
+subclass_of: '[[_Standards/WikiData/WD~quality,1207505|WD~quality,1207505]]'
+characteristic_of: '[[_Standards/WikiData/WD~color,1075|WD~color,1075]]'
 Commons_category: Hue
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hue%20shift%20six%20photoshop.jpg
 IEV_number: 845-22-067

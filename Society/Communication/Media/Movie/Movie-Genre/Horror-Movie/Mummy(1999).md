@@ -3,8 +3,8 @@
 ## #has_/text_of_/abstract 
 
 > The Mummy is a 1999 American  action-adventure film written and directed by Stephen Sommers, 
-> starring [[../../Actor/Canadian_Actor/Fraser,Brendan]], [[../../Actor/British_Actor/Weisz,Rachel]], [[../../Actor/British_Actor/Hannah,John(actor)]], 
-> and [[../../../../../../../_private/Society/Communication/Media/music/Vosloo,Arnold]] in the title role as the reanimated mummy. 
+> starring [[../../Actor/Canadian_Actor/Fraser,Brendan|Fraser,Brendan]], [[../../Actor/British_Actor/Weisz,Rachel|Weisz,Rachel]], [[../../Actor/British_Actor/Hannah,John(actor)|Hannah,John(actor)]], 
+> and [[../../../../../../../_private/Society/Communication/Media/music/Vosloo,Arnold|Vosloo,Arnold]] in the title role as the reanimated mummy. 
 > 
 > It is a remake of the 1932 film of the same name and part of the larger Universal Monsters franchise. 
 > The film follows adventurer and treasure hunter Rick O'Connell 

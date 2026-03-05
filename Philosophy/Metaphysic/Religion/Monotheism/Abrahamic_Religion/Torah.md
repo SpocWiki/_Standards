@@ -67,45 +67,45 @@ aliases:
 - 토라
 has_id_wikidata: Q34990
 part_of:
-- '[[_Standards/WikiData/WD~Tanakh,83367]]'
-- '[[_Standards/WikiData/WD~Vulgate,131175]]'
-- '[[_Standards/WikiData/WD~Bible,1845]]'
-- '[[_Standards/WikiData/WD~Old_Testament,19786]]'
-- '[[_Standards/WikiData/WD~Septuagint,29334]]'
-part_of_the_series: '[[_Standards/WikiData/WD~Tanakh,83367]]'
+- '[[_Standards/WikiData/WD~Tanakh,83367|WD~Tanakh,83367]]'
+- '[[_Standards/WikiData/WD~Vulgate,131175|WD~Vulgate,131175]]'
+- '[[_Standards/WikiData/WD~Bible,1845|WD~Bible,1845]]'
+- '[[_Standards/WikiData/WD~Old_Testament,19786|WD~Old_Testament,19786]]'
+- '[[_Standards/WikiData/WD~Septuagint,29334|WD~Septuagint,29334]]'
+part_of_the_series: '[[_Standards/WikiData/WD~Tanakh,83367|WD~Tanakh,83367]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~Pentateuch,162062]]'
-- '[[_Standards/WikiData/WD~Tawrat,2383104]]'
+- '[[_Standards/WikiData/WD~Pentateuch,162062|WD~Pentateuch,162062]]'
+- '[[_Standards/WikiData/WD~Tawrat,2383104|WD~Tawrat,2383104]]'
 instance_of:
-- '[[_Standards/WikiData/WD~religious_text,179461]]'
-- '[[_Standards/WikiData/WD~literary_work,7725634]]'
-has_cause: '[[_Standards/WikiData/WD~revelation,192906]]'
+- '[[_Standards/WikiData/WD~religious_text,179461|WD~religious_text,179461]]'
+- '[[_Standards/WikiData/WD~literary_work,7725634|WD~literary_work,7725634]]'
+has_cause: '[[_Standards/WikiData/WD~revelation,192906|WD~revelation,192906]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q10743869,10743869]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q10743869,10743869|WD~Q10743869,10743869]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~Q19530030,19530030]]'
-- '[[_Standards/WikiData/WD~The_Five_Books_of_Moses,54462103]]'
-- '[[_Standards/WikiData/WD~Netivot_Hashalom,123746728]]'
-genre: '[[_Standards/WikiData/WD~biblical_literature,55017318]]'
+- '[[_Standards/WikiData/WD~Q19530030,19530030|WD~Q19530030,19530030]]'
+- '[[_Standards/WikiData/WD~The_Five_Books_of_Moses,54462103|WD~The_Five_Books_of_Moses,54462103]]'
+- '[[_Standards/WikiData/WD~Netivot_Hashalom,123746728|WD~Netivot_Hashalom,123746728]]'
+genre: '[[_Standards/WikiData/WD~biblical_literature,55017318|WD~biblical_literature,55017318]]'
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Christianity,5043]]'
-- '[[_Standards/WikiData/WD~Judaism,9268]]'
-author: '[[_Standards/WikiData/WD~Moses,9077]]'
+- '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~Judaism,9268|WD~Judaism,9268]]'
+author: '[[_Standards/WikiData/WD~Moses,9077|WD~Moses,9077]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Book_of_Genesis,9184]]'
-- '[[_Standards/WikiData/WD~Exodus,9190]]'
-- '[[_Standards/WikiData/WD~Leviticus,41490]]'
-- '[[_Standards/WikiData/WD~Deuteronomy,42614]]'
-- '[[_Standards/WikiData/WD~Book_of_Numbers,43099]]'
+- '[[_Standards/WikiData/WD~Book_of_Genesis,9184|WD~Book_of_Genesis,9184]]'
+- '[[_Standards/WikiData/WD~Exodus,9190|WD~Exodus,9190]]'
+- '[[_Standards/WikiData/WD~Leviticus,41490|WD~Leviticus,41490]]'
+- '[[_Standards/WikiData/WD~Deuteronomy,42614|WD~Deuteronomy,42614]]'
+- '[[_Standards/WikiData/WD~Book_of_Numbers,43099|WD~Book_of_Numbers,43099]]'
 Library_of_Congress_Classification: BS1221-BS1225.6
 Commons_category: Torah
 earliest_date: -1311-01-01T00:00:00Z

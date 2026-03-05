@@ -32,31 +32,31 @@ aliases:
 - 존 캐벗
 has_id_wikidata: Q85642
 date_of_death: 1498-01-01T00:00:00Z
-place_of_birth: '[[_Standards/WikiData/WD~Gaeta,128089]]'
-child: '[[_Standards/WikiData/WD~Sebastian_Cabot,348340]]'
-place_of_death: '[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134]]'
+place_of_birth: '[[_Standards/WikiData/WD~Gaeta,128089|WD~Gaeta,128089]]'
+child: '[[_Standards/WikiData/WD~Sebastian_Cabot,348340|WD~Sebastian_Cabot,348340]]'
+place_of_death: '[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134|WD~North_Atlantic_Ocean,350134]]'
 described_by_source:
 - '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-given_name: '[[_Standards/WikiData/WD~Giovanni,1158906]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667|WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019|WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+given_name: '[[_Standards/WikiData/WD~Giovanni,1158906|WD~Giovanni,1158906]]'
 occupation:
-- '[[_Standards/WikiData/WD~gestor,5673576]]'
-- '[[_Standards/WikiData/WD~slave_trader,17769800]]'
-- '[[_Standards/WikiData/WD~sailor,45199]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-family_name: '[[_Standards/WikiData/WD~Caboto,43005264]]'
-father: '[[_Standards/WikiData/WD~Giulio_Caboto,112543477]]'
-depicted_by: '[[_Standards/WikiData/WD~Giovanni_Caboto_plaque,125824903]]'
+- '[[_Standards/WikiData/WD~gestor,5673576|WD~gestor,5673576]]'
+- '[[_Standards/WikiData/WD~slave_trader,17769800|WD~slave_trader,17769800]]'
+- '[[_Standards/WikiData/WD~sailor,45199|WD~sailor,45199]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Caboto,43005264|WD~Caboto,43005264]]'
+father: '[[_Standards/WikiData/WD~Giulio_Caboto,112543477|WD~Giulio_Caboto,112543477]]'
+depicted_by: '[[_Standards/WikiData/WD~Giovanni_Caboto_plaque,125824903|WD~Giovanni_Caboto_plaque,125824903]]'
 date_of_birth: 1450-01-01T00:00:00Z
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Italian,652]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Republic_of_Venice,4948]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Republic_of_Venice,4948|WD~Republic_of_Venice,4948]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 Commons_category: Giovanni Caboto
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/John-cabot-2.jpg
@@ -65,7 +65,7 @@ ISNI: 58298605
 Krugosvet_article_archived_: Earth_sciences/geografiya/KABOT_DZHON.html
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~John_Cabot,85642]]'
+  - '[[../../WikiData/WD~John_Cabot,85642|WD~John_Cabot,85642]]'
   - '[[/_Standards/Earth/Explorer/Cabot,John|Cabot,John]]'
   - '[[/_public/Earth/Explorer/Cabot,John.public|Cabot,John.public]]'
   - '[[/_internal/Earth/Explorer/Cabot,John.internal|Cabot,John.internal]]'
@@ -74,7 +74,7 @@ dv_is_:
   - '[[/_personal/Earth/Explorer/Cabot,John.personal|Cabot,John.personal]]'
   - '[[/_secret/Earth/Explorer/Cabot,John.secret|Cabot,John.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~John_Cabot,85642]]'
+- '[[../../WikiData/WD~John_Cabot,85642|WD~John_Cabot,85642]]'
 - '[[/_Standards/Earth/Explorer/Cabot,John|Cabot,John]]'
 - '[[/_public/Earth/Explorer/Cabot,John.public|Cabot,John.public]]'
 - '[[/_internal/Earth/Explorer/Cabot,John.internal|Cabot,John.internal]]'

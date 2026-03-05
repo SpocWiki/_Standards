@@ -6,7 +6,7 @@
 ### Cirice (old word for Church, similar to Kirche) 
 
 very nice harmonizing! 
-The Video alludes to the [[../../../movie/Horror-Movie/Carrie(1976_film)]]  
+The Video alludes to the [[../../../movie/Horror-Movie/Carrie(1976_film)|Carrie(1976_film)]]  
 Voice switches between Metallica and briefly imitates of Linkin Park Singer [[../../../../../../../_Standards/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester|Chester Bennington]]. 
 The Tempo is slow, the riffs similar to AC/DC-s Hells Bells. 
 

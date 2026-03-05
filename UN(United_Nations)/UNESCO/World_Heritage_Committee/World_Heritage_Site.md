@@ -156,27 +156,27 @@ aliases:
 - 유네스코 세계유산
 has_id_wikidata: Q9259
 subclass_of:
-- '[[_Standards/WikiData/WD~cultural_heritage,210272]]'
-- '[[_Standards/WikiData/WD~natural_heritage,386426]]'
+- '[[_Standards/WikiData/WD~cultural_heritage,210272|WD~cultural_heritage,210272]]'
+- '[[_Standards/WikiData/WD~natural_heritage,386426|WD~natural_heritage,386426]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~natural_heritage,386426]]'
-- '[[_Standards/WikiData/WD~Q2144255,2144255]]'
-- '[[_Standards/WikiData/WD~World_Heritage_Site_id,19832918]]'
+- '[[_Standards/WikiData/WD~natural_heritage,386426|WD~natural_heritage,386426]]'
+- '[[_Standards/WikiData/WD~Q2144255,2144255|WD~Q2144255,2144255]]'
+- '[[_Standards/WikiData/WD~World_Heritage_Site_id,19832918|WD~World_Heritage_Site_id,19832918]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-- '[[_Standards/WikiData/WD~conservation_designation,5162954]]'
-- '[[_Standards/WikiData/WD~heritage_designation,30634609]]'
+- '[[_Standards/WikiData/WD~conservation_designation,5162954|WD~conservation_designation,5162954]]'
+- '[[_Standards/WikiData/WD~heritage_designation,30634609|WD~heritage_designation,30634609]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_UNESCO_World_Heritage_Site,5896997]]'
-- '[[_Standards/WikiData/WD~Template_Lists_of_World_Heritage_Sites,4975]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_World_Heritage_Site,10988950]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_UNESCO_World_Heritage_Site,5896997|WD~Template_Infobox_UNESCO_World_Heritage_Site,5896997]]'
+- '[[_Standards/WikiData/WD~Template_Lists_of_World_Heritage_Sites,4975|WD~Template_Lists_of_World_Heritage_Sites,4975]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_World_Heritage_Site,10988950|WD~Portal_World_Heritage_Site,10988950]]'
 different_from:
-- '[[_Standards/WikiData/WD~intangible_cultural_heritage,84036549]]'
-- '[[_Standards/WikiData/WD~IUGS_Geological_Heritage_Site,117834546]]'
+- '[[_Standards/WikiData/WD~intangible_cultural_heritage,84036549|WD~intangible_cultural_heritage,84036549]]'
+- '[[_Standards/WikiData/WD~IUGS_Geological_Heritage_Site,117834546|WD~IUGS_Geological_Heritage_Site,117834546]]'
 main_Wikidata_property: World Heritage Site ID
-maintained_by: '[[_Standards/WikiData/WD~UNESCO,7809]]'
+maintained_by: '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
 OmegaWiki_Defined_Meaning: 7122
 described_at_URL:
 - https://www.unesco.de/kultur-und-natur/welterbe/welterbe-weltweit/welterbeliste

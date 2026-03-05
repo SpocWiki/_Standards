@@ -119,13 +119,13 @@ aliases:
   - 소년
 has_id_wikidata: Q3010
 subclass_of:
-  - "[[_Standards/WikiData/WD~male_human,84048850]]"
-  - "[[_Standards/WikiData/WD~child,7569]]"
-follows: "[[_Standards/WikiData/WD~baby_boy,96780034]]"
-described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-depicted_by: "[[_Standards/WikiData/WD~Old_man_and_boy,131449694]]"
-opposite_of: "[[_Standards/WikiData/WD~girl,3031]]"
-followed_by: "[[_Standards/WikiData/WD~man,8441]]"
+  - "[[_Standards/WikiData/WD~male_human,84048850|WD~male_human,84048850]]"
+  - "[[_Standards/WikiData/WD~child,7569|WD~child,7569]]"
+follows: "[[_Standards/WikiData/WD~baby_boy,96780034|WD~baby_boy,96780034]]"
+described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+depicted_by: "[[_Standards/WikiData/WD~Old_man_and_boy,131449694|WD~Old_man_and_boy,131449694]]"
+opposite_of: "[[_Standards/WikiData/WD~girl,3031|WD~girl,3031]]"
+followed_by: "[[_Standards/WikiData/WD~man,8441|WD~man,8441]]"
 minimum_age: 2
 maximum_age: 18
 OmegaWiki_Defined_Meaning: 5905

@@ -68,17 +68,17 @@ aliases:
 - 페이스트리
 has_id_wikidata: Q477248
 described_by_source:
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~baked_good,2251745]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~baked_good,2251745|WD~baked_good,2251745]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~baked_good,2251745]]'
-- '[[_Standards/WikiData/WD~bánh,5004791]]'
-- '[[_Standards/WikiData/WD~pastries_and_scones,115618359]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~baked_good,2251745|WD~baked_good,2251745]]'
+- '[[_Standards/WikiData/WD~bánh,5004791|WD~bánh,5004791]]'
+- '[[_Standards/WikiData/WD~pastries_and_scones,115618359|WD~pastries_and_scones,115618359]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
 different_from:
-- '[[_Standards/WikiData/WD~confection,5159627]]'
-- '[[_Standards/WikiData/WD~pastry_dough,116188654]]'
+- '[[_Standards/WikiData/WD~confection,5159627|WD~confection,5159627]]'
+- '[[_Standards/WikiData/WD~pastry_dough,116188654|WD~pastry_dough,116188654]]'
 booru_tag: pastry
 Danbooru_tag: pastry
 hashtag: pastry

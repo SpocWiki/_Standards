@@ -259,9 +259,9 @@ dv_UNTERM_Chinese_Formal: 巴布亚新几内亚独立国
 dv_UNTERM_French_Formal: l'État indépendant de Papouasie-Nouvelle-Guinée
 dv_UNTERM_Russian: Папуа-Новая Гвинея
 dv_UNTERM_Russian_Formal: Независимое государство Папуа-Новая Гвинея
-dv_Region_Name: '[[../../../Oceania]]'
+dv_Region_Name: '[[../../../Oceania|Oceania]]'
 dv_Intermediate_Region_Name: '[[Papua-New_Guinea]]'
-dv_Sub-region_Name: '[[../../../Australasia/Melanesia]]]'
+dv_Sub-region_Name: '[[../../../Australasia/Melanesia|Melanesia]]]'
 dv_Region: 9
 dv_Sub-region: 54
 dv_Geoname-ID: 2088628
@@ -296,7 +296,7 @@ dv_is_:
 dv_has_name_de: Papua-Neuguinea
 dv_Area-Total: 462840
 dv_Area-Land: 452860
-dv_has_place_continent: '[[../../../Oceania]]'
+dv_has_place_continent: '[[../../../Oceania|Oceania]]'
 dv_VehicleCode: PNG
 dv_Capital: '[[Port_Moresby]]'
 dv_Alcohol-l: 3.5
@@ -672,7 +672,7 @@ markerFolder: ./Papua-New_Guinea/
 [has_name_en::Papua New Guinea] 
 has_name_de = `=this.dv_has_name_de` 
 
-![[Papua_New_Guinea/Emblem_of_Papua_New_Guinea.svg]] 
+![[Papua_New_Guinea/Emblem_of_Papua_New_Guinea.svg|Emblem_of_Papua_New_Guinea.svg]] 
 
 
 ![[Papua_New_Guinea/Flag_of_Papua_New_Guinea.svg|350]] 

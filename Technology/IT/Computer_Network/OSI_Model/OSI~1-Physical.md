@@ -47,10 +47,10 @@ aliases:
 - 物理層
 - 물리 계층
 has_id_wikidata: Q192727
-part_of: '[[_Standards/WikiData/WD~OSI_model,93312]]'
-followed_by: '[[_Standards/WikiData/WD~data_link_layer,194134]]'
-instance_of: '[[_Standards/WikiData/WD~OSI_model_layer,65054805]]'
-standards_body: '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]'
+part_of: '[[_Standards/WikiData/WD~OSI_model,93312|WD~OSI_model,93312]]'
+followed_by: '[[_Standards/WikiData/WD~data_link_layer,194134|WD~data_link_layer,194134]]'
+instance_of: '[[_Standards/WikiData/WD~OSI_model_layer,65054805|WD~OSI_model_layer,65054805]]'
+standards_body: '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028|WD~International_Organization_for_Standardization,15028]]'
 official_website: https://www.iso.org/ics/35.100.10/x/
 Stack_Exchange_tag: https://networkengineering.stackexchange.com/tags/layer1
 Commons_category: Physical layer
@@ -122,7 +122,7 @@ dv_has_:
 
 # [[OSI~1-Physical]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~physical_layer,192727]] 
+#is_/same_as :: [[_Standards/WikiData/WD~physical_layer,192727|WD~physical_layer,192727]] 
 [[OSI~1-Physical/Optical_Fiber|Optical_Fiber]] 
 ## #has_/text_of_/abstract 
 

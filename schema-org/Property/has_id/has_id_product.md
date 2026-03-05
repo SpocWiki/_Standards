@@ -31,7 +31,7 @@ dv_has_:
   name: has_id_product
   range: Text
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_product|has_id_product]]"
@@ -44,7 +44,7 @@ dv_is_:
 dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
 dv_has_name: has_id_product
 dv_has_range: Text
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_name/has_id_product|has_id_product]]"
   - "[[/_public/schema-org/Property/has_name/has_id_product.public|has_id_product.public]]"

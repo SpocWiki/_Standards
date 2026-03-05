@@ -25,9 +25,9 @@ tags:
 title: is_a_flexibility Class
 type: Type
 dv_has_:
-  parent_class: "[[../PhysicalActivityCategory]]"
+  parent_class: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
 dv_is_:
-  enum_of: "[[../PhysicalActivityCategory]]"
+  enum_of: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Flexibility|Flexibility]]"
     - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Flexibility.public|Flexibility.public]]"
@@ -37,8 +37,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Flexibility.personal|Flexibility.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Flexibility.secret|Flexibility.secret]]"
     - "[[Flexibility]]"
-dv_has_parent_class: "[[../PhysicalActivityCategory]]"
-dv_is_enum_of: "[[../PhysicalActivityCategory]]"
+dv_has_parent_class: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
+dv_is_enum_of: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
 dv_is_same_as:
   - "[[Flexibility]]"
   - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Flexibility.public|Flexibility.public]]"

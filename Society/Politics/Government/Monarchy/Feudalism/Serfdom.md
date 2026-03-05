@@ -67,17 +67,17 @@ aliases:
 - 농노제
 has_id_wikidata: Q103350
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~subjecthood,837395]]'
-- '[[_Standards/WikiData/WD~Q13405597,13405597]]'
-subclass_of: '[[_Standards/WikiData/WD~social_relation,853725]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~slave,12773225]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_serfdom,17089893]]'
-practiced_by: '[[_Standards/WikiData/WD~serf,85000195]]'
+- '[[_Standards/WikiData/WD~subjecthood,837395|WD~subjecthood,837395]]'
+- '[[_Standards/WikiData/WD~Q13405597,13405597|WD~Q13405597,13405597]]'
+subclass_of: '[[_Standards/WikiData/WD~social_relation,853725|WD~social_relation,853725]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~slave,12773225|WD~slave,12773225]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_serfdom,17089893|WD~history_of_serfdom,17089893]]'
+practiced_by: '[[_Standards/WikiData/WD~serf,85000195|WD~serf,85000195]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Leibeigenschaft.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Reeve%20and%20Serfs.jpg
 exact_match:
@@ -172,7 +172,7 @@ dv_has_:
 # [[Serfdom]] 
 
 #is_/similar_to :: [[../../../../Social_Issues/Slavery|Slavery]] 
-#is_/similar_to :: [[../../../../Social_Issues/Debt_Bondage]] 
+#is_/similar_to :: [[../../../../Social_Issues/Debt_Bondage|Debt_Bondage]] 
 #is_/same_as :: [[../../../../../WikiData/WD~Serfdom,103350|WD~Serfdom,103350]]  
 
 ## #has_/text_of_/abstract 

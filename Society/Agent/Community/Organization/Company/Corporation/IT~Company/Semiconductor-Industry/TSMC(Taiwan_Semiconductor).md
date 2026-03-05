@@ -18,35 +18,35 @@ aliases:
 - 台积电
 - 台積電
 has_id_wikidata: Q713418
-location_of_formation: '[[_Standards/WikiData/WD~Hsinchu_City,249994]]'
+location_of_formation: '[[_Standards/WikiData/WD~Hsinchu_City,249994|WD~Hsinchu_City,249994]]'
 stock_exchange:
-- '[[_Standards/WikiData/WD~Taiwan_Stock_Exchange,548621]]'
-- '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
-headquarters_location: '[[_Standards/WikiData/WD~Hsinchu_Science_Park,717461]]'
-part_of: '[[_Standards/WikiData/WD~Dow_Jones_Global_Titans_50,773026]]'
+- '[[_Standards/WikiData/WD~Taiwan_Stock_Exchange,548621|WD~Taiwan_Stock_Exchange,548621]]'
+- '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677|WD~New_York_Stock_Exchange,13677]]'
+headquarters_location: '[[_Standards/WikiData/WD~Hsinchu_Science_Park,717461|WD~Hsinchu_Science_Park,717461]]'
+part_of: '[[_Standards/WikiData/WD~Dow_Jones_Global_Titans_50,773026|WD~Dow_Jones_Global_Titans_50,773026]]'
 instance_of:
-- '[[_Standards/WikiData/WD~public_company,891723]]'
-- '[[_Standards/WikiData/WD~enterprise,6881511]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~public_company,891723|WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~enterprise,6881511|WD~enterprise,6881511]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~semiconductor_device_fabrication,1570432]]'
-- '[[_Standards/WikiData/WD~central_processing_unit,5300]]'
-owner_of: '[[_Standards/WikiData/WD~Systems_on_Silicon_Manufacturing_Company_Pte._Ltd.,2377175]]'
-industry: '[[_Standards/WikiData/WD~semiconductor_industry,2986369]]'
-member_of: '[[_Standards/WikiData/WD~Computer_&_Communications_Industry_Association,3685364]]'
-founded_by: '[[_Standards/WikiData/WD~Morris_Chang,4745214]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_TSMC,9417548]]'
+- '[[_Standards/WikiData/WD~semiconductor_device_fabrication,1570432|WD~semiconductor_device_fabrication,1570432]]'
+- '[[_Standards/WikiData/WD~central_processing_unit,5300|WD~central_processing_unit,5300]]'
+owner_of: '[[_Standards/WikiData/WD~Systems_on_Silicon_Manufacturing_Company_Pte._Ltd.,2377175|WD~Systems_on_Silicon_Manufacturing_Company_Pte._Ltd.,2377175]]'
+industry: '[[_Standards/WikiData/WD~semiconductor_industry,2986369|WD~semiconductor_industry,2986369]]'
+member_of: '[[_Standards/WikiData/WD~Computer_&_Communications_Industry_Association,3685364|WD~Computer_&_Communications_Industry_Association,3685364]]'
+founded_by: '[[_Standards/WikiData/WD~Morris_Chang,4745214|WD~Morris_Chang,4745214]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_TSMC,9417548|WD~Category_TSMC,9417548]]'
 child_organization_or_unit:
-- '[[_Standards/WikiData/WD~Taiwan_Semiconductor_Manufacturing_Company_(China),29123772]]'
-- '[[_Standards/WikiData/WD~Taiwan_Semiconductor_Manufacturing_Company_(United_States),30338672]]'
-director_manager: '[[_Standards/WikiData/WD~C._C._Wei,115649193]]'
-chairperson: '[[_Standards/WikiData/WD~C._C._Wei,115649193]]'
-chief_executive_officer: '[[_Standards/WikiData/WD~C._C._Wei,115649193]]'
-legal_form: '[[_Standards/WikiData/WD~Q130279318,130279318]]'
+- '[[_Standards/WikiData/WD~Taiwan_Semiconductor_Manufacturing_Company_(China),29123772|WD~Taiwan_Semiconductor_Manufacturing_Company_(China),29123772]]'
+- '[[_Standards/WikiData/WD~Taiwan_Semiconductor_Manufacturing_Company_(United_States),30338672|WD~Taiwan_Semiconductor_Manufacturing_Company_(United_States),30338672]]'
+director_manager: '[[_Standards/WikiData/WD~C._C._Wei,115649193|WD~C._C._Wei,115649193]]'
+chairperson: '[[_Standards/WikiData/WD~C._C._Wei,115649193|WD~C._C._Wei,115649193]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~C._C._Wei,115649193|WD~C._C._Wei,115649193]]'
+legal_form: '[[_Standards/WikiData/WD~Q130279318,130279318|WD~Q130279318,130279318]]'
 total_equity: 2168286553000
 operating_income: 649980897000
 total_assets: 3725503455000
-country: '[[_Standards/WikiData/WD~Taiwan,865]]'
+country: '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
 employees: 65152
 market_capitalization: 895821000000
 described_at_URL: https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/

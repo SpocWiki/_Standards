@@ -52,9 +52,9 @@ aliases:
 - 歐洲聯盟經濟暨貨幣聯盟
 - 유럽 연합의 경제 통화 동맹
 has_id_wikidata: Q212141
-different_from: '[[_Standards/WikiData/WD~Emu,93208]]'
-subclass_of: '[[_Standards/WikiData/WD~currency_union,1125321]]'
-instance_of: '[[_Standards/WikiData/WD~organization,43229]]'
+different_from: '[[_Standards/WikiData/WD~Emu,93208|WD~Emu,93208]]'
+subclass_of: '[[_Standards/WikiData/WD~currency_union,1125321|WD~currency_union,1125321]]'
+instance_of: '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 short_name: EWWU
 dv_is_:
   same_as:

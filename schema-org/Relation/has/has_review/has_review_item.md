@@ -33,7 +33,7 @@ dv_has_:
     - "[[../../../../Society/Communication/Media/Creative_Work/Review|Review]]"
   name: has_review_item
   range: "[[../../../Class/Thing|Thing]]"
-  inverse: "[[../has_review]]"
+  inverse: "[[../has_review|has_review]]"
 dv_is_:
   same_as:
     - "[[has_review_item|has_review_item]]"
@@ -58,7 +58,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_review_item.personal|has_review_item.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_review_item.secret|has_review_item.secret]]"
 dv_is_a: "[[../../../Relation|Relation]]"
-dv_has_inverse: "[[../has_review]]"
+dv_has_inverse: "[[../has_review|has_review]]"
 ---
 
 # [[has_review_item]] 

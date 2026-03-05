@@ -83,14 +83,14 @@ aliases:
 - 전자기 스펙트럼
 has_id_wikidata: Q133139
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
-different_from: '[[_Standards/WikiData/WD~left_right_politics,2921172]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836|WD~Dictionnaire_des_biens_communs,120799836]]'
+different_from: '[[_Standards/WikiData/WD~left_right_politics,2921172|WD~left_right_politics,2921172]]'
 instance_of:
-- '[[_Standards/WikiData/WD~blanket_term,4925178]]'
-- '[[_Standards/WikiData/WD~spectrum,62531]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Electromagnetic_spectrum,6607788]]'
-subclass_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
+- '[[_Standards/WikiData/WD~blanket_term,4925178|WD~blanket_term,4925178]]'
+- '[[_Standards/WikiData/WD~spectrum,62531|WD~spectrum,62531]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Electromagnetic_spectrum,6607788|WD~Template_Electromagnetic_spectrum,6607788]]'
+subclass_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754|WD~electromagnetic_radiation,12969754]]'
 OmegaWiki_Defined_Meaning: 922064
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Complete%20electromagnetic%20spectrum.svg
 Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/electromagnetic-spectrum

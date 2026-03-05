@@ -28,12 +28,12 @@ title: has_text_of_duns
 type: Pred_Text
 dv_has_:
   domain:
-    - "[[../../../Society/Agent/Community/Organization]]"
-    - "[[../../../Society/Agent/Person]]"
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
   name: has_text_of_duns
-  range: "[[../../Class/is_a_/Data_Type/Text]]"
+  range: "[[../../Class/is_a_/Data_Type/Text|Text]]"
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_:
   same_as:
     - "[[has_duns]]"
@@ -44,11 +44,11 @@ dv_is_:
     - "[[/_personal/schema-org/Property/has_name/has_duns.personal|has_duns.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_duns.secret|has_duns.secret]]"
 dv_has_domain:
-  - "[[../../../Society/Agent/Community/Organization]]"
-  - "[[../../../Society/Agent/Person]]"
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: has_text_of_duns
-dv_has_range: "[[../../Class/is_a_/Data_Type/Text]]"
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_range: "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[has_duns]]"
   - "[[/_public/schema-org/Property/has_name/has_duns.public|has_duns.public]]"
@@ -69,7 +69,7 @@ The Dun & Bradstreet DUNS number for identifying an organization or business per
 
 Predicated describes that: 
 
-#has_/domain  :: "[[../../../Society/Agent/Community/Organization]]", "[[../../../Society/Agent/Person]]"  
+#has_/domain  :: "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"  
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

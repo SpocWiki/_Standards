@@ -147,7 +147,7 @@ aliases:
 
 # [[Alhambra]] 
 
-![[../../../assets/Alhambra,Granada,Spain.png]] 
+![[../../../assets/Alhambra,Granada,Spain.png|Alhambra,Granada,Spain.png]] 
 
 
 ## #has_/text_of_/abstract 

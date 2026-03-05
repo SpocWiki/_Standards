@@ -92,16 +92,16 @@ aliases:
 - 발명가
 has_id_wikidata: Q205375
 subclass_of:
-- '[[_Standards/WikiData/WD~engineer,81096]]'
-- '[[_Standards/WikiData/WD~creator,2500638]]'
+- '[[_Standards/WikiData/WD~engineer,81096|WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~creator,2500638|WD~creator,2500638]]'
 instance_of:
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 field_of_this_occupation:
-- '[[_Standards/WikiData/WD~invention,14208553]]'
-- '[[_Standards/WikiData/WD~invention,108696953]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59522191,59522191]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~invention,14208553|WD~invention,14208553]]'
+- '[[_Standards/WikiData/WD~invention,108696953|WD~invention,108696953]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59522191,59522191|WD~Q59522191,59522191]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 Wikidata_property: discoverer or inventor
 IMDb_keyword: inventor
 female_form_of_label:
@@ -281,7 +281,7 @@ dv_has_:
 
 # [[Inventor]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~inventor,205375]] 
+#is_/same_as :: [[_Standards/WikiData/WD~inventor,205375|WD~inventor,205375]] 
 
 ## #has_/text_of_/abstract 
 

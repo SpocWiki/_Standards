@@ -56,10 +56,10 @@ aliases:
 - 地母神
 - 대지모
 has_id_wikidata: Q334486
-subclass_of: '[[_Standards/WikiData/WD~goddess,205985]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-different_from: '[[_Standards/WikiData/WD~Terre_Mère,59537955]]'
-opposite_of: '[[_Standards/WikiData/WD~father_god,115210812]]'
+subclass_of: '[[_Standards/WikiData/WD~goddess,205985|WD~goddess,205985]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800|WD~Art+Feminism,24909800]]'
+different_from: '[[_Standards/WikiData/WD~Terre_Mère,59537955|WD~Terre_Mère,59537955]]'
+opposite_of: '[[_Standards/WikiData/WD~father_god,115210812|WD~father_god,115210812]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Seated%20Woman%20of%20%C3%87atalh%C3%B6y%C3%BCk%20on%20black%20background.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Cybele%20Bithynia%20Nicaea.jpg

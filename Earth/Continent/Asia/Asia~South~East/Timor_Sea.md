@@ -89,28 +89,28 @@ location:
 - 126
 coordinate_location: Point(126.0 -11.0)
 inflows:
-- '[[_Standards/WikiData/WD~Clerec,1100553]]'
-- '[[_Standards/WikiData/WD~South_Laclo_River,1167720]]'
-- '[[_Standards/WikiData/WD~Victoria_River,1540063]]'
-- '[[_Standards/WikiData/WD~Loumea,1719461]]'
-- '[[_Standards/WikiData/WD~Ord_River,2028742]]'
-- '[[_Standards/WikiData/WD~Q2756679,2756679]]'
-- '[[_Standards/WikiData/WD~Berkeley_River,4892091]]'
-- '[[_Standards/WikiData/WD~Glenelg_River,5568479]]'
-- '[[_Standards/WikiData/WD~Mitchell_River,6881372]]'
-- '[[_Standards/WikiData/WD~Sale_River,7403806]]'
-- '[[_Standards/WikiData/WD~Daly_River,13359982]]'
-described_by_source: '[[_Standards/WikiData/WD~Q35541239,35541239]]'
+- '[[_Standards/WikiData/WD~Clerec,1100553|WD~Clerec,1100553]]'
+- '[[_Standards/WikiData/WD~South_Laclo_River,1167720|WD~South_Laclo_River,1167720]]'
+- '[[_Standards/WikiData/WD~Victoria_River,1540063|WD~Victoria_River,1540063]]'
+- '[[_Standards/WikiData/WD~Loumea,1719461|WD~Loumea,1719461]]'
+- '[[_Standards/WikiData/WD~Ord_River,2028742|WD~Ord_River,2028742]]'
+- '[[_Standards/WikiData/WD~Q2756679,2756679|WD~Q2756679,2756679]]'
+- '[[_Standards/WikiData/WD~Berkeley_River,4892091|WD~Berkeley_River,4892091]]'
+- '[[_Standards/WikiData/WD~Glenelg_River,5568479|WD~Glenelg_River,5568479]]'
+- '[[_Standards/WikiData/WD~Mitchell_River,6881372|WD~Mitchell_River,6881372]]'
+- '[[_Standards/WikiData/WD~Sale_River,7403806|WD~Sale_River,7403806]]'
+- '[[_Standards/WikiData/WD~Daly_River,13359982|WD~Daly_River,13359982]]'
+described_by_source: '[[_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]'
 basin_country:
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Timor_Leste,574]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Timor_Leste,574|WD~Timor_Leste,574]]'
+- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
 country:
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Timor_Leste,574]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
-part_of: '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
-instance_of: '[[_Standards/WikiData/WD~sea,165]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Timor_Leste,574|WD~Timor_Leste,574]]'
+- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
+part_of: '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
+instance_of: '[[_Standards/WikiData/WD~sea,165|WD~sea,165]]'
 vertical_depth: 3200
 width: 480
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locatie%20Timorzee.PNG

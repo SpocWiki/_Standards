@@ -57,8 +57,8 @@ tags:
 - ''
 title: Pierce,Franklin
 type: private_note
-dv_has_role: '[[../US_President]]'
-dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]'
+dv_has_role: '[[../US_President|US_President]]'
+dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party|US~Democratic_Party]]'
 dv_created: 1853-03-04
 dv_cancelled: 1857-03-04
 dv_has_:
@@ -243,7 +243,7 @@ dv_is_same_as:
 has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped`
 
--   [has_role :: [[../US_President]] ]is_member_of = `=this.dv_is_member_of`
+-   [has_role :: [[../US_President|US_President]] ]is_member_of = `=this.dv_is_member_of`
 
 
 ## Confidential Links & Embeds: 

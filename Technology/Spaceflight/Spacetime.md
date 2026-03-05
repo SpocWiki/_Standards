@@ -94,19 +94,19 @@ aliases:
 - 시공간
 has_id_wikidata: Q133327
 instance_of:
-- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-- '[[_Standards/WikiData/WD~continuum,1704572]]'
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+- '[[_Standards/WikiData/WD~continuum,1704572|WD~continuum,1704572]]'
 different_from:
-- '[[_Standards/WikiData/WD~Raumzeit,2133417]]'
-- '[[_Standards/WikiData/WD~Spacetime,7572733]]'
-subclass_of: '[[_Standards/WikiData/WD~spacetime_curvature,4240689]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Spacetime,8084437]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-contains: '[[_Standards/WikiData/WD~spacetime_region,23956024]]'
-manifestation_of: '[[_Standards/WikiData/WD~spacetime_model,130249235]]'
+- '[[_Standards/WikiData/WD~Raumzeit,2133417|WD~Raumzeit,2133417]]'
+- '[[_Standards/WikiData/WD~Spacetime,7572733|WD~Spacetime,7572733]]'
+subclass_of: '[[_Standards/WikiData/WD~spacetime_curvature,4240689|WD~spacetime_curvature,4240689]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Spacetime,8084437|WD~Template_Spacetime,8084437]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+contains: '[[_Standards/WikiData/WD~spacetime_region,23956024|WD~spacetime_region,23956024]]'
+manifestation_of: '[[_Standards/WikiData/WD~spacetime_model,130249235|WD~spacetime_model,130249235]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~time,11471]]'
-- '[[_Standards/WikiData/WD~space,107]]'
+- '[[_Standards/WikiData/WD~time,11471|WD~time,11471]]'
+- '[[_Standards/WikiData/WD~space,107|WD~space,107]]'
 Commons_category: Spacetime
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Spacetime%20curvature2.png
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/spacetime

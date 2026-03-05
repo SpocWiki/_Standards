@@ -36,11 +36,11 @@ dv_is_:
 dv_has_:
   domain: CreativeWork, EducationEvent, LearningResource
   name: is_assessing
-  range: "[[../../../Class/is_a_thing/intangible/defined_term]]],  [[Text]]"
+  range: "[[../../../Class/is_a_thing/intangible/defined_term|defined_term]]],  [[Text]]"
 dv_is_part_of: "pending:"
 dv_has_domain: CreativeWork, EducationEvent, LearningResource
 dv_has_name: is_assessing
-dv_has_range: "[[../../../Class/is_a_thing/intangible/defined_term]]],  [[Text]]"
+dv_has_range: "[[../../../Class/is_a_thing/intangible/defined_term|defined_term]]],  [[Text]]"
 dv_is_same_as:
   - "[[is_assessing]]"
   - "[[/_public/schema-org/Relation/is/is_assessing.public|is_assessing.public]]"

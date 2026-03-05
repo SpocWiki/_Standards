@@ -95,25 +95,25 @@ aliases:
 - 電腦科學家
 - 컴퓨터 과학자
 has_id_wikidata: Q82594
-patron_saint: '[[_Standards/WikiData/WD~Isidore_of_Seville,166876]]'
+patron_saint: '[[_Standards/WikiData/WD~Isidore_of_Seville,166876|WD~Isidore_of_Seville,166876]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~systems_analyst,942569]]'
-- '[[_Standards/WikiData/WD~technology_specialist,5157565]]'
-- '[[_Standards/WikiData/WD~scientist,901]]'
+- '[[_Standards/WikiData/WD~systems_analyst,942569|WD~systems_analyst,942569]]'
+- '[[_Standards/WikiData/WD~technology_specialist,5157565|WD~technology_specialist,5157565]]'
+- '[[_Standards/WikiData/WD~scientist,901|WD~scientist,901]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~computer_science_expert,1391300]]'
-- '[[_Standards/WikiData/WD~IT_professional,56604309]]'
+- '[[_Standards/WikiData/WD~computer_science_expert,1391300|WD~computer_science_expert,1391300]]'
+- '[[_Standards/WikiData/WD~IT_professional,56604309|WD~IT_professional,56604309]]'
 industry:
-- '[[_Standards/WikiData/WD~service_sector,1959446]]'
-- '[[_Standards/WikiData/WD~industrial_sector,8148]]'
-has_list: '[[_Standards/WikiData/WD~list_of_computer_scientists,2476620]]'
+- '[[_Standards/WikiData/WD~service_sector,1959446|WD~service_sector,1959446]]'
+- '[[_Standards/WikiData/WD~industrial_sector,8148|WD~industrial_sector,8148]]'
+has_list: '[[_Standards/WikiData/WD~list_of_computer_scientists,2476620|WD~list_of_computer_scientists,2476620]]'
 uses:
-- '[[_Standards/WikiData/WD~computing_terminology,3457057]]'
-- '[[_Standards/WikiData/WD~computer_science_journal,127867413]]'
-different_from: '[[_Standards/WikiData/WD~computational_scientist,5157338]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59241091,59241091]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~computer_science,21198]]'
-instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~computing_terminology,3457057|WD~computing_terminology,3457057]]'
+- '[[_Standards/WikiData/WD~computer_science_journal,127867413|WD~computer_science_journal,127867413]]'
+different_from: '[[_Standards/WikiData/WD~computational_scientist,5157338|WD~computational_scientist,5157338]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59241091,59241091|WD~Q59241091,59241091]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 KldB_2010_occupation_code: 43124
 ISCO_08_occupation_class: 2511
 OmegaWiki_Defined_Meaning: 1516968
@@ -280,7 +280,7 @@ dv_has_:
 
 # [[Computer_Scientist]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~computer_scientist,82594]] 
+#is_/same_as :: [[_Standards/WikiData/WD~computer_scientist,82594|WD~computer_scientist,82594]] 
 
 ## #has_/text_of_/abstract 
 

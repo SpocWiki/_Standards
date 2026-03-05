@@ -39,18 +39,18 @@ aliases:
 - 麦金塔操作系统
 - 맥 OS
 has_id_wikidata: Q43627
-named_after: '[[_Standards/WikiData/WD~Mac,75687]]'
+named_after: '[[_Standards/WikiData/WD~Mac,75687|WD~Mac,75687]]'
 platform:
-- '[[_Standards/WikiData/WD~Q272629,272629]]'
-- '[[_Standards/WikiData/WD~AArch64,18384745]]'
+- '[[_Standards/WikiData/WD~Q272629,272629|WD~Q272629,272629]]'
+- '[[_Standards/WikiData/WD~AArch64,18384745|WD~AArch64,18384745]]'
 different_from:
-- '[[_Standards/WikiData/WD~Classic_Mac_OS,13522376]]'
-- '[[../../../../WikiData/WD~macOS,14116]]'
+- '[[_Standards/WikiData/WD~Classic_Mac_OS,13522376|WD~Classic_Mac_OS,13522376]]'
+- '[[../../../../WikiData/WD~macOS,14116|WD~macOS,14116]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Classic_Mac_OS,13522376]]'
-- '[[../../../../WikiData/WD~macOS,14116]]'
-developer: '[[_Standards/WikiData/WD~Apple_Inc.,312]]'
-subclass_of: '[[_Standards/WikiData/WD~operating_system,9135]]'
+- '[[_Standards/WikiData/WD~Classic_Mac_OS,13522376|WD~Classic_Mac_OS,13522376]]'
+- '[[../../../../WikiData/WD~macOS,14116|WD~macOS,14116]]'
+developer: '[[_Standards/WikiData/WD~Apple_Inc.,312|WD~Apple_Inc.,312]]'
+subclass_of: '[[_Standards/WikiData/WD~operating_system,9135|WD~operating_system,9135]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2010-01-21%20MacBook%20Pro%20flat%20panel%20showing%20Earth%20background.jpg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/mac_os_2
 official_website: https://www.apple.com/lae/macos/what-is/

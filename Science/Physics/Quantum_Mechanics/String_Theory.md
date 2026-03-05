@@ -77,13 +77,13 @@ aliases:
 - 현리론
 has_id_wikidata: Q33198
 subclass_of:
-- '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
-- '[[_Standards/WikiData/WD~theoretical_physics,18362]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+- '[[_Standards/WikiData/WD~scientific_theory,3239681|WD~scientific_theory,3239681]]'
+- '[[_Standards/WikiData/WD~theoretical_physics,18362|WD~theoretical_physics,18362]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_String_theory,6806272]]'
-- '[[_Standards/WikiData/WD~Template_String_theory_topics,22730192]]'
-studied_by: '[[_Standards/WikiData/WD~theoretical_physics,18362]]'
+- '[[_Standards/WikiData/WD~Template_String_theory,6806272|WD~Template_String_theory,6806272]]'
+- '[[_Standards/WikiData/WD~Template_String_theory_topics,22730192|WD~Template_String_theory_topics,22730192]]'
+studied_by: '[[_Standards/WikiData/WD~theoretical_physics,18362|WD~theoretical_physics,18362]]'
 PhilPapers_topic: string-theory
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Apfel%20partikel.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%82%20%E0%A6%A4%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC.wav

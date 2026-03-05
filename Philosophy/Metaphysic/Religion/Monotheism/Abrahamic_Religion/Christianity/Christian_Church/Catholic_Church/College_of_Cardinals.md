@@ -50,21 +50,21 @@ aliases:
 - 樞機團
 - 추기경단
 has_id_wikidata: Q852242
-different_from: '[[_Standards/WikiData/WD~Collegium,344476]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Dean_of_the_College_of_Cardinals,449676]]'
+different_from: '[[_Standards/WikiData/WD~Collegium,344476|WD~Collegium,344476]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Dean_of_the_College_of_Cardinals,449676|WD~Dean_of_the_College_of_Cardinals,449676]]'
 instance_of:
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
-- '[[_Standards/WikiData/WD~ecclesiastical_polity,2526886]]'
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~Catholic_organization,23955632]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~ecclesiastical_polity,2526886|WD~ecclesiastical_polity,2526886]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~Catholic_organization,23955632|WD~Catholic_organization,23955632]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~cardinal_bishop,1729113]]'
-- '[[_Standards/WikiData/WD~cardinal_priest,2033341]]'
-- '[[_Standards/WikiData/WD~cardinal_deacon,2361374]]'
-- '[[_Standards/WikiData/WD~cardinal_elector,111597003]]'
-- '[[_Standards/WikiData/WD~cardinal,45722]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_College_of_Cardinals,26080359]]'
-parent_organization: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+- '[[_Standards/WikiData/WD~cardinal_bishop,1729113|WD~cardinal_bishop,1729113]]'
+- '[[_Standards/WikiData/WD~cardinal_priest,2033341|WD~cardinal_priest,2033341]]'
+- '[[_Standards/WikiData/WD~cardinal_deacon,2361374|WD~cardinal_deacon,2361374]]'
+- '[[_Standards/WikiData/WD~cardinal_elector,111597003|WD~cardinal_elector,111597003]]'
+- '[[_Standards/WikiData/WD~cardinal,45722|WD~cardinal,45722]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_College_of_Cardinals,26080359|WD~Template_College_of_Cardinals,26080359]]'
+parent_organization: '[[_Standards/WikiData/WD~Catholic_Church,9592|WD~Catholic_Church,9592]]'
 Commons_category: College of Cardinals
 P8189: 987007511403305171
 dv_has_:

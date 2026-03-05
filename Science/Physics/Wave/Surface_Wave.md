@@ -35,7 +35,7 @@ aliases:
 - 面波
 - 표면파
 has_id_wikidata: Q889796
-subclass_of: '[[_Standards/WikiData/WD~mechanical_wave,1132631]]'
+subclass_of: '[[_Standards/WikiData/WD~mechanical_wave,1132631|WD~mechanical_wave,1132631]]'
 Dewey_Decimal_Classification: 530.417
 dv_has_:
   name_:
@@ -78,7 +78,7 @@ dv_has_:
 
 # [[Surface_Wave]] 
 
-#is_/same_as :: [[../../../WikiData/WD~surface_wave,889796]] 
+#is_/same_as :: [[../../../WikiData/WD~surface_wave,889796|WD~surface_wave,889796]] 
 
 ## #has_/text_of_/abstract 
 

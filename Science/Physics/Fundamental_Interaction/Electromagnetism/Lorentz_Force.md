@@ -62,10 +62,10 @@ aliases:
 - 로런츠 힘
 - 로렌쯔힘
 has_id_wikidata: Q172137
-part_of: '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-different_from: '[[_Standards/WikiData/WD~Coulomb_force,11773690]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~Coulomb_force,11773690|WD~Coulomb_force,11773690]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 in_defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D497</mi></mrow></mstyle></mrow></math>"
@@ -73,8 +73,8 @@ in_defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D469</mi></mrow></mstyle></mrow></math>"
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46C</mi></mrow></mstyle></mrow></math>"
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46D</mi></mrow></mstyle></mrow></math>"
-subclass_of: '[[_Standards/WikiData/WD~force,11402]]'
-named_after: '[[_Standards/WikiData/WD~Hendrik_Lorentz,41688]]'
+subclass_of: '[[_Standards/WikiData/WD~force,11402|WD~force,11402]]'
+named_after: '[[_Standards/WikiData/WD~Hendrik_Lorentz,41688|WD~Hendrik_Lorentz,41688]]'
 IEV_number: 121-11-20
 defining_formula: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46D</mi></mrow><mo stretchy=\"false\">=</mo><mi>q</mi><mo stretchy=\"false\">(</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46C</mi></mrow><mo stretchy=\"false\">+</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D497</mi></mrow><mo stretchy=\"false\">&#x00D7;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D469</mi></mrow><mo stretchy=\"false\">)</mo></mstyle></mrow></math>"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lorentz%20force%20on%20charged%20particles%20in%20bubble%20chamber%20-%20HD.6D.635%20%2812000265314%29.svg

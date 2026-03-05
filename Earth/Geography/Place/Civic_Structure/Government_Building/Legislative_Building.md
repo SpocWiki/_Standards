@@ -26,7 +26,7 @@ tags:
 title: is_a_legislative_building Class
 type: Type
 dv_has_:
-  parent_class: "[[../GovernmentBuilding]]"
+  parent_class: "[[../GovernmentBuilding|GovernmentBuilding]]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
   same_as:
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Legislative_Building.private|Legislative_Building.private]]"
     - "[[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Legislative_Building.personal|Legislative_Building.personal]]"
     - "[[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Legislative_Building.secret|Legislative_Building.secret]]"
-dv_has_parent_class: "[[../GovernmentBuilding]]"
+dv_has_parent_class: "[[../GovernmentBuilding|GovernmentBuilding]]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
   - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Legislative_Building|Legislative_Building]]"

@@ -97,32 +97,32 @@ Colon_Classification: NR;34
 Commons_category: Pianos
 Commons_gallery: Piano
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 786.2
-different_from: '[[_Standards/WikiData/WD~piano,2707020]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Bartolomeo_Cristofori,301597]]'
+different_from: '[[_Standards/WikiData/WD~piano,2707020|WD~piano,2707020]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Bartolomeo_Cristofori,301597|WD~Bartolomeo_Cristofori,301597]]'
 GitHub_topic: piano
 has_time_started: 1720-06
-highest_note: '[[_Standards/WikiData/WD~C8,5349143]]'
+highest_note: '[[_Standards/WikiData/WD~C8,5349143|WD~C8,5349143]]'
 Hornbostel_Sachs_classification: 314.122-4-8
 Iconclass_notation: 48C7333
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Steinway%20%26%20Sons%20concert%20grand%20piano%2C%20model%20D-274%2C%20manufactured%20at%20Steinway%27s%20factory%20in%20Hamburg%2C%20Germany.png
 inception: 1720
-instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396|WD~type_of_musical_instrument,110295396]]'
 Krugosvet_article: kultura_i_obrazovanie/muzyka/FORTEPIANO.html
-lowest_note: '[[_Standards/WikiData/WD~A,744346]]'
+lowest_note: '[[_Standards/WikiData/WD~A,744346|WD~A,744346]]'
 Nomenclature_for_Museum_Cataloging: 10717
 official_name: gravicembalo col piano e forte
 OmegaWiki_Defined_Meaning: 344431
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/PianoRange.tif
-subclass_of: '[[_Standards/WikiData/WD~keyboard_instrument,52954]]'
+subclass_of: '[[_Standards/WikiData/WD~keyboard_instrument,52954|WD~keyboard_instrument,52954]]'
 subreddit: piano
 time_of_discovery_or_invention: 1700
-used_by: '[[_Standards/WikiData/WD~pianist,486748]]'
+used_by: '[[_Standards/WikiData/WD~pianist,486748|WD~pianist,486748]]'
 dv_has_:
   name_:
     af: klavier

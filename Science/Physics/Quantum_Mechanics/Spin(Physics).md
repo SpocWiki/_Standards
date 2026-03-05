@@ -2,16 +2,16 @@
 aliases:
 has_id_wikidata: Q133673
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~angular_momentum,161254]]"
-  - "[[_Standards/WikiData/WD~vector_quantity,2672914]]"
-  - "[[_Standards/WikiData/WD~physical_property,4373292]]"
-different_from: "[[_Standards/WikiData/WD~Spin,229949]]"
-used_by: "[[_Standards/WikiData/WD~spintronics,258659]]"
-recommended_unit_of_measurement: "[[_Standards/WikiData/WD~kilogram_square_metre_per_second,65665675]]"
+  - "[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]"
+  - "[[_Standards/WikiData/WD~angular_momentum,161254|WD~angular_momentum,161254]]"
+  - "[[_Standards/WikiData/WD~vector_quantity,2672914|WD~vector_quantity,2672914]]"
+  - "[[_Standards/WikiData/WD~physical_property,4373292|WD~physical_property,4373292]]"
+different_from: "[[_Standards/WikiData/WD~Spin,229949|WD~Spin,229949]]"
+used_by: "[[_Standards/WikiData/WD~spintronics,258659|WD~spintronics,258659]]"
+recommended_unit_of_measurement: "[[_Standards/WikiData/WD~kilogram_square_metre_per_second,65665675|WD~kilogram_square_metre_per_second,65665675]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171]]"
-  - "[[_Standards/WikiData/WD~Story_of_Spin,106736469]]"
+  - "[[_Standards/WikiData/WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171|WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171]]"
+  - "[[_Standards/WikiData/WD~Story_of_Spin,106736469|WD~Story_of_Spin,106736469]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%22Father%22%20and%20%22Mother%22%20of%20the%20series%20%22Spin%20Family%22.jpg
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Projektion%20von%20S%20auf%20die%20z-Achse%20fuer%20spin%20einhalbe%20Teilchen.svg

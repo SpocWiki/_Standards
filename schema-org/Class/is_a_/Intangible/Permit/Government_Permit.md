@@ -37,7 +37,7 @@ dv_is_:
     - "[[Government_Permit]]"
 dv_has_:
   parent_class:
-    - "[[../Permit]]"
+    - "[[../Permit|Permit]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -59,7 +59,7 @@ dv_has_:
     - "[[../../../../Relation/is/is_valid_in|is_valid_in]]"
     - "[[valid_until|valid_until]]"
 dv_has_parent_class:
-  - "[[../Permit]]"
+  - "[[../Permit|Permit]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"

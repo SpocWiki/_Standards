@@ -161,55 +161,55 @@ MeSH_tree_code: K01.844.117
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/BUDDA_I_BUDDIZM.html
 IPTC_NewsCode: mediatopic/20000658
 OpenStreetMap_tag: religion=buddhist
-location_of_formation: "[[_Standards/WikiData/WD~Bodh_Gaya,176767]]"
+location_of_formation: "[[_Standards/WikiData/WD~Bodh_Gaya,176767|WD~Bodh_Gaya,176767]]"
 history_of_topic:
-  - "[[_Standards/WikiData/WD~timeline_of_Buddhism,186955]]"
-  - "[[_Standards/WikiData/WD~history_of_Buddhism,464200]]"
-different_from: "[[_Standards/WikiData/WD~Lama,191421]]"
+  - "[[_Standards/WikiData/WD~timeline_of_Buddhism,186955|WD~timeline_of_Buddhism,186955]]"
+  - "[[_Standards/WikiData/WD~history_of_Buddhism,464200|WD~history_of_Buddhism,464200]]"
+different_from: "[[_Standards/WikiData/WD~Lama,191421|WD~Lama,191421]]"
 practiced_by:
-  - "[[_Standards/WikiData/WD~saṅgha,193944]]"
-  - "[[_Standards/WikiData/WD~Buddhists,6926246]]"
-separated_from: "[[_Standards/WikiData/WD~Historical_Vedic_religion,194497]]"
-follows: "[[_Standards/WikiData/WD~Historical_Vedic_religion,194497]]"
-has_part_s_: "[[_Standards/WikiData/WD~school_of_Buddhism,222516]]"
+  - "[[_Standards/WikiData/WD~saṅgha,193944|WD~saṅgha,193944]]"
+  - "[[_Standards/WikiData/WD~Buddhists,6926246|WD~Buddhists,6926246]]"
+separated_from: "[[_Standards/WikiData/WD~Historical_Vedic_religion,194497|WD~Historical_Vedic_religion,194497]]"
+follows: "[[_Standards/WikiData/WD~Historical_Vedic_religion,194497|WD~Historical_Vedic_religion,194497]]"
+has_part_s_: "[[_Standards/WikiData/WD~school_of_Buddhism,222516|WD~school_of_Buddhism,222516]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-studied_by: "[[_Standards/WikiData/WD~Buddhist_studies,1000976]]"
-flag: "[[_Standards/WikiData/WD~Buddhist_flag,1130142]]"
-foundational_text: "[[_Standards/WikiData/WD~Tripitaka,1321432]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082|WD~Orthodox_Theological_Encyclopedia,19211082]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+studied_by: "[[_Standards/WikiData/WD~Buddhist_studies,1000976|WD~Buddhist_studies,1000976]]"
+flag: "[[_Standards/WikiData/WD~Buddhist_flag,1130142|WD~Buddhist_flag,1130142]]"
+foundational_text: "[[_Standards/WikiData/WD~Tripitaka,1321432|WD~Tripitaka,1321432]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~Indian_religions,1651597]]"
-  - "[[_Standards/WikiData/WD~subject_of_depiction,53001749]]"
-has_characteristic: "[[_Standards/WikiData/WD~religious_philosophy,2054106]]"
+  - "[[_Standards/WikiData/WD~Indian_religions,1651597|WD~Indian_religions,1651597]]"
+  - "[[_Standards/WikiData/WD~subject_of_depiction,53001749|WD~subject_of_depiction,53001749]]"
+has_characteristic: "[[_Standards/WikiData/WD~religious_philosophy,2054106|WD~religious_philosophy,2054106]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
-  - "[[_Standards/WikiData/WD~major_religious_group,6957341]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-  - "[[_Standards/WikiData/WD~lifestyle,32090]]"
-  - "[[_Standards/WikiData/WD~world_view,49447]]"
+  - "[[_Standards/WikiData/WD~philosophical_movement,2915955|WD~philosophical_movement,2915955]]"
+  - "[[_Standards/WikiData/WD~major_religious_group,6957341|WD~major_religious_group,6957341]]"
+  - "[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]"
+  - "[[_Standards/WikiData/WD~lifestyle,32090|WD~lifestyle,32090]]"
+  - "[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]"
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Buddhism,6328236]]"
-  - "[[_Standards/WikiData/WD~Template_Buddhism_topics,6731904]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Buddhism,7112212]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Buddhism,8207681]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Buddhism,11008004]]"
-location: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+  - "[[_Standards/WikiData/WD~Template_Buddhism,6328236|WD~Template_Buddhism,6328236]]"
+  - "[[_Standards/WikiData/WD~Template_Buddhism_topics,6731904|WD~Template_Buddhism_topics,6731904]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Buddhism,7112212|WD~outline_of_Buddhism,7112212]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Buddhism,8207681|WD~Portal_Buddhism,8207681]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Buddhism,11008004|WD~WikiProject_Buddhism,11008004]]"
+location: "[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]"
 inception: http://www.wikidata.org/.well-known/genid/773771617a6bd6932df3429addcc4dac
 official_religion:
-  - "[[_Standards/WikiData/WD~Myanmar,836]]"
-  - "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
-  - "[[_Standards/WikiData/WD~Thailand,869]]"
-  - "[[_Standards/WikiData/WD~Bhutan,917]]"
-named_after: "[[_Standards/WikiData/WD~Buddha,7055]]"
-founded_by: "[[_Standards/WikiData/WD~The_Buddha,9441]]"
+  - "[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]"
+  - "[[_Standards/WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]"
+  - "[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]"
+  - "[[_Standards/WikiData/WD~Bhutan,917|WD~Bhutan,917]]"
+named_after: "[[_Standards/WikiData/WD~Buddha,7055|WD~Buddha,7055]]"
+founded_by: "[[_Standards/WikiData/WD~The_Buddha,9441|WD~The_Buddha,9441]]"
 Universal_Decimal_Classification: 24
 IAB_code: 458
 U_S_National_Archives_Identifier: 10644225
@@ -487,7 +487,7 @@ dv_has_:
 # [[Buddhism]] ☸︎ 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Buddhism,748|WD~Buddhism,748]] 
-#has_/complement :: [[../../../../../bio/Psychology/Mind/Meditation/FOMO]]  
+#has_/complement :: [[../../../../../bio/Psychology/Mind/Meditation/FOMO|FOMO]]  
 
 ## #has_/text_of_/abstract 
 

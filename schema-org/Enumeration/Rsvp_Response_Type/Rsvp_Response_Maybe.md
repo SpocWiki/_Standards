@@ -27,9 +27,9 @@ tags:
 title: is_a_rsvp_response_maybe Class
 type: Type
 dv_has_:
-  parent_class: "[[../RsvpResponseType]]"
+  parent_class: "[[../RsvpResponseType|RsvpResponseType]]"
 dv_is_:
-  enum_of: "[[../RsvpResponseType]]"
+  enum_of: "[[../RsvpResponseType|RsvpResponseType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe|Rsvp_Response_Maybe]]"
     - "[[/_public/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.public|Rsvp_Response_Maybe.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.personal|Rsvp_Response_Maybe.personal]]"
     - "[[/_secret/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.secret|Rsvp_Response_Maybe.secret]]"
     - "[[Rsvp_Response_Maybe]]"
-dv_has_parent_class: "[[../RsvpResponseType]]"
-dv_is_enum_of: "[[../RsvpResponseType]]"
+dv_has_parent_class: "[[../RsvpResponseType|RsvpResponseType]]"
+dv_is_enum_of: "[[../RsvpResponseType|RsvpResponseType]]"
 dv_is_same_as:
   - "[[Rsvp_Response_Maybe]]"
   - "[[/_public/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.public|Rsvp_Response_Maybe.public]]"

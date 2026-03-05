@@ -85,23 +85,23 @@ aliases:
 - ꯌꯨꯅꯤꯀꯣꯔꯟ
 - 유니콘
 has_id_wikidata: Q7246
-has_part_s_: '[[_Standards/WikiData/WD~unicorn_horn,406008]]'
+has_part_s_: '[[_Standards/WikiData/WD~unicorn_horn,406008|WD~unicorn_horn,406008]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-- '[[_Standards/WikiData/WD~Unicron,1049322]]'
-- '[[_Standards/WikiData/WD~unicorn_in_a_work_of_fiction,30167264]]'
+- '[[_Standards/WikiData/WD~Unicron,1049322|WD~Unicron,1049322]]'
+- '[[_Standards/WikiData/WD~unicorn_in_a_work_of_fiction,30167264|WD~unicorn_in_a_work_of_fiction,30167264]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mythical_creature,2239243]]'
-- '[[_Standards/WikiData/WD~imaginary_horse,115252411]]'
-instance_of: '[[_Standards/WikiData/WD~class_of_mythical_entities,33294038]]'
+- '[[_Standards/WikiData/WD~mythical_creature,2239243|WD~mythical_creature,2239243]]'
+- '[[_Standards/WikiData/WD~imaginary_horse,115252411|WD~imaginary_horse,115252411]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_mythical_entities,33294038|WD~class_of_mythical_entities,33294038]]'
 OmegaWiki_Defined_Meaning: 449593
 Commons_gallery: Unicorn
 hashtag: unicorn

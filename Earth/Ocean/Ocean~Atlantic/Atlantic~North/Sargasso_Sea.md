@@ -81,14 +81,14 @@ location:
 - 28.335555555
 - -66.175
 coordinate_location: Point(-66.175 28.335555555)
-part_of: '[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134]]'
+part_of: '[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134|WD~North_Atlantic_Ocean,350134]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134|WD~North_Atlantic_Ocean,350134]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-named_after: '[[_Standards/WikiData/WD~Sargassum,865061]]'
-instance_of: '[[_Standards/WikiData/WD~sea,165]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+named_after: '[[_Standards/WikiData/WD~Sargassum,865061|WD~Sargassum,865061]]'
+instance_of: '[[_Standards/WikiData/WD~sea,165|WD~sea,165]]'
 vertical_depth: 7000
 width: 1100
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1891%20SargassoSee%20Krummel%20Petermanns%20lores.jpg
@@ -96,7 +96,7 @@ Commons_category: Sargasso Sea
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sargasso.svg
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Sargasso_Sea,169274]]'
+  - '[[../../../../WikiData/WD~Sargasso_Sea,169274|WD~Sargasso_Sea,169274]]'
   - '[[/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea|Sargasso_Sea]]'
   - '[[/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.public|Sargasso_Sea.public]]'
   - '[[/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.internal|Sargasso_Sea.internal]]'
@@ -105,7 +105,7 @@ dv_is_:
   - '[[/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.personal|Sargasso_Sea.personal]]'
   - '[[/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.secret|Sargasso_Sea.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Sargasso_Sea,169274]]'
+- '[[../../../../WikiData/WD~Sargasso_Sea,169274|WD~Sargasso_Sea,169274]]'
 - '[[/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea|Sargasso_Sea]]'
 - '[[/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.public|Sargasso_Sea.public]]'
 - '[[/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.internal|Sargasso_Sea.internal]]'

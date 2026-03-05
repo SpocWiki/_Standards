@@ -70,7 +70,7 @@ Use it like this:
 - #has_/sports_team : : SportsTeam  
 - has_sports_team = `=this.dv_has_sports_team`  
 
-A sub property of[[../has_participant]]]. The sports team that participated on this action.
+A sub property of[[../has_participant|has_participant]]]. The sports team that participated on this action.
 
 Relation describes that: 
 

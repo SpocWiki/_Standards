@@ -56,14 +56,14 @@ aliases:
 - 歐洲足球會協會
 - 유럽 클럽 협회
 has_id_wikidata: Q841054
-chairperson: '[[_Standards/WikiData/WD~Nasser_Al_Khelaifi,776008]]'
-instance_of: '[[_Standards/WikiData/WD~sports_organization,4438121]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_ECA,8096520]]'
+chairperson: '[[_Standards/WikiData/WD~Nasser_Al_Khelaifi,776008|WD~Nasser_Al_Khelaifi,776008]]'
+instance_of: '[[_Standards/WikiData/WD~sports_organization,4438121|WD~sports_organization,4438121]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_ECA,8096520|WD~Template_ECA,8096520]]'
 topic_s_main_category:
-- '[[_Standards/WikiData/WD~Q32521626,32521626]]'
-- '[[_Standards/WikiData/WD~Q106855239,106855239]]'
-sport: '[[_Standards/WikiData/WD~association_football,2736]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Nyon,64027]]'
+- '[[_Standards/WikiData/WD~Q32521626,32521626|WD~Q32521626,32521626]]'
+- '[[_Standards/WikiData/WD~Q106855239,106855239|WD~Q106855239,106855239]]'
+sport: '[[_Standards/WikiData/WD~association_football,2736|WD~association_football,2736]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Nyon,64027|WD~Nyon,64027]]'
 inception: 2008-01-01T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/ECA%20logo.svg
 official_website: https://www.ecaeurope.com/

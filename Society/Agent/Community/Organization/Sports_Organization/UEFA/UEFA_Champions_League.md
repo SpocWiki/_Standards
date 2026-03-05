@@ -98,19 +98,19 @@ aliases:
 - 歐洲聯賽冠軍盃
 has_id_wikidata: Q18756
 instance_of:
-- '[[_Standards/WikiData/WD~sports_league,623109]]'
-- '[[_Standards/WikiData/WD~international_association_football_clubs_cup,34542757]]'
-anthem: '[[_Standards/WikiData/WD~UEFA_Champions_League_Anthem,1453101]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_UEFA_Champions_League,5832234]]'
+- '[[_Standards/WikiData/WD~sports_league,623109|WD~sports_league,623109]]'
+- '[[_Standards/WikiData/WD~international_association_football_clubs_cup,34542757|WD~international_association_football_clubs_cup,34542757]]'
+anthem: '[[_Standards/WikiData/WD~UEFA_Champions_League_Anthem,1453101|WD~UEFA_Champions_League_Anthem,1453101]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_UEFA_Champions_League,5832234|WD~Template_UEFA_Champions_League,5832234]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-significant_event: '[[_Standards/WikiData/WD~current_season,123591599]]'
-sport: '[[_Standards/WikiData/WD~association_football,2736]]'
-month_of_the_year: '[[_Standards/WikiData/WD~June,120]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836|WD~Larousse_Encyclopedia_online,17329836]]'
+significant_event: '[[_Standards/WikiData/WD~current_season,123591599|WD~current_season,123591599]]'
+sport: '[[_Standards/WikiData/WD~association_football,2736|WD~association_football,2736]]'
+month_of_the_year: '[[_Standards/WikiData/WD~June,120|WD~June,120]]'
 event_interval: 1
 number_of_participants: 55
-organizer: '[[_Standards/WikiData/WD~Union_of_European_Football_Associations,35572]]'
+organizer: '[[_Standards/WikiData/WD~Union_of_European_Football_Associations,35572|WD~Union_of_European_Football_Associations,35572]]'
 official_website: https://www.uefa.com/uefachampionsleague
 inception: 1955-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/UEFA%20Champions%20League%20logo%20no%20text.svg

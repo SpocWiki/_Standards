@@ -71,14 +71,14 @@ aliases:
 - 道路運輸
 - 교통량
 has_id_wikidata: Q516739
-has_effect: '[[_Standards/WikiData/WD~economic_growth,189833]]'
-instance_of: '[[_Standards/WikiData/WD~mode_of_transport,334166]]'
-produced_sound: '[[_Standards/WikiData/WD~roadway_noise,1850027]]'
-has_part_s_: '[[_Standards/WikiData/WD~road_tunnel,2354973]]'
+has_effect: '[[_Standards/WikiData/WD~economic_growth,189833|WD~economic_growth,189833]]'
+instance_of: '[[_Standards/WikiData/WD~mode_of_transport,334166|WD~mode_of_transport,334166]]'
+produced_sound: '[[_Standards/WikiData/WD~roadway_noise,1850027|WD~roadway_noise,1850027]]'
+has_part_s_: '[[_Standards/WikiData/WD~road_tunnel,2354973|WD~road_tunnel,2354973]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~traffic,4323994]]'
-- '[[_Standards/WikiData/WD~land_transport,4354683]]'
-uses: '[[_Standards/WikiData/WD~road,34442]]'
+- '[[_Standards/WikiData/WD~traffic,4323994|WD~traffic,4323994]]'
+- '[[_Standards/WikiData/WD~land_transport,4354683|WD~land_transport,4354683]]'
+uses: '[[_Standards/WikiData/WD~road,34442|WD~road,34442]]'
 Dewey_Decimal_Classification:
 - 388.41
 - 388.3
@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Road_Transport]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~road_transport,516739]] 
+#is_/same_as :: [[_Standards/WikiData/WD~road_transport,516739|WD~road_transport,516739]] 
 
 ## #has_/text_of_/abstract 
 

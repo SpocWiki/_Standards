@@ -114,25 +114,25 @@ aliases:
 has_id_wikidata: Q9492
 All_Science_Journal_Classification_Codes: 2613
 Commons_category: Probability
-contributing_factor_of: '[[_Standards/WikiData/WD~uncertainty,13649246]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~uncertainty,13649246|WD~uncertainty,13649246]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~ISO_3534-1_2006(en)_Statistics___Vocabulary_and_symbols___Part_1__General_statistical_terms_and_terms_used_in_probability,111973641]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~ISO_3534-1_2006(en)_Statistics___Vocabulary_and_symbols___Part_1__General_statistical_terms_and_terms_used_in_probability,111973641|WD~ISO_3534-1_2006(en)_Statistics___Vocabulary_and_symbols___Part_1__General_statistical_terms_and_terms_used_in_probability,111973641]]'
 Dewey_Decimal_Classification:
 - 121.63
 - 519
 - 519.2
-facet_of: '[[_Standards/WikiData/WD~number_of_outcomes,16182051]]'
+facet_of: '[[_Standards/WikiData/WD~number_of_outcomes,16182051|WD~number_of_outcomes,16182051]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~central_limit_theorem,190391]]'
-- '[[_Standards/WikiData/WD~probability_distribution,200726]]'
-- '[[_Standards/WikiData/WD~law_of_large_numbers,207952]]'
-- '[[_Standards/WikiData/WD~probability_measure,355020]]'
+- '[[_Standards/WikiData/WD~central_limit_theorem,190391|WD~central_limit_theorem,190391]]'
+- '[[_Standards/WikiData/WD~probability_distribution,200726|WD~probability_distribution,200726]]'
+- '[[_Standards/WikiData/WD~law_of_large_numbers,207952|WD~law_of_large_numbers,207952]]'
+- '[[_Standards/WikiData/WD~probability_measure,355020|WD~probability_measure,355020]]'
 Iconclass_notation: 52B31
 IEV_number: 103-08-02
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nuvola%20apps%20atlantik.png
-image_of_function: '[[_Standards/WikiData/WD~unit_interval,1987578]]'
-instance_of: '[[_Standards/WikiData/WD~probability_measure,355020]]'
+image_of_function: '[[_Standards/WikiData/WD~unit_interval,1987578|WD~unit_interval,1987578]]'
+instance_of: '[[_Standards/WikiData/WD~probability_measure,355020|WD~probability_measure,355020]]'
 ISQ_dimension: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle 1}">
     <semantics>
@@ -144,13 +144,13 @@ ISQ_dimension: >-
       <annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
     </semantics>
   </math>
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 MeSH_tree_code:
 - E05.318.740.600
 - G17.680
 - N05.715.360.750.625
 - N06.850.520.830.600
-notation: '[[_Standards/WikiData/WD~P,9946]]'
+notation: '[[_Standards/WikiData/WD~P,9946|WD~P,9946]]'
 quantity_symbol_LaTeX_:
 - >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle p}">
@@ -181,17 +181,17 @@ Stack_Exchange_tag:
 - https://poker.stackexchange.com/tags/probability
 - https://physics.stackexchange.com/tags/probability
 studied_in:
-- '[[_Standards/WikiData/WD~probability_theory,5862903]]'
-- '[[_Standards/WikiData/WD~statistics,12483]]'
+- '[[_Standards/WikiData/WD~probability_theory,5862903|WD~probability_theory,5862903]]'
+- '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
-- '[[_Standards/WikiData/WD~mathematical_object,246672]]'
-- '[[_Standards/WikiData/WD~possibility,21170479]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q18293094,18293094]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Probability_topics_sidebar,17045846]]'
+- '[[_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]'
+- '[[_Standards/WikiData/WD~mathematical_object,246672|WD~mathematical_object,246672]]'
+- '[[_Standards/WikiData/WD~possibility,21170479|WD~possibility,21170479]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q18293094,18293094|WD~Q18293094,18293094]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Probability_topics_sidebar,17045846|WD~Template_Probability_topics_sidebar,17045846]]'
 UMLS_CUI: C0033204
 Universal_Decimal_Classification: 519.2
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_probability,7112704]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_probability,7112704|WD~outline_of_probability,7112704]]'
 dv_has_:
   name_:
     af: Waarskynlikheidsleer

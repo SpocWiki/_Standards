@@ -68,19 +68,19 @@ aliases:
 - 트라이아스기
 has_id_wikidata: Q47158
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
-different_from: '[[_Standards/WikiData/WD~Trias,445213]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+different_from: '[[_Standards/WikiData/WD~Trias,445213|WD~Trias,445213]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -251902000-01-01T00:00:00Z
 end_time: -201400000-01-01T00:00:00Z
-named_by: '[[_Standards/WikiData/WD~Friedrich_August_von_Alberti,62690]]'
+named_by: '[[_Standards/WikiData/WD~Friedrich_August_von_Alberti,62690|WD~Friedrich_August_von_Alberti,62690]]'
 Commons_category: Triassic
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20225%20Ma%20%28Norian%20Age%29.png
 IPA_transcription: /traɪˈæsɪk/
@@ -262,14 +262,14 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 251.902 to 201.4 million years ago. 
 
-![[../../../../../xLarge/Earth/Geology/Earth-225_Ma_(Norian_Age).png]] 
+![[../../../../../xLarge/Earth/Geology/Earth-225_Ma_(Norian_Age).png|Earth-225_Ma_(Norian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 
 > The **Triassic** (try-ASS-ik; sometimes symbolized 🝈) is a geologic period and system 
 > which spans 50.5 million years from the end of the [[../Era-0539~Paleozoic/Period-0299~Permian|Period-0299~Permian]] 251.902 million years ago (Mya), 
 > to the beginning of the [[Period-0201~Jurassic]] 201.4 Mya. 
-> The Triassic is the first and shortest period of the [[../Era-0251~Mesozoic]]. 
+> The Triassic is the first and shortest period of the [[../Era-0251~Mesozoic|Era-0251~Mesozoic]]. 
 > 
 > Both the start and end of the period are marked by major extinction events. 
 > The Triassic Period is subdivided into three epochs: Early Triassic, Middle Triassic and Late Triassic.

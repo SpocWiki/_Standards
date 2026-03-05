@@ -76,7 +76,7 @@ has_dual_property = `=this.dv_has_dual_property`
 
 Alternatively use the equivalent #cancelled  , because that is supported in [[../../../../Tasks/Tasks|Tasks]]: 
 
-Predicate to describe the date of [[../../Class/is_a_/Intangible/data_feed_item]].
+Predicate to describe the date of [[../../Class/is_a_/Intangible/data_feed_item|data_feed_item]].
 
 Use it like this: 
 - #has_/time_deleted::P#Y#M#W#DT#H#M#s.fff  

@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
+  - '[[_Standards/WikiData/WD~Eastern_Europe,27468|WD~Eastern_Europe,27468]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~East|Europe~East]]'
   - '[[/_public/Earth/Continent/Europe/Europe~East.public|Europe~East.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~East.internal|Europe~East.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Europe/Europe~East.personal|Europe~East.personal]]'
   - '[[/_secret/Earth/Continent/Europe/Europe~East.secret|Europe~East.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
+- '[[_Standards/WikiData/WD~Eastern_Europe,27468|WD~Eastern_Europe,27468]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~East|Europe~East]]'
 - '[[/_public/Earth/Continent/Europe/Europe~East.public|Europe~East.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~East.internal|Europe~East.internal]]'
@@ -174,36 +174,36 @@ Libris_URI: zw9cbfdh145s6j0
 short_name:
 - 東欧
 - 동구
-instance_of: '[[_Standards/WikiData/WD~region,82794]]'
+instance_of: '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~European_Russia,875134]]'
-- '[[_Standards/WikiData/WD~European_Kazakhstan,4753068]]'
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Belarus,184]]'
-- '[[_Standards/WikiData/WD~Slovakia,214]]'
-- '[[_Standards/WikiData/WD~Ukraine,212]]'
-- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
-- '[[_Standards/WikiData/WD~Romania,218]]'
-- '[[_Standards/WikiData/WD~Bulgaria,219]]'
-- '[[_Standards/WikiData/WD~Moldova,217]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-studied_by: '[[_Standards/WikiData/WD~Eastern_European_studies,1413113]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Eastern_Europe,1641744]]'
-different_from: '[[_Standards/WikiData/WD~Q11697332,11697332]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Eastern_Europe,64147925]]'
+- '[[_Standards/WikiData/WD~European_Russia,875134|WD~European_Russia,875134]]'
+- '[[_Standards/WikiData/WD~European_Kazakhstan,4753068|WD~European_Kazakhstan,4753068]]'
+- '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Slovakia,214|WD~Slovakia,214]]'
+- '[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]'
+- '[[_Standards/WikiData/WD~Romania,218|WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]'
+- '[[_Standards/WikiData/WD~Moldova,217|WD~Moldova,217]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+studied_by: '[[_Standards/WikiData/WD~Eastern_European_studies,1413113|WD~Eastern_European_studies,1413113]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Eastern_Europe,1641744|WD~history_of_Eastern_Europe,1641744]]'
+different_from: '[[_Standards/WikiData/WD~Q11697332,11697332|WD~Q11697332,11697332]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Eastern_Europe,64147925|WD~Portal_Eastern_Europe,64147925]]'
 coordinates_of_easternmost_point: Point(59.0 60.0)
 coordinates_of_southernmost_point: Point(25.285 41.236111111)
 coordinate_location: Point(31.0 49.0)
 coordinates_of_northernmost_point: Point(43.400305555 68.669305555)
 coordinates_of_westernmost_point: Point(12.091111111 50.251944444)
 shares_border_with:
-- '[[_Standards/WikiData/WD~West_Asia,27293]]'
-- '[[_Standards/WikiData/WD~North_Asia,27329]]'
-- '[[_Standards/WikiData/WD~Southern_Europe,27449]]'
-- '[[_Standards/WikiData/WD~Northern_Europe,27479]]'
-- '[[_Standards/WikiData/WD~Western_Europe,27496]]'
-part_of: '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~West_Asia,27293|WD~West_Asia,27293]]'
+- '[[_Standards/WikiData/WD~North_Asia,27329|WD~North_Asia,27329]]'
+- '[[_Standards/WikiData/WD~Southern_Europe,27449|WD~Southern_Europe,27449]]'
+- '[[_Standards/WikiData/WD~Northern_Europe,27479|WD~Northern_Europe,27479]]'
+- '[[_Standards/WikiData/WD~Western_Europe,27496|WD~Western_Europe,27496]]'
+part_of: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 M49_code: 151
 OmegaWiki_Defined_Meaning: 1026
 PM20_geo_code: A3
@@ -387,7 +387,7 @@ dv_has_:
 
 # [[Europe~East]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Eastern_Europe,27468]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Eastern_Europe,27468|WD~Eastern_Europe,27468]] 
 
 ## #has_/map 
 

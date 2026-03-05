@@ -17,9 +17,9 @@ dv_has_name_en: Hong Kong, China
 dv_has_name_de: Hong Kong
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: "[[../../Asia|Asia]]"
 dv_VehicleCode: HK
-dv_Capital: "[[China/provinces~China/Guangdong/Hong_Kong]]"
+dv_Capital: "[[China/provinces~China/Guangdong/Hong_Kong|Hong_Kong]]"
 dv_Language-Id: 485
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 114.159

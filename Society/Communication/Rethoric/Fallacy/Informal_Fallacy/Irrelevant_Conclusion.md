@@ -27,14 +27,14 @@ aliases:
 - 무관한 결론
 has_id_wikidata: Q737677
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~tu_quoque,911275]]'
-- '[[_Standards/WikiData/WD~straw_man_argument,912820]]'
-- '[[_Standards/WikiData/WD~gohan_ronpo,85868869]]'
-instance_of: '[[_Standards/WikiData/WD~Latin_phrase,3062294]]'
-subclass_of: '[[_Standards/WikiData/WD~relevance_fallacy,105291550]]'
+- '[[_Standards/WikiData/WD~tu_quoque,911275|WD~tu_quoque,911275]]'
+- '[[_Standards/WikiData/WD~straw_man_argument,912820|WD~straw_man_argument,912820]]'
+- '[[_Standards/WikiData/WD~gohan_ronpo,85868869|WD~gohan_ronpo,85868869]]'
+instance_of: '[[_Standards/WikiData/WD~Latin_phrase,3062294|WD~Latin_phrase,3062294]]'
+subclass_of: '[[_Standards/WikiData/WD~relevance_fallacy,105291550|WD~relevance_fallacy,105291550]]'
 dv_has_:
   name_:
     ar: تجاهل المطلوب
@@ -83,7 +83,7 @@ dv_has_:
 
 # [[Irrelevant_Conclusion]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~irrelevant_conclusion,737677]]
+#is_/same_as :: [[_Standards/WikiData/WD~irrelevant_conclusion,737677|WD~irrelevant_conclusion,737677]]
 
 ## #has_/text_of_/abstract 
 

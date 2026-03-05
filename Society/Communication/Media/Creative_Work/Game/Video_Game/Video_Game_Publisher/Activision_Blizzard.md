@@ -16,41 +16,41 @@ aliases:
 has_id_wikidata: Q344341
 inception: 2008-07-10T00:00:00Z
 parent_organization_or_unit:
-- '[[_Standards/WikiData/WD~Xbox_Game_Studios,73801]]'
-- '[[_Standards/WikiData/WD~Microsoft_Gaming,117536672]]'
-- '[[_Standards/WikiData/WD~Microsoft,2283]]'
+- '[[_Standards/WikiData/WD~Xbox_Game_Studios,73801|WD~Xbox_Game_Studios,73801]]'
+- '[[_Standards/WikiData/WD~Microsoft_Gaming,117536672|WD~Microsoft_Gaming,117536672]]'
+- '[[_Standards/WikiData/WD~Microsoft,2283|WD~Microsoft,2283]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Blizzard_Entertainment,178824]]'
-- '[[_Standards/WikiData/WD~Activision_Publishing,200491]]'
-- '[[_Standards/WikiData/WD~Sierra_Entertainment,494614]]'
-- '[[_Standards/WikiData/WD~Infinity_Ward,731482]]'
-- '[[_Standards/WikiData/WD~Neversoft,970264]]'
-- '[[_Standards/WikiData/WD~High_Moon_Studios,1098120]]'
-- '[[_Standards/WikiData/WD~Major_League_Gaming,1320732]]'
-- '[[_Standards/WikiData/WD~Shaba_Games,2406160]]'
-- '[[_Standards/WikiData/WD~Underground_Development,7883635]]'
-- '[[_Standards/WikiData/WD~Overwatch_League,28454335]]'
-- '[[_Standards/WikiData/WD~Call_of_Duty_League,84587038]]'
+- '[[_Standards/WikiData/WD~Blizzard_Entertainment,178824|WD~Blizzard_Entertainment,178824]]'
+- '[[_Standards/WikiData/WD~Activision_Publishing,200491|WD~Activision_Publishing,200491]]'
+- '[[_Standards/WikiData/WD~Sierra_Entertainment,494614|WD~Sierra_Entertainment,494614]]'
+- '[[_Standards/WikiData/WD~Infinity_Ward,731482|WD~Infinity_Ward,731482]]'
+- '[[_Standards/WikiData/WD~Neversoft,970264|WD~Neversoft,970264]]'
+- '[[_Standards/WikiData/WD~High_Moon_Studios,1098120|WD~High_Moon_Studios,1098120]]'
+- '[[_Standards/WikiData/WD~Major_League_Gaming,1320732|WD~Major_League_Gaming,1320732]]'
+- '[[_Standards/WikiData/WD~Shaba_Games,2406160|WD~Shaba_Games,2406160]]'
+- '[[_Standards/WikiData/WD~Underground_Development,7883635|WD~Underground_Development,7883635]]'
+- '[[_Standards/WikiData/WD~Overwatch_League,28454335|WD~Overwatch_League,28454335]]'
+- '[[_Standards/WikiData/WD~Call_of_Duty_League,84587038|WD~Call_of_Duty_League,84587038]]'
 child_organization_or_unit:
-- '[[_Standards/WikiData/WD~Blizzard_Entertainment,178824]]'
-- '[[_Standards/WikiData/WD~Activision_Publishing,200491]]'
-- '[[_Standards/WikiData/WD~King,2680856]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~Call_of_Duty,211096]]'
+- '[[_Standards/WikiData/WD~Blizzard_Entertainment,178824|WD~Blizzard_Entertainment,178824]]'
+- '[[_Standards/WikiData/WD~Activision_Publishing,200491|WD~Activision_Publishing,200491]]'
+- '[[_Standards/WikiData/WD~King,2680856|WD~King,2680856]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~Call_of_Duty,211096|WD~Call_of_Duty,211096]]'
 instance_of:
-- '[[_Standards/WikiData/WD~holding_company,219577]]'
-- '[[_Standards/WikiData/WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~holding_company,219577|WD~holding_company,219577]]'
+- '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
 part_of:
-- '[[_Standards/WikiData/WD~S&P_500,242345]]'
-- '[[_Standards/WikiData/WD~Nasdaq_100,507306]]'
+- '[[_Standards/WikiData/WD~S&P_500,242345|WD~S&P_500,242345]]'
+- '[[_Standards/WikiData/WD~Nasdaq_100,507306|WD~Nasdaq_100,507306]]'
 legal_form:
-- '[[_Standards/WikiData/WD~public_company,891723]]'
-- '[[_Standards/WikiData/WD~Delaware_corporation,88537331]]'
-industry: '[[_Standards/WikiData/WD~video_game_industry,941594]]'
-chief_executive_officer: '[[_Standards/WikiData/WD~Q4117176,4117176]]'
-founded_by: '[[_Standards/WikiData/WD~Q4117176,4117176]]'
-member_of: '[[_Standards/WikiData/WD~game,55524865]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Activision_Blizzard,135746596]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~public_company,891723|WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~Delaware_corporation,88537331|WD~Delaware_corporation,88537331]]'
+industry: '[[_Standards/WikiData/WD~video_game_industry,941594|WD~video_game_industry,941594]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Q4117176,4117176|WD~Q4117176,4117176]]'
+founded_by: '[[_Standards/WikiData/WD~Q4117176,4117176|WD~Q4117176,4117176]]'
+member_of: '[[_Standards/WikiData/WD~game,55524865|WD~game,55524865]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Activision_Blizzard,135746596|WD~Portal_Activision_Blizzard,135746596]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 employees: 9000
 total_revenue:
 - 7500000000
@@ -70,7 +70,7 @@ total_revenue:
 - 8803000000
 market_capitalization: 16400000000
 operating_income: 1670000000
-headquarters_location: '[[_Standards/WikiData/WD~Santa_Monica,47164]]'
+headquarters_location: '[[_Standards/WikiData/WD~Santa_Monica,47164|WD~Santa_Monica,47164]]'
 net_profit: 1513000000
 social_media_followers: 187996
 subreddit: Blizzard
@@ -147,7 +147,7 @@ dv_has_:
 
 # [[Activision_Blizzard]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Activision_Blizzard,344341]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Activision_Blizzard,344341|WD~Activision_Blizzard,344341]] 
 
 ## #has_/text_of_/abstract 
 

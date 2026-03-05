@@ -29,17 +29,17 @@ aliases:
 - 포츈절
 has_id_wikidata: Q1424618
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Fortune,3078545]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Fortune,3078545|WD~Fortune,3078545]]'
 named_after:
-- '[[_Standards/WikiData/WD~Fortune,3078545]]'
-- '[[_Standards/WikiData/WD~Fortune_Head_Ecological_Reserve,3457657]]'
+- '[[_Standards/WikiData/WD~Fortune,3078545|WD~Fortune,3078545]]'
+- '[[_Standards/WikiData/WD~Fortune_Head_Ecological_Reserve,3457657|WD~Fortune_Head_Ecological_Reserve,3457657]]'
 type_locality_geology_:
-- '[[_Standards/WikiData/WD~Fortune_Head_Ecological_Reserve,3457657]]'
-- '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Fortunian,63565917]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Fortunian,30869627]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~Fortune_Head_Ecological_Reserve,3457657|WD~Fortune_Head_Ecological_Reserve,3457657]]'
+- '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Fortunian,63565917|WD~GSSP_for_the_base_of_the_Fortunian,63565917]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Fortunian,30869627|WD~Category_Fortunian,30869627]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -529000000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fortune%20Head%20GSSP%2C%20Newfoundland.jpg
 sRGB_color_hex_triplet: 99B575
@@ -162,7 +162,7 @@ has_previous_item = `=this.dv_has_previous_item`
 has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Fortunian,1424618]]  
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-530_Ma_(Fortunian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-530_Ma_(Fortunian_Age).png|Earth-530_Ma_(Fortunian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

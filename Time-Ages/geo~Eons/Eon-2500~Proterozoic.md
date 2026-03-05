@@ -34,23 +34,23 @@ aliases:
 - 钦扎诺
 - 친차노
 has_id_wikidata: Q9283
-patron_saint: '[[_Standards/WikiData/WD~Roch,152457]]'
-instance_of: '[[_Standards/WikiData/WD~commune_of_Italy,747074]]'
-capital: '[[_Standards/WikiData/WD~Cinzano,30024775]]'
-seismic_classification: '[[_Standards/WikiData/WD~4,106435267]]'
+patron_saint: '[[_Standards/WikiData/WD~Roch,152457|WD~Roch,152457]]'
+instance_of: '[[_Standards/WikiData/WD~commune_of_Italy,747074|WD~commune_of_Italy,747074]]'
+capital: '[[_Standards/WikiData/WD~Cinzano,30024775|WD~Cinzano,30024775]]'
+seismic_classification: '[[_Standards/WikiData/WD~4,106435267|WD~4,106435267]]'
 coordinates_of_northernmost_point: Point(7.9112847 45.1089492)
 coordinates_of_southernmost_point: Point(7.920227 45.0745035)
 coordinates_of_easternmost_point: Point(7.9421902 45.0862583)
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Casalborgone,9194]]'
-- '[[_Standards/WikiData/WD~Rivalba,10221]]'
-- '[[_Standards/WikiData/WD~Sciolze,10301]]'
-- '[[_Standards/WikiData/WD~Berzano_di_San_Pietro,17753]]'
-- '[[_Standards/WikiData/WD~Moncucco_Torinese,17828]]'
-country: '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Casalborgone,9194|WD~Casalborgone,9194]]'
+- '[[_Standards/WikiData/WD~Rivalba,10221|WD~Rivalba,10221]]'
+- '[[_Standards/WikiData/WD~Sciolze,10301|WD~Sciolze,10301]]'
+- '[[_Standards/WikiData/WD~Berzano_di_San_Pietro,17753|WD~Berzano_di_San_Pietro,17753]]'
+- '[[_Standards/WikiData/WD~Moncucco_Torinese,17828|WD~Moncucco_Torinese,17828]]'
+country: '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
 area: 6.2
 population: 331
 elevation_above_sea_level: 495
@@ -205,7 +205,7 @@ has_next_item = `=this.dv_has_next_item`
 A time period from 2500 to 538.8 million years ago.
 
 
-![[../../../../../xLarge/Earth/Geology/Earth-690_Ma_(Cryogenian_Period).png]]
+![[../../../../../xLarge/Earth/Geology/Earth-690_Ma_(Cryogenian_Period).png|Earth-690_Ma_(Cryogenian_Period).png]]
 
 ## #has_/text_of_/abstract 
 

@@ -59,28 +59,28 @@ SpocWebEntityId: 35949
 tags:
 - geo/City
 type: City
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Efate,266594]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Shefa,650617]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Efate,266594|WD~Efate,266594]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Shefa,650617|WD~Shefa,650617]]'
 head_of_government:
-- '[[_Standards/WikiData/WD~Ulrich_Sumptoh,18413677]]'
-- '[[_Standards/WikiData/WD~Erick_Puyo_Festa,106327250]]'
-- '[[_Standards/WikiData/WD~Jenny_Tasale_Regenvanu,129015205]]'
+- '[[_Standards/WikiData/WD~Ulrich_Sumptoh,18413677|WD~Ulrich_Sumptoh,18413677]]'
+- '[[_Standards/WikiData/WD~Erick_Puyo_Festa,106327250|WD~Erick_Puyo_Festa,106327250]]'
+- '[[_Standards/WikiData/WD~Jenny_Tasale_Regenvanu,129015205|WD~Jenny_Tasale_Regenvanu,129015205]]'
 coordinate_location: Point(168.316667 -17.73333)
-category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q27681094,27681094]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q27681144,27681144]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q27681094,27681094|WD~Q27681094,27681094]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q27681144,27681144|WD~Q27681144,27681144]]'
 instance_of:
-- '[[_Standards/WikiData/WD~largest_city,51929311]]'
-- '[[_Standards/WikiData/WD~national_capital,108178728]]'
-- '[[_Standards/WikiData/WD~city,515]]'
-capital_of: '[[_Standards/WikiData/WD~Vanuatu,686]]'
-country: '[[_Standards/WikiData/WD~Vanuatu,686]]'
+- '[[_Standards/WikiData/WD~largest_city,51929311|WD~largest_city,51929311]]'
+- '[[_Standards/WikiData/WD~national_capital,108178728|WD~national_capital,108178728]]'
+- '[[_Standards/WikiData/WD~city,515|WD~city,515]]'
+capital_of: '[[_Standards/WikiData/WD~Vanuatu,686|WD~Vanuatu,686]]'
+country: '[[_Standards/WikiData/WD~Vanuatu,686|WD~Vanuatu,686]]'
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~Bislama,35452]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+11_00,7069]]'
-twinned_administrative_body: '[[_Standards/WikiData/WD~Shanghai,8686]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~Bislama,35452|WD~Bislama,35452]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+11_00,7069|WD~UTC+11_00,7069]]'
+twinned_administrative_body: '[[_Standards/WikiData/WD~Shanghai,8686|WD~Shanghai,8686]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
 elevation_above_sea_level: 59
 area: 23.6
 local_dialing_code: 22

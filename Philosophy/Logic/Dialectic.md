@@ -69,16 +69,16 @@ aliases:
 - 변증법
 has_id_wikidata: Q9453
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240|WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Pencz%2C%20Dialectic%2C%20NGA%2033130.jpg
-main_subject: '[[_Standards/WikiData/WD~contrast,12378336]]'
-part_of: '[[_Standards/WikiData/WD~Western_philosophy,842333]]'
+main_subject: '[[_Standards/WikiData/WD~contrast,12378336|WD~contrast,12378336]]'
+part_of: '[[_Standards/WikiData/WD~Western_philosophy,842333|WD~Western_philosophy,842333]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Schopenhauers%20basis%20of%20dialectic.svg
-subclass_of: '[[_Standards/WikiData/WD~discourse,190539]]'
+subclass_of: '[[_Standards/WikiData/WD~discourse,190539|WD~discourse,190539]]'
 dv_has_:
   name_:
     af: dialektiek

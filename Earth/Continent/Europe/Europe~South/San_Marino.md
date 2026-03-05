@@ -161,7 +161,7 @@ dv_UNTERM_Chinese_Formal: 圣马力诺共和国
 dv_UNTERM_French_Formal: la République de Saint-Marin
 dv_UNTERM_Russian: Сан-Марино
 dv_UNTERM_Russian_Formal: Республика Сан-Марино
-dv_Region_Name: '[[../../Europe]]'
+dv_Region_Name: '[[../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[San_Marino]]'
 dv_Sub-region_Name: '[[Southern Europe]]'
 dv_Region: 150
@@ -505,7 +505,7 @@ dv_has_:
 dv_has_name_de: San Marino
 dv_Area-Total: 61
 dv_Area-Land: 60
-dv_has_place_continent: '[[../../Europe]]'
+dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: RSM
 dv_Capital: '[[San_Marino]]'
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
@@ -600,7 +600,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[San_Marino/ReadMe]] 
+[[San_Marino/ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -617,7 +617,7 @@ markerFolder: ./San_Marino//
 [has_name_en::San Marino]
 has_name_de = `=this.dv_has_name_de`
 ![[San_Marino/Coat_of_arms_of_San_Marino.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3|Anthem-Montenegro.mp3]]
 ![[San_Marino/Flag_of_San_Marino.svg|350]]
 
 Area-Total = `=this.dv_Area-Total`

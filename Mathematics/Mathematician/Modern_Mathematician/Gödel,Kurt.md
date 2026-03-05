@@ -43,110 +43,110 @@ aliases:
 - 庫爾特·弗雷德里希·哥德爾
 - 쿠르트 괴델
 has_id_wikidata: Q41390
-academic_thesis: '[[_Standards/WikiData/WD~Über_die_Vollständigkeit_des_Logikkalküls,109450144]]'
+academic_thesis: '[[_Standards/WikiData/WD~Über_die_Vollständigkeit_des_Logikkalküls,109450144|WD~Über_die_Vollständigkeit_des_Logikkalküls,109450144]]'
 ACM_Classification_Code_2012_: 10011419
-archives_at: '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'
+archives_at: '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978|WD~ETH_Zurich_University_Archives,39934978]]'
 award_received:
-- '[[_Standards/WikiData/WD~Albert_Einstein_Award,577432]]'
-- '[[_Standards/WikiData/WD~Josiah_Willard_Gibbs_Lectureship,1522873]]'
-- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Vienna,34476636]]'
-- '[[_Standards/WikiData/WD~honorary_doctorate_from_Princeton_University,42309226]]'
+- '[[_Standards/WikiData/WD~Albert_Einstein_Award,577432|WD~Albert_Einstein_Award,577432]]'
+- '[[_Standards/WikiData/WD~Josiah_Willard_Gibbs_Lectureship,1522873|WD~Josiah_Willard_Gibbs_Lectureship,1522873]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020|WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Vienna,34476636|WD~honorary_doctor_of_the_University_of_Vienna,34476636]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_from_Princeton_University,42309226|WD~honorary_doctorate_from_Princeton_University,42309226]]'
 BHCL_UUID: b2dcc5e1-8d62-4eff-ba00-38370fc7b150
 birth_name: Kurt Friedrich Gödel
-cause_of_death: '[[_Standards/WikiData/WD~starvation,853930]]'
+cause_of_death: '[[_Standards/WikiData/WD~starvation,853930|WD~starvation,853930]]'
 Commons_category: Kurt Gödel
 Commons_gallery: Kurt Gödel
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~Cisleithania,533534]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Austria,40]]'
-- '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
+- '[[_Standards/WikiData/WD~Cisleithania,533534|WD~Cisleithania,533534]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]]'
 date_of_birth: 1906-04-28
 date_of_death: 1978-01-14
 described_by_source:
-- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~REGO,125023568]]'
-doctoral_advisor: '[[_Standards/WikiData/WD~Hans_Hahn,84552]]'
-educated_at: '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836|WD~Larousse_Encyclopedia_online,17329836]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~REGO,125023568|WD~REGO,125023568]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Hans_Hahn,84552|WD~Hans_Hahn,84552]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Vienna,165980|WD~University_of_Vienna,165980]]'
 employer:
-- '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
-- '[[_Standards/WikiData/WD~University_of_Notre_Dame,178848]]'
-- '[[_Standards/WikiData/WD~Institute_for_Advanced_Study,635642]]'
-- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~University_of_Vienna,165980|WD~University_of_Vienna,165980]]'
+- '[[_Standards/WikiData/WD~University_of_Notre_Dame,178848|WD~University_of_Notre_Dame,178848]]'
+- '[[_Standards/WikiData/WD~Institute_for_Advanced_Study,635642|WD~Institute_for_Advanced_Study,635642]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578|WD~Princeton_University,21578]]'
 Erdős_number: 3
-family_name: '[[_Standards/WikiData/WD~Gödel,62740818]]'
+family_name: '[[_Standards/WikiData/WD~Gödel,62740818|WD~Gödel,62740818]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~philosophy_of_mathematics,180536]]'
-- '[[_Standards/WikiData/WD~analytic_philosophy,183216]]'
-- '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
-- '[[_Standards/WikiData/WD~mathematics,395]]'
-- '[[_Standards/WikiData/WD~physics,413]]'
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-- '[[_Standards/WikiData/WD~logic,8078]]'
-- '[[_Standards/WikiData/WD~set_theory,12482]]'
-- '[[_Standards/WikiData/WD~predicate_logic,35148]]'
-- '[[_Standards/WikiData/WD~theory_of_relativity,43514]]'
-given_name: '[[_Standards/WikiData/WD~Kurt,1158489]]'
+- '[[_Standards/WikiData/WD~philosophy_of_mathematics,180536|WD~philosophy_of_mathematics,180536]]'
+- '[[_Standards/WikiData/WD~analytic_philosophy,183216|WD~analytic_philosophy,183216]]'
+- '[[_Standards/WikiData/WD~mathematical_logic,1166618|WD~mathematical_logic,1166618]]'
+- '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~logic,8078|WD~logic,8078]]'
+- '[[_Standards/WikiData/WD~set_theory,12482|WD~set_theory,12482]]'
+- '[[_Standards/WikiData/WD~predicate_logic,35148|WD~predicate_logic,35148]]'
+- '[[_Standards/WikiData/WD~theory_of_relativity,43514|WD~theory_of_relativity,43514]]'
+given_name: '[[_Standards/WikiData/WD~Kurt,1158489|WD~Kurt,1158489]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Kurt%20G%C3%B6del%20as%20a%20student%20in%201925.jpg
 image_of_grave:
 - http://commons.wikimedia.org/wiki/Special:FilePath/GrabKurtG%C3%B6del.JPG
 - http://commons.wikimedia.org/wiki/Special:FilePath/Kurt%20godel%20tomb%202004.jpg
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ISNI: 000000011031567X
 Krugosvet_article: nauka_i_tehnika/matematika/GEDEL_KURT.html
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
 Libris_URI: 1zcfhb3k1zschfj
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+manner_of_death: '[[_Standards/WikiData/WD~suicide,10737|WD~suicide,10737]]'
 member_of:
-- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-- '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
-- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885|WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771|WD~French_Academy_of_Sciences,188771]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794|WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303|WD~American_Academy_of_Arts_and_Sciences,463303]]'
 name_in_native_language: Kurt Friedrich Gödel
-native_language: '[[_Standards/WikiData/WD~German,188]]'
+native_language: '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
 notable_work:
-- "[[_Standards/WikiData/WD~Gödel's_incompleteness_theorems,200787]]"
-- '[[_Standards/WikiData/WD~Von_Neumann_Bernays_Gödel_set_theory,278770]]'
-- "[[_Standards/WikiData/WD~Gödel's_ontological_proof,598840]]"
-- "[[_Standards/WikiData/WD~Gödel's_completeness_theorem,902052]]"
-- "[[_Standards/WikiData/WD~Gödel's_second_incompleteness_theorem,1031460]]"
-- '[[_Standards/WikiData/WD~Gödel_numbering,1451046]]'
-- '[[_Standards/WikiData/WD~Gödel_metric,1559192]]'
-- '[[_Standards/WikiData/WD~constructible_universe,2777107]]'
-- '[[_Standards/WikiData/WD~Gödel-incomplete_machine,3842016]]'
-- "[[_Standards/WikiData/WD~Gödel's_speed-up_theorem,5626450]]"
-- "[[_Standards/WikiData/WD~Gödel's_β_function,5626454]]"
-- '[[_Standards/WikiData/WD~Gödel_operation,18207443]]'
-- '[[_Standards/WikiData/WD~Gödel_logic,18347776]]'
-- "[[_Standards/WikiData/WD~Godel's_first_incompleteness_theorem,62091930]]"
+- "[[_Standards/WikiData/WD~Gödel's_incompleteness_theorems,200787|WD~Gödel's_incompleteness_theorems,200787]]"
+- '[[_Standards/WikiData/WD~Von_Neumann_Bernays_Gödel_set_theory,278770|WD~Von_Neumann_Bernays_Gödel_set_theory,278770]]'
+- "[[_Standards/WikiData/WD~Gödel's_ontological_proof,598840|WD~Gödel's_ontological_proof,598840]]"
+- "[[_Standards/WikiData/WD~Gödel's_completeness_theorem,902052|WD~Gödel's_completeness_theorem,902052]]"
+- "[[_Standards/WikiData/WD~Gödel's_second_incompleteness_theorem,1031460|WD~Gödel's_second_incompleteness_theorem,1031460]]"
+- '[[_Standards/WikiData/WD~Gödel_numbering,1451046|WD~Gödel_numbering,1451046]]'
+- '[[_Standards/WikiData/WD~Gödel_metric,1559192|WD~Gödel_metric,1559192]]'
+- '[[_Standards/WikiData/WD~constructible_universe,2777107|WD~constructible_universe,2777107]]'
+- '[[_Standards/WikiData/WD~Gödel-incomplete_machine,3842016|WD~Gödel-incomplete_machine,3842016]]'
+- "[[_Standards/WikiData/WD~Gödel's_speed-up_theorem,5626450|WD~Gödel's_speed-up_theorem,5626450]]"
+- "[[_Standards/WikiData/WD~Gödel's_β_function,5626454|WD~Gödel's_β_function,5626454]]"
+- '[[_Standards/WikiData/WD~Gödel_operation,18207443|WD~Gödel_operation,18207443]]'
+- '[[_Standards/WikiData/WD~Gödel_logic,18347776|WD~Gödel_logic,18347776]]'
+- "[[_Standards/WikiData/WD~Godel's_first_incompleteness_theorem,62091930|WD~Godel's_first_incompleteness_theorem,62091930]]"
 occupation:
-- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-- '[[_Standards/WikiData/WD~physicist,169470]]'
-- '[[_Standards/WikiData/WD~mathematician,170790]]'
-- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-- '[[_Standards/WikiData/WD~philosopher,4964182]]'
-place_of_birth: '[[_Standards/WikiData/WD~Brno,14960]]'
-place_of_burial: '[[_Standards/WikiData/WD~Princeton_Cemetery,7244940]]'
-place_of_death: '[[_Standards/WikiData/WD~Princeton,138518]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594|WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~physicist,169470|WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790|WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272|WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]'
+place_of_birth: '[[_Standards/WikiData/WD~Brno,14960|WD~Brno,14960]]'
+place_of_burial: '[[_Standards/WikiData/WD~Princeton_Cemetery,7244940|WD~Princeton_Cemetery,7244940]]'
+place_of_death: '[[_Standards/WikiData/WD~Princeton,138518|WD~Princeton,138518]]'
 plaque_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Pam%C4%9Btn%C3%AD%20deska%20Kurta%20G%C3%B6dela%20na%20jeho%20rodn%C3%A9m%20dom%C4%9B.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Wien19%20Himmelstrasse043%202017-03-29%20GuentherZ%20GD%20G%C3%B6del%200638.jpg
 Regensburg_Classification: SF 3305
-religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
-residence: '[[_Standards/WikiData/WD~Austria,40]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+residence: '[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Kurt%20G%C3%B6del%20signature.svg
-spouse: '[[_Standards/WikiData/WD~Adele_Gödel,51311280]]'
-student_of: '[[_Standards/WikiData/WD~Philipp_Furtwängler,68514]]'
+spouse: '[[_Standards/WikiData/WD~Adele_Gödel,51311280|WD~Adele_Gödel,51311280]]'
+student_of: '[[_Standards/WikiData/WD~Philipp_Furtwängler,68514|WD~Philipp_Furtwängler,68514]]'
 Wolfram_Language_entity_code: Entity["Person", "KurtGodel::h4724"]
-work_locations: '[[_Standards/WikiData/WD~Brno,14960]]'
-writing_language: '[[_Standards/WikiData/WD~German,188]]'
+work_locations: '[[_Standards/WikiData/WD~Brno,14960|WD~Brno,14960]]'
+writing_language: '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
 dv_has_:
   name_:
     af: Kurt Gödel

@@ -132,7 +132,7 @@ dv_has_:
 > 
 > A four-time Emmy and two-time Golden Globe winner, she is known for her collaborations 
 > with her actor-director husband John Cassavetes in ten films, 
-> including A Woman Under the Influence (1974) and [[../../Movie-Genre/Thriller-Movie/Gloria(1980)]], 
+> including A Woman Under the Influence (1974) and [[../../Movie-Genre/Thriller-Movie/Gloria(1980)|Gloria(1980)]], 
 > both of which earned her nominations for the Academy Award for Best Actress. She also won the Silver Bear for Best Actress for Opening Night (1977). She is also known for her performances in Woody Allen's Another Woman (1988), and her son Nick Cassavetes's film, The Notebook (2004). In 2021, Richard Brody of The New Yorker said, "The most important and original movie actor of the past half century-plus is **Gena Rowlands**." In November 2015, Rowlands received an Honorary Academy Award in recognition of her unique screen performances.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gena%20Rowlands) 

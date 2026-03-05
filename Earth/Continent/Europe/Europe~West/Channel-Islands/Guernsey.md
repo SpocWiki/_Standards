@@ -47,7 +47,7 @@ dv_has_name_cn: 根西
 dv_has_name_ar: غيرنزي
 dv_has_name_ru: Гернси
 dv_CLDR_display_name: Guernsey
-dv_Region_Name: "[[../../../Europe]]"
+dv_Region_Name: "[[../../../Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[Channel Islands]]"
 dv_Sub-region_Name: "[[Northern Europe]]"
 dv_Region: 150
@@ -67,7 +67,7 @@ dv_Developed_:
   Developing_Countries: Developed
 dv_ISO3166-1-numeric: 831
 dv_has_name_de: Guernsey
-dv_has_place_continent: "[[../../../Europe]]"
+dv_has_place_continent: "[[../../../Europe|Europe]]"
 dv_has_place_longitude: -2.55
 dv_has_place_latitude: 49.45
 dv_is_:

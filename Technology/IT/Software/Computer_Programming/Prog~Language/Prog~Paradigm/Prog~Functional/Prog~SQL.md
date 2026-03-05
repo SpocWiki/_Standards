@@ -20,33 +20,33 @@ aliases:
 - ꠄꠍꠇꠤꠃꠄꠟ
 has_id_wikidata: Q47607
 designed_by:
-- '[[_Standards/WikiData/WD~Raymond_F._Boyce,93007]]'
-- '[[_Standards/WikiData/WD~Donald_D._Chamberlin,93071]]'
+- '[[_Standards/WikiData/WD~Raymond_F._Boyce,93007|WD~Raymond_F._Boyce,93007]]'
+- '[[_Standards/WikiData/WD~Donald_D._Chamberlin,93071|WD~Donald_D._Chamberlin,93071]]'
 developer:
-- '[[_Standards/WikiData/WD~Raymond_F._Boyce,93007]]'
-- '[[_Standards/WikiData/WD~Donald_D._Chamberlin,93071]]'
-- '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]'
-used_by: '[[_Standards/WikiData/WD~relational_database,192588]]'
-programming_paradigm: '[[_Standards/WikiData/WD~declarative_programming,531152]]'
+- '[[_Standards/WikiData/WD~Raymond_F._Boyce,93007|WD~Raymond_F._Boyce,93007]]'
+- '[[_Standards/WikiData/WD~Donald_D._Chamberlin,93071|WD~Donald_D._Chamberlin,93071]]'
+- '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028|WD~International_Organization_for_Standardization,15028]]'
+used_by: '[[_Standards/WikiData/WD~relational_database,192588|WD~relational_database,192588]]'
+programming_paradigm: '[[_Standards/WikiData/WD~declarative_programming,531152|WD~declarative_programming,531152]]'
 instance_of:
-- '[[_Standards/WikiData/WD~domain_specific_language,691358]]'
-- '[[_Standards/WikiData/WD~query_language,845739]]'
-- '[[_Standards/WikiData/WD~declarative_programming_language,1144882]]'
-- '[[_Standards/WikiData/WD~programming_language,9143]]'
-manifestation_of: '[[_Standards/WikiData/WD~relational_algebra,840540]]'
-subclass_of: '[[_Standards/WikiData/WD~query_language,845739]]'
+- '[[_Standards/WikiData/WD~domain_specific_language,691358|WD~domain_specific_language,691358]]'
+- '[[_Standards/WikiData/WD~query_language,845739|WD~query_language,845739]]'
+- '[[_Standards/WikiData/WD~declarative_programming_language,1144882|WD~declarative_programming_language,1144882]]'
+- '[[_Standards/WikiData/WD~programming_language,9143|WD~programming_language,9143]]'
+manifestation_of: '[[_Standards/WikiData/WD~relational_algebra,840540|WD~relational_algebra,840540]]'
+subclass_of: '[[_Standards/WikiData/WD~query_language,845739|WD~query_language,845739]]'
 typing_discipline:
-- '[[_Standards/WikiData/WD~strong_typing,991202]]'
-- '[[_Standards/WikiData/WD~static_typing,1940914]]'
+- '[[_Standards/WikiData/WD~strong_typing,991202|WD~strong_typing,991202]]'
+- '[[_Standards/WikiData/WD~static_typing,1940914|WD~static_typing,1940914]]'
 influenced_by:
-- '[[_Standards/WikiData/WD~Datalog,1172264]]'
-- '[[_Standards/WikiData/WD~first_order_logic,4055684]]'
-has_use: '[[_Standards/WikiData/WD~relational_database_management_system,3932296]]'
-based_on: '[[_Standards/WikiData/WD~first_order_logic,4055684]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_IEC_9075,5974436]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_SQL,10724710]]'
-follows: '[[_Standards/WikiData/WD~SEQUEL,12775712]]'
-different_from: '[[_Standards/WikiData/WD~Structured_Query_Language_script,62625630]]'
+- '[[_Standards/WikiData/WD~Datalog,1172264|WD~Datalog,1172264]]'
+- '[[_Standards/WikiData/WD~first_order_logic,4055684|WD~first_order_logic,4055684]]'
+has_use: '[[_Standards/WikiData/WD~relational_database_management_system,3932296|WD~relational_database_management_system,3932296]]'
+based_on: '[[_Standards/WikiData/WD~first_order_logic,4055684|WD~first_order_logic,4055684]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_IEC_9075,5974436|WD~ISO_IEC_9075,5974436]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_SQL,10724710|WD~Template_SQL,10724710]]'
+follows: '[[_Standards/WikiData/WD~SEQUEL,12775712|WD~SEQUEL,12775712]]'
+different_from: '[[_Standards/WikiData/WD~Structured_Query_Language_script,62625630|WD~Structured_Query_Language_script,62625630]]'
 OmegaWiki_Defined_Meaning: 662510
 inception: 1974-01-01T00:00:00Z
 GitHub_topic: sql

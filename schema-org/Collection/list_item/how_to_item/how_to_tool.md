@@ -35,9 +35,9 @@ dv_is_:
     - "[[/_secret/schema-org/Collection/list_item/how_to_item/how_to_tool.secret|how_to_tool.secret]]"
     - "[[how_to_tool]]"
 dv_has_:
-  parent_class: "[[../HowToItem]]"
+  parent_class: "[[../HowToItem|HowToItem]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
-dv_has_parent_class: "[[../HowToItem]]"
+dv_has_parent_class: "[[../HowToItem|HowToItem]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[how_to_tool]]"

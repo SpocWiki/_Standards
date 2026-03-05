@@ -53,10 +53,10 @@ aliases:
 has_id_wikidata: Q1150973
 Commons_category: 1931 floods in China
 coordinate_location: Point(114.273 30.5812)
-country: '[[_Standards/WikiData/WD~Republic_of_China,13426199]]'
-has_cause: '[[_Standards/WikiData/WD~cyclone,79602]]'
+country: '[[_Standards/WikiData/WD~Republic_of_China,13426199|WD~Republic_of_China,13426199]]'
+has_cause: '[[_Standards/WikiData/WD~cyclone,79602|WD~cyclone,79602]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hankow%20city%20hall.jpg
-instance_of: '[[_Standards/WikiData/WD~flood,8068]]'
+instance_of: '[[_Standards/WikiData/WD~flood,8068|WD~flood,8068]]'
 number_of_deaths:
 - 4000000
 - 3700000
@@ -126,7 +126,7 @@ dv_has_:
 #[[1931-China_floods]]] 
 
 
-#is_/same_as :: [[../../../../WikiData/WD~1931_China_floods,1150973]] 
+#is_/same_as :: [[../../../../WikiData/WD~1931_China_floods,1150973|WD~1931_China_floods,1150973]] 
 
 ## #has_/text_of_/abstract 
 

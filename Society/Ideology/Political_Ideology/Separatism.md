@@ -61,10 +61,10 @@ aliases:
 has_id_wikidata: Q194236
 described_by_source:
 - '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~independentism,3318733]]'
-subclass_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-opposite_of: '[[_Standards/WikiData/WD~unionism,110657459]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~independentism,3318733|WD~independentism,3318733]]'
+subclass_of: '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
+opposite_of: '[[_Standards/WikiData/WD~unionism,110657459|WD~unionism,110657459]]'
 OmegaWiki_Defined_Meaning: 1208906
 Commons_category: Independence movements
 dv_has_:

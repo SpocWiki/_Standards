@@ -68,22 +68,22 @@ aliases:
 - 비디오
 has_id_wikidata: Q34508
 uses:
-- '[[_Standards/WikiData/WD~closed_circuit_television,242256]]'
-- '[[_Standards/WikiData/WD~video_camera,313614]]'
-- '[[_Standards/WikiData/WD~videocassette_recorder,380616]]'
-- '[[_Standards/WikiData/WD~electronic_visual_display,6021804]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~videography,2662841]]'
+- '[[_Standards/WikiData/WD~closed_circuit_television,242256|WD~closed_circuit_television,242256]]'
+- '[[_Standards/WikiData/WD~video_camera,313614|WD~video_camera,313614]]'
+- '[[_Standards/WikiData/WD~videocassette_recorder,380616|WD~videocassette_recorder,380616]]'
+- '[[_Standards/WikiData/WD~electronic_visual_display,6021804|WD~electronic_visual_display,6021804]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~videography,2662841|WD~videography,2662841]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~technique,2695280]]'
-- '[[_Standards/WikiData/WD~imaging_method,10296912]]'
-practiced_by: '[[_Standards/WikiData/WD~videomaker,4011400]]'
+- '[[_Standards/WikiData/WD~technique,2695280|WD~technique,2695280]]'
+- '[[_Standards/WikiData/WD~imaging_method,10296912|WD~imaging_method,10296912]]'
+practiced_by: '[[_Standards/WikiData/WD~videomaker,4011400|WD~videomaker,4011400]]'
 different_from:
-- '[[_Standards/WikiData/WD~video,98069877]]'
-- '[[_Standards/WikiData/WD~film,11424]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~video,98069877]]'
+- '[[_Standards/WikiData/WD~video,98069877|WD~video,98069877]]'
+- '[[_Standards/WikiData/WD~film,11424|WD~film,11424]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~video,98069877|WD~video,98069877]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~analog_video_recording,108751637]]'
-- '[[_Standards/WikiData/WD~digital_video_recording,108751642]]'
+- '[[_Standards/WikiData/WD~analog_video_recording,108751637|WD~analog_video_recording,108751637]]'
+- '[[_Standards/WikiData/WD~digital_video_recording,108751642|WD~digital_video_recording,108751642]]'
 main_Wikidata_property: video
 GitHub_topic: video
 Commons_category: Video

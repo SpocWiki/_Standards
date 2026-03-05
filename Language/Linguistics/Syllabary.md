@@ -67,15 +67,15 @@ aliases:
 - 音节文字
 - 음절문자
 has_id_wikidata: Q182133
-different_from: '[[_Standards/WikiData/WD~abjad,185087]]'
+different_from: '[[_Standards/WikiData/WD~abjad,185087|WD~abjad,185087]]'
 based_on:
-- '[[_Standards/WikiData/WD~pictographic_writing_system,860735]]'
-- '[[_Standards/WikiData/WD~ideographic_writing_system,3400227]]'
-derivative_work: '[[_Standards/WikiData/WD~phonetic_transcription,1049394]]'
-has_part_s_: '[[_Standards/WikiData/WD~syllabogram,2373910]]'
-used_by: '[[_Standards/WikiData/WD~syllabic_writing_system,12336953]]'
-instance_of: '[[_Standards/WikiData/WD~group,16887380]]'
-subclass_of: '[[_Standards/WikiData/WD~writing_system,8192]]'
+- '[[_Standards/WikiData/WD~pictographic_writing_system,860735|WD~pictographic_writing_system,860735]]'
+- '[[_Standards/WikiData/WD~ideographic_writing_system,3400227|WD~ideographic_writing_system,3400227]]'
+derivative_work: '[[_Standards/WikiData/WD~phonetic_transcription,1049394|WD~phonetic_transcription,1049394]]'
+has_part_s_: '[[_Standards/WikiData/WD~syllabogram,2373910|WD~syllabogram,2373910]]'
+used_by: '[[_Standards/WikiData/WD~syllabic_writing_system,12336953|WD~syllabic_writing_system,12336953]]'
+instance_of: '[[_Standards/WikiData/WD~group,16887380|WD~group,16887380]]'
+subclass_of: '[[_Standards/WikiData/WD~writing_system,8192|WD~writing_system,8192]]'
 Commons_category: Syllabaries
 dv_has_:
   name_:

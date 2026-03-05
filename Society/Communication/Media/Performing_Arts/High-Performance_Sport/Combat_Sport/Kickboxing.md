@@ -50,22 +50,22 @@ aliases:
 - 킥복싱
 has_id_wikidata: Q178678
 different_from:
-- '[[_Standards/WikiData/WD~Muay_Thai,120931]]'
-- '[[_Standards/WikiData/WD~kung_fu,208607]]'
-- '[[_Standards/WikiData/WD~Shorinji_Kempo,933634]]'
-- '[[_Standards/WikiData/WD~full_contact_karate,3754231]]'
-- '[[_Standards/WikiData/WD~karate,11419]]'
-- '[[_Standards/WikiData/WD~taekwondo,36389]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Osamu_Noguchi,6675243]]'
+- '[[_Standards/WikiData/WD~Muay_Thai,120931|WD~Muay_Thai,120931]]'
+- '[[_Standards/WikiData/WD~kung_fu,208607|WD~kung_fu,208607]]'
+- '[[_Standards/WikiData/WD~Shorinji_Kempo,933634|WD~Shorinji_Kempo,933634]]'
+- '[[_Standards/WikiData/WD~full_contact_karate,3754231|WD~full_contact_karate,3754231]]'
+- '[[_Standards/WikiData/WD~karate,11419|WD~karate,11419]]'
+- '[[_Standards/WikiData/WD~taekwondo,36389|WD~taekwondo,36389]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Osamu_Noguchi,6675243|WD~Osamu_Noguchi,6675243]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~combat_sport,7128792]]'
-- '[[_Standards/WikiData/WD~boxing,32112]]'
-practiced_by: '[[_Standards/WikiData/WD~kickboxer,11296761]]'
+- '[[_Standards/WikiData/WD~combat_sport,7128792|WD~combat_sport,7128792]]'
+- '[[_Standards/WikiData/WD~boxing,32112|WD~boxing,32112]]'
+practiced_by: '[[_Standards/WikiData/WD~kickboxer,11296761|WD~kickboxer,11296761]]'
 uses:
-- '[[_Standards/WikiData/WD~fist,16743864]]'
-- '[[_Standards/WikiData/WD~foot,15807]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~fist,16743864|WD~fist,16743864]]'
+- '[[_Standards/WikiData/WD~foot,15807|WD~foot,15807]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Kickboxing%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WKA%20World%20Championship%202012%20Munich%20444.JPG
 IMDb_keyword: kickboxing

@@ -49,24 +49,24 @@ aliases:
 - 罷蘭地
 - 브랜디
 has_id_wikidata: Q146470
-different_from: '[[_Standards/WikiData/WD~brännvin,510461]]'
-color: '[[_Standards/WikiData/WD~amber,679355]]'
+different_from: '[[_Standards/WikiData/WD~brännvin,510461|WD~brännvin,510461]]'
+color: '[[_Standards/WikiData/WD~amber,679355|WD~amber,679355]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 based_on:
-- '[[_Standards/WikiData/WD~Pixie_Grape,7199733]]'
-- '[[_Standards/WikiData/WD~wine,282]]'
-- '[[_Standards/WikiData/WD~apple,89]]'
-subclass_of: '[[_Standards/WikiData/WD~wine_spirit,50091090]]'
-named_after: '[[_Standards/WikiData/WD~Cognac,285]]'
+- '[[_Standards/WikiData/WD~Pixie_Grape,7199733|WD~Pixie_Grape,7199733]]'
+- '[[_Standards/WikiData/WD~wine,282|WD~wine,282]]'
+- '[[_Standards/WikiData/WD~apple,89|WD~apple,89]]'
+subclass_of: '[[_Standards/WikiData/WD~wine_spirit,50091090|WD~wine_spirit,50091090]]'
+named_after: '[[_Standards/WikiData/WD~Cognac,285|WD~Cognac,285]]'
 alcohol_by_volume:
 - 40
 - 60
-has_characteristic: '[[_Standards/WikiData/WD~fermentation,41760]]'
-instance_of: '[[_Standards/WikiData/WD~liquor,56139]]'
+has_characteristic: '[[_Standards/WikiData/WD~fermentation,41760|WD~fermentation,41760]]'
+instance_of: '[[_Standards/WikiData/WD~liquor,56139|WD~liquor,56139]]'
 object_named_as:
 - brande
 - brandy

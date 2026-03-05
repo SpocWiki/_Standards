@@ -39,35 +39,35 @@ aliases:
 - 옴
 has_id_wikidata: Q47083
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~impedance,179043]]'
-- '[[_Standards/WikiData/WD~electric_reactance,193972]]'
-- '[[_Standards/WikiData/WD~modulus_of_impedance,25457909]]'
-- '[[_Standards/WikiData/WD~electrical_resistance,25358]]'
+- '[[_Standards/WikiData/WD~impedance,179043|WD~impedance,179043]]'
+- '[[_Standards/WikiData/WD~electric_reactance,193972|WD~electric_reactance,193972]]'
+- '[[_Standards/WikiData/WD~modulus_of_impedance,25457909|WD~modulus_of_impedance,25457909]]'
+- '[[_Standards/WikiData/WD~electrical_resistance,25358|WD~electrical_resistance,25358]]'
 instance_of:
-- '[[_Standards/WikiData/WD~SI_derived_unit,208469]]'
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~unit_of_electric_resistance,126902527]]'
-- '[[_Standards/WikiData/WD~unit_of_impedance,126928085]]'
-- '[[_Standards/WikiData/WD~unit_of_modulus_of_impedance,126928158]]'
-- '[[_Standards/WikiData/WD~unit_of_reactance,126928167]]'
+- '[[_Standards/WikiData/WD~SI_derived_unit,208469|WD~SI_derived_unit,208469]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_electric_resistance,126902527|WD~unit_of_electric_resistance,126902527]]'
+- '[[_Standards/WikiData/WD~unit_of_impedance,126928085|WD~unit_of_impedance,126928085]]'
+- '[[_Standards/WikiData/WD~unit_of_modulus_of_impedance,126928158|WD~unit_of_modulus_of_impedance,126928158]]'
+- '[[_Standards/WikiData/WD~unit_of_reactance,126928167|WD~unit_of_reactance,126928167]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~kilogram_square_metre_per_cubic_second_square_ampere,119205557]]'
-- '[[_Standards/WikiData/WD~volt_per_ampere,119302008]]'
-named_after: '[[_Standards/WikiData/WD~Georg_Simon_Ohm,1585]]'
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_cubic_second_square_ampere,119205557|WD~kilogram_square_metre_per_cubic_second_square_ampere,119205557]]'
+- '[[_Standards/WikiData/WD~volt_per_ampere,119302008|WD~volt_per_ampere,119302008]]'
+named_after: '[[_Standards/WikiData/WD~Georg_Simon_Ohm,1585|WD~Georg_Simon_Ohm,1585]]'
 derived_from_base_unit:
-- '[[_Standards/WikiData/WD~kilogram,11570]]'
-- '[[_Standards/WikiData/WD~second,11574]]'
-- '[[_Standards/WikiData/WD~metre,11573]]'
-- '[[_Standards/WikiData/WD~ampere,25272]]'
+- '[[_Standards/WikiData/WD~kilogram,11570|WD~kilogram,11570]]'
+- '[[_Standards/WikiData/WD~second,11574|WD~second,11574]]'
+- '[[_Standards/WikiData/WD~metre,11573|WD~metre,11573]]'
+- '[[_Standards/WikiData/WD~ampere,25272|WD~ampere,25272]]'
 conversion_to_SI_unit: 1
 OmegaWiki_Defined_Meaning: 332891
 UCUM_code: Ohm

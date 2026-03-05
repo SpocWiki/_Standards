@@ -92,16 +92,16 @@ aliases:
 - 食晏
 - 점심
 has_id_wikidata: Q12896105
-follows: '[[_Standards/WikiData/WD~breakfast,80973]]'
+follows: '[[_Standards/WikiData/WD~breakfast,80973|WD~breakfast,80973]]'
 followed_by:
-- '[[_Standards/WikiData/WD~supper,568285]]'
-- '[[_Standards/WikiData/WD~dinner,657221]]'
+- '[[_Standards/WikiData/WD~supper,568285|WD~supper,568285]]'
+- '[[_Standards/WikiData/WD~dinner,657221|WD~dinner,657221]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-subclass_of: '[[_Standards/WikiData/WD~meal,6460735]]'
-instance_of: '[[_Standards/WikiData/WD~meal,6460735]]'
-depicted_by: '[[_Standards/WikiData/WD~A_luncheon._The_artist,_his_wife_and_the_writer_Otto_Benzon,21042583]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+subclass_of: '[[_Standards/WikiData/WD~meal,6460735|WD~meal,6460735]]'
+instance_of: '[[_Standards/WikiData/WD~meal,6460735|WD~meal,6460735]]'
+depicted_by: '[[_Standards/WikiData/WD~A_luncheon._The_artist,_his_wife_and_the_writer_Otto_Benzon,21042583|WD~A_luncheon._The_artist,_his_wife_and_the_writer_Otto_Benzon,21042583]]'
 Commons_category: Lunch
 OpenStreetMap_key: lunch
 hashtag:

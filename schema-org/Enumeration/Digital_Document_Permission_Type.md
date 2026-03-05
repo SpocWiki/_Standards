@@ -26,7 +26,7 @@ tags:
 title: is_a_digital_document_permission_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type|Digital_Document_Permission_Type]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type.personal|Digital_Document_Permission_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type.secret|Digital_Document_Permission_Type.secret]]"
     - "[[Digital_Document_Permission_Type]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Digital_Document_Permission_Type]]"
   - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type.public|Digital_Document_Permission_Type.public]]"

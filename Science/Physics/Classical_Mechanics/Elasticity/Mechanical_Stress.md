@@ -64,17 +64,17 @@ aliases:
 - 應力
 - 변형력
 has_id_wikidata: Q206175
-subclass_of: '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~shear_stress,657936]]'
-- '[[_Standards/WikiData/WD~normal_stress,11425837]]'
+- '[[_Standards/WikiData/WD~shear_stress,657936|WD~shear_stress,657936]]'
+- '[[_Standards/WikiData/WD~normal_stress,11425837|WD~normal_stress,11425837]]'
 different_from:
-- '[[_Standards/WikiData/WD~stress_tensor,13409892]]'
-- '[[_Standards/WikiData/WD~pressure,39552]]'
-described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-has_characteristic: '[[_Standards/WikiData/WD~unit_of_mechanical_stress,131179447]]'
+- '[[_Standards/WikiData/WD~stress_tensor,13409892|WD~stress_tensor,13409892]]'
+- '[[_Standards/WikiData/WD~pressure,39552|WD~pressure,39552]]'
+described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+has_characteristic: '[[_Standards/WikiData/WD~unit_of_mechanical_stress,131179447|WD~unit_of_mechanical_stress,131179447]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~pascal,44395]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~pascal,44395|WD~pascal,44395]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plastic%20Protractor%20Polarized%2005375.jpg
 UMLS_CUI: C0038442
 MeSH_tree_code: G01.374.835

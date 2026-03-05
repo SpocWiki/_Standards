@@ -48,9 +48,9 @@ dv_has_name_cn: 美国本土外小岛屿
 dv_has_name_ar: نائية التابعة للولايات المتحدة
 dv_has_name_ru: Внешние малые острова Coeдинeнныx Штaтoв
 dv_CLDR_display_name: U.S. Outlying Islands
-dv_Region_Name: "[[../Oceania]]"
+dv_Region_Name: "[[../Oceania|Oceania]]"
 dv_Intermediate_Region_Name: "[[USA_Outlying~Islands]]"
-dv_Sub-region_Name: "[[../Australasia/Micronesia]]]"
+dv_Sub-region_Name: "[[../Australasia/Micronesia|Micronesia]]]"
 dv_Region: 9
 dv_Sub-region: 57
 dv_Geoname-ID: 5854968

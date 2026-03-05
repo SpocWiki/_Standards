@@ -91,51 +91,51 @@ aliases:
 - 東印度公司
 - 영국 동인도 회사
 has_id_wikidata: Q83164
-legal_form: '[[_Standards/WikiData/WD~joint_stock_company,134161]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+legal_form: '[[_Standards/WikiData/WD~joint_stock_company,134161|WD~joint_stock_company,134161]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193|WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 industry:
-- '[[_Standards/WikiData/WD~international_trade,178803]]'
-- '[[_Standards/WikiData/WD~slave_trade,2986234]]'
+- '[[_Standards/WikiData/WD~international_trade,178803|WD~international_trade,178803]]'
+- '[[_Standards/WikiData/WD~slave_trade,2986234|WD~slave_trade,2986234]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~indigo,422662]]'
-- '[[_Standards/WikiData/WD~slave_trade,2986234]]'
-- '[[_Standards/WikiData/WD~saltpeter,12970360]]'
-- '[[_Standards/WikiData/WD~tea,6097]]'
-- '[[_Standards/WikiData/WD~species,7432]]'
-- '[[_Standards/WikiData/WD~sugar,11002]]'
-- '[[_Standards/WikiData/WD~table_salt,11254]]'
-- '[[_Standards/WikiData/WD~cotton,11457]]'
-- '[[_Standards/WikiData/WD~silk,37681]]'
-- '[[_Standards/WikiData/WD~opium,46452]]'
+- '[[_Standards/WikiData/WD~indigo,422662|WD~indigo,422662]]'
+- '[[_Standards/WikiData/WD~slave_trade,2986234|WD~slave_trade,2986234]]'
+- '[[_Standards/WikiData/WD~saltpeter,12970360|WD~saltpeter,12970360]]'
+- '[[_Standards/WikiData/WD~tea,6097|WD~tea,6097]]'
+- '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+- '[[_Standards/WikiData/WD~sugar,11002|WD~sugar,11002]]'
+- '[[_Standards/WikiData/WD~table_salt,11254|WD~table_salt,11254]]'
+- '[[_Standards/WikiData/WD~cotton,11457|WD~cotton,11457]]'
+- '[[_Standards/WikiData/WD~silk,37681|WD~silk,37681]]'
+- '[[_Standards/WikiData/WD~opium,46452|WD~opium,46452]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
-has_effect: '[[_Standards/WikiData/WD~Tea_Act,1047538]]'
-has_works_in_the_collection: '[[_Standards/WikiData/WD~Het_Scheepvaartmuseum,1616123]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+has_effect: '[[_Standards/WikiData/WD~Tea_Act,1047538|WD~Tea_Act,1047538]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Het_Scheepvaartmuseum,1616123|WD~Het_Scheepvaartmuseum,1616123]]'
 instance_of:
-- '[[_Standards/WikiData/WD~colonial_society,1700154]]'
-- '[[_Standards/WikiData/WD~business,4830453]]'
-- '[[_Standards/WikiData/WD~enterprise,6881511]]'
-- '[[_Standards/WikiData/WD~East_India_company,26236686]]'
-has_part_s_: '[[_Standards/WikiData/WD~Bengal_Army,4083685]]'
+- '[[_Standards/WikiData/WD~colonial_society,1700154|WD~colonial_society,1700154]]'
+- '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~enterprise,6881511|WD~enterprise,6881511]]'
+- '[[_Standards/WikiData/WD~East_India_company,26236686|WD~East_India_company,26236686]]'
+has_part_s_: '[[_Standards/WikiData/WD~Bengal_Army,4083685|WD~Bengal_Army,4083685]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Admiral_Barrington,4683650]]'
-- '[[_Standards/WikiData/WD~Britannia,4801940]]'
-- '[[_Standards/WikiData/WD~Earl_of_Mornington,5326337]]'
-- '[[_Standards/WikiData/WD~HMS_Hindostan,5632793]]'
-- '[[_Standards/WikiData/WD~Nemesis,6991110]]'
-- '[[_Standards/WikiData/WD~Punjaub,7260364]]'
-- '[[_Standards/WikiData/WD~Busbridge,55606211]]'
+- '[[_Standards/WikiData/WD~Admiral_Barrington,4683650|WD~Admiral_Barrington,4683650]]'
+- '[[_Standards/WikiData/WD~Britannia,4801940|WD~Britannia,4801940]]'
+- '[[_Standards/WikiData/WD~Earl_of_Mornington,5326337|WD~Earl_of_Mornington,5326337]]'
+- '[[_Standards/WikiData/WD~HMS_Hindostan,5632793|WD~HMS_Hindostan,5632793]]'
+- '[[_Standards/WikiData/WD~Nemesis,6991110|WD~Nemesis,6991110]]'
+- '[[_Standards/WikiData/WD~Punjaub,7260364|WD~Punjaub,7260364]]'
+- '[[_Standards/WikiData/WD~Busbridge,55606211|WD~Busbridge,55606211]]'
 founded_by:
-- '[[_Standards/WikiData/WD~John_Watts,6263262]]'
-- '[[_Standards/WikiData/WD~George_White,25172164]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248]]'
+- '[[_Standards/WikiData/WD~John_Watts,6263262|WD~John_Watts,6263262]]'
+- '[[_Standards/WikiData/WD~George_White,25172164|WD~George_White,25172164]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248|WD~Scheepvaartmuseum_Wikidataproject,132231248]]'
 dissolved_abolished_or_demolished_date: 1874-06-01T00:00:00Z
 inception: 1600-12-31T00:00:00Z
-headquarters_locations: '[[_Standards/WikiData/WD~London,84]]'
+headquarters_locations: '[[_Standards/WikiData/WD~London,84|WD~London,84]]'
 coat_of_arms_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20East%20India%20Company.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20East%20India%20Company%20%281600-1709%29.svg

@@ -36,8 +36,8 @@ aliases:
 - 印度十字棋
 - 파치시
 has_id_wikidata: Q796171
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-instance_of: '[[_Standards/WikiData/WD~cross_and_circle_game,5188437]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~cross_and_circle_game,5188437|WD~cross_and_circle_game,5188437]]'
 Commons_category: Pachisi
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pachisi-real.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Pachisi.svg

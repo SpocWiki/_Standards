@@ -63,7 +63,7 @@ aliases:
 
 > Steely Dan is an American rock band founded in 1971 in New York 
 > by [[Becker,Walter]] (guitars, bass, backing vocals) 
-> and [[Steely_Dan/Fagen,Donald]] (keyboards, lead vocals). 
+> and [[Steely_Dan/Fagen,Donald|Fagen,Donald]] (keyboards, lead vocals). 
 > 
 > Originally having a full band lineup, by the end of 1974 Becker and Fagen chose to stop playing live and continue Steely Dan as a studio-only duo, 
 > utilising a revolving cast of session musicians. 

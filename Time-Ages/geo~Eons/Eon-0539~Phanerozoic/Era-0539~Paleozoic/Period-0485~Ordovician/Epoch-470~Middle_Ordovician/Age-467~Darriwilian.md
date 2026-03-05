@@ -27,13 +27,13 @@ aliases:
 - 達瑞威爾階
 has_id_wikidata: Q1032866
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Thomas_Sergeant_Hall,7793873]]'
-named_after: '[[_Standards/WikiData/WD~Darriwil,28931382]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Darriwilian,30869277]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Darriwilian,134776267]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Thomas_Sergeant_Hall,7793873|WD~Thomas_Sergeant_Hall,7793873]]'
+named_after: '[[_Standards/WikiData/WD~Darriwil,28931382|WD~Darriwil,28931382]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Darriwilian,30869277|WD~Category_Darriwilian,30869277]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Darriwilian,134776267|WD~GSSP_for_the_base_of_Darriwilian,134776267]]'
 coordinate_location: Point(118.4897 28.8539)
 sRGB_color_hex_triplet: 35C9B2
 start_time: -467300000-01-01T00:00:00Z
@@ -142,7 +142,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 467.3 to 458.4 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-465_Ma_(Darriwilian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-465_Ma_(Darriwilian_Age).png|Earth-465_Ma_(Darriwilian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

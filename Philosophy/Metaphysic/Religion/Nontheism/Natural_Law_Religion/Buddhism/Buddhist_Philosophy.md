@@ -47,9 +47,9 @@ aliases:
 - 佛教哲學
 - 불교 철학
 has_id_wikidata: Q1001079
-subclass_of: '[[_Standards/WikiData/WD~religious_philosophy,2054106]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Buddhist_Philosophy_sidebar,99340903]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Buddhism,748]]'
+subclass_of: '[[_Standards/WikiData/WD~religious_philosophy,2054106|WD~religious_philosophy,2054106]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Buddhist_Philosophy_sidebar,99340903|WD~Template_Buddhist_Philosophy_sidebar,99340903]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Buddhism,748|WD~Buddhism,748]]'
 P8189: 987007541111005171
 dv_has_:
   name_:

@@ -64,19 +64,19 @@ aliases:
 - 센서
 has_id_wikidata: Q167676
 instance_of:
-- '[[_Standards/WikiData/WD~physical_technological_component,811909]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-part_of: '[[_Standards/WikiData/WD~measuring_instrument,2041172]]'
-subclass_of: '[[_Standards/WikiData/WD~measuring_instrument,2041172]]'
-model_item: '[[_Standards/WikiData/WD~detector,2066909]]'
-has_list: '[[_Standards/WikiData/WD~list_of_sensors,6638158]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Sensors,21096631]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~physical_technological_component,811909|WD~physical_technological_component,811909]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+part_of: '[[_Standards/WikiData/WD~measuring_instrument,2041172|WD~measuring_instrument,2041172]]'
+subclass_of: '[[_Standards/WikiData/WD~measuring_instrument,2041172|WD~measuring_instrument,2041172]]'
+model_item: '[[_Standards/WikiData/WD~detector,2066909|WD~detector,2066909]]'
+has_list: '[[_Standards/WikiData/WD~list_of_sensors,6638158|WD~list_of_sensors,6638158]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Sensors,21096631|WD~Template_Sensors,21096631]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]'
-- '[[_Standards/WikiData/WD~Vocabulario_Internacional_de_Metrología_(3a_Edición_en_español_2012),110694877]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q131851259,131851259]]'
+- '[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574|WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]'
+- '[[_Standards/WikiData/WD~Vocabulario_Internacional_de_Metrología_(3a_Edición_en_español_2012),110694877|WD~Vocabulario_Internacional_de_Metrología_(3a_Edición_en_español_2012),110694877]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q131851259,131851259|WD~Q131851259,131851259]]'
 Wikidata_property: sensors
 OmegaWiki_Defined_Meaning: 4613
 GitHub_topic:

@@ -30,17 +30,17 @@ aliases:
 - 阿連期
 - 알렌절
 has_id_wikidata: Q300887
-named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704]]'
+named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704|WD~Karl_Mayer_Eymar,116704]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Fuentelsaz,986555]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Aalenian,21144002]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Fuentelsaz,986555|WD~Fuentelsaz,986555]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Aalenian,21144002|WD~Category_Aalenian,21144002]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 coordinate_location: Point(-1.830333333 41.079138888)
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Aalenian,105753535]]'
-named_after: '[[_Standards/WikiData/WD~Aalen,3951]]'
-country: '[[_Standards/WikiData/WD~Spain,29]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Aalenian,105753535|WD~GSSP_for_the_base_of_the_Aalenian,105753535]]'
+named_after: '[[_Standards/WikiData/WD~Aalen,3951|WD~Aalen,3951]]'
+country: '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
 end_time: -170300000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aalenian%20GSSP%20-%20Golden%20spike%20ceremony%20-%20Fuentelsaz%2C%20Guadalajara%2C%20Spain%2014.jpg
 sRGB_color_hex_triplet: 6FDAED

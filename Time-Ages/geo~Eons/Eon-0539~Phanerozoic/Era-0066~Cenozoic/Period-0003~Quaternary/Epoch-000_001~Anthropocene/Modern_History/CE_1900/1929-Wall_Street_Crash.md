@@ -61,11 +61,11 @@ aliases:
 - ウォール街大暴落
 - 검은 목요일
 has_id_wikidata: Q201684
-different_from: '[[_Standards/WikiData/WD~Black_Friday,86483]]'
-instance_of: '[[_Standards/WikiData/WD~stock_market_crash,1020018]]'
-participant: '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
-location: '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+different_from: '[[_Standards/WikiData/WD~Black_Friday,86483|WD~Black_Friday,86483]]'
+instance_of: '[[_Standards/WikiData/WD~stock_market_crash,1020018|WD~stock_market_crash,1020018]]'
+participant: '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677|WD~New_York_Stock_Exchange,13677]]'
+location: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 nickname:
 - Black Thursday
 - Black Tuesday

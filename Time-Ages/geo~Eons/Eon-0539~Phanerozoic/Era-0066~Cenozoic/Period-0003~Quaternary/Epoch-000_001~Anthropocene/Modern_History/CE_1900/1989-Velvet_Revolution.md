@@ -64,12 +64,12 @@ aliases:
 - 天鹅绒革命
 - 벨벳 혁명
 has_id_wikidata: Q182817
-has_cause: '[[_Standards/WikiData/WD~totalitarianism,128135]]'
-has_part_s_: '[[_Standards/WikiData/WD~Q136747398,136747398]]'
-instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
+has_cause: '[[_Standards/WikiData/WD~totalitarianism,128135|WD~totalitarianism,128135]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q136747398,136747398|WD~Q136747398,136747398]]'
+instance_of: '[[_Standards/WikiData/WD~revolution,10931|WD~revolution,10931]]'
 number_of_injured: 500
-location: '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
-country: '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
+location: '[[_Standards/WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]]'
+country: '[[_Standards/WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]]'
 native_label:
 - Sametová revoluce
 - Nežná revolúcia

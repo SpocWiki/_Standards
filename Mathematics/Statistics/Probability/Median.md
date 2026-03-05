@@ -44,18 +44,18 @@ aliases:
 - 중앙값
 has_id_wikidata: Q226995
 subclass_of:
-- '[[_Standards/WikiData/WD~quantile,578714]]'
-- '[[_Standards/WikiData/WD~central_tendency,734219]]'
+- '[[_Standards/WikiData/WD~quantile,578714|WD~quantile,578714]]'
+- '[[_Standards/WikiData/WD~central_tendency,734219|WD~central_tendency,734219]]'
 different_from:
-- '[[_Standards/WikiData/WD~mediant,1334910]]'
-- '[[_Standards/WikiData/WD~median,112384677]]'
-- '[[_Standards/WikiData/WD~arithmetic_mean,19033]]'
+- '[[_Standards/WikiData/WD~mediant,1334910|WD~mediant,1334910]]'
+- '[[_Standards/WikiData/WD~median,112384677|WD~median,112384677]]'
+- '[[_Standards/WikiData/WD~arithmetic_mean,19033|WD~arithmetic_mean,19033]]'
 facet_of:
-- '[[_Standards/WikiData/WD~robust_statistics,1665389]]'
-- '[[_Standards/WikiData/WD~statistics,12483]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_statistic,47103999]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[_Standards/WikiData/WD~robust_statistics,1665389|WD~robust_statistics,1665389]]'
+- '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_statistic,47103999|WD~type_of_statistic,47103999]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 Commons_category: Median
 video: http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20Mediana.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Finding%20the%20median.png

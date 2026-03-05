@@ -101,14 +101,14 @@ aliases:
   - 钥匙
   - 열쇠
 has_id_wikidata: Q132041
-physically_interacts_with: "[[_Standards/WikiData/WD~lock,228039]]"
+physically_interacts_with: "[[_Standards/WikiData/WD~lock,228039|WD~lock,228039]]"
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-different_from: "[[_Standards/WikiData/WD~Klucz,1776558]]"
-has_use: "[[_Standards/WikiData/WD~access,13157735]]"
-subclass_of: "[[_Standards/WikiData/WD~physical_tool,39546]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+different_from: "[[_Standards/WikiData/WD~Klucz,1776558|WD~Klucz,1776558]]"
+has_use: "[[_Standards/WikiData/WD~access,13157735|WD~access,13157735]]"
+subclass_of: "[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]"
 OmegaWiki_Defined_Meaning: 6149
 IMDb_keyword: key
 Commons_category: Keys
@@ -249,7 +249,7 @@ dv_has_:
 # [[Key]] 🗝 🔑
 
 #has_/complement :: [[Lock]] 
-#is_/similar_to :: [[../../../../../Technology/IT/Cryptography/Cryptographic_Key]] 
+#is_/similar_to :: [[../../../../../Technology/IT/Cryptography/Cryptographic_Key|Cryptographic_Key]] 
 #is_/same_as :: [[WD~Key,132041]] 
 
 ## #has_/text_of_/abstract 

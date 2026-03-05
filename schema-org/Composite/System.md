@@ -74,39 +74,39 @@ aliases:
 - 시스템
 has_id_wikidata: Q58778
 studied_by:
-- '[[_Standards/WikiData/WD~cybernetics,123637]]'
-- '[[_Standards/WikiData/WD~systems_theory,269699]]'
-- '[[_Standards/WikiData/WD~systems_engineering,682496]]'
-- '[[_Standards/WikiData/WD~systems_science,2167061]]'
+- '[[_Standards/WikiData/WD~cybernetics,123637|WD~cybernetics,123637]]'
+- '[[_Standards/WikiData/WD~systems_theory,269699|WD~systems_theory,269699]]'
+- '[[_Standards/WikiData/WD~systems_engineering,682496|WD~systems_engineering,682496]]'
+- '[[_Standards/WikiData/WD~systems_science,2167061|WD~systems_science,2167061]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~emergence,215772]]'
-- '[[_Standards/WikiData/WD~system_dynamics,598451]]'
-- '[[_Standards/WikiData/WD~complexity,723897]]'
-- '[[_Standards/WikiData/WD~condition,813912]]'
-- '[[_Standards/WikiData/WD~evolvability,909622]]'
-- '[[_Standards/WikiData/WD~system_boundary,2048825]]'
-- '[[_Standards/WikiData/WD~stability,2325497]]'
-- '[[_Standards/WikiData/WD~environment,2920644]]'
-- '[[_Standards/WikiData/WD~system_lifecycle,3298282]]'
-- '[[_Standards/WikiData/WD~structure,6671777]]'
-- '[[_Standards/WikiData/WD~system_configuration,7663702]]'
-- '[[_Standards/WikiData/WD~type_of_system,96116695]]'
-- '[[_Standards/WikiData/WD~system_characteristic,115518588]]'
-- '[[_Standards/WikiData/WD~interaction,52948]]'
-different_from: '[[_Standards/WikiData/WD~System,226571]]'
+- '[[_Standards/WikiData/WD~emergence,215772|WD~emergence,215772]]'
+- '[[_Standards/WikiData/WD~system_dynamics,598451|WD~system_dynamics,598451]]'
+- '[[_Standards/WikiData/WD~complexity,723897|WD~complexity,723897]]'
+- '[[_Standards/WikiData/WD~condition,813912|WD~condition,813912]]'
+- '[[_Standards/WikiData/WD~evolvability,909622|WD~evolvability,909622]]'
+- '[[_Standards/WikiData/WD~system_boundary,2048825|WD~system_boundary,2048825]]'
+- '[[_Standards/WikiData/WD~stability,2325497|WD~stability,2325497]]'
+- '[[_Standards/WikiData/WD~environment,2920644|WD~environment,2920644]]'
+- '[[_Standards/WikiData/WD~system_lifecycle,3298282|WD~system_lifecycle,3298282]]'
+- '[[_Standards/WikiData/WD~structure,6671777|WD~structure,6671777]]'
+- '[[_Standards/WikiData/WD~system_configuration,7663702|WD~system_configuration,7663702]]'
+- '[[_Standards/WikiData/WD~type_of_system,96116695|WD~type_of_system,96116695]]'
+- '[[_Standards/WikiData/WD~system_characteristic,115518588|WD~system_characteristic,115518588]]'
+- '[[_Standards/WikiData/WD~interaction,52948|WD~interaction,52948]]'
+different_from: '[[_Standards/WikiData/WD~System,226571|WD~System,226571]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~object,488383]]'
-- '[[_Standards/WikiData/WD~collective_entity,99527517]]'
+- '[[_Standards/WikiData/WD~object,488383|WD~object,488383]]'
+- '[[_Standards/WikiData/WD~collective_entity,99527517|WD~collective_entity,99527517]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~rule,1151067]]'
-- '[[_Standards/WikiData/WD~component,1310239]]'
-- '[[_Standards/WikiData/WD~subsystem,2362312]]'
-- '[[_Standards/WikiData/WD~interaction,52948]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_object,96251598]]'
+- '[[_Standards/WikiData/WD~rule,1151067|WD~rule,1151067]]'
+- '[[_Standards/WikiData/WD~component,1310239|WD~component,1310239]]'
+- '[[_Standards/WikiData/WD~subsystem,2362312|WD~subsystem,2362312]]'
+- '[[_Standards/WikiData/WD~interaction,52948|WD~interaction,52948]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_object,96251598|WD~type_of_object,96251598]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213|WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 properties_for_this_type:
 - has part(s)
 - time of discovery or invention
@@ -118,7 +118,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Prim%C3%A4res%20System
 IEV_number: 351-42-08
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~System,58778]]'
+  - '[[../../WikiData/WD~System,58778|WD~System,58778]]'
   - '[[/_Standards/schema-org/Composite/System|System]]'
   - '[[/_public/schema-org/Composite/System.public|System.public]]'
   - '[[/_internal/schema-org/Composite/System.internal|System.internal]]'
@@ -128,7 +128,7 @@ dv_is_:
   - '[[/_secret/schema-org/Composite/System.secret|System.secret]]'
   - '[[System]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~System,58778]]'
+- '[[../../WikiData/WD~System,58778|WD~System,58778]]'
 - '[[System]]'
 - '[[/_public/schema-org/Composite/System.public|System.public]]'
 - '[[/_internal/schema-org/Composite/System.internal|System.internal]]'

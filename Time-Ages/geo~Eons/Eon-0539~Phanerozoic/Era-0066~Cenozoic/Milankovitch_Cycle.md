@@ -49,9 +49,9 @@ aliases:
 - 米蘭科維奇循環
 - 밀란코비치 주기
 has_id_wikidata: Q211446
-named_after: '[[_Standards/WikiData/WD~Milutin_Milanković,89054]]'
-instance_of: '[[_Standards/WikiData/WD~cyclic_process,2692606]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+named_after: '[[_Standards/WikiData/WD~Milutin_Milanković,89054|WD~Milutin_Milanković,89054]]'
+instance_of: '[[_Standards/WikiData/WD~cyclic_process,2692606|WD~cyclic_process,2692606]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 Commons_gallery: Milankovitch cycles
 Commons_category: Milankovitch cycles
 dv_is_:

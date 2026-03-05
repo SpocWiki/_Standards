@@ -30,7 +30,7 @@ type: Pred_Text
 dv_has_:
   text_of_:
     access_mode: Text
-  domain: "[[../../../Society/Communication/Media/Creative_Work]]"
+  domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
   name: has_text_of_access_mode
   range: Text
 dv_has_text_of_access_mode: Text
@@ -44,7 +44,7 @@ dv_is_:
     - "[[/_personal/schema-org/Property/Texts/has_access_mode.personal|has_access_mode.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_access_mode.secret|has_access_mode.secret]]"
     - "[[has_access_mode]]"
-dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: has_text_of_access_mode
 dv_has_range: Text
 dv_is_same_as:

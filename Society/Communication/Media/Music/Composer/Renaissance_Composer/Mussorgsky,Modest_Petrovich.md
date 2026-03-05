@@ -54,58 +54,58 @@ aliases:
 - 莫杰斯特·彼得罗维奇·穆索尔斯基
 - 모데스트 무소륵스키
 has_id_wikidata: Q132682
-is_member_of: '[[_Standards/WikiData/WD~The_Five,190390]]'
+is_member_of: '[[_Standards/WikiData/WD~The_Five,190390|WD~The_Five,190390]]'
 notable_work:
-- '[[_Standards/WikiData/WD~Night_on_Bald_Mountain,285976]]'
-- '[[_Standards/WikiData/WD~Boris_Godunov,386846]]'
-- '[[_Standards/WikiData/WD~Pictures_at_an_Exhibition,724981]]'
+- '[[_Standards/WikiData/WD~Night_on_Bald_Mountain,285976|WD~Night_on_Bald_Mountain,285976]]'
+- '[[_Standards/WikiData/WD~Boris_Godunov,386846|WD~Boris_Godunov,386846]]'
+- '[[_Standards/WikiData/WD~Pictures_at_an_Exhibition,724981|WD~Pictures_at_an_Exhibition,724981]]'
 occupation:
-- '[[_Standards/WikiData/WD~pianist,486748]]'
-- '[[_Standards/WikiData/WD~librettist,8178443]]'
-- '[[_Standards/WikiData/WD~composer,36834]]'
-- '[[_Standards/WikiData/WD~military_personnel,47064]]'
+- '[[_Standards/WikiData/WD~pianist,486748|WD~pianist,486748]]'
+- '[[_Standards/WikiData/WD~librettist,8178443|WD~librettist,8178443]]'
+- '[[_Standards/WikiData/WD~composer,36834|WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~military_personnel,47064|WD~military_personnel,47064]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
-- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-- '[[_Standards/WikiData/WD~Antologie_z_oper,54459780]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-place_of_burial: '[[_Standards/WikiData/WD~Tikhvin_Cemetery,2272835]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511|WD~Faces_of_Moscow,28666511]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019|WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Antologie_z_oper,54459780|WD~Antologie_z_oper,54459780]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+place_of_burial: '[[_Standards/WikiData/WD~Tikhvin_Cemetery,2272835|WD~Tikhvin_Cemetery,2272835]]'
 educated_at:
-- "[[_Standards/WikiData/WD~Saint_Peter's_School,2388897]]"
-- '[[_Standards/WikiData/WD~Nikolaevskaya_Cavalry_School,3577830]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_Modest_Mussorgsky,3834076]]'
-place_of_birth: '[[_Standards/WikiData/WD~Karevo,4214859]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-cause_of_death: '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-given_name: '[[_Standards/WikiData/WD~Modest,18978390]]'
-documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
-family_name: '[[_Standards/WikiData/WD~Musorgsky,88464483]]'
+- "[[_Standards/WikiData/WD~Saint_Peter's_School,2388897|WD~Saint_Peter's_School,2388897]]"
+- '[[_Standards/WikiData/WD~Nikolaevskaya_Cavalry_School,3577830|WD~Nikolaevskaya_Cavalry_School,3577830]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_Modest_Mussorgsky,3834076|WD~list_of_compositions_by_Modest_Mussorgsky,3834076]]'
+place_of_birth: '[[_Standards/WikiData/WD~Karevo,4214859|WD~Karevo,4214859]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+cause_of_death: '[[_Standards/WikiData/WD~infectious_disease,18123741|WD~infectious_disease,18123741]]'
+given_name: '[[_Standards/WikiData/WD~Modest,18978390|WD~Modest,18978390]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+family_name: '[[_Standards/WikiData/WD~Musorgsky,88464483|WD~Musorgsky,88464483]]'
 date_of_death: 1881-03-28T00:00:00Z
 work_period_start_: 1852-01-01T00:00:00Z
 date_of_birth: 1839-03-21T00:00:00Z
-place_of_death: '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+place_of_death: '[[_Standards/WikiData/WD~Saint_Petersburg,656|WD~Saint_Petersburg,656]]'
 genre:
-- '[[_Standards/WikiData/WD~opera,1344]]'
-- '[[_Standards/WikiData/WD~classical_music,9730]]'
-- '[[_Standards/WikiData/WD~play,25379]]'
-instrument: '[[_Standards/WikiData/WD~piano,5994]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~opera,1344|WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~classical_music,9730|WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~play,25379|WD~play,25379]]'
+instrument: '[[_Standards/WikiData/WD~piano,5994|WD~piano,5994]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
 medical_condition:
-- '[[_Standards/WikiData/WD~alcoholism,15326]]'
-- '[[_Standards/WikiData/WD~epilepsy,41571]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-allegiance: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~alcoholism,15326|WD~alcoholism,15326]]'
+- '[[_Standards/WikiData/WD~epilepsy,41571|WD~epilepsy,41571]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+allegiance: '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
 Wolfram_Language_entity_code: Entity["Concept", "ModestMoussorgsky::5k284"]
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/MUSORGSKI_MODEST_PETROVICH.html
 Commons_gallery: Modest Mussorgsky

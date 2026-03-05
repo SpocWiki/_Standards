@@ -68,14 +68,14 @@ aliases:
 - 노동법
 has_id_wikidata: Q628967
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-subclass_of: '[[_Standards/WikiData/WD~social_law,1567259]]'
-instance_of: '[[_Standards/WikiData/WD~area_of_law,1756157]]'
-practiced_by: '[[_Standards/WikiData/WD~labor_law_specialist,9019735]]'
-contributing_factor_of: '[[_Standards/WikiData/WD~work_environment,17993820]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+subclass_of: '[[_Standards/WikiData/WD~social_law,1567259|WD~social_law,1567259]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_law,1756157|WD~area_of_law,1756157]]'
+practiced_by: '[[_Standards/WikiData/WD~labor_law_specialist,9019735|WD~labor_law_specialist,9019735]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~work_environment,17993820|WD~work_environment,17993820]]'
 Dewey_Decimal_Classification:
 - 343
 - 344

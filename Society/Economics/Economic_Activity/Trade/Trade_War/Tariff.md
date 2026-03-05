@@ -67,23 +67,23 @@ aliases:
 - 關稅
 - 관세
 has_id_wikidata: Q52389
-used_by: '[[_Standards/WikiData/WD~protectionism,179073]]'
+used_by: '[[_Standards/WikiData/WD~protectionism,179073|WD~protectionism,179073]]'
 part_of:
-- '[[_Standards/WikiData/WD~commercial_policy,572564]]'
-- '[[_Standards/WikiData/WD~trade_war,692412]]'
+- '[[_Standards/WikiData/WD~commercial_policy,572564|WD~commercial_policy,572564]]'
+- '[[_Standards/WikiData/WD~trade_war,692412|WD~trade_war,692412]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~rate,736288]]'
-- '[[_Standards/WikiData/WD~trade_restriction,7832074]]'
-- '[[_Standards/WikiData/WD~levy,16102139]]'
-different_from: '[[_Standards/WikiData/WD~Q9200273,9200273]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~customs_duty,106577112]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_tax,130109687]]'
+- '[[_Standards/WikiData/WD~rate,736288|WD~rate,736288]]'
+- '[[_Standards/WikiData/WD~trade_restriction,7832074|WD~trade_restriction,7832074]]'
+- '[[_Standards/WikiData/WD~levy,16102139|WD~levy,16102139]]'
+different_from: '[[_Standards/WikiData/WD~Q9200273,9200273|WD~Q9200273,9200273]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~customs_duty,106577112|WD~customs_duty,106577112]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_tax,130109687|WD~type_of_tax,130109687]]'
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/De-Zoll.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Q52389-ar.ogg

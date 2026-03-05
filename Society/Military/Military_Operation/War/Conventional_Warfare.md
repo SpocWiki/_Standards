@@ -36,9 +36,9 @@ aliases:
 - 通常戦
 - 정규전
 has_id_wikidata: Q429245
-opposite_of: '[[_Standards/WikiData/WD~unconventional_warfare,1342628]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_war,124867660]]'
-subclass_of: '[[_Standards/WikiData/WD~war,198]]'
+opposite_of: '[[_Standards/WikiData/WD~unconventional_warfare,1342628|WD~unconventional_warfare,1342628]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_war,124867660|WD~type_of_war,124867660]]'
+subclass_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 dv_has_:
   name_:
     ar: حرب تقليدية

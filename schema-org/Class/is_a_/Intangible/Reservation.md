@@ -46,7 +46,7 @@ dv_has_:
     - "[[Reservation/Taxi_Reservation|Taxi_Reservation]]"
     - "[[Reservation/Train_Reservation|Train_Reservation]]"
   parent_class:
-    - "[[../Intangible]]"
+    - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -74,7 +74,7 @@ dv_has_:
     - "[[../../../Relation/has/has_under_name|has_under_name]]"
     - "[[../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../Intangible]]"
+  - "[[../Intangible|Intangible]]"
 dv_has_child_class:
   - "[[Reservation/Boat_Reservation|Boat_Reservation]]"
   - "[[Reservation/Bus_Reservation|Bus_Reservation]]"
@@ -129,7 +129,7 @@ Tag Instances like this:
 
 Describes a reservation for travel, dining or an event. Some reservations require tickets. 
 
-Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, restaurant reservations, flights, or rental cars, use [[../../../../Society/Agent/Community/Organization/Business/Offer]].
+Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, restaurant reservations, flights, or rental cars, use [[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]].
 
 has_parent_class = `=this.dv_has_parent_class` 
 

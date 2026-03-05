@@ -72,14 +72,14 @@ aliases:
 - 사회 관계
 has_id_wikidata: Q853725
 has_characteristic:
-- '[[_Standards/WikiData/WD~empathy,182263]]'
-- '[[_Standards/WikiData/WD~social_connectedness,7551008]]'
+- '[[_Standards/WikiData/WD~empathy,182263|WD~empathy,182263]]'
+- '[[_Standards/WikiData/WD~social_connectedness,7551008|WD~social_connectedness,7551008]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_phenomenon,602884]]'
-- '[[_Standards/WikiData/WD~relation,930933]]'
-different_from: '[[_Standards/WikiData/WD~social_interaction,609298]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
+- '[[_Standards/WikiData/WD~social_phenomenon,602884|WD~social_phenomenon,602884]]'
+- '[[_Standards/WikiData/WD~relation,930933|WD~relation,930933]]'
+different_from: '[[_Standards/WikiData/WD~social_interaction,609298|WD~social_interaction,609298]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710|WD~type_of_relation,130324710]]'
 Dewey_Decimal_Classification: 302
 OmegaWiki_Defined_Meaning: 1677573
 Commons_category: Social interaction
@@ -170,7 +170,7 @@ dv_has_:
 
 # [[Social_Relation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~social_relation,853725]] 
+#is_/same_as :: [[_Standards/WikiData/WD~social_relation,853725|WD~social_relation,853725]] 
 
 ## #has_/text_of_/abstract 
 

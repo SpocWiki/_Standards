@@ -17,8 +17,8 @@ aliases:
 - 多重向量
 - 다중벡터
 has_id_wikidata: Q2377336
-subclass_of: '[[_Standards/WikiData/WD~tensor,188524]]'
-part_of: '[[_Standards/WikiData/WD~exterior_algebra,1196652]]'
+subclass_of: '[[_Standards/WikiData/WD~tensor,188524|WD~tensor,188524]]'
+part_of: '[[_Standards/WikiData/WD~exterior_algebra,1196652|WD~exterior_algebra,1196652]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/N%20vector%20positive.svg
 Commons_category: Multivectors
 dv_has_:
@@ -44,7 +44,7 @@ dv_has_:
 
 # [[MultiVector]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~multivector,2377336]] 
+#is_/same_as :: [[_Standards/WikiData/WD~multivector,2377336|WD~multivector,2377336]] 
 
 ## #has_/text_of_/abstract 
 

@@ -79,21 +79,21 @@ aliases:
 - 노이즈
 has_id_wikidata: Q179448
 instance_of:
-- '[[_Standards/WikiData/WD~oscillation,170475]]'
-- '[[_Standards/WikiData/WD~production_environment_factor,124326543]]'
+- '[[_Standards/WikiData/WD~oscillation,170475|WD~oscillation,170475]]'
+- '[[_Standards/WikiData/WD~production_environment_factor,124326543|WD~production_environment_factor,124326543]]'
 different_from:
-- '[[_Standards/WikiData/WD~Noise,409897]]'
-- '[[_Standards/WikiData/WD~Støj,118583193]]'
-studied_by: '[[_Standards/WikiData/WD~audiology,569965]]'
-manifestation_of: '[[_Standards/WikiData/WD~nonsense,600499]]'
+- '[[_Standards/WikiData/WD~Noise,409897|WD~Noise,409897]]'
+- '[[_Standards/WikiData/WD~Støj,118583193|WD~Støj,118583193]]'
+studied_by: '[[_Standards/WikiData/WD~audiology,569965|WD~audiology,569965]]'
+manifestation_of: '[[_Standards/WikiData/WD~nonsense,600499|WD~nonsense,600499]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~noise_control,1879301]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Noise,22738080]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125]]'
-distributed_from: '[[_Standards/WikiData/WD~ocean,9430]]'
-subclass_of: '[[_Standards/WikiData/WD~sound,11461]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~noise_control,1879301|WD~noise_control,1879301]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Noise,22738080|WD~Template_Noise,22738080]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125|WD~WikiProject_Hearing_Health,123226125]]'
+distributed_from: '[[_Standards/WikiData/WD~ocean,9430|WD~ocean,9430]]'
+subclass_of: '[[_Standards/WikiData/WD~sound,11461|WD~sound,11461]]'
 OmegaWiki_Defined_Meaning: 5290
 Commons_category: Noise
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Ger%C3%A4usch.ogg

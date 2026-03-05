@@ -125,27 +125,27 @@ aliases:
 - 망치
 has_id_wikidata: Q25294
 has_part_s_:
-- '[[_Standards/WikiData/WD~handle,200266]]'
-- '[[_Standards/WikiData/WD~striker,4095594]]'
-- '[[_Standards/WikiData/WD~hammerhead,34503943]]'
+- '[[_Standards/WikiData/WD~handle,200266|WD~handle,200266]]'
+- '[[_Standards/WikiData/WD~striker,4095594|WD~striker,4095594]]'
+- '[[_Standards/WikiData/WD~hammerhead,34503943|WD~hammerhead,34503943]]'
 has_use:
-- '[[_Standards/WikiData/WD~masonry,272999]]'
-- '[[_Standards/WikiData/WD~construction,385378]]'
-- '[[_Standards/WikiData/WD~woodworking,816871]]'
-- '[[_Standards/WikiData/WD~metalworking,953045]]'
-- '[[_Standards/WikiData/WD~home_repair,5889160]]'
-- '[[_Standards/WikiData/WD~stoneworking,99551768]]'
-different_from: '[[_Standards/WikiData/WD~Hammer,532508]]'
+- '[[_Standards/WikiData/WD~masonry,272999|WD~masonry,272999]]'
+- '[[_Standards/WikiData/WD~construction,385378|WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~woodworking,816871|WD~woodworking,816871]]'
+- '[[_Standards/WikiData/WD~metalworking,953045|WD~metalworking,953045]]'
+- '[[_Standards/WikiData/WD~home_repair,5889160|WD~home_repair,5889160]]'
+- '[[_Standards/WikiData/WD~stoneworking,99551768|WD~stoneworking,99551768]]'
+different_from: '[[_Standards/WikiData/WD~Hammer,532508|WD~Hammer,532508]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~woodworking_tool,11789812]]'
-- '[[_Standards/WikiData/WD~impact_tool,30058680]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116591856,116591856]]'
-has_characteristic: '[[_Standards/WikiData/WD~mass,11423]]'
+- '[[_Standards/WikiData/WD~woodworking_tool,11789812|WD~woodworking_tool,11789812]]'
+- '[[_Standards/WikiData/WD~impact_tool,30058680|WD~impact_tool,30058680]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116591856,116591856|WD~Q116591856,116591856]]'
+has_characteristic: '[[_Standards/WikiData/WD~mass,11423|WD~mass,11423]]'
 OmegaWiki_Defined_Meaning: 6183
 Nomenclature_for_Museum_Cataloging: 7363
 Commons_gallery: Hammer

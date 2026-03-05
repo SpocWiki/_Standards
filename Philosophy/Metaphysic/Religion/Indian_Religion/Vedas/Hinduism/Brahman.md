@@ -39,11 +39,11 @@ aliases:
 - 梵
 - 브라만
 has_id_wikidata: Q746990
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~citta,1144979]]'
-instance_of: '[[_Standards/WikiData/WD~religious_concept,23847174]]'
-facet_of: '[[_Standards/WikiData/WD~Hinduism,9089]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089]]'
-different_from: '[[_Standards/WikiData/WD~God_Brahma,11389]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~citta,1144979|WD~citta,1144979]]'
+instance_of: '[[_Standards/WikiData/WD~religious_concept,23847174|WD~religious_concept,23847174]]'
+facet_of: '[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]'
+different_from: '[[_Standards/WikiData/WD~God_Brahma,11389|WD~God_Brahma,11389]]'
 Krugosvet_article: gumanitarnye_nauki/filosofiya/BRAHMAN.html
 Library_of_Congress_Classification: BL1213.56
 dv_has_:

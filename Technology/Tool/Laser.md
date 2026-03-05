@@ -55,11 +55,11 @@ aliases:
 - 레이저
 has_id_wikidata: Q38867
 subclass_of:
-- '[[_Standards/WikiData/WD~light_source,1146001]]'
-- '[[_Standards/WikiData/WD~optical_component,65037298]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Lasers,18857045]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~laser_beam,65595739]]'
+- '[[_Standards/WikiData/WD~light_source,1146001|WD~light_source,1146001]]'
+- '[[_Standards/WikiData/WD~optical_component,65037298|WD~optical_component,65037298]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Lasers,18857045|WD~Template_Lasers,18857045]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~laser_beam,65595739|WD~laser_beam,65595739]]'
 OmegaWiki_Defined_Meaning: 2111
 Amazon_com_browse_node: 1069410
 Wolfram_Language_entity_type: Laser

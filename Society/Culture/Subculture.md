@@ -50,13 +50,13 @@ aliases:
 - 次文化
 - 하위문화
 has_id_wikidata: Q264965
-facet_of: '[[_Standards/WikiData/WD~social_group,874405]]'
+facet_of: '[[_Standards/WikiData/WD~social_group,874405|WD~social_group,874405]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-- '[[_Standards/WikiData/WD~culture,11042]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q18720015,18720015]]'
-opposite_of: '[[_Standards/WikiData/WD~mainstream,18957]]'
-studied_by: '[[_Standards/WikiData/WD~sociology,21201]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q18720015,18720015|WD~Q18720015,18720015]]'
+opposite_of: '[[_Standards/WikiData/WD~mainstream,18957|WD~mainstream,18957]]'
+studied_by: '[[_Standards/WikiData/WD~sociology,21201|WD~sociology,21201]]'
 Dewey_Decimal_Classification: 306.1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Goth-p1020641.jpg
 Wolfram_Language_entity_code: Entity["Concept", "Subculture::7snp8"]

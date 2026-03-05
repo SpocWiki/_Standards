@@ -45,38 +45,38 @@ Libris_URI: tr58hcrc1k8cz6d
 floruit:
 - 1996-06-01T00:00:00Z
 - 1998-01-01T00:00:00Z
-founded_by: '[[_Standards/WikiData/WD~Paul_Reuter,71014]]'
-named_after: '[[_Standards/WikiData/WD~Paul_Reuter,71014]]'
+founded_by: '[[_Standards/WikiData/WD~Paul_Reuter,71014|WD~Paul_Reuter,71014]]'
+named_after: '[[_Standards/WikiData/WD~Paul_Reuter,71014|WD~Paul_Reuter,71014]]'
 has_works_in_the_collection:
-- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-- '[[_Standards/WikiData/WD~Amsab_Instituut_voor_Sociale_Geschiedenis_Gent,3359412]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740|WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Amsab_Instituut_voor_Sociale_Geschiedenis_Gent,3359412|WD~Amsab_Instituut_voor_Sociale_Geschiedenis_Gent,3359412]]'
 instance_of:
-- '[[_Standards/WikiData/WD~news_agency,192283]]'
-- '[[_Standards/WikiData/WD~business,4830453]]'
-has_written_for: '[[_Standards/WikiData/WD~Mediapart,619342]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~Thomson_Reuters,1141267]]'
-owned_by: '[[_Standards/WikiData/WD~Thomson_Reuters,1141267]]'
+- '[[_Standards/WikiData/WD~news_agency,192283|WD~news_agency,192283]]'
+- '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
+has_written_for: '[[_Standards/WikiData/WD~Mediapart,619342|WD~Mediapart,619342]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Thomson_Reuters,1141267|WD~Thomson_Reuters,1141267]]'
+owned_by: '[[_Standards/WikiData/WD~Thomson_Reuters,1141267|WD~Thomson_Reuters,1141267]]'
 legal_form:
-- '[[_Standards/WikiData/WD~kabushiki_gaisha,1480166]]'
-- '[[_Standards/WikiData/WD~private_company_limited_by_shares,6832945]]'
+- '[[_Standards/WikiData/WD~kabushiki_gaisha,1480166|WD~kabushiki_gaisha,1480166]]'
+- '[[_Standards/WikiData/WD~private_company_limited_by_shares,6832945|WD~private_company_limited_by_shares,6832945]]'
 editor_in_chief:
-- '[[_Standards/WikiData/WD~Stephen_J._Adler,1673537]]'
-- '[[_Standards/WikiData/WD~Alessandra_Galloni,106502662]]'
-chief_executive_officer: '[[_Standards/WikiData/WD~Stephen_J._Adler,1673537]]'
+- '[[_Standards/WikiData/WD~Stephen_J._Adler,1673537|WD~Stephen_J._Adler,1673537]]'
+- '[[_Standards/WikiData/WD~Alessandra_Galloni,106502662|WD~Alessandra_Galloni,106502662]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Stephen_J._Adler,1673537|WD~Stephen_J._Adler,1673537]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-industry: '[[_Standards/WikiData/WD~telecommunications,2401742]]'
-owner_of: '[[_Standards/WikiData/WD~Effix,3049067]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+industry: '[[_Standards/WikiData/WD~telecommunications,2401742|WD~telecommunications,2401742]]'
+owner_of: '[[_Standards/WikiData/WD~Effix,3049067|WD~Effix,3049067]]'
 different_from:
-- '[[_Standards/WikiData/WD~Reuters_Group,7317630]]'
-- '[[_Standards/WikiData/WD~Ruters,108801989]]'
-child_organization_or_unit: '[[_Standards/WikiData/WD~Reuters_TV,23307695]]'
-participant_in: '[[_Standards/WikiData/WD~The_Daphne_Project,65118648]]'
+- '[[_Standards/WikiData/WD~Reuters_Group,7317630|WD~Reuters_Group,7317630]]'
+- '[[_Standards/WikiData/WD~Ruters,108801989|WD~Ruters,108801989]]'
+child_organization_or_unit: '[[_Standards/WikiData/WD~Reuters_TV,23307695|WD~Reuters_TV,23307695]]'
+participant_in: '[[_Standards/WikiData/WD~The_Daphne_Project,65118648|WD~The_Daphne_Project,65118648]]'
 inception: 1851-10-01T00:00:00Z
-language_used: '[[_Standards/WikiData/WD~English,1860]]'
-headquarters_location: '[[_Standards/WikiData/WD~London,84]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+language_used: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+headquarters_location: '[[_Standards/WikiData/WD~London,84|WD~London,84]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 employees: 2500
 social_media_followers: 3870000
 ARCHON_code: 2061
@@ -114,38 +114,38 @@ Libris_URI: tr58hcrc1k8cz6d
 floruit:
   - 1996-06-01T00:00:00Z
   - 1998-01-01T00:00:00Z
-founded_by: "[[_Standards/WikiData/WD~Paul_Reuter,71014]]"
-named_after: "[[_Standards/WikiData/WD~Paul_Reuter,71014]]"
+founded_by: "[[_Standards/WikiData/WD~Paul_Reuter,71014|WD~Paul_Reuter,71014]]"
+named_after: "[[_Standards/WikiData/WD~Paul_Reuter,71014|WD~Paul_Reuter,71014]]"
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-  - "[[_Standards/WikiData/WD~Amsab_Instituut_voor_Sociale_Geschiedenis_Gent,3359412]]"
+  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740|WD~Museum_of_Modern_Art,188740]]"
+  - "[[_Standards/WikiData/WD~Amsab_Instituut_voor_Sociale_Geschiedenis_Gent,3359412|WD~Amsab_Instituut_voor_Sociale_Geschiedenis_Gent,3359412]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~news_agency,192283]]"
-  - "[[_Standards/WikiData/WD~business,4830453]]"
-has_written_for: "[[_Standards/WikiData/WD~Mediapart,619342]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Thomson_Reuters,1141267]]"
-owned_by: "[[_Standards/WikiData/WD~Thomson_Reuters,1141267]]"
+  - "[[_Standards/WikiData/WD~news_agency,192283|WD~news_agency,192283]]"
+  - "[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]"
+has_written_for: "[[_Standards/WikiData/WD~Mediapart,619342|WD~Mediapart,619342]]"
+parent_organization_or_unit: "[[_Standards/WikiData/WD~Thomson_Reuters,1141267|WD~Thomson_Reuters,1141267]]"
+owned_by: "[[_Standards/WikiData/WD~Thomson_Reuters,1141267|WD~Thomson_Reuters,1141267]]"
 legal_form:
-  - "[[_Standards/WikiData/WD~kabushiki_gaisha,1480166]]"
-  - "[[_Standards/WikiData/WD~private_company_limited_by_shares,6832945]]"
+  - "[[_Standards/WikiData/WD~kabushiki_gaisha,1480166|WD~kabushiki_gaisha,1480166]]"
+  - "[[_Standards/WikiData/WD~private_company_limited_by_shares,6832945|WD~private_company_limited_by_shares,6832945]]"
 editor_in_chief:
-  - "[[_Standards/WikiData/WD~Stephen_J._Adler,1673537]]"
-  - "[[_Standards/WikiData/WD~Alessandra_Galloni,106502662]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Stephen_J._Adler,1673537]]"
+  - "[[_Standards/WikiData/WD~Stephen_J._Adler,1673537|WD~Stephen_J._Adler,1673537]]"
+  - "[[_Standards/WikiData/WD~Alessandra_Galloni,106502662|WD~Alessandra_Galloni,106502662]]"
+chief_executive_officer: "[[_Standards/WikiData/WD~Stephen_J._Adler,1673537|WD~Stephen_J._Adler,1673537]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-industry: "[[_Standards/WikiData/WD~telecommunications,2401742]]"
-owner_of: "[[_Standards/WikiData/WD~Effix,3049067]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]"
+industry: "[[_Standards/WikiData/WD~telecommunications,2401742|WD~telecommunications,2401742]]"
+owner_of: "[[_Standards/WikiData/WD~Effix,3049067|WD~Effix,3049067]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Reuters_Group,7317630]]"
-  - "[[_Standards/WikiData/WD~Ruters,108801989]]"
-child_organization_or_unit: "[[_Standards/WikiData/WD~Reuters_TV,23307695]]"
-participant_in: "[[_Standards/WikiData/WD~The_Daphne_Project,65118648]]"
+  - "[[_Standards/WikiData/WD~Reuters_Group,7317630|WD~Reuters_Group,7317630]]"
+  - "[[_Standards/WikiData/WD~Ruters,108801989|WD~Ruters,108801989]]"
+child_organization_or_unit: "[[_Standards/WikiData/WD~Reuters_TV,23307695|WD~Reuters_TV,23307695]]"
+participant_in: "[[_Standards/WikiData/WD~The_Daphne_Project,65118648|WD~The_Daphne_Project,65118648]]"
 inception: 1851-10-01T00:00:00Z
-language_used: "[[_Standards/WikiData/WD~English,1860]]"
-headquarters_location: "[[_Standards/WikiData/WD~London,84]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+language_used: "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+headquarters_location: "[[_Standards/WikiData/WD~London,84|WD~London,84]]"
+country: "[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]"
 employees: 2500
 social_media_followers: 3870000
 ARCHON_code: "2061"

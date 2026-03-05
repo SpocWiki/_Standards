@@ -73,29 +73,29 @@ aliases:
 - 루비
 has_id_wikidata: Q43088
 subclass_of:
-- '[[_Standards/WikiData/WD~gemstone,83437]]'
-- '[[_Standards/WikiData/WD~sapphire,127583]]'
-- '[[_Standards/WikiData/WD~corundum,131777]]'
-different_from: '[[_Standards/WikiData/WD~Rubin,295582]]'
+- '[[_Standards/WikiData/WD~gemstone,83437|WD~gemstone,83437]]'
+- '[[_Standards/WikiData/WD~sapphire,127583|WD~sapphire,127583]]'
+- '[[_Standards/WikiData/WD~corundum,131777|WD~corundum,131777]]'
+different_from: '[[_Standards/WikiData/WD~Rubin,295582|WD~Rubin,295582]]'
 color:
-- '[[_Standards/WikiData/WD~pink,429220]]'
-- '[[_Standards/WikiData/WD~ruby,3446513]]'
-- '[[_Standards/WikiData/WD~red,3142]]'
-instance_of: '[[_Standards/WikiData/WD~mineral_variety,429795]]'
-crystal_system: '[[_Standards/WikiData/WD~trigonal_crystal_system,588274]]'
+- '[[_Standards/WikiData/WD~pink,429220|WD~pink,429220]]'
+- '[[_Standards/WikiData/WD~ruby,3446513|WD~ruby,3446513]]'
+- '[[_Standards/WikiData/WD~red,3142|WD~red,3142]]'
+instance_of: '[[_Standards/WikiData/WD~mineral_variety,429795|WD~mineral_variety,429795]]'
+crystal_system: '[[_Standards/WikiData/WD~trigonal_crystal_system,588274|WD~trigonal_crystal_system,588274]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-streak_color: '[[_Standards/WikiData/WD~white,23444]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597|WD~hedendaagsesieraden.nl,89929597]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+streak_color: '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
 Mohs_hardness:
 - 9
 - 9.5
@@ -109,7 +109,7 @@ CAS_Registry_Number: 12174-49-1
 Krugosvet_article_archived_: Earth_sciences/geologiya/RUBIN.html
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Ruby,43088]]'
+  - '[[../../../../../WikiData/WD~Ruby,43088|WD~Ruby,43088]]'
   - '[[/_Standards/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby|Ruby]]'
   - '[[/_public/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.public|Ruby.public]]'
   - '[[/_internal/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.internal|Ruby.internal]]'
@@ -118,7 +118,7 @@ dv_is_:
   - '[[/_personal/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.personal|Ruby.personal]]'
   - '[[/_secret/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.secret|Ruby.secret]]'
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Ruby,43088]]'
+- '[[../../../../../WikiData/WD~Ruby,43088|WD~Ruby,43088]]'
 - '[[/_Standards/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby|Ruby]]'
 - '[[/_public/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.public|Ruby.public]]'
 - '[[/_internal/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.internal|Ruby.internal]]'

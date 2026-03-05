@@ -52,10 +52,10 @@ aliases:
 - 無限連鎖講
 - 피라미드 사기
 has_id_wikidata: Q214242
-derivative_work: '[[_Standards/WikiData/WD~Ponzi_scheme,219407]]'
+derivative_work: '[[_Standards/WikiData/WD~Ponzi_scheme,219407|WD~Ponzi_scheme,219407]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~business_model,815823]]'
-- '[[_Standards/WikiData/WD~fraud,28813]]'
+- '[[_Standards/WikiData/WD~business_model,815823|WD~business_model,815823]]'
+- '[[_Standards/WikiData/WD~fraud,28813|WD~fraud,28813]]'
 OmegaWiki_Defined_Meaning: 1202346
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SistemaGDI.jpg
 Commons_category: Pyramid and Ponzi schemes
@@ -129,7 +129,7 @@ dv_has_:
 # [[Pyramid_Scheme]] 
 
 #is_/similar_to :: [[Ponzi_Scheme]] 
-#is_/same_as :: [[_Standards/WikiData/WD~pyramid_scheme,214242]] 
+#is_/same_as :: [[_Standards/WikiData/WD~pyramid_scheme,214242|WD~pyramid_scheme,214242]] 
 
 ## #has_/text_of_/abstract 
 

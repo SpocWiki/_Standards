@@ -42,11 +42,11 @@ aliases:
 - 暢銷小說
 - 장르 소설
 has_id_wikidata: Q1194480
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~popular_literature,2497655]]'
-opposite_of: '[[_Standards/WikiData/WD~high_literature,6647667]]'
-subclass_of: '[[_Standards/WikiData/WD~fiction_literature,38072107]]'
-instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
-studied_by: '[[_Standards/WikiData/WD~popular_and_genre_literature_studies,113128855]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~popular_literature,2497655|WD~popular_literature,2497655]]'
+opposite_of: '[[_Standards/WikiData/WD~high_literature,6647667|WD~high_literature,6647667]]'
+subclass_of: '[[_Standards/WikiData/WD~fiction_literature,38072107|WD~fiction_literature,38072107]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
+studied_by: '[[_Standards/WikiData/WD~popular_and_genre_literature_studies,113128855|WD~popular_and_genre_literature_studies,113128855]]'
 dv_has_:
   name_:
     ar: خيال النوع

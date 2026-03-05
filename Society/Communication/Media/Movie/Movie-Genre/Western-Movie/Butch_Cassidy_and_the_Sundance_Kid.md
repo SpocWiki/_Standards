@@ -103,7 +103,7 @@ dv_has_:
 
 # [[Butch_Cassidy_and_the_Sundance_Kid]]  
 
-#has_/genre :: [ [[../../../../Genre/Fiction/Western(Genre)]], [[Buddy-Story]] ]
+#has_/genre :: [ [[../../../../Genre/Fiction/Western(Genre)|Western(Genre)]], [[Buddy-Story]] ]
 
 
 ## #has_/text_of_/abstract 

@@ -53,72 +53,72 @@ aliases:
 - 노바크 조코비치
 has_id_wikidata: Q5812
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~Socialist_Federal_Republic_of_Yugoslavia,83286]]'
-- '[[_Standards/WikiData/WD~Federal_Republic_of_Yugoslavia,838261]]'
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~Serbia_and_Montenegro,37024]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Serbian_Orthodox_Church,188814]]'
+- '[[_Standards/WikiData/WD~Socialist_Federal_Republic_of_Yugoslavia,83286|WD~Socialist_Federal_Republic_of_Yugoslavia,83286]]'
+- '[[_Standards/WikiData/WD~Federal_Republic_of_Yugoslavia,838261|WD~Federal_Republic_of_Yugoslavia,838261]]'
+- '[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Serbia_and_Montenegro,37024|WD~Serbia_and_Montenegro,37024]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Serbian_Orthodox_Church,188814|WD~Serbian_Orthodox_Church,188814]]'
 head_coach:
-- '[[_Standards/WikiData/WD~Goran_Ivanišević,204279]]'
-- '[[_Standards/WikiData/WD~Marián_Vajda,1291378]]'
-- '[[_Standards/WikiData/WD~Riccardo_Piatti,23039404]]'
+- '[[_Standards/WikiData/WD~Goran_Ivanišević,204279|WD~Goran_Ivanišević,204279]]'
+- '[[_Standards/WikiData/WD~Marián_Vajda,1291378|WD~Marián_Vajda,1291378]]'
+- '[[_Standards/WikiData/WD~Riccardo_Piatti,23039404|WD~Riccardo_Piatti,23039404]]'
 influenced_by:
-- '[[_Standards/WikiData/WD~Masaru_Emoto,205058]]'
-- '[[_Standards/WikiData/WD~Pepe_Imaz,7166221]]'
-employer: '[[_Standards/WikiData/WD~UNICEF,740308]]'
+- '[[_Standards/WikiData/WD~Masaru_Emoto,205058|WD~Masaru_Emoto,205058]]'
+- '[[_Standards/WikiData/WD~Pepe_Imaz,7166221|WD~Pepe_Imaz,7166221]]'
+employer: '[[_Standards/WikiData/WD~UNICEF,740308|WD~UNICEF,740308]]'
 award_received:
-- '[[_Standards/WikiData/WD~Order_of_St._Sava,1517792]]'
-- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
-- '[[_Standards/WikiData/WD~Order_of_the_Star_of_Karađorđe,2545753]]'
-- '[[_Standards/WikiData/WD~Order_of_the_Republika_Srpska,33684]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Sava,1517792|WD~Order_of_St._Sava,1517792]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301|WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Star_of_Karađorđe,2545753|WD~Order_of_the_Star_of_Karađorđe,2545753]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Republika_Srpska,33684|WD~Order_of_the_Republika_Srpska,33684]]'
 playing_hand:
-- '[[_Standards/WikiData/WD~right_handedness,3039938]]'
-- '[[_Standards/WikiData/WD~one_handed_forehand,14419931]]'
-- '[[_Standards/WikiData/WD~two_handed_backhand,14420068]]'
-handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+- '[[_Standards/WikiData/WD~right_handedness,3039938|WD~right_handedness,3039938]]'
+- '[[_Standards/WikiData/WD~one_handed_forehand,14419931|WD~one_handed_forehand,14419931]]'
+- '[[_Standards/WikiData/WD~two_handed_backhand,14420068|WD~two_handed_backhand,14420068]]'
+handedness: '[[_Standards/WikiData/WD~right_handedness,3039938|WD~right_handedness,3039938]]'
 sibling:
-- '[[_Standards/WikiData/WD~Marko_Djokovic,3597288]]'
-- '[[_Standards/WikiData/WD~Djordje_Djokovic,17291218]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+- '[[_Standards/WikiData/WD~Marko_Djokovic,3597288|WD~Marko_Djokovic,3597288]]'
+- '[[_Standards/WikiData/WD~Djordje_Djokovic,17291218|WD~Djordje_Djokovic,17291218]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Mahsanei_Hashmal,6670653]]'
-- '[[_Standards/WikiData/WD~QuantBioRes,110651943]]'
-occupation: '[[_Standards/WikiData/WD~tennis_player,10833314]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Novak_Djokovic,11128493]]'
-given_name: '[[_Standards/WikiData/WD~Novak,12797610]]'
-father: '[[_Standards/WikiData/WD~Srdjan_Djokovic,17291202]]'
-mother: '[[_Standards/WikiData/WD~Dijana_Djokovic,17291209]]'
-spouse: '[[_Standards/WikiData/WD~Jelena_Djokovic,17291251]]'
+- '[[_Standards/WikiData/WD~Mahsanei_Hashmal,6670653|WD~Mahsanei_Hashmal,6670653]]'
+- '[[_Standards/WikiData/WD~QuantBioRes,110651943|WD~QuantBioRes,110651943]]'
+occupation: '[[_Standards/WikiData/WD~tennis_player,10833314|WD~tennis_player,10833314]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Novak_Djokovic,11128493|WD~Template_Novak_Djokovic,11128493]]'
+given_name: '[[_Standards/WikiData/WD~Novak,12797610|WD~Novak,12797610]]'
+father: '[[_Standards/WikiData/WD~Srdjan_Djokovic,17291202|WD~Srdjan_Djokovic,17291202]]'
+mother: '[[_Standards/WikiData/WD~Dijana_Djokovic,17291209|WD~Dijana_Djokovic,17291209]]'
+spouse: '[[_Standards/WikiData/WD~Jelena_Djokovic,17291251|WD~Jelena_Djokovic,17291251]]'
 sports_discipline_competed_in:
-- '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
-- '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
-position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]'
-family_name: '[[_Standards/WikiData/WD~Djokovic,21146583]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~tennis_singles,18123880|WD~tennis_singles,18123880]]'
+- '[[_Standards/WikiData/WD~tennis_doubles,18123885|WD~tennis_doubles,18123885]]'
+position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187|WD~UNICEF_Goodwill_Ambassador,19969187]]'
+family_name: '[[_Standards/WikiData/WD~Djokovic,21146583|WD~Djokovic,21146583]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
 medical_condition:
-- '[[_Standards/WikiData/WD~COVID_19,84263196]]'
-- '[[_Standards/WikiData/WD~celiac_disease,11088]]'
-competition_won: "[[_Standards/WikiData/WD~2023_Adelaide_International_1_Men's_singles,115940271]]"
-country_for_sport: '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~COVID_19,84263196|WD~COVID_19,84263196]]'
+- '[[_Standards/WikiData/WD~celiac_disease,11088|WD~celiac_disease,11088]]'
+competition_won: "[[_Standards/WikiData/WD~2023_Adelaide_International_1_Men's_singles,115940271|WD~2023_Adelaide_International_1_Men's_singles,115940271]]"
+country_for_sport: '[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~Italian,652]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Serbian,9299]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~German,188]]'
-sport: '[[_Standards/WikiData/WD~tennis,847]]'
+- '[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Serbian,9299|WD~Serbian,9299]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
+sport: '[[_Standards/WikiData/WD~tennis,847|WD~tennis,847]]'
 significant_person:
-- '[[_Standards/WikiData/WD~Roger_Federer,1426]]'
-- '[[_Standards/WikiData/WD~Rafael_Nadal,10132]]'
-place_of_birth: '[[_Standards/WikiData/WD~Belgrade,3711]]'
-native_language: '[[_Standards/WikiData/WD~Serbian,9299]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~Roger_Federer,1426|WD~Roger_Federer,1426]]'
+- '[[_Standards/WikiData/WD~Rafael_Nadal,10132|WD~Rafael_Nadal,10132]]'
+place_of_birth: '[[_Standards/WikiData/WD~Belgrade,3711|WD~Belgrade,3711]]'
+native_language: '[[_Standards/WikiData/WD~Serbian,9299|WD~Serbian,9299]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ranking:
 - 1
 - 155
 mass: 77
 height: 188
-residence: '[[_Standards/WikiData/WD~Monte_Carlo,45240]]'
+residence: '[[_Standards/WikiData/WD~Monte_Carlo,45240|WD~Monte_Carlo,45240]]'
 social_media_followers: 9266885
 doubles_record: 66–82
 date_of_birth: 1987-05-22T00:00:00Z

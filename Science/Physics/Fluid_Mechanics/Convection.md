@@ -62,14 +62,14 @@ aliases:
 - 대류
 has_id_wikidata: Q160329
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-- '[[_Standards/WikiData/WD~energy_source,1522115]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Vection,12831666]]'
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+- '[[_Standards/WikiData/WD~energy_source,1522115|WD~energy_source,1522115]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Vection,12831666|WD~Vection,12831666]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823|WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 OmegaWiki_Defined_Meaning: 919592
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Convection.gif
 IEV_number: 113-04-34

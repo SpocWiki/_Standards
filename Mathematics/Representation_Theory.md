@@ -40,9 +40,9 @@ aliases:
 - 表示论
 - 표현론
 has_id_wikidata: Q13220368
-instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-is_the_study_of: '[[_Standards/WikiData/WD~linear_representation,77978698]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+is_the_study_of: '[[_Standards/WikiData/WD~linear_representation,77978698|WD~linear_representation,77978698]]'
 Stack_Exchange_tag:
 - https://math.stackexchange.com/tags/representation-theory
 - https://mathoverflow.net/tags/rt.representation-theory

@@ -67,17 +67,17 @@ aliases:
 - 滑冰
 - 빙상 스케이트
 has_id_wikidata: Q779272
-uses: '[[_Standards/WikiData/WD~ice_skate,108640]]'
+uses: '[[_Standards/WikiData/WD~ice_skate,108640|WD~ice_skate,108640]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~skating,14300548]]'
-- '[[_Standards/WikiData/WD~ice_sport,31883501]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~skating,14300548|WD~skating,14300548]]'
+- '[[_Standards/WikiData/WD~ice_sport,31883501|WD~ice_sport,31883501]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-practiced_by: '[[_Standards/WikiData/WD~ice_skater,9394993]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ice_skating,17585105]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+practiced_by: '[[_Standards/WikiData/WD~ice_skater,9394993|WD~ice_skater,9394993]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ice_skating,17585105|WD~Portal_Ice_skating,17585105]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 OmegaWiki_Defined_Meaning: 381702
 Stadtwiki_Dresden_article: Schlittschuhlaufen
 Commons_gallery: Ice skating

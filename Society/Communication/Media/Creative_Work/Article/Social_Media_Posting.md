@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A post to a social media platform, including blog posts, tweets, Facebook posts, etc.
 
-#has_/parent_class :: [[../Article]]  
+#has_/parent_class :: [[../Article|Article]]  
 
 #has_/child_/class :: [ BlogPosting, DiscussionForumPosting ]  
 

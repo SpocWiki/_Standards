@@ -33,21 +33,21 @@ aliases:
 - 튜바
 has_id_wikidata: Q131168
 subclass_of:
-- '[[_Standards/WikiData/WD~brass_instrument,180744]]'
-- '[[_Standards/WikiData/WD~saxhorn,787557]]'
-- '[[_Standards/WikiData/WD~bass,810447]]'
+- '[[_Standards/WikiData/WD~brass_instrument,180744|WD~brass_instrument,180744]]'
+- '[[_Standards/WikiData/WD~saxhorn,787557|WD~saxhorn,787557]]'
+- '[[_Standards/WikiData/WD~bass,810447|WD~bass,810447]]'
 different_from:
-- '[[_Standards/WikiData/WD~tuber,183319]]'
-- '[[_Standards/WikiData/WD~Tubah,7850702]]'
-- '[[_Standards/WikiData/WD~Q27468874,27468874]]'
+- '[[_Standards/WikiData/WD~tuber,183319|WD~tuber,183319]]'
+- '[[_Standards/WikiData/WD~Tubah,7850702|WD~Tubah,7850702]]'
+- '[[_Standards/WikiData/WD~Q27468874,27468874|WD~Q27468874,27468874]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-used_by: '[[_Standards/WikiData/WD~tubist,16156383]]'
-award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+used_by: '[[_Standards/WikiData/WD~tubist,16156383|WD~tubist,16156383]]'
+award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486|WD~Instrument_of_the_Year,48757486]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396|WD~type_of_musical_instrument,110295396]]'
 Nomenclature_for_Museum_Cataloging: 10683
 OmegaWiki_Defined_Meaning: 344721
 Hornbostel_Sachs_classification: 423.232

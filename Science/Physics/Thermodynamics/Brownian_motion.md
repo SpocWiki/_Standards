@@ -72,18 +72,18 @@ aliases:
 - 브라운 운동
 has_id_wikidata: Q178036
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-named_after: '[[_Standards/WikiData/WD~Robert_Brown,155764]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Robert_Brown,155764]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+named_after: '[[_Standards/WikiData/WD~Robert_Brown,155764|WD~Robert_Brown,155764]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Robert_Brown,155764|WD~Robert_Brown,155764]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~misunderstood_description_about_Brownian_motion,11334467]]'
-- '[[_Standards/WikiData/WD~theory_of_Brownian_Motion,56100717]]'
+- '[[_Standards/WikiData/WD~misunderstood_description_about_Brownian_motion,11334467|WD~misunderstood_description_about_Brownian_motion,11334467]]'
+- '[[_Standards/WikiData/WD~theory_of_Brownian_Motion,56100717|WD~theory_of_Brownian_Motion,56100717]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x0394;</mi><mo stretchy="false">(</mo><mi>T</mi><mo stretchy="false">=</mo><mn>0</mn><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mn>1</mn><mo stretchy="false">.</mo><mn>7</mn><mn>6</mn><mn>4</mn><mspace width="0.167em"></mspace><msub><mi>k</mi><mrow data-mjx-texclass="ORD"><mi>B</mi></mrow></msub><msub><mi>T</mi><mrow data-mjx-texclass="ORD"><mi>c</mi></mrow></msub></mstyle></mrow></math>
 time_of_discovery_or_invention: 1827-01-01T00:00:00Z
 Commons_category: Brownian motion

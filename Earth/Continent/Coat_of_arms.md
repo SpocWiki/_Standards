@@ -91,29 +91,29 @@ aliases:
 - 문장
 has_id_wikidata: Q14659
 subclass_of:
-- '[[_Standards/WikiData/WD~symbol,80071]]'
-- '[[../../WikiData/WD~architectural_element,391414]]'
-- '[[_Standards/WikiData/WD~flag_or_coat_of_arms,17335294]]'
+- '[[_Standards/WikiData/WD~symbol,80071|WD~symbol,80071]]'
+- '[[../../WikiData/WD~architectural_element,391414|WD~architectural_element,391414]]'
+- '[[_Standards/WikiData/WD~flag_or_coat_of_arms,17335294|WD~flag_or_coat_of_arms,17335294]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-part_of: '[[_Standards/WikiData/WD~achievement,2532754]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+part_of: '[[_Standards/WikiData/WD~achievement,2532754|WD~achievement,2532754]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Coat_of_arms,5118202]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_emblem,5393638]]'
-different_from: '[[_Standards/WikiData/WD~Jata,6553570]]'
-depicted_by: '[[_Standards/WikiData/WD~Two_Handled_Jar_with_Birds_and_a_Coat_of_Arms,131557543]]'
+- '[[_Standards/WikiData/WD~Template_Coat_of_arms,5118202|WD~Template_Coat_of_arms,5118202]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_emblem,5393638|WD~Template_Infobox_emblem,5393638]]'
+different_from: '[[_Standards/WikiData/WD~Jata,6553570|WD~Jata,6553570]]'
+depicted_by: '[[_Standards/WikiData/WD~Two_Handled_Jar_with_Birds_and_a_Coat_of_Arms,131557543|WD~Two_Handled_Jar_with_Birds_and_a_Coat_of_Arms,131557543]]'
 Wikidata_property:
 - has graphical element
 - coat of arms image
 - coat of arms
-studied_by: '[[_Standards/WikiData/WD~heraldry,18336]]'
-facet_of: '[[_Standards/WikiData/WD~heraldry,18336]]'
+studied_by: '[[_Standards/WikiData/WD~heraldry,18336|WD~heraldry,18336]]'
+facet_of: '[[_Standards/WikiData/WD~heraldry,18336|WD~heraldry,18336]]'
 Nomenclature_for_Museum_Cataloging: 14015
 Iconclass_notation:
 - 44A1

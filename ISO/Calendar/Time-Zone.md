@@ -184,7 +184,7 @@ Commons_category: Time zones
 Commons_gallery: Timezone
 described_at_URL: https://github.com/whosonfirst/whosonfirst-placetypes#timezone
 equivalent_class: http://www.w3.org/2006/time#TimeZone
-has_list: '[[_Standards/WikiData/WD~lists_of_time_zones,3048055]]'
+has_list: '[[_Standards/WikiData/WD~lists_of_time_zones,3048055|WD~lists_of_time_zones,3048055]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20Time%20Zones%20Map.png
 OpenStreetMap_tag_or_key:
 - Key:timezone
@@ -196,13 +196,13 @@ properties_for_this_type:
 - instance of
 Stack_Exchange_tag: https://stackoverflow.com/tags/timezone
 subclass_of:
-- '[[_Standards/WikiData/WD~geographic_region,82794]]'
-- '[[_Standards/WikiData/WD~time_standard,6313217]]'
-- '[[_Standards/WikiData/WD~non-political_administrative_territorial_entity,15642566]]'
+- '[[_Standards/WikiData/WD~geographic_region,82794|WD~geographic_region,82794]]'
+- '[[_Standards/WikiData/WD~time_standard,6313217|WD~time_standard,6313217]]'
+- '[[_Standards/WikiData/WD~non-political_administrative_territorial_entity,15642566|WD~non-political_administrative_territorial_entity,15642566]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_UTC_time_offsets,7474166]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_time_zone,11001401]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_time_zone_UTC,13520154]]'
+- '[[_Standards/WikiData/WD~Template_UTC_time_offsets,7474166|WD~Template_UTC_time_offsets,7474166]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_time_zone,11001401|WD~Template_Infobox_time_zone,11001401]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_time_zone_UTC,13520154|WD~Template_Infobox_time_zone_UTC,13520154]]'
 Wikidata_property: located in time zone
 Wolfram_Language_entity_type: TimeZone
 dv_has_:

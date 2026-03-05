@@ -61,7 +61,7 @@ aliases:
 - 资讯时代
 - 정보화 시대
 has_id_wikidata: Q956129
-instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
+instance_of: '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
 Commons_category: Information Age
 dv_is_:
   same_as:

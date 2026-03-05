@@ -27,15 +27,15 @@ aliases:
 - 巴爾頓階
 - 바턴절
 has_id_wikidata: Q508675
-named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704]]'
+named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704|WD~Karl_Mayer_Eymar,116704]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
 named_after:
-- '[[_Standards/WikiData/WD~Barton_on_Sea,3635466]]'
-- '[[_Standards/WikiData/WD~Barton_Beds,3635464]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bartonian,24067978]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~Barton_on_Sea,3635466|WD~Barton_on_Sea,3635466]]'
+- '[[_Standards/WikiData/WD~Barton_Beds,3635464|WD~Barton_Beds,3635464]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bartonian,24067978|WD~Category_Bartonian,24067978]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -37800000-01-01T00:00:00Z
 Commons_category: Bartonian
 sRGB_color_hex_triplet: FEC498

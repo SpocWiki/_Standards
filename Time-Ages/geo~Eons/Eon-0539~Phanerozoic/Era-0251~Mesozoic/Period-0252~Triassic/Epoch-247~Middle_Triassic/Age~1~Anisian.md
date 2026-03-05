@@ -27,14 +27,14 @@ aliases:
 - 아니주스절
 has_id_wikidata: Q549024
 named_by:
-- '[[_Standards/WikiData/WD~Carl_Diener,94065]]'
-- '[[_Standards/WikiData/WD~Wilhelm_Heinrich_Waagen,2655440]]'
-named_after: '[[_Standards/WikiData/WD~Enns,217524]]'
+- '[[_Standards/WikiData/WD~Carl_Diener,94065|WD~Carl_Diener,94065]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Heinrich_Waagen,2655440|WD~Wilhelm_Heinrich_Waagen,2655440]]'
+named_after: '[[_Standards/WikiData/WD~Enns,217524|WD~Enns,217524]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Anisian,21605751]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Anisian,21605751|WD~Category_Anisian,21605751]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -247000000-01-01T00:00:00Z
 Commons_category: Anisian
 sRGB_color_hex_triplet: C986B6

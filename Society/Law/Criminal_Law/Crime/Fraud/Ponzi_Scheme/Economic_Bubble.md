@@ -55,11 +55,11 @@ aliases:
 - 거품경제
 has_id_wikidata: Q207781
 subclass_of:
-- '[[_Standards/WikiData/WD~instability,405372]]'
-- '[[_Standards/WikiData/WD~market_structure,877707]]'
-- '[[_Standards/WikiData/WD~economic_problem,3539169]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Financial_bubbles,22867881]]'
-part_of: '[[_Standards/WikiData/WD~macroeconomics,39680]]'
+- '[[_Standards/WikiData/WD~instability,405372|WD~instability,405372]]'
+- '[[_Standards/WikiData/WD~market_structure,877707|WD~market_structure,877707]]'
+- '[[_Standards/WikiData/WD~economic_problem,3539169|WD~economic_problem,3539169]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Financial_bubbles,22867881|WD~Template_Financial_bubbles,22867881]]'
+part_of: '[[_Standards/WikiData/WD~macroeconomics,39680|WD~macroeconomics,39680]]'
 Stack_Exchange_tag: https://money.stackexchange.com/tags/bubble
 described_at_URL:
 - https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/economics-terms-and-concepts/bubbles

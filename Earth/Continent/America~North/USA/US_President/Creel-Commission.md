@@ -54,7 +54,7 @@ has_id_wikidata: Q1115731
 has_president = `=this.dv_has_president`
 
 
-The[[../../../../../Knowledge/Military.internal/War-Theater/Cognitive-Force/Propaganda.internal]]] was very effective and led to wide-spread anti-German sentiment that continued to [[../../../../_Standards/bio/Society/History/Modern_History/World_War_II|WWII]]. 
+The[[../../../../../Knowledge/Military.internal/War-Theater/Cognitive-Force/Propaganda.internal|Propaganda.internal]]] was very effective and led to wide-spread anti-German sentiment that continued to [[../../../../_Standards/bio/Society/History/Modern_History/World_War_II|WWII]]. 
 
 ## #has_/text_of_/abstract 
 

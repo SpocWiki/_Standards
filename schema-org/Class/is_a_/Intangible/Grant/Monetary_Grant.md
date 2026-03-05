@@ -26,7 +26,7 @@ tags:
 title: is_a_monetary_grant Class
 type: Type
 dv_is_:
-  parent_class: "[[../Grant]]"
+  parent_class: "[[../Grant|Grant]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant|Monetary_Grant]]"
@@ -57,7 +57,7 @@ dv_has_:
     - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../Grant]]"
+  - "[[../Grant|Grant]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"

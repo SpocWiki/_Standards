@@ -100,7 +100,7 @@ dv_has_:
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
-![[../../../../../../../../assets/Pictures/People/Public/Monty_Python/An_evening_with_Michael_Palin.jpg]] 
+![[../../../../../../../../assets/Pictures/People/Public/Monty_Python/An_evening_with_Michael_Palin.jpg|An_evening_with_Michael_Palin.jpg]] 
 
 > Sir Michael Edward Palin,  ( PAY-lin; born 5 May 1943) 
 > is an English actor, comedian, writer, and television presenter. 

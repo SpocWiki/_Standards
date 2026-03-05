@@ -20,22 +20,22 @@ aliases:
 - 拉斯姆斯·勒多夫
 - 라스무스 러도프
 has_id_wikidata: Q92768
-occupation: '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]'
-place_of_birth: '[[_Standards/WikiData/WD~Qeqertarsuaq,847668]]'
+occupation: '[[_Standards/WikiData/WD~computer_scientist,82594|WD~computer_scientist,82594]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617|WD~Kingdom_of_Denmark,756617]]'
+place_of_birth: '[[_Standards/WikiData/WD~Qeqertarsuaq,847668|WD~Qeqertarsuaq,847668]]'
 educated_at:
-- '[[_Standards/WikiData/WD~University_of_Waterloo,1049470]]'
-- '[[_Standards/WikiData/WD~King_City_Secondary_School,5267276]]'
+- '[[_Standards/WikiData/WD~University_of_Waterloo,1049470|WD~University_of_Waterloo,1049470]]'
+- '[[_Standards/WikiData/WD~King_City_Secondary_School,5267276|WD~King_City_Secondary_School,5267276]]'
 employer:
-- '[[_Standards/WikiData/WD~Etsy,1353939]]'
-- '[[_Standards/WikiData/WD~Q37093,37093]]'
-given_name: '[[_Standards/WikiData/WD~Rasmus,1785744]]'
-field_of_work: '[[_Standards/WikiData/WD~programmer,5482740]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-family_name: '[[_Standards/WikiData/WD~Lerdorf,35000079]]'
-member_of: '[[_Standards/WikiData/WD~PHP_Group,99273543]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-notable_work: '[[_Standards/WikiData/WD~Q59,59]]'
+- '[[_Standards/WikiData/WD~Etsy,1353939|WD~Etsy,1353939]]'
+- '[[_Standards/WikiData/WD~Q37093,37093|WD~Q37093,37093]]'
+given_name: '[[_Standards/WikiData/WD~Rasmus,1785744|WD~Rasmus,1785744]]'
+field_of_work: '[[_Standards/WikiData/WD~programmer,5482740|WD~programmer,5482740]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Lerdorf,35000079|WD~Lerdorf,35000079]]'
+member_of: '[[_Standards/WikiData/WD~PHP_Group,99273543|WD~PHP_Group,99273543]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+notable_work: '[[_Standards/WikiData/WD~Q59,59|WD~Q59,59]]'
 social_media_followers: 58316
 date_of_birth: 1968-11-22T00:00:00Z
 X_Twitter_username: rasmus
@@ -118,7 +118,7 @@ dv_has_:
 
 # [[Lerdorf,Rasmus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rasmus_Lerdorf,92768]]
+#is_/same_as :: [[_Standards/WikiData/WD~Rasmus_Lerdorf,92768|WD~Rasmus_Lerdorf,92768]]
 
 ## #has_/text_of_/abstract 
 

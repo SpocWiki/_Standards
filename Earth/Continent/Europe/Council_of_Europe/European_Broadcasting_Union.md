@@ -86,28 +86,28 @@ aliases:
 - 歐洲廣播聯盟
 - 유럽 방송 연맹
 has_id_wikidata: Q166400
-official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773|WD~World_Intellectual_Property_Organization,177773]]'
 instance_of:
-- '[[_Standards/WikiData/WD~alliance,878249]]'
-- '[[_Standards/WikiData/WD~broadcaster,15265344]]'
-- '[[_Standards/WikiData/WD~metaorganization,37178026]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
-owner_of: '[[_Standards/WikiData/WD~Radio_Mayak,1971979]]'
-chairperson: '[[_Standards/WikiData/WD~Delphine_Ernotte,3021823]]'
+- '[[_Standards/WikiData/WD~alliance,878249|WD~alliance,878249]]'
+- '[[_Standards/WikiData/WD~broadcaster,15265344|WD~broadcaster,15265344]]'
+- '[[_Standards/WikiData/WD~metaorganization,37178026|WD~metaorganization,37178026]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+owner_of: '[[_Standards/WikiData/WD~Radio_Mayak,1971979|WD~Radio_Mayak,1971979]]'
+chairperson: '[[_Standards/WikiData/WD~Delphine_Ernotte,3021823|WD~Delphine_Ernotte,3021823]]'
 member_of:
-- '[[_Standards/WikiData/WD~European_Services_Forum,3078651]]'
-- '[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]'
-anthem: '[[_Standards/WikiData/WD~Te_Deum,11704258]]'
-follows: '[[_Standards/WikiData/WD~International_Broadcasting_Union,27859767]]'
-interested_in: '[[_Standards/WikiData/WD~media_in_Europe,56193593]]'
+- '[[_Standards/WikiData/WD~European_Services_Forum,3078651|WD~European_Services_Forum,3078651]]'
+- '[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033|WD~World_Wide_Web_Consortium,37033]]'
+anthem: '[[_Standards/WikiData/WD~Te_Deum,11704258|WD~Te_Deum,11704258]]'
+follows: '[[_Standards/WikiData/WD~International_Broadcasting_Union,27859767|WD~International_Broadcasting_Union,27859767]]'
+interested_in: '[[_Standards/WikiData/WD~media_in_Europe,56193593|WD~media_in_Europe,56193593]]'
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-partnership_with: '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+partnership_with: '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
 country:
-- '[[_Standards/WikiData/WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~Switzerland,39]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Geneva,71]]'
+- '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Geneva,71|WD~Geneva,71]]'
 social_media_followers:
 - 7100
 - 31253

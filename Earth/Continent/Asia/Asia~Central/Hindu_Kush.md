@@ -76,19 +76,19 @@ aliases:
 - 興都庫什山脈
 - 힌두쿠시산맥
 has_id_wikidata: Q5472
-highest_point: '[[_Standards/WikiData/WD~Terich_Mir,207132]]'
+highest_point: '[[_Standards/WikiData/WD~Terich_Mir,207132|WD~Terich_Mir,207132]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-part_of: '[[_Standards/WikiData/WD~Alpide_belt,847514]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+part_of: '[[_Standards/WikiData/WD~Alpide_belt,847514|WD~Alpide_belt,847514]]'
 coordinate_location: Point(71.0 35.0)
 country:
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Afghanistan,889]]'
-instance_of: '[[_Standards/WikiData/WD~mountain_range,46831]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]'
+instance_of: '[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]'
 elevation_above_sea_level: 7708
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hindu-Kush-Range.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mountains%20in%20Afghanistan.JPG

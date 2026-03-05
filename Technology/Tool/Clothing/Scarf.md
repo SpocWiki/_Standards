@@ -70,16 +70,16 @@ aliases:
 - 스카프
 has_id_wikidata: Q191022
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-subclass_of: '[[_Standards/WikiData/WD~costume_accessory,1065579]]'
-different_from: '[[_Standards/WikiData/WD~Q13377564,13377564]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q49094436,49094436]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+subclass_of: '[[_Standards/WikiData/WD~costume_accessory,1065579|WD~costume_accessory,1065579]]'
+different_from: '[[_Standards/WikiData/WD~Q13377564,13377564|WD~Q13377564,13377564]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q49094436,49094436|WD~Q49094436,49094436]]'
 worn_on:
-- '[[_Standards/WikiData/WD~neck,9633]]'
-- '[[_Standards/WikiData/WD~head,23640]]'
+- '[[_Standards/WikiData/WD~neck,9633|WD~neck,9633]]'
+- '[[_Standards/WikiData/WD~head,23640|WD~head,23640]]'
 IMDb_keyword: scarf
 Nomenclature_for_Museum_Cataloging: 2098
 image: http://commons.wikimedia.org/wiki/Special:FilePath/100%25%20Kaschmir%20Wolle%20vonk%20kaschmirprodukte.de.jpg

@@ -118,23 +118,23 @@ aliases:
 - 북극권
 has_id_wikidata: Q176609
 instance_of:
-- '[[_Standards/WikiData/WD~region,82794]]'
-- '[[_Standards/WikiData/WD~polar_circle,202490]]'
-opposite_of: '[[_Standards/WikiData/WD~Antarctic_Circle,182657]]'
-described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
+- '[[_Standards/WikiData/WD~polar_circle,202490|WD~polar_circle,202490]]'
+opposite_of: '[[_Standards/WikiData/WD~Antarctic_Circle,182657|WD~Antarctic_Circle,182657]]'
+described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
 country:
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~Norway,20]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Sweden,34]]'
-- '[[_Standards/WikiData/WD~Finland,33]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Iceland,189]]'
-- '[[_Standards/WikiData/WD~Greenland,223]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Iceland,189|WD~Iceland,189]]'
+- '[[_Standards/WikiData/WD~Greenland,223|WD~Greenland,223]]'
 continent:
-- '[[_Standards/WikiData/WD~Europe,46]]'
-- '[[_Standards/WikiData/WD~Asia,48]]'
-- '[[_Standards/WikiData/WD~North_America,49]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~North_America,49|WD~North_America,49]]'
 OmegaWiki_Defined_Meaning: 920536
 length: 15984.36
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/-xAAAgFfzeA-960.jpg

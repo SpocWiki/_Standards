@@ -52,8 +52,8 @@ aliases:
 - 博洛尼亞進程
 - 볼로냐 프로세스
 has_id_wikidata: Q187073
-instance_of: '[[_Standards/WikiData/WD~higher_education_reform,1622288]]'
-named_after: '[[_Standards/WikiData/WD~Bologna,1891]]'
+instance_of: '[[_Standards/WikiData/WD~higher_education_reform,1622288|WD~higher_education_reform,1622288]]'
+named_after: '[[_Standards/WikiData/WD~Bologna,1891|WD~Bologna,1891]]'
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bologna-Prozess-Logo.svg
 official_website: http://www.ehea.info
 ISNI: 0000000121920306

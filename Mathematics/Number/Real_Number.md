@@ -113,21 +113,21 @@ aliases:
 - 實數
 - 실수
 has_id_wikidata: Q12916
-different_from: '[[_Standards/WikiData/WD~set_of_real_numbers,1174982]]'
+different_from: '[[_Standards/WikiData/WD~set_of_real_numbers,1174982|WD~set_of_real_numbers,1174982]]'
 part_of:
-- '[[_Standards/WikiData/WD~set_of_real_numbers,1174982]]'
-- '[[_Standards/WikiData/WD~real_line,29654355]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~set_of_real_numbers,1174982|WD~set_of_real_numbers,1174982]]'
+- '[[_Standards/WikiData/WD~real_line,29654355|WD~real_line,29654355]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~imaginary_number,9165172]]'
-- '[[_Standards/WikiData/WD~complex_number,11567]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_number,47460393]]'
-studied_by: '[[_Standards/WikiData/WD~theory_of_real_numbers,114450604]]'
+- '[[_Standards/WikiData/WD~imaginary_number,9165172|WD~imaginary_number,9165172]]'
+- '[[_Standards/WikiData/WD~complex_number,11567|WD~complex_number,11567]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_number,47460393|WD~type_of_number,47460393]]'
+studied_by: '[[_Standards/WikiData/WD~theory_of_real_numbers,114450604|WD~theory_of_real_numbers,114450604]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~number,11563]]'
-- '[[_Standards/WikiData/WD~complex_number,11567]]'
+- '[[_Standards/WikiData/WD~number,11563|WD~number,11563]]'
+- '[[_Standards/WikiData/WD~complex_number,11567|WD~complex_number,11567]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Number-line.svg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Number-systems.svg
 Stack_Exchange_tag: https://math.stackexchange.com/tags/real-numbers

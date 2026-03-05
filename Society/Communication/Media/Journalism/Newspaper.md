@@ -172,19 +172,19 @@ cssclasses:
 - private
 - note
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~Suggested_Upper_Merged_Ontology,7635093]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-different_from: '[[_Standards/WikiData/WD~La_gazzetta,509761]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Suggested_Upper_Merged_Ontology,7635093|WD~Suggested_Upper_Merged_Ontology,7635093]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~La_gazzetta,509761|WD~La_gazzetta,509761]]'
 draft: true
 entry_in_abbreviations_table: газ.
 equivalent_class:
@@ -197,18 +197,18 @@ excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''
 Gujarati_Vishwakosh_entry: અખબાર
-has_characteristic: '[[_Standards/WikiData/WD~newspaper_genre,106632462]]'
+has_characteristic: '[[_Standards/WikiData/WD~newspaper_genre,106632462|WD~newspaper_genre,106632462]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~column,267628]]'
-- '[[_Standards/WikiData/WD~editorial,871232]]'
-- '[[_Standards/WikiData/WD~op_ed,2602337]]'
-- '[[_Standards/WikiData/WD~opinion_piece,59908]]'
+- '[[_Standards/WikiData/WD~column,267628|WD~column,267628]]'
+- '[[_Standards/WikiData/WD~editorial,871232|WD~editorial,871232]]'
+- '[[_Standards/WikiData/WD~op_ed,2602337|WD~op_ed,2602337]]'
+- '[[_Standards/WikiData/WD~opinion_piece,59908|WD~opinion_piece,59908]]'
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-07-20
-history_of_topic: '[[_Standards/WikiData/WD~history_of_newspaper_publishing,25312622]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_newspaper_publishing,25312622|WD~history_of_newspaper_publishing,25312622]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2011%20newspapers%20Tehran%206030393078.jpg
 IMDb_keyword: newspaper
-instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
 IPTC_NewsCode: mediatopic/20000047
 isDeleted: false
 isReadOnly: false
@@ -218,14 +218,14 @@ lang: en
 layout: ''
 license: (c)copyrighted
 linkTitle: Newspaper
-made_from_material: '[[_Standards/WikiData/WD~paper,11472]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Academic_Journals,21597731]]'
+made_from_material: '[[_Standards/WikiData/WD~paper,11472|WD~paper,11472]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Academic_Journals,21597731|WD~WikiProject_Academic_Journals,21597731]]'
 MeSH_tree_code: L01.462.500.682.829.481
 named_after:
-- '[[_Standards/WikiData/WD~gazzetta,3759074]]'
-- '[[_Standards/WikiData/WD~day,573]]'
-- '[[_Standards/WikiData/WD~time,11471]]'
-- '[[_Standards/WikiData/WD~news,38926]]'
+- '[[_Standards/WikiData/WD~gazzetta,3759074|WD~gazzetta,3759074]]'
+- '[[_Standards/WikiData/WD~day,573|WD~day,573]]'
+- '[[_Standards/WikiData/WD~time,11471|WD~time,11471]]'
+- '[[_Standards/WikiData/WD~news,38926|WD~news,38926]]'
 Nomenclature_for_Museum_Cataloging: 13796
 OmegaWiki_Defined_Meaning: 5668
 P8189: 987007563889305200
@@ -252,23 +252,23 @@ publishDate: ''
 small_logo_or_icon:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20Newspaper%20154015.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/OOjs%20UI%20icon%20newspaper-ltr.svg
-studied_by: '[[_Standards/WikiData/WD~newspaper_studies,187084]]'
+studied_by: '[[_Standards/WikiData/WD~newspaper_studies,187084|WD~newspaper_studies,187084]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~periodical,1002697]]'
-- '[[_Standards/WikiData/WD~written_news_media,17172633]]'
-- '[[_Standards/WikiData/WD~magazine_&_newspaper,117208269]]'
-- '[[_Standards/WikiData/WD~print_native_publication,119648442]]'
-- '[[_Standards/WikiData/WD~goods,28877]]'
-- '[[_Standards/WikiData/WD~magazine,41298]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~periodical,1002697|WD~periodical,1002697]]'
+- '[[_Standards/WikiData/WD~written_news_media,17172633|WD~written_news_media,17172633]]'
+- '[[_Standards/WikiData/WD~magazine_&_newspaper,117208269|WD~magazine_&_newspaper,117208269]]'
+- '[[_Standards/WikiData/WD~print_native_publication,119648442|WD~print_native_publication,119648442]]'
+- '[[_Standards/WikiData/WD~goods,28877|WD~goods,28877]]'
+- '[[_Standards/WikiData/WD~magazine,41298|WD~magazine,41298]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 tags:
 - Newspaper
 - excalidraw
 time_of_discovery_or_invention: 1605-01-01T00:00:00Z
 title: Newspaper
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_newspaper,9460683]]'
-- '[[_Standards/WikiData/WD~Template_Greek_Newspapers,20319551]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_newspaper,9460683|WD~Template_Infobox_newspaper,9460683]]'
+- '[[_Standards/WikiData/WD~Template_Greek_Newspapers,20319551|WD~Template_Greek_Newspapers,20319551]]'
 type: private_note
 UMLS_CUI: C4042894
 UNSPSC_Code: 55101504

@@ -123,38 +123,38 @@ aliases:
 - 네팔어
 has_id_wikidata: Q33823
 instance_of:
-- '[[_Standards/WikiData/WD~macrolanguage,152559]]'
-- '[[_Standards/WikiData/WD~modern_language,1288568]]'
-- '[[_Standards/WikiData/WD~language_variety,3329375]]'
-- '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~macrolanguage,152559|WD~macrolanguage,152559]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568|WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~language_variety,3329375|WD~language_variety,3329375]]'
+- '[[_Standards/WikiData/WD~natural_language,33742|WD~natural_language,33742]]'
 linguistic_typology:
-- '[[_Standards/WikiData/WD~fusional_language,318917]]'
-- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
-- '[[_Standards/WikiData/WD~syllabic_language,7888569]]'
+- '[[_Standards/WikiData/WD~fusional_language,318917|WD~fusional_language,318917]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808|WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~syllabic_language,7888569|WD~syllabic_language,7888569]]'
 has_grammatical_gender:
-- '[[_Standards/WikiData/WD~masculine,499327]]'
-- '[[_Standards/WikiData/WD~feminine,1775415]]'
+- '[[_Standards/WikiData/WD~masculine,499327|WD~masculine,499327]]'
+- '[[_Standards/WikiData/WD~feminine,1775415|WD~feminine,1775415]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Northern_Indo_Aryan,946077]]'
-- '[[_Standards/WikiData/WD~Eastern_Pahari,12593394]]'
-- '[[_Standards/WikiData/WD~Indo_Aryan,33577]]'
-indigenous_to: '[[_Standards/WikiData/WD~Khas_people,3630408]]'
-language_regulatory_body: '[[_Standards/WikiData/WD~Nepal_Academy,6994322]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Ne_icon,8117186]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25473198,25473198]]'
-Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
+- '[[_Standards/WikiData/WD~Northern_Indo_Aryan,946077|WD~Northern_Indo_Aryan,946077]]'
+- '[[_Standards/WikiData/WD~Eastern_Pahari,12593394|WD~Eastern_Pahari,12593394]]'
+- '[[_Standards/WikiData/WD~Indo_Aryan,33577|WD~Indo_Aryan,33577]]'
+indigenous_to: '[[_Standards/WikiData/WD~Khas_people,3630408|WD~Khas_people,3630408]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Nepal_Academy,6994322|WD~Nepal_Academy,6994322]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ne_icon,8117186|WD~Template_Ne_icon,8117186]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25473198,25473198|WD~Q25473198,25473198]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546|WD~1_National,29051546]]'
 different_from:
-- '[[_Standards/WikiData/WD~Nepali,57340276]]'
-- '[[_Standards/WikiData/WD~Newar,33979]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-part_of: '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
+- '[[_Standards/WikiData/WD~Nepali,57340276|WD~Nepali,57340276]]'
+- '[[_Standards/WikiData/WD~Newar,33979|WD~Newar,33979]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+part_of: '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300|WD~Schedule_languages_of_India,134519300]]'
 country:
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Myanmar,836]]'
-- '[[_Standards/WikiData/WD~Nepal,837]]'
-- '[[_Standards/WikiData/WD~Bhutan,917]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
+- '[[_Standards/WikiData/WD~Nepal,837|WD~Nepal,837]]'
+- '[[_Standards/WikiData/WD~Bhutan,917|WD~Bhutan,917]]'
 number_of_speakers_writers_or_signers: 15800000
-writing_system: '[[_Standards/WikiData/WD~Devanagari,38592]]'
+writing_system: '[[_Standards/WikiData/WD~Devanagari,38592|WD~Devanagari,38592]]'
 OmegaWiki_Defined_Meaning: 6235
 Ethnologue_com_language_code:
 - nep

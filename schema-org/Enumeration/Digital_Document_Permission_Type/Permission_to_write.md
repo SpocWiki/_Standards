@@ -28,9 +28,9 @@ tags:
 title: is_a_write_permission Class
 type: Type
 dv_has_:
-  parent_class: "[[../DigitalDocumentPermissionType]]"
+  parent_class: "[[../DigitalDocumentPermissionType|DigitalDocumentPermissionType]]"
 dv_is_:
-  enum_of: "[[../DigitalDocumentPermissionType]]"
+  enum_of: "[[../DigitalDocumentPermissionType|DigitalDocumentPermissionType]]"
   same_as:
     - "[[Permission_to_write|Permission to Write]]"
     - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.public|Write_Permission.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.private|Write_Permission.private]]"
     - "[[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.personal|Write_Permission.personal]]"
     - "[[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.secret|Write_Permission.secret]]"
-dv_has_parent_class: "[[../DigitalDocumentPermissionType]]"
-dv_is_enum_of: "[[../DigitalDocumentPermissionType]]"
+dv_has_parent_class: "[[../DigitalDocumentPermissionType|DigitalDocumentPermissionType]]"
+dv_is_enum_of: "[[../DigitalDocumentPermissionType|DigitalDocumentPermissionType]]"
 dv_is_same_as:
   - "[[Permission_to_write|Permission to Write]]"
   - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.public|Write_Permission.public]]"

@@ -70,9 +70,9 @@ aliases:
 - 國家奧林匹克委員會
 - 국가 올림픽 위원회
 has_id_wikidata: Q183288
-different_from: '[[_Standards/WikiData/WD~NOK,2444273]]'
-subclass_of: '[[_Standards/WikiData/WD~sports_governing_body,2485448]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Nations_at_the_Olympics,11291178]]'
+different_from: '[[_Standards/WikiData/WD~NOK,2444273|WD~NOK,2444273]]'
+subclass_of: '[[_Standards/WikiData/WD~sports_governing_body,2485448|WD~sports_governing_body,2485448]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Nations_at_the_Olympics,11291178|WD~Template_Nations_at_the_Olympics,11291178]]'
 properties_for_this_type:
 - Commons category
 - chairperson
@@ -84,7 +84,7 @@ properties_for_this_type:
 - represented by
 - country
 - headquarters location
-instance_of: '[[_Standards/WikiData/WD~organization,43229]]'
+instance_of: '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 short_name:
 - NOK
 - НОК

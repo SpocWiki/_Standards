@@ -36,27 +36,27 @@ aliases:
 - 라크로스
 has_id_wikidata: Q185851
 subclass_of:
-- '[[_Standards/WikiData/WD~team_sport,216048]]'
-- '[[_Standards/WikiData/WD~ball_game,877517]]'
-- '[[_Standards/WikiData/WD~contact_sport,2284014]]'
+- '[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~ball_game,877517|WD~ball_game,877517]]'
+- '[[_Standards/WikiData/WD~contact_sport,2284014|WD~contact_sport,2284014]]'
 uses:
-- '[[_Standards/WikiData/WD~lacrosse_stick,644503]]'
-- '[[_Standards/WikiData/WD~lacrosse_ball,6468880]]'
-- '[[_Standards/WikiData/WD~lacrosse_helmet,6468886]]'
-- '[[_Standards/WikiData/WD~lacrosse_glove,17132626]]'
+- '[[_Standards/WikiData/WD~lacrosse_stick,644503|WD~lacrosse_stick,644503]]'
+- '[[_Standards/WikiData/WD~lacrosse_ball,6468880|WD~lacrosse_ball,6468880]]'
+- '[[_Standards/WikiData/WD~lacrosse_helmet,6468886|WD~lacrosse_helmet,6468886]]'
+- '[[_Standards/WikiData/WD~lacrosse_glove,17132626|WD~lacrosse_glove,17132626]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_lacrosse,5868046]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_lacrosse,5868046|WD~history_of_lacrosse,5868046]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sport_with_racquet_stick_club,13137940]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~sport_with_racquet_stick_club,13137940|WD~sport_with_racquet_stick_club,13137940]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~lacrosse_player,17682262]]'
-- '[[_Standards/WikiData/WD~lacrosse_coach,106560844]]'
-- '[[_Standards/WikiData/WD~lacrosse_official,125045641]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Lacrosse_topics,20325372]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Lacrosse,20829166]]'
+- '[[_Standards/WikiData/WD~lacrosse_player,17682262|WD~lacrosse_player,17682262]]'
+- '[[_Standards/WikiData/WD~lacrosse_coach,106560844|WD~lacrosse_coach,106560844]]'
+- '[[_Standards/WikiData/WD~lacrosse_official,125045641|WD~lacrosse_official,125045641]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Lacrosse_topics,20325372|WD~Template_Lacrosse_topics,20325372]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Lacrosse,20829166|WD~Portal_Lacrosse,20829166]]'
 IAB_code: 517
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hopkins%20lax.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Lacrosse%20pictogram.svg

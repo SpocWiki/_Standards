@@ -27,9 +27,9 @@ tags:
 title: is_an_online_full Class
 type: Type
 dv_has_:
-  parent_class: "[[../GameServerStatus]]"
+  parent_class: "[[../GameServerStatus|GameServerStatus]]"
 dv_is_:
-  enum_of: "[[../GameServerStatus]]"
+  enum_of: "[[../GameServerStatus|GameServerStatus]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full|Online_Full]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.public|Online_Full.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.personal|Online_Full.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.secret|Online_Full.secret]]"
     - "[[Online_Full]]"
-dv_has_parent_class: "[[../GameServerStatus]]"
-dv_is_enum_of: "[[../GameServerStatus]]"
+dv_has_parent_class: "[[../GameServerStatus|GameServerStatus]]"
+dv_is_enum_of: "[[../GameServerStatus|GameServerStatus]]"
 dv_is_same_as:
   - "[[Online_Full]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.public|Online_Full.public]]"

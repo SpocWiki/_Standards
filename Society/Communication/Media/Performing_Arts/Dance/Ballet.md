@@ -56,30 +56,30 @@ aliases:
   - 발레
 has_id_wikidata: Q41425
 subclass_of:
-  - "[[_Standards/WikiData/WD~performing_arts,184485]]"
-  - "[[_Standards/WikiData/WD~concert_dance,1020618]]"
+  - "[[_Standards/WikiData/WD~performing_arts,184485|WD~performing_arts,184485]]"
+  - "[[_Standards/WikiData/WD~concert_dance,1020618|WD~concert_dance,1020618]]"
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 practiced_by:
-  - "[[_Standards/WikiData/WD~ballet_dancer,805221]]"
-  - "[[_Standards/WikiData/WD~ballerina,4070300]]"
-studied_by: "[[_Standards/WikiData/WD~ballet_studies,4076591]]"
+  - "[[_Standards/WikiData/WD~ballet_dancer,805221|WD~ballet_dancer,805221]]"
+  - "[[_Standards/WikiData/WD~ballerina,4070300|WD~ballerina,4070300]]"
+studied_by: "[[_Standards/WikiData/WD~ballet_studies,4076591|WD~ballet_studies,4076591]]"
 different_from:
-  - "[[_Standards/WikiData/WD~ballet,4851628]]"
-  - "[[_Standards/WikiData/WD~ballet,15079786]]"
-has_part_s_: "[[_Standards/WikiData/WD~pit_orchestra,7198575]]"
+  - "[[_Standards/WikiData/WD~ballet,4851628|WD~ballet,4851628]]"
+  - "[[_Standards/WikiData/WD~ballet,15079786|WD~ballet,15079786]]"
+has_part_s_: "[[_Standards/WikiData/WD~pit_orchestra,7198575|WD~pit_orchestra,7198575]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~theatrical_genre,7777573]]"
-  - "[[_Standards/WikiData/WD~performing_arts_genre,45971958]]"
-  - "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ballet,14615081]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Ballet_(duplicate),118738500]]"
-has_characteristic: "[[_Standards/WikiData/WD~ballet_award,133218633]]"
+  - "[[_Standards/WikiData/WD~theatrical_genre,7777573|WD~theatrical_genre,7777573]]"
+  - "[[_Standards/WikiData/WD~performing_arts_genre,45971958|WD~performing_arts_genre,45971958]]"
+  - "[[_Standards/WikiData/WD~type_of_dance,107357104|WD~type_of_dance,107357104]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ballet,14615081|WD~Portal_Ballet,14615081]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Ballet_(duplicate),118738500|WD~Ballet_(duplicate),118738500]]"
+has_characteristic: "[[_Standards/WikiData/WD~ballet_award,133218633|WD~ballet_award,133218633]]"
 Commons_gallery: Ballet
 Commons_category: Ballet
 OmegaWiki_Defined_Meaning: 848831

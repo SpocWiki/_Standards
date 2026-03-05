@@ -47,17 +47,17 @@ aliases:
 - 차고
 has_id_wikidata: Q22733
 has_part_s_:
-- '[[_Standards/WikiData/WD~roof,83180]]'
-- '[[_Standards/WikiData/WD~garage_door,627405]]'
-instance_of: '[[_Standards/WikiData/WD~building_type,811102]]'
+- '[[_Standards/WikiData/WD~roof,83180|WD~roof,83180]]'
+- '[[_Standards/WikiData/WD~garage_door,627405|WD~garage_door,627405]]'
+instance_of: '[[_Standards/WikiData/WD~building_type,811102|WD~building_type,811102]]'
 different_from:
-- '[[_Standards/WikiData/WD~carport,1044817]]'
-- '[[_Standards/WikiData/WD~Garage,3095267]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~carport,1044817|WD~carport,1044817]]'
+- '[[_Standards/WikiData/WD~Garage,3095267|WD~Garage,3095267]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~parking_facility,55697304]]'
-- '[[_Standards/WikiData/WD~building,41176]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~wall,42948]]'
+- '[[_Standards/WikiData/WD~parking_facility,55697304|WD~parking_facility,55697304]]'
+- '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~wall,42948|WD~wall,42948]]'
 Nomenclature_for_Museum_Cataloging: 867
 UNSPSC_Code: 30201604
 U_S_National_Archives_Identifier: 10665892

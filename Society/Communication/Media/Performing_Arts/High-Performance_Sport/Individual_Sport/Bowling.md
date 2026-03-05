@@ -46,18 +46,18 @@ aliases:
   - 볼링
 has_id_wikidata: Q3177899
 depicted_by:
-  - "[[_Standards/WikiData/WD~Grand_Theft_Auto_IV,94797]]"
-  - "[[_Standards/WikiData/WD~Midnight_Bowling_3,100769730]]"
-different_from: "[[_Standards/WikiData/WD~ten_pin_bowling,172809]]"
-uses: "[[_Standards/WikiData/WD~bowling_ball,635982]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Grand_Theft_Auto_IV,94797|WD~Grand_Theft_Auto_IV,94797]]"
+  - "[[_Standards/WikiData/WD~Midnight_Bowling_3,100769730|WD~Midnight_Bowling_3,100769730]]"
+different_from: "[[_Standards/WikiData/WD~ten_pin_bowling,172809|WD~ten_pin_bowling,172809]]"
+uses: "[[_Standards/WikiData/WD~bowling_ball,635982|WD~bowling_ball,635982]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~game_of_skill,1368898]]"
-  - "[[_Standards/WikiData/WD~throwing_sport,15855160]]"
-practiced_by: "[[_Standards/WikiData/WD~bowler,4951095]]"
+  - "[[_Standards/WikiData/WD~game_of_skill,1368898|WD~game_of_skill,1368898]]"
+  - "[[_Standards/WikiData/WD~throwing_sport,15855160|WD~throwing_sport,15855160]]"
+practiced_by: "[[_Standards/WikiData/WD~bowler,4951095|WD~bowler,4951095]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
+  - "[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]"
+  - "[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]"
 IAB_code: 550
 Nomenclature_for_Museum_Cataloging: 14225
 IMDb_keyword: bowling

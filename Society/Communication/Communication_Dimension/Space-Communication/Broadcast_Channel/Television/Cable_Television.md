@@ -71,10 +71,10 @@ aliases:
 - 电缆电视
 - 케이블 텔레비전
 has_id_wikidata: Q184452
-opposite_of: '[[_Standards/WikiData/WD~terrestrial_television,175122]]'
-uses: '[[_Standards/WikiData/WD~digital_cable,5276046]]'
-has_list: '[[_Standards/WikiData/WD~list_of_cable_television_companies,16000145]]'
-subclass_of: '[[_Standards/WikiData/WD~television,289]]'
+opposite_of: '[[_Standards/WikiData/WD~terrestrial_television,175122|WD~terrestrial_television,175122]]'
+uses: '[[_Standards/WikiData/WD~digital_cable,5276046|WD~digital_cable,5276046]]'
+has_list: '[[_Standards/WikiData/WD~list_of_cable_television_companies,16000145|WD~list_of_cable_television_companies,16000145]]'
+subclass_of: '[[_Standards/WikiData/WD~television,289|WD~television,289]]'
 U_S_National_Archives_Identifier: 10638568
 Commons_category: Cable television
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Belling-Lee-Stecker.jpg

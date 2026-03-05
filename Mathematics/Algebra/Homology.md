@@ -32,13 +32,13 @@ aliases:
 - 同调
 - 호몰로지
 has_id_wikidata: Q1144780
-subclass_of: '[[_Standards/WikiData/WD~invariant,188211]]'
+subclass_of: '[[_Standards/WikiData/WD~invariant,188211|WD~invariant,188211]]'
 studied_by:
-- '[[_Standards/WikiData/WD~category_theory,217413]]'
-- '[[_Standards/WikiData/WD~homological_algebra,579978]]'
-uses: '[[_Standards/WikiData/WD~chain_complex,1143328]]'
-opposite_of: '[[_Standards/WikiData/WD~cohomology,1198376]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~category_theory,217413|WD~category_theory,217413]]'
+- '[[_Standards/WikiData/WD~homological_algebra,579978|WD~homological_algebra,579978]]'
+uses: '[[_Standards/WikiData/WD~chain_complex,1143328|WD~chain_complex,1143328]]'
+opposite_of: '[[_Standards/WikiData/WD~cohomology,1198376|WD~cohomology,1198376]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 Commons_category: Homology
 dv_has_:
   name_:

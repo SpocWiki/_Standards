@@ -44,20 +44,20 @@ aliases:
 - 다트
 has_id_wikidata: Q131471
 different_from:
-- '[[_Standards/WikiData/WD~Dart,278999]]'
-- '[[_Standards/WikiData/WD~Darts,2269651]]'
+- '[[_Standards/WikiData/WD~Dart,278999|WD~Dart,278999]]'
+- '[[_Standards/WikiData/WD~Darts,2269651|WD~Darts,2269651]]'
 authority:
-- '[[_Standards/WikiData/WD~British_Darts_Organisation,279519]]'
-- '[[_Standards/WikiData/WD~Professional_Darts_Corporation,1676131]]'
-- '[[_Standards/WikiData/WD~World_Darts_Federation,1786570]]'
+- '[[_Standards/WikiData/WD~British_Darts_Organisation,279519|WD~British_Darts_Organisation,279519]]'
+- '[[_Standards/WikiData/WD~Professional_Darts_Corporation,1676131|WD~Professional_Darts_Corporation,1676131]]'
+- '[[_Standards/WikiData/WD~World_Darts_Federation,1786570|WD~World_Darts_Federation,1786570]]'
 instance_of:
-- '[[_Standards/WikiData/WD~game_of_skill,1368898]]'
-- '[[_Standards/WikiData/WD~café_game,121459946]]'
-subclass_of: '[[_Standards/WikiData/WD~throwing_sport,15855160]]'
-practiced_by: '[[_Standards/WikiData/WD~darts_player,18574233]]'
+- '[[_Standards/WikiData/WD~game_of_skill,1368898|WD~game_of_skill,1368898]]'
+- '[[_Standards/WikiData/WD~café_game,121459946|WD~café_game,121459946]]'
+subclass_of: '[[_Standards/WikiData/WD~throwing_sport,15855160|WD~throwing_sport,15855160]]'
+practiced_by: '[[_Standards/WikiData/WD~darts_player,18574233|WD~darts_player,18574233]]'
 uses:
-- '[[_Standards/WikiData/WD~flechette,20726474]]'
-- '[[_Standards/WikiData/WD~dartboard,117208746]]'
+- '[[_Standards/WikiData/WD~flechette,20726474|WD~flechette,20726474]]'
+- '[[_Standards/WikiData/WD~dartboard,117208746|WD~dartboard,117208746]]'
 IAB_code: 493
 Nomenclature_for_Museum_Cataloging: 14233
 time_of_earliest_written_record: 1819-01-01T00:00:00Z

@@ -29,17 +29,17 @@ aliases:
 - 墨西拿期
 - 메시나절
 has_id_wikidata: Q508465
-named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704]]'
+named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704|WD~Karl_Mayer_Eymar,116704]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Q2103860,2103860]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Messinian,8622015]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Messinian,133820572]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Q2103860,2103860|WD~Q2103860,2103860]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Messinian,8622015|WD~Category_Messinian,8622015]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Messinian,133820572|WD~GSSP_for_the_base_of_the_Messinian,133820572]]'
 start_time: -7246000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Messina,13666]]'
+named_after: '[[_Standards/WikiData/WD~Messina,13666|WD~Messina,13666]]'
 end_time: -5333000-01-01T00:00:00Z
 sRGB_color_hex_triplet: FEF587
 Commons_category: Messinian
@@ -162,7 +162,7 @@ has_next_item = `=this.dv_has_next_item`
 
 ## #has_/text_of_/abstract 
 
-> The **Messinian** is in the geologic timescale the last age or uppermost stage of the Miocene. It spans the time between 7.246 ± 0.005 Ma and 5.333 ± 0.005 Ma (million years ago). It follows the [[Age~5~Tortonian]] and is followed by the [[../Epoch-005~Pliocene/Age~1~Zanclean]], the first age of the Pliocene.
+> The **Messinian** is in the geologic timescale the last age or uppermost stage of the Miocene. It spans the time between 7.246 ± 0.005 Ma and 5.333 ± 0.005 Ma (million years ago). It follows the [[Age~5~Tortonian]] and is followed by the [[../Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]], the first age of the Pliocene.
 >
 > The Messinian overlaps the Turolian European Land Mammal Mega Zone (more precisely MN 12 and 13) and the Pontian Central European Paratethys Stage. It also overlaps the late Huayquerian and early Montehermosan South American Land Mammal Ages, and falls inside the more extensive Hemphillian North American Land Mammal Age.
 >

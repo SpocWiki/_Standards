@@ -86,23 +86,23 @@ aliases:
 - 온도계
 has_id_wikidata: Q646
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Hero_of_Alexandria,161853]]'
-- '[[_Standards/WikiData/WD~Daniel_Gabriel_Fahrenheit,57073]]'
+- '[[_Standards/WikiData/WD~Hero_of_Alexandria,161853|WD~Hero_of_Alexandria,161853]]'
+- '[[_Standards/WikiData/WD~Daniel_Gabriel_Fahrenheit,57073|WD~Daniel_Gabriel_Fahrenheit,57073]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~laboratory_equipment,834028]]'
-- '[[_Standards/WikiData/WD~measuring_instrument,2041172]]'
-- '[[_Standards/WikiData/WD~meteorological_instrument,3743695]]'
+- '[[_Standards/WikiData/WD~laboratory_equipment,834028|WD~laboratory_equipment,834028]]'
+- '[[_Standards/WikiData/WD~measuring_instrument,2041172|WD~measuring_instrument,2041172]]'
+- '[[_Standards/WikiData/WD~meteorological_instrument,3743695|WD~meteorological_instrument,3743695]]'
 has_use:
-- '[[_Standards/WikiData/WD~temperature_measurement,909741]]'
-- '[[_Standards/WikiData/WD~meteorology,25261]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9582556,9582556]]'
-measures: '[[_Standards/WikiData/WD~temperature,11466]]'
+- '[[_Standards/WikiData/WD~temperature_measurement,909741|WD~temperature_measurement,909741]]'
+- '[[_Standards/WikiData/WD~meteorology,25261|WD~meteorology,25261]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9582556,9582556|WD~Q9582556,9582556]]'
+measures: '[[_Standards/WikiData/WD~temperature,11466|WD~temperature,11466]]'
 Nomenclature_for_Museum_Cataloging: 10249
 OmegaWiki_Defined_Meaning: 380757
 Commons_gallery: Thermometer

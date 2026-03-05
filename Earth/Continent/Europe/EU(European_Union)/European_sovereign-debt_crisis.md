@@ -60,9 +60,9 @@ aliases:
 - 欧洲主权债务危机
 - 歐洲主權債務危機
 has_id_wikidata: Q217197
-instance_of: '[[_Standards/WikiData/WD~debt_crisis,773335]]'
-has_cause: '[[_Standards/WikiData/WD~Causes_of_the_Eurozone_crisis,16829027]]'
-locations: '[[_Standards/WikiData/WD~European_Union,458]]'
+instance_of: '[[_Standards/WikiData/WD~debt_crisis,773335|WD~debt_crisis,773335]]'
+has_cause: '[[_Standards/WikiData/WD~Causes_of_the_Eurozone_crisis,16829027|WD~Causes_of_the_Eurozone_crisis,16829027]]'
+locations: '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
 point_in_time: 2010-01-01T00:00:00Z
 dv_is_:
   same_as:

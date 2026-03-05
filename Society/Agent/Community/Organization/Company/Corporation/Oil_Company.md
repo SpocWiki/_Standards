@@ -24,10 +24,10 @@ aliases:
 - 石油公司
 has_id_wikidata: Q14941854
 subclass_of:
-- '[[_Standards/WikiData/WD~company,783794]]'
-- '[[_Standards/WikiData/WD~business,4830453]]'
-industry: '[[_Standards/WikiData/WD~petroleum_industry,862571]]'
-part_of: '[[_Standards/WikiData/WD~petroleum_industry,862571]]'
+- '[[_Standards/WikiData/WD~company,783794|WD~company,783794]]'
+- '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
+industry: '[[_Standards/WikiData/WD~petroleum_industry,862571|WD~petroleum_industry,862571]]'
+part_of: '[[_Standards/WikiData/WD~petroleum_industry,862571|WD~petroleum_industry,862571]]'
 Commons_category: Petroleum companies
 dv_has_:
   name_:
@@ -59,7 +59,7 @@ dv_has_:
 
 # [[Oil_Company]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~oil_company,14941854]] 
+#is_/same_as :: [[_Standards/WikiData/WD~oil_company,14941854|WD~oil_company,14941854]] 
 
 ## #has_/text_of_/abstract 
 

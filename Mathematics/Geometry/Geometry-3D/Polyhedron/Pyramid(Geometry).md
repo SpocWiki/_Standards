@@ -63,23 +63,23 @@ aliases:
 - 錐體
 - 각뿔
 has_id_wikidata: Q3358290
-different_from: '[[_Standards/WikiData/WD~Piramida,105574]]'
+different_from: '[[_Standards/WikiData/WD~Piramida,105574|WD~Piramida,105574]]'
 studied_by:
-- '[[_Standards/WikiData/WD~solid_geometry,207648]]'
-- '[[_Standards/WikiData/WD~category_theory,217413]]'
+- '[[_Standards/WikiData/WD~solid_geometry,207648|WD~solid_geometry,207648]]'
+- '[[_Standards/WikiData/WD~category_theory,217413|WD~category_theory,217413]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~surface_area,1379273]]'
-- '[[_Standards/WikiData/WD~volume,39297]]'
-subclass_of: '[[_Standards/WikiData/WD~prismatoid,1757451]]'
-dual_to: '[[_Standards/WikiData/WD~pyramid,3358290]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~apex_base_pair,127388056]]'
+- '[[_Standards/WikiData/WD~surface_area,1379273|WD~surface_area,1379273]]'
+- '[[_Standards/WikiData/WD~volume,39297|WD~volume,39297]]'
+subclass_of: '[[_Standards/WikiData/WD~prismatoid,1757451|WD~prismatoid,1757451]]'
+dual_to: '[[_Standards/WikiData/WD~pyramid,3358290|WD~pyramid,3358290]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~apex_base_pair,127388056|WD~apex_base_pair,127388056]]'
 has_facet_polytope:
-- '[[_Standards/WikiData/WD~triangle,19821]]'
-- '[[_Standards/WikiData/WD~polygon,37555]]'
+- '[[_Standards/WikiData/WD~triangle,19821|WD~triangle,19821]]'
+- '[[_Standards/WikiData/WD~polygon,37555|WD~polygon,37555]]'
 OmegaWiki_Defined_Meaning: 887148
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Square%20pyramid.png
 Iconclass_notation: 49D44

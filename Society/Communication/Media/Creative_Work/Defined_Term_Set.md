@@ -36,7 +36,7 @@ Tag Instances like this:
 
 A set of defined terms, for example a set of categories or a classification scheme, a glossary, dictionary or enumeration.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ CategoryCodeSet ]  
 

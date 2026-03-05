@@ -75,15 +75,15 @@ aliases:
 - 露土戦争
 - 러시아-튀르크 전쟁
 has_id_wikidata: Q174205
-instance_of: '[[_Standards/WikiData/WD~armed_conflict,350604]]'
+instance_of: '[[_Standards/WikiData/WD~armed_conflict,350604|WD~armed_conflict,350604]]'
 described_by_source:
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-has_part_s_: '[[_Standards/WikiData/WD~Caucasus_campaign,4206987]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+has_part_s_: '[[_Standards/WikiData/WD~Caucasus_campaign,4206987|WD~Caucasus_campaign,4206987]]'
 end_time: 1878-03-03T00:00:00Z
 start_time: 1877-04-24T00:00:00Z
-location: '[[_Standards/WikiData/WD~Balkans,23522]]'
+location: '[[_Standards/WikiData/WD~Balkans,23522|WD~Balkans,23522]]'
 BHCL_UUID: 409a2310-1cd6-4888-8b90-f15b22dd191f
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fight%20near%20Telish%201877.jpg
 Commons_category: Russo-Turkish War (1877–1878)

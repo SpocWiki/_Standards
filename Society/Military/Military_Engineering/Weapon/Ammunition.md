@@ -72,19 +72,19 @@ aliases:
 - 彈藥
 - 탄약
 has_id_wikidata: Q185785
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~disposable_product,1194058]]'
-- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
-- '[[_Standards/WikiData/WD~weapon,728]]'
+- '[[_Standards/WikiData/WD~disposable_product,1194058|WD~disposable_product,1194058]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]'
+- '[[_Standards/WikiData/WD~weapon,728|WD~weapon,728]]'
 used_by:
-- '[[_Standards/WikiData/WD~projectile_weapon,1194773]]'
-- '[[_Standards/WikiData/WD~firearm,12796]]'
+- '[[_Standards/WikiData/WD~projectile_weapon,1194773|WD~projectile_weapon,1194773]]'
+- '[[_Standards/WikiData/WD~firearm,12796|WD~firearm,12796]]'
 location:
-- '[[_Standards/WikiData/WD~ammunition_box,1953318]]'
-- '[[_Standards/WikiData/WD~ammunition_dump,2153495]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~military_equipment,18643213]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_type,124078422]]'
+- '[[_Standards/WikiData/WD~ammunition_box,1953318|WD~ammunition_box,1953318]]'
+- '[[_Standards/WikiData/WD~ammunition_dump,2153495|WD~ammunition_dump,2153495]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~military_equipment,18643213|WD~military_equipment,18643213]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_type,124078422|WD~weapon_type,124078422]]'
 main_Wikidata_property: ammunition
 social_media_followers: 25885
 Nomenclature_for_Museum_Cataloging: 7735

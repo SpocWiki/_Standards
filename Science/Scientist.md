@@ -207,28 +207,28 @@ female_form_of_label:
 - científica
 - cientista
 uses:
-- '[[_Standards/WikiData/WD~scientific_term,999234]]'
-- '[[_Standards/WikiData/WD~academic_conference,2020153]]'
-- '[[_Standards/WikiData/WD~scientific_literature,12042160]]'
-- '[[_Standards/WikiData/WD~scientific_terminology,12132640]]'
-- '[[_Standards/WikiData/WD~scientific_method,46857]]'
-- '[[_Standards/WikiData/WD~philosophy_of_science,59115]]'
+- '[[_Standards/WikiData/WD~scientific_term,999234|WD~scientific_term,999234]]'
+- '[[_Standards/WikiData/WD~academic_conference,2020153|WD~academic_conference,2020153]]'
+- '[[_Standards/WikiData/WD~scientific_literature,12042160|WD~scientific_literature,12042160]]'
+- '[[_Standards/WikiData/WD~scientific_terminology,12132640|WD~scientific_terminology,12132640]]'
+- '[[_Standards/WikiData/WD~scientific_method,46857|WD~scientific_method,46857]]'
+- '[[_Standards/WikiData/WD~philosophy_of_science,59115|WD~philosophy_of_science,59115]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~researcher,1650915]]'
-- '[[_Standards/WikiData/WD~scholar,20826540]]'
+- '[[_Standards/WikiData/WD~researcher,1650915|WD~researcher,1650915]]'
+- '[[_Standards/WikiData/WD~scholar,20826540|WD~scholar,20826540]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~researcher,1650915]]'
-- '[[_Standards/WikiData/WD~scholar,20826540]]'
-has_list: '[[_Standards/WikiData/WD~lists_of_scientists,3849895]]'
+- '[[_Standards/WikiData/WD~researcher,1650915|WD~researcher,1650915]]'
+- '[[_Standards/WikiData/WD~scholar,20826540|WD~scholar,20826540]]'
+has_list: '[[_Standards/WikiData/WD~lists_of_scientists,3849895|WD~lists_of_scientists,3849895]]'
 instance_of:
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_scientist,5624818]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-has_effect: '[[_Standards/WikiData/WD~scientific_viewpoint,30046708]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039]]'
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_scientist,5624818|WD~Template_Infobox_scientist,5624818]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+has_effect: '[[_Standards/WikiData/WD~scientific_viewpoint,30046708|WD~scientific_viewpoint,30046708]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039|WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~science,336|WD~science,336]]'
 properties_for_this_type:
 - ORCID iD
 - ResearcherID

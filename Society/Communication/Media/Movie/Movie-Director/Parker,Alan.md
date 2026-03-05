@@ -29,36 +29,36 @@ Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/PARKER_ALAN.html
 birth_name: Alan William Parker
 work_period_end_: 2016-01-01T00:00:00Z
 date_of_death: 2020-07-31T00:00:00Z
-nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-place_of_birth: '[[_Standards/WikiData/WD~Islington,125163]]'
-honorific_prefix: '[[_Standards/WikiData/WD~Sir,209690]]'
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360|WD~Academy_Award_for_Best_Director,103360]]'
+place_of_birth: '[[_Standards/WikiData/WD~Islington,125163|WD~Islington,125163]]'
+honorific_prefix: '[[_Standards/WikiData/WD~Sir,209690|WD~Sir,209690]]'
 given_name:
-- '[[_Standards/WikiData/WD~Alan,294833]]'
-- '[[_Standards/WikiData/WD~William,12344159]]'
+- '[[_Standards/WikiData/WD~Alan,294833|WD~Alan,294833]]'
+- '[[_Standards/WikiData/WD~William,12344159|WD~William,12344159]]'
 award_received:
-- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
-- '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
-- '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
-- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
-- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
-- '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
-family_name: '[[_Standards/WikiData/WD~Parker,1628041]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131|WD~BAFTA_Award_for_Best_Direction,787131]]'
+- '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148|WD~Academy_Fellowship_Award,787148]]'
+- '[[_Standards/WikiData/WD~Knight_Bachelor,833163|WD~Knight_Bachelor,833163]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102|WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477|WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
+- '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524|WD~Officer_of_Arts_and_Letters,13452524]]'
+family_name: '[[_Standards/WikiData/WD~Parker,1628041|WD~Parker,1628041]]'
 occupation:
-- '[[_Standards/WikiData/WD~film_director,2526255]]'
-- '[[_Standards/WikiData/WD~film_producer,3282637]]'
-- '[[_Standards/WikiData/WD~director,3455803]]'
-- '[[_Standards/WikiData/WD~film_editor,7042855]]'
-- '[[_Standards/WikiData/WD~film_actor,10800557]]'
-- '[[_Standards/WikiData/WD~producer,47541952]]'
-- '[[_Standards/WikiData/WD~screenwriter,28389]]'
-different_from: '[[_Standards/WikiData/WD~Alan_Parker,4707481]]'
-educated_at: "[[_Standards/WikiData/WD~Dame_Alice_Owen's_School,5212123]]"
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-described_by_source: '[[_Standards/WikiData/WD~Alan_Parker,_Versatile_Film_Director,_Is_Dead_at_76,123551454]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-place_of_death: '[[_Standards/WikiData/WD~London,84]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~film_director,2526255|WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637|WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803|WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_editor,7042855|WD~film_editor,7042855]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~producer,47541952|WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389|WD~screenwriter,28389]]'
+different_from: '[[_Standards/WikiData/WD~Alan_Parker,4707481|WD~Alan_Parker,4707481]]'
+educated_at: "[[_Standards/WikiData/WD~Dame_Alice_Owen's_School,5212123|WD~Dame_Alice_Owen's_School,5212123]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+described_by_source: '[[_Standards/WikiData/WD~Alan_Parker,_Versatile_Film_Director,_Is_Dead_at_76,123551454|WD~Alan_Parker,_Versatile_Film_Director,_Is_Dead_at_76,123551454]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~London,84|WD~London,84]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 number_of_children: 5
 name_in_native_language: Alan Parker
 Commons_gallery: Alan Parker
@@ -237,7 +237,7 @@ dv_has_:
 
 # [[Parker,Alan]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Alan_Parker,271284]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Alan_Parker,271284|WD~Alan_Parker,271284]] 
 
 ## #has_/text_of_/abstract 
 

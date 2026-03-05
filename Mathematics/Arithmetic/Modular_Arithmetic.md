@@ -61,17 +61,17 @@ aliases:
 - 모듈러 산술
 has_id_wikidata: Q319400
 is_the_study_of:
-- '[[_Standards/WikiData/WD~modulo,1415345]]'
-- '[[_Standards/WikiData/WD~congruence_of_integers,3773677]]'
-different_from: '[[_Standards/WikiData/WD~modulo_operation,1799665]]'
+- '[[_Standards/WikiData/WD~modulo,1415345|WD~modulo,1415345]]'
+- '[[_Standards/WikiData/WD~congruence_of_integers,3773677|WD~congruence_of_integers,3773677]]'
+different_from: '[[_Standards/WikiData/WD~modulo_operation,1799665|WD~modulo_operation,1799665]]'
 instance_of:
-- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918|WD~mathematical_theory,20026918]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 part_of:
-- '[[_Standards/WikiData/WD~elementary_number_theory,18450254]]'
-- '[[_Standards/WikiData/WD~Q114703800,114703800]]'
-subclass_of: '[[_Standards/WikiData/WD~arithmetic,11205]]'
+- '[[_Standards/WikiData/WD~elementary_number_theory,18450254|WD~elementary_number_theory,18450254]]'
+- '[[_Standards/WikiData/WD~Q114703800,114703800|WD~Q114703800,114703800]]'
+subclass_of: '[[_Standards/WikiData/WD~arithmetic,11205|WD~arithmetic,11205]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Clock%20group.svg
 Stack_Exchange_tag: https://math.stackexchange.com/tags/modular-arithmetic
 Commons_category: Modular arithmetic

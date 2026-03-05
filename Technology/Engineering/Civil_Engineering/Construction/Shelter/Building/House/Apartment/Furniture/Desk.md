@@ -62,11 +62,11 @@ aliases:
 - 책상
 has_id_wikidata: Q1064858
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~furniture,14745]]'
-- '[[_Standards/WikiData/WD~table,14748]]'
+- '[[_Standards/WikiData/WD~furniture,14745|WD~furniture,14745]]'
+- '[[_Standards/WikiData/WD~table,14748|WD~table,14748]]'
 Nomenclature_for_Museum_Cataloging: 1280
 name_in_kana: つくえ
 U_S_National_Archives_Identifier: 10640246

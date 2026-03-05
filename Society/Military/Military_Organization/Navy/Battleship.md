@@ -63,13 +63,13 @@ aliases:
 - 戰艦
 - 전함
 has_id_wikidata: Q182531
-subclass_of: '[[_Standards/WikiData/WD~warship,2031121]]'
-instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
+subclass_of: '[[_Standards/WikiData/WD~warship,2031121|WD~warship,2031121]]'
+instance_of: '[[_Standards/WikiData/WD~ship_type,2235308|WD~ship_type,2235308]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Q26108780,26108780]]'
-different_from: '[[_Standards/WikiData/WD~Q56422059,56422059]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q26108780,26108780|WD~Q26108780,26108780]]'
+different_from: '[[_Standards/WikiData/WD~Q56422059,56422059|WD~Q56422059,56422059]]'
 Nomenclature_for_Museum_Cataloging: 12782
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BB61%20USS%20Iowa%20BB61%20broadside%20USN.jpg
 U_S_National_Archives_Identifier: 10636600

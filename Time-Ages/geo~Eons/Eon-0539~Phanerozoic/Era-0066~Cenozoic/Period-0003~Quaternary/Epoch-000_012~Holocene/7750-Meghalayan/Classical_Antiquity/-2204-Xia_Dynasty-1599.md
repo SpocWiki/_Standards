@@ -73,22 +73,22 @@ aliases:
 has_id_wikidata: Q169705
 inception: -2204-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: -1599-01-01T00:00:00Z
-replaced_by: '[[_Standards/WikiData/WD~Shang_dynasty,128938]]'
-described_by_source: '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
-currency: '[[_Standards/WikiData/WD~Cypraea,312056]]'
-founded_by: '[[_Standards/WikiData/WD~Yu_the_Great,627784]]'
+replaced_by: '[[_Standards/WikiData/WD~Shang_dynasty,128938|WD~Shang_dynasty,128938]]'
+described_by_source: '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530|WD~Records_of_the_Grand_Historian,272530]]'
+currency: '[[_Standards/WikiData/WD~Cypraea,312056|WD~Cypraea,312056]]'
+founded_by: '[[_Standards/WikiData/WD~Yu_the_Great,627784|WD~Yu_the_Great,627784]]'
 instance_of:
-- '[[_Standards/WikiData/WD~ancient_Chinese_state,836688]]'
-- '[[_Standards/WikiData/WD~Chinese_dynasty,12857432]]'
-- '[[_Standards/WikiData/WD~hypothetical_entity,18706315]]'
+- '[[_Standards/WikiData/WD~ancient_Chinese_state,836688|WD~ancient_Chinese_state,836688]]'
+- '[[_Standards/WikiData/WD~Chinese_dynasty,12857432|WD~Chinese_dynasty,12857432]]'
+- '[[_Standards/WikiData/WD~hypothetical_entity,18706315|WD~hypothetical_entity,18706315]]'
 basic_form_of_government:
-- '[[_Standards/WikiData/WD~hereditary_monarchy,849242]]'
-- '[[_Standards/WikiData/WD~monarchy,7269]]'
-- '[[_Standards/WikiData/WD~feudalism,37739]]'
-capital: '[[_Standards/WikiData/WD~Dengfeng,877609]]'
-ethnic_group: '[[_Standards/WikiData/WD~Huaxia_(ethnicity),10905632]]'
-language_used: '[[_Standards/WikiData/WD~Chinese,7850]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~hereditary_monarchy,849242|WD~hereditary_monarchy,849242]]'
+- '[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
+- '[[_Standards/WikiData/WD~feudalism,37739|WD~feudalism,37739]]'
+capital: '[[_Standards/WikiData/WD~Dengfeng,877609|WD~Dengfeng,877609]]'
+ethnic_group: '[[_Standards/WikiData/WD~Huaxia_(ethnicity),10905632|WD~Huaxia_(ethnicity),10905632]]'
+language_used: '[[_Standards/WikiData/WD~Chinese,7850|WD~Chinese,7850]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Xia%20dynasty.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/YuTheGreat.JPG
 Commons_category: Xia Dynasty

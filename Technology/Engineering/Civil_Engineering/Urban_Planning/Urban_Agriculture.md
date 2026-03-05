@@ -38,14 +38,14 @@ aliases:
 - 都市農業
 - 도시 농업
 has_id_wikidata: Q1194826
-has_effect: '[[_Standards/WikiData/WD~food_security,1229911]]'
-part_of: '[[_Standards/WikiData/WD~sharing_economy,2277143]]'
-facet_of: '[[_Standards/WikiData/WD~urban_nature,2327738]]'
-has_characteristic: '[[_Standards/WikiData/WD~urban_environment,30443872]]'
-practiced_by: '[[_Standards/WikiData/WD~urban_farmer,111686897]]'
+has_effect: '[[_Standards/WikiData/WD~food_security,1229911|WD~food_security,1229911]]'
+part_of: '[[_Standards/WikiData/WD~sharing_economy,2277143|WD~sharing_economy,2277143]]'
+facet_of: '[[_Standards/WikiData/WD~urban_nature,2327738|WD~urban_nature,2327738]]'
+has_characteristic: '[[_Standards/WikiData/WD~urban_environment,30443872|WD~urban_environment,30443872]]'
+practiced_by: '[[_Standards/WikiData/WD~urban_farmer,111686897|WD~urban_farmer,111686897]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Q124400906,124400906]]'
-- '[[_Standards/WikiData/WD~Q126036907,126036907]]'
+- '[[_Standards/WikiData/WD~Q124400906,124400906|WD~Q124400906,124400906]]'
+- '[[_Standards/WikiData/WD~Q126036907,126036907|WD~Q126036907,126036907]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Aretxabaleta-apts-and-garden-4618.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Horta%20urbana%20em%20Garibaldi%2C%20Rio%20Grande%20do%20Sul%2C%20foto2.jpg

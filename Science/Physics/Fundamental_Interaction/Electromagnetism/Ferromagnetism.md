@@ -54,18 +54,18 @@ aliases:
 - 铁磁性
 - 강자성
 has_id_wikidata: Q184207
-characteristic_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
-different_from: '[[_Standards/WikiData/WD~ferrimagnetism,217121]]'
-manifestation_of: '[[_Standards/WikiData/WD~antiferromagnetism,575224]]'
+characteristic_of: '[[_Standards/WikiData/WD~chemical_substance,79529|WD~chemical_substance,79529]]'
+different_from: '[[_Standards/WikiData/WD~ferrimagnetism,217121|WD~ferrimagnetism,217121]]'
+manifestation_of: '[[_Standards/WikiData/WD~antiferromagnetism,575224|WD~antiferromagnetism,575224]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~antiferromagnetism,575224]]'
-- '[[_Standards/WikiData/WD~antiferromagnet,4067142]]'
+- '[[_Standards/WikiData/WD~antiferromagnetism,575224|WD~antiferromagnetism,575224]]'
+- '[[_Standards/WikiData/WD~antiferromagnet,4067142|WD~antiferromagnet,4067142]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~property,937228]]'
-- '[[_Standards/WikiData/WD~magnetic_ordering,15706549]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-facet_of: '[[_Standards/WikiData/WD~ferromagnetic_material,9259184]]'
-named_after: '[[_Standards/WikiData/WD~iron,677]]'
+- '[[_Standards/WikiData/WD~property,937228|WD~property,937228]]'
+- '[[_Standards/WikiData/WD~magnetic_ordering,15706549|WD~magnetic_ordering,15706549]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+facet_of: '[[_Standards/WikiData/WD~ferromagnetic_material,9259184|WD~ferromagnetic_material,9259184]]'
+named_after: '[[_Standards/WikiData/WD~iron,677|WD~iron,677]]'
 OmegaWiki_Defined_Meaning: 1114551
 Commons_category: Ferromagnetism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MagnetEZ.jpg

@@ -77,18 +77,18 @@ aliases:
 - 資訊理論
 - 정보 이론
 has_id_wikidata: Q131222
-creator: '[[_Standards/WikiData/WD~Claude_Shannon,92760]]'
+creator: '[[_Standards/WikiData/WD~Claude_Shannon,92760|WD~Claude_Shannon,92760]]'
 part_of:
-- '[[_Standards/WikiData/WD~cognitive_science,147638]]'
-- '[[_Standards/WikiData/WD~mathematics,395]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
+- '[[_Standards/WikiData/WD~cognitive_science,147638|WD~cognitive_science,147638]]'
+- '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-subclass_of: '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
-facet_of: '[[_Standards/WikiData/WD~statistics,12483]]'
-different_from: '[[_Standards/WikiData/WD~information_science,16387]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[_Standards/WikiData/WD~mathematical_theory,20026918|WD~mathematical_theory,20026918]]'
+facet_of: '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
+different_from: '[[_Standards/WikiData/WD~information_science,16387|WD~information_science,16387]]'
 ACM_Classification_Code_2012_: 10003712
 Library_of_Congress_Classification: Q350-Q390
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Binary%20erasure%20channel.svg

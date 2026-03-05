@@ -65,28 +65,28 @@ aliases:
 - 표면장력
 has_id_wikidata: Q170749
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~thermodynamic_material_property,3523867]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~thermodynamic_material_property,3523867|WD~thermodynamic_material_property,3523867]]'
 has_effect:
-- '[[_Standards/WikiData/WD~capillary_action,188603]]'
-- '[[_Standards/WikiData/WD~smoothness,104177302]]'
-- '[[_Standards/WikiData/WD~pressure,39552]]'
+- '[[_Standards/WikiData/WD~capillary_action,188603|WD~capillary_action,188603]]'
+- '[[_Standards/WikiData/WD~smoothness,104177302|WD~smoothness,104177302]]'
+- '[[_Standards/WikiData/WD~pressure,39552|WD~pressure,39552]]'
 studied_by:
-- '[[_Standards/WikiData/WD~materials_science,228736]]'
-- '[[_Standards/WikiData/WD~surface_physics,339654]]'
-- '[[_Standards/WikiData/WD~Q122016408,122016408]]'
-- '[[_Standards/WikiData/WD~thermodynamics,11473]]'
-instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-different_from: '[[_Standards/WikiData/WD~interfacial_tension,1545763]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~materials_science,228736|WD~materials_science,228736]]'
+- '[[_Standards/WikiData/WD~surface_physics,339654|WD~surface_physics,339654]]'
+- '[[_Standards/WikiData/WD~Q122016408,122016408|WD~Q122016408,122016408]]'
+- '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
+instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+different_from: '[[_Standards/WikiData/WD~interfacial_tension,1545763|WD~interfacial_tension,1545763]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
-- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933|WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977|WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~newton_per_metre,26156113]]'
-- '[[_Standards/WikiData/WD~kilogram_per_square_second,106682321]]'
+- '[[_Standards/WikiData/WD~newton_per_metre,26156113|WD~newton_per_metre,26156113]]'
+- '[[_Standards/WikiData/WD~kilogram_per_square_second,106682321|WD~kilogram_per_square_second,106682321]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 Wikidata_property: surface tension
 in_defining_formula:

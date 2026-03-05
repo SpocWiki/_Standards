@@ -47,21 +47,21 @@ aliases:
 - 線性迴歸分析
 - 선형 회귀
 has_id_wikidata: Q10861030
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Francis_Galton,191026]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Francis_Galton,191026|WD~Francis_Galton,191026]]'
 facet_of:
-- '[[_Standards/WikiData/WD~regression_analysis,208042]]'
-- '[[_Standards/WikiData/WD~data_science,2374463]]'
+- '[[_Standards/WikiData/WD~regression_analysis,208042|WD~regression_analysis,208042]]'
+- '[[_Standards/WikiData/WD~data_science,2374463|WD~data_science,2374463]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~regression_analysis,208042]]'
-- '[[_Standards/WikiData/WD~regression,105675274]]'
-- '[[_Standards/WikiData/WD~machine_learning,2539]]'
+- '[[_Standards/WikiData/WD~regression_analysis,208042|WD~regression_analysis,208042]]'
+- '[[_Standards/WikiData/WD~regression,105675274|WD~regression,105675274]]'
+- '[[_Standards/WikiData/WD~machine_learning,2539|WD~machine_learning,2539]]'
 uses:
-- '[[_Standards/WikiData/WD~loss_function,1036748]]'
-- '[[_Standards/WikiData/WD~linear_model,3339222]]'
-- '[[_Standards/WikiData/WD~discriminative_model,5282087]]'
-opposite_of: '[[_Standards/WikiData/WD~nonlinear_regression,2755024]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_statistical_method,121144069]]'
+- '[[_Standards/WikiData/WD~loss_function,1036748|WD~loss_function,1036748]]'
+- '[[_Standards/WikiData/WD~linear_model,3339222|WD~linear_model,3339222]]'
+- '[[_Standards/WikiData/WD~discriminative_model,5282087|WD~discriminative_model,5282087]]'
+opposite_of: '[[_Standards/WikiData/WD~nonlinear_regression,2755024|WD~nonlinear_regression,2755024]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_statistical_method,121144069|WD~type_of_statistical_method,121144069]]'
 Stack_Exchange_tag: https://stackoverflow.com/tags/linear-regression
 Commons_category: Linear regression
 dv_has_:

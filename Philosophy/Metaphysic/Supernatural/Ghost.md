@@ -101,19 +101,19 @@ aliases:
 - 유령
 has_id_wikidata: Q45529
 subclass_of:
-- '[[_Standards/WikiData/WD~spirit,193291]]'
-- '[[_Standards/WikiData/WD~undead,239872]]'
-- '[[_Standards/WikiData/WD~supernatural_being,28855038]]'
+- '[[_Standards/WikiData/WD~spirit,193291|WD~spirit,193291]]'
+- '[[_Standards/WikiData/WD~undead,239872|WD~undead,239872]]'
+- '[[_Standards/WikiData/WD~supernatural_being,28855038|WD~supernatural_being,28855038]]'
 different_from:
-- '[[_Standards/WikiData/WD~Ghost,296005]]'
-- '[[_Standards/WikiData/WD~Fantôme,3066652]]'
-- '[[_Standards/WikiData/WD~ghost_in_a_work_of_fiction,30061299]]'
+- '[[_Standards/WikiData/WD~Ghost,296005|WD~Ghost,296005]]'
+- '[[_Standards/WikiData/WD~Fantôme,3066652|WD~Fantôme,3066652]]'
+- '[[_Standards/WikiData/WD~ghost_in_a_work_of_fiction,30061299|WD~ghost_in_a_work_of_fiction,30061299]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-has_list: '[[_Standards/WikiData/WD~list_of_ghosts,6585901]]'
-studied_by: '[[_Standards/WikiData/WD~ghostology,113957702]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+has_list: '[[_Standards/WikiData/WD~list_of_ghosts,6585901|WD~list_of_ghosts,6585901]]'
+studied_by: '[[_Standards/WikiData/WD~ghostology,113957702|WD~ghostology,113957702]]'
 Commons_category: Ghosts
 Commons_gallery: Ghost
 IMDb_keyword: ghost

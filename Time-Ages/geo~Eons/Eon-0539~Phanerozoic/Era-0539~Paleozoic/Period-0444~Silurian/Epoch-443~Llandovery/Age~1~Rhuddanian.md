@@ -25,13 +25,13 @@ aliases:
 - 鲁丹期
 has_id_wikidata: Q260369
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829]]'
-named_after: '[[_Standards/WikiData/WD~Cwm_Rhuddan,29505497]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-follows: '[[_Standards/WikiData/WD~Cincinnatian,131749698]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Rhuddanian,134711803]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829|WD~Charles_Hepworth_Holland,1064829]]'
+named_after: '[[_Standards/WikiData/WD~Cwm_Rhuddan,29505497|WD~Cwm_Rhuddan,29505497]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+follows: '[[_Standards/WikiData/WD~Cincinnatian,131749698|WD~Cincinnatian,131749698]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Rhuddanian,134711803|WD~GSSP_for_the_base_of_Rhuddanian,134711803]]'
 end_time: -440800000-01-01T00:00:00Z
 coordinate_location: Point(-3.27 55.44)
 start_time: -443800000-01-01T00:00:00Z

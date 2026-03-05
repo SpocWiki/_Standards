@@ -62,33 +62,33 @@ aliases:
 - 타원
 has_id_wikidata: Q40112
 has_characteristic:
-- '[[_Standards/WikiData/WD~eccentricity,104486]]'
-- '[[_Standards/WikiData/WD~flatness,212750]]'
-- '[[_Standards/WikiData/WD~area_of_plane_shape,15921574]]'
-- '[[_Standards/WikiData/WD~perimeter,28474]]'
+- '[[_Standards/WikiData/WD~eccentricity,104486|WD~eccentricity,104486]]'
+- '[[_Standards/WikiData/WD~flatness,212750|WD~flatness,212750]]'
+- '[[_Standards/WikiData/WD~area_of_plane_shape,15921574|WD~area_of_plane_shape,15921574]]'
+- '[[_Standards/WikiData/WD~perimeter,28474|WD~perimeter,28474]]'
 part_of:
-- '[[_Standards/WikiData/WD~conic_section,124255]]'
-- '[[_Standards/WikiData/WD~ellipsoid,190046]]'
+- '[[_Standards/WikiData/WD~conic_section,124255|WD~conic_section,124255]]'
+- '[[_Standards/WikiData/WD~ellipsoid,190046|WD~ellipsoid,190046]]'
 different_from:
-- '[[_Standards/WikiData/WD~Ellipse,264856]]'
-- '[[_Standards/WikiData/WD~ellipsis,32518]]'
+- '[[_Standards/WikiData/WD~Ellipse,264856|WD~Ellipse,264856]]'
+- '[[_Standards/WikiData/WD~ellipsis,32518|WD~ellipsis,32518]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Lissajous_curve,594135]]'
-- '[[_Standards/WikiData/WD~superellipse,867058]]'
-- '[[_Standards/WikiData/WD~hypotrochoid,1047694]]'
-- '[[_Standards/WikiData/WD~cartesian_oval,2983648]]'
-- '[[_Standards/WikiData/WD~n_ellipse,17099260]]'
-- '[[_Standards/WikiData/WD~non_degenerate_conic_section,78145859]]'
+- '[[_Standards/WikiData/WD~Lissajous_curve,594135|WD~Lissajous_curve,594135]]'
+- '[[_Standards/WikiData/WD~superellipse,867058|WD~superellipse,867058]]'
+- '[[_Standards/WikiData/WD~hypotrochoid,1047694|WD~hypotrochoid,1047694]]'
+- '[[_Standards/WikiData/WD~cartesian_oval,2983648|WD~cartesian_oval,2983648]]'
+- '[[_Standards/WikiData/WD~n_ellipse,17099260|WD~n_ellipse,17099260]]'
+- '[[_Standards/WikiData/WD~non_degenerate_conic_section,78145859|WD~non_degenerate_conic_section,78145859]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-- '[[_Standards/WikiData/WD~Ellipse,84695258]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Ellipse,84695258|WD~Ellipse,84695258]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>x</mi></mrow><mrow data-mjx-texclass="ORD"><mi>a</mi></mrow></mfrac></mrow><mo data-mjx-texclass="CLOSE">)</mo></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">+</mo><msup><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>y</mi></mrow><mrow data-mjx-texclass="ORD"><mi>b</mi></mrow></mfrac></mrow><mo data-mjx-texclass="CLOSE">)</mo></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><mn>1</mn></mstyle></mrow></math>
 OmegaWiki_Defined_Meaning: 666318
 pronunciation_audio:

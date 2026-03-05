@@ -57,10 +57,10 @@ aliases:
 - 급조폭발물
 has_id_wikidata: Q1249453
 subclass_of:
-- '[[_Standards/WikiData/WD~bomb,127197]]'
-- '[[_Standards/WikiData/WD~explosive_device,3054261]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~self_made_explosive_device,18089167]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+- '[[_Standards/WikiData/WD~bomb,127197|WD~bomb,127197]]'
+- '[[_Standards/WikiData/WD~explosive_device,3054261|WD~explosive_device,3054261]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~self_made_explosive_device,18089167|WD~self_made_explosive_device,18089167]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422|WD~weapon_functional_class,124078422]]'
 short_name: IED
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/IED%20Baghdad%20from%20munitions.jpg

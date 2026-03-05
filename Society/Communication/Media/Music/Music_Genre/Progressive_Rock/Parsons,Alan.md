@@ -23,35 +23,35 @@ aliases:
 - 앨런 파슨스
 has_id_wikidata: Q212089
 occupation:
-- '[[_Standards/WikiData/WD~audio_engineer,128124]]'
-- '[[_Standards/WikiData/WD~singer,177220]]'
-- '[[_Standards/WikiData/WD~record_producer,183945]]'
-- '[[_Standards/WikiData/WD~songwriter,753110]]'
-- '[[_Standards/WikiData/WD~guitarist,855091]]'
-- '[[_Standards/WikiData/WD~keyboardist,1075651]]'
-- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-- '[[_Standards/WikiData/WD~composer,36834]]'
-place_of_birth: '[[_Standards/WikiData/WD~Willesden,146702]]'
-record_label: '[[_Standards/WikiData/WD~EMI,183412]]'
-given_name: '[[_Standards/WikiData/WD~Alan,294833]]'
+- '[[_Standards/WikiData/WD~audio_engineer,128124|WD~audio_engineer,128124]]'
+- '[[_Standards/WikiData/WD~singer,177220|WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~record_producer,183945|WD~record_producer,183945]]'
+- '[[_Standards/WikiData/WD~songwriter,753110|WD~songwriter,753110]]'
+- '[[_Standards/WikiData/WD~guitarist,855091|WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~keyboardist,1075651|WD~keyboardist,1075651]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555|WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~composer,36834|WD~composer,36834]]'
+place_of_birth: '[[_Standards/WikiData/WD~Willesden,146702|WD~Willesden,146702]]'
+record_label: '[[_Standards/WikiData/WD~EMI,183412|WD~EMI,183412]]'
+given_name: '[[_Standards/WikiData/WD~Alan,294833|WD~Alan,294833]]'
 genre:
-- '[[_Standards/WikiData/WD~pop_rock,484641]]'
-- '[[_Standards/WikiData/WD~progressive_rock,49451]]'
-member_of: '[[_Standards/WikiData/WD~The_Alan_Parsons_Project,533478]]'
+- '[[_Standards/WikiData/WD~pop_rock,484641|WD~pop_rock,484641]]'
+- '[[_Standards/WikiData/WD~progressive_rock,49451|WD~progressive_rock,49451]]'
+member_of: '[[_Standards/WikiData/WD~The_Alan_Parsons_Project,533478|WD~The_Alan_Parsons_Project,533478]]'
 instrument:
-- '[[_Standards/WikiData/WD~electronic_keyboard,1343007]]'
-- '[[_Standards/WikiData/WD~guitar,6607]]'
-different_from: '[[_Standards/WikiData/WD~Alan_Parsons,2636804]]'
-father: '[[_Standards/WikiData/WD~Denys_Parsons,3023414]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-copyright_representative: '[[_Standards/WikiData/WD~SESAC,7389867]]'
-family_name: '[[_Standards/WikiData/WD~Parsons,16880979]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-mother: '[[_Standards/WikiData/WD~Kelty_MacLeod,111442811]]'
-discography: '[[_Standards/WikiData/WD~Alan_Parsons_discography,115197104]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~electronic_keyboard,1343007|WD~electronic_keyboard,1343007]]'
+- '[[_Standards/WikiData/WD~guitar,6607|WD~guitar,6607]]'
+different_from: '[[_Standards/WikiData/WD~Alan_Parsons,2636804|WD~Alan_Parsons,2636804]]'
+father: '[[_Standards/WikiData/WD~Denys_Parsons,3023414|WD~Denys_Parsons,3023414]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+copyright_representative: '[[_Standards/WikiData/WD~SESAC,7389867|WD~SESAC,7389867]]'
+family_name: '[[_Standards/WikiData/WD~Parsons,16880979|WD~Parsons,16880979]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+mother: '[[_Standards/WikiData/WD~Kelty_MacLeod,111442811|WD~Kelty_MacLeod,111442811]]'
+discography: '[[_Standards/WikiData/WD~Alan_Parsons_discography,115197104|WD~Alan_Parsons_discography,115197104]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 social_media_followers:
 - 44800
 - 20684
@@ -131,7 +131,7 @@ dv_has_:
 
 # [[Parsons,Alan]] 
 
-#is_/same_as :: [[../../../../../../../_Standards/WikiData/WD~Alan_Parsons,212089]] 
+#is_/same_as :: [[../../../../../../../_Standards/WikiData/WD~Alan_Parsons,212089|WD~Alan_Parsons,212089]] 
 
 ## #has_/text_of_/abstract 
 

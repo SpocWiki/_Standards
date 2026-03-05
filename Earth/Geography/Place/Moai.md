@@ -33,11 +33,11 @@ aliases:
 - 摩艾石像
 - 모아이
 has_id_wikidata: Q20350
-instance_of: '[[_Standards/WikiData/WD~archaeological_site,839954]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~pukao,980422]]'
-subclass_of: '[[_Standards/WikiData/WD~colossal_statue,1779653]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Isla_de_Pascua,9009773]]'
-country: '[[_Standards/WikiData/WD~Chile,298]]'
+instance_of: '[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~pukao,980422|WD~pukao,980422]]'
+subclass_of: '[[_Standards/WikiData/WD~colossal_statue,1779653|WD~colossal_statue,1779653]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Isla_de_Pascua,9009773|WD~Isla_de_Pascua,9009773]]'
+country: '[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
 Commons_gallery: Isla de Pascua
 Commons_category: Moai
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ahu%20Tongariki.jpg
@@ -150,7 +150,7 @@ Unicode_character: 🗿
 
 # [[Moai]] 🗿 
 
-![[../../../assets/Moai.png]] 
+![[../../../assets/Moai.png|Moai.png]] 
 
 #is_/same_as :: [[WD~Moai,20350]]
 

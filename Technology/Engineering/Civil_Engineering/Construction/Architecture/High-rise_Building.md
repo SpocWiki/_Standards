@@ -58,19 +58,19 @@ aliases:
 - 고층 건물
 has_id_wikidata: Q18142
 has_use:
-- '[[_Standards/WikiData/WD~office,182060]]'
-- '[[../../../../../WikiData/WD~shelter,989946]]'
-- '[[_Standards/WikiData/WD~home,7743]]'
-has_characteristic: '[[_Standards/WikiData/WD~height,208826]]'
-has_part_s_: '[[_Standards/WikiData/WD~storey,831691]]'
+- '[[_Standards/WikiData/WD~office,182060|WD~office,182060]]'
+- '[[../../../../../WikiData/WD~shelter,989946|WD~shelter,989946]]'
+- '[[_Standards/WikiData/WD~home,7743|WD~home,7743]]'
+has_characteristic: '[[_Standards/WikiData/WD~height,208826|WD~height,208826]]'
+has_part_s_: '[[_Standards/WikiData/WD~storey,831691|WD~storey,831691]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Inc.,2743906]]'
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-opposite_of: '[[_Standards/WikiData/WD~low_rise_building,6692780]]'
-follows: '[[_Standards/WikiData/WD~medium_rise_building,11364007]]'
-subclass_of: '[[_Standards/WikiData/WD~multi_story_urban_building,11755959]]'
-different_from: '[[_Standards/WikiData/WD~skyscraper,11303]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Inc.,2743906|WD~Encyclopædia_Britannica_Inc.,2743906]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+opposite_of: '[[_Standards/WikiData/WD~low_rise_building,6692780|WD~low_rise_building,6692780]]'
+follows: '[[_Standards/WikiData/WD~medium_rise_building,11364007|WD~medium_rise_building,11364007]]'
+subclass_of: '[[_Standards/WikiData/WD~multi_story_urban_building,11755959|WD~multi_story_urban_building,11755959]]'
+different_from: '[[_Standards/WikiData/WD~skyscraper,11303|WD~skyscraper,11303]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vilnius%20CBD.jpg
 Commons_category: High-rises
 dv_has_:

@@ -100,7 +100,7 @@ dv_has_:
     zh: 亞馬遜標準識別號碼
     zh_cn: 亚马逊标准识别号码
   parent_:
-    property: '[[../../Relation/has/has_identifier]]'
+    property: '[[../../Relation/has/has_identifier|has_identifier]]'
   range: Text, URL
 dv_is_part_of: 'pending:'
 dv_has_domain:
@@ -109,7 +109,7 @@ dv_has_domain:
 - '[[../../../Society/Agent/Community/Organization/Business/Product|Product]]'
 dv_has_name: has_text_of_asin
 dv_has_range: Text, URL
-dv_has_parent_property: '[[../../Relation/has/has_identifier]]'
+dv_has_parent_property: '[[../../Relation/has/has_identifier|has_identifier]]'
 dv_is_same_as:
 - '[[has_asin]]'
 - '[[/_public/schema-org/Property/has_name/has_asin.public|has_asin.public]]'

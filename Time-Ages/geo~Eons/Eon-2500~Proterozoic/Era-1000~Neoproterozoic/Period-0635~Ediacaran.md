@@ -56,12 +56,12 @@ aliases:
 - 에디아카라기
 has_id_wikidata: Q188654
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
-named_after: '[[_Standards/WikiData/WD~Ediacara_Hills,1119841]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ediacaran,9863192]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Ediacaran,112181350]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+named_after: '[[_Standards/WikiData/WD~Ediacara_Hills,1119841|WD~Ediacara_Hills,1119841]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ediacaran,9863192|WD~Category_Ediacaran,9863192]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Ediacaran,112181350|WD~GSSP_for_the_base_of_the_Ediacaran,112181350]]'
 coordinate_location: Point(138.6334 -31.3314)
 start_time: -635000000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20600%20Ma%20%28Ediacaran%20Period%29.png
@@ -220,7 +220,7 @@ has_next_item = `=this.dv_has_next_item`
 A time period from 635 to 538.8 million years ago. 
 Multi-cellular life develops. 
 
-![[../../../../../xLarge/Earth/Geology/Earth-600_Ma_(Ediacaran_Period).png]] 
+![[../../../../../xLarge/Earth/Geology/Earth-600_Ma_(Ediacaran_Period).png|Earth-600_Ma_(Ediacaran_Period).png]] 
 
 ## #has_/text_of_/abstract 
 

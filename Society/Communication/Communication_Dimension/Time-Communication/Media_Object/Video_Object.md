@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A video file.
 
-#has_/parent_class :: [[../MediaObject]]  
+#has_/parent_class :: [[../MediaObject|MediaObject]]  
 
 #has_/child_/class :: [ VideoObjectSnapshot ]  
 

@@ -34,9 +34,9 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Specialty.secret|Specialty.secret]]"
     - "[[Specialty]]"
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
   child_class: "[ MedicalSpecialty ]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_has_child_class: "[ MedicalSpecialty ]"
 dv_is_same_as:
   - "[[Specialty]]"

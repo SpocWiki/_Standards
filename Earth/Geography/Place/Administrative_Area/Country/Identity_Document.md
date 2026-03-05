@@ -75,22 +75,22 @@ aliases:
 - 신분증
 has_id_wikidata: Q47988
 model_item:
-- "[[_Standards/WikiData/WD~driver's_license,205647]]"
-- '[[_Standards/WikiData/WD~library_card,2367654]]'
-- '[[_Standards/WikiData/WD~national_identity_card,106485119]]'
-- '[[_Standards/WikiData/WD~passport,43812]]'
+- "[[_Standards/WikiData/WD~driver's_license,205647|WD~driver's_license,205647]]"
+- '[[_Standards/WikiData/WD~library_card,2367654|WD~library_card,2367654]]'
+- '[[_Standards/WikiData/WD~national_identity_card,106485119|WD~national_identity_card,106485119]]'
+- '[[_Standards/WikiData/WD~passport,43812|WD~passport,43812]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~driver's_license,205647]]"
-- '[[_Standards/WikiData/WD~national_identity_card,106485119]]'
-- '[[_Standards/WikiData/WD~passport,43812]]'
+- "[[_Standards/WikiData/WD~driver's_license,205647|WD~driver's_license,205647]]"
+- '[[_Standards/WikiData/WD~national_identity_card,106485119|WD~national_identity_card,106485119]]'
+- '[[_Standards/WikiData/WD~passport,43812|WD~passport,43812]]'
 different_from:
-- '[[_Standards/WikiData/WD~identity,844569]]'
-- '[[_Standards/WikiData/WD~personal_identity,2254571]]'
+- '[[_Standards/WikiData/WD~identity,844569|WD~identity,844569]]'
+- '[[_Standards/WikiData/WD~personal_identity,2254571|WD~personal_identity,2254571]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~identity_certificate,1369862]]'
-- '[[_Standards/WikiData/WD~personal_data,3702971]]'
-has_use: '[[_Standards/WikiData/WD~identification,3265221]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_identity_document,6366238]]'
+- '[[_Standards/WikiData/WD~identity_certificate,1369862|WD~identity_certificate,1369862]]'
+- '[[_Standards/WikiData/WD~personal_data,3702971|WD~personal_data,3702971]]'
+has_use: '[[_Standards/WikiData/WD~identification,3265221|WD~identification,3265221]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_identity_document,6366238|WD~Template_Infobox_identity_document,6366238]]'
 Dewey_Decimal_Classification:
 - 340
 - 929.9
@@ -103,7 +103,7 @@ Commons_category: Identity documents
 Library_of_Congress_Classification: KJC6038
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Identity_document,47988]]'
+  - '[[../../../../../WikiData/WD~Identity_document,47988|WD~Identity_document,47988]]'
   - '[[/_Standards/Earth/Geography/Place/Administrative_Area/Country/Identity_Document|Identity_Document]]'
   - '[[/_public/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.public|Identity_Document.public]]'
   - '[[/_internal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.internal|Identity_Document.internal]]'
@@ -112,7 +112,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.personal|Identity_Document.personal]]'
   - '[[/_secret/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.secret|Identity_Document.secret]]'
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Identity_document,47988]]'
+- '[[../../../../../WikiData/WD~Identity_document,47988|WD~Identity_document,47988]]'
 - '[[/_Standards/Earth/Geography/Place/Administrative_Area/Country/Identity_Document|Identity_Document]]'
 - '[[/_public/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.public|Identity_Document.public]]'
 - '[[/_internal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.internal|Identity_Document.internal]]'

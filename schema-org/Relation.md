@@ -65,22 +65,22 @@ tags:
 - schema-org/Relation
 type: Property
 has_part_s_:
-- '[[_Standards/WikiData/WD~binary_relation,130901]]'
-- "[[_Standards/WikiData/WD~\U0001D45B_tuple,600590]]"
-- '[[_Standards/WikiData/WD~ternary_relation,3756532]]'
-different_from: '[[_Standards/WikiData/WD~relation,930933]]'
-represents: '[[_Standards/WikiData/WD~relation,930933]]'
-has_characteristic: '[[_Standards/WikiData/WD~arity,1315869]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Mathematical_relations,6585116]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~binary_relation,130901|WD~binary_relation,130901]]'
+- "[[_Standards/WikiData/WD~\U0001D45B_tuple,600590|WD~\U0001D45B_tuple,600590]]"
+- '[[_Standards/WikiData/WD~ternary_relation,3756532|WD~ternary_relation,3756532]]'
+different_from: '[[_Standards/WikiData/WD~relation,930933|WD~relation,930933]]'
+represents: '[[_Standards/WikiData/WD~relation,930933|WD~relation,930933]]'
+has_characteristic: '[[_Standards/WikiData/WD~arity,1315869|WD~arity,1315869]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Mathematical_relations,6585116|WD~Category_Mathematical_relations,6585116]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~relation_(mathematics),107223533]]'
-- '[[_Standards/WikiData/WD~set,36161]]'
+- '[[_Standards/WikiData/WD~relation_(mathematics),107223533|WD~relation_(mathematics),107223533]]'
+- '[[_Standards/WikiData/WD~set,36161|WD~set,36161]]'
 Iconclass_notation: 51B1
 Commons_category: Relations (mathematics)
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~relation,203066]]'
+  - '[[_Standards/WikiData/WD~relation,203066|WD~relation,203066]]'
   - '[[/_Standards/schema-org/Relation|Relation]]'
   - '[[/_public/schema-org/Relation.public|Relation.public]]'
   - '[[/_internal/schema-org/Relation.internal|Relation.internal]]'
@@ -90,10 +90,10 @@ dv_is_:
   - '[[/_secret/schema-org/Relation.secret|Relation.secret]]'
   - '[[Relation]]'
   - '[[../../_internal/schema-org/Relation.internal|Relation.internal]]'
-dv_has_range: '[[Class/Thing]]'
-dv_has_domain: '[[Class/Thing]]'
+dv_has_range: '[[Class/Thing|Thing]]'
+dv_has_domain: '[[Class/Thing|Thing]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~relation,203066]]'
+- '[[_Standards/WikiData/WD~relation,203066|WD~relation,203066]]'
 - '[[Relation]]'
 - '[[/_public/schema-org/Relation.public|Relation.public]]'
 - '[[../../_internal/schema-org/Relation.internal|Relation.internal]]'
@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Relation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~relation,203066]]
+#is_/same_as :: [[_Standards/WikiData/WD~relation,203066|WD~relation,203066]]
 
 A Relation is a Set of Tuples with the same [[Arity]] (Pairs in the simplest case). 
 

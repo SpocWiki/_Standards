@@ -34,9 +34,9 @@ aliases:
 - バルカンの歴史
 - 巴爾幹地區歷史
 has_id_wikidata: Q1266338
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-facet_of: '[[_Standards/WikiData/WD~Balkans,23522]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787|WD~history_of_Europe,7787]]'
+facet_of: '[[_Standards/WikiData/WD~Balkans,23522|WD~Balkans,23522]]'
 Commons_category: History of the Balkans
 dv_is_:
   same_as:

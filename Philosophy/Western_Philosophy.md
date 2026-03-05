@@ -79,10 +79,10 @@ aliases:
 - 서양 철학
 has_id_wikidata: Q842333
 subclass_of:
-- '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-instance_of: '[[_Standards/WikiData/WD~science,336]]'
-facet_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852|WD~philosophical_schools_and_traditions,12765852]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+instance_of: '[[_Standards/WikiData/WD~science,336|WD~science,336]]'
+facet_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 Dewey_Decimal_Classification: 190
 Colon_Classification: R85
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%22The%20School%20of%20Athens%22%20by%20Raffaello%20Sanzio%20da%20Urbino.jpg

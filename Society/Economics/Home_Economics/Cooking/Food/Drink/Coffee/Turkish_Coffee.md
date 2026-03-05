@@ -59,15 +59,15 @@ aliases:
 - 土耳其咖啡
 - 튀르키예 커피
 has_id_wikidata: Q43022
-part_of: '[[_Standards/WikiData/WD~Turkish_cuisine,654493]]'
+part_of: '[[_Standards/WikiData/WD~Turkish_cuisine,654493|WD~Turkish_cuisine,654493]]'
 intangible_cultural_heritage_status:
-- '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
-- '[[_Standards/WikiData/WD~Intangible_Cultural_Heritage_National_Inventory_of_Turkey,115619400]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
-described_by_source: '[[_Standards/WikiData/WD~Online_Tourism_Encyclopedia,130639750]]'
-subclass_of: '[[_Standards/WikiData/WD~coffee,8486]]'
-country_of_origin: '[[_Standards/WikiData/WD~Turkey,43]]'
-country: '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947|WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+- '[[_Standards/WikiData/WD~Intangible_Cultural_Heritage_National_Inventory_of_Turkey,115619400|WD~Intangible_Cultural_Heritage_National_Inventory_of_Turkey,115619400]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263|WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+described_by_source: '[[_Standards/WikiData/WD~Online_Tourism_Encyclopedia,130639750|WD~Online_Tourism_Encyclopedia,130639750]]'
+subclass_of: '[[_Standards/WikiData/WD~coffee,8486|WD~coffee,8486]]'
+country_of_origin: '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+country: '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Turkish%20coffee%20in%20Istanbul.jpg
 described_at_URL:
 - https://ich.unesco.org/en/RL/00645

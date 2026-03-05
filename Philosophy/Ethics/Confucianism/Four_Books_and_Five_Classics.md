@@ -39,13 +39,13 @@ aliases:
 - 사서오경
 has_id_wikidata: Q1377760
 has_part_s_:
-- '[[_Standards/WikiData/WD~Five_Classics,1148214]]'
-- '[[_Standards/WikiData/WD~Four_Books,1412581]]'
-described_by_source: '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-instance_of: '[[_Standards/WikiData/WD~written_work,47461344]]'
-author: '[[_Standards/WikiData/WD~Confucius,4604]]'
-main_subject: '[[_Standards/WikiData/WD~Confucianism,9581]]'
-depicts: '[[_Standards/WikiData/WD~Confucianism,9581]]'
+- '[[_Standards/WikiData/WD~Five_Classics,1148214|WD~Five_Classics,1148214]]'
+- '[[_Standards/WikiData/WD~Four_Books,1412581|WD~Four_Books,1412581]]'
+described_by_source: '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+instance_of: '[[_Standards/WikiData/WD~written_work,47461344|WD~written_work,47461344]]'
+author: '[[_Standards/WikiData/WD~Confucius,4604|WD~Confucius,4604]]'
+main_subject: '[[_Standards/WikiData/WD~Confucianism,9581|WD~Confucianism,9581]]'
+depicts: '[[_Standards/WikiData/WD~Confucianism,9581|WD~Confucianism,9581]]'
 dv_has_:
   name_:
     ar: الكتب الأربعة والكلاسيكيات الخمسة

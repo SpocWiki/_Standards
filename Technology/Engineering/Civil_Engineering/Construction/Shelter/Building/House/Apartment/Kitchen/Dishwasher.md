@@ -78,14 +78,14 @@ aliases:
 - 식기세척기
 has_id_wikidata: Q186263
 different_from:
-- '[[_Standards/WikiData/WD~washing_machine,124441]]'
-- '[[_Standards/WikiData/WD~dishwasher,30601866]]'
+- '[[_Standards/WikiData/WD~washing_machine,124441|WD~washing_machine,124441]]'
+- '[[_Standards/WikiData/WD~dishwasher,30601866|WD~dishwasher,30601866]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~home_appliance,212920]]'
-- '[[_Standards/WikiData/WD~cleaning_tool,26270576]]'
-uses: '[[_Standards/WikiData/WD~water_pressure,2550925]]'
-used_by: '[[_Standards/WikiData/WD~dishwasher,30601866]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Josephine_Cochrane,21901]]'
+- '[[_Standards/WikiData/WD~home_appliance,212920|WD~home_appliance,212920]]'
+- '[[_Standards/WikiData/WD~cleaning_tool,26270576|WD~cleaning_tool,26270576]]'
+uses: '[[_Standards/WikiData/WD~water_pressure,2550925|WD~water_pressure,2550925]]'
+used_by: '[[_Standards/WikiData/WD~dishwasher,30601866|WD~dishwasher,30601866]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Josephine_Cochrane,21901|WD~Josephine_Cochrane,21901]]'
 Nomenclature_for_Museum_Cataloging: 8958
 OmegaWiki_Defined_Meaning: 1062898
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Geschirrspuelmaschine.JPG

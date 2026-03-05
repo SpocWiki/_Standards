@@ -105,35 +105,35 @@ location:
 - 12.482777777
 dissolved_abolished_or_demolished_date: 0476-01-01T00:00:00Z
 replaced_by:
-- '[[_Standards/WikiData/WD~Francia,146246]]'
-- '[[_Standards/WikiData/WD~Armorica,641203]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_the_Suebi,1048918]]'
-- '[[_Standards/WikiData/WD~Romain_Gaul_domain_of_Soissons,1247508]]'
-- '[[_Standards/WikiData/WD~Alamannia,2208978]]'
-- '[[_Standards/WikiData/WD~Visigothic_Kingdom_of_Tolosa,3307686]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Italy,3755547]]'
-- '[[_Standards/WikiData/WD~Vandal_Kingdom,10416611]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_the_Burgundians,13590051]]'
-- '[[_Standards/WikiData/WD~Mauro_Roman_kingdoms,25080783]]'
-- '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
+- '[[_Standards/WikiData/WD~Francia,146246|WD~Francia,146246]]'
+- '[[_Standards/WikiData/WD~Armorica,641203|WD~Armorica,641203]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_the_Suebi,1048918|WD~Kingdom_of_the_Suebi,1048918]]'
+- '[[_Standards/WikiData/WD~Romain_Gaul_domain_of_Soissons,1247508|WD~Romain_Gaul_domain_of_Soissons,1247508]]'
+- '[[_Standards/WikiData/WD~Alamannia,2208978|WD~Alamannia,2208978]]'
+- '[[_Standards/WikiData/WD~Visigothic_Kingdom_of_Tolosa,3307686|WD~Visigothic_Kingdom_of_Tolosa,3307686]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,3755547|WD~Kingdom_of_Italy,3755547]]'
+- '[[_Standards/WikiData/WD~Vandal_Kingdom,10416611|WD~Vandal_Kingdom,10416611]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_the_Burgundians,13590051|WD~Kingdom_of_the_Burgundians,13590051]]'
+- '[[_Standards/WikiData/WD~Mauro_Roman_kingdoms,25080783|WD~Mauro_Roman_kingdoms,25080783]]'
+- '[[_Standards/WikiData/WD~Byzantine_Empire,12544|WD~Byzantine_Empire,12544]]'
 basic_form_of_government:
-- '[[_Standards/WikiData/WD~autocracy,173424]]'
-- '[[_Standards/WikiData/WD~monarchy,7269]]'
+- '[[_Standards/WikiData/WD~autocracy,173424|WD~autocracy,173424]]'
+- '[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
 capital:
-- '[[_Standards/WikiData/WD~Mediolanum,729978]]'
-- '[[_Standards/WikiData/WD~Ravenna,115738657]]'
-- '[[_Standards/WikiData/WD~Ravenna,13364]]'
-currency: '[[_Standards/WikiData/WD~Roman_currency,952064]]'
+- '[[_Standards/WikiData/WD~Mediolanum,729978|WD~Mediolanum,729978]]'
+- '[[_Standards/WikiData/WD~Ravenna,115738657|WD~Ravenna,115738657]]'
+- '[[_Standards/WikiData/WD~Ravenna,13364|WD~Ravenna,13364]]'
+currency: '[[_Standards/WikiData/WD~Roman_currency,952064|WD~Roman_currency,952064]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
-legislative_body: '[[_Standards/WikiData/WD~Senate_of_the_Roman_Empire,3510883]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Western_Roman_emperor,111841409]]'
-official_religion: '[[_Standards/WikiData/WD~Christianity,5043]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
-shares_border_with: '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
+legislative_body: '[[_Standards/WikiData/WD~Senate_of_the_Roman_Empire,3510883|WD~Senate_of_the_Roman_Empire,3510883]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Western_Roman_emperor,111841409|WD~Western_Roman_emperor,111841409]]'
+official_religion: '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+shares_border_with: '[[_Standards/WikiData/WD~Byzantine_Empire,12544|WD~Byzantine_Empire,12544]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 area: 2534957
 OmegaWiki_Defined_Meaning: 810579
 locator_map_image:

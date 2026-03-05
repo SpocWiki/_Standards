@@ -27,11 +27,11 @@ tags:
 title: has_id_account
 type: Pred_Text
 dv_has_:
-  domain: "[[../../Class/is_a_/Intangible/Invoice]]"
+  domain: "[[../../Class/is_a_/Intangible/Invoice|Invoice]]"
   name: has_id_account
-  range: "[[../../Class/is_a_/Data_Type/Text]]"
+  range: "[[../../Class/is_a_/Data_Type/Text|Text]]"
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_account|has_id_account]]"
@@ -41,10 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_name/has_id_account.private|has_id_account.private]]"
     - "[[/_personal/schema-org/Property/has_name/has_id_account.personal|has_id_account.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_id_account.secret|has_id_account.secret]]"
-dv_has_domain: "[[../../Class/is_a_/Intangible/Invoice]]"
+dv_has_domain: "[[../../Class/is_a_/Intangible/Invoice|Invoice]]"
 dv_has_name: has_id_account
-dv_has_range: "[[../../Class/is_a_/Data_Type/Text]]"
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_range: "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_name/has_id_account|has_id_account]]"
   - "[[/_public/schema-org/Property/has_name/has_id_account.public|has_id_account.public]]"

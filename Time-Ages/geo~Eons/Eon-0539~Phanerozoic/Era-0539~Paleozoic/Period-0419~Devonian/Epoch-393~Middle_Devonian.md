@@ -37,10 +37,10 @@ aliases:
 - 中泥盆世
 has_id_wikidata: Q731313
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q49763553,49763553]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q49763553,49763553|WD~Q49763553,49763553]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -393300000-01-01T00:00:00Z
 end_time: -382700000-01-01T00:00:00Z
 sRGB_color_hex_triplet: F6C87A
@@ -147,7 +147,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 393.3 to 382.7 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-390_Ma_(Eifelian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-390_Ma_(Eifelian_Age).png|Earth-390_Ma_(Eifelian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

@@ -41,20 +41,20 @@ aliases:
 - 렙톤
 has_id_wikidata: Q82586
 has_characteristic:
-- '[[_Standards/WikiData/WD~baryon_number,110346]]'
-- '[[_Standards/WikiData/WD~lepton_number,174012]]'
-different_from: '[[_Standards/WikiData/WD~Lepton,398843]]'
+- '[[_Standards/WikiData/WD~baryon_number,110346|WD~baryon_number,110346]]'
+- '[[_Standards/WikiData/WD~lepton_number,174012|WD~lepton_number,174012]]'
+different_from: '[[_Standards/WikiData/WD~Lepton,398843|WD~Lepton,398843]]'
 interaction:
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
-has_list: '[[_Standards/WikiData/WD~Q4434516,4434516]]'
-has_superpartner: '[[_Standards/WikiData/WD~slepton,6130374]]'
-antiparticle: '[[_Standards/WikiData/WD~antilepton,9617716]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418|WD~weak_interaction,11418]]'
+has_list: '[[_Standards/WikiData/WD~Q4434516,4434516|WD~Q4434516,4434516]]'
+has_superpartner: '[[_Standards/WikiData/WD~slepton,6130374|WD~slepton,6130374]]'
+antiparticle: '[[_Standards/WikiData/WD~antilepton,9617716|WD~antilepton,9617716]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015|WD~type_of_quantum_particle,22675015]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~leptonic_matter,28728519]]'
-- '[[_Standards/WikiData/WD~fermion,44363]]'
+- '[[_Standards/WikiData/WD~leptonic_matter,28728519|WD~leptonic_matter,28728519]]'
+- '[[_Standards/WikiData/WD~fermion,44363|WD~fermion,44363]]'
 spin_quantum_number: 0.5
 OmegaWiki_Defined_Meaning: 1014667
 schematic:

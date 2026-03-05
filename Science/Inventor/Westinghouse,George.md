@@ -27,30 +27,30 @@ aliases:
 - 조지 웨스팅하우스
 has_id_wikidata: Q262367
 occupation:
-- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-- '[[_Standards/WikiData/WD~inventor,205375]]'
-place_of_burial: '[[_Standards/WikiData/WD~Arlington_National_Cemetery,216344]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524|WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~inventor,205375|WD~inventor,205375]]'
+place_of_burial: '[[_Standards/WikiData/WD~Arlington_National_Cemetery,216344|WD~Arlington_National_Cemetery,216344]]'
 award_received:
-- '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
-- '[[_Standards/WikiData/WD~John_Fritz_Medal,6234290]]'
-- '[[_Standards/WikiData/WD~Grashof_Commemorative_Medal,106110409]]'
-educated_at: '[[_Standards/WikiData/WD~Union_College,1567748]]'
-residence: '[[_Standards/WikiData/WD~George_Westinghouse,_Jr.,_Birthplace_and_Boyhood_Home,5546178]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-place_of_birth: '[[_Standards/WikiData/WD~Central_Bridge,12156499]]'
-given_name: '[[_Standards/WikiData/WD~George,15921732]]'
+- '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018|WD~National_Inventors_Hall_of_Fame,1366018]]'
+- '[[_Standards/WikiData/WD~John_Fritz_Medal,6234290|WD~John_Fritz_Medal,6234290]]'
+- '[[_Standards/WikiData/WD~Grashof_Commemorative_Medal,106110409|WD~Grashof_Commemorative_Medal,106110409]]'
+educated_at: '[[_Standards/WikiData/WD~Union_College,1567748|WD~Union_College,1567748]]'
+residence: '[[_Standards/WikiData/WD~George_Westinghouse,_Jr.,_Birthplace_and_Boyhood_Home,5546178|WD~George_Westinghouse,_Jr.,_Birthplace_and_Boyhood_Home,5546178]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+place_of_birth: '[[_Standards/WikiData/WD~Central_Bridge,12156499|WD~Central_Bridge,12156499]]'
+given_name: '[[_Standards/WikiData/WD~George,15921732|WD~George,15921732]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-child: '[[_Standards/WikiData/WD~George_Westinghouse_III,75499256]]'
-family_name: '[[_Standards/WikiData/WD~Westinghouse,110089588]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+child: '[[_Standards/WikiData/WD~George_Westinghouse_III,75499256|WD~George_Westinghouse_III,75499256]]'
+family_name: '[[_Standards/WikiData/WD~Westinghouse,110089588|WD~Westinghouse,110089588]]'
 date_of_birth: 1846-10-06T00:00:00Z
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
-place_of_death: '[[_Standards/WikiData/WD~New_York_City,60]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
 Commons_Creator_page: George Westinghouse
 Commons_category: George Westinghouse
 image: http://commons.wikimedia.org/wiki/Special:FilePath/George%20Westinghouse.jpg

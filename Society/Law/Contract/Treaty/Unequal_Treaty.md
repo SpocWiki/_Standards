@@ -40,8 +40,8 @@ aliases:
 - 不平等條約
 - 불평등 조약
 has_id_wikidata: Q864737
-subclass_of: '[[_Standards/WikiData/WD~treaty,131569]]'
-instance_of: '[[_Standards/WikiData/WD~term,1969448]]'
+subclass_of: '[[_Standards/WikiData/WD~treaty,131569|WD~treaty,131569]]'
+instance_of: '[[_Standards/WikiData/WD~term,1969448|WD~term,1969448]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/China%20imperialism%20cartoon.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Pam%C4%9Btn%C3%AD%20deska%20podpisu%20Pekingsk%C3%A9%20smlouvy%2028.%20%C5%99%C3%ADjna%201860%2C%20%C4%8Ccheng-te.jpg

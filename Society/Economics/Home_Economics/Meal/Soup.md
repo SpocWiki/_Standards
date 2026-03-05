@@ -127,21 +127,21 @@ aliases:
 - 국
 has_id_wikidata: Q41415
 has_part_s_:
-- '[[_Standards/WikiData/WD~broth,275068]]'
-- '[[_Standards/WikiData/WD~dressing,12105882]]'
-- '[[_Standards/WikiData/WD~liquid,11435]]'
-- '[[_Standards/WikiData/WD~spice,42527]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~broth,275068]]'
-subclass_of: '[[_Standards/WikiData/WD~dish,746549]]'
+- '[[_Standards/WikiData/WD~broth,275068|WD~broth,275068]]'
+- '[[_Standards/WikiData/WD~dressing,12105882|WD~dressing,12105882]]'
+- '[[_Standards/WikiData/WD~liquid,11435|WD~liquid,11435]]'
+- '[[_Standards/WikiData/WD~spice,42527|WD~spice,42527]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~broth,275068|WD~broth,275068]]'
+subclass_of: '[[_Standards/WikiData/WD~dish,746549|WD~dish,746549]]'
 part_of:
-- '[[_Standards/WikiData/WD~Ukrainian_cuisine,1503789]]'
-- '[[_Standards/WikiData/WD~Algerian_cuisine,3006881]]'
-- '[[_Standards/WikiData/WD~French_cuisine,6661]]'
-- '[[_Standards/WikiData/WD~Russian_cuisine,12505]]'
-follows: '[[_Standards/WikiData/WD~appetizer,1628963]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-followed_by: '[[_Standards/WikiData/WD~plat_de_relevé,58717221]]'
+- '[[_Standards/WikiData/WD~Ukrainian_cuisine,1503789|WD~Ukrainian_cuisine,1503789]]'
+- '[[_Standards/WikiData/WD~Algerian_cuisine,3006881|WD~Algerian_cuisine,3006881]]'
+- '[[_Standards/WikiData/WD~French_cuisine,6661|WD~French_cuisine,6661]]'
+- '[[_Standards/WikiData/WD~Russian_cuisine,12505|WD~Russian_cuisine,12505]]'
+follows: '[[_Standards/WikiData/WD~appetizer,1628963|WD~appetizer,1628963]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951|WD~type_of_food_or_dish,19861951]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+followed_by: '[[_Standards/WikiData/WD~plat_de_relevé,58717221|WD~plat_de_relevé,58717221]]'
 USDA_NDB_number:
 - 06974
 - 06444

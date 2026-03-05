@@ -256,9 +256,9 @@ dv_UNTERM_Chinese_Formal: 所罗门群岛
 dv_UNTERM_French_Formal: les Îles Salomon
 dv_UNTERM_Russian: Соломоновы Острова
 dv_UNTERM_Russian_Formal: Соломоновы Острова
-dv_Region_Name: '[[../../Oceania]]'
+dv_Region_Name: '[[../../Oceania|Oceania]]'
 dv_Intermediate_Region_Name: '[[Solomon_Islands]]'
-dv_Sub-region_Name: '[[../Melanesia]]'
+dv_Sub-region_Name: '[[../Melanesia|Melanesia]]'
 dv_Region: 9
 dv_Sub-region: 54
 dv_Geoname-ID: 2103350
@@ -294,9 +294,9 @@ dv_is_:
 dv_has_name_de: Salomonen
 dv_Area-Total: 29785
 dv_Area-Land: 27990
-dv_has_place_continent: '[[../../Oceania]]'
+dv_has_place_continent: '[[../../Oceania|Oceania]]'
 dv_VehicleCode: SOL
-dv_Capital: '[[Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara]]'
+dv_Capital: '[[Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara|Honiara]]'
 dv_Alcohol-l: 1.7
 dv_Language-Id: 499
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'

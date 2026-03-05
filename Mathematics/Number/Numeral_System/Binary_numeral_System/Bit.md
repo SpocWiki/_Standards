@@ -46,16 +46,16 @@ aliases:
 - 비트
 has_id_wikidata: Q8805
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~unit_of_information,3550873]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~unit_of_information,3550873|WD~unit_of_information,3550873]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~quantity,309314]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-part_of: '[[_Standards/WikiData/WD~International_System_of_Quantities,16203461]]'
+- '[[_Standards/WikiData/WD~quantity,309314|WD~quantity,309314]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+part_of: '[[_Standards/WikiData/WD~International_System_of_Quantities,16203461|WD~International_System_of_Quantities,16203461]]'
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~information,71699827]]'
-- '[[_Standards/WikiData/WD~equivalent_binary_storage_capacity,106247681]]'
+- '[[_Standards/WikiData/WD~information,71699827|WD~information,71699827]]'
+- '[[_Standards/WikiData/WD~equivalent_binary_storage_capacity,106247681|WD~equivalent_binary_storage_capacity,106247681]]'
 conversion_to_standard_unit:
 - 0.6931471805599453
 - 1
@@ -63,7 +63,7 @@ conversion_to_standard_unit:
 - 0.125
 - 0.0009765625
 different_from:
-- '[[_Standards/WikiData/WD~byte,8799]]'
+- '[[_Standards/WikiData/WD~byte,8799|WD~byte,8799]]'
 ComputerLanguage_com_definition: bit
 UCUM_code: bit
 unit_symbol:

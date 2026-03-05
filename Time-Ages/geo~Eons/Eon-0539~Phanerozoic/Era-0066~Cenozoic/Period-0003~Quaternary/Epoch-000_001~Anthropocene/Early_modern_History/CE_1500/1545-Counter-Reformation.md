@@ -75,23 +75,23 @@ aliases:
 - 반종교개혁
 has_id_wikidata: Q128168
 instance_of:
-- '[[_Standards/WikiData/WD~doctrine,117850]]'
-- '[[_Standards/WikiData/WD~reformism,1323572]]'
-- '[[_Standards/WikiData/WD~religious_controversy,7311342]]'
-- '[[_Standards/WikiData/WD~religious_revival,7311395]]'
-- '[[_Standards/WikiData/WD~social_movement,49773]]'
+- '[[_Standards/WikiData/WD~doctrine,117850|WD~doctrine,117850]]'
+- '[[_Standards/WikiData/WD~reformism,1323572|WD~reformism,1323572]]'
+- '[[_Standards/WikiData/WD~religious_controversy,7311342|WD~religious_controversy,7311342]]'
+- '[[_Standards/WikiData/WD~religious_revival,7311395|WD~religious_revival,7311395]]'
+- '[[_Standards/WikiData/WD~social_movement,49773|WD~social_movement,49773]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
-has_effect: '[[_Standards/WikiData/WD~second_scholasticism,7443754]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Counter_Reformation,26869078]]'
-part_of: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903|WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
+has_effect: '[[_Standards/WikiData/WD~second_scholasticism,7443754|WD~second_scholasticism,7443754]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Counter_Reformation,26869078|WD~Template_Counter_Reformation,26869078]]'
+part_of: '[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
 location:
-- '[[_Standards/WikiData/WD~Western_Europe,27496]]'
-- '[[_Standards/WikiData/WD~Central_Europe,27509]]'
+- '[[_Standards/WikiData/WD~Western_Europe,27496|WD~Western_Europe,27496]]'
+- '[[_Standards/WikiData/WD~Central_Europe,27509|WD~Central_Europe,27509]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Allegoria%20della%20battaglia%20di%20Lepanto%20-%20Gallerie%20Accademia.jpg
 start_time: 1545-01-01T00:00:00Z
 inception: 1545-01-01T00:00:00Z

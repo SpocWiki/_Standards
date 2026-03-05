@@ -29,7 +29,7 @@ aliases:
 - 片場系統
 - 스튜디오 시스템
 has_id_wikidata: Q11307668
-subclass_of: '[[_Standards/WikiData/WD~filmmaking,932586]]'
+subclass_of: '[[_Standards/WikiData/WD~filmmaking,932586|WD~filmmaking,932586]]'
 dv_has_:
   name_:
     ar: نظام إستديو

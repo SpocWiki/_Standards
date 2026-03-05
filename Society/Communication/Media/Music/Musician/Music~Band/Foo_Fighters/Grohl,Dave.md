@@ -112,7 +112,7 @@ dv_has_:
 
 > David Eric Grohl (; born January 14, 1969) is an American musician. 
 > He is the founder of the rock band Foo Fighters, for which he is the lead singer, guitarist, and principal songwriter. 
-> Prior to forming Foo Fighters, he was the drummer of the grunge [[../Nirvana(Band)]] from 1990 to 1994.
+> Prior to forming Foo Fighters, he was the drummer of the grunge [[../Nirvana(Band)|Nirvana(Band)]] from 1990 to 1994.
 >
 > In 1986, at age 17, Grohl joined the punk rock band Scream, following the departure of their drummer, Kent Stax. Grohl became the drummer for Nirvana after Scream broke up in 1990. Nirvana's second album, Nevermind (1991), was the first to feature Grohl on drums and became a worldwide success. After Nirvana disbanded following the suicide of Kurt Cobain in 1994, Grohl formed Foo Fighters as a one-man project, releasing the self-titled album Foo Fighters in 1995. A full band was assembled to tour and record under the Foo Fighters name. They have since released 11 studio albums.
 >

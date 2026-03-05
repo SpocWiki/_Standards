@@ -80,17 +80,17 @@ aliases:
 - 군사작전
 has_id_wikidata: Q645883
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~occurrence,1190554]]'
-- '[[_Standards/WikiData/WD~military_action,15835236]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_military_operation,7046229]]'
+- '[[_Standards/WikiData/WD~occurrence,1190554|WD~occurrence,1190554]]'
+- '[[_Standards/WikiData/WD~military_action,15835236|WD~military_action,15835236]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_military_operation,7046229|WD~Template_Infobox_military_operation,7046229]]'
 different_from:
-- '[[_Standards/WikiData/WD~Operations_(military_staff),12411096]]'
-- '[[_Standards/WikiData/WD~military_action,15835236]]'
-is_part_of: '[[_Standards/WikiData/WD~warfare,12786121]]'
+- '[[_Standards/WikiData/WD~Operations_(military_staff),12411096|WD~Operations_(military_staff),12411096]]'
+- '[[_Standards/WikiData/WD~military_action,15835236|WD~military_action,15835236]]'
+is_part_of: '[[_Standards/WikiData/WD~warfare,12786121|WD~warfare,12786121]]'
 properties_for_this_type:
 - location
 - is part of

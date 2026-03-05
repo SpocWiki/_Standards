@@ -29,7 +29,7 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Scratch%20(programming%20language)) 
 
 
-![[../../../../../../assets/Knowledge/Prog~Scratch.png]] 
+![[../../../../../../assets/Knowledge/Prog~Scratch.png|Prog~Scratch.png]] 
 
 Scratch uses 2 Notches to compose Blocks. 
 - a Block is a single Statement or Function Call and has 2 Notches: 
@@ -39,7 +39,7 @@ Scratch uses 2 Notches to compose Blocks.
 	- Stop has no Bottom Notch, because it stops execution of either this or all Threads 
 - Loops have a Body where you can plug Blocks into 
 - If-Then-Else has 2 Bodies 
-- boolean Expressions (used in IFs and LOOPs) have a [[../../../../../../../../Mathematics/Geometry/Geometry-2D/Rhombus]] Shape 
+- boolean Expressions (used in IFs and LOOPs) have a [[../../../../../../../../Mathematics/Geometry/Geometry-2D/Rhombus|Rhombus]] Shape 
 - other Expressions have a rounded [[../../../../../../Knowledge/Math/Geometry/2D-Geometry/Squircle|Squircle]] 
 - 
 

@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A scholarly article.
 
-#has_/parent_class :: [[../Article]]  
+#has_/parent_class :: [[../Article|Article]]  
 
 #has_/child_/class :: [ MedicalScholarlyArticle ]  
 

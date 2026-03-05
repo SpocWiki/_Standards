@@ -40,11 +40,11 @@ aliases:
 ischart: UpperTriassic
 has_id_wikidata: Q917293
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Late_Triassic,21607950]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-named_after: '[[_Standards/WikiData/WD~Q201,201]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Late_Triassic,21607950|WD~Category_Late_Triassic,21607950]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+named_after: '[[_Standards/WikiData/WD~Q201,201|WD~Q201,201]]'
 Commons_category: Late Triassic
 end_time: -201300000-01-01T00:00:00Z
 start_time: -237000000-01-01T00:00:00Z
@@ -164,7 +164,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 237 to 201.4 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-220_Ma_(Norian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-220_Ma_(Norian_Age).png|Earth-220_Ma_(Norian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

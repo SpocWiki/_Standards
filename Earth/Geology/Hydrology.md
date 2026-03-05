@@ -73,30 +73,30 @@ aliases:
 - 水文學
 - 수문학
 has_id_wikidata: Q42250
-different_from: '[[_Standards/WikiData/WD~hydrography,182468]]'
+different_from: '[[_Standards/WikiData/WD~hydrography,182468|WD~hydrography,182468]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrography,182468]]'
-- '[[_Standards/WikiData/WD~hydrometry,1366172]]'
-- '[[_Standards/WikiData/WD~surface_water_hydrology,2627395]]'
-- '[[_Standards/WikiData/WD~hydrological_prognosis,17455059]]'
-- '[[_Standards/WikiData/WD~hydrologic_engineering,72358999]]'
+- '[[_Standards/WikiData/WD~hydrography,182468|WD~hydrography,182468]]'
+- '[[_Standards/WikiData/WD~hydrometry,1366172|WD~hydrometry,1366172]]'
+- '[[_Standards/WikiData/WD~surface_water_hydrology,2627395|WD~surface_water_hydrology,2627395]]'
+- '[[_Standards/WikiData/WD~hydrological_prognosis,17455059|WD~hydrological_prognosis,17455059]]'
+- '[[_Standards/WikiData/WD~hydrologic_engineering,72358999|WD~hydrologic_engineering,72358999]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-is_the_study_of: '[[_Standards/WikiData/WD~water_balance,1148989]]'
-practiced_by: '[[_Standards/WikiData/WD~hydrologist,3644587]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_hydrology,7112662]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hydrology,18857154]]'
-subclass_of: '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+is_the_study_of: '[[_Standards/WikiData/WD~water_balance,1148989|WD~water_balance,1148989]]'
+practiced_by: '[[_Standards/WikiData/WD~hydrologist,3644587|WD~hydrologist,3644587]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_hydrology,7112662|WD~outline_of_hydrology,7112662]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hydrology,18857154|WD~Portal_Hydrology,18857154]]'
+subclass_of: '[[_Standards/WikiData/WD~science,336|WD~science,336]]'
 part_of:
-- '[[_Standards/WikiData/WD~geology,1069]]'
-- '[[_Standards/WikiData/WD~ecology,7150]]'
-- '[[_Standards/WikiData/WD~meteorology,25261]]'
+- '[[_Standards/WikiData/WD~geology,1069|WD~geology,1069]]'
+- '[[_Standards/WikiData/WD~ecology,7150|WD~ecology,7150]]'
+- '[[_Standards/WikiData/WD~meteorology,25261|WD~meteorology,25261]]'
 Dewey_Decimal_Classification: 551
 OmegaWiki_Defined_Meaning: 4112
 GitHub_topic: hydrology
@@ -234,7 +234,7 @@ dv_has_:
     zh_cn: 水文学
     zh_hans: 水文学
     zh_hant: 水文學
-  study_subject: '[[../Climate/Hydrosphere]]'
+  study_subject: '[[../Climate/Hydrosphere|Hydrosphere]]'
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Hydrology,42250|WD~Hydrology,42250]]'
@@ -245,7 +245,7 @@ dv_is_:
   - '[[/_private/Earth/Geology/Hydrology.private|Hydrology.private]]'
   - '[[/_personal/Earth/Geology/Hydrology.personal|Hydrology.personal]]'
   - '[[/_secret/Earth/Geology/Hydrology.secret|Hydrology.secret]]'
-dv_has_study_subject: '[[../Climate/Hydrosphere]]'
+dv_has_study_subject: '[[../Climate/Hydrosphere|Hydrosphere]]'
 dv_is_same_as:
 - '[[../../WikiData/WD~Hydrology,42250|WD~Hydrology,42250]]'
 - '[[/_Standards/Earth/Geology/Hydrology|Hydrology]]'

@@ -35,11 +35,11 @@ aliases:
 - 융합기술
 has_id_wikidata: Q2207328
 subclass_of:
-- '[[_Standards/WikiData/WD~phenomenon,483247]]'
-- '[[_Standards/WikiData/WD~trend,1514415]]'
-- '[[_Standards/WikiData/WD~process,3249551]]'
-facet_of: '[[_Standards/WikiData/WD~technology_industry,21157865]]'
-different_from: '[[_Standards/WikiData/WD~integration,55166859]]'
+- '[[_Standards/WikiData/WD~phenomenon,483247|WD~phenomenon,483247]]'
+- '[[_Standards/WikiData/WD~trend,1514415|WD~trend,1514415]]'
+- '[[_Standards/WikiData/WD~process,3249551|WD~process,3249551]]'
+facet_of: '[[_Standards/WikiData/WD~technology_industry,21157865|WD~technology_industry,21157865]]'
+different_from: '[[_Standards/WikiData/WD~integration,55166859|WD~integration,55166859]]'
 Commons_category: Technological convergence
 dv_has_:
   name_:

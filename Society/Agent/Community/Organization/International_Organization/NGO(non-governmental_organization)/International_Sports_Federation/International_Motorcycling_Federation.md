@@ -31,14 +31,14 @@ aliases:
 - 國際電單車賽車協會
 - 국제 모터사이클 연맹
 has_id_wikidata: Q430371
-headquarters_locations: '[[_Standards/WikiData/WD~Mies,69329]]'
-sport: '[[_Standards/WikiData/WD~motorcycle_sport,328716]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Mies,69329|WD~Mies,69329]]'
+sport: '[[_Standards/WikiData/WD~motorcycle_sport,328716|WD~motorcycle_sport,328716]]'
 member_of:
-- '[[_Standards/WikiData/WD~Association_of_IOC_Recognised_International_Sports_Federations,744105]]'
-- '[[_Standards/WikiData/WD~Global_Association_of_International_Sports_Federations,1067053]]'
-- '[[_Standards/WikiData/WD~European_Transport_Safety_Council,50040960]]'
-instance_of: '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+- '[[_Standards/WikiData/WD~Association_of_IOC_Recognised_International_Sports_Federations,744105|WD~Association_of_IOC_Recognised_International_Sports_Federations,744105]]'
+- '[[_Standards/WikiData/WD~Global_Association_of_International_Sports_Federations,1067053|WD~Global_Association_of_International_Sports_Federations,1067053]]'
+- '[[_Standards/WikiData/WD~European_Transport_Safety_Council,50040960|WD~European_Transport_Safety_Council,50040960]]'
+instance_of: '[[_Standards/WikiData/WD~international_sport_governing_body,11422536|WD~international_sport_governing_body,11422536]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
 donations: 15000
 social_media_followers:
 - 95000

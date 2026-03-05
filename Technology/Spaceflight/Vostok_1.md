@@ -31,26 +31,26 @@ aliases:
 - 보스토크 1호
 has_id_wikidata: Q182524
 start_point:
-- '[[_Standards/WikiData/WD~Baikonur_Cosmodrome,177477]]'
-- "[[_Standards/WikiData/WD~Gagarin's_Start,2580456]]"
-followed_by: '[[_Standards/WikiData/WD~Vostok_2,221678]]'
+- '[[_Standards/WikiData/WD~Baikonur_Cosmodrome,177477|WD~Baikonur_Cosmodrome,177477]]'
+- "[[_Standards/WikiData/WD~Gagarin's_Start,2580456|WD~Gagarin's_Start,2580456]]"
+followed_by: '[[_Standards/WikiData/WD~Vostok_2,221678|WD~Vostok_2,221678]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Vostok,624038]]'
-- '[[_Standards/WikiData/WD~human_spaceflight,752783]]'
-type_of_orbit: '[[_Standards/WikiData/WD~low_Earth_orbit,663611]]'
-manufacturer: '[[_Standards/WikiData/WD~S.P._Korolev_Rocket_and_Space_Corporation_Energia,763402]]'
+- '[[_Standards/WikiData/WD~Vostok,624038|WD~Vostok,624038]]'
+- '[[_Standards/WikiData/WD~human_spaceflight,752783|WD~human_spaceflight,752783]]'
+type_of_orbit: '[[_Standards/WikiData/WD~low_Earth_orbit,663611|WD~low_Earth_orbit,663611]]'
+manufacturer: '[[_Standards/WikiData/WD~S.P._Korolev_Rocket_and_Space_Corporation_Energia,763402|WD~S.P._Korolev_Rocket_and_Space_Corporation_Energia,763402]]'
 significant_event:
-- '[[_Standards/WikiData/WD~rocket_launch,797476]]'
-- '[[_Standards/WikiData/WD~landing,844947]]'
+- '[[_Standards/WikiData/WD~rocket_launch,797476|WD~rocket_launch,797476]]'
+- '[[_Standards/WikiData/WD~landing,844947|WD~landing,844947]]'
 space_launch_vehicle:
-- '[[_Standards/WikiData/WD~Vostok,841262]]'
-- '[[_Standards/WikiData/WD~Vostok_K,3303767]]'
-operator: '[[_Standards/WikiData/WD~Soviet_space_program,849730]]'
-different_from: '[[_Standards/WikiData/WD~Vostok_1,3015194]]'
-crew_member: '[[_Standards/WikiData/WD~Yuri_Gagarin,7327]]'
-country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Vostok,841262|WD~Vostok,841262]]'
+- '[[_Standards/WikiData/WD~Vostok_K,3303767|WD~Vostok_K,3303767]]'
+operator: '[[_Standards/WikiData/WD~Soviet_space_program,849730|WD~Soviet_space_program,849730]]'
+different_from: '[[_Standards/WikiData/WD~Vostok_1,3015194|WD~Vostok_1,3015194]]'
+crew_member: '[[_Standards/WikiData/WD~Yuri_Gagarin,7327|WD~Yuri_Gagarin,7327]]'
+country: '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
 orbits_completed: 1
-location_of_landing: '[[_Standards/WikiData/WD~Kazakhstan,232]]'
+location_of_landing: '[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]'
 diameter: 2.3
 periapsis: 169
 apoapsis: 327

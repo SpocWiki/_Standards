@@ -72,16 +72,16 @@ aliases:
 - 정전
 has_id_wikidata: Q208383
 different_from:
-- '[[_Standards/WikiData/WD~armistice,107706]]'
-- '[[_Standards/WikiData/WD~peace_treaty,625298]]'
-- '[[_Standards/WikiData/WD~debellatio,971076]]'
+- '[[_Standards/WikiData/WD~armistice,107706|WD~armistice,107706]]'
+- '[[_Standards/WikiData/WD~peace_treaty,625298|WD~peace_treaty,625298]]'
+- '[[_Standards/WikiData/WD~debellatio,971076|WD~debellatio,971076]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~agreement,2006324]]'
-- '[[_Standards/WikiData/WD~historical_event,13418847]]'
-- '[[_Standards/WikiData/WD~pause,17562059]]'
-facet_of: '[[_Standards/WikiData/WD~law_of_war,6833880]]'
-studied_by: '[[_Standards/WikiData/WD~war_termination,7968744]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~agreement,2006324|WD~agreement,2006324]]'
+- '[[_Standards/WikiData/WD~historical_event,13418847|WD~historical_event,13418847]]'
+- '[[_Standards/WikiData/WD~pause,17562059|WD~pause,17562059]]'
+facet_of: '[[_Standards/WikiData/WD~law_of_war,6833880|WD~law_of_war,6833880]]'
+studied_by: '[[_Standards/WikiData/WD~war_termination,7968744|WD~war_termination,7968744]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 dv_has_:
   name_:
     ar: وقف إطلاق نار

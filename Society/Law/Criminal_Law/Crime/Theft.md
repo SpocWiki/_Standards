@@ -90,29 +90,29 @@ aliases:
 - 절도
 has_id_wikidata: Q2727213
 subclass_of:
-- '[[_Standards/WikiData/WD~crime,83267]]'
-- '[[_Standards/WikiData/WD~taking,110458263]]'
+- '[[_Standards/WikiData/WD~crime,83267|WD~crime,83267]]'
+- '[[_Standards/WikiData/WD~taking,110458263|WD~taking,110458263]]'
 main_regulatory_text:
-- '[[_Standards/WikiData/WD~Criminal_Code_of_Russia,747110]]'
-- '[[_Standards/WikiData/WD~Criminal_Code_of_Ukraine,5761127]]'
-- '[[_Standards/WikiData/WD~Criminal_Code_Act,19727767]]'
-instance_of: '[[_Standards/WikiData/WD~property_crime,857984]]'
+- '[[_Standards/WikiData/WD~Criminal_Code_of_Russia,747110|WD~Criminal_Code_of_Russia,747110]]'
+- '[[_Standards/WikiData/WD~Criminal_Code_of_Ukraine,5761127|WD~Criminal_Code_of_Ukraine,5761127]]'
+- '[[_Standards/WikiData/WD~Criminal_Code_Act,19727767|WD~Criminal_Code_Act,19727767]]'
+instance_of: '[[_Standards/WikiData/WD~property_crime,857984|WD~property_crime,857984]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- "[[_Standards/WikiData/WD~Encyclopaedia_of_the_Qur'ān,2617708]]"
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~anti_theft_system,2853416]]'
-practiced_by: '[[_Standards/WikiData/WD~thief,3562775]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q5701478,5701478]]'
-foundational_text: '[[_Standards/WikiData/WD~Thou_shalt_not_steal,12403826]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- "[[_Standards/WikiData/WD~Encyclopaedia_of_the_Qur'ān,2617708|WD~Encyclopaedia_of_the_Qur'ān,2617708]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240|WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~anti_theft_system,2853416|WD~anti_theft_system,2853416]]'
+practiced_by: '[[_Standards/WikiData/WD~thief,3562775|WD~thief,3562775]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q5701478,5701478|WD~Q5701478,5701478]]'
+foundational_text: '[[_Standards/WikiData/WD~Thou_shalt_not_steal,12403826|WD~Thou_shalt_not_steal,12403826]]'
 different_from:
-- '[[_Standards/WikiData/WD~Q18991817,18991817]]'
-- '[[_Standards/WikiData/WD~robbery,53706]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~looted_property,114050918]]'
+- '[[_Standards/WikiData/WD~Q18991817,18991817|WD~Q18991817,18991817]]'
+- '[[_Standards/WikiData/WD~robbery,53706|WD~robbery,53706]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~looted_property,114050918|WD~looted_property,114050918]]'
 IMDb_keyword:
 - theft
 - heist

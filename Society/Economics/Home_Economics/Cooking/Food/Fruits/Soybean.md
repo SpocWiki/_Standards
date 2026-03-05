@@ -194,40 +194,40 @@ taxon_common_name:
 short_name: G. max
 native_label: Kadelé
 instance_of:
-- '[[_Standards/WikiData/WD~allergen,186752]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~allergen,186752|WD~allergen,186752]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 has_use:
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~fodder,211439]]'
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~fodder,211439|WD~fodder,211439]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~annual_plant,192691]]'
-- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
-parent_taxon: '[[_Standards/WikiData/WD~Glycine,311395]]'
-different_from: '[[_Standards/WikiData/WD~Vigna_radiata,484447]]'
+- '[[_Standards/WikiData/WD~annual_plant,192691|WD~annual_plant,192691]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
+parent_taxon: '[[_Standards/WikiData/WD~Glycine,311395|WD~Glycine,311395]]'
+different_from: '[[_Standards/WikiData/WD~Vigna_radiata,484447|WD~Vigna_radiata,484447]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~soybean_oil,926892]]'
-- '[[_Standards/WikiData/WD~soya_lecithin,57657253]]'
-- '[[_Standards/WikiData/WD~soy_bean,61503220]]'
-- '[[_Standards/WikiData/WD~soy_extract,96094786]]'
-- '[[_Standards/WikiData/WD~soy_isoflavones,104636178]]'
+- '[[_Standards/WikiData/WD~soybean_oil,926892|WD~soybean_oil,926892]]'
+- '[[_Standards/WikiData/WD~soya_lecithin,57657253|WD~soya_lecithin,57657253]]'
+- '[[_Standards/WikiData/WD~soy_bean,61503220|WD~soy_bean,61503220]]'
+- '[[_Standards/WikiData/WD~soy_extract,96094786|WD~soy_extract,96094786]]'
+- '[[_Standards/WikiData/WD~soy_isoflavones,104636178|WD~soy_isoflavones,104636178]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_41,112869423]]'
-has_basionym: '[[_Standards/WikiData/WD~Phaseolus_max,21876206]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
-endemic_to: '[[_Standards/WikiData/WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_41,112869423|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_41,112869423]]'
+has_basionym: '[[_Standards/WikiData/WD~Phaseolus_max,21876206|WD~Phaseolus_max,21876206]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131|WD~2,99546131]]'
+endemic_to: '[[_Standards/WikiData/WD~Zambia,953|WD~Zambia,953]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Beijing,956]]'
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Fujian,41705]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
+- '[[_Standards/WikiData/WD~Beijing,956|WD~Beijing,956]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269|WD~Tibet_Autonomous_Region,17269]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Fujian,41705|WD~Fujian,41705]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+writing_system: '[[_Standards/WikiData/WD~Latin_script,8229|WD~Latin_script,8229]]'
 ITIS_TSN: 26716
 OmegaWiki_Defined_Meaning: 1194285
 Colon_Classification: J588

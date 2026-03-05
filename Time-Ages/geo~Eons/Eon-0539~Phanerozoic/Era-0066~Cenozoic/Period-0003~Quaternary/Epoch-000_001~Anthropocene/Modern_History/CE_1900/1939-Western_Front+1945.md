@@ -58,9 +58,9 @@ aliases:
 - 西部戦線
 - 서부 전선
 has_id_wikidata: Q216184
-instance_of: '[[_Standards/WikiData/WD~war_front,842332]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-location: '[[_Standards/WikiData/WD~Northern_Europe,27479]]'
+instance_of: '[[_Standards/WikiData/WD~war_front,842332|WD~war_front,842332]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+location: '[[_Standards/WikiData/WD~Northern_Europe,27479|WD~Northern_Europe,27479]]'
 end_time: 1945-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1944%20NormandyLST.jpg
 Commons_category: Western Front (World War II)

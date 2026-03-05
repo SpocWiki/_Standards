@@ -560,7 +560,7 @@ dv_has_:
     started: 1993-11-01T00:00:00.000+01:00
   treaties:
   - '[[EU-Treaty_of_Maastricht]]'
-  - '[[Europe~Central/EU-Treaty_of_Lisbon]]'
+  - '[[Europe~Central/EU-Treaty_of_Lisbon|EU-Treaty_of_Lisbon]]'
 dv_is_:
   same_as:
   - '[[/_Standards/Earth/Continent/Europe/EU(European_Union)|EU(European_Union)]]'
@@ -576,7 +576,7 @@ dv_has_event_created: '[[EU-Treaty_of_Maastricht]]'
 dv_has_member_count: 27
 dv_has_treaties:
 - '[[EU-Treaty_of_Maastricht]]'
-- '[[Europe~Central/EU-Treaty_of_Lisbon]]'
+- '[[Europe~Central/EU-Treaty_of_Lisbon|EU-Treaty_of_Lisbon]]'
 dv_has_code: EU
 dv_has_image_for_flag: '![Flag|350](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg)'
 dv_has_image_for_coat_of_arms: '[[Seal_of_Europe.svg|350]]'
@@ -614,7 +614,7 @@ but some are counted separately like [[Europe~West/France~Metropolitan|France~Me
 ### 
 
 #has_/treaties :: [[EU-Treaty_of_Maastricht]] 
-#has_/treaties :: [[Europe~Central/EU-Treaty_of_Lisbon]] 
+#has_/treaties :: [[Europe~Central/EU-Treaty_of_Lisbon|EU-Treaty_of_Lisbon]] 
 
 
 ## #has_/text_of_/abstract 
@@ -669,7 +669,7 @@ has_image_for_flag = `=this.dv_has_image_for_flag`
 ## #has_/image_for_/coat_of_arms 
 has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Eu-long.mp3]]
+![[../../../../_public/xLarge.public/National-Anthem/Anthem-Eu-long.mp3|Anthem-Eu-long.mp3]]
 
 ![[Flag_of_Europe.svg|350]]
 

@@ -27,9 +27,9 @@ tags:
 title: is_pre_sale Class
 type: Type
 dv_has_:
-  parent_class: "[[../ItemAvailability]]"
+  parent_class: "[[../ItemAvailability|ItemAvailability]]"
 dv_is_:
-  enum_of: "[[../ItemAvailability]]"
+  enum_of: "[[../ItemAvailability|ItemAvailability]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Item_Availability/Pre_Sale|Pre_Sale]]"
     - "[[/_public/schema-org/Enumeration/Item_Availability/Pre_Sale.public|Pre_Sale.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Item_Availability/Pre_Sale.personal|Pre_Sale.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability/Pre_Sale.secret|Pre_Sale.secret]]"
     - "[[Pre_Sale]]"
-dv_has_parent_class: "[[../ItemAvailability]]"
-dv_is_enum_of: "[[../ItemAvailability]]"
+dv_has_parent_class: "[[../ItemAvailability|ItemAvailability]]"
+dv_is_enum_of: "[[../ItemAvailability|ItemAvailability]]"
 dv_is_same_as:
   - "[[Pre_Sale]]"
   - "[[/_public/schema-org/Enumeration/Item_Availability/Pre_Sale.public|Pre_Sale.public]]"

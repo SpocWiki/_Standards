@@ -77,26 +77,26 @@ aliases:
 - 신성 로마 제국의 황제
 has_id_wikidata: Q181765
 instance_of:
-- '[[_Standards/WikiData/WD~noble_title,355567]]'
-- '[[_Standards/WikiData/WD~elective_office,17279032]]'
-- '[[_Standards/WikiData/WD~historical_position,114962596]]'
-- '[[_Standards/WikiData/WD~head_of_state,48352]]'
+- '[[_Standards/WikiData/WD~noble_title,355567|WD~noble_title,355567]]'
+- '[[_Standards/WikiData/WD~elective_office,17279032|WD~elective_office,17279032]]'
+- '[[_Standards/WikiData/WD~historical_position,114962596|WD~historical_position,114962596]]'
+- '[[_Standards/WikiData/WD~head_of_state,48352|WD~head_of_state,48352]]'
 different_from:
-- '[[_Standards/WikiData/WD~German_Emperor,501503]]'
-- '[[_Standards/WikiData/WD~King_of_the_Romans,782985]]'
-replaced_by: '[[_Standards/WikiData/WD~German_Emperor,501503]]'
-elected_in: '[[_Standards/WikiData/WD~Imperial_election_(Holy_Roman_Empire),832107]]'
-spouse: '[[_Standards/WikiData/WD~archduke_of_Austria,3944505]]'
-has_characteristic: '[[_Standards/WikiData/WD~male,6581097]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Holy_Roman_Emperors,7025389]]'
-has_list: '[[_Standards/WikiData/WD~list_of_Holy_Roman_Emperors,8336442]]'
+- '[[_Standards/WikiData/WD~German_Emperor,501503|WD~German_Emperor,501503]]'
+- '[[_Standards/WikiData/WD~King_of_the_Romans,782985|WD~King_of_the_Romans,782985]]'
+replaced_by: '[[_Standards/WikiData/WD~German_Emperor,501503|WD~German_Emperor,501503]]'
+elected_in: '[[_Standards/WikiData/WD~Imperial_election_(Holy_Roman_Empire),832107|WD~Imperial_election_(Holy_Roman_Empire),832107]]'
+spouse: '[[_Standards/WikiData/WD~archduke_of_Austria,3944505|WD~archduke_of_Austria,3944505]]'
+has_characteristic: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Holy_Roman_Emperors,7025389|WD~Category_Holy_Roman_Emperors,7025389]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Holy_Roman_Emperors,8336442|WD~list_of_Holy_Roman_Emperors,8336442]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~emperor_of_the_Occident,23906200]]'
-- '[[_Standards/WikiData/WD~emperor,39018]]'
-replaces: '[[_Standards/WikiData/WD~Carolingian_Roman_emperor,111841382]]'
-organization_directed_by_the_office_or_position: '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
-applies_to_jurisdiction: '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
-country: '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
+- '[[_Standards/WikiData/WD~emperor_of_the_Occident,23906200|WD~emperor_of_the_Occident,23906200]]'
+- '[[_Standards/WikiData/WD~emperor,39018|WD~emperor,39018]]'
+replaces: '[[_Standards/WikiData/WD~Carolingian_Roman_emperor,111841382|WD~Carolingian_Roman_emperor,111841382]]'
+organization_directed_by_the_office_or_position: '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548|WD~Holy_Roman_Empire,12548]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548|WD~Holy_Roman_Empire,12548]]'
+country: '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548|WD~Holy_Roman_Empire,12548]]'
 coat_of_arms_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Holy%20Roman%20Empire%20Arms-double%20head.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Shield%20and%20Coat%20of%20Arms%20of%20the%20Holy%20Roman%20Emperor%20%28c.1300-c.1400%29.svg

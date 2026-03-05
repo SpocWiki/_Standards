@@ -190,71 +190,71 @@ coordinate_location: Point(9.14062 48.690959)
 tags:
 - geo/Continent
 type: Continent
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Europe,119716]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Europe,122482]]'
-named_after: '[[_Standards/WikiData/WD~Europa,165170]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Europe,119716|WD~geography_of_Europe,119716]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Europe,122482|WD~flag_of_Europe,122482]]'
+named_after: '[[_Standards/WikiData/WD~Europa,165170|WD~Europa,165170]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Southeast_Europe,263686]]'
-- '[[_Standards/WikiData/WD~Northwestern_Europe,1414323]]'
-- '[[_Standards/WikiData/WD~Northeastern_Europe,1998497]]'
-- '[[_Standards/WikiData/WD~South_West_Europe,2749444]]'
-- '[[_Standards/WikiData/WD~Southern_Europe,27449]]'
-- '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
-- '[[_Standards/WikiData/WD~Northern_Europe,27479]]'
-- '[[_Standards/WikiData/WD~Western_Europe,27496]]'
-- '[[_Standards/WikiData/WD~Central_Europe,27509]]'
+- '[[_Standards/WikiData/WD~Southeast_Europe,263686|WD~Southeast_Europe,263686]]'
+- '[[_Standards/WikiData/WD~Northwestern_Europe,1414323|WD~Northwestern_Europe,1414323]]'
+- '[[_Standards/WikiData/WD~Northeastern_Europe,1998497|WD~Northeastern_Europe,1998497]]'
+- '[[_Standards/WikiData/WD~South_West_Europe,2749444|WD~South_West_Europe,2749444]]'
+- '[[_Standards/WikiData/WD~Southern_Europe,27449|WD~Southern_Europe,27449]]'
+- '[[_Standards/WikiData/WD~Eastern_Europe,27468|WD~Eastern_Europe,27468]]'
+- '[[_Standards/WikiData/WD~Northern_Europe,27479|WD~Northern_Europe,27479]]'
+- '[[_Standards/WikiData/WD~Western_Europe,27496|WD~Western_Europe,27496]]'
+- '[[_Standards/WikiData/WD~Central_Europe,27509|WD~Central_Europe,27509]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
 different_from:
-- '[[_Standards/WikiData/WD~Europe,345567]]'
-- '[[_Standards/WikiData/WD~Europa,741380]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~Europa,3143]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Europe,1067887]]'
-studied_by: '[[_Standards/WikiData/WD~European_studies,1377029]]'
+- '[[_Standards/WikiData/WD~Europe,345567|WD~Europe,345567]]'
+- '[[_Standards/WikiData/WD~Europa,741380|WD~Europa,741380]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~Europa,3143|WD~Europa,3143]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Europe,1067887|WD~demographics_of_Europe,1067887]]'
+studied_by: '[[_Standards/WikiData/WD~European_studies,1377029|WD~European_studies,1377029]]'
 part_of:
-- '[[_Standards/WikiData/WD~Ostfeste,2035462]]'
-- '[[_Standards/WikiData/WD~Eurasia,5401]]'
-- '[[_Standards/WikiData/WD~Earth,2]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Europe,2226947]]'
+- '[[_Standards/WikiData/WD~Ostfeste,2035462|WD~Ostfeste,2035462]]'
+- '[[_Standards/WikiData/WD~Eurasia,5401|WD~Eurasia,5401]]'
+- '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Europe,2226947|WD~economy_of_Europe,2226947]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Kaliningrad_Time,2356448]]'
-- '[[_Standards/WikiData/WD~Europe_Athens,5412093]]'
-- '[[_Standards/WikiData/WD~Europe_Brussels,5412099]]'
-- '[[_Standards/WikiData/WD~Europe_Moscow,5412117]]'
-- '[[_Standards/WikiData/WD~Europe_London,16894228]]'
+- '[[_Standards/WikiData/WD~Kaliningrad_Time,2356448|WD~Kaliningrad_Time,2356448]]'
+- '[[_Standards/WikiData/WD~Europe_Athens,5412093|WD~Europe_Athens,5412093]]'
+- '[[_Standards/WikiData/WD~Europe_Brussels,5412099|WD~Europe_Brussels,5412099]]'
+- '[[_Standards/WikiData/WD~Europe_Moscow,5412117|WD~Europe_Moscow,5412117]]'
+- '[[_Standards/WikiData/WD~Europe_London,16894228|WD~Europe_London,16894228]]'
 instance_of:
-- '[[_Standards/WikiData/WD~part_of_the_world,2418896]]'
-- '[[_Standards/WikiData/WD~continent,5107]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Europe,4997598]]'
+- '[[_Standards/WikiData/WD~part_of_the_world,2418896|WD~part_of_the_world,2418896]]'
+- '[[_Standards/WikiData/WD~continent,5107|WD~continent,5107]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Europe,4997598|WD~Portal_Europe,4997598]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Sovereign_states_of_Europe,6328695]]'
-- '[[_Standards/WikiData/WD~Template_Europe_topic,6984392]]'
-- '[[_Standards/WikiData/WD~Template_Europe_topics,10902188]]'
-- '[[_Standards/WikiData/WD~Template_Europe,17588291]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Europe,7112259]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20820598,20820598]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Europe_as_a_continent,92076511]]'
-most_populous_urban_area: '[[_Standards/WikiData/WD~Istanbul,406]]'
-lowest_point: '[[_Standards/WikiData/WD~Caspian_Sea,5484]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-shares_border_with: '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Template_Sovereign_states_of_Europe,6328695|WD~Template_Sovereign_states_of_Europe,6328695]]'
+- '[[_Standards/WikiData/WD~Template_Europe_topic,6984392|WD~Template_Europe_topic,6984392]]'
+- '[[_Standards/WikiData/WD~Template_Europe_topics,10902188|WD~Template_Europe_topics,10902188]]'
+- '[[_Standards/WikiData/WD~Template_Europe,17588291|WD~Template_Europe,17588291]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Europe,7112259|WD~outline_of_Europe,7112259]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20820598,20820598|WD~Q20820598,20820598]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Europe_as_a_continent,92076511|WD~Europe_as_a_continent,92076511]]'
+most_populous_urban_area: '[[_Standards/WikiData/WD~Istanbul,406|WD~Istanbul,406]]'
+lowest_point: '[[_Standards/WikiData/WD~Caspian_Sea,5484|WD~Caspian_Sea,5484]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Europe,7787|WD~history_of_Europe,7787]]'
+shares_border_with: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 maximum_temperature_record: 48
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Northern_Hemisphere,39061]]'
-highest_point: '[[_Standards/WikiData/WD~Mount_Elbrus,43105]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Northern_Hemisphere,39061|WD~Northern_Hemisphere,39061]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Elbrus,43105|WD~Mount_Elbrus,43105]]'
 M49_code: 150
 area: 10186000
 OmegaWiki_Defined_Meaning: 1354
@@ -728,9 +728,9 @@ dv_has_image_for_coat_of_arms: '[[Europe/Seal_of_Europe.svg|350]]'
 
 #is_/same_as :: [[../../WikiData/WD~Europe,46|WD~Europe,46]] 
 
-Most European Countries have joined the [[Europe/EU(European_Union)]]. 
+Most European Countries have joined the [[Europe/EU(European_Union)|EU(European_Union)]]. 
 which started out as an the [[European_Coal_and_Steel_Community]] (Montan-Union)
-after WW2 and developed into the Economic Union, which merged with other european Agencies into the [[Europe/EU(European_Union)]], 
+after WW2 and developed into the Economic Union, which merged with other european Agencies into the [[Europe/EU(European_Union)|EU(European_Union)]], 
 which now largely represents Europe. 
 
 
@@ -857,7 +857,7 @@ has_image_for_flag = `=this.dv_has_image_for_flag`
 ## #has_/image_for_/coat_of_arms 
 has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
-![[../../../_public/xLarge.public/National-Anthem/Anthem-Eu-long.mp3]]
+![[../../../_public/xLarge.public/National-Anthem/Anthem-Eu-long.mp3|Anthem-Eu-long.mp3]]
 
 ![[Flag_of_Europe.svg|350]]
 

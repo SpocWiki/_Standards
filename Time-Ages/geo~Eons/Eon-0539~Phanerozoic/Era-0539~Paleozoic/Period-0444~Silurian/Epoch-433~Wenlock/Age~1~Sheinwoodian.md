@@ -24,11 +24,11 @@ aliases:
 - 申伍德期
 has_id_wikidata: Q582801
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Sheinwoodian,30869539]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Sheinwoodian,134691344]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Sheinwoodian,30869539|WD~Category_Sheinwoodian,30869539]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Sheinwoodian,134691344|WD~GSSP_for_the_base_of_Sheinwoodian,134691344]]'
 start_time: -433400000-01-01T00:00:00Z
 end_time: -430500000-01-01T00:00:00Z
 sRGB_color_hex_triplet: B6E4D0

@@ -34,15 +34,15 @@ aliases:
 - 성문법
 has_id_wikidata: Q7766927
 different_from:
-- '[[_Standards/WikiData/WD~universal_law,105210]]'
-- '[[_Standards/WikiData/WD~common_law,30216]]'
-opposite_of: '[[_Standards/WikiData/WD~non_statutory_law,1144567]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q1519092,1519092]]'
-has_part_s_: '[[_Standards/WikiData/WD~Act_of_the_Parliament_of_the_United_Kingdom,4677783]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_law,63718619]]'
-depicted_by: '[[_Standards/WikiData/WD~Four_ages_of_Woman_and_the_Written_Law,131812904]]'
-subclass_of: '[[_Standards/WikiData/WD~law,7748]]'
-part_of: '[[_Standards/WikiData/WD~common_law,30216]]'
+- '[[_Standards/WikiData/WD~universal_law,105210|WD~universal_law,105210]]'
+- '[[_Standards/WikiData/WD~common_law,30216|WD~common_law,30216]]'
+opposite_of: '[[_Standards/WikiData/WD~non_statutory_law,1144567|WD~non_statutory_law,1144567]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q1519092,1519092|WD~Q1519092,1519092]]'
+has_part_s_: '[[_Standards/WikiData/WD~Act_of_the_Parliament_of_the_United_Kingdom,4677783|WD~Act_of_the_Parliament_of_the_United_Kingdom,4677783]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_law,63718619|WD~type_of_law,63718619]]'
+depicted_by: '[[_Standards/WikiData/WD~Four_ages_of_Woman_and_the_Written_Law,131812904|WD~Four_ages_of_Woman_and_the_Written_Law,131812904]]'
+subclass_of: '[[_Standards/WikiData/WD~law,7748|WD~law,7748]]'
+part_of: '[[_Standards/WikiData/WD~common_law,30216|WD~common_law,30216]]'
 Commons_category: Law
 dv_has_:
   name_:

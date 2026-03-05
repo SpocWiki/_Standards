@@ -151,38 +151,38 @@ BHCL_UUID: 457c1207-823b-45ef-a524-ce7e602b32bd
 Commons_category: American Civil War
 Commons_gallery: American Civil War
 described_by_source:
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
 DPLA_subject_term: American Civil War, 1861-1865
 end_time: 1865-04-09
 exact_match: http://data.culture.fr/thesaurus/resource/ark:/67717/T4-77
-followed_by: '[[_Standards/WikiData/WD~Second_American_Civil_War,17130955]]'
-has_cause: '[[_Standards/WikiData/WD~slavery_in_the_United_States,118382]]'
+followed_by: '[[_Standards/WikiData/WD~Second_American_Civil_War,17130955|WD~Second_American_Civil_War,17130955]]'
+has_cause: '[[_Standards/WikiData/WD~slavery_in_the_United_States,118382|WD~slavery_in_the_United_States,118382]]'
 has_contributing_factor:
-- '[[_Standards/WikiData/WD~Dred_Scott_v._Sandford,690462]]'
-- '[[_Standards/WikiData/WD~Fugitive_Slave_Act_of_1850,535519]]'
-- '[[_Standards/WikiData/WD~Kansas_Nebraska_Act,619762]]'
+- '[[_Standards/WikiData/WD~Dred_Scott_v._Sandford,690462|WD~Dred_Scott_v._Sandford,690462]]'
+- '[[_Standards/WikiData/WD~Fugitive_Slave_Act_of_1850,535519|WD~Fugitive_Slave_Act_of_1850,535519]]'
+- '[[_Standards/WikiData/WD~Kansas_Nebraska_Act,619762|WD~Kansas_Nebraska_Act,619762]]'
 has_effect:
-- '[[_Standards/WikiData/WD~Ten_percent_plan,7699410]]'
-- '[[_Standards/WikiData/WD~Thirteenth_Amendment_to_the_United_States_Constitution,175613]]'
+- '[[_Standards/WikiData/WD~Ten_percent_plan,7699410|WD~Ten_percent_plan,7699410]]'
+- '[[_Standards/WikiData/WD~Thirteenth_Amendment_to_the_United_States_Constitution,175613|WD~Thirteenth_Amendment_to_the_United_States_Constitution,175613]]'
 has_immediate_cause:
-- "[[_Standards/WikiData/WD~President_Lincoln's_75,000_Volunteers,7241234]]"
-- '[[_Standards/WikiData/WD~secession_of_the_Southern_United_States,18077700]]'
+- "[[_Standards/WikiData/WD~President_Lincoln's_75,000_Volunteers,7241234|WD~President_Lincoln's_75,000_Volunteers,7241234]]"
+- '[[_Standards/WikiData/WD~secession_of_the_Southern_United_States,18077700|WD~secession_of_the_Southern_United_States,18077700]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Pacific_Coast_Theater_of_the_American_Civil_War,2036652]]'
-- '[[_Standards/WikiData/WD~Trans-Mississippi_theater_of_the_American_Civil_War,2496537]]'
-- '[[_Standards/WikiData/WD~Western_Theater_of_the_American_Civil_War,2988047]]'
+- '[[_Standards/WikiData/WD~Pacific_Coast_Theater_of_the_American_Civil_War,2036652|WD~Pacific_Coast_Theater_of_the_American_Civil_War,2036652]]'
+- '[[_Standards/WikiData/WD~Trans-Mississippi_theater_of_the_American_Civil_War,2496537|WD~Trans-Mississippi_theater_of_the_American_Civil_War,2496537]]'
+- '[[_Standards/WikiData/WD~Western_Theater_of_the_American_Civil_War,2988047|WD~Western_Theater_of_the_American_Civil_War,2988047]]'
 has_time_started: 1861-04-12
 has_time_stopped: 1865-04-09
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CivilWarUSAColl.png
-instance_of: '[[_Standards/WikiData/WD~civil_war,8465]]'
+instance_of: '[[_Standards/WikiData/WD~civil_war,8465|WD~civil_war,8465]]'
 Library_of_Congress_Classification: E461-E655
 Libris_URI: b8nqplcv0p6qlts
 location:
-- '[[_Standards/WikiData/WD~Northern_United_States,1357541]]'
-- '[[_Standards/WikiData/WD~Southern_United_States,49042]]'
+- '[[_Standards/WikiData/WD~Northern_United_States,1357541|WD~Northern_United_States,1357541]]'
+- '[[_Standards/WikiData/WD~Southern_United_States,49042|WD~Southern_United_States,49042]]'
 MeSH_tree_code:
 - I01.880.735.950.250.188
 - K01.400.504.937.100
@@ -190,22 +190,22 @@ nickname:
 - War Between the States
 - War of Northern Aggression
 OmegaWiki_Defined_Meaning: 844549
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Monitor%20Merrimac%20banner.jpg
 participant:
-- '[[_Standards/WikiData/WD~Union,214102]]'
-- '[[_Standards/WikiData/WD~Confederate_States_of_America,81931]]'
+- '[[_Standards/WikiData/WD~Union,214102|WD~Union,214102]]'
+- '[[_Standards/WikiData/WD~Confederate_States_of_America,81931|WD~Confederate_States_of_America,81931]]'
 short_name: Civil War
 start_time: 1861-04-12
-studied_in: '[[_Standards/WikiData/WD~military_history_of_the_United_States,1483473]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_American_Civil_War,6677215]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_American_Civil_War,10730168]]'
+studied_in: '[[_Standards/WikiData/WD~military_history_of_the_United_States,1483473|WD~military_history_of_the_United_States,1483473]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_American_Civil_War,6677215|WD~Template_American_Civil_War,6677215]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_American_Civil_War,10730168|WD~Portal_American_Civil_War,10730168]]'
 UMLS_CUI: C1449762
 U_S_National_Archives_Identifier: 10638535
 Wolfram_Language_entity_code: Entity["MilitaryConflict", "AmericanCivilWar"]
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~American_Civil_War,8676]]'
+  - '[[../../../../../../../../WikiData/WD~American_Civil_War,8676|WD~American_Civil_War,8676]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War|1861-American_Civil_War]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.public|1861-American_Civil_War.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.internal|1861-American_Civil_War.internal]]'
@@ -384,7 +384,7 @@ dv_has_:
     started: 1861-04-12T00:00:00.000+00:53
     stopped: 1865-04-09T00:00:00.000+00:53
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~American_Civil_War,8676]]'
+- '[[../../../../../../../../WikiData/WD~American_Civil_War,8676|WD~American_Civil_War,8676]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War|1861-American_Civil_War]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.public|1861-American_Civil_War.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.internal|1861-American_Civil_War.internal]]'
@@ -398,7 +398,7 @@ dv_has_duration_: P4Y
 
 # [[1861-American_Civil_War]]  
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~American_Civil_War,8676]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~American_Civil_War,8676|WD~American_Civil_War,8676]] 
 
 #has_/time_/started :: `=this.has_time_started` 
 #has_/time_/stopped ::  `=this.has_time_stopped` 

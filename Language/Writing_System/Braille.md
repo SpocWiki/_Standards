@@ -74,21 +74,21 @@ aliases:
 - 盲文
 - 점자
 has_id_wikidata: Q79894
-named_after: '[[_Standards/WikiData/WD~Louis_Braille,93182]]'
+named_after: '[[_Standards/WikiData/WD~Louis_Braille,93182|WD~Louis_Braille,93182]]'
 instance_of:
-- '[[_Standards/WikiData/WD~character_encoding,184759]]'
-- '[[_Standards/WikiData/WD~code,188889]]'
-- '[[_Standards/WikiData/WD~unicase_alphabet,4004706]]'
-- '[[_Standards/WikiData/WD~writing_system,8192]]'
-- '[[_Standards/WikiData/WD~alphabet,9779]]'
-location_of_creation: '[[_Standards/WikiData/WD~Coupvray,828631]]'
-subclass_of: '[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]'
-different_from: '[[_Standards/WikiData/WD~braille_(original),4554291]]'
+- '[[_Standards/WikiData/WD~character_encoding,184759|WD~character_encoding,184759]]'
+- '[[_Standards/WikiData/WD~code,188889|WD~code,188889]]'
+- '[[_Standards/WikiData/WD~unicase_alphabet,4004706|WD~unicase_alphabet,4004706]]'
+- '[[_Standards/WikiData/WD~writing_system,8192|WD~writing_system,8192]]'
+- '[[_Standards/WikiData/WD~alphabet,9779|WD~alphabet,9779]]'
+location_of_creation: '[[_Standards/WikiData/WD~Coupvray,828631|WD~Coupvray,828631]]'
+subclass_of: '[[_Standards/WikiData/WD~alphabetic_writing_system,2182919|WD~alphabetic_writing_system,2182919]]'
+different_from: '[[_Standards/WikiData/WD~braille_(original),4554291|WD~braille_(original),4554291]]'
 script_directionality:
-- '[[_Standards/WikiData/WD~right_to_left,7333457]]'
-- '[[_Standards/WikiData/WD~left_to_right,17321844]]'
-uses: '[[_Standards/WikiData/WD~Braille_pattern,135261272]]'
-country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~right_to_left,7333457|WD~right_to_left,7333457]]'
+- '[[_Standards/WikiData/WD~left_to_right,17321844|WD~left_to_right,17321844]]'
+uses: '[[_Standards/WikiData/WD~Braille_pattern,135261272|WD~Braille_pattern,135261272]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 ISO_15924_numeric_code: 570
 OmegaWiki_Defined_Meaning: 428293
 GitHub_topic: braille

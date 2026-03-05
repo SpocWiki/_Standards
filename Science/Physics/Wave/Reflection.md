@@ -79,16 +79,16 @@ aliases:
 - ꯊꯛꯇꯣꯛꯂꯛꯄ
 - 반사
 has_id_wikidata: Q165939
-has_cause: '[[_Standards/WikiData/WD~refraction,72277]]'
-has_effect: '[[_Standards/WikiData/WD~reflection,426221]]'
+has_cause: '[[_Standards/WikiData/WD~refraction,72277|WD~refraction,72277]]'
+has_effect: '[[_Standards/WikiData/WD~reflection,426221|WD~reflection,426221]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Reflection_of_Light,84635799]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Reflection_of_Light,84635799|WD~Reflection_of_Light,84635799]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~surface_phenomenon,4366377]]'
-- '[[_Standards/WikiData/WD~optical_phenomenon,14506045]]'
-different_from: '[[_Standards/WikiData/WD~retrodirectivity,7317006]]'
+- '[[_Standards/WikiData/WD~surface_phenomenon,4366377|WD~surface_phenomenon,4366377]]'
+- '[[_Standards/WikiData/WD~optical_phenomenon,14506045|WD~optical_phenomenon,14506045]]'
+different_from: '[[_Standards/WikiData/WD~retrodirectivity,7317006|WD~retrodirectivity,7317006]]'
 Commons_category: Reflections
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Spiegelung%20der%20Landschaft%20in%20einer%20unbewegten%20Wasserfl%C3%A4che.jpg

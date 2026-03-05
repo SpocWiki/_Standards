@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Instructions that explain how to achieve a result by performing a sequence of steps.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ Recipe ]  
 

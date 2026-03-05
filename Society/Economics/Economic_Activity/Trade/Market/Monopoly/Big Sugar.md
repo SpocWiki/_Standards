@@ -45,10 +45,10 @@ aliases:
 - 설탕 산업
 has_id_wikidata: Q227870
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~ethanol_fuel,194361]]'
-- '[[_Standards/WikiData/WD~sugar,11002]]'
-instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
-has_part_s_: '[[_Standards/WikiData/WD~sugar_manufacturer,130706561]]'
+- '[[_Standards/WikiData/WD~ethanol_fuel,194361|WD~ethanol_fuel,194361]]'
+- '[[_Standards/WikiData/WD~sugar,11002|WD~sugar,11002]]'
+instance_of: '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+has_part_s_: '[[_Standards/WikiData/WD~sugar_manufacturer,130706561|WD~sugar_manufacturer,130706561]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zuckerfabrik01.jpg
 dv_has_:
   name_:

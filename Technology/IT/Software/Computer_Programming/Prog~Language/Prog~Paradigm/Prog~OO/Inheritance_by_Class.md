@@ -3,7 +3,7 @@
 
 #is_/similar_to :: [[Inheritance,prototypal]] 
 #is_/different_from  :: [[Inheritance,prototypal]] 
-#is_/part_of :: [[../Prog~OO]]
+#is_/part_of :: [[../Prog~OO|Prog~OO]]
 
 In OO, Classes and their Instances (Objects) are strictly separate. 
 This creates some Overhead, but also allows for Optimizations, 

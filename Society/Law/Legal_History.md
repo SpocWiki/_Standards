@@ -49,21 +49,21 @@ aliases:
 - 法制史
 - 법제사학
 has_id_wikidata: Q680004
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 part_of:
-- '[[_Standards/WikiData/WD~study_of_history,1066186]]'
-- '[[_Standards/WikiData/WD~jurisprudence,4932206]]'
+- '[[_Standards/WikiData/WD~study_of_history,1066186|WD~study_of_history,1066186]]'
+- '[[_Standards/WikiData/WD~jurisprudence,4932206|WD~jurisprudence,4932206]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~study_of_history,1066186]]'
-- '[[_Standards/WikiData/WD~jurisprudence,4932206]]'
+- '[[_Standards/WikiData/WD~study_of_history,1066186|WD~study_of_history,1066186]]'
+- '[[_Standards/WikiData/WD~jurisprudence,4932206|WD~jurisprudence,4932206]]'
 instance_of:
-- '[[_Standards/WikiData/WD~interdisciplinary_science,1665984]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-practiced_by: '[[_Standards/WikiData/WD~legal_historian,2135538]]'
+- '[[_Standards/WikiData/WD~interdisciplinary_science,1665984|WD~interdisciplinary_science,1665984]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+practiced_by: '[[_Standards/WikiData/WD~legal_historian,2135538|WD~legal_historian,2135538]]'
 facet_of:
-- '[[_Standards/WikiData/WD~legal_system,2478386]]'
-- '[[_Standards/WikiData/WD~law,7748]]'
+- '[[_Standards/WikiData/WD~legal_system,2478386|WD~legal_system,2478386]]'
+- '[[_Standards/WikiData/WD~law,7748|WD~law,7748]]'
 Dewey_Decimal_Classification: 340.09
 Basisklassifikation: 86.09
 Commons_category: Legal history

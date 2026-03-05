@@ -69,23 +69,23 @@ aliases:
 - 黑社會
 - 조직범죄
 has_id_wikidata: Q46952
-has_effect: '[[_Standards/WikiData/WD~crime,83267]]'
+has_effect: '[[_Standards/WikiData/WD~crime,83267|WD~crime,83267]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~crime,83267]]'
-- '[[_Standards/WikiData/WD~social_issue,1920219]]'
-- '[[_Standards/WikiData/WD~criminality,12754227]]'
+- '[[_Standards/WikiData/WD~crime,83267|WD~crime,83267]]'
+- '[[_Standards/WikiData/WD~social_issue,1920219|WD~social_issue,1920219]]'
+- '[[_Standards/WikiData/WD~criminality,12754227|WD~criminality,12754227]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~yakuza,183287]]'
-- '[[_Standards/WikiData/WD~mobster,1404030]]'
-has_part_s_: '[[_Standards/WikiData/WD~drug_cartel,1260006]]'
-different_from: '[[../../../../WikiData/WD~criminal_organization,1788992]]'
-relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_16.4_of_the_Sustainable_Development_Goals,57590923]]'
+- '[[_Standards/WikiData/WD~yakuza,183287|WD~yakuza,183287]]'
+- '[[_Standards/WikiData/WD~mobster,1404030|WD~mobster,1404030]]'
+has_part_s_: '[[_Standards/WikiData/WD~drug_cartel,1260006|WD~drug_cartel,1260006]]'
+different_from: '[[../../../../WikiData/WD~criminal_organization,1788992|WD~criminal_organization,1788992]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_16.4_of_the_Sustainable_Development_Goals,57590923|WD~Target_16.4_of_the_Sustainable_Development_Goals,57590923]]'
 instance_of:
-- '[[_Standards/WikiData/WD~human_activity,61788060]]'
-- '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
-opposite_of: '[[_Standards/WikiData/WD~fight_against_organized_crime,109562336]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~underworld,117847897]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~organized_crime,136087004]]'
+- '[[_Standards/WikiData/WD~human_activity,61788060|WD~human_activity,61788060]]'
+- '[[_Standards/WikiData/WD~type_of_crime,130583773|WD~type_of_crime,130583773]]'
+opposite_of: '[[_Standards/WikiData/WD~fight_against_organized_crime,109562336|WD~fight_against_organized_crime,109562336]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~underworld,117847897|WD~underworld,117847897]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~organized_crime,136087004|WD~organized_crime,136087004]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yakuza%20at%20Sanja%20Matsuri.jpg
 U_S_National_Archives_Identifier: 10641981
 Krugosvet_article_archived_: gumanitarnye_nauki/sociologiya/MAFIYA_ORGANIZOVANNAYA_PRESTUPNOST.html
@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Organized_Crime]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Organized_crime,46952]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Organized_crime,46952|WD~Organized_crime,46952]] 
 ## #has_/text_of_/abstract 
 
 > Organized crime refers to transnational, national, or local groups of centralized enterprises 

@@ -173,37 +173,37 @@ Stack_Exchange_tag:
 - https://linguistics.stackexchange.com/tags/vietnamese
 Dewey_Decimal_Classification: 495.922
 linguistic_typology:
-- '[[_Standards/WikiData/WD~tonal_language,191328]]'
-- '[[_Standards/WikiData/WD~analytic_language,209544]]'
-- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
-- '[[_Standards/WikiData/WD~pro_drop_language,661936]]'
-- '[[_Standards/WikiData/WD~isolating_language,7423311]]'
-- '[[_Standards/WikiData/WD~noun_adjective,74835210]]'
+- '[[_Standards/WikiData/WD~tonal_language,191328|WD~tonal_language,191328]]'
+- '[[_Standards/WikiData/WD~analytic_language,209544|WD~analytic_language,209544]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641|WD~subject_verb_object,651641]]'
+- '[[_Standards/WikiData/WD~pro_drop_language,661936|WD~pro_drop_language,661936]]'
+- '[[_Standards/WikiData/WD~isolating_language,7423311|WD~isolating_language,7423311]]'
+- '[[_Standards/WikiData/WD~noun_adjective,74835210|WD~noun_adjective,74835210]]'
 has_tense:
-- '[[_Standards/WikiData/WD~present_tense,192613]]'
-- '[[_Standards/WikiData/WD~future_tense,501405]]'
-- '[[_Standards/WikiData/WD~past_tense,1994301]]'
+- '[[_Standards/WikiData/WD~present_tense,192613|WD~present_tense,192613]]'
+- '[[_Standards/WikiData/WD~future_tense,501405|WD~future_tense,501405]]'
+- '[[_Standards/WikiData/WD~past_tense,1994301|WD~past_tense,1994301]]'
 writing_system:
-- '[[_Standards/WikiData/WD~Vietnamese_alphabet,622712]]'
-- '[[_Standards/WikiData/WD~Vietnamese_Braille,1140801]]'
-- '[[_Standards/WikiData/WD~Latin_script,8229]]'
-has_characteristic: '[[_Standards/WikiData/WD~Sino_Xenic_pronunciation,701013]]'
+- '[[_Standards/WikiData/WD~Vietnamese_alphabet,622712|WD~Vietnamese_alphabet,622712]]'
+- '[[_Standards/WikiData/WD~Vietnamese_Braille,1140801|WD~Vietnamese_Braille,1140801]]'
+- '[[_Standards/WikiData/WD~Latin_script,8229|WD~Latin_script,8229]]'
+has_characteristic: '[[_Standards/WikiData/WD~Sino_Xenic_pronunciation,701013|WD~Sino_Xenic_pronunciation,701013]]'
 instance_of:
-- '[[_Standards/WikiData/WD~modern_language,1288568]]'
-- '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568|WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742|WD~natural_language,33742]]'
 indigenous_to:
-- '[[_Standards/WikiData/WD~Jianping_County,1333476]]'
-- '[[_Standards/WikiData/WD~Vietnam,881]]'
-- '[[_Standards/WikiData/WD~Guangxi,15176]]'
-- '[[_Standards/WikiData/WD~Shanxi,46913]]'
-studied_by: '[[_Standards/WikiData/WD~Vietnamese_studies,1708176]]'
-subclass_of: '[[_Standards/WikiData/WD~Vietic,2355546]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
-Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
+- '[[_Standards/WikiData/WD~Jianping_County,1333476|WD~Jianping_County,1333476]]'
+- '[[_Standards/WikiData/WD~Vietnam,881|WD~Vietnam,881]]'
+- '[[_Standards/WikiData/WD~Guangxi,15176|WD~Guangxi,15176]]'
+- '[[_Standards/WikiData/WD~Shanxi,46913|WD~Shanxi,46913]]'
+studied_by: '[[_Standards/WikiData/WD~Vietnamese_studies,1708176|WD~Vietnamese_studies,1708176]]'
+subclass_of: '[[_Standards/WikiData/WD~Vietic,2355546|WD~Vietic,2355546]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086|WD~1_safe,20672086]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546|WD~1_National,29051546]]'
 country:
-- '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Vietnam,881|WD~Vietnam,881]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 main_Wikidata_property: Vietnamese reading
 number_of_speakers_writers_or_signers:
 - 76000000

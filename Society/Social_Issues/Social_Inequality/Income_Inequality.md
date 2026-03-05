@@ -78,7 +78,7 @@ aliases:
 # [[Income_Inequality]] 
 
 #is_/less_than :: [[Wealth_Inequality]]  
-#is_/same_as :: [[_Standards/WikiData/WD~income_inequality,5055020]] 
+#is_/same_as :: [[_Standards/WikiData/WD~income_inequality,5055020|WD~income_inequality,5055020]] 
 
 ## #has_/text_of_/abstract 
 

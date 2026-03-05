@@ -42,18 +42,18 @@ aliases:
 - 폴란드 문학
 has_id_wikidata: Q692327
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-studied_by: '[[_Standards/WikiData/WD~Polish_studies,1463332]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+studied_by: '[[_Standards/WikiData/WD~Polish_studies,1463332|WD~Polish_studies,1463332]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Polish_studies,1463332]]'
-- '[[_Standards/WikiData/WD~literature,8242]]'
-practiced_by: '[[_Standards/WikiData/WD~scholar_of_Polish_literature,96186657]]'
-instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Polish_language_literature,109577724]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~Polish,809]]'
-country: '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Polish_studies,1463332|WD~Polish_studies,1463332]]'
+- '[[_Standards/WikiData/WD~literature,8242|WD~literature,8242]]'
+practiced_by: '[[_Standards/WikiData/WD~scholar_of_Polish_literature,96186657|WD~scholar_of_Polish_literature,96186657]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Polish_language_literature,109577724|WD~Polish_language_literature,109577724]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Polish,809|WD~Polish,809]]'
+country: '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
 Commons_category: Polish literature
 Provenio_UUID: 3b25db51-320f-4f26-8fbc-78bbf6f3873e
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/POLSKAYA_LITERATURA.html

@@ -80,31 +80,31 @@ aliases:
 - 바르바로사 작전
 - 바르바로싸 작전
 has_id_wikidata: Q83055
-named_after: '[[_Standards/WikiData/WD~Frederick_Barbarossa,79789]]'
+named_after: '[[_Standards/WikiData/WD~Frederick_Barbarossa,79789|WD~Frederick_Barbarossa,79789]]'
 location:
-- '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
-- '[[_Standards/WikiData/WD~General_Government,156111]]'
-- '[[_Standards/WikiData/WD~Moldavian_Soviet_Socialist_Republic,170895]]'
-- '[[_Standards/WikiData/WD~European_Russia,875134]]'
-- '[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]'
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~Lithuania,37]]'
-- '[[_Standards/WikiData/WD~Estonia,191]]'
-- '[[_Standards/WikiData/WD~Latvia,211]]'
+- '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356|WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
+- '[[_Standards/WikiData/WD~General_Government,156111|WD~General_Government,156111]]'
+- '[[_Standards/WikiData/WD~Moldavian_Soviet_Socialist_Republic,170895|WD~Moldavian_Soviet_Socialist_Republic,170895]]'
+- '[[_Standards/WikiData/WD~European_Russia,875134|WD~European_Russia,875134]]'
+- '[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895|WD~Byelorussian_Soviet_Socialist_Republic,2895]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
+- '[[_Standards/WikiData/WD~Estonia,191|WD~Estonia,191]]'
+- '[[_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]'
 participant:
-- '[[_Standards/WikiData/WD~Slovak_Republic,154401]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]'
-- '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~Finland,33]]'
-has_cause: '[[_Standards/WikiData/WD~Lebensraum,157136]]'
-instance_of: '[[_Standards/WikiData/WD~invasion,467011]]'
-order_of_battle: '[[_Standards/WikiData/WD~order_of_battle_for_Operation_Barbarossa,820353]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Operation_Barbarossa,8810407]]'
-main_regulatory_text: '[[_Standards/WikiData/WD~Fall_Barbarossa,16711666]]'
-foundational_text: '[[_Standards/WikiData/WD~Hitler_over_Russia_,21660923]]'
-category_for_maps_or_plans: '[[_Standards/WikiData/WD~Category_Maps_of_Operation_Barbarossa,84062134]]'
+- '[[_Standards/WikiData/WD~Slovak_Republic,154401|WD~Slovak_Republic,154401]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150|WD~Kingdom_of_Hungary,171150]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Romania,203493|WD~Kingdom_of_Romania,203493]]'
+- '[[_Standards/WikiData/WD~Nazi_Germany,7318|WD~Nazi_Germany,7318]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
+has_cause: '[[_Standards/WikiData/WD~Lebensraum,157136|WD~Lebensraum,157136]]'
+instance_of: '[[_Standards/WikiData/WD~invasion,467011|WD~invasion,467011]]'
+order_of_battle: '[[_Standards/WikiData/WD~order_of_battle_for_Operation_Barbarossa,820353|WD~order_of_battle_for_Operation_Barbarossa,820353]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Operation_Barbarossa,8810407|WD~Category_Operation_Barbarossa,8810407]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Fall_Barbarossa,16711666|WD~Fall_Barbarossa,16711666]]'
+foundational_text: '[[_Standards/WikiData/WD~Hitler_over_Russia_,21660923|WD~Hitler_over_Russia_,21660923]]'
+category_for_maps_or_plans: '[[_Standards/WikiData/WD~Category_Maps_of_Operation_Barbarossa,84062134|WD~Category_Maps_of_Operation_Barbarossa,84062134]]'
 BHCL_UUID: a75a6d28-d89c-4a2d-91c2-932a21d65c79
 end_time: 1941-12-05T00:00:00Z
 start_time: 1941-06-22T00:00:00Z
@@ -304,7 +304,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 > analogous to the reaction Russia had during WWI. 
 > However, no such collapse occurred, and 
 > instead the Red Army absorbed the German Wehrmacht's strongest blows 
-> and bogged it down in a [[../../../../../../../../../../Knowledge/Military.internal/War_of_Attrition]] for which the Germans were unprepared. 
+> and bogged it down in a [[../../../../../../../../../../Knowledge/Military.internal/War_of_Attrition|War_of_Attrition]] for which the Germans were unprepared. 
 > 
 > Following the heavy losses and logistical strain of Barbarossa, 
 > the Wehrmacht's diminished forces could no longer attack along the entire Eastern Front, 

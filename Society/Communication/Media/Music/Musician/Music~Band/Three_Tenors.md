@@ -7,10 +7,10 @@ aliases:
 
 Appeared first during the Soccer WM 1990 in [[../../../../../../../_Standards/Earth/Continent/Europe/Europe~South/Italy|Italy]]. 
 
-[[Three_Tenors/Pavarotti,Luciano]] and [[Three_Tenors/Domingo,Placido]] were competing 
+[[Three_Tenors/Pavarotti,Luciano|Pavarotti,Luciano]] and [[Three_Tenors/Domingo,Placido|Domingo,Placido]] were competing 
 and Pavarotti tended to dominate the group, also with his Body Mass. 
 
-[[Three_Tenors/Carreras,José]] was liked by both, 
+[[Three_Tenors/Carreras,José|Carreras,José]] was liked by both, 
 especially because he was diagnosed with Leukemia Cancer at the age of 40
 and had just recovered the year before. 
 

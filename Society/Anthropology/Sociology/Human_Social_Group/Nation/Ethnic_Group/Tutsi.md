@@ -39,23 +39,23 @@ aliases:
 - 圖西族
 - 투치족
 has_id_wikidata: Q193092
-part_of: '[[_Standards/WikiData/WD~Banyarwanda,438374]]'
+part_of: '[[_Standards/WikiData/WD~Banyarwanda,438374|WD~Banyarwanda,438374]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Tsotsi,626215]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Tsotsi,626215|WD~Tsotsi,626215]]'
 country:
-- '[[_Standards/WikiData/WD~Tanzania,924]]'
-- '[[_Standards/WikiData/WD~Burundi,967]]'
-- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
-- '[[_Standards/WikiData/WD~Uganda,1036]]'
-- '[[_Standards/WikiData/WD~Rwanda,1037]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+- '[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Burundi,967|WD~Burundi,967]]'
+- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]'
+- '[[_Standards/WikiData/WD~Uganda,1036|WD~Uganda,1036]]'
+- '[[_Standards/WikiData/WD~Rwanda,1037|WD~Rwanda,1037]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
 population: 2000000
 native_language:
-- '[[_Standards/WikiData/WD~Kinyarwanda,33573]]'
-- '[[_Standards/WikiData/WD~Kirundi,33583]]'
-instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+- '[[_Standards/WikiData/WD~Kinyarwanda,33573|WD~Kinyarwanda,33573]]'
+- '[[_Standards/WikiData/WD~Kirundi,33583|WD~Kirundi,33583]]'
+instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
 Commons_category: Tutsi
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chifu%20Kaware%20safarini%20%28Kandt%201904%20II%2C%2097%29.png
 dv_has_:

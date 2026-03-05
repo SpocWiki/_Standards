@@ -28,7 +28,7 @@ type: private note
 
 # [[Rust~Syntax]] 
 
-#is_/part_of :: [[../Prog~Rust]] 
+#is_/part_of :: [[../Prog~Rust|Prog~Rust]] 
 
 ## Rust~Syntax 
 

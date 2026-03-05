@@ -59,14 +59,14 @@ aliases:
 - 음계
 has_id_wikidata: Q179651
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-subclass_of: '[[_Standards/WikiData/WD~scale,1959825]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_musical_scale,26121140]]'
-instance_of: '[[_Standards/WikiData/WD~musical_structural_concept,116748678]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+subclass_of: '[[_Standards/WikiData/WD~scale,1959825|WD~scale,1959825]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_musical_scale,26121140|WD~Template_Infobox_musical_scale,26121140]]'
+instance_of: '[[_Standards/WikiData/WD~musical_structural_concept,116748678|WD~musical_structural_concept,116748678]]'
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/MUZIKALNIE_GAMMI.html
 Commons_gallery: Musical scale
 Commons_category: Musical scales

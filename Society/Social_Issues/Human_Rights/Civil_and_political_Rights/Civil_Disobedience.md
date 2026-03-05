@@ -71,9 +71,9 @@ aliases:
 - 시민 불복종
 has_id_wikidata: Q47217
 subclass_of:
-- '[[_Standards/WikiData/WD~protest,273120]]'
-- '[[_Standards/WikiData/WD~civil_resistance,3109572]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~protest,273120|WD~protest,273120]]'
+- '[[_Standards/WikiData/WD~civil_resistance,3109572|WD~civil_resistance,3109572]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-ziviler%20Ungehorsam.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schienenblockade.jpg
 U_S_National_Archives_Identifier: 10638584

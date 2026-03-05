@@ -66,26 +66,26 @@ aliases:
 - 바로크
 has_id_wikidata: Q37853
 location:
-- '[[_Standards/WikiData/WD~New_World,127834]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~New_World,127834|WD~New_World,127834]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~style,1292119]]'
-- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-- '[[_Standards/WikiData/WD~architectural_style,32880]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~style,1292119|WD~style,1292119]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855|WD~cultural_movement,2198855]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880|WD~architectural_style,32880]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Baroque_literature,1431376]]'
-- '[[_Standards/WikiData/WD~Baroque_art,3624106]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Baroque,20203497]]'
+- '[[_Standards/WikiData/WD~Baroque_literature,1431376|WD~Baroque_literature,1431376]]'
+- '[[_Standards/WikiData/WD~Baroque_art,3624106|WD~Baroque_art,3624106]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Baroque,20203497|WD~Portal_Baroque,20203497]]'
 end_time: 1750-01-01T00:00:00Z
 start_time: 1590-01-01T00:00:00Z
 OmegaWiki_Defined_Meaning: 687754

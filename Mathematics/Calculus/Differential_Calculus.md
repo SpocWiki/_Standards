@@ -78,15 +78,15 @@ aliases:
 - 微分法
 - 미분학
 has_id_wikidata: Q149999
-subclass_of: '[[_Standards/WikiData/WD~calculus,149972]]'
-opposite_of: '[[_Standards/WikiData/WD~integral_calculus,150008]]'
-different_from: '[[_Standards/WikiData/WD~differential_of_a_function,750432]]'
-instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+subclass_of: '[[_Standards/WikiData/WD~calculus,149972|WD~calculus,149972]]'
+opposite_of: '[[_Standards/WikiData/WD~integral_calculus,150008|WD~integral_calculus,150008]]'
+different_from: '[[_Standards/WikiData/WD~differential_of_a_function,750432|WD~differential_of_a_function,750432]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-is_the_study_of: '[[_Standards/WikiData/WD~derivative,29175]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+is_the_study_of: '[[_Standards/WikiData/WD~derivative,29175|WD~derivative,29175]]'
 OmegaWiki_Defined_Meaning: 722301
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tangent%20dynamic.gif
 ACM_Classification_Code_2012_: 10003734

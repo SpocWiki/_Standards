@@ -35,9 +35,9 @@ aliases:
 - 다중선형대수학
 has_id_wikidata: Q1197190
 part_of:
-- '[[_Standards/WikiData/WD~linear_algebra,82571]]'
-- '[[_Standards/WikiData/WD~Q114722762,114722762]]'
-instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~linear_algebra,82571|WD~linear_algebra,82571]]'
+- '[[_Standards/WikiData/WD~Q114722762,114722762|WD~Q114722762,114722762]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
 Stack_Exchange_tag: https://math.stackexchange.com/tags/multilinear-algebra
 Commons_category: Multilinear algebra
 dv_has_:

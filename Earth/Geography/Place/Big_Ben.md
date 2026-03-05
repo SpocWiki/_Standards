@@ -68,38 +68,38 @@ aliases:
 - 빅 벤
 has_id_wikidata: Q41225
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~bell,101401]]'
-- '[[_Standards/WikiData/WD~turret_clock,188298]]'
-- '[[_Standards/WikiData/WD~storey,831691]]'
-- '[[_Standards/WikiData/WD~spire,852590]]'
-- '[[_Standards/WikiData/WD~lantern,862454]]'
-- '[[_Standards/WikiData/WD~tread,3289701]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~City_of_Westminster,179351]]'
-architectural_style: '[[_Standards/WikiData/WD~Gothic_Revival,186363]]'
+- '[[_Standards/WikiData/WD~bell,101401|WD~bell,101401]]'
+- '[[_Standards/WikiData/WD~turret_clock,188298|WD~turret_clock,188298]]'
+- '[[_Standards/WikiData/WD~storey,831691|WD~storey,831691]]'
+- '[[_Standards/WikiData/WD~spire,852590|WD~spire,852590]]'
+- '[[_Standards/WikiData/WD~lantern,862454|WD~lantern,862454]]'
+- '[[_Standards/WikiData/WD~tread,3289701|WD~tread,3289701]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~City_of_Westminster,179351|WD~City_of_Westminster,179351]]'
+architectural_style: '[[_Standards/WikiData/WD~Gothic_Revival,186363|WD~Gothic_Revival,186363]]'
 architect:
-- '[[_Standards/WikiData/WD~Augustus_Pugin,313288]]'
-- '[[_Standards/WikiData/WD~Charles_Barry,552584]]'
+- '[[_Standards/WikiData/WD~Augustus_Pugin,313288|WD~Augustus_Pugin,313288]]'
+- '[[_Standards/WikiData/WD~Charles_Barry,552584|WD~Charles_Barry,552584]]'
 instance_of:
-- '[[_Standards/WikiData/WD~architectural_element,391414]]'
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~inclined_tower,797765]]'
-- '[[_Standards/WikiData/WD~national_symbol,1128637]]'
-- '[[_Standards/WikiData/WD~striking_clock,1480017]]'
-- '[[_Standards/WikiData/WD~cultural_icon,3139104]]'
+- '[[_Standards/WikiData/WD~architectural_element,391414|WD~architectural_element,391414]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~inclined_tower,797765|WD~inclined_tower,797765]]'
+- '[[_Standards/WikiData/WD~national_symbol,1128637|WD~national_symbol,1128637]]'
+- '[[_Standards/WikiData/WD~striking_clock,1480017|WD~striking_clock,1480017]]'
+- '[[_Standards/WikiData/WD~cultural_icon,3139104|WD~cultural_icon,3139104]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~Caen_stone,1421807]]'
-- '[[_Standards/WikiData/WD~limestone,23757]]'
+- '[[_Standards/WikiData/WD~Caen_stone,1421807|WD~Caen_stone,1421807]]'
+- '[[_Standards/WikiData/WD~limestone,23757|WD~limestone,23757]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Big_Ben,37733713]]'
-- '[[_Standards/WikiData/WD~mechanism_room_of_Elizabeth_Tower,107605146]]'
+- '[[_Standards/WikiData/WD~Big_Ben,37733713|WD~Big_Ben,37733713]]'
+- '[[_Standards/WikiData/WD~mechanism_room_of_Elizabeth_Tower,107605146|WD~mechanism_room_of_Elizabeth_Tower,107605146]]'
 coordinate_location: Point(-0.12457 51.50067)
 inception: 1843-09-28T00:00:00Z
-historic_county: '[[_Standards/WikiData/WD~Middlesex,19186]]'
-location: '[[_Standards/WikiData/WD~London,84]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+historic_county: '[[_Standards/WikiData/WD~Middlesex,19186|WD~Middlesex,19186]]'
+location: '[[_Standards/WikiData/WD~London,84|WD~London,84]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 elevation_above_sea_level: 17
 height: 96
-part_of: '[[_Standards/WikiData/WD~Palace_of_Westminster,62408]]'
+part_of: '[[_Standards/WikiData/WD~Palace_of_Westminster,62408|WD~Palace_of_Westminster,62408]]'
 Commons_gallery: Big Ben
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Clock%20Tower%2C%20London%2C%2021st%20august%202017%2010.00.webm
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Big%20Ben.stl
@@ -218,7 +218,7 @@ dv_has_:
 
 # [[Big_Ben]] 
 
-![[../../../assets/Big_Ben.png]] 
+![[../../../assets/Big_Ben.png|Big_Ben.png]] 
 
 #is_/same_as :: [[WD~Big_Ben,41225]] 
 

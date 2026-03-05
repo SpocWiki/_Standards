@@ -65,7 +65,7 @@ aliases:
 # [[Suter,Martin]] 
 
 #has_/time_/started :: 1948-02-29 
-#is_/friend_of :: [[German_Writer/Stuckrad-Barre,Benjamin_von]] 
+#is_/friend_of :: [[German_Writer/Stuckrad-Barre,Benjamin_von|Stuckrad-Barre,Benjamin_von]] 
 #has_/nationality :: [[../../../../../../../Earth/Continent/Europe/Europe~Central/Switzerland|Switzerland]] 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

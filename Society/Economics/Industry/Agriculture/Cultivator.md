@@ -34,13 +34,13 @@ aliases:
 - 耕耘機
 - 컬티베이터
 has_id_wikidata: Q1273840
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~garden_tool,1494647]]'
-- '[[_Standards/WikiData/WD~agricultural_tool,3629395]]'
-- '[[_Standards/WikiData/WD~tillage_machine,15306431]]'
-different_from: '[[_Standards/WikiData/WD~Cultivateur,20659687]]'
-source_of_energy: '[[_Standards/WikiData/WD~tractor,39495]]'
+- '[[_Standards/WikiData/WD~garden_tool,1494647|WD~garden_tool,1494647]]'
+- '[[_Standards/WikiData/WD~agricultural_tool,3629395|WD~agricultural_tool,3629395]]'
+- '[[_Standards/WikiData/WD~tillage_machine,15306431|WD~tillage_machine,15306431]]'
+different_from: '[[_Standards/WikiData/WD~Cultivateur,20659687|WD~Cultivateur,20659687]]'
+source_of_energy: '[[_Standards/WikiData/WD~tractor,39495|WD~tractor,39495]]'
 Nomenclature_for_Museum_Cataloging:
 - 3180
 - 3181

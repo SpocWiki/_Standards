@@ -72,12 +72,12 @@ aliases:
 - 양자 컴퓨터
 has_id_wikidata: Q176555
 studied_by:
-- '[[_Standards/WikiData/WD~quantum_information_science,2122216]]'
-- '[[_Standards/WikiData/WD~quantum_computing,17995793]]'
-has_use: '[[_Standards/WikiData/WD~quantum_computing,17995793]]'
+- '[[_Standards/WikiData/WD~quantum_information_science,2122216|WD~quantum_information_science,2122216]]'
+- '[[_Standards/WikiData/WD~quantum_computing,17995793|WD~quantum_computing,17995793]]'
+has_use: '[[_Standards/WikiData/WD~quantum_computing,17995793|WD~quantum_computing,17995793]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~quantum_system,21193136]]'
-- '[[_Standards/WikiData/WD~computer,68]]'
+- '[[_Standards/WikiData/WD~quantum_system,21193136|WD~quantum_system,21193136]]'
+- '[[_Standards/WikiData/WD~computer,68|WD~computer,68]]'
 Commons_category: Quantum computers
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/D-Wave%20Two%20512%20qubit%20Vesuvius%20chip.jpg

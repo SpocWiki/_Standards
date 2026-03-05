@@ -127,24 +127,24 @@ aliases:
   - 벽돌
 has_id_wikidata: Q40089
 used_by:
-  - "[[_Standards/WikiData/WD~brick_stamp,198731]]"
-  - "[[_Standards/WikiData/WD~bricklayer,327321]]"
-  - "[[_Standards/WikiData/WD~construction_worker,811122]]"
+  - "[[_Standards/WikiData/WD~brick_stamp,198731|WD~brick_stamp,198731]]"
+  - "[[_Standards/WikiData/WD~bricklayer,327321|WD~bricklayer,327321]]"
+  - "[[_Standards/WikiData/WD~construction_worker,811122|WD~construction_worker,811122]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~building_material,206615]]"
-  - "[[_Standards/WikiData/WD~brick,125279331]]"
+  - "[[_Standards/WikiData/WD~building_material,206615|WD~building_material,206615]]"
+  - "[[_Standards/WikiData/WD~brick,125279331|WD~brick,125279331]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 made_from_material:
-  - "[[_Standards/WikiData/WD~clinker_brick,970812]]"
-  - "[[_Standards/WikiData/WD~loam,1131303]]"
-  - "[[_Standards/WikiData/WD~clay,42302]]"
-manufacturer: "[[_Standards/WikiData/WD~brickmaker,66132353]]"
-different_from: "[[_Standards/WikiData/WD~Q94440495,94440495]]"
+  - "[[_Standards/WikiData/WD~clinker_brick,970812|WD~clinker_brick,970812]]"
+  - "[[_Standards/WikiData/WD~loam,1131303|WD~loam,1131303]]"
+  - "[[_Standards/WikiData/WD~clay,42302|WD~clay,42302]]"
+manufacturer: "[[_Standards/WikiData/WD~brickmaker,66132353|WD~brickmaker,66132353]]"
+different_from: "[[_Standards/WikiData/WD~Q94440495,94440495|WD~Q94440495,94440495]]"
 Nomenclature_for_Museum_Cataloging: 49
 OmegaWiki_Defined_Meaning: 432
 Commons_gallery: Brick

@@ -19,9 +19,9 @@ aliases:
 - 迪克西蘭
 - 딕실랜드
 has_id_wikidata: Q906647
-instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
-subclass_of: '[[_Standards/WikiData/WD~jazz,8341]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+subclass_of: '[[_Standards/WikiData/WD~jazz,8341|WD~jazz,8341]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 Commons_category: Dixieland
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Original%20Dixieland%20Jass%20Band%20-%20Livery%20Stable%20Blues%20%281917%29%20alternate%20edit.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BrianOConnell05.jpg

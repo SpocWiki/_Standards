@@ -64,14 +64,14 @@ aliases:
 - 電子殼
 - 전자 껍질
 has_id_wikidata: Q193793
-has_effect: '[[_Standards/WikiData/WD~chemical_property,764285]]'
-has_characteristic: '[[_Standards/WikiData/WD~principal_quantum_number,867448]]'
-subclass_of: '[[_Standards/WikiData/WD~structure,6671777]]'
-has_part_s_: '[[_Standards/WikiData/WD~electron,2225]]'
-part_of: '[[_Standards/WikiData/WD~atom,9121]]'
-has_cause: '[[_Standards/WikiData/WD~atomic_number,23809]]'
-studied_by: '[[_Standards/WikiData/WD~atomic_physics,26383]]'
-opposite_of: '[[_Standards/WikiData/WD~atomic_nucleus,37147]]'
+has_effect: '[[_Standards/WikiData/WD~chemical_property,764285|WD~chemical_property,764285]]'
+has_characteristic: '[[_Standards/WikiData/WD~principal_quantum_number,867448|WD~principal_quantum_number,867448]]'
+subclass_of: '[[_Standards/WikiData/WD~structure,6671777|WD~structure,6671777]]'
+has_part_s_: '[[_Standards/WikiData/WD~electron,2225|WD~electron,2225]]'
+part_of: '[[_Standards/WikiData/WD~atom,9121|WD~atom,9121]]'
+has_cause: '[[_Standards/WikiData/WD~atomic_number,23809|WD~atomic_number,23809]]'
+studied_by: '[[_Standards/WikiData/WD~atomic_physics,26383|WD~atomic_physics,26383]]'
+opposite_of: '[[_Standards/WikiData/WD~atomic_nucleus,37147|WD~atomic_nucleus,37147]]'
 Commons_category: Electron shell diagrams
 image: http://commons.wikimedia.org/wiki/Special:FilePath/8orbitals.jpg
 Commons_gallery: Electron shell

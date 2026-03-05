@@ -104,23 +104,23 @@ aliases:
 - 空间
 - 공간
 has_id_wikidata: Q107
-part_of: '[[_Standards/WikiData/WD~spacetime,133327]]'
+part_of: '[[_Standards/WikiData/WD~spacetime,133327|WD~spacetime,133327]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-studied_by: '[[_Standards/WikiData/WD~sociology_of_space,2133414]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_space,2133414|WD~sociology_of_space,2133414]]'
 manifestation_of:
-- '[[_Standards/WikiData/WD~measurable_set,3054889]]'
-- '[[_Standards/WikiData/WD~Euclidean_three_dimensional_space,123411317]]'
-has_characteristic: '[[_Standards/WikiData/WD~dimension,4440864]]'
+- '[[_Standards/WikiData/WD~measurable_set,3054889|WD~measurable_set,3054889]]'
+- '[[_Standards/WikiData/WD~Euclidean_three_dimensional_space,123411317|WD~Euclidean_three_dimensional_space,123411317]]'
+has_characteristic: '[[_Standards/WikiData/WD~dimension,4440864|WD~dimension,4440864]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~curved_space,5196078]]'
-- '[[_Standards/WikiData/WD~independent_continuant,53617489]]'
+- '[[_Standards/WikiData/WD~curved_space,5196078|WD~curved_space,5196078]]'
+- '[[_Standards/WikiData/WD~independent_continuant,53617489|WD~independent_continuant,53617489]]'
 different_from:
-- '[[_Standards/WikiData/WD~Raum,13472732]]'
-- '[[_Standards/WikiData/WD~Space,25657856]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~space_in_physics,23055553]]'
-contains: '[[_Standards/WikiData/WD~region_of_space,26713767]]'
+- '[[_Standards/WikiData/WD~Raum,13472732|WD~Raum,13472732]]'
+- '[[_Standards/WikiData/WD~Space,25657856|WD~Space,25657856]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~space_in_physics,23055553|WD~space_in_physics,23055553]]'
+contains: '[[_Standards/WikiData/WD~region_of_space,26713767|WD~region_of_space,26713767]]'
 Commons_category: Space
 image: http://commons.wikimedia.org/wiki/Special:FilePath/3D%20coordinate%20system.svg
 Iconclass_notation: 51I

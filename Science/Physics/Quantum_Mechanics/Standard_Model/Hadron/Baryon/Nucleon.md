@@ -54,20 +54,20 @@ aliases:
 - 핵자
 has_id_wikidata: Q102165
 interaction:
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
-has_characteristic: '[[_Standards/WikiData/WD~bound_state,908049]]'
-subclass_of: '[[_Standards/WikiData/WD~N_baryon,4044799]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-antiparticle: '[[_Standards/WikiData/WD~antinucleon,28855250]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415|WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418|WD~weak_interaction,11418]]'
+has_characteristic: '[[_Standards/WikiData/WD~bound_state,908049|WD~bound_state,908049]]'
+subclass_of: '[[_Standards/WikiData/WD~N_baryon,4044799|WD~N_baryon,4044799]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015|WD~type_of_quantum_particle,22675015]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+antiparticle: '[[_Standards/WikiData/WD~antinucleon,28855250|WD~antinucleon,28855250]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 half_life: 8.4e+33
-has_part_s_: '[[_Standards/WikiData/WD~quark,6718]]'
+has_part_s_: '[[_Standards/WikiData/WD~quark,6718|WD~quark,6718]]'
 spin_quantum_number: 0.5
-part_of: '[[_Standards/WikiData/WD~atomic_nucleus,37147]]'
+part_of: '[[_Standards/WikiData/WD~atomic_nucleus,37147|WD~atomic_nucleus,37147]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nucleus%20drawing.svg
 IEV_number:
 - 113-05-31
@@ -193,7 +193,7 @@ dv_has_:
 
 # [[Nucleon]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~nucleon,102165]] 
+#is_/same_as :: [[_Standards/WikiData/WD~nucleon,102165|WD~nucleon,102165]] 
 
 ## #has_/text_of_/abstract 
 

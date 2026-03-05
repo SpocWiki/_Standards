@@ -54,9 +54,9 @@ dv_has_name_cn: 新喀里多尼亚
 dv_has_name_ar: كاليدونيا الجديدة
 dv_has_name_ru: Новая Каледония
 dv_CLDR_display_name: New Caledonia
-dv_Region_Name: "[[../../Oceania]]"
+dv_Region_Name: "[[../../Oceania|Oceania]]"
 dv_Intermediate_Region_Name: "[[New_Caledonia]]"
-dv_Sub-region_Name: "[[../Melanesia]]"
+dv_Sub-region_Name: "[[../Melanesia|Melanesia]]"
 dv_Region: 9
 dv_Sub-region: 54
 dv_Geoname-ID: 2139685
@@ -81,9 +81,9 @@ dv_ISO3: NCL
 dv_has_name_de: Neukaledonien
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: "[[../Australia]]"
+dv_has_place_continent: "[[../Australia|Australia]]"
 dv_VehicleCode: NCL
-dv_Capital: "[[../New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa]]"
+dv_Capital: "[[../New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa|Nouméa]]"
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 166.458
 dv_has_place_latitude: -22.2758
@@ -115,7 +115,7 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 Caledonia is the Latin Name for [[../../Europe/Europe~North/UK/Scotland|Scotland]]. 
 
-[[New_Caledonia/ReadMe]] 
+[[New_Caledonia/ReadMe|ReadMe]] 
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

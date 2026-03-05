@@ -121,27 +121,27 @@ aliases:
 - ꯃꯦꯆꯤꯟ
 - 기계
 has_id_wikidata: Q11019
-has_part_s_: '[[_Standards/WikiData/WD~mechanism,517596]]'
+has_part_s_: '[[_Standards/WikiData/WD~mechanism,517596|WD~mechanism,517596]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-different_from: '[[_Standards/WikiData/WD~appliance,1183543]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~appliance,1183543|WD~appliance,1183543]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~appliance,1183543]]'
-- '[[_Standards/WikiData/WD~converter,35825432]]'
-manufacturer: '[[_Standards/WikiData/WD~manufacture_of_machinery_and_equipment,1957908]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_machines,7112682]]'
-has_effect: '[[_Standards/WikiData/WD~energy_transformation,11271324]]'
+- '[[_Standards/WikiData/WD~appliance,1183543|WD~appliance,1183543]]'
+- '[[_Standards/WikiData/WD~converter,35825432|WD~converter,35825432]]'
+manufacturer: '[[_Standards/WikiData/WD~manufacture_of_machinery_and_equipment,1957908|WD~manufacture_of_machinery_and_equipment,1957908]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_machines,7112682|WD~outline_of_machines,7112682]]'
+has_effect: '[[_Standards/WikiData/WD~energy_transformation,11271324|WD~energy_transformation,11271324]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_machine,14446996]]'
-- '[[_Standards/WikiData/WD~Template_Machines,16738851]]'
-instance_of: '[[_Standards/WikiData/WD~first_order_class,104086571]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_machine,14446996|WD~Template_Infobox_machine,14446996]]'
+- '[[_Standards/WikiData/WD~Template_Machines,16738851|WD~Template_Machines,16738851]]'
+instance_of: '[[_Standards/WikiData/WD~first_order_class,104086571|WD~first_order_class,104086571]]'
 properties_for_this_type:
 - location
 - has use
@@ -156,8 +156,8 @@ properties_for_this_type:
 - owned by
 - operator
 - manufacturer
-facet_of: '[[_Standards/WikiData/WD~engineering,11023]]'
-uses: '[[_Standards/WikiData/WD~energy,11379]]'
+facet_of: '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
+uses: '[[_Standards/WikiData/WD~energy,11379|WD~energy,11379]]'
 Commons_category: Machines
 OmegaWiki_Defined_Meaning: 1309356
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Maschine.ogg

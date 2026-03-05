@@ -49,18 +49,18 @@ aliases:
 - 해저 케이블
 has_id_wikidata: Q506572
 subclass_of:
-- '[[_Standards/WikiData/WD~cable,646462]]'
-- '[[_Standards/WikiData/WD~telecommunications_cable,15995523]]'
-has_part_s_: '[[_Standards/WikiData/WD~cable_landing_point,5015682]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_submarine_communications_cable,13383974]]'
-described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-has_use: '[[_Standards/WikiData/WD~telecommunications,418]]'
+- '[[_Standards/WikiData/WD~cable,646462|WD~cable,646462]]'
+- '[[_Standards/WikiData/WD~telecommunications_cable,15995523|WD~telecommunications_cable,15995523]]'
+has_part_s_: '[[_Standards/WikiData/WD~cable_landing_point,5015682|WD~cable_landing_point,5015682]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_submarine_communications_cable,13383974|WD~Template_Infobox_submarine_communications_cable,13383974]]'
+described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+has_use: '[[_Standards/WikiData/WD~telecommunications,418|WD~telecommunications,418]]'
 properties_for_this_type:
 - throughput
 - main building contractor
 uses:
-- '[[_Standards/WikiData/WD~electricity,12725]]'
-- '[[_Standards/WikiData/WD~optical_fiber,162]]'
+- '[[_Standards/WikiData/WD~electricity,12725|WD~electricity,12725]]'
+- '[[_Standards/WikiData/WD~optical_fiber,162|WD~optical_fiber,162]]'
 Commons_category: Submarine communications cables
 EntitySchema_for_this_class: E147
 UNSPSC_Code: 26121602

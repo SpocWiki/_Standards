@@ -45,12 +45,12 @@ aliases:
 - 石油化学製品
 - 석유화학제품
 has_id_wikidata: Q1364904
-fabrication_method: '[[_Standards/WikiData/WD~oil_refining,214261]]'
-part_of: '[[_Standards/WikiData/WD~petrochemistry,493630]]'
+fabrication_method: '[[_Standards/WikiData/WD~oil_refining,214261|WD~oil_refining,214261]]'
+part_of: '[[_Standards/WikiData/WD~petrochemistry,493630|WD~petrochemistry,493630]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~petroleum_product,1059843]]'
-- '[[_Standards/WikiData/WD~chemical_product,1069267]]'
-field_of_work: '[[_Standards/WikiData/WD~petrochemical_industry,16070574]]'
+- '[[_Standards/WikiData/WD~petroleum_product,1059843|WD~petroleum_product,1059843]]'
+- '[[_Standards/WikiData/WD~chemical_product,1069267|WD~chemical_product,1069267]]'
+field_of_work: '[[_Standards/WikiData/WD~petrochemical_industry,16070574|WD~petrochemical_industry,16070574]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/TASNEE%20001.jpg
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NEFTEHIMICHESKIE_PRODUKTI.html
 Commons_category: Petrochemicals

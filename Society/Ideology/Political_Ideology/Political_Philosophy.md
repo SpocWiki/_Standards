@@ -83,16 +83,16 @@ aliases:
 - 政治哲學
 - 정치철학
 has_id_wikidata: Q179805
-topic_has_template: '[[_Standards/WikiData/WD~Template_Social_and_political_philosophy,9176297]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~political_thought,11499141]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Political_philosophy,15664752]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Social_and_political_philosophy,9176297|WD~Template_Social_and_political_philosophy,9176297]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~political_thought,11499141|WD~political_thought,11499141]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Political_philosophy,15664752|WD~Portal_Political_philosophy,15664752]]'
 part_of:
-- '[[_Standards/WikiData/WD~political_studies,15831440]]'
-- '[[_Standards/WikiData/WD~political_theory_and_political_philosophy,112981240]]'
-- '[[_Standards/WikiData/WD~social_and_political_philosophy,113001585]]'
-practiced_by: '[[_Standards/WikiData/WD~political_philosopher,18930007]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
-subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~political_studies,15831440|WD~political_studies,15831440]]'
+- '[[_Standards/WikiData/WD~political_theory_and_political_philosophy,112981240|WD~political_theory_and_political_philosophy,112981240]]'
+- '[[_Standards/WikiData/WD~social_and_political_philosophy,113001585|WD~social_and_political_philosophy,113001585]]'
+practiced_by: '[[_Standards/WikiData/WD~political_philosopher,18930007|WD~political_philosopher,18930007]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234|WD~branch_of_philosophy,22811234]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 social_media_followers: 26929
 Library_of_Congress_Classification: B65
 Stack_Exchange_tag: https://philosophy.stackexchange.com/tags/political-philosophy

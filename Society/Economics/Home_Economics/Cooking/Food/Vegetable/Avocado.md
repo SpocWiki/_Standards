@@ -122,38 +122,38 @@ taxon_common_name:
   - אבוקדו
   - 樟梨
   - Avocado
-parent_taxon: "[[_Standards/WikiData/WD~Persea,132039]]"
+parent_taxon: "[[_Standards/WikiData/WD~Persea,132039|WD~Persea,132039]]"
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~fruit_vegetable,1470762]]"
-  - "[[_Standards/WikiData/WD~afforestation,2384419]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
+  - "[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]"
+  - "[[_Standards/WikiData/WD~fruit_vegetable,1470762|WD~fruit_vegetable,1470762]]"
+  - "[[_Standards/WikiData/WD~afforestation,2384419|WD~afforestation,2384419]]"
+IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005|WD~Least_Concern,211005]]"
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_31,112869410]]"
-different_from: "[[_Standards/WikiData/WD~avocado,961769]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_31,112869410|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_31,112869410]]"
+different_from: "[[_Standards/WikiData/WD~avocado,961769|WD~avocado,961769]]"
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~avocado,961769]]"
-  - "[[_Standards/WikiData/WD~avocado_oil,2918735]]"
-  - "[[_Standards/WikiData/WD~avocado_seed,104821994]]"
+  - "[[_Standards/WikiData/WD~avocado,961769|WD~avocado,961769]]"
+  - "[[_Standards/WikiData/WD~avocado_oil,2918735|WD~avocado_oil,2918735]]"
+  - "[[_Standards/WikiData/WD~avocado_seed,104821994|WD~avocado_seed,104821994]]"
 fruit_color:
-  - "[[_Standards/WikiData/WD~purple,3257809]]"
-  - "[[_Standards/WikiData/WD~dark_green,22963901]]"
-  - "[[_Standards/WikiData/WD~purplish_black,115413654]]"
-  - "[[_Standards/WikiData/WD~green,3133]]"
-  - "[[_Standards/WikiData/WD~black,23445]]"
-subclass_of: "[[_Standards/WikiData/WD~useful_plant,11992872]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-hardiness_of_plant: "[[_Standards/WikiData/WD~10,99549892]]"
+  - "[[_Standards/WikiData/WD~purple,3257809|WD~purple,3257809]]"
+  - "[[_Standards/WikiData/WD~dark_green,22963901|WD~dark_green,22963901]]"
+  - "[[_Standards/WikiData/WD~purplish_black,115413654|WD~purplish_black,115413654]]"
+  - "[[_Standards/WikiData/WD~green,3133|WD~green,3133]]"
+  - "[[_Standards/WikiData/WD~black,23445|WD~black,23445]]"
+subclass_of: "[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]"
+hardiness_of_plant: "[[_Standards/WikiData/WD~10,99549892|WD~10,99549892]]"
 start_time: -15000000-06
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
+taxon_rank: "[[_Standards/WikiData/WD~species,7432|WD~species,7432]]"
+has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712|WD~drupe,14712]]"
 taxon_range:
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Fujian,41705]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-country_of_origin: "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]"
+  - "[[_Standards/WikiData/WD~Fujian,41705|WD~Fujian,41705]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]"
+country_of_origin: "[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]"
 ITIS_TSN: 18154
 OmegaWiki_Defined_Meaning: 1323693
 taxon_author_citation: Mill.

@@ -42,21 +42,21 @@ aliases:
 - 配管
 - 배관
 has_id_wikidata: Q3241671
-uses: '[[_Standards/WikiData/WD~plumbing,182612]]'
+uses: '[[_Standards/WikiData/WD~plumbing,182612|WD~plumbing,182612]]'
 different_from:
-- '[[_Standards/WikiData/WD~plumbing,182612]]'
-- '[[_Standards/WikiData/WD~water_pipeline,373609]]'
+- '[[_Standards/WikiData/WD~plumbing,182612|WD~plumbing,182612]]'
+- '[[_Standards/WikiData/WD~water_pipeline,373609|WD~water_pipeline,373609]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~plumber,252924]]'
-- '[[_Standards/WikiData/WD~plumber_zinc_worker,135726726]]'
-instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Egyptians,1061510]]'
-subclass_of: '[[_Standards/WikiData/WD~activity,1914636]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Plumbing,124307185]]'
+- '[[_Standards/WikiData/WD~plumber,252924|WD~plumber,252924]]'
+- '[[_Standards/WikiData/WD~plumber_zinc_worker,135726726|WD~plumber_zinc_worker,135726726]]'
+instance_of: '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Egyptians,1061510|WD~Egyptians,1061510]]'
+subclass_of: '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Plumbing,124307185|WD~Template_Plumbing,124307185]]'
 time_of_discovery_or_invention: 1840-01-01T00:00:00Z
-country_of_origin: '[[_Standards/WikiData/WD~Egypt,79]]'
-location_of_discovery: '[[_Standards/WikiData/WD~Crete,34374]]'
+country_of_origin: '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Crete,34374|WD~Crete,34374]]'
 subreddit: Plumbing
 Commons_category: Plumbing
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Creativ%20plumbing%20-%20drain%20maze.png

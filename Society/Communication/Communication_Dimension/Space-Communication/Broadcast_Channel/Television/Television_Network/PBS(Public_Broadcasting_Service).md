@@ -62,25 +62,25 @@ donations:
 - 295752131
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/PBS%20%282025%29.svg
 instance_of:
-- '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
-- '[[_Standards/WikiData/WD~public_broadcaster,1126006]]'
-- '[[_Standards/WikiData/WD~television_network,1254874]]'
+- '[[_Standards/WikiData/WD~nonprofit_organization,163740|WD~nonprofit_organization,163740]]'
+- '[[_Standards/WikiData/WD~public_broadcaster,1126006|WD~public_broadcaster,1126006]]'
+- '[[_Standards/WikiData/WD~television_network,1254874|WD~television_network,1254874]]'
 owner_of:
-- '[[_Standards/WikiData/WD~PBS_Kids,3245159]]'
-- '[[_Standards/WikiData/WD~PBS_Kids_Go!,9053785]]'
-headquarters_location: '[[_Standards/WikiData/WD~Crystal_City,3820323]]'
-replaces: '[[_Standards/WikiData/WD~National_Educational_Television,3873154]]'
+- '[[_Standards/WikiData/WD~PBS_Kids,3245159|WD~PBS_Kids,3245159]]'
+- '[[_Standards/WikiData/WD~PBS_Kids_Go!,9053785|WD~PBS_Kids_Go!,9053785]]'
+headquarters_location: '[[_Standards/WikiData/WD~Crystal_City,3820323|WD~Crystal_City,3820323]]'
+replaces: '[[_Standards/WikiData/WD~National_Educational_Television,3873154|WD~National_Educational_Television,3873154]]'
 founded_by:
-- '[[_Standards/WikiData/WD~James_Day,6132450]]'
-- '[[_Standards/WikiData/WD~John_Macy,6246342]]'
-- '[[_Standards/WikiData/WD~Hartford_N._Gunn_Jr.,71751630]]'
-different_from: '[[_Standards/WikiData/WD~Public_Service_Broadcasting,7257602]]'
-legal_form: '[[_Standards/WikiData/WD~501(c)(3)_organization,18325436]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_PBS,20324077]]'
-member_of: '[[_Standards/WikiData/WD~National_Digital_Stewardship_Alliance,60607639]]'
-award_received: '[[_Standards/WikiData/WD~Silver_Anvil_Award,92429087]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~public_television,116978815]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~James_Day,6132450|WD~James_Day,6132450]]'
+- '[[_Standards/WikiData/WD~John_Macy,6246342|WD~John_Macy,6246342]]'
+- '[[_Standards/WikiData/WD~Hartford_N._Gunn_Jr.,71751630|WD~Hartford_N._Gunn_Jr.,71751630]]'
+different_from: '[[_Standards/WikiData/WD~Public_Service_Broadcasting,7257602|WD~Public_Service_Broadcasting,7257602]]'
+legal_form: '[[_Standards/WikiData/WD~501(c)(3)_organization,18325436|WD~501(c)(3)_organization,18325436]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_PBS,20324077|WD~Template_PBS,20324077]]'
+member_of: '[[_Standards/WikiData/WD~National_Digital_Stewardship_Alliance,60607639|WD~National_Digital_Stewardship_Alliance,60607639]]'
+award_received: '[[_Standards/WikiData/WD~Silver_Anvil_Award,92429087|WD~Silver_Anvil_Award,92429087]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~public_television,116978815|WD~public_television,116978815]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 social_media_followers:
 - 1510000
 - 2243152

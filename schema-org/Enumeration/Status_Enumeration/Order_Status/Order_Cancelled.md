@@ -27,9 +27,9 @@ tags:
 title: is_an_order_cancelled Class
 type: Type
 dv_has_:
-  parent_class: "[[../OrderStatus]]"
+  parent_class: "[[../OrderStatus|OrderStatus]]"
 dv_is_:
-  enum_of: "[[../OrderStatus]]"
+  enum_of: "[[../OrderStatus|OrderStatus]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled|Order_Cancelled]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.public|Order_Cancelled.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.personal|Order_Cancelled.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.secret|Order_Cancelled.secret]]"
     - "[[Order_Cancelled]]"
-dv_has_parent_class: "[[../OrderStatus]]"
-dv_is_enum_of: "[[../OrderStatus]]"
+dv_has_parent_class: "[[../OrderStatus|OrderStatus]]"
+dv_is_enum_of: "[[../OrderStatus|OrderStatus]]"
 dv_is_same_as:
   - "[[Order_Cancelled]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.public|Order_Cancelled.public]]"

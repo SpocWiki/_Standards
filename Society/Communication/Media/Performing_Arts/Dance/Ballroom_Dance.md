@@ -46,11 +46,11 @@ aliases:
 - 사교춤
 has_id_wikidata: Q1085001
 subclass_of:
-- '[[_Standards/WikiData/WD~partner_dance,280336]]'
-- '[[_Standards/WikiData/WD~sport,349]]'
-practiced_by: '[[_Standards/WikiData/WD~dancer,5716684]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_Loves_Cultura_Popular_Brasil_Danças,_festivais_e_músicas,116742198]]'
+- '[[_Standards/WikiData/WD~partner_dance,280336|WD~partner_dance,280336]]'
+- '[[_Standards/WikiData/WD~sport,349|WD~sport,349]]'
+practiced_by: '[[_Standards/WikiData/WD~dancer,5716684|WD~dancer,5716684]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104|WD~type_of_dance,107357104]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_Loves_Cultura_Popular_Brasil_Danças,_festivais_e_músicas,116742198|WD~Wiki_Loves_Cultura_Popular_Brasil_Danças,_festivais_e_músicas,116742198]]'
 Commons_category: Ballroom dance
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ballroom.svg
 dv_has_:

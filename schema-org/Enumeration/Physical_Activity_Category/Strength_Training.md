@@ -27,9 +27,9 @@ tags:
 title: is_a_strength_training Class
 type: Type
 dv_has_:
-  parent_class: "[[../PhysicalActivityCategory]]"
+  parent_class: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
 dv_is_:
-  enum_of: "[[../PhysicalActivityCategory]]"
+  enum_of: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Strength_Training|Strength_Training]]"
     - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.public|Strength_Training.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.personal|Strength_Training.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.secret|Strength_Training.secret]]"
     - "[[Strength_Training]]"
-dv_has_parent_class: "[[../PhysicalActivityCategory]]"
-dv_is_enum_of: "[[../PhysicalActivityCategory]]"
+dv_has_parent_class: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
+dv_is_enum_of: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
 dv_is_same_as:
   - "[[Strength_Training]]"
   - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.public|Strength_Training.public]]"

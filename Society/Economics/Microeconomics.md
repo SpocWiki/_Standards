@@ -78,24 +78,24 @@ aliases:
 - 미시경제학
 has_id_wikidata: Q39072
 is_the_study_of:
-- '[[_Standards/WikiData/WD~supply_and_demand,166656]]'
-- '[[_Standards/WikiData/WD~general_equilibrium_theory,282640]]'
-- '[[_Standards/WikiData/WD~market_failure,622657]]'
-- '[[_Standards/WikiData/WD~consumer_choice,833495]]'
-- '[[_Standards/WikiData/WD~market_structure,877707]]'
-- '[[_Standards/WikiData/WD~economic_cost,5333450]]'
-facet_of: '[[_Standards/WikiData/WD~economic_theory,1401304]]'
+- '[[_Standards/WikiData/WD~supply_and_demand,166656|WD~supply_and_demand,166656]]'
+- '[[_Standards/WikiData/WD~general_equilibrium_theory,282640|WD~general_equilibrium_theory,282640]]'
+- '[[_Standards/WikiData/WD~market_failure,622657|WD~market_failure,622657]]'
+- '[[_Standards/WikiData/WD~consumer_choice,833495|WD~consumer_choice,833495]]'
+- '[[_Standards/WikiData/WD~market_structure,877707|WD~market_structure,877707]]'
+- '[[_Standards/WikiData/WD~economic_cost,5333450|WD~economic_cost,5333450]]'
+facet_of: '[[_Standards/WikiData/WD~economic_theory,1401304|WD~economic_theory,1401304]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Microeconomics,8093880]]'
-- '[[_Standards/WikiData/WD~Q106410393,106410393]]'
-part_of: '[[_Standards/WikiData/WD~general_economics,10660901]]'
+- '[[_Standards/WikiData/WD~Template_Microeconomics,8093880|WD~Template_Microeconomics,8093880]]'
+- '[[_Standards/WikiData/WD~Q106410393,106410393|WD~Q106410393,106410393]]'
+part_of: '[[_Standards/WikiData/WD~general_economics,10660901|WD~general_economics,10660901]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~theory,17737]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12960873,12960873]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~Rethinking_Economics,109321226]]'
-subclass_of: '[[_Standards/WikiData/WD~economics,8134]]'
-opposite_of: '[[_Standards/WikiData/WD~macroeconomics,39680]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~theory,17737|WD~theory,17737]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12960873,12960873|WD~Q12960873,12960873]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Rethinking_Economics,109321226|WD~Rethinking_Economics,109321226]]'
+subclass_of: '[[_Standards/WikiData/WD~economics,8134|WD~economics,8134]]'
+opposite_of: '[[_Standards/WikiData/WD~macroeconomics,39680|WD~macroeconomics,39680]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Supply-demand-equilibrium.svg
 Basisklassifikation: 83.11
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Delhi%20main%20bazaar.jpg

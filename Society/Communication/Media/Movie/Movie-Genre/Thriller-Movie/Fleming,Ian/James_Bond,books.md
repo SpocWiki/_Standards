@@ -45,24 +45,24 @@ aliases:
 - 詹姆斯·邦德
 - 제임스 본드
 has_id_wikidata: Q844
-creator: '[[_Standards/WikiData/WD~Ian_Fleming,82104]]'
-author: '[[_Standards/WikiData/WD~Ian_Fleming,82104]]'
+creator: '[[_Standards/WikiData/WD~Ian_Fleming,82104|WD~Ian_Fleming,82104]]'
+author: '[[_Standards/WikiData/WD~Ian_Fleming,82104|WD~Ian_Fleming,82104]]'
 different_from:
-- '[[_Standards/WikiData/WD~007,161186]]'
-- '[[_Standards/WikiData/WD~James_Bond,345818]]'
+- '[[_Standards/WikiData/WD~007,161186|WD~007,161186]]'
+- '[[_Standards/WikiData/WD~James_Bond,345818|WD~James_Bond,345818]]'
 characters:
-- '[[_Standards/WikiData/WD~Miss_Moneypenny,211414]]'
-- '[[_Standards/WikiData/WD~M,246154]]'
-- '[[_Standards/WikiData/WD~James_Bond,2009573]]'
+- '[[_Standards/WikiData/WD~Miss_Moneypenny,211414|WD~Miss_Moneypenny,211414]]'
+- '[[_Standards/WikiData/WD~M,246154|WD~M,246154]]'
+- '[[_Standards/WikiData/WD~James_Bond,2009573|WD~James_Bond,2009573]]'
 instance_of:
-- '[[_Standards/WikiData/WD~book_series,277759]]'
-- '[[_Standards/WikiData/WD~long_series_books,106974458]]'
-named_after: '[[_Standards/WikiData/WD~James_Bond,2009573]]'
-bibliography: '[[_Standards/WikiData/WD~bibliography_of_James_Bond,4903356]]'
-fandom: '[[_Standards/WikiData/WD~James_Bond_fandom,6129982]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_James_Bond,13583183]]'
-takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~James_Bond_universe,101195558]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~book_series,277759|WD~book_series,277759]]'
+- '[[_Standards/WikiData/WD~long_series_books,106974458|WD~long_series_books,106974458]]'
+named_after: '[[_Standards/WikiData/WD~James_Bond,2009573|WD~James_Bond,2009573]]'
+bibliography: '[[_Standards/WikiData/WD~bibliography_of_James_Bond,4903356|WD~bibliography_of_James_Bond,4903356]]'
+fandom: '[[_Standards/WikiData/WD~James_Bond_fandom,6129982|WD~James_Bond_fandom,6129982]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_James_Bond,13583183|WD~Portal_James_Bond,13583183]]'
+takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~James_Bond_universe,101195558|WD~James_Bond_universe,101195558]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
 Commons_gallery: James Bond
 Commons_category: James Bond
 official_website: https://www.007.com/

@@ -35,27 +35,27 @@ aliases:
 - 메이저 리그 베이스볼
 has_id_wikidata: Q1163715
 has_part_s_:
-- '[[_Standards/WikiData/WD~American_League,465469]]'
-- '[[_Standards/WikiData/WD~National_League,858082]]'
+- '[[_Standards/WikiData/WD~American_League,465469|WD~American_League,465469]]'
+- '[[_Standards/WikiData/WD~National_League,858082|WD~National_League,858082]]'
 child_organization_or_unit:
-- '[[_Standards/WikiData/WD~American_League,465469]]'
-- '[[_Standards/WikiData/WD~National_League,858082]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Commissioner_of_Baseball,1051088]]'
-league_level_below: '[[_Standards/WikiData/WD~Class_AAA,5359555]]'
+- '[[_Standards/WikiData/WD~American_League,465469|WD~American_League,465469]]'
+- '[[_Standards/WikiData/WD~National_League,858082|WD~National_League,858082]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Commissioner_of_Baseball,1051088|WD~Commissioner_of_Baseball,1051088]]'
+league_level_below: '[[_Standards/WikiData/WD~Class_AAA,5359555|WD~Class_AAA,5359555]]'
 instance_of:
-- '[[_Standards/WikiData/WD~baseball_league,6631808]]'
-- '[[_Standards/WikiData/WD~professional_sports_league,15991290]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_MLB,10596571]]'
+- '[[_Standards/WikiData/WD~baseball_league,6631808|WD~baseball_league,6631808]]'
+- '[[_Standards/WikiData/WD~professional_sports_league,15991290|WD~professional_sports_league,15991290]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_MLB,10596571|WD~Template_MLB,10596571]]'
 inception:
 - 1869-01-01T00:00:00Z
 - 1903-01-01T00:00:00Z
-sport: '[[_Standards/WikiData/WD~baseball,5369]]'
+sport: '[[_Standards/WikiData/WD~baseball,5369|WD~baseball,5369]]'
 country:
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-headquarters_locations: '[[_Standards/WikiData/WD~New_York_City,60]]'
-season_starts: '[[_Standards/WikiData/WD~April,118]]'
-season_ends: '[[_Standards/WikiData/WD~October,124]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+headquarters_locations: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
+season_starts: '[[_Standards/WikiData/WD~April,118|WD~April,118]]'
+season_ends: '[[_Standards/WikiData/WD~October,124|WD~October,124]]'
 event_interval: 1
 number_of_participants: 30
 number_of_matches_played_races_starts: 162

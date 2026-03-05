@@ -91,35 +91,35 @@ aliases:
 - 폭력
 has_id_wikidata: Q124490
 Dewey_Decimal_Classification: 303.6
-opposite_of: '[[_Standards/WikiData/WD~nonviolence,76611]]'
+opposite_of: '[[_Standards/WikiData/WD~nonviolence,76611|WD~nonviolence,76611]]'
 has_effect:
-- '[[_Standards/WikiData/WD~pain,81938]]'
-- '[[_Standards/WikiData/WD~injury_in_humans,193078]]'
+- '[[_Standards/WikiData/WD~pain,81938|WD~pain,81938]]'
+- '[[_Standards/WikiData/WD~injury_in_humans,193078|WD~injury_in_humans,193078]]'
 has_cause:
-- '[[_Standards/WikiData/WD~psychosis,170082]]'
-- '[[_Standards/WikiData/WD~human_overpopulation,331439]]'
-- '[[_Standards/WikiData/WD~psychological_trauma,654426]]'
-- '[[_Standards/WikiData/WD~dehumanization,3495037]]'
-- '[[_Standards/WikiData/WD~mental_disorder,12135]]'
-different_from: '[[_Standards/WikiData/WD~BDSM,190845]]'
+- '[[_Standards/WikiData/WD~psychosis,170082|WD~psychosis,170082]]'
+- '[[_Standards/WikiData/WD~human_overpopulation,331439|WD~human_overpopulation,331439]]'
+- '[[_Standards/WikiData/WD~psychological_trauma,654426|WD~psychological_trauma,654426]]'
+- '[[_Standards/WikiData/WD~dehumanization,3495037|WD~dehumanization,3495037]]'
+- '[[_Standards/WikiData/WD~mental_disorder,12135|WD~mental_disorder,12135]]'
+different_from: '[[_Standards/WikiData/WD~BDSM,190845|WD~BDSM,190845]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~aggression,191797]]'
-- '[[_Standards/WikiData/WD~activity,1914636]]'
-- '[[_Standards/WikiData/WD~destructive_behavior,60971579]]'
-part_of: '[[_Standards/WikiData/WD~abuse,600571]]'
+- '[[_Standards/WikiData/WD~aggression,191797|WD~aggression,191797]]'
+- '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~destructive_behavior,60971579|WD~destructive_behavior,60971579]]'
+part_of: '[[_Standards/WikiData/WD~abuse,600571|WD~abuse,600571]]'
 contributing_factor_of:
-- '[[_Standards/WikiData/WD~unnatural_death,855919]]'
-- '[[_Standards/WikiData/WD~revenge,1712140]]'
-- '[[_Standards/WikiData/WD~parental_alienation,1949144]]'
+- '[[_Standards/WikiData/WD~unnatural_death,855919|WD~unnatural_death,855919]]'
+- '[[_Standards/WikiData/WD~revenge,1712140|WD~revenge,1712140]]'
+- '[[_Standards/WikiData/WD~parental_alienation,1949144|WD~parental_alienation,1949144]]'
 instance_of:
-- '[[_Standards/WikiData/WD~pattern_of_behavior,2515887]]'
-- '[[_Standards/WikiData/WD~topic,26256810]]'
+- '[[_Standards/WikiData/WD~pattern_of_behavior,2515887|WD~pattern_of_behavior,2515887]]'
+- '[[_Standards/WikiData/WD~topic,26256810|WD~topic,26256810]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_16.1_of_the_Sustainable_Development_Goals,57590920]]'
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~violence_prevention,104733130]]'
-studied_by: '[[_Standards/WikiData/WD~sociology_of_violence,118982203]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_16.1_of_the_Sustainable_Development_Goals,57590920|WD~Target_16.1_of_the_Sustainable_Development_Goals,57590920]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~violence_prevention,104733130|WD~violence_prevention,104733130]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_violence,118982203|WD~sociology_of_violence,118982203]]'
 OmegaWiki_Defined_Meaning: 159718
 U_S_National_Archives_Identifier: 10643856
 IMDb_keyword: violence

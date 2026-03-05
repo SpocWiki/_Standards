@@ -138,22 +138,22 @@ aliases:
 - 콤퓨터건반
 has_id_wikidata: Q250
 has_part_s_:
-- '[[_Standards/WikiData/WD~numeric_keypad,199306]]'
-- '[[_Standards/WikiData/WD~computer_key,27884930]]'
-creator: '[[_Standards/WikiData/WD~Sam_Hecht,654495]]'
+- '[[_Standards/WikiData/WD~numeric_keypad,199306|WD~numeric_keypad,199306]]'
+- '[[_Standards/WikiData/WD~computer_key,27884930|WD~computer_key,27884930]]'
+creator: '[[_Standards/WikiData/WD~Sam_Hecht,654495|WD~Sam_Hecht,654495]]'
 different_from:
-- '[[_Standards/WikiData/WD~keyboard_layout,725744]]'
-- '[[_Standards/WikiData/WD~keyboard,1921606]]'
+- '[[_Standards/WikiData/WD~keyboard_layout,725744|WD~keyboard_layout,725744]]'
+- '[[_Standards/WikiData/WD~keyboard,1921606|WD~keyboard,1921606]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~keyboard_layout,725744]]'
+- '[[_Standards/WikiData/WD~keyboard_layout,725744|WD~keyboard_layout,725744]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~human_interface_device,1348085]]'
-- '[[_Standards/WikiData/WD~keyboard,1921606]]'
-- '[[_Standards/WikiData/WD~text_entry_interface,7708418]]'
+- '[[_Standards/WikiData/WD~human_interface_device,1348085|WD~human_interface_device,1348085]]'
+- '[[_Standards/WikiData/WD~keyboard,1921606|WD~keyboard,1921606]]'
+- '[[_Standards/WikiData/WD~text_entry_interface,7708418|WD~text_entry_interface,7708418]]'
 part_of:
-- '[[_Standards/WikiData/WD~terminal,3518405]]'
-- '[[_Standards/WikiData/WD~computer,68]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Keyboard,6369712]]'
+- '[[_Standards/WikiData/WD~terminal,3518405|WD~terminal,3518405]]'
+- '[[_Standards/WikiData/WD~computer,68|WD~computer,68]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Keyboard,6369712|WD~Template_Keyboard,6369712]]'
 Nomenclature_for_Museum_Cataloging: 10498
 Commons_gallery: Keyboard
 OmegaWiki_Defined_Meaning: 332801

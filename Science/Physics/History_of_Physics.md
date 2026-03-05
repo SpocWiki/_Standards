@@ -60,15 +60,15 @@ aliases:
 - 物理學史
 - 물리학의 역사
 has_id_wikidata: Q212881
-described_by_source: '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+described_by_source: '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_natural_science,56296765]]'
-practiced_by: '[[_Standards/WikiData/WD~historian_of_physics,88209559]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_physics,110990823]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_natural_science,56296765|WD~history_of_natural_science,56296765]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_physics,88209559|WD~historian_of_physics,88209559]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_physics,110990823|WD~Template_History_of_physics,110990823]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0%20%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8.wav
-facet_of: '[[_Standards/WikiData/WD~physics,413]]'
+facet_of: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
 Basisklassifikation: 33.01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Solvay%20conference%201927.jpg
 Stack_Exchange_tag:

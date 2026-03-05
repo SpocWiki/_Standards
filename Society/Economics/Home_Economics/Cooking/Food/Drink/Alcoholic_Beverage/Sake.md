@@ -36,16 +36,16 @@ aliases:
 - 사케
 has_id_wikidata: Q170219
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-subclass_of: '[[_Standards/WikiData/WD~rice_wine,1142986]]'
-made_from_material: '[[_Standards/WikiData/WD~sake_rice,2204436]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_sake,11509280]]'
-has_list: '[[_Standards/WikiData/WD~list_of_sake_brands,11509281]]'
-main_regulatory_text: '[[_Standards/WikiData/WD~Liquor_Tax_Act,11644367]]'
-different_from: '[[_Standards/WikiData/WD~Q22386583,22386583]]'
-country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+subclass_of: '[[_Standards/WikiData/WD~rice_wine,1142986|WD~rice_wine,1142986]]'
+made_from_material: '[[_Standards/WikiData/WD~sake_rice,2204436|WD~sake_rice,2204436]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_sake,11509280|WD~history_of_sake,11509280]]'
+has_list: '[[_Standards/WikiData/WD~list_of_sake_brands,11509281|WD~list_of_sake_brands,11509281]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Liquor_Tax_Act,11644367|WD~Liquor_Tax_Act,11644367]]'
+different_from: '[[_Standards/WikiData/WD~Q22386583,22386583|WD~Q22386583,22386583]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
 OmegaWiki_Defined_Meaning: 876443
 subreddit: Sake
 Commons_category: Sake

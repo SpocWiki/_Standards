@@ -56,9 +56,9 @@ aliases:
 - 辗转相除法
 - 유클리드 호제법
 has_id_wikidata: Q230848
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~algorithm,8366]]'
-named_after: '[[_Standards/WikiData/WD~Euclid,8747]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~algorithm,8366|WD~algorithm,8366]]'
+named_after: '[[_Standards/WikiData/WD~Euclid,8747|WD~Euclid,8747]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Euclidean%20algorithm%20252%20105%20animation%20flipped.gif
 Commons_category: Euclidean algorithm
 dv_has_:

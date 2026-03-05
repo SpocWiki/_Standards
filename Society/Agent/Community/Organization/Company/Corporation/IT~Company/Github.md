@@ -44,7 +44,7 @@ aliases:
 
 
 
-> **Github**, Inc. () is a platform and cloud-based service for software development and version control using [[../../../../../../../../IT/Algorithms/Code-Versioning/Git]], 
+> **Github**, Inc. () is a platform and cloud-based service for software development and version control using [[../../../../../../../../IT/Algorithms/Code-Versioning/Git|Git]], 
 > allowing developers to store and manage their code. 
 > 
 > It provides the distributed version control of Git plus 

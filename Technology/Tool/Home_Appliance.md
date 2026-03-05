@@ -83,15 +83,15 @@ aliases:
 - 가전제품
 has_id_wikidata: Q212920
 subclass_of:
-- '[[_Standards/WikiData/WD~appliance,1183543]]'
-- '[[_Standards/WikiData/WD~manufactured_good,1836700]]'
-- '[[_Standards/WikiData/WD~durable_good,2184715]]'
+- '[[_Standards/WikiData/WD~appliance,1183543|WD~appliance,1183543]]'
+- '[[_Standards/WikiData/WD~manufactured_good,1836700|WD~manufactured_good,1836700]]'
+- '[[_Standards/WikiData/WD~durable_good,2184715|WD~durable_good,2184715]]'
 different_from:
-- '[[_Standards/WikiData/WD~electrical_appliance,2425052]]'
-- '[[_Standards/WikiData/WD~gas_appliance,3819757]]'
-part_of: '[[_Standards/WikiData/WD~everyday_culture,2649476]]'
-facet_of: '[[_Standards/WikiData/WD~household,10854954]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_home_appliance,67416037]]'
+- '[[_Standards/WikiData/WD~electrical_appliance,2425052|WD~electrical_appliance,2425052]]'
+- '[[_Standards/WikiData/WD~gas_appliance,3819757|WD~gas_appliance,3819757]]'
+part_of: '[[_Standards/WikiData/WD~everyday_culture,2649476|WD~everyday_culture,2649476]]'
+facet_of: '[[_Standards/WikiData/WD~household,10854954|WD~household,10854954]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_home_appliance,67416037|WD~Template_Infobox_home_appliance,67416037]]'
 OmegaWiki_Defined_Meaning: 967
 IAB_code: 278
 image:

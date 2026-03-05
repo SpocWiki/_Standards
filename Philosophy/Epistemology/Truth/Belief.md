@@ -209,7 +209,7 @@ aliases:
 
 ## [[Belief]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~belief,34394]] 
+#is_/same_as :: [[_Standards/WikiData/WD~belief,34394|WD~belief,34394]] 
 #has_/complement :: [[Skepticism|Scepticism]] 
 #is_/more_than :: [[../../../Society/Communication/Media/Creative_Work/Statement/Opinion|Opinion]] 
 

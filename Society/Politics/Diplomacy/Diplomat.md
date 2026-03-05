@@ -76,16 +76,16 @@ aliases:
 - 외교관
 has_id_wikidata: Q193391
 subclass_of:
-- '[[_Standards/WikiData/WD~statesperson,372436]]'
-- '[[_Standards/WikiData/WD~official,599151]]'
+- '[[_Standards/WikiData/WD~statesperson,372436|WD~statesperson,372436]]'
+- '[[_Standards/WikiData/WD~official,599151|WD~official,599151]]'
 instance_of:
-- '[[_Standards/WikiData/WD~corporate_title,11488158]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~corporate_title,11488158|WD~corporate_title,11488158]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59576047,59576047]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~diplomacy,1889]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59576047,59576047|WD~Q59576047,59576047]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~diplomacy,1889|WD~diplomacy,1889]]'
 IMDb_keyword: diplomat
 OmegaWiki_Defined_Meaning: 440185
 male_form_of_label:
@@ -280,7 +280,7 @@ dv_has_:
 
 # [[Diplomat]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~diplomat,193391]] 
+#is_/same_as :: [[_Standards/WikiData/WD~diplomat,193391|WD~diplomat,193391]] 
 
 ## #has_/text_of_/abstract 
 

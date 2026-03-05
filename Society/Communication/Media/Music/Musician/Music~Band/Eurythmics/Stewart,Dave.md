@@ -5,7 +5,7 @@ aliases:
   - Stewart,Dave
 ---
 
-#is_/part_of :: [[../Eurythmics]] 
+#is_/part_of :: [[../Eurythmics|Eurythmics]] 
 
 ## #has_/text_of_/abstract 
 

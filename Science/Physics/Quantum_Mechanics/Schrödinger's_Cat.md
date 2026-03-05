@@ -76,11 +76,11 @@ aliases:
 - 슈뢰딩거의 고양이
 has_id_wikidata: Q8588
 instance_of:
-- '[[_Standards/WikiData/WD~thought_experiment,147027]]'
-- '[[_Standards/WikiData/WD~paradox,483372]]'
-- '[[_Standards/WikiData/WD~fictional_cat,27120684]]'
-creator: '[[_Standards/WikiData/WD~Erwin_Schrödinger,9130]]'
-named_after: '[[_Standards/WikiData/WD~Erwin_Schrödinger,9130]]'
+- '[[_Standards/WikiData/WD~thought_experiment,147027|WD~thought_experiment,147027]]'
+- '[[_Standards/WikiData/WD~paradox,483372|WD~paradox,483372]]'
+- '[[_Standards/WikiData/WD~fictional_cat,27120684|WD~fictional_cat,27120684]]'
+creator: '[[_Standards/WikiData/WD~Erwin_Schrödinger,9130|WD~Erwin_Schrödinger,9130]]'
+named_after: '[[_Standards/WikiData/WD~Erwin_Schrödinger,9130|WD~Erwin_Schrödinger,9130]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schrodingers%20cat.svg
 Commons_category: Schrödinger's Cat
 publication_date: 1935-01-01T00:00:00Z

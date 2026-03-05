@@ -132,33 +132,33 @@ has_id_wikidata: Q10294
 IMDb_keyword: poverty
 Commons_gallery: Poverty
 Commons_category: Poverty
-contributing_factor_of: '[[_Standards/WikiData/WD~homelessness,131327]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~homelessness,131327|WD~homelessness,131327]]'
 has_effect:
-- '[[_Standards/WikiData/WD~hunger,165947]]'
-- '[[_Standards/WikiData/WD~people_in_poverty,21171811]]'
-opposite_of: '[[_Standards/WikiData/WD~wealth,200535]]'
+- '[[_Standards/WikiData/WD~hunger,165947|WD~hunger,165947]]'
+- '[[_Standards/WikiData/WD~people_in_poverty,21171811|WD~people_in_poverty,21171811]]'
+opposite_of: '[[_Standards/WikiData/WD~wealth,200535|WD~wealth,200535]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~feminization_of_poverty,1404505]]'
-- '[[_Standards/WikiData/WD~masculinization_of_poverty,131674882]]'
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~poverty_reduction,1824165]]'
+- '[[_Standards/WikiData/WD~feminization_of_poverty,1404505|WD~feminization_of_poverty,1404505]]'
+- '[[_Standards/WikiData/WD~masculinization_of_poverty,131674882|WD~masculinization_of_poverty,131674882]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~poverty_reduction,1824165|WD~poverty_reduction,1824165]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_issue,1920219]]'
-- '[[_Standards/WikiData/WD~state,3505845]]'
-has_cause: '[[_Standards/WikiData/WD~urban_decay,2039238]]'
-studied_by: '[[_Standards/WikiData/WD~sociology_of_poverty,3487504]]'
-instance_of: '[[_Standards/WikiData/WD~status,11424100]]'
-different_from: '[[_Standards/WikiData/WD~Q20418222,20418222]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Poverty,25804151]]'
-relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Sustainable_Development_Goal_1,50214636]]'
-has_part_s_: '[[_Standards/WikiData/WD~Poverty_in_Islam,125727758]]'
+- '[[_Standards/WikiData/WD~social_issue,1920219|WD~social_issue,1920219]]'
+- '[[_Standards/WikiData/WD~state,3505845|WD~state,3505845]]'
+has_cause: '[[_Standards/WikiData/WD~urban_decay,2039238|WD~urban_decay,2039238]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_poverty,3487504|WD~sociology_of_poverty,3487504]]'
+instance_of: '[[_Standards/WikiData/WD~status,11424100|WD~status,11424100]]'
+different_from: '[[_Standards/WikiData/WD~Q20418222,20418222|WD~Q20418222,20418222]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Poverty,25804151|WD~Template_Poverty,25804151]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Sustainable_Development_Goal_1,50214636|WD~Sustainable_Development_Goal_1,50214636]]'
+has_part_s_: '[[_Standards/WikiData/WD~Poverty_in_Islam,125727758|WD~Poverty_in_Islam,125727758]]'
 OmegaWiki_Defined_Meaning: 1573320
 U_S_National_Archives_Identifier: 10644282
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Armut.ogg

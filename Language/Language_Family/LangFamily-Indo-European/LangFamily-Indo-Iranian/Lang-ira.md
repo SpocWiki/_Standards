@@ -116,12 +116,12 @@ OmegaWiki_Defined_Meaning: 587023
 Universal_Decimal_Classification: 811.22
 WALS_genus_code: iranian
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
-studied_by: '[[_Standards/WikiData/WD~Iranian_studies,1367176]]'
-subclass_of: '[[_Standards/WikiData/WD~Indo_Iranian,33514]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Iranian_languages,8084951]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
+studied_by: '[[_Standards/WikiData/WD~Iranian_studies,1367176|WD~Iranian_studies,1367176]]'
+subclass_of: '[[_Standards/WikiData/WD~Indo_Iranian,33514|WD~Indo_Iranian,33514]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Iranian_languages,8084951|WD~Template_Iranian_languages,8084951]]'
 dv_has_:
   name_:
     af: irannese tale

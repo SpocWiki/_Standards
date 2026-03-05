@@ -65,17 +65,17 @@ aliases:
 - 水素爆弾
 - 핵무기
 has_id_wikidata: Q625107
-has_use: '[[_Standards/WikiData/WD~nuclear_explosion,2656967]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+has_use: '[[_Standards/WikiData/WD~nuclear_explosion,2656967|WD~nuclear_explosion,2656967]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~nuclear_explosive,3733190]]'
-- '[[_Standards/WikiData/WD~nuclear_weapon,12802]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9584039,9584039]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_type,124078422]]'
-made_from_material: '[[_Standards/WikiData/WD~plutonium,1102]]'
+- '[[_Standards/WikiData/WD~nuclear_explosive,3733190|WD~nuclear_explosive,3733190]]'
+- '[[_Standards/WikiData/WD~nuclear_weapon,12802|WD~nuclear_weapon,12802]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9584039,9584039|WD~Q9584039,9584039]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_type,124078422|WD~weapon_type,124078422]]'
+made_from_material: '[[_Standards/WikiData/WD~plutonium,1102|WD~plutonium,1102]]'
 uses:
-- '[[_Standards/WikiData/WD~nuclear_fission,11429]]'
-- '[[_Standards/WikiData/WD~nuclear_fusion,13082]]'
+- '[[_Standards/WikiData/WD~nuclear_fission,11429|WD~nuclear_fission,11429]]'
+- '[[_Standards/WikiData/WD~nuclear_fusion,13082|WD~nuclear_fusion,13082]]'
 Commons_category: Nuclear weapons
 time_of_discovery_or_invention: 1952-01-01T00:00:00Z
 image:

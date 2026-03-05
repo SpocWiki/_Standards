@@ -83,15 +83,15 @@ aliases:
 - 空间站
 - 우주정거장
 has_id_wikidata: Q25956
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~space_laboratory,1471432]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~space_laboratory,1471432|WD~space_laboratory,1471432]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Space_stations,6456154]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_space_station,10808811]]'
-has_list: '[[_Standards/WikiData/WD~list_of_space_stations,6640255]]'
+- '[[_Standards/WikiData/WD~Template_Space_stations,6456154|WD~Template_Space_stations,6456154]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_space_station,10808811|WD~Template_Infobox_space_station,10808811]]'
+has_list: '[[_Standards/WikiData/WD~list_of_space_stations,6640255|WD~list_of_space_stations,6640255]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~crewed_spacecraft,7217761]]'
-- '[[_Standards/WikiData/WD~artificial_satellite,26540]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~crewed_spacecraft,7217761|WD~crewed_spacecraft,7217761]]'
+- '[[_Standards/WikiData/WD~artificial_satellite,26540|WD~artificial_satellite,26540]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 Nomenclature_for_Museum_Cataloging: 947
 U_S_National_Archives_Identifier: 10676413
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ISS%20March%202009.jpg

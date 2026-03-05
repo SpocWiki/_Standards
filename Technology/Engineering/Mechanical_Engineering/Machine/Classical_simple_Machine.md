@@ -172,7 +172,7 @@ dv_has_:
 > - Lever
 > - Wheel and axle
 > - Pulley
-> - [[Classical_simple_Machine/Inclined_plane]] 
+> - [[Classical_simple_Machine/Inclined_plane|Inclined_plane]] 
 > - Wedge
 > - Screw
 >

@@ -92,21 +92,21 @@ aliases:
 - 鸡肉
 - 닭고기
 has_id_wikidata: Q864693
-different_from: '[[_Standards/WikiData/WD~roast_chicken,899640]]'
+different_from: '[[_Standards/WikiData/WD~roast_chicken,899640|WD~roast_chicken,899640]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~chicken_breast,2607161]]'
-- '[[_Standards/WikiData/WD~chicken_leg,7196561]]'
-- '[[_Standards/WikiData/WD~chicken_wing,7196602]]'
-- '[[_Standards/WikiData/WD~chicken_drumstick,102354256]]'
-- '[[_Standards/WikiData/WD~chicken_thigh,102354615]]'
-- '[[_Standards/WikiData/WD~chicken_gizzard,104664167]]'
-- '[[_Standards/WikiData/WD~chicken_foot_as_food,41384]]'
+- '[[_Standards/WikiData/WD~chicken_breast,2607161|WD~chicken_breast,2607161]]'
+- '[[_Standards/WikiData/WD~chicken_leg,7196561|WD~chicken_leg,7196561]]'
+- '[[_Standards/WikiData/WD~chicken_wing,7196602|WD~chicken_wing,7196602]]'
+- '[[_Standards/WikiData/WD~chicken_drumstick,102354256|WD~chicken_drumstick,102354256]]'
+- '[[_Standards/WikiData/WD~chicken_thigh,102354615|WD~chicken_thigh,102354615]]'
+- '[[_Standards/WikiData/WD~chicken_gizzard,104664167|WD~chicken_gizzard,104664167]]'
+- '[[_Standards/WikiData/WD~chicken_foot_as_food,41384|WD~chicken_foot_as_food,41384]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~poultry_meat,18087876]]'
-- '[[_Standards/WikiData/WD~meat,10990]]'
-natural_product_of_taxon: '[[_Standards/WikiData/WD~chicken,780]]'
-facet_of: '[[_Standards/WikiData/WD~chicken,780]]'
-has_use: '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~poultry_meat,18087876|WD~poultry_meat,18087876]]'
+- '[[_Standards/WikiData/WD~meat,10990|WD~meat,10990]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~chicken,780|WD~chicken,780]]'
+facet_of: '[[_Standards/WikiData/WD~chicken,780|WD~chicken,780]]'
+has_use: '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
 water_footprint: 4325
 USDA_NDB_number:
 - 05686

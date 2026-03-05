@@ -119,19 +119,19 @@ aliases:
 - 集論
 - 집합론
 has_id_wikidata: Q12482
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Georg_Cantor,76420]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Georg_Cantor,76420|WD~Georg_Cantor,76420]]'
 instance_of:
-- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
-has_characteristic: '[[_Standards/WikiData/WD~paradoxes_of_set_theory,4344872]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Set_theory,15120004]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Set_theory,62018765]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918|WD~mathematical_theory,20026918]]'
+has_characteristic: '[[_Standards/WikiData/WD~paradoxes_of_set_theory,4344872|WD~paradoxes_of_set_theory,4344872]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Set_theory,15120004|WD~Template_Set_theory,15120004]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Set_theory,62018765|WD~Portal_Set_theory,62018765]]'
 part_of:
-- '[[_Standards/WikiData/WD~mathematical_logic,_set_theory,_lattices_and_universal_algebra,112955904]]'
-- '[[_Standards/WikiData/WD~theory_of_sets,_relations_and_functions,114705834]]'
-is_the_study_of: '[[_Standards/WikiData/WD~set,36161]]'
+- '[[_Standards/WikiData/WD~mathematical_logic,_set_theory,_lattices_and_universal_algebra,112955904|WD~mathematical_logic,_set_theory,_lattices_and_universal_algebra,112955904]]'
+- '[[_Standards/WikiData/WD~theory_of_sets,_relations_and_functions,114705834|WD~theory_of_sets,_relations_and_functions,114705834]]'
+is_the_study_of: '[[_Standards/WikiData/WD~set,36161|WD~set,36161]]'
 OmegaWiki_Defined_Meaning: 662684
 Basisklassifikation: 31.10
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Menge%20-%20Quatematik.webm

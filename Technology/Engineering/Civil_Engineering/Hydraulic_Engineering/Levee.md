@@ -71,22 +71,22 @@ aliases:
 - 제방
 has_id_wikidata: Q105190
 subclass_of:
-- '[[_Standards/WikiData/WD~Q332724,332724]]'
-- '[[_Standards/WikiData/WD~civil_engineering_construction,1411945]]'
-- '[[_Standards/WikiData/WD~hydraulic_structure,2466889]]'
-- '[[_Standards/WikiData/WD~flood_control_structure,2630707]]'
-- '[[_Standards/WikiData/WD~dam_from_granular_material,98969382]]'
+- '[[_Standards/WikiData/WD~Q332724,332724|WD~Q332724,332724]]'
+- '[[_Standards/WikiData/WD~civil_engineering_construction,1411945|WD~civil_engineering_construction,1411945]]'
+- '[[_Standards/WikiData/WD~hydraulic_structure,2466889|WD~hydraulic_structure,2466889]]'
+- '[[_Standards/WikiData/WD~flood_control_structure,2630707|WD~flood_control_structure,2630707]]'
+- '[[_Standards/WikiData/WD~dam_from_granular_material,98969382|WD~dam_from_granular_material,98969382]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 has_use:
-- '[[_Standards/WikiData/WD~flood_control,1187968]]'
-- '[[_Standards/WikiData/WD~protection,2251595]]'
-locations: '[[_Standards/WikiData/WD~bank,2897058]]'
+- '[[_Standards/WikiData/WD~flood_control,1187968|WD~flood_control,1187968]]'
+- '[[_Standards/WikiData/WD~protection,2251595|WD~protection,2251595]]'
+locations: '[[_Standards/WikiData/WD~bank,2897058|WD~bank,2897058]]'
 different_from:
-- '[[_Standards/WikiData/WD~Grobla,9276389]]'
-- '[[_Standards/WikiData/WD~Levy,14626636]]'
-fabrication_method: '[[_Standards/WikiData/WD~embankment,131325304]]'
+- '[[_Standards/WikiData/WD~Grobla,9276389|WD~Grobla,9276389]]'
+- '[[_Standards/WikiData/WD~Levy,14626636|WD~Levy,14626636]]'
+fabrication_method: '[[_Standards/WikiData/WD~embankment,131325304|WD~embankment,131325304]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GretnaLevee.jpg
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Padulle%2C%20argine%20reno%20innevato%20-%20panoramio.jpg
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Y%20Bala%2C%20Gwynedd%20-%20awyrlun%20%28aerial%20view%29%20Mehefin%20%28June%29%202023%2005%20%28cropped%29.jpg

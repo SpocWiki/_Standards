@@ -106,7 +106,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > **Foo Fighters** is an American rock band formed in Seattle in 1994. 
-> Founded as a one-man project by former Nirvana drummer [[Foo_Fighters/Grohl,Dave]], 
+> Founded as a one-man project by former Nirvana drummer [[Foo_Fighters/Grohl,Dave|Grohl,Dave]], 
 > the lineup now consists of Grohl (lead vocals, guitar), Nate Mendel (bass), Chris Shiflett 
 > and Pat Smear (guitars), Rami Jaffee (keyboards), and Josh Freese (drums). 
 > Drummers William Goldsmith and [[Taylor Hawkins]], along with guitarist Franz Stahl, are former members of the band.

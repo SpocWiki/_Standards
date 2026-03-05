@@ -24,7 +24,7 @@ tags:
 title: is_a_residence Class
 type: Type
 dv_has_:
-  parent_class: "[[../Place]]"
+  parent_class: "[[../Place|Place]]"
   child_class: "[ ApartmentComplex, GatedResidenceCommunity ]"
   properties: "[ accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
@@ -36,7 +36,7 @@ dv_is_:
     - "[[/_private/Earth/Geography/Place/Residence.private|Residence.private]]"
     - "[[/_personal/Earth/Geography/Place/Residence.personal|Residence.personal]]"
     - "[[/_secret/Earth/Geography/Place/Residence.secret|Residence.secret]]"
-dv_has_parent_class: "[[../Place]]"
+dv_has_parent_class: "[[../Place|Place]]"
 dv_has_child_class: "[ ApartmentComplex, GatedResidenceCommunity ]"
 dv_has_properties: "[ accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:

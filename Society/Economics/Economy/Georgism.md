@@ -31,12 +31,12 @@ aliases:
 - 乔治主义
 - 지공주의
 has_id_wikidata: Q679595
-named_after: '[[../../../WikiData/WD~Henry_George,355245]]'
-part_of: '[[_Standards/WikiData/WD~heterodox_economics,1582475]]'
+named_after: '[[../../../WikiData/WD~Henry_George,355245|WD~Henry_George,355245]]'
+part_of: '[[_Standards/WikiData/WD~heterodox_economics,1582475|WD~heterodox_economics,1582475]]'
 instance_of:
-- '[[_Standards/WikiData/WD~economic_ideology,5333510]]'
-- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~economic_ideology,5333510|WD~economic_ideology,5333510]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
+described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Everybody%20works%20but%20the%20vacant%20lot%20%28cropped%29.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/FREE%20TRADE%20FREE%20LAND%20FREE%20MEN%20%28Georgist%20campaign%20button%29.svg
@@ -91,7 +91,7 @@ dv_has_:
 
 # [[Georgism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Georgism,679595]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Georgism,679595|WD~Georgism,679595]] 
 
 ## #has_/text_of_/abstract 
 

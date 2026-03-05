@@ -81,14 +81,14 @@ aliases:
 - 끌
 has_id_wikidata: Q474188
 has_part_s_:
-- '[[_Standards/WikiData/WD~blade,330946]]'
-- '[[_Standards/WikiData/WD~tool_handle,17504947]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~blade,330946|WD~blade,330946]]'
+- '[[_Standards/WikiData/WD~tool_handle,17504947|WD~tool_handle,17504947]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~stonemasonry_tool,1282265]]'
-- '[[_Standards/WikiData/WD~hand_tool,2578402]]'
-- '[[_Standards/WikiData/WD~woodworking_tool,11789812]]'
-source_of_energy: '[[_Standards/WikiData/WD~human_energy,20984829]]'
+- '[[_Standards/WikiData/WD~stonemasonry_tool,1282265|WD~stonemasonry_tool,1282265]]'
+- '[[_Standards/WikiData/WD~hand_tool,2578402|WD~hand_tool,2578402]]'
+- '[[_Standards/WikiData/WD~woodworking_tool,11789812|WD~woodworking_tool,11789812]]'
+source_of_energy: '[[_Standards/WikiData/WD~human_energy,20984829|WD~human_energy,20984829]]'
 Nomenclature_for_Museum_Cataloging: 6533
 OmegaWiki_Defined_Meaning: 926391
 image:

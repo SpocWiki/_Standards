@@ -58,32 +58,32 @@ aliases:
 - 양잠업
 has_id_wikidata: Q864650
 subclass_of:
-- '[[_Standards/WikiData/WD~animal_husbandry,80962]]'
-- '[[_Standards/WikiData/WD~insect_farming,1351959]]'
+- '[[_Standards/WikiData/WD~animal_husbandry,80962|WD~animal_husbandry,80962]]'
+- '[[_Standards/WikiData/WD~insect_farming,1351959|WD~insect_farming,1351959]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tradition,82821]]'
-- '[[_Standards/WikiData/WD~branch_of_agriculture,5687161]]'
-- '[[_Standards/WikiData/WD~economic_concept,29028649]]'
+- '[[_Standards/WikiData/WD~tradition,82821|WD~tradition,82821]]'
+- '[[_Standards/WikiData/WD~branch_of_agriculture,5687161|WD~branch_of_agriculture,5687161]]'
+- '[[_Standards/WikiData/WD~economic_concept,29028649|WD~economic_concept,29028649]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~silk_product,10475001]]'
-- '[[_Standards/WikiData/WD~silk,37681]]'
+- '[[_Standards/WikiData/WD~silk_product,10475001|WD~silk_product,10475001]]'
+- '[[_Standards/WikiData/WD~silk,37681|WD~silk,37681]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Textiles_and_clothing_along_the_Silk_Roads,114574317]]'
-part_of: '[[_Standards/WikiData/WD~silk_industry,23642627]]'
-practiced_by: '[[_Standards/WikiData/WD~sericulturist,60520619]]'
-intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Textiles_and_clothing_along_the_Silk_Roads,114574317|WD~Textiles_and_clothing_along_the_Silk_Roads,114574317]]'
+part_of: '[[_Standards/WikiData/WD~silk_industry,23642627|WD~silk_industry,23642627]]'
+practiced_by: '[[_Standards/WikiData/WD~sericulturist,60520619|WD~sericulturist,60520619]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947|WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263|WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~Tajikistan,863]]'
-- '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-- '[[_Standards/WikiData/WD~Afghanistan,889]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Azerbaijan,227]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Tajikistan,863|WD~Tajikistan,863]]'
+- '[[_Standards/WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]'
+- '[[_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]'
+- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Matter-silk-pavilion.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Soaking%20the%20cocoons%20and%20reeling%20the%20silk%20%28Sericulture%20by%20Liang%20Kai%2C%201200s%29.jpg
 described_at_URL:

@@ -59,8 +59,8 @@ aliases:
 - 白葡萄酒
 - 백포도주
 has_id_wikidata: Q10210
-instance_of: '[[_Standards/WikiData/WD~wine_color,8024923]]'
-subclass_of: '[[_Standards/WikiData/WD~wine,282]]'
+instance_of: '[[_Standards/WikiData/WD~wine_color,8024923|WD~wine_color,8024923]]'
+subclass_of: '[[_Standards/WikiData/WD~wine,282|WD~wine,282]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Two%20Chenin%20Blanc%20wines%20in%20glass.jpg
 Commons_category: White wine
 dv_has_:

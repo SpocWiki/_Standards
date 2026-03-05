@@ -1,7 +1,7 @@
 
 # [[Rust~struct]] 
 
-Structs are the [[../Algebraic_Data-Types/Product-Type]]s in Rust. 
+Structs are the [[../Algebraic_Data-Types/Product-Type|Product-Type]]s in Rust. 
 Their Size is the Sum of the Constituents' Sizes. 
 Unlike [[Rust~Tuple]]s their Members are named. 
 

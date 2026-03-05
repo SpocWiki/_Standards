@@ -29,8 +29,8 @@ title: is_a_merchant_return_unlimited_window Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../MerchantReturnEnumeration]]"
-  enum_of: "[[../MerchantReturnEnumeration]]"
+  parent_class: "[[../MerchantReturnEnumeration|MerchantReturnEnumeration]]"
+  enum_of: "[[../MerchantReturnEnumeration|MerchantReturnEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window|Merchant_Return_Unlimited_Window]]"
     - "[[/_public/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.public|Merchant_Return_Unlimited_Window.public]]"
@@ -41,8 +41,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.secret|Merchant_Return_Unlimited_Window.secret]]"
     - "[[Merchant_Return_Unlimited_Window]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../MerchantReturnEnumeration]]"
-dv_is_enum_of: "[[../MerchantReturnEnumeration]]"
+dv_has_parent_class: "[[../MerchantReturnEnumeration|MerchantReturnEnumeration]]"
+dv_is_enum_of: "[[../MerchantReturnEnumeration|MerchantReturnEnumeration]]"
 dv_is_same_as:
   - "[[Merchant_Return_Unlimited_Window]]"
   - "[[/_public/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.public|Merchant_Return_Unlimited_Window.public]]"

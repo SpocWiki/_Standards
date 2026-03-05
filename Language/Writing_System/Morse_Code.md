@@ -102,32 +102,32 @@ aliases:
 - 모스 부호
 has_id_wikidata: Q79897
 creator:
-- '[[_Standards/WikiData/WD~Samuel_Finley_Breese_Morse,75698]]'
-- '[[_Standards/WikiData/WD~Alfred_Vail,454292]]'
-named_after: '[[_Standards/WikiData/WD~Samuel_Finley_Breese_Morse,75698]]'
+- '[[_Standards/WikiData/WD~Samuel_Finley_Breese_Morse,75698|WD~Samuel_Finley_Breese_Morse,75698]]'
+- '[[_Standards/WikiData/WD~Alfred_Vail,454292|WD~Alfred_Vail,454292]]'
+named_after: '[[_Standards/WikiData/WD~Samuel_Finley_Breese_Morse,75698|WD~Samuel_Finley_Breese_Morse,75698]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Samuel_Finley_Breese_Morse,75698]]'
-- '[[_Standards/WikiData/WD~Alfred_Vail,454292]]'
+- '[[_Standards/WikiData/WD~Samuel_Finley_Breese_Morse,75698|WD~Samuel_Finley_Breese_Morse,75698]]'
+- '[[_Standards/WikiData/WD~Alfred_Vail,454292|WD~Alfred_Vail,454292]]'
 instance_of:
-- '[[_Standards/WikiData/WD~character_encoding,184759]]'
-- '[[_Standards/WikiData/WD~code,188889]]'
-- '[[_Standards/WikiData/WD~constructed_writing_system,1191702]]'
-- '[[_Standards/WikiData/WD~unicase_alphabet,4004706]]'
-- '[[_Standards/WikiData/WD~script,63801299]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~morse,13137159]]'
-script_directionality: '[[_Standards/WikiData/WD~left_to_right,17321844]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Morse_alphabet,25616446]]'
-uses: '[[_Standards/WikiData/WD~Morse_alphabet,25616446]]'
+- '[[_Standards/WikiData/WD~character_encoding,184759|WD~character_encoding,184759]]'
+- '[[_Standards/WikiData/WD~code,188889|WD~code,188889]]'
+- '[[_Standards/WikiData/WD~constructed_writing_system,1191702|WD~constructed_writing_system,1191702]]'
+- '[[_Standards/WikiData/WD~unicase_alphabet,4004706|WD~unicase_alphabet,4004706]]'
+- '[[_Standards/WikiData/WD~script,63801299|WD~script,63801299]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~morse,13137159|WD~morse,13137159]]'
+script_directionality: '[[_Standards/WikiData/WD~left_to_right,17321844|WD~left_to_right,17321844]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Morse_alphabet,25616446|WD~Morse_alphabet,25616446]]'
+uses: '[[_Standards/WikiData/WD~Morse_alphabet,25616446|WD~Morse_alphabet,25616446]]'
 intangible_cultural_heritage_status:
-- '[[_Standards/WikiData/WD~Inventory_Intangible_Cultural_Heritage_in_the_Netherlands,28485874]]'
-- '[[_Standards/WikiData/WD~Inventaris_Vlaanderen_van_het_Immaterieel_Cultureel_Erfgoed,62089741]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+- '[[_Standards/WikiData/WD~Inventory_Intangible_Cultural_Heritage_in_the_Netherlands,28485874|WD~Inventory_Intangible_Cultural_Heritage_in_the_Netherlands,28485874]]'
+- '[[_Standards/WikiData/WD~Inventaris_Vlaanderen_van_het_Immaterieel_Cultureel_Erfgoed,62089741|WD~Inventaris_Vlaanderen_van_het_Immaterieel_Cultureel_Erfgoed,62089741]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263|WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
 inception: 1837-01-01T00:00:00Z
 time_of_discovery_or_invention: 1836-01-01T00:00:00Z
-locations: '[[_Standards/WikiData/WD~Earth,2]]'
-country: '[[_Standards/WikiData/WD~Belgium,31]]'
-location_of_creation: '[[_Standards/WikiData/WD~Boston,100]]'
+locations: '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
+country: '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+location_of_creation: '[[_Standards/WikiData/WD~Boston,100|WD~Boston,100]]'
 described_at_URL: https://immaterieelerfgoed.be/nl/erfgoederen/Morsecode
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/International%20Morse%20Code.svg
@@ -275,7 +275,7 @@ dv_has_:
 
 # [[Morse_Code]] 
 
-#has_/creator :: [[../../../../_Standards/Science/Inventor/Morse,Samuel_Finley_Breese]] 
+#has_/creator :: [[../../../../_Standards/Science/Inventor/Morse,Samuel_Finley_Breese|Morse,Samuel_Finley_Breese]] 
 #is_/same_as :: [[../../../../_Standards/WikiData/WD~Morse_code,79897|WD~Morse_code,79897]] 
 
 ## #has_/text_of_/abstract 

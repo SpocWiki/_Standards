@@ -98,24 +98,24 @@ aliases:
 - 지혜
 has_id_wikidata: Q799
 instance_of:
-- '[[_Standards/WikiData/WD~virtue,157811]]'
-- '[[_Standards/WikiData/WD~knowledge_type,110403031]]'
-- '[[_Standards/WikiData/WD~type_of_intelligence,125161275]]'
+- '[[_Standards/WikiData/WD~virtue,157811|WD~virtue,157811]]'
+- '[[_Standards/WikiData/WD~knowledge_type,110403031|WD~knowledge_type,110403031]]'
+- '[[_Standards/WikiData/WD~type_of_intelligence,125161275|WD~type_of_intelligence,125161275]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Wisdom,133280569]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Wisdom,133280569|WD~Wisdom,133280569]]'
 different_from:
-- '[[_Standards/WikiData/WD~sentience,2488994]]'
-- '[[_Standards/WikiData/WD~Q8027410,8027410]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9702774,9702774]]'
+- '[[_Standards/WikiData/WD~sentience,2488994|WD~sentience,2488994]]'
+- '[[_Standards/WikiData/WD~Q8027410,8027410|WD~Q8027410,8027410]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9702774,9702774|WD~Q9702774,9702774]]'
 part_of:
-- '[[_Standards/WikiData/WD~Three_virtues_of_Confucianism,11355410]]'
-- '[[_Standards/WikiData/WD~five_Confucian_virtues,21059588]]'
+- '[[_Standards/WikiData/WD~Three_virtues_of_Confucianism,11355410|WD~Three_virtues_of_Confucianism,11355410]]'
+- '[[_Standards/WikiData/WD~five_Confucian_virtues,21059588|WD~five_Confucian_virtues,21059588]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~knowledge,9081]]'
-- '[[_Standards/WikiData/WD~understanding,46744]]'
+- '[[_Standards/WikiData/WD~knowledge,9081|WD~knowledge,9081]]'
+- '[[_Standards/WikiData/WD~understanding,46744|WD~understanding,46744]]'
 Archive_of_Our_Own_tag:
 - Wise
 - Wit
@@ -251,7 +251,7 @@ dv_has_:
 
 # [[Wisdom]] 
 
-#is_/better_than :: [[./Knowledge]] 
+#is_/better_than :: [[./Knowledge|Knowledge]] 
 #is_/better_than :: [[Insight]] 
 #is_/same_as :: [[../../WikiData/WD~Wisdom,799|WD~Wisdom,799]] 
 

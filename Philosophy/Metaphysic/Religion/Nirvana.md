@@ -41,21 +41,21 @@ aliases:
 - "\U00011026\U0001103A\U00011029\U00011046\U00011029\U00011038\U00011026"
 - "\U0002233D"
 has_id_wikidata: Q42927
-subclass_of: '[[_Standards/WikiData/WD~salvation,192054]]'
-different_from: '[[_Standards/WikiData/WD~Nirvana,260557]]'
+subclass_of: '[[_Standards/WikiData/WD~salvation,192054|WD~salvation,192054]]'
+different_from: '[[_Standards/WikiData/WD~Nirvana,260557|WD~Nirvana,260557]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~A_Dictionary_of_Chinese_Buddhist_Terms,10886720]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-instance_of: '[[_Standards/WikiData/WD~religious_concept,23847174]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Chinese_Buddhist_Terms,10886720|WD~A_Dictionary_of_Chinese_Buddhist_Terms,10886720]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+instance_of: '[[_Standards/WikiData/WD~religious_concept,23847174|WD~religious_concept,23847174]]'
 facet_of:
-- '[[_Standards/WikiData/WD~Buddhism,748]]'
-- '[[_Standards/WikiData/WD~Hinduism,9089]]'
-- '[[_Standards/WikiData/WD~Jainism,9232]]'
-- '[[_Standards/WikiData/WD~Sikhism,9316]]'
+- '[[_Standards/WikiData/WD~Buddhism,748|WD~Buddhism,748]]'
+- '[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]'
+- '[[_Standards/WikiData/WD~Jainism,9232|WD~Jainism,9232]]'
+- '[[_Standards/WikiData/WD~Sikhism,9316|WD~Sikhism,9316]]'
 native_label: निर्वाण
 Commons_category: Nirvana (Buddhism)
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/NIRVANA.html

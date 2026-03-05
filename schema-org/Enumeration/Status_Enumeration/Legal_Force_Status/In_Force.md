@@ -28,8 +28,8 @@ title: is_an_in_force Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../LegalForceStatus]]"
-  enum_of: "[[../LegalForceStatus]]"
+  parent_class: "[[../LegalForceStatus|LegalForceStatus]]"
+  enum_of: "[[../LegalForceStatus|LegalForceStatus]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/In_Force|In_Force]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/In_Force.public|In_Force.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/In_Force.secret|In_Force.secret]]"
     - "[[In_Force]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../LegalForceStatus]]"
-dv_is_enum_of: "[[../LegalForceStatus]]"
+dv_has_parent_class: "[[../LegalForceStatus|LegalForceStatus]]"
+dv_is_enum_of: "[[../LegalForceStatus|LegalForceStatus]]"
 dv_is_same_as:
   - "[[In_Force]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/In_Force.public|In_Force.public]]"

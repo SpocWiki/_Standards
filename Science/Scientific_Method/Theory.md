@@ -78,16 +78,16 @@ aliases:
 - 리론
 - 이론
 has_id_wikidata: Q17737
-subclass_of: '[[_Standards/WikiData/WD~idea,131841]]'
+subclass_of: '[[_Standards/WikiData/WD~idea,131841|WD~idea,131841]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~praxis,1247560]]'
-- '[[_Standards/WikiData/WD~practice,10354783]]'
+- '[[_Standards/WikiData/WD~praxis,1247560|WD~praxis,1247560]]'
+- '[[_Standards/WikiData/WD~practice,10354783|WD~practice,10354783]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~hypothetical_event,72867640]]'
-- '[[_Standards/WikiData/WD~explanation,7958]]'
-used_by: '[[_Standards/WikiData/WD~theoretical_framework,114437798]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_Theory,122932418]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~hypothetical_event,72867640|WD~hypothetical_event,72867640]]'
+- '[[_Standards/WikiData/WD~explanation,7958|WD~explanation,7958]]'
+used_by: '[[_Standards/WikiData/WD~theoretical_framework,114437798|WD~theoretical_framework,114437798]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_Theory,122932418|WD~Template_Infobox_Theory,122932418]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mr%20Pipo%20Brain%2003.svg
 equivalent_class: http://dbpedia.org/ontology/ScientificConcept
 Commons_category: Theories

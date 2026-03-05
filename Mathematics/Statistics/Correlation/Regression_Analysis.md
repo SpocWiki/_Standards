@@ -57,23 +57,23 @@ aliases:
 - 迴歸分析
 - 회귀 분석
 has_id_wikidata: Q208042
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Francis_Galton,191026]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Francis_Galton,191026|WD~Francis_Galton,191026]]'
 different_from:
-- '[[_Standards/WikiData/WD~Regression,234013]]'
-- '[[_Standards/WikiData/WD~regression_curve,112970720]]'
-has_use: '[[_Standards/WikiData/WD~supervised_learning,334384]]'
+- '[[_Standards/WikiData/WD~Regression,234013|WD~Regression,234013]]'
+- '[[_Standards/WikiData/WD~regression_curve,112970720|WD~regression_curve,112970720]]'
+has_use: '[[_Standards/WikiData/WD~supervised_learning,334384|WD~supervised_learning,334384]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~data_analysis,1988917]]'
-- '[[_Standards/WikiData/WD~statistical_method,12718609]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_regression_analysis,7112712]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Regression_bar,19838870]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-uses: '[[_Standards/WikiData/WD~regression_model,30556303]]'
-named_after: '[[_Standards/WikiData/WD~Q55933668,55933668]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_statistical_method,121144069]]'
+- '[[_Standards/WikiData/WD~data_analysis,1988917|WD~data_analysis,1988917]]'
+- '[[_Standards/WikiData/WD~statistical_method,12718609|WD~statistical_method,12718609]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_regression_analysis,7112712|WD~outline_of_regression_analysis,7112712]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Regression_bar,19838870|WD~Template_Regression_bar,19838870]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+uses: '[[_Standards/WikiData/WD~regression_model,30556303|WD~regression_model,30556303]]'
+named_after: '[[_Standards/WikiData/WD~Q55933668,55933668|WD~Q55933668,55933668]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_statistical_method,121144069|WD~type_of_statistical_method,121144069]]'
 facet_of:
-- '[[_Standards/WikiData/WD~machine_learning,2539]]'
-- '[[_Standards/WikiData/WD~statistics,12483]]'
+- '[[_Standards/WikiData/WD~machine_learning,2539|WD~machine_learning,2539]]'
+- '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
 OmegaWiki_Defined_Meaning: 847605
 ACM_Classification_Code_2012_: 10003691
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Linear%20regression.svg

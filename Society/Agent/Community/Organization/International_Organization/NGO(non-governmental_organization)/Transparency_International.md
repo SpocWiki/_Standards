@@ -40,29 +40,29 @@ aliases:
 - 국제 투명성 기구
 has_id_wikidata: Q174240
 founded_by:
-- '[[_Standards/WikiData/WD~Peter_Eigen,95830]]'
-- '[[_Standards/WikiData/WD~Kamal_Hossain,327967]]'
-- '[[_Standards/WikiData/WD~John_Githongo,1700229]]'
-- '[[_Standards/WikiData/WD~Obiageli_Katryn_Ezekwesili,7074927]]'
-- '[[_Standards/WikiData/WD~Jeremy_Pope,15457412]]'
-- '[[_Standards/WikiData/WD~Dolores_Español,21037377]]'
+- '[[_Standards/WikiData/WD~Peter_Eigen,95830|WD~Peter_Eigen,95830]]'
+- '[[_Standards/WikiData/WD~Kamal_Hossain,327967|WD~Kamal_Hossain,327967]]'
+- '[[_Standards/WikiData/WD~John_Githongo,1700229|WD~John_Githongo,1700229]]'
+- '[[_Standards/WikiData/WD~Obiageli_Katryn_Ezekwesili,7074927|WD~Obiageli_Katryn_Ezekwesili,7074927]]'
+- '[[_Standards/WikiData/WD~Jeremy_Pope,15457412|WD~Jeremy_Pope,15457412]]'
+- '[[_Standards/WikiData/WD~Dolores_Español,21037377|WD~Dolores_Español,21037377]]'
 instance_of:
-- '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
-- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
+- '[[_Standards/WikiData/WD~nonprofit_organization,163740|WD~nonprofit_organization,163740]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093|WD~international_non_governmental_organization,1194093]]'
 member_of:
-- '[[_Standards/WikiData/WD~Initiative_Transparent_Civil_Society,1663590]]'
-- '[[_Standards/WikiData/WD~Financial_Transparency_Coalition,17013594]]'
-- '[[_Standards/WikiData/WD~Q24243568,24243568]]'
-legal_form: '[[_Standards/WikiData/WD~Registered_association_(eingetragener_Verein),9299236]]'
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-chairperson: '[[_Standards/WikiData/WD~François_Valérian,33187526]]'
-director_manager: '[[_Standards/WikiData/WD~Patricia_Moreira,41558597]]'
-partnership_with: '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~Initiative_Transparent_Civil_Society,1663590|WD~Initiative_Transparent_Civil_Society,1663590]]'
+- '[[_Standards/WikiData/WD~Financial_Transparency_Coalition,17013594|WD~Financial_Transparency_Coalition,17013594]]'
+- '[[_Standards/WikiData/WD~Q24243568,24243568|WD~Q24243568,24243568]]'
+legal_form: '[[_Standards/WikiData/WD~Registered_association_(eingetragener_Verein),9299236|WD~Registered_association_(eingetragener_Verein),9299236]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+chairperson: '[[_Standards/WikiData/WD~François_Valérian,33187526|WD~François_Valérian,33187526]]'
+director_manager: '[[_Standards/WikiData/WD~Patricia_Moreira,41558597|WD~Patricia_Moreira,41558597]]'
+partnership_with: '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
 country:
-- '[[_Standards/WikiData/WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-headquarters_location: '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+headquarters_location: '[[_Standards/WikiData/WD~Berlin,64|WD~Berlin,64]]'
 number_of_volunteers: 9
 employees: 38
 donations:

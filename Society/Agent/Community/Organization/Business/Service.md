@@ -226,7 +226,7 @@ A service provided by an organization, e.g. delivery service, print services, et
 economic product that directly satisfies wants 
 without producing a lasting asset
 
-#has_/parent_class :: [[../../../../../schema-org/Class/is_a_/Intangible]]  
+#has_/parent_class :: [[../../../../../schema-org/Class/is_a_/Intangible|Intangible]]  
 
 #has_/child_/class :: [ BroadcastService, CableOrSatelliteService, FinancialProduct, FoodService, GovernmentService, Taxi, TaxiService, WebAPI ]  
 

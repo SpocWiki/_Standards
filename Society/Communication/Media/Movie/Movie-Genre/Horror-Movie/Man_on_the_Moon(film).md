@@ -1,11 +1,11 @@
 
-#has_/director :: [[../Movie-Directors/Forman,Miloš]] 
-#has_/actor :: [[../../Actor/Canadian_Actor/Carrey,Jim]] 
+#has_/director :: [[../Movie-Directors/Forman,Miloš|Forman,Miloš]] 
+#has_/actor :: [[../../Actor/Canadian_Actor/Carrey,Jim|Carrey,Jim]] 
 
 #is_/different_from :: [[Man_on_the_Moon(song)]]
 
 > Man on the Moon is a 1999 biographical comedy-drama film 
-> about the late American entertainer Andy Kaufman, starring [[../../Actor/Canadian_Actor/Carrey,Jim]] as Kaufman. 
+> about the late American entertainer Andy Kaufman, starring [[../../Actor/Canadian_Actor/Carrey,Jim|Carrey,Jim]] as Kaufman. 
 > The film was directed by [[Miloš Forman]] 
 > and also features [[Danny DeVito]], [[Courtney Love]] and [[Paul Giamatti]].
 >
@@ -25,7 +25,7 @@
 > 
 > Although the film was unsuccessful commercially and received mixed reviews, 
 > Carrey received critical acclaim for his performance and won a Golden Globe, 
-> his second in a row after his award for The [[../../../../../../../Knowledge/History.internal/Cold_War/Truman-Show]]. 
+> his second in a row after his award for The [[../../../../../../../Knowledge/History.internal/Cold_War/Truman-Show|Truman-Show]]. 
 > His win was in the Musical or Comedy category.
 >
 > The documentary [[Jim & Andy-The Great Beyond]] was released in 2017 

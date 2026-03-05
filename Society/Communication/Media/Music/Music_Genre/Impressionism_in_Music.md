@@ -45,9 +45,9 @@ aliases:
 - 印象派音樂
 - 인상주의 음악
 has_id_wikidata: Q837182
-instance_of: '[[_Standards/WikiData/WD~musical_movement,12020884]]'
-different_from: '[[_Standards/WikiData/WD~impressionist_music,105697765]]'
-part_of: '[[_Standards/WikiData/WD~classical_music,9730]]'
+instance_of: '[[_Standards/WikiData/WD~musical_movement,12020884|WD~musical_movement,12020884]]'
+different_from: '[[_Standards/WikiData/WD~impressionist_music,105697765|WD~impressionist_music,105697765]]'
+part_of: '[[_Standards/WikiData/WD~classical_music,9730|WD~classical_music,9730]]'
 dv_has_:
   name_:
     ar: الانطباعية في الموسيقى

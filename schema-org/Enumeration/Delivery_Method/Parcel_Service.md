@@ -27,9 +27,9 @@ tags:
 title: is_a_parcel_service Class
 type: Type
 dv_has_:
-  parent_class: "[[../DeliveryMethod]]"
+  parent_class: "[[../DeliveryMethod|DeliveryMethod]]"
 dv_is_:
-  enum_of: "[[../DeliveryMethod]]"
+  enum_of: "[[../DeliveryMethod|DeliveryMethod]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Delivery_Method/Parcel_Service|Parcel_Service]]"
     - "[[/_public/schema-org/Enumeration/Delivery_Method/Parcel_Service.public|Parcel_Service.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Delivery_Method/Parcel_Service.personal|Parcel_Service.personal]]"
     - "[[/_secret/schema-org/Enumeration/Delivery_Method/Parcel_Service.secret|Parcel_Service.secret]]"
     - "[[Parcel_Service]]"
-dv_has_parent_class: "[[../DeliveryMethod]]"
-dv_is_enum_of: "[[../DeliveryMethod]]"
+dv_has_parent_class: "[[../DeliveryMethod|DeliveryMethod]]"
+dv_is_enum_of: "[[../DeliveryMethod|DeliveryMethod]]"
 dv_is_same_as:
   - "[[Parcel_Service]]"
   - "[[/_public/schema-org/Enumeration/Delivery_Method/Parcel_Service.public|Parcel_Service.public]]"

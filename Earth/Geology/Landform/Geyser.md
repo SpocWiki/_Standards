@@ -58,23 +58,23 @@ aliases:
 - 간헐천
 has_id_wikidata: Q83471
 subclass_of:
-- '[[_Standards/WikiData/WD~hot_spring,177380]]'
-- '[[_Standards/WikiData/WD~volcanic_landform,29025902]]'
-- '[[_Standards/WikiData/WD~volcanic_phenomenon,29436423]]'
-named_after: '[[_Standards/WikiData/WD~Great_Geysir,216846]]'
+- '[[_Standards/WikiData/WD~hot_spring,177380|WD~hot_spring,177380]]'
+- '[[_Standards/WikiData/WD~volcanic_landform,29025902|WD~volcanic_landform,29025902]]'
+- '[[_Standards/WikiData/WD~volcanic_phenomenon,29436423|WD~volcanic_phenomenon,29436423]]'
+named_after: '[[_Standards/WikiData/WD~Great_Geysir,216846|WD~Great_Geysir,216846]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
 different_from:
-- '[[_Standards/WikiData/WD~artesian_spring,707912]]'
-- '[[_Standards/WikiData/WD~Q11699548,11699548]]'
-- '[[_Standards/WikiData/WD~cold_water_geyser,20183798]]'
+- '[[_Standards/WikiData/WD~artesian_spring,707912|WD~artesian_spring,707912]]'
+- '[[_Standards/WikiData/WD~Q11699548,11699548|WD~Q11699548,11699548]]'
+- '[[_Standards/WikiData/WD~cold_water_geyser,20183798|WD~cold_water_geyser,20183798]]'
 U_S_National_Archives_Identifier: 10675984
 OmegaWiki_Defined_Meaning: 525230
 image: http://commons.wikimedia.org/wiki/Special:FilePath/00%201555%20Pohutu%20Geyser%20in%20Whakarewarewa%20%28Whaka%29%2C%20New%20Zealand.jpg

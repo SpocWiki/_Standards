@@ -101,17 +101,17 @@ aliases:
 - 불꽃놀이
 has_id_wikidata: Q127933
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~light_source,1146001]]'
-- '[[_Standards/WikiData/WD~product,2424752]]'
-- '[[_Standards/WikiData/WD~noisemaker,7047745]]'
-- '[[_Standards/WikiData/WD~pyrotechnic_device,10805684]]'
-part_of: '[[_Standards/WikiData/WD~event,1656682]]'
-has_use: '[[_Standards/WikiData/WD~fireworks_festival,2699757]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828654,22828654]]'
-topic_has_template: '[[_Standards/WikiData/WD~Model_Fireworks_pallet,92184253]]'
+- '[[_Standards/WikiData/WD~light_source,1146001|WD~light_source,1146001]]'
+- '[[_Standards/WikiData/WD~product,2424752|WD~product,2424752]]'
+- '[[_Standards/WikiData/WD~noisemaker,7047745|WD~noisemaker,7047745]]'
+- '[[_Standards/WikiData/WD~pyrotechnic_device,10805684|WD~pyrotechnic_device,10805684]]'
+part_of: '[[_Standards/WikiData/WD~event,1656682|WD~event,1656682]]'
+has_use: '[[_Standards/WikiData/WD~fireworks_festival,2699757|WD~fireworks_festival,2699757]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828654,22828654|WD~Q22828654,22828654]]'
+topic_has_template: '[[_Standards/WikiData/WD~Model_Fireworks_pallet,92184253|WD~Model_Fireworks_pallet,92184253]]'
 Nomenclature_for_Museum_Cataloging: 14308
 U_S_National_Archives_Identifier: 10637257
 GS1_GPC_code: 10001216

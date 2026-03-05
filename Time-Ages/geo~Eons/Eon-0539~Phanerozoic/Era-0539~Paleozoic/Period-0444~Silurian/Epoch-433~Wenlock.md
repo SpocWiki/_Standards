@@ -24,14 +24,14 @@ aliases:
 - 温洛克世
 has_id_wikidata: Q1064996
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Wenlock_epoch,30869282]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Wenlock_epoch,30869282|WD~Category_Wenlock_epoch,30869282]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -433400000-01-01T00:00:00Z
 sRGB_color_hex_triplet: A4E0D0
 Commons_category: Wenlock Epoch
@@ -145,7 +145,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 433.4 to 427.4 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-430_Ma_(Homerian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-430_Ma_(Homerian_Age).png|Earth-430_Ma_(Homerian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

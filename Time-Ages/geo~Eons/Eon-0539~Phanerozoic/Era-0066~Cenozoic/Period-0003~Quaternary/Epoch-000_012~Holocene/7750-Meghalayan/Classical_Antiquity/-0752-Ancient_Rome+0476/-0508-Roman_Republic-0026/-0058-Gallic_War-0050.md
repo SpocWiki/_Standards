@@ -65,21 +65,21 @@ aliases:
 - 갈리아 전쟁
 has_id_wikidata: Q202161
 described_by_source:
-- '[[_Standards/WikiData/WD~Q106199,106199]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q106199,106199|WD~Q106199,106199]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 participant:
-- '[[_Standards/WikiData/WD~Iberians,190992]]'
-- '[[_Standards/WikiData/WD~Gauls,273854]]'
-- '[[_Standards/WikiData/WD~Belgae,337104]]'
-- '[[_Standards/WikiData/WD~Celtic_Britons,849967]]'
-- '[[_Standards/WikiData/WD~Aquitani,1255605]]'
-- '[[_Standards/WikiData/WD~Germanic_people,22633]]'
-significant_event: '[[_Standards/WikiData/WD~Battle_of_Cavillonum,2984753]]'
+- '[[_Standards/WikiData/WD~Iberians,190992|WD~Iberians,190992]]'
+- '[[_Standards/WikiData/WD~Gauls,273854|WD~Gauls,273854]]'
+- '[[_Standards/WikiData/WD~Belgae,337104|WD~Belgae,337104]]'
+- '[[_Standards/WikiData/WD~Celtic_Britons,849967|WD~Celtic_Britons,849967]]'
+- '[[_Standards/WikiData/WD~Aquitani,1255605|WD~Aquitani,1255605]]'
+- '[[_Standards/WikiData/WD~Germanic_people,22633|WD~Germanic_people,22633]]'
+significant_event: '[[_Standards/WikiData/WD~Battle_of_Cavillonum,2984753|WD~Battle_of_Cavillonum,2984753]]'
 end_time: -0050-01-01T00:00:00Z
 start_time: -0057-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
-locations: '[[_Standards/WikiData/WD~Gaul,38060]]'
+instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
+locations: '[[_Standards/WikiData/WD~Gaul,38060|WD~Gaul,38060]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Siege-alesia-vercingetorix-jules-cesar.jpg
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Caesar%20campaigns%20gaul-ca.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Caesar%20campaigns%20gaul-fr.svg

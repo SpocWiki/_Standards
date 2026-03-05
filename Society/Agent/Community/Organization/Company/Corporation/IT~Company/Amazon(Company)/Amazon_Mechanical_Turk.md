@@ -52,7 +52,7 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Amazon%20Mechanical%20Turk) 
 
 
-The Median Income of a [[Turker]] is 2$/hour, which makes it[[../../../../../../../Social_Issues/Slavery]]]. 
+The Median Income of a [[Turker]] is 2$/hour, which makes it[[../../../../../../../Social_Issues/Slavery|Slavery]]]. 
 
 ## #is_/used_by :: [[ImageNet]] 
 

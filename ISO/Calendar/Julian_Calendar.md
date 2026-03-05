@@ -127,23 +127,23 @@ aliases:
 - 율리우스력
 has_id_wikidata: Q11184
 instance_of:
-- '[[_Standards/WikiData/WD~solar_calendar,210953]]'
-- '[[_Standards/WikiData/WD~arithmetic_calendar,669102]]'
-- '[[_Standards/WikiData/WD~interval_scale,9337488]]'
+- '[[_Standards/WikiData/WD~solar_calendar,210953|WD~solar_calendar,210953]]'
+- '[[_Standards/WikiData/WD~arithmetic_calendar,669102|WD~arithmetic_calendar,669102]]'
+- '[[_Standards/WikiData/WD~interval_scale,9337488|WD~interval_scale,9337488]]'
 different_from:
-- '[[_Standards/WikiData/WD~Julian_year,217208]]'
-- '[[_Standards/WikiData/WD~Julian_day,14267]]'
-creator: '[[_Standards/WikiData/WD~Sosigenes_of_Alexandria,316867]]'
+- '[[_Standards/WikiData/WD~Julian_year,217208|WD~Julian_year,217208]]'
+- '[[_Standards/WikiData/WD~Julian_day,14267|WD~Julian_day,14267]]'
+creator: '[[_Standards/WikiData/WD~Sosigenes_of_Alexandria,316867|WD~Sosigenes_of_Alexandria,316867]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~calendar_year,3186692]]'
-- '[[_Standards/WikiData/WD~day,573]]'
-- '[[_Standards/WikiData/WD~month,5151]]'
-- '[[_Standards/WikiData/WD~week,23387]]'
-described_by_source: '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~calendar_year,3186692|WD~calendar_year,3186692]]'
+- '[[_Standards/WikiData/WD~day,573|WD~day,573]]'
+- '[[_Standards/WikiData/WD~month,5151|WD~month,5151]]'
+- '[[_Standards/WikiData/WD~week,23387|WD~week,23387]]'
+described_by_source: '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
 inception: -0044-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Julius_Caesar,1048]]'
-subclass_of: '[[_Standards/WikiData/WD~calendar,12132]]'
-replaced_by: '[[_Standards/WikiData/WD~Gregorian_calendar,12138]]'
+named_after: '[[_Standards/WikiData/WD~Julius_Caesar,1048|WD~Julius_Caesar,1048]]'
+subclass_of: '[[_Standards/WikiData/WD~calendar,12132|WD~calendar,12132]]'
+replaced_by: '[[_Standards/WikiData/WD~Gregorian_calendar,12138|WD~Gregorian_calendar,12138]]'
 RIA_Novosti_reference: 59029060
 Commons_gallery: Julian calendar
 Commons_category: Julian calendars

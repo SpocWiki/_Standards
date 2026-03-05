@@ -74,22 +74,22 @@ aliases:
 - 용접
 has_id_wikidata: Q131172
 different_from:
-- '[[_Standards/WikiData/WD~soldering_or_brazing,211387]]'
-- '[[_Standards/WikiData/WD~brazing,13389141]]'
+- '[[_Standards/WikiData/WD~soldering_or_brazing,211387|WD~soldering_or_brazing,211387]]'
+- '[[_Standards/WikiData/WD~brazing,13389141|WD~brazing,13389141]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-practiced_by: '[[_Standards/WikiData/WD~welder,836328]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~metalworking,953045]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+practiced_by: '[[_Standards/WikiData/WD~welder,836328|WD~welder,836328]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~metalworking,953045|WD~metalworking,953045]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~joining,1480529]]'
-- '[[_Standards/WikiData/WD~process,10843872]]'
+- '[[_Standards/WikiData/WD~joining,1480529|WD~joining,1480529]]'
+- '[[_Standards/WikiData/WD~process,10843872|WD~process,10843872]]'
 uses:
-- '[[_Standards/WikiData/WD~welding_power_supply,1936800]]'
-- '[[_Standards/WikiData/WD~Q3491469,3491469]]'
-has_part_s_: '[[_Standards/WikiData/WD~Welding_process,125576630]]'
+- '[[_Standards/WikiData/WD~welding_power_supply,1936800|WD~welding_power_supply,1936800]]'
+- '[[_Standards/WikiData/WD~Q3491469,3491469|WD~Q3491469,3491469]]'
+has_part_s_: '[[_Standards/WikiData/WD~Welding_process,125576630|WD~Welding_process,125576630]]'
 OmegaWiki_Defined_Meaning: 4137
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Migpipe.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/The%20sound%20of%20welding.webm

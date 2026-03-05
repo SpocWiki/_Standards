@@ -69,13 +69,13 @@ aliases:
 - 발전
 has_id_wikidata: Q383973
 instance_of:
-- '[[_Standards/WikiData/WD~quality_process,3406372]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~quality_process,3406372|WD~quality_process,3406372]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~energy_production,3406659]]'
-- '[[_Standards/WikiData/WD~process,10843872]]'
-- '[[_Standards/WikiData/WD~electrical_engineering,43035]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+- '[[_Standards/WikiData/WD~energy_production,3406659|WD~energy_production,3406659]]'
+- '[[_Standards/WikiData/WD~process,10843872|WD~process,10843872]]'
+- '[[_Standards/WikiData/WD~electrical_engineering,43035|WD~electrical_engineering,43035]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 Wikidata_property: annual energy output
 OpenStreetMap_tag_or_key: Key:power
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mohave%20Generating%20Station%201.jpg

@@ -66,19 +66,19 @@ aliases:
 - 의공학
 has_id_wikidata: Q327092
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~biomedicine,864601]]'
-- '[[_Standards/WikiData/WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~biomedicine,864601|WD~biomedicine,864601]]'
+- '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~health_technology,1519843]]'
-- '[[_Standards/WikiData/WD~medical_technology,10379048]]'
+- '[[_Standards/WikiData/WD~health_technology,1519843|WD~health_technology,1519843]]'
+- '[[_Standards/WikiData/WD~medical_technology,10379048|WD~medical_technology,10379048]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~biomedical_engineer,19902880]]'
-- '[[_Standards/WikiData/WD~biomedical_equipment_technician,55605490]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~biomedical_engineer,19902880|WD~biomedical_engineer,19902880]]'
+- '[[_Standards/WikiData/WD~biomedical_equipment_technician,55605490|WD~biomedical_equipment_technician,55605490]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
 P10203: 2204
 Commons_category: Biomedical engineering
 Dewey_Decimal_Classification:

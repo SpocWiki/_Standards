@@ -75,17 +75,17 @@ aliases:
 - 바로크 음악
 has_id_wikidata: Q8361
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~musical_movement,12020884]]'
-follows: '[[_Standards/WikiData/WD~Renaissance_music,201405]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_movement,12020884|WD~musical_movement,12020884]]'
+follows: '[[_Standards/WikiData/WD~Renaissance_music,201405|WD~Renaissance_music,201405]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~music_of_Europe,3328676]]'
-- '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~music_of_Europe,3328676|WD~music_of_Europe,3328676]]'
+- '[[_Standards/WikiData/WD~classical_music,9730|WD~classical_music,9730]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Q10514009,10514009]]'
-- '[[_Standards/WikiData/WD~Template_Baroque_music,22773371]]'
+- '[[_Standards/WikiData/WD~Q10514009,10514009|WD~Q10514009,10514009]]'
+- '[[_Standards/WikiData/WD~Template_Baroque_music,22773371|WD~Template_Baroque_music,22773371]]'
 inception: 1600-01-01T00:00:00Z
-followed_by: '[[_Standards/WikiData/WD~Classical_period,17723]]'
+followed_by: '[[_Standards/WikiData/WD~Classical_period,17723|WD~Classical_period,17723]]'
 subreddit: Baroque
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Sebastian%20Bach.jpg
 Commons_category: Baroque music

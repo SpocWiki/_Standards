@@ -37,7 +37,7 @@ let page = html! {
 };
 ```
 
-...and even Turing-Complete Languages like [[../Prog~LISP]].  
+...and even Turing-Complete Languages like [[../Prog~LISP|Prog~LISP]].  
 ```rust
 lisp!(defun factorial ((n i32)) i32
   (if (<= n 1)

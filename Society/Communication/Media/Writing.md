@@ -142,36 +142,36 @@ aliases:
 - 쓰기
 has_id_wikidata: Q37260
 uses:
-- '[[_Standards/WikiData/WD~writing_implement,121916]]'
-- '[[_Standards/WikiData/WD~writing_surface,3327760]]'
-- '[[_Standards/WikiData/WD~writing_technique,125400578]]'
+- '[[_Standards/WikiData/WD~writing_implement,121916|WD~writing_implement,121916]]'
+- '[[_Standards/WikiData/WD~writing_surface,3327760|WD~writing_surface,3327760]]'
+- '[[_Standards/WikiData/WD~writing_technique,125400578|WD~writing_technique,125400578]]'
 studied_by:
-- '[[_Standards/WikiData/WD~epigraphy,181260]]'
-- '[[_Standards/WikiData/WD~graphology,185133]]'
+- '[[_Standards/WikiData/WD~epigraphy,181260|WD~epigraphy,181260]]'
+- '[[_Standards/WikiData/WD~graphology,185133|WD~graphology,185133]]'
 instance_of:
-- '[[_Standards/WikiData/WD~skill,205961]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-subclass_of: '[[_Standards/WikiData/WD~communications_media,340169]]'
+- '[[_Standards/WikiData/WD~skill,205961|WD~skill,205961]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+subclass_of: '[[_Standards/WikiData/WD~communications_media,340169|WD~communications_media,340169]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~initial,378408]]'
-- '[[_Standards/WikiData/WD~Tironian_notes,1786161]]'
-- '[[_Standards/WikiData/WD~scribal_abbreviation,4537333]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_writing,1340267]]'
+- '[[_Standards/WikiData/WD~initial,378408|WD~initial,378408]]'
+- '[[_Standards/WikiData/WD~Tironian_notes,1786161|WD~Tironian_notes,1786161]]'
+- '[[_Standards/WikiData/WD~scribal_abbreviation,4537333|WD~scribal_abbreviation,4537333]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_writing,1340267|WD~history_of_writing,1340267]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~writing_style,2243831]]'
-- '[[_Standards/WikiData/WD~script_directionality,12055124]]'
+- '[[_Standards/WikiData/WD~writing_style,2243831|WD~writing_style,2243831]]'
+- '[[_Standards/WikiData/WD~script_directionality,12055124|WD~script_directionality,12055124]]'
 different_from:
-- '[[_Standards/WikiData/WD~spelling_alphabet,10926511]]'
-- '[[_Standards/WikiData/WD~written_language,11499915]]'
-- '[[_Standards/WikiData/WD~writing,60527758]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Writing,11056665]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Writing,55127579]]'
+- '[[_Standards/WikiData/WD~spelling_alphabet,10926511|WD~spelling_alphabet,10926511]]'
+- '[[_Standards/WikiData/WD~written_language,11499915|WD~written_language,11499915]]'
+- '[[_Standards/WikiData/WD~writing,60527758|WD~writing,60527758]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Writing,11056665|WD~Portal_Writing,11056665]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Writing,55127579|WD~Template_Writing,55127579]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-has_use: '[[_Standards/WikiData/WD~communication,11024]]'
-used_by: '[[_Standards/WikiData/WD~human,5]]'
-practiced_by: '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+has_use: '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
+used_by: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+practiced_by: '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
 U_S_National_Archives_Identifier: 10641060
 subreddit: writing
 Stack_Exchange_site_URL: https://writing.stackexchange.com/

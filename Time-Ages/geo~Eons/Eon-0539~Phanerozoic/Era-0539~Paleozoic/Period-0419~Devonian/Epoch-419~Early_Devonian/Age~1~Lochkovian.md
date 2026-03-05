@@ -27,12 +27,12 @@ aliases:
 - 로흐코프절
 has_id_wikidata: Q1089613
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Klonk,1131298]]'
-named_after: '[[_Standards/WikiData/WD~Lochkov,2456160]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Lochkovian,134611894]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Klonk,1131298|WD~Klonk,1131298]]'
+named_after: '[[_Standards/WikiData/WD~Lochkov,2456160|WD~Lochkov,2456160]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Lochkovian,134611894|WD~GSSP_for_the_base_of_the_Lochkovian,134611894]]'
 coordinate_location: Point(14.0611 49.9008)
 end_time: -410800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: EEBA6E

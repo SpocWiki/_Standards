@@ -4,7 +4,7 @@
 #is_a_/ComputerLanguage 
 #is_a_/computer_language  
 
-#has_/parent :: [[OO-Lang/Prog~Smalltalk|Prog~Smalltalk]], [[Prog~Eiffel]], [[../Prog~Functional/Prog~LISP/Prog~Ada]], [[../Prog~Structured/Structured_Prog-Lang/Prog~BASIC|Prog~BASIC]], [[OO-Lang/Prog~Java|Prog~Java]], [[../Prog~Structured/Structured_Prog-Lang/Prog~Python|Prog~Python]], [[../Prog~Imperative/Prog~Perl]] 
+#has_/parent :: [[OO-Lang/Prog~Smalltalk|Prog~Smalltalk]], [[Prog~Eiffel]], [[../Prog~Functional/Prog~LISP/Prog~Ada|Prog~Ada]], [[../Prog~Structured/Structured_Prog-Lang/Prog~BASIC|Prog~BASIC]], [[OO-Lang/Prog~Java|Prog~Java]], [[../Prog~Structured/Structured_Prog-Lang/Prog~Python|Prog~Python]], [[../Prog~Imperative/Prog~Perl|Prog~Perl]] 
 #has_/creator :: [[Bertrand_Meyer]]
 #has_/time_/started :: 1985-07-01 
 

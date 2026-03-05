@@ -79,14 +79,14 @@ aliases:
 - 수영복
 has_id_wikidata: Q212989
 made_from_material:
-- '[[_Standards/WikiData/WD~nylon,177941]]'
-- '[[_Standards/WikiData/WD~polyester,188245]]'
+- '[[_Standards/WikiData/WD~nylon,177941|WD~nylon,177941]]'
+- '[[_Standards/WikiData/WD~polyester,188245|WD~polyester,188245]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sportswear,645292]]'
-- '[[_Standards/WikiData/WD~swimwear,7223116]]'
+- '[[_Standards/WikiData/WD~sportswear,645292|WD~sportswear,645292]]'
+- '[[_Standards/WikiData/WD~swimwear,7223116|WD~swimwear,7223116]]'
 has_use:
-- '[[_Standards/WikiData/WD~sun_bathing,47125651]]'
-- '[[_Standards/WikiData/WD~swimming,6388]]'
+- '[[_Standards/WikiData/WD~sun_bathing,47125651|WD~sun_bathing,47125651]]'
+- '[[_Standards/WikiData/WD~swimming,6388|WD~swimming,6388]]'
 Dewey_Decimal_Classification:
 - 391
 - 646.47

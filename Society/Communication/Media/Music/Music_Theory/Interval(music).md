@@ -41,23 +41,23 @@ aliases:
 - 음정
 has_id_wikidata: Q189962
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~musical_parameter,1639408]]'
-- '[[_Standards/WikiData/WD~interval_ratio,6057278]]'
-studied_by: '[[_Standards/WikiData/WD~musicology,164204]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~musical_parameter,1639408|WD~musical_parameter,1639408]]'
+- '[[_Standards/WikiData/WD~interval_ratio,6057278|WD~interval_ratio,6057278]]'
+studied_by: '[[_Standards/WikiData/WD~musicology,164204|WD~musicology,164204]]'
 different_from:
-- '[[_Standards/WikiData/WD~interval,185148]]'
-- '[[_Standards/WikiData/WD~interval,12379015]]'
-part_of: '[[_Standards/WikiData/WD~tonality,192822]]'
+- '[[_Standards/WikiData/WD~interval,185148|WD~interval,185148]]'
+- '[[_Standards/WikiData/WD~interval,12379015|WD~interval,12379015]]'
+part_of: '[[_Standards/WikiData/WD~tonality,192822|WD~tonality,192822]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Dyad,5318389]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_musical_interval,5625514]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749|WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Dyad,5318389|WD~Dyad,5318389]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_musical_interval,5625514|WD~Template_Infobox_musical_interval,5625514]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>f</mi><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow></msub></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>f</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msub></mstyle></mrow></math>

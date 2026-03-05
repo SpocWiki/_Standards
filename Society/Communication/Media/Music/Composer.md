@@ -189,25 +189,25 @@ male_form_of_label:
 - композитор
 - композитор
 - ملحن
-patron_saint: '[[_Standards/WikiData/WD~Saint_Cecilia,80513]]'
+patron_saint: '[[_Standards/WikiData/WD~Saint_Cecilia,80513|WD~Saint_Cecilia,80513]]'
 different_from:
-- '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
-- '[[_Standards/WikiData/WD~music_composing,11895763]]'
-- '[[_Standards/WikiData/WD~composition_teacher,99588331]]'
+- '[[_Standards/WikiData/WD~composed_musical_work,207628|WD~composed_musical_work,207628]]'
+- '[[_Standards/WikiData/WD~music_composing,11895763|WD~music_composing,11895763]]'
+- '[[_Standards/WikiData/WD~composition_teacher,99588331|WD~composition_teacher,99588331]]'
 field_of_this_occupation:
-- '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
-- '[[_Standards/WikiData/WD~music_composing,11895763]]'
+- '[[_Standards/WikiData/WD~composed_musical_work,207628|WD~composed_musical_work,207628]]'
+- '[[_Standards/WikiData/WD~music_composing,11895763|WD~music_composing,11895763]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~author,482980]]'
-- '[[_Standards/WikiData/WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~author,482980|WD~author,482980]]'
+- '[[_Standards/WikiData/WD~musician,639669|WD~musician,639669]]'
 has_list:
-- '[[_Standards/WikiData/WD~lists_of_composers,1515124]]'
-- '[[_Standards/WikiData/WD~list_of_lists_of_composers_by_nationality,1846030]]'
+- '[[_Standards/WikiData/WD~lists_of_composers,1515124|WD~lists_of_composers,1515124]]'
+- '[[_Standards/WikiData/WD~list_of_lists_of_composers_by_nationality,1846030|WD~list_of_lists_of_composers_by_nationality,1846030]]'
 instance_of:
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~musical_profession,66715801]]'
-described_by_source: "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q125756013,125756013]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~musical_profession,66715801|WD~musical_profession,66715801]]'
+described_by_source: "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q125756013,125756013|WD~Q125756013,125756013]]'
 properties_for_this_type:
 - date of birth
 - date of death
@@ -225,7 +225,7 @@ properties_for_this_type:
 - spouse
 - child
 - movement
-notable_work: '[[_Standards/WikiData/WD~music,638]]'
+notable_work: '[[_Standards/WikiData/WD~music,638|WD~music,638]]'
 Wikidata_property: composer
 ISCO_88_occupation_class: 2453
 ISCO_08_occupation_class: 2652
@@ -430,7 +430,7 @@ dv_has_:
 
 # [[Composer]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~composer,36834]] 
+#is_/same_as :: [[_Standards/WikiData/WD~composer,36834|WD~composer,36834]] 
 
 ## #has_/text_of_/abstract 
 

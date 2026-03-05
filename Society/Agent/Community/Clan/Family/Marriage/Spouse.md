@@ -75,16 +75,16 @@ aliases:
 - 배우자
 has_id_wikidata: Q1196129
 has_part_s_:
-- '[[_Standards/WikiData/WD~wife,188830]]'
-- '[[_Standards/WikiData/WD~husband,212878]]'
-- '[[_Standards/WikiData/WD~non_binary_spouse,110674791]]'
-- '[[_Standards/WikiData/WD~common_law_spouse,123766481]]'
-opposite_of: '[[_Standards/WikiData/WD~single_person,908826]]'
-instance_of: '[[_Standards/WikiData/WD~affinity,954007]]'
-part_of: '[[_Standards/WikiData/WD~married_couple,3046146]]'
-subclass_of: '[[_Standards/WikiData/WD~significant_other,11493441]]'
-has_characteristic: '[[_Standards/WikiData/WD~married,37713312]]'
-different_from: '[[_Standards/WikiData/WD~cohabitor,104290752]]'
+- '[[_Standards/WikiData/WD~wife,188830|WD~wife,188830]]'
+- '[[_Standards/WikiData/WD~husband,212878|WD~husband,212878]]'
+- '[[_Standards/WikiData/WD~non_binary_spouse,110674791|WD~non_binary_spouse,110674791]]'
+- '[[_Standards/WikiData/WD~common_law_spouse,123766481|WD~common_law_spouse,123766481]]'
+opposite_of: '[[_Standards/WikiData/WD~single_person,908826|WD~single_person,908826]]'
+instance_of: '[[_Standards/WikiData/WD~affinity,954007|WD~affinity,954007]]'
+part_of: '[[_Standards/WikiData/WD~married_couple,3046146|WD~married_couple,3046146]]'
+subclass_of: '[[_Standards/WikiData/WD~significant_other,11493441|WD~significant_other,11493441]]'
+has_characteristic: '[[_Standards/WikiData/WD~married,37713312|WD~married,37713312]]'
+different_from: '[[_Standards/WikiData/WD~cohabitor,104290752|WD~cohabitor,104290752]]'
 Wikidata_property: spouse
 female_form_of_label:
 - wife

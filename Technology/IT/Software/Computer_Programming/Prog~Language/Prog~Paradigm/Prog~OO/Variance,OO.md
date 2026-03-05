@@ -14,7 +14,7 @@ Sub-Interface Methods can be variant, i.e.
 - accept __less specific Parameters__ [[#Contravariance]] 
 - return __more specific Results__ [[#Covariance]] 
 
-This corresponds directly to the[[../../Prog~Principle/Robustness-Principle]]], 
+This corresponds directly to the[[../../Prog~Principle/Robustness-Principle|Robustness-Principle]]], 
 implemented e.g. in [[Postel's_Law]], where 
 - you should accept __less specific Parameters__ 
 - but always return __more specific Results__ 

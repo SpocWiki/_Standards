@@ -45,10 +45,10 @@ aliases:
 - 卡方檢驗
 - 카이제곱 검정
 has_id_wikidata: Q1071004
-instance_of: '[[_Standards/WikiData/WD~statistical_test,210832]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-subclass_of: '[[_Standards/WikiData/WD~non_parametric_test,47093179]]'
-different_from: '[[_Standards/WikiData/WD~Pearson_correlation_test,47103114]]'
+instance_of: '[[_Standards/WikiData/WD~statistical_test,210832|WD~statistical_test,210832]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[_Standards/WikiData/WD~non_parametric_test,47093179|WD~non_parametric_test,47093179]]'
+different_from: '[[_Standards/WikiData/WD~Pearson_correlation_test,47103114|WD~Pearson_correlation_test,47103114]]'
 Stack_Exchange_tag: https://stats.stackexchange.com/tags/chi-squared-test
 P8189: 987007285526505171
 name_in_kana: かいにじょうけんてい

@@ -27,7 +27,7 @@ tags:
 title: is_an_item_availability Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Item_Availability|Item_Availability]]"
@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Item_Availability.personal|Item_Availability.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability.secret|Item_Availability.secret]]"
     - "[[Item_Availability]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Item_Availability]]"
   - "[[/_public/schema-org/Enumeration/Item_Availability.public|Item_Availability.public]]"
@@ -55,12 +55,12 @@ Tag Instances like this:
 #is_an_/item_availability
 
 A list of possible product availability options:
-- [[Item_Availability/Back_Order]]
-- [[Item_Availability/Discontinued]]
-- [[Item_Availability/In_Stock]]
-- [[Item_Availability/In_Store_Only]]
+- [[Item_Availability/Back_Order|Back_Order]]
+- [[Item_Availability/Discontinued|Discontinued]]
+- [[Item_Availability/In_Stock|In_Stock]]
+- [[Item_Availability/In_Store_Only|In_Store_Only]]
 - [[Item_Availability/Limited_Availability|LimitedAvailability]]
-- [[Item_Availability/Online_Only]]
+- [[Item_Availability/Online_Only|Online_Only]]
 - [[Item_Availability/Out_of_Stock|out_of_stock]]
 - [[Item_Availability/Pre_Order|is_a_pre_order]]
 - [[Item_Availability/Pre_Sale|pre-sale]]

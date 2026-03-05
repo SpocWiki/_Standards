@@ -1,7 +1,7 @@
 ---
 location:
-- '[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]'
-- '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
+- '[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107|WD~Polish_Lithuanian_Commonwealth,172107]]'
+- '[[_Standards/WikiData/WD~Eastern_Europe,27468|WD~Eastern_Europe,27468]]'
 aliases:
 - 1605-1618 Lehistan-Rusya Savaşı
 - 1605-1618 еллардагы урыс-поляк сугышы
@@ -45,19 +45,19 @@ aliases:
 - 폴란드-모스크바 전쟁
 has_id_wikidata: Q1044829
 participant:
-- '[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]'
-- '[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]'
-- '[[_Standards/WikiData/WD~Zaporozhian_Cossacks,1076173]]'
-- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107|WD~Polish_Lithuanian_Commonwealth,172107]]'
+- '[[_Standards/WikiData/WD~Tsardom_of_Russia,186096|WD~Tsardom_of_Russia,186096]]'
+- '[[_Standards/WikiData/WD~Zaporozhian_Cossacks,1076173|WD~Zaporozhian_Cossacks,1076173]]'
+- '[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
 instance_of:
-- '[[_Standards/WikiData/WD~military_intervention,5919191]]'
-- '[[_Standards/WikiData/WD~war,198]]'
+- '[[_Standards/WikiData/WD~military_intervention,5919191|WD~military_intervention,5919191]]'
+- '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 end_time: 1618-01-01T00:00:00Z
 start_time:
 - 1609-01-01T00:00:00Z
 - 1605-01-01T00:00:00Z
 coordinate_location: Point(19.93 50.05)
-country: '[[_Standards/WikiData/WD~Poland,36]]'
+country: '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Juliusz%20Kossak%20Odsiecz%20Smolenska.jpeg
 Commons_category: Polish-Russian War 1609-1618
 dv_has_:

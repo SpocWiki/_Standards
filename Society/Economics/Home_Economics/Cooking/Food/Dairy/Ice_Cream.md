@@ -140,28 +140,28 @@ aliases:
 - 얼음보숭이
 has_id_wikidata: Q13233
 regulated_by:
-- '[[_Standards/WikiData/WD~Food_and_Drug_Administration,204711]]'
-- '[[_Standards/WikiData/WD~National_Food_Agency,6972720]]'
+- '[[_Standards/WikiData/WD~Food_and_Drug_Administration,204711|WD~Food_and_Drug_Administration,204711]]'
+- '[[_Standards/WikiData/WD~National_Food_Agency,6972720|WD~National_Food_Agency,6972720]]'
 different_from:
-- '[[_Standards/WikiData/WD~Glass,232598]]'
-- '[[_Standards/WikiData/WD~EIS,406899]]'
-- '[[_Standards/WikiData/WD~Ice_cream,5595942]]'
-- '[[_Standards/WikiData/WD~Lody,21000884]]'
+- '[[_Standards/WikiData/WD~Glass,232598|WD~Glass,232598]]'
+- '[[_Standards/WikiData/WD~EIS,406899|WD~EIS,406899]]'
+- '[[_Standards/WikiData/WD~Ice_cream,5595942|WD~Ice_cream,5595942]]'
+- '[[_Standards/WikiData/WD~Lody,21000884|WD~Lody,21000884]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~frozen_dessert,866153]]'
-- '[[_Standards/WikiData/WD~dessert_with_spoon,3712597]]'
-- '[[_Standards/WikiData/WD~soft_cow_dairy_product,113773097]]'
+- '[[_Standards/WikiData/WD~frozen_dessert,866153|WD~frozen_dessert,866153]]'
+- '[[_Standards/WikiData/WD~dessert_with_spoon,3712597|WD~dessert_with_spoon,3712597]]'
+- '[[_Standards/WikiData/WD~soft_cow_dairy_product,113773097|WD~soft_cow_dairy_product,113773097]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~flavoring,4173974]]'
-- '[[_Standards/WikiData/WD~milk,8495]]'
-- '[[_Standards/WikiData/WD~sugar,11002]]'
-- '[[_Standards/WikiData/WD~cream,13228]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Ice_cream,16467513]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25689694,25689694]]'
-serving_temperature: '[[_Standards/WikiData/WD~frozen,75271124]]'
+- '[[_Standards/WikiData/WD~flavoring,4173974|WD~flavoring,4173974]]'
+- '[[_Standards/WikiData/WD~milk,8495|WD~milk,8495]]'
+- '[[_Standards/WikiData/WD~sugar,11002|WD~sugar,11002]]'
+- '[[_Standards/WikiData/WD~cream,13228|WD~cream,13228]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ice_cream,16467513|WD~Template_Ice_cream,16467513]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25689694,25689694|WD~Q25689694,25689694]]'
+serving_temperature: '[[_Standards/WikiData/WD~frozen,75271124|WD~frozen,75271124]]'
 USDA_NDB_number:
 - 19893
 - 01243

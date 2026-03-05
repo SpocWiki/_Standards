@@ -66,16 +66,16 @@ aliases:
 - 傅科擺
 - 푸코의 진자
 has_id_wikidata: Q178841
-creator: '[[_Standards/WikiData/WD~Léon_Foucault,187966]]'
-named_after: '[[_Standards/WikiData/WD~Léon_Foucault,187966]]'
-has_cause: "[[_Standards/WikiData/WD~Earth's_rotation,244743]]"
-different_from: "[[_Standards/WikiData/WD~Foucault's_Pendulum,437791]]"
-instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-has_use: '[[_Standards/WikiData/WD~scientific_demonstration,7433795]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+creator: '[[_Standards/WikiData/WD~Léon_Foucault,187966|WD~Léon_Foucault,187966]]'
+named_after: '[[_Standards/WikiData/WD~Léon_Foucault,187966|WD~Léon_Foucault,187966]]'
+has_cause: "[[_Standards/WikiData/WD~Earth's_rotation,244743|WD~Earth's_rotation,244743]]"
+different_from: "[[_Standards/WikiData/WD~Foucault's_Pendulum,437791|WD~Foucault's_Pendulum,437791]]"
+instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+has_use: '[[_Standards/WikiData/WD~scientific_demonstration,7433795|WD~scientific_demonstration,7433795]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 inception: 1851-02-01T00:00:00Z
-subclass_of: '[[_Standards/WikiData/WD~pendulum,20702]]'
-location_of_creation: '[[_Standards/WikiData/WD~Paris,90]]'
+subclass_of: '[[_Standards/WikiData/WD~pendulum,20702|WD~pendulum,20702]]'
+location_of_creation: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
 video:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Foucault-rotz-de.gif
 - http://commons.wikimedia.org/wiki/Special:FilePath/Foucault-soleil.gif

@@ -46,15 +46,15 @@ aliases:
 - 기밀성
 has_id_wikidata: Q2476929
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~privacy,188728]]'
-- '[[_Standards/WikiData/WD~anonymity,308859]]'
-instance_of: '[[_Standards/WikiData/WD~quality,1207505]]'
-different_from: '[[_Standards/WikiData/WD~secrecy,1503443]]'
+- '[[_Standards/WikiData/WD~privacy,188728|WD~privacy,188728]]'
+- '[[_Standards/WikiData/WD~anonymity,308859|WD~anonymity,308859]]'
+instance_of: '[[_Standards/WikiData/WD~quality,1207505|WD~quality,1207505]]'
+different_from: '[[_Standards/WikiData/WD~secrecy,1503443|WD~secrecy,1503443]]'
 facet_of:
-- '[[_Standards/WikiData/WD~secrecy,1503443]]'
-- '[[_Standards/WikiData/WD~law,7748]]'
-main_regulatory_text: '[[_Standards/WikiData/WD~Q10607868,10607868]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121]]'
+- '[[_Standards/WikiData/WD~secrecy,1503443|WD~secrecy,1503443]]'
+- '[[_Standards/WikiData/WD~law,7748|WD~law,7748]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Q10607868,10607868|WD~Q10607868,10607868]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121|WD~WikiProject_Health_Data_Space,124300121]]'
 described_at_URL:
 - http://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/242859/norma.htm
 - https://iso25000.com/index.php/en/iso-25000-standards/iso-25012/126-confidentiality
@@ -113,7 +113,7 @@ dv_has_:
 
 # [[Confidentiality]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~confidentiality,2476929]]
+#is_/same_as :: [[_Standards/WikiData/WD~confidentiality,2476929|WD~confidentiality,2476929]]
 
 The Fact that only a discrete Set of [[Confidentiality]] Levels exist 
 induces the definition of distinct Tags for them: 

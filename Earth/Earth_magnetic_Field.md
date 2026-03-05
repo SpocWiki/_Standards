@@ -68,15 +68,15 @@ aliases:
 - 地磁気
 - 지자기
 has_id_wikidata: Q6500960
-studied_by: '[[_Standards/WikiData/WD~geomagnetism,114591]]'
+studied_by: '[[_Standards/WikiData/WD~geomagnetism,114591|WD~geomagnetism,114591]]'
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-subclass_of: '[[_Standards/WikiData/WD~magnetism,3294789]]'
-instance_of: '[[_Standards/WikiData/WD~planetary_magnetic_field,4274059]]'
-part_of: '[[_Standards/WikiData/WD~Earth,2]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+subclass_of: '[[_Standards/WikiData/WD~magnetism,3294789|WD~magnetism,3294789]]'
+instance_of: '[[_Standards/WikiData/WD~planetary_magnetic_field,4274059|WD~planetary_magnetic_field,4274059]]'
+part_of: '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
 OmegaWiki_Defined_Meaning: 1459763
 Dewey_Decimal_Classification: 538.7
 Commons_gallery: Earth's magnetic field

@@ -41,7 +41,7 @@ aliases:
 - 自發對稱性破缺
 - 자발 대칭 깨짐
 has_id_wikidata: Q736716
-subclass_of: '[[_Standards/WikiData/WD~symmetry_breaking,903282]]'
+subclass_of: '[[_Standards/WikiData/WD~symmetry_breaking,903282|WD~symmetry_breaking,903282]]'
 Commons_category: Spontaneous symmetry breaking
 dv_has_:
   name_:

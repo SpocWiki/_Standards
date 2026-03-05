@@ -27,9 +27,9 @@ tags:
 title: is_a_low_salt_diet Class
 type: Type
 dv_has_:
-  parent_class: "[[../RestrictedDiet]]"
+  parent_class: "[[../RestrictedDiet|RestrictedDiet]]"
 dv_is_:
-  enum_of: "[[../RestrictedDiet]]"
+  enum_of: "[[../RestrictedDiet|RestrictedDiet]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Low_Salt_Diet|Low_Salt_Diet]]"
     - "[[/_public/schema-org/Enumeration/Restricted_Diet/Low_Salt_Diet.public|Low_Salt_Diet.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Low_Salt_Diet.personal|Low_Salt_Diet.personal]]"
     - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Low_Salt_Diet.secret|Low_Salt_Diet.secret]]"
     - "[[Low_Salt_Diet]]"
-dv_has_parent_class: "[[../RestrictedDiet]]"
-dv_is_enum_of: "[[../RestrictedDiet]]"
+dv_has_parent_class: "[[../RestrictedDiet|RestrictedDiet]]"
+dv_is_enum_of: "[[../RestrictedDiet|RestrictedDiet]]"
 dv_is_same_as:
   - "[[Low_Salt_Diet]]"
   - "[[/_public/schema-org/Enumeration/Restricted_Diet/Low_Salt_Diet.public|Low_Salt_Diet.public]]"

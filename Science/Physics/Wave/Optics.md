@@ -73,22 +73,22 @@ aliases:
 - 광학
 has_id_wikidata: Q14620
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-different_from: '[[_Standards/WikiData/WD~optometry,618211]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+different_from: '[[_Standards/WikiData/WD~optometry,618211|WD~optometry,618211]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~economic_sector,3958441]]'
-- '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_optics,3137024]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436|WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~economic_sector,3958441|WD~economic_sector,3958441]]'
+- '[[_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_optics,3137024|WD~history_of_optics,3137024]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~optical_phenomenon,14506045]]'
-- '[[_Standards/WikiData/WD~light,9128]]'
-practiced_by: '[[_Standards/WikiData/WD~optician,71133019]]'
-part_of: '[[_Standards/WikiData/WD~physics,413]]'
-subclass_of: '[[_Standards/WikiData/WD~natural_science,7991]]'
+- '[[_Standards/WikiData/WD~optical_phenomenon,14506045|WD~optical_phenomenon,14506045]]'
+- '[[_Standards/WikiData/WD~light,9128|WD~light,9128]]'
+practiced_by: '[[_Standards/WikiData/WD~optician,71133019|WD~optician,71133019]]'
+part_of: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
+subclass_of: '[[_Standards/WikiData/WD~natural_science,7991|WD~natural_science,7991]]'
 Universal_Decimal_Classification: 535
 OmegaWiki_Defined_Meaning: 399057
 Basisklassifikation: 33.18

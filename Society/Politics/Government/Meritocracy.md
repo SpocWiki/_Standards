@@ -61,14 +61,14 @@ aliases:
 - 능력주의
 has_id_wikidata: Q178079
 instance_of:
-- '[[_Standards/WikiData/WD~form_of_state,183039]]'
-- '[[_Standards/WikiData/WD~form_of_government,1307214]]'
-- '[[_Standards/WikiData/WD~social_system,1639378]]'
-- '[[_Standards/WikiData/WD~political_theory,9357091]]'
-named_after: '[[_Standards/WikiData/WD~merit,1361649]]'
-different_from: '[[_Standards/WikiData/WD~achieving_society,1815949]]'
-opposite_of: '[[_Standards/WikiData/WD~cronyism,10964327]]'
-described_by_source: '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
+- '[[_Standards/WikiData/WD~form_of_state,183039|WD~form_of_state,183039]]'
+- '[[_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
+- '[[_Standards/WikiData/WD~social_system,1639378|WD~social_system,1639378]]'
+- '[[_Standards/WikiData/WD~political_theory,9357091|WD~political_theory,9357091]]'
+named_after: '[[_Standards/WikiData/WD~merit,1361649|WD~merit,1361649]]'
+different_from: '[[_Standards/WikiData/WD~achieving_society,1815949|WD~achieving_society,1815949]]'
+opposite_of: '[[_Standards/WikiData/WD~cronyism,10964327|WD~cronyism,10964327]]'
+described_by_source: '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404|WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Konfuzius-1770.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Meritocracy%20symbol.jpg
 Commons_category: Meritocracy

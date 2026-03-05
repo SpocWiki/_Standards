@@ -55,7 +55,7 @@ Tag Instances like this:
 
 A body of water, such as a sea, ocean, or lake.
 
-#has_/parent_class [[../Landform]]]  
+#has_/parent_class [[../Landform|Landform]]]  
 
 has_child_class = `=this.dv_has_child_class` ]
 

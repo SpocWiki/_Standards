@@ -27,32 +27,32 @@ has_id_wikidata: Q484918
 official_name: Simon & Garfunkel
 work_period_end_: 2010-01-01T00:00:00Z
 award_received:
-- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191|WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843|WD~Grammy_Lifetime_Achievement_Award,935843]]'
 notable_work:
-- '[[_Standards/WikiData/WD~The_Boxer,180128]]'
-- '[[_Standards/WikiData/WD~Bridge_over_Troubled_Water,655502]]'
-- '[[_Standards/WikiData/WD~El_cóndor_pasa,918029]]'
-- '[[_Standards/WikiData/WD~The_Sounds_of_Silence,922139]]'
-- '[[_Standards/WikiData/WD~Homeward_Bound,1626100]]'
-- '[[_Standards/WikiData/WD~A_Hazy_Shade_of_Winter,2716338]]'
-record_label: '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~The_Boxer,180128|WD~The_Boxer,180128]]'
+- '[[_Standards/WikiData/WD~Bridge_over_Troubled_Water,655502|WD~Bridge_over_Troubled_Water,655502]]'
+- '[[_Standards/WikiData/WD~El_cóndor_pasa,918029|WD~El_cóndor_pasa,918029]]'
+- '[[_Standards/WikiData/WD~The_Sounds_of_Silence,922139|WD~The_Sounds_of_Silence,922139]]'
+- '[[_Standards/WikiData/WD~Homeward_Bound,1626100|WD~Homeward_Bound,1626100]]'
+- '[[_Standards/WikiData/WD~A_Hazy_Shade_of_Winter,2716338|WD~A_Hazy_Shade_of_Winter,2716338]]'
+record_label: '[[_Standards/WikiData/WD~Columbia_Records,183387|WD~Columbia_Records,183387]]'
 genre:
-- '[[_Standards/WikiData/WD~folk_rock,186472]]'
-- '[[_Standards/WikiData/WD~soft_rock,217191]]'
-- '[[_Standards/WikiData/WD~psychedelic_folk,1500364]]'
-- '[[_Standards/WikiData/WD~folk_pop,11700058]]'
-discography: '[[_Standards/WikiData/WD~Simon_&_Garfunkel_discography,768450]]'
+- '[[_Standards/WikiData/WD~folk_rock,186472|WD~folk_rock,186472]]'
+- '[[_Standards/WikiData/WD~soft_rock,217191|WD~soft_rock,217191]]'
+- '[[_Standards/WikiData/WD~psychedelic_folk,1500364|WD~psychedelic_folk,1500364]]'
+- '[[_Standards/WikiData/WD~folk_pop,11700058|WD~folk_pop,11700058]]'
+discography: '[[_Standards/WikiData/WD~Simon_&_Garfunkel_discography,768450|WD~Simon_&_Garfunkel_discography,768450]]'
 location_of_formation:
-- '[[_Standards/WikiData/WD~Forest_Hills,1202211]]'
-- '[[_Standards/WikiData/WD~Queens,18424]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-instance_of: '[[_Standards/WikiData/WD~musical_duo,9212979]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Simon_&_Garfunkel,10728865]]'
+- '[[_Standards/WikiData/WD~Forest_Hills,1202211|WD~Forest_Hills,1202211]]'
+- '[[_Standards/WikiData/WD~Queens,18424|WD~Queens,18424]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+instance_of: '[[_Standards/WikiData/WD~musical_duo,9212979|WD~musical_duo,9212979]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Simon_&_Garfunkel,10728865|WD~Template_Simon_&_Garfunkel,10728865]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Paul_Simon,4028]]'
-- '[[_Standards/WikiData/WD~Q4039,4039]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Paul_Simon,4028|WD~Paul_Simon,4028]]'
+- '[[_Standards/WikiData/WD~Q4039,4039|WD~Q4039,4039]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 Commons_category: Simon and Garfunkel
 inception: 1957-01-01T00:00:00Z
 work_period_start_: 1956-01-01T00:00:00Z

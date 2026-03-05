@@ -90,20 +90,20 @@ aliases:
 - 미국-에스빠냐전쟁
 has_id_wikidata: Q12583
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 participant:
-- '[[_Standards/WikiData/WD~Spain_under_the_Restoration,1044536]]'
-- '[[_Standards/WikiData/WD~Republic_of_Cuba,14905932]]'
-- '[[_Standards/WikiData/WD~Revolutionary_Government_of_the_Philippines,53553879]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Spain_under_the_Restoration,1044536|WD~Spain_under_the_Restoration,1044536]]'
+- '[[_Standards/WikiData/WD~Republic_of_Cuba,14905932|WD~Republic_of_Cuba,14905932]]'
+- '[[_Standards/WikiData/WD~Revolutionary_Government_of_the_Philippines,53553879|WD~Revolutionary_Government_of_the_Philippines,53553879]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 end_time: 1898-08-11T00:00:00Z
 start_time: 1898-04-25T00:00:00Z
 point_in_time: 1898-01-01T00:00:00Z
-locations: '[[_Standards/WikiData/WD~Caribbean_Sea,1247]]'
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+locations: '[[_Standards/WikiData/WD~Caribbean_Sea,1247|WD~Caribbean_Sea,1247]]'
+instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Maine%20explosion.jpg
 UMLS_CUI: C1449763
 Library_of_Congress_Classification: E714-E735

@@ -49,7 +49,7 @@ dv_has_name_cn: 中国澳门特别行政区
 dv_has_name_ar: منطقة ماكاو الإدارية الخاصة التابعة للصين
 dv_has_name_ru: Китай, Специальный административный район Макао
 dv_CLDR_display_name: Macau
-dv_Region_Name: "[[../../Asia]]"
+dv_Region_Name: "[[../../Asia|Asia]]"
 dv_Intermediate_Region_Name: "[[Macau]]"
 dv_Sub-region_Name: "[[Eastern Asia]]"
 dv_Region: 142
@@ -73,7 +73,7 @@ dv_ISO3: MAC
 dv_has_name_de: Macao
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: "[[../../Asia|Asia]]"
 dv_Language-Id: 467
 dv_is_:
   same_as:

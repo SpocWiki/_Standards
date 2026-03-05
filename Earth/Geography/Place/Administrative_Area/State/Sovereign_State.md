@@ -150,28 +150,28 @@ aliases:
 - ꯃꯅꯤꯡ ꯇꯝꯕ ꯂꯩꯄꯥꯛ
 - 주권국
 has_id_wikidata: Q3624078
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-opposite_of: '[[_Standards/WikiData/WD~client_state,1151405]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+opposite_of: '[[_Standards/WikiData/WD~client_state,1151405|WD~client_state,1151405]]'
 different_from:
-- '[[_Standards/WikiData/WD~Halth,2324272]]'
-- '[[_Standards/WikiData/WD~state,7275]]'
+- '[[_Standards/WikiData/WD~Halth,2324272|WD~Halth,2324272]]'
+- '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~people,2472587]]'
-- '[[_Standards/WikiData/WD~state,7275]]'
+- '[[_Standards/WikiData/WD~people,2472587|WD~people,2472587]]'
+- '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~state_in_international_law,3591847]]'
-- '[[_Standards/WikiData/WD~independent_country,6726158]]'
+- '[[_Standards/WikiData/WD~state_in_international_law,3591847|WD~state_in_international_law,3591847]]'
+- '[[_Standards/WikiData/WD~independent_country,6726158|WD~independent_country,6726158]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~country,6256]]'
-- '[[_Standards/WikiData/WD~state,7275]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
 named_after:
-- '[[_Standards/WikiData/WD~state,7275]]'
-- '[[_Standards/WikiData/WD~sovereignty,42008]]'
-has_list: '[[_Standards/WikiData/WD~list_of_sovereign_states,11750]]'
+- '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
+- '[[_Standards/WikiData/WD~sovereignty,42008|WD~sovereignty,42008]]'
+has_list: '[[_Standards/WikiData/WD~list_of_sovereign_states,11750|WD~list_of_sovereign_states,11750]]'
 Wikidata_property: country
 model_item:
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
 Dewey_Decimal_Classification: 322
 EntitySchema_for_this_class: E32
 Commons_category: Sovereign states

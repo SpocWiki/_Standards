@@ -48,7 +48,7 @@ dv_has_:
 # [[Oculus_VR]]  
 
 #has_/time_/started :: 2012-06 
-#is_/part_of ::[[../Meta_Platforms]]] 
+#is_/part_of ::[[../Meta_Platforms|Meta_Platforms]]] 
 
 ## #has_/text_of_/abstract 
 
@@ -75,7 +75,7 @@ dv_has_:
 
 Oculus Rift was founded as a [[Kickstarter]] Initiative and bought 2 years later for 2.3 mio 
 
-Coincidentally,[[../id_Software/Carmack,John_D]]] of [id Software](https://en.wikipedia.org/wiki/Id_Software "Id Software") had been doing his research on HMDs 
+Coincidentally,[[../id_Software/Carmack,John_D|Carmack,John_D]]] of [id Software](https://en.wikipedia.org/wiki/Id_Software "Id Software") had been doing his research on HMDs 
 and happened upon Palmer's developments. 
 After sampling an early unit, Carmack favored Luckey's prototype, 
 and just before the 2012 [Electronic Entertainment Expo](https://en.wikipedia.org/wiki/Electronic_Entertainment_Expo "Electronic Entertainment Expo") (E3), 

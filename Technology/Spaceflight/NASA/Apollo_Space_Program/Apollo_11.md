@@ -43,42 +43,42 @@ aliases:
 - 아폴로 11호
 has_id_wikidata: Q43653
 crew_member:
-- '[[_Standards/WikiData/WD~Michael_Collins,104859]]'
-- '[[_Standards/WikiData/WD~Neil_Armstrong,1615]]'
-- '[[_Standards/WikiData/WD~Buzz_Aldrin,2252]]'
+- '[[_Standards/WikiData/WD~Michael_Collins,104859|WD~Michael_Collins,104859]]'
+- '[[_Standards/WikiData/WD~Neil_Armstrong,1615|WD~Neil_Armstrong,1615]]'
+- '[[_Standards/WikiData/WD~Buzz_Aldrin,2252|WD~Buzz_Aldrin,2252]]'
 backup_or_reserve_team_or_crew:
-- '[[_Standards/WikiData/WD~Jim_Lovell,111240]]'
-- '[[_Standards/WikiData/WD~Fred_Haise,318965]]'
-- '[[_Standards/WikiData/WD~Bill_Anders,19242]]'
+- '[[_Standards/WikiData/WD~Jim_Lovell,111240|WD~Jim_Lovell,111240]]'
+- '[[_Standards/WikiData/WD~Fred_Haise,318965|WD~Fred_Haise,318965]]'
+- '[[_Standards/WikiData/WD~Bill_Anders,19242|WD~Bill_Anders,19242]]'
 significant_event:
-- '[[_Standards/WikiData/WD~extra_vehicular_activity,182020]]'
-- '[[_Standards/WikiData/WD~Moon_landing,495307]]'
-- '[[_Standards/WikiData/WD~docking_and_berthing_of_spacecraft,557450]]'
-- '[[_Standards/WikiData/WD~rocket_launch,797476]]'
-- '[[_Standards/WikiData/WD~splashdown,1642255]]'
-- '[[_Standards/WikiData/WD~orbital_activity,65945161]]'
-followed_by: '[[_Standards/WikiData/WD~Apollo_12,188433]]'
-follows: '[[_Standards/WikiData/WD~Apollo_10,191746]]'
-type_of_orbit: '[[_Standards/WikiData/WD~lunar_orbit,210448]]'
+- '[[_Standards/WikiData/WD~extra_vehicular_activity,182020|WD~extra_vehicular_activity,182020]]'
+- '[[_Standards/WikiData/WD~Moon_landing,495307|WD~Moon_landing,495307]]'
+- '[[_Standards/WikiData/WD~docking_and_berthing_of_spacecraft,557450|WD~docking_and_berthing_of_spacecraft,557450]]'
+- '[[_Standards/WikiData/WD~rocket_launch,797476|WD~rocket_launch,797476]]'
+- '[[_Standards/WikiData/WD~splashdown,1642255|WD~splashdown,1642255]]'
+- '[[_Standards/WikiData/WD~orbital_activity,65945161|WD~orbital_activity,65945161]]'
+followed_by: '[[_Standards/WikiData/WD~Apollo_12,188433|WD~Apollo_12,188433]]'
+follows: '[[_Standards/WikiData/WD~Apollo_10,191746|WD~Apollo_10,191746]]'
+type_of_orbit: '[[_Standards/WikiData/WD~lunar_orbit,210448|WD~lunar_orbit,210448]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Moon_landing,495307]]'
-- '[[_Standards/WikiData/WD~human_spaceflight,752783]]'
-- '[[_Standards/WikiData/WD~artificial_satellite,26540]]'
-recovered_by: '[[_Standards/WikiData/WD~USS_Hornet,1141355]]'
-different_from: '[[_Standards/WikiData/WD~Apollo_11_Cave,14755864]]'
-start_point: '[[_Standards/WikiData/WD~Kennedy_Space_Center_Launch_Complex_39A,24256513]]'
+- '[[_Standards/WikiData/WD~Moon_landing,495307|WD~Moon_landing,495307]]'
+- '[[_Standards/WikiData/WD~human_spaceflight,752783|WD~human_spaceflight,752783]]'
+- '[[_Standards/WikiData/WD~artificial_satellite,26540|WD~artificial_satellite,26540]]'
+recovered_by: '[[_Standards/WikiData/WD~USS_Hornet,1141355|WD~USS_Hornet,1141355]]'
+different_from: '[[_Standards/WikiData/WD~Apollo_11_Cave,14755864|WD~Apollo_11_Cave,14755864]]'
+start_point: '[[_Standards/WikiData/WD~Kennedy_Space_Center_Launch_Complex_39A,24256513|WD~Kennedy_Space_Center_Launch_Complex_39A,24256513]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Apollo%2011-article.ogg
 vessel:
-- '[[_Standards/WikiData/WD~Eagle,28101302]]'
-- '[[_Standards/WikiData/WD~Apollo_11_Command_and_Service_Module,28101301]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Star_Trek_Encyclopedia,63217791]]'
-operator: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-location_of_landing: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~Eagle,28101302|WD~Eagle,28101302]]'
+- '[[_Standards/WikiData/WD~Apollo_11_Command_and_Service_Module,28101301|WD~Apollo_11_Command_and_Service_Module,28101301]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Star_Trek_Encyclopedia,63217791|WD~The_Star_Trek_Encyclopedia,63217791]]'
+operator: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548|WD~National_Aeronautics_and_Space_Administration,23548]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+location_of_landing: '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
 orbital_period: 2
 orbits_completed: 30
 orbital_inclination: 1.25
-space_launch_vehicle: '[[_Standards/WikiData/WD~Saturn_V,54363]]'
+space_launch_vehicle: '[[_Standards/WikiData/WD~Saturn_V,54363|WD~Saturn_V,54363]]'
 periapsis: 100.9
 apoapsis: 122.4
 mass:

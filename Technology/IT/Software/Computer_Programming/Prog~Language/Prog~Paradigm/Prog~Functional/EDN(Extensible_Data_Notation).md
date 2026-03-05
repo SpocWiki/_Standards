@@ -1,7 +1,7 @@
 
 ## [[EDN(Extensible_Data_Notation)]]
 
-[EDN](https://en.wikipedia.org/wiki/Clojure#Extensible_Data_Notation) is a Data Format notable for its LISP-like [[Prefix-Notation]].
+[EDN](https://en.wikipedia.org/wiki/Clojure#Extensible_Data_Notation) is a Data Format notable for its LISP-like [[Prefix-Notation|Clojure]].
 
 **Extensible Data Notation**, or **edn** is a subset of the [[Prog~LISP/Prog~Clojure|Prog~Clojure]] language intended as a data transfer format, analog to [[../../../../../Knowledge/Languages/Data~Languages/Json-Format|Json-Format]] and [[../Prog~OO/OO-Lang/Prog~JS|Prog~JS]]. 
 It can be used to serialize and deserialize Clojure data structures, and Clojure itself uses a superset of edn to represent programs.
@@ -19,7 +19,7 @@ edn is used in a similar way to [JSON](https://en.wikipedia.org/wiki/JSON "JSON"
 - symbols: `'name` 
 - keywords: `:key` similar to symbols in Lisp 
 - nil: `nil` (a [null-like](https://en.wikipedia.org/wiki/Nullable_type "Nullable type") value)
-- inst: for Timestamps `#inst "2023-01-01T12:00:00Z"`, a primary Concept in [[Prog~LISP/Prog~Clojure]]. 
+- inst: for Timestamps `#inst "2023-01-01T12:00:00Z"`, a primary Concept in [[Prog~LISP/Prog~Clojure|Prog~Clojure]]. 
 
 ## Tag-Interpreters 
 In addition to those elements, it supports extensibility through the use of _tags_, which consist of the character `#` followed by a symbol. When encountering a tag, the reader passes the value of the next element to the corresponding handler, which returns a data value. 

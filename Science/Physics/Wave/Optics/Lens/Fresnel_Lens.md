@@ -48,12 +48,12 @@ aliases:
 - 菲涅耳透鏡
 - 프레넬 렌즈
 has_id_wikidata: Q14672
-named_after: '[[_Standards/WikiData/WD~Augustin_Jean_Fresnel,187241]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Augustin_Jean_Fresnel,187241]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-subclass_of: '[[_Standards/WikiData/WD~optic,19832917]]'
-has_list: '[[_Standards/WikiData/WD~list_of_Fresnel_lighthouse_lens_sizes,24631247]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116617671,116617671]]'
+named_after: '[[_Standards/WikiData/WD~Augustin_Jean_Fresnel,187241|WD~Augustin_Jean_Fresnel,187241]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Augustin_Jean_Fresnel,187241|WD~Augustin_Jean_Fresnel,187241]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~optic,19832917|WD~optic,19832917]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Fresnel_lighthouse_lens_sizes,24631247|WD~list_of_Fresnel_lighthouse_lens_sizes,24631247]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116617671,116617671|WD~Q116617671,116617671]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Fresnel-Linse%20R%C3%BCcklicht.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Fresnel%20lens%20loschen%20hg.jpg
@@ -132,7 +132,7 @@ dv_has_:
 > The simpler dioptric (purely refractive) form of the lens 
 > was first proposed by Georges-Louis Leclerc, Comte de Buffon, 
 > and independently reinvented by the French physicist Augustin-Jean Fresnel 
-> (1788–1827) for use in [[../../../../../Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse]]s. 
+> (1788–1827) for use in [[../../../../../Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse|Lighthouse]]s. 
 > 
 > The catadioptric (combining refraction and reflection) form of the lens, 
 > entirely invented by Fresnel, has outer prismatic elements 

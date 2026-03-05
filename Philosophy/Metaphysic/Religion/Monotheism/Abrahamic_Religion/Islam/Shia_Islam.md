@@ -119,26 +119,26 @@ aliases:
 - 시아파 이슬람교
 has_id_wikidata: Q9585
 has_part_s_:
-- '[[_Standards/WikiData/WD~Zaidism,144333]]'
-- "[[_Standards/WikiData/WD~Isma'ilism,230386]]"
-- '[[_Standards/WikiData/WD~Twelver_Shiism,269785]]'
-- '[[_Standards/WikiData/WD~Ghulat,2592417]]'
+- '[[_Standards/WikiData/WD~Zaidism,144333|WD~Zaidism,144333]]'
+- "[[_Standards/WikiData/WD~Isma'ilism,230386|WD~Isma'ilism,230386]]"
+- '[[_Standards/WikiData/WD~Twelver_Shiism,269785|WD~Twelver_Shiism,269785]]'
+- '[[_Standards/WikiData/WD~Ghulat,2592417|WD~Ghulat,2592417]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Shi'a_Islam,606114]]"
-instance_of: '[[_Standards/WikiData/WD~Islamic_denomination,1192063]]'
-part_of: '[[_Standards/WikiData/WD~Islam,432]]'
-subclass_of: '[[_Standards/WikiData/WD~Islam,432]]'
-significant_person: '[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619]]'
-named_after: '[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619]]'
-different_from: '[[_Standards/WikiData/WD~schism,41521]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Shi'a_Islam,606114|WD~history_of_Shi'a_Islam,606114]]"
+instance_of: '[[_Standards/WikiData/WD~Islamic_denomination,1192063|WD~Islamic_denomination,1192063]]'
+part_of: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+subclass_of: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+significant_person: '[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619|WD~Alī_ibn_Abī_Ṭālib,39619]]'
+named_after: '[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619|WD~Alī_ibn_Abī_Ṭālib,39619]]'
+different_from: '[[_Standards/WikiData/WD~schism,41521|WD~schism,41521]]'
 Colon_Classification: Q72
 Commons_category: Shiism
 pronunciation_audio:

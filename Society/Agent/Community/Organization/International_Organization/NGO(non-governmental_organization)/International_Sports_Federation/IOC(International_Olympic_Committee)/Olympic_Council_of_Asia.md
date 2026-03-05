@@ -54,12 +54,12 @@ aliases:
 - 아시아 올림픽 평의회
 has_id_wikidata: Q844293
 instance_of:
-- '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
-country: '[[_Standards/WikiData/WD~Kuwait,817]]'
-operating_area: '[[_Standards/WikiData/WD~Asia,48]]'
-headquarters_location: '[[_Standards/WikiData/WD~Kuwait_City,35178]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]'
+- '[[_Standards/WikiData/WD~international_sport_governing_body,11422536|WD~international_sport_governing_body,11422536]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+country: '[[_Standards/WikiData/WD~Kuwait,817|WD~Kuwait,817]]'
+operating_area: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+headquarters_location: '[[_Standards/WikiData/WD~Kuwait_City,35178|WD~Kuwait_City,35178]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~International_Olympic_Committee,40970|WD~International_Olympic_Committee,40970]]'
 social_media_followers: 43752
 inception: 1982-01-01T00:00:00Z
 official_website: https://ocasia.org/

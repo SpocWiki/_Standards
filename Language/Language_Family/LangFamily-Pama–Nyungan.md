@@ -44,10 +44,10 @@ aliases:
 - 帕马-尼永甘语系
 - 파마늉아어족
 has_id_wikidata: Q33942
-subclass_of: '[[_Standards/WikiData/WD~Australian_Aboriginal_languages,205143]]'
-opposite_of: '[[_Standards/WikiData/WD~Non_Pama_Nyungan,5972918]]'
-country: '[[_Standards/WikiData/WD~Australia,408]]'
-instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+subclass_of: '[[_Standards/WikiData/WD~Australian_Aboriginal_languages,205143|WD~Australian_Aboriginal_languages,205143]]'
+opposite_of: '[[_Standards/WikiData/WD~Non_Pama_Nyungan,5972918|WD~Non_Pama_Nyungan,5972918]]'
+country: '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
 number_of_speakers_writers_or_signers: 25000
 WALS_family_code: pamanyungan
 WALS_genus_code: pamanyungan

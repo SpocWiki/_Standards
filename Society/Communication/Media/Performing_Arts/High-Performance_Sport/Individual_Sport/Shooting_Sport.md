@@ -82,17 +82,17 @@ aliases:
 - 사격
 has_id_wikidata: Q206989
 different_from:
-- '[[_Standards/WikiData/WD~archery,108429]]'
-- '[[_Standards/WikiData/WD~shooting,2252077]]'
-- '[[_Standards/WikiData/WD~sport_crossbow_shooting,4443729]]'
+- '[[_Standards/WikiData/WD~archery,108429|WD~archery,108429]]'
+- '[[_Standards/WikiData/WD~shooting,2252077|WD~shooting,2252077]]'
+- '[[_Standards/WikiData/WD~sport_crossbow_shooting,4443729|WD~sport_crossbow_shooting,4443729]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~shooting,2252077]]'
-- '[[_Standards/WikiData/WD~sport,349]]'
-authority: '[[_Standards/WikiData/WD~International_Shooting_Sport_Federation,708793]]'
-uses: '[[_Standards/WikiData/WD~sporting_weapon,9180320]]'
-practiced_by: '[[_Standards/WikiData/WD~sport_shooter,17486376]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~shooting,2252077|WD~shooting,2252077]]'
+- '[[_Standards/WikiData/WD~sport,349|WD~sport,349]]'
+authority: '[[_Standards/WikiData/WD~International_Shooting_Sport_Federation,708793|WD~International_Shooting_Sport_Federation,708793]]'
+uses: '[[_Standards/WikiData/WD~sporting_weapon,9180320|WD~sporting_weapon,9180320]]'
+practiced_by: '[[_Standards/WikiData/WD~sport_shooter,17486376|WD~sport_shooter,17486376]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 IAB_code: 514
 BHCL_UUID: f8268c3e-b6ff-4d8d-8e22-7bb77f1db61b
 official_website: https://www.issf-sports.org/

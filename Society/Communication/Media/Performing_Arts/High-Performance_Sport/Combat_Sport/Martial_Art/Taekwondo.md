@@ -47,24 +47,24 @@ aliases:
 - 태권도
 has_id_wikidata: Q36389
 different_from:
-- '[[_Standards/WikiData/WD~Muay_Thai,120931]]'
-- '[[_Standards/WikiData/WD~kickboxing,178678]]'
-- '[[_Standards/WikiData/WD~kung_fu,208607]]'
-- '[[_Standards/WikiData/WD~Shorinji_Kempo,933634]]'
-- '[[_Standards/WikiData/WD~full_contact_karate,3754231]]'
-- '[[_Standards/WikiData/WD~Taekwondo,9355136]]'
-- '[[_Standards/WikiData/WD~karate,11419]]'
+- '[[_Standards/WikiData/WD~Muay_Thai,120931|WD~Muay_Thai,120931]]'
+- '[[_Standards/WikiData/WD~kickboxing,178678|WD~kickboxing,178678]]'
+- '[[_Standards/WikiData/WD~kung_fu,208607|WD~kung_fu,208607]]'
+- '[[_Standards/WikiData/WD~Shorinji_Kempo,933634|WD~Shorinji_Kempo,933634]]'
+- '[[_Standards/WikiData/WD~full_contact_karate,3754231|WD~full_contact_karate,3754231]]'
+- '[[_Standards/WikiData/WD~Taekwondo,9355136|WD~Taekwondo,9355136]]'
+- '[[_Standards/WikiData/WD~karate,11419|WD~karate,11419]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~martial_art,11417]]'
-authority: '[[_Standards/WikiData/WD~World_Taekwondo,696406]]'
-practiced_by: '[[_Standards/WikiData/WD~taekwondo_athlete,13382533]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Taekwondo,18929289]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~martial_art,11417|WD~martial_art,11417]]'
+authority: '[[_Standards/WikiData/WD~World_Taekwondo,696406|WD~World_Taekwondo,696406]]'
+practiced_by: '[[_Standards/WikiData/WD~taekwondo_athlete,13382533|WD~taekwondo_athlete,13382533]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Taekwondo,18929289|WD~Portal_Taekwondo,18929289]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~South_Korea,884]]'
-- '[[_Standards/WikiData/WD~Korean_Empire,28233]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Korean_Empire,28233|WD~Korean_Empire,28233]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 OmegaWiki_Defined_Meaning: 1018936
 Commons_gallery: Taekwondo
 Commons_category: Taekwondo

@@ -26,7 +26,7 @@ tags:
 title: is_a_health_insurance_plan Class
 type: Type
 dv_is_:
-  parent_class: "[[../Intangible]]"
+  parent_class: "[[../Intangible|Intangible]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan|Health_Insurance_Plan]]"
@@ -62,7 +62,7 @@ dv_has_:
     - "[[uses_health_plan_id_standard|uses_health_plan_id_standard]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../Intangible]]"
+  - "[[../Intangible|Intangible]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"

@@ -132,23 +132,23 @@ male_form_of_label:
 - ekonomikistulo
 - ekonomistas
 - економиста
-has_list: '[[_Standards/WikiData/WD~list_of_economists,857180]]'
+has_list: '[[_Standards/WikiData/WD~list_of_economists,857180|WD~list_of_economists,857180]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Master_of_Economics,6785179]]'
-- '[[_Standards/WikiData/WD~Master_of_Financial_Economics,6785187]]'
-- '[[_Standards/WikiData/WD~Bachelor_of_Economics,10752757]]'
-- '[[_Standards/WikiData/WD~Doctor_of_Economics,17281072]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_economist,8839924]]'
-different_from: '[[_Standards/WikiData/WD~Ekonomista,9251904]]'
+- '[[_Standards/WikiData/WD~Master_of_Economics,6785179|WD~Master_of_Economics,6785179]]'
+- '[[_Standards/WikiData/WD~Master_of_Financial_Economics,6785187|WD~Master_of_Financial_Economics,6785187]]'
+- '[[_Standards/WikiData/WD~Bachelor_of_Economics,10752757|WD~Bachelor_of_Economics,10752757]]'
+- '[[_Standards/WikiData/WD~Doctor_of_Economics,17281072|WD~Doctor_of_Economics,17281072]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_economist,8839924|WD~Template_Infobox_economist,8839924]]'
+different_from: '[[_Standards/WikiData/WD~Ekonomista,9251904|WD~Ekonomista,9251904]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_scientist,15319501]]'
-- '[[_Standards/WikiData/WD~social_and_religious_professionals,108289406]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-uses: '[[_Standards/WikiData/WD~economics_terminology,64513545]]'
+- '[[_Standards/WikiData/WD~social_scientist,15319501|WD~social_scientist,15319501]]'
+- '[[_Standards/WikiData/WD~social_and_religious_professionals,108289406|WD~social_and_religious_professionals,108289406]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+uses: '[[_Standards/WikiData/WD~economics_terminology,64513545|WD~economics_terminology,64513545]]'
 instance_of:
-- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~economics,8134]]'
+- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140|WD~occupation_group_according_to_ISCO_08,108300140]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~economics,8134|WD~economics,8134]]'
 ISCO_08_occupation_class: 2631
 ISCO_88_occupation_class: 2441
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20Dowd.jpg
@@ -307,7 +307,7 @@ dv_has_:
 
 # [[Economist]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~economist,188094]] 
+#is_/same_as :: [[_Standards/WikiData/WD~economist,188094|WD~economist,188094]] 
 
 ## #has_/text_of_/abstract 
 

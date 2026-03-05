@@ -102,11 +102,11 @@ aliases:
 ## #has_/text_of_/abstract 
 
 > **Thelma & Louise** is a 1991 American crime drama film directed by Ridley Scott and written by Callie Khouri. 
-> The film stars [[../../Actor/US_Actor/Sarandon,Susan]] and [[../../Actor/US_Actor/Davis,Geena]] as Louise and Thelma, 
+> The film stars [[../../Actor/US_Actor/Sarandon,Susan|Sarandon,Susan]] and [[../../Actor/US_Actor/Davis,Geena|Davis,Geena]] as Louise and Thelma, 
 > two friends who embark on a road trip that ends up in unforeseen circumstances. 
 > 
-> The supporting cast includes [[../../Actor/US_Actor/Keitel,Harvey]], [[../../Actor/US_Actor/Madsen,Michael]], Christopher McDonald, 
-> and [[../../Actor/US_Actor/Pitt,Brad]] (in one of his first major roles). 
+> The supporting cast includes [[../../Actor/US_Actor/Keitel,Harvey|Keitel,Harvey]], [[../../Actor/US_Actor/Madsen,Michael|Madsen,Michael]], Christopher McDonald, 
+> and [[../../Actor/US_Actor/Pitt,Brad|Pitt,Brad]] (in one of his first major roles). 
 > Filming took place in California and Utah from June to August 1990.
 >
 > Following its premiere at the 44th Cannes Film Festival on May 20, 1991, 

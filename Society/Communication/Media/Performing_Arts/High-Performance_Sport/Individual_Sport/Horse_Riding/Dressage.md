@@ -41,16 +41,16 @@ aliases:
 - 馬場馬術
 - 마장마술
 has_id_wikidata: Q216033
-authority: '[[_Standards/WikiData/WD~International_Federation_for_Equestrian_Sports,477657]]'
-sport: '[[_Standards/WikiData/WD~equestrian_sport,902378]]'
-subclass_of: '[[_Standards/WikiData/WD~equestrian_sport,902378]]'
+authority: '[[_Standards/WikiData/WD~International_Federation_for_Equestrian_Sports,477657|WD~International_Federation_for_Equestrian_Sports,477657]]'
+sport: '[[_Standards/WikiData/WD~equestrian_sport,902378|WD~equestrian_sport,902378]]'
+subclass_of: '[[_Standards/WikiData/WD~equestrian_sport,902378|WD~equestrian_sport,902378]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
-- '[[_Standards/WikiData/WD~horse_riding_technique,26208318]]'
+- '[[_Standards/WikiData/WD~sports_discipline,2312410|WD~sports_discipline,2312410]]'
+- '[[_Standards/WikiData/WD~horse_riding_technique,26208318|WD~horse_riding_technique,26208318]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~dressage_rider,13381458]]'
-- '[[_Standards/WikiData/WD~dressage_trainer,121411224]]'
-uses: '[[_Standards/WikiData/WD~dressage_horse,60198807]]'
+- '[[_Standards/WikiData/WD~dressage_rider,13381458|WD~dressage_rider,13381458]]'
+- '[[_Standards/WikiData/WD~dressage_trainer,121411224|WD~dressage_trainer,121411224]]'
+uses: '[[_Standards/WikiData/WD~dressage_horse,60198807|WD~dressage_horse,60198807]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Equestrian%20Dressage%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WPT2013-CDI4-Dorselius%20Cecilia%20Andren-Lennox-3.JPG
 official_website: http://www.fei.org/fei/disc/dressage

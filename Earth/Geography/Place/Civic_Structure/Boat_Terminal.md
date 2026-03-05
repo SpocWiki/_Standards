@@ -26,7 +26,7 @@ tags:
 title: is_a_boat_terminal Class
 type: Type
 dv_has_:
-  parent_class: "[[../CivicStructure]]"
+  parent_class: "[[../CivicStructure|CivicStructure]]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
   part_of: https://pending.schema.org
@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/Earth/Geography/Place/Civic_Structure/Boat_Terminal.personal|Boat_Terminal.personal]]"
     - "[[/_secret/Earth/Geography/Place/Civic_Structure/Boat_Terminal.secret|Boat_Terminal.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../CivicStructure]]"
+dv_has_parent_class: "[[../CivicStructure|CivicStructure]]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
   - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Boat_Terminal|Boat_Terminal]]"

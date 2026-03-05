@@ -62,30 +62,30 @@ aliases:
 - 복혼
 has_id_wikidata: Q170585
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~polygynous_marriage,243688]]'
-- '[[_Standards/WikiData/WD~polyandry,2102979]]'
+- '[[_Standards/WikiData/WD~polygynous_marriage,243688|WD~polygynous_marriage,243688]]'
+- '[[_Standards/WikiData/WD~polyandry,2102979|WD~polyandry,2102979]]'
 different_from:
-- '[[_Standards/WikiData/WD~polyamory,272026]]'
-- '[[_Standards/WikiData/WD~Polygamia,10350931]]'
-- '[[_Standards/WikiData/WD~consensual_non_monogamy,110515686]]'
+- '[[_Standards/WikiData/WD~polyamory,272026|WD~polyamory,272026]]'
+- '[[_Standards/WikiData/WD~Polygamia,10350931|WD~Polygamia,10350931]]'
+- '[[_Standards/WikiData/WD~consensual_non_monogamy,110515686|WD~consensual_non_monogamy,110515686]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-has_part_s_: '[[_Standards/WikiData/WD~Polygamy_in_Islam,3300314]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+has_part_s_: '[[_Standards/WikiData/WD~Polygamy_in_Islam,3300314|WD~Polygamy_in_Islam,3300314]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~polygamy_in_animals,3395570]]'
-- '[[_Standards/WikiData/WD~non_monogamy,3436958]]'
-- '[[_Standards/WikiData/WD~marriage,8445]]'
+- '[[_Standards/WikiData/WD~polygamy_in_animals,3395570|WD~polygamy_in_animals,3395570]]'
+- '[[_Standards/WikiData/WD~non_monogamy,3436958|WD~non_monogamy,3436958]]'
+- '[[_Standards/WikiData/WD~marriage,8445|WD~marriage,8445]]'
 instance_of:
-- '[[_Standards/WikiData/WD~mating_system,4584563]]'
-- '[[_Standards/WikiData/WD~type_of_marriage,7860953]]'
+- '[[_Standards/WikiData/WD~mating_system,4584563|WD~mating_system,4584563]]'
+- '[[_Standards/WikiData/WD~type_of_marriage,7860953|WD~type_of_marriage,7860953]]'
 OmegaWiki_Defined_Meaning: 1267421
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chef%20de%20village%20et%20ses%20femmes%20%28Guin%C3%A9e%29.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Polygyny%20%28bold%2C%20color%29.svg

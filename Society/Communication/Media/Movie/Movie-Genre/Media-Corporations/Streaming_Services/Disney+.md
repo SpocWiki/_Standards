@@ -112,7 +112,7 @@ aliases:
 > 
 > The service primarily distributes films and television shows produced by Walt Disney Studios 
 > and Disney Television Studios, with dedicated content hubs for Disney's flagship brands; 
-> Disney, [[Disney+/Pixar]], [[Disney+/Marvel_Entertainment]], [[Star Wars]], [[National Geographic]], [[Hulu]] (U.S. only), and Star (outside U.S.) 
+> Disney, [[Disney+/Pixar|Pixar]], [[Disney+/Marvel_Entertainment|Marvel_Entertainment]], [[Star Wars]], [[National Geographic]], [[Hulu]] (U.S. only), and Star (outside U.S.) 
 > as well as showcasing original and exclusive films and television shows.
 >
 > Disney+ relies on technology developed by Disney Streaming, 

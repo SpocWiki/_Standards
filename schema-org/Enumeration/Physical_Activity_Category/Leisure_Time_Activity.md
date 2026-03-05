@@ -27,9 +27,9 @@ tags:
 title: is_a_leisure_time_activity Class
 type: Type
 dv_has_:
-  parent_class: "[[../PhysicalActivityCategory]]"
+  parent_class: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
 dv_is_:
-  enum_of: "[[../PhysicalActivityCategory]]"
+  enum_of: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity|Leisure_Time_Activity]]"
     - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.public|Leisure_Time_Activity.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.personal|Leisure_Time_Activity.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.secret|Leisure_Time_Activity.secret]]"
     - "[[Leisure_Time_Activity]]"
-dv_has_parent_class: "[[../PhysicalActivityCategory]]"
-dv_is_enum_of: "[[../PhysicalActivityCategory]]"
+dv_has_parent_class: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
+dv_is_enum_of: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
 dv_is_same_as:
   - "[[Leisure_Time_Activity]]"
   - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.public|Leisure_Time_Activity.public]]"

@@ -83,23 +83,23 @@ aliases:
 - 摩擦力
 - 마찰력
 has_id_wikidata: Q82580
-studied_by: '[[_Standards/WikiData/WD~tribology,193870]]'
+studied_by: '[[_Standards/WikiData/WD~tribology,193870|WD~tribology,193870]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_effect:
-- '[[_Standards/WikiData/WD~dissipation,898440]]'
-- '[[../../../WikiData/WD~heating,4311765]]'
-has_characteristic: '[[_Standards/WikiData/WD~coefficient_of_friction,1932524]]'
+- '[[_Standards/WikiData/WD~dissipation,898440|WD~dissipation,898440]]'
+- '[[../../../WikiData/WD~heating,4311765|WD~heating,4311765]]'
+has_characteristic: '[[_Standards/WikiData/WD~coefficient_of_friction,1932524|WD~coefficient_of_friction,1932524]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~surface_force,2009590]]'
-- '[[_Standards/WikiData/WD~contact_force,2916417]]'
-- '[[_Standards/WikiData/WD~nonconservative_force,3538122]]'
-- '[[_Standards/WikiData/WD~resistance_force,110558361]]'
-has_cause: '[[_Standards/WikiData/WD~strain_rate_tensor,7621125]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-different_from: '[[_Standards/WikiData/WD~Tarcie,9355608]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~surface_force,2009590|WD~surface_force,2009590]]'
+- '[[_Standards/WikiData/WD~contact_force,2916417|WD~contact_force,2916417]]'
+- '[[_Standards/WikiData/WD~nonconservative_force,3538122|WD~nonconservative_force,3538122]]'
+- '[[_Standards/WikiData/WD~resistance_force,110558361|WD~resistance_force,110558361]]'
+has_cause: '[[_Standards/WikiData/WD~strain_rate_tensor,7621125|WD~strain_rate_tensor,7621125]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~Tarcie,9355608|WD~Tarcie,9355608]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 OmegaWiki_Defined_Meaning: 1117266
 Dewey_Decimal_Classification:
 - 621.89

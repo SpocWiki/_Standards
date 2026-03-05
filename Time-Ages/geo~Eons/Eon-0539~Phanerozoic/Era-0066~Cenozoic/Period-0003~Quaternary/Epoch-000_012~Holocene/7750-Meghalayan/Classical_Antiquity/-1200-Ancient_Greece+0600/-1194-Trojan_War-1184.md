@@ -93,22 +93,22 @@ aliases:
 - 트로이아 전쟁
 has_id_wikidata: Q42937
 participant:
-- '[[_Standards/WikiData/WD~Achaeans,191962]]'
-- '[[_Standards/WikiData/WD~Troy,22647]]'
+- '[[_Standards/WikiData/WD~Achaeans,191962|WD~Achaeans,191962]]'
+- '[[_Standards/WikiData/WD~Troy,22647|WD~Troy,22647]]'
 described_by_source:
-- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240|WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 instance_of:
-- '[[_Standards/WikiData/WD~military_operation,645883]]'
-- '[[_Standards/WikiData/WD~mythical_war,24336068]]'
-has_immediate_cause: '[[_Standards/WikiData/WD~seduction_of_Helen,6100423]]'
+- '[[_Standards/WikiData/WD~military_operation,645883|WD~military_operation,645883]]'
+- '[[_Standards/WikiData/WD~mythical_war,24336068|WD~mythical_war,24336068]]'
+has_immediate_cause: '[[_Standards/WikiData/WD~seduction_of_Helen,6100423|WD~seduction_of_Helen,6100423]]'
 start_time: -1257-01-01T00:00:00Z
-location: '[[_Standards/WikiData/WD~Troy,22647]]'
-named_after: '[[_Standards/WikiData/WD~Troy,22647]]'
-part_of: '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
+location: '[[_Standards/WikiData/WD~Troy,22647|WD~Troy,22647]]'
+named_after: '[[_Standards/WikiData/WD~Troy,22647|WD~Troy,22647]]'
+part_of: '[[_Standards/WikiData/WD~Greek_mythology,34726|WD~Greek_mythology,34726]]'
 Commons_category: Trojan War
 Iconclass_notation: 94C
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Domenico%20Tiepolo%20-%20The%20Procession%20of%20the%20Trojan%20Horse%20in%20Troy%20-%20WGA22382.jpg

@@ -38,7 +38,7 @@ aliases:
 
 #has_/creator :: [[Backus~John_W]] 
 #has_/time_/started :: 1953-07-01 
-#has_/parent :: [[../../Prog~Imperative/Prog~Assembler]] 
+#has_/parent :: [[../../Prog~Imperative/Prog~Assembler|Prog~Assembler]] 
 
 > **Speedcoding**, Speedcode or SpeedCo was the first high-level programming language created for an IBM computer. 
 > The language was developed by John W. Backus in 1953 for the IBM 701 to support computation with  floating point numbers.

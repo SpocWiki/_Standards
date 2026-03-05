@@ -6,7 +6,7 @@
 
 > 300 is a 2006 American epic historical action film directed by Zack Snyder, 
 > who co-wrote the screenplay with Kurt Johnstad and Michael B. Gordon, 
-> based on the 1998 comic book limited series of the same name by [[../Movie-Directors/Miller,Frank]] and Lynn Varley. 
+> based on the 1998 comic book limited series of the same name by [[../Movie-Directors/Miller,Frank|Miller,Frank]] and Lynn Varley. 
 > 
 > The film, like its source material, is a fictionalized retelling of the Battle of Thermopylae 
 > in the Greco-Persian Wars. The plot revolves around King Leonidas (Gerard Butler), 

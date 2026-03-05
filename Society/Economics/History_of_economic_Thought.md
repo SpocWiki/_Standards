@@ -55,10 +55,10 @@ aliases:
 - 경제사상사
 has_id_wikidata: Q268194
 subclass_of:
-- '[[_Standards/WikiData/WD~intellectual_history,1195695]]'
-- '[[_Standards/WikiData/WD~economic_history,47398]]'
-facet_of: '[[_Standards/WikiData/WD~school_of_economic_thought,3048444]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+- '[[_Standards/WikiData/WD~intellectual_history,1195695|WD~intellectual_history,1195695]]'
+- '[[_Standards/WikiData/WD~economic_history,47398|WD~economic_history,47398]]'
+facet_of: '[[_Standards/WikiData/WD~school_of_economic_thought,3048444|WD~school_of_economic_thought,3048444]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8798%20%28ukr%29-Fanat22012-%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F%20%D0%B5%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%87%D0%BD%D0%BE%D1%97%20%D0%B4%D1%83%D0%BC%D0%BA%D0%B8.wav
 Commons_category: History of economic thought
 PhilPapers_topic: history-of-economics

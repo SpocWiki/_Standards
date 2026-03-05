@@ -27,8 +27,8 @@ title: is_a_msrp Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../PriceTypeEnumeration]]"
-  enum_of: "[[../PriceTypeEnumeration]]"
+  parent_class: "[[../PriceTypeEnumeration|PriceTypeEnumeration]]"
+  enum_of: "[[../PriceTypeEnumeration|PriceTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Msrp|Msrp]]"
     - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Msrp.public|Msrp.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Msrp.secret|Msrp.secret]]"
     - "[[Msrp]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../PriceTypeEnumeration]]"
-dv_is_enum_of: "[[../PriceTypeEnumeration]]"
+dv_has_parent_class: "[[../PriceTypeEnumeration|PriceTypeEnumeration]]"
+dv_is_enum_of: "[[../PriceTypeEnumeration|PriceTypeEnumeration]]"
 dv_is_same_as:
   - "[[Msrp]]"
   - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Msrp.public|Msrp.public]]"

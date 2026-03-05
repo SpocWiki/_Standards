@@ -22,46 +22,46 @@ aliases:
 - 롤링 스톤
 has_id_wikidata: Q33511
 main_subject:
-- '[[_Standards/WikiData/WD~popular_culture,131265]]'
-- '[[_Standards/WikiData/WD~popular_music,373342]]'
-named_after: '[[_Standards/WikiData/WD~Like_a_Rolling_Stone,214430]]'
+- '[[_Standards/WikiData/WD~popular_culture,131265|WD~popular_culture,131265]]'
+- '[[_Standards/WikiData/WD~popular_music,373342|WD~popular_music,373342]]'
+named_after: '[[_Standards/WikiData/WD~Like_a_Rolling_Stone,214430|WD~Like_a_Rolling_Stone,214430]]'
 has_list:
-- "[[_Standards/WikiData/WD~Rolling_Stone's_500_Greatest_Albums_of_All_Time,240550]]"
-- "[[_Standards/WikiData/WD~Rolling_Stone's_500_Greatest_Songs_of_All_Time,286102]]"
-- "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Singers_of_All_Time,3833780]]"
-- "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Artists_of_All_Time,3833781]]"
-- "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Guitar_Songs_of_All_Time,21890418]]"
-- "[[_Standards/WikiData/WD~Rolling_Stone's_500_Greatest_Songs_of_All_Time_2004,23704224]]"
-- "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Songwriters_of_All_Time,34704955]]"
-- "[[_Standards/WikiData/WD~Rolling_Stone's_50_Rock_Albums_Every_Country_Fan_Should_Own,106727799]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_500_Greatest_Albums_of_All_Time,240550|WD~Rolling_Stone's_500_Greatest_Albums_of_All_Time,240550]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_500_Greatest_Songs_of_All_Time,286102|WD~Rolling_Stone's_500_Greatest_Songs_of_All_Time,286102]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Singers_of_All_Time,3833780|WD~Rolling_Stone's_100_Greatest_Singers_of_All_Time,3833780]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Artists_of_All_Time,3833781|WD~Rolling_Stone's_100_Greatest_Artists_of_All_Time,3833781]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Guitar_Songs_of_All_Time,21890418|WD~Rolling_Stone's_100_Greatest_Guitar_Songs_of_All_Time,21890418]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_500_Greatest_Songs_of_All_Time_2004,23704224|WD~Rolling_Stone's_500_Greatest_Songs_of_All_Time_2004,23704224]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Songwriters_of_All_Time,34704955|WD~Rolling_Stone's_100_Greatest_Songwriters_of_All_Time,34704955]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_50_Rock_Albums_Every_Country_Fan_Should_Own,106727799|WD~Rolling_Stone's_50_Rock_Albums_Every_Country_Fan_Should_Own,106727799]]"
 different_from:
-- '[[_Standards/WikiData/WD~Rolling_Stone,346519]]'
-- '[[_Standards/WikiData/WD~The_Rolling_Stones,11036]]'
+- '[[_Standards/WikiData/WD~Rolling_Stone,346519|WD~Rolling_Stone,346519]]'
+- '[[_Standards/WikiData/WD~The_Rolling_Stones,11036|WD~The_Rolling_Stones,11036]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~popular_music,373342]]'
-- '[[_Standards/WikiData/WD~interview,4202018]]'
-founded_by: '[[_Standards/WikiData/WD~Jann_Wenner,519143]]'
-editor: '[[_Standards/WikiData/WD~Jann_Wenner,519143]]'
-newspaper_format: '[[_Standards/WikiData/WD~tabloid,1449648]]'
+- '[[_Standards/WikiData/WD~popular_music,373342|WD~popular_music,373342]]'
+- '[[_Standards/WikiData/WD~interview,4202018|WD~interview,4202018]]'
+founded_by: '[[_Standards/WikiData/WD~Jann_Wenner,519143|WD~Jann_Wenner,519143]]'
+editor: '[[_Standards/WikiData/WD~Jann_Wenner,519143|WD~Jann_Wenner,519143]]'
+newspaper_format: '[[_Standards/WikiData/WD~tabloid,1449648|WD~tabloid,1449648]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~Rolling_Stone,4048407]]'
-- '[[_Standards/WikiData/WD~Rolling_Stone,6111311]]'
-- '[[_Standards/WikiData/WD~Rolling_Stone,6111309]]'
-- '[[_Standards/WikiData/WD~Rolling_Stone,6111313]]'
-- '[[_Standards/WikiData/WD~Rolling_Stone,6111318]]'
-- '[[_Standards/WikiData/WD~Rolling_Stone,39081978]]'
-publisher: '[[_Standards/WikiData/WD~Penske_Media_Corporation,7119727]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60]]'
-headquarters_location: '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~Rolling_Stone,4048407|WD~Rolling_Stone,4048407]]'
+- '[[_Standards/WikiData/WD~Rolling_Stone,6111311|WD~Rolling_Stone,6111311]]'
+- '[[_Standards/WikiData/WD~Rolling_Stone,6111309|WD~Rolling_Stone,6111309]]'
+- '[[_Standards/WikiData/WD~Rolling_Stone,6111313|WD~Rolling_Stone,6111313]]'
+- '[[_Standards/WikiData/WD~Rolling_Stone,6111318|WD~Rolling_Stone,6111318]]'
+- '[[_Standards/WikiData/WD~Rolling_Stone,39081978|WD~Rolling_Stone,39081978]]'
+publisher: '[[_Standards/WikiData/WD~Penske_Media_Corporation,7119727|WD~Penske_Media_Corporation,7119727]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
+headquarters_location: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
 social_media_followers:
 - 1000000
 - 6380687
 instance_of:
-- '[[_Standards/WikiData/WD~website,35127]]'
-- '[[_Standards/WikiData/WD~magazine,41298]]'
+- '[[_Standards/WikiData/WD~website,35127|WD~website,35127]]'
+- '[[_Standards/WikiData/WD~magazine,41298|WD~magazine,41298]]'
 number_of_parts_of_this_work: 1326
 official_website: https://www.rollingstone.com/
 title: Rolling Stone

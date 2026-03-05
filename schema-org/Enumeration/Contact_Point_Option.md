@@ -26,7 +26,7 @@ tags:
 title: is_a_contact_point_option Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Contact_Point_Option|Contact_Point_Option]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Contact_Point_Option.personal|Contact_Point_Option.personal]]"
     - "[[/_secret/schema-org/Enumeration/Contact_Point_Option.secret|Contact_Point_Option.secret]]"
     - "[[Contact_Point_Option]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Contact_Point_Option]]"
   - "[[/_public/schema-org/Enumeration/Contact_Point_Option.public|Contact_Point_Option.public]]"

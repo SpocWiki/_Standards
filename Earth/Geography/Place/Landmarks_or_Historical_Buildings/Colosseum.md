@@ -110,57 +110,57 @@ aliases:
 - 콜로세움
 has_id_wikidata: Q10285
 has_use:
-- '[[_Standards/WikiData/WD~quarry,188040]]'
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~ludi,1216498]]'
+- '[[_Standards/WikiData/WD~quarry,188040|WD~quarry,188040]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~ludi,1216498|WD~ludi,1216498]]'
 has_facility:
-- '[[_Standards/WikiData/WD~bookstore,200764]]'
-- '[[_Standards/WikiData/WD~archive_building,635719]]'
-- '[[_Standards/WikiData/WD~photo_archive,27032363]]'
-- '[[_Standards/WikiData/WD~library,7075]]'
-uses: '[[_Standards/WikiData/WD~digital_library,212805]]'
-architectural_style: '[[_Standards/WikiData/WD~ancient_Roman_architecture,223750]]'
+- '[[_Standards/WikiData/WD~bookstore,200764|WD~bookstore,200764]]'
+- '[[_Standards/WikiData/WD~archive_building,635719|WD~archive_building,635719]]'
+- '[[_Standards/WikiData/WD~photo_archive,27032363|WD~photo_archive,27032363]]'
+- '[[_Standards/WikiData/WD~library,7075|WD~library,7075]]'
+uses: '[[_Standards/WikiData/WD~digital_library,212805|WD~digital_library,212805]]'
+architectural_style: '[[_Standards/WikiData/WD~ancient_Roman_architecture,223750|WD~ancient_Roman_architecture,223750]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422|WD~Treccani's_Enciclopedia_on_line,65921422]]"
 instance_of:
-- '[[_Standards/WikiData/WD~stadium,483110]]'
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~archaeological_site,839954]]'
-- '[[_Standards/WikiData/WD~Italian_national_museum,3867560]]'
-- '[[_Standards/WikiData/WD~Roman_amphitheatre,7362268]]'
-- '[[_Standards/WikiData/WD~historical_civil_building_museum,112132522]]'
-- '[[_Standards/WikiData/WD~archaeological_artifact_museum,112132548]]'
-- '[[_Standards/WikiData/WD~Museum_of_the_Italian_Ministry_of_Culture,124830411]]'
-- '[[_Standards/WikiData/WD~roman_ruins,133444874]]'
+- '[[_Standards/WikiData/WD~stadium,483110|WD~stadium,483110]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]'
+- '[[_Standards/WikiData/WD~Italian_national_museum,3867560|WD~Italian_national_museum,3867560]]'
+- '[[_Standards/WikiData/WD~Roman_amphitheatre,7362268|WD~Roman_amphitheatre,7362268]]'
+- '[[_Standards/WikiData/WD~historical_civil_building_museum,112132522|WD~historical_civil_building_museum,112132522]]'
+- '[[_Standards/WikiData/WD~archaeological_artifact_museum,112132548|WD~archaeological_artifact_museum,112132548]]'
+- '[[_Standards/WikiData/WD~Museum_of_the_Italian_Ministry_of_Culture,124830411|WD~Museum_of_the_Italian_Ministry_of_Culture,124830411]]'
+- '[[_Standards/WikiData/WD~roman_ruins,133444874|WD~roman_ruins,133444874]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~tuff,484924]]'
-- '[[_Standards/WikiData/WD~Roman_travertine,1124525]]'
-- '[[_Standards/WikiData/WD~concrete,22657]]'
+- '[[_Standards/WikiData/WD~tuff,484924|WD~tuff,484924]]'
+- '[[_Standards/WikiData/WD~Roman_travertine,1124525|WD~Roman_travertine,1124525]]'
+- '[[_Standards/WikiData/WD~concrete,22657|WD~concrete,22657]]'
 different_from:
-- '[[_Standards/WikiData/WD~Colosseum,1111834]]'
-- '[[_Standards/WikiData/WD~Colosseo_district,112708581]]'
+- '[[_Standards/WikiData/WD~Colosseum,1111834|WD~Colosseum,1111834]]'
+- '[[_Standards/WikiData/WD~Colosseo_district,112708581|WD~Colosseo_district,112708581]]'
 Wi_Fi_access:
-- '[[_Standards/WikiData/WD~gratis,1543615]]'
-- '[[_Standards/WikiData/WD~no,1814990]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Roma_Capitale,3940419]]'
-disabled_accessibility: '[[_Standards/WikiData/WD~wheelchair_accessible,24192067]]'
-heritage_designation: '[[_Standards/WikiData/WD~Italian_national_heritage,26971668]]'
-activity_policy_in_this_place: '[[_Standards/WikiData/WD~no_selfie_sticks,53540617]]'
-part_of: '[[_Standards/WikiData/WD~archaeological_park_of_Colosseum,108436146]]'
+- '[[_Standards/WikiData/WD~gratis,1543615|WD~gratis,1543615]]'
+- '[[_Standards/WikiData/WD~no,1814990|WD~no,1814990]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Roma_Capitale,3940419|WD~Roma_Capitale,3940419]]'
+disabled_accessibility: '[[_Standards/WikiData/WD~wheelchair_accessible,24192067|WD~wheelchair_accessible,24192067]]'
+heritage_designation: '[[_Standards/WikiData/WD~Italian_national_heritage,26971668|WD~Italian_national_heritage,26971668]]'
+activity_policy_in_this_place: '[[_Standards/WikiData/WD~no_selfie_sticks,53540617|WD~no_selfie_sticks,53540617]]'
+part_of: '[[_Standards/WikiData/WD~archaeological_park_of_Colosseum,108436146|WD~archaeological_park_of_Colosseum,108436146]]'
 coordinate_location: Point(12.492222222 41.890277777)
 inception: 0082-01-01T00:00:00Z
 date_of_official_opening: 0081-01-01T00:00:00Z
-founded_by: '[[_Standards/WikiData/WD~Vespasian,1419]]'
-country: '[[_Standards/WikiData/WD~Italy,38]]'
+founded_by: '[[_Standards/WikiData/WD~Vespasian,1419|WD~Vespasian,1419]]'
+country: '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
 area:
 - 30000
 - 5000
@@ -362,7 +362,7 @@ dv_has_:
 
 # [[Colosseum]] 
 
-![[../../../../assets/Colosseum.png]] 
+![[../../../../assets/Colosseum.png|Colosseum.png]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Colosseum,10285|WD~Colosseum,10285]] 
 

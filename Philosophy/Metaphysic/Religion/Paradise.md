@@ -63,19 +63,19 @@ aliases:
 - 낙원
 - 락원
 has_id_wikidata: Q3363340
-different_from: '[[_Standards/WikiData/WD~Paradise,225035]]'
+different_from: '[[_Standards/WikiData/WD~Paradise,225035|WD~Paradise,225035]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mythical_location,3238337]]'
-- '[[_Standards/WikiData/WD~otherworld,13383731]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~heaven,4489450]]'
-opposite_of: '[[_Standards/WikiData/WD~hell,564]]'
-instance_of: '[[_Standards/WikiData/WD~Garden_of_Eden,19014]]'
+- '[[_Standards/WikiData/WD~mythical_location,3238337|WD~mythical_location,3238337]]'
+- '[[_Standards/WikiData/WD~otherworld,13383731|WD~otherworld,13383731]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~heaven,4489450|WD~heaven,4489450]]'
+opposite_of: '[[_Standards/WikiData/WD~hell,564|WD~hell,564]]'
+instance_of: '[[_Standards/WikiData/WD~Garden_of_Eden,19014|WD~Garden_of_Eden,19014]]'
 Commons_category: Paradise
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Brueghel%20de%20Oude%20en%20Peter%20Paul%20Rubens%20-%20Het%20aards%20paradijs%20met%20de%20zondeval%20van%20Adam%20en%20Eva.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Suzanne%20G.%20%28BiblioCanet66%29-paradis.wav

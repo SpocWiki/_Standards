@@ -42,20 +42,20 @@ aliases:
 - 海軍列兵 (俄羅斯)
 has_id_wikidata: Q707995
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~private,158668]]'
-- '[[_Standards/WikiData/WD~soldat,24261291]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~seamanship,351363]]'
+- '[[_Standards/WikiData/WD~private,158668|WD~private,158668]]'
+- '[[_Standards/WikiData/WD~soldat,24261291|WD~soldat,24261291]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~seamanship,351363|WD~seamanship,351363]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 part_of:
-- '[[_Standards/WikiData/WD~merchant_marine,865132]]'
-- '[[_Standards/WikiData/WD~navy,4508]]'
-different_from: '[[_Standards/WikiData/WD~seaman_recruit,16961535]]'
+- '[[_Standards/WikiData/WD~merchant_marine,865132|WD~merchant_marine,865132]]'
+- '[[_Standards/WikiData/WD~navy,4508|WD~navy,4508]]'
+different_from: '[[_Standards/WikiData/WD~seaman_recruit,16961535|WD~seaman_recruit,16961535]]'
 instance_of:
-- '[[_Standards/WikiData/WD~maritime_occupation,99547053]]'
-- '[[_Standards/WikiData/WD~military_rank,56019]]'
-subclass_of: '[[_Standards/WikiData/WD~sailor,45199]]'
+- '[[_Standards/WikiData/WD~maritime_occupation,99547053|WD~maritime_occupation,99547053]]'
+- '[[_Standards/WikiData/WD~military_rank,56019|WD~military_rank,56019]]'
+subclass_of: '[[_Standards/WikiData/WD~sailor,45199|WD~sailor,45199]]'
 Commons_category: Seamen
 female_form_of_label:
 - mariñeira

@@ -38,7 +38,7 @@ aliases:
 
 #has_/creator :: [[Hopper~Grace]], [[CODASYL]], [[ANSI]]
 #has_/time_/started :: 1955-07-01 
-#has_/parent :: [[../../Prog~Imperative/Prog~Assembler]] 
+#has_/parent :: [[../../Prog~Imperative/Prog~Assembler|Prog~Assembler]] 
 
 
 > **flow-matic**, originally known as B-0 (Business Language version 0), was the first English-like data processing language. It was developed for the UNIVAC I at Remington Rand under Grace Hopper from 1955 to 1959, and helped shape the development of COBOL.

@@ -67,17 +67,17 @@ aliases:
 - 삼중점
 has_id_wikidata: Q106410
 subclass_of:
-- '[[_Standards/WikiData/WD~state,3505845]]'
-- '[[_Standards/WikiData/WD~phase_boundary,7180938]]'
+- '[[_Standards/WikiData/WD~state,3505845|WD~state,3505845]]'
+- '[[_Standards/WikiData/WD~phase_boundary,7180938|WD~phase_boundary,7180938]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-has_characteristic: '[[_Standards/WikiData/WD~possibility,21170479]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862|WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+has_characteristic: '[[_Standards/WikiData/WD~possibility,21170479|WD~possibility,21170479]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~temperature,11466]]'
-- '[[_Standards/WikiData/WD~pressure,39552]]'
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~temperature,11466|WD~temperature,11466]]'
+- '[[_Standards/WikiData/WD~pressure,39552|WD~pressure,39552]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Water-triple-point-20210210.gif
 Commons_category: Triple point
 dv_has_:

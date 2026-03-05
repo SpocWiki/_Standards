@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~President_of_the_United_States,11696]]'
+  - '[[_Standards/WikiData/WD~President_of_the_United_States,11696|WD~President_of_the_United_States,11696]]'
   - '[[/_Standards/Earth/Continent/America~North/US~President|US~President]]'
   - '[[/_public/Earth/Continent/America~North/US~President.public|US~President.public]]'
   - '[[/_internal/Earth/Continent/America~North/US~President.internal|US~President.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/America~North/US~President.personal|US~President.personal]]'
   - '[[/_secret/Earth/Continent/America~North/US~President.secret|US~President.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~President_of_the_United_States,11696]]'
+- '[[_Standards/WikiData/WD~President_of_the_United_States,11696|WD~President_of_the_United_States,11696]]'
 - '[[/_Standards/Earth/Continent/America~North/US~President|US~President]]'
 - '[[/_public/Earth/Continent/America~North/US~President.public|US~President.public]]'
 - '[[/_internal/Earth/Continent/America~North/US~President.internal|US~President.internal]]'
@@ -192,50 +192,50 @@ Wikidata_usage_instructions: 'Subsequent non-contiguous terms do get numbered. S
 social_media_followers: 29421309
 inception: 1787-04-30T00:00:00Z
 vehicle_normally_used:
-- '[[_Standards/WikiData/WD~Air_Force_One,179969]]'
-- '[[_Standards/WikiData/WD~Marine_One,1125423]]'
-- '[[_Standards/WikiData/WD~Presidential_state_car,2745015]]'
-anthem: '[[_Standards/WikiData/WD~Hail_to_the_Chief,201333]]'
+- '[[_Standards/WikiData/WD~Air_Force_One,179969|WD~Air_Force_One,179969]]'
+- '[[_Standards/WikiData/WD~Marine_One,1125423|WD~Marine_One,1125423]]'
+- '[[_Standards/WikiData/WD~Presidential_state_car,2745015|WD~Presidential_state_car,2745015]]'
+anthem: '[[_Standards/WikiData/WD~Hail_to_the_Chief,201333|WD~Hail_to_the_Chief,201333]]'
 subject_has_role:
-- '[[_Standards/WikiData/WD~commander_in_chief,380782]]'
-- '[[_Standards/WikiData/WD~pardon,537151]]'
+- '[[_Standards/WikiData/WD~commander_in_chief,380782|WD~commander_in_chief,380782]]'
+- '[[_Standards/WikiData/WD~pardon,537151|WD~pardon,537151]]'
 instance_of:
-- '[[_Standards/WikiData/WD~commander_in_chief,380782]]'
-- '[[_Standards/WikiData/WD~head_of_government,2285706]]'
-- '[[_Standards/WikiData/WD~elective_office,17279032]]'
-- '[[_Standards/WikiData/WD~president,30461]]'
-- '[[_Standards/WikiData/WD~head_of_state,48352]]'
-has_seal_badge_or_sigil: '[[_Standards/WikiData/WD~seal_of_the_president_of_the_United_States,524901]]'
+- '[[_Standards/WikiData/WD~commander_in_chief,380782|WD~commander_in_chief,380782]]'
+- '[[_Standards/WikiData/WD~head_of_government,2285706|WD~head_of_government,2285706]]'
+- '[[_Standards/WikiData/WD~elective_office,17279032|WD~elective_office,17279032]]'
+- '[[_Standards/WikiData/WD~president,30461|WD~president,30461]]'
+- '[[_Standards/WikiData/WD~head_of_state,48352|WD~head_of_state,48352]]'
+has_seal_badge_or_sigil: '[[_Standards/WikiData/WD~seal_of_the_president_of_the_United_States,524901|WD~seal_of_the_president_of_the_United_States,524901]]'
 part_of:
-- '[[_Standards/WikiData/WD~first_family_of_the_United_States,862444]]'
-- '[[_Standards/WikiData/WD~executive_branch_of_the_U.S._government,104907540]]'
+- '[[_Standards/WikiData/WD~first_family_of_the_United_States,862444|WD~first_family_of_the_United_States,862444]]'
+- '[[_Standards/WikiData/WD~executive_branch_of_the_U.S._government,104907540|WD~executive_branch_of_the_U.S._government,104907540]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
 honorific_prefix:
-- '[[_Standards/WikiData/WD~Excellency,1067610]]'
-- '[[_Standards/WikiData/WD~The_Honourable,2746176]]'
-- '[[_Standards/WikiData/WD~Mr._President,5306663]]'
-flag: '[[_Standards/WikiData/WD~flag_of_the_president_of_the_United_States,2975851]]'
+- '[[_Standards/WikiData/WD~Excellency,1067610|WD~Excellency,1067610]]'
+- '[[_Standards/WikiData/WD~The_Honourable,2746176|WD~The_Honourable,2746176]]'
+- '[[_Standards/WikiData/WD~Mr._President,5306663|WD~Mr._President,5306663]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_president_of_the_United_States,2975851|WD~flag_of_the_president_of_the_United_States,2975851]]'
 organization_directed_by_the_office_or_position:
-- '[[_Standards/WikiData/WD~United_States_Armed_Forces,11211]]'
-- '[[_Standards/WikiData/WD~Federal_Government_of_the_United_States,48525]]'
-next_lower_rank: '[[_Standards/WikiData/WD~Vice_President_of_the_United_States,11699]]'
-substitute_deputy_replacement_of_office_officeholder: '[[_Standards/WikiData/WD~Vice_President_of_the_United_States,11699]]'
+- '[[_Standards/WikiData/WD~United_States_Armed_Forces,11211|WD~United_States_Armed_Forces,11211]]'
+- '[[_Standards/WikiData/WD~Federal_Government_of_the_United_States,48525|WD~Federal_Government_of_the_United_States,48525]]'
+next_lower_rank: '[[_Standards/WikiData/WD~Vice_President_of_the_United_States,11699|WD~Vice_President_of_the_United_States,11699]]'
+substitute_deputy_replacement_of_office_officeholder: '[[_Standards/WikiData/WD~Vice_President_of_the_United_States,11699|WD~Vice_President_of_the_United_States,11699]]'
 appointed_by:
-- '[[_Standards/WikiData/WD~United_States_House_of_Representatives,11701]]'
-- '[[_Standards/WikiData/WD~United_States_Electoral_College,47586]]'
-position_holder: '[[_Standards/WikiData/WD~Donald_Trump,22686]]'
-applies_to_jurisdiction: '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_States_House_of_Representatives,11701|WD~United_States_House_of_Representatives,11701]]'
+- '[[_Standards/WikiData/WD~United_States_Electoral_College,47586|WD~United_States_Electoral_College,47586]]'
+position_holder: '[[_Standards/WikiData/WD~Donald_Trump,22686|WD~Donald_Trump,22686]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 base_salary: 400000
 term_length_of_position: 4
 age_of_candidacy: 35
 minimum_age: 35
-has_list: '[[_Standards/WikiData/WD~list_of_presidents_of_the_United_States,35073]]'
-official_residence: '[[_Standards/WikiData/WD~White_House,35525]]'
-elected_in: '[[_Standards/WikiData/WD~United_States_presidential_election,47566]]'
+has_list: '[[_Standards/WikiData/WD~list_of_presidents_of_the_United_States,35073|WD~list_of_presidents_of_the_United_States,35073]]'
+official_residence: '[[_Standards/WikiData/WD~White_House,35525|WD~White_House,35525]]'
+elected_in: '[[_Standards/WikiData/WD~United_States_presidential_election,47566|WD~United_States_presidential_election,47566]]'
 Facebook_username: POTUS
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20President%20of%20the%20United%20States.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Official%20Presidential%20Portrait%20of%20President%20Donald%20J.%20Trump%20%282025%29.jpg
@@ -423,7 +423,7 @@ dv_has_:
 
 # [[US~President]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~President_of_the_United_States,11696]]
+#is_/same_as :: [[_Standards/WikiData/WD~President_of_the_United_States,11696|WD~President_of_the_United_States,11696]]
 
 ## #has_/text_of_/abstract 
 
@@ -479,7 +479,7 @@ dv_has_:
 > In addition, nine vice presidents have become president 
 > by virtue of a president's intra-term death or resignation. 
 > In all, 45 individuals have served 46 presidencies spanning 58 four-year terms. 
-> [[USA/US_President/Biden,Joe]] is the 46th and current president of the United States, 
+> [[USA/US_President/Biden,Joe|Biden,Joe]] is the 46th and current president of the United States, 
 > having assumed office on January 20, 2021.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/President%20of%20the%20United%20States) 

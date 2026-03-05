@@ -16,18 +16,18 @@ aliases:
 - رمزگشایی
 - فك التعمية
 has_id_wikidata: Q25560977
-opposite_of: '[[_Standards/WikiData/WD~encryption,141090]]'
+opposite_of: '[[_Standards/WikiData/WD~encryption,141090|WD~encryption,141090]]'
 uses:
-- '[[_Standards/WikiData/WD~key,471771]]'
-- '[[_Standards/WikiData/WD~ciphertext,1589480]]'
-- '[[_Standards/WikiData/WD~cipher,4681865]]'
-facet_of: '[[_Standards/WikiData/WD~information_access,593289]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~plaintext,1162538]]'
+- '[[_Standards/WikiData/WD~key,471771|WD~key,471771]]'
+- '[[_Standards/WikiData/WD~ciphertext,1589480|WD~ciphertext,1589480]]'
+- '[[_Standards/WikiData/WD~cipher,4681865|WD~cipher,4681865]]'
+facet_of: '[[_Standards/WikiData/WD~information_access,593289|WD~information_access,593289]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~plaintext,1162538|WD~plaintext,1162538]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~decoding,5249529]]'
-- '[[_Standards/WikiData/WD~cryptographic_data_processing,124726263]]'
-practiced_by: '[[_Standards/WikiData/WD~decipherer,114047905]]'
-part_of: '[[_Standards/WikiData/WD~cryptography,8789]]'
+- '[[_Standards/WikiData/WD~decoding,5249529|WD~decoding,5249529]]'
+- '[[_Standards/WikiData/WD~cryptographic_data_processing,124726263|WD~cryptographic_data_processing,124726263]]'
+practiced_by: '[[_Standards/WikiData/WD~decipherer,114047905|WD~decipherer,114047905]]'
+part_of: '[[_Standards/WikiData/WD~cryptography,8789|WD~cryptography,8789]]'
 IEV_number: 171-08-10
 dv_has_:
   name_:
@@ -51,7 +51,7 @@ dv_has_:
 
 # [[Decryption]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~decryption,25560977]] 
+#is_/same_as :: [[_Standards/WikiData/WD~decryption,25560977|WD~decryption,25560977]] 
 #has_/complement :: [[../Encoding/Encryption|Encryption]] 
 
 ## #has_/text_of_/abstract 

@@ -81,22 +81,22 @@ aliases:
 - 초현실주의
 has_id_wikidata: Q39427
 significant_person:
-- '[[_Standards/WikiData/WD~Max_Ernst,154842]]'
-- '[[_Standards/WikiData/WD~André_Breton,161955]]'
-- '[[_Standards/WikiData/WD~Salvador_Dalí,5577]]'
-- '[[_Standards/WikiData/WD~René_Magritte,7836]]'
-different_from: '[[_Standards/WikiData/WD~surreal_number,875333]]'
+- '[[_Standards/WikiData/WD~Max_Ernst,154842|WD~Max_Ernst,154842]]'
+- '[[_Standards/WikiData/WD~André_Breton,161955|WD~André_Breton,161955]]'
+- '[[_Standards/WikiData/WD~Salvador_Dalí,5577|WD~Salvador_Dalí,5577]]'
+- '[[_Standards/WikiData/WD~René_Magritte,7836|WD~René_Magritte,7836]]'
+different_from: '[[_Standards/WikiData/WD~surreal_number,875333|WD~surreal_number,875333]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~art_style,1792644]]'
-- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855|WD~cultural_movement,2198855]]'
 house_publication:
-- '[[_Standards/WikiData/WD~La_Révolution_surréaliste,1799114]]'
-- '[[_Standards/WikiData/WD~Le_Surrealisme_au_service_de_la_revolution,3228552]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Dada_and_Surrealism,117030536]]'
+- '[[_Standards/WikiData/WD~La_Révolution_surréaliste,1799114|WD~La_Révolution_surréaliste,1799114]]'
+- '[[_Standards/WikiData/WD~Le_Surrealisme_au_service_de_la_revolution,3228552|WD~Le_Surrealisme_au_service_de_la_revolution,3228552]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Dada_and_Surrealism,117030536|WD~Portal_Dada_and_Surrealism,117030536]]'
 influenced_by:
-- '[[_Standards/WikiData/WD~Dada,6034]]'
-- '[[_Standards/WikiData/WD~communism,6186]]'
+- '[[_Standards/WikiData/WD~Dada,6034|WD~Dada,6034]]'
+- '[[_Standards/WikiData/WD~communism,6186|WD~communism,6186]]'
 end_time: 1980-01-01T00:00:00Z
 Commons_category: Surrealism
 IMDb_keyword: surrealism

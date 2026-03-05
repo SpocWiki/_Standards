@@ -129,7 +129,7 @@ dv_has_:
 
 #has_/complement :: [[Claimant]] 
 #has_/name_/abbreviated :: Δ 
-#is_/same_as :: [[_Standards/WikiData/WD~defendant,159394]] 
+#is_/same_as :: [[_Standards/WikiData/WD~defendant,159394|WD~defendant,159394]] 
 
 ## #has_/text_of_/abstract 
 

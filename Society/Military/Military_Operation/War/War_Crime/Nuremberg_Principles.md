@@ -36,11 +36,11 @@ aliases:
 - 纽伦堡原则
 - 뉘른베르크 원칙
 has_id_wikidata: Q2146981
-different_from: '[[_Standards/WikiData/WD~Nuremberg_Code,697474]]'
-part_of: '[[_Standards/WikiData/WD~Nuremberg_Charter,820183]]'
-instance_of: '[[_Standards/WikiData/WD~general_principles_of_French_law,2608811]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-named_after: '[[_Standards/WikiData/WD~Nuremberg,2090]]'
+different_from: '[[_Standards/WikiData/WD~Nuremberg_Code,697474|WD~Nuremberg_Code,697474]]'
+part_of: '[[_Standards/WikiData/WD~Nuremberg_Charter,820183|WD~Nuremberg_Charter,820183]]'
+instance_of: '[[_Standards/WikiData/WD~general_principles_of_French_law,2608811|WD~general_principles_of_French_law,2608811]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+named_after: '[[_Standards/WikiData/WD~Nuremberg,2090|WD~Nuremberg,2090]]'
 dv_has_:
   name_:
     af: Neurenberg-beginsels

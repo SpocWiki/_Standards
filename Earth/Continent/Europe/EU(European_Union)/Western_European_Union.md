@@ -82,17 +82,17 @@ aliases:
 - 서유럽 연합
 has_id_wikidata: Q189946
 instance_of:
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
-- '[[_Standards/WikiData/WD~military_alliance,1127126]]'
-- '[[_Standards/WikiData/WD~multinational_military_coalition,100906234]]'
-follows: '[[_Standards/WikiData/WD~Western_Union,7988404]]'
-replaced_by: '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~military_alliance,1127126|WD~military_alliance,1127126]]'
+- '[[_Standards/WikiData/WD~multinational_military_coalition,100906234|WD~multinational_military_coalition,100906234]]'
+follows: '[[_Standards/WikiData/WD~Western_Union,7988404|WD~Western_Union,7988404]]'
+replaced_by: '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
 followed_by:
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
-headquarters_location: '[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]'
-country: '[[_Standards/WikiData/WD~Belgium,31]]'
-capital: '[[_Standards/WikiData/WD~Brussels_Capital_Region,240]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]'
+headquarters_location: '[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005|WD~Brussels_metropolitan_area,9005]]'
+country: '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+capital: '[[_Standards/WikiData/WD~Brussels_Capital_Region,240|WD~Brussels_Capital_Region,240]]'
 inception: 1954-01-01T00:00:00Z
 flag_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Western%20European%20Union.svg

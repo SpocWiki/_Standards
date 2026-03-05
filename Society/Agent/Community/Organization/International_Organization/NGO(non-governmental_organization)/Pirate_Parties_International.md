@@ -39,13 +39,13 @@ aliases:
 - 해적당 인터내셔널
 has_id_wikidata: Q170
 instance_of:
-- '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
-- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
-- '[[_Standards/WikiData/WD~political_organization,7210356]]'
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-has_part_s_: '[[_Standards/WikiData/WD~European_Pirate_Party,15081858]]'
-country: '[[_Standards/WikiData/WD~Switzerland,39]]'
-headquarters_location: '[[_Standards/WikiData/WD~Geneva,71]]'
+- '[[_Standards/WikiData/WD~nonprofit_organization,163740|WD~nonprofit_organization,163740]]'
+- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093|WD~international_non_governmental_organization,1194093]]'
+- '[[_Standards/WikiData/WD~political_organization,7210356|WD~political_organization,7210356]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+has_part_s_: '[[_Standards/WikiData/WD~European_Pirate_Party,15081858|WD~European_Pirate_Party,15081858]]'
+country: '[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
+headquarters_location: '[[_Standards/WikiData/WD~Geneva,71|WD~Geneva,71]]'
 social_media_followers: 21246
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/PPI%20signet.svg
 official_website: https://pp-international.net/

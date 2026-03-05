@@ -40,10 +40,10 @@ dv_is_same_as:
 
 
 Formally [[Australasia]] is a Part of [[Oceania]], 
-together with [[Australasia/Micronesia]], [[Australasia/Melanesia]] and [[Oceania/Polynesia]], 
-but Polynesia largely lies across the [[../Geography/Cartography/Meridian/Anti-Meridian]], 
+together with [[Australasia/Micronesia|Micronesia]], [[Australasia/Melanesia|Melanesia]] and [[Oceania/Polynesia|Polynesia]], 
+but Polynesia largely lies across the [[../Geography/Cartography/Meridian/Anti-Meridian|Anti-Meridian]], 
 so from a Mapping-perspective, it makes sense 
-to separate [[Oceania/Polynesia]] out to the Pacific-based [[Oceania]].  
+to separate [[Oceania/Polynesia|Polynesia]] out to the Pacific-based [[Oceania]].  
 
 ## #has_/map 
 

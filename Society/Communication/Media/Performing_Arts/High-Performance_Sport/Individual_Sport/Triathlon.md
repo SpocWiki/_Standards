@@ -40,20 +40,20 @@ aliases:
 - 트라이애슬론
 has_id_wikidata: Q10980
 has_part_s_:
-- '[[_Standards/WikiData/WD~running,105674]]'
-- '[[_Standards/WikiData/WD~cycling_race,15091377]]'
-- '[[_Standards/WikiData/WD~swimming_race,110290988]]'
+- '[[_Standards/WikiData/WD~running,105674|WD~running,105674]]'
+- '[[_Standards/WikiData/WD~cycling_race,15091377|WD~cycling_race,15091377]]'
+- '[[_Standards/WikiData/WD~swimming_race,110290988|WD~swimming_race,110290988]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~individual_sport,2755547]]'
-- '[[_Standards/WikiData/WD~multisport_sport,43767805]]'
-authority: '[[_Standards/WikiData/WD~World_Triathlon,637663]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
-different_from: '[[_Standards/WikiData/WD~Triathlon,7840199]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Triathlon,14616294]]'
-practiced_by: '[[_Standards/WikiData/WD~triathlete,15306067]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_triathlon_in_Germany,17574955]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~individual_sport,2755547|WD~individual_sport,2755547]]'
+- '[[_Standards/WikiData/WD~multisport_sport,43767805|WD~multisport_sport,43767805]]'
+authority: '[[_Standards/WikiData/WD~World_Triathlon,637663|WD~World_Triathlon,637663]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~sports_discipline,2312410|WD~sports_discipline,2312410]]'
+different_from: '[[_Standards/WikiData/WD~Triathlon,7840199|WD~Triathlon,7840199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Triathlon,14616294|WD~Portal_Triathlon,14616294]]'
+practiced_by: '[[_Standards/WikiData/WD~triathlete,15306067|WD~triathlete,15306067]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_triathlon_in_Germany,17574955|WD~history_of_triathlon_in_Germany,17574955]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 Commons_category: Triathlon
 subreddit: triathlon
 hashtag: triathlon

@@ -126,27 +126,27 @@ aliases:
 - 이슬람력
 has_id_wikidata: Q28892
 has_part_s_:
-- "[[_Standards/WikiData/WD~Dhu_al_Qi'dah,150853]]"
-- '[[_Standards/WikiData/WD~Dhu_al_Hijjah,186022]]'
-- '[[_Standards/WikiData/WD~Rajab,194210]]'
-- "[[_Standards/WikiData/WD~Sha'ban,220914]]"
-- "[[_Standards/WikiData/WD~Rabi'_al_Thani,273815]]"
-- "[[_Standards/WikiData/WD~Rabi'_al_Awwal,474167]]"
-- '[[_Standards/WikiData/WD~Safar,489557]]'
-- '[[_Standards/WikiData/WD~Shawwal,685440]]'
-- '[[_Standards/WikiData/WD~Jumada_al_Thani,822218]]'
-- '[[_Standards/WikiData/WD~Jumādā_al_ʾŪlā,852002]]'
-- '[[_Standards/WikiData/WD~Muharram,1952053]]'
-- '[[_Standards/WikiData/WD~Ramadan,8867089]]'
-instance_of: '[[_Standards/WikiData/WD~lunar_calendar,185688]]'
+- "[[_Standards/WikiData/WD~Dhu_al_Qi'dah,150853|WD~Dhu_al_Qi'dah,150853]]"
+- '[[_Standards/WikiData/WD~Dhu_al_Hijjah,186022|WD~Dhu_al_Hijjah,186022]]'
+- '[[_Standards/WikiData/WD~Rajab,194210|WD~Rajab,194210]]'
+- "[[_Standards/WikiData/WD~Sha'ban,220914|WD~Sha'ban,220914]]"
+- "[[_Standards/WikiData/WD~Rabi'_al_Thani,273815|WD~Rabi'_al_Thani,273815]]"
+- "[[_Standards/WikiData/WD~Rabi'_al_Awwal,474167|WD~Rabi'_al_Awwal,474167]]"
+- '[[_Standards/WikiData/WD~Safar,489557|WD~Safar,489557]]'
+- '[[_Standards/WikiData/WD~Shawwal,685440|WD~Shawwal,685440]]'
+- '[[_Standards/WikiData/WD~Jumada_al_Thani,822218|WD~Jumada_al_Thani,822218]]'
+- '[[_Standards/WikiData/WD~Jumādā_al_ʾŪlā,852002|WD~Jumādā_al_ʾŪlā,852002]]'
+- '[[_Standards/WikiData/WD~Muharram,1952053|WD~Muharram,1952053]]'
+- '[[_Standards/WikiData/WD~Ramadan,8867089|WD~Ramadan,8867089]]'
+instance_of: '[[_Standards/WikiData/WD~lunar_calendar,185688|WD~lunar_calendar,185688]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~al_Taqwīm_al_Hijrī_(Maktabat_al_ʻUjayrī,_1409H),124607498]]'
-part_of: '[[_Standards/WikiData/WD~Islamic_culture,1340372]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202932,13202932]]'
-subclass_of: '[[_Standards/WikiData/WD~12_month_calendar,17154131]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hijri_calendar,64491185]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~al_Taqwīm_al_Hijrī_(Maktabat_al_ʻUjayrī,_1409H),124607498|WD~al_Taqwīm_al_Hijrī_(Maktabat_al_ʻUjayrī,_1409H),124607498]]'
+part_of: '[[_Standards/WikiData/WD~Islamic_culture,1340372|WD~Islamic_culture,1340372]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202932,13202932|WD~Q13202932,13202932]]'
+subclass_of: '[[_Standards/WikiData/WD~12_month_calendar,17154131|WD~12_month_calendar,17154131]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hijri_calendar,64491185|WD~Portal_Hijri_calendar,64491185]]'
 Library_of_Congress_Classification: CE59
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Islamic%20Calendar%20LACMA%20M.89.21.jpg

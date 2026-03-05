@@ -79,12 +79,12 @@ aliases:
 - 전자기마당
 - 전자기장
 has_id_wikidata: Q177625
-subclass_of: '[[_Standards/WikiData/WD~field,185674]]'
-manifestation_of: '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+subclass_of: '[[_Standards/WikiData/WD~field,185674|WD~field,185674]]'
+manifestation_of: '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~magnetic_field,11408]]'
-- '[[_Standards/WikiData/WD~electric_field,46221]]'
+- '[[_Standards/WikiData/WD~magnetic_field,11408|WD~magnetic_field,11408]]'
+- '[[_Standards/WikiData/WD~electric_field,46221|WD~electric_field,46221]]'
 OmegaWiki_Defined_Meaning: 1590728
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Onde%20electromagnetique.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/60.%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B5%D1%82%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%BB%D0%B5%20%D0%BD%D0%B0%20%D1%81%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B8%D0%B4.ogg

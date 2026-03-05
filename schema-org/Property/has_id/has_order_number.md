@@ -32,7 +32,7 @@ dv_has_:
   name: has_text_of_order_number
   range: Text
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_:
   same_as:
     - "[[has_order_number]]"
@@ -45,7 +45,7 @@ dv_is_:
 dv_has_domain: Order
 dv_has_name: has_text_of_order_number
 dv_has_range: Text
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[has_order_number]]"
   - "[[/_public/schema-org/Property/Texts/has_order_number.public|has_order_number.public]]"

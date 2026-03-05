@@ -116,7 +116,7 @@ dv_has_:
 > Miller's feature film work includes writing the scripts 
 > for the 1990s science fiction films [[RoboCop 2]] and [[RoboCop 3]], 
 > sharing directing duties with Robert Rodriguez on [[Sin City]] and [[Sin City: A Dame to Kill For]], 
-> producing the film [[300]], and directing the big screen adaptation of [[../Movie-Genre/Fantasy-Movie/Spirit(film,2008)]]. 
+> producing the film [[300]], and directing the big screen adaptation of [[../Movie-Genre/Fantasy-Movie/Spirit(film,2008)|Spirit(film,2008)]]. 
 > Sin City earned a Palme d'Or nomination.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Frank%20Miller) 

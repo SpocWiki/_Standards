@@ -61,22 +61,22 @@ aliases:
 - 極限
 - 극한
 has_id_wikidata: Q177239
-instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
+instance_of: '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
 facet_of:
-- '[[_Standards/WikiData/WD~general_topology,621550]]'
-- '[[_Standards/WikiData/WD~algebraic_general_topology,105682211]]'
-- '[[_Standards/WikiData/WD~generalized_limit,105682253]]'
+- '[[_Standards/WikiData/WD~general_topology,621550|WD~general_topology,621550]]'
+- '[[_Standards/WikiData/WD~algebraic_general_topology,105682211|WD~algebraic_general_topology,105682211]]'
+- '[[_Standards/WikiData/WD~generalized_limit,105682253|WD~generalized_limit,105682253]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~upper_and_lower_bounds,13222579]]'
-- '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+- '[[_Standards/WikiData/WD~upper_and_lower_bounds,13222579|WD~upper_and_lower_bounds,13222579]]'
+- '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~limit_from_below,98142232]]'
-- '[[_Standards/WikiData/WD~limit_from_above,98142278]]'
-field_of_work: '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~limit_from_below,98142232|WD~limit_from_below,98142232]]'
+- '[[_Standards/WikiData/WD~limit_from_above,98142278|WD~limit_from_above,98142278]]'
+field_of_work: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Limit-at-infinity-graph.png
 Stack_Exchange_tag: https://math.stackexchange.com/tags/limits
 TeX_string: \lim

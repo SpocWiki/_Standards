@@ -80,8 +80,8 @@ aliases:
 - 底衫
 - 속옷
 has_id_wikidata: Q198763
-opposite_of: '[[_Standards/WikiData/WD~outerwear,4388799]]'
-different_from: '[[_Standards/WikiData/WD~Bielizna,9171294]]'
+opposite_of: '[[_Standards/WikiData/WD~outerwear,4388799|WD~outerwear,4388799]]'
+different_from: '[[_Standards/WikiData/WD~Bielizna,9171294|WD~Bielizna,9171294]]'
 Nomenclature_for_Museum_Cataloging: 2626
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Undergarments.png
 OmegaWiki_Defined_Meaning: 504735

@@ -45,9 +45,9 @@ aliases:
 - 초기 인류의 불의 이용
 has_id_wikidata: Q912205
 instance_of:
-- '[[_Standards/WikiData/WD~skill,205961]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-facet_of: '[[_Standards/WikiData/WD~behavioral_modernity,2706556]]'
+- '[[_Standards/WikiData/WD~skill,205961|WD~skill,205961]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~behavioral_modernity,2706556|WD~behavioral_modernity,2706556]]'
 earliest_date: -1900000
 latest_date: -790000
 video: http://commons.wikimedia.org/wiki/Special:FilePath/How%20%28and%20when%29%20did%20humans%20first%20make%20fire.webm

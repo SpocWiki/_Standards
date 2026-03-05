@@ -186,29 +186,29 @@ male_form_of_label:
 - advokatas
 OpenStreetMap_tag: office=lawyer
 patron_saint:
-- '[[_Standards/WikiData/WD~Catherine_of_Alexandria,179718]]'
-- '[[_Standards/WikiData/WD~Alphonsus_Maria_de_Liguori,273334]]'
-- '[[_Standards/WikiData/WD~Raymond_of_Penyafort,318980]]'
-- '[[_Standards/WikiData/WD~Ivo_of_Kermartin,358325]]'
-- '[[_Standards/WikiData/WD~Genesius_of_Rome,969022]]'
+- '[[_Standards/WikiData/WD~Catherine_of_Alexandria,179718|WD~Catherine_of_Alexandria,179718]]'
+- '[[_Standards/WikiData/WD~Alphonsus_Maria_de_Liguori,273334|WD~Alphonsus_Maria_de_Liguori,273334]]'
+- '[[_Standards/WikiData/WD~Raymond_of_Penyafort,318980|WD~Raymond_of_Penyafort,318980]]'
+- '[[_Standards/WikiData/WD~Ivo_of_Kermartin,358325|WD~Ivo_of_Kermartin,358325]]'
+- '[[_Standards/WikiData/WD~Genesius_of_Rome,969022|WD~Genesius_of_Rome,969022]]'
 different_from:
-- '[[_Standards/WikiData/WD~jurist,185351]]'
-- '[[_Standards/WikiData/WD~attorney_at_law,758225]]'
-- '[[_Standards/WikiData/WD~legal_advocate_in_France,791243]]'
-- '[[_Standards/WikiData/WD~avocado,961769]]'
-subclass_of: '[[_Standards/WikiData/WD~jurist,185351]]'
+- '[[_Standards/WikiData/WD~jurist,185351|WD~jurist,185351]]'
+- '[[_Standards/WikiData/WD~attorney_at_law,758225|WD~attorney_at_law,758225]]'
+- '[[_Standards/WikiData/WD~legal_advocate_in_France,791243|WD~legal_advocate_in_France,791243]]'
+- '[[_Standards/WikiData/WD~avocado,961769|WD~avocado,961769]]'
+subclass_of: '[[_Standards/WikiData/WD~jurist,185351|WD~jurist,185351]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~advocate,380075]]'
-- '[[_Standards/WikiData/WD~Anwalt,613087]]'
-- '[[_Standards/WikiData/WD~Mecenas,11772744]]'
-described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~advocate,380075|WD~advocate,380075]]'
+- '[[_Standards/WikiData/WD~Anwalt,613087|WD~Anwalt,613087]]'
+- '[[_Standards/WikiData/WD~Mecenas,11772744|WD~Mecenas,11772744]]'
+described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
 field_of_this_occupation:
-- '[[_Standards/WikiData/WD~practice_of_law,4116200]]'
-- '[[_Standards/WikiData/WD~legal_engineering,97160501]]'
-- '[[_Standards/WikiData/WD~law,7748]]'
-instance_of: '[[_Standards/WikiData/WD~legal_profession,15987302]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Lawyer,22830847]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59521970,59521970]]'
+- '[[_Standards/WikiData/WD~practice_of_law,4116200|WD~practice_of_law,4116200]]'
+- '[[_Standards/WikiData/WD~legal_engineering,97160501|WD~legal_engineering,97160501]]'
+- '[[_Standards/WikiData/WD~law,7748|WD~law,7748]]'
+instance_of: '[[_Standards/WikiData/WD~legal_profession,15987302|WD~legal_profession,15987302]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Lawyer,22830847|WD~Template_Lawyer,22830847]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59521970,59521970|WD~Q59521970,59521970]]'
 ROME_Occupation_Code: 11469
 SSYK_2012_The_Swedish_Standard_Classification_of_Occupations: 2611
 ISCO_08_occupation_class: 2611

@@ -38,73 +38,73 @@ aliases:
 - 格奥尔格·康托尔
 - 게오르크 칸토어
 has_id_wikidata: Q76420
-religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809|WD~Lutheranism,75809]]'
 member_of:
-- '[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467]]'
-- '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
-- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
-- '[[_Standards/WikiData/WD~London_Mathematical_Society,1810244]]'
-- '[[_Standards/WikiData/WD~Q106178641,106178641]]'
-medical_condition: '[[_Standards/WikiData/WD~bipolar_disorder,131755]]'
+- '[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467|WD~Royal_Society_of_Edinburgh,117467]]'
+- '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188|WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804|WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+- '[[_Standards/WikiData/WD~London_Mathematical_Society,1810244|WD~London_Mathematical_Society,1810244]]'
+- '[[_Standards/WikiData/WD~Q106178641,106178641|WD~Q106178641,106178641]]'
+medical_condition: '[[_Standards/WikiData/WD~bipolar_disorder,131755|WD~bipolar_disorder,131755]]'
 educated_at:
-- '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
-- '[[_Standards/WikiData/WD~Martin_Luther_University_Halle_Wittenberg,32120]]'
+- '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087|WD~Humboldt_Universität_zu_Berlin,152087]]'
+- '[[_Standards/WikiData/WD~Martin_Luther_University_Halle_Wittenberg,32120|WD~Martin_Luther_University_Halle_Wittenberg,32120]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~cardinal_number,163875]]'
-- '[[_Standards/WikiData/WD~philosophy_of_mathematics,180536]]'
-- '[[_Standards/WikiData/WD~ordinal_number,191780]]'
-- '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
-- '[[_Standards/WikiData/WD~theology_and_philosophy,115154807]]'
-- '[[_Standards/WikiData/WD~mathematics,395]]'
-- '[[_Standards/WikiData/WD~logic,8078]]'
-- '[[_Standards/WikiData/WD~set_theory,12482]]'
+- '[[_Standards/WikiData/WD~cardinal_number,163875|WD~cardinal_number,163875]]'
+- '[[_Standards/WikiData/WD~philosophy_of_mathematics,180536|WD~philosophy_of_mathematics,180536]]'
+- '[[_Standards/WikiData/WD~ordinal_number,191780|WD~ordinal_number,191780]]'
+- '[[_Standards/WikiData/WD~mathematical_logic,1166618|WD~mathematical_logic,1166618]]'
+- '[[_Standards/WikiData/WD~theology_and_philosophy,115154807|WD~theology_and_philosophy,115154807]]'
+- '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~logic,8078|WD~logic,8078]]'
+- '[[_Standards/WikiData/WD~set_theory,12482|WD~set_theory,12482]]'
 occupation:
-- '[[_Standards/WikiData/WD~mathematician,170790]]'
-- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~mathematician,170790|WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272|WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]'
 academic_degree:
-- '[[_Standards/WikiData/WD~habilitation,308678]]'
-- '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+- '[[_Standards/WikiData/WD~habilitation,308678|WD~habilitation,308678]]'
+- '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297|WD~Doctor_of_Philosophy,752297]]'
 residence:
-- '[[_Standards/WikiData/WD~German_Reich,1206012]]'
-- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~German_Reich,1206012|WD~German_Reich,1206012]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~German_Reich,1206012]]'
-- '[[_Standards/WikiData/WD~German_Empire,43287]]'
+- '[[_Standards/WikiData/WD~German_Reich,1206012|WD~German_Reich,1206012]]'
+- '[[_Standards/WikiData/WD~German_Empire,43287|WD~German_Empire,43287]]'
 given_name:
-- '[[_Standards/WikiData/WD~Ferdinand,3276175]]'
-- '[[_Standards/WikiData/WD~Ludwig,14159020]]'
-- '[[_Standards/WikiData/WD~George,15921732]]'
-- '[[_Standards/WikiData/WD~Philipp,18145728]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+- '[[_Standards/WikiData/WD~Ferdinand,3276175|WD~Ferdinand,3276175]]'
+- '[[_Standards/WikiData/WD~Ludwig,14159020|WD~Ludwig,14159020]]'
+- '[[_Standards/WikiData/WD~George,15921732|WD~George,15921732]]'
+- '[[_Standards/WikiData/WD~Philipp,18145728|WD~Philipp,18145728]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-family_name: '[[_Standards/WikiData/WD~Cantor,13098937]]'
-doctoral_student: '[[_Standards/WikiData/WD~Alfred_Barneck,19834351]]'
-archives_at: '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+family_name: '[[_Standards/WikiData/WD~Cantor,13098937|WD~Cantor,13098937]]'
+doctoral_student: '[[_Standards/WikiData/WD~Alfred_Barneck,19834351|WD~Alfred_Barneck,19834351]]'
+archives_at: '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978|WD~ETH_Zurich_University_Archives,39934978]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
 sibling:
-- '[[_Standards/WikiData/WD~Sophie_Nobiling,94743872]]'
-- '[[_Standards/WikiData/WD~Constantin_Cantor,94918933]]'
-mother: '[[_Standards/WikiData/WD~Maria_Cantor,94771516]]'
-child: '[[_Standards/WikiData/WD~Erich_Cantor,94918937]]'
-father: '[[_Standards/WikiData/WD~Georg_Woldemar_Cantor,94918941]]'
-spouse: '[[_Standards/WikiData/WD~Vally_Cantor,94918945]]'
+- '[[_Standards/WikiData/WD~Sophie_Nobiling,94743872|WD~Sophie_Nobiling,94743872]]'
+- '[[_Standards/WikiData/WD~Constantin_Cantor,94918933|WD~Constantin_Cantor,94918933]]'
+mother: '[[_Standards/WikiData/WD~Maria_Cantor,94771516|WD~Maria_Cantor,94771516]]'
+child: '[[_Standards/WikiData/WD~Erich_Cantor,94918937|WD~Erich_Cantor,94918937]]'
+father: '[[_Standards/WikiData/WD~Georg_Woldemar_Cantor,94918941|WD~Georg_Woldemar_Cantor,94918941]]'
+spouse: '[[_Standards/WikiData/WD~Vally_Cantor,94918945|WD~Vally_Cantor,94918945]]'
 date_of_birth: 1845-03-03T00:00:00Z
-place_of_birth: '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
-place_of_death: '[[_Standards/WikiData/WD~Halle_(Saale),2814]]'
-cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
-employer: '[[_Standards/WikiData/WD~Martin_Luther_University_Halle_Wittenberg,32120]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
+place_of_birth: '[[_Standards/WikiData/WD~Saint_Petersburg,656|WD~Saint_Petersburg,656]]'
+place_of_death: '[[_Standards/WikiData/WD~Halle_(Saale),2814|WD~Halle_(Saale),2814]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152|WD~myocardial_infarction,12152]]'
+employer: '[[_Standards/WikiData/WD~Martin_Luther_University_Halle_Wittenberg,32120|WD~Martin_Luther_University_Halle_Wittenberg,32120]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
 doctoral_advisor:
-- '[[_Standards/WikiData/WD~Karl_Weierstraß,57103]]'
-- '[[_Standards/WikiData/WD~Ernst_Kummer,57245]]'
+- '[[_Standards/WikiData/WD~Karl_Weierstraß,57103|WD~Karl_Weierstraß,57103]]'
+- '[[_Standards/WikiData/WD~Ernst_Kummer,57245|WD~Ernst_Kummer,57245]]'
 Commons_category: Georg Cantor
 Commons_Creator_page: Georg Cantor
 Commons_gallery: Georg Cantor
@@ -303,8 +303,8 @@ dv_has_:
 
 # [[Cantor,Georg]] 
 
-- [[#has_/time_/started :: 1845-03-03]] [[#has_/place_ :: [[St.Petersburg]] ]] 
-- [[#has_/time_/stopped :: 1918-02-06]] [[ #has_/place_ :: [[Halle(Saale)]] ]]
+- [[#has_/time_/started :: 1845-03-03|started :: 1845-03-03]] [[#has_/place_ :: [[St.Petersburg]] ]] 
+- [[#has_/time_/stopped :: 1918-02-06|stopped :: 1918-02-06]] [[ #has_/place_ :: [[Halle(Saale)]] ]]
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
 
 #is_/same_as :: [[../../../WikiData/WD~Georg_Cantor,76420|WD~Georg_Cantor,76420]] 

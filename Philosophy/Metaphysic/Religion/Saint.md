@@ -111,31 +111,31 @@ male_form_of_label:
 - قديس
 - светец
 - santo
-instance_of: '[[_Standards/WikiData/WD~title,216353]]'
+instance_of: '[[_Standards/WikiData/WD~title,216353|WD~title,216353]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-has_characteristic: '[[_Standards/WikiData/WD~sacredness,1151419]]'
-follows: '[[_Standards/WikiData/WD~blessed,2369287]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+has_characteristic: '[[_Standards/WikiData/WD~sacredness,1151419|WD~sacredness,1151419]]'
+follows: '[[_Standards/WikiData/WD~blessed,2369287|WD~blessed,2369287]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~rank,4120621]]'
-- '[[_Standards/WikiData/WD~believer,17573152]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_saint,6144374]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q8972576,8972576]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Saints,14616450]]'
-different_from: '[[_Standards/WikiData/WD~San,65956597]]'
+- '[[_Standards/WikiData/WD~rank,4120621|WD~rank,4120621]]'
+- '[[_Standards/WikiData/WD~believer,17573152|WD~believer,17573152]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_saint,6144374|WD~Template_Infobox_saint,6144374]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q8972576,8972576|WD~Q8972576,8972576]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Saints,14616450|WD~Portal_Saints,14616450]]'
+different_from: '[[_Standards/WikiData/WD~San,65956597|WD~San,65956597]]'
 related_property: canonization status
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Islam,432]]'
-- '[[_Standards/WikiData/WD~Christianity,5043]]'
-- '[[_Standards/WikiData/WD~Hinduism,9089]]'
-- '[[_Standards/WikiData/WD~Sikhism,9316]]'
+- '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]'
+- '[[_Standards/WikiData/WD~Sikhism,9316|WD~Sikhism,9316]]'
 main_Wikidata_property: domain of saint or deity
 Commons_category: Saints
 Iconclass_notation: 11H
@@ -268,7 +268,7 @@ dv_has_:
 
 # [[Saint]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~saint,43115]] 
+#is_/same_as :: [[_Standards/WikiData/WD~saint,43115|WD~saint,43115]] 
 
 ## #has_/text_of_/abstract 
 

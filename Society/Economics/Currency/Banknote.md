@@ -93,53 +93,53 @@ aliases:
 has_id_wikidata: Q47433
 Dewey_Decimal_Classification: 332.42
 has_part_s_:
-- '[[_Standards/WikiData/WD~obverse,257418]]'
-- '[[_Standards/WikiData/WD~microprinting,947321]]'
-- '[[_Standards/WikiData/WD~reverse,1542661]]'
-- '[[_Standards/WikiData/WD~hologram,3139490]]'
-- '[[_Standards/WikiData/WD~watermark,43065]]'
-instance_of: '[[_Standards/WikiData/WD~genre,483394]]'
+- '[[_Standards/WikiData/WD~obverse,257418|WD~obverse,257418]]'
+- '[[_Standards/WikiData/WD~microprinting,947321|WD~microprinting,947321]]'
+- '[[_Standards/WikiData/WD~reverse,1542661|WD~reverse,1542661]]'
+- '[[_Standards/WikiData/WD~hologram,3139490|WD~hologram,3139490]]'
+- '[[_Standards/WikiData/WD~watermark,43065|WD~watermark,43065]]'
+instance_of: '[[_Standards/WikiData/WD~genre,483394|WD~genre,483394]]'
 named_after:
-- '[[_Standards/WikiData/WD~ticket,551800]]'
-- '[[_Standards/WikiData/WD~bank,22687]]'
+- '[[_Standards/WikiData/WD~ticket,551800|WD~ticket,551800]]'
+- '[[_Standards/WikiData/WD~bank,22687|WD~bank,22687]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~cash,693464]]'
-- '[[_Standards/WikiData/WD~work_of_art,838948]]'
-- '[[_Standards/WikiData/WD~collectable,2342494]]'
-- '[[_Standards/WikiData/WD~print,11060274]]'
-- '[[_Standards/WikiData/WD~state_symbols_and_signs,114794799]]'
+- '[[_Standards/WikiData/WD~cash,693464|WD~cash,693464]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948|WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~collectable,2342494|WD~collectable,2342494]]'
+- '[[_Standards/WikiData/WD~print,11060274|WD~print,11060274]]'
+- '[[_Standards/WikiData/WD~state_symbols_and_signs,114794799|WD~state_symbols_and_signs,114794799]]'
 depicts:
-- '[[_Standards/WikiData/WD~face_value,931754]]'
-- '[[_Standards/WikiData/WD~banknote_security_feature,28796476]]'
-- '[[_Standards/WikiData/WD~banknote_series,28810803]]'
-- '[[_Standards/WikiData/WD~Q28810808,28810808]]'
-- '[[_Standards/WikiData/WD~replacement_mark_of_banknote,28810820]]'
+- '[[_Standards/WikiData/WD~face_value,931754|WD~face_value,931754]]'
+- '[[_Standards/WikiData/WD~banknote_security_feature,28796476|WD~banknote_security_feature,28796476]]'
+- '[[_Standards/WikiData/WD~banknote_series,28810803|WD~banknote_series,28810803]]'
+- '[[_Standards/WikiData/WD~Q28810808,28810808|WD~Q28810808,28810808]]'
+- '[[_Standards/WikiData/WD~replacement_mark_of_banknote,28810820|WD~replacement_mark_of_banknote,28810820]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~face_value,931754]]'
-- '[[_Standards/WikiData/WD~design_of_a_banknote_or_a_coin,28794013]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_banknote,13382588]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828628,22828628]]'
+- '[[_Standards/WikiData/WD~face_value,931754|WD~face_value,931754]]'
+- '[[_Standards/WikiData/WD~design_of_a_banknote_or_a_coin,28794013|WD~design_of_a_banknote_or_a_coin,28794013]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_banknote,13382588|WD~Template_Infobox_banknote,13382588]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828628,22828628|WD~Q22828628,22828628]]'
 manifestation_of:
-- '[[_Standards/WikiData/WD~paper_money,131938946]]'
-- '[[_Standards/WikiData/WD~money,1368]]'
+- '[[_Standards/WikiData/WD~paper_money,131938946|WD~paper_money,131938946]]'
+- '[[_Standards/WikiData/WD~money,1368|WD~money,1368]]'
 time_of_discovery_or_invention: 0618-01-01T00:00:00Z
 properties_for_this_type:
 - width
 - height
 - face value
-country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
-opposite_of: '[[_Standards/WikiData/WD~coin,41207]]'
+country_of_origin: '[[_Standards/WikiData/WD~China,29520|WD~China,29520]]'
+opposite_of: '[[_Standards/WikiData/WD~coin,41207|WD~coin,41207]]'
 Nomenclature_for_Museum_Cataloging: 13881
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BOH%26MOR-10-Protectorate%20of%20Bohemia%20and%20Moravia-50%20Korun%20%281944%29.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Banknote.ogg

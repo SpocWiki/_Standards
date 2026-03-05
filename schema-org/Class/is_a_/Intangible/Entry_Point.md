@@ -37,7 +37,7 @@ dv_is_:
     - "[[Entry_Point]]"
 dv_has_:
   parent_class:
-    - "[[../Intangible]]"
+    - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_application|has_action_application]]"
     - "[[../../../Relation/has/has_action/has_action_platform|has_action_platform]]"
@@ -59,7 +59,7 @@ dv_has_:
     - "[[../Property/has_url_for/has_url|has_url]]"
     - "[[../../../Property/Texts/has_url_template|has_url_template]]"
 dv_has_parent_class:
-  - "[[../Intangible]]"
+  - "[[../Intangible|Intangible]]"
 dv_has_properties:
   - "[[../../../Relation/has/has_action/has_action_application|has_action_application]]"
   - "[[../../../Relation/has/has_action/has_action_platform|has_action_platform]]"

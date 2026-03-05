@@ -17,8 +17,8 @@ dv_has_name_en: Palestinian Territory, Occupied
 dv_has_name_de: Palästina
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Asia]]"
-dv_Capital: "[[Israel/Counties/Jerusalem]]"
+dv_has_place_continent: "[[../../Asia|Asia]]"
+dv_Capital: "[[Israel/Counties/Jerusalem|Jerusalem]]"
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 35.2
 dv_has_place_latitude: 31.8833

@@ -1,5 +1,5 @@
 ---
-location: '[[_Standards/WikiData/WD~Hua_County,386212]]'
+location: '[[_Standards/WikiData/WD~Hua_County,386212|WD~Hua_County,386212]]'
 aliases:
 - 1556 m. žemės drebėjimas Šaansi
 - 1556 Shaanxi earthquake
@@ -64,18 +64,18 @@ aliases:
 has_id_wikidata: Q191293
 Commons_category: Earthquakes of 1556
 coordinate_location: Point(109.7 34.5)
-country: '[[_Standards/WikiData/WD~Ming_dynasty,9903]]'
+country: '[[_Standards/WikiData/WD~Ming_dynasty,9903|WD~Ming_dynasty,9903]]'
 earthquake_magnitude_on_the_moment_magnitude_scale: 8
 earthquake_magnitude_on_the_Richter_magnitude_scale: 8
 fault:
-- '[[_Standards/WikiData/WD~Ordos_Block,110010692]]'
-- '[[_Standards/WikiData/WD~Shanxi_Rift_System,110235754]]'
-- '[[_Standards/WikiData/WD~Qinling_Fault,124003873]]'
+- '[[_Standards/WikiData/WD~Ordos_Block,110010692|WD~Ordos_Block,110010692]]'
+- '[[_Standards/WikiData/WD~Shanxi_Rift_System,110235754|WD~Shanxi_Rift_System,110235754]]'
+- '[[_Standards/WikiData/WD~Qinling_Fault,124003873|WD~Qinling_Fault,124003873]]'
 instance_of:
-- '[[_Standards/WikiData/WD~earthquake,7944]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Shaanxi,47974]]'
+- '[[_Standards/WikiData/WD~earthquake,7944|WD~earthquake,7944]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Shaanxi,47974|WD~Shaanxi,47974]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Shaanxi%201556%20earthquake%20map%20of%20provinces.png
-modified_Mercalli_intensity_scale: '[[_Standards/WikiData/WD~Mercalli_scale_XI,23925708]]'
+modified_Mercalli_intensity_scale: '[[_Standards/WikiData/WD~Mercalli_scale_XI,23925708|WD~Mercalli_scale_XI,23925708]]'
 number_of_deaths:
 - 100000
 - 830000
@@ -158,7 +158,7 @@ dv_has_:
 
 #has_/time_/started :: 1556-02-02 
 
-#is_/same_as :: [[../../../../WikiData/WD~1556_Shaanxi_earthquake,191293]]
+#is_/same_as :: [[../../../../WikiData/WD~1556_Shaanxi_earthquake,191293|WD~1556_Shaanxi_earthquake,191293]]
 
 ## #has_/text_of_/abstract 
 

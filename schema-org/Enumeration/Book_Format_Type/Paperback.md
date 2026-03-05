@@ -25,9 +25,9 @@ tags:
 title: is_a_paperback Class
 type: Type
 dv_has_:
-  parent_class: "[[../BookFormatType]]"
+  parent_class: "[[../BookFormatType|BookFormatType]]"
 dv_is_:
-  enum_of: "[[../BookFormatType]]"
+  enum_of: "[[../BookFormatType|BookFormatType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Book_Format_Type/Paperback|Paperback]]"
     - "[[/_public/schema-org/Enumeration/Book_Format_Type/Paperback.public|Paperback.public]]"
@@ -37,8 +37,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Book_Format_Type/Paperback.personal|Paperback.personal]]"
     - "[[/_secret/schema-org/Enumeration/Book_Format_Type/Paperback.secret|Paperback.secret]]"
     - "[[Paperback]]"
-dv_has_parent_class: "[[../BookFormatType]]"
-dv_is_enum_of: "[[../BookFormatType]]"
+dv_has_parent_class: "[[../BookFormatType|BookFormatType]]"
+dv_is_enum_of: "[[../BookFormatType|BookFormatType]]"
 dv_is_same_as:
   - "[[Paperback]]"
   - "[[/_public/schema-org/Enumeration/Book_Format_Type/Paperback.public|Paperback.public]]"

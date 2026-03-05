@@ -27,9 +27,9 @@ tags:
 title: is_a_left_hand_driving Class
 type: Type
 dv_has_:
-  parent_class: "[[../SteeringPositionValue]]"
+  parent_class: "[[../SteeringPositionValue|SteeringPositionValue]]"
 dv_is_:
-  enum_of: "[[../SteeringPositionValue]]"
+  enum_of: "[[../SteeringPositionValue|SteeringPositionValue]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving|Left_Hand_Driving]]"
     - "[[/_public/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.public|Left_Hand_Driving.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.personal|Left_Hand_Driving.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.secret|Left_Hand_Driving.secret]]"
     - "[[Left_Hand_Driving]]"
-dv_has_parent_class: "[[../SteeringPositionValue]]"
-dv_is_enum_of: "[[../SteeringPositionValue]]"
+dv_has_parent_class: "[[../SteeringPositionValue|SteeringPositionValue]]"
+dv_is_enum_of: "[[../SteeringPositionValue|SteeringPositionValue]]"
 dv_is_same_as:
   - "[[Left_Hand_Driving]]"
   - "[[/_public/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.public|Left_Hand_Driving.public]]"

@@ -42,11 +42,11 @@ aliases:
 - 硬式滾樂
 - 하드 록
 has_id_wikidata: Q83270
-instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
-subclass_of: '[[_Standards/WikiData/WD~rock_music,11399]]'
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+subclass_of: '[[_Standards/WikiData/WD~rock_music,11399|WD~rock_music,11399]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 IAB_code: 367
 inception: 1967-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jimmy%20Page%20with%20Robert%20Plant%202%20-%20Led%20Zeppelin%20-%201977.jpg
@@ -154,7 +154,7 @@ dv_has_:
 
 # [[Hard_Rock]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~hard_rock,83270]] 
+#is_/same_as :: [[_Standards/WikiData/WD~hard_rock,83270|WD~hard_rock,83270]] 
 
 ## #has_/text_of_/abstract 
 

@@ -61,21 +61,21 @@ aliases:
 - 凝固
 - 결빙
 has_id_wikidata: Q108000
-opposite_of: '[[_Standards/WikiData/WD~melting,106080]]'
+opposite_of: '[[_Standards/WikiData/WD~melting,106080|WD~melting,106080]]'
 different_from:
-- '[[_Standards/WikiData/WD~blood_coagulation,179217]]'
-- '[[_Standards/WikiData/WD~curing,2991861]]'
-instance_of: '[[_Standards/WikiData/WD~phase_change,185357]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~crystallization,284256]]'
+- '[[_Standards/WikiData/WD~blood_coagulation,179217|WD~blood_coagulation,179217]]'
+- '[[_Standards/WikiData/WD~curing,2991861|WD~curing,2991861]]'
+instance_of: '[[_Standards/WikiData/WD~phase_change,185357|WD~phase_change,185357]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~crystallization,284256|WD~crystallization,284256]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~refrigeration,747713]]'
-- '[[_Standards/WikiData/WD~physical_process,17320256]]'
+- '[[_Standards/WikiData/WD~refrigeration,747713|WD~refrigeration,747713]]'
+- '[[_Standards/WikiData/WD~physical_process,17320256|WD~physical_process,17320256]]'
 uses:
-- '[[_Standards/WikiData/WD~liquid_state_of_matter,6761456]]'
-- '[[_Standards/WikiData/WD~refrigerator,37828]]'
-has_effect: '[[_Standards/WikiData/WD~solid_state_of_matter,29115074]]'
-described_by_source: '[[_Standards/WikiData/WD~Q124618875,124618875]]'
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~liquid_state_of_matter,6761456|WD~liquid_state_of_matter,6761456]]'
+- '[[_Standards/WikiData/WD~refrigerator,37828|WD~refrigerator,37828]]'
+has_effect: '[[_Standards/WikiData/WD~solid_state_of_matter,29115074|WD~solid_state_of_matter,29115074]]'
+described_by_source: '[[_Standards/WikiData/WD~Q124618875,124618875|WD~Q124618875,124618875]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid-nitrogen-demo-freeside-atlanta.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Snow%20crystallization%20in%20Akureyri%202005-02-26%2019-03-37.jpeg
 Iconclass_notation: 22E21

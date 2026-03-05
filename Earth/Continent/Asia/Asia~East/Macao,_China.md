@@ -13,7 +13,7 @@ tags:
 type: Country
 dv_has_name_en: Macao, China
 dv_has_name_de: Macao, China
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: "[[../../Asia|Asia]]"
 dv_Language-Id: 467
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 113.55

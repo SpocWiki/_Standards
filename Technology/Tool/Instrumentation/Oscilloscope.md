@@ -55,33 +55,33 @@ aliases:
 - 오실로스코프
 has_id_wikidata: Q174320
 used_by:
-- '[[_Standards/WikiData/WD~engineer,81096]]'
-- '[[_Standards/WikiData/WD~research_and_development,276099]]'
-- '[[_Standards/WikiData/WD~electronics_technician,1327130]]'
-- '[[_Standards/WikiData/WD~radio_technician,60319113]]'
-- '[[_Standards/WikiData/WD~repair_shop,111541200]]'
-- '[[_Standards/WikiData/WD~hobby_electronics,122820085]]'
-- '[[_Standards/WikiData/WD~scientist,901]]'
+- '[[_Standards/WikiData/WD~engineer,81096|WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~research_and_development,276099|WD~research_and_development,276099]]'
+- '[[_Standards/WikiData/WD~electronics_technician,1327130|WD~electronics_technician,1327130]]'
+- '[[_Standards/WikiData/WD~radio_technician,60319113|WD~radio_technician,60319113]]'
+- '[[_Standards/WikiData/WD~repair_shop,111541200|WD~repair_shop,111541200]]'
+- '[[_Standards/WikiData/WD~hobby_electronics,122820085|WD~hobby_electronics,122820085]]'
+- '[[_Standards/WikiData/WD~scientist,901|WD~scientist,901]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~liquid_crystal_display,83341]]'
-- '[[_Standards/WikiData/WD~cathode_ray_tube,83913]]'
-- '[[_Standards/WikiData/WD~control_panel,239001]]'
-- '[[_Standards/WikiData/WD~test_probe,1417022]]'
-- '[[_Standards/WikiData/WD~control_knob,16061674]]'
-- '[[_Standards/WikiData/WD~USB,42378]]'
+- '[[_Standards/WikiData/WD~liquid_crystal_display,83341|WD~liquid_crystal_display,83341]]'
+- '[[_Standards/WikiData/WD~cathode_ray_tube,83913|WD~cathode_ray_tube,83913]]'
+- '[[_Standards/WikiData/WD~control_panel,239001|WD~control_panel,239001]]'
+- '[[_Standards/WikiData/WD~test_probe,1417022|WD~test_probe,1417022]]'
+- '[[_Standards/WikiData/WD~control_knob,16061674|WD~control_knob,16061674]]'
+- '[[_Standards/WikiData/WD~USB,42378|WD~USB,42378]]'
 has_use:
-- '[[_Standards/WikiData/WD~display_device,327065]]'
-- '[[_Standards/WikiData/WD~measurement,12453]]'
+- '[[_Standards/WikiData/WD~display_device,327065|WD~display_device,327065]]'
+- '[[_Standards/WikiData/WD~measurement,12453|WD~measurement,12453]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~measuring_instrument,2041172]]'
-- '[[_Standards/WikiData/WD~electrical_appliance,2425052]]'
-- '[[_Standards/WikiData/WD~electronic_device,2858615]]'
-history_of_topic: '[[_Standards/WikiData/WD~oscilloscope_history,7106423]]'
-instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Ferdinand_Braun,57077]]'
+- '[[_Standards/WikiData/WD~measuring_instrument,2041172|WD~measuring_instrument,2041172]]'
+- '[[_Standards/WikiData/WD~electrical_appliance,2425052|WD~electrical_appliance,2425052]]'
+- '[[_Standards/WikiData/WD~electronic_device,2858615|WD~electronic_device,2858615]]'
+history_of_topic: '[[_Standards/WikiData/WD~oscilloscope_history,7106423|WD~oscilloscope_history,7106423]]'
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Ferdinand_Braun,57077|WD~Ferdinand_Braun,57077]]'
 Nomenclature_for_Museum_Cataloging: 8734
 2022_Harmonized_System_Code: 903020
 U_S_National_Archives_Identifier: 10676191

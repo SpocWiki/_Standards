@@ -64,15 +64,15 @@ aliases:
 - 증폭 회로
 has_id_wikidata: Q211554
 different_from:
-- '[[_Standards/WikiData/WD~operational_amplifier,178947]]'
-- '[[_Standards/WikiData/WD~amplifier,347110]]'
-- '[[_Standards/WikiData/WD~amplifier,115281453]]'
-- '[[_Standards/WikiData/WD~amplifier,27094]]'
-instance_of: '[[_Standards/WikiData/WD~electronic_circuit,1815901]]'
+- '[[_Standards/WikiData/WD~operational_amplifier,178947|WD~operational_amplifier,178947]]'
+- '[[_Standards/WikiData/WD~amplifier,347110|WD~amplifier,347110]]'
+- '[[_Standards/WikiData/WD~amplifier,115281453|WD~amplifier,115281453]]'
+- '[[_Standards/WikiData/WD~amplifier,27094|WD~amplifier,27094]]'
+instance_of: '[[_Standards/WikiData/WD~electronic_circuit,1815901|WD~electronic_circuit,1815901]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~electronic_device,2858615]]'
-- '[[_Standards/WikiData/WD~amplifier,115281453]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~electronic_device,2858615|WD~electronic_device,2858615]]'
+- '[[_Standards/WikiData/WD~amplifier,115281453|WD~amplifier,115281453]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/One%20T%20Amp.PNG
 UMLS_CUI: C0002684
 MeSH_tree_code: E07.305.061

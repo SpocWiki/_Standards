@@ -46,8 +46,8 @@ aliases:
 
 # [[Watt_Steam_Engine]]  
 
-[[../../../../../assets/Watt_Steam_Engine.jpeg]]
-![[../../../../../assets/Watt_Steam_Engine.jpeg]]
+[[../../../../../assets/Watt_Steam_Engine.jpeg|Watt_Steam_Engine.jpeg]]
+![[../../../../../assets/Watt_Steam_Engine.jpeg|Watt_Steam_Engine.jpeg]]
 
 
 

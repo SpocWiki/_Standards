@@ -79,10 +79,10 @@ aliases:
 - 절벽
 has_id_wikidata: Q107679
 subclass_of:
-- '[[_Standards/WikiData/WD~landform,271669]]'
-- '[[_Standards/WikiData/WD~escarpment,1174791]]'
-different_from: '[[_Standards/WikiData/WD~Centrum_Handlowe_Klif,9362481]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~landform,271669|WD~landform,271669]]'
+- '[[_Standards/WikiData/WD~escarpment,1174791|WD~escarpment,1174791]]'
+different_from: '[[_Standards/WikiData/WD~Centrum_Handlowe_Klif,9362481|WD~Centrum_Handlowe_Klif,9362481]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
 OmegaWiki_Defined_Meaning: 4261
 Commons_category: Cliffs
 Commons_gallery: Cliff

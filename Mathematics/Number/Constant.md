@@ -58,13 +58,13 @@ aliases:
 - 상수
 has_id_wikidata: Q188248
 different_from:
-- '[[_Standards/WikiData/WD~physical_constant,173227]]'
-- '[[_Standards/WikiData/WD~Constante,253220]]'
-- '[[_Standards/WikiData/WD~constant,1284190]]'
-subclass_of: '[[_Standards/WikiData/WD~operand,719375]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~nullary_operation,3884029]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-opposite_of: '[[_Standards/WikiData/WD~variable,50701]]'
+- '[[_Standards/WikiData/WD~physical_constant,173227|WD~physical_constant,173227]]'
+- '[[_Standards/WikiData/WD~Constante,253220|WD~Constante,253220]]'
+- '[[_Standards/WikiData/WD~constant,1284190|WD~constant,1284190]]'
+subclass_of: '[[_Standards/WikiData/WD~operand,719375|WD~operand,719375]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~nullary_operation,3884029|WD~nullary_operation,3884029]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+opposite_of: '[[_Standards/WikiData/WD~variable,50701|WD~variable,50701]]'
 dv_has_:
   name_:
     af: Konstante

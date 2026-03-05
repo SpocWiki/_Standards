@@ -193,29 +193,29 @@ cssclasses:
   - private
   - note
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 Dewey_Decimal_Classification:
   - 2
   - 90
   - 70.573
   - 302.232
 different_from:
-  - "[[_Standards/WikiData/WD~version,_edition_or_translation,3331189]]"
-  - "[[_Standards/WikiData/WD~Buch,240226]]"
-  - "[[_Standards/WikiData/WD~Book,421300]]"
-  - "[[_Standards/WikiData/WD~Livre,892730]]"
-  - "[[_Standards/WikiData/WD~Liv,10567996]]"
-  - "[[_Standards/WikiData/WD~written_work,47461344]]"
-  - "[[_Standards/WikiData/WD~volume,105763458]]"
-  - "[[_Standards/WikiData/WD~book,126946186]]"
+  - "[[_Standards/WikiData/WD~version,_edition_or_translation,3331189|WD~version,_edition_or_translation,3331189]]"
+  - "[[_Standards/WikiData/WD~Buch,240226|WD~Buch,240226]]"
+  - "[[_Standards/WikiData/WD~Book,421300|WD~Book,421300]]"
+  - "[[_Standards/WikiData/WD~Livre,892730|WD~Livre,892730]]"
+  - "[[_Standards/WikiData/WD~Liv,10567996|WD~Liv,10567996]]"
+  - "[[_Standards/WikiData/WD~written_work,47461344|WD~written_work,47461344]]"
+  - "[[_Standards/WikiData/WD~volume,105763458|WD~volume,105763458]]"
+  - "[[_Standards/WikiData/WD~book,126946186|WD~book,126946186]]"
 draft: true
 entry_in_abbreviations_table: кн.
 equivalent_class:
@@ -223,7 +223,7 @@ equivalent_class:
   - http://purl.org/net/nknouf/ns/bibtex#Book
   - http://purl.org/ontology/bibo/Book
   - http://www.ontotext.com/proton/protonext#Book
-  - "[[_Standards/WikiData/WD~https_id.oclc.org_worldcat_entity_Q13,13]]"
+  - "[[_Standards/WikiData/WD~https_id.oclc.org_worldcat_entity_Q13,13|WD~https_id.oclc.org_worldcat_entity_Q13,13]]"
   - https://schema.org/Book
 exact_match:
   - http://linked.earth/ontology/#book
@@ -234,42 +234,42 @@ expiryDate: ""
 GitHub_topic: books
 GS1_GPC_code: 60010200
 has_characteristic:
-  - "[[_Standards/WikiData/WD~author,482980]]"
-  - "[[_Standards/WikiData/WD~print_circulation,759811]]"
-  - "[[_Standards/WikiData/WD~folio,772267]]"
-  - "[[_Standards/WikiData/WD~title,783521]]"
-  - "[[_Standards/WikiData/WD~book_illustration,998555]]"
-  - "[[_Standards/WikiData/WD~volume,1238720]]"
-  - "[[_Standards/WikiData/WD~publication_date,1361758]]"
-  - "[[_Standards/WikiData/WD~place_of_publication,1361759]]"
-  - "[[_Standards/WikiData/WD~editor,1607826]]"
-  - "[[_Standards/WikiData/WD~publishing_company,2085381]]"
-  - "[[_Standards/WikiData/WD~editorial_board,2985386]]"
-  - "[[_Standards/WikiData/WD~book_format,18602566]]"
-  - "[[_Standards/WikiData/WD~compiler,29514511]]"
-  - "[[_Standards/WikiData/WD~book_size,91783353]]"
-  - "[[_Standards/WikiData/WD~number_of_pages,115804545]]"
-  - "[[_Standards/WikiData/WD~International_Standard_Book_Number,33057]]"
-  - "[[_Standards/WikiData/WD~language,34770]]"
+  - "[[_Standards/WikiData/WD~author,482980|WD~author,482980]]"
+  - "[[_Standards/WikiData/WD~print_circulation,759811|WD~print_circulation,759811]]"
+  - "[[_Standards/WikiData/WD~folio,772267|WD~folio,772267]]"
+  - "[[_Standards/WikiData/WD~title,783521|WD~title,783521]]"
+  - "[[_Standards/WikiData/WD~book_illustration,998555|WD~book_illustration,998555]]"
+  - "[[_Standards/WikiData/WD~volume,1238720|WD~volume,1238720]]"
+  - "[[_Standards/WikiData/WD~publication_date,1361758|WD~publication_date,1361758]]"
+  - "[[_Standards/WikiData/WD~place_of_publication,1361759|WD~place_of_publication,1361759]]"
+  - "[[_Standards/WikiData/WD~editor,1607826|WD~editor,1607826]]"
+  - "[[_Standards/WikiData/WD~publishing_company,2085381|WD~publishing_company,2085381]]"
+  - "[[_Standards/WikiData/WD~editorial_board,2985386|WD~editorial_board,2985386]]"
+  - "[[_Standards/WikiData/WD~book_format,18602566|WD~book_format,18602566]]"
+  - "[[_Standards/WikiData/WD~compiler,29514511|WD~compiler,29514511]]"
+  - "[[_Standards/WikiData/WD~book_size,91783353|WD~book_size,91783353]]"
+  - "[[_Standards/WikiData/WD~number_of_pages,115804545|WD~number_of_pages,115804545]]"
+  - "[[_Standards/WikiData/WD~International_Standard_Book_Number,33057|WD~International_Standard_Book_Number,33057]]"
+  - "[[_Standards/WikiData/WD~language,34770|WD~language,34770]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~text,234460]]"
-  - "[[_Standards/WikiData/WD~chapter,1980247]]"
+  - "[[_Standards/WikiData/WD~text,234460|WD~text,234460]]"
+  - "[[_Standards/WikiData/WD~chapter,1980247|WD~chapter,1980247]]"
 has_use:
-  - "[[_Standards/WikiData/WD~entertainment,173799]]"
-  - "[[_Standards/WikiData/WD~pleasure,208195]]"
-  - "[[_Standards/WikiData/WD~critical_thinking,843894]]"
-  - "[[_Standards/WikiData/WD~source_of_information,3523102]]"
-  - "[[_Standards/WikiData/WD~spiritual_development,24911979]]"
-  - "[[_Standards/WikiData/WD~survival,104482419]]"
-  - "[[_Standards/WikiData/WD~education,8434]]"
-  - "[[_Standards/WikiData/WD~imagination,34516]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_book,15873402]]"
+  - "[[_Standards/WikiData/WD~entertainment,173799|WD~entertainment,173799]]"
+  - "[[_Standards/WikiData/WD~pleasure,208195|WD~pleasure,208195]]"
+  - "[[_Standards/WikiData/WD~critical_thinking,843894|WD~critical_thinking,843894]]"
+  - "[[_Standards/WikiData/WD~source_of_information,3523102|WD~source_of_information,3523102]]"
+  - "[[_Standards/WikiData/WD~spiritual_development,24911979|WD~spiritual_development,24911979]]"
+  - "[[_Standards/WikiData/WD~survival,104482419|WD~survival,104482419]]"
+  - "[[_Standards/WikiData/WD~education,8434|WD~education,8434]]"
+  - "[[_Standards/WikiData/WD~imagination,34516|WD~imagination,34516]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_book,15873402|WD~history_of_the_book,15873402]]"
 Iconclass_notation: 49M32
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Reimski%20evan%C4%91elistar.10.jpg
 IMDb_keyword: book
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_publication,39725049]]"
-  - "[[_Standards/WikiData/WD~type_of_mass_media,121132955]]"
+  - "[[_Standards/WikiData/WD~type_of_publication,39725049|WD~type_of_publication,39725049]]"
+  - "[[_Standards/WikiData/WD~type_of_mass_media,121132955|WD~type_of_mass_media,121132955]]"
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -278,12 +278,12 @@ layout: ""
 license: (c)copyrighted
 linkTitle:
   Book: ""
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Books,8487081]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Books,8487081|WD~WikiProject_Books,8487081]]"
 MeSH_tree_code: L01.462.500.682.192
 Nomenclature_for_Museum_Cataloging: 13603
 OmegaWiki_Defined_Meaning: 417
 P8189: 987007283230005100
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q52834100,52834100]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q52834100,52834100|WD~Q52834100,52834100]]"
 properties_for_this_type:
   - language of work or name
   - publication date
@@ -305,10 +305,10 @@ Stack_Exchange_tag:
   - https://academia.stackexchange.com/tags/books
   - https://tex.stackexchange.com/tags/books
 subclass_of:
-  - "[[_Standards/WikiData/WD~communications_media,340169]]"
-  - "[[_Standards/WikiData/WD~publication,732577]]"
-  - "[[_Standards/WikiData/WD~product,2424752]]"
-  - "[[_Standards/WikiData/WD~document,49848]]"
+  - "[[_Standards/WikiData/WD~communications_media,340169|WD~communications_media,340169]]"
+  - "[[_Standards/WikiData/WD~publication,732577|WD~publication,732577]]"
+  - "[[_Standards/WikiData/WD~product,2424752|WD~product,2424752]]"
+  - "[[_Standards/WikiData/WD~document,49848|WD~document,49848]]"
 subreddit: books
 tags:
   - class/Class
@@ -318,13 +318,13 @@ tags:
 title:
   Book: ""
 topic_s_main_category:
-  - "[[_Standards/WikiData/WD~Q9721595,9721595]]"
-  - "[[_Standards/WikiData/WD~Q33098516,33098516]]"
+  - "[[_Standards/WikiData/WD~Q9721595,9721595|WD~Q9721595,9721595]]"
+  - "[[_Standards/WikiData/WD~Q33098516,33098516|WD~Q33098516,33098516]]"
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Cite_book_Russian,909529]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_book_2,22835068]]"
-  - "[[_Standards/WikiData/WD~Template_Books,47482683]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Books,10880143]]"
+  - "[[_Standards/WikiData/WD~Template_Cite_book_Russian,909529|WD~Template_Cite_book_Russian,909529]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_book_2,22835068|WD~Template_Infobox_book_2,22835068]]"
+  - "[[_Standards/WikiData/WD~Template_Books,47482683|WD~Template_Books,47482683]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Books,10880143|WD~Portal_Books,10880143]]"
 type: private_note
 UMLS_CUI: C0005990
 Unicode_character:
@@ -335,9 +335,9 @@ Unicode_character:
   - 📘
   - 📙
   - 📚
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]"
 U_S_National_Archives_Identifier: 10639916
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_books,7112569]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_books,7112569|WD~outline_of_books,7112569]]"
 Wolfram_Language_entity_type: Book
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -624,13 +624,13 @@ Tag Instances like this:
 
 A book.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ Audiobook ]  
 
 #has_/properties :: [ about, abridged, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, bookEdition, bookFormat, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, illustrator, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, isbn, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, numberOfPages, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ]  
 
-#is_/same_as :: [[../../../../WikiData/WD~Book,571]]
+#is_/same_as :: [[../../../../WikiData/WD~Book,571|WD~Book,571]]
 
 ## #has_/text_of_/abstract 
 

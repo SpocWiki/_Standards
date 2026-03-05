@@ -63,12 +63,12 @@ aliases:
 - 참다래
 has_id_wikidata: Q13194
 subclass_of:
-- '[[_Standards/WikiData/WD~fruit,3314483]]'
-- '[[_Standards/WikiData/WD~berry,13184]]'
-described_by_source: '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~fruit,3314483|WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~berry,13184|WD~berry,13184]]'
+described_by_source: '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]'
 color:
-- '[[_Standards/WikiData/WD~green,3133]]'
-- '[[_Standards/WikiData/WD~brown,47071]]'
+- '[[_Standards/WikiData/WD~green,3133|WD~green,3133]]'
+- '[[_Standards/WikiData/WD~brown,47071|WD~brown,47071]]'
 food_energy: 61
 water_footprint: 514
 PLU_code:

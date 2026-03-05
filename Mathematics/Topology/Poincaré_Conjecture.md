@@ -45,15 +45,15 @@ aliases:
 - 푸앵카레 추측
 has_id_wikidata: Q203586
 instance_of:
-- '[[_Standards/WikiData/WD~theorem,65943]]'
-- '[[_Standards/WikiData/WD~conjecture,319141]]'
-named_after: '[[_Standards/WikiData/WD~Henri_Poincaré,81082]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Henri_Poincaré,81082]]'
-proved_by: '[[_Standards/WikiData/WD~Grigori_Perelman,117346]]'
-studied_by: '[[_Standards/WikiData/WD~algebraic_topology,212803]]'
-part_of: '[[_Standards/WikiData/WD~Millennium_Problems,727000]]'
-uses: '[[_Standards/WikiData/WD~Ricci_flow,1361396]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~theorem,65943|WD~theorem,65943]]'
+- '[[_Standards/WikiData/WD~conjecture,319141|WD~conjecture,319141]]'
+named_after: '[[_Standards/WikiData/WD~Henri_Poincaré,81082|WD~Henri_Poincaré,81082]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Henri_Poincaré,81082|WD~Henri_Poincaré,81082]]'
+proved_by: '[[_Standards/WikiData/WD~Grigori_Perelman,117346|WD~Grigori_Perelman,117346]]'
+studied_by: '[[_Standards/WikiData/WD~algebraic_topology,212803|WD~algebraic_topology,212803]]'
+part_of: '[[_Standards/WikiData/WD~Millennium_Problems,727000|WD~Millennium_Problems,727000]]'
+uses: '[[_Standards/WikiData/WD~Ricci_flow,1361396|WD~Ricci_flow,1361396]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 dv_has_:
   name_:
     af: Poincaré-vermoede

@@ -130,23 +130,23 @@ aliases:
 - 복소수
 has_id_wikidata: Q11567
 subclass_of:
-- '[[_Standards/WikiData/WD~quaternion,173853]]'
-- '[[_Standards/WikiData/WD~ordered_pair,191290]]'
-- '[[_Standards/WikiData/WD~hypercomplex_number,837414]]'
-- '[[_Standards/WikiData/WD~number,11563]]'
-followed_by: '[[_Standards/WikiData/WD~quaternion,173853]]'
+- '[[_Standards/WikiData/WD~quaternion,173853|WD~quaternion,173853]]'
+- '[[_Standards/WikiData/WD~ordered_pair,191290|WD~ordered_pair,191290]]'
+- '[[_Standards/WikiData/WD~hypercomplex_number,837414|WD~hypercomplex_number,837414]]'
+- '[[_Standards/WikiData/WD~number,11563|WD~number,11563]]'
+followed_by: '[[_Standards/WikiData/WD~quaternion,173853|WD~quaternion,173853]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~imaginary_unit,193796]]'
-- '[[_Standards/WikiData/WD~real_part,1156910]]'
-- '[[_Standards/WikiData/WD~imaginary_part,1341545]]'
-- '[[_Standards/WikiData/WD~real_number,12916]]'
-named_by: '[[_Standards/WikiData/WD~Lazare_Carnot,310767]]'
+- '[[_Standards/WikiData/WD~imaginary_unit,193796|WD~imaginary_unit,193796]]'
+- '[[_Standards/WikiData/WD~real_part,1156910|WD~real_part,1156910]]'
+- '[[_Standards/WikiData/WD~imaginary_part,1341545|WD~imaginary_part,1341545]]'
+- '[[_Standards/WikiData/WD~real_number,12916|WD~real_number,12916]]'
+named_by: '[[_Standards/WikiData/WD~Lazare_Carnot,310767|WD~Lazare_Carnot,310767]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~real_part,1156910]]'
-- '[[_Standards/WikiData/WD~imaginary_part,1341545]]'
-- '[[_Standards/WikiData/WD~argument,1780131]]'
-- '[[_Standards/WikiData/WD~magnitude_of_a_complex_number,3317982]]'
-- '[[_Standards/WikiData/WD~absolute_value,4669840]]'
+- '[[_Standards/WikiData/WD~real_part,1156910|WD~real_part,1156910]]'
+- '[[_Standards/WikiData/WD~imaginary_part,1341545|WD~imaginary_part,1341545]]'
+- '[[_Standards/WikiData/WD~argument,1780131|WD~argument,1780131]]'
+- '[[_Standards/WikiData/WD~magnitude_of_a_complex_number,3317982|WD~magnitude_of_a_complex_number,3317982]]'
+- '[[_Standards/WikiData/WD~absolute_value,4669840|WD~absolute_value,4669840]]'
 in_defining_formula:
 - >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle z}">
@@ -194,19 +194,19 @@ in_defining_formula:
       <annotation encoding="application/x-tex">{\displaystyle \mathrm {i} }</annotation>
     </semantics>
   </math>
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~imaginary_number,9165172]]'
-- '[[_Standards/WikiData/WD~real_number,12916]]'
+- '[[_Standards/WikiData/WD~imaginary_number,9165172|WD~imaginary_number,9165172]]'
+- '[[_Standards/WikiData/WD~real_number,12916|WD~real_number,12916]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-part_of: '[[_Standards/WikiData/WD~set_of_complex_numbers,26851286]]'
-facet_of: '[[_Standards/WikiData/WD~dyad,29431432]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_number,47460393]]'
-opposite_of: '[[_Standards/WikiData/WD~real_number,12916]]'
-different_from: '[[_Standards/WikiData/WD~Q28006,28006]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+part_of: '[[_Standards/WikiData/WD~set_of_complex_numbers,26851286|WD~set_of_complex_numbers,26851286]]'
+facet_of: '[[_Standards/WikiData/WD~dyad,29431432|WD~dyad,29431432]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_number,47460393|WD~type_of_number,47460393]]'
+opposite_of: '[[_Standards/WikiData/WD~real_number,12916|WD~real_number,12916]]'
+different_from: '[[_Standards/WikiData/WD~Q28006,28006|WD~Q28006,28006]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20Zenbaki%20konplexuak.webm
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/A%20plus%20bi.svg
 Stack_Exchange_tag:

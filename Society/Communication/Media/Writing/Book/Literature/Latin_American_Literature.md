@@ -34,14 +34,14 @@ aliases:
 - 拉丁美洲文學
 - 라틴 아메리카 문학
 has_id_wikidata: Q1147454
-described_by_source: '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-part_of: '[[_Standards/WikiData/WD~Latin_American_culture,6496275]]'
+described_by_source: '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+part_of: '[[_Standards/WikiData/WD~Latin_American_culture,6496275|WD~Latin_American_culture,6496275]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~El_Comité_1973,53644712]]'
-- '[[_Standards/WikiData/WD~El_Comité,55455579]]'
-instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
-studied_by: '[[_Standards/WikiData/WD~Latin_American_literature,109607886]]'
-different_from: '[[_Standards/WikiData/WD~Latin_American_literature,109607886]]'
+- '[[_Standards/WikiData/WD~El_Comité_1973,53644712|WD~El_Comité_1973,53644712]]'
+- '[[_Standards/WikiData/WD~El_Comité,55455579|WD~El_Comité,55455579]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
+studied_by: '[[_Standards/WikiData/WD~Latin_American_literature,109607886|WD~Latin_American_literature,109607886]]'
+different_from: '[[_Standards/WikiData/WD~Latin_American_literature,109607886|WD~Latin_American_literature,109607886]]'
 Wikimedia_import_URL: https://en.wikipedia.org/wiki/Latin_American_literature
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/LATINOAMERIKANSKAYA_LITERATURA.html
 dv_has_:

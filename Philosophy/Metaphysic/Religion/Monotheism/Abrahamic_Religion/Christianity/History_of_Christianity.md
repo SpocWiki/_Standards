@@ -71,14 +71,14 @@ aliases:
 - 基督教歷史
 - 기독교의 역사
 has_id_wikidata: Q235329
-described_by_source: '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-practiced_by: '[[_Standards/WikiData/WD~church_historian,1743122]]'
-studied_by: '[[_Standards/WikiData/WD~church_history,1800439]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Christianity,8090086]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-different_from: '[[_Standards/WikiData/WD~A_History_of_Christianity,25193795]]'
-subclass_of: '[[_Standards/WikiData/WD~history,309]]'
-facet_of: '[[_Standards/WikiData/WD~Christianity,5043]]'
+described_by_source: '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+practiced_by: '[[_Standards/WikiData/WD~church_historian,1743122|WD~church_historian,1743122]]'
+studied_by: '[[_Standards/WikiData/WD~church_history,1800439|WD~church_history,1800439]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Christianity,8090086|WD~Template_History_of_Christianity,8090086]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+different_from: '[[_Standards/WikiData/WD~A_History_of_Christianity,25193795|WD~A_History_of_Christianity,25193795]]'
+subclass_of: '[[_Standards/WikiData/WD~history,309|WD~history,309]]'
+facet_of: '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
 Provenio_UUID: 9cedd4ad-679c-42e6-af64-06b21ec7e16e
 Commons_category: History of Christianity
 Library_of_Congress_Classification: BR140-BR1510

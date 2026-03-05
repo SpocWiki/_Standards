@@ -56,25 +56,25 @@ Baidu_Tieba_name:
 - 宠物小精灵
 - 精灵宝可梦
 - 神奇宝贝
-instance_of: '[[_Standards/WikiData/WD~media_franchise,196600]]'
+instance_of: '[[_Standards/WikiData/WD~media_franchise,196600|WD~media_franchise,196600]]'
 list_of_characters:
-- '[[_Standards/WikiData/WD~list_of_Pokémon_species,236209]]'
-- '[[_Standards/WikiData/WD~list_of_Pokémon_characters,379199]]'
-founded_by: '[[_Standards/WikiData/WD~Satoshi_Tajiri,295218]]'
+- '[[_Standards/WikiData/WD~list_of_Pokémon_species,236209|WD~list_of_Pokémon_species,236209]]'
+- '[[_Standards/WikiData/WD~list_of_Pokémon_characters,379199|WD~list_of_Pokémon_characters,379199]]'
+founded_by: '[[_Standards/WikiData/WD~Satoshi_Tajiri,295218|WD~Satoshi_Tajiri,295218]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Pokémon_Trading_Card_Game,1056309]]'
-- '[[_Standards/WikiData/WD~Pokémon_video_games,1079748]]'
-- '[[_Standards/WikiData/WD~Pokémon_manga,2883474]]'
-- '[[_Standards/WikiData/WD~Pokémon,97138261]]'
-owned_by: '[[_Standards/WikiData/WD~The_Pokémon_Company,1156046]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Pokémon,6707206]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Pokémon,8485851]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Pokémon,10445733]]'
-takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~Pokémon_universe,17562848]]'
-narrative_location: '[[_Standards/WikiData/WD~Pokémon_world,97051215]]'
-different_from: '[[_Standards/WikiData/WD~Q97375341,97375341]]'
-soundtrack_release: '[[_Standards/WikiData/WD~Pokémon_25_The_Album,110125577]]'
-country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Pokémon_Trading_Card_Game,1056309|WD~Pokémon_Trading_Card_Game,1056309]]'
+- '[[_Standards/WikiData/WD~Pokémon_video_games,1079748|WD~Pokémon_video_games,1079748]]'
+- '[[_Standards/WikiData/WD~Pokémon_manga,2883474|WD~Pokémon_manga,2883474]]'
+- '[[_Standards/WikiData/WD~Pokémon,97138261|WD~Pokémon,97138261]]'
+owned_by: '[[_Standards/WikiData/WD~The_Pokémon_Company,1156046|WD~The_Pokémon_Company,1156046]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Pokémon,6707206|WD~Portal_Pokémon,6707206]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Pokémon,8485851|WD~WikiProject_Pokémon,8485851]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Pokémon,10445733|WD~Template_Pokémon,10445733]]'
+takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~Pokémon_universe,17562848|WD~Pokémon_universe,17562848]]'
+narrative_location: '[[_Standards/WikiData/WD~Pokémon_world,97051215|WD~Pokémon_world,97051215]]'
+different_from: '[[_Standards/WikiData/WD~Q97375341,97375341|WD~Q97375341,97375341]]'
+soundtrack_release: '[[_Standards/WikiData/WD~Pokémon_25_The_Album,110125577|WD~Pokémon_25_The_Album,110125577]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
 social_media_followers:
 - 6400000
 - 7703721

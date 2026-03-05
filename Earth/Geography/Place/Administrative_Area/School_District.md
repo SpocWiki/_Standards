@@ -26,7 +26,7 @@ tags:
 title: is_a_school_district Class
 type: Type
 dv_has_:
-  parent_class: "[[../AdministrativeArea]]"
+  parent_class: "[[../AdministrativeArea|AdministrativeArea]]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
   part_of: https://pending.schema.org
@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/Earth/Geography/Place/Administrative_Area/School_District.personal|School_District.personal]]"
     - "[[/_secret/Earth/Geography/Place/Administrative_Area/School_District.secret|School_District.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../AdministrativeArea]]"
+dv_has_parent_class: "[[../AdministrativeArea|AdministrativeArea]]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
   - "[[/_Standards/Earth/Geography/Place/Administrative_Area/School_District|School_District]]"

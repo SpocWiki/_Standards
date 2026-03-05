@@ -59,23 +59,23 @@ aliases:
 - ガンマ関数
 - 감마 함수
 has_id_wikidata: Q190573
-generalization_of: '[[_Standards/WikiData/WD~factorial,120976]]'
-different_from: '[[_Standards/WikiData/WD~factorial,120976]]'
+generalization_of: '[[_Standards/WikiData/WD~factorial,120976|WD~factorial,120976]]'
+different_from: '[[_Standards/WikiData/WD~factorial,120976|WD~factorial,120976]]'
 instance_of:
-- '[[_Standards/WikiData/WD~meromorphic_function,217616]]'
-- '[[_Standards/WikiData/WD~special_function,867707]]'
-- '[[_Standards/WikiData/WD~function,11348]]'
+- '[[_Standards/WikiData/WD~meromorphic_function,217616|WD~meromorphic_function,217616]]'
+- '[[_Standards/WikiData/WD~special_function,867707|WD~special_function,867707]]'
+- '[[_Standards/WikiData/WD~function,11348|WD~function,11348]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x0393;</mi><mo>&#x2061;</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mi>z</mi><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">=</mo><munderover><mo form="prefix" stretchy="false">&#x222B;</mo><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x221E;</mi></mrow></munderover><msup><mi>t</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>z</mi><mo stretchy="false">&#x2212;</mo><mn>1</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">e</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mi>t</mi></mrow></mrow></msup><mspace width="0.167em"></mspace><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>t</mi></mstyle></mrow></math>
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">e</mi></mrow></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x0393;</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x222B;</mo><mrow data-mjx-texclass="ORD"><mi>a</mi></mrow><mrow data-mjx-texclass="ORD"><mi>b</mi></mrow></munderover></mstyle><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mspace width="0.167em"></mspace><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>x</mi></mstyle></mrow></math>
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Leonhard_Euler,7604]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Leonhard_Euler,7604|WD~Leonhard_Euler,7604]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Complex%20gamma.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/ComplexGamma3Dlog.PNG

@@ -48,7 +48,7 @@ aliases:
 
 # [[Roko's_Basilisk]]  
 
-#is_/similar_to :: [[../../../Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan/Hyperion(Simmons_novel)]] 
+#is_/similar_to :: [[../../../Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan/Hyperion(Simmons_novel)|Hyperion(Simmons_novel)]] 
 
 ## #has_/text_of_/abstract 
 

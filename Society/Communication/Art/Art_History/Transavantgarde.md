@@ -21,8 +21,8 @@ aliases:
 - 超前衛藝術
 - 트랜스아방가르드
 has_id_wikidata: Q224885
-instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
-country: '[[_Standards/WikiData/WD~Italy,38]]'
+instance_of: '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+country: '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
 dv_has_:
   name_:
     ar: ترانس أفانت جارد

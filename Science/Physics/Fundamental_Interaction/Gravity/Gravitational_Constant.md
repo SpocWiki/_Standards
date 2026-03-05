@@ -80,14 +80,14 @@ aliases:
 - 중력 상수
 has_id_wikidata: Q18373
 instance_of:
-- '[[_Standards/WikiData/WD~physical_constant,173227]]'
-- '[[_Standards/WikiData/WD~UCUM_constant,83155724]]'
+- '[[_Standards/WikiData/WD~physical_constant,173227|WD~physical_constant,173227]]'
+- '[[_Standards/WikiData/WD~UCUM_constant,83155724|WD~UCUM_constant,83155724]]'
 different_from:
-- '[[_Standards/WikiData/WD~standard_acceleration_of_free_fall,13400897]]'
-- '[[_Standards/WikiData/WD~gravitational_constant,78337869]]'
-- '[[_Standards/WikiData/WD~gravitational_coupling_constant,32021]]'
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~cubic_metre_per_kilogram_square_second,78336909]]'
-notation: '[[_Standards/WikiData/WD~G,9739]]'
+- '[[_Standards/WikiData/WD~standard_acceleration_of_free_fall,13400897|WD~standard_acceleration_of_free_fall,13400897]]'
+- '[[_Standards/WikiData/WD~gravitational_constant,78337869|WD~gravitational_constant,78337869]]'
+- '[[_Standards/WikiData/WD~gravitational_coupling_constant,32021|WD~gravitational_coupling_constant,32021]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~cubic_metre_per_kilogram_square_second,78336909|WD~cubic_metre_per_kilogram_square_second,78336909]]'
+notation: '[[_Standards/WikiData/WD~G,9739|WD~G,9739]]'
 numeric_value: 6.6743e-11
 IEV_number: 113-03-17
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>G</mi></mstyle></mrow></math>

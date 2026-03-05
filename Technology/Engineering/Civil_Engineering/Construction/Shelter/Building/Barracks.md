@@ -56,19 +56,19 @@ aliases:
 - 軍營
 - 막사
 has_id_wikidata: Q131263
-part_of: '[[_Standards/WikiData/WD~military_base,245016]]'
+part_of: '[[_Standards/WikiData/WD~military_base,245016|WD~military_base,245016]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~military_base,245016]]'
-- '[[_Standards/WikiData/WD~military_building,6852233]]'
-- '[[_Standards/WikiData/WD~government_building,16831714]]'
+- '[[_Standards/WikiData/WD~military_base,245016|WD~military_base,245016]]'
+- '[[_Standards/WikiData/WD~military_building,6852233|WD~military_building,6852233]]'
+- '[[_Standards/WikiData/WD~government_building,16831714|WD~government_building,16831714]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~fire_station,1195942]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Kaserne,16147797]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_barracks,26004242]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~fire_station,1195942|WD~fire_station,1195942]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Kaserne,16147797|WD~Kaserne,16147797]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_barracks,26004242|WD~Template_Infobox_barracks,26004242]]'
 Nomenclature_for_Museum_Cataloging: 734
 OmegaWiki_Defined_Meaning: 1224316
 U_S_National_Archives_Identifier: 10639631

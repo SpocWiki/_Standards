@@ -39,9 +39,9 @@ aliases:
 - 동태평양 해팽
 has_id_wikidata: Q604529
 instance_of:
-- '[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]'
-- '[[_Standards/WikiData/WD~mountain_range,46831]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~mid_ocean_ridge,104698|WD~mid_ocean_ridge,104698]]'
+- '[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
 coordinate_location: Point(-114.5 -20.0)
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/East%20Pacific%20Rise.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/East%20Pacific%20Rise.jpg

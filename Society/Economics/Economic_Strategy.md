@@ -60,12 +60,12 @@ aliases:
 - 전략적 관리
 has_id_wikidata: Q376657
 subclass_of:
-- '[[_Standards/WikiData/WD~management,2920921]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-has_characteristic: '[[_Standards/WikiData/WD~strategic_thinking,7621861]]'
-uses: '[[_Standards/WikiData/WD~strategic_management_process,30673599]]'
-practiced_by: '[[_Standards/WikiData/WD~strategic_manager,38357345]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_management,96247293]]'
+- '[[_Standards/WikiData/WD~management,2920921|WD~management,2920921]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+has_characteristic: '[[_Standards/WikiData/WD~strategic_thinking,7621861|WD~strategic_thinking,7621861]]'
+uses: '[[_Standards/WikiData/WD~strategic_management_process,30673599|WD~strategic_management_process,30673599]]'
+practiced_by: '[[_Standards/WikiData/WD~strategic_manager,38357345|WD~strategic_manager,38357345]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_management,96247293|WD~type_of_management,96247293]]'
 All_Science_Journal_Classification_Codes: 1408
 Wikimedia_import_URL: https://en.wikipedia.org/wiki/Strategic_management
 Commons_category: Strategic management
@@ -139,7 +139,7 @@ dv_has_:
 
 # [[Economic_Strategy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~strategic_management,376657]] 
+#is_/same_as :: [[_Standards/WikiData/WD~strategic_management,376657|WD~strategic_management,376657]] 
 
 ## #has_/text_of_/abstract 
 

@@ -27,9 +27,9 @@ tags:
 title: is_an_event_rescheduled Class
 type: Type
 dv_has_:
-  parent_class: "[[../EventStatusType]]"
+  parent_class: "[[../EventStatusType|EventStatusType]]"
 dv_is_:
-  enum_of: "[[../EventStatusType]]"
+  enum_of: "[[../EventStatusType|EventStatusType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled|Event_Rescheduled]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.public|Event_Rescheduled.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.personal|Event_Rescheduled.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.secret|Event_Rescheduled.secret]]"
     - "[[Event_Rescheduled]]"
-dv_has_parent_class: "[[../EventStatusType]]"
-dv_is_enum_of: "[[../EventStatusType]]"
+dv_has_parent_class: "[[../EventStatusType|EventStatusType]]"
+dv_is_enum_of: "[[../EventStatusType|EventStatusType]]"
 dv_is_same_as:
   - "[[Event_Rescheduled]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.public|Event_Rescheduled.public]]"

@@ -26,7 +26,7 @@ tags:
 title: is_a_rsvp_response_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type|Rsvp_Response_Type]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Rsvp_Response_Type.personal|Rsvp_Response_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Rsvp_Response_Type.secret|Rsvp_Response_Type.secret]]"
     - "[[Rsvp_Response_Type]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Rsvp_Response_Type]]"
   - "[[/_public/schema-org/Enumeration/Rsvp_Response_Type.public|Rsvp_Response_Type.public]]"

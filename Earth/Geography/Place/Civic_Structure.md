@@ -26,7 +26,7 @@ tags:
 title: is_a_civic_structure Class
 type: Type
 dv_has_:
-  parent_class: "[[../Place]]"
+  parent_class: "[[../Place|Place]]"
   child_class: "[ Airport, Aquarium, Beach, BoatTerminal, Bridge, BusStation, BusStop, Campground, Cemetery, Crematorium, EducationalOrganization, EventVenue, FireStation, GovernmentBuilding, Hospital, MovieTheater, Museum, MusicVenue, Park, ParkingFacility, PerformingArtsTheater, PlaceOfWorship, Playground, PoliceStation, PublicToilet, RVPark, StadiumOrArena, SubwayStation, TaxiStand, TrainStation, Zoo ]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_private/Earth/Geography/Place/Civic_Structure.private|Civic_Structure.private]]"
     - "[[/_personal/Earth/Geography/Place/Civic_Structure.personal|Civic_Structure.personal]]"
     - "[[/_secret/Earth/Geography/Place/Civic_Structure.secret|Civic_Structure.secret]]"
-dv_has_parent_class: "[[../Place]]"
+dv_has_parent_class: "[[../Place|Place]]"
 dv_has_child_class: "[ Airport, Aquarium, Beach, BoatTerminal, Bridge, BusStation, BusStop, Campground, Cemetery, Crematorium, EducationalOrganization, EventVenue, FireStation, GovernmentBuilding, Hospital, MovieTheater, Museum, MusicVenue, Park, ParkingFacility, PerformingArtsTheater, PlaceOfWorship, Playground, PoliceStation, PublicToilet, RVPark, StadiumOrArena, SubwayStation, TaxiStand, TrainStation, Zoo ]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:

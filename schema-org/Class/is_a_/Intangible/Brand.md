@@ -35,7 +35,7 @@ dv_is_:
     - "[[Brand]]"
 dv_has_:
   parent_class:
-    - "[[../Intangible]]"
+    - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[Rating/Aggregate_Rating|Aggregate_Rating]]"
@@ -54,7 +54,7 @@ dv_has_:
     - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
     - "[[../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../Intangible]]"
+  - "[[../Intangible|Intangible]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[Rating/Aggregate_Rating|Aggregate_Rating]]"

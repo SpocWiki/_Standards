@@ -115,27 +115,27 @@ aliases:
   - 가톨릭교
 has_id_wikidata: Q1841
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Independent_Catholicism,159108]]"
-  - "[[_Standards/WikiData/WD~Old_Catholics,5169816]]"
-  - "[[_Standards/WikiData/WD~folk_Catholicism,5464420]]"
-  - "[[_Standards/WikiData/WD~Liberal_Catholic_movement,6540599]]"
-  - "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
+  - "[[_Standards/WikiData/WD~Independent_Catholicism,159108|WD~Independent_Catholicism,159108]]"
+  - "[[_Standards/WikiData/WD~Old_Catholics,5169816|WD~Old_Catholics,5169816]]"
+  - "[[_Standards/WikiData/WD~folk_Catholicism,5464420|WD~folk_Catholicism,5464420]]"
+  - "[[_Standards/WikiData/WD~Liberal_Catholic_movement,6540599|WD~Liberal_Catholic_movement,6540599]]"
+  - "[[_Standards/WikiData/WD~Catholic_Church,9592|WD~Catholic_Church,9592]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~Western_Christianity,842798]]"
-  - "[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500]]"
-Christian_liturgical_rite: "[[_Standards/WikiData/WD~Catholic_liturgical_rite,1049377]]"
-opposite_of: "[[_Standards/WikiData/WD~anti_Catholicism,1063123]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Catholic_Church_footer,6866551]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Catholic_Church,7779176]]"
-practiced_by: "[[_Standards/WikiData/WD~Catholic,17549077]]"
-different_from: "[[_Standards/WikiData/WD~Catholicism,38455700]]"
+  - "[[_Standards/WikiData/WD~Western_Christianity,842798|WD~Western_Christianity,842798]]"
+  - "[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500|WD~Chalcedonian_Christianity,2711500]]"
+Christian_liturgical_rite: "[[_Standards/WikiData/WD~Catholic_liturgical_rite,1049377|WD~Catholic_liturgical_rite,1049377]]"
+opposite_of: "[[_Standards/WikiData/WD~anti_Catholicism,1063123|WD~anti_Catholicism,1063123]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Catholic_Church_footer,6866551|WD~Template_Catholic_Church_footer,6866551]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Catholic_Church,7779176|WD~Portal_Catholic_Church,7779176]]"
+practiced_by: "[[_Standards/WikiData/WD~Catholic,17549077|WD~Catholic,17549077]]"
+different_from: "[[_Standards/WikiData/WD~Catholicism,38455700|WD~Catholicism,38455700]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~religion_or_world_view,71966963]]"
-  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
+  - "[[_Standards/WikiData/WD~religion_or_world_view,71966963|WD~religion_or_world_view,71966963]]"
+  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246|WD~Christian_denominational_family,123129246]]"
 inception:
   - 1054-01-01T00:00:00Z
   - 0033-01-01T00:00:00Z

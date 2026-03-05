@@ -26,10 +26,10 @@ title: is_a_place Class
 type: Type
 dv_has_:
   sub_classes:
-    - "[[Place/Accommodation]]"
+    - "[[Place/Accommodation|Accommodation]]"
     - "[[Place/Administrative_Area|Administrative_Area]]"
     - "[[Place/Civic_Structure|Civic_Structure]]"
-    - "[[../Geology/Landform]]"
+    - "[[../Geology/Landform|Landform]]"
     - "[[Place/Landmarks_or_Historical_Buildings|Landmarks_or_Historical_Buildings]]"
     - "[[../../Society/Agent/Community/Organization/Business/Local_Business|Local_Business]]"
     - "[[Place/Residence|Residence]]"
@@ -48,10 +48,10 @@ dv_is_:
     - "[[/_secret/Earth/Geography/Place.secret|Place.secret]]"
 dv_has_parent_class: "[[../../schema-org/Class/Thing|Thing]]"
 dv_has_child_class:
-  - "[[Place/Accommodation]]"
+  - "[[Place/Accommodation|Accommodation]]"
   - "[[Place/Administrative_Area|Administrative_Area]]"
   - "[[Place/Civic_Structure|Civic_Structure]]"
-  - "[[../Geology/Landform]]"
+  - "[[../Geology/Landform|Landform]]"
   - "[[Place/Landmarks_or_Historical_Buildings|Landmarks_or_Historical_Buildings]]"
   - "[[../../Society/Agent/Community/Organization/Business/Local_Business|Local_Business]]"
   - "[[Place/Residence|Residence]]"

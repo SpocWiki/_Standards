@@ -65,22 +65,22 @@ aliases:
 - 중사
 has_id_wikidata: Q157696
 subclass_of:
-- '[[_Standards/WikiData/WD~non_commissioned_officer,158950]]'
-- '[[_Standards/WikiData/WD~soldier,4991371]]'
+- '[[_Standards/WikiData/WD~non_commissioned_officer,158950|WD~non_commissioned_officer,158950]]'
+- '[[_Standards/WikiData/WD~soldier,4991371|WD~soldier,4991371]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
 next_lower_rank:
-- '[[_Standards/WikiData/WD~master_corporal,2937535]]'
-- '[[_Standards/WikiData/WD~junior_sergeant,4298666]]'
-- '[[_Standards/WikiData/WD~platoon_leader,13422019]]'
+- '[[_Standards/WikiData/WD~master_corporal,2937535|WD~master_corporal,2937535]]'
+- '[[_Standards/WikiData/WD~junior_sergeant,4298666|WD~junior_sergeant,4298666]]'
+- '[[_Standards/WikiData/WD~platoon_leader,13422019|WD~platoon_leader,13422019]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~maréchal_des_logis,6781898]]'
-- '[[_Standards/WikiData/WD~Sergeant,11393706]]'
-next_higher_rank: '[[_Standards/WikiData/WD~senior_sergeant,12335006]]'
-NATO_code_for_grade: '[[_Standards/WikiData/WD~OR_5,23013237]]'
-honorific_prefix: '[[_Standards/WikiData/WD~Sergeant,124257638]]'
-instance_of: '[[_Standards/WikiData/WD~military_rank,56019]]'
+- '[[_Standards/WikiData/WD~maréchal_des_logis,6781898|WD~maréchal_des_logis,6781898]]'
+- '[[_Standards/WikiData/WD~Sergeant,11393706|WD~Sergeant,11393706]]'
+next_higher_rank: '[[_Standards/WikiData/WD~senior_sergeant,12335006|WD~senior_sergeant,12335006]]'
+NATO_code_for_grade: '[[_Standards/WikiData/WD~OR_5,23013237|WD~OR_5,23013237]]'
+honorific_prefix: '[[_Standards/WikiData/WD~Sergeant,124257638|WD~Sergeant,124257638]]'
+instance_of: '[[_Standards/WikiData/WD~military_rank,56019|WD~military_rank,56019]]'
 U_S_National_Archives_Identifier: 10664684
 IPA_transcription: /ˈsɑɹ.d͡ʒənt/
 Commons_category: Sergeants

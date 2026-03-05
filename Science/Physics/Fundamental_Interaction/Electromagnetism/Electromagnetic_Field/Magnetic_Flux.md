@@ -72,18 +72,18 @@ aliases:
 - 자기 선속
 has_id_wikidata: Q177831
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~weber,170804]]'
-- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second_ampere,118539928]]'
-instance_of: '[[_Standards/WikiData/WD~flux,6485344]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~weber,170804|WD~weber,170804]]'
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second_ampere,118539928|WD~kilogram_square_metre_per_square_second_ampere,118539928]]'
+instance_of: '[[_Standards/WikiData/WD~flux,6485344|WD~flux,6485344]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936|WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945|WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A8</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>"
 in_defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msub><mstyle displaystyle=\"true\"><mo>&#x222E;</mo></mstyle><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A2</mi></mrow></mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46D</mi></mrow><mo stretchy=\"false\">&#x22C5;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5BD</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D493</mi></mrow></mstyle></mrow></math>"
@@ -96,7 +96,7 @@ in_defining_formula:
 defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mi mathvariant=\"normal\">&#x03A6;</mi><mo stretchy=\"false\">=</mo><msub><mstyle displaystyle=\"true\"><mo>&#x222E;</mo></mstyle><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A2</mi></mrow></mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D468</mi></mrow><mo stretchy=\"false\">&#x22C5;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5BD</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D493</mi></mrow></mstyle></mrow></math>"
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mi mathvariant=\"normal\">&#x03A6;</mi><mo stretchy=\"false\">=</mo><munder><mo stretchy=\"false\">&#x222B;</mo><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B2</mi></mrow></mrow></munder><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D469</mi></mrow><mo stretchy=\"false\">&#x22C5;</mo><msub><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D486</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">n</mi></mrow></mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">d</mi></mrow><mi>A</mi></mstyle></mrow></math>"
-part_of: '[[_Standards/WikiData/WD~electromagnetism,11406]]'
+part_of: '[[_Standards/WikiData/WD~electromagnetism,11406|WD~electromagnetism,11406]]'
 OmegaWiki_Defined_Meaning: 772702
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FlujoMagnetico.svg
 IEV_number: 121-11-21

@@ -43,11 +43,11 @@ aliases:
 - 超對稱
 - 초대칭
 has_id_wikidata: Q193442
-part_of: '[[_Standards/WikiData/WD~modern_physics,658544]]'
-instance_of: '[[_Standards/WikiData/WD~scientific_hypothesis,3144351]]'
+part_of: '[[_Standards/WikiData/WD~modern_physics,658544|WD~modern_physics,658544]]'
+instance_of: '[[_Standards/WikiData/WD~scientific_hypothesis,3144351|WD~scientific_hypothesis,3144351]]'
 studied_by:
-- '[[_Standards/WikiData/WD~theoretical_physics,18362]]'
-- '[[_Standards/WikiData/WD~quantum_field_theory,54505]]'
+- '[[_Standards/WikiData/WD~theoretical_physics,18362|WD~theoretical_physics,18362]]'
+- '[[_Standards/WikiData/WD~quantum_field_theory,54505|WD~quantum_field_theory,54505]]'
 Commons_category: Supersymmetry
 short_name: SUSY
 Stack_Exchange_tag:

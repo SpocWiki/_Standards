@@ -67,11 +67,11 @@ aliases:
 - 计算机硬体历史
 - 컴퓨터의 역사
 has_id_wikidata: Q186148
-part_of: '[[_Standards/WikiData/WD~history_of_computing,2735691]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+part_of: '[[_Standards/WikiData/WD~history_of_computing,2735691|WD~history_of_computing,2735691]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
 facet_of:
-- '[[_Standards/WikiData/WD~computer_hardware,3966]]'
-- '[[_Standards/WikiData/WD~computer,68]]'
+- '[[_Standards/WikiData/WD~computer_hardware,3966|WD~computer_hardware,3966]]'
+- '[[_Standards/WikiData/WD~computer,68|WD~computer,68]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Glen%20Beck%20and%20Betty%20Snyder%20program%20the%20ENIAC%20in%20building%20328%20at%20the%20Ballistic%20Research%20Laboratory.jpg
 Commons_category: Mechanical calculators
 dv_has_:

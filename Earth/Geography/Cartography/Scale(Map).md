@@ -58,25 +58,25 @@ aliases:
 - 축척
 has_id_wikidata: Q193642
 has_use:
-- '[[_Standards/WikiData/WD~globe,133792]]'
-- '[[_Standards/WikiData/WD~cartographic_plan,366511]]'
-- '[[_Standards/WikiData/WD~topographic_profile,1287293]]'
-- '[[_Standards/WikiData/WD~map,4006]]'
+- '[[_Standards/WikiData/WD~globe,133792|WD~globe,133792]]'
+- '[[_Standards/WikiData/WD~cartographic_plan,366511|WD~cartographic_plan,366511]]'
+- '[[_Standards/WikiData/WD~topographic_profile,1287293|WD~topographic_profile,1287293]]'
+- '[[_Standards/WikiData/WD~map,4006|WD~map,4006]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~scale,10858537]]'
-subclass_of: '[[_Standards/WikiData/WD~scale,10858537]]'
-different_from: '[[_Standards/WikiData/WD~zoom_level,127513458]]'
-part_of: '[[_Standards/WikiData/WD~cartography,42515]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~scale,10858537|WD~scale,10858537]]'
+subclass_of: '[[_Standards/WikiData/WD~scale,10858537|WD~scale,10858537]]'
+different_from: '[[_Standards/WikiData/WD~zoom_level,127513458|WD~zoom_level,127513458]]'
+part_of: '[[_Standards/WikiData/WD~cartography,42515|WD~cartography,42515]]'
 Commons_category: Scales (ratio)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Diego-homem-black-sea-ancient-map-1559.jpg
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Scale,193642]]'
+  - '[[../../../WikiData/WD~Scale,193642|WD~Scale,193642]]'
   - '[[/_Standards/Earth/Geography/Cartography/Scale(Map)|Scale(Map)]]'
   - '[[/_public/Earth/Geography/Cartography/Scale(Map).public|Scale(Map).public]]'
   - '[[/_internal/Earth/Geography/Cartography/Scale(Map).internal|Scale(Map).internal]]'
@@ -85,7 +85,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Cartography/Scale(Map).personal|Scale(Map).personal]]'
   - '[[/_secret/Earth/Geography/Cartography/Scale(Map).secret|Scale(Map).secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Scale,193642]]'
+- '[[../../../WikiData/WD~Scale,193642|WD~Scale,193642]]'
 - '[[/_Standards/Earth/Geography/Cartography/Scale(Map)|Scale(Map)]]'
 - '[[/_public/Earth/Geography/Cartography/Scale(Map).public|Scale(Map).public]]'
 - '[[/_internal/Earth/Geography/Cartography/Scale(Map).internal|Scale(Map).internal]]'

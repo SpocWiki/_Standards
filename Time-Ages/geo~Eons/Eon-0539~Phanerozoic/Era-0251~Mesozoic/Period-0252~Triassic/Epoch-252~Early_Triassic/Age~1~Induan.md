@@ -25,19 +25,19 @@ aliases:
 - 인두아절
 has_id_wikidata: Q855153
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Induan,21708767]]'
-significant_place: '[[_Standards/WikiData/WD~Q28832371,28832371]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Induan,21708767|WD~Category_Induan,21708767]]'
+significant_place: '[[_Standards/WikiData/WD~Q28832371,28832371|WD~Q28832371,28832371]]'
 named_by:
-- '[[_Standards/WikiData/WD~Liubov_Dmitrievna_Kiparisova,54605830]]'
-- '[[_Standards/WikiData/WD~Yuri_Nikolaevich_Popov,119138054]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Induan,134385243]]'
+- '[[_Standards/WikiData/WD~Liubov_Dmitrievna_Kiparisova,54605830|WD~Liubov_Dmitrievna_Kiparisova,54605830]]'
+- '[[_Standards/WikiData/WD~Yuri_Nikolaevich_Popov,119138054|WD~Yuri_Nikolaevich_Popov,119138054]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Induan,134385243|WD~GSSP_for_the_base_of_the_Induan,134385243]]'
 coordinate_location: Point(119.70583333 31.07972222)
 start_time: -251902000-01-01T00:00:00Z
 end_time: -251200000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Indus_River,7348]]'
+named_after: '[[_Standards/WikiData/WD~Indus_River,7348|WD~Indus_River,7348]]'
 sRGB_color_hex_triplet: B861A0
 dv_has_:
   duration_:

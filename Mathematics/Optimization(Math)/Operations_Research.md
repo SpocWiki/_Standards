@@ -61,14 +61,14 @@ aliases:
 - 운용과학
 has_id_wikidata: Q194292
 subclass_of:
-- '[[_Standards/WikiData/WD~systems_science,2167061]]'
-- '[[_Standards/WikiData/WD~management_science,2414942]]'
-- '[[_Standards/WikiData/WD~industrial_engineering_and_operations_research,6027873]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~systems_science,2167061|WD~systems_science,2167061]]'
+- '[[_Standards/WikiData/WD~management_science,2414942|WD~management_science,2414942]]'
+- '[[_Standards/WikiData/WD~industrial_engineering_and_operations_research,6027873|WD~industrial_engineering_and_operations_research,6027873]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~management_technique,118298890]]'
-practiced_by: '[[_Standards/WikiData/WD~operations_researcher,112114257]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~management_technique,118298890|WD~management_technique,118298890]]'
+practiced_by: '[[_Standards/WikiData/WD~operations_researcher,112114257|WD~operations_researcher,112114257]]'
 Library_of_Congress_Classification: T57.6-T57.97
 Dewey_Decimal_Classification:
 - 003

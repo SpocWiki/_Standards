@@ -31,19 +31,19 @@ aliases:
 - 數獨
 - 스도쿠
 has_id_wikidata: Q44914
-based_on: '[[_Standards/WikiData/WD~Latin_square,679367]]'
+based_on: '[[_Standards/WikiData/WD~Latin_square,679367|WD~Latin_square,679367]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mind_sport,1188693]]'
-- '[[_Standards/WikiData/WD~puzzle,13698]]'
+- '[[_Standards/WikiData/WD~mind_sport,1188693|WD~mind_sport,1188693]]'
+- '[[_Standards/WikiData/WD~puzzle,13698|WD~puzzle,13698]]'
 instance_of:
-- '[[_Standards/WikiData/WD~mind_sport,1188693]]'
-- '[[_Standards/WikiData/WD~logic_puzzle,1774662]]'
-- '[[_Standards/WikiData/WD~riddle,47054]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Howard_Garns,1631817]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-different_from: '[[_Standards/WikiData/WD~Kaodoku,47004782]]'
-genre: '[[_Standards/WikiData/WD~puzzle,13698]]'
+- '[[_Standards/WikiData/WD~mind_sport,1188693|WD~mind_sport,1188693]]'
+- '[[_Standards/WikiData/WD~logic_puzzle,1774662|WD~logic_puzzle,1774662]]'
+- '[[_Standards/WikiData/WD~riddle,47054|WD~riddle,47054]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Howard_Garns,1631817|WD~Howard_Garns,1631817]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~Kaodoku,47004782|WD~Kaodoku,47004782]]'
+genre: '[[_Standards/WikiData/WD~puzzle,13698|WD~puzzle,13698]]'
 social_media_followers: 16615
 OmegaWiki_Defined_Meaning: 715964
 Commons_category: Sudoku

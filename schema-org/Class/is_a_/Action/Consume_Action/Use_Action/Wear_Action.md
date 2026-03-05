@@ -37,7 +37,7 @@ dv_is_:
     - "[[Wear_Action]]"
 dv_has_:
   parent_class:
-    - "[[../UseAction]]"
+    - "[[../UseAction|UseAction]]"
   properties:
     - "[[../../../../../Relation/has/has_action/has_action_accessibility_requirement|has_action_accessibility_requirement]]"
     - "[[../../../../../Relation/has/has_action/has_action_status|has_action_status]]"
@@ -66,7 +66,7 @@ dv_has_:
     - "[[../../../../../Relation/has/has_target|has_target]]"
     - "[[../../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../use_action|../use_action]]"
+  - "[[../use_action|../use_action|use_action]]"
 dv_has_properties:
   - "[[../../../../../Relation/has/has_action/has_action_accessibility_requirement|has_action_accessibility_requirement]]"
   - "[[../../../../../Relation/has/has_action/has_action_status|has_action_status]]"

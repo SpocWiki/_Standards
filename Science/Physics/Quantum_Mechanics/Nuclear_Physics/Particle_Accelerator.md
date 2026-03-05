@@ -73,14 +73,14 @@ aliases:
 - 粒子加速器
 - 입자 가속기
 has_id_wikidata: Q130825
-instance_of: '[[_Standards/WikiData/WD~nuclear_technology,348091]]'
-part_of: '[[_Standards/WikiData/WD~accelerator_physics,492496]]'
+instance_of: '[[_Standards/WikiData/WD~nuclear_technology,348091|WD~nuclear_technology,348091]]'
+part_of: '[[_Standards/WikiData/WD~accelerator_physics,492496|WD~accelerator_physics,492496]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~appliance,1183543]]'
-- '[[_Standards/WikiData/WD~facility,13226383]]'
-uses: '[[_Standards/WikiData/WD~dipole_magnet,1227285]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_particle_accelerator,112718706]]'
-described_by_source: '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
+- '[[_Standards/WikiData/WD~appliance,1183543|WD~appliance,1183543]]'
+- '[[_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
+uses: '[[_Standards/WikiData/WD~dipole_magnet,1227285|WD~dipole_magnet,1227285]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_particle_accelerator,112718706|WD~Template_Infobox_particle_accelerator,112718706]]'
+described_by_source: '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836|WD~Dictionnaire_des_biens_communs,120799836]]'
 Nomenclature_for_Museum_Cataloging: 9904
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fermilab.jpg
 U_S_National_Archives_Identifier: 10641468

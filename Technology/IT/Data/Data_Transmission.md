@@ -72,10 +72,10 @@ aliases:
 - 資料傳輸
 - 데이터 전송
 has_id_wikidata: Q389772
-subclass_of: '[[_Standards/WikiData/WD~transmission,118093]]'
-has_characteristic: '[[_Standards/WikiData/WD~payload,1424639]]'
-instance_of: '[[_Standards/WikiData/WD~academic_major,4671286]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~forwarding,24895239]]'
+subclass_of: '[[_Standards/WikiData/WD~transmission,118093|WD~transmission,118093]]'
+has_characteristic: '[[_Standards/WikiData/WD~payload,1424639|WD~payload,1424639]]'
+instance_of: '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~forwarding,24895239|WD~forwarding,24895239]]'
 Stack_Exchange_tag: https://stackoverflow.com/tags/data-transfer
 IEV_number: 701-01-13
 Commons_category: Data transmission

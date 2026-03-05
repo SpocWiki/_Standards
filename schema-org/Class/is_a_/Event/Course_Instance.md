@@ -37,7 +37,7 @@ dv_is_:
     - "[[Course_Instance]]"
 dv_has_:
   parent_class:
-    - "[[../Event]]"
+    - "[[../Event|Event]]"
   properties:
     - "[[about|about]]"
     - "[[../../../Relation/has/has_actor|has_actor]]"
@@ -96,7 +96,7 @@ dv_has_:
     - "[[../../../Relation/has/has_work/has_work_featured|has_work_featured]]"
     - "[[../../../Relation/has/has_work/has_work_performed|has_work_performed]]"
 dv_has_parent_class:
-  - "[[../Event]]"
+  - "[[../Event|Event]]"
 dv_has_properties:
   - "[[about|about]]"
   - "[[../../../Relation/has/has_actor|has_actor]]"
@@ -169,7 +169,7 @@ Class of all course_instances.
 Tag Instances like this: 
 #is_a_/course_instance
 
-An instance of a [[../../../../Society/Communication/Media/Creative_Work/Course]] which is distinct from other instances because it is offered at a different time or location or through different media or modes of study or to a specific section of students.
+An instance of a [[../../../../Society/Communication/Media/Creative_Work/Course|Course]] which is distinct from other instances because it is offered at a different time or location or through different media or modes of study or to a specific section of students.
 
 has_parent_class = `=this.dv_has_parent_class` 
 

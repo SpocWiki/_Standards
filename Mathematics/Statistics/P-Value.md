@@ -40,11 +40,11 @@ aliases:
 - പി-മൂല്യം (സ്ഥിതിവിവരഗണിതം)
 - 유의 확률
 has_id_wikidata: Q253255
-facet_of: '[[_Standards/WikiData/WD~statistical_test,210832]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
-subclass_of: '[[_Standards/WikiData/WD~probability,9492]]'
-instance_of: '[[_Standards/WikiData/WD~function,11348]]'
+facet_of: '[[_Standards/WikiData/WD~statistical_test,210832|WD~statistical_test,210832]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641|WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
+subclass_of: '[[_Standards/WikiData/WD~probability,9492|WD~probability,9492]]'
+instance_of: '[[_Standards/WikiData/WD~function,11348|WD~function,11348]]'
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/P-value%20in%20statistical%20significance%20testing-it.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/P-value%20in%20statistical%20significance%20testing.svg

@@ -92,209 +92,209 @@ aliases:
 - "\U0001033B\U00010339\U00010345\U00010330 \U00010344\U00010330\U0001033F\U0001033B\U00010343\U00010344\U00010330\U0001033F\U0001033E"
 has_id_wikidata: Q7243
 ArhivX_LOD: 16435
-artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390|WD~Frick_Art_Research_Library,5503390]]'
 audio_recording_of_the_subject_s_spoken_voice:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Leo%20Tolstoy%20-%20Qu%E2%80%99est%20ce%20qu%E2%80%99est%20le%20religion.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Tolstoy%20Vremya%20prishlo.ogg
 award_received:
-- '[[_Standards/WikiData/WD~Medal_For_defence_of_Sebastopol,1131478]]'
-- '[[_Standards/WikiData/WD~Medal_In_memory_of_50th_anniversary_of_defence_of_Sevastopol,4286775]]'
-- '[[_Standards/WikiData/WD~Medal_In_memory_of_Crimean_War,4286780]]'
-- '[[_Standards/WikiData/WD~Order_of_Saint_Anna,_4th_class,15972373]]'
+- '[[_Standards/WikiData/WD~Medal_For_defence_of_Sebastopol,1131478|WD~Medal_For_defence_of_Sebastopol,1131478]]'
+- '[[_Standards/WikiData/WD~Medal_In_memory_of_50th_anniversary_of_defence_of_Sevastopol,4286775|WD~Medal_In_memory_of_50th_anniversary_of_defence_of_Sevastopol,4286775]]'
+- '[[_Standards/WikiData/WD~Medal_In_memory_of_Crimean_War,4286780|WD~Medal_In_memory_of_Crimean_War,4286780]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Anna,_4th_class,15972373|WD~Order_of_Saint_Anna,_4th_class,15972373]]'
 BHCL_UUID: b5ab56e6-4586-4946-972c-3dbb023da8f7
-cause_of_death: '[[_Standards/WikiData/WD~pneumonia,12192]]'
+cause_of_death: '[[_Standards/WikiData/WD~pneumonia,12192|WD~pneumonia,12192]]'
 child:
-- '[[_Standards/WikiData/WD~Lev_Lvovich_Tolstoy,1152362]]'
-- '[[_Standards/WikiData/WD~Alexandra_Tolstaya,3609559]]'
-- '[[_Standards/WikiData/WD~Ilya_Tolstoy,3792538]]'
-- "[[_Standards/WikiData/WD~Maria_L'vovna_Tolstaya,3847918]]"
-- '[[_Standards/WikiData/WD~Sergey_Tolstoy,3955946]]'
-- '[[_Standards/WikiData/WD~Tatyana_Sukhotina-Tolstaya,3981441]]'
-- '[[_Standards/WikiData/WD~Andrey_Tolstoy,60837083]]'
-- '[[_Standards/WikiData/WD~Mikhail_Tolstoy,65150192]]'
+- '[[_Standards/WikiData/WD~Lev_Lvovich_Tolstoy,1152362|WD~Lev_Lvovich_Tolstoy,1152362]]'
+- '[[_Standards/WikiData/WD~Alexandra_Tolstaya,3609559|WD~Alexandra_Tolstaya,3609559]]'
+- '[[_Standards/WikiData/WD~Ilya_Tolstoy,3792538|WD~Ilya_Tolstoy,3792538]]'
+- "[[_Standards/WikiData/WD~Maria_L'vovna_Tolstaya,3847918|WD~Maria_L'vovna_Tolstaya,3847918]]"
+- '[[_Standards/WikiData/WD~Sergey_Tolstoy,3955946|WD~Sergey_Tolstoy,3955946]]'
+- '[[_Standards/WikiData/WD~Tatyana_Sukhotina-Tolstaya,3981441|WD~Tatyana_Sukhotina-Tolstaya,3981441]]'
+- '[[_Standards/WikiData/WD~Andrey_Tolstoy,60837083|WD~Andrey_Tolstoy,60837083]]'
+- '[[_Standards/WikiData/WD~Mikhail_Tolstoy,65150192|WD~Mikhail_Tolstoy,65150192]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20house%20of%20Tolstoy%20%282%29.svg
 Commons_category: Leo Tolstoy
 Commons_Creator_page: Leo Tolstoy
 Commons_gallery: Leo Tolstoy
-convicted_of: '[[_Standards/WikiData/WD~heresy,160598]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+convicted_of: '[[_Standards/WikiData/WD~heresy,160598|WD~heresy,160598]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
 date_of_birth: 1828-09-09
 date_of_death: 1910-11-20
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
-- '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
-- '[[_Standards/WikiData/WD~Russian_writers__XIX_c._2_2_,125555366]]'
-- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
-different_from: '[[_Standards/WikiData/WD~Lev_Lvovich_Tolstoy,1152362]]'
-documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
-educated_at: '[[_Standards/WikiData/WD~Kazan_Imperial_University,28482293]]'
-employer: '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850|WD~Concise_Literary_Encyclopedia,4239850]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835|WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511|WD~Faces_of_Moscow,28666511]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897|WD~Medvik,99413897]]'
+- "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747|WD~Albert_Edelfelt's_letters,116452747]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+- '[[_Standards/WikiData/WD~ProDetLit,124821483|WD~ProDetLit,124821483]]'
+- '[[_Standards/WikiData/WD~Russian_writers__XIX_c._2_2_,125555366|WD~Russian_writers__XIX_c._2_2_,125555366]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605|WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+different_from: '[[_Standards/WikiData/WD~Lev_Lvovich_Tolstoy,1152362|WD~Lev_Lvovich_Tolstoy,1152362]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+educated_at: '[[_Standards/WikiData/WD~Kazan_Imperial_University,28482293|WD~Kazan_Imperial_University,28482293]]'
+employer: '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832|WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
 Europeana_entity: agent/base/109169
-family: '[[_Standards/WikiData/WD~House_of_Tolstoy,1258710]]'
-family_name: '[[_Standards/WikiData/WD~Tolstoy,29534678]]'
-father: '[[_Standards/WikiData/WD~Nikolay_Tolstoy,4459962]]'
+family: '[[_Standards/WikiData/WD~House_of_Tolstoy,1258710|WD~House_of_Tolstoy,1258710]]'
+family_name: '[[_Standards/WikiData/WD~Tolstoy,29534678|WD~Tolstoy,29534678]]'
+father: '[[_Standards/WikiData/WD~Nikolay_Tolstoy,4459962|WD~Nikolay_Tolstoy,4459962]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~opinion_journalism,156035]]'
-- '[[_Standards/WikiData/WD~fiction,8253972]]'
-- '[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]'
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-- '[[_Standards/WikiData/WD~pedagogy,7922]]'
-- '[[_Standards/WikiData/WD~drama,25372]]'
+- '[[_Standards/WikiData/WD~opinion_journalism,156035|WD~opinion_journalism,156035]]'
+- '[[_Standards/WikiData/WD~fiction,8253972|WD~fiction,8253972]]'
+- '[[_Standards/WikiData/WD~creative_and_professional_writing,113209507|WD~creative_and_professional_writing,113209507]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~pedagogy,7922|WD~pedagogy,7922]]'
+- '[[_Standards/WikiData/WD~drama,25372|WD~drama,25372]]'
 genre:
-- '[[_Standards/WikiData/WD~short_novel,12799318]]'
-- '[[_Standards/WikiData/WD~drama,25372]]'
-- '[[_Standards/WikiData/WD~short_story,49084]]'
-given_name: '[[_Standards/WikiData/WD~Lev,42373577]]'
+- '[[_Standards/WikiData/WD~short_novel,12799318|WD~short_novel,12799318]]'
+- '[[_Standards/WikiData/WD~drama,25372|WD~drama,25372]]'
+- '[[_Standards/WikiData/WD~short_story,49084|WD~short_story,49084]]'
+given_name: '[[_Standards/WikiData/WD~Lev,42373577|WD~Lev,42373577]]'
 Google_Doodle: leo-tolstoys-186th-birthday
 has_works_in_the_collection:
-- '[[_Standards/WikiData/WD~Tate,430682]]'
-- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
-- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+- '[[_Standards/WikiData/WD~Tate,430682|WD~Tate,430682]]'
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335|WD~Stedelijk_Museum_Amsterdam,924335]]'
+- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481|WD~Minneapolis_Institute_of_Art,1700481]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/L.N.Tolstoy%20Prokudin-Gorsky.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tula%20YasnayaPolyana%20asv2019-09%20img12%20LNTolstoy%20grave.jpg
 influenced_by:
-- '[[_Standards/WikiData/WD~Harriet_Beecher_Stowe,102513]]'
-- '[[_Standards/WikiData/WD~Henry_David_Thoreau,131149]]'
-- '[[_Standards/WikiData/WD~George_Eliot,131333]]'
-- '[[_Standards/WikiData/WD~Laurence_Sterne,218960]]'
-- '[[../../../../../../../WikiData/WD~Henry_George,355245]]'
-- '[[_Standards/WikiData/WD~African_Spir,385790]]'
-- '[[_Standards/WikiData/WD~Petr_Chelčický,713261]]'
-- '[[_Standards/WikiData/WD~Stendhal,502]]'
-- '[[_Standards/WikiData/WD~Victor_Hugo,535]]'
-- '[[_Standards/WikiData/WD~Plato,859]]'
-- '[[_Standards/WikiData/WD~Aristotle,868]]'
-- '[[_Standards/WikiData/WD~Fyodor_Dostoyevsky,991]]'
-- '[[_Standards/WikiData/WD~Charles_Dickens,5686]]'
-- '[[_Standards/WikiData/WD~Pierre-Joseph_Proudhon,5749]]'
-- '[[_Standards/WikiData/WD~Peter_Kropotkin,5752]]'
-- '[[_Standards/WikiData/WD~Jean-Jacques_Rousseau,6527]]'
-- '[[_Standards/WikiData/WD~Alexander_Pushkin,7200]]'
-- '[[_Standards/WikiData/WD~The_Buddha,9441]]'
-- '[[_Standards/WikiData/WD~Arthur_Schopenhauer,38193]]'
-- '[[_Standards/WikiData/WD~Nikolai_Gogol,43718]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~Harriet_Beecher_Stowe,102513|WD~Harriet_Beecher_Stowe,102513]]'
+- '[[_Standards/WikiData/WD~Henry_David_Thoreau,131149|WD~Henry_David_Thoreau,131149]]'
+- '[[_Standards/WikiData/WD~George_Eliot,131333|WD~George_Eliot,131333]]'
+- '[[_Standards/WikiData/WD~Laurence_Sterne,218960|WD~Laurence_Sterne,218960]]'
+- '[[../../../../../../../WikiData/WD~Henry_George,355245|WD~Henry_George,355245]]'
+- '[[_Standards/WikiData/WD~African_Spir,385790|WD~African_Spir,385790]]'
+- '[[_Standards/WikiData/WD~Petr_Chelčický,713261|WD~Petr_Chelčický,713261]]'
+- '[[_Standards/WikiData/WD~Stendhal,502|WD~Stendhal,502]]'
+- '[[_Standards/WikiData/WD~Victor_Hugo,535|WD~Victor_Hugo,535]]'
+- '[[_Standards/WikiData/WD~Plato,859|WD~Plato,859]]'
+- '[[_Standards/WikiData/WD~Aristotle,868|WD~Aristotle,868]]'
+- '[[_Standards/WikiData/WD~Fyodor_Dostoyevsky,991|WD~Fyodor_Dostoyevsky,991]]'
+- '[[_Standards/WikiData/WD~Charles_Dickens,5686|WD~Charles_Dickens,5686]]'
+- '[[_Standards/WikiData/WD~Pierre-Joseph_Proudhon,5749|WD~Pierre-Joseph_Proudhon,5749]]'
+- '[[_Standards/WikiData/WD~Peter_Kropotkin,5752|WD~Peter_Kropotkin,5752]]'
+- '[[_Standards/WikiData/WD~Jean-Jacques_Rousseau,6527|WD~Jean-Jacques_Rousseau,6527]]'
+- '[[_Standards/WikiData/WD~Alexander_Pushkin,7200|WD~Alexander_Pushkin,7200]]'
+- '[[_Standards/WikiData/WD~The_Buddha,9441|WD~The_Buddha,9441]]'
+- '[[_Standards/WikiData/WD~Arthur_Schopenhauer,38193|WD~Arthur_Schopenhauer,38193]]'
+- '[[_Standards/WikiData/WD~Nikolai_Gogol,43718|WD~Nikolai_Gogol,43718]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ISNI: 122424494
 Krugosvet_article: kultura_i_obrazovanie/literatura/TOLSTO_LEV_NIKOLAEVICH.html
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Russian,7737]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
 Library_of_Congress_Classification: PG3365-PG3417
 Libris_URI: qn241vb851hnskb
-list_of_works: '[[_Standards/WikiData/WD~Leo_Tolstoy_bibliography,860998]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-medical_condition: '[[_Standards/WikiData/WD~epilepsy,41571]]'
+list_of_works: '[[_Standards/WikiData/WD~Leo_Tolstoy_bibliography,860998|WD~Leo_Tolstoy_bibliography,860998]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+medical_condition: '[[_Standards/WikiData/WD~epilepsy,41571|WD~epilepsy,41571]]'
 member_of:
-- '[[_Standards/WikiData/WD~Serbian_Academy_of_Sciences_and_Arts,1132636]]'
-- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
-mother: '[[_Standards/WikiData/WD~Mariya_Volkonskaya,21092125]]'
+- '[[_Standards/WikiData/WD~Serbian_Academy_of_Sciences_and_Arts,1132636|WD~Serbian_Academy_of_Sciences_and_Arts,1132636]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832|WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
+mother: '[[_Standards/WikiData/WD~Mariya_Volkonskaya,21092125|WD~Mariya_Volkonskaya,21092125]]'
 name_in_native_language: Толсто́й Лев Никола́евич
-native_language: '[[_Standards/WikiData/WD~Russian,7737]]'
+native_language: '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
 NLC_authorities: 74163
-noble_title: '[[_Standards/WikiData/WD~graf,28989]]'
-nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+noble_title: '[[_Standards/WikiData/WD~graf,28989|WD~graf,28989]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922|WD~Nobel_Prize_in_Literature,37922]]'
 notable_work:
-- '[[_Standards/WikiData/WD~The_Kingdom_of_God_Is_Within_You,143931]]'
-- '[[_Standards/WikiData/WD~Resurrection,146866]]'
-- '[[_Standards/WikiData/WD~Anna_Karenina,147787]]'
-- '[[_Standards/WikiData/WD~War_and_Peace,161531]]'
-- '[[_Standards/WikiData/WD~Sebastopol_Sketches,647268]]'
-- '[[_Standards/WikiData/WD~Father_Sergius,771376]]'
-- '[[_Standards/WikiData/WD~Boyhood,965704]]'
-- '[[_Standards/WikiData/WD~The_Kreutzer_Sonata,1214091]]'
-- '[[_Standards/WikiData/WD~Childhood,1766899]]'
-- '[[_Standards/WikiData/WD~The_Devil,2055798]]'
-- '[[_Standards/WikiData/WD~Hadji_Murat,2072257]]'
-- '[[_Standards/WikiData/WD~Where_Love_Is,_God_Is,3714680]]'
-- '[[_Standards/WikiData/WD~What_Is_Art_,4517325]]'
-- '[[_Standards/WikiData/WD~Youth,7458355]]'
-- '[[_Standards/WikiData/WD~The_Fruits_of_Enlightenment,7735394]]'
-- '[[_Standards/WikiData/WD~The_Snowstorm,7765049]]'
-- '[[_Standards/WikiData/WD~A_Confession,13223470]]'
-- '[[_Standards/WikiData/WD~What_is_my_faith,15072708]]'
+- '[[_Standards/WikiData/WD~The_Kingdom_of_God_Is_Within_You,143931|WD~The_Kingdom_of_God_Is_Within_You,143931]]'
+- '[[_Standards/WikiData/WD~Resurrection,146866|WD~Resurrection,146866]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,147787|WD~Anna_Karenina,147787]]'
+- '[[_Standards/WikiData/WD~War_and_Peace,161531|WD~War_and_Peace,161531]]'
+- '[[_Standards/WikiData/WD~Sebastopol_Sketches,647268|WD~Sebastopol_Sketches,647268]]'
+- '[[_Standards/WikiData/WD~Father_Sergius,771376|WD~Father_Sergius,771376]]'
+- '[[_Standards/WikiData/WD~Boyhood,965704|WD~Boyhood,965704]]'
+- '[[_Standards/WikiData/WD~The_Kreutzer_Sonata,1214091|WD~The_Kreutzer_Sonata,1214091]]'
+- '[[_Standards/WikiData/WD~Childhood,1766899|WD~Childhood,1766899]]'
+- '[[_Standards/WikiData/WD~The_Devil,2055798|WD~The_Devil,2055798]]'
+- '[[_Standards/WikiData/WD~Hadji_Murat,2072257|WD~Hadji_Murat,2072257]]'
+- '[[_Standards/WikiData/WD~Where_Love_Is,_God_Is,3714680|WD~Where_Love_Is,_God_Is,3714680]]'
+- '[[_Standards/WikiData/WD~What_Is_Art_,4517325|WD~What_Is_Art_,4517325]]'
+- '[[_Standards/WikiData/WD~Youth,7458355|WD~Youth,7458355]]'
+- '[[_Standards/WikiData/WD~The_Fruits_of_Enlightenment,7735394|WD~The_Fruits_of_Enlightenment,7735394]]'
+- '[[_Standards/WikiData/WD~The_Snowstorm,7765049|WD~The_Snowstorm,7765049]]'
+- '[[_Standards/WikiData/WD~A_Confession,13223470|WD~A_Confession,13223470]]'
+- '[[_Standards/WikiData/WD~What_is_my_faith,15072708|WD~What_is_my_faith,15072708]]'
 number_of_children: 13
 occupation:
-- '[[_Standards/WikiData/WD~playwright,214917]]'
-- '[[_Standards/WikiData/WD~Esperantist,860918]]'
-- '[[_Standards/WikiData/WD~pedagogue,1231865]]'
-- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-- '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
-- '[[_Standards/WikiData/WD~novelist,6625963]]'
-- '[[_Standards/WikiData/WD~essayist,11774202]]'
-- '[[_Standards/WikiData/WD~prose_writer,12144794]]'
-- '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
-- '[[_Standards/WikiData/WD~pacifist,16003550]]'
-- '[[_Standards/WikiData/WD~diarist,18939491]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-- '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~playwright,214917|WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~Esperantist,860918|WD~Esperantist,860918]]'
+- '[[_Standards/WikiData/WD~pedagogue,1231865|WD~pedagogue,1231865]]'
+- "[[_Standards/WikiData/WD~children's_writer,4853732|WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~opinion_journalist,6051619|WD~opinion_journalist,6051619]]'
+- '[[_Standards/WikiData/WD~novelist,6625963|WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~essayist,11774202|WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~prose_writer,12144794|WD~prose_writer,12144794]]'
+- '[[_Standards/WikiData/WD~short_story_writer,15949613|WD~short_story_writer,15949613]]'
+- '[[_Standards/WikiData/WD~pacifist,16003550|WD~pacifist,16003550]]'
+- '[[_Standards/WikiData/WD~diarist,18939491|WD~diarist,18939491]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757|WD~poet,49757]]'
 official_website: https://tolstoy.ru/
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
-patronym_or_matronym: '[[_Standards/WikiData/WD~Nikolayevich,100233847]]'
-place_of_birth: '[[_Standards/WikiData/WD~Yasnaya_Polyana,749556]]'
-place_of_burial: '[[_Standards/WikiData/WD~Yasnaya_Polyana,749556]]'
-place_of_death: '[[_Standards/WikiData/WD~Astapovo,4071563]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359|WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+patronym_or_matronym: '[[_Standards/WikiData/WD~Nikolayevich,100233847|WD~Nikolayevich,100233847]]'
+place_of_birth: '[[_Standards/WikiData/WD~Yasnaya_Polyana,749556|WD~Yasnaya_Polyana,749556]]'
+place_of_burial: '[[_Standards/WikiData/WD~Yasnaya_Polyana,749556|WD~Yasnaya_Polyana,749556]]'
+place_of_death: '[[_Standards/WikiData/WD~Astapovo,4071563|WD~Astapovo,4071563]]'
 political_ideology:
-- '[[_Standards/WikiData/WD~Christian_anarchism,329659]]'
-- '[[_Standards/WikiData/WD~Georgism,679595]]'
-- '[[_Standards/WikiData/WD~pacifism,58848]]'
+- '[[_Standards/WikiData/WD~Christian_anarchism,329659|WD~Christian_anarchism,329659]]'
+- '[[_Standards/WikiData/WD~Georgism,679595|WD~Georgism,679595]]'
+- '[[_Standards/WikiData/WD~pacifism,58848|WD~pacifism,58848]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A5%87%E0%A4%B5%20%E0%A4%A4%E0%A4%B2%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%AF.wav
 Provenio_UUID: 7c12c057-ad44-49fd-b938-a0f42d040d41
 pseudonym:
 - Л. Н. Т.
 - Л. Н.
 relative:
-- '[[_Standards/WikiData/WD~Viktoria_Tolstoy,442863]]'
-- '[[_Standards/WikiData/WD~Nikita_Ilyich_Tolstoy,2023785]]'
-- '[[_Standards/WikiData/WD~Fyokla_Tolstaya,4459860]]'
-- '[[_Standards/WikiData/WD~Vladimir_Tolstoy,4459931]]'
-- '[[_Standards/WikiData/WD~Ilya_Andreyevich_Tolstoy,4459949]]'
-- '[[_Standards/WikiData/WD~Pyotr_Olegovich_Tolstoy,4459965]]'
-- '[[_Standards/WikiData/WD~Tatyana_Tolstoy-Paus,29329953]]'
+- '[[_Standards/WikiData/WD~Viktoria_Tolstoy,442863|WD~Viktoria_Tolstoy,442863]]'
+- '[[_Standards/WikiData/WD~Nikita_Ilyich_Tolstoy,2023785|WD~Nikita_Ilyich_Tolstoy,2023785]]'
+- '[[_Standards/WikiData/WD~Fyokla_Tolstaya,4459860|WD~Fyokla_Tolstaya,4459860]]'
+- '[[_Standards/WikiData/WD~Vladimir_Tolstoy,4459931|WD~Vladimir_Tolstoy,4459931]]'
+- '[[_Standards/WikiData/WD~Ilya_Andreyevich_Tolstoy,4459949|WD~Ilya_Andreyevich_Tolstoy,4459949]]'
+- '[[_Standards/WikiData/WD~Pyotr_Olegovich_Tolstoy,4459965|WD~Pyotr_Olegovich_Tolstoy,4459965]]'
+- '[[_Standards/WikiData/WD~Tatyana_Tolstoy-Paus,29329953|WD~Tatyana_Tolstoy-Paus,29329953]]'
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Tolstoyan_movement,657907]]'
-- '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
-- '[[_Standards/WikiData/WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~Tolstoyan_movement,657907|WD~Tolstoyan_movement,657907]]'
+- '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484|WD~Eastern_Orthodoxy,3333484]]'
+- '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
 residence:
-- '[[_Standards/WikiData/WD~Denezhnyy_Lane,4157894]]'
-- '[[_Standards/WikiData/WD~Pyatnitskaya_Street,4385954]]'
-- '[[_Standards/WikiData/WD~Lev_Tolstoy_Street,4472955]]'
-- '[[_Standards/WikiData/WD~Yapeeva_Street,16274476]]'
-- '[[_Standards/WikiData/WD~Dzerzhinsky_Street,_11_2,55868448]]'
-- '[[_Standards/WikiData/WD~Tolstoy_Urama,_25_68,56834344]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+- '[[_Standards/WikiData/WD~Denezhnyy_Lane,4157894|WD~Denezhnyy_Lane,4157894]]'
+- '[[_Standards/WikiData/WD~Pyatnitskaya_Street,4385954|WD~Pyatnitskaya_Street,4385954]]'
+- '[[_Standards/WikiData/WD~Lev_Tolstoy_Street,4472955|WD~Lev_Tolstoy_Street,4472955]]'
+- '[[_Standards/WikiData/WD~Yapeeva_Street,16274476|WD~Yapeeva_Street,16274476]]'
+- '[[_Standards/WikiData/WD~Dzerzhinsky_Street,_11_2,55868448|WD~Dzerzhinsky_Street,_11_2,55868448]]'
+- '[[_Standards/WikiData/WD~Tolstoy_Urama,_25_68,56834344|WD~Tolstoy_Urama,_25_68,56834344]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 sibling:
-- '[[_Standards/WikiData/WD~Mariya_Tolstaya,20645988]]'
-- '[[_Standards/WikiData/WD~Nikolay_Tolstoy,30879897]]'
+- '[[_Standards/WikiData/WD~Mariya_Tolstaya,20645988|WD~Mariya_Tolstaya,20645988]]'
+- '[[_Standards/WikiData/WD~Nikolay_Tolstoy,30879897|WD~Nikolay_Tolstoy,30879897]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Leo%20Tolstoy%20signature.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BC%D6%87%20%D5%8F%D5%B8%D5%AC%D5%BD%D5%BF%D5%B8%D5%B5%20%28Leo%20Tolstoy%29.ogg
-spouse: '[[_Standards/WikiData/WD~Sophia_Tolstaya,271934]]'
+spouse: '[[_Standards/WikiData/WD~Sophia_Tolstaya,271934|WD~Sophia_Tolstaya,271934]]'
 student:
-- '[[_Standards/WikiData/WD~Isaak_Feynerman,4482406]]'
-- '[[_Standards/WikiData/WD~Vasily_Morozov,58484135]]'
-studied_in: '[[_Standards/WikiData/WD~Tolstoy_studies,16706727]]'
+- '[[_Standards/WikiData/WD~Isaak_Feynerman,4482406|WD~Isaak_Feynerman,4482406]]'
+- '[[_Standards/WikiData/WD~Vasily_Morozov,58484135|WD~Vasily_Morozov,58484135]]'
+studied_in: '[[_Standards/WikiData/WD~Tolstoy_studies,16706727|WD~Tolstoy_studies,16706727]]'
 Swedish_Royal_Theater_Archive: Person/972
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Leo_Tolstoy,14336480]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Leo_Tolstoy,14336480|WD~Template_Leo_Tolstoy,14336480]]'
 Wolfram_Language_entity_code: Entity["Person", "LeoTolstoy::q5266"]
-work_location: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+work_location: '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
 work_period_end_: 1910
 work_period_start_: 1847
 writing_language:
-- '[[_Standards/WikiData/WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
 has_time_started: 1828-09-09
 has_time_stopped: 1910-11-20
 dv_has_:
@@ -516,7 +516,7 @@ dv_has_:
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Leo_Tolstoy,7243|WD~Leo_Tolstoy,7243]] 
 
-Tolstoy liked the Novels of [[Modern_Writer/Verne,Jules]]. 
+Tolstoy liked the Novels of [[Modern_Writer/Verne,Jules|Verne,Jules]]. 
 
 ## #has_/text_of_/abstract 
 

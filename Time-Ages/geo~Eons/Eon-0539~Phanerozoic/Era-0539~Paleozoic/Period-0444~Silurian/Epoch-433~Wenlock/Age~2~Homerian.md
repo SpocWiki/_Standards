@@ -25,12 +25,12 @@ aliases:
 - 侯默期
 has_id_wikidata: Q753045
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Homer,5889923]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Homerian,30869541]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Homerian,134690876]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Homer,5889923|WD~Homer,5889923]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Homerian,30869541|WD~Category_Homerian,30869541]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Homerian,134690876|WD~GSSP_for_the_base_of_Homerian,134690876]]'
 coordinate_location: Point(-2.5647 52.6156)
 end_time: -427400000-01-01T00:00:00Z
 start_time: -430500000-01-01T00:00:00Z

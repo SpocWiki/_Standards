@@ -62,13 +62,13 @@ aliases:
 - 서부 전선
 has_id_wikidata: Q152989
 location:
-- '[[_Standards/WikiData/WD~Alsace_Lorraine,155144]]'
-- '[[_Standards/WikiData/WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-instance_of: '[[_Standards/WikiData/WD~war_front,842332]]'
+- '[[_Standards/WikiData/WD~Alsace_Lorraine,155144|WD~Alsace_Lorraine,155144]]'
+- '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+instance_of: '[[_Standards/WikiData/WD~war_front,842332|WD~war_front,842332]]'
 country:
-- '[[_Standards/WikiData/WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Western%20front%201915-16.jpg
 Commons_category: Western Front theatre of World War I
 official_name: Defensive Sector

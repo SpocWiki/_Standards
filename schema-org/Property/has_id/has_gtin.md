@@ -77,13 +77,13 @@ dv_has_:
     zh: 全球贸易项目代码
     zh_cn: 全球贸易项目代码
   parent_:
-    property: '[[../../Relation/has/has_identifier]]'
+    property: '[[../../Relation/has/has_identifier|has_identifier]]'
   range: Text, URL
 dv_is_part_of: 'pending:'
 dv_has_domain: Demand, Offer, Product
 dv_has_name: has_text_of_gtin
 dv_has_range: Text, URL
-dv_has_parent_property: '[[../../Relation/has/has_identifier]]'
+dv_has_parent_property: '[[../../Relation/has/has_identifier|has_identifier]]'
 dv_has_child_property: '[ gtin12, gtin13, gtin14, gtin8 ]'
 dv_is_same_as:
 - '[[/_Standards/schema-org/Property/has_name/has_gtin|has_gtin]]'

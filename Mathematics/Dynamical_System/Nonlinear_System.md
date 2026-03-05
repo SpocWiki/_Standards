@@ -45,10 +45,10 @@ aliases:
 - 非线性系统
 - 비선형
 has_id_wikidata: Q660848
-subclass_of: '[[_Standards/WikiData/WD~dynamical_system,638328]]'
-opposite_of: '[[_Standards/WikiData/WD~linear_system,1072174]]'
-different_from: '[[_Standards/WikiData/WD~Q20856201,20856201]]'
-has_characteristic: '[[_Standards/WikiData/WD~nonlinearity,47490617]]'
+subclass_of: '[[_Standards/WikiData/WD~dynamical_system,638328|WD~dynamical_system,638328]]'
+opposite_of: '[[_Standards/WikiData/WD~linear_system,1072174|WD~linear_system,1072174]]'
+different_from: '[[_Standards/WikiData/WD~Q20856201,20856201|WD~Q20856201,20856201]]'
+has_characteristic: '[[_Standards/WikiData/WD~nonlinearity,47490617|WD~nonlinearity,47490617]]'
 Commons_category: Nonlinear systems
 dv_has_:
   name_:

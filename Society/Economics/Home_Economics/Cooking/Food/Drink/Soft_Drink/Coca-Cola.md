@@ -46,32 +46,32 @@ aliases:
 - 코카콜라
 has_id_wikidata: Q2813
 subclass_of:
-- '[[_Standards/WikiData/WD~cola,134041]]'
+- '[[_Standards/WikiData/WD~cola,134041|WD~cola,134041]]'
 named_after:
-- '[[_Standards/WikiData/WD~Erythroxylum_coca,158018]]'
-- '[[_Standards/WikiData/WD~kola_nut,912522]]'
+- '[[_Standards/WikiData/WD~Erythroxylum_coca,158018|WD~Erythroxylum_coca,158018]]'
+- '[[_Standards/WikiData/WD~kola_nut,912522|WD~kola_nut,912522]]'
 instance_of:
-- '[[_Standards/WikiData/WD~trademark,167270]]'
-- '[[_Standards/WikiData/WD~drink_brand,114392939]]'
+- '[[_Standards/WikiData/WD~trademark,167270|WD~trademark,167270]]'
+- '[[_Standards/WikiData/WD~drink_brand,114392939|WD~drink_brand,114392939]]'
 has_listed_ingredient:
-- '[[_Standards/WikiData/WD~phosphoric_acid,184782]]'
-- '[[_Standards/WikiData/WD~caramel_color,227816]]'
-- '[[_Standards/WikiData/WD~carbonated_water,264554]]'
-- '[[_Standards/WikiData/WD~high_fructose_corn_syrup,11422173]]'
-- '[[_Standards/WikiData/WD~caffeine,60235]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Pemberton,215959]]'
+- '[[_Standards/WikiData/WD~phosphoric_acid,184782|WD~phosphoric_acid,184782]]'
+- '[[_Standards/WikiData/WD~caramel_color,227816|WD~caramel_color,227816]]'
+- '[[_Standards/WikiData/WD~carbonated_water,264554|WD~carbonated_water,264554]]'
+- '[[_Standards/WikiData/WD~high_fructose_corn_syrup,11422173|WD~high_fructose_corn_syrup,11422173]]'
+- '[[_Standards/WikiData/WD~caffeine,60235|WD~caffeine,60235]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Pemberton,215959|WD~John_Pemberton,215959]]'
 container:
-- '[[_Standards/WikiData/WD~plastic_bottle,1757946]]'
-- '[[_Standards/WikiData/WD~glass_bottle,5567094]]'
-manufacturer: '[[_Standards/WikiData/WD~The_Coca_Cola_Company,3295867]]'
-owned_by: '[[_Standards/WikiData/WD~The_Coca_Cola_Company,3295867]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Varieties_of_Coca_Cola,10305053]]'
+- '[[_Standards/WikiData/WD~plastic_bottle,1757946|WD~plastic_bottle,1757946]]'
+- '[[_Standards/WikiData/WD~glass_bottle,5567094|WD~glass_bottle,5567094]]'
+manufacturer: '[[_Standards/WikiData/WD~The_Coca_Cola_Company,3295867|WD~The_Coca_Cola_Company,3295867]]'
+owned_by: '[[_Standards/WikiData/WD~The_Coca_Cola_Company,3295867|WD~The_Coca_Cola_Company,3295867]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Varieties_of_Coca_Cola,10305053|WD~Template_Varieties_of_Coca_Cola,10305053]]'
 different_from:
-- '[[_Standards/WikiData/WD~coca_plant,66793593]]'
-- '[[_Standards/WikiData/WD~Pepsi,47719]]'
+- '[[_Standards/WikiData/WD~coca_plant,66793593|WD~coca_plant,66793593]]'
+- '[[_Standards/WikiData/WD~Pepsi,47719|WD~Pepsi,47719]]'
 inception: 1886-05-08T00:00:00Z
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 alcohol_by_volume: 0
 price: 0.05
 pH_value: 2.85
@@ -188,9 +188,9 @@ dv_has_:
 
 # [[Coca-Cola]] 
 
-#has_/text_of_/recipe_ingredient :: [[../../../../../../../bio/Medicine/Drug/Drug-Dealing/Coca]], [[../../../../../../../bio/Medicine/Drug/Drug-Dealing/Kola_Nut]] 
-#has_/parts :: [[../../../../../../../bio/Medicine/Drug/Drug-Dealing/Coca]] 
-#has_/parts :: [[../../../../../../../bio/Medicine/Drug/Drug-Dealing/Kola_Nut]]  
+#has_/text_of_/recipe_ingredient :: [[../../../../../../../bio/Medicine/Drug/Drug-Dealing/Coca|Coca]], [[../../../../../../../bio/Medicine/Drug/Drug-Dealing/Kola_Nut|Kola_Nut]] 
+#has_/parts :: [[../../../../../../../bio/Medicine/Drug/Drug-Dealing/Coca|Coca]] 
+#has_/parts :: [[../../../../../../../bio/Medicine/Drug/Drug-Dealing/Kola_Nut|Kola_Nut]]  
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Coca-Cola,2813|WD~Coca-Cola,2813]] 
 

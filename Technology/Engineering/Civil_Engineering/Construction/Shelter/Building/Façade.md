@@ -49,29 +49,29 @@ aliases:
 - 파사드
 has_id_wikidata: Q183061
 instance_of:
-- '[[../../../../../../WikiData/WD~architectural_element,391414]]'
-- '[[_Standards/WikiData/WD~type_of_work_of_art,116474095]]'
+- '[[../../../../../../WikiData/WD~architectural_element,391414|WD~architectural_element,391414]]'
+- '[[_Standards/WikiData/WD~type_of_work_of_art,116474095|WD~type_of_work_of_art,116474095]]'
 different_from:
-- '[[_Standards/WikiData/WD~facade_pattern,428170]]'
-- '[[_Standards/WikiData/WD~envelope_(anglicism),130544531]]'
+- '[[_Standards/WikiData/WD~facade_pattern,428170|WD~facade_pattern,428170]]'
+- '[[_Standards/WikiData/WD~envelope_(anglicism),130544531|WD~envelope_(anglicism),130544531]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~exterior,1385033]]'
-- '[[_Standards/WikiData/WD~wall,2547819]]'
-- '[[_Standards/WikiData/WD~building_component,19603939]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~exterior,1385033|WD~exterior,1385033]]'
+- '[[_Standards/WikiData/WD~wall,2547819|WD~wall,2547819]]'
+- '[[_Standards/WikiData/WD~building_component,19603939|WD~building_component,19603939]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-opposite_of: '[[_Standards/WikiData/WD~counterfacade,3689238]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+opposite_of: '[[_Standards/WikiData/WD~counterfacade,3689238|WD~counterfacade,3689238]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~North_facade,20972905]]'
-- '[[_Standards/WikiData/WD~South_facade,20972910]]'
-- '[[_Standards/WikiData/WD~West_facade,130475213]]'
-- '[[_Standards/WikiData/WD~East_facade,130475253]]'
-has_part_s_: '[[_Standards/WikiData/WD~window,35473]]'
-part_of: '[[_Standards/WikiData/WD~building,41176]]'
+- '[[_Standards/WikiData/WD~North_facade,20972905|WD~North_facade,20972905]]'
+- '[[_Standards/WikiData/WD~South_facade,20972910|WD~South_facade,20972910]]'
+- '[[_Standards/WikiData/WD~West_facade,130475213|WD~West_facade,130475213]]'
+- '[[_Standards/WikiData/WD~East_facade,130475253|WD~East_facade,130475253]]'
+has_part_s_: '[[_Standards/WikiData/WD~window,35473|WD~window,35473]]'
+part_of: '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
 Iconclass_notation: 41A31
 Commons_category: Facades
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cube%20berlin.jpg

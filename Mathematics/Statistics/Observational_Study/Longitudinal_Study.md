@@ -84,7 +84,7 @@ dv_has_:
 # [[Longitudinal_Study]]  
 
 #is_/better_than :: [[Cross-sectional_Study]] 
-#is_/different_from :: [[../Experiment]]
+#is_/different_from :: [[../Experiment|Experiment]]
 
 ## #has_/text_of_/abstract 
 

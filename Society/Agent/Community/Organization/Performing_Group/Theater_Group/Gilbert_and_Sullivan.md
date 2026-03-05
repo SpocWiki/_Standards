@@ -33,19 +33,19 @@ aliases:
 - 吉爾伯特與薩利文
 - 길버트와 설리번
 has_id_wikidata: Q1146602
-student: '[[_Standards/WikiData/WD~Paul_Potts,165418]]'
+student: '[[_Standards/WikiData/WD~Paul_Potts,165418|WD~Paul_Potts,165418]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Arthur_Sullivan,212692]]'
-- '[[_Standards/WikiData/WD~W._S._Gilbert,348513]]'
-partner_in_business_or_sport: "[[_Standards/WikiData/WD~Richard_D'Oyly_Carte,953440]]"
+- '[[_Standards/WikiData/WD~Arthur_Sullivan,212692|WD~Arthur_Sullivan,212692]]'
+- '[[_Standards/WikiData/WD~W._S._Gilbert,348513|WD~W._S._Gilbert,348513]]'
+partner_in_business_or_sport: "[[_Standards/WikiData/WD~Richard_D'Oyly_Carte,953440|WD~Richard_D'Oyly_Carte,953440]]"
 genre:
-- '[[_Standards/WikiData/WD~Savoy_opera,2260479]]'
-- '[[_Standards/WikiData/WD~comic_opera,13220650]]'
-- '[[_Standards/WikiData/WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~Savoy_opera,2260479|WD~Savoy_opera,2260479]]'
+- '[[_Standards/WikiData/WD~comic_opera,13220650|WD~comic_opera,13220650]]'
+- '[[_Standards/WikiData/WD~opera,1344|WD~opera,1344]]'
 instance_of:
-- '[[_Standards/WikiData/WD~duo,10648343]]'
-- '[[_Standards/WikiData/WD~collective_pseudonym,16017119]]'
-- '[[_Standards/WikiData/WD~songwriting_team,54982412]]'
+- '[[_Standards/WikiData/WD~duo,10648343|WD~duo,10648343]]'
+- '[[_Standards/WikiData/WD~collective_pseudonym,16017119|WD~collective_pseudonym,16017119]]'
+- '[[_Standards/WikiData/WD~songwriting_team,54982412|WD~songwriting_team,54982412]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gilbert%20%26%20Sullivan.jpg
 Commons_category: Gilbert and Sullivan
 dv_has_:

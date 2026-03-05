@@ -46,17 +46,17 @@ aliases:
 - 체다 치즈
 has_id_wikidata: Q217525
 subclass_of:
-- '[[_Standards/WikiData/WD~dairy_product,185217]]'
-- "[[_Standards/WikiData/WD~cow's_milk_cheese,3088299]]"
-- '[[_Standards/WikiData/WD~British_cheese,19361017]]'
-different_from: '[[_Standards/WikiData/WD~Cheddar,415379]]'
-named_after: '[[_Standards/WikiData/WD~Cheddar,1019479]]'
-made_from_material: "[[_Standards/WikiData/WD~cow's_milk,10988133]]"
-has_part_s_: '[[_Standards/WikiData/WD~milk,8495]]'
-location_of_creation: '[[_Standards/WikiData/WD~Somerset,23157]]'
+- '[[_Standards/WikiData/WD~dairy_product,185217|WD~dairy_product,185217]]'
+- "[[_Standards/WikiData/WD~cow's_milk_cheese,3088299|WD~cow's_milk_cheese,3088299]]"
+- '[[_Standards/WikiData/WD~British_cheese,19361017|WD~British_cheese,19361017]]'
+different_from: '[[_Standards/WikiData/WD~Cheddar,415379|WD~Cheddar,415379]]'
+named_after: '[[_Standards/WikiData/WD~Cheddar,1019479|WD~Cheddar,1019479]]'
+made_from_material: "[[_Standards/WikiData/WD~cow's_milk,10988133|WD~cow's_milk,10988133]]"
+has_part_s_: '[[_Standards/WikiData/WD~milk,8495|WD~milk,8495]]'
+location_of_creation: '[[_Standards/WikiData/WD~Somerset,23157|WD~Somerset,23157]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~England,21]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~England,21|WD~England,21]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 food_energy: 410
 OmegaWiki_Defined_Meaning: 537452
 USDA_NDB_number: 01009

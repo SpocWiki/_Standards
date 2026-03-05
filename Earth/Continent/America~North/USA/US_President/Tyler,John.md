@@ -63,7 +63,7 @@ tags:
 - ''
 title: Tyler,John
 type: private_note
-dv_has_role: '[[../US_President]]'
+dv_has_role: '[[../US_President|US_President]]'
 dv_created: 1841-04-04
 dv_cancelled: 1845-03-04
 dv_has_:
@@ -225,7 +225,7 @@ dv_has_:
     started: 1790-03-29T00:00:00.000+00:53
     stopped: 1862-01-18T00:00:00.000+00:53
 dv_is_member_of:
-- '[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]'
+- '[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party|US~Democratic_Party]]'
 - '[[Democratic-Republican Party]]'
 - '[[Whig Party]]'
 dv_is_:
@@ -254,11 +254,11 @@ dv_is_same_as:
 has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped`
 
-[is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]] ] 
+[is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party|US~Democratic_Party]]] ] 
 [is_member_of :: [[Democratic-Republican Party]] ]  
 [is_member_of :: [[Whig Party]] ] 
    
--  [has_role :: [[../US_President]] ] [created:: 1841-04-04]cancelled = `=this.dv_cancelled`
+-  [has_role :: [[../US_President|US_President]] ] [created:: 1841-04-04]cancelled = `=this.dv_cancelled`
 
 
 ## Confidential Links & Embeds: 

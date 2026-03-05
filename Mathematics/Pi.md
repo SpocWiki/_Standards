@@ -77,40 +77,40 @@ aliases:
 - 원주율
 has_id_wikidata: Q167
 approximation_algorithm:
-- '[[_Standards/WikiData/WD~Bailey_Borwein_Plouffe_formula,803807]]'
-- '[[_Standards/WikiData/WD~Wallis_product,1501324]]'
-- "[[_Standards/WikiData/WD~Kochański's_approximation,2006381]]"
-- '[[_Standards/WikiData/WD~Chudnovsky_algorithm,2208385]]'
-- '[[_Standards/WikiData/WD~Gauss_Legendre_algorithm,2448949]]'
-- '[[_Standards/WikiData/WD~Machin-like_formula,3077635]]'
-- "[[_Standards/WikiData/WD~Borwein's_algorithm,3751018]]"
-- "[[_Standards/WikiData/WD~Zhao_Youqin's_π_algorithm,17278655]]"
-- '[[_Standards/WikiData/WD~Leibniz_formula_for_π,97226587]]'
+- '[[_Standards/WikiData/WD~Bailey_Borwein_Plouffe_formula,803807|WD~Bailey_Borwein_Plouffe_formula,803807]]'
+- '[[_Standards/WikiData/WD~Wallis_product,1501324|WD~Wallis_product,1501324]]'
+- "[[_Standards/WikiData/WD~Kochański's_approximation,2006381|WD~Kochański's_approximation,2006381]]"
+- '[[_Standards/WikiData/WD~Chudnovsky_algorithm,2208385|WD~Chudnovsky_algorithm,2208385]]'
+- '[[_Standards/WikiData/WD~Gauss_Legendre_algorithm,2448949|WD~Gauss_Legendre_algorithm,2448949]]'
+- '[[_Standards/WikiData/WD~Machin-like_formula,3077635|WD~Machin-like_formula,3077635]]'
+- "[[_Standards/WikiData/WD~Borwein's_algorithm,3751018|WD~Borwein's_algorithm,3751018]]"
+- "[[_Standards/WikiData/WD~Zhao_Youqin's_π_algorithm,17278655|WD~Zhao_Youqin's_π_algorithm,17278655]]"
+- '[[_Standards/WikiData/WD~Leibniz_formula_for_π,97226587|WD~Leibniz_formula_for_π,97226587]]'
 Commons_category: Pi
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582|WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]'
 different_from:
-- '[[_Standards/WikiData/WD~Pi_greco,3901786]]'
-- '[[_Standards/WikiData/WD~Pī,22673904]]'
-- '[[_Standards/WikiData/WD~Pi,14411]]'
+- '[[_Standards/WikiData/WD~Pi_greco,3901786|WD~Pi_greco,3901786]]'
+- '[[_Standards/WikiData/WD~Pī,22673904|WD~Pī,22673904]]'
+- '[[_Standards/WikiData/WD~Pi,14411|WD~Pi,14411]]'
 hashtag: π
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pi-unrolled-720.gif
 instance_of:
-- '[[_Standards/WikiData/WD~transcendental_number,173091]]'
-- '[[_Standards/WikiData/WD~mathematical_constant,186509]]'
-- '[[_Standards/WikiData/WD~UCUM_constant,83155724]]'
-- '[[_Standards/WikiData/WD~real_number,12916]]'
+- '[[_Standards/WikiData/WD~transcendental_number,173091|WD~transcendental_number,173091]]'
+- '[[_Standards/WikiData/WD~mathematical_constant,186509|WD~mathematical_constant,186509]]'
+- '[[_Standards/WikiData/WD~UCUM_constant,83155724|WD~UCUM_constant,83155724]]'
+- '[[_Standards/WikiData/WD~real_number,12916|WD~real_number,12916]]'
 Krugosvet_article: nauka_i_tehnika/matematika/CHISLO_p.html
-less_than: '[[_Standards/WikiData/WD~22_7,17987729]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+less_than: '[[_Standards/WikiData/WD~22_7,17987729|WD~22_7,17987729]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 name: π
 named_after:
-- '[[_Standards/WikiData/WD~Ludolph_van_Ceulen,310771]]'
-- '[[_Standards/WikiData/WD~circle,17278]]'
-notation: '[[_Standards/WikiData/WD~pi,168]]'
+- '[[_Standards/WikiData/WD~Ludolph_van_Ceulen,310771|WD~Ludolph_van_Ceulen,310771]]'
+- '[[_Standards/WikiData/WD~circle,17278|WD~circle,17278]]'
+notation: '[[_Standards/WikiData/WD~pi,168|WD~pi,168]]'
 numeric_value: 3.141592653589793
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q114451702,114451702]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q114451702,114451702|WD~Q114451702,114451702]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%AA%E0%A4%BE%E0%A4%AF.wav
 quantity_symbol_LaTeX_: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="\pi ">
@@ -119,9 +119,9 @@ quantity_symbol_LaTeX_: >-
       <annotation encoding="application/x-tex">\pi</annotation>
     </semantics>
   </math>
-significant_person: '[[_Standards/WikiData/WD~William_Jones,371877]]'
+significant_person: '[[_Standards/WikiData/WD~William_Jones,371877|WD~William_Jones,371877]]'
 Stack_Exchange_tag: https://stackoverflow.com/tags/pi
-studied_in: '[[_Standards/WikiData/WD~mathematics,395]]'
+studied_in: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
 TeX_string: \pi
 UCUM_code: '[pi]'
 Unicode_character: π

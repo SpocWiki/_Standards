@@ -56,14 +56,14 @@ aliases:
 - 공명
 has_id_wikidata: Q172858
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-- '[[_Standards/WikiData/WD~increase,9073584]]'
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+- '[[_Standards/WikiData/WD~increase,9073584|WD~increase,9073584]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-different_from: '[[_Standards/WikiData/WD~Resonance,3933433]]'
-has_characteristic: '[[_Standards/WikiData/WD~type_of_resonance,28860419]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~Resonance,3933433|WD~Resonance,3933433]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_of_resonance,28860419|WD~type_of_resonance,28860419]]'
 Commons_category: Resonance
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HarmOsc5.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Krimen%20perfektua.webm

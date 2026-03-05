@@ -81,16 +81,16 @@ aliases:
 - 지열 발전
 has_id_wikidata: Q127993
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~natural_resource,188460]]'
-- '[[_Standards/WikiData/WD~sustainable_energy,1962383]]'
-- '[[_Standards/WikiData/WD~alternative_energy,4202245]]'
-- '[[_Standards/WikiData/WD~renewable_energy,12705]]'
-different_from: '[[_Standards/WikiData/WD~geothermal_power,3215493]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~natural_resource,188460|WD~natural_resource,188460]]'
+- '[[_Standards/WikiData/WD~sustainable_energy,1962383|WD~sustainable_energy,1962383]]'
+- '[[_Standards/WikiData/WD~alternative_energy,4202245|WD~alternative_energy,4202245]]'
+- '[[_Standards/WikiData/WD~renewable_energy,12705|WD~renewable_energy,12705]]'
+different_from: '[[_Standards/WikiData/WD~geothermal_power,3215493|WD~geothermal_power,3215493]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~renewable_energy,12705]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~renewable_energy,12705|WD~renewable_energy,12705]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 OmegaWiki_Defined_Meaning: 1650
 subreddit: geothermal

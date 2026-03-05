@@ -107,33 +107,33 @@ pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Mecanautes-boxe.wav
 MeSH_tree_code: I03.450.642.845.210
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~combat_sport,7128792]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~combat_sport,7128792|WD~combat_sport,7128792]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 uses:
-- '[[_Standards/WikiData/WD~boxing_glove,895679]]'
-- '[[_Standards/WikiData/WD~boxing_ring,2290113]]'
+- '[[_Standards/WikiData/WD~boxing_glove,895679|WD~boxing_glove,895679]]'
+- '[[_Standards/WikiData/WD~boxing_ring,2290113|WD~boxing_ring,2290113]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~professional_boxing,2631720]]'
-- '[[_Standards/WikiData/WD~amateur_boxing,4573533]]'
+- '[[_Standards/WikiData/WD~professional_boxing,2631720|WD~professional_boxing,2631720]]'
+- '[[_Standards/WikiData/WD~amateur_boxing,4573533|WD~amateur_boxing,4573533]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~boxing_referee,2859667]]'
-- '[[_Standards/WikiData/WD~boxer,11338576]]'
+- '[[_Standards/WikiData/WD~boxing_referee,2859667|WD~boxing_referee,2859667]]'
+- '[[_Standards/WikiData/WD~boxer,11338576|WD~boxer,11338576]]'
 instance_of:
-- '[[_Standards/WikiData/WD~spectator_sport,4356073]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Boxing,14615515]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_boxing,23809296]]'
+- '[[_Standards/WikiData/WD~spectator_sport,4356073|WD~spectator_sport,4356073]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Boxing,14615515|WD~Portal_Boxing,14615515]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_boxing,23809296|WD~history_of_boxing,23809296]]'
 subreddit:
 - boxingcirclejerk
 - Boxing
-country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
+country_of_origin: '[[_Standards/WikiData/WD~England,21|WD~England,21]]'
 maximum_number_of_players: 2
 minimum_number_of_players: 2
 IAB_code: 485

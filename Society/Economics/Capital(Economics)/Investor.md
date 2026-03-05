@@ -61,12 +61,12 @@ aliases:
 - 투자가
 has_id_wikidata: Q557880
 different_from:
-- '[[_Standards/WikiData/WD~shareholder,381136]]'
-- '[[_Standards/WikiData/WD~financier,1979607]]'
-instance_of: '[[_Standards/WikiData/WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~shareholder,381136|WD~shareholder,381136]]'
+- '[[_Standards/WikiData/WD~financier,1979607|WD~financier,1979607]]'
+instance_of: '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
 Wikidata_property: investor
-field_of_this_occupation: '[[_Standards/WikiData/WD~investment,4290]]'
-subclass_of: '[[_Standards/WikiData/WD~businessperson,43845]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~investment,4290|WD~investment,4290]]'
+subclass_of: '[[_Standards/WikiData/WD~businessperson,43845|WD~businessperson,43845]]'
 female_form_of_label:
 - משקיעה
 - investuotoja
@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Investor]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~investor,557880]] 
+#is_/same_as :: [[_Standards/WikiData/WD~investor,557880|WD~investor,557880]] 
 
 ## #has_/text_of_/abstract 
 

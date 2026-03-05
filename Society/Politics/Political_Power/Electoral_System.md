@@ -72,16 +72,16 @@ aliases:
 - 선거 제도
 has_id_wikidata: Q182985
 has_part_s_:
-- '[[_Standards/WikiData/WD~plurality_voting_system,1211577]]'
-- '[[_Standards/WikiData/WD~majority_rule,27636]]'
-studied_by: '[[_Standards/WikiData/WD~psephology,1412461]]'
+- '[[_Standards/WikiData/WD~plurality_voting_system,1211577|WD~plurality_voting_system,1211577]]'
+- '[[_Standards/WikiData/WD~majority_rule,27636|WD~majority_rule,27636]]'
+studied_by: '[[_Standards/WikiData/WD~psephology,1412461|WD~psephology,1412461]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Voting_Systems,11072591]]'
-- '[[_Standards/WikiData/WD~Template_Electoral_systems,25743083]]'
-subclass_of: '[[_Standards/WikiData/WD~state_system,20076236]]'
-different_from: '[[_Standards/WikiData/WD~voting_method,30323942]]'
-has_list: '[[_Standards/WikiData/WD~comparison_of_electoral_systems,30324505]]'
-part_of: '[[_Standards/WikiData/WD~democracy,7174]]'
+- '[[_Standards/WikiData/WD~Voting_Systems,11072591|WD~Voting_Systems,11072591]]'
+- '[[_Standards/WikiData/WD~Template_Electoral_systems,25743083|WD~Template_Electoral_systems,25743083]]'
+subclass_of: '[[_Standards/WikiData/WD~state_system,20076236|WD~state_system,20076236]]'
+different_from: '[[_Standards/WikiData/WD~voting_method,30323942|WD~voting_method,30323942]]'
+has_list: '[[_Standards/WikiData/WD~comparison_of_electoral_systems,30324505|WD~comparison_of_electoral_systems,30324505]]'
+part_of: '[[_Standards/WikiData/WD~democracy,7174|WD~democracy,7174]]'
 Wikidata_property: voting system
 Commons_category: Voting systems
 dv_has_:

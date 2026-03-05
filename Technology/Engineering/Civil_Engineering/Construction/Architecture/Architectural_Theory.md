@@ -41,12 +41,12 @@ aliases:
 - 建筑理论
 - 建築理論
 has_id_wikidata: Q47537
-instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-practiced_by: '[[_Standards/WikiData/WD~architectural_theoretician,17391659]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
-studied_by: '[[_Standards/WikiData/WD~architecture,12271]]'
-is_the_study_of: '[[_Standards/WikiData/WD~architecture,12271]]'
-subclass_of: '[[_Standards/WikiData/WD~theory,17737]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~architectural_theoretician,17391659|WD~architectural_theoretician,17391659]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806|WD~WikiProject_Craft,110249806]]'
+studied_by: '[[_Standards/WikiData/WD~architecture,12271|WD~architecture,12271]]'
+is_the_study_of: '[[_Standards/WikiData/WD~architecture,12271|WD~architecture,12271]]'
+subclass_of: '[[_Standards/WikiData/WD~theory,17737|WD~theory,17737]]'
 Provenio_UUID: 2ab4c035-63a1-4019-9062-0a9e1258acbe
 Commons_category: Architectural theory
 dv_has_:

@@ -100,21 +100,21 @@ aliases:
 - 電子工学
 - 전자공학
 has_id_wikidata: Q11650
-different_from: '[[_Standards/WikiData/WD~fluidics,185571]]'
+different_from: '[[_Standards/WikiData/WD~fluidics,185571|WD~fluidics,185571]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~electrical_engineer,1326886]]'
-- '[[_Standards/WikiData/WD~electronic_engineer,56312763]]'
-- '[[_Standards/WikiData/WD~electronic_equipment_technician,96572834]]'
-has_part_s_: '[[_Standards/WikiData/WD~electronic_circuit,1815901]]'
-subclass_of: '[[_Standards/WikiData/WD~technique,2695280]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_electronics,7112614]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Electronics,8210977]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-studied_by: '[[_Standards/WikiData/WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~electrical_engineer,1326886|WD~electrical_engineer,1326886]]'
+- '[[_Standards/WikiData/WD~electronic_engineer,56312763|WD~electronic_engineer,56312763]]'
+- '[[_Standards/WikiData/WD~electronic_equipment_technician,96572834|WD~electronic_equipment_technician,96572834]]'
+has_part_s_: '[[_Standards/WikiData/WD~electronic_circuit,1815901|WD~electronic_circuit,1815901]]'
+subclass_of: '[[_Standards/WikiData/WD~technique,2695280|WD~technique,2695280]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_electronics,7112614|WD~outline_of_electronics,7112614]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Electronics,8210977|WD~Portal_Electronics,8210977]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+studied_by: '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
 Dewey_Decimal_Classification: 537
 OmegaWiki_Defined_Meaning: 1123
 subreddit: electronics

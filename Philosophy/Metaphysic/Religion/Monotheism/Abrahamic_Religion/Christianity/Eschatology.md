@@ -59,23 +59,23 @@ aliases:
 - 終末論
 - 종말론
 has_id_wikidata: Q170337
-opposite_of: '[[_Standards/WikiData/WD~Protology,440651]]'
+opposite_of: '[[_Standards/WikiData/WD~Protology,440651|WD~Protology,440651]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519|WD~New_World_Encyclopedia,116780519]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~afterlife,623282]]'
-- '[[_Standards/WikiData/WD~doomsday,1036775]]'
-subclass_of: '[[_Standards/WikiData/WD~doomsday,1036775]]'
-different_from: '[[_Standards/WikiData/WD~scatology,1337766]]'
+- '[[_Standards/WikiData/WD~afterlife,623282|WD~afterlife,623282]]'
+- '[[_Standards/WikiData/WD~doomsday,1036775|WD~doomsday,1036775]]'
+subclass_of: '[[_Standards/WikiData/WD~doomsday,1036775|WD~doomsday,1036775]]'
+different_from: '[[_Standards/WikiData/WD~scatology,1337766|WD~scatology,1337766]]'
 instance_of:
-- '[[_Standards/WikiData/WD~biblical_concept,30149195]]'
-- '[[_Standards/WikiData/WD~branch_of_theology,60310061]]'
+- '[[_Standards/WikiData/WD~biblical_concept,30149195|WD~biblical_concept,30149195]]'
+- '[[_Standards/WikiData/WD~branch_of_theology,60310061|WD~branch_of_theology,60310061]]'
 hashtag_: eschatology
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Durer%20Revelation%20Four%20Riders.jpg
 described_at_URL: http://божественныйпринцип.рф/Jeshatologija.html

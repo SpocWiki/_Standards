@@ -63,15 +63,15 @@ aliases:
 - 墨洛溫王朝
 - 메로빙거 왕조
 has_id_wikidata: Q59488
-instance_of: '[[_Standards/WikiData/WD~dynasty,164950]]'
+instance_of: '[[_Standards/WikiData/WD~dynasty,164950|WD~dynasty,164950]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-named_after: '[[_Standards/WikiData/WD~Merovech,58165]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+named_after: '[[_Standards/WikiData/WD~Merovech,58165|WD~Merovech,58165]]'
 BHCL_UUID: 4a472f21-bc68-480d-8afd-e0a24f6d77dd
 Library_of_Congress_Classification:
 - DC64.7-94
@@ -79,10 +79,10 @@ Library_of_Congress_Classification:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fibules%20m%C3%A9rovingiennes%2002.JPG
 Krugosvet_article_archived_: istoriya/MEROVINGI.html
 Commons_category: Merovingians
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Merovingian_dynasty,7148746]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Merovingian_dynasty,7148746|WD~Category_Merovingian_dynasty,7148746]]'
 dv_is_:
   same_as:
-  - '[[../../../../../../../../../WikiData/WD~Merovingian_dynasty,59488]]'
+  - '[[../../../../../../../../../WikiData/WD~Merovingian_dynasty,59488|WD~Merovingian_dynasty,59488]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty|Merovingian_Dynasty]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.public|Merovingian_Dynasty.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.internal|Merovingian_Dynasty.internal]]'
@@ -91,7 +91,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.personal|Merovingian_Dynasty.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.secret|Merovingian_Dynasty.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../../WikiData/WD~Merovingian_dynasty,59488]]'
+- '[[../../../../../../../../../WikiData/WD~Merovingian_dynasty,59488|WD~Merovingian_dynasty,59488]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty|Merovingian_Dynasty]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.public|Merovingian_Dynasty.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.internal|Merovingian_Dynasty.internal]]'

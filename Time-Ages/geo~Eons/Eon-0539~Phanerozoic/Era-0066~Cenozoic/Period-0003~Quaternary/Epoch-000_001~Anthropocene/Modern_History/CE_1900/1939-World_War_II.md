@@ -237,88 +237,88 @@ Commons_gallery: World War II
 Danbooru_tag: world_war_ii
 described_at_URL: https://stadtlexikon.karlsruhe.de/index.php/De:Lexikon:ereig-0074
 described_by_source:
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519|WD~New_World_Encyclopedia,116780519]]'
 end_time: 1945-09-02T00:00:00Z
 has_cause:
-- '[[_Standards/WikiData/WD~chauvinism,226418]]'
-- '[[_Standards/WikiData/WD~causes_of_World_War_II,714999]]'
-- '[[_Standards/WikiData/WD~revanchism,1136718]]'
-- '[[_Standards/WikiData/WD~providentialism,2298962]]'
-- '[[_Standards/WikiData/WD~Adolf_Hitler,352]]'
-- '[[_Standards/WikiData/WD~fascism,6223]]'
+- '[[_Standards/WikiData/WD~chauvinism,226418|WD~chauvinism,226418]]'
+- '[[_Standards/WikiData/WD~causes_of_World_War_II,714999|WD~causes_of_World_War_II,714999]]'
+- '[[_Standards/WikiData/WD~revanchism,1136718|WD~revanchism,1136718]]'
+- '[[_Standards/WikiData/WD~providentialism,2298962|WD~providentialism,2298962]]'
+- '[[_Standards/WikiData/WD~Adolf_Hitler,352|WD~Adolf_Hitler,352]]'
+- '[[_Standards/WikiData/WD~fascism,6223|WD~fascism,6223]]'
 has_effect:
-- '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
-- '[[_Standards/WikiData/WD~Allies_of_World_War_II,329888]]'
-- '[[_Standards/WikiData/WD~Korean_Peninsula,483134]]'
-- '[[_Standards/WikiData/WD~Nazi_persecution_of_the_Catholic_Church_in_Poland,16056517]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Austria,40]]'
-- '[[_Standards/WikiData/WD~League_of_Nations,38130]]'
-has_immediate_cause: '[[_Standards/WikiData/WD~Secret_Additional_Protocol_to_the_Molotov_Ribbentrop_Pact,4413308]]'
+- '[[_Standards/WikiData/WD~Empire_of_Japan,188712|WD~Empire_of_Japan,188712]]'
+- '[[_Standards/WikiData/WD~Allies_of_World_War_II,329888|WD~Allies_of_World_War_II,329888]]'
+- '[[_Standards/WikiData/WD~Korean_Peninsula,483134|WD~Korean_Peninsula,483134]]'
+- '[[_Standards/WikiData/WD~Nazi_persecution_of_the_Catholic_Church_in_Poland,16056517|WD~Nazi_persecution_of_the_Catholic_Church_in_Poland,16056517]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Nazi_Germany,7318|WD~Nazi_Germany,7318]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~League_of_Nations,38130|WD~League_of_Nations,38130]]'
+has_immediate_cause: '[[_Standards/WikiData/WD~Secret_Additional_Protocol_to_the_Molotov_Ribbentrop_Pact,4413308|WD~Secret_Additional_Protocol_to_the_Molotov_Ribbentrop_Pact,4413308]]'
 has_time_started: 1939-09-01
 has_time_stopped: 1945-09-02
 history_of_topic:
-- '[[_Standards/WikiData/WD~timeline_of_World_War_II,327039]]'
-- '[[_Standards/WikiData/WD~diplomatic_history_of_World_War_II,16973783]]'
+- '[[_Standards/WikiData/WD~timeline_of_World_War_II,327039|WD~timeline_of_World_War_II,327039]]'
+- '[[_Standards/WikiData/WD~diplomatic_history_of_World_War_II,16973783|WD~diplomatic_history_of_World_War_II,16973783]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Infobox%20collage%20for%20WWII.PNG
 instance_of:
-- '[[_Standards/WikiData/WD~world_war,103495]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~world_war,103495|WD~world_war,103495]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
 Krugosvet_article: istoriya/VTORAYA_MIROVAYA_VONA.html
 Libris_URI: 64jlkvmq4b77rq1
 location:
-- '[[_Standards/WikiData/WD~South_Asia,771405]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
-- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
-- '[[_Standards/WikiData/WD~Middle_East,7204]]'
-- '[[_Standards/WikiData/WD~Southeast_Asia,11708]]'
-- '[[_Standards/WikiData/WD~Scandinavia,21195]]'
-- '[[_Standards/WikiData/WD~North_Asia,27329]]'
-- '[[_Standards/WikiData/WD~Southern_Africa,27394]]'
-- '[[_Standards/WikiData/WD~East_Africa,27407]]'
-- '[[_Standards/WikiData/WD~Central_Africa,27433]]'
-- '[[_Standards/WikiData/WD~Africa,15]]'
-- '[[_Standards/WikiData/WD~South_America,18]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
-- '[[_Standards/WikiData/WD~Asia,48]]'
-- '[[_Standards/WikiData/WD~North_America,49]]'
-- '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
-- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Military_history_World_War_II_task_force,10653810]]'
+- '[[_Standards/WikiData/WD~South_Asia,771405|WD~South_Asia,771405]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
+- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
+- '[[_Standards/WikiData/WD~Middle_East,7204|WD~Middle_East,7204]]'
+- '[[_Standards/WikiData/WD~Southeast_Asia,11708|WD~Southeast_Asia,11708]]'
+- '[[_Standards/WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]]'
+- '[[_Standards/WikiData/WD~North_Asia,27329|WD~North_Asia,27329]]'
+- '[[_Standards/WikiData/WD~Southern_Africa,27394|WD~Southern_Africa,27394]]'
+- '[[_Standards/WikiData/WD~East_Africa,27407|WD~East_Africa,27407]]'
+- '[[_Standards/WikiData/WD~Central_Africa,27433|WD~Central_Africa,27433]]'
+- '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~South_America,18|WD~South_America,18]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~North_America,49|WD~North_America,49]]'
+- '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Military_history_World_War_II_task_force,10653810|WD~WikiProject_Military_history_World_War_II_task_force,10653810]]'
 MeSH_tree_code:
 - I01.880.735.950.250.984
 - K01.400.504.968.901
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/WW2%20collage.jpg
 number_of_deaths: 73000000
 order_of_battle:
-- '[[_Standards/WikiData/WD~French_army_1939_1940,2862963]]'
-- '[[_Standards/WikiData/WD~Order_of_battle_for_7th_Armoured_Division,7100586]]'
-- '[[_Standards/WikiData/WD~Order_of_battle_of_RAF_Coastal_Command,7275247]]'
-- '[[_Standards/WikiData/WD~Supplementary_Order_of_Battle,7644454]]'
-- '[[_Standards/WikiData/WD~Yugoslav_Army_in_the_Fatherland_order_of_battle,12759406]]'
-- '[[_Standards/WikiData/WD~Imperial_Japanese_Navy_order_of_battle_1941,16056731]]'
+- '[[_Standards/WikiData/WD~French_army_1939_1940,2862963|WD~French_army_1939_1940,2862963]]'
+- '[[_Standards/WikiData/WD~Order_of_battle_for_7th_Armoured_Division,7100586|WD~Order_of_battle_for_7th_Armoured_Division,7100586]]'
+- '[[_Standards/WikiData/WD~Order_of_battle_of_RAF_Coastal_Command,7275247|WD~Order_of_battle_of_RAF_Coastal_Command,7275247]]'
+- '[[_Standards/WikiData/WD~Supplementary_Order_of_Battle,7644454|WD~Supplementary_Order_of_Battle,7644454]]'
+- '[[_Standards/WikiData/WD~Yugoslav_Army_in_the_Fatherland_order_of_battle,12759406|WD~Yugoslav_Army_in_the_Fatherland_order_of_battle,12759406]]'
+- '[[_Standards/WikiData/WD~Imperial_Japanese_Navy_order_of_battle_1941,16056731|WD~Imperial_Japanese_Navy_order_of_battle_1941,16056731]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/World%20War%20II%20Banner.jpg
 participant:
-- '[[_Standards/WikiData/WD~Allies_of_World_War_II,329888]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- '[[_Standards/WikiData/WD~Axis_Powers,43056]]'
+- '[[_Standards/WikiData/WD~Allies_of_World_War_II,329888|WD~Allies_of_World_War_II,329888]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Nazi_Germany,7318|WD~Nazi_Germany,7318]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Axis_Powers,43056|WD~Axis_Powers,43056]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q21777981,21777981]]'
-- '[[_Standards/WikiData/WD~Q25681543,25681543]]'
-- '[[_Standards/WikiData/WD~Q27643331,27643331]]'
+- '[[_Standards/WikiData/WD~Q21777981,21777981|WD~Q21777981,21777981]]'
+- '[[_Standards/WikiData/WD~Q25681543,25681543|WD~Q25681543,25681543]]'
+- '[[_Standards/WikiData/WD~Q27643331,27643331|WD~Q27643331,27643331]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9.wav
 Provenio_UUID: 656acf95-f583-4653-b9d0-693e9159fc3e
 Regensburg_Classification: NQ 2545 - NQ 2795
@@ -330,16 +330,16 @@ start_time: 1939-09-01T00:00:00Z
 subreddit: WW2
 Swedish_Anbytarforum: 11155
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_World_War_II,5928186]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_World_War_II,3247957]]'
+- '[[_Standards/WikiData/WD~Template_World_War_II,5928186|WD~Template_World_War_II,5928186]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_World_War_II,3247957|WD~Portal_World_War_II,3247957]]'
 UMLS_CUI: C0681710
 U_S_National_Archives_Identifier: 10644634
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Square%20military%20parade%20November%207%2C%201941.ogv
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_World_War_II,16056531]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_World_War_II,16056531|WD~outline_of_World_War_II,16056531]]'
 Wolfram_Language_entity_code:
 - Entity["HistoricalEvent", "WorldWar2"]
 - Entity["MilitaryConflict", "WorldWarII"]
-topic_has_template: '[[_Standards/WikiData/WD~Template_World_War_II,5928186]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_World_War_II,5928186|WD~Template_World_War_II,5928186]]'
 booru_tag: world_war_ii
 hashtag_: world_war_ii
 subject_named_as: Zweiter Weltkrieg
@@ -629,7 +629,7 @@ dv_has_:
     stopped: 1945-09-02T00:00:00.000+03:00
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~World_War_II,362]]'
+  - '[[../../../../../../../../WikiData/WD~World_War_II,362|WD~World_War_II,362]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II|1939-World_War_II]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II.public|1939-World_War_II.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II.internal|1939-World_War_II.internal]]'
@@ -642,7 +642,7 @@ dv_has_previous_item: '[[1914-World_War_I]]'
 dv_has_duration_years: 6
 dv_has_duration: P6Y1D
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~World_War_II,362]]'
+- '[[../../../../../../../../WikiData/WD~World_War_II,362|WD~World_War_II,362]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II|1939-World_War_II]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II.public|1939-World_War_II.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II.internal|1939-World_War_II.internal]]'
@@ -661,7 +661,7 @@ has_previous_item = `=this.dv_has_previous_item`
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~World_War_II,362]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~World_War_II,362|WD~World_War_II,362]] 
 
 ## #has_/text_of_/abstract 
 
@@ -689,9 +689,9 @@ has_previous_item = `=this.dv_has_previous_item`
 > Soviet–Japanese border conflicts, and tensions in the aftermath of World War I. 
 > 
 > World War II is generally considered to have begun on 1 September 1939, 
-> when [[1939-World_War_II/Nazi-Germany]], under [[../../../../../../../../Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf]], invaded [[Poland]]. 
+> when [[1939-World_War_II/Nazi-Germany|Nazi-Germany]], under [[../../../../../../../../Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf|Hitler,Adolf]], invaded [[Poland]]. 
 > The United Kingdom and France declared war on Germany on 3 September. 
-> Under the [[1939-World_War_II/Molotov–Ribbentrop_Pact]] of August 1939, 
+> Under the [[1939-World_War_II/Molotov–Ribbentrop_Pact|Molotov–Ribbentrop_Pact]] of August 1939, 
 > Germany and the Soviet Union had partitioned Poland and marked out 
 > their "spheres of influence" across Finland, Estonia, Latvia, Lithuania, and Romania. 
 > From late 1939 to early 1941, in a series of campaigns and treaties, 

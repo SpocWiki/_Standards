@@ -63,8 +63,8 @@ aliases:
 - 路由器
 - 라우터
 has_id_wikidata: Q5318
-subclass_of: '[[_Standards/WikiData/WD~networking_hardware,1546066]]'
-described_by_source: '[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904]]'
+subclass_of: '[[_Standards/WikiData/WD~networking_hardware,1546066|WD~networking_hardware,1546066]]'
+described_by_source: '[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904|WD~_Kyrgyzstan_national_encyclopedia,16679904]]'
 OmegaWiki_Defined_Meaning: 691815
 ArchWiki_article: Router
 GS1_GPC_code: 10003737

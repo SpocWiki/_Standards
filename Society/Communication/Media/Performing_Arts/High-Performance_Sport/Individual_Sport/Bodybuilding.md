@@ -69,14 +69,14 @@ aliases:
 - 健美
 - 보디빌딩
 has_id_wikidata: Q124100
-subclass_of: '[[_Standards/WikiData/WD~strength_sport,337979]]'
-uses: '[[_Standards/WikiData/WD~weight_training,1425378]]'
+subclass_of: '[[_Standards/WikiData/WD~strength_sport,337979|WD~strength_sport,337979]]'
+uses: '[[_Standards/WikiData/WD~weight_training,1425378|WD~weight_training,1425378]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-practiced_by: '[[_Standards/WikiData/WD~bodybuilder,15982795]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~sports_discipline,2312410|WD~sports_discipline,2312410]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+practiced_by: '[[_Standards/WikiData/WD~bodybuilder,15982795|WD~bodybuilder,15982795]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 IAB_code: 549
 hashtag: Bodybuilding
 Commons_category: Bodybuilding

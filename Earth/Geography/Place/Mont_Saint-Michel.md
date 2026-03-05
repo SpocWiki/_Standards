@@ -44,44 +44,44 @@ location:
 - 48.635833333
 - -1.510277777
 shares_border_with:
-- '[[_Standards/WikiData/WD~Pontorson,331426]]'
-- '[[_Standards/WikiData/WD~Beauvoir,1001692]]'
-- '[[_Standards/WikiData/WD~Pontorson,28464310]]'
-associated_electoral_district: '[[_Standards/WikiData/WD~canton_of_Pontorson,478090]]'
+- '[[_Standards/WikiData/WD~Pontorson,331426|WD~Pontorson,331426]]'
+- '[[_Standards/WikiData/WD~Beauvoir,1001692|WD~Beauvoir,1001692]]'
+- '[[_Standards/WikiData/WD~Pontorson,28464310|WD~Pontorson,28464310]]'
+associated_electoral_district: '[[_Standards/WikiData/WD~canton_of_Pontorson,478090|WD~canton_of_Pontorson,478090]]'
 instance_of:
-- '[[_Standards/WikiData/WD~commune_of_France,484170]]'
-- '[[_Standards/WikiData/WD~car_free_place,64953083]]'
+- '[[_Standards/WikiData/WD~commune_of_France,484170|WD~commune_of_France,484170]]'
+- '[[_Standards/WikiData/WD~car_free_place,64953083|WD~car_free_place,64953083]]'
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Couesnon,632961]]'
-- '[[_Standards/WikiData/WD~English_Channel,34640]]'
+- '[[_Standards/WikiData/WD~Couesnon,632961|WD~Couesnon,632961]]'
+- '[[_Standards/WikiData/WD~English_Channel,34640|WD~English_Channel,34640]]'
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~arrondissement_of_Avranches,700557]]'
-- '[[_Standards/WikiData/WD~Manche,12589]]'
-member_of: '[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]'
+- '[[_Standards/WikiData/WD~arrondissement_of_Avranches,700557|WD~arrondissement_of_Avranches,700557]]'
+- '[[_Standards/WikiData/WD~Manche,12589|WD~Manche,12589]]'
+member_of: '[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958|WD~Organization_of_World_Heritage_Cities,734958]]'
 twinned_administrative_body:
-- '[[_Standards/WikiData/WD~Hatsukaichi,736897]]'
-- '[[_Standards/WikiData/WD~Itsukushima,875301]]'
-- "[[_Standards/WikiData/WD~Monte_Sant'Angelo,51935]]"
+- '[[_Standards/WikiData/WD~Hatsukaichi,736897|WD~Hatsukaichi,736897]]'
+- '[[_Standards/WikiData/WD~Itsukushima,875301|WD~Itsukushima,875301]]'
+- "[[_Standards/WikiData/WD~Monte_Sant'Angelo,51935|WD~Monte_Sant'Angelo,51935]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]'
-archives_at: '[[_Standards/WikiData/WD~Departmental_archives_of_Manche,2860496]]'
-list_of_monuments: '[[_Standards/WikiData/WD~Q3252411,3252411]]'
-category_for_people_buried_here: '[[_Standards/WikiData/WD~Q9535051,9535051]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Mayor_of_Le_Mont_Saint_Michel,65243672]]'
-head_of_government: '[[_Standards/WikiData/WD~Jacques_Bono,98239458]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278|WD~Meyer_s_Universum,_Zweiter_Band,126937278]]'
+archives_at: '[[_Standards/WikiData/WD~Departmental_archives_of_Manche,2860496|WD~Departmental_archives_of_Manche,2860496]]'
+list_of_monuments: '[[_Standards/WikiData/WD~Q3252411,3252411|WD~Q3252411,3252411]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q9535051,9535051|WD~Q9535051,9535051]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Mayor_of_Le_Mont_Saint_Michel,65243672|WD~Mayor_of_Le_Mont_Saint_Michel,65243672]]'
+head_of_government: '[[_Standards/WikiData/WD~Jacques_Bono,98239458|WD~Jacques_Bono,98239458]]'
 coordinate_location: Point(-1.510277777 48.635833333)
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-country: '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 male_population: 13
 elevation_above_sea_level: 17
 female_population: 17
 population: 23
 area: 3.97
-patron_saint: '[[_Standards/WikiData/WD~Archangel_Michael,45581]]'
+patron_saint: '[[_Standards/WikiData/WD~Archangel_Michael,45581|WD~Archangel_Michael,45581]]'
 INSEE_municipality_code: 50353
 postal_code: 50170
 OmegaWiki_Defined_Meaning: 899293
@@ -259,7 +259,7 @@ dv_has_:
 
 # [[Mont_Saint-Michel]]
 
-![[../../../assets/Mont_Saint-Michel.png]] 
+![[../../../assets/Mont_Saint-Michel.png|Mont_Saint-Michel.png]] 
 By <a href="//commons.wikimedia.org/wiki/User:Amaustan" title="User:Amaustan">Amaustan</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79528206">Link</a>
 
 #is_/same_as :: [[../../../WikiData/WD~Le_Mont-Saint-Michel,20892|WD~Le_Mont-Saint-Michel,20892]] 

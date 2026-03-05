@@ -68,25 +68,25 @@ aliases:
 - 반도 전쟁
 has_id_wikidata: Q152499
 participant:
-- '[[_Standards/WikiData/WD~First_French_Empire,71084]]'
-- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-- '[[_Standards/WikiData/WD~Spain_under_Joseph_Bonaparte,1709185]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Spain,3399982]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]'
+- '[[_Standards/WikiData/WD~First_French_Empire,71084|WD~First_French_Empire,71084]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193|WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~Spain_under_Joseph_Bonaparte,1709185|WD~Spain_under_Joseph_Bonaparte,1709185]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Spain,3399982|WD~Kingdom_of_Spain,3399982]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670|WD~Kingdom_of_Portugal,45670]]'
 instance_of:
-- '[[_Standards/WikiData/WD~military_occupation,188686]]'
-- '[[_Standards/WikiData/WD~war_of_national_liberation,1006311]]'
-- '[[_Standards/WikiData/WD~encyclopedia_article,13433827]]'
+- '[[_Standards/WikiData/WD~military_occupation,188686|WD~military_occupation,188686]]'
+- '[[_Standards/WikiData/WD~war_of_national_liberation,1006311|WD~war_of_national_liberation,1006311]]'
+- '[[_Standards/WikiData/WD~encyclopedia_article,13433827|WD~encyclopedia_article,13433827]]'
 described_by_source:
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-destroyed: '[[_Standards/WikiData/WD~Abbey_of_Santa_Engracia,3320240]]'
-country: '[[_Standards/WikiData/WD~Kingdom_of_Spain,3399982]]'
-published_in: "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-significant_event: '[[_Standards/WikiData/WD~Napoleonic_looting_of_art_in_Spain,109313761]]'
-location: '[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+destroyed: '[[_Standards/WikiData/WD~Abbey_of_Santa_Engracia,3320240|WD~Abbey_of_Santa_Engracia,3320240]]'
+country: '[[_Standards/WikiData/WD~Kingdom_of_Spain,3399982|WD~Kingdom_of_Spain,3399982]]'
+published_in: "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+significant_event: '[[_Standards/WikiData/WD~Napoleonic_looting_of_art_in_Spain,109313761|WD~Napoleonic_looting_of_art_in_Spain,109313761]]'
+location: '[[_Standards/WikiData/WD~Iberian_Peninsula,12837|WD~Iberian_Peninsula,12837]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/El%20Tres%20de%20Mayo%2C%20by%20Francisco%20de%20Goya%2C%20from%20Prado%20in%20Google%20Earth.jpg
 end_time: 1814-04-17T00:00:00Z
 Commons_category: Spanish War of Independence
@@ -103,7 +103,7 @@ native_label:
 start_time: 1808-05-02T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Peninsular_War,152499]]'
+  - '[[../../../../../../../../WikiData/WD~Peninsular_War,152499|WD~Peninsular_War,152499]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814|1807-Peninsular_War+1814]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.public|1807-Peninsular_War+1814.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.internal|1807-Peninsular_War+1814.internal]]'
@@ -112,7 +112,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.personal|1807-Peninsular_War+1814.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.secret|1807-Peninsular_War+1814.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Peninsular_War,152499]]'
+- '[[../../../../../../../../WikiData/WD~Peninsular_War,152499|WD~Peninsular_War,152499]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814|1807-Peninsular_War+1814]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.public|1807-Peninsular_War+1814.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.internal|1807-Peninsular_War+1814.internal]]'

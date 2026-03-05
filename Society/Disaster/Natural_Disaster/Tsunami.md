@@ -78,22 +78,22 @@ Dewey_Decimal_Classification:
 - 363.3494
 - 551.4637
 different_from:
-- '[[_Standards/WikiData/WD~Tsunami,1211774]]'
-- '[[_Standards/WikiData/WD~Raz-de-marée,3421345]]'
-- '[[_Standards/WikiData/WD~flood_wave,50803918]]'
+- '[[_Standards/WikiData/WD~Tsunami,1211774|WD~Tsunami,1211774]]'
+- '[[_Standards/WikiData/WD~Raz-de-marée,3421345|WD~Raz-de-marée,3421345]]'
+- '[[_Standards/WikiData/WD~flood_wave,50803918|WD~flood_wave,50803918]]'
 EntitySchema_for_this_class: E115
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000689
 Gujarati_Vishwakosh_entry: સમુદ્રકંપ-સુનામી-seaquake-tsunami
 has_cause:
-- '[[_Standards/WikiData/WD~landslide,167903]]'
-- '[[_Standards/WikiData/WD~tsunami_bomb,2580904]]'
-- '[[_Standards/WikiData/WD~submarine_landslide,5975740]]'
-- '[[_Standards/WikiData/WD~volcanic_eruption,7692360]]'
-- '[[_Standards/WikiData/WD~earthquake,7944]]'
-- '[[_Standards/WikiData/WD~meteorite,60186]]'
+- '[[_Standards/WikiData/WD~landslide,167903|WD~landslide,167903]]'
+- '[[_Standards/WikiData/WD~tsunami_bomb,2580904|WD~tsunami_bomb,2580904]]'
+- '[[_Standards/WikiData/WD~submarine_landslide,5975740|WD~submarine_landslide,5975740]]'
+- '[[_Standards/WikiData/WD~volcanic_eruption,7692360|WD~volcanic_eruption,7692360]]'
+- '[[_Standards/WikiData/WD~earthquake,7944|WD~earthquake,7944]]'
+- '[[_Standards/WikiData/WD~meteorite,60186|WD~meteorite,60186]]'
 has_effect:
-- '[[_Standards/WikiData/WD~rogue_wave,110360]]'
-- '[[_Standards/WikiData/WD~flood,8068]]'
+- '[[_Standards/WikiData/WD~rogue_wave,110360|WD~rogue_wave,110360]]'
+- '[[_Standards/WikiData/WD~flood,8068|WD~flood,8068]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Tsunami%20wave%20hitting%20city.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tsunami%20by%20hokusai%2019th%20century.jpg
 Krugosvet_article: geografiya/tsunami
@@ -105,19 +105,19 @@ MeSH_tree_code: G01.311.933
 MIL_STD_2525_Symbol_Identification_Code: 10014000001702030000
 OmegaWiki_Defined_Meaning: 3367
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Tsunami%20WV%20banner.jpg
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828680,22828680]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828680,22828680|WD~Q22828680,22828680]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%B8%E0%A9%81%E0%A8%A8%E0%A8%BE%E0%A8%AE%E0%A9%80.wav
 RIA_Novosti_reference: 772273
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/%E6%B4%A5%E6%B3%A2%E3%81%AE%E9%80%9F%E5%BA%A6.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Emerging%20Giant%E2%80%94A%20Tsunami%20Races%20across%20the%20Ocean.svg
 studied_in:
-- '[[_Standards/WikiData/WD~oceanology,3349060]]'
-- '[[_Standards/WikiData/WD~geology,1069]]'
-- '[[_Standards/WikiData/WD~geophysics,46255]]'
+- '[[_Standards/WikiData/WD~oceanology,3349060|WD~oceanology,3349060]]'
+- '[[_Standards/WikiData/WD~geology,1069|WD~geology,1069]]'
+- '[[_Standards/WikiData/WD~geophysics,46255|WD~geophysics,46255]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~displacement,582695]]'
-- '[[_Standards/WikiData/WD~natural_disaster,8065]]'
+- '[[_Standards/WikiData/WD~displacement,582695|WD~displacement,582695]]'
+- '[[_Standards/WikiData/WD~natural_disaster,8065|WD~natural_disaster,8065]]'
 UMLS_CUI: C1998926
 U_S_National_Archives_Identifier: 10648584
 video:

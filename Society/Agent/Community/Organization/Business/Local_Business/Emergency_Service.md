@@ -34,7 +34,7 @@ Tag Instances like this:
 
 An emergency service, such as a fire station or ER.
 
-#has_/parent_class :: [[../LocalBusiness]]  
+#has_/parent_class :: [[../LocalBusiness|LocalBusiness]]  
 
 #has_/child_/class :: [ FireStation, Hospital, PoliceStation ]  
 

@@ -40,10 +40,10 @@ aliases:
 has_participants:
 - '[[Israel]]'
 - '[[Bahrain]]'
-- '[[../../America~North/USA]]'
+- '[[../../America~North/USA|USA]]'
 - '[[United_Arab_Emirates]]'
 - '[[../../Africa/Africa~North/Morocco|Morocco]]'
-- '[[../../Africa/Africa~East/Sudan/Sudan~North]]'
+- '[[../../Africa/Africa~East/Sudan/Sudan~North|Sudan~North]]'
 dv_has_:
   name_:
     ar: اتفاقيات إبراهيم

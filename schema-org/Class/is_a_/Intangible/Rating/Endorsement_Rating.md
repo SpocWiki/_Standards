@@ -37,7 +37,7 @@ dv_is_:
     - "[[Endorsement_Rating]]"
 dv_has_:
   parent_class:
-    - "[[../Rating]]"
+    - "[[../Rating|Rating]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -58,7 +58,7 @@ dv_has_:
     - "[[../../Property/has_url_for/has_url|has_url]]"
     - "[[worst_rating|worst_rating]]"
 dv_has_parent_class:
-  - "[[../Rating]]"
+  - "[[../Rating|Rating]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -95,7 +95,7 @@ Tag Instances like this:
 
 An EndorsementRating is a rating that expresses some level of endorsement, for example inclusion in a "critic's pick" blog,
 a "Like" or "+1" on a social network. It can be considered the [[result]] of an [[EndorseAction]] in which the [[object]] of the action is rated positively by
-some [[../../../../../Society/Agent]]. As is common elsewhere in schema.org, it is sometimes more useful to describe the results of such an action without explicitly describing the [[Action]].
+some [[../../../../../Society/Agent|Agent]]. As is common elsewhere in schema.org, it is sometimes more useful to describe the results of such an action without explicitly describing the [[Action]].
 
 An [[EndorsementRating]] may be part of a numeric scale or organized system, but this is not required: having an explicit type for indicating a positive,
 endorsement rating is particularly useful in the absence of numeric scales as it helps consumers understand that the rating is broadly positive.

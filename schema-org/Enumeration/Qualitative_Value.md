@@ -36,10 +36,10 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value.secret|Qualitative_Value.secret]]"
     - "[[Qualitative_Value]]"
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
   child_class: "[ BedType, DriveWheelConfigurationValue, SizeSpecification, SteeringPositionValue ]"
   properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_has_child_class: "[ BedType, DriveWheelConfigurationValue, SizeSpecification, SteeringPositionValue ]"
 dv_has_properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
 dv_is_same_as:

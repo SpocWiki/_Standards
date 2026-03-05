@@ -45,8 +45,8 @@ aliases:
 - 媒体大亨
 - 媒體大亨
 has_id_wikidata: Q1420621
-subclass_of: '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
+subclass_of: '[[_Standards/WikiData/WD~entrepreneur,131524|WD~entrepreneur,131524]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 male_form_of_label:
 - медиамагнат
 - мэдыямагнат
@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Media_Mogul]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~media_proprietor,1420621]] 
+#is_/same_as :: [[_Standards/WikiData/WD~media_proprietor,1420621|WD~media_proprietor,1420621]] 
 
 ## #has_/text_of_/abstract 
 

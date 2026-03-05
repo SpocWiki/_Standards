@@ -28,12 +28,12 @@ tags:
 title: has_employee
 type: Predi_Relation
 dv_has_:
-  inverse: "[[has_employee/has_employer]]"
-  employees: "[[../../../Society/Agent/Person]]"
-  domain: "[[../../../Society/Agent/Community/Organization]]"
+  inverse: "[[has_employee/has_employer|has_employer]]"
+  employees: "[[../../../Society/Agent/Person|Person]]"
+  domain: "[[../../../Society/Agent/Community/Organization|Organization]]"
   name: has_employee
-  range: "[[../../../Society/Agent/Person]]"
-dv_has_employee: "[[../../../Society/Agent/Person]]"
+  range: "[[../../../Society/Agent/Person|Person]]"
+dv_has_employee: "[[../../../Society/Agent/Person|Person]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_employee|has_employee]]"
@@ -44,10 +44,10 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_employee.personal|has_employee.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_employee.secret|has_employee.secret]]"
     - "[[has_employee]]"
-dv_has_domain: "[[../../../Society/Agent/Community/Organization]]"
+dv_has_domain: "[[../../../Society/Agent/Community/Organization|Organization]]"
 dv_has_name: has_employee
-dv_has_range: "[[../../../Society/Agent/Person]]"
-dv_has_inverse: "[[has_employee/has_employer]]"
+dv_has_range: "[[../../../Society/Agent/Person|Person]]"
+dv_has_inverse: "[[has_employee/has_employer|has_employer]]"
 dv_is_same_as:
   - "[[has_employee]]"
   - "[[/_public/schema-org/Relation/has/has_employee.public|has_employee.public]]"
@@ -67,7 +67,7 @@ Use it like this:
 - has_employee = `=this.dv_has_employee` 
 
 People working for this organization. 
-Also maintain the Inverse [[has_employee/has_employer]]! 
+Also maintain the Inverse [[has_employee/has_employer|has_employer]]! 
 
 Relation describes that: 
 

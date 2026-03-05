@@ -59,34 +59,34 @@ aliases:
 - 유월절
 has_id_wikidata: Q121393
 subclass_of:
-- '[[_Standards/WikiData/WD~Jewish_holiday,94920]]'
-- '[[_Standards/WikiData/WD~Yom_Tov,3572511]]'
-month_of_the_year: '[[_Standards/WikiData/WD~Nisan,208192]]'
+- '[[_Standards/WikiData/WD~Jewish_holiday,94920|WD~Jewish_holiday,94920]]'
+- '[[_Standards/WikiData/WD~Yom_Tov,3572511|WD~Yom_Tov,3572511]]'
+month_of_the_year: '[[_Standards/WikiData/WD~Nisan,208192|WD~Nisan,208192]]'
 foods_traditionally_associated:
-- '[[_Standards/WikiData/WD~matzah,211361]]'
-- '[[_Standards/WikiData/WD~matzah_ball,559201]]'
-- '[[_Standards/WikiData/WD~matzah_brei,2654880]]'
+- '[[_Standards/WikiData/WD~matzah,211361|WD~matzah,211361]]'
+- '[[_Standards/WikiData/WD~matzah_ball,559201|WD~matzah_ball,559201]]'
+- '[[_Standards/WikiData/WD~matzah_brei,2654880|WD~matzah_brei,2654880]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-commemorates: '[[_Standards/WikiData/WD~The_Exodus,1290338]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+commemorates: '[[_Standards/WikiData/WD~The_Exodus,1290338|WD~The_Exodus,1290338]]'
 instance_of:
-- '[[_Standards/WikiData/WD~holiday,1445650]]'
-- '[[_Standards/WikiData/WD~Three_Pilgrimage_Festivals,1517900]]'
+- '[[_Standards/WikiData/WD~holiday,1445650|WD~holiday,1445650]]'
+- '[[_Standards/WikiData/WD~Three_Pilgrimage_Festivals,1517900|WD~Three_Pilgrimage_Festivals,1517900]]'
 day_in_year_for_periodic_occurrence:
-- '[[_Standards/WikiData/WD~18_Nisan,2906241]]'
-- '[[_Standards/WikiData/WD~19_Nisan,2906277]]'
-- '[[_Standards/WikiData/WD~15_Nisan,2911896]]'
-- '[[_Standards/WikiData/WD~17_Nisan,2912200]]'
-- '[[_Standards/WikiData/WD~22_Nisan,2912297]]'
-- '[[_Standards/WikiData/WD~16_Nisan,2912314]]'
-- '[[_Standards/WikiData/WD~20_Nisan,2912320]]'
-- '[[_Standards/WikiData/WD~21_Nisan,12408426]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Passover_footer,13100192]]'
+- '[[_Standards/WikiData/WD~18_Nisan,2906241|WD~18_Nisan,2906241]]'
+- '[[_Standards/WikiData/WD~19_Nisan,2906277|WD~19_Nisan,2906277]]'
+- '[[_Standards/WikiData/WD~15_Nisan,2911896|WD~15_Nisan,2911896]]'
+- '[[_Standards/WikiData/WD~17_Nisan,2912200|WD~17_Nisan,2912200]]'
+- '[[_Standards/WikiData/WD~22_Nisan,2912297|WD~22_Nisan,2912297]]'
+- '[[_Standards/WikiData/WD~16_Nisan,2912314|WD~16_Nisan,2912314]]'
+- '[[_Standards/WikiData/WD~20_Nisan,2912320|WD~20_Nisan,2912320]]'
+- '[[_Standards/WikiData/WD~21_Nisan,12408426|WD~21_Nisan,12408426]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Passover_footer,13100192|WD~Template_Passover_footer,13100192]]'
 duration:
 - 7
 - 8

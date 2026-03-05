@@ -13,7 +13,7 @@ and from Workshop to Manufacturing and Factories and eventually Assembly Lines.
 The concrete example was making needles. 
 
 ## Theory of Comparative Advantage 
-[[Economist/Ricardo,David]]'s Theory of Comparative Advantage in addition proves that, 
+[[Economist/Ricardo,David|Ricardo,David]]'s Theory of Comparative Advantage in addition proves that, 
 Specialization and international Trade is always beneficial, 
 even if one country is more competitive in every area than its trading counterpart. 
 

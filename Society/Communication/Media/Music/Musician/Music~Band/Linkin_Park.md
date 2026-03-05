@@ -324,7 +324,7 @@ Most famous Tracks:
 > **Linkin Park** is an American rock band formed in Agoura Hills, California, in 1996. 
 > The band's lineup consists of vocalist/rhythm guitarist/keyboardist Mike Shinoda, 
 > lead guitarist Brad Delson, bassist Dave Farrell, DJ/turntablist Joe Hahn, and drummer Rob Bourdon, 
-> with vocalist [[Linkin_Park/Bennington,Chester]] also part of the band until his death in 2017. 
+> with vocalist [[Linkin_Park/Bennington,Chester|Bennington,Chester]] also part of the band until his death in 2017. 
 > Categorized as alternative rock, 
 > Linkin Park's earlier music spanned a fusion of heavy metal and hip hop, 
 > while their later music features more electronica and pop elements.

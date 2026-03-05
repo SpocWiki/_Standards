@@ -39,11 +39,11 @@ dv_has_:
 #is_/similar_to :: [[Tool(Band)]] 
 #is_/similar_to :: [[Meshuggah(Band)]] 
 #is_/similar_to :: [[Opeth]] 
-#is_/similar_to :: [[../../Music_Genre/Progressive_Rock/Dream_Theater]] 
+#is_/similar_to :: [[../../Music_Genre/Progressive_Rock/Dream_Theater|Dream_Theater]] 
 #is_/similar_to :: [[Deftones]] 
 
-#has_/text_of_/genre :: [[../../../../../../../_Standards/Society/Communication/Media/Music/Music_Genre/Jazz]] 
-#has_/text_of_/genre :: [[../../../../../../../_Standards/chemic/inOrganic/Metal]] 
+#has_/text_of_/genre :: [[../../../../../../../_Standards/Society/Communication/Media/Music/Music_Genre/Jazz|Jazz]] 
+#has_/text_of_/genre :: [[../../../../../../../_Standards/chemic/inOrganic/Metal|Metal]] 
 
 
 The identities are probably revealed https://killthemusic.net/blog/exclusive-sleep-token-members-revealed: 
@@ -106,7 +106,7 @@ He was part of the Duos Blacklit Canopy and Aurora Jazz with [Gemma Matthews](ht
 
 | No. | Title                                | Length |                                                   |
 | --: | ------------------------------------ | -----: | :------------------------------------------------ |
-|  1. | [[Sleep_Token/Sleep_Token-Chokehold]]            |   5:04 |                                                   |
+|  1. | [[Sleep_Token/Sleep_Token-Chokehold|Sleep_Token-Chokehold]]            |   5:04 |                                                   |
 |  2. | [[Sleep_Token-Summoning]]            |   6:35 | Ambient (Final Fantasy )<br>Funky in the End      |
 |  3. | [[Sleep_Token-Granite]]              |   3:45 |                                                   |
 |  4. | [[Sleep_Token-Aqua_Regia]]           |   3:56 | Jazz, R&B                                         |
@@ -116,7 +116,7 @@ He was part of the Duos Blacklit Canopy and Aurora Jazz with [Gemma Matthews](ht
 |  8. | "The Apparition"                     |   4:28 |                                                   |
 |  9. | [[Sleep_Token-DYWTYLM]]"             |   4:00 | Reggae                                            |
 | 10. | "Rain"                               |   4:12 |                                                   |
-| 11. | [[Sleep_Token/Sleep_Token-Take_me_back_to_Eden]] |   8:20 | Hip Hop, Trap,                                    |
+| 11. | [[Sleep_Token/Sleep_Token-Take_me_back_to_Eden|Sleep_Token-Take_me_back_to_Eden]] |   8:20 | Hip Hop, Trap,                                    |
 | 12. | [[Sleep_Token-Euclid]]               |   5:13 | Same melody as "The Night Does Not Belong to God" |
 |     | Total length:                        |        |                                                   |
 
@@ -148,9 +148,9 @@ Funky in the End
 
 ### beautiful 
 
-#### [[Sleep_Token/The_Night_does_not_belong_to_God]] 
+#### [[Sleep_Token/The_Night_does_not_belong_to_God|The_Night_does_not_belong_to_God]] 
 
-#### [[Sleep_Token/Euclid(Sleep_Token)]] 
+#### [[Sleep_Token/Euclid(Sleep_Token)|Euclid(Sleep_Token)]] 
 #### Take Me Back To Eden 
 
 Hip-Hop and Rapping 

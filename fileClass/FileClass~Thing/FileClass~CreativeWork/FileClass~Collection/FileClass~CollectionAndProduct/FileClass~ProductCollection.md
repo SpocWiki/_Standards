@@ -29,7 +29,7 @@ version: 2.0
 # ProductCollection
 This is a kind of [[FileClass~CollectionAndProduct]]
 
-A set of products (either [[ProductGroup]]s or specific variants) that are listed together e.g. in an [[../../../../../Society/Agent/Community/Organization/Business/Offer]].
+A set of products (either [[ProductGroup]]s or specific variants) that are listed together e.g. in an [[../../../../../Society/Agent/Community/Organization/Business/Offer|Offer]].
 
 
 ## Use one of these Tags for Objects of this Type:
@@ -41,7 +41,7 @@ A set of products (either [[ProductGroup]]s or specific variants) that are liste
 ## Properties:
 
 ### IncludesObject
-This links to a node or nodes indicating the exact quantity of the products included in  an [[../../../../../Society/Agent/Community/Organization/Business/Offer]] or [[ProductCollection]].
+This links to a node or nodes indicating the exact quantity of the products included in  an [[../../../../../Society/Agent/Community/Organization/Business/Offer|Offer]] or [[ProductCollection]].
 
 IncludesObject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/TypeAndQuantityNode')"}}
 

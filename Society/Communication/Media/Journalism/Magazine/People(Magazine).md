@@ -19,27 +19,27 @@ aliases:
 - 피플
 has_id_wikidata: Q33659
 main_subject:
-- '[[_Standards/WikiData/WD~celebrity,211236]]'
-- '[[_Standards/WikiData/WD~human_interest_story,361306]]'
-- '[[_Standards/WikiData/WD~news,38926]]'
+- '[[_Standards/WikiData/WD~celebrity,211236|WD~celebrity,211236]]'
+- '[[_Standards/WikiData/WD~human_interest_story,361306|WD~human_interest_story,361306]]'
+- '[[_Standards/WikiData/WD~news,38926|WD~news,38926]]'
 founded_by:
-- '[[_Standards/WikiData/WD~Andrew_Heiskell,1791673]]'
-- '[[_Standards/WikiData/WD~Dick_Durrell,5272864]]'
-- '[[_Standards/WikiData/WD~Robert_Emmett_Ginna,110111600]]'
-production_company: '[[_Standards/WikiData/WD~Meredith_Corporation,1921579]]'
-newspaper_format: '[[_Standards/WikiData/WD~digest_size,2480302]]'
-instance_of: '[[_Standards/WikiData/WD~weekly_magazine,12340140]]'
+- '[[_Standards/WikiData/WD~Andrew_Heiskell,1791673|WD~Andrew_Heiskell,1791673]]'
+- '[[_Standards/WikiData/WD~Dick_Durrell,5272864|WD~Dick_Durrell,5272864]]'
+- '[[_Standards/WikiData/WD~Robert_Emmett_Ginna,110111600|WD~Robert_Emmett_Ginna,110111600]]'
+production_company: '[[_Standards/WikiData/WD~Meredith_Corporation,1921579|WD~Meredith_Corporation,1921579]]'
+newspaper_format: '[[_Standards/WikiData/WD~digest_size,2480302|WD~digest_size,2480302]]'
+instance_of: '[[_Standards/WikiData/WD~weekly_magazine,12340140|WD~weekly_magazine,12340140]]'
 different_from:
-- "[[_Standards/WikiData/WD~People's_Magazine,63684861]]"
-- "[[_Standards/WikiData/WD~People's_Magazine,63686479]]"
-- '[[_Standards/WikiData/WD~Renwu,107494379]]'
-- '[[_Standards/WikiData/WD~People_Magazine,124535772]]'
-editor_in_chief: '[[_Standards/WikiData/WD~Robert_Emmett_Ginna,110111600]]'
-publisher: '[[_Standards/WikiData/WD~People_Inc.,124250582]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-headquarters_location: '[[_Standards/WikiData/WD~New_York_City,60]]'
+- "[[_Standards/WikiData/WD~People's_Magazine,63684861|WD~People's_Magazine,63684861]]"
+- "[[_Standards/WikiData/WD~People's_Magazine,63686479|WD~People's_Magazine,63686479]]"
+- '[[_Standards/WikiData/WD~Renwu,107494379|WD~Renwu,107494379]]'
+- '[[_Standards/WikiData/WD~People_Magazine,124535772|WD~People_Magazine,124535772]]'
+editor_in_chief: '[[_Standards/WikiData/WD~Robert_Emmett_Ginna,110111600|WD~Robert_Emmett_Ginna,110111600]]'
+publisher: '[[_Standards/WikiData/WD~People_Inc.,124250582|WD~People_Inc.,124250582]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+headquarters_location: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
 publication_interval: 1
 social_media_followers: 1330000
 title: People
@@ -68,27 +68,27 @@ shortened_URL_formatter: https://peoplem.ag/has_time_started: 1974-03-04
 aliases:
 has_id_wikidata: Q33659
 main_subject:
-  - "[[_Standards/WikiData/WD~celebrity,211236]]"
-  - "[[_Standards/WikiData/WD~human_interest_story,361306]]"
-  - "[[_Standards/WikiData/WD~news,38926]]"
+  - "[[_Standards/WikiData/WD~celebrity,211236|WD~celebrity,211236]]"
+  - "[[_Standards/WikiData/WD~human_interest_story,361306|WD~human_interest_story,361306]]"
+  - "[[_Standards/WikiData/WD~news,38926|WD~news,38926]]"
 founded_by:
-  - "[[_Standards/WikiData/WD~Andrew_Heiskell,1791673]]"
-  - "[[_Standards/WikiData/WD~Dick_Durrell,5272864]]"
-  - "[[_Standards/WikiData/WD~Robert_Emmett_Ginna,110111600]]"
-production_company: "[[_Standards/WikiData/WD~Meredith_Corporation,1921579]]"
-newspaper_format: "[[_Standards/WikiData/WD~digest_size,2480302]]"
-instance_of: "[[_Standards/WikiData/WD~weekly_magazine,12340140]]"
+  - "[[_Standards/WikiData/WD~Andrew_Heiskell,1791673|WD~Andrew_Heiskell,1791673]]"
+  - "[[_Standards/WikiData/WD~Dick_Durrell,5272864|WD~Dick_Durrell,5272864]]"
+  - "[[_Standards/WikiData/WD~Robert_Emmett_Ginna,110111600|WD~Robert_Emmett_Ginna,110111600]]"
+production_company: "[[_Standards/WikiData/WD~Meredith_Corporation,1921579|WD~Meredith_Corporation,1921579]]"
+newspaper_format: "[[_Standards/WikiData/WD~digest_size,2480302|WD~digest_size,2480302]]"
+instance_of: "[[_Standards/WikiData/WD~weekly_magazine,12340140|WD~weekly_magazine,12340140]]"
 different_from:
-  - "[[_Standards/WikiData/WD~People's_Magazine,63684861]]"
-  - "[[_Standards/WikiData/WD~People's_Magazine,63686479]]"
-  - "[[_Standards/WikiData/WD~Renwu,107494379]]"
-  - "[[_Standards/WikiData/WD~People_Magazine,124535772]]"
-editor_in_chief: "[[_Standards/WikiData/WD~Robert_Emmett_Ginna,110111600]]"
-publisher: "[[_Standards/WikiData/WD~People_Inc.,124250582]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+  - "[[_Standards/WikiData/WD~People's_Magazine,63684861|WD~People's_Magazine,63684861]]"
+  - "[[_Standards/WikiData/WD~People's_Magazine,63686479|WD~People's_Magazine,63686479]]"
+  - "[[_Standards/WikiData/WD~Renwu,107494379|WD~Renwu,107494379]]"
+  - "[[_Standards/WikiData/WD~People_Magazine,124535772|WD~People_Magazine,124535772]]"
+editor_in_chief: "[[_Standards/WikiData/WD~Robert_Emmett_Ginna,110111600|WD~Robert_Emmett_Ginna,110111600]]"
+publisher: "[[_Standards/WikiData/WD~People_Inc.,124250582|WD~People_Inc.,124250582]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+country_of_origin: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]"
 publication_interval: 1
 social_media_followers: 1330000
 title: People

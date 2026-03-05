@@ -28,22 +28,22 @@ aliases:
 - 沃德·坎寧安
 - 워드 커닝엄
 has_id_wikidata: Q7637
-field_of_work: '[[_Standards/WikiData/WD~software_engineering,80993]]'
+field_of_work: '[[_Standards/WikiData/WD~software_engineering,80993|WD~software_engineering,80993]]'
 occupation:
-- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-- '[[_Standards/WikiData/WD~technology_evangelist,139648]]'
-- '[[_Standards/WikiData/WD~programmer,5482740]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594|WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~technology_evangelist,139648|WD~technology_evangelist,139648]]'
+- '[[_Standards/WikiData/WD~programmer,5482740|WD~programmer,5482740]]'
 educated_at:
-- '[[_Standards/WikiData/WD~Purdue_University,217741]]'
-- '[[_Standards/WikiData/WD~Highland_High_School,14688421]]'
-place_of_birth: '[[_Standards/WikiData/WD~Michigan_City,989282]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-family_name: '[[_Standards/WikiData/WD~Cunningham,7849873]]'
-given_name: '[[_Standards/WikiData/WD~Ward,18204850]]'
-employer: '[[_Standards/WikiData/WD~Microsoft,2283]]'
-residence: '[[_Standards/WikiData/WD~Portland,6106]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Purdue_University,217741|WD~Purdue_University,217741]]'
+- '[[_Standards/WikiData/WD~Highland_High_School,14688421|WD~Highland_High_School,14688421]]'
+place_of_birth: '[[_Standards/WikiData/WD~Michigan_City,989282|WD~Michigan_City,989282]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Cunningham,7849873|WD~Cunningham,7849873]]'
+given_name: '[[_Standards/WikiData/WD~Ward,18204850|WD~Ward,18204850]]'
+employer: '[[_Standards/WikiData/WD~Microsoft,2283|WD~Microsoft,2283]]'
+residence: '[[_Standards/WikiData/WD~Portland,6106|WD~Portland,6106]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 social_media_followers:
 - 1110
 - 63457

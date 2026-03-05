@@ -38,21 +38,21 @@ aliases:
 - タウ粒子
 - 타우 입자
 has_id_wikidata: Q188392
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Martin_Lewis_Perl,107416]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Martin_Lewis_Perl,107416|WD~Martin_Lewis_Perl,107416]]'
 different_from:
-- '[[_Standards/WikiData/WD~tau_neutrino,306600]]'
-- '[[_Standards/WikiData/WD~Tourist_Association_of_Ukraine,20978734]]'
+- '[[_Standards/WikiData/WD~tau_neutrino,306600|WD~tau_neutrino,306600]]'
+- '[[_Standards/WikiData/WD~Tourist_Association_of_Ukraine,20978734|WD~Tourist_Association_of_Ukraine,20978734]]'
 interaction:
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
-antiparticle: '[[_Standards/WikiData/WD~antitau,2172777]]'
-has_superpartner: '[[_Standards/WikiData/WD~stauon,18732794]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418|WD~weak_interaction,11418]]'
+antiparticle: '[[_Standards/WikiData/WD~antitau,2172777|WD~antitau,2172777]]'
+has_superpartner: '[[_Standards/WikiData/WD~stauon,18732794|WD~stauon,18732794]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015|WD~type_of_quantum_particle,22675015]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~charged_lepton,94535579]]'
-- '[[_Standards/WikiData/WD~elementary_particle,43116]]'
-follows: '[[_Standards/WikiData/WD~muon,3151]]'
+- '[[_Standards/WikiData/WD~charged_lepton,94535579|WD~charged_lepton,94535579]]'
+- '[[_Standards/WikiData/WD~elementary_particle,43116|WD~elementary_particle,43116]]'
+follows: '[[_Standards/WikiData/WD~muon,3151|WD~muon,3151]]'
 electric_charge: -1
 spin_quantum_number: 0.5
 Monte_Carlo_Particle_Number: 15

@@ -63,7 +63,7 @@ Use it like this:
 - #has_/id_/cvd_facility : : Text   
 - has_id_cvd_facility : : Text   
 
-Identifier of the NHSN facility that this data record applies to. Use [[cvdFacilityCounty]] to indicate the county. To provide other details, [[healthcareReportingData]] can be used on a [[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital]] entry.
+Identifier of the NHSN facility that this data record applies to. Use [[cvdFacilityCounty]] to indicate the county. To provide other details, [[healthcareReportingData]] can be used on a [[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]] entry.
 
 Predicated describes that: 
 

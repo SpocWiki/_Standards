@@ -77,17 +77,17 @@ aliases:
 - 산탄총
 has_id_wikidata: Q486396
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~long_gun,1046481]]'
-- '[[_Standards/WikiData/WD~smoothbore,1064392]]'
-- '[[_Standards/WikiData/WD~hunting_gun,125622566]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_type,124078422]]'
+- '[[_Standards/WikiData/WD~long_gun,1046481|WD~long_gun,1046481]]'
+- '[[_Standards/WikiData/WD~smoothbore,1064392|WD~smoothbore,1064392]]'
+- '[[_Standards/WikiData/WD~hunting_gun,125622566|WD~hunting_gun,125622566]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_type,124078422|WD~weapon_type,124078422]]'
 Commons_gallery: Shotgun
 Nomenclature_for_Museum_Cataloging: 8318
 subreddit: Shotguns

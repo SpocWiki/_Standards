@@ -40,31 +40,31 @@ aliases:
 - 존 로지 베어드
 has_id_wikidata: Q133544
 occupation:
-- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-- '[[_Standards/WikiData/WD~physicist,169470]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524|WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~physicist,169470|WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193|WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 educated_at:
-- '[[_Standards/WikiData/WD~University_of_Glasgow,192775]]'
-- '[[_Standards/WikiData/WD~University_of_Strathclyde,1859178]]'
-place_of_death: '[[_Standards/WikiData/WD~Bexhill_on_Sea,853012]]'
-place_of_birth: '[[_Standards/WikiData/WD~Helensburgh,1007088]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-given_name: '[[_Standards/WikiData/WD~John,4925477]]'
-place_of_burial: '[[_Standards/WikiData/WD~Helensburgh_Cemetery,5704019]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-family_name: '[[_Standards/WikiData/WD~Baird,15635405]]'
-archives_at: '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'
-award_received: '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society_of_Edinburgh,59772493]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-depicted_by: '[[_Standards/WikiData/WD~John_Logie_Baird_(1888_1946),106657342]]'
-spouse: '[[_Standards/WikiData/WD~Margaret_Albu,109326278]]'
-child: '[[_Standards/WikiData/WD~Malcolm_Baird,136956337]]'
+- '[[_Standards/WikiData/WD~University_of_Glasgow,192775|WD~University_of_Glasgow,192775]]'
+- '[[_Standards/WikiData/WD~University_of_Strathclyde,1859178|WD~University_of_Strathclyde,1859178]]'
+place_of_death: '[[_Standards/WikiData/WD~Bexhill_on_Sea,853012|WD~Bexhill_on_Sea,853012]]'
+place_of_birth: '[[_Standards/WikiData/WD~Helensburgh,1007088|WD~Helensburgh,1007088]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+given_name: '[[_Standards/WikiData/WD~John,4925477|WD~John,4925477]]'
+place_of_burial: '[[_Standards/WikiData/WD~Helensburgh_Cemetery,5704019|WD~Helensburgh_Cemetery,5704019]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Baird,15635405|WD~Baird,15635405]]'
+archives_at: '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978|WD~ETH_Zurich_University_Archives,39934978]]'
+award_received: '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society_of_Edinburgh,59772493|WD~Honorary_Fellow_of_the_Royal_Society_of_Edinburgh,59772493]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+depicted_by: '[[_Standards/WikiData/WD~John_Logie_Baird_(1888_1946),106657342|WD~John_Logie_Baird_(1888_1946),106657342]]'
+spouse: '[[_Standards/WikiData/WD~Margaret_Albu,109326278|WD~Margaret_Albu,109326278]]'
+child: '[[_Standards/WikiData/WD~Malcolm_Baird,136956337|WD~Malcolm_Baird,136956337]]'
 date_of_birth: 1888-08-13T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 number_of_children: 2
 Commons_gallery: John Logie Baird
 Commons_category: John Logie Baird

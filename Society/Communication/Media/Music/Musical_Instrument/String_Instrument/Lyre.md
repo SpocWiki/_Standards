@@ -34,20 +34,20 @@ aliases:
 - 리라
 has_id_wikidata: Q201129
 subclass_of:
-- '[[_Standards/WikiData/WD~plucked_string_instrument,230262]]'
-- '[[_Standards/WikiData/WD~yoke_lute,1814870]]'
+- '[[_Standards/WikiData/WD~plucked_string_instrument,230262|WD~plucked_string_instrument,230262]]'
+- '[[_Standards/WikiData/WD~yoke_lute,1814870|WD~yoke_lute,1814870]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-- '[[_Standards/WikiData/WD~Lyre,3782415]]'
-- '[[_Standards/WikiData/WD~Lyra,10484]]'
-practiced_by: '[[_Standards/WikiData/WD~lyrist,136324624]]'
+- '[[_Standards/WikiData/WD~Lyre,3782415|WD~Lyre,3782415]]'
+- '[[_Standards/WikiData/WD~Lyra,10484|WD~Lyra,10484]]'
+practiced_by: '[[_Standards/WikiData/WD~lyrist,136324624|WD~lyrist,136324624]]'
 inception: -3199-01-01T00:00:00Z
 Nomenclature_for_Museum_Cataloging: 10808
 OmegaWiki_Defined_Meaning: 1012397

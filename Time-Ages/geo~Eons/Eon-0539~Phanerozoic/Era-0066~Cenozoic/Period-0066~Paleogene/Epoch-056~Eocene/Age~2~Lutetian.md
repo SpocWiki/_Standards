@@ -34,15 +34,15 @@ aliases:
 - 盧台特階
 - 루테시아절
 has_id_wikidata: Q514893
-named_after: '[[_Standards/WikiData/WD~Lutetia,270273]]'
+named_after: '[[_Standards/WikiData/WD~Lutetia,270273|WD~Lutetia,270273]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Albert_de_Lapparent,2739611]]'
-significant_place: '[[_Standards/WikiData/WD~Gorrondatxe,8210861]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Lutetian,24069006]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Lutetian,133864043]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Albert_de_Lapparent,2739611|WD~Albert_de_Lapparent,2739611]]'
+significant_place: '[[_Standards/WikiData/WD~Gorrondatxe,8210861|WD~Gorrondatxe,8210861]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Lutetian,24069006|WD~Category_Lutetian,24069006]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Lutetian,133864043|WD~GSSP_for_the_base_of_the_Lutetian,133864043]]'
 coordinate_location: Point(-3.014336111 43.379575)
 Commons_category: Lutetian
 sRGB_color_hex_triplet: FEB98A
@@ -170,7 +170,7 @@ has_next_item = `=this.dv_has_next_item`
 #is_/same_as :: [[WD~Lutetian,514893]] 
 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-045_Ma_(Lutetian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-045_Ma_(Lutetian_Age).png|Earth-045_Ma_(Lutetian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

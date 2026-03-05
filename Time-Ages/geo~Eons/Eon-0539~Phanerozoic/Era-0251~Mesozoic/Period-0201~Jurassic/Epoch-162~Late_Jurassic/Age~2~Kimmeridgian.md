@@ -31,17 +31,17 @@ aliases:
 - 啟莫里階
 - 키메리지절
 has_id_wikidata: Q733565
-named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
+named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Kimmeridge,597734]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-significant_place: '[[_Standards/WikiData/WD~Flodigarry,2730864]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Kimmeridgian,21693872]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q117286924,117286924]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Kimmeridgian,134125129]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Kimmeridge,597734|WD~Kimmeridge,597734]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+significant_place: '[[_Standards/WikiData/WD~Flodigarry,2730864|WD~Flodigarry,2730864]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Kimmeridgian,21693872|WD~Category_Kimmeridgian,21693872]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q117286924,117286924|WD~Q117286924,117286924]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Kimmeridgian,134125129|WD~GSSP_for_the_base_of_the_Kimmeridgian,134125129]]'
 coordinate_location: Point(-6.2455 57.661)
 end_time: -152100000-01-01T00:00:00Z
 Commons_category: Kimmeridgian

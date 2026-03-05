@@ -34,12 +34,12 @@ aliases:
 - 调制解调器
 - 모뎀
 has_id_wikidata: Q5607
-has_use: '[[_Standards/WikiData/WD~data_transmission,389772]]'
+has_use: '[[_Standards/WikiData/WD~data_transmission,389772|WD~data_transmission,389772]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~data_circuit_terminating_equipment,1142912]]'
-- '[[_Standards/WikiData/WD~telecommunications_device,1780509]]'
-- '[[_Standards/WikiData/WD~electronic_device,2858615]]'
-different_from: '[[_Standards/WikiData/WD~null_modem,1930032]]'
+- '[[_Standards/WikiData/WD~data_circuit_terminating_equipment,1142912|WD~data_circuit_terminating_equipment,1142912]]'
+- '[[_Standards/WikiData/WD~telecommunications_device,1780509|WD~telecommunications_device,1780509]]'
+- '[[_Standards/WikiData/WD~electronic_device,2858615|WD~electronic_device,2858615]]'
+different_from: '[[_Standards/WikiData/WD~null_modem,1930032|WD~null_modem,1930032]]'
 Nomenclature_for_Museum_Cataloging: 10537
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ARRIS%20CM820B%20DOCSIS%20Cable%20Modem.jpg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Dial%20up%20connection.ogg

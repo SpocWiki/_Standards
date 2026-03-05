@@ -90,16 +90,16 @@ aliases:
 - 実存主義
 - 실존주의
 has_id_wikidata: Q38066
-different_from: '[[_Standards/WikiData/WD~essentialism,391156]]'
+different_from: '[[_Standards/WikiData/WD~essentialism,391156|WD~essentialism,391156]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~existential_philosophy,1383855]]'
-- '[[_Standards/WikiData/WD~existentialism,110404737]]'
+- '[[_Standards/WikiData/WD~existential_philosophy,1383855|WD~existential_philosophy,1383855]]'
+- '[[_Standards/WikiData/WD~existentialism,110404737|WD~existentialism,110404737]]'
 instance_of:
-- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
-- '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
-practiced_by: '[[_Standards/WikiData/WD~existentialist,16897774]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Existentialism,79378323]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855|WD~cultural_movement,2198855]]'
+- '[[_Standards/WikiData/WD~philosophical_movement,2915955|WD~philosophical_movement,2915955]]'
+practiced_by: '[[_Standards/WikiData/WD~existentialist,16897774|WD~existentialist,16897774]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Existentialism,79378323|WD~Template_Existentialism,79378323]]'
 OmegaWiki_Defined_Meaning: 1105075
 Library_of_Congress_Classification: B105.E8
 subreddit: Existentialism

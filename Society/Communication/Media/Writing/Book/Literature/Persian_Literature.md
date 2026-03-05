@@ -63,18 +63,18 @@ aliases:
 - 페르시아 문학
 has_id_wikidata: Q365585
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
-part_of: '[[_Standards/WikiData/WD~culture_of_Iran,953291]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+part_of: '[[_Standards/WikiData/WD~culture_of_Iran,953291|WD~culture_of_Iran,953291]]'
 studied_by:
-- '[[_Standards/WikiData/WD~Persian_studies,7170261]]'
-- '[[_Standards/WikiData/WD~Persian_literature,117321595]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Persian_literature,10948949]]'
-instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
-different_from: '[[_Standards/WikiData/WD~Persian_literature,117321595]]'
-subclass_of: '[[_Standards/WikiData/WD~literature,8242]]'
+- '[[_Standards/WikiData/WD~Persian_studies,7170261|WD~Persian_studies,7170261]]'
+- '[[_Standards/WikiData/WD~Persian_literature,117321595|WD~Persian_literature,117321595]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Persian_literature,10948949|WD~Template_Persian_literature,10948949]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
+different_from: '[[_Standards/WikiData/WD~Persian_literature,117321595|WD~Persian_literature,117321595]]'
+subclass_of: '[[_Standards/WikiData/WD~literature,8242|WD~literature,8242]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shahnameh3-5.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/PERSIDSKAYA_LITERATURA.html
 Commons_category: Persian-language literature

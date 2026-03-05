@@ -80,16 +80,16 @@ aliases:
 - 제트 엔진
 has_id_wikidata: Q178777
 subclass_of:
-- '[[_Standards/WikiData/WD~gas_turbine,193470]]'
-- '[[_Standards/WikiData/WD~aircraft_engine,743004]]'
-- '[[_Standards/WikiData/WD~reaction_engine,1922879]]'
-- '[[_Standards/WikiData/WD~aircraft_component,16693356]]'
-- '[[_Standards/WikiData/WD~internal_combustion_engine,12757]]'
+- '[[_Standards/WikiData/WD~gas_turbine,193470|WD~gas_turbine,193470]]'
+- '[[_Standards/WikiData/WD~aircraft_engine,743004|WD~aircraft_engine,743004]]'
+- '[[_Standards/WikiData/WD~reaction_engine,1922879|WD~reaction_engine,1922879]]'
+- '[[_Standards/WikiData/WD~aircraft_component,16693356|WD~aircraft_component,16693356]]'
+- '[[_Standards/WikiData/WD~internal_combustion_engine,12757|WD~internal_combustion_engine,12757]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~rocket_engine,335225]]'
-- '[[_Standards/WikiData/WD~airbreathing_jet_engine,3773032]]'
-uses: '[[_Standards/WikiData/WD~jet_propulsion,3522973]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q25742827,25742827]]'
+- '[[_Standards/WikiData/WD~rocket_engine,335225|WD~rocket_engine,335225]]'
+- '[[_Standards/WikiData/WD~airbreathing_jet_engine,3773032|WD~airbreathing_jet_engine,3773032]]'
+uses: '[[_Standards/WikiData/WD~jet_propulsion,3522973|WD~jet_propulsion,3522973]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q25742827,25742827|WD~Q25742827,25742827]]'
 properties_for_this_type: maximum thrust
 image: http://commons.wikimedia.org/wiki/Special:FilePath/F100%20F-15%20engine.JPG
 U_S_National_Archives_Identifier: 10675355

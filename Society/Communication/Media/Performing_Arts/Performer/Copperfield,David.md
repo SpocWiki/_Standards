@@ -34,41 +34,41 @@ aliases:
 - 데이비드 코퍼필드
 has_id_wikidata: Q139637
 birth_name: David Seth Kotkin
-unmarried_partner: '[[_Standards/WikiData/WD~Claudia_Schiffer,76717]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Claudia_Schiffer,76717|WD~Claudia_Schiffer,76717]]'
 educated_at:
-- '[[_Standards/WikiData/WD~Fordham_University,130965]]'
-- '[[_Standards/WikiData/WD~Metuchen_High_School,6825516]]'
+- '[[_Standards/WikiData/WD~Fordham_University,130965|WD~Fordham_University,130965]]'
+- '[[_Standards/WikiData/WD~Metuchen_High_School,6825516|WD~Metuchen_High_School,6825516]]'
 different_from:
-- '[[_Standards/WikiData/WD~David_Copperfield,189811]]'
-- '[[_Standards/WikiData/WD~David_Copperfield,217950]]'
+- '[[_Standards/WikiData/WD~David_Copperfield,189811|WD~David_Copperfield,189811]]'
+- '[[_Standards/WikiData/WD~David_Copperfield,217950|WD~David_Copperfield,217950]]'
 occupation:
-- '[[_Standards/WikiData/WD~stunt_performer,465501]]'
-- '[[_Standards/WikiData/WD~illusionist,1658894]]'
-- '[[_Standards/WikiData/WD~television_actor,10798782]]'
-- '[[_Standards/WikiData/WD~film_actor,10800557]]'
-- '[[_Standards/WikiData/WD~hypnotist,16746942]]'
-- '[[_Standards/WikiData/WD~actor,33999]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-place_of_birth: '[[_Standards/WikiData/WD~Metuchen,1021527]]'
-field_of_work: '[[_Standards/WikiData/WD~street_magic,2594848]]'
+- '[[_Standards/WikiData/WD~stunt_performer,465501|WD~stunt_performer,465501]]'
+- '[[_Standards/WikiData/WD~illusionist,1658894|WD~illusionist,1658894]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782|WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~hypnotist,16746942|WD~hypnotist,16746942]]'
+- '[[_Standards/WikiData/WD~actor,33999|WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+place_of_birth: '[[_Standards/WikiData/WD~Metuchen,1021527|WD~Metuchen,1021527]]'
+field_of_work: '[[_Standards/WikiData/WD~street_magic,2594848|WD~street_magic,2594848]]'
 award_received:
-- "[[_Standards/WikiData/WD~Mandrake_d'Or,3285563]]"
-- '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]'
-- '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
-- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-given_name: '[[_Standards/WikiData/WD~David,18057751]]'
-documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
-family_name: '[[_Standards/WikiData/WD~Copperfield,99485566]]'
+- "[[_Standards/WikiData/WD~Mandrake_d'Or,3285563|WD~Mandrake_d'Or,3285563]]"
+- '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686|WD~Library_of_Congress_Living_Legend,6542686]]'
+- '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528|WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761|WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~David,18057751|WD~David,18057751]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+family_name: '[[_Standards/WikiData/WD~Copperfield,99485566|WD~Copperfield,99485566]]'
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~American_English,7976]]'
-residence: '[[_Standards/WikiData/WD~Las_Vegas,23768]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~American_English,7976|WD~American_English,7976]]'
+residence: '[[_Standards/WikiData/WD~Las_Vegas,23768|WD~Las_Vegas,23768]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 number_of_children: 3
 net_worth: 800000000
-employer: '[[_Standards/WikiData/WD~New_York_University,49210]]'
+employer: '[[_Standards/WikiData/WD~New_York_University,49210|WD~New_York_University,49210]]'
 Commons_category: David Copperfield (illusionist)
 pseudonym: David Copperfield
 social_media_followers: 965835

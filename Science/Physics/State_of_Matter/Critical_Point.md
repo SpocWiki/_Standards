@@ -64,17 +64,17 @@ aliases:
 - 림계점
 - 임계점
 has_id_wikidata: Q111059
-subclass_of: '[[_Standards/WikiData/WD~thermodynamic_state,230875]]'
-different_from: '[[_Standards/WikiData/WD~critical_point,577705]]'
+subclass_of: '[[_Standards/WikiData/WD~thermodynamic_state,230875|WD~thermodynamic_state,230875]]'
+different_from: '[[_Standards/WikiData/WD~critical_point,577705|WD~critical_point,577705]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~critical_pressure,3402613]]'
-- '[[_Standards/WikiData/WD~critical_temperature,109330092]]'
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~critical_pressure,3402613|WD~critical_pressure,3402613]]'
+- '[[_Standards/WikiData/WD~critical_temperature,109330092|WD~critical_temperature,109330092]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Punkt%20krytyczny%20220px.png
 Commons_category: Critical point (thermodynamics)
 dv_has_:

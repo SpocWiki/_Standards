@@ -70,34 +70,34 @@ aliases:
 - 사기죄
 has_id_wikidata: Q28813
 subclass_of:
-- '[[_Standards/WikiData/WD~crime,83267]]'
-- '[[_Standards/WikiData/WD~deception,170028]]'
-- '[[_Standards/WikiData/WD~anthropogenic_hazard,2920615]]'
-- '[[_Standards/WikiData/WD~cheating,19]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~pseudoscience,483677]]'
+- '[[_Standards/WikiData/WD~crime,83267|WD~crime,83267]]'
+- '[[_Standards/WikiData/WD~deception,170028|WD~deception,170028]]'
+- '[[_Standards/WikiData/WD~anthropogenic_hazard,2920615|WD~anthropogenic_hazard,2920615]]'
+- '[[_Standards/WikiData/WD~cheating,19|WD~cheating,19]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~pseudoscience,483677|WD~pseudoscience,483677]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~deception,905644]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~deception,905644|WD~deception,905644]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~charlatan,1430956]]'
-- '[[_Standards/WikiData/WD~con_artist,10591707]]'
-- '[[_Standards/WikiData/WD~Q116869005,116869005]]'
+- '[[_Standards/WikiData/WD~charlatan,1430956|WD~charlatan,1430956]]'
+- '[[_Standards/WikiData/WD~con_artist,10591707|WD~con_artist,10591707]]'
+- '[[_Standards/WikiData/WD~Q116869005,116869005|WD~Q116869005,116869005]]'
 handled_mitigated_or_managed_by:
-- '[[_Standards/WikiData/WD~fraud_prevention_and_detection,1451528]]'
-- '[[_Standards/WikiData/WD~fraud_deterrence,5493916]]'
+- '[[_Standards/WikiData/WD~fraud_prevention_and_detection,1451528|WD~fraud_prevention_and_detection,1451528]]'
+- '[[_Standards/WikiData/WD~fraud_deterrence,5493916|WD~fraud_deterrence,5493916]]'
 instance_of:
-- '[[_Standards/WikiData/WD~elements_of_an_offence,20820018]]'
-- '[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697]]'
-- '[[_Standards/WikiData/WD~type_of_risk,101208084]]'
-- '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Fraud,22719725]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~fraud,41548574]]'
-contributing_factor_of: '[[_Standards/WikiData/WD~security_risk,78908682]]'
-has_list: '[[_Standards/WikiData/WD~list_of_types_of_fraud,112677151]]'
+- '[[_Standards/WikiData/WD~elements_of_an_offence,20820018|WD~elements_of_an_offence,20820018]]'
+- '[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697|WD~Wikibase_reason_for_deprecated_rank,27949697]]'
+- '[[_Standards/WikiData/WD~type_of_risk,101208084|WD~type_of_risk,101208084]]'
+- '[[_Standards/WikiData/WD~type_of_crime,130583773|WD~type_of_crime,130583773]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Fraud,22719725|WD~Template_Fraud,22719725]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~fraud,41548574|WD~fraud,41548574]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~security_risk,78908682|WD~security_risk,78908682]]'
+has_list: '[[_Standards/WikiData/WD~list_of_types_of_fraud,112677151|WD~list_of_types_of_fraud,112677151]]'
 OmegaWiki_Defined_Meaning: 433309
 Library_of_Congress_Classification:
 - K579.F7

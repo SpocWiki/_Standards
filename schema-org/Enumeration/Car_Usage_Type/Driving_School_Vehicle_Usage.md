@@ -28,8 +28,8 @@ title: is_a_driving_school_vehicle_usage Class
 type: Type
 dv_is_:
   part_of: https://auto.schema.org
-  parent_class: "[[../CarUsageType]]"
-  enum_of: "[[../CarUsageType]]"
+  parent_class: "[[../CarUsageType|CarUsageType]]"
+  enum_of: "[[../CarUsageType|CarUsageType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage|Driving_School_Vehicle_Usage]]"
     - "[[/_public/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.public|Driving_School_Vehicle_Usage.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.secret|Driving_School_Vehicle_Usage.secret]]"
     - "[[Driving_School_Vehicle_Usage]]"
 dv_is_part_of: https://auto.schema.org
-dv_has_parent_class: "[[../CarUsageType]]"
-dv_is_enum_of: "[[../CarUsageType]]"
+dv_has_parent_class: "[[../CarUsageType|CarUsageType]]"
+dv_is_enum_of: "[[../CarUsageType|CarUsageType]]"
 dv_is_same_as:
   - "[[Driving_School_Vehicle_Usage]]"
   - "[[/_public/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.public|Driving_School_Vehicle_Usage.public]]"

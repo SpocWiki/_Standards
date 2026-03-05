@@ -88,14 +88,14 @@ aliases:
 - 타악기
 has_id_wikidata: Q133163
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773|WD~family_of_musical_instruments,1254773]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~percussion,1661583]]'
-- '[[_Standards/WikiData/WD~musical_instrument,34379]]'
-used_by: '[[_Standards/WikiData/WD~percussionist,4351403]]'
-has_part_s_: '[[_Standards/WikiData/WD~trigger,7841696]]'
+- '[[_Standards/WikiData/WD~percussion,1661583|WD~percussion,1661583]]'
+- '[[_Standards/WikiData/WD~musical_instrument,34379|WD~musical_instrument,34379]]'
+used_by: '[[_Standards/WikiData/WD~percussionist,4351403|WD~percussionist,4351403]]'
+has_part_s_: '[[_Standards/WikiData/WD~trigger,7841696|WD~trigger,7841696]]'
 Nomenclature_for_Museum_Cataloging: 10729
 Iconclass_notation:
 - 48CC734

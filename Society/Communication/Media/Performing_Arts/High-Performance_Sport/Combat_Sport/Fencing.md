@@ -86,36 +86,36 @@ aliases:
 - 펜싱
 has_id_wikidata: Q12100
 different_from:
-- '[[_Standards/WikiData/WD~kendo,170931]]'
-- '[[_Standards/WikiData/WD~competitive_fencing,14554839]]'
-authority: '[[_Standards/WikiData/WD~International_Fencing_Federation,178695]]'
+- '[[_Standards/WikiData/WD~kendo,170931|WD~kendo,170931]]'
+- '[[_Standards/WikiData/WD~competitive_fencing,14554839|WD~competitive_fencing,14554839]]'
+authority: '[[_Standards/WikiData/WD~International_Fencing_Federation,178695|WD~International_Fencing_Federation,178695]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~combat_sport,7128792]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~combat_sport,7128792|WD~combat_sport,7128792]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 uses:
-- '[[_Standards/WikiData/WD~foil,471447]]'
-- '[[_Standards/WikiData/WD~épée,840419]]'
-- '[[_Standards/WikiData/WD~saber,49068756]]'
+- '[[_Standards/WikiData/WD~foil,471447|WD~foil,471447]]'
+- '[[_Standards/WikiData/WD~épée,840419|WD~épée,840419]]'
+- '[[_Standards/WikiData/WD~saber,49068756|WD~saber,49068756]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~fencing_master,1519593]]'
-- '[[_Standards/WikiData/WD~fencer,13381863]]'
+- '[[_Standards/WikiData/WD~fencing_master,1519593|WD~fencing_master,1519593]]'
+- '[[_Standards/WikiData/WD~fencer,13381863|WD~fencer,13381863]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~attack,2869892]]'
-- '[[_Standards/WikiData/WD~Q3381658,3381658]]'
-- '[[_Standards/WikiData/WD~épée_fencing,25521891]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fencing,7112629]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fencing,14615709]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Fencing,20344870]]'
+- '[[_Standards/WikiData/WD~attack,2869892|WD~attack,2869892]]'
+- '[[_Standards/WikiData/WD~Q3381658,3381658|WD~Q3381658,3381658]]'
+- '[[_Standards/WikiData/WD~épée_fencing,25521891|WD~épée_fencing,25521891]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fencing,7112629|WD~outline_of_fencing,7112629]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fencing,14615709|WD~Portal_Fencing,14615709]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Fencing,20344870|WD~Template_Fencing,20344870]]'
 BHCL_UUID: 7e86ce41-1776-4154-a40b-193b1ee8200e
 U_S_National_Archives_Identifier: 10647845
 OmegaWiki_Defined_Meaning: 1016847

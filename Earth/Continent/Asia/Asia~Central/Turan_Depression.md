@@ -50,17 +50,17 @@ aliases:
 - 圖蘭低地
 - 투란 저지
 has_id_wikidata: Q575516
-instance_of: '[[_Standards/WikiData/WD~plain,160091]]'
-lowest_point: '[[_Standards/WikiData/WD~Vpadina_Akchanaya,30000023]]'
+instance_of: '[[_Standards/WikiData/WD~plain,160091|WD~plain,160091]]'
+lowest_point: '[[_Standards/WikiData/WD~Vpadina_Akchanaya,30000023|WD~Vpadina_Akchanaya,30000023]]'
 location:
 - 43.5
 - 62
 coordinate_location: Point(62.0 43.5)
 country:
-- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-- '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]'
+- '[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NizinaTuranska2001grudzien.jpg
 dv_is_:
   same_as:

@@ -16,10 +16,10 @@ aliases:
 - 虛假原因
 has_id_wikidata: Q2917891
 subclass_of:
-- '[[_Standards/WikiData/WD~informal_fallacy,3312438]]'
-- '[[_Standards/WikiData/WD~causal_reasoning,17004651]]'
-- '[[_Standards/WikiData/WD~error,29485]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199]]'
+- '[[_Standards/WikiData/WD~informal_fallacy,3312438|WD~informal_fallacy,3312438]]'
+- '[[_Standards/WikiData/WD~causal_reasoning,17004651|WD~causal_reasoning,17004651]]'
+- '[[_Standards/WikiData/WD~error,29485|WD~error,29485]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199|WD~type_of_fallacy,130993199]]'
 dv_has_:
   name_:
     ar: السبب المشكوك فيه

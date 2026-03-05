@@ -37,7 +37,7 @@ dv_is_:
     - "[[Geo_Coordinates]]"
 dv_has_:
   parent_class:
-    - "[[../StructuredValue]]"
+    - "[[../StructuredValue|StructuredValue]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../Property/has_location/has_location_address|has_location_address]]"
@@ -58,7 +58,7 @@ dv_has_:
     - "[[../../../../Relation/is/is_subject_of|subjectOf]]"
     - "[[../../../../Property/has_url_for|url]]"
 dv_has_parent_class:
-  - "[[../structured_value|../structured_value]]"
+  - "[[../structured_value|../structured_value|structured_value]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
   - "[[../../../../Property/has_location/has_location_address|address]]"

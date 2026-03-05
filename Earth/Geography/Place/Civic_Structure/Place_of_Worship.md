@@ -28,12 +28,12 @@ tags:
 title: is_a_place_of_worship Class
 type: Type
 dv_has_:
-  parent_class: "[[../CivicStructure]]"
+  parent_class: "[[../CivicStructure|CivicStructure]]"
   child_class: "[ BuddhistTemple, Church, HinduTemple, Mosque, Synagogue ]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~religious_building,24398318]]"
+    - "[[_Standards/WikiData/WD~religious_building,24398318|WD~religious_building,24398318]]"
     - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship|Place_of_Worship]]"
     - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship.public|Place_of_Worship.public]]"
     - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.internal|Place_of_Worship.internal]]"
@@ -41,11 +41,11 @@ dv_is_:
     - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship.private|Place_of_Worship.private]]"
     - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.personal|Place_of_Worship.personal]]"
     - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship.secret|Place_of_Worship.secret]]"
-dv_has_parent_class: "[[../CivicStructure]]"
+dv_has_parent_class: "[[../CivicStructure|CivicStructure]]"
 dv_has_child_class: "[ BuddhistTemple, Church, HinduTemple, Mosque, Synagogue ]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~religious_building,24398318]]"
+  - "[[_Standards/WikiData/WD~religious_building,24398318|WD~religious_building,24398318]]"
   - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship|Place_of_Worship]]"
   - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship.public|Place_of_Worship.public]]"
   - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.internal|Place_of_Worship.internal]]"
@@ -70,7 +70,7 @@ has_child_class = `=this.dv_has_child_class` ]
 
 has_properties = `=this.dv_has_properties` ]
 
-#is_/same_as :: [[_Standards/WikiData/WD~religious_building,24398318]] 
+#is_/same_as :: [[_Standards/WikiData/WD~religious_building,24398318|WD~religious_building,24398318]] 
 
 
 ## Confidential Links & Embeds: 

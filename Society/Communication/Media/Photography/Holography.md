@@ -54,12 +54,12 @@ aliases:
 - 홀로그래피
 has_id_wikidata: Q527628
 instance_of:
-- '[[_Standards/WikiData/WD~photographic_technique,1439691]]'
-- '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~hologram,3139490]]'
-practiced_by: '[[_Standards/WikiData/WD~holographer,108897110]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-subclass_of: '[[_Standards/WikiData/WD~photography,11633]]'
+- '[[_Standards/WikiData/WD~photographic_technique,1439691|WD~photographic_technique,1439691]]'
+- '[[_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~hologram,3139490|WD~hologram,3139490]]'
+practiced_by: '[[_Standards/WikiData/WD~holographer,108897110|WD~holographer,108897110]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+subclass_of: '[[_Standards/WikiData/WD~photography,11633|WD~photography,11633]]'
 OmegaWiki_Defined_Meaning: 963620
 time_of_discovery_or_invention: 1947-01-01T00:00:00Z
 UMLS_CUI: C0019848

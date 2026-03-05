@@ -62,25 +62,25 @@ aliases:
 - 確率分布
 - 확률 분포
 has_id_wikidata: Q200726
-has_characteristic: '[[_Standards/WikiData/WD~coefficient_of_skewness,330828]]'
+has_characteristic: '[[_Standards/WikiData/WD~coefficient_of_skewness,330828|WD~coefficient_of_skewness,330828]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~probability_measure,355020]]'
-- '[[_Standards/WikiData/WD~generalized_function,846537]]'
-- '[[_Standards/WikiData/WD~distribution,865811]]'
-- '[[_Standards/WikiData/WD~statistical_model,3284399]]'
-has_list: '[[_Standards/WikiData/WD~list_of_probability_distributions,851682]]'
+- '[[_Standards/WikiData/WD~probability_measure,355020|WD~probability_measure,355020]]'
+- '[[_Standards/WikiData/WD~generalized_function,846537|WD~generalized_function,846537]]'
+- '[[_Standards/WikiData/WD~distribution,865811|WD~distribution,865811]]'
+- '[[_Standards/WikiData/WD~statistical_model,3284399|WD~statistical_model,3284399]]'
+has_list: '[[_Standards/WikiData/WD~list_of_probability_distributions,851682|WD~list_of_probability_distributions,851682]]'
 studied_by:
-- '[[_Standards/WikiData/WD~probability_theory,5862903]]'
-- '[[_Standards/WikiData/WD~statistics,12483]]'
+- '[[_Standards/WikiData/WD~probability_theory,5862903|WD~probability_theory,5862903]]'
+- '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_probability_distribution,8087310]]'
-- '[[_Standards/WikiData/WD~Template_Theory_of_probability_distributions,11089788]]'
-- '[[_Standards/WikiData/WD~Template_Probability_distributions,11131009]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_probability_distribution,8087310|WD~Template_Infobox_probability_distribution,8087310]]'
+- '[[_Standards/WikiData/WD~Template_Theory_of_probability_distributions,11089788|WD~Template_Theory_of_probability_distributions,11089788]]'
+- '[[_Standards/WikiData/WD~Template_Probability_distributions,11131009|WD~Template_Probability_distributions,11131009]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
-- '[[_Standards/WikiData/WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213]]'
+- '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641|WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
+- '[[_Standards/WikiData/WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213|WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213]]'
 properties_for_this_type:
 - support of a function
 - characteristic function
@@ -91,7 +91,7 @@ properties_for_this_type:
 - excess kurtosis
 - skewness
 - moment-generating function
-facet_of: '[[_Standards/WikiData/WD~statistics,12483]]'
+facet_of: '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20deviation%20diagram.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Distribui%C3%A7%C3%A3o%20de%20probabilidade.ogg
 IEV_number: 103-08-07

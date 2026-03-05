@@ -93,16 +93,16 @@ aliases:
 - 발음
 has_id_wikidata: Q184377
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-subclass_of: '[[_Standards/WikiData/WD~rule,1151067]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Audio_IPA,6190820]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Linguistics,10857957]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12493444,12493444]]'
-different_from: '[[_Standards/WikiData/WD~pronunciation_audio,108167708]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+subclass_of: '[[_Standards/WikiData/WD~rule,1151067|WD~rule,1151067]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Audio_IPA,6190820|WD~Template_Audio_IPA,6190820]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Linguistics,10857957|WD~WikiProject_Linguistics,10857957]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12493444,12493444|WD~Q12493444,12493444]]'
+different_from: '[[_Standards/WikiData/WD~pronunciation_audio,108167708|WD~pronunciation_audio,108167708]]'
 Wikidata_property: pronunciation
-part_of: '[[_Standards/WikiData/WD~language,34770]]'
-studied_by: '[[_Standards/WikiData/WD~phonetics,35395]]'
+part_of: '[[_Standards/WikiData/WD~language,34770|WD~language,34770]]'
+studied_by: '[[_Standards/WikiData/WD~phonetics,35395|WD~phonetics,35395]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%89%E0%AC%9A%E0%AD%8D%E0%AC%9A%E0%AC%BE%E0%AC%B0%E0%AC%A3.wav
 Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/pronunciation
 Commons_category: Pronunciation

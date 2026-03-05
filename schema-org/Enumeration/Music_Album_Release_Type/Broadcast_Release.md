@@ -27,9 +27,9 @@ tags:
 title: is_a_broadcast_release Class
 type: Type
 dv_has_:
-  parent_class: "[[../MusicAlbumReleaseType]]"
+  parent_class: "[[../MusicAlbumReleaseType|MusicAlbumReleaseType]]"
 dv_is_:
-  enum_of: "[[../MusicAlbumReleaseType]]"
+  enum_of: "[[../MusicAlbumReleaseType|MusicAlbumReleaseType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Album_Release_Type/Broadcast_Release|Broadcast_Release]]"
     - "[[/_public/schema-org/Enumeration/Music_Album_Release_Type/Broadcast_Release.public|Broadcast_Release.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Music_Album_Release_Type/Broadcast_Release.personal|Broadcast_Release.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Release_Type/Broadcast_Release.secret|Broadcast_Release.secret]]"
     - "[[Broadcast_Release]]"
-dv_has_parent_class: "[[../MusicAlbumReleaseType]]"
-dv_is_enum_of: "[[../MusicAlbumReleaseType]]"
+dv_has_parent_class: "[[../MusicAlbumReleaseType|MusicAlbumReleaseType]]"
+dv_is_enum_of: "[[../MusicAlbumReleaseType|MusicAlbumReleaseType]]"
 dv_is_same_as:
   - "[[Broadcast_Release]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Release_Type/Broadcast_Release.public|Broadcast_Release.public]]"

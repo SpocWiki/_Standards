@@ -53,27 +53,27 @@ aliases:
 - 헤비 메탈
 has_id_wikidata: Q38848
 influenced_by:
-- '[[_Standards/WikiData/WD~hard_rock,83270]]'
-- '[[_Standards/WikiData/WD~blues_rock,193355]]'
-- '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~hard_rock,83270|WD~hard_rock,83270]]'
+- '[[_Standards/WikiData/WD~blues_rock,193355|WD~blues_rock,193355]]'
+- '[[_Standards/WikiData/WD~classical_music,9730|WD~classical_music,9730]]'
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~conflation,14946528]]'
-has_list: '[[_Standards/WikiData/WD~list_of_heavy_metal_genres,1029000]]'
-different_from: '[[_Standards/WikiData/WD~traditional_heavy_metal,1133657]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Heavy_metal_music,6963860]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Heavy_metal,8143675]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~conflation,14946528|WD~conflation,14946528]]'
+has_list: '[[_Standards/WikiData/WD~list_of_heavy_metal_genres,1029000|WD~list_of_heavy_metal_genres,1029000]]'
+different_from: '[[_Standards/WikiData/WD~traditional_heavy_metal,1133657|WD~traditional_heavy_metal,1133657]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Heavy_metal_music,6963860|WD~Template_Heavy_metal_music,6963860]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Heavy_metal,8143675|WD~Portal_Heavy_metal,8143675]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Metal,10295883]]'
-- '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
-subclass_of: '[[_Standards/WikiData/WD~metal_music,12326776]]'
-practiced_by: '[[_Standards/WikiData/WD~metal_musician,67200506]]'
-intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Wiki_inventory_for_living_heritage,113130354]]'
+- '[[_Standards/WikiData/WD~WikiProject_Metal,10295883|WD~WikiProject_Metal,10295883]]'
+- '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263|WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+subclass_of: '[[_Standards/WikiData/WD~metal_music,12326776|WD~metal_music,12326776]]'
+practiced_by: '[[_Standards/WikiData/WD~metal_musician,67200506|WD~metal_musician,67200506]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Wiki_inventory_for_living_heritage,113130354|WD~Wiki_inventory_for_living_heritage,113130354]]'
 indigenous_to:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 inception: 1970-01-01T00:00:00Z
-country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 Archive_of_Our_Own_tag:
 - Heavy Metal
 - Heavy Metal Music

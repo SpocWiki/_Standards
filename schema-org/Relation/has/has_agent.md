@@ -24,11 +24,11 @@ title: has_agent
 type: Predi_Relation
 dv_has_:
   agent: Organization, Person
-  domain: "[[../../Class/is_a_/action]]"
+  domain: "[[../../Class/is_a_/action|action]]"
   name: has_agent
   range:
-    - "[[../../../Society/Agent/Community/Organization]]"
-    - "[[../../../Society/Agent/Person]]"
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
   inverse: "[[is_agent_for]]"
 dv_is_:
   same_as:
@@ -40,11 +40,11 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_agent.personal|has_agent.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_agent.secret|has_agent.secret]]"
     - "[[has_agent]]"
-dv_has_domain: "[[../../Class/is_a_/action]]"
+dv_has_domain: "[[../../Class/is_a_/action|action]]"
 dv_has_name: has_agent
 dv_has_range:
-  - "[[../../../Society/Agent/Community/Organization]]"
-  - "[[../../../Society/Agent/Person]]"
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[has_agent]]"
   - "[[/_public/schema-org/Relation/has/has_agent.public|has_agent.public]]"

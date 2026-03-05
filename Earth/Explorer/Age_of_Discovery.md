@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Age_of_Discovery,133641]]'
+  - '[[../../WikiData/WD~Age_of_Discovery,133641|WD~Age_of_Discovery,133641]]'
   - '[[/_Standards/Earth/Explorer/Age_of_Discovery|Age_of_Discovery]]'
   - '[[/_public/Earth/Explorer/Age_of_Discovery.public|Age_of_Discovery.public]]'
   - '[[/_internal/Earth/Explorer/Age_of_Discovery.internal|Age_of_Discovery.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Explorer/Age_of_Discovery.personal|Age_of_Discovery.personal]]'
   - '[[/_secret/Earth/Explorer/Age_of_Discovery.secret|Age_of_Discovery.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Age_of_Discovery,133641]]'
+- '[[../../WikiData/WD~Age_of_Discovery,133641|WD~Age_of_Discovery,133641]]'
 - '[[/_Standards/Earth/Explorer/Age_of_Discovery|Age_of_Discovery]]'
 - '[[/_public/Earth/Explorer/Age_of_Discovery.public|Age_of_Discovery.public]]'
 - '[[/_internal/Earth/Explorer/Age_of_Discovery.internal|Age_of_Discovery.internal]]'
@@ -114,9 +114,9 @@ aliases:
 - 대항해시대
 has_id_wikidata: Q133641
 instance_of:
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-- '[[_Standards/WikiData/WD~age,17522177]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~age,17522177|WD~age,17522177]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Age%20of%20Discovery%20Banner.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33491%20%28hat%29-Jnermano-Gwo%20dekouv%C3%A8t.wav
 Commons_category: Age of Discovery
@@ -239,7 +239,7 @@ dv_has_:
 
 # [[Age_of_Discovery]] 
 
-#is_/same_as :: [[../../WikiData/WD~Age_of_Discovery,133641]] 
+#is_/same_as :: [[../../WikiData/WD~Age_of_Discovery,133641|WD~Age_of_Discovery,133641]] 
 
 ## #has_/text_of_/abstract 
 

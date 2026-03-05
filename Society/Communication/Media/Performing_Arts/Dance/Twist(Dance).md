@@ -22,14 +22,14 @@ aliases:
 - 特维斯特
 has_id_wikidata: Q387916
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
-different_from: '[[_Standards/WikiData/WD~Twist,258460]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~type_of_dance,107357104|WD~type_of_dance,107357104]]'
+different_from: '[[_Standards/WikiData/WD~Twist,258460|WD~Twist,258460]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
-- '[[_Standards/WikiData/WD~dance,11639]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~rock_and_roll,7749|WD~rock_and_roll,7749]]'
+- '[[_Standards/WikiData/WD~dance,11639|WD~dance,11639]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 inception: 1958-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-C0517-0010-005%2C%20Berlin%2C%20Deutschlandtreffen%2C%20tanzende%20Jugendliche.jpg
 Commons_category: Twist (dance)

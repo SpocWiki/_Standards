@@ -1,4 +1,4 @@
-These are 'Shortcuts' in [[../Prog~Structured]]. 
+These are 'Shortcuts' in [[../Prog~Structured|Prog~Structured]]. 
 Although by some, they reduce the mental Load by reducing the amount of Code and Variables. 
 
 ## Break-Statement 

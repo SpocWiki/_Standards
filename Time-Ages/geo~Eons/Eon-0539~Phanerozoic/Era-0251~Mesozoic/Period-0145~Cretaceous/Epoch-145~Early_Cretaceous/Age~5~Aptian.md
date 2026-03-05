@@ -26,16 +26,16 @@ aliases:
 - 阿普第階
 - 압트절
 has_id_wikidata: Q622265
-named_after: '[[_Standards/WikiData/WD~Apt,207632]]'
-named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
+named_after: '[[_Standards/WikiData/WD~Apt,207632|WD~Apt,207632]]'
+named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Aptian,21757623]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Aptian,21757623|WD~Category_Aptian,21757623]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -113000000-01-01T00:00:00Z
 start_time: -125000000-01-01T00:00:00Z
 Commons_category: Aptian
@@ -161,7 +161,7 @@ has_next_item = `=this.dv_has_next_item`
 A time period from 121.4 to 113.0 million years ago. 
 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-120_Ma_(Aptian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-120_Ma_(Aptian_Age).png|Earth-120_Ma_(Aptian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

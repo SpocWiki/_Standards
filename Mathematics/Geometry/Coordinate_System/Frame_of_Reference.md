@@ -66,19 +66,19 @@ aliases:
 - 기준틀
 has_id_wikidata: Q184876
 has_part_s_:
-- '[[_Standards/WikiData/WD~basis,189569]]'
-- '[[_Standards/WikiData/WD~reference_point,23008367]]'
-different_from: '[[_Standards/WikiData/WD~inertial_frame_of_reference,192735]]'
+- '[[_Standards/WikiData/WD~basis,189569|WD~basis,189569]]'
+- '[[_Standards/WikiData/WD~reference_point,23008367|WD~reference_point,23008367]]'
+different_from: '[[_Standards/WikiData/WD~inertial_frame_of_reference,192735|WD~inertial_frame_of_reference,192735]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~conceptual_model,2623243]]'
-- '[[_Standards/WikiData/WD~conceptual_system,3622126]]'
-- '[[_Standards/WikiData/WD~point_of_view,12558574]]'
-- '[[_Standards/WikiData/WD~Q113360143,113360143]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-instance_of: '[[_Standards/WikiData/WD~physics_term,100724091]]'
-used_by: '[[_Standards/WikiData/WD~physics,413]]'
-manifestation_of: '[[_Standards/WikiData/WD~coordinate_system,11210]]'
+- '[[_Standards/WikiData/WD~conceptual_model,2623243|WD~conceptual_model,2623243]]'
+- '[[_Standards/WikiData/WD~conceptual_system,3622126|WD~conceptual_system,3622126]]'
+- '[[_Standards/WikiData/WD~point_of_view,12558574|WD~point_of_view,12558574]]'
+- '[[_Standards/WikiData/WD~Q113360143,113360143|WD~Q113360143,113360143]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~physics_term,100724091|WD~physics_term,100724091]]'
+used_by: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
+manifestation_of: '[[_Standards/WikiData/WD~coordinate_system,11210|WD~coordinate_system,11210]]'
 OmegaWiki_Defined_Meaning: 1413120
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Inertial%20hi.svg

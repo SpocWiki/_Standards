@@ -43,14 +43,14 @@ aliases:
 - 닌자
 has_id_wikidata: Q9402
 subclass_of:
-- '[[_Standards/WikiData/WD~mercenary,178197]]'
-- '[[_Standards/WikiData/WD~covert_agent,5179297]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~Ninjutsu,539067]]'
-wears: '[[_Standards/WikiData/WD~shinobi_shōzoku,7497702]]'
-uses: '[[_Standards/WikiData/WD~ninja_tool,11490746]]'
-different_from: '[[_Standards/WikiData/WD~ninja_in_a_work_of_fiction,123857692]]'
-instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
-country: '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~mercenary,178197|WD~mercenary,178197]]'
+- '[[_Standards/WikiData/WD~covert_agent,5179297|WD~covert_agent,5179297]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~Ninjutsu,539067|WD~Ninjutsu,539067]]'
+wears: '[[_Standards/WikiData/WD~shinobi_shōzoku,7497702|WD~shinobi_shōzoku,7497702]]'
+uses: '[[_Standards/WikiData/WD~ninja_tool,11490746|WD~ninja_tool,11490746]]'
+different_from: '[[_Standards/WikiData/WD~ninja_in_a_work_of_fiction,123857692|WD~ninja_in_a_work_of_fiction,123857692]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
+country: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
 IMDb_keyword: ninja
 hashtag: ninja
 male_form_of_label:

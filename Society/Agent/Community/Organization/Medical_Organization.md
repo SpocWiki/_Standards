@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A medical organization (physical or not), such as hospital, institution or clinic.
 
-#has_/parent_class :: [[../Organization]]  
+#has_/parent_class :: [[../Organization|Organization]]  
 
 #has_/child_/class :: [ Dentist, DiagnosticLab, Hospital, MedicalClinic, Pharmacy, Physician, VeterinaryCare ]  
 

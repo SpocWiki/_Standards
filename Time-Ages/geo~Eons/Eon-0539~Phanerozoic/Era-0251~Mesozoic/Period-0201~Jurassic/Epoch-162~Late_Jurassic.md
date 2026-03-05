@@ -48,13 +48,13 @@ aliases:
 - 쥐라기 후기
 ischart: UpperJurassic
 has_id_wikidata: Q499312
-named_after: '[[_Standards/WikiData/WD~Jura_Mountains,178611]]'
+named_after: '[[_Standards/WikiData/WD~Jura_Mountains,178611|WD~Jura_Mountains,178611]]'
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Late_Jurassic,9050408]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Late_Jurassic,9050408|WD~Category_Late_Jurassic,9050408]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -163500000-01-01T00:00:00Z
 end_time: -145000000-01-01T00:00:00Z
 Dewey_Decimal_Classification: 551.766
@@ -182,7 +182,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 161.5 to 145 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-155_Ma_(Oxfordian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-155_Ma_(Oxfordian_Age).png|Earth-155_Ma_(Oxfordian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

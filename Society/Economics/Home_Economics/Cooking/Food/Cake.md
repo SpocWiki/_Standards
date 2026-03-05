@@ -120,22 +120,22 @@ aliases:
   - 케이크
 has_id_wikidata: Q13276
 made_from_material:
-  - "[[_Standards/WikiData/WD~egg_as_food,93189]]"
-  - "[[_Standards/WikiData/WD~milk,8495]]"
-  - "[[_Standards/WikiData/WD~sugar,11002]]"
-  - "[[_Standards/WikiData/WD~flour,36465]]"
+  - "[[_Standards/WikiData/WD~egg_as_food,93189|WD~egg_as_food,93189]]"
+  - "[[_Standards/WikiData/WD~milk,8495|WD~milk,8495]]"
+  - "[[_Standards/WikiData/WD~sugar,11002|WD~sugar,11002]]"
+  - "[[_Standards/WikiData/WD~flour,36465|WD~flour,36465]]"
 different_from:
-  - "[[_Standards/WikiData/WD~torte,130186]]"
-  - "[[_Standards/WikiData/WD~pastel,189085]]"
-  - "[[_Standards/WikiData/WD~Cake,756704]]"
-  - "[[_Standards/WikiData/WD~tart,1142483]]"
-  - "[[_Standards/WikiData/WD~pie,13360264]]"
-  - "[[_Standards/WikiData/WD~biscuit,13270]]"
+  - "[[_Standards/WikiData/WD~torte,130186|WD~torte,130186]]"
+  - "[[_Standards/WikiData/WD~pastel,189085|WD~pastel,189085]]"
+  - "[[_Standards/WikiData/WD~Cake,756704|WD~Cake,756704]]"
+  - "[[_Standards/WikiData/WD~tart,1142483|WD~tart,1142483]]"
+  - "[[_Standards/WikiData/WD~pie,13360264|WD~pie,13360264]]"
+  - "[[_Standards/WikiData/WD~biscuit,13270|WD~biscuit,13270]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~torta,3573026]]"
-  - "[[_Standards/WikiData/WD~bánh,5004791]]"
-  - "[[_Standards/WikiData/WD~bakers'_confection,113389041]]"
-described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~torta,3573026|WD~torta,3573026]]"
+  - "[[_Standards/WikiData/WD~bánh,5004791|WD~bánh,5004791]]"
+  - "[[_Standards/WikiData/WD~bakers'_confection,113389041|WD~bakers'_confection,113389041]]"
+described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 USDA_NDB_number: 18135
 Commons_gallery: Cake
 Unicode_character:

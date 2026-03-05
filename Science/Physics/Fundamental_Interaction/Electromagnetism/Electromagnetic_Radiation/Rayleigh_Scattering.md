@@ -52,8 +52,8 @@ aliases:
 - 雷利散射
 - 레일리 산란
 has_id_wikidata: Q193709
-named_after: '[[_Standards/WikiData/WD~John_Strutt,_3rd_Baron_Rayleigh,83297]]'
-subclass_of: '[[_Standards/WikiData/WD~scattering,210028]]'
+named_after: '[[_Standards/WikiData/WD~John_Strutt,_3rd_Baron_Rayleigh,83297|WD~John_Strutt,_3rd_Baron_Rayleigh,83297]]'
+subclass_of: '[[_Standards/WikiData/WD~scattering,210028|WD~scattering,210028]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Leehasacamera%20-%20Sunset%20over%20the%20clouds%20%28by%29.jpg
 IEV_number: 731-03-37
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "RayleighScattering"]

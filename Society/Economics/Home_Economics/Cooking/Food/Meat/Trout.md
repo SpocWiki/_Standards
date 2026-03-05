@@ -74,22 +74,22 @@ aliases:
 - 송어류
 has_id_wikidata: Q2258881
 subclass_of:
-- '[[_Standards/WikiData/WD~seafood,192935]]'
-- '[[_Standards/WikiData/WD~fish_as_food,600396]]'
-- '[[_Standards/WikiData/WD~oily_fish,1409242]]'
+- '[[_Standards/WikiData/WD~seafood,192935|WD~seafood,192935]]'
+- '[[_Standards/WikiData/WD~fish_as_food,600396|WD~fish_as_food,600396]]'
+- '[[_Standards/WikiData/WD~oily_fish,1409242|WD~oily_fish,1409242]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-different_from: '[[_Standards/WikiData/WD~Salmo_trutta,2857311]]'
-instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+different_from: '[[_Standards/WikiData/WD~Salmo_trutta,2857311|WD~Salmo_trutta,2857311]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~trout_caviar,67861967]]'
-- '[[_Standards/WikiData/WD~trout_fillet,67862119]]'
+- '[[_Standards/WikiData/WD~trout_caviar,67861967|WD~trout_caviar,67861967]]'
+- '[[_Standards/WikiData/WD~trout_fillet,67862119|WD~trout_fillet,67862119]]'
 USDA_NDB_number: 15274
 OmegaWiki_Defined_Meaning: 347439
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bachforelle%20Zeichnung.jpg

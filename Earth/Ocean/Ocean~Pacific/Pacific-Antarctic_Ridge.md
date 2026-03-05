@@ -30,9 +30,9 @@ aliases:
 - 太平洋-南極海嶺
 - 太平洋南極海嶺
 has_id_wikidata: Q558800
-instance_of: '[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]'
-continent: '[[_Standards/WikiData/WD~Antarctica,51]]'
+instance_of: '[[_Standards/WikiData/WD~mid_ocean_ridge,104698|WD~mid_ocean_ridge,104698]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062|WD~Antarctic_Treaty_area,21590062]]'
+continent: '[[_Standards/WikiData/WD~Antarctica,51|WD~Antarctica,51]]'
 bathymetry_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Louisville%20seamount%20chain%20-%20bathymetry.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/East%20Pacific%20Rise.jpg
@@ -42,7 +42,7 @@ image:
 coordinate_location: Point(-157.000165 -61.999555)
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Pacific-Antarctic_Ridge,558800]]'
+  - '[[../../../WikiData/WD~Pacific-Antarctic_Ridge,558800|WD~Pacific-Antarctic_Ridge,558800]]'
   - '[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge|Pacific-Antarctic_Ridge]]'
   - '[[/_public/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.public|Pacific-Antarctic_Ridge.public]]'
   - '[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.internal|Pacific-Antarctic_Ridge.internal]]'
@@ -51,7 +51,7 @@ dv_is_:
   - '[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.personal|Pacific-Antarctic_Ridge.personal]]'
   - '[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.secret|Pacific-Antarctic_Ridge.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Pacific-Antarctic_Ridge,558800]]'
+- '[[../../../WikiData/WD~Pacific-Antarctic_Ridge,558800|WD~Pacific-Antarctic_Ridge,558800]]'
 - '[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge|Pacific-Antarctic_Ridge]]'
 - '[[/_public/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.public|Pacific-Antarctic_Ridge.public]]'
 - '[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.internal|Pacific-Antarctic_Ridge.internal]]'

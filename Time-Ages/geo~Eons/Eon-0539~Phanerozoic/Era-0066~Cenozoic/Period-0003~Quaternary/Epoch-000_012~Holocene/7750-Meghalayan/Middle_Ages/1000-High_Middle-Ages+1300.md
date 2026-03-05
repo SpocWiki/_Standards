@@ -57,10 +57,10 @@ aliases:
 - 中世纪中期
 - 중세 중기
 has_id_wikidata: Q212685
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_High_Middle_Ages,8512228]]'
-instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_High_Middle_Ages,8512228|WD~Category_High_Middle_Ages,8512228]]'
+instance_of: '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
 end_time: 1300-01-01T00:00:00Z
-location: '[[_Standards/WikiData/WD~Europe,46]]'
+location: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 OmegaWiki_Defined_Meaning: 1258252
 start_time: 1000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20mediterranean%201190.jpg

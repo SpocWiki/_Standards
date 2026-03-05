@@ -41,24 +41,24 @@ aliases:
 - 레비아탄
 has_id_wikidata: Q192677
 present_in_work:
-- '[[_Standards/WikiData/WD~Isaiah,131458]]'
-- '[[_Standards/WikiData/WD~Book_of_Job,4577]]'
-- '[[_Standards/WikiData/WD~Psalms,41064]]'
+- '[[_Standards/WikiData/WD~Isaiah,131458|WD~Isaiah,131458]]'
+- '[[_Standards/WikiData/WD~Book_of_Job,4577|WD~Book_of_Job,4577]]'
+- '[[_Standards/WikiData/WD~Psalms,41064|WD~Psalms,41064]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 worshipped_by:
-- '[[_Standards/WikiData/WD~Christian_mythology,1084084]]'
-- '[[_Standards/WikiData/WD~Jewish_mythology,1716022]]'
+- '[[_Standards/WikiData/WD~Christian_mythology,1084084|WD~Christian_mythology,1084084]]'
+- '[[_Standards/WikiData/WD~Jewish_mythology,1716022|WD~Jewish_mythology,1716022]]'
 instance_of:
-- '[[_Standards/WikiData/WD~biblical_character,12405827]]'
-- '[[_Standards/WikiData/WD~mythological_serpent,16326794]]'
-different_from: '[[_Standards/WikiData/WD~Leviathan,115089724]]'
-manifestation_of: '[[_Standards/WikiData/WD~Leviathan,115089724]]'
+- '[[_Standards/WikiData/WD~biblical_character,12405827|WD~biblical_character,12405827]]'
+- '[[_Standards/WikiData/WD~mythological_serpent,16326794|WD~mythological_serpent,16326794]]'
+different_from: '[[_Standards/WikiData/WD~Leviathan,115089724|WD~Leviathan,115089724]]'
+manifestation_of: '[[_Standards/WikiData/WD~Leviathan,115089724|WD~Leviathan,115089724]]'
 Commons_gallery: Leviathan
 Commons_category: Leviathan
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Destruction%20of%20Leviathan.png

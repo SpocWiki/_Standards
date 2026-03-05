@@ -17,7 +17,7 @@ aliases:
 Cicero attributes this question to Lucius Cassius.
 
 
-![[../../../../../assets/Bosses’_Cookie.png]] 
+![[../../../../../assets/Bosses’_Cookie.png|Bosses’_Cookie.png]] 
 
 
 ## Confidential Links & Embeds: 

@@ -39,10 +39,10 @@ aliases:
 - 마체테
 has_id_wikidata: Q230711
 subclass_of:
-- '[[_Standards/WikiData/WD~cold_weapon,222405]]'
-- '[[_Standards/WikiData/WD~agricultural_tool,3629395]]'
-- '[[_Standards/WikiData/WD~knife,32489]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_family,15142889]]'
+- '[[_Standards/WikiData/WD~cold_weapon,222405|WD~cold_weapon,222405]]'
+- '[[_Standards/WikiData/WD~agricultural_tool,3629395|WD~agricultural_tool,3629395]]'
+- '[[_Standards/WikiData/WD~knife,32489|WD~knife,32489]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_family,15142889|WD~weapon_family,15142889]]'
 Nomenclature_for_Museum_Cataloging: 3391
 Commons_category: Machetes
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Machete%20knife%20blade.jpg

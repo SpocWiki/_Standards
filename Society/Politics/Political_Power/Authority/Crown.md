@@ -69,28 +69,28 @@ aliases:
 - 왕관
 - "\U00010345\U00010339\U00010340\U0001033E\U00010330"
 has_id_wikidata: Q170984
-instance_of: '[[_Standards/WikiData/WD~symbol,80071]]'
+instance_of: '[[_Standards/WikiData/WD~symbol,80071|WD~symbol,80071]]'
 different_from:
-- '[[_Standards/WikiData/WD~Couronne,410992]]'
-- '[[_Standards/WikiData/WD~Tac,711595]]'
-- '[[_Standards/WikiData/WD~Krone,1564109]]'
-- '[[_Standards/WikiData/WD~Crown,1752605]]'
-- '[[_Standards/WikiData/WD~Coroa,16281010]]'
-- '[[_Standards/WikiData/WD~Kruna,20555139]]'
+- '[[_Standards/WikiData/WD~Couronne,410992|WD~Couronne,410992]]'
+- '[[_Standards/WikiData/WD~Tac,711595|WD~Tac,711595]]'
+- '[[_Standards/WikiData/WD~Krone,1564109|WD~Krone,1564109]]'
+- '[[_Standards/WikiData/WD~Crown,1752605|WD~Crown,1752605]]'
+- '[[_Standards/WikiData/WD~Coroa,16281010|WD~Coroa,16281010]]'
+- '[[_Standards/WikiData/WD~Kruna,20555139|WD~Kruna,20555139]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~The_Fairchild_Books_Dictionary_of_Fashion,99982228]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556|WD~Diccionario_del_español_de_México,5805556]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~The_Fairchild_Books_Dictionary_of_Fashion,99982228|WD~The_Fairchild_Books_Dictionary_of_Fashion,99982228]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~ceremonial_dress,5064153]]'
-- '[[_Standards/WikiData/WD~headdress,28972621]]'
-- '[[_Standards/WikiData/WD~power_symbol,111325174]]'
-depicted_by: '[[_Standards/WikiData/WD~Crowned_Head_of_a_Woman,131557322]]'
+- '[[_Standards/WikiData/WD~ceremonial_dress,5064153|WD~ceremonial_dress,5064153]]'
+- '[[_Standards/WikiData/WD~headdress,28972621|WD~headdress,28972621]]'
+- '[[_Standards/WikiData/WD~power_symbol,111325174|WD~power_symbol,111325174]]'
+depicted_by: '[[_Standards/WikiData/WD~Crowned_Head_of_a_Woman,131557322|WD~Crowned_Head_of_a_Woman,131557322]]'
 Nomenclature_for_Museum_Cataloging: 14083
 OmegaWiki_Defined_Meaning: 870564
 Commons_category: Crowns

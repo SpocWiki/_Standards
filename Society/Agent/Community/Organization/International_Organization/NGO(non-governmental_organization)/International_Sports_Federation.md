@@ -43,13 +43,13 @@ aliases:
 - 국제 스포츠 행정 기구
 has_id_wikidata: Q11422536
 subclass_of:
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
-- '[[_Standards/WikiData/WD~sport_association,1531833]]'
-- '[[_Standards/WikiData/WD~sports_governing_body,2485448]]'
-- '[[_Standards/WikiData/WD~international_association,29300714]]'
-has_list: '[[_Standards/WikiData/WD~list_of_international_sport_governing_bodies,1346006]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-has_part_s_: '[[_Standards/WikiData/WD~National_Sports_governing_body,130405942]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~sport_association,1531833|WD~sport_association,1531833]]'
+- '[[_Standards/WikiData/WD~sports_governing_body,2485448|WD~sports_governing_body,2485448]]'
+- '[[_Standards/WikiData/WD~international_association,29300714|WD~international_association,29300714]]'
+has_list: '[[_Standards/WikiData/WD~list_of_international_sport_governing_bodies,1346006|WD~list_of_international_sport_governing_bodies,1346006]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+has_part_s_: '[[_Standards/WikiData/WD~National_Sports_governing_body,130405942|WD~National_Sports_governing_body,130405942]]'
 dv_has_:
   name_:
     ar: هيئة دولية لتنظيم رياضة

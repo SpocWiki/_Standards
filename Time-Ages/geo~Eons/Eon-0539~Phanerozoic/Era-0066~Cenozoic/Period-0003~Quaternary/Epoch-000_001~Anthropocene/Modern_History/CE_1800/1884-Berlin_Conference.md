@@ -60,32 +60,32 @@ aliases:
 - 베를린 회의
 has_id_wikidata: Q13582
 interested_in:
-- '[[_Standards/WikiData/WD~colony,133156]]'
-- '[[_Standards/WikiData/WD~German_colonial_empire,329618]]'
+- '[[_Standards/WikiData/WD~colony,133156|WD~colony,133156]]'
+- '[[_Standards/WikiData/WD~German_colonial_empire,329618|WD~German_colonial_empire,329618]]'
 participant:
-- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-- '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
-- '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~Spain,29]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Netherlands,55]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
-- '[[_Standards/WikiData/WD~German_Empire,43287]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]'
-- '[[_Standards/WikiData/WD~Union_between_Sweden_and_Norway,62589]]'
-facet_of: '[[_Standards/WikiData/WD~German_colonial_empire,329618]]'
-main_subject: '[[_Standards/WikiData/WD~German_colonial_empire,329618]]'
-instance_of: '[[_Standards/WikiData/WD~international_conference,18564543]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579|WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193|WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~Ottoman_Empire,12560|WD~Ottoman_Empire,12560]]'
+- '[[_Standards/WikiData/WD~Austria_Hungary,28513|WD~Austria_Hungary,28513]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~German_Empire,43287|WD~German_Empire,43287]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670|WD~Kingdom_of_Portugal,45670]]'
+- '[[_Standards/WikiData/WD~Union_between_Sweden_and_Norway,62589|WD~Union_between_Sweden_and_Norway,62589]]'
+facet_of: '[[_Standards/WikiData/WD~German_colonial_empire,329618|WD~German_colonial_empire,329618]]'
+main_subject: '[[_Standards/WikiData/WD~German_colonial_empire,329618|WD~German_colonial_empire,329618]]'
+instance_of: '[[_Standards/WikiData/WD~international_conference,18564543|WD~international_conference,18564543]]'
 end_time: 1885-02-26T00:00:00Z
 start_time: 1884-11-15T00:00:00Z
 coordinate_location: Point(13.38253 52.51245)
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Berlin,64]]'
-location: '[[_Standards/WikiData/WD~Germany,183]]'
-country: '[[_Standards/WikiData/WD~Germany,183]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Berlin,64|WD~Berlin,64]]'
+location: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Afrikakonferenz.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-BerlinConference-article.ogg
 Commons_category: Berlin Conference (1884)

@@ -69,23 +69,23 @@ aliases:
 - 마요네즈
 has_id_wikidata: Q167893
 made_from_material:
-- '[[_Standards/WikiData/WD~mustard,131748]]'
-- '[[_Standards/WikiData/WD~chicken_egg,15260613]]'
-- '[[_Standards/WikiData/WD~vinegar,41354]]'
-- '[[_Standards/WikiData/WD~oil,42962]]'
+- '[[_Standards/WikiData/WD~mustard,131748|WD~mustard,131748]]'
+- '[[_Standards/WikiData/WD~chicken_egg,15260613|WD~chicken_egg,15260613]]'
+- '[[_Standards/WikiData/WD~vinegar,41354|WD~vinegar,41354]]'
+- '[[_Standards/WikiData/WD~oil,42962|WD~oil,42962]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sauce,178359]]'
-- '[[_Standards/WikiData/WD~emulsion,187634]]'
-- '[[_Standards/WikiData/WD~condiment,2596997]]'
-- '[[_Standards/WikiData/WD~Q26835639,26835639]]'
+- '[[_Standards/WikiData/WD~sauce,178359|WD~sauce,178359]]'
+- '[[_Standards/WikiData/WD~emulsion,187634|WD~emulsion,187634]]'
+- '[[_Standards/WikiData/WD~condiment,2596997|WD~condiment,2596997]]'
+- '[[_Standards/WikiData/WD~Q26835639,26835639|WD~Q26835639,26835639]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~egg_yolk,181409]]'
-- '[[_Standards/WikiData/WD~cooking_oil,427457]]'
+- '[[_Standards/WikiData/WD~egg_yolk,181409|WD~egg_yolk,181409]]'
+- '[[_Standards/WikiData/WD~cooking_oil,427457|WD~cooking_oil,427457]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
-named_after: '[[_Standards/WikiData/WD~Maó,49550]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+named_after: '[[_Standards/WikiData/WD~Maó,49550|WD~Maó,49550]]'
 USDA_NDB_number:
 - 04025
 - 04708

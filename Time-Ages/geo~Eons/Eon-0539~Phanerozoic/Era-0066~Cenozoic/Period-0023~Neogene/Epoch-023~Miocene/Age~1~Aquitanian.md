@@ -24,21 +24,21 @@ aliases:
 - 阿基坦期
 - 아키텐절
 has_id_wikidata: Q508479
-named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704]]'
+named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704|WD~Karl_Mayer_Eymar,116704]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-named_after: '[[_Standards/WikiData/WD~Aquitaine,2859283]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Aquitanian_(stage),21607909]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Aquitanian,133850762]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+named_after: '[[_Standards/WikiData/WD~Aquitaine,2859283|WD~Aquitaine,2859283]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Aquitanian_(stage),21607909|WD~Category_Aquitanian_(stage),21607909]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Aquitanian,133850762|WD~GSSP_for_the_base_of_the_Aquitanian,133850762]]'
 start_time: -23030000-01-01T00:00:00Z
 end_time: -20440000-01-01T00:00:00Z
-significant_place: '[[_Standards/WikiData/WD~Carrosio,17311]]'
+significant_place: '[[_Standards/WikiData/WD~Carrosio,17311|WD~Carrosio,17311]]'
 Commons_category: Aquitanian
 sRGB_color_hex_triplet: FFFF33
 coordinate_location: Point(8.8364 44.6589)
@@ -159,7 +159,7 @@ has_next_item = `=this.dv_has_next_item`
 
 ## #has_/text_of_/abstract 
 
-> The **Aquitanian** is, in the International Commission on Stratigraphy's (ICS) geologic timescale, the oldest age or lowest stage in the Miocene. It spans the time between 23.03 ± 0.05 Ma and 20.43 ± 0.05 Ma (million years ago) during the Early Miocene. It was a dry, cooling period. The Aquitanian succeeds the [[../../Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian]] (the youngest age of the Oligocene) and precedes the [[Age~2~Burdigalian]].
+> The **Aquitanian** is, in the International Commission on Stratigraphy's (ICS) geologic timescale, the oldest age or lowest stage in the Miocene. It spans the time between 23.03 ± 0.05 Ma and 20.43 ± 0.05 Ma (million years ago) during the Early Miocene. It was a dry, cooling period. The Aquitanian succeeds the [[../../Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian|Age~2~Chattian]] (the youngest age of the Oligocene) and precedes the [[Age~2~Burdigalian]].
 >
 > The Aquitanian Age overlaps with the Harrisonian, Agenian, Pareora, Landon, Otaian, and Waitakian Ages from various regional timescales.
 >

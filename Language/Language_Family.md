@@ -152,27 +152,27 @@ aliases:
 - "\U000110A6\U000110B0\U0001108E\U000110B0\U00011086 \U000110A3\U000110A9\U000110B1\U000110AB\U000110B0\U000110A9"
 has_id_wikidata: Q25295
 studied_by:
-- '[[_Standards/WikiData/WD~sociolinguistics,160845]]'
-- '[[_Standards/WikiData/WD~linguistics,8162]]'
-different_from: '[[_Standards/WikiData/WD~sprachbund,839463]]'
+- '[[_Standards/WikiData/WD~sociolinguistics,160845|WD~sociolinguistics,160845]]'
+- '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
+different_from: '[[_Standards/WikiData/WD~sprachbund,839463|WD~sprachbund,839463]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~language_group,941501]]'
-- '[[_Standards/WikiData/WD~languoid,17376908]]'
+- '[[_Standards/WikiData/WD~language_group,941501|WD~language_group,941501]]'
+- '[[_Standards/WikiData/WD~languoid,17376908|WD~languoid,17376908]]'
 part_of:
-- '[[_Standards/WikiData/WD~macrofamily,949344]]'
-- '[[_Standards/WikiData/WD~genetic_classification,25521366]]'
-has_part_s_: '[[_Standards/WikiData/WD~language_subfamily,11820611]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Language_families,13099669]]'
+- '[[_Standards/WikiData/WD~macrofamily,949344|WD~macrofamily,949344]]'
+- '[[_Standards/WikiData/WD~genetic_classification,25521366|WD~genetic_classification,25521366]]'
+has_part_s_: '[[_Standards/WikiData/WD~language_subfamily,11820611|WD~language_subfamily,11820611]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Language_families,13099669|WD~Template_Language_families,13099669]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]'
-instance_of: '[[_Standards/WikiData/WD~languoid_class,28923954]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602|WD~Soziolinguistika_Hiztegia,124156602]]'
+instance_of: '[[_Standards/WikiData/WD~languoid_class,28923954|WD~languoid_class,28923954]]'
 properties_for_this_type:
 - Freebase ID
 - Glottolog code
 - WALS family code
 - ISO 639-5 code
-has_list: '[[_Standards/WikiData/WD~list_of_language_families,33898]]'
+has_list: '[[_Standards/WikiData/WD~list_of_language_families,33898|WD~list_of_language_families,33898]]'
 OmegaWiki_Defined_Meaning: 1282916
 exact_match: https://ontology.londisizwe.org/mola#LanguageFamily
 Wolfram_Language_entity_type: LanguageFamily

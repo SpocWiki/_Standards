@@ -37,11 +37,11 @@ aliases:
 - 시데리아기
 has_id_wikidata: Q870498
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Siderian,131224401]]'
-named_after: '[[_Standards/WikiData/WD~iron,677]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Siderian,131224401|WD~Category_Siderian,131224401]]'
+named_after: '[[_Standards/WikiData/WD~iron,677|WD~iron,677]]'
 end_time: -2300000000-01-01T00:00:00Z
 start_time: -2500000000-01-01T00:00:00Z
 Commons_category: Siderian

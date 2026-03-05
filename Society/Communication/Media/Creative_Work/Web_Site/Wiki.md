@@ -54,22 +54,22 @@ aliases:
 - 위키
 has_id_wikidata: Q171
 subclass_of:
-- '[[_Standards/WikiData/WD~content_management_system,131093]]'
-- '[[_Standards/WikiData/WD~community_project,5155040]]'
-- '[[_Standards/WikiData/WD~website,35127]]'
-named_after: '[[_Standards/WikiData/WD~Q1197736,1197736]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_wikis,5871082]]'
+- '[[_Standards/WikiData/WD~content_management_system,131093|WD~content_management_system,131093]]'
+- '[[_Standards/WikiData/WD~community_project,5155040|WD~community_project,5155040]]'
+- '[[_Standards/WikiData/WD~website,35127|WD~website,35127]]'
+named_after: '[[_Standards/WikiData/WD~Q1197736,1197736|WD~Q1197736,1197736]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_wikis,5871082|WD~history_of_wikis,5871082]]'
 different_from:
-- '[[_Standards/WikiData/WD~Wiki_Site,6167343]]'
-- '[[_Standards/WikiData/WD~Wikipedia,52]]'
+- '[[_Standards/WikiData/WD~Wiki_Site,6167343|WD~Wiki_Site,6167343]]'
+- '[[_Standards/WikiData/WD~Wikipedia,52|WD~Wikipedia,52]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Wikis,8084768]]'
-- '[[_Standards/WikiData/WD~Template_Wiki,18857008]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-described_by_source: '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_website,134995802]]'
-based_on: '[[_Standards/WikiData/WD~World_Wide_Web,466]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Q7637,7637]]'
+- '[[_Standards/WikiData/WD~Template_Wikis,8084768|WD~Template_Wikis,8084768]]'
+- '[[_Standards/WikiData/WD~Template_Wiki,18857008|WD~Template_Wiki,18857008]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+described_by_source: '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836|WD~Dictionnaire_des_biens_communs,120799836]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_website,134995802|WD~type_of_website,134995802]]'
+based_on: '[[_Standards/WikiData/WD~World_Wide_Web,466|WD~World_Wide_Web,466]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Q7637,7637|WD~Q7637,7637]]'
 main_Wikidata_property: official wiki URL
 OmegaWiki_Defined_Meaning: 7514
 GitHub_topic: wiki

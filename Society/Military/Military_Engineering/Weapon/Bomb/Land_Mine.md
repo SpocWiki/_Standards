@@ -61,11 +61,11 @@ aliases:
 - 地雷
 - 지뢰
 has_id_wikidata: Q178795
-subclass_of: '[[_Standards/WikiData/WD~mine,1481202]]'
-part_of: '[[_Standards/WikiData/WD~minefield,1936555]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+subclass_of: '[[_Standards/WikiData/WD~mine,1481202|WD~mine,1481202]]'
+part_of: '[[_Standards/WikiData/WD~minefield,1936555|WD~minefield,1936555]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422|WD~weapon_functional_class,124078422]]'
 Nomenclature_for_Museum_Cataloging: 7774
 OmegaWiki_Defined_Meaning: 1443322
 time_of_discovery_or_invention: 1277-01-01T00:00:00Z

@@ -132,12 +132,12 @@ aliases:
 - 원자 번호
 has_id_wikidata: Q23809
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~number_of_entities,614112]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~number_of_entities,614112|WD~number_of_entities,614112]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171|WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 ISQ_dimension: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle 1}">
     <semantics>
@@ -161,9 +161,9 @@ quantity_symbol_LaTeX_: >-
     </semantics>
   </math>
 Wikidata_property: atomic number
-counts_number_of: '[[_Standards/WikiData/WD~proton,2294]]'
-characteristic_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~1,199]]'
+counts_number_of: '[[_Standards/WikiData/WD~proton,2294|WD~proton,2294]]'
+characteristic_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~1,199|WD~1,199]]'
 OmegaWiki_Defined_Meaning: 8207
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Isotope%20CNO.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A6%AC%E0%A6%BF%E0%A6%95%20%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE.wav

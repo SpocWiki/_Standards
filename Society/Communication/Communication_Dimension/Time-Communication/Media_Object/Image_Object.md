@@ -35,7 +35,7 @@ Tag Instances like this:
 
 An image file.
 
-#has_/parent_class :: [[../MediaObject]]  
+#has_/parent_class :: [[../MediaObject|MediaObject]]  
 
 #has_/child_/class :: [ Barcode, ImageObjectSnapshot ]  
 

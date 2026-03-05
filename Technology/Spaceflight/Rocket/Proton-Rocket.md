@@ -27,17 +27,17 @@ aliases:
 - 质子号运载火箭
 - 프로톤 로켓
 has_id_wikidata: Q249231
-replaced_by: '[[_Standards/WikiData/WD~Angara,530600]]'
-manufacturer: '[[_Standards/WikiData/WD~Khrunichev_State_Research_and_Production_Space_Center,1197016]]'
-different_from: '[[_Standards/WikiData/WD~Proton,1572461]]'
-based_on: '[[_Standards/WikiData/WD~UR_500,10853123]]'
-subclass_of: '[[_Standards/WikiData/WD~expendable_launch_vehicle,15078724]]'
-described_by_source: '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-instance_of: '[[_Standards/WikiData/WD~rocket_family,109542585]]'
-country_of_origin: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+replaced_by: '[[_Standards/WikiData/WD~Angara,530600|WD~Angara,530600]]'
+manufacturer: '[[_Standards/WikiData/WD~Khrunichev_State_Research_and_Production_Space_Center,1197016|WD~Khrunichev_State_Research_and_Production_Space_Center,1197016]]'
+different_from: '[[_Standards/WikiData/WD~Proton,1572461|WD~Proton,1572461]]'
+based_on: '[[_Standards/WikiData/WD~UR_500,10853123|WD~UR_500,10853123]]'
+subclass_of: '[[_Standards/WikiData/WD~expendable_launch_vehicle,15078724|WD~expendable_launch_vehicle,15078724]]'
+described_by_source: '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836|WD~Larousse_Encyclopedia_online,17329836]]'
+instance_of: '[[_Standards/WikiData/WD~rocket_family,109542585|WD~rocket_family,109542585]]'
+country_of_origin: '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
 country:
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
 native_label: Протон
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Proton%20Zvezda.jpg
 Commons_gallery: Proton (rocket)

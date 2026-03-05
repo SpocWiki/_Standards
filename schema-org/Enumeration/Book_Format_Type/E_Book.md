@@ -27,9 +27,9 @@ tags:
 title: is_an_e_book Class
 type: Type
 dv_has_:
-  parent_class: "[[../BookFormatType]]"
+  parent_class: "[[../BookFormatType|BookFormatType]]"
 dv_is_:
-  enum_of: "[[../BookFormatType]]"
+  enum_of: "[[../BookFormatType|BookFormatType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Book_Format_Type/E_Book|E_Book]]"
     - "[[/_public/schema-org/Enumeration/Book_Format_Type/E_Book.public|E_Book.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Book_Format_Type/E_Book.personal|E_Book.personal]]"
     - "[[/_secret/schema-org/Enumeration/Book_Format_Type/E_Book.secret|E_Book.secret]]"
     - "[[E_Book]]"
-dv_has_parent_class: "[[../BookFormatType]]"
-dv_is_enum_of: "[[../BookFormatType]]"
+dv_has_parent_class: "[[../BookFormatType|BookFormatType]]"
+dv_is_enum_of: "[[../BookFormatType|BookFormatType]]"
 dv_is_same_as:
   - "[[E_Book]]"
   - "[[/_public/schema-org/Enumeration/Book_Format_Type/E_Book.public|E_Book.public]]"

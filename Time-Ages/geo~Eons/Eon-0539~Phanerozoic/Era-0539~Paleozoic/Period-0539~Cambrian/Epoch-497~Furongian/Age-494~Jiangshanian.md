@@ -17,11 +17,11 @@ aliases:
 - 索尼音樂
 - 소니 뮤직 엔터테인먼트
 has_id_wikidata: Q330629
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-different_from: '[[_Standards/WikiData/WD~Sony_Music,56760250]]'
-operator: '[[_Standards/WikiData/WD~Sony_Music,56760250]]'
-discography: '[[_Standards/WikiData/WD~Sony_Music_catalog,105047442]]'
-instance_of: '[[_Standards/WikiData/WD~record_label,18127]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+different_from: '[[_Standards/WikiData/WD~Sony_Music,56760250|WD~Sony_Music,56760250]]'
+operator: '[[_Standards/WikiData/WD~Sony_Music,56760250|WD~Sony_Music,56760250]]'
+discography: '[[_Standards/WikiData/WD~Sony_Music_catalog,105047442|WD~Sony_Music_catalog,105047442]]'
+instance_of: '[[_Standards/WikiData/WD~record_label,18127|WD~record_label,18127]]'
 social_media_followers: 62071
 Labelcode: 06667
 inception: 1991-01-01T00:00:00Z
@@ -176,7 +176,7 @@ has_text_of_color = `=this.dv_has_text_of_color`
 
 A time period from 494 to 489.5 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-495_Ma_(Paibian_Stage).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-495_Ma_(Paibian_Stage).png|Earth-495_Ma_(Paibian_Stage).png]] 
 
 ## #has_/text_of_/abstract 
 

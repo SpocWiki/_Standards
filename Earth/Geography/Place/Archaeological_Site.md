@@ -96,25 +96,25 @@ aliases:
 - 遺蹟
 - 유적지
 has_id_wikidata: Q839954
-facet_of: '[[_Standards/WikiData/WD~cultural_heritage,210272]]'
+facet_of: '[[_Standards/WikiData/WD~cultural_heritage,210272|WD~cultural_heritage,210272]]'
 different_from:
-- '[[_Standards/WikiData/WD~archaeological_excavation,959782]]'
-- '[[_Standards/WikiData/WD~Archaeological_site,10926801]]'
+- '[[_Standards/WikiData/WD~archaeological_excavation,959782|WD~archaeological_excavation,959782]]'
+- '[[_Standards/WikiData/WD~Archaeological_site,10926801|WD~Archaeological_site,10926801]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~location_of_discovery,1291195]]'
-- '[[_Standards/WikiData/WD~geographic_location,2221906]]'
-- '[[_Standards/WikiData/WD~human_geographic_territorial_entity,15642541]]'
-contributing_factor_of: '[[_Standards/WikiData/WD~archaeological_record,2686349]]'
+- '[[_Standards/WikiData/WD~location_of_discovery,1291195|WD~location_of_discovery,1291195]]'
+- '[[_Standards/WikiData/WD~geographic_location,2221906|WD~geographic_location,2221906]]'
+- '[[_Standards/WikiData/WD~human_geographic_territorial_entity,15642541|WD~human_geographic_territorial_entity,15642541]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~archaeological_record,2686349|WD~archaeological_record,2686349]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_ancient_site,11705134]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_historic_site,12857484]]'
-- '[[_Standards/WikiData/WD~Template_Archaeological_monument,26192822]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Historical_Place,60003595]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_ancient_site,11705134|WD~Template_Infobox_ancient_site,11705134]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_historic_site,12857484|WD~Template_Infobox_historic_site,12857484]]'
+- '[[_Standards/WikiData/WD~Template_Archaeological_monument,26192822|WD~Template_Archaeological_monument,26192822]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Historical_Place,60003595|WD~WikiProject_Historical_Place,60003595]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 Wikidata_property: archaeological site of
-studied_by: '[[_Standards/WikiData/WD~archaeology,23498]]'
+studied_by: '[[_Standards/WikiData/WD~archaeology,23498|WD~archaeology,23498]]'
 OmegaWiki_Defined_Meaning: 237
 U_S_National_Archives_Identifier: 10646987
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20232996%20cc%20Castle.svg
@@ -127,7 +127,7 @@ GeoNames_feature_code: S.ANS
 OpenStreetMap_tag_or_key: Tag:historic=archaeological_site
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~archaeological_site,839954]]'
+  - '[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]'
   - '[[/_Standards/Earth/Geography/Place/Archaeological_Site|Archaeological_Site]]'
   - '[[/_public/Earth/Geography/Place/Archaeological_Site.public|Archaeological_Site.public]]'
   - '[[/_internal/Earth/Geography/Place/Archaeological_Site.internal|Archaeological_Site.internal]]'
@@ -136,7 +136,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Archaeological_Site.personal|Archaeological_Site.personal]]'
   - '[[/_secret/Earth/Geography/Place/Archaeological_Site.secret|Archaeological_Site.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~archaeological_site,839954]]'
+- '[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]'
 - '[[/_Standards/Earth/Geography/Place/Archaeological_Site|Archaeological_Site]]'
 - '[[/_public/Earth/Geography/Place/Archaeological_Site.public|Archaeological_Site.public]]'
 - '[[/_internal/Earth/Geography/Place/Archaeological_Site.internal|Archaeological_Site.internal]]'
@@ -257,7 +257,7 @@ dv_has_:
 
 # [[Archaeological_Site]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~archaeological_site,839954]] 
+#is_/same_as :: [[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]] 
 
 ## #has_/text_of_/abstract 
 

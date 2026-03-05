@@ -68,32 +68,32 @@ aliases:
 - 검사
 has_id_wikidata: Q600751
 field_of_this_occupation:
-- '[[_Standards/WikiData/WD~criminal_law,146491]]'
-- '[[_Standards/WikiData/WD~legal_case,2334719]]'
-- '[[_Standards/WikiData/WD~law_enforcement,44554]]'
-opposite_of: '[[_Standards/WikiData/WD~defendant,159394]]'
+- '[[_Standards/WikiData/WD~criminal_law,146491|WD~criminal_law,146491]]'
+- '[[_Standards/WikiData/WD~legal_case,2334719|WD~legal_case,2334719]]'
+- '[[_Standards/WikiData/WD~law_enforcement,44554|WD~law_enforcement,44554]]'
+opposite_of: '[[_Standards/WikiData/WD~defendant,159394|WD~defendant,159394]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-part_of: "[[_Standards/WikiData/WD~public_prosecutor's_office,1092499]]"
-facet_of: '[[_Standards/WikiData/WD~justice_and_judicial_activities,1522168]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+part_of: "[[_Standards/WikiData/WD~public_prosecutor's_office,1092499|WD~public_prosecutor's_office,1092499]]"
+facet_of: '[[_Standards/WikiData/WD~justice_and_judicial_activities,1522168|WD~justice_and_judicial_activities,1522168]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~legal_counselor,2135469]]'
-- '[[_Standards/WikiData/WD~government_attorney,112684029]]'
+- '[[_Standards/WikiData/WD~legal_counselor,2135469|WD~legal_counselor,2135469]]'
+- '[[_Standards/WikiData/WD~government_attorney,112684029|WD~government_attorney,112684029]]'
 instance_of:
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~legal_profession,15987302]]'
-- '[[_Standards/WikiData/WD~legal_position,83856136]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~legal_profession,15987302|WD~legal_profession,15987302]]'
+- '[[_Standards/WikiData/WD~legal_position,83856136|WD~legal_position,83856136]]'
 different_from:
-- '[[_Standards/WikiData/WD~procurator,7247537]]'
-- "[[_Standards/WikiData/WD~public_prosecutor's_office,11775750]]"
-- '[[_Standards/WikiData/WD~criminal_prosecution,64812306]]'
+- '[[_Standards/WikiData/WD~procurator,7247537|WD~procurator,7247537]]'
+- "[[_Standards/WikiData/WD~public_prosecutor's_office,11775750|WD~public_prosecutor's_office,11775750]]"
+- '[[_Standards/WikiData/WD~criminal_prosecution,64812306|WD~criminal_prosecution,64812306]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~public_procurator,7257955]]'
-- "[[_Standards/WikiData/WD~state's_attorney,10726370]]"
-has_part_s_: '[[_Standards/WikiData/WD~military_prosecutor,126030221]]'
+- '[[_Standards/WikiData/WD~public_procurator,7257955|WD~public_procurator,7257955]]'
+- "[[_Standards/WikiData/WD~state's_attorney,10726370|WD~state's_attorney,10726370]]"
+has_part_s_: '[[_Standards/WikiData/WD~military_prosecutor,126030221|WD~military_prosecutor,126030221]]'
 Wikidata_property: prosecutor
 SSYK_2012_The_Swedish_Standard_Classification_of_Occupations: 2613
 ISCO_08_occupation_class: 2611

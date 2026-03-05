@@ -44,11 +44,11 @@ aliases:
 ischart: LowerOrdovician
 has_id_wikidata: Q10739169
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-named_after: '[[_Standards/WikiData/WD~Ordovices,768052]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Ordovician,20980754]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Ordovices,768052|WD~Ordovices,768052]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Ordovician,20980754|WD~Category_Early_Ordovician,20980754]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -486850000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20480%20Ma%20%28Tremadocian%20Age%29.png
 sRGB_color_hex_triplet: 1A9D6F
@@ -162,7 +162,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 485.4 to 470.0 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-480_Ma_(Tremadocian_Age).png]]
+![[../../../../../../../xLarge/Earth/Geology/Earth-480_Ma_(Tremadocian_Age).png|Earth-480_Ma_(Tremadocian_Age).png]]
 
 ## #has_/text_of_/abstract 
 

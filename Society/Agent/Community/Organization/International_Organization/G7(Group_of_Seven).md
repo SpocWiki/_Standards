@@ -43,28 +43,28 @@ aliases:
 - 七大工業國組織
 has_id_wikidata: Q1764511
 instance_of:
-- '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
-- '[[_Standards/WikiData/WD~group_of_major_economic_countries,28963381]]'
-- '[[_Standards/WikiData/WD~heptad,29441572]]'
+- '[[_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~group_of_major_economic_countries,28963381|WD~group_of_major_economic_countries,28963381]]'
+- '[[_Standards/WikiData/WD~heptad,29441572|WD~heptad,29441572]]'
 different_from:
-- '[[_Standards/WikiData/WD~G7,363716]]'
-- '[[_Standards/WikiData/WD~G8,37143]]'
+- '[[_Standards/WikiData/WD~G7,363716|WD~G7,363716]]'
+- '[[_Standards/WikiData/WD~G8,37143|WD~G8,37143]]'
 replaces:
-- '[[_Standards/WikiData/WD~G6,10287157]]'
-- '[[_Standards/WikiData/WD~G8,37143]]'
+- '[[_Standards/WikiData/WD~G6,10287157|WD~G6,10287157]]'
+- '[[_Standards/WikiData/WD~G8,37143|WD~G8,37143]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Group_of_7,22736998]]'
-- '[[_Standards/WikiData/WD~Q25942093,25942093]]'
+- '[[_Standards/WikiData/WD~Template_Group_of_7,22736998|WD~Template_Group_of_7,22736998]]'
+- '[[_Standards/WikiData/WD~Q25942093,25942093|WD~Q25942093,25942093]]'
 participant:
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-replaced_by: '[[_Standards/WikiData/WD~G8,37143]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+replaced_by: '[[_Standards/WikiData/WD~G8,37143|WD~G8,37143]]'
 social_media_followers: 118534
 EU_Corporate_body_code: G7
 Facebook_username: G7

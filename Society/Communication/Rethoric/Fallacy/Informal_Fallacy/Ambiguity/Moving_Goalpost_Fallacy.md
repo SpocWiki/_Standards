@@ -16,9 +16,9 @@ aliases:
 - 搬龍門
 has_id_wikidata: Q3244473
 instance_of:
-- '[[_Standards/WikiData/WD~informal_fallacy,3312438]]'
-- '[[_Standards/WikiData/WD~metaphor,18534]]'
-named_after: '[[_Standards/WikiData/WD~goalpost,4810284]]'
+- '[[_Standards/WikiData/WD~informal_fallacy,3312438|WD~informal_fallacy,3312438]]'
+- '[[_Standards/WikiData/WD~metaphor,18534|WD~metaphor,18534]]'
+named_after: '[[_Standards/WikiData/WD~goalpost,4810284|WD~goalpost,4810284]]'
 dv_has_:
   name_:
     ar: مغالطة تحريك المرمى

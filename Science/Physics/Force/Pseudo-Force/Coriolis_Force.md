@@ -78,19 +78,19 @@ aliases:
 - 코리올리 효과
 has_id_wikidata: Q169973
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~fictitious_force,212126]]'
-named_after: '[[_Standards/WikiData/WD~Gaspard_Gustave_de_Coriolis,202827]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Gaspard_Gustave_de_Coriolis,202827]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~fictitious_force,212126|WD~fictitious_force,212126]]'
+named_after: '[[_Standards/WikiData/WD~Gaspard_Gustave_de_Coriolis,202827|WD~Gaspard_Gustave_de_Coriolis,202827]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Gaspard_Gustave_de_Coriolis,202827|WD~Gaspard_Gustave_de_Coriolis,202827]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-different_from: '[[_Standards/WikiData/WD~Coriolis_acceleration,2822923]]'
-instance_of: '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~Coriolis_acceleration,2822923|WD~Coriolis_acceleration,2822923]]'
+instance_of: '[[_Standards/WikiData/WD~scientific_theory,3239681|WD~scientific_theory,3239681]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 time_of_discovery_or_invention: 1835-01-01T00:00:00Z
-measurement_scale: '[[_Standards/WikiData/WD~newton,12438]]'
+measurement_scale: '[[_Standards/WikiData/WD~newton,12438|WD~newton,12438]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Low%20pressure%20system%20over%20Iceland.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Coriolis%20effect14.png

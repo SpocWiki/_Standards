@@ -64,29 +64,29 @@ aliases:
 - ﷲ
 has_id_wikidata: Q234801
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from:
-- '[[_Standards/WikiData/WD~Yahweh,766677]]'
-- '[[_Standards/WikiData/WD~Sabaoth,1657271]]'
-- '[[_Standards/WikiData/WD~God_in_Judaism,2155501]]'
-- '[[_Standards/WikiData/WD~Ilah,17398299]]'
-- '[[_Standards/WikiData/WD~God_in_Christianity,825]]'
+- '[[_Standards/WikiData/WD~Yahweh,766677|WD~Yahweh,766677]]'
+- '[[_Standards/WikiData/WD~Sabaoth,1657271|WD~Sabaoth,1657271]]'
+- '[[_Standards/WikiData/WD~God_in_Judaism,2155501|WD~God_in_Judaism,2155501]]'
+- '[[_Standards/WikiData/WD~Ilah,17398299|WD~Ilah,17398299]]'
+- '[[_Standards/WikiData/WD~God_in_Christianity,825|WD~God_in_Christianity,825]]'
 has_use:
-- '[[_Standards/WikiData/WD~Dua,879046]]'
-- '[[_Standards/WikiData/WD~dhikr,948437]]'
+- '[[_Standards/WikiData/WD~Dua,879046|WD~Dua,879046]]'
+- '[[_Standards/WikiData/WD~dhikr,948437|WD~dhikr,948437]]'
 depicts:
-- '[[_Standards/WikiData/WD~Rabb,1713625]]'
-- '[[_Standards/WikiData/WD~God_in_Islam,2095353]]'
-- '[[_Standards/WikiData/WD~God,190]]'
-instance_of: '[[_Standards/WikiData/WD~theonym,12160552]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202697,13202697]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~Rabb,1713625|WD~Rabb,1713625]]'
+- '[[_Standards/WikiData/WD~God_in_Islam,2095353|WD~God_in_Islam,2095353]]'
+- '[[_Standards/WikiData/WD~God,190|WD~God,190]]'
+instance_of: '[[_Standards/WikiData/WD~theonym,12160552|WD~theonym,12160552]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202697,13202697|WD~Q13202697,13202697]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
 OmegaWiki_Defined_Meaning: 1571713
 subject_lexeme: L252309
 native_label: الله
@@ -261,7 +261,7 @@ dv_has_:
 
 # [[Allah]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Allah,234801]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Allah,234801|WD~Allah,234801]] 
 
 ## #has_/text_of_/abstract 
 

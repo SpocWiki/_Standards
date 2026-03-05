@@ -73,22 +73,22 @@ aliases:
 - 인과관계
 has_id_wikidata: Q179289
 studied_by:
-- '[[_Standards/WikiData/WD~etiology,156318]]'
-- '[[_Standards/WikiData/WD~Buddhist_logico_epistemology,10925603]]'
+- '[[_Standards/WikiData/WD~etiology,156318|WD~etiology,156318]]'
+- '[[_Standards/WikiData/WD~Buddhist_logico_epistemology,10925603|WD~Buddhist_logico_epistemology,10925603]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~consequent,261155]]'
-- '[[_Standards/WikiData/WD~effect,926230]]'
-- '[[_Standards/WikiData/WD~cause,2574811]]'
+- '[[_Standards/WikiData/WD~consequent,261155|WD~consequent,261155]]'
+- '[[_Standards/WikiData/WD~effect,926230|WD~effect,926230]]'
+- '[[_Standards/WikiData/WD~cause,2574811|WD~cause,2574811]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-subclass_of: '[[_Standards/WikiData/WD~relation,930933]]'
-opposite_of: '[[_Standards/WikiData/WD~prevention,1717246]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+subclass_of: '[[_Standards/WikiData/WD~relation,930933|WD~relation,930933]]'
+opposite_of: '[[_Standards/WikiData/WD~prevention,1717246|WD~prevention,1717246]]'
 part_of:
-- '[[_Standards/WikiData/WD~multiple_causes,18121382]]'
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
+- '[[_Standards/WikiData/WD~multiple_causes,18121382|WD~multiple_causes,18121382]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710|WD~type_of_relation,130324710]]'
 Commons_category: Causality
 Stack_Exchange_tag: https://stats.stackexchange.com/tags/causality
 PhilPapers_topic: causation

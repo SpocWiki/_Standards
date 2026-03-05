@@ -26,7 +26,7 @@ tags:
 title: is_an_event_status_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../StatusEnumeration]]"
+  parent_class: "[[../StatusEnumeration|StatusEnumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type|Event_Status_Type]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.personal|Event_Status_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.secret|Event_Status_Type.secret]]"
     - "[[Event_Status_Type]]"
-dv_has_parent_class: "[[../StatusEnumeration]]"
+dv_has_parent_class: "[[../StatusEnumeration|StatusEnumeration]]"
 dv_is_same_as:
   - "[[Event_Status_Type]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.public|Event_Status_Type.public]]"

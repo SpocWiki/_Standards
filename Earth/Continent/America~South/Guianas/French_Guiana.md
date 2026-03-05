@@ -83,7 +83,7 @@ dv_has_name_de: Französisch Guayana
 dv_Area-Total: 90000
 dv_Area-Land: 0
 dv_has_place_continent: "[[South-America]]"
-dv_Capital: "[[French_Guiana/City/Cayenne=Franz.]]"
+dv_Capital: "[[French_Guiana/City/Cayenne=Franz.|Cayenne=Franz.]]"
 dv_Language-Id: 496
 dv_has_place_longitude: -52.3
 dv_has_place_latitude: 4.92
@@ -113,7 +113,7 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[French_Guiana/ReadMe]] 
+[[French_Guiana/ReadMe|ReadMe]] 
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

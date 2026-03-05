@@ -25,12 +25,12 @@ aliases:
 - 슬란도버리세
 has_id_wikidata: Q1187992
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-named_after: '[[_Standards/WikiData/WD~Llandovery,651733]]'
-named_by: '[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Llandovery_epoch,30869550]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Llandovery,651733|WD~Llandovery,651733]]'
+named_by: '[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829|WD~Charles_Hepworth_Holland,1064829]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Llandovery_epoch,30869550|WD~Category_Llandovery_epoch,30869550]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -433400000-01-01T00:00:00Z
 start_time: -443800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 7ED7C6
@@ -146,11 +146,11 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 443.8 to 433.4 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-440_Ma_(Aeronian_Age).png]]
+![[../../../../../../../xLarge/Earth/Geology/Earth-440_Ma_(Aeronian_Age).png|Earth-440_Ma_(Aeronian_Age).png]]
 
 ## #has_/text_of_/abstract 
 
-> In the geological timescale, the **Llandovery Epoch** (from 443.8 ± 1.5 million years ago to 433.4 ± 0.8 million years ago) occurred at the beginning of the [[../Period-0444~Silurian]]. 
+> In the geological timescale, the **Llandovery Epoch** (from 443.8 ± 1.5 million years ago to 433.4 ± 0.8 million years ago) occurred at the beginning of the [[../Period-0444~Silurian|Period-0444~Silurian]]. 
 > 
 > The Llandoverian Epoch follows the massive Ordovician-Silurian extinction events, which led to a large decrease in biodiversity and an opening up of ecosystems.
 >

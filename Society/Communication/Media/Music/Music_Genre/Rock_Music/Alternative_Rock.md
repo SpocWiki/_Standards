@@ -66,17 +66,17 @@ aliases:
 - 얼터너티브 록
 has_id_wikidata: Q11366
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~radio_format,589183]]'
-different_from: '[[_Standards/WikiData/WD~alternative_music,1695023]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~radio_format,589183|WD~radio_format,589183]]'
+different_from: '[[_Standards/WikiData/WD~alternative_music,1695023|WD~alternative_music,1695023]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~alternative_music,1695023]]'
-- '[[_Standards/WikiData/WD~rock_music,11399]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Alternative_rock,14615030]]'
-has_characteristic: '[[_Standards/WikiData/WD~rock_genre,107975727]]'
+- '[[_Standards/WikiData/WD~alternative_music,1695023|WD~alternative_music,1695023]]'
+- '[[_Standards/WikiData/WD~rock_music,11399|WD~rock_music,11399]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Alternative_rock,14615030|WD~Portal_Alternative_rock,14615030]]'
+has_characteristic: '[[_Standards/WikiData/WD~rock_genre,107975727|WD~rock_genre,107975727]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 IAB_code: 365
 inception: 1978-01-01T00:00:00Z
 image:
@@ -189,7 +189,7 @@ dv_has_:
 
 # [[Alternative_Rock]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Alternative_rock,11366]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Alternative_rock,11366|WD~Alternative_rock,11366]] 
 
 ## #has_/text_of_/abstract 
 

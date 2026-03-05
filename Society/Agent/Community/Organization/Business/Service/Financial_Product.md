@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A product provided to consumers and businesses by financial institutions such as banks, insurance companies, brokerage firms, consumer finance companies, and investment companies which comprise the financial services industry.
 
-#has_/parent_class :: [[../Service]]  
+#has_/parent_class :: [[../Service|Service]]  
 
 #has_/child_/class :: [ BankAccount, CurrencyConversionService, InvestmentOrDeposit, LoanOrCredit, PaymentCard, PaymentService ]  
 

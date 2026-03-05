@@ -483,10 +483,10 @@ dv_has_:
     zh_sg: 苏联
     zh_tw: 蘇聯
   next_:
-    item: '[[../Europe/Europe~East/Russia]]'
+    item: '[[../Europe/Europe~East/Russia|Russia]]'
 dv_has_name_en: USSR
 dv_has_name_de: UdSSR
-dv_has_place_continent: '[[../Asia]]'
+dv_has_place_continent: '[[../Asia|Asia]]'
 dv_Language-Id: 469
 dv_is_:
   same_as:
@@ -497,7 +497,7 @@ dv_is_:
   - '[[/_private/Earth/Continent/Asia/USSR.private|USSR.private]]'
   - '[[/_personal/Earth/Continent/Asia/USSR.personal|USSR.personal]]'
   - '[[/_secret/Earth/Continent/Asia/USSR.secret|USSR.secret]]'
-dv_has_next_item: '[[../Europe/Europe~East/Russia]]'
+dv_has_next_item: '[[../Europe/Europe~East/Russia|Russia]]'
 dv_is_same_as:
 - '[[/_Standards/Earth/Continent/Asia/USSR|USSR]]'
 - '[[/_public/Earth/Continent/Asia/USSR.public|USSR.public]]'

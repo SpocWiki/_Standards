@@ -40,11 +40,11 @@ aliases:
 - 커 효과
 has_id_wikidata: Q883038
 instance_of:
-- '[[_Standards/WikiData/WD~phenomenon,483247]]'
-- '[[_Standards/WikiData/WD~electricity,12725]]'
-subclass_of: '[[_Standards/WikiData/WD~electro_optic_effect,677139]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Kerr,918672]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~phenomenon,483247|WD~phenomenon,483247]]'
+- '[[_Standards/WikiData/WD~electricity,12725|WD~electricity,12725]]'
+subclass_of: '[[_Standards/WikiData/WD~electro_optic_effect,677139|WD~electro_optic_effect,677139]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Kerr,918672|WD~John_Kerr,918672]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 inception: 1875-01-01T00:00:00Z
 IEV_number: 121-12-95
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "KerrEffect"]

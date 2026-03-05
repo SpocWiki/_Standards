@@ -71,16 +71,16 @@ aliases:
 - 도덕
 has_id_wikidata: Q48324
 part_of:
-- '[[_Standards/WikiData/WD~tradition,82821]]'
-- '[[_Standards/WikiData/WD~culture,11042]]'
-subclass_of: '[[_Standards/WikiData/WD~conviction,1048607]]'
-described_by_source: '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-opposite_of: '[[_Standards/WikiData/WD~immorality,3796713]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~decency,12456769]]'
-has_part_s_: '[[_Standards/WikiData/WD~morality_in_Islam,28220256]]'
-instance_of: '[[_Standards/WikiData/WD~ethical_concept,55979391]]'
-studied_by: '[[_Standards/WikiData/WD~ethics,9465]]'
-different_from: '[[_Standards/WikiData/WD~moral_hazard,44454]]'
+- '[[_Standards/WikiData/WD~tradition,82821|WD~tradition,82821]]'
+- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
+subclass_of: '[[_Standards/WikiData/WD~conviction,1048607|WD~conviction,1048607]]'
+described_by_source: '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+opposite_of: '[[_Standards/WikiData/WD~immorality,3796713|WD~immorality,3796713]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~decency,12456769|WD~decency,12456769]]'
+has_part_s_: '[[_Standards/WikiData/WD~morality_in_Islam,28220256|WD~morality_in_Islam,28220256]]'
+instance_of: '[[_Standards/WikiData/WD~ethical_concept,55979391|WD~ethical_concept,55979391]]'
+studied_by: '[[_Standards/WikiData/WD~ethics,9465|WD~ethics,9465]]'
+different_from: '[[_Standards/WikiData/WD~moral_hazard,44454|WD~moral_hazard,44454]]'
 Iconclass_notation: 57
 OmegaWiki_Defined_Meaning: 1121154
 IMDb_keyword: morality

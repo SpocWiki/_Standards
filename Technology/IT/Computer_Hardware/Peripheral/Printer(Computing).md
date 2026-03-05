@@ -98,19 +98,19 @@ aliases:
 - 打印機
 - 프린터
 has_id_wikidata: Q82
-has_use: '[[_Standards/WikiData/WD~printing_press,144334]]'
+has_use: '[[_Standards/WikiData/WD~printing_press,144334|WD~printing_press,144334]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~peripheral,178648]]'
-- '[[_Standards/WikiData/WD~electronic_device,2858615]]'
-- '[[_Standards/WikiData/WD~printing_machine,12820205]]'
+- '[[_Standards/WikiData/WD~peripheral,178648|WD~peripheral,178648]]'
+- '[[_Standards/WikiData/WD~electronic_device,2858615|WD~electronic_device,2858615]]'
+- '[[_Standards/WikiData/WD~printing_machine,12820205|WD~printing_machine,12820205]]'
 different_from:
-- '[[_Standards/WikiData/WD~Drucker,362123]]'
-- '[[_Standards/WikiData/WD~Yazıcı,2599843]]'
-- '[[_Standards/WikiData/WD~printing_company,6500733]]'
-- '[[_Standards/WikiData/WD~Printer,10953985]]'
-has_characteristic: '[[_Standards/WikiData/WD~printer_resolution,54315216]]'
-has_part_s_: '[[_Standards/WikiData/WD~printer_carriage,97584727]]'
-facet_of: '[[_Standards/WikiData/WD~office_technology,106707749]]'
+- '[[_Standards/WikiData/WD~Drucker,362123|WD~Drucker,362123]]'
+- '[[_Standards/WikiData/WD~Yazıcı,2599843|WD~Yazıcı,2599843]]'
+- '[[_Standards/WikiData/WD~printing_company,6500733|WD~printing_company,6500733]]'
+- '[[_Standards/WikiData/WD~Printer,10953985|WD~Printer,10953985]]'
+has_characteristic: '[[_Standards/WikiData/WD~printer_resolution,54315216|WD~printer_resolution,54315216]]'
+has_part_s_: '[[_Standards/WikiData/WD~printer_carriage,97584727|WD~printer_carriage,97584727]]'
+facet_of: '[[_Standards/WikiData/WD~office_technology,106707749|WD~office_technology,106707749]]'
 Nomenclature_for_Museum_Cataloging: 10521
 Amazon_com_browse_node: 172635
 Commons_gallery: Printer

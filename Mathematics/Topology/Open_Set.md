@@ -48,14 +48,14 @@ aliases:
 - 開集合
 - 열린집합
 has_id_wikidata: Q213363
-subclass_of: '[[_Standards/WikiData/WD~Gδ_set,127244]]'
-opposite_of: '[[_Standards/WikiData/WD~closed_set,320357]]'
-has_part_s_: '[[_Standards/WikiData/WD~interior,862761]]'
-does_not_have_part: '[[_Standards/WikiData/WD~boundary,875399]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-part_of: '[[_Standards/WikiData/WD~list_of_types_of_sets,28659876]]'
-has_characteristic: '[[_Standards/WikiData/WD~openness,60644734]]'
-studied_by: '[[_Standards/WikiData/WD~topology,42989]]'
+subclass_of: '[[_Standards/WikiData/WD~Gδ_set,127244|WD~Gδ_set,127244]]'
+opposite_of: '[[_Standards/WikiData/WD~closed_set,320357|WD~closed_set,320357]]'
+has_part_s_: '[[_Standards/WikiData/WD~interior,862761|WD~interior,862761]]'
+does_not_have_part: '[[_Standards/WikiData/WD~boundary,875399|WD~boundary,875399]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+part_of: '[[_Standards/WikiData/WD~list_of_types_of_sets,28659876|WD~list_of_types_of_sets,28659876]]'
+has_characteristic: '[[_Standards/WikiData/WD~openness,60644734|WD~openness,60644734]]'
+studied_by: '[[_Standards/WikiData/WD~topology,42989|WD~topology,42989]]'
 dv_has_:
   name_:
     ar: مجموعة مفتوحة

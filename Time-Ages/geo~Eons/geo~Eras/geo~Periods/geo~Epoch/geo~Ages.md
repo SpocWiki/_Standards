@@ -47,14 +47,14 @@ aliases:
 - 절
 has_id_wikidata: Q568683
 different_from:
-- '[[_Standards/WikiData/WD~age_of_the_Earth,935310]]'
-- '[[_Standards/WikiData/WD~age,100343219]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-has_part_s_: '[[_Standards/WikiData/WD~polarity_chron,3290178]]'
-part_of: '[[_Standards/WikiData/WD~epoch,754897]]'
-standards_body: '[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]'
-studied_by: '[[_Standards/WikiData/WD~geochronology,213891]]'
-subclass_of: '[[_Standards/WikiData/WD~geochronological_unit,4005761]]'
+- '[[_Standards/WikiData/WD~age_of_the_Earth,935310|WD~age_of_the_Earth,935310]]'
+- '[[_Standards/WikiData/WD~age,100343219|WD~age,100343219]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+has_part_s_: '[[_Standards/WikiData/WD~polarity_chron,3290178|WD~polarity_chron,3290178]]'
+part_of: '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+standards_body: '[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104|WD~International_Commission_on_Stratigraphy,402104]]'
+studied_by: '[[_Standards/WikiData/WD~geochronology,213891|WD~geochronology,213891]]'
+subclass_of: '[[_Standards/WikiData/WD~geochronological_unit,4005761|WD~geochronological_unit,4005761]]'
 dv_is_:
   part_of: '[[../geo~Epoch|geo~Epoch]]'
   same_as:

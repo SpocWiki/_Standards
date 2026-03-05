@@ -74,18 +74,18 @@ aliases:
 - 이상기체 법칙
 has_id_wikidata: Q191785
 studied_by:
-- '[[_Standards/WikiData/WD~statistical_mechanics,188715]]'
-- '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~statistical_mechanics,188715|WD~statistical_mechanics,188715]]'
+- '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 instance_of:
-- '[[_Standards/WikiData/WD~equation_of_state,214967]]'
-- '[[_Standards/WikiData/WD~gas_law,379231]]'
+- '[[_Standards/WikiData/WD~equation_of_state,214967|WD~equation_of_state,214967]]'
+- '[[_Standards/WikiData/WD~gas_law,379231|WD~gas_law,379231]]'
 named_after:
-- '[[_Standards/WikiData/WD~Benoît_Paul_Émile_Clapeyron,313551]]'
-- '[[_Standards/WikiData/WD~Dmitri_Mendeleev,9106]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~Benoît_Paul_Émile_Clapeyron,313551|WD~Benoît_Paul_Émile_Clapeyron,313551]]'
+- '[[_Standards/WikiData/WD~Dmitri_Mendeleev,9106|WD~Dmitri_Mendeleev,9106]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>p</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>T</mi></mstyle></mrow></math>

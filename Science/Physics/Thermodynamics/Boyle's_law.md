@@ -78,15 +78,15 @@ aliases:
 - 보일의 법칙
 has_id_wikidata: Q175974
 named_after:
-- '[[_Standards/WikiData/WD~Edme_Mariotte,319749]]'
-- '[[_Standards/WikiData/WD~Robert_Boyle,43393]]'
+- '[[_Standards/WikiData/WD~Edme_Mariotte,319749|WD~Edme_Mariotte,319749]]'
+- '[[_Standards/WikiData/WD~Robert_Boyle,43393|WD~Robert_Boyle,43393]]'
 instance_of:
-- '[[_Standards/WikiData/WD~gas_law,379231]]'
+- '[[_Standards/WikiData/WD~gas_law,379231|WD~gas_law,379231]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 defining_formula:
 - >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle P_{1}V_{1}=P_{2}V_{2}}">
@@ -155,7 +155,7 @@ defining_formula:
       <annotation encoding="application/x-tex">{\displaystyle P\propto {\frac {1}{V}}}</annotation>
     </semantics>
   </math>
-part_of: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+part_of: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 OmegaWiki_Defined_Meaning: 789427
 in_defining_formula:
 - >-

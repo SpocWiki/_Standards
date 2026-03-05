@@ -43,11 +43,11 @@ aliases:
 - 變身人
 - 변신
 has_id_wikidata: Q1133563
-has_characteristic: '[[_Standards/WikiData/WD~shapeshifting,1925011]]'
-subclass_of: '[[_Standards/WikiData/WD~mythical_creature,2239243]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q6213279,6213279]]'
-described_by_source: '[[_Standards/WikiData/WD~Q28006126,28006126]]'
-different_from: '[[_Standards/WikiData/WD~fictional_shapeshifter,30174902]]'
+has_characteristic: '[[_Standards/WikiData/WD~shapeshifting,1925011|WD~shapeshifting,1925011]]'
+subclass_of: '[[_Standards/WikiData/WD~mythical_creature,2239243|WD~mythical_creature,2239243]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q6213279,6213279|WD~Q6213279,6213279]]'
+described_by_source: '[[_Standards/WikiData/WD~Q28006126,28006126|WD~Q28006126,28006126]]'
+different_from: '[[_Standards/WikiData/WD~fictional_shapeshifter,30174902|WD~fictional_shapeshifter,30174902]]'
 Wikidata_property: appears in the form of
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%20and%20Daphne%20%28Bernini%29.jpg

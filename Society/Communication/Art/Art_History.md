@@ -90,24 +90,24 @@ aliases:
 - 미술사
 has_id_wikidata: Q50637
 subclass_of:
-- '[[_Standards/WikiData/WD~humanities,80083]]'
-- '[[_Standards/WikiData/WD~Geisteswissenschaften,944537]]'
-- '[[_Standards/WikiData/WD~visual_art_education,1757598]]'
+- '[[_Standards/WikiData/WD~humanities,80083|WD~humanities,80083]]'
+- '[[_Standards/WikiData/WD~Geisteswissenschaften,944537|WD~Geisteswissenschaften,944537]]'
+- '[[_Standards/WikiData/WD~visual_art_education,1757598|WD~visual_art_education,1757598]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~work_of_art,838948]]'
-- '[[_Standards/WikiData/WD~history_of_art,50641]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948|WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~history_of_art,50641|WD~history_of_art,50641]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~art_historian,1792450]]'
-- '[[_Standards/WikiData/WD~art_history_teacher,120234397]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9560932,9560932]]'
-instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Art_Studies_and_History,19402625]]'
+- '[[_Standards/WikiData/WD~art_historian,1792450|WD~art_historian,1792450]]'
+- '[[_Standards/WikiData/WD~art_history_teacher,120234397|WD~art_history_teacher,120234397]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9560932,9560932|WD~Q9560932,9560932]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Art_Studies_and_History,19402625|WD~Art_Studies_and_History,19402625]]'
 different_from:
-- '[[_Standards/WikiData/WD~art_practice,62302889]]'
-- '[[_Standards/WikiData/WD~curatorial_studies,98641248]]'
-- '[[_Standards/WikiData/WD~history_of_art,50641]]'
-part_of: '[[_Standards/WikiData/WD~Q113296040,113296040]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~art_practice,62302889|WD~art_practice,62302889]]'
+- '[[_Standards/WikiData/WD~curatorial_studies,98641248|WD~curatorial_studies,98641248]]'
+- '[[_Standards/WikiData/WD~history_of_art,50641|WD~history_of_art,50641]]'
+part_of: '[[_Standards/WikiData/WD~Q113296040,113296040|WD~Q113296040,113296040]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 Dewey_Decimal_Classification: 709
 DFG_Science_Classification: 103-01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/South%20Ionian%20Wild%20Goat%20Style%20SiA%20Ic%20-%20Swallow%20Painter%20-%20krater%20-%20men%20and%20mythological%20animals%20-%20Roma%20MNEVG%20-%2008.jpg
@@ -242,12 +242,12 @@ dv_has_:
 | [[Art_History/Impressionism\|Impressionism]]                                                                                                                    |       1870 |     1910 | Monet, Debussy, focus on light/perception                                               | Painting (Monet, Renoir)             |
 | Post-Impressionism                                                                                                                                              |       1880 |     1915 | Van Gogh, Cézanne, Symbolist poetry                                                     | Painting (Van Gogh, Cézanne)         |
 | [[Art_History/1880-Art_Nouveau+1910\|Art_Nouveau]]                                                                                                                        |       1890 |     1910 | Organic architecture, decorative arts                                                   | Architecture (Gaudí, Horta)          |
-| [[Art_History/Modernism]]                                                                                                                                                   |       1890 |     1970 | Picasso, Joyce, Schoenberg, Bauhaus                                                     | Painting (Cubism, Abstract art)      |
+| [[Art_History/Modernism|Modernism]]                                                                                                                                                   |       1890 |     1970 | Picasso, Joyce, Schoenberg, Bauhaus                                                     | Painting (Cubism, Abstract art)      |
 | [[Art_History/Expressionism\|Expressionism]]                                                                                                                    |       1905 |     1930 | Kandinsky, Schoenberg, Kafka                                                            | Painting (Kandinsky, Kirchner)       |
 | [[Art_History/Dada\|Dada]] & [[Art_History/Surrealism\|Surrealism]]                                                                                             |       1916 |     1950 | Duchamp, Dalí, Breton, automatic writing                                                | Painting (Surrealism)                |
 | [[Art_History/Bauhaus\|Bauhaus]]                                                                                                                                |       1919 |     1933 | Functionalist design, architecture, typography                                          | Architecture/Design (Bauhaus)        |
 | [[Art_History/Expressionism/Abstract_Expressionism\|Abstract_Expressionism]]                                                                                    |       1940 |     1960 | Pollock, Rothko, American dominance                                                     | Painting (Pollock, Rothko)           |
-| [[Art_History/Postmodernism]]                                                                                                                                               |       1970 |     2000 | Deconstruction, eclecticism, pluralism in art                                           | Architecture (Venturi, Gehry)        |
+| [[Art_History/Postmodernism|Postmodernism]]                                                                                                                                               |       1970 |     2000 | Deconstruction, eclecticism, pluralism in art                                           | Architecture (Venturi, Gehry)        |
 | Contemporary / Digital                                                                                                                                          |       2000 |  present | Multimedia, AI art, digital literature, parametric design                               | Mixed Media/Digital Art              |
 
 

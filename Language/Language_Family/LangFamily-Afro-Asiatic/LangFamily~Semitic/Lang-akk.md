@@ -101,20 +101,20 @@ aliases:
 - "\U0001201D\U00012157\U0001207A\U00012311\U0001231D"
 has_id_wikidata: Q35518
 subclass_of:
-- '[[_Standards/WikiData/WD~East_Semitic,164273]]'
-- '[[_Standards/WikiData/WD~Semitic,34049]]'
+- '[[_Standards/WikiData/WD~East_Semitic,164273|WD~East_Semitic,164273]]'
+- '[[_Standards/WikiData/WD~Semitic,34049|WD~Semitic,34049]]'
 linguistic_typology:
-- '[[_Standards/WikiData/WD~fusional_language,318917]]'
-- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~fusional_language,318917|WD~fusional_language,318917]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808|WD~subject_object_verb,539808]]'
 instance_of:
-- '[[_Standards/WikiData/WD~ancient_language,436240]]'
-- '[[_Standards/WikiData/WD~dead_language,45762]]'
+- '[[_Standards/WikiData/WD~ancient_language,436240|WD~ancient_language,436240]]'
+- '[[_Standards/WikiData/WD~dead_language,45762|WD~dead_language,45762]]'
 country:
-- '[[_Standards/WikiData/WD~Akkadian_Empire,4461035]]'
-- '[[_Standards/WikiData/WD~Assyrian_Empire,41137]]'
-- '[[_Standards/WikiData/WD~Babylonia,47690]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q104413788,104413788]]'
+- '[[_Standards/WikiData/WD~Akkadian_Empire,4461035|WD~Akkadian_Empire,4461035]]'
+- '[[_Standards/WikiData/WD~Assyrian_Empire,41137|WD~Assyrian_Empire,41137]]'
+- '[[_Standards/WikiData/WD~Babylonia,47690|WD~Babylonia,47690]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q104413788,104413788|WD~Q104413788,104413788]]'
 start_time: -2600-01-01T00:00:00Z
 number_of_speakers_writers_or_signers: 0
 POSIX_locale_identifier: akk

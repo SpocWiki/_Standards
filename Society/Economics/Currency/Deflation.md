@@ -64,11 +64,11 @@ aliases:
 - 通货紧缩
 - 디플레이션
 has_id_wikidata: Q161081
-subclass_of: '[[_Standards/WikiData/WD~process,3249551]]'
-described_by_source: '[[_Standards/WikiData/WD~KRKE,48441164]]'
-instance_of: '[[_Standards/WikiData/WD~economics_term,64513524]]'
-different_from: '[[_Standards/WikiData/WD~DEFLATE,2712]]'
-opposite_of: '[[_Standards/WikiData/WD~inflation,35865]]'
+subclass_of: '[[_Standards/WikiData/WD~process,3249551|WD~process,3249551]]'
+described_by_source: '[[_Standards/WikiData/WD~KRKE,48441164|WD~KRKE,48441164]]'
+instance_of: '[[_Standards/WikiData/WD~economics_term,64513524|WD~economics_term,64513524]]'
+different_from: '[[_Standards/WikiData/WD~DEFLATE,2712|WD~DEFLATE,2712]]'
+opposite_of: '[[_Standards/WikiData/WD~inflation,35865|WD~inflation,35865]]'
 OmegaWiki_Defined_Meaning: 361132
 Commons_category: Deflation
 schematic:

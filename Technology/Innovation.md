@@ -70,24 +70,24 @@ aliases:
 - 혁신
 has_id_wikidata: Q174165
 has_characteristic:
-- '[[_Standards/WikiData/WD~creativity,170658]]'
-- '[[_Standards/WikiData/WD~progress,247792]]'
+- '[[_Standards/WikiData/WD~creativity,170658|WD~creativity,170658]]'
+- '[[_Standards/WikiData/WD~progress,247792|WD~progress,247792]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~process,3249551]]'
-- '[[../WikiData/WD~economic_activity,8187769]]'
-- '[[_Standards/WikiData/WD~planned_process,104637332]]'
-- '[[_Standards/WikiData/WD~intellectual_activity,105606485]]'
-practiced_by: '[[_Standards/WikiData/WD~innovator,3492227]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~technological_innovation,3798991]]'
+- '[[_Standards/WikiData/WD~process,3249551|WD~process,3249551]]'
+- '[[../WikiData/WD~economic_activity,8187769|WD~economic_activity,8187769]]'
+- '[[_Standards/WikiData/WD~planned_process,104637332|WD~planned_process,104637332]]'
+- '[[_Standards/WikiData/WD~intellectual_activity,105606485|WD~intellectual_activity,105606485]]'
+practiced_by: '[[_Standards/WikiData/WD~innovator,3492227|WD~innovator,3492227]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~technological_innovation,3798991|WD~technological_innovation,3798991]]'
 studied_by:
-- '[[_Standards/WikiData/WD~innovatics,4201165]]'
-- '[[_Standards/WikiData/WD~evolutionary_geography,135995350]]'
-has_cause: '[[_Standards/WikiData/WD~innovation_activities,4201175]]'
+- '[[_Standards/WikiData/WD~innovatics,4201165|WD~innovatics,4201165]]'
+- '[[_Standards/WikiData/WD~evolutionary_geography,135995350|WD~evolutionary_geography,135995350]]'
+has_cause: '[[_Standards/WikiData/WD~innovation_activities,4201175|WD~innovation_activities,4201175]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~type_of_process,116505632]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_process,116505632|WD~type_of_process,116505632]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216|WD~Open_Culture_GLAM_Glossary,115123216]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 OmegaWiki_Defined_Meaning: 1952
 Commons_category: Innovation
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Tip-of-the-day-bulb-%28png%29.png

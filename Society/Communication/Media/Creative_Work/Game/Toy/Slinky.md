@@ -20,15 +20,15 @@ aliases:
 - 螺旋彈簧
 - 슬링키
 has_id_wikidata: Q1118802
-has_part_s_: '[[_Standards/WikiData/WD~spring,102836]]'
-subclass_of: '[[_Standards/WikiData/WD~spring,102836]]'
-shape: '[[_Standards/WikiData/WD~helix,201717]]'
-different_from: '[[_Standards/WikiData/WD~Q3241621,3241621]]'
+has_part_s_: '[[_Standards/WikiData/WD~spring,102836|WD~spring,102836]]'
+subclass_of: '[[_Standards/WikiData/WD~spring,102836|WD~spring,102836]]'
+shape: '[[_Standards/WikiData/WD~helix,201717|WD~helix,201717]]'
+different_from: '[[_Standards/WikiData/WD~Q3241621,3241621|WD~Q3241621,3241621]]'
 creator:
-- '[[_Standards/WikiData/WD~Betty_James,4898848]]'
-- '[[_Standards/WikiData/WD~Richard_T._James,7329350]]'
-instance_of: '[[_Standards/WikiData/WD~toy,11422]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Betty_James,4898848|WD~Betty_James,4898848]]'
+- '[[_Standards/WikiData/WD~Richard_T._James,7329350|WD~Richard_T._James,7329350]]'
+instance_of: '[[_Standards/WikiData/WD~toy,11422|WD~toy,11422]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 Nomenclature_for_Museum_Cataloging: 14880
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2006-02-04%20Metal%20spiral.jpg
 official_website: http://www.poof-slinky.com/

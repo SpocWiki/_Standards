@@ -43,14 +43,14 @@ aliases:
 - 狀態函數
 - 상태 함수
 has_id_wikidata: Q230937
-part_of: '[[_Standards/WikiData/WD~thermodynamic_state,230875]]'
-opposite_of: '[[_Standards/WikiData/WD~process_function,900800]]'
+part_of: '[[_Standards/WikiData/WD~thermodynamic_state,230875|WD~thermodynamic_state,230875]]'
+opposite_of: '[[_Standards/WikiData/WD~process_function,900800|WD~process_function,900800]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~intensive_or_extensive_property,911916]]'
-- '[[_Standards/WikiData/WD~state_variable,7603913]]'
-has_list: '[[_Standards/WikiData/WD~list_of_thermodynamic_properties,2660826]]'
-different_from: '[[_Standards/WikiData/WD~state_variable,115519162]]'
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~intensive_or_extensive_property,911916|WD~intensive_or_extensive_property,911916]]'
+- '[[_Standards/WikiData/WD~state_variable,7603913|WD~state_variable,7603913]]'
+has_list: '[[_Standards/WikiData/WD~list_of_thermodynamic_properties,2660826|WD~list_of_thermodynamic_properties,2660826]]'
+different_from: '[[_Standards/WikiData/WD~state_variable,115519162|WD~state_variable,115519162]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 IEV_number: 113-04-09
 Commons_category: State functions
 dv_has_:

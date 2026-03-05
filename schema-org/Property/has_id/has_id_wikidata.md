@@ -26,11 +26,11 @@ tags:
 title: has_id_wikidata
 type: Pred_Text
 dv_has_:
-  domain: "[[../../Class/Thing]]"
+  domain: "[[../../Class/Thing|Thing]]"
   name: has_id_wikidata
   range: Text
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_wikidata|has_id_wikidata]]"
@@ -40,10 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_name/has_id_wikidata.private|has_id_wikidata.private]]"
     - "[[/_personal/schema-org/Property/has_name/has_id_wikidata.personal|has_id_wikidata.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_id_wikidata.secret|has_id_wikidata.secret]]"
-dv_has_domain: "[[../../Class/Thing]]"
+dv_has_domain: "[[../../Class/Thing|Thing]]"
 dv_has_name: has_id_wikidata
 dv_has_range: Text
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_name/has_id_wikidata|has_id_wikidata]]"
   - "[[/_public/schema-org/Property/has_name/has_id_wikidata.public|has_id_wikidata.public]]"

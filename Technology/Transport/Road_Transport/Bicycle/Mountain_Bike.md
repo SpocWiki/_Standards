@@ -50,12 +50,12 @@ aliases:
 - 登山车
 - 산악 자전거
 has_id_wikidata: Q223705
-instance_of: '[[_Standards/WikiData/WD~exercise_equipment,352222]]'
-used_by: '[[_Standards/WikiData/WD~mountain_biking,520611]]'
-sport: '[[_Standards/WikiData/WD~mountain_biking,520611]]'
-operator: '[[_Standards/WikiData/WD~mountain_biker,19799599]]'
-different_from: '[[_Standards/WikiData/WD~gravel_bike,30765852]]'
-subclass_of: '[[_Standards/WikiData/WD~bicycle,11442]]'
+instance_of: '[[_Standards/WikiData/WD~exercise_equipment,352222|WD~exercise_equipment,352222]]'
+used_by: '[[_Standards/WikiData/WD~mountain_biking,520611|WD~mountain_biking,520611]]'
+sport: '[[_Standards/WikiData/WD~mountain_biking,520611|WD~mountain_biking,520611]]'
+operator: '[[_Standards/WikiData/WD~mountain_biker,19799599|WD~mountain_biker,19799599]]'
+different_from: '[[_Standards/WikiData/WD~gravel_bike,30765852|WD~gravel_bike,30765852]]'
+subclass_of: '[[_Standards/WikiData/WD~bicycle,11442|WD~bicycle,11442]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bulls%20Wild%20Cup%201%20%28Modell%202010%29%2020100814.jpg
 short_name: VTT
 OpenStreetMap_key: mtb

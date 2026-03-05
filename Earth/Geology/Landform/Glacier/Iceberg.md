@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Iceberg,47568]]'
+  - '[[../../../../WikiData/WD~Iceberg,47568|WD~Iceberg,47568]]'
   - '[[/_Standards/Earth/Geology/Landform/Glacier/Iceberg|Iceberg]]'
   - '[[/_public/Earth/Geology/Landform/Glacier/Iceberg.public|Iceberg.public]]'
   - '[[/_internal/Earth/Geology/Landform/Glacier/Iceberg.internal|Iceberg.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Geology/Landform/Glacier/Iceberg.personal|Iceberg.personal]]'
   - '[[/_secret/Earth/Geology/Landform/Glacier/Iceberg.secret|Iceberg.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Iceberg,47568]]'
+- '[[../../../../WikiData/WD~Iceberg,47568|WD~Iceberg,47568]]'
 - '[[/_Standards/Earth/Geology/Landform/Glacier/Iceberg|Iceberg]]'
 - '[[/_public/Earth/Geology/Landform/Glacier/Iceberg.public|Iceberg.public]]'
 - '[[/_internal/Earth/Geology/Landform/Glacier/Iceberg.internal|Iceberg.internal]]'

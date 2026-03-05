@@ -78,15 +78,15 @@ aliases:
 - 檸檬水
 - 레모네이드
 has_id_wikidata: Q893
-different_from: '[[_Standards/WikiData/WD~soft_drink,147538]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~gassosa,959359]]'
+different_from: '[[_Standards/WikiData/WD~soft_drink,147538|WD~soft_drink,147538]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~gassosa,959359|WD~gassosa,959359]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~lemon_juice,1375049]]'
-- '[[_Standards/WikiData/WD~water,283]]'
-- '[[_Standards/WikiData/WD~sugar,11002]]'
-described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-subclass_of: '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]'
+- '[[_Standards/WikiData/WD~lemon_juice,1375049|WD~lemon_juice,1375049]]'
+- '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
+- '[[_Standards/WikiData/WD~sugar,11002|WD~sugar,11002]]'
+described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+subclass_of: '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467|WD~non_alcoholic_beverage,2647467]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990|WD~WikiProject_Food_and_drink,8485990]]'
 USDA_NDB_number:
 - 14287
 - 14296

@@ -31,7 +31,7 @@ aliases:
 
 # [[Everlong]]  
 
-[[../../../../movie/Movie-Roles/Gondry,Michel]] directed the Video to this song. 
+[[../../../../movie/Movie-Roles/Gondry,Michel|Gondry,Michel]] directed the Video to this song. 
 
 
 ## #has_/text_of_/abstract 

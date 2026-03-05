@@ -22,11 +22,11 @@ aliases:
 - 먀오링세
 has_id_wikidata: Q5025304
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-named_after: '[[_Standards/WikiData/WD~Miaoling_Mountains,28798795]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Miaolingian,30869619]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Miaoling_Mountains,28798795|WD~Miaoling_Mountains,28798795]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Miaolingian,30869619|WD~Category_Miaolingian,30869619]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -497000000-01-01T00:00:00Z
 Commons_category: Miaolingian
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20505%20Ma%20%28Wuliuan%20Stage%29.png
@@ -112,7 +112,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 509 to 497 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-505_Ma_(Wuliuan_Stage).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-505_Ma_(Wuliuan_Stage).png|Earth-505_Ma_(Wuliuan_Stage).png]] 
 
 ## #has_/text_of_/abstract 
 

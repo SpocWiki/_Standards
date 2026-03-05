@@ -39,10 +39,10 @@ aliases:
 - 土地用途分區
 - 용도지역
 has_id_wikidata: Q702232
-facet_of: '[[_Standards/WikiData/WD~land_use,1165944]]'
-subclass_of: '[[_Standards/WikiData/WD~land_use_planning,60738778]]'
-has_part_s_: '[[_Standards/WikiData/WD~zoning_symbol,81299915]]'
-different_from: '[[_Standards/WikiData/WD~town_plan,125808209]]'
+facet_of: '[[_Standards/WikiData/WD~land_use,1165944|WD~land_use,1165944]]'
+subclass_of: '[[_Standards/WikiData/WD~land_use_planning,60738778|WD~land_use_planning,60738778]]'
+has_part_s_: '[[_Standards/WikiData/WD~zoning_symbol,81299915|WD~zoning_symbol,81299915]]'
+different_from: '[[_Standards/WikiData/WD~town_plan,125808209|WD~town_plan,125808209]]'
 OmegaWiki_Defined_Meaning: 4194
 Library_of_Congress_Classification: HT169.6-HT169.9
 Dewey_Decimal_Classification: 346.045

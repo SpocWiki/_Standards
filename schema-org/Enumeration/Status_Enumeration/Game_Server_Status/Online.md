@@ -25,9 +25,9 @@ tags:
 title: is_an_online Class
 type: Type
 dv_has_:
-  parent_class: "[[../GameServerStatus]]"
+  parent_class: "[[../GameServerStatus|GameServerStatus]]"
 dv_is_:
-  enum_of: "[[../GameServerStatus]]"
+  enum_of: "[[../GameServerStatus|GameServerStatus]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online|Online]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online.public|Online.public]]"
@@ -37,8 +37,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online.personal|Online.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online.secret|Online.secret]]"
     - "[[Online]]"
-dv_has_parent_class: "[[../GameServerStatus]]"
-dv_is_enum_of: "[[../GameServerStatus]]"
+dv_has_parent_class: "[[../GameServerStatus|GameServerStatus]]"
+dv_is_enum_of: "[[../GameServerStatus|GameServerStatus]]"
 dv_is_same_as:
   - "[[Online]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online.public|Online.public]]"

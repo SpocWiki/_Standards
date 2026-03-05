@@ -74,22 +74,22 @@ aliases:
 - 人文主義
 - 인문주의
 has_id_wikidata: Q46158
-opposite_of: '[[_Standards/WikiData/WD~antihumanism,290509]]'
+opposite_of: '[[_Standards/WikiData/WD~antihumanism,290509|WD~antihumanism,290509]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 instance_of:
-- '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
-- '[[_Standards/WikiData/WD~ethical_theory,58927801]]'
-- '[[_Standards/WikiData/WD~world_view,49447]]'
-different_from: '[[_Standards/WikiData/WD~Homaranismo,1426400]]'
-subclass_of: '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Humanism,6818748]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_humanism,7112660]]'
-practiced_by: '[[_Standards/WikiData/WD~humanist,10527030]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q24820267,24820267]]'
+- '[[_Standards/WikiData/WD~school_of_thought,1387659|WD~school_of_thought,1387659]]'
+- '[[_Standards/WikiData/WD~ethical_theory,58927801|WD~ethical_theory,58927801]]'
+- '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
+different_from: '[[_Standards/WikiData/WD~Homaranismo,1426400|WD~Homaranismo,1426400]]'
+subclass_of: '[[_Standards/WikiData/WD~cultural_movement,2198855|WD~cultural_movement,2198855]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Humanism,6818748|WD~Template_Humanism,6818748]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_humanism,7112660|WD~outline_of_humanism,7112660]]'
+practiced_by: '[[_Standards/WikiData/WD~humanist,10527030|WD~humanist,10527030]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q24820267,24820267|WD~Q24820267,24820267]]'
 Dewey_Decimal_Classification:
 - 144
 - 211.6

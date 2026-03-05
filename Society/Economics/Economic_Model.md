@@ -49,9 +49,9 @@ aliases:
 - 경제 모형
 has_id_wikidata: Q2180497
 subclass_of:
-- '[[_Standards/WikiData/WD~conceptual_model,2623243]]'
-- '[[_Standards/WikiData/WD~sustainability_model,64506391]]'
-studied_by: '[[_Standards/WikiData/WD~economic_models_and_forecasting,112976881]]'
+- '[[_Standards/WikiData/WD~conceptual_model,2623243|WD~conceptual_model,2623243]]'
+- '[[_Standards/WikiData/WD~sustainability_model,64506391|WD~sustainability_model,64506391]]'
+studied_by: '[[_Standards/WikiData/WD~economic_models_and_forecasting,112976881|WD~economic_models_and_forecasting,112976881]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Islm.svg
 UMLS_CUI: C0013554
 MeSH_tree_code:

@@ -99,18 +99,18 @@ has_time_started:
   '{ "date:YYYY-MM-DD": null }': ''
 lang: en
 different_from:
-- '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
-- '[[_Standards/WikiData/WD~musical_work,2188189]]'
-- '[[_Standards/WikiData/WD~music_composing,11895763]]'
-- '[[_Standards/WikiData/WD~music,115484611]]'
+- '[[_Standards/WikiData/WD~composed_musical_work,207628|WD~composed_musical_work,207628]]'
+- '[[_Standards/WikiData/WD~musical_work,2188189|WD~musical_work,2188189]]'
+- '[[_Standards/WikiData/WD~music_composing,11895763|WD~music_composing,11895763]]'
+- '[[_Standards/WikiData/WD~music,115484611|WD~music,115484611]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~musical_work,2188189]]'
-- '[[_Standards/WikiData/WD~intellectual_work,15621286]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Music,5830855]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_musical_composition,11126863]]'
-fabrication_method: '[[_Standards/WikiData/WD~music_composing,11895763]]'
-instance_of: '[[_Standards/WikiData/WD~metaclass,19478619]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~musical_work,114798209]]'
+- '[[_Standards/WikiData/WD~musical_work,2188189|WD~musical_work,2188189]]'
+- '[[_Standards/WikiData/WD~intellectual_work,15621286|WD~intellectual_work,15621286]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Music,5830855|WD~WikiProject_Music,5830855]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_musical_composition,11126863|WD~Template_Infobox_musical_composition,11126863]]'
+fabrication_method: '[[_Standards/WikiData/WD~music_composing,11895763|WD~music_composing,11895763]]'
+instance_of: '[[_Standards/WikiData/WD~metaclass,19478619|WD~metaclass,19478619]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~musical_work,114798209|WD~musical_work,114798209]]'
 inappropriate_property_for_this_type:
 - record label
 - subclass of
@@ -255,7 +255,7 @@ Tag Instances like this:
 
 A musical composition.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, composer, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, firstPerformance, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, includedComposition, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, iswcCode, keywords, learningResourceType, license, locationCreated, lyricist, lyrics, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, musicArrangement, musicCompositionForm, musicalKey, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAs, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ]  
 

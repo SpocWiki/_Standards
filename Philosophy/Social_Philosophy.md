@@ -69,10 +69,10 @@ aliases:
 - 社會哲學
 - 사회철학
 has_id_wikidata: Q180592
-topic_has_template: '[[_Standards/WikiData/WD~Template_Social_and_political_philosophy,9176297]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
-part_of: '[[_Standards/WikiData/WD~social_and_political_philosophy,113001585]]'
-subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Social_and_political_philosophy,9176297|WD~Template_Social_and_political_philosophy,9176297]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234|WD~branch_of_philosophy,22811234]]'
+part_of: '[[_Standards/WikiData/WD~social_and_political_philosophy,113001585|WD~social_and_political_philosophy,113001585]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 Basisklassifikation: 08.44
 OmegaWiki_Defined_Meaning: 990801
 Dewey_Decimal_Classification: 301.01

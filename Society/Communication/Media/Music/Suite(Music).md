@@ -33,21 +33,21 @@ aliases:
 - 组曲
 - 모음곡
 has_id_wikidata: Q203005
-subclass_of: '[[_Standards/WikiData/WD~cycle,245596]]'
+subclass_of: '[[_Standards/WikiData/WD~cycle,245596|WD~cycle,245596]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 instance_of:
-- '[[_Standards/WikiData/WD~musical_form,862597]]'
-- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
+- '[[_Standards/WikiData/WD~musical_form,862597|WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333|WD~type_of_musical_work_composition,107487333]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Classical_music,8485042]]'
-- '[[_Standards/WikiData/WD~WikiProject_Jazz,13417658]]'
+- '[[_Standards/WikiData/WD~WikiProject_Classical_music,8485042|WD~WikiProject_Classical_music,8485042]]'
+- '[[_Standards/WikiData/WD~WikiProject_Jazz,13417658|WD~WikiProject_Jazz,13417658]]'
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/SYUITA.html
 Commons_category: Suites (music)
 dv_has_:

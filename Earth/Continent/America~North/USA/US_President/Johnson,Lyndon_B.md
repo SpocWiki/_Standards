@@ -76,8 +76,8 @@ tags:
 - ''
 title: Johnson,Lyndon_B
 type: private_note
-dv_has_role: '[[../US_President]]'
-dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]'
+dv_has_role: '[[../US_President|US_President]]'
+dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party|US~Democratic_Party]]'
 dv_created: 1963-11-22
 dv_cancelled: 1969-01-20
 dv_has_:
@@ -282,7 +282,7 @@ dv_is_same_as:
 
 has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped`
--   [has_role :: [[../US_President]] ]is_member_of = `=this.dv_is_member_of`
+-   [has_role :: [[../US_President|US_President]] ]is_member_of = `=this.dv_is_member_of`
 
 #is_/same_as :: [[../../../../WikiData/WD~Lyndon_B._Johnson,9640|WD~Lyndon_B._Johnson,9640]] 
 

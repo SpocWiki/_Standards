@@ -43,9 +43,9 @@ aliases:
 - 第二期
 has_id_wikidata: Q5025306
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -529000000-01-01T00:00:00Z
 end_time: -521000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: A6BA80
@@ -155,7 +155,7 @@ has_previous_item = `=this.dv_has_previous_item`
 has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Tommotian,5025306]]
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-530_Ma_(Fortunian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-530_Ma_(Fortunian_Age).png|Earth-530_Ma_(Fortunian_Age).png]] 
 
 
 ## #has_/text_of_/abstract 

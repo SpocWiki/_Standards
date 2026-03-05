@@ -42,21 +42,21 @@ aliases:
 - 트리무르티
 has_id_wikidata: Q9595
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-- '[[_Standards/WikiData/WD~triple_deity,3451071]]'
-- '[[_Standards/WikiData/WD~triad,29430681]]'
-- '[[_Standards/WikiData/WD~monad,39604065]]'
-facet_of: '[[_Standards/WikiData/WD~Hinduism,9089]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089]]'
+- '[[_Standards/WikiData/WD~triple_deity,3451071|WD~triple_deity,3451071]]'
+- '[[_Standards/WikiData/WD~triad,29430681|WD~triad,29430681]]'
+- '[[_Standards/WikiData/WD~monad,39604065|WD~monad,39604065]]'
+facet_of: '[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Shiva,11378]]'
-- '[[_Standards/WikiData/WD~Vishnu,11380]]'
-- '[[_Standards/WikiData/WD~God_Brahma,11389]]'
+- '[[_Standards/WikiData/WD~Shiva,11378|WD~Shiva,11378]]'
+- '[[_Standards/WikiData/WD~Vishnu,11380|WD~Vishnu,11380]]'
+- '[[_Standards/WikiData/WD~God_Brahma,11389|WD~God_Brahma,11389]]'
 Commons_category: Trimurti
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/UgrataraTemple2%20%28cropped%29.jpeg

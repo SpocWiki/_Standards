@@ -57,9 +57,9 @@ aliases:
 - 침공
 has_id_wikidata: Q467011
 subclass_of:
-- '[[_Standards/WikiData/WD~offensive,2001676]]'
-- '[[_Standards/WikiData/WD~military_intervention,5919191]]'
-different_from: '[[_Standards/WikiData/WD~Inwazja,11713541]]'
+- '[[_Standards/WikiData/WD~offensive,2001676|WD~offensive,2001676]]'
+- '[[_Standards/WikiData/WD~military_intervention,5919191|WD~military_intervention,5919191]]'
+different_from: '[[_Standards/WikiData/WD~Inwazja,11713541|WD~Inwazja,11713541]]'
 U_S_National_Archives_Identifier: 10663612
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Invasion2.ogg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/French%20invasion%20of%20Russia%20collage.jpg

@@ -51,35 +51,35 @@ has_id_wikidata: Q36359
 Libris_URI: 64jlp6xq52z876s
 Krugosvet_article_archived_: istoriya/HAMMURAPI.html
 date_of_death: -1749-01-01T00:00:00Z
-notable_work: '[[_Standards/WikiData/WD~Code_of_Hammurabi,93304]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Austen_Henry_Layard,275013]]'
-child: '[[_Standards/WikiData/WD~Samsu_iluna,325917]]'
-replaced_by: '[[_Standards/WikiData/WD~Samsu_iluna,325917]]'
-father: '[[_Standards/WikiData/WD~Sin_Muballit,374546]]'
-replaces: '[[_Standards/WikiData/WD~Sin_Muballit,374546]]'
+notable_work: '[[_Standards/WikiData/WD~Code_of_Hammurabi,93304|WD~Code_of_Hammurabi,93304]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Austen_Henry_Layard,275013|WD~Austen_Henry_Layard,275013]]'
+child: '[[_Standards/WikiData/WD~Samsu_iluna,325917|WD~Samsu_iluna,325917]]'
+replaced_by: '[[_Standards/WikiData/WD~Samsu_iluna,325917|WD~Samsu_iluna,325917]]'
+father: '[[_Standards/WikiData/WD~Sin_Muballit,374546|WD~Sin_Muballit,374546]]'
+replaces: '[[_Standards/WikiData/WD~Sin_Muballit,374546|WD~Sin_Muballit,374546]]'
 described_by_source:
-- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-family: '[[_Standards/WikiData/WD~Old_Babylonian_Empire,733897]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Babylonian_religion,797944]]'
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+family: '[[_Standards/WikiData/WD~Old_Babylonian_Empire,733897|WD~Old_Babylonian_Empire,733897]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Babylonian_religion,797944|WD~Babylonian_religion,797944]]'
 occupation:
-- '[[_Standards/WikiData/WD~leader,1251441]]'
-- '[[_Standards/WikiData/WD~king,12097]]'
-- '[[_Standards/WikiData/WD~monarch,116]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-position_held: '[[_Standards/WikiData/WD~King_of_Babylon,28132899]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+- '[[_Standards/WikiData/WD~leader,1251441|WD~leader,1251441]]'
+- '[[_Standards/WikiData/WD~king,12097|WD~king,12097]]'
+- '[[_Standards/WikiData/WD~monarch,116|WD~monarch,116]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+position_held: '[[_Standards/WikiData/WD~King_of_Babylon,28132899|WD~King_of_Babylon,28132899]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: -1809-01-01T00:00:00Z
 time_of_discovery_or_invention: 1853-01-01T00:00:00Z
-different_from: '[[_Standards/WikiData/WD~Ammurapi,11513]]'
-noble_title: '[[_Standards/WikiData/WD~king,12097]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Akkadian,35518]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Babylonia,47690]]'
-place_of_death: '[[_Standards/WikiData/WD~Babylonia,47690]]'
-place_of_birth: '[[_Standards/WikiData/WD~Babylonia,47690]]'
+different_from: '[[_Standards/WikiData/WD~Ammurapi,11513|WD~Ammurapi,11513]]'
+noble_title: '[[_Standards/WikiData/WD~king,12097|WD~king,12097]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Akkadian,35518|WD~Akkadian,35518]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Babylonia,47690|WD~Babylonia,47690]]'
+place_of_death: '[[_Standards/WikiData/WD~Babylonia,47690|WD~Babylonia,47690]]'
+place_of_birth: '[[_Standards/WikiData/WD~Babylonia,47690|WD~Babylonia,47690]]'
 BHCL_UUID: b80bde2f-4a28-45f1-b401-788001e6e25a
 Commons_gallery: Hammurabi
 Commons_category: Hammurabi
@@ -87,7 +87,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/F0182%20Louvre%20Code%
 ISNI: 000000038779161X
 dv_is_:
   same_as:
-  - '[[../../../../../../../../../WikiData/WD~Hammurabi,36359]]'
+  - '[[../../../../../../../../../WikiData/WD~Hammurabi,36359|WD~Hammurabi,36359]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi|Hammurabi]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.public|Hammurabi.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.internal|Hammurabi.internal]]'
@@ -96,7 +96,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.personal|Hammurabi.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.secret|Hammurabi.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../../WikiData/WD~Hammurabi,36359]]'
+- '[[../../../../../../../../../WikiData/WD~Hammurabi,36359|WD~Hammurabi,36359]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi|Hammurabi]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.public|Hammurabi.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.internal|Hammurabi.internal]]'

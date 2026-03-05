@@ -46,18 +46,18 @@ aliases:
 - 스쿼시
 has_id_wikidata: Q133201
 subclass_of:
-- '[[_Standards/WikiData/WD~ball_game,877517]]'
-- '[[_Standards/WikiData/WD~racket_sport,2426135]]'
+- '[[_Standards/WikiData/WD~ball_game,877517|WD~ball_game,877517]]'
+- '[[_Standards/WikiData/WD~racket_sport,2426135|WD~racket_sport,2426135]]'
 uses:
-- '[[_Standards/WikiData/WD~squash_racket,11833715]]'
-- '[[_Standards/WikiData/WD~squash_court,16698269]]'
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-practiced_by: '[[_Standards/WikiData/WD~squash_player,16278103]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q55844887,55844887]]'
+- '[[_Standards/WikiData/WD~squash_racket,11833715|WD~squash_racket,11833715]]'
+- '[[_Standards/WikiData/WD~squash_court,16698269|WD~squash_court,16698269]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+practiced_by: '[[_Standards/WikiData/WD~squash_player,16278103|WD~squash_player,16278103]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q55844887,55844887|WD~Q55844887,55844887]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+country_of_origin: '[[_Standards/WikiData/WD~England,21|WD~England,21]]'
 IAB_code: 536
 OmegaWiki_Defined_Meaning: 806163
 Commons_gallery: Squash

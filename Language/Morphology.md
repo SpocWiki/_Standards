@@ -83,31 +83,31 @@ aliases:
 - 형태론
 has_id_wikidata: Q38311
 different_from:
-- '[[_Standards/WikiData/WD~morphology,183252]]'
-- '[[_Standards/WikiData/WD~morphological_typology,1276148]]'
-- '[[_Standards/WikiData/WD~morphology,25203895]]'
-- '[[_Standards/WikiData/WD~morphology,25346139]]'
-- '[[_Standards/WikiData/WD~morphology,73326083]]'
+- '[[_Standards/WikiData/WD~morphology,183252|WD~morphology,183252]]'
+- '[[_Standards/WikiData/WD~morphological_typology,1276148|WD~morphological_typology,1276148]]'
+- '[[_Standards/WikiData/WD~morphology,25203895|WD~morphology,25203895]]'
+- '[[_Standards/WikiData/WD~morphology,25346139|WD~morphology,25346139]]'
+- '[[_Standards/WikiData/WD~morphology,73326083|WD~morphology,73326083]]'
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Morphology,133280520]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Morphology,133280520|WD~Morphology,133280520]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~flexion,719278]]'
-- '[[_Standards/WikiData/WD~morphological_balance,28715146]]'
-- '[[_Standards/WikiData/WD~morpheme,43249]]'
-- '[[_Standards/WikiData/WD~affix,62155]]'
+- '[[_Standards/WikiData/WD~flexion,719278|WD~flexion,719278]]'
+- '[[_Standards/WikiData/WD~morphological_balance,28715146|WD~morphological_balance,28715146]]'
+- '[[_Standards/WikiData/WD~morpheme,43249|WD~morpheme,43249]]'
+- '[[_Standards/WikiData/WD~affix,62155|WD~affix,62155]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~language_subsystem,66745531]]'
-- '[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~language_subsystem,66745531|WD~language_subsystem,66745531]]'
+- '[[_Standards/WikiData/WD~branch_of_linguistics,135892289|WD~branch_of_linguistics,135892289]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q17463873,17463873]]'
-- '[[_Standards/WikiData/WD~Template_Morphology,47538720]]'
-part_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
-subclass_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
+- '[[_Standards/WikiData/WD~Q17463873,17463873|WD~Q17463873,17463873]]'
+- '[[_Standards/WikiData/WD~Template_Morphology,47538720|WD~Template_Morphology,47538720]]'
+part_of: '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
+subclass_of: '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
 GitHub_topic: morphology
 Dewey_Decimal_Classification: 415.9
 Commons_category: Morphology

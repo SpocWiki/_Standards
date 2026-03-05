@@ -42,12 +42,12 @@ aliases:
 - 民事婚姻
 - 법률혼
 has_id_wikidata: Q205572
-instance_of: '[[_Standards/WikiData/WD~contract,93288]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-different_from: '[[_Standards/WikiData/WD~Q4147550,4147550]]'
-significant_event: '[[_Standards/WikiData/WD~civil_ceremony,5124643]]'
-opposite_of: '[[_Standards/WikiData/WD~religious_marriage,9380551]]'
-subclass_of: '[[_Standards/WikiData/WD~marriage,8445]]'
+instance_of: '[[_Standards/WikiData/WD~contract,93288|WD~contract,93288]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+different_from: '[[_Standards/WikiData/WD~Q4147550,4147550|WD~Q4147550,4147550]]'
+significant_event: '[[_Standards/WikiData/WD~civil_ceremony,5124643|WD~civil_ceremony,5124643]]'
+opposite_of: '[[_Standards/WikiData/WD~religious_marriage,9380551|WD~religious_marriage,9380551]]'
+subclass_of: '[[_Standards/WikiData/WD~marriage,8445|WD~marriage,8445]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Anker%20-%20Die%20Ziviltrauung%20%281887%29.jpg
 Commons_category: Civil marriage
 dv_has_:

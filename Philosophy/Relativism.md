@@ -38,14 +38,14 @@ aliases:
 - 相對主義
 - 상대주의
 has_id_wikidata: Q83188
-instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
-opposite_of: '[[_Standards/WikiData/WD~universality,875797]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~subjectivism,1071659]]'
+instance_of: '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+opposite_of: '[[_Standards/WikiData/WD~universality,875797|WD~universality,875797]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~subjectivism,1071659|WD~subjectivism,1071659]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-subclass_of: '[[_Standards/WikiData/WD~theory,17737]]'
-different_from: '[[_Standards/WikiData/WD~theory_of_relativity,43514]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+subclass_of: '[[_Standards/WikiData/WD~theory,17737|WD~theory,17737]]'
+different_from: '[[_Standards/WikiData/WD~theory_of_relativity,43514|WD~theory_of_relativity,43514]]'
 Commons_category: Relativism
 PhilPapers_topic: relativism
 dv_has_:

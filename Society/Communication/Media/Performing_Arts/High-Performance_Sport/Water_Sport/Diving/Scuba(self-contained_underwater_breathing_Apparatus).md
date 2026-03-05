@@ -34,12 +34,12 @@ aliases:
 - 水肺裝備
 - 스쿠버 장비
 has_id_wikidata: Q2079255
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Jacques_Cousteau,83233]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jacques_Cousteau,83233|WD~Jacques_Cousteau,83233]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~diving_equipment,852784]]'
-- '[[_Standards/WikiData/WD~underwater_breathing_apparatus,30715263]]'
-has_use: '[[_Standards/WikiData/WD~scuba_diving,1096878]]'
-location: '[[_Standards/WikiData/WD~subaquaria,3246517]]'
+- '[[_Standards/WikiData/WD~diving_equipment,852784|WD~diving_equipment,852784]]'
+- '[[_Standards/WikiData/WD~underwater_breathing_apparatus,30715263|WD~underwater_breathing_apparatus,30715263]]'
+has_use: '[[_Standards/WikiData/WD~scuba_diving,1096878|WD~scuba_diving,1096878]]'
+location: '[[_Standards/WikiData/WD~subaquaria,3246517|WD~subaquaria,3246517]]'
 video:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Diving%20signal%20cramp.ogv
 - http://commons.wikimedia.org/wiki/Special:FilePath/Diving%20signal%20diver%20in%20danger.ogv

@@ -26,7 +26,7 @@ tags:
 title: is_a_physical_activity_category Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category|Physical_Activity_Category]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category.personal|Physical_Activity_Category.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category.secret|Physical_Activity_Category.secret]]"
     - "[[Physical_Activity_Category]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Physical_Activity_Category]]"
   - "[[/_public/schema-org/Enumeration/Physical_Activity_Category.public|Physical_Activity_Category.public]]"

@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A Service to transfer funds from a person or organization to a beneficiary person or organization.
 
-#has_/parent_class :: [[../FinancialProduct]]  
+#has_/parent_class :: [[../FinancialProduct|FinancialProduct]]  
 
 #has_/properties :: [ additionalType, aggregateRating, alternateName, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ]  
 

@@ -37,10 +37,10 @@ aliases:
 - 이산균등분포
 has_id_wikidata: Q3574718
 subclass_of:
-- '[[_Standards/WikiData/WD~beta_binomial_distribution,307557]]'
-- '[[_Standards/WikiData/WD~location_scale_family,6664772]]'
-- '[[_Standards/WikiData/WD~symmetric_probability_distribution,16000505]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~beta_binomial_distribution,307557|WD~beta_binomial_distribution,307557]]'
+- '[[_Standards/WikiData/WD~location_scale_family,6664772|WD~location_scale_family,6664772]]'
+- '[[_Standards/WikiData/WD~symmetric_probability_distribution,16000505|WD~symmetric_probability_distribution,16000505]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 dv_has_:
   name_:
     ar: توزيع منتظم متقطع

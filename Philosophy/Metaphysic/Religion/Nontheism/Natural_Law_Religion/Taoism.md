@@ -97,39 +97,39 @@ Baidu_Tieba_name:
 - 道门
 - 玄门道教
 OpenStreetMap_tag: religion=taoist
-main_regulatory_text: '[[_Standards/WikiData/WD~Tao_Te_Ching,134425]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Tao_Te_Ching,134425|WD~Tao_Te_Ching,134425]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~daoshi,1165430]]'
-- '[[_Standards/WikiData/WD~Taoist_nun,101097348]]'
-- '[[_Standards/WikiData/WD~Taoist,116865146]]'
+- '[[_Standards/WikiData/WD~daoshi,1165430|WD~daoshi,1165430]]'
+- '[[_Standards/WikiData/WD~Taoist_nun,101097348|WD~Taoist_nun,101097348]]'
+- '[[_Standards/WikiData/WD~Taoist,116865146|WD~Taoist,116865146]]'
 instance_of:
-- '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
-- '[[_Standards/WikiData/WD~religion,9174]]'
-- '[[_Standards/WikiData/WD~culture,11042]]'
+- '[[_Standards/WikiData/WD~philosophical_movement,2915955|WD~philosophical_movement,2915955]]'
+- '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Taoism,6875396]]'
-- '[[_Standards/WikiData/WD~Template_Taoism_footer,25728106]]'
+- '[[_Standards/WikiData/WD~Template_Taoism,6875396|WD~Template_Taoism,6875396]]'
+- '[[_Standards/WikiData/WD~Template_Taoism_footer,25728106|WD~Template_Taoism_footer,25728106]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
-- '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
-- '[[_Standards/WikiData/WD~WikiProject_China,10816953]]'
-- '[[_Standards/WikiData/WD~WikiProject_Astrology,15304965]]'
-- '[[_Standards/WikiData/WD~WikiProject_East_Asia,21829890]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Taoism,12856757]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Taoism,17052861]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22827771,22827771]]'
+- '[[_Standards/WikiData/WD~WikiProject_Religion,8503229|WD~WikiProject_Religion,8503229]]'
+- '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311|WD~WikiProject_Philosophy,8503311]]'
+- '[[_Standards/WikiData/WD~WikiProject_China,10816953|WD~WikiProject_China,10816953]]'
+- '[[_Standards/WikiData/WD~WikiProject_Astrology,15304965|WD~WikiProject_Astrology,15304965]]'
+- '[[_Standards/WikiData/WD~WikiProject_East_Asia,21829890|WD~WikiProject_East_Asia,21829890]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Taoism,12856757|WD~Portal_Taoism,12856757]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Taoism,17052861|WD~outline_of_Taoism,17052861]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22827771,22827771|WD~Q22827771,22827771]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-- '[[_Standards/WikiData/WD~religion,9174]]'
-founded_by: '[[_Standards/WikiData/WD~Laozi,9333]]'
-country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
+founded_by: '[[_Standards/WikiData/WD~Laozi,9333|WD~Laozi,9333]]'
+country_of_origin: '[[_Standards/WikiData/WD~China,29520|WD~China,29520]]'
 OmegaWiki_Defined_Meaning: 1116279
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Yin%20and%20Yang%20symbol.svg
 Colon_Classification: Q8413

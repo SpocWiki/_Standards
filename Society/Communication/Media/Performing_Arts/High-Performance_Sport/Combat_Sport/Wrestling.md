@@ -110,29 +110,29 @@ aliases:
 - 레슬링
 has_id_wikidata: Q42486
 different_from:
-- '[[_Standards/WikiData/WD~professional_wrestling,131359]]'
-- '[[_Standards/WikiData/WD~inventory,815410]]'
-- '[[_Standards/WikiData/WD~amateur_wrestling,838089]]'
+- '[[_Standards/WikiData/WD~professional_wrestling,131359|WD~professional_wrestling,131359]]'
+- '[[_Standards/WikiData/WD~inventory,815410|WD~inventory,815410]]'
+- '[[_Standards/WikiData/WD~amateur_wrestling,838089|WD~amateur_wrestling,838089]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~strength_sport,337979]]'
-- '[[_Standards/WikiData/WD~combat_sport,7128792]]'
-- '[[_Standards/WikiData/WD~close_combat,15041854]]'
-authority: '[[_Standards/WikiData/WD~United_World_Wrestling,688489]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~strength_sport,337979|WD~strength_sport,337979]]'
+- '[[_Standards/WikiData/WD~combat_sport,7128792|WD~combat_sport,7128792]]'
+- '[[_Standards/WikiData/WD~close_combat,15041854|WD~close_combat,15041854]]'
+authority: '[[_Standards/WikiData/WD~United_World_Wrestling,688489|WD~United_World_Wrestling,688489]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Folk_wrestling,8070734]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Folk_wrestling,8070734|WD~Template_Folk_wrestling,8070734]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~amateur_wrestler,12369333]]'
-- '[[_Standards/WikiData/WD~wrestler,12839983]]'
-- '[[_Standards/WikiData/WD~wrestling_coach,98768940]]'
+- '[[_Standards/WikiData/WD~amateur_wrestler,12369333|WD~amateur_wrestler,12369333]]'
+- '[[_Standards/WikiData/WD~wrestler,12839983|WD~wrestler,12839983]]'
+- '[[_Standards/WikiData/WD~wrestling_coach,98768940|WD~wrestling_coach,98768940]]'
 main_Wikidata_property:
 - JWF Wrestlers Database person ID
 - National Wrestling Hall of Fame wrestler ID
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 IAB_code: 546
 Commons_category: Wrestling
 BHCL_UUID: 8e7ec363-bf0e-471e-9e07-d6c1ac3b9686

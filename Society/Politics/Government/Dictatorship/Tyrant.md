@@ -43,20 +43,20 @@ aliases:
 - 僭主
 - 참주
 has_id_wikidata: Q180095
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~dictator,183318]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~dictator,183318|WD~dictator,183318]]'
 different_from:
-- '[[_Standards/WikiData/WD~Tiran_Island,598889]]'
-- '[[_Standards/WikiData/WD~ruler,1097498]]'
-- '[[_Standards/WikiData/WD~tyrannis,2463288]]'
+- '[[_Standards/WikiData/WD~Tiran_Island,598889|WD~Tiran_Island,598889]]'
+- '[[_Standards/WikiData/WD~ruler,1097498|WD~ruler,1097498]]'
+- '[[_Standards/WikiData/WD~tyrannis,2463288|WD~tyrannis,2463288]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~official,599151]]'
-- '[[_Standards/WikiData/WD~ruler,1097498]]'
+- '[[_Standards/WikiData/WD~official,599151|WD~official,599151]]'
+- '[[_Standards/WikiData/WD~ruler,1097498|WD~ruler,1097498]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~position,4164871]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
 female_form_of_label:
 - Tyrannin
 - tirana

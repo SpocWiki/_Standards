@@ -105,29 +105,29 @@ aliases:
 - 회사
 has_id_wikidata: Q783794
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-has_part_s_: '[[_Standards/WikiData/WD~department,2366457]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_part_s_: '[[_Standards/WikiData/WD~department,2366457|WD~department,2366457]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~legal_person,3778211]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~legal_person,3778211|WD~legal_person,3778211]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 different_from:
-- '[[_Standards/WikiData/WD~business,4830453]]'
-- '[[_Standards/WikiData/WD~enterprise,6881511]]'
-- '[[_Standards/WikiData/WD~business_activity,19862406]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~enterprise,6881511|WD~enterprise,6881511]]'
+- '[[_Standards/WikiData/WD~business_activity,19862406|WD~business_activity,19862406]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
 studied_by:
-- '[[_Standards/WikiData/WD~business_studies,5001951]]'
-- '[[_Standards/WikiData/WD~interaction_science,97008347]]'
-- '[[_Standards/WikiData/WD~economics,8134]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_company,5625028]]'
+- '[[_Standards/WikiData/WD~business_studies,5001951|WD~business_studies,5001951]]'
+- '[[_Standards/WikiData/WD~interaction_science,97008347|WD~interaction_science,97008347]]'
+- '[[_Standards/WikiData/WD~economics,8134|WD~economics,8134]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_company,5625028|WD~Template_Infobox_company,5625028]]'
 instance_of:
-- '[[_Standards/WikiData/WD~legal_form,10541491]]'
-- '[[_Standards/WikiData/WD~type_of_organization,17197366]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Companies,15271936]]'
+- '[[_Standards/WikiData/WD~legal_form,10541491|WD~legal_form,10541491]]'
+- '[[_Standards/WikiData/WD~type_of_organization,17197366|WD~type_of_organization,17197366]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Companies,15271936|WD~WikiProject_Companies,15271936]]'
 properties_for_this_type: industry
 OmegaWiki_Defined_Meaning: 1453
 Wolfram_Language_entity_type: Company
@@ -273,7 +273,7 @@ dv_has_:
 
 # [[Company]] 
 
-#is_/similar_to :: [[Company/Corporation]] 
+#is_/similar_to :: [[Company/Corporation|Corporation]] 
 #is_/same_as :: [[../../../../WikiData/WD~Company,783794|WD~Company,783794]] 
 
 ## #has_/text_of_/abstract 

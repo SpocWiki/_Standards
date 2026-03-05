@@ -1,5 +1,5 @@
 
-#is_/similar_to :: [[../X(Twitter)]] 
+#is_/similar_to :: [[../X(Twitter)|X(Twitter)]] 
 #has_/time_/started :: 2023-07-05 
 
 ## #has_/text_of_/abstract 

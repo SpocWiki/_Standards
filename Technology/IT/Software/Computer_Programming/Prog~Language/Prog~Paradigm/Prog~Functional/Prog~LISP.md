@@ -23,38 +23,38 @@ aliases:
 - 리스프
 has_id_wikidata: Q132874
 has_use:
-- '[[_Standards/WikiData/WD~computer_programming,80006]]'
-- '[[_Standards/WikiData/WD~analysis,217602]]'
-- '[[_Standards/WikiData/WD~content_analysis,653137]]'
-- '[[_Standards/WikiData/WD~creating,123819227]]'
-- '[[_Standards/WikiData/WD~artificial_intelligence,11660]]'
-designed_by: '[[_Standards/WikiData/WD~John_McCarthy,92739]]'
+- '[[_Standards/WikiData/WD~computer_programming,80006|WD~computer_programming,80006]]'
+- '[[_Standards/WikiData/WD~analysis,217602|WD~analysis,217602]]'
+- '[[_Standards/WikiData/WD~content_analysis,653137|WD~content_analysis,653137]]'
+- '[[_Standards/WikiData/WD~creating,123819227|WD~creating,123819227]]'
+- '[[_Standards/WikiData/WD~artificial_intelligence,11660|WD~artificial_intelligence,11660]]'
+designed_by: '[[_Standards/WikiData/WD~John_McCarthy,92739|WD~John_McCarthy,92739]]'
 developer:
-- '[[_Standards/WikiData/WD~John_McCarthy,92739]]'
-- '[[_Standards/WikiData/WD~Steve_Russell,2634274]]'
+- '[[_Standards/WikiData/WD~John_McCarthy,92739|WD~John_McCarthy,92739]]'
+- '[[_Standards/WikiData/WD~Steve_Russell,2634274|WD~Steve_Russell,2634274]]'
 programming_paradigm:
-- '[[_Standards/WikiData/WD~functional_programming,193076]]'
-- '[[_Standards/WikiData/WD~metaprogramming,661075]]'
-- '[[_Standards/WikiData/WD~reflective_programming,1056451]]'
-- '[[_Standards/WikiData/WD~procedural_programming,1418502]]'
-- '[[_Standards/WikiData/WD~multi_paradigm_programming,4306983]]'
-uses: '[[_Standards/WikiData/WD~lambda_calculus,242028]]'
-different_from: '[[_Standards/WikiData/WD~lisp,527892]]'
-influenced_by: '[[_Standards/WikiData/WD~Information_Processing_Language,776372]]'
+- '[[_Standards/WikiData/WD~functional_programming,193076|WD~functional_programming,193076]]'
+- '[[_Standards/WikiData/WD~metaprogramming,661075|WD~metaprogramming,661075]]'
+- '[[_Standards/WikiData/WD~reflective_programming,1056451|WD~reflective_programming,1056451]]'
+- '[[_Standards/WikiData/WD~procedural_programming,1418502|WD~procedural_programming,1418502]]'
+- '[[_Standards/WikiData/WD~multi_paradigm_programming,4306983|WD~multi_paradigm_programming,4306983]]'
+uses: '[[_Standards/WikiData/WD~lambda_calculus,242028|WD~lambda_calculus,242028]]'
+different_from: '[[_Standards/WikiData/WD~lisp,527892|WD~lisp,527892]]'
+influenced_by: '[[_Standards/WikiData/WD~Information_Processing_Language,776372|WD~Information_Processing_Language,776372]]'
 derivative_work:
-- '[[_Standards/WikiData/WD~AutoLISP,782397]]'
-- '[[_Standards/WikiData/WD~Maclisp,1882973]]'
+- '[[_Standards/WikiData/WD~AutoLISP,782397|WD~AutoLISP,782397]]'
+- '[[_Standards/WikiData/WD~Maclisp,1882973|WD~Maclisp,1882973]]'
 typing_discipline:
-- '[[_Standards/WikiData/WD~strong_typing,991202]]'
-- '[[_Standards/WikiData/WD~dynamic_typing,1268978]]'
+- '[[_Standards/WikiData/WD~strong_typing,991202|WD~strong_typing,991202]]'
+- '[[_Standards/WikiData/WD~dynamic_typing,1268978|WD~dynamic_typing,1268978]]'
 instance_of:
-- '[[_Standards/WikiData/WD~interpreted_language,1993334]]'
-- '[[_Standards/WikiData/WD~functional_programming_language,3839507]]'
-- '[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052]]'
-- '[[_Standards/WikiData/WD~metaprogramming_language,28922887]]'
-- '[[_Standards/WikiData/WD~procedural_programming_language,28922885]]'
-- '[[_Standards/WikiData/WD~reflective_programming_language,28922893]]'
-mascot: '[[_Standards/WikiData/WD~The_Lisp_alien,124816689]]'
+- '[[_Standards/WikiData/WD~interpreted_language,1993334|WD~interpreted_language,1993334]]'
+- '[[_Standards/WikiData/WD~functional_programming_language,3839507|WD~functional_programming_language,3839507]]'
+- '[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052|WD~multi_paradigm_programming_language,12772052]]'
+- '[[_Standards/WikiData/WD~metaprogramming_language,28922887|WD~metaprogramming_language,28922887]]'
+- '[[_Standards/WikiData/WD~procedural_programming_language,28922885|WD~procedural_programming_language,28922885]]'
+- '[[_Standards/WikiData/WD~reflective_programming_language,28922893|WD~reflective_programming_language,28922893]]'
+mascot: '[[_Standards/WikiData/WD~The_Lisp_alien,124816689|WD~The_Lisp_alien,124816689]]'
 social_media_followers: 37044
 described_at_URL:
 - https://marketplace.sshopencloud.eu/tool-or-service/iheHw8
@@ -111,7 +111,7 @@ dv_has_:
 #is_a_/ComputerLanguage 
 #is_a_/computer_language  
 
-#has_/creator :: [[../../../../../Computer_Science/Computer_Scientist/McCarthy,John]] 
+#has_/creator :: [[../../../../../Computer_Science/Computer_Scientist/McCarthy,John|McCarthy,John]] 
 #has_/time_/started :: 1960-06-01 
 #has_/parent :: [[Prog~IPL]], [[Lambda-Calculus]]
 #has_/garbage-collection 
@@ -120,7 +120,7 @@ dv_has_:
 
 Lisp is one of the oldest Programming Languages. 
 Its name derives from List-Processing. 
-Modern Variants are  CLOS and [[Prog~LISP/Prog~Clojure]] 
+Modern Variants are  CLOS and [[Prog~LISP/Prog~Clojure|Prog~Clojure]] 
 
 ## #has_/text_of_/abstract 
 

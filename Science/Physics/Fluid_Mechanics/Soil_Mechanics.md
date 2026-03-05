@@ -53,11 +53,11 @@ aliases:
 - 토질역학
 has_id_wikidata: Q471872
 subclass_of:
-- '[[_Standards/WikiData/WD~soil_physics,1707766]]'
-- '[[_Standards/WikiData/WD~mechanics,41217]]'
-part_of: '[[_Standards/WikiData/WD~geomechanics,2670285]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~soil_physics,1707766|WD~soil_physics,1707766]]'
+- '[[_Standards/WikiData/WD~mechanics,41217|WD~mechanics,41217]]'
+part_of: '[[_Standards/WikiData/WD~geomechanics,2670285|WD~geomechanics,2670285]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Drymud-IMG%202920.JPG
 dv_has_:
   name_:

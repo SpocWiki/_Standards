@@ -26,7 +26,7 @@ tags:
 title: is_a_government_building Class
 type: Type
 dv_has_:
-  parent_class: "[[../CivicStructure]]"
+  parent_class: "[[../CivicStructure|CivicStructure]]"
   child_class: "[ CityHall, Courthouse, DefenceEstablishment, Embassy, LegislativeBuilding ]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_private/Earth/Geography/Place/Civic_Structure/Government_Building.private|Government_Building.private]]"
     - "[[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building.personal|Government_Building.personal]]"
     - "[[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building.secret|Government_Building.secret]]"
-dv_has_parent_class: "[[../CivicStructure]]"
+dv_has_parent_class: "[[../CivicStructure|CivicStructure]]"
 dv_has_child_class: "[ CityHall, Courthouse, DefenceEstablishment, Embassy, LegislativeBuilding ]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:

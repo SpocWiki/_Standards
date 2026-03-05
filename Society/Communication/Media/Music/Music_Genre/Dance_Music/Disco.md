@@ -44,19 +44,19 @@ aliases:
 - 디스코
 has_id_wikidata: Q58339
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_form,862597|WD~musical_form,862597]]'
 different_from:
-- '[[_Standards/WikiData/WD~Disco,297312]]'
-- '[[_Standards/WikiData/WD~Disco,15737907]]'
-part_of: '[[_Standards/WikiData/WD~African_American_music,388207]]'
-facet_of: '[[_Standards/WikiData/WD~disco_dance,1228513]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Disco_music_footer,10519444]]'
+- '[[_Standards/WikiData/WD~Disco,297312|WD~Disco,297312]]'
+- '[[_Standards/WikiData/WD~Disco,15737907|WD~Disco,15737907]]'
+part_of: '[[_Standards/WikiData/WD~African_American_music,388207|WD~African_American_music,388207]]'
+facet_of: '[[_Standards/WikiData/WD~disco_dance,1228513|WD~disco_dance,1228513]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Disco_music_footer,10519444|WD~Template_Disco_music_footer,10519444]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~club_dance_music,11787389]]'
-- '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
-practiced_by: '[[_Standards/WikiData/WD~disco_singer,104224827]]'
+- '[[_Standards/WikiData/WD~club_dance_music,11787389|WD~club_dance_music,11787389]]'
+- '[[_Standards/WikiData/WD~rhythm_and_blues,45981|WD~rhythm_and_blues,45981]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
+practiced_by: '[[_Standards/WikiData/WD~disco_singer,104224827|WD~disco_singer,104224827]]'
 inception: 1972-01-01T00:00:00Z
 subreddit: Disco
 Commons_category: Disco

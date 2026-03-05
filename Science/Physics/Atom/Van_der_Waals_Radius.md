@@ -48,9 +48,9 @@ aliases:
 - 范德華半徑
 - 판데르발스 반지름
 has_id_wikidata: Q166879
-named_after: '[[_Standards/WikiData/WD~Johannes_Diderik_van_der_Waals,131721]]'
-subclass_of: '[[_Standards/WikiData/WD~atomic_radius,483788]]'
-instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
+named_after: '[[_Standards/WikiData/WD~Johannes_Diderik_van_der_Waals,131721|WD~Johannes_Diderik_van_der_Waals,131721]]'
+subclass_of: '[[_Standards/WikiData/WD~atomic_radius,483788|WD~atomic_radius,483788]]'
+instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
 dv_has_:
   name_:
     af: Van der Waals radius

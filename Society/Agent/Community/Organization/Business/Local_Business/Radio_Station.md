@@ -99,19 +99,19 @@ tags:
 - schema-org/Class
 title: is_a_radio_station Class
 type: Type
-owner_of: '[[_Standards/WikiData/WD~radio_channel,1474440]]'
+owner_of: '[[_Standards/WikiData/WD~radio_channel,1474440|WD~radio_channel,1474440]]'
 different_from:
-- '[[_Standards/WikiData/WD~radio_communication_station,1474493]]'
-- '[[_Standards/WikiData/WD~broadcasting_station,125053629]]'
+- '[[_Standards/WikiData/WD~radio_communication_station,1474493|WD~radio_communication_station,1474493]]'
+- '[[_Standards/WikiData/WD~broadcasting_station,125053629|WD~broadcasting_station,125053629]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~radio_personality,2722764]]'
-- '[[_Standards/WikiData/WD~radio_people,27978310]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_radio_station,6632234]]'
+- '[[_Standards/WikiData/WD~radio_personality,2722764|WD~radio_personality,2722764]]'
+- '[[_Standards/WikiData/WD~radio_people,27978310|WD~radio_people,27978310]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_radio_station,6632234|WD~Template_Infobox_radio_station,6632234]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~broadcaster,15265344]]'
-- '[[_Standards/WikiData/WD~mass_media,11033]]'
-industry: '[[_Standards/WikiData/WD~radio_broadcasting,29584757]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_mass_media,121132955]]'
+- '[[_Standards/WikiData/WD~broadcaster,15265344|WD~broadcaster,15265344]]'
+- '[[_Standards/WikiData/WD~mass_media,11033|WD~mass_media,11033]]'
+industry: '[[_Standards/WikiData/WD~radio_broadcasting,29584757|WD~radio_broadcasting,29584757]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_mass_media,121132955|WD~type_of_mass_media,121132955]]'
 properties_for_this_type:
 - radio format
 - inception
@@ -236,7 +236,7 @@ Tag Instances like this:
 
 A radio station.
 
-#has_/parent_class :: [[../LocalBusiness]]  
+#has_/parent_class :: [[../LocalBusiness|LocalBusiness]]  
 
 #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]  
 

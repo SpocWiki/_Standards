@@ -76,17 +76,17 @@ aliases:
 - 미케네 문명
 has_id_wikidata: Q181264
 instance_of:
-- '[[_Standards/WikiData/WD~archaeological_culture,465299]]'
-- '[[_Standards/WikiData/WD~style,1292119]]'
-- '[[_Standards/WikiData/WD~civilization,8432]]'
-- '[[_Standards/WikiData/WD~culture,11042]]'
+- '[[_Standards/WikiData/WD~archaeological_culture,465299|WD~archaeological_culture,465299]]'
+- '[[_Standards/WikiData/WD~style,1292119|WD~style,1292119]]'
+- '[[_Standards/WikiData/WD~civilization,8432|WD~civilization,8432]]'
+- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
 described_by_source:
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-studied_by: '[[_Standards/WikiData/WD~mycenology,26425130]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+studied_by: '[[_Standards/WikiData/WD~mycenology,26425130|WD~mycenology,26425130]]'
 end_time: -1099-01-01T00:00:00Z
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Heinrich_Schliemann,57106]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Heinrich_Schliemann,57106|WD~Heinrich_Schliemann,57106]]'
 BHCL_UUID: f163a7e8-abcb-478a-8f6d-0016b28598a0
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "MycenaeanCivilization"]
 Commons_category: Mycenaean civilization
@@ -94,7 +94,7 @@ start_time: -1599-01-01T00:00:00Z
 OpenStreetMap_tag: historic:civilization=mycenaean
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Mycenaean_Greece,181264]]'
+  - '[[../../../../../../../../WikiData/WD~Mycenaean_Greece,181264|WD~Mycenaean_Greece,181264]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1750-Mycenaean_Greece-1050|-1750-Mycenaean_Greece-1050]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1750-Mycenaean_Greece-1050.public|-1750-Mycenaean_Greece-1050.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1750-Mycenaean_Greece-1050.internal|-1750-Mycenaean_Greece-1050.internal]]'
@@ -103,7 +103,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1750-Mycenaean_Greece-1050.personal|-1750-Mycenaean_Greece-1050.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1750-Mycenaean_Greece-1050.secret|-1750-Mycenaean_Greece-1050.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Mycenaean_Greece,181264]]'
+- '[[../../../../../../../../WikiData/WD~Mycenaean_Greece,181264|WD~Mycenaean_Greece,181264]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1750-Mycenaean_Greece-1050|-1750-Mycenaean_Greece-1050]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1750-Mycenaean_Greece-1050.public|-1750-Mycenaean_Greece-1050.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1750-Mycenaean_Greece-1050.internal|-1750-Mycenaean_Greece-1050.internal]]'

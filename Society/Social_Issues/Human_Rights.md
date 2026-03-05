@@ -187,25 +187,25 @@ cssclasses:
 - private
 - note
 described_by_source:
-- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072]]'
+- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553|WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072|WD~Der_Volks-Brockhaus,107433072]]'
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''
-foundational_text: '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813]]'
+foundational_text: '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813|WD~Universal_Declaration_of_Human_Rights,7813]]'
 hashtag: StandUp4HumanRights
-has_part_s_: '[[_Standards/WikiData/WD~human_rights_in_Islam,5962805]]'
+has_part_s_: '[[_Standards/WikiData/WD~human_rights_in_Islam,5962805|WD~human_rights_in_Islam,5962805]]'
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-05-11
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Declaration%20of%20the%20Rights%20of%20Man%20and%20of%20the%20Citizen%20in%201789.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~convention,367293]]'
-- '[[_Standards/WikiData/WD~type_of_value,129510955]]'
-- '[[_Standards/WikiData/WD~social_movement,49773]]'
+- '[[_Standards/WikiData/WD~convention,367293|WD~convention,367293]]'
+- '[[_Standards/WikiData/WD~type_of_value,129510955|WD~type_of_value,129510955]]'
+- '[[_Standards/WikiData/WD~social_movement,49773|WD~social_movement,49773]]'
 IPTC_NewsCode: mediatopic/20000592
 isDeleted: false
 isReadOnly: false
@@ -221,31 +221,31 @@ MeSH_tree_code:
 - I01.880.604.473
 OmegaWiki_Defined_Meaning: 1807
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
-- '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529|WD~WikiProject_Human_Rights,13382529]]'
+- '[[_Standards/WikiData/WD~Art+Feminism,24909800|WD~Art+Feminism,24909800]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
-- '[[_Standards/WikiData/WD~civil_rights,25447176]]'
-- '[[_Standards/WikiData/WD~civil_liberties,29556]]'
-part_of: '[[_Standards/WikiData/WD~international_law,4394526]]'
-personal_library_at: '[[_Standards/WikiData/WD~University_of_Minnesota_Libraries,7895799]]'
+- '[[_Standards/WikiData/WD~civil_and_political_rights,191600|WD~civil_and_political_rights,191600]]'
+- '[[_Standards/WikiData/WD~civil_rights,25447176|WD~civil_rights,25447176]]'
+- '[[_Standards/WikiData/WD~civil_liberties,29556|WD~civil_liberties,29556]]'
+part_of: '[[_Standards/WikiData/WD~international_law,4394526|WD~international_law,4394526]]'
+personal_library_at: '[[_Standards/WikiData/WD~University_of_Minnesota_Libraries,7895799|WD~University_of_Minnesota_Libraries,7895799]]'
 PhilPapers_topic: human-rights
-practiced_by: '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
+practiced_by: '[[_Standards/WikiData/WD~human_rights_activist,1476215|WD~human_rights_activist,1476215]]'
 publish: false
 publishDate: ''
 social_media_followers: 13756
 subclass_of:
-- '[[_Standards/WikiData/WD~convention,367293]]'
-- '[[_Standards/WikiData/WD~rights,780687]]'
+- '[[_Standards/WikiData/WD~convention,367293|WD~convention,367293]]'
+- '[[_Standards/WikiData/WD~rights,780687|WD~rights,780687]]'
 subreddit: humanrights
 tags:
 - Human_Rights
 - excalidraw
 title: Human_Rights
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Human_rights,13441595]]'
-- '[[_Standards/WikiData/WD~Template_Substantive_human_rights,14444679]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Human_rights,10863002]]'
+- '[[_Standards/WikiData/WD~Template_Human_rights,13441595|WD~Template_Human_rights,13441595]]'
+- '[[_Standards/WikiData/WD~Template_Substantive_human_rights,14444679|WD~Template_Substantive_human_rights,14444679]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Human_rights,10863002|WD~Portal_Human_rights,10863002]]'
 type: private_note
 UMLS_CUI:
 - C4046017
@@ -462,7 +462,7 @@ dv_has_:
 
 # [[Human_Rights]] 
 
-#has_/documentation :: [[Human_Rights/Universal_Declaration_of_Human_Rights]] 
+#has_/documentation :: [[Human_Rights/Universal_Declaration_of_Human_Rights|Universal_Declaration_of_Human_Rights]] 
 
 ## #has_/text_of_/abstract 
 

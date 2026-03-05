@@ -28,8 +28,8 @@ title: is_an_energy_star_certified Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../EnergyStarEnergyEfficiencyEnumeration]]"
-  enum_of: "[[../EnergyStarEnergyEfficiencyEnumeration]]"
+  parent_class: "[[../EnergyStarEnergyEfficiencyEnumeration|EnergyStarEnergyEfficiencyEnumeration]]"
+  enum_of: "[[../EnergyStarEnergyEfficiencyEnumeration|EnergyStarEnergyEfficiencyEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified|Energy_Star_Certified]]"
     - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.public|Energy_Star_Certified.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.secret|Energy_Star_Certified.secret]]"
     - "[[Energy_Star_Certified]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../EnergyStarEnergyEfficiencyEnumeration]]"
-dv_is_enum_of: "[[../EnergyStarEnergyEfficiencyEnumeration]]"
+dv_has_parent_class: "[[../EnergyStarEnergyEfficiencyEnumeration|EnergyStarEnergyEfficiencyEnumeration]]"
+dv_is_enum_of: "[[../EnergyStarEnergyEfficiencyEnumeration|EnergyStarEnergyEfficiencyEnumeration]]"
 dv_is_same_as:
   - "[[Energy_Star_Certified]]"
   - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.public|Energy_Star_Certified.public]]"

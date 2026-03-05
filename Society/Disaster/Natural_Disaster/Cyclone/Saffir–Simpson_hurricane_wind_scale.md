@@ -57,18 +57,18 @@ aliases:
 - 사피어-심프슨 허리케인 등급
 has_id_wikidata: Q205801
 instance_of:
-- '[[_Standards/WikiData/WD~sequence,133250]]'
-- '[[_Standards/WikiData/WD~measurement_scale,1370617]]'
-- '[[_Standards/WikiData/WD~criterion,1789452]]'
-- '[[_Standards/WikiData/WD~tropical_cyclone_scale,2513417]]'
+- '[[_Standards/WikiData/WD~sequence,133250|WD~sequence,133250]]'
+- '[[_Standards/WikiData/WD~measurement_scale,1370617|WD~measurement_scale,1370617]]'
+- '[[_Standards/WikiData/WD~criterion,1789452|WD~criterion,1789452]]'
+- '[[_Standards/WikiData/WD~tropical_cyclone_scale,2513417|WD~tropical_cyclone_scale,2513417]]'
 operator:
-- '[[_Standards/WikiData/WD~Central_Pacific_Hurricane_Center,1053937]]'
-- '[[_Standards/WikiData/WD~National_Hurricane_Center,1329523]]'
+- '[[_Standards/WikiData/WD~Central_Pacific_Hurricane_Center,1053937|WD~Central_Pacific_Hurricane_Center,1053937]]'
+- '[[_Standards/WikiData/WD~National_Hurricane_Center,1329523|WD~National_Hurricane_Center,1329523]]'
 named_after:
-- '[[_Standards/WikiData/WD~Herbert_Saffir,2557554]]'
-- '[[_Standards/WikiData/WD~Robert_Homer_Simpson,3436307]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Saffir_Simpson_scale,11125087]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q32731806,32731806]]'
+- '[[_Standards/WikiData/WD~Herbert_Saffir,2557554|WD~Herbert_Saffir,2557554]]'
+- '[[_Standards/WikiData/WD~Robert_Homer_Simpson,3436307|WD~Robert_Homer_Simpson,3436307]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Saffir_Simpson_scale,11125087|WD~Template_Saffir_Simpson_scale,11125087]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32731806,32731806|WD~Q32731806,32731806]]'
 described_at_URL: http://www.nhc.noaa.gov/aboutsshws.php
 dv_has_:
   name_:

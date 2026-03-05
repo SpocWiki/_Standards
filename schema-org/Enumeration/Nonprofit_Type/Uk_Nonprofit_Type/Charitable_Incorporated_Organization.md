@@ -28,8 +28,8 @@ title: is_a_charitable_incorporated_organization Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../UKNonprofitType]]"
-  enum_of: "[[../UKNonprofitType]]"
+  parent_class: "[[../UKNonprofitType|UKNonprofitType]]"
+  enum_of: "[[../UKNonprofitType|UKNonprofitType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization|Charitable_Incorporated_Organization]]"
     - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.public|Charitable_Incorporated_Organization.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.secret|Charitable_Incorporated_Organization.secret]]"
     - "[[Charitable_Incorporated_Organization]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../UKNonprofitType]]"
-dv_is_enum_of: "[[../UKNonprofitType]]"
+dv_has_parent_class: "[[../UKNonprofitType|UKNonprofitType]]"
+dv_is_enum_of: "[[../UKNonprofitType|UKNonprofitType]]"
 dv_is_same_as:
   - "[[Charitable_Incorporated_Organization]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.public|Charitable_Incorporated_Organization.public]]"

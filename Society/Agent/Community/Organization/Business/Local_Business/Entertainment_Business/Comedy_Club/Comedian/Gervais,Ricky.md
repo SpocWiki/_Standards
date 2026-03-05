@@ -29,54 +29,54 @@ aliases:
 - 瑞吉·葛文
 - 리키 저베이스
 has_id_wikidata: Q23517
-place_of_birth: '[[_Standards/WikiData/WD~Reading,161491]]'
+place_of_birth: '[[_Standards/WikiData/WD~Reading,161491|WD~Reading,161491]]'
 educated_at:
-- '[[_Standards/WikiData/WD~University_of_London,170027]]'
-- '[[_Standards/WikiData/WD~University_College_London,193196]]'
-- '[[_Standards/WikiData/WD~UCL_Department_of_Philosophy,60764480]]'
-lifestyle: '[[_Standards/WikiData/WD~veganism,181138]]'
-genre: '[[_Standards/WikiData/WD~new_wave,187760]]'
+- '[[_Standards/WikiData/WD~University_of_London,170027|WD~University_of_London,170027]]'
+- '[[_Standards/WikiData/WD~University_College_London,193196|WD~University_College_London,193196]]'
+- '[[_Standards/WikiData/WD~UCL_Department_of_Philosophy,60764480|WD~UCL_Department_of_Philosophy,60764480]]'
+lifestyle: '[[_Standards/WikiData/WD~veganism,181138|WD~veganism,181138]]'
+genre: '[[_Standards/WikiData/WD~new_wave,187760|WD~new_wave,187760]]'
 occupation:
-- '[[_Standards/WikiData/WD~comedian,245068]]'
-- '[[_Standards/WikiData/WD~television_producer,578109]]'
-- '[[_Standards/WikiData/WD~musician,639669]]'
-- '[[_Standards/WikiData/WD~television_presenter,947873]]'
-- '[[_Standards/WikiData/WD~television_director,2059704]]'
-- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
-- '[[_Standards/WikiData/WD~film_director,2526255]]'
-- '[[_Standards/WikiData/WD~radio_personality,2722764]]'
-- '[[_Standards/WikiData/WD~film_producer,3282637]]'
-- '[[_Standards/WikiData/WD~television_actor,10798782]]'
-- '[[_Standards/WikiData/WD~film_actor,10800557]]'
-- '[[_Standards/WikiData/WD~stand_up_comedian,18545066]]'
-- '[[_Standards/WikiData/WD~screenwriter,28389]]'
-- '[[_Standards/WikiData/WD~actor,33999]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~comedian,245068|WD~comedian,245068]]'
+- '[[_Standards/WikiData/WD~television_producer,578109|WD~television_producer,578109]]'
+- '[[_Standards/WikiData/WD~musician,639669|WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~television_presenter,947873|WD~television_presenter,947873]]'
+- '[[_Standards/WikiData/WD~television_director,2059704|WD~television_director,2059704]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480|WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_director,2526255|WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~radio_personality,2722764|WD~radio_personality,2722764]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637|WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782|WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~stand_up_comedian,18545066|WD~stand_up_comedian,18545066]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389|WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999|WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
 residence:
-- '[[_Standards/WikiData/WD~Marlow,508998]]'
-- '[[_Standards/WikiData/WD~Hampstead,25610]]'
-- '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~Marlow,508998|WD~Marlow,508998]]'
+- '[[_Standards/WikiData/WD~Hampstead,25610|WD~Hampstead,25610]]'
+- '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
 award_received:
-- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series,989442]]'
-- '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017]]'
-- '[[_Standards/WikiData/WD~Richard_Dawkins_Award,12981673]]'
-unmarried_partner: '[[_Standards/WikiData/WD~Jane_Fallon,6152203]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series,989442|WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series,989442]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017|WD~Writers_Guild_of_America_Award,1415017]]'
+- '[[_Standards/WikiData/WD~Richard_Dawkins_Award,12981673|WD~Richard_Dawkins_Award,12981673]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Jane_Fallon,6152203|WD~Jane_Fallon,6152203]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 given_name:
-- '[[_Standards/WikiData/WD~Ricky,15720948]]'
-- '[[_Standards/WikiData/WD~Dene,23905237]]'
-family_name: '[[_Standards/WikiData/WD~Gervais,25349728]]'
-documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-copyright_representative: '[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
-movement: '[[_Standards/WikiData/WD~atheism,7066]]'
-writing_language: '[[_Standards/WikiData/WD~British_English,7979]]'
-native_language: '[[_Standards/WikiData/WD~British_English,7979]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Ricky,15720948|WD~Ricky,15720948]]'
+- '[[_Standards/WikiData/WD~Dene,23905237|WD~Dene,23905237]]'
+family_name: '[[_Standards/WikiData/WD~Gervais,25349728|WD~Gervais,25349728]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+copyright_representative: '[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142|WD~reproduction_right_not_represented_by_CISAC_member,71521142]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012|WD~works_protected_by_copyrights,73555012]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066|WD~atheism,7066]]'
+movement: '[[_Standards/WikiData/WD~atheism,7066|WD~atheism,7066]]'
+writing_language: '[[_Standards/WikiData/WD~British_English,7979|WD~British_English,7979]]'
+native_language: '[[_Standards/WikiData/WD~British_English,7979|WD~British_English,7979]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 social_media_followers:
 - 653000
 - 15154186
@@ -186,7 +186,7 @@ dv_has_:
 #has_/created_/quote :: It’s a strange myth that atheists have nothing to live for. It’s the opposite. We have nothing to die for. We have everything to live for 
 #has_/created_/quote :: A Christian telling an atheist they're going to hell is as scary as a child telling an adult they're not getting any presents from Santa 
 #has_/created_/quote :: Science is humble. It knows what it knows and it knows what it doesn’t know
-#is_/same_as :: [[_Standards/WikiData/WD~Ricky_Gervais,23517]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ricky_Gervais,23517|WD~Ricky_Gervais,23517]] 
 
 ## #has_/text_of_/abstract 
 

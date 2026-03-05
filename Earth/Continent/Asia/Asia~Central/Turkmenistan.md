@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 土库曼斯坦
 dv_UNTERM_French_Formal: le Turkménistan
 dv_UNTERM_Russian: Туркменистан
 dv_UNTERM_Russian_Formal: Туркменистан
-dv_Region_Name: '[[../../Asia]]'
+dv_Region_Name: '[[../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Turkmenistan]]'
 dv_Sub-region_Name: '[[Central Asia]]'
 dv_Region: 142
@@ -352,9 +352,9 @@ dv_has_:
 dv_has_name_de: Turkmenistan
 dv_Area-Total: 488100
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Asia]]'
+dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: TM
-dv_Capital: '[[Turkmenistan/Counties/Ahal/City/Ashgabat]]'
+dv_Capital: '[[Turkmenistan/Counties/Ahal/City/Ashgabat|Ashgabat]]'
 dv_Alcohol-l: 4.6
 dv_Language-Id: 469
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
@@ -513,76 +513,76 @@ tags:
 - geo/Country
 SpocWebEntityId: 27035
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Belarus,184]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
-country: '[[_Standards/WikiData/WD~Turkmenistan,874]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+country: '[[_Standards/WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Afghanistan,889]]'
-- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
-- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]'
+- '[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
 member_of:
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~Organization_of_Turkic_States,596850]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779|WD~Commonwealth_of_Independent_States,7779]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Organization_of_Turkic_States,596850|WD~Organization_of_Turkic_States,596850]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
 instance_of:
-- '[[_Standards/WikiData/WD~country,6256]]'
-- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[_Standards/WikiData/WD~landlocked_country,123480|WD~landlocked_country,123480]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC+05_00,6806]]'
-- '[[_Standards/WikiData/WD~Asia_Ashgabat,4806278]]'
+- '[[_Standards/WikiData/WD~UTC+05_00,6806|WD~UTC+05_00,6806]]'
+- '[[_Standards/WikiData/WD~Asia_Ashgabat,4806278|WD~Asia_Ashgabat,4806278]]'
 basic_form_of_government:
-- '[[_Standards/WikiData/WD~republic,7270]]'
-- '[[_Standards/WikiData/WD~presidential_system,49892]]'
+- '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~presidential_system,49892|WD~presidential_system,49892]]'
 language_used:
-- '[[_Standards/WikiData/WD~Turkmen,9267]]'
-- '[[_Standards/WikiData/WD~Chagatai,36831]]'
-- '[[_Standards/WikiData/WD~Northern_Uzbek,1066766]]'
-official_language: '[[_Standards/WikiData/WD~Turkmen,9267]]'
-replaces: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Turkmen,9267|WD~Turkmen,9267]]'
+- '[[_Standards/WikiData/WD~Chagatai,36831|WD~Chagatai,36831]]'
+- '[[_Standards/WikiData/WD~Northern_Uzbek,1066766|WD~Northern_Uzbek,1066766]]'
+official_language: '[[_Standards/WikiData/WD~Turkmen,9267|WD~Turkmen,9267]]'
+replaces: '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Ashgabat,23438]]'
-- '[[_Standards/WikiData/WD~Ahal_Region,399899]]'
-- '[[_Standards/WikiData/WD~Balkan_Region,486073]]'
-- '[[_Standards/WikiData/WD~Lebap_Region,487389]]'
-- '[[_Standards/WikiData/WD~Daşoguz_Region,487393]]'
-- '[[_Standards/WikiData/WD~Mary_Region,487401]]'
-capital: '[[_Standards/WikiData/WD~Ashgabat,23438]]'
-anthem: '[[_Standards/WikiData/WD~National_anthem_of_Turkmenistan,26693]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Central_Asia,27275]]'
-part_of: '[[_Standards/WikiData/WD~Central_Asia,27275]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Ashgabat,23438|WD~Ashgabat,23438]]'
+- '[[_Standards/WikiData/WD~Ahal_Region,399899|WD~Ahal_Region,399899]]'
+- '[[_Standards/WikiData/WD~Balkan_Region,486073|WD~Balkan_Region,486073]]'
+- '[[_Standards/WikiData/WD~Lebap_Region,487389|WD~Lebap_Region,487389]]'
+- '[[_Standards/WikiData/WD~Daşoguz_Region,487393|WD~Daşoguz_Region,487393]]'
+- '[[_Standards/WikiData/WD~Mary_Region,487401|WD~Mary_Region,487401]]'
+capital: '[[_Standards/WikiData/WD~Ashgabat,23438|WD~Ashgabat,23438]]'
+anthem: '[[_Standards/WikiData/WD~National_anthem_of_Turkmenistan,26693|WD~National_anthem_of_Turkmenistan,26693]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Central_Asia,27275|WD~Central_Asia,27275]]'
+part_of: '[[_Standards/WikiData/WD~Central_Asia,27275|WD~Central_Asia,27275]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 unemployment_rate: 10
 VAT_rate: 15
 marriageable_age: 16
@@ -610,8 +610,8 @@ BTI_Status_Index:
 Happy_Planet_Index_score: 33
 water_as_percent_of_area: 4.9
 Democracy_Index: 1.66
-flag: '[[_Standards/WikiData/WD~flag_of_Turkmenistan,41327]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.tm,41824]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Turkmenistan,41327|WD~flag_of_Turkmenistan,41327]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tm,41824|WD~.tm,41824]]'
 Gini_coefficient: 40.8
 maximum_temperature_record: 50.1
 Inequality_adjusted_Human_Development_Index: 0.619
@@ -693,36 +693,36 @@ short_name: "\U0001F1F9\U0001F1F2"
 coordinates_of_northernmost_point: Point(58.63 42.78)
 coordinates_of_easternmost_point: Point(66.7065125 37.92112)
 coordinates_of_westernmost_point: Point(52.4517518 41.7635725)
-coat_of_arms: '[[_Standards/WikiData/WD~emblem_of_Turkmenistan,201128]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Turkmenistan,245804]]'
-lowest_point: '[[_Standards/WikiData/WD~Turan_Depression,575516]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Turkmenistan,610927]]'
-highest_point: '[[_Standards/WikiData/WD~Aýrybaba,794684]]'
+coat_of_arms: '[[_Standards/WikiData/WD~emblem_of_Turkmenistan,201128|WD~emblem_of_Turkmenistan,201128]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Turkmenistan,245804|WD~culture_of_Turkmenistan,245804]]'
+lowest_point: '[[_Standards/WikiData/WD~Turan_Depression,575516|WD~Turan_Depression,575516]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Turkmenistan,610927|WD~history_of_Turkmenistan,610927]]'
+highest_point: '[[_Standards/WikiData/WD~Aýrybaba,794684|WD~Aýrybaba,794684]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~NEMA_5-15,24288456]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Turkmenistan,1155759]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Turkmenistan,1155759]]'
-different_from: '[[_Standards/WikiData/WD~Turkestan,1315785]]'
+- '[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~NEMA_5-15,24288456|WD~NEMA_5-15,24288456]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Turkmenistan,1155759|WD~President_of_Turkmenistan,1155759]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Turkmenistan,1155759|WD~President_of_Turkmenistan,1155759]]'
+different_from: '[[_Standards/WikiData/WD~Turkestan,1315785|WD~Turkestan,1315785]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Turkmenistan,2045221]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Turkmenistan,2351005]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Turkmenistan,2496274]]'
-public_holiday: '[[_Standards/WikiData/WD~Melon_Day,4158215]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Turkmenistan,4504283]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Turkmenistan,7112496]]'
-category_for_people_buried_here: '[[_Standards/WikiData/WD~Q7978509,7978509]]'
-category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q7981634,7981634]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Turkmenistan,14614994]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103822,27103822]]'
-has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
-head_of_state: '[[_Standards/WikiData/WD~Serdar_Berdimuhamedow,51874548]]'
-legislative_body: '[[_Standards/WikiData/WD~National_Council_of_Turkmenistan,106506537]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075|WD~TASS_Encyclopedia,63985075]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Turkmenistan,2045221|WD~geography_of_Turkmenistan,2045221]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Turkmenistan,2351005|WD~economy_of_Turkmenistan,2351005]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Turkmenistan,2496274|WD~demographics_of_Turkmenistan,2496274]]'
+public_holiday: '[[_Standards/WikiData/WD~Melon_Day,4158215|WD~Melon_Day,4158215]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Turkmenistan,4504283|WD~Central_Bank_of_Turkmenistan,4504283]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Turkmenistan,7112496|WD~outline_of_Turkmenistan,7112496]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q7978509,7978509|WD~Q7978509,7978509]]'
+category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q7981634,7981634|WD~Q7981634,7981634]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Turkmenistan,14614994|WD~Portal_Turkmenistan,14614994]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103822,27103822|WD~Q27103822,27103822]]'
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]'
+head_of_state: '[[_Standards/WikiData/WD~Serdar_Berdimuhamedow,51874548|WD~Serdar_Berdimuhamedow,51874548]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Council_of_Turkmenistan,106506537|WD~National_Council_of_Turkmenistan,106506537]]'
 UMLS_CUI: C0041403
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Ashgabat%20from%20Arch%20of%20Neutrality%20%2841652998734%29.jpg
@@ -883,7 +883,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Turkmenistan/ReadMe]] 
+[[Turkmenistan/ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -909,7 +909,7 @@ VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Turkmenistan/Emblem_of_Turkmenistan.svg|350]]  
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Turkmenistan.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Turkmenistan.mp3|Anthem-Turkmenistan.mp3]]
 ![[Turkmenistan/Flag_of_Turkmenistan.svg|350]]  
 
 Alcohol-l = `=this.dv_Alcohol-l`

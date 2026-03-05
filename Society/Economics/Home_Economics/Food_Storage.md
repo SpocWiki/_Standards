@@ -23,10 +23,10 @@ aliases:
 - 食物儲存
 - 식품 보관
 has_id_wikidata: Q11702361
-has_use: '[[_Standards/WikiData/WD~storage,9158768]]'
-subclass_of: '[[_Standards/WikiData/WD~storage,9158768]]'
-has_characteristic: '[[_Standards/WikiData/WD~storage_condition,99392206]]'
-instance_of: '[[_Standards/WikiData/WD~technology,11016]]'
+has_use: '[[_Standards/WikiData/WD~storage,9158768|WD~storage,9158768]]'
+subclass_of: '[[_Standards/WikiData/WD~storage,9158768|WD~storage,9158768]]'
+has_characteristic: '[[_Standards/WikiData/WD~storage_condition,99392206|WD~storage_condition,99392206]]'
+instance_of: '[[_Standards/WikiData/WD~technology,11016|WD~technology,11016]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FEMA%20-%2039207%20-%20Food%20storage%20containers%20stacked%20on%20shipping%20pallets%20in%20Texas.jpg
 Commons_category: Food storage
 MeSH_tree_code: J01.576.423.200.387
@@ -59,7 +59,7 @@ dv_has_:
 
 # [[Food_Storage]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~food_storage,11702361]]
+#is_/same_as :: [[_Standards/WikiData/WD~food_storage,11702361|WD~food_storage,11702361]]
 
 ## #has_/text_of_/abstract 
 

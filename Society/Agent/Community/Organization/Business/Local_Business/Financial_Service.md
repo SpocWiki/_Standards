@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Financial services business.
 
-#has_/parent_class :: [[../LocalBusiness]]  
+#has_/parent_class :: [[../LocalBusiness|LocalBusiness]]  
 
 #has_/child_/class :: [ AccountingService, AutomatedTeller, BankOrCreditUnion, InsuranceAgency ]  
 

@@ -44,13 +44,13 @@ aliases:
 - 계몽절대주의
 has_id_wikidata: Q219934
 subclass_of:
-- '[[_Standards/WikiData/WD~despotism,179352]]'
-- '[[_Standards/WikiData/WD~absolutism,7184037]]'
-- '[[_Standards/WikiData/WD~liberalism,6216]]'
+- '[[_Standards/WikiData/WD~despotism,179352|WD~despotism,179352]]'
+- '[[_Standards/WikiData/WD~absolutism,7184037|WD~absolutism,7184037]]'
+- '[[_Standards/WikiData/WD~liberalism,6216|WD~liberalism,6216]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
 dv_has_:
   name_:
     ar: حكم مطلق مستنير

@@ -155,21 +155,21 @@ aliases:
 has_id_wikidata: Q11759
 Commons_category: Stone Age
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 end_time: -1999
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ggantija%20Temples%20%281%29.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~archaeological_age,15401699]]'
-- '[[_Standards/WikiData/WD~temporal_entity,26907166]]'
-named_after: '[[_Standards/WikiData/WD~stone_tool,479257]]'
+- '[[_Standards/WikiData/WD~archaeological_age,15401699|WD~archaeological_age,15401699]]'
+- '[[_Standards/WikiData/WD~temporal_entity,26907166|WD~temporal_entity,26907166]]'
+named_after: '[[_Standards/WikiData/WD~stone_tool,479257|WD~stone_tool,479257]]'
 OmegaWiki_Defined_Meaning: 8244
 OpenStreetMap_tag_or_key: Tag:historic:period=stone-age
-part_of: '[[_Standards/WikiData/WD~prehistory,11756]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Q10519671,10519671]]'
+part_of: '[[_Standards/WikiData/WD~prehistory,11756|WD~prehistory,11756]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q10519671,10519671|WD~Q10519671,10519671]]'
 dv_has_:
   duration_:
     years: 3297000
@@ -351,7 +351,7 @@ dv_has_:
     stopped: -3.e3
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Stone_Age,11759]]'
+  - '[[../../../../../WikiData/WD~Stone_Age,11759|WD~Stone_Age,11759]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Stone-Age|Stone-Age]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Stone-Age.public|Stone-Age.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Stone-Age.internal|Stone-Age.internal]]'
@@ -364,7 +364,7 @@ dv_has_time_stopped: -3.e3
 dv_has_duration_years: 3297000
 dv_has_duration_ma: 3297
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Stone_Age,11759]]'
+- '[[../../../../../WikiData/WD~Stone_Age,11759|WD~Stone_Age,11759]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Stone-Age|Stone-Age]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Stone-Age.public|Stone-Age.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Stone-Age.internal|Stone-Age.internal]]'
@@ -382,7 +382,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 
 #has_/duration_/years :: `$=Math.round((Number(dv.current().dv_has_time_stopped) - dv.current().dv_has_time_started))` 
 #has_/duration_/Ma :: `=number(this.dv_has_time_stopped) - number(this.dv_has_time_started)` 
-#is_/same_as :: [[../../../../../WikiData/WD~Stone_Age,11759]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Stone_Age,11759|WD~Stone_Age,11759]] 
 
 ## #has_/text_of_/abstract 
 

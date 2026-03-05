@@ -27,9 +27,9 @@ tags:
 title: is_a_reservation_cancelled Class
 type: Type
 dv_has_:
-  parent_class: "[[../ReservationStatusType]]"
+  parent_class: "[[../ReservationStatusType|ReservationStatusType]]"
 dv_is_:
-  enum_of: "[[../ReservationStatusType]]"
+  enum_of: "[[../ReservationStatusType|ReservationStatusType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled|Reservation_Cancelled]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.public|Reservation_Cancelled.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.personal|Reservation_Cancelled.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.secret|Reservation_Cancelled.secret]]"
     - "[[Reservation_Cancelled]]"
-dv_has_parent_class: "[[../ReservationStatusType]]"
-dv_is_enum_of: "[[../ReservationStatusType]]"
+dv_has_parent_class: "[[../ReservationStatusType|ReservationStatusType]]"
+dv_is_enum_of: "[[../ReservationStatusType|ReservationStatusType]]"
 dv_is_same_as:
   - "[[Reservation_Cancelled]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.public|Reservation_Cancelled.public]]"

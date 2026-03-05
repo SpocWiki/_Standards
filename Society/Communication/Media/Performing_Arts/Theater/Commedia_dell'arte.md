@@ -32,20 +32,20 @@ aliases:
 - 義大利即興喜劇
 - 콤메디아 델라르테
 has_id_wikidata: Q191890
-country_of_origin: '[[_Standards/WikiData/WD~Papal_States,170174]]'
+country_of_origin: '[[_Standards/WikiData/WD~Papal_States,170174|WD~Papal_States,170174]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Maschere,3850681]]'
-- "[[_Standards/WikiData/WD~Costumes_in_commedia_dell'arte,28229130]]"
+- '[[_Standards/WikiData/WD~Maschere,3850681|WD~Maschere,3850681]]'
+- "[[_Standards/WikiData/WD~Costumes_in_commedia_dell'arte,28229130|WD~Costumes_in_commedia_dell'arte,28229130]]"
 instance_of:
-- '[[_Standards/WikiData/WD~theatrical_genre,7777573]]'
-- '[[_Standards/WikiData/WD~group_of_works,17489659]]'
-different_from: '[[_Standards/WikiData/WD~Commedia_erudita,12879230]]'
-derivative_work: '[[_Standards/WikiData/WD~mime,39818]]'
-subclass_of: '[[_Standards/WikiData/WD~comedy,40831]]'
+- '[[_Standards/WikiData/WD~theatrical_genre,7777573|WD~theatrical_genre,7777573]]'
+- '[[_Standards/WikiData/WD~group_of_works,17489659|WD~group_of_works,17489659]]'
+different_from: '[[_Standards/WikiData/WD~Commedia_erudita,12879230|WD~Commedia_erudita,12879230]]'
+derivative_work: '[[_Standards/WikiData/WD~mime,39818|WD~mime,39818]]'
+subclass_of: '[[_Standards/WikiData/WD~comedy,40831|WD~comedy,40831]]'
 Iconclass_notation: 48C8543
 Commons_category: Commedia dell'arte
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20Dujardin%20-%20Les%20Charlatans%20italiens.jpg

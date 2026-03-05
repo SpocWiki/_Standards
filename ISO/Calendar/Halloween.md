@@ -81,32 +81,32 @@ hashtag_:
 - Halloween2024
 - HappyHalloween
 foods_traditionally_associated:
-- '[[_Standards/WikiData/WD~pumpkin,165308]]'
-- '[[_Standards/WikiData/WD~candy,185583]]'
-- '[[_Standards/WikiData/WD~pumpkin_pie,2118270]]'
+- '[[_Standards/WikiData/WD~pumpkin,165308|WD~pumpkin,165308]]'
+- '[[_Standards/WikiData/WD~candy,185583|WD~candy,185583]]'
+- '[[_Standards/WikiData/WD~pumpkin_pie,2118270|WD~pumpkin_pie,2118270]]'
 different_from:
-- '[[_Standards/WikiData/WD~Halloween,221103]]'
-- '[[_Standards/WikiData/WD~Halloween,229620]]'
-- '[[_Standards/WikiData/WD~Halloween,909063]]'
-- '[[_Standards/WikiData/WD~Halloween,945842]]'
-- '[[_Standards/WikiData/WD~Halloween,1364022]]'
-- '[[_Standards/WikiData/WD~Halloween,1571838]]'
-- '[[_Standards/WikiData/WD~Halloween,3126172]]'
-- '[[_Standards/WikiData/WD~Halloween,3285065]]'
-- '[[_Standards/WikiData/WD~Halloween,20666646]]'
+- '[[_Standards/WikiData/WD~Halloween,221103|WD~Halloween,221103]]'
+- '[[_Standards/WikiData/WD~Halloween,229620|WD~Halloween,229620]]'
+- '[[_Standards/WikiData/WD~Halloween,909063|WD~Halloween,909063]]'
+- '[[_Standards/WikiData/WD~Halloween,945842|WD~Halloween,945842]]'
+- '[[_Standards/WikiData/WD~Halloween,1364022|WD~Halloween,1364022]]'
+- '[[_Standards/WikiData/WD~Halloween,1571838|WD~Halloween,1571838]]'
+- '[[_Standards/WikiData/WD~Halloween,3126172|WD~Halloween,3126172]]'
+- '[[_Standards/WikiData/WD~Halloween,3285065|WD~Halloween,3285065]]'
+- '[[_Standards/WikiData/WD~Halloween,20666646|WD~Halloween,20666646]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 instance_of:
-- '[[_Standards/WikiData/WD~vigil,1238731]]'
-- '[[_Standards/WikiData/WD~holiday,1445650]]'
-part_of: '[[_Standards/WikiData/WD~Allhallowtide,5643137]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Halloween,16250820]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Halloween,18857152]]'
-followed_by: "[[_Standards/WikiData/WD~All_Saints'_Day,587]]"
-day_in_year_for_periodic_occurrence: '[[_Standards/WikiData/WD~October_31,2949]]'
-country_of_origin: '[[_Standards/WikiData/WD~Ireland,27]]'
-has_part_s_: '[[_Standards/WikiData/WD~trick_or_treating,47195]]'
+- '[[_Standards/WikiData/WD~vigil,1238731|WD~vigil,1238731]]'
+- '[[_Standards/WikiData/WD~holiday,1445650|WD~holiday,1445650]]'
+part_of: '[[_Standards/WikiData/WD~Allhallowtide,5643137|WD~Allhallowtide,5643137]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Halloween,16250820|WD~geography_of_Halloween,16250820]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Halloween,18857152|WD~Portal_Halloween,18857152]]'
+followed_by: "[[_Standards/WikiData/WD~All_Saints'_Day,587|WD~All_Saints'_Day,587]]"
+day_in_year_for_periodic_occurrence: '[[_Standards/WikiData/WD~October_31,2949|WD~October_31,2949]]'
+country_of_origin: '[[_Standards/WikiData/WD~Ireland,27|WD~Ireland,27]]'
+has_part_s_: '[[_Standards/WikiData/WD~trick_or_treating,47195|WD~trick_or_treating,47195]]'
 Commons_category: Halloween
 Commons_gallery: Halloween
 OmegaWiki_Defined_Meaning: 371933

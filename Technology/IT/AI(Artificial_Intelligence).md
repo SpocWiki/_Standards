@@ -179,68 +179,68 @@ Classification_of_Instructional_Programs_code: 11.0102
 Commons_category: Artificial intelligence
 described_at_URL: https://eudml.org/subject/MSC/68Txx
 described_by_source:
-- '[[_Standards/WikiData/WD~Artificial_Intelligence,4801030]]'
-- '[[_Standards/WikiData/WD~Artificial_Intelligence_Review,15751393]]'
-- '[[_Standards/WikiData/WD~Open_Science_Thesaurus,108928644]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Artificial_Intelligence,4801030|WD~Artificial_Intelligence,4801030]]'
+- '[[_Standards/WikiData/WD~Artificial_Intelligence_Review,15751393|WD~Artificial_Intelligence_Review,15751393]]'
+- '[[_Standards/WikiData/WD~Open_Science_Thesaurus,108928644|WD~Open_Science_Thesaurus,108928644]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 different_from:
-- '[[_Standards/WikiData/WD~artificial_intelligence_model_type,117349475]]'
-- '[[_Standards/WikiData/WD~artificial_intelligence_model,117349473]]'
+- '[[_Standards/WikiData/WD~artificial_intelligence_model_type,117349475|WD~artificial_intelligence_model_type,117349475]]'
+- '[[_Standards/WikiData/WD~artificial_intelligence_model,117349473|WD~artificial_intelligence_model,117349473]]'
 facet_of:
-- '[[_Standards/WikiData/WD~cognitive_science,147638]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
+- '[[_Standards/WikiData/WD~cognitive_science,147638|WD~cognitive_science,147638]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
 GitHub_topic: artificial-intelligence
 has_characteristic:
-- '[[_Standards/WikiData/WD~artificiality,14623823]]'
-- '[[_Standards/WikiData/WD~regulation_of_artificial_intelligence,96482266]]'
+- '[[_Standards/WikiData/WD~artificiality,14623823|WD~artificiality,14623823]]'
+- '[[_Standards/WikiData/WD~regulation_of_artificial_intelligence,96482266|WD~regulation_of_artificial_intelligence,96482266]]'
 has_goal:
-- '[[_Standards/WikiData/WD~motion_planning,366872]]'
-- '[[_Standards/WikiData/WD~affective_computing,1185804]]'
-- '[[_Standards/WikiData/WD~artificial_general_intelligence,2264109]]'
-- '[[_Standards/WikiData/WD~automated_reasoning,2555318]]'
-- '[[_Standards/WikiData/WD~automated_planning_and_scheduling,2631895]]'
-- '[[_Standards/WikiData/WD~knowledge_representation_and_reasoning,3478658]]'
-- '[[_Standards/WikiData/WD~machine_perception,6723726]]'
-- '[[_Standards/WikiData/WD~knowledge_representation,109642276]]'
-- '[[_Standards/WikiData/WD~natural_language_processing,30642]]'
+- '[[_Standards/WikiData/WD~motion_planning,366872|WD~motion_planning,366872]]'
+- '[[_Standards/WikiData/WD~affective_computing,1185804|WD~affective_computing,1185804]]'
+- '[[_Standards/WikiData/WD~artificial_general_intelligence,2264109|WD~artificial_general_intelligence,2264109]]'
+- '[[_Standards/WikiData/WD~automated_reasoning,2555318|WD~automated_reasoning,2555318]]'
+- '[[_Standards/WikiData/WD~automated_planning_and_scheduling,2631895|WD~automated_planning_and_scheduling,2631895]]'
+- '[[_Standards/WikiData/WD~knowledge_representation_and_reasoning,3478658|WD~knowledge_representation_and_reasoning,3478658]]'
+- '[[_Standards/WikiData/WD~machine_perception,6723726|WD~machine_perception,6723726]]'
+- '[[_Standards/WikiData/WD~knowledge_representation,109642276|WD~knowledge_representation,109642276]]'
+- '[[_Standards/WikiData/WD~natural_language_processing,30642|WD~natural_language_processing,30642]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~connectionism,203790]]'
-- '[[_Standards/WikiData/WD~symbolic_artificial_intelligence,5514059]]'
-- '[[_Standards/WikiData/WD~ethical_artificial_intelligence,105604957]]'
-- '[[_Standards/WikiData/WD~machine_learning,2539]]'
+- '[[_Standards/WikiData/WD~connectionism,203790|WD~connectionism,203790]]'
+- '[[_Standards/WikiData/WD~symbolic_artificial_intelligence,5514059|WD~symbolic_artificial_intelligence,5514059]]'
+- '[[_Standards/WikiData/WD~ethical_artificial_intelligence,105604957|WD~ethical_artificial_intelligence,105604957]]'
+- '[[_Standards/WikiData/WD~machine_learning,2539|WD~machine_learning,2539]]'
 has_use:
-- '[[_Standards/WikiData/WD~recommender_system,554950]]'
-- '[[_Standards/WikiData/WD~autonomous_car,741490]]'
-- '[[_Standards/WikiData/WD~natural_language_understanding,1078276]]'
-- '[[_Standards/WikiData/WD~search_engine,4182287]]'
-- '[[_Standards/WikiData/WD~automated_decision-making,108704339]]'
+- '[[_Standards/WikiData/WD~recommender_system,554950|WD~recommender_system,554950]]'
+- '[[_Standards/WikiData/WD~autonomous_car,741490|WD~autonomous_car,741490]]'
+- '[[_Standards/WikiData/WD~natural_language_understanding,1078276|WD~natural_language_understanding,1078276]]'
+- '[[_Standards/WikiData/WD~search_engine,4182287|WD~search_engine,4182287]]'
+- '[[_Standards/WikiData/WD~automated_decision-making,108704339|WD~automated_decision-making,108704339]]'
 history_of_topic:
-- '[[_Standards/WikiData/WD~history_of_artificial_intelligence,2592244]]'
-- '[[_Standards/WikiData/WD~timeline_of_artificial_intelligence,16000353]]'
+- '[[_Standards/WikiData/WD~history_of_artificial_intelligence,2592244|WD~history_of_artificial_intelligence,2592244]]'
+- '[[_Standards/WikiData/WD~timeline_of_artificial_intelligence,16000353|WD~timeline_of_artificial_intelligence,16000353]]'
 IAB_code: 597
 IEV_number: 171-09-16
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dall-e%203%20%28jan%20%2724%29%20artificial%20intelligence%20icon.png
 influenced_by:
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-- '[[_Standards/WikiData/WD~linguistics,8162]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~type_of_technology,112057532]]'
-- '[[_Standards/WikiData/WD~branch_of_computer_science,123370638]]'
-- '[[_Standards/WikiData/WD~type_of_intelligence,125161275]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~type_of_technology,112057532|WD~type_of_technology,112057532]]'
+- '[[_Standards/WikiData/WD~branch_of_computer_science,123370638|WD~branch_of_computer_science,123370638]]'
+- '[[_Standards/WikiData/WD~type_of_intelligence,125161275|WD~type_of_intelligence,125161275]]'
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/INTELLEKT_ISKUSSTVENNI.html
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Artificial_Intelligence,113171054]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Artificial_Intelligence,113171054|WD~WikiProject_Artificial_Intelligence,113171054]]'
 MeSH_tree_code:
 - G17.035.250
 - L01.224.050.375
 model_item:
-- '[[_Standards/WikiData/WD~intelligence_amplification,1362688]]'
-- '[[_Standards/WikiData/WD~machine_learning,2539]]'
+- '[[_Standards/WikiData/WD~intelligence_amplification,1362688|WD~intelligence_amplification,1362688]]'
+- '[[_Standards/WikiData/WD~machine_learning,2539|WD~machine_learning,2539]]'
 OmegaWiki_Defined_Meaning: 524106
 practiced_by:
-- '[[_Standards/WikiData/WD~artificial_intelligence_researcher,15976092]]'
-- '[[_Standards/WikiData/WD~artificial_intelligence_engineer,126116209]]'
+- '[[_Standards/WikiData/WD~artificial_intelligence_researcher,15976092|WD~artificial_intelligence_researcher,15976092]]'
+- '[[_Standards/WikiData/WD~artificial_intelligence_engineer,126116209|WD~artificial_intelligence_engineer,126116209]]'
 short_name:
 - AI
 - AI
@@ -310,18 +310,18 @@ Stack_Exchange_tag:
 - https://ai.stackexchange.com/tags
 - https://genai.stackexchange.com/tags
 subclass_of:
-- '[[_Standards/WikiData/WD~emerging_technology,120208]]'
-- '[[_Standards/WikiData/WD~reasoning,1156402]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
+- '[[_Standards/WikiData/WD~emerging_technology,120208|WD~emerging_technology,120208]]'
+- '[[_Standards/WikiData/WD~reasoning,1156402|WD~reasoning,1156402]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
 subreddit: artificial
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Artificial_intelligence,14411202]]'
-- '[[_Standards/WikiData/WD~Template_Artificial_intelligence,119057776]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Artificial_intelligence,14614961]]'
+- '[[_Standards/WikiData/WD~Template_Artificial_intelligence,14411202|WD~Template_Artificial_intelligence,14411202]]'
+- '[[_Standards/WikiData/WD~Template_Artificial_intelligence,119057776|WD~Template_Artificial_intelligence,119057776]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Artificial_intelligence,14614961|WD~Portal_Artificial_intelligence,14614961]]'
 uses:
-- '[[_Standards/WikiData/WD~large_language_model,115305900]]'
-- '[[_Standards/WikiData/WD~AI-generated_content,125361038]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_artificial_intelligence,7112560]]'
+- '[[_Standards/WikiData/WD~large_language_model,115305900|WD~large_language_model,115305900]]'
+- '[[_Standards/WikiData/WD~AI-generated_content,125361038|WD~AI-generated_content,125361038]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_artificial_intelligence,7112560|WD~outline_of_artificial_intelligence,7112560]]'
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "ArtificialIntelligence"]
 dv_has_:
   name_:

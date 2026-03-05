@@ -81,14 +81,14 @@ aliases:
 - 阿基米德浮體原理
 - 아르키메데스의 원리
 has_id_wikidata: Q181404
-instance_of: '[[_Standards/WikiData/WD~physical_law,214070]]'
+instance_of: '[[_Standards/WikiData/WD~physical_law,214070|WD~physical_law,214070]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-main_subject: '[[_Standards/WikiData/WD~buoyancy,6497624]]'
-different_from: '[[_Standards/WikiData/WD~Q11826763,11826763]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116600643,116600643]]'
-named_after: '[[_Standards/WikiData/WD~Archimedes,8739]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+main_subject: '[[_Standards/WikiData/WD~buoyancy,6497624|WD~buoyancy,6497624]]'
+different_from: '[[_Standards/WikiData/WD~Q11826763,11826763|WD~Q11826763,11826763]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116600643,116600643|WD~Q116600643,116600643]]'
+named_after: '[[_Standards/WikiData/WD~Archimedes,8739|WD~Archimedes,8739]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/57.%20%D0%90%D1%80%D1%85%D0%B8%D0%BC%D0%B5%D0%B4%D0%BE%D0%B2%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B2%D0%BE%20%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%85.ogg
 P8189: 987007294833305171
 Commons_category: Archimedes' principle

@@ -46,15 +46,15 @@ aliases:
 - 올리고세
 has_id_wikidata: Q101873
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Oligocene,8904579]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Oligocene,8904579|WD~Category_Oligocene,8904579]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -23030000-01-01T00:00:00Z
-named_by: '[[_Standards/WikiData/WD~Heinrich_Ernst_Beyrich,64133]]'
+named_by: '[[_Standards/WikiData/WD~Heinrich_Ernst_Beyrich,64133|WD~Heinrich_Ernst_Beyrich,64133]]'
 Commons_category: Oligocene
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Indricotherium11.jpg
@@ -220,11 +220,11 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 33.9 to 23.03 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-030_Ma_(Rupelian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-030_Ma_(Rupelian_Age).png|Earth-030_Ma_(Rupelian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 
-> The **Oligocene** (IPA:  OL-ə-gə-seen, -⁠goh-) is a geologic epoch of the [[../Period-0066~Paleogene]] and extends from about 33.9 million to 23 million years before the present (33.9±0.1 to 23.03±0.05 Ma). As with other older geologic periods, the rock beds that define the epoch are well identified but the exact dates of the start and end of the epoch are slightly uncertain. 
+> The **Oligocene** (IPA:  OL-ə-gə-seen, -⁠goh-) is a geologic epoch of the [[../Period-0066~Paleogene|Period-0066~Paleogene]] and extends from about 33.9 million to 23 million years before the present (33.9±0.1 to 23.03±0.05 Ma). As with other older geologic periods, the rock beds that define the epoch are well identified but the exact dates of the start and end of the epoch are slightly uncertain. 
 > 
 > The name Oligocene was coined in 1854 by the German paleontologist Heinrich Ernst Beyrich from his studies of marine beds in Belgium and Germany. The name comes from the Ancient Greek ὀλίγος (olígos, "few") and καινός (kainós, "new"), and refers to the sparsity of extant forms of molluscs. The Oligocene is preceded by the Eocene Epoch and is followed by the Miocene Epoch. The Oligocene is the third and final epoch of the Paleogene Period.
 >

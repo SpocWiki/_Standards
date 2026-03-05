@@ -43,17 +43,17 @@ aliases:
 - 푸리에 해석학
 has_id_wikidata: Q1365258
 has_use:
-- '[[_Standards/WikiData/WD~acoustics,82811]]'
-- '[[_Standards/WikiData/WD~digital_signal_processing,173142]]'
+- '[[_Standards/WikiData/WD~acoustics,82811|WD~acoustics,82811]]'
+- '[[_Standards/WikiData/WD~digital_signal_processing,173142|WD~digital_signal_processing,173142]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mathematical_physics,156495]]'
-- '[[_Standards/WikiData/WD~harmonic_analysis,876215]]'
+- '[[_Standards/WikiData/WD~mathematical_physics,156495|WD~mathematical_physics,156495]]'
+- '[[_Standards/WikiData/WD~harmonic_analysis,876215|WD~harmonic_analysis,876215]]'
 uses:
-- '[[_Standards/WikiData/WD~Fourier_series,179467]]'
-- '[[_Standards/WikiData/WD~frequency_domain,786423]]'
-- '[[_Standards/WikiData/WD~Fourier_transform,6520159]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-named_after: '[[_Standards/WikiData/WD~Joseph_Fourier,8772]]'
+- '[[_Standards/WikiData/WD~Fourier_series,179467|WD~Fourier_series,179467]]'
+- '[[_Standards/WikiData/WD~frequency_domain,786423|WD~frequency_domain,786423]]'
+- '[[_Standards/WikiData/WD~Fourier_transform,6520159|WD~Fourier_transform,6520159]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+named_after: '[[_Standards/WikiData/WD~Joseph_Fourier,8772|WD~Joseph_Fourier,8772]]'
 publication_date: 1822-01-01T00:00:00Z
 Stack_Exchange_tag: https://mathoverflow.net/tags/fourier-analysis
 MeSH_tree_code:

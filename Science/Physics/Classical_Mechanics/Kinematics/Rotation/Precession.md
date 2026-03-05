@@ -54,9 +54,9 @@ aliases:
 - 進動
 - 세차 운동
 has_id_wikidata: Q104225
-subclass_of: '[[_Standards/WikiData/WD~rotation,107617]]'
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-part_of: '[[_Standards/WikiData/WD~classical_mechanics,11397]]'
+subclass_of: '[[_Standards/WikiData/WD~rotation,107617|WD~rotation,107617]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+part_of: '[[_Standards/WikiData/WD~classical_mechanics,11397|WD~classical_mechanics,11397]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gyroscope%20precession.gif
 Commons_category: Precession
 dv_has_:

@@ -43,18 +43,18 @@ aliases:
 - 妾制
 - 내연녀
 has_id_wikidata: Q188790
-subclass_of: '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
+subclass_of: '[[_Standards/WikiData/WD~interpersonal_relationship,223642|WD~interpersonal_relationship,223642]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-has_part_s_: '[[_Standards/WikiData/WD~concubine,2719946]]'
-instance_of: '[[_Standards/WikiData/WD~marital_status,11920938]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+has_part_s_: '[[_Standards/WikiData/WD~concubine,2719946|WD~concubine,2719946]]'
+instance_of: '[[_Standards/WikiData/WD~marital_status,11920938|WD~marital_status,11920938]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois-Joseph%20Navez%20-%20Agar%20et%20Isma%C3%ABl%20dans%20le%20d%C3%A9sert.jpg
 Krugosvet_article: ekonomika-i-pravo/konkubinat
 dv_has_:

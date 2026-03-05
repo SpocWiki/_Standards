@@ -92,18 +92,18 @@ aliases:
 - 核融合
 - 핵융합
 has_id_wikidata: Q13082
-studied_by: '[[_Standards/WikiData/WD~nuclear_physics,81197]]'
+studied_by: '[[_Standards/WikiData/WD~nuclear_physics,81197|WD~nuclear_physics,81197]]'
 different_from:
-- '[[_Standards/WikiData/WD~nuclear_meltdown,105807]]'
-- '[[_Standards/WikiData/WD~melting,106080]]'
-- '[[_Standards/WikiData/WD~fusion,398377]]'
-- '[[_Standards/WikiData/WD~karyogamy,1454719]]'
+- '[[_Standards/WikiData/WD~nuclear_meltdown,105807|WD~nuclear_meltdown,105807]]'
+- '[[_Standards/WikiData/WD~melting,106080|WD~melting,106080]]'
+- '[[_Standards/WikiData/WD~fusion,398377|WD~fusion,398377]]'
+- '[[_Standards/WikiData/WD~karyogamy,1454719|WD~karyogamy,1454719]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~nuclear_reaction,238323]]'
-- '[[_Standards/WikiData/WD~connection,12819913]]'
-has_use: '[[_Standards/WikiData/WD~fusion_power,641442]]'
-instance_of: '[[_Standards/WikiData/WD~concept_in_physics,33104303]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[_Standards/WikiData/WD~nuclear_reaction,238323|WD~nuclear_reaction,238323]]'
+- '[[_Standards/WikiData/WD~connection,12819913|WD~connection,12819913]]'
+has_use: '[[_Standards/WikiData/WD~fusion_power,641442|WD~fusion_power,641442]]'
+instance_of: '[[_Standards/WikiData/WD~concept_in_physics,33104303|WD~concept_in_physics,33104303]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 OmegaWiki_Defined_Meaning: 2575
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nuclear%20fusion.gif
 U_S_National_Archives_Identifier: 10641972

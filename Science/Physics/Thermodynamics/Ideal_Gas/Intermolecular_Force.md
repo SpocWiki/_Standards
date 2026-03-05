@@ -51,15 +51,15 @@ aliases:
 - 분자간 힘
 has_id_wikidata: Q245031
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrogen_bond,169324]]'
-- "[[_Standards/WikiData/WD~Van_der_Waals'_force,189627]]"
-- '[[_Standards/WikiData/WD~noncovalent_bonding,2915446]]'
-opposite_of: '[[_Standards/WikiData/WD~intramolecular_force,1571801]]'
+- '[[_Standards/WikiData/WD~hydrogen_bond,169324|WD~hydrogen_bond,169324]]'
+- "[[_Standards/WikiData/WD~Van_der_Waals'_force,189627|WD~Van_der_Waals'_force,189627]]"
+- '[[_Standards/WikiData/WD~noncovalent_bonding,2915446|WD~noncovalent_bonding,2915446]]'
+opposite_of: '[[_Standards/WikiData/WD~intramolecular_force,1571801|WD~intramolecular_force,1571801]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-has_effect: '[[_Standards/WikiData/WD~intermolecular_interaction,42601590]]'
-subclass_of: '[[_Standards/WikiData/WD~force,11402]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+has_effect: '[[_Standards/WikiData/WD~intermolecular_interaction,42601590|WD~intermolecular_interaction,42601590]]'
+subclass_of: '[[_Standards/WikiData/WD~force,11402|WD~force,11402]]'
 UMLS_CUI: C0683118
 Commons_category: Intermolecular forces
 dv_has_:

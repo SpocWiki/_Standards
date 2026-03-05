@@ -70,13 +70,13 @@ aliases:
 - 외적
 has_id_wikidata: Q178192
 subclass_of:
-- '[[_Standards/WikiData/WD~binary_operation,164307]]'
-- '[[_Standards/WikiData/WD~vector_multiplication,56457918]]'
-has_characteristic: '[[_Standards/WikiData/WD~anticommutativity,639608]]'
-notation: '[[_Standards/WikiData/WD~multiplication_sign,1900125]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-different_from: '[[_Standards/WikiData/WD~vector_multiplication,56457918]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+- '[[_Standards/WikiData/WD~binary_operation,164307|WD~binary_operation,164307]]'
+- '[[_Standards/WikiData/WD~vector_multiplication,56457918|WD~vector_multiplication,56457918]]'
+has_characteristic: '[[_Standards/WikiData/WD~anticommutativity,639608|WD~anticommutativity,639608]]'
+notation: '[[_Standards/WikiData/WD~multiplication_sign,1900125|WD~multiplication_sign,1900125]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~vector_multiplication,56457918|WD~vector_multiplication,56457918]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
 defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mo stretchy=\"false\">(</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D482</mi></mrow><mo stretchy=\"false\">&#x00D7;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D483</mi></mrow><msub><mo stretchy=\"false\">)</mo><mrow data-mjx-texclass=\"ORD\"><mi>i</mi></mrow></msub><mo stretchy=\"false\">=</mo><munder><mo stretchy=\"false\">&#x2211;</mo><mrow data-mjx-texclass=\"ORD\"><mi>j</mi></mrow></munder><munder><mo stretchy=\"false\">&#x2211;</mo><mrow data-mjx-texclass=\"ORD\"><mi>k</mi></mrow></munder><msub><mi>&#x03B5;</mi><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>i</mi><mi>j</mi><mi>k</mi></mrow></mrow></msub><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>j</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>k</mi></mrow></msub></mstyle></mrow></math>"
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D482</mi></mrow><mo stretchy=\"false\">&#x00D7;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D483</mi></mrow><mo stretchy=\"false\">=</mo><mrow data-mjx-texclass=\"ORD\"><mo data-mjx-texclass=\"OPEN\">(</mo><mtable columnspacing=\"1em\" rowspacing=\"4pt\"><mtr><mtd><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>y</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>z</mi></mrow></msub><mo stretchy=\"false\">&#x2212;</mo><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>z</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>y</mi></mrow></msub></mtd></mtr><mtr><mtd><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>z</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>x</mi></mrow></msub><mo stretchy=\"false\">&#x2212;</mo><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>x</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>z</mi></mrow></msub></mtd></mtr><mtr><mtd><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>x</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>y</mi></mrow></msub><mo stretchy=\"false\">&#x2212;</mo><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>y</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>x</mi></mrow></msub></mtd></mtr></mtable><mo fence=\"true\" stretchy=\"true\" symmetric=\"true\" data-mjx-texclass=\"CLOSE\">)</mo></mrow></mstyle></mrow></math>"

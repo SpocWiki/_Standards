@@ -62,25 +62,25 @@ aliases:
 - 터널
 has_id_wikidata: Q44377
 subclass_of:
-- '[[_Standards/WikiData/WD~thoroughfare,83620]]'
-- '[[_Standards/WikiData/WD~mine_opening,1550194]]'
-- '[[_Standards/WikiData/WD~underground_structure,12146012]]'
+- '[[_Standards/WikiData/WD~thoroughfare,83620|WD~thoroughfare,83620]]'
+- '[[_Standards/WikiData/WD~mine_opening,1550194|WD~mine_opening,1550194]]'
+- '[[_Standards/WikiData/WD~underground_structure,12146012|WD~underground_structure,12146012]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Tajik_Soviet_Encyclopedia,3567092]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-instance_of: '[[_Standards/WikiData/WD~geographical_feature,618123]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Tajik_Soviet_Encyclopedia,3567092|WD~Tajik_Soviet_Encyclopedia,3567092]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+instance_of: '[[_Standards/WikiData/WD~geographical_feature,618123|WD~geographical_feature,618123]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~adit_entrance,2780955]]'
-- '[[_Standards/WikiData/WD~tunnel_lining,16682031]]'
+- '[[_Standards/WikiData/WD~adit_entrance,2780955|WD~adit_entrance,2780955]]'
+- '[[_Standards/WikiData/WD~tunnel_lining,16682031|WD~tunnel_lining,16682031]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_tunnel,6763143]]'
-- '[[_Standards/WikiData/WD~Q10743247,10743247]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_tunnel,6763143|WD~Template_Infobox_tunnel,6763143]]'
+- '[[_Standards/WikiData/WD~Q10743247,10743247|WD~Q10743247,10743247]]'
 Nomenclature_for_Museum_Cataloging: 932
 IMDb_keyword: tunnel
 OpenStreetMap_key: tunnel

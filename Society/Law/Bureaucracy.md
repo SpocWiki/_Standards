@@ -64,21 +64,21 @@ aliases:
 - 官僚组织
 - 관료제
 has_id_wikidata: Q72468
-opposite_of: '[[_Standards/WikiData/WD~adhocracy,356648]]'
-practiced_by: '[[_Standards/WikiData/WD~bureaucrat,572700]]'
+opposite_of: '[[_Standards/WikiData/WD~adhocracy,356648|WD~adhocracy,356648]]'
+practiced_by: '[[_Standards/WikiData/WD~bureaucrat,572700|WD~bureaucrat,572700]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-has_effect: '[[_Standards/WikiData/WD~iron_law_of_oligarchy,1299608]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
+has_effect: '[[_Standards/WikiData/WD~iron_law_of_oligarchy,1299608|WD~iron_law_of_oligarchy,1299608]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~tripartite_classification_of_authority,3565078]]'
-- '[[_Standards/WikiData/WD~public_administration,31728]]'
+- '[[_Standards/WikiData/WD~tripartite_classification_of_authority,3565078|WD~tripartite_classification_of_authority,3565078]]'
+- '[[_Standards/WikiData/WD~public_administration,31728|WD~public_administration,31728]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-B%C3%BCrokratie.ogg
-instance_of: '[[_Standards/WikiData/WD~political_system,28108]]'
+instance_of: '[[_Standards/WikiData/WD~political_system,28108|WD~political_system,28108]]'
 OmegaWiki_Defined_Meaning: 432866
 U_S_National_Archives_Identifier: 10636611
 Commons_category: Bureaucracy

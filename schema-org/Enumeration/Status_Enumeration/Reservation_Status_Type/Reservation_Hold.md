@@ -27,9 +27,9 @@ tags:
 title: is_a_reservation_hold Class
 type: Type
 dv_has_:
-  parent_class: "[[../ReservationStatusType]]"
+  parent_class: "[[../ReservationStatusType|ReservationStatusType]]"
 dv_is_:
-  enum_of: "[[../ReservationStatusType]]"
+  enum_of: "[[../ReservationStatusType|ReservationStatusType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold|Reservation_Hold]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.public|Reservation_Hold.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.personal|Reservation_Hold.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.secret|Reservation_Hold.secret]]"
     - "[[Reservation_Hold]]"
-dv_has_parent_class: "[[../ReservationStatusType]]"
-dv_is_enum_of: "[[../ReservationStatusType]]"
+dv_has_parent_class: "[[../ReservationStatusType|ReservationStatusType]]"
+dv_is_enum_of: "[[../ReservationStatusType|ReservationStatusType]]"
 dv_is_same_as:
   - "[[Reservation_Hold]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.public|Reservation_Hold.public]]"

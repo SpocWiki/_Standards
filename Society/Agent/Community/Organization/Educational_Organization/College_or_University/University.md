@@ -159,40 +159,40 @@ aliases:
 - 대학
 has_id_wikidata: Q3918
 model_item:
-- '[[_Standards/WikiData/WD~University_of_Bologna,131262]]'
-- '[[_Standards/WikiData/WD~University_of_al_Qarawiyyin,378014]]'
-- '[[_Standards/WikiData/WD~University_of_Mumbai,406402]]'
-- '[[_Standards/WikiData/WD~Keio_University,815432]]'
-- '[[_Standards/WikiData/WD~University_of_Oxford,34433]]'
-field_of_work: '[[_Standards/WikiData/WD~higher_education,136822]]'
+- '[[_Standards/WikiData/WD~University_of_Bologna,131262|WD~University_of_Bologna,131262]]'
+- '[[_Standards/WikiData/WD~University_of_al_Qarawiyyin,378014|WD~University_of_al_Qarawiyyin,378014]]'
+- '[[_Standards/WikiData/WD~University_of_Mumbai,406402|WD~University_of_Mumbai,406402]]'
+- '[[_Standards/WikiData/WD~Keio_University,815432|WD~Keio_University,815432]]'
+- '[[_Standards/WikiData/WD~University_of_Oxford,34433|WD~University_of_Oxford,34433]]'
+field_of_work: '[[_Standards/WikiData/WD~higher_education,136822|WD~higher_education,136822]]'
 follows:
-- '[[_Standards/WikiData/WD~secondary_school,159334]]'
-- '[[_Standards/WikiData/WD~baccalaureate,3758042]]'
+- '[[_Standards/WikiData/WD~secondary_school,159334|WD~secondary_school,159334]]'
+- '[[_Standards/WikiData/WD~baccalaureate,3758042|WD~baccalaureate,3758042]]'
 different_from:
-- '[[_Standards/WikiData/WD~college,189004]]'
-- "[[_Standards/WikiData/WD~université_d'été,3551559]]"
-- '[[_Standards/WikiData/WD~professional_and_vocational_university,30934637]]'
+- '[[_Standards/WikiData/WD~college,189004|WD~college,189004]]'
+- "[[_Standards/WikiData/WD~université_d'été,3551559|WD~université_d'été,3551559]]"
+- '[[_Standards/WikiData/WD~professional_and_vocational_university,30934637|WD~professional_and_vocational_university,30934637]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-history_of_topic: '[[_Standards/WikiData/WD~university_history,1667633]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+history_of_topic: '[[_Standards/WikiData/WD~university_history,1667633|WD~university_history,1667633]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~academic_institution,4671277]]'
-- '[[_Standards/WikiData/WD~geolocatable_entity,123349660]]'
-- '[[_Standards/WikiData/WD~higher_education_institution,38723]]'
+- '[[_Standards/WikiData/WD~academic_institution,4671277|WD~academic_institution,4671277]]'
+- '[[_Standards/WikiData/WD~geolocatable_entity,123349660|WD~geolocatable_entity,123349660]]'
+- '[[_Standards/WikiData/WD~higher_education_institution,38723|WD~higher_education_institution,38723]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_university,5624848]]'
-- '[[_Standards/WikiData/WD~Template_Universities_in_Gujarat,20322350]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Higher_education,8486755]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_University,11290210]]'
-uses: '[[_Standards/WikiData/WD~university_building,19844914]]'
-has_characteristic: '[[_Standards/WikiData/WD~Q108401094,108401094]]'
-main_regulatory_text: '[[_Standards/WikiData/WD~Higher_Education_Act,110217751]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_educational_institution,112872396]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_university,5624848|WD~Template_Infobox_university,5624848]]'
+- '[[_Standards/WikiData/WD~Template_Universities_in_Gujarat,20322350|WD~Template_Universities_in_Gujarat,20322350]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Higher_education,8486755|WD~WikiProject_Higher_education,8486755]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_University,11290210|WD~Portal_University,11290210]]'
+uses: '[[_Standards/WikiData/WD~university_building,19844914|WD~university_building,19844914]]'
+has_characteristic: '[[_Standards/WikiData/WD~Q108401094,108401094|WD~Q108401094,108401094]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Higher_Education_Act,110217751|WD~Higher_Education_Act,110217751]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_educational_institution,112872396|WD~type_of_educational_institution,112872396]]'
 properties_for_this_type:
 - inception
 - dissolved, abolished or demolished date

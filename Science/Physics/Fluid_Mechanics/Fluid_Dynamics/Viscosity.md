@@ -75,21 +75,21 @@ aliases:
 - 黏度
 - 점성
 has_id_wikidata: Q128709
-facet_of: '[[_Standards/WikiData/WD~friction,82580]]'
-studied_by: '[[../../../../WikiData/WD~Rheology,271707]]'
-different_from: '[[_Standards/WikiData/WD~plasticity,472074]]'
+facet_of: '[[_Standards/WikiData/WD~friction,82580|WD~friction,82580]]'
+studied_by: '[[../../../../WikiData/WD~Rheology,271707|WD~Rheology,271707]]'
+different_from: '[[_Standards/WikiData/WD~plasticity,472074|WD~plasticity,472074]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~intensive_quantity,3387041]]'
-- '[[_Standards/WikiData/WD~properties_of_water,6478447]]'
-- '[[_Standards/WikiData/WD~resistance_force,110558361]]'
+- '[[_Standards/WikiData/WD~intensive_quantity,3387041|WD~intensive_quantity,3387041]]'
+- '[[_Standards/WikiData/WD~properties_of_water,6478447|WD~properties_of_water,6478447]]'
+- '[[_Standards/WikiData/WD~resistance_force,110558361|WD~resistance_force,110558361]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-instance_of: '[[_Standards/WikiData/WD~mechanical_property,5725005]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Q124512574,124512574]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+instance_of: '[[_Standards/WikiData/WD~mechanical_property,5725005|WD~mechanical_property,5725005]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Q124512574,124512574|WD~Q124512574,124512574]]'
 OmegaWiki_Defined_Meaning: 3972
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BC;</mi><mo stretchy="false">:</mo><mi>F</mi><mo stretchy="false">=</mo><mi>&#x03BC;</mi><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>d</mi><mi>u</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>d</mi><mi>y</mi></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Honey%20from%20jar.jpg

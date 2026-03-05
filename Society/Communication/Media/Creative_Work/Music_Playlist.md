@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A collection of music tracks in playlist form.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ MusicAlbum, MusicRelease ]  
 

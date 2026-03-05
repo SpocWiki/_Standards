@@ -56,14 +56,14 @@ location:
 - 45.500833333
 - -73.561944444
 legal_form:
-- '[[_Standards/WikiData/WD~foundation,157031]]'
-- '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
-instance_of: '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
-headquarters_location: '[[_Standards/WikiData/WD~Tour_de_la_Bourse,1702873]]'
-chairperson: '[[_Standards/WikiData/WD~Witold_Bańka,3569510]]'
-board_member: '[[_Standards/WikiData/WD~Andrew_Parsons,47537752]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Montreal,340]]'
-country: '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~foundation,157031|WD~foundation,157031]]'
+- '[[_Standards/WikiData/WD~nonprofit_organization,163740|WD~nonprofit_organization,163740]]'
+instance_of: '[[_Standards/WikiData/WD~nonprofit_organization,163740|WD~nonprofit_organization,163740]]'
+headquarters_location: '[[_Standards/WikiData/WD~Tour_de_la_Bourse,1702873|WD~Tour_de_la_Bourse,1702873]]'
+chairperson: '[[_Standards/WikiData/WD~Witold_Bańka,3569510|WD~Witold_Bańka,3569510]]'
+board_member: '[[_Standards/WikiData/WD~Andrew_Parsons,47537752|WD~Andrew_Parsons,47537752]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Montreal,340|WD~Montreal,340]]'
+country: '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
 donations: 0
 social_media_followers: 46476
 number_of_viewers_listeners: 809534

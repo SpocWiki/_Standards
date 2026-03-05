@@ -108,22 +108,22 @@ aliases:
 - 나눗셈
 has_id_wikidata: Q1226939
 subclass_of:
-- '[[_Standards/WikiData/WD~binary_operation,164307]]'
-- '[[_Standards/WikiData/WD~computational_problem,3435924]]'
-different_from: '[[_Standards/WikiData/WD~division,334460]]'
+- '[[_Standards/WikiData/WD~binary_operation,164307|WD~binary_operation,164307]]'
+- '[[_Standards/WikiData/WD~computational_problem,3435924|WD~computational_problem,3435924]]'
+different_from: '[[_Standards/WikiData/WD~division,334460|WD~division,334460]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
-notation: '[[_Standards/WikiData/WD~_,633466]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+notation: '[[_Standards/WikiData/WD~_,633466|WD~_,633466]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~remainder,846677]]'
-- '[[_Standards/WikiData/WD~dividend,16515667]]'
-- '[[_Standards/WikiData/WD~divisor,16698747]]'
-- '[[_Standards/WikiData/WD~quotient,41118]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-opposite_of: '[[_Standards/WikiData/WD~multiplication,40276]]'
+- '[[_Standards/WikiData/WD~remainder,846677|WD~remainder,846677]]'
+- '[[_Standards/WikiData/WD~dividend,16515667|WD~dividend,16515667]]'
+- '[[_Standards/WikiData/WD~divisor,16698747|WD~divisor,16698747]]'
+- '[[_Standards/WikiData/WD~quotient,41118|WD~quotient,41118]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+opposite_of: '[[_Standards/WikiData/WD~multiplication,40276|WD~multiplication,40276]]'
 OmegaWiki_Defined_Meaning: 367345
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Divisi%C3%B3n.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q1226939-ar.oga

@@ -125,7 +125,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 > received a doctorate in aeronautics and mathematics there in 1939, 
 > and became an associate professor at Caltech in 1943. 
 > 
-> While at [[../../America~North/Caltech]], he co-founded NASA's Jet Propulsion Laboratory. 
+> While at [[../../America~North/Caltech|Caltech]], he co-founded NASA's Jet Propulsion Laboratory. 
 > He was recruited by the United States Department of Defense and the Department of War 
 > to serve in various positions, including as an expert consultant with a rank of colonel in 1945. 
 > At the same time, he became an associate professor at MIT in 1946, 

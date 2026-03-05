@@ -275,7 +275,7 @@ dv_has_:
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 `$=Math.round((new Date() - dv.current().has_time_started)/1000 /60 /60 /24 /365.2425)` years ago 
 
-![[../../../../../../../../assets/Pictures/People/Public/Monty_Python/Terry_Jones.jpg]]  
+![[../../../../../../../../assets/Pictures/People/Public/Monty_Python/Terry_Jones.jpg|Terry_Jones.jpg]]  
 
 > Terence Graham Parry Jones (1 February 1942 – 21 January 2020) 
 > was a Welsh actor, comedian, director, popular historian, writer 

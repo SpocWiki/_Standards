@@ -60,22 +60,22 @@ aliases:
 - 임피던스
 has_id_wikidata: Q179043
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~phasor,827674]]'
-- '[[_Standards/WikiData/WD~immittance,6124455]]'
-- '[[_Standards/WikiData/WD~electrical_resistance,25358]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~phasor,827674|WD~phasor,827674]]'
+- '[[_Standards/WikiData/WD~immittance,6124455|WD~immittance,6124455]]'
+- '[[_Standards/WikiData/WD~electrical_resistance,25358|WD~electrical_resistance,25358]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~electric_reactance,193972]]'
-- '[[_Standards/WikiData/WD~electrical_resistance,25358]]'
-opposite_of: '[[_Standards/WikiData/WD~admittance,214518]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~electric_reactance,193972|WD~electric_reactance,193972]]'
+- '[[_Standards/WikiData/WD~electrical_resistance,25358|WD~electrical_resistance,25358]]'
+opposite_of: '[[_Standards/WikiData/WD~admittance,214518|WD~admittance,214518]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936|WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945|WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~kilogram_square_metre_per_cubic_second_square_ampere,119205557]]'
-- '[[_Standards/WikiData/WD~ohm,47083]]'
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_cubic_second_square_ampere,119205557|WD~kilogram_square_metre_per_cubic_second_square_ampere,119205557]]'
+- '[[_Standards/WikiData/WD~ohm,47083|WD~ohm,47083]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><munder><mi>I</mi><mo>_</mo></munder></mrow></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><munder><mi>U</mi><mo>_</mo></munder></mrow></mstyle></mrow></math>

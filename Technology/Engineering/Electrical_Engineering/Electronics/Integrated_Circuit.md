@@ -89,25 +89,25 @@ aliases:
 - 집적 회로
 has_id_wikidata: Q80831
 subclass_of:
-- '[[_Standards/WikiData/WD~semiconductor_device,175805]]'
-- '[[_Standards/WikiData/WD~electronic_circuit,1815901]]'
-- '[[_Standards/WikiData/WD~miniaturized_device,110829085]]'
-- '[[_Standards/WikiData/WD~electronic_component,11653]]'
+- '[[_Standards/WikiData/WD~semiconductor_device,175805|WD~semiconductor_device,175805]]'
+- '[[_Standards/WikiData/WD~electronic_circuit,1815901|WD~electronic_circuit,1815901]]'
+- '[[_Standards/WikiData/WD~miniaturized_device,110829085|WD~miniaturized_device,110829085]]'
+- '[[_Standards/WikiData/WD~electronic_component,11653|WD~electronic_component,11653]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~gallium_arsenide,422819]]'
-- '[[_Standards/WikiData/WD~dopant,15119237]]'
-- '[[_Standards/WikiData/WD~aluminium,663]]'
-- '[[_Standards/WikiData/WD~silicon,670]]'
-- '[[_Standards/WikiData/WD~copper,753]]'
+- '[[_Standards/WikiData/WD~gallium_arsenide,422819|WD~gallium_arsenide,422819]]'
+- '[[_Standards/WikiData/WD~dopant,15119237|WD~dopant,15119237]]'
+- '[[_Standards/WikiData/WD~aluminium,663|WD~aluminium,663]]'
+- '[[_Standards/WikiData/WD~silicon,670|WD~silicon,670]]'
+- '[[_Standards/WikiData/WD~copper,753|WD~copper,753]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~die,1072430]]'
-- '[[_Standards/WikiData/WD~integrated_circuit_packaging_type,1074550]]'
+- '[[_Standards/WikiData/WD~die,1072430|WD~die,1072430]]'
+- '[[_Standards/WikiData/WD~integrated_circuit_packaging_type,1074550|WD~integrated_circuit_packaging_type,1074550]]'
 part_of:
-- '[[_Standards/WikiData/WD~electronic_circuit,1815901]]'
-- '[[_Standards/WikiData/WD~motherboard,4321]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~chip_(electronic),12569536]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_integrated_circuit,22871582]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]'
+- '[[_Standards/WikiData/WD~electronic_circuit,1815901|WD~electronic_circuit,1815901]]'
+- '[[_Standards/WikiData/WD~motherboard,4321|WD~motherboard,4321]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~chip_(electronic),12569536|WD~chip_(electronic),12569536]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_integrated_circuit,22871582|WD~Template_Infobox_integrated_circuit,22871582]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960|WD~type_of_electronic_component,125517960]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NXP%20PCF8577C%20LCD%20driver%20with%20I%C2%B2C%20%28Colour%20Corrected%29.jpg
 time_of_discovery_or_invention: 1958-01-01T00:00:00Z
 patent_number:

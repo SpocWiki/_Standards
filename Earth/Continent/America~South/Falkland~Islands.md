@@ -382,51 +382,51 @@ SpocWebEntityId: 26893
 tags:
 - geo/Country
 type: Country
-flag: '[[_Standards/WikiData/WD~flag_of_the_Falkland_Islands,185273]]'
-currency: '[[_Standards/WikiData/WD~Falkland_Islands_pound,330044]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_the_Falkland_Islands,437414]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Falkland_Islands,185273|WD~flag_of_the_Falkland_Islands,185273]]'
+currency: '[[_Standards/WikiData/WD~Falkland_Islands_pound,330044|WD~Falkland_Islands_pound,330044]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_the_Falkland_Islands,437414|WD~coat_of_arms_of_the_Falkland_Islands,437414]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Falkland_Islands,1249802]]'
-different_from: '[[_Standards/WikiData/WD~Falkland_Islands,1249802]]'
-electrical_plug_type: '[[_Standards/WikiData/WD~BS_1363,1528507]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Falkland_Islands,1249802|WD~Falkland_Islands,1249802]]'
+different_from: '[[_Standards/WikiData/WD~Falkland_Islands,1249802|WD~Falkland_Islands,1249802]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~BS_1363,1528507|WD~BS_1363,1528507]]'
 legislative_body:
-- '[[_Standards/WikiData/WD~Legislative_Assembly_of_the_Falkland_Islands,3365321]]'
-- '[[_Standards/WikiData/WD~Legislative_Council_of_the_Falkland_Islands,15208851]]'
-culture: '[[_Standards/WikiData/WD~culture_of_the_Falkland_Islands,4543406]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Falkland_Islands,5333823]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Falkland_Islands,7112760]]'
+- '[[_Standards/WikiData/WD~Legislative_Assembly_of_the_Falkland_Islands,3365321|WD~Legislative_Assembly_of_the_Falkland_Islands,3365321]]'
+- '[[_Standards/WikiData/WD~Legislative_Council_of_the_Falkland_Islands,15208851|WD~Legislative_Council_of_the_Falkland_Islands,15208851]]'
+culture: '[[_Standards/WikiData/WD~culture_of_the_Falkland_Islands,4543406|WD~culture_of_the_Falkland_Islands,4543406]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Falkland_Islands,5333823|WD~economy_of_the_Falkland_Islands,5333823]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Falkland_Islands,7112760|WD~outline_of_the_Falkland_Islands,7112760]]'
 office_held_by_head_of_state:
-- '[[_Standards/WikiData/WD~monarch_of_the_United_Kingdom,9134365]]'
-- '[[_Standards/WikiData/WD~Governor_of_the_Falkland_Islands,16140777]]'
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Falkland_Islands,15584802]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q31976964,31976964]]'
+- '[[_Standards/WikiData/WD~monarch_of_the_United_Kingdom,9134365|WD~monarch_of_the_United_Kingdom,9134365]]'
+- '[[_Standards/WikiData/WD~Governor_of_the_Falkland_Islands,16140777|WD~Governor_of_the_Falkland_Islands,16140777]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Falkland_Islands,15584802|WD~Portal_Falkland_Islands,15584802]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q31976964,31976964|WD~Q31976964,31976964]]'
 territory_claimed_by:
-- '[[_Standards/WikiData/WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-official_language: '[[_Standards/WikiData/WD~English,1860]]'
-language_used: '[[_Standards/WikiData/WD~English,1860]]'
-public_holiday: '[[_Standards/WikiData/WD~June_14,2612]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
-capital: '[[_Standards/WikiData/WD~Stanley,12245]]'
-part_of: '[[_Standards/WikiData/WD~South_America,18]]'
-continent: '[[_Standards/WikiData/WD~South_America,18]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+official_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+language_used: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+public_holiday: '[[_Standards/WikiData/WD~June_14,2612|WD~June_14,2612]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_03_00,6513|WD~UTC_03_00,6513]]'
+capital: '[[_Standards/WikiData/WD~Stanley,12245|WD~Stanley,12245]]'
+part_of: '[[_Standards/WikiData/WD~South_America,18|WD~South_America,18]]'
+continent: '[[_Standards/WikiData/WD~South_America,18|WD~South_America,18]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 mains_voltage: 240
 area: 12200
-anthem: '[[_Standards/WikiData/WD~God_Save_the_King,40807]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.fk,42625]]'
-head_of_state: '[[_Standards/WikiData/WD~Charles_III,43274]]'
-instance_of: '[[_Standards/WikiData/WD~British_overseas_territories,46395]]'
+anthem: '[[_Standards/WikiData/WD~God_Save_the_King,40807|WD~God_Save_the_King,40807]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.fk,42625|WD~.fk,42625]]'
+head_of_state: '[[_Standards/WikiData/WD~Charles_III,43274|WD~Charles_III,43274]]'
+instance_of: '[[_Standards/WikiData/WD~British_overseas_territories,46395|WD~British_overseas_territories,46395]]'
 population: 4550
 ISO_3166_1_numeric_code: 238
 M49_code: 238
@@ -485,7 +485,7 @@ Unicode_character: 🇫🇰
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Falkland~Islands/ReadMe]] 
+[[Falkland~Islands/ReadMe|ReadMe]] 
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
@@ -509,7 +509,7 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
-Capital :: [[Falkland~Islands/City/Stanley]]  
+Capital :: [[Falkland~Islands/City/Stanley|Stanley]]  
 [Alcohol-l::]
 [Language-Id::]
 has_place_longitude = `=this.dv_has_place_longitude`

@@ -67,21 +67,21 @@ aliases:
 - 연방주의
 has_id_wikidata: Q204886
 different_from:
-- '[[_Standards/WikiData/WD~separation_of_powers,79896]]'
-- '[[_Standards/WikiData/WD~federal_system,22676603]]'
-- '[[_Standards/WikiData/WD~confederalism,130734314]]'
+- '[[_Standards/WikiData/WD~separation_of_powers,79896|WD~separation_of_powers,79896]]'
+- '[[_Standards/WikiData/WD~federal_system,22676603|WD~federal_system,22676603]]'
+- '[[_Standards/WikiData/WD~confederalism,130734314|WD~confederalism,130734314]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~anti_federalism,257855]]'
-- '[[_Standards/WikiData/WD~unitarism,3140798]]'
-facet_of: '[[_Standards/WikiData/WD~multi_level_governance,1459305]]'
-practiced_by: '[[_Standards/WikiData/WD~federalist,5440576]]'
+- '[[_Standards/WikiData/WD~anti_federalism,257855|WD~anti_federalism,257855]]'
+- '[[_Standards/WikiData/WD~unitarism,3140798|WD~unitarism,3140798]]'
+facet_of: '[[_Standards/WikiData/WD~multi_level_governance,1459305|WD~multi_level_governance,1459305]]'
+practiced_by: '[[_Standards/WikiData/WD~federalist,5440576|WD~federalist,5440576]]'
 instance_of:
-- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-- '[[_Standards/WikiData/WD~political_concept,33104069]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~political_concept,33104069|WD~political_concept,33104069]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
 has_goal:
-- '[[_Standards/WikiData/WD~federal_system,22676603]]'
-- '[[_Standards/WikiData/WD~federation,43702]]'
+- '[[_Standards/WikiData/WD~federal_system,22676603|WD~federal_system,22676603]]'
+- '[[_Standards/WikiData/WD~federation,43702|WD~federation,43702]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/La%20esp%20Rep.%20Federal%2C%20Rep.%20Unitaria%20%282%29.JPG
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20federal%20states.svg
 Basisklassifikation: 89.37

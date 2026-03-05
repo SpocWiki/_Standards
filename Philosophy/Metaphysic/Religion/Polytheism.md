@@ -83,14 +83,14 @@ aliases:
 - 多神论
 - 다신교
 has_id_wikidata: Q9163
-subclass_of: '[[_Standards/WikiData/WD~theism,620805]]'
+subclass_of: '[[_Standards/WikiData/WD~theism,620805|WD~theism,620805]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~religious_belief,2728698]]'
-different_from: '[[_Standards/WikiData/WD~polyethism,3395889]]'
-opposite_of: '[[_Standards/WikiData/WD~monotheism,9159]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~religious_belief,2728698|WD~religious_belief,2728698]]'
+different_from: '[[_Standards/WikiData/WD~polyethism,3395889|WD~polyethism,3395889]]'
+opposite_of: '[[_Standards/WikiData/WD~monotheism,9159|WD~monotheism,9159]]'
 Commons_category: Deities
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Zucchi%20-%20The%20Assembly%20of%20the%20Gods%20-%20WGA26036.jpg
 Universal_Decimal_Classification: 2-157

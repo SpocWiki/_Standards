@@ -92,7 +92,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > The **City of Lost Children** (French: La Cité des enfants perdus) 
-> is a 1995 science fantasy film directed by Marc Caro and [[../../Movie-Director/Jeunet,Jean-Pierre]], 
+> is a 1995 science fantasy film directed by Marc Caro and [[../../Movie-Director/Jeunet,Jean-Pierre|Jeunet,Jean-Pierre]], 
 > written by Jeunet and Gilles Adrien, and starring Ron Perlman. 
 > 
 > An international co-production of companies from France, Germany, and Spain, 

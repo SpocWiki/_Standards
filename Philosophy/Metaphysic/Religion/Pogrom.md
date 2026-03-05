@@ -31,25 +31,25 @@ aliases:
 - 波格罗姆
 - 포그롬
 has_id_wikidata: Q177716
-significant_event: '[[_Standards/WikiData/WD~Anti_Jewish_pogroms_in_the_Russian_Empire,247735]]'
+significant_event: '[[_Standards/WikiData/WD~Anti_Jewish_pogroms_in_the_Russian_Empire,247735|WD~Anti_Jewish_pogroms_in_the_Russian_Empire,247735]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mass_murder,750215]]'
-- '[[_Standards/WikiData/WD~violent_crime,1520311]]'
-- '[[_Standards/WikiData/WD~religious_violence,2540524]]'
-- '[[_Standards/WikiData/WD~political_crime,2571535]]'
-- '[[_Standards/WikiData/WD~ethnic_riot,3588250]]'
-- '[[_Standards/WikiData/WD~communal_violence,5153967]]'
-has_goal: '[[_Standards/WikiData/WD~massacre,3199915]]'
+- '[[_Standards/WikiData/WD~mass_murder,750215|WD~mass_murder,750215]]'
+- '[[_Standards/WikiData/WD~violent_crime,1520311|WD~violent_crime,1520311]]'
+- '[[_Standards/WikiData/WD~religious_violence,2540524|WD~religious_violence,2540524]]'
+- '[[_Standards/WikiData/WD~political_crime,2571535|WD~political_crime,2571535]]'
+- '[[_Standards/WikiData/WD~ethnic_riot,3588250|WD~ethnic_riot,3588250]]'
+- '[[_Standards/WikiData/WD~communal_violence,5153967|WD~communal_violence,5153967]]'
+has_goal: '[[_Standards/WikiData/WD~massacre,3199915|WD~massacre,3199915]]'
 different_from:
-- '[[_Standards/WikiData/WD~massacre,3199915]]'
-- '[[_Standards/WikiData/WD~evil_decree,12404893]]'
-facet_of: '[[_Standards/WikiData/WD~antisemitism,22649]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~persecution_of_Jews,48136]]'
+- '[[_Standards/WikiData/WD~massacre,3199915|WD~massacre,3199915]]'
+- '[[_Standards/WikiData/WD~evil_decree,12404893|WD~evil_decree,12404893]]'
+facet_of: '[[_Standards/WikiData/WD~antisemitism,22649|WD~antisemitism,22649]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~persecution_of_Jews,48136|WD~persecution_of_Jews,48136]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Pogrom2.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VICTIMS%20OF%20IASI%20POGROM.jpg
 Commons_category: Pogroms
@@ -144,7 +144,7 @@ dv_has_:
 
 # [[Pogrom]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~pogrom,177716]] 
+#is_/same_as :: [[_Standards/WikiData/WD~pogrom,177716|WD~pogrom,177716]] 
 
 ## #has_/text_of_/abstract 
 

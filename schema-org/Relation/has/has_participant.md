@@ -57,7 +57,7 @@ dv_has_:
       - "[[has_participant/has_opponent|has_opponent]]"
       - "[[has_participant/has_real_estate_agent|has_real_estate_agent]]"
       - "[[has_participant/has_recipient|has_recipient]]"
-      - "[[has_participant/has_seller]]"
+      - "[[has_participant/has_seller|has_seller]]"
       - "[[has_participant/has_sender|has_sender]]"
       - "[[has_participant/has_sports_team|has_sports_team]]"
       - "[[has_participant/has_seller|has_vendor]]"

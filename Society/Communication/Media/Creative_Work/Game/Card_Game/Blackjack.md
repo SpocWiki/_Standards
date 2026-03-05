@@ -33,11 +33,11 @@ aliases:
 - 廿一點
 - 블랙잭
 has_id_wikidata: Q228044
-subclass_of: '[[_Standards/WikiData/WD~card_game,142714]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+subclass_of: '[[_Standards/WikiData/WD~card_game,142714|WD~card_game,142714]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of:
-- '[[_Standards/WikiData/WD~game_of_chance,3590573]]'
-- '[[_Standards/WikiData/WD~card_game_type,122841050]]'
+- '[[_Standards/WikiData/WD~game_of_chance,3590573|WD~game_of_chance,3590573]]'
+- '[[_Standards/WikiData/WD~card_game_type,122841050|WD~card_game_type,122841050]]'
 Commons_category: Blackjack
 IMDb_keyword: blackjack
 subreddit: blackjack

@@ -50,15 +50,15 @@ aliases:
 - 배전
 has_id_wikidata: Q844861
 subclass_of:
-- '[[_Standards/WikiData/WD~electrical_energy,206799]]'
-- '[[_Standards/WikiData/WD~electric_power_generation,_transmission_and_distribution,1326594]]'
+- '[[_Standards/WikiData/WD~electrical_energy,206799|WD~electrical_energy,206799]]'
+- '[[_Standards/WikiData/WD~electric_power_generation,_transmission_and_distribution,1326594|WD~electric_power_generation,_transmission_and_distribution,1326594]]'
 different_from:
-- '[[_Standards/WikiData/WD~trade_of_electricity,2356921]]'
-- '[[_Standards/WikiData/WD~electricity_distribution,112165528]]'
-instance_of: '[[../../../WikiData/WD~economic_activity,8187769]]'
-uses: '[[_Standards/WikiData/WD~electric_power_distribution_network,16920551]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~low_voltage_network,48995895]]'
-part_of: '[[_Standards/WikiData/WD~class_in_NACE_rev.2_classification_of_productive_activities,112122609]]'
+- '[[_Standards/WikiData/WD~trade_of_electricity,2356921|WD~trade_of_electricity,2356921]]'
+- '[[_Standards/WikiData/WD~electricity_distribution,112165528|WD~electricity_distribution,112165528]]'
+instance_of: '[[../../../WikiData/WD~economic_activity,8187769|WD~economic_activity,8187769]]'
+uses: '[[_Standards/WikiData/WD~electric_power_distribution_network,16920551|WD~electric_power_distribution_network,16920551]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~low_voltage_network,48995895|WD~low_voltage_network,48995895]]'
+part_of: '[[_Standards/WikiData/WD~class_in_NACE_rev.2_classification_of_productive_activities,112122609|WD~class_in_NACE_rev.2_classification_of_productive_activities,112122609]]'
 catalog_code: 3513
 name:
 - Elektrizitätsverteilung
@@ -149,7 +149,7 @@ dv_has_:
 
 # [[Electric_Power_Distribution]] 
 
-#is_/different_from :: [[Electric_Power_Distribution/Electric_Power_Transmission]]  
+#is_/different_from :: [[Electric_Power_Distribution/Electric_Power_Transmission|Electric_Power_Transmission]]  
 #is_/same_as :: [[../../../WikiData/WD~Electric_power_distribution,844861|WD~Electric_power_distribution,844861]] 
 
 ## #has_/text_of_/abstract 

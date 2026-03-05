@@ -54,17 +54,17 @@ aliases:
 - 트랙 및 필드
 has_id_wikidata: Q3312129
 uses:
-- '[[_Standards/WikiData/WD~athletics_track,1004435]]'
-- '[[_Standards/WikiData/WD~starting_pistol,1543471]]'
-- '[[_Standards/WikiData/WD~starting_blocks,2703864]]'
-- '[[_Standards/WikiData/WD~running_shoe,33612712]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Athletics_events,10505794]]'
-practiced_by: '[[_Standards/WikiData/WD~athletics_competitor,11513337]]'
-described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-different_from: '[[_Standards/WikiData/WD~athletics,542]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~athletics,542]]'
-subclass_of: '[[_Standards/WikiData/WD~athletics,542]]'
+- '[[_Standards/WikiData/WD~athletics_track,1004435|WD~athletics_track,1004435]]'
+- '[[_Standards/WikiData/WD~starting_pistol,1543471|WD~starting_pistol,1543471]]'
+- '[[_Standards/WikiData/WD~starting_blocks,2703864|WD~starting_blocks,2703864]]'
+- '[[_Standards/WikiData/WD~running_shoe,33612712|WD~running_shoe,33612712]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Athletics_events,10505794|WD~Template_Athletics_events,10505794]]'
+practiced_by: '[[_Standards/WikiData/WD~athletics_competitor,11513337|WD~athletics_competitor,11513337]]'
+described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+different_from: '[[_Standards/WikiData/WD~athletics,542|WD~athletics,542]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~athletics,542|WD~athletics,542]]'
+subclass_of: '[[_Standards/WikiData/WD~athletics,542|WD~athletics,542]]'
 IAB_code: 540
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Athletics%20pictogram.svg
 U_S_National_Archives_Identifier: 10647146
@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Track_and_Field]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~track_and_field,3312129]] 
+#is_/same_as :: [[_Standards/WikiData/WD~track_and_field,3312129|WD~track_and_field,3312129]] 
 
 ## #has_/text_of_/abstract 
 

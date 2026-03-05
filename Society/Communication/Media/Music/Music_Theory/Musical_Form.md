@@ -57,19 +57,19 @@ aliases:
 - 악곡의 형식
 has_id_wikidata: Q862597
 different_from:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~musical_form,3328534]]'
-- '[[_Standards/WikiData/WD~musical_style,11921029]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_form,3328534|WD~musical_form,3328534]]'
+- '[[_Standards/WikiData/WD~musical_style,11921029|WD~musical_style,11921029]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,2152210]]"
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,2152210|WD~Riemann's_Music_Dictionary,2152210]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~form_of_art,1437361]]'
-- '[[_Standards/WikiData/WD~structure,6671777]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Music,5830855]]'
-instance_of: '[[_Standards/WikiData/WD~metaclass,19478619]]'
-studied_by: '[[_Standards/WikiData/WD~musical_form_study,96621382]]'
+- '[[_Standards/WikiData/WD~form_of_art,1437361|WD~form_of_art,1437361]]'
+- '[[_Standards/WikiData/WD~structure,6671777|WD~structure,6671777]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Music,5830855|WD~WikiProject_Music,5830855]]'
+instance_of: '[[_Standards/WikiData/WD~metaclass,19478619|WD~metaclass,19478619]]'
+studied_by: '[[_Standards/WikiData/WD~musical_form_study,96621382|WD~musical_form_study,96621382]]'
 Wikidata_property: form of creative work
 Dewey_Decimal_Classification: 781
 Commons_category: Musical form

@@ -163,82 +163,82 @@ aliases:
 - "\U00010345\U00010339\U0001033A\U00010339\U00010340\U00010330\U00010339\U00010333\U0001033E\U00010330"
 has_id_wikidata: Q52
 location:
-- '[[_Standards/WikiData/WD~Carrollton,128261]]'
-- '[[_Standards/WikiData/WD~Ashburn,724884]]'
-- '[[_Standards/WikiData/WD~Singapore,334]]'
-- '[[_Standards/WikiData/WD~Amsterdam,727]]'
-- '[[_Standards/WikiData/WD~Chicago,1297]]'
-- '[[_Standards/WikiData/WD~Dallas,16557]]'
-- '[[_Standards/WikiData/WD~San_Francisco,62]]'
+- '[[_Standards/WikiData/WD~Carrollton,128261|WD~Carrollton,128261]]'
+- '[[_Standards/WikiData/WD~Ashburn,724884|WD~Ashburn,724884]]'
+- '[[_Standards/WikiData/WD~Singapore,334|WD~Singapore,334]]'
+- '[[_Standards/WikiData/WD~Amsterdam,727|WD~Amsterdam,727]]'
+- '[[_Standards/WikiData/WD~Chicago,1297|WD~Chicago,1297]]'
+- '[[_Standards/WikiData/WD~Dallas,16557|WD~Dallas,16557]]'
+- '[[_Standards/WikiData/WD~San_Francisco,62|WD~San_Francisco,62]]'
 platform:
-- '[[_Standards/WikiData/WD~LAMP,191342]]'
-- '[[_Standards/WikiData/WD~Varnish,1602447]]'
+- '[[_Standards/WikiData/WD~LAMP,191342|WD~LAMP,191342]]'
+- '[[_Standards/WikiData/WD~Varnish,1602447|WD~Varnish,1602447]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~reliability_of_Wikipedia,195951]]'
-- '[[_Standards/WikiData/WD~deletionism_in_Wikipedia,9470311]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~online_encyclopedia,615699]]'
+- '[[_Standards/WikiData/WD~reliability_of_Wikipedia,195951|WD~reliability_of_Wikipedia,195951]]'
+- '[[_Standards/WikiData/WD~deletionism_in_Wikipedia,9470311|WD~deletionism_in_Wikipedia,9470311]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~online_encyclopedia,615699|WD~online_encyclopedia,615699]]'
 operator:
-- '[[_Standards/WikiData/WD~Equinix,851641]]'
-- '[[_Standards/WikiData/WD~Wikimedia_Site_Reliability_Engineering,27983259]]'
-- '[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]'
-studied_by: '[[_Standards/WikiData/WD~academic_studies_about_Wikipedia,870337]]'
-editor: '[[_Standards/WikiData/WD~Wikipedia_community,876040]]'
+- '[[_Standards/WikiData/WD~Equinix,851641|WD~Equinix,851641]]'
+- '[[_Standards/WikiData/WD~Wikimedia_Site_Reliability_Engineering,27983259|WD~Wikimedia_Site_Reliability_Engineering,27983259]]'
+- '[[_Standards/WikiData/WD~Wikimedia_Foundation,180|WD~Wikimedia_Foundation,180]]'
+studied_by: '[[_Standards/WikiData/WD~academic_studies_about_Wikipedia,870337|WD~academic_studies_about_Wikipedia,870337]]'
+editor: '[[_Standards/WikiData/WD~Wikipedia_community,876040|WD~Wikipedia_community,876040]]'
 author:
-- '[[_Standards/WikiData/WD~Wikipedia_community,876040]]'
-- '[[_Standards/WikiData/WD~Jimmy_Wales,181]]'
-- '[[_Standards/WikiData/WD~Q185,185]]'
-business_model: '[[_Standards/WikiData/WD~donation,1124860]]'
-has_list: '[[_Standards/WikiData/WD~bibliography_of_Wikipedia,2798582]]'
+- '[[_Standards/WikiData/WD~Wikipedia_community,876040|WD~Wikipedia_community,876040]]'
+- '[[_Standards/WikiData/WD~Jimmy_Wales,181|WD~Jimmy_Wales,181]]'
+- '[[_Standards/WikiData/WD~Q185,185|WD~Q185,185]]'
+business_model: '[[_Standards/WikiData/WD~donation,1124860|WD~donation,1124860]]'
+has_list: '[[_Standards/WikiData/WD~bibliography_of_Wikipedia,2798582|WD~bibliography_of_Wikipedia,2798582]]'
 award_received:
-- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_International_Cooperation,3321940]]'
-- '[[_Standards/WikiData/WD~FSF_Free_Software_Award_for_Projects_of_Social_Benefit,25400485]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_International_Cooperation,3321940|WD~Princess_of_Asturias_Award_for_International_Cooperation,3321940]]'
+- '[[_Standards/WikiData/WD~FSF_Free_Software_Award_for_Projects_of_Social_Benefit,25400485|WD~FSF_Free_Software_Award_for_Projects_of_Social_Benefit,25400485]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Wikipedia,3890886]]'
-- '[[_Standards/WikiData/WD~Q25695143,25695143]]'
+- '[[_Standards/WikiData/WD~Wikipedia,3890886|WD~Wikipedia,3890886]]'
+- '[[_Standards/WikiData/WD~Q25695143,25695143|WD~Q25695143,25695143]]'
 different_from:
-- '[[_Standards/WikiData/WD~Q3933727,3933727]]'
-- '[[_Standards/WikiData/WD~Wikipedia,130562207]]'
-- '[[_Standards/WikiData/WD~Q136703544,136703544]]'
-- '[[_Standards/WikiData/WD~Q83,83]]'
-- '[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]'
+- '[[_Standards/WikiData/WD~Q3933727,3933727|WD~Q3933727,3933727]]'
+- '[[_Standards/WikiData/WD~Wikipedia,130562207|WD~Wikipedia,130562207]]'
+- '[[_Standards/WikiData/WD~Q136703544,136703544|WD~Q136703544,136703544]]'
+- '[[_Standards/WikiData/WD~Q83,83|WD~Q83,83]]'
+- '[[_Standards/WikiData/WD~Wikimedia_Foundation,180|WD~Wikimedia_Foundation,180]]'
 official_app:
-- '[[_Standards/WikiData/WD~Wikipedia_app,4390943]]'
-- '[[_Standards/WikiData/WD~Wikipedia_Beta,123247949]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Wikipedia,6581975]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Wikipedia,7112526]]'
+- '[[_Standards/WikiData/WD~Wikipedia_app,4390943|WD~Wikipedia_app,4390943]]'
+- '[[_Standards/WikiData/WD~Wikipedia_Beta,123247949|WD~Wikipedia_Beta,123247949]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Wikipedia,6581975|WD~Template_Wikipedia,6581975]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Wikipedia,7112526|WD~outline_of_Wikipedia,7112526]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~Wikipedia_language_edition,10876391]]'
-- '[[_Standards/WikiData/WD~Sylheti_Wikipedia,118646488]]'
-- '[[_Standards/WikiData/WD~English_Wikipedia,328]]'
+- '[[_Standards/WikiData/WD~Wikipedia_language_edition,10876391|WD~Wikipedia_language_edition,10876391]]'
+- '[[_Standards/WikiData/WD~Sylheti_Wikipedia,118646488|WD~Sylheti_Wikipedia,118646488]]'
+- '[[_Standards/WikiData/WD~English_Wikipedia,328|WD~English_Wikipedia,328]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Wikimedia_project,14827288]]'
-- '[[_Standards/WikiData/WD~MediaWiki_wiki,15633582]]'
-- '[[_Standards/WikiData/WD~encyclopedic_wiki,136559991]]'
+- '[[_Standards/WikiData/WD~Wikimedia_project,14827288|WD~Wikimedia_project,14827288]]'
+- '[[_Standards/WikiData/WD~MediaWiki_wiki,15633582|WD~MediaWiki_wiki,15633582]]'
+- '[[_Standards/WikiData/WD~encyclopedic_wiki,136559991|WD~encyclopedic_wiki,136559991]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-- '[[_Standards/WikiData/WD~Das_Wikipedia_Universum,63167249]]'
-- '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
-- '[[_Standards/WikiData/WD~Q135102590,135102590]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]'
-copyright_license: '[[_Standards/WikiData/WD~Creative_Commons_Attribution_ShareAlike_4.0_International,18199165]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~multiple_languages,20923490]]'
-practiced_by: '[[_Standards/WikiData/WD~Wikipedian,23038345]]'
-mascot: '[[_Standards/WikiData/WD~Wikipede,43374491]]'
-copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836|WD~Larousse_Encyclopedia_online,17329836]]'
+- '[[_Standards/WikiData/WD~Das_Wikipedia_Universum,63167249|WD~Das_Wikipedia_Universum,63167249]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836|WD~Dictionnaire_des_biens_communs,120799836]]'
+- '[[_Standards/WikiData/WD~Q135102590,135102590|WD~Q135102590,135102590]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica,455|WD~Encyclopædia_Britannica,455]]'
+copyright_license: '[[_Standards/WikiData/WD~Creative_Commons_Attribution_ShareAlike_4.0_International,18199165|WD~Creative_Commons_Attribution_ShareAlike_4.0_International,18199165]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]'
+practiced_by: '[[_Standards/WikiData/WD~Wikipedian,23038345|WD~Wikipedian,23038345]]'
+mascot: '[[_Standards/WikiData/WD~Wikipede,43374491|WD~Wikipede,43374491]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]'
 creator:
-- '[[_Standards/WikiData/WD~Wikimedia_community,56035565]]'
-- '[[_Standards/WikiData/WD~Jimmy_Wales,181]]'
-- '[[_Standards/WikiData/WD~Q185,185]]'
-complies_with: '[[_Standards/WikiData/WD~Digital_Public_Goods_Standard,102442905]]'
-website_account_on: '[[_Standards/WikiData/WD~Linkin.bio,113292412]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Wikipedia,116183590]]'
-named_after: '[[_Standards/WikiData/WD~encyclopedia,5292]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Wikipedia,6731]]'
-follows: '[[_Standards/WikiData/WD~Nupedia,17458]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-programmed_in: '[[_Standards/WikiData/WD~Q59,59]]'
-headquarters_location: '[[_Standards/WikiData/WD~San_Francisco,62]]'
-software_engine: '[[_Standards/WikiData/WD~Q83,83]]'
+- '[[_Standards/WikiData/WD~Wikimedia_community,56035565|WD~Wikimedia_community,56035565]]'
+- '[[_Standards/WikiData/WD~Jimmy_Wales,181|WD~Jimmy_Wales,181]]'
+- '[[_Standards/WikiData/WD~Q185,185|WD~Q185,185]]'
+complies_with: '[[_Standards/WikiData/WD~Digital_Public_Goods_Standard,102442905|WD~Digital_Public_Goods_Standard,102442905]]'
+website_account_on: '[[_Standards/WikiData/WD~Linkin.bio,113292412|WD~Linkin.bio,113292412]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Wikipedia,116183590|WD~flag_of_Wikipedia,116183590]]'
+named_after: '[[_Standards/WikiData/WD~encyclopedia,5292|WD~encyclopedia,5292]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Wikipedia,6731|WD~history_of_Wikipedia,6731]]'
+follows: '[[_Standards/WikiData/WD~Nupedia,17458|WD~Nupedia,17458]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+programmed_in: '[[_Standards/WikiData/WD~Q59,59|WD~Q59,59]]'
+headquarters_location: '[[_Standards/WikiData/WD~San_Francisco,62|WD~San_Francisco,62]]'
+software_engine: '[[_Standards/WikiData/WD~Q83,83|WD~Q83,83]]'
 Alexa_rank:
 - 10
 - 5
@@ -246,13 +246,13 @@ Alexa_rank:
 - 9
 - 13
 - 14
-owned_by: '[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]'
+owned_by: '[[_Standards/WikiData/WD~Wikimedia_Foundation,180|WD~Wikimedia_Foundation,180]]'
 developer:
-- '[[_Standards/WikiData/WD~Jimmy_Wales,181]]'
-- '[[_Standards/WikiData/WD~Q185,185]]'
+- '[[_Standards/WikiData/WD~Jimmy_Wales,181|WD~Jimmy_Wales,181]]'
+- '[[_Standards/WikiData/WD~Q185,185|WD~Q185,185]]'
 founded_by:
-- '[[_Standards/WikiData/WD~Jimmy_Wales,181]]'
-- '[[_Standards/WikiData/WD~Q185,185]]'
+- '[[_Standards/WikiData/WD~Jimmy_Wales,181|WD~Jimmy_Wales,181]]'
+- '[[_Standards/WikiData/WD~Q185,185|WD~Q185,185]]'
 Similarweb_ranking: 7
 social_media_followers:
 - 247000
@@ -362,82 +362,82 @@ search_formatter_URL: https://wikipedia.org/w/index.php?search=has_time_started:
 aliases:
 has_id_wikidata: Q52
 location:
-  - "[[_Standards/WikiData/WD~Carrollton,128261]]"
-  - "[[_Standards/WikiData/WD~Ashburn,724884]]"
-  - "[[_Standards/WikiData/WD~Singapore,334]]"
-  - "[[_Standards/WikiData/WD~Amsterdam,727]]"
-  - "[[_Standards/WikiData/WD~Chicago,1297]]"
-  - "[[_Standards/WikiData/WD~Dallas,16557]]"
-  - "[[_Standards/WikiData/WD~San_Francisco,62]]"
+  - "[[_Standards/WikiData/WD~Carrollton,128261|WD~Carrollton,128261]]"
+  - "[[_Standards/WikiData/WD~Ashburn,724884|WD~Ashburn,724884]]"
+  - "[[_Standards/WikiData/WD~Singapore,334|WD~Singapore,334]]"
+  - "[[_Standards/WikiData/WD~Amsterdam,727|WD~Amsterdam,727]]"
+  - "[[_Standards/WikiData/WD~Chicago,1297|WD~Chicago,1297]]"
+  - "[[_Standards/WikiData/WD~Dallas,16557|WD~Dallas,16557]]"
+  - "[[_Standards/WikiData/WD~San_Francisco,62|WD~San_Francisco,62]]"
 platform:
-  - "[[_Standards/WikiData/WD~LAMP,191342]]"
-  - "[[_Standards/WikiData/WD~Varnish,1602447]]"
+  - "[[_Standards/WikiData/WD~LAMP,191342|WD~LAMP,191342]]"
+  - "[[_Standards/WikiData/WD~Varnish,1602447|WD~Varnish,1602447]]"
 has_characteristic:
-  - "[[_Standards/WikiData/WD~reliability_of_Wikipedia,195951]]"
-  - "[[_Standards/WikiData/WD~deletionism_in_Wikipedia,9470311]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~online_encyclopedia,615699]]"
+  - "[[_Standards/WikiData/WD~reliability_of_Wikipedia,195951|WD~reliability_of_Wikipedia,195951]]"
+  - "[[_Standards/WikiData/WD~deletionism_in_Wikipedia,9470311|WD~deletionism_in_Wikipedia,9470311]]"
+product_or_material_produced: "[[_Standards/WikiData/WD~online_encyclopedia,615699|WD~online_encyclopedia,615699]]"
 operator:
-  - "[[_Standards/WikiData/WD~Equinix,851641]]"
-  - "[[_Standards/WikiData/WD~Wikimedia_Site_Reliability_Engineering,27983259]]"
-  - "[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]"
-studied_by: "[[_Standards/WikiData/WD~academic_studies_about_Wikipedia,870337]]"
-editor: "[[_Standards/WikiData/WD~Wikipedia_community,876040]]"
+  - "[[_Standards/WikiData/WD~Equinix,851641|WD~Equinix,851641]]"
+  - "[[_Standards/WikiData/WD~Wikimedia_Site_Reliability_Engineering,27983259|WD~Wikimedia_Site_Reliability_Engineering,27983259]]"
+  - "[[_Standards/WikiData/WD~Wikimedia_Foundation,180|WD~Wikimedia_Foundation,180]]"
+studied_by: "[[_Standards/WikiData/WD~academic_studies_about_Wikipedia,870337|WD~academic_studies_about_Wikipedia,870337]]"
+editor: "[[_Standards/WikiData/WD~Wikipedia_community,876040|WD~Wikipedia_community,876040]]"
 author:
-  - "[[_Standards/WikiData/WD~Wikipedia_community,876040]]"
-  - "[[_Standards/WikiData/WD~Jimmy_Wales,181]]"
-  - "[[_Standards/WikiData/WD~Q185,185]]"
-business_model: "[[_Standards/WikiData/WD~donation,1124860]]"
-has_list: "[[_Standards/WikiData/WD~bibliography_of_Wikipedia,2798582]]"
+  - "[[_Standards/WikiData/WD~Wikipedia_community,876040|WD~Wikipedia_community,876040]]"
+  - "[[_Standards/WikiData/WD~Jimmy_Wales,181|WD~Jimmy_Wales,181]]"
+  - "[[_Standards/WikiData/WD~Q185,185|WD~Q185,185]]"
+business_model: "[[_Standards/WikiData/WD~donation,1124860|WD~donation,1124860]]"
+has_list: "[[_Standards/WikiData/WD~bibliography_of_Wikipedia,2798582|WD~bibliography_of_Wikipedia,2798582]]"
 award_received:
-  - "[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_International_Cooperation,3321940]]"
-  - "[[_Standards/WikiData/WD~FSF_Free_Software_Award_for_Projects_of_Social_Benefit,25400485]]"
+  - "[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_International_Cooperation,3321940|WD~Princess_of_Asturias_Award_for_International_Cooperation,3321940]]"
+  - "[[_Standards/WikiData/WD~FSF_Free_Software_Award_for_Projects_of_Social_Benefit,25400485|WD~FSF_Free_Software_Award_for_Projects_of_Social_Benefit,25400485]]"
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Wikipedia,3890886]]"
-  - "[[_Standards/WikiData/WD~Q25695143,25695143]]"
+  - "[[_Standards/WikiData/WD~Wikipedia,3890886|WD~Wikipedia,3890886]]"
+  - "[[_Standards/WikiData/WD~Q25695143,25695143|WD~Q25695143,25695143]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Q3933727,3933727]]"
-  - "[[_Standards/WikiData/WD~Wikipedia,130562207]]"
-  - "[[_Standards/WikiData/WD~Q136703544,136703544]]"
-  - "[[_Standards/WikiData/WD~Q83,83]]"
-  - "[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]"
+  - "[[_Standards/WikiData/WD~Q3933727,3933727|WD~Q3933727,3933727]]"
+  - "[[_Standards/WikiData/WD~Wikipedia,130562207|WD~Wikipedia,130562207]]"
+  - "[[_Standards/WikiData/WD~Q136703544,136703544|WD~Q136703544,136703544]]"
+  - "[[_Standards/WikiData/WD~Q83,83|WD~Q83,83]]"
+  - "[[_Standards/WikiData/WD~Wikimedia_Foundation,180|WD~Wikimedia_Foundation,180]]"
 official_app:
-  - "[[_Standards/WikiData/WD~Wikipedia_app,4390943]]"
-  - "[[_Standards/WikiData/WD~Wikipedia_Beta,123247949]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Wikipedia,6581975]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Wikipedia,7112526]]"
+  - "[[_Standards/WikiData/WD~Wikipedia_app,4390943|WD~Wikipedia_app,4390943]]"
+  - "[[_Standards/WikiData/WD~Wikipedia_Beta,123247949|WD~Wikipedia_Beta,123247949]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Wikipedia,6581975|WD~Template_Wikipedia,6581975]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Wikipedia,7112526|WD~outline_of_Wikipedia,7112526]]"
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Wikipedia_language_edition,10876391]]"
-  - "[[_Standards/WikiData/WD~Sylheti_Wikipedia,118646488]]"
-  - "[[_Standards/WikiData/WD~English_Wikipedia,328]]"
+  - "[[_Standards/WikiData/WD~Wikipedia_language_edition,10876391|WD~Wikipedia_language_edition,10876391]]"
+  - "[[_Standards/WikiData/WD~Sylheti_Wikipedia,118646488|WD~Sylheti_Wikipedia,118646488]]"
+  - "[[_Standards/WikiData/WD~English_Wikipedia,328|WD~English_Wikipedia,328]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~Wikimedia_project,14827288]]"
-  - "[[_Standards/WikiData/WD~MediaWiki_wiki,15633582]]"
-  - "[[_Standards/WikiData/WD~encyclopedic_wiki,136559991]]"
+  - "[[_Standards/WikiData/WD~Wikimedia_project,14827288|WD~Wikimedia_project,14827288]]"
+  - "[[_Standards/WikiData/WD~MediaWiki_wiki,15633582|WD~MediaWiki_wiki,15633582]]"
+  - "[[_Standards/WikiData/WD~encyclopedic_wiki,136559991|WD~encyclopedic_wiki,136559991]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-  - "[[_Standards/WikiData/WD~Das_Wikipedia_Universum,63167249]]"
-  - "[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]"
-  - "[[_Standards/WikiData/WD~Q135102590,135102590]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]"
-copyright_license: "[[_Standards/WikiData/WD~Creative_Commons_Attribution_ShareAlike_4.0_International,18199165]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
-practiced_by: "[[_Standards/WikiData/WD~Wikipedian,23038345]]"
-mascot: "[[_Standards/WikiData/WD~Wikipede,43374491]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+  - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836|WD~Larousse_Encyclopedia_online,17329836]]"
+  - "[[_Standards/WikiData/WD~Das_Wikipedia_Universum,63167249|WD~Das_Wikipedia_Universum,63167249]]"
+  - "[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836|WD~Dictionnaire_des_biens_communs,120799836]]"
+  - "[[_Standards/WikiData/WD~Q135102590,135102590|WD~Q135102590,135102590]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica,455|WD~Encyclopædia_Britannica,455]]"
+copyright_license: "[[_Standards/WikiData/WD~Creative_Commons_Attribution_ShareAlike_4.0_International,18199165|WD~Creative_Commons_Attribution_ShareAlike_4.0_International,18199165]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]"
+practiced_by: "[[_Standards/WikiData/WD~Wikipedian,23038345|WD~Wikipedian,23038345]]"
+mascot: "[[_Standards/WikiData/WD~Wikipede,43374491|WD~Wikipede,43374491]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]"
 creator:
-  - "[[_Standards/WikiData/WD~Wikimedia_community,56035565]]"
-  - "[[_Standards/WikiData/WD~Jimmy_Wales,181]]"
-  - "[[_Standards/WikiData/WD~Q185,185]]"
-complies_with: "[[_Standards/WikiData/WD~Digital_Public_Goods_Standard,102442905]]"
-website_account_on: "[[_Standards/WikiData/WD~Linkin.bio,113292412]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Wikipedia,116183590]]"
-named_after: "[[_Standards/WikiData/WD~encyclopedia,5292]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Wikipedia,6731]]"
-follows: "[[_Standards/WikiData/WD~Nupedia,17458]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-programmed_in: "[[_Standards/WikiData/WD~Q59,59]]"
-headquarters_location: "[[_Standards/WikiData/WD~San_Francisco,62]]"
-software_engine: "[[_Standards/WikiData/WD~Q83,83]]"
+  - "[[_Standards/WikiData/WD~Wikimedia_community,56035565|WD~Wikimedia_community,56035565]]"
+  - "[[_Standards/WikiData/WD~Jimmy_Wales,181|WD~Jimmy_Wales,181]]"
+  - "[[_Standards/WikiData/WD~Q185,185|WD~Q185,185]]"
+complies_with: "[[_Standards/WikiData/WD~Digital_Public_Goods_Standard,102442905|WD~Digital_Public_Goods_Standard,102442905]]"
+website_account_on: "[[_Standards/WikiData/WD~Linkin.bio,113292412|WD~Linkin.bio,113292412]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Wikipedia,116183590|WD~flag_of_Wikipedia,116183590]]"
+named_after: "[[_Standards/WikiData/WD~encyclopedia,5292|WD~encyclopedia,5292]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Wikipedia,6731|WD~history_of_Wikipedia,6731]]"
+follows: "[[_Standards/WikiData/WD~Nupedia,17458|WD~Nupedia,17458]]"
+country_of_origin: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+programmed_in: "[[_Standards/WikiData/WD~Q59,59|WD~Q59,59]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Francisco,62|WD~San_Francisco,62]]"
+software_engine: "[[_Standards/WikiData/WD~Q83,83|WD~Q83,83]]"
 Alexa_rank:
   - 10
   - 5
@@ -445,13 +445,13 @@ Alexa_rank:
   - 9
   - 13
   - 14
-owned_by: "[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]"
+owned_by: "[[_Standards/WikiData/WD~Wikimedia_Foundation,180|WD~Wikimedia_Foundation,180]]"
 developer:
-  - "[[_Standards/WikiData/WD~Jimmy_Wales,181]]"
-  - "[[_Standards/WikiData/WD~Q185,185]]"
+  - "[[_Standards/WikiData/WD~Jimmy_Wales,181|WD~Jimmy_Wales,181]]"
+  - "[[_Standards/WikiData/WD~Q185,185|WD~Q185,185]]"
 founded_by:
-  - "[[_Standards/WikiData/WD~Jimmy_Wales,181]]"
-  - "[[_Standards/WikiData/WD~Q185,185]]"
+  - "[[_Standards/WikiData/WD~Jimmy_Wales,181|WD~Jimmy_Wales,181]]"
+  - "[[_Standards/WikiData/WD~Q185,185|WD~Q185,185]]"
 Similarweb_ranking: 7
 social_media_followers:
   - 247000

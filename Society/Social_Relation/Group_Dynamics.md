@@ -43,10 +43,10 @@ aliases:
 - 集団力学
 - 집단역학
 has_id_wikidata: Q839578
-subclass_of: '[[_Standards/WikiData/WD~social_interaction,609298]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q32540086,32540086]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q102454136,102454136]]'
-has_part_s_: '[[_Standards/WikiData/WD~communication,11024]]'
+subclass_of: '[[_Standards/WikiData/WD~social_interaction,609298|WD~social_interaction,609298]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32540086,32540086|WD~Q32540086,32540086]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q102454136,102454136|WD~Q102454136,102454136]]'
+has_part_s_: '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
 Basisklassifikation: 77.64
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Moreno%20Sociogram%201st%20Grade.png
 MeSH_tree_code: F01.829.316.223

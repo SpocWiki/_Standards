@@ -81,27 +81,27 @@ aliases:
 - 고용
 has_id_wikidata: Q656365
 different_from:
-- '[[_Standards/WikiData/WD~job_activity,192581]]'
-- '[[_Standards/WikiData/WD~employment_to_population_ratio,829714]]'
-- '[[_Standards/WikiData/WD~employment_opportunities,2266417]]'
-- '[[_Standards/WikiData/WD~employing,67218467]]'
-facet_of: '[[../../../../../WikiData/WD~work,268378]]'
+- '[[_Standards/WikiData/WD~job_activity,192581|WD~job_activity,192581]]'
+- '[[_Standards/WikiData/WD~employment_to_population_ratio,829714|WD~employment_to_population_ratio,829714]]'
+- '[[_Standards/WikiData/WD~employment_opportunities,2266417|WD~employment_opportunities,2266417]]'
+- '[[_Standards/WikiData/WD~employing,67218467|WD~employing,67218467]]'
+facet_of: '[[../../../../../WikiData/WD~work,268378|WD~work,268378]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~timesheet,629411]]'
-- '[[_Standards/WikiData/WD~probation,675059]]'
-- '[[_Standards/WikiData/WD~termination_of_employment,685744]]'
-- '[[_Standards/WikiData/WD~access_badge,1054723]]'
-- '[[_Standards/WikiData/WD~time_clock,1500858]]'
-- '[[_Standards/WikiData/WD~working_conditions,2992308]]'
-- '[[_Standards/WikiData/WD~scope_of_employment,7434443]]'
+- '[[_Standards/WikiData/WD~timesheet,629411|WD~timesheet,629411]]'
+- '[[_Standards/WikiData/WD~probation,675059|WD~probation,675059]]'
+- '[[_Standards/WikiData/WD~termination_of_employment,685744|WD~termination_of_employment,685744]]'
+- '[[_Standards/WikiData/WD~access_badge,1054723|WD~access_badge,1054723]]'
+- '[[_Standards/WikiData/WD~time_clock,1500858|WD~time_clock,1500858]]'
+- '[[_Standards/WikiData/WD~working_conditions,2992308|WD~working_conditions,2992308]]'
+- '[[_Standards/WikiData/WD~scope_of_employment,7434443|WD~scope_of_employment,7434443]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~employee,703534]]'
-- '[[_Standards/WikiData/WD~employer,3053337]]'
-instance_of: '[[_Standards/WikiData/WD~social_relation,853725]]'
-subclass_of: '[[../../../../../WikiData/WD~economic_activity,8187769]]'
-part_of: '[[_Standards/WikiData/WD~occupation,12737077]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Employment,13406437]]'
-described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~employee,703534|WD~employee,703534]]'
+- '[[_Standards/WikiData/WD~employer,3053337|WD~employer,3053337]]'
+instance_of: '[[_Standards/WikiData/WD~social_relation,853725|WD~social_relation,853725]]'
+subclass_of: '[[../../../../../WikiData/WD~economic_activity,8187769|WD~economic_activity,8187769]]'
+part_of: '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Employment,13406437|WD~Template_Employment,13406437]]'
+described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
 related_property:
 - employees
 - employer

@@ -125,28 +125,28 @@ aliases:
 - 시민
 has_id_wikidata: Q42138
 instance_of:
-- '[[_Standards/WikiData/WD~institution,178706]]'
-- '[[_Standards/WikiData/WD~relation,930933]]'
-- '[[_Standards/WikiData/WD~political_concept,33104069]]'
+- '[[_Standards/WikiData/WD~institution,178706|WD~institution,178706]]'
+- '[[_Standards/WikiData/WD~relation,930933|WD~relation,930933]]'
+- '[[_Standards/WikiData/WD~political_concept,33104069|WD~political_concept,33104069]]'
 different_from:
-- '[[_Standards/WikiData/WD~nationality,231002]]'
-- '[[_Standards/WikiData/WD~civics,837313]]'
-- '[[_Standards/WikiData/WD~Gumby_&_The_Powerpuff_Girls,5583088]]'
+- '[[_Standards/WikiData/WD~nationality,231002|WD~nationality,231002]]'
+- '[[_Standards/WikiData/WD~civics,837313|WD~civics,837313]]'
+- '[[_Standards/WikiData/WD~Gumby_&_The_Powerpuff_Girls,5583088|WD~Gumby_&_The_Powerpuff_Girls,5583088]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~identity,844569]]'
-- '[[_Standards/WikiData/WD~membership,60844538]]'
+- '[[_Standards/WikiData/WD~identity,844569|WD~identity,844569]]'
+- '[[_Standards/WikiData/WD~membership,60844538|WD~membership,60844538]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838]]'
-has_part_s_: '[[_Standards/WikiData/WD~citizenship_in_Islam,131828544]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838|WD~Encyclopedia_of_Global_Justice,21002838]]'
+has_part_s_: '[[_Standards/WikiData/WD~citizenship_in_Islam,131828544|WD~citizenship_in_Islam,131828544]]'
 facet_of:
-- '[[_Standards/WikiData/WD~state,7275]]'
-- '[[_Standards/WikiData/WD~human_rights,8458]]'
-part_of: '[[_Standards/WikiData/WD~state,7275]]'
-foundational_text: '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813]]'
+- '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
+- '[[_Standards/WikiData/WD~human_rights,8458|WD~human_rights,8458]]'
+part_of: '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
+foundational_text: '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813|WD~Universal_Declaration_of_Human_Rights,7813]]'
 Wikidata_property: country of citizenship
 OmegaWiki_Defined_Meaning: 940570
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Dutton%20at%20Australian%20Citizenship%20Ceremony%2C%202017.jpg
@@ -162,7 +162,7 @@ MeSH_tree_code:
 Library_of_Congress_Classification: JF801
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~National_citizenship,42138]]'
+  - '[[../../../../../WikiData/WD~National_citizenship,42138|WD~National_citizenship,42138]]'
   - '[[/_Standards/Earth/Geography/Place/Administrative_Area/State/National_Citizenship|National_Citizenship]]'
   - '[[/_public/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.public|National_Citizenship.public]]'
   - '[[/_internal/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.internal|National_Citizenship.internal]]'
@@ -171,7 +171,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.personal|National_Citizenship.personal]]'
   - '[[/_secret/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.secret|National_Citizenship.secret]]'
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~National_citizenship,42138]]'
+- '[[../../../../../WikiData/WD~National_citizenship,42138|WD~National_citizenship,42138]]'
 - '[[/_Standards/Earth/Geography/Place/Administrative_Area/State/National_Citizenship|National_Citizenship]]'
 - '[[/_public/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.public|National_Citizenship.public]]'
 - '[[/_internal/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.internal|National_Citizenship.internal]]'

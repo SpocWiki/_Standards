@@ -32,7 +32,7 @@ dv_is_a: "[[../../../Relation|Relation]]"
 dv_has_:
   inverse: "[[is_mission_coverage_priorities_policy_of]]"
   parent_:
-    property: "[[../has_publishing_principle]]"
+    property: "[[../has_publishing_principle|has_publishing_principle]]"
   domain: "[[../../../../Society/Agent/Community/Organization/News_Media_Organization|NewsMediaOrganization]]"
   name: has_mission_coverage_priorities_policy
 dv_is_:
@@ -49,7 +49,7 @@ dv_has_range:
   - "[[../../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
   - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_has_inverse: "[[is_mission_coverage_priorities_policy_of]]"
-dv_has_parent_property: "[[../has_publishing_principle]]"
+dv_has_parent_property: "[[../has_publishing_principle|has_publishing_principle]]"
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../../../Society/Agent/Community/Organization/News_Media_Organization|NewsMediaOrganization]]"
 dv_has_name: has_mission_coverage_priorities_policy

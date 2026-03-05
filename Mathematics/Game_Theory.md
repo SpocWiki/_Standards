@@ -93,18 +93,18 @@ aliases:
 - 게임 이론
 has_id_wikidata: Q44455
 Baidu_Tieba_name: 博弈论
-subclass_of: '[[_Standards/WikiData/WD~decision_theory,177571]]'
+subclass_of: '[[_Standards/WikiData/WD~decision_theory,177571|WD~decision_theory,177571]]'
 different_from:
-- '[[_Standards/WikiData/WD~game_studies,675281]]'
-- '[[_Standards/WikiData/WD~combinatorial_game_theory,1320931]]'
-instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Game_theory,13499567]]'
+- '[[_Standards/WikiData/WD~game_studies,675281|WD~game_studies,675281]]'
+- '[[_Standards/WikiData/WD~combinatorial_game_theory,1320931|WD~combinatorial_game_theory,1320931]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Game_theory,13499567|WD~Template_Game_theory,13499567]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~strategic_game,15079592]]'
-- '[[_Standards/WikiData/WD~being,24229398]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-practiced_by: '[[_Standards/WikiData/WD~game_theorist,84318954]]'
+- '[[_Standards/WikiData/WD~strategic_game,15079592|WD~strategic_game,15079592]]'
+- '[[_Standards/WikiData/WD~being,24229398|WD~being,24229398]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
+practiced_by: '[[_Standards/WikiData/WD~game_theorist,84318954|WD~game_theorist,84318954]]'
 OmegaWiki_Defined_Meaning: 1529284
 Dewey_Decimal_Classification: 519.3
 Commons_gallery: Game theory

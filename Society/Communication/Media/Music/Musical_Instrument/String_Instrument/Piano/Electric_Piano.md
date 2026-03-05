@@ -39,9 +39,9 @@ aliases:
 - 전기 피아노
 has_id_wikidata: Q1136507
 different_from:
-- '[[_Standards/WikiData/WD~synthesizer,163829]]'
-- '[[_Standards/WikiData/WD~electronic_piano,3503387]]'
-subclass_of: '[[_Standards/WikiData/WD~electromechanical_instruments,1372823]]'
+- '[[_Standards/WikiData/WD~synthesizer,163829|WD~synthesizer,163829]]'
+- '[[_Standards/WikiData/WD~electronic_piano,3503387|WD~electronic_piano,3503387]]'
+subclass_of: '[[_Standards/WikiData/WD~electromechanical_instruments,1372823|WD~electromechanical_instruments,1372823]]'
 Hornbostel_Sachs_classification: 52
 image: http://commons.wikimedia.org/wiki/Special:FilePath/6f%201.png
 Commons_category: Electric pianos

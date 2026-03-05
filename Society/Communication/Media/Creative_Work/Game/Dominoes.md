@@ -40,19 +40,19 @@ aliases:
 - 도미노
 has_id_wikidata: Q32907
 different_from:
-- '[[_Standards/WikiData/WD~Domino,227425]]'
-- '[[_Standards/WikiData/WD~Chinese_dominoes,5254574]]'
+- '[[_Standards/WikiData/WD~Domino,227425|WD~Domino,227425]]'
+- '[[_Standards/WikiData/WD~Chinese_dominoes,5254574|WD~Chinese_dominoes,5254574]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~tile_based_game,1272194]]'
-based_on: '[[_Standards/WikiData/WD~Pai_gow,1278119]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~tile_based_game,1272194|WD~tile_based_game,1272194]]'
+based_on: '[[_Standards/WikiData/WD~Pai_gow,1278119|WD~Pai_gow,1278119]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Board_and_table_games,9456907]]'
-- '[[_Standards/WikiData/WD~WikiProject_Toys,21830926]]'
-has_part_s_: '[[_Standards/WikiData/WD~domino_tile,16629690]]'
-subclass_of: '[[_Standards/WikiData/WD~game_equipment,17638008]]'
+- '[[_Standards/WikiData/WD~WikiProject_Board_and_table_games,9456907|WD~WikiProject_Board_and_table_games,9456907]]'
+- '[[_Standards/WikiData/WD~WikiProject_Toys,21830926|WD~WikiProject_Toys,21830926]]'
+has_part_s_: '[[_Standards/WikiData/WD~domino_tile,16629690|WD~domino_tile,16629690]]'
+subclass_of: '[[_Standards/WikiData/WD~game_equipment,17638008|WD~game_equipment,17638008]]'
 minimum_number_of_players: 2
 maximum_number_of_players: 4
 Nomenclature_for_Museum_Cataloging: 14280

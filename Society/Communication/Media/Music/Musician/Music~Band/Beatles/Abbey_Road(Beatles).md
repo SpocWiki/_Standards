@@ -143,7 +143,7 @@ dv_has_:
 
 ## Beatles~Abbey_Road
 
-#has_/creator :: [[../Beatles]] 
+#has_/creator :: [[../Beatles|Beatles]] 
 
 #has_/rank :: 3
 

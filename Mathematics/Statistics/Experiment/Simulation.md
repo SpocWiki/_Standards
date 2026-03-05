@@ -56,21 +56,21 @@ aliases:
 - 시뮬레이션
 has_id_wikidata: Q45045
 subclass_of:
-- '[[_Standards/WikiData/WD~experiment,101965]]'
-- '[[_Standards/WikiData/WD~mathematical_model,486902]]'
-- '[[_Standards/WikiData/WD~simulacrum,1412596]]'
+- '[[_Standards/WikiData/WD~experiment,101965|WD~experiment,101965]]'
+- '[[_Standards/WikiData/WD~mathematical_model,486902|WD~mathematical_model,486902]]'
+- '[[_Standards/WikiData/WD~simulacrum,1412596|WD~simulacrum,1412596]]'
 has_use:
-- '[[_Standards/WikiData/WD~computational_science,117801]]'
-- '[[_Standards/WikiData/WD~computational_fluid_dynamics,815820]]'
-- '[[_Standards/WikiData/WD~stress_analysis,1408487]]'
-- '[[_Standards/WikiData/WD~simulation_game,2310303]]'
-described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-different_from: '[[_Standards/WikiData/WD~stimulation,4114622]]'
-facet_of: '[[_Standards/WikiData/WD~modeling_and_simulation,6888384]]'
+- '[[_Standards/WikiData/WD~computational_science,117801|WD~computational_science,117801]]'
+- '[[_Standards/WikiData/WD~computational_fluid_dynamics,815820|WD~computational_fluid_dynamics,815820]]'
+- '[[_Standards/WikiData/WD~stress_analysis,1408487|WD~stress_analysis,1408487]]'
+- '[[_Standards/WikiData/WD~simulation_game,2310303|WD~simulation_game,2310303]]'
+described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+different_from: '[[_Standards/WikiData/WD~stimulation,4114622|WD~stimulation,4114622]]'
+facet_of: '[[_Standards/WikiData/WD~modeling_and_simulation,6888384|WD~modeling_and_simulation,6888384]]'
 part_of:
-- '[[_Standards/WikiData/WD~physics,413]]'
-- '[[_Standards/WikiData/WD~engineering,11023]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
+- '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
+- '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
 main_Wikidata_property: simulates
 ComputerLanguage_com_definition: simulation
 GitHub_topic:

@@ -39,7 +39,7 @@ Simple Tests can be defined in Code-Markdown-Blocks in the Documentation.
 
 ### using `proptest!{...}` 
 
-Inspired by [[../Prog~Haskell]] [[Quicktest]] and [[../../Prog~Structured/Structured_Prog-Lang/Prog~Python]]s hypothesis FW. 
+Inspired by [[../Prog~Haskell|Prog~Haskell]] [[Quicktest]] and [[../../Prog~Structured/Structured_Prog-Lang/Prog~Python|Prog~Python]]s hypothesis FW. 
 
 ### Fuzzing 
 
@@ -48,7 +48,7 @@ Similar to [[#using `proptest!{...}`]] but persisted, so the same test is never 
 
 ## Integration Tests 
 
-[[Rust~Crates/crates~sqlx]] requires a running DB-Server, 
+[[Rust~Crates/crates~sqlx|crates~sqlx]] requires a running DB-Server, 
 but for Testing you can set up a Schema-double in [[../../../../../../Knowledge/Languages/Data~Languages/Json-Format|Json-Format]]: 
 
 

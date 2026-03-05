@@ -76,25 +76,25 @@ aliases:
 - 쥐라기
 has_id_wikidata: Q45805
 different_from:
-- '[[_Standards/WikiData/WD~Jura,106351]]'
-- '[[_Standards/WikiData/WD~Jurassic,1473937]]'
-- '[[_Standards/WikiData/WD~Júra,16429904]]'
-named_after: '[[_Standards/WikiData/WD~Jura_Mountains,178611]]'
+- '[[_Standards/WikiData/WD~Jura,106351|WD~Jura,106351]]'
+- '[[_Standards/WikiData/WD~Jurassic,1473937|WD~Jurassic,1473937]]'
+- '[[_Standards/WikiData/WD~Júra,16429904|WD~Júra,16429904]]'
+named_after: '[[_Standards/WikiData/WD~Jura_Mountains,178611|WD~Jura_Mountains,178611]]'
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
-named_by: '[[_Standards/WikiData/WD~Alexandre_Brongniart,442937]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+named_by: '[[_Standards/WikiData/WD~Alexandre_Brongniart,442937|WD~Alexandre_Brongniart,442937]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Jurassic,7145285]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Hettangian,134318266]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Jurassic,7145285|WD~Category_Jurassic,7145285]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Hettangian,134318266|WD~GSSP_for_the_base_of_the_Hettangian,134318266]]'
 start_time: -201400000-01-01T00:00:00Z
 OmegaWiki_Defined_Meaning: 866061
 Commons_category: Jurassic
@@ -293,7 +293,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 201.4 million years ago to 145 Mya. 
 
-![[../../../../../xLarge/Earth/Geology/Earth-170_Ma_(Bajocian_Age).png]] 
+![[../../../../../xLarge/Earth/Geology/Earth-170_Ma_(Bajocian_Age).png|Earth-170_Ma_(Bajocian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

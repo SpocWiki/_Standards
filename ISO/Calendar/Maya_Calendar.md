@@ -58,13 +58,13 @@ aliases:
 - 마야 달력
 has_id_wikidata: Q2012
 has_part_s_:
-- "[[_Standards/WikiData/WD~Tzolk'in,490939]]"
-- '[[_Standards/WikiData/WD~Mesoamerican_Long_Count_calendar,767358]]'
-- "[[_Standards/WikiData/WD~Haab',1417756]]"
-facet_of: '[[_Standards/WikiData/WD~Mesoamerican_calendars,2933843]]'
-present_in_work: '[[_Standards/WikiData/WD~Goodman_Martínez_Thompson_correlation,2998009]]'
-part_of: '[[_Standards/WikiData/WD~Maya_culture,25590327]]'
-instance_of: '[[_Standards/WikiData/WD~calendar,12132]]'
+- "[[_Standards/WikiData/WD~Tzolk'in,490939|WD~Tzolk'in,490939]]"
+- '[[_Standards/WikiData/WD~Mesoamerican_Long_Count_calendar,767358|WD~Mesoamerican_Long_Count_calendar,767358]]'
+- "[[_Standards/WikiData/WD~Haab',1417756|WD~Haab',1417756]]"
+facet_of: '[[_Standards/WikiData/WD~Mesoamerican_calendars,2933843|WD~Mesoamerican_calendars,2933843]]'
+present_in_work: '[[_Standards/WikiData/WD~Goodman_Martínez_Thompson_correlation,2998009|WD~Goodman_Martínez_Thompson_correlation,2998009]]'
+part_of: '[[_Standards/WikiData/WD~Maya_culture,25590327|WD~Maya_culture,25590327]]'
+instance_of: '[[_Standards/WikiData/WD~calendar,12132|WD~calendar,12132]]'
 OmegaWiki_Defined_Meaning: 889971
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Annual%20report%20of%20the%20Bureau%20of%20American%20Ethnology%20to%20the%20Secretary%20of%20the%20Smithsonian%20Institution%20%281897%29%20%2814597777420%29.jpg

@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Lee,Christopher]] 
 
-#has_/related_to :: [[../../Movie-Genre/Thriller-Movie/Fleming,Ian]] 
+#has_/related_to :: [[../../Movie-Genre/Thriller-Movie/Fleming,Ian|Fleming,Ian]] 
 #has_/time_/started :: 1922-05-27 
 #has_/time_/stopped :: 2015-06-07 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

@@ -14,21 +14,21 @@ aliases:
 - 全国运动汽车竞赛协会
 - 全國運動汽車競賽協會
 has_id_wikidata: Q233929
-location_of_formation: '[[_Standards/WikiData/WD~Daytona_Beach,490595]]'
+location_of_formation: '[[_Standards/WikiData/WD~Daytona_Beach,490595|WD~Daytona_Beach,490595]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sports_league,623109]]'
-- '[[_Standards/WikiData/WD~sports_governing_body,2485448]]'
-- '[[_Standards/WikiData/WD~business,4830453]]'
-founded_by: '[[_Standards/WikiData/WD~Bill_France,726049]]'
-legal_form: '[[_Standards/WikiData/WD~privately_held_company,1589009]]'
+- '[[_Standards/WikiData/WD~sports_league,623109|WD~sports_league,623109]]'
+- '[[_Standards/WikiData/WD~sports_governing_body,2485448|WD~sports_governing_body,2485448]]'
+- '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
+founded_by: '[[_Standards/WikiData/WD~Bill_France,726049|WD~Bill_France,726049]]'
+legal_form: '[[_Standards/WikiData/WD~privately_held_company,1589009|WD~privately_held_company,1589009]]'
 sport:
-- '[[_Standards/WikiData/WD~stock_car_racing,1758324]]'
-- '[[_Standards/WikiData/WD~auto_racing,5386]]'
-different_from: '[[_Standards/WikiData/WD~NASCAR,3247929]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_NASCAR,17378076]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Charlotte,16565]]'
-operating_area: '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~stock_car_racing,1758324|WD~stock_car_racing,1758324]]'
+- '[[_Standards/WikiData/WD~auto_racing,5386|WD~auto_racing,5386]]'
+different_from: '[[_Standards/WikiData/WD~NASCAR,3247929|WD~NASCAR,3247929]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_NASCAR,17378076|WD~Portal_NASCAR,17378076]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Charlotte,16565|WD~Charlotte,16565]]'
+operating_area: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 social_media_followers:
 - 1550000
 - 965759

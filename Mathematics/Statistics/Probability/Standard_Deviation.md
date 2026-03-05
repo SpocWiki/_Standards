@@ -79,21 +79,21 @@ aliases:
 - 표준 편차
 has_id_wikidata: Q159375
 different_from:
-- '[[_Standards/WikiData/WD~root_mean_square,223323]]'
-- '[[_Standards/WikiData/WD~sample_standard_deviation,112076372]]'
-- '[[_Standards/WikiData/WD~root_mean_square_deviation,29037]]'
+- '[[_Standards/WikiData/WD~root_mean_square,223323|WD~root_mean_square,223323]]'
+- '[[_Standards/WikiData/WD~sample_standard_deviation,112076372|WD~sample_standard_deviation,112076372]]'
+- '[[_Standards/WikiData/WD~root_mean_square_deviation,29037|WD~root_mean_square_deviation,29037]]'
 instance_of:
-- '[[_Standards/WikiData/WD~statistical_dispersion,845777]]'
-- '[[_Standards/WikiData/WD~descriptive_statistic,28873709]]'
-part_of: '[[_Standards/WikiData/WD~stochastic,1071239]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
+- '[[_Standards/WikiData/WD~statistical_dispersion,845777|WD~statistical_dispersion,845777]]'
+- '[[_Standards/WikiData/WD~descriptive_statistic,28873709|WD~descriptive_statistic,28873709]]'
+part_of: '[[_Standards/WikiData/WD~stochastic,1071239|WD~stochastic,1071239]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641|WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>V</mi><mo stretchy="false">(</mo><mo stretchy="false">&#x22C5;</mo><mo stretchy="false">)</mo></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C3;</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>X</mi></mstyle></mrow></math>
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C3;</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><msqrt><mrow data-mjx-texclass="ORD"><mi>V</mi><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo></mrow></msqrt></mrow></mstyle></mrow></math>
-facet_of: '[[_Standards/WikiData/WD~statistics,12483]]'
+facet_of: '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C3;</mi></mstyle></mrow></math>
 short_name: SD
 Dewey_Decimal_Classification: 519.535

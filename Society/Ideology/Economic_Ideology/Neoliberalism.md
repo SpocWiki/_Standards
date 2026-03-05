@@ -60,14 +60,14 @@ aliases:
 - 新自由主義
 - 신자유주의
 has_id_wikidata: Q162719
-subclass_of: '[[_Standards/WikiData/WD~economic_liberalism,729119]]'
-different_from: '[[_Standards/WikiData/WD~Neoliberalism,1417017]]'
+subclass_of: '[[_Standards/WikiData/WD~economic_liberalism,729119|WD~economic_liberalism,729119]]'
+different_from: '[[_Standards/WikiData/WD~Neoliberalism,1417017|WD~Neoliberalism,1417017]]'
 instance_of:
-- '[[_Standards/WikiData/WD~economic_ideology,5333510]]'
-- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~neoliberism,19060633]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Neoliberalism,22713933]]'
-in_opposition_to: '[[_Standards/WikiData/WD~anti_neoliberalism,110157247]]'
+- '[[_Standards/WikiData/WD~economic_ideology,5333510|WD~economic_ideology,5333510]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~neoliberism,19060633|WD~neoliberism,19060633]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Neoliberalism,22713933|WD~Template_Neoliberalism,22713933]]'
+in_opposition_to: '[[_Standards/WikiData/WD~anti_neoliberalism,110157247|WD~anti_neoliberalism,110157247]]'
 OmegaWiki_Defined_Meaning: 1208835
 subreddit: neoliberal
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EffectOfTariff.svg

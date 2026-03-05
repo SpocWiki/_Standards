@@ -77,27 +77,27 @@ aliases:
 - 등산
 has_id_wikidata: Q36908
 followed_by:
-- '[[_Standards/WikiData/WD~extreme_skiing,84105]]'
-- '[[_Standards/WikiData/WD~BASE_jumping,809831]]'
+- '[[_Standards/WikiData/WD~extreme_skiing,84105|WD~extreme_skiing,84105]]'
+- '[[_Standards/WikiData/WD~BASE_jumping,809831|WD~BASE_jumping,809831]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~mountain_guide,819677]]'
-- '[[_Standards/WikiData/WD~mountaineer,9149093]]'
+- '[[_Standards/WikiData/WD~mountain_guide,819677|WD~mountain_guide,819677]]'
+- '[[_Standards/WikiData/WD~mountaineer,9149093|WD~mountaineer,9149093]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mountain_sport,820236]]'
-- '[[_Standards/WikiData/WD~outdoor_recreation,968907]]'
-- '[[_Standards/WikiData/WD~climbing,22857]]'
-has_list: '[[_Standards/WikiData/WD~glossary_of_climbing_terms,827331]]'
+- '[[_Standards/WikiData/WD~mountain_sport,820236|WD~mountain_sport,820236]]'
+- '[[_Standards/WikiData/WD~outdoor_recreation,968907|WD~outdoor_recreation,968907]]'
+- '[[_Standards/WikiData/WD~climbing,22857|WD~climbing,22857]]'
+has_list: '[[_Standards/WikiData/WD~glossary_of_climbing_terms,827331|WD~glossary_of_climbing_terms,827331]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mountaineering,63173102]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q121603331,121603331]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mountaineering,63173102|WD~Portal_Mountaineering,63173102]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q121603331,121603331|WD~Q121603331,121603331]]'
 instance_of:
-- '[[_Standards/WikiData/WD~climbing_discipline,125942822]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~climbing_discipline,125942822|WD~climbing_discipline,125942822]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
 social_media_followers: 177905
 BHCL_UUID: 1d722ab1-649c-4f34-8968-0ffc06a5df16
 U_S_National_Archives_Identifier: 10642219

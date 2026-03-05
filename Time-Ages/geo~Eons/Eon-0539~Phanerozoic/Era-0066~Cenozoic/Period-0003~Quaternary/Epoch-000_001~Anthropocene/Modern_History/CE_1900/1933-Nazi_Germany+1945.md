@@ -167,108 +167,108 @@ aliases:
 - "\U0001033D\U00010330\U00010336\U00010339 \U00010338\U00010339\U0001033F\U00010333\U00010339\U00010343\U0001033A\U00010330\U0001033B\U00010330\U0001033D\U00010333"
 has_id_wikidata: Q7318
 anthem:
-- '[[_Standards/WikiData/WD~Horst-Wessel-Lied,154059]]'
-- '[[_Standards/WikiData/WD~Das_Lied_der_Deutschen,44042]]'
+- '[[_Standards/WikiData/WD~Horst-Wessel-Lied,154059|WD~Horst-Wessel-Lied,154059]]'
+- '[[_Standards/WikiData/WD~Das_Lied_der_Deutschen,44042|WD~Das_Lied_der_Deutschen,44042]]'
 area: 696.265
 basic_form_of_government:
-- '[[_Standards/WikiData/WD~dictatorship,317]]'
-- '[[_Standards/WikiData/WD~republic,7270]]'
-- '[[_Standards/WikiData/WD~one-party_dictatorship,117405789]]'
-- '[[_Standards/WikiData/WD~semi-presidential_system,49890]]'
-capital: '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~dictatorship,317|WD~dictatorship,317]]'
+- '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~one-party_dictatorship,117405789|WD~one-party_dictatorship,117405789]]'
+- '[[_Standards/WikiData/WD~semi-presidential_system,49890|WD~semi-presidential_system,49890]]'
+capital: '[[_Standards/WikiData/WD~Berlin,64|WD~Berlin,64]]'
 coat_of_arms:
-- '[[_Standards/WikiData/WD~Reichsadler,2139378]]'
-- '[[_Standards/WikiData/WD~Reichsadler_of_the_Nazi_Germany,9274199]]'
+- '[[_Standards/WikiData/WD~Reichsadler,2139378|WD~Reichsadler,2139378]]'
+- '[[_Standards/WikiData/WD~Reichsadler_of_the_Nazi_Germany,9274199|WD~Reichsadler_of_the_Nazi_Germany,9274199]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Reichsadler%20Deutsches%20Reich%20%281935%E2%80%931945%29.svg
 Commons_category: Nazi Germany
 Commons_gallery: Third Reich
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Bavaria,980]]'
-- '[[_Standards/WikiData/WD~Berlin,64]]'
-- '[[_Standards/WikiData/WD~Bremen,1209]]'
-- '[[_Standards/WikiData/WD~Hamburg,1055]]'
-- '[[_Standards/WikiData/WD~Lübeck,2843]]'
-- '[[_Standards/WikiData/WD~Q27069436,27069436]]'
-- "[[_Standards/WikiData/WD~Free_People's_State_of_Württemberg,569871]]"
-- '[[_Standards/WikiData/WD~Free_State_of_Anhalt,705438]]'
-- '[[_Standards/WikiData/WD~Free_State_of_Mecklenburg,578002]]'
-- '[[_Standards/WikiData/WD~Free_State_of_Oldenburg,2372248]]'
-- '[[_Standards/WikiData/WD~Free_State_of_Prussia,161036]]'
-- "[[_Standards/WikiData/WD~People's_State_of_Hesse,694231]]"
-- '[[_Standards/WikiData/WD~Republic_of_Baden,690821]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Bavaria,980|WD~Bavaria,980]]'
+- '[[_Standards/WikiData/WD~Berlin,64|WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~Bremen,1209|WD~Bremen,1209]]'
+- '[[_Standards/WikiData/WD~Hamburg,1055|WD~Hamburg,1055]]'
+- '[[_Standards/WikiData/WD~Lübeck,2843|WD~Lübeck,2843]]'
+- '[[_Standards/WikiData/WD~Q27069436,27069436|WD~Q27069436,27069436]]'
+- "[[_Standards/WikiData/WD~Free_People's_State_of_Württemberg,569871|WD~Free_People's_State_of_Württemberg,569871]]"
+- '[[_Standards/WikiData/WD~Free_State_of_Anhalt,705438|WD~Free_State_of_Anhalt,705438]]'
+- '[[_Standards/WikiData/WD~Free_State_of_Mecklenburg,578002|WD~Free_State_of_Mecklenburg,578002]]'
+- '[[_Standards/WikiData/WD~Free_State_of_Oldenburg,2372248|WD~Free_State_of_Oldenburg,2372248]]'
+- '[[_Standards/WikiData/WD~Free_State_of_Prussia,161036|WD~Free_State_of_Prussia,161036]]'
+- "[[_Standards/WikiData/WD~People's_State_of_Hesse,694231|WD~People's_State_of_Hesse,694231]]"
+- '[[_Standards/WikiData/WD~Republic_of_Baden,690821|WD~Republic_of_Baden,690821]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 coordinate_location: Point(13.379722222 52.511111111)
-country: '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+country: '[[_Standards/WikiData/WD~Nazi_Germany,7318|WD~Nazi_Germany,7318]]'
 dissolved_abolished_or_demolished_date: 1945-05-23
-facet_of: '[[_Standards/WikiData/WD~German_Reich,1206012]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Nazi_Germany,1073388]]'
+facet_of: '[[_Standards/WikiData/WD~German_Reich,1206012|WD~German_Reich,1206012]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Nazi_Germany,1073388|WD~flag_of_Nazi_Germany,1073388]]'
 flag_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany%20%281933%E2%80%931935%29.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany%20%281935%E2%80%931945%29.svg
 has_time_started: 1933-03-15
 has_time_stopped: 1945-05-23
 head_of_state:
-- '[[_Standards/WikiData/WD~Adolf_Hitler,352]]'
-- '[[_Standards/WikiData/WD~Karl_Dönitz,76437]]'
-- '[[_Standards/WikiData/WD~Paul_von_Hindenburg,2667]]'
+- '[[_Standards/WikiData/WD~Adolf_Hitler,352|WD~Adolf_Hitler,352]]'
+- '[[_Standards/WikiData/WD~Karl_Dönitz,76437|WD~Karl_Dönitz,76437]]'
+- '[[_Standards/WikiData/WD~Paul_von_Hindenburg,2667|WD~Paul_von_Hindenburg,2667]]'
 inception: 1933-03-15
-instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
-language_used: '[[_Standards/WikiData/WD~German,188]]'
-legislative_body: '[[_Standards/WikiData/WD~Reichstag,878525]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
+language_used: '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
+legislative_body: '[[_Standards/WikiData/WD~Reichstag,878525|WD~Reichstag,878525]]'
 located_in_the_present_day_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Austria,40]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20War%20II%20in%20Europe%2C%201942.svg
-member_of: '[[_Standards/WikiData/WD~Axis_Powers,43056]]'
+member_of: '[[_Standards/WikiData/WD~Axis_Powers,43056|WD~Axis_Powers,43056]]'
 motto_text: Ein Volk, ein Reich, ein Führer
 name_in_native_language: Deutsches Reich
 native_label: Deutsches Reich
-official_language: '[[_Standards/WikiData/WD~German,188]]'
+official_language: '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
 official_name: Deutsches Reich
-official_religion: '[[_Standards/WikiData/WD~secular_state,859563]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828761,22828761]]'
+official_religion: '[[_Standards/WikiData/WD~secular_state,859563|WD~secular_state,859563]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828761,22828761|WD~Q22828761,22828761]]'
 population: 109518183
 replaced_by:
-- '[[_Standards/WikiData/WD~American_occupation_zone_in_Germany,55304]]'
-- '[[_Standards/WikiData/WD~British_occupation_zone_in_Germany,55306]]'
-- '[[_Standards/WikiData/WD~French_occupation_zone_in_Germany,55309]]'
-- '[[_Standards/WikiData/WD~Soviet_occupation_zone_of_Germany,55300]]'
+- '[[_Standards/WikiData/WD~American_occupation_zone_in_Germany,55304|WD~American_occupation_zone_in_Germany,55304]]'
+- '[[_Standards/WikiData/WD~British_occupation_zone_in_Germany,55306|WD~British_occupation_zone_in_Germany,55306]]'
+- '[[_Standards/WikiData/WD~French_occupation_zone_in_Germany,55309|WD~French_occupation_zone_in_Germany,55309]]'
+- '[[_Standards/WikiData/WD~Soviet_occupation_zone_of_Germany,55300|WD~Soviet_occupation_zone_of_Germany,55300]]'
 replaces:
-- '[[_Standards/WikiData/WD~Federal_State_of_Austria,176495]]'
-- '[[_Standards/WikiData/WD~Free_City_of_Danzig,216173]]'
-- '[[_Standards/WikiData/WD~Weimar_Republic,41304]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Third_Reich,518617]]'
+- '[[_Standards/WikiData/WD~Federal_State_of_Austria,176495|WD~Federal_State_of_Austria,176495]]'
+- '[[_Standards/WikiData/WD~Free_City_of_Danzig,216173|WD~Free_City_of_Danzig,216173]]'
+- '[[_Standards/WikiData/WD~Weimar_Republic,41304|WD~Weimar_Republic,41304]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Third_Reich,518617|WD~Third_Reich,518617]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Lithuania,37]]'
-- '[[_Standards/WikiData/WD~Luxembourg,32]]'
-- '[[_Standards/WikiData/WD~Memelland,161334]]'
-- '[[_Standards/WikiData/WD~Netherlands,55]]'
-- '[[_Standards/WikiData/WD~Switzerland,39]]'
-- '[[_Standards/WikiData/WD~Yugoslavia,36704]]'
-- '[[_Standards/WikiData/WD~Federal_State_of_Austria,176495]]'
-- '[[_Standards/WikiData/WD~First_Czechoslovak_Republic,140359]]'
-- '[[_Standards/WikiData/WD~First_Republic_of_Austria,518101]]'
-- '[[_Standards/WikiData/WD~French_Third_Republic,70802]]'
-- '[[_Standards/WikiData/WD~General_Government,156111]]'
-- '[[_Standards/WikiData/WD~Independent_State_of_Croatia,153128]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Hungary,600018]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-- '[[_Standards/WikiData/WD~Protectorate_of_Bohemia_and_Moravia,152750]]'
-- '[[_Standards/WikiData/WD~Second_Czechoslovak_Republic,2010024]]'
-- '[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]'
-- '[[_Standards/WikiData/WD~Slovak_Republic,154401]]'
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~Vichy_France,69808]]'
+- '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
+- '[[_Standards/WikiData/WD~Luxembourg,32|WD~Luxembourg,32]]'
+- '[[_Standards/WikiData/WD~Memelland,161334|WD~Memelland,161334]]'
+- '[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~Yugoslavia,36704|WD~Yugoslavia,36704]]'
+- '[[_Standards/WikiData/WD~Federal_State_of_Austria,176495|WD~Federal_State_of_Austria,176495]]'
+- '[[_Standards/WikiData/WD~First_Czechoslovak_Republic,140359|WD~First_Czechoslovak_Republic,140359]]'
+- '[[_Standards/WikiData/WD~First_Republic_of_Austria,518101|WD~First_Republic_of_Austria,518101]]'
+- '[[_Standards/WikiData/WD~French_Third_Republic,70802|WD~French_Third_Republic,70802]]'
+- '[[_Standards/WikiData/WD~General_Government,156111|WD~General_Government,156111]]'
+- '[[_Standards/WikiData/WD~Independent_State_of_Croatia,153128|WD~Independent_State_of_Croatia,153128]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Hungary,600018|WD~Kingdom_of_Hungary,600018]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579|WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~Protectorate_of_Bohemia_and_Moravia,152750|WD~Protectorate_of_Bohemia_and_Moravia,152750]]'
+- '[[_Standards/WikiData/WD~Second_Czechoslovak_Republic,2010024|WD~Second_Czechoslovak_Republic,2010024]]'
+- '[[_Standards/WikiData/WD~Second_Polish_Republic,207272|WD~Second_Polish_Republic,207272]]'
+- '[[_Standards/WikiData/WD~Slovak_Republic,154401|WD~Slovak_Republic,154401]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Vichy_France,69808|WD~Vichy_France,69808]]'
 short_name:
 - Deutschland
 - Niemcy
 - Германия
 - Немачка
 - Нямеччына
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nazi_Germany,6877252]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nazi_Germany,6877252|WD~Portal_Nazi_Germany,6877252]]'
 Universal_Decimal_Classification:
 - (430)"1933/1945"
 - 94(430).086
@@ -471,7 +471,7 @@ dv_has_:
     zh-tw: 納粹德國
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Nazi_Germany,7318]]'
+  - '[[../../../../../../../../WikiData/WD~Nazi_Germany,7318|WD~Nazi_Germany,7318]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945|1933-Nazi_Germany+1945]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945.public|1933-Nazi_Germany+1945.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945.internal|1933-Nazi_Germany+1945.internal]]'
@@ -482,7 +482,7 @@ dv_is_:
 dv_has_duration_years: 12
 dv_has_duration: P12Y2M1W1D
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Nazi_Germany,7318]]'
+- '[[../../../../../../../../WikiData/WD~Nazi_Germany,7318|WD~Nazi_Germany,7318]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945|1933-Nazi_Germany+1945]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945.public|1933-Nazi_Germany+1945.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945.internal|1933-Nazi_Germany+1945.internal]]'
@@ -496,7 +496,7 @@ dv_is_same_as:
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Nazi_Germany,7318]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Nazi_Germany,7318|WD~Nazi_Germany,7318]] 
 
 ## #has_/text_of_/abstract 
 

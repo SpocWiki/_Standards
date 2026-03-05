@@ -10,7 +10,7 @@ tags:
 type: Country
 dv_has_name_en: EAST &amp; WEST PAKISTAN
 dv_has_name_de: Pakistan
-dv_has_place_continent: "[[../Asia]]"
+dv_has_place_continent: "[[../Asia|Asia]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN|EAST_&_WEST_PAKISTAN]]"

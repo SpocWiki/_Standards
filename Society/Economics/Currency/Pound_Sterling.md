@@ -105,27 +105,27 @@ aliases:
 - 파운드 스털링
 has_id_wikidata: Q25224
 named_after:
-- '[[_Standards/WikiData/WD~pound,100995]]'
-- '[[_Standards/WikiData/WD~sterling_silver,31576]]'
-central_bank_issuer: '[[_Standards/WikiData/WD~Bank_of_England,183231]]'
+- '[[_Standards/WikiData/WD~pound,100995|WD~pound,100995]]'
+- '[[_Standards/WikiData/WD~sterling_silver,31576|WD~sterling_silver,31576]]'
+central_bank_issuer: '[[_Standards/WikiData/WD~Bank_of_England,183231|WD~Bank_of_England,183231]]'
 different_from:
-- '[[_Standards/WikiData/WD~Pound,228907]]'
-- '[[_Standards/WikiData/WD~Pfund,2084453]]'
-depicted_by: '[[_Standards/WikiData/WD~_,249306]]'
-currency_symbol_description: '[[_Standards/WikiData/WD~_,249306]]'
+- '[[_Standards/WikiData/WD~Pound,228907|WD~Pound,228907]]'
+- '[[_Standards/WikiData/WD~Pfund,2084453|WD~Pfund,2084453]]'
+depicted_by: '[[_Standards/WikiData/WD~_,249306|WD~_,249306]]'
+currency_symbol_description: '[[_Standards/WikiData/WD~_,249306|WD~_,249306]]'
 instance_of:
-- '[[_Standards/WikiData/WD~pound,339180]]'
-- '[[_Standards/WikiData/WD~currency,8142]]'
-subdivision_of_this_unit: '[[_Standards/WikiData/WD~penny,680047]]'
+- '[[_Standards/WikiData/WD~pound,339180|WD~pound,339180]]'
+- '[[_Standards/WikiData/WD~currency,8142|WD~currency,8142]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~penny,680047|WD~penny,680047]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-location_of_creation: '[[_Standards/WikiData/WD~Royal_Mint,951830]]'
-replaces: '[[_Standards/WikiData/WD~Anglo_Saxon_pound,4763680]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+location_of_creation: '[[_Standards/WikiData/WD~Royal_Mint,951830|WD~Royal_Mint,951830]]'
+replaces: '[[_Standards/WikiData/WD~Anglo_Saxon_pound,4763680|WD~Anglo_Saxon_pound,4763680]]'
 conversion_to_standard_unit: 1.434720229555237
-applies_to_jurisdiction: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 PermID: 500269
 price:
 - 1.180998

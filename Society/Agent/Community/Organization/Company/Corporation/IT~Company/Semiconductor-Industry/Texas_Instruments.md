@@ -116,7 +116,7 @@ aliases:
 > TI produced the world's first commercial silicon transistor in 1954, 
 > and the same year designed and manufactured the first [[Transistor-Radio]]. 
 > 
-> [[../../../../../../../../Science/Inventor/Kilby,Jack]] invented the integrated circuit in 1958 
+> [[../../../../../../../../Science/Inventor/Kilby,Jack|Kilby,Jack]] invented the integrated circuit in 1958 
 > while working at TI's Central Research Labs. 
 > TI also invented the hand-held calculator in 1967, 
 > and introduced the first single-chip microcontroller  in 1970, 
@@ -140,7 +140,7 @@ aliases:
 
 
 In early 1952, Texas Instruments purchased a patent license 
-to produce germanium [[../../../../../../../../Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor]]s from [Western Electric](https://en.wikipedia.org/wiki/Western_Electric "Western Electric"), 
+to produce germanium [[../../../../../../../../Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor|Transistor]]s from [Western Electric](https://en.wikipedia.org/wiki/Western_Electric "Western Electric"), 
 the manufacturing arm of AT&T, for US$25,000, 
 beginning production by the end of the year. 
 
@@ -154,7 +154,7 @@ Adcock, who like Teal was a [physical chemist](https://en.wikipedia.org/wiki/Phy
 focused on the task of fabricating grown-junction, [silicon](https://en.wikipedia.org/wiki/Silicon "Silicon"), single-crystal, 
 small-signal transistors. Adcock later became the first TI Principal Fellow. 
 
-[[../../../../../../../../Science/Inventor/Kilby,Jack]], an employee at TI, invented the [integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit "Integrated circuit") in 1958.
+[[../../../../../../../../Science/Inventor/Kilby,Jack|Kilby,Jack]], an employee at TI, invented the [integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit "Integrated circuit") in 1958.
 Kilby recorded his initial ideas concerning the integrated circuit in July 1958, 
 and successfully demonstrated the world's first working integrated circuit on 1958-09-12.
 Six months later, [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce "Robert Noyce") of [Fairchild Semiconductor](https://en.wikipedia.org/wiki/Fairchild_Semiconductor "Fairchild Semiconductor") 

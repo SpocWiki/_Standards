@@ -133,13 +133,13 @@ aliases:
 - 명칭
 has_id_wikidata: Q82799
 different_from:
-- '[[_Standards/WikiData/WD~proper_noun,147276]]'
-- '[[_Standards/WikiData/WD~nominal,503992]]'
-- '[[_Standards/WikiData/WD~full_name,1071027]]'
-- '[[_Standards/WikiData/WD~Name,31967286]]'
+- '[[_Standards/WikiData/WD~proper_noun,147276|WD~proper_noun,147276]]'
+- '[[_Standards/WikiData/WD~nominal,503992|WD~nominal,503992]]'
+- '[[_Standards/WikiData/WD~full_name,1071027|WD~full_name,1071027]]'
+- '[[_Standards/WikiData/WD~Name,31967286|WD~Name,31967286]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~designation,151411]]'
-- '[[_Standards/WikiData/WD~title,783521]]'
+- '[[_Standards/WikiData/WD~designation,151411|WD~designation,151411]]'
+- '[[_Standards/WikiData/WD~title,783521|WD~title,783521]]'
 confidential: public
 cssclasses:
 - Predicate
@@ -160,22 +160,22 @@ tags:
 - schema-org/Property/Text
 title: has_name
 type: Pred_Text
-studied_by: '[[_Standards/WikiData/WD~onomastics,175156]]'
+studied_by: '[[_Standards/WikiData/WD~onomastics,175156|WD~onomastics,175156]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~nominal,503992]]'
-- '[[_Standards/WikiData/WD~signifier,651943]]'
-- '[[_Standards/WikiData/WD~identifier,853614]]'
-- '[[_Standards/WikiData/WD~word_or_phrase,115372263]]'
-manifestation_of: "[[_Standards/WikiData/WD~\U0001D45B_tuple,600590]]"
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Names,15884604]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216]]'
-part_of: '[[_Standards/WikiData/WD~language,315]]'
+- '[[_Standards/WikiData/WD~nominal,503992|WD~nominal,503992]]'
+- '[[_Standards/WikiData/WD~signifier,651943|WD~signifier,651943]]'
+- '[[_Standards/WikiData/WD~identifier,853614|WD~identifier,853614]]'
+- '[[_Standards/WikiData/WD~word_or_phrase,115372263|WD~word_or_phrase,115372263]]'
+manifestation_of: "[[_Standards/WikiData/WD~\U0001D45B_tuple,600590|WD~\U0001D45B_tuple,600590]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Names,15884604|WD~WikiProject_Names,15884604]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216|WD~Open_Culture_GLAM_Glossary,115123216]]'
+part_of: '[[_Standards/WikiData/WD~language,315|WD~language,315]]'
 Wikidata_property:
 - name in native language
 - subject named as
 - name
-has_part_s_: '[[_Standards/WikiData/WD~word,8171]]'
+has_part_s_: '[[_Standards/WikiData/WD~word,8171|WD~word,8171]]'
 Dewey_Decimal_Classification: 929
 exact_match: https://schema.org/name
 OpenStreetMap_key: name

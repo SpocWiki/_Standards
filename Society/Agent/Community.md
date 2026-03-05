@@ -110,23 +110,23 @@ aliases:
 - 공동체
 has_id_wikidata: Q177634
 different_from:
-- '[[_Standards/WikiData/WD~commune,517760]]'
-- '[[_Standards/WikiData/WD~social_group,874405]]'
-- '[[_Standards/WikiData/WD~obshchina,1038910]]'
-- '[[_Standards/WikiData/WD~ecological_community,5608096]]'
-- '[[_Standards/WikiData/WD~crowd,13430821]]'
+- '[[_Standards/WikiData/WD~commune,517760|WD~commune,517760]]'
+- '[[_Standards/WikiData/WD~social_group,874405|WD~social_group,874405]]'
+- '[[_Standards/WikiData/WD~obshchina,1038910|WD~obshchina,1038910]]'
+- '[[_Standards/WikiData/WD~ecological_community,5608096|WD~ecological_community,5608096]]'
+- '[[_Standards/WikiData/WD~crowd,13430821|WD~crowd,13430821]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_group,874405]]'
-- '[[_Standards/WikiData/WD~cluster,21157127]]'
+- '[[_Standards/WikiData/WD~social_group,874405|WD~social_group,874405]]'
+- '[[_Standards/WikiData/WD~cluster,21157127|WD~cluster,21157127]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~social_community,4430245]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_community,7112588]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Community,7645747]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~social_community,4430245|WD~social_community,4430245]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_community,7112588|WD~outline_of_community,7112588]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Community,7645747|WD~Template_Community,7645747]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216|WD~Open_Culture_GLAM_Glossary,115123216]]'
 Dewey_Decimal_Classification: 307
 Commons_category: Community
 OmegaWiki_Defined_Meaning: 860719

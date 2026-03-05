@@ -67,17 +67,17 @@ aliases:
 - 電子試算表
 - 스프레드시트
 has_id_wikidata: Q183197
-subclass_of: '[[_Standards/WikiData/WD~application,166142]]'
+subclass_of: '[[_Standards/WikiData/WD~application,166142|WD~application,166142]]'
 instance_of:
-- '[[_Standards/WikiData/WD~software_feature,4485156]]'
-- '[[_Standards/WikiData/WD~software_category,17155032]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~table_cell,7673190]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Spreadsheets,13412532]]'
+- '[[_Standards/WikiData/WD~software_feature,4485156|WD~software_feature,4485156]]'
+- '[[_Standards/WikiData/WD~software_category,17155032|WD~software_category,17155032]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~table_cell,7673190|WD~table_cell,7673190]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Spreadsheets,13412532|WD~Template_Spreadsheets,13412532]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~workbook,26853769]]'
-- '[[_Standards/WikiData/WD~chart,28923]]'
-has_part_s_: '[[_Standards/WikiData/WD~active_cell,59154568]]'
-uses: '[[_Standards/WikiData/WD~spreadsheet_function,124785202]]'
+- '[[_Standards/WikiData/WD~workbook,26853769|WD~workbook,26853769]]'
+- '[[_Standards/WikiData/WD~chart,28923|WD~chart,28923]]'
+has_part_s_: '[[_Standards/WikiData/WD~active_cell,59154568|WD~active_cell,59154568]]'
+uses: '[[_Standards/WikiData/WD~spreadsheet_function,124785202|WD~spreadsheet_function,124785202]]'
 Nomenclature_for_Museum_Cataloging:
 - 13674
 - 10413

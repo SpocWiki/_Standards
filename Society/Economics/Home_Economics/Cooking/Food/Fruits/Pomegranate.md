@@ -65,17 +65,17 @@ aliases:
 - 석류
 has_id_wikidata: Q13222088
 color:
-- '[[_Standards/WikiData/WD~pink,429220]]'
-- '[[_Standards/WikiData/WD~yellow,943]]'
-- '[[_Standards/WikiData/WD~red,3142]]'
+- '[[_Standards/WikiData/WD~pink,429220|WD~pink,429220]]'
+- '[[_Standards/WikiData/WD~yellow,943|WD~yellow,943]]'
+- '[[_Standards/WikiData/WD~red,3142|WD~red,3142]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Balausta,1747965]]'
-- '[[_Standards/WikiData/WD~fruit,3314483]]'
-- '[[_Standards/WikiData/WD~berry,13184]]'
+- '[[_Standards/WikiData/WD~Balausta,1747965|WD~Balausta,1747965]]'
+- '[[_Standards/WikiData/WD~fruit,3314483|WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~berry,13184|WD~berry,13184]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-natural_product_of_taxon: '[[_Standards/WikiData/WD~pomegranate,13188]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~pomegranate,13188|WD~pomegranate,13188]]'
 food_energy: 83
 PLU_code:
 - 4445

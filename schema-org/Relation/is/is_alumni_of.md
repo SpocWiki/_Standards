@@ -32,7 +32,7 @@ dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
   inverse:
     - 
-    - "[[../has/has_alumni]]"
+    - "[[../has/has_alumni|has_alumni]]"
   domain: Person
   name: is_alumni_of
   range: EducationalOrganization, Organization
@@ -47,7 +47,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/is/is_alumni_of.secret|is_alumni_of.secret]]"
 dv_has_inverse:
   - 
-  - "[[../has/has_alumni]]"
+  - "[[../has/has_alumni|has_alumni]]"
 dv_has_domain: Person
 dv_has_name: is_alumni_of
 dv_has_range: EducationalOrganization, Organization

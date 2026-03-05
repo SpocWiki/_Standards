@@ -48,15 +48,15 @@ aliases:
 - 칼라브리아절
 has_id_wikidata: Q567911
 part_of:
-- '[[_Standards/WikiData/WD~Early_Pleistocene,444693]]'
-- '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~Early_Pleistocene,444693|WD~Early_Pleistocene,444693]]'
+- '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Calabrian,1487061]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Calabrian,1487061|WD~GSSP_for_the_base_of_the_Calabrian,1487061]]'
 start_time: -1800000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Calabria,1458]]'
-significant_place: '[[_Standards/WikiData/WD~Crotone,6681]]'
+named_after: '[[_Standards/WikiData/WD~Calabria,1458|WD~Calabria,1458]]'
+significant_place: '[[_Standards/WikiData/WD~Crotone,6681|WD~Crotone,6681]]'
 coordinate_location: Point(17.1348 39.0385)
 end_time: -774100-01-01T00:00:00Z
 Commons_category: Calabrian

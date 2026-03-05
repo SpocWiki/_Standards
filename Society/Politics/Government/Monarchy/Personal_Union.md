@@ -58,15 +58,15 @@ aliases:
 - 동군련합
 - 동군연합
 has_id_wikidata: Q188800
-different_from: '[[_Standards/WikiData/WD~real_union,1093720]]'
+different_from: '[[_Standards/WikiData/WD~real_union,1093720|WD~real_union,1093720]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~realm,1250464]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-- '[[_Standards/WikiData/WD~state,7275]]'
+- '[[_Standards/WikiData/WD~realm,1250464|WD~realm,1250464]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-has_list: '[[_Standards/WikiData/WD~Q65239521,65239521]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+has_list: '[[_Standards/WikiData/WD~Q65239521,65239521|WD~Q65239521,65239521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Union%20of%20the%20Crowns%20Royal%20Badge.svg
 dv_has_:
   name_:

@@ -133,27 +133,27 @@ aliases:
 - 동네
 has_id_wikidata: Q123705
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~microdistrict,604435]]'
-- '[[_Standards/WikiData/WD~bairro,16837104]]'
+- '[[_Standards/WikiData/WD~microdistrict,604435|WD~microdistrict,604435]]'
+- '[[_Standards/WikiData/WD~bairro,16837104|WD~bairro,16837104]]'
 different_from:
-- '[[_Standards/WikiData/WD~city_block,1348006]]'
-- '[[_Standards/WikiData/WD~quarter,2983893]]'
-- '[[_Standards/WikiData/WD~city_district,4286337]]'
-- '[[_Standards/WikiData/WD~místní_část,18114025]]'
-- '[[_Standards/WikiData/WD~municipal_part_of_the_Czech_Republic,61089180]]'
-- '[[_Standards/WikiData/WD~part_of_municipality_in_Czechoslovakia,108000498]]'
+- '[[_Standards/WikiData/WD~city_block,1348006|WD~city_block,1348006]]'
+- '[[_Standards/WikiData/WD~quarter,2983893|WD~quarter,2983893]]'
+- '[[_Standards/WikiData/WD~city_district,4286337|WD~city_district,4286337]]'
+- '[[_Standards/WikiData/WD~místní_část,18114025|WD~místní_část,18114025]]'
+- '[[_Standards/WikiData/WD~municipal_part_of_the_Czech_Republic,61089180|WD~municipal_part_of_the_Czech_Republic,61089180]]'
+- '[[_Standards/WikiData/WD~part_of_municipality_in_Czechoslovakia,108000498|WD~part_of_municipality_in_Czechoslovakia,108000498]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~human_geographic_territorial_entity,15642541]]'
-- '[[_Standards/WikiData/WD~section_of_populated_place,48907157]]'
+- '[[_Standards/WikiData/WD~human_geographic_territorial_entity,15642541|WD~human_geographic_territorial_entity,15642541]]'
+- '[[_Standards/WikiData/WD~section_of_populated_place,48907157|WD~section_of_populated_place,48907157]]'
 part_of:
-- '[[_Standards/WikiData/WD~municipio,115740682]]'
-- '[[_Standards/WikiData/WD~city,515]]'
-- '[[_Standards/WikiData/WD~municipality,15284]]'
+- '[[_Standards/WikiData/WD~municipio,115740682|WD~municipio,115740682]]'
+- '[[_Standards/WikiData/WD~city,515|WD~city,515]]'
+- '[[_Standards/WikiData/WD~municipality,15284|WD~municipality,15284]]'
 properties_for_this_type:
 - location
 - postal code
@@ -163,7 +163,7 @@ properties_for_this_type:
 - country
 - image
 - located in the administrative territorial entity
-facet_of: '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
+facet_of: '[[_Standards/WikiData/WD~administrative_territorial_entity,56061|WD~administrative_territorial_entity,56061]]'
 OmegaWiki_Defined_Meaning: 479536
 DPLA_subject_term: Neighborhoods
 Commons_category: Neighborhoods
@@ -175,7 +175,7 @@ described_at_URL: https://www.whosonfirst.org/docs/placetypes/#neighbourhood
 OpenStreetMap_tag: place=neighbourhood
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Neighborhood,123705]]'
+  - '[[../../../../../WikiData/WD~Neighborhood,123705|WD~Neighborhood,123705]]'
   - '[[/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood|Neighborhood]]'
   - '[[/_public/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.public|Neighborhood.public]]'
   - '[[/_internal/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.internal|Neighborhood.internal]]'
@@ -184,7 +184,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.personal|Neighborhood.personal]]'
   - '[[/_secret/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.secret|Neighborhood.secret]]'
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Neighborhood,123705]]'
+- '[[../../../../../WikiData/WD~Neighborhood,123705|WD~Neighborhood,123705]]'
 - '[[/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood|Neighborhood]]'
 - '[[/_public/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.public|Neighborhood.public]]'
 - '[[/_internal/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.internal|Neighborhood.internal]]'

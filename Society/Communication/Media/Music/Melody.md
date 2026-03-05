@@ -51,24 +51,24 @@ aliases:
 - 선율
 has_id_wikidata: Q170412
 different_from:
-- '[[_Standards/WikiData/WD~harmony,184421]]'
-- '[[_Standards/WikiData/WD~scale,1959825]]'
-studied_by: '[[_Standards/WikiData/WD~melodics,444345]]'
+- '[[_Standards/WikiData/WD~harmony,184421|WD~harmony,184421]]'
+- '[[_Standards/WikiData/WD~scale,1959825|WD~scale,1959825]]'
+studied_by: '[[_Standards/WikiData/WD~melodics,444345|WD~melodics,444345]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 instance_of:
-- '[[_Standards/WikiData/WD~activity,1914636]]'
-- '[[_Standards/WikiData/WD~elements_of_music,11696608]]'
+- '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~elements_of_music,11696608|WD~elements_of_music,11696608]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~musical_work,2188189]]'
-- '[[_Standards/WikiData/WD~song_component,40686289]]'
-- '[[_Standards/WikiData/WD~line,109479462]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Ohang,12829003]]'
-practiced_by: '[[_Standards/WikiData/WD~melodist,124738259]]'
+- '[[_Standards/WikiData/WD~musical_work,2188189|WD~musical_work,2188189]]'
+- '[[_Standards/WikiData/WD~song_component,40686289|WD~song_component,40686289]]'
+- '[[_Standards/WikiData/WD~line,109479462|WD~line,109479462]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Ohang,12829003|WD~Ohang,12829003]]'
+practiced_by: '[[_Standards/WikiData/WD~melodist,124738259|WD~melodist,124738259]]'
 Wikidata_property: has melody
 Commons_category: Melody
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ShortMusicMelody.png

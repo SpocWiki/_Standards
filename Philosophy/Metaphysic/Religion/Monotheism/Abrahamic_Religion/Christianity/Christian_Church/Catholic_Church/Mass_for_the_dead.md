@@ -40,27 +40,27 @@ aliases:
 - 진혼곡
 has_id_wikidata: Q51616
 has_part_s_:
-- '[[_Standards/WikiData/WD~Dies_Irae,83771]]'
-- '[[_Standards/WikiData/WD~Absolve_domine,332736]]'
-- '[[_Standards/WikiData/WD~In_paradisum,573601]]'
-- '[[_Standards/WikiData/WD~Lux_aeterna,1680698]]'
-- '[[_Standards/WikiData/WD~Eternal_Rest,1757850]]'
+- '[[_Standards/WikiData/WD~Dies_Irae,83771|WD~Dies_Irae,83771]]'
+- '[[_Standards/WikiData/WD~Absolve_domine,332736|WD~Absolve_domine,332736]]'
+- '[[_Standards/WikiData/WD~In_paradisum,573601|WD~In_paradisum,573601]]'
+- '[[_Standards/WikiData/WD~Lux_aeterna,1680698|WD~Lux_aeterna,1680698]]'
+- '[[_Standards/WikiData/WD~Eternal_Rest,1757850|WD~Eternal_Rest,1757850]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Catholic_Mass,132612]]'
-- '[[_Standards/WikiData/WD~votive_mass,2534837]]'
-main_subject: '[[_Standards/WikiData/WD~funeral,201676]]'
-commemorates: '[[_Standards/WikiData/WD~funeral,201676]]'
+- '[[_Standards/WikiData/WD~Catholic_Mass,132612|WD~Catholic_Mass,132612]]'
+- '[[_Standards/WikiData/WD~votive_mass,2534837|WD~votive_mass,2534837]]'
+main_subject: '[[_Standards/WikiData/WD~funeral,201676|WD~funeral,201676]]'
+commemorates: '[[_Standards/WikiData/WD~funeral,201676|WD~funeral,201676]]'
 described_by_source:
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q1613897,1613897]]'
-different_from: '[[_Standards/WikiData/WD~music_for_the_Requiem_Mass,6941842]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q1613897,1613897|WD~Q1613897,1613897]]'
+different_from: '[[_Standards/WikiData/WD~music_for_the_Requiem_Mass,6941842|WD~music_for_the_Requiem_Mass,6941842]]'
 native_label: requiem
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Strasbourg%20crypte%20de%20la%20cath%C3%A9drale%20Notre%20Dame%20messe%20de%20Requiem%202013%2001.JPG
 Commons_category: Requiem Mass

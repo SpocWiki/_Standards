@@ -53,13 +53,13 @@ aliases:
 - 키네틱 아트
 has_id_wikidata: Q466521
 subclass_of:
-- '[[_Standards/WikiData/WD~installation_art,212431]]'
-- '[[_Standards/WikiData/WD~art_of_sculpture,11634]]'
+- '[[_Standards/WikiData/WD~installation_art,212431|WD~installation_art,212431]]'
+- '[[_Standards/WikiData/WD~art_of_sculpture,11634|WD~art_of_sculpture,11634]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_genre,1792379]]'
-- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~kinetic_sculpture,29857932]]'
-different_from: '[[_Standards/WikiData/WD~Q112583732,112583732]]'
+- '[[_Standards/WikiData/WD~art_genre,1792379|WD~art_genre,1792379]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855|WD~cultural_movement,2198855]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~kinetic_sculpture,29857932|WD~kinetic_sculpture,29857932]]'
+different_from: '[[_Standards/WikiData/WD~Q112583732,112583732|WD~Q112583732,112583732]]'
 OmegaWiki_Defined_Meaning: 683318
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Whirligig.jpg
 Commons_gallery: Kinetic art

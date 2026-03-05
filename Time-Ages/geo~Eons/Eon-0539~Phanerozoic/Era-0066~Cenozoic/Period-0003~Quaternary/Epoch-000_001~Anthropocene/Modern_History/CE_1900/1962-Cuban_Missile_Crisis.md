@@ -94,18 +94,18 @@ aliases:
 - 쿠바 미사일 위기
 has_id_wikidata: Q128160
 instance_of:
-- '[[_Standards/WikiData/WD~conflict,180684]]'
-- '[[_Standards/WikiData/WD~political_crisis,3002772]]'
-part_of: '[[_Standards/WikiData/WD~history_of_Cuba,473130]]'
-different_from: '[[_Standards/WikiData/WD~Cuban_Missile_Crisis_The_Aftermath,1619053]]'
-facet_of: '[[_Standards/WikiData/WD~Soviet_Union_United_States_relations,3424262]]'
+- '[[_Standards/WikiData/WD~conflict,180684|WD~conflict,180684]]'
+- '[[_Standards/WikiData/WD~political_crisis,3002772|WD~political_crisis,3002772]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Cuba,473130|WD~history_of_Cuba,473130]]'
+different_from: '[[_Standards/WikiData/WD~Cuban_Missile_Crisis_The_Aftermath,1619053|WD~Cuban_Missile_Crisis_The_Aftermath,1619053]]'
+facet_of: '[[_Standards/WikiData/WD~Soviet_Union_United_States_relations,3424262|WD~Soviet_Union_United_States_relations,3424262]]'
 location:
-- '[[_Standards/WikiData/WD~Caribbean_Sea,1247]]'
-- '[[_Standards/WikiData/WD~Cuba,241]]'
+- '[[_Standards/WikiData/WD~Caribbean_Sea,1247|WD~Caribbean_Sea,1247]]'
+- '[[_Standards/WikiData/WD~Cuba,241|WD~Cuba,241]]'
 participant:
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~Cuba,241]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~Cuba,241|WD~Cuba,241]]'
 BHCL_UUID: ebea0419-aa4c-4495-bace-b9c77ebfb7a0
 end_time: 1962-10-28T00:00:00Z
 start_time: 1962-10-14T00:00:00Z

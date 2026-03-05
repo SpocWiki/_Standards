@@ -28,8 +28,8 @@ title: is_a_paid_leave Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../GovernmentBenefitsType]]"
-  enum_of: "[[../GovernmentBenefitsType]]"
+  parent_class: "[[../GovernmentBenefitsType|GovernmentBenefitsType]]"
+  enum_of: "[[../GovernmentBenefitsType|GovernmentBenefitsType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave|Paid_Leave]]"
     - "[[/_public/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.public|Paid_Leave.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.secret|Paid_Leave.secret]]"
     - "[[Paid_Leave]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../GovernmentBenefitsType]]"
-dv_is_enum_of: "[[../GovernmentBenefitsType]]"
+dv_has_parent_class: "[[../GovernmentBenefitsType|GovernmentBenefitsType]]"
+dv_is_enum_of: "[[../GovernmentBenefitsType|GovernmentBenefitsType]]"
 dv_is_same_as:
   - "[[Paid_Leave]]"
   - "[[/_public/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.public|Paid_Leave.public]]"

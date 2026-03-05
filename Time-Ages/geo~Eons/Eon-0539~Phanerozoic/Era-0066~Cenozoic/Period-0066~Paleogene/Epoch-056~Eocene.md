@@ -50,17 +50,17 @@ aliases:
 - 에오세
 has_id_wikidata: Q76274
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-significant_event: '[[_Standards/WikiData/WD~Eocene_Thermal_Maximum_2,1346260]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Eocene,8420242]]'
-named_after: '[[_Standards/WikiData/WD~dawn,11326182]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-named_by: '[[_Standards/WikiData/WD~Charles_Lyell,5333]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+significant_event: '[[_Standards/WikiData/WD~Eocene_Thermal_Maximum_2,1346260|WD~Eocene_Thermal_Maximum_2,1346260]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Eocene,8420242|WD~Category_Eocene,8420242]]'
+named_after: '[[_Standards/WikiData/WD~dawn,11326182|WD~dawn,11326182]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+named_by: '[[_Standards/WikiData/WD~Charles_Lyell,5333|WD~Charles_Lyell,5333]]'
 Commons_category: Eocene
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Mesonyx.jpg
@@ -228,7 +228,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 56.0 to 33.9 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-045_Ma_(Lutetian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-045_Ma_(Lutetian_Age).png|Earth-045_Ma_(Lutetian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

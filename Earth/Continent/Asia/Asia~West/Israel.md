@@ -359,7 +359,7 @@ dv_UNTERM_Chinese_Formal: 以色列国
 dv_UNTERM_French_Formal: l'État d'Israël
 dv_UNTERM_Russian: Израиль
 dv_UNTERM_Russian_Formal: Государство Израиль
-dv_Region_Name: '[[../../Asia]]'
+dv_Region_Name: '[[../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Israel]]'
 dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
@@ -395,9 +395,9 @@ dv_is_:
 dv_has_name_de: Israel
 dv_Area-Total: 21946
 dv_Area-Land: 20620
-dv_has_place_continent: '[[../../Asia]]'
+dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: IL
-dv_Capital: '[[Israel/Counties/Jerusalem]]'
+dv_Capital: '[[Israel/Counties/Jerusalem|Jerusalem]]'
 dv_Alcohol-l: 2.9
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 35
@@ -561,13 +561,13 @@ has_id_wikidata: Q801
 age_of_candidacy: 21
 age_of_consent: 14
 age_of_majority: 18
-anthem: '[[_Standards/WikiData/WD~Hatikvah,130865]]'
-archives_at: '[[_Standards/WikiData/WD~Israel_State_Archives,2637340]]'
+anthem: '[[_Standards/WikiData/WD~Hatikvah,130865|WD~Hatikvah,130865]]'
+archives_at: '[[_Standards/WikiData/WD~Israel_State_Archives,2637340|WD~Israel_State_Archives,2637340]]'
 area: 20770
 Baidu_Tieba_name: 以色列
 basic_form_of_government:
-- '[[_Standards/WikiData/WD~unitary_state,179164]]'
-- '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
+- '[[_Standards/WikiData/WD~unitary_state,179164|WD~unitary_state,179164]]'
+- '[[_Standards/WikiData/WD~parliamentary_republic,4198907|WD~parliamentary_republic,4198907]]'
 BHCL_UUID:
 - a2ccc019-5a69-48a5-9a3b-4b9bca66f174
 - a98a5564-42ef-4491-b9d2-0fdfab531215
@@ -576,10 +576,10 @@ birth_rate:
 - 19.2
 - 19.7
 - 20.1
-capital: '[[_Standards/WikiData/WD~Jerusalem,1218]]'
-central_bank: '[[_Standards/WikiData/WD~Bank_of_Israel,244411]]'
+capital: '[[_Standards/WikiData/WD~Jerusalem,1218|WD~Jerusalem,1218]]'
+central_bank: '[[_Standards/WikiData/WD~Bank_of_Israel,244411|WD~Bank_of_Israel,244411]]'
 CIVICUS_Monitor_country_entry: israel
-coat_of_arms: '[[_Standards/WikiData/WD~Emblem_of_Israel,184991]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Emblem_of_Israel,184991|WD~Emblem_of_Israel,184991]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Israel.svg
 Commons_category: Israel
 Commons_gallery: ישראל / إسرائيل
@@ -587,20 +587,20 @@ compulsory_education_maximum_age_: 18
 compulsory_education_minimum_age_: 3
 confidential: public
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Haifa_District,185845]]'
-- '[[_Standards/WikiData/WD~Southern_District,188781]]'
-- '[[_Standards/WikiData/WD~Central_District,188785]]'
-- '[[_Standards/WikiData/WD~Northern_District,189942]]'
-- '[[_Standards/WikiData/WD~Jerusalem_District,192232]]'
-- '[[_Standards/WikiData/WD~Tel_Aviv_District,192811]]'
-- '[[_Standards/WikiData/WD~Judea_and_Samaria_Area,513200]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Haifa_District,185845|WD~Haifa_District,185845]]'
+- '[[_Standards/WikiData/WD~Southern_District,188781|WD~Southern_District,188781]]'
+- '[[_Standards/WikiData/WD~Central_District,188785|WD~Central_District,188785]]'
+- '[[_Standards/WikiData/WD~Northern_District,189942|WD~Northern_District,189942]]'
+- '[[_Standards/WikiData/WD~Jerusalem_District,192232|WD~Jerusalem_District,192232]]'
+- '[[_Standards/WikiData/WD~Tel_Aviv_District,192811|WD~Tel_Aviv_District,192811]]'
+- '[[_Standards/WikiData/WD~Judea_and_Samaria_Area,513200|WD~Judea_and_Samaria_Area,513200]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 coordinates_of_easternmost_point: Point(35.896111111 32.945277777)
 coordinates_of_northernmost_point: Point(35.768055555 33.332777777)
 coordinates_of_southernmost_point: Point(34.902777777 29.490833333)
 coordinates_of_westernmost_point: Point(34.2675 31.219722222)
 coordinate_location: Point(35.0 31.0)
-country: '[[_Standards/WikiData/WD~Israel,801]]'
+country: '[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
 country_calling_code: 972
 cssclasses:
 - Country
@@ -609,7 +609,7 @@ death_rate:
 - 5.3
 - 5.4
 Democracy_Index: 7.97
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Israel,968767]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Israel,968767|WD~demographics_of_Israel,968767]]'
 demonym:
 - إسرائيلي
 - إسرائيلية
@@ -668,116 +668,116 @@ demonym:
 - ізраїльтянка
 described_at_URL: http://68k.news/index.php?section=nation&loc=IL&lang=HE
 described_by_source:
-- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836|WD~Larousse_Encyclopedia_online,17329836]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Israel%2C%20neighbours%20and%20occupied%20territories-en.svg
 Dewey_Decimal_Classification: 2--5694
 different_from:
-- '[[_Standards/WikiData/WD~Land_of_Israel,155321]]'
-- '[[_Standards/WikiData/WD~Israel,234180]]'
-- '[[_Standards/WikiData/WD~Israel,58217414]]'
+- '[[_Standards/WikiData/WD~Land_of_Israel,155321|WD~Land_of_Israel,155321]]'
+- '[[_Standards/WikiData/WD~Israel,234180|WD~Israel,234180]]'
+- '[[_Standards/WikiData/WD~Israel,58217414|WD~Israel,58217414]]'
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Holy_See,159583]]'
-- '[[_Standards/WikiData/WD~Kurdistan_Region,205047]]'
-- '[[_Standards/WikiData/WD~Mali,912]]'
-- '[[_Standards/WikiData/WD~Angola,916]]'
-- '[[_Standards/WikiData/WD~Philippines,928]]'
-- '[[_Standards/WikiData/WD~Tunisia,948]]'
-- '[[_Standards/WikiData/WD~Zimbabwe,954]]'
-- '[[_Standards/WikiData/WD~Zambia,953]]'
-- '[[_Standards/WikiData/WD~Eritrea,986]]'
-- '[[_Standards/WikiData/WD~Malawi,1020]]'
-- '[[_Standards/WikiData/WD~Mauritania,1025]]'
-- '[[_Standards/WikiData/WD~Namibia,1030]]'
-- '[[_Standards/WikiData/WD~Niger,1032]]'
-- '[[_Standards/WikiData/WD~Nigeria,1033]]'
-- '[[_Standards/WikiData/WD~Uganda,1036]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~Mercosur,4264]]'
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~Norway,20]]'
-- '[[_Standards/WikiData/WD~Ireland,27]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Sweden,34]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Finland,33]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~Switzerland,39]]'
-- '[[_Standards/WikiData/WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Lithuania,37]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Austria,40]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- '[[_Standards/WikiData/WD~Netherlands,55]]'
-- '[[_Standards/WikiData/WD~Egypt,79]]'
-- '[[_Standards/WikiData/WD~Uruguay,77]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-- '[[_Standards/WikiData/WD~Ethiopia,115]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Brazil,155]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Belarus,184]]'
-- '[[_Standards/WikiData/WD~Slovenia,215]]'
-- '[[_Standards/WikiData/WD~Ukraine,212]]'
-- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
-- '[[_Standards/WikiData/WD~Romania,218]]'
-- '[[_Standards/WikiData/WD~North_Macedonia,221]]'
-- '[[_Standards/WikiData/WD~Azerbaijan,227]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-- '[[_Standards/WikiData/WD~Cyprus,229]]'
-- '[[_Standards/WikiData/WD~Malta,233]]'
-- '[[_Standards/WikiData/WD~Cuba,241]]'
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~Algeria,262]]'
-- '[[_Standards/WikiData/WD~Chile,298]]'
-- '[[_Standards/WikiData/WD~Singapore,334]]'
-- '[[_Standards/WikiData/WD~Armenia,399]]'
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~Peru,419]]'
-- '[[_Standards/WikiData/WD~Cambodia,424]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Tonga,678]]'
-- '[[_Standards/WikiData/WD~Papua_New_Guinea,691]]'
-- '[[_Standards/WikiData/WD~Fiji,712]]'
-- '[[_Standards/WikiData/WD~Venezuela,717]]'
-- '[[_Standards/WikiData/WD~Paraguay,733]]'
-- '[[_Standards/WikiData/WD~Colombia,739]]'
-- '[[_Standards/WikiData/WD~Bolivia,750]]'
-- '[[_Standards/WikiData/WD~Guatemala,774]]'
-- '[[_Standards/WikiData/WD~Haiti,790]]'
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~Jordan,810]]'
-- '[[_Standards/WikiData/WD~Nicaragua,811]]'
-- '[[_Standards/WikiData/WD~Myanmar,836]]'
-- '[[_Standards/WikiData/WD~Nepal,837]]'
-- '[[_Standards/WikiData/WD~Qatar,846]]'
-- '[[_Standards/WikiData/WD~Syria,858]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
-- '[[_Standards/WikiData/WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Holy_See,159583|WD~Holy_See,159583]]'
+- '[[_Standards/WikiData/WD~Kurdistan_Region,205047|WD~Kurdistan_Region,205047]]'
+- '[[_Standards/WikiData/WD~Mali,912|WD~Mali,912]]'
+- '[[_Standards/WikiData/WD~Angola,916|WD~Angola,916]]'
+- '[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Tunisia,948|WD~Tunisia,948]]'
+- '[[_Standards/WikiData/WD~Zimbabwe,954|WD~Zimbabwe,954]]'
+- '[[_Standards/WikiData/WD~Zambia,953|WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Eritrea,986|WD~Eritrea,986]]'
+- '[[_Standards/WikiData/WD~Malawi,1020|WD~Malawi,1020]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025|WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Namibia,1030|WD~Namibia,1030]]'
+- '[[_Standards/WikiData/WD~Niger,1032|WD~Niger,1032]]'
+- '[[_Standards/WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]'
+- '[[_Standards/WikiData/WD~Uganda,1036|WD~Uganda,1036]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Mercosur,4264|WD~Mercosur,4264]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~German_Democratic_Republic,16957|WD~German_Democratic_Republic,16957]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~Ireland,27|WD~Ireland,27]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
+- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
+- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
+- '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Slovenia,215|WD~Slovenia,215]]'
+- '[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]'
+- '[[_Standards/WikiData/WD~Romania,218|WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~North_Macedonia,221|WD~North_Macedonia,221]]'
+- '[[_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Cyprus,229|WD~Cyprus,229]]'
+- '[[_Standards/WikiData/WD~Malta,233|WD~Malta,233]]'
+- '[[_Standards/WikiData/WD~Cuba,241|WD~Cuba,241]]'
+- '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Singapore,334|WD~Singapore,334]]'
+- '[[_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Peru,419|WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Cambodia,424|WD~Cambodia,424]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Tonga,678|WD~Tonga,678]]'
+- '[[_Standards/WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]'
+- '[[_Standards/WikiData/WD~Fiji,712|WD~Fiji,712]]'
+- '[[_Standards/WikiData/WD~Venezuela,717|WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Paraguay,733|WD~Paraguay,733]]'
+- '[[_Standards/WikiData/WD~Colombia,739|WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~Bolivia,750|WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Guatemala,774|WD~Guatemala,774]]'
+- '[[_Standards/WikiData/WD~Haiti,790|WD~Haiti,790]]'
+- '[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Jordan,810|WD~Jordan,810]]'
+- '[[_Standards/WikiData/WD~Nicaragua,811|WD~Nicaragua,811]]'
+- '[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
+- '[[_Standards/WikiData/WD~Nepal,837|WD~Nepal,837]]'
+- '[[_Standards/WikiData/WD~Qatar,846|WD~Qatar,846]]'
+- '[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
+- '[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]'
 draft: false
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Israel,1379800]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Israel,1379800|WD~economy_of_Israel,1379800]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Type_H,1266396]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~BS_546,1383497]]'
+- '[[_Standards/WikiData/WD~Type_H,1266396|WD~Type_H,1266396]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~BS_546,1383497|WD~BS_546,1383497]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~101,25648794]]'
-- '[[_Standards/WikiData/WD~100,25648793]]'
-- '[[_Standards/WikiData/WD~102,25648798]]'
-executive_body: '[[_Standards/WikiData/WD~cabinet_of_Israel,2578249]]'
+- '[[_Standards/WikiData/WD~101,25648794|WD~101,25648794]]'
+- '[[_Standards/WikiData/WD~100,25648793|WD~100,25648793]]'
+- '[[_Standards/WikiData/WD~102,25648798|WD~102,25648798]]'
+executive_body: '[[_Standards/WikiData/WD~cabinet_of_Israel,2578249|WD~cabinet_of_Israel,2578249]]'
 expiryDate: ''
 external_data_available_at_URL:
 - http://www.cbs.gov.il/
@@ -790,12 +790,12 @@ female_population:
 - 4699259
 - 4790443
 FIPS_10_4_countries_and_regions_: IS
-flag: '[[_Standards/WikiData/WD~flag_of_Israel,128480]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Israel,128480|WD~flag_of_Israel,128480]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Israel.svg
-foundational_text: '[[_Standards/WikiData/WD~Declaration_of_the_Establishment_of_the_State_of_Israel,223732]]'
-founded_by: '[[_Standards/WikiData/WD~David_Ben-Gurion,37610]]'
+foundational_text: '[[_Standards/WikiData/WD~Declaration_of_the_Establishment_of_the_State_of_Israel,223732|WD~Declaration_of_the_Establishment_of_the_State_of_Israel,223732]]'
+founded_by: '[[_Standards/WikiData/WD~David_Ben-Gurion,37610|WD~David_Ben-Gurion,37610]]'
 GDP_PPP_: 478010000000
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Israel,1616635]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Israel,1616635|WD~geography_of_Israel,1616635]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Israel.map
 Gini_coefficient: 38.6
 GitHub_topic: israel
@@ -805,16 +805,16 @@ Happy_Planet_Index_score: 48.2
 hashtag:
 - israel
 - Israel
-has_cabinet: '[[_Standards/WikiData/WD~cabinet_of_Israel,2578249]]'
+has_cabinet: '[[_Standards/WikiData/WD~cabinet_of_Israel,2578249|WD~cabinet_of_Israel,2578249]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~Jewish_and_democratic_state,2614401]]'
-- '[[_Standards/WikiData/WD~free_country,3174312]]'
+- '[[_Standards/WikiData/WD~Jewish_and_democratic_state,2614401|WD~Jewish_and_democratic_state,2614401]]'
+- '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
 has_time_started: 1948-05-14
-head_of_government: '[[_Standards/WikiData/WD~Benjamin_Netanyahu,43723]]'
-head_of_state: '[[_Standards/WikiData/WD~Isaac_Herzog,983258]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Israeli_Supreme_Court,399798]]'
-highest_point: '[[_Standards/WikiData/WD~Meron,540520]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Israel,2696109]]'
+head_of_government: '[[_Standards/WikiData/WD~Benjamin_Netanyahu,43723|WD~Benjamin_Netanyahu,43723]]'
+head_of_state: '[[_Standards/WikiData/WD~Isaac_Herzog,983258|WD~Isaac_Herzog,983258]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Israeli_Supreme_Court,399798|WD~Israeli_Supreme_Court,399798]]'
+highest_point: '[[_Standards/WikiData/WD~Meron,540520|WD~Meron,540520]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Israel,2696109|WD~history_of_Israel,2696109]]'
 Human_Development_Index: 0.919
 IAB_code: 1325
 icon: flag-il
@@ -827,11 +827,11 @@ Instagram_username:
 - israelarabic
 - stateofisrael
 instance_of:
-- '[[_Standards/WikiData/WD~geographic_region,82794]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~state_with_limited_recognition,10711424]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-- '[[_Standards/WikiData/WD~Mediterranean_country,51576574]]'
+- '[[_Standards/WikiData/WD~geographic_region,82794|WD~geographic_region,82794]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~state_with_limited_recognition,10711424|WD~state_with_limited_recognition,10711424]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[_Standards/WikiData/WD~Mediterranean_country,51576574|WD~Mediterranean_country,51576574]]'
 IOC_country_code: ISR
 IPA_transcription:
 - ˈiːsɾɑɛl
@@ -851,61 +851,61 @@ Languages:
 - ar-IL
 - en-IL
 language_used:
-- '[[_Standards/WikiData/WD~Biblical_Hebrew,1982248]]'
-- '[[_Standards/WikiData/WD~Israeli_Sign_Language,2911863]]'
-- '[[_Standards/WikiData/WD~Al-Sayyid_Bedouin_Sign_Language,2915457]]'
-- '[[_Standards/WikiData/WD~Lishana_Deni,3436461]]'
-- '[[_Standards/WikiData/WD~Lishanid_Noshan,3436467]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Yiddish,8641]]'
-- '[[_Standards/WikiData/WD~Hebrew,9288]]'
-- '[[_Standards/WikiData/WD~Adyghe,27776]]'
-- '[[_Standards/WikiData/WD~Barzani_Jewish_Neo-Aramaic,33234]]'
-- '[[_Standards/WikiData/WD~Judeo-Persian,33367]]'
-- '[[_Standards/WikiData/WD~Jewish_Babylonian_Aramaic,33407]]'
-- '[[_Standards/WikiData/WD~Yevanic,34200]]'
-- '[[_Standards/WikiData/WD~Judaeo-Georgian,35737]]'
-- '[[_Standards/WikiData/WD~South_Levantine_Arabic,55633582]]'
-- '[[_Standards/WikiData/WD~Judeo-Berber,35854]]'
-- '[[_Standards/WikiData/WD~Judeo-Arabic,37733]]'
-- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]'
-- '[[_Standards/WikiData/WD~Bukharian,56469]]'
-- '[[_Standards/WikiData/WD~Lishán_Didán,56473]]'
-- '[[_Standards/WikiData/WD~Samaritan_Hebrew,56502]]'
-- '[[_Standards/WikiData/WD~Judeo-Moroccan,56595]]'
-- '[[_Standards/WikiData/WD~Judeo-Tripolitanian_Arabic,56598]]'
-- '[[_Standards/WikiData/WD~Judeo-Iraqi_Arabic,56599]]'
+- '[[_Standards/WikiData/WD~Biblical_Hebrew,1982248|WD~Biblical_Hebrew,1982248]]'
+- '[[_Standards/WikiData/WD~Israeli_Sign_Language,2911863|WD~Israeli_Sign_Language,2911863]]'
+- '[[_Standards/WikiData/WD~Al-Sayyid_Bedouin_Sign_Language,2915457|WD~Al-Sayyid_Bedouin_Sign_Language,2915457]]'
+- '[[_Standards/WikiData/WD~Lishana_Deni,3436461|WD~Lishana_Deni,3436461]]'
+- '[[_Standards/WikiData/WD~Lishanid_Noshan,3436467|WD~Lishanid_Noshan,3436467]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Yiddish,8641|WD~Yiddish,8641]]'
+- '[[_Standards/WikiData/WD~Hebrew,9288|WD~Hebrew,9288]]'
+- '[[_Standards/WikiData/WD~Adyghe,27776|WD~Adyghe,27776]]'
+- '[[_Standards/WikiData/WD~Barzani_Jewish_Neo-Aramaic,33234|WD~Barzani_Jewish_Neo-Aramaic,33234]]'
+- '[[_Standards/WikiData/WD~Judeo-Persian,33367|WD~Judeo-Persian,33367]]'
+- '[[_Standards/WikiData/WD~Jewish_Babylonian_Aramaic,33407|WD~Jewish_Babylonian_Aramaic,33407]]'
+- '[[_Standards/WikiData/WD~Yevanic,34200|WD~Yevanic,34200]]'
+- '[[_Standards/WikiData/WD~Judaeo-Georgian,35737|WD~Judaeo-Georgian,35737]]'
+- '[[_Standards/WikiData/WD~South_Levantine_Arabic,55633582|WD~South_Levantine_Arabic,55633582]]'
+- '[[_Standards/WikiData/WD~Judeo-Berber,35854|WD~Judeo-Berber,35854]]'
+- '[[_Standards/WikiData/WD~Judeo-Arabic,37733|WD~Judeo-Arabic,37733]]'
+- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467|WD~Modern_Standard_Arabic,56467]]'
+- '[[_Standards/WikiData/WD~Bukharian,56469|WD~Bukharian,56469]]'
+- '[[_Standards/WikiData/WD~Lishán_Didán,56473|WD~Lishán_Didán,56473]]'
+- '[[_Standards/WikiData/WD~Samaritan_Hebrew,56502|WD~Samaritan_Hebrew,56502]]'
+- '[[_Standards/WikiData/WD~Judeo-Moroccan,56595|WD~Judeo-Moroccan,56595]]'
+- '[[_Standards/WikiData/WD~Judeo-Tripolitanian_Arabic,56598|WD~Judeo-Tripolitanian_Arabic,56598]]'
+- '[[_Standards/WikiData/WD~Judeo-Iraqi_Arabic,56599|WD~Judeo-Iraqi_Arabic,56599]]'
 layout: ''
-legislative_body: '[[_Standards/WikiData/WD~Knesset,133396]]'
+legislative_body: '[[_Standards/WikiData/WD~Knesset,133396|WD~Knesset,133396]]'
 Libris_URI: wt798x9f33sdv3p
 licence_plate_code: IL
 license: CC BY-SA 4.0
 life_expectancy: 82.6
 linkTitle: ''
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Fertile_Crescent,170526]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Fertile_Crescent,170526|WD~Fertile_Crescent,170526]]'
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Gulf_of_Aqaba,81611]]'
-- '[[_Standards/WikiData/WD~Sea_of_Galilee,126982]]'
-- '[[_Standards/WikiData/WD~Levantine_Sea,748696]]'
-- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
-- '[[_Standards/WikiData/WD~Dead_Sea,23883]]'
-- '[[_Standards/WikiData/WD~Jordan_River,40059]]'
+- '[[_Standards/WikiData/WD~Gulf_of_Aqaba,81611|WD~Gulf_of_Aqaba,81611]]'
+- '[[_Standards/WikiData/WD~Sea_of_Galilee,126982|WD~Sea_of_Galilee,126982]]'
+- '[[_Standards/WikiData/WD~Levantine_Sea,748696|WD~Levantine_Sea,748696]]'
+- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
+- '[[_Standards/WikiData/WD~Dead_Sea,23883|WD~Dead_Sea,23883]]'
+- '[[_Standards/WikiData/WD~Jordan_River,40059|WD~Jordan_River,40059]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Israel_Standard_Time,2583609]]'
-- '[[_Standards/WikiData/WD~Israel_Summer_Time,6087247]]'
-- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-- '[[_Standards/WikiData/WD~Asia_Jerusalem,63285940]]'
+- '[[_Standards/WikiData/WD~Israel_Standard_Time,2583609|WD~Israel_Standard_Time,2583609]]'
+- '[[_Standards/WikiData/WD~Israel_Summer_Time,6087247|WD~Israel_Summer_Time,6087247]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]'
+- '[[_Standards/WikiData/WD~Asia_Jerusalem,63285940|WD~Asia_Jerusalem,63285940]]'
 location:
 - 32.23
 - 35
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Israel%20location%20map.svg
-location_of_formation: '[[_Standards/WikiData/WD~Independence_Hall,2620299]]'
+location_of_formation: '[[_Standards/WikiData/WD~Independence_Hall,2620299|WD~Independence_Hall,2620299]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Israel%20%28orthographic%20projection%29%20with%20disputed%20territories.svg
-lowest_point: '[[_Standards/WikiData/WD~Dead_Sea,23883]]'
+lowest_point: '[[_Standards/WikiData/WD~Dead_Sea,23883|WD~Dead_Sea,23883]]'
 M49_code: 376
 mains_voltage: 230
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Israel,10781185]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Israel,10781185|WD~WikiProject_Israel,10781185]]'
 male_population:
 - 4592300
 - 4509772
@@ -913,7 +913,7 @@ male_population:
 - 4767057
 maritime_identification_digits: 428
 marriageable_age: 18
-member_of: '[[_Standards/WikiData/WD~United_Nations,1065]]'
+member_of: '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
 MeSH_tree_code: Z01.252.245.500.375
 minimum_wage:
 - 30.61
@@ -921,30 +921,30 @@ minimum_wage:
 mobile_country_code: 425
 name: ꠁꠎꠞꠣꠁꠟ
 named_after:
-- '[[_Standards/WikiData/WD~Land_of_Israel,155321]]'
-- '[[_Standards/WikiData/WD~Jacob,289957]]'
+- '[[_Standards/WikiData/WD~Land_of_Israel,155321|WD~Land_of_Israel,155321]]'
+- '[[_Standards/WikiData/WD~Jacob,289957|WD~Jacob,289957]]'
 native_label:
 - دَوْلَة إِسْرَائِيل
 - מְדִינַת יִשְׂרָאֵל
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Israel%20at%20night.jpg
 nominal_GDP: 520700000000
 number_of_out_of_school_children: 26676
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Israel,208487]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Israel,327948]]'
-official_language: '[[_Standards/WikiData/WD~Hebrew,9288]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Israel,208487|WD~Prime_Minister_of_Israel,208487]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Israel,327948|WD~President_of_Israel,327948]]'
+official_language: '[[_Standards/WikiData/WD~Hebrew,9288|WD~Hebrew,9288]]'
 official_name:
 - دَوْلَة إِسْرَائِيل
 - ישראל
 official_religion:
-- '[[_Standards/WikiData/WD~Druzism,163943]]'
-- '[[_Standards/WikiData/WD~Christianity,5043]]'
-- '[[_Standards/WikiData/WD~Judaism,9268]]'
-- '[[_Standards/WikiData/WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~Druzism,163943|WD~Druzism,163943]]'
+- '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~Judaism,9268|WD~Judaism,9268]]'
+- '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
 official_symbol:
-- '[[_Standards/WikiData/WD~Falafel,188788]]'
-- '[[_Standards/WikiData/WD~Anemone_coronaria,511179]]'
-- '[[_Standards/WikiData/WD~Eurasian_Hoopoe,25247]]'
-- '[[_Standards/WikiData/WD~Canaan_Dog,38602]]'
+- '[[_Standards/WikiData/WD~Falafel,188788|WD~Falafel,188788]]'
+- '[[_Standards/WikiData/WD~Anemone_coronaria,511179|WD~Anemone_coronaria,511179]]'
+- '[[_Standards/WikiData/WD~Eurasian_Hoopoe,25247|WD~Eurasian_Hoopoe,25247]]'
+- '[[_Standards/WikiData/WD~Canaan_Dog,38602|WD~Canaan_Dog,38602]]'
 official_website:
 - https://www.gov.il/
 - https://www.gov.il/ar
@@ -953,45 +953,45 @@ official_website:
 - https://www.gov.il/fr
 - https://www.gov.il/ru
 OmegaWiki_Defined_Meaning: 5746
-open_data_portal: '[[_Standards/WikiData/WD~data.gov.il,97119126]]'
+open_data_portal: '[[_Standards/WikiData/WD~data.gov.il,97119126|WD~data.gov.il,97119126]]'
 ORCID_iD: 0000-0001-7681-7410
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20banner%20Panorama.jpg
-partially_coincident_with: '[[_Standards/WikiData/WD~Palestine_(region),23792]]'
-participant_in: '[[_Standards/WikiData/WD~relations_between_Israel_and_Mercosur,104529468]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Palestine_(region),23792|WD~Palestine_(region),23792]]'
+participant_in: '[[_Standards/WikiData/WD~relations_between_Israel_and_Mercosur,104529468|WD~relations_between_Israel_and_Mercosur,104529468]]'
 part_of:
-- '[[_Standards/WikiData/WD~Middle_East,7204]]'
-- '[[_Standards/WikiData/WD~West_Asia,27293]]'
-- '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Middle_East,7204|WD~Middle_East,7204]]'
+- '[[_Standards/WikiData/WD~West_Asia,27293|WD~West_Asia,27293]]'
+- '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q20829392,20829392]]'
-- '[[_Standards/WikiData/WD~Q23653940,23653940]]'
+- '[[_Standards/WikiData/WD~Q20829392,20829392|WD~Q20829392,20829392]]'
+- '[[_Standards/WikiData/WD~Q23653940,23653940|WD~Q23653940,23653940]]'
 PM20_geo_code: B24e
-political_ideology: '[[_Standards/WikiData/WD~Zionism,42388]]'
+political_ideology: '[[_Standards/WikiData/WD~Zionism,42388|WD~Zionism,42388]]'
 population: 9840000
-production_statistics: '[[_Standards/WikiData/WD~olive,1621080]]'
+production_statistics: '[[_Standards/WikiData/WD~olive,1621080|WD~olive,1621080]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/He-Medinat%20Israel.ogg
 public_holiday:
-- '[[_Standards/WikiData/WD~Passover,121393]]'
-- '[[_Standards/WikiData/WD~Hanukkah,130881]]'
-- '[[_Standards/WikiData/WD~Rosh_Hashanah,131028]]'
-- '[[_Standards/WikiData/WD~Yom_Kippur,132994]]'
-- '[[_Standards/WikiData/WD~Purim,180115]]'
-- '[[_Standards/WikiData/WD~Sukkot,182242]]'
-- '[[_Standards/WikiData/WD~Shavuot,201196]]'
-- '[[_Standards/WikiData/WD~Yom_HaShoah,309530]]'
-- '[[_Standards/WikiData/WD~Lag_BaOmer,748801]]'
-- '[[_Standards/WikiData/WD~Tu_BiShvat,748816]]'
-- '[[_Standards/WikiData/WD~Shemini_Atzeret,932711]]'
-- '[[_Standards/WikiData/WD~Independence_Day,952721]]'
-- '[[_Standards/WikiData/WD~Jerusalem_Day,1472650]]'
-- '[[_Standards/WikiData/WD~Yom_HaZikaron,1539489]]'
-- "[[_Standards/WikiData/WD~Tu_B'Av,1820509]]"
-- '[[_Standards/WikiData/WD~Mimouna,2914551]]'
+- '[[_Standards/WikiData/WD~Passover,121393|WD~Passover,121393]]'
+- '[[_Standards/WikiData/WD~Hanukkah,130881|WD~Hanukkah,130881]]'
+- '[[_Standards/WikiData/WD~Rosh_Hashanah,131028|WD~Rosh_Hashanah,131028]]'
+- '[[_Standards/WikiData/WD~Yom_Kippur,132994|WD~Yom_Kippur,132994]]'
+- '[[_Standards/WikiData/WD~Purim,180115|WD~Purim,180115]]'
+- '[[_Standards/WikiData/WD~Sukkot,182242|WD~Sukkot,182242]]'
+- '[[_Standards/WikiData/WD~Shavuot,201196|WD~Shavuot,201196]]'
+- '[[_Standards/WikiData/WD~Yom_HaShoah,309530|WD~Yom_HaShoah,309530]]'
+- '[[_Standards/WikiData/WD~Lag_BaOmer,748801|WD~Lag_BaOmer,748801]]'
+- '[[_Standards/WikiData/WD~Tu_BiShvat,748816|WD~Tu_BiShvat,748816]]'
+- '[[_Standards/WikiData/WD~Shemini_Atzeret,932711|WD~Shemini_Atzeret,932711]]'
+- '[[_Standards/WikiData/WD~Independence_Day,952721|WD~Independence_Day,952721]]'
+- '[[_Standards/WikiData/WD~Jerusalem_Day,1472650|WD~Jerusalem_Day,1472650]]'
+- '[[_Standards/WikiData/WD~Yom_HaZikaron,1539489|WD~Yom_HaZikaron,1539489]]'
+- "[[_Standards/WikiData/WD~Tu_B'Av,1820509|WD~Tu_B'Av,1820509]]"
+- '[[_Standards/WikiData/WD~Mimouna,2914551|WD~Mimouna,2914551]]'
 publish: true
 publishDate: ''
-railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Israel%20relief%20location%20map.jpg
-replaces: '[[_Standards/WikiData/WD~Mandatory_Palestine,193714]]'
+replaces: '[[_Standards/WikiData/WD~Mandatory_Palestine,193714|WD~Mandatory_Palestine,193714]]'
 retirement_age:
 - 62
 - 67
@@ -1001,16 +1001,16 @@ rural_population:
 - 686549
 - 691676
 shares_border_with:
-- '[[_Standards/WikiData/WD~Egypt,79]]'
-- '[[_Standards/WikiData/WD~Jordan,810]]'
-- '[[_Standards/WikiData/WD~Lebanon,822]]'
-- '[[_Standards/WikiData/WD~Syria,858]]'
+- '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Jordan,810|WD~Jordan,810]]'
+- '[[_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
+- '[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]'
 short_name:
 - "\U0001F1EE\U0001F1F1"
 - ישראל
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26924
-studied_in: '[[_Standards/WikiData/WD~Israel_studies,124814325]]'
+studied_in: '[[_Standards/WikiData/WD~Israel_studies,124814325|WD~Israel_studies,124814325]]'
 subreddit: Israel
 suicide_rate: 5.2
 tags:
@@ -1027,12 +1027,12 @@ TikTok_username:
 - israelinspanish
 title: Israel
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Districts_of_Israel,6199746]]'
-- '[[_Standards/WikiData/WD~Template_Israel_topics,10563945]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Israel,8252866]]'
+- '[[_Standards/WikiData/WD~Template_Districts_of_Israel,6199746|WD~Template_Districts_of_Israel,6199746]]'
+- '[[_Standards/WikiData/WD~Template_Israel_topics,10563945|WD~Template_Israel_topics,10563945]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Israel,8252866|WD~Portal_Israel,8252866]]'
 top_level_Internet_domain:
-- '[[_Standards/WikiData/WD~ישראל.,1833465]]'
-- '[[_Standards/WikiData/WD~.il,40467]]'
+- '[[_Standards/WikiData/WD~ישראל.,1833465|WD~ישראל.,1833465]]'
+- '[[_Standards/WikiData/WD~.il,40467|WD~.il,40467]]'
 total_fertility_rate: 3.08
 trunk_prefix: 0
 type: Country
@@ -1053,7 +1053,7 @@ vocalized_name:
 - دَوْلَة إِسْرَائِيل
 - מְדִינַת יִשְׂרָאֵל
 water_as_percent_of_area: 2.1
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Israel,15264771]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Israel,15264771|WD~outline_of_Israel,15264771]]'
 WIPO_ST_3: IL
 WOEID: 23424852
 X_Twitter_username:
@@ -1138,7 +1138,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Israel/ReadMe]] 
+[[Israel/ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1164,7 +1164,7 @@ Capital = `=this.dv_Capital`
 
 ![[Israel/Emblem_of_Israel.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Israel.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Israel.mp3|Anthem-Israel.mp3]]
 
 ![[Israel/Flag_of_Israel.svg|350]]
 

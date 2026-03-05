@@ -61,10 +61,10 @@ aliases:
 - 보스-아인슈타인 응축
 has_id_wikidata: Q46202
 instance_of:
-- '[[_Standards/WikiData/WD~physical_object,223557]]'
-- '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
-- '[[_Standards/WikiData/WD~state_of_matter,11430]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~physical_object,223557|WD~physical_object,223557]]'
+- '[[_Standards/WikiData/WD~scientific_theory,3239681|WD~scientific_theory,3239681]]'
+- '[[_Standards/WikiData/WD~state_of_matter,11430|WD~state_of_matter,11430]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 video:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Condensation%20de%20Bose-Einstein.ogv
 - http://commons.wikimedia.org/wiki/Special:FilePath/Bose-Einstein%20Condensation.ogv
@@ -272,8 +272,8 @@ in_defining_formula:
     </semantics>
   </math>
 named_after:
-- '[[_Standards/WikiData/WD~Albert_Einstein,937]]'
-- '[[_Standards/WikiData/WD~Satyendra_Nath_Bose,45789]]'
+- '[[_Standards/WikiData/WD~Albert_Einstein,937|WD~Albert_Einstein,937]]'
+- '[[_Standards/WikiData/WD~Satyendra_Nath_Bose,45789|WD~Satyendra_Nath_Bose,45789]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bose%20Einstein%20condensate.png
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/bose-einstein-condensate
 P8189: 987007537184705171

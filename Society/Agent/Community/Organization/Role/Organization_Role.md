@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A subclass of Role used to describe roles within organizations.
 
-#has_/parent_class :: [[../Role]]  
+#has_/parent_class :: [[../Role|Role]]  
 
 #has_/child_/class :: [ EmployeeRole ]  
 

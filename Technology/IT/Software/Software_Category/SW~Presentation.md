@@ -43,8 +43,8 @@ aliases:
 - 簡報軟體
 - 프레젠테이션 소프트웨어
 has_id_wikidata: Q2115026
-subclass_of: '[[_Standards/WikiData/WD~application,166142]]'
-instance_of: '[[_Standards/WikiData/WD~software_category,17155032]]'
+subclass_of: '[[_Standards/WikiData/WD~application,166142|WD~application,166142]]'
+instance_of: '[[_Standards/WikiData/WD~software_category,17155032|WD~software_category,17155032]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LibreOffice%207.2.4.1%20Impress%20screenshot.png
 Commons_category: Presentation software
 dv_has_:

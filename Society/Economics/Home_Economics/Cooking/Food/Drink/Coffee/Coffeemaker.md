@@ -66,13 +66,13 @@ aliases:
 - 咖啡機
 - 커피메이커
 has_id_wikidata: Q211841
-uses: '[[_Standards/WikiData/WD~coffee_bean,153697]]'
+uses: '[[_Standards/WikiData/WD~coffee_bean,153697|WD~coffee_bean,153697]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~home_appliance,212920]]'
-- '[[_Standards/WikiData/WD~coffeemaking_implement,117207980]]'
+- '[[_Standards/WikiData/WD~home_appliance,212920|WD~home_appliance,212920]]'
+- '[[_Standards/WikiData/WD~coffeemaking_implement,117207980|WD~coffeemaking_implement,117207980]]'
 has_use:
-- '[[_Standards/WikiData/WD~coffee_preparation,19903001]]'
-- '[[_Standards/WikiData/WD~coffee,8486]]'
+- '[[_Standards/WikiData/WD~coffee_preparation,19903001|WD~coffee_preparation,19903001]]'
+- '[[_Standards/WikiData/WD~coffee,8486|WD~coffee,8486]]'
 Nomenclature_for_Museum_Cataloging: 4104
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/De-Kaffeemaschine.ogg

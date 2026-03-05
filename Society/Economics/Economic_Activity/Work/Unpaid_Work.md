@@ -24,8 +24,8 @@ aliases:
 - 無給労働
 - 무급노동
 has_id_wikidata: Q7897274
-subclass_of: '[[../../../../WikiData/WD~work,268378]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+subclass_of: '[[../../../../WikiData/WD~work,268378|WD~work,268378]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 dv_has_:
   name_:
     ar: عمل غير مأجور
@@ -53,7 +53,7 @@ dv_has_:
 
 # [[Unpaid_Work]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~unpaid_work,7897274]] 
+#is_/same_as :: [[../../../../WikiData/WD~unpaid_work,7897274|WD~unpaid_work,7897274]] 
 
 ## #has_/text_of_/abstract 
 

@@ -126,7 +126,7 @@ aliases:
 
 
 #has_/feature_/song :: [[Shape_of_My_Heart(Sting_song)]] 
-#has_/feature_/song :: [[../../music/Song/Venus_as_a_Boy]] 
+#has_/feature_/song :: [[../../music/Song/Venus_as_a_Boy|Venus_as_a_Boy]] 
 #is_/using :: [[Shape_of_My_Heart(Sting_song)]] 
 
 

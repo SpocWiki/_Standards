@@ -71,7 +71,7 @@ Axel_Springer_Verlag
 > Axel Springer's operations are segmented into News Media, Classifieds Media, and Marketing Media. 
 > The company is organized as a Societas Europaea (SE) publishing house 
 > and is one of the largest mass media publishers in the European Union, 
-> with numerous multimedia news brands, such as [[Axel_Springer_Verlag/Bild-Zeitung]], [[Axel_Springer_Verlag/Die_Welt]], Fakt, 
+> with numerous multimedia news brands, such as [[Axel_Springer_Verlag/Bild-Zeitung|Bild-Zeitung]], [[Axel_Springer_Verlag/Die_Welt|Die_Welt]], Fakt, 
 > and the US political news site Politico, which Axel Springer acquired in 2021.
 >
 > The company generated total revenues of about €3.93 billion 

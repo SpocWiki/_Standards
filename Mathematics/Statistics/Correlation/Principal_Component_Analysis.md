@@ -42,12 +42,12 @@ aliases:
 - 主成分分析
 - 주성분 분석
 has_id_wikidata: Q2873
-facet_of: '[[_Standards/WikiData/WD~unsupervised_learning,1152135]]'
-subclass_of: '[[_Standards/WikiData/WD~multivariate_statistics,1952580]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~statistical_method,12718609]]'
-has_use: '[[_Standards/WikiData/WD~dimensionality_reduction,16000077]]'
-different_from: '[[_Standards/WikiData/WD~LFMM,116143262]]'
+facet_of: '[[_Standards/WikiData/WD~unsupervised_learning,1152135|WD~unsupervised_learning,1152135]]'
+subclass_of: '[[_Standards/WikiData/WD~multivariate_statistics,1952580|WD~multivariate_statistics,1952580]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~statistical_method,12718609|WD~statistical_method,12718609]]'
+has_use: '[[_Standards/WikiData/WD~dimensionality_reduction,16000077|WD~dimensionality_reduction,16000077]]'
+different_from: '[[_Standards/WikiData/WD~LFMM,116143262|WD~LFMM,116143262]]'
 short_name:
 - PCA
 - ACP

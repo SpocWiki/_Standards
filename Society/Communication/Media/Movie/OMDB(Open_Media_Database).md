@@ -7,16 +7,16 @@ aliases:
 - オープン・メディア・データベース
 - 开放媒体数据库
 has_id_wikidata: Q27653527
-copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
-copyright_license: '[[_Standards/WikiData/WD~Creative_Commons_Attribution_2.0_Germany,75466259]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]'
+copyright_license: '[[_Standards/WikiData/WD~Creative_Commons_Attribution_2.0_Germany,75466259|WD~Creative_Commons_Attribution_2.0_Germany,75466259]]'
 instance_of:
-- '[[_Standards/WikiData/WD~online_film_database,130735522]]'
-- '[[_Standards/WikiData/WD~website,35127]]'
+- '[[_Standards/WikiData/WD~online_film_database,130735522|WD~online_film_database,130735522]]'
+- '[[_Standards/WikiData/WD~website,35127|WD~website,35127]]'
 language_of_work_or_name:
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
 main_Wikidata_property:
 - Open Media Database film ID
 - Open Media Database person ID

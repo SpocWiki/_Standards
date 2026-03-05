@@ -73,27 +73,27 @@ aliases:
 - 公共關係
 - 公關
 has_id_wikidata: Q133080
-partially_coincident_with: '[[_Standards/WikiData/WD~lobbying,187117]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~lobbying,187117|WD~lobbying,187117]]'
 instance_of:
-- '[[_Standards/WikiData/WD~job_activity,192581]]'
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-different_from: '[[_Standards/WikiData/WD~Piarists,273894]]'
+- '[[_Standards/WikiData/WD~job_activity,192581|WD~job_activity,192581]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+different_from: '[[_Standards/WikiData/WD~Piarists,273894|WD~Piarists,273894]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~reputation_management,478594]]'
-- '[[_Standards/WikiData/WD~business_communication,4115749]]'
-facet_of: '[[_Standards/WikiData/WD~social_influence,1307337]]'
+- '[[_Standards/WikiData/WD~reputation_management,478594|WD~reputation_management,478594]]'
+- '[[_Standards/WikiData/WD~business_communication,4115749|WD~business_communication,4115749]]'
+facet_of: '[[_Standards/WikiData/WD~social_influence,1307337|WD~social_influence,1307337]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~public_relations_research,2044536]]'
-- '[[_Standards/WikiData/WD~public_information,59162667]]'
+- '[[_Standards/WikiData/WD~public_relations_research,2044536|WD~public_relations_research,2044536]]'
+- '[[_Standards/WikiData/WD~public_information,59162667|WD~public_information,59162667]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~publicist,4178004]]'
-- '[[_Standards/WikiData/WD~public_relations_executive,49176591]]'
-- '[[_Standards/WikiData/WD~public_relations_professional,108290362]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_public_relations,7112711]]'
-part_of: '[[_Standards/WikiData/WD~communication,11024]]'
+- '[[_Standards/WikiData/WD~publicist,4178004|WD~publicist,4178004]]'
+- '[[_Standards/WikiData/WD~public_relations_executive,49176591|WD~public_relations_executive,49176591]]'
+- '[[_Standards/WikiData/WD~public_relations_professional,108290362|WD~public_relations_professional,108290362]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_public_relations,7112711|WD~outline_of_public_relations,7112711]]'
+part_of: '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
 Dewey_Decimal_Classification: 659
 U_S_National_Archives_Identifier: 10644807
 Library_of_Congress_Classification: HM1221

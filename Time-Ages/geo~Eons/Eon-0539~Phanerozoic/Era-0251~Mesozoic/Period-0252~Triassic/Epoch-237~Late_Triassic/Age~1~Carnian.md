@@ -30,17 +30,17 @@ aliases:
 - 카르니아절
 has_id_wikidata: Q911899
 named_after:
-- '[[_Standards/WikiData/WD~Carnia,369765]]'
-- '[[_Standards/WikiData/WD~Carnic_Alps,660390]]'
-- '[[_Standards/WikiData/WD~Carinthia,37985]]'
+- '[[_Standards/WikiData/WD~Carnia,369765|WD~Carnia,369765]]'
+- '[[_Standards/WikiData/WD~Carnic_Alps,660390|WD~Carnic_Alps,660390]]'
+- '[[_Standards/WikiData/WD~Carinthia,37985|WD~Carinthia,37985]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Johann_August_Georg_Edmund_Mojsisovics_von_Mojsvar,873571]]'
-significant_event: '[[_Standards/WikiData/WD~Carnian_Pluvial_Event,5044049]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Carnian,21607948]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Carnian,134351839]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Johann_August_Georg_Edmund_Mojsisovics_von_Mojsvar,873571|WD~Johann_August_Georg_Edmund_Mojsisovics_von_Mojsvar,873571]]'
+significant_event: '[[_Standards/WikiData/WD~Carnian_Pluvial_Event,5044049|WD~Carnian_Pluvial_Event,5044049]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Carnian,21607948|WD~Category_Carnian,21607948]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Carnian,134351839|WD~GSSP_for_the_base_of_the_Carnian,134351839]]'
 coordinate_location: Point(11.9303 46.5269)
 end_time: -227000000-01-01T00:00:00Z
 Commons_category: Carnian
@@ -164,7 +164,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 237 to 227 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-225_Ma_(Norian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-225_Ma_(Norian_Age).png|Earth-225_Ma_(Norian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

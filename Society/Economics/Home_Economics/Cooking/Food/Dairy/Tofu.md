@@ -50,24 +50,24 @@ aliases:
 - 두부
 has_id_wikidata: Q177378
 has_part_s_:
-- '[[_Standards/WikiData/WD~soy_milk,192199]]'
-- '[[_Standards/WikiData/WD~soy_bean,61503220]]'
-- '[[_Standards/WikiData/WD~soybean,11006]]'
-made_from_material: '[[_Standards/WikiData/WD~soy_milk,192199]]'
+- '[[_Standards/WikiData/WD~soy_milk,192199|WD~soy_milk,192199]]'
+- '[[_Standards/WikiData/WD~soy_bean,61503220|WD~soy_bean,61503220]]'
+- '[[_Standards/WikiData/WD~soybean,11006|WD~soybean,11006]]'
+made_from_material: '[[_Standards/WikiData/WD~soy_milk,192199|WD~soy_milk,192199]]'
 cuisine:
-- '[[_Standards/WikiData/WD~Japanese_cuisine,234138]]'
-- '[[_Standards/WikiData/WD~Chinese_cuisine,10876842]]'
-by_product: '[[_Standards/WikiData/WD~soy_pulp,917043]]'
+- '[[_Standards/WikiData/WD~Japanese_cuisine,234138|WD~Japanese_cuisine,234138]]'
+- '[[_Standards/WikiData/WD~Chinese_cuisine,10876842|WD~Chinese_cuisine,10876842]]'
+by_product: '[[_Standards/WikiData/WD~soy_pulp,917043|WD~soy_pulp,917043]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~meat_alternative,1343997]]'
-- '[[_Standards/WikiData/WD~soy_cheese,3748126]]'
+- '[[_Standards/WikiData/WD~meat_alternative,1343997|WD~meat_alternative,1343997]]'
+- '[[_Standards/WikiData/WD~soy_cheese,3748126|WD~soy_cheese,3748126]]'
 instance_of:
-- '[[_Standards/WikiData/WD~human_food,8195619]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
-intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_in_Malaysia,113768320]]'
+- '[[_Standards/WikiData/WD~human_food,8195619|WD~human_food,8195619]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263|WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_in_Malaysia,113768320|WD~National_Inventory_of_Intangible_Cultural_Heritage_in_Malaysia,113768320]]'
 inception: 0100-01-01T00:00:00Z
-country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
+country_of_origin: '[[_Standards/WikiData/WD~China,29520|WD~China,29520]]'
 carbon_footprint: 0.3
 water_footprint: 2523
 OmegaWiki_Defined_Meaning: 5530

@@ -57,11 +57,11 @@ aliases:
 - 이항 분포
 has_id_wikidata: Q185547
 subclass_of:
-- '[[_Standards/WikiData/WD~Panjer_distribution,1090859]]'
-- '[[_Standards/WikiData/WD~multinomial_distribution,1147928]]'
-- '[[_Standards/WikiData/WD~Poisson_binomial_distribution,3258231]]'
-- '[[_Standards/WikiData/WD~univariate_probability_distribution,7893853]]'
-- '[[_Standards/WikiData/WD~discrete_probability_distribution,26898117]]'
+- '[[_Standards/WikiData/WD~Panjer_distribution,1090859|WD~Panjer_distribution,1090859]]'
+- '[[_Standards/WikiData/WD~multinomial_distribution,1147928|WD~multinomial_distribution,1147928]]'
+- '[[_Standards/WikiData/WD~Poisson_binomial_distribution,3258231|WD~Poisson_binomial_distribution,3258231]]'
+- '[[_Standards/WikiData/WD~univariate_probability_distribution,7893853|WD~univariate_probability_distribution,7893853]]'
+- '[[_Standards/WikiData/WD~discrete_probability_distribution,26898117|WD~discrete_probability_distribution,26898117]]'
 in_defining_formula:
 - >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle X}">
@@ -114,8 +114,8 @@ in_defining_formula:
       <annotation encoding="application/x-tex">{\displaystyle {\binom {n}{x}}}</annotation>
     </semantics>
   </math>
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
 probability_mass_function:
 - >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\frac {n!}{x!(n-x)!}}p^{x}(1-p)^{n-x}}">
@@ -205,7 +205,7 @@ probability_mass_function:
       <annotation encoding="application/x-tex">{\displaystyle {\binom {n}{x}}p^{x}(1-p)^{n-x}}</annotation>
     </semantics>
   </math>
-described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641|WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
 variance_of_a_probability_distribution: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle np(1-p)}">
     <semantics>

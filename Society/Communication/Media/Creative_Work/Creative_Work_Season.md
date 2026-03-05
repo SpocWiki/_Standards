@@ -35,7 +35,7 @@ Tag Instances like this:
 
 A media season, e.g. TV, radio, video game etc.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ PodcastSeason, RadioSeason, TVSeason ]  
 

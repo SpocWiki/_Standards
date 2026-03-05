@@ -41,20 +41,20 @@ aliases:
 - 폴로
 has_id_wikidata: Q134211
 subclass_of:
-- '[[_Standards/WikiData/WD~team_sport,216048]]'
-- '[[_Standards/WikiData/WD~equestrian_sport,902378]]'
+- '[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~equestrian_sport,902378|WD~equestrian_sport,902378]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 uses:
-- '[[_Standards/WikiData/WD~polo_stick,1442455]]'
-- '[[_Standards/WikiData/WD~horse,726]]'
-practiced_by: '[[_Standards/WikiData/WD~polo_player,13218361]]'
+- '[[_Standards/WikiData/WD~polo_stick,1442455|WD~polo_stick,1442455]]'
+- '[[_Standards/WikiData/WD~horse,726|WD~horse,726]]'
+practiced_by: '[[_Standards/WikiData/WD~polo_player,13218361|WD~polo_player,13218361]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Wikimedia_duplicated_page,17362920]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~Wikimedia_duplicated_page,17362920|WD~Wikimedia_duplicated_page,17362920]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 Commons_category: Polo
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Polo%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Varsity%20Polo%202013.jpg

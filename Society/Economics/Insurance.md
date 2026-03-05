@@ -86,38 +86,38 @@ aliases:
 - 보험
 has_id_wikidata: Q43183
 part_of:
-- '[[_Standards/WikiData/WD~risk_management,189447]]'
-- '[[_Standards/WikiData/WD~quaternary_sector_of_the_economy,1200977]]'
+- '[[_Standards/WikiData/WD~risk_management,189447|WD~risk_management,189447]]'
+- '[[_Standards/WikiData/WD~quaternary_sector_of_the_economy,1200977|WD~quaternary_sector_of_the_economy,1200977]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~product_category,63981612]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~insurance_broker,285759]]'
-- '[[_Standards/WikiData/WD~claims_adjuster,691167]]'
-- '[[_Standards/WikiData/WD~insurance_expert,1000156]]'
-- '[[_Standards/WikiData/WD~Q1584873,1584873]]'
-- '[[_Standards/WikiData/WD~insurer,23081349]]'
+- '[[_Standards/WikiData/WD~insurance_broker,285759|WD~insurance_broker,285759]]'
+- '[[_Standards/WikiData/WD~claims_adjuster,691167|WD~claims_adjuster,691167]]'
+- '[[_Standards/WikiData/WD~insurance_expert,1000156|WD~insurance_expert,1000156]]'
+- '[[_Standards/WikiData/WD~Q1584873,1584873|WD~Q1584873,1584873]]'
+- '[[_Standards/WikiData/WD~insurer,23081349|WD~insurer,23081349]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~financial_services,837171]]'
-- '[[_Standards/WikiData/WD~financial_product,15809678]]'
+- '[[_Standards/WikiData/WD~financial_services,837171|WD~financial_services,837171]]'
+- '[[_Standards/WikiData/WD~financial_product,15809678|WD~financial_product,15809678]]'
 different_from:
-- '[[_Standards/WikiData/WD~insurance_policy,977871]]'
-- '[[_Standards/WikiData/WD~insurance_company,2143354]]'
-- '[[_Standards/WikiData/WD~insurance_premium,92121777]]'
-- '[[_Standards/WikiData/WD~insurance_claim,92122548]]'
-- '[[_Standards/WikiData/WD~insurance,112130247]]'
-industry: '[[_Standards/WikiData/WD~insurance_industry,2518196]]'
-has_characteristic: '[[_Standards/WikiData/WD~insurance_type,3546112]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_insurance,3635533]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Insurance,13091211]]'
+- '[[_Standards/WikiData/WD~insurance_policy,977871|WD~insurance_policy,977871]]'
+- '[[_Standards/WikiData/WD~insurance_company,2143354|WD~insurance_company,2143354]]'
+- '[[_Standards/WikiData/WD~insurance_premium,92121777|WD~insurance_premium,92121777]]'
+- '[[_Standards/WikiData/WD~insurance_claim,92122548|WD~insurance_claim,92122548]]'
+- '[[_Standards/WikiData/WD~insurance,112130247|WD~insurance,112130247]]'
+industry: '[[_Standards/WikiData/WD~insurance_industry,2518196|WD~insurance_industry,2518196]]'
+has_characteristic: '[[_Standards/WikiData/WD~insurance_type,3546112|WD~insurance_type,3546112]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_insurance,3635533|WD~history_of_insurance,3635533]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Insurance,13091211|WD~Template_Insurance,13091211]]'
 Dewey_Decimal_Classification: 368
 IAB_code: 398
 U_S_National_Archives_Identifier: 10640606

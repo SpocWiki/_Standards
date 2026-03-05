@@ -118,7 +118,7 @@ aliases:
 >  - The [[Wide Window]] (2000), 
 >  by [[Lemony Snicket]] (the pen name of American author Daniel Handler). 
 >  
->  It stars [[../../Actor/Canadian_Actor/Carrey,Jim]], Liam Aiken, [[Emily Browning]], [[Timothy Spall]], Catherine O'Hara, 
+>  It stars [[../../Actor/Canadian_Actor/Carrey,Jim|Carrey,Jim]], Liam Aiken, [[Emily Browning]], [[Timothy Spall]], Catherine O'Hara, 
 >  Billy Connolly, Cedric the Entertainer, Luis Guzmán, Jennifer Coolidge, and [[Meryl Streep]], 
 >  and [[Jude Law]] as the voice of Lemony Snicket.
 >

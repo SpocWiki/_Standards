@@ -58,19 +58,19 @@ aliases:
 - 马赫
 - 마하 수
 has_id_wikidata: Q160669
-named_after: '[[_Standards/WikiData/WD~Ernst_Mach,93996]]'
+named_after: '[[_Standards/WikiData/WD~Ernst_Mach,93996|WD~Ernst_Mach,93996]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
-- '[[_Standards/WikiData/WD~characteristic_number,625902]]'
-- '[[_Standards/WikiData/WD~ratio,3481047]]'
-- '[[_Standards/WikiData/WD~criterion_of_similarity,7250271]]'
-- '[[_Standards/WikiData/WD~dimensionless_number_in_fluid_mechanics,20707835]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]'
+- '[[_Standards/WikiData/WD~characteristic_number,625902|WD~characteristic_number,625902]]'
+- '[[_Standards/WikiData/WD~ratio,3481047|WD~ratio,3481047]]'
+- '[[_Standards/WikiData/WD~criterion_of_similarity,7250271|WD~criterion_of_similarity,7250271]]'
+- '[[_Standards/WikiData/WD~dimensionless_number_in_fluid_mechanics,20707835|WD~dimensionless_number_in_fluid_mechanics,20707835]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~ISO_80000_11_2019_Quantities_and_units_Part_11_Characteristic_numbers,100957475]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~Q199,199]]'
+- '[[_Standards/WikiData/WD~ISO_80000_11_2019_Quantities_and_units_Part_11_Characteristic_numbers,100957475|WD~ISO_80000_11_2019_Quantities_and_units_Part_11_Characteristic_numbers,100957475]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~Q199,199|WD~Q199,199]]'
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>v</mi></mstyle></mrow></math>

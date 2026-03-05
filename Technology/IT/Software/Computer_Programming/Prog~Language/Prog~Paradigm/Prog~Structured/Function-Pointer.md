@@ -41,7 +41,7 @@ aliases:
 
 # [[Function-Pointer]]  
 
-#is_/similar_to :: [[../Prog~OO/Delegate~CLI]] 
+#is_/similar_to :: [[../Prog~OO/Delegate~CLI|Delegate~CLI]] 
 
 > A function pointer, also called a subroutine pointer or procedure pointer, 
 > is a pointer referencing executable code, rather than data. 

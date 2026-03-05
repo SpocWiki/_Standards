@@ -34,18 +34,18 @@ aliases:
 - 리만 구
 has_id_wikidata: Q825857
 studied_by:
-- '[[_Standards/WikiData/WD~complex_analysis,193756]]'
-- '[[_Standards/WikiData/WD~Riemannian_geometry,761383]]'
+- '[[_Standards/WikiData/WD~complex_analysis,193756|WD~complex_analysis,193756]]'
+- '[[_Standards/WikiData/WD~Riemannian_geometry,761383|WD~Riemannian_geometry,761383]]'
 instance_of:
-- '[[_Standards/WikiData/WD~projective_line,764115]]'
-- '[[_Standards/WikiData/WD~compact_Riemann_surface,5155294]]'
-- '[[_Standards/WikiData/WD~sphere,12507]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~projective_line,764115|WD~projective_line,764115]]'
+- '[[_Standards/WikiData/WD~compact_Riemann_surface,5155294|WD~compact_Riemann_surface,5155294]]'
+- '[[_Standards/WikiData/WD~sphere,12507|WD~sphere,12507]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~complex_projective_line,78349860]]'
-- '[[_Standards/WikiData/WD~sphere,12507]]'
-different_from: '[[_Standards/WikiData/WD~extended_complex_plane,120961422]]'
-named_after: '[[_Standards/WikiData/WD~Bernhard_Riemann,42299]]'
+- '[[_Standards/WikiData/WD~complex_projective_line,78349860|WD~complex_projective_line,78349860]]'
+- '[[_Standards/WikiData/WD~sphere,12507|WD~sphere,12507]]'
+different_from: '[[_Standards/WikiData/WD~extended_complex_plane,120961422|WD~extended_complex_plane,120961422]]'
+named_after: '[[_Standards/WikiData/WD~Bernhard_Riemann,42299|WD~Bernhard_Riemann,42299]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RiemannKugel.svg
 Commons_category: Riemann sphere
 dv_has_:
@@ -94,7 +94,7 @@ dv_has_:
 
 # [[Riemann_Sphere]] 
 
-#is_/same_as :: [[../../WikiData/WD~Riemann_sphere,825857]] 
+#is_/same_as :: [[../../WikiData/WD~Riemann_sphere,825857|WD~Riemann_sphere,825857]] 
 
 ## #has_/text_of_/abstract 
 

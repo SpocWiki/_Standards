@@ -68,17 +68,17 @@ aliases:
 - 현대 미술
 has_id_wikidata: Q186030
 influenced_by:
-- '[[_Standards/WikiData/WD~pop_art,134147]]'
-- '[[_Standards/WikiData/WD~conceptual_art,203209]]'
+- '[[_Standards/WikiData/WD~pop_art,134147|WD~pop_art,134147]]'
+- '[[_Standards/WikiData/WD~conceptual_art,203209|WD~conceptual_art,203209]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~work_of_art,838948]]'
-- '[[_Standards/WikiData/WD~contemporary_culture,119175165]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948|WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~contemporary_culture,119175165|WD~contemporary_culture,119175165]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~art_genre,1792379]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~art_term,64222339]]'
-different_from: '[[_Standards/WikiData/WD~modern_art,38166]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_genre,1792379|WD~art_genre,1792379]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~art_term,64222339|WD~art_term,64222339]]'
+different_from: '[[_Standards/WikiData/WD~modern_art,38166|WD~modern_art,38166]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Art%20%26%20Language%2C%20Untitled%20Painting%20%281965%29%2C%20Tate%20Modern%2C%20London%20-%2020130627.jpg
 Commons_gallery:
 - Arte contemporáneo

@@ -102,23 +102,23 @@ aliases:
 - 流行音樂
 - 팝 음악
 has_id_wikidata: Q37073
-instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
-different_from: '[[_Standards/WikiData/WD~popular_music,373342]]'
-subclass_of: '[[_Standards/WikiData/WD~popular_music,373342]]'
-opposite_of: '[[_Standards/WikiData/WD~antipop,4034145]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~popsa,4372891]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Pop_music,6552179]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Pop_music,19753613]]'
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+different_from: '[[_Standards/WikiData/WD~popular_music,373342|WD~popular_music,373342]]'
+subclass_of: '[[_Standards/WikiData/WD~popular_music,373342|WD~popular_music,373342]]'
+opposite_of: '[[_Standards/WikiData/WD~antipop,4034145|WD~antipop,4034145]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~popsa,4372891|WD~popsa,4372891]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Pop_music,6552179|WD~Template_Pop_music,6552179]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Pop_music,19753613|WD~Portal_Pop_music,19753613]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~pop_singer,60723829]]'
-- '[[_Standards/WikiData/WD~pop_musician,102277154]]'
-described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
-has_list: '[[_Standards/WikiData/WD~styles_of_pop_music,109969227]]'
-has_characteristic: '[[_Standards/WikiData/WD~pop_music_award,135978159]]'
-based_on: '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
+- '[[_Standards/WikiData/WD~pop_singer,60723829|WD~pop_singer,60723829]]'
+- '[[_Standards/WikiData/WD~pop_musician,102277154|WD~pop_musician,102277154]]'
+described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149|WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
+has_list: '[[_Standards/WikiData/WD~styles_of_pop_music,109969227|WD~styles_of_pop_music,109969227]]'
+has_characteristic: '[[_Standards/WikiData/WD~pop_music_award,135978159|WD~pop_music_award,135978159]]'
+based_on: '[[_Standards/WikiData/WD~rock_and_roll,7749|WD~rock_and_roll,7749]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 short_name:
 - pop
 - поп

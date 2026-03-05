@@ -60,14 +60,14 @@ aliases:
 - 오일 셰일
 has_id_wikidata: Q221378
 subclass_of:
-- '[[_Standards/WikiData/WD~marl,184053]]'
-- '[[_Standards/WikiData/WD~sapropelite,1705967]]'
-- '[[_Standards/WikiData/WD~carbon_schist,9394829]]'
-- '[[_Standards/WikiData/WD~fossil_fuel,12748]]'
+- '[[_Standards/WikiData/WD~marl,184053|WD~marl,184053]]'
+- '[[_Standards/WikiData/WD~sapropelite,1705967|WD~sapropelite,1705967]]'
+- '[[_Standards/WikiData/WD~carbon_schist,9394829|WD~carbon_schist,9394829]]'
+- '[[_Standards/WikiData/WD~fossil_fuel,12748|WD~fossil_fuel,12748]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-different_from: '[[_Standards/WikiData/WD~shale,751300]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+different_from: '[[_Standards/WikiData/WD~shale,751300|WD~shale,751300]]'
 OmegaWiki_Defined_Meaning: 2643
 Commons_category: Oil shale
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Oil%20shale.ogg

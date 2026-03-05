@@ -3,7 +3,7 @@
 #is_a_/ComputerLanguage 
 #is_a_/computer_language  
 
-#has_/parent :: [[../Prog~OO/OO-Lang/Prog~Smalltalk|Prog~Smalltalk]], [[../Prog~OO/Prog~Eiffel]], [[../Prog~Functional/Prog~LISP/Prog~Ada]], [[Structured_Prog-Lang/Prog~BASIC|Prog~BASIC]], [[../Prog~OO/OO-Lang/Prog~Java|Prog~Java]], [[Structured_Prog-Lang/Prog~Python|Prog~Python]], [[../Prog~Imperative/Prog~Perl]] 
+#has_/parent :: [[../Prog~OO/OO-Lang/Prog~Smalltalk|Prog~Smalltalk]], [[../Prog~OO/Prog~Eiffel|Prog~Eiffel]], [[../Prog~Functional/Prog~LISP/Prog~Ada|Prog~Ada]], [[Structured_Prog-Lang/Prog~BASIC|Prog~BASIC]], [[../Prog~OO/OO-Lang/Prog~Java|Prog~Java]], [[Structured_Prog-Lang/Prog~Python|Prog~Python]], [[../Prog~Imperative/Prog~Perl|Prog~Perl]] 
 #has_/creator :: [[Yukihiro_Matsumoto]]
 #has_/time_/started :: 1995-07-01  
 

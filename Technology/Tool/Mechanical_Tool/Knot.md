@@ -2,7 +2,7 @@
 dv_is_:
   similar_to: '[[../../../Mathematics/Topology/Knot_Theory|Knot_Theory]]'
   same_as:
-  - '[[../../../WikiData/WD~Knot,527395]]'
+  - '[[../../../WikiData/WD~Knot,527395|WD~Knot,527395]]'
   - '[[Knot]]'
   - '[[/_public/Technology/Tool/Mechanical_Tool/Knot.public|Knot.public]]'
   - '[[/_internal/Technology/Tool/Mechanical_Tool/Knot.internal|Knot.internal]]'
@@ -12,7 +12,7 @@ dv_is_:
   - '[[/_secret/Technology/Tool/Mechanical_Tool/Knot.secret|Knot.secret]]'
 dv_is_similar_to: '[[../../../Mathematics/Topology/Knot_Theory|Knot_Theory]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Knot,527395]]'
+- '[[../../../WikiData/WD~Knot,527395|WD~Knot,527395]]'
 - '[[Knot]]'
 - '[[/_public/Technology/Tool/Mechanical_Tool/Knot.public|Knot.public]]'
 - '[[/_internal/Technology/Tool/Mechanical_Tool/Knot.internal|Knot.internal]]'

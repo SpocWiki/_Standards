@@ -1,7 +1,7 @@
 
 # [[Strucure~Loop]] 
 
-Loops are more structured than [[../Prog~Imperative/GOTO-Statement]]. 
+Loops are more structured than [[../Prog~Imperative/GOTO-Statement|GOTO-Statement]]. 
 They consist of
 - a [[Structure~Sequence]] 
 - and the Loop Condition. 

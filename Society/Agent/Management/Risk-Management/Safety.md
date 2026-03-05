@@ -161,7 +161,7 @@ aliases:
 | **Measurement**        | Accident rates, failure probabilities                                                               | Breach attempts, threat detection rates   |
 | **Time Horizon**       | Long-term, systemic resilience                                                                      | Real-time, adaptive defense               |
 
-#is_/same_as :: [[_Standards/WikiData/WD~safety,10566551]] 
+#is_/same_as :: [[_Standards/WikiData/WD~safety,10566551|WD~safety,10566551]] 
 
 Security is Safety against [[../../../Agent|Agent]]s 
 

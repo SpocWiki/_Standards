@@ -21,7 +21,7 @@ aliases:
 - وسائل اتصال
 ---
 
-# [[../../../_private/Society/Communication/Media]]
+# [[../../../_private/Society/Communication/Media|Media]]
 
 ## #has_/text_of_/abstract 
 

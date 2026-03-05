@@ -98,7 +98,7 @@ Cat(G, µ, η, α)
 µ :: (a x a) -> a
 η :: () -> a  
 
-[[../../../_Standards/Mathematics/Algebra/Associator]] α ((a, b),c) = (a,(b, c))  is similar to currification. 
+[[../../../_Standards/Mathematics/Algebra/Associator|Associator]] α ((a, b),c) = (a,(b, c))  is similar to currification. 
 α = (a,(b, c))  / ((a, b),c) 
 
 
@@ -108,7 +108,7 @@ Set G  with Identity 𝟙:
 (a x b) x c = a x (b x c)
 
 
-[[../../../Knowledge/Math/Math-Axioms/ZFC(Zermelo-Fraenkel+Choice)]] 
+[[../../../Knowledge/Math/Math-Axioms/ZFC(Zermelo-Fraenkel+Choice)|ZFC(Zermelo-Fraenkel+Choice)]] 
 
 
 ## #has_/text_of_/abstract 

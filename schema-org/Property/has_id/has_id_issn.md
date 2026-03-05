@@ -35,7 +35,7 @@ dv_has_:
   name: has_id_issn
   range: Text
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_issn|has_id_issn]]"
@@ -52,7 +52,7 @@ dv_has_domain:
   - "[[../../../Society/Communication/Media/Creative_Work/Web_Site|WebSite]]"
 dv_has_name: has_id_issn
 dv_has_range: Text
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_name/has_id_issn|has_id_issn]]"
   - "[[/_public/schema-org/Property/has_name/has_id_issn.public|has_id_issn.public]]"

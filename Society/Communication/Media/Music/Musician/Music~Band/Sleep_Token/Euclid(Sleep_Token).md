@@ -28,7 +28,7 @@ type: private_note
 
 # [[Euclid(Sleep_Token)]] 
 
-#is_/part_of :: [[../Sleep_Token]] 
+#is_/part_of :: [[../Sleep_Token|Sleep_Token]] 
 #is_/similar_to :: [[The_Night_does_not_belong_to_God]] 
 
 Ends with the same chords in Major

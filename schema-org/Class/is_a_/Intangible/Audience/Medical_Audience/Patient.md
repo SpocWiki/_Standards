@@ -36,7 +36,7 @@ dv_is_:
     - "[[Patient]]"
 dv_has_:
   parent_class:
-    - "[[../MedicalAudience, Person]]"
+    - "[[../MedicalAudience, Person|MedicalAudience, Person]]"
   properties:
     - "[[additional_name|additional_name]]"
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
@@ -127,7 +127,7 @@ dv_has_:
     - "[[../../../../../Relation/has/has_work/has_work_location|has_work_location]]"
     - "[[../../../../../Relation/has/has_works_for|has_works_for]]"
 dv_has_parent_class:
-  - "[[../medical_audience, person|../medical_audience, person]]"
+  - "[[../medical_audience, person|../medical_audience, person|medical_audience, person]]"
 dv_has_properties:
   - "[[additional_name|additional_name]]"
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

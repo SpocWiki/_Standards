@@ -81,23 +81,23 @@ aliases:
 - 융자
 has_id_wikidata: Q189539
 used_by:
-- '[[_Standards/WikiData/WD~creditor,157165]]'
-- '[[_Standards/WikiData/WD~debtor,157470]]'
+- '[[_Standards/WikiData/WD~creditor,157165|WD~creditor,157165]]'
+- '[[_Standards/WikiData/WD~debtor,157470|WD~debtor,157470]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~interest_rate,179179]]'
-- '[[_Standards/WikiData/WD~quantity,309314]]'
-- '[[_Standards/WikiData/WD~phase,1188986]]'
-- '[[_Standards/WikiData/WD~lender,26726369]]'
-- '[[_Standards/WikiData/WD~issue_date,26726966]]'
+- '[[_Standards/WikiData/WD~interest_rate,179179|WD~interest_rate,179179]]'
+- '[[_Standards/WikiData/WD~quantity,309314|WD~quantity,309314]]'
+- '[[_Standards/WikiData/WD~phase,1188986|WD~phase,1188986]]'
+- '[[_Standards/WikiData/WD~lender,26726369|WD~lender,26726369]]'
+- '[[_Standards/WikiData/WD~issue_date,26726966|WD~issue_date,26726966]]'
 different_from:
-- '[[_Standards/WikiData/WD~credit,182076]]'
-- '[[_Standards/WikiData/WD~bond,11693]]'
+- '[[_Standards/WikiData/WD~credit,182076|WD~credit,182076]]'
+- '[[_Standards/WikiData/WD~bond,11693|WD~bond,11693]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~financial_transaction,1166072]]'
-- '[[_Standards/WikiData/WD~financial_product,15809678]]'
+- '[[_Standards/WikiData/WD~financial_transaction,1166072|WD~financial_transaction,1166072]]'
+- '[[_Standards/WikiData/WD~financial_product,15809678|WD~financial_product,15809678]]'
 IAB_code: 408
 OmegaWiki_Defined_Meaning: 1184373
 U_S_National_Archives_Identifier:

@@ -93,26 +93,26 @@ aliases:
 - 海賊行為
 - 해적
 has_id_wikidata: Q45393
-facet_of: '[[_Standards/WikiData/WD~admiralty_law,382113]]'
+facet_of: '[[_Standards/WikiData/WD~admiralty_law,382113|WD~admiralty_law,382113]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~copyright_infringement,647578]]'
-- '[[_Standards/WikiData/WD~aircraft_hijacking,898712]]'
-instance_of: '[[_Standards/WikiData/WD~activity,1914636]]'
-subclass_of: '[[_Standards/WikiData/WD~hijacking,1933595]]'
+- '[[_Standards/WikiData/WD~copyright_infringement,647578|WD~copyright_infringement,647578]]'
+- '[[_Standards/WikiData/WD~aircraft_hijacking,898712|WD~aircraft_hijacking,898712]]'
+instance_of: '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+subclass_of: '[[_Standards/WikiData/WD~hijacking,1933595|WD~hijacking,1933595]]'
 history_of_topic:
-- '[[_Standards/WikiData/WD~timeline_of_piracy,7806147]]'
-- '[[_Standards/WikiData/WD~Q12390422,12390422]]'
-practiced_by: '[[_Standards/WikiData/WD~pirate,10729326]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Piracy,13365750]]'
+- '[[_Standards/WikiData/WD~timeline_of_piracy,7806147|WD~timeline_of_piracy,7806147]]'
+- '[[_Standards/WikiData/WD~Q12390422,12390422|WD~Q12390422,12390422]]'
+practiced_by: '[[_Standards/WikiData/WD~pirate,10729326|WD~pirate,10729326]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Piracy,13365750|WD~Portal_Piracy,13365750]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Edward%20England.svg
 Commons_gallery: Piracy
 Commons_category: Piracy

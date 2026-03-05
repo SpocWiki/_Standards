@@ -80,12 +80,12 @@ aliases:
 - 地球歷史
 - 지구의 역사
 has_id_wikidata: Q156312
-part_of: '[[_Standards/WikiData/WD~planetary_science,104499]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+part_of: '[[_Standards/WikiData/WD~planetary_science,104499|WD~planetary_science,104499]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
 facet_of:
-- '[[_Standards/WikiData/WD~history,309]]'
-- '[[_Standards/WikiData/WD~Earth,2]]'
-subclass_of: '[[_Standards/WikiData/WD~history,309]]'
+- '[[_Standards/WikiData/WD~history,309|WD~history,309]]'
+- '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
+subclass_of: '[[_Standards/WikiData/WD~history,309|WD~history,309]]'
 Commons_category: History of earth science
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2025-07-31-Elektro-L-3.png
 dv_is_:

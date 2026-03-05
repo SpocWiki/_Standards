@@ -38,12 +38,12 @@ dv_is_:
     - "[[/_personal/schema-org/Predicate/has_domain.personal|has_domain.personal]]"
     - "[[/_secret/schema-org/Predicate/has_domain.secret|has_domain.secret]]"
 dv_has_:
-  domain: "[[../../../Class/is_a_thing/intangible/property]]"
+  domain: "[[../../../Class/is_a_thing/intangible/property|property]]"
   name: has_domain
   range: "[Class](../Classes)"
 dv_is_part_of: https://meta.schema.org
 dv_is_similar_to: "[[has_range]]"
-dv_has_domain: "[[../../../Class/is_a_thing/intangible/property]]"
+dv_has_domain: "[[../../../Class/is_a_thing/intangible/property|property]]"
 dv_has_name: has_domain
 dv_has_range: "[Class](../Classes)"
 dv_is_same_as:

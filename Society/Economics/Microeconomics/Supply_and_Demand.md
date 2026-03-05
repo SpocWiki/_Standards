@@ -89,11 +89,11 @@ aliases:
 - 수요와 공급
 has_id_wikidata: Q166656
 has_part_s_:
-- '[[_Standards/WikiData/WD~supply,542869]]'
-- '[[_Standards/WikiData/WD~demand,4402708]]'
-instance_of: '[[_Standards/WikiData/WD~economic_theory,1401304]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-facet_of: '[[_Standards/WikiData/WD~microeconomics,39072]]'
+- '[[_Standards/WikiData/WD~supply,542869|WD~supply,542869]]'
+- '[[_Standards/WikiData/WD~demand,4402708|WD~demand,4402708]]'
+instance_of: '[[_Standards/WikiData/WD~economic_theory,1401304|WD~economic_theory,1401304]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+facet_of: '[[_Standards/WikiData/WD~microeconomics,39072|WD~microeconomics,39072]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Supply-demand-equilibrium.svg
 U_S_National_Archives_Identifier: 10642576
 Commons_category: Supply and demand curves

@@ -65,14 +65,14 @@ aliases:
 - 伊斯蘭教派
 - 이슬람 학파 및 분파
 has_id_wikidata: Q1192063
-described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
-- '[[_Standards/WikiData/WD~religious_denomination,13414953]]'
-instance_of: '[[_Standards/WikiData/WD~comparison,1720648]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Islamic_theology,14407660]]'
-has_cause: '[[_Standards/WikiData/WD~Schism_in_Islam,126325378]]'
-part_of: '[[_Standards/WikiData/WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~school_of_thought,1387659|WD~school_of_thought,1387659]]'
+- '[[_Standards/WikiData/WD~religious_denomination,13414953|WD~religious_denomination,13414953]]'
+instance_of: '[[_Standards/WikiData/WD~comparison,1720648|WD~comparison,1720648]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Islamic_theology,14407660|WD~Template_Islamic_theology,14407660]]'
+has_cause: '[[_Standards/WikiData/WD~Schism_in_Islam,126325378|WD~Schism_in_Islam,126325378]]'
+part_of: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
 Commons_category: Islamic sects
 dv_has_:
   name_:

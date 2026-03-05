@@ -73,23 +73,23 @@ aliases:
 - 白努利法則
 - 베르누이 방정식
 has_id_wikidata: Q181328
-named_after: '[[_Standards/WikiData/WD~Daniel_Bernoulli,122366]]'
-part_of: '[[_Standards/WikiData/WD~fluid_mechanics,172145]]'
+named_after: '[[_Standards/WikiData/WD~Daniel_Bernoulli,122366|WD~Daniel_Bernoulli,122366]]'
+part_of: '[[_Standards/WikiData/WD~fluid_mechanics,172145|WD~fluid_mechanics,172145]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~constant,188248]]'
-- '[[_Standards/WikiData/WD~conservative_force,822938]]'
-- '[[_Standards/WikiData/WD~speed,3711325]]'
-- '[[_Standards/WikiData/WD~mass_density,29539]]'
-- '[[_Standards/WikiData/WD~pressure,39552]]'
-instance_of: '[[_Standards/WikiData/WD~physical_law,214070]]'
+- '[[_Standards/WikiData/WD~constant,188248|WD~constant,188248]]'
+- '[[_Standards/WikiData/WD~conservative_force,822938|WD~conservative_force,822938]]'
+- '[[_Standards/WikiData/WD~speed,3711325|WD~speed,3711325]]'
+- '[[_Standards/WikiData/WD~mass_density,29539|WD~mass_density,29539]]'
+- '[[_Standards/WikiData/WD~pressure,39552|WD~pressure,39552]]'
+instance_of: '[[_Standards/WikiData/WD~physical_law,214070|WD~physical_law,214070]]'
 has_effect:
-- '[[_Standards/WikiData/WD~Magnus_effect,622975]]'
-- '[[_Standards/WikiData/WD~Venturi_effect,725699]]'
-- '[[_Standards/WikiData/WD~Pitot_theorem,2310718]]'
-different_from: '[[_Standards/WikiData/WD~Bernoulli_theorem,6141847]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-foundational_text: '[[_Standards/WikiData/WD~Hydrodynamica,16928507]]'
-based_on: "[[_Standards/WikiData/WD~Bernoulli's_equation,25447164]]"
+- '[[_Standards/WikiData/WD~Magnus_effect,622975|WD~Magnus_effect,622975]]'
+- '[[_Standards/WikiData/WD~Venturi_effect,725699|WD~Venturi_effect,725699]]'
+- '[[_Standards/WikiData/WD~Pitot_theorem,2310718|WD~Pitot_theorem,2310718]]'
+different_from: '[[_Standards/WikiData/WD~Bernoulli_theorem,6141847|WD~Bernoulli_theorem,6141847]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+foundational_text: '[[_Standards/WikiData/WD~Hydrodynamica,16928507|WD~Hydrodynamica,16928507]]'
+based_on: "[[_Standards/WikiData/WD~Bernoulli's_equation,25447164|WD~Bernoulli's_equation,25447164]]"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/07.%20%D0%91%D0%B5%D1%80%D0%BD%D1%83%D0%BB%D0%B8%D0%B5%D0%B2%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%20-%20%D0%BF%D1%80%D0%B8%D0%BB%D0%B5%D0%BF%D1%83%D0%B2%D0%B0%D1%9A%D0%B5%20%D1%85%D0%B0%D1%80%D1%82%D0%B8%D1%98%D0%B0%20%D1%81%D0%BE%20%D0%B4%D1%83%D0%B2%D0%B0%D1%9A%D0%B5.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VenturiFlow.png
 Commons_category: Bernoulli's principle

@@ -214,7 +214,7 @@ dv_has_:
 # [[Now]]
 
 Most Programming Languages have an impure Function named Now, 
-which yields the current Date and Time in a fixed Resolution/[[../Science/Physics/Measurement/Precision]]. 
+which yields the current Date and Time in a fixed Resolution/[[../Science/Physics/Measurement/Precision|Precision]]. 
 
 
 ## #has_/text_of_/abstract  

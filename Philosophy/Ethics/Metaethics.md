@@ -40,8 +40,8 @@ aliases:
 - 元伦理学
 - 메타윤리학
 has_id_wikidata: Q56003
-instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
-part_of: '[[_Standards/WikiData/WD~ethics,9465]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234|WD~branch_of_philosophy,22811234]]'
+part_of: '[[_Standards/WikiData/WD~ethics,9465|WD~ethics,9465]]'
 Dewey_Decimal_Classification: 170.42
 PhilPapers_topic: meta-ethics
 Commons_category: Meta-ethics

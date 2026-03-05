@@ -46,12 +46,12 @@ aliases:
 - 인간공학
 has_id_wikidata: Q1750812
 facet_of:
-- '[[_Standards/WikiData/WD~human_computer_interaction,207434]]'
-- '[[_Standards/WikiData/WD~human_machine_relationship,102414150]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ergonomics,7112625]]'
-practiced_by: '[[_Standards/WikiData/WD~ergonomist,11697052]]'
-instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-subclass_of: '[[_Standards/WikiData/WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~human_computer_interaction,207434|WD~human_computer_interaction,207434]]'
+- '[[_Standards/WikiData/WD~human_machine_relationship,102414150|WD~human_machine_relationship,102414150]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ergonomics,7112625|WD~outline_of_ergonomics,7112625]]'
+practiced_by: '[[_Standards/WikiData/WD~ergonomist,11697052|WD~ergonomist,11697052]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+subclass_of: '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
 OmegaWiki_Defined_Meaning: 1338
 All_Science_Journal_Classification_Codes: 3307
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Computer%20Workstation%20Variables.jpg

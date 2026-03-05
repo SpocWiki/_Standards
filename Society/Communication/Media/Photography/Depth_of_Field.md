@@ -47,10 +47,10 @@ aliases:
 - 被写界深度
 - 피사계 심도
 has_id_wikidata: Q215932
-different_from: '[[_Standards/WikiData/WD~depth_of_focus,306578]]'
-instance_of: '[[_Standards/WikiData/WD~optical_phenomenon,14506045]]'
+different_from: '[[_Standards/WikiData/WD~depth_of_focus,306578|WD~depth_of_focus,306578]]'
+instance_of: '[[_Standards/WikiData/WD~optical_phenomenon,14506045|WD~optical_phenomenon,14506045]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow></mstyle></mrow></math>"
-subclass_of: '[[_Standards/WikiData/WD~length,36253]]'
+subclass_of: '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
 Commons_gallery: Depth of field
 Commons_category: Depth of field
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Depth%20of%20field%20flowers.JPG

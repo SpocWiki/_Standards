@@ -52,18 +52,18 @@ aliases:
 - 운동학
 has_id_wikidata: Q11476
 different_from:
-- '[[_Standards/WikiData/WD~dynamics,128030]]'
-- '[[_Standards/WikiData/WD~kinetics,1108792]]'
+- '[[_Standards/WikiData/WD~dynamics,128030|WD~dynamics,128030]]'
+- '[[_Standards/WikiData/WD~kinetics,1108792|WD~kinetics,1108792]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
-history_of_topic: '[[_Standards/WikiData/WD~Q18463075,18463075]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
+history_of_topic: '[[_Standards/WikiData/WD~Q18463075,18463075|WD~Q18463075,18463075]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Q41427365,41427365]]'
-- '[[_Standards/WikiData/WD~Q41429728,41429728]]'
-subclass_of: '[[_Standards/WikiData/WD~classical_mechanics,11397]]'
+- '[[_Standards/WikiData/WD~Q41427365,41427365|WD~Q41427365,41427365]]'
+- '[[_Standards/WikiData/WD~Q41429728,41429728|WD~Q41429728,41429728]]'
+subclass_of: '[[_Standards/WikiData/WD~classical_mechanics,11397|WD~classical_mechanics,11397]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rotating%20body.PNG
 OmegaWiki_Defined_Meaning: 1650866
 Commons_category: Kinematics

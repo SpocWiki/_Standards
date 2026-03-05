@@ -52,13 +52,13 @@ aliases:
 - 냉각탑
 has_id_wikidata: Q193886
 subclass_of:
-- '[[_Standards/WikiData/WD~heat_exchanger,189124]]'
-- '[[_Standards/WikiData/WD~hyperboloid_structure,1580122]]'
-- '[[_Standards/WikiData/WD~tower,12518]]'
-shape: '[[_Standards/WikiData/WD~hyperboloid,505628]]'
-has_part_s_: '[[_Standards/WikiData/WD~chiller,1501558]]'
-different_from: '[[_Standards/WikiData/WD~cool_store,1796951]]'
-instance_of: '[[_Standards/WikiData/WD~nonbiological_component,66310125]]'
+- '[[_Standards/WikiData/WD~heat_exchanger,189124|WD~heat_exchanger,189124]]'
+- '[[_Standards/WikiData/WD~hyperboloid_structure,1580122|WD~hyperboloid_structure,1580122]]'
+- '[[_Standards/WikiData/WD~tower,12518|WD~tower,12518]]'
+shape: '[[_Standards/WikiData/WD~hyperboloid,505628|WD~hyperboloid,505628]]'
+has_part_s_: '[[_Standards/WikiData/WD~chiller,1501558|WD~chiller,1501558]]'
+different_from: '[[_Standards/WikiData/WD~cool_store,1796951|WD~cool_store,1796951]]'
+instance_of: '[[_Standards/WikiData/WD~nonbiological_component,66310125|WD~nonbiological_component,66310125]]'
 Nomenclature_for_Museum_Cataloging: 215
 OmegaWiki_Defined_Meaning: 756
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Sequoyah%20Nuclear%20Power%20Plant%20cooling%20towers.jpg

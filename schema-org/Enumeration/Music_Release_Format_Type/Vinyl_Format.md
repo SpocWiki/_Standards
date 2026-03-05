@@ -27,9 +27,9 @@ tags:
 title: is_a_vinyl_format Class
 type: Type
 dv_has_:
-  parent_class: "[[../MusicReleaseFormatType]]"
+  parent_class: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
 dv_is_:
-  enum_of: "[[../MusicReleaseFormatType]]"
+  enum_of: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format|Vinyl_Format]]"
     - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.public|Vinyl_Format.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.personal|Vinyl_Format.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.secret|Vinyl_Format.secret]]"
     - "[[Vinyl_Format]]"
-dv_has_parent_class: "[[../MusicReleaseFormatType]]"
-dv_is_enum_of: "[[../MusicReleaseFormatType]]"
+dv_has_parent_class: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
+dv_is_enum_of: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
 dv_is_same_as:
   - "[[Vinyl_Format]]"
   - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.public|Vinyl_Format.public]]"

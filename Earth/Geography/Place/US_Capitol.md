@@ -105,80 +105,80 @@ aliases:
 - 미국 국회의사당
 has_id_wikidata: Q54109
 architect:
-- '[[_Standards/WikiData/WD~August_Schoenborn,109837]]'
-- '[[_Standards/WikiData/WD~Elliott_Woods,177547]]'
-- '[[_Standards/WikiData/WD~J._George_Stewart,258732]]'
-- '[[_Standards/WikiData/WD~James_Hoban,470765]]'
-- '[[_Standards/WikiData/WD~Benjamin_Henry_Latrobe,726082]]'
-- '[[_Standards/WikiData/WD~Robert_Mills,956665]]'
-- '[[_Standards/WikiData/WD~Charles_Bulfinch,1063849]]'
-- '[[_Standards/WikiData/WD~Edward_Clark,1291898]]'
-- '[[_Standards/WikiData/WD~William_Thornton,1347934]]'
-- '[[_Standards/WikiData/WD~Thomas_Ustick_Walter,2272304]]'
-- '[[_Standards/WikiData/WD~George_M._White,2886701]]'
-- '[[_Standards/WikiData/WD~Montgomery_C._Meigs,3322718]]'
-- '[[_Standards/WikiData/WD~George_Hadfield,3760513]]'
-- '[[_Standards/WikiData/WD~Alan_Hantman,4706812]]'
-- '[[_Standards/WikiData/WD~David_Lynn,5236857]]'
-- '[[_Standards/WikiData/WD~Stephen_T._Ayers,7610635]]'
-- '[[_Standards/WikiData/WD~Étienne_Sulpice_Hallet,8078495]]'
-- '[[_Standards/WikiData/WD~Brett_Blanton,79251235]]'
-offers_view_on: '[[_Standards/WikiData/WD~Washington_Monument,178114]]'
+- '[[_Standards/WikiData/WD~August_Schoenborn,109837|WD~August_Schoenborn,109837]]'
+- '[[_Standards/WikiData/WD~Elliott_Woods,177547|WD~Elliott_Woods,177547]]'
+- '[[_Standards/WikiData/WD~J._George_Stewart,258732|WD~J._George_Stewart,258732]]'
+- '[[_Standards/WikiData/WD~James_Hoban,470765|WD~James_Hoban,470765]]'
+- '[[_Standards/WikiData/WD~Benjamin_Henry_Latrobe,726082|WD~Benjamin_Henry_Latrobe,726082]]'
+- '[[_Standards/WikiData/WD~Robert_Mills,956665|WD~Robert_Mills,956665]]'
+- '[[_Standards/WikiData/WD~Charles_Bulfinch,1063849|WD~Charles_Bulfinch,1063849]]'
+- '[[_Standards/WikiData/WD~Edward_Clark,1291898|WD~Edward_Clark,1291898]]'
+- '[[_Standards/WikiData/WD~William_Thornton,1347934|WD~William_Thornton,1347934]]'
+- '[[_Standards/WikiData/WD~Thomas_Ustick_Walter,2272304|WD~Thomas_Ustick_Walter,2272304]]'
+- '[[_Standards/WikiData/WD~George_M._White,2886701|WD~George_M._White,2886701]]'
+- '[[_Standards/WikiData/WD~Montgomery_C._Meigs,3322718|WD~Montgomery_C._Meigs,3322718]]'
+- '[[_Standards/WikiData/WD~George_Hadfield,3760513|WD~George_Hadfield,3760513]]'
+- '[[_Standards/WikiData/WD~Alan_Hantman,4706812|WD~Alan_Hantman,4706812]]'
+- '[[_Standards/WikiData/WD~David_Lynn,5236857|WD~David_Lynn,5236857]]'
+- '[[_Standards/WikiData/WD~Stephen_T._Ayers,7610635|WD~Stephen_T._Ayers,7610635]]'
+- '[[_Standards/WikiData/WD~Étienne_Sulpice_Hallet,8078495|WD~Étienne_Sulpice_Hallet,8078495]]'
+- '[[_Standards/WikiData/WD~Brett_Blanton,79251235|WD~Brett_Blanton,79251235]]'
+offers_view_on: '[[_Standards/WikiData/WD~Washington_Monument,178114|WD~Washington_Monument,178114]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~cast_iron,483269]]'
-- '[[_Standards/WikiData/WD~glass_brick,1529373]]'
-- '[[_Standards/WikiData/WD~brick,40089]]'
-- '[[_Standards/WikiData/WD~marble,40861]]'
-part_of: '[[_Standards/WikiData/WD~United_States_Capitol_Complex,586840]]'
+- '[[_Standards/WikiData/WD~cast_iron,483269|WD~cast_iron,483269]]'
+- '[[_Standards/WikiData/WD~glass_brick,1529373|WD~glass_brick,1529373]]'
+- '[[_Standards/WikiData/WD~brick,40089|WD~brick,40089]]'
+- '[[_Standards/WikiData/WD~marble,40861|WD~marble,40861]]'
+part_of: '[[_Standards/WikiData/WD~United_States_Capitol_Complex,586840|WD~United_States_Capitol_Complex,586840]]'
 heritage_designation:
-- '[[_Standards/WikiData/WD~National_Historic_Landmark,624232]]'
-- '[[_Standards/WikiData/WD~Historic_Civil_Engineering_Landmark,56637937]]'
-- '[[_Standards/WikiData/WD~District_of_Columbia_Inventory_of_Historic_Sites,73198230]]'
-authority: '[[_Standards/WikiData/WD~Architect_of_the_Capitol,635012]]'
+- '[[_Standards/WikiData/WD~National_Historic_Landmark,624232|WD~National_Historic_Landmark,624232]]'
+- '[[_Standards/WikiData/WD~Historic_Civil_Engineering_Landmark,56637937|WD~Historic_Civil_Engineering_Landmark,56637937]]'
+- '[[_Standards/WikiData/WD~District_of_Columbia_Inventory_of_Historic_Sites,73198230|WD~District_of_Columbia_Inventory_of_Historic_Sites,73198230]]'
+authority: '[[_Standards/WikiData/WD~Architect_of_the_Capitol,635012|WD~Architect_of_the_Capitol,635012]]'
 archives_at:
-- '[[_Standards/WikiData/WD~Avery_Architectural_and_Fine_Arts_Library,790646]]'
-- '[[_Standards/WikiData/WD~Athenaeum_of_Philadelphia,2869315]]'
+- '[[_Standards/WikiData/WD~Avery_Architectural_and_Fine_Arts_Library,790646|WD~Avery_Architectural_and_Fine_Arts_Library,790646]]'
+- '[[_Standards/WikiData/WD~Athenaeum_of_Philadelphia,2869315|WD~Athenaeum_of_Philadelphia,2869315]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~United_States_Capitol_rotunda,918708]]'
-- '[[_Standards/WikiData/WD~National_Statuary_Hall,993553]]'
-- '[[_Standards/WikiData/WD~United_States_Capitol_Crypt,1790365]]'
-- '[[_Standards/WikiData/WD~United_States_Capitol_Visitor_Center,2495308]]'
-- '[[_Standards/WikiData/WD~Congressional_Prayer_Room,5160949]]'
-- '[[_Standards/WikiData/WD~Old_Senate_Chamber,7084951]]'
-- '[[_Standards/WikiData/WD~Old_Supreme_Court_Chamber,7085158]]'
-- "[[_Standards/WikiData/WD~President's_Room,7758078]]"
-- "[[_Standards/WikiData/WD~Vice_President's_Room,7772513]]"
-- '[[_Standards/WikiData/WD~United_States_Senate_chamber,7891361]]'
-- '[[_Standards/WikiData/WD~United_States_Senate_Reception_Room,30637857]]'
-different_from: '[[_Standards/WikiData/WD~Kapitol,1034683]]'
-locations: '[[_Standards/WikiData/WD~Capitol_Hill,2305815]]'
-visitor_center: '[[_Standards/WikiData/WD~United_States_Capitol_Visitor_Center,2495308]]'
+- '[[_Standards/WikiData/WD~United_States_Capitol_rotunda,918708|WD~United_States_Capitol_rotunda,918708]]'
+- '[[_Standards/WikiData/WD~National_Statuary_Hall,993553|WD~National_Statuary_Hall,993553]]'
+- '[[_Standards/WikiData/WD~United_States_Capitol_Crypt,1790365|WD~United_States_Capitol_Crypt,1790365]]'
+- '[[_Standards/WikiData/WD~United_States_Capitol_Visitor_Center,2495308|WD~United_States_Capitol_Visitor_Center,2495308]]'
+- '[[_Standards/WikiData/WD~Congressional_Prayer_Room,5160949|WD~Congressional_Prayer_Room,5160949]]'
+- '[[_Standards/WikiData/WD~Old_Senate_Chamber,7084951|WD~Old_Senate_Chamber,7084951]]'
+- '[[_Standards/WikiData/WD~Old_Supreme_Court_Chamber,7085158|WD~Old_Supreme_Court_Chamber,7085158]]'
+- "[[_Standards/WikiData/WD~President's_Room,7758078|WD~President's_Room,7758078]]"
+- "[[_Standards/WikiData/WD~Vice_President's_Room,7772513|WD~Vice_President's_Room,7772513]]"
+- '[[_Standards/WikiData/WD~United_States_Senate_chamber,7891361|WD~United_States_Senate_chamber,7891361]]'
+- '[[_Standards/WikiData/WD~United_States_Senate_Reception_Room,30637857|WD~United_States_Senate_Reception_Room,30637857]]'
+different_from: '[[_Standards/WikiData/WD~Kapitol,1034683|WD~Kapitol,1034683]]'
+locations: '[[_Standards/WikiData/WD~Capitol_Hill,2305815|WD~Capitol_Hill,2305815]]'
+visitor_center: '[[_Standards/WikiData/WD~United_States_Capitol_Visitor_Center,2495308|WD~United_States_Capitol_Visitor_Center,2495308]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]'
-instance_of: '[[_Standards/WikiData/WD~capitol_building,3284499]]'
-located_on_street: '[[_Standards/WikiData/WD~East_Capitol_Street,5328004]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795|WD~Meyer_s_Universum,_Erster_Band,126374795]]'
+instance_of: '[[_Standards/WikiData/WD~capitol_building,3284499|WD~capitol_building,3284499]]'
+located_on_street: '[[_Standards/WikiData/WD~East_Capitol_Street,5328004|WD~East_Capitol_Street,5328004]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
-- '[[_Standards/WikiData/WD~WikiProject_Architecture,5496595]]'
-- '[[_Standards/WikiData/WD~WikiProject_United_States,10816993]]'
-- '[[_Standards/WikiData/WD~WikiProject_National_Register_of_Historic_Places,14942922]]'
-- '[[_Standards/WikiData/WD~WikiProject_U.S._Congress,15885135]]'
-- '[[_Standards/WikiData/WD~WikiProject_District_of_Columbia,21829872]]'
-- '[[_Standards/WikiData/WD~American_politics_task_force,21830639]]'
-significant_event: '[[_Standards/WikiData/WD~foundation_stone_laying_ceremony,18752057]]'
-has_characteristic: '[[_Standards/WikiData/WD~built_using_slave_labor,108223755]]'
+- '[[_Standards/WikiData/WD~WikiProject_Politics,5492483|WD~WikiProject_Politics,5492483]]'
+- '[[_Standards/WikiData/WD~WikiProject_Architecture,5496595|WD~WikiProject_Architecture,5496595]]'
+- '[[_Standards/WikiData/WD~WikiProject_United_States,10816993|WD~WikiProject_United_States,10816993]]'
+- '[[_Standards/WikiData/WD~WikiProject_National_Register_of_Historic_Places,14942922|WD~WikiProject_National_Register_of_Historic_Places,14942922]]'
+- '[[_Standards/WikiData/WD~WikiProject_U.S._Congress,15885135|WD~WikiProject_U.S._Congress,15885135]]'
+- '[[_Standards/WikiData/WD~WikiProject_District_of_Columbia,21829872|WD~WikiProject_District_of_Columbia,21829872]]'
+- '[[_Standards/WikiData/WD~American_politics_task_force,21830639|WD~American_politics_task_force,21830639]]'
+significant_event: '[[_Standards/WikiData/WD~foundation_stone_laying_ceremony,18752057|WD~foundation_stone_laying_ceremony,18752057]]'
+has_characteristic: '[[_Standards/WikiData/WD~built_using_slave_labor,108223755|WD~built_using_slave_labor,108223755]]'
 coordinate_location: Point(-77.009166666 38.889722222)
-occupant: '[[_Standards/WikiData/WD~United_States_Congress,11268]]'
-owned_by: '[[_Standards/WikiData/WD~United_States_Congress,11268]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-continent: '[[_Standards/WikiData/WD~North_America,49]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+occupant: '[[_Standards/WikiData/WD~United_States_Congress,11268|WD~United_States_Congress,11268]]'
+owned_by: '[[_Standards/WikiData/WD~United_States_Congress,11268|WD~United_States_Congress,11268]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+continent: '[[_Standards/WikiData/WD~North_America,49|WD~North_America,49]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Washington,_D.C.,61|WD~Washington,_D.C.,61]]'
 width: 400
 length: 500
 floors_above_ground: 5
 area: 1500000
-named_after: '[[_Standards/WikiData/WD~Capitoline_Hill,34925]]'
+named_after: '[[_Standards/WikiData/WD~Capitoline_Hill,34925|WD~Capitoline_Hill,34925]]'
 height: 88
 postal_code: 20004
 Facebook_username: USCapitol
@@ -302,7 +302,7 @@ dv_has_:
 
 # [[US_Capitol]] 
 
-![[../../../assets/Pasted image 20250817172000.png]] 
+![[../../../assets/Pasted image 20250817172000.png|Pasted image 20250817172000.png]] 
 By <a href="//commons.wikimedia.org/wiki/File:United_States_Capitol_-_west_front.jpg" title="File:United States Capitol - west front.jpg">United_States_Capitol_-_west_front.jpg</a>: <a href="https://en.wikipedia.org/wiki/Architect_of_the_Capitol" class="extiw" title="w:Architect of the Capitol">Architect of the Capitol</a>derivative work: <a href="//commons.wikimedia.org/wiki/User:Ottojula" title="User:Ottojula">O.J.</a> - <a href="//commons.wikimedia.org/wiki/File:United_States_Capitol_-_west_front.jpg" title="File:United States Capitol - west front.jpg">United_States_Capitol_-_west_front.jpg</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=17800708">Link</a> 
 
 #is_/same_as :: [[wd United_States_Capitol,54109]]

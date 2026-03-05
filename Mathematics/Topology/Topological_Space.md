@@ -64,19 +64,19 @@ aliases:
 - 위상 공간
 has_id_wikidata: Q179899
 has_characteristic:
-- '[[_Standards/WikiData/WD~Lebesgue_covering_dimension,164262]]'
-- '[[_Standards/WikiData/WD~topological_property,625948]]'
-- '[[_Standards/WikiData/WD~inductive_dimension,841816]]'
-- '[[_Standards/WikiData/WD~fundamental_domain,1474108]]'
-- '[[_Standards/WikiData/WD~category_of_topological_spaces,2000555]]'
-subclass_of: '[[_Standards/WikiData/WD~space,472971]]'
-studied_by: '[[_Standards/WikiData/WD~general_topology,621550]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~Lebesgue_covering_dimension,164262|WD~Lebesgue_covering_dimension,164262]]'
+- '[[_Standards/WikiData/WD~topological_property,625948|WD~topological_property,625948]]'
+- '[[_Standards/WikiData/WD~inductive_dimension,841816|WD~inductive_dimension,841816]]'
+- '[[_Standards/WikiData/WD~fundamental_domain,1474108|WD~fundamental_domain,1474108]]'
+- '[[_Standards/WikiData/WD~category_of_topological_spaces,2000555|WD~category_of_topological_spaces,2000555]]'
+subclass_of: '[[_Standards/WikiData/WD~space,472971|WD~space,472971]]'
+studied_by: '[[_Standards/WikiData/WD~general_topology,621550|WD~general_topology,621550]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~topology,18786106]]'
-- '[[_Standards/WikiData/WD~set,36161]]'
-instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-part_of: '[[_Standards/WikiData/WD~Q114728122,114728122]]'
+- '[[_Standards/WikiData/WD~topology,18786106|WD~topology,18786106]]'
+- '[[_Standards/WikiData/WD~set,36161|WD~set,36161]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
+part_of: '[[_Standards/WikiData/WD~Q114728122,114728122|WD~Q114728122,114728122]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Topological%20space%20examples.svg
 Commons_category: Topology
 dv_has_:

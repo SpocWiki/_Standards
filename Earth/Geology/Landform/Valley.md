@@ -116,25 +116,25 @@ aliases:
 - 골짜기
 has_id_wikidata: Q39816
 subclass_of:
-- '[[_Standards/WikiData/WD~region,82794]]'
-- '[[_Standards/WikiData/WD~depression,190429]]'
-- '[[_Standards/WikiData/WD~geographical_feature,618123]]'
-- '[[_Standards/WikiData/WD~natural_geographic_object,35145263]]'
+- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
+- '[[_Standards/WikiData/WD~depression,190429|WD~depression,190429]]'
+- '[[_Standards/WikiData/WD~geographical_feature,618123|WD~geographical_feature,618123]]'
+- '[[_Standards/WikiData/WD~natural_geographic_object,35145263|WD~natural_geographic_object,35145263]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~Dolina,1235601]]'
-- '[[_Standards/WikiData/WD~Tal,5576117]]'
-- '[[_Standards/WikiData/WD~Dolina,135864617]]'
-has_part_s_: '[[_Standards/WikiData/WD~valley_step,1337630]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~dene,5256860]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_valley,6424848]]'
-instance_of: '[[_Standards/WikiData/WD~feature_type,12046615]]'
+- '[[_Standards/WikiData/WD~Dolina,1235601|WD~Dolina,1235601]]'
+- '[[_Standards/WikiData/WD~Tal,5576117|WD~Tal,5576117]]'
+- '[[_Standards/WikiData/WD~Dolina,135864617|WD~Dolina,135864617]]'
+has_part_s_: '[[_Standards/WikiData/WD~valley_step,1337630|WD~valley_step,1337630]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~dene,5256860|WD~dene,5256860]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_valley,6424848|WD~Template_Infobox_valley,6424848]]'
+instance_of: '[[_Standards/WikiData/WD~feature_type,12046615|WD~feature_type,12046615]]'
 OmegaWiki_Defined_Meaning: 3938
 IMDb_keyword: valley
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Terek%20Valley%2C%20Khevi%2C%20Georgia.jpg

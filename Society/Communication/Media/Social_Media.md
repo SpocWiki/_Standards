@@ -102,33 +102,33 @@ aliases:
 - 소셜 미디어
 has_id_wikidata: Q202833
 studied_by:
-- '[[_Standards/WikiData/WD~media_studies,165650]]'
-- '[[_Standards/WikiData/WD~social,345367]]'
-- '[[_Standards/WikiData/WD~media_sociology,727825]]'
-- '[[_Standards/WikiData/WD~digital_media,10334763]]'
-- '[[_Standards/WikiData/WD~interaction_science,97008347]]'
+- '[[_Standards/WikiData/WD~media_studies,165650|WD~media_studies,165650]]'
+- '[[_Standards/WikiData/WD~social,345367|WD~social,345367]]'
+- '[[_Standards/WikiData/WD~media_sociology,727825|WD~media_sociology,727825]]'
+- '[[_Standards/WikiData/WD~digital_media,10334763|WD~digital_media,10334763]]'
+- '[[_Standards/WikiData/WD~interaction_science,97008347|WD~interaction_science,97008347]]'
 side_effect:
-- '[[_Standards/WikiData/WD~disinformation,189656]]'
-- '[[_Standards/WikiData/WD~misinformation,13579947]]'
-- '[[_Standards/WikiData/WD~catfishing,18205863]]'
+- '[[_Standards/WikiData/WD~disinformation,189656|WD~disinformation,189656]]'
+- '[[_Standards/WikiData/WD~misinformation,13579947|WD~misinformation,13579947]]'
+- '[[_Standards/WikiData/WD~catfishing,18205863|WD~catfishing,18205863]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~communications_media,340169]]'
-- '[[_Standards/WikiData/WD~genre,483394]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[../../../WikiData/WD~economic_activity,8187769]]'
-- '[[_Standards/WikiData/WD~type_of_mass_media,121132955]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~communications_media,340169|WD~communications_media,340169]]'
+- '[[_Standards/WikiData/WD~genre,483394|WD~genre,483394]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[../../../WikiData/WD~economic_activity,8187769|WD~economic_activity,8187769]]'
+- '[[_Standards/WikiData/WD~type_of_mass_media,121132955|WD~type_of_mass_media,121132955]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~communications_media,340169]]'
-- '[[_Standards/WikiData/WD~virtual_place,107307154]]'
+- '[[_Standards/WikiData/WD~communications_media,340169|WD~communications_media,340169]]'
+- '[[_Standards/WikiData/WD~virtual_place,107307154|WD~virtual_place,107307154]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~social_media_manager,2296674]]'
-- '[[_Standards/WikiData/WD~social_media_specialist,106595127]]'
+- '[[_Standards/WikiData/WD~social_media_manager,2296674|WD~social_media_manager,2296674]]'
+- '[[_Standards/WikiData/WD~social_media_specialist,106595127|WD~social_media_specialist,106595127]]'
 different_from:
-- '[[_Standards/WikiData/WD~social_network,2715623]]'
-- '[[_Standards/WikiData/WD~Wikiproject_Social_networking,20894394]]'
-uses: '[[_Standards/WikiData/WD~Internet,75]]'
+- '[[_Standards/WikiData/WD~social_network,2715623|WD~social_network,2715623]]'
+- '[[_Standards/WikiData/WD~Wikiproject_Social_networking,20894394|WD~Wikiproject_Social_networking,20894394]]'
+uses: '[[_Standards/WikiData/WD~Internet,75|WD~Internet,75]]'
 IAB_code: 1016
 Commons_category: Social media
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Conversationprism.jpeg

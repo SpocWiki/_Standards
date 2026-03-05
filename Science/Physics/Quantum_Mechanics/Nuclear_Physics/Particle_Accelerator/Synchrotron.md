@@ -35,10 +35,10 @@ aliases:
 - 싱크로트론
 has_id_wikidata: Q689863
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Mark_Oliphant,727443]]'
-- '[[_Standards/WikiData/WD~Vladimir_Veksler,1151055]]'
-- '[[_Standards/WikiData/WD~Edwin_McMillan,19009]]'
-subclass_of: '[[_Standards/WikiData/WD~cyclic_particle_accelerator,1736799]]'
+- '[[_Standards/WikiData/WD~Mark_Oliphant,727443|WD~Mark_Oliphant,727443]]'
+- '[[_Standards/WikiData/WD~Vladimir_Veksler,1151055|WD~Vladimir_Veksler,1151055]]'
+- '[[_Standards/WikiData/WD~Edwin_McMillan,19009|WD~Edwin_McMillan,19009]]'
+subclass_of: '[[_Standards/WikiData/WD~cyclic_particle_accelerator,1736799|WD~cyclic_particle_accelerator,1736799]]'
 Nomenclature_for_Museum_Cataloging: 9912
 Commons_category: Synchrotrons
 schematic:

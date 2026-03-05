@@ -159,7 +159,7 @@ dv_has_:
 > Clarkson earned a degree in drama from Fordham University 
 > before attending the Yale School of Drama, where she graduated with a Master of Fine Arts degree. 
 > 
-> She made her feature film debut in [[../../Movie-Directors/Palma,Brian_De]]'s mob drama The [[Untouchables]] (1987), 
+> She made her feature film debut in [[../../Movie-Directors/Palma,Brian_De|Palma,Brian_De]]'s mob drama The [[Untouchables]] (1987), 
 > followed by a supporting role in Buddy Van Horn's The Dead Pool (1988). 
 > After appearing in minor roles in the early and mid-1990s, she garnered critical attention 
 > for her portrayal of a drug-addicted actress in the independent drama High Art (1998). 
@@ -173,8 +173,8 @@ dv_has_:
 > 
 > Clarkson also appeared as a recurring guest star on the HBO series Six Feet Under from 2002 to 2005, and won two Primetime Emmy Awards for her performance. Other credits from the 2000s include [[Good Night, and Good Luck]] (2005), [[Lars and the Real Girl]] (2007), and Elegy (2008). She also appeared in Woody Allen's [[Vicky Cristina Barcelona]] (2008), and [[Whatever Works]] (2009).
 >
-> In 2010, Clarkson had a supporting role in [[../../Movie-Directors/Scorsese,Martin]]'s thriller [[Shutter Island]], 
-> followed by roles in the mainstream comedies [[../../../../../../../../_private/Society/Communication/Media/TV-Series/Easy_A]] and [[Friends with Benefits]]. 
+> In 2010, Clarkson had a supporting role in [[../../Movie-Directors/Scorsese,Martin|Scorsese,Martin]]'s thriller [[Shutter Island]], 
+> followed by roles in the mainstream comedies [[../../../../../../../../_private/Society/Communication/Media/TV-Series/Easy_A|Easy_A]] and [[Friends with Benefits]]. 
 > She subsequently portrayed the villainous Ava Paige in The [[Maze Runner]] (2014) and its two sequels. 
 > 
 > She returned to theater in 2014, playing the role of Madge Kendal 

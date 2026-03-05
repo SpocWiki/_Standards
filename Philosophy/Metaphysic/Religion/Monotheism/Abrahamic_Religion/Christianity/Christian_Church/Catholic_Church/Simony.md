@@ -34,16 +34,16 @@ aliases:
 - 買賣聖職
 - 독성죄
 has_id_wikidata: Q205302
-named_after: '[[_Standards/WikiData/WD~Simon_Magus,294795]]'
+named_after: '[[_Standards/WikiData/WD~Simon_Magus,294795|WD~Simon_Magus,294795]]'
 described_by_source:
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-different_from: '[[_Standards/WikiData/WD~Q9348928,9348928]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+different_from: '[[_Standards/WikiData/WD~Q9348928,9348928|WD~Q9348928,9348928]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~religious_crime,124457721]]'
-- '[[_Standards/WikiData/WD~corruption,366]]'
+- '[[_Standards/WikiData/WD~religious_crime,124457721|WD~religious_crime,124457721]]'
+- '[[_Standards/WikiData/WD~corruption,366|WD~corruption,366]]'
 Commons_category: Simony
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Simonie%20-%20Medieval%20Manuscripts%20Albert%20Derolez%20%28cropped%292.jpg
 dv_has_:

@@ -102,21 +102,21 @@ tags:
 title: is_a_college_or_university Class
 type: Type
 different_from:
-- '[[_Standards/WikiData/WD~railway_track,160342]]'
-- '[[_Standards/WikiData/WD~Collegium,344476]]'
-- '[[_Standards/WikiData/WD~college_in_France,1459186]]'
-- '[[_Standards/WikiData/WD~professional_and_vocational_university,30934637]]'
-- '[[_Standards/WikiData/WD~university,3918]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-subclass_of: '[[_Standards/WikiData/WD~educational_institution,2385804]]'
+- '[[_Standards/WikiData/WD~railway_track,160342|WD~railway_track,160342]]'
+- '[[_Standards/WikiData/WD~Collegium,344476|WD~Collegium,344476]]'
+- '[[_Standards/WikiData/WD~college_in_France,1459186|WD~college_in_France,1459186]]'
+- '[[_Standards/WikiData/WD~professional_and_vocational_university,30934637|WD~professional_and_vocational_university,30934637]]'
+- '[[_Standards/WikiData/WD~university,3918|WD~university,3918]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~educational_institution,2385804|WD~educational_institution,2385804]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~VUZ,10302378]]'
-- '[[_Standards/WikiData/WD~Hochschule,21028957]]'
-model_item: '[[_Standards/WikiData/WD~University_of_Oxford,34433]]'
+- '[[_Standards/WikiData/WD~VUZ,10302378|WD~VUZ,10302378]]'
+- '[[_Standards/WikiData/WD~Hochschule,21028957|WD~Hochschule,21028957]]'
+model_item: '[[_Standards/WikiData/WD~University_of_Oxford,34433|WD~University_of_Oxford,34433]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Universities_and_colleges_in_Jilin,17545282]]'
-- '[[_Standards/WikiData/WD~Q22867433,22867433]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_educational_institution,112872396]]'
+- '[[_Standards/WikiData/WD~Template_Universities_and_colleges_in_Jilin,17545282|WD~Template_Universities_and_colleges_in_Jilin,17545282]]'
+- '[[_Standards/WikiData/WD~Q22867433,22867433|WD~Q22867433,22867433]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_educational_institution,112872396|WD~type_of_educational_institution,112872396]]'
 Commons_gallery: College
 IMDb_keyword: college
 subreddit: college
@@ -127,16 +127,16 @@ OpenStreetMap_tag_or_key:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carnegie%20Building.jpg
 IPTC_NewsCode: mediatopic/20000406
 GeoNames_feature_code: S.SCHC
-has_use: '[[_Standards/WikiData/WD~higher_education,136822]]'
-field_of_work: '[[_Standards/WikiData/WD~higher_education,136822]]'
+has_use: '[[_Standards/WikiData/WD~higher_education,136822|WD~higher_education,136822]]'
+field_of_work: '[[_Standards/WikiData/WD~higher_education,136822|WD~higher_education,136822]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~faculty,180958]]'
-- '[[_Standards/WikiData/WD~dean,723682]]'
-- '[[_Standards/WikiData/WD~academic_department,2467461]]'
-has_characteristic: '[[_Standards/WikiData/WD~college_and_university_ranking,847843]]'
+- '[[_Standards/WikiData/WD~faculty,180958|WD~faculty,180958]]'
+- '[[_Standards/WikiData/WD~dean,723682|WD~dean,723682]]'
+- '[[_Standards/WikiData/WD~academic_department,2467461|WD~academic_department,2467461]]'
+has_characteristic: '[[_Standards/WikiData/WD~college_and_university_ranking,847843|WD~college_and_university_ranking,847843]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~rectorate,16691805]]'
-- '[[_Standards/WikiData/WD~Q110988122,110988122]]'
+- '[[_Standards/WikiData/WD~rectorate,16691805|WD~rectorate,16691805]]'
+- '[[_Standards/WikiData/WD~Q110988122,110988122|WD~Q110988122,110988122]]'
 Material_UI_icon: School
 equivalent_class: https://schema.org/CollegeOrUniversity
 Provenio_UUID:
@@ -244,11 +244,11 @@ Tag Instances like this:
 
 A college, university, or other third-level educational institution.
 
-#has_/parent_class :: [[../EducationalOrganization]]  
+#has_/parent_class :: [[../EducationalOrganization|EducationalOrganization]]  
 
 #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, photo, photos, potentialAction, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~higher_education_institution,38723]]
+#is_/same_as :: [[_Standards/WikiData/WD~higher_education_institution,38723|WD~higher_education_institution,38723]]
 
 ## #has_/text_of_/abstract 
 

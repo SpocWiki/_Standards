@@ -70,10 +70,10 @@ aliases:
 Commons_category: Abstract expressionism
 has_id_wikidata: Q177725
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~painting_movement,3326867]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~painting_movement,3326867|WD~painting_movement,3326867]]'
 P8189: 987007292961305171
-subclass_of: '[[_Standards/WikiData/WD~abstract_art,128115]]'
+subclass_of: '[[_Standards/WikiData/WD~abstract_art,128115|WD~abstract_art,128115]]'
 dv_has_:
   name_:
     af: Abstrakte ekspressionisme
@@ -170,7 +170,7 @@ dv_has_:
 
 # [[Abstract_Expressionism]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Abstract_expressionism,177725]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Abstract_expressionism,177725|WD~Abstract_expressionism,177725]] 
 
 ## #has_/text_of_/abstract 
 

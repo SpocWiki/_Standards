@@ -42,7 +42,7 @@ dv_has_:
     - "[[Price_Specification/Payment_Charge_Specification|Payment_Charge_Specification]]"
     - "[[Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
   parent_class:
-    - "[[../StructuredValue]]"
+    - "[[../StructuredValue|StructuredValue]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -66,7 +66,7 @@ dv_has_:
     - "[[valid_through|valid_through]]"
     - "[[../../../../Property/Flags/is_value_added_tax_included|is_value_added_tax_included]]"
 dv_has_parent_class:
-  - "[[../structured_value|../structured_value]]"
+  - "[[../structured_value|../structured_value|structured_value]]"
 dv_has_child_class:
   - "[[Price_Specification/Compound_Price_Specification|Compound_Price_Specification]]"
   - "[[Price_Specification/Delivery_Charge_Specification|Delivery_Charge_Specification]]"

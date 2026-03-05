@@ -160,25 +160,25 @@ aliases:
 - 斯拉夫语族
 - 슬라브어파
 has_id_wikidata: Q23526
-category_populated_by: '[[_Standards/WikiData/WD~Template_Slavic_languages,6231718]]'
+category_populated_by: '[[_Standards/WikiData/WD~Template_Slavic_languages,6231718|WD~Template_Slavic_languages,6231718]]'
 Commons_category: Slavic languages
-culture: '[[_Standards/WikiData/WD~Slavic_culture,66049360]]'
+culture: '[[_Standards/WikiData/WD~Slavic_culture,66049360|WD~Slavic_culture,66049360]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 Dewey_Decimal_Classification: 491.8
-different_from: '[[_Standards/WikiData/WD~Church_Slavonic,33251]]'
+different_from: '[[_Standards/WikiData/WD~Church_Slavonic,33251|WD~Church_Slavonic,33251]]'
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Tabula%20Linguarum%20Slavicarum.png
 exact_match: http://publications.europa.eu/resource/authority/language/SLA
 IETF_language_tag: sla
-indigenous_to: '[[_Standards/WikiData/WD~Slavs,40477]]'
+indigenous_to: '[[_Standards/WikiData/WD~Slavs,40477|WD~Slavs,40477]]'
 instance_of:
-- '[[_Standards/WikiData/WD~language_group,941501]]'
-- '[[_Standards/WikiData/WD~language_family,25295]]'
+- '[[_Standards/WikiData/WD~language_group,941501|WD~language_group,941501]]'
+- '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
 ISO_639_2_code: sla
 ISO_639_5_code: sla
 Krugosvet_article: gumanitarnye_nauki/lingvistika/SLAVYANSKIE_YAZIKI.html
@@ -189,13 +189,13 @@ OmegaWiki_Defined_Meaning: 347539
 Stack_Exchange_tag:
 - https://linguistics.stackexchange.com/tags/slavic-languages
 - https://russian.stackexchange.com/tags/slavic
-studied_in: '[[_Standards/WikiData/WD~Slavic_studies,156864]]'
+studied_in: '[[_Standards/WikiData/WD~Slavic_studies,156864|WD~Slavic_studies,156864]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Balto-Slavic,147356]]'
-- '[[_Standards/WikiData/WD~Indo-European,19860]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Slavic_languages,6231718]]'
+- '[[_Standards/WikiData/WD~Balto-Slavic,147356|WD~Balto-Slavic,147356]]'
+- '[[_Standards/WikiData/WD~Indo-European,19860|WD~Indo-European,19860]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Slavic_languages,6231718|WD~Template_Slavic_languages,6231718]]'
 Universal_Decimal_Classification: 811.16
-writing_system: '[[_Standards/WikiData/WD~Glagolitic,145625]]'
+writing_system: '[[_Standards/WikiData/WD~Glagolitic,145625|WD~Glagolitic,145625]]'
 dv_has_:
   name_:
     ab: Аславиан бызшәақәа

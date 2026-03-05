@@ -144,7 +144,7 @@ dv_has_:
 > and bears the influence of filmmakers such as Alfred Hitchcock, Jean-Luc Godard, 
 > and Michelangelo Antonioni. 
 > His work has been criticized for its violence and sexual content 
-> but has also been championed by American critics such as [[../Move-Critics/Ebert,Roger]] and Pauline Kael.
+> but has also been championed by American critics such as [[../Move-Critics/Ebert,Roger|Ebert,Roger]] and Pauline Kael.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brian%20De%20Palma) 
 

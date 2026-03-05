@@ -79,25 +79,25 @@ aliases:
 - 낙하산
 has_id_wikidata: Q482816
 has_part_s_:
-- '[[_Standards/WikiData/WD~handle,200266]]'
-- '[[_Standards/WikiData/WD~safety_harness,333518]]'
-- '[[_Standards/WikiData/WD~cable,646462]]'
+- '[[_Standards/WikiData/WD~handle,200266|WD~handle,200266]]'
+- '[[_Standards/WikiData/WD~safety_harness,333518|WD~safety_harness,333518]]'
+- '[[_Standards/WikiData/WD~cable,646462|WD~cable,646462]]'
 uses:
-- '[[_Standards/WikiData/WD~drag,206621]]'
-- '[[_Standards/WikiData/WD~inflation,109517859]]'
+- '[[_Standards/WikiData/WD~drag,206621|WD~drag,206621]]'
+- '[[_Standards/WikiData/WD~inflation,109517859|WD~inflation,109517859]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~cable,646462]]'
-- '[[_Standards/WikiData/WD~textile,28823]]'
-subclass_of: '[[_Standards/WikiData/WD~protective_device,3030569]]'
-different_from: '[[_Standards/WikiData/WD~Spadochron,9339993]]'
-has_use: '[[_Standards/WikiData/WD~deceleration,12307971]]'
-has_characteristic: '[[_Standards/WikiData/WD~control,29017603]]'
+- '[[_Standards/WikiData/WD~cable,646462|WD~cable,646462]]'
+- '[[_Standards/WikiData/WD~textile,28823|WD~textile,28823]]'
+subclass_of: '[[_Standards/WikiData/WD~protective_device,3030569|WD~protective_device,3030569]]'
+different_from: '[[_Standards/WikiData/WD~Spadochron,9339993|WD~Spadochron,9339993]]'
+has_use: '[[_Standards/WikiData/WD~deceleration,12307971|WD~deceleration,12307971]]'
+has_characteristic: '[[_Standards/WikiData/WD~control,29017603|WD~control,29017603]]'
 Nomenclature_for_Museum_Cataloging: 11679
 Commons_category: Parachutes
 GS1_GPC_code: 10001832

@@ -110,19 +110,19 @@ aliases:
 - 낫
 has_id_wikidata: Q42233
 different_from:
-- '[[_Standards/WikiData/WD~scythe,130912]]'
-- '[[_Standards/WikiData/WD~Q111987680,111987680]]'
-part_of: '[[_Standards/WikiData/WD~hammer_and_sickle,170266]]'
+- '[[_Standards/WikiData/WD~scythe,130912|WD~scythe,130912]]'
+- '[[_Standards/WikiData/WD~Q111987680,111987680|WD~Q111987680,111987680]]'
+part_of: '[[_Standards/WikiData/WD~hammer_and_sickle,170266|WD~hammer_and_sickle,170266]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~handle,200266]]'
-- '[[_Standards/WikiData/WD~blade,330946]]'
+- '[[_Standards/WikiData/WD~handle,200266|WD~handle,200266]]'
+- '[[_Standards/WikiData/WD~blade,330946|WD~blade,330946]]'
 has_use:
-- '[[_Standards/WikiData/WD~harvest,213753]]'
-- '[[_Standards/WikiData/WD~weed_control,2739141]]'
+- '[[_Standards/WikiData/WD~harvest,213753|WD~harvest,213753]]'
+- '[[_Standards/WikiData/WD~weed_control,2739141|WD~weed_control,2739141]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-subclass_of: '[[_Standards/WikiData/WD~reaping_tool,126709777]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~reaping_tool,126709777|WD~reaping_tool,126709777]]'
 Nomenclature_for_Museum_Cataloging: 3379
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/20.Falz.JPG

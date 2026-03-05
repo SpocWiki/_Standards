@@ -114,16 +114,16 @@ aliases:
 - ꠚꠞꠘꠣꠝ
 - 대명사
 has_id_wikidata: Q36224
-instance_of: '[[_Standards/WikiData/WD~part_of_speech,82042]]'
+instance_of: '[[_Standards/WikiData/WD~part_of_speech,82042|WD~part_of_speech,82042]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-different_from: '[[_Standards/WikiData/WD~pro_form,2006180]]'
-subclass_of: '[[_Standards/WikiData/WD~pro_form,2006180]]'
-represents: '[[_Standards/WikiData/WD~replacing_entity,45025415]]'
-has_part_s_: '[[_Standards/WikiData/WD~second_person_pronoun,62024532]]'
-facet_of: '[[_Standards/WikiData/WD~noun,1084]]'
-part_of: '[[_Standards/WikiData/WD~noun,1084]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+different_from: '[[_Standards/WikiData/WD~pro_form,2006180|WD~pro_form,2006180]]'
+subclass_of: '[[_Standards/WikiData/WD~pro_form,2006180|WD~pro_form,2006180]]'
+represents: '[[_Standards/WikiData/WD~replacing_entity,45025415|WD~replacing_entity,45025415]]'
+has_part_s_: '[[_Standards/WikiData/WD~second_person_pronoun,62024532|WD~second_person_pronoun,62024532]]'
+facet_of: '[[_Standards/WikiData/WD~noun,1084|WD~noun,1084]]'
+part_of: '[[_Standards/WikiData/WD~noun,1084|WD~noun,1084]]'
 OmegaWiki_Defined_Meaning: 409716
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%AE.wav
 exact_match:

@@ -85,10 +85,10 @@ aliases:
 - 터치스크린
 has_id_wikidata: Q165970
 subclass_of:
-- '[[_Standards/WikiData/WD~output_device,778637]]'
-- '[[_Standards/WikiData/WD~input_device,864114]]'
-- '[[_Standards/WikiData/WD~human_interface_device,1348085]]'
-has_immediate_cause: '[[_Standards/WikiData/WD~digit,34583]]'
+- '[[_Standards/WikiData/WD~output_device,778637|WD~output_device,778637]]'
+- '[[_Standards/WikiData/WD~input_device,864114|WD~input_device,864114]]'
+- '[[_Standards/WikiData/WD~human_interface_device,1348085|WD~human_interface_device,1348085]]'
+has_immediate_cause: '[[_Standards/WikiData/WD~digit,34583|WD~digit,34583]]'
 Nomenclature_for_Museum_Cataloging: 10513
 ArchWiki_article: Touchscreen
 OmegaWiki_Defined_Meaning: 1064517

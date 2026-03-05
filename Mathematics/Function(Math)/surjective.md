@@ -164,7 +164,7 @@ direction LR
 > [Wikipedia](https://en.wikipedia.org/wiki/Surjective%20function) 
 
 
-[[../../../Knowledge/Math/Combinatorics/Twelvefold_way]]] 
+[[../../../Knowledge/Math/Combinatorics/Twelvefold_way|Twelvefold_way]]] 
 
 
 ## Confidential Links & Embeds: 

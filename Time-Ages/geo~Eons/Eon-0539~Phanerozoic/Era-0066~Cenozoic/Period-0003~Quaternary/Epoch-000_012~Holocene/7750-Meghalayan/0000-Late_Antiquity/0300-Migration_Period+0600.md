@@ -89,20 +89,20 @@ aliases:
 - 게르만족의 대이동
 has_id_wikidata: Q131192
 instance_of:
-- '[[_Standards/WikiData/WD~human_migration,177626]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-locations: '[[_Standards/WikiData/WD~continental_Europe,466039]]'
+- '[[_Standards/WikiData/WD~human_migration,177626|WD~human_migration,177626]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+locations: '[[_Standards/WikiData/WD~continental_Europe,466039|WD~continental_Europe,466039]]'
 described_by_source:
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~Barbarian_Invasion,1221354]]'
-- '[[_Standards/WikiData/WD~Invasioni_barbariche,3800892]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q106997565,106997565]]'
+- '[[_Standards/WikiData/WD~Barbarian_Invasion,1221354|WD~Barbarian_Invasion,1221354]]'
+- '[[_Standards/WikiData/WD~Invasioni_barbariche,3800892|WD~Invasioni_barbariche,3800892]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q106997565,106997565|WD~Q106997565,106997565]]'
 start_time: 0375-01-01T00:00:00Z
-time_period: '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
+time_period: '[[_Standards/WikiData/WD~Byzantine_Empire,12544|WD~Byzantine_Empire,12544]]'
 BHCL_UUID: 322c3775-e7e5-4fc4-b006-ddae6c2ef5c4
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Invasions%20of%20the%20Roman%20Empire%201.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Oton%20Ivekovic%2C%20Dolazak%20Hrvata%20na%20Jadran.jpg
@@ -111,7 +111,7 @@ Commons_category: Migration period
 end_time: 0568-01-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Migration_Period,131192]]'
+  - '[[../../../../../../../../WikiData/WD~Migration_Period,131192|WD~Migration_Period,131192]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600|0300-Migration_Period+0600]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600.public|0300-Migration_Period+0600.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600.internal|0300-Migration_Period+0600.internal]]'
@@ -120,7 +120,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600.personal|0300-Migration_Period+0600.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600.secret|0300-Migration_Period+0600.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Migration_Period,131192]]'
+- '[[../../../../../../../../WikiData/WD~Migration_Period,131192|WD~Migration_Period,131192]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600|0300-Migration_Period+0600]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600.public|0300-Migration_Period+0600.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600.internal|0300-Migration_Period+0600.internal]]'

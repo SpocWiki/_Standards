@@ -93,11 +93,11 @@ aliases:
 - 방사선
 has_id_wikidata: Q18335
 subclass_of:
-- '[[_Standards/WikiData/WD~heat_transfer,179635]]'
-- '[[_Standards/WikiData/WD~energy_transfer_process,116118033]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Radiation,10927520]]'
-studied_by: '[[_Standards/WikiData/WD~physics,413]]'
-part_of: '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~heat_transfer,179635|WD~heat_transfer,179635]]'
+- '[[_Standards/WikiData/WD~energy_transfer_process,116118033|WD~energy_transfer_process,116118033]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Radiation,10927520|WD~Template_Radiation,10927520]]'
+studied_by: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
+part_of: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
 OmegaWiki_Defined_Meaning: 3070
 U_S_National_Archives_Identifier: 10643799
 Commons_category: Radiation

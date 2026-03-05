@@ -324,7 +324,7 @@ dv_has_:
 
 # [[Movie-Director]] 
 
- #is_/same_as :: [[_Standards/WikiData/WD~film_director,2526255]] 
+ #is_/same_as :: [[_Standards/WikiData/WD~film_director,2526255|WD~film_director,2526255]] 
 
 ## #has_/text_of_/abstract 
 

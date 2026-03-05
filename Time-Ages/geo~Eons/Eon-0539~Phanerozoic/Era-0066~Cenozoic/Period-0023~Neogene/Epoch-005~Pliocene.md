@@ -53,16 +53,16 @@ aliases:
 - 플리오세
 has_id_wikidata: Q76259
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Pliocene,7344876]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Pliocene,7344876|WD~Category_Pliocene,7344876]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -2580000-01-01T00:00:00Z
-named_by: '[[_Standards/WikiData/WD~Charles_Lyell,5333]]'
+named_by: '[[_Standards/WikiData/WD~Charles_Lyell,5333|WD~Charles_Lyell,5333]]'
 Commons_category: Pliocene
 sRGB_color_hex_triplet: FFFF99
 start_time: -5333000-01-01T00:00:00Z
@@ -234,7 +234,7 @@ A time period from 5.333 to 2.58 million years ago.
 
 The average Temperature was 2.5° higher than before the industrial Revolution. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-005_Ma_(Zanclean_Age).png]]  
+![[../../../../../../xLarge/Earth/Geology/Earth-005_Ma_(Zanclean_Age).png|Earth-005_Ma_(Zanclean_Age).png]]  
 
 ## #has_/text_of_/abstract 
 

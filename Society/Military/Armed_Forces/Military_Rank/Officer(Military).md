@@ -110,30 +110,30 @@ aliases:
 - 장교
 has_id_wikidata: Q189290
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Marine_officer,1181984]]'
-- '[[_Standards/WikiData/WD~naval_officer,10669499]]'
-- '[[_Standards/WikiData/WD~air_force_officer,19934710]]'
-- '[[_Standards/WikiData/WD~army_officer,38239859]]'
-opposite_of: '[[_Standards/WikiData/WD~enlisted_person,4319062]]'
+- '[[_Standards/WikiData/WD~Marine_officer,1181984|WD~Marine_officer,1181984]]'
+- '[[_Standards/WikiData/WD~naval_officer,10669499|WD~naval_officer,10669499]]'
+- '[[_Standards/WikiData/WD~air_force_officer,19934710|WD~air_force_officer,19934710]]'
+- '[[_Standards/WikiData/WD~army_officer,38239859|WD~army_officer,38239859]]'
+opposite_of: '[[_Standards/WikiData/WD~enlisted_person,4319062|WD~enlisted_person,4319062]]'
 different_from:
-- '[[_Standards/WikiData/WD~Officer,4340294]]'
-- '[[_Standards/WikiData/WD~officer,61022630]]'
-- '[[_Standards/WikiData/WD~Q108878913,108878913]]'
+- '[[_Standards/WikiData/WD~Officer,4340294|WD~Officer,4340294]]'
+- '[[_Standards/WikiData/WD~officer,61022630|WD~officer,61022630]]'
+- '[[_Standards/WikiData/WD~Q108878913,108878913|WD~Q108878913,108878913]]'
 instance_of:
-- '[[_Standards/WikiData/WD~military_profession,6857706]]'
-- '[[_Standards/WikiData/WD~military_rank,56019]]'
+- '[[_Standards/WikiData/WD~military_profession,6857706|WD~military_profession,6857706]]'
+- '[[_Standards/WikiData/WD~military_rank,56019|WD~military_rank,56019]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~officer,61022630]]'
-- '[[_Standards/WikiData/WD~military_personnel,47064]]'
+- '[[_Standards/WikiData/WD~officer,61022630|WD~officer,61022630]]'
+- '[[_Standards/WikiData/WD~military_personnel,47064|WD~military_personnel,47064]]'
 Library_of_Congress_Classification: UB410-UB415
 male_form_of_label:
 - Offizier

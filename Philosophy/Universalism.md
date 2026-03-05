@@ -35,14 +35,14 @@ aliases:
 - 보편성
 has_id_wikidata: Q875797
 opposite_of:
-- '[[_Standards/WikiData/WD~relativism,83188]]'
-- '[[_Standards/WikiData/WD~exceptionalism,1076085]]'
-described_by_source: '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~relativism,83188|WD~relativism,83188]]'
+- '[[_Standards/WikiData/WD~exceptionalism,1076085|WD~exceptionalism,1076085]]'
+described_by_source: '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~categorical_proposition,1735817]]'
-- '[[_Standards/WikiData/WD~moral_universalism,3307150]]'
-- '[[_Standards/WikiData/WD~universals,3551307]]'
-subclass_of: '[[_Standards/WikiData/WD~philosophical_theory,5389993]]'
+- '[[_Standards/WikiData/WD~categorical_proposition,1735817|WD~categorical_proposition,1735817]]'
+- '[[_Standards/WikiData/WD~moral_universalism,3307150|WD~moral_universalism,3307150]]'
+- '[[_Standards/WikiData/WD~universals,3551307|WD~universals,3551307]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophical_theory,5389993|WD~philosophical_theory,5389993]]'
 Dewey_Decimal_Classification:
 - 111.2
 - 330.15
@@ -93,10 +93,10 @@ dv_has_:
 # [[Universalism]]  
 
 #has_/complement :: [[Relativism]] 
-#is_/different_from :: [[../Philosophy/Ethics/Universalism]] 
-#is_/same_as :: [[_Standards/WikiData/WD~universality,875797]]  
+#is_/different_from :: [[../Philosophy/Ethics/Universalism|Universalism]] 
+#is_/same_as :: [[_Standards/WikiData/WD~universality,875797|WD~universality,875797]]  
 
-[[../Philosophy/Ethics/Universalism]] is best understood as an intentional commitment to universality, 
+[[../Philosophy/Ethics/Universalism|Universalism]] is best understood as an intentional commitment to universality, 
 transforming a descriptive condition into a normative mandate.  
 [[Universalism]] is the factual or logical scope 
 that universalism seeks to achieve but does not inherently guarantee.

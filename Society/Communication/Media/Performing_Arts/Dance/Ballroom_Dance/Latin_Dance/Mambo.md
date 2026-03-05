@@ -17,10 +17,10 @@ aliases:
 - 曼波舞
 - 맘보
 has_id_wikidata: Q333002
-named_after: '[[_Standards/WikiData/WD~Mambo,16915553]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
-subclass_of: '[[_Standards/WikiData/WD~dance,11639]]'
-country_of_origin: '[[_Standards/WikiData/WD~Cuba,241]]'
+named_after: '[[_Standards/WikiData/WD~Mambo,16915553|WD~Mambo,16915553]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104|WD~type_of_dance,107357104]]'
+subclass_of: '[[_Standards/WikiData/WD~dance,11639|WD~dance,11639]]'
+country_of_origin: '[[_Standards/WikiData/WD~Cuba,241|WD~Cuba,241]]'
 Commons_category: Mambo
 start_time: 1938-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CCMDonation28.JPG

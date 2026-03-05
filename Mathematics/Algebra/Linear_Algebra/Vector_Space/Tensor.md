@@ -36,19 +36,19 @@ aliases:
 - 텐소르
 has_id_wikidata: Q188524
 subclass_of:
-- '[[_Standards/WikiData/WD~mathematical_object,246672]]'
-- '[[_Standards/WikiData/WD~multilinear_map,1952404]]'
-studied_by: '[[_Standards/WikiData/WD~tensor_calculus,3650511]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Tensors,8089885]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~mathematical_object,246672|WD~mathematical_object,246672]]'
+- '[[_Standards/WikiData/WD~multilinear_map,1952404|WD~multilinear_map,1952404]]'
+studied_by: '[[_Standards/WikiData/WD~tensor_calculus,3650511|WD~tensor_calculus,3650511]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Tensors,8089885|WD~Template_Tensors,8089885]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 different_from:
-- '[[_Standards/WikiData/WD~Q15990710,15990710]]'
-- '[[_Standards/WikiData/WD~tensor_quantity,90932929]]'
-part_of: '[[_Standards/WikiData/WD~tensor_space,16635030]]'
+- '[[_Standards/WikiData/WD~Q15990710,15990710|WD~Q15990710,15990710]]'
+- '[[_Standards/WikiData/WD~tensor_quantity,90932929|WD~tensor_quantity,90932929]]'
+part_of: '[[_Standards/WikiData/WD~tensor_space,16635030|WD~tensor_space,16635030]]'
 instance_of:
-- '[[_Standards/WikiData/WD~geometric_concept,21550639]]'
-- '[[_Standards/WikiData/WD~general_quantity,71758646]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~geometric_concept,21550639|WD~geometric_concept,21550639]]'
+- '[[_Standards/WikiData/WD~general_quantity,71758646|WD~general_quantity,71758646]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 Krugosvet_article_archived_: matematika/tenzor
 Commons_category: Tensors
 dv_has_:

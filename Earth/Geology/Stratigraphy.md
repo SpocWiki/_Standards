@@ -52,24 +52,24 @@ aliases:
 - 층서학
 has_id_wikidata: Q134783
 is_the_study_of:
-- '[[_Standards/WikiData/WD~sedimentary_rock,82480]]'
-- '[[_Standards/WikiData/WD~sedimentary_basin,785020]]'
-- '[[_Standards/WikiData/WD~stratum,12758989]]'
+- '[[_Standards/WikiData/WD~sedimentary_rock,82480|WD~sedimentary_rock,82480]]'
+- '[[_Standards/WikiData/WD~sedimentary_basin,785020|WD~sedimentary_basin,785020]]'
+- '[[_Standards/WikiData/WD~stratum,12758989|WD~stratum,12758989]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~biostratigraphy,864826]]'
-- '[[_Standards/WikiData/WD~sequence_stratigraphy,1732190]]'
+- '[[_Standards/WikiData/WD~biostratigraphy,864826|WD~biostratigraphy,864826]]'
+- '[[_Standards/WikiData/WD~sequence_stratigraphy,1732190|WD~sequence_stratigraphy,1732190]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_geology,87058424]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_geology,87058424|WD~branch_of_geology,87058424]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_rockunit,13361868]]'
-practiced_by: '[[_Standards/WikiData/WD~stratigrapher,53751363]]'
-subclass_of: '[[_Standards/WikiData/WD~geology,1069]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_rockunit,13361868|WD~Template_Infobox_rockunit,13361868]]'
+practiced_by: '[[_Standards/WikiData/WD~stratigrapher,53751363|WD~stratigrapher,53751363]]'
+subclass_of: '[[_Standards/WikiData/WD~geology,1069|WD~geology,1069]]'
 All_Science_Journal_Classification_Codes: 1913
 Colon_Classification: H5
 OmegaWiki_Defined_Meaning: 526923

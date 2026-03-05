@@ -205,37 +205,37 @@ cssclasses:
 - private
 - note
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-- '[[_Standards/WikiData/WD~Earthquake,412822]]'
-- '[[_Standards/WikiData/WD~Earthquake,500280]]'
+- '[[_Standards/WikiData/WD~Earthquake,412822|WD~Earthquake,412822]]'
+- '[[_Standards/WikiData/WD~Earthquake,500280|WD~Earthquake,500280]]'
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''
 handled_mitigated_or_managed_by:
-- '[[_Standards/WikiData/WD~earthquake_prediction,606654]]'
-- '[[_Standards/WikiData/WD~seismic_retrofit,2468944]]'
-- '[[_Standards/WikiData/WD~earthquake-resistant_structures,5327277]]'
-- '[[_Standards/WikiData/WD~earthquake_warning_system,5327282]]'
-- '[[_Standards/WikiData/WD~earthquake_preparedness,28129893]]'
-has_cause: '[[_Standards/WikiData/WD~active_fault,1089248]]'
-has_characteristic: '[[_Standards/WikiData/WD~type_of_earthquake,7860950]]'
+- '[[_Standards/WikiData/WD~earthquake_prediction,606654|WD~earthquake_prediction,606654]]'
+- '[[_Standards/WikiData/WD~seismic_retrofit,2468944|WD~seismic_retrofit,2468944]]'
+- '[[_Standards/WikiData/WD~earthquake-resistant_structures,5327277|WD~earthquake-resistant_structures,5327277]]'
+- '[[_Standards/WikiData/WD~earthquake_warning_system,5327282|WD~earthquake_warning_system,5327282]]'
+- '[[_Standards/WikiData/WD~earthquake_preparedness,28129893|WD~earthquake_preparedness,28129893]]'
+has_cause: '[[_Standards/WikiData/WD~active_fault,1089248|WD~active_fault,1089248]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_of_earthquake,7860950|WD~type_of_earthquake,7860950]]'
 has_effect:
-- '[[_Standards/WikiData/WD~landslide,167903]]'
-- '[[_Standards/WikiData/WD~soil_liquefaction,827291]]'
-- '[[_Standards/WikiData/WD~tsunami,8070]]'
-history_of_topic: '[[_Standards/WikiData/WD~Q120637196,120637196]]'
+- '[[_Standards/WikiData/WD~landslide,167903|WD~landslide,167903]]'
+- '[[_Standards/WikiData/WD~soil_liquefaction,827291|WD~soil_liquefaction,827291]]'
+- '[[_Standards/WikiData/WD~tsunami,8070|WD~tsunami,8070]]'
+history_of_topic: '[[_Standards/WikiData/WD~Q120637196,120637196|WD~Q120637196,120637196]]'
 has_Template: '[[Extract~Note~Template]]'
 has_time_started:
   '{ "date:YYYY-MM-DD": }': ''
@@ -249,9 +249,9 @@ layout: ''
 license: (c)copyrighted
 linkTitle:
   '{ newTitle: }': ''
-measurement_scale: '[[_Standards/WikiData/WD~Richter_scale,38768]]'
+measurement_scale: '[[_Standards/WikiData/WD~Richter_scale,38768|WD~Richter_scale,38768]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Earthquake%20safety%20banner.jpg
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Earthquake,22828674]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Earthquake,22828674|WD~Earthquake,22828674]]'
 properties_for_this_type:
 - location
 - located in/on physical feature
@@ -275,13 +275,13 @@ properties_for_this_type:
 publish: false
 publishDate: ''
 subclass_of:
-- '[[_Standards/WikiData/WD~quake,2692116]]'
-- '[[_Standards/WikiData/WD~geologic_activity,108156638]]'
-- '[[_Standards/WikiData/WD~geographically_localized_event,123349687]]'
-- '[[_Standards/WikiData/WD~natural_disaster,8065]]'
+- '[[_Standards/WikiData/WD~quake,2692116|WD~quake,2692116]]'
+- '[[_Standards/WikiData/WD~geologic_activity,108156638|WD~geologic_activity,108156638]]'
+- '[[_Standards/WikiData/WD~geographically_localized_event,123349687|WD~geographically_localized_event,123349687]]'
+- '[[_Standards/WikiData/WD~natural_disaster,8065|WD~natural_disaster,8065]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_earthquake,5618297]]'
-- '[[_Standards/WikiData/WD~Template_Earthquakes,17584240]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_earthquake,5618297|WD~Template_Infobox_earthquake,5618297]]'
+- '[[_Standards/WikiData/WD~Template_Earthquakes,17584240|WD~Template_Earthquakes,17584240]]'
 tags:
 - '{ newTitle: }': ''
 - excalidraw

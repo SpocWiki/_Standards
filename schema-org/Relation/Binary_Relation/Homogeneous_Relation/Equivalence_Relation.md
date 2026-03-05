@@ -63,12 +63,12 @@ aliases:
 - 동치 관계
 has_id_wikidata: Q130998
 subclass_of:
-- '[[_Standards/WikiData/WD~symmetric_relation,621461]]'
-- '[[_Standards/WikiData/WD~preorder,1425985]]'
-different_from: '[[_Standards/WikiData/WD~if_and_only_if,949972]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
-studied_by: '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~symmetric_relation,621461|WD~symmetric_relation,621461]]'
+- '[[_Standards/WikiData/WD~preorder,1425985|WD~preorder,1425985]]'
+different_from: '[[_Standards/WikiData/WD~if_and_only_if,949972|WD~if_and_only_if,949972]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710|WD~type_of_relation,130324710]]'
+studied_by: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Exemplare%20von%20B%C3%BCchern%20mit%20eingezeichneter%20%C3%84quivalenzrelation.svg
 Stack_Exchange_tag: https://proofassistants.stackexchange.com/tags/equivalence-relation
 IEV_number: 102-01-08

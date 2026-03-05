@@ -61,12 +61,12 @@ aliases:
 - 순수수학
 has_id_wikidata: Q837863
 subclass_of:
-- '[[_Standards/WikiData/WD~basic_research,964754]]'
-- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~basic_research,964754|WD~basic_research,964754]]'
+- '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-opposite_of: '[[_Standards/WikiData/WD~applied_mathematics,33521]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+opposite_of: '[[_Standards/WikiData/WD~applied_mathematics,33521|WD~applied_mathematics,33521]]'
 dv_has_:
   name_:
     ar: رياضيات بحتة

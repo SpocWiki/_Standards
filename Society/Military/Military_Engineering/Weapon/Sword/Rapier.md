@@ -34,11 +34,11 @@ aliases:
 - 护手刺剑
 - 레이피어
 has_id_wikidata: Q816745
-different_from: '[[_Standards/WikiData/WD~épée,840419]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
-subclass_of: '[[_Standards/WikiData/WD~sword,12791]]'
-country_of_origin: '[[_Standards/WikiData/WD~Spain,29]]'
+different_from: '[[_Standards/WikiData/WD~épée,840419|WD~épée,840419]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422|WD~weapon_functional_class,124078422]]'
+subclass_of: '[[_Standards/WikiData/WD~sword,12791|WD~sword,12791]]'
+country_of_origin: '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
 Nomenclature_for_Museum_Cataloging: 8224
 OmegaWiki_Defined_Meaning: 157619
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Degen.ogg

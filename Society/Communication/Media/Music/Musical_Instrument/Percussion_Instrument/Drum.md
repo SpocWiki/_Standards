@@ -120,17 +120,17 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bass%20drum.ogg
 Commons_category: Drums
 Commons_gallery: Drums
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556|WD~Diccionario_del_español_de_México,5805556]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-- '[[_Standards/WikiData/WD~Q4097679,4097679]]'
-- '[[_Standards/WikiData/WD~Trommel_screen,4100165]]'
+- '[[_Standards/WikiData/WD~Q4097679,4097679|WD~Q4097679,4097679]]'
+- '[[_Standards/WikiData/WD~Trommel_screen,4100165|WD~Trommel_screen,4100165]]'
 exact_match: http://wordnet-rdf.princeton.edu/wn30/03249569-n
 Hornbostel_Sachs_classification: 21
 Iconclass_notation: 48C7341
@@ -138,14 +138,14 @@ image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Instruments%20de%20musiques%20traditionnelles%20en%20pays%20naouda.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Drum%20for%20cultural%20dance.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/DrumMozartRegiment.jpg
-instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
+instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773|WD~family_of_musical_instruments,1254773]]'
 Krugosvet_article: kultura_i_obrazovanie/muzyka/BARABAN.html
 Nomenclature_for_Museum_Cataloging: 10740
 OmegaWiki_Defined_Meaning: 386380
-part_of: '[[_Standards/WikiData/WD~drum_kit,128309]]'
-produced_sound: '[[_Standards/WikiData/WD~drum_roll,665888]]'
+part_of: '[[_Standards/WikiData/WD~drum_kit,128309|WD~drum_kit,128309]]'
+produced_sound: '[[_Standards/WikiData/WD~drum_roll,665888|WD~drum_roll,665888]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Drum.ogg
-subclass_of: '[[_Standards/WikiData/WD~struck_membranophone,19588483]]'
+subclass_of: '[[_Standards/WikiData/WD~struck_membranophone,19588483|WD~struck_membranophone,19588483]]'
 dv_has_:
   name_:
     af: trom

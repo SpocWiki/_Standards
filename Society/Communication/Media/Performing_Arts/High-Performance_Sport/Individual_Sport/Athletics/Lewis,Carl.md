@@ -35,49 +35,49 @@ aliases:
 - 칼 루이스
 has_id_wikidata: Q131237
 X_Twitter_username: carl_lewis
-place_of_birth: '[[_Standards/WikiData/WD~Birmingham,79867]]'
+place_of_birth: '[[_Standards/WikiData/WD~Birmingham,79867|WD~Birmingham,79867]]'
 lifestyle:
-- '[[_Standards/WikiData/WD~vegetarianism,83364]]'
-- '[[_Standards/WikiData/WD~veganism,181138]]'
-drafted_by: '[[_Standards/WikiData/WD~Chicago_Bulls,128109]]'
+- '[[_Standards/WikiData/WD~vegetarianism,83364|WD~vegetarianism,83364]]'
+- '[[_Standards/WikiData/WD~veganism,181138|WD~veganism,181138]]'
+drafted_by: '[[_Standards/WikiData/WD~Chicago_Bulls,128109|WD~Chicago_Bulls,128109]]'
 sports_discipline_competed_in:
-- '[[_Standards/WikiData/WD~long_jump,170737]]'
-- '[[_Standards/WikiData/WD~indoor_long_jump,115729546]]'
-sibling: '[[_Standards/WikiData/WD~Carol_Lewis,289493]]'
-family_name: '[[_Standards/WikiData/WD~Lewis,426463]]'
+- '[[_Standards/WikiData/WD~long_jump,170737|WD~long_jump,170737]]'
+- '[[_Standards/WikiData/WD~indoor_long_jump,115729546|WD~indoor_long_jump,115729546]]'
+sibling: '[[_Standards/WikiData/WD~Carol_Lewis,289493|WD~Carol_Lewis,289493]]'
+family_name: '[[_Standards/WikiData/WD~Lewis,426463|WD~Lewis,426463]]'
 award_received:
-- '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
-- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
-- '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]'
-- '[[_Standards/WikiData/WD~Bislett_medal,11961165]]'
-- '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
+- '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122|WD~Associated_Press_Athlete_of_the_Year,743122]]'
+- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233|WD~L'Équipe_Champion_of_Champions,1061233]]"
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370|WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
+- '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686|WD~Library_of_Congress_Living_Legend,6542686]]'
+- '[[_Standards/WikiData/WD~Bislett_medal,11961165|WD~Bislett_medal,11961165]]'
+- '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795|WD~New_Jersey_Hall_of_Fame,14705795]]'
 record_held:
-- "[[_Standards/WikiData/WD~Men's_4_100_metres_relay_world_record_progression,1053804]]"
-- "[[_Standards/WikiData/WD~Men's_100_metres_world_record_progression,1066353]]"
-- '[[_Standards/WikiData/WD~Q115729531,115729531]]'
+- "[[_Standards/WikiData/WD~Men's_4_100_metres_relay_world_record_progression,1053804|WD~Men's_4_100_metres_relay_world_record_progression,1053804]]"
+- "[[_Standards/WikiData/WD~Men's_100_metres_world_record_progression,1066353|WD~Men's_100_metres_world_record_progression,1066353]]"
+- '[[_Standards/WikiData/WD~Q115729531,115729531|WD~Q115729531,115729531]]'
 educated_at:
-- '[[_Standards/WikiData/WD~University_of_Houston,1472358]]'
-- '[[_Standards/WikiData/WD~Willingboro_High_School,8021965]]'
-given_name: '[[_Standards/WikiData/WD~Carl,2529610]]'
+- '[[_Standards/WikiData/WD~University_of_Houston,1472358|WD~University_of_Houston,1472358]]'
+- '[[_Standards/WikiData/WD~Willingboro_High_School,8021965|WD~Willingboro_High_School,8021965]]'
+given_name: '[[_Standards/WikiData/WD~Carl,2529610|WD~Carl,2529610]]'
 occupation:
-- '[[_Standards/WikiData/WD~basketball_player,3665646]]'
-- '[[_Standards/WikiData/WD~sprinter,4009406]]'
-- '[[_Standards/WikiData/WD~athletics_competitor,11513337]]'
-- '[[_Standards/WikiData/WD~long_jumper,13381428]]'
-- '[[_Standards/WikiData/WD~poet,49757]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-member_of_sports_team: '[[_Standards/WikiData/WD~Santa_Monica_Track_Club,7419808]]'
-trained_by: '[[_Standards/WikiData/WD~Tom_Tellez,18028669]]'
-student_of: '[[_Standards/WikiData/WD~Tom_Tellez,18028669]]'
+- '[[_Standards/WikiData/WD~basketball_player,3665646|WD~basketball_player,3665646]]'
+- '[[_Standards/WikiData/WD~sprinter,4009406|WD~sprinter,4009406]]'
+- '[[_Standards/WikiData/WD~athletics_competitor,11513337|WD~athletics_competitor,11513337]]'
+- '[[_Standards/WikiData/WD~long_jumper,13381428|WD~long_jumper,13381428]]'
+- '[[_Standards/WikiData/WD~poet,49757|WD~poet,49757]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+member_of_sports_team: '[[_Standards/WikiData/WD~Santa_Monica_Track_Club,7419808|WD~Santa_Monica_Track_Club,7419808]]'
+trained_by: '[[_Standards/WikiData/WD~Tom_Tellez,18028669|WD~Tom_Tellez,18028669]]'
+student_of: '[[_Standards/WikiData/WD~Tom_Tellez,18028669|WD~Tom_Tellez,18028669]]'
 sport:
-- '[[_Standards/WikiData/WD~athletics,542]]'
-- '[[_Standards/WikiData/WD~basketball,5372]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~athletics,542|WD~athletics,542]]'
+- '[[_Standards/WikiData/WD~basketball,5372|WD~basketball,5372]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552|WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 mass: 80
 height: 188
 Commons_gallery: Carl Lewis

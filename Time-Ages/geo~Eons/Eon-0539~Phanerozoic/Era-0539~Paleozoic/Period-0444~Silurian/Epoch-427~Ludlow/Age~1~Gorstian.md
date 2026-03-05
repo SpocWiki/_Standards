@@ -24,11 +24,11 @@ aliases:
 - 格斯特期
 has_id_wikidata: Q752878
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-different_from: '[[_Standards/WikiData/WD~Gorst,3473536]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Gorstian,134636462]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+different_from: '[[_Standards/WikiData/WD~Gorst,3473536|WD~Gorst,3473536]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Gorstian,134636462|WD~GSSP_for_the_base_of_Gorstian,134636462]]'
 end_time: -427400000-01-01T00:00:00Z
 start_time: -427400000-01-01T00:00:00Z
 sRGB_color_hex_triplet: C3EAE6

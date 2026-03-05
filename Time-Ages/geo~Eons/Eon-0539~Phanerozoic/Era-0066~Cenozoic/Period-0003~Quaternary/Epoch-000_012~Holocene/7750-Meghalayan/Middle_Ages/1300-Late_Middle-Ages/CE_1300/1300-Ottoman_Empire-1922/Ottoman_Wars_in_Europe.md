@@ -1,5 +1,5 @@
 ---
-location: '[[_Standards/WikiData/WD~Balkans,23522]]'
+location: '[[_Standards/WikiData/WD~Balkans,23522|WD~Balkans,23522]]'
 aliases:
 - Avrupa'da Osmanlı savaşları
 - Bellum Turcicum
@@ -54,12 +54,12 @@ aliases:
 - 奧斯曼戰爭在歐洲
 - 오스만-유럽 전쟁
 has_id_wikidata: Q698985
-instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151]]'
+instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151|WD~series_of_wars,104212151]]'
 start_time: 1354-01-01T00:00:00Z
 participant:
-- '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
-- '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
-country: '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+- '[[_Standards/WikiData/WD~Byzantine_Empire,12544|WD~Byzantine_Empire,12544]]'
+- '[[_Standards/WikiData/WD~Ottoman_Empire,12560|WD~Ottoman_Empire,12560]]'
+country: '[[_Standards/WikiData/WD~Ottoman_Empire,12560|WD~Ottoman_Empire,12560]]'
 end_time: 1683-01-01T00:00:00Z
 coordinate_location: Point(22.0 42.0)
 dv_has_:

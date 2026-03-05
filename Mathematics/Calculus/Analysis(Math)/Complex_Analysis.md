@@ -55,14 +55,14 @@ aliases:
 - 複素解析
 - 복소해석학
 has_id_wikidata: Q193756
-opposite_of: '[[_Standards/WikiData/WD~real_analysis,854531]]'
+opposite_of: '[[_Standards/WikiData/WD~real_analysis,854531|WD~real_analysis,854531]]'
 instance_of:
-- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Complex_analysis_sidebar,43371497]]'
-part_of: '[[_Standards/WikiData/WD~complex_analysis_in_several_variables,114728138]]'
-subclass_of: '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918|WD~mathematical_theory,20026918]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Complex_analysis_sidebar,43371497|WD~Template_Complex_analysis_sidebar,43371497]]'
+part_of: '[[_Standards/WikiData/WD~complex_analysis_in_several_variables,114728138|WD~complex_analysis_in_several_variables,114728138]]'
+subclass_of: '[[_Standards/WikiData/WD~mathematical_analysis,7754|WD~mathematical_analysis,7754]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gamma%20abs%203D.png
 Commons_category: Complex analysis
 Krugosvet_article: nauka_i_tehnika/matematika/FUNKTSI_TEORIYA.html

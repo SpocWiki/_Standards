@@ -85,24 +85,24 @@ aliases:
 - 요리
 has_id_wikidata: Q746549
 has_characteristic:
-- '[[_Standards/WikiData/WD~food_energy,186205]]'
-- '[[_Standards/WikiData/WD~recipe,219239]]'
-- '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
-has_use: '[[_Standards/WikiData/WD~eating,213449]]'
-has_effect: '[[_Standards/WikiData/WD~satiety,1562684]]'
+- '[[_Standards/WikiData/WD~food_energy,186205|WD~food_energy,186205]]'
+- '[[_Standards/WikiData/WD~recipe,219239|WD~recipe,219239]]'
+- '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951|WD~type_of_food_or_dish,19861951]]'
+has_use: '[[_Standards/WikiData/WD~eating,213449|WD~eating,213449]]'
+has_effect: '[[_Standards/WikiData/WD~satiety,1562684|WD~satiety,1562684]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~product,2424752]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
-part_of: '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
-instance_of: '[[_Standards/WikiData/WD~class,16889133]]'
-fabrication_method: '[[_Standards/WikiData/WD~food_and_drink_preparation,16920758]]'
+- '[[_Standards/WikiData/WD~product,2424752|WD~product,2424752]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+part_of: '[[_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]'
+instance_of: '[[_Standards/WikiData/WD~class,16889133|WD~class,16889133]]'
+fabrication_method: '[[_Standards/WikiData/WD~food_and_drink_preparation,16920758|WD~food_and_drink_preparation,16920758]]'
 model_item:
-- '[[_Standards/WikiData/WD~warm_black_bean_salad_with_kale_and_tomatoes,59862818]]'
-- '[[_Standards/WikiData/WD~spaghetti,128257664]]'
+- '[[_Standards/WikiData/WD~warm_black_bean_salad_with_kale_and_tomatoes,59862818|WD~warm_black_bean_salad_with_kale_and_tomatoes,59862818]]'
+- '[[_Standards/WikiData/WD~spaghetti,128257664|WD~spaghetti,128257664]]'
 different_from:
-- '[[_Standards/WikiData/WD~fare,63247903]]'
-- '[[_Standards/WikiData/WD~dish,97659338]]'
-- '[[_Standards/WikiData/WD~plate,57216]]'
+- '[[_Standards/WikiData/WD~fare,63247903|WD~fare,63247903]]'
+- '[[_Standards/WikiData/WD~dish,97659338|WD~dish,97659338]]'
+- '[[_Standards/WikiData/WD~plate,57216|WD~plate,57216]]'
 properties_for_this_type:
 - subclass of
 - country of origin
@@ -226,7 +226,7 @@ dv_has_:
 
 # [[Dish]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~dish,746549]] 
+#is_/same_as :: [[_Standards/WikiData/WD~dish,746549|WD~dish,746549]] 
 
 ## #has_/text_of_/abstract 
 

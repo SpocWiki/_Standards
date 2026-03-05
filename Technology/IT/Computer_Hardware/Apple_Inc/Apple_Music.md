@@ -115,8 +115,8 @@ aliases:
 
 # [[Apple_Music]]  
 
-#is_/similar_to :: [[../../../../../_private/Society/Communication/Media/Podcast/Spotify]] 
-#is_/similar_to :: [[../../../../Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/YouTube]] 
+#is_/similar_to :: [[../../../../../_private/Society/Communication/Media/Podcast/Spotify|Spotify]] 
+#is_/similar_to :: [[../../../../Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/YouTube|YouTube]] 
 #is_/similar_to :: [[Amazon_Music]] 
 #has_/time_/started :: 2015-06-30 
 

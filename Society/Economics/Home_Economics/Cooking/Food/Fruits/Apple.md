@@ -203,31 +203,31 @@ carbon_footprint:
 - 0.5
 Colon_Classification: J371
 color:
-- '[[_Standards/WikiData/WD~pink,429220]]'
-- '[[_Standards/WikiData/WD~yellow,943]]'
-- '[[_Standards/WikiData/WD~green,3133]]'
-- '[[_Standards/WikiData/WD~red,3142]]'
+- '[[_Standards/WikiData/WD~pink,429220|WD~pink,429220]]'
+- '[[_Standards/WikiData/WD~yellow,943|WD~yellow,943]]'
+- '[[_Standards/WikiData/WD~green,3133|WD~green,3133]]'
+- '[[_Standards/WikiData/WD~red,3142|WD~red,3142]]'
 Commons_category: Apples
 Commons_gallery: Apple
 CosIng_number: 58862
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524|WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification:
 - 583.73
 - 634.11
 - 641.3411
 different_from:
-- '[[_Standards/WikiData/WD~Alma,224306]]'
-- '[[_Standards/WikiData/WD~Apple,227418]]'
-- '[[_Standards/WikiData/WD~Apfel,2114341]]'
-- '[[_Standards/WikiData/WD~Elma,6944126]]'
-- '[[_Standards/WikiData/WD~evil,15292]]'
+- '[[_Standards/WikiData/WD~Alma,224306|WD~Alma,224306]]'
+- '[[_Standards/WikiData/WD~Apple,227418|WD~Apple,227418]]'
+- '[[_Standards/WikiData/WD~Apfel,2114341|WD~Apfel,2114341]]'
+- '[[_Standards/WikiData/WD~Elma,6944126|WD~Elma,6944126]]'
+- '[[_Standards/WikiData/WD~evil,15292|WD~evil,15292]]'
 exact_match:
 - https://diacl.uni-frankfurt.de/WordList/Index?r=3.7005.3002.76472
 - https://turkic.elegantlexicon.com/turkforms.php?form=appleapple
@@ -236,15 +236,15 @@ food_energy:
 - 52
 GS1_GPC_code: 10005900
 has_characteristic:
-- '[[_Standards/WikiData/WD~color,1075]]'
+- '[[_Standards/WikiData/WD~color,1075|WD~color,1075]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~(R)-amygdalin,410215]]'
+- '[[_Standards/WikiData/WD~(R)-amygdalin,410215|WD~(R)-amygdalin,410215]]'
 Iconclass_notation: 25G21(APPLE)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Honeycrisp.jpg
-named_after: '[[_Standards/WikiData/WD~forbidden_fruit,1192941]]'
+named_after: '[[_Standards/WikiData/WD~forbidden_fruit,1192941|WD~forbidden_fruit,1192941]]'
 natural_product_of_taxon:
-- '[[_Standards/WikiData/WD~Malus,104819]]'
-- '[[_Standards/WikiData/WD~Malus_domestica,18674606]]'
+- '[[_Standards/WikiData/WD~Malus,104819|WD~Malus,104819]]'
+- '[[_Standards/WikiData/WD~Malus_domestica,18674606|WD~Malus_domestica,18674606]]'
 OmegaWiki_Defined_Meaning: 5781
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Frp-greverin-ouna%20poma.ogg
@@ -255,9 +255,9 @@ sectional_view:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Gunilla2008vertcut.JPG
 - http://commons.wikimedia.org/wiki/Special:FilePath/Red%20apple%20on%20black%20background.jpg
 subclass_of:
-- '[[_Standards/WikiData/WD~fruit_of_Maloideae,145150]]'
-- '[[_Standards/WikiData/WD~fruit,3314483]]'
-- '[[_Standards/WikiData/WD~pome,41274]]'
+- '[[_Standards/WikiData/WD~fruit_of_Maloideae,145150|WD~fruit_of_Maloideae,145150]]'
+- '[[_Standards/WikiData/WD~fruit,3314483|WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~pome,41274|WD~pome,41274]]'
 total_produced:
 - 2497680
 - 280014000

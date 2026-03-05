@@ -142,53 +142,53 @@ Commons_category: Telephones
 Commons_gallery: Telephone
 Danbooru_tag: phone
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo-americana_(1908-1930),115627942]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo-americana_(1908-1930),115627942|WD~Enciclopedia_universal_ilustrada_europeo-americana_(1908-1930),115627942]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 different_from:
-  - "[[_Standards/WikiData/WD~phone,202064]]"
-  - "[[_Standards/WikiData/WD~telephone,399448]]"
+  - "[[_Standards/WikiData/WD~phone,202064|WD~phone,202064]]"
+  - "[[_Standards/WikiData/WD~telephone,399448|WD~telephone,399448]]"
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Johann_Philipp_Reis,77124]]"
-  - "[[_Standards/WikiData/WD~Antonio_Meucci,273314]]"
-  - "[[_Standards/WikiData/WD~Elisha_Gray,318449]]"
-  - "[[_Standards/WikiData/WD~Alexander_Graham_Bell,34286]]"
+  - "[[_Standards/WikiData/WD~Johann_Philipp_Reis,77124|WD~Johann_Philipp_Reis,77124]]"
+  - "[[_Standards/WikiData/WD~Antonio_Meucci,273314|WD~Antonio_Meucci,273314]]"
+  - "[[_Standards/WikiData/WD~Elisha_Gray,318449|WD~Elisha_Gray,318449]]"
+  - "[[_Standards/WikiData/WD~Alexander_Graham_Bell,34286|WD~Alexander_Graham_Bell,34286]]"
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000580
 has_part_s_:
-  - "[[_Standards/WikiData/WD~process_engineering_device,620681]]"
-  - "[[_Standards/WikiData/WD~telecommunications_network,1068715]]"
-has_use: "[[_Standards/WikiData/WD~dialogue,131395]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_telephone,5870934]]"
+  - "[[_Standards/WikiData/WD~process_engineering_device,620681|WD~process_engineering_device,620681]]"
+  - "[[_Standards/WikiData/WD~telecommunications_network,1068715|WD~telecommunications_network,1068715]]"
+has_use: "[[_Standards/WikiData/WD~dialogue,131395|WD~dialogue,131395]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_telephone,5870934|WD~history_of_the_telephone,5870934]]"
 Iconclass_notation: 4.6e+63
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Old%20wooden%20rotary%20wall-mounted%20phone.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%204050a-2.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~product,2424752]]"
-  - "[[_Standards/WikiData/WD~product_type,128889633]]"
+  - "[[_Standards/WikiData/WD~product,2424752|WD~product,2424752]]"
+  - "[[_Standards/WikiData/WD~product_type,128889633|WD~product_type,128889633]]"
 Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/TELEFON.html
 MeSH_tree_code: L01.462.500.847.698
 Nomenclature_for_Museum_Cataloging: 11329
 OmegaWiki_Defined_Meaning: 5945
 OpenStreetMap_tag_or_key: Tag:amenity=telephone
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Kaunas%20banner%20phone%20booths.jpg
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110377305,110377305]]"
-produced_sound: "[[_Standards/WikiData/WD~ringtone,690856]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110377305,110377305|WD~Q110377305,110377305]]"
+produced_sound: "[[_Standards/WikiData/WD~ringtone,690856|WD~ringtone,690856]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~home_appliance,212920]]"
-  - "[[_Standards/WikiData/WD~consumer_electronics,581105]]"
-  - "[[_Standards/WikiData/WD~product,2424752]]"
-  - "[[_Standards/WikiData/WD~electrical_appliance,2425052]]"
-  - "[[_Standards/WikiData/WD~telecommunications_equipment,107325483]]"
+  - "[[_Standards/WikiData/WD~home_appliance,212920|WD~home_appliance,212920]]"
+  - "[[_Standards/WikiData/WD~consumer_electronics,581105|WD~consumer_electronics,581105]]"
+  - "[[_Standards/WikiData/WD~product,2424752|WD~product,2424752]]"
+  - "[[_Standards/WikiData/WD~electrical_appliance,2425052|WD~electrical_appliance,2425052]]"
+  - "[[_Standards/WikiData/WD~telecommunications_equipment,107325483|WD~telecommunications_equipment,107325483]]"
 time_of_discovery_or_invention: 1876
 UMLS_CUI: C0039019
 Unicode_character:

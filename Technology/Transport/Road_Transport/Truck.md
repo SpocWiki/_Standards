@@ -107,27 +107,27 @@ aliases:
 - 화물자동차
 has_id_wikidata: Q43193
 different_from:
-- '[[_Standards/WikiData/WD~Christt_Hope_(Country_Singer_&_songwriter),340647]]'
-- '[[_Standards/WikiData/WD~large_goods_vehicle,2449732]]'
-- '[[_Standards/WikiData/WD~car,1420]]'
-operator: '[[_Standards/WikiData/WD~truck_driver,508846]]'
-part_of: '[[_Standards/WikiData/WD~road_transport,516739]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~commercial_vehicle,580939]]'
+- '[[_Standards/WikiData/WD~Christt_Hope_(Country_Singer_&_songwriter),340647|WD~Christt_Hope_(Country_Singer_&_songwriter),340647]]'
+- '[[_Standards/WikiData/WD~large_goods_vehicle,2449732|WD~large_goods_vehicle,2449732]]'
+- '[[_Standards/WikiData/WD~car,1420|WD~car,1420]]'
+operator: '[[_Standards/WikiData/WD~truck_driver,508846|WD~truck_driver,508846]]'
+part_of: '[[_Standards/WikiData/WD~road_transport,516739|WD~road_transport,516739]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~commercial_vehicle,580939|WD~commercial_vehicle,580939]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~commercial_vehicle,580939]]'
-- '[[_Standards/WikiData/WD~road_vehicle,1515493]]'
-- '[[_Standards/WikiData/WD~multi_track_vehicle,12060681]]'
-- '[[_Standards/WikiData/WD~wheeled_vehicle,15618781]]'
-- '[[_Standards/WikiData/WD~means_of_transport,106839123]]'
+- '[[_Standards/WikiData/WD~commercial_vehicle,580939|WD~commercial_vehicle,580939]]'
+- '[[_Standards/WikiData/WD~road_vehicle,1515493|WD~road_vehicle,1515493]]'
+- '[[_Standards/WikiData/WD~multi_track_vehicle,12060681|WD~multi_track_vehicle,12060681]]'
+- '[[_Standards/WikiData/WD~wheeled_vehicle,15618781|WD~wheeled_vehicle,15618781]]'
+- '[[_Standards/WikiData/WD~means_of_transport,106839123|WD~means_of_transport,106839123]]'
 has_use:
-- '[[_Standards/WikiData/WD~freight_transport,651658]]'
-- '[[_Standards/WikiData/WD~commercial_transportation,1685754]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Trucks,14615534]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Trucks,15885132]]'
-has_characteristic: '[[_Standards/WikiData/WD~truck_model,21546143]]'
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-greater_than: '[[_Standards/WikiData/WD~car,1420]]'
+- '[[_Standards/WikiData/WD~freight_transport,651658|WD~freight_transport,651658]]'
+- '[[_Standards/WikiData/WD~commercial_transportation,1685754|WD~commercial_transportation,1685754]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Trucks,14615534|WD~Portal_Trucks,14615534]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Trucks,15885132|WD~WikiProject_Trucks,15885132]]'
+has_characteristic: '[[_Standards/WikiData/WD~truck_model,21546143|WD~truck_model,21546143]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+greater_than: '[[_Standards/WikiData/WD~car,1420|WD~car,1420]]'
 IAB_code: 3
 Nomenclature_for_Museum_Cataloging: 12213
 Commons_gallery: Truck

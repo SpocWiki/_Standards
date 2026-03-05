@@ -77,11 +77,11 @@ birth_name:
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gensfleisch%20family%20coat%20of%20arms.png
 Commons_category: Johannes Gutenberg
 Commons_gallery: Johannes Gensfleisch zur Laden zum Gutenberg
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548|WD~Holy_Roman_Empire,12548]]'
 date_of_birth: 1400
 date_of_death: 1468
-depicted_by: '[[_Standards/WikiData/WD~Gutenberg_stele,122926292]]'
+depicted_by: '[[_Standards/WikiData/WD~Gutenberg_stele,122926292|WD~Gutenberg_stele,122926292]]'
 described_at_URL:
 - http://www.digiporta.net/index.php?id=256171997
 - http://www.digiporta.net/index.php?id=450822367
@@ -90,59 +90,59 @@ described_at_URL:
 - http://www.digiporta.net/index.php?id=471733993
 - http://www.digiporta.net/index.php?id=257991077
 described_by_source:
-- '[[_Standards/WikiData/WD~Neue_Deutsche_Biographie,222784]]'
-- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-educated_at: '[[_Standards/WikiData/WD~University_of_Erfurt,702524]]'
-family_name: '[[_Standards/WikiData/WD~Gutenberg,16870366]]'
-father: '[[_Standards/WikiData/WD~Friele_Gensfleisch_zur_Laden,47005568]]'
+- '[[_Standards/WikiData/WD~Neue_Deutsche_Biographie,222784|WD~Neue_Deutsche_Biographie,222784]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208|WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Erfurt,702524|WD~University_of_Erfurt,702524]]'
+family_name: '[[_Standards/WikiData/WD~Gutenberg,16870366|WD~Gutenberg,16870366]]'
+father: '[[_Standards/WikiData/WD~Friele_Gensfleisch_zur_Laden,47005568|WD~Friele_Gensfleisch_zur_Laden,47005568]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~inventor,205375]]'
-given_name: '[[_Standards/WikiData/WD~Johannes,2117521]]'
+- '[[_Standards/WikiData/WD~inventor,205375|WD~inventor,205375]]'
+given_name: '[[_Standards/WikiData/WD~Johannes,2117521|WD~Johannes,2117521]]'
 Google_Doodle: celebrating-johannes-gutenberg
-has_works_in_the_collection: '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481|WD~Minneapolis_Institute_of_Art,1700481]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Johannes%20Gutenberg.jpg
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ISNI:
 - 121200528
 - 453783475
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/GUTENBERG_IOGANN.html
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
 Libris_URI: 86lnnrrs2d6rpnz
-mother: '[[_Standards/WikiData/WD~Else_Wirich,47005582]]'
+mother: '[[_Standards/WikiData/WD~Else_Wirich,47005582|WD~Else_Wirich,47005582]]'
 name_in_native_language: Johannes Gutenberg
 occupation:
-- '[[_Standards/WikiData/WD~engineer,81096]]'
-- '[[_Standards/WikiData/WD~inventor,205375]]'
-- '[[_Standards/WikiData/WD~goldsmith,211423]]'
-- '[[_Standards/WikiData/WD~engraver,329439]]'
-- '[[_Standards/WikiData/WD~typographer,1229025]]'
-- '[[_Standards/WikiData/WD~mintmaster,1463475]]'
-- '[[_Standards/WikiData/WD~blacksmith,1639825]]'
-place_of_birth: '[[_Standards/WikiData/WD~Mainz,1720]]'
-place_of_burial: '[[_Standards/WikiData/WD~Mainz,1720]]'
-place_of_death: '[[_Standards/WikiData/WD~Mainz,1720]]'
+- '[[_Standards/WikiData/WD~engineer,81096|WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~inventor,205375|WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~goldsmith,211423|WD~goldsmith,211423]]'
+- '[[_Standards/WikiData/WD~engraver,329439|WD~engraver,329439]]'
+- '[[_Standards/WikiData/WD~typographer,1229025|WD~typographer,1229025]]'
+- '[[_Standards/WikiData/WD~mintmaster,1463475|WD~mintmaster,1463475]]'
+- '[[_Standards/WikiData/WD~blacksmith,1639825|WD~blacksmith,1639825]]'
+place_of_birth: '[[_Standards/WikiData/WD~Mainz,1720|WD~Mainz,1720]]'
+place_of_burial: '[[_Standards/WikiData/WD~Mainz,1720|WD~Mainz,1720]]'
+place_of_death: '[[_Standards/WikiData/WD~Mainz,1720|WD~Mainz,1720]]'
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
 residence:
-- '[[_Standards/WikiData/WD~Mainz,1720]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+- '[[_Standards/WikiData/WD~Mainz,1720|WD~Mainz,1720]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 sibling:
-- '[[_Standards/WikiData/WD~Friele_Gensfleisch,47006097]]'
-- '[[_Standards/WikiData/WD~Else_Vitztum,47006135]]'
+- '[[_Standards/WikiData/WD~Friele_Gensfleisch,47006097|WD~Friele_Gensfleisch,47006097]]'
+- '[[_Standards/WikiData/WD~Else_Vitztum,47006135|WD~Else_Vitztum,47006135]]'
 work_location:
-- '[[_Standards/WikiData/WD~Mainz,1720]]'
-- '[[_Standards/WikiData/WD~Strasbourg,6602]]'
+- '[[_Standards/WikiData/WD~Mainz,1720|WD~Mainz,1720]]'
+- '[[_Standards/WikiData/WD~Strasbourg,6602|WD~Strasbourg,6602]]'
 dv_has_:
   name_:
     af: Johannes Gutenberg

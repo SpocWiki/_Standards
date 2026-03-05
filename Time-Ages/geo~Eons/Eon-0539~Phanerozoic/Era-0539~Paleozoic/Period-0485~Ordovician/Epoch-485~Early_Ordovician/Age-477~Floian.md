@@ -22,15 +22,15 @@ aliases:
 - フロイアン期
 - 弗洛期
 has_id_wikidata: Q10528257
-named_after: '[[_Standards/WikiData/WD~Flo_Parish,130422]]'
-replaces: '[[_Standards/WikiData/WD~Arenig,195242]]'
-significant_place: '[[_Standards/WikiData/WD~Diabasbrottet_Quarry,249846]]'
+named_after: '[[_Standards/WikiData/WD~Flo_Parish,130422|WD~Flo_Parish,130422]]'
+replaces: '[[_Standards/WikiData/WD~Arenig,195242|WD~Arenig,195242]]'
+significant_place: '[[_Standards/WikiData/WD~Diabasbrottet_Quarry,249846|WD~Diabasbrottet_Quarry,249846]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Floian,30869527]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Floian,134873416]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Floian,30869527|WD~Category_Floian,30869527]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Floian,134873416|WD~GSSP_for_the_base_of_Floian,134873416]]'
 start_time: -477700000-01-01T00:00:00Z
 coordinate_location: Point(12.50238889 58.35894444)
 sRGB_color_hex_triplet: 00BAA0
@@ -137,7 +137,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 477.7 to 470.0 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-480_Ma_(Tremadocian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-480_Ma_(Tremadocian_Age).png|Earth-480_Ma_(Tremadocian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

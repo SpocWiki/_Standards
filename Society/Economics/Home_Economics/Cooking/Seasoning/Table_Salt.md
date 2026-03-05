@@ -176,40 +176,40 @@ aliases:
 - 소금
 has_id_wikidata: Q11254
 has_part_s_:
-- '[[_Standards/WikiData/WD~potassium_iodide,121874]]'
-- '[[_Standards/WikiData/WD~food_additive,189567]]'
-- '[[_Standards/WikiData/WD~anticaking_agent,726460]]'
-- '[[_Standards/WikiData/WD~impurity,7216430]]'
-- '[[_Standards/WikiData/WD~sodium_chloride,2314]]'
+- '[[_Standards/WikiData/WD~potassium_iodide,121874|WD~potassium_iodide,121874]]'
+- '[[_Standards/WikiData/WD~food_additive,189567|WD~food_additive,189567]]'
+- '[[_Standards/WikiData/WD~anticaking_agent,726460|WD~anticaking_agent,726460]]'
+- '[[_Standards/WikiData/WD~impurity,7216430|WD~impurity,7216430]]'
+- '[[_Standards/WikiData/WD~sodium_chloride,2314|WD~sodium_chloride,2314]]'
 instance_of:
-- '[[_Standards/WikiData/WD~mixture,169336]]'
-- '[[_Standards/WikiData/WD~ingredient,10675206]]'
+- '[[_Standards/WikiData/WD~mixture,169336|WD~mixture,169336]]'
+- '[[_Standards/WikiData/WD~ingredient,10675206|WD~ingredient,10675206]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from:
-- '[[_Standards/WikiData/WD~sol,1440231]]'
-- '[[_Standards/WikiData/WD~sodium_chloride,2314]]'
-- '[[_Standards/WikiData/WD~halite,5314]]'
-- '[[_Standards/WikiData/WD~salt,12370]]'
-manifestation_of: '[[_Standards/WikiData/WD~saltiness,3734963]]'
+- '[[_Standards/WikiData/WD~sol,1440231|WD~sol,1440231]]'
+- '[[_Standards/WikiData/WD~sodium_chloride,2314|WD~sodium_chloride,2314]]'
+- '[[_Standards/WikiData/WD~halite,5314|WD~halite,5314]]'
+- '[[_Standards/WikiData/WD~salt,12370|WD~salt,12370]]'
+manifestation_of: '[[_Standards/WikiData/WD~saltiness,3734963|WD~saltiness,3734963]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~food_preservative,6509670]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-- '[[_Standards/WikiData/WD~spice,42527]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9972785,9972785]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Salt_topics,22755621]]'
+- '[[_Standards/WikiData/WD~food_preservative,6509670|WD~food_preservative,6509670]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~spice,42527|WD~spice,42527]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9972785,9972785|WD~Q9972785,9972785]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Salt_topics,22755621|WD~Template_Salt_topics,22755621]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~sodium_chloride,2314]]'
-- '[[_Standards/WikiData/WD~halite,5314]]'
+- '[[_Standards/WikiData/WD~sodium_chloride,2314|WD~sodium_chloride,2314]]'
+- '[[_Standards/WikiData/WD~halite,5314|WD~halite,5314]]'
 Commons_gallery: Salt
 Commons_category: Salt
 USDA_NDB_number: 2047
@@ -440,8 +440,8 @@ Unicode_character: 🧂
 
 # [[Table_Salt]] 🧂 
 
-#has_/parts ::  [[../../../../../Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride]] 
-#is_/different_from :: [[../../../../../Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride]] 
+#has_/parts ::  [[../../../../../Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride|Sodium_Chloride]] 
+#is_/different_from :: [[../../../../../Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride|Sodium_Chloride]] 
 #is_/different_from :: [[../../../../../Chemistry/Inorganic_Chemistry/Salt(Chemistry)|Salt(Chemistry)]]  
 #is_/same_as :: [[../../../../../WikiData/WD~Table_salt,11254|WD~Table_salt,11254]] 
 

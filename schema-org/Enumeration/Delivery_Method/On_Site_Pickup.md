@@ -27,9 +27,9 @@ tags:
 title: is_an_on_site_pickup Class
 type: Type
 dv_has_:
-  parent_class: "[[../DeliveryMethod]]"
+  parent_class: "[[../DeliveryMethod|DeliveryMethod]]"
 dv_is_:
-  enum_of: "[[../DeliveryMethod]]"
+  enum_of: "[[../DeliveryMethod|DeliveryMethod]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Delivery_Method/On_Site_Pickup|On_Site_Pickup]]"
     - "[[/_public/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.public|On_Site_Pickup.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.personal|On_Site_Pickup.personal]]"
     - "[[/_secret/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.secret|On_Site_Pickup.secret]]"
     - "[[On_Site_Pickup]]"
-dv_has_parent_class: "[[../DeliveryMethod]]"
-dv_is_enum_of: "[[../DeliveryMethod]]"
+dv_has_parent_class: "[[../DeliveryMethod|DeliveryMethod]]"
+dv_is_enum_of: "[[../DeliveryMethod|DeliveryMethod]]"
 dv_is_same_as:
   - "[[On_Site_Pickup]]"
   - "[[/_public/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.public|On_Site_Pickup.public]]"

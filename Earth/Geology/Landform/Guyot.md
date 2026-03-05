@@ -21,10 +21,10 @@ aliases:
 - 海底平頂山
 - 평정해산
 has_id_wikidata: Q151957
-named_after: '[[_Standards/WikiData/WD~Arnaud_Henri_Guyot,124032]]'
-named_by: '[[_Standards/WikiData/WD~Harry_Hammond_Hess,470792]]'
-subclass_of: '[[_Standards/WikiData/WD~seamount,503269]]'
-different_from: '[[_Standards/WikiData/WD~Q19933837,19933837]]'
+named_after: '[[_Standards/WikiData/WD~Arnaud_Henri_Guyot,124032|WD~Arnaud_Henri_Guyot,124032]]'
+named_by: '[[_Standards/WikiData/WD~Harry_Hammond_Hess,470792|WD~Harry_Hammond_Hess,470792]]'
+subclass_of: '[[_Standards/WikiData/WD~seamount,503269|WD~seamount,503269]]'
+different_from: '[[_Standards/WikiData/WD~Q19933837,19933837|WD~Q19933837,19933837]]'
 bathymetry_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Atlantismeteorcomplex3d.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Hawaiian%20seamount%20chain.jpg
@@ -36,7 +36,7 @@ GeoNames_feature_code:
 dv_is_:
   similar_to: '[[Mesa]]'
   same_as:
-  - '[[../../../WikiData/WD~Guyot,151957]]'
+  - '[[../../../WikiData/WD~Guyot,151957|WD~Guyot,151957]]'
   - '[[/_Standards/Earth/Geology/Landform/Guyot|Guyot]]'
   - '[[/_public/Earth/Geology/Landform/Guyot.public|Guyot.public]]'
   - '[[/_internal/Earth/Geology/Landform/Guyot.internal|Guyot.internal]]'
@@ -46,7 +46,7 @@ dv_is_:
   - '[[/_secret/Earth/Geology/Landform/Guyot.secret|Guyot.secret]]'
 dv_is_similar_to: '[[Mesa]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Guyot,151957]]'
+- '[[../../../WikiData/WD~Guyot,151957|WD~Guyot,151957]]'
 - '[[/_Standards/Earth/Geology/Landform/Guyot|Guyot]]'
 - '[[/_public/Earth/Geology/Landform/Guyot.public|Guyot.public]]'
 - '[[/_internal/Earth/Geology/Landform/Guyot.internal|Guyot.internal]]'

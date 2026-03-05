@@ -151,16 +151,16 @@ Baidu_Tieba_name: 游戏
 Commons_category: Games
 Commons_gallery: Game
 confidential: public
-contributing_factor_of: '[[_Standards/WikiData/WD~Q4347847,4347847]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~Q4347847,4347847|WD~Q4347847,4347847]]'
 cssclasses:
 - Type
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification:
 - 306.481
 - 790.1
@@ -169,26 +169,26 @@ Dewey_Decimal_Classification:
 - 794
 - 796
 different_from:
-- '[[_Standards/WikiData/WD~playing,1150958]]'
-- '[[_Standards/WikiData/WD~Game,1493033]]'
-- '[[_Standards/WikiData/WD~strategic_game,15079592]]'
-- '[[_Standards/WikiData/WD~video_game,7889]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~playing,1150958|WD~playing,1150958]]'
+- '[[_Standards/WikiData/WD~Game,1493033|WD~Game,1493033]]'
+- '[[_Standards/WikiData/WD~strategic_game,15079592|WD~strategic_game,15079592]]'
+- '[[_Standards/WikiData/WD~video_game,7889|WD~video_game,7889]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 draft: false
 equivalent_class:
 - http://dbpedia.org/ontology/Game
 - https://schema.org/Game
 expiryDate: ''
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~imagination,96634588]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~imagination,96634588|WD~imagination,96634588]]'
 has_list:
-- '[[_Standards/WikiData/WD~list_of_games_by_alphabetical_order,1723911]]'
-- '[[_Standards/WikiData/WD~list_of_games_by_genre,2416693]]'
+- '[[_Standards/WikiData/WD~list_of_games_by_alphabetical_order,1723911|WD~list_of_games_by_alphabetical_order,1723911]]'
+- '[[_Standards/WikiData/WD~list_of_games_by_genre,2416693|WD~list_of_games_by_genre,2416693]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~rule,1151067]]'
-- '[[_Standards/WikiData/WD~player,4197743]]'
+- '[[_Standards/WikiData/WD~rule,1151067|WD~rule,1151067]]'
+- '[[_Standards/WikiData/WD~player,4197743|WD~player,4197743]]'
 IAB_code: 1004
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%2C%201892-95%2C%20Les%20joueurs%20de%20carte%20%28The%20Card%20Players%29%2C%2060%20x%2073%20cm%2C%20oil%20on%20canvas%2C%20Courtauld%20Institute%20of%20Art%2C%20London.jpg
-instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
 IPTC_NewsCode: mediatopic/20000540
 isDeleted: false
 isReadOnly: false
@@ -202,9 +202,9 @@ MeSH_tree_code: I03.450.642.693.465
 Nomenclature_for_Museum_Cataloging: 14210
 OmegaWiki_Defined_Meaning: 6411
 part_of:
-- '[[_Standards/WikiData/WD~sport,_games,_physical_exercises,66662493]]'
-- '[[_Standards/WikiData/WD~culture,11042]]'
-practiced_by: '[[_Standards/WikiData/WD~player,4197743]]'
+- '[[_Standards/WikiData/WD~sport,_games,_physical_exercises,66662493|WD~sport,_games,_physical_exercises,66662493]]'
+- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
+practiced_by: '[[_Standards/WikiData/WD~player,4197743|WD~player,4197743]]'
 properties_for_this_type:
 - maximum number of players
 - minimum number of players
@@ -216,20 +216,20 @@ social_media_followers: 3195576
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Spel.ogg
 Stack_Exchange_site_URL: https://gaming.stackexchange.com
 studied_in:
-- '[[_Standards/WikiData/WD~game_studies,675281]]'
-- '[[_Standards/WikiData/WD~historical_game_studies,131382190]]'
-subclass_of: '[[_Standards/WikiData/WD~recreative_work,17538258]]'
+- '[[_Standards/WikiData/WD~game_studies,675281|WD~game_studies,675281]]'
+- '[[_Standards/WikiData/WD~historical_game_studies,131382190|WD~historical_game_studies,131382190]]'
+subclass_of: '[[_Standards/WikiData/WD~recreative_work,17538258|WD~recreative_work,17538258]]'
 subreddit: Games
 tags:
 - class/Class
 - schema-org/Class
 title: is_a_game Class
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_game,6130572]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Games,13583042]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_game,6130572|WD~Template_Infobox_game,6130572]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Games,13583042|WD~Portal_Games,13583042]]'
 type: Type
 UMLS_CUI: C4042911
 U_S_National_Archives_Identifier: 10636988
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_games,7112644]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_games,7112644|WD~outline_of_games,7112644]]'
 dv_has_:
   name_:
     af: spel
@@ -428,7 +428,7 @@ Tag Instances like this:
 
 The Game type represents things which are games. These are typically rule-governed recreational activities, e.g. role-playing games in which players assume the role of characters in a fictional setting.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ VideoGame ]  
 

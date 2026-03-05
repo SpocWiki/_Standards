@@ -47,30 +47,30 @@ aliases:
 - 컬링
 has_id_wikidata: Q136851
 subclass_of:
-- '[[_Standards/WikiData/WD~winter_sport,204686]]'
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~team_sport,216048]]'
-- '[[_Standards/WikiData/WD~ice_sport,31883501]]'
+- '[[_Standards/WikiData/WD~winter_sport,204686|WD~winter_sport,204686]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~ice_sport,31883501|WD~ice_sport,31883501]]'
 different_from:
-- '[[_Standards/WikiData/WD~hurling,213711]]'
-- '[[_Standards/WikiData/WD~shinty,850256]]'
-- '[[_Standards/WikiData/WD~icestock_sport,1070325]]'
+- '[[_Standards/WikiData/WD~hurling,213711|WD~hurling,213711]]'
+- '[[_Standards/WikiData/WD~shinty,850256|WD~shinty,850256]]'
+- '[[_Standards/WikiData/WD~icestock_sport,1070325|WD~icestock_sport,1070325]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-authority: '[[_Standards/WikiData/WD~World_Curling,1060432]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+authority: '[[_Standards/WikiData/WD~World_Curling,1060432|WD~World_Curling,1060432]]'
 uses:
-- '[[_Standards/WikiData/WD~curling_stone,16610604]]'
-- '[[_Standards/WikiData/WD~curling_broom,49099268]]'
-- '[[_Standards/WikiData/WD~curling_sheet,49101311]]'
-- '[[_Standards/WikiData/WD~ice,23392]]'
-practiced_by: '[[_Standards/WikiData/WD~curler,17516936]]'
+- '[[_Standards/WikiData/WD~curling_stone,16610604|WD~curling_stone,16610604]]'
+- '[[_Standards/WikiData/WD~curling_broom,49099268|WD~curling_broom,49099268]]'
+- '[[_Standards/WikiData/WD~curling_sheet,49101311|WD~curling_sheet,49101311]]'
+- '[[_Standards/WikiData/WD~ice,23392|WD~ice,23392]]'
+practiced_by: '[[_Standards/WikiData/WD~curler,17516936|WD~curler,17516936]]'
 competition_class:
-- "[[_Standards/WikiData/WD~women's_curling,20898537]]"
-- "[[_Standards/WikiData/WD~men's_curling,60488391]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q29572895,29572895]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-country_of_origin: '[[_Standards/WikiData/WD~Scotland,22]]'
+- "[[_Standards/WikiData/WD~women's_curling,20898537|WD~women's_curling,20898537]]"
+- "[[_Standards/WikiData/WD~men's_curling,60488391|WD~men's_curling,60488391]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q29572895,29572895|WD~Q29572895,29572895]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+country_of_origin: '[[_Standards/WikiData/WD~Scotland,22|WD~Scotland,22]]'
 BHCL_UUID: 69c51049-cf60-400d-98d2-e10d09ea16ff
 subreddit: Curling
 Commons_category: Curling

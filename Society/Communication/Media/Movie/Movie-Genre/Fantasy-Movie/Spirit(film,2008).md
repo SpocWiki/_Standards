@@ -5,7 +5,7 @@
 > and starring Gabriel Macht, Eva Mendes, Sarah Paulson, Dan Lauria, Paz Vega, Scarlett Johansson, 
 > and Samuel L. Jackson. 
 > 
-> Based on the newspaper [[comic strip The Spirit]], by [[../../books/Authors/Eisner,Will]], 
+> Based on the newspaper [[comic strip The Spirit]], by [[../../books/Authors/Eisner,Will|Eisner,Will]], 
 > and produced by OddLot and Lionsgate Films, 
 > it tells the story of a ghost-like superhero who defends Central City from the Octopus 
 > who competes with the superhero's childhood friend Sand Saref 

@@ -48,9 +48,9 @@ aliases:
 - 攝影機
 - 비디오 카메라
 has_id_wikidata: Q313614
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_video_camera,22711871]]'
-described_by_source: '[[_Standards/WikiData/WD~Q131308011,131308011]]'
-subclass_of: '[[_Standards/WikiData/WD~camera,15328]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_video_camera,22711871|WD~Template_Infobox_video_camera,22711871]]'
+described_by_source: '[[_Standards/WikiData/WD~Q131308011,131308011|WD~Q131308011,131308011]]'
+subclass_of: '[[_Standards/WikiData/WD~camera,15328|WD~camera,15328]]'
 Nomenclature_for_Museum_Cataloging: 10885
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2023-07-12.%20%D0%9B%D0%B5%D0%B3%D0%BE%D1%83%20DSC%202322.jpg
 Dewey_Decimal_Classification:

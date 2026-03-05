@@ -68,13 +68,13 @@ aliases:
 - 역사철학
 has_id_wikidata: Q190721
 described_by_source:
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
-practiced_by: '[[_Standards/WikiData/WD~philosopher_of_history,88105593]]'
-different_from: '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234|WD~branch_of_philosophy,22811234]]'
+practiced_by: '[[_Standards/WikiData/WD~philosopher_of_history,88105593|WD~philosopher_of_history,88105593]]'
+different_from: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 Dewey_Decimal_Classification: 901
 Basisklassifikation: 08.43
 image:

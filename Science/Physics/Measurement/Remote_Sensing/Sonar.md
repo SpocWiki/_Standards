@@ -42,19 +42,19 @@ aliases:
 - 쏘나
 has_id_wikidata: Q133220
 subclass_of:
-- '[[_Standards/WikiData/WD~remote_sensing,199687]]'
-- '[[_Standards/WikiData/WD~technique,2695280]]'
-- '[[_Standards/WikiData/WD~noisemaker,7047745]]'
-has_use: '[[_Standards/WikiData/WD~echolocation,217270]]'
-used_by: '[[_Standards/WikiData/WD~navigator,254651]]'
+- '[[_Standards/WikiData/WD~remote_sensing,199687|WD~remote_sensing,199687]]'
+- '[[_Standards/WikiData/WD~technique,2695280|WD~technique,2695280]]'
+- '[[_Standards/WikiData/WD~noisemaker,7047745|WD~noisemaker,7047745]]'
+has_use: '[[_Standards/WikiData/WD~echolocation,217270|WD~echolocation,217270]]'
+used_by: '[[_Standards/WikiData/WD~navigator,254651|WD~navigator,254651]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Walter_Guyton_Cady,552329]]'
-- '[[_Standards/WikiData/WD~Paul_Langevin,25320]]'
-facet_of: '[[_Standards/WikiData/WD~measurement_technique,1924397]]'
-instance_of: '[[_Standards/WikiData/WD~technique,2695280]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q20702663,20702663]]'
-produced_sound: '[[_Standards/WikiData/WD~water_sonar,65308681]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Walter_Guyton_Cady,552329|WD~Walter_Guyton_Cady,552329]]'
+- '[[_Standards/WikiData/WD~Paul_Langevin,25320|WD~Paul_Langevin,25320]]'
+facet_of: '[[_Standards/WikiData/WD~measurement_technique,1924397|WD~measurement_technique,1924397]]'
+instance_of: '[[_Standards/WikiData/WD~technique,2695280|WD~technique,2695280]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q20702663,20702663|WD~Q20702663,20702663]]'
+produced_sound: '[[_Standards/WikiData/WD~water_sonar,65308681|WD~water_sonar,65308681]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Miinitraaleri%20%22Virsaitis%22%20vrakk.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Sonar%20Principle%20EN.svg

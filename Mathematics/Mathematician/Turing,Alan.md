@@ -69,21 +69,21 @@ aliases:
 - 艾倫圖靈
 - 앨런 튜링
 has_id_wikidata: Q7251
-academic_thesis: '[[_Standards/WikiData/WD~Systems_of_Logic_Based_on_Ordinals,7663875]]'
+academic_thesis: '[[_Standards/WikiData/WD~Systems_of_Logic_Based_on_Ordinals,7663875|WD~Systems_of_Logic_Based_on_Ordinals,7663875]]'
 archives_at:
-- '[[_Standards/WikiData/WD~Sherborne_School,2278254]]'
-- "[[_Standards/WikiData/WD~King's_College_Cambridge_archive,81165230]]"
+- '[[_Standards/WikiData/WD~Sherborne_School,2278254|WD~Sherborne_School,2278254]]'
+- "[[_Standards/WikiData/WD~King's_College_Cambridge_archive,81165230|WD~King's_College_Cambridge_archive,81165230]]"
 award_received:
-- "[[_Standards/WikiData/WD~Smith's_Prize,1690167]]"
-- '[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]'
-- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+- "[[_Standards/WikiData/WD~Smith's_Prize,1690167|WD~Smith's_Prize,1690167]]"
+- '[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848|WD~Officer_of_the_Order_of_the_British_Empire,10762848]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401|WD~Fellow_of_the_Royal_Society,15631401]]'
 BHCL_UUID: d9bb7adf-e873-4dfa-a5e7-fea3a6deb04b
 birth_name: Alan Mathison Turing
-cause_of_death: '[[_Standards/WikiData/WD~cyanide_poisoning,883082]]'
+cause_of_death: '[[_Standards/WikiData/WD~cyanide_poisoning,883082|WD~cyanide_poisoning,883082]]'
 Commons_category: Alan Turing
 Commons_gallery: Alan Turing
-convicted_of: '[[_Standards/WikiData/WD~gross_indecency,5610496]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+convicted_of: '[[_Standards/WikiData/WD~gross_indecency,5610496|WD~gross_indecency,5610496]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 date_of_birth: 1912-06-23
 date_of_burial_or_cremation: 1954-06-12
 date_of_death: 1954-06-07
@@ -93,90 +93,90 @@ described_at_URL:
 - https://universityarchives.princeton.edu/2014/11/alan-turings-princeton-university-file-available-online/
 - https://heritage.humanists.uk/alan-turing/
 described_by_source:
-- "[[_Standards/WikiData/WD~Did_Alan_Turing_have_Asperger's_syndrome_,27638634]]"
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-doctoral_advisor: '[[_Standards/WikiData/WD~Alonzo_Church,92741]]'
+- "[[_Standards/WikiData/WD~Did_Alan_Turing_have_Asperger's_syndrome_,27638634|WD~Did_Alan_Turing_have_Asperger's_syndrome_,27638634]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Alonzo_Church,92741|WD~Alonzo_Church,92741]]'
 doctoral_student:
-- '[[_Standards/WikiData/WD~Robin_Gandy,249984]]'
-- '[[_Standards/WikiData/WD~Beatrice_Helen_Worsley,16493]]'
+- '[[_Standards/WikiData/WD~Robin_Gandy,249984|WD~Robin_Gandy,249984]]'
+- '[[_Standards/WikiData/WD~Beatrice_Helen_Worsley,16493|WD~Beatrice_Helen_Worsley,16493]]'
 educated_at:
-- "[[_Standards/WikiData/WD~King's_College,924289]]"
-- '[[_Standards/WikiData/WD~Sherborne_School,2278254]]'
-- '[[_Standards/WikiData/WD~Hazlehurst_Community_Primary_School,66135280]]'
-- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- "[[_Standards/WikiData/WD~King's_College,924289|WD~King's_College,924289]]"
+- '[[_Standards/WikiData/WD~Sherborne_School,2278254|WD~Sherborne_School,2278254]]'
+- '[[_Standards/WikiData/WD~Hazlehurst_Community_Primary_School,66135280|WD~Hazlehurst_Community_Primary_School,66135280]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578|WD~Princeton_University,21578]]'
 employer:
-- '[[_Standards/WikiData/WD~Government_Communications_Headquarters,220798]]'
-- '[[_Standards/WikiData/WD~Victoria_University_of_Manchester,867530]]'
-- '[[_Standards/WikiData/WD~National_Physical_Laboratory_(United_Kingdom),1967606]]'
-- '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
+- '[[_Standards/WikiData/WD~Government_Communications_Headquarters,220798|WD~Government_Communications_Headquarters,220798]]'
+- '[[_Standards/WikiData/WD~Victoria_University_of_Manchester,867530|WD~Victoria_University_of_Manchester,867530]]'
+- '[[_Standards/WikiData/WD~National_Physical_Laboratory_(United_Kingdom),1967606|WD~National_Physical_Laboratory_(United_Kingdom),1967606]]'
+- '[[_Standards/WikiData/WD~University_of_Cambridge,35794|WD~University_of_Cambridge,35794]]'
 Erdős_number: 5
-exonerated_of: '[[_Standards/WikiData/WD~gross_indecency,5610496]]'
-family_name: '[[_Standards/WikiData/WD~Turing,104650420]]'
-father: '[[_Standards/WikiData/WD~Julius_Mathison_Turing,20895930]]'
+exonerated_of: '[[_Standards/WikiData/WD~gross_indecency,5610496|WD~gross_indecency,5610496]]'
+family_name: '[[_Standards/WikiData/WD~Turing,104650420|WD~Turing,104650420]]'
+father: '[[_Standards/WikiData/WD~Julius_Mathison_Turing,20895930|WD~Julius_Mathison_Turing,20895930]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~cryptanalysis,897511]]'
-- '[[_Standards/WikiData/WD~mathematics,395]]'
-- '[[_Standards/WikiData/WD~logic,8078]]'
-- '[[_Standards/WikiData/WD~cryptography,8789]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
-given_name: '[[_Standards/WikiData/WD~Alan,294833]]'
+- '[[_Standards/WikiData/WD~cryptanalysis,897511|WD~cryptanalysis,897511]]'
+- '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~logic,8078|WD~logic,8078]]'
+- '[[_Standards/WikiData/WD~cryptography,8789|WD~cryptography,8789]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
+given_name: '[[_Standards/WikiData/WD~Alan,294833|WD~Alan,294833]]'
 Google_Doodle: alan-turings-100th-birthday
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Turing%20%281951%29%20%28crop%29.jpg
-influenced_by: '[[_Standards/WikiData/WD~Max_Newman,707155]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+influenced_by: '[[_Standards/WikiData/WD~Max_Newman,707155|WD~Max_Newman,707155]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 interested_in:
-- '[[_Standards/WikiData/WD~foundations_of_mathematics,833585]]'
-- '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
-- '[[_Standards/WikiData/WD~artificial_intelligence,11660]]'
+- '[[_Standards/WikiData/WD~foundations_of_mathematics,833585|WD~foundations_of_mathematics,833585]]'
+- '[[_Standards/WikiData/WD~mathematical_logic,1166618|WD~mathematical_logic,1166618]]'
+- '[[_Standards/WikiData/WD~artificial_intelligence,11660|WD~artificial_intelligence,11660]]'
 ISNI: 0000000110589902
 Krugosvet_article: gumanitarnye_nauki/lingvistika/TYURING_ALAN_MATISON.html
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
 Libris_URI: vs68cswd1fdccq5
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
-medical_condition: '[[_Standards/WikiData/WD~stuttering,186676]]'
-member_of: '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-mother: '[[_Standards/WikiData/WD~Ethel_Sara_Stoney,20895935]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+manner_of_death: '[[_Standards/WikiData/WD~suicide,10737|WD~suicide,10737]]'
+medical_condition: '[[_Standards/WikiData/WD~stuttering,186676|WD~stuttering,186676]]'
+member_of: '[[_Standards/WikiData/WD~Royal_Society,123885|WD~Royal_Society,123885]]'
+mother: '[[_Standards/WikiData/WD~Ethel_Sara_Stoney,20895935|WD~Ethel_Sara_Stoney,20895935]]'
 name_in_native_language: Alan Mathison Turing
-native_language: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
 notable_work:
-- '[[_Standards/WikiData/WD~Turing_machine,163310]]'
-- '[[_Standards/WikiData/WD~Turing_test,189223]]'
-- '[[_Standards/WikiData/WD~Turing_completeness,197970]]'
-- '[[_Standards/WikiData/WD~Church-Turing_thesis,309157]]'
-- '[[_Standards/WikiData/WD~Bombe,480476]]'
-- '[[_Standards/WikiData/WD~halting_problem,622849]]'
-- '[[_Standards/WikiData/WD~Computing_Machinery_and_Intelligence,772056]]'
-- '[[_Standards/WikiData/WD~non-deterministic_Turing_machine,1190223]]'
-- '[[_Standards/WikiData/WD~probabilistic_Turing_machine,1191836]]'
-- '[[_Standards/WikiData/WD~Turing_degree,1527413]]'
-- '[[_Standards/WikiData/WD~universal_Turing_machine,2703890]]'
-- '[[_Standards/WikiData/WD~Symmetric_Turing_machine,7661303]]'
-- '[[_Standards/WikiData/WD~On_Computable_Numbers,_with_an_Application_to_the_Entscheidungsproblem,20895949]]'
-- '[[_Standards/WikiData/WD~Intelligent_Machinery,20895966]]'
+- '[[_Standards/WikiData/WD~Turing_machine,163310|WD~Turing_machine,163310]]'
+- '[[_Standards/WikiData/WD~Turing_test,189223|WD~Turing_test,189223]]'
+- '[[_Standards/WikiData/WD~Turing_completeness,197970|WD~Turing_completeness,197970]]'
+- '[[_Standards/WikiData/WD~Church-Turing_thesis,309157|WD~Church-Turing_thesis,309157]]'
+- '[[_Standards/WikiData/WD~Bombe,480476|WD~Bombe,480476]]'
+- '[[_Standards/WikiData/WD~halting_problem,622849|WD~halting_problem,622849]]'
+- '[[_Standards/WikiData/WD~Computing_Machinery_and_Intelligence,772056|WD~Computing_Machinery_and_Intelligence,772056]]'
+- '[[_Standards/WikiData/WD~non-deterministic_Turing_machine,1190223|WD~non-deterministic_Turing_machine,1190223]]'
+- '[[_Standards/WikiData/WD~probabilistic_Turing_machine,1191836|WD~probabilistic_Turing_machine,1191836]]'
+- '[[_Standards/WikiData/WD~Turing_degree,1527413|WD~Turing_degree,1527413]]'
+- '[[_Standards/WikiData/WD~universal_Turing_machine,2703890|WD~universal_Turing_machine,2703890]]'
+- '[[_Standards/WikiData/WD~Symmetric_Turing_machine,7661303|WD~Symmetric_Turing_machine,7661303]]'
+- '[[_Standards/WikiData/WD~On_Computable_Numbers,_with_an_Application_to_the_Entscheidungsproblem,20895949|WD~On_Computable_Numbers,_with_an_Application_to_the_Entscheidungsproblem,20895949]]'
+- '[[_Standards/WikiData/WD~Intelligent_Machinery,20895966|WD~Intelligent_Machinery,20895966]]'
 occupation:
-- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-- '[[_Standards/WikiData/WD~cryptographer,15442776]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594|WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~cryptographer,15442776|WD~cryptographer,15442776]]'
 official_website: http://www.turingarchive.org/
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
-owner_of: '[[_Standards/WikiData/WD~Alan_Turing_teddy_bear,47451142]]'
-place_of_birth: '[[_Standards/WikiData/WD~Maida_Vale,122744]]'
-place_of_burial: '[[_Standards/WikiData/WD~Woking_Crematorium,8029331]]'
-place_of_death: '[[_Standards/WikiData/WD~Wilmslow,2011497]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685|WD~Wiki99_LGBT+,97285685]]'
+owner_of: '[[_Standards/WikiData/WD~Alan_Turing_teddy_bear,47451142|WD~Alan_Turing_teddy_bear,47451142]]'
+place_of_birth: '[[_Standards/WikiData/WD~Maida_Vale,122744|WD~Maida_Vale,122744]]'
+place_of_burial: '[[_Standards/WikiData/WD~Woking_Crematorium,8029331|WD~Woking_Crematorium,8029331]]'
+place_of_death: '[[_Standards/WikiData/WD~Wilmslow,2011497|WD~Wilmslow,2011497]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Turing%20%285025990183%29.jpg
 Regensburg_Classification: SF 8465
-religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066|WD~atheism,7066]]'
 residence:
-- '[[_Standards/WikiData/WD~Maida_Vale,122744]]'
-- '[[_Standards/WikiData/WD~Guildford,213465]]'
-sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+- '[[_Standards/WikiData/WD~Maida_Vale,122744|WD~Maida_Vale,122744]]'
+- '[[_Standards/WikiData/WD~Guildford,213465|WD~Guildford,213465]]'
+sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636|WD~homosexuality,6636]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Turing%20signature.svg
-sport: '[[_Standards/WikiData/WD~athletics,542]]'
-student: '[[_Standards/WikiData/WD~Robin_Gandy,249984]]'
-student_of: '[[_Standards/WikiData/WD~Alonzo_Church,92741]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Alan_Turing,120912950]]'
-unmarried_partner: '[[_Standards/WikiData/WD~Christopher_Morcom,21693479]]'
+sport: '[[_Standards/WikiData/WD~athletics,542|WD~athletics,542]]'
+student: '[[_Standards/WikiData/WD~Robin_Gandy,249984|WD~Robin_Gandy,249984]]'
+student_of: '[[_Standards/WikiData/WD~Alonzo_Church,92741|WD~Alonzo_Church,92741]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Alan_Turing,120912950|WD~Template_Alan_Turing,120912950]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Christopher_Morcom,21693479|WD~Christopher_Morcom,21693479]]'
 dv_has_:
   name_:
     ady: Тьюринг Алан

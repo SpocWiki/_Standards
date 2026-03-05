@@ -93,18 +93,18 @@ aliases:
 - 상
 has_id_wikidata: Q179700
 subclass_of:
-- '[[_Standards/WikiData/WD~sculpture,860861]]'
-- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
-- '[[_Standards/WikiData/WD~figure,29527347]]'
+- '[[_Standards/WikiData/WD~sculpture,860861|WD~sculpture,860861]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]'
+- '[[_Standards/WikiData/WD~figure,29527347|WD~figure,29527347]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
-- '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_statue,10563810]]'
-instance_of: '[[_Standards/WikiData/WD~genre_of_sculpture,18783400]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240|WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~Kartographer_icon,134980502|WD~Kartographer_icon,134980502]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_statue,10563810|WD~Template_Infobox_statue,10563810]]'
+instance_of: '[[_Standards/WikiData/WD~genre_of_sculpture,18783400|WD~genre_of_sculpture,18783400]]'
 Universal_Decimal_Classification: 730
 Nomenclature_for_Museum_Cataloging: 12977
 OmegaWiki_Defined_Meaning: 430779
@@ -258,7 +258,7 @@ dv_has_:
 
 # [[Statue]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~statue,179700]] 
+#is_/same_as :: [[_Standards/WikiData/WD~statue,179700|WD~statue,179700]] 
 
 ## #has_/text_of_/abstract 
 

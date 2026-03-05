@@ -173,83 +173,83 @@ demonym:
   - Antartiku
   - Antartiko
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-different_from: "[[_Standards/WikiData/WD~Antarctic,1555938]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+different_from: "[[_Standards/WikiData/WD~Antarctic,1555938|WD~Antarctic,1555938]]"
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Fabian_Gottlieb_von_Bellingshausen,76754]]"
-  - "[[_Standards/WikiData/WD~Mikhail_Lazarev,186203]]"
+  - "[[_Standards/WikiData/WD~Fabian_Gottlieb_von_Bellingshausen,76754|WD~Fabian_Gottlieb_von_Bellingshausen,76754]]"
+  - "[[_Standards/WikiData/WD~Mikhail_Lazarev,186203|WD~Mikhail_Lazarev,186203]]"
 FIPS_10_4_countries_and_regions_: AY
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Antarctica,2742952]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Antarctica,2742952|WD~geography_of_Antarctica,2742952]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:Antarctica.map
 has_part_s_:
-  - "[[_Standards/WikiData/WD~West_Antarctica,530917]]"
-  - "[[_Standards/WikiData/WD~East_Antarctica,866405]]"
-highest_point: "[[_Standards/WikiData/WD~Vinson_Massif,163758]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Antarctica,722537]]"
+  - "[[_Standards/WikiData/WD~West_Antarctica,530917|WD~West_Antarctica,530917]]"
+  - "[[_Standards/WikiData/WD~East_Antarctica,866405|WD~East_Antarctica,866405]]"
+highest_point: "[[_Standards/WikiData/WD~Vinson_Massif,163758|WD~Vinson_Massif,163758]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Antarctica,722537|WD~history_of_Antarctica,722537]]"
 IAB_code:
   - 1225
   - 1227
   - 1237
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica%206400px%20from%20Blue%20Marble.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~geographic_region,82794]]"
-  - "[[_Standards/WikiData/WD~terra_nullius,312461]]"
-  - "[[_Standards/WikiData/WD~part_of_the_world,2418896]]"
-  - "[[_Standards/WikiData/WD~continent,5107]]"
+  - "[[_Standards/WikiData/WD~geographic_region,82794|WD~geographic_region,82794]]"
+  - "[[_Standards/WikiData/WD~terra_nullius,312461|WD~terra_nullius,312461]]"
+  - "[[_Standards/WikiData/WD~part_of_the_world,2418896|WD~part_of_the_world,2418896]]"
+  - "[[_Standards/WikiData/WD~continent,5107|WD~continent,5107]]"
 IPTC_NewsCode: worldregion/r901
 isDeleted: false
 isReadOnly: false
 Krugosvet_article: Earth_sciences/geologiya/ANTARKTIKA.html
 Libris_URI: zw9cbnhh0cvc58m
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern_Hemisphere,41228]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern_Hemisphere,41228|WD~Southern_Hemisphere,41228]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062|WD~Antarctic_Treaty_area,21590062]]"
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC_04_00,5762]]"
-  - "[[_Standards/WikiData/WD~UTC_03_00,6513]]"
-  - "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
-  - "[[_Standards/WikiData/WD~UTC+05_00,6806]]"
-  - "[[_Standards/WikiData/WD~UTC+06_00,6906]]"
-  - "[[_Standards/WikiData/WD~UTC+07_00,6940]]"
-  - "[[_Standards/WikiData/WD~UTC+08_00,6985]]"
-  - "[[_Standards/WikiData/WD~UTC+10_00,7056]]"
-  - "[[_Standards/WikiData/WD~UTC+11_00,7069]]"
-  - "[[_Standards/WikiData/WD~UTC+12_00,7105]]"
+  - "[[_Standards/WikiData/WD~UTC_04_00,5762|WD~UTC_04_00,5762]]"
+  - "[[_Standards/WikiData/WD~UTC_03_00,6513|WD~UTC_03_00,6513]]"
+  - "[[_Standards/WikiData/WD~UTC_00_00,6574|WD~UTC_00_00,6574]]"
+  - "[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]"
+  - "[[_Standards/WikiData/WD~UTC+05_00,6806|WD~UTC+05_00,6806]]"
+  - "[[_Standards/WikiData/WD~UTC+06_00,6906|WD~UTC+06_00,6906]]"
+  - "[[_Standards/WikiData/WD~UTC+07_00,6940|WD~UTC+07_00,6940]]"
+  - "[[_Standards/WikiData/WD~UTC+08_00,6985|WD~UTC+08_00,6985]]"
+  - "[[_Standards/WikiData/WD~UTC+10_00,7056|WD~UTC+10_00,7056]]"
+  - "[[_Standards/WikiData/WD~UTC+11_00,7069|WD~UTC+11_00,7069]]"
+  - "[[_Standards/WikiData/WD~UTC+12_00,7105|WD~UTC+12_00,7105]]"
 location:
   - -77
   - 66
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica%20%28orthographic%20projection%29.svg
-lowest_point: "[[_Standards/WikiData/WD~Bentley_Subglacial_Trench,818322]]"
+lowest_point: "[[_Standards/WikiData/WD~Bentley_Subglacial_Trench,818322|WD~Bentley_Subglacial_Trench,818322]]"
 M49_code: 10
 maximum_temperature_record: 17.5
 named_after:
-  - "[[_Standards/WikiData/WD~anti-,12818226]]"
-  - "[[_Standards/WikiData/WD~Arctic,25322]]"
+  - "[[_Standards/WikiData/WD~anti-,12818226|WD~anti-,12818226]]"
+  - "[[_Standards/WikiData/WD~Arctic,25322|WD~Arctic,25322]]"
 OmegaWiki_Defined_Meaning: 202
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]"
 page_banner:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Las%20Estrellas.%20View%20to%20the%20bay.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica-banner1.jpg
 part_of:
-  - "[[_Standards/WikiData/WD~landmass,205895]]"
-  - "[[_Standards/WikiData/WD~Antarctic,1555938]]"
-  - "[[_Standards/WikiData/WD~Earth,2]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828208,22828208]]"
+  - "[[_Standards/WikiData/WD~landmass,205895|WD~landmass,205895]]"
+  - "[[_Standards/WikiData/WD~Antarctic,1555938|WD~Antarctic,1555938]]"
+  - "[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828208,22828208|WD~Q22828208,22828208]]"
 population: 4400
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica%20relief%20location%20map.jpg
 SpocWebEntityId: 27159
 subreddit: antarctica
 tags:
   - geo/Continent
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Antarctica,13379817]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Antarctica,13231363]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.aq,41016]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Antarctica,13379817|WD~Template_Antarctica,13379817]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Antarctica,13231363|WD~Portal_Antarctica,13231363]]"
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.aq,41016|WD~.aq,41016]]"
 type: Continent
 Unicode_character: 🇦🇶
 U_S_National_Archives_Identifier: 10035701
@@ -575,7 +575,7 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Antarctica/ReadMe]] 
+[[Antarctica/ReadMe|ReadMe]] 
 
 There is also an (inofficial) [Country~Antarctica](Antarctica/Country~Antarctica) 
 

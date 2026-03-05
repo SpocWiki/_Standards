@@ -60,10 +60,10 @@ aliases:
 - 干渉
 - 간섭
 has_id_wikidata: Q136980
-subclass_of: '[[_Standards/WikiData/WD~physical_law,214070]]'
-instance_of: '[[_Standards/WikiData/WD~phenomenon,483247]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-part_of: '[[_Standards/WikiData/WD~physics,413]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_law,214070|WD~physical_law,214070]]'
+instance_of: '[[_Standards/WikiData/WD~phenomenon,483247|WD~phenomenon,483247]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+part_of: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
 Commons_gallery: Interference
 Commons_category: Interference
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Interference%20of%20two%20waves.svg

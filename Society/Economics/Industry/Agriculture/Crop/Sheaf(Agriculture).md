@@ -38,14 +38,14 @@ aliases:
 - 稻草束
 has_id_wikidata: Q942040
 different_from:
-- '[[_Standards/WikiData/WD~sheaf,595298]]'
-- '[[_Standards/WikiData/WD~sheave,1057381]]'
-part_of: '[[_Standards/WikiData/WD~grain_harvest,7214166]]'
-has_part_s_: '[[_Standards/WikiData/WD~straw_mulch_stack,9190072]]'
-instance_of: '[[_Standards/WikiData/WD~specialized_term,12812139]]'
-described_by_source: '[[_Standards/WikiData/WD~Diccionario_de_voces_aragonesas,65393650]]'
-subclass_of: '[[_Standards/WikiData/WD~bundle,112186436]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~Aragonese,8765]]'
+- '[[_Standards/WikiData/WD~sheaf,595298|WD~sheaf,595298]]'
+- '[[_Standards/WikiData/WD~sheave,1057381|WD~sheave,1057381]]'
+part_of: '[[_Standards/WikiData/WD~grain_harvest,7214166|WD~grain_harvest,7214166]]'
+has_part_s_: '[[_Standards/WikiData/WD~straw_mulch_stack,9190072|WD~straw_mulch_stack,9190072]]'
+instance_of: '[[_Standards/WikiData/WD~specialized_term,12812139|WD~specialized_term,12812139]]'
+described_by_source: '[[_Standards/WikiData/WD~Diccionario_de_voces_aragonesas,65393650|WD~Diccionario_de_voces_aragonesas,65393650]]'
+subclass_of: '[[_Standards/WikiData/WD~bundle,112186436|WD~bundle,112186436]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Aragonese,8765|WD~Aragonese,8765]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Straw%20of%20the%20rice.08Oct9.jpg
 Commons_category: Garbs
 dv_has_:

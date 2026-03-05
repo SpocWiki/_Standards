@@ -68,13 +68,13 @@ aliases:
 - 熱力學第二定律
 - 열역학 제2법칙
 has_id_wikidata: Q177045
-follows: '[[_Standards/WikiData/WD~first_law_of_thermodynamics,179380]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Carnot,181685]]'
-instance_of: '[[_Standards/WikiData/WD~law_of_thermodynamics,849392]]'
-derivative_work: "[[_Standards/WikiData/WD~Bremermann's_limit,908016]]"
-part_of: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
-followed_by: '[[_Standards/WikiData/WD~third_law_of_thermodynamics,29166]]'
-main_subject: '[[_Standards/WikiData/WD~entropy,45003]]'
+follows: '[[_Standards/WikiData/WD~first_law_of_thermodynamics,179380|WD~first_law_of_thermodynamics,179380]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Carnot,181685|WD~Nicolas_Carnot,181685]]'
+instance_of: '[[_Standards/WikiData/WD~law_of_thermodynamics,849392|WD~law_of_thermodynamics,849392]]'
+derivative_work: "[[_Standards/WikiData/WD~Bremermann's_limit,908016|WD~Bremermann's_limit,908016]]"
+part_of: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
+followed_by: '[[_Standards/WikiData/WD~third_law_of_thermodynamics,29166|WD~third_law_of_thermodynamics,29166]]'
+main_subject: '[[_Standards/WikiData/WD~entropy,45003|WD~entropy,45003]]'
 time_of_discovery_or_invention: 1824-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Heat%20flow%20hot%20to%20cold.png
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "SecondLawOfThermodynamics"]

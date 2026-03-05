@@ -40,10 +40,10 @@ aliases:
 - 第二世
 has_id_wikidata: Q5025303
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cambrian_Series_2,30869621]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cambrian_Series_2,30869621|WD~Category_Cambrian_Series_2,30869621]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -521000000-01-01T00:00:00Z
 Commons_category: Cambrian Series 2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20515%20Ma.png
@@ -157,7 +157,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 521 to 509 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-515_Ma.png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-515_Ma.png|Earth-515_Ma.png]] 
 
 ## #has_/text_of_/abstract 
 

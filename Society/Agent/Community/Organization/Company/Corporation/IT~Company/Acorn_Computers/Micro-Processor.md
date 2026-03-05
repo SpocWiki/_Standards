@@ -166,18 +166,18 @@ aliases:
 
 
 First Processors: 
-- [[../Semiconductor-Industry/Intel/Intel~4004]] [[../Semiconductor-Industry/Intel]] 
+- [[../Semiconductor-Industry/Intel/Intel~4004|Intel~4004]] [[../Semiconductor-Industry/Intel|Intel]] 
 
 ### Intel 4004 
-1969 a Team left [[../Semiconductor-Industry/Fairchild_Semiconductor]] to form [[../Semiconductor-Industry/Intel]]. 
+1969 a Team left [[../Semiconductor-Industry/Fairchild_Semiconductor|Fairchild_Semiconductor]] to form [[../Semiconductor-Industry/Intel|Intel]]. 
 [[Fagin,Federico]] left Fairchild some time later 
-and consolidated the [[ Intel~4001]] into one [[../Semiconductor-Industry/Intel/Intel~4004]], 
+and consolidated the [[ Intel~4001]] into one [[../Semiconductor-Industry/Intel/Intel~4004|Intel~4004]], 
 but Sales was slow, because Intel did not focus on Processors. 
 
 ### Zilog Z80 
-1974 Fagin, [[Shima,Masatoshi]] and [[Ungerman, Ralph]] left Intel to form [[../Semiconductor-Industry/Zilog]],  
+1974 Fagin, [[Shima,Masatoshi]] and [[Ungerman, Ralph]] left Intel to form [[../Semiconductor-Industry/Zilog|Zilog]],  
 but 1974 was a bad Recession year. 
-[[Exxon]] invested into the Majority of [[../Semiconductor-Industry/Zilog]]. 
+[[Exxon]] invested into the Majority of [[../Semiconductor-Industry/Zilog|Zilog]]. 
 
 The [[Zilog~Z80]] was compatible with the [[ Intel~8080]], 
 but did not need 2 Voltages, only 5V, not 12V. 
@@ -189,13 +189,13 @@ The first Computers to feature a Z80 were
 - [[Sinclair~ZX80]] and [[Sinclair~ZX81]]  followed by the [[Sinclair~ZX-Spectrum]] with Color Graphics. 
 - many Gaming Consoles 
 
- [[Exxon]] aggregating Companies with Computer Know-How and gave [[../Semiconductor-Industry/Zilog]] a hard time until they sold in 1980. 
+ [[Exxon]] aggregating Companies with Computer Know-How and gave [[../Semiconductor-Industry/Zilog|Zilog]] a hard time until they sold in 1980. 
 
 ### IBM 
 IBM was worried by the Home Computer Market, but also about Exxon, 
-so they turned to [[../Semiconductor-Industry/Intel]] and used their [[ Intel~8086]] Processor for their first PC Design. 
+so they turned to [[../Semiconductor-Industry/Intel|Intel]] and used their [[ Intel~8086]] Processor for their first PC Design. 
 
-They had [[../Microsoft]] write the OS, but kept the BIOS secret. 
+They had [[../Microsoft|Microsoft]] write the OS, but kept the BIOS secret. 
 This that was soon reverse-engineered though by [[Phoenix_Technologies]]. 
 
 ## #has_/text_of_/abstract 

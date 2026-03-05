@@ -58,22 +58,22 @@ aliases:
 - 軍用飛行器
 - 군용기
 has_id_wikidata: Q216916
-has_use: '[[_Standards/WikiData/WD~military_aviation,627716]]'
+has_use: '[[_Standards/WikiData/WD~military_aviation,627716|WD~military_aviation,627716]]'
 operator:
-- '[[_Standards/WikiData/WD~Algerian_Air_Force,923346]]'
-- '[[_Standards/WikiData/WD~Afghan_Air_Force,1814147]]'
-- '[[_Standards/WikiData/WD~Albanian_Air_Force,2085043]]'
-- '[[_Standards/WikiData/WD~National_Air_Force_of_Angola,2628695]]'
-- '[[_Standards/WikiData/WD~Afghan_Armed_Forces,11062919]]'
-- '[[_Standards/WikiData/WD~United_States_Navy,11220]]'
-opposite_of: '[[_Standards/WikiData/WD~civil_aircraft,2438179]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_military_aircraft,13518201]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~military_equipment,18643213]]'
+- '[[_Standards/WikiData/WD~Algerian_Air_Force,923346|WD~Algerian_Air_Force,923346]]'
+- '[[_Standards/WikiData/WD~Afghan_Air_Force,1814147|WD~Afghan_Air_Force,1814147]]'
+- '[[_Standards/WikiData/WD~Albanian_Air_Force,2085043|WD~Albanian_Air_Force,2085043]]'
+- '[[_Standards/WikiData/WD~National_Air_Force_of_Angola,2628695|WD~National_Air_Force_of_Angola,2628695]]'
+- '[[_Standards/WikiData/WD~Afghan_Armed_Forces,11062919|WD~Afghan_Armed_Forces,11062919]]'
+- '[[_Standards/WikiData/WD~United_States_Navy,11220|WD~United_States_Navy,11220]]'
+opposite_of: '[[_Standards/WikiData/WD~civil_aircraft,2438179|WD~civil_aircraft,2438179]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_military_aircraft,13518201|WD~Template_Infobox_military_aircraft,13518201]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~military_equipment,18643213|WD~military_equipment,18643213]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~military_equipment,18643213]]'
-- '[[_Standards/WikiData/WD~purpose_designed_aircraft,19403027]]'
-different_from: '[[_Standards/WikiData/WD~combat_aircraft,19287541]]'
-instance_of: '[[_Standards/WikiData/WD~aircraft_functional_class,20027953]]'
+- '[[_Standards/WikiData/WD~military_equipment,18643213|WD~military_equipment,18643213]]'
+- '[[_Standards/WikiData/WD~purpose_designed_aircraft,19403027|WD~purpose_designed_aircraft,19403027]]'
+different_from: '[[_Standards/WikiData/WD~combat_aircraft,19287541|WD~combat_aircraft,19287541]]'
+instance_of: '[[_Standards/WikiData/WD~aircraft_functional_class,20027953|WD~aircraft_functional_class,20027953]]'
 Nomenclature_for_Museum_Cataloging: 11704
 U_S_National_Archives_Identifier:
 - 10641952

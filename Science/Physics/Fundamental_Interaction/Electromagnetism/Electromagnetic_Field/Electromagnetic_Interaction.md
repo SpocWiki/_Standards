@@ -85,16 +85,16 @@ aliases:
 - 전자기 상호작용
 has_id_wikidata: Q849919
 instance_of:
-- '[[_Standards/WikiData/WD~fundamental_interaction,104934]]'
-- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-subclass_of: '[[_Standards/WikiData/WD~electroweak_interaction,466416]]'
+- '[[_Standards/WikiData/WD~fundamental_interaction,104934|WD~fundamental_interaction,104934]]'
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+subclass_of: '[[_Standards/WikiData/WD~electroweak_interaction,466416|WD~electroweak_interaction,466416]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Q6677799,6677799]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-studied_by: '[[_Standards/WikiData/WD~electromagnetism,11406]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q6677799,6677799|WD~Q6677799,6677799]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+studied_by: '[[_Standards/WikiData/WD~electromagnetism,11406|WD~electromagnetism,11406]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Feynmann%20Diagram%20Coulomb.svg
 Dewey_Decimal_Classification: 539.7546
 IEV_number: 881-03-26

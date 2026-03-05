@@ -23,14 +23,14 @@ aliases:
 - 羅德階
 has_id_wikidata: Q1051453
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Road_Canyon_Formation,18158681]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Road_Canyon_Formation,18158681|WD~Road_Canyon_Formation,18158681]]'
 named_by:
-- '[[_Standards/WikiData/WD~Brian_Frederick_Glenister,20739197]]'
-- '[[_Standards/WikiData/WD~William_M._Furnish,24844363]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Roadian,134443956]]'
+- '[[_Standards/WikiData/WD~Brian_Frederick_Glenister,20739197|WD~Brian_Frederick_Glenister,20739197]]'
+- '[[_Standards/WikiData/WD~William_M._Furnish,24844363|WD~William_M._Furnish,24844363]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Roadian,134443956|WD~GSSP_for_the_base_of_the_Roadian,134443956]]'
 coordinate_location: Point(-104.877 31.8767)
 sRGB_color_hex_triplet: FE8E72
 Commons_category: Roadian

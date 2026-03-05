@@ -61,23 +61,23 @@ aliases:
 - 납땜
 has_id_wikidata: Q211387
 uses:
-- '[[_Standards/WikiData/WD~soldering_iron,623402]]'
-- '[[_Standards/WikiData/WD~solder,866612]]'
+- '[[_Standards/WikiData/WD~soldering_iron,623402|WD~soldering_iron,623402]]'
+- '[[_Standards/WikiData/WD~solder,866612|WD~solder,866612]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~metalworking,953045]]'
-- '[[_Standards/WikiData/WD~manufacturing_process,1408288]]'
-- '[[_Standards/WikiData/WD~joining,1480529]]'
+- '[[_Standards/WikiData/WD~metalworking,953045|WD~metalworking,953045]]'
+- '[[_Standards/WikiData/WD~manufacturing_process,1408288|WD~manufacturing_process,1408288]]'
+- '[[_Standards/WikiData/WD~joining,1480529|WD~joining,1480529]]'
 has_effect:
-- '[[_Standards/WikiData/WD~linkage,1153014]]'
-- '[[_Standards/WikiData/WD~electrical_connection,2647496]]'
-- '[[_Standards/WikiData/WD~thermal_conduction,7465774]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~solder_joint,11826316]]'
-practiced_by: '[[_Standards/WikiData/WD~solderer,121904692]]'
+- '[[_Standards/WikiData/WD~linkage,1153014|WD~linkage,1153014]]'
+- '[[_Standards/WikiData/WD~electrical_connection,2647496|WD~electrical_connection,2647496]]'
+- '[[_Standards/WikiData/WD~thermal_conduction,7465774|WD~thermal_conduction,7465774]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~solder_joint,11826316|WD~solder_joint,11826316]]'
+practiced_by: '[[_Standards/WikiData/WD~solderer,121904692|WD~solderer,121904692]]'
 Commons_category: Soldering
 Iconclass_notation: 47C436
 dv_has_:

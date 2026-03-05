@@ -106,12 +106,12 @@ Commons_category: Strong nuclear force
 Dewey_Decimal_Classification: 539.7548
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/strong-force
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nuclear%20Force%20anim%20smaller.gif
 instance_of:
-- '[[_Standards/WikiData/WD~fundamental_interaction,104934]]'
+- '[[_Standards/WikiData/WD~fundamental_interaction,104934|WD~fundamental_interaction,104934]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~elementary_particle_interaction,71130616]]'
+- '[[_Standards/WikiData/WD~elementary_particle_interaction,71130616|WD~elementary_particle_interaction,71130616]]'
 dv_has_:
   name_:
     af: sterk wisselwerking

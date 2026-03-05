@@ -92,7 +92,7 @@ aliases:
 
 # [[Noether's_Theorem]] 
 
-#has_/creator :: [[../../Mathematics/Mathematician/Noether,Emmy]] 
+#has_/creator :: [[../../Mathematics/Mathematician/Noether,Emmy|Noether,Emmy]] 
 
 ## #has_/text_of_/abstract 
 

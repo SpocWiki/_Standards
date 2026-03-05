@@ -62,21 +62,21 @@ aliases:
 - 神秘學
 - 오컬트
 has_id_wikidata: Q178934
-main_subject: '[[_Standards/WikiData/WD~paranormal,332102]]'
+main_subject: '[[_Standards/WikiData/WD~paranormal,332102|WD~paranormal,332102]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
-different_from: '[[_Standards/WikiData/WD~covert_operation,1546073]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Al_Ghaib,1977474]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+different_from: '[[_Standards/WikiData/WD~covert_operation,1546073|WD~covert_operation,1546073]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Al_Ghaib,1977474|WD~Al_Ghaib,1977474]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~human_behavior,3769299]]'
-- '[[_Standards/WikiData/WD~knowledge,9081]]'
-- '[[_Standards/WikiData/WD~world_view,49447]]'
-practiced_by: '[[_Standards/WikiData/WD~occultist,12797895]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Occult_navigation,13560415]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Occult,15146849]]'
+- '[[_Standards/WikiData/WD~human_behavior,3769299|WD~human_behavior,3769299]]'
+- '[[_Standards/WikiData/WD~knowledge,9081|WD~knowledge,9081]]'
+- '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
+practiced_by: '[[_Standards/WikiData/WD~occultist,12797895|WD~occultist,12797895]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Occult_navigation,13560415|WD~Template_Occult_navigation,13560415]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Occult,15146849|WD~Portal_Occult,15146849]]'
 Dewey_Decimal_Classification: 130
 subreddit: occult
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Holytable.jpg

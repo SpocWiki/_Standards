@@ -45,16 +45,16 @@ aliases:
 - 洋色
 - 마젠타
 has_id_wikidata: Q3276756
-different_from: '[[_Standards/WikiData/WD~Magenta,166818]]'
+different_from: '[[_Standards/WikiData/WD~Magenta,166818|WD~Magenta,166818]]'
 instance_of:
-- '[[_Standards/WikiData/WD~primary_color,166902]]'
-- '[[_Standards/WikiData/WD~color,1075]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~amaranth,454847]]'
-opposite_of: '[[_Standards/WikiData/WD~chartreuse,1153119]]'
+- '[[_Standards/WikiData/WD~primary_color,166902|WD~primary_color,166902]]'
+- '[[_Standards/WikiData/WD~color,1075|WD~color,1075]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~amaranth,454847|WD~amaranth,454847]]'
+opposite_of: '[[_Standards/WikiData/WD~chartreuse,1153119|WD~chartreuse,1153119]]'
 part_of:
-- '[[_Standards/WikiData/WD~shade_of_purple,7460344]]'
-- '[[_Standards/WikiData/WD~shade_of_red,7460345]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~shade_of_purple,7460344|WD~shade_of_purple,7460344]]'
+- '[[_Standards/WikiData/WD~shade_of_red,7460345|WD~shade_of_red,7460345]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 CSS_color_keyword: magenta
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MagentaIcon.png
 sRGB_color_hex_triplet: FF00FF

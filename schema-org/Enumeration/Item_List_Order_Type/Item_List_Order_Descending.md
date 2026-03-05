@@ -27,9 +27,9 @@ tags:
 title: is_an_item_list_order_descending Class
 type: Type
 dv_has_:
-  parent_class: "[[../ItemListOrderType]]"
+  parent_class: "[[../ItemListOrderType|ItemListOrderType]]"
 dv_is_:
-  enum_of: "[[../ItemListOrderType]]"
+  enum_of: "[[../ItemListOrderType|ItemListOrderType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending|Item_List_Order_Descending]]"
     - "[[/_public/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.public|Item_List_Order_Descending.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.personal|Item_List_Order_Descending.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.secret|Item_List_Order_Descending.secret]]"
     - "[[Item_List_Order_Descending]]"
-dv_has_parent_class: "[[../ItemListOrderType]]"
-dv_is_enum_of: "[[../ItemListOrderType]]"
+dv_has_parent_class: "[[../ItemListOrderType|ItemListOrderType]]"
+dv_is_enum_of: "[[../ItemListOrderType|ItemListOrderType]]"
 dv_is_same_as:
   - "[[Item_List_Order_Descending]]"
   - "[[/_public/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.public|Item_List_Order_Descending.public]]"

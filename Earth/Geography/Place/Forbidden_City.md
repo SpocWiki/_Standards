@@ -117,33 +117,33 @@ aliases:
 - 자금성
 has_id_wikidata: Q80290
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Dongcheng_District,394681]]'
-- '[[_Standards/WikiData/WD~Donghuamen_Subdistrict,855431]]'
+- '[[_Standards/WikiData/WD~Dongcheng_District,394681|WD~Dongcheng_District,394681]]'
+- '[[_Standards/WikiData/WD~Donghuamen_Subdistrict,855431|WD~Donghuamen_Subdistrict,855431]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~building_complex,1497364]]'
-- '[[_Standards/WikiData/WD~Chinese_AAAAA_rated_tourist_attraction,6838244]]'
-- '[[_Standards/WikiData/WD~palace,16560]]'
-- '[[_Standards/WikiData/WD~museum,33506]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~building_complex,1497364|WD~building_complex,1497364]]'
+- '[[_Standards/WikiData/WD~Chinese_AAAAA_rated_tourist_attraction,6838244|WD~Chinese_AAAAA_rated_tourist_attraction,6838244]]'
+- '[[_Standards/WikiData/WD~palace,16560|WD~palace,16560]]'
+- '[[_Standards/WikiData/WD~museum,33506|WD~museum,33506]]'
 heritage_designation:
-- '[[_Standards/WikiData/WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574]]'
-- '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
-different_from: '[[_Standards/WikiData/WD~Imperial_City,2558828]]'
-replaces: '[[_Standards/WikiData/WD~Imperial_City,2558828]]'
+- '[[_Standards/WikiData/WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574|WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574]]'
+- '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623|WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
+different_from: '[[_Standards/WikiData/WD~Imperial_City,2558828|WD~Imperial_City,2558828]]'
+replaces: '[[_Standards/WikiData/WD~Imperial_City,2558828|WD~Imperial_City,2558828]]'
 part_of:
-- '[[_Standards/WikiData/WD~Imperial_City,2558828]]'
-- '[[_Standards/WikiData/WD~Imperial_Palaces_of_the_Ming_and_Qing_Dynasties_in_Beijing_and_Shenyang,4920250]]'
+- '[[_Standards/WikiData/WD~Imperial_City,2558828|WD~Imperial_City,2558828]]'
+- '[[_Standards/WikiData/WD~Imperial_Palaces_of_the_Ming_and_Qing_Dynasties_in_Beijing_and_Shenyang,4920250|WD~Imperial_Palaces_of_the_Ming_and_Qing_Dynasties_in_Beijing_and_Shenyang,4920250]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Dong_liu_gong,10343653]]'
-- '[[_Standards/WikiData/WD~Xi_liu_gong,10517571]]'
-architect: '[[_Standards/WikiData/WD~Kuai_Xiang,10513613]]'
+- '[[_Standards/WikiData/WD~Dong_liu_gong,10343653|WD~Dong_liu_gong,10343653]]'
+- '[[_Standards/WikiData/WD~Xi_liu_gong,10517571|WD~Xi_liu_gong,10517571]]'
+architect: '[[_Standards/WikiData/WD~Kuai_Xiang,10513613|WD~Kuai_Xiang,10513613]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Hall%20of%20Supreme%20Harmony%20%2820241127120000%29.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/%E6%99%AF%E5%B1%B1%E5%85%AC%E5%9B%AD%20%2820315852831%29-%20cropped.jpg
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q120402977,120402977]]'
-category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q131380148,131380148]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q120402977,120402977|WD~Q120402977,120402977]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q131380148,131380148|WD~Q131380148,131380148]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188|WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 area: 72
 visitors_per_year:
 - 16700000
@@ -287,7 +287,7 @@ dv_has_:
 
 # [[Forbidden_City]] 
 
-![[../../../assets/Forbidden_City.png]] 
+![[../../../assets/Forbidden_City.png|Forbidden_City.png]] 
 By Tommy Chen (<a href="//commons.wikimedia.org/wiki/User:Sumple" class="mw-redirect" title="User:Sumple">Sumple</a>) - Drawn by <a href="https://en.wikipedia.org/wiki/User:Sumple" class="extiw" title="en:User:Sumple">Sumple</a>., <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2595509">Link</a> 
 – – – Approximate dividing line between Inner (north) and Outer (south) Courts. 
 A. [Meridian Gate](https://en.wikipedia.org/wiki/Meridian_Gate "Meridian Gate") 

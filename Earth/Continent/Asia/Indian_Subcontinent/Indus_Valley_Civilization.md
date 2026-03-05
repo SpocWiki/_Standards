@@ -128,20 +128,20 @@ aliases:
 - 인더스 문명
 has_id_wikidata: Q42534
 instance_of:
-- '[[_Standards/WikiData/WD~archaeological_culture,465299]]'
-- '[[_Standards/WikiData/WD~historical_region,1620908]]'
-- '[[_Standards/WikiData/WD~ancient_civilization,28171280]]'
-color: '[[_Standards/WikiData/WD~black_and_white,838368]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-indigenous_to: '[[_Standards/WikiData/WD~Indus_Valley,10535281]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Indus_Valley_Civilisation,20646565]]'
+- '[[_Standards/WikiData/WD~archaeological_culture,465299|WD~archaeological_culture,465299]]'
+- '[[_Standards/WikiData/WD~historical_region,1620908|WD~historical_region,1620908]]'
+- '[[_Standards/WikiData/WD~ancient_civilization,28171280|WD~ancient_civilization,28171280]]'
+color: '[[_Standards/WikiData/WD~black_and_white,838368|WD~black_and_white,838368]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+indigenous_to: '[[_Standards/WikiData/WD~Indus_Valley,10535281|WD~Indus_Valley,10535281]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Indus_Valley_Civilisation,20646565|WD~Template_Indus_Valley_Civilisation,20646565]]'
 start_time: -2999-01-01T00:00:00Z
-culture: '[[_Standards/WikiData/WD~South_Asian_culture,122766954]]'
+culture: '[[_Standards/WikiData/WD~South_Asian_culture,122766954|WD~South_Asian_culture,122766954]]'
 end_time: -1799-01-01T00:00:00Z
 coordinate_location: Point(68.138889 27.329167)
-country: '[[_Standards/WikiData/WD~Pakistan,843]]'
-named_after: '[[_Standards/WikiData/WD~Indus_River,7348]]'
-locations: '[[_Standards/WikiData/WD~Indian_subcontinent,60140]]'
+country: '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+named_after: '[[_Standards/WikiData/WD~Indus_River,7348|WD~Indus_River,7348]]'
+locations: '[[_Standards/WikiData/WD~Indian_subcontinent,60140|WD~Indian_subcontinent,60140]]'
 Library_of_Congress_Classification: DS425
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dancing%20Girl%20of%20Mohenjo-daro.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Indus%20Valley%20Civilisation%20banner.jpg

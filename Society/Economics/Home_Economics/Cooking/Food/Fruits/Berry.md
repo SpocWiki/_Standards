@@ -80,18 +80,18 @@ aliases:
 - 장과
 has_id_wikidata: Q13184
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-opposite_of: '[[_Standards/WikiData/WD~Q3847256,3847256]]'
-subclass_of: '[[_Standards/WikiData/WD~fleshy_fruit,15197056]]'
-different_from: '[[_Standards/WikiData/WD~berry,16128920]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+opposite_of: '[[_Standards/WikiData/WD~Q3847256,3847256|WD~Q3847256,3847256]]'
+subclass_of: '[[_Standards/WikiData/WD~fleshy_fruit,15197056|WD~fleshy_fruit,15197056]]'
+different_from: '[[_Standards/WikiData/WD~berry,16128920|WD~berry,16128920]]'
 instance_of:
-- '[[_Standards/WikiData/WD~botanical_term,27494256]]'
-- '[[_Standards/WikiData/WD~type_of_fruit,28149961]]'
-contains: '[[_Standards/WikiData/WD~seed,40763]]'
+- '[[_Standards/WikiData/WD~botanical_term,27494256|WD~botanical_term,27494256]]'
+- '[[_Standards/WikiData/WD~type_of_fruit,28149961|WD~type_of_fruit,28149961]]'
+contains: '[[_Standards/WikiData/WD~seed,40763|WD~seed,40763]]'
 OmegaWiki_Defined_Meaning: 384870
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bacca.jpg
 MCN_code: 0810.30.00

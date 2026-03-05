@@ -62,12 +62,12 @@ aliases:
 - 公爵領
 - 공작령
 has_id_wikidata: Q154547
-different_from: '[[_Standards/WikiData/WD~grand_duchy,165116]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~duke,166886]]'
-instance_of: '[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]'
+different_from: '[[_Standards/WikiData/WD~grand_duchy,165116|WD~grand_duchy,165116]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~duke,166886|WD~duke,166886]]'
+instance_of: '[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994|WD~administrative_territorial_entity_type,15617994]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~monarchy,7269]]'
-- '[[_Standards/WikiData/WD~state,7275]]'
+- '[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
+- '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
 OmegaWiki_Defined_Meaning: 698996
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8798%20%28ukr%29-Fanat22012-%D0%93%D0%B5%D1%80%D1%86%D0%BE%D0%B3%D1%81%D1%82%D0%B2%D0%BE.wav
 Commons_category: Duchies

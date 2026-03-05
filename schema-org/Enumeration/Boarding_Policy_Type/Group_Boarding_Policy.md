@@ -27,9 +27,9 @@ tags:
 title: is_a_group_boarding_policy Class
 type: Type
 dv_has_:
-  parent_class: "[[../BoardingPolicyType]]"
+  parent_class: "[[../BoardingPolicyType|BoardingPolicyType]]"
 dv_is_:
-  enum_of: "[[../BoardingPolicyType]]"
+  enum_of: "[[../BoardingPolicyType|BoardingPolicyType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy|Group_Boarding_Policy]]"
     - "[[/_public/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.public|Group_Boarding_Policy.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.personal|Group_Boarding_Policy.personal]]"
     - "[[/_secret/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.secret|Group_Boarding_Policy.secret]]"
     - "[[Group_Boarding_Policy]]"
-dv_has_parent_class: "[[../BoardingPolicyType]]"
-dv_is_enum_of: "[[../BoardingPolicyType]]"
+dv_has_parent_class: "[[../BoardingPolicyType|BoardingPolicyType]]"
+dv_is_enum_of: "[[../BoardingPolicyType|BoardingPolicyType]]"
 dv_is_same_as:
   - "[[Group_Boarding_Policy]]"
   - "[[/_public/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.public|Group_Boarding_Policy.public]]"

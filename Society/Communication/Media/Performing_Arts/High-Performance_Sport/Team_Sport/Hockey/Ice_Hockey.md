@@ -104,38 +104,38 @@ aliases:
 - 아이스하키
 has_id_wikidata: Q41466
 different_from:
-- '[[_Standards/WikiData/WD~bandy,183018]]'
-- '[[_Standards/WikiData/WD~ball_hockey,4851253]]'
-- '[[_Standards/WikiData/WD~ice_polo,108352432]]'
-- '[[_Standards/WikiData/WD~field_hockey,1455]]'
-authority: '[[_Standards/WikiData/WD~International_Ice_Hockey_Federation,190173]]'
+- '[[_Standards/WikiData/WD~bandy,183018|WD~bandy,183018]]'
+- '[[_Standards/WikiData/WD~ball_hockey,4851253|WD~ball_hockey,4851253]]'
+- '[[_Standards/WikiData/WD~ice_polo,108352432|WD~ice_polo,108352432]]'
+- '[[_Standards/WikiData/WD~field_hockey,1455|WD~field_hockey,1455]]'
+authority: '[[_Standards/WikiData/WD~International_Ice_Hockey_Federation,190173|WD~International_Ice_Hockey_Federation,190173]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~team_sport,216048]]'
-- '[[_Standards/WikiData/WD~sport_with_racquet_stick_club,13137940]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~sport_with_racquet_stick_club,13137940|WD~sport_with_racquet_stick_club,13137940]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 uses:
-- '[[_Standards/WikiData/WD~ice_hockey_puck,508918]]'
-- '[[_Standards/WikiData/WD~ice_hockey_stick,1121249]]'
-- '[[_Standards/WikiData/WD~ice_hockey_rink,2315928]]'
-- '[[_Standards/WikiData/WD~ice_hockey_skate,12019954]]'
-- '[[_Standards/WikiData/WD~ice_hockey_goal,12019952]]'
+- '[[_Standards/WikiData/WD~ice_hockey_puck,508918|WD~ice_hockey_puck,508918]]'
+- '[[_Standards/WikiData/WD~ice_hockey_stick,1121249|WD~ice_hockey_stick,1121249]]'
+- '[[_Standards/WikiData/WD~ice_hockey_rink,2315928|WD~ice_hockey_rink,2315928]]'
+- '[[_Standards/WikiData/WD~ice_hockey_skate,12019954|WD~ice_hockey_skate,12019954]]'
+- '[[_Standards/WikiData/WD~ice_hockey_goal,12019952|WD~ice_hockey_goal,12019952]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~ice_skating,779272]]'
-- '[[_Standards/WikiData/WD~hockey,1622659]]'
-- '[[_Standards/WikiData/WD~ice_sport,31883501]]'
+- '[[_Standards/WikiData/WD~ice_skating,779272|WD~ice_skating,779272]]'
+- '[[_Standards/WikiData/WD~hockey,1622659|WD~hockey,1622659]]'
+- '[[_Standards/WikiData/WD~ice_sport,31883501|WD~ice_sport,31883501]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~goaltender,1317534]]'
-- '[[_Standards/WikiData/WD~ice_hockey_referee,2859663]]'
-- '[[_Standards/WikiData/WD~ice_hockey_coach,5137576]]'
-- '[[_Standards/WikiData/WD~ice_hockey_player,11774891]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_ice_hockey,1517317]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ice_hockey,8210386]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Ice_Hockey,11343141]]'
+- '[[_Standards/WikiData/WD~goaltender,1317534|WD~goaltender,1317534]]'
+- '[[_Standards/WikiData/WD~ice_hockey_referee,2859663|WD~ice_hockey_referee,2859663]]'
+- '[[_Standards/WikiData/WD~ice_hockey_coach,5137576|WD~ice_hockey_coach,5137576]]'
+- '[[_Standards/WikiData/WD~ice_hockey_player,11774891|WD~ice_hockey_player,11774891]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_ice_hockey,1517317|WD~history_of_ice_hockey,1517317]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ice_hockey,8210386|WD~Portal_Ice_hockey,8210386]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Ice_Hockey,11343141|WD~WikiProject_Ice_Hockey,11343141]]'
 competition_class:
-- "[[_Standards/WikiData/WD~women's_ice_hockey,33107434]]"
-- "[[_Standards/WikiData/WD~men's_ice_hockey,56054955]]"
-country_of_origin: '[[_Standards/WikiData/WD~Canada,16]]'
+- "[[_Standards/WikiData/WD~women's_ice_hockey,33107434|WD~women's_ice_hockey,33107434]]"
+- "[[_Standards/WikiData/WD~men's_ice_hockey,56054955|WD~men's_ice_hockey,56054955]]"
+country_of_origin: '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
 IAB_code: 515
 BHCL_UUID: 68510a43-562d-4d28-9d91-bb52b5f35804
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Ice%20hockey%20pictogram.svg

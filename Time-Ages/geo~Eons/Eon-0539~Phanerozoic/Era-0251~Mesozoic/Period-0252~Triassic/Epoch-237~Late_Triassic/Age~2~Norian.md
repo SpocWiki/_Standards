@@ -25,12 +25,12 @@ aliases:
 - 노리아절
 has_id_wikidata: Q1080207
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Noric_Alps,685267]]'
-named_by: '[[_Standards/WikiData/WD~Johann_August_Georg_Edmund_Mojsisovics_von_Mojsvar,873571]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Norian,21607947]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Noric_Alps,685267|WD~Noric_Alps,685267]]'
+named_by: '[[_Standards/WikiData/WD~Johann_August_Georg_Edmund_Mojsisovics_von_Mojsvar,873571|WD~Johann_August_Georg_Edmund_Mojsisovics_von_Mojsvar,873571]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Norian,21607947|WD~Category_Norian,21607947]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -208500000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Otisk%20stopy%20ceskeho%20dinosaura.jpg
 sRGB_color_hex_triplet: DDB4D1
@@ -148,7 +148,7 @@ has_next_item = `=this.dv_has_next_item`
 A time period from 227 to 208.5 million years ago. 
 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-220_Ma_(Norian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-220_Ma_(Norian_Age).png|Earth-220_Ma_(Norian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

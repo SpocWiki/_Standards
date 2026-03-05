@@ -77,27 +77,27 @@ has_id_wikidata: Q47307
 IPA_transcription:
 - ɡʲɪnʲɪɐˈɫoɡʲɪjə
 - ˌd͡ʒi.ni.ˈɑ.lə.d͡ʒi
-subclass_of: '[[_Standards/WikiData/WD~humanities,80083]]'
+subclass_of: '[[_Standards/WikiData/WD~humanities,80083|WD~humanities,80083]]'
 instance_of:
-- '[[_Standards/WikiData/WD~genre,483394]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~genre,483394|WD~genre,483394]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~auxiliary_science_of_history,770723]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~auxiliary_science_of_history,770723|WD~auxiliary_science_of_history,770723]]'
 different_from:
-- '[[_Standards/WikiData/WD~genealogy,2265584]]'
-- '[[_Standards/WikiData/WD~family_medical_history,2857712]]'
-- '[[_Standards/WikiData/WD~genology,3508604]]'
-- '[[_Standards/WikiData/WD~genealogical_biography,125417108]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Family_tree,5625779]]'
-practiced_by: '[[_Standards/WikiData/WD~genealogist,8963721]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Genealogy,14615777]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Genealogy,19817878]]'
+- '[[_Standards/WikiData/WD~genealogy,2265584|WD~genealogy,2265584]]'
+- '[[_Standards/WikiData/WD~family_medical_history,2857712|WD~family_medical_history,2857712]]'
+- '[[_Standards/WikiData/WD~genology,3508604|WD~genology,3508604]]'
+- '[[_Standards/WikiData/WD~genealogical_biography,125417108|WD~genealogical_biography,125417108]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Family_tree,5625779|WD~Template_Family_tree,5625779]]'
+practiced_by: '[[_Standards/WikiData/WD~genealogist,8963721|WD~genealogist,8963721]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Genealogy,14615777|WD~Portal_Genealogy,14615777]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Genealogy,19817878|WD~WikiProject_Genealogy,19817878]]'
 IAB_code: 273
 Dewey_Decimal_Classification:
 - 920

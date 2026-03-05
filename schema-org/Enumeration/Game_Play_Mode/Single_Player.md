@@ -27,9 +27,9 @@ tags:
 title: is_a_single_player Class
 type: Type
 dv_has_:
-  parent_class: "[[../GamePlayMode]]"
+  parent_class: "[[../GamePlayMode|GamePlayMode]]"
 dv_is_:
-  enum_of: "[[../GamePlayMode]]"
+  enum_of: "[[../GamePlayMode|GamePlayMode]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode/Single_Player|Single_Player]]"
     - "[[/_public/schema-org/Enumeration/Game_Play_Mode/Single_Player.public|Single_Player.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Game_Play_Mode/Single_Player.personal|Single_Player.personal]]"
     - "[[/_secret/schema-org/Enumeration/Game_Play_Mode/Single_Player.secret|Single_Player.secret]]"
     - "[[Single_Player]]"
-dv_has_parent_class: "[[../GamePlayMode]]"
-dv_is_enum_of: "[[../GamePlayMode]]"
+dv_has_parent_class: "[[../GamePlayMode|GamePlayMode]]"
+dv_is_enum_of: "[[../GamePlayMode|GamePlayMode]]"
 dv_is_same_as:
   - "[[Single_Player]]"
   - "[[/_public/schema-org/Enumeration/Game_Play_Mode/Single_Player.public|Single_Player.public]]"

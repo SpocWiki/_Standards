@@ -66,14 +66,14 @@ aliases:
 - 记忆卡
 - 메모리 카드
 has_id_wikidata: Q183731
-has_part_s_: '[[_Standards/WikiData/WD~flash_memory,174077]]'
+has_part_s_: '[[_Standards/WikiData/WD~flash_memory,174077|WD~flash_memory,174077]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~recording_medium,193395]]'
-- '[[_Standards/WikiData/WD~removable_media,37768]]'
-different_from: '[[_Standards/WikiData/WD~memory_module,2308614]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9021773,9021773]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Memory_cards,10703875]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976]]'
+- '[[_Standards/WikiData/WD~recording_medium,193395|WD~recording_medium,193395]]'
+- '[[_Standards/WikiData/WD~removable_media,37768|WD~removable_media,37768]]'
+different_from: '[[_Standards/WikiData/WD~memory_module,2308614|WD~memory_module,2308614]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9021773,9021773|WD~Q9021773,9021773]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Memory_cards,10703875|WD~Template_Memory_cards,10703875]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976|WD~type_of_computer_memory_or_storage,125005976]]'
 GS1_GPC_code: 10001452
 Amazon_com_browse_node: 516866
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Memorycardjf9956%2007.JPG

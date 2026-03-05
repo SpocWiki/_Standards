@@ -70,16 +70,16 @@ aliases:
 - 集權主義
 - 권위주의
 has_id_wikidata: Q6229
-subclass_of: '[[_Standards/WikiData/WD~autocracy,173424]]'
-opposite_of: '[[_Standards/WikiData/WD~anti_authoritarianism,1030234]]'
+subclass_of: '[[_Standards/WikiData/WD~autocracy,173424|WD~autocracy,173424]]'
+opposite_of: '[[_Standards/WikiData/WD~anti_authoritarianism,1030234|WD~anti_authoritarianism,1030234]]'
 instance_of:
-- '[[_Standards/WikiData/WD~form_of_government,1307214]]'
-- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-- '[[_Standards/WikiData/WD~political_system,28108]]'
+- '[[_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~political_system,28108|WD~political_system,28108]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-different_from: '[[_Standards/WikiData/WD~Autorytaryzm,9162703]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+different_from: '[[_Standards/WikiData/WD~Autorytaryzm,9162703|WD~Autorytaryzm,9162703]]'
 OmegaWiki_Defined_Meaning: 352930
 Dewey_Decimal_Classification: 321.9
 Gujarati_Vishwakosh_entry: આપખુદશાહી

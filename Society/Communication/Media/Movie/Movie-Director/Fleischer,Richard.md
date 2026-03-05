@@ -104,7 +104,7 @@ aliases:
 > - Fantastic Voyage (1966), 
 > - the musical film Doctor Dolittle (1967), 
 > - the war epic Tora! Tora! Tora! (1970), 
-> - the dystopian mystery-thriller [[../../../../../../../_private/bio/Medicine/Health/Soylent_Green]] (1973), 
+> - the dystopian mystery-thriller [[../../../../../../../_private/bio/Medicine/Health/Soylent_Green|Soylent_Green]] (1973), 
 > - the controversial period drama Mandingo (1975), and 
 > - the Robert E. Howard sword-and-sorcery films Conan the Destroyer (1984) and Red Sonja (1985). 
 > 
@@ -121,7 +121,7 @@ aliases:
 > - the horror sequel Amityville 3-D (1983). 
 >
 > Fleischer worked with many of the top Hollywood stars of his time, including: 
-> - [[Douglas,Kirk]], [[Robert Mitchum]], [[James Mason]], [[Tony Curtis]], [[Victor Mature]], [[Richard Egan]], [[Ray Milland]], [[Farley Granger]], [[../../books/Authors/Welles,Orson]], Diane Varsi, [[../Actor/US_Actor/Quinn,Anthony]], [[../Actor/British_Actor/Harrison,Rex]], Anthony Newley, [[Mia Farrow]], [[George C. Scott]], [[Charles Bronson]], [[Attenborough,Richard]], [[Charlton Heston]], [[Lee Marvin]], Glenda Jackson, and [[../Actor/US_Actor/Schwarzenegger,Arnold]]. 
+> - [[Douglas,Kirk]], [[Robert Mitchum]], [[James Mason]], [[Tony Curtis]], [[Victor Mature]], [[Richard Egan]], [[Ray Milland]], [[Farley Granger]], [[../../books/Authors/Welles,Orson|Welles,Orson]], Diane Varsi, [[../Actor/US_Actor/Quinn,Anthony|Quinn,Anthony]], [[../Actor/British_Actor/Harrison,Rex|Harrison,Rex]], Anthony Newley, [[Mia Farrow]], [[George C. Scott]], [[Charles Bronson]], [[Attenborough,Richard]], [[Charlton Heston]], [[Lee Marvin]], Glenda Jackson, and [[../Actor/US_Actor/Schwarzenegger,Arnold|Schwarzenegger,Arnold]]. 
 > 
 > He was noted for his versatility, 
 > able to work in almost any genre under wildly varying conditions and budgets, 

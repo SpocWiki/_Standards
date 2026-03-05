@@ -106,7 +106,7 @@ aliases:
 
 # [[ARM(Acorn_RISC_Machine)]] 
 
-[[../Semiconductor-Industry]] 
+[[../Semiconductor-Industry|Semiconductor-Industry]] 
 
 #has_/time_/started :: 
 
@@ -147,9 +147,9 @@ aliases:
 
 
 From 1993 to 1998 Apple was building its [[Apple_Newton]] and needed a low-Power Processor. 
-The [[../AT&T]] Hobbit Processor was not reliable and took too much Power.
+The [[../AT&T|AT&T]] Hobbit Processor was not reliable and took too much Power.
 
-[[../Semiconductor-Industry/Motorola]] already faced a familiar Manufacturing Problem: 
+[[../Semiconductor-Industry/Motorola|Motorola]] already faced a familiar Manufacturing Problem: 
 - Chip Facilities are expensive to operate 
 - but they often don't have the expertise to __design__ Chips 
 

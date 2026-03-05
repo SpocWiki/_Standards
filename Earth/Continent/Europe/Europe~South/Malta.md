@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 马耳他共和国
 dv_UNTERM_French_Formal: la République de Malte
 dv_UNTERM_Russian: Мальта
 dv_UNTERM_Russian_Formal: Республика Мальта
-dv_Region_Name: '[[../../Europe]]'
+dv_Region_Name: '[[../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Malta]]'
 dv_Sub-region_Name: '[[Southern Europe]]'
 dv_Region: 150
@@ -372,9 +372,9 @@ dv_has_:
 dv_has_name_de: Malta
 dv_Area-Total: 316
 dv_Area-Land: 320
-dv_has_place_continent: '[[../../Europe]]'
+dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: M
-dv_Capital: '[[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]'
+dv_Capital: '[[geo/Continent/Europe/Europe~South/Malta/City/Valletta|Valletta]]'
 dv_Alcohol-l: 4.3
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 14.52
@@ -481,90 +481,90 @@ aliases:
 - 몰타
 - "\U0001033C\U00010330\U0001033B\U00010344\U00010330"
 has_id_wikidata: Q233
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Malta,74690]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Malta,74690|WD~Central_Bank_of_Malta,74690]]'
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- '[[_Standards/WikiData/WD~Australia_Group,782942]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]'
-- '[[_Standards/WikiData/WD~Schengen_Area,1969730]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Malta,131469]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Malta,152814]]'
-coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Malta,190085]]'
-anthem: '[[_Standards/WikiData/WD~L-Innu_Malti,192792]]'
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496|WD~International_Centre_for_Migration_Policy_Development,498496]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Eurocontrol,663492|WD~Eurocontrol,663492]]'
+- '[[_Standards/WikiData/WD~Australia_Group,782942|WD~Australia_Group,782942]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[_Standards/WikiData/WD~Schengen_Area,1969730|WD~Schengen_Area,1969730]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785|WD~Commonwealth_of_Nations,7785]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177|WD~Visa_Waiver_Program,45177]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Malta,131469|WD~flag_of_Malta,131469]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Malta,152814|WD~Prime_Minister_of_Malta,152814]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Malta,190085|WD~Coat_of_arms_of_Malta,190085]]'
+anthem: '[[_Standards/WikiData/WD~L-Innu_Malti,192792|WD~L-Innu_Malti,192792]]'
 different_from:
-- '[[_Standards/WikiData/WD~Malta,193896]]'
-- '[[_Standards/WikiData/WD~Malta,1518045]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Malta,243842]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Malta,796593]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Malta,851997]]'
+- '[[_Standards/WikiData/WD~Malta,193896|WD~Malta,193896]]'
+- '[[_Standards/WikiData/WD~Malta,1518045|WD~Malta,1518045]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Malta,243842|WD~history_of_Malta,243842]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Malta,796593|WD~President_of_Malta,796593]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Malta,851997|WD~demographics_of_Malta,851997]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]'
-award_received: '[[_Standards/WikiData/WD~George_Cross,1143510]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Malta,1354023]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795|WD~Meyer_s_Universum,_Erster_Band,126374795]]'
+award_received: '[[_Standards/WikiData/WD~George_Cross,1143510|WD~George_Cross,1143510]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Malta,1354023|WD~economy_of_Malta,1354023]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Fort_Manoel,1366489]]'
-- '[[_Standards/WikiData/WD~Fort_St_Angelo,2207146]]'
-electrical_plug_type: '[[_Standards/WikiData/WD~BS_1363,1528507]]'
-head_of_state: '[[_Standards/WikiData/WD~Myriam_Spiteri_Debono,1647394]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Malta,1763897]]'
-legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Malta,1817866]]'
-highest_point: "[[_Standards/WikiData/WD~Ta'_Dmejrek,1850604]]"
+- '[[_Standards/WikiData/WD~Fort_Manoel,1366489|WD~Fort_Manoel,1366489]]'
+- '[[_Standards/WikiData/WD~Fort_St_Angelo,2207146|WD~Fort_St_Angelo,2207146]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~BS_1363,1528507|WD~BS_1363,1528507]]'
+head_of_state: '[[_Standards/WikiData/WD~Myriam_Spiteri_Debono,1647394|WD~Myriam_Spiteri_Debono,1647394]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Malta,1763897|WD~geography_of_Malta,1763897]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Malta,1817866|WD~Parliament_of_Malta,1817866]]'
+highest_point: "[[_Standards/WikiData/WD~Ta'_Dmejrek,1850604|WD~Ta'_Dmejrek,1850604]]"
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Gozo_Region_(Ghawdex),2054290]]'
-- '[[_Standards/WikiData/WD~Northern_Region_(Tramuntana),20199334]]'
-- '[[_Standards/WikiData/WD~Southern_Region_(Nofsinhar),20199405]]'
-- '[[_Standards/WikiData/WD~Port_Region_(Port),120512566]]'
-- '[[_Standards/WikiData/WD~Western_Region_(Punent),120512576]]'
-- '[[_Standards/WikiData/WD~Eastern_Region_(Lvant),120512582]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Malta,2401292]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_democracy,3043547]]'
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+- '[[_Standards/WikiData/WD~Gozo_Region_(Ghawdex),2054290|WD~Gozo_Region_(Ghawdex),2054290]]'
+- '[[_Standards/WikiData/WD~Northern_Region_(Tramuntana),20199334|WD~Northern_Region_(Tramuntana),20199334]]'
+- '[[_Standards/WikiData/WD~Southern_Region_(Nofsinhar),20199405|WD~Southern_Region_(Nofsinhar),20199405]]'
+- '[[_Standards/WikiData/WD~Port_Region_(Port),120512566|WD~Port_Region_(Port),120512566]]'
+- '[[_Standards/WikiData/WD~Western_Region_(Punent),120512576|WD~Western_Region_(Punent),120512576]]'
+- '[[_Standards/WikiData/WD~Eastern_Region_(Lvant),120512582|WD~Eastern_Region_(Lvant),120512582]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Malta,2401292|WD~culture_of_Malta,2401292]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_democracy,3043547|WD~parliamentary_democracy,3043547]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Maltese_Islands,3803158]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_Malta,5589242]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Maltese_Islands,3803158|WD~Maltese_Islands,3803158]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Malta,5589242|WD~Government_of_Malta,5589242]]'
 replaces:
-- '[[_Standards/WikiData/WD~Crown_Colony_of_Malta,6744657]]'
-- '[[_Standards/WikiData/WD~State_of_Malta,7603765]]'
+- '[[_Standards/WikiData/WD~Crown_Colony_of_Malta,6744657|WD~Crown_Colony_of_Malta,6744657]]'
+- '[[_Standards/WikiData/WD~State_of_Malta,7603765|WD~State_of_Malta,7603765]]'
 language_used:
-- '[[_Standards/WikiData/WD~Maltese_Sign_Language,6744816]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Maltese,9166]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Malta,7112348]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Malta,11256685]]'
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Regions_of_Malta,18182604]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22665616,22665616]]'
-head_of_government: '[[_Standards/WikiData/WD~Robert_Abela,37860840]]'
-open_data_portal: '[[_Standards/WikiData/WD~Malta_Data_Portal,97012118]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Constitutional_Court_of_Malta,119988571]]'
+- '[[_Standards/WikiData/WD~Maltese_Sign_Language,6744816|WD~Maltese_Sign_Language,6744816]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Maltese,9166|WD~Maltese,9166]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Malta,7112348|WD~outline_of_Malta,7112348]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Malta,11256685|WD~Portal_Malta,11256685]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Regions_of_Malta,18182604|WD~Template_Regions_of_Malta,18182604]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22665616,22665616|WD~Q22665616,22665616]]'
+head_of_government: '[[_Standards/WikiData/WD~Robert_Abela,37860840|WD~Robert_Abela,37860840]]'
+open_data_portal: '[[_Standards/WikiData/WD~Malta_Data_Portal,97012118|WD~Malta_Data_Portal,97012118]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Constitutional_Court_of_Malta,119988571|WD~Constitutional_Court_of_Malta,119988571]]'
 coordinate_location: Point(14.5 35.883333333)
 demonym:
 - مالطية
@@ -613,53 +613,53 @@ MeSH_tree_code:
 - Z01.542.580.500.650
 - Z01.639.640.650
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Libya,1016]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Spain,29]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- '[[_Standards/WikiData/WD~Portugal,45]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Belarus,184]]'
-- '[[_Standards/WikiData/WD~Slovakia,214]]'
-- '[[_Standards/WikiData/WD~Ukraine,212]]'
-- '[[_Standards/WikiData/WD~Cyprus,229]]'
+- '[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Libya,1016|WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Portugal,45|WD~Portugal,45]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Slovakia,214|WD~Slovakia,214]]'
+- '[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Cyprus,229|WD~Cyprus,229]]'
 part_of:
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]'
-- '[[_Standards/WikiData/WD~European_Economic_Area,8932]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785|WD~Commonwealth_of_Nations,7785]]'
+- '[[_Standards/WikiData/WD~European_Economic_Area,8932|WD~European_Economic_Area,8932]]'
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Maltese,9166]]'
-lowest_point: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-named_after: '[[_Standards/WikiData/WD~honey,10987]]'
-capital: '[[_Standards/WikiData/WD~Valletta,23800]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Maltese,9166|WD~Maltese,9166]]'
+lowest_point: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
+named_after: '[[_Standards/WikiData/WD~honey,10987|WD~honey,10987]]'
+capital: '[[_Standards/WikiData/WD~Valletta,23800|WD~Valletta,23800]]'
 located_in_on_physical_feature:
-- '[[_Standards/WikiData/WD~Southern_Europe,27449]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
-shares_border_with: '[[_Standards/WikiData/WD~Italy,38]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Southern_Europe,27449|WD~Southern_Europe,27449]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+shares_border_with: '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Malta.map
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Malta.svg
-country: '[[_Standards/WikiData/WD~Malta,233]]'
+country: '[[_Standards/WikiData/WD~Malta,233|WD~Malta,233]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/EU-Malta.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malta.svg
 pronunciation_audio:
@@ -686,7 +686,7 @@ birth_rate:
 - 8.5
 - 8.6
 total_fertility_rate: 1.38
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.mt,41856]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mt,41856|WD~.mt,41856]]'
 area: 316
 Happy_Planet_Index_score: 43.5
 IPA_transcription: ˈmalʲtə
@@ -867,7 +867,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Malta/ReadMe]] 
+[[Malta/ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -891,7 +891,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Malta.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Malta.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Malta.mp3|Anthem-Malta.mp3]]
 ![[Flag_of_Malta.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]

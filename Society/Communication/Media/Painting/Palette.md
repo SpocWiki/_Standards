@@ -31,14 +31,14 @@ aliases:
 - 調色盤
 - 조색판
 has_id_wikidata: Q425548
-different_from: '[[_Standards/WikiData/WD~pallet,505996]]'
+different_from: '[[_Standards/WikiData/WD~pallet,505996|WD~pallet,505996]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~painting_material,3300034]]'
-- '[[_Standards/WikiData/WD~arts_and_craft_tool,115923203]]'
+- '[[_Standards/WikiData/WD~painting_material,3300034|WD~painting_material,3300034]]'
+- '[[_Standards/WikiData/WD~arts_and_craft_tool,115923203|WD~arts_and_craft_tool,115923203]]'
 Nomenclature_for_Museum_Cataloging: 6660
 OmegaWiki_Defined_Meaning: 826884
 Iconclass_notation: 48C5152

@@ -71,17 +71,17 @@ aliases:
 - 제2차 이탈리아-에티오피아 전쟁
 has_id_wikidata: Q94916
 participant:
-- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-- '[[_Standards/WikiData/WD~Ethiopian_Empire,207521]]'
-location: '[[_Standards/WikiData/WD~Ethiopian_Empire,207521]]'
-different_from: '[[_Standards/WikiData/WD~Italo_Abyssinian_War,443393]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579|WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~Ethiopian_Empire,207521|WD~Ethiopian_Empire,207521]]'
+location: '[[_Standards/WikiData/WD~Ethiopian_Empire,207521|WD~Ethiopian_Empire,207521]]'
+different_from: '[[_Standards/WikiData/WD~Italo_Abyssinian_War,443393|WD~Italo_Abyssinian_War,443393]]'
 order_of_battle:
-- '[[_Standards/WikiData/WD~Ethiopian_order_of_battle_in_the_Second_Italo_Ethiopian_War,5403639]]'
-- '[[_Standards/WikiData/WD~Italian_Order_of_Battle_Second_Italo_Ethiopian_War,6092894]]'
+- '[[_Standards/WikiData/WD~Ethiopian_order_of_battle_in_the_Second_Italo_Ethiopian_War,5403639|WD~Ethiopian_order_of_battle_in_the_Second_Italo_Ethiopian_War,5403639]]'
+- '[[_Standards/WikiData/WD~Italian_Order_of_Battle_Second_Italo_Ethiopian_War,6092894|WD~Italian_Order_of_Battle_Second_Italo_Ethiopian_War,6092894]]'
 number_of_deaths:
 - 20000
 - 275000
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 number_of_injured:
 - 500000
 - 188000

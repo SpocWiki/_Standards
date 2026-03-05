@@ -62,12 +62,12 @@ aliases:
 - 프로그래밍 패러다임
 has_id_wikidata: Q188267
 subclass_of:
-- '[[_Standards/WikiData/WD~programming_style,962139]]'
-- '[[_Standards/WikiData/WD~paradigm,28643]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Programming_paradigms_navbox,8084577]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~programming_style,962139|WD~programming_style,962139]]'
+- '[[_Standards/WikiData/WD~paradigm,28643|WD~paradigm,28643]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Programming_paradigms_navbox,8084577|WD~Template_Programming_paradigms_navbox,8084577]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 Wikidata_property: programming paradigm
-facet_of: '[[_Standards/WikiData/WD~computer_science,21198]]'
+facet_of: '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
 OmegaWiki_Defined_Meaning: 975466
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Programming%20paradigms.svg
 Stack_Exchange_tag: https://stackoverflow.com/tags/paradigms

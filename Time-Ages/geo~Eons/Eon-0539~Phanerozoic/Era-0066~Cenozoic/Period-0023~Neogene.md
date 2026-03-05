@@ -61,13 +61,13 @@ aliases:
 - 晚第三纪
 - 신진기
 has_id_wikidata: Q103924
-named_by: '[[_Standards/WikiData/WD~Moriz_Hoernes,115209]]'
+named_by: '[[_Standards/WikiData/WD~Moriz_Hoernes,115209|WD~Moriz_Hoernes,115209]]'
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
-different_from: '[[_Standards/WikiData/WD~Neogene_(genus),1382612]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+different_from: '[[_Standards/WikiData/WD~Neogene_(genus),1382612|WD~Neogene_(genus),1382612]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 start_time: -23030000-01-01T00:00:00Z
 end_time: -2580000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%2015%20Ma%20%28Langhian%20Age%29.png
@@ -251,7 +251,7 @@ has_text_of_color = `=this.dv_has_text_of_color`
 
 A time period from 23.03 to 2.58 million years ago. 
 
-![[../../../../../xLarge/Earth/Geology/Earth-015_Ma_(Langhian_Age).png]] 
+![[../../../../../xLarge/Earth/Geology/Earth-015_Ma_(Langhian_Age).png|Earth-015_Ma_(Langhian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

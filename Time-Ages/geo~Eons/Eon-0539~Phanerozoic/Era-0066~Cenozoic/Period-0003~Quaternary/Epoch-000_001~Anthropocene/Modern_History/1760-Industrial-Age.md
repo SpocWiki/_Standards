@@ -16,7 +16,7 @@ aliases:
 - 工业时代
 - 工業時代
 has_id_wikidata: Q6027480
-instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
+instance_of: '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
 end_time: http://www.wikidata.org/.well-known/genid/50726dda28afe48ca6eb721a7fb581bb
 start_time: 1780-01-01T00:00:00Z
 dv_has_:

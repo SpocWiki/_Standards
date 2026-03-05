@@ -139,25 +139,25 @@ aliases:
 - 산맥
 has_id_wikidata: Q46831
 subclass_of:
-- '[[_Standards/WikiData/WD~region,82794]]'
-- '[[_Standards/WikiData/WD~landform,271669]]'
-- '[[_Standards/WikiData/WD~natural_geographic_object,35145263]]'
+- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
+- '[[_Standards/WikiData/WD~landform,271669|WD~landform,271669]]'
+- '[[_Standards/WikiData/WD~natural_geographic_object,35145263|WD~natural_geographic_object,35145263]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~non_geologically_related_mountain_range,1437459]]'
-- '[[_Standards/WikiData/WD~Main_chain,12021227]]'
-part_of: '[[_Standards/WikiData/WD~non_geologically_related_mountain_range,1437459]]'
+- '[[_Standards/WikiData/WD~non_geologically_related_mountain_range,1437459|WD~non_geologically_related_mountain_range,1437459]]'
+- '[[_Standards/WikiData/WD~Main_chain,12021227|WD~Main_chain,12021227]]'
+part_of: '[[_Standards/WikiData/WD~non_geologically_related_mountain_range,1437459|WD~non_geologically_related_mountain_range,1437459]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~mountain_chain,2624046]]'
-- '[[_Standards/WikiData/WD~hill_chain,9381142]]'
-- '[[_Standards/WikiData/WD~group_of_mountains,56406134]]'
+- '[[_Standards/WikiData/WD~mountain_chain,2624046|WD~mountain_chain,2624046]]'
+- '[[_Standards/WikiData/WD~hill_chain,9381142|WD~hill_chain,9381142]]'
+- '[[_Standards/WikiData/WD~group_of_mountains,56406134|WD~group_of_mountains,56406134]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~mountain_chain,2624046]]'
-- '[[_Standards/WikiData/WD~mountain,8502]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_mountain_range,6243636]]'
+- '[[_Standards/WikiData/WD~mountain_chain,2624046|WD~mountain_chain,2624046]]'
+- '[[_Standards/WikiData/WD~mountain,8502|WD~mountain,8502]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_mountain_range,6243636|WD~Template_Infobox_mountain_range,6243636]]'
 Wikidata_property: mountain range
 OmegaWiki_Defined_Meaning: 2425
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20154483%20cc%20Franco%20Mateo%20mountain%20icon.svg
@@ -171,7 +171,7 @@ GeoNames_feature_code: T.MTS
 OpenStreetMap_tag: natural=mountain_range
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Mountain_range,46831]]'
+  - '[[../../../WikiData/WD~Mountain_range,46831|WD~Mountain_range,46831]]'
   - '[[/_Standards/Earth/Geology/Landform/Mountain_Range|Mountain_Range]]'
   - '[[/_public/Earth/Geology/Landform/Mountain_Range.public|Mountain_Range.public]]'
   - '[[/_internal/Earth/Geology/Landform/Mountain_Range.internal|Mountain_Range.internal]]'
@@ -180,7 +180,7 @@ dv_is_:
   - '[[/_personal/Earth/Geology/Landform/Mountain_Range.personal|Mountain_Range.personal]]'
   - '[[/_secret/Earth/Geology/Landform/Mountain_Range.secret|Mountain_Range.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Mountain_range,46831]]'
+- '[[../../../WikiData/WD~Mountain_range,46831|WD~Mountain_range,46831]]'
 - '[[/_Standards/Earth/Geology/Landform/Mountain_Range|Mountain_Range]]'
 - '[[/_public/Earth/Geology/Landform/Mountain_Range.public|Mountain_Range.public]]'
 - '[[/_internal/Earth/Geology/Landform/Mountain_Range.internal|Mountain_Range.internal]]'

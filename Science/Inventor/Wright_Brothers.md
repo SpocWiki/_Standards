@@ -106,26 +106,26 @@ aliases:
 - 라이트 형제
 has_id_wikidata: Q35820
 instance_of:
-- '[[_Standards/WikiData/WD~team,327245]]'
-- '[[_Standards/WikiData/WD~sibling_duo,14073567]]'
+- '[[_Standards/WikiData/WD~team,327245|WD~team,327245]]'
+- '[[_Standards/WikiData/WD~sibling_duo,14073567|WD~sibling_duo,14073567]]'
 award_received:
-- '[[_Standards/WikiData/WD~National_Aviation_Hall_of_Fame,488005]]'
-- '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
-- '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
-- '[[_Standards/WikiData/WD~Washington_Award,7971681]]'
+- '[[_Standards/WikiData/WD~National_Aviation_Hall_of_Fame,488005|WD~National_Aviation_Hall_of_Fame,488005]]'
+- '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743|WD~Congressional_Gold_Medal,721743]]'
+- '[[_Standards/WikiData/WD~Franklin_Medal,3141777|WD~Franklin_Medal,3141777]]'
+- '[[_Standards/WikiData/WD~Washington_Award,7971681|WD~Washington_Award,7971681]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Orville_Wright,494455]]'
-- '[[_Standards/WikiData/WD~Wilbur_Wright,1396131]]'
+- '[[_Standards/WikiData/WD~Orville_Wright,494455|WD~Orville_Wright,494455]]'
+- '[[_Standards/WikiData/WD~Wilbur_Wright,1396131|WD~Wilbur_Wright,1396131]]'
 has_works_in_the_collection:
-- '[[_Standards/WikiData/WD~National_Air_and_Space_Museum,752669]]'
-- '[[_Standards/WikiData/WD~Aviodrome,791082]]'
+- '[[_Standards/WikiData/WD~National_Air_and_Space_Museum,752669|WD~National_Air_and_Space_Museum,752669]]'
+- '[[_Standards/WikiData/WD~Aviodrome,791082|WD~Aviodrome,791082]]'
 occupation:
-- '[[_Standards/WikiData/WD~design_engineer,1779650]]'
-- '[[_Standards/WikiData/WD~military_flight_engineer,10497074]]'
-industry: '[[_Standards/WikiData/WD~aerospace_industry,3477363]]'
+- '[[_Standards/WikiData/WD~design_engineer,1779650|WD~design_engineer,1779650]]'
+- '[[_Standards/WikiData/WD~military_flight_engineer,10497074|WD~military_flight_engineer,10497074]]'
+industry: '[[_Standards/WikiData/WD~aerospace_industry,3477363|WD~aerospace_industry,3477363]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WrightBrothers.jpg
 Krugosvet_article_archived_: nauka_i_tehnika/aviaciya_i_kosmonavtika/RAT.html
 Commons_gallery: Wright brothers

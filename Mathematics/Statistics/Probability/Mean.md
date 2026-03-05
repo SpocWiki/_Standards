@@ -67,13 +67,13 @@ aliases:
 - 평균값
 has_id_wikidata: Q2796622
 instance_of:
-- '[[_Standards/WikiData/WD~umbrella_term,210588]]'
-- '[[_Standards/WikiData/WD~type_of_statistic,47103999]]'
-- '[[_Standards/WikiData/WD~sourcing_circumstance,104637420]]'
-subclass_of: '[[_Standards/WikiData/WD~central_tendency,734219]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q22884851,22884851]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~umbrella_term,210588|WD~umbrella_term,210588]]'
+- '[[_Standards/WikiData/WD~type_of_statistic,47103999|WD~type_of_statistic,47103999]]'
+- '[[_Standards/WikiData/WD~sourcing_circumstance,104637420|WD~sourcing_circumstance,104637420]]'
+subclass_of: '[[_Standards/WikiData/WD~central_tendency,734219|WD~central_tendency,734219]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q22884851,22884851|WD~Q22884851,22884851]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 Commons_category: Means
 dv_has_:
   name_:

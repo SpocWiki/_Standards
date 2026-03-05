@@ -71,8 +71,8 @@ aliases:
 - 電子配置
 - 전자 배열
 has_id_wikidata: Q53859
-depicts: '[[_Standards/WikiData/WD~electron_shell,193793]]'
-subclass_of: '[[_Standards/WikiData/WD~quality,1207505]]'
+depicts: '[[_Standards/WikiData/WD~electron_shell,193793|WD~electron_shell,193793]]'
+subclass_of: '[[_Standards/WikiData/WD~quality,1207505|WD~quality,1207505]]'
 main_Wikidata_property: electron configuration
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20orbitals%20crop.svg
 Commons_category: Electron configurations

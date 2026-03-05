@@ -94,28 +94,28 @@ aliases:
 - 강간
 has_id_wikidata: Q47092
 instance_of:
-- '[[_Standards/WikiData/WD~violence,124490]]'
-- '[[_Standards/WikiData/WD~sexual_harassment,751722]]'
+- '[[_Standards/WikiData/WD~violence,124490|WD~violence,124490]]'
+- '[[_Standards/WikiData/WD~sexual_harassment,751722|WD~sexual_harassment,751722]]'
 has_effect:
-- '[[_Standards/WikiData/WD~injury_in_humans,193078]]'
-- '[[_Standards/WikiData/WD~psychological_trauma,654426]]'
-does_not_have_characteristic: '[[_Standards/WikiData/WD~consent,231043]]'
+- '[[_Standards/WikiData/WD~injury_in_humans,193078|WD~injury_in_humans,193078]]'
+- '[[_Standards/WikiData/WD~psychological_trauma,654426|WD~psychological_trauma,654426]]'
+does_not_have_characteristic: '[[_Standards/WikiData/WD~consent,231043|WD~consent,231043]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-subclass_of: '[[_Standards/WikiData/WD~sexual_assault,673281]]'
-has_characteristic: '[[_Standards/WikiData/WD~sexual_penetration,2148678]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subclass_of: '[[_Standards/WikiData/WD~sexual_assault,673281|WD~sexual_assault,673281]]'
+has_characteristic: '[[_Standards/WikiData/WD~sexual_penetration,2148678|WD~sexual_penetration,2148678]]'
 different_from:
-- '[[_Standards/WikiData/WD~reproductive_coercion,7314307]]'
-- '[[_Standards/WikiData/WD~Q16556217,16556217]]'
+- '[[_Standards/WikiData/WD~reproductive_coercion,7314307|WD~reproductive_coercion,7314307]]'
+- '[[_Standards/WikiData/WD~Q16556217,16556217|WD~Q16556217,16556217]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~rape_of_males,11343419]]'
-- '[[_Standards/WikiData/WD~rape_of_women,107364970]]'
-practiced_by: '[[_Standards/WikiData/WD~rapist,22962951]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-depicted_by: '[[_Standards/WikiData/WD~Column_base_with_the_Rape_of_Auge,131704797]]'
-opposite_of: '[[_Standards/WikiData/WD~consensual_sex,134998037]]'
+- '[[_Standards/WikiData/WD~rape_of_males,11343419|WD~rape_of_males,11343419]]'
+- '[[_Standards/WikiData/WD~rape_of_women,107364970|WD~rape_of_women,107364970]]'
+practiced_by: '[[_Standards/WikiData/WD~rapist,22962951|WD~rapist,22962951]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+depicted_by: '[[_Standards/WikiData/WD~Column_base_with_the_Rape_of_Auge,131704797|WD~Column_base_with_the_Rape_of_Auge,131704797]]'
+opposite_of: '[[_Standards/WikiData/WD~consensual_sex,134998037|WD~consensual_sex,134998037]]'
 social_media_followers: 52991
 OmegaWiki_Defined_Meaning: 413697
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Vergewaltigung.ogg

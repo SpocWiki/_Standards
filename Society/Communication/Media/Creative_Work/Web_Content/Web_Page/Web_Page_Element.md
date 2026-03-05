@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A web page element, like a table or an image.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ SiteNavigationElement, Table, WPAdBlock, WPFooter, WPHeader, WPSideBar ]  
 

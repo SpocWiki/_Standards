@@ -36,9 +36,9 @@ A construction business.
 
 A HomeAndConstructionBusiness is a [[LocalBusiness]] that provides services around homes and buildings.
 
-As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[../Service]]s.
+As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[../Service|Service]]s.
 
-#has_/parent_class :: [[../LocalBusiness]]  
+#has_/parent_class :: [[../LocalBusiness|LocalBusiness]]  
 
 #has_/child_/class :: [ Electrician, GeneralContractor, HVACBusiness, HousePainter, Locksmith, MovingCompany, Plumber, RoofingContractor ]  
 

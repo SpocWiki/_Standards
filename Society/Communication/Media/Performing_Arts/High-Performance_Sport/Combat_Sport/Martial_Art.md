@@ -110,43 +110,43 @@ has_id_wikidata: Q11417
 Baidu_Tieba_name: 武术
 Commons_category: Martial arts
 GitHub_topic: martial-arts
-has_list: '[[_Standards/WikiData/WD~list_of_martial_arts,180524]]'
+has_list: '[[_Standards/WikiData/WD~list_of_martial_arts,180524|WD~list_of_martial_arts,180524]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~blocking,195872]]'
-- '[[_Standards/WikiData/WD~grappling_hold,196431]]'
-- '[[_Standards/WikiData/WD~rule,1151067]]'
-- '[[_Standards/WikiData/WD~strike,3242199]]'
-- '[[_Standards/WikiData/WD~dodging,111017056]]'
-- '[[_Standards/WikiData/WD~kata,40795]]'
-has_use: '[[_Standards/WikiData/WD~close_combat,15041854]]'
+- '[[_Standards/WikiData/WD~blocking,195872|WD~blocking,195872]]'
+- '[[_Standards/WikiData/WD~grappling_hold,196431|WD~grappling_hold,196431]]'
+- '[[_Standards/WikiData/WD~rule,1151067|WD~rule,1151067]]'
+- '[[_Standards/WikiData/WD~strike,3242199|WD~strike,3242199]]'
+- '[[_Standards/WikiData/WD~dodging,111017056|WD~dodging,111017056]]'
+- '[[_Standards/WikiData/WD~kata,40795|WD~kata,40795]]'
+has_use: '[[_Standards/WikiData/WD~close_combat,15041854|WD~close_combat,15041854]]'
 history_of_topic:
-- '[[_Standards/WikiData/WD~Martial_arts_timeline,6774717]]'
-- '[[_Standards/WikiData/WD~history_of_martial_arts,17112053]]'
+- '[[_Standards/WikiData/WD~Martial_arts_timeline,6774717|WD~Martial_arts_timeline,6774717]]'
+- '[[_Standards/WikiData/WD~history_of_martial_arts,17112053|WD~history_of_martial_arts,17112053]]'
 IAB_code: 520
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Martial%20arts%20-%20Fragrant%20Hills.JPG
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~type_of_arts,56055944|WD~type_of_arts,56055944]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 IPTC_NewsCode: mediatopic/20001157
 Krugosvet_article: sport/BOEVIE_ISKUSSTVA.html
 MeSH_tree_code: I03.450.642.845.560
 OmegaWiki_Defined_Meaning: 724567
 OpenStreetMap_tag_or_key: Tag:sport=martial_arts
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Martial%20arts%20Flying%20sidekick.jpg
-partially_coincident_with: '[[_Standards/WikiData/WD~combat_sport,7128792]]'
-practiced_by: '[[_Standards/WikiData/WD~martial_artist,11124885]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~combat_sport,7128792|WD~combat_sport,7128792]]'
+practiced_by: '[[_Standards/WikiData/WD~martial_artist,11124885|WD~martial_artist,11124885]]'
 social_media_followers: 243846
 Stack_Exchange_site_URL: https://martialarts.stackexchange.com
 subclass_of:
-- '[[_Standards/WikiData/WD~tradition,82821]]'
-- '[[_Standards/WikiData/WD~art,735]]'
+- '[[_Standards/WikiData/WD~tradition,82821|WD~tradition,82821]]'
+- '[[_Standards/WikiData/WD~art,735|WD~art,735]]'
 subreddit: martialarts
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_martial_art,5915378]]'
-- '[[_Standards/WikiData/WD~Template_Martial_arts,6141234]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Martial_arts,14614552]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_martial_art,5915378|WD~Template_Infobox_martial_art,5915378]]'
+- '[[_Standards/WikiData/WD~Template_Martial_arts,6141234|WD~Template_Martial_arts,6141234]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Martial_arts,14614552|WD~Portal_Martial_arts,14614552]]'
 U_S_National_Archives_Identifier: 10637896
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_martial_arts,7112681]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_martial_arts,7112681|WD~outline_of_martial_arts,7112681]]'
 dv_has_:
   name_:
     af: vegkuns

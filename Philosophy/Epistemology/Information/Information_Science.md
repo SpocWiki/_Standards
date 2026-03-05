@@ -67,27 +67,27 @@ aliases:
 - 정보과학
 has_id_wikidata: Q16387
 different_from:
-- '[[_Standards/WikiData/WD~communication_theory,83966]]'
-- '[[_Standards/WikiData/WD~information_theory,131222]]'
-- '[[_Standards/WikiData/WD~informatics,4027615]]'
+- '[[_Standards/WikiData/WD~communication_theory,83966|WD~communication_theory,83966]]'
+- '[[_Standards/WikiData/WD~information_theory,131222|WD~information_theory,131222]]'
+- '[[_Standards/WikiData/WD~informatics,4027615|WD~informatics,4027615]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~library_science,199655]]'
-- '[[_Standards/WikiData/WD~administrative_organisation,2405713]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~documentation_science,1235196]]'
+- '[[_Standards/WikiData/WD~library_science,199655|WD~library_science,199655]]'
+- '[[_Standards/WikiData/WD~administrative_organisation,2405713|WD~administrative_organisation,2405713]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~documentation_science,1235196|WD~documentation_science,1235196]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~information_scientist,1265807]]'
-- '[[_Standards/WikiData/WD~information_professional,1662485]]'
-- '[[_Standards/WikiData/WD~metadata_librarian,80490291]]'
-- '[[_Standards/WikiData/WD~keeper_of_the_Archives,112972233]]'
-- '[[_Standards/WikiData/WD~Bachelor_of_Information_Science,117473389]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_information_science,7112667]]'
+- '[[_Standards/WikiData/WD~information_scientist,1265807|WD~information_scientist,1265807]]'
+- '[[_Standards/WikiData/WD~information_professional,1662485|WD~information_professional,1662485]]'
+- '[[_Standards/WikiData/WD~metadata_librarian,80490291|WD~metadata_librarian,80490291]]'
+- '[[_Standards/WikiData/WD~keeper_of_the_Archives,112972233|WD~keeper_of_the_Archives,112972233]]'
+- '[[_Standards/WikiData/WD~Bachelor_of_Information_Science,117473389|WD~Bachelor_of_Information_Science,117473389]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_information_science,7112667|WD~outline_of_information_science,7112667]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~information_science_term,125186879]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Information_science,15947422]]'
-has_characteristic: '[[_Standards/WikiData/WD~information_science_award,134603651]]'
-subclass_of: '[[_Standards/WikiData/WD~science,336]]'
-is_the_study_of: '[[_Standards/WikiData/WD~information,11028]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~information_science_term,125186879|WD~information_science_term,125186879]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Information_science,15947422|WD~Template_Information_science,15947422]]'
+has_characteristic: '[[_Standards/WikiData/WD~information_science_award,134603651|WD~information_science_award,134603651]]'
+subclass_of: '[[_Standards/WikiData/WD~science,336|WD~science,336]]'
+is_the_study_of: '[[_Standards/WikiData/WD~information,11028|WD~information,11028]]'
 U_S_National_Archives_Identifier: 10638969
 Dewey_Decimal_Classification: 000
 Classification_of_Instructional_Programs_code:

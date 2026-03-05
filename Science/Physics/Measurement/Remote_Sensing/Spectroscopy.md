@@ -59,23 +59,23 @@ aliases:
 - ﻃﯿﻒ ﺑﯿﻨﯽ
 has_id_wikidata: Q483666
 uses:
-- '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]'
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~spectroscope,26897128]]'
+- '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139|WD~electromagnetic_spectrum,133139]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~spectroscope,26897128|WD~spectroscope,26897128]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-- '[[_Standards/WikiData/WD~analytical_chemical_technique,4751159]]'
-- '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_spectroscopy,5868895]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Branches_of_spectroscopy,6725243]]'
-practiced_by: '[[_Standards/WikiData/WD~spectroscopist,89189132]]'
-different_from: '[[_Standards/WikiData/WD~dynamic_force_spectroscopy,102290484]]'
-has_characteristic: '[[_Standards/WikiData/WD~spectroscopy_award,136405680]]'
-subclass_of: '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
+- '[[_Standards/WikiData/WD~analytical_chemical_technique,4751159|WD~analytical_chemical_technique,4751159]]'
+- '[[_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_spectroscopy,5868895|WD~history_of_spectroscopy,5868895]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Branches_of_spectroscopy,6725243|WD~Template_Branches_of_spectroscopy,6725243]]'
+practiced_by: '[[_Standards/WikiData/WD~spectroscopist,89189132|WD~spectroscopist,89189132]]'
+different_from: '[[_Standards/WikiData/WD~dynamic_force_spectroscopy,102290484|WD~dynamic_force_spectroscopy,102290484]]'
+has_characteristic: '[[_Standards/WikiData/WD~spectroscopy_award,136405680|WD~spectroscopy_award,136405680]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_chemistry,11372|WD~physical_chemistry,11372]]'
 OmegaWiki_Defined_Meaning: 3585
 All_Science_Journal_Classification_Codes: 1607
 Basisklassifikation: 33.07

@@ -102,18 +102,18 @@ aliases:
 - 永續發展
 - 지속 가능한 발전
 has_id_wikidata: Q131201
-has_characteristic: '[[_Standards/WikiData/WD~sustainability,219416]]'
-facet_of: '[[_Standards/WikiData/WD~human_development,2917873]]'
+has_characteristic: '[[_Standards/WikiData/WD~sustainability,219416|WD~sustainability,219416]]'
+facet_of: '[[_Standards/WikiData/WD~human_development,2917873|WD~human_development,2917873]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~development,7562091]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-studied_by: '[[_Standards/WikiData/WD~urban_studies,23578769]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Sustainable_Development,56507949]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_policy,96251375]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~development,7562091|WD~development,7562091]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+studied_by: '[[_Standards/WikiData/WD~urban_studies,23578769|WD~urban_studies,23578769]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Sustainable_Development,56507949|WD~WikiProject_Sustainable_Development,56507949]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_policy,96251375|WD~type_of_policy,96251375]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836|WD~Dictionnaire_des_biens_communs,120799836]]'
 Library_of_Congress_Classification: HC79.E5
 Commons_category: Sustainable development
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sustainable%20development.svg

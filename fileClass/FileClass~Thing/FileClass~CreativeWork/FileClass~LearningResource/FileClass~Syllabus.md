@@ -23,7 +23,7 @@ version: 2.0
 # Syllabus
 This is a kind of [[FileClass~LearningResource]]
 
-A syllabus that describes the material covered in a course, often with several such sections per [[../../../../Society/Communication/Media/Creative_Work/Course]] so that a distinct [[timeRequired]] can be provided for that section of the [[../../../../Society/Communication/Media/Creative_Work/Course]].
+A syllabus that describes the material covered in a course, often with several such sections per [[../../../../Society/Communication/Media/Creative_Work/Course|Course]] so that a distinct [[timeRequired]] can be provided for that section of the [[../../../../Society/Communication/Media/Creative_Work/Course|Course]].
 
 
 ## Use one of these Tags for Objects of this Type:

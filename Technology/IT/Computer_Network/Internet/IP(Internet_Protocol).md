@@ -38,16 +38,16 @@ aliases:
 - 互联网协议套件
 - 인터넷 프로토콜 스위트
 has_id_wikidata: Q81414
-part_of: '[[_Standards/WikiData/WD~TCP_IP_model,1233025]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Transmission_Control_Protocol_Internet_Protocol,2449472]]'
+part_of: '[[_Standards/WikiData/WD~TCP_IP_model,1233025|WD~TCP_IP_model,1233025]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Transmission_Control_Protocol_Internet_Protocol,2449472|WD~Transmission_Control_Protocol_Internet_Protocol,2449472]]'
 uses:
-- '[[_Standards/WikiData/WD~Q2551624,2551624]]'
-- '[[_Standards/WikiData/WD~Internet_Protocol_version_4,11103]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_IPstack,6435257]]'
-subclass_of: '[[_Standards/WikiData/WD~computer_network_protocol,15836568]]'
+- '[[_Standards/WikiData/WD~Q2551624,2551624|WD~Q2551624,2551624]]'
+- '[[_Standards/WikiData/WD~Internet_Protocol_version_4,11103|WD~Internet_Protocol_version_4,11103]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_IPstack,6435257|WD~Template_IPstack,6435257]]'
+subclass_of: '[[_Standards/WikiData/WD~computer_network_protocol,15836568|WD~computer_network_protocol,15836568]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Internet_Protocol,8795]]'
-- '[[_Standards/WikiData/WD~Transmission_Control_Protocol,8803]]'
+- '[[_Standards/WikiData/WD~Internet_Protocol,8795|WD~Internet_Protocol,8795]]'
+- '[[_Standards/WikiData/WD~Transmission_Control_Protocol,8803|WD~Transmission_Control_Protocol,8803]]'
 time_of_discovery_or_invention: 1975-01-01T00:00:00Z
 Commons_category: Internet protocols
 image:

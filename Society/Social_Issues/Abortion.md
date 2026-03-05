@@ -119,51 +119,51 @@ has_id_wikidata: Q8452
 Baidu_Tieba_name: 人流
 BHCL_UUID: 31762c04-e2da-43eb-9030-2b5996b05f98
 Commons_category: Abortion
-connects_with: '[[_Standards/WikiData/WD~right_to_life,25822]]'
+connects_with: '[[_Standards/WikiData/WD~right_to_life,25822|WD~right_to_life,25822]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 different_from:
-- '[[_Standards/WikiData/WD~preterm_birth,625506]]'
-- '[[_Standards/WikiData/WD~stillbirth,745832]]'
-- '[[_Standards/WikiData/WD~infanticide,916412]]'
-- '[[_Standards/WikiData/WD~labor_induction,1497276]]'
-- '[[_Standards/WikiData/WD~paper_abortion,17165614]]'
-- '[[_Standards/WikiData/WD~miscarriage,28693]]'
+- '[[_Standards/WikiData/WD~preterm_birth,625506|WD~preterm_birth,625506]]'
+- '[[_Standards/WikiData/WD~stillbirth,745832|WD~stillbirth,745832]]'
+- '[[_Standards/WikiData/WD~infanticide,916412|WD~infanticide,916412]]'
+- '[[_Standards/WikiData/WD~labor_induction,1497276|WD~labor_induction,1497276]]'
+- '[[_Standards/WikiData/WD~paper_abortion,17165614|WD~paper_abortion,17165614]]'
+- '[[_Standards/WikiData/WD~miscarriage,28693|WD~miscarriage,28693]]'
 DiseasesDB: 4153
-has_characteristic: '[[_Standards/WikiData/WD~controversy,1255828]]'
-has_part_s_: '[[_Standards/WikiData/WD~Islam_and_abortion,6081762]]'
-health_specialty: '[[_Standards/WikiData/WD~obstetrics,5284418]]'
+has_characteristic: '[[_Standards/WikiData/WD~controversy,1255828|WD~controversy,1255828]]'
+has_part_s_: '[[_Standards/WikiData/WD~Islam_and_abortion,6081762|WD~Islam_and_abortion,6081762]]'
+health_specialty: '[[_Standards/WikiData/WD~obstetrics,5284418|WD~obstetrics,5284418]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/23%20674673M%20001-detail.jpg
-instance_of: '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
+instance_of: '[[_Standards/WikiData/WD~cause_of_death,1931388|WD~cause_of_death,1931388]]'
 IPTC_NewsCode: mediatopic/20000785
 main_regulatory_text:
-- '[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]'
-- '[[_Standards/WikiData/WD~Criminal_Code_of_Russia,747110]]'
-- '[[_Standards/WikiData/WD~Legge_22_maggio_1978,_n._194,30888465]]'
+- '[[_Standards/WikiData/WD~Strafgesetzbuch,674827|WD~Strafgesetzbuch,674827]]'
+- '[[_Standards/WikiData/WD~Criminal_Code_of_Russia,747110|WD~Criminal_Code_of_Russia,747110]]'
+- '[[_Standards/WikiData/WD~Legge_22_maggio_1978,_n._194,30888465|WD~Legge_22_maggio_1978,_n._194,30888465]]'
 MeSH_tree_code: E04.520.050
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 P8189: 987007292966705171
 PhilPapers_topic: abortion
-practiced_by: '[[_Standards/WikiData/WD~abortion_provider,113667146]]'
+practiced_by: '[[_Standards/WikiData/WD~abortion_provider,113667146|WD~abortion_provider,113667146]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%97%E0%AC%B0%E0%AD%8D%E0%AC%AD%E0%AC%AA%E0%AC%BE%E0%AC%A4.wav
 subclass_of:
-- '[[_Standards/WikiData/WD~feticide,663296]]'
-- '[[_Standards/WikiData/WD~renunciation,7313594]]'
-- '[[_Standards/WikiData/WD~medical_procedure_type,55214844]]'
-- '[[_Standards/WikiData/WD~pregnancy_with_abortive_outcome,96649463]]'
+- '[[_Standards/WikiData/WD~feticide,663296|WD~feticide,663296]]'
+- '[[_Standards/WikiData/WD~renunciation,7313594|WD~renunciation,7313594]]'
+- '[[_Standards/WikiData/WD~medical_procedure_type,55214844|WD~medical_procedure_type,55214844]]'
+- '[[_Standards/WikiData/WD~pregnancy_with_abortive_outcome,96649463|WD~pregnancy_with_abortive_outcome,96649463]]'
 Terminologia_Embryologica: E1.0.4.0.0.0.5
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Abortion,6667033]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Abortion,6667033|WD~Template_Abortion,6667033]]'
 UMLS_CUI: C0392535
 U_S_National_Archives_Identifier: 10639595
 dv_has_:
@@ -343,7 +343,7 @@ dv_has_:
 
 # [[Abortion]] 
 
-#is_/same_as :: [[../../WikiData/WD~Abortion,8452]] 
+#is_/same_as :: [[../../WikiData/WD~Abortion,8452|WD~Abortion,8452]] 
 
 ## #has_/text_of_/abstract 
 

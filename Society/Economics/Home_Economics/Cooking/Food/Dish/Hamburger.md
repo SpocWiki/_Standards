@@ -71,38 +71,38 @@ aliases:
 - 햄버거
 has_id_wikidata: Q6663
 has_part_s_:
-- '[[_Standards/WikiData/WD~Lactuca_sativa,83193]]'
-- '[[_Standards/WikiData/WD~cucumber,2735883]]'
-- '[[_Standards/WikiData/WD~patty,3200265]]'
-- '[[_Standards/WikiData/WD~onion,3406628]]'
-- '[[_Standards/WikiData/WD~tomato,20638126]]'
-- '[[_Standards/WikiData/WD~meat,10990]]'
-- '[[_Standards/WikiData/WD~Allium,49391]]'
+- '[[_Standards/WikiData/WD~Lactuca_sativa,83193|WD~Lactuca_sativa,83193]]'
+- '[[_Standards/WikiData/WD~cucumber,2735883|WD~cucumber,2735883]]'
+- '[[_Standards/WikiData/WD~patty,3200265|WD~patty,3200265]]'
+- '[[_Standards/WikiData/WD~onion,3406628|WD~onion,3406628]]'
+- '[[_Standards/WikiData/WD~tomato,20638126|WD~tomato,20638126]]'
+- '[[_Standards/WikiData/WD~meat,10990|WD~meat,10990]]'
+- '[[_Standards/WikiData/WD~Allium,49391|WD~Allium,49391]]'
 has_use:
-- '[[_Standards/WikiData/WD~eating,213449]]'
-- '[[_Standards/WikiData/WD~burger_eating_contest,63554032]]'
+- '[[_Standards/WikiData/WD~eating,213449|WD~eating,213449]]'
+- '[[_Standards/WikiData/WD~burger_eating_contest,63554032|WD~burger_eating_contest,63554032]]'
 instance_of:
-- '[[_Standards/WikiData/WD~dish,746549]]'
-- '[[_Standards/WikiData/WD~snack,749316]]'
-- '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
-course: '[[_Standards/WikiData/WD~main_course,772630]]'
+- '[[_Standards/WikiData/WD~dish,746549|WD~dish,746549]]'
+- '[[_Standards/WikiData/WD~snack,749316|WD~snack,749316]]'
+- '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951|WD~type_of_food_or_dish,19861951]]'
+course: '[[_Standards/WikiData/WD~main_course,772630|WD~main_course,772630]]'
 model_item:
-- '[[_Standards/WikiData/WD~Whopper,1135327]]'
-- "[[_Standards/WikiData/WD~the_last_McDonald's_burger_in_Iceland,73491844]]"
+- '[[_Standards/WikiData/WD~Whopper,1135327|WD~Whopper,1135327]]'
+- "[[_Standards/WikiData/WD~the_last_McDonald's_burger_in_Iceland,73491844|WD~the_last_McDonald's_burger_in_Iceland,73491844]]"
 made_from_material:
-- '[[_Standards/WikiData/WD~patty,3200265]]'
-- '[[_Standards/WikiData/WD~burger_bun,117234715]]'
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
-serving_temperature: '[[_Standards/WikiData/WD~hot,28128222]]'
-subclass_of: '[[_Standards/WikiData/WD~burger,111981894]]'
+- '[[_Standards/WikiData/WD~patty,3200265|WD~patty,3200265]]'
+- '[[_Standards/WikiData/WD~burger_bun,117234715|WD~burger_bun,117234715]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
+serving_temperature: '[[_Standards/WikiData/WD~hot,28128222|WD~hot,28128222]]'
+subclass_of: '[[_Standards/WikiData/WD~burger,111981894|WD~burger,111981894]]'
 start_time: 1758-01-01T00:00:00Z
 named_after:
-- '[[_Standards/WikiData/WD~Hamburg,1055]]'
-- '[[_Standards/WikiData/WD~sandwich,28803]]'
+- '[[_Standards/WikiData/WD~Hamburg,1055|WD~Hamburg,1055]]'
+- '[[_Standards/WikiData/WD~sandwich,28803|WD~sandwich,28803]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-cuisine: '[[_Standards/WikiData/WD~cuisine_of_the_United_States,40578]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+cuisine: '[[_Standards/WikiData/WD~cuisine_of_the_United_States,40578|WD~cuisine_of_the_United_States,40578]]'
 booru_tag: burger
 Danbooru_tag: burger
 hashtag_: burger

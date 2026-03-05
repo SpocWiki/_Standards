@@ -76,17 +76,17 @@ aliases:
 - 群论
 - 군론
 has_id_wikidata: Q874429
-is_the_study_of: '[[_Standards/WikiData/WD~group,83478]]'
+is_the_study_of: '[[_Standards/WikiData/WD~group,83478|WD~group,83478]]'
 part_of:
-- '[[_Standards/WikiData/WD~abstract_algebra,159943]]'
-- '[[_Standards/WikiData/WD~theory_of_monoids,114705886]]'
-- '[[_Standards/WikiData/WD~algebra,3968]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~abstract_algebra,159943|WD~abstract_algebra,159943]]'
+- '[[_Standards/WikiData/WD~theory_of_monoids,114705886|WD~theory_of_monoids,114705886]]'
+- '[[_Standards/WikiData/WD~algebra,3968|WD~algebra,3968]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of:
-- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-subclass_of: '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918|WD~mathematical_theory,20026918]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
 Commons_category: Group theory
 Stack_Exchange_tag:
 - https://cstheory.stackexchange.com/tags/gr.group-theory

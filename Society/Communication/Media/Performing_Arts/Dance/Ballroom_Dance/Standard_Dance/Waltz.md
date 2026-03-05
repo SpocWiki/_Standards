@@ -43,16 +43,16 @@ aliases:
 - 왈츠
 has_id_wikidata: Q193434
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-subclass_of: '[[_Standards/WikiData/WD~ballroom_dance,1085001]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+subclass_of: '[[_Standards/WikiData/WD~ballroom_dance,1085001|WD~ballroom_dance,1085001]]'
 different_from:
-- '[[_Standards/WikiData/WD~waltz,1087985]]'
-- '[[_Standards/WikiData/WD~waltz,8701407]]'
-time_signature: '[[_Standards/WikiData/WD~3_4,50353360]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
+- '[[_Standards/WikiData/WD~waltz,1087985|WD~waltz,1087985]]'
+- '[[_Standards/WikiData/WD~waltz,8701407|WD~waltz,8701407]]'
+time_signature: '[[_Standards/WikiData/WD~3_4,50353360|WD~3_4,50353360]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104|WD~type_of_dance,107357104]]'
 Commons_category: Waltz
 IMDb_keyword: waltz
 alternative_name:

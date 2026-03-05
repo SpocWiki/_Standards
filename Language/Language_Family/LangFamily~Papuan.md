@@ -65,18 +65,18 @@ aliases:
 - 파푸아 제어
 has_id_wikidata: Q236425
 indigenous_to:
-- '[[_Standards/WikiData/WD~Papuan_people,424129]]'
-- '[[_Standards/WikiData/WD~North_Halmahera_peoples,4412611]]'
-- '[[_Standards/WikiData/WD~Alor_Pantar_peoples,86733085]]'
-instance_of: '[[_Standards/WikiData/WD~language_group,941501]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-has_list: '[[_Standards/WikiData/WD~list_of_Papuan_languages,4435636]]'
-subclass_of: '[[_Standards/WikiData/WD~human_language,20162172]]'
+- '[[_Standards/WikiData/WD~Papuan_people,424129|WD~Papuan_people,424129]]'
+- '[[_Standards/WikiData/WD~North_Halmahera_peoples,4412611|WD~North_Halmahera_peoples,4412611]]'
+- '[[_Standards/WikiData/WD~Alor_Pantar_peoples,86733085|WD~Alor_Pantar_peoples,86733085]]'
+instance_of: '[[_Standards/WikiData/WD~language_group,941501|WD~language_group,941501]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Papuan_languages,4435636|WD~list_of_Papuan_languages,4435636]]'
+subclass_of: '[[_Standards/WikiData/WD~human_language,20162172|WD~human_language,20162172]]'
 country:
-- '[[_Standards/WikiData/WD~Timor_Leste,574]]'
-- '[[_Standards/WikiData/WD~Solomon_Islands,685]]'
-- '[[_Standards/WikiData/WD~Papua_New_Guinea,691]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~Timor_Leste,574|WD~Timor_Leste,574]]'
+- '[[_Standards/WikiData/WD~Solomon_Islands,685|WD~Solomon_Islands,685]]'
+- '[[_Standards/WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]'
+- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
 number_of_speakers_writers_or_signers: 4600000
 ISO_639_5_code: paa
 IETF_language_tag: paa

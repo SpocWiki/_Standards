@@ -58,21 +58,21 @@ aliases:
 - 專家系統
 - 전문가 시스템
 has_id_wikidata: Q184609
-significant_person: '[[_Standards/WikiData/WD~Edward_Feigenbaum,92823]]'
+significant_person: '[[_Standards/WikiData/WD~Edward_Feigenbaum,92823|WD~Edward_Feigenbaum,92823]]'
 has_use:
-- '[[_Standards/WikiData/WD~planning,309100]]'
-- '[[_Standards/WikiData/WD~surveillance,334401]]'
-- '[[_Standards/WikiData/WD~prediction,748250]]'
-- '[[_Standards/WikiData/WD~interpretation,855395]]'
+- '[[_Standards/WikiData/WD~planning,309100|WD~planning,309100]]'
+- '[[_Standards/WikiData/WD~surveillance,334401|WD~surveillance,334401]]'
+- '[[_Standards/WikiData/WD~prediction,748250|WD~prediction,748250]]'
+- '[[_Standards/WikiData/WD~interpretation,855395|WD~interpretation,855395]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~knowledge_base,593744]]'
-- '[[_Standards/WikiData/WD~inference_engine,1341685]]'
-- '[[_Standards/WikiData/WD~user_interface,47146]]'
-significant_event: '[[_Standards/WikiData/WD~Cyc,1147294]]'
+- '[[_Standards/WikiData/WD~knowledge_base,593744|WD~knowledge_base,593744]]'
+- '[[_Standards/WikiData/WD~inference_engine,1341685|WD~inference_engine,1341685]]'
+- '[[_Standards/WikiData/WD~user_interface,47146|WD~user_interface,47146]]'
+significant_event: '[[_Standards/WikiData/WD~Cyc,1147294|WD~Cyc,1147294]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~knowledge_based_system,1412694]]'
-- '[[_Standards/WikiData/WD~artificial_intelligence,11660]]'
-- '[[_Standards/WikiData/WD~computer_program,40056]]'
+- '[[_Standards/WikiData/WD~knowledge_based_system,1412694|WD~knowledge_based_system,1412694]]'
+- '[[_Standards/WikiData/WD~artificial_intelligence,11660|WD~artificial_intelligence,11660]]'
+- '[[_Standards/WikiData/WD~computer_program,40056|WD~computer_program,40056]]'
 IEV_number:
 - 171-09-18
 - 351-42-37

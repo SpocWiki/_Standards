@@ -54,11 +54,11 @@ aliases:
 - 猶太教改革派
 - 개혁파 유대교
 has_id_wikidata: Q1133485
-motto: '[[_Standards/WikiData/WD~Tikkun_olam,164290]]'
-subclass_of: '[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914]]'
-instance_of: '[[_Standards/WikiData/WD~Jewish_religious_movements,3001185]]'
+motto: '[[_Standards/WikiData/WD~Tikkun_olam,164290|WD~Tikkun_olam,164290]]'
+subclass_of: '[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914|WD~Rabbinic_Judaism,1366914]]'
+instance_of: '[[_Standards/WikiData/WD~Jewish_religious_movements,3001185|WD~Jewish_religious_movements,3001185]]'
 inception: 1900-01-01T00:00:00Z
-religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268|WD~Judaism,9268]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Congregation%20Emanu-El%20of%20the%20City%20New%20York.jpg
 Commons_category: Reform Judaism
 native_label: יהדות רפורמית

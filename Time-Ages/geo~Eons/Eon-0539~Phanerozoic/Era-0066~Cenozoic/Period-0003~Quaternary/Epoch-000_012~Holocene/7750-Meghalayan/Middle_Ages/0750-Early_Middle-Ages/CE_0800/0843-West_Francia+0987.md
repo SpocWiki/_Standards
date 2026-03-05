@@ -63,25 +63,25 @@ aliases:
 - 西法蘭克王國
 - 서프랑크 왕국
 has_id_wikidata: Q46370
-replaced_by: '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
-followed_by: '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
-follows: '[[_Standards/WikiData/WD~Francia,146246]]'
+replaced_by: '[[_Standards/WikiData/WD~Kingdom_of_France,70972|WD~Kingdom_of_France,70972]]'
+followed_by: '[[_Standards/WikiData/WD~Kingdom_of_France,70972|WD~Kingdom_of_France,70972]]'
+follows: '[[_Standards/WikiData/WD~Francia,146246|WD~Francia,146246]]'
 currency:
-- '[[_Standards/WikiData/WD~pfennig,165717]]'
-- '[[_Standards/WikiData/WD~denarius,187776]]'
-- '[[_Standards/WikiData/WD~triens,1249059]]'
-language_used: '[[_Standards/WikiData/WD~Gallo_Romance,500394]]'
+- '[[_Standards/WikiData/WD~pfennig,165717|WD~pfennig,165717]]'
+- '[[_Standards/WikiData/WD~denarius,187776|WD~denarius,187776]]'
+- '[[_Standards/WikiData/WD~triens,1249059|WD~triens,1249059]]'
+language_used: '[[_Standards/WikiData/WD~Gallo_Romance,500394|WD~Gallo_Romance,500394]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Kingdom_of_Brittany,771193]]'
-- '[[_Standards/WikiData/WD~emirate_of_Córdoba,1337854]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~hereditary_monarchy,849242]]'
-instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~king_of_West_Francia,29168087]]'
-replaces: '[[_Standards/WikiData/WD~Carolingian_Empire,31929]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
-capital: '[[_Standards/WikiData/WD~Paris,90]]'
-official_language: '[[_Standards/WikiData/WD~Old_French,35222]]'
-named_after: '[[_Standards/WikiData/WD~Franks,43482]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Brittany,771193|WD~Kingdom_of_Brittany,771193]]'
+- '[[_Standards/WikiData/WD~emirate_of_Córdoba,1337854|WD~emirate_of_Córdoba,1337854]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~hereditary_monarchy,849242|WD~hereditary_monarchy,849242]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~king_of_West_Francia,29168087|WD~king_of_West_Francia,29168087]]'
+replaces: '[[_Standards/WikiData/WD~Carolingian_Empire,31929|WD~Carolingian_Empire,31929]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+capital: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
+official_language: '[[_Standards/WikiData/WD~Old_French,35222|WD~Old_French,35222]]'
+named_after: '[[_Standards/WikiData/WD~Franks,43482|WD~Franks,43482]]'
 Commons_category: Maps of the Kingdom of the West Franks
 dissolved_abolished_or_demolished_date: 0987-01-01T00:00:00Z
 inception: 0843-01-01T00:00:00Z

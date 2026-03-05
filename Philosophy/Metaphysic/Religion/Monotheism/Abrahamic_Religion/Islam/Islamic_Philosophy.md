@@ -72,21 +72,21 @@ aliases:
 - 이슬람 철학
 has_id_wikidata: Q193104
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
-- '[[_Standards/WikiData/WD~topic,26256810]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436|WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855|WD~cultural_movement,2198855]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234|WD~branch_of_philosophy,22811234]]'
+- '[[_Standards/WikiData/WD~topic,26256810|WD~topic,26256810]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~History_Of_Islamic_Philosophy,27924107]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~History_Of_Islamic_Philosophy,27924107|WD~History_Of_Islamic_Philosophy,27924107]]'
 part_of:
-- '[[_Standards/WikiData/WD~religious_philosophy,2054106]]'
-- '[[_Standards/WikiData/WD~Islamic_theology,12818349]]'
-- '[[_Standards/WikiData/WD~Middle_Eastern_philosophy,28454636]]'
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Arab_philosophy,105103616]]'
+- '[[_Standards/WikiData/WD~religious_philosophy,2054106|WD~religious_philosophy,2054106]]'
+- '[[_Standards/WikiData/WD~Islamic_theology,12818349|WD~Islamic_theology,12818349]]'
+- '[[_Standards/WikiData/WD~Middle_Eastern_philosophy,28454636|WD~Middle_Eastern_philosophy,28454636]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Arab_philosophy,105103616|WD~Arab_philosophy,105103616]]'
 Dewey_Decimal_Classification_works_and_editions_: 189.1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Arabic%20aristotle.jpg
 Stack_Exchange_tag: https://islam.stackexchange.com/tags/islamic-philosophy

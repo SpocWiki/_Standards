@@ -36,9 +36,9 @@ aliases:
 - 新古典樂
 - 신고전주의 음악
 has_id_wikidata: Q535611
-part_of: '[[_Standards/WikiData/WD~20th_century_classical_music,1338153]]'
-instance_of: '[[_Standards/WikiData/WD~musical_movement,12020884]]'
-facet_of: '[[_Standards/WikiData/WD~neoclassical_music,106576145]]'
+part_of: '[[_Standards/WikiData/WD~20th_century_classical_music,1338153|WD~20th_century_classical_music,1338153]]'
+instance_of: '[[_Standards/WikiData/WD~musical_movement,12020884|WD~musical_movement,12020884]]'
+facet_of: '[[_Standards/WikiData/WD~neoclassical_music,106576145|WD~neoclassical_music,106576145]]'
 dv_has_:
   name_:
     ar: موسيقى كلاسيكية حديثة

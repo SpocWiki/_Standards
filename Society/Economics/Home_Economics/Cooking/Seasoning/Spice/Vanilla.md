@@ -56,16 +56,16 @@ aliases:
 - 香草
 - 바닐라
 has_id_wikidata: Q13241
-part_of: '[[_Standards/WikiData/WD~fortune_cookie,782794]]'
+part_of: '[[_Standards/WikiData/WD~fortune_cookie,782794|WD~fortune_cookie,782794]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-different_from: '[[_Standards/WikiData/WD~Vanilla_Forums,1956271]]'
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Vanilla_planifolia,7224923]]'
-smells_of: '[[_Standards/WikiData/WD~scent_of_vanilla,136644578]]'
-has_active_ingredient: '[[_Standards/WikiData/WD~vanillin,33495]]'
-subclass_of: '[[_Standards/WikiData/WD~spice,42527]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+different_from: '[[_Standards/WikiData/WD~Vanilla_Forums,1956271|WD~Vanilla_Forums,1956271]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Vanilla_planifolia,7224923|WD~Vanilla_planifolia,7224923]]'
+smells_of: '[[_Standards/WikiData/WD~scent_of_vanilla,136644578|WD~scent_of_vanilla,136644578]]'
+has_active_ingredient: '[[_Standards/WikiData/WD~vanillin,33495|WD~vanillin,33495]]'
+subclass_of: '[[_Standards/WikiData/WD~spice,42527|WD~spice,42527]]'
 OmegaWiki_Defined_Meaning: 1150243
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vanilla%206beans.JPG
 Commons_category: Vanilla

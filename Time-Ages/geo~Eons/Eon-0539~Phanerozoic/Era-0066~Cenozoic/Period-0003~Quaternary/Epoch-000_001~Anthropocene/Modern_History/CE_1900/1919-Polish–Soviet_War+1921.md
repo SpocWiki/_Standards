@@ -70,15 +70,15 @@ aliases:
 - 폴란드-소비에트 연방 전쟁
 has_id_wikidata: Q186284
 participant:
-- '[[_Standards/WikiData/WD~Lithuanian_Byelorussian_Soviet_Socialist_Republic,76236]]'
-- '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
-- '[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]'
-- '[[_Standards/WikiData/WD~Polish_Socialistic_Soviet_Republic,24948646]]'
-- '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
-- '[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]'
-location: '[[_Standards/WikiData/WD~Central_and_Eastern_Europe,900636]]'
-order_of_battle: '[[_Standards/WikiData/WD~Polish_Soviet_War_Polish_order_of_battle,7209808]]'
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+- '[[_Standards/WikiData/WD~Lithuanian_Byelorussian_Soviet_Socialist_Republic,76236|WD~Lithuanian_Byelorussian_Soviet_Socialist_Republic,76236]]'
+- '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356|WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
+- '[[_Standards/WikiData/WD~Second_Polish_Republic,207272|WD~Second_Polish_Republic,207272]]'
+- '[[_Standards/WikiData/WD~Polish_Socialistic_Soviet_Republic,24948646|WD~Polish_Socialistic_Soviet_Republic,24948646]]'
+- '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184|WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
+- '[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895|WD~Byelorussian_Soviet_Socialist_Republic,2895]]'
+location: '[[_Standards/WikiData/WD~Central_and_Eastern_Europe,900636|WD~Central_and_Eastern_Europe,900636]]'
+order_of_battle: '[[_Standards/WikiData/WD~Polish_Soviet_War_Polish_order_of_battle,7209808|WD~Polish_Soviet_War_Polish_order_of_battle,7209808]]'
+instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Polish-soviet%20war%201920%20Polish%20defences%20near%20Milosna%2C%20August.jpg
 Universal_Decimal_Classification: 355.48(47:438)"1919/1921"
 Commons_category: Polish-Soviet War
@@ -87,7 +87,7 @@ point_in_time: 1920-10-18T00:00:00Z
 start_time: 1919-02-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Polish–Soviet_War,186284]]'
+  - '[[../../../../../../../../WikiData/WD~Polish–Soviet_War,186284|WD~Polish–Soviet_War,186284]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921|1919-Polish–Soviet_War+1921]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.public|1919-Polish–Soviet_War+1921.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.internal|1919-Polish–Soviet_War+1921.internal]]'
@@ -96,7 +96,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.personal|1919-Polish–Soviet_War+1921.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.secret|1919-Polish–Soviet_War+1921.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Polish–Soviet_War,186284]]'
+- '[[../../../../../../../../WikiData/WD~Polish–Soviet_War,186284|WD~Polish–Soviet_War,186284]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921|1919-Polish–Soviet_War+1921]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.public|1919-Polish–Soviet_War+1921.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.internal|1919-Polish–Soviet_War+1921.internal]]'

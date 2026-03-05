@@ -34,11 +34,11 @@ aliases:
 - 纽科门蒸汽机
 - 蒸気機関
 has_id_wikidata: Q2224989
-named_after: '[[_Standards/WikiData/WD~Thomas_Newcomen,193042]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Thomas_Newcomen,193042]]'
+named_after: '[[_Standards/WikiData/WD~Thomas_Newcomen,193042|WD~Thomas_Newcomen,193042]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Thomas_Newcomen,193042|WD~Thomas_Newcomen,193042]]'
 start_time: 1712-01-01T00:00:00Z
 time_of_discovery_or_invention: 1712-01-01T00:00:00Z
-subclass_of: '[[_Standards/WikiData/WD~steam_engine,12760]]'
+subclass_of: '[[_Standards/WikiData/WD~steam_engine,12760|WD~steam_engine,12760]]'
 Commons_category: Newcomen engines
 dv_has_:
   name_:
@@ -101,8 +101,8 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Newcomen%20atmospheric%20engine) 
 
 
-[[../../../../../assets/Newcomen_Steam_Engine.jpeg]]
-![[../../../../../assets/Newcomen_Steam_Engine.jpeg]]
+[[../../../../../assets/Newcomen_Steam_Engine.jpeg|Newcomen_Steam_Engine.jpeg]]
+![[../../../../../assets/Newcomen_Steam_Engine.jpeg|Newcomen_Steam_Engine.jpeg]]
 
 
 ## Confidential Links & Embeds: 

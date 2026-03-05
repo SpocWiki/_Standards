@@ -60,26 +60,26 @@ aliases:
 - 가족계획
 has_id_wikidata: Q1280670
 has_part_s_:
-- '[[_Standards/WikiData/WD~birth_control,122224]]'
-- '[[_Standards/WikiData/WD~adoption,180472]]'
-- '[[_Standards/WikiData/WD~sex_education,192280]]'
-- '[[_Standards/WikiData/WD~abortion,8452]]'
+- '[[_Standards/WikiData/WD~birth_control,122224|WD~birth_control,122224]]'
+- '[[_Standards/WikiData/WD~adoption,180472|WD~adoption,180472]]'
+- '[[_Standards/WikiData/WD~sex_education,192280|WD~sex_education,192280]]'
+- '[[_Standards/WikiData/WD~abortion,8452|WD~abortion,8452]]'
 facet_of:
-- '[[_Standards/WikiData/WD~human_population_control,130819]]'
-- '[[_Standards/WikiData/WD~sex_education,192280]]'
-- "[[_Standards/WikiData/WD~women's_health,8031191]]"
-- '[[_Standards/WikiData/WD~family,8436]]'
-subclass_of: '[[_Standards/WikiData/WD~planning,309100]]'
-has_use: '[[_Standards/WikiData/WD~climate_change_mitigation,898653]]'
-instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+- '[[_Standards/WikiData/WD~human_population_control,130819|WD~human_population_control,130819]]'
+- '[[_Standards/WikiData/WD~sex_education,192280|WD~sex_education,192280]]'
+- "[[_Standards/WikiData/WD~women's_health,8031191|WD~women's_health,8031191]]"
+- '[[_Standards/WikiData/WD~family,8436|WD~family,8436]]'
+subclass_of: '[[_Standards/WikiData/WD~planning,309100|WD~planning,309100]]'
+has_use: '[[_Standards/WikiData/WD~climate_change_mitigation,898653|WD~climate_change_mitigation,898653]]'
+instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752|WD~medical_specialty,930752]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
-- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Project_Drawdown,27218199]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-followed_by: '[[_Standards/WikiData/WD~starting_a_family,130746549]]'
+- '[[_Standards/WikiData/WD~Project_Drawdown,27218199|WD~Project_Drawdown,27218199]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+followed_by: '[[_Standards/WikiData/WD~starting_a_family,130746549|WD~starting_a_family,130746549]]'
 Dewey_Decimal_Classification:
 - 363.96
 - 304.666

@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../../../../../WikiData/WD~Kalmar_Union,62623]]'
+  - '[[../../../../../../WikiData/WD~Kalmar_Union,62623|WD~Kalmar_Union,62623]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523|1397-Kalmar_Union-1523]]'
   - '[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.public|1397-Kalmar_Union-1523.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.internal|1397-Kalmar_Union-1523.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.personal|1397-Kalmar_Union-1523.personal]]'
   - '[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.secret|1397-Kalmar_Union-1523.secret]]'
 dv_is_same_as:
-- '[[../../../../../../WikiData/WD~Kalmar_Union,62623]]'
+- '[[../../../../../../WikiData/WD~Kalmar_Union,62623|WD~Kalmar_Union,62623]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523|1397-Kalmar_Union-1523]]'
 - '[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.public|1397-Kalmar_Union-1523.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.internal|1397-Kalmar_Union-1523.internal]]'

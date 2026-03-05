@@ -68,13 +68,13 @@ location:
 - -75
 - -175
 coordinate_location: Point(-175.0 -75.0)
-shares_border_with: '[[_Standards/WikiData/WD~Victoria_Land,208965]]'
-inflows: '[[_Standards/WikiData/WD~Alph_River,2840070]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Southern_Ocean,7354]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Ocean,7354]]'
-continent: '[[_Standards/WikiData/WD~Antarctica,51]]'
-instance_of: '[[_Standards/WikiData/WD~sea,165]]'
+shares_border_with: '[[_Standards/WikiData/WD~Victoria_Land,208965|WD~Victoria_Land,208965]]'
+inflows: '[[_Standards/WikiData/WD~Alph_River,2840070|WD~Alph_River,2840070]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062|WD~Antarctic_Treaty_area,21590062]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Southern_Ocean,7354|WD~Southern_Ocean,7354]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Ocean,7354|WD~Southern_Ocean,7354]]'
+continent: '[[_Standards/WikiData/WD~Antarctica,51|WD~Antarctica,51]]'
+instance_of: '[[_Standards/WikiData/WD~sea,165|WD~sea,165]]'
 area:
 - 960000
 - 637000

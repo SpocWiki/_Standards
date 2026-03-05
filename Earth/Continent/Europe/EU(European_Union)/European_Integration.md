@@ -53,15 +53,15 @@ aliases:
 - 유럽 통합
 has_id_wikidata: Q1048268
 instance_of:
-- '[[_Standards/WikiData/WD~social_integration,370735]]'
-- '[[_Standards/WikiData/WD~regional_integration,462668]]'
-- '[[_Standards/WikiData/WD~economic_integration,729438]]'
-- '[[_Standards/WikiData/WD~political_integration,11713283]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-opposite_of: '[[_Standards/WikiData/WD~European_disintegration,20851159]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_European_integration,27915419]]'
-studied_by: '[[_Standards/WikiData/WD~European_integration_studies,108371114]]'
-locations: '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~social_integration,370735|WD~social_integration,370735]]'
+- '[[_Standards/WikiData/WD~regional_integration,462668|WD~regional_integration,462668]]'
+- '[[_Standards/WikiData/WD~economic_integration,729438|WD~economic_integration,729438]]'
+- '[[_Standards/WikiData/WD~political_integration,11713283|WD~political_integration,11713283]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+opposite_of: '[[_Standards/WikiData/WD~European_disintegration,20851159|WD~European_disintegration,20851159]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_European_integration,27915419|WD~history_of_European_integration,27915419]]'
+studied_by: '[[_Standards/WikiData/WD~European_integration_studies,108371114|WD~European_integration_studies,108371114]]'
+locations: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/European%20Spaces%20Map.svg
 dv_is_:
   same_as:

@@ -58,22 +58,22 @@ aliases:
 - 하키
 has_id_wikidata: Q1622659
 has_part_s_:
-- '[[_Standards/WikiData/WD~bandy,183018]]'
-- '[[_Standards/WikiData/WD~floorball,206763]]'
-- '[[_Standards/WikiData/WD~inline_hockey,946171]]'
-- '[[_Standards/WikiData/WD~para_ice_hockey,963312]]'
-- '[[_Standards/WikiData/WD~indoor_hockey,974015]]'
-- '[[_Standards/WikiData/WD~floor_hockey,1058877]]'
-- '[[_Standards/WikiData/WD~street_hockey,1551265]]'
-- '[[_Standards/WikiData/WD~roller_hockey_(quad),1748406]]'
-- '[[_Standards/WikiData/WD~minkey,6867823]]'
-- '[[_Standards/WikiData/WD~field_hockey,1455]]'
-- '[[_Standards/WikiData/WD~ice_hockey,41466]]'
-subclass_of: '[[_Standards/WikiData/WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~bandy,183018|WD~bandy,183018]]'
+- '[[_Standards/WikiData/WD~floorball,206763|WD~floorball,206763]]'
+- '[[_Standards/WikiData/WD~inline_hockey,946171|WD~inline_hockey,946171]]'
+- '[[_Standards/WikiData/WD~para_ice_hockey,963312|WD~para_ice_hockey,963312]]'
+- '[[_Standards/WikiData/WD~indoor_hockey,974015|WD~indoor_hockey,974015]]'
+- '[[_Standards/WikiData/WD~floor_hockey,1058877|WD~floor_hockey,1058877]]'
+- '[[_Standards/WikiData/WD~street_hockey,1551265|WD~street_hockey,1551265]]'
+- '[[_Standards/WikiData/WD~roller_hockey_(quad),1748406|WD~roller_hockey_(quad),1748406]]'
+- '[[_Standards/WikiData/WD~minkey,6867823|WD~minkey,6867823]]'
+- '[[_Standards/WikiData/WD~field_hockey,1455|WD~field_hockey,1455]]'
+- '[[_Standards/WikiData/WD~ice_hockey,41466|WD~ice_hockey,41466]]'
+subclass_of: '[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 maximum_number_of_players: 12
 subreddit: hockey
 Commons_category: Hockey

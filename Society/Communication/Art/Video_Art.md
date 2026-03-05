@@ -45,18 +45,18 @@ aliases:
 - 비디오 아트
 has_id_wikidata: Q682010
 instance_of:
-- '[[_Standards/WikiData/WD~film_genre,201658]]'
-- '[[_Standards/WikiData/WD~form_of_art,1437361]]'
-- '[[_Standards/WikiData/WD~art_genre,1792379]]'
-- '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~film_genre,201658|WD~film_genre,201658]]'
+- '[[_Standards/WikiData/WD~form_of_art,1437361|WD~form_of_art,1437361]]'
+- '[[_Standards/WikiData/WD~art_genre,1792379|WD~art_genre,1792379]]'
+- '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~new_media_art,378604]]'
-- '[[_Standards/WikiData/WD~visual_arts,36649]]'
-practiced_by: '[[_Standards/WikiData/WD~video_artist,18216771]]'
-different_from: '[[_Standards/WikiData/WD~video_artwork,20742776]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~video_artwork,20742776]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-uses: '[[_Standards/WikiData/WD~video,98069877]]'
+- '[[_Standards/WikiData/WD~new_media_art,378604|WD~new_media_art,378604]]'
+- '[[_Standards/WikiData/WD~visual_arts,36649|WD~visual_arts,36649]]'
+practiced_by: '[[_Standards/WikiData/WD~video_artist,18216771|WD~video_artist,18216771]]'
+different_from: '[[_Standards/WikiData/WD~video_artwork,20742776|WD~video_artwork,20742776]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~video_artwork,20742776|WD~video_artwork,20742776]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800|WD~Art+Feminism,24909800]]'
+uses: '[[_Standards/WikiData/WD~video,98069877|WD~video,98069877]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Video%20synthesizer%2C%20PNW%20SynthFest%202013.jpg
 Commons_category: Video art
 Subreddit: videoart

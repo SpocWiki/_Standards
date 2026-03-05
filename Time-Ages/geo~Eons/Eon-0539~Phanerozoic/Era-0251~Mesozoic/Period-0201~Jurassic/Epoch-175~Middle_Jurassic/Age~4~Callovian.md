@@ -29,14 +29,14 @@ aliases:
 - 卡洛维期
 - 칼로비아절
 has_id_wikidata: Q764255
-named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
+named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-named_after: '[[_Standards/WikiData/WD~Kellaways,15059063]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Callovian,21697519]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+named_after: '[[_Standards/WikiData/WD~Kellaways,15059063|WD~Kellaways,15059063]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Callovian,21697519|WD~Category_Callovian,21697519]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -163500000-01-01T00:00:00Z
 start_time: -166100000-01-01T00:00:00Z
 Commons_category: Callovian

@@ -61,21 +61,21 @@ aliases:
 - 이등병
 has_id_wikidata: Q158668
 next_higher_rank:
-- '[[_Standards/WikiData/WD~Gefreiter,475482]]'
-- '[[_Standards/WikiData/WD~lance_corporal,1463070]]'
-- '[[_Standards/WikiData/WD~private_first_class,2352637]]'
+- '[[_Standards/WikiData/WD~Gefreiter,475482|WD~Gefreiter,475482]]'
+- '[[_Standards/WikiData/WD~lance_corporal,1463070|WD~lance_corporal,1463070]]'
+- '[[_Standards/WikiData/WD~private_first_class,2352637|WD~private_first_class,2352637]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~seaman,707995]]'
-- '[[_Standards/WikiData/WD~soldat,24261291]]'
-- '[[_Standards/WikiData/WD~Gemeiner,28154412]]'
+- '[[_Standards/WikiData/WD~seaman,707995|WD~seaman,707995]]'
+- '[[_Standards/WikiData/WD~soldat,24261291|WD~soldat,24261291]]'
+- '[[_Standards/WikiData/WD~Gemeiner,28154412|WD~Gemeiner,28154412]]'
 different_from:
-- '[[_Standards/WikiData/WD~soldier,4991371]]'
-- '[[_Standards/WikiData/WD~Szeregowy,16608592]]'
-subclass_of: '[[_Standards/WikiData/WD~enlisted_rank,5379090]]'
-NATO_code_for_grade: '[[_Standards/WikiData/WD~OR_1,23013231]]'
-honorific_prefix: '[[_Standards/WikiData/WD~Private,124400283]]'
-depicted_by: '[[_Standards/WikiData/WD~Il_soldato_che_non_vuole_la_guerra,131613704]]'
-instance_of: '[[_Standards/WikiData/WD~military_rank,56019]]'
+- '[[_Standards/WikiData/WD~soldier,4991371|WD~soldier,4991371]]'
+- '[[_Standards/WikiData/WD~Szeregowy,16608592|WD~Szeregowy,16608592]]'
+subclass_of: '[[_Standards/WikiData/WD~enlisted_rank,5379090|WD~enlisted_rank,5379090]]'
+NATO_code_for_grade: '[[_Standards/WikiData/WD~OR_1,23013231|WD~OR_1,23013231]]'
+honorific_prefix: '[[_Standards/WikiData/WD~Private,124400283|WD~Private,124400283]]'
+depicted_by: '[[_Standards/WikiData/WD~Il_soldato_che_non_vuole_la_guerra,131613704|WD~Il_soldato_che_non_vuole_la_guerra,131613704]]'
+instance_of: '[[_Standards/WikiData/WD~military_rank,56019|WD~military_rank,56019]]'
 short_name:
 - PVT
 - pvt.

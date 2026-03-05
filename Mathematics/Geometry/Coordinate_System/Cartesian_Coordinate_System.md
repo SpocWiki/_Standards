@@ -78,14 +78,14 @@ aliases:
 - 笛卡尔坐标系
 - 카테시안 좌표계
 has_id_wikidata: Q62912
-facet_of: '[[_Standards/WikiData/WD~analytic_geometry,134787]]'
+facet_of: '[[_Standards/WikiData/WD~analytic_geometry,134787|WD~analytic_geometry,134787]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~orthogonal_coordinate_system,2588831]]'
-- '[[_Standards/WikiData/WD~rectilinear_coordinate_system,91321041]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-different_from: '[[_Standards/WikiData/WD~Cartesian_coordinate,73454785]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
-named_after: '[[_Standards/WikiData/WD~René_Descartes,9191]]'
+- '[[_Standards/WikiData/WD~orthogonal_coordinate_system,2588831|WD~orthogonal_coordinate_system,2588831]]'
+- '[[_Standards/WikiData/WD~rectilinear_coordinate_system,91321041|WD~rectilinear_coordinate_system,91321041]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~Cartesian_coordinate,73454785|WD~Cartesian_coordinate,73454785]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+named_after: '[[_Standards/WikiData/WD~René_Descartes,9191|WD~René_Descartes,9191]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kartesisches%20system.svg
 Stack_Exchange_tag: https://stackoverflow.com/tags/cartesian-coordinates
 IEV_number: 102-03-14

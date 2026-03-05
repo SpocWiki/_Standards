@@ -25,14 +25,14 @@ aliases:
 - 牛津階
 - 옥스퍼드절
 has_id_wikidata: Q375784
-named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
+named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Oxfordian_(stage),21685168]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Oxfordian_(stage),21685168|WD~Category_Oxfordian_(stage),21685168]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -163500000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Oxford,34217]]'
+named_after: '[[_Standards/WikiData/WD~Oxford,34217|WD~Oxford,34217]]'
 sRGB_color_hex_triplet: ABE7FB
 end_time: -157300000-01-01T00:00:00Z
 dv_has_:
@@ -150,7 +150,7 @@ has_next_item = `=this.dv_has_next_item`
 A time period from 161.5 to 154.8 million years ago. 
 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-155_Ma_(Oxfordian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-155_Ma_(Oxfordian_Age).png|Earth-155_Ma_(Oxfordian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

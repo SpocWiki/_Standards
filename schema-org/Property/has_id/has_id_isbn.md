@@ -27,11 +27,11 @@ tags:
 title: has_id_isbn
 type: Pred_Text
 dv_has_:
-  domain: "[[../../../Society/Communication/Media/Writing/Book]]"
+  domain: "[[../../../Society/Communication/Media/Writing/Book|Book]]"
   name: has_id_isbn
   range: Text
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_isbn|has_id_isbn]]"
@@ -41,10 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_name/has_id_isbn.private|has_id_isbn.private]]"
     - "[[/_personal/schema-org/Property/has_name/has_id_isbn.personal|has_id_isbn.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_id_isbn.secret|has_id_isbn.secret]]"
-dv_has_domain: "[[../../../Society/Communication/Media/Writing/Book]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Writing/Book|Book]]"
 dv_has_name: has_id_isbn
 dv_has_range: Text
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_name/has_id_isbn|has_id_isbn]]"
   - "[[/_public/schema-org/Property/has_name/has_id_isbn.public|has_id_isbn.public]]"

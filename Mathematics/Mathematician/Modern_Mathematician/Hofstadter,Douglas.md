@@ -81,7 +81,7 @@ aliases:
 > artificial intelligence, and discovery in mathematics and physics. 
 > 
 > His 1979 book Gödel, Escher, Bach: An Eternal Golden Braid won the Pulitzer Prize 
-> for general nonfiction, and a [[../../../Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award]] for Science. 
+> for general nonfiction, and a [[../../../Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award|National_Book_Award]] for Science. 
 > His 2007 book I Am a Strange Loop won the Los Angeles Times Book Prize for Science and Technology.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Douglas%20Hofstadter) 

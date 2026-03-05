@@ -111,28 +111,28 @@ aliases:
 - 기도
 has_id_wikidata: Q40953
 has_part_s_:
-- '[[_Standards/WikiData/WD~amen,173445]]'
-- '[[_Standards/WikiData/WD~kneeling,8866546]]'
-has_characteristic: '[[_Standards/WikiData/WD~oral_tradition,209815]]'
+- '[[_Standards/WikiData/WD~amen,173445|WD~amen,173445]]'
+- '[[_Standards/WikiData/WD~kneeling,8866546|WD~kneeling,8866546]]'
+has_characteristic: '[[_Standards/WikiData/WD~oral_tradition,209815|WD~oral_tradition,209815]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~text,234460]]'
-- '[[_Standards/WikiData/WD~religious_activity,118471175]]'
+- '[[_Standards/WikiData/WD~text,234460|WD~text,234460]]'
+- '[[_Standards/WikiData/WD~religious_activity,118471175|WD~religious_activity,118471175]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 instance_of:
-- '[[_Standards/WikiData/WD~spiritual_practice,2270606]]'
-- '[[_Standards/WikiData/WD~religious_concept,23847174]]'
-- '[[_Standards/WikiData/WD~biblical_concept,30149195]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~manifesting,105580570]]'
-different_from: '[[_Standards/WikiData/WD~written_prayer,124455603]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~written_prayer,124455603]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q135415993,135415993]]'
-part_of: '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~spiritual_practice,2270606|WD~spiritual_practice,2270606]]'
+- '[[_Standards/WikiData/WD~religious_concept,23847174|WD~religious_concept,23847174]]'
+- '[[_Standards/WikiData/WD~biblical_concept,30149195|WD~biblical_concept,30149195]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~manifesting,105580570|WD~manifesting,105580570]]'
+different_from: '[[_Standards/WikiData/WD~written_prayer,124455603|WD~written_prayer,124455603]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~written_prayer,124455603|WD~written_prayer,124455603]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q135415993,135415993|WD~Q135415993,135415993]]'
+part_of: '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
 Nomenclature_for_Museum_Cataloging: 13554
 Commons_category: Prayer
 U_S_National_Archives_Identifier: 10644797

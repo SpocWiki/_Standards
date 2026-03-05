@@ -33,42 +33,42 @@ aliases:
 - 萬維網聯盟
 has_id_wikidata: Q37033
 legal_form:
-- '[[_Standards/WikiData/WD~consortium,194166]]'
-- '[[_Standards/WikiData/WD~501(c)(3)_organization,18325436]]'
-field_of_work: '[[_Standards/WikiData/WD~standardization,369577]]'
+- '[[_Standards/WikiData/WD~consortium,194166|WD~consortium,194166]]'
+- '[[_Standards/WikiData/WD~501(c)(3)_organization,18325436|WD~501(c)(3)_organization,18325436]]'
+field_of_work: '[[_Standards/WikiData/WD~standardization,369577|WD~standardization,369577]]'
 operator:
-- '[[_Standards/WikiData/WD~Keio_University,815432]]'
-- '[[_Standards/WikiData/WD~European_Research_Consortium_for_Informatics_and_Mathematics,3060803]]'
-- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+- '[[_Standards/WikiData/WD~Keio_University,815432|WD~Keio_University,815432]]'
+- '[[_Standards/WikiData/WD~European_Research_Consortium_for_Informatics_and_Mathematics,3060803|WD~European_Research_Consortium_for_Informatics_and_Mathematics,3060803]]'
+- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108|WD~Massachusetts_Institute_of_Technology,49108]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Web_Ontology_Language,826165]]'
-- '[[_Standards/WikiData/WD~Acid1,1072630]]'
-- '[[_Standards/WikiData/WD~Simple_Knowledge_Organization_System,2288360]]'
-- '[[_Standards/WikiData/WD~Web_Compatibility_Test_for_Mobile_Browsers,21233699]]'
-- '[[_Standards/WikiData/WD~PROV_O_The_PROV_Ontology,62213429]]'
-- '[[_Standards/WikiData/WD~XML,2115]]'
-- '[[_Standards/WikiData/WD~XML_Schema,16342]]'
-- '[[_Standards/WikiData/WD~Resource_Description_Framework,54872]]'
+- '[[_Standards/WikiData/WD~Web_Ontology_Language,826165|WD~Web_Ontology_Language,826165]]'
+- '[[_Standards/WikiData/WD~Acid1,1072630|WD~Acid1,1072630]]'
+- '[[_Standards/WikiData/WD~Simple_Knowledge_Organization_System,2288360|WD~Simple_Knowledge_Organization_System,2288360]]'
+- '[[_Standards/WikiData/WD~Web_Compatibility_Test_for_Mobile_Browsers,21233699|WD~Web_Compatibility_Test_for_Mobile_Browsers,21233699]]'
+- '[[_Standards/WikiData/WD~PROV_O_The_PROV_Ontology,62213429|WD~PROV_O_The_PROV_Ontology,62213429]]'
+- '[[_Standards/WikiData/WD~XML,2115|WD~XML,2115]]'
+- '[[_Standards/WikiData/WD~XML_Schema,16342|WD~XML_Schema,16342]]'
+- '[[_Standards/WikiData/WD~Resource_Description_Framework,54872|WD~Resource_Description_Framework,54872]]'
 instance_of:
-- '[[_Standards/WikiData/WD~standards_organization,1328899]]'
-- '[[_Standards/WikiData/WD~academic_publisher,96888669]]'
-- '[[_Standards/WikiData/WD~voluntary_association,48204]]'
+- '[[_Standards/WikiData/WD~standards_organization,1328899|WD~standards_organization,1328899]]'
+- '[[_Standards/WikiData/WD~academic_publisher,96888669|WD~academic_publisher,96888669]]'
+- '[[_Standards/WikiData/WD~voluntary_association,48204|WD~voluntary_association,48204]]'
 child_organization_or_unit:
-- '[[_Standards/WikiData/WD~Schema.org,3475322]]'
-- '[[_Standards/WikiData/WD~WebAssembly,20155677]]'
-- '[[_Standards/WikiData/WD~Improving_Web_Advertising_Business_Group,107104387]]'
-different_from: '[[_Standards/WikiData/WD~WC3_(A_3_Dans_Les_WC),3564627]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]'
-described_by_source: '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
-significant_event: '[[_Standards/WikiData/WD~W3C_re_launch_as_a_public_interest_non_profit_organization,122974439]]'
-industry: '[[_Standards/WikiData/WD~World_Wide_Web,466]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-chairperson: '[[_Standards/WikiData/WD~Tim_Berners_Lee,80]]'
-founded_by: '[[_Standards/WikiData/WD~Tim_Berners_Lee,80]]'
+- '[[_Standards/WikiData/WD~Schema.org,3475322|WD~Schema.org,3475322]]'
+- '[[_Standards/WikiData/WD~WebAssembly,20155677|WD~WebAssembly,20155677]]'
+- '[[_Standards/WikiData/WD~Improving_Web_Advertising_Business_Group,107104387|WD~Improving_Web_Advertising_Business_Group,107104387]]'
+different_from: '[[_Standards/WikiData/WD~WC3_(A_3_Dans_Les_WC),3564627|WD~WC3_(A_3_Dans_Les_WC),3564627]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928|WD~Wikidata_WikiProject_Academic_Publisher,117222928]]'
+described_by_source: '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836|WD~Dictionnaire_des_biens_communs,120799836]]'
+significant_event: '[[_Standards/WikiData/WD~W3C_re_launch_as_a_public_interest_non_profit_organization,122974439|WD~W3C_re_launch_as_a_public_interest_non_profit_organization,122974439]]'
+industry: '[[_Standards/WikiData/WD~World_Wide_Web,466|WD~World_Wide_Web,466]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+chairperson: '[[_Standards/WikiData/WD~Tim_Berners_Lee,80|WD~Tim_Berners_Lee,80]]'
+founded_by: '[[_Standards/WikiData/WD~Tim_Berners_Lee,80|WD~Tim_Berners_Lee,80]]'
 employees:
 - 45
 - 61
-headquarters_location: '[[_Standards/WikiData/WD~Cambridge,49111]]'
+headquarters_location: '[[_Standards/WikiData/WD~Cambridge,49111|WD~Cambridge,49111]]'
 social_media_followers: 198130
 terms_of_service_URL: https://www.w3.org/Consortium/Legal/2002/ipr-notice-20021231
 MacPorts_port: html

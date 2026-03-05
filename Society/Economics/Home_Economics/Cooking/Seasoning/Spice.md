@@ -116,20 +116,20 @@ aliases:
 - 향신료
 has_id_wikidata: Q42527
 has_use:
-- '[[_Standards/WikiData/WD~food_preservation,173514]]'
-- '[[_Standards/WikiData/WD~food_coloring,753009]]'
-- '[[_Standards/WikiData/WD~seasoning,773108]]'
-- '[[_Standards/WikiData/WD~flavoring,4173974]]'
+- '[[_Standards/WikiData/WD~food_preservation,173514|WD~food_preservation,173514]]'
+- '[[_Standards/WikiData/WD~food_coloring,753009|WD~food_coloring,753009]]'
+- '[[_Standards/WikiData/WD~seasoning,773108|WD~seasoning,773108]]'
+- '[[_Standards/WikiData/WD~flavoring,4173974|WD~flavoring,4173974]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-different_from: '[[_Standards/WikiData/WD~spice,928070]]'
-made_from_material: '[[_Standards/WikiData/WD~aromatic_plant,2247340]]'
-subclass_of: '[[_Standards/WikiData/WD~condiment,2596997]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Herbs_&_spices,10960956]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~food_powder,56274178]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+different_from: '[[_Standards/WikiData/WD~spice,928070|WD~spice,928070]]'
+made_from_material: '[[_Standards/WikiData/WD~aromatic_plant,2247340|WD~aromatic_plant,2247340]]'
+subclass_of: '[[_Standards/WikiData/WD~condiment,2596997|WD~condiment,2596997]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Herbs_&_spices,10960956|WD~Template_Herbs_&_spices,10960956]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~food_powder,56274178|WD~food_powder,56274178]]'
 water_footprint:
 - 2.35
 - 7048

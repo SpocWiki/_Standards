@@ -85,24 +85,24 @@ aliases:
 - 捷運
 - 지하철
 has_id_wikidata: Q5503
-has_list: '[[_Standards/WikiData/WD~list_of_metro_systems,206974]]'
+has_list: '[[_Standards/WikiData/WD~list_of_metro_systems,206974|WD~list_of_metro_systems,206974]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~metro_station,928830]]'
-- '[[_Standards/WikiData/WD~subway_entrance,2921357]]'
-- '[[_Standards/WikiData/WD~rapid_transit_railway_line,15079663]]'
-- '[[_Standards/WikiData/WD~rapid_transit_train_service,60442637]]'
-facet_of: '[[_Standards/WikiData/WD~urban_transport,1585110]]'
-subclass_of: '[[_Standards/WikiData/WD~urban_rail_transit_system,3491904]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_metro,4348965]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Mass_Rapid_Transit,5365007]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q10815193,10815193]]'
-instance_of: '[[_Standards/WikiData/WD~train_and_rail_category,16858238]]'
+- '[[_Standards/WikiData/WD~metro_station,928830|WD~metro_station,928830]]'
+- '[[_Standards/WikiData/WD~subway_entrance,2921357|WD~subway_entrance,2921357]]'
+- '[[_Standards/WikiData/WD~rapid_transit_railway_line,15079663|WD~rapid_transit_railway_line,15079663]]'
+- '[[_Standards/WikiData/WD~rapid_transit_train_service,60442637|WD~rapid_transit_train_service,60442637]]'
+facet_of: '[[_Standards/WikiData/WD~urban_transport,1585110|WD~urban_transport,1585110]]'
+subclass_of: '[[_Standards/WikiData/WD~urban_rail_transit_system,3491904|WD~urban_rail_transit_system,3491904]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_metro,4348965|WD~Template_Infobox_metro,4348965]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Mass_Rapid_Transit,5365007|WD~Mass_Rapid_Transit,5365007]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q10815193,10815193|WD~Q10815193,10815193]]'
+instance_of: '[[_Standards/WikiData/WD~train_and_rail_category,16858238|WD~train_and_rail_category,16858238]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q31144401,31144401]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q116161715,116161715]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q31144401,31144401|WD~Q31144401,31144401]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q116161715,116161715|WD~Q116161715,116161715]]'
 OmegaWiki_Defined_Meaning: 3890
 native_label: métro
 image:
@@ -257,7 +257,7 @@ Unicode_character: 🚇
 
 # [[Rapid_Transit]] 🚇 
 
-#is_/same_as :: [[../../../WikiData/WD~Rapid_transit,5503]] 
+#is_/same_as :: [[../../../WikiData/WD~Rapid_transit,5503|WD~Rapid_transit,5503]] 
 
 ## #has_/text_of_/abstract 
 

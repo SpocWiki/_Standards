@@ -65,19 +65,19 @@ aliases:
 - 理論化學和應用化學國際聯會
 - 국제 순수·응용 화학 연합
 has_id_wikidata: Q33438
-industry: '[[_Standards/WikiData/WD~higher_education,136822]]'
+industry: '[[_Standards/WikiData/WD~higher_education,136822|WD~higher_education,136822]]'
 instance_of:
-- '[[_Standards/WikiData/WD~learned_society,955824]]'
-- '[[_Standards/WikiData/WD~publishing_company,2085381]]'
+- '[[_Standards/WikiData/WD~learned_society,955824|WD~learned_society,955824]]'
+- '[[_Standards/WikiData/WD~publishing_company,2085381|WD~publishing_company,2085381]]'
 member_of:
-- '[[_Standards/WikiData/WD~Committee_on_Space_Research,1115753]]'
-- '[[_Standards/WikiData/WD~Joint_Committee_for_Guides_in_Metrology,18283219]]'
-child_organization_unit: '[[_Standards/WikiData/WD~IUPAC_IUPAP_Joint_Working_Party,5975415]]'
-described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]'
-official_language: '[[_Standards/WikiData/WD~English,1860]]'
-field_of_work: '[[_Standards/WikiData/WD~chemistry,2329]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Zurich,72]]'
+- '[[_Standards/WikiData/WD~Committee_on_Space_Research,1115753|WD~Committee_on_Space_Research,1115753]]'
+- '[[_Standards/WikiData/WD~Joint_Committee_for_Guides_in_Metrology,18283219|WD~Joint_Committee_for_Guides_in_Metrology,18283219]]'
+child_organization_unit: '[[_Standards/WikiData/WD~IUPAC_IUPAP_Joint_Working_Party,5975415|WD~IUPAC_IUPAP_Joint_Working_Party,5975415]]'
+described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897|WD~Medvik,99413897]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928|WD~Wikidata_WikiProject_Academic_Publisher,117222928]]'
+official_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+field_of_work: '[[_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Zurich,72|WD~Zurich,72]]'
 social_media_followers: 22972
 GitHub_username: IUPAC
 Commons_category: IUPAC

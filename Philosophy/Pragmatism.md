@@ -81,18 +81,18 @@ tags:
 title: Pragmatism
 type: private_note
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
 different_from:
-- '[[_Standards/WikiData/WD~Pragmatism,4133192]]'
-- '[[_Standards/WikiData/WD~Pragmatisme,7237646]]'
+- '[[_Standards/WikiData/WD~Pragmatism,4133192|WD~Pragmatism,4133192]]'
+- '[[_Standards/WikiData/WD~Pragmatisme,7237646|WD~Pragmatisme,7237646]]'
 instance_of:
-- '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
-- '[[_Standards/WikiData/WD~ideology,7257]]'
-practiced_by: '[[_Standards/WikiData/WD~pragmatist,16263353]]'
-inspired_by: '[[_Standards/WikiData/WD~Q47471464,47471464]]'
-subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852|WD~philosophical_schools_and_traditions,12765852]]'
+- '[[_Standards/WikiData/WD~ideology,7257|WD~ideology,7257]]'
+practiced_by: '[[_Standards/WikiData/WD~pragmatist,16263353|WD~pragmatist,16263353]]'
+inspired_by: '[[_Standards/WikiData/WD~Q47471464,47471464|WD~Q47471464,47471464]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 Dewey_Decimal_Classification:
 - 144.3
 - 370.12
@@ -225,8 +225,8 @@ dv_has_:
 > are all best viewed in terms of their practical uses and successes.
 >
 > Pragmatism began in the United States in the 1870s. 
-> Its origins are often attributed to philosophers [[../../_Standards/Mathematics/Mathematician/Peirce,Charles_Sanders|Charles Sanders Peirce]], [[../../_Standards/Philosophy/Philosopher/Modern_Philosopher/James,William]], 
-> and [[Philosopher/Dewey,John]]. 
+> Its origins are often attributed to philosophers [[../../_Standards/Mathematics/Mathematician/Peirce,Charles_Sanders|Charles Sanders Peirce]], [[../../_Standards/Philosophy/Philosopher/Modern_Philosopher/James,William|James,William]], 
+> and [[Philosopher/Dewey,John|Dewey,John]]. 
 > In 1878, Peirce described it in his pragmatic maxim: 
 > "Consider the practical effects of the objects of your conception. 
 > Then, your conception of those effects is the whole of your conception of the object."

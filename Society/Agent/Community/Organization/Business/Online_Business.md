@@ -36,7 +36,7 @@ Tag Instances like this:
 
 A particular online business, either standalone or the online part of a broader organization. Examples include an eCommerce site, an online travel booking site, an online learning site, an online logistics and shipping provider, an online (virtual) doctor, etc.
 
-#has_/parent_class :: [[../../Organization]]  
+#has_/parent_class :: [[../../Organization|Organization]]  
 
 #has_/child_/class :: [ OnlineStore ]  
 

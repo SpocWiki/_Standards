@@ -67,17 +67,17 @@ aliases:
 - 아프리카 통일 기구
 has_id_wikidata: Q191703
 instance_of:
-- '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
-partnership_with: '[[_Standards/WikiData/WD~Asian_African_Legal_Consultative_Organization,333536]]'
+- '[[_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
+partnership_with: '[[_Standards/WikiData/WD~Asian_African_Legal_Consultative_Organization,333536|WD~Asian_African_Legal_Consultative_Organization,333536]]'
 replaces:
-- '[[_Standards/WikiData/WD~African_and_Malagasy_Union,388001]]'
-- '[[_Standards/WikiData/WD~Casablanca_Group,1046625]]'
-- '[[_Standards/WikiData/WD~Monrovia_Group,20679611]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~chairperson_of_the_Organisation_of_African_Unity,19161632]]'
-headquarters_location: '[[_Standards/WikiData/WD~Addis_Ababa,3624]]'
-replaced_by: '[[_Standards/WikiData/WD~African_Union,7159]]'
-followed_by: '[[_Standards/WikiData/WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~African_and_Malagasy_Union,388001|WD~African_and_Malagasy_Union,388001]]'
+- '[[_Standards/WikiData/WD~Casablanca_Group,1046625|WD~Casablanca_Group,1046625]]'
+- '[[_Standards/WikiData/WD~Monrovia_Group,20679611|WD~Monrovia_Group,20679611]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~chairperson_of_the_Organisation_of_African_Unity,19161632|WD~chairperson_of_the_Organisation_of_African_Unity,19161632]]'
+headquarters_location: '[[_Standards/WikiData/WD~Addis_Ababa,3624|WD~Addis_Ababa,3624]]'
+replaced_by: '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+followed_by: '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
 EU_Corporate_body_code: OAU
 inception: 1963-01-01T00:00:00Z
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Organization%20of%20African%20Unity%20%281970%E2%80%932002%29%3B%20Flag%20of%20the%20African%20Union%20%282004%E2%80%932010%29.svg

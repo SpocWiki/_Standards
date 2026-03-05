@@ -44,50 +44,50 @@ Giphy_username: volkswagen-sk
 Baidu_Tieba_name: 大众汽车
 inception: 1937-05-28T00:00:00Z
 native_label: Volkswagen
-different_from: '[[_Standards/WikiData/WD~Volkswagen_Group,156578]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~Volkswagen_Group,156578]]'
+different_from: '[[_Standards/WikiData/WD~Volkswagen_Group,156578|WD~Volkswagen_Group,156578]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Volkswagen_Group,156578|WD~Volkswagen_Group,156578]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~Volkswagen_Phaeton,158736]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Passat,216754]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Eos,500665]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Jetta,697152]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Transporter,719895]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Up!,748949]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Lupo,817309]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Scirocco,835078]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Amarok,1027973]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Crafter,1351132]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Bora,1417237]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Vento,1418315]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Beetle,1968742]]'
-- '[[_Standards/WikiData/WD~Volkswagen_T_Roc,15966358]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Arteon,28064385]]'
-- '[[_Standards/WikiData/WD~Volkswagen_T_Cross,39075622]]'
-- '[[_Standards/WikiData/WD~Volkswagen_ID._series,55637210]]'
-- '[[_Standards/WikiData/WD~Volkswagen_Golf,247]]'
-award_received: '[[_Standards/WikiData/WD~Ig_Nobel_Prize,184253]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Phaeton,158736|WD~Volkswagen_Phaeton,158736]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Passat,216754|WD~Volkswagen_Passat,216754]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Eos,500665|WD~Volkswagen_Eos,500665]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Jetta,697152|WD~Volkswagen_Jetta,697152]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Transporter,719895|WD~Volkswagen_Transporter,719895]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Up!,748949|WD~Volkswagen_Up!,748949]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Lupo,817309|WD~Volkswagen_Lupo,817309]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Scirocco,835078|WD~Volkswagen_Scirocco,835078]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Amarok,1027973|WD~Volkswagen_Amarok,1027973]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Crafter,1351132|WD~Volkswagen_Crafter,1351132]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Bora,1417237|WD~Volkswagen_Bora,1417237]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Vento,1418315|WD~Volkswagen_Vento,1418315]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Beetle,1968742|WD~Volkswagen_Beetle,1968742]]'
+- '[[_Standards/WikiData/WD~Volkswagen_T_Roc,15966358|WD~Volkswagen_T_Roc,15966358]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Arteon,28064385|WD~Volkswagen_Arteon,28064385]]'
+- '[[_Standards/WikiData/WD~Volkswagen_T_Cross,39075622|WD~Volkswagen_T_Cross,39075622]]'
+- '[[_Standards/WikiData/WD~Volkswagen_ID._series,55637210|WD~Volkswagen_ID._series,55637210]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Golf,247|WD~Volkswagen_Golf,247]]'
+award_received: '[[_Standards/WikiData/WD~Ig_Nobel_Prize,184253|WD~Ig_Nobel_Prize,184253]]'
 has_works_in_the_collection:
-- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-- '[[_Standards/WikiData/WD~Bundeswehr_Museum_of_German_Defense_Technology,2205919]]'
-- '[[_Standards/WikiData/WD~National_Car_Museum_of_Iran,13218982]]'
-industry: '[[_Standards/WikiData/WD~automotive_industry,190117]]'
-founded_by: '[[_Standards/WikiData/WD~German_Labor_Front,312526]]'
-legal_form: '[[_Standards/WikiData/WD~Aktiengesellschaft,422062]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740|WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Bundeswehr_Museum_of_German_Defense_Technology,2205919|WD~Bundeswehr_Museum_of_German_Defense_Technology,2205919]]'
+- '[[_Standards/WikiData/WD~National_Car_Museum_of_Iran,13218982|WD~National_Car_Museum_of_Iran,13218982]]'
+industry: '[[_Standards/WikiData/WD~automotive_industry,190117|WD~automotive_industry,190117]]'
+founded_by: '[[_Standards/WikiData/WD~German_Labor_Front,312526|WD~German_Labor_Front,312526]]'
+legal_form: '[[_Standards/WikiData/WD~Aktiengesellschaft,422062|WD~Aktiengesellschaft,422062]]'
 instance_of:
-- '[[_Standards/WikiData/WD~subsidiary_company,658255]]'
-- '[[_Standards/WikiData/WD~automobile_manufacturer,786820]]'
-- '[[_Standards/WikiData/WD~car_brand,10429667]]'
-named_after: '[[_Standards/WikiData/WD~KdF_Wagen,1737639]]'
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-chief_executive_officer: '[[_Standards/WikiData/WD~Thomas_Schäfer,100989426]]'
-affiliated_worker_organisation: '[[_Standards/WikiData/WD~Volkswagen_worker_organizations,109973335]]'
-location_of_formation: '[[_Standards/WikiData/WD~Wolfsburg,3014]]'
-headquarters_location: '[[_Standards/WikiData/WD~Wolfsburg,3014]]'
-country: '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~subsidiary_company,658255|WD~subsidiary_company,658255]]'
+- '[[_Standards/WikiData/WD~automobile_manufacturer,786820|WD~automobile_manufacturer,786820]]'
+- '[[_Standards/WikiData/WD~car_brand,10429667|WD~car_brand,10429667]]'
+named_after: '[[_Standards/WikiData/WD~KdF_Wagen,1737639|WD~KdF_Wagen,1737639]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Thomas_Schäfer,100989426|WD~Thomas_Schäfer,100989426]]'
+affiliated_worker_organisation: '[[_Standards/WikiData/WD~Volkswagen_worker_organizations,109973335|WD~Volkswagen_worker_organizations,109973335]]'
+location_of_formation: '[[_Standards/WikiData/WD~Wolfsburg,3014|WD~Wolfsburg,3014]]'
+headquarters_location: '[[_Standards/WikiData/WD~Wolfsburg,3014|WD~Wolfsburg,3014]]'
+country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 social_media_followers:
 - 105000
 - 326000
-significant_person: '[[_Standards/WikiData/WD~Ferdinand_Porsche,57249]]'
+significant_person: '[[_Standards/WikiData/WD~Ferdinand_Porsche,57249|WD~Ferdinand_Porsche,57249]]'
 net_profit: 17928000000
 operating_income: 22576000000
 total_revenue: 322284000000
@@ -200,7 +200,7 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Volkswagen) 
 
 
-#has_/parts :: [[VW(Volkswagen)/Cariad_SE]] 
+#has_/parts :: [[VW(Volkswagen)/Cariad_SE|Cariad_SE]] 
 
 
 ## Confidential Links & Embeds: 

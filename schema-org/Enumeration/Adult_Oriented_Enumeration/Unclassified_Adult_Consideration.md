@@ -28,8 +28,8 @@ title: is_an_unclassified_adult_consideration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../AdultOrientedEnumeration]]"
-  enum_of: "[[../AdultOrientedEnumeration]]"
+  parent_class: "[[../AdultOrientedEnumeration|AdultOrientedEnumeration]]"
+  enum_of: "[[../AdultOrientedEnumeration|AdultOrientedEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration|Unclassified_Adult_Consideration]]"
     - "[[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.public|Unclassified_Adult_Consideration.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.secret|Unclassified_Adult_Consideration.secret]]"
     - "[[Unclassified_Adult_Consideration]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../AdultOrientedEnumeration]]"
-dv_is_enum_of: "[[../AdultOrientedEnumeration]]"
+dv_has_parent_class: "[[../AdultOrientedEnumeration|AdultOrientedEnumeration]]"
+dv_is_enum_of: "[[../AdultOrientedEnumeration|AdultOrientedEnumeration]]"
 dv_is_same_as:
   - "[[Unclassified_Adult_Consideration]]"
   - "[[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.public|Unclassified_Adult_Consideration.public]]"

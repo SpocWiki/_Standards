@@ -27,9 +27,9 @@ tags:
 title: is_a_limited_availability Class
 type: Type
 dv_has_:
-  parent_class: "[[../ItemAvailability]]"
+  parent_class: "[[../ItemAvailability|ItemAvailability]]"
 dv_is_:
-  enum_of: "[[../ItemAvailability]]"
+  enum_of: "[[../ItemAvailability|ItemAvailability]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Item_Availability/Limited_Availability|Limited_Availability]]"
     - "[[/_public/schema-org/Enumeration/Item_Availability/Limited_Availability.public|Limited_Availability.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Item_Availability/Limited_Availability.personal|Limited_Availability.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability/Limited_Availability.secret|Limited_Availability.secret]]"
     - "[[Limited_Availability]]"
-dv_has_parent_class: "[[../ItemAvailability]]"
-dv_is_enum_of: "[[../ItemAvailability]]"
+dv_has_parent_class: "[[../ItemAvailability|ItemAvailability]]"
+dv_is_enum_of: "[[../ItemAvailability|ItemAvailability]]"
 dv_is_same_as:
   - "[[Limited_Availability]]"
   - "[[/_public/schema-org/Enumeration/Item_Availability/Limited_Availability.public|Limited_Availability.public]]"

@@ -70,16 +70,16 @@ aliases:
 - 마이크로폰
 has_id_wikidata: Q46384
 subclass_of:
-- '[[_Standards/WikiData/WD~sensor,167676]]'
-- '[[_Standards/WikiData/WD~input_device,864114]]'
-- '[[_Standards/WikiData/WD~sound_transducer,1718024]]'
-- '[[_Standards/WikiData/WD~musical_instrument,34379]]'
+- '[[_Standards/WikiData/WD~sensor,167676|WD~sensor,167676]]'
+- '[[_Standards/WikiData/WD~input_device,864114|WD~input_device,864114]]'
+- '[[_Standards/WikiData/WD~sound_transducer,1718024|WD~sound_transducer,1718024]]'
+- '[[_Standards/WikiData/WD~musical_instrument,34379|WD~musical_instrument,34379]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-used_by: '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+used_by: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 Nomenclature_for_Museum_Cataloging: 11224
 GS1_GPC_code: 10001476
 OmegaWiki_Defined_Meaning: 529461

@@ -62,13 +62,13 @@ aliases:
 - 農業史
 - 농업의 역사
 has_id_wikidata: Q952080
-studied_by: '[[_Standards/WikiData/WD~agrarian_history,396077]]'
-different_from: '[[_Standards/WikiData/WD~agrarian_history,396077]]'
+studied_by: '[[_Standards/WikiData/WD~agrarian_history,396077|WD~agrarian_history,396077]]'
+different_from: '[[_Standards/WikiData/WD~agrarian_history,396077|WD~agrarian_history,396077]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~history_of_botany,2495041]]'
-- '[[_Standards/WikiData/WD~history,309]]'
-- '[[_Standards/WikiData/WD~economic_history,47398]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+- '[[_Standards/WikiData/WD~history_of_botany,2495041|WD~history_of_botany,2495041]]'
+- '[[_Standards/WikiData/WD~history,309|WD~history,309]]'
+- '[[_Standards/WikiData/WD~economic_history,47398|WD~economic_history,47398]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
 Commons_category: History of agriculture
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Centres%20of%20origin%20and%20spread%20of%20agriculture%20v2.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20Irish%20farmers%20hut%2C%20Irish%20National%20Heritage%20Park%20-%20geograph.org.uk%20-%201252729.jpg

@@ -50,10 +50,10 @@ aliases:
 - ꯁꯛꯇꯤ ꯂꯥꯢꯅꯤꯡ
 - 샥티파
 has_id_wikidata: Q849345
-subclass_of: '[[_Standards/WikiData/WD~Tantra,181510]]'
-different_from: '[[_Standards/WikiData/WD~Goddess_movement,3866624]]'
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-represents: '[[_Standards/WikiData/WD~Shakti,19103]]'
+subclass_of: '[[_Standards/WikiData/WD~Tantra,181510|WD~Tantra,181510]]'
+different_from: '[[_Standards/WikiData/WD~Goddess_movement,3866624|WD~Goddess_movement,3866624]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+represents: '[[_Standards/WikiData/WD~Shakti,19103|WD~Shakti,19103]]'
 Universal_Decimal_Classification: 233.4
 Colon_Classification: Q25
 Commons_category: Shaktism

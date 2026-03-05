@@ -27,7 +27,7 @@ type: Type
 
 # [[Question]] 
 
-#has_/parent_class :: [[../Comment]]  
+#has_/parent_class :: [[../Comment|Comment]]  
 
 Class of all questions.
 

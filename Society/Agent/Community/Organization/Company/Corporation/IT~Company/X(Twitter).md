@@ -53,67 +53,67 @@ aliases:
 - 트위터
 has_id_wikidata: Q918
 instance_of:
-- '[[_Standards/WikiData/WD~microblogging,92438]]'
-- '[[_Standards/WikiData/WD~social_networking_service,3220391]]'
-- '[[_Standards/WikiData/WD~online_community,6576792]]'
-- '[[_Standards/WikiData/WD~very_large_online_platform,118140435]]'
-- '[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]'
+- '[[_Standards/WikiData/WD~microblogging,92438|WD~microblogging,92438]]'
+- '[[_Standards/WikiData/WD~social_networking_service,3220391|WD~social_networking_service,3220391]]'
+- '[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]'
+- '[[_Standards/WikiData/WD~very_large_online_platform,118140435|WD~very_large_online_platform,118140435]]'
+- '[[_Standards/WikiData/WD~user_generated_content_platform,122759350|WD~user_generated_content_platform,122759350]]'
 has_use:
-- '[[_Standards/WikiData/WD~microblogging,92438]]'
-- '[[_Standards/WikiData/WD~crowdsourcing,275969]]'
-- '[[_Standards/WikiData/WD~sharing,459221]]'
-- '[[_Standards/WikiData/WD~collaboration,1145523]]'
-- '[[_Standards/WikiData/WD~publishing,3972943]]'
-- '[[_Standards/WikiData/WD~disseminating,123819226]]'
-- '[[_Standards/WikiData/WD~communication,11024]]'
-distributed_by: '[[_Standards/WikiData/WD~Microsoft_Store,135288]]'
+- '[[_Standards/WikiData/WD~microblogging,92438|WD~microblogging,92438]]'
+- '[[_Standards/WikiData/WD~crowdsourcing,275969|WD~crowdsourcing,275969]]'
+- '[[_Standards/WikiData/WD~sharing,459221|WD~sharing,459221]]'
+- '[[_Standards/WikiData/WD~collaboration,1145523|WD~collaboration,1145523]]'
+- '[[_Standards/WikiData/WD~publishing,3972943|WD~publishing,3972943]]'
+- '[[_Standards/WikiData/WD~disseminating,123819226|WD~disseminating,123819226]]'
+- '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
+distributed_by: '[[_Standards/WikiData/WD~Microsoft_Store,135288|WD~Microsoft_Store,135288]]'
 programmed_in:
-- '[[_Standards/WikiData/WD~Q161053,161053]]'
-- '[[_Standards/WikiData/WD~Q460584,460584]]'
-- '[[_Standards/WikiData/WD~Q2005,2005]]'
-- '[[../../../../../../../WikiData/WD~Java,251]]'
+- '[[_Standards/WikiData/WD~Q161053,161053|WD~Q161053,161053]]'
+- '[[_Standards/WikiData/WD~Q460584,460584|WD~Q460584,460584]]'
+- '[[_Standards/WikiData/WD~Q2005,2005|WD~Q2005,2005]]'
+- '[[../../../../../../../WikiData/WD~Java,251|WD~Java,251]]'
 different_from:
-- '[[_Standards/WikiData/WD~Х_х,179860]]'
-- '[[_Standards/WikiData/WD~tweeter,399793]]'
-- '[[_Standards/WikiData/WD~Twitter,1390577]]'
-- '[[_Standards/WikiData/WD~XVideos,3700050]]'
-- '[[_Standards/WikiData/WD~X.com,30686532]]'
-- "[[_Standards/WikiData/WD~\U0001D54F,87570555]]"
-- '[[_Standards/WikiData/WD~X.com,121102033]]'
-- '[[_Standards/WikiData/WD~St._X_Connect,123691925]]'
-- "[[_Standards/WikiData/WD~\U0001D54F,125502471]]"
-- '[[_Standards/WikiData/WD~X_x,9968]]'
-creator: '[[_Standards/WikiData/WD~Jack_Dorsey,335552]]'
+- '[[_Standards/WikiData/WD~Х_х,179860|WD~Х_х,179860]]'
+- '[[_Standards/WikiData/WD~tweeter,399793|WD~tweeter,399793]]'
+- '[[_Standards/WikiData/WD~Twitter,1390577|WD~Twitter,1390577]]'
+- '[[_Standards/WikiData/WD~XVideos,3700050|WD~XVideos,3700050]]'
+- '[[_Standards/WikiData/WD~X.com,30686532|WD~X.com,30686532]]'
+- "[[_Standards/WikiData/WD~\U0001D54F,87570555|WD~\U0001D54F,87570555]]"
+- '[[_Standards/WikiData/WD~X.com,121102033|WD~X.com,121102033]]'
+- '[[_Standards/WikiData/WD~St._X_Connect,123691925|WD~St._X_Connect,123691925]]'
+- "[[_Standards/WikiData/WD~\U0001D54F,125502471|WD~\U0001D54F,125502471]]"
+- '[[_Standards/WikiData/WD~X_x,9968|WD~X_x,9968]]'
+creator: '[[_Standards/WikiData/WD~Jack_Dorsey,335552|WD~Jack_Dorsey,335552]]'
 founded_by:
-- '[[_Standards/WikiData/WD~Jack_Dorsey,335552]]'
-- '[[_Standards/WikiData/WD~Evan_Williams,561960]]'
-- '[[_Standards/WikiData/WD~Biz_Stone,879247]]'
-- '[[_Standards/WikiData/WD~Noah_Glass,6596009]]'
+- '[[_Standards/WikiData/WD~Jack_Dorsey,335552|WD~Jack_Dorsey,335552]]'
+- '[[_Standards/WikiData/WD~Evan_Williams,561960|WD~Evan_Williams,561960]]'
+- '[[_Standards/WikiData/WD~Biz_Stone,879247|WD~Biz_Stone,879247]]'
+- '[[_Standards/WikiData/WD~Noah_Glass,6596009|WD~Noah_Glass,6596009]]'
 official_color:
-- '[[_Standards/WikiData/WD~black_and_white,838368]]'
-- '[[_Standards/WikiData/WD~white,23444]]'
+- '[[_Standards/WikiData/WD~black_and_white,838368|WD~black_and_white,838368]]'
+- '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
 significant_event:
-- '[[_Standards/WikiData/WD~launch,1900995]]'
-- '[[_Standards/WikiData/WD~founding,3075355]]'
-- '[[_Standards/WikiData/WD~access_restriction,66439731]]'
-- '[[_Standards/WikiData/WD~rebranding,128152018]]'
+- '[[_Standards/WikiData/WD~launch,1900995|WD~launch,1900995]]'
+- '[[_Standards/WikiData/WD~founding,3075355|WD~founding,3075355]]'
+- '[[_Standards/WikiData/WD~access_restriction,66439731|WD~access_restriction,66439731]]'
+- '[[_Standards/WikiData/WD~rebranding,128152018|WD~rebranding,128152018]]'
 collection:
-- '[[_Standards/WikiData/WD~Text_Analysis_Portal_for_Research,3979414]]'
-- '[[_Standards/WikiData/WD~Social_Sciences_and_Humanities_Open_Marketplace,131847864]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Twitter,6741634]]'
-history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Twitter_X,16927708]]'
-described_by_source: '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~multiple_languages,20923490]]'
-official_app: '[[_Standards/WikiData/WD~X_app,41689563]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
-notation: "[[_Standards/WikiData/WD~\U0001D54F,87570555]]"
-uses: '[[_Standards/WikiData/WD~Twemoji,100601019]]'
-access_restriction_status: '[[_Standards/WikiData/WD~registration_required,107459441]]'
-online_access_status: '[[_Standards/WikiData/WD~registration_required,107459441]]'
-developer: '[[_Standards/WikiData/WD~X_Corp.,117617480]]'
-operator: '[[_Standards/WikiData/WD~X_Corp.,117617480]]'
-owned_by: '[[_Standards/WikiData/WD~X_Corp.,117617480]]'
-publisher: '[[_Standards/WikiData/WD~X_Corp.,117617480]]'
+- '[[_Standards/WikiData/WD~Text_Analysis_Portal_for_Research,3979414|WD~Text_Analysis_Portal_for_Research,3979414]]'
+- '[[_Standards/WikiData/WD~Social_Sciences_and_Humanities_Open_Marketplace,131847864|WD~Social_Sciences_and_Humanities_Open_Marketplace,131847864]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Twitter,6741634|WD~Template_Twitter,6741634]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Twitter_X,16927708|WD~timeline_of_Twitter_X,16927708]]'
+described_by_source: '[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]'
+official_app: '[[_Standards/WikiData/WD~X_app,41689563|WD~X_app,41689563]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
+notation: "[[_Standards/WikiData/WD~\U0001D54F,87570555|WD~\U0001D54F,87570555]]"
+uses: '[[_Standards/WikiData/WD~Twemoji,100601019|WD~Twemoji,100601019]]'
+access_restriction_status: '[[_Standards/WikiData/WD~registration_required,107459441|WD~registration_required,107459441]]'
+online_access_status: '[[_Standards/WikiData/WD~registration_required,107459441|WD~registration_required,107459441]]'
+developer: '[[_Standards/WikiData/WD~X_Corp.,117617480|WD~X_Corp.,117617480]]'
+operator: '[[_Standards/WikiData/WD~X_Corp.,117617480|WD~X_Corp.,117617480]]'
+owned_by: '[[_Standards/WikiData/WD~X_Corp.,117617480|WD~X_Corp.,117617480]]'
+publisher: '[[_Standards/WikiData/WD~X_Corp.,117617480|WD~X_Corp.,117617480]]'
 main_Wikidata_property:
 - X (Twitter) username
 - X post ID
@@ -121,10 +121,10 @@ main_Wikidata_property:
 - X topic ID
 - X moment ID
 - X list ID
-platform: '[[_Standards/WikiData/WD~web_browser,6368]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-headquarters_location: '[[_Standards/WikiData/WD~San_Francisco,62]]'
-industry: '[[_Standards/WikiData/WD~Internet,75]]'
+platform: '[[_Standards/WikiData/WD~web_browser,6368|WD~web_browser,6368]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+headquarters_location: '[[_Standards/WikiData/WD~San_Francisco,62|WD~San_Francisco,62]]'
+industry: '[[_Standards/WikiData/WD~Internet,75|WD~Internet,75]]'
 Similarweb_ranking: 6
 Alexa_rank:
 - 12
@@ -181,67 +181,67 @@ search_formatter_URL: https://x.com/search?q=has_time_started: 2006-03-21
 aliases:
 has_id_wikidata: Q918
 instance_of:
-  - "[[_Standards/WikiData/WD~microblogging,92438]]"
-  - "[[_Standards/WikiData/WD~social_networking_service,3220391]]"
-  - "[[_Standards/WikiData/WD~online_community,6576792]]"
-  - "[[_Standards/WikiData/WD~very_large_online_platform,118140435]]"
-  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+  - "[[_Standards/WikiData/WD~microblogging,92438|WD~microblogging,92438]]"
+  - "[[_Standards/WikiData/WD~social_networking_service,3220391|WD~social_networking_service,3220391]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~very_large_online_platform,118140435|WD~very_large_online_platform,118140435]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350|WD~user_generated_content_platform,122759350]]"
 has_use:
-  - "[[_Standards/WikiData/WD~microblogging,92438]]"
-  - "[[_Standards/WikiData/WD~crowdsourcing,275969]]"
-  - "[[_Standards/WikiData/WD~sharing,459221]]"
-  - "[[_Standards/WikiData/WD~collaboration,1145523]]"
-  - "[[_Standards/WikiData/WD~publishing,3972943]]"
-  - "[[_Standards/WikiData/WD~disseminating,123819226]]"
-  - "[[_Standards/WikiData/WD~communication,11024]]"
-distributed_by: "[[_Standards/WikiData/WD~Microsoft_Store,135288]]"
+  - "[[_Standards/WikiData/WD~microblogging,92438|WD~microblogging,92438]]"
+  - "[[_Standards/WikiData/WD~crowdsourcing,275969|WD~crowdsourcing,275969]]"
+  - "[[_Standards/WikiData/WD~sharing,459221|WD~sharing,459221]]"
+  - "[[_Standards/WikiData/WD~collaboration,1145523|WD~collaboration,1145523]]"
+  - "[[_Standards/WikiData/WD~publishing,3972943|WD~publishing,3972943]]"
+  - "[[_Standards/WikiData/WD~disseminating,123819226|WD~disseminating,123819226]]"
+  - "[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]"
+distributed_by: "[[_Standards/WikiData/WD~Microsoft_Store,135288|WD~Microsoft_Store,135288]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Q161053,161053]]"
-  - "[[_Standards/WikiData/WD~Q460584,460584]]"
-  - "[[_Standards/WikiData/WD~Q2005,2005]]"
-  - "[[../../../../../../../WikiData/WD~Java,251]]"
+  - "[[_Standards/WikiData/WD~Q161053,161053|WD~Q161053,161053]]"
+  - "[[_Standards/WikiData/WD~Q460584,460584|WD~Q460584,460584]]"
+  - "[[_Standards/WikiData/WD~Q2005,2005|WD~Q2005,2005]]"
+  - "[[../../../../../../../WikiData/WD~Java,251|WD~Java,251]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Х_х,179860]]"
-  - "[[_Standards/WikiData/WD~tweeter,399793]]"
-  - "[[_Standards/WikiData/WD~Twitter,1390577]]"
-  - "[[_Standards/WikiData/WD~XVideos,3700050]]"
-  - "[[_Standards/WikiData/WD~X.com,30686532]]"
+  - "[[_Standards/WikiData/WD~Х_х,179860|WD~Х_х,179860]]"
+  - "[[_Standards/WikiData/WD~tweeter,399793|WD~tweeter,399793]]"
+  - "[[_Standards/WikiData/WD~Twitter,1390577|WD~Twitter,1390577]]"
+  - "[[_Standards/WikiData/WD~XVideos,3700050|WD~XVideos,3700050]]"
+  - "[[_Standards/WikiData/WD~X.com,30686532|WD~X.com,30686532]]"
   - "[[_Standards/WikiData/WD~𝕏,87570555]]"
-  - "[[_Standards/WikiData/WD~X.com,121102033]]"
-  - "[[_Standards/WikiData/WD~St._X_Connect,123691925]]"
+  - "[[_Standards/WikiData/WD~X.com,121102033|WD~X.com,121102033]]"
+  - "[[_Standards/WikiData/WD~St._X_Connect,123691925|WD~St._X_Connect,123691925]]"
   - "[[_Standards/WikiData/WD~𝕏,125502471]]"
-  - "[[_Standards/WikiData/WD~X_x,9968]]"
-creator: "[[_Standards/WikiData/WD~Jack_Dorsey,335552]]"
+  - "[[_Standards/WikiData/WD~X_x,9968|WD~X_x,9968]]"
+creator: "[[_Standards/WikiData/WD~Jack_Dorsey,335552|WD~Jack_Dorsey,335552]]"
 founded_by:
-  - "[[_Standards/WikiData/WD~Jack_Dorsey,335552]]"
-  - "[[_Standards/WikiData/WD~Evan_Williams,561960]]"
-  - "[[_Standards/WikiData/WD~Biz_Stone,879247]]"
-  - "[[_Standards/WikiData/WD~Noah_Glass,6596009]]"
+  - "[[_Standards/WikiData/WD~Jack_Dorsey,335552|WD~Jack_Dorsey,335552]]"
+  - "[[_Standards/WikiData/WD~Evan_Williams,561960|WD~Evan_Williams,561960]]"
+  - "[[_Standards/WikiData/WD~Biz_Stone,879247|WD~Biz_Stone,879247]]"
+  - "[[_Standards/WikiData/WD~Noah_Glass,6596009|WD~Noah_Glass,6596009]]"
 official_color:
-  - "[[_Standards/WikiData/WD~black_and_white,838368]]"
-  - "[[_Standards/WikiData/WD~white,23444]]"
+  - "[[_Standards/WikiData/WD~black_and_white,838368|WD~black_and_white,838368]]"
+  - "[[_Standards/WikiData/WD~white,23444|WD~white,23444]]"
 significant_event:
-  - "[[_Standards/WikiData/WD~launch,1900995]]"
-  - "[[_Standards/WikiData/WD~founding,3075355]]"
-  - "[[_Standards/WikiData/WD~access_restriction,66439731]]"
-  - "[[_Standards/WikiData/WD~rebranding,128152018]]"
+  - "[[_Standards/WikiData/WD~launch,1900995|WD~launch,1900995]]"
+  - "[[_Standards/WikiData/WD~founding,3075355|WD~founding,3075355]]"
+  - "[[_Standards/WikiData/WD~access_restriction,66439731|WD~access_restriction,66439731]]"
+  - "[[_Standards/WikiData/WD~rebranding,128152018|WD~rebranding,128152018]]"
 collection:
-  - "[[_Standards/WikiData/WD~Text_Analysis_Portal_for_Research,3979414]]"
-  - "[[_Standards/WikiData/WD~Social_Sciences_and_Humanities_Open_Marketplace,131847864]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Twitter,6741634]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Twitter_X,16927708]]"
-described_by_source: "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
-official_app: "[[_Standards/WikiData/WD~X_app,41689563]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+  - "[[_Standards/WikiData/WD~Text_Analysis_Portal_for_Research,3979414|WD~Text_Analysis_Portal_for_Research,3979414]]"
+  - "[[_Standards/WikiData/WD~Social_Sciences_and_Humanities_Open_Marketplace,131847864|WD~Social_Sciences_and_Humanities_Open_Marketplace,131847864]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Twitter,6741634|WD~Template_Twitter,6741634]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Twitter_X,16927708|WD~timeline_of_Twitter_X,16927708]]"
+described_by_source: "[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490|WD~multiple_languages,20923490]]"
+official_app: "[[_Standards/WikiData/WD~X_app,41689563|WD~X_app,41689563]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]"
 notation: "[[_Standards/WikiData/WD~𝕏,87570555]]"
-uses: "[[_Standards/WikiData/WD~Twemoji,100601019]]"
-access_restriction_status: "[[_Standards/WikiData/WD~registration_required,107459441]]"
-online_access_status: "[[_Standards/WikiData/WD~registration_required,107459441]]"
-developer: "[[_Standards/WikiData/WD~X_Corp.,117617480]]"
-operator: "[[_Standards/WikiData/WD~X_Corp.,117617480]]"
-owned_by: "[[_Standards/WikiData/WD~X_Corp.,117617480]]"
-publisher: "[[_Standards/WikiData/WD~X_Corp.,117617480]]"
+uses: "[[_Standards/WikiData/WD~Twemoji,100601019|WD~Twemoji,100601019]]"
+access_restriction_status: "[[_Standards/WikiData/WD~registration_required,107459441|WD~registration_required,107459441]]"
+online_access_status: "[[_Standards/WikiData/WD~registration_required,107459441|WD~registration_required,107459441]]"
+developer: "[[_Standards/WikiData/WD~X_Corp.,117617480|WD~X_Corp.,117617480]]"
+operator: "[[_Standards/WikiData/WD~X_Corp.,117617480|WD~X_Corp.,117617480]]"
+owned_by: "[[_Standards/WikiData/WD~X_Corp.,117617480|WD~X_Corp.,117617480]]"
+publisher: "[[_Standards/WikiData/WD~X_Corp.,117617480|WD~X_Corp.,117617480]]"
 main_Wikidata_property:
   - X (Twitter) username
   - X post ID
@@ -249,10 +249,10 @@ main_Wikidata_property:
   - X topic ID
   - X moment ID
   - X list ID
-platform: "[[_Standards/WikiData/WD~web_browser,6368]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~San_Francisco,62]]"
-industry: "[[_Standards/WikiData/WD~Internet,75]]"
+platform: "[[_Standards/WikiData/WD~web_browser,6368|WD~web_browser,6368]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Francisco,62|WD~San_Francisco,62]]"
+industry: "[[_Standards/WikiData/WD~Internet,75|WD~Internet,75]]"
 Similarweb_ranking: 6
 Alexa_rank:
   - 12
@@ -556,7 +556,7 @@ dv_has_:
 #has_/time_/started :: 
 
 - acquired by [[../../../../../../../../Knowledge/AGI(Artificial_general_Intelligence)/Companies~AGI/Musk,Elon|Musk,Elon]] in 2022 and 
-- renamed to X in 2023 due to the Turmoil that [[../../../../../../../../_private/Society/Communication/Media/Podcast/Musk,Elon.de]] created after acquiring it. 
+- renamed to X in 2023 due to the Turmoil that [[../../../../../../../../_private/Society/Communication/Media/Podcast/Musk,Elon.de|Musk,Elon.de]] created after acquiring it. 
 
 #has_/url :: https://twitter.com 
 #has_/url :: https://X.com 
@@ -566,8 +566,8 @@ dv_has_:
 #has_/Frameworks :: [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Prog~Ruby/Ruby~Rails|Ruby~Rails]]  
 
 #is_/similar_to :: [[Bluesky]] 
-#is_/similar_to :: [[Fediverse/Mastodon-Network]] 
-#is_/similar_to :: [[Meta_Platforms/Threads(Meta)]] 
+#is_/similar_to :: [[Fediverse/Mastodon-Network|Mastodon-Network]] 
+#is_/similar_to :: [[Meta_Platforms/Threads(Meta)|Threads(Meta)]] 
 #is_/same_as :: [[../../../../../../../WikiData/WD~X,918|WD~X,918]] 
 
 Switched from [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Prog~Ruby/Ruby~Rails|Ruby~Rails]]  to [[Scala]] with [[../../../../../../../../IT/SW~Architecture/Enterprise-Architecture/Lean_Enterprise-Architecture/7.Architectural_Agility/3.Microservices-Architecture|3.Microservices-Architecture]] 

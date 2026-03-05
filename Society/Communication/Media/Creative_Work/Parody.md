@@ -47,21 +47,21 @@ aliases:
 - 戲仿
 - 패러디
 has_id_wikidata: Q170539
-partially_coincident_with: '[[_Standards/WikiData/WD~persiflage,336107]]'
-instance_of: '[[_Standards/WikiData/WD~genre,483394]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~persiflage,336107|WD~persiflage,336107]]'
+instance_of: '[[_Standards/WikiData/WD~genre,483394|WD~genre,483394]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~derivative_work,836950]]'
-practiced_by: '[[_Standards/WikiData/WD~impressionist,1148872]]'
-uses: '[[_Standards/WikiData/WD~parody,47404700]]'
-subclass_of: '[[_Standards/WikiData/WD~humor,35874]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~derivative_work,836950|WD~derivative_work,836950]]'
+practiced_by: '[[_Standards/WikiData/WD~impressionist,1148872|WD~impressionist,1148872]]'
+uses: '[[_Standards/WikiData/WD~parody,47404700|WD~parody,47404700]]'
+subclass_of: '[[_Standards/WikiData/WD~humor,35874|WD~humor,35874]]'
 OmegaWiki_Defined_Meaning: 1746459
 IMDb_keyword:
 - parody

@@ -93,22 +93,22 @@ aliases:
 - 감자튀김
 has_id_wikidata: Q152088
 subclass_of:
-- '[[_Standards/WikiData/WD~fast_food,81799]]'
-- '[[_Standards/WikiData/WD~side_dish,3688975]]'
-- '[[_Standards/WikiData/WD~convenience_food,13030962]]'
-fabrication_method: '[[_Standards/WikiData/WD~cutting,196751]]'
+- '[[_Standards/WikiData/WD~fast_food,81799|WD~fast_food,81799]]'
+- '[[_Standards/WikiData/WD~side_dish,3688975|WD~side_dish,3688975]]'
+- '[[_Standards/WikiData/WD~convenience_food,13030962|WD~convenience_food,13030962]]'
+fabrication_method: '[[_Standards/WikiData/WD~cutting,196751|WD~cutting,196751]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~vegetable_oil,4739805]]'
-- '[[_Standards/WikiData/WD~potato,10998]]'
-- '[[_Standards/WikiData/WD~table_salt,11254]]'
-instance_of: '[[_Standards/WikiData/WD~potato_dish,10514020]]'
-made_from_material: '[[_Standards/WikiData/WD~potato,16587531]]'
-serving_temperature: '[[_Standards/WikiData/WD~hot,28128222]]'
-part_of: '[[_Standards/WikiData/WD~French_cuisine,6661]]'
-location_of_creation: '[[_Standards/WikiData/WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~vegetable_oil,4739805|WD~vegetable_oil,4739805]]'
+- '[[_Standards/WikiData/WD~potato,10998|WD~potato,10998]]'
+- '[[_Standards/WikiData/WD~table_salt,11254|WD~table_salt,11254]]'
+instance_of: '[[_Standards/WikiData/WD~potato_dish,10514020|WD~potato_dish,10514020]]'
+made_from_material: '[[_Standards/WikiData/WD~potato,16587531|WD~potato,16587531]]'
+serving_temperature: '[[_Standards/WikiData/WD~hot,28128222|WD~hot,28128222]]'
+part_of: '[[_Standards/WikiData/WD~French_cuisine,6661|WD~French_cuisine,6661]]'
+location_of_creation: '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 USDA_NDB_number: 21247
 OmegaWiki_Defined_Meaning: 353292
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Truffle%20oil%20french%20fries%20%2833024792848%29.jpg

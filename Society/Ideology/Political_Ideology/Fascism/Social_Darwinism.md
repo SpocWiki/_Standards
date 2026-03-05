@@ -54,13 +54,13 @@ aliases:
 - 社會達爾文主義
 - 사회진화론
 has_id_wikidata: Q202261
-named_after: '[[_Standards/WikiData/WD~Darwinism,183493]]'
+named_after: '[[_Standards/WikiData/WD~Darwinism,183493|WD~Darwinism,183493]]'
 based_on:
-- '[[_Standards/WikiData/WD~survival_of_the_fittest,721322]]'
-- '[[_Standards/WikiData/WD~natural_selection,43478]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q13356905,13356905]]'
-instance_of: '[[_Standards/WikiData/WD~ideology,7257]]'
+- '[[_Standards/WikiData/WD~survival_of_the_fittest,721322|WD~survival_of_the_fittest,721322]]'
+- '[[_Standards/WikiData/WD~natural_selection,43478|WD~natural_selection,43478]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q13356905,13356905|WD~Q13356905,13356905]]'
+instance_of: '[[_Standards/WikiData/WD~ideology,7257|WD~ideology,7257]]'
 Library_of_Congress_Classification: HM631
 Dewey_Decimal_Classification: 300.1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bilan%20fin%20de%20si%C3%A8cle.jpg

@@ -25,9 +25,9 @@ tags:
 title: is_a_balance Class
 type: Type
 dv_has_:
-  parent_class: "[[../PhysicalActivityCategory]]"
+  parent_class: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
 dv_is_:
-  enum_of: "[[../PhysicalActivityCategory]]"
+  enum_of: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Balance|Balance]]"
     - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Balance.public|Balance.public]]"
@@ -37,8 +37,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Balance.personal|Balance.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Balance.secret|Balance.secret]]"
     - "[[Balance]]"
-dv_has_parent_class: "[[../PhysicalActivityCategory]]"
-dv_is_enum_of: "[[../PhysicalActivityCategory]]"
+dv_has_parent_class: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
+dv_is_enum_of: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
 dv_is_same_as:
   - "[[Balance]]"
   - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Balance.public|Balance.public]]"

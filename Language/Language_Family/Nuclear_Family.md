@@ -52,14 +52,14 @@ aliases:
 - 核心家庭
 - 핵가족
 has_id_wikidata: Q720069
-different_from: '[[_Standards/WikiData/WD~Gezin,5555094]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~immediate_family,6004774]]'
-named_after: '[[_Standards/WikiData/WD~dry_goods,20707967]]'
-instance_of: '[[_Standards/WikiData/WD~family_structure,66363776]]'
+different_from: '[[_Standards/WikiData/WD~Gezin,5555094|WD~Gezin,5555094]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~immediate_family,6004774|WD~immediate_family,6004774]]'
+named_after: '[[_Standards/WikiData/WD~dry_goods,20707967|WD~dry_goods,20707967]]'
+instance_of: '[[_Standards/WikiData/WD~family_structure,66363776|WD~family_structure,66363776]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~parent,7566]]'
-- '[[_Standards/WikiData/WD~child,7569]]'
-subclass_of: '[[_Standards/WikiData/WD~family,8436]]'
+- '[[_Standards/WikiData/WD~parent,7566|WD~parent,7566]]'
+- '[[_Standards/WikiData/WD~child,7569|WD~child,7569]]'
+subclass_of: '[[_Standards/WikiData/WD~family,8436|WD~family,8436]]'
 Commons_category: Family
 image: http://commons.wikimedia.org/wiki/Special:FilePath/W.H.%20Shumard%20family%2C%20circa%201955.jpg
 MeSH_tree_code:

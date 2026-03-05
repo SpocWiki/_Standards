@@ -114,32 +114,32 @@ aliases:
 - 북회귀선
 has_id_wikidata: Q176635
 instance_of:
-- '[[_Standards/WikiData/WD~region,82794]]'
-- '[[_Standards/WikiData/WD~tropic,149273]]'
-opposite_of: '[[_Standards/WikiData/WD~Tropic_of_Capricorn,177440]]'
-different_from: '[[_Standards/WikiData/WD~Tropic_of_Cancer,1501700]]'
+- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
+- '[[_Standards/WikiData/WD~tropic,149273|WD~tropic,149273]]'
+opposite_of: '[[_Standards/WikiData/WD~Tropic_of_Capricorn,177440|WD~Tropic_of_Capricorn,177440]]'
+different_from: '[[_Standards/WikiData/WD~Tropic_of_Cancer,1501700|WD~Tropic_of_Cancer,1501700]]'
 coordinate_location: Point(0.0 23.436027777)
 country:
-- '[[_Standards/WikiData/WD~Algeria,262]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~The_Bahamas,778]]'
-- '[[_Standards/WikiData/WD~Myanmar,836]]'
-- '[[_Standards/WikiData/WD~Oman,842]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Mali,912]]'
-- '[[_Standards/WikiData/WD~Libya,1016]]'
-- '[[_Standards/WikiData/WD~Mauritania,1025]]'
-- '[[_Standards/WikiData/WD~Morocco,1028]]'
-- '[[_Standards/WikiData/WD~Niger,1032]]'
-- '[[_Standards/WikiData/WD~Egypt,79]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-part_of: '[[_Standards/WikiData/WD~Northern_Hemisphere,39061]]'
+- '[[_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~The_Bahamas,778|WD~The_Bahamas,778]]'
+- '[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
+- '[[_Standards/WikiData/WD~Oman,842|WD~Oman,842]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Mali,912|WD~Mali,912]]'
+- '[[_Standards/WikiData/WD~Libya,1016|WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025|WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Niger,1032|WD~Niger,1032]]'
+- '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362|WD~Sahrawi_Arab_Democratic_Republic,40362]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
+part_of: '[[_Standards/WikiData/WD~Northern_Hemisphere,39061|WD~Northern_Hemisphere,39061]]'
 OmegaWiki_Defined_Meaning: 807848
 Commons_category: Tropic of Cancer
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20map%20with%20tropic%20of%20cancer.svg

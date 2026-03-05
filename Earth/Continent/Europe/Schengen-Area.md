@@ -117,9 +117,9 @@ has_member:
 - '[[Europe~South/Spain|Spain]]'
 - '[[Europe~North/Sweden|Sweden]]'
 - '[[Europe~North/Norway|Norway]]'
-- '[[Europe~Central/Switzerland]]'
+- '[[Europe~Central/Switzerland|Switzerland]]'
 - '[[Europe~North/Iceland|Iceland]]'
-- '[[Europe~Central/Liechtenstein]]'
+- '[[Europe~Central/Liechtenstein|Liechtenstein]]'
 dv_has_:
   name_:
     ar: منطقة شنغن
@@ -267,7 +267,7 @@ has_time_started = `=this.dv_has_time_started`
 > while Ireland maintains an opt-out and operates its own visa policy. 
 >
 > In addition to the member states of the European Union, 
-> all member states of the [[Europe~Central/EFTA(European_Free_Trade_Association)]],  
+> all member states of the [[Europe~Central/EFTA(European_Free_Trade_Association)|EFTA(European_Free_Trade_Association)]],  
 > namely Iceland, Liechtenstein, Norway and Switzerland, 
 > have signed association agreements with the EU to be part of the Schengen Area. 
 > Moreover, three microstates, Monaco, San Marino and Vatican City, 

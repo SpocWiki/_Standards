@@ -77,12 +77,12 @@ has_id_wikidata: Q124425
 location:
 - 15.873611
 - 48.875833
-different_from: '[[_Standards/WikiData/WD~Bamboo_Curtain,1072056]]'
+different_from: '[[_Standards/WikiData/WD~Bamboo_Curtain,1072056|WD~Bamboo_Curtain,1072056]]'
 instance_of:
-- '[[_Standards/WikiData/WD~political_border,1292279]]'
-- '[[_Standards/WikiData/WD~catchphrase,2708515]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~communism,6186]]'
-country: '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
+- '[[_Standards/WikiData/WD~political_border,1292279|WD~political_border,1292279]]'
+- '[[_Standards/WikiData/WD~catchphrase,2708515|WD~catchphrase,2708515]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~communism,6186|WD~communism,6186]]'
+country: '[[_Standards/WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]]'
 name: Iron Curtain
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Iron%20Curtain.ogg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Iron%20Curtain%20map.svg
@@ -94,7 +94,7 @@ inception: 1946-03-05T00:00:00Z
 coordinate_location: Point(15.873611 48.875833)
 dv_is_:
   same_as:
-  - '[[../../../../../../../../../WikiData/WD~Iron_Curtain,124425]]'
+  - '[[../../../../../../../../../WikiData/WD~Iron_Curtain,124425|WD~Iron_Curtain,124425]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991|1945-Iron_Curtain-1991]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.public|1945-Iron_Curtain-1991.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.internal|1945-Iron_Curtain-1991.internal]]'
@@ -103,7 +103,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.personal|1945-Iron_Curtain-1991.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.secret|1945-Iron_Curtain-1991.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../../WikiData/WD~Iron_Curtain,124425]]'
+- '[[../../../../../../../../../WikiData/WD~Iron_Curtain,124425|WD~Iron_Curtain,124425]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991|1945-Iron_Curtain-1991]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.public|1945-Iron_Curtain-1991.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.internal|1945-Iron_Curtain-1991.internal]]'

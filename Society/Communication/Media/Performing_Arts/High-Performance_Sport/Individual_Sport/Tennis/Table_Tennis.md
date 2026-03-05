@@ -108,24 +108,24 @@ name:
 OpenStreetMap_tag: sport=table_tennis
 Dewey_Decimal_Classification: 796.346
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~ball_game,877517]]'
-- '[[_Standards/WikiData/WD~racket_sport,2426135]]'
-- '[[_Standards/WikiData/WD~table_sports,20478894]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~ball_game,877517|WD~ball_game,877517]]'
+- '[[_Standards/WikiData/WD~racket_sport,2426135|WD~racket_sport,2426135]]'
+- '[[_Standards/WikiData/WD~table_sports,20478894|WD~table_sports,20478894]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
 uses:
-- '[[_Standards/WikiData/WD~table_tennis_racket,337695]]'
-- '[[_Standards/WikiData/WD~table_tennis_ball,2436595]]'
-- '[[_Standards/WikiData/WD~table_for_table_tennis,48961427]]'
-- '[[_Standards/WikiData/WD~ping_pong_nets_&_post,117208731]]'
-authority: '[[_Standards/WikiData/WD~International_Table_Tennis_Federation,661379]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~table_tennis_racket,337695|WD~table_tennis_racket,337695]]'
+- '[[_Standards/WikiData/WD~table_tennis_ball,2436595|WD~table_tennis_ball,2436595]]'
+- '[[_Standards/WikiData/WD~table_for_table_tennis,48961427|WD~table_for_table_tennis,48961427]]'
+- '[[_Standards/WikiData/WD~ping_pong_nets_&_post,117208731|WD~ping_pong_nets_&_post,117208731]]'
+authority: '[[_Standards/WikiData/WD~International_Table_Tennis_Federation,661379|WD~International_Table_Tennis_Federation,661379]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~table_tennis_player,13382519]]'
-- '[[_Standards/WikiData/WD~table_tennis_coach,98636346]]'
+- '[[_Standards/WikiData/WD~table_tennis_player,13382519|WD~table_tennis_player,13382519]]'
+- '[[_Standards/WikiData/WD~table_tennis_coach,98636346|WD~table_tennis_coach,98636346]]'
 inception: 1891-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+country_of_origin: '[[_Standards/WikiData/WD~England,21|WD~England,21]]'
 minimum_number_of_players: 2
 maximum_number_of_players: 4
 IAB_code: 538

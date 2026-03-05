@@ -57,36 +57,36 @@ aliases:
 - 预言
 - 예언
 has_id_wikidata: Q214267
-has_cause: '[[_Standards/WikiData/WD~supernatural,80837]]'
+has_cause: '[[_Standards/WikiData/WD~supernatural,80837|WD~supernatural,80837]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~religious_text,179461]]'
-- '[[_Standards/WikiData/WD~oral_tradition,209815]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~religious_text,179461|WD~religious_text,179461]]'
+- '[[_Standards/WikiData/WD~oral_tradition,209815|WD~oral_tradition,209815]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-- '[[_Standards/WikiData/WD~message,628523]]'
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~human_activity,61788060]]'
+- '[[_Standards/WikiData/WD~message,628523|WD~message,628523]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~human_activity,61788060|WD~human_activity,61788060]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~divine_law,1559849]]'
-- '[[_Standards/WikiData/WD~Preternatural,7242130]]'
-- '[[_Standards/WikiData/WD~Will_of_God,8003236]]'
+- '[[_Standards/WikiData/WD~divine_law,1559849|WD~divine_law,1559849]]'
+- '[[_Standards/WikiData/WD~Preternatural,7242130|WD~Preternatural,7242130]]'
+- '[[_Standards/WikiData/WD~Will_of_God,8003236|WD~Will_of_God,8003236]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~spiritual_practice,2270606]]'
-- '[[_Standards/WikiData/WD~psychic_ability,106249934]]'
-- '[[_Standards/WikiData/WD~communication,11024]]'
+- '[[_Standards/WikiData/WD~spiritual_practice,2270606|WD~spiritual_practice,2270606]]'
+- '[[_Standards/WikiData/WD~psychic_ability,106249934|WD~psychic_ability,106249934]]'
+- '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
 facet_of:
-- '[[_Standards/WikiData/WD~belief_system,5390013]]'
-- '[[_Standards/WikiData/WD~religion,9174]]'
-- '[[_Standards/WikiData/WD~culture,11042]]'
-genre: '[[_Standards/WikiData/WD~forecasting,16384568]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~prophecy,106902054]]'
+- '[[_Standards/WikiData/WD~belief_system,5390013|WD~belief_system,5390013]]'
+- '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
+genre: '[[_Standards/WikiData/WD~forecasting,16384568|WD~forecasting,16384568]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~prophecy,106902054|WD~prophecy,106902054]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~prophecy,123439109]]'
-- '[[_Standards/WikiData/WD~prophecy_in_Islam,131751959]]'
-practiced_by: '[[_Standards/WikiData/WD~prophet,42857]]'
+- '[[_Standards/WikiData/WD~prophecy,123439109|WD~prophecy,123439109]]'
+- '[[_Standards/WikiData/WD~prophecy_in_Islam,131751959|WD~prophecy_in_Islam,131751959]]'
+practiced_by: '[[_Standards/WikiData/WD~prophet,42857|WD~prophet,42857]]'
 PhilPapers_topic: prophecy
 IMDb_keyword: prophecy
 Commons_category: Prophecy

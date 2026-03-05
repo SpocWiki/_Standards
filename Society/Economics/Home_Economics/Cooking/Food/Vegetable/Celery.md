@@ -104,37 +104,37 @@ aliases:
 - 셀러리
 has_id_wikidata: Q28298
 subclass_of:
-- '[[_Standards/WikiData/WD~perennial_plant,157957]]'
-- '[[_Standards/WikiData/WD~herb,207123]]'
-- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~perennial_plant,157957|WD~perennial_plant,157957]]'
+- '[[_Standards/WikiData/WD~herb,207123|WD~herb,207123]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
 has_use:
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
-- '[[_Standards/WikiData/WD~spice,42527]]'
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
+- '[[_Standards/WikiData/WD~spice,42527|WD~spice,42527]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005|WD~Least_Concern,211005]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_55(2),112869452]]'
-parent_taxon: '[[_Standards/WikiData/WD~Apium,2284228]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Seseli_graveolens,17411921]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_55(2),112869452|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_55(2),112869452]]'
+parent_taxon: '[[_Standards/WikiData/WD~Apium,2284228|WD~Apium,2284228]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Seseli_graveolens,17411921|WD~Seseli_graveolens,17411921]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~celery,23012379]]'
-- '[[_Standards/WikiData/WD~celery_seed_oil,72516622]]'
-- '[[_Standards/WikiData/WD~celery_seed,102256772]]'
-- '[[_Standards/WikiData/WD~celery_juice,104176881]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-hardiness_of_plant: '[[_Standards/WikiData/WD~3,99546471]]'
+- '[[_Standards/WikiData/WD~celery,23012379|WD~celery,23012379]]'
+- '[[_Standards/WikiData/WD~celery_seed_oil,72516622|WD~celery_seed_oil,72516622]]'
+- '[[_Standards/WikiData/WD~celery_seed,102256772|WD~celery_seed,102256772]]'
+- '[[_Standards/WikiData/WD~celery_juice,104176881|WD~celery_juice,104176881]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~3,99546471|WD~3,99546471]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Beijing,956]]'
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Fujian,41705]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Beijing,956|WD~Beijing,956]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269|WD~Tibet_Autonomous_Region,17269]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Fujian,41705|WD~Fujian,41705]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 USDA_NDB_number: 11143
 ITIS_TSN:
 - 182184

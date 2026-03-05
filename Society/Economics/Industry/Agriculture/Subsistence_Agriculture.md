@@ -48,12 +48,12 @@ aliases:
 - 생계농업
 has_id_wikidata: Q2787508
 practiced_by:
-- '[[_Standards/WikiData/WD~farmer,131512]]'
-- '[[_Standards/WikiData/WD~peasant,838811]]'
-part_of: '[[_Standards/WikiData/WD~traditional_economy,2994466]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-instance_of: '[[_Standards/WikiData/WD~farming_system,56395513]]'
-has_effect: '[[_Standards/WikiData/WD~autoconsumption,127144785]]'
+- '[[_Standards/WikiData/WD~farmer,131512|WD~farmer,131512]]'
+- '[[_Standards/WikiData/WD~peasant,838811|WD~peasant,838811]]'
+part_of: '[[_Standards/WikiData/WD~traditional_economy,2994466|WD~traditional_economy,2994466]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+instance_of: '[[_Standards/WikiData/WD~farming_system,56395513|WD~farming_system,56395513]]'
+has_effect: '[[_Standards/WikiData/WD~autoconsumption,127144785|WD~autoconsumption,127144785]]'
 ISCO_88_occupation_class: 6310
 Wolfram_Language_entity_code: Entity["Concept", "SubsistenceFarming::44wsw"]
 dv_has_:

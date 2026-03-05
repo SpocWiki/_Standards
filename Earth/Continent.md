@@ -185,14 +185,14 @@ Commons_category: Continents
 Commons_gallery: Continents
 described_at_URL: https://www.whosonfirst.org/docs/placetypes/#continent
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~continental_crust,858571]]'
-- '[[_Standards/WikiData/WD~part_of_the_world,2418896]]'
-- '[[_Standards/WikiData/WD~Q97235040,97235040]]'
+- '[[_Standards/WikiData/WD~continental_crust,858571|WD~continental_crust,858571]]'
+- '[[_Standards/WikiData/WD~part_of_the_world,2418896|WD~part_of_the_world,2418896]]'
+- '[[_Standards/WikiData/WD~Q97235040,97235040|WD~Q97235040,97235040]]'
 document_file_on_Wikimedia_Commons: http://commons.wikimedia.org/wiki/Special:FilePath/Divisao-dos-Continentes-America-Europa-Asia-Oceania-Africa-Antardida-Mapa-IBGE-Brasil.svg
 equivalent_class: https://schema.org/Continent
 GeoNames_feature_code: L.CONT
@@ -200,21 +200,21 @@ IAB_code: 1220
 icon: far_map
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Continentes%20Wikipedia.svg
 Krugosvet_article: Earth_sciences/geografiya/MATERIK.html
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~continental_crust,858571]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~continental_crust,858571|WD~continental_crust,858571]]'
 OmegaWiki_Defined_Meaning: 4257
 OpenStreetMap_tag_or_key: Tag:place=continent
-opposite_of: '[[_Standards/WikiData/WD~ocean,9430]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~part_of_the_world,2418896]]'
+opposite_of: '[[_Standards/WikiData/WD~ocean,9430|WD~ocean,9430]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~part_of_the_world,2418896|WD~part_of_the_world,2418896]]'
 part_of:
-- "[[_Standards/WikiData/WD~Earth's_crust,15316]]"
-- '[[_Standards/WikiData/WD~Earth,2]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q124036706,124036706]]'
+- "[[_Standards/WikiData/WD~Earth's_crust,15316|WD~Earth's_crust,15316]]"
+- '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q124036706,124036706|WD~Q124036706,124036706]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~landmass,205895]]'
-- '[[_Standards/WikiData/WD~natural_geographic_object,35145263]]'
+- '[[_Standards/WikiData/WD~landmass,205895|WD~landmass,205895]]'
+- '[[_Standards/WikiData/WD~natural_geographic_object,35145263|WD~natural_geographic_object,35145263]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_continent,6075519]]'
-- '[[_Standards/WikiData/WD~Template_Continents_of_Earth,6263301]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_continent,6075519|WD~Template_Infobox_continent,6075519]]'
+- '[[_Standards/WikiData/WD~Template_Continents_of_Earth,6263301|WD~Template_Continents_of_Earth,6263301]]'
 Wikidata_property: continent
 dv_has_:
   name_:
@@ -487,7 +487,7 @@ dv_has_:
     zh-my: 大洲
     zh_sg: 大洲
     zh_tw: 大洲
-  parent_class: '[[Geology/Landform]]'
+  parent_class: '[[Geology/Landform|Landform]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:
   same_as:
@@ -499,7 +499,7 @@ dv_is_:
   - '[[/_private/Earth/Continent.private|Continent.private]]'
   - '[[/_personal/Earth/Continent.personal|Continent.personal]]'
   - '[[/_secret/Earth/Continent.secret|Continent.secret]]'
-dv_has_parent_class: '[[Geology/Landform]]'
+dv_has_parent_class: '[[Geology/Landform|Landform]]'
 dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
 - '[[../WikiData/WD~Continent,5107|WD~Continent,5107]]'
@@ -523,7 +523,7 @@ on a global-scale
 
 Since geographical Information is voluminous, this Repository only contains Details down to the Country Level (with [[Continent/Antarctica|Antarctica]], [[Continent/Oceania|Oceania]] and [[Continent/America~Caribbean|America~Caribbean]] as exceptions). To add Details below this Level, check out the Repository into the corresponding Folder to obtain consistent Link-Paths. 
 
-They largely coincide with a subset of Tectonic plates, which can also form high Mountain Ranges like the Alps or the Himalayas, but except for the Ural (separating [[Continent/Europe]] from [[Continent/Asia]] , these are not typically used to distinguish Continents. 
+They largely coincide with a subset of Tectonic plates, which can also form high Mountain Ranges like the Alps or the Himalayas, but except for the Ural (separating [[Continent/Europe|Europe]] from [[Continent/Asia|Asia]] , these are not typically used to distinguish Continents. 
 
 Class of all continents.
 

@@ -60,10 +60,10 @@ aliases:
 - 파동―립자 2중성
 has_id_wikidata: Q193068
 instance_of:
-- '[[_Standards/WikiData/WD~physical_law,214070]]'
-- '[[_Standards/WikiData/WD~quantum_effect,1872885]]'
-studied_by: '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
-manifestation_of: '[[_Standards/WikiData/WD~uncertainty_principle,44746]]'
+- '[[_Standards/WikiData/WD~physical_law,214070|WD~physical_law,214070]]'
+- '[[_Standards/WikiData/WD~quantum_effect,1872885|WD~quantum_effect,1872885]]'
+studied_by: '[[_Standards/WikiData/WD~quantum_mechanics,944|WD~quantum_mechanics,944]]'
+manifestation_of: '[[_Standards/WikiData/WD~uncertainty_principle,44746|WD~uncertainty_principle,44746]]'
 video:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Dualit%C3%A9%20onde-corpuscule.ogv
 - http://commons.wikimedia.org/wiki/Special:FilePath/Wave-particle%20duality.gif

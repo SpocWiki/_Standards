@@ -136,31 +136,31 @@ aliases:
 - 胡夫金字塔
 - 기자의 대피라미드
 has_id_wikidata: Q37200
-locations: '[[_Standards/WikiData/WD~Giza,81788]]'
-commissioned_by: '[[_Standards/WikiData/WD~Khufu,161904]]'
+locations: '[[_Standards/WikiData/WD~Giza,81788|WD~Giza,81788]]'
+commissioned_by: '[[_Standards/WikiData/WD~Khufu,161904|WD~Khufu,161904]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Egyptian_pyramids,175582]]'
-- '[[_Standards/WikiData/WD~tomb,381885]]'
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~archaeological_site,839954]]'
-- '[[_Standards/WikiData/WD~smooth_sided_pyramid,4363262]]'
-- '[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]'
+- '[[_Standards/WikiData/WD~Egyptian_pyramids,175582|WD~Egyptian_pyramids,175582]]'
+- '[[_Standards/WikiData/WD~tomb,381885|WD~tomb,381885]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]'
+- '[[_Standards/WikiData/WD~smooth_sided_pyramid,4363262|WD~smooth_sided_pyramid,4363262]]'
+- '[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498|WD~Wonder_of_the_Ancient_World,66108498]]'
 part_of:
-- '[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772]]'
-- '[[_Standards/WikiData/WD~Giza_pyramid_complex,12508]]'
-architectural_style: '[[_Standards/WikiData/WD~ancient_Egyptian_architecture,842352]]'
-shape: '[[_Standards/WikiData/WD~pyramid,3358290]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Giza_Necropolis,13217298]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Livius,68074438]]'
+- '[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772|WD~Seven_Wonders_of_the_Ancient_World,489772]]'
+- '[[_Standards/WikiData/WD~Giza_pyramid_complex,12508|WD~Giza_pyramid_complex,12508]]'
+architectural_style: '[[_Standards/WikiData/WD~ancient_Egyptian_architecture,842352|WD~ancient_Egyptian_architecture,842352]]'
+shape: '[[_Standards/WikiData/WD~pyramid,3358290|WD~pyramid,3358290]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Giza_Necropolis,13217298|WD~Giza_Necropolis,13217298]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Livius,68074438|WD~WikiProject_Livius,68074438]]'
 coordinate_location: Point(31.13422 29.97915)
-country_of_origin: '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
+country_of_origin: '[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~limestone,23757]]'
-- '[[_Standards/WikiData/WD~granite,41177]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Giza_Governorate,30832]]'
-country: '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~limestone,23757|WD~limestone,23757]]'
+- '[[_Standards/WikiData/WD~granite,41177|WD~granite,41177]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Giza_Governorate,30832|WD~Giza_Governorate,30832]]'
+country: '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
 elevation_above_sea_level: 95
-architect: '[[_Standards/WikiData/WD~Hemiunu,59087]]'
+architect: '[[_Standards/WikiData/WD~Hemiunu,59087|WD~Hemiunu,59087]]'
 height: 137.5
 volume_as_quantity: 2583283
 image_of_entrance: http://commons.wikimedia.org/wiki/Special:FilePath/Giseh%2002.jpg
@@ -311,7 +311,7 @@ dv_has_:
 
 # [[Great_Pyramid_of_Giza]] 
 
-![[../../../../../assets/Great_Pyramid_of_Giza.png]] 
+![[../../../../../assets/Great_Pyramid_of_Giza.png|Great_Pyramid_of_Giza.png]] 
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Dvdzee&amp;action=edit&amp;redlink=1" class="new" title="User:Dvdzee (page does not exist)">Douwe C. van der Zee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=138278511">Link</a> 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Great_Pyramid_of_Giza,37200|WD~Great_Pyramid_of_Giza,37200]] 
@@ -330,7 +330,7 @@ defaultZoom: 16
 ```
 
 
-![[../../../../../assets/Giza_pyramid_complex_(map).svg]]  
+![[../../../../../assets/Giza_pyramid_complex_(map).svg|Giza_pyramid_complex_(map).svg]]  
 
 
 ## #has_/text_of_/abstract 

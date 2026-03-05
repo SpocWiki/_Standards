@@ -76,76 +76,76 @@ tags:
 title: Grant,Ulysses_S
 type: private_note
 occupation:
-- '[[_Standards/WikiData/WD~politician,82955]]'
-- '[[_Standards/WikiData/WD~statesperson,372436]]'
-- '[[_Standards/WikiData/WD~explorer,11900058]]'
-- '[[_Standards/WikiData/WD~army_officer,38239859]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~politician,82955|WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~statesperson,372436|WD~statesperson,372436]]'
+- '[[_Standards/WikiData/WD~explorer,11900058|WD~explorer,11900058]]'
+- '[[_Standards/WikiData/WD~army_officer,38239859|WD~army_officer,38239859]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Presbyterianism,178169]]'
-- '[[_Standards/WikiData/WD~Methodism,33203]]'
-spouse: '[[_Standards/WikiData/WD~Julia_Grant,233641]]'
-member_of: '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~Presbyterianism,178169|WD~Presbyterianism,178169]]'
+- '[[_Standards/WikiData/WD~Methodism,33203|WD~Methodism,33203]]'
+spouse: '[[_Standards/WikiData/WD~Julia_Grant,233641|WD~Julia_Grant,233641]]'
+member_of: '[[_Standards/WikiData/WD~American_Philosophical_Society,466089|WD~American_Philosophical_Society,466089]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-award_received: '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
-cause_of_death: '[[_Standards/WikiData/WD~laryngeal_cancer,852423]]'
-place_of_birth: '[[_Standards/WikiData/WD~Point_Pleasant,1002654]]'
-place_of_burial: "[[_Standards/WikiData/WD~Grant's_Tomb,1025105]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667|WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835|WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+award_received: '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743|WD~Congressional_Gold_Medal,721743]]'
+cause_of_death: '[[_Standards/WikiData/WD~laryngeal_cancer,852423|WD~laryngeal_cancer,852423]]'
+place_of_birth: '[[_Standards/WikiData/WD~Point_Pleasant,1002654|WD~Point_Pleasant,1002654]]'
+place_of_burial: "[[_Standards/WikiData/WD~Grant's_Tomb,1025105|WD~Grant's_Tomb,1025105]]"
 position_held:
-- '[[_Standards/WikiData/WD~Commanding_General_of_the_United_States_Army,1115127]]'
-- '[[_Standards/WikiData/WD~President_elect_of_the_United_States,1467287]]'
-- '[[_Standards/WikiData/WD~United_States_Secretary_of_War,2419102]]'
-- '[[_Standards/WikiData/WD~President_of_the_United_States,11696]]'
-military_or_police_rank: '[[_Standards/WikiData/WD~General_of_the_Army,1331037]]'
+- '[[_Standards/WikiData/WD~Commanding_General_of_the_United_States_Army,1115127|WD~Commanding_General_of_the_United_States_Army,1115127]]'
+- '[[_Standards/WikiData/WD~President_elect_of_the_United_States,1467287|WD~President_elect_of_the_United_States,1467287]]'
+- '[[_Standards/WikiData/WD~United_States_Secretary_of_War,2419102|WD~United_States_Secretary_of_War,2419102]]'
+- '[[_Standards/WikiData/WD~President_of_the_United_States,11696|WD~President_of_the_United_States,11696]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~General_of_the_Army,1331037|WD~General_of_the_Army,1331037]]'
 child:
-- '[[_Standards/WikiData/WD~Frederick_Dent_Grant,1344993]]'
-- '[[_Standards/WikiData/WD~Jesse_Root_Grant,6186805]]'
-- '[[_Standards/WikiData/WD~Nellie_Grant,6990102]]'
-- '[[_Standards/WikiData/WD~Ulysses_S._Grant,_Jr.,7880938]]'
-military_branch: '[[_Standards/WikiData/WD~Union_Army,1752901]]'
+- '[[_Standards/WikiData/WD~Frederick_Dent_Grant,1344993|WD~Frederick_Dent_Grant,1344993]]'
+- '[[_Standards/WikiData/WD~Jesse_Root_Grant,6186805|WD~Jesse_Root_Grant,6186805]]'
+- '[[_Standards/WikiData/WD~Nellie_Grant,6990102|WD~Nellie_Grant,6990102]]'
+- '[[_Standards/WikiData/WD~Ulysses_S._Grant,_Jr.,7880938|WD~Ulysses_S._Grant,_Jr.,7880938]]'
+military_branch: '[[_Standards/WikiData/WD~Union_Army,1752901|WD~Union_Army,1752901]]'
 present_in_work:
-- '[[_Standards/WikiData/WD~Qui_veut_la_peau_du_général_,2387327]]'
-- '[[_Standards/WikiData/WD~Q2742031,2742031]]'
-place_of_death: '[[_Standards/WikiData/WD~Wilton,3710319]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+- '[[_Standards/WikiData/WD~Qui_veut_la_peau_du_général_,2387327|WD~Qui_veut_la_peau_du_général_,2387327]]'
+- '[[_Standards/WikiData/WD~Q2742031,2742031|WD~Q2742031,2742031]]'
+place_of_death: '[[_Standards/WikiData/WD~Wilton,3710319|WD~Wilton,3710319]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
 given_name:
-- '[[_Standards/WikiData/WD~Hiram,3785750]]'
-- '[[_Standards/WikiData/WD~Ulysses,4003050]]'
-- '[[_Standards/WikiData/WD~S.,19803518]]'
-mount: '[[_Standards/WikiData/WD~Cincinnati,5120208]]'
-owner_of: '[[_Standards/WikiData/WD~Cincinnati,5120208]]'
+- '[[_Standards/WikiData/WD~Hiram,3785750|WD~Hiram,3785750]]'
+- '[[_Standards/WikiData/WD~Ulysses,4003050|WD~Ulysses,4003050]]'
+- '[[_Standards/WikiData/WD~S.,19803518|WD~S.,19803518]]'
+mount: '[[_Standards/WikiData/WD~Cincinnati,5120208|WD~Cincinnati,5120208]]'
+owner_of: '[[_Standards/WikiData/WD~Cincinnati,5120208|WD~Cincinnati,5120208]]'
 artist_files_at:
-- '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
-- '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-social_classification: '[[_Standards/WikiData/WD~slave_owner,10076267]]'
-family_name: '[[_Standards/WikiData/WD~Grant,17864440]]'
-father: '[[_Standards/WikiData/WD~Jesse_Root_Grant,20767945]]'
-mother: '[[_Standards/WikiData/WD~Hannah_Simpson_Grant,64759245]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
-significant_person: '[[_Standards/WikiData/WD~German_Senter,115903282]]'
+- '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390|WD~Frick_Art_Research_Library,5503390]]'
+- '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879|WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+social_classification: '[[_Standards/WikiData/WD~slave_owner,10076267|WD~slave_owner,10076267]]'
+family_name: '[[_Standards/WikiData/WD~Grant,17864440|WD~Grant,17864440]]'
+father: '[[_Standards/WikiData/WD~Jesse_Root_Grant,20767945|WD~Jesse_Root_Grant,20767945]]'
+mother: '[[_Standards/WikiData/WD~Hannah_Simpson_Grant,64759245|WD~Hannah_Simpson_Grant,64759245]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359|WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+significant_person: '[[_Standards/WikiData/WD~German_Senter,115903282|WD~German_Senter,115903282]]'
 date_of_death: 1885-07-23T00:00:00Z
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
-native_language: '[[_Standards/WikiData/WD~English,1860]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-educated_at: '[[_Standards/WikiData/WD~United_States_Military_Academy,9219]]'
-member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
-residence: '[[_Standards/WikiData/WD~New_York_City,60]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+educated_at: '[[_Standards/WikiData/WD~United_States_Military_Academy,9219|WD~United_States_Military_Academy,9219]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468|WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+residence: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
 number_of_children: 4
 height:
 - 173
@@ -172,8 +172,8 @@ P1015: 90127969
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "UlyssesSGrantFirstGeneralArmy"]
 Krugosvet_article_archived_: istoriya/GRANT_ULISS_SIMPSON.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/11692
-dv_has_role: '[[../US_President]]'
-dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]'
+dv_has_role: '[[../US_President|US_President]]'
+dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party|US~Republican_Party]]'
 dv_created: 1869-03-04
 dv_cancelled: 1877-03-04
 dv_has_:
@@ -364,7 +364,7 @@ dv_is_same_as:
 
 has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped`
--   [has_role :: [[../US_President]] ]is_member_of = `=this.dv_is_member_of`
+-   [has_role :: [[../US_President|US_President]] ]is_member_of = `=this.dv_is_member_of`
 #is_/same_as :: [[../../../../WikiData/WD~Ulysses_S._Grant,34836|WD~Ulysses_S._Grant,34836]] 
 
 ## #has_/text_of_/abstract 

@@ -103,28 +103,28 @@ aliases:
 - 백열등
 has_id_wikidata: Q47616
 represents:
-- '[[_Standards/WikiData/WD~idea,131841]]'
-- '[[_Standards/WikiData/WD~creativity,170658]]'
-source_of_energy: '[[_Standards/WikiData/WD~electrical_energy,206799]]'
+- '[[_Standards/WikiData/WD~idea,131841|WD~idea,131841]]'
+- '[[_Standards/WikiData/WD~creativity,170658|WD~creativity,170658]]'
+source_of_energy: '[[_Standards/WikiData/WD~electrical_energy,206799|WD~electrical_energy,206799]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Joseph_Swan,315422]]'
-- '[[_Standards/WikiData/WD~Alexander_Lodygin,554871]]'
-- '[[_Standards/WikiData/WD~H._D._F._Kitto,1637246]]'
-- '[[_Standards/WikiData/WD~Alessandro_Volta,680]]'
-- '[[_Standards/WikiData/WD~Thomas_Edison,8743]]'
-has_part_s_: '[[_Standards/WikiData/WD~electrical_filament,515888]]'
-subclass_of: '[[_Standards/WikiData/WD~light_bulb,1318740]]'
+- '[[_Standards/WikiData/WD~Joseph_Swan,315422|WD~Joseph_Swan,315422]]'
+- '[[_Standards/WikiData/WD~Alexander_Lodygin,554871|WD~Alexander_Lodygin,554871]]'
+- '[[_Standards/WikiData/WD~H._D._F._Kitto,1637246|WD~H._D._F._Kitto,1637246]]'
+- '[[_Standards/WikiData/WD~Alessandro_Volta,680|WD~Alessandro_Volta,680]]'
+- '[[_Standards/WikiData/WD~Thomas_Edison,8743|WD~Thomas_Edison,8743]]'
+has_part_s_: '[[_Standards/WikiData/WD~electrical_filament,515888|WD~electrical_filament,515888]]'
+subclass_of: '[[_Standards/WikiData/WD~light_bulb,1318740|WD~light_bulb,1318740]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-instance_of: '[[_Standards/WikiData/WD~invention,14208553]]'
-different_from: '[[_Standards/WikiData/WD~Q42885863,42885863]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+instance_of: '[[_Standards/WikiData/WD~invention,14208553|WD~invention,14208553]]'
+different_from: '[[_Standards/WikiData/WD~Q42885863,42885863|WD~Q42885863,42885863]]'
 time_of_discovery_or_invention: 1879-01-01T00:00:00Z
 made_from_material:
-- '[[_Standards/WikiData/WD~argon,696]]'
-- '[[_Standards/WikiData/WD~glass,11469]]'
-copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+- '[[_Standards/WikiData/WD~argon,696|WD~argon,696]]'
+- '[[_Standards/WikiData/WD~glass,11469|WD~glass,11469]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652|WD~public_domain,19652]]'
 Nomenclature_for_Museum_Cataloging: 1761
 OmegaWiki_Defined_Meaning: 406777
 Commons_category: Incandescent light bulbs

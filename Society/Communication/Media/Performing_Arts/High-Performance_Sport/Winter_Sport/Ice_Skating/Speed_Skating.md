@@ -66,14 +66,14 @@ aliases:
 - 速度滑冰
 - 스피드스케이팅
 has_id_wikidata: Q192431
-uses: '[[_Standards/WikiData/WD~ice_skate,108640]]'
+uses: '[[_Standards/WikiData/WD~ice_skate,108640|WD~ice_skate,108640]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~ice_skating,779272]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~ice_skating,779272|WD~ice_skating,779272]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~speed_skater,10866633]]'
-- '[[_Standards/WikiData/WD~speed_skating_trainer,26709099]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~speed_skater,10866633|WD~speed_skater,10866633]]'
+- '[[_Standards/WikiData/WD~speed_skating_trainer,26709099|WD~speed_skating_trainer,26709099]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Speed%20skating%20pictogram.svg
 Commons_category: Speed skating
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Heiden%201980c.jpg

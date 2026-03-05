@@ -41,38 +41,38 @@ aliases:
 - 레콩키스타
 has_id_wikidata: Q79791
 participant:
-- '[[_Standards/WikiData/WD~Almoravid_dynasty,75613]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Valencia,142417]]'
-- '[[_Standards/WikiData/WD~Caliphate_of_Córdoba,171740]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Leon,175276]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Castile,179293]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Aragon,199442]]'
-- '[[_Standards/WikiData/WD~Almohad_Caliphate,199688]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Navarre,200262]]'
-- '[[_Standards/WikiData/WD~Crown_of_Aragon,204920]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Asturias,231392]]'
-- '[[_Standards/WikiData/WD~Emirate_of_Granada,238445]]'
-- '[[_Standards/WikiData/WD~religious_military_order,474717]]'
-- '[[_Standards/WikiData/WD~Marinid_dynasty,582861]]'
-- '[[_Standards/WikiData/WD~Banu_Qasi,659457]]'
-- '[[_Standards/WikiData/WD~Catalan_counties,1232459]]'
-- '[[_Standards/WikiData/WD~emirate_of_Córdoba,1337854]]'
-- '[[_Standards/WikiData/WD~Lordship_of_Albarracin,3572054]]'
-- '[[_Standards/WikiData/WD~Wilayah_of_Al_Andalus,6159007]]'
-- '[[_Standards/WikiData/WD~Umayyad_Caliphate,8575586]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]'
+- '[[_Standards/WikiData/WD~Almoravid_dynasty,75613|WD~Almoravid_dynasty,75613]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Valencia,142417|WD~Kingdom_of_Valencia,142417]]'
+- '[[_Standards/WikiData/WD~Caliphate_of_Córdoba,171740|WD~Caliphate_of_Córdoba,171740]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Leon,175276|WD~Kingdom_of_Leon,175276]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Castile,179293|WD~Kingdom_of_Castile,179293]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Aragon,199442|WD~Kingdom_of_Aragon,199442]]'
+- '[[_Standards/WikiData/WD~Almohad_Caliphate,199688|WD~Almohad_Caliphate,199688]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Navarre,200262|WD~Kingdom_of_Navarre,200262]]'
+- '[[_Standards/WikiData/WD~Crown_of_Aragon,204920|WD~Crown_of_Aragon,204920]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Asturias,231392|WD~Kingdom_of_Asturias,231392]]'
+- '[[_Standards/WikiData/WD~Emirate_of_Granada,238445|WD~Emirate_of_Granada,238445]]'
+- '[[_Standards/WikiData/WD~religious_military_order,474717|WD~religious_military_order,474717]]'
+- '[[_Standards/WikiData/WD~Marinid_dynasty,582861|WD~Marinid_dynasty,582861]]'
+- '[[_Standards/WikiData/WD~Banu_Qasi,659457|WD~Banu_Qasi,659457]]'
+- '[[_Standards/WikiData/WD~Catalan_counties,1232459|WD~Catalan_counties,1232459]]'
+- '[[_Standards/WikiData/WD~emirate_of_Córdoba,1337854|WD~emirate_of_Córdoba,1337854]]'
+- '[[_Standards/WikiData/WD~Lordship_of_Albarracin,3572054|WD~Lordship_of_Albarracin,3572054]]'
+- '[[_Standards/WikiData/WD~Wilayah_of_Al_Andalus,6159007|WD~Wilayah_of_Al_Andalus,6159007]]'
+- '[[_Standards/WikiData/WD~Umayyad_Caliphate,8575586|WD~Umayyad_Caliphate,8575586]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670|WD~Kingdom_of_Portugal,45670]]'
 different_from:
-- '[[_Standards/WikiData/WD~conquistador,126236]]'
-- '[[_Standards/WikiData/WD~Reconquista,933165]]'
+- '[[_Standards/WikiData/WD~conquistador,126236|WD~conquistador,126236]]'
+- '[[_Standards/WikiData/WD~Reconquista,933165|WD~Reconquista,933165]]'
 instance_of:
-- '[[_Standards/WikiData/WD~annexation,194465]]'
-- '[[_Standards/WikiData/WD~religious_war,1827102]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~history_of_the_Iberian_Peninsula,35810458]]'
+- '[[_Standards/WikiData/WD~annexation,194465|WD~annexation,194465]]'
+- '[[_Standards/WikiData/WD~religious_war,1827102|WD~religious_war,1827102]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~history_of_the_Iberian_Peninsula,35810458|WD~history_of_the_Iberian_Peninsula,35810458]]'
 end_time: 1492-01-11T00:00:00Z
 location:
-- '[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]'
-- '[[_Standards/WikiData/WD~Maghreb,28227]]'
+- '[[_Standards/WikiData/WD~Iberian_Peninsula,12837|WD~Iberian_Peninsula,12837]]'
+- '[[_Standards/WikiData/WD~Maghreb,28227|WD~Maghreb,28227]]'
 Commons_category: Reconquista
 Library_of_Congress_Classification:
 - DP97.3-DP160.8
@@ -83,7 +83,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Cantigas%20battle.jpg
 Krugosvet_article_archived_: istoriya/rekonkista
 dv_is_:
   same_as:
-  - '[[../../../../../../../../../../WikiData/WD~Reconquista,79791]]'
+  - '[[../../../../../../../../../../WikiData/WD~Reconquista,79791|WD~Reconquista,79791]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492|0722-Reconquista-1492]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.public|0722-Reconquista-1492.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.internal|0722-Reconquista-1492.internal]]'
@@ -92,7 +92,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.personal|0722-Reconquista-1492.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.secret|0722-Reconquista-1492.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../../../WikiData/WD~Reconquista,79791]]'
+- '[[../../../../../../../../../../WikiData/WD~Reconquista,79791|WD~Reconquista,79791]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492|0722-Reconquista-1492]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.public|0722-Reconquista-1492.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.internal|0722-Reconquista-1492.internal]]'

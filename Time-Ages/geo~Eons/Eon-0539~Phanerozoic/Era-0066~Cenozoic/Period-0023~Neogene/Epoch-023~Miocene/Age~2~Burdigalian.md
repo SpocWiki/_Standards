@@ -28,14 +28,14 @@ aliases:
 - 부르디갈라절
 has_id_wikidata: Q508650
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Orleanian,2031089]]'
-named_by: '[[_Standards/WikiData/WD~Charles_Depéret,2958889]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Burdigalian,21607908]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Orleanian,2031089|WD~Orleanian,2031089]]'
+named_by: '[[_Standards/WikiData/WD~Charles_Depéret,2958889|WD~Charles_Depéret,2958889]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Burdigalian,21607908|WD~Category_Burdigalian,21607908]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -20440000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Bordeaux,1479]]'
+named_after: '[[_Standards/WikiData/WD~Bordeaux,1479|WD~Bordeaux,1479]]'
 Commons_category: Burdigalian
 sRGB_color_hex_triplet: FFFF41
 end_time: -15980000-01-01T00:00:00Z

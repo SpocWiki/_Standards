@@ -47,35 +47,35 @@ birth_name: ब्रह्मगुप्तः
 Commons_category: Brahmagupta
 date_of_birth: 598
 date_of_death: 670
-father: '[[_Standards/WikiData/WD~Jishnugupta,116470998]]'
+father: '[[_Standards/WikiData/WD~Jishnugupta,116470998|WD~Jishnugupta,116470998]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
 instance_of:
-- '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ISNI: 62992448
 Krugosvet_article: nauka_i_tehnika/matematika/BRAHMAGUPTA.html
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 name_in_native_language: ब्रह्मगुप्तः
 notable_work:
-- '[[_Standards/WikiData/WD~Brahmagupta_Fibonacci_identity,279090]]'
-- "[[_Standards/WikiData/WD~Brahmagupta's_formula,1149348]]"
-- '[[_Standards/WikiData/WD~Brāhmasphuṭasiddhānta,1290001]]'
-- '[[_Standards/WikiData/WD~Brahmagupta_theorem,1425308]]'
-- '[[_Standards/WikiData/WD~Brahmagupta_matrix,4929982]]'
-- "[[_Standards/WikiData/WD~Brahmagupta's_problem,4955534]]"
-- '[[_Standards/WikiData/WD~Brahmagupta_polynomial,16056720]]'
-- "[[_Standards/WikiData/WD~Brahmagupta's_interpolation_formula,17003778]]"
-- "[[_Standards/WikiData/WD~Brahmagupta's_identity,17005467]]"
-- '[[_Standards/WikiData/WD~Khandakhadyaka,19542993]]'
+- '[[_Standards/WikiData/WD~Brahmagupta_Fibonacci_identity,279090|WD~Brahmagupta_Fibonacci_identity,279090]]'
+- "[[_Standards/WikiData/WD~Brahmagupta's_formula,1149348|WD~Brahmagupta's_formula,1149348]]"
+- '[[_Standards/WikiData/WD~Brāhmasphuṭasiddhānta,1290001|WD~Brāhmasphuṭasiddhānta,1290001]]'
+- '[[_Standards/WikiData/WD~Brahmagupta_theorem,1425308|WD~Brahmagupta_theorem,1425308]]'
+- '[[_Standards/WikiData/WD~Brahmagupta_matrix,4929982|WD~Brahmagupta_matrix,4929982]]'
+- "[[_Standards/WikiData/WD~Brahmagupta's_problem,4955534|WD~Brahmagupta's_problem,4955534]]"
+- '[[_Standards/WikiData/WD~Brahmagupta_polynomial,16056720|WD~Brahmagupta_polynomial,16056720]]'
+- "[[_Standards/WikiData/WD~Brahmagupta's_interpolation_formula,17003778|WD~Brahmagupta's_interpolation_formula,17003778]]"
+- "[[_Standards/WikiData/WD~Brahmagupta's_identity,17005467|WD~Brahmagupta's_identity,17005467]]"
+- '[[_Standards/WikiData/WD~Khandakhadyaka,19542993|WD~Khandakhadyaka,19542993]]'
 occupation:
-- '[[_Standards/WikiData/WD~mathematician,170790]]'
-- '[[_Standards/WikiData/WD~astronomer,11063]]'
-place_of_birth: '[[_Standards/WikiData/WD~Bhinmal,797437]]'
-place_of_death: '[[_Standards/WikiData/WD~Ujjain,200119]]'
+- '[[_Standards/WikiData/WD~mathematician,170790|WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~astronomer,11063|WD~astronomer,11063]]'
+place_of_birth: '[[_Standards/WikiData/WD~Bhinmal,797437|WD~Bhinmal,797437]]'
+place_of_death: '[[_Standards/WikiData/WD~Ujjain,200119|WD~Ujjain,200119]]'
 residence:
-- '[[_Standards/WikiData/WD~Ujjain,200119]]'
-- '[[_Standards/WikiData/WD~Bhinmal,797437]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+- '[[_Standards/WikiData/WD~Ujjain,200119|WD~Ujjain,200119]]'
+- '[[_Standards/WikiData/WD~Bhinmal,797437|WD~Bhinmal,797437]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 dv_has_:
   name_:
     af: Brahmagupta
@@ -218,34 +218,34 @@ birth_name: ब्रह्मगुप्तः
 Commons_category: Brahmagupta
 date_of_birth: 0598
 date_of_death: 0670
-father: '[[_Standards/WikiData/WD~Jishnugupta,116470998]]'
-field_of_work: '[[_Standards/WikiData/WD~mathematics,395]]'
+father: '[[_Standards/WikiData/WD~Jishnugupta,116470998|WD~Jishnugupta,116470998]]'
+field_of_work: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
 has_id_wikidata: Q202943
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ISNI: 0000000062992448
 Krugosvet_article: nauka_i_tehnika/matematika/BRAHMAGUPTA.html
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 name_in_native_language: ब्रह्मगुप्तः
 notable_work:
-- '[[_Standards/WikiData/WD~Brahmagupta_Fibonacci_identity,279090]]'
-- "[[_Standards/WikiData/WD~Brahmagupta's_formula,1149348]]"
-- '[[_Standards/WikiData/WD~Brāhmasphuṭasiddhānta,1290001]]'
-- '[[_Standards/WikiData/WD~Brahmagupta_theorem,1425308]]'
-- '[[_Standards/WikiData/WD~Brahmagupta_matrix,4929982]]'
-- "[[_Standards/WikiData/WD~Brahmagupta's_problem,4955534]]"
-- '[[_Standards/WikiData/WD~Brahmagupta_polynomial,16056720]]'
-- "[[_Standards/WikiData/WD~Brahmagupta's_interpolation_formula,17003778]]"
-- "[[_Standards/WikiData/WD~Brahmagupta's_identity,17005467]]"
-- '[[_Standards/WikiData/WD~Khandakhadyaka,19542993]]'
+- '[[_Standards/WikiData/WD~Brahmagupta_Fibonacci_identity,279090|WD~Brahmagupta_Fibonacci_identity,279090]]'
+- "[[_Standards/WikiData/WD~Brahmagupta's_formula,1149348|WD~Brahmagupta's_formula,1149348]]"
+- '[[_Standards/WikiData/WD~Brāhmasphuṭasiddhānta,1290001|WD~Brāhmasphuṭasiddhānta,1290001]]'
+- '[[_Standards/WikiData/WD~Brahmagupta_theorem,1425308|WD~Brahmagupta_theorem,1425308]]'
+- '[[_Standards/WikiData/WD~Brahmagupta_matrix,4929982|WD~Brahmagupta_matrix,4929982]]'
+- "[[_Standards/WikiData/WD~Brahmagupta's_problem,4955534|WD~Brahmagupta's_problem,4955534]]"
+- '[[_Standards/WikiData/WD~Brahmagupta_polynomial,16056720|WD~Brahmagupta_polynomial,16056720]]'
+- "[[_Standards/WikiData/WD~Brahmagupta's_interpolation_formula,17003778|WD~Brahmagupta's_interpolation_formula,17003778]]"
+- "[[_Standards/WikiData/WD~Brahmagupta's_identity,17005467|WD~Brahmagupta's_identity,17005467]]"
+- '[[_Standards/WikiData/WD~Khandakhadyaka,19542993|WD~Khandakhadyaka,19542993]]'
 occupation:
-- '[[_Standards/WikiData/WD~mathematician,170790]]'
-- '[[_Standards/WikiData/WD~astronomer,11063]]'
-place_of_birth: '[[_Standards/WikiData/WD~Bhinmal,797437]]'
-place_of_death: '[[_Standards/WikiData/WD~Ujjain,200119]]'
+- '[[_Standards/WikiData/WD~mathematician,170790|WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~astronomer,11063|WD~astronomer,11063]]'
+place_of_birth: '[[_Standards/WikiData/WD~Bhinmal,797437|WD~Bhinmal,797437]]'
+place_of_death: '[[_Standards/WikiData/WD~Ujjain,200119|WD~Ujjain,200119]]'
 residence:
-- '[[_Standards/WikiData/WD~Ujjain,200119]]'
-- '[[_Standards/WikiData/WD~Bhinmal,797437]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+- '[[_Standards/WikiData/WD~Ujjain,200119|WD~Ujjain,200119]]'
+- '[[_Standards/WikiData/WD~Bhinmal,797437|WD~Bhinmal,797437]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 ---
 
 ## #has_/text_of_/abstract 

@@ -97,17 +97,17 @@ aliases:
 - 조리사
 has_id_wikidata: Q156839
 item_operated:
-- '[[_Standards/WikiData/WD~tableware,851782]]'
-- '[[_Standards/WikiData/WD~kitchenware,1521410]]'
+- '[[_Standards/WikiData/WD~tableware,851782|WD~tableware,851782]]'
+- '[[_Standards/WikiData/WD~kitchenware,1521410|WD~kitchenware,1521410]]'
 different_from:
-- '[[_Standards/WikiData/WD~Chef,1068916]]'
-- '[[_Standards/WikiData/WD~chef,3499072]]'
-subclass_of: '[[_Standards/WikiData/WD~artisan,1294787]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~cuisine,1778821]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_chef,13033923]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q31960706,31960706]]'
-catalog: '[[_Standards/WikiData/WD~BERUFENET,63381313]]'
-instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~Chef,1068916|WD~Chef,1068916]]'
+- '[[_Standards/WikiData/WD~chef,3499072|WD~chef,3499072]]'
+subclass_of: '[[_Standards/WikiData/WD~artisan,1294787|WD~artisan,1294787]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~cuisine,1778821|WD~cuisine,1778821]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_chef,13033923|WD~Template_Infobox_chef,13033923]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q31960706,31960706|WD~Q31960706,31960706]]'
+catalog: '[[_Standards/WikiData/WD~BERUFENET,63381313|WD~BERUFENET,63381313]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 ISCO_88_occupation_class: 5120
 ROME_Occupation_Code: 13861
 Commons_gallery: Cook

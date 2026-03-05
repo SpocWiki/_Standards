@@ -66,14 +66,14 @@ aliases:
 - 衞星導航系統
 - 범지구 위성 항법 시스템
 has_id_wikidata: Q179435
-uses: '[[_Standards/WikiData/WD~navigation_satellite,1285444]]'
-used_by: '[[_Standards/WikiData/WD~personal_navigation_assistant,1786257]]'
+uses: '[[_Standards/WikiData/WD~navigation_satellite,1285444|WD~navigation_satellite,1285444]]'
+used_by: '[[_Standards/WikiData/WD~personal_navigation_assistant,1786257|WD~personal_navigation_assistant,1786257]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~navigation_system,3475123]]'
-- '[[_Standards/WikiData/WD~radionavigation_satellite_service,20181002]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Satellite_navigation_systems,10544956]]'
-described_by_source: '[[_Standards/WikiData/WD~GPS,_Galileo_und_Satellitennavigation_Teil_1,132648574]]'
-has_use: '[[_Standards/WikiData/WD~Global_Positioning_System,18822]]'
+- '[[_Standards/WikiData/WD~navigation_system,3475123|WD~navigation_system,3475123]]'
+- '[[_Standards/WikiData/WD~radionavigation_satellite_service,20181002|WD~radionavigation_satellite_service,20181002]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Satellite_navigation_systems,10544956|WD~Template_Satellite_navigation_systems,10544956]]'
+described_by_source: '[[_Standards/WikiData/WD~GPS,_Galileo_und_Satellitennavigation_Teil_1,132648574|WD~GPS,_Galileo_und_Satellitennavigation_Teil_1,132648574]]'
+has_use: '[[_Standards/WikiData/WD~Global_Positioning_System,18822|WD~Global_Positioning_System,18822]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/ConstellationGPS.gif
 Commons_category: Satellite navigation systems
 short_name:

@@ -78,26 +78,26 @@ aliases:
 - 보안
 has_id_wikidata: Q2526135
 different_from:
-- '[[_Standards/WikiData/WD~security,169489]]'
-- '[[_Standards/WikiData/WD~safety,10566551]]'
+- '[[_Standards/WikiData/WD~security,169489|WD~security,169489]]'
+- '[[_Standards/WikiData/WD~safety,10566551|WD~safety,10566551]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~homeland_security,181467]]'
-- '[[_Standards/WikiData/WD~information_security,189900]]'
-- '[[_Standards/WikiData/WD~public_security,294240]]'
-- '[[_Standards/WikiData/WD~economic_security,2497445]]'
-- '[[_Standards/WikiData/WD~event_security,2780922]]'
-- '[[_Standards/WikiData/WD~political_security,7225111]]'
+- '[[_Standards/WikiData/WD~homeland_security,181467|WD~homeland_security,181467]]'
+- '[[_Standards/WikiData/WD~information_security,189900|WD~information_security,189900]]'
+- '[[_Standards/WikiData/WD~public_security,294240|WD~public_security,294240]]'
+- '[[_Standards/WikiData/WD~economic_security,2497445|WD~economic_security,2497445]]'
+- '[[_Standards/WikiData/WD~event_security,2780922|WD~event_security,2780922]]'
+- '[[_Standards/WikiData/WD~political_security,7225111|WD~political_security,7225111]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~context,196626]]'
-- '[[_Standards/WikiData/WD~protection,2251595]]'
-- '[[_Standards/WikiData/WD~type_of_security,96264607]]'
-studied_by: '[[_Standards/WikiData/WD~security_engineering,365674]]'
-subclass_of: '[[_Standards/WikiData/WD~condition,813912]]'
-opposite_of: '[[_Standards/WikiData/WD~hazard,1132455]]'
-has_goal: '[[_Standards/WikiData/WD~safety,10566551]]'
-described_by_source: '[[_Standards/WikiData/WD~FILIT,11985944]]'
-practiced_by: '[[_Standards/WikiData/WD~security_consultant,28344461]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_property,96253971]]'
+- '[[_Standards/WikiData/WD~context,196626|WD~context,196626]]'
+- '[[_Standards/WikiData/WD~protection,2251595|WD~protection,2251595]]'
+- '[[_Standards/WikiData/WD~type_of_security,96264607|WD~type_of_security,96264607]]'
+studied_by: '[[_Standards/WikiData/WD~security_engineering,365674|WD~security_engineering,365674]]'
+subclass_of: '[[_Standards/WikiData/WD~condition,813912|WD~condition,813912]]'
+opposite_of: '[[_Standards/WikiData/WD~hazard,1132455|WD~hazard,1132455]]'
+has_goal: '[[_Standards/WikiData/WD~safety,10566551|WD~safety,10566551]]'
+described_by_source: '[[_Standards/WikiData/WD~FILIT,11985944|WD~FILIT,11985944]]'
+practiced_by: '[[_Standards/WikiData/WD~security_consultant,28344461|WD~security_consultant,28344461]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_property,96253971|WD~type_of_property,96253971]]'
 OmegaWiki_Defined_Meaning: 3284
 GitHub_topic: security
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Flughafenkontrolle.jpg

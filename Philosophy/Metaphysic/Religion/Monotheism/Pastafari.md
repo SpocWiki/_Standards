@@ -30,20 +30,20 @@ aliases:
 - 空飛ぶスパゲッティ・モンスター教
 - 飞面神教
 has_id_wikidata: Q14397660
-different_from: '[[_Standards/WikiData/WD~Rastafari,101462]]'
-in_opposition_to: '[[_Standards/WikiData/WD~intelligent_design,172618]]'
-creator: '[[_Standards/WikiData/WD~Bobby_Henderson,379057]]'
-founded_by: '[[_Standards/WikiData/WD~Bobby_Henderson,379057]]'
+different_from: '[[_Standards/WikiData/WD~Rastafari,101462|WD~Rastafari,101462]]'
+in_opposition_to: '[[_Standards/WikiData/WD~intelligent_design,172618|WD~intelligent_design,172618]]'
+creator: '[[_Standards/WikiData/WD~Bobby_Henderson,379057|WD~Bobby_Henderson,379057]]'
+founded_by: '[[_Standards/WikiData/WD~Bobby_Henderson,379057|WD~Bobby_Henderson,379057]]'
 instance_of:
-- '[[_Standards/WikiData/WD~parody_religion,904201]]'
-- '[[_Standards/WikiData/WD~religious_satire,7311396]]'
-- '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~parody_religion,904201|WD~parody_religion,904201]]'
+- '[[_Standards/WikiData/WD~religious_satire,7311396|WD~religious_satire,7311396]]'
+- '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Gospel_of_the_Flying_Spaghetti_Monster,3269406]]'
-- '[[_Standards/WikiData/WD~Open_Letter_To_Kansas_School_Board,67204975]]'
-foundational_text: '[[_Standards/WikiData/WD~The_Gospel_of_the_Flying_Spaghetti_Monster,3269406]]'
-subclass_of: '[[_Standards/WikiData/WD~monotheistic_religion,19842652]]'
-has_characteristic: '[[_Standards/WikiData/WD~monotheism,9159]]'
+- '[[_Standards/WikiData/WD~The_Gospel_of_the_Flying_Spaghetti_Monster,3269406|WD~The_Gospel_of_the_Flying_Spaghetti_Monster,3269406]]'
+- '[[_Standards/WikiData/WD~Open_Letter_To_Kansas_School_Board,67204975|WD~Open_Letter_To_Kansas_School_Board,67204975]]'
+foundational_text: '[[_Standards/WikiData/WD~The_Gospel_of_the_Flying_Spaghetti_Monster,3269406|WD~The_Gospel_of_the_Flying_Spaghetti_Monster,3269406]]'
+subclass_of: '[[_Standards/WikiData/WD~monotheistic_religion,19842652|WD~monotheistic_religion,19842652]]'
+has_characteristic: '[[_Standards/WikiData/WD~monotheism,9159|WD~monotheism,9159]]'
 official_website: https://www.spaghettimonster.org/
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flying%20Spaghetti%20Monster%20icon.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Touched%20by%20His%20Noodly%20Appendage%20HD.jpg
@@ -97,7 +97,7 @@ dv_has_:
 
 # [[Pastafari]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pastafarianism,14397660]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pastafarianism,14397660|WD~Pastafarianism,14397660]] 
 
 ## #has_/text_of_/abstract 
 
@@ -132,7 +132,7 @@ dv_has_:
 > and sightings of the Flying Spaghetti Monster, and display crafts representing images of it.
 >
 > Because of its popularity and exposure, the Flying Spaghetti Monster is often used as 
-> a more modern version of [[../Faith/Russell's_teapot]]—
+> a more modern version of [[../Faith/Russell's_teapot|Russell's_teapot]]—
 > an argument that the philosophic burden of proof lies upon those who make unfalsifiable claims, 
 > not on those who reject them. 
 > 

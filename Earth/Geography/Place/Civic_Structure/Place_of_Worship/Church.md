@@ -202,37 +202,37 @@ tags:
 title: is_a_church Class
 type: Type
 has_part_s_:
-- '[[_Standards/WikiData/WD~altar,101687]]'
-- '[[_Standards/WikiData/WD~pew,848162]]'
-- '[[_Standards/WikiData/WD~churchyard,2749813]]'
-- '[[_Standards/WikiData/WD~church_interior_(building),10551472]]'
-- '[[_Standards/WikiData/WD~church_tower,72926449]]'
+- '[[_Standards/WikiData/WD~altar,101687|WD~altar,101687]]'
+- '[[_Standards/WikiData/WD~pew,848162|WD~pew,848162]]'
+- '[[_Standards/WikiData/WD~churchyard,2749813|WD~churchyard,2749813]]'
+- '[[_Standards/WikiData/WD~church_interior_(building),10551472|WD~church_interior_(building),10551472]]'
+- '[[_Standards/WikiData/WD~church_tower,72926449|WD~church_tower,72926449]]'
 different_from:
-- '[[_Standards/WikiData/WD~Church,605315]]'
-- '[[_Standards/WikiData/WD~house_of_prayer,831219]]'
-- '[[_Standards/WikiData/WD~church_congregation,2638480]]'
-- '[[_Standards/WikiData/WD~Kirche,15823565]]'
-- '[[_Standards/WikiData/WD~Iglesia,1594]]'
-- '[[_Standards/WikiData/WD~cathedral,2977]]'
-- '[[_Standards/WikiData/WD~mosque,32815]]'
-- '[[_Standards/WikiData/WD~Christian_Church,34651]]'
-instance_of: '[[_Standards/WikiData/WD~building_type,811102]]'
-used_by: '[[_Standards/WikiData/WD~church_congregation,2638480]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_church,5914710]]'
+- '[[_Standards/WikiData/WD~Church,605315|WD~Church,605315]]'
+- '[[_Standards/WikiData/WD~house_of_prayer,831219|WD~house_of_prayer,831219]]'
+- '[[_Standards/WikiData/WD~church_congregation,2638480|WD~church_congregation,2638480]]'
+- '[[_Standards/WikiData/WD~Kirche,15823565|WD~Kirche,15823565]]'
+- '[[_Standards/WikiData/WD~Iglesia,1594|WD~Iglesia,1594]]'
+- '[[_Standards/WikiData/WD~cathedral,2977|WD~cathedral,2977]]'
+- '[[_Standards/WikiData/WD~mosque,32815|WD~mosque,32815]]'
+- '[[_Standards/WikiData/WD~Christian_Church,34651|WD~Christian_Church,34651]]'
+instance_of: '[[_Standards/WikiData/WD~building_type,811102|WD~building_type,811102]]'
+used_by: '[[_Standards/WikiData/WD~church_congregation,2638480|WD~church_congregation,2638480]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_church,5914710|WD~Template_Infobox_church,5914710]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596|WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Kartographer_icon,134980502|WD~Kartographer_icon,134980502]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~venue,17350442]]'
-- '[[_Standards/WikiData/WD~religious_building,24398318]]'
-- '[[_Standards/WikiData/WD~temple,44539]]'
-facet_of: '[[_Standards/WikiData/WD~Q23954849,23954849]]'
-significant_event: '[[_Standards/WikiData/WD~church_dedication,25640113]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27132560,27132560]]'
-depicted_by: '[[_Standards/WikiData/WD~scale_model_of_church,53700488]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Local_Community,106091778]]'
+- '[[_Standards/WikiData/WD~venue,17350442|WD~venue,17350442]]'
+- '[[_Standards/WikiData/WD~religious_building,24398318|WD~religious_building,24398318]]'
+- '[[_Standards/WikiData/WD~temple,44539|WD~temple,44539]]'
+facet_of: '[[_Standards/WikiData/WD~Q23954849,23954849|WD~Q23954849,23954849]]'
+significant_event: '[[_Standards/WikiData/WD~church_dedication,25640113|WD~church_dedication,25640113]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27132560,27132560|WD~Q27132560,27132560]]'
+depicted_by: '[[_Standards/WikiData/WD~scale_model_of_church,53700488|WD~scale_model_of_church,53700488]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Local_Community,106091778|WD~WikiProject_Local_Community,106091778]]'
 properties_for_this_type:
 - Commons category
 - patron saint
@@ -269,8 +269,8 @@ properties_for_this_type:
 - religion or worldview
 - architectural style
 - made from material
-religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~temple,44539]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~temple,44539|WD~temple,44539]]'
 Nomenclature_for_Museum_Cataloging: 587
 OmegaWiki_Defined_Meaning: 587
 sRGB_color_hex_triplet: 654321
@@ -514,7 +514,7 @@ dv_has_:
     zh-my: 教堂
     zh_sg: 教堂
     zh_tw: 教堂
-  parent_class: '[[../PlaceOfWorship]]'
+  parent_class: '[[../PlaceOfWorship|PlaceOfWorship]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:
   same_as:
@@ -526,7 +526,7 @@ dv_is_:
   - '[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.private|Church.private]]'
   - '[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.personal|Church.personal]]'
   - '[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.secret|Church.secret]]'
-dv_has_parent_class: '[[../PlaceOfWorship]]'
+dv_has_parent_class: '[[../PlaceOfWorship|PlaceOfWorship]]'
 dv_has_child_class: '[ CatholicChurch ]'
 dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:

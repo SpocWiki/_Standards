@@ -72,11 +72,11 @@ aliases:
 - 원자 반지름
 has_id_wikidata: Q483788
 subclass_of:
-- '[[_Standards/WikiData/WD~radius,173817]]'
-- '[[_Standards/WikiData/WD~physical_property,4373292]]'
-- '[[_Standards/WikiData/WD~approximation,27058]]'
-instance_of: '[[_Standards/WikiData/WD~chemical_formalism,17540792]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~radius,173817|WD~radius,173817]]'
+- '[[_Standards/WikiData/WD~physical_property,4373292|WD~physical_property,4373292]]'
+- '[[_Standards/WikiData/WD~approximation,27058|WD~approximation,27058]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_formalism,17540792|WD~chemical_formalism,17540792]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atomic%20size%20periodic%20table.svg
 ISQ_dimension: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {L}}}">

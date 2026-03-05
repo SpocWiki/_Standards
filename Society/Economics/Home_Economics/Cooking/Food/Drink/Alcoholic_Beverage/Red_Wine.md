@@ -66,9 +66,9 @@ aliases:
 - 赤ワイン
 - 적포도주
 has_id_wikidata: Q1827
-instance_of: '[[_Standards/WikiData/WD~wine_color,8024923]]'
-subclass_of: '[[_Standards/WikiData/WD~wine,282]]'
-color: '[[_Standards/WikiData/WD~red,3142]]'
+instance_of: '[[_Standards/WikiData/WD~wine_color,8024923|WD~wine_color,8024923]]'
+subclass_of: '[[_Standards/WikiData/WD~wine,282|WD~wine,282]]'
+color: '[[_Standards/WikiData/WD~red,3142|WD~red,3142]]'
 USDA_NDB_number: 14100
 IMDb_keyword: red-wine
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pouring%20a%20glass%20of%20red%20wine.tiff

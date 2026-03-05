@@ -68,38 +68,38 @@ aliases:
 - 风险管理
 - 위험관리
 has_id_wikidata: Q189447
-practiced_by: '[[_Standards/WikiData/WD~chief_risk_officer,382313]]'
+practiced_by: '[[_Standards/WikiData/WD~chief_risk_officer,382313|WD~chief_risk_officer,382313]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~alternative_risk_transfer,438701]]'
-- '[[_Standards/WikiData/WD~risk_assessment,1058438]]'
-- '[[_Standards/WikiData/WD~hazard_identification,5687675]]'
-- '[[_Standards/WikiData/WD~risk_management_plan,7336284]]'
-- '[[_Standards/WikiData/WD~risk_analysis,11679892]]'
-- '[[_Standards/WikiData/WD~risk_communication,24889807]]'
-- '[[_Standards/WikiData/WD~risk_control,65089289]]'
+- '[[_Standards/WikiData/WD~alternative_risk_transfer,438701|WD~alternative_risk_transfer,438701]]'
+- '[[_Standards/WikiData/WD~risk_assessment,1058438|WD~risk_assessment,1058438]]'
+- '[[_Standards/WikiData/WD~hazard_identification,5687675|WD~hazard_identification,5687675]]'
+- '[[_Standards/WikiData/WD~risk_management_plan,7336284|WD~risk_management_plan,7336284]]'
+- '[[_Standards/WikiData/WD~risk_analysis,11679892|WD~risk_analysis,11679892]]'
+- '[[_Standards/WikiData/WD~risk_communication,24889807|WD~risk_communication,24889807]]'
+- '[[_Standards/WikiData/WD~risk_control,65089289|WD~risk_control,65089289]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~quality_management,757012]]'
-- '[[_Standards/WikiData/WD~management,2920921]]'
-described_by_source: '[[_Standards/WikiData/WD~Baidu_Baike,803722]]'
+- '[[_Standards/WikiData/WD~quality_management,757012|WD~quality_management,757012]]'
+- '[[_Standards/WikiData/WD~management,2920921|WD~management,2920921]]'
+described_by_source: '[[_Standards/WikiData/WD~Baidu_Baike,803722|WD~Baidu_Baike,803722]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~function,1474521]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~type_of_management,96247293]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~function,1474521|WD~function,1474521]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_management,96247293|WD~type_of_management,96247293]]'
 has_goal:
-- '[[_Standards/WikiData/WD~risk_assessment,1058438]]'
-- '[[_Standards/WikiData/WD~monitoring,2143522]]'
-- '[[_Standards/WikiData/WD~hazard_identification,5687675]]'
-- '[[_Standards/WikiData/WD~Risk_transformation,7336301]]'
-- '[[_Standards/WikiData/WD~risk_analysis,11679892]]'
-- '[[_Standards/WikiData/WD~risk_communication,24889807]]'
-- '[[_Standards/WikiData/WD~risk_control,65089289]]'
+- '[[_Standards/WikiData/WD~risk_assessment,1058438|WD~risk_assessment,1058438]]'
+- '[[_Standards/WikiData/WD~monitoring,2143522|WD~monitoring,2143522]]'
+- '[[_Standards/WikiData/WD~hazard_identification,5687675|WD~hazard_identification,5687675]]'
+- '[[_Standards/WikiData/WD~Risk_transformation,7336301|WD~Risk_transformation,7336301]]'
+- '[[_Standards/WikiData/WD~risk_analysis,11679892|WD~risk_analysis,11679892]]'
+- '[[_Standards/WikiData/WD~risk_communication,24889807|WD~risk_communication,24889807]]'
+- '[[_Standards/WikiData/WD~risk_control,65089289|WD~risk_control,65089289]]'
 part_of:
-- '[[_Standards/WikiData/WD~industrial_engineering_and_management,6314146]]'
-- '[[_Standards/WikiData/WD~control,29017603]]'
-opposite_of: '[[_Standards/WikiData/WD~opportunity_management,7098604]]'
-uses: '[[_Standards/WikiData/WD~risk_management_tool,7336285]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Risk_management,22799239]]'
+- '[[_Standards/WikiData/WD~industrial_engineering_and_management,6314146|WD~industrial_engineering_and_management,6314146]]'
+- '[[_Standards/WikiData/WD~control,29017603|WD~control,29017603]]'
+opposite_of: '[[_Standards/WikiData/WD~opportunity_management,7098604|WD~opportunity_management,7098604]]'
+uses: '[[_Standards/WikiData/WD~risk_management_tool,7336285|WD~risk_management_tool,7336285]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Risk_management,22799239|WD~Template_Risk_management,22799239]]'
 OmegaWiki_Defined_Meaning: 4216
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Risk%20Management%20Elements.jpg
 MeSH_tree_code:
@@ -195,7 +195,7 @@ dv_has_:
 
 # [[Risk-Management]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~risk_management,189447]] 
+#is_/same_as :: [[_Standards/WikiData/WD~risk_management,189447|WD~risk_management,189447]] 
 
 ## #has_/text_of_/abstract 
 

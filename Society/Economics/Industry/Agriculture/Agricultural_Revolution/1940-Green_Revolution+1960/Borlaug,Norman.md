@@ -1,5 +1,5 @@
 ---
-academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
+academic_degree: '[[_Standards/WikiData/WD~doctorate,849697|WD~doctorate,849697]]'
 aliases:
 - Borlaug,Norman
 - Norman Borlaug
@@ -37,75 +37,75 @@ aliases:
 - 诺曼·布劳格
 - 노먼 볼로그
 award_received:
-- '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
-- '[[_Standards/WikiData/WD~NAS_Public_Welfare_Medal,4811818]]'
-- '[[_Standards/WikiData/WD~Borlaug_CAST_Communication_Award,4945737]]'
-- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Edinburgh,5438598]]'
-- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
-- '[[_Standards/WikiData/WD~Great_Cross_of_the_National_Order_of_Scientific_Merit,17613667]]'
-- '[[_Standards/WikiData/WD~Philip_Hauge_Abelson_Prize,19877229]]'
-- '[[_Standards/WikiData/WD~Padma_Vibhushan_in_science_&_engineering,30147268]]'
-- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Granada,50610972]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_Polytechnic_of_Catalonia,50616780]]'
-- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
-- '[[_Standards/WikiData/WD~Fellow_of_Bangladesh_Academy_of_Sciences,59153507]]'
-- '[[_Standards/WikiData/WD~Fellow_of_Pakistan_Academy_of_Sciences,59767926]]'
-- '[[_Standards/WikiData/WD~Honorary_doctorate_of_the_University_of_Florida,110610920]]'
-- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743|WD~Congressional_Gold_Medal,721743]]'
+- '[[_Standards/WikiData/WD~NAS_Public_Welfare_Medal,4811818|WD~NAS_Public_Welfare_Medal,4811818]]'
+- '[[_Standards/WikiData/WD~Borlaug_CAST_Communication_Award,4945737|WD~Borlaug_CAST_Communication_Award,4945737]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Edinburgh,5438598|WD~Fellow_of_the_Royal_Society_of_Edinburgh,5438598]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020|WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~Great_Cross_of_the_National_Order_of_Scientific_Merit,17613667|WD~Great_Cross_of_the_National_Order_of_Scientific_Merit,17613667]]'
+- '[[_Standards/WikiData/WD~Philip_Hauge_Abelson_Prize,19877229|WD~Philip_Hauge_Abelson_Prize,19877229]]'
+- '[[_Standards/WikiData/WD~Padma_Vibhushan_in_science_&_engineering,30147268|WD~Padma_Vibhushan_in_science_&_engineering,30147268]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Granada,50610972|WD~honorary_doctorate_of_the_University_of_Granada,50610972]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_Polytechnic_of_Catalonia,50616780|WD~honorary_doctor_of_the_University_Polytechnic_of_Catalonia,50616780]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875|WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~Fellow_of_Bangladesh_Academy_of_Sciences,59153507|WD~Fellow_of_Bangladesh_Academy_of_Sciences,59153507]]'
+- '[[_Standards/WikiData/WD~Fellow_of_Pakistan_Academy_of_Sciences,59767926|WD~Fellow_of_Pakistan_Academy_of_Sciences,59767926]]'
+- '[[_Standards/WikiData/WD~Honorary_doctorate_of_the_University_of_Florida,110610920|WD~Honorary_doctorate_of_the_University_of_Florida,110610920]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144|WD~Presidential_Medal_of_Freedom,17144]]'
 birth_name: Norman Ernest Borlaug
-cause_of_death: '[[_Standards/WikiData/WD~non_Hodgkin_lymphoma,1138590]]'
+cause_of_death: '[[_Standards/WikiData/WD~non_Hodgkin_lymphoma,1138590|WD~non_Hodgkin_lymphoma,1138590]]'
 Commons_category: Norman Borlaug
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 date_of_birth: 1914-03-25
 date_of_death: 2009-09-12
 described_by_source:
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
 educated_at:
-- '[[_Standards/WikiData/WD~University_of_Minnesota,238101]]'
+- '[[_Standards/WikiData/WD~University_of_Minnesota,238101|WD~University_of_Minnesota,238101]]'
 employer:
-- '[[_Standards/WikiData/WD~University_of_Iowa,182973]]'
-family_name: '[[_Standards/WikiData/WD~Borlaug,37575015]]'
+- '[[_Standards/WikiData/WD~University_of_Iowa,182973|WD~University_of_Iowa,182973]]'
+family_name: '[[_Standards/WikiData/WD~Borlaug,37575015|WD~Borlaug,37575015]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~agronomy,173113]]'
-given_name: '[[_Standards/WikiData/WD~Norman,1218555]]'
+- '[[_Standards/WikiData/WD~agronomy,173113|WD~agronomy,173113]]'
+given_name: '[[_Standards/WikiData/WD~Norman,1218555|WD~Norman,1218555]]'
 has_id_wikidata: Q154824
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Norman%20Borlaug.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ISNI: 000000012119907X
 Krugosvet_article: nauka_i_tehnika/biologiya/BORLOUG_NORMAN_ERNEST.html
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
 Libris_URI: zw9cc32h2nhqv2m
-manner_of_death: '[[_Standards/WikiData/WD~disease,12136]]'
+manner_of_death: '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
 member_of:
-- '[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467]]'
-- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-- '[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]'
-- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-- '[[_Standards/WikiData/WD~The_World_Academy_of_Sciences,337352]]'
-- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-- '[[_Standards/WikiData/WD~Polish_Academy_of_Sciences,651690]]'
-- '[[_Standards/WikiData/WD~Chinese_Academy_of_Engineering,689633]]'
-- '[[_Standards/WikiData/WD~Norwegian_Academy_of_Science_and_Letters,1423356]]'
-- '[[_Standards/WikiData/WD~Indian_National_Science_Academy,2095524]]'
-- '[[_Standards/WikiData/WD~Brazilian_Academy_of_Sciences,2497232]]'
-- '[[_Standards/WikiData/WD~Royal_Academy_of_Engineering_of_Spain,6101699]]'
+- '[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467|WD~Royal_Society_of_Edinburgh,117467]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885|WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058|WD~Hungarian_Academy_of_Sciences,265058]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794|WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~The_World_Academy_of_Sciences,337352|WD~The_World_Academy_of_Sciences,337352]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303|WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Polish_Academy_of_Sciences,651690|WD~Polish_Academy_of_Sciences,651690]]'
+- '[[_Standards/WikiData/WD~Chinese_Academy_of_Engineering,689633|WD~Chinese_Academy_of_Engineering,689633]]'
+- '[[_Standards/WikiData/WD~Norwegian_Academy_of_Science_and_Letters,1423356|WD~Norwegian_Academy_of_Science_and_Letters,1423356]]'
+- '[[_Standards/WikiData/WD~Indian_National_Science_Academy,2095524|WD~Indian_National_Science_Academy,2095524]]'
+- '[[_Standards/WikiData/WD~Brazilian_Academy_of_Sciences,2497232|WD~Brazilian_Academy_of_Sciences,2497232]]'
+- '[[_Standards/WikiData/WD~Royal_Academy_of_Engineering_of_Spain,6101699|WD~Royal_Academy_of_Engineering_of_Spain,6101699]]'
 name_in_native_language: Norman Borlaug
 occupation:
-- '[[_Standards/WikiData/WD~engineer,81096]]'
-- '[[_Standards/WikiData/WD~biologist,864503]]'
-- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-- '[[_Standards/WikiData/WD~agronomist,1781198]]'
-- '[[_Standards/WikiData/WD~geneticist,3126128]]'
-- '[[_Standards/WikiData/WD~forestry_engineer,16021386]]'
+- '[[_Standards/WikiData/WD~engineer,81096|WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~biologist,864503|WD~biologist,864503]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272|WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~agronomist,1781198|WD~agronomist,1781198]]'
+- '[[_Standards/WikiData/WD~geneticist,3126128|WD~geneticist,3126128]]'
+- '[[_Standards/WikiData/WD~forestry_engineer,16021386|WD~forestry_engineer,16021386]]'
 PAN_member: BORLAUG, Norman Ernest
-place_of_birth: '[[_Standards/WikiData/WD~Cresco,1914623]]'
-place_of_death: '[[_Standards/WikiData/WD~Dallas,16557]]'
+place_of_birth: '[[_Standards/WikiData/WD~Cresco,1914623|WD~Cresco,1914623]]'
+place_of_death: '[[_Standards/WikiData/WD~Dallas,16557|WD~Dallas,16557]]'
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Lutheranism,75809]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+- '[[_Standards/WikiData/WD~Lutheranism,75809|WD~Lutheranism,75809]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 U_S_National_Archives_Identifier: 10569996
 dv_has_:
   name_:

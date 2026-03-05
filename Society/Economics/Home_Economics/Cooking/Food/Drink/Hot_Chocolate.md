@@ -70,24 +70,24 @@ aliases:
 - 핫초콜릿
 has_id_wikidata: Q13261
 made_from_material:
-- '[[_Standards/WikiData/WD~cocoa_powder,1062396]]'
-- '[[_Standards/WikiData/WD~liquid_water,29053744]]'
-- '[[_Standards/WikiData/WD~milk,8495]]'
-- '[[_Standards/WikiData/WD~sugar,11002]]'
-- '[[_Standards/WikiData/WD~chocolate,195]]'
+- '[[_Standards/WikiData/WD~cocoa_powder,1062396|WD~cocoa_powder,1062396]]'
+- '[[_Standards/WikiData/WD~liquid_water,29053744|WD~liquid_water,29053744]]'
+- '[[_Standards/WikiData/WD~milk,8495|WD~milk,8495]]'
+- '[[_Standards/WikiData/WD~sugar,11002|WD~sugar,11002]]'
+- '[[_Standards/WikiData/WD~chocolate,195|WD~chocolate,195]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~stimulant_foodstuff,1365365]]'
-- '[[_Standards/WikiData/WD~hot_beverage,19359564]]'
-- '[[_Standards/WikiData/WD~chocolate_dish,84435149]]'
-- '[[_Standards/WikiData/WD~chocolate_beverage,135411960]]'
+- '[[_Standards/WikiData/WD~stimulant_foodstuff,1365365|WD~stimulant_foodstuff,1365365]]'
+- '[[_Standards/WikiData/WD~hot_beverage,19359564|WD~hot_beverage,19359564]]'
+- '[[_Standards/WikiData/WD~chocolate_dish,84435149|WD~chocolate_dish,84435149]]'
+- '[[_Standards/WikiData/WD~chocolate_beverage,135411960|WD~chocolate_beverage,135411960]]'
 color:
-- '[[_Standards/WikiData/WD~chestnut,2040833]]'
-- '[[_Standards/WikiData/WD~brown,47071]]'
+- '[[_Standards/WikiData/WD~chestnut,2040833|WD~chestnut,2040833]]'
+- '[[_Standards/WikiData/WD~brown,47071|WD~brown,47071]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]'
-- '[[_Standards/WikiData/WD~Breakfast_task_force,21829654]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~chocolate_milk,13253]]'
-country: '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990|WD~WikiProject_Food_and_drink,8485990]]'
+- '[[_Standards/WikiData/WD~Breakfast_task_force,21829654|WD~Breakfast_task_force,21829654]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~chocolate_milk,13253|WD~chocolate_milk,13253]]'
+country: '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
 pH_value: 6.8
 Commons_gallery: Hot chocolate
 Commons_category: Hot chocolate

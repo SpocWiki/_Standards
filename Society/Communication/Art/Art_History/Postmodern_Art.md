@@ -33,7 +33,7 @@ aliases:
 - 后现代艺术
 - 後現代藝術
 has_id_wikidata: Q3318563
-instance_of: '[[_Standards/WikiData/WD~art_style,1792644]]'
+instance_of: '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
 start_time: 1950-01-01T00:00:00Z
 Commons_gallery: Postmodern art
 Commons_category: Postmodern art

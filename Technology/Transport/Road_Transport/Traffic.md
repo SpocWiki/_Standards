@@ -72,14 +72,14 @@ main_Wikidata_property: Q4323994
 Basisklassifikation: 55.84
 Commons_category: Transport
 Commons_gallery: Traffic
-contributing_factor_of: '[[_Standards/WikiData/WD~air_pollution,131123]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~air_pollution,131123|WD~air_pollution,131123]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kreuzung%20B1-B96%20Berlin%20-%20Fahrbahnmarkierungen.jpg
 IPTC_NewsCode: mediatopic/20000342
-produced_sound: '[[_Standards/WikiData/WD~traffic_noise,1748361]]'
+produced_sound: '[[_Standards/WikiData/WD~traffic_noise,1748361|WD~traffic_noise,1748361]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~motion,79782]]'
-- '[[_Standards/WikiData/WD~physical_system,1454986]]'
+- '[[_Standards/WikiData/WD~motion,79782|WD~motion,79782]]'
+- '[[_Standards/WikiData/WD~physical_system,1454986|WD~physical_system,1454986]]'
 dv_has_:
   name_:
     ar: حركة المرور

@@ -49,26 +49,26 @@ aliases:
 - 공수도
 has_id_wikidata: Q11419
 different_from:
-- '[[_Standards/WikiData/WD~Muay_Thai,120931]]'
-- '[[_Standards/WikiData/WD~kickboxing,178678]]'
-- '[[_Standards/WikiData/WD~kung_fu,208607]]'
-- '[[_Standards/WikiData/WD~Shorinji_Kempo,933634]]'
-- '[[_Standards/WikiData/WD~Karate,23945804]]'
-- '[[_Standards/WikiData/WD~taekwondo,36389]]'
+- '[[_Standards/WikiData/WD~Muay_Thai,120931|WD~Muay_Thai,120931]]'
+- '[[_Standards/WikiData/WD~kickboxing,178678|WD~kickboxing,178678]]'
+- '[[_Standards/WikiData/WD~kung_fu,208607|WD~kung_fu,208607]]'
+- '[[_Standards/WikiData/WD~Shorinji_Kempo,933634|WD~Shorinji_Kempo,933634]]'
+- '[[_Standards/WikiData/WD~Karate,23945804|WD~Karate,23945804]]'
+- '[[_Standards/WikiData/WD~taekwondo,36389|WD~taekwondo,36389]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~martial_art,11417]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~martial_art,11417|WD~martial_art,11417]]'
 creator:
-- '[[_Standards/WikiData/WD~Ankō_Itosu,527422]]'
-- '[[_Standards/WikiData/WD~Arakaki_Seishō,584466]]'
-- '[[_Standards/WikiData/WD~Higaonna_Kanryō,699236]]'
-- '[[_Standards/WikiData/WD~Matsumura_Sōkon,715769]]'
-- '[[_Standards/WikiData/WD~Kanga_Sakukawa,921673]]'
-practiced_by: '[[_Standards/WikiData/WD~karateka,9017214]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Karate,14615816]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27136440,27136440]]'
-country_of_origin: '[[_Standards/WikiData/WD~Ryukyu_Kingdom,28025]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~Ankō_Itosu,527422|WD~Ankō_Itosu,527422]]'
+- '[[_Standards/WikiData/WD~Arakaki_Seishō,584466|WD~Arakaki_Seishō,584466]]'
+- '[[_Standards/WikiData/WD~Higaonna_Kanryō,699236|WD~Higaonna_Kanryō,699236]]'
+- '[[_Standards/WikiData/WD~Matsumura_Sōkon,715769|WD~Matsumura_Sōkon,715769]]'
+- '[[_Standards/WikiData/WD~Kanga_Sakukawa,921673|WD~Kanga_Sakukawa,921673]]'
+practiced_by: '[[_Standards/WikiData/WD~karateka,9017214|WD~karateka,9017214]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Karate,14615816|WD~Portal_Karate,14615816]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27136440,27136440|WD~Q27136440,27136440]]'
+country_of_origin: '[[_Standards/WikiData/WD~Ryukyu_Kingdom,28025|WD~Ryukyu_Kingdom,28025]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 Commons_gallery: Karate
 Commons_category: Karate
 native_label: 空手

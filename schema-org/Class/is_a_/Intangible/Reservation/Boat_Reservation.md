@@ -26,7 +26,7 @@ tags:
 title: is_a_boat_reservation Class
 type: Type
 dv_is_:
-  parent_class: "[[../Reservation]]"
+  parent_class: "[[../Reservation|Reservation]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation|Boat_Reservation]]"
@@ -66,7 +66,7 @@ dv_has_:
     - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../Reservation]]"
+  - "[[../Reservation|Reservation]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -112,7 +112,7 @@ is_part_of = `=this.dv_is_part_of`
 
 A reservation for boat travel.
 
-Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, use [[../../../../../Society/Agent/Community/Organization/Business/Offer]].
+Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, use [[../../../../../Society/Agent/Community/Organization/Business/Offer|Offer]].
 
 has_parent_class = `=this.dv_has_parent_class` 
 

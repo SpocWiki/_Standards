@@ -96,41 +96,41 @@ aliases:
 - 건설
 has_id_wikidata: Q3875186
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~infrastructure,121359]]'
-- '[[_Standards/WikiData/WD~nonbuilding_structure,1322402]]'
-- '[[_Standards/WikiData/WD~building,41176]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~construction,385378]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~infrastructure,121359|WD~infrastructure,121359]]'
+- '[[_Standards/WikiData/WD~nonbuilding_structure,1322402|WD~nonbuilding_structure,1322402]]'
+- '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~construction,385378|WD~construction,385378]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~construction,385378|WD~construction,385378]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~economic_production,739302]]'
-- '[[_Standards/WikiData/WD~planned_creation,11398090]]'
-- '[[_Standards/WikiData/WD~technical_activity,119822504]]'
-has_characteristic: '[[_Standards/WikiData/WD~construction_time,811972]]'
-different_from: '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-facet_of: '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~economic_production,739302|WD~economic_production,739302]]'
+- '[[_Standards/WikiData/WD~planned_creation,11398090|WD~planned_creation,11398090]]'
+- '[[_Standards/WikiData/WD~technical_activity,119822504|WD~technical_activity,119822504]]'
+has_characteristic: '[[_Standards/WikiData/WD~construction_time,811972|WD~construction_time,811972]]'
+different_from: '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+facet_of: '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
 follows:
-- '[[_Standards/WikiData/WD~construction_permit,836900]]'
-- '[[_Standards/WikiData/WD~groundbreaking_ceremony,1068633]]'
-instance_of: '[[_Standards/WikiData/WD~occurrence,1190554]]'
+- '[[_Standards/WikiData/WD~construction_permit,836900|WD~construction_permit,836900]]'
+- '[[_Standards/WikiData/WD~groundbreaking_ceremony,1068633|WD~groundbreaking_ceremony,1068633]]'
+instance_of: '[[_Standards/WikiData/WD~occurrence,1190554|WD~occurrence,1190554]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
 followed_by:
-- '[[_Standards/WikiData/WD~ribbon_cutting_ceremony,3276932]]'
-- '[[_Standards/WikiData/WD~opening,15051339]]'
-- '[[_Standards/WikiData/WD~occupancy_permit,98068581]]'
+- '[[_Standards/WikiData/WD~ribbon_cutting_ceremony,3276932|WD~ribbon_cutting_ceremony,3276932]]'
+- '[[_Standards/WikiData/WD~opening,15051339|WD~opening,15051339]]'
+- '[[_Standards/WikiData/WD~occupancy_permit,98068581|WD~occupancy_permit,98068581]]'
 studied_by:
-- '[[_Standards/WikiData/WD~building_science,3741966]]'
-- '[[_Standards/WikiData/WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~building_science,3741966|WD~building_science,3741966]]'
+- '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~shot_firer,12001286]]'
-- '[[_Standards/WikiData/WD~Q102382810,102382810]]'
-- '[[_Standards/WikiData/WD~architect,42973]]'
+- '[[_Standards/WikiData/WD~shot_firer,12001286|WD~shot_firer,12001286]]'
+- '[[_Standards/WikiData/WD~Q102382810,102382810|WD~Q102382810,102382810]]'
+- '[[_Standards/WikiData/WD~architect,42973|WD~architect,42973]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~destruction,17781833]]'
-- '[[_Standards/WikiData/WD~collapse,133324141]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~destruction,17781833|WD~destruction,17781833]]'
+- '[[_Standards/WikiData/WD~collapse,133324141|WD~collapse,133324141]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
 Commons_category: Construction
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bouwvakkers%20boven%20op%20de%20steigers%20aan%20het%20werk%2C%20Bestanddeelnr%20254-7350.jpg
 Unicode_character:

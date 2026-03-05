@@ -15,37 +15,37 @@ aliases:
 - 페트로브라스
 has_id_wikidata: Q210047
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~biofuel,128991]]'
-- '[[_Standards/WikiData/WD~gas,11432]]'
-- '[[_Standards/WikiData/WD~petroleum,22656]]'
-founded_by: '[[_Standards/WikiData/WD~Getúlio_Vargas,156844]]'
-legal_form: '[[_Standards/WikiData/WD~S.A.,166280]]'
+- '[[_Standards/WikiData/WD~biofuel,128991|WD~biofuel,128991]]'
+- '[[_Standards/WikiData/WD~gas,11432|WD~gas,11432]]'
+- '[[_Standards/WikiData/WD~petroleum,22656|WD~petroleum,22656]]'
+founded_by: '[[_Standards/WikiData/WD~Getúlio_Vargas,156844|WD~Getúlio_Vargas,156844]]'
+legal_form: '[[_Standards/WikiData/WD~S.A.,166280|WD~S.A.,166280]]'
 stock_exchange:
-- '[[_Standards/WikiData/WD~Madrid_Stock_Exchange,617426]]'
-- '[[_Standards/WikiData/WD~São_Paulo_Stock_Exchange,796297]]'
-- '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
+- '[[_Standards/WikiData/WD~Madrid_Stock_Exchange,617426|WD~Madrid_Stock_Exchange,617426]]'
+- '[[_Standards/WikiData/WD~São_Paulo_Stock_Exchange,796297|WD~São_Paulo_Stock_Exchange,796297]]'
+- '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677|WD~New_York_Stock_Exchange,13677]]'
 industry:
-- '[[_Standards/WikiData/WD~petroleum_industry,862571]]'
-- '[[_Standards/WikiData/WD~gas_industry,21328659]]'
+- '[[_Standards/WikiData/WD~petroleum_industry,862571|WD~petroleum_industry,862571]]'
+- '[[_Standards/WikiData/WD~gas_industry,21328659|WD~gas_industry,21328659]]'
 instance_of:
-- '[[_Standards/WikiData/WD~public_company,891723]]'
-- '[[_Standards/WikiData/WD~business,4830453]]'
-- '[[_Standards/WikiData/WD~educational_organization,5341295]]'
-- '[[_Standards/WikiData/WD~enterprise,6881511]]'
-- '[[_Standards/WikiData/WD~gas_station_chain,64027599]]'
+- '[[_Standards/WikiData/WD~public_company,891723|WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~educational_organization,5341295|WD~educational_organization,5341295]]'
+- '[[_Standards/WikiData/WD~enterprise,6881511|WD~enterprise,6881511]]'
+- '[[_Standards/WikiData/WD~gas_station_chain,64027599|WD~gas_station_chain,64027599]]'
 follows:
-- '[[_Standards/WikiData/WD~Eg3_Combustibles_S.A.,2838252]]'
-- '[[_Standards/WikiData/WD~Isaura_S.A.,18924139]]'
+- '[[_Standards/WikiData/WD~Eg3_Combustibles_S.A.,2838252|WD~Eg3_Combustibles_S.A.,2838252]]'
+- '[[_Standards/WikiData/WD~Isaura_S.A.,18924139|WD~Isaura_S.A.,18924139]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Quattor,7269596]]'
-- '[[_Standards/WikiData/WD~Transpetro,7834816]]'
-- '[[_Standards/WikiData/WD~Termobahia,106414220]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~president_of_Petrobras,98550858]]'
-chairperson: '[[_Standards/WikiData/WD~José_Mauro_Ferreira_Coelho,112201439]]'
-location_of_formation: '[[_Standards/WikiData/WD~Brasília,2844]]'
-headquarters_location: '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]'
-country: '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Quattor,7269596|WD~Quattor,7269596]]'
+- '[[_Standards/WikiData/WD~Transpetro,7834816|WD~Transpetro,7834816]]'
+- '[[_Standards/WikiData/WD~Termobahia,106414220|WD~Termobahia,106414220]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~president_of_Petrobras,98550858|WD~president_of_Petrobras,98550858]]'
+chairperson: '[[_Standards/WikiData/WD~José_Mauro_Ferreira_Coelho,112201439|WD~José_Mauro_Ferreira_Coelho,112201439]]'
+location_of_formation: '[[_Standards/WikiData/WD~Brasília,2844|WD~Brasília,2844]]'
+headquarters_location: '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678|WD~Rio_de_Janeiro,8678]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678|WD~Rio_de_Janeiro,8678]]'
+country: '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
 employees: 52000
 social_media_followers:
 - 449000

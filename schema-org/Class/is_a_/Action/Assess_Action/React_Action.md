@@ -44,7 +44,7 @@ dv_has_:
     - "[[react_action/like_action|LikeAction]]"
     - "[[react_action/want_action|WantAction]]"
   parent_class:
-    - "[[../AssessAction]]"
+    - "[[../AssessAction|AssessAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
@@ -70,7 +70,7 @@ dv_has_:
     - "[[../../../../Relation/has/has_target|target]]"
     - "[[../../../../Property/has_url_for|url]]"
 dv_has_parent_class:
-  - "[[../assess_action|../assess_action]]"
+  - "[[../assess_action|../assess_action|assess_action]]"
 dv_has_child_class:
   - "[[react_action/agree_action|AgreeAction]]"
   - "[[react_action/disagree_action|DisagreeAction]]"

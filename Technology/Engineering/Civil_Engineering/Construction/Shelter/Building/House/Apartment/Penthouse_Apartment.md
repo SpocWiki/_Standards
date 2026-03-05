@@ -37,9 +37,9 @@ aliases:
 - 頂層住宅
 - 펜트하우스
 has_id_wikidata: Q2069469
-subclass_of: '[[_Standards/WikiData/WD~apartment,188507]]'
-instance_of: '[[_Standards/WikiData/WD~storey,831691]]'
-different_from: '[[_Standards/WikiData/WD~mechanical_penthouse,130323264]]'
+subclass_of: '[[_Standards/WikiData/WD~apartment,188507|WD~apartment,188507]]'
+instance_of: '[[_Standards/WikiData/WD~storey,831691|WD~storey,831691]]'
+different_from: '[[_Standards/WikiData/WD~mechanical_penthouse,130323264|WD~mechanical_penthouse,130323264]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/One-Harbour-Green-Penthouses.jpg
 Commons_category: Penthouses
 dv_has_:
@@ -92,7 +92,7 @@ dv_has_:
 
 # [[Penthouse_Apartment]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Penthouse_apartment,2069469]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Penthouse_apartment,2069469|WD~Penthouse_apartment,2069469]] 
 
 ## #has_/text_of_/abstract 
 

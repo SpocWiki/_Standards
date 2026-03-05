@@ -10,7 +10,7 @@ tags:
 type: Country
 dv_has_name_en: West Bank and Gaza
 dv_has_name_de: West Bank und Gaza
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: "[[../../Africa|Africa]]"
 dv_Language-Id: 472
 dv_is_:
   same_as:

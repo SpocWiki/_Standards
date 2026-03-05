@@ -54,11 +54,11 @@ aliases:
 - 배수
 has_id_wikidata: Q7481320
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-different_from: '[[_Standards/WikiData/WD~drainage,5305547]]'
-subclass_of: '[[_Standards/WikiData/WD~Q13428694,13428694]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+different_from: '[[_Standards/WikiData/WD~drainage,5305547|WD~drainage,5305547]]'
+subclass_of: '[[_Standards/WikiData/WD~Q13428694,13428694|WD~Q13428694,13428694]]'
 OmegaWiki_Defined_Meaning: 881914
 Commons_category: Drainage
 U_S_National_Archives_Identifier: 10639696
@@ -128,7 +128,7 @@ dv_has_:
 # [[Drainage]] 
 
 #has_/complement :: [[Irrigation]] 
-#is_/same_as :: [[_Standards/WikiData/WD~drainage,7481320]] 
+#is_/same_as :: [[_Standards/WikiData/WD~drainage,7481320|WD~drainage,7481320]] 
 
 ## #has_/text_of_/abstract 
 

@@ -27,30 +27,30 @@ aliases:
 - 包豪斯
 - 바우하우스
 has_id_wikidata: Q124354
-influenced_by: '[[_Standards/WikiData/WD~Deutscher_Werkbund,160438]]'
+influenced_by: '[[_Standards/WikiData/WD~Deutscher_Werkbund,160438|WD~Deutscher_Werkbund,160438]]'
 instance_of:
-- '[[_Standards/WikiData/WD~institution,178706]]'
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~arts_educational_institution,1792623]]'
-- '[[_Standards/WikiData/WD~architectural_style,32880]]'
-different_from: '[[_Standards/WikiData/WD~Bauhaus,227559]]'
-award_received: '[[_Standards/WikiData/WD~Q280594,280594]]'
-replaced_by: '[[_Standards/WikiData/WD~Bauhaus_Universität_Weimar,573975]]'
-archives_at: '[[_Standards/WikiData/WD~Bauhaus_Archiv,811389]]'
-architectural_style: '[[_Standards/WikiData/WD~Art_Nouveau_architecture,1295040]]'
-replaces: '[[_Standards/WikiData/WD~Weimar_Saxon_Grand_Ducal_Art_School,1549326]]'
-described_by_source: '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-subclass_of: '[[_Standards/WikiData/WD~Neues_Bauen,11784483]]'
-part_of: '[[_Standards/WikiData/WD~Bauhaus_and_its_Sites_in_Weimar,_Dessau_and_Bernau,14863645]]'
-followed_by: '[[_Standards/WikiData/WD~Q60478225,60478225]]'
+- '[[_Standards/WikiData/WD~institution,178706|WD~institution,178706]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~arts_educational_institution,1792623|WD~arts_educational_institution,1792623]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880|WD~architectural_style,32880]]'
+different_from: '[[_Standards/WikiData/WD~Bauhaus,227559|WD~Bauhaus,227559]]'
+award_received: '[[_Standards/WikiData/WD~Q280594,280594|WD~Q280594,280594]]'
+replaced_by: '[[_Standards/WikiData/WD~Bauhaus_Universität_Weimar,573975|WD~Bauhaus_Universität_Weimar,573975]]'
+archives_at: '[[_Standards/WikiData/WD~Bauhaus_Archiv,811389|WD~Bauhaus_Archiv,811389]]'
+architectural_style: '[[_Standards/WikiData/WD~Art_Nouveau_architecture,1295040|WD~Art_Nouveau_architecture,1295040]]'
+replaces: '[[_Standards/WikiData/WD~Weimar_Saxon_Grand_Ducal_Art_School,1549326|WD~Weimar_Saxon_Grand_Ducal_Art_School,1549326]]'
+described_by_source: '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+subclass_of: '[[_Standards/WikiData/WD~Neues_Bauen,11784483|WD~Neues_Bauen,11784483]]'
+part_of: '[[_Standards/WikiData/WD~Bauhaus_and_its_Sites_in_Weimar,_Dessau_and_Bernau,14863645|WD~Bauhaus_and_its_Sites_in_Weimar,_Dessau_and_Bernau,14863645]]'
+followed_by: '[[_Standards/WikiData/WD~Q60478225,60478225|WD~Q60478225,60478225]]'
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Dessau_Roßlau,3828]]'
-- '[[_Standards/WikiData/WD~Weimar,3955]]'
-- '[[_Standards/WikiData/WD~Berlin,64]]'
-location_of_formation: '[[_Standards/WikiData/WD~Weimar,3955]]'
-country: '[[_Standards/WikiData/WD~Germany,183]]'
-facet_of: '[[_Standards/WikiData/WD~functionalism,47942]]'
-founded_by: '[[_Standards/WikiData/WD~Walter_Gropius,61071]]'
+- '[[_Standards/WikiData/WD~Dessau_Roßlau,3828|WD~Dessau_Roßlau,3828]]'
+- '[[_Standards/WikiData/WD~Weimar,3955|WD~Weimar,3955]]'
+- '[[_Standards/WikiData/WD~Berlin,64|WD~Berlin,64]]'
+location_of_formation: '[[_Standards/WikiData/WD~Weimar,3955|WD~Weimar,3955]]'
+country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+facet_of: '[[_Standards/WikiData/WD~functionalism,47942|WD~functionalism,47942]]'
+founded_by: '[[_Standards/WikiData/WD~Walter_Gropius,61071|WD~Walter_Gropius,61071]]'
 Commons_gallery: Bauhaus
 Commons_category: Bauhaus
 BHCL_UUID: c1c6353a-a3db-4888-9ebb-8b4049764cfe
@@ -169,9 +169,9 @@ dv_has_:
 
 | City   | Start |  End | Director                     |
 | ------ | ----: | ---: | ---------------------------- |
-| Weimar |  1919 | 1925 | [[Bauhaus/Gropius,Walter]]           |
-| Dessau |  1925 | 1932 | [[Bauhaus/Meyer,Hannes]]             |
-| Berlin |  1932 | 1933 | [[Bauhaus/Mies,Ludwig]] |
+| Weimar |  1919 | 1925 | [[Bauhaus/Gropius,Walter|Gropius,Walter]]           |
+| Dessau |  1925 | 1932 | [[Bauhaus/Meyer,Hannes|Meyer,Hannes]]             |
+| Berlin |  1932 | 1933 | [[Bauhaus/Mies,Ludwig|Mies,Ludwig]] |
 
 ## #has_/text_of_/abstract 
 

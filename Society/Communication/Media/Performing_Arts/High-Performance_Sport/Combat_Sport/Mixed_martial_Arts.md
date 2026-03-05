@@ -71,15 +71,15 @@ aliases:
 - 종합격투기
 has_id_wikidata: Q114466
 uses:
-- '[[_Standards/WikiData/WD~glove,169031]]'
-- '[[_Standards/WikiData/WD~helmet,173603]]'
-- '[[_Standards/WikiData/WD~breeches,2302770]]'
-- '[[_Standards/WikiData/WD~mouthguard,11179]]'
-different_from: '[[_Standards/WikiData/WD~MMA,227145]]'
-subclass_of: '[[_Standards/WikiData/WD~combat_sport,7128792]]'
-practiced_by: '[[_Standards/WikiData/WD~mixed_martial_arts_fighter,11607585]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_MMA,14437407]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~glove,169031|WD~glove,169031]]'
+- '[[_Standards/WikiData/WD~helmet,173603|WD~helmet,173603]]'
+- '[[_Standards/WikiData/WD~breeches,2302770|WD~breeches,2302770]]'
+- '[[_Standards/WikiData/WD~mouthguard,11179|WD~mouthguard,11179]]'
+different_from: '[[_Standards/WikiData/WD~MMA,227145|WD~MMA,227145]]'
+subclass_of: '[[_Standards/WikiData/WD~combat_sport,7128792|WD~combat_sport,7128792]]'
+practiced_by: '[[_Standards/WikiData/WD~mixed_martial_arts_fighter,11607585|WD~mixed_martial_arts_fighter,11607585]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_MMA,14437407|WD~Portal_MMA,14437407]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 OmegaWiki_Defined_Meaning: 1338071
 subreddit: MMA
 short_name:

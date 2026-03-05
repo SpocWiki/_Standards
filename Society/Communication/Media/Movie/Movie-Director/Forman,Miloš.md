@@ -34,88 +34,88 @@ aliases:
 - 米路士·科曼
 - 밀로시 포르만
 has_id_wikidata: Q51525
-nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360|WD~Academy_Award_for_Best_Director,103360]]'
 award_received:
-- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]'
-- '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
-- '[[_Standards/WikiData/WD~Los_Angeles_Film_Critics_Association_Award_for_Best_Director,505449]]'
-- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]'
-- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
-- '[[_Standards/WikiData/WD~César_Award_for_Best_Foreign_Film,900414]]'
-- '[[_Standards/WikiData/WD~Czech_Medal_of_Merit,1141859]]'
-- '[[_Standards/WikiData/WD~European_Film_Academy_Achievement_in_World_Cinema_Award,1377753]]'
-- '[[_Standards/WikiData/WD~honorary_citizen_of_Prague,60130697]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360|WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184|WD~BAFTA_Award_for_Best_Film,139184]]'
+- '[[_Standards/WikiData/WD~Golden_Bear,154590|WD~Golden_Bear,154590]]'
+- '[[_Standards/WikiData/WD~Los_Angeles_Film_Critics_Association_Award_for_Best_Director,505449|WD~Los_Angeles_Film_Critics_Association_Award_for_Best_Director,505449]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356|WD~Golden_Globe_Award_for_Best_Director,586356]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131|WD~BAFTA_Award_for_Best_Direction,787131]]'
+- '[[_Standards/WikiData/WD~César_Award_for_Best_Foreign_Film,900414|WD~César_Award_for_Best_Foreign_Film,900414]]'
+- '[[_Standards/WikiData/WD~Czech_Medal_of_Merit,1141859|WD~Czech_Medal_of_Merit,1141859]]'
+- '[[_Standards/WikiData/WD~European_Film_Academy_Achievement_in_World_Cinema_Award,1377753|WD~European_Film_Academy_Achievement_in_World_Cinema_Award,1377753]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Prague,60130697|WD~honorary_citizen_of_Prague,60130697]]'
 notable_work:
-- "[[_Standards/WikiData/WD~One_Flew_Over_the_Cuckoo's_Nest,171669]]"
-- '[[_Standards/WikiData/WD~Amadeus,190956]]'
-- '[[_Standards/WikiData/WD~The_People_vs._Larry_Flynt,750077]]'
-- '[[_Standards/WikiData/WD~Hair,757156]]'
-- '[[_Standards/WikiData/WD~Man_on_the_Moon,1125282]]'
-- "[[_Standards/WikiData/WD~Goya's_Ghosts,1129761]]"
-- "[[_Standards/WikiData/WD~The_Fireman's_Ball,1193389]]"
-- '[[_Standards/WikiData/WD~Loves_of_a_Blonde,1214524]]'
-- '[[_Standards/WikiData/WD~Taking_Off,1273817]]'
-- '[[_Standards/WikiData/WD~Valmont,1347278]]'
-- '[[_Standards/WikiData/WD~Black_Peter,1453820]]'
-- '[[_Standards/WikiData/WD~Ragtime,2604288]]'
-- '[[_Standards/WikiData/WD~Well_Paid_Stroll,104895189]]'
+- "[[_Standards/WikiData/WD~One_Flew_Over_the_Cuckoo's_Nest,171669|WD~One_Flew_Over_the_Cuckoo's_Nest,171669]]"
+- '[[_Standards/WikiData/WD~Amadeus,190956|WD~Amadeus,190956]]'
+- '[[_Standards/WikiData/WD~The_People_vs._Larry_Flynt,750077|WD~The_People_vs._Larry_Flynt,750077]]'
+- '[[_Standards/WikiData/WD~Hair,757156|WD~Hair,757156]]'
+- '[[_Standards/WikiData/WD~Man_on_the_Moon,1125282|WD~Man_on_the_Moon,1125282]]'
+- "[[_Standards/WikiData/WD~Goya's_Ghosts,1129761|WD~Goya's_Ghosts,1129761]]"
+- "[[_Standards/WikiData/WD~The_Fireman's_Ball,1193389|WD~The_Fireman's_Ball,1193389]]"
+- '[[_Standards/WikiData/WD~Loves_of_a_Blonde,1214524|WD~Loves_of_a_Blonde,1214524]]'
+- '[[_Standards/WikiData/WD~Taking_Off,1273817|WD~Taking_Off,1273817]]'
+- '[[_Standards/WikiData/WD~Valmont,1347278|WD~Valmont,1347278]]'
+- '[[_Standards/WikiData/WD~Black_Peter,1453820|WD~Black_Peter,1453820]]'
+- '[[_Standards/WikiData/WD~Ragtime,2604288|WD~Ragtime,2604288]]'
+- '[[_Standards/WikiData/WD~Well_Paid_Stroll,104895189|WD~Well_Paid_Stroll,104895189]]'
 has_works_in_the_collection:
-- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-- '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
-supported_sports_team: '[[_Standards/WikiData/WD~SK_Slavia_Prague,194393]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740|WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515|WD~Harvard_Film_Archive,14715515]]'
+supported_sports_team: '[[_Standards/WikiData/WD~SK_Slavia_Prague,194393|WD~SK_Slavia_Prague,194393]]'
 is_member_of:
-- '[[_Standards/WikiData/WD~Academy_of_Motion_Picture_Arts_and_Sciences,212329]]'
-- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-- '[[_Standards/WikiData/WD~scouting,872181]]'
+- '[[_Standards/WikiData/WD~Academy_of_Motion_Picture_Arts_and_Sciences,212329|WD~Academy_of_Motion_Picture_Arts_and_Sciences,212329]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303|WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~scouting,872181|WD~scouting,872181]]'
 occupation:
-- '[[_Standards/WikiData/WD~playwright,214917]]'
-- '[[_Standards/WikiData/WD~film_director,2526255]]'
-- '[[_Standards/WikiData/WD~film_producer,3282637]]'
-- '[[_Standards/WikiData/WD~director,3455803]]'
-- '[[_Standards/WikiData/WD~film_actor,10800557]]'
-- '[[_Standards/WikiData/WD~screenwriter,28389]]'
-- '[[_Standards/WikiData/WD~actor,33999]]'
-place_of_birth: '[[_Standards/WikiData/WD~Čáslav,341777]]'
-sibling: '[[_Standards/WikiData/WD~Joseph_J._Kohn,375333]]'
+- '[[_Standards/WikiData/WD~playwright,214917|WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~film_director,2526255|WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637|WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803|WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389|WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999|WD~actor,33999]]'
+place_of_birth: '[[_Standards/WikiData/WD~Čáslav,341777|WD~Čáslav,341777]]'
+sibling: '[[_Standards/WikiData/WD~Joseph_J._Kohn,375333|WD~Joseph_J._Kohn,375333]]'
 educated_at:
-- '[[_Standards/WikiData/WD~Academy_of_Performing_Arts,414221]]'
-- '[[_Standards/WikiData/WD~Film_and_TV_School_of_the_Academy_of_Performing_Arts_in_Prague,1414256]]'
+- '[[_Standards/WikiData/WD~Academy_of_Performing_Arts,414221|WD~Academy_of_Performing_Arts,414221]]'
+- '[[_Standards/WikiData/WD~Film_and_TV_School_of_the_Academy_of_Performing_Arts_in_Prague,1414256|WD~Film_and_TV_School_of_the_Academy_of_Performing_Arts_in_Prague,1414256]]'
 spouse:
-- '[[_Standards/WikiData/WD~Jana_Brejchová,448467]]'
-- '[[_Standards/WikiData/WD~Věra_Křesadlová,12001943]]'
-- '[[_Standards/WikiData/WD~Martina_Formanová,12035905]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Miloš_Forman,10629184]]'
-family_name: '[[_Standards/WikiData/WD~Forman,12016761]]'
+- '[[_Standards/WikiData/WD~Jana_Brejchová,448467|WD~Jana_Brejchová,448467]]'
+- '[[_Standards/WikiData/WD~Věra_Křesadlová,12001943|WD~Věra_Křesadlová,12001943]]'
+- '[[_Standards/WikiData/WD~Martina_Formanová,12035905|WD~Martina_Formanová,12035905]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Miloš_Forman,10629184|WD~Template_Miloš_Forman,10629184]]'
+family_name: '[[_Standards/WikiData/WD~Forman,12016761|WD~Forman,12016761]]'
 child:
-- '[[_Standards/WikiData/WD~Matěj_Forman,12036115]]'
-- '[[_Standards/WikiData/WD~Petr_Forman,12044845]]'
-father: '[[_Standards/WikiData/WD~Otto_Kohn,12043305]]'
+- '[[_Standards/WikiData/WD~Matěj_Forman,12036115|WD~Matěj_Forman,12036115]]'
+- '[[_Standards/WikiData/WD~Petr_Forman,12044845|WD~Petr_Forman,12044845]]'
+father: '[[_Standards/WikiData/WD~Otto_Kohn,12043305|WD~Otto_Kohn,12043305]]'
 given_name:
-- '[[_Standards/WikiData/WD~Jan,12173670]]'
-- '[[_Standards/WikiData/WD~Tomáš,16282141]]'
-- '[[_Standards/WikiData/WD~Miloš,19818007]]'
-position_held: '[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]'
-documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
-place_of_burial: '[[_Standards/WikiData/WD~New_Warren_Cemetery,117559842]]'
-mother: '[[_Standards/WikiData/WD~Q136441370,136441370]]'
+- '[[_Standards/WikiData/WD~Jan,12173670|WD~Jan,12173670]]'
+- '[[_Standards/WikiData/WD~Tomáš,16282141|WD~Tomáš,16282141]]'
+- '[[_Standards/WikiData/WD~Miloš,19818007|WD~Miloš,19818007]]'
+position_held: '[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341|WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012|WD~works_protected_by_copyrights,73555012]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030|WD~Harvard_Film_Archive_Project,111249030]]'
+place_of_burial: '[[_Standards/WikiData/WD~New_Warren_Cemetery,117559842|WD~New_Warren_Cemetery,117559842]]'
+mother: '[[_Standards/WikiData/WD~Q136441370,136441370|WD~Q136441370,136441370]]'
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Czech,9056]]'
-cause_of_death: '[[_Standards/WikiData/WD~disease,12136]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Czech,9056|WD~Czech,9056]]'
+cause_of_death: '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
-- '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]'
+- '[[_Standards/WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]]'
 number_of_children: 4
-employer: '[[_Standards/WikiData/WD~Columbia_University,49088]]'
-place_of_death: '[[_Standards/WikiData/WD~Danbury,49198]]'
+employer: '[[_Standards/WikiData/WD~Columbia_University,49088|WD~Columbia_University,49088]]'
+place_of_death: '[[_Standards/WikiData/WD~Danbury,49198|WD~Danbury,49198]]'
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/FORMAN_MILOSH.html
 Libris_URI: ljx16x54571wmb1
 Facebook_username: milosforman
@@ -251,7 +251,7 @@ dv_has_:
 > The film was initially shown in theatres in his home country 
 > in the more reformist atmosphere of the Prague Spring. 
 > However, it was later banned by the Communist government 
-> after the [[../../../../../../../Knowledge/History.internal/Cold_War/Warsaw_Pact_invasion_of_Czechoslovakia]] in 1968. 
+> after the [[../../../../../../../Knowledge/History.internal/Cold_War/Warsaw_Pact_invasion_of_Czechoslovakia|Warsaw_Pact_invasion_of_Czechoslovakia]] in 1968. 
 > 
 > Forman was subsequently forced to leave Czechoslovakia for the United States, 
 > where he continued making films.
@@ -260,8 +260,8 @@ dv_has_:
 > One Flew Over the Cuckoo's Nest (1975) and the biographical drama Amadeus (1984). 
 > 
 > During this time, he also directed notable and acclaimed films such as Black Peter (1964), 
-> Loves of a Blonde (1965), [[../Movie-Genre/Horror-Movie/Hair(1978)]], Ragtime (1981), [[../Movie-Genre/Horror-Movie/Valmont(1989)]], 
-> The [[People vs. Larry Flynt]] (1996) and [[../Movie-Genre/Horror-Movie/Man_on_the_Moon(film)]] (1999).
+> Loves of a Blonde (1965), [[../Movie-Genre/Horror-Movie/Hair(1978)|Hair(1978)]], Ragtime (1981), [[../Movie-Genre/Horror-Movie/Valmont(1989)|Valmont(1989)]], 
+> The [[People vs. Larry Flynt]] (1996) and [[../Movie-Genre/Horror-Movie/Man_on_the_Moon(film)|Man_on_the_Moon(film)]] (1999).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Milo%C5%A1%20Forman) 
 

@@ -68,16 +68,16 @@ aliases:
 - 社會結構
 - 사회구성체
 has_id_wikidata: Q211606
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~structure,517966]]'
-subject_has_role: '[[_Standards/WikiData/WD~structural_functionalism,831725]]'
-has_cause: '[[_Standards/WikiData/WD~social_change,1510761]]'
-part_of: '[[_Standards/WikiData/WD~social_system,1639378]]'
-subclass_of: '[[_Standards/WikiData/WD~structure,6671777]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~structure,517966|WD~structure,517966]]'
+subject_has_role: '[[_Standards/WikiData/WD~structural_functionalism,831725|WD~structural_functionalism,831725]]'
+has_cause: '[[_Standards/WikiData/WD~social_change,1510761|WD~social_change,1510761]]'
+part_of: '[[_Standards/WikiData/WD~social_system,1639378|WD~social_system,1639378]]'
+subclass_of: '[[_Standards/WikiData/WD~structure,6671777|WD~structure,6671777]]'
 studied_by:
-- '[[_Standards/WikiData/WD~analysis_of_social_structure,15148892]]'
-- '[[_Standards/WikiData/WD~sociology,21201]]'
-- '[[_Standards/WikiData/WD~social_science,34749]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_structure,111972893]]'
+- '[[_Standards/WikiData/WD~analysis_of_social_structure,15148892|WD~analysis_of_social_structure,15148892]]'
+- '[[_Standards/WikiData/WD~sociology,21201|WD~sociology,21201]]'
+- '[[_Standards/WikiData/WD~social_science,34749|WD~social_science,34749]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_structure,111972893|WD~type_of_structure,111972893]]'
 OmegaWiki_Defined_Meaning: 3479
 Library_of_Congress_Classification:
 - GN478-GN491.7

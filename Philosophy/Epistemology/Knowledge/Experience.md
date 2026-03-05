@@ -80,20 +80,20 @@ aliases:
 - 경험
 has_id_wikidata: Q164359
 different_from:
-- '[[_Standards/WikiData/WD~Experience,124452]]'
-- '[[_Standards/WikiData/WD~Esperientzia,20491707]]'
+- '[[_Standards/WikiData/WD~Experience,124452|WD~Experience,124452]]'
+- '[[_Standards/WikiData/WD~Esperientzia,20491707|WD~Esperientzia,20491707]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~property,937228]]'
-- '[[_Standards/WikiData/WD~knowledge,9081]]'
+- '[[_Standards/WikiData/WD~property,937228|WD~property,937228]]'
+- '[[_Standards/WikiData/WD~knowledge,9081|WD~knowledge,9081]]'
 instance_of:
-- '[[_Standards/WikiData/WD~quality,1207505]]'
-- '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
-has_cause: '[[_Standards/WikiData/WD~hands_on_learning,11327083]]'
-described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-opposite_of: '[[_Standards/WikiData/WD~inexperience,108816154]]'
+- '[[_Standards/WikiData/WD~quality,1207505|WD~quality,1207505]]'
+- '[[_Standards/WikiData/WD~psychology_concept,96634632|WD~psychology_concept,96634632]]'
+has_cause: '[[_Standards/WikiData/WD~hands_on_learning,11327083|WD~hands_on_learning,11327083]]'
+described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+opposite_of: '[[_Standards/WikiData/WD~inexperience,108816154|WD~inexperience,108816154]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~knowledge,9081]]'
-- '[[_Standards/WikiData/WD~understanding,46744]]'
+- '[[_Standards/WikiData/WD~knowledge,9081|WD~knowledge,9081]]'
+- '[[_Standards/WikiData/WD~understanding,46744|WD~understanding,46744]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ornette%20at%20The%20Forum%201982.jpg
 dv_has_:
   name_:

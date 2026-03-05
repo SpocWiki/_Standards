@@ -25,7 +25,7 @@ This is a kind of [[FileClass~FinancialService]]
 
 Accountancy business.
 
-As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[../../../../../Society/Agent/Community/Organization/Business/Service]]\(s).
+As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[../../../../../Society/Agent/Community/Organization/Business/Service|Service]]\(s).
 
 
 ## Use one of these Tags for Objects of this Type:

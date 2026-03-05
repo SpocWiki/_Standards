@@ -37,7 +37,7 @@ dv_is_:
     - "[[Business_Audience]]"
 dv_has_:
   parent_class:
-    - "[[../Audience]]"
+    - "[[../Audience|Audience]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -57,7 +57,7 @@ dv_has_:
     - "[[yearly_revenue|yearly_revenue]]"
     - "[[years_in_operation|years_in_operation]]"
 dv_has_parent_class:
-  - "[[../Audience]]"
+  - "[[../Audience|Audience]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"

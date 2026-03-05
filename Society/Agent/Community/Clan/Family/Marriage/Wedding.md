@@ -114,37 +114,37 @@ aliases:
 - 結婚式
 - 혼례
 has_id_wikidata: Q49836
-opposite_of: '[[_Standards/WikiData/WD~divorce,93190]]'
+opposite_of: '[[_Standards/WikiData/WD~divorce,93190|WD~divorce,93190]]'
 follows:
-- '[[_Standards/WikiData/WD~engagement,157512]]'
-- '[[_Standards/WikiData/WD~banns_of_marriage,1972045]]'
-studied_by: '[[_Standards/WikiData/WD~ethnomusicology,208365]]'
+- '[[_Standards/WikiData/WD~engagement,157512|WD~engagement,157512]]'
+- '[[_Standards/WikiData/WD~banns_of_marriage,1972045|WD~banns_of_marriage,1972045]]'
+studied_by: '[[_Standards/WikiData/WD~ethnomusicology,208365|WD~ethnomusicology,208365]]'
 objects_of_occurrence_have_role:
-- '[[_Standards/WikiData/WD~bride,353673]]'
-- '[[_Standards/WikiData/WD~bridegroom,854830]]'
-- '[[_Standards/WikiData/WD~spouse,1196129]]'
-- '[[_Standards/WikiData/WD~fiancé,98688601]]'
+- '[[_Standards/WikiData/WD~bride,353673|WD~bride,353673]]'
+- '[[_Standards/WikiData/WD~bridegroom,854830|WD~bridegroom,854830]]'
+- '[[_Standards/WikiData/WD~spouse,1196129|WD~spouse,1196129]]'
+- '[[_Standards/WikiData/WD~fiancé,98688601|WD~fiancé,98688601]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-instance_of: '[[_Standards/WikiData/WD~key_event,2245405]]'
-subclass_of: '[[_Standards/WikiData/WD~ceremony,2627975]]'
-role_of_agent_s_of_action: '[[_Standards/WikiData/WD~wedding_officiant,2661159]]'
-different_from: '[[_Standards/WikiData/WD~sacrament_of_marriage,3460998]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Weddings,14409797]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+instance_of: '[[_Standards/WikiData/WD~key_event,2245405|WD~key_event,2245405]]'
+subclass_of: '[[_Standards/WikiData/WD~ceremony,2627975|WD~ceremony,2627975]]'
+role_of_agent_s_of_action: '[[_Standards/WikiData/WD~wedding_officiant,2661159|WD~wedding_officiant,2661159]]'
+different_from: '[[_Standards/WikiData/WD~sacrament_of_marriage,3460998|WD~sacrament_of_marriage,3460998]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Weddings,14409797|WD~Template_Weddings,14409797]]'
 followed_by:
-- '[[_Standards/WikiData/WD~wedding_feast,107304995]]'
-- '[[_Standards/WikiData/WD~wedding_banquet,107579066]]'
-- '[[_Standards/WikiData/WD~marriage,8445]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Ethnomusicological_descriptors_University_of_Turin,120325256]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~wedding_in_Islam,125421627]]'
-depicted_by: '[[_Standards/WikiData/WD~Nozze_gentilizie,131546499]]'
+- '[[_Standards/WikiData/WD~wedding_feast,107304995|WD~wedding_feast,107304995]]'
+- '[[_Standards/WikiData/WD~wedding_banquet,107579066|WD~wedding_banquet,107579066]]'
+- '[[_Standards/WikiData/WD~marriage,8445|WD~marriage,8445]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Ethnomusicological_descriptors_University_of_Turin,120325256|WD~WikiProject_Ethnomusicological_descriptors_University_of_Turin,120325256]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~wedding_in_Islam,125421627|WD~wedding_in_Islam,125421627]]'
+depicted_by: '[[_Standards/WikiData/WD~Nozze_gentilizie,131546499|WD~Nozze_gentilizie,131546499]]'
 Wikidata_property: annual number of weddings
-has_effect: '[[_Standards/WikiData/WD~marriage,8445]]'
-facet_of: '[[_Standards/WikiData/WD~marriage,8445]]'
+has_effect: '[[_Standards/WikiData/WD~marriage,8445|WD~marriage,8445]]'
+facet_of: '[[_Standards/WikiData/WD~marriage,8445|WD~marriage,8445]]'
 OmegaWiki_Defined_Meaning: 5532
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Blair%20Leighton%20-%20The%20Wedding%20Register.jpg
 IMDb_keyword:

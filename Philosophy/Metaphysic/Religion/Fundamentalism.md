@@ -68,13 +68,13 @@ aliases:
 - 근본주의
 has_id_wikidata: Q9149
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 instance_of:
-- '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
-- '[[_Standards/WikiData/WD~ideology,7257]]'
-practiced_by: '[[_Standards/WikiData/WD~fundamentalist,131596708]]'
-subclass_of: '[[_Standards/WikiData/WD~world_view,49447]]'
+- '[[_Standards/WikiData/WD~philosophical_concept,33104279|WD~philosophical_concept,33104279]]'
+- '[[_Standards/WikiData/WD~ideology,7257|WD~ideology,7257]]'
+practiced_by: '[[_Standards/WikiData/WD~fundamentalist,131596708|WD~fundamentalist,131596708]]'
+subclass_of: '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
 dv_has_:
   name_:
     ab: Афундаментализм

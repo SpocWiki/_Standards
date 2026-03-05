@@ -37,18 +37,18 @@ aliases:
 - 미시시피 문화
 has_id_wikidata: Q1052095
 instance_of:
-- '[[_Standards/WikiData/WD~Mound_Builders,262714]]'
-- '[[_Standards/WikiData/WD~archaeological_culture,465299]]'
-- '[[_Standards/WikiData/WD~isolated_human_group,3117863]]'
-has_list: '[[_Standards/WikiData/WD~list_of_Mississippian_sites,6590522]]'
+- '[[_Standards/WikiData/WD~Mound_Builders,262714|WD~Mound_Builders,262714]]'
+- '[[_Standards/WikiData/WD~archaeological_culture,465299|WD~archaeological_culture,465299]]'
+- '[[_Standards/WikiData/WD~isolated_human_group,3117863|WD~isolated_human_group,3117863]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Mississippian_sites,6590522|WD~list_of_Mississippian_sites,6590522]]'
 start_time: 0800-01-01T00:00:00Z
 end_time: 1600-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Mississippi_River,1497]]'
+named_after: '[[_Standards/WikiData/WD~Mississippi_River,1497|WD~Mississippi_River,1497]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mississippian%20cultures%20HRoe%202010.jpg
 Commons_category: Mississippian culture
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Mississippian_culture,1052095]]'
+  - '[[../../../../../../../../WikiData/WD~Mississippian_culture,1052095|WD~Mississippian_culture,1052095]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Mississippian_Culture+1600|0800-Mississippian_Culture+1600]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Mississippian_Culture+1600.public|0800-Mississippian_Culture+1600.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Mississippian_Culture+1600.internal|0800-Mississippian_Culture+1600.internal]]'
@@ -57,7 +57,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Mississippian_Culture+1600.personal|0800-Mississippian_Culture+1600.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Mississippian_Culture+1600.secret|0800-Mississippian_Culture+1600.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Mississippian_culture,1052095]]'
+- '[[../../../../../../../../WikiData/WD~Mississippian_culture,1052095|WD~Mississippian_culture,1052095]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Mississippian_Culture+1600|0800-Mississippian_Culture+1600]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Mississippian_Culture+1600.public|0800-Mississippian_Culture+1600.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Mississippian_Culture+1600.internal|0800-Mississippian_Culture+1600.internal]]'

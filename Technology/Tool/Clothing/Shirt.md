@@ -108,11 +108,11 @@ aliases:
 - 襯衫
 - 셔츠
 has_id_wikidata: Q76768
-worn_on: '[[_Standards/WikiData/WD~torso,160695]]'
+worn_on: '[[_Standards/WikiData/WD~torso,160695|WD~torso,160695]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-subclass_of: '[[_Standards/WikiData/WD~top,1435365]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+subclass_of: '[[_Standards/WikiData/WD~top,1435365|WD~top,1435365]]'
 inception: -2999-01-01T00:00:00Z
 Nomenclature_for_Museum_Cataloging: 2463
 OmegaWiki_Defined_Meaning: 6654

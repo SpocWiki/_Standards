@@ -355,7 +355,7 @@ dv_UNTERM_Chinese_Formal: 阿富汗伊斯兰共和国
 dv_UNTERM_French_Formal: République islamique d'Afghanistan
 dv_UNTERM_Russian: Афганистан
 dv_UNTERM_Russian_Formal: Исламская Республика Афганистан
-dv_Region_Name: "[[../../Asia]]"
+dv_Region_Name: "[[../../Asia|Asia]]"
 dv_Intermediate_Region_Name: "[[Afghanistan]]"
 dv_Sub-region_Name: "[[Southern Asia]]"
 dv_Region: 142
@@ -382,7 +382,7 @@ dv_ISO2: AF
 dv_ISO3: AFG
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Afghanistan,889]]"
+    - "[[../../../../WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]"
     - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan|Afghanistan]]"
     - "[[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan.public|Afghanistan.public]]"
     - "[[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan.internal|Afghanistan.internal]]"
@@ -393,9 +393,9 @@ dv_is_:
 dv_has_name_de: Afghanistan
 dv_Area-Total: 652225
 dv_Area-Land: 652090
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: "[[../../Asia|Asia]]"
 dv_VehicleCode: AFG
-dv_Capital: "[[Afghanistan/Counties/Kabul/City/Kabul]]"
+dv_Capital: "[[Afghanistan/Counties/Kabul/City/Kabul|Kabul]]"
 dv_Alcohol-l: 0
 dv_Language-Id: 455
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
@@ -404,7 +404,7 @@ dv_has_place_latitude: 34.5
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Afghanistan
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Afghanistan,889]]"
+  - "[[../../../../WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]"
   - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan|Afghanistan]]"
   - "[[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan.public|Afghanistan.public]]"
   - "[[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan.internal|Afghanistan.internal]]"
@@ -557,16 +557,16 @@ aliases:
   - 𐌰𐍆𐌲𐌰𐌽𐌹𐍃𐍄𐌰𐌽
 has_id_wikidata: Q889
 age_of_majority: 18
-anthem: "[[_Standards/WikiData/WD~This_Is_the_Home_of_the_Brave,108167408]]"
+anthem: "[[_Standards/WikiData/WD~This_Is_the_Home_of_the_Brave,108167408|WD~This_Is_the_Home_of_the_Brave,108167408]]"
 area: 652230
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~unitary_state,179164]]"
-  - "[[_Standards/WikiData/WD~Emirate,189898]]"
-  - "[[_Standards/WikiData/WD~theocracy,44405]]"
+  - "[[_Standards/WikiData/WD~unitary_state,179164|WD~unitary_state,179164]]"
+  - "[[_Standards/WikiData/WD~Emirate,189898|WD~Emirate,189898]]"
+  - "[[_Standards/WikiData/WD~theocracy,44405|WD~theocracy,44405]]"
 BHCL_UUID:
   - 0ac41946-f765-4e9d-b2a2-29e468304cea
   - 25245d37-5e6f-4e33-bdda-ffd39da95467
-bibliography: "[[_Standards/WikiData/WD~bibliography_of_Afghanistan,4903313]]"
+bibliography: "[[_Standards/WikiData/WD~bibliography_of_Afghanistan,4903313|WD~bibliography_of_Afghanistan,4903313]]"
 birth_rate:
   - 35.143
   - 35.842
@@ -590,68 +590,68 @@ BTI_Status_Index:
   - 3.02
   - 3.14
   - 3.21
-capital: "[[_Standards/WikiData/WD~Kabul,5838]]"
-central_bank: "[[_Standards/WikiData/WD~Da_Afghanistan_Bank,1156372]]"
+capital: "[[_Standards/WikiData/WD~Kabul,5838|WD~Kabul,5838]]"
+central_bank: "[[_Standards/WikiData/WD~Da_Afghanistan_Bank,1156372|WD~Da_Afghanistan_Bank,1156372]]"
 CIVICUS_Monitor_country_entry: afghanistan
-coat_of_arms: "[[_Standards/WikiData/WD~emblem_of_Afghanistan,484823]]"
+coat_of_arms: "[[_Standards/WikiData/WD~emblem_of_Afghanistan,484823|WD~emblem_of_Afghanistan,484823]]"
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20the%20Islamic%20Emirate%20of%20Afghanistan.svg
 Colon_Classification: SG--491
 Commons_category: War in Afghanistan (2001–2021)
 Commons_gallery: افغانستان
 confidential: public
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Balkh_Province,121104]]"
-  - "[[_Standards/WikiData/WD~Zabul_Province,139126]]"
-  - "[[_Standards/WikiData/WD~Badakhshan_Province,165376]]"
-  - "[[_Standards/WikiData/WD~Nuristan_Province,167485]]"
-  - "[[_Standards/WikiData/WD~Baghlan_Province,170309]]"
-  - "[[_Standards/WikiData/WD~Bamyan_Province,171382]]"
-  - "[[_Standards/WikiData/WD~Badghis_Province,172052]]"
-  - "[[_Standards/WikiData/WD~Kandahar_Province,173808]]"
-  - "[[_Standards/WikiData/WD~Kapisa_Province,173816]]"
-  - "[[_Standards/WikiData/WD~Helmand_Province,173821]]"
-  - "[[_Standards/WikiData/WD~Faryab_Province,173830]]"
-  - "[[_Standards/WikiData/WD~Nangarhar_Province,178471]]"
-  - "[[_Standards/WikiData/WD~Farah_Province,180330]]"
-  - "[[_Standards/WikiData/WD~Ghazni_Province,180415]]"
-  - "[[_Standards/WikiData/WD~Daykundi_Province,181220]]"
-  - "[[_Standards/WikiData/WD~Panjshir_Province,181235]]"
-  - "[[_Standards/WikiData/WD~Sar-e_Pol_Province,182487]]"
-  - "[[_Standards/WikiData/WD~Paktia_Province,182493]]"
-  - "[[_Standards/WikiData/WD~Herat_Province,182844]]"
-  - "[[_Standards/WikiData/WD~Samangan_Province,183015]]"
-  - "[[_Standards/WikiData/WD~Nimruz_Province,183021]]"
-  - "[[_Standards/WikiData/WD~Uruzgan_Province,183028]]"
-  - "[[_Standards/WikiData/WD~Jowzjan_Province,183036]]"
-  - "[[_Standards/WikiData/WD~Maidan_Wardak_Province,183056]]"
-  - "[[_Standards/WikiData/WD~Laghman_Province,185442]]"
-  - "[[_Standards/WikiData/WD~Paktika_Province,185575]]"
-  - "[[_Standards/WikiData/WD~Khost_Province,185752]]"
-  - "[[_Standards/WikiData/WD~Takhar_Province,186395]]"
-  - "[[_Standards/WikiData/WD~Ghor_Province,186392]]"
-  - "[[_Standards/WikiData/WD~Kunduz_Province,186418]]"
-  - "[[_Standards/WikiData/WD~Kunar_Province,188147]]"
-  - "[[_Standards/WikiData/WD~Parwan_Province,188157]]"
-  - "[[_Standards/WikiData/WD~Kabul_Province,188933]]"
-  - "[[_Standards/WikiData/WD~Logar_Province,6667298]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - "[[_Standards/WikiData/WD~Balkh_Province,121104|WD~Balkh_Province,121104]]"
+  - "[[_Standards/WikiData/WD~Zabul_Province,139126|WD~Zabul_Province,139126]]"
+  - "[[_Standards/WikiData/WD~Badakhshan_Province,165376|WD~Badakhshan_Province,165376]]"
+  - "[[_Standards/WikiData/WD~Nuristan_Province,167485|WD~Nuristan_Province,167485]]"
+  - "[[_Standards/WikiData/WD~Baghlan_Province,170309|WD~Baghlan_Province,170309]]"
+  - "[[_Standards/WikiData/WD~Bamyan_Province,171382|WD~Bamyan_Province,171382]]"
+  - "[[_Standards/WikiData/WD~Badghis_Province,172052|WD~Badghis_Province,172052]]"
+  - "[[_Standards/WikiData/WD~Kandahar_Province,173808|WD~Kandahar_Province,173808]]"
+  - "[[_Standards/WikiData/WD~Kapisa_Province,173816|WD~Kapisa_Province,173816]]"
+  - "[[_Standards/WikiData/WD~Helmand_Province,173821|WD~Helmand_Province,173821]]"
+  - "[[_Standards/WikiData/WD~Faryab_Province,173830|WD~Faryab_Province,173830]]"
+  - "[[_Standards/WikiData/WD~Nangarhar_Province,178471|WD~Nangarhar_Province,178471]]"
+  - "[[_Standards/WikiData/WD~Farah_Province,180330|WD~Farah_Province,180330]]"
+  - "[[_Standards/WikiData/WD~Ghazni_Province,180415|WD~Ghazni_Province,180415]]"
+  - "[[_Standards/WikiData/WD~Daykundi_Province,181220|WD~Daykundi_Province,181220]]"
+  - "[[_Standards/WikiData/WD~Panjshir_Province,181235|WD~Panjshir_Province,181235]]"
+  - "[[_Standards/WikiData/WD~Sar-e_Pol_Province,182487|WD~Sar-e_Pol_Province,182487]]"
+  - "[[_Standards/WikiData/WD~Paktia_Province,182493|WD~Paktia_Province,182493]]"
+  - "[[_Standards/WikiData/WD~Herat_Province,182844|WD~Herat_Province,182844]]"
+  - "[[_Standards/WikiData/WD~Samangan_Province,183015|WD~Samangan_Province,183015]]"
+  - "[[_Standards/WikiData/WD~Nimruz_Province,183021|WD~Nimruz_Province,183021]]"
+  - "[[_Standards/WikiData/WD~Uruzgan_Province,183028|WD~Uruzgan_Province,183028]]"
+  - "[[_Standards/WikiData/WD~Jowzjan_Province,183036|WD~Jowzjan_Province,183036]]"
+  - "[[_Standards/WikiData/WD~Maidan_Wardak_Province,183056|WD~Maidan_Wardak_Province,183056]]"
+  - "[[_Standards/WikiData/WD~Laghman_Province,185442|WD~Laghman_Province,185442]]"
+  - "[[_Standards/WikiData/WD~Paktika_Province,185575|WD~Paktika_Province,185575]]"
+  - "[[_Standards/WikiData/WD~Khost_Province,185752|WD~Khost_Province,185752]]"
+  - "[[_Standards/WikiData/WD~Takhar_Province,186395|WD~Takhar_Province,186395]]"
+  - "[[_Standards/WikiData/WD~Ghor_Province,186392|WD~Ghor_Province,186392]]"
+  - "[[_Standards/WikiData/WD~Kunduz_Province,186418|WD~Kunduz_Province,186418]]"
+  - "[[_Standards/WikiData/WD~Kunar_Province,188147|WD~Kunar_Province,188147]]"
+  - "[[_Standards/WikiData/WD~Parwan_Province,188157|WD~Parwan_Province,188157]]"
+  - "[[_Standards/WikiData/WD~Kabul_Province,188933|WD~Kabul_Province,188933]]"
+  - "[[_Standards/WikiData/WD~Logar_Province,6667298|WD~Logar_Province,6667298]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 coordinates_of_easternmost_point: Point(74.889861111 37.234083333)
 coordinates_of_northernmost_point: Point(70.989055555 38.490861111)
 coordinates_of_southernmost_point: Point(62.469166666 29.388694444)
 coordinates_of_westernmost_point: Point(60.856083333 31.486527777)
 coordinate_location: Point(66.0 33.0)
-country: "[[_Standards/WikiData/WD~Afghanistan,889]]"
+country: "[[_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]"
 country_calling_code: 93
 cssclasses:
   - Country
-culture: "[[_Standards/WikiData/WD~culture_of_Afghanistan,2748844]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Afghanistan,2748844|WD~culture_of_Afghanistan,2748844]]"
 death_rate:
   - 6.791
   - 6.906
   - 7.113
   - 7.344
 Democracy_Index: 0.32
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Afghanistan,1075999]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Afghanistan,1075999|WD~demographics_of_Afghanistan,1075999]]"
 demonym:
   - אפגנים
   - אפגניות
@@ -710,81 +710,81 @@ demonym:
   - 阿富汗人
   - أفغاني
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
-  - "[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]"
+  - "[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334|WD~Religion_in_Geschichte_und_Gegenwart,1514334]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075|WD~TASS_Encyclopedia,63985075]]"
 Dewey_Decimal_Classification: 2--581
 different_from:
-  - "[[_Standards/WikiData/WD~Q28971943,28971943]]"
-  - "[[_Standards/WikiData/WD~Afghanistan_(song),124409031]]"
+  - "[[_Standards/WikiData/WD~Q28971943,28971943|WD~Q28971943,28971943]]"
+  - "[[_Standards/WikiData/WD~Afghanistan_(song),124409031|WD~Afghanistan_(song),124409031]]"
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Albania,222]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]"
+  - "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Albania,222|WD~Albania,222]]"
+  - "[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]"
+  - "[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+  - "[[_Standards/WikiData/WD~Tajikistan,863|WD~Tajikistan,863]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]"
+  - "[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]"
 draft: false
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Afghanistan,1974854]]"
+driving_side: "[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Afghanistan,1974854|WD~economy_of_Afghanistan,1974854]]"
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+  - "[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]"
+  - "[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]"
+  - "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126|WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~101,25648794]]"
-  - "[[_Standards/WikiData/WD~100,25648793]]"
-  - "[[_Standards/WikiData/WD~102,25648798]]"
+  - "[[_Standards/WikiData/WD~101,25648794|WD~101,25648794]]"
+  - "[[_Standards/WikiData/WD~100,25648793|WD~100,25648793]]"
+  - "[[_Standards/WikiData/WD~102,25648798|WD~102,25648798]]"
 ethnic_group:
-  - "[[_Standards/WikiData/WD~Hazaras,115473]]"
-  - "[[_Standards/WikiData/WD~Baloch,201501]]"
-  - "[[_Standards/WikiData/WD~Aimaq_people,405435]]"
-  - "[[_Standards/WikiData/WD~Uzbeks,483047]]"
-  - "[[_Standards/WikiData/WD~Tajiks,483505]]"
-  - "[[_Standards/WikiData/WD~Turkmens,484472]]"
-  - "[[_Standards/WikiData/WD~Kyrgyz_people,484479]]"
-  - "[[_Standards/WikiData/WD~Nuristani_people,737671]]"
-  - "[[_Standards/WikiData/WD~Brahui_tribe,1258854]]"
-  - "[[_Standards/WikiData/WD~Gurjar,1274487]]"
-  - "[[_Standards/WikiData/WD~Pashtuns,2556103]]"
-  - "[[_Standards/WikiData/WD~Pamiri_people,2995857]]"
-  - "[[_Standards/WikiData/WD~Pashayi_people,3595760]]"
-  - "[[_Standards/WikiData/WD~Arabs,35323]]"
-  - "[[_Standards/WikiData/WD~Qizilbash,60269]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Islamic_Emirate_of_Afghanistan,20978159]]"
+  - "[[_Standards/WikiData/WD~Hazaras,115473|WD~Hazaras,115473]]"
+  - "[[_Standards/WikiData/WD~Baloch,201501|WD~Baloch,201501]]"
+  - "[[_Standards/WikiData/WD~Aimaq_people,405435|WD~Aimaq_people,405435]]"
+  - "[[_Standards/WikiData/WD~Uzbeks,483047|WD~Uzbeks,483047]]"
+  - "[[_Standards/WikiData/WD~Tajiks,483505|WD~Tajiks,483505]]"
+  - "[[_Standards/WikiData/WD~Turkmens,484472|WD~Turkmens,484472]]"
+  - "[[_Standards/WikiData/WD~Kyrgyz_people,484479|WD~Kyrgyz_people,484479]]"
+  - "[[_Standards/WikiData/WD~Nuristani_people,737671|WD~Nuristani_people,737671]]"
+  - "[[_Standards/WikiData/WD~Brahui_tribe,1258854|WD~Brahui_tribe,1258854]]"
+  - "[[_Standards/WikiData/WD~Gurjar,1274487|WD~Gurjar,1274487]]"
+  - "[[_Standards/WikiData/WD~Pashtuns,2556103|WD~Pashtuns,2556103]]"
+  - "[[_Standards/WikiData/WD~Pamiri_people,2995857|WD~Pamiri_people,2995857]]"
+  - "[[_Standards/WikiData/WD~Pashayi_people,3595760|WD~Pashayi_people,3595760]]"
+  - "[[_Standards/WikiData/WD~Arabs,35323|WD~Arabs,35323]]"
+  - "[[_Standards/WikiData/WD~Qizilbash,60269|WD~Qizilbash,60269]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Islamic_Emirate_of_Afghanistan,20978159|WD~Government_of_Islamic_Emirate_of_Afghanistan,20978159]]"
 expiryDate: ""
 female_population:
   - 19279930
@@ -792,7 +792,7 @@ female_population:
   - 19844584
   - 20362329
 FIPS_10_4_countries_and_regions_: AF
-flag: "[[_Standards/WikiData/WD~flag_of_Afghanistan,79874]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Afghanistan,79874|WD~flag_of_Afghanistan,79874]]"
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Taliban.svg
 foreign_direct_investment_net_inflow:
   - 0.3
@@ -801,20 +801,20 @@ foreign_direct_investment_net_inflow:
 foreign_direct_investment_net_outflow:
   - -0.1
   - -10795104
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Afghanistan,1637198]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Afghanistan,1637198|WD~geography_of_Afghanistan,1637198]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:Afghanistan.map
 Gini_coefficient: 27.8
 GitHub_topic: afghanistan
 Happy_Planet_Index_score: 29.4
 hashtag:
   - Afghanistan
-has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-has_list: "[[_Standards/WikiData/WD~list_of_honorary_citizens_of_Afghanistan,85779644]]"
-head_of_government: "[[_Standards/WikiData/WD~Mohammad_Hasan_Akhund,108444479]]"
-head_of_state: "[[_Standards/WikiData/WD~Hibatullah_Akhundzada,24237654]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Afghan_Supreme_Court,8561]]"
-highest_point: "[[_Standards/WikiData/WD~Noshaq,271700]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Afghanistan,188872]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]"
+has_list: "[[_Standards/WikiData/WD~list_of_honorary_citizens_of_Afghanistan,85779644|WD~list_of_honorary_citizens_of_Afghanistan,85779644]]"
+head_of_government: "[[_Standards/WikiData/WD~Mohammad_Hasan_Akhund,108444479|WD~Mohammad_Hasan_Akhund,108444479]]"
+head_of_state: "[[_Standards/WikiData/WD~Hibatullah_Akhundzada,24237654|WD~Hibatullah_Akhundzada,24237654]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Afghan_Supreme_Court,8561|WD~Afghan_Supreme_Court,8561]]"
+highest_point: "[[_Standards/WikiData/WD~Noshaq,271700|WD~Noshaq,271700]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Afghanistan,188872|WD~history_of_Afghanistan,188872]]"
 Human_Development_Index: 0.478
 IAB_code: 1229
 icon: flag-af
@@ -834,9 +834,9 @@ inception:
 Inequality_adjusted_Human_Development_Index: 0.323
 INSEE_countries_and_foreign_territories_code: 99212
 instance_of:
-  - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~landlocked_country,123480|WD~landlocked_country,123480]]"
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256|WD~country,6256]]"
 IOC_country_code: AFG
 isDeleted: false
 ISNI:
@@ -855,45 +855,45 @@ Languages:
   - uz-AF
   - tk
 language_used:
-  - "[[_Standards/WikiData/WD~Dari,178440]]"
-  - "[[_Standards/WikiData/WD~Southern_Uzbek,1066787]]"
-  - "[[_Standards/WikiData/WD~Kamviri,1193495]]"
-  - "[[_Standards/WikiData/WD~Kamkata-viri,2605045]]"
-  - "[[_Standards/WikiData/WD~Parachi,2640637]]"
-  - "[[_Standards/WikiData/WD~Nangalami,3444203]]"
-  - "[[_Standards/WikiData/WD~Sanglechi,3472220]]"
-  - "[[_Standards/WikiData/WD~Savi,3474654]]"
-  - "[[_Standards/WikiData/WD~Tirahi,3812406]]"
-  - "[[_Standards/WikiData/WD~Wotapuri-Katarqalai,3877569]]"
-  - "[[_Standards/WikiData/WD~Inku,4159744]]"
-  - "[[_Standards/WikiData/WD~Afghan_Sign_Language,4689093]]"
-  - "[[_Standards/WikiData/WD~Pahlavni,7124567]]"
-  - "[[_Standards/WikiData/WD~Turkmen,9267]]"
-  - "[[_Standards/WikiData/WD~Moghol,13336]]"
-  - "[[_Standards/WikiData/WD~Aimaq,27898]]"
-  - "[[_Standards/WikiData/WD~Ashkun,29379]]"
-  - "[[_Standards/WikiData/WD~Wasi-wari,32689]]"
-  - "[[_Standards/WikiData/WD~Brahui,33202]]"
-  - "[[_Standards/WikiData/WD~Hazaragi,33398]]"
-  - "[[_Standards/WikiData/WD~Ishkashimi,33419]]"
-  - "[[_Standards/WikiData/WD~Munji,33639]]"
-  - "[[_Standards/WikiData/WD~Shumashti,33777]]"
-  - "[[_Standards/WikiData/WD~Gawar-Bati,33894]]"
-  - "[[_Standards/WikiData/WD~Shughni,34053]]"
-  - "[[_Standards/WikiData/WD~Tregami,34081]]"
-  - "[[_Standards/WikiData/WD~Waigali,34196]]"
-  - "[[_Standards/WikiData/WD~Wakhi,34208]]"
-  - "[[_Standards/WikiData/WD~Tajiki_Arabic,56833]]"
-  - "[[_Standards/WikiData/WD~Northern_Pashto,12642194]]"
-  - "[[_Standards/WikiData/WD~Northeast_Pashai,12642198]]"
-  - "[[_Standards/WikiData/WD~Warduji,12645075]]"
-  - "[[_Standards/WikiData/WD~Western_Balochi,12645561]]"
-  - "[[_Standards/WikiData/WD~Southwest_Pashai,16112270]]"
-  - "[[_Standards/WikiData/WD~Southern_Pashto,16112855]]"
-  - "[[_Standards/WikiData/WD~Northwest_Pashai,23713532]]"
-  - "[[_Standards/WikiData/WD~Southeast_Pashai,23713536]]"
+  - "[[_Standards/WikiData/WD~Dari,178440|WD~Dari,178440]]"
+  - "[[_Standards/WikiData/WD~Southern_Uzbek,1066787|WD~Southern_Uzbek,1066787]]"
+  - "[[_Standards/WikiData/WD~Kamviri,1193495|WD~Kamviri,1193495]]"
+  - "[[_Standards/WikiData/WD~Kamkata-viri,2605045|WD~Kamkata-viri,2605045]]"
+  - "[[_Standards/WikiData/WD~Parachi,2640637|WD~Parachi,2640637]]"
+  - "[[_Standards/WikiData/WD~Nangalami,3444203|WD~Nangalami,3444203]]"
+  - "[[_Standards/WikiData/WD~Sanglechi,3472220|WD~Sanglechi,3472220]]"
+  - "[[_Standards/WikiData/WD~Savi,3474654|WD~Savi,3474654]]"
+  - "[[_Standards/WikiData/WD~Tirahi,3812406|WD~Tirahi,3812406]]"
+  - "[[_Standards/WikiData/WD~Wotapuri-Katarqalai,3877569|WD~Wotapuri-Katarqalai,3877569]]"
+  - "[[_Standards/WikiData/WD~Inku,4159744|WD~Inku,4159744]]"
+  - "[[_Standards/WikiData/WD~Afghan_Sign_Language,4689093|WD~Afghan_Sign_Language,4689093]]"
+  - "[[_Standards/WikiData/WD~Pahlavni,7124567|WD~Pahlavni,7124567]]"
+  - "[[_Standards/WikiData/WD~Turkmen,9267|WD~Turkmen,9267]]"
+  - "[[_Standards/WikiData/WD~Moghol,13336|WD~Moghol,13336]]"
+  - "[[_Standards/WikiData/WD~Aimaq,27898|WD~Aimaq,27898]]"
+  - "[[_Standards/WikiData/WD~Ashkun,29379|WD~Ashkun,29379]]"
+  - "[[_Standards/WikiData/WD~Wasi-wari,32689|WD~Wasi-wari,32689]]"
+  - "[[_Standards/WikiData/WD~Brahui,33202|WD~Brahui,33202]]"
+  - "[[_Standards/WikiData/WD~Hazaragi,33398|WD~Hazaragi,33398]]"
+  - "[[_Standards/WikiData/WD~Ishkashimi,33419|WD~Ishkashimi,33419]]"
+  - "[[_Standards/WikiData/WD~Munji,33639|WD~Munji,33639]]"
+  - "[[_Standards/WikiData/WD~Shumashti,33777|WD~Shumashti,33777]]"
+  - "[[_Standards/WikiData/WD~Gawar-Bati,33894|WD~Gawar-Bati,33894]]"
+  - "[[_Standards/WikiData/WD~Shughni,34053|WD~Shughni,34053]]"
+  - "[[_Standards/WikiData/WD~Tregami,34081|WD~Tregami,34081]]"
+  - "[[_Standards/WikiData/WD~Waigali,34196|WD~Waigali,34196]]"
+  - "[[_Standards/WikiData/WD~Wakhi,34208|WD~Wakhi,34208]]"
+  - "[[_Standards/WikiData/WD~Tajiki_Arabic,56833|WD~Tajiki_Arabic,56833]]"
+  - "[[_Standards/WikiData/WD~Northern_Pashto,12642194|WD~Northern_Pashto,12642194]]"
+  - "[[_Standards/WikiData/WD~Northeast_Pashai,12642198|WD~Northeast_Pashai,12642198]]"
+  - "[[_Standards/WikiData/WD~Warduji,12645075|WD~Warduji,12645075]]"
+  - "[[_Standards/WikiData/WD~Western_Balochi,12645561|WD~Western_Balochi,12645561]]"
+  - "[[_Standards/WikiData/WD~Southwest_Pashai,16112270|WD~Southwest_Pashai,16112270]]"
+  - "[[_Standards/WikiData/WD~Southern_Pashto,16112855|WD~Southern_Pashto,16112855]]"
+  - "[[_Standards/WikiData/WD~Northwest_Pashai,23713532|WD~Northwest_Pashai,23713532]]"
+  - "[[_Standards/WikiData/WD~Southeast_Pashai,23713536|WD~Southeast_Pashai,23713536]]"
 layout: ""
-legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Afghanistan,2386705]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Afghanistan,2386705|WD~National_Assembly_of_Afghanistan,2386705]]"
 Libris_URI: hftwv5d13fdgp13
 licence_plate_code: AFG
 license: CC BY-SA 4.0
@@ -901,18 +901,18 @@ life_expectancy: 63.673
 linkTitle: ""
 literacy_rate: 43
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Asia_Kabul,63285929]]"
-  - "[[_Standards/WikiData/WD~UTC+04_30,6792]]"
+  - "[[_Standards/WikiData/WD~Asia_Kabul,63285929|WD~Asia_Kabul,63285929]]"
+  - "[[_Standards/WikiData/WD~UTC+04_30,6792|WD~UTC+04_30,6792]]"
 location:
   - 34.5
   - 69.2
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map%20Afghanistan.png
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Afghanistan%20%28orthographic%20projection%29.svg
-lowest_point: "[[_Standards/WikiData/WD~Amu_Darya,8493]]"
+lowest_point: "[[_Standards/WikiData/WD~Amu_Darya,8493|WD~Amu_Darya,8493]]"
 M49_code: 4
-madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
+madhhab: "[[_Standards/WikiData/WD~Malikism,48221|WD~Malikism,48221]]"
 mains_voltage: 240
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Afghanistan,14321855]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Afghanistan,14321855|WD~WikiProject_Afghanistan,14321855]]"
 male_population:
   - 19090409
   - 19692301
@@ -923,7 +923,7 @@ marriageable_age:
   - 16
   - 18
 member_of:
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]"
 MeSH_tree_code:
   - Z01.252.245.782.250
 mobile_country_code: 412
@@ -931,29 +931,29 @@ native_label:
   - افغانستان
 nominal_GDP: 14583135237
 number_of_out_of_school_children: 2941796
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Afghanistan,532240]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Amir_al-Mu'minin,2081829]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Afghanistan,532240|WD~Prime_Minister_of_Afghanistan,532240]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Amir_al-Mu'minin,2081829|WD~Amir_al-Mu'minin,2081829]]"
 official_language:
-  - "[[_Standards/WikiData/WD~Nuristani,161804]]"
-  - "[[_Standards/WikiData/WD~Dari,178440]]"
-  - "[[_Standards/WikiData/WD~Pamir,1772864]]"
-  - "[[_Standards/WikiData/WD~Turkmen,9267]]"
-  - "[[_Standards/WikiData/WD~Uzbek,9264]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~Balochi,33049]]"
-  - "[[_Standards/WikiData/WD~Pashayi,36670]]"
-  - "[[_Standards/WikiData/WD~Pashto,58680]]"
+  - "[[_Standards/WikiData/WD~Nuristani,161804|WD~Nuristani,161804]]"
+  - "[[_Standards/WikiData/WD~Dari,178440|WD~Dari,178440]]"
+  - "[[_Standards/WikiData/WD~Pamir,1772864|WD~Pamir,1772864]]"
+  - "[[_Standards/WikiData/WD~Turkmen,9267|WD~Turkmen,9267]]"
+  - "[[_Standards/WikiData/WD~Uzbek,9264|WD~Uzbek,9264]]"
+  - "[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]"
+  - "[[_Standards/WikiData/WD~Balochi,33049|WD~Balochi,33049]]"
+  - "[[_Standards/WikiData/WD~Pashayi,36670|WD~Pashayi,36670]]"
+  - "[[_Standards/WikiData/WD~Pashto,58680|WD~Pashto,58680]]"
 official_name:
   - امارت اسلامی افغانستان
   - Islamic Emirate of Afghanistan
   - Islamskie Państwo Afganistanu
   - Afganská islamská republika
-official_religion: "[[_Standards/WikiData/WD~Islam,432]]"
+official_religion: "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
 official_website: https://alemarahenglish.af/
 OmegaWiki_Defined_Meaning: 5753
-open_data_portal: "[[_Standards/WikiData/WD~Afghanistan_Open_Data_project,97062155]]"
+open_data_portal: "[[_Standards/WikiData/WD~Afghanistan_Open_Data_project,97062155|WD~Afghanistan_Open_Data_project,97062155]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Band%20Amir%20banner.jpg
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q23830455,23830455]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q23830455,23830455|WD~Q23830455,23830455]]"
 PM20_geo_code: B41
 population: 41454761
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Afghanistan.ogg
@@ -965,12 +965,12 @@ rural_population:
   - 28829317
   - 30181937
 shares_border_with:
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
-  - "[[_Standards/WikiData/WD~Turkmenistan,874]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]"
+  - "[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Tajikistan,863|WD~Tajikistan,863]]"
+  - "[[_Standards/WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]"
 short_name:
   - 🇦🇫
 social_media_followers: 84600
@@ -982,9 +982,9 @@ suicide_rate: 4.7
 tags:
   - geo/Country
 title: Afghanistan
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Provinces_of_Afghanistan,6398011]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Afghanistan,10863089]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.af,37407]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Provinces_of_Afghanistan,6398011|WD~Template_Provinces_of_Afghanistan,6398011]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Afghanistan,10863089|WD~Portal_Afghanistan,10863089]]"
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.af,37407|WD~.af,37407]]"
 total_fertility_rate: 4.843
 trunk_prefix: 0
 type: Country
@@ -1000,7 +1000,7 @@ urban_population:
   - 10946834
 U_S_National_Archives_Identifier: 10046295
 water_as_percent_of_area: 0
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Afghanistan,7112172]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Afghanistan,7112172|WD~outline_of_Afghanistan,7112172]]"
 WIPO_ST_3: AF
 X_Twitter_username:
   - IslamicEmiirate
@@ -1084,7 +1084,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Afghanistan/ReadMe]] 
+[[Afghanistan/ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1108,7 +1108,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Afghanistan.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Afghanistan.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Afghanistan.mp3|Anthem-Afghanistan.mp3]]
 ![[Flag_of_Afghanistan.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`

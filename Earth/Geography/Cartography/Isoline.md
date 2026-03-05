@@ -65,23 +65,23 @@ aliases:
 - 등치선
 has_id_wikidata: Q6653802
 subclass_of:
-- '[[_Standards/WikiData/WD~level_set,126955]]'
-- '[[_Standards/WikiData/WD~curve,161973]]'
-- '[[_Standards/WikiData/WD~line,1228250]]'
-- '[[_Standards/WikiData/WD~plot,1474611]]'
+- '[[_Standards/WikiData/WD~level_set,126955|WD~level_set,126955]]'
+- '[[_Standards/WikiData/WD~curve,161973|WD~curve,161973]]'
+- '[[_Standards/WikiData/WD~line,1228250|WD~line,1228250]]'
+- '[[_Standards/WikiData/WD~plot,1474611|WD~plot,1474611]]'
 studied_by:
-- '[[_Standards/WikiData/WD~topography,134435]]'
-- '[[_Standards/WikiData/WD~geology,1069]]'
-- '[[_Standards/WikiData/WD~climatology,52139]]'
-different_from: '[[_Standards/WikiData/WD~contour_line,193311]]'
+- '[[_Standards/WikiData/WD~topography,134435|WD~topography,134435]]'
+- '[[_Standards/WikiData/WD~geology,1069|WD~geology,1069]]'
+- '[[_Standards/WikiData/WD~climatology,52139|WD~climatology,52139]]'
+different_from: '[[_Standards/WikiData/WD~contour_line,193311|WD~contour_line,193311]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 has_use:
-- '[[_Standards/WikiData/WD~union,17853087]]'
-- '[[_Standards/WikiData/WD~cartography,42515]]'
+- '[[_Standards/WikiData/WD~union,17853087|WD~union,17853087]]'
+- '[[_Standards/WikiData/WD~cartography,42515|WD~cartography,42515]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Courbe%20niveau.svg
 described_at_URL: https://phrontistery.info/contour.html
 Stack_Exchange_tag: https://stackoverflow.com/tags/contour
@@ -89,7 +89,7 @@ Commons_category: Contour lines
 native_label: ἴσογράμμα
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Isoline,6653802]]'
+  - '[[../../../WikiData/WD~Isoline,6653802|WD~Isoline,6653802]]'
   - '[[/_Standards/Earth/Geography/Cartography/Isoline|Isoline]]'
   - '[[/_public/Earth/Geography/Cartography/Isoline.public|Isoline.public]]'
   - '[[/_internal/Earth/Geography/Cartography/Isoline.internal|Isoline.internal]]'
@@ -98,7 +98,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Cartography/Isoline.personal|Isoline.personal]]'
   - '[[/_secret/Earth/Geography/Cartography/Isoline.secret|Isoline.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Isoline,6653802]]'
+- '[[../../../WikiData/WD~Isoline,6653802|WD~Isoline,6653802]]'
 - '[[/_Standards/Earth/Geography/Cartography/Isoline|Isoline]]'
 - '[[/_public/Earth/Geography/Cartography/Isoline.public|Isoline.public]]'
 - '[[/_internal/Earth/Geography/Cartography/Isoline.internal|Isoline.internal]]'

@@ -78,9 +78,9 @@ aliases:
 - 陰曆
 - 태음력
 has_id_wikidata: Q185688
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25425369,25425369]]'
-subclass_of: '[[_Standards/WikiData/WD~calendar,12132]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25425369,25425369|WD~Q25425369,25425369]]'
+subclass_of: '[[_Standards/WikiData/WD~calendar,12132|WD~calendar,12132]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2020%20Lunar%20Calendar.png
 Commons_category: Lunar calendars
 dv_has_:

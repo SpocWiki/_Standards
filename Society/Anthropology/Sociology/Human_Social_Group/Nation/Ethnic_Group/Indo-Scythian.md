@@ -59,16 +59,16 @@ aliases:
 - 인도-스키타이
 has_id_wikidata: Q240123
 instance_of:
-- '[[_Standards/WikiData/WD~historical_country,3024240]]'
-- '[[_Standards/WikiData/WD~ethnic_group,41710]]'
-capital: '[[_Standards/WikiData/WD~Sigal,7511898]]'
+- '[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
+- '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
+capital: '[[_Standards/WikiData/WD~Sigal,7511898|WD~Sigal,7511898]]'
 dissolved_abolished_or_demolished_date: 0400-01-01T00:00:00Z
 coordinate_location: Point(74.48 28.49)
 inception: -0199-01-01T00:00:00Z
-country: '[[_Standards/WikiData/WD~India,668]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Buddhism,748]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
-replaces: '[[_Standards/WikiData/WD~Maurya_empire,62943]]'
+country: '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Buddhism,748|WD~Buddhism,748]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+replaces: '[[_Standards/WikiData/WD~Maurya_empire,62943|WD~Maurya_empire,62943]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Indo-ScythiansMap.jpg
 Commons_category: Indo-Scythians
 dv_has_:

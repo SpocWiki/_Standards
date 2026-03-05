@@ -86,37 +86,37 @@ aliases:
 - 시민권
 has_id_wikidata: Q191600
 has_part_s_:
-- '[[_Standards/WikiData/WD~freedom_of_assembly,162254]]'
-- '[[_Standards/WikiData/WD~freedom_of_religion,171899]]'
-- '[[_Standards/WikiData/WD~freedom_of_thought,277569]]'
-- '[[_Standards/WikiData/WD~freedom_of_movement,1344824]]'
-- '[[_Standards/WikiData/WD~Natural_justice,2976061]]'
-- '[[_Standards/WikiData/WD~political_rights,3709056]]'
-- '[[_Standards/WikiData/WD~civil_rights,25447176]]'
-- '[[_Standards/WikiData/WD~freedom_of_the_press,22688]]'
-- '[[_Standards/WikiData/WD~freedom_of_speech,22692]]'
-- '[[_Standards/WikiData/WD~right_to_life,25822]]'
+- '[[_Standards/WikiData/WD~freedom_of_assembly,162254|WD~freedom_of_assembly,162254]]'
+- '[[_Standards/WikiData/WD~freedom_of_religion,171899|WD~freedom_of_religion,171899]]'
+- '[[_Standards/WikiData/WD~freedom_of_thought,277569|WD~freedom_of_thought,277569]]'
+- '[[_Standards/WikiData/WD~freedom_of_movement,1344824|WD~freedom_of_movement,1344824]]'
+- '[[_Standards/WikiData/WD~Natural_justice,2976061|WD~Natural_justice,2976061]]'
+- '[[_Standards/WikiData/WD~political_rights,3709056|WD~political_rights,3709056]]'
+- '[[_Standards/WikiData/WD~civil_rights,25447176|WD~civil_rights,25447176]]'
+- '[[_Standards/WikiData/WD~freedom_of_the_press,22688|WD~freedom_of_the_press,22688]]'
+- '[[_Standards/WikiData/WD~freedom_of_speech,22692|WD~freedom_of_speech,22692]]'
+- '[[_Standards/WikiData/WD~right_to_life,25822|WD~right_to_life,25822]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~rights,780687]]'
-- '[[_Standards/WikiData/WD~human_rights,8458]]'
+- '[[_Standards/WikiData/WD~rights,780687|WD~rights,780687]]'
+- '[[_Standards/WikiData/WD~human_rights,8458|WD~human_rights,8458]]'
 facet_of:
-- '[[_Standards/WikiData/WD~individual,795052]]'
-- '[[_Standards/WikiData/WD~social_organization,4430243]]'
-- '[[_Standards/WikiData/WD~government,7188]]'
-has_effect: '[[_Standards/WikiData/WD~political_freedom,831058]]'
+- '[[_Standards/WikiData/WD~individual,795052|WD~individual,795052]]'
+- '[[_Standards/WikiData/WD~social_organization,4430243|WD~social_organization,4430243]]'
+- '[[_Standards/WikiData/WD~government,7188|WD~government,7188]]'
+has_effect: '[[_Standards/WikiData/WD~political_freedom,831058|WD~political_freedom,831058]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-- '[[_Standards/WikiData/WD~Princeton_Encyclopedia_of_American_Political_History,20751032]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838]]'
-- '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Princeton_Encyclopedia_of_American_Political_History,20751032|WD~Princeton_Encyclopedia_of_American_Political_History,20751032]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838|WD~Encyclopedia_of_Global_Justice,21002838]]'
+- '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813|WD~Universal_Declaration_of_Human_Rights,7813]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~civil_rights,25447176]]'
-- '[[_Standards/WikiData/WD~human_rights,8458]]'
-- '[[_Standards/WikiData/WD~civil_liberties,29556]]'
+- '[[_Standards/WikiData/WD~civil_rights,25447176|WD~civil_rights,25447176]]'
+- '[[_Standards/WikiData/WD~human_rights,8458|WD~human_rights,8458]]'
+- '[[_Standards/WikiData/WD~civil_liberties,29556|WD~civil_liberties,29556]]'
 Dewey_Decimal_Classification: 323
 Library_of_Congress_Classification: JC571
 image:

@@ -58,15 +58,15 @@ aliases:
 - 비국제연합 비국가민족조직기구
 has_id_wikidata: Q215613
 instance_of:
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
-archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
-award_received: '[[_Standards/WikiData/WD~Petra_Kelly_Preis,2080088]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_UNPO,6633604]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-official_language: '[[_Standards/WikiData/WD~English,1860]]'
-country: '[[_Standards/WikiData/WD~Netherlands,55]]'
-headquarters_location: '[[_Standards/WikiData/WD~The_Hague,36600]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757|WD~International_Institute_of_Social_History,1667757]]'
+award_received: '[[_Standards/WikiData/WD~Petra_Kelly_Preis,2080088|WD~Petra_Kelly_Preis,2080088]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_UNPO,6633604|WD~Template_UNPO,6633604]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+official_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+country: '[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
+headquarters_location: '[[_Standards/WikiData/WD~The_Hague,36600|WD~The_Hague,36600]]'
 social_media_followers: 12467
 total_revenue: 232434
 Commons_category: Unrepresented Nations and Peoples Organization

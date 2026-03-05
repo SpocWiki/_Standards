@@ -3,7 +3,7 @@
 #is_a_/ComputerLanguage 
 #is_a_/computer_language  
 
-#has_/parent :: [[../Prog~LISP]], [[../../Prog~Logic/Prog~Prolog]], [[../../Prog~OO/OO-Lang/Prog~Smalltalk|Prog~Smalltalk]] 
+#has_/parent :: [[../Prog~LISP|Prog~LISP]], [[../../Prog~Logic/Prog~Prolog|Prog~Prolog]], [[../../Prog~OO/OO-Lang/Prog~Smalltalk|Prog~Smalltalk]] 
 #has_/creator ::  [[Joe_Armstrong]], [[Robert_Virding]], [[Mike_Williams]]
 #has_/time_/started :: 1986-07-01 
 

@@ -44,21 +44,21 @@ aliases:
 - 봅슬레이
 has_id_wikidata: Q177275
 subclass_of:
-- '[[_Standards/WikiData/WD~winter_sport,204686]]'
-- '[[_Standards/WikiData/WD~team_sport,216048]]'
-- '[[_Standards/WikiData/WD~individual_sport,2755547]]'
-- '[[_Standards/WikiData/WD~sledding,3266340]]'
-- '[[_Standards/WikiData/WD~ice_sport,31883501]]'
+- '[[_Standards/WikiData/WD~winter_sport,204686|WD~winter_sport,204686]]'
+- '[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~individual_sport,2755547|WD~individual_sport,2755547]]'
+- '[[_Standards/WikiData/WD~sledding,3266340|WD~sledding,3266340]]'
+- '[[_Standards/WikiData/WD~ice_sport,31883501|WD~ice_sport,31883501]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
 uses:
-- '[[_Standards/WikiData/WD~sliding,3108904]]'
-- '[[_Standards/WikiData/WD~bob,4088516]]'
-- '[[_Standards/WikiData/WD~bobsleigh_track,18692717]]'
+- '[[_Standards/WikiData/WD~sliding,3108904|WD~sliding,3108904]]'
+- '[[_Standards/WikiData/WD~bob,4088516|WD~bob,4088516]]'
+- '[[_Standards/WikiData/WD~bobsleigh_track,18692717|WD~bobsleigh_track,18692717]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~bobsledder,13383011]]'
+- '[[_Standards/WikiData/WD~bobsledder,13383011|WD~bobsledder,13383011]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 Nomenclature_for_Museum_Cataloging: 14644
 Commons_category: Bobsleigh
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Bobsleigh%20pictogram.svg

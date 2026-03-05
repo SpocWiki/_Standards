@@ -35,17 +35,17 @@ type: private note
 
 # [[Sum-Type]] 
 
-#is_/part_of ::[[../Algebraic_Data-Types]]] 
+#is_/part_of ::[[../Algebraic_Data-Types|Algebraic_Data-Types]]] 
 #has_/child_/class :[[../../../../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Option-Type|Option-Type]]]][[../../../../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/OneOf-Monad|OneOf-Monad]]]] 
 
-This is the [[categorical_Sum]] [[../../../../Knowledge/Math/Category_Theory.internal]]], and is the Dual to th[[Product-Type]]]]. 
+This is the [[categorical_Sum]] [[../../../../Knowledge/Math/Category_Theory.internal|Category_Theory.internal]]], and is the Dual to th[[Product-Type]]]]. 
 Aliases: discriminated Union, tagged Union
 in[[../Prog~Rust|Prog~Rust]]] these are `enum`s 
 [[../../Prog~OO/OO-Lang/Prog~CSharp|Prog~CSharp]]]]] you can either use an `enum` with `switch`, 
 but only if you don't need any more data. 
 Otherwise, rather set up a Class Hierarchy 
 and then you don't really need the Enum anymore, 
-because you have t[[../../Prog~OO/VMT(Virtual_Method_Table)]]]]] 
+because you have t[[../../Prog~OO/VMT(Virtual_Method_Table)|VMT(Virtual_Method_Table)]]]]] 
 and polymorphic Methods for open Polymorphy. 
 A third Alternative for closed Polymorphy ar[[../../../../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/OneOf-Monad|OneOf-Monad]]]]-Types, 
 which enforce handling all Cases, but are quite tedious to extend for new Cases. 

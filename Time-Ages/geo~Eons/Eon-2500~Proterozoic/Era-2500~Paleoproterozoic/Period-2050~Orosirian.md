@@ -35,12 +35,12 @@ aliases:
 - 오로시리아기
 has_id_wikidata: Q597383
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Orosirian,131224984]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Orosirian,131224984|WD~Category_Orosirian,131224984]]'
 start_time: -2050000000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~mountain_range,46831]]'
+named_after: '[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]'
 Commons_category: Orosirian
 end_time: -1800000000-01-01T00:00:00Z
 IPA_transcription: /ˌɒroʊˈsɪəriən/

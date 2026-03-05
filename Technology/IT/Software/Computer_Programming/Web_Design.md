@@ -58,10 +58,10 @@ aliases:
 - 웹 디자인
 has_id_wikidata: Q190637
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-subclass_of: '[[_Standards/WikiData/WD~web_development,386275]]'
-practiced_by: '[[_Standards/WikiData/WD~website_designer,11288554]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+subclass_of: '[[_Standards/WikiData/WD~web_development,386275|WD~web_development,386275]]'
+practiced_by: '[[_Standards/WikiData/WD~website_designer,11288554|WD~website_designer,11288554]]'
 IAB_code: 629
 OmegaWiki_Defined_Meaning: 485679
 Commons_category: Web design

@@ -64,31 +64,31 @@ aliases:
 - 乔戈里峰
 - 喬戈里峰
 has_id_wikidata: Q43512
-peak_bagging_classification: '[[_Standards/WikiData/WD~eight_thousander,185552]]'
+peak_bagging_classification: '[[_Standards/WikiData/WD~eight_thousander,185552|WD~eight_thousander,185552]]'
 different_from:
-- '[[_Standards/WikiData/WD~K2,224242]]'
-- '[[_Standards/WikiData/WD~K2,872294]]'
-- '[[_Standards/WikiData/WD~K2,1718337]]'
-- '[[_Standards/WikiData/WD~K2,16564618]]'
-mountain_range: '[[_Standards/WikiData/WD~Baltoro_Muztagh,805805]]'
+- '[[_Standards/WikiData/WD~K2,224242|WD~K2,224242]]'
+- '[[_Standards/WikiData/WD~K2,872294|WD~K2,872294]]'
+- '[[_Standards/WikiData/WD~K2,1718337|WD~K2,1718337]]'
+- '[[_Standards/WikiData/WD~K2,16564618|WD~K2,16564618]]'
+mountain_range: '[[_Standards/WikiData/WD~Baltoro_Muztagh,805805|WD~Baltoro_Muztagh,805805]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Taxkorgan_Tajik_Autonomous_County,911737]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Taxkorgan_Tajik_Autonomous_County,911737|WD~Taxkorgan_Tajik_Autonomous_County,911737]]'
 named_after:
-- '[[_Standards/WikiData/WD~Henry_Haversham_Godwin_Austen,948618]]'
-- '[[_Standards/WikiData/WD~Karakoram,5469]]'
-- '[[_Standards/WikiData/WD~Q200,200]]'
-significant_event: '[[_Standards/WikiData/WD~first_ascent,1194369]]'
+- '[[_Standards/WikiData/WD~Henry_Haversham_Godwin_Austen,948618|WD~Henry_Haversham_Godwin_Austen,948618]]'
+- '[[_Standards/WikiData/WD~Karakoram,5469|WD~Karakoram,5469]]'
+- '[[_Standards/WikiData/WD~Q200,200|WD~Q200,200]]'
+significant_event: '[[_Standards/WikiData/WD~first_ascent,1194369|WD~first_ascent,1194369]]'
 part_of:
-- '[[_Standards/WikiData/WD~Seven_Second_Summits,1855408]]'
-- '[[_Standards/WikiData/WD~ultra_prominent_peak,3116906]]'
-key_col: '[[_Standards/WikiData/WD~Lo_Mustang,106575972]]'
+- '[[_Standards/WikiData/WD~Seven_Second_Summits,1855408|WD~Seven_Second_Summits,1855408]]'
+- '[[_Standards/WikiData/WD~ultra_prominent_peak,3116906|WD~ultra_prominent_peak,3116906]]'
+key_col: '[[_Standards/WikiData/WD~Lo_Mustang,106575972|WD~Lo_Mustang,106575972]]'
 coordinate_location: Point(76.513333333 35.881111111)
-country: '[[_Standards/WikiData/WD~Pakistan,843]]'
-instance_of: '[[_Standards/WikiData/WD~mountain,8502]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+country: '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+instance_of: '[[_Standards/WikiData/WD~mountain,8502|WD~mountain,8502]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 topographic_prominence: 4020
 topographic_isolation: 1316
 elevation_above_sea_level: 8611

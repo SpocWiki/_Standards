@@ -93,22 +93,22 @@ aliases:
 - 科學史
 - 과학사
 has_id_wikidata: Q201486
-different_from: '[[_Standards/WikiData/WD~natural_history,484591]]'
+different_from: '[[_Standards/WikiData/WD~natural_history,484591|WD~natural_history,484591]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-part_of: '[[_Standards/WikiData/WD~study_of_history,1066186]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+part_of: '[[_Standards/WikiData/WD~study_of_history,1066186|WD~study_of_history,1066186]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~study_of_history,1066186]]'
-- '[[_Standards/WikiData/WD~history,309]]'
-studied_by: '[[_Standards/WikiData/WD~sociology_of_the_history_of_science,2189701]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~history_of_science,3137572]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_science,6828285]]'
-practiced_by: '[[_Standards/WikiData/WD~historian_of_science,16063546]]'
-facet_of: '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~study_of_history,1066186|WD~study_of_history,1066186]]'
+- '[[_Standards/WikiData/WD~history,309|WD~history,309]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_the_history_of_science,2189701|WD~sociology_of_the_history_of_science,2189701]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~history_of_science,3137572|WD~history_of_science,3137572]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_science,6828285|WD~Template_History_of_science,6828285]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_science,16063546|WD~historian_of_science,16063546]]'
+facet_of: '[[_Standards/WikiData/WD~science,336|WD~science,336]]'
 Dewey_Decimal_Classification: 509
 Commons_gallery: History of science
 Commons_category: History of science

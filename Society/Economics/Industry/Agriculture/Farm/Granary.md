@@ -71,19 +71,19 @@ aliases:
 - 미곡창
 has_id_wikidata: Q114768
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-instance_of: '[[_Standards/WikiData/WD~building_type,811102]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+instance_of: '[[_Standards/WikiData/WD~building_type,811102|WD~building_type,811102]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~agricultural_structure,10480682]]'
-- '[[_Standards/WikiData/WD~farm_building,42896655]]'
-- '[[_Standards/WikiData/WD~grain_storage_building,60168923]]'
-has_use: '[[_Standards/WikiData/WD~storage,2534289]]'
-different_from: '[[_Standards/WikiData/WD~Q13220228,13220228]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~agricultural_structure,10480682|WD~agricultural_structure,10480682]]'
+- '[[_Standards/WikiData/WD~farm_building,42896655|WD~farm_building,42896655]]'
+- '[[_Standards/WikiData/WD~grain_storage_building,60168923|WD~grain_storage_building,60168923]]'
+has_use: '[[_Standards/WikiData/WD~storage,2534289|WD~storage,2534289]]'
+different_from: '[[_Standards/WikiData/WD~Q13220228,13220228|WD~Q13220228,13220228]]'
 start_time: -9000-06
 Nomenclature_for_Museum_Cataloging: 555
 BHCL_UUID: e339faf2-a429-4368-a380-bace90ebff21

@@ -25,10 +25,10 @@ aliases:
 - 誤謬#形式的誤謬
 - 오류론
 has_id_wikidata: Q962165
-subclass_of: '[[_Standards/WikiData/WD~fallacy,186150]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~non_sequitur,825737]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Formal_fallacies,7478515]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199]]'
+subclass_of: '[[_Standards/WikiData/WD~fallacy,186150|WD~fallacy,186150]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~non_sequitur,825737|WD~non_sequitur,825737]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Formal_fallacies,7478515|WD~Category_Formal_fallacies,7478515]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199|WD~type_of_fallacy,130993199]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Logical%20Fallacies%20Fallacy%20Icon.png
 Commons_category: Formal fallacies
 dv_has_:

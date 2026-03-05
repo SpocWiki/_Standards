@@ -90,23 +90,23 @@ aliases:
 - 청량 음료
 has_id_wikidata: Q147538
 different_from:
-- '[[_Standards/WikiData/WD~tonic,210411]]'
-- '[[_Standards/WikiData/WD~carbonated_beverage,13417200]]'
-- '[[_Standards/WikiData/WD~lemonade,893]]'
-has_part_s_: '[[_Standards/WikiData/WD~carbonated_water,264554]]'
-described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-has_characteristic: '[[_Standards/WikiData/WD~carbonation,2139722]]'
+- '[[_Standards/WikiData/WD~tonic,210411|WD~tonic,210411]]'
+- '[[_Standards/WikiData/WD~carbonated_beverage,13417200|WD~carbonated_beverage,13417200]]'
+- '[[_Standards/WikiData/WD~lemonade,893|WD~lemonade,893]]'
+has_part_s_: '[[_Standards/WikiData/WD~carbonated_water,264554|WD~carbonated_water,264554]]'
+described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+has_characteristic: '[[_Standards/WikiData/WD~carbonation,2139722|WD~carbonation,2139722]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467]]'
-- '[[_Standards/WikiData/WD~carbonated_beverage,13417200]]'
+- '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467|WD~non_alcoholic_beverage,2647467]]'
+- '[[_Standards/WikiData/WD~carbonated_beverage,13417200|WD~carbonated_beverage,13417200]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467]]'
-- '[[_Standards/WikiData/WD~Seiryo_inryosui,6501674]]'
+- '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467|WD~non_alcoholic_beverage,2647467]]'
+- '[[_Standards/WikiData/WD~Seiryo_inryosui,6501674|WD~Seiryo_inryosui,6501674]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467]]'
-- '[[_Standards/WikiData/WD~sugary_drink,122973887]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
+- '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467|WD~non_alcoholic_beverage,2647467]]'
+- '[[_Standards/WikiData/WD~sugary_drink,122973887|WD~sugary_drink,122973887]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990|WD~WikiProject_Food_and_drink,8485990]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951|WD~type_of_food_or_dish,19861951]]'
 U_S_National_Archives_Identifier: 10646746
 subreddit: Soda
 UNSPSC_Code: 50202306

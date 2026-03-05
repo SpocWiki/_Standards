@@ -62,12 +62,12 @@ aliases:
 - 편광
 has_id_wikidata: Q193760
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-different_from: '[[_Standards/WikiData/WD~polarization_density,1050425]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+different_from: '[[_Standards/WikiData/WD~polarization_density,1050425|WD~polarization_density,1050425]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~optical_property,2643571]]'
-- '[[_Standards/WikiData/WD~physical_property,4373292]]'
+- '[[_Standards/WikiData/WD~optical_property,2643571|WD~optical_property,2643571]]'
+- '[[_Standards/WikiData/WD~physical_property,4373292|WD~physical_property,4373292]]'
 Commons_category: Polarization (waves)
 dv_has_:
   name_:

@@ -46,108 +46,108 @@ aliases:
 - 斯坦利·库布里克
 - 스탠리 큐브릭
 has_id_wikidata: Q2001
-archives_at: '[[_Standards/WikiData/WD~University_of_the_Arts_London_Archives_and_Special_Collections,81165666]]'
+archives_at: '[[_Standards/WikiData/WD~University_of_the_Arts_London_Archives_and_Special_Collections,81165666|WD~University_of_the_Arts_London_Archives_and_Special_Collections,81165666]]'
 ArhivX_LOD: 34182
 award_received:
-- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Visual_Effects,393686]]'
-- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
-- '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
-- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
-- '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
-- '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]'
-- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
-- '[[_Standards/WikiData/WD~Sitges_Grand_Honorary_Award,48781665]]'
-- '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Visual_Effects,393686|WD~Academy_Award_for_Best_Visual_Effects,393686]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131|WD~BAFTA_Award_for_Best_Direction,787131]]'
+- '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148|WD~Academy_Fellowship_Award,787148]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102|WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+- '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784|WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
+- '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212|WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]'
+- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531|WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+- '[[_Standards/WikiData/WD~Sitges_Grand_Honorary_Award,48781665|WD~Sitges_Grand_Honorary_Award,48781665]]'
+- '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500|WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
 BHCL_UUID: 7c573766-0090-4ea0-a377-f84ef05bd352
 birth_name: Stanley Kubrick
-cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
-child: '[[_Standards/WikiData/WD~Vivian_Kubrick,276175]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152|WD~myocardial_infarction,12152]]'
+child: '[[_Standards/WikiData/WD~Vivian_Kubrick,276175|WD~Vivian_Kubrick,276175]]'
 Commons_category: Stanley Kubrick
 Commons_Creator_page: Stanley Kubrick
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012|WD~works_protected_by_copyrights,73555012]]'
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 date_of_birth: 1928-07-26
 date_of_death: 1999-03-07
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-different_from: '[[_Standards/WikiData/WD~Christoph_G._Schuetz,87800528]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+different_from: '[[_Standards/WikiData/WD~Christoph_G._Schuetz,87800528|WD~Christoph_G._Schuetz,87800528]]'
 educated_at:
-- '[[_Standards/WikiData/WD~City_College_of_New_York,1093910]]'
-- '[[_Standards/WikiData/WD~William_Howard_Taft_High_School,14707787]]'
-ethnic_group: '[[_Standards/WikiData/WD~American_Jews,678551]]'
+- '[[_Standards/WikiData/WD~City_College_of_New_York,1093910|WD~City_College_of_New_York,1093910]]'
+- '[[_Standards/WikiData/WD~William_Howard_Taft_High_School,14707787|WD~William_Howard_Taft_High_School,14707787]]'
+ethnic_group: '[[_Standards/WikiData/WD~American_Jews,678551|WD~American_Jews,678551]]'
 Europeana_entity: agent/base/146920
-family_name: '[[_Standards/WikiData/WD~Kubrick,18375239]]'
+family_name: '[[_Standards/WikiData/WD~Kubrick,18375239|WD~Kubrick,18375239]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~filmmaking,932586]]'
-- '[[_Standards/WikiData/WD~film_direction,12765827]]'
-- '[[_Standards/WikiData/WD~movie_theater,41253]]'
-filmography: '[[_Standards/WikiData/WD~filmography_and_awards_of_Stanley_Kubrick,17065472]]'
+- '[[_Standards/WikiData/WD~filmmaking,932586|WD~filmmaking,932586]]'
+- '[[_Standards/WikiData/WD~film_direction,12765827|WD~film_direction,12765827]]'
+- '[[_Standards/WikiData/WD~movie_theater,41253|WD~movie_theater,41253]]'
+filmography: '[[_Standards/WikiData/WD~filmography_and_awards_of_Stanley_Kubrick,17065472|WD~filmography_and_awards_of_Stanley_Kubrick,17065472]]'
 genre:
-- '[[_Standards/WikiData/WD~documentary_film,93204]]'
-- '[[_Standards/WikiData/WD~drama_film,130232]]'
-- '[[_Standards/WikiData/WD~comedy_film,157443]]'
-- '[[_Standards/WikiData/WD~film_noir,185867]]'
-- '[[_Standards/WikiData/WD~action_film,188473]]'
-- '[[_Standards/WikiData/WD~horror_film,200092]]'
-- '[[_Standards/WikiData/WD~adventure_film,319221]]'
-- '[[_Standards/WikiData/WD~war_film,369747]]'
-- '[[_Standards/WikiData/WD~science_fiction_film,471839]]'
-- '[[_Standards/WikiData/WD~crime_film,959790]]'
-- '[[_Standards/WikiData/WD~mystery_film,1200678]]'
-- '[[_Standards/WikiData/WD~thriller_film,2484376]]'
-- '[[_Standards/WikiData/WD~historical_film,17013749]]'
-- '[[_Standards/WikiData/WD~psychological_horror_film,109629396]]'
-- '[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]'
-given_name: '[[_Standards/WikiData/WD~Stanley,3541269]]'
+- '[[_Standards/WikiData/WD~documentary_film,93204|WD~documentary_film,93204]]'
+- '[[_Standards/WikiData/WD~drama_film,130232|WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~comedy_film,157443|WD~comedy_film,157443]]'
+- '[[_Standards/WikiData/WD~film_noir,185867|WD~film_noir,185867]]'
+- '[[_Standards/WikiData/WD~action_film,188473|WD~action_film,188473]]'
+- '[[_Standards/WikiData/WD~horror_film,200092|WD~horror_film,200092]]'
+- '[[_Standards/WikiData/WD~adventure_film,319221|WD~adventure_film,319221]]'
+- '[[_Standards/WikiData/WD~war_film,369747|WD~war_film,369747]]'
+- '[[_Standards/WikiData/WD~science_fiction_film,471839|WD~science_fiction_film,471839]]'
+- '[[_Standards/WikiData/WD~crime_film,959790|WD~crime_film,959790]]'
+- '[[_Standards/WikiData/WD~mystery_film,1200678|WD~mystery_film,1200678]]'
+- '[[_Standards/WikiData/WD~thriller_film,2484376|WD~thriller_film,2484376]]'
+- '[[_Standards/WikiData/WD~historical_film,17013749|WD~historical_film,17013749]]'
+- '[[_Standards/WikiData/WD~psychological_horror_film,109629396|WD~psychological_horror_film,109629396]]'
+- '[[_Standards/WikiData/WD~psychological_thriller_film,109733304|WD~psychological_thriller_film,109733304]]'
+given_name: '[[_Standards/WikiData/WD~Stanley,3541269|WD~Stanley,3541269]]'
 height: 169
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kubrick%20on%20the%20set%20of%20Barry%20Lyndon%20%281975%20publicity%20photo%29%20crop.jpg
-influenced_by: '[[_Standards/WikiData/WD~Max_Ophüls,55410]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+influenced_by: '[[_Standards/WikiData/WD~Max_Ophüls,55410|WD~Max_Ophüls,55410]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ISNI: 110214609
 Krugosvet_article: teatr-i-kino/kubrik-stenli
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
 Libris_URI: rp356zw91k0whxj
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-member_of: '[[_Standards/WikiData/WD~Writers_Guild_of_America,_West,8038459]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+member_of: '[[_Standards/WikiData/WD~Writers_Guild_of_America,_West,8038459|WD~Writers_Guild_of_America,_West,8038459]]'
 name_in_native_language: Stanley Kubrick
-native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+native_language: '[[_Standards/WikiData/WD~American_English,7976|WD~American_English,7976]]'
 nominated_for:
-- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Visual_Effects,393686]]'
-- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Director,1238714]]'
-- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427|WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360|WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258|WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Visual_Effects,393686|WD~Academy_Award_for_Best_Visual_Effects,393686]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Director,1238714|WD~Golden_Raspberry_Award_for_Worst_Director,1238714]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417|WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 occupation:
-- '[[_Standards/WikiData/WD~cinematographer,222344]]'
-- '[[_Standards/WikiData/WD~executive_producer,1053574]]'
-- '[[_Standards/WikiData/WD~camera_operator,1208175]]'
-- '[[_Standards/WikiData/WD~film_director,2526255]]'
-- '[[_Standards/WikiData/WD~scenographer,2707485]]'
-- '[[_Standards/WikiData/WD~film_producer,3282637]]'
-- '[[_Standards/WikiData/WD~director,3455803]]'
-- '[[_Standards/WikiData/WD~film_editor,7042855]]'
-- '[[_Standards/WikiData/WD~producer,47541952]]'
-- '[[_Standards/WikiData/WD~screenwriter,28389]]'
-- '[[_Standards/WikiData/WD~photographer,33231]]'
+- '[[_Standards/WikiData/WD~cinematographer,222344|WD~cinematographer,222344]]'
+- '[[_Standards/WikiData/WD~executive_producer,1053574|WD~executive_producer,1053574]]'
+- '[[_Standards/WikiData/WD~camera_operator,1208175|WD~camera_operator,1208175]]'
+- '[[_Standards/WikiData/WD~film_director,2526255|WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~scenographer,2707485|WD~scenographer,2707485]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637|WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803|WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_editor,7042855|WD~film_editor,7042855]]'
+- '[[_Standards/WikiData/WD~producer,47541952|WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389|WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~photographer,33231|WD~photographer,33231]]'
 official_website: http://www.kubrickfilms.com
-place_of_birth: '[[_Standards/WikiData/WD~The_Bronx,18426]]'
-place_of_burial: '[[_Standards/WikiData/WD~Childwickbury_Manor,1072802]]'
-place_of_death: '[[_Standards/WikiData/WD~Childwickbury_Manor,1072802]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_birth: '[[_Standards/WikiData/WD~The_Bronx,18426|WD~The_Bronx,18426]]'
+place_of_burial: '[[_Standards/WikiData/WD~Childwickbury_Manor,1072802|WD~Childwickbury_Manor,1072802]]'
+place_of_death: '[[_Standards/WikiData/WD~Childwickbury_Manor,1072802|WD~Childwickbury_Manor,1072802]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066|WD~atheism,7066]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Stanley%20Kubrick%20Signature.svg
 social_media_followers: 47580
-sport: '[[_Standards/WikiData/WD~chess,718]]'
+sport: '[[_Standards/WikiData/WD~chess,718|WD~chess,718]]'
 spouse:
-- '[[_Standards/WikiData/WD~Christiane_Kubrick,450030]]'
-- '[[_Standards/WikiData/WD~Ruth_Sobotka,3453645]]'
+- '[[_Standards/WikiData/WD~Christiane_Kubrick,450030|WD~Christiane_Kubrick,450030]]'
+- '[[_Standards/WikiData/WD~Ruth_Sobotka,3453645|WD~Ruth_Sobotka,3453645]]'
 subreddit: StanleyKubrick
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Stanley_Kubrick,5945278]]'
-work_locations: '[[_Standards/WikiData/WD~Hollywood,34006]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Stanley_Kubrick,5945278|WD~Template_Stanley_Kubrick,5945278]]'
+work_locations: '[[_Standards/WikiData/WD~Hollywood,34006|WD~Hollywood,34006]]'
 work_period_end_: 1999
 work_period_start_: 1951
 dv_has_:
@@ -344,7 +344,7 @@ dv_has_:
 > This permitted him almost complete artistic control over his films, 
 > with the rare advantage of financial support from major Hollywood studios. 
 > His first productions in England were two films with Peter Sellers: 
-> an adaptation of [[Kubrick,Stanley/Lolita(1962)]] and the [[../../../_Standards/bio/Society/History/Modern_History/Cold_War|Cold War]] black comedy [[Dr.Strangelove(1964)]].
+> an adaptation of [[Kubrick,Stanley/Lolita(1962)|Lolita(1962)]] and the [[../../../_Standards/bio/Society/History/Modern_History/Cold_War|Cold War]] black comedy [[Dr.Strangelove(1964)]].
 >
 > A perfectionist who assumed direct control over most aspects of his filmmaking, 
 > Kubrick cultivated an expertise in writing, editing, color grading, promotion, and exhibition. 
@@ -357,7 +357,7 @@ dv_has_:
 > Despite the notoriety this provoked, 
 > many of Kubrick's films broke new cinematic ground and are now considered landmarks. 
 > 
-> The scientific realism and innovative special effects in his science fiction epic [[Kubrick,Stanley/2001-Space_Odyssey]] (1968) 
+> The scientific realism and innovative special effects in his science fiction epic [[Kubrick,Stanley/2001-Space_Odyssey|2001-Space_Odyssey]] (1968) 
 > were a first in cinema history, and the film earned him his only [[../../TV-Series/Academy_Award|Academy Award]] (for Best Visual Effects). 
 > Filmmaker [[Spielberg,Steven|Steven Spielberg]] has referred to 2001 as his generation's "big bang" 
 > and it is regarded as one of the greatest films ever made.

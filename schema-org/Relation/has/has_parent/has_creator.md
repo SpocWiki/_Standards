@@ -27,7 +27,7 @@ dv_has_:
   child_:
     property:
       - "[[../../is/is_legislation/is_legislation_passed_by|is_legislation_passed_by]]"
-      - "[[../has_founder]]"
+      - "[[../has_founder|has_founder]]"
   inverse: "[[has_created]]"
   domain: "[[../../../Class/Thing|Thing]]"
   name: has_creator
@@ -44,7 +44,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_creator.secret|has_creator.secret]]"
 dv_has_child_property:
   - "[[../../is/is_legislation/is_legislation_passed_by|is_legislation_passed_by]]"
-  - "[[../has_founder]]"
+  - "[[../has_founder|has_founder]]"
 dv_has_inverse: "[[has_created]]"
 dv_has_domain: "[[../../../Class/Thing|Thing]]"
 dv_has_name: has_creator

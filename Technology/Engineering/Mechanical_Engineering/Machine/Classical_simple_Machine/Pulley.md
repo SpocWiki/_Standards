@@ -80,19 +80,19 @@ aliases:
 - 轤轆
 - 도르래
 has_id_wikidata: Q48378
-subclass_of: '[[_Standards/WikiData/WD~simple_machine,186713]]'
+subclass_of: '[[_Standards/WikiData/WD~simple_machine,186713|WD~simple_machine,186713]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~sheave,1057381]]'
-- '[[_Standards/WikiData/WD~block_and_tackle,2397030]]'
-- '[[_Standards/WikiData/WD~Block,6536648]]'
-has_part_s_: '[[_Standards/WikiData/WD~wheel,446]]'
+- '[[_Standards/WikiData/WD~sheave,1057381|WD~sheave,1057381]]'
+- '[[_Standards/WikiData/WD~block_and_tackle,2397030|WD~block_and_tackle,2397030]]'
+- '[[_Standards/WikiData/WD~Block,6536648|WD~Block,6536648]]'
+has_part_s_: '[[_Standards/WikiData/WD~wheel,446|WD~wheel,446]]'
 Nomenclature_for_Museum_Cataloging: 9206
 OmegaWiki_Defined_Meaning: 156012
 Commons_gallery: Pulley

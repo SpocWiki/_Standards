@@ -59,18 +59,18 @@ aliases:
 - 중의성
 has_id_wikidata: Q1140419
 instance_of:
-- '[[_Standards/WikiData/WD~stylistic_device,182545]]'
-- '[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697]]'
-- '[[_Standards/WikiData/WD~type_of_uncertainty,133570028]]'
+- '[[_Standards/WikiData/WD~stylistic_device,182545|WD~stylistic_device,182545]]'
+- '[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697|WD~Wikibase_reason_for_deprecated_rank,27949697]]'
+- '[[_Standards/WikiData/WD~type_of_uncertainty,133570028|WD~type_of_uncertainty,133570028]]'
 different_from:
-- '[[_Standards/WikiData/WD~polysemy,191928]]'
-- '[[_Standards/WikiData/WD~homonymy,21701659]]'
-characteristic_of: '[[_Standards/WikiData/WD~message,628523]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~interpretation,855395]]'
+- '[[_Standards/WikiData/WD~polysemy,191928|WD~polysemy,191928]]'
+- '[[_Standards/WikiData/WD~homonymy,21701659|WD~homonymy,21701659]]'
+characteristic_of: '[[_Standards/WikiData/WD~message,628523|WD~message,628523]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~interpretation,855395|WD~interpretation,855395]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~quality,1207505]]'
-- '[[_Standards/WikiData/WD~uncertainty,13649246]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ambiguity,8242808]]'
+- '[[_Standards/WikiData/WD~quality,1207505|WD~quality,1207505]]'
+- '[[_Standards/WikiData/WD~uncertainty,13649246|WD~uncertainty,13649246]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ambiguity,8242808|WD~Category_Ambiguity,8242808]]'
 OmegaWiki_Defined_Meaning: 1089412
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ambigram%20Ambiguity.png
 Commons_category: Ambiguity

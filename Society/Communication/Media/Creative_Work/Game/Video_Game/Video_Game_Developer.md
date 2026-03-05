@@ -72,18 +72,18 @@ aliases:
 - 電子遊戲開發商
 - 게임 개발사/개발자
 has_id_wikidata: Q210167
-industry: '[[_Standards/WikiData/WD~video_game_industry,941594]]'
+industry: '[[_Standards/WikiData/WD~video_game_industry,941594|WD~video_game_industry,941594]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~video_game_development,1061635]]'
-- '[[_Standards/WikiData/WD~video_game_mechanic,107647829]]'
+- '[[_Standards/WikiData/WD~video_game_development,1061635|WD~video_game_development,1061635]]'
+- '[[_Standards/WikiData/WD~video_game_mechanic,107647829|WD~video_game_mechanic,107647829]]'
 different_from:
-- '[[_Standards/WikiData/WD~video_game_publisher,1137109]]'
-- '[[_Standards/WikiData/WD~video_game_developer,58287519]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59521898,59521898]]'
+- '[[_Standards/WikiData/WD~video_game_publisher,1137109|WD~video_game_publisher,1137109]]'
+- '[[_Standards/WikiData/WD~video_game_developer,58287519|WD~video_game_developer,58287519]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59521898,59521898|WD~Q59521898,59521898]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~video_game_company,112042224]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~video_game_company,112042224|WD~video_game_company,112042224]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 properties_for_this_type: MobyGames person ID
 main_Wikidata_property: developer
 subreddit: gamedev
@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Video_Game_Developer]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~video_game_developer,210167]] 
+#is_/same_as :: [[_Standards/WikiData/WD~video_game_developer,210167|WD~video_game_developer,210167]] 
 
 ## #has_/text_of_/abstract 
 

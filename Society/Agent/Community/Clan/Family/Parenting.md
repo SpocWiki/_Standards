@@ -80,34 +80,34 @@ aliases:
 - 양육
 has_id_wikidata: Q1217379
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-- '[[_Standards/WikiData/WD~Parenting,133280534]]'
-has_characteristic: '[[_Standards/WikiData/WD~parenting_style,1366259]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~Parenting,133280534|WD~Parenting,133280534]]'
+has_characteristic: '[[_Standards/WikiData/WD~parenting_style,1366259|WD~parenting_style,1366259]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~upbringing,2353731]]'
-- '[[_Standards/WikiData/WD~behavior,9332]]'
+- '[[_Standards/WikiData/WD~upbringing,2353731|WD~upbringing,2353731]]'
+- '[[_Standards/WikiData/WD~behavior,9332|WD~behavior,9332]]'
 different_from:
-- '[[_Standards/WikiData/WD~Rear,2863635]]'
-- '[[_Standards/WikiData/WD~parental_instinct,4395886]]'
+- '[[_Standards/WikiData/WD~Rear,2863635|WD~Rear,2863635]]'
+- '[[_Standards/WikiData/WD~parental_instinct,4395886|WD~parental_instinct,4395886]]'
 facet_of:
-- '[[_Standards/WikiData/WD~parenthood,3365007]]'
-- '[[_Standards/WikiData/WD~development,27908081]]'
-- '[[_Standards/WikiData/WD~pedagogy,7922]]'
+- '[[_Standards/WikiData/WD~parenthood,3365007|WD~parenthood,3365007]]'
+- '[[_Standards/WikiData/WD~development,27908081|WD~development,27908081]]'
+- '[[_Standards/WikiData/WD~pedagogy,7922|WD~pedagogy,7922]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~parent_and_child,5362237]]'
-- '[[_Standards/WikiData/WD~child_rearing,69886747]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Parenting,13012234]]'
+- '[[_Standards/WikiData/WD~parent_and_child,5362237|WD~parent_and_child,5362237]]'
+- '[[_Standards/WikiData/WD~child_rearing,69886747|WD~child_rearing,69886747]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Parenting,13012234|WD~Template_Parenting,13012234]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~baby_rearing,17192852]]'
-- '[[_Standards/WikiData/WD~education,8434]]'
+- '[[_Standards/WikiData/WD~baby_rearing,17192852|WD~baby_rearing,17192852]]'
+- '[[_Standards/WikiData/WD~education,8434|WD~education,8434]]'
 IAB_code:
 - 197
 - 198
@@ -216,7 +216,7 @@ dv_has_:
 
 # [[Parenting]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Parenting,1217379]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Parenting,1217379|WD~Parenting,1217379]] 
 
 ## #has_/text_of_/abstract 
 

@@ -28,8 +28,8 @@ title: is_a_return_fees_customer_responsibility Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../ReturnFeesEnumeration]]"
-  enum_of: "[[../ReturnFeesEnumeration]]"
+  parent_class: "[[../ReturnFeesEnumeration|ReturnFeesEnumeration]]"
+  enum_of: "[[../ReturnFeesEnumeration|ReturnFeesEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility|Return_Fees_Customer_Responsibility]]"
     - "[[/_public/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.public|Return_Fees_Customer_Responsibility.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.secret|Return_Fees_Customer_Responsibility.secret]]"
     - "[[Return_Fees_Customer_Responsibility]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../ReturnFeesEnumeration]]"
-dv_is_enum_of: "[[../ReturnFeesEnumeration]]"
+dv_has_parent_class: "[[../ReturnFeesEnumeration|ReturnFeesEnumeration]]"
+dv_is_enum_of: "[[../ReturnFeesEnumeration|ReturnFeesEnumeration]]"
 dv_is_same_as:
   - "[[Return_Fees_Customer_Responsibility]]"
   - "[[/_public/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.public|Return_Fees_Customer_Responsibility.public]]"

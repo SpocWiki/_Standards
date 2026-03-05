@@ -70,16 +70,16 @@ aliases:
 - 리산수학
 - 이산수학
 has_id_wikidata: Q121416
-has_part_s_: '[[_Standards/WikiData/WD~combinatorics,76592]]'
-uses: '[[_Standards/WikiData/WD~countably_infinite_set,185478]]'
+has_part_s_: '[[_Standards/WikiData/WD~combinatorics,76592|WD~combinatorics,76592]]'
+uses: '[[_Standards/WikiData/WD~countably_infinite_set,185478|WD~countably_infinite_set,185478]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~pure_mathematics,837863]]'
-- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~pure_mathematics,837863|WD~pure_mathematics,837863]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
-part_of: '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918|WD~mathematical_theory,20026918]]'
+part_of: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
 literal_translation: 離散数学
 ACM_Classification_Code_2012_: 10003624
 Commons_category: Discrete mathematics

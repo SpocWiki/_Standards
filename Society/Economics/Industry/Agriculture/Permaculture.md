@@ -37,17 +37,17 @@ aliases:
 - 永續栽培設計
 - 퍼머컬처
 has_id_wikidata: Q4572
-subclass_of: '[[_Standards/WikiData/WD~cultivation,357279]]'
+subclass_of: '[[_Standards/WikiData/WD~cultivation,357279|WD~cultivation,357279]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Bill_Mollison,554966]]'
-- '[[_Standards/WikiData/WD~David_Holmgren,583264]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Permaculture,22765778]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q52678287,52678287]]'
-instance_of: '[[_Standards/WikiData/WD~farming_system,56395513]]'
+- '[[_Standards/WikiData/WD~Bill_Mollison,554966|WD~Bill_Mollison,554966]]'
+- '[[_Standards/WikiData/WD~David_Holmgren,583264|WD~David_Holmgren,583264]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Permaculture,22765778|WD~Template_Permaculture,22765778]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q52678287,52678287|WD~Q52678287,52678287]]'
+instance_of: '[[_Standards/WikiData/WD~farming_system,56395513|WD~farming_system,56395513]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- "[[_Standards/WikiData/WD~Permaculture_A_Designer's_Manual,102411307]]"
-- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- "[[_Standards/WikiData/WD~Permaculture_A_Designer's_Manual,102411307|WD~Permaculture_A_Designer's_Manual,102411307]]"
+- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
 social_media_followers: 259199
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Permaculture%20flower%20fleur%20permashort%20color-1331px.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Permakultur-Zonen.svg

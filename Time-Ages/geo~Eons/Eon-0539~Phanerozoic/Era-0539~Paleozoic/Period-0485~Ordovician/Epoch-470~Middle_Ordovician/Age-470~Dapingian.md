@@ -23,11 +23,11 @@ aliases:
 - 大坪期
 has_id_wikidata: Q288112
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Dapingian,30869279]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Dapingian,134822707]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Dapingian,30869279|WD~Category_Dapingian,30869279]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Dapingian,134822707|WD~GSSP_for_the_base_of_Dapingian,134822707]]'
 coordinate_location: Point(111.374 30.8605)
 sRGB_color_hex_triplet: 12C5A9
 end_time: -467300000-01-01T00:00:00Z
@@ -134,7 +134,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 470.0 to 467.3 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-465_Ma_(Darriwilian_Age).png]]  
+![[../../../../../../../xLarge/Earth/Geology/Earth-465_Ma_(Darriwilian_Age).png|Earth-465_Ma_(Darriwilian_Age).png]]  
 
 
 ## #has_/text_of_/abstract 

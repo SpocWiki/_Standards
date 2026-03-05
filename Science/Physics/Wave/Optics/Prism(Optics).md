@@ -46,10 +46,10 @@ aliases:
 - 稜鏡
 - 프리즘
 has_id_wikidata: Q165896
-shape: '[[_Standards/WikiData/WD~prism,180544]]'
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-different_from: '[[_Standards/WikiData/WD~Pryzmat,11828183]]'
-subclass_of: '[[_Standards/WikiData/WD~optical_component,65037298]]'
+shape: '[[_Standards/WikiData/WD~prism,180544|WD~prism,180544]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+different_from: '[[_Standards/WikiData/WD~Pryzmat,11828183|WD~Pryzmat,11828183]]'
+subclass_of: '[[_Standards/WikiData/WD~optical_component,65037298|WD~optical_component,65037298]]'
 Nomenclature_for_Museum_Cataloging: 1791
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sz%C3%ADnsz%C3%B3r%C3%B3d%C3%A1s%20prizm%C3%A1n2.jpg
 Commons_gallery: Prism

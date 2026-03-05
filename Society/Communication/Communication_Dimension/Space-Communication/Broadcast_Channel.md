@@ -95,25 +95,25 @@ tags:
 title: is_a_broadcast_channel Class
 type: Type
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~terrestrial_television,175122]]'
-- '[[_Standards/WikiData/WD~cable_television,184452]]'
-- '[[_Standards/WikiData/WD~satellite_television,209588]]'
+- '[[_Standards/WikiData/WD~terrestrial_television,175122|WD~terrestrial_television,175122]]'
+- '[[_Standards/WikiData/WD~cable_television,184452|WD~cable_television,184452]]'
+- '[[_Standards/WikiData/WD~satellite_television,209588|WD~satellite_television,209588]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~product_distribution_method,81941037]]'
-- '[[_Standards/WikiData/WD~type_of_mass_media,121132955]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_broadcasting,6086441]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Broadcasting,6730352]]'
-used_by: '[[_Standards/WikiData/WD~information_and_communication_industry,11492876]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~product_distribution_method,81941037|WD~product_distribution_method,81941037]]'
+- '[[_Standards/WikiData/WD~type_of_mass_media,121132955|WD~type_of_mass_media,121132955]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_broadcasting,6086441|WD~history_of_broadcasting,6086441]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Broadcasting,6730352|WD~Template_Broadcasting,6730352]]'
+used_by: '[[_Standards/WikiData/WD~information_and_communication_industry,11492876|WD~information_and_communication_industry,11492876]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~programming_and_broadcasting_activities,29584328]]'
-- '[[_Standards/WikiData/WD~public_disclosing,112116869]]'
-described_by_source: '[[_Standards/WikiData/WD~Myggans_nöjeslexikon_13_Rundr_Tall,59185039]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Broadcasting,60005978]]'
-has_characteristic: '[[_Standards/WikiData/WD~broadcasting_time,67181652]]'
-practiced_by: '[[_Standards/WikiData/WD~broadcaster,135301631]]'
-uses: '[[_Standards/WikiData/WD~mass_media,11033]]'
+- '[[_Standards/WikiData/WD~programming_and_broadcasting_activities,29584328|WD~programming_and_broadcasting_activities,29584328]]'
+- '[[_Standards/WikiData/WD~public_disclosing,112116869|WD~public_disclosing,112116869]]'
+described_by_source: '[[_Standards/WikiData/WD~Myggans_nöjeslexikon_13_Rundr_Tall,59185039|WD~Myggans_nöjeslexikon_13_Rundr_Tall,59185039]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Broadcasting,60005978|WD~WikiProject_Broadcasting,60005978]]'
+has_characteristic: '[[_Standards/WikiData/WD~broadcasting_time,67181652|WD~broadcasting_time,67181652]]'
+practiced_by: '[[_Standards/WikiData/WD~broadcaster,135301631|WD~broadcaster,135301631]]'
+uses: '[[_Standards/WikiData/WD~mass_media,11033|WD~mass_media,11033]]'
 U_S_National_Archives_Identifier: 10638567
 subreddit: Broadcasting
 Commons_category: Broadcasting
@@ -211,7 +211,7 @@ dv_has_:
 
 # [[Broadcast_Channel]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~broadcasting,15078788]] 
+#is_/same_as :: [[_Standards/WikiData/WD~broadcasting,15078788|WD~broadcasting,15078788]] 
 
 Class of all broadcast_channels.
 

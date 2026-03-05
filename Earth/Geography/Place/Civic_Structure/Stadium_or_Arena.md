@@ -97,20 +97,20 @@ tags:
 title: is_a_stadium_or_arena Class
 type: Type
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sports_venue,1076486]]'
-- '[[_Standards/WikiData/WD~building,41176]]'
+- '[[_Standards/WikiData/WD~sports_venue,1076486|WD~sports_venue,1076486]]'
+- '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
 different_from:
-- '[[_Standards/WikiData/WD~Stadion,1198317]]'
-- '[[_Standards/WikiData/WD~pitch,2310214]]'
-named_after: '[[_Standards/WikiData/WD~stadion,1645966]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_stadium,6034132]]'
+- '[[_Standards/WikiData/WD~Stadion,1198317|WD~Stadion,1198317]]'
+- '[[_Standards/WikiData/WD~pitch,2310214|WD~pitch,2310214]]'
+named_after: '[[_Standards/WikiData/WD~stadion,1645966|WD~stadion,1645966]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_stadium,6034132|WD~Template_Infobox_stadium,6034132]]'
 properties_for_this_type:
 - location
 - located in time zone
@@ -286,7 +286,7 @@ dv_has_:
     zh_hk: 體育場
     zh_tw: 體育場
     zu: izinkundla
-  parent_class: '[[../CivicStructure, SportsActivityLocation]]'
+  parent_class: '[[../CivicStructure, SportsActivityLocation|CivicStructure, SportsActivityLocation]]'
   properties: '[ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]'
 dv_is_same_as:
 - '[[../../../../WikiData/WD~Stadium,483110|WD~Stadium,483110]]'
@@ -297,7 +297,7 @@ dv_is_same_as:
 - '[[/_private/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.private|Stadium_or_Arena.private]]'
 - '[[/_personal/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.personal|Stadium_or_Arena.personal]]'
 - '[[/_secret/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.secret|Stadium_or_Arena.secret]]'
-dv_has_parent_class: '[[../CivicStructure, SportsActivityLocation]]'
+dv_has_parent_class: '[[../CivicStructure, SportsActivityLocation|CivicStructure, SportsActivityLocation]]'
 dv_has_properties: '[ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]'
 Unicode_character: 🏟
 ---

@@ -54,25 +54,25 @@ aliases:
 - 핫도그
 has_id_wikidata: Q181055
 has_part_s_:
-- '[[_Standards/WikiData/WD~sauce,178359]]'
-- '[[_Standards/WikiData/WD~Vienna_sausage,327316]]'
-- '[[_Standards/WikiData/WD~hot_dog_bun,1047392]]'
+- '[[_Standards/WikiData/WD~sauce,178359|WD~sauce,178359]]'
+- '[[_Standards/WikiData/WD~Vienna_sausage,327316|WD~Vienna_sausage,327316]]'
+- '[[_Standards/WikiData/WD~hot_dog_bun,1047392|WD~hot_dog_bun,1047392]]'
 has_use:
-- '[[_Standards/WikiData/WD~eating,213449]]'
-- '[[_Standards/WikiData/WD~hot_dog_eating_contest,63553771]]'
+- '[[_Standards/WikiData/WD~eating,213449|WD~eating,213449]]'
+- '[[_Standards/WikiData/WD~hot_dog_eating_contest,63553771|WD~hot_dog_eating_contest,63553771]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~dish,746549]]'
-- '[[_Standards/WikiData/WD~street_food,1316209]]'
-- '[[_Standards/WikiData/WD~meat_pastry,2957687]]'
-- '[[_Standards/WikiData/WD~sausage_sandwich,7427595]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Feltman,19974480]]'
+- '[[_Standards/WikiData/WD~dish,746549|WD~dish,746549]]'
+- '[[_Standards/WikiData/WD~street_food,1316209|WD~street_food,1316209]]'
+- '[[_Standards/WikiData/WD~meat_pastry,2957687|WD~meat_pastry,2957687]]'
+- '[[_Standards/WikiData/WD~sausage_sandwich,7427595|WD~sausage_sandwich,7427595]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Feltman,19974480|WD~Charles_Feltman,19974480]]'
 named_after:
-- '[[_Standards/WikiData/WD~Vienna,1741]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- '[[_Standards/WikiData/WD~dog,144]]'
+- '[[_Standards/WikiData/WD~Vienna,1741|WD~Vienna,1741]]'
+- '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~dog,144|WD~dog,144]]'
 country_of_origin:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 USDA_NDB_number: 43130
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hotdog%20-%20Evan%20Swigart.jpg
 IMDb_keyword: hot-dog

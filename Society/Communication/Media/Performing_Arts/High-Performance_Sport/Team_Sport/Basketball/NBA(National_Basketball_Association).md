@@ -58,43 +58,43 @@ social_media_followers:
 - 42216767
 - 23100000
 distributed_by:
-- '[[_Standards/WikiData/WD~Q79576,79576]]'
-- '[[_Standards/WikiData/WD~Q368215,368215]]'
-winner: '[[_Standards/WikiData/WD~Los_Angeles_Lakers,121783]]'
+- '[[_Standards/WikiData/WD~Q79576,79576|WD~Q79576,79576]]'
+- '[[_Standards/WikiData/WD~Q368215,368215|WD~Q368215,368215]]'
+winner: '[[_Standards/WikiData/WD~Los_Angeles_Lakers,121783|WD~Los_Angeles_Lakers,121783]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Eastern_Conference,238240]]'
-- '[[_Standards/WikiData/WD~Western_Conference,318389]]'
-- '[[_Standards/WikiData/WD~2023_24_NBA_season,110736153]]'
-- '[[_Standards/WikiData/WD~2024_25_NBA_season,124842484]]'
-- '[[_Standards/WikiData/WD~2026_27_NBA_season,126938674]]'
-- '[[_Standards/WikiData/WD~2025_26_NBA_season,133872457]]'
-replaces: '[[_Standards/WikiData/WD~Basketball_Association_of_America,810343]]'
+- '[[_Standards/WikiData/WD~Eastern_Conference,238240|WD~Eastern_Conference,238240]]'
+- '[[_Standards/WikiData/WD~Western_Conference,318389|WD~Western_Conference,318389]]'
+- '[[_Standards/WikiData/WD~2023_24_NBA_season,110736153|WD~2023_24_NBA_season,110736153]]'
+- '[[_Standards/WikiData/WD~2024_25_NBA_season,124842484|WD~2024_25_NBA_season,124842484]]'
+- '[[_Standards/WikiData/WD~2026_27_NBA_season,126938674|WD~2026_27_NBA_season,126938674]]'
+- '[[_Standards/WikiData/WD~2025_26_NBA_season,133872457|WD~2025_26_NBA_season,133872457]]'
+replaces: '[[_Standards/WikiData/WD~Basketball_Association_of_America,810343|WD~Basketball_Association_of_America,810343]]'
 league_level_below:
-- '[[_Standards/WikiData/WD~NBA_G_League,842793]]'
-- '[[_Standards/WikiData/WD~NBA_Summer_League,1287605]]'
+- '[[_Standards/WikiData/WD~NBA_G_League,842793|WD~NBA_G_League,842793]]'
+- '[[_Standards/WikiData/WD~NBA_Summer_League,1287605|WD~NBA_Summer_League,1287605]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Three_Point_Contest,1470803]]'
-- '[[_Standards/WikiData/WD~NBA_TV,2455323]]'
-- '[[_Standards/WikiData/WD~NBA_Store,6952699]]'
-director_manager: '[[_Standards/WikiData/WD~Adam_Silver,4679786]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Commissioner_of_the_NBA,5152845]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_NBA,5641397]]'
-history_of_topic: '[[_Standards/WikiData/WD~Q5899458,5899458]]'
+- '[[_Standards/WikiData/WD~Three_Point_Contest,1470803|WD~Three_Point_Contest,1470803]]'
+- '[[_Standards/WikiData/WD~NBA_TV,2455323|WD~NBA_TV,2455323]]'
+- '[[_Standards/WikiData/WD~NBA_Store,6952699|WD~NBA_Store,6952699]]'
+director_manager: '[[_Standards/WikiData/WD~Adam_Silver,4679786|WD~Adam_Silver,4679786]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Commissioner_of_the_NBA,5152845|WD~Commissioner_of_the_NBA,5152845]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_NBA,5641397|WD~Template_NBA,5641397]]'
+history_of_topic: '[[_Standards/WikiData/WD~Q5899458,5899458|WD~Q5899458,5899458]]'
 instance_of:
-- '[[_Standards/WikiData/WD~online_database,7094076]]'
-- '[[_Standards/WikiData/WD~basketball_association,15986354]]'
-- '[[_Standards/WikiData/WD~professional_sports_league,15991290]]'
-- '[[_Standards/WikiData/WD~basketball_league,18536323]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_National_Basketball_Association,14614982]]'
-is_member_of: '[[_Standards/WikiData/WD~Copyright_Alliance,17149868]]'
-competition_class: "[[_Standards/WikiData/WD~men's_basketball,46343203]]"
+- '[[_Standards/WikiData/WD~online_database,7094076|WD~online_database,7094076]]'
+- '[[_Standards/WikiData/WD~basketball_association,15986354|WD~basketball_association,15986354]]'
+- '[[_Standards/WikiData/WD~professional_sports_league,15991290|WD~professional_sports_league,15991290]]'
+- '[[_Standards/WikiData/WD~basketball_league,18536323|WD~basketball_league,18536323]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_National_Basketball_Association,14614982|WD~Portal_National_Basketball_Association,14614982]]'
+is_member_of: '[[_Standards/WikiData/WD~Copyright_Alliance,17149868|WD~Copyright_Alliance,17149868]]'
+competition_class: "[[_Standards/WikiData/WD~men's_basketball,46343203|WD~men's_basketball,46343203]]"
 Wikidata_property: NBA.com player ID
-sport: '[[_Standards/WikiData/WD~basketball,5372]]'
+sport: '[[_Standards/WikiData/WD~basketball,5372|WD~basketball,5372]]'
 country:
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-season_ends: '[[_Standards/WikiData/WD~April,118]]'
-season_starts: '[[_Standards/WikiData/WD~October,124]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+season_ends: '[[_Standards/WikiData/WD~April,118|WD~April,118]]'
+season_starts: '[[_Standards/WikiData/WD~October,124|WD~October,124]]'
 event_interval: 1
 number_of_participants: 30
 Threads_username: nba

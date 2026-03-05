@@ -41,13 +41,13 @@ aliases:
 - 해양공학
 has_id_wikidata: Q118291
 subclass_of:
-- '[[_Standards/WikiData/WD~spatial_planning,149013]]'
-- '[[_Standards/WikiData/WD~engineering,11023]]'
-practiced_by: '[[_Standards/WikiData/WD~marine_engineer,1644847]]'
+- '[[_Standards/WikiData/WD~spatial_planning,149013|WD~spatial_planning,149013]]'
+- '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
+practiced_by: '[[_Standards/WikiData/WD~marine_engineer,1644847|WD~marine_engineer,1644847]]'
 part_of:
-- '[[_Standards/WikiData/WD~marine_technology,6764311]]'
-- '[[_Standards/WikiData/WD~naval_architecture_and_marine_engineering,101910631]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+- '[[_Standards/WikiData/WD~marine_technology,6764311|WD~marine_technology,6764311]]'
+- '[[_Standards/WikiData/WD~naval_architecture_and_marine_engineering,101910631|WD~naval_architecture_and_marine_engineering,101910631]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
 Dewey_Decimal_Classification: 623
 OmegaWiki_Defined_Meaning: 2260
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Marine-engineering.jpg

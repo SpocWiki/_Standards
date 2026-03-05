@@ -115,19 +115,19 @@ aliases:
 - 유리수
 has_id_wikidata: Q1244890
 subclass_of:
-- '[[_Standards/WikiData/WD~p_adic_number,311627]]'
-- '[[_Standards/WikiData/WD~constructible_number,1321926]]'
-- '[[_Standards/WikiData/WD~real_number,12916]]'
-opposite_of: '[[_Standards/WikiData/WD~irrational_number,607728]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Egyptian_fraction,1764362]]'
+- '[[_Standards/WikiData/WD~p_adic_number,311627|WD~p_adic_number,311627]]'
+- '[[_Standards/WikiData/WD~constructible_number,1321926|WD~constructible_number,1321926]]'
+- '[[_Standards/WikiData/WD~real_number,12916|WD~real_number,12916]]'
+opposite_of: '[[_Standards/WikiData/WD~irrational_number,607728|WD~irrational_number,607728]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Egyptian_fraction,1764362|WD~Egyptian_fraction,1764362]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~numerator,2279584]]'
-- '[[_Standards/WikiData/WD~denominator,3044574]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-different_from: '[[_Standards/WikiData/WD~set_of_rational_numbers,47005650]]'
-part_of: '[[_Standards/WikiData/WD~set_of_rational_numbers,47005650]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_number,47460393]]'
-studied_by: '[[_Standards/WikiData/WD~rational_number_theory,114501433]]'
+- '[[_Standards/WikiData/WD~numerator,2279584|WD~numerator,2279584]]'
+- '[[_Standards/WikiData/WD~denominator,3044574|WD~denominator,3044574]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~set_of_rational_numbers,47005650|WD~set_of_rational_numbers,47005650]]'
+part_of: '[[_Standards/WikiData/WD~set_of_rational_numbers,47005650|WD~set_of_rational_numbers,47005650]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_number,47460393|WD~type_of_number,47460393]]'
+studied_by: '[[_Standards/WikiData/WD~rational_number_theory,114501433|WD~rational_number_theory,114501433]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>a</mi></mrow><mrow data-mjx-texclass="ORD"><mi>b</mi></mrow></mfrac></mrow><mo stretchy="false">&#x2208;</mo><mrow data-mjx-texclass="ORD"><mi>ℚ</mi></mrow><mo stretchy="false">&#x21D4;</mo><mi>a</mi><mo stretchy="false">&#x2208;</mo><mrow data-mjx-texclass="ORD"><mi>ℤ</mi></mrow><mo>,</mo><mi>b</mi><mo stretchy="false">&#x2208;</mo><mrow data-mjx-texclass="ORD"><mi>ℕ</mi></mrow></mstyle></mrow></math>
 OmegaWiki_Defined_Meaning: 1012862
 in_defining_formula:

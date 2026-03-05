@@ -62,11 +62,11 @@ aliases:
 - 運載火箭
 - 발사 차량
 has_id_wikidata: Q697175
-part_of: '[[_Standards/WikiData/WD~space_mission,2133344]]'
-different_from: '[[_Standards/WikiData/WD~Q19645718,19645718]]'
+part_of: '[[_Standards/WikiData/WD~space_mission,2133344|WD~space_mission,2133344]]'
+different_from: '[[_Standards/WikiData/WD~Q19645718,19645718|WD~Q19645718,19645718]]'
 Wikidata_property: space launch vehicle
-has_use: '[[_Standards/WikiData/WD~spaceflight,5916]]'
-subclass_of: '[[_Standards/WikiData/WD~rocket,41291]]'
+has_use: '[[_Standards/WikiData/WD~spaceflight,5916|WD~spaceflight,5916]]'
+subclass_of: '[[_Standards/WikiData/WD~rocket,41291|WD~rocket,41291]]'
 Commons_category: Space launch vehicles
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%2015%20launch.jpg
 dv_has_:

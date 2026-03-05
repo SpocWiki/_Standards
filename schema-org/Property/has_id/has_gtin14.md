@@ -31,7 +31,7 @@ dv_has_:
   name: has_text_of_gtin14
   range: Text
   parent_:
-    property: '[[../has_id/has_gtin]]", "[[../../Relation/has/has_identifier]]'
+    property: '[[../has_id/has_gtin|has_gtin]]", "[[../../Relation/has/has_identifier|has_identifier]]'
 dv_is_:
   same_as:
     - "[[has_gtin14]]"
@@ -44,7 +44,7 @@ dv_is_:
 dv_has_domain: Demand, Offer, Product
 dv_has_name: has_text_of_gtin14
 dv_has_range: Text
-dv_has_parent_property: '[[../has_id/has_gtin]]", "[[../../Relation/has/has_identifier]]'
+dv_has_parent_property: '[[../has_id/has_gtin|has_gtin]]", "[[../../Relation/has/has_identifier|has_identifier]]'
 dv_is_same_as:
   - "[[has_gtin14]]"
   - "[[/_public/schema-org/Property/has_name/has_gtin14.public|has_gtin14.public]]"

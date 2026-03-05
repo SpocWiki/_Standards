@@ -59,17 +59,17 @@ aliases:
 - 창조신
 has_id_wikidata: Q635155
 subclass_of:
-- '[[_Standards/WikiData/WD~deity,178885]]'
-- '[[_Standards/WikiData/WD~creator,115136935]]'
+- '[[_Standards/WikiData/WD~deity,178885|WD~deity,178885]]'
+- '[[_Standards/WikiData/WD~creator,115136935|WD~creator,115136935]]'
 named_after:
-- '[[_Standards/WikiData/WD~deity,178885]]'
-- '[[_Standards/WikiData/WD~God,190]]'
-facet_of: '[[_Standards/WikiData/WD~creation_myth,215304]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~unmoved_mover,2326055]]'
+- '[[_Standards/WikiData/WD~deity,178885|WD~deity,178885]]'
+- '[[_Standards/WikiData/WD~God,190|WD~God,190]]'
+facet_of: '[[_Standards/WikiData/WD~creation_myth,215304|WD~creation_myth,215304]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~unmoved_mover,2326055|WD~unmoved_mover,2326055]]'
 different_from:
-- '[[_Standards/WikiData/WD~creator,2500638]]'
-- '[[_Standards/WikiData/WD~creator,111806094]]'
-studied_by: '[[_Standards/WikiData/WD~religious_studies,34187]]'
+- '[[_Standards/WikiData/WD~creator,2500638|WD~creator,2500638]]'
+- '[[_Standards/WikiData/WD~creator,111806094|WD~creator,111806094]]'
+studied_by: '[[_Standards/WikiData/WD~religious_studies,34187|WD~religious_studies,34187]]'
 male_form_of_label:
 - Schöpfergott
 - dievas kūrėjas

@@ -97,32 +97,32 @@ aliases:
 - 歐利亞文
 - 오리야어
 has_id_wikidata: Q33810
-linguistic_typology: '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
-described_by_source: '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+linguistic_typology: '[[_Standards/WikiData/WD~subject_object_verb,539808|WD~subject_object_verb,539808]]'
+described_by_source: '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 instance_of:
-- '[[_Standards/WikiData/WD~modern_language,1288568]]'
-- '[[_Standards/WikiData/WD~language,34770]]'
-writing_system: '[[_Standards/WikiData/WD~Odia,1760127]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568|WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~language,34770|WD~language,34770]]'
+writing_system: '[[_Standards/WikiData/WD~Odia,1760127|WD~Odia,1760127]]'
 indigenous_to:
-- '[[_Standards/WikiData/WD~Odia_people,1983634]]'
-- '[[_Standards/WikiData/WD~Andhra_Pradesh,1159]]'
-- '[[_Standards/WikiData/WD~Assam,1164]]'
-- '[[_Standards/WikiData/WD~Chhattisgarh,1168]]'
-- '[[_Standards/WikiData/WD~Jharkhand,1184]]'
-- '[[_Standards/WikiData/WD~West_Bengal,1356]]'
-- '[[_Standards/WikiData/WD~Odisha,22048]]'
+- '[[_Standards/WikiData/WD~Odia_people,1983634|WD~Odia_people,1983634]]'
+- '[[_Standards/WikiData/WD~Andhra_Pradesh,1159|WD~Andhra_Pradesh,1159]]'
+- '[[_Standards/WikiData/WD~Assam,1164|WD~Assam,1164]]'
+- '[[_Standards/WikiData/WD~Chhattisgarh,1168|WD~Chhattisgarh,1168]]'
+- '[[_Standards/WikiData/WD~Jharkhand,1184|WD~Jharkhand,1184]]'
+- '[[_Standards/WikiData/WD~West_Bengal,1356|WD~West_Bengal,1356]]'
+- '[[_Standards/WikiData/WD~Odisha,22048|WD~Odisha,22048]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Oriya_languages,7102899]]'
-- '[[_Standards/WikiData/WD~Indo_Aryan,33577]]'
-different_from: '[[_Standards/WikiData/WD~Orya,7105295]]'
-Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547]]'
+- '[[_Standards/WikiData/WD~Oriya_languages,7102899|WD~Oriya_languages,7102899]]'
+- '[[_Standards/WikiData/WD~Indo_Aryan,33577|WD~Indo_Aryan,33577]]'
+different_from: '[[_Standards/WikiData/WD~Orya,7105295|WD~Orya,7105295]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547|WD~2_Provincial,29051547]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q36491176,36491176]]'
-- '[[_Standards/WikiData/WD~Q61684535,61684535]]'
+- '[[_Standards/WikiData/WD~Q36491176,36491176|WD~Q36491176,36491176]]'
+- '[[_Standards/WikiData/WD~Q61684535,61684535|WD~Q61684535,61684535]]'
 part_of:
-- '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]'
-- '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
-country: '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530|WD~Classical_Languages_of_India,116275530]]'
+- '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300|WD~Schedule_languages_of_India,134519300]]'
+country: '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
 number_of_speakers_writers_or_signers: 34500000
 ABS_ASCL_2011_code: 5216
 OmegaWiki_Defined_Meaning: 6834

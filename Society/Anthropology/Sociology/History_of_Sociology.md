@@ -48,11 +48,11 @@ aliases:
 - 社會學史
 - 사회학의 역사
 has_id_wikidata: Q932233
-subclass_of: '[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869|WD~history_of_the_social_sciences,5076869]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-facet_of: '[[_Standards/WikiData/WD~sociology,21201]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~sociology,21201|WD~sociology,21201]]'
 Basisklassifikation: 71.01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sociology%20Department%2C%201968%20%283926527044%29.jpg
 dv_has_:

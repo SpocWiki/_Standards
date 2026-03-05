@@ -142,7 +142,7 @@ Tag Instances like this:
 
 An electronic file or document.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ NoteDigitalDocument, PresentationDigitalDocument, SpreadsheetDigitalDocument, TextDigitalDocument ]  
 

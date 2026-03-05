@@ -51,12 +51,12 @@ aliases:
 - 슈바르츠실트 반지름
 has_id_wikidata: Q72755
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~radius,173817]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~event_horizon,181741]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~radius,173817|WD~radius,173817]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~event_horizon,181741|WD~event_horizon,181741]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow></mstyle></mrow></math>"
-named_after: '[[_Standards/WikiData/WD~Q57145,57145]]'
+named_after: '[[_Standards/WikiData/WD~Q57145,57145|WD~Q57145,57145]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>r</mi><mrow data-mjx-texclass="ORD"><mi>s</mi></mrow></msub><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>2</mn><mi>M</mi><mi>G</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><msup><mi>c</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details.svg
 Commons_category: Schwarzschild's radius

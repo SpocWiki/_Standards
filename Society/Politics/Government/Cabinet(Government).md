@@ -66,25 +66,25 @@ aliases:
 - 内阁
 - 내각
 has_id_wikidata: Q640506
-opposite_of: '[[_Standards/WikiData/WD~shadow_cabinet,303329]]'
+opposite_of: '[[_Standards/WikiData/WD~shadow_cabinet,303329|WD~shadow_cabinet,303329]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~organ_of_state,948571]]'
-- '[[_Standards/WikiData/WD~executive_branch,35798]]'
+- '[[_Standards/WikiData/WD~organ_of_state,948571|WD~organ_of_state,948571]]'
+- '[[_Standards/WikiData/WD~executive_branch,35798|WD~executive_branch,35798]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Cabinet_minister,1179535]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Cabinet_minister,1179535|WD~Cabinet_minister,1179535]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_government_cabinet,12201151]]'
-- '[[_Standards/WikiData/WD~Q20170204,20170204]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_government_cabinet,12201151|WD~Template_Infobox_government_cabinet,12201151]]'
+- '[[_Standards/WikiData/WD~Q20170204,20170204|WD~Q20170204,20170204]]'
 properties_for_this_type:
 - inception
 - dissolved, abolished or demolished date
 Wikidata_property:
 - member of cabinet
 - has cabinet
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~council_of_ministers,15105]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~council_of_ministers,15105|WD~council_of_ministers,15105]]'
 Commons_category: Government
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cabinet%20table.jpg
 dv_has_:

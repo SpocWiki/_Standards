@@ -26,7 +26,7 @@ tags:
 title: is_a_map_category_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Map_Category_Type|Map_Category_Type]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Map_Category_Type.personal|Map_Category_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Map_Category_Type.secret|Map_Category_Type.secret]]"
     - "[[Map_Category_Type]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Map_Category_Type]]"
   - "[[/_public/schema-org/Enumeration/Map_Category_Type.public|Map_Category_Type.public]]"

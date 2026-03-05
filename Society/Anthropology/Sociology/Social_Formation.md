@@ -44,12 +44,12 @@ aliases:
 - 사회구성체
 has_id_wikidata: Q1641112
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~social_system,1639378]]'
-- '[[_Standards/WikiData/WD~social_organization,4430243]]'
-different_from: '[[_Standards/WikiData/WD~socio_economic_structure,3920367]]'
-subclass_of: '[[_Standards/WikiData/WD~sociological_concept,33104129]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-facet_of: '[[_Standards/WikiData/WD~society,8425]]'
+- '[[_Standards/WikiData/WD~social_system,1639378|WD~social_system,1639378]]'
+- '[[_Standards/WikiData/WD~social_organization,4430243|WD~social_organization,4430243]]'
+different_from: '[[_Standards/WikiData/WD~socio_economic_structure,3920367|WD~socio_economic_structure,3920367]]'
+subclass_of: '[[_Standards/WikiData/WD~sociological_concept,33104129|WD~sociological_concept,33104129]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+facet_of: '[[_Standards/WikiData/WD~society,8425|WD~society,8425]]'
 dv_has_:
   name_:
     af: sosiale vorming

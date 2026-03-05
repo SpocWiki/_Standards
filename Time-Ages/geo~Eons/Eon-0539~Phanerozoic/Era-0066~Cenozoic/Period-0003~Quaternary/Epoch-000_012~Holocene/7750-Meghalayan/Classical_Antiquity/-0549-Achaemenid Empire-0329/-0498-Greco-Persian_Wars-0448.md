@@ -79,18 +79,18 @@ has_id_wikidata: Q76026
 end_time: -0448-01-01T00:00:00Z
 start_time: -0498-01-01T00:00:00Z
 participant:
-- '[[_Standards/WikiData/WD~Achaemenid_Empire,389688]]'
-- '[[_Standards/WikiData/WD~Classical_Athens,844930]]'
-- '[[_Standards/WikiData/WD~Sparta,5690]]'
+- '[[_Standards/WikiData/WD~Achaemenid_Empire,389688|WD~Achaemenid_Empire,389688]]'
+- '[[_Standards/WikiData/WD~Classical_Athens,844930|WD~Classical_Athens,844930]]'
+- '[[_Standards/WikiData/WD~Sparta,5690|WD~Sparta,5690]]'
 described_by_source:
-- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151]]'
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151|WD~series_of_wars,104212151]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Greco-Persian%20Wars-fr.svg
 Wolfram_Language_entity_code: Entity["MilitaryConflict", "GrecoPersianWars"]
 Commons_category: Greco–Persian Wars

@@ -79,20 +79,20 @@ aliases:
 - 로켓
 has_id_wikidata: Q41291
 different_from:
-- '[[_Standards/WikiData/WD~rocket,226808]]'
-- '[[_Standards/WikiData/WD~rocket,2037215]]'
-described_by_source: '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-part_of: '[[_Standards/WikiData/WD~spacecraft_propulsion,609089]]'
-model_item: '[[_Standards/WikiData/WD~launch_vehicle,697175]]'
+- '[[_Standards/WikiData/WD~rocket,226808|WD~rocket,226808]]'
+- '[[_Standards/WikiData/WD~rocket,2037215|WD~rocket,2037215]]'
+described_by_source: '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+part_of: '[[_Standards/WikiData/WD~spacecraft_propulsion,609089|WD~spacecraft_propulsion,609089]]'
+model_item: '[[_Standards/WikiData/WD~launch_vehicle,697175|WD~launch_vehicle,697175]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~disposable_product,1194058]]'
-- '[[_Standards/WikiData/WD~flying_machine,7194062]]'
-- '[[_Standards/WikiData/WD~vehicle,42889]]'
-has_use: '[[_Standards/WikiData/WD~propulsion,2583685]]'
+- '[[_Standards/WikiData/WD~disposable_product,1194058|WD~disposable_product,1194058]]'
+- '[[_Standards/WikiData/WD~flying_machine,7194062|WD~flying_machine,7194062]]'
+- '[[_Standards/WikiData/WD~vehicle,42889|WD~vehicle,42889]]'
+has_use: '[[_Standards/WikiData/WD~propulsion,2583685|WD~propulsion,2583685]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_rocket,6586809]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_rocket,25744065]]'
-instance_of: '[[_Standards/WikiData/WD~first_order_class,104086571]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_rocket,6586809|WD~Template_Infobox_rocket,6586809]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_rocket,25744065|WD~Template_Infobox_rocket,25744065]]'
+instance_of: '[[_Standards/WikiData/WD~first_order_class,104086571|WD~first_order_class,104086571]]'
 Commons_category: Rockets
 Unicode_character:
 - "\U0001F680"

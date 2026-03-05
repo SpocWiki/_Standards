@@ -31,7 +31,7 @@ aliases:
 > first developed at Dartmouth College between 1963 and 1964. 
 > 
 > It was the __first successful large-scale time-sharing system__ to be implemented, 
-> and was also the system for which the [[../Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC]] was developed. 
+> and was also the system for which the [[../Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC|Prog~BASIC]] was developed. 
 > 
 > DTSS was developed continually over the next decade, 
 > reimplemented on several generations of computers, 

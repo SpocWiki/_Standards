@@ -38,15 +38,15 @@ aliases:
 - 반중성자
 has_id_wikidata: Q156530
 interaction:
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Bruce_Cork,4115407]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
-subclass_of: '[[_Standards/WikiData/WD~antinucleon,28855250]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-antiparticle: '[[_Standards/WikiData/WD~neutron,2348]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415|WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418|WD~weak_interaction,11418]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Bruce_Cork,4115407|WD~Bruce_Cork,4115407]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015|WD~type_of_quantum_particle,22675015]]'
+subclass_of: '[[_Standards/WikiData/WD~antinucleon,28855250|WD~antinucleon,28855250]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+antiparticle: '[[_Standards/WikiData/WD~neutron,2348|WD~neutron,2348]]'
 electric_charge: 0
 isospin_z_component: 0.5
 isospin_quantum_number: 0.5

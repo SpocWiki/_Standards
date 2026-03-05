@@ -51,19 +51,19 @@ aliases:
 - 動力學
 - 동역학
 has_id_wikidata: Q128030
-opposite_of: '[[_Standards/WikiData/WD~statics,169019]]'
+opposite_of: '[[_Standards/WikiData/WD~statics,169019|WD~statics,169019]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-- '[[_Standards/WikiData/WD~kinetics,1108792]]'
-- '[[_Standards/WikiData/WD~kinematics,11476]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
-has_part_s_: '[[_Standards/WikiData/WD~Q41429338,41429338]]'
-part_of: '[[_Standards/WikiData/WD~mechanics,41217]]'
-subclass_of: '[[_Standards/WikiData/WD~mechanics,41217]]'
+- '[[_Standards/WikiData/WD~kinetics,1108792|WD~kinetics,1108792]]'
+- '[[_Standards/WikiData/WD~kinematics,11476|WD~kinematics,11476]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q41429338,41429338|WD~Q41429338,41429338]]'
+part_of: '[[_Standards/WikiData/WD~mechanics,41217|WD~mechanics,41217]]'
+subclass_of: '[[_Standards/WikiData/WD~mechanics,41217|WD~mechanics,41217]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/TRUE%20Procedural%20Animation.gif
 OmegaWiki_Defined_Meaning: 927451
 Colon_Classification: B71:3

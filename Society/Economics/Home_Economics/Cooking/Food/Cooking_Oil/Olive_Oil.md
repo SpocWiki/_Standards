@@ -103,11 +103,11 @@ aliases:
 - 올리브기름
 has_id_wikidata: Q93165
 subclass_of:
-- '[[_Standards/WikiData/WD~cooking_oil,427457]]'
-- '[[_Standards/WikiData/WD~vegetable_oil,4739805]]'
-- '[[_Standards/WikiData/WD~seed_oil,7445643]]'
-different_from: '[[_Standards/WikiData/WD~Olive_Oyl,2531690]]'
-instance_of: '[[_Standards/WikiData/WD~non_drying_oil,7048902]]'
+- '[[_Standards/WikiData/WD~cooking_oil,427457|WD~cooking_oil,427457]]'
+- '[[_Standards/WikiData/WD~vegetable_oil,4739805|WD~vegetable_oil,4739805]]'
+- '[[_Standards/WikiData/WD~seed_oil,7445643|WD~seed_oil,7445643]]'
+different_from: '[[_Standards/WikiData/WD~Olive_Oyl,2531690|WD~Olive_Oyl,2531690]]'
+instance_of: '[[_Standards/WikiData/WD~non_drying_oil,7048902|WD~non_drying_oil,7048902]]'
 carbon_footprint: 3.9
 2022_Harmonized_System_Code: 1509
 CosIng_number: 77800

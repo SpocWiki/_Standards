@@ -144,34 +144,34 @@ aliases:
 - "\U00010330\U00010335\U00010339\U00010336\U00010339"
 has_id_wikidata: Q39397
 used_by:
-- '[[_Standards/WikiData/WD~carpenter,154549]]'
-- '[[_Standards/WikiData/WD~lumberjack,1124183]]'
+- '[[_Standards/WikiData/WD~carpenter,154549|WD~carpenter,154549]]'
+- '[[_Standards/WikiData/WD~lumberjack,1124183|WD~lumberjack,1124183]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~blade,330946]]'
-- '[[_Standards/WikiData/WD~axe_handle,104888119]]'
+- '[[_Standards/WikiData/WD~blade,330946|WD~blade,330946]]'
+- '[[_Standards/WikiData/WD~axe_handle,104888119|WD~axe_handle,104888119]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 has_use:
-- '[[_Standards/WikiData/WD~axe_throwing,792635]]'
-- '[[_Standards/WikiData/WD~throwing_weapon,1566976]]'
-- '[[_Standards/WikiData/WD~wood_splitting,2347024]]'
-- '[[_Standards/WikiData/WD~axe_murder,4830211]]'
-- '[[_Standards/WikiData/WD~melee_weapon,5581528]]'
-- '[[_Standards/WikiData/WD~hewing,5748404]]'
+- '[[_Standards/WikiData/WD~axe_throwing,792635|WD~axe_throwing,792635]]'
+- '[[_Standards/WikiData/WD~throwing_weapon,1566976|WD~throwing_weapon,1566976]]'
+- '[[_Standards/WikiData/WD~wood_splitting,2347024|WD~wood_splitting,2347024]]'
+- '[[_Standards/WikiData/WD~axe_murder,4830211|WD~axe_murder,4830211]]'
+- '[[_Standards/WikiData/WD~melee_weapon,5581528|WD~melee_weapon,5581528]]'
+- '[[_Standards/WikiData/WD~hewing,5748404|WD~hewing,5748404]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~hand_tool,2578402]]'
-- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
-- '[[_Standards/WikiData/WD~separation_device,115170682]]'
-different_from: '[[_Standards/WikiData/WD~Topór,26270181]]'
+- '[[_Standards/WikiData/WD~hand_tool,2578402|WD~hand_tool,2578402]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]'
+- '[[_Standards/WikiData/WD~separation_device,115170682|WD~separation_device,115170682]]'
+different_from: '[[_Standards/WikiData/WD~Topór,26270181|WD~Topór,26270181]]'
 GS1_GPC_code: 10003383
 OmegaWiki_Defined_Meaning: 333200
 IMDb_keyword: axe

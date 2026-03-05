@@ -73,15 +73,15 @@ aliases:
 - 인쇄기
 has_id_wikidata: Q144334
 used_by:
-- '[[_Standards/WikiData/WD~printer,175151]]'
-- '[[_Standards/WikiData/WD~book_printer,40881196]]'
-subclass_of: '[[_Standards/WikiData/WD~machine_press,674484]]'
-instance_of: '[[_Standards/WikiData/WD~product,2424752]]'
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_printing_press,113861734]]'
+- '[[_Standards/WikiData/WD~printer,175151|WD~printer,175151]]'
+- '[[_Standards/WikiData/WD~book_printer,40881196|WD~book_printer,40881196]]'
+subclass_of: '[[_Standards/WikiData/WD~machine_press,674484|WD~machine_press,674484]]'
+instance_of: '[[_Standards/WikiData/WD~product,2424752|WD~product,2424752]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_printing_press,113861734|WD~history_of_printing_press,113861734]]'
 time_of_discovery_or_invention: 1439-01-01T00:00:00Z
-location_of_creation: '[[_Standards/WikiData/WD~Strasbourg,6602]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Johannes_Gutenberg,8958]]'
+location_of_creation: '[[_Standards/WikiData/WD~Strasbourg,6602|WD~Strasbourg,6602]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Johannes_Gutenberg,8958|WD~Johannes_Gutenberg,8958]]'
 Nomenclature_for_Museum_Cataloging: 11116
 Commons_category: Printing presses
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2009-04-18-noerdlingen-rr-36.jpg

@@ -28,18 +28,18 @@ aliases:
 - 래그타임
 has_id_wikidata: Q185652
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~musical_form,862597]]'
-different_from: '[[_Standards/WikiData/WD~raga,216926]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_form,862597|WD~musical_form,862597]]'
+different_from: '[[_Standards/WikiData/WD~raga,216926|WD~raga,216926]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~popular_music,373342]]'
-- '[[_Standards/WikiData/WD~parlour_music,7139128]]'
-- '[[_Standards/WikiData/WD~music_of_North_America,107718737]]'
-has_list: '[[_Standards/WikiData/WD~list_of_ragtime_composers,767967]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+- '[[_Standards/WikiData/WD~popular_music,373342|WD~popular_music,373342]]'
+- '[[_Standards/WikiData/WD~parlour_music,7139128|WD~parlour_music,7139128]]'
+- '[[_Standards/WikiData/WD~music_of_North_America,107718737|WD~music_of_North_America,107718737]]'
+has_list: '[[_Standards/WikiData/WD~list_of_ragtime_composers,767967|WD~list_of_ragtime_composers,767967]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
 inception: 1890-01-01T00:00:00Z
-uses: '[[_Standards/WikiData/WD~piano,5994]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+uses: '[[_Standards/WikiData/WD~piano,5994|WD~piano,5994]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 Commons_category: Ragtime
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cake%20walk%201903%2C%2010%20seconds.gif
 audio:

@@ -11,7 +11,7 @@ tags:
 type: Country
 dv_has_name_en: Akrotiri and Dhekelia
 dv_has_name_de: Akrotiri und Dhekelia (Zypern)
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: "[[../../Europe|Europe]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia|Akrotiri_and_Dhekelia]]"

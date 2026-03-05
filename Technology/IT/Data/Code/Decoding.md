@@ -16,8 +16,8 @@ aliases:
 - فك الترميز (السيميائية)
 - 解码
 has_id_wikidata: Q5249529
-subclass_of: '[[_Standards/WikiData/WD~process,205663]]'
-opposite_of: '[[_Standards/WikiData/WD~encoding,5375490]]'
+subclass_of: '[[_Standards/WikiData/WD~process,205663|WD~process,205663]]'
+opposite_of: '[[_Standards/WikiData/WD~encoding,5375490|WD~encoding,5375490]]'
 dv_has_:
   name_:
     ar: فك الترميز (السيميائية)
@@ -40,7 +40,7 @@ dv_has_:
 
 # [[Decoding]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~decoding,5249529]] 
+#is_/same_as :: [[_Standards/WikiData/WD~decoding,5249529|WD~decoding,5249529]] 
 
 ## #has_/text_of_/abstract 
 

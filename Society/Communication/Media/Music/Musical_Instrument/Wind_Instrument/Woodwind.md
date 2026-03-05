@@ -63,10 +63,10 @@ aliases:
 - 木管樂器
 - 목관악기
 has_id_wikidata: Q181247
-subclass_of: '[[_Standards/WikiData/WD~wind_instrument,173453]]'
-instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
-used_by: '[[_Standards/WikiData/WD~woodwind_instrument_player,25616474]]'
-described_by_source: "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+subclass_of: '[[_Standards/WikiData/WD~wind_instrument,173453|WD~wind_instrument,173453]]'
+instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773|WD~family_of_musical_instruments,1254773]]'
+used_by: '[[_Standards/WikiData/WD~woodwind_instrument_player,25616474|WD~woodwind_instrument_player,25616474]]'
+described_by_source: "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
 Nomenclature_for_Museum_Cataloging: 10822
 Dewey_Decimal_Classification:
 - 788.2

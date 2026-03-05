@@ -79,24 +79,24 @@ aliases:
 - 상징
 has_id_wikidata: Q80071
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~representation,1272626]]'
-- '[[_Standards/WikiData/WD~sign,3695082]]'
-part_of: '[[_Standards/WikiData/WD~notation,2001982]]'
+- '[[_Standards/WikiData/WD~representation,1272626|WD~representation,1272626]]'
+- '[[_Standards/WikiData/WD~sign,3695082|WD~sign,3695082]]'
+part_of: '[[_Standards/WikiData/WD~notation,2001982|WD~notation,2001982]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~sign,3695082]]'
-- '[[_Standards/WikiData/WD~0411,11634359]]'
-has_cause: '[[_Standards/WikiData/WD~symbolism,4419563]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_symbol,77251048]]'
+- '[[_Standards/WikiData/WD~sign,3695082|WD~sign,3695082]]'
+- '[[_Standards/WikiData/WD~0411,11634359|WD~0411,11634359]]'
+has_cause: '[[_Standards/WikiData/WD~symbolism,4419563|WD~symbolism,4419563]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_symbol,77251048|WD~Template_Infobox_symbol,77251048]]'
 Wikidata_property:
 - official symbol
 - code
 - symbolizes
 - code (image)
 - has graphical element
-studied_by: '[[_Standards/WikiData/WD~semiotics,60195]]'
+studied_by: '[[_Standards/WikiData/WD~semiotics,60195|WD~semiotics,60195]]'
 ISO_15924_numeric_code: 996
 Dewey_Decimal_Classification:
 - 753

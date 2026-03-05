@@ -58,9 +58,9 @@ aliases:
 - 偏微分方程式
 - 편미분 방정식
 has_id_wikidata: Q271977
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-subclass_of: '[[_Standards/WikiData/WD~differential_equation,11214]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+subclass_of: '[[_Standards/WikiData/WD~differential_equation,11214|WD~differential_equation,11214]]'
 Commons_category: Partial differential equations
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Heat.gif
 Stack_Exchange_tag:

@@ -26,7 +26,7 @@ tags:
 title: is_a_delivery_method Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Delivery_Method|Delivery_Method]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Delivery_Method.personal|Delivery_Method.personal]]"
     - "[[/_secret/schema-org/Enumeration/Delivery_Method.secret|Delivery_Method.secret]]"
     - "[[Delivery_Method]]"
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Delivery_Method]]"
   - "[[/_public/schema-org/Enumeration/Delivery_Method.public|Delivery_Method.public]]"

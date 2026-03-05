@@ -55,25 +55,25 @@ aliases:
 - 세
 has_id_wikidata: Q754897
 described_by_source:
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
 different_from:
-- '[[_Standards/WikiData/WD~epoch,507810]]'
-- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,507810|WD~epoch,507810]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~subepoch,131461914]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~subepoch,131461914|WD~subepoch,131461914]]'
 part_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~subperiod,2239359]]'
-standards_body: '[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~subperiod,2239359|WD~subperiod,2239359]]'
+standards_body: '[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104|WD~International_Commission_on_Stratigraphy,402104]]'
 studied_by:
-- '[[_Standards/WikiData/WD~geochronology,213891]]'
-- '[[_Standards/WikiData/WD~stratigraphy,134783]]'
+- '[[_Standards/WikiData/WD~geochronology,213891|WD~geochronology,213891]]'
+- '[[_Standards/WikiData/WD~stratigraphy,134783|WD~stratigraphy,134783]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~geochronological_unit,4005761]]'
-- '[[_Standards/WikiData/WD~unit_of_time,1790144]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Geological_epoch,87077373]]'
+- '[[_Standards/WikiData/WD~geochronological_unit,4005761|WD~geochronological_unit,4005761]]'
+- '[[_Standards/WikiData/WD~unit_of_time,1790144|WD~unit_of_time,1790144]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Geological_epoch,87077373|WD~Template_Geological_epoch,87077373]]'
 dv_is_:
   part_of: '[[../geo~Periods|geo~Periods]]'
   same_as:
@@ -146,9 +146,9 @@ dv_has_:
     yue: 世
     zh: 世 (地质学)
     zh-hant: 世 (地質學)
-  parts: '[[geo~Epoch/geo~Ages]]'
+  parts: '[[geo~Epoch/geo~Ages|geo~Ages]]'
 dv_is_part_of: '[[../geo~Periods|geo~Periods]]'
-dv_has_parts: '[[geo~Epoch/geo~Ages]]'
+dv_has_parts: '[[geo~Epoch/geo~Ages|geo~Ages]]'
 dv_is_same_as:
 - '[[../../../../WikiData/WD~Epoch,754897|WD~Epoch,754897]]'
 - '[[/_Standards/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch|geo~Epoch]]'

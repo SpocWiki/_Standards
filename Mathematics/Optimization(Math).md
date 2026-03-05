@@ -65,16 +65,16 @@ aliases:
 - 수학적 최적화
 - 최량화방법
 has_id_wikidata: Q141495
-is_the_study_of: '[[_Standards/WikiData/WD~optimization_problem,984063]]'
+is_the_study_of: '[[_Standards/WikiData/WD~optimization_problem,984063|WD~optimization_problem,984063]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~mathematical_programming,10578306]]'
-- '[[_Standards/WikiData/WD~optimization,24476018]]'
-instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-part_of: '[[_Standards/WikiData/WD~algorithmics,13636890]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Major_subfields_of_optimization,20352240]]'
-subclass_of: '[[_Standards/WikiData/WD~optimization,24476018]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-studied_by: '[[_Standards/WikiData/WD~applied_mathematics,33521]]'
+- '[[_Standards/WikiData/WD~mathematical_programming,10578306|WD~mathematical_programming,10578306]]'
+- '[[_Standards/WikiData/WD~optimization,24476018|WD~optimization,24476018]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+part_of: '[[_Standards/WikiData/WD~algorithmics,13636890|WD~algorithmics,13636890]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Major_subfields_of_optimization,20352240|WD~Template_Major_subfields_of_optimization,20352240]]'
+subclass_of: '[[_Standards/WikiData/WD~optimization,24476018|WD~optimization,24476018]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+studied_by: '[[_Standards/WikiData/WD~applied_mathematics,33521|WD~applied_mathematics,33521]]'
 OmegaWiki_Defined_Meaning: 687670
 Commons_category: Optimization
 Library_of_Congress_Classification: QA402.5-QA402.6

@@ -50,30 +50,30 @@ aliases:
 - 戰爭法
 - 전시국제법
 has_id_wikidata: Q6833880
-based_on: '[[_Standards/WikiData/WD~treaty,131569]]'
+based_on: '[[_Standards/WikiData/WD~treaty,131569|WD~treaty,131569]]'
 main_subject:
-- '[[_Standards/WikiData/WD~prisoner_of_war,179637]]'
-- '[[_Standards/WikiData/WD~declaration_of_war,334516]]'
-- '[[_Standards/WikiData/WD~proportionality,603959]]'
-- '[[_Standards/WikiData/WD~surrender,3769366]]'
-- '[[_Standards/WikiData/WD~distinction,5282964]]'
-- '[[_Standards/WikiData/WD~military_necessity,6857704]]'
-- '[[_Standards/WikiData/WD~weapon,728]]'
-has_characteristic: '[[_Standards/WikiData/WD~universal_jurisdiction,928801]]'
+- '[[_Standards/WikiData/WD~prisoner_of_war,179637|WD~prisoner_of_war,179637]]'
+- '[[_Standards/WikiData/WD~declaration_of_war,334516|WD~declaration_of_war,334516]]'
+- '[[_Standards/WikiData/WD~proportionality,603959|WD~proportionality,603959]]'
+- '[[_Standards/WikiData/WD~surrender,3769366|WD~surrender,3769366]]'
+- '[[_Standards/WikiData/WD~distinction,5282964|WD~distinction,5282964]]'
+- '[[_Standards/WikiData/WD~military_necessity,6857704|WD~military_necessity,6857704]]'
+- '[[_Standards/WikiData/WD~weapon,728|WD~weapon,728]]'
+has_characteristic: '[[_Standards/WikiData/WD~universal_jurisdiction,928801|WD~universal_jurisdiction,928801]]'
 has_goal:
-- '[[_Standards/WikiData/WD~peace_process,1456892]]'
-- '[[_Standards/WikiData/WD~protection,2251595]]'
-- '[[_Standards/WikiData/WD~limitation,105766481]]'
-instance_of: '[[_Standards/WikiData/WD~area_of_law,1756157]]'
-part_of: '[[_Standards/WikiData/WD~public_international_law,6406743]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~peace_process,1456892|WD~peace_process,1456892]]'
+- '[[_Standards/WikiData/WD~protection,2251595|WD~protection,2251595]]'
+- '[[_Standards/WikiData/WD~limitation,105766481|WD~limitation,105766481]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_law,1756157|WD~area_of_law,1756157]]'
+part_of: '[[_Standards/WikiData/WD~public_international_law,6406743|WD~public_international_law,6406743]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Karabakh_War_1988_1994,16392167]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Karabakh_War_1988_1994,16392167|WD~Karabakh_War_1988_1994,16392167]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~war_law,23996252]]'
-- '[[_Standards/WikiData/WD~war_bill,23997389]]'
-subclass_of: '[[_Standards/WikiData/WD~law,7748]]'
+- '[[_Standards/WikiData/WD~war_law,23996252|WD~war_law,23996252]]'
+- '[[_Standards/WikiData/WD~war_bill,23997389|WD~war_bill,23997389]]'
+subclass_of: '[[_Standards/WikiData/WD~law,7748|WD~law,7748]]'
 Library_of_Congress_Classification: KZ6378-KZ6795
 Commons_category: Laws of war
 dv_has_:

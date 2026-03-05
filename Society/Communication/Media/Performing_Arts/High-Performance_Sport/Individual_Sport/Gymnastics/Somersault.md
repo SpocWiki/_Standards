@@ -29,9 +29,9 @@ aliases:
 - 打關斗
 - 翻筋斗
 has_id_wikidata: Q767472
-instance_of: '[[_Standards/WikiData/WD~gymnastic_element,4942158]]'
-different_from: '[[_Standards/WikiData/WD~Salt_mortal,44873303]]'
-sport: '[[_Standards/WikiData/WD~gymnastics,43450]]'
+instance_of: '[[_Standards/WikiData/WD~gymnastic_element,4942158|WD~gymnastic_element,4942158]]'
+different_from: '[[_Standards/WikiData/WD~Salt_mortal,44873303|WD~Salt_mortal,44873303]]'
+sport: '[[_Standards/WikiData/WD~gymnastics,43450|WD~gymnastics,43450]]'
 Iconclass_notation: 31A2716
 Commons_category: Saltos (floor)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pikefront.JPG

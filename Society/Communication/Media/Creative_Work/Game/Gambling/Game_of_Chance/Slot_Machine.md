@@ -51,18 +51,18 @@ aliases:
 - 角子機
 - 슬롯 머신
 has_id_wikidata: Q33972
-location: '[[_Standards/WikiData/WD~casino,133215]]'
+location: '[[_Standards/WikiData/WD~casino,133215|WD~casino,133215]]'
 instance_of:
-- '[[_Standards/WikiData/WD~lottery,189409]]'
-- '[[_Standards/WikiData/WD~product_category,63981612]]'
-- '[[_Standards/WikiData/WD~game_genre,107551175]]'
-different_from: '[[_Standards/WikiData/WD~pachinko,836661]]'
+- '[[_Standards/WikiData/WD~lottery,189409|WD~lottery,189409]]'
+- '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
+- '[[_Standards/WikiData/WD~game_genre,107551175|WD~game_genre,107551175]]'
+different_from: '[[_Standards/WikiData/WD~pachinko,836661|WD~pachinko,836661]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~appliance,1183543]]'
-- '[[_Standards/WikiData/WD~gambling_machine,4704404]]'
-- '[[_Standards/WikiData/WD~arcade_game,113726751]]'
-- '[[_Standards/WikiData/WD~game,11410]]'
-has_part_s_: '[[_Standards/WikiData/WD~lever,40164]]'
+- '[[_Standards/WikiData/WD~appliance,1183543|WD~appliance,1183543]]'
+- '[[_Standards/WikiData/WD~gambling_machine,4704404|WD~gambling_machine,4704404]]'
+- '[[_Standards/WikiData/WD~arcade_game,113726751|WD~arcade_game,113726751]]'
+- '[[_Standards/WikiData/WD~game,11410|WD~game,11410]]'
+has_part_s_: '[[_Standards/WikiData/WD~lever,40164|WD~lever,40164]]'
 Nomenclature_for_Museum_Cataloging: 14201
 IMDb_keyword: slot-machine
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Spielautomat.ogg

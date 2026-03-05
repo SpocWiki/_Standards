@@ -70,33 +70,33 @@ aliases:
 - 성직자
 has_id_wikidata: Q177826
 different_from:
-- '[[_Standards/WikiData/WD~nobility,134737]]'
-- '[[_Standards/WikiData/WD~Third_Estate,909656]]'
+- '[[_Standards/WikiData/WD~nobility,134737|WD~nobility,134737]]'
+- '[[_Standards/WikiData/WD~Third_Estate,909656|WD~Third_Estate,909656]]'
 instance_of:
-- '[[_Standards/WikiData/WD~social_class,187588]]'
-- '[[_Standards/WikiData/WD~estates_of_the_realm,657326]]'
-- '[[_Standards/WikiData/WD~social_group,874405]]'
-- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-- '[[_Standards/WikiData/WD~religious_group,111252415]]'
-- '[[_Standards/WikiData/WD~estate_of_the_realm,127871326]]'
+- '[[_Standards/WikiData/WD~social_class,187588|WD~social_class,187588]]'
+- '[[_Standards/WikiData/WD~estates_of_the_realm,657326|WD~estates_of_the_realm,657326]]'
+- '[[_Standards/WikiData/WD~social_group,874405|WD~social_group,874405]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~religious_group,111252415|WD~religious_group,111252415]]'
+- '[[_Standards/WikiData/WD~estate_of_the_realm,127871326|WD~estate_of_the_realm,127871326]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~estates_of_the_realm,657326]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~estates_of_the_realm,657326|WD~estates_of_the_realm,657326]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~cleric,2259532]]'
-- '[[_Standards/WikiData/WD~Q56404080,56404080]]'
-- '[[_Standards/WikiData/WD~bishop,29182]]'
+- '[[_Standards/WikiData/WD~cleric,2259532|WD~cleric,2259532]]'
+- '[[_Standards/WikiData/WD~Q56404080,56404080|WD~Q56404080,56404080]]'
+- '[[_Standards/WikiData/WD~bishop,29182|WD~bishop,29182]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_religious_biography,8559680]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_clergy,9630537]]'
-opposite_of: '[[_Standards/WikiData/WD~laity,15407657]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_religious_biography,8559680|WD~Template_Infobox_religious_biography,8559680]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_clergy,9630537|WD~Template_Infobox_clergy,9630537]]'
+opposite_of: '[[_Standards/WikiData/WD~laity,15407657|WD~laity,15407657]]'
 U_S_National_Archives_Identifier: 10640491
 Dewey_Decimal_Classification: 200.92
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Religious%20Leaders%2C%20World%20Economic%20Forum%202009%20Annual%20Meeting.jpg

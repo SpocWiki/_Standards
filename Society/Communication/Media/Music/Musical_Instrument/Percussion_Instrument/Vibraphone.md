@@ -26,8 +26,8 @@ aliases:
 - 颤音琴
 - 비브라폰
 has_id_wikidata: Q206987
-instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
-subclass_of: '[[_Standards/WikiData/WD~musical_instrument,34379]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396|WD~type_of_musical_instrument,110295396]]'
+subclass_of: '[[_Standards/WikiData/WD~musical_instrument,34379|WD~musical_instrument,34379]]'
 Nomenclature_for_Museum_Cataloging: 10766
 U_S_National_Archives_Identifier: 10646599
 Hornbostel_Sachs_classification: 111.222

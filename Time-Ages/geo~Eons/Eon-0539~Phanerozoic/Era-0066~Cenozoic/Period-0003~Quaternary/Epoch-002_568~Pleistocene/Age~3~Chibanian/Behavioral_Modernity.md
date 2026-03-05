@@ -34,14 +34,14 @@ aliases:
   - Cognitive Revolution
 has_id_wikidata: Q2706556
 facet_of:
-  - "[[_Standards/WikiData/WD~human_evolution,83944]]"
-  - "[[_Standards/WikiData/WD~human_behavior,3769299]]"
-  - "[[_Standards/WikiData/WD~evolution_of_human_intelligence,4117055]]"
+  - "[[_Standards/WikiData/WD~human_evolution,83944|WD~human_evolution,83944]]"
+  - "[[_Standards/WikiData/WD~human_behavior,3769299|WD~human_behavior,3769299]]"
+  - "[[_Standards/WikiData/WD~evolution_of_human_intelligence,4117055|WD~evolution_of_human_intelligence,4117055]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~origin_of_language,501032]]"
-  - "[[_Standards/WikiData/WD~origins_of_society,7102639]]"
-has_effect: "[[_Standards/WikiData/WD~cultural_universal,3825100]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+  - "[[_Standards/WikiData/WD~origin_of_language,501032|WD~origin_of_language,501032]]"
+  - "[[_Standards/WikiData/WD~origins_of_society,7102639|WD~origins_of_society,7102639]]"
+has_effect: "[[_Standards/WikiData/WD~cultural_universal,3825100|WD~cultural_universal,3825100]]"
+instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]"
 earliest_date: -50000-01-01T00:00:00Z
 dv_is_:
   same_as:

@@ -42,29 +42,29 @@ aliases:
 - 六分儀
 - 육분의
 has_id_wikidata: Q179430
-replaces: '[[_Standards/WikiData/WD~astrolabe,164992]]'
-used_by: '[[_Standards/WikiData/WD~navigator,254651]]'
+replaces: '[[_Standards/WikiData/WD~astrolabe,164992|WD~astrolabe,164992]]'
+used_by: '[[_Standards/WikiData/WD~navigator,254651|WD~navigator,254651]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Abu_Mahmud_Khojandi,335123]]'
-- '[[_Standards/WikiData/WD~John_Bird,375165]]'
+- '[[_Standards/WikiData/WD~Abu_Mahmud_Khojandi,335123|WD~Abu_Mahmud_Khojandi,335123]]'
+- '[[_Standards/WikiData/WD~John_Bird,375165|WD~John_Bird,375165]]'
 different_from:
-- '[[_Standards/WikiData/WD~Sextant,409461]]'
-- '[[_Standards/WikiData/WD~Sekstant,12151731]]'
-- '[[_Standards/WikiData/WD~Sextante,12400435]]'
-- '[[_Standards/WikiData/WD~Sestante,121335963]]'
+- '[[_Standards/WikiData/WD~Sextant,409461|WD~Sextant,409461]]'
+- '[[_Standards/WikiData/WD~Sekstant,12151731|WD~Sekstant,12151731]]'
+- '[[_Standards/WikiData/WD~Sextante,12400435|WD~Sextante,12400435]]'
+- '[[_Standards/WikiData/WD~Sestante,121335963|WD~Sestante,121335963]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~astronomical_instrument,751997]]'
-- '[[_Standards/WikiData/WD~navigational_instrument,1780422]]'
-- '[[_Standards/WikiData/WD~reflecting_instrument,7307234]]'
+- '[[_Standards/WikiData/WD~astronomical_instrument,751997|WD~astronomical_instrument,751997]]'
+- '[[_Standards/WikiData/WD~navigational_instrument,1780422|WD~navigational_instrument,1780422]]'
+- '[[_Standards/WikiData/WD~reflecting_instrument,7307234|WD~reflecting_instrument,7307234]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
 start_time: 1757-01-01T00:00:00Z
-measures: '[[_Standards/WikiData/WD~angle,11352]]'
+measures: '[[_Standards/WikiData/WD~angle,11352|WD~angle,11352]]'
 Nomenclature_for_Museum_Cataloging: 10160
 Dewey_Decimal_Classification: 522.4
 U_S_National_Archives_Identifier: 10675931

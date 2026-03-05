@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 哈萨克斯坦共和国
 dv_UNTERM_French_Formal: la République du Kazakhstan
 dv_UNTERM_Russian: Казахстан
 dv_UNTERM_Russian_Formal: Республика Казахстан
-dv_Region_Name: '[[../../Asia]]'
+dv_Region_Name: '[[../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Kazakhstan]]'
 dv_Sub-region_Name: '[[Central Asia]]'
 dv_Region: 142
@@ -395,9 +395,9 @@ dv_has_:
 dv_has_name_de: Kasachstan
 dv_Area-Total: 2717300
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Asia]]'
+dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: KZ
-dv_Capital: '[[Kazakhstan/Counties/Astana/City/Astana-City]]'
+dv_Capital: '[[Kazakhstan/Counties/Astana/City/Astana-City|Astana-City]]'
 dv_Alcohol-l: 11
 dv_Language-Id: 469
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
@@ -574,92 +574,92 @@ aliases:
 - 까자흐스딴
 - 카자흐스탄
 has_id_wikidata: Q232
-named_after: '[[_Standards/WikiData/WD~Kazakhs,80040]]'
+named_after: '[[_Standards/WikiData/WD~Kazakhs,80040|WD~Kazakhs,80040]]'
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207]]'
-- '[[_Standards/WikiData/WD~Organization_of_Turkic_States,596850]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783]]'
-- '[[_Standards/WikiData/WD~Central_Asian_Cooperation_Organization,2297670]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693|WD~Collective_Security_Treaty_Organization,318693]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207|WD~Shanghai_Cooperation_Organisation,485207]]'
+- '[[_Standards/WikiData/WD~Organization_of_Turkic_States,596850|WD~Organization_of_Turkic_States,596850]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783|WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783]]'
+- '[[_Standards/WikiData/WD~Central_Asian_Cooperation_Organization,2297670|WD~Central_Asian_Cooperation_Organization,2297670]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779|WD~Commonwealth_of_Independent_States,7779]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
 instance_of:
-- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
-- '[[_Standards/WikiData/WD~unitary_state,179164]]'
-- '[[_Standards/WikiData/WD~transcontinental_country,1323642]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Kazakhstan,131650]]'
+- '[[_Standards/WikiData/WD~landlocked_country,123480|WD~landlocked_country,123480]]'
+- '[[_Standards/WikiData/WD~unitary_state,179164|WD~unitary_state,179164]]'
+- '[[_Standards/WikiData/WD~transcontinental_country,1323642|WD~transcontinental_country,1323642]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Kazakhstan,131650|WD~flag_of_Kazakhstan,131650]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Baikonur,165413]]'
-- '[[_Standards/WikiData/WD~Almaty_Region,186466]]'
-- '[[_Standards/WikiData/WD~Mangystau_Region,238931]]'
-- '[[_Standards/WikiData/WD~Atyrau_Region,427658]]'
-- '[[_Standards/WikiData/WD~Akmola_Region,485056]]'
-- '[[_Standards/WikiData/WD~North_Kazakhstan_Region,485088]]'
-- '[[_Standards/WikiData/WD~Kyzylorda_Region,485322]]'
-- '[[_Standards/WikiData/WD~Karaganda_Region,485429]]'
-- '[[_Standards/WikiData/WD~Aktobe_Region,485437]]'
-- '[[_Standards/WikiData/WD~Shymkent,485496]]'
-- '[[_Standards/WikiData/WD~Kostanay_Region,485605]]'
-- '[[_Standards/WikiData/WD~West_Kazakhstan_Region,486007]]'
-- '[[_Standards/WikiData/WD~Pavlodar_Region,486144]]'
-- '[[_Standards/WikiData/WD~Jambyl_Region,486657]]'
-- '[[_Standards/WikiData/WD~Turkistan_Region,815330]]'
-- '[[_Standards/WikiData/WD~Astana,1520]]'
-- '[[_Standards/WikiData/WD~Almaty,35493]]'
-- '[[_Standards/WikiData/WD~East_Kazakhstan_Region,36156]]'
+- '[[_Standards/WikiData/WD~Baikonur,165413|WD~Baikonur,165413]]'
+- '[[_Standards/WikiData/WD~Almaty_Region,186466|WD~Almaty_Region,186466]]'
+- '[[_Standards/WikiData/WD~Mangystau_Region,238931|WD~Mangystau_Region,238931]]'
+- '[[_Standards/WikiData/WD~Atyrau_Region,427658|WD~Atyrau_Region,427658]]'
+- '[[_Standards/WikiData/WD~Akmola_Region,485056|WD~Akmola_Region,485056]]'
+- '[[_Standards/WikiData/WD~North_Kazakhstan_Region,485088|WD~North_Kazakhstan_Region,485088]]'
+- '[[_Standards/WikiData/WD~Kyzylorda_Region,485322|WD~Kyzylorda_Region,485322]]'
+- '[[_Standards/WikiData/WD~Karaganda_Region,485429|WD~Karaganda_Region,485429]]'
+- '[[_Standards/WikiData/WD~Aktobe_Region,485437|WD~Aktobe_Region,485437]]'
+- '[[_Standards/WikiData/WD~Shymkent,485496|WD~Shymkent,485496]]'
+- '[[_Standards/WikiData/WD~Kostanay_Region,485605|WD~Kostanay_Region,485605]]'
+- '[[_Standards/WikiData/WD~West_Kazakhstan_Region,486007|WD~West_Kazakhstan_Region,486007]]'
+- '[[_Standards/WikiData/WD~Pavlodar_Region,486144|WD~Pavlodar_Region,486144]]'
+- '[[_Standards/WikiData/WD~Jambyl_Region,486657|WD~Jambyl_Region,486657]]'
+- '[[_Standards/WikiData/WD~Turkistan_Region,815330|WD~Turkistan_Region,815330]]'
+- '[[_Standards/WikiData/WD~Astana,1520|WD~Astana,1520]]'
+- '[[_Standards/WikiData/WD~Almaty,35493|WD~Almaty,35493]]'
+- '[[_Standards/WikiData/WD~East_Kazakhstan_Region,36156|WD~East_Kazakhstan_Region,36156]]'
 replaces:
-- '[[_Standards/WikiData/WD~Kazakh_Soviet_Socialist_Republic,168811]]'
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-coat_of_arms: '[[_Standards/WikiData/WD~emblem_of_Kazakhstan,182404]]'
-head_of_state: '[[_Standards/WikiData/WD~Kassym-Jomart_Tokayev,200881]]'
-twinned_administrative_body: '[[_Standards/WikiData/WD~Toyota,201117]]'
-highest_point: '[[_Standards/WikiData/WD~Khan_Tengri,211529]]'
-lowest_point: '[[_Standards/WikiData/WD~Karagiye,378582]]'
-anthem: '[[_Standards/WikiData/WD~Menıñ_Qazaqstanym,754928]]'
+- '[[_Standards/WikiData/WD~Kazakh_Soviet_Socialist_Republic,168811|WD~Kazakh_Soviet_Socialist_Republic,168811]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+coat_of_arms: '[[_Standards/WikiData/WD~emblem_of_Kazakhstan,182404|WD~emblem_of_Kazakhstan,182404]]'
+head_of_state: '[[_Standards/WikiData/WD~Kassym-Jomart_Tokayev,200881|WD~Kassym-Jomart_Tokayev,200881]]'
+twinned_administrative_body: '[[_Standards/WikiData/WD~Toyota,201117|WD~Toyota,201117]]'
+highest_point: '[[_Standards/WikiData/WD~Khan_Tengri,211529|WD~Khan_Tengri,211529]]'
+lowest_point: '[[_Standards/WikiData/WD~Karagiye,378582|WD~Karagiye,378582]]'
+anthem: '[[_Standards/WikiData/WD~Menıñ_Qazaqstanym,754928|WD~Menıñ_Qazaqstanym,754928]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Kazakhstan,1129461]]'
+- '[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Kazakhstan,1129461|WD~history_of_Kazakhstan,1129461]]'
 located_in_on_physical_feature:
-- '[[_Standards/WikiData/WD~Soviet_Central_Asia,1211919]]'
-- '[[_Standards/WikiData/WD~Central_Asia,27275]]'
+- '[[_Standards/WikiData/WD~Soviet_Central_Asia,1211919|WD~Soviet_Central_Asia,1211919]]'
+- '[[_Standards/WikiData/WD~Central_Asia,27275|WD~Central_Asia,27275]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Kazakhstan,1800196]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Kazakhstan,2354571]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Kazakhstan,2416315]]'
-central_bank: '[[_Standards/WikiData/WD~National_Bank_of_Kazakhstan,2472280]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Kazakhstan,2472329]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Kazakhstan,2561201]]'
-legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Kazakhstan,2995409]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_Kazakhstan,3814905]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Kazakhstan,5256775]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Kazakhstan,7112321]]'
-category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q7981833,7981833]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Kazakhstan_topics,8739023]]'
+- '[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075|WD~TASS_Encyclopedia,63985075]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Kazakhstan,1800196|WD~geography_of_Kazakhstan,1800196]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Kazakhstan,2354571|WD~economy_of_Kazakhstan,2354571]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Kazakhstan,2416315|WD~Prime_Minister_of_Kazakhstan,2416315]]'
+central_bank: '[[_Standards/WikiData/WD~National_Bank_of_Kazakhstan,2472280|WD~National_Bank_of_Kazakhstan,2472280]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Kazakhstan,2472329|WD~demographics_of_Kazakhstan,2472329]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Kazakhstan,2561201|WD~culture_of_Kazakhstan,2561201]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Kazakhstan,2995409|WD~Parliament_of_Kazakhstan,2995409]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Kazakhstan,3814905|WD~Government_of_Kazakhstan,3814905]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Kazakhstan,5256775|WD~President_of_Kazakhstan,5256775]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Kazakhstan,7112321|WD~outline_of_Kazakhstan,7112321]]'
+category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q7981833,7981833|WD~Q7981833,7981833]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Kazakhstan_topics,8739023|WD~Template_Kazakhstan_topics,8739023]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Kazakhstan.map
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Kazakhstan%20%28orthographic%20projection%29.svg
 winter_view:
@@ -730,19 +730,19 @@ short_name:
 - 哈萨克斯坦
 - "\U0001F1F0\U0001F1FF"
 - Казахстан
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kazakhstan,10815240]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kazakhstan,10815240|WD~Portal_Kazakhstan,10815240]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q25161692,25161692]]'
-- '[[_Standards/WikiData/WD~Q49140319,49140319]]'
+- '[[_Standards/WikiData/WD~Q25161692,25161692|WD~Q25161692,25161692]]'
+- '[[_Standards/WikiData/WD~Q49140319,49140319|WD~Q49140319,49140319]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~101,25648794]]'
-- '[[_Standards/WikiData/WD~102,25648798]]'
-- '[[_Standards/WikiData/WD~103,25648811]]'
-has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
-head_of_government: '[[_Standards/WikiData/WD~Älihan_Smaiylov,56825894]]'
-open_data_portal: '[[_Standards/WikiData/WD~Open_Data_Kazakstan,97062138]]'
+- '[[_Standards/WikiData/WD~101,25648794|WD~101,25648794]]'
+- '[[_Standards/WikiData/WD~102,25648798|WD~102,25648798]]'
+- '[[_Standards/WikiData/WD~103,25648811|WD~103,25648811]]'
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]'
+head_of_government: '[[_Standards/WikiData/WD~Älihan_Smaiylov,56825894|WD~Älihan_Smaiylov,56825894]]'
+open_data_portal: '[[_Standards/WikiData/WD~Open_Data_Kazakstan,97062138|WD~Open_Data_Kazakstan,97062138]]'
 coordinates_of_southernmost_point: Point(68.583611111 40.568888888)
 UMLS_CUI: C0022537
 nominal_GDP:
@@ -755,56 +755,56 @@ MeSH_tree_code:
 - Z01.542.931.440
 - Z01.586.950.440
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-- '[[_Standards/WikiData/WD~Armenia,399]]'
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~South_Korea,884]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Belarus,184]]'
-- '[[_Standards/WikiData/WD~Ukraine,212]]'
-- '[[_Standards/WikiData/WD~Azerbaijan,227]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
-- '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-capital: '[[_Standards/WikiData/WD~Astana,1520]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+05_00,6806]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]'
+- '[[_Standards/WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+capital: '[[_Standards/WikiData/WD~Astana,1520|WD~Astana,1520]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+05_00,6806|WD~UTC+05_00,6806]]'
 language_used:
-- '[[_Standards/WikiData/WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~Kazakh,9252]]'
-- '[[_Standards/WikiData/WD~Uyghur,13263]]'
-- '[[_Standards/WikiData/WD~Dungan,33050]]'
+- '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Kazakh,9252|WD~Kazakh,9252]]'
+- '[[_Standards/WikiData/WD~Uyghur,13263|WD~Uyghur,13263]]'
+- '[[_Standards/WikiData/WD~Dungan,33050|WD~Dungan,33050]]'
 official_language:
-- '[[_Standards/WikiData/WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~Kazakh,9252]]'
+- '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Kazakh,9252|WD~Kazakh,9252]]'
 part_of:
-- '[[_Standards/WikiData/WD~Central_Asia,27275]]'
-- '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
+- '[[_Standards/WikiData/WD~Central_Asia,27275|WD~Central_Asia,27275]]'
+- '[[_Standards/WikiData/WD~Eastern_Europe,27468|WD~Eastern_Europe,27468]]'
 minimum_temperature_record: -57
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
-country: '[[_Standards/WikiData/WD~Kazakhstan,232]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+country: '[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]'
 unemployment_rate: 4
 VAT_rate: 12
 marriageable_age:
@@ -831,8 +831,8 @@ birth_rate:
 - 21.73
 - 22.76
 top_level_Internet_domain:
-- '[[_Standards/WikiData/WD~.kz,40619]]'
-- '[[_Standards/WikiData/WD~.қаз,48137]]'
+- '[[_Standards/WikiData/WD~.kz,40619|WD~.kz,40619]]'
+- '[[_Standards/WikiData/WD~.қаз,48137|WD~.қаз,48137]]'
 total_fertility_rate: 2.74
 Gini_coefficient: 27.8
 Democracy_Index: 3.08
@@ -856,7 +856,7 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20
 coordinates_of_westernmost_point: Point(46.49431229 48.43352876)
 U_S_National_Archives_Identifier: 10046437
 trunk_prefix: 8
-basic_form_of_government: '[[_Standards/WikiData/WD~presidential_system,49892]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~presidential_system,49892|WD~presidential_system,49892]]'
 life_expectancy: 72.3
 Inequality_adjusted_Human_Development_Index: 0.755
 Human_Development_Index: 0.811
@@ -1015,7 +1015,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Kazakhstan/ReadMe]] 
+[[Kazakhstan/ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1041,7 +1041,7 @@ Capital = `=this.dv_Capital`
 
 ![[Kazakhstan/Emblem_of_Kazakhstan.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Kazakhstan.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Kazakhstan.mp3|Anthem-Kazakhstan.mp3]]
 
 ![[Kazakhstan/Flag_of_Kazakhstan.svg|350]]
 

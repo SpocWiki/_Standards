@@ -82,16 +82,16 @@ aliases:
 - 이집트 신왕국
 has_id_wikidata: Q180568
 capital:
-- '[[_Standards/WikiData/WD~Thebes,101583]]'
-- '[[_Standards/WikiData/WD~Pi_Ramesses,937930]]'
-- '[[_Standards/WikiData/WD~Memphis,5715]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]'
-part_of: '[[_Standards/WikiData/WD~history_of_ancient_Egypt,766876]]'
-instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
-history_of_topic: '[[_Standards/WikiData/WD~Q20380172,20380172]]'
+- '[[_Standards/WikiData/WD~Thebes,101583|WD~Thebes,101583]]'
+- '[[_Standards/WikiData/WD~Pi_Ramesses,937930|WD~Pi_Ramesses,937930]]'
+- '[[_Standards/WikiData/WD~Memphis,5715|WD~Memphis,5715]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131|WD~religion_of_ancient_Egypt,447131]]'
+part_of: '[[_Standards/WikiData/WD~history_of_ancient_Egypt,766876|WD~history_of_ancient_Egypt,766876]]'
+instance_of: '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+history_of_topic: '[[_Standards/WikiData/WD~Q20380172,20380172|WD~Q20380172,20380172]]'
 coordinate_location: Point(30.0 30.0)
 start_time: -1549-01-01T00:00:00Z
-country: '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
+country: '[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Egypt%201450%20BC.svg
 Library_of_Congress_Classification: DT87-DT88.8
 Commons_category: Egyptian New Kingdom
@@ -99,7 +99,7 @@ end_time: -1069-01-01T00:00:00Z
 OpenStreetMap_tag: historic:period=new_kingdom
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~New_Kingdom_of_Egypt,180568]]'
+  - '[[../../../../../../../../WikiData/WD~New_Kingdom_of_Egypt,180568|WD~New_Kingdom_of_Egypt,180568]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077|-1550-New_Kingdom_of_Egypt-1077]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.public|-1550-New_Kingdom_of_Egypt-1077.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.internal|-1550-New_Kingdom_of_Egypt-1077.internal]]'
@@ -108,7 +108,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.personal|-1550-New_Kingdom_of_Egypt-1077.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.secret|-1550-New_Kingdom_of_Egypt-1077.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~New_Kingdom_of_Egypt,180568]]'
+- '[[../../../../../../../../WikiData/WD~New_Kingdom_of_Egypt,180568|WD~New_Kingdom_of_Egypt,180568]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077|-1550-New_Kingdom_of_Egypt-1077]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.public|-1550-New_Kingdom_of_Egypt-1077.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.internal|-1550-New_Kingdom_of_Egypt-1077.internal]]'

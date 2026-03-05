@@ -67,16 +67,16 @@ aliases:
 - 技術嗰歷史
 - 기술의 역사
 has_id_wikidata: Q465352
-partially_coincident_with: '[[_Standards/WikiData/WD~history_of_science_and_technology,2183341]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~history_of_science_and_technology,2183341|WD~history_of_science_and_technology,2183341]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~history_of_science_and_technology,2183341]]'
-- '[[_Standards/WikiData/WD~technology,11016]]'
+- '[[_Standards/WikiData/WD~history_of_science_and_technology,2183341|WD~history_of_science_and_technology,2183341]]'
+- '[[_Standards/WikiData/WD~technology,11016|WD~technology,11016]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_History_of_technology_sidebar,14336149]]'
-- '[[_Standards/WikiData/WD~Template_History_of_technology,20336075]]'
-practiced_by: '[[_Standards/WikiData/WD~historian_of_technology,17486338]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-facet_of: '[[_Standards/WikiData/WD~technology,11016]]'
+- '[[_Standards/WikiData/WD~Template_History_of_technology_sidebar,14336149|WD~Template_History_of_technology_sidebar,14336149]]'
+- '[[_Standards/WikiData/WD~Template_History_of_technology,20336075|WD~Template_History_of_technology,20336075]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_technology,17486338|WD~historian_of_technology,17486338]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~technology,11016|WD~technology,11016]]'
 Dewey_Decimal_Classification: 609
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wheel%20Iran.jpg
 Commons_category: History of technology

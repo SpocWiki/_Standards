@@ -73,19 +73,19 @@ aliases:
 - 원심력
 has_id_wikidata: Q178733
 part_of:
-- '[[_Standards/WikiData/WD~inertia,122508]]'
-- '[[_Standards/WikiData/WD~weight,25288]]'
+- '[[_Standards/WikiData/WD~inertia,122508|WD~inertia,122508]]'
+- '[[_Standards/WikiData/WD~weight,25288|WD~weight,25288]]'
 different_from:
-- '[[_Standards/WikiData/WD~centripetal_force,172881]]'
-- '[[_Standards/WikiData/WD~reactive_centrifugal_force,15087352]]'
-subclass_of: '[[_Standards/WikiData/WD~fictitious_force,212126]]'
+- '[[_Standards/WikiData/WD~centripetal_force,172881|WD~centripetal_force,172881]]'
+- '[[_Standards/WikiData/WD~reactive_centrifugal_force,15087352|WD~reactive_centrifugal_force,15087352]]'
+subclass_of: '[[_Standards/WikiData/WD~fictitious_force,212126|WD~fictitious_force,212126]]'
 has_cause:
-- '[[_Standards/WikiData/WD~non_inertial_reference_frame,829564]]'
-- '[[_Standards/WikiData/WD~centripetal_acceleration,2248131]]'
-- '[[_Standards/WikiData/WD~centrifugal_acceleration,2822921]]'
-- '[[_Standards/WikiData/WD~mass,11423]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~non_inertial_reference_frame,829564|WD~non_inertial_reference_frame,829564]]'
+- '[[_Standards/WikiData/WD~centripetal_acceleration,2248131|WD~centripetal_acceleration,2248131]]'
+- '[[_Standards/WikiData/WD~centrifugal_acceleration,2822921|WD~centrifugal_acceleration,2822921]]'
+- '[[_Standards/WikiData/WD~mass,11423|WD~mass,11423]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Physics,8487193|WD~WikiProject_Physics,8487193]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 quantity_symbol_LaTeX_: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msub><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46D</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">f</mi></mrow></mrow></mrow></msub></mstyle></mrow></math>"
 schematic:

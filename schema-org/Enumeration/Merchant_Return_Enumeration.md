@@ -28,7 +28,7 @@ title: is_a_merchant_return_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration|Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration|Merchant_Return_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Merchant_Return_Enumeration.public|Merchant_Return_Enumeration.public]]"
@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Merchant_Return_Enumeration.secret|Merchant_Return_Enumeration.secret]]"
     - "[[Merchant_Return_Enumeration]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_is_same_as:
   - "[[Merchant_Return_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Merchant_Return_Enumeration.public|Merchant_Return_Enumeration.public]]"

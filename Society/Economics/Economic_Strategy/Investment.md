@@ -78,16 +78,16 @@ aliases:
 - 投资
 - 투자
 has_id_wikidata: Q4290
-practiced_by: '[[_Standards/WikiData/WD~investor,557880]]'
-opposite_of: '[[_Standards/WikiData/WD~divestment,1200733]]'
+practiced_by: '[[_Standards/WikiData/WD~investor,557880|WD~investor,557880]]'
+opposite_of: '[[_Standards/WikiData/WD~divestment,1200733|WD~divestment,1200733]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~purchasing,1369832]]'
-- '[[../../../WikiData/WD~economic_activity,8187769]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~monetary_investment,1499465]]'
+- '[[_Standards/WikiData/WD~purchasing,1369832|WD~purchasing,1369832]]'
+- '[[../../../WikiData/WD~economic_activity,8187769|WD~economic_activity,8187769]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~monetary_investment,1499465|WD~monetary_investment,1499465]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-instance_of: '[[_Standards/WikiData/WD~economic_concept,29028649]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~economic_concept,29028649|WD~economic_concept,29028649]]'
 IAB_code: 410
 U_S_National_Archives_Identifier: 10638702
 subreddit:

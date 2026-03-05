@@ -56,21 +56,21 @@ aliases:
 - 주방 기구
 has_id_wikidata: Q1521410
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~cookware_and_bakeware,154038]]'
-- '[[_Standards/WikiData/WD~kitchen_utensil,3773693]]'
+- '[[_Standards/WikiData/WD~cookware_and_bakeware,154038|WD~cookware_and_bakeware,154038]]'
+- '[[_Standards/WikiData/WD~kitchen_utensil,3773693|WD~kitchen_utensil,3773693]]'
 used_by:
-- '[[_Standards/WikiData/WD~cook,156839]]'
-- '[[_Standards/WikiData/WD~eater,20984678]]'
+- '[[_Standards/WikiData/WD~cook,156839|WD~cook,156839]]'
+- '[[_Standards/WikiData/WD~eater,20984678|WD~eater,20984678]]'
 different_from:
-- '[[_Standards/WikiData/WD~utensil,1310214]]'
-- '[[_Standards/WikiData/WD~kitchen_utensil,3773693]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~culinary_equipment,26037047]]'
-subclass_of: '[[_Standards/WikiData/WD~culinary_equipment,26037047]]'
+- '[[_Standards/WikiData/WD~utensil,1310214|WD~utensil,1310214]]'
+- '[[_Standards/WikiData/WD~kitchen_utensil,3773693|WD~kitchen_utensil,3773693]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~culinary_equipment,26037047|WD~culinary_equipment,26037047]]'
+subclass_of: '[[_Standards/WikiData/WD~culinary_equipment,26037047|WD~culinary_equipment,26037047]]'
 instance_of:
-- '[[_Standards/WikiData/WD~product_category,63981612]]'
-- '[[_Standards/WikiData/WD~type_of_tool,123588392]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Kitchen_Tools,106873454]]'
-part_of: '[[_Standards/WikiData/WD~kitchen,43164]]'
+- '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
+- '[[_Standards/WikiData/WD~type_of_tool,123588392|WD~type_of_tool,123588392]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Kitchen_Tools,106873454|WD~Template_Kitchen_Tools,106873454]]'
+part_of: '[[_Standards/WikiData/WD~kitchen,43164|WD~kitchen,43164]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Judges%27%20Lodgings%202014%20GLAM%20Kitchen%202590c.JPG
 - http://commons.wikimedia.org/wiki/Special:FilePath/Kitchen%20utensils-01.jpg

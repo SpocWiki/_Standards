@@ -33,7 +33,7 @@ version: 2.0
 ---
 
 # Hospital
-This is a kind of [[../FileClass~CivicStructureEmergencyServiceAndMedicalOrganization]]
+This is a kind of [[../FileClass~CivicStructureEmergencyServiceAndMedicalOrganization|FileClass~CivicStructureEmergencyServiceAndMedicalOrganization]]
 
 A hospital.
 
@@ -52,7 +52,7 @@ A medical service available from this provider.
 AvailableService:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalProcedure')"}}
 
 ### HealthcareReportingData
-Indicates data describing a hospital, e.g. a CDC [[CDCPMDRecord]] or as some kind of [[../../../../../../Society/Communication/Media/Creative_Work/Dataset]].
+Indicates data describing a hospital, e.g. a CDC [[CDCPMDRecord]] or as some kind of [[../../../../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]].
 
 HealthcareReportingData:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/CDCPMDRecord')"}}
 

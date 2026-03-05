@@ -40,20 +40,20 @@ aliases:
 - 모차렐라
 has_id_wikidata: Q14088
 subclass_of:
-- '[[_Standards/WikiData/WD~dairy_product,185217]]'
-- '[[_Standards/WikiData/WD~pasta_filata,1412505]]'
-- '[[_Standards/WikiData/WD~Italian_cheese,17315191]]'
-product_certification: '[[_Standards/WikiData/WD~Traditional_speciality_guaranteed,2751813]]'
+- '[[_Standards/WikiData/WD~dairy_product,185217|WD~dairy_product,185217]]'
+- '[[_Standards/WikiData/WD~pasta_filata,1412505|WD~pasta_filata,1412505]]'
+- '[[_Standards/WikiData/WD~Italian_cheese,17315191|WD~Italian_cheese,17315191]]'
+product_certification: '[[_Standards/WikiData/WD~Traditional_speciality_guaranteed,2751813|WD~Traditional_speciality_guaranteed,2751813]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~water_buffalo_milk,7224064]]'
-- "[[_Standards/WikiData/WD~cow's_milk,10988133]]"
+- '[[_Standards/WikiData/WD~water_buffalo_milk,7224064|WD~water_buffalo_milk,7224064]]'
+- "[[_Standards/WikiData/WD~cow's_milk,10988133|WD~cow's_milk,10988133]]"
 location_of_creation:
-- '[[_Standards/WikiData/WD~Lazio,1282]]'
-- '[[_Standards/WikiData/WD~Campania,1438]]'
-- '[[_Standards/WikiData/WD~Molise,1443]]'
-- '[[_Standards/WikiData/WD~Apulia,1447]]'
-instance_of: '[[_Standards/WikiData/WD~cheese,10943]]'
-country_of_origin: '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Lazio,1282|WD~Lazio,1282]]'
+- '[[_Standards/WikiData/WD~Campania,1438|WD~Campania,1438]]'
+- '[[_Standards/WikiData/WD~Molise,1443|WD~Molise,1443]]'
+- '[[_Standards/WikiData/WD~Apulia,1447|WD~Apulia,1447]]'
+instance_of: '[[_Standards/WikiData/WD~cheese,10943|WD~cheese,10943]]'
+country_of_origin: '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
 food_energy: 280
 USDA_NDB_number:
 - 01271

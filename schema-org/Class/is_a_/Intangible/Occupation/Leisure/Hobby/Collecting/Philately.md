@@ -44,26 +44,26 @@ aliases:
 - 集郵學
 - 우취
 has_id_wikidata: Q131026
-subclass_of: '[[_Standards/WikiData/WD~collecting,208165]]'
+subclass_of: '[[_Standards/WikiData/WD~collecting,208165|WD~collecting,208165]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~stamp_dealer,686880]]'
-- '[[_Standards/WikiData/WD~philatelist,1475726]]'
+- '[[_Standards/WikiData/WD~stamp_dealer,686880|WD~stamp_dealer,686880]]'
+- '[[_Standards/WikiData/WD~philatelist,1475726|WD~philatelist,1475726]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~postage_stamp_separation,731790]]'
-- '[[_Standards/WikiData/WD~postal_cover,827026]]'
-- '[[_Standards/WikiData/WD~postal_stationery,1493772]]'
-- '[[_Standards/WikiData/WD~postage_stamp,37930]]'
+- '[[_Standards/WikiData/WD~postage_stamp_separation,731790|WD~postage_stamp_separation,731790]]'
+- '[[_Standards/WikiData/WD~postal_cover,827026|WD~postal_cover,827026]]'
+- '[[_Standards/WikiData/WD~postal_stationery,1493772|WD~postal_stationery,1493772]]'
+- '[[_Standards/WikiData/WD~postage_stamp,37930|WD~postage_stamp,37930]]'
 instance_of:
-- '[[_Standards/WikiData/WD~auxiliary_science_of_history,770723]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~collecting_hobby,12051052]]'
-- '[[_Standards/WikiData/WD~philatelic_term,126286955]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~stamp_collecting,856075]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~auxiliary_science_of_history,770723|WD~auxiliary_science_of_history,770723]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~collecting_hobby,12051052|WD~collecting_hobby,12051052]]'
+- '[[_Standards/WikiData/WD~philatelic_term,126286955|WD~philatelic_term,126286955]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~stamp_collecting,856075|WD~stamp_collecting,856075]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~International_Stamp_Day,1928575]]'
-- '[[_Standards/WikiData/WD~philatelic_collection,3683057]]'
-- '[[_Standards/WikiData/WD~postage_stamp_collection,130570441]]'
+- '[[_Standards/WikiData/WD~International_Stamp_Day,1928575|WD~International_Stamp_Day,1928575]]'
+- '[[_Standards/WikiData/WD~philatelic_collection,3683057|WD~philatelic_collection,3683057]]'
+- '[[_Standards/WikiData/WD~postage_stamp_collection,130570441|WD~postage_stamp_collection,130570441]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chilean%20stamp%20album%20and%20catalogue%2C%20and%20a%20magnifying%20glass.jpg
 UMLS_CUI:
 - C0031528
@@ -73,7 +73,7 @@ MeSH_tree_code: K01.093.660
 Commons_category: Philately
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Philately,131026]]'
+  - '[[../../../../../../../../WikiData/WD~Philately,131026|WD~Philately,131026]]'
   - '[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately|Philately]]'
   - '[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.public|Philately.public]]'
   - '[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.internal|Philately.internal]]'
@@ -83,7 +83,7 @@ dv_is_:
   - '[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.secret|Philately.secret]]'
   - '[[Philately]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Philately,131026]]'
+- '[[../../../../../../../../WikiData/WD~Philately,131026|WD~Philately,131026]]'
 - '[[Philately]]'
 - '[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.public|Philately.public]]'
 - '[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.internal|Philately.internal]]'

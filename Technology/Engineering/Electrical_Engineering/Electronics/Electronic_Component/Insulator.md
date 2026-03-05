@@ -70,16 +70,16 @@ aliases:
 - 绝缘体
 - 절연체
 has_id_wikidata: Q178150
-opposite_of: '[[_Standards/WikiData/WD~electrical_conductor,124291]]'
-instance_of: '[[_Standards/WikiData/WD~material,214609]]'
-manifestation_of: '[[_Standards/WikiData/WD~electric_insulation,3155522]]'
-has_characteristic: '[[_Standards/WikiData/WD~electric_insulation,3155522]]'
-used_by: '[[_Standards/WikiData/WD~electric_insulation,3155522]]'
-subclass_of: '[[_Standards/WikiData/WD~insulator,12767712]]'
+opposite_of: '[[_Standards/WikiData/WD~electrical_conductor,124291|WD~electrical_conductor,124291]]'
+instance_of: '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
+manifestation_of: '[[_Standards/WikiData/WD~electric_insulation,3155522|WD~electric_insulation,3155522]]'
+has_characteristic: '[[_Standards/WikiData/WD~electric_insulation,3155522|WD~electric_insulation,3155522]]'
+used_by: '[[_Standards/WikiData/WD~electric_insulation,3155522|WD~electric_insulation,3155522]]'
+subclass_of: '[[_Standards/WikiData/WD~insulator,12767712|WD~insulator,12767712]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-different_from: '[[_Standards/WikiData/WD~insulator,103895122]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+different_from: '[[_Standards/WikiData/WD~insulator,103895122|WD~insulator,103895122]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CintaAislanteElectricaRojaUnion.jpg
 Common_Procurement_Vocabulary_code: 44111511
 OpenStreetMap_tag: power=insulator

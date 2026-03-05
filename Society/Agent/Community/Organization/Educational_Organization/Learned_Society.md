@@ -68,20 +68,20 @@ aliases:
 - 학회
 has_id_wikidata: Q955824
 subclass_of:
-- '[[_Standards/WikiData/WD~advocacy_group,431603]]'
-- '[[_Standards/WikiData/WD~membership_organization,6815100]]'
-- '[[_Standards/WikiData/WD~scientific_organization,16519632]]'
-- '[[_Standards/WikiData/WD~voluntary_association,48204]]'
+- '[[_Standards/WikiData/WD~advocacy_group,431603|WD~advocacy_group,431603]]'
+- '[[_Standards/WikiData/WD~membership_organization,6815100|WD~membership_organization,6815100]]'
+- '[[_Standards/WikiData/WD~scientific_organization,16519632|WD~scientific_organization,16519632]]'
+- '[[_Standards/WikiData/WD~voluntary_association,48204|WD~voluntary_association,48204]]'
 different_from:
-- '[[_Standards/WikiData/WD~scientific_society,748019]]'
-- '[[_Standards/WikiData/WD~professional_society,1391145]]'
-- '[[_Standards/WikiData/WD~research_institute,31855]]'
+- '[[_Standards/WikiData/WD~scientific_society,748019|WD~scientific_society,748019]]'
+- '[[_Standards/WikiData/WD~professional_society,1391145|WD~professional_society,1391145]]'
+- '[[_Standards/WikiData/WD~research_institute,31855|WD~research_institute,31855]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-has_characteristic: '[[_Standards/WikiData/WD~co_option,966818]]'
-has_list: '[[_Standards/WikiData/WD~list_of_learned_societies,3245174]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~scientific_organization,16519632]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_characteristic: '[[_Standards/WikiData/WD~co_option,966818|WD~co_option,966818]]'
+has_list: '[[_Standards/WikiData/WD~list_of_learned_societies,3245174|WD~list_of_learned_societies,3245174]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~scientific_organization,16519632|WD~scientific_organization,16519632]]'
 properties_for_this_type:
 - inception
 - dissolved, abolished or demolished date

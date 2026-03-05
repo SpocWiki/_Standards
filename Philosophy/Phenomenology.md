@@ -55,22 +55,22 @@ aliases:
 - 현상학
 has_id_wikidata: Q179235
 different_from:
-- '[[_Standards/WikiData/WD~phenomenology,347861]]'
-- '[[_Standards/WikiData/WD~phenomenology,2089603]]'
-is_the_study_of: '[[_Standards/WikiData/WD~phenomenon,483247]]'
+- '[[_Standards/WikiData/WD~phenomenology,347861|WD~phenomenology,347861]]'
+- '[[_Standards/WikiData/WD~phenomenology,2089603|WD~phenomenology,2089603]]'
+is_the_study_of: '[[_Standards/WikiData/WD~phenomenon,483247|WD~phenomenon,483247]]'
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~phenomenology,2089603]]'
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~phenomenology,2089603|WD~phenomenology,2089603]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 instance_of:
-- '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-practiced_by: '[[_Standards/WikiData/WD~phenomenologist,28045801]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q124394249,124394249]]'
-founded_by: '[[_Standards/WikiData/WD~Edmund_Husserl,58586]]'
+- '[[_Standards/WikiData/WD~philosophical_movement,2915955|WD~philosophical_movement,2915955]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~phenomenologist,28045801|WD~phenomenologist,28045801]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q124394249,124394249|WD~Q124394249,124394249]]'
+founded_by: '[[_Standards/WikiData/WD~Edmund_Husserl,58586|WD~Edmund_Husserl,58586]]'
 PhilPapers_topic: phenomenology
 Commons_category: Phenomenology
 BHCL_UUID: 1f879619-08db-4885-9cdf-fc2cce6d3fa8

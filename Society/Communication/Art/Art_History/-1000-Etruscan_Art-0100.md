@@ -39,20 +39,20 @@ aliases:
 - 에트루리아 미술
 has_id_wikidata: Q830331
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~ancient_art,2277510]]'
-- '[[_Standards/WikiData/WD~art_by_humans,31721120]]'
+- '[[_Standards/WikiData/WD~ancient_art,2277510|WD~ancient_art,2277510]]'
+- '[[_Standards/WikiData/WD~art_by_humans,31721120|WD~art_by_humans,31721120]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Etruscan_sculpture,2760651]]'
-- '[[_Standards/WikiData/WD~Etruscan_jewelry,3355917]]'
-- '[[_Standards/WikiData/WD~Etruscan_painting,3374400]]'
-- '[[_Standards/WikiData/WD~Etruscan_architecture,3771791]]'
-part_of: '[[_Standards/WikiData/WD~Etruscan_culture,25571451]]'
-instance_of: '[[_Standards/WikiData/WD~art_by_ethnic_group,120400477]]'
+- '[[_Standards/WikiData/WD~Etruscan_sculpture,2760651|WD~Etruscan_sculpture,2760651]]'
+- '[[_Standards/WikiData/WD~Etruscan_jewelry,3355917|WD~Etruscan_jewelry,3355917]]'
+- '[[_Standards/WikiData/WD~Etruscan_painting,3374400|WD~Etruscan_painting,3374400]]'
+- '[[_Standards/WikiData/WD~Etruscan_architecture,3771791|WD~Etruscan_architecture,3771791]]'
+part_of: '[[_Standards/WikiData/WD~Etruscan_culture,25571451|WD~Etruscan_culture,25571451]]'
+instance_of: '[[_Standards/WikiData/WD~art_by_ethnic_group,120400477|WD~art_by_ethnic_group,120400477]]'
 Commons_category: Etruscan art
 dv_has_:
   name_:

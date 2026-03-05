@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 蒙古国
 dv_UNTERM_French_Formal: la Mongolie
 dv_UNTERM_Russian: Монголия
 dv_UNTERM_Russian_Formal: Монголия
-dv_Region_Name: '[[../../Asia]]'
+dv_Region_Name: '[[../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Mongolia]]'
 dv_Sub-region_Name: '[[Eastern Asia]]'
 dv_Region: 142
@@ -362,9 +362,9 @@ dv_has_:
 dv_has_name_de: Mongolei
 dv_Area-Total: 1565000
 dv_Area-Land: 1566500
-dv_has_place_continent: '[[../../Asia]]'
+dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: MGL
-dv_Capital: '[[Mongolia/Counties/Ulaanbaatar/City/Ulan_Bator]]'
+dv_Capital: '[[Mongolia/Counties/Ulaanbaatar/City/Ulan_Bator|Ulan_Bator]]'
 dv_Alcohol-l: 3.2
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 106.883
@@ -521,9 +521,9 @@ aliases:
 - ꯃꯣꯡꯒꯣꯂꯤꯌꯥ
 - 몽골
 has_id_wikidata: Q711
-anthem: '[[_Standards/WikiData/WD~National_anthem_of_Mongolia,271864]]'
+anthem: '[[_Standards/WikiData/WD~National_anthem_of_Mongolia,271864|WD~National_anthem_of_Mongolia,271864]]'
 area: 1564116
-basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_system,166747]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_system,166747|WD~parliamentary_system,166747]]'
 BHCL_UUID: f6e7b408-a821-443d-bce5-a0013134a2f7
 birth_rate: 20.447
 BTI_Governance_Index:
@@ -546,53 +546,53 @@ BTI_Status_Index:
 - 6.09
 - 6.25
 - 6.29
-capital: '[[_Standards/WikiData/WD~Ulaanbaatar,23430]]'
-category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q19473223,19473223]]'
-central_bank: '[[_Standards/WikiData/WD~Bank_of_Mongolia,1320131]]'
+capital: '[[_Standards/WikiData/WD~Ulaanbaatar,23430|WD~Ulaanbaatar,23430]]'
+category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q19473223,19473223|WD~Q19473223,19473223]]'
+central_bank: '[[_Standards/WikiData/WD~Bank_of_Mongolia,1320131|WD~Bank_of_Mongolia,1320131]]'
 CIVICUS_Monitor_country_entry: mongolia
-coat_of_arms: '[[_Standards/WikiData/WD~Emblem_of_Mongolia,193718]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Emblem_of_Mongolia,193718|WD~Emblem_of_Mongolia,193718]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/State%20emblem%20of%20Mongolia.svg
 Colon_Classification: SG--496
 Commons_category: Mongolia
 Commons_gallery: Монгол улс
 confidential: public
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Zavkhan_Province,167764]]'
-- '[[_Standards/WikiData/WD~Bayan-Ölgii_Province,191792]]'
-- '[[_Standards/WikiData/WD~Uvs_Province,192942]]'
-- '[[_Standards/WikiData/WD~Govi-Altai_Province,192945]]'
-- '[[_Standards/WikiData/WD~Khovd_Province,194098]]'
-- '[[_Standards/WikiData/WD~Dornod_Province,207795]]'
-- '[[_Standards/WikiData/WD~Arkhangai_Province,207809]]'
-- '[[_Standards/WikiData/WD~Bulgan_Province,209774]]'
-- '[[_Standards/WikiData/WD~Dundgovi_Province,211835]]'
-- '[[_Standards/WikiData/WD~Dornogovi_Province,213272]]'
-- '[[_Standards/WikiData/WD~Selenge_Province,234680]]'
-- '[[_Standards/WikiData/WD~Orkhon_Province,234710]]'
-- '[[_Standards/WikiData/WD~Övörkhangai_Province,234713]]'
-- '[[_Standards/WikiData/WD~Ömnögovi_Province,235579]]'
-- '[[_Standards/WikiData/WD~Govisümber_Province,236333]]'
-- '[[_Standards/WikiData/WD~Khentii_Province,239040]]'
-- '[[_Standards/WikiData/WD~Khövsgöl,244788]]'
-- '[[_Standards/WikiData/WD~Sükhbaatar_Province,244804]]'
-- '[[_Standards/WikiData/WD~Töv_Province,276195]]'
-- '[[_Standards/WikiData/WD~Bayankhongor_Province,276200]]'
-- '[[_Standards/WikiData/WD~Darkhan-Uul_Province,18827]]'
-- '[[_Standards/WikiData/WD~Ulaanbaatar,23430]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Zavkhan_Province,167764|WD~Zavkhan_Province,167764]]'
+- '[[_Standards/WikiData/WD~Bayan-Ölgii_Province,191792|WD~Bayan-Ölgii_Province,191792]]'
+- '[[_Standards/WikiData/WD~Uvs_Province,192942|WD~Uvs_Province,192942]]'
+- '[[_Standards/WikiData/WD~Govi-Altai_Province,192945|WD~Govi-Altai_Province,192945]]'
+- '[[_Standards/WikiData/WD~Khovd_Province,194098|WD~Khovd_Province,194098]]'
+- '[[_Standards/WikiData/WD~Dornod_Province,207795|WD~Dornod_Province,207795]]'
+- '[[_Standards/WikiData/WD~Arkhangai_Province,207809|WD~Arkhangai_Province,207809]]'
+- '[[_Standards/WikiData/WD~Bulgan_Province,209774|WD~Bulgan_Province,209774]]'
+- '[[_Standards/WikiData/WD~Dundgovi_Province,211835|WD~Dundgovi_Province,211835]]'
+- '[[_Standards/WikiData/WD~Dornogovi_Province,213272|WD~Dornogovi_Province,213272]]'
+- '[[_Standards/WikiData/WD~Selenge_Province,234680|WD~Selenge_Province,234680]]'
+- '[[_Standards/WikiData/WD~Orkhon_Province,234710|WD~Orkhon_Province,234710]]'
+- '[[_Standards/WikiData/WD~Övörkhangai_Province,234713|WD~Övörkhangai_Province,234713]]'
+- '[[_Standards/WikiData/WD~Ömnögovi_Province,235579|WD~Ömnögovi_Province,235579]]'
+- '[[_Standards/WikiData/WD~Govisümber_Province,236333|WD~Govisümber_Province,236333]]'
+- '[[_Standards/WikiData/WD~Khentii_Province,239040|WD~Khentii_Province,239040]]'
+- '[[_Standards/WikiData/WD~Khövsgöl,244788|WD~Khövsgöl,244788]]'
+- '[[_Standards/WikiData/WD~Sükhbaatar_Province,244804|WD~Sükhbaatar_Province,244804]]'
+- '[[_Standards/WikiData/WD~Töv_Province,276195|WD~Töv_Province,276195]]'
+- '[[_Standards/WikiData/WD~Bayankhongor_Province,276200|WD~Bayankhongor_Province,276200]]'
+- '[[_Standards/WikiData/WD~Darkhan-Uul_Province,18827|WD~Darkhan-Uul_Province,18827]]'
+- '[[_Standards/WikiData/WD~Ulaanbaatar,23430|WD~Ulaanbaatar,23430]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 coordinates_of_easternmost_point: Point(119.9314 46.8476)
 coordinates_of_northernmost_point: Point(98.92 52.15)
 coordinates_of_southernmost_point: Point(105.0065 41.5818)
 coordinates_of_westernmost_point: Point(87.7347 48.8805)
 coordinate_location: Point(105.0 46.0)
-country: '[[_Standards/WikiData/WD~Mongolia,711]]'
+country: '[[_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]'
 country_calling_code: 976
 cssclasses:
 - Country
 Danbooru_tag: mongolia
 death_rate: 5.479
 Democracy_Index: 6.42
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Mongolia,2410187]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Mongolia,2410187|WD~demographics_of_Mongolia,2410187]]'
 demonym:
 - منغولي
 - mongol
@@ -635,53 +635,53 @@ demonym:
 - mongola
 - Mongólach
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification: 2--517
-different_from: '[[_Standards/WikiData/WD~Mongol_heartland,3875368]]'
+different_from: '[[_Standards/WikiData/WD~Mongol_heartland,3875368|WD~Mongol_heartland,3875368]]'
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Singapore,334]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Vietnam,881]]'
-- '[[_Standards/WikiData/WD~Philippines,928]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~Norway,20]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Egypt,79]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
-- '[[_Standards/WikiData/WD~Bulgaria,219]]'
-- '[[_Standards/WikiData/WD~Croatia,224]]'
+- '[[_Standards/WikiData/WD~Singapore,334|WD~Singapore,334]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Vietnam,881|WD~Vietnam,881]]'
+- '[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]'
+- '[[_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]'
+- '[[_Standards/WikiData/WD~Croatia,224|WD~Croatia,224]]'
 draft: false
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Mongolia,384095]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Mongolia,384095|WD~economy_of_Mongolia,384095]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~Type_E,2335536]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536|WD~Type_E,2335536]]'
 elevation_above_sea_level: 1528
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~101,25648794]]'
-- '[[_Standards/WikiData/WD~102,25648798]]'
-- '[[_Standards/WikiData/WD~103,25648811]]'
-- '[[_Standards/WikiData/WD~105,25648856]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_Mongolia,16639003]]'
+- '[[_Standards/WikiData/WD~101,25648794|WD~101,25648794]]'
+- '[[_Standards/WikiData/WD~102,25648798|WD~102,25648798]]'
+- '[[_Standards/WikiData/WD~103,25648811|WD~103,25648811]]'
+- '[[_Standards/WikiData/WD~105,25648856|WD~105,25648856]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Mongolia,16639003|WD~Government_of_Mongolia,16639003]]'
 expiryDate: ''
 female_population:
 - 1626335
@@ -689,21 +689,21 @@ female_population:
 - 1686321
 - 1712979
 FIPS_10_4_countries_and_regions_: MG
-flag: '[[_Standards/WikiData/WD~flag_of_Mongolia,165552]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Mongolia,165552|WD~flag_of_Mongolia,165552]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Mongolia,1775510]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Mongolia,1775510|WD~geography_of_Mongolia,1775510]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:MN.map
 Gini_coefficient: 32.7
 GitHub_topic: mongolia
 GS1_country_code: 865
 Happy_Planet_Index_score: 24.5
 hashtag: Mongolia
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
 has_time_started: 1992-02-12
-head_of_government: '[[_Standards/WikiData/WD~Oyunerdene_Luvsannamsrai,24248226]]'
-head_of_state: '[[_Standards/WikiData/WD~Khurelsukh_Ukhnaa,27058418]]'
-highest_point: '[[_Standards/WikiData/WD~Hüiten_Peak,1091113]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Mongolia,768502]]'
+head_of_government: '[[_Standards/WikiData/WD~Oyunerdene_Luvsannamsrai,24248226|WD~Oyunerdene_Luvsannamsrai,24248226]]'
+head_of_state: '[[_Standards/WikiData/WD~Khurelsukh_Ukhnaa,27058418|WD~Khurelsukh_Ukhnaa,27058418]]'
+highest_point: '[[_Standards/WikiData/WD~Hüiten_Peak,1091113|WD~Hüiten_Peak,1091113]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Mongolia,768502|WD~history_of_Mongolia,768502]]'
 Human_Development_Index: 0.739
 IAB_code: 1357
 icon: flag-mn
@@ -712,9 +712,9 @@ inception: 1992-02-12
 Inequality_adjusted_Human_Development_Index: 0.644
 INSEE_countries_and_foreign_territories_code: 99242
 instance_of:
-- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~landlocked_country,123480|WD~landlocked_country,123480]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 IOC_country_code: MGL
 ISBN_identifier_group:
 - 978-9919
@@ -735,33 +735,33 @@ Languages:
 - mn
 - ru
 language_used:
-- '[[_Standards/WikiData/WD~Southern_Mongolian,3320659]]'
-- '[[_Standards/WikiData/WD~Mongolian_Sign_Language,3915499]]'
-- '[[_Standards/WikiData/WD~Khalkha_Mongolian,6399808]]'
-- '[[_Standards/WikiData/WD~Mongolia_Buriat,12637238]]'
-- '[[_Standards/WikiData/WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~Mongolian,9246]]'
-- '[[_Standards/WikiData/WD~Kazakh,9252]]'
-- '[[_Standards/WikiData/WD~Uyghur,13263]]'
-- '[[_Standards/WikiData/WD~Tuvan,34119]]'
+- '[[_Standards/WikiData/WD~Southern_Mongolian,3320659|WD~Southern_Mongolian,3320659]]'
+- '[[_Standards/WikiData/WD~Mongolian_Sign_Language,3915499|WD~Mongolian_Sign_Language,3915499]]'
+- '[[_Standards/WikiData/WD~Khalkha_Mongolian,6399808|WD~Khalkha_Mongolian,6399808]]'
+- '[[_Standards/WikiData/WD~Mongolia_Buriat,12637238|WD~Mongolia_Buriat,12637238]]'
+- '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Mongolian,9246|WD~Mongolian,9246]]'
+- '[[_Standards/WikiData/WD~Kazakh,9252|WD~Kazakh,9252]]'
+- '[[_Standards/WikiData/WD~Uyghur,13263|WD~Uyghur,13263]]'
+- '[[_Standards/WikiData/WD~Tuvan,34119|WD~Tuvan,34119]]'
 layout: ''
-legislative_body: '[[_Standards/WikiData/WD~State_Great_Khural,1544714]]'
+legislative_body: '[[_Standards/WikiData/WD~State_Great_Khural,1544714|WD~State_Great_Khural,1544714]]'
 Libris_URI: 20dgf94l53xh9bf
 licence_plate_code: MGL
 license: CC BY-SA 4.0
 life_expectancy: 73
 linkTitle: ''
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~East_Asia,27231]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~East_Asia,27231|WD~East_Asia,27231]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Asia_Hovd,4806283]]'
-- '[[_Standards/WikiData/WD~Asia_Choibalsan,4806280]]'
-- '[[_Standards/WikiData/WD~Asia_Ulaanbaatar,4806310]]'
-- '[[_Standards/WikiData/WD~UTC+08_00,6985]]'
+- '[[_Standards/WikiData/WD~Asia_Hovd,4806283|WD~Asia_Hovd,4806283]]'
+- '[[_Standards/WikiData/WD~Asia_Choibalsan,4806280|WD~Asia_Choibalsan,4806280]]'
+- '[[_Standards/WikiData/WD~Asia_Ulaanbaatar,4806310|WD~Asia_Ulaanbaatar,4806310]]'
+- '[[_Standards/WikiData/WD~UTC+08_00,6985|WD~UTC+08_00,6985]]'
 location:
 - 47.9167
 - 106.883
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mongolia%20%28orthographic%20projection%29.svg
-lowest_point: '[[_Standards/WikiData/WD~Hoh_Nuur,20160756]]'
+lowest_point: '[[_Standards/WikiData/WD~Hoh_Nuur,20160756|WD~Hoh_Nuur,20160756]]'
 M49_code: 496
 mains_voltage: 220
 male_population:
@@ -772,34 +772,34 @@ male_population:
 maritime_identification_digits: 457
 marriageable_age: 18
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~COMECON,191582]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~COMECON,191582|WD~COMECON,191582]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535|WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981|WD~ASEAN_Regional_Forum,7886981]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
 MeSH_tree_code: Z01.252.474.651
 mobile_country_code: 428
 motto_text:
 - Go Nomadic, Experience Mongolia
 - Crwydrwch a Phrofwch Mongolia
-named_after: '[[_Standards/WikiData/WD~Mongols,41975]]'
+named_after: '[[_Standards/WikiData/WD~Mongols,41975|WD~Mongols,41975]]'
 native_label:
 - Монгол Улс
 - ᠮᠣᠩᠭᠣᠯ ᠤᠯᠤᠰ
@@ -807,33 +807,33 @@ nominal_GDP:
 - 15286441740
 - 16810883361
 number_of_out_of_school_children: 53090
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Mongolia,903751]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Mongolia,756265]]'
-official_language: '[[_Standards/WikiData/WD~Mongolian,9246]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Mongolia,903751|WD~Prime_Minister_of_Mongolia,903751]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Mongolia,756265|WD~President_of_Mongolia,756265]]'
+official_language: '[[_Standards/WikiData/WD~Mongolian,9246|WD~Mongolian,9246]]'
 official_name:
 - Монгол Улс
 - ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ
-official_observer_status_in_organisation: '[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207]]'
+official_observer_status_in_organisation: '[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207|WD~Shanghai_Cooperation_Organisation,485207]]'
 official_website: https://www.gov.mn/en
 OmegaWiki_Defined_Meaning: 8332
-open_data_portal: '[[_Standards/WikiData/WD~National_Statistics_Office_of_Mongolia,97097225]]'
+open_data_portal: '[[_Standards/WikiData/WD~National_Statistics_Office_of_Mongolia,97097225|WD~National_Statistics_Office_of_Mongolia,97097225]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mongolian%20landscape%20banner.jpg
-part_of: '[[_Standards/WikiData/WD~East_Asia,27231]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828356,22828356]]'
+part_of: '[[_Standards/WikiData/WD~East_Asia,27231|WD~East_Asia,27231]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828356,22828356|WD~Q22828356,22828356]]'
 PM20_geo_code: B99
 population: 3409939
-public_holiday: '[[_Standards/WikiData/WD~Tsagaan_Sar,2340640]]'
+public_holiday: '[[_Standards/WikiData/WD~Tsagaan_Sar,2340640|WD~Tsagaan_Sar,2340640]]'
 publish: true
 publishDate: ''
-replaces: '[[_Standards/WikiData/WD~Chinese_Empire,12060881]]'
+replaces: '[[_Standards/WikiData/WD~Chinese_Empire,12060881|WD~Chinese_Empire,12060881]]'
 rural_population:
 - 1045010
 - 1016826
 - 1032543
 - 1055872
 shares_border_with:
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
 short_name:
 - Mongolei
 - Mongolia
@@ -846,9 +846,9 @@ subreddit: mongolia
 tags:
 - geo/Country
 title: Mongolia
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_First-level_divisions_of_Mongolia,5612146]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mongolia,11232884]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.mn,42873]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_First-level_divisions_of_Mongolia,5612146|WD~Template_First-level_divisions_of_Mongolia,5612146]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mongolia,11232884|WD~Portal_Mongolia,11232884]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mn,42873|WD~.mn,42873]]'
 total_fertility_rate: 1.93
 type: Country
 UIC_alphabetical_country_code: MGL
@@ -861,7 +861,7 @@ urban_population:
 - 2342494
 U_S_National_Archives_Identifier: 10035734
 VAT_rate: 10
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Mongolia,7112366]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Mongolia,7112366|WD~outline_of_Mongolia,7112366]]'
 WIPO_ST_3: MN
 Unicode_character: 🇲🇳
 ---
@@ -943,7 +943,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Mongolia/ReadMe]] 
+[[Mongolia/ReadMe|ReadMe]] 
 
 ## #has_/map  
 

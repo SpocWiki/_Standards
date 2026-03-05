@@ -76,20 +76,20 @@ aliases:
 - 棕櫚油
 - 팜유
 has_id_wikidata: Q231458
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Elaeis_guineensis,165403]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Elaeis_guineensis,165403|WD~Elaeis_guineensis,165403]]'
 instance_of:
-- '[[_Standards/WikiData/WD~mixture,169336]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~mixture,169336|WD~mixture,169336]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~cooking_oil,427457]]'
-- '[[_Standards/WikiData/WD~biocombustible,14515877]]'
+- '[[_Standards/WikiData/WD~cooking_oil,427457|WD~cooking_oil,427457]]'
+- '[[_Standards/WikiData/WD~biocombustible,14515877|WD~biocombustible,14515877]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~palm_kernel_oil,1960534]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Palm_oil,20317779]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_Loves_Cultura_Popular_Brasil_Culinária,116741808]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~palm_kernel_oil,1960534|WD~palm_kernel_oil,1960534]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Palm_oil,20317779|WD~Template_Palm_oil,20317779]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_Loves_Cultura_Popular_Brasil_Culinária,116741808|WD~Wiki_Loves_Cultura_Popular_Brasil_Culinária,116741808]]'
 carbon_footprint: 15.1
 water_footprint: 4971
 USDA_NDB_number: 04055

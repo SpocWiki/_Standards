@@ -115,62 +115,62 @@ aliases:
 - 노트르담 대성당
 has_id_wikidata: Q2981
 instance_of:
-- '[[_Standards/WikiData/WD~minor_basilica,120560]]'
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~Catholic_cathedral,56242215]]'
-made_from_material: '[[_Standards/WikiData/WD~dimension_stone,121649]]'
+- '[[_Standards/WikiData/WD~minor_basilica,120560|WD~minor_basilica,120560]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~Catholic_cathedral,56242215|WD~Catholic_cathedral,56242215]]'
+made_from_material: '[[_Standards/WikiData/WD~dimension_stone,121649|WD~dimension_stone,121649]]'
 significant_event:
-- '[[_Standards/WikiData/WD~consecration,125375]]'
-- '[[_Standards/WikiData/WD~restoration,217102]]'
-- '[[_Standards/WikiData/WD~construction,385378]]'
-- '[[_Standards/WikiData/WD~dedication,1762010]]'
-- '[[_Standards/WikiData/WD~Decretum_De_titulo_Basilicae_Minoris_,133249605]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~île_de_la_Cité,190063]]'
-locations: '[[_Standards/WikiData/WD~île_de_la_Cité,190063]]'
+- '[[_Standards/WikiData/WD~consecration,125375|WD~consecration,125375]]'
+- '[[_Standards/WikiData/WD~restoration,217102|WD~restoration,217102]]'
+- '[[_Standards/WikiData/WD~construction,385378|WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~dedication,1762010|WD~dedication,1762010]]'
+- '[[_Standards/WikiData/WD~Decretum_De_titulo_Basilicae_Minoris_,133249605|WD~Decretum_De_titulo_Basilicae_Minoris_,133249605]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~île_de_la_Cité,190063|WD~île_de_la_Cité,190063]]'
+locations: '[[_Standards/WikiData/WD~île_de_la_Cité,190063|WD~île_de_la_Cité,190063]]'
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~4th_arrondissement_of_Paris,230127]]'
-- '[[_Standards/WikiData/WD~Quartier_Notre_Dame,3413095]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~buttress,331900]]'
+- '[[_Standards/WikiData/WD~4th_arrondissement_of_Paris,230127|WD~4th_arrondissement_of_Paris,230127]]'
+- '[[_Standards/WikiData/WD~Quartier_Notre_Dame,3413095|WD~Quartier_Notre_Dame,3413095]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~buttress,331900|WD~buttress,331900]]'
 architect:
-- '[[_Standards/WikiData/WD~Jean_de_Chelles,374131]]'
-- '[[_Standards/WikiData/WD~Pierre_de_Montreuil,1314747]]'
-- '[[_Standards/WikiData/WD~Raymond_du_Temple,2134288]]'
-- '[[_Standards/WikiData/WD~Pierre_de_Chelles,3387499]]'
-- '[[_Standards/WikiData/WD~Jean_Ravy,16645563]]'
-different_from: '[[_Standards/WikiData/WD~Notre_Dame,568558]]'
-founded_by: '[[_Standards/WikiData/WD~Maurice_de_Sully,727818]]'
-Christian_liturgical_rite: '[[_Standards/WikiData/WD~Roman_Rite,730757]]'
-diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Paris,1242250]]'
+- '[[_Standards/WikiData/WD~Jean_de_Chelles,374131|WD~Jean_de_Chelles,374131]]'
+- '[[_Standards/WikiData/WD~Pierre_de_Montreuil,1314747|WD~Pierre_de_Montreuil,1314747]]'
+- '[[_Standards/WikiData/WD~Raymond_du_Temple,2134288|WD~Raymond_du_Temple,2134288]]'
+- '[[_Standards/WikiData/WD~Pierre_de_Chelles,3387499|WD~Pierre_de_Chelles,3387499]]'
+- '[[_Standards/WikiData/WD~Jean_Ravy,16645563|WD~Jean_Ravy,16645563]]'
+different_from: '[[_Standards/WikiData/WD~Notre_Dame,568558|WD~Notre_Dame,568558]]'
+founded_by: '[[_Standards/WikiData/WD~Maurice_de_Sully,727818|WD~Maurice_de_Sully,727818]]'
+Christian_liturgical_rite: '[[_Standards/WikiData/WD~Roman_Rite,730757|WD~Roman_Rite,730757]]'
+diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Paris,1242250|WD~Roman_Catholic_Archdiocese_of_Paris,1242250]]'
 architectural_style:
-- '[[_Standards/WikiData/WD~French_Gothic_architecture,2245347]]'
-- '[[_Standards/WikiData/WD~Rayonnant,2914850]]'
-- '[[_Standards/WikiData/WD~Early_Gothic_architecture,33247990]]'
-- '[[_Standards/WikiData/WD~classic_gothic,72553961]]'
-located_on_street: '[[_Standards/WikiData/WD~parvis_Notre_Dame_place_Jean_Paul_II,2720522]]'
+- '[[_Standards/WikiData/WD~French_Gothic_architecture,2245347|WD~French_Gothic_architecture,2245347]]'
+- '[[_Standards/WikiData/WD~Rayonnant,2914850|WD~Rayonnant,2914850]]'
+- '[[_Standards/WikiData/WD~Early_Gothic_architecture,33247990|WD~Early_Gothic_architecture,33247990]]'
+- '[[_Standards/WikiData/WD~classic_gothic,72553961|WD~classic_gothic,72553961]]'
+located_on_street: '[[_Standards/WikiData/WD~parvis_Notre_Dame_place_Jean_Paul_II,2720522|WD~parvis_Notre_Dame_place_Jean_Paul_II,2720522]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]'
-owned_by: '[[_Standards/WikiData/WD~French_State,3591845]]'
-heritage_designation: '[[_Standards/WikiData/WD~classified_historical_monument,10387684]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318|WD~Meyer_s_Universum,_Zehnter_Band,132672318]]'
+owned_by: '[[_Standards/WikiData/WD~French_State,3591845|WD~French_State,3591845]]'
+heritage_designation: '[[_Standards/WikiData/WD~classified_historical_monument,10387684|WD~classified_historical_monument,10387684]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~South_rose_window_of_Notre_Dame_de_Paris,63168906]]'
-- '[[_Standards/WikiData/WD~gargoyles_of_Notre_Dame_de_Paris,63169252]]'
-- '[[_Standards/WikiData/WD~spire_of_Notre_Dame_de_Paris,63170328]]'
-- '[[_Standards/WikiData/WD~frame_of_Notre_Dame_de_Paris,63182951]]'
-- '[[_Standards/WikiData/WD~Portail_du_Jugement_Dernier_of_Notre_Dame_de_Paris,63339908]]'
-- '[[_Standards/WikiData/WD~Baroque_chancel_of_Notre_Dame_de_Paris,104713892]]'
-- '[[_Standards/WikiData/WD~Portail_de_la_Vierge_of_Notre_Dame_de_Paris,109228827]]'
-- '[[_Standards/WikiData/WD~Portail_Sainte_Anne_of_Notre_Dame_de_Paris,109228846]]'
-- '[[_Standards/WikiData/WD~west_facade_of_Notre_Dame_de_Paris,131340491]]'
-located_in_the_religious_territorial_entity: '[[_Standards/WikiData/WD~Q125621429,125621429]]'
+- '[[_Standards/WikiData/WD~South_rose_window_of_Notre_Dame_de_Paris,63168906|WD~South_rose_window_of_Notre_Dame_de_Paris,63168906]]'
+- '[[_Standards/WikiData/WD~gargoyles_of_Notre_Dame_de_Paris,63169252|WD~gargoyles_of_Notre_Dame_de_Paris,63169252]]'
+- '[[_Standards/WikiData/WD~spire_of_Notre_Dame_de_Paris,63170328|WD~spire_of_Notre_Dame_de_Paris,63170328]]'
+- '[[_Standards/WikiData/WD~frame_of_Notre_Dame_de_Paris,63182951|WD~frame_of_Notre_Dame_de_Paris,63182951]]'
+- '[[_Standards/WikiData/WD~Portail_du_Jugement_Dernier_of_Notre_Dame_de_Paris,63339908|WD~Portail_du_Jugement_Dernier_of_Notre_Dame_de_Paris,63339908]]'
+- '[[_Standards/WikiData/WD~Baroque_chancel_of_Notre_Dame_de_Paris,104713892|WD~Baroque_chancel_of_Notre_Dame_de_Paris,104713892]]'
+- '[[_Standards/WikiData/WD~Portail_de_la_Vierge_of_Notre_Dame_de_Paris,109228827|WD~Portail_de_la_Vierge_of_Notre_Dame_de_Paris,109228827]]'
+- '[[_Standards/WikiData/WD~Portail_Sainte_Anne_of_Notre_Dame_de_Paris,109228846|WD~Portail_Sainte_Anne_of_Notre_Dame_de_Paris,109228846]]'
+- '[[_Standards/WikiData/WD~west_facade_of_Notre_Dame_de_Paris,131340491|WD~west_facade_of_Notre_Dame_de_Paris,131340491]]'
+located_in_the_religious_territorial_entity: '[[_Standards/WikiData/WD~Q125621429,125621429|WD~Q125621429,125621429]]'
 coordinate_location: Point(2.3498 48.853)
 inception: 1163-01-01T00:00:00Z
-dedicated_to: '[[_Standards/WikiData/WD~Mary,345]]'
-patron_saint: '[[_Standards/WikiData/WD~Mary,345]]'
-named_after: '[[_Standards/WikiData/WD~Mary,345]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
-country: '[[_Standards/WikiData/WD~France,142]]'
+dedicated_to: '[[_Standards/WikiData/WD~Mary,345|WD~Mary,345]]'
+patron_saint: '[[_Standards/WikiData/WD~Mary,345|WD~Mary,345]]'
+named_after: '[[_Standards/WikiData/WD~Mary,345|WD~Mary,345]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 maximum_capacity: 9000
 height:
 - 90
@@ -341,7 +341,7 @@ dv_has_:
 
 # [[Notre-Dame_de_Paris]] 
 
-![[../../../assets/Notre-Dame_de_Paris.png]] 
+![[../../../assets/Notre-Dame_de_Paris.png|Notre-Dame_de_Paris.png]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Notre-Dame_de_Paris,2981|WD~Notre-Dame_de_Paris,2981]] 
 

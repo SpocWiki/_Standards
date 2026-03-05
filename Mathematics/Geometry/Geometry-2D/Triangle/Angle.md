@@ -123,19 +123,19 @@ aliases:
 has_id_wikidata: Q11352
 Commons_category: Angles (geometry)
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- '[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582|WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Dewey_Decimal_Classification: 516.152
 different_from:
-- '[[_Standards/WikiData/WD~Winkel,348650]]'
-- '[[_Standards/WikiData/WD~Angle,2849621]]'
+- '[[_Standards/WikiData/WD~Winkel,348650|WD~Winkel,348650]]'
+- '[[_Standards/WikiData/WD~Angle,2849621|WD~Angle,2849621]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~angular_measure,1357788]]'
+- '[[_Standards/WikiData/WD~angular_measure,1357788|WD~angular_measure,1357788]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~angular_measure,1357788]]'
+- '[[_Standards/WikiData/WD~angular_measure,1357788|WD~angular_measure,1357788]]'
 Iconclass_notation: 49D3212
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coord%20Angle.svg
 ISQ_dimension: >-
@@ -149,20 +149,20 @@ ISQ_dimension: >-
       <annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
     </semantics>
   </math>
-is_invariant_under: '[[_Standards/WikiData/WD~conformal_map,850275]]'
+is_invariant_under: '[[_Standards/WikiData/WD~conformal_map,850275|WD~conformal_map,850275]]'
 Krugosvet_article: matematika/ugly-na-ploskosti-i-ikh-izmerenie
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-notation: '[[_Standards/WikiData/WD~_,87524476]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+notation: '[[_Standards/WikiData/WD~_,87524476|WD~_,87524476]]'
 OmegaWiki_Defined_Meaning: 383175
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%95%E0%A5%8B%E0%A4%A8.wav
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/01-Winkel-1.svg
 Stack_Exchange_tag: https://stackoverflow.com/tags/angle
 studied_in:
-- '[[_Standards/WikiData/WD~theory_of_angles,114717628]]'
+- '[[_Standards/WikiData/WD~theory_of_angles,114717628|WD~theory_of_angles,114717628]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~two-dimensional_object,118870638]]'
-- '[[_Standards/WikiData/WD~geometric_object,123410745]]'
+- '[[_Standards/WikiData/WD~two-dimensional_object,118870638|WD~two-dimensional_object,118870638]]'
+- '[[_Standards/WikiData/WD~geometric_object,123410745|WD~geometric_object,123410745]]'
 Unicode_character: ∠
 dv_has_:
   name_:

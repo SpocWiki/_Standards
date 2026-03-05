@@ -73,11 +73,11 @@ aliases:
 - 량자얽힘
 - 양자 얽힘
 has_id_wikidata: Q215675
-instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-subclass_of: '[[_Standards/WikiData/WD~quantum_information,2122243]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+subclass_of: '[[_Standards/WikiData/WD~quantum_information,2122243|WD~quantum_information,2122243]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x2203;</mi><mo stretchy="false">|</mo><mi>&#x03C8;</mi><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">&#x2208;</mo><mrow data-mjx-texclass="ORD"><mi data-mjx-variant="-tex-calligraphic">ℋ</mi></mrow><mo>,</mo><mo stretchy="false">|</mo><mi>&#x03C7;</mi><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">&#x2208;</mo><msup><mrow data-mjx-texclass="ORD"><mi data-mjx-variant="-tex-calligraphic">ℋ</mi></mrow><mo>&#x2032;</mo></msup><mo stretchy="false">&#x003A;</mo><mo stretchy="false">|</mo><mi mathvariant="normal">&#x03A8;</mi><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">=</mo><mo stretchy="false">|</mo><mi>&#x03C8;</mi><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">&#x2297;</mo><mo stretchy="false">|</mo><mi>&#x03C7;</mi><mo stretchy="false">&#x27E9;</mo></mstyle></mrow></math>
-studied_by: '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
+studied_by: '[[_Standards/WikiData/WD~quantum_mechanics,944|WD~quantum_mechanics,944]]'
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20test%20for%20entangled%20qubits.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Entangled%20spins.svg

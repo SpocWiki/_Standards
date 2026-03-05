@@ -37,7 +37,7 @@ dv_is_:
     - "[[Delete_Action]]"
 dv_has_:
   parent_class:
-    - "[[../UpdateAction]]"
+    - "[[../UpdateAction|UpdateAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
@@ -66,7 +66,7 @@ dv_has_:
     - "[[../../../../Relation/has/has_target/has_target_collection|has_target_collection]]"
     - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../update_action|../update_action]]"
+  - "[[../update_action|../update_action|update_action]]"
 dv_has_properties:
   - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

@@ -69,12 +69,12 @@ aliases:
 - 혼돈 이론
 has_id_wikidata: Q166314
 instance_of:
-- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Chaos_theory,6869505]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-is_the_study_of: '[[_Standards/WikiData/WD~chaotic_system,29413888]]'
-practiced_by: '[[_Standards/WikiData/WD~chaotician,76574329]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918|WD~mathematical_theory,20026918]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Chaos_theory,6869505|WD~Template_Chaos_theory,6869505]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+is_the_study_of: '[[_Standards/WikiData/WD~chaotic_system,29413888|WD~chaotic_system,29413888]]'
+practiced_by: '[[_Standards/WikiData/WD~chaotician,76574329|WD~chaotician,76574329]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Duffing%20oscillator.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lorenz%20system%20r28%20s10%20b2-6666.png
 Stack_Exchange_tag:

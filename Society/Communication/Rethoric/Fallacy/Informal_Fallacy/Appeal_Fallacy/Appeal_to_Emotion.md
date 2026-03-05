@@ -29,11 +29,11 @@ aliases:
 - 감정에 호소하는 논증
 has_id_wikidata: Q2914471
 subclass_of:
-- '[[_Standards/WikiData/WD~fallacy,186150]]'
-- '[[_Standards/WikiData/WD~red_herring,572959]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Appeals_to_emotion,6969956]]'
-described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199]]'
+- '[[_Standards/WikiData/WD~fallacy,186150|WD~fallacy,186150]]'
+- '[[_Standards/WikiData/WD~red_herring,572959|WD~red_herring,572959]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Appeals_to_emotion,6969956|WD~Category_Appeals_to_emotion,6969956]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199|WD~type_of_fallacy,130993199]]'
 dv_has_:
   name_:
     ar: توسل بالعاطفة

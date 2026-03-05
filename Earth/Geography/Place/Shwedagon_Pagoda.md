@@ -70,21 +70,21 @@ aliases:
 - 大金寺
 - 쉐다곤 파고다
 has_id_wikidata: Q464535
-architect: '[[_Standards/WikiData/WD~Hsinbyushin,1395046]]'
-heritage_designation: '[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]'
-different_from: '[[_Standards/WikiData/WD~Shwezigon_Pagoda,2747222]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Dagon_Township,4153965]]'
-instance_of: '[[_Standards/WikiData/WD~Buddhist_temple,5393308]]'
+architect: '[[_Standards/WikiData/WD~Hsinbyushin,1395046|WD~Hsinbyushin,1395046]]'
+heritage_designation: '[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900|WD~Tentative_World_Heritage_Site,1459900]]'
+different_from: '[[_Standards/WikiData/WD~Shwezigon_Pagoda,2747222|WD~Shwezigon_Pagoda,2747222]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Dagon_Township,4153965|WD~Dagon_Township,4153965]]'
+instance_of: '[[_Standards/WikiData/WD~Buddhist_temple,5393308|WD~Buddhist_temple,5393308]]'
 World_Heritage_criteria:
-- '[[_Standards/WikiData/WD~(i),23038972]]'
-- '[[_Standards/WikiData/WD~(iv),23038978]]'
-- '[[_Standards/WikiData/WD~(ii),23038976]]'
-- '[[_Standards/WikiData/WD~(iii),23038977]]'
-- '[[_Standards/WikiData/WD~(vi),23038980]]'
-founded_by: '[[_Standards/WikiData/WD~Myanmar,836]]'
-country: '[[_Standards/WikiData/WD~Myanmar,836]]'
+- '[[_Standards/WikiData/WD~(i),23038972|WD~(i),23038972]]'
+- '[[_Standards/WikiData/WD~(iv),23038978|WD~(iv),23038978]]'
+- '[[_Standards/WikiData/WD~(ii),23038976|WD~(ii),23038976]]'
+- '[[_Standards/WikiData/WD~(iii),23038977|WD~(iii),23038977]]'
+- '[[_Standards/WikiData/WD~(vi),23038980|WD~(vi),23038980]]'
+founded_by: '[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
+country: '[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
 height: 112
-locations: '[[_Standards/WikiData/WD~Yangon,37995]]'
+locations: '[[_Standards/WikiData/WD~Yangon,37995|WD~Yangon,37995]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yangon%20-%20Shwedagon%20Pagoda%2003.jpg
 official_website: http://www.shwedagonpagoda.com.mm/
 Commons_category: Shwedagon pagoda
@@ -156,7 +156,7 @@ dv_has_:
 
 # [[Shwedagon_Pagoda]] 
 
-![[../../../assets/Shwedagon_Pagoda.png]] 
+![[../../../assets/Shwedagon_Pagoda.png|Shwedagon_Pagoda.png]] 
 By <a href="//commons.wikimedia.org/wiki/User:Hintha" title="User:Hintha">Hintha</a>Photo by <a href="https://en.wikipedia.org/wiki/User:Sky89" class="extiw" title="en:User:Sky89">Sky89</a>, Design by <a href="//commons.wikimedia.org/wiki/User:Hintha" title="User:Hintha">Hintha</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=11323623">Link</a>
 
 #is_/same_as :: [[../../../WikiData/WD~Shwedagon_Pagoda,464535|WD~Shwedagon_Pagoda,464535]] 

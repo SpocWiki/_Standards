@@ -64,28 +64,28 @@ aliases:
 - 체
 has_id_wikidata: Q190109
 subclass_of:
-- '[[_Standards/WikiData/WD~vector_space,125977]]'
-- '[[_Standards/WikiData/WD~bialgebra,494141]]'
-- '[[_Standards/WikiData/WD~division_ring,650741]]'
-- '[[_Standards/WikiData/WD~artinian_ring,713084]]'
-- '[[_Standards/WikiData/WD~commutative_ring,858656]]'
-- '[[_Standards/WikiData/WD~Euclidean_domain,867345]]'
-- '[[_Standards/WikiData/WD~simple_ring,2326800]]'
-- '[[_Standards/WikiData/WD~partial_algebra,18386809]]'
-- '[[_Standards/WikiData/WD~field,21406562]]'
+- '[[_Standards/WikiData/WD~vector_space,125977|WD~vector_space,125977]]'
+- '[[_Standards/WikiData/WD~bialgebra,494141|WD~bialgebra,494141]]'
+- '[[_Standards/WikiData/WD~division_ring,650741|WD~division_ring,650741]]'
+- '[[_Standards/WikiData/WD~artinian_ring,713084|WD~artinian_ring,713084]]'
+- '[[_Standards/WikiData/WD~commutative_ring,858656|WD~commutative_ring,858656]]'
+- '[[_Standards/WikiData/WD~Euclidean_domain,867345|WD~Euclidean_domain,867345]]'
+- '[[_Standards/WikiData/WD~simple_ring,2326800|WD~simple_ring,2326800]]'
+- '[[_Standards/WikiData/WD~partial_algebra,18386809|WD~partial_algebra,18386809]]'
+- '[[_Standards/WikiData/WD~field,21406562|WD~field,21406562]]'
 studied_by:
-- '[[_Standards/WikiData/WD~abstract_algebra,159943]]'
-- '[[_Standards/WikiData/WD~category_theory,217413]]'
-- '[[_Standards/WikiData/WD~field_theory,903820]]'
+- '[[_Standards/WikiData/WD~abstract_algebra,159943|WD~abstract_algebra,159943]]'
+- '[[_Standards/WikiData/WD~category_theory,217413|WD~category_theory,217413]]'
+- '[[_Standards/WikiData/WD~field_theory,903820|WD~field_theory,903820]]'
 different_from:
-- '[[_Standards/WikiData/WD~body,170494]]'
-- '[[_Standards/WikiData/WD~field,21406562]]'
+- '[[_Standards/WikiData/WD~body,170494|WD~body,170494]]'
+- '[[_Standards/WikiData/WD~field,21406562|WD~field,21406562]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~abelian_group,181296]]'
-- '[[_Standards/WikiData/WD~element_of_a_field,68023621]]'
-- '[[_Standards/WikiData/WD~ideal,44649]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q17253046,17253046]]'
+- '[[_Standards/WikiData/WD~abelian_group,181296|WD~abelian_group,181296]]'
+- '[[_Standards/WikiData/WD~element_of_a_field,68023621|WD~element_of_a_field,68023621]]'
+- '[[_Standards/WikiData/WD~ideal,44649|WD~ideal,44649]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q17253046,17253046|WD~Q17253046,17253046]]'
 OmegaWiki_Defined_Meaning: 1407739
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Anillo%20c%C3%ADclico.png
 dv_has_:

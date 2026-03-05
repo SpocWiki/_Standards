@@ -65,16 +65,16 @@ aliases:
 - 所羅門海
 - 솔로몬해
 has_id_wikidata: Q199479
-shares_border_with: '[[_Standards/WikiData/WD~South_Pacific_Ocean,12355425]]'
-described_by_source: '[[_Standards/WikiData/WD~Q35541239,35541239]]'
+shares_border_with: '[[_Standards/WikiData/WD~South_Pacific_Ocean,12355425|WD~South_Pacific_Ocean,12355425]]'
+described_by_source: '[[_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]'
 basin_country:
-- '[[_Standards/WikiData/WD~Solomon_Islands,685]]'
-- '[[_Standards/WikiData/WD~Papua_New_Guinea,691]]'
+- '[[_Standards/WikiData/WD~Solomon_Islands,685|WD~Solomon_Islands,685]]'
+- '[[_Standards/WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]'
 country:
-- '[[_Standards/WikiData/WD~Solomon_Islands,685]]'
-- '[[_Standards/WikiData/WD~Papua_New_Guinea,691]]'
-part_of: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
-instance_of: '[[_Standards/WikiData/WD~sea,165]]'
+- '[[_Standards/WikiData/WD~Solomon_Islands,685|WD~Solomon_Islands,685]]'
+- '[[_Standards/WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]'
+part_of: '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
+instance_of: '[[_Standards/WikiData/WD~sea,165|WD~sea,165]]'
 area: 720000
 vertical_depth: 9140
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kennedy%20Island%2C%20Kasolo%20Island%2C%20Pudding%20Plum.JPG

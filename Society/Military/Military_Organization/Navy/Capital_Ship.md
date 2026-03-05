@@ -29,9 +29,9 @@ aliases:
 - 주력함
 has_id_wikidata: Q1194368
 subclass_of:
-- '[[_Standards/WikiData/WD~warship,2031121]]'
-- '[[_Standards/WikiData/WD~ship,11446]]'
-instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
+- '[[_Standards/WikiData/WD~warship,2031121|WD~warship,2031121]]'
+- '[[_Standards/WikiData/WD~ship,11446|WD~ship,11446]]'
+instance_of: '[[_Standards/WikiData/WD~ship_type,2235308|WD~ship_type,2235308]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20DVM%2010%20Bild-23-61-09%2C%20Linienschiff%20%22SMS%20Helgoland%22.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Nav%C3%ADo%20santa%20ana%20de%20112%20ca%C3%B1ones.jpg

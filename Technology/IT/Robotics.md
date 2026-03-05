@@ -57,22 +57,22 @@ aliases:
 - 機械人學
 - 로봇공학
 has_id_wikidata: Q170978
-different_from: '[[_Standards/WikiData/WD~cybernetics,123637]]'
+different_from: '[[_Standards/WikiData/WD~cybernetics,123637|WD~cybernetics,123637]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mechatronics,180165]]'
-- '[[_Standards/WikiData/WD~control_engineering,_mechatronics_and_robotics,113104535]]'
+- '[[_Standards/WikiData/WD~mechatronics,180165|WD~mechatronics,180165]]'
+- '[[_Standards/WikiData/WD~control_engineering,_mechatronics_and_robotics,113104535|WD~control_engineering,_mechatronics_and_robotics,113104535]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-practiced_by: '[[_Standards/WikiData/WD~roboticist,3437279]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_robotics,7112718]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Robotics,7380394]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Robotics,13856993]]'
-part_of: '[[_Standards/WikiData/WD~industrial_sector,8148]]'
-is_the_study_of: '[[_Standards/WikiData/WD~robot,11012]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~roboticist,3437279|WD~roboticist,3437279]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_robotics,7112718|WD~outline_of_robotics,7112718]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Robotics,7380394|WD~Portal_Robotics,7380394]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Robotics,13856993|WD~Template_Robotics,13856993]]'
+part_of: '[[_Standards/WikiData/WD~industrial_sector,8148|WD~industrial_sector,8148]]'
+is_the_study_of: '[[_Standards/WikiData/WD~robot,11012|WD~robot,11012]]'
 IAB_code: 638
 OmegaWiki_Defined_Meaning: 1017307
 ACM_Classification_Code_2012_: 10010554

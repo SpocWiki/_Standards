@@ -41,11 +41,11 @@ aliases:
 - 大地藝術
 - 대지 예술
 has_id_wikidata: Q326478
-subclass_of: '[[_Standards/WikiData/WD~public_art,557141]]'
+subclass_of: '[[_Standards/WikiData/WD~public_art,557141|WD~public_art,557141]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~art_genre,1792379]]'
-practiced_by: '[[_Standards/WikiData/WD~land_artist,33123562]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_genre,1792379|WD~art_genre,1792379]]'
+practiced_by: '[[_Standards/WikiData/WD~land_artist,33123562|WD~land_artist,33123562]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Spiral-jetty-from-rozel-point.png
 Commons_category: Land art
 Commons_gallery: Land Art

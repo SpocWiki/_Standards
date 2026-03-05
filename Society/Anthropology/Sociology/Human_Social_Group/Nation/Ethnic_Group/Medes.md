@@ -70,21 +70,21 @@ aliases:
 - 메디아
 has_id_wikidata: Q8735
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Mithraic_mysteries,219903]]'
-- '[[_Standards/WikiData/WD~Ancient_Iranian_religion,5959447]]'
-- '[[_Standards/WikiData/WD~Zoroastrianism,9601]]'
-significant_person: '[[_Standards/WikiData/WD~Deioces,332578]]'
+- '[[_Standards/WikiData/WD~Mithraic_mysteries,219903|WD~Mithraic_mysteries,219903]]'
+- '[[_Standards/WikiData/WD~Ancient_Iranian_religion,5959447|WD~Ancient_Iranian_religion,5959447]]'
+- '[[_Standards/WikiData/WD~Zoroastrianism,9601|WD~Zoroastrianism,9601]]'
+significant_person: '[[_Standards/WikiData/WD~Deioces,332578|WD~Deioces,332578]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-capital: '[[_Standards/WikiData/WD~Ecbatana,696193]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+capital: '[[_Standards/WikiData/WD~Ecbatana,696193|WD~Ecbatana,696193]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Iranian_peoples,1672477]]'
-- '[[_Standards/WikiData/WD~people,2472587]]'
-different_from: '[[_Standards/WikiData/WD~Medi,1916114]]'
-language_used: '[[_Standards/WikiData/WD~Median,36461]]'
+- '[[_Standards/WikiData/WD~Iranian_peoples,1672477|WD~Iranian_peoples,1672477]]'
+- '[[_Standards/WikiData/WD~people,2472587|WD~people,2472587]]'
+different_from: '[[_Standards/WikiData/WD~Medi,1916114|WD~Medi,1916114]]'
+language_used: '[[_Standards/WikiData/WD~Median,36461|WD~Median,36461]]'
 Commons_category: Medes
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Median%20Empire.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PLATE2BX.jpg

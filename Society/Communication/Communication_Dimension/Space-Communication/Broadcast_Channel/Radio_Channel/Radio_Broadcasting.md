@@ -68,21 +68,21 @@ aliases:
 - 방송
 has_id_wikidata: Q273623
 uses:
-- '[[_Standards/WikiData/WD~radio_receiver,159391]]'
-- '[[_Standards/WikiData/WD~radio_program,1555508]]'
-- '[[_Standards/WikiData/WD~Q1644403,1644403]]'
-- '[[_Standards/WikiData/WD~radio,872]]'
+- '[[_Standards/WikiData/WD~radio_receiver,159391|WD~radio_receiver,159391]]'
+- '[[_Standards/WikiData/WD~radio_program,1555508|WD~radio_program,1555508]]'
+- '[[_Standards/WikiData/WD~Q1644403,1644403|WD~Q1644403,1644403]]'
+- '[[_Standards/WikiData/WD~radio,872|WD~radio,872]]'
 history_of_topic:
-- '[[_Standards/WikiData/WD~history_of_radio,1517374]]'
-- '[[_Standards/WikiData/WD~timeline_of_radio,4501817]]'
-studied_by: '[[_Standards/WikiData/WD~broadcast_engineering,2176252]]'
+- '[[_Standards/WikiData/WD~history_of_radio,1517374|WD~history_of_radio,1517374]]'
+- '[[_Standards/WikiData/WD~timeline_of_radio,4501817|WD~timeline_of_radio,4501817]]'
+studied_by: '[[_Standards/WikiData/WD~broadcast_engineering,2176252|WD~broadcast_engineering,2176252]]'
 different_from:
-- '[[_Standards/WikiData/WD~radio_reception,3537732]]'
-- '[[_Standards/WikiData/WD~radio_,12830760]]'
-- '[[_Standards/WikiData/WD~radio,872]]'
-has_use: '[[_Standards/WikiData/WD~information_exchange,6031064]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_radio,7112714]]'
-subclass_of: '[[_Standards/WikiData/WD~broadcasting,15078788]]'
+- '[[_Standards/WikiData/WD~radio_reception,3537732|WD~radio_reception,3537732]]'
+- '[[_Standards/WikiData/WD~radio_,12830760|WD~radio_,12830760]]'
+- '[[_Standards/WikiData/WD~radio,872|WD~radio,872]]'
+has_use: '[[_Standards/WikiData/WD~information_exchange,6031064|WD~information_exchange,6031064]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_radio,7112714|WD~outline_of_radio,7112714]]'
+subclass_of: '[[_Standards/WikiData/WD~broadcasting,15078788|WD~broadcasting,15078788]]'
 inception: 1895-01-01T00:00:00Z
 DPLA_subject_term: Radio broadcasting
 Commons_category: Radio broadcasting

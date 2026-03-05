@@ -4,7 +4,7 @@ see [[Prog~OO/OO~Modeling|OO~Modeling]]
 #is_/different_from :: [[ECP(Entity Component System)]] 
 #is_/same_as :: [[../../../../../../WikiData/WD~Object-oriented_programming,79872|WD~Object-oriented_programming,79872]] 
 
-## Extensions to [[Prog~Paradigm/Prog~Structured]] 
+## Extensions to [[Prog~Paradigm/Prog~Structured|Prog~Structured]] 
 
 ### Records have Methods and become Objects 
 ### Objects can be __polymorphic__ 
@@ -51,7 +51,7 @@ Inheritance --> Re-usable ~~~
 prototypal --> Re-usable
 ```
 
-[[Prog~OO/Inheritance,prototypal]] is different from [[Prog~OO/Inheritance_by_Class]] 
+[[Prog~OO/Inheritance,prototypal|Inheritance,prototypal]] is different from [[Prog~OO/Inheritance_by_Class|Inheritance_by_Class]] 
 Both can be used to __define Polymorphy__ (more important) 
 and achieve Re-Use (less important)
 

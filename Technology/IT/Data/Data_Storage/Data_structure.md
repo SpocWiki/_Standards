@@ -80,22 +80,22 @@ aliases:
 - 자료 구조
 has_id_wikidata: Q175263
 different_from:
-- '[[_Standards/WikiData/WD~data_type,190087]]'
-- '[[_Standards/WikiData/WD~abstract_data_type,827335]]'
+- '[[_Standards/WikiData/WD~data_type,190087|WD~data_type,190087]]'
+- '[[_Standards/WikiData/WD~abstract_data_type,827335|WD~abstract_data_type,827335]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~data,494756]]'
-- '[[_Standards/WikiData/WD~structure,6671777]]'
-- '[[_Standards/WikiData/WD~software_component,17176533]]'
+- '[[_Standards/WikiData/WD~data,494756|WD~data,494756]]'
+- '[[_Standards/WikiData/WD~structure,6671777|WD~structure,6671777]]'
+- '[[_Standards/WikiData/WD~software_component,17176533|WD~software_component,17176533]]'
 part_of:
-- '[[_Standards/WikiData/WD~data_format,494823]]'
-- '[[_Standards/WikiData/WD~mathematical_structure,748349]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
-manifestation_of: '[[_Standards/WikiData/WD~abstract_data_type,827335]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Computer_Science,6526225]]'
+- '[[_Standards/WikiData/WD~data_format,494823|WD~data_format,494823]]'
+- '[[_Standards/WikiData/WD~mathematical_structure,748349|WD~mathematical_structure,748349]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
+manifestation_of: '[[_Standards/WikiData/WD~abstract_data_type,827335|WD~abstract_data_type,827335]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Computer_Science,6526225|WD~WikiProject_Computer_Science,6526225]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Data_structures,10856233]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_data_structure,10858194]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
+- '[[_Standards/WikiData/WD~Template_Data_structures,10856233|WD~Template_Data_structures,10856233]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_data_structure,10858194|WD~Template_Infobox_data_structure,10858194]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251|WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
 properties_for_this_type:
 - time of discovery or invention
 - worst-case time complexity

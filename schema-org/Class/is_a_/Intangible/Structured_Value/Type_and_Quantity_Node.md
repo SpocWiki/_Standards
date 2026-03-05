@@ -37,7 +37,7 @@ dv_is_:
     - "[[Type_and_Quantity_Node]]"
 dv_has_:
   parent_class:
-    - "[[../StructuredValue]]"
+    - "[[../StructuredValue|StructuredValue]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -57,7 +57,7 @@ dv_has_:
     - "[[../../../../Property/Texts/has_unit_text|has_unit_text]]"
     - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../structured_value|../structured_value]]"
+  - "[[../structured_value|../structured_value|structured_value]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"

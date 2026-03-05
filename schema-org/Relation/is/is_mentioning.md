@@ -38,10 +38,10 @@ dv_is_:
     - "[[is_mentioning]]"
 dv_is_mentioning: "[[../../Class/is_a_|Thing]]"
 dv_has_:
-  domain: "[[../../../Class/is_a_/creative_work]]"
+  domain: "[[../../../Class/is_a_/creative_work|creative_work]]"
   name: is_mentioning
   range: "[[../../Class/Thing|thing]]"
-dv_has_domain: "[[../../../Class/is_a_/creative_work]]"
+dv_has_domain: "[[../../../Class/is_a_/creative_work|creative_work]]"
 dv_has_name: is_mentioning
 dv_has_range: "[[../../Class/Thing|thing]]"
 dv_is_same_as:

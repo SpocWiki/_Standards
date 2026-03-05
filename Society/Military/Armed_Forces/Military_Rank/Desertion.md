@@ -54,17 +54,17 @@ aliases:
 - 逃兵
 - 탈영
 has_id_wikidata: Q633339
-subclass_of: '[[_Standards/WikiData/WD~crime,83267]]'
+subclass_of: '[[_Standards/WikiData/WD~crime,83267|WD~crime,83267]]'
 different_from:
-- '[[_Standards/WikiData/WD~desertification,183481]]'
-- '[[_Standards/WikiData/WD~declared_deserted,45123627]]'
-- '[[_Standards/WikiData/WD~Desertion,74744472]]'
+- '[[_Standards/WikiData/WD~desertification,183481|WD~desertification,183481]]'
+- '[[_Standards/WikiData/WD~declared_deserted,45123627|WD~declared_deserted,45123627]]'
+- '[[_Standards/WikiData/WD~Desertion,74744472|WD~Desertion,74744472]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~United_States_Government_Glossary_of_Interagency_and_Associated_Terms,116173167]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-practiced_by: '[[_Standards/WikiData/WD~Q22808152,22808152]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~United_States_Government_Glossary_of_Interagency_and_Associated_Terms,116173167|WD~United_States_Government_Glossary_of_Interagency_and_Associated_Terms,116173167]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+practiced_by: '[[_Standards/WikiData/WD~Q22808152,22808152|WD~Q22808152,22808152]]'
 BHCL_UUID: 1bc8ace0-995b-457c-8359-1b9ce1fb7639
 Commons_category: Desertion
 Iconclass_notation: 45B9

@@ -50,18 +50,18 @@ aliases:
 - 宗教心理學
 - 종교심리학
 has_id_wikidata: Q368498
-has_part_s_: '[[_Standards/WikiData/WD~religious_experience,143210]]'
+has_part_s_: '[[_Standards/WikiData/WD~religious_experience,143210|WD~religious_experience,143210]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~indoctrination,375159]]'
-- '[[_Standards/WikiData/WD~religiosity,1553701]]'
-- '[[_Standards/WikiData/WD~religious_group,111252415]]'
+- '[[_Standards/WikiData/WD~indoctrination,375159|WD~indoctrination,375159]]'
+- '[[_Standards/WikiData/WD~religiosity,1553701|WD~religiosity,1553701]]'
+- '[[_Standards/WikiData/WD~religious_group,111252415|WD~religious_group,111252415]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~applied_psychology,538904]]'
-- '[[_Standards/WikiData/WD~religion_and_health,7311140]]'
+- '[[_Standards/WikiData/WD~applied_psychology,538904|WD~applied_psychology,538904]]'
+- '[[_Standards/WikiData/WD~religion_and_health,7311140|WD~religion_and_health,7311140]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~branch_of_psychology,60680430]]'
-practiced_by: '[[_Standards/WikiData/WD~psychologist_of_religion,88195566]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~branch_of_psychology,60680430|WD~branch_of_psychology,60680430]]'
+practiced_by: '[[_Standards/WikiData/WD~psychologist_of_religion,88195566|WD~psychologist_of_religion,88195566]]'
 Library_of_Congress_Classification:
 - BL53-BL54
 - BF1-BF990

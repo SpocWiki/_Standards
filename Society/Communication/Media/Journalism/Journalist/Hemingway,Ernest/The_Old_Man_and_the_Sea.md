@@ -77,32 +77,32 @@ aliases:
 - 로인과 바다
 has_id_wikidata: Q26505
 form_of_creative_work:
-- '[[_Standards/WikiData/WD~novella,149537]]'
-- '[[_Standards/WikiData/WD~narration,3328821]]'
-- '[[_Standards/WikiData/WD~short_story,49084]]'
+- '[[_Standards/WikiData/WD~novella,149537|WD~novella,149537]]'
+- '[[_Standards/WikiData/WD~narration,3328821|WD~narration,3328821]]'
+- '[[_Standards/WikiData/WD~short_story,49084|WD~short_story,49084]]'
 derivative_work:
-- '[[_Standards/WikiData/WD~The_Old_Man_and_the_Sea,177145]]'
-- '[[_Standards/WikiData/WD~The_Old_Man_and_the_Sea,1198269]]'
-different_from: '[[_Standards/WikiData/WD~The_Old_Man_and_the_Sea,387241]]'
+- '[[_Standards/WikiData/WD~The_Old_Man_and_the_Sea,177145|WD~The_Old_Man_and_the_Sea,177145]]'
+- '[[_Standards/WikiData/WD~The_Old_Man_and_the_Sea,1198269|WD~The_Old_Man_and_the_Sea,1198269]]'
+different_from: '[[_Standards/WikiData/WD~The_Old_Man_and_the_Sea,387241|WD~The_Old_Man_and_the_Sea,387241]]'
 award_received:
-- '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Fiction,833633]]'
-- '[[_Standards/WikiData/WD~Bancarella_Literary_Prize,135653327]]'
-- '[[_Standards/WikiData/WD~Nobel_Prize,7191]]'
-publisher: "[[_Standards/WikiData/WD~Charles_Scribner's_Sons,845617]]"
+- '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Fiction,833633|WD~Pulitzer_Prize_for_Fiction,833633]]'
+- '[[_Standards/WikiData/WD~Bancarella_Literary_Prize,135653327|WD~Bancarella_Literary_Prize,135653327]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize,7191|WD~Nobel_Prize,7191]]'
+publisher: "[[_Standards/WikiData/WD~Charles_Scribner's_Sons,845617|WD~Charles_Scribner's_Sons,845617]]"
 characters:
-- '[[_Standards/WikiData/WD~Marlin,3293112]]'
-- '[[_Standards/WikiData/WD~Santiago,136439067]]'
-instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+- '[[_Standards/WikiData/WD~Marlin,3293112|WD~Marlin,3293112]]'
+- '[[_Standards/WikiData/WD~Santiago,136439067|WD~Santiago,136439067]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634|WD~literary_work,7725634]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~Q117280145,117280145]]'
-- '[[_Standards/WikiData/WD~Q117281188,117281188]]'
-- '[[_Standards/WikiData/WD~Mzee_na_bahari,125350292]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~American_English,7976]]'
-author: '[[_Standards/WikiData/WD~Ernest_Hemingway,23434]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-place_of_publication: '[[_Standards/WikiData/WD~United_States,30]]'
-main_subject: '[[_Standards/WikiData/WD~sea,165]]'
-narrative_location: '[[_Standards/WikiData/WD~Cuba,241]]'
+- '[[_Standards/WikiData/WD~Q117280145,117280145|WD~Q117280145,117280145]]'
+- '[[_Standards/WikiData/WD~Q117281188,117281188|WD~Q117281188,117281188]]'
+- '[[_Standards/WikiData/WD~Mzee_na_bahari,125350292|WD~Mzee_na_bahari,125350292]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~American_English,7976|WD~American_English,7976]]'
+author: '[[_Standards/WikiData/WD~Ernest_Hemingway,23434|WD~Ernest_Hemingway,23434]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+main_subject: '[[_Standards/WikiData/WD~sea,165|WD~sea,165]]'
+narrative_location: '[[_Standards/WikiData/WD~Cuba,241|WD~Cuba,241]]'
 number_of_parts_of_this_work: 26805
 title: The Old Man and the Sea
 Commons_category: The Old Man and the Sea

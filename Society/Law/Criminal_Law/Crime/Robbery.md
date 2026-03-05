@@ -68,30 +68,30 @@ aliases:
 - 강도
 has_id_wikidata: Q53706
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~misdemeanor,694324]]'
-- '[[_Standards/WikiData/WD~violent_crime,1520311]]'
-- '[[_Standards/WikiData/WD~theft,2727213]]'
+- '[[_Standards/WikiData/WD~misdemeanor,694324|WD~misdemeanor,694324]]'
+- '[[_Standards/WikiData/WD~violent_crime,1520311|WD~violent_crime,1520311]]'
+- '[[_Standards/WikiData/WD~theft,2727213|WD~theft,2727213]]'
 main_regulatory_text:
-- '[[_Standards/WikiData/WD~Criminal_Code_of_Russia,747110]]'
-- '[[_Standards/WikiData/WD~Polish_Penal_Code,1029679]]'
-- '[[_Standards/WikiData/WD~Criminal_Code_of_Ukraine,5761127]]'
+- '[[_Standards/WikiData/WD~Criminal_Code_of_Russia,747110|WD~Criminal_Code_of_Russia,747110]]'
+- '[[_Standards/WikiData/WD~Polish_Penal_Code,1029679|WD~Polish_Penal_Code,1029679]]'
+- '[[_Standards/WikiData/WD~Criminal_Code_of_Ukraine,5761127|WD~Criminal_Code_of_Ukraine,5761127]]'
 different_from:
-- '[[_Standards/WikiData/WD~hijacking,1933595]]'
-- '[[_Standards/WikiData/WD~Raub,2352205]]'
-- '[[_Standards/WikiData/WD~theft,2727213]]'
-- '[[_Standards/WikiData/WD~Rapina,7294269]]'
-practiced_by: '[[_Standards/WikiData/WD~robber,10659189]]'
+- '[[_Standards/WikiData/WD~hijacking,1933595|WD~hijacking,1933595]]'
+- '[[_Standards/WikiData/WD~Raub,2352205|WD~Raub,2352205]]'
+- '[[_Standards/WikiData/WD~theft,2727213|WD~theft,2727213]]'
+- '[[_Standards/WikiData/WD~Rapina,7294269|WD~Rapina,7294269]]'
+practiced_by: '[[_Standards/WikiData/WD~robber,10659189|WD~robber,10659189]]'
 Commons_category: Robbery
 U_S_National_Archives_Identifier: 10645279
 image:

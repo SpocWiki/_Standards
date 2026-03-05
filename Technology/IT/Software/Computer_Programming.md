@@ -99,26 +99,26 @@ aliases:
 - 컴퓨터 프로그래밍
 has_id_wikidata: Q80006
 has_characteristic:
-- '[[_Standards/WikiData/WD~programming_paradigm,188267]]'
-- '[[_Standards/WikiData/WD~programming_language,9143]]'
-follows: '[[_Standards/WikiData/WD~pseudocode,189224]]'
+- '[[_Standards/WikiData/WD~programming_paradigm,188267|WD~programming_paradigm,188267]]'
+- '[[_Standards/WikiData/WD~programming_language,9143|WD~programming_language,9143]]'
+follows: '[[_Standards/WikiData/WD~pseudocode,189224|WD~pseudocode,189224]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~skill,205961]]'
-- '[[_Standards/WikiData/WD~activity,1914636]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~software_development,638608]]'
+- '[[_Standards/WikiData/WD~skill,205961|WD~skill,205961]]'
+- '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~software_development,638608|WD~software_development,638608]]'
 part_of:
-- '[[_Standards/WikiData/WD~software_development,638608]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
+- '[[_Standards/WikiData/WD~software_development,638608|WD~software_development,638608]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~software_engineer,1709010]]'
-- '[[_Standards/WikiData/WD~programmer,5482740]]'
+- '[[_Standards/WikiData/WD~software_engineer,1709010|WD~software_engineer,1709010]]'
+- '[[_Standards/WikiData/WD~programmer,5482740|WD~programmer,5482740]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~computer_science_term,66747126]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_computer_programming,7112591]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Computer_programming,10729459]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~computer_program,40056]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~computer_science_term,66747126|WD~computer_science_term,66747126]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_computer_programming,7112591|WD~outline_of_computer_programming,7112591]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Computer_programming,10729459|WD~Portal_Computer_programming,10729459]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~computer_program,40056|WD~computer_program,40056]]'
 Merchant_Category_Code: 7372
 GitHub_topic: programming
 subreddit:

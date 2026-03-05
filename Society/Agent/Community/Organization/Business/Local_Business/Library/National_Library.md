@@ -77,9 +77,9 @@ aliases:
 - 국립도서관
 has_id_wikidata: Q22806
 subclass_of:
-- '[[_Standards/WikiData/WD~government_agency,327333]]'
-- '[[_Standards/WikiData/WD~government_library,65768782]]'
-different_from: '[[_Standards/WikiData/WD~Biblioteka_Narodowa,11687972]]'
+- '[[_Standards/WikiData/WD~government_agency,327333|WD~government_agency,327333]]'
+- '[[_Standards/WikiData/WD~government_library,65768782|WD~government_library,65768782]]'
+different_from: '[[_Standards/WikiData/WD~Biblioteka_Narodowa,11687972|WD~Biblioteka_Narodowa,11687972]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1321%20%28spa%29-Centenoyespelta-biblioteca%20nacional.wav
 Provenio_UUID: eff05211-bcd3-48ee-8730-6f27ee37d27f
 Commons_category: National libraries

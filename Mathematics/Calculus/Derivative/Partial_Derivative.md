@@ -53,14 +53,14 @@ aliases:
 - 편미분
 has_id_wikidata: Q186475
 different_from:
-- '[[_Standards/WikiData/WD~total_derivative,636889]]'
-- '[[_Standards/WikiData/WD~boundary,875399]]'
-studied_by: '[[_Standards/WikiData/WD~multivariable_calculus,2035437]]'
-notation: '[[_Standards/WikiData/WD~partial_derivative_symbol,2920327]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
-subclass_of: '[[_Standards/WikiData/WD~derivative,29175]]'
+- '[[_Standards/WikiData/WD~total_derivative,636889|WD~total_derivative,636889]]'
+- '[[_Standards/WikiData/WD~boundary,875399|WD~boundary,875399]]'
+studied_by: '[[_Standards/WikiData/WD~multivariable_calculus,2035437|WD~multivariable_calculus,2035437]]'
+notation: '[[_Standards/WikiData/WD~partial_derivative_symbol,2920327|WD~partial_derivative_symbol,2920327]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+subclass_of: '[[_Standards/WikiData/WD~derivative,29175|WD~derivative,29175]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi><mi>x</mi></mrow></mrow></mfrac></mrow></mstyle></mrow></math>

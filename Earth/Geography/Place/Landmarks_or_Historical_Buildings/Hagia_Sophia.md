@@ -115,61 +115,61 @@ name: basilique de Sainte-Sophie
 native_label:
 - Ayasofya
 - Αγία Σοφία
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Marmara_Region,155583]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Marmara_Region,155583|WD~Marmara_Region,155583]]'
 architectural_style:
-- '[[_Standards/WikiData/WD~basilica,163687]]'
-- '[[_Standards/WikiData/WD~Byzantine_architecture,47591]]'
-field_of_work: '[[_Standards/WikiData/WD~Byzantine_art,211884]]'
+- '[[_Standards/WikiData/WD~basilica,163687|WD~basilica,163687]]'
+- '[[_Standards/WikiData/WD~Byzantine_architecture,47591|WD~Byzantine_architecture,47591]]'
+field_of_work: '[[_Standards/WikiData/WD~Byzantine_art,211884|WD~Byzantine_art,211884]]'
 architect:
-- '[[_Standards/WikiData/WD~Anthemius_of_Tralles,298226]]'
-- '[[_Standards/WikiData/WD~Isidore_of_Miletus,310028]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
+- '[[_Standards/WikiData/WD~Anthemius_of_Tralles,298226|WD~Anthemius_of_Tralles,298226]]'
+- '[[_Standards/WikiData/WD~Isidore_of_Miletus,310028|WD~Isidore_of_Miletus,310028]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Sunni_Islam,483654|WD~Sunni_Islam,483654]]'
 culture:
-- '[[_Standards/WikiData/WD~Ottoman_architecture,527449]]'
-- '[[_Standards/WikiData/WD~Byzantine_architecture,47591]]'
+- '[[_Standards/WikiData/WD~Ottoman_architecture,527449|WD~Ottoman_architecture,527449]]'
+- '[[_Standards/WikiData/WD~Byzantine_architecture,47591|WD~Byzantine_architecture,47591]]'
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Istanbul_Province,534799]]'
-- '[[_Standards/WikiData/WD~Fatih,732923]]'
-- '[[_Standards/WikiData/WD~Cankurtaran,6073520]]'
-- '[[_Standards/WikiData/WD~Istanbul,406]]'
+- '[[_Standards/WikiData/WD~Istanbul_Province,534799|WD~Istanbul_Province,534799]]'
+- '[[_Standards/WikiData/WD~Fatih,732923|WD~Fatih,732923]]'
+- '[[_Standards/WikiData/WD~Cankurtaran,6073520|WD~Cankurtaran,6073520]]'
+- '[[_Standards/WikiData/WD~Istanbul,406|WD~Istanbul,406]]'
 different_from:
-- '[[_Standards/WikiData/WD~Hagia_Sophia,541998]]'
-- '[[_Standards/WikiData/WD~Navel_of_the_World,15489401]]'
+- '[[_Standards/WikiData/WD~Hagia_Sophia,541998|WD~Hagia_Sophia,541998]]'
+- '[[_Standards/WikiData/WD~Navel_of_the_World,15489401|WD~Navel_of_the_World,15489401]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~mosque,32815]]'
-- '[[_Standards/WikiData/WD~museum,33506]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~mosque,32815|WD~mosque,32815]]'
+- '[[_Standards/WikiData/WD~museum,33506|WD~museum,33506]]'
 payment_types_accepted:
-- '[[_Standards/WikiData/WD~cash,693464]]'
-- '[[_Standards/WikiData/WD~Müzekart,1118621]]'
+- '[[_Standards/WikiData/WD~cash,693464|WD~cash,693464]]'
+- '[[_Standards/WikiData/WD~Müzekart,1118621|WD~Müzekart,1118621]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meisterwerke_des_Kirchenbaus,29428354]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]'
-locations: '[[_Standards/WikiData/WD~Sultan_Ahmet,2147870]]'
-part_of: '[[_Standards/WikiData/WD~Historic_Areas_of_Istanbul,5773394]]'
-named_after: '[[_Standards/WikiData/WD~Holy_Wisdom,7501062]]'
-dedicated_to: '[[_Standards/WikiData/WD~Holy_Wisdom,7501062]]'
-category_for_people_buried_here: '[[_Standards/WikiData/WD~Q9534441,9534441]]'
-contains: '[[_Standards/WikiData/WD~Tomb_of_Mehmed_III,21526269]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meisterwerke_des_Kirchenbaus,29428354|WD~Meisterwerke_des_Kirchenbaus,29428354]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795|WD~Meyer_s_Universum,_Erster_Band,126374795]]'
+locations: '[[_Standards/WikiData/WD~Sultan_Ahmet,2147870|WD~Sultan_Ahmet,2147870]]'
+part_of: '[[_Standards/WikiData/WD~Historic_Areas_of_Istanbul,5773394|WD~Historic_Areas_of_Istanbul,5773394]]'
+named_after: '[[_Standards/WikiData/WD~Holy_Wisdom,7501062|WD~Holy_Wisdom,7501062]]'
+dedicated_to: '[[_Standards/WikiData/WD~Holy_Wisdom,7501062|WD~Holy_Wisdom,7501062]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q9534441,9534441|WD~Q9534441,9534441]]'
+contains: '[[_Standards/WikiData/WD~Tomb_of_Mehmed_III,21526269|WD~Tomb_of_Mehmed_III,21526269]]'
 dissolved_abolished_or_demolished_date:
 - 0404-01-01T00:00:00Z
 - 0532-01-16T00:00:00Z
-state_of_conservation: '[[_Standards/WikiData/WD~preserved,56557591]]'
-affiliation: '[[_Standards/WikiData/WD~Museum_Directorate_of_Ayasofya,108564933]]'
+state_of_conservation: '[[_Standards/WikiData/WD~preserved,56557591|WD~preserved,56557591]]'
+affiliation: '[[_Standards/WikiData/WD~Museum_Directorate_of_Ayasofya,108564933|WD~Museum_Directorate_of_Ayasofya,108564933]]'
 heritage_designation:
-- '[[_Standards/WikiData/WD~immovable_cultural_property_requiring_protection,133462433]]'
-- '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+- '[[_Standards/WikiData/WD~immovable_cultural_property_requiring_protection,133462433|WD~immovable_cultural_property_requiring_protection,133462433]]'
+- '[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]'
 inception: 0532-02-25T00:00:00Z
 date_of_official_opening: 1054-01-01T00:00:00Z
 coordinate_location: Point(28.98 41.008333333)
-patron_saint: '[[_Standards/WikiData/WD~Jesus_Christ,302]]'
-founded_by: '[[_Standards/WikiData/WD~Constantine_the_Great,8413]]'
-country: '[[_Standards/WikiData/WD~Turkey,43]]'
-has_use: '[[_Standards/WikiData/WD~mosque,32815]]'
-commissioned_by: '[[_Standards/WikiData/WD~Justinian_I,41866]]'
+patron_saint: '[[_Standards/WikiData/WD~Jesus_Christ,302|WD~Jesus_Christ,302]]'
+founded_by: '[[_Standards/WikiData/WD~Constantine_the_Great,8413|WD~Constantine_the_Great,8413]]'
+country: '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+has_use: '[[_Standards/WikiData/WD~mosque,32815|WD~mosque,32815]]'
+commissioned_by: '[[_Standards/WikiData/WD~Justinian_I,41866|WD~Justinian_I,41866]]'
 Commons_category: Hagia Sophia
 sectional_view:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Aya-sophia-sketech-without-hatch.svg
@@ -332,7 +332,7 @@ dv_has_:
 
 # [[Hagia_Sophia]] 
 
-![[../../../../assets/Hagia_Sophia.png]]  
+![[../../../../assets/Hagia_Sophia.png|Hagia_Sophia.png]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Hagia_Sophia,12506|WD~Hagia_Sophia,12506]] 
 

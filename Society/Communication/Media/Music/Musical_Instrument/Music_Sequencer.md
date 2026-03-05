@@ -35,12 +35,12 @@ aliases:
 - 시퀀서
 has_id_wikidata: Q646683
 subclass_of:
-- '[[_Standards/WikiData/WD~synthesizer,163829]]'
-- '[[_Standards/WikiData/WD~electronic_musical_instrument,1327500]]'
-- '[[_Standards/WikiData/WD~deliverable,2297847]]'
-different_from: '[[_Standards/WikiData/WD~Sequencer,446430]]'
-instance_of: '[[_Standards/WikiData/WD~musical_concept,115211517]]'
-has_use: '[[_Standards/WikiData/WD~music,638]]'
+- '[[_Standards/WikiData/WD~synthesizer,163829|WD~synthesizer,163829]]'
+- '[[_Standards/WikiData/WD~electronic_musical_instrument,1327500|WD~electronic_musical_instrument,1327500]]'
+- '[[_Standards/WikiData/WD~deliverable,2297847|WD~deliverable,2297847]]'
+different_from: '[[_Standards/WikiData/WD~Sequencer,446430|WD~Sequencer,446430]]'
+instance_of: '[[_Standards/WikiData/WD~musical_concept,115211517|WD~musical_concept,115211517]]'
+has_use: '[[_Standards/WikiData/WD~music,638|WD~music,638]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/40%20anys%20de%20m%C3%BAsica%20electr%C3%B2nica%20a%20Barcelona%20exposici%C3%B3%20al%20Museu%20de%20la%20M%C3%BAsica%2005.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Buchla%20music%20easel.jpg

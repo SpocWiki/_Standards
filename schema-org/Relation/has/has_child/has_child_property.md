@@ -25,12 +25,12 @@ tags:
 title: has_child_property
 type: Predi_Relation
 dv_has_:
-  inverse: "[[../has_parent/has_parent_property]]"
-  sub_properties: "[[../../../Property]]"
-  domain: "[[../../../Property]]"
+  inverse: "[[../has_parent/has_parent_property|has_parent_property]]"
+  sub_properties: "[[../../../Property|Property]]"
+  domain: "[[../../../Property|Property]]"
   name: has_child_property
-  range: "[[../../../Property]]"
-dv_has_child_property: "[[../../../Property]]"
+  range: "[[../../../Property|Property]]"
+dv_has_child_property: "[[../../../Property|Property]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_child_property|has_child_property]]"
@@ -40,10 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_child_property.private|has_child_property.private]]"
     - "[[/_personal/schema-org/Property/has_child_property.personal|has_child_property.personal]]"
     - "[[/_secret/schema-org/Property/has_child_property.secret|has_child_property.secret]]"
-dv_has_domain: "[[../../../Property]]"
+dv_has_domain: "[[../../../Property|Property]]"
 dv_has_name: has_child_property
-dv_has_range: "[[../../../Property]]"
-dv_has_inverse: "[[../has_parent/has_parent_property]]"
+dv_has_range: "[[../../../Property|Property]]"
+dv_has_inverse: "[[../has_parent/has_parent_property|has_parent_property]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_child_property|has_child_property]]"
   - "[[/_public/schema-org/Property/has_child_property.public|has_child_property.public]]"

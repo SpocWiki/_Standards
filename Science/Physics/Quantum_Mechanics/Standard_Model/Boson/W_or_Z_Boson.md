@@ -52,27 +52,27 @@ aliases:
 - ウィークボソン
 has_id_wikidata: Q211922
 subclass_of:
-- '[[_Standards/WikiData/WD~gauge_boson,105580]]'
-- '[[_Standards/WikiData/WD~massive_quantum_particle,28877390]]'
-- '[[_Standards/WikiData/WD~force_carrier,24364]]'
+- '[[_Standards/WikiData/WD~gauge_boson,105580|WD~gauge_boson,105580]]'
+- '[[_Standards/WikiData/WD~massive_quantum_particle,28877390|WD~massive_quantum_particle,28877390]]'
+- '[[_Standards/WikiData/WD~force_carrier,24364|WD~force_carrier,24364]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Z_boson,488719]]'
-- '[[_Standards/WikiData/WD~W_boson,1029485]]'
+- '[[_Standards/WikiData/WD~Z_boson,488719|WD~Z_boson,488719]]'
+- '[[_Standards/WikiData/WD~W_boson,1029485|WD~W_boson,1029485]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~UA1_experiment,674528]]'
-- '[[_Standards/WikiData/WD~UA2_experiment,1157111]]'
+- '[[_Standards/WikiData/WD~UA1_experiment,674528|WD~UA1_experiment,674528]]'
+- '[[_Standards/WikiData/WD~UA2_experiment,1157111|WD~UA2_experiment,1157111]]'
 - http://www.wikidata.org/.well-known/genid/38ba6df36a99682426e7ae53d69199db
-instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015|WD~type_of_quantum_particle,22675015]]'
 interaction:
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+- '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418|WD~weak_interaction,11418]]'
 electric_charge: 0
 spin_quantum_number: 1
 quantity: 3
 mean_lifetime: 3e-26
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~boson,43101]]'
-- '[[_Standards/WikiData/WD~elementary_particle,43116]]'
+- '[[_Standards/WikiData/WD~boson,43101|WD~boson,43101]]'
+- '[[_Standards/WikiData/WD~elementary_particle,43116|WD~elementary_particle,43116]]'
 time_of_discovery_or_invention: 1983-01-01T00:00:00Z
 Commons_category: W and Z bosons
 dv_has_:

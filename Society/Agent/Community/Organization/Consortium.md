@@ -64,15 +64,15 @@ tags:
 title: is_a_consortium Class
 type: Type
 subclass_of:
-- '[[_Standards/WikiData/WD~juridical_person,155076]]'
-- '[[_Standards/WikiData/WD~legal_form,10541491]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~juridical_person,155076|WD~juridical_person,155076]]'
+- '[[_Standards/WikiData/WD~legal_form,10541491|WD~legal_form,10541491]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_organization,17197366]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836|WD~Dictionnaire_des_biens_communs,120799836]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_organization,17197366|WD~type_of_organization,17197366]]'
 Commons_category: Consortia
 OpenStreetMap_tag_or_key: Tag:operator:type=consortium
 equivalent_class: https://schema.org/Consortium
@@ -158,9 +158,9 @@ Tag Instances like this:
 
 #is_/part_of :: https://pending.schema.org  
 
-A Consortium is a membership [[../Organization]] whose members are typically Organizations.
+A Consortium is a membership [[../Organization|Organization]] whose members are typically Organizations.
 
-#has_/parent_class :: [[../Organization]]  
+#has_/parent_class :: [[../Organization|Organization]]  
 
 #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ]  
 

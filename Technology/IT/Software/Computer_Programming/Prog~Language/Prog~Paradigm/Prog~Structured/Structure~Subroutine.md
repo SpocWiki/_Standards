@@ -3,7 +3,7 @@
 
 AKA Functions, Procedures, Macros 
 
-These are the first, fundamental abstractions that enable [[../Prog~Structured]] . 
+These are the first, fundamental abstractions that enable [[../Prog~Structured|Prog~Structured]] . 
 ## Best Practices: 
 
 ### Good Naming 

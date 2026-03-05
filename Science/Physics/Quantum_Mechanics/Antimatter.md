@@ -68,19 +68,19 @@ aliases:
 - 反物质
 - 반물질
 has_id_wikidata: Q83197
-different_from: '[[_Standards/WikiData/WD~dark_matter,79925]]'
+different_from: '[[_Standards/WikiData/WD~dark_matter,79925|WD~dark_matter,79925]]'
 does_not_have_part:
-- '[[_Standards/WikiData/WD~meson,102742]]'
-- '[[_Standards/WikiData/WD~common_matter,10547012]]'
-- '[[_Standards/WikiData/WD~ordinary_quantum_particle,28726955]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Antimatter,6681208]]'
-opposite_of: '[[_Standards/WikiData/WD~common_matter,10547012]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~meson,102742|WD~meson,102742]]'
+- '[[_Standards/WikiData/WD~common_matter,10547012|WD~common_matter,10547012]]'
+- '[[_Standards/WikiData/WD~ordinary_quantum_particle,28726955|WD~ordinary_quantum_particle,28726955]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Antimatter,6681208|WD~Template_Antimatter,6681208]]'
+opposite_of: '[[_Standards/WikiData/WD~common_matter,10547012|WD~common_matter,10547012]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~matter_composed_of_antiquarks,28736567]]'
-- '[[_Standards/WikiData/WD~antileptonic_matter,28736576]]'
-- '[[_Standards/WikiData/WD~antiquark_or_antilepton,28739684]]'
-subclass_of: '[[_Standards/WikiData/WD~matter,35758]]'
+- '[[_Standards/WikiData/WD~matter_composed_of_antiquarks,28736567|WD~matter_composed_of_antiquarks,28736567]]'
+- '[[_Standards/WikiData/WD~antileptonic_matter,28736576|WD~antileptonic_matter,28736576]]'
+- '[[_Standards/WikiData/WD~antiquark_or_antilepton,28739684|WD~antiquark_or_antilepton,28739684]]'
+subclass_of: '[[_Standards/WikiData/WD~matter,35758|WD~matter,35758]]'
 OmegaWiki_Defined_Meaning: 789490
 Dewey_Decimal_Classification: 539.721
 Commons_category: Antimatter

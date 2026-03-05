@@ -59,12 +59,12 @@ aliases:
 - 航天发射中心
 - 우주기지
 has_id_wikidata: Q194188
-facet_of: '[[_Standards/WikiData/WD~space_technology,211485]]'
-part_of: '[[_Standards/WikiData/WD~ground_segment,889737]]'
+facet_of: '[[_Standards/WikiData/WD~space_technology,211485|WD~space_technology,211485]]'
+part_of: '[[_Standards/WikiData/WD~ground_segment,889737|WD~ground_segment,889737]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~space_center,1192221]]'
-- '[[_Standards/WikiData/WD~launch_site,1933026]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Spaceport,5896395]]'
+- '[[_Standards/WikiData/WD~space_center,1192221|WD~space_center,1192221]]'
+- '[[_Standards/WikiData/WD~launch_site,1933026|WD~launch_site,1933026]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Spaceport,5896395|WD~Template_Spaceport,5896395]]'
 OmegaWiki_Defined_Meaning: 1265517
 hashtag: spaceport
 Commons_gallery: Spaceport

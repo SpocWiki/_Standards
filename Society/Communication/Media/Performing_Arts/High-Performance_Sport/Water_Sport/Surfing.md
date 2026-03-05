@@ -67,17 +67,17 @@ aliases:
 - 파도타기
 has_id_wikidata: Q159992
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~boardsport,911069]]'
-- '[[_Standards/WikiData/WD~water_sport,61065]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~boardsport,911069|WD~boardsport,911069]]'
+- '[[_Standards/WikiData/WD~water_sport,61065|WD~water_sport,61065]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-uses: '[[_Standards/WikiData/WD~surfboard,457689]]'
-authority: '[[_Standards/WikiData/WD~International_Surfing_Association,1320669]]'
-practiced_by: '[[_Standards/WikiData/WD~surfer,13561328]]'
-different_from: '[[_Standards/WikiData/WD~Surf,31665924]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+uses: '[[_Standards/WikiData/WD~surfboard,457689|WD~surfboard,457689]]'
+authority: '[[_Standards/WikiData/WD~International_Surfing_Association,1320669|WD~International_Surfing_Association,1320669]]'
+practiced_by: '[[_Standards/WikiData/WD~surfer,13561328|WD~surfer,13561328]]'
+different_from: '[[_Standards/WikiData/WD~Surf,31665924|WD~Surf,31665924]]'
 IAB_code: 505
 IMDb_keyword: surfing
 subreddit: surfing

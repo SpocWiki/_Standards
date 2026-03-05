@@ -42,10 +42,10 @@ aliases:
 - 揚穀
 - 까부르기
 has_id_wikidata: Q961751
-uses: '[[_Standards/WikiData/WD~sieve,381155]]'
-subclass_of: '[[_Standards/WikiData/WD~activity,1914636]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-practiced_by: '[[_Standards/WikiData/WD~winnower,105368227]]'
+uses: '[[_Standards/WikiData/WD~sieve,381155|WD~sieve,381155]]'
+subclass_of: '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+practiced_by: '[[_Standards/WikiData/WD~winnower,105368227|WD~winnower,105368227]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B5%D1%8F%D0%BB%D0%BA%D0%B0.jpg
 Iconclass_notation: 47I1481
 Commons_category: Winnowing

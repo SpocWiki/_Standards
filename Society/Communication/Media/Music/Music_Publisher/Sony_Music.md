@@ -19,11 +19,11 @@ aliases:
 - 索尼音樂
 - 소니 뮤직 엔터테인먼트
 has_id_wikidata: Q330629
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-different_from: '[[_Standards/WikiData/WD~Sony_Music,56760250]]'
-operator: '[[_Standards/WikiData/WD~Sony_Music,56760250]]'
-discography: '[[_Standards/WikiData/WD~Sony_Music_catalog,105047442]]'
-instance_of: '[[_Standards/WikiData/WD~record_label,18127]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+different_from: '[[_Standards/WikiData/WD~Sony_Music,56760250|WD~Sony_Music,56760250]]'
+operator: '[[_Standards/WikiData/WD~Sony_Music,56760250|WD~Sony_Music,56760250]]'
+discography: '[[_Standards/WikiData/WD~Sony_Music_catalog,105047442|WD~Sony_Music_catalog,105047442]]'
+instance_of: '[[_Standards/WikiData/WD~record_label,18127|WD~record_label,18127]]'
 social_media_followers: 62071
 Labelcode: 06667
 inception: 1991-01-01T00:00:00Z
@@ -119,7 +119,7 @@ dv_has_:
 
 # [[Sony_Music]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sony_Music,330629]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sony_Music,330629|WD~Sony_Music,330629]] 
 
 ## #has_/text_of_/abstract 
 

@@ -54,19 +54,19 @@ aliases:
 - 표집
 has_id_wikidata: Q49908
 subclass_of:
-- '[[_Standards/WikiData/WD~activity,423229]]'
-- '[[_Standards/WikiData/WD~designation,5264406]]'
-- '[[_Standards/WikiData/WD~statistical_method,12718609]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213]]'
+- '[[_Standards/WikiData/WD~activity,423229|WD~activity,423229]]'
+- '[[_Standards/WikiData/WD~designation,5264406|WD~designation,5264406]]'
+- '[[_Standards/WikiData/WD~statistical_method,12718609|WD~statistical_method,12718609]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213|WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%A4%20%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A5%83%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BF%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9A%E0%A4%AF%E0%A4%A8.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A4%86%E0%A4%AC%E0%A4%BE%E0%A4%A6%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A4%B8%E0%A4%B0%E0%A4%B2%20%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A5%83%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BF%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9A%E0%A4%AF%E0%A4%A8.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A4%B8%E0%A5%8B%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%AF%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9A%E0%A4%AF%E0%A4%A8.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Systematic%20sampling.PNG
-different_from: '[[_Standards/WikiData/WD~sample,49906]]'
-has_effect: '[[_Standards/WikiData/WD~sample,49906]]'
+different_from: '[[_Standards/WikiData/WD~sample,49906|WD~sample,49906]]'
+has_effect: '[[_Standards/WikiData/WD~sample,49906|WD~sample,49906]]'
 U_S_National_Archives_Identifier: 10647780
 Commons_category: Sampling (statistics)
 dv_has_:

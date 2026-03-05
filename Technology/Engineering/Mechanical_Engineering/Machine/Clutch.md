@@ -56,16 +56,16 @@ aliases:
 - 離合器
 - 클러치
 has_id_wikidata: Q194302
-subclass_of: '[[_Standards/WikiData/WD~machine_element,839546]]'
-different_from: '[[_Standards/WikiData/WD~coupling,944517]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~clutch_alternative,1048579]]'
+subclass_of: '[[_Standards/WikiData/WD~machine_element,839546|WD~machine_element,839546]]'
+different_from: '[[_Standards/WikiData/WD~coupling,944517|WD~coupling,944517]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~clutch_alternative,1048579|WD~clutch_alternative,1048579]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_machine_element,44409287]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~clutch,135686102]]'
-part_of: '[[_Standards/WikiData/WD~machine,11019]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Benz,40224]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_machine_element,44409287|WD~type_of_machine_element,44409287]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~clutch,135686102|WD~clutch,135686102]]'
+part_of: '[[_Standards/WikiData/WD~machine,11019|WD~machine,11019]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Benz,40224|WD~Carl_Benz,40224]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cone%20clutch.svg
 Commons_gallery: Clutch
 Commons_category: Clutches

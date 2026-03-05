@@ -77,20 +77,20 @@ aliases:
 - 트랙터
 has_id_wikidata: Q39495
 used_by:
-- '[[_Standards/WikiData/WD~farmer,131512]]'
-- '[[_Standards/WikiData/WD~tractor_driver,4461829]]'
+- '[[_Standards/WikiData/WD~farmer,131512|WD~farmer,131512]]'
+- '[[_Standards/WikiData/WD~tractor_driver,4461829|WD~tractor_driver,4461829]]'
 item_operated:
-- '[[_Standards/WikiData/WD~trailer,216146]]'
-- '[[_Standards/WikiData/WD~vehicle_attachment,29888707]]'
+- '[[_Standards/WikiData/WD~trailer,216146|WD~trailer,216146]]'
+- '[[_Standards/WikiData/WD~vehicle_attachment,29888707|WD~vehicle_attachment,29888707]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~heavy_equipment,874311]]'
-- '[[_Standards/WikiData/WD~off_road_vehicle,946596]]'
-- '[[_Standards/WikiData/WD~agricultural_motor_vehicle,97408605]]'
-- '[[_Standards/WikiData/WD~outdoor_power_equipment,115923031]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_tractor,14359426]]'
+- '[[_Standards/WikiData/WD~heavy_equipment,874311|WD~heavy_equipment,874311]]'
+- '[[_Standards/WikiData/WD~off_road_vehicle,946596|WD~off_road_vehicle,946596]]'
+- '[[_Standards/WikiData/WD~agricultural_motor_vehicle,97408605|WD~agricultural_motor_vehicle,97408605]]'
+- '[[_Standards/WikiData/WD~outdoor_power_equipment,115923031|WD~outdoor_power_equipment,115923031]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_tractor,14359426|WD~Template_Infobox_tractor,14359426]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 Nomenclature_for_Museum_Cataloging: 12200
 U_S_National_Archives_Identifier: 10646580
 Commons_gallery: Tractor

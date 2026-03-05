@@ -94,26 +94,26 @@ ArchWiki_article: Virtual_reality
 ComputerLanguage_com_definition: virtual+reality
 Dewey_Decimal_Classification: 006.8
 has_use:
-- '[[_Standards/WikiData/WD~entertainment,173799]]'
-- '[[_Standards/WikiData/WD~training,918385]]'
-- '[[_Standards/WikiData/WD~new_product_development,1395034]]'
-- '[[_Standards/WikiData/WD~science,336]]'
-- '[[_Standards/WikiData/WD~art,735]]'
-- '[[_Standards/WikiData/WD~video_game,7889]]'
-- '[[_Standards/WikiData/WD~military,8473]]'
-facet_of: '[[_Standards/WikiData/WD~human_computer_interaction,207434]]'
+- '[[_Standards/WikiData/WD~entertainment,173799|WD~entertainment,173799]]'
+- '[[_Standards/WikiData/WD~training,918385|WD~training,918385]]'
+- '[[_Standards/WikiData/WD~new_product_development,1395034|WD~new_product_development,1395034]]'
+- '[[_Standards/WikiData/WD~science,336|WD~science,336]]'
+- '[[_Standards/WikiData/WD~art,735|WD~art,735]]'
+- '[[_Standards/WikiData/WD~video_game,7889|WD~video_game,7889]]'
+- '[[_Standards/WikiData/WD~military,8473|WD~military,8473]]'
+facet_of: '[[_Standards/WikiData/WD~human_computer_interaction,207434|WD~human_computer_interaction,207434]]'
 different_from:
-- '[[_Standards/WikiData/WD~augmented_reality,254183]]'
-- '[[_Standards/WikiData/WD~simulated_reality,785290]]'
-- '[[_Standards/WikiData/WD~virtual_environment,55950686]]'
-opposite_of: '[[_Standards/WikiData/WD~real_life,1058876]]'
-has_characteristic: '[[_Standards/WikiData/WD~immersion,1660060]]'
+- '[[_Standards/WikiData/WD~augmented_reality,254183|WD~augmented_reality,254183]]'
+- '[[_Standards/WikiData/WD~simulated_reality,785290|WD~simulated_reality,785290]]'
+- '[[_Standards/WikiData/WD~virtual_environment,55950686|WD~virtual_environment,55950686]]'
+opposite_of: '[[_Standards/WikiData/WD~real_life,1058876|WD~real_life,1058876]]'
+has_characteristic: '[[_Standards/WikiData/WD~immersion,1660060|WD~immersion,1660060]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~extended_reality,25052165]]'
-- '[[_Standards/WikiData/WD~virtual_place,107307154]]'
-- '[[../../../../WikiData/WD~simulation,45045]]'
-part_of: '[[_Standards/WikiData/WD~virtual_universe,107307169]]'
-described_by_source: '[[_Standards/WikiData/WD~Virtual_Reality,133280563]]'
+- '[[_Standards/WikiData/WD~extended_reality,25052165|WD~extended_reality,25052165]]'
+- '[[_Standards/WikiData/WD~virtual_place,107307154|WD~virtual_place,107307154]]'
+- '[[../../../../WikiData/WD~simulation,45045|WD~simulation,45045]]'
+part_of: '[[_Standards/WikiData/WD~virtual_universe,107307169|WD~virtual_universe,107307169]]'
+described_by_source: '[[_Standards/WikiData/WD~Virtual_Reality,133280563|WD~Virtual_Reality,133280563]]'
 IAB_code:
 - 639
 - 1029

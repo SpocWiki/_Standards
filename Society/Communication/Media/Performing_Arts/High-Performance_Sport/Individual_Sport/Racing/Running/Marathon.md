@@ -65,20 +65,20 @@ aliases:
 - 마라톤
 has_id_wikidata: Q40244
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~racing,878123]]'
-- '[[_Standards/WikiData/WD~long_distance_running,917206]]'
-instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
-practiced_by: '[[_Standards/WikiData/WD~marathon_runner,13382460]]'
+- '[[_Standards/WikiData/WD~racing,878123|WD~racing,878123]]'
+- '[[_Standards/WikiData/WD~long_distance_running,917206|WD~long_distance_running,917206]]'
+instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410|WD~sports_discipline,2312410]]'
+practiced_by: '[[_Standards/WikiData/WD~marathon_runner,13382460|WD~marathon_runner,13382460]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~finish_line,13627024]]'
-- '[[_Standards/WikiData/WD~timepiece,42622779]]'
-- '[[_Standards/WikiData/WD~Cheering_Zone,133869001]]'
-record_held: '[[_Standards/WikiData/WD~Kelvin_Kiptum,115601844]]'
-sport: '[[_Standards/WikiData/WD~athletics,542]]'
+- '[[_Standards/WikiData/WD~finish_line,13627024|WD~finish_line,13627024]]'
+- '[[_Standards/WikiData/WD~timepiece,42622779|WD~timepiece,42622779]]'
+- '[[_Standards/WikiData/WD~Cheering_Zone,133869001|WD~Cheering_Zone,133869001]]'
+record_held: '[[_Standards/WikiData/WD~Kelvin_Kiptum,115601844|WD~Kelvin_Kiptum,115601844]]'
+sport: '[[_Standards/WikiData/WD~athletics,542|WD~athletics,542]]'
 event_distance: 42.195
 hashtag: marathon
 BHCL_UUID: 3e3e6820-99f7-4e37-9989-113ff287bc3c

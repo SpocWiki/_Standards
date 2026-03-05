@@ -28,8 +28,8 @@ title: is_a_return_in_store Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../ReturnMethodEnumeration]]"
-  enum_of: "[[../ReturnMethodEnumeration]]"
+  parent_class: "[[../ReturnMethodEnumeration|ReturnMethodEnumeration]]"
+  enum_of: "[[../ReturnMethodEnumeration|ReturnMethodEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store|Return_in_Store]]"
     - "[[/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.public|Return_in_Store.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.secret|Return_in_Store.secret]]"
     - "[[Return_in_Store]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../ReturnMethodEnumeration]]"
-dv_is_enum_of: "[[../ReturnMethodEnumeration]]"
+dv_has_parent_class: "[[../ReturnMethodEnumeration|ReturnMethodEnumeration]]"
+dv_is_enum_of: "[[../ReturnMethodEnumeration|ReturnMethodEnumeration]]"
 dv_is_same_as:
   - "[[Return_in_Store]]"
   - "[[/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.public|Return_in_Store.public]]"

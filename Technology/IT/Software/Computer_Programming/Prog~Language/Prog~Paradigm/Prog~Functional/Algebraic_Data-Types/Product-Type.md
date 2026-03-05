@@ -33,11 +33,11 @@ type: private note
 
 # [[Product-Type]] 
 
-#is_/part_of :: [[../Algebraic_Data-Types]] 
+#is_/part_of :: [[../Algebraic_Data-Types|Algebraic_Data-Types]] 
 
 #is_a :: [[categorical_Product]] 
 
-This is the [[categorical_Product]] [[../../../../Knowledge/Math/Category_Theory.internal]]], and is the Dual to the [[Sum-Type]]. 
+This is the [[categorical_Product]] [[../../../../Knowledge/Math/Category_Theory.internal|Category_Theory.internal]]], and is the Dual to the [[Sum-Type]]. 
 
 This are the Structs/classes/tuples/records well-known in any Programming Language.
 

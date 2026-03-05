@@ -141,23 +141,23 @@ short_name:
 - UNSC
 - 안보리
 image: http://commons.wikimedia.org/wiki/Special:FilePath/UN%20Security%20Council%20Nov%2016%202023.jpg
-applies_to_jurisdiction: '[[_Standards/WikiData/WD~member_states_of_the_United_Nations,160016]]'
-child_organization_or_unit: '[[_Standards/WikiData/WD~United_Nations_Stabilisation_Mission_in_Haiti,740123]]'
-different_from: '[[_Standards/WikiData/WD~United_States_National_Security_Council,851756]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~member_states_of_the_United_Nations,160016|WD~member_states_of_the_United_Nations,160016]]'
+child_organization_or_unit: '[[_Standards/WikiData/WD~United_Nations_Stabilisation_Mission_in_Haiti,740123|WD~United_Nations_Stabilisation_Mission_in_Haiti,740123]]'
+different_from: '[[_Standards/WikiData/WD~United_States_National_Security_Council,851756|WD~United_States_National_Security_Council,851756]]'
 part_of:
-- '[[_Standards/WikiData/WD~United_Nations_System,854218]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~United_Nations_System,854218|WD~United_Nations_System,854218]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~President_of_the_United_Nations_Security_Council,4352360]]'
-- '[[_Standards/WikiData/WD~member_of_the_United_Nations_Security_Council,61964031]]'
+- '[[_Standards/WikiData/WD~President_of_the_United_Nations_Security_Council,4352360|WD~President_of_the_United_Nations_Security_Council,4352360]]'
+- '[[_Standards/WikiData/WD~member_of_the_United_Nations_Security_Council,61964031|WD~member_of_the_United_Nations_Security_Council,61964031]]'
 instance_of:
-- '[[_Standards/WikiData/WD~council,4358176]]'
-- '[[_Standards/WikiData/WD~principal_organ_of_the_United_Nations,15899789]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_UN_Security_Council,6487125]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~United_Nations,1065]]'
-headquarters_location: '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~council,4358176|WD~council,4358176]]'
+- '[[_Standards/WikiData/WD~principal_organ_of_the_United_Nations,15899789|WD~principal_organ_of_the_United_Nations,15899789]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_UN_Security_Council,6487125|WD~Template_UN_Security_Council,6487125]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+headquarters_location: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20the%20United%20Nations.svg
 inception: 1945-10-24T00:00:00Z
 described_at_URL:

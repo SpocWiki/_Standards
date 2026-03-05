@@ -107,25 +107,25 @@ aliases:
 - 이집트어
 has_id_wikidata: Q50868
 linguistic_typology:
-- '[[_Standards/WikiData/WD~verb_subject_object,166097]]'
-- '[[_Standards/WikiData/WD~fusional_language,318917]]'
-time_period: '[[_Standards/WikiData/WD~Middle_Kingdom_of_Egypt,191324]]'
-writing_system: '[[_Standards/WikiData/WD~Coptic_script,321083]]'
+- '[[_Standards/WikiData/WD~verb_subject_object,166097|WD~verb_subject_object,166097]]'
+- '[[_Standards/WikiData/WD~fusional_language,318917|WD~fusional_language,318917]]'
+time_period: '[[_Standards/WikiData/WD~Middle_Kingdom_of_Egypt,191324|WD~Middle_Kingdom_of_Egypt,191324]]'
+writing_system: '[[_Standards/WikiData/WD~Coptic_script,321083|WD~Coptic_script,321083]]'
 instance_of:
-- '[[_Standards/WikiData/WD~ancient_language,436240]]'
-- '[[_Standards/WikiData/WD~dead_language,45762]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-UNESCO_language_status: '[[_Standards/WikiData/WD~6_extinct,20672091]]'
+- '[[_Standards/WikiData/WD~ancient_language,436240|WD~ancient_language,436240]]'
+- '[[_Standards/WikiData/WD~dead_language,45762|WD~dead_language,45762]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~6_extinct,20672091|WD~6_extinct,20672091]]'
 different_from:
-- '[[_Standards/WikiData/WD~Egyptian,34610803]]'
-- '[[_Standards/WikiData/WD~Egyptian_Arabic,29919]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Egyptian,34610803]]'
-subclass_of: '[[_Standards/WikiData/WD~Egyptian,34610803]]'
+- '[[_Standards/WikiData/WD~Egyptian,34610803|WD~Egyptian,34610803]]'
+- '[[_Standards/WikiData/WD~Egyptian_Arabic,29919|WD~Egyptian_Arabic,29919]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Egyptian,34610803|WD~Egyptian,34610803]]'
+subclass_of: '[[_Standards/WikiData/WD~Egyptian,34610803|WD~Egyptian,34610803]]'
 inception: -4000-06
 dissolved_abolished_or_demolished_date: 1700-01-01T00:00:00Z
 country:
-- '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
-- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]'
+- '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
 OmegaWiki_Defined_Meaning: 561081
 native_label:
 - "\U0001308B\U000133E4\U00013216\U0001318E\U00013153\U000133CF\U00013296"

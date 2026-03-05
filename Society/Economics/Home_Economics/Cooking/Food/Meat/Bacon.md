@@ -56,17 +56,17 @@ aliases:
 - 베이컨
 has_id_wikidata: Q11106
 has_part_s_:
-- '[[_Standards/WikiData/WD~pork,191768]]'
-- '[[_Standards/WikiData/WD~fatback,5437342]]'
-made_from_material: '[[_Standards/WikiData/WD~pork,191768]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Bacon,6709648]]'
+- '[[_Standards/WikiData/WD~pork,191768|WD~pork,191768]]'
+- '[[_Standards/WikiData/WD~fatback,5437342|WD~fatback,5437342]]'
+made_from_material: '[[_Standards/WikiData/WD~pork,191768|WD~pork,191768]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Bacon,6709648|WD~Template_Bacon,6709648]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]'
-- '[[_Standards/WikiData/WD~Bacon_task_force,21829503]]'
+- '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990|WD~WikiProject_Food_and_drink,8485990]]'
+- '[[_Standards/WikiData/WD~Bacon_task_force,21829503|WD~Bacon_task_force,21829503]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~raw_whole_muscle_cut,81621610]]'
-- '[[_Standards/WikiData/WD~meat,10990]]'
+- '[[_Standards/WikiData/WD~raw_whole_muscle_cut,81621610|WD~raw_whole_muscle_cut,81621610]]'
+- '[[_Standards/WikiData/WD~meat,10990|WD~meat,10990]]'
 food_energy: 556
 IMDb_keyword: bacon
 hashtag:

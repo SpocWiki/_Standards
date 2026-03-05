@@ -83,21 +83,21 @@ aliases:
 - 圖形用戶界面
 - 그래픽 사용자 인터페이스
 has_id_wikidata: Q782543
-opposite_of: '[[_Standards/WikiData/WD~text_based_user_interface,184752]]'
+opposite_of: '[[_Standards/WikiData/WD~text_based_user_interface,184752|WD~text_based_user_interface,184752]]'
 has_contributing_factor:
-- '[[_Standards/WikiData/WD~structural_formula,496353]]'
-- '[[_Standards/WikiData/WD~audiovisual_work,2431196]]'
-- '[[_Standards/WikiData/WD~mathematical_expression,6498784]]'
-- '[[_Standards/WikiData/WD~video_game,7889]]'
+- '[[_Standards/WikiData/WD~structural_formula,496353|WD~structural_formula,496353]]'
+- '[[_Standards/WikiData/WD~audiovisual_work,2431196|WD~audiovisual_work,2431196]]'
+- '[[_Standards/WikiData/WD~mathematical_expression,6498784|WD~mathematical_expression,6498784]]'
+- '[[_Standards/WikiData/WD~video_game,7889|WD~video_game,7889]]'
 different_from:
-- '[[_Standards/WikiData/WD~client,528166]]'
-- '[[_Standards/WikiData/WD~voice_user_interface,2350070]]'
+- '[[_Standards/WikiData/WD~client,528166|WD~client,528166]]'
+- '[[_Standards/WikiData/WD~voice_user_interface,2350070|WD~voice_user_interface,2350070]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~system_software,676202]]'
-- '[[_Standards/WikiData/WD~user_interface,47146]]'
-has_part_s_: '[[_Standards/WikiData/WD~active_window,4677602]]'
-instance_of: '[[_Standards/WikiData/WD~software_category,17155032]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Ivan_Sutherland,62866]]'
+- '[[_Standards/WikiData/WD~system_software,676202|WD~system_software,676202]]'
+- '[[_Standards/WikiData/WD~user_interface,47146|WD~user_interface,47146]]'
+has_part_s_: '[[_Standards/WikiData/WD~active_window,4677602|WD~active_window,4677602]]'
+instance_of: '[[_Standards/WikiData/WD~software_category,17155032|WD~software_category,17155032]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Ivan_Sutherland,62866|WD~Ivan_Sutherland,62866]]'
 GitHub_topic: gui
 time_of_discovery_or_invention: 1973-01-01T00:00:00Z
 image:
@@ -202,7 +202,7 @@ dv_has_:
 # [[GUI(Graphical_User_Interface)]] 
 
 #is_/same_as :: [[WD~Graphical_user_interface,782543]] 
-#is_/alternative_to :: [[GUI(Graphical_User_Interface)/CLI(Command-Line_Interface)]] 
+#is_/alternative_to :: [[GUI(Graphical_User_Interface)/CLI(Command-Line_Interface)|CLI(Command-Line_Interface)]] 
 
 ## #has_/text_of_/abstract 
 

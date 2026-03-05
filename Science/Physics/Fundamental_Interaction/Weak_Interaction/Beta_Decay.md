@@ -72,11 +72,11 @@ aliases:
 - 베타 붕괴
 has_id_wikidata: Q306786
 different_from:
-- '[[_Standards/WikiData/WD~beta_particle,103531]]'
-- '[[_Standards/WikiData/WD~beta_radiation,12082432]]'
-instance_of: '[[_Standards/WikiData/WD~decay_mode,1048111]]'
-subclass_of: '[[_Standards/WikiData/WD~radioactive_decay,3332922]]'
-has_effect: '[[_Standards/WikiData/WD~beta_radiation,12082432]]'
+- '[[_Standards/WikiData/WD~beta_particle,103531|WD~beta_particle,103531]]'
+- '[[_Standards/WikiData/WD~beta_radiation,12082432|WD~beta_radiation,12082432]]'
+instance_of: '[[_Standards/WikiData/WD~decay_mode,1048111|WD~decay_mode,1048111]]'
+subclass_of: '[[_Standards/WikiData/WD~radioactive_decay,3332922|WD~radioactive_decay,3332922]]'
+has_effect: '[[_Standards/WikiData/WD~beta_radiation,12082432|WD~beta_radiation,12082432]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Beta-minus%20Decay.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Beta-plus%20Decay.svg

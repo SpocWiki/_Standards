@@ -25,22 +25,22 @@ aliases:
 - 獵戶座太空船
 - 오리온 우주선
 has_id_wikidata: Q211727
-type_of_orbit: '[[_Standards/WikiData/WD~low_Earth_orbit,663611]]'
+type_of_orbit: '[[_Standards/WikiData/WD~low_Earth_orbit,663611|WD~low_Earth_orbit,663611]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~space_capsule,957055]]'
-- '[[_Standards/WikiData/WD~crewed_spacecraft,7217761]]'
-- '[[_Standards/WikiData/WD~reusable_spacecraft,96401666]]'
-replaces: '[[_Standards/WikiData/WD~Crew_Exploration_Vehicle,969345]]'
+- '[[_Standards/WikiData/WD~space_capsule,957055|WD~space_capsule,957055]]'
+- '[[_Standards/WikiData/WD~crewed_spacecraft,7217761|WD~crewed_spacecraft,7217761]]'
+- '[[_Standards/WikiData/WD~reusable_spacecraft,96401666|WD~reusable_spacecraft,96401666]]'
+replaces: '[[_Standards/WikiData/WD~Crew_Exploration_Vehicle,969345|WD~Crew_Exploration_Vehicle,969345]]'
 different_from:
-- '[[_Standards/WikiData/WD~Raumpatrouille_Orion_Rücksturz_ins_Kino,1638629]]'
-- '[[_Standards/WikiData/WD~Raumschiff_Orion,1777830]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Orion_(spacecraft),8705481]]'
+- '[[_Standards/WikiData/WD~Raumpatrouille_Orion_Rücksturz_ins_Kino,1638629|WD~Raumpatrouille_Orion_Rücksturz_ins_Kino,1638629]]'
+- '[[_Standards/WikiData/WD~Raumschiff_Orion,1777830|WD~Raumschiff_Orion,1777830]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Orion_(spacecraft),8705481|WD~Category_Orion_(spacecraft),8705481]]'
 manufacturer:
-- '[[_Standards/WikiData/WD~Airbus_Defence_and_Space,15529123]]'
-- '[[_Standards/WikiData/WD~Lockheed_Martin,7240]]'
-instance_of: '[[_Standards/WikiData/WD~vehicle_model,29048322]]'
-named_after: '[[_Standards/WikiData/WD~Orion,8860]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Airbus_Defence_and_Space,15529123|WD~Airbus_Defence_and_Space,15529123]]'
+- '[[_Standards/WikiData/WD~Lockheed_Martin,7240|WD~Lockheed_Martin,7240]]'
+instance_of: '[[_Standards/WikiData/WD~vehicle_model,29048322|WD~vehicle_model,29048322]]'
+named_after: '[[_Standards/WikiData/WD~Orion,8860|WD~Orion,8860]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 diameter:
 - 1
 - 5.03

@@ -39,7 +39,7 @@ dv_has_:
   child_class:
     - "[[Choose_Action/Vote_Action|Vote_Action]]"
   parent_class:
-    - "[[../AssessAction]]"
+    - "[[../AssessAction|AssessAction]]"
   properties:
     - "[[../../../../Property/Texts/has_action_option|has_action_option]]"
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"
@@ -68,7 +68,7 @@ dv_has_:
     - "[[../../../../Relation/has/has_target|has_target]]"
     - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../assess_action|../assess_action]]"
+  - "[[../assess_action|../assess_action|assess_action]]"
 dv_has_child_class:
   - "[[Choose_Action/Vote_Action|Vote_Action]]"
 dv_has_properties:

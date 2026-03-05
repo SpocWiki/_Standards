@@ -319,7 +319,7 @@ dv_UNTERM_Chinese_Formal: 巴林王国
 dv_UNTERM_French_Formal: le Royaume de Bahreïn
 dv_UNTERM_Russian: Бахрейн
 dv_UNTERM_Russian_Formal: Королевство Бахрейн
-dv_Region_Name: "[[../../Asia]]"
+dv_Region_Name: "[[../../Asia|Asia]]"
 dv_Intermediate_Region_Name: "[[Bahrain]]"
 dv_Sub-region_Name: "[[Western Asia]]"
 dv_Region: 142
@@ -355,9 +355,9 @@ dv_is_:
 dv_has_name_de: Bahrain
 dv_Area-Total: 680
 dv_Area-Land: 680
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: "[[../../Asia|Asia]]"
 dv_VehicleCode: BRN
-dv_Capital: "[[Bahrain/Counties/Al_Manāmah/City/Manama]]"
+dv_Capital: "[[Bahrain/Counties/Al_Manāmah/City/Manama|Manama]]"
 dv_Alcohol-l: 3.7
 dv_Language-Id: 472
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
@@ -622,84 +622,84 @@ nominal_GDP:
   - 44390820479
   - 39303403989
 instance_of:
-  - "[[_Standards/WikiData/WD~island_country,112099]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~archipelago,33837]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Bahrain,130481]]"
+  - "[[_Standards/WikiData/WD~island_country,112099|WD~island_country,112099]]"
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256|WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~archipelago,33837|WD~archipelago,33837]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Bahrain,130481|WD~flag_of_Bahrain,130481]]"
 member_of:
-  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~Cooperation_Council_for_the_Arab_States_of_the_Gulf,217172]]"
-  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
-  - "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Arab_League,7172]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Bahrain,188294]]"
-anthem: "[[_Standards/WikiData/WD~Bahrainona,234655]]"
+  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~Cooperation_Council_for_the_Arab_States_of_the_Gulf,217172|WD~Cooperation_Council_for_the_Arab_States_of_the_Gulf,217172]]"
+  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307|WD~Arab_Monetary_Fund,624307]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381|WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
+  - "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148|WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
+  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~Arab_League,7172|WD~Arab_League,7172]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Bahrain,188294|WD~coat_of_arms_of_Bahrain,188294]]"
+anthem: "[[_Standards/WikiData/WD~Bahrainona,234655|WD~Bahrainona,234655]]"
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Muharraq_Governorate,375630]]"
-  - "[[_Standards/WikiData/WD~Capital_Governorate,528953]]"
-  - "[[_Standards/WikiData/WD~Southern_Governorate,838532]]"
-  - "[[_Standards/WikiData/WD~Northern_Governorate,840445]]"
-  - "[[_Standards/WikiData/WD~Central_Governorate,856539]]"
-central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Bahrain,571182]]"
+  - "[[_Standards/WikiData/WD~Muharraq_Governorate,375630|WD~Muharraq_Governorate,375630]]"
+  - "[[_Standards/WikiData/WD~Capital_Governorate,528953|WD~Capital_Governorate,528953]]"
+  - "[[_Standards/WikiData/WD~Southern_Governorate,838532|WD~Southern_Governorate,838532]]"
+  - "[[_Standards/WikiData/WD~Northern_Governorate,840445|WD~Northern_Governorate,840445]]"
+  - "[[_Standards/WikiData/WD~Central_Governorate,856539|WD~Central_Governorate,856539]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Bahrain,571182|WD~Central_Bank_of_Bahrain,571182]]"
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Evangelisches_Kirchenlexikon,1381325]]"
-  - "[[_Standards/WikiData/WD~International_Encyclopedia_of_Comparative_Law,1666514]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Women_and_Islamic_Cultures,5375726]]"
-  - "[[_Standards/WikiData/WD~World_Christian_Encyclopedia,8035512]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
-  - "[[_Standards/WikiData/WD~International_Year_Book_and_Statesmen's_Who's_Who,109077361]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Law_and_Religion,109077629]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Jews_in_the_Islamic_World,109078091]]"
-highest_point: "[[_Standards/WikiData/WD~Mountain_of_Smoke,1032812]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~BS_1363,1528507]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Bahrain,2248536]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Bahrain,2303563]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Bahrain,2366577]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Bahrain,2745892]]"
-emergency_phone_number: "[[_Standards/WikiData/WD~999,3086706]]"
-legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Bahrain,3242616]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Bahrain,7112196]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q7463293,7463293]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Bahrain,14615462]]"
-replaces: "[[_Standards/WikiData/WD~State_of_Bahrain,16826607]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q24259088,24259088]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_Bahrain,42719346]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Evangelisches_Kirchenlexikon,1381325|WD~Evangelisches_Kirchenlexikon,1381325]]"
+  - "[[_Standards/WikiData/WD~International_Encyclopedia_of_Comparative_Law,1666514|WD~International_Encyclopedia_of_Comparative_Law,1666514]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Women_and_Islamic_Cultures,5375726|WD~Encyclopedia_of_Women_and_Islamic_Cultures,5375726]]"
+  - "[[_Standards/WikiData/WD~World_Christian_Encyclopedia,8035512|WD~World_Christian_Encyclopedia,8035512]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075|WD~TASS_Encyclopedia,63985075]]"
+  - "[[_Standards/WikiData/WD~International_Year_Book_and_Statesmen's_Who's_Who,109077361|WD~International_Year_Book_and_Statesmen's_Who's_Who,109077361]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Law_and_Religion,109077629|WD~Encyclopedia_of_Law_and_Religion,109077629]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Jews_in_the_Islamic_World,109078091|WD~Encyclopedia_of_Jews_in_the_Islamic_World,109078091]]"
+highest_point: "[[_Standards/WikiData/WD~Mountain_of_Smoke,1032812|WD~Mountain_of_Smoke,1032812]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~BS_1363,1528507|WD~BS_1363,1528507]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Bahrain,2248536|WD~economy_of_Bahrain,2248536]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Bahrain,2303563|WD~geography_of_Bahrain,2303563]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Bahrain,2366577|WD~culture_of_Bahrain,2366577]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Bahrain,2745892|WD~demographics_of_Bahrain,2745892]]"
+emergency_phone_number: "[[_Standards/WikiData/WD~999,3086706|WD~999,3086706]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Bahrain,3242616|WD~National_Assembly_of_Bahrain,3242616]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Bahrain,7112196|WD~outline_of_Bahrain,7112196]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q7463293,7463293|WD~Q7463293,7463293]]"
+driving_side: "[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Bahrain,14615462|WD~Portal_Bahrain,14615462]]"
+replaces: "[[_Standards/WikiData/WD~State_of_Bahrain,16826607|WD~State_of_Bahrain,16826607]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q24259088,24259088|WD~Q24259088,24259088]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_Bahrain,42719346|WD~monarch_of_Bahrain,42719346]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]"
 part_of:
-  - "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
-  - "[[_Standards/WikiData/WD~Gulf_States,109647832]]"
-  - "[[_Standards/WikiData/WD~Middle_East,7204]]"
-  - "[[_Standards/WikiData/WD~West_Asia,27293]]"
-open_data_portal: "[[_Standards/WikiData/WD~Bahrain_Open_Data__portal,97020160]]"
+  - "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647|WD~European_Union_tax_haven_blacklist,66458647]]"
+  - "[[_Standards/WikiData/WD~Gulf_States,109647832|WD~Gulf_States,109647832]]"
+  - "[[_Standards/WikiData/WD~Middle_East,7204|WD~Middle_East,7204]]"
+  - "[[_Standards/WikiData/WD~West_Asia,27293|WD~West_Asia,27293]]"
+open_data_portal: "[[_Standards/WikiData/WD~Bahrain_Open_Data__portal,97020160|WD~Bahrain_Open_Data__portal,97020160]]"
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Asia_Bahrain,109526592]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
+  - "[[_Standards/WikiData/WD~Asia_Bahrain,109526592|WD~Asia_Bahrain,109526592]]"
+  - "[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]"
 UMLS_CUI: C0004684
 ISNI:
   - 404023058
@@ -708,34 +708,34 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Manama%2C%20Bahrain%20
 coordinates_of_southernmost_point: Point(50.75820386 25.57984018)
 coordinate_location: Point(50.551111 26.0675)
 coordinates_of_northernmost_point: Point(50.65 26.3)
-country: "[[_Standards/WikiData/WD~Bahrain,398]]"
+country: "[[_Standards/WikiData/WD~Bahrain,398|WD~Bahrain,398]]"
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Yemen,805]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-official_religion: "[[_Standards/WikiData/WD~Islam,432]]"
-shares_border_with: "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+  - "[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~Yemen,805|WD~Yemen,805]]"
+  - "[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]"
+official_religion: "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
+shares_border_with: "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
 language_used:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Malay,9237]]"
-  - "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
-  - "[[_Standards/WikiData/WD~Bahrani_Arabic,56576]]"
-capital: "[[_Standards/WikiData/WD~Manama,3882]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Middle_East,7204]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Malay,9237|WD~Malay,9237]]"
+  - "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467|WD~Modern_Standard_Arabic,56467]]"
+  - "[[_Standards/WikiData/WD~Bahrani_Arabic,56576|WD~Bahrani_Arabic,56576]]"
+capital: "[[_Standards/WikiData/WD~Manama,3882|WD~Manama,3882]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Middle_East,7204|WD~Middle_East,7204]]"
+official_language: "[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 VAT_rate: 10
 unemployment_rate: 4
 age_of_majority: 21
@@ -751,10 +751,10 @@ BTI_Status_Index:
   - 6.05
   - 6.21
 suicide_rate: 5.9
-lowest_point: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.bh,39993]]"
+lowest_point: "[[_Standards/WikiData/WD~Persian_Gulf,34675|WD~Persian_Gulf,34675]]"
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.bh,39993|WD~.bh,39993]]"
 Democracy_Index: 2.52
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614|WD~constitutional_monarchy,41614]]"
 BTI_Governance_Index:
   - 3.24
   - 3.52
@@ -766,11 +766,11 @@ BTI_Governance_Index:
   - 4.66
   - 4.86
 Happy_Planet_Index_score: 33.6
-madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
+madhhab: "[[_Standards/WikiData/WD~Malikism,48221|WD~Malikism,48221]]"
 life_expectancy: 76.9
-head_of_state: "[[_Standards/WikiData/WD~Hamad_II_of_Bahrain,57352]]"
-head_of_government: "[[_Standards/WikiData/WD~Salman_bin_Hamad,_Crown_Prince_of_Bahrain,58140]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Bahrain,58150]]"
+head_of_state: "[[_Standards/WikiData/WD~Hamad_II_of_Bahrain,57352|WD~Hamad_II_of_Bahrain,57352]]"
+head_of_government: "[[_Standards/WikiData/WD~Salman_bin_Hamad,_Crown_Prince_of_Bahrain,58140|WD~Salman_bin_Hamad,_Crown_Prince_of_Bahrain,58140]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Bahrain,58150|WD~Prime_Minister_of_Bahrain,58150]]"
 Human_Development_Index: 0.875
 geoshape: http://commons.wikimedia.org/data/main/Data:Bahrain.map
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bahrain%20Fort%20banner.jpg
@@ -863,7 +863,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Bahrain/ReadMe]] 
+[[Bahrain/ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -888,7 +888,7 @@ VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Bahrain/Emblem_of_Bahrain.svg|350]]  
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bahrain.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bahrain.mp3|Anthem-Bahrain.mp3]]
 ![[Bahrain/Flag_of_Bahrain.svg|350]]  
 
 Alcohol-l = `=this.dv_Alcohol-l`

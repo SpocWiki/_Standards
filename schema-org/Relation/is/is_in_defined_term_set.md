@@ -43,7 +43,7 @@ dv_has_:
   name: is_in_defined_term_set
   range:
     - "[[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]]"
-    - "[[../../Class/is_a_/Data_Type/Text/Url]]"
+    - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
   parent_:
     property: "[[../../Composite/is_part_of|is_part_of]]"
   child_:
@@ -53,7 +53,7 @@ dv_has_domain: "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
 dv_has_name: is_in_defined_term_set
 dv_has_range:
   - "[[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]]"
-  - "[[../../Class/is_a_/Data_Type/Text/Url]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_has_parent_property: "[[../../Composite/is_part_of|is_part_of]]"
 dv_has_child_property: "[[is_in_code_set]]"
 dv_is_same_as:
@@ -71,14 +71,14 @@ is_part_of = `=this.dv_is_part_of`
 Specifies the [[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]] that contains this [[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]].
 
 Use it like this: 
-- #is_/in_/defined_term_set : : "[[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]]", "[[../../Class/is_a_/Data_Type/Text/Url]]" 
-- is_in_defined_term_set : : "[[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]]", "[[../../Class/is_a_/Data_Type/Text/Url]]"  
+- #is_/in_/defined_term_set : : "[[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]]", "[[../../Class/is_a_/Data_Type/Text/Url|Url]]" 
+- is_in_defined_term_set : : "[[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]]", "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"  
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-(has_/range :: "[[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]]", "[[../../Class/is_a_/Data_Type/Text/Url]]" )
+(has_/range :: "[[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]]", "[[../../Class/is_a_/Data_Type/Text/Url|Url]]" )
 
 has_parent_property = `=this.dv_has_parent_property` 
 

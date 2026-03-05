@@ -43,11 +43,11 @@ aliases:
 - 国际学生能力评估项目
 - 國際學生能力評估計劃
 has_id_wikidata: Q323481
-follows: '[[_Standards/WikiData/WD~Programme_for_International_Student_Assessment_2000_2012,25242029]]'
+follows: '[[_Standards/WikiData/WD~Programme_for_International_Student_Assessment_2000_2012,25242029|WD~Programme_for_International_Student_Assessment_2000_2012,25242029]]'
 instance_of:
-- '[[_Standards/WikiData/WD~statistical_investigation,64418432]]'
-- '[[_Standards/WikiData/WD~student_assessment,117185304]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~statistical_investigation,64418432|WD~statistical_investigation,64418432]]'
+- '[[_Standards/WikiData/WD~student_assessment,117185304|WD~student_assessment,117185304]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 social_media_followers: 20500
 inception: 1997-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PISA%20participants%202022.svg

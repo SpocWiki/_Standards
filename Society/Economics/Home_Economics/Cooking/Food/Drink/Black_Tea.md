@@ -69,15 +69,15 @@ aliases:
 - 红茶
 - 홍차
 has_id_wikidata: Q203415
-different_from: '[[_Standards/WikiData/WD~black_drink,2611017]]'
+different_from: '[[_Standards/WikiData/WD~black_drink,2611017|WD~black_drink,2611017]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~caffeinated_drink,5017160]]'
-- '[[_Standards/WikiData/WD~tea_leaves,32022234]]'
-- '[[_Standards/WikiData/WD~tea,6097]]'
-has_part_s_: "[[_Standards/WikiData/WD~Theaflavin_3,3'_digallate,7777226]]"
-topic_has_template: '[[_Standards/WikiData/WD~Q20697801,20697801]]'
-part_of: '[[_Standards/WikiData/WD~tea,6097]]'
-country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
+- '[[_Standards/WikiData/WD~caffeinated_drink,5017160|WD~caffeinated_drink,5017160]]'
+- '[[_Standards/WikiData/WD~tea_leaves,32022234|WD~tea_leaves,32022234]]'
+- '[[_Standards/WikiData/WD~tea,6097|WD~tea,6097]]'
+has_part_s_: "[[_Standards/WikiData/WD~Theaflavin_3,3'_digallate,7777226|WD~Theaflavin_3,3'_digallate,7777226]]"
+topic_has_template: '[[_Standards/WikiData/WD~Q20697801,20697801|WD~Q20697801,20697801]]'
+part_of: '[[_Standards/WikiData/WD~tea,6097|WD~tea,6097]]'
+country_of_origin: '[[_Standards/WikiData/WD~China,29520|WD~China,29520]]'
 water_footprint: 8856
 OmegaWiki_Defined_Meaning: 1075894
 Unicode_character: ☕

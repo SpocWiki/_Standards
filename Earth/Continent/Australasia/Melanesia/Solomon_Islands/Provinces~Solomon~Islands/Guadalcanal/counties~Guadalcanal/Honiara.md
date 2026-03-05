@@ -56,7 +56,7 @@ dv_is_a_: '[[../../../../../../../Geography/Place/Administrative_Area/City|City]
 dv_has_place_longitude: 159.8167
 dv_has_place_latitude: -9.466666
 dv_has_name: Honiara
-dv_has_place_country: '[[../_0-New/Solomon~Islands]]'
+dv_has_place_country: '[[../_0-New/Solomon~Islands|Solomon~Islands]]'
 dv_is_:
   same_as:
   - '[[../../../../../../../../WikiData/WD~Honiara,40921|WD~Honiara,40921]]'

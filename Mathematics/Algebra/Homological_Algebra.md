@@ -38,10 +38,10 @@ aliases:
 - 호몰로지 대수학
 has_id_wikidata: Q579978
 part_of:
-- '[[_Standards/WikiData/WD~abstract_algebra,159943]]'
-- '[[_Standards/WikiData/WD~algebraic_topology,212803]]'
-- '[[_Standards/WikiData/WD~category_theory,217413]]'
-instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~abstract_algebra,159943|WD~abstract_algebra,159943]]'
+- '[[_Standards/WikiData/WD~algebraic_topology,212803|WD~algebraic_topology,212803]]'
+- '[[_Standards/WikiData/WD~category_theory,217413|WD~category_theory,217413]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
 Commons_category: Homological algebra
 dv_has_:
   name_:

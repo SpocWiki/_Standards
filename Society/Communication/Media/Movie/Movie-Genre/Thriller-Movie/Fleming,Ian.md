@@ -34,48 +34,48 @@ aliases:
 - 伊恩法蘭明
 - 이언 플레밍
 has_id_wikidata: Q82104
-place_of_birth: '[[_Standards/WikiData/WD~Mayfair,124184]]'
-military_branch: '[[_Standards/WikiData/WD~Royal_Navy,172771]]'
-genre: '[[_Standards/WikiData/WD~detective_fiction,186424]]'
+place_of_birth: '[[_Standards/WikiData/WD~Mayfair,124184|WD~Mayfair,124184]]'
+military_branch: '[[_Standards/WikiData/WD~Royal_Navy,172771|WD~Royal_Navy,172771]]'
+genre: '[[_Standards/WikiData/WD~detective_fiction,186424|WD~detective_fiction,186424]]'
 educated_at:
-- '[[_Standards/WikiData/WD~Eton_College,192088]]'
-- '[[_Standards/WikiData/WD~University_of_Geneva,503473]]'
-- '[[_Standards/WikiData/WD~Durnford_School,5316700]]'
-- '[[_Standards/WikiData/WD~Royal_Military_College,_Sandhurst,17020147]]'
-- '[[_Standards/WikiData/WD~Ludwig_Maximilians_Universität_München,55044]]'
-employer: '[[_Standards/WikiData/WD~Office_of_Strategic_Services,658626]]'
-family_name: '[[_Standards/WikiData/WD~Fleming,1427982]]'
-award_received: "[[_Standards/WikiData/WD~King_Christian_X's_Liberty_Medal,1801501]]"
+- '[[_Standards/WikiData/WD~Eton_College,192088|WD~Eton_College,192088]]'
+- '[[_Standards/WikiData/WD~University_of_Geneva,503473|WD~University_of_Geneva,503473]]'
+- '[[_Standards/WikiData/WD~Durnford_School,5316700|WD~Durnford_School,5316700]]'
+- '[[_Standards/WikiData/WD~Royal_Military_College,_Sandhurst,17020147|WD~Royal_Military_College,_Sandhurst,17020147]]'
+- '[[_Standards/WikiData/WD~Ludwig_Maximilians_Universität_München,55044|WD~Ludwig_Maximilians_Universität_München,55044]]'
+employer: '[[_Standards/WikiData/WD~Office_of_Strategic_Services,658626|WD~Office_of_Strategic_Services,658626]]'
+family_name: '[[_Standards/WikiData/WD~Fleming,1427982|WD~Fleming,1427982]]'
+award_received: "[[_Standards/WikiData/WD~King_Christian_X's_Liberty_Medal,1801501|WD~King_Christian_X's_Liberty_Medal,1801501]]"
 occupation:
-- '[[_Standards/WikiData/WD~journalist,1930187]]'
-- '[[_Standards/WikiData/WD~novelist,6625963]]'
-- '[[_Standards/WikiData/WD~prose_writer,12144794]]'
-- '[[_Standards/WikiData/WD~screenwriter,28389]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-- '[[_Standards/WikiData/WD~sailor,45199]]'
+- '[[_Standards/WikiData/WD~journalist,1930187|WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~novelist,6625963|WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~prose_writer,12144794|WD~prose_writer,12144794]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389|WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~sailor,45199|WD~sailor,45199]]'
 sibling:
-- '[[_Standards/WikiData/WD~Peter_Fleming,2605075]]'
-- '[[_Standards/WikiData/WD~Amaryllis_Fleming,4740365]]'
-- '[[_Standards/WikiData/WD~Michael_Valentine_Paul_Fleming,75242046]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-owner_of: '[[_Standards/WikiData/WD~Goldeneye,3773063]]'
-mother: '[[_Standards/WikiData/WD~Evelyn_St._Croix_Fleming,5416448]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-place_of_burial: '[[_Standards/WikiData/WD~Sevenhampton,7457578]]'
+- '[[_Standards/WikiData/WD~Peter_Fleming,2605075|WD~Peter_Fleming,2605075]]'
+- '[[_Standards/WikiData/WD~Amaryllis_Fleming,4740365|WD~Amaryllis_Fleming,4740365]]'
+- '[[_Standards/WikiData/WD~Michael_Valentine_Paul_Fleming,75242046|WD~Michael_Valentine_Paul_Fleming,75242046]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+owner_of: '[[_Standards/WikiData/WD~Goldeneye,3773063|WD~Goldeneye,3773063]]'
+mother: '[[_Standards/WikiData/WD~Evelyn_St._Croix_Fleming,5416448|WD~Evelyn_St._Croix_Fleming,5416448]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+place_of_burial: '[[_Standards/WikiData/WD~Sevenhampton,7457578|WD~Sevenhampton,7457578]]'
 given_name:
-- '[[_Standards/WikiData/WD~Ian,18336315]]'
-- '[[_Standards/WikiData/WD~Lancaster,111048135]]'
-spouse: '[[_Standards/WikiData/WD~Ann_Fleming,18526481]]'
-father: '[[_Standards/WikiData/WD~Valentine_Fleming,19787773]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-child: '[[_Standards/WikiData/WD~Caspar_Robert_Fleming,75618947]]'
-unmarried_partner: '[[_Standards/WikiData/WD~Monique_Panchaud_de_Bottens,116273186]]'
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
-place_of_death: '[[_Standards/WikiData/WD~Canterbury,29303]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Ian,18336315|WD~Ian,18336315]]'
+- '[[_Standards/WikiData/WD~Lancaster,111048135|WD~Lancaster,111048135]]'
+spouse: '[[_Standards/WikiData/WD~Ann_Fleming,18526481|WD~Ann_Fleming,18526481]]'
+father: '[[_Standards/WikiData/WD~Valentine_Fleming,19787773|WD~Valentine_Fleming,19787773]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+child: '[[_Standards/WikiData/WD~Caspar_Robert_Fleming,75618947|WD~Caspar_Robert_Fleming,75618947]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Monique_Panchaud_de_Bottens,116273186|WD~Monique_Panchaud_de_Bottens,116273186]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152|WD~myocardial_infarction,12152]]'
+place_of_death: '[[_Standards/WikiData/WD~Canterbury,29303|WD~Canterbury,29303]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 social_media_followers: 9098
 Commons_category: Ian Fleming
 X_Twitter_username: theianfleming
@@ -199,7 +199,7 @@ dv_has_:
 #is_/similar_to :: [[John le Carré]] 
 #is_/similar_to :: [[Forsyth,Frederick]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ian_Fleming,82104]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ian_Fleming,82104|WD~Ian_Fleming,82104]] 
 
 ## #has_/text_of_/abstract 
 

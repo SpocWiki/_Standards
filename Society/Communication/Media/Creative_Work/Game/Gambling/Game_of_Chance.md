@@ -54,12 +54,12 @@ aliases:
 - 運が左右するゲーム
 - 확률 게임
 has_id_wikidata: Q3590573
-uses: '[[_Standards/WikiData/WD~randomness,176640]]'
-has_characteristic: '[[_Standards/WikiData/WD~randomness,176640]]'
-opposite_of: '[[_Standards/WikiData/WD~game_of_skill,1368898]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~game_combining_chance_and_skill,111054084]]'
-subclass_of: '[[_Standards/WikiData/WD~game,11410]]'
-different_from: '[[_Standards/WikiData/WD~gambling,11416]]'
+uses: '[[_Standards/WikiData/WD~randomness,176640|WD~randomness,176640]]'
+has_characteristic: '[[_Standards/WikiData/WD~randomness,176640|WD~randomness,176640]]'
+opposite_of: '[[_Standards/WikiData/WD~game_of_skill,1368898|WD~game_of_skill,1368898]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~game_combining_chance_and_skill,111054084|WD~game_combining_chance_and_skill,111054084]]'
+subclass_of: '[[_Standards/WikiData/WD~game,11410|WD~game,11410]]'
+different_from: '[[_Standards/WikiData/WD~gambling,11416|WD~gambling,11416]]'
 dv_has_:
   name_:
     an: chuego d'azar
@@ -127,7 +127,7 @@ dv_has_:
 
 # [[Game_of_Chance]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~game_of_chance,3590573]]
+#is_/same_as :: [[_Standards/WikiData/WD~game_of_chance,3590573|WD~game_of_chance,3590573]]
 
 ## #has_/text_of_/abstract 
 

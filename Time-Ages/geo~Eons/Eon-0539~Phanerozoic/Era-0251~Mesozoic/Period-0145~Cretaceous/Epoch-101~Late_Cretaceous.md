@@ -52,12 +52,12 @@ aliases:
 - 백악기 후기
 ischart: UpperCretaceous
 has_id_wikidata: Q338199
-named_after: '[[_Standards/WikiData/WD~chalk,183670]]'
+named_after: '[[_Standards/WikiData/WD~chalk,183670|WD~chalk,183670]]'
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Late_Cretaceous,20078604]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Late_Cretaceous,20078604|WD~Category_Late_Cretaceous,20078604]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -66000000-01-01T00:00:00Z
 start_time: -100500000-01-01T00:00:00Z
 Commons_category: Late Cretaceous
@@ -186,7 +186,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 100.5 to 66.0 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-085_Ma_(Santonian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-085_Ma_(Santonian_Age).png|Earth-085_Ma_(Santonian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

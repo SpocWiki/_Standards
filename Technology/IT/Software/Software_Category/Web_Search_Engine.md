@@ -95,16 +95,16 @@ aliases:
 - 웹 검색 엔진
 has_id_wikidata: Q4182287
 subclass_of:
-- '[[_Standards/WikiData/WD~web_service,193424]]'
-- '[[_Standards/WikiData/WD~search_engine,19541]]'
-has_use: '[[_Standards/WikiData/WD~online_search,7094123]]'
+- '[[_Standards/WikiData/WD~web_service,193424|WD~web_service,193424]]'
+- '[[_Standards/WikiData/WD~search_engine,19541|WD~search_engine,19541]]'
+has_use: '[[_Standards/WikiData/WD~online_search,7094123|WD~online_search,7094123]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Web_search_engines_navbox,16937023]]'
-- '[[_Standards/WikiData/WD~Template_Internet_search,22867157]]'
+- '[[_Standards/WikiData/WD~Template_Web_search_engines_navbox,16937023|WD~Template_Web_search_engines_navbox,16937023]]'
+- '[[_Standards/WikiData/WD~Template_Internet_search,22867157|WD~Template_Internet_search,22867157]]'
 different_from:
-- '[[_Standards/WikiData/WD~web_search,107637706]]'
-- '[[_Standards/WikiData/WD~web_browser,6368]]'
-- '[[_Standards/WikiData/WD~search_engine,19541]]'
+- '[[_Standards/WikiData/WD~web_search,107637706|WD~web_search,107637706]]'
+- '[[_Standards/WikiData/WD~web_browser,6368|WD~web_browser,6368]]'
+- '[[_Standards/WikiData/WD~search_engine,19541|WD~search_engine,19541]]'
 IAB_code: 627
 OmegaWiki_Defined_Meaning: 1249370
 Commons_category:

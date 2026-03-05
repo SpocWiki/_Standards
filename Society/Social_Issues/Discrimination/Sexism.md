@@ -84,23 +84,23 @@ aliases:
 - 성 차별
 has_id_wikidata: Q93200
 opposite_of:
-- '[[_Standards/WikiData/WD~gender_equality,113453]]'
-- '[[_Standards/WikiData/WD~reverse_sexism,16651737]]'
-- '[[_Standards/WikiData/WD~men_quota,131318851]]'
-- '[[_Standards/WikiData/WD~anti_sexism,131365566]]'
+- '[[_Standards/WikiData/WD~gender_equality,113453|WD~gender_equality,113453]]'
+- '[[_Standards/WikiData/WD~reverse_sexism,16651737|WD~reverse_sexism,16651737]]'
+- '[[_Standards/WikiData/WD~men_quota,131318851|WD~men_quota,131318851]]'
+- '[[_Standards/WikiData/WD~anti_sexism,131365566|WD~anti_sexism,131365566]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~discrimination,169207]]'
-- '[[_Standards/WikiData/WD~prejudice,179742]]'
-- '[[_Standards/WikiData/WD~attitude,622645]]'
+- '[[_Standards/WikiData/WD~discrimination,169207|WD~discrimination,169207]]'
+- '[[_Standards/WikiData/WD~prejudice,179742|WD~prejudice,179742]]'
+- '[[_Standards/WikiData/WD~attitude,622645|WD~attitude,622645]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~misogyny,308857]]'
-- '[[_Standards/WikiData/WD~genderism,2797937]]'
+- '[[_Standards/WikiData/WD~misogyny,308857|WD~misogyny,308857]]'
+- '[[_Standards/WikiData/WD~genderism,2797937|WD~genderism,2797937]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-different_from: '[[_Standards/WikiData/WD~gender_discrimination,106230553]]'
-described_by_source: '[[_Standards/WikiData/WD~Gender_Glossar,106508758]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+different_from: '[[_Standards/WikiData/WD~gender_discrimination,106230553|WD~gender_discrimination,106230553]]'
+described_by_source: '[[_Standards/WikiData/WD~Gender_Glossar,106508758|WD~Gender_Glossar,106508758]]'
 PhilPapers_topic: sexism
 Commons_category: Sexism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/National%20Association%20Against%20Woman%20Suffrage.jpg

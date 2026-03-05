@@ -55,12 +55,12 @@ aliases:
 - 유럽 연합의 역사
 has_id_wikidata: Q212114
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_History_of_the_European_Union,14399948]]'
-- '[[_Standards/WikiData/WD~Q123496469,123496469]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-facet_of: '[[_Standards/WikiData/WD~European_Union,458]]'
-part_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+- '[[_Standards/WikiData/WD~Template_History_of_the_European_Union,14399948|WD~Template_History_of_the_European_Union,14399948]]'
+- '[[_Standards/WikiData/WD~Q123496469,123496469|WD~Q123496469,123496469]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Europe,7787|WD~history_of_Europe,7787]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787|WD~history_of_Europe,7787]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Salon%20de%20l%27Horloge.jpg
 Commons_category: History of the European Union
 dv_is_:

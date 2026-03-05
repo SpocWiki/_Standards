@@ -42,20 +42,20 @@ aliases:
 - 多項式時間類問題等于不確定性多項式時間類問題
 has_id_wikidata: Q746242
 facet_of:
-- '[[_Standards/WikiData/WD~computational_complexity_theory,205084]]'
-- '[[_Standards/WikiData/WD~NP,628036]]'
-- '[[_Standards/WikiData/WD~P,846354]]'
+- '[[_Standards/WikiData/WD~computational_complexity_theory,205084|WD~computational_complexity_theory,205084]]'
+- '[[_Standards/WikiData/WD~NP,628036|WD~NP,628036]]'
+- '[[_Standards/WikiData/WD~P,846354|WD~P,846354]]'
 main_subject:
-- '[[_Standards/WikiData/WD~NP,628036]]'
-- '[[_Standards/WikiData/WD~P,846354]]'
+- '[[_Standards/WikiData/WD~NP,628036|WD~NP,628036]]'
+- '[[_Standards/WikiData/WD~P,846354|WD~P,846354]]'
 named_after:
-- '[[_Standards/WikiData/WD~NP,628036]]'
-- '[[_Standards/WikiData/WD~P,846354]]'
-part_of: '[[_Standards/WikiData/WD~Millennium_Problems,727000]]'
+- '[[_Standards/WikiData/WD~NP,628036|WD~NP,628036]]'
+- '[[_Standards/WikiData/WD~P,846354|WD~P,846354]]'
+part_of: '[[_Standards/WikiData/WD~Millennium_Problems,727000|WD~Millennium_Problems,727000]]'
 instance_of:
-- '[[_Standards/WikiData/WD~mathematical_problem,1166625]]'
-- '[[_Standards/WikiData/WD~open_problem,1321906]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~mathematical_problem,1166625|WD~mathematical_problem,1166625]]'
+- '[[_Standards/WikiData/WD~open_problem,1321906|WD~open_problem,1321906]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>P</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>N</mi><mi>P</mi></mstyle></mrow></math>

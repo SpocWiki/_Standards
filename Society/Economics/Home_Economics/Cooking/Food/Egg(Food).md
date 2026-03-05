@@ -161,33 +161,33 @@ aliases:
 - 알
 has_id_wikidata: Q93189
 has_part_s_:
-- '[[_Standards/WikiData/WD~egg_yolk,181409]]'
-- '[[_Standards/WikiData/WD~egg_white,796758]]'
+- '[[_Standards/WikiData/WD~egg_yolk,181409|WD~egg_yolk,181409]]'
+- '[[_Standards/WikiData/WD~egg_white,796758|WD~egg_white,796758]]'
 instance_of:
-- '[[_Standards/WikiData/WD~shape,207961]]'
-- '[[_Standards/WikiData/WD~animal_based_food,4764984]]'
-- '[[_Standards/WikiData/WD~ingredient,10675206]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~shape,207961|WD~shape,207961]]'
+- '[[_Standards/WikiData/WD~animal_based_food,4764984|WD~animal_based_food,4764984]]'
+- '[[_Standards/WikiData/WD~ingredient,10675206|WD~ingredient,10675206]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
 part_of:
-- '[[_Standards/WikiData/WD~gado_gado,209304]]'
-- '[[_Standards/WikiData/WD~fried_egg,274151]]'
-- '[[_Standards/WikiData/WD~shakshuka,2474644]]'
-- '[[_Standards/WikiData/WD~Quindim,3107885]]'
-- '[[_Standards/WikiData/WD~omelette,20129]]'
-has_effect: '[[_Standards/WikiData/WD~egg_allergy,576179]]'
+- '[[_Standards/WikiData/WD~gado_gado,209304|WD~gado_gado,209304]]'
+- '[[_Standards/WikiData/WD~fried_egg,274151|WD~fried_egg,274151]]'
+- '[[_Standards/WikiData/WD~shakshuka,2474644|WD~shakshuka,2474644]]'
+- '[[_Standards/WikiData/WD~Quindim,3107885|WD~Quindim,3107885]]'
+- '[[_Standards/WikiData/WD~omelette,20129|WD~omelette,20129]]'
+has_effect: '[[_Standards/WikiData/WD~egg_allergy,576179|WD~egg_allergy,576179]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-different_from: '[[_Standards/WikiData/WD~chicken_egg,15260613]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~chicken_egg,15260613|WD~chicken_egg,15260613]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
-has_use: '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+has_use: '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
 natural_product_of_taxon:
-- '[[_Standards/WikiData/WD~bird,5113]]'
-- '[[_Standards/WikiData/WD~invertebrate,43806]]'
-made_from_material: '[[_Standards/WikiData/WD~egg,17147]]'
-color: '[[_Standards/WikiData/WD~white,23444]]'
+- '[[_Standards/WikiData/WD~bird,5113|WD~bird,5113]]'
+- '[[_Standards/WikiData/WD~invertebrate,43806|WD~invertebrate,43806]]'
+made_from_material: '[[_Standards/WikiData/WD~egg,17147|WD~egg,17147]]'
+color: '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
 food_energy: 70
 CosIng_number: 92396
 USDA_NDB_number: 1123

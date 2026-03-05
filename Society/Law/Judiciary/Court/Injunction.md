@@ -36,10 +36,10 @@ aliases:
 - 금지명령
 has_id_wikidata: Q6495575
 subclass_of:
-- '[[_Standards/WikiData/WD~equitable_remedy,562125]]'
-- '[[_Standards/WikiData/WD~court_order,696617]]'
-different_from: '[[_Standards/WikiData/WD~restraining_order,593132]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~equitable_remedy,562125|WD~equitable_remedy,562125]]'
+- '[[_Standards/WikiData/WD~court_order,696617|WD~court_order,696617]]'
+different_from: '[[_Standards/WikiData/WD~restraining_order,593132|WD~restraining_order,593132]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 Library_of_Congress_Classification: K2320
 dv_has_:
   name_:

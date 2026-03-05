@@ -116,13 +116,13 @@ aliases:
 - 眼镜
 - 안경
 has_id_wikidata: Q37501
-subclass_of: '[[_Standards/WikiData/WD~costume_accessory,1065579]]'
-has_part_s_: '[[_Standards/WikiData/WD~corrective_lens,2143661]]'
+subclass_of: '[[_Standards/WikiData/WD~costume_accessory,1065579|WD~costume_accessory,1065579]]'
+has_part_s_: '[[_Standards/WikiData/WD~corrective_lens,2143661|WD~corrective_lens,2143661]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-worn_on: '[[_Standards/WikiData/WD~face,37017]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+worn_on: '[[_Standards/WikiData/WD~face,37017|WD~face,37017]]'
 OmegaWiki_Defined_Meaning: 8320
 Nomenclature_for_Museum_Cataloging:
 - 2755

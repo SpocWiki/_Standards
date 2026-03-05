@@ -197,13 +197,13 @@ dv_has_:
 > is not consistent with foundational Islamic doctrine regarding anger and pride, lust or greed.   
 > 
 > According to the standard list, the seven deadly sins in Christianity are 
-> 1. [[../../../../../../bio/Psychology/Affect/Emotion/Pride]], 
-> 2. [[../../../../../Ethics/Vice/Greed]], 
-> 3. [[../../../../../Ethics/Vice/Anger]], 
-> 4.[[../../../../../../Life/Psychological_Resilience/Envy]]], 
-> 5. [[../../../../../../bio/Psychology/Affect/Emotion/Lust]], 
+> 1. [[../../../../../../bio/Psychology/Affect/Emotion/Pride|Pride]], 
+> 2. [[../../../../../Ethics/Vice/Greed|Greed]], 
+> 3. [[../../../../../Ethics/Vice/Anger|Anger]], 
+> 4.[[../../../../../../Life/Psychological_Resilience/Envy|Envy]]], 
+> 5. [[../../../../../../bio/Psychology/Affect/Emotion/Lust|Lust]], 
 > 6. [[Gluttony]] and 
-> 7. [[../../../../../../bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa/Sloth]]. 
+> 7. [[../../../../../../bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa/Sloth|Sloth]]. 
 >
 > In Christianity, the classification of deadly sins into a group of seven originated with Tertullian, and continued with Evagrius Ponticus. The concepts of the sins involved were in part based on Greco-Roman and Biblical antecedents. Later, the concept of seven deadly sins evolved further, based upon historical context based upon the Latin language of the Roman Catholic Church, though with a significant influence from the Greek language and associated religious traditions. Knowledge of the seven deadly sin concept is known through discussions in various treatises and also depictions in paintings and sculpture, for example architectural decorations on certain churches of certain Catholic parishes and also from certain older textbooks. Further information has been derived from patterns of confessions.
 >

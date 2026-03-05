@@ -113,21 +113,21 @@ aliases:
 - 牛顿运动定律
 - 뉴턴 운동 법칙
 has_id_wikidata: Q38433
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~physical_law,214070]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~physical_law,214070|WD~physical_law,214070]]'
 instance_of:
-- '[[_Standards/WikiData/WD~scientific_law,408891]]'
-- '[[_Standards/WikiData/WD~triad,29430681]]'
+- '[[_Standards/WikiData/WD~scientific_law,408891|WD~scientific_law,408891]]'
+- '[[_Standards/WikiData/WD~triad,29430681|WD~triad,29430681]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~Newton's_second_law_of_motion_for_constant_mass,2397319]]"
-- "[[_Standards/WikiData/WD~Newton's_third_law_of_motion,3235565]]"
-- "[[_Standards/WikiData/WD~Newton's_first_law,3235671]]"
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-named_after: '[[_Standards/WikiData/WD~Isaac_Newton,935]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Isaac_Newton,935]]'
-studied_by: '[[_Standards/WikiData/WD~classical_mechanics,11397]]'
-copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
-place_of_publication: '[[_Standards/WikiData/WD~London,84]]'
+- "[[_Standards/WikiData/WD~Newton's_second_law_of_motion_for_constant_mass,2397319|WD~Newton's_second_law_of_motion_for_constant_mass,2397319]]"
+- "[[_Standards/WikiData/WD~Newton's_third_law_of_motion,3235565|WD~Newton's_third_law_of_motion,3235565]]"
+- "[[_Standards/WikiData/WD~Newton's_first_law,3235671|WD~Newton's_first_law,3235671]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+named_after: '[[_Standards/WikiData/WD~Isaac_Newton,935|WD~Isaac_Newton,935]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Isaac_Newton,935|WD~Isaac_Newton,935]]'
+studied_by: '[[_Standards/WikiData/WD~classical_mechanics,11397|WD~classical_mechanics,11397]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652|WD~public_domain,19652]]'
+place_of_publication: '[[_Standards/WikiData/WD~London,84|WD~London,84]]'
 publication_date: 1687-07-05T00:00:00Z
 video:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Secondlaw.ogv

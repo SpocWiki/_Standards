@@ -98,24 +98,24 @@ Dewey_Decimal_Classification:
 - 1--01
 - 121
 - 501
-different_from: '[[_Standards/WikiData/WD~Cognitive_theory,30747846]]'
+different_from: '[[_Standards/WikiData/WD~Cognitive_theory,30747846|WD~Cognitive_theory,30747846]]'
 GitHub_topic: philosophy-of-science
-history_of_topic: '[[_Standards/WikiData/WD~Q11897492,11897492]]'
+history_of_topic: '[[_Standards/WikiData/WD~Q11897492,11897492|WD~Q11897492,11897492]]'
 instance_of:
-- '[[_Standards/WikiData/WD~subject_heading,1128340]]'
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
+- '[[_Standards/WikiData/WD~subject_heading,1128340|WD~subject_heading,1128340]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234|WD~branch_of_philosophy,22811234]]'
 Library_of_Congress_Classification: Q174-Q175.3
 practiced_by:
-- '[[_Standards/WikiData/WD~philosopher_of_science,16389557]]'
+- '[[_Standards/WikiData/WD~philosopher_of_science,16389557|WD~philosopher_of_science,16389557]]'
 Provenio_UUID: 984b5720-f65a-4e5c-a539-9b1f00fbf5dd
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sanzio%2001%20Plato%20Aristotle.jpg
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~epistemology,9471]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~epistemology,9471|WD~epistemology,9471]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Philosophy%20of%20science%20%28spoken%20by%20AI%20voice%29.mp3
 Stack_Exchange_tag: https://philosophy.stackexchange.com/tags/philosophy-of-science
-subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 subreddit: PhilosophyofScience
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Philosophy_of_science,8084428]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Philosophy_of_science,8084428|WD~Template_Philosophy_of_science,8084428]]'
 dv_has_:
   name_:
     af: Wetenskapsfilosofie

@@ -32,59 +32,59 @@ aliases:
 - 카렌 블릭센
 has_id_wikidata: Q182804
 genre:
-- '[[_Standards/WikiData/WD~magic_realism,147516]]'
-- '[[_Standards/WikiData/WD~Neo_romanticism,397469]]'
-- '[[_Standards/WikiData/WD~Gothic_literature,19715429]]'
-father: '[[_Standards/WikiData/WD~Wilhelm_Dinesen,166766]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]'
-member_of: '[[_Standards/WikiData/WD~Bavarian_Academy_of_Fine_Arts,812155]]'
-relative: '[[_Standards/WikiData/WD~Bror_von_Blixen_Finecke,990663]]'
-spouse: '[[_Standards/WikiData/WD~Bror_von_Blixen_Finecke,990663]]'
+- '[[_Standards/WikiData/WD~magic_realism,147516|WD~magic_realism,147516]]'
+- '[[_Standards/WikiData/WD~Neo_romanticism,397469|WD~Neo_romanticism,397469]]'
+- '[[_Standards/WikiData/WD~Gothic_literature,19715429|WD~Gothic_literature,19715429]]'
+father: '[[_Standards/WikiData/WD~Wilhelm_Dinesen,166766|WD~Wilhelm_Dinesen,166766]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617|WD~Kingdom_of_Denmark,756617]]'
+member_of: '[[_Standards/WikiData/WD~Bavarian_Academy_of_Fine_Arts,812155|WD~Bavarian_Academy_of_Fine_Arts,812155]]'
+relative: '[[_Standards/WikiData/WD~Bror_von_Blixen_Finecke,990663|WD~Bror_von_Blixen_Finecke,990663]]'
+spouse: '[[_Standards/WikiData/WD~Bror_von_Blixen_Finecke,990663|WD~Bror_von_Blixen_Finecke,990663]]'
 award_received:
-- '[[_Standards/WikiData/WD~Danish_Critics_Prize_for_Literature,1146037]]'
-- '[[_Standards/WikiData/WD~De_Gyldne_Laurbær,1179930]]'
-- '[[_Standards/WikiData/WD~Tagea_Brandt_Rejselegat,1800376]]'
-- '[[_Standards/WikiData/WD~Ingenio_et_arti,2345755]]'
-- '[[_Standards/WikiData/WD~Holberg_Medal,3441509]]'
-given_name: '[[_Standards/WikiData/WD~Karen,1221747]]'
-place_of_burial: '[[_Standards/WikiData/WD~Rungstedlund,1569018]]'
-place_of_death: '[[_Standards/WikiData/WD~Rungstedlund,1569018]]'
-place_of_birth: '[[_Standards/WikiData/WD~Rungstedlund,1569018]]'
+- '[[_Standards/WikiData/WD~Danish_Critics_Prize_for_Literature,1146037|WD~Danish_Critics_Prize_for_Literature,1146037]]'
+- '[[_Standards/WikiData/WD~De_Gyldne_Laurbær,1179930|WD~De_Gyldne_Laurbær,1179930]]'
+- '[[_Standards/WikiData/WD~Tagea_Brandt_Rejselegat,1800376|WD~Tagea_Brandt_Rejselegat,1800376]]'
+- '[[_Standards/WikiData/WD~Ingenio_et_arti,2345755|WD~Ingenio_et_arti,2345755]]'
+- '[[_Standards/WikiData/WD~Holberg_Medal,3441509|WD~Holberg_Medal,3441509]]'
+given_name: '[[_Standards/WikiData/WD~Karen,1221747|WD~Karen,1221747]]'
+place_of_burial: '[[_Standards/WikiData/WD~Rungstedlund,1569018|WD~Rungstedlund,1569018]]'
+place_of_death: '[[_Standards/WikiData/WD~Rungstedlund,1569018|WD~Rungstedlund,1569018]]'
+place_of_birth: '[[_Standards/WikiData/WD~Rungstedlund,1569018|WD~Rungstedlund,1569018]]'
 notable_work:
-- '[[_Standards/WikiData/WD~Out_of_Africa,1756234]]'
-- "[[_Standards/WikiData/WD~Babette's_Feast,1762979]]"
+- '[[_Standards/WikiData/WD~Out_of_Africa,1756234|WD~Out_of_Africa,1756234]]'
+- "[[_Standards/WikiData/WD~Babette's_Feast,1762979|WD~Babette's_Feast,1762979]]"
 sibling:
-- '[[_Standards/WikiData/WD~Thomas_Dinesen,3048238]]'
-- '[[_Standards/WikiData/WD~Ellen_Dahl,12309806]]'
-sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
-mother: '[[_Standards/WikiData/WD~Ingeborg_Dinesen,12318319]]'
-occupation: '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Karen_Blixen,22723961]]'
+- '[[_Standards/WikiData/WD~Thomas_Dinesen,3048238|WD~Thomas_Dinesen,3048238]]'
+- '[[_Standards/WikiData/WD~Ellen_Dahl,12309806|WD~Ellen_Dahl,12309806]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072|WD~female,6581072]]'
+mother: '[[_Standards/WikiData/WD~Ingeborg_Dinesen,12318319|WD~Ingeborg_Dinesen,12318319]]'
+occupation: '[[_Standards/WikiData/WD~short_story_writer,15949613|WD~short_story_writer,15949613]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Karen_Blixen,22723961|WD~Template_Karen_Blixen,22723961]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-educated_at: '[[_Standards/WikiData/WD~Q29180710,29180710]]'
+- '[[_Standards/WikiData/WD~Art+Feminism,24909800|WD~Art+Feminism,24909800]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+educated_at: '[[_Standards/WikiData/WD~Q29180710,29180710|WD~Q29180710,29180710]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
-- "[[_Standards/WikiData/WD~The_History_of_Nordic_Women's_Literature,99568516]]"
-- '[[_Standards/WikiData/WD~Q113369276,113369276]]'
-copyright_representative: '[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
-bibliography: '[[_Standards/WikiData/WD~Karen_Blixen_bibliography,106234017]]'
-family_name: '[[_Standards/WikiData/WD~Blixen,131572484]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746|WD~Dictionary_of_African_Biography,46002746]]'
+- "[[_Standards/WikiData/WD~The_History_of_Nordic_Women's_Literature,99568516|WD~The_History_of_Nordic_Women's_Literature,99568516]]"
+- '[[_Standards/WikiData/WD~Q113369276,113369276|WD~Q113369276,113369276]]'
+copyright_representative: '[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142|WD~reproduction_right_not_represented_by_CISAC_member,71521142]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012|WD~works_protected_by_copyrights,73555012]]'
+bibliography: '[[_Standards/WikiData/WD~Karen_Blixen_bibliography,106234017|WD~Karen_Blixen_bibliography,106234017]]'
+family_name: '[[_Standards/WikiData/WD~Blixen,131572484|WD~Blixen,131572484]]'
 date_of_birth: 1885-04-17T00:00:00Z
 field_of_work:
-- '[[_Standards/WikiData/WD~poetry,482]]'
-- '[[_Standards/WikiData/WD~prose,676]]'
+- '[[_Standards/WikiData/WD~poetry,482|WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~prose,676|WD~prose,676]]'
 writing_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Danish,9035]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Danish,9035|WD~Danish,9035]]'
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Danish,9035]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Danish,9035|WD~Danish,9035]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922|WD~Nobel_Prize_in_Literature,37922]]'
 Commons_category: Karen Blixen
 pseudonym:
 - Isak Dinesen

@@ -37,7 +37,7 @@ type: Predi_Relation
 dv_has_:
   parent_:
     class: "[[../../../Class|Class]]"
-  inverse: "[[../has_child/has_child_class]]"
+  inverse: "[[../has_child/has_child_class|has_child_class]]"
   domain: "[[../../../Class|Class]]"
   name: "[has_parent_class](has_parent_class)"
   range: "[[../../../Class|Class]]"
@@ -62,7 +62,7 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/has_parent_class.private|has_parent_class.private]]"
   - "[[/_personal/schema-org/Class/has_parent_class.personal|has_parent_class.personal]]"
   - "[[/_secret/schema-org/Class/has_parent_class.secret|has_parent_class.secret]]"
-dv_has_inverse: "[[../has_child/has_child_class]]"
+dv_has_inverse: "[[../has_child/has_child_class|has_child_class]]"
 dv_is_better_than: "[[../../is_similar_to|is_similar_to]]"
 dv_has_domain: "[[../../../Class|Class]]"
 dv_has_name: "[has_parent_class](has_parent_class)"

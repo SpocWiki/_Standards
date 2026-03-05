@@ -90,19 +90,19 @@ aliases:
 - 침실
 has_id_wikidata: Q193837
 subclass_of:
-- '[[_Standards/WikiData/WD~room,180516]]'
-- '[[_Standards/WikiData/WD~sleeping_place,45422604]]'
+- '[[_Standards/WikiData/WD~room,180516|WD~room,180516]]'
+- '[[_Standards/WikiData/WD~sleeping_place,45422604|WD~sleeping_place,45422604]]'
 different_from:
-- '[[_Standards/WikiData/WD~dormitory,847950]]'
-- '[[_Standards/WikiData/WD~Q116255214,116255214]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~alcove,1067091]]'
-instance_of: '[[_Standards/WikiData/WD~facility,13226383]]'
+- '[[_Standards/WikiData/WD~dormitory,847950|WD~dormitory,847950]]'
+- '[[_Standards/WikiData/WD~Q116255214,116255214|WD~Q116255214,116255214]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~alcove,1067091|WD~alcove,1067091]]'
+instance_of: '[[_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 has_use:
-- '[[_Standards/WikiData/WD~sexual_intercourse,5873]]'
-- '[[_Standards/WikiData/WD~sleep,35831]]'
+- '[[_Standards/WikiData/WD~sexual_intercourse,5873|WD~sexual_intercourse,5873]]'
+- '[[_Standards/WikiData/WD~sleep,35831|WD~sleep,35831]]'
 OmegaWiki_Defined_Meaning: 5789
 Iconclass_notation: 41A23
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Slaapkamer.ogg

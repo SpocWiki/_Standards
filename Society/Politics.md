@@ -138,37 +138,37 @@ aliases:
 - 정치
 has_id_wikidata: Q7163
 practiced_by:
-- '[[_Standards/WikiData/WD~politician,82955]]'
-- '[[_Standards/WikiData/WD~citizen,1020994]]'
-- '[[_Standards/WikiData/WD~village_chief,113958153]]'
-- '[[_Standards/WikiData/WD~professional_politician,116806372]]'
-- '[[_Standards/WikiData/WD~political_fixer,134706682]]'
-has_part_s_: '[[_Standards/WikiData/WD~public_policy,546113]]'
+- '[[_Standards/WikiData/WD~politician,82955|WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~citizen,1020994|WD~citizen,1020994]]'
+- '[[_Standards/WikiData/WD~village_chief,113958153|WD~village_chief,113958153]]'
+- '[[_Standards/WikiData/WD~professional_politician,116806372|WD~professional_politician,116806372]]'
+- '[[_Standards/WikiData/WD~political_fixer,134706682|WD~political_fixer,134706682]]'
+has_part_s_: '[[_Standards/WikiData/WD~public_policy,546113|WD~public_policy,546113]]'
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 studied_by:
-- '[[_Standards/WikiData/WD~political_sociology,745692]]'
-- '[[_Standards/WikiData/WD~political_history,1147507]]'
-- '[[_Standards/WikiData/WD~interaction_science,97008347]]'
-- '[[_Standards/WikiData/WD~political_science,36442]]'
+- '[[_Standards/WikiData/WD~political_sociology,745692|WD~political_sociology,745692]]'
+- '[[_Standards/WikiData/WD~political_history,1147507|WD~political_history,1147507]]'
+- '[[_Standards/WikiData/WD~interaction_science,97008347|WD~interaction_science,97008347]]'
+- '[[_Standards/WikiData/WD~political_science,36442|WD~political_science,36442]]'
 history_of_topic:
-- '[[_Standards/WikiData/WD~political_history,1147507]]'
-- '[[_Standards/WikiData/WD~music_and_politics,2094308]]'
-different_from: '[[_Standards/WikiData/WD~policy,1156854]]'
+- '[[_Standards/WikiData/WD~political_history,1147507|WD~political_history,1147507]]'
+- '[[_Standards/WikiData/WD~music_and_politics,2094308|WD~music_and_politics,2094308]]'
+different_from: '[[_Standards/WikiData/WD~policy,1156854|WD~policy,1156854]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~activity,1914636]]'
-- '[[_Standards/WikiData/WD~group_behaviour,3482410]]'
-- '[[_Standards/WikiData/WD~adversarial_process,4686698]]'
-opposite_of: '[[_Standards/WikiData/WD~non_politics,7048979]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Politics,8133239]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Politics_sidebar,11171406]]'
-instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~group_behaviour,3482410|WD~group_behaviour,3482410]]'
+- '[[_Standards/WikiData/WD~adversarial_process,4686698|WD~adversarial_process,4686698]]'
+opposite_of: '[[_Standards/WikiData/WD~non_politics,7048979|WD~non_politics,7048979]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Politics,8133239|WD~Portal_Politics,8133239]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Politics_sidebar,11171406|WD~Template_Politics_sidebar,11171406]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 Dewey_Decimal_Classification:
 - 320
 - 324

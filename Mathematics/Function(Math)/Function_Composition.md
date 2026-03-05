@@ -56,23 +56,23 @@ aliases:
 - 합성함수
 has_id_wikidata: Q244761
 subclass_of:
-- '[[_Standards/WikiData/WD~operator,131030]]'
-- '[[_Standards/WikiData/WD~binary_operation,164307]]'
-- '[[_Standards/WikiData/WD~mathematical_operation,3884033]]'
+- '[[_Standards/WikiData/WD~operator,131030|WD~operator,131030]]'
+- '[[_Standards/WikiData/WD~binary_operation,164307|WD~binary_operation,164307]]'
+- '[[_Standards/WikiData/WD~mathematical_operation,3884033|WD~mathematical_operation,3884033]]'
 notation:
-- '[[_Standards/WikiData/WD~full_stop,172008]]'
-- '[[_Standards/WikiData/WD~ring_operator,2516539]]'
-has_characteristic: '[[_Standards/WikiData/WD~associativity,177251]]'
-identity_element: '[[_Standards/WikiData/WD~identity_function,321119]]'
+- '[[_Standards/WikiData/WD~full_stop,172008|WD~full_stop,172008]]'
+- '[[_Standards/WikiData/WD~ring_operator,2516539|WD~ring_operator,2516539]]'
+has_characteristic: '[[_Standards/WikiData/WD~associativity,177251|WD~associativity,177251]]'
+identity_element: '[[_Standards/WikiData/WD~identity_function,321119|WD~identity_function,321119]]'
 instance_of:
-- '[[_Standards/WikiData/WD~higher_order_function,1474542]]'
-- '[[_Standards/WikiData/WD~binary_function,3737844]]'
+- '[[_Standards/WikiData/WD~higher_order_function,1474542|WD~higher_order_function,1474542]]'
+- '[[_Standards/WikiData/WD~binary_function,3737844|WD~binary_function,3737844]]'
 different_from:
-- '[[_Standards/WikiData/WD~function_iteration,5254619]]'
-- '[[_Standards/WikiData/WD~composite_function,78076954]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~composite_function,78076954]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+- '[[_Standards/WikiData/WD~function_iteration,5254619|WD~function_iteration,5254619]]'
+- '[[_Standards/WikiData/WD~composite_function,78076954|WD~composite_function,78076954]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~composite_function,78076954|WD~composite_function,78076954]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>g</mi><mo stretchy="false">&#x2218;</mo><mi>f</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>g</mi></mstyle></mrow></math>

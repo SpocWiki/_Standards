@@ -88,20 +88,20 @@ aliases:
 - 藝術歷史
 - 예술사
 has_id_wikidata: Q50641
-subclass_of: '[[_Standards/WikiData/WD~cultural_history,858517]]'
+subclass_of: '[[_Standards/WikiData/WD~cultural_history,858517|WD~cultural_history,858517]]'
 different_from:
-- '[[_Standards/WikiData/WD~cultural_studies,1143546]]'
-- '[[_Standards/WikiData/WD~art_history,50637]]'
-practiced_by: '[[_Standards/WikiData/WD~art_historian,1792450]]'
+- '[[_Standards/WikiData/WD~cultural_studies,1143546|WD~cultural_studies,1143546]]'
+- '[[_Standards/WikiData/WD~art_history,50637|WD~art_history,50637]]'
+practiced_by: '[[_Standards/WikiData/WD~art_historian,1792450|WD~art_historian,1792450]]'
 facet_of:
-- '[[_Standards/WikiData/WD~arts,2018526]]'
-- '[[_Standards/WikiData/WD~art,735]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~arts,2018526|WD~arts,2018526]]'
+- '[[_Standards/WikiData/WD~art,735|WD~art,735]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-- '[[_Standards/WikiData/WD~branch_of_history,81517619]]'
-studied_by: '[[_Standards/WikiData/WD~art_history,50637]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+- '[[_Standards/WikiData/WD~branch_of_history,81517619|WD~branch_of_history,81517619]]'
+studied_by: '[[_Standards/WikiData/WD~art_history,50637|WD~art_history,50637]]'
 Regensburg_Classification: LD
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%2C%20Creation%20of%20Adam%2001.jpg
 Iconclass_notation: 49K2

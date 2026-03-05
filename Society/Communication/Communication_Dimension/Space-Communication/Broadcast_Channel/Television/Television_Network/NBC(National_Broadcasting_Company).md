@@ -24,33 +24,33 @@ aliases:
 - 全國廣播公司
 has_id_wikidata: Q13974
 parent_organization_or_unit:
-- '[[_Standards/WikiData/WD~RCA_Corporation,218038]]'
-- '[[_Standards/WikiData/WD~NBCUniversal,724759]]'
-- '[[_Standards/WikiData/WD~Radio_Corporation_of_America,58035402]]'
+- '[[_Standards/WikiData/WD~RCA_Corporation,218038|WD~RCA_Corporation,218038]]'
+- '[[_Standards/WikiData/WD~NBCUniversal,724759|WD~NBCUniversal,724759]]'
+- '[[_Standards/WikiData/WD~Radio_Corporation_of_America,58035402|WD~Radio_Corporation_of_America,58035402]]'
 founded_by:
-- '[[_Standards/WikiData/WD~RCA_Corporation,218038]]'
-- '[[_Standards/WikiData/WD~David_Sarnoff,360106]]'
+- '[[_Standards/WikiData/WD~RCA_Corporation,218038|WD~RCA_Corporation,218038]]'
+- '[[_Standards/WikiData/WD~David_Sarnoff,360106|WD~David_Sarnoff,360106]]'
 headquarters_location:
-- '[[_Standards/WikiData/WD~30_Rockefeller_Plaza,680614]]'
-- '[[_Standards/WikiData/WD~NBC_Tower,1810949]]'
-- '[[_Standards/WikiData/WD~10_Universal_City_Plaza,3596936]]'
-- '[[_Standards/WikiData/WD~Stamford,49169]]'
-owned_by: '[[_Standards/WikiData/WD~NBCUniversal,724759]]'
+- '[[_Standards/WikiData/WD~30_Rockefeller_Plaza,680614|WD~30_Rockefeller_Plaza,680614]]'
+- '[[_Standards/WikiData/WD~NBC_Tower,1810949|WD~NBC_Tower,1810949]]'
+- '[[_Standards/WikiData/WD~10_Universal_City_Plaza,3596936|WD~10_Universal_City_Plaza,3596936]]'
+- '[[_Standards/WikiData/WD~Stamford,49169|WD~Stamford,49169]]'
+owned_by: '[[_Standards/WikiData/WD~NBCUniversal,724759|WD~NBCUniversal,724759]]'
 instance_of:
-- '[[_Standards/WikiData/WD~radio_network,1061197]]'
-- '[[_Standards/WikiData/WD~television_network,1254874]]'
-chairperson: '[[_Standards/WikiData/WD~Robert_Greenblatt,3491930]]'
+- '[[_Standards/WikiData/WD~radio_network,1061197|WD~radio_network,1061197]]'
+- '[[_Standards/WikiData/WD~television_network,1254874|WD~television_network,1254874]]'
+chairperson: '[[_Standards/WikiData/WD~Robert_Greenblatt,3491930|WD~Robert_Greenblatt,3491930]]'
 owner_of:
-- '[[_Standards/WikiData/WD~WNBC,7953249]]'
-- '[[_Standards/WikiData/WD~Q109776106,109776106]]'
-different_from: '[[_Standards/WikiData/WD~Nagasaki_Broadcasting,8014791]]'
+- '[[_Standards/WikiData/WD~WNBC,7953249|WD~WNBC,7953249]]'
+- '[[_Standards/WikiData/WD~Q109776106,109776106|WD~Q109776106,109776106]]'
+different_from: '[[_Standards/WikiData/WD~Nagasaki_Broadcasting,8014791|WD~Nagasaki_Broadcasting,8014791]]'
 industry:
-- '[[_Standards/WikiData/WD~programming_and_broadcasting_activities,29584328]]'
-- '[[_Standards/WikiData/WD~media_industry,56611639]]'
-- '[[_Standards/WikiData/WD~communication,11024]]'
-language_used: '[[_Standards/WikiData/WD~English,1860]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-location_of_formation: '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~programming_and_broadcasting_activities,29584328|WD~programming_and_broadcasting_activities,29584328]]'
+- '[[_Standards/WikiData/WD~media_industry,56611639|WD~media_industry,56611639]]'
+- '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
+language_used: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+location_of_formation: '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
 employees: 7000
 social_media_followers:
 - 1210000

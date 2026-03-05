@@ -61,14 +61,14 @@ aliases:
 has_id_wikidata: Q27020041
 Commons_category: Sports seasons
 different_from:
-- '[[_Standards/WikiData/WD~sports_league,623109]]'
-- '[[_Standards/WikiData/WD~sports_season_of_a_sports_club,1539532]]'
+- '[[_Standards/WikiData/WD~sports_league,623109|WD~sports_league,623109]]'
+- '[[_Standards/WikiData/WD~sports_season_of_a_sports_club,1539532|WD~sports_season_of_a_sports_club,1539532]]'
 exact_match: http://cv.iptc.org/newscodes/spct/season
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~sporting_event,16510064]]'
-- '[[_Standards/WikiData/WD~sport_competition_at_a_multi-sport_event,51031626]]'
-instance_of: '[[_Standards/WikiData/WD~tournament_system,61685689]]'
-part_of: '[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]'
+- '[[_Standards/WikiData/WD~sporting_event,16510064|WD~sporting_event,16510064]]'
+- '[[_Standards/WikiData/WD~sport_competition_at_a_multi-sport_event,51031626|WD~sport_competition_at_a_multi-sport_event,51031626]]'
+instance_of: '[[_Standards/WikiData/WD~tournament_system,61685689|WD~tournament_system,61685689]]'
+part_of: '[[_Standards/WikiData/WD~recurring_sporting_event,18608583|WD~recurring_sporting_event,18608583]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Mecanautes-saison%20sportive.wav
 properties_for_this_type:
 - location
@@ -85,25 +85,25 @@ properties_for_this_type:
 - time period
 - sports season of league or competition
 - tournament format
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~sports_series,10666337]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~sports_series,10666337|WD~sports_series,10666337]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~season,10688145]]'
-- '[[_Standards/WikiData/WD~sports_competition,13406554]]'
-- '[[_Standards/WikiData/WD~competition,23807345]]'
-- '[[_Standards/WikiData/WD~recurring_sporting_event_edition,114609228]]'
+- '[[_Standards/WikiData/WD~season,10688145|WD~season,10688145]]'
+- '[[_Standards/WikiData/WD~sports_competition,13406554|WD~sports_competition,13406554]]'
+- '[[_Standards/WikiData/WD~competition,23807345|WD~competition,23807345]]'
+- '[[_Standards/WikiData/WD~recurring_sporting_event_edition,114609228|WD~recurring_sporting_event_edition,114609228]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_international_baseball_tournament,7878872]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_sports_season,10489628]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_international_hockey_competition,12981788]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_Korean_Series,20322011]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_sports_season,25890815]]'
-- '[[_Standards/WikiData/WD~Q26115261,26115261]]'
-- '[[_Standards/WikiData/WD~Q26115673,26115673]]'
-- '[[_Standards/WikiData/WD~Q26118922,26118922]]'
-- '[[_Standards/WikiData/WD~Q26119652,26119652]]'
-- '[[_Standards/WikiData/WD~Q26120435,26120435]]'
-- '[[_Standards/WikiData/WD~Q26120472,26120472]]'
-- '[[_Standards/WikiData/WD~Q26120482,26120482]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_international_baseball_tournament,7878872|WD~Template_Infobox_international_baseball_tournament,7878872]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_sports_season,10489628|WD~Template_Infobox_sports_season,10489628]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_international_hockey_competition,12981788|WD~Template_Infobox_international_hockey_competition,12981788]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_Korean_Series,20322011|WD~Template_Infobox_Korean_Series,20322011]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_sports_season,25890815|WD~Template_Infobox_sports_season,25890815]]'
+- '[[_Standards/WikiData/WD~Q26115261,26115261|WD~Q26115261,26115261]]'
+- '[[_Standards/WikiData/WD~Q26115673,26115673|WD~Q26115673,26115673]]'
+- '[[_Standards/WikiData/WD~Q26118922,26118922|WD~Q26118922,26118922]]'
+- '[[_Standards/WikiData/WD~Q26119652,26119652|WD~Q26119652,26119652]]'
+- '[[_Standards/WikiData/WD~Q26120435,26120435|WD~Q26120435,26120435]]'
+- '[[_Standards/WikiData/WD~Q26120472,26120472|WD~Q26120472,26120472]]'
+- '[[_Standards/WikiData/WD~Q26120482,26120482|WD~Q26120482,26120482]]'
 Wikidata_property:
 - time period
 - sports season of league or competition

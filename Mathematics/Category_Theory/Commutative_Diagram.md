@@ -30,9 +30,9 @@ aliases:
 - 可換図式
 - 가환 그림
 has_id_wikidata: Q621542
-studied_by: '[[_Standards/WikiData/WD~category_theory,217413]]'
-subclass_of: '[[_Standards/WikiData/WD~diagram,843237]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+studied_by: '[[_Standards/WikiData/WD~category_theory,217413|WD~category_theory,217413]]'
+subclass_of: '[[_Standards/WikiData/WD~diagram,843237|WD~diagram,843237]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 Commons_category: Commutative diagrams
 dv_has_:
   name_:

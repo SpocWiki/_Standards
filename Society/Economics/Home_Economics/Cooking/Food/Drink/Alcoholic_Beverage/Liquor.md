@@ -79,13 +79,13 @@ aliases:
 - 증류주
 has_id_wikidata: Q56139
 different_from:
-- '[[_Standards/WikiData/WD~liqueur,178780]]'
-- '[[_Standards/WikiData/WD~distillate,11693995]]'
+- '[[_Standards/WikiData/WD~liqueur,178780|WD~liqueur,178780]]'
+- '[[_Standards/WikiData/WD~distillate,11693995|WD~distillate,11693995]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-subclass_of: '[[_Standards/WikiData/WD~spirit_drink,12673554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+subclass_of: '[[_Standards/WikiData/WD~spirit_drink,12673554|WD~spirit_drink,12673554]]'
 OmegaWiki_Defined_Meaning: 1043319
 IMDb_keyword: liquor
 image: http://commons.wikimedia.org/wiki/Special:FilePath/17-05-06-Miniaturen%20RR79033.jpg

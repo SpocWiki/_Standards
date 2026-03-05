@@ -48,15 +48,15 @@ aliases:
 - 最尤法
 - 최대우도 추정법
 has_id_wikidata: Q1045555
-subclass_of: '[[_Standards/WikiData/WD~estimation,791801]]'
-instance_of: '[[_Standards/WikiData/WD~method,1799072]]'
+subclass_of: '[[_Standards/WikiData/WD~estimation,791801|WD~estimation,791801]]'
+instance_of: '[[_Standards/WikiData/WD~method,1799072|WD~method,1799072]]'
 different_from:
-- '[[_Standards/WikiData/WD~restricted_maximum_likelihood,7316301]]'
-- '[[_Standards/WikiData/WD~maximum_likelihood_estimator,112892882]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
-uses: '[[_Standards/WikiData/WD~maximum_likelihood_estimator,112892882]]'
-part_of: '[[_Standards/WikiData/WD~statistics,12483]]'
+- '[[_Standards/WikiData/WD~restricted_maximum_likelihood,7316301|WD~restricted_maximum_likelihood,7316301]]'
+- '[[_Standards/WikiData/WD~maximum_likelihood_estimator,112892882|WD~maximum_likelihood_estimator,112892882]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641|WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
+uses: '[[_Standards/WikiData/WD~maximum_likelihood_estimator,112892882|WD~maximum_likelihood_estimator,112892882]]'
+part_of: '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
 ACM_Classification_Code_2012_: 10003663
 Commons_category: Maximum likehood
 short_name:

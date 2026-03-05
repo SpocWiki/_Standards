@@ -25,9 +25,9 @@ aliases:
 - 智利海嶺
 - 智利海隆
 has_id_wikidata: Q603531
-instance_of: '[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~South_Pacific_Ocean,12355425]]'
-country: '[[_Standards/WikiData/WD~Chile,298]]'
+instance_of: '[[_Standards/WikiData/WD~mid_ocean_ridge,104698|WD~mid_ocean_ridge,104698]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~South_Pacific_Ocean,12355425|WD~South_Pacific_Ocean,12355425]]'
+country: '[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
 bathymetry_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Bathymetry%20%281%29.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Chile%20Rise.jpg

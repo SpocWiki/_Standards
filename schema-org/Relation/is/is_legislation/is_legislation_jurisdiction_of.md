@@ -40,7 +40,7 @@ dv_has_:
   inverse: "[[../../has/has_legislation|has_legislation]]"
   parent_:
     property:
-      - "[[../is_jurisdiction_of]]"
+      - "[[../is_jurisdiction_of|is_jurisdiction_of]]"
       - "[[../../../Property/has_location/has_location_spatial_coverage|has_location_spatial_coverage]]"
   domain: "[[../../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]"
   name: is_legislation_jurisdiction_of
@@ -50,7 +50,7 @@ dv_has_:
 dv_is_part_of: "pending:"
 dv_has_inverse: "[[../../has/has_legislation|has_legislation]]"
 dv_has_parent_property:
-  - "[[../is_jurisdiction_of]]"
+  - "[[../is_jurisdiction_of|is_jurisdiction_of]]"
   - "[[../../../Property/has_location/has_location_spatial_coverage|has_location_spatial_coverage]]"
 dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]"
 dv_has_name: is_legislation_jurisdiction_of

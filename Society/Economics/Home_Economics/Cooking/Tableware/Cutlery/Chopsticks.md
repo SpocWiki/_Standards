@@ -83,11 +83,11 @@ aliases:
   - 젓가락
 has_id_wikidata: Q81980
 subclass_of:
-  - "[[_Standards/WikiData/WD~cutlery,81944]]"
-  - "[[_Standards/WikiData/WD~stick,10971443]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-different_from: "[[_Standards/WikiData/WD~bacillus,2091405]]"
-instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
+  - "[[_Standards/WikiData/WD~cutlery,81944|WD~cutlery,81944]]"
+  - "[[_Standards/WikiData/WD~stick,10971443|WD~stick,10971443]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+different_from: "[[_Standards/WikiData/WD~bacillus,2091405|WD~bacillus,2091405]]"
+instance_of: "[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]"
 Nomenclature_for_Museum_Cataloging: 4888
 Commons_gallery: Chopsticks
 Commons_category: Chopsticks

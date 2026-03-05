@@ -1,7 +1,7 @@
 
 # [[Sling]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Sling,199771]] 
+#is_/same_as :: [[../../../../WikiData/WD~Sling,199771|WD~Sling,199771]] 
 
 ## #has_/text_of_/abstract 
 

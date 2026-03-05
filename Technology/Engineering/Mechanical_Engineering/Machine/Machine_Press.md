@@ -38,15 +38,15 @@ aliases:
 - 機械壓力機
 - 프레스기
 has_id_wikidata: Q674484
-instance_of: '[[_Standards/WikiData/WD~aggregate_machine,393308]]'
+instance_of: '[[_Standards/WikiData/WD~aggregate_machine,393308|WD~aggregate_machine,393308]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-different_from: '[[_Standards/WikiData/WD~Q13538528,13538528]]'
-has_use: '[[_Standards/WikiData/WD~pressing,108978599]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~press,111547713]]'
-subclass_of: '[[_Standards/WikiData/WD~machine,11019]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+different_from: '[[_Standards/WikiData/WD~Q13538528,13538528|WD~Q13538528,13538528]]'
+has_use: '[[_Standards/WikiData/WD~pressing,108978599|WD~pressing,108978599]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~press,111547713|WD~press,111547713]]'
+subclass_of: '[[_Standards/WikiData/WD~machine,11019|WD~machine,11019]]'
 Commons_category: Presses
 model_image: http://commons.wikimedia.org/wiki/Special:FilePath/Equipment%20Models%20at%20the%20Museum%20of%20the%20Uralmash%20Plant%20-%206.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gl%C3%A4tt-%20und%20Packpresse%20im%20RDZ%20des%20Historischen%20Archivs%20der%20Stadt%20K%C3%B6ln%20%281%29.jpg

@@ -24,13 +24,13 @@ aliases:
 - 赫南特期
 has_id_wikidata: Q583151
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Cwm_Hirnant,24641548]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Hirnantian,30869524]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-named_by: '[[_Standards/WikiData/WD~B._B._Bancroft,134720161]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Hirnantian,134721250]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Cwm_Hirnant,24641548|WD~Cwm_Hirnant,24641548]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Hirnantian,30869524|WD~Category_Hirnantian,30869524]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+named_by: '[[_Standards/WikiData/WD~B._B._Bancroft,134720161|WD~B._B._Bancroft,134720161]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Hirnantian,134721250|WD~GSSP_for_the_base_of_Hirnantian,134721250]]'
 end_time: -443800000-01-01T00:00:00Z
 coordinate_location: Point(111.41944444 30.98222222)
 start_time: -445200000-01-01T00:00:00Z
@@ -139,7 +139,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 445.2 to 443.8 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-450_Ma_(Katian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-450_Ma_(Katian_Age).png|Earth-450_Ma_(Katian_Age).png]] 
 
 
 ## #has_/text_of_/abstract 

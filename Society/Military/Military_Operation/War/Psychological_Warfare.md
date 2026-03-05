@@ -60,14 +60,14 @@ aliases:
 - 심리전
 has_id_wikidata: Q163698
 subclass_of:
-- '[[_Standards/WikiData/WD~subversion,1060330]]'
-- '[[_Standards/WikiData/WD~warfare,12786121]]'
-has_goal: '[[_Standards/WikiData/WD~reaction,31983622]]'
-part_of: '[[_Standards/WikiData/WD~crowd_psychology_terminology,77716235]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~cognitive_warfare,123593345]]'
-has_characteristic: '[[_Standards/WikiData/WD~propaganda_campaign,131827787]]'
-target: '[[_Standards/WikiData/WD~government,7188]]'
-facet_of: '[[_Standards/WikiData/WD~war,198]]'
+- '[[_Standards/WikiData/WD~subversion,1060330|WD~subversion,1060330]]'
+- '[[_Standards/WikiData/WD~warfare,12786121|WD~warfare,12786121]]'
+has_goal: '[[_Standards/WikiData/WD~reaction,31983622|WD~reaction,31983622]]'
+part_of: '[[_Standards/WikiData/WD~crowd_psychology_terminology,77716235|WD~crowd_psychology_terminology,77716235]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~cognitive_warfare,123593345|WD~cognitive_warfare,123593345]]'
+has_characteristic: '[[_Standards/WikiData/WD~propaganda_campaign,131827787|WD~propaganda_campaign,131827787]]'
+target: '[[_Standards/WikiData/WD~government,7188|WD~government,7188]]'
+facet_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 OmegaWiki_Defined_Meaning: 1324467
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AD%D8%B1%D8%A8%20%D9%86%D9%81%D8%B3%D9%8A%D8%A9.wav
 U_S_National_Archives_Identifier: 10643034

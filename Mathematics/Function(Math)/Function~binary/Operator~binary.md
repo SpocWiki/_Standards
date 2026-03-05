@@ -24,11 +24,11 @@ aliases:
 - אופרטור בינארי
 - 二項演算子
 has_id_wikidata: Q30242895
-manifestation_of: '[[_Standards/WikiData/WD~binary_operation,164307]]'
-used_by: '[[_Standards/WikiData/WD~binary_operation,164307]]'
-subclass_of: '[[_Standards/WikiData/WD~operator,3354588]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~group_of_2,135268494]]'
+manifestation_of: '[[_Standards/WikiData/WD~binary_operation,164307|WD~binary_operation,164307]]'
+used_by: '[[_Standards/WikiData/WD~binary_operation,164307|WD~binary_operation,164307]]'
+subclass_of: '[[_Standards/WikiData/WD~operator,3354588|WD~operator,3354588]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~group_of_2,135268494|WD~group_of_2,135268494]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Basic%20arithmetic%20operators.svg
 Commons_category: Symbols for binary operations
 dv_has_:
@@ -61,7 +61,7 @@ dv_has_:
 # [[Operator~binary]] 
 
 #has_/parent_class :: [[../Function~binary|Function~binary]] 
-#is_/same_as :: [[_Standards/WikiData/WD~binary_operator,30242895]] 
+#is_/same_as :: [[_Standards/WikiData/WD~binary_operator,30242895|WD~binary_operator,30242895]] 
 
 op: D x D => D  is a **ternary homogenous Relation** or a **binary Function in D**.
 Binary Operators allow for a **convenient infix Notation**:  op(a, b) = a op b 

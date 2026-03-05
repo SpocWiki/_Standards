@@ -43,81 +43,81 @@ aliases:
 - 데이비드 흄
 has_id_wikidata: Q37160
 influenced_by:
-- '[[_Standards/WikiData/WD~George_Berkeley,82049]]'
-- '[[_Standards/WikiData/WD~Francis_Hutcheson,316367]]'
-- '[[_Standards/WikiData/WD~Isaac_Newton,935]]'
-- '[[_Standards/WikiData/WD~John_Locke,9353]]'
+- '[[_Standards/WikiData/WD~George_Berkeley,82049|WD~George_Berkeley,82049]]'
+- '[[_Standards/WikiData/WD~Francis_Hutcheson,316367|WD~Francis_Hutcheson,316367]]'
+- '[[_Standards/WikiData/WD~Isaac_Newton,935|WD~Isaac_Newton,935]]'
+- '[[_Standards/WikiData/WD~John_Locke,9353|WD~John_Locke,9353]]'
 movement:
-- '[[_Standards/WikiData/WD~empiricism,83368]]'
-- '[[_Standards/WikiData/WD~philosophical_skepticism,1998646]]'
-- '[[_Standards/WikiData/WD~naturalism,56000]]'
+- '[[_Standards/WikiData/WD~empiricism,83368|WD~empiricism,83368]]'
+- '[[_Standards/WikiData/WD~philosophical_skepticism,1998646|WD~philosophical_skepticism,1998646]]'
+- '[[_Standards/WikiData/WD~naturalism,56000|WD~naturalism,56000]]'
 member_of:
-- '[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467]]'
-- '[[_Standards/WikiData/WD~The_Poker_Club,7757623]]'
-- '[[_Standards/WikiData/WD~The_Select_Society,10369531]]'
-educated_at: '[[_Standards/WikiData/WD~University_of_Edinburgh,160302]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+- '[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467|WD~Royal_Society_of_Edinburgh,117467]]'
+- '[[_Standards/WikiData/WD~The_Poker_Club,7757623|WD~The_Poker_Club,7757623]]'
+- '[[_Standards/WikiData/WD~The_Select_Society,10369531|WD~The_Select_Society,10369531]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Edinburgh,160302|WD~University_of_Edinburgh,160302]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885|WD~Kingdom_of_Great_Britain,161885]]'
 occupation:
-- '[[_Standards/WikiData/WD~librarian,182436]]'
-- '[[_Standards/WikiData/WD~economist,188094]]'
-- '[[_Standards/WikiData/WD~historian,201788]]'
-- '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- '[[_Standards/WikiData/WD~essayist,11774202]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~librarian,182436|WD~librarian,182436]]'
+- '[[_Standards/WikiData/WD~economist,188094|WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~historian,201788|WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~essayist,11774202|WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~philosophy_of_religion,209295]]'
-- '[[_Standards/WikiData/WD~history,309]]'
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-- '[[_Standards/WikiData/WD~politics,7163]]'
-- '[[_Standards/WikiData/WD~economics,8134]]'
-- '[[_Standards/WikiData/WD~ethics,9465]]'
-- '[[_Standards/WikiData/WD~epistemology,9471]]'
-- '[[_Standards/WikiData/WD~philosophy_of_mind,23407]]'
-- '[[_Standards/WikiData/WD~metaphysics,35277]]'
-- '[[_Standards/WikiData/WD~essay,35760]]'
-- '[[_Standards/WikiData/WD~aesthetics,35986]]'
+- '[[_Standards/WikiData/WD~philosophy_of_religion,209295|WD~philosophy_of_religion,209295]]'
+- '[[_Standards/WikiData/WD~history,309|WD~history,309]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~politics,7163|WD~politics,7163]]'
+- '[[_Standards/WikiData/WD~economics,8134|WD~economics,8134]]'
+- '[[_Standards/WikiData/WD~ethics,9465|WD~ethics,9465]]'
+- '[[_Standards/WikiData/WD~epistemology,9471|WD~epistemology,9471]]'
+- '[[_Standards/WikiData/WD~philosophy_of_mind,23407|WD~philosophy_of_mind,23407]]'
+- '[[_Standards/WikiData/WD~metaphysics,35277|WD~metaphysics,35277]]'
+- '[[_Standards/WikiData/WD~essay,35760|WD~essay,35760]]'
+- '[[_Standards/WikiData/WD~aesthetics,35986|WD~aesthetics,35986]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216|WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835|WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897|WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343|WD~Olomouc_City_Library_regional_database,130368343]]'
 notable_work:
-- '[[_Standards/WikiData/WD~Philosophical_Essays_Concerning_Human_Understanding,1306656]]'
-- '[[_Standards/WikiData/WD~An_Enquiry_Concerning_the_Principles_of_Morals,1306663]]'
-- '[[_Standards/WikiData/WD~A_Treatise_of_Human_Nature,2451675]]'
-- '[[_Standards/WikiData/WD~The_History_of_England,7739783]]'
+- '[[_Standards/WikiData/WD~Philosophical_Essays_Concerning_Human_Understanding,1306656|WD~Philosophical_Essays_Concerning_Human_Understanding,1306656]]'
+- '[[_Standards/WikiData/WD~An_Enquiry_Concerning_the_Principles_of_Morals,1306663|WD~An_Enquiry_Concerning_the_Principles_of_Morals,1306663]]'
+- '[[_Standards/WikiData/WD~A_Treatise_of_Human_Nature,2451675|WD~A_Treatise_of_Human_Nature,2451675]]'
+- '[[_Standards/WikiData/WD~The_History_of_England,7739783|WD~The_History_of_England,7739783]]'
 employer:
-- '[[_Standards/WikiData/WD~Advocates_Library,2888216]]'
-- '[[_Standards/WikiData/WD~Embassy_of_the_United_Kingdom,_Paris,18794353]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-place_of_burial: '[[_Standards/WikiData/WD~Old_Calton_Cemetery,7083575]]'
-given_name: '[[_Standards/WikiData/WD~David,18057751]]'
-family_name: '[[_Standards/WikiData/WD~Hume,21497203]]'
-depicted_by: '[[_Standards/WikiData/WD~David_Hume,_1711_1776._Historian_and_philosopher,27956936]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-father: '[[_Standards/WikiData/WD~Joseph_Hume,_10th_of_Ninewells,76242571]]'
-mother: '[[_Standards/WikiData/WD~Katherine_Falconer,76242574]]'
-sibling: '[[_Standards/WikiData/WD~John_Hume,_11th_of_Ninewells,76242576]]'
-has_works_in_the_collection: '[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]'
+- '[[_Standards/WikiData/WD~Advocates_Library,2888216|WD~Advocates_Library,2888216]]'
+- '[[_Standards/WikiData/WD~Embassy_of_the_United_Kingdom,_Paris,18794353|WD~Embassy_of_the_United_Kingdom,_Paris,18794353]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+place_of_burial: '[[_Standards/WikiData/WD~Old_Calton_Cemetery,7083575|WD~Old_Calton_Cemetery,7083575]]'
+given_name: '[[_Standards/WikiData/WD~David,18057751|WD~David,18057751]]'
+family_name: '[[_Standards/WikiData/WD~Hume,21497203|WD~Hume,21497203]]'
+depicted_by: '[[_Standards/WikiData/WD~David_Hume,_1711_1776._Historian_and_philosopher,27956936|WD~David_Hume,_1711_1776._Historian_and_philosopher,27956936]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
+father: '[[_Standards/WikiData/WD~Joseph_Hume,_10th_of_Ninewells,76242571|WD~Joseph_Hume,_10th_of_Ninewells,76242571]]'
+mother: '[[_Standards/WikiData/WD~Katherine_Falconer,76242574|WD~Katherine_Falconer,76242574]]'
+sibling: '[[_Standards/WikiData/WD~John_Hume,_11th_of_Ninewells,76242576|WD~John_Hume,_11th_of_Ninewells,76242576]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445|WD~Geldersch_Landschap_en_Kasteelen,98904445]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722|WD~Wikiproject_Nuremberg_Trials,100137722]]'
 date_of_birth: 1711-05-07T00:00:00Z
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-native_language: '[[_Standards/WikiData/WD~English,1860]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
-place_of_death: '[[_Standards/WikiData/WD~Edinburgh,23436]]'
-place_of_birth: '[[_Standards/WikiData/WD~Edinburgh,23436]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-work_locations: '[[_Standards/WikiData/WD~Scotland,22]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066|WD~atheism,7066]]'
+place_of_death: '[[_Standards/WikiData/WD~Edinburgh,23436|WD~Edinburgh,23436]]'
+place_of_birth: '[[_Standards/WikiData/WD~Edinburgh,23436|WD~Edinburgh,23436]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+work_locations: '[[_Standards/WikiData/WD~Scotland,22|WD~Scotland,22]]'
 Library_of_Congress_Classification: B1450-B1499
 Europeana_entity: agent/base/190
 Regensburg_Classification: BF 3995
@@ -271,7 +271,7 @@ dv_has_:
 #has_/previous_/item :: [[Locke,John]] 
 
 #has_/created_/quote :: Reason is the Slave of Passion 
-in opposition to [[../Ancient_Philosopher/Plato]]ns Model 
+in opposition to [[../Ancient_Philosopher/Plato|Plato]]ns Model 
 
 #is_/same_as :: [[../../../WikiData/WD~David_Hume,37160|WD~David_Hume,37160]]
 
@@ -302,7 +302,7 @@ in opposition to [[../Ancient_Philosopher/Plato]]ns Model
 > An opponent of philosophical rationalists, 
 > Hume held that passions rather than reason govern human behaviour, 
 > famously proclaiming that "Reason is, and ought only to be the slave of the passions." 
-> This makes him a predecessor of [[../../../../_protect/bio/Psychology/Psychologist/Kahnemann,Daniel]]. 
+> This makes him a predecessor of [[../../../../_protect/bio/Psychology/Psychologist/Kahnemann,Daniel|Kahnemann,Daniel]]. 
 > 
 > Hume was also a [[sentimentalist]] who held that ethics are based on emotion or sentiment 
 > rather than abstract moral principle. 

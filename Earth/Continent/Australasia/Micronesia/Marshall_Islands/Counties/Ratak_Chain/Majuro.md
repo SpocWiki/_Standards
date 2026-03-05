@@ -3,7 +3,7 @@ dv_is_a_: '[[../../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 171.3667
 dv_has_place_latitude: 7.116667
 dv_has_name: Majuro
-dv_has_place_country: '[[../../../Marshall_Islands]]'
+dv_has_place_country: '[[../../../Marshall_Islands|Marshall_Islands]]'
 dv_is_:
   same_as:
   - '[[../../../../../../../WikiData/WD~Majuro,12919|WD~Majuro,12919]]'
@@ -81,25 +81,25 @@ SpocWebEntityId: 36749
 tags:
 - geo/City
 type: City
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Ratak_Chain,700048]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Ratak_Chain,700048|WD~Ratak_Chain,700048]]'
 different_from:
-- '[[_Standards/WikiData/WD~Majuro_Atoll,14523617]]'
-- '[[_Standards/WikiData/WD~Majuro_Atoll,27577497]]'
+- '[[_Standards/WikiData/WD~Majuro_Atoll,14523617|WD~Majuro_Atoll,14523617]]'
+- '[[_Standards/WikiData/WD~Majuro_Atoll,27577497|WD~Majuro_Atoll,27577497]]'
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Majuro_Atoll,27577497]]'
-- '[[_Standards/WikiData/WD~Marshall_Islands,709]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q32755364,32755364]]'
-category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q122792131,122792131]]'
+- '[[_Standards/WikiData/WD~Majuro_Atoll,27577497|WD~Majuro_Atoll,27577497]]'
+- '[[_Standards/WikiData/WD~Marshall_Islands,709|WD~Marshall_Islands,709]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q32755364,32755364|WD~Q32755364,32755364]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q122792131,122792131|WD~Q122792131,122792131]]'
 coordinate_location: Point(171.3802 7.0918)
 instance_of:
-- '[[_Standards/WikiData/WD~city,515]]'
-- '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
-capital_of: '[[_Standards/WikiData/WD~Marshall_Islands,709]]'
-country: '[[_Standards/WikiData/WD~Marshall_Islands,709]]'
+- '[[_Standards/WikiData/WD~city,515|WD~city,515]]'
+- '[[_Standards/WikiData/WD~administrative_territorial_entity,56061|WD~administrative_territorial_entity,56061]]'
+capital_of: '[[_Standards/WikiData/WD~Marshall_Islands,709|WD~Marshall_Islands,709]]'
+country: '[[_Standards/WikiData/WD~Marshall_Islands,709|WD~Marshall_Islands,709]]'
 twinned_administrative_body:
-- '[[_Standards/WikiData/WD~Taipei,1867]]'
-- '[[_Standards/WikiData/WD~Honolulu,18094]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~Taipei,1867|WD~Taipei,1867]]'
+- '[[_Standards/WikiData/WD~Honolulu,18094|WD~Honolulu,18094]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
 population: 30000
 elevation_above_sea_level: 3
 area: 9.7

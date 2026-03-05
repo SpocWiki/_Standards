@@ -34,11 +34,11 @@ aliases:
 - 파레토 분포
 has_id_wikidata: Q837683
 subclass_of:
-- '[[_Standards/WikiData/WD~exponential_family,1188504]]'
-- '[[_Standards/WikiData/WD~heavy_tailed_distribution,1472677]]'
-- '[[_Standards/WikiData/WD~Generalized_Pareto_distribution,5532448]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-named_after: '[[_Standards/WikiData/WD~Vilfredo_Pareto,11031]]'
+- '[[_Standards/WikiData/WD~exponential_family,1188504|WD~exponential_family,1188504]]'
+- '[[_Standards/WikiData/WD~heavy_tailed_distribution,1472677|WD~heavy_tailed_distribution,1472677]]'
+- '[[_Standards/WikiData/WD~Generalized_Pareto_distribution,5532448|WD~Generalized_Pareto_distribution,5532448]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+named_after: '[[_Standards/WikiData/WD~Vilfredo_Pareto,11031|WD~Vilfredo_Pareto,11031]]'
 Commons_category: Pareto distribution
 dv_has_:
   name_:

@@ -66,24 +66,24 @@ aliases:
 - 지구물리학
 has_id_wikidata: Q46255
 subclass_of:
-- '[[_Standards/WikiData/WD~planetary_science,104499]]'
-- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~planetary_science,104499|WD~planetary_science,104499]]'
+- '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~magmatism,1467769]]'
-- '[[_Standards/WikiData/WD~geological_process,10928429]]'
-- '[[_Standards/WikiData/WD~Earth,2]]'
+- '[[_Standards/WikiData/WD~magmatism,1467769|WD~magmatism,1467769]]'
+- '[[_Standards/WikiData/WD~geological_process,10928429|WD~geological_process,10928429]]'
+- '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_geophysics,7112650]]'
-practiced_by: '[[_Standards/WikiData/WD~geophysicist,12094958]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Geophysics_navbox,14440080]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_geophysics,7112650|WD~outline_of_geophysics,7112650]]'
+practiced_by: '[[_Standards/WikiData/WD~geophysicist,12094958|WD~geophysicist,12094958]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Geophysics_navbox,14440080|WD~Template_Geophysics_navbox,14440080]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Geophysics,64560512]]'
-part_of: '[[_Standards/WikiData/WD~Earth_science,8008]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Geophysics,64560512|WD~Portal_Geophysics,64560512]]'
+part_of: '[[_Standards/WikiData/WD~Earth_science,8008|WD~Earth_science,8008]]'
 All_Science_Journal_Classification_Codes: 1908
 OmegaWiki_Defined_Meaning: 1648
 Dewey_Decimal_Classification: 550

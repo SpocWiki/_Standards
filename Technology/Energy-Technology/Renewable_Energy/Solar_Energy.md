@@ -116,21 +116,21 @@ aliases:
 - 태양에네르기
 has_id_wikidata: Q40015
 instance_of:
-- '[[_Standards/WikiData/WD~natural_resource,188460]]'
-- '[[_Standards/WikiData/WD~form_of_energy,3935690]]'
-uses: '[[_Standards/WikiData/WD~sunlight,193788]]'
+- '[[_Standards/WikiData/WD~natural_resource,188460|WD~natural_resource,188460]]'
+- '[[_Standards/WikiData/WD~form_of_energy,3935690|WD~form_of_energy,3935690]]'
+uses: '[[_Standards/WikiData/WD~sunlight,193788|WD~sunlight,193788]]'
 used_by:
-- '[[_Standards/WikiData/WD~solar_power,1483757]]'
-- '[[_Standards/WikiData/WD~solar_power_plant,2298412]]'
-- '[[_Standards/WikiData/WD~solar_architecture,7556075]]'
-- '[[_Standards/WikiData/WD~solar_generation,33085760]]'
+- '[[_Standards/WikiData/WD~solar_power,1483757|WD~solar_power,1483757]]'
+- '[[_Standards/WikiData/WD~solar_power_plant,2298412|WD~solar_power_plant,2298412]]'
+- '[[_Standards/WikiData/WD~solar_architecture,7556075|WD~solar_architecture,7556075]]'
+- '[[_Standards/WikiData/WD~solar_generation,33085760|WD~solar_generation,33085760]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sustainable_energy,1962383]]'
-- '[[_Standards/WikiData/WD~renewable_energy,12705]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_solar_energy,7112735]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Solar_energy,14859191]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+- '[[_Standards/WikiData/WD~sustainable_energy,1962383|WD~sustainable_energy,1962383]]'
+- '[[_Standards/WikiData/WD~renewable_energy,12705|WD~renewable_energy,12705]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_solar_energy,7112735|WD~outline_of_solar_energy,7112735]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Solar_energy,14859191|WD~Template_Solar_energy,14859191]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 carbon_footprint:
 - 5

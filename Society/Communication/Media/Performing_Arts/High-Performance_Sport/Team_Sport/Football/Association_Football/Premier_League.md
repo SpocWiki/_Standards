@@ -72,33 +72,33 @@ aliases:
 - 英格蘭足球超級聯賽
 - 프리미어리그
 has_id_wikidata: Q9448
-follows: '[[_Standards/WikiData/WD~Football_League_First_Division,754839]]'
+follows: '[[_Standards/WikiData/WD~Football_League_First_Division,754839|WD~Football_League_First_Division,754839]]'
 different_from:
-- '[[_Standards/WikiData/WD~Premier_League_Snooker,1635643]]'
-- '[[_Standards/WikiData/WD~Premiership_Rugby,5960]]'
-owner_of: '[[_Standards/WikiData/WD~Football_DataCo,5465815]]'
-significant_event: '[[_Standards/WikiData/WD~foundation_of_the_Premier_League,5474518]]'
+- '[[_Standards/WikiData/WD~Premier_League_Snooker,1635643|WD~Premier_League_Snooker,1635643]]'
+- '[[_Standards/WikiData/WD~Premiership_Rugby,5960|WD~Premiership_Rugby,5960]]'
+owner_of: '[[_Standards/WikiData/WD~Football_DataCo,5465815|WD~Football_DataCo,5465815]]'
+significant_event: '[[_Standards/WikiData/WD~foundation_of_the_Premier_League,5474518|WD~foundation_of_the_Premier_League,5474518]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Premier_League,5612595]]'
-- '[[_Standards/WikiData/WD~Template_Premier_League_player,121878577]]'
+- '[[_Standards/WikiData/WD~Template_Premier_League,5612595|WD~Template_Premier_League,5612595]]'
+- '[[_Standards/WikiData/WD~Template_Premier_League_player,121878577|WD~Template_Premier_League_player,121878577]]'
 instance_of:
-- '[[_Standards/WikiData/WD~private_company_limited_by_shares,6832945]]'
-- '[[_Standards/WikiData/WD~professional_sports_league,15991290]]'
-- '[[_Standards/WikiData/WD~association_football_league,15991303]]'
+- '[[_Standards/WikiData/WD~private_company_limited_by_shares,6832945|WD~private_company_limited_by_shares,6832945]]'
+- '[[_Standards/WikiData/WD~professional_sports_league,15991290|WD~professional_sports_league,15991290]]'
+- '[[_Standards/WikiData/WD~association_football_league,15991303|WD~association_football_league,15991303]]'
 board_member:
-- '[[_Standards/WikiData/WD~Alison_Brittain,19975651]]'
-- '[[_Standards/WikiData/WD~Dharmash_Mistry,59660313]]'
-- '[[_Standards/WikiData/WD~Richard_Masters,104848749]]'
-competition_class: "[[_Standards/WikiData/WD~men's_association_football,31930761]]"
-item_operated: '[[_Standards/WikiData/WD~premierleague.com,124691465]]'
-sport: '[[_Standards/WikiData/WD~association_football,2736]]'
-organizer: '[[_Standards/WikiData/WD~Premier_League,9448]]'
-part_of: '[[_Standards/WikiData/WD~English_football_league_system,18559]]'
-league_level_below: '[[_Standards/WikiData/WD~EFL_Championship,19510]]'
-operating_area: '[[_Standards/WikiData/WD~England,21]]'
-season_ends: '[[_Standards/WikiData/WD~May,119]]'
-season_starts: '[[_Standards/WikiData/WD~August,122]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Alison_Brittain,19975651|WD~Alison_Brittain,19975651]]'
+- '[[_Standards/WikiData/WD~Dharmash_Mistry,59660313|WD~Dharmash_Mistry,59660313]]'
+- '[[_Standards/WikiData/WD~Richard_Masters,104848749|WD~Richard_Masters,104848749]]'
+competition_class: "[[_Standards/WikiData/WD~men's_association_football,31930761|WD~men's_association_football,31930761]]"
+item_operated: '[[_Standards/WikiData/WD~premierleague.com,124691465|WD~premierleague.com,124691465]]'
+sport: '[[_Standards/WikiData/WD~association_football,2736|WD~association_football,2736]]'
+organizer: '[[_Standards/WikiData/WD~Premier_League,9448|WD~Premier_League,9448]]'
+part_of: '[[_Standards/WikiData/WD~English_football_league_system,18559|WD~English_football_league_system,18559]]'
+league_level_below: '[[_Standards/WikiData/WD~EFL_Championship,19510|WD~EFL_Championship,19510]]'
+operating_area: '[[_Standards/WikiData/WD~England,21|WD~England,21]]'
+season_ends: '[[_Standards/WikiData/WD~May,119|WD~May,119]]'
+season_starts: '[[_Standards/WikiData/WD~August,122|WD~August,122]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 event_interval: 1
 number_of_participants: 20
 social_media_followers:

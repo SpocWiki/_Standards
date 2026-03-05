@@ -10,7 +10,7 @@ aliases:
 > Gordon Matthew Thomas Sumner  (born 2 October 1951), known as Sting, 
 > is an English musician, activist and actor. 
 > 
-> He was the frontman, principal songwriter and bassist for new wave band the [[../../music/Musician/Police(Band)]] 
+> He was the frontman, principal songwriter and bassist for new wave band the [[../../music/Musician/Police(Band)|Police(Band)]] 
 > from 1977 until their breakup in 1986. 
 > He launched a solo career in 1985 and has included 
 > elements of rock, jazz, reggae, classical, new-age, and worldbeat in his music.

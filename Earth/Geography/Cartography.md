@@ -70,38 +70,38 @@ aliases:
 - 지도학
 has_id_wikidata: Q42515
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~genre,483394]]'
-- '[[_Standards/WikiData/WD~art_style,1792644]]'
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-different_from: '[[_Standards/WikiData/WD~cartogram,1152543]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~genre,483394|WD~genre,483394]]'
+- '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+different_from: '[[_Standards/WikiData/WD~cartogram,1152543|WD~cartogram,1152543]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Geography,1194350]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_cartography,1293621]]'
+- '[[_Standards/WikiData/WD~Geography,1194350|WD~Geography,1194350]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_cartography,1293621|WD~history_of_cartography,1293621]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~cartographer,1734662]]'
-- '[[_Standards/WikiData/WD~Cartographer_(vocational),124513769]]'
-- '[[_Standards/WikiData/WD~cartographer_(university),124513847]]'
+- '[[_Standards/WikiData/WD~cartographer,1734662|WD~cartographer,1734662]]'
+- '[[_Standards/WikiData/WD~Cartographer_(vocational),124513769|WD~Cartographer_(vocational),124513769]]'
+- '[[_Standards/WikiData/WD~cartographer_(university),124513847|WD~cartographer_(university),124513847]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Maps,5497094]]'
-- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~WikiProject_Maps,5497094|WD~WikiProject_Maps,5497094]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~typography,6466900]]'
-- '[[_Standards/WikiData/WD~mapping,11736611]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_cartography,7112575]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cartography,18857148]]'
+- '[[_Standards/WikiData/WD~typography,6466900|WD~typography,6466900]]'
+- '[[_Standards/WikiData/WD~mapping,11736611|WD~mapping,11736611]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_cartography,7112575|WD~outline_of_cartography,7112575]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cartography,18857148|WD~Portal_Cartography,18857148]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~cartographic_material,60533375]]'
-- '[[_Standards/WikiData/WD~map,4006]]'
+- '[[_Standards/WikiData/WD~cartographic_material,60533375|WD~cartographic_material,60533375]]'
+- '[[_Standards/WikiData/WD~map,4006|WD~map,4006]]'
 studied_by:
-- '[[_Standards/WikiData/WD~Cartography_&_GIS,124623978]]'
-- '[[_Standards/WikiData/WD~studies_in_cartography,124624035]]'
+- '[[_Standards/WikiData/WD~Cartography_&_GIS,124623978|WD~Cartography_&_GIS,124623978]]'
+- '[[_Standards/WikiData/WD~studies_in_cartography,124624035|WD~studies_in_cartography,124624035]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~geography,1071]]'
-- '[[_Standards/WikiData/WD~Earth_science,8008]]'
+- '[[_Standards/WikiData/WD~geography,1071|WD~geography,1071]]'
+- '[[_Standards/WikiData/WD~Earth_science,8008|WD~Earth_science,8008]]'
 U_S_National_Archives_Identifier: 10639651
 Colon_Classification: U11
 GitHub_topic: cartography

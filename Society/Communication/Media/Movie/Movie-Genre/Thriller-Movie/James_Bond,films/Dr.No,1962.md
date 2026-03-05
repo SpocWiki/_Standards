@@ -41,7 +41,7 @@ August der Starke hat das Grüne Gewölbe der Öffentlichkeit geöffnet. 1700
 1945-1958 waren die Juwelen in der UDSSR. 
 Das wertvollste Stück, die Epaulette mit dem großen weißen Diamanten bleibt weiter verschollen. 
 
-2017-03-27 Bode-Museum in Berlins Museum-Insel wird eine Big Maple Leaf 100kg Goldmünze gestohlen durch den [[../../../../../../../../_protect/Society/Sociology/Politics/German_Politics/Remmo-Clan]]. Wert ca. 4mio€ 
+2017-03-27 Bode-Museum in Berlins Museum-Insel wird eine Big Maple Leaf 100kg Goldmünze gestohlen durch den [[../../../../../../../../_protect/Society/Sociology/Politics/German_Politics/Remmo-Clan|Remmo-Clan]]. Wert ca. 4mio€ 
 crime family of Lebanese origin 
 
 

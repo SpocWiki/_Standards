@@ -84,12 +84,12 @@ aliases:
 - 광섬유
 - 빛섬유
 has_id_wikidata: Q162
-part_of: '[[_Standards/WikiData/WD~optical_fiber_cable,197961]]'
+part_of: '[[_Standards/WikiData/WD~optical_fiber_cable,197961|WD~optical_fiber_cable,197961]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~electromagnetic_waveguide,354724]]'
-- '[[_Standards/WikiData/WD~optical_waveguide,3191702]]'
-- '[[_Standards/WikiData/WD~glass_fiber,5861]]'
-different_from: '[[_Standards/WikiData/WD~LWL,561222]]'
+- '[[_Standards/WikiData/WD~electromagnetic_waveguide,354724|WD~electromagnetic_waveguide,354724]]'
+- '[[_Standards/WikiData/WD~optical_waveguide,3191702|WD~optical_waveguide,3191702]]'
+- '[[_Standards/WikiData/WD~glass_fiber,5861|WD~glass_fiber,5861]]'
+different_from: '[[_Standards/WikiData/WD~LWL,561222|WD~LWL,561222]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Fiber%20optic%20cables%20%E2%80%94%20How%20they%20work.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fibreoptic.jpg
 UMLS_CUI: C2355578

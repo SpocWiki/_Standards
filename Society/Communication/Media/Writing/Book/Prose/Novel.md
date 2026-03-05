@@ -97,37 +97,37 @@ aliases:
 has_id_wikidata: Q8261
 Commons_category: Novels
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 different_from:
-- '[[_Standards/WikiData/WD~novella,149537]]'
-- '[[_Standards/WikiData/WD~short_novel,12799318]]'
-- '[[_Standards/WikiData/WD~Riwaya,54894431]]'
-- '[[_Standards/WikiData/WD~xiaoshuo,59126]]'
+- '[[_Standards/WikiData/WD~novella,149537|WD~novella,149537]]'
+- '[[_Standards/WikiData/WD~short_novel,12799318|WD~short_novel,12799318]]'
+- '[[_Standards/WikiData/WD~Riwaya,54894431|WD~Riwaya,54894431]]'
+- '[[_Standards/WikiData/WD~xiaoshuo,59126|WD~xiaoshuo,59126]]'
 equivalent_class: http://dbpedia.org/ontology/Novel
 hashtag: novels
-instance_of: '[[_Standards/WikiData/WD~literary_form,4263830]]'
+instance_of: '[[_Standards/WikiData/WD~literary_form,4263830|WD~literary_form,4263830]]'
 Krugosvet_article: kultura_i_obrazovanie/literatura/ROMAN.html
 name_in_kana: ちょうへんしょうせつ
 Nomenclature_for_Museum_Cataloging: 13551
 OmegaWiki_Defined_Meaning: 463474
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Narration,60007664]]'
-part_of: '[[_Standards/WikiData/WD~novel_sequence,2005755]]'
-practiced_by: '[[_Standards/WikiData/WD~novelist,6625963]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Narration,60007664|WD~WikiProject_Narration,60007664]]'
+part_of: '[[_Standards/WikiData/WD~novel_sequence,2005755|WD~novel_sequence,2005755]]'
+practiced_by: '[[_Standards/WikiData/WD~novelist,6625963|WD~novelist,6625963]]'
 properties_for_this_type:
 - author
 - publisher
 - genre
 Provenio_UUID: 04b724a8-e921-4166-b5fb-1ddf19d37f6f
 subclass_of:
-- '[[_Standards/WikiData/WD~narration,3328821]]'
-- '[[_Standards/WikiData/WD~work_of_fiction,87482979]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Novels,11774360]]'
+- '[[_Standards/WikiData/WD~narration,3328821|WD~narration,3328821]]'
+- '[[_Standards/WikiData/WD~work_of_fiction,87482979|WD~work_of_fiction,87482979]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Novels,11774360|WD~Portal_Novels,11774360]]'
 dv_has_:
   name_:
     af: roman

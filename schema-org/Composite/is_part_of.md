@@ -34,7 +34,7 @@ dv_has_:
   range: CreativeWork, URL
   child_:
     property: "[ [[../Relation/is/is_in_defined_term_set|inDefinedTermSet]],  [[../Relation/is/part_of/is_part_of_episode|partOfEpisode]],  [[../Relation/is/part_of/is_part_of_season|partOfSeason]],  [[../Relation/is/part_of/is_part_of_series|partOfSeries]] ]"
-  examples: "[[../../Technology/Transport/Road_Transport/Car]]"
+  examples: "[[../../Technology/Transport/Road_Transport/Car|Car]]"
 dv_is_:
   same_as:
     - "[[is_part_of]]"
@@ -49,7 +49,7 @@ dv_has_domain: CreativeWork
 dv_has_name: is_part_of
 dv_has_range: CreativeWork, URL
 dv_has_child_property: "[ [[../Relation/is/is_in_defined_term_set|inDefinedTermSet]],  [[../Relation/is/part_of/is_part_of_episode|partOfEpisode]],  [[../Relation/is/part_of/is_part_of_season|partOfSeason]],  [[../Relation/is/part_of/is_part_of_series|partOfSeries]] ]"
-dv_has_examples: "[[../../Technology/Transport/Road_Transport/Car]]"
+dv_has_examples: "[[../../Technology/Transport/Road_Transport/Car|Car]]"
 dv_is_same_as:
   - "[[is_part_of]]"
   - "[[/_public/schema-org/Composite/is_part_of.public|is_part_of.public]]"
@@ -101,7 +101,7 @@ has_child_property = `=this.dv_has_child_property`
 
 ## Examples: 
 
-### #has_/examples :: [[../../Technology/Transport/Road_Transport/Car]] 
+### #has_/examples :: [[../../Technology/Transport/Road_Transport/Car|Car]] 
 with Parts like 
 #### Steering_Wheel 
 #### Chassis  

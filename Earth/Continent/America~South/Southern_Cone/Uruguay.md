@@ -111,14 +111,14 @@ aliases:
 has_id_wikidata: Q77
 age_of_majority: 18
 aircraft_registration_prefix: CX
-anthem: '[[_Standards/WikiData/WD~National_Anthem_of_Uruguay,336306]]'
+anthem: '[[_Standards/WikiData/WD~National_Anthem_of_Uruguay,336306|WD~National_Anthem_of_Uruguay,336306]]'
 area: 176215
-award_received: '[[_Standards/WikiData/WD~The_Economist_country_of_the_year,47004555]]'
+award_received: '[[_Standards/WikiData/WD~The_Economist_country_of_the_year,47004555|WD~The_Economist_country_of_the_year,47004555]]'
 Baidu_Tieba_name: 乌拉圭
 basic_form_of_government:
-- '[[_Standards/WikiData/WD~participatory_democracy,310988]]'
-- '[[_Standards/WikiData/WD~republic,7270]]'
-- '[[_Standards/WikiData/WD~presidential_system,49892]]'
+- '[[_Standards/WikiData/WD~participatory_democracy,310988|WD~participatory_democracy,310988]]'
+- '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~presidential_system,49892|WD~presidential_system,49892]]'
 BHCL_UUID: 5a7717a2-ad53-4a2d-8cab-2afa576dd18e
 birth_rate:
 - 10.339
@@ -144,10 +144,10 @@ BTI_Status_Index:
 - 9.25
 - 9.26
 - 9.33
-capital: '[[_Standards/WikiData/WD~Montevideo,1335]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Uruguay,4504285]]'
+capital: '[[_Standards/WikiData/WD~Montevideo,1335|WD~Montevideo,1335]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Uruguay,4504285|WD~Central_Bank_of_Uruguay,4504285]]'
 CIVICUS_Monitor_country_entry: uruguay
-coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Uruguay,208656]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Uruguay,208656|WD~Coat_of_arms_of_Uruguay,208656]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Uruguay.svg
 Colon_Classification: SG--7911
 Commons_category: Uruguay
@@ -156,26 +156,26 @@ compulsory_education_maximum_age_: 14
 compulsory_education_minimum_age_: 6
 confidential: public
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Maldonado_Department,331196]]'
-- '[[_Standards/WikiData/WD~Lavalleja_Department,460435]]'
-- '[[_Standards/WikiData/WD~Cerro_Largo_Department,16575]]'
-- '[[_Standards/WikiData/WD~Flores_Department,16578]]'
-- '[[_Standards/WikiData/WD~San_José_Department,16579]]'
-- '[[_Standards/WikiData/WD~Paysandú_Department,16576]]'
-- '[[_Standards/WikiData/WD~Canelones_Department,16577]]'
-- '[[_Standards/WikiData/WD~Rocha_Department,16582]]'
-- '[[_Standards/WikiData/WD~Colonia_Department,16580]]'
-- '[[_Standards/WikiData/WD~Tacuarembó_Department,16587]]'
-- '[[_Standards/WikiData/WD~Soriano_Department,16584]]'
-- '[[_Standards/WikiData/WD~Durazno_Department,16591]]'
-- '[[_Standards/WikiData/WD~Montevideo_Department,16594]]'
-- '[[_Standards/WikiData/WD~Salto_Department,16595]]'
-- '[[_Standards/WikiData/WD~Florida_Department,16593]]'
-- '[[_Standards/WikiData/WD~Río_Negro_Department,16596]]'
-- '[[_Standards/WikiData/WD~Artigas_Department,16603]]'
-- '[[_Standards/WikiData/WD~Treinta_y_Tres_Department,16610]]'
-- '[[_Standards/WikiData/WD~Rivera_Department,16609]]'
-continent: '[[_Standards/WikiData/WD~South_America,18]]'
+- '[[_Standards/WikiData/WD~Maldonado_Department,331196|WD~Maldonado_Department,331196]]'
+- '[[_Standards/WikiData/WD~Lavalleja_Department,460435|WD~Lavalleja_Department,460435]]'
+- '[[_Standards/WikiData/WD~Cerro_Largo_Department,16575|WD~Cerro_Largo_Department,16575]]'
+- '[[_Standards/WikiData/WD~Flores_Department,16578|WD~Flores_Department,16578]]'
+- '[[_Standards/WikiData/WD~San_José_Department,16579|WD~San_José_Department,16579]]'
+- '[[_Standards/WikiData/WD~Paysandú_Department,16576|WD~Paysandú_Department,16576]]'
+- '[[_Standards/WikiData/WD~Canelones_Department,16577|WD~Canelones_Department,16577]]'
+- '[[_Standards/WikiData/WD~Rocha_Department,16582|WD~Rocha_Department,16582]]'
+- '[[_Standards/WikiData/WD~Colonia_Department,16580|WD~Colonia_Department,16580]]'
+- '[[_Standards/WikiData/WD~Tacuarembó_Department,16587|WD~Tacuarembó_Department,16587]]'
+- '[[_Standards/WikiData/WD~Soriano_Department,16584|WD~Soriano_Department,16584]]'
+- '[[_Standards/WikiData/WD~Durazno_Department,16591|WD~Durazno_Department,16591]]'
+- '[[_Standards/WikiData/WD~Montevideo_Department,16594|WD~Montevideo_Department,16594]]'
+- '[[_Standards/WikiData/WD~Salto_Department,16595|WD~Salto_Department,16595]]'
+- '[[_Standards/WikiData/WD~Florida_Department,16593|WD~Florida_Department,16593]]'
+- '[[_Standards/WikiData/WD~Río_Negro_Department,16596|WD~Río_Negro_Department,16596]]'
+- '[[_Standards/WikiData/WD~Artigas_Department,16603|WD~Artigas_Department,16603]]'
+- '[[_Standards/WikiData/WD~Treinta_y_Tres_Department,16610|WD~Treinta_y_Tres_Department,16610]]'
+- '[[_Standards/WikiData/WD~Rivera_Department,16609|WD~Rivera_Department,16609]]'
+continent: '[[_Standards/WikiData/WD~South_America,18|WD~South_America,18]]'
 coordinates_of_easternmost_point: Point(-53.18464279 -32.65440712)
 coordinates_of_northernmost_point: Point(-56.99383823 -30.086248369)
 coordinates_of_southernmost_point:
@@ -183,18 +183,18 @@ coordinates_of_southernmost_point:
 - Point(-54.884471761 -35.03138793)
 coordinates_of_westernmost_point: Point(-58.43799591 -33.68206818)
 coordinate_location: Point(-56.0 -33.0)
-country: '[[_Standards/WikiData/WD~Uruguay,77]]'
+country: '[[_Standards/WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
 country_calling_code: 598
 cssclasses:
 - Country
-culture: '[[_Standards/WikiData/WD~culture_of_Uruguay,2842424]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Uruguay,2842424|WD~culture_of_Uruguay,2842424]]'
 death_rate:
 - 9.432
 - 9.879
 - 10.057
 - 12.162
 Democracy_Index: 8.85
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Uruguay,4228]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Uruguay,4228|WD~demographics_of_Uruguay,4228]]'
 demonym:
 - Uruguayer
 - Uruguayerin
@@ -251,71 +251,71 @@ demonym:
 - uruguaya
 - Uruguayan
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Uruguay%20CIA%20map-DE.png
 Dewey_Decimal_Classification: 2--895
-different_from: '[[_Standards/WikiData/WD~Uruguay,354063]]'
+different_from: '[[_Standards/WikiData/WD~Uruguay,354063|WD~Uruguay,354063]]'
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Holy_See,159583]]'
-- '[[_Standards/WikiData/WD~Riograndense_Republic,162192]]'
-- '[[_Standards/WikiData/WD~Chile,298]]'
-- '[[_Standards/WikiData/WD~Armenia,399]]'
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~Peru,419]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Venezuela,717]]'
-- '[[_Standards/WikiData/WD~Paraguay,733]]'
-- '[[_Standards/WikiData/WD~Colombia,739]]'
-- '[[_Standards/WikiData/WD~Ecuador,736]]'
-- '[[_Standards/WikiData/WD~Bolivia,750]]'
-- '[[_Standards/WikiData/WD~Guatemala,774]]'
-- '[[_Standards/WikiData/WD~Dominican_Republic,786]]'
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~El_Salvador,792]]'
-- '[[_Standards/WikiData/WD~Costa_Rica,800]]'
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Panama,804]]'
-- '[[_Standards/WikiData/WD~Lebanon,822]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~South_Korea,884]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Spain,29]]'
-- '[[_Standards/WikiData/WD~Sweden,34]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~Switzerland,39]]'
-- '[[_Standards/WikiData/WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Austria,40]]'
-- '[[_Standards/WikiData/WD~Portugal,45]]'
-- '[[_Standards/WikiData/WD~Netherlands,55]]'
-- '[[_Standards/WikiData/WD~Egypt,79]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Brazil,155]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
-- '[[_Standards/WikiData/WD~Cuba,241]]'
+- '[[_Standards/WikiData/WD~Holy_See,159583|WD~Holy_See,159583]]'
+- '[[_Standards/WikiData/WD~Riograndense_Republic,162192|WD~Riograndense_Republic,162192]]'
+- '[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Peru,419|WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Venezuela,717|WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Paraguay,733|WD~Paraguay,733]]'
+- '[[_Standards/WikiData/WD~Colombia,739|WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~Ecuador,736|WD~Ecuador,736]]'
+- '[[_Standards/WikiData/WD~Bolivia,750|WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Guatemala,774|WD~Guatemala,774]]'
+- '[[_Standards/WikiData/WD~Dominican_Republic,786|WD~Dominican_Republic,786]]'
+- '[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~El_Salvador,792|WD~El_Salvador,792]]'
+- '[[_Standards/WikiData/WD~Costa_Rica,800|WD~Costa_Rica,800]]'
+- '[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Panama,804|WD~Panama,804]]'
+- '[[_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Portugal,45|WD~Portugal,45]]'
+- '[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]'
+- '[[_Standards/WikiData/WD~Cuba,241|WD~Cuba,241]]'
 draft: false
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Uruguay,1997531]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Uruguay,1997531|WD~economy_of_Uruguay,1997531]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~Type_L,1520890]]'
-- '[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]'
-emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
-executive_body: '[[_Standards/WikiData/WD~Presidencia_de_la_República,104809052]]'
+- '[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_L,1520890|WD~Type_L,1520890]]'
+- '[[_Standards/WikiData/WD~AS_NZS_3112,2335539|WD~AS_NZS_3112,2335539]]'
+emergency_phone_number: '[[_Standards/WikiData/WD~911,533806|WD~911,533806]]'
+executive_body: '[[_Standards/WikiData/WD~Presidencia_de_la_República,104809052|WD~Presidencia_de_la_República,104809052]]'
 expiryDate: ''
 female_population:
 - 1764421
@@ -323,22 +323,22 @@ female_population:
 - 1768921
 - 1769262
 FIPS_10_4_countries_and_regions_: UY
-flag: '[[_Standards/WikiData/WD~flag_of_Uruguay,171103]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Uruguay,171103|WD~flag_of_Uruguay,171103]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uruguay.svg
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Uruguay,2334391]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Uruguay,2334391|WD~geography_of_Uruguay,2334391]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Uruguay.map
 Gini_coefficient: 40.2
 GitHub_topic: uruguay
 GS1_country_code: 773
 Happy_Planet_Index_score: 57.5
 hashtag: Uruguay
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
 has_time_started: 1825-08-25
-head_of_government: '[[_Standards/WikiData/WD~Luis_Lacalle_Pou,6800406]]'
-head_of_state: '[[_Standards/WikiData/WD~Luis_Lacalle_Pou,6800406]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Uruguay,6512554]]'
-highest_point: '[[_Standards/WikiData/WD~Cerro_Catedral,1055837]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Uruguay,1132690]]'
+head_of_government: '[[_Standards/WikiData/WD~Luis_Lacalle_Pou,6800406|WD~Luis_Lacalle_Pou,6800406]]'
+head_of_state: '[[_Standards/WikiData/WD~Luis_Lacalle_Pou,6800406|WD~Luis_Lacalle_Pou,6800406]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Uruguay,6512554|WD~Supreme_Court_of_Uruguay,6512554]]'
+highest_point: '[[_Standards/WikiData/WD~Cerro_Catedral,1055837|WD~Cerro_Catedral,1055837]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Uruguay,1132690|WD~history_of_Uruguay,1132690]]'
 Human_Development_Index: 0.809
 IAB_code: 1469
 icon: flag-uy
@@ -346,10 +346,10 @@ inception: 1825-08-25
 Inequality_adjusted_Human_Development_Index: 0.71
 INSEE_countries_and_foreign_territories_code: 99423
 instance_of:
-- '[[_Standards/WikiData/WD~secular_state,859563]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-- '[[_Standards/WikiData/WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~secular_state,859563|WD~secular_state,859563]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
 IOC_country_code: URU
 isDeleted: false
 ISNI: 122384648
@@ -363,29 +363,29 @@ Krugosvet_article: strany_mira/URUGVA.html
 Languages:
 - es-UY
 language_used:
-- '[[_Standards/WikiData/WD~Uruguayan_Sign_Language,7901470]]'
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Uruguayan_Sign_Language,7901470|WD~Uruguayan_Sign_Language,7901470]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
 layout: ''
-legislative_body: '[[_Standards/WikiData/WD~General_Assembly_of_Uruguay,1501988]]'
+legislative_body: '[[_Standards/WikiData/WD~General_Assembly_of_Uruguay,1501988|WD~General_Assembly_of_Uruguay,1501988]]'
 licence_plate_code: UY
 license: CC BY-SA 4.0
 life_expectancy: 77.493
 linkTitle: ''
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Uruguay_River,18278]]'
-- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-- '[[_Standards/WikiData/WD~Río_de_la_Plata,35827]]'
+- '[[_Standards/WikiData/WD~Uruguay_River,18278|WD~Uruguay_River,18278]]'
+- '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+- '[[_Standards/WikiData/WD~Río_de_la_Plata,35827|WD~Río_de_la_Plata,35827]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~America_Montevideo,63286104]]'
-- '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
+- '[[_Standards/WikiData/WD~America_Montevideo,63286104|WD~America_Montevideo,63286104]]'
+- '[[_Standards/WikiData/WD~UTC_03_00,6513|WD~UTC_03_00,6513]]'
 location:
 - -34.91
 - -56.17
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/URY%20orthographic.svg
-lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
 M49_code: 858
 mains_voltage: 220
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Uruguay,15505683]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Uruguay,15505683|WD~WikiProject_Uruguay,15505683]]'
 male_population:
 - 1658372
 - 1659147
@@ -394,33 +394,33 @@ male_population:
 maritime_identification_digits: 770
 marriageable_age: 16
 member_of:
-- '[[_Standards/WikiData/WD~Organization_of_American_States,123759]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~Andean_Community,471690]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Digital_9,1224678]]'
-- '[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]'
-- '[[_Standards/WikiData/WD~Mercosur,4264]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~International_Labour_Organization,54129]]'
+- '[[_Standards/WikiData/WD~Organization_of_American_States,123759|WD~Organization_of_American_States,123759]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Andean_Community,471690|WD~Andean_Community,471690]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Digital_9,1224678|WD~Digital_9,1224678]]'
+- '[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762|WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230|WD~Union_of_South_American_Nations,4230]]'
+- '[[_Standards/WikiData/WD~Mercosur,4264|WD~Mercosur,4264]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~International_Labour_Organization,54129|WD~International_Labour_Organization,54129]]'
 MeSH_tree_code: Z01.107.757.904
 mobile_country_code: 748
-motto: '[[_Standards/WikiData/WD~Liberty_or_Death,3506379]]'
-named_after: '[[_Standards/WikiData/WD~Uruguay_River,18278]]'
+motto: '[[_Standards/WikiData/WD~Liberty_or_Death,3506379|WD~Liberty_or_Death,3506379]]'
+named_after: '[[_Standards/WikiData/WD~Uruguay_River,18278|WD~Uruguay_River,18278]]'
 native_label: República Oriental del Uruguay
 nickname:
 - El Paisito
@@ -429,52 +429,52 @@ nominal_GDP:
 - 71177146197
 - 61412268249
 number_of_out_of_school_children: 51499
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Uruguay,4524807]]'
-official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Uruguay,4524807|WD~President_of_Uruguay,4524807]]'
+official_language: '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
 official_name:
 - Oriental Republic of Uruguay
 - Repúbilca Oriental del Uruguay
 - la République orientale de l’Uruguay
 official_website: https://www.gub.uy/
 OmegaWiki_Defined_Meaning: 8345
-open_data_portal: '[[_Standards/WikiData/WD~Uruguay_Open_Data_Portal,97096884]]'
+open_data_portal: '[[_Standards/WikiData/WD~Uruguay_Open_Data_Portal,97096884|WD~Uruguay_Open_Data_Portal,97096884]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Punta%20del%20Este%20%28Uruguay%29%20Puente%20Barra%20Maldonado.jpg
 part_of:
-- '[[_Standards/WikiData/WD~Southern_Cone,236118]]'
-- '[[_Standards/WikiData/WD~Hispanic_America,653884]]'
-- '[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]'
-- '[[_Standards/WikiData/WD~Latin_America,12585]]'
-- '[[_Standards/WikiData/WD~South_America,18]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103717,27103717]]'
+- '[[_Standards/WikiData/WD~Southern_Cone,236118|WD~Southern_Cone,236118]]'
+- '[[_Standards/WikiData/WD~Hispanic_America,653884|WD~Hispanic_America,653884]]'
+- '[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647|WD~European_Union_tax_haven_blacklist,66458647]]'
+- '[[_Standards/WikiData/WD~Latin_America,12585|WD~Latin_America,12585]]'
+- '[[_Standards/WikiData/WD~South_America,18|WD~South_America,18]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103717,27103717|WD~Q27103717,27103717]]'
 PM20_geo_code: E95
 population: 3444263
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Uruguay.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Uruguay.wav
 public_holiday:
-- '[[_Standards/WikiData/WD~Epiphany,132001]]'
-- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
-- "[[_Standards/WikiData/WD~All_Souls'_Day,1033140]]"
-- '[[_Standards/WikiData/WD~Tourism_Week,6124629]]'
-- '[[_Standards/WikiData/WD~Carnival,4618]]'
-- '[[_Standards/WikiData/WD~Christmas,19809]]'
-- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+- '[[_Standards/WikiData/WD~Epiphany,132001|WD~Epiphany,132001]]'
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627|WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~All_Souls'_Day,1033140|WD~All_Souls'_Day,1033140]]"
+- '[[_Standards/WikiData/WD~Tourism_Week,6124629|WD~Tourism_Week,6124629]]'
+- '[[_Standards/WikiData/WD~Carnival,4618|WD~Carnival,4618]]'
+- '[[_Standards/WikiData/WD~Christmas,19809|WD~Christmas,19809]]'
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499|WD~International_Workers'_Day,47499]]"
 publish: true
 publishDate: ''
 railway_traffic_side:
-- '[[_Standards/WikiData/WD~left,13196750]]'
-- '[[_Standards/WikiData/WD~right,14565199]]'
+- '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+- '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
 replaces:
-- '[[_Standards/WikiData/WD~Cisplatina_Province,616523]]'
-- '[[_Standards/WikiData/WD~Provincia_Oriental,2357000]]'
+- '[[_Standards/WikiData/WD~Cisplatina_Province,616523|WD~Cisplatina_Province,616523]]'
+- '[[_Standards/WikiData/WD~Provincia_Oriental,2357000|WD~Provincia_Oriental,2357000]]'
 rural_population:
 - 147591
 - 150653
 - 153795
 - 156815
 shares_border_with:
-- '[[_Standards/WikiData/WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
 short_name:
 - "\U0001F1FA\U0001F1FE"
 - Uruguay
@@ -485,8 +485,8 @@ suicide_rate: 18.8
 tags:
 - geo/Country
 title: Uruguay
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Uruguay,8253631]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.uy,41848]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Uruguay,8253631|WD~Portal_Uruguay,8253631]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.uy,41848|WD~.uy,41848]]'
 total_fertility_rate: 2.02
 type: Country
 UMLS_CUI: C0042113
@@ -500,7 +500,7 @@ U_S_National_Archives_Identifier: 10035745
 VAT_rate:
 - 10
 - 22
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Uruguay,7112501]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Uruguay,7112501|WD~outline_of_Uruguay,7112501]]'
 WIPO_ST_3: UY
 Wolfram_Language_entity_code: Entity["Country", "Uruguay"]
 dv_has_:
@@ -891,7 +891,7 @@ Unicode_character: 🇺🇾
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Uruguay/ReadMe]] 
+[[Uruguay/ReadMe|ReadMe]] 
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
@@ -981,10 +981,10 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]  
+Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo|Montevideo]]  
 ![[Uruguay/Coat_of_arms_of_Uruguay.svg|350]]
 
-![[../../../xLarge/National-Anthem/Anthem-Uruguay.mp3]]
+![[../../../xLarge/National-Anthem/Anthem-Uruguay.mp3|Anthem-Uruguay.mp3]]
 
 ![[Uruguay/Flag_of_Uruguay.svg|350]]
 

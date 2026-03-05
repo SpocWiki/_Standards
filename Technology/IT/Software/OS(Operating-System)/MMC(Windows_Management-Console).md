@@ -32,7 +32,7 @@ MMC (Microsoft Management Console) plug-ins provide graphical user interfaces fo
 
 #is_/part_of :: [[OS~Windows]] 
 
-As of [[OS~Windows/Windows2000]]
+As of [[OS~Windows/Windows2000|Windows2000]]
 #has_/url :: `%windir%\system32\mmc.exe`
 
 For EventEngineImport we need a Transactional Queue with Journal (to be able to re-queue Messages). 

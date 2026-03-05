@@ -95,20 +95,20 @@ aliases:
 - 사회민주주의
 has_id_wikidata: Q121254
 different_from:
-- '[[_Standards/WikiData/WD~democratic_socialism,189280]]'
-- '[[_Standards/WikiData/WD~liberal_socialism,1822939]]'
-- '[[_Standards/WikiData/WD~national_democracy,6972194]]'
+- '[[_Standards/WikiData/WD~democratic_socialism,189280|WD~democratic_socialism,189280]]'
+- '[[_Standards/WikiData/WD~liberal_socialism,1822939|WD~liberal_socialism,1822939]]'
+- '[[_Standards/WikiData/WD~national_democracy,6972194|WD~national_democracy,6972194]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~democratic_socialism,189280]]'
-- '[[_Standards/WikiData/WD~reformist_socialism,19978438]]'
+- '[[_Standards/WikiData/WD~democratic_socialism,189280|WD~democratic_socialism,189280]]'
+- '[[_Standards/WikiData/WD~reformist_socialism,19978438|WD~reformist_socialism,19978438]]'
 instance_of:
-- '[[_Standards/WikiData/WD~economic_ideology,5333510]]'
-- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~economic_ideology,5333510|WD~economic_ideology,5333510]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644|WD~political_ideology,12909644]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Social_democracy_sidebar,6441841]]'
-- '[[_Standards/WikiData/WD~Template_Social_democracy,21208884]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-endorsed_by: '[[_Standards/WikiData/WD~social_democrat,61078770]]'
+- '[[_Standards/WikiData/WD~Template_Social_democracy_sidebar,6441841|WD~Template_Social_democracy_sidebar,6441841]]'
+- '[[_Standards/WikiData/WD~Template_Social_democracy,21208884|WD~Template_Social_democracy,21208884]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+endorsed_by: '[[_Standards/WikiData/WD~social_democrat,61078770|WD~social_democrat,61078770]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Sociaaldemocratie-article.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Red%20rose%2002.svg
 OmegaWiki_Defined_Meaning: 353184

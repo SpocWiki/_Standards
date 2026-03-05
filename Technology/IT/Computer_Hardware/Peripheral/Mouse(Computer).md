@@ -123,26 +123,26 @@ aliases:
 - ꠇꠝ꠆ꠙꠥꠐꠣꠞꠞ ꠝꠣꠃꠍ
 - 마우스
 has_id_wikidata: Q7987
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Douglas_Engelbart,92614]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Douglas_Engelbart,92614|WD~Douglas_Engelbart,92614]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~pointing_device,184824]]'
-- '[[_Standards/WikiData/WD~input_device,864114]]'
-- '[[_Standards/WikiData/WD~computer_hardware,3966]]'
-physically_interacts_with: '[[_Standards/WikiData/WD~mousepad,861934]]'
+- '[[_Standards/WikiData/WD~pointing_device,184824|WD~pointing_device,184824]]'
+- '[[_Standards/WikiData/WD~input_device,864114|WD~input_device,864114]]'
+- '[[_Standards/WikiData/WD~computer_hardware,3966|WD~computer_hardware,3966]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~mousepad,861934|WD~mousepad,861934]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~push_button,870870]]'
-- '[[_Standards/WikiData/WD~scroll_wheel,1091813]]'
-- '[[_Standards/WikiData/WD~optical_instrument,1751850]]'
-- '[[_Standards/WikiData/WD~mouse_button,6926048]]'
-- '[[_Standards/WikiData/WD~left_mouse_button,25489938]]'
-- '[[_Standards/WikiData/WD~right_mouse_button,25489980]]'
-- '[[_Standards/WikiData/WD~middle_mouse_button,98073977]]'
+- '[[_Standards/WikiData/WD~push_button,870870|WD~push_button,870870]]'
+- '[[_Standards/WikiData/WD~scroll_wheel,1091813|WD~scroll_wheel,1091813]]'
+- '[[_Standards/WikiData/WD~optical_instrument,1751850|WD~optical_instrument,1751850]]'
+- '[[_Standards/WikiData/WD~mouse_button,6926048|WD~mouse_button,6926048]]'
+- '[[_Standards/WikiData/WD~left_mouse_button,25489938|WD~left_mouse_button,25489938]]'
+- '[[_Standards/WikiData/WD~right_mouse_button,25489980|WD~right_mouse_button,25489980]]'
+- '[[_Standards/WikiData/WD~middle_mouse_button,98073977|WD~middle_mouse_button,98073977]]'
 different_from:
-- '[[_Standards/WikiData/WD~mouse,2751034]]'
-- '[[_Standards/WikiData/WD~mouse_cursor,7208362]]'
-contributor_to_the_creative_work_or_subject: '[[_Standards/WikiData/WD~William_English,2894943]]'
-part_of: '[[_Standards/WikiData/WD~terminal,3518405]]'
-model_item: "[[_Standards/WikiData/WD~Douglas_Engelbart's_prototype_mouse,131411226]]"
+- '[[_Standards/WikiData/WD~mouse,2751034|WD~mouse,2751034]]'
+- '[[_Standards/WikiData/WD~mouse_cursor,7208362|WD~mouse_cursor,7208362]]'
+contributor_to_the_creative_work_or_subject: '[[_Standards/WikiData/WD~William_English,2894943|WD~William_English,2894943]]'
+part_of: '[[_Standards/WikiData/WD~terminal,3518405|WD~terminal,3518405]]'
+model_item: "[[_Standards/WikiData/WD~Douglas_Engelbart's_prototype_mouse,131411226|WD~Douglas_Engelbart's_prototype_mouse,131411226]]"
 OmegaWiki_Defined_Meaning: 6236
 Nomenclature_for_Museum_Cataloging: 10499
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ComputerMouseCloseup3.jpg

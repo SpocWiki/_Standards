@@ -71,17 +71,17 @@ aliases:
 - 外交代表機構
 - 외교 공관
 has_id_wikidata: Q213283
-subclass_of: '[[_Standards/WikiData/WD~government_agency,327333]]'
+subclass_of: '[[_Standards/WikiData/WD~government_agency,327333|WD~government_agency,327333]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_diplomatic_mission,6623549]]'
-- '[[_Standards/WikiData/WD~Q25775529,25775529]]'
-field_of_work: '[[_Standards/WikiData/WD~bilateral_relation,15221623]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_International_relations,15304945]]'
-part_of: '[[_Standards/WikiData/WD~foreign_affairs_ministry,20901295]]'
-uses: '[[_Standards/WikiData/WD~embassy_building,131149704]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_diplomatic_mission,6623549|WD~Template_Infobox_diplomatic_mission,6623549]]'
+- '[[_Standards/WikiData/WD~Q25775529,25775529|WD~Q25775529,25775529]]'
+field_of_work: '[[_Standards/WikiData/WD~bilateral_relation,15221623|WD~bilateral_relation,15221623]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_International_relations,15304945|WD~WikiProject_International_relations,15304945]]'
+part_of: '[[_Standards/WikiData/WD~foreign_affairs_ministry,20901295|WD~foreign_affairs_ministry,20901295]]'
+uses: '[[_Standards/WikiData/WD~embassy_building,131149704|WD~embassy_building,131149704]]'
 Wikidata_property: diplomatic mission sent
 OmegaWiki_Defined_Meaning: 478064
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Canada%20House.jpg

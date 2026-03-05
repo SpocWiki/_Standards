@@ -1,11 +1,11 @@
 ---
 dv_has_:
   inverse: "[[has_employee]]"
-  employer: "[[../../../../Society/Agent/Community/Organization]]"
-  domain: "[[../../../../Society/Agent/Person]]"
+  employer: "[[../../../../Society/Agent/Community/Organization|Organization]]"
+  domain: "[[../../../../Society/Agent/Person|Person]]"
   name: has_employer
-  range: "[[../../../../Society/Agent/Community/Organization]]"
-dv_has_employer: "[[../../Class/is_a_/Organization]]"
+  range: "[[../../../../Society/Agent/Community/Organization|Organization]]"
+dv_has_employer: "[[../../Class/is_a_/Organization|Organization]]"
 dv_is_:
   same_as:
     - "[[has_employer|has_employer]]"
@@ -16,9 +16,9 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_employer.personal|has_employer.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_employer.secret|has_employer.secret]]"
     - "[[has_employer]]"
-dv_has_domain: "[[../../../../Society/Agent/Person]]"
+dv_has_domain: "[[../../../../Society/Agent/Person|Person]]"
 dv_has_name: has_employer
-dv_has_range: "[[../../../../Society/Agent/Community/Organization]]"
+dv_has_range: "[[../../../../Society/Agent/Community/Organization|Organization]]"
 dv_has_inverse: "[[has_employee]]"
 dv_is_same_as:
   - "[[has_employer]]"

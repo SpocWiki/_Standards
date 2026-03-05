@@ -46,18 +46,18 @@ aliases:
 - 十二音列技法
 - 十二音技法
 has_id_wikidata: Q221686
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Arnold_Schoenberg,154770]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Arnold_Schoenberg,154770|WD~Arnold_Schoenberg,154770]]'
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~compositional_technique,9356285]]'
-- '[[_Standards/WikiData/WD~dodecad,93465857]]'
-uses: '[[_Standards/WikiData/WD~tone_row,245258]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~compositional_technique,9356285|WD~compositional_technique,9356285]]'
+- '[[_Standards/WikiData/WD~dodecad,93465857|WD~dodecad,93465857]]'
+uses: '[[_Standards/WikiData/WD~tone_row,245258|WD~tone_row,245258]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~serialist_technique,4417620]]'
-- '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
-different_from: '[[_Standards/WikiData/WD~Dodekafonia,9208462]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12339532,12339532]]'
+- '[[_Standards/WikiData/WD~serialist_technique,4417620|WD~serialist_technique,4417620]]'
+- '[[_Standards/WikiData/WD~modern_classical_music,65937946|WD~modern_classical_music,65937946]]'
+different_from: '[[_Standards/WikiData/WD~Dodekafonia,9208462|WD~Dodekafonia,9208462]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12339532,12339532|WD~Q12339532,12339532]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/12tones-my%20example1.JPG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Zw%C3%B6lftontechnik.ogg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Passion%20and%20Choice.ogg

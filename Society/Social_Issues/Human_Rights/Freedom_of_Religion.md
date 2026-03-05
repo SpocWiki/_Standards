@@ -83,21 +83,21 @@ aliases:
 - 宗教自由
 - 종교의 자유
 has_id_wikidata: Q171899
-different_from: '[[_Standards/WikiData/WD~Freedom_From_Religion_Foundation,531069]]'
+different_from: '[[_Standards/WikiData/WD~Freedom_From_Religion_Foundation,531069|WD~Freedom_From_Religion_Foundation,531069]]'
 main_subject:
-- '[[_Standards/WikiData/WD~religious_identity,4392985]]'
-- '[[_Standards/WikiData/WD~liberty,2979]]'
+- '[[_Standards/WikiData/WD~religious_identity,4392985|WD~religious_identity,4392985]]'
+- '[[_Standards/WikiData/WD~liberty,2979|WD~liberty,2979]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-- '[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962|WD~WikiForHumanRights_2019,78499962]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~civil_rights,25447176]]'
-- '[[_Standards/WikiData/WD~civil_liberties,29556]]'
-foundational_text: '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813]]'
-facet_of: '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~civil_rights,25447176|WD~civil_rights,25447176]]'
+- '[[_Standards/WikiData/WD~civil_liberties,29556|WD~civil_liberties,29556]]'
+foundational_text: '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813|WD~Universal_Declaration_of_Human_Rights,7813]]'
+facet_of: '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
 U_S_National_Archives_Identifier: 10638099
 OmegaWiki_Defined_Meaning: 799073
 UMLS_CUI: C0680535

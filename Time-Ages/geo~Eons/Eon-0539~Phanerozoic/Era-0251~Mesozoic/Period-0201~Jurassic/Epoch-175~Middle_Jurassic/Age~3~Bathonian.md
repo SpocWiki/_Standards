@@ -26,16 +26,16 @@ aliases:
 - 바스절
 has_id_wikidata: Q791313
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_by: "[[_Standards/WikiData/WD~Jean_Baptiste_Julien_d'Omalius_d'Halloy,1323652]]"
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bathonian,21697523]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bathonian,134222940]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: "[[_Standards/WikiData/WD~Jean_Baptiste_Julien_d'Omalius_d'Halloy,1323652|WD~Jean_Baptiste_Julien_d'Omalius_d'Halloy,1323652]]"
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bathonian,21697523|WD~Category_Bathonian,21697523]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bathonian,134222940|WD~GSSP_for_the_base_of_the_Bathonian,134222940]]'
 coordinate_location: Point(6.3153 43.9606)
 end_time: -166100000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Bath,22889]]'
-country: '[[_Standards/WikiData/WD~France,142]]'
+named_after: '[[_Standards/WikiData/WD~Bath,22889|WD~Bath,22889]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 start_time: -168300000-01-01T00:00:00Z
 Commons_category: Bathonian
 sRGB_color_hex_triplet: 9CE2EF

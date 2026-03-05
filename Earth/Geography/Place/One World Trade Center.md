@@ -60,40 +60,40 @@ aliases:
 - 원 월드 트레이드 센터
 has_id_wikidata: Q11245
 architect:
-- '[[_Standards/WikiData/WD~Daniel_Libeskind,154538]]'
-- '[[_Standards/WikiData/WD~Skidmore,_Owings_&_Merrill,459464]]'
-- '[[_Standards/WikiData/WD~David_Childs,1173984]]'
-has_use: '[[_Standards/WikiData/WD~office,182060]]'
+- '[[_Standards/WikiData/WD~Daniel_Libeskind,154538|WD~Daniel_Libeskind,154538]]'
+- '[[_Standards/WikiData/WD~Skidmore,_Owings_&_Merrill,459464|WD~Skidmore,_Owings_&_Merrill,459464]]'
+- '[[_Standards/WikiData/WD~David_Childs,1173984|WD~David_Childs,1173984]]'
+has_use: '[[_Standards/WikiData/WD~office,182060|WD~office,182060]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
-- '[[_Standards/WikiData/WD~bulletproof_glass,1133376]]'
-- '[[_Standards/WikiData/WD~aluminium,663]]'
-- '[[_Standards/WikiData/WD~steel,11427]]'
+- '[[_Standards/WikiData/WD~reinforced_concrete,184190|WD~reinforced_concrete,184190]]'
+- '[[_Standards/WikiData/WD~bulletproof_glass,1133376|WD~bulletproof_glass,1133376]]'
+- '[[_Standards/WikiData/WD~aluminium,663|WD~aluminium,663]]'
+- '[[_Standards/WikiData/WD~steel,11427|WD~steel,11427]]'
 structural_engineer:
-- '[[_Standards/WikiData/WD~Schlaich_Bergermann_Partner,325302]]'
-- '[[_Standards/WikiData/WD~WSP_Global,1333162]]'
-significant_event: '[[_Standards/WikiData/WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~Schlaich_Bergermann_Partner,325302|WD~Schlaich_Bergermann_Partner,325302]]'
+- '[[_Standards/WikiData/WD~WSP_Global,1333162|WD~WSP_Global,1333162]]'
+significant_event: '[[_Standards/WikiData/WD~construction,385378|WD~construction,385378]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~office_building,1021645]]'
-- '[[_Standards/WikiData/WD~skyscraper,11303]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~office_building,1021645|WD~office_building,1021645]]'
+- '[[_Standards/WikiData/WD~skyscraper,11303|WD~skyscraper,11303]]'
 occupant:
-- '[[_Standards/WikiData/WD~Condé_Nast,605401]]'
-- '[[_Standards/WikiData/WD~The_Durst_Organization,5316774]]'
-located_on_street: '[[_Standards/WikiData/WD~Fulton_Street,685083]]'
-developer: '[[_Standards/WikiData/WD~Port_Authority_of_New_York_and_New_Jersey,908666]]'
+- '[[_Standards/WikiData/WD~Condé_Nast,605401|WD~Condé_Nast,605401]]'
+- '[[_Standards/WikiData/WD~The_Durst_Organization,5316774|WD~The_Durst_Organization,5316774]]'
+located_on_street: '[[_Standards/WikiData/WD~Fulton_Street,685083|WD~Fulton_Street,685083]]'
+developer: '[[_Standards/WikiData/WD~Port_Authority_of_New_York_and_New_Jersey,908666|WD~Port_Authority_of_New_York_and_New_Jersey,908666]]'
 owned_by:
-- '[[_Standards/WikiData/WD~Port_Authority_of_New_York_and_New_Jersey,908666]]'
-- '[[_Standards/WikiData/WD~The_Durst_Organization,5316774]]'
-shape: '[[_Standards/WikiData/WD~antiprism,1048057]]'
-main_building_contractor: '[[_Standards/WikiData/WD~Tishman_Realty_&_Construction,1542905]]'
-different_from: '[[_Standards/WikiData/WD~1_World_Trade_Center,20445370]]'
-part_of: '[[_Standards/WikiData/WD~World_Trade_Center,20861677]]'
-state_of_use: '[[_Standards/WikiData/WD~in_use,55654238]]'
-has_part_s_: '[[_Standards/WikiData/WD~One_World_Observatory,114617033]]'
+- '[[_Standards/WikiData/WD~Port_Authority_of_New_York_and_New_Jersey,908666|WD~Port_Authority_of_New_York_and_New_Jersey,908666]]'
+- '[[_Standards/WikiData/WD~The_Durst_Organization,5316774|WD~The_Durst_Organization,5316774]]'
+shape: '[[_Standards/WikiData/WD~antiprism,1048057|WD~antiprism,1048057]]'
+main_building_contractor: '[[_Standards/WikiData/WD~Tishman_Realty_&_Construction,1542905|WD~Tishman_Realty_&_Construction,1542905]]'
+different_from: '[[_Standards/WikiData/WD~1_World_Trade_Center,20445370|WD~1_World_Trade_Center,20445370]]'
+part_of: '[[_Standards/WikiData/WD~World_Trade_Center,20861677|WD~World_Trade_Center,20861677]]'
+state_of_use: '[[_Standards/WikiData/WD~in_use,55654238|WD~in_use,55654238]]'
+has_part_s_: '[[_Standards/WikiData/WD~One_World_Observatory,114617033|WD~One_World_Observatory,114617033]]'
 coordinate_location: Point(-74.0135 40.713)
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Manhattan,11299]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Manhattan,11299|WD~Manhattan,11299]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 capital_cost: 3800000000
 number_of_elevators: 73
 height: 541.3
@@ -206,7 +206,7 @@ dv_has_:
 
 # [[One World Trade Center]] 
 
-![[../../../assets/Pasted image 20250817151541.png]] 
+![[../../../assets/Pasted image 20250817151541.png|Pasted image 20250817151541.png]] 
 
 #is_/same_as :: [[WD~One_World_Trade_Center,11245]] 
 

@@ -197,7 +197,7 @@ has_id_wikidata: Q166546
 
 has_time_started = `=this.dv_has_time_started`
 
-The EFTA is a counterpart to the [[../EU(European_Union)]].
+The EFTA is a counterpart to the [[../EU(European_Union)|EU(European_Union)]].
 Its members in 2024 are `$=dv.current().has_member`. 
 
 

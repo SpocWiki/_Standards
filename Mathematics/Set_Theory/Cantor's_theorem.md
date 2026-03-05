@@ -39,13 +39,13 @@ aliases:
 - 康托爾定理
 - 칸토어의 정리
 has_id_wikidata: Q474881
-instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
-named_after: '[[_Standards/WikiData/WD~Georg_Cantor,76420]]'
-uses: "[[_Standards/WikiData/WD~Cantor's_diagonal_argument,729471]]"
-part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
-different_from: "[[_Standards/WikiData/WD~Cantor's_theorem,1195314]]"
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-studied_by: '[[_Standards/WikiData/WD~set_theory,12482]]'
+instance_of: '[[_Standards/WikiData/WD~theorem,65943|WD~theorem,65943]]'
+named_after: '[[_Standards/WikiData/WD~Georg_Cantor,76420|WD~Georg_Cantor,76420]]'
+uses: "[[_Standards/WikiData/WD~Cantor's_diagonal_argument,729471|WD~Cantor's_diagonal_argument,729471]]"
+part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443|WD~list_of_theorems,944443]]'
+different_from: "[[_Standards/WikiData/WD~Cantor's_theorem,1195314|WD~Cantor's_theorem,1195314]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+studied_by: '[[_Standards/WikiData/WD~set_theory,12482|WD~set_theory,12482]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0.webm
 Commons_category: Cantor's theorem
 dv_has_:

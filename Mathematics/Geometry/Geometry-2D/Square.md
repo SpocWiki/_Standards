@@ -104,39 +104,39 @@ aliases:
 - 정사각형
 has_id_wikidata: Q164
 subclass_of:
-- '[[_Standards/WikiData/WD~hypercube,213723]]'
-- '[[_Standards/WikiData/WD~constructible_polygon,268132]]'
-- '[[_Standards/WikiData/WD~cross_polytope,1187914]]'
-- '[[_Standards/WikiData/WD~right_kite,7333618]]'
-- '[[_Standards/WikiData/WD~regular_convex_polygon,97150652]]'
-- '[[_Standards/WikiData/WD~right_tangential_trapezoid,97292589]]'
-- '[[_Standards/WikiData/WD~bicentric_trapezoid,97292781]]'
-- '[[_Standards/WikiData/WD~midsquare_trapezoid,97321271]]'
-- '[[_Standards/WikiData/WD~equidiagonal_kite,97321363]]'
-- '[[_Standards/WikiData/WD~rectangle,209]]'
-- '[[_Standards/WikiData/WD~rhombus,41159]]'
+- '[[_Standards/WikiData/WD~hypercube,213723|WD~hypercube,213723]]'
+- '[[_Standards/WikiData/WD~constructible_polygon,268132|WD~constructible_polygon,268132]]'
+- '[[_Standards/WikiData/WD~cross_polytope,1187914|WD~cross_polytope,1187914]]'
+- '[[_Standards/WikiData/WD~right_kite,7333618|WD~right_kite,7333618]]'
+- '[[_Standards/WikiData/WD~regular_convex_polygon,97150652|WD~regular_convex_polygon,97150652]]'
+- '[[_Standards/WikiData/WD~right_tangential_trapezoid,97292589|WD~right_tangential_trapezoid,97292589]]'
+- '[[_Standards/WikiData/WD~bicentric_trapezoid,97292781|WD~bicentric_trapezoid,97292781]]'
+- '[[_Standards/WikiData/WD~midsquare_trapezoid,97321271|WD~midsquare_trapezoid,97321271]]'
+- '[[_Standards/WikiData/WD~equidiagonal_kite,97321363|WD~equidiagonal_kite,97321363]]'
+- '[[_Standards/WikiData/WD~rectangle,209|WD~rectangle,209]]'
+- '[[_Standards/WikiData/WD~rhombus,41159|WD~rhombus,41159]]'
 different_from:
-- '[[_Standards/WikiData/WD~Square,224155]]'
-- '[[_Standards/WikiData/WD~Quadrat,3412578]]'
+- '[[_Standards/WikiData/WD~Square,224155|WD~Square,224155]]'
+- '[[_Standards/WikiData/WD~Quadrat,3412578|WD~Quadrat,3412578]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~geometric_shape,815741]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q1936713,1936713]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~geometric_shape,815741|WD~geometric_shape,815741]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q1936713,1936713|WD~Q1936713,1936713]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~circumradius,3678113]]'
-- '[[_Standards/WikiData/WD~inradius,3799068]]'
-- '[[_Standards/WikiData/WD~area_of_plane_shape,15921574]]'
-- '[[_Standards/WikiData/WD~isoperimetric_ratio,25304343]]'
-- '[[_Standards/WikiData/WD~perimeter,28474]]'
+- '[[_Standards/WikiData/WD~circumradius,3678113|WD~circumradius,3678113]]'
+- '[[_Standards/WikiData/WD~inradius,3799068|WD~inradius,3799068]]'
+- '[[_Standards/WikiData/WD~area_of_plane_shape,15921574|WD~area_of_plane_shape,15921574]]'
+- '[[_Standards/WikiData/WD~isoperimetric_ratio,25304343|WD~isoperimetric_ratio,25304343]]'
+- '[[_Standards/WikiData/WD~perimeter,28474|WD~perimeter,28474]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-- '[[_Standards/WikiData/WD~WikiProject_Polyhedra,17146006]]'
-has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382]]'
-dual_to: '[[_Standards/WikiData/WD~square,164]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~WikiProject_Polyhedra,17146006|WD~WikiProject_Polyhedra,17146006]]'
+has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382|WD~edge,26382]]'
+dual_to: '[[_Standards/WikiData/WD~square,164|WD~square,164]]'
 OmegaWiki_Defined_Meaning: 347635
 Bowers_acronym: square
 Commons_category: Square (geometry)

@@ -62,14 +62,14 @@ aliases:
 - ꯒ꯭ꯔꯤꯛ ꯂꯣꯢꯅꯁꯤꯟꯂꯣꯟ
 - 그리스 문학
 has_id_wikidata: Q1089547
-subclass_of: '[[_Standards/WikiData/WD~Western_literature,116476]]'
+subclass_of: '[[_Standards/WikiData/WD~Western_literature,116476|WD~Western_literature,116476]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Greek_literature,15664705]]'
-instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Greek_literature,15664705|WD~Portal_Greek_literature,15664705]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/GRECHESKAYA_LITERATURA.html
 Commons_category: Greek literature
 dv_has_:

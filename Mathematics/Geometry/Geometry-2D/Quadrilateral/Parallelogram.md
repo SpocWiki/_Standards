@@ -74,21 +74,21 @@ aliases:
 - 平行四邊形
 - 평행사변형
 has_id_wikidata: Q45867
-different_from: '[[_Standards/WikiData/WD~antiparallelogram,581094]]'
+different_from: '[[_Standards/WikiData/WD~antiparallelogram,581094|WD~antiparallelogram,581094]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~parallelogon,7135025]]'
-- '[[_Standards/WikiData/WD~parallelotope,27678359]]'
-- '[[_Standards/WikiData/WD~zonogon,47008488]]'
-- '[[_Standards/WikiData/WD~Watt_quadrilateral,98098837]]'
-- '[[_Standards/WikiData/WD~bisect_diagonal_quadrilateral,130349161]]'
-- '[[_Standards/WikiData/WD~trapezoid,46303]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-has_characteristic: '[[_Standards/WikiData/WD~area_of_plane_shape,15921574]]'
-has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382]]'
-has_part_s_: '[[_Standards/WikiData/WD~vertex,26401]]'
+- '[[_Standards/WikiData/WD~parallelogon,7135025|WD~parallelogon,7135025]]'
+- '[[_Standards/WikiData/WD~parallelotope,27678359|WD~parallelotope,27678359]]'
+- '[[_Standards/WikiData/WD~zonogon,47008488|WD~zonogon,47008488]]'
+- '[[_Standards/WikiData/WD~Watt_quadrilateral,98098837|WD~Watt_quadrilateral,98098837]]'
+- '[[_Standards/WikiData/WD~bisect_diagonal_quadrilateral,130349161|WD~bisect_diagonal_quadrilateral,130349161]]'
+- '[[_Standards/WikiData/WD~trapezoid,46303|WD~trapezoid,46303]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+has_characteristic: '[[_Standards/WikiData/WD~area_of_plane_shape,15921574|WD~area_of_plane_shape,15921574]]'
+has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382|WD~edge,26382]]'
+has_part_s_: '[[_Standards/WikiData/WD~vertex,26401|WD~vertex,26401]]'
 Commons_category: Parallelograms
 OmegaWiki_Defined_Meaning: 390635
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%AD%E0%A5%81%E0%A4%9C%20%E0%A4%9A%E0%A5%8C%E0%A4%95%E0%A5%8B%E0%A4%A8.wav

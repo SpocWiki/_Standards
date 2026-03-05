@@ -66,14 +66,14 @@ aliases:
 - 두유
 has_id_wikidata: Q192199
 subclass_of:
-- '[[_Standards/WikiData/WD~commodity,317088]]'
-- '[[_Standards/WikiData/WD~plant_milk,2640574]]'
-- '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467]]'
-- '[[_Standards/WikiData/WD~soy_food,28836677]]'
+- '[[_Standards/WikiData/WD~commodity,317088|WD~commodity,317088]]'
+- '[[_Standards/WikiData/WD~plant_milk,2640574|WD~plant_milk,2640574]]'
+- '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467|WD~non_alcoholic_beverage,2647467]]'
+- '[[_Standards/WikiData/WD~soy_food,28836677|WD~soy_food,28836677]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~soy_bean,61503220]]'
-- '[[_Standards/WikiData/WD~water,283]]'
-country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
+- '[[_Standards/WikiData/WD~soy_bean,61503220|WD~soy_bean,61503220]]'
+- '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
+country_of_origin: '[[_Standards/WikiData/WD~China,29520|WD~China,29520]]'
 carbon_footprint:
 - 0.4
 - 0.98

@@ -68,18 +68,18 @@ aliases:
 - 铜管乐器
 - 금관악기
 has_id_wikidata: Q180744
-subclass_of: '[[_Standards/WikiData/WD~wind_instrument,173453]]'
-uses: '[[_Standards/WikiData/WD~embouchure,175234]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~mouthpiece,523753]]'
-instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
+subclass_of: '[[_Standards/WikiData/WD~wind_instrument,173453|WD~wind_instrument,173453]]'
+uses: '[[_Standards/WikiData/WD~embouchure,175234|WD~embouchure,175234]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~mouthpiece,523753|WD~mouthpiece,523753]]'
+instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773|WD~family_of_musical_instruments,1254773]]'
 used_by:
-- '[[_Standards/WikiData/WD~brass_band,3244156]]'
-- '[[_Standards/WikiData/WD~brass_player,25829748]]'
-practiced_by: '[[_Standards/WikiData/WD~brass_player,25829748]]'
+- '[[_Standards/WikiData/WD~brass_band,3244156|WD~brass_band,3244156]]'
+- '[[_Standards/WikiData/WD~brass_player,25829748|WD~brass_player,25829748]]'
+practiced_by: '[[_Standards/WikiData/WD~brass_player,25829748|WD~brass_player,25829748]]'
 part_of:
-- "[[_Standards/WikiData/WD~MIMO's_classification_of_musical_instrument,26836418]]"
-- "[[_Standards/WikiData/WD~Guizzi's_classification_of_musical_instruments,53424891]]"
-made_from_material: '[[_Standards/WikiData/WD~brass,39782]]'
+- "[[_Standards/WikiData/WD~MIMO's_classification_of_musical_instrument,26836418|WD~MIMO's_classification_of_musical_instrument,26836418]]"
+- "[[_Standards/WikiData/WD~Guizzi's_classification_of_musical_instruments,53424891|WD~Guizzi's_classification_of_musical_instruments,53424891]]"
+made_from_material: '[[_Standards/WikiData/WD~brass,39782|WD~brass,39782]]'
 Hornbostel_Sachs_classification: 423
 Nomenclature_for_Museum_Cataloging: 10656
 OmegaWiki_Defined_Meaning: 1606699

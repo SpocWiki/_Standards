@@ -54,16 +54,16 @@ aliases:
 - 表面活性劑
 - 계면활성제
 has_id_wikidata: Q191154
-subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529|WD~chemical_substance,79529]]'
 part_of:
-- '[[_Standards/WikiData/WD~cosmetics,131207]]'
-- '[[_Standards/WikiData/WD~paint,174219]]'
-- '[[../../../../WikiData/WD~detergent,334637]]'
-- '[[_Standards/WikiData/WD~laundry_detergent,910284]]'
-- '[[_Standards/WikiData/WD~fire_extinguishing_agent,1879770]]'
-has_use: '[[_Standards/WikiData/WD~reduction,47496130]]'
-instance_of: '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~cosmetics,131207|WD~cosmetics,131207]]'
+- '[[_Standards/WikiData/WD~paint,174219|WD~paint,174219]]'
+- '[[../../../../WikiData/WD~detergent,334637|WD~detergent,334637]]'
+- '[[_Standards/WikiData/WD~laundry_detergent,910284|WD~laundry_detergent,910284]]'
+- '[[_Standards/WikiData/WD~fire_extinguishing_agent,1879770|WD~fire_extinguishing_agent,1879770]]'
+has_use: '[[_Standards/WikiData/WD~reduction,47496130|WD~reduction,47496130]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640|WD~class_of_chemical_substances_by_use,100434640]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 UNSPSC_Code: 12161900
 Dewey_Decimal_Classification: 668.1
 image:

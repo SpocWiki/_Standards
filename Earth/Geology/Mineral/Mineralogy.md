@@ -57,29 +57,29 @@ aliases:
 - 광물학
 has_id_wikidata: Q83353
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_geology,87058424]]'
-history_of_topic: '[[_Standards/WikiData/WD~hіstory_of_mineralogy,3137256]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Rocks_and_minerals,10994229]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Minerals,11110270]]'
-practiced_by: '[[_Standards/WikiData/WD~mineralogist,13416354]]'
-subclass_of: '[[_Standards/WikiData/WD~geology,1069]]'
-is_the_study_of: '[[_Standards/WikiData/WD~mineral,7946]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_geology,87058424|WD~branch_of_geology,87058424]]'
+history_of_topic: '[[_Standards/WikiData/WD~hіstory_of_mineralogy,3137256|WD~hіstory_of_mineralogy,3137256]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Rocks_and_minerals,10994229|WD~WikiProject_Rocks_and_minerals,10994229]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Minerals,11110270|WD~Portal_Minerals,11110270]]'
+practiced_by: '[[_Standards/WikiData/WD~mineralogist,13416354|WD~mineralogist,13416354]]'
+subclass_of: '[[_Standards/WikiData/WD~geology,1069|WD~geology,1069]]'
+is_the_study_of: '[[_Standards/WikiData/WD~mineral,7946|WD~mineral,7946]]'
 Dewey_Decimal_Classification: 549
 OmegaWiki_Defined_Meaning: 2367
 Colon_Classification: H1
@@ -93,7 +93,7 @@ Wolfram_Language_entity_code: Entity"Concept", "Mineralogy = `=this.dv_"Concept"
 dv_"Concept", "Mineralogy: b2z9r"
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Mineralogy,83353]]'
+  - '[[../../../WikiData/WD~Mineralogy,83353|WD~Mineralogy,83353]]'
   - '[[/_Standards/Earth/Geology/Mineral/Mineralogy|Mineralogy]]'
   - '[[/_public/Earth/Geology/Mineral/Mineralogy.public|Mineralogy.public]]'
   - '[[/_internal/Earth/Geology/Mineral/Mineralogy.internal|Mineralogy.internal]]'
@@ -103,7 +103,7 @@ dv_is_:
   - '[[/_secret/Earth/Geology/Mineral/Mineralogy.secret|Mineralogy.secret]]'
 dv_concept-mineralogy: b2z9r"
 dv_is_same_as:
-- '[[../../../WikiData/WD~Mineralogy,83353]]'
+- '[[../../../WikiData/WD~Mineralogy,83353|WD~Mineralogy,83353]]'
 - '[[/_Standards/Earth/Geology/Mineral/Mineralogy|Mineralogy]]'
 - '[[/_public/Earth/Geology/Mineral/Mineralogy.public|Mineralogy.public]]'
 - '[[/_internal/Earth/Geology/Mineral/Mineralogy.internal|Mineralogy.internal]]'

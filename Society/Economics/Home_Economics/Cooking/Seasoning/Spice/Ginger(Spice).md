@@ -73,15 +73,15 @@ aliases:
 - 생강
 has_id_wikidata: Q15046077
 subclass_of:
-- '[[_Standards/WikiData/WD~rhizome,184208]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
-- '[[_Standards/WikiData/WD~root_vegetable,20136]]'
-- '[[_Standards/WikiData/WD~spice,42527]]'
+- '[[_Standards/WikiData/WD~rhizome,184208|WD~rhizome,184208]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+- '[[_Standards/WikiData/WD~root_vegetable,20136|WD~root_vegetable,20136]]'
+- '[[_Standards/WikiData/WD~spice,42527|WD~spice,42527]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Ginger,35625]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Ginger,35625|WD~Ginger,35625]]'
 PLU_code:
 - 4612
 - 4613

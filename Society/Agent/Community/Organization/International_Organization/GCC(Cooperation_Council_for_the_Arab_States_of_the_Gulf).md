@@ -76,25 +76,25 @@ aliases:
 - 페르샤만협조리사회
 has_id_wikidata: Q217172
 instance_of:
-- '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-- '[[_Standards/WikiData/WD~trade_bloc,1129645]]'
-- '[[_Standards/WikiData/WD~international_cooperation,9378718]]'
+- '[[_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
+- '[[_Standards/WikiData/WD~trade_bloc,1129645|WD~trade_bloc,1129645]]'
+- '[[_Standards/WikiData/WD~international_cooperation,9378718|WD~international_cooperation,9378718]]'
 member_of:
-- '[[_Standards/WikiData/WD~ITU_Radiocommunication_Sector,376047]]'
-- '[[_Standards/WikiData/WD~ITU_Telecommunication_Standardization_Sector,4007363]]'
-- '[[_Standards/WikiData/WD~ITU_Telecommunication_Development_Sector,15846374]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_GCC,8084589]]'
-child_organization_unit: '[[_Standards/WikiData/WD~GCC_STAT,55683445]]'
+- '[[_Standards/WikiData/WD~ITU_Radiocommunication_Sector,376047|WD~ITU_Radiocommunication_Sector,376047]]'
+- '[[_Standards/WikiData/WD~ITU_Telecommunication_Standardization_Sector,4007363|WD~ITU_Telecommunication_Standardization_Sector,4007363]]'
+- '[[_Standards/WikiData/WD~ITU_Telecommunication_Development_Sector,15846374|WD~ITU_Telecommunication_Development_Sector,15846374]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_GCC,8084589|WD~Template_GCC,8084589]]'
+child_organization_unit: '[[_Standards/WikiData/WD~GCC_STAT,55683445|WD~GCC_STAT,55683445]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Bahrain,398]]'
-- '[[_Standards/WikiData/WD~Kuwait,817]]'
-- '[[_Standards/WikiData/WD~Oman,842]]'
-- '[[_Standards/WikiData/WD~Qatar,846]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
-- '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Riyadh,3692]]'
-official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
-official_observer_status_in_organisation: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+- '[[_Standards/WikiData/WD~Bahrain,398|WD~Bahrain,398]]'
+- '[[_Standards/WikiData/WD~Kuwait,817|WD~Kuwait,817]]'
+- '[[_Standards/WikiData/WD~Oman,842|WD~Oman,842]]'
+- '[[_Standards/WikiData/WD~Qatar,846|WD~Qatar,846]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Riyadh,3692|WD~Riyadh,3692]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
+official_observer_status_in_organisation: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
 social_media_followers: 113954
 Commons_category: Cooperation Council for the Arab States of the Gulf
 short_name:

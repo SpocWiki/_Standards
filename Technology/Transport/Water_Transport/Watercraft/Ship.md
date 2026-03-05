@@ -146,35 +146,35 @@ EAGLE_id: objtyp/lod/409
 Commons_gallery: Ship
 Wolfram_Language_entity_type: Ship
 different_from:
-- '[[_Standards/WikiData/WD~Ship,354007]]'
-- '[[_Standards/WikiData/WD~boat,35872]]'
+- '[[_Standards/WikiData/WD~Ship,354007|WD~Ship,354007]]'
+- '[[_Standards/WikiData/WD~boat,35872|WD~boat,35872]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~bridge,846929]]'
-- '[[_Standards/WikiData/WD~hull,6750281]]'
-- '[[_Standards/WikiData/WD~ship_element,15688633]]'
+- '[[_Standards/WikiData/WD~bridge,846929|WD~bridge,846929]]'
+- '[[_Standards/WikiData/WD~hull,6750281|WD~hull,6750281]]'
+- '[[_Standards/WikiData/WD~ship_element,15688633|WD~ship_element,15688633]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~watercraft,1229765]]'
-- '[[_Standards/WikiData/WD~vessel,16391167]]'
-- '[[_Standards/WikiData/WD~transport_vehicle,20980497]]'
-has_characteristic: '[[_Standards/WikiData/WD~ship_type,2235308]]'
+- '[[_Standards/WikiData/WD~watercraft,1229765|WD~watercraft,1229765]]'
+- '[[_Standards/WikiData/WD~vessel,16391167|WD~vessel,16391167]]'
+- '[[_Standards/WikiData/WD~transport_vehicle,20980497|WD~transport_vehicle,20980497]]'
+has_characteristic: '[[_Standards/WikiData/WD~ship_type,2235308|WD~ship_type,2235308]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_civil_ship,10562008]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_ship,14407125]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Ships,10782171]]'
-instance_of: '[[_Standards/WikiData/WD~watercraft_type,16335899]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_civil_ship,10562008|WD~Template_Infobox_civil_ship,10562008]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_ship,14407125|WD~Template_Infobox_ship,14407125]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Ships,10782171|WD~WikiProject_Ships,10782171]]'
+instance_of: '[[_Standards/WikiData/WD~watercraft_type,16335899|WD~watercraft_type,16335899]]'
 properties_for_this_type:
 - vessel class
 - IMO ship number
@@ -200,7 +200,7 @@ properties_for_this_type:
 - owned by
 - operator
 - manufacturer
-has_use: '[[_Standards/WikiData/WD~transport,7590]]'
+has_use: '[[_Standards/WikiData/WD~transport,7590|WD~transport,7590]]'
 Nomenclature_for_Museum_Cataloging: 12684
 OmegaWiki_Defined_Meaning: 3403
 U_S_National_Archives_Identifier: 10644067

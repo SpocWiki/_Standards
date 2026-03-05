@@ -62,21 +62,21 @@ aliases:
 - 삽화
 has_id_wikidata: Q178659
 used_by:
-- '[[_Standards/WikiData/WD~picture_book,254554]]'
-- '[[_Standards/WikiData/WD~illustrated_book,115161669]]'
+- '[[_Standards/WikiData/WD~picture_book,254554|WD~picture_book,254554]]'
+- '[[_Standards/WikiData/WD~illustrated_book,115161669|WD~illustrated_book,115161669]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~image,478798]]'
-- '[[_Standards/WikiData/WD~visual_artwork,4502142]]'
+- '[[_Standards/WikiData/WD~image,478798|WD~image,478798]]'
+- '[[_Standards/WikiData/WD~visual_artwork,4502142|WD~visual_artwork,4502142]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-practiced_by: '[[_Standards/WikiData/WD~illustrator,644687]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+practiced_by: '[[_Standards/WikiData/WD~illustrator,644687|WD~illustrator,644687]]'
 different_from:
-- '[[_Standards/WikiData/WD~book_illustration,998555]]'
-- '[[_Standards/WikiData/WD~illustration,21550668]]'
-genre: '[[_Standards/WikiData/WD~illustrative_arts,106781797]]'
+- '[[_Standards/WikiData/WD~book_illustration,998555|WD~book_illustration,998555]]'
+- '[[_Standards/WikiData/WD~illustration,21550668|WD~illustration,21550668]]'
+genre: '[[_Standards/WikiData/WD~illustrative_arts,106781797|WD~illustrative_arts,106781797]]'
 Wikidata_property:
 - illustrative content
 - image

@@ -84,22 +84,22 @@ aliases:
 - 魔術方塊
 - 루빅스 큐브
 has_id_wikidata: Q47043
-developer: '[[_Standards/WikiData/WD~Ernő_Rubik,186089]]'
-named_after: '[[_Standards/WikiData/WD~Ernő_Rubik,186089]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Ernő_Rubik,186089]]'
+developer: '[[_Standards/WikiData/WD~Ernő_Rubik,186089|WD~Ernő_Rubik,186089]]'
+named_after: '[[_Standards/WikiData/WD~Ernő_Rubik,186089|WD~Ernő_Rubik,186089]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Ernő_Rubik,186089|WD~Ernő_Rubik,186089]]'
 instance_of:
-- '[[_Standards/WikiData/WD~brand,431289]]'
-- '[[_Standards/WikiData/WD~abstract_strategy_game,573573]]'
-- '[[_Standards/WikiData/WD~product_model,10929058]]'
-shape: '[[_Standards/WikiData/WD~cube,812880]]'
+- '[[_Standards/WikiData/WD~brand,431289|WD~brand,431289]]'
+- '[[_Standards/WikiData/WD~abstract_strategy_game,573573|WD~abstract_strategy_game,573573]]'
+- '[[_Standards/WikiData/WD~product_model,10929058|WD~product_model,10929058]]'
+shape: '[[_Standards/WikiData/WD~cube,812880|WD~cube,812880]]'
 publisher:
-- '[[_Standards/WikiData/WD~Ideal_Toy_Company,3293839]]'
-- '[[_Standards/WikiData/WD~Spin_Master,7577375]]'
-subclass_of: '[[_Standards/WikiData/WD~combination_puzzle,5150814]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-award_received: '[[_Standards/WikiData/WD~Q44505344,44505344]]'
-different_from: '[[_Standards/WikiData/WD~3x3x3_Cube,107056266]]'
-country: '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Ideal_Toy_Company,3293839|WD~Ideal_Toy_Company,3293839]]'
+- '[[_Standards/WikiData/WD~Spin_Master,7577375|WD~Spin_Master,7577375]]'
+subclass_of: '[[_Standards/WikiData/WD~combination_puzzle,5150814|WD~combination_puzzle,5150814]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+award_received: '[[_Standards/WikiData/WD~Q44505344,44505344|WD~Q44505344,44505344]]'
+different_from: '[[_Standards/WikiData/WD~3x3x3_Cube,107056266|WD~3x3x3_Cube,107056266]]'
+country: '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
 maximum_number_of_players: 1
 minimum_number_of_players: 1
 social_media_followers: 27930

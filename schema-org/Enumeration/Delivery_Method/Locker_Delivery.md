@@ -27,9 +27,9 @@ tags:
 title: is_a_locker_delivery Class
 type: Type
 dv_has_:
-  parent_class: "[[../DeliveryMethod]]"
+  parent_class: "[[../DeliveryMethod|DeliveryMethod]]"
 dv_is_:
-  enum_of: "[[../DeliveryMethod]]"
+  enum_of: "[[../DeliveryMethod|DeliveryMethod]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Delivery_Method/Locker_Delivery|Locker_Delivery]]"
     - "[[/_public/schema-org/Enumeration/Delivery_Method/Locker_Delivery.public|Locker_Delivery.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Delivery_Method/Locker_Delivery.personal|Locker_Delivery.personal]]"
     - "[[/_secret/schema-org/Enumeration/Delivery_Method/Locker_Delivery.secret|Locker_Delivery.secret]]"
     - "[[Locker_Delivery]]"
-dv_has_parent_class: "[[../DeliveryMethod]]"
-dv_is_enum_of: "[[../DeliveryMethod]]"
+dv_has_parent_class: "[[../DeliveryMethod|DeliveryMethod]]"
+dv_is_enum_of: "[[../DeliveryMethod|DeliveryMethod]]"
 dv_is_same_as:
   - "[[Locker_Delivery]]"
   - "[[/_public/schema-org/Enumeration/Delivery_Method/Locker_Delivery.public|Locker_Delivery.public]]"

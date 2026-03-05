@@ -65,13 +65,13 @@ aliases:
 - 성전 (장소)
 has_id_wikidata: Q697295
 subclass_of:
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~religious_building,24398318]]'
-- '[[_Standards/WikiData/WD~religious_site,105889895]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~religious_building,24398318|WD~religious_building,24398318]]'
+- '[[_Standards/WikiData/WD~religious_site,105889895|WD~religious_site,105889895]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-different_from: '[[_Standards/WikiData/WD~Q26387160,26387160]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~Q26387160,26387160|WD~Q26387160,26387160]]'
 Nomenclature_for_Museum_Cataloging: 593
 Commons_category: Shrines
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Siangadhfort%20NarvirTanajiSamadhi%20ShomdevPal.JPG

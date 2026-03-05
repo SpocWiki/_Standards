@@ -117,24 +117,24 @@ aliases:
 - 실재
 has_id_wikidata: Q9510
 Commons_category: Reality
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 different_from:
-- '[[_Standards/WikiData/WD~Reality,451273]]'
-- '[[_Standards/WikiData/WD~Skutočnosť,12776143]]'
+- '[[_Standards/WikiData/WD~Reality,451273|WD~Reality,451273]]'
+- '[[_Standards/WikiData/WD~Skutočnosť,12776143|WD~Skutočnosť,12776143]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~existence,468777]]'
-- '[[_Standards/WikiData/WD~actuality,1365054]]'
+- '[[_Standards/WikiData/WD~existence,468777|WD~existence,468777]]'
+- '[[_Standards/WikiData/WD~actuality,1365054|WD~actuality,1365054]]'
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~psychology_concept,96634632|WD~psychology_concept,96634632]]'
 OmegaWiki_Defined_Meaning: 753828
-opposite_of: '[[_Standards/WikiData/WD~subjective_reality,4445091]]'
+opposite_of: '[[_Standards/WikiData/WD~subjective_reality,4445091|WD~subjective_reality,4445091]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~actuality,1365054]]'
-- '[[_Standards/WikiData/WD~everything,2165236]]'
+- '[[_Standards/WikiData/WD~actuality,1365054|WD~actuality,1365054]]'
+- '[[_Standards/WikiData/WD~everything,2165236|WD~everything,2165236]]'
 studied_in:
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-- '[[_Standards/WikiData/WD~ontology,44325]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~ontology,44325|WD~ontology,44325]]'
 dv_has_:
   name_:
     af: werklikheid

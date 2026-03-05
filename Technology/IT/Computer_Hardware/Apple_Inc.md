@@ -63,135 +63,135 @@ aliases:
 - "\U00010330\U00010339\U00010340\U00010340\U00010334\U0001033B"
 has_id_wikidata: Q312
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~Mac,75687]]'
-- '[[_Standards/WikiData/WD~tablet_computer,155972]]'
-- '[[_Standards/WikiData/WD~personal_digital_assistant,162768]]'
-- '[[_Standards/WikiData/WD~peripheral,178648]]'
-- '[[_Standards/WikiData/WD~Apple_TV,270285]]'
-- '[[_Standards/WikiData/WD~consumer_electronics,581105]]'
-- '[[_Standards/WikiData/WD~wearable_computer,1334829]]'
-- '[[_Standards/WikiData/WD~networking_hardware,1546066]]'
-- '[[_Standards/WikiData/WD~Apple_Watch,18010946]]'
-- '[[_Standards/WikiData/WD~Apple_Pay,18010990]]'
-- '[[_Standards/WikiData/WD~AirPods,26936286]]'
-- '[[_Standards/WikiData/WD~HomePod,30137500]]'
-- '[[_Standards/WikiData/WD~Q2766,2766]]'
-- '[[_Standards/WikiData/WD~Q2796,2796]]'
-- '[[_Standards/WikiData/WD~computer_hardware,3966]]'
-- '[[_Standards/WikiData/WD~software,7397]]'
-- '[[_Standards/WikiData/WD~IPod,9479]]'
-- '[[_Standards/WikiData/WD~iMac,14091]]'
-- '[[_Standards/WikiData/WD~iPod_touch,14094]]'
-- '[[_Standards/WikiData/WD~personal_computer,16338]]'
-- '[[_Standards/WikiData/WD~smartphone,22645]]'
+- '[[_Standards/WikiData/WD~Mac,75687|WD~Mac,75687]]'
+- '[[_Standards/WikiData/WD~tablet_computer,155972|WD~tablet_computer,155972]]'
+- '[[_Standards/WikiData/WD~personal_digital_assistant,162768|WD~personal_digital_assistant,162768]]'
+- '[[_Standards/WikiData/WD~peripheral,178648|WD~peripheral,178648]]'
+- '[[_Standards/WikiData/WD~Apple_TV,270285|WD~Apple_TV,270285]]'
+- '[[_Standards/WikiData/WD~consumer_electronics,581105|WD~consumer_electronics,581105]]'
+- '[[_Standards/WikiData/WD~wearable_computer,1334829|WD~wearable_computer,1334829]]'
+- '[[_Standards/WikiData/WD~networking_hardware,1546066|WD~networking_hardware,1546066]]'
+- '[[_Standards/WikiData/WD~Apple_Watch,18010946|WD~Apple_Watch,18010946]]'
+- '[[_Standards/WikiData/WD~Apple_Pay,18010990|WD~Apple_Pay,18010990]]'
+- '[[_Standards/WikiData/WD~AirPods,26936286|WD~AirPods,26936286]]'
+- '[[_Standards/WikiData/WD~HomePod,30137500|WD~HomePod,30137500]]'
+- '[[_Standards/WikiData/WD~Q2766,2766|WD~Q2766,2766]]'
+- '[[_Standards/WikiData/WD~Q2796,2796|WD~Q2796,2796]]'
+- '[[_Standards/WikiData/WD~computer_hardware,3966|WD~computer_hardware,3966]]'
+- '[[_Standards/WikiData/WD~software,7397|WD~software,7397]]'
+- '[[_Standards/WikiData/WD~IPod,9479|WD~IPod,9479]]'
+- '[[_Standards/WikiData/WD~iMac,14091|WD~iMac,14091]]'
+- '[[_Standards/WikiData/WD~iPod_touch,14094|WD~iPod_touch,14094]]'
+- '[[_Standards/WikiData/WD~personal_computer,16338|WD~personal_computer,16338]]'
+- '[[_Standards/WikiData/WD~smartphone,22645|WD~smartphone,22645]]'
 stock_exchange:
-- '[[_Standards/WikiData/WD~Nasdaq,82059]]'
-- '[[_Standards/WikiData/WD~Tokyo_Stock_Exchange,217475]]'
+- '[[_Standards/WikiData/WD~Nasdaq,82059|WD~Nasdaq,82059]]'
+- '[[_Standards/WikiData/WD~Tokyo_Stock_Exchange,217475|WD~Tokyo_Stock_Exchange,217475]]'
 instance_of:
-- '[[_Standards/WikiData/WD~corporation,167037]]'
-- '[[_Standards/WikiData/WD~public_company,891723]]'
-- '[[_Standards/WikiData/WD~computer_manufacturer,1055701]]'
-- '[[_Standards/WikiData/WD~business,4830453]]'
-- '[[_Standards/WikiData/WD~enterprise,6881511]]'
-- '[[_Standards/WikiData/WD~technology_company,18388277]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~corporation,167037|WD~corporation,167037]]'
+- '[[_Standards/WikiData/WD~public_company,891723|WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~computer_manufacturer,1055701|WD~computer_manufacturer,1055701]]'
+- '[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~enterprise,6881511|WD~enterprise,6881511]]'
+- '[[_Standards/WikiData/WD~technology_company,18388277|WD~technology_company,18388277]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 part_of:
-- '[[_Standards/WikiData/WD~Dow_Jones_Industrial_Average,180816]]'
-- '[[_Standards/WikiData/WD~S&P_500,242345]]'
-- '[[_Standards/WikiData/WD~Nasdaq_100,507306]]'
-- '[[_Standards/WikiData/WD~Dow_Jones_Global_Titans_50,773026]]'
-- '[[_Standards/WikiData/WD~S&P_100,1546793]]'
-- '[[_Standards/WikiData/WD~Big_Tech_(web),30748112]]'
-- '[[_Standards/WikiData/WD~Silicon_Six,133989581]]'
+- '[[_Standards/WikiData/WD~Dow_Jones_Industrial_Average,180816|WD~Dow_Jones_Industrial_Average,180816]]'
+- '[[_Standards/WikiData/WD~S&P_500,242345|WD~S&P_500,242345]]'
+- '[[_Standards/WikiData/WD~Nasdaq_100,507306|WD~Nasdaq_100,507306]]'
+- '[[_Standards/WikiData/WD~Dow_Jones_Global_Titans_50,773026|WD~Dow_Jones_Global_Titans_50,773026]]'
+- '[[_Standards/WikiData/WD~S&P_100,1546793|WD~S&P_100,1546793]]'
+- '[[_Standards/WikiData/WD~Big_Tech_(web),30748112|WD~Big_Tech_(web),30748112]]'
+- '[[_Standards/WikiData/WD~Silicon_Six,133989581|WD~Silicon_Six,133989581]]'
 has_works_in_the_collection:
-- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-- '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]'
-- '[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]'
-- '[[_Standards/WikiData/WD~Design_Museum_Gent,1809071]]'
-- '[[_Standards/WikiData/WD~Museum_of_Industry,2245203]]'
-headquarters_location: '[[_Standards/WikiData/WD~Cupertino,189471]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740|WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527|WD~Museum_Boijmans_Van_Beuningen,679527]]'
+- '[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672|WD~San_Francisco_Museum_of_Modern_Art,913672]]'
+- '[[_Standards/WikiData/WD~Design_Museum_Gent,1809071|WD~Design_Museum_Gent,1809071]]'
+- '[[_Standards/WikiData/WD~Museum_of_Industry,2245203|WD~Museum_of_Industry,2245203]]'
+headquarters_location: '[[_Standards/WikiData/WD~Cupertino,189471|WD~Cupertino,189471]]'
 member_of:
-- '[[_Standards/WikiData/WD~Zentralverband_Elektrotechnik_und_Elektronikindustrie,190835]]'
-- '[[_Standards/WikiData/WD~American_Chamber_of_Commerce_in_Germany,463681]]'
-- '[[_Standards/WikiData/WD~Atlantik_Brücke,756504]]'
-- '[[_Standards/WikiData/WD~bitkom,1008895]]'
-- '[[_Standards/WikiData/WD~Initiative_D21,1663561]]'
-- '[[_Standards/WikiData/WD~Computer_&_Communications_Industry_Association,3685364]]'
-- '[[_Standards/WikiData/WD~Grüner_Wirtschaftsdialog_e._V.,85620700]]'
-- '[[_Standards/WikiData/WD~Wirtschaftsforum_der_SPD,111164948]]'
-- '[[_Standards/WikiData/WD~Q131845607,131845607]]'
-- '[[_Standards/WikiData/WD~Q131883651,131883651]]'
-- '[[_Standards/WikiData/WD~Q131884160,131884160]]'
+- '[[_Standards/WikiData/WD~Zentralverband_Elektrotechnik_und_Elektronikindustrie,190835|WD~Zentralverband_Elektrotechnik_und_Elektronikindustrie,190835]]'
+- '[[_Standards/WikiData/WD~American_Chamber_of_Commerce_in_Germany,463681|WD~American_Chamber_of_Commerce_in_Germany,463681]]'
+- '[[_Standards/WikiData/WD~Atlantik_Brücke,756504|WD~Atlantik_Brücke,756504]]'
+- '[[_Standards/WikiData/WD~bitkom,1008895|WD~bitkom,1008895]]'
+- '[[_Standards/WikiData/WD~Initiative_D21,1663561|WD~Initiative_D21,1663561]]'
+- '[[_Standards/WikiData/WD~Computer_&_Communications_Industry_Association,3685364|WD~Computer_&_Communications_Industry_Association,3685364]]'
+- '[[_Standards/WikiData/WD~Grüner_Wirtschaftsdialog_e._V.,85620700|WD~Grüner_Wirtschaftsdialog_e._V.,85620700]]'
+- '[[_Standards/WikiData/WD~Wirtschaftsforum_der_SPD,111164948|WD~Wirtschaftsforum_der_SPD,111164948]]'
+- '[[_Standards/WikiData/WD~Q131845607,131845607|WD~Q131845607,131845607]]'
+- '[[_Standards/WikiData/WD~Q131883651,131883651|WD~Q131883651,131883651]]'
+- '[[_Standards/WikiData/WD~Q131884160,131884160|WD~Q131884160,131884160]]'
 owned_by:
-- '[[_Standards/WikiData/WD~Berkshire_Hathaway,217583]]'
-- '[[_Standards/WikiData/WD~BlackRock,219635]]'
-- '[[_Standards/WikiData/WD~The_Vanguard_Group,849363]]'
-- '[[_Standards/WikiData/WD~State_Street_Global_Advisors,7603552]]'
-chief_executive_officer: '[[_Standards/WikiData/WD~Tim_Cook,265852]]'
+- '[[_Standards/WikiData/WD~Berkshire_Hathaway,217583|WD~Berkshire_Hathaway,217583]]'
+- '[[_Standards/WikiData/WD~BlackRock,219635|WD~BlackRock,219635]]'
+- '[[_Standards/WikiData/WD~The_Vanguard_Group,849363|WD~The_Vanguard_Group,849363]]'
+- '[[_Standards/WikiData/WD~State_Street_Global_Advisors,7603552|WD~State_Street_Global_Advisors,7603552]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Tim_Cook,265852|WD~Tim_Cook,265852]]'
 industry:
-- '[[_Standards/WikiData/WD~digital_distribution,269415]]'
-- '[[_Standards/WikiData/WD~software_development,638608]]'
-- '[[_Standards/WikiData/WD~software_industry,880371]]'
-- '[[_Standards/WikiData/WD~mobile_phone_industry,56598901]]'
-- '[[_Standards/WikiData/WD~consumer_electronics_industry,73768396]]'
-- '[[_Standards/WikiData/WD~electronics,11650]]'
-- '[[_Standards/WikiData/WD~information_technology,11661]]'
+- '[[_Standards/WikiData/WD~digital_distribution,269415|WD~digital_distribution,269415]]'
+- '[[_Standards/WikiData/WD~software_development,638608|WD~software_development,638608]]'
+- '[[_Standards/WikiData/WD~software_industry,880371|WD~software_industry,880371]]'
+- '[[_Standards/WikiData/WD~mobile_phone_industry,56598901|WD~mobile_phone_industry,56598901]]'
+- '[[_Standards/WikiData/WD~consumer_electronics_industry,73768396|WD~consumer_electronics_industry,73768396]]'
+- '[[_Standards/WikiData/WD~electronics,11650|WD~electronics,11650]]'
+- '[[_Standards/WikiData/WD~information_technology,11661|WD~information_technology,11661]]'
 board_member:
-- '[[_Standards/WikiData/WD~Andrea_Jung,271117]]'
-- '[[_Standards/WikiData/WD~Bob_Iger,532423]]'
-- '[[_Standards/WikiData/WD~Arthur_D._Levinson,709063]]'
-- '[[_Standards/WikiData/WD~James_A._Bell,6128032]]'
-- '[[_Standards/WikiData/WD~Ronald_Sugar,7365310]]'
-- '[[_Standards/WikiData/WD~Susan_Wagner,17388808]]'
-- '[[_Standards/WikiData/WD~Al_Gore,19673]]'
+- '[[_Standards/WikiData/WD~Andrea_Jung,271117|WD~Andrea_Jung,271117]]'
+- '[[_Standards/WikiData/WD~Bob_Iger,532423|WD~Bob_Iger,532423]]'
+- '[[_Standards/WikiData/WD~Arthur_D._Levinson,709063|WD~Arthur_D._Levinson,709063]]'
+- '[[_Standards/WikiData/WD~James_A._Bell,6128032|WD~James_A._Bell,6128032]]'
+- '[[_Standards/WikiData/WD~Ronald_Sugar,7365310|WD~Ronald_Sugar,7365310]]'
+- '[[_Standards/WikiData/WD~Susan_Wagner,17388808|WD~Susan_Wagner,17388808]]'
+- '[[_Standards/WikiData/WD~Al_Gore,19673|WD~Al_Gore,19673]]'
 founded_by:
-- '[[_Standards/WikiData/WD~Ronald_Wayne,332591]]'
-- '[[_Standards/WikiData/WD~Steve_Wozniak,483382]]'
-- '[[_Standards/WikiData/WD~Steve_Jobs,19837]]'
+- '[[_Standards/WikiData/WD~Ronald_Wayne,332591|WD~Ronald_Wayne,332591]]'
+- '[[_Standards/WikiData/WD~Steve_Wozniak,483382|WD~Steve_Wozniak,483382]]'
+- '[[_Standards/WikiData/WD~Steve_Jobs,19837|WD~Steve_Jobs,19837]]'
 child_organization_or_unit:
-- '[[_Standards/WikiData/WD~Apple_Store,421253]]'
-- '[[_Standards/WikiData/WD~Claris,1095605]]'
-- '[[_Standards/WikiData/WD~Beats_Electronics,1961036]]'
-- '[[_Standards/WikiData/WD~FileMaker,_Inc.,1982831]]'
-- '[[_Standards/WikiData/WD~Anobit,2893391]]'
-- '[[_Standards/WikiData/WD~FingerWorks,4038751]]'
-- '[[_Standards/WikiData/WD~Prismo_Graphics,7245704]]'
-- '[[_Standards/WikiData/WD~Raycer,7298416]]'
-- '[[_Standards/WikiData/WD~SchemaSoft,7431115]]'
-- '[[_Standards/WikiData/WD~Braeburn_Capital,8084438]]'
-- '[[_Standards/WikiData/WD~AuthenTec,16835875]]'
-- '[[_Standards/WikiData/WD~Siri_Inc.,21463549]]'
-- '[[_Standards/WikiData/WD~Apple_Germany,29000247]]'
-- '[[_Standards/WikiData/WD~Apple_Israel,29000259]]'
-- '[[_Standards/WikiData/WD~Apple_Sales_International,105810600]]'
-- '[[_Standards/WikiData/WD~Apple_Czech,111464892]]'
-chairperson: '[[_Standards/WikiData/WD~Arthur_D._Levinson,709063]]'
-location_of_formation: '[[_Standards/WikiData/WD~Los_Altos,864124]]'
+- '[[_Standards/WikiData/WD~Apple_Store,421253|WD~Apple_Store,421253]]'
+- '[[_Standards/WikiData/WD~Claris,1095605|WD~Claris,1095605]]'
+- '[[_Standards/WikiData/WD~Beats_Electronics,1961036|WD~Beats_Electronics,1961036]]'
+- '[[_Standards/WikiData/WD~FileMaker,_Inc.,1982831|WD~FileMaker,_Inc.,1982831]]'
+- '[[_Standards/WikiData/WD~Anobit,2893391|WD~Anobit,2893391]]'
+- '[[_Standards/WikiData/WD~FingerWorks,4038751|WD~FingerWorks,4038751]]'
+- '[[_Standards/WikiData/WD~Prismo_Graphics,7245704|WD~Prismo_Graphics,7245704]]'
+- '[[_Standards/WikiData/WD~Raycer,7298416|WD~Raycer,7298416]]'
+- '[[_Standards/WikiData/WD~SchemaSoft,7431115|WD~SchemaSoft,7431115]]'
+- '[[_Standards/WikiData/WD~Braeburn_Capital,8084438|WD~Braeburn_Capital,8084438]]'
+- '[[_Standards/WikiData/WD~AuthenTec,16835875|WD~AuthenTec,16835875]]'
+- '[[_Standards/WikiData/WD~Siri_Inc.,21463549|WD~Siri_Inc.,21463549]]'
+- '[[_Standards/WikiData/WD~Apple_Germany,29000247|WD~Apple_Germany,29000247]]'
+- '[[_Standards/WikiData/WD~Apple_Israel,29000259|WD~Apple_Israel,29000259]]'
+- '[[_Standards/WikiData/WD~Apple_Sales_International,105810600|WD~Apple_Sales_International,105810600]]'
+- '[[_Standards/WikiData/WD~Apple_Czech,111464892|WD~Apple_Czech,111464892]]'
+chairperson: '[[_Standards/WikiData/WD~Arthur_D._Levinson,709063|WD~Arthur_D._Levinson,709063]]'
+location_of_formation: '[[_Standards/WikiData/WD~Los_Altos,864124|WD~Los_Altos,864124]]'
 legal_form:
-- '[[_Standards/WikiData/WD~public_company,891723]]'
-- '[[_Standards/WikiData/WD~corporation,57655560]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Apple_Inc.,1048090]]'
+- '[[_Standards/WikiData/WD~public_company,891723|WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~corporation,57655560|WD~corporation,57655560]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Apple_Inc.,1048090|WD~history_of_Apple_Inc.,1048090]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Imagination_Technologies,1119662]]'
-- '[[_Standards/WikiData/WD~Apple_corporate_shuttle,110553619]]'
-motto: '[[_Standards/WikiData/WD~Think_different.,1191023]]'
-award_received: '[[_Standards/WikiData/WD~National_Design_Awards,2586695]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Apple,5616016]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Apple_Inc.,7112182]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Apple_Inc.,7852935]]'
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-described_by_source: '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Imagination_Technologies,1119662|WD~Imagination_Technologies,1119662]]'
+- '[[_Standards/WikiData/WD~Apple_corporate_shuttle,110553619|WD~Apple_corporate_shuttle,110553619]]'
+motto: '[[_Standards/WikiData/WD~Think_different.,1191023|WD~Think_different.,1191023]]'
+award_received: '[[_Standards/WikiData/WD~National_Design_Awards,2586695|WD~National_Design_Awards,2586695]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Apple,5616016|WD~Template_Apple,5616016]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Apple_Inc.,7112182|WD~outline_of_Apple_Inc.,7112182]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Apple_Inc.,7852935|WD~Portal_Apple_Inc.,7852935]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+described_by_source: '[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q25696231,25696231]]'
-- '[[_Standards/WikiData/WD~Q25696256,25696256]]'
-archives_at: '[[_Standards/WikiData/WD~Stanford_University_Libraries_Department_of_Special_Collections_and_University_Archives,60339057]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
-external_auditor: '[[_Standards/WikiData/WD~Ernst_&_Young_LLP,98525448]]'
-affiliated_worker_organisation: '[[_Standards/WikiData/WD~Apple_worker_organizations,108523862]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-location: '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-named_after: '[[_Standards/WikiData/WD~apple,89]]'
+- '[[_Standards/WikiData/WD~Q25696231,25696231|WD~Q25696231,25696231]]'
+- '[[_Standards/WikiData/WD~Q25696256,25696256|WD~Q25696256,25696256]]'
+archives_at: '[[_Standards/WikiData/WD~Stanford_University_Libraries_Department_of_Special_Collections_and_University_Archives,60339057|WD~Stanford_University_Libraries_Department_of_Special_Collections_and_University_Archives,60339057]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012|WD~works_protected_by_copyrights,73555012]]'
+external_auditor: '[[_Standards/WikiData/WD~Ernst_&_Young_LLP,98525448|WD~Ernst_&_Young_LLP,98525448]]'
+affiliated_worker_organisation: '[[_Standards/WikiData/WD~Apple_worker_organizations,108523862|WD~Apple_worker_organizations,108523862]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+location: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+named_after: '[[_Standards/WikiData/WD~apple,89|WD~apple,89]]'
 employees: 164000
 social_media_followers: 18600000
 autonomous_system_number:
@@ -270,135 +270,135 @@ aliases:
   - Apple_Inc
 has_id_wikidata: Q312
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~Mac,75687]]"
-  - "[[_Standards/WikiData/WD~tablet_computer,155972]]"
-  - "[[_Standards/WikiData/WD~personal_digital_assistant,162768]]"
-  - "[[_Standards/WikiData/WD~peripheral,178648]]"
-  - "[[_Standards/WikiData/WD~Apple_TV,270285]]"
-  - "[[_Standards/WikiData/WD~consumer_electronics,581105]]"
-  - "[[_Standards/WikiData/WD~wearable_computer,1334829]]"
-  - "[[_Standards/WikiData/WD~networking_hardware,1546066]]"
-  - "[[_Standards/WikiData/WD~Apple_Watch,18010946]]"
-  - "[[_Standards/WikiData/WD~Apple_Pay,18010990]]"
-  - "[[_Standards/WikiData/WD~AirPods,26936286]]"
-  - "[[_Standards/WikiData/WD~HomePod,30137500]]"
-  - "[[_Standards/WikiData/WD~Q2766,2766]]"
-  - "[[_Standards/WikiData/WD~Q2796,2796]]"
-  - "[[_Standards/WikiData/WD~computer_hardware,3966]]"
-  - "[[_Standards/WikiData/WD~software,7397]]"
-  - "[[_Standards/WikiData/WD~IPod,9479]]"
-  - "[[_Standards/WikiData/WD~iMac,14091]]"
-  - "[[_Standards/WikiData/WD~iPod_touch,14094]]"
-  - "[[_Standards/WikiData/WD~personal_computer,16338]]"
-  - "[[_Standards/WikiData/WD~smartphone,22645]]"
+  - "[[_Standards/WikiData/WD~Mac,75687|WD~Mac,75687]]"
+  - "[[_Standards/WikiData/WD~tablet_computer,155972|WD~tablet_computer,155972]]"
+  - "[[_Standards/WikiData/WD~personal_digital_assistant,162768|WD~personal_digital_assistant,162768]]"
+  - "[[_Standards/WikiData/WD~peripheral,178648|WD~peripheral,178648]]"
+  - "[[_Standards/WikiData/WD~Apple_TV,270285|WD~Apple_TV,270285]]"
+  - "[[_Standards/WikiData/WD~consumer_electronics,581105|WD~consumer_electronics,581105]]"
+  - "[[_Standards/WikiData/WD~wearable_computer,1334829|WD~wearable_computer,1334829]]"
+  - "[[_Standards/WikiData/WD~networking_hardware,1546066|WD~networking_hardware,1546066]]"
+  - "[[_Standards/WikiData/WD~Apple_Watch,18010946|WD~Apple_Watch,18010946]]"
+  - "[[_Standards/WikiData/WD~Apple_Pay,18010990|WD~Apple_Pay,18010990]]"
+  - "[[_Standards/WikiData/WD~AirPods,26936286|WD~AirPods,26936286]]"
+  - "[[_Standards/WikiData/WD~HomePod,30137500|WD~HomePod,30137500]]"
+  - "[[_Standards/WikiData/WD~Q2766,2766|WD~Q2766,2766]]"
+  - "[[_Standards/WikiData/WD~Q2796,2796|WD~Q2796,2796]]"
+  - "[[_Standards/WikiData/WD~computer_hardware,3966|WD~computer_hardware,3966]]"
+  - "[[_Standards/WikiData/WD~software,7397|WD~software,7397]]"
+  - "[[_Standards/WikiData/WD~IPod,9479|WD~IPod,9479]]"
+  - "[[_Standards/WikiData/WD~iMac,14091|WD~iMac,14091]]"
+  - "[[_Standards/WikiData/WD~iPod_touch,14094|WD~iPod_touch,14094]]"
+  - "[[_Standards/WikiData/WD~personal_computer,16338|WD~personal_computer,16338]]"
+  - "[[_Standards/WikiData/WD~smartphone,22645|WD~smartphone,22645]]"
 stock_exchange:
-  - "[[_Standards/WikiData/WD~Nasdaq,82059]]"
-  - "[[_Standards/WikiData/WD~Tokyo_Stock_Exchange,217475]]"
+  - "[[_Standards/WikiData/WD~Nasdaq,82059|WD~Nasdaq,82059]]"
+  - "[[_Standards/WikiData/WD~Tokyo_Stock_Exchange,217475|WD~Tokyo_Stock_Exchange,217475]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~corporation,167037]]"
-  - "[[_Standards/WikiData/WD~public_company,891723]]"
-  - "[[_Standards/WikiData/WD~computer_manufacturer,1055701]]"
-  - "[[_Standards/WikiData/WD~business,4830453]]"
-  - "[[_Standards/WikiData/WD~enterprise,6881511]]"
-  - "[[_Standards/WikiData/WD~technology_company,18388277]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
+  - "[[_Standards/WikiData/WD~corporation,167037|WD~corporation,167037]]"
+  - "[[_Standards/WikiData/WD~public_company,891723|WD~public_company,891723]]"
+  - "[[_Standards/WikiData/WD~computer_manufacturer,1055701|WD~computer_manufacturer,1055701]]"
+  - "[[_Standards/WikiData/WD~business,4830453|WD~business,4830453]]"
+  - "[[_Standards/WikiData/WD~enterprise,6881511|WD~enterprise,6881511]]"
+  - "[[_Standards/WikiData/WD~technology_company,18388277|WD~technology_company,18388277]]"
+  - "[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]"
 part_of:
-  - "[[_Standards/WikiData/WD~Dow_Jones_Industrial_Average,180816]]"
-  - "[[_Standards/WikiData/WD~S&P_500,242345]]"
-  - "[[_Standards/WikiData/WD~Nasdaq_100,507306]]"
-  - "[[_Standards/WikiData/WD~Dow_Jones_Global_Titans_50,773026]]"
-  - "[[_Standards/WikiData/WD~S&P_100,1546793]]"
-  - "[[_Standards/WikiData/WD~Big_Tech_(web),30748112]]"
-  - "[[_Standards/WikiData/WD~Silicon_Six,133989581]]"
+  - "[[_Standards/WikiData/WD~Dow_Jones_Industrial_Average,180816|WD~Dow_Jones_Industrial_Average,180816]]"
+  - "[[_Standards/WikiData/WD~S&P_500,242345|WD~S&P_500,242345]]"
+  - "[[_Standards/WikiData/WD~Nasdaq_100,507306|WD~Nasdaq_100,507306]]"
+  - "[[_Standards/WikiData/WD~Dow_Jones_Global_Titans_50,773026|WD~Dow_Jones_Global_Titans_50,773026]]"
+  - "[[_Standards/WikiData/WD~S&P_100,1546793|WD~S&P_100,1546793]]"
+  - "[[_Standards/WikiData/WD~Big_Tech_(web),30748112|WD~Big_Tech_(web),30748112]]"
+  - "[[_Standards/WikiData/WD~Silicon_Six,133989581|WD~Silicon_Six,133989581]]"
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-  - "[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]"
-  - "[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]"
-  - "[[_Standards/WikiData/WD~Design_Museum_Gent,1809071]]"
-  - "[[_Standards/WikiData/WD~Museum_of_Industry,2245203]]"
-headquarters_location: "[[_Standards/WikiData/WD~Cupertino,189471]]"
+  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740|WD~Museum_of_Modern_Art,188740]]"
+  - "[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527|WD~Museum_Boijmans_Van_Beuningen,679527]]"
+  - "[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672|WD~San_Francisco_Museum_of_Modern_Art,913672]]"
+  - "[[_Standards/WikiData/WD~Design_Museum_Gent,1809071|WD~Design_Museum_Gent,1809071]]"
+  - "[[_Standards/WikiData/WD~Museum_of_Industry,2245203|WD~Museum_of_Industry,2245203]]"
+headquarters_location: "[[_Standards/WikiData/WD~Cupertino,189471|WD~Cupertino,189471]]"
 member_of:
-  - "[[_Standards/WikiData/WD~Zentralverband_Elektrotechnik_und_Elektronikindustrie,190835]]"
-  - "[[_Standards/WikiData/WD~American_Chamber_of_Commerce_in_Germany,463681]]"
-  - "[[_Standards/WikiData/WD~Atlantik_Brücke,756504]]"
-  - "[[_Standards/WikiData/WD~bitkom,1008895]]"
-  - "[[_Standards/WikiData/WD~Initiative_D21,1663561]]"
-  - "[[_Standards/WikiData/WD~Computer_&_Communications_Industry_Association,3685364]]"
-  - "[[_Standards/WikiData/WD~Grüner_Wirtschaftsdialog_e._V.,85620700]]"
-  - "[[_Standards/WikiData/WD~Wirtschaftsforum_der_SPD,111164948]]"
-  - "[[_Standards/WikiData/WD~Q131845607,131845607]]"
-  - "[[_Standards/WikiData/WD~Q131883651,131883651]]"
-  - "[[_Standards/WikiData/WD~Q131884160,131884160]]"
+  - "[[_Standards/WikiData/WD~Zentralverband_Elektrotechnik_und_Elektronikindustrie,190835|WD~Zentralverband_Elektrotechnik_und_Elektronikindustrie,190835]]"
+  - "[[_Standards/WikiData/WD~American_Chamber_of_Commerce_in_Germany,463681|WD~American_Chamber_of_Commerce_in_Germany,463681]]"
+  - "[[_Standards/WikiData/WD~Atlantik_Brücke,756504|WD~Atlantik_Brücke,756504]]"
+  - "[[_Standards/WikiData/WD~bitkom,1008895|WD~bitkom,1008895]]"
+  - "[[_Standards/WikiData/WD~Initiative_D21,1663561|WD~Initiative_D21,1663561]]"
+  - "[[_Standards/WikiData/WD~Computer_&_Communications_Industry_Association,3685364|WD~Computer_&_Communications_Industry_Association,3685364]]"
+  - "[[_Standards/WikiData/WD~Grüner_Wirtschaftsdialog_e._V.,85620700|WD~Grüner_Wirtschaftsdialog_e._V.,85620700]]"
+  - "[[_Standards/WikiData/WD~Wirtschaftsforum_der_SPD,111164948|WD~Wirtschaftsforum_der_SPD,111164948]]"
+  - "[[_Standards/WikiData/WD~Q131845607,131845607|WD~Q131845607,131845607]]"
+  - "[[_Standards/WikiData/WD~Q131883651,131883651|WD~Q131883651,131883651]]"
+  - "[[_Standards/WikiData/WD~Q131884160,131884160|WD~Q131884160,131884160]]"
 owned_by:
-  - "[[_Standards/WikiData/WD~Berkshire_Hathaway,217583]]"
-  - "[[_Standards/WikiData/WD~BlackRock,219635]]"
-  - "[[_Standards/WikiData/WD~The_Vanguard_Group,849363]]"
-  - "[[_Standards/WikiData/WD~State_Street_Global_Advisors,7603552]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Tim_Cook,265852]]"
+  - "[[_Standards/WikiData/WD~Berkshire_Hathaway,217583|WD~Berkshire_Hathaway,217583]]"
+  - "[[_Standards/WikiData/WD~BlackRock,219635|WD~BlackRock,219635]]"
+  - "[[_Standards/WikiData/WD~The_Vanguard_Group,849363|WD~The_Vanguard_Group,849363]]"
+  - "[[_Standards/WikiData/WD~State_Street_Global_Advisors,7603552|WD~State_Street_Global_Advisors,7603552]]"
+chief_executive_officer: "[[_Standards/WikiData/WD~Tim_Cook,265852|WD~Tim_Cook,265852]]"
 industry:
-  - "[[_Standards/WikiData/WD~digital_distribution,269415]]"
-  - "[[_Standards/WikiData/WD~software_development,638608]]"
-  - "[[_Standards/WikiData/WD~software_industry,880371]]"
-  - "[[_Standards/WikiData/WD~mobile_phone_industry,56598901]]"
-  - "[[_Standards/WikiData/WD~consumer_electronics_industry,73768396]]"
-  - "[[_Standards/WikiData/WD~electronics,11650]]"
-  - "[[_Standards/WikiData/WD~information_technology,11661]]"
+  - "[[_Standards/WikiData/WD~digital_distribution,269415|WD~digital_distribution,269415]]"
+  - "[[_Standards/WikiData/WD~software_development,638608|WD~software_development,638608]]"
+  - "[[_Standards/WikiData/WD~software_industry,880371|WD~software_industry,880371]]"
+  - "[[_Standards/WikiData/WD~mobile_phone_industry,56598901|WD~mobile_phone_industry,56598901]]"
+  - "[[_Standards/WikiData/WD~consumer_electronics_industry,73768396|WD~consumer_electronics_industry,73768396]]"
+  - "[[_Standards/WikiData/WD~electronics,11650|WD~electronics,11650]]"
+  - "[[_Standards/WikiData/WD~information_technology,11661|WD~information_technology,11661]]"
 board_member:
-  - "[[_Standards/WikiData/WD~Andrea_Jung,271117]]"
-  - "[[_Standards/WikiData/WD~Bob_Iger,532423]]"
-  - "[[_Standards/WikiData/WD~Arthur_D._Levinson,709063]]"
-  - "[[_Standards/WikiData/WD~James_A._Bell,6128032]]"
-  - "[[_Standards/WikiData/WD~Ronald_Sugar,7365310]]"
-  - "[[_Standards/WikiData/WD~Susan_Wagner,17388808]]"
-  - "[[_Standards/WikiData/WD~Al_Gore,19673]]"
+  - "[[_Standards/WikiData/WD~Andrea_Jung,271117|WD~Andrea_Jung,271117]]"
+  - "[[_Standards/WikiData/WD~Bob_Iger,532423|WD~Bob_Iger,532423]]"
+  - "[[_Standards/WikiData/WD~Arthur_D._Levinson,709063|WD~Arthur_D._Levinson,709063]]"
+  - "[[_Standards/WikiData/WD~James_A._Bell,6128032|WD~James_A._Bell,6128032]]"
+  - "[[_Standards/WikiData/WD~Ronald_Sugar,7365310|WD~Ronald_Sugar,7365310]]"
+  - "[[_Standards/WikiData/WD~Susan_Wagner,17388808|WD~Susan_Wagner,17388808]]"
+  - "[[_Standards/WikiData/WD~Al_Gore,19673|WD~Al_Gore,19673]]"
 founded_by:
-  - "[[_Standards/WikiData/WD~Ronald_Wayne,332591]]"
-  - "[[_Standards/WikiData/WD~Steve_Wozniak,483382]]"
-  - "[[_Standards/WikiData/WD~Steve_Jobs,19837]]"
+  - "[[_Standards/WikiData/WD~Ronald_Wayne,332591|WD~Ronald_Wayne,332591]]"
+  - "[[_Standards/WikiData/WD~Steve_Wozniak,483382|WD~Steve_Wozniak,483382]]"
+  - "[[_Standards/WikiData/WD~Steve_Jobs,19837|WD~Steve_Jobs,19837]]"
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~Apple_Store,421253]]"
-  - "[[_Standards/WikiData/WD~Claris,1095605]]"
-  - "[[_Standards/WikiData/WD~Beats_Electronics,1961036]]"
-  - "[[_Standards/WikiData/WD~FileMaker,_Inc.,1982831]]"
-  - "[[_Standards/WikiData/WD~Anobit,2893391]]"
-  - "[[_Standards/WikiData/WD~FingerWorks,4038751]]"
-  - "[[_Standards/WikiData/WD~Prismo_Graphics,7245704]]"
-  - "[[_Standards/WikiData/WD~Raycer,7298416]]"
-  - "[[_Standards/WikiData/WD~SchemaSoft,7431115]]"
-  - "[[_Standards/WikiData/WD~Braeburn_Capital,8084438]]"
-  - "[[_Standards/WikiData/WD~AuthenTec,16835875]]"
-  - "[[_Standards/WikiData/WD~Siri_Inc.,21463549]]"
-  - "[[_Standards/WikiData/WD~Apple_Germany,29000247]]"
-  - "[[_Standards/WikiData/WD~Apple_Israel,29000259]]"
-  - "[[_Standards/WikiData/WD~Apple_Sales_International,105810600]]"
-  - "[[_Standards/WikiData/WD~Apple_Czech,111464892]]"
-chairperson: "[[_Standards/WikiData/WD~Arthur_D._Levinson,709063]]"
-location_of_formation: "[[_Standards/WikiData/WD~Los_Altos,864124]]"
+  - "[[_Standards/WikiData/WD~Apple_Store,421253|WD~Apple_Store,421253]]"
+  - "[[_Standards/WikiData/WD~Claris,1095605|WD~Claris,1095605]]"
+  - "[[_Standards/WikiData/WD~Beats_Electronics,1961036|WD~Beats_Electronics,1961036]]"
+  - "[[_Standards/WikiData/WD~FileMaker,_Inc.,1982831|WD~FileMaker,_Inc.,1982831]]"
+  - "[[_Standards/WikiData/WD~Anobit,2893391|WD~Anobit,2893391]]"
+  - "[[_Standards/WikiData/WD~FingerWorks,4038751|WD~FingerWorks,4038751]]"
+  - "[[_Standards/WikiData/WD~Prismo_Graphics,7245704|WD~Prismo_Graphics,7245704]]"
+  - "[[_Standards/WikiData/WD~Raycer,7298416|WD~Raycer,7298416]]"
+  - "[[_Standards/WikiData/WD~SchemaSoft,7431115|WD~SchemaSoft,7431115]]"
+  - "[[_Standards/WikiData/WD~Braeburn_Capital,8084438|WD~Braeburn_Capital,8084438]]"
+  - "[[_Standards/WikiData/WD~AuthenTec,16835875|WD~AuthenTec,16835875]]"
+  - "[[_Standards/WikiData/WD~Siri_Inc.,21463549|WD~Siri_Inc.,21463549]]"
+  - "[[_Standards/WikiData/WD~Apple_Germany,29000247|WD~Apple_Germany,29000247]]"
+  - "[[_Standards/WikiData/WD~Apple_Israel,29000259|WD~Apple_Israel,29000259]]"
+  - "[[_Standards/WikiData/WD~Apple_Sales_International,105810600|WD~Apple_Sales_International,105810600]]"
+  - "[[_Standards/WikiData/WD~Apple_Czech,111464892|WD~Apple_Czech,111464892]]"
+chairperson: "[[_Standards/WikiData/WD~Arthur_D._Levinson,709063|WD~Arthur_D._Levinson,709063]]"
+location_of_formation: "[[_Standards/WikiData/WD~Los_Altos,864124|WD~Los_Altos,864124]]"
 legal_form:
-  - "[[_Standards/WikiData/WD~public_company,891723]]"
-  - "[[_Standards/WikiData/WD~corporation,57655560]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Apple_Inc.,1048090]]"
+  - "[[_Standards/WikiData/WD~public_company,891723|WD~public_company,891723]]"
+  - "[[_Standards/WikiData/WD~corporation,57655560|WD~corporation,57655560]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Apple_Inc.,1048090|WD~history_of_Apple_Inc.,1048090]]"
 owner_of:
-  - "[[_Standards/WikiData/WD~Imagination_Technologies,1119662]]"
-  - "[[_Standards/WikiData/WD~Apple_corporate_shuttle,110553619]]"
-motto: "[[_Standards/WikiData/WD~Think_different.,1191023]]"
-award_received: "[[_Standards/WikiData/WD~National_Design_Awards,2586695]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Apple,5616016]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Apple_Inc.,7112182]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Apple_Inc.,7852935]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-described_by_source: "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Imagination_Technologies,1119662|WD~Imagination_Technologies,1119662]]"
+  - "[[_Standards/WikiData/WD~Apple_corporate_shuttle,110553619|WD~Apple_corporate_shuttle,110553619]]"
+motto: "[[_Standards/WikiData/WD~Think_different.,1191023|WD~Think_different.,1191023]]"
+award_received: "[[_Standards/WikiData/WD~National_Design_Awards,2586695|WD~National_Design_Awards,2586695]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Apple,5616016|WD~Template_Apple,5616016]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Apple_Inc.,7112182|WD~outline_of_Apple_Inc.,7112182]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Apple_Inc.,7852935|WD~Portal_Apple_Inc.,7852935]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]"
+described_by_source: "[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]"
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q25696231,25696231]]"
-  - "[[_Standards/WikiData/WD~Q25696256,25696256]]"
-archives_at: "[[_Standards/WikiData/WD~Stanford_University_Libraries_Department_of_Special_Collections_and_University_Archives,60339057]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-external_auditor: "[[_Standards/WikiData/WD~Ernst_&_Young_LLP,98525448]]"
-affiliated_worker_organisation: "[[_Standards/WikiData/WD~Apple_worker_organizations,108523862]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-location: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-named_after: "[[_Standards/WikiData/WD~apple,89]]"
+  - "[[_Standards/WikiData/WD~Q25696231,25696231|WD~Q25696231,25696231]]"
+  - "[[_Standards/WikiData/WD~Q25696256,25696256|WD~Q25696256,25696256]]"
+archives_at: "[[_Standards/WikiData/WD~Stanford_University_Libraries_Department_of_Special_Collections_and_University_Archives,60339057|WD~Stanford_University_Libraries_Department_of_Special_Collections_and_University_Archives,60339057]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012|WD~works_protected_by_copyrights,73555012]]"
+external_auditor: "[[_Standards/WikiData/WD~Ernst_&_Young_LLP,98525448|WD~Ernst_&_Young_LLP,98525448]]"
+affiliated_worker_organisation: "[[_Standards/WikiData/WD~Apple_worker_organizations,108523862|WD~Apple_worker_organizations,108523862]]"
+country_of_origin: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+location: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+named_after: "[[_Standards/WikiData/WD~apple,89|WD~apple,89]]"
 employees: 164000
 social_media_followers: 18600000
 autonomous_system_number:

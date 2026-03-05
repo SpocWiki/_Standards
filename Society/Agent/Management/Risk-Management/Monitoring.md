@@ -93,7 +93,7 @@ dv_has_:
 
 # [[Monitoring]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~monitoring,2143522]]
+#is_/same_as :: [[_Standards/WikiData/WD~monitoring,2143522|WD~monitoring,2143522]]
 #is_/similar_to :: [[Surveillance]]
 
 Monitoring is the **systematic and continuous process of 

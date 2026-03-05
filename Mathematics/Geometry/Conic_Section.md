@@ -80,30 +80,30 @@ aliases:
 - 圓錐曲線
 - 원뿔 곡선
 has_id_wikidata: Q124255
-has_characteristic: '[[_Standards/WikiData/WD~eccentricity,104486]]'
+has_characteristic: '[[_Standards/WikiData/WD~eccentricity,104486|WD~eccentricity,104486]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~hyperbola,165301]]'
-- '[[_Standards/WikiData/WD~circle,17278]]'
-- '[[_Standards/WikiData/WD~ellipse,40112]]'
-- '[[_Standards/WikiData/WD~parabola,48297]]'
+- '[[_Standards/WikiData/WD~hyperbola,165301|WD~hyperbola,165301]]'
+- '[[_Standards/WikiData/WD~circle,17278|WD~circle,17278]]'
+- '[[_Standards/WikiData/WD~ellipse,40112|WD~ellipse,40112]]'
+- '[[_Standards/WikiData/WD~parabola,48297|WD~parabola,48297]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~locus,211548]]'
-- '[[_Standards/WikiData/WD~algebraic_curve,266237]]'
-- '[[_Standards/WikiData/WD~cross_section,845080]]'
-- '[[_Standards/WikiData/WD~plane_curve,1060874]]'
-- '[[_Standards/WikiData/WD~quadratic_curve,4240640]]'
+- '[[_Standards/WikiData/WD~locus,211548|WD~locus,211548]]'
+- '[[_Standards/WikiData/WD~algebraic_curve,266237|WD~algebraic_curve,266237]]'
+- '[[_Standards/WikiData/WD~cross_section,845080|WD~cross_section,845080]]'
+- '[[_Standards/WikiData/WD~plane_curve,1060874|WD~plane_curve,1060874]]'
+- '[[_Standards/WikiData/WD~quadratic_curve,4240640|WD~quadratic_curve,4240640]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Conic_Section,84644282]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-part_of: '[[_Standards/WikiData/WD~Dandelin_spheres,676413]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Conic_Section,84644282|WD~Conic_Section,84644282]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+part_of: '[[_Standards/WikiData/WD~Dandelin_spheres,676413|WD~Dandelin_spheres,676413]]'
 different_from:
-- '[[_Standards/WikiData/WD~quadratic_curve,4240640]]'
-- '[[_Standards/WikiData/WD~non_degenerate_conic_section,78145859]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~quadratic_curve,4240640|WD~quadratic_curve,4240640]]'
+- '[[_Standards/WikiData/WD~non_degenerate_conic_section,78145859|WD~non_degenerate_conic_section,78145859]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Conic%20Sections.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/ConicSections.png

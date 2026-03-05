@@ -95,38 +95,38 @@ aliases:
 - 철도운송
 has_id_wikidata: Q3565868
 uses:
-- '[[_Standards/WikiData/WD~railway_track,160342]]'
-- '[[_Standards/WikiData/WD~railway,22667]]'
+- '[[_Standards/WikiData/WD~railway_track,160342|WD~railway_track,160342]]'
+- '[[_Standards/WikiData/WD~railway,22667|WD~railway,22667]]'
 instance_of:
-- '[[_Standards/WikiData/WD~mode_of_transport,334166]]'
-- '[[../../WikiData/WD~economic_activity,8187769]]'
+- '[[_Standards/WikiData/WD~mode_of_transport,334166|WD~mode_of_transport,334166]]'
+- '[[../../WikiData/WD~economic_activity,8187769|WD~economic_activity,8187769]]'
 different_from:
-- '[[_Standards/WikiData/WD~rail_and_rope_guided_transport,350783]]'
-- '[[_Standards/WikiData/WD~railway,22667]]'
+- '[[_Standards/WikiData/WD~rail_and_rope_guided_transport,350783|WD~rail_and_rope_guided_transport,350783]]'
+- '[[_Standards/WikiData/WD~railway,22667|WD~railway,22667]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~rail_and_rope_guided_transport,350783]]'
-- '[[_Standards/WikiData/WD~land_transport,4354683]]'
-- '[[_Standards/WikiData/WD~means_of_transport,106839123]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_rail_transport,477862]]'
+- '[[_Standards/WikiData/WD~rail_and_rope_guided_transport,350783|WD~rail_and_rope_guided_transport,350783]]'
+- '[[_Standards/WikiData/WD~land_transport,4354683|WD~land_transport,4354683]]'
+- '[[_Standards/WikiData/WD~means_of_transport,106839123|WD~means_of_transport,106839123]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_rail_transport,477862|WD~history_of_rail_transport,477862]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~train_noise,1414021]]'
-- '[[_Standards/WikiData/WD~train_and_rail_category,16858238]]'
-practiced_by: '[[_Standards/WikiData/WD~station_master,2962020]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_rail_transport,7112713]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q20692110,20692110]]'
-industry: '[[_Standards/WikiData/WD~rail_transport_industry,136688018]]'
+- '[[_Standards/WikiData/WD~train_noise,1414021|WD~train_noise,1414021]]'
+- '[[_Standards/WikiData/WD~train_and_rail_category,16858238|WD~train_and_rail_category,16858238]]'
+practiced_by: '[[_Standards/WikiData/WD~station_master,2962020|WD~station_master,2962020]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_rail_transport,7112713|WD~outline_of_rail_transport,7112713]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q20692110,20692110|WD~Q20692110,20692110]]'
+industry: '[[_Standards/WikiData/WD~rail_transport_industry,136688018|WD~rail_transport_industry,136688018]]'
 part_of:
-- '[[_Standards/WikiData/WD~rail_transport_industry,136688018]]'
-- '[[_Standards/WikiData/WD~transport,7590]]'
+- '[[_Standards/WikiData/WD~rail_transport_industry,136688018|WD~rail_transport_industry,136688018]]'
+- '[[_Standards/WikiData/WD~transport,7590|WD~transport,7590]]'
 Dewey_Decimal_Classification:
 - 385
 - 625

@@ -93,22 +93,22 @@ aliases:
 - 카드 게임
 has_id_wikidata: Q142714
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-practiced_by: '[[_Standards/WikiData/WD~card_player,1302255]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+practiced_by: '[[_Standards/WikiData/WD~card_player,1302255|WD~card_player,1302255]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~tabletop_game,3244175]]'
-- '[[_Standards/WikiData/WD~human_activity,61788060]]'
-- '[[_Standards/WikiData/WD~café_game,121459946]]'
+- '[[_Standards/WikiData/WD~tabletop_game,3244175|WD~tabletop_game,3244175]]'
+- '[[_Standards/WikiData/WD~human_activity,61788060|WD~human_activity,61788060]]'
+- '[[_Standards/WikiData/WD~café_game,121459946|WD~café_game,121459946]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_card_game,8479630]]'
-- "[[_Standards/WikiData/WD~Template_Children's_card_games,108470935]]"
+- '[[_Standards/WikiData/WD~Template_Infobox_card_game,8479630|WD~Template_Infobox_card_game,8479630]]'
+- "[[_Standards/WikiData/WD~Template_Children's_card_games,108470935|WD~Template_Children's_card_games,108470935]]"
 instance_of:
-- '[[_Standards/WikiData/WD~product_category,63981612]]'
-- '[[_Standards/WikiData/WD~boardgame_genre,66152509]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-has_list: '[[_Standards/WikiData/WD~list_of_card_games,99966568]]'
-uses: '[[_Standards/WikiData/WD~playing_card,47883]]'
+- '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
+- '[[_Standards/WikiData/WD~boardgame_genre,66152509|WD~boardgame_genre,66152509]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+has_list: '[[_Standards/WikiData/WD~list_of_card_games,99966568|WD~list_of_card_games,99966568]]'
+uses: '[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]'
 IAB_code: 271
 Nomenclature_for_Museum_Cataloging: 14229
 U_S_National_Archives_Identifier: 10648065

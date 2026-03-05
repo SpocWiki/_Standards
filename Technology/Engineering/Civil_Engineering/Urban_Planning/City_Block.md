@@ -49,13 +49,13 @@ aliases:
 - 가곽
 has_id_wikidata: Q1348006
 different_from:
-- '[[_Standards/WikiData/WD~neighborhood,123705]]'
-- '[[_Standards/WikiData/WD~quarter,2983893]]'
-- '[[_Standards/WikiData/WD~housing_estate,12104567]]'
+- '[[_Standards/WikiData/WD~neighborhood,123705|WD~neighborhood,123705]]'
+- '[[_Standards/WikiData/WD~quarter,2983893|WD~quarter,2983893]]'
+- '[[_Standards/WikiData/WD~housing_estate,12104567|WD~housing_estate,12104567]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~human_settlement,486972]]'
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-described_by_source: '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~human_settlement,486972|WD~human_settlement,486972]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+described_by_source: '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/City%20block.PNG
 Commons_category: City blocks
 OpenStreetMap_tag_or_key: Tag:place=city_block

@@ -27,9 +27,9 @@ tags:
 title: is_a_dj_mix_album Class
 type: Type
 dv_has_:
-  parent_class: "[[../MusicAlbumProductionType]]"
+  parent_class: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
 dv_is_:
-  enum_of: "[[../MusicAlbumProductionType]]"
+  enum_of: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album|Dj_Mix_Album]]"
     - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.public|Dj_Mix_Album.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.personal|Dj_Mix_Album.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.secret|Dj_Mix_Album.secret]]"
     - "[[Dj_Mix_Album]]"
-dv_has_parent_class: "[[../MusicAlbumProductionType]]"
-dv_is_enum_of: "[[../MusicAlbumProductionType]]"
+dv_has_parent_class: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
+dv_is_enum_of: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
 dv_is_same_as:
   - "[[Dj_Mix_Album]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.public|Dj_Mix_Album.public]]"

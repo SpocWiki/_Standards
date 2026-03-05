@@ -67,8 +67,8 @@ aliases:
 - 诺曼征服英格兰
 - 노르만 정복
 has_id_wikidata: Q200485
-country: '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
-instance_of: '[[_Standards/WikiData/WD~conquest,1361229]]'
+country: '[[_Standards/WikiData/WD~Kingdom_of_England,179876|WD~Kingdom_of_England,179876]]'
+instance_of: '[[_Standards/WikiData/WD~conquest,1361229|WD~conquest,1361229]]'
 end_time: 1075-01-01T00:00:00Z
 start_time: 1066-10-04T00:00:00Z
 coordinate_location: Point(-1.3167 52.0667)
@@ -76,7 +76,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bayeux%20Tapestry%20Wi
 Commons_category: Norman Conquest of England
 dv_is_:
   same_as:
-  - '[[../../../../../../../../../../WikiData/WD~Norman_conquest_of_England,200485]]'
+  - '[[../../../../../../../../../../WikiData/WD~Norman_conquest_of_England,200485|WD~Norman_conquest_of_England,200485]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England|1066-Norman_Conquest_of_England]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.public|1066-Norman_Conquest_of_England.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.internal|1066-Norman_Conquest_of_England.internal]]'
@@ -85,7 +85,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.personal|1066-Norman_Conquest_of_England.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.secret|1066-Norman_Conquest_of_England.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../../../WikiData/WD~Norman_conquest_of_England,200485]]'
+- '[[../../../../../../../../../../WikiData/WD~Norman_conquest_of_England,200485|WD~Norman_conquest_of_England,200485]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England|1066-Norman_Conquest_of_England]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.public|1066-Norman_Conquest_of_England.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.internal|1066-Norman_Conquest_of_England.internal]]'

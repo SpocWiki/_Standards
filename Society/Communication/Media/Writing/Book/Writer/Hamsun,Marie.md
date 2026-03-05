@@ -46,7 +46,7 @@ dv_has_:
 
 # [[Hamsun,Marie]] 
 
-#has_/created :: [[Hamsun,Marie/Langerudkinder]] 
+#has_/created :: [[Hamsun,Marie/Langerudkinder|Langerudkinder]] 
 #has_/time_/started :: 1881-11-19 
 #has_/time_/stopped  :: 1969-08-04
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

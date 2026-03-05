@@ -63,18 +63,18 @@ aliases:
 - 펌프
 has_id_wikidata: Q134574
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
-different_from: '[[_Standards/WikiData/WD~Pompa,3907833]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~fluid_accelerator,65115262]]'
-has_use: '[[_Standards/WikiData/WD~transport,7590]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Kartographer_icon,134980502|WD~Kartographer_icon,134980502]]'
+different_from: '[[_Standards/WikiData/WD~Pompa,3907833|WD~Pompa,3907833]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~fluid_accelerator,65115262|WD~fluid_accelerator,65115262]]'
+has_use: '[[_Standards/WikiData/WD~transport,7590|WD~transport,7590]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_tool,39546]]'
-- '[[_Standards/WikiData/WD~turbomachinery,63973]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]'
+- '[[_Standards/WikiData/WD~turbomachinery,63973|WD~turbomachinery,63973]]'
 OmegaWiki_Defined_Meaning: 3055
 Nomenclature_for_Museum_Cataloging: 9208
 Commons_category: Pumps

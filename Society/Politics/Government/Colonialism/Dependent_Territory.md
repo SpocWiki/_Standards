@@ -91,15 +91,15 @@ aliases:
 - 속령
 has_id_wikidata: Q161243
 instance_of:
-- '[[_Standards/WikiData/WD~geographical_feature,618123]]'
-- '[[_Standards/WikiData/WD~territory,4835091]]'
-- '[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]'
+- '[[_Standards/WikiData/WD~geographical_feature,618123|WD~geographical_feature,618123]]'
+- '[[_Standards/WikiData/WD~territory,4835091|WD~territory,4835091]]'
+- '[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994|WD~administrative_territorial_entity_type,15617994]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~political_territorial_entity,1048835]]'
-- '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
-opposite_of: '[[_Standards/WikiData/WD~metropole,21855250]]'
-different_from: '[[_Standards/WikiData/WD~integral_overseas_territory,26934845]]'
-has_list: '[[_Standards/WikiData/WD~list_of_dependent_territories,28549900]]'
+- '[[_Standards/WikiData/WD~political_territorial_entity,1048835|WD~political_territorial_entity,1048835]]'
+- '[[_Standards/WikiData/WD~administrative_territorial_entity,56061|WD~administrative_territorial_entity,56061]]'
+opposite_of: '[[_Standards/WikiData/WD~metropole,21855250|WD~metropole,21855250]]'
+different_from: '[[_Standards/WikiData/WD~integral_overseas_territory,26934845|WD~integral_overseas_territory,26934845]]'
+has_list: '[[_Standards/WikiData/WD~list_of_dependent_territories,28549900|WD~list_of_dependent_territories,28549900]]'
 OmegaWiki_Defined_Meaning: 1088203
 Commons_category: Dependent territories
 described_at_URL: https://www.whosonfirst.org/docs/placetypes/#dependency

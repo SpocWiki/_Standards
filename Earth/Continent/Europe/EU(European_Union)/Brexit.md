@@ -57,15 +57,15 @@ aliases:
 - 英歐解盟
 - 브렉시트
 has_id_wikidata: Q7888194
-instance_of: '[[_Standards/WikiData/WD~withdrawal_from_the_European_Union,3123616]]'
-facet_of: '[[_Standards/WikiData/WD~euroscepticism_in_the_United_Kingdom,5413809]]'
-main_regulatory_text: '[[_Standards/WikiData/WD~Article_50_of_the_Treaty_on_European_Union,23017389]]'
-has_effect: '[[_Standards/WikiData/WD~economic_effects_of_Brexit,30687049]]'
-agent_of_action: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+instance_of: '[[_Standards/WikiData/WD~withdrawal_from_the_European_Union,3123616|WD~withdrawal_from_the_European_Union,3123616]]'
+facet_of: '[[_Standards/WikiData/WD~euroscepticism_in_the_United_Kingdom,5413809|WD~euroscepticism_in_the_United_Kingdom,5413809]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Article_50_of_the_Treaty_on_European_Union,23017389|WD~Article_50_of_the_Treaty_on_European_Union,23017389]]'
+has_effect: '[[_Standards/WikiData/WD~economic_effects_of_Brexit,30687049|WD~economic_effects_of_Brexit,30687049]]'
+agent_of_action: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 participant:
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- '[[_Standards/WikiData/WD~Union_of_European_Football_Associations,35572]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Union_of_European_Football_Associations,35572|WD~Union_of_European_Football_Associations,35572]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 social_media_followers: 55761
 short_name: Brexit
 hashtag: Brexit

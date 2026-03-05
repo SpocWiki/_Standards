@@ -52,15 +52,15 @@ aliases:
 - 스노보드
 has_id_wikidata: Q178131
 subclass_of:
-- '[[_Standards/WikiData/WD~winter_sport,204686]]'
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~boardsport,911069]]'
-authority: '[[_Standards/WikiData/WD~International_Ski_and_Snowboard_Federation,212928]]'
-uses: '[[_Standards/WikiData/WD~snowboard,2000617]]'
-practiced_by: '[[_Standards/WikiData/WD~snowboarder,15709642]]'
+- '[[_Standards/WikiData/WD~winter_sport,204686|WD~winter_sport,204686]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~boardsport,911069|WD~boardsport,911069]]'
+authority: '[[_Standards/WikiData/WD~International_Ski_and_Snowboard_Federation,212928|WD~International_Ski_and_Snowboard_Federation,212928]]'
+uses: '[[_Standards/WikiData/WD~snowboard,2000617|WD~snowboard,2000617]]'
+practiced_by: '[[_Standards/WikiData/WD~snowboarder,15709642|WD~snowboarder,15709642]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
 IAB_code: 504
 Commons_category: Snowboarding
 OmegaWiki_Defined_Meaning: 805785

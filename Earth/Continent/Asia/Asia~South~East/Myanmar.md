@@ -178,7 +178,7 @@ dv_UNTERM_Chinese_Formal: 缅甸联邦共和国
 dv_UNTERM_French_Formal: la République de l'Union du Myanmar
 dv_UNTERM_Russian: Мьянма
 dv_UNTERM_Russian_Formal: Республика Союз Мьянма
-dv_Region_Name: '[[../../Asia]]'
+dv_Region_Name: '[[../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Myanmar]]'
 dv_Sub-region_Name: '[[South-eastern Asia]]'
 dv_Region: 142
@@ -512,7 +512,7 @@ dv_has_:
 dv_has_name_de: Myanmar
 dv_Area-Total: 676552
 dv_Area-Land: 657550
-dv_has_place_continent: '[[../../Asia]]'
+dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: MYR
 dv_Capital: '[[Naypyidaw]]'
 dv_Alcohol-l: 0.6
@@ -608,7 +608,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Myanmar/ReadMe]] 
+[[Myanmar/ReadMe|ReadMe]] 
 
 ## #has_/map  
 

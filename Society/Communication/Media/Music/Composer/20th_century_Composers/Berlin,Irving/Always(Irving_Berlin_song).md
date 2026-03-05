@@ -4,16 +4,16 @@ aliases:
 - Всегда (песня)
 - オールウェイズ
 has_id_wikidata: Q3444686
-lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
-composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
-different_from: '[[_Standards/WikiData/WD~Always,397122]]'
-performer: '[[_Standards/WikiData/WD~Irving_Kaufman,1834260]]'
-dedicated_to: '[[_Standards/WikiData/WD~Ellin_Berlin,91113354]]'
-instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
-form_of_creative_work: '[[_Standards/WikiData/WD~song,7366]]'
-copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
-genre: '[[_Standards/WikiData/WD~pop_music,37073]]'
+lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746|WD~Irving_Berlin,128746]]'
+composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746|WD~Irving_Berlin,128746]]'
+different_from: '[[_Standards/WikiData/WD~Always,397122|WD~Always,397122]]'
+performer: '[[_Standards/WikiData/WD~Irving_Kaufman,1834260|WD~Irving_Kaufman,1834260]]'
+dedicated_to: '[[_Standards/WikiData/WD~Ellin_Berlin,91113354|WD~Ellin_Berlin,91113354]]'
+instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609|WD~musical_work_composition,105543609]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~song,7366|WD~song,7366]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652|WD~public_domain,19652]]'
+genre: '[[_Standards/WikiData/WD~pop_music,37073|WD~pop_music,37073]]'
 ISWC: T-070.001.012-3
 title: Always
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Always%20by%20Irving%20Berlin%20in%20Lonesome%20%281928%29.webm

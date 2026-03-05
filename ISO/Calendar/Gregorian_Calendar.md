@@ -196,16 +196,16 @@ aliases:
 has_id_wikidata: Q12138
 Commons_category: Gregorian calendars
 Commons_gallery: Gregorian calendar
-described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~proleptic_Gregorian_calendar,1985727]]'
-- '[[_Standards/WikiData/WD~calendar_year,3186692]]'
-- '[[_Standards/WikiData/WD~day,573]]'
-- '[[_Standards/WikiData/WD~month,5151]]'
-- '[[_Standards/WikiData/WD~week,23387]]'
+- '[[_Standards/WikiData/WD~proleptic_Gregorian_calendar,1985727|WD~proleptic_Gregorian_calendar,1985727]]'
+- '[[_Standards/WikiData/WD~calendar_year,3186692|WD~calendar_year,3186692]]'
+- '[[_Standards/WikiData/WD~day,573|WD~day,573]]'
+- '[[_Standards/WikiData/WD~month,5151|WD~month,5151]]'
+- '[[_Standards/WikiData/WD~week,23387|WD~week,23387]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]'
-- '[[_Standards/WikiData/WD~day_of_the_Gregorian_Calendar,73187956]]'
+- '[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249|WD~month_of_the_Gregorian_calendar,18602249]]'
+- '[[_Standards/WikiData/WD~day_of_the_Gregorian_Calendar,73187956|WD~day_of_the_Gregorian_Calendar,73187956]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ewiger%20Kalender%20gregorianisch.png
 inception:
 - 1753-03-01
@@ -220,13 +220,13 @@ inception:
 - 1648
 - 1918-02-14
 instance_of:
-- '[[_Standards/WikiData/WD~solar_calendar,210953]]'
-- '[[_Standards/WikiData/WD~arithmetic_calendar,669102]]'
-- '[[_Standards/WikiData/WD~interval_scale,9337488]]'
-main_regulatory_text: '[[_Standards/WikiData/WD~Inter_gravissimas,766456]]'
-named_after: '[[_Standards/WikiData/WD~Gregory_XIII,83029]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q28088892,28088892]]'
-replaces: '[[_Standards/WikiData/WD~Julian_calendar,11184]]'
+- '[[_Standards/WikiData/WD~solar_calendar,210953|WD~solar_calendar,210953]]'
+- '[[_Standards/WikiData/WD~arithmetic_calendar,669102|WD~arithmetic_calendar,669102]]'
+- '[[_Standards/WikiData/WD~interval_scale,9337488|WD~interval_scale,9337488]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Inter_gravissimas,766456|WD~Inter_gravissimas,766456]]'
+named_after: '[[_Standards/WikiData/WD~Gregory_XIII,83029|WD~Gregory_XIII,83029]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q28088892,28088892|WD~Q28088892,28088892]]'
+replaces: '[[_Standards/WikiData/WD~Julian_calendar,11184|WD~Julian_calendar,11184]]'
 Stack_Exchange_tag: https://stackoverflow.com/tags/gregorian-calendar
 dv_has_:
   name_:
@@ -457,7 +457,7 @@ dv_has_:
 
 #is_/same_as :: [[../../WikiData/WD~Gregorian_calendar,12138|WD~Gregorian_calendar,12138]] 
 
-The new [[Gregorian_Calendar]] better approximates the[[../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Julian_calendar]]], 
+The new [[Gregorian_Calendar]] better approximates the[[../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Julian_calendar|Julian_calendar]]], 
 which accumulated 10 days (11 minutes per year; 1 day every 129 years) 
 between its introduction -0045-01-01 and the reform in 1582-10-15. 
 

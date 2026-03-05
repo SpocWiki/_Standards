@@ -99,7 +99,7 @@ tags:
 - ''
 title: Trump,Donald
 type: private_note
-dv_has_role: '[[../US_President]]'
+dv_has_role: '[[../US_President|US_President]]'
 dv_is_member_of: '[[]]'
 dv_created: 2017-01-20
 dv_cancelled: 2021-01-20
@@ -266,7 +266,7 @@ dv_is_same_as:
 #has_/time_/started :: 
 #has_/time_/stopped  :: 
 
--   [has_role :: [[../US_President]] ]is_member_of = `=this.dv_is_member_of`
+-   [has_role :: [[../US_President|US_President]] ]is_member_of = `=this.dv_is_member_of`
 
 
 `$=JSON.stringify(dv.current(), null) + "-_-_-"`

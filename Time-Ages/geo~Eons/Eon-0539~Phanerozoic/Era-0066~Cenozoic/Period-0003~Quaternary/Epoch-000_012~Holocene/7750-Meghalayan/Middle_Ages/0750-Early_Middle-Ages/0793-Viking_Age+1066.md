@@ -64,17 +64,17 @@ aliases:
 - 바이킹 시대
 has_id_wikidata: Q213649
 part_of:
-- '[[_Standards/WikiData/WD~history_of_Scandinavia,568251]]'
-- '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+- '[[_Standards/WikiData/WD~history_of_Scandinavia,568251|WD~history_of_Scandinavia,568251]]'
+- '[[_Standards/WikiData/WD~history_of_Europe,7787|WD~history_of_Europe,7787]]'
 instance_of:
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-- '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~archaeological_period,15401633|WD~archaeological_period,15401633]]'
 start_time: 0793-01-01T00:00:00Z
 has_time_started: 0793-01
 end_time: 1066-01-01T00:00:00Z
 has_time_stopped: 1066-01
-location: '[[_Standards/WikiData/WD~Northern_Europe,27479]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+location: '[[_Standards/WikiData/WD~Northern_Europe,27479|WD~Northern_Europe,27479]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nicholas%20Roerich%2C%20Guests%20from%20Overseas.jpg
 Commons_category: Viking Age
 dv_is_:

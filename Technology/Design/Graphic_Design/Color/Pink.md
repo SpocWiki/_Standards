@@ -119,15 +119,15 @@ aliases:
 - 분홍
 has_id_wikidata: Q429220
 named_after:
-- '[[_Standards/WikiData/WD~rose,102231]]'
-- '[[_Standards/WikiData/WD~Rosa,34687]]'
-instance_of: '[[_Standards/WikiData/WD~web_color,376346]]'
-different_from: '[[_Standards/WikiData/WD~rose,533047]]'
+- '[[_Standards/WikiData/WD~rose,102231|WD~rose,102231]]'
+- '[[_Standards/WikiData/WD~Rosa,34687|WD~Rosa,34687]]'
+instance_of: '[[_Standards/WikiData/WD~web_color,376346|WD~web_color,376346]]'
+different_from: '[[_Standards/WikiData/WD~rose,533047|WD~rose,533047]]'
 part_of:
-- '[[_Standards/WikiData/WD~shade_of_purple,7460344]]'
-- '[[_Standards/WikiData/WD~shade_of_red,7460345]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Pink,24239857]]'
-subclass_of: '[[_Standards/WikiData/WD~color,1075]]'
+- '[[_Standards/WikiData/WD~shade_of_purple,7460344|WD~shade_of_purple,7460344]]'
+- '[[_Standards/WikiData/WD~shade_of_red,7460345|WD~shade_of_red,7460345]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Pink,24239857|WD~Pink,24239857]]'
+subclass_of: '[[_Standards/WikiData/WD~color,1075|WD~color,1075]]'
 Commons_category: Pink
 OmegaWiki_Defined_Meaning: 158461
 CSS_color_keyword: pink

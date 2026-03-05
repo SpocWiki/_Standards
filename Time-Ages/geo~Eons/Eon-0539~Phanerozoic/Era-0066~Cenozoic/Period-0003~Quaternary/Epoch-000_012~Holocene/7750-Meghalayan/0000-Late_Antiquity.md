@@ -68,10 +68,10 @@ EAGLE_id:
 end_time: http://www.wikidata.org/.well-known/genid/4fb801ba8c9f6c8f6758c284f6b841f2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vergilius%20romanus%20234v.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~culture,11042]]'
-- '[[_Standards/WikiData/WD~archaeological_culture,465299]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Late_antiquity,10968580]]'
+- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
+- '[[_Standards/WikiData/WD~archaeological_culture,465299|WD~archaeological_culture,465299]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Late_antiquity,10968580|WD~Portal_Late_antiquity,10968580]]'
 dv_has_:
   duration_: P500Y
   name_:
@@ -145,7 +145,7 @@ dv_has_:
     zh-sg: 古典时代晚期
     zh-tw: 古典時代晚期
   next_:
-    item: '[[Middle_Ages/0750-Early_Middle-Ages]]'
+    item: '[[Middle_Ages/0750-Early_Middle-Ages|0750-Early_Middle-Ages]]'
   previous_item: '[[Classical_Antiquity]]'
   time_:
     started: 0250-06-01T00:00:00.000+00:53
@@ -165,7 +165,7 @@ dv_has_time_stopped: 0750-06-01
 dv_has_duration_years: 500
 dv_has_duration_: P500Y
 dv_has_previous_item: '[[Classical_Antiquity]]'
-dv_has_next_item: '[[Middle_Ages/0750-Early_Middle-Ages]]'
+dv_has_next_item: '[[Middle_Ages/0750-Early_Middle-Ages|0750-Early_Middle-Ages]]'
 dv_is_same_as:
 - '[[../../../../../../../WikiData/WD~Late_antiquity,217050|WD~Late_antiquity,217050]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity|0000-Late_Antiquity]]'

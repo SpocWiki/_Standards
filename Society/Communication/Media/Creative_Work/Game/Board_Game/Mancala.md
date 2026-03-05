@@ -20,7 +20,7 @@ aliases:
 - 播棋
 - 만칼라
 has_id_wikidata: Q267989
-subclass_of: '[[_Standards/WikiData/WD~board_game,131436]]'
+subclass_of: '[[_Standards/WikiData/WD~board_game,131436|WD~board_game,131436]]'
 Nomenclature_for_Museum_Cataloging: 14223
 Commons_gallery: Mancala
 Commons_category: Mancala

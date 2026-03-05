@@ -6,13 +6,13 @@ aliases:
 - アレキサンダーズ・ラグタイム・バンド
 - 亞歷山大的散拍樂隊
 has_id_wikidata: Q1293813
-performer: '[[_Standards/WikiData/WD~Bessie_Smith,93349]]'
-lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
-composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
-genre: '[[_Standards/WikiData/WD~ragtime,185652]]'
-instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
-form_of_creative_work: '[[_Standards/WikiData/WD~song,7366]]'
+performer: '[[_Standards/WikiData/WD~Bessie_Smith,93349|WD~Bessie_Smith,93349]]'
+lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746|WD~Irving_Berlin,128746]]'
+composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746|WD~Irving_Berlin,128746]]'
+genre: '[[_Standards/WikiData/WD~ragtime,185652|WD~ragtime,185652]]'
+instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609|WD~musical_work_composition,105543609]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~song,7366|WD~song,7366]]'
 ISWC: T-070.007.927-1
 title: Alexander's Ragtime Band
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%27s%20Ragtime%20Band%201.jpeg

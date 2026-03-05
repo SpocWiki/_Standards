@@ -17,27 +17,27 @@ aliases:
 - 门诺·西蒙斯
 - 메노 시몬스
 has_id_wikidata: Q335171
-place_of_burial: '[[_Standards/WikiData/WD~Bad_Oldesloe,155226]]'
-place_of_death: '[[_Standards/WikiData/WD~Bad_Oldesloe,155226]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~anabaptism,165580]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Seventeen_Provinces,330533]]'
-place_of_birth: '[[_Standards/WikiData/WD~Witmarsum,494324]]'
+place_of_burial: '[[_Standards/WikiData/WD~Bad_Oldesloe,155226|WD~Bad_Oldesloe,155226]]'
+place_of_death: '[[_Standards/WikiData/WD~Bad_Oldesloe,155226|WD~Bad_Oldesloe,155226]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~anabaptism,165580|WD~anabaptism,165580]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Seventeen_Provinces,330533|WD~Seventeen_Provinces,330533]]'
+place_of_birth: '[[_Standards/WikiData/WD~Witmarsum,494324|WD~Witmarsum,494324]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208|WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
 occupation:
-- '[[_Standards/WikiData/WD~theologian,1234713]]'
-- '[[_Standards/WikiData/WD~priest,42603]]'
-given_name: '[[_Standards/WikiData/WD~Menno,2551723]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-family_name: '[[_Standards/WikiData/WD~Simons,18327304]]'
+- '[[_Standards/WikiData/WD~theologian,1234713|WD~theologian,1234713]]'
+- '[[_Standards/WikiData/WD~priest,42603|WD~priest,42603]]'
+given_name: '[[_Standards/WikiData/WD~Menno,2551723|WD~Menno,2551723]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Simons,18327304|WD~Simons,18327304]]'
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~Dutch,7411]]'
-- '[[_Standards/WikiData/WD~German,188]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-lifestyle: '[[_Standards/WikiData/WD~mysticism,45996]]'
+- '[[_Standards/WikiData/WD~Dutch,7411|WD~Dutch,7411]]'
+- '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+lifestyle: '[[_Standards/WikiData/WD~mysticism,45996|WD~mysticism,45996]]'
 date_of_death: 1561-02-10T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Meno%20simonis.jpg
 ISNI: 0000000081228605

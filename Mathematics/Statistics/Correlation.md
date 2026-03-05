@@ -60,18 +60,18 @@ aliases:
 - 統計相關
 - 상관 분석
 has_id_wikidata: Q186290
-subclass_of: '[[_Standards/WikiData/WD~relation,930933]]'
+subclass_of: '[[_Standards/WikiData/WD~relation,930933|WD~relation,930933]]'
 part_of:
-- '[[_Standards/WikiData/WD~probability_theory,5862903]]'
-- '[[_Standards/WikiData/WD~statistics,12483]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-different_from: '[[_Standards/WikiData/WD~dependent_variable,9391534]]'
+- '[[_Standards/WikiData/WD~probability_theory,5862903|WD~probability_theory,5862903]]'
+- '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~dependent_variable,9391534|WD~dependent_variable,9391534]]'
 instance_of:
-- '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-- '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-studied_by: '[[_Standards/WikiData/WD~statistics,12483]]'
-facet_of: '[[_Standards/WikiData/WD~statistics,12483]]'
+- '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
+- '[[_Standards/WikiData/WD~type_of_relation,130324710|WD~type_of_relation,130324710]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+studied_by: '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
+facet_of: '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
 Commons_category: Correlation
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Correlation%20examples2.svg
 Stack_Exchange_tag: https://stats.stackexchange.com/tags/correlation
@@ -165,7 +165,7 @@ dv_has_:
 
 # [[Correlation]] 
 
-#is_/worse_than :: [[Correlation/Causality]] 
+#is_/worse_than :: [[Correlation/Causality|Causality]] 
 
 #is_/same_as :: [[../../WikiData/WD~Correlation,186290|WD~Correlation,186290]] 
 

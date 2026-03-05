@@ -62,45 +62,45 @@ aliases:
 - 魔幻王國
 - 나니아 연대기
 has_id_wikidata: Q483412
-illustrator: '[[_Standards/WikiData/WD~Pauline_Baynes,101951]]'
+illustrator: '[[_Standards/WikiData/WD~Pauline_Baynes,101951|WD~Pauline_Baynes,101951]]'
 genre:
-- '[[_Standards/WikiData/WD~fantasy,132311]]'
-- '[[_Standards/WikiData/WD~high_fantasy,326439]]'
-- "[[_Standards/WikiData/WD~children's_fiction,56451354]]"
+- '[[_Standards/WikiData/WD~fantasy,132311|WD~fantasy,132311]]'
+- '[[_Standards/WikiData/WD~high_fantasy,326439|WD~high_fantasy,326439]]'
+- "[[_Standards/WikiData/WD~children's_fiction,56451354|WD~children's_fiction,56451354]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~The_Horse_and_His_Boy,157360]]'
-- '[[_Standards/WikiData/WD~Prince_Caspian,218950]]'
-- '[[_Standards/WikiData/WD~The_Last_Battle,289130]]'
-- '[[_Standards/WikiData/WD~The_Voyage_of_the_Dawn_Treader,331656]]'
-- '[[_Standards/WikiData/WD~The_Silver_Chair,331669]]'
-- "[[_Standards/WikiData/WD~The_Magician's_Nephew,477831]]"
-- '[[_Standards/WikiData/WD~The_Lion,_the_Witch,_and_the_Wardrobe,485093]]'
+- '[[_Standards/WikiData/WD~The_Horse_and_His_Boy,157360|WD~The_Horse_and_His_Boy,157360]]'
+- '[[_Standards/WikiData/WD~Prince_Caspian,218950|WD~Prince_Caspian,218950]]'
+- '[[_Standards/WikiData/WD~The_Last_Battle,289130|WD~The_Last_Battle,289130]]'
+- '[[_Standards/WikiData/WD~The_Voyage_of_the_Dawn_Treader,331656|WD~The_Voyage_of_the_Dawn_Treader,331656]]'
+- '[[_Standards/WikiData/WD~The_Silver_Chair,331669|WD~The_Silver_Chair,331669]]'
+- "[[_Standards/WikiData/WD~The_Magician's_Nephew,477831|WD~The_Magician's_Nephew,477831]]"
+- '[[_Standards/WikiData/WD~The_Lion,_the_Witch,_and_the_Wardrobe,485093|WD~The_Lion,_the_Witch,_and_the_Wardrobe,485093]]'
 depicts:
-- '[[_Standards/WikiData/WD~Platonism,193589]]'
-- '[[_Standards/WikiData/WD~peak_experience,2351257]]'
-main_subject: '[[_Standards/WikiData/WD~bildungsroman,223945]]'
-takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~Narnia_universe,501121]]'
+- '[[_Standards/WikiData/WD~Platonism,193589|WD~Platonism,193589]]'
+- '[[_Standards/WikiData/WD~peak_experience,2351257|WD~peak_experience,2351257]]'
+main_subject: '[[_Standards/WikiData/WD~bildungsroman,223945|WD~bildungsroman,223945]]'
+takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~Narnia_universe,501121|WD~Narnia_universe,501121]]'
 characters:
-- '[[_Standards/WikiData/WD~Edmund_Pevensie,582234]]'
-- '[[_Standards/WikiData/WD~Aslan,762731]]'
-- '[[_Standards/WikiData/WD~Peter_Pevensie,1627590]]'
-- '[[_Standards/WikiData/WD~Susan_Pevensie,1639626]]'
-- '[[_Standards/WikiData/WD~Lucy_Pevensie,1640313]]'
-- '[[_Standards/WikiData/WD~Prince_Caspian,2002477]]'
+- '[[_Standards/WikiData/WD~Edmund_Pevensie,582234|WD~Edmund_Pevensie,582234]]'
+- '[[_Standards/WikiData/WD~Aslan,762731|WD~Aslan,762731]]'
+- '[[_Standards/WikiData/WD~Peter_Pevensie,1627590|WD~Peter_Pevensie,1627590]]'
+- '[[_Standards/WikiData/WD~Susan_Pevensie,1639626|WD~Susan_Pevensie,1639626]]'
+- '[[_Standards/WikiData/WD~Lucy_Pevensie,1640313|WD~Lucy_Pevensie,1640313]]'
+- '[[_Standards/WikiData/WD~Prince_Caspian,2002477|WD~Prince_Caspian,2002477]]'
 instance_of:
-- '[[_Standards/WikiData/WD~heptalogy,614101]]'
-- '[[_Standards/WikiData/WD~novel_series,1667921]]'
-- "[[_Standards/WikiData/WD~children's_book_series,47068459]]"
-set_in_environment: '[[_Standards/WikiData/WD~fictional_country,1145276]]'
-derivative_work: '[[_Standards/WikiData/WD~The_Chronicles_of_Narnia,1211909]]'
-named_after: '[[_Standards/WikiData/WD~Narnia,2886622]]'
-uses: '[[_Standards/WikiData/WD~fantasy_map,5434353]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Narnia,8082961]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Narnia,14615006]]'
-intended_public: '[[_Standards/WikiData/WD~child,7569]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~British_English,7979]]'
-author: '[[_Standards/WikiData/WD~C._S._Lewis,9204]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~heptalogy,614101|WD~heptalogy,614101]]'
+- '[[_Standards/WikiData/WD~novel_series,1667921|WD~novel_series,1667921]]'
+- "[[_Standards/WikiData/WD~children's_book_series,47068459|WD~children's_book_series,47068459]]"
+set_in_environment: '[[_Standards/WikiData/WD~fictional_country,1145276|WD~fictional_country,1145276]]'
+derivative_work: '[[_Standards/WikiData/WD~The_Chronicles_of_Narnia,1211909|WD~The_Chronicles_of_Narnia,1211909]]'
+named_after: '[[_Standards/WikiData/WD~Narnia,2886622|WD~Narnia,2886622]]'
+uses: '[[_Standards/WikiData/WD~fantasy_map,5434353|WD~fantasy_map,5434353]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Narnia,8082961|WD~Template_Narnia,8082961]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Narnia,14615006|WD~Portal_Narnia,14615006]]'
+intended_public: '[[_Standards/WikiData/WD~child,7569|WD~child,7569]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~British_English,7979|WD~British_English,7979]]'
+author: '[[_Standards/WikiData/WD~C._S._Lewis,9204|WD~C._S._Lewis,9204]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 Commons_category: The Chronicles of Narnia
 title: The Chronicles of Narnia
 publication_date: 1950-01-01T00:00:00Z

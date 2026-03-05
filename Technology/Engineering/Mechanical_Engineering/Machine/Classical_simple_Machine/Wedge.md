@@ -75,24 +75,24 @@ aliases:
 - 쐐기
 has_id_wikidata: Q131408
 subclass_of:
-- '[[_Standards/WikiData/WD~simple_machine,186713]]'
-- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
-- '[[_Standards/WikiData/WD~woodworking_tool,11789812]]'
-- '[[_Standards/WikiData/WD~separation_device,115170682]]'
-- '[[_Standards/WikiData/WD~physical_tool,39546]]'
+- '[[_Standards/WikiData/WD~simple_machine,186713|WD~simple_machine,186713]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]'
+- '[[_Standards/WikiData/WD~woodworking_tool,11789812|WD~woodworking_tool,11789812]]'
+- '[[_Standards/WikiData/WD~separation_device,115170682|WD~separation_device,115170682]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]'
 different_from:
-- '[[_Standards/WikiData/WD~Klin,394779]]'
-- '[[_Standards/WikiData/WD~Kil,407084]]'
-- '[[_Standards/WikiData/WD~Wedge,418726]]'
-- '[[_Standards/WikiData/WD~Keil,451364]]'
+- '[[_Standards/WikiData/WD~Klin,394779|WD~Klin,394779]]'
+- '[[_Standards/WikiData/WD~Kil,407084|WD~Kil,407084]]'
+- '[[_Standards/WikiData/WD~Wedge,418726|WD~Wedge,418726]]'
+- '[[_Standards/WikiData/WD~Keil,451364|WD~Keil,451364]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-has_use: '[[_Standards/WikiData/WD~separation,3182649]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-used_by: '[[_Standards/WikiData/WD~lumberman,63346865]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106|WD~Kazakhstan._National_encyclopedia,4208106]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_use: '[[_Standards/WikiData/WD~separation,3182649|WD~separation,3182649]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+used_by: '[[_Standards/WikiData/WD~lumberman,63346865|WD~lumberman,63346865]]'
 Nomenclature_for_Museum_Cataloging: 9241
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wedge-1.jpg
 Iconclass_notation: 47D8(WEDGE)

@@ -84,19 +84,19 @@ aliases:
 - 간첩 행위
 has_id_wikidata: Q165950
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~double_agent,1058375]]'
-- '[[_Standards/WikiData/WD~covert_agent,5179297]]'
-- '[[_Standards/WikiData/WD~spy,9352089]]'
-instance_of: '[[_Standards/WikiData/WD~violation_of_law,1456832]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~information_leak,2904148]]'
-subclass_of: '[[_Standards/WikiData/WD~clandestine_HUMINT,3782242]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Espionage,7419724]]'
+- '[[_Standards/WikiData/WD~double_agent,1058375|WD~double_agent,1058375]]'
+- '[[_Standards/WikiData/WD~covert_agent,5179297|WD~covert_agent,5179297]]'
+- '[[_Standards/WikiData/WD~spy,9352089|WD~spy,9352089]]'
+instance_of: '[[_Standards/WikiData/WD~violation_of_law,1456832|WD~violation_of_law,1456832]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~information_leak,2904148|WD~information_leak,2904148]]'
+subclass_of: '[[_Standards/WikiData/WD~clandestine_HUMINT,3782242|WD~clandestine_HUMINT,3782242]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Espionage,7419724|WD~Template_Espionage,7419724]]'
 described_at_URL: https://wikispooks.com/wiki/Espionage
 IMDb_keyword: espionage
 Wikitribune_category: espionage

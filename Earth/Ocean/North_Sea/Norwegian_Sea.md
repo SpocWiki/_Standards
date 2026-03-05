@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Norwegian_Sea,47545]]'
+  - '[[../../../WikiData/WD~Norwegian_Sea,47545|WD~Norwegian_Sea,47545]]'
   - '[[/_Standards/Earth/Ocean/North_Sea/Norwegian_Sea|Norwegian_Sea]]'
   - '[[/_public/Earth/Ocean/North_Sea/Norwegian_Sea.public|Norwegian_Sea.public]]'
   - '[[/_internal/Earth/Ocean/North_Sea/Norwegian_Sea.internal|Norwegian_Sea.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Ocean/North_Sea/Norwegian_Sea.personal|Norwegian_Sea.personal]]'
   - '[[/_secret/Earth/Ocean/North_Sea/Norwegian_Sea.secret|Norwegian_Sea.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Norwegian_Sea,47545]]'
+- '[[../../../WikiData/WD~Norwegian_Sea,47545|WD~Norwegian_Sea,47545]]'
 - '[[/_Standards/Earth/Ocean/North_Sea/Norwegian_Sea|Norwegian_Sea]]'
 - '[[/_public/Earth/Ocean/North_Sea/Norwegian_Sea.public|Norwegian_Sea.public]]'
 - '[[/_internal/Earth/Ocean/North_Sea/Norwegian_Sea.internal|Norwegian_Sea.internal]]'
@@ -127,27 +127,27 @@ location:
 - 69
 - 0
 coordinate_location: Point(0.0 69.0)
-instance_of: '[[_Standards/WikiData/WD~marginal_sea,204894]]'
+instance_of: '[[_Standards/WikiData/WD~marginal_sea,204894|WD~marginal_sea,204894]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Sognefjord,208495]]'
-- '[[_Standards/WikiData/WD~Trondheimsfjord,279579]]'
-- '[[_Standards/WikiData/WD~Hemnfjorden,829567]]'
-- '[[_Standards/WikiData/WD~Nordfjord,1518524]]'
-- '[[_Standards/WikiData/WD~Storfjorden,3289949]]'
-- '[[_Standards/WikiData/WD~Balsfjorden,3734493]]'
-- '[[_Standards/WikiData/WD~Malangen,15244108]]'
-part_of: '[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134]]'
+- '[[_Standards/WikiData/WD~Sognefjord,208495|WD~Sognefjord,208495]]'
+- '[[_Standards/WikiData/WD~Trondheimsfjord,279579|WD~Trondheimsfjord,279579]]'
+- '[[_Standards/WikiData/WD~Hemnfjorden,829567|WD~Hemnfjorden,829567]]'
+- '[[_Standards/WikiData/WD~Nordfjord,1518524|WD~Nordfjord,1518524]]'
+- '[[_Standards/WikiData/WD~Storfjorden,3289949|WD~Storfjorden,3289949]]'
+- '[[_Standards/WikiData/WD~Balsfjorden,3734493|WD~Balsfjorden,3734493]]'
+- '[[_Standards/WikiData/WD~Malangen,15244108|WD~Malangen,15244108]]'
+part_of: '[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134|WD~North_Atlantic_Ocean,350134]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q35541239,35541239]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 inflows:
-- '[[_Standards/WikiData/WD~Stjørdalselva,1515239]]'
-- '[[_Standards/WikiData/WD~Namsen,1518561]]'
-- '[[_Standards/WikiData/WD~Jökulsá_á_Dal,1715173]]'
-category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q27308459,27308459]]'
-basin_country: '[[_Standards/WikiData/WD~Norway,20]]'
-country: '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~Stjørdalselva,1515239|WD~Stjørdalselva,1515239]]'
+- '[[_Standards/WikiData/WD~Namsen,1518561|WD~Namsen,1518561]]'
+- '[[_Standards/WikiData/WD~Jökulsá_á_Dal,1715173|WD~Jökulsá_á_Dal,1715173]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q27308459,27308459|WD~Q27308459,27308459]]'
+basin_country: '[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]'
+country: '[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]'
 volume_as_quantity: 2000000
 vertical_depth: 3970
 area: 1383000

@@ -53,18 +53,18 @@ aliases:
 - 메카트로닉스
 has_id_wikidata: Q180165
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~control_engineering,4917288]]'
-- '[[_Standards/WikiData/WD~electromechanical_engineering,12176496]]'
-- '[[_Standards/WikiData/WD~control_engineering,_mechatronics_and_robotics,113104535]]'
-- '[[_Standards/WikiData/WD~technology,11016]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9015856,9015856]]'
+- '[[_Standards/WikiData/WD~control_engineering,4917288|WD~control_engineering,4917288]]'
+- '[[_Standards/WikiData/WD~electromechanical_engineering,12176496|WD~electromechanical_engineering,12176496]]'
+- '[[_Standards/WikiData/WD~control_engineering,_mechatronics_and_robotics,113104535|WD~control_engineering,_mechatronics_and_robotics,113104535]]'
+- '[[_Standards/WikiData/WD~technology,11016|WD~technology,11016]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9015856,9015856|WD~Q9015856,9015856]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~mechatronics_technician,15834659]]'
-- '[[_Standards/WikiData/WD~mechatronic_engineer,57065478]]'
+- '[[_Standards/WikiData/WD~mechatronics_technician,15834659|WD~mechatronics_technician,15834659]]'
+- '[[_Standards/WikiData/WD~mechatronic_engineer,57065478|WD~mechatronic_engineer,57065478]]'
 OmegaWiki_Defined_Meaning: 1220472
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Robot%20worker.jpg
 GitHub_topic: mechatronics

@@ -131,53 +131,53 @@ aliases:
 - 건물
 Commons_category: Buildings
 connects_with:
-- '[[_Standards/WikiData/WD~exterior_space,21950738]]'
+- '[[_Standards/WikiData/WD~exterior_space,21950738|WD~exterior_space,21950738]]'
 CPV_Supplementary_code: IA36
 described_at_URL: https://www.whosonfirst.org/docs/placetypes/#building
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 720
 different_from:
-- '[[_Standards/WikiData/WD~fixed_construction,811430]]'
-- '[[_Standards/WikiData/WD~Building,4986439]]'
-- '[[_Standards/WikiData/WD~architecture,12271]]'
+- '[[_Standards/WikiData/WD~fixed_construction,811430|WD~fixed_construction,811430]]'
+- '[[_Standards/WikiData/WD~Building,4986439|WD~Building,4986439]]'
+- '[[_Standards/WikiData/WD~architecture,12271|WD~architecture,12271]]'
 DPLA_subject_term: Buildings
 EntitySchema_for_this_class: E270
 equivalent_class: http://dbpedia.org/ontology/Building
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000073
 GeoNames_feature_code: S.BLDG
 has_characteristic:
-- '[[_Standards/WikiData/WD~building_type,811102]]'
+- '[[_Standards/WikiData/WD~building_type,811102|WD~building_type,811102]]'
 has_id_wikidata: Q41176
 has_part_s_:
-- '[[_Standards/WikiData/WD~roof,83180]]'
-- '[[_Standards/WikiData/WD~balcony,170552]]'
-- '[[_Standards/WikiData/WD~façade,183061]]'
-- '[[_Standards/WikiData/WD~floor,217164]]'
-- '[[_Standards/WikiData/WD~ceiling,221706]]'
-- '[[_Standards/WikiData/WD~basement,234852]]'
-- '[[_Standards/WikiData/WD~storey,831691]]'
-- '[[_Standards/WikiData/WD~wing,1125776]]'
-- '[[_Standards/WikiData/WD~entrance,1137365]]'
-- '[[_Standards/WikiData/WD~interior_space,1299240]]'
-- '[[_Standards/WikiData/WD~ground_floor,2054377]]'
-- '[[_Standards/WikiData/WD~structural_support,16685719]]'
-- '[[_Standards/WikiData/WD~column,4817]]'
-- '[[_Standards/WikiData/WD~stairs,12511]]'
-- '[[_Standards/WikiData/WD~window,35473]]'
-- '[[_Standards/WikiData/WD~door,36794]]'
-- '[[_Standards/WikiData/WD~wall,42948]]'
+- '[[_Standards/WikiData/WD~roof,83180|WD~roof,83180]]'
+- '[[_Standards/WikiData/WD~balcony,170552|WD~balcony,170552]]'
+- '[[_Standards/WikiData/WD~façade,183061|WD~façade,183061]]'
+- '[[_Standards/WikiData/WD~floor,217164|WD~floor,217164]]'
+- '[[_Standards/WikiData/WD~ceiling,221706|WD~ceiling,221706]]'
+- '[[_Standards/WikiData/WD~basement,234852|WD~basement,234852]]'
+- '[[_Standards/WikiData/WD~storey,831691|WD~storey,831691]]'
+- '[[_Standards/WikiData/WD~wing,1125776|WD~wing,1125776]]'
+- '[[_Standards/WikiData/WD~entrance,1137365|WD~entrance,1137365]]'
+- '[[_Standards/WikiData/WD~interior_space,1299240|WD~interior_space,1299240]]'
+- '[[_Standards/WikiData/WD~ground_floor,2054377|WD~ground_floor,2054377]]'
+- '[[_Standards/WikiData/WD~structural_support,16685719|WD~structural_support,16685719]]'
+- '[[_Standards/WikiData/WD~column,4817|WD~column,4817]]'
+- '[[_Standards/WikiData/WD~stairs,12511|WD~stairs,12511]]'
+- '[[_Standards/WikiData/WD~window,35473|WD~window,35473]]'
+- '[[_Standards/WikiData/WD~door,36794|WD~door,36794]]'
+- '[[_Standards/WikiData/WD~wall,42948|WD~wall,42948]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/BSicon%20BUILDING.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lutheran%20Cathedral%20Helsinki.jpg
 Libris_URI: nl021hv61spd5n2
-maintenance_method: '[[_Standards/WikiData/WD~maintenance_of_built_heritage,3055298]]'
+maintenance_method: '[[_Standards/WikiData/WD~maintenance_of_built_heritage,3055298|WD~maintenance_of_built_heritage,3055298]]'
 model_item:
-- '[[_Standards/WikiData/WD~Taj_Mahal,9141]]'
-- '[[_Standards/WikiData/WD~White_House,35525]]'
-- '[[_Standards/WikiData/WD~Sagrada_Família,48435]]'
+- '[[_Standards/WikiData/WD~Taj_Mahal,9141|WD~Taj_Mahal,9141]]'
+- '[[_Standards/WikiData/WD~White_House,35525|WD~White_House,35525]]'
+- '[[_Standards/WikiData/WD~Sagrada_Família,48435|WD~Sagrada_Família,48435]]'
 name_in_kana: けんちくぶつ
 OmegaWiki_Defined_Meaning: 442
 OpenStreetMap_tag_or_key:
@@ -218,9 +218,9 @@ properties_for_this_type:
 - main building contractor
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/BSicon%20BUILDING.svg
 subclass_of:
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_building,5906647]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_building,5906647|WD~Template_Infobox_building,5906647]]'
 UMLS_CUI: C1999269
 U_S_National_Archives_Identifier: 10640473
 Wikidata_property: adjacent building

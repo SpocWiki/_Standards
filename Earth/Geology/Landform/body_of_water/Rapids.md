@@ -61,13 +61,13 @@ aliases:
 - 急流
 - 급류
 has_id_wikidata: Q695793
-different_from: '[[_Standards/WikiData/WD~canyon,150784]]'
-subclass_of: '[[_Standards/WikiData/WD~watercourse,355304]]'
-associated_hazard: '[[_Standards/WikiData/WD~drowning,506616]]'
+different_from: '[[_Standards/WikiData/WD~canyon,150784|WD~canyon,150784]]'
+subclass_of: '[[_Standards/WikiData/WD~watercourse,355304|WD~watercourse,355304]]'
+associated_hazard: '[[_Standards/WikiData/WD~drowning,506616|WD~drowning,506616]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BE%D1%80%D0%BE%D0%B3%20%22%D0%86%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%22%20%D0%BD%D0%B0%20%D1%80.%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%91%D1%83%D0%B3%20%D0%B1%D1%96%D0%BB%D1%8F%20%D1%81.%D0%9C%D0%B8%D0%B3%D1%96%D1%8F.jpg
 GeoNames_feature_code: H.RPDS
 Commons_category: Rapids
@@ -75,7 +75,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Rapids%20of%20Kern%20R
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000034
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Rapids,695793]]'
+  - '[[../../../../WikiData/WD~Rapids,695793|WD~Rapids,695793]]'
   - '[[/_Standards/Earth/Geology/Landform/body_of_water/Rapids|Rapids]]'
   - '[[/_public/Earth/Geology/Landform/body_of_water/Rapids.public|Rapids.public]]'
   - '[[/_internal/Earth/Geology/Landform/body_of_water/Rapids.internal|Rapids.internal]]'
@@ -84,7 +84,7 @@ dv_is_:
   - '[[/_personal/Earth/Geology/Landform/body_of_water/Rapids.personal|Rapids.personal]]'
   - '[[/_secret/Earth/Geology/Landform/body_of_water/Rapids.secret|Rapids.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Rapids,695793]]'
+- '[[../../../../WikiData/WD~Rapids,695793|WD~Rapids,695793]]'
 - '[[/_Standards/Earth/Geology/Landform/body_of_water/Rapids|Rapids]]'
 - '[[/_public/Earth/Geology/Landform/body_of_water/Rapids.public|Rapids.public]]'
 - '[[/_internal/Earth/Geology/Landform/body_of_water/Rapids.internal|Rapids.internal]]'
@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Rapids]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Rapids,695793]] 
+#is_/same_as :: [[../../../../WikiData/WD~Rapids,695793|WD~Rapids,695793]] 
 
 ## #has_/text_of_/abstract 
 

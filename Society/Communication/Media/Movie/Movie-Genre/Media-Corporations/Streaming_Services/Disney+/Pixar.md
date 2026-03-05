@@ -158,7 +158,7 @@ aliases:
 >
 > Pixar started in 1979 as part of the [[Lucasfilm]] computer division. 
 > It was known as the Graphics Group before its spin-off as a corporation in 1986, 
-> with funding from Apple co-founder [[../../../../../../../../Technology/IT/Computer_Hardware/Computer/Jobs,Steve]] who became its majority shareholder. 
+> with funding from Apple co-founder [[../../../../../../../../Technology/IT/Computer_Hardware/Computer/Jobs,Steve|Jobs,Steve]] who became its majority shareholder. 
 > Disney announced its acquisition of Pixar in January 2006, and completed it in May 2006. 
 > 
 > Pixar is best known for its feature films, technologically powered by RenderMan, 
@@ -167,7 +167,7 @@ aliases:
 > The studio's mascot is Luxo Jr., a desk lamp from the studio's 1986 short film of the same name.
 >
 > Pixar has produced 27 feature films, starting with Toy Story (1995), 
-> which is the first fully computer-animated feature film; its most recent film was [[Pixar/Elemental(2023)]]. 
+> which is the first fully computer-animated feature film; its most recent film was [[Pixar/Elemental(2023)|Elemental(2023)]]. 
 > The studio has also produced many short films. As of July 2023, its feature films have earned over $15 billion at the worldwide box office with an average gross of $546.9 million per film. Toy Story 3 (2010), Finding Dory (2016), Incredibles 2 (2018), and Toy Story 4 (2019) all grossed over $1 billion and are among the 50 highest-grossing films of all time. Moreover, 15 of Pixar's films are in the 50 highest-grossing animated films of all time.
 >
 > Pixar has earned 23 Academy Awards, 10 Golden Globe Awards, and 11 Grammy Awards, 

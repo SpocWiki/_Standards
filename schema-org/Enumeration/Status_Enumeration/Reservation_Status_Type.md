@@ -26,7 +26,7 @@ tags:
 title: is_a_reservation_status_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../StatusEnumeration]]"
+  parent_class: "[[../StatusEnumeration|StatusEnumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type|Reservation_Status_Type]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type.personal|Reservation_Status_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type.secret|Reservation_Status_Type.secret]]"
     - "[[Reservation_Status_Type]]"
-dv_has_parent_class: "[[../StatusEnumeration]]"
+dv_has_parent_class: "[[../StatusEnumeration|StatusEnumeration]]"
 dv_is_same_as:
   - "[[Reservation_Status_Type]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type.public|Reservation_Status_Type.public]]"

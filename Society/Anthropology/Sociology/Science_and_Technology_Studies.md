@@ -44,10 +44,10 @@ aliases:
 - 科技研究
 - 과학기술학
 has_id_wikidata: Q2445082
-instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Science_and_technology_studies,15739354]]'
-practiced_by: '[[_Standards/WikiData/WD~Science_and_technology_studies_scholar,117743690]]'
-is_the_study_of: '[[_Standards/WikiData/WD~science_and_technology,34104]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Science_and_technology_studies,15739354|WD~Template_Science_and_technology_studies,15739354]]'
+practiced_by: '[[_Standards/WikiData/WD~Science_and_technology_studies_scholar,117743690|WD~Science_and_technology_studies_scholar,117743690]]'
+is_the_study_of: '[[_Standards/WikiData/WD~science_and_technology,34104|WD~science_and_technology,34104]]'
 Commons_category: Science and technology studies
 dv_has_:
   name_:

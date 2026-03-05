@@ -58,23 +58,23 @@ aliases:
 - 고정 기억 장치
 has_id_wikidata: Q160710
 different_from:
-- '[[_Standards/WikiData/WD~dynamic_random_access_memory,189396]]'
-- '[[_Standards/WikiData/WD~static_random_access_memory,267416]]'
-- '[[_Standards/WikiData/WD~volatile_memory,496533]]'
-- '[[_Standards/WikiData/WD~non_volatile_random_access_memory,499024]]'
-- '[[_Standards/WikiData/WD~write_only_memory,1535598]]'
-- '[[_Standards/WikiData/WD~storage_capacity,2308599]]'
-- '[[_Standards/WikiData/WD~computer_memory,5830907]]'
-- '[[_Standards/WikiData/WD~non_volatile_memory,10997658]]'
-- '[[_Standards/WikiData/WD~volatile_random_access_memory,67420692]]'
-- '[[_Standards/WikiData/WD~random_access_memory,5295]]'
+- '[[_Standards/WikiData/WD~dynamic_random_access_memory,189396|WD~dynamic_random_access_memory,189396]]'
+- '[[_Standards/WikiData/WD~static_random_access_memory,267416|WD~static_random_access_memory,267416]]'
+- '[[_Standards/WikiData/WD~volatile_memory,496533|WD~volatile_memory,496533]]'
+- '[[_Standards/WikiData/WD~non_volatile_random_access_memory,499024|WD~non_volatile_random_access_memory,499024]]'
+- '[[_Standards/WikiData/WD~write_only_memory,1535598|WD~write_only_memory,1535598]]'
+- '[[_Standards/WikiData/WD~storage_capacity,2308599|WD~storage_capacity,2308599]]'
+- '[[_Standards/WikiData/WD~computer_memory,5830907|WD~computer_memory,5830907]]'
+- '[[_Standards/WikiData/WD~non_volatile_memory,10997658|WD~non_volatile_memory,10997658]]'
+- '[[_Standards/WikiData/WD~volatile_random_access_memory,67420692|WD~volatile_random_access_memory,67420692]]'
+- '[[_Standards/WikiData/WD~random_access_memory,5295|WD~random_access_memory,5295]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~recording_medium,193395]]'
-- '[[_Standards/WikiData/WD~non_volatile_memory,10997658]]'
-opposite_of: '[[_Standards/WikiData/WD~write_only_memory,1535598]]'
+- '[[_Standards/WikiData/WD~recording_medium,193395|WD~recording_medium,193395]]'
+- '[[_Standards/WikiData/WD~non_volatile_memory,10997658|WD~non_volatile_memory,10997658]]'
+opposite_of: '[[_Standards/WikiData/WD~write_only_memory,1535598|WD~write_only_memory,1535598]]'
 instance_of:
-- '[[_Standards/WikiData/WD~product_category,63981612]]'
-- '[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976]]'
+- '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
+- '[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976|WD~type_of_computer_memory_or_storage,125005976]]'
 Commons_category: ROM
 short_name:
 - ROM

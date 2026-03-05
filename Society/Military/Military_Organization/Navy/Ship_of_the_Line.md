@@ -53,10 +53,10 @@ aliases:
 - 전열함
 has_id_wikidata: Q207452
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-subclass_of: '[[_Standards/WikiData/WD~warship,2031121]]'
-instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~warship,2031121|WD~warship,2031121]]'
+instance_of: '[[_Standards/WikiData/WD~ship_type,2235308|WD~ship_type,2235308]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vaisseau%20fran%C3%A7ais%20le%20Saint-Esprit%20au%20combat%20en%201782.jpg
 Commons_category: Ships of the line
 dv_has_:

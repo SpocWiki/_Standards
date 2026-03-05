@@ -27,9 +27,9 @@ tags:
 title: is_a_spoken_word_album Class
 type: Type
 dv_has_:
-  parent_class: "[[../MusicAlbumProductionType]]"
+  parent_class: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
 dv_is_:
-  enum_of: "[[../MusicAlbumProductionType]]"
+  enum_of: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album|Spoken_Word_Album]]"
     - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.public|Spoken_Word_Album.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.personal|Spoken_Word_Album.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.secret|Spoken_Word_Album.secret]]"
     - "[[Spoken_Word_Album]]"
-dv_has_parent_class: "[[../MusicAlbumProductionType]]"
-dv_is_enum_of: "[[../MusicAlbumProductionType]]"
+dv_has_parent_class: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
+dv_is_enum_of: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
 dv_is_same_as:
   - "[[Spoken_Word_Album]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.public|Spoken_Word_Album.public]]"

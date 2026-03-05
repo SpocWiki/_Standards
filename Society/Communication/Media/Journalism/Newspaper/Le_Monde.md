@@ -21,37 +21,37 @@ aliases:
 - 르 몽드
 has_id_wikidata: Q12461
 founded_by:
-- '[[_Standards/WikiData/WD~Hubert_Beuve_Méry,84021]]'
-- '[[_Standards/WikiData/WD~Christian_Funck_Brentano,40085534]]'
-- '[[_Standards/WikiData/WD~René_Courtin,115717465]]'
+- '[[_Standards/WikiData/WD~Hubert_Beuve_Méry,84021|WD~Hubert_Beuve_Méry,84021]]'
+- '[[_Standards/WikiData/WD~Christian_Funck_Brentano,40085534|WD~Christian_Funck_Brentano,40085534]]'
+- '[[_Standards/WikiData/WD~René_Courtin,115717465|WD~René_Courtin,115717465]]'
 source_of_income:
-- '[[_Standards/WikiData/WD~subsidy,193219]]'
-- '[[_Standards/WikiData/WD~subscription_business_model,322948]]'
-- '[[_Standards/WikiData/WD~advertising,37038]]'
-political_ideology: '[[_Standards/WikiData/WD~social_liberalism,201712]]'
-replaces: '[[_Standards/WikiData/WD~Le_Temps,639137]]'
-newspaper_format: '[[_Standards/WikiData/WD~Berliner,669935]]'
-political_alignment: '[[_Standards/WikiData/WD~centre_left,737014]]'
+- '[[_Standards/WikiData/WD~subsidy,193219|WD~subsidy,193219]]'
+- '[[_Standards/WikiData/WD~subscription_business_model,322948|WD~subscription_business_model,322948]]'
+- '[[_Standards/WikiData/WD~advertising,37038|WD~advertising,37038]]'
+political_ideology: '[[_Standards/WikiData/WD~social_liberalism,201712|WD~social_liberalism,201712]]'
+replaces: '[[_Standards/WikiData/WD~Le_Temps,639137|WD~Le_Temps,639137]]'
+newspaper_format: '[[_Standards/WikiData/WD~Berliner,669935|WD~Berliner,669935]]'
+political_alignment: '[[_Standards/WikiData/WD~centre_left,737014|WD~centre_left,737014]]'
 instance_of:
-- '[[_Standards/WikiData/WD~daily_newspaper,1110794]]'
-- '[[_Standards/WikiData/WD~online_newspaper,1153191]]'
-headquarters_locations: '[[_Standards/WikiData/WD~avenue_Pierre_Mendès_France,2873810]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~Groupe_Le_Monde,3117473]]'
-editor_in_chief: '[[_Standards/WikiData/WD~Marie_Pierre_Lannelongue,3292217]]'
-industry: '[[_Standards/WikiData/WD~publishing,3972943]]'
-editor: '[[_Standards/WikiData/WD~Jérôme_Fenoglio,17154220]]'
-owner_of: '[[_Standards/WikiData/WD~Les_décodeurs,28649970]]'
-participant_in: '[[_Standards/WikiData/WD~The_Daphne_Project,65118648]]'
-publisher: '[[_Standards/WikiData/WD~Societe_Editrice_Du_Monde,67146272]]'
-award_received: '[[_Standards/WikiData/WD~Golden_visa_for_digital_information_franceinfo,98905185]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~daily_newspaper,1110794|WD~daily_newspaper,1110794]]'
+- '[[_Standards/WikiData/WD~online_newspaper,1153191|WD~online_newspaper,1153191]]'
+headquarters_locations: '[[_Standards/WikiData/WD~avenue_Pierre_Mendès_France,2873810|WD~avenue_Pierre_Mendès_France,2873810]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Groupe_Le_Monde,3117473|WD~Groupe_Le_Monde,3117473]]'
+editor_in_chief: '[[_Standards/WikiData/WD~Marie_Pierre_Lannelongue,3292217|WD~Marie_Pierre_Lannelongue,3292217]]'
+industry: '[[_Standards/WikiData/WD~publishing,3972943|WD~publishing,3972943]]'
+editor: '[[_Standards/WikiData/WD~Jérôme_Fenoglio,17154220|WD~Jérôme_Fenoglio,17154220]]'
+owner_of: '[[_Standards/WikiData/WD~Les_décodeurs,28649970|WD~Les_décodeurs,28649970]]'
+participant_in: '[[_Standards/WikiData/WD~The_Daphne_Project,65118648|WD~The_Daphne_Project,65118648]]'
+publisher: '[[_Standards/WikiData/WD~Societe_Editrice_Du_Monde,67146272|WD~Societe_Editrice_Du_Monde,67146272]]'
+award_received: '[[_Standards/WikiData/WD~Golden_visa_for_digital_information_franceinfo,98905185|WD~Golden_visa_for_digital_information_franceinfo,98905185]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 Wikidata_property:
 - Le Monde ID
 - Le Monde journalist ID
-place_of_publication: '[[_Standards/WikiData/WD~Paris,90]]'
-country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
-country: '[[_Standards/WikiData/WD~France,142]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~French,150]]'
+place_of_publication: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
 publication_interval: 1
 social_media_followers:
 - 1960000

@@ -40,11 +40,11 @@ aliases:
 - 工業邨
 has_id_wikidata: Q1662100
 subclass_of:
-- '[[_Standards/WikiData/WD~industrial_zone,329683]]'
-- '[[_Standards/WikiData/WD~business_park,338313]]'
+- '[[_Standards/WikiData/WD~industrial_zone,329683|WD~industrial_zone,329683]]'
+- '[[_Standards/WikiData/WD~business_park,338313|WD~business_park,338313]]'
 different_from:
-- '[[_Standards/WikiData/WD~industrial_zone,329683]]'
-- '[[_Standards/WikiData/WD~technology_park,1281153]]'
+- '[[_Standards/WikiData/WD~industrial_zone,329683|WD~industrial_zone,329683]]'
+- '[[_Standards/WikiData/WD~technology_park,1281153|WD~technology_park,1281153]]'
 Commons_category: Industrial parks
 dv_has_:
   name_:

@@ -75,16 +75,16 @@ aliases:
 - 러시아 혁명
 has_id_wikidata: Q184928
 participant:
-- '[[_Standards/WikiData/WD~Polish_Socialist_Party,210431]]'
-- '[[_Standards/WikiData/WD~General_Jewish_Labour_Bund_in_Lithuania,_Poland_and_Russia,647460]]'
-- '[[_Standards/WikiData/WD~Social_Democracy_of_the_Kingdom_of_Poland_and_Lithuania,967759]]'
-- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q14626003,14626003]]'
-category_of_associated_people: '[[_Standards/WikiData/WD~Q32496227,32496227]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Polish_Socialist_Party,123137951]]'
-instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
-location: '[[_Standards/WikiData/WD~Russia,159]]'
-country: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~Polish_Socialist_Party,210431|WD~Polish_Socialist_Party,210431]]'
+- '[[_Standards/WikiData/WD~General_Jewish_Labour_Bund_in_Lithuania,_Poland_and_Russia,647460|WD~General_Jewish_Labour_Bund_in_Lithuania,_Poland_and_Russia,647460]]'
+- '[[_Standards/WikiData/WD~Social_Democracy_of_the_Kingdom_of_Poland_and_Lithuania,967759|WD~Social_Democracy_of_the_Kingdom_of_Poland_and_Lithuania,967759]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q14626003,14626003|WD~Q14626003,14626003]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32496227,32496227|WD~Q32496227,32496227]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Polish_Socialist_Party,123137951|WD~Wikiproject_Polish_Socialist_Party,123137951]]'
+instance_of: '[[_Standards/WikiData/WD~revolution,10931|WD~revolution,10931]]'
+location: '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+country: '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Russian%20Revolution%2C%201905%20Q81553.jpg
 Wolfram_Language_entity_code: Entity["MilitaryConflict", "RevolutionOf1905"]
 Krugosvet_article_archived_: gosudarstvo-i-politika/revolyuciya-1905-1907-v-rossii
@@ -94,7 +94,7 @@ point_in_time: 1905-01-22T00:00:00Z
 start_time: 1905-01-22T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Russian_Revolution_of_1905,184928]]'
+  - '[[../../../../../../../../WikiData/WD~Russian_Revolution_of_1905,184928|WD~Russian_Revolution_of_1905,184928]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution|1905-Russian_Revolution]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.public|1905-Russian_Revolution.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.internal|1905-Russian_Revolution.internal]]'
@@ -103,7 +103,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.personal|1905-Russian_Revolution.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.secret|1905-Russian_Revolution.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Russian_Revolution_of_1905,184928]]'
+- '[[../../../../../../../../WikiData/WD~Russian_Revolution_of_1905,184928|WD~Russian_Revolution_of_1905,184928]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution|1905-Russian_Revolution]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.public|1905-Russian_Revolution.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.internal|1905-Russian_Revolution.internal]]'

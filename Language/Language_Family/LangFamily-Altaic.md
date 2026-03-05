@@ -109,26 +109,26 @@ tags:
 - Lang_Family
 type: LangFamily
 linguistic_typology:
-- '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
-- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~agglutinative_language,171263|WD~agglutinative_language,171263]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808|WD~subject_object_verb,539808]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Nostratic,276314]]'
-- '[[_Standards/WikiData/WD~Asian_languages,98791755]]'
+- '[[_Standards/WikiData/WD~Nostratic,276314|WD~Nostratic,276314]]'
+- '[[_Standards/WikiData/WD~Asian_languages,98791755|WD~Asian_languages,98791755]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sprachbund,839463]]'
-- '[[_Standards/WikiData/WD~language_family,25295]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Altaic_languages,6676877]]'
-follows: '[[_Standards/WikiData/WD~Proto_Altaic,20476501]]'
-different_from: '[[_Standards/WikiData/WD~Altai,28176]]'
+- '[[_Standards/WikiData/WD~sprachbund,839463|WD~sprachbund,839463]]'
+- '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Altaic_languages,6676877|WD~Template_Altaic_languages,6676877]]'
+follows: '[[_Standards/WikiData/WD~Proto_Altaic,20476501|WD~Proto_Altaic,20476501]]'
+different_from: '[[_Standards/WikiData/WD~Altai,28176|WD~Altai,28176]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Mongolic,33750]]'
-- '[[_Standards/WikiData/WD~Turkic,34090]]'
-- '[[_Standards/WikiData/WD~Tungusic,34230]]'
+- '[[_Standards/WikiData/WD~Mongolic,33750|WD~Mongolic,33750]]'
+- '[[_Standards/WikiData/WD~Turkic,34090|WD~Turkic,34090]]'
+- '[[_Standards/WikiData/WD~Tungusic,34230|WD~Tungusic,34230]]'
 ISO_639_5_code: tut
 IETF_language_tag: tut
 ISO_639_2_code: tut
@@ -265,7 +265,7 @@ dv_has_:
 
 has_/name::Altaic 
 
-#is_/same_as :: [[../../WikiData/WD~Altaic,37845]] 
+#is_/same_as :: [[../../WikiData/WD~Altaic,37845|WD~Altaic,37845]] 
 
 ## #has_/text_of_/abstract 
 

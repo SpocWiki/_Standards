@@ -159,8 +159,8 @@ dv_has_:
 > His mastery of drawing and verse became deeply influential 
 > for future generations of comic artists and vernacular poets. 
 > 
-> Among many notable influences, The [[Busch,Wilhelm/Katzenjammer_Kids]] 
-> was inspired by Busch's [[Busch,Wilhelm/Max_and_Moritz]]. 
+> Among many notable influences, The [[Busch,Wilhelm/Katzenjammer_Kids|Katzenjammer_Kids]] 
+> was inspired by Busch's [[Busch,Wilhelm/Max_and_Moritz|Max_and_Moritz]]. 
 > 
 > Today, the Wilhelm Busch Prize and the Wilhelm Busch Museum help maintain his legacy. 
 > The 175th anniversary of his birth in 2007 was celebrated throughout Germany. 

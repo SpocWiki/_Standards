@@ -46,10 +46,10 @@ aliases:
 - 선전포고
 has_id_wikidata: Q334516
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-subclass_of: '[[_Standards/WikiData/WD~declaration,2620826]]'
-facet_of: '[[_Standards/WikiData/WD~law_of_war,6833880]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~declaration,2620826|WD~declaration,2620826]]'
+facet_of: '[[_Standards/WikiData/WD~law_of_war,6833880|WD~law_of_war,6833880]]'
 properties_for_this_type:
 - target
 - country

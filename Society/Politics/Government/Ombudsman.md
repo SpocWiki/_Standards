@@ -55,13 +55,13 @@ aliases:
 - 申诉专员
 - 옴부즈만
 has_id_wikidata: Q169180
-subclass_of: '[[_Standards/WikiData/WD~official,599151]]'
+subclass_of: '[[_Standards/WikiData/WD~official,599151|WD~official,599151]]'
 instance_of:
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~organization,43229]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~human_rights_protection,22674784]]'
-different_from: '[[_Standards/WikiData/WD~audience_ombudsman,41202207]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q108109790,108109790]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~human_rights_protection,22674784|WD~human_rights_protection,22674784]]'
+different_from: '[[_Standards/WikiData/WD~audience_ombudsman,41202207|WD~audience_ombudsman,41202207]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q108109790,108109790|WD~Q108109790,108109790]]'
 female_form_of_label:
 - Ombudsfrau
 - амбудзмэнка

@@ -53,16 +53,16 @@ aliases:
 - 裝飾藝術
 - 장식 예술
 has_id_wikidata: Q631931
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~applied_arts,207241]]'
-opposite_of: '[[_Standards/WikiData/WD~fine_art,219625]]'
-subclass_of: '[[_Standards/WikiData/WD~plastic_arts,1078913]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~applied_arts,207241|WD~applied_arts,207241]]'
+opposite_of: '[[_Standards/WikiData/WD~fine_art,219625|WD~fine_art,219625]]'
+subclass_of: '[[_Standards/WikiData/WD~plastic_arts,1078913|WD~plastic_arts,1078913]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_genre,1792379]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-has_goal: '[[_Standards/WikiData/WD~decoration,6149036]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Decorative_arts,19369142]]'
-practiced_by: '[[_Standards/WikiData/WD~decorative_artist,56673616]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+- '[[_Standards/WikiData/WD~art_genre,1792379|WD~art_genre,1792379]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+has_goal: '[[_Standards/WikiData/WD~decoration,6149036|WD~decoration,6149036]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Decorative_arts,19369142|WD~Portal_Decorative_arts,19369142]]'
+practiced_by: '[[_Standards/WikiData/WD~decorative_artist,56673616|WD~decorative_artist,56673616]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806|WD~WikiProject_Craft,110249806]]'
 Dewey_Decimal_Classification: 740
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chinese%20bowel%2C%20Northern%20Sung%20dynesty%2C%2011th%20or%2012th%20century%2C%20porcelaneous%20pottery%20with%20celadon%20glaze%2C%20Honolulu%20Academy%20of%20Arts.jpg
 described_at_URL:
@@ -139,7 +139,7 @@ dv_has_:
 # [[Decorative_Art]] 
 
 #is_/different_from :: [[Fine_Arts]] 
-#is_/same_as :: [[_Standards/WikiData/WD~decorative_art,631931]] 
+#is_/same_as :: [[_Standards/WikiData/WD~decorative_art,631931|WD~decorative_art,631931]] 
 
 ## #has_/text_of_/abstract 
 

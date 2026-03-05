@@ -1,5 +1,5 @@
 ---
-location: '[[_Standards/WikiData/WD~Livadia_Palace,1055311]]'
+location: '[[_Standards/WikiData/WD~Livadia_Palace,1055311|WD~Livadia_Palace,1055311]]'
 aliases:
 - 1945-Yalta Conference
 - 1945-Yalta_Conference
@@ -92,15 +92,15 @@ aliases:
 - 雅爾達會議
 - 얄타 회담
 has_id_wikidata: Q161227
-named_after: '[[_Standards/WikiData/WD~Yalta,128499]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Yalta,128499]]'
-instance_of: '[[_Standards/WikiData/WD~summit,1072326]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+named_after: '[[_Standards/WikiData/WD~Yalta,128499|WD~Yalta,128499]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Yalta,128499|WD~Yalta,128499]]'
+instance_of: '[[_Standards/WikiData/WD~summit,1072326|WD~summit,1072326]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 participant:
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+country: '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
 BHCL_UUID: 89dcebe6-8005-4110-89b3-e8ea2bff7d23
 coordinate_location: Point(34.143333333 44.467777777)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jalta-confer.jpg

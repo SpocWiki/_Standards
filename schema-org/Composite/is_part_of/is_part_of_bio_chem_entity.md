@@ -35,15 +35,15 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/is/part_of/is_part_of_bio_chem_entity.personal|is_part_of_bio_chem_entity.personal]]"
     - "[[/_secret/schema-org/Relation/is/part_of/is_part_of_bio_chem_entity.secret|is_part_of_bio_chem_entity.secret]]"
 dv_has_:
-  domain: "[[../../Class/is_a_/Bio_Chem_Entity]]"
+  domain: "[[../../Class/is_a_/Bio_Chem_Entity|Bio_Chem_Entity]]"
   name: is_part_of_bio_chem_entity
-  range: "[[../../Class/is_a_/Bio_Chem_Entity]]"
-  inverse: "[[../../Relation/has/has_bio_chem_entity_parts]]"
+  range: "[[../../Class/is_a_/Bio_Chem_Entity|Bio_Chem_Entity]]"
+  inverse: "[[../../Relation/has/has_bio_chem_entity_parts|has_bio_chem_entity_parts]]"
 dv_is_part_of: "pending:"
-dv_has_domain: "[[../../Class/is_a_/Bio_Chem_Entity]]"
+dv_has_domain: "[[../../Class/is_a_/Bio_Chem_Entity|Bio_Chem_Entity]]"
 dv_has_name: is_part_of_bio_chem_entity
-dv_has_range: "[[../../Class/is_a_/Bio_Chem_Entity]]"
-dv_has_inverse: "[[../../Relation/has/has_bio_chem_entity_parts]]"
+dv_has_range: "[[../../Class/is_a_/Bio_Chem_Entity|Bio_Chem_Entity]]"
+dv_has_inverse: "[[../../Relation/has/has_bio_chem_entity_parts|has_bio_chem_entity_parts]]"
 dv_is_same_as:
   - "[[is_part_of_bio_chem_entity]]"
   - "[[/_public/schema-org/Relation/is/part_of/is_part_of_bio_chem_entity.public|is_part_of_bio_chem_entity.public]]"
@@ -58,7 +58,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Use it like this: 
 - #is_/part_of_/bio_chem_entity : : [[bio_chem_entity]]  
-- is_/part_of_bio_chem_entity : : [[../../../Class/is_a_thing/bio_chem_entity]] 
+- is_/part_of_bio_chem_entity : : [[../../../Class/is_a_thing/bio_chem_entity|bio_chem_entity]] 
 
 Indicates a BioChemEntity that is (in some sense) a part of this BioChemEntity.
 

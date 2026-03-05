@@ -86,15 +86,15 @@ aliases:
 - ꯂꯩꯕ
 - 실존
 has_id_wikidata: Q468777
-partially_coincident_with: '[[_Standards/WikiData/WD~being,203872]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~being,203872|WD~being,203872]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~being,203872]]'
-- '[[_Standards/WikiData/WD~Daný,13406798]]'
-different_from: '[[_Standards/WikiData/WD~Dasein,404130]]'
-instance_of: '[[_Standards/WikiData/WD~property,937228]]'
-opposite_of: '[[_Standards/WikiData/WD~non_existence,3877969]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q66000008,66000008]]'
-studied_by: '[[_Standards/WikiData/WD~ontology,44325]]'
+- '[[_Standards/WikiData/WD~being,203872|WD~being,203872]]'
+- '[[_Standards/WikiData/WD~Daný,13406798|WD~Daný,13406798]]'
+different_from: '[[_Standards/WikiData/WD~Dasein,404130|WD~Dasein,404130]]'
+instance_of: '[[_Standards/WikiData/WD~property,937228|WD~property,937228]]'
+opposite_of: '[[_Standards/WikiData/WD~non_existence,3877969|WD~non_existence,3877969]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q66000008,66000008|WD~Q66000008,66000008]]'
+studied_by: '[[_Standards/WikiData/WD~ontology,44325|WD~ontology,44325]]'
 OmegaWiki_Defined_Meaning: 1105011
 Iconclass_notation: 51A1
 dv_has_:

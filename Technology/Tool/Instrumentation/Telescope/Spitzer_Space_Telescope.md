@@ -56,33 +56,33 @@ aliases:
 - 斯皮策空间望远镜
 - 스피처 우주망원경
 has_id_wikidata: Q201953
-instance_of: '[[_Standards/WikiData/WD~space_telescope,148578]]'
+instance_of: '[[_Standards/WikiData/WD~space_telescope,148578|WD~space_telescope,148578]]'
 operator:
-- '[[_Standards/WikiData/WD~Jet_Propulsion_Laboratory,189325]]'
-- '[[_Standards/WikiData/WD~Infrared_Processing_and_Analysis_Center,8343709]]'
-named_after: '[[_Standards/WikiData/WD~Lyman_Spitzer,431503]]'
-type_of_orbit: '[[_Standards/WikiData/WD~heliocentric_orbit,737809]]'
+- '[[_Standards/WikiData/WD~Jet_Propulsion_Laboratory,189325|WD~Jet_Propulsion_Laboratory,189325]]'
+- '[[_Standards/WikiData/WD~Infrared_Processing_and_Analysis_Center,8343709|WD~Infrared_Processing_and_Analysis_Center,8343709]]'
+named_after: '[[_Standards/WikiData/WD~Lyman_Spitzer,431503|WD~Lyman_Spitzer,431503]]'
+type_of_orbit: '[[_Standards/WikiData/WD~heliocentric_orbit,737809|WD~heliocentric_orbit,737809]]'
 significant_event:
-- '[[_Standards/WikiData/WD~rocket_launch,797476]]'
-- '[[_Standards/WikiData/WD~depletion,5260663]]'
-- '[[_Standards/WikiData/WD~service_entry,29933828]]'
-- '[[_Standards/WikiData/WD~spacecraft_decommissioning,119055914]]'
+- '[[_Standards/WikiData/WD~rocket_launch,797476|WD~rocket_launch,797476]]'
+- '[[_Standards/WikiData/WD~depletion,5260663|WD~depletion,5260663]]'
+- '[[_Standards/WikiData/WD~service_entry,29933828|WD~service_entry,29933828]]'
+- '[[_Standards/WikiData/WD~spacecraft_decommissioning,119055914|WD~spacecraft_decommissioning,119055914]]'
 manufacturer:
-- '[[_Standards/WikiData/WD~Ball_Aerospace_&_Technologies,805116]]'
-- '[[_Standards/WikiData/WD~Lockheed_Martin_Space,2913694]]'
-- '[[_Standards/WikiData/WD~Goddard_Space_Flight_Center,52152]]'
-part_of: '[[_Standards/WikiData/WD~Great_Observatories_program,901553]]'
-powered_by: '[[_Standards/WikiData/WD~photovoltaic_system,1897785]]'
-start_point: '[[_Standards/WikiData/WD~Cape_Canaveral_Space_Launch_Complex_17B,107256023]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Ball_Aerospace_&_Technologies,805116|WD~Ball_Aerospace_&_Technologies,805116]]'
+- '[[_Standards/WikiData/WD~Lockheed_Martin_Space,2913694|WD~Lockheed_Martin_Space,2913694]]'
+- '[[_Standards/WikiData/WD~Goddard_Space_Flight_Center,52152|WD~Goddard_Space_Flight_Center,52152]]'
+part_of: '[[_Standards/WikiData/WD~Great_Observatories_program,901553|WD~Great_Observatories_program,901553]]'
+powered_by: '[[_Standards/WikiData/WD~photovoltaic_system,1897785|WD~photovoltaic_system,1897785]]'
+start_point: '[[_Standards/WikiData/WD~Cape_Canaveral_Space_Launch_Complex_17B,107256023|WD~Cape_Canaveral_Space_Launch_Complex_17B,107256023]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 diameter: 2.1
 aperture: 0.85
 mass: 950
 focal_length: 10.2
 length: 4.45
-follows: '[[_Standards/WikiData/WD~Chandra_X_ray_Observatory,49002]]'
-space_launch_vehicle: '[[_Standards/WikiData/WD~Delta_II,49538]]'
+follows: '[[_Standards/WikiData/WD~Chandra_X_ray_Observatory,49002|WD~Chandra_X_ray_Observatory,49002]]'
+space_launch_vehicle: '[[_Standards/WikiData/WD~Delta_II,49538|WD~Delta_II,49538]]'
 argument_of_periapsis: 195.8
 periapsis: 1.0028
 semi_major_axis_of_an_orbit: 1.0143

@@ -45,19 +45,19 @@ aliases:
 - 알약
 has_id_wikidata: Q206077
 has_use:
-- '[[_Standards/WikiData/WD~oral_administration,285166]]'
-- '[[_Standards/WikiData/WD~rectal_administration,419892]]'
-- '[[_Standards/WikiData/WD~sublingual_administration,784720]]'
-- '[[_Standards/WikiData/WD~intravaginal_administration,6058566]]'
-- '[[_Standards/WikiData/WD~buccal_administration,16963239]]'
-different_from: '[[_Standards/WikiData/WD~capsule,519410]]'
+- '[[_Standards/WikiData/WD~oral_administration,285166|WD~oral_administration,285166]]'
+- '[[_Standards/WikiData/WD~rectal_administration,419892|WD~rectal_administration,419892]]'
+- '[[_Standards/WikiData/WD~sublingual_administration,784720|WD~sublingual_administration,784720]]'
+- '[[_Standards/WikiData/WD~intravaginal_administration,6058566|WD~intravaginal_administration,6058566]]'
+- '[[_Standards/WikiData/WD~buccal_administration,16963239|WD~buccal_administration,16963239]]'
+different_from: '[[_Standards/WikiData/WD~capsule,519410|WD~capsule,519410]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~dosage_form,718608]]'
-subclass_of: '[[_Standards/WikiData/WD~product,2424752]]'
-has_characteristic: '[[_Standards/WikiData/WD~drug_liberation,5974727]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~dosage_form,718608|WD~dosage_form,718608]]'
+subclass_of: '[[_Standards/WikiData/WD~product,2424752|WD~product,2424752]]'
+has_characteristic: '[[_Standards/WikiData/WD~drug_liberation,5974727|WD~drug_liberation,5974727]]'
 Commons_category: Pills
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Medicines%203.jpg
 UMLS_CUI: C0039225

@@ -75,60 +75,60 @@ aliases:
 - 欧玛尔·海亚姆
 - 오마르 하이얌
 has_id_wikidata: Q35900
-place_of_death: '[[_Standards/WikiData/WD~Nishapur,131350]]'
+place_of_death: '[[_Standards/WikiData/WD~Nishapur,131350|WD~Nishapur,131350]]'
 place_of_birth:
-- '[[_Standards/WikiData/WD~Nishapur,131350]]'
-- '[[_Standards/WikiData/WD~Hira,5953597]]'
+- '[[_Standards/WikiData/WD~Nishapur,131350|WD~Nishapur,131350]]'
+- '[[_Standards/WikiData/WD~Hira,5953597|WD~Hira,5953597]]'
 occupation:
-- '[[_Standards/WikiData/WD~astrologer,155647]]'
-- '[[_Standards/WikiData/WD~physicist,169470]]'
-- '[[_Standards/WikiData/WD~mathematician,170790]]'
-- '[[_Standards/WikiData/WD~musician,639669]]'
-- '[[_Standards/WikiData/WD~lyricist,822146]]'
-- '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- '[[_Standards/WikiData/WD~astronomer,11063]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-- '[[_Standards/WikiData/WD~poet,49757]]'
-genre: "[[_Standards/WikiData/WD~Ruba'i,250090]]"
+- '[[_Standards/WikiData/WD~astrologer,155647|WD~astrologer,155647]]'
+- '[[_Standards/WikiData/WD~physicist,169470|WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790|WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~musician,639669|WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~lyricist,822146|WD~lyricist,822146]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~astronomer,11063|WD~astronomer,11063]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757|WD~poet,49757]]'
+genre: "[[_Standards/WikiData/WD~Ruba'i,250090|WD~Ruba'i,250090]]"
 movement:
-- '[[_Standards/WikiData/WD~Persian_literature,365585]]'
-- '[[_Standards/WikiData/WD~Iranian_philosophy,1187327]]'
+- '[[_Standards/WikiData/WD~Persian_literature,365585|WD~Persian_literature,365585]]'
+- '[[_Standards/WikiData/WD~Iranian_philosophy,1187327|WD~Iranian_philosophy,1187327]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835|WD~Library_of_the_World's_Best_Literature,19098835]]"
 notable_work:
-- '[[_Standards/WikiData/WD~Solar_Hijri_calendar,950135]]'
-- '[[_Standards/WikiData/WD~Rubáiyát_of_Omar_Khayyám,1059358]]'
-doctoral_advisor: '[[_Standards/WikiData/WD~Bahmanyār,1151481]]'
+- '[[_Standards/WikiData/WD~Solar_Hijri_calendar,950135|WD~Solar_Hijri_calendar,950135]]'
+- '[[_Standards/WikiData/WD~Rubáiyát_of_Omar_Khayyám,1059358|WD~Rubáiyát_of_Omar_Khayyám,1059358]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Bahmanyār,1151481|WD~Bahmanyār,1151481]]'
 student:
-- '[[_Standards/WikiData/WD~Nizami_Aruzi,1152795]]'
-- '[[_Standards/WikiData/WD~Al_Khazini,2991836]]'
-- '[[_Standards/WikiData/WD~Al_Isfizari,17984072]]'
-has_works_in_the_collection: '[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Seljuk_Empire,3708094]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-place_of_burial: '[[_Standards/WikiData/WD~Omar_Khayyam_Mausoleum,6794054]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-given_name: '[[_Standards/WikiData/WD~Umar,11955913]]'
-family_name: '[[_Standards/WikiData/WD~Khayyam,21449709]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+- '[[_Standards/WikiData/WD~Nizami_Aruzi,1152795|WD~Nizami_Aruzi,1152795]]'
+- '[[_Standards/WikiData/WD~Al_Khazini,2991836|WD~Al_Khazini,2991836]]'
+- '[[_Standards/WikiData/WD~Al_Isfizari,17984072|WD~Al_Isfizari,17984072]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509|WD~National_Gallery_of_Victoria,1464509]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Seljuk_Empire,3708094|WD~Seljuk_Empire,3708094]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+place_of_burial: '[[_Standards/WikiData/WD~Omar_Khayyam_Mausoleum,6794054|WD~Omar_Khayyam_Mausoleum,6794054]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+given_name: '[[_Standards/WikiData/WD~Umar,11955913|WD~Umar,11955913]]'
+family_name: '[[_Standards/WikiData/WD~Khayyam,21449709|WD~Khayyam,21449709]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 1048-05-24T00:00:00Z
 field_of_work:
-- '[[_Standards/WikiData/WD~mathematics,395]]'
-- '[[_Standards/WikiData/WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~poetry,482|WD~poetry,482]]'
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Islam,432]]'
-- '[[_Standards/WikiData/WD~atheism,7066]]'
+- '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~atheism,7066|WD~atheism,7066]]'
 influenced_by:
-- '[[_Standards/WikiData/WD~Avicenna,8011]]'
-- '[[_Standards/WikiData/WD~Al_Biruni,11826]]'
-writing_language: '[[_Standards/WikiData/WD~Persian,9168]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Persian,9168]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~Avicenna,8011|WD~Avicenna,8011]]'
+- '[[_Standards/WikiData/WD~Al_Biruni,11826|WD~Al_Biruni,11826]]'
+writing_language: '[[_Standards/WikiData/WD~Persian,9168|WD~Persian,9168]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Persian,9168|WD~Persian,9168]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 Google_Doodle:
 - omar-khayyams-964th-birthday
 - omar-khayyams-971st-birthday

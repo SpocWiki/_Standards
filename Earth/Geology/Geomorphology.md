@@ -65,25 +65,25 @@ aliases:
 - 地貌学
 - 지형학
 has_id_wikidata: Q52109
-has_part_s_: '[[_Standards/WikiData/WD~lithosphere,83296]]'
+has_part_s_: '[[_Standards/WikiData/WD~lithosphere,83296|WD~lithosphere,83296]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~terrain,186131]]'
-- '[[_Standards/WikiData/WD~landform,271669]]'
-- '[[_Standards/WikiData/WD~slope,944588]]'
-- "[[_Standards/WikiData/WD~Earth's_surface,1349417]]"
-- '[[_Standards/WikiData/WD~mountain,8502]]'
+- '[[_Standards/WikiData/WD~terrain,186131|WD~terrain,186131]]'
+- '[[_Standards/WikiData/WD~landform,271669|WD~landform,271669]]'
+- '[[_Standards/WikiData/WD~slope,944588|WD~slope,944588]]'
+- "[[_Standards/WikiData/WD~Earth's_surface,1349417|WD~Earth's_surface,1349417]]"
+- '[[_Standards/WikiData/WD~mountain,8502|WD~mountain,8502]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~physical_geography,52107]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~physical_geography,52107|WD~physical_geography,52107]]'
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_geography,19935939]]'
-- '[[_Standards/WikiData/WD~branch_of_geology,87058424]]'
+- '[[_Standards/WikiData/WD~branch_of_geography,19935939|WD~branch_of_geography,19935939]]'
+- '[[_Standards/WikiData/WD~branch_of_geology,87058424|WD~branch_of_geology,87058424]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q20697130,20697130]]'
-practiced_by: '[[_Standards/WikiData/WD~geomorphologist,38053159]]'
-part_of: '[[_Standards/WikiData/WD~geomorphology_and_regolith_and_landscape_evolution,113098300]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q20697130,20697130|WD~Q20697130,20697130]]'
+practiced_by: '[[_Standards/WikiData/WD~geomorphologist,38053159|WD~geomorphologist,38053159]]'
+part_of: '[[_Standards/WikiData/WD~geomorphology_and_regolith_and_landscape_evolution,113098300|WD~geomorphology_and_regolith_and_landscape_evolution,113098300]]'
 OmegaWiki_Defined_Meaning: 1647
 GitHub_topic: geomorphology
 Colon_Classification: U21

@@ -86,9 +86,9 @@ aliases:
 - ꠁꠍꠟꠣꠝꠤ ꠡꠞ꠆ꠘꠎꠥꠉ
 - 이슬람의 황금 시대
 has_id_wikidata: Q745799
-instance_of: '[[_Standards/WikiData/WD~time_interval,186081]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Islam,642379]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+instance_of: '[[_Standards/WikiData/WD~time_interval,186081|WD~time_interval,186081]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Islam,642379|WD~history_of_Islam,642379]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 start_time: 0800-01-01T00:00:00Z
 end_time: 1258-01-01T00:00:00Z
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Pt-Idade%20de%20ouro%20isl%C3%A2mica%20intro.ogg

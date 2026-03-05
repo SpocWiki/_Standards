@@ -86,21 +86,21 @@ aliases:
 - 白堊紀
 - 백악기
 has_id_wikidata: Q44626
-named_after: '[[_Standards/WikiData/WD~chalk,183670]]'
+named_after: '[[_Standards/WikiData/WD~chalk,183670|WD~chalk,183670]]'
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-different_from: '[[_Standards/WikiData/WD~Kreda,616401]]'
-named_by: "[[_Standards/WikiData/WD~Jean_Baptiste_Julien_d'Omalius_d'Halloy,1323652]]"
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~Kreda,616401|WD~Kreda,616401]]'
+named_by: "[[_Standards/WikiData/WD~Jean_Baptiste_Julien_d'Omalius_d'Halloy,1323652|WD~Jean_Baptiste_Julien_d'Omalius_d'Halloy,1323652]]"
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -66000000-06
 Commons_category: Cretaceous
 start_time: -145000000-06
@@ -288,15 +288,15 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 145.0 to 66.0 million years ago. 
 
-![[../../../../../xLarge/Earth/Geology/Earth-105_Ma_(Albian_Age).png]] 
+![[../../../../../xLarge/Earth/Geology/Earth-105_Ma_(Albian_Age).png|Earth-105_Ma_(Albian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 
-> The **Cretaceous** (IPA:  krih-TAY-shəs) is a geological period that lasted from about 145 to 66 million years ago (Mya). It is the third and final period of the [[../Era-0251~Mesozoic]], as well as the longest. At around 79 million years, it is the longest geological period of the entire Phanerozoic. The name is derived from the Latin creta, "chalk", which is abundant in the latter half of the period. It is usually abbreviated K, for its German translation Kreide.
+> The **Cretaceous** (IPA:  krih-TAY-shəs) is a geological period that lasted from about 145 to 66 million years ago (Mya). It is the third and final period of the [[../Era-0251~Mesozoic|Era-0251~Mesozoic]], as well as the longest. At around 79 million years, it is the longest geological period of the entire Phanerozoic. The name is derived from the Latin creta, "chalk", which is abundant in the latter half of the period. It is usually abbreviated K, for its German translation Kreide.
 >
 > The Cretaceous was a period with a relatively warm climate, resulting in high eustatic sea levels that created numerous shallow inland seas. These oceans and seas were populated with now-extinct marine reptiles, ammonites, and rudists, while dinosaurs continued to dominate on land. The world was largely ice-free, although there is some evidence of brief periods of glaciation during the cooler first half, and forests extended to the poles. During this time, new groups of mammals and birds appeared. During the Early Cretaceous, flowering plants appeared and began to rapidly diversify, becoming the dominant group of plants across the Earth by the end of the Cretaceous, coincident with the decline and extinction of previously widespread gymnosperm groups.
 >
-> The Cretaceous (along with the Mesozoic) ended with the Cretaceous–Paleogene extinction event, a large mass extinction in which many groups, including non-avian dinosaurs, pterosaurs, and large marine reptiles, died out, widely thought to have been caused by the impact of a large asteroid that formed the [[Chicxulub-crater]] in the Gulf of Mexico. The end of the Cretaceous is defined by the abrupt Cretaceous–Paleogene boundary (K–Pg boundary), a geologic signature associated with the mass extinction that  lies between the Mesozoic and following [[../Era-0066~Cenozoic]].
+> The Cretaceous (along with the Mesozoic) ended with the Cretaceous–Paleogene extinction event, a large mass extinction in which many groups, including non-avian dinosaurs, pterosaurs, and large marine reptiles, died out, widely thought to have been caused by the impact of a large asteroid that formed the [[Chicxulub-crater]] in the Gulf of Mexico. The end of the Cretaceous is defined by the abrupt Cretaceous–Paleogene boundary (K–Pg boundary), a geologic signature associated with the mass extinction that  lies between the Mesozoic and following [[../Era-0066~Cenozoic|Era-0066~Cenozoic]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cretaceous) 
 

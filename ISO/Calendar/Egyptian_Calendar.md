@@ -50,9 +50,9 @@ aliases:
 - 埃及曆法
 - 이집트력
 has_id_wikidata: Q254101
-different_from: '[[_Standards/WikiData/WD~Coptic_calendar,750430]]'
-instance_of: '[[_Standards/WikiData/WD~calendar,12132]]'
-country: '[[_Standards/WikiData/WD~Egypt,79]]'
+different_from: '[[_Standards/WikiData/WD~Coptic_calendar,750430|WD~Coptic_calendar,750430]]'
+instance_of: '[[_Standards/WikiData/WD~calendar,12132|WD~calendar,12132]]'
+country: '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
 Commons_category: Ancient Egyptian calendar
 dv_has_:
   name_:

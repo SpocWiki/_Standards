@@ -65,14 +65,14 @@ aliases:
 - 경제 활동
 has_id_wikidata: Q8187769
 different_from:
-- '[[_Standards/WikiData/WD~economy,159810]]'
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~economics,8134]]'
+- '[[_Standards/WikiData/WD~economy,159810|WD~economy,159810]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~economics,8134|WD~economics,8134]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~intentional_human_activity,451967]]'
-- '[[_Standards/WikiData/WD~transfer,125506646]]'
-instance_of: '[[_Standards/WikiData/WD~industry_classification,2976602]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~business_activity,19862406]]'
+- '[[_Standards/WikiData/WD~intentional_human_activity,451967|WD~intentional_human_activity,451967]]'
+- '[[_Standards/WikiData/WD~transfer,125506646|WD~transfer,125506646]]'
+instance_of: '[[_Standards/WikiData/WD~industry_classification,2976602|WD~industry_classification,2976602]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~business_activity,19862406|WD~business_activity,19862406]]'
 dv_has_:
   name_:
     af: ekonomiese aktiwiteit
@@ -151,7 +151,7 @@ dv_has_:
 
 # [[Economic_Activity]] 
 
-#is_/same_as :: [[../../WikiData/WD~economic_activity,8187769]] 
+#is_/same_as :: [[../../WikiData/WD~economic_activity,8187769|WD~economic_activity,8187769]] 
 
 ## #has_/text_of_/abstract 
 

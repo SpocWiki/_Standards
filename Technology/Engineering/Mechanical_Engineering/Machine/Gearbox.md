@@ -66,16 +66,16 @@ aliases:
 - 변속기
 has_id_wikidata: Q6497460
 has_part_s_:
-- '[[_Standards/WikiData/WD~traction_mechanism,228460]]'
-- '[[_Standards/WikiData/WD~Friction_drive,513595]]'
-- '[[_Standards/WikiData/WD~linkage,1153014]]'
-- '[[_Standards/WikiData/WD~gear_housing,5529463]]'
+- '[[_Standards/WikiData/WD~traction_mechanism,228460|WD~traction_mechanism,228460]]'
+- '[[_Standards/WikiData/WD~Friction_drive,513595|WD~Friction_drive,513595]]'
+- '[[_Standards/WikiData/WD~linkage,1153014|WD~linkage,1153014]]'
+- '[[_Standards/WikiData/WD~gear_housing,5529463|WD~gear_housing,5529463]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~machine_element,839546]]'
-- '[[_Standards/WikiData/WD~linkage,1153014]]'
-part_of: '[[_Standards/WikiData/WD~drivetrain,1786258]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q11259230,11259230]]'
-different_from: '[[_Standards/WikiData/WD~transmission,16259746]]'
+- '[[_Standards/WikiData/WD~machine_element,839546|WD~machine_element,839546]]'
+- '[[_Standards/WikiData/WD~linkage,1153014|WD~linkage,1153014]]'
+part_of: '[[_Standards/WikiData/WD~drivetrain,1786258|WD~drivetrain,1786258]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q11259230,11259230|WD~Q11259230,11259230]]'
+different_from: '[[_Standards/WikiData/WD~transmission,16259746|WD~transmission,16259746]]'
 Commons_category: Transmissions
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Speed1c.png
 dv_has_:
@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Gearbox]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~gearbox,6497460]] 
+#is_/same_as :: [[_Standards/WikiData/WD~gearbox,6497460|WD~gearbox,6497460]] 
 
 ## #has_/text_of_/abstract 
 

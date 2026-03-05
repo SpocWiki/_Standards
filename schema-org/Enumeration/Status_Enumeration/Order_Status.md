@@ -26,7 +26,7 @@ tags:
 title: is_an_order_status Class
 type: Type
 dv_has_:
-  parent_class: "[[../StatusEnumeration]]"
+  parent_class: "[[../StatusEnumeration|StatusEnumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status|Order_Status]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status.personal|Order_Status.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status.secret|Order_Status.secret]]"
     - "[[Order_Status]]"
-dv_has_parent_class: "[[../StatusEnumeration]]"
+dv_has_parent_class: "[[../StatusEnumeration|StatusEnumeration]]"
 dv_is_same_as:
   - "[[Order_Status]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status.public|Order_Status.public]]"

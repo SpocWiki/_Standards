@@ -37,7 +37,7 @@ dv_is_:
     - "[[Postal_Address]]"
 dv_has_:
   parent_class:
-    - "[[../ContactPoint]]"
+    - "[[../ContactPoint|ContactPoint]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../../Relation/has/has_address_country|has_address_country]]"
@@ -68,7 +68,7 @@ dv_has_:
     - "[[../../../../../Property/Texts/has_telephone|has_telephone]]"
     - "[[../../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../contact_point|../contact_point]]"
+  - "[[../contact_point|../contact_point|contact_point]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../../Relation/has/has_address_country|has_address_country]]"

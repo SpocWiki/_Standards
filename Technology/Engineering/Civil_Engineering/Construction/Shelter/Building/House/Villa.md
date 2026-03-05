@@ -39,15 +39,15 @@ aliases:
 - 빌라
 has_id_wikidata: Q3950
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-- '[[_Standards/WikiData/WD~bourgeois_house,1021106]]'
-- '[[_Standards/WikiData/WD~Villa,14222661]]'
-- '[[_Standards/WikiData/WD~villino,111189432]]'
-has_characteristic: '[[_Standards/WikiData/WD~luxury,10953913]]'
-subclass_of: '[[_Standards/WikiData/WD~house,3947]]'
+- '[[_Standards/WikiData/WD~bourgeois_house,1021106|WD~bourgeois_house,1021106]]'
+- '[[_Standards/WikiData/WD~Villa,14222661|WD~Villa,14222661]]'
+- '[[_Standards/WikiData/WD~villino,111189432|WD~villino,111189432]]'
+has_characteristic: '[[_Standards/WikiData/WD~luxury,10953913|WD~luxury,10953913]]'
+subclass_of: '[[_Standards/WikiData/WD~house,3947|WD~house,3947]]'
 IMDb_keyword: villa
 Iconclass_notation: 41A162
 Commons_category: Villas

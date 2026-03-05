@@ -92,21 +92,21 @@ tags:
 - schema-org/Class
 title: is_an_observation Class
 type: Type
-has_part_s_: '[[_Standards/WikiData/WD~perception,160402]]'
-different_from: '[[_Standards/WikiData/WD~observational_study,818574]]'
+has_part_s_: '[[_Standards/WikiData/WD~perception,160402|WD~perception,160402]]'
+different_from: '[[_Standards/WikiData/WD~observational_study,818574|WD~observational_study,818574]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~activity,1914636]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-has_use: '[[_Standards/WikiData/WD~data_acquisition,1172399]]'
-practiced_by: '[[_Standards/WikiData/WD~observer,28973077]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-subclass_of: '[[_Standards/WikiData/WD~noticing,107339018]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+has_use: '[[_Standards/WikiData/WD~data_acquisition,1172399|WD~data_acquisition,1172399]]'
+practiced_by: '[[_Standards/WikiData/WD~observer,28973077|WD~observer,28973077]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+subclass_of: '[[_Standards/WikiData/WD~noticing,107339018|WD~noticing,107339018]]'
 Commons_category: Observation
 UMLS_CUI: C0302523
 MeSH_tree_code: E05.581.249
 dv_is_:
-  parent_class: '[[../Intangible]]'
+  parent_class: '[[../Intangible|Intangible]]'
   part_of: https://pending.schema.org
   same_as:
   - '[[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]]'
@@ -229,7 +229,7 @@ dv_has_:
   - '[[../Property/has_url_for/has_url|has_url]]'
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-- '[[../Intangible]]'
+- '[[../Intangible|Intangible]]'
 dv_has_properties:
 - '[[../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]'
 - '[[../../../Property/has_name/has_name_alternate|has_name_alternate]]'

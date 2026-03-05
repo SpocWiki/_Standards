@@ -169,29 +169,29 @@ defining_formula: >-
     </semantics>
   </math>
 described_by_source:
-- '[[_Standards/WikiData/WD~IEC_80000-6_2008_Quantities_and_units_Part_6__Electromagnetism,26711936]]'
-- '[[_Standards/WikiData/WD~ISO_80000-7_2008_Quantities_and_units_Part_7__Light,26711937]]'
-- '[[_Standards/WikiData/WD~IEC_80000-6_2022_Quantities_and_units___Part_6__Electromagnetism,117847945]]'
+- '[[_Standards/WikiData/WD~IEC_80000-6_2008_Quantities_and_units_Part_6__Electromagnetism,26711936|WD~IEC_80000-6_2008_Quantities_and_units_Part_6__Electromagnetism,26711936]]'
+- '[[_Standards/WikiData/WD~ISO_80000-7_2008_Quantities_and_units_Part_7__Light,26711937|WD~ISO_80000-7_2008_Quantities_and_units_Part_7__Light,26711937]]'
+- '[[_Standards/WikiData/WD~IEC_80000-6_2022_Quantities_and_units___Part_6__Electromagnetism,117847945|WD~IEC_80000-6_2022_Quantities_and_units___Part_6__Electromagnetism,117847945]]'
 Dewey_Decimal_Classification: 535.24
-different_from: '[[_Standards/WikiData/WD~speed_of_light_in_a_medium,9092845]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Ole_Rømer,160187]]'
+different_from: '[[_Standards/WikiData/WD~speed_of_light_in_a_medium,9092845|WD~speed_of_light_in_a_medium,9092845]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Ole_Rømer,160187|WD~Ole_Rømer,160187]]'
 facet_of:
-- '[[_Standards/WikiData/WD~massless_quantum_particle,2024141]]'
-- '[[_Standards/WikiData/WD~electromagnetism,11406]]'
-- '[[_Standards/WikiData/WD~special_relativity,11455]]'
-- '[[_Standards/WikiData/WD~vacuum,11475]]'
+- '[[_Standards/WikiData/WD~massless_quantum_particle,2024141|WD~massless_quantum_particle,2024141]]'
+- '[[_Standards/WikiData/WD~electromagnetism,11406|WD~electromagnetism,11406]]'
+- '[[_Standards/WikiData/WD~special_relativity,11455|WD~special_relativity,11455]]'
+- '[[_Standards/WikiData/WD~vacuum,11475|WD~vacuum,11475]]'
 IEV_number:
 - 113-01-34
 - 881-04-13
 instance_of:
-- '[[_Standards/WikiData/WD~physical_constant,173227]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~constant,188248]]'
-- '[[_Standards/WikiData/WD~fundamental_limit,4493384]]'
-- '[[_Standards/WikiData/WD~measured_quantity_value,15088658]]'
-- '[[_Standards/WikiData/WD~unit_of_speed,15222637]]'
-- '[[_Standards/WikiData/WD~UCUM_constant,83155724]]'
-- '[[_Standards/WikiData/WD~unit_of_measurement,47574]]'
+- '[[_Standards/WikiData/WD~physical_constant,173227|WD~physical_constant,173227]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~constant,188248|WD~constant,188248]]'
+- '[[_Standards/WikiData/WD~fundamental_limit,4493384|WD~fundamental_limit,4493384]]'
+- '[[_Standards/WikiData/WD~measured_quantity_value,15088658|WD~measured_quantity_value,15088658]]'
+- '[[_Standards/WikiData/WD~unit_of_speed,15222637|WD~unit_of_speed,15222637]]'
+- '[[_Standards/WikiData/WD~UCUM_constant,83155724|WD~UCUM_constant,83155724]]'
+- '[[_Standards/WikiData/WD~unit_of_measurement,47574|WD~unit_of_measurement,47574]]'
 in_defining_formula: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle c_{0}}">
     <semantics>
@@ -235,9 +235,9 @@ ISQ_dimension: >-
     </semantics>
   </math>
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-- '[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~speed,3711325]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~WikiProject_Physics,8487193|WD~WikiProject_Physics,8487193]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~speed,3711325|WD~speed,3711325]]'
 numeric_value: 299792458
 OmegaWiki_Defined_Meaning: 688281
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%B0%20%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%97.wav
@@ -269,8 +269,8 @@ quantity_symbol_LaTeX_:
       <annotation encoding="application/x-tex">{\displaystyle c_{0}}</annotation>
     </semantics>
   </math>
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~metre_per_second,182429]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~speed_of_gravity,319686]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~metre_per_second,182429|WD~metre_per_second,182429]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~speed_of_gravity,319686|WD~speed_of_gravity,319686]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Velocidad%20de%20la%20luz-article-part1.ogg
 UCUM_code: '[c]'
 unit_symbol: c

@@ -28,8 +28,8 @@ title: is_a_return_by_mail Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../ReturnMethodEnumeration]]"
-  enum_of: "[[../ReturnMethodEnumeration]]"
+  parent_class: "[[../ReturnMethodEnumeration|ReturnMethodEnumeration]]"
+  enum_of: "[[../ReturnMethodEnumeration|ReturnMethodEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail|Return_by_Mail]]"
     - "[[/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.public|Return_by_Mail.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.secret|Return_by_Mail.secret]]"
     - "[[Return_by_Mail]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../ReturnMethodEnumeration]]"
-dv_is_enum_of: "[[../ReturnMethodEnumeration]]"
+dv_has_parent_class: "[[../ReturnMethodEnumeration|ReturnMethodEnumeration]]"
+dv_is_enum_of: "[[../ReturnMethodEnumeration|ReturnMethodEnumeration]]"
 dv_is_same_as:
   - "[[Return_by_Mail]]"
   - "[[/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.public|Return_by_Mail.public]]"

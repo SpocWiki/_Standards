@@ -71,9 +71,9 @@ aliases:
 - 中石器時代
 - 중석기 시대
 has_id_wikidata: Q44155
-instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~mesoclitic,108819319]]'
+instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633|WD~archaeological_period,15401633]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~mesoclitic,108819319|WD~mesoclitic,108819319]]'
 start_time: -9000-01-01T00:00:00Z
 BHCL_UUID: 01ac0aec-03f7-4cf9-b232-5c60b05a7baf
 end_time: -5000-01-01T00:00:00Z
@@ -81,7 +81,7 @@ Krugosvet_article_archived_: istoriya/MEZOLIT.html
 Commons_category: Mesolithic
 OpenStreetMap_tag: historic:era=mesolithic
 dv_is_:
-  part_of_: '[[../../Stone-Age]]'
+  part_of_: '[[../../Stone-Age|Stone-Age]]'
   same_as:
   - '[[../../../../../../../WikiData/WD~Mesolithic,44155|WD~Mesolithic,44155]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic|0000-Mesolithic]]'
@@ -199,7 +199,7 @@ dv_has_:
   time_:
     started: -13000
     stopped: -8000
-dv_is_part_of_: '[[../../Stone-Age]]'
+dv_is_part_of_: '[[../../Stone-Age|Stone-Age]]'
 dv_has_time_started: -13000
 dv_has_time_stopped: -8000
 dv_has_duration_years: 5000

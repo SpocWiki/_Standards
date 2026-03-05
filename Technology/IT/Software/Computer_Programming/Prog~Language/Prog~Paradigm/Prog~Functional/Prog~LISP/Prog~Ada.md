@@ -25,43 +25,43 @@ aliases:
 - 에이다
 has_id_wikidata: Q154755
 programming_paradigm:
-- '[[_Standards/WikiData/WD~object_oriented_programming,79872]]'
-- '[[_Standards/WikiData/WD~structured_programming,223335]]'
-- '[[_Standards/WikiData/WD~imperative_programming,275596]]'
-- '[[_Standards/WikiData/WD~multi_paradigm_programming,4306983]]'
+- '[[_Standards/WikiData/WD~object_oriented_programming,79872|WD~object_oriented_programming,79872]]'
+- '[[_Standards/WikiData/WD~structured_programming,223335|WD~structured_programming,223335]]'
+- '[[_Standards/WikiData/WD~imperative_programming,275596|WD~imperative_programming,275596]]'
+- '[[_Standards/WikiData/WD~multi_paradigm_programming,4306983|WD~multi_paradigm_programming,4306983]]'
 influenced_by:
-- '[[_Standards/WikiData/WD~Pascal,81571]]'
-- '[[_Standards/WikiData/WD~Smalltalk,235086]]'
-- '[[_Standards/WikiData/WD~Eiffel,732089]]'
-- '[[_Standards/WikiData/WD~Modula_2,777358]]'
-- '[[_Standards/WikiData/WD~ALGOL_60,1209759]]'
-- '[[_Standards/WikiData/WD~ALGOL_68,2166735]]'
-- '[[_Standards/WikiData/WD~Ada_95,20665104]]'
-- '[[_Standards/WikiData/WD~Green,28942656]]'
-- '[[_Standards/WikiData/WD~Q2407,2407]]'
-- '[[_Standards/WikiData/WD~Java,251]]'
+- '[[_Standards/WikiData/WD~Pascal,81571|WD~Pascal,81571]]'
+- '[[_Standards/WikiData/WD~Smalltalk,235086|WD~Smalltalk,235086]]'
+- '[[_Standards/WikiData/WD~Eiffel,732089|WD~Eiffel,732089]]'
+- '[[_Standards/WikiData/WD~Modula_2,777358|WD~Modula_2,777358]]'
+- '[[_Standards/WikiData/WD~ALGOL_60,1209759|WD~ALGOL_60,1209759]]'
+- '[[_Standards/WikiData/WD~ALGOL_68,2166735|WD~ALGOL_68,2166735]]'
+- '[[_Standards/WikiData/WD~Ada_95,20665104|WD~Ada_95,20665104]]'
+- '[[_Standards/WikiData/WD~Green,28942656|WD~Green,28942656]]'
+- '[[_Standards/WikiData/WD~Q2407,2407|WD~Q2407,2407]]'
+- '[[_Standards/WikiData/WD~Java,251|WD~Java,251]]'
 designed_by:
-- '[[_Standards/WikiData/WD~Jean_Ichbiah,92853]]'
-- '[[_Standards/WikiData/WD~S._Tucker_Taft,20898521]]'
+- '[[_Standards/WikiData/WD~Jean_Ichbiah,92853|WD~Jean_Ichbiah,92853]]'
+- '[[_Standards/WikiData/WD~S._Tucker_Taft,20898521|WD~S._Tucker_Taft,20898521]]'
 developer:
-- '[[_Standards/WikiData/WD~Jean_Ichbiah,92853]]'
-- '[[_Standards/WikiData/WD~S._Tucker_Taft,20898521]]'
-different_from: '[[_Standards/WikiData/WD~Ada,154614]]'
+- '[[_Standards/WikiData/WD~Jean_Ichbiah,92853|WD~Jean_Ichbiah,92853]]'
+- '[[_Standards/WikiData/WD~S._Tucker_Taft,20898521|WD~S._Tucker_Taft,20898521]]'
+different_from: '[[_Standards/WikiData/WD~Ada,154614|WD~Ada,154614]]'
 typing_discipline:
-- '[[_Standards/WikiData/WD~safe_typing,736866]]'
-- '[[_Standards/WikiData/WD~strong_typing,991202]]'
-- '[[_Standards/WikiData/WD~static_typing,1940914]]'
-- '[[_Standards/WikiData/WD~nominative_typing,3509459]]'
+- '[[_Standards/WikiData/WD~safe_typing,736866|WD~safe_typing,736866]]'
+- '[[_Standards/WikiData/WD~strong_typing,991202|WD~strong_typing,991202]]'
+- '[[_Standards/WikiData/WD~static_typing,1940914|WD~static_typing,1940914]]'
+- '[[_Standards/WikiData/WD~nominative_typing,3509459|WD~nominative_typing,3509459]]'
 instance_of:
-- '[[_Standards/WikiData/WD~object_based_language,899523]]'
-- '[[_Standards/WikiData/WD~wide_spectrum_language,7998546]]'
-- '[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052]]'
-- '[[_Standards/WikiData/WD~imperative_programming_language,21562092]]'
-- '[[_Standards/WikiData/WD~programming_language,9143]]'
-derivative_work: '[[_Standards/WikiData/WD~PL_pgSQL,2044345]]'
-dialect_of_computer_language: '[[_Standards/WikiData/WD~SPARK,3493345]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_IEC_8652,5974102]]'
-named_after: '[[_Standards/WikiData/WD~Ada_Lovelace,7259]]'
+- '[[_Standards/WikiData/WD~object_based_language,899523|WD~object_based_language,899523]]'
+- '[[_Standards/WikiData/WD~wide_spectrum_language,7998546|WD~wide_spectrum_language,7998546]]'
+- '[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052|WD~multi_paradigm_programming_language,12772052]]'
+- '[[_Standards/WikiData/WD~imperative_programming_language,21562092|WD~imperative_programming_language,21562092]]'
+- '[[_Standards/WikiData/WD~programming_language,9143|WD~programming_language,9143]]'
+derivative_work: '[[_Standards/WikiData/WD~PL_pgSQL,2044345|WD~PL_pgSQL,2044345]]'
+dialect_of_computer_language: '[[_Standards/WikiData/WD~SPARK,3493345|WD~SPARK,3493345]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_IEC_8652,5974102|WD~ISO_IEC_8652,5974102]]'
+named_after: '[[_Standards/WikiData/WD~Ada_Lovelace,7259|WD~Ada_Lovelace,7259]]'
 GitHub_topic: ada
 subreddit: ada
 Debian_Wiki_article: Ada
@@ -119,7 +119,7 @@ dv_has_:
 #has_/creator ::  [[Jean_Ichbiah]] 
 #has_/time_/started :: 1980-02-01 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Ada,154755]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Ada,154755|WD~Ada,154755]] 
 
 ## #has_/text_of_/abstract 
 

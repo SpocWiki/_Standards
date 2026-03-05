@@ -62,13 +62,13 @@ aliases:
 - 저작권 침해
 has_id_wikidata: Q647578
 different_from:
-- '[[_Standards/WikiData/WD~plagiarism,164666]]'
-- '[[_Standards/WikiData/WD~intellectual_property_infringement,16963602]]'
-- '[[_Standards/WikiData/WD~sea_piracy,45393]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~plagiarism,164666]]'
+- '[[_Standards/WikiData/WD~plagiarism,164666|WD~plagiarism,164666]]'
+- '[[_Standards/WikiData/WD~intellectual_property_infringement,16963602|WD~intellectual_property_infringement,16963602]]'
+- '[[_Standards/WikiData/WD~sea_piracy,45393|WD~sea_piracy,45393]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~plagiarism,164666|WD~plagiarism,164666]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~contravention,2995853]]'
-- '[[_Standards/WikiData/WD~intellectual_property_infringement,16963602]]'
+- '[[_Standards/WikiData/WD~contravention,2995853|WD~contravention,2995853]]'
+- '[[_Standards/WikiData/WD~intellectual_property_infringement,16963602|WD~intellectual_property_infringement,16963602]]'
 Library_of_Congress_Classification: K1485
 social_media_followers: 1154601
 subreddit: Piracy

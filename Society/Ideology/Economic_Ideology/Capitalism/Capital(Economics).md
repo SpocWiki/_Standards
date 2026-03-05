@@ -69,20 +69,20 @@ aliases:
 - 자본
 has_id_wikidata: Q8137
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~resource,1554231]]'
-- '[[_Standards/WikiData/WD~instrumental_value,3736009]]'
+- '[[_Standards/WikiData/WD~resource,1554231|WD~resource,1554231]]'
+- '[[_Standards/WikiData/WD~instrumental_value,3736009|WD~instrumental_value,3736009]]'
 different_from:
-- '[[_Standards/WikiData/WD~financial_capital,1897397]]'
-- '[[_Standards/WikiData/WD~capital,3916071]]'
-instance_of: '[[_Standards/WikiData/WD~economic_concept,29028649]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Types_of_capital,43143684]]'
+- '[[_Standards/WikiData/WD~financial_capital,1897397|WD~financial_capital,1897397]]'
+- '[[_Standards/WikiData/WD~capital,3916071|WD~capital,3916071]]'
+instance_of: '[[_Standards/WikiData/WD~economic_concept,29028649|WD~economic_concept,29028649]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Types_of_capital,43143684|WD~Template_Types_of_capital,43143684]]'
 U_S_National_Archives_Identifier: 10637733
 P8189: 987007283347705171
 Commons_category: Capital (economics)

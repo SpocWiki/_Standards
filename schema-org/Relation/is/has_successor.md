@@ -35,7 +35,7 @@ dv_has_:
   name: has_successor
   range: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]"
 dv_is_:
-  similar_to: "[[../has/has_next_item]]"
+  similar_to: "[[../has/has_next_item|has_next_item]]"
   same_as:
     - "[[has_successor]]"
     - "[[/_public/schema-org/Relation/is/has_successor.public|has_successor.public]]"
@@ -48,7 +48,7 @@ dv_has_inverse: "[[has_predecessor]]"
 dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]"
 dv_has_name: has_successor
 dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]"
-dv_is_similar_to: "[[../has/has_next_item]]"
+dv_is_similar_to: "[[../has/has_next_item|has_next_item]]"
 dv_is_same_as:
   - "[[has_successor]]"
   - "[[/_public/schema-org/Relation/is/has_successor.public|has_successor.public]]"

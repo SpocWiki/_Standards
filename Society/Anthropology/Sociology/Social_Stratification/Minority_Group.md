@@ -75,19 +75,19 @@ aliases:
 - 소수 집단
 has_id_wikidata: Q30103
 studied_by:
-- '[[_Standards/WikiData/WD~African_American_studies,383968]]'
-- '[[_Standards/WikiData/WD~sociology,21201]]'
-- '[[_Standards/WikiData/WD~demography,37732]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9022198,9022198]]'
+- '[[_Standards/WikiData/WD~African_American_studies,383968|WD~African_American_studies,383968]]'
+- '[[_Standards/WikiData/WD~sociology,21201|WD~sociology,21201]]'
+- '[[_Standards/WikiData/WD~demography,37732|WD~demography,37732]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9022198,9022198|WD~Q9022198,9022198]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-- '[[_Standards/WikiData/WD~Wikidata_WikiProject_Systemic_Racism_Knowledge_Graph,120754096]]'
-subclass_of: '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Minorities,19902900]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~minority,23541369]]'
-has_characteristic: '[[_Standards/WikiData/WD~minority,113680701]]'
-has_part_s_: '[[_Standards/WikiData/WD~minorities_in_Islam,131763278]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~Wikidata_WikiProject_Systemic_Racism_Knowledge_Graph,120754096|WD~Wikidata_WikiProject_Systemic_Racism_Knowledge_Graph,120754096]]'
+subclass_of: '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Minorities,19902900|WD~Portal_Minorities,19902900]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~minority,23541369|WD~minority,23541369]]'
+has_characteristic: '[[_Standards/WikiData/WD~minority,113680701|WD~minority,113680701]]'
+has_part_s_: '[[_Standards/WikiData/WD~minorities_in_Islam,131763278|WD~minorities_in_Islam,131763278]]'
 U_S_National_Archives_Identifier: 10642729
 Commons_category: Minorities
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Minderheit.ogg

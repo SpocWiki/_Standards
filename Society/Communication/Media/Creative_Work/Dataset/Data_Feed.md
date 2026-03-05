@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A single feed providing structured information about one or more entities or topics.
 
-#has_/parent_class :: [[../Dataset]]  
+#has_/parent_class :: [[../Dataset|Dataset]]  
 
 #has_/child_/class :: [ CompleteDataFeed ]  
 

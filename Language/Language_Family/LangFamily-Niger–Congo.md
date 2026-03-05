@@ -107,15 +107,15 @@ has_id_wikidata: Q33838
 tags:
 - Lang_Family
 type: LangFamily
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Niger_Kordofanian,3410697]]'
-subclass_of: '[[_Standards/WikiData/WD~human_language,20162172]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Niger_Kordofanian,3410697|WD~Niger_Kordofanian,3410697]]'
+subclass_of: '[[_Standards/WikiData/WD~human_language,20162172|WD~human_language,20162172]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Narrow_Bantu_languages_(Zones_A_B),124651445]]'
-- '[[_Standards/WikiData/WD~Template_Narrow_Bantu_languages_(Zones_C_D),124651453]]'
-- '[[_Standards/WikiData/WD~Template_Narrow_Bantu_languages_(Zones_E_H),124651462]]'
-- '[[_Standards/WikiData/WD~Template_Narrow_Bantu_languages_(Zones_J_M),124651478]]'
-- '[[_Standards/WikiData/WD~Template_Narrow_Bantu_languages_(Zones_N_S),124651482]]'
-instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+- '[[_Standards/WikiData/WD~Template_Narrow_Bantu_languages_(Zones_A_B),124651445|WD~Template_Narrow_Bantu_languages_(Zones_A_B),124651445]]'
+- '[[_Standards/WikiData/WD~Template_Narrow_Bantu_languages_(Zones_C_D),124651453|WD~Template_Narrow_Bantu_languages_(Zones_C_D),124651453]]'
+- '[[_Standards/WikiData/WD~Template_Narrow_Bantu_languages_(Zones_E_H),124651462|WD~Template_Narrow_Bantu_languages_(Zones_E_H),124651462]]'
+- '[[_Standards/WikiData/WD~Template_Narrow_Bantu_languages_(Zones_J_M),124651478|WD~Template_Narrow_Bantu_languages_(Zones_J_M),124651478]]'
+- '[[_Standards/WikiData/WD~Template_Narrow_Bantu_languages_(Zones_N_S),124651482|WD~Template_Narrow_Bantu_languages_(Zones_N_S),124651482]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
 Dewey_Decimal_Classification: 496.3
 OmegaWiki_Defined_Meaning: 1393439
 ISO_639_5_code: nic

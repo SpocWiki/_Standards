@@ -70,21 +70,21 @@ aliases:
 - 資料儲存
 - 데이터 스토리지
 has_id_wikidata: Q193395
-has_use: '[[_Standards/WikiData/WD~computer_storage_media,66221]]'
+has_use: '[[_Standards/WikiData/WD~computer_storage_media,66221|WD~computer_storage_media,66221]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~communications_media,340169]]'
-- '[[_Standards/WikiData/WD~data_storage_medium,15141646]]'
+- '[[_Standards/WikiData/WD~communications_media,340169|WD~communications_media,340169]]'
+- '[[_Standards/WikiData/WD~data_storage_medium,15141646|WD~data_storage_medium,15141646]]'
 used_by:
-- '[[_Standards/WikiData/WD~magnetic_recording,5883838]]'
-- '[[_Standards/WikiData/WD~magneto_optical_recording,56822811]]'
-- '[[_Standards/WikiData/WD~data_storage,57515336]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_storage_medium,7217704]]'
-different_from: '[[_Standards/WikiData/WD~data_storage_medium,15141646]]'
-instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
+- '[[_Standards/WikiData/WD~magnetic_recording,5883838|WD~magnetic_recording,5883838]]'
+- '[[_Standards/WikiData/WD~magneto_optical_recording,56822811|WD~magneto_optical_recording,56822811]]'
+- '[[_Standards/WikiData/WD~data_storage,57515336|WD~data_storage,57515336]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_storage_medium,7217704|WD~Template_Infobox_storage_medium,7217704]]'
+different_from: '[[_Standards/WikiData/WD~data_storage_medium,15141646|WD~data_storage_medium,15141646]]'
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
 part_of:
-- '[[_Standards/WikiData/WD~drive,64817736]]'
-- '[[_Standards/WikiData/WD~removable_media,37768]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~drive,64817736|WD~drive,64817736]]'
+- '[[_Standards/WikiData/WD~removable_media,37768|WD~removable_media,37768]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 Wikidata_property: storage device
 IAB_code: 616
 Commons_category: Data storage

@@ -117,10 +117,10 @@ dv_has_:
 > **Jurassic World** is a 2015 American science fiction action film directed by Colin Trevorrow, 
 > who co-wrote the screenplay with Rick Jaffa, Amanda Silver, and Derek Connolly from a story by Jaffa and Silver. 
 > It is the first installment in the Jurassic World series 
-> and the fourth installment overall in the [[../../Movie-Genre/SF-Movie/Jurassic_Park]] film series, following Jurassic Park III (2001). 
+> and the fourth installment overall in the [[../../Movie-Genre/SF-Movie/Jurassic_Park|Jurassic_Park]] film series, following Jurassic Park III (2001). 
 > The film stars [[Pratt,Chris]], [[Howard,Bryce_Dallas|Bryce Dallas Howard]], Vincent D'Onofrio, Ty Simpkins, Nick Robinson, Omar Sy, BD Wong, and Irrfan Khan. Wong reprised his role from the original Jurassic Park film. 
 > 
-> Set 22 years after the events of [[../../Movie-Genre/SF-Movie/Jurassic_Park]], Jurassic World takes place on the same fictional island of Isla Nublar, 
+> Set 22 years after the events of [[../../Movie-Genre/SF-Movie/Jurassic_Park|Jurassic_Park]], Jurassic World takes place on the same fictional island of Isla Nublar, 
 > located off the Pacific coast of Costa Rica. 
 > A successful theme park of cloned dinosaurs, dubbed Jurassic World,  has operated on the island for years, 
 > bringing John Hammond's dream to fruition. 

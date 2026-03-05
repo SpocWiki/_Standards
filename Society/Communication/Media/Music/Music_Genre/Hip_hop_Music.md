@@ -74,22 +74,22 @@ aliases:
 - 嘻哈音樂
 - 힙합 음악
 has_id_wikidata: Q11401
-instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
 significant_person:
-- '[[_Standards/WikiData/WD~Afrika_Bambaataa,316872]]'
-- '[[_Standards/WikiData/WD~DJ_Kool_Herc,458787]]'
-- '[[_Standards/WikiData/WD~Grandmaster_Flash,506900]]'
-subclass_of: '[[_Standards/WikiData/WD~popular_music,373342]]'
-based_on: '[[_Standards/WikiData/WD~African_American_music,388207]]'
+- '[[_Standards/WikiData/WD~Afrika_Bambaataa,316872|WD~Afrika_Bambaataa,316872]]'
+- '[[_Standards/WikiData/WD~DJ_Kool_Herc,458787|WD~DJ_Kool_Herc,458787]]'
+- '[[_Standards/WikiData/WD~Grandmaster_Flash,506900|WD~Grandmaster_Flash,506900]]'
+subclass_of: '[[_Standards/WikiData/WD~popular_music,373342|WD~popular_music,373342]]'
+based_on: '[[_Standards/WikiData/WD~African_American_music,388207|WD~African_American_music,388207]]'
 different_from:
-- '[[_Standards/WikiData/WD~hip_hop_culture,1132127]]'
-- '[[_Standards/WikiData/WD~rapping,6010]]'
-part_of: '[[_Standards/WikiData/WD~hip_hop_culture,1132127]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hip_hop,8289286]]'
-practiced_by: '[[_Standards/WikiData/WD~hip_hop_musician,100493654]]'
-described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
-has_part_s_: '[[_Standards/WikiData/WD~rapping,6010]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~hip_hop_culture,1132127|WD~hip_hop_culture,1132127]]'
+- '[[_Standards/WikiData/WD~rapping,6010|WD~rapping,6010]]'
+part_of: '[[_Standards/WikiData/WD~hip_hop_culture,1132127|WD~hip_hop_culture,1132127]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hip_hop,8289286|WD~Portal_Hip_hop,8289286]]'
+practiced_by: '[[_Standards/WikiData/WD~hip_hop_musician,100493654|WD~hip_hop_musician,100493654]]'
+described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149|WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
+has_part_s_: '[[_Standards/WikiData/WD~rapping,6010|WD~rapping,6010]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 IAB_code: 355
 OmegaWiki_Defined_Meaning: 7538
 inception: 1973-08-11T00:00:00Z

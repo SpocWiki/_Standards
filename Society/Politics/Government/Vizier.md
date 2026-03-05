@@ -50,19 +50,19 @@ aliases:
 - 维齐尔
 - 와지르
 has_id_wikidata: Q175240
-subclass_of: '[[_Standards/WikiData/WD~minister,83307]]'
+subclass_of: '[[_Standards/WikiData/WD~minister,83307|WD~minister,83307]]'
 instance_of:
-- '[[_Standards/WikiData/WD~noble_title,355567]]'
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~historical_position,114962596]]'
+- '[[_Standards/WikiData/WD~noble_title,355567|WD~noble_title,355567]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~historical_position,114962596|WD~historical_position,114962596]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Vizier,932438]]'
-country: '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Vizier,932438|WD~Vizier,932438]]'
+country: '[[_Standards/WikiData/WD~Ottoman_Empire,12560|WD~Ottoman_Empire,12560]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q175240-ar.ogg
 dv_has_:
   name_:

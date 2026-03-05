@@ -45,18 +45,18 @@ aliases:
 - 종상 화산
 has_id_wikidata: Q534282
 different_from:
-- '[[_Standards/WikiData/WD~volcanic_plug,653139]]'
-- '[[_Standards/WikiData/WD~Lava_spine,718569]]'
+- '[[_Standards/WikiData/WD~volcanic_plug,653139|WD~volcanic_plug,653139]]'
+- '[[_Standards/WikiData/WD~Lava_spine,718569|WD~Lava_spine,718569]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~dome,3236743]]'
-- '[[_Standards/WikiData/WD~volcanic_landform,29025902]]'
-- '[[_Standards/WikiData/WD~volcano,8072]]'
-part_of: '[[_Standards/WikiData/WD~volcano,8072]]'
+- '[[_Standards/WikiData/WD~dome,3236743|WD~dome,3236743]]'
+- '[[_Standards/WikiData/WD~volcanic_landform,29025902|WD~volcanic_landform,29025902]]'
+- '[[_Standards/WikiData/WD~volcano,8072|WD~volcano,8072]]'
+part_of: '[[_Standards/WikiData/WD~volcano,8072|WD~volcano,8072]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Volc%C3%A1n%20Chait%C3%A9n-Sam%20Beebe-Ecotrust.jpg
 Commons_category: Lava domes
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Lava_dome,534282]]'
+  - '[[../../../WikiData/WD~Lava_dome,534282|WD~Lava_dome,534282]]'
   - '[[/_Standards/Earth/Geology/Landform/Lava_Dome|Lava_Dome]]'
   - '[[/_public/Earth/Geology/Landform/Lava_Dome.public|Lava_Dome.public]]'
   - '[[/_internal/Earth/Geology/Landform/Lava_Dome.internal|Lava_Dome.internal]]'
@@ -65,7 +65,7 @@ dv_is_:
   - '[[/_personal/Earth/Geology/Landform/Lava_Dome.personal|Lava_Dome.personal]]'
   - '[[/_secret/Earth/Geology/Landform/Lava_Dome.secret|Lava_Dome.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Lava_dome,534282]]'
+- '[[../../../WikiData/WD~Lava_dome,534282|WD~Lava_dome,534282]]'
 - '[[/_Standards/Earth/Geology/Landform/Lava_Dome|Lava_Dome]]'
 - '[[/_public/Earth/Geology/Landform/Lava_Dome.public|Lava_Dome.public]]'
 - '[[/_internal/Earth/Geology/Landform/Lava_Dome.internal|Lava_Dome.internal]]'

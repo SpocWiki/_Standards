@@ -54,26 +54,26 @@ aliases:
 - 经线
 - 경선
 has_id_wikidata: Q32099
-different_from: '[[_Standards/WikiData/WD~north_south_running_great_circle,145519]]'
+different_from: '[[_Standards/WikiData/WD~north_south_running_great_circle,145519|WD~north_south_running_great_circle,145519]]'
 manifestation_of:
-- '[[_Standards/WikiData/WD~curve,161973]]'
-- '[[_Standards/WikiData/WD~half,39373172]]'
-- '[[_Standards/WikiData/WD~half_of_great_circle,91347380]]'
-- '[[_Standards/WikiData/WD~longitude,36477]]'
+- '[[_Standards/WikiData/WD~curve,161973|WD~curve,161973]]'
+- '[[_Standards/WikiData/WD~half,39373172|WD~half,39373172]]'
+- '[[_Standards/WikiData/WD~half_of_great_circle,91347380|WD~half_of_great_circle,91347380]]'
+- '[[_Standards/WikiData/WD~longitude,36477|WD~longitude,36477]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~geographic_entity,27096213]]'
-- '[[_Standards/WikiData/WD~half_of_great_circle,91347380]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q124923383,124923383]]'
+- '[[_Standards/WikiData/WD~geographic_entity,27096213|WD~geographic_entity,27096213]]'
+- '[[_Standards/WikiData/WD~half_of_great_circle,91347380|WD~half_of_great_circle,91347380]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q124923383,124923383|WD~Q124923383,124923383]]'
 terminus:
-- '[[_Standards/WikiData/WD~North_Pole,934]]'
-- '[[_Standards/WikiData/WD~South_Pole,933]]'
+- '[[_Standards/WikiData/WD~North_Pole,934|WD~North_Pole,934]]'
+- '[[_Standards/WikiData/WD~South_Pole,933|WD~South_Pole,933]]'
 Commons_category: Meridian markers
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Longitude%20%28PSF%29.png
@@ -81,7 +81,7 @@ image:
 Krugosvet_article_archived_: Earth_sciences/geografiya/MERIDIAN.html
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Meridian,32099]]'
+  - '[[../../../WikiData/WD~Meridian,32099|WD~Meridian,32099]]'
   - '[[/_Standards/Earth/Geography/Cartography/Meridian|Meridian]]'
   - '[[/_public/Earth/Geography/Cartography/Meridian.public|Meridian.public]]'
   - '[[/_internal/Earth/Geography/Cartography/Meridian.internal|Meridian.internal]]'
@@ -90,7 +90,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Cartography/Meridian.personal|Meridian.personal]]'
   - '[[/_secret/Earth/Geography/Cartography/Meridian.secret|Meridian.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Meridian,32099]]'
+- '[[../../../WikiData/WD~Meridian,32099|WD~Meridian,32099]]'
 - '[[/_Standards/Earth/Geography/Cartography/Meridian|Meridian]]'
 - '[[/_public/Earth/Geography/Cartography/Meridian.public|Meridian.public]]'
 - '[[/_internal/Earth/Geography/Cartography/Meridian.internal|Meridian.internal]]'

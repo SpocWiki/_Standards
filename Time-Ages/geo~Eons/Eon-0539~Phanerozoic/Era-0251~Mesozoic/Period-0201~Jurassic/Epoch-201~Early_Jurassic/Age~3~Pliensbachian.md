@@ -25,16 +25,16 @@ aliases:
 - 普林斯巴赫階
 - 플린스바흐절
 has_id_wikidata: Q540479
-named_by: '[[_Standards/WikiData/WD~Albert_Oppel,66578]]'
+named_by: '[[_Standards/WikiData/WD~Albert_Oppel,66578|WD~Albert_Oppel,66578]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Pliensbach,2099493]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Pliensbachian,17273414]]'
-replaces: '[[_Standards/WikiData/WD~Q19607173,19607173]]'
-significant_place: "[[_Standards/WikiData/WD~Robin_Hood's_Bay,24658757]]"
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Pliensbachian,134291380]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Pliensbach,2099493|WD~Pliensbach,2099493]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Pliensbachian,17273414|WD~Category_Pliensbachian,17273414]]'
+replaces: '[[_Standards/WikiData/WD~Q19607173,19607173|WD~Q19607173,19607173]]'
+significant_place: "[[_Standards/WikiData/WD~Robin_Hood's_Bay,24658757|WD~Robin_Hood's_Bay,24658757]]"
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Pliensbachian,134291380|WD~GSSP_for_the_base_of_the_Pliensbachian,134291380]]'
 coordinate_location: Point(-0.4975 54.4069)
 end_time: -182700000-01-01T00:00:00Z
 Commons_category: Pliensbachian
@@ -153,7 +153,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 192.9 to 184.2 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-190_Ma_(Pliensbachian_Age).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-190_Ma_(Pliensbachian_Age).png|Earth-190_Ma_(Pliensbachian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

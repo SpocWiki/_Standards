@@ -49,20 +49,20 @@ aliases:
 - 낙서
 has_id_wikidata: Q17514
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-- '[[_Standards/WikiData/WD~dipinti,1227165]]'
-- '[[_Standards/WikiData/WD~graffiti,111472410]]'
-- '[[_Standards/WikiData/WD~Graffiti,24956]]'
-instance_of: '[[_Standards/WikiData/WD~art_genre,1792379]]'
-part_of: '[[_Standards/WikiData/WD~hip_hop_subculture,12726073]]'
-practiced_by: '[[_Standards/WikiData/WD~graffiti_artist,15095148]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
-has_cause: '[[_Standards/WikiData/WD~vandalism,6160]]'
-subclass_of: '[[_Standards/WikiData/WD~street_art,17516]]'
+- '[[_Standards/WikiData/WD~dipinti,1227165|WD~dipinti,1227165]]'
+- '[[_Standards/WikiData/WD~graffiti,111472410|WD~graffiti,111472410]]'
+- '[[_Standards/WikiData/WD~Graffiti,24956|WD~Graffiti,24956]]'
+instance_of: '[[_Standards/WikiData/WD~art_genre,1792379|WD~art_genre,1792379]]'
+part_of: '[[_Standards/WikiData/WD~hip_hop_subculture,12726073|WD~hip_hop_subculture,12726073]]'
+practiced_by: '[[_Standards/WikiData/WD~graffiti_artist,15095148|WD~graffiti_artist,15095148]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
+has_cause: '[[_Standards/WikiData/WD~vandalism,6160|WD~vandalism,6160]]'
+subclass_of: '[[_Standards/WikiData/WD~street_art,17516|WD~street_art,17516]]'
 subreddit: Graffiti
 Commons_gallery: Graffiti
 Commons_category: Graffiti

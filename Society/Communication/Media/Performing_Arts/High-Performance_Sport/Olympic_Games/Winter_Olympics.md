@@ -102,13 +102,13 @@ aliases:
 - 겨울철올림픽경기대회
 - 동계 올림픽
 has_id_wikidata: Q82414
-sport: '[[_Standards/WikiData/WD~winter_sport,204686]]'
-instance_of: '[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]'
-subclass_of: '[[_Standards/WikiData/WD~Olympic_Games,5389]]'
-season_ends: '[[_Standards/WikiData/WD~February,109]]'
-season_starts: '[[_Standards/WikiData/WD~February,109]]'
+sport: '[[_Standards/WikiData/WD~winter_sport,204686|WD~winter_sport,204686]]'
+instance_of: '[[_Standards/WikiData/WD~recurring_sporting_event,18608583|WD~recurring_sporting_event,18608583]]'
+subclass_of: '[[_Standards/WikiData/WD~Olympic_Games,5389|WD~Olympic_Games,5389]]'
+season_ends: '[[_Standards/WikiData/WD~February,109|WD~February,109]]'
+season_starts: '[[_Standards/WikiData/WD~February,109|WD~February,109]]'
 event_interval: 4
-organizer: '[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]'
+organizer: '[[_Standards/WikiData/WD~International_Olympic_Committee,40970|WD~International_Olympic_Committee,40970]]'
 IAB_code: 523
 logo_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20rings%20without%20rims.svg

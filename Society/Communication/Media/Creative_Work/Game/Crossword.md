@@ -66,11 +66,11 @@ aliases:
 - 填字遊戲
 - 십자말
 has_id_wikidata: Q83207
-has_part_s_: '[[_Standards/WikiData/WD~grid,2020720]]'
-different_from: '[[_Standards/WikiData/WD~Fill_In,5448778]]'
-subclass_of: '[[_Standards/WikiData/WD~word_puzzle,15884100]]'
-practiced_by: '[[_Standards/WikiData/WD~crossword_creator,25493168]]'
-instance_of: '[[_Standards/WikiData/WD~hobby,47728]]'
+has_part_s_: '[[_Standards/WikiData/WD~grid,2020720|WD~grid,2020720]]'
+different_from: '[[_Standards/WikiData/WD~Fill_In,5448778|WD~Fill_In,5448778]]'
+subclass_of: '[[_Standards/WikiData/WD~word_puzzle,15884100|WD~word_puzzle,15884100]]'
+practiced_by: '[[_Standards/WikiData/WD~crossword_creator,25493168|WD~crossword_creator,25493168]]'
+instance_of: '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
 Nomenclature_for_Museum_Cataloging: 14287
 IMDb_keyword: crossword-puzzle
 OmegaWiki_Defined_Meaning: 472366

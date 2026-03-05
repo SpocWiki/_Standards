@@ -29,7 +29,7 @@ type: private_note
 
 # [[The_Night_does_not_belong_to_God]] 
 
-#is_/part_of :: [[../Sleep_Token]] 
+#is_/part_of :: [[../Sleep_Token|Sleep_Token]] 
 #is_/similar_to :: [[Euclid(Sleep_Token)]] 
 
 ## #has_/text_of_/lyrics 

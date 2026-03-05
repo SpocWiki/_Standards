@@ -177,20 +177,20 @@ has_id_wikidata: Q8441
 Commons_category: Men
 Commons_gallery: Man
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 920.71
 different_from:
-- '[[_Standards/WikiData/WD~husband,212878]]'
-- '[[_Standards/WikiData/WD~masculine,499327]]'
-- '[[_Standards/WikiData/WD~boyfriend,622404]]'
-- '[[_Standards/WikiData/WD~masculinity,1076509]]'
-- '[[_Standards/WikiData/WD~Homme,5890937]]'
-- '[[_Standards/WikiData/WD~male,6581097]]'
-- '[[_Standards/WikiData/WD~male_human,84048850]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-follows: '[[_Standards/WikiData/WD~boy,3010]]'
+- '[[_Standards/WikiData/WD~husband,212878|WD~husband,212878]]'
+- '[[_Standards/WikiData/WD~masculine,499327|WD~masculine,499327]]'
+- '[[_Standards/WikiData/WD~boyfriend,622404|WD~boyfriend,622404]]'
+- '[[_Standards/WikiData/WD~masculinity,1076509|WD~masculinity,1076509]]'
+- '[[_Standards/WikiData/WD~Homme,5890937|WD~Homme,5890937]]'
+- '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+- '[[_Standards/WikiData/WD~male_human,84048850|WD~male_human,84048850]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+follows: '[[_Standards/WikiData/WD~boy,3010|WD~boy,3010]]'
 hashtag: men
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Male%20symbol.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pioneer%20plaque%20line-drawing%20of%20a%20human%20male.svg
@@ -198,18 +198,18 @@ IPTC_NewsCode: asportfacetvalue/men
 MeSH_tree_code: M01.390
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Men%20montage.jpg
 OmegaWiki_Defined_Meaning: 6397
-opposite_of: '[[_Standards/WikiData/WD~woman,467]]'
-part_of: '[[_Standards/WikiData/WD~male_and_female,20686840]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202929,13202929]]'
-produced_sound: '[[_Standards/WikiData/WD~male_voice,55164632]]'
+opposite_of: '[[_Standards/WikiData/WD~woman,467|WD~woman,467]]'
+part_of: '[[_Standards/WikiData/WD~male_and_female,20686840|WD~male_and_female,20686840]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202929,13202929|WD~Q13202929,13202929]]'
+produced_sound: '[[_Standards/WikiData/WD~male_voice,55164632|WD~male_voice,55164632]]'
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%A8%E0%A6%B0.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Yahya-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B7.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33578%20%28ibo%29-Deventus-Nwoke.wav
 subclass_of:
-- '[[_Standards/WikiData/WD~adult_human,9584157]]'
-- '[[_Standards/WikiData/WD~male_human,84048850]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Man,27160632]]'
+- '[[_Standards/WikiData/WD~adult_human,9584157|WD~adult_human,9584157]]'
+- '[[_Standards/WikiData/WD~male_human,84048850|WD~male_human,84048850]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Man,27160632|WD~Portal_Man,27160632]]'
 U_S_National_Archives_Identifier: 10637899
 dv_has_:
   name_:

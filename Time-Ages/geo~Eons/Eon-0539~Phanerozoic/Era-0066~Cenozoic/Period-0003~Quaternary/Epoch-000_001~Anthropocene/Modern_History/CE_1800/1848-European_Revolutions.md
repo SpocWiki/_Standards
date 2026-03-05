@@ -73,10 +73,10 @@ aliases:
 - การปฏิวัติ ค.ศ. 1848
 - បដិវត្តន៍ឆ្នាំ១៨៤៨
 has_id_wikidata: Q3588
-instance_of: '[[_Standards/WikiData/WD~revolutionary_wave,1886460]]'
+instance_of: '[[_Standards/WikiData/WD~revolutionary_wave,1886460|WD~revolutionary_wave,1886460]]'
 end_time: 1849-10-04T00:00:00Z
 start_time: 1848-01-12T00:00:00Z
-location: '[[_Standards/WikiData/WD~Europe,46]]'
+location: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 subject_named_as: Märzrevolution
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Horace%20Vernet-Barricade%20rue%20Soufflot.jpg
 Commons_category: Revolutions of 1848

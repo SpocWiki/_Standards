@@ -33,23 +33,23 @@ aliases:
 - སྐུད་མེད་དྲ་བ།
 - 와이파이
 has_id_wikidata: Q29643
-different_from: '[[_Standards/WikiData/WD~Ethernet,79984]]'
+different_from: '[[_Standards/WikiData/WD~Ethernet,79984|WD~Ethernet,79984]]'
 instance_of:
-- '[[_Standards/WikiData/WD~communication_protocol,132364]]'
-- '[[_Standards/WikiData/WD~technical_standard,317623]]'
-- '[[_Standards/WikiData/WD~certification_mark,908620]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~wireless_LAN,212607]]'
-developer: '[[_Standards/WikiData/WD~Wi_Fi_Alliance,1361045]]'
+- '[[_Standards/WikiData/WD~communication_protocol,132364|WD~communication_protocol,132364]]'
+- '[[_Standards/WikiData/WD~technical_standard,317623|WD~technical_standard,317623]]'
+- '[[_Standards/WikiData/WD~certification_mark,908620|WD~certification_mark,908620]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~wireless_LAN,212607|WD~wireless_LAN,212607]]'
+developer: '[[_Standards/WikiData/WD~Wi_Fi_Alliance,1361045|WD~Wi_Fi_Alliance,1361045]]'
 named_after:
-- '[[_Standards/WikiData/WD~fidelity,2119376]]'
-- '[[_Standards/WikiData/WD~wireless_communication,249]]'
-opposite_of: '[[_Standards/WikiData/WD~No_Wi_Fi,98076043]]'
-has_part_s_: '[[_Standards/WikiData/WD~Wi_Fi_jamming,124527554]]'
+- '[[_Standards/WikiData/WD~fidelity,2119376|WD~fidelity,2119376]]'
+- '[[_Standards/WikiData/WD~wireless_communication,249|WD~wireless_communication,249]]'
+opposite_of: '[[_Standards/WikiData/WD~No_Wi_Fi,98076043|WD~No_Wi_Fi,98076043]]'
+has_part_s_: '[[_Standards/WikiData/WD~Wi_Fi_jamming,124527554|WD~Wi_Fi_jamming,124527554]]'
 main_Wikidata_property: Wi-Fi access
-has_use: '[[_Standards/WikiData/WD~wireless_network,11375]]'
+has_use: '[[_Standards/WikiData/WD~wireless_network,11375|WD~wireless_network,11375]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~wireless_network,11375]]'
-- '[[_Standards/WikiData/WD~computer_interface,23808]]'
+- '[[_Standards/WikiData/WD~wireless_network,11375|WD~wireless_network,11375]]'
+- '[[_Standards/WikiData/WD~computer_interface,23808|WD~computer_interface,23808]]'
 Commons_category: Wi-Fi
 GitHub_topic: wifi
 Uniform_Resource_Identifier_Scheme: wifi

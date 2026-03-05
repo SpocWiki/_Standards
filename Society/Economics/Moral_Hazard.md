@@ -44,15 +44,15 @@ aliases:
 - 도덕적 해이
 has_id_wikidata: Q44454
 different_from:
-- '[[_Standards/WikiData/WD~temptation,1053973]]'
-- '[[_Standards/WikiData/WD~morality,48324]]'
+- '[[_Standards/WikiData/WD~temptation,1053973|WD~temptation,1053973]]'
+- '[[_Standards/WikiData/WD~morality,48324|WD~morality,48324]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~unintended_consequences,1135789]]'
-- '[[_Standards/WikiData/WD~perverse_incentive,2169419]]'
-instance_of: '[[_Standards/WikiData/WD~economic_concept,29028649]]'
+- '[[_Standards/WikiData/WD~unintended_consequences,1135789|WD~unintended_consequences,1135789]]'
+- '[[_Standards/WikiData/WD~perverse_incentive,2169419|WD~perverse_incentive,2169419]]'
+instance_of: '[[_Standards/WikiData/WD~economic_concept,29028649|WD~economic_concept,29028649]]'
 studied_by:
-- '[[_Standards/WikiData/WD~economics_of_insurance,58038005]]'
-- '[[_Standards/WikiData/WD~economics,8134]]'
+- '[[_Standards/WikiData/WD~economics_of_insurance,58038005|WD~economics_of_insurance,58038005]]'
+- '[[_Standards/WikiData/WD~economics,8134|WD~economics,8134]]'
 dv_has_:
   name_:
     ar: خطر أخلاقي

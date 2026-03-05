@@ -44,11 +44,11 @@ aliases:
 - 當代古典音樂
 - 현대의 서양 고전 음악
 has_id_wikidata: Q612024
-instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~contemporary_music,8011523]]'
-subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
-follows: '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
-country_of_origin: '[[_Standards/WikiData/WD~Europe,46]]'
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~contemporary_music,8011523|WD~contemporary_music,8011523]]'
+subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946|WD~modern_classical_music,65937946]]'
+follows: '[[_Standards/WikiData/WD~modern_classical_music,65937946|WD~modern_classical_music,65937946]]'
+country_of_origin: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 inception: 1945-01-01T00:00:00Z
 Commons_category: Contemporary classical music
 dv_has_:

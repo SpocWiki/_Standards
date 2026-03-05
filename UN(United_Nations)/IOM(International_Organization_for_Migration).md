@@ -72,26 +72,26 @@ short_name:
 - OIM
 - OIM
 official_observer_status_in_organization:
-- '[[_Standards/WikiData/WD~International_Maritime_Organization,201054]]'
-- '[[_Standards/WikiData/WD~Conference_on_Interaction_and_Confidence_Building_Measures_in_Asia,605501]]'
-- '[[_Standards/WikiData/WD~Pacific_Islands_Forum,757276]]'
-- '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
-partnership_with: '[[_Standards/WikiData/WD~Asian_African_Legal_Consultative_Organization,333536]]'
-archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
+- '[[_Standards/WikiData/WD~International_Maritime_Organization,201054|WD~International_Maritime_Organization,201054]]'
+- '[[_Standards/WikiData/WD~Conference_on_Interaction_and_Confidence_Building_Measures_in_Asia,605501|WD~Conference_on_Interaction_and_Confidence_Building_Measures_in_Asia,605501]]'
+- '[[_Standards/WikiData/WD~Pacific_Islands_Forum,757276|WD~Pacific_Islands_Forum,757276]]'
+- '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
+partnership_with: '[[_Standards/WikiData/WD~Asian_African_Legal_Consultative_Organization,333536|WD~Asian_African_Legal_Consultative_Organization,333536]]'
+archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757|WD~International_Institute_of_Social_History,1667757]]'
 instance_of:
-- '[[_Standards/WikiData/WD~publishing_company,2085381]]'
-- '[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-general_secretary: '[[_Standards/WikiData/WD~Amy_E._Pope,123397878]]'
-locations: '[[_Standards/WikiData/WD~International_Organisation_for_Migration_headquarters,123862286]]'
-legal_form: '[[_Standards/WikiData/WD~International_organisation,129311612]]'
-replaces: '[[_Standards/WikiData/WD~Intergovernmental_committee_for_European_migration,131542065]]'
+- '[[_Standards/WikiData/WD~publishing_company,2085381|WD~publishing_company,2085381]]'
+- '[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165|WD~specialized_agency_of_the_United_Nations,15925165]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+general_secretary: '[[_Standards/WikiData/WD~Amy_E._Pope,123397878|WD~Amy_E._Pope,123397878]]'
+locations: '[[_Standards/WikiData/WD~International_Organisation_for_Migration_headquarters,123862286|WD~International_Organisation_for_Migration_headquarters,123862286]]'
+legal_form: '[[_Standards/WikiData/WD~International_organisation,129311612|WD~International_organisation,129311612]]'
+replaces: '[[_Standards/WikiData/WD~Intergovernmental_committee_for_European_migration,131542065|WD~Intergovernmental_committee_for_European_migration,131542065]]'
 official_language:
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-country: '[[_Standards/WikiData/WD~Switzerland,39]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Geneva,71]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+country: '[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Geneva,71|WD~Geneva,71]]'
 social_media_followers: 49000
 EU_Corporate_body_code: IOM
 Facebook_username: IOM

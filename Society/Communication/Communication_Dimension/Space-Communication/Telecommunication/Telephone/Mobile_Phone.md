@@ -183,29 +183,29 @@ short_name:
 - cell
 - Мобильник
 has_part_s_:
-- '[[_Standards/WikiData/WD~integrated_circuit,80831]]'
-- '[[_Standards/WikiData/WD~antenna,131214]]'
-- '[[_Standards/WikiData/WD~printed_circuit_board,173350]]'
-- '[[_Standards/WikiData/WD~display_device,327065]]'
-- '[[_Standards/WikiData/WD~push_button,870870]]'
-- '[[_Standards/WikiData/WD~loudspeaker,570]]'
-- '[[_Standards/WikiData/WD~microphone,46384]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Martin_Cooper,319383]]'
-has_characteristic: '[[_Standards/WikiData/WD~circuit_switching,506273]]'
+- '[[_Standards/WikiData/WD~integrated_circuit,80831|WD~integrated_circuit,80831]]'
+- '[[_Standards/WikiData/WD~antenna,131214|WD~antenna,131214]]'
+- '[[_Standards/WikiData/WD~printed_circuit_board,173350|WD~printed_circuit_board,173350]]'
+- '[[_Standards/WikiData/WD~display_device,327065|WD~display_device,327065]]'
+- '[[_Standards/WikiData/WD~push_button,870870|WD~push_button,870870]]'
+- '[[_Standards/WikiData/WD~loudspeaker,570|WD~loudspeaker,570]]'
+- '[[_Standards/WikiData/WD~microphone,46384|WD~microphone,46384]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Martin_Cooper,319383|WD~Martin_Cooper,319383]]'
+has_characteristic: '[[_Standards/WikiData/WD~circuit_switching,506273|WD~circuit_switching,506273]]'
 follows:
-- '[[_Standards/WikiData/WD~landline_telephone,738621]]'
-- '[[_Standards/WikiData/WD~cordless_telephone,1195934]]'
-- '[[_Standards/WikiData/WD~mobile_radio_station,6887221]]'
-different_from: '[[_Standards/WikiData/WD~cordless_telephone,1195934]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_mobile_phones,2630862]]'
+- '[[_Standards/WikiData/WD~landline_telephone,738621|WD~landline_telephone,738621]]'
+- '[[_Standards/WikiData/WD~cordless_telephone,1195934|WD~cordless_telephone,1195934]]'
+- '[[_Standards/WikiData/WD~mobile_radio_station,6887221|WD~mobile_radio_station,6887221]]'
+different_from: '[[_Standards/WikiData/WD~cordless_telephone,1195934|WD~cordless_telephone,1195934]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_mobile_phones,2630862|WD~history_of_mobile_phones,2630862]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mobile_device,5082128]]'
-- '[[_Standards/WikiData/WD~cell_phone_and_accessories,115921882]]'
-- '[[_Standards/WikiData/WD~telephone,11035]]'
+- '[[_Standards/WikiData/WD~mobile_device,5082128|WD~mobile_device,5082128]]'
+- '[[_Standards/WikiData/WD~cell_phone_and_accessories,115921882|WD~cell_phone_and_accessories,115921882]]'
+- '[[_Standards/WikiData/WD~telephone,11035|WD~telephone,11035]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_mobile_phone,5849853]]'
-- '[[_Standards/WikiData/WD~Template_Mobile_phones,13505601]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_PDA,25791820]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_mobile_phone,5849853|WD~Template_Infobox_mobile_phone,5849853]]'
+- '[[_Standards/WikiData/WD~Template_Mobile_phones,13505601|WD~Template_Mobile_phones,13505601]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_PDA,25791820|WD~Template_Infobox_PDA,25791820]]'
 OmegaWiki_Defined_Meaning: 456834
 hashtag: mobile
 image:

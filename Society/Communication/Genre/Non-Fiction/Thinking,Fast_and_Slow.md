@@ -54,7 +54,7 @@ dv_has_:
 
 # [[Thinking,Fast_and_Slow]]  
 
-> **Thinking, Fast and Slow** is a 2011 popular science book by psychologist [[../../../../../../../_protect/bio/Psychology/Psychologist/Kahnemann,Daniel]].
+> **Thinking, Fast and Slow** is a 2011 popular science book by psychologist [[../../../../../../../_protect/bio/Psychology/Psychologist/Kahnemann,Daniel|Kahnemann,Daniel]].
 >
 > The book's main thesis is a differentiation between two modes of thought: 
 > - "System 1" is fast, instinctive and emotional; 
@@ -88,7 +88,7 @@ dv_has_:
 [[Fühlen nützt nichts, hilft aber]]  
 
 Wittgenstein : 
-[[../../../../../../../_Standards/Philosophy/Philosopher/Modern_Philosopher/James,William]] 
+[[../../../../../../../_Standards/Philosophy/Philosopher/Modern_Philosopher/James,William|James,William]] 
 ## heuristic Fallacies 
 
 ### Anchoring 

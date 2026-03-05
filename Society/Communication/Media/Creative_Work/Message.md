@@ -32,7 +32,7 @@ Tag Instances like this:
 
 A single message from a sender to one or more organizations or people.
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ EmailMessage ]  
 

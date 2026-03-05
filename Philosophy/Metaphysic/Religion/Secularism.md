@@ -79,12 +79,12 @@ aliases:
 - 세속주의
 has_id_wikidata: Q216920
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q131703556,131703556]]'
-facet_of: '[[_Standards/WikiData/WD~religion_in_politics,16546879]]'
-practiced_by: '[[_Standards/WikiData/WD~secularist,60456278]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_world_view,110401282]]'
-subclass_of: '[[_Standards/WikiData/WD~world_view,49447]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q131703556,131703556|WD~Q131703556,131703556]]'
+facet_of: '[[_Standards/WikiData/WD~religion_in_politics,16546879|WD~religion_in_politics,16546879]]'
+practiced_by: '[[_Standards/WikiData/WD~secularist,60456278|WD~secularist,60456278]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_world_view,110401282|WD~type_of_world_view,110401282]]'
+subclass_of: '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-la%C3%AFcit%C3%A9.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A4%BE.wav

@@ -131,24 +131,24 @@ tags:
 title: is_a_toilet Class
 type: Type
 made_from_material:
-- '[[_Standards/WikiData/WD~porcelain,130693]]'
-- '[[_Standards/WikiData/WD~wood,287]]'
-- '[[_Standards/WikiData/WD~plastic,11474]]'
-- '[[_Standards/WikiData/WD~concrete,22657]]'
-has_use: '[[_Standards/WikiData/WD~excretion,185557]]'
+- '[[_Standards/WikiData/WD~porcelain,130693|WD~porcelain,130693]]'
+- '[[_Standards/WikiData/WD~wood,287|WD~wood,287]]'
+- '[[_Standards/WikiData/WD~plastic,11474|WD~plastic,11474]]'
+- '[[_Standards/WikiData/WD~concrete,22657|WD~concrete,22657]]'
+has_use: '[[_Standards/WikiData/WD~excretion,185557|WD~excretion,185557]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~flush_toilet,268534]]'
-- '[[_Standards/WikiData/WD~toilets_in_Japan,646411]]'
-- '[[_Standards/WikiData/WD~dry_toilet,18352682]]'
-facet_of: '[[_Standards/WikiData/WD~sanitation,949149]]'
+- '[[_Standards/WikiData/WD~flush_toilet,268534|WD~flush_toilet,268534]]'
+- '[[_Standards/WikiData/WD~toilets_in_Japan,646411|WD~toilets_in_Japan,646411]]'
+- '[[_Standards/WikiData/WD~dry_toilet,18352682|WD~dry_toilet,18352682]]'
+facet_of: '[[_Standards/WikiData/WD~sanitation,949149|WD~sanitation,949149]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~plumbing_fixture,2024731]]'
-part_of: '[[_Standards/WikiData/WD~toilet,7813355]]'
-subclass_of: '[[_Standards/WikiData/WD~facility,13226383]]'
-used_by: '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~plumbing_fixture,2024731|WD~plumbing_fixture,2024731]]'
+part_of: '[[_Standards/WikiData/WD~toilet,7813355|WD~toilet,7813355]]'
+subclass_of: '[[_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
+used_by: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 Nomenclature_for_Museum_Cataloging: 297
 GS1_GPC_code: 10002586
 Commons_gallery: Toilet
@@ -302,7 +302,7 @@ dv_has_:
     zh: 馬桶
     zh_hans: 马桶
     zh_hant: 馬桶
-  parent_class: '[[../CivicStructure]]'
+  parent_class: '[[../CivicStructure|CivicStructure]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
 - '[[../../../../WikiData/WD~Toilet,7857|WD~Toilet,7857]]'
@@ -314,7 +314,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Geography/Place/Civic_Structure/Toilet.personal|Toilet.personal]]'
 - '[[/_secret/Earth/Geography/Place/Civic_Structure/Toilet.secret|Toilet.secret]]'
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: '[[../CivicStructure]]'
+dv_has_parent_class: '[[../CivicStructure|CivicStructure]]'
 dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 Unicode_character: 🚽
 ---

@@ -28,16 +28,16 @@ aliases:
 - کومونيکاسي ساتليت
 - 衛星通信
 has_id_wikidata: Q2225985
-uses: '[[_Standards/WikiData/WD~communications_satellite,149918]]'
+uses: '[[_Standards/WikiData/WD~communications_satellite,149918|WD~communications_satellite,149918]]'
 facet_of:
-- '[[_Standards/WikiData/WD~communications_satellite,149918]]'
-- '[[_Standards/WikiData/WD~Space_Communications_Protocol_Specifications,17125122]]'
-- '[[_Standards/WikiData/WD~communication,11024]]'
+- '[[_Standards/WikiData/WD~communications_satellite,149918|WD~communications_satellite,149918]]'
+- '[[_Standards/WikiData/WD~Space_Communications_Protocol_Specifications,17125122|WD~Space_Communications_Protocol_Specifications,17125122]]'
+- '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~uses_of_satellites,2858848]]'
-- '[[_Standards/WikiData/WD~telecommunications,418]]'
-- '[[_Standards/WikiData/WD~communication,11024]]'
-different_from: '[[_Standards/WikiData/WD~Satellite_radio_system,19308489]]'
+- '[[_Standards/WikiData/WD~uses_of_satellites,2858848|WD~uses_of_satellites,2858848]]'
+- '[[_Standards/WikiData/WD~telecommunications,418|WD~telecommunications,418]]'
+- '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
+different_from: '[[_Standards/WikiData/WD~Satellite_radio_system,19308489|WD~Satellite_radio_system,19308489]]'
 Commons_category: Satellite communications
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Syncom-1.jpg
 UMLS_CUI: C0036236
@@ -77,7 +77,7 @@ dv_has_:
 # [[Satellite_Communication]] 
 
 #has_/creator :: [[../../../../Spaceflight/Communications_Satellite|Communications_Satellite]] 
-#is_/same_as :: [[../../../../../WikiData/WD~Satellite_communication,2225985]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Satellite_communication,2225985|WD~Satellite_communication,2225985]] 
 
 ## #has_/text_of_/abstract 
 

@@ -109,27 +109,27 @@ aliases:
 - 長方形
 - 직사각형
 has_id_wikidata: Q209
-studied_by: '[[_Standards/WikiData/WD~graph_theory,131476]]'
-instance_of: '[[_Standards/WikiData/WD~geometric_shape,815741]]'
+studied_by: '[[_Standards/WikiData/WD~graph_theory,131476|WD~graph_theory,131476]]'
+instance_of: '[[_Standards/WikiData/WD~geometric_shape,815741|WD~geometric_shape,815741]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~isosceles_trapezoid,1194115]]'
-- '[[_Standards/WikiData/WD~equiangular_polygon,2543717]]'
-- '[[_Standards/WikiData/WD~hyperrectangle,3801534]]'
-- '[[_Standards/WikiData/WD~right_trapezoid,12218380]]'
-- '[[_Standards/WikiData/WD~Hjelmslev_quadrilateral,98098744]]'
-- '[[_Standards/WikiData/WD~convex_cyclic_quadrilateral,117400683]]'
-- '[[_Standards/WikiData/WD~quadrilateral,36810]]'
-- '[[_Standards/WikiData/WD~parallelogram,45867]]'
+- '[[_Standards/WikiData/WD~isosceles_trapezoid,1194115|WD~isosceles_trapezoid,1194115]]'
+- '[[_Standards/WikiData/WD~equiangular_polygon,2543717|WD~equiangular_polygon,2543717]]'
+- '[[_Standards/WikiData/WD~hyperrectangle,3801534|WD~hyperrectangle,3801534]]'
+- '[[_Standards/WikiData/WD~right_trapezoid,12218380|WD~right_trapezoid,12218380]]'
+- '[[_Standards/WikiData/WD~Hjelmslev_quadrilateral,98098744|WD~Hjelmslev_quadrilateral,98098744]]'
+- '[[_Standards/WikiData/WD~convex_cyclic_quadrilateral,117400683|WD~convex_cyclic_quadrilateral,117400683]]'
+- '[[_Standards/WikiData/WD~quadrilateral,36810|WD~quadrilateral,36810]]'
+- '[[_Standards/WikiData/WD~parallelogram,45867|WD~parallelogram,45867]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~area,11500]]'
-- '[[_Standards/WikiData/WD~perimeter,28474]]'
-has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382]]'
-dual_to: '[[_Standards/WikiData/WD~rhombus,41159]]'
+- '[[_Standards/WikiData/WD~area,11500|WD~area,11500]]'
+- '[[_Standards/WikiData/WD~perimeter,28474|WD~perimeter,28474]]'
+has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382|WD~edge,26382]]'
+dual_to: '[[_Standards/WikiData/WD~rhombus,41159|WD~rhombus,41159]]'
 OmegaWiki_Defined_Meaning: 666386
 subject_lexeme: L326492
 image:

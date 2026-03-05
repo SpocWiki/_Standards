@@ -44,10 +44,10 @@ aliases:
 - 第三期
 has_id_wikidata: Q5025307
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cambrian_Stage_3,131610247]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cambrian_Stage_3,131610247|WD~Category_Cambrian_Stage_3,131610247]]'
 end_time: -514500000-01-01T00:00:00Z
 start_time: -521000000-01-01T00:00:00Z
 Commons_category: Cambrian Stage 3
@@ -162,7 +162,7 @@ has_next_item = `=this.dv_has_next_item`
 #is_/same_as :: [[WD~Cambrian-Stage-3,5025307]]   
 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-515_Ma.png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-515_Ma.png|Earth-515_Ma.png]] 
 
 ## #has_/text_of_/abstract 
 

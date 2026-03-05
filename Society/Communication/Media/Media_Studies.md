@@ -52,20 +52,20 @@ aliases:
 - 媒體研究
 - 미디어 연구
 has_id_wikidata: Q165650
-has_part_s_: '[[_Standards/WikiData/WD~newspaper_studies,187084]]'
-significant_person: '[[_Standards/WikiData/WD~Marshall_McLuhan,193871]]'
+has_part_s_: '[[_Standards/WikiData/WD~newspaper_studies,187084|WD~newspaper_studies,187084]]'
+significant_person: '[[_Standards/WikiData/WD~Marshall_McLuhan,193871|WD~Marshall_McLuhan,193871]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-practiced_by: '[[_Standards/WikiData/WD~media_scholar,6386271]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~media_scholar,6386271|WD~media_scholar,6386271]]'
 different_from:
-- '[[_Standards/WikiData/WD~communication_studies,11680831]]'
-- '[[_Standards/WikiData/WD~media_industry_studies,113128088]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~media_science,11881925]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Media_studies,22758772]]'
-is_the_study_of: '[[_Standards/WikiData/WD~mass_media,11033]]'
-subclass_of: '[[_Standards/WikiData/WD~social_science,34749]]'
-history_of_topic: '[[_Standards/WikiData/WD~media_history,50636]]'
+- '[[_Standards/WikiData/WD~communication_studies,11680831|WD~communication_studies,11680831]]'
+- '[[_Standards/WikiData/WD~media_industry_studies,113128088|WD~media_industry_studies,113128088]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~media_science,11881925|WD~media_science,11881925]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Media_studies,22758772|WD~Template_Media_studies,22758772]]'
+is_the_study_of: '[[_Standards/WikiData/WD~mass_media,11033|WD~mass_media,11033]]'
+subclass_of: '[[_Standards/WikiData/WD~social_science,34749|WD~social_science,34749]]'
+history_of_topic: '[[_Standards/WikiData/WD~media_history,50636|WD~media_history,50636]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Land%20on%20the%20Moon%207%2021%201969-repair.jpg
 Wikimedia_import_URL: https://en.wikipedia.org/wiki/Media_studies
 UNSPSC_Code: 86131504

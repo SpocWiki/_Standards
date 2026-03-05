@@ -70,19 +70,19 @@ aliases:
 - 權威
 - 권위
 has_id_wikidata: Q174834
-instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
-subclass_of: '[[_Standards/WikiData/WD~role,214339]]'
+instance_of: '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+subclass_of: '[[_Standards/WikiData/WD~role,214339|WD~role,214339]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-facet_of: '[[_Standards/WikiData/WD~governing_body,895526]]'
-different_from: '[[_Standards/WikiData/WD~authority,4825937]]'
-uses: '[[_Standards/WikiData/WD~power,25107]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+facet_of: '[[_Standards/WikiData/WD~governing_body,895526|WD~governing_body,895526]]'
+different_from: '[[_Standards/WikiData/WD~authority,4825937|WD~authority,4825937]]'
+uses: '[[_Standards/WikiData/WD~power,25107|WD~power,25107]]'
 OmegaWiki_Defined_Meaning: 291
 Commons_category: Authority
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AuthorityOfLaw.JPG
@@ -212,8 +212,8 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Authority) 
 
 
-Authority was derived from the [[../Social_Contract]] in which each Participant gives up some of their Sovereignty in exchange for Stability. 
-[[../../../Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas]] and [[../../../../../_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques]] 
+Authority was derived from the [[../Social_Contract|Social_Contract]] in which each Participant gives up some of their Sovereignty in exchange for Stability. 
+[[../../../Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas|Hobbes,Thomas]] and [[../../../../../_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques|Rousseau,Jean-Jacques]] 
 
 
 ## Confidential Links & Embeds: 

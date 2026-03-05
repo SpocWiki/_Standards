@@ -51,10 +51,10 @@ aliases:
 - 크라이오제니아기
 has_id_wikidata: Q507402
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cryogenian,9649569]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cryogenian,9649569|WD~Category_Cryogenian,9649569]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -635000000-01-01T00:00:00Z
 start_time: -720000000-01-01T00:00:00Z
 video: http://commons.wikimedia.org/wiki/Special:FilePath/SIM%20neoproto.ogv
@@ -194,7 +194,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 720 to 635 million years ago. 
 
-![[../../../../../xLarge/Earth/Geology/Earth-690_Ma_(Cryogenian_Period).png]]
+![[../../../../../xLarge/Earth/Geology/Earth-690_Ma_(Cryogenian_Period).png|Earth-690_Ma_(Cryogenian_Period).png]]
 
 ## #has_/text_of_/abstract 
 

@@ -115,19 +115,19 @@ aliases:
 - 人造語言
 - 인공어
 has_id_wikidata: Q33215
-studied_by: '[[_Standards/WikiData/WD~interlinguistics,856574]]'
+studied_by: '[[_Standards/WikiData/WD~interlinguistics,856574|WD~interlinguistics,856574]]'
 instance_of:
-- '[[_Standards/WikiData/WD~language_group,941501]]'
-- '[[_Standards/WikiData/WD~type_of_language,20829075]]'
+- '[[_Standards/WikiData/WD~language_group,941501|WD~language_group,941501]]'
+- '[[_Standards/WikiData/WD~type_of_language,20829075|WD~type_of_language,20829075]]'
 different_from:
-- '[[_Standards/WikiData/WD~language_inventor,1206912]]'
-- '[[_Standards/WikiData/WD~artificial_language,3247505]]'
-- '[[_Standards/WikiData/WD~online_conlanging_community,8349870]]'
-- '[[_Standards/WikiData/WD~conlanging,19642588]]'
-subclass_of: '[[_Standards/WikiData/WD~artificial_language,3247505]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Constructed_languages,6274104]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Constructed_languages,14614960]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~language_inventor,1206912|WD~language_inventor,1206912]]'
+- '[[_Standards/WikiData/WD~artificial_language,3247505|WD~artificial_language,3247505]]'
+- '[[_Standards/WikiData/WD~online_conlanging_community,8349870|WD~online_conlanging_community,8349870]]'
+- '[[_Standards/WikiData/WD~conlanging,19642588|WD~conlanging,19642588]]'
+subclass_of: '[[_Standards/WikiData/WD~artificial_language,3247505|WD~artificial_language,3247505]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Constructed_languages,6274104|WD~Template_Constructed_languages,6274104]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Constructed_languages,14614960|WD~Portal_Constructed_languages,14614960]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 ABS_ASCL_2011_code:
 - 96
 - 9601

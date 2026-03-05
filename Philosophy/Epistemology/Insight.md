@@ -31,12 +31,12 @@ aliases:
 - 통찰
 has_id_wikidata: Q1553259
 facet_of:
-- '[[_Standards/WikiData/WD~causality,179289]]'
-- '[[_Standards/WikiData/WD~storytelling,989963]]'
-- '[[_Standards/WikiData/WD~strategic_thinking,7621861]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
-different_from: '[[_Standards/WikiData/WD~cognitive_faculty,9372276]]'
-subclass_of: '[[_Standards/WikiData/WD~understanding,46744]]'
+- '[[_Standards/WikiData/WD~causality,179289|WD~causality,179289]]'
+- '[[_Standards/WikiData/WD~storytelling,989963|WD~storytelling,989963]]'
+- '[[_Standards/WikiData/WD~strategic_thinking,7621861|WD~strategic_thinking,7621861]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+different_from: '[[_Standards/WikiData/WD~cognitive_faculty,9372276|WD~cognitive_faculty,9372276]]'
+subclass_of: '[[_Standards/WikiData/WD~understanding,46744|WD~understanding,46744]]'
 dv_has_:
   name_:
     ar: استبصار
@@ -85,7 +85,7 @@ dv_has_:
 # [[Insight]] 
 
 #is_/better_than :: [[Epistemology/Knowledge|Knowledge]] 
-#is_/worse_than :: [[Epistemology/Wisdom]] 
+#is_/worse_than :: [[Epistemology/Wisdom|Wisdom]] 
 #is_/part_of :: [[Knowledge/Knowledge_Pyramid|Knowledge_Pyramid]] 
 
 #is_/similar_to :: [[WD~Insight,1553259]] 

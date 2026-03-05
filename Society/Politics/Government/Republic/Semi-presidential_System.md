@@ -87,10 +87,10 @@ aliases:
 - 半總統制
 - 이원집정부제
 has_id_wikidata: Q49890
-instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q19360876,19360876]]'
-different_from: '[[_Standards/WikiData/WD~semi_parliamentary_republic,25196730]]'
-subclass_of: '[[_Standards/WikiData/WD~republic,7270]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q19360876,19360876|WD~Q19360876,19360876]]'
+different_from: '[[_Standards/WikiData/WD~semi_parliamentary_republic,25196730|WD~semi_parliamentary_republic,25196730]]'
+subclass_of: '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D9%86%D8%B8%D8%A7%D9%85%20%D8%B4%D8%A8%D9%87%20%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A.wav
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Sistema%20semipresidencial.svg
 dv_has_:

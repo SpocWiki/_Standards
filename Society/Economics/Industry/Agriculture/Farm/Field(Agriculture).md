@@ -90,19 +90,19 @@ aliases:
 - 밭
 - "\U00010330\U0001033A\U00010342\U00010343"
 has_id_wikidata: Q188869
-part_of: '[[_Standards/WikiData/WD~rural_area,175185]]'
+part_of: '[[_Standards/WikiData/WD~rural_area,175185|WD~rural_area,175185]]'
 different_from:
-- '[[_Standards/WikiData/WD~Pole,249104]]'
-- '[[_Standards/WikiData/WD~field_category,54662266]]'
-- '[[_Standards/WikiData/WD~magnetic_field,11408]]'
+- '[[_Standards/WikiData/WD~Pole,249104|WD~Pole,249104]]'
+- '[[_Standards/WikiData/WD~field_category,54662266|WD~field_category,54662266]]'
+- '[[_Standards/WikiData/WD~magnetic_field,11408|WD~magnetic_field,11408]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~arable_land,843920]]'
-- '[[_Standards/WikiData/WD~agricultural_land,3395383]]'
-award_received: '[[_Standards/WikiData/WD~Soil_of_the_Year,889448]]'
+- '[[_Standards/WikiData/WD~arable_land,843920|WD~arable_land,843920]]'
+- '[[_Standards/WikiData/WD~agricultural_land,3395383|WD~agricultural_land,3395383]]'
+award_received: '[[_Standards/WikiData/WD~Soil_of_the_Year,889448|WD~Soil_of_the_Year,889448]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Lexicon_of_Egyptology_(1._Edition),117232527]]'
-has_part_s_: '[[_Standards/WikiData/WD~soil,36133]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Lexicon_of_Egyptology_(1._Edition),117232527|WD~Lexicon_of_Egyptology_(1._Edition),117232527]]'
+has_part_s_: '[[_Standards/WikiData/WD~soil,36133|WD~soil,36133]]'
 Dewey_Decimal_Classification: 633
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Field%20Hamois%20Belgium%20Luc%20Viatour.jpg
 Commons_category: Fields

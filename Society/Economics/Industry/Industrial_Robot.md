@@ -41,9 +41,9 @@ aliases:
 - 産業用ロボット
 - 산업용 로봇
 has_id_wikidata: Q1128980
-studied_by: '[[_Standards/WikiData/WD~Manufacturing_robotics,112980803]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_robot,126414694]]'
-subclass_of: '[[_Standards/WikiData/WD~robot,11012]]'
+studied_by: '[[_Standards/WikiData/WD~Manufacturing_robotics,112980803|WD~Manufacturing_robotics,112980803]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_robot,126414694|WD~type_of_robot,126414694]]'
+subclass_of: '[[_Standards/WikiData/WD~robot,11012|WD~robot,11012]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Factory%20Automation%20Robotics%20Palettizing%20Bread.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/FANUC%206-axis%20welding%20robots.jpg

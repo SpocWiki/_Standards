@@ -61,13 +61,13 @@ aliases:
 - 軍事同盟
 - 군사동맹
 has_id_wikidata: Q1127126
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~alliance,878249]]'
-- '[[_Standards/WikiData/WD~armed_organization,17149090]]'
-has_list: '[[_Standards/WikiData/WD~list_of_military_alliances,13755436]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~multinational_military_coalition,100906234]]'
-different_from: '[[_Standards/WikiData/WD~pact,104840560]]'
+- '[[_Standards/WikiData/WD~alliance,878249|WD~alliance,878249]]'
+- '[[_Standards/WikiData/WD~armed_organization,17149090|WD~armed_organization,17149090]]'
+has_list: '[[_Standards/WikiData/WD~list_of_military_alliances,13755436|WD~list_of_military_alliances,13755436]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~multinational_military_coalition,100906234|WD~multinational_military_coalition,100906234]]'
+different_from: '[[_Standards/WikiData/WD~pact,104840560|WD~pact,104840560]]'
 Commons_category: Military alliances
 dv_has_:
   name_:
@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Military_Alliance]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~military_alliance,1127126]] 
+#is_/same_as :: [[_Standards/WikiData/WD~military_alliance,1127126|WD~military_alliance,1127126]] 
 
 ## #has_/text_of_/abstract 
 

@@ -49,24 +49,24 @@ aliases:
 - 동형 사상
 has_id_wikidata: Q189112
 studied_by:
-- '[[_Standards/WikiData/WD~abstract_algebra,159943]]'
-- '[[_Standards/WikiData/WD~category_theory,217413]]'
-- '[[_Standards/WikiData/WD~model_theory,467606]]'
-- '[[_Standards/WikiData/WD~universal_algebra,1636734]]'
+- '[[_Standards/WikiData/WD~abstract_algebra,159943|WD~abstract_algebra,159943]]'
+- '[[_Standards/WikiData/WD~category_theory,217413|WD~category_theory,217413]]'
+- '[[_Standards/WikiData/WD~model_theory,467606|WD~model_theory,467606]]'
+- '[[_Standards/WikiData/WD~universal_algebra,1636734|WD~universal_algebra,1636734]]'
 different_from:
-- '[[_Standards/WikiData/WD~isomorphism,902950]]'
-- '[[_Standards/WikiData/WD~Q23037068,23037068]]'
-- '[[_Standards/WikiData/WD~identity_homomorphism,117225652]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~isomorphism,902950|WD~isomorphism,902950]]'
+- '[[_Standards/WikiData/WD~Q23037068,23037068|WD~Q23037068,23037068]]'
+- '[[_Standards/WikiData/WD~identity_homomorphism,117225652|WD~identity_homomorphism,117225652]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~left_totality,54933376]]'
-- '[[_Standards/WikiData/WD~right_totality,54933377]]'
-- '[[_Standards/WikiData/WD~left_uniqueness,54933380]]'
-- '[[_Standards/WikiData/WD~right_uniqueness,54933381]]'
+- '[[_Standards/WikiData/WD~left_totality,54933376|WD~left_totality,54933376]]'
+- '[[_Standards/WikiData/WD~right_totality,54933377|WD~right_totality,54933377]]'
+- '[[_Standards/WikiData/WD~left_uniqueness,54933380|WD~left_uniqueness,54933380]]'
+- '[[_Standards/WikiData/WD~right_uniqueness,54933381|WD~right_uniqueness,54933381]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~split_monomorphism,121773562]]'
-- '[[_Standards/WikiData/WD~split_epimorphism,121773569]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~split_monomorphism,121773562|WD~split_monomorphism,121773562]]'
+- '[[_Standards/WikiData/WD~split_epimorphism,121773569|WD~split_epimorphism,121773569]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 OmegaWiki_Defined_Meaning: 956940
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/One5Root.svg

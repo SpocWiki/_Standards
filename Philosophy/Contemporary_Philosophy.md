@@ -63,9 +63,9 @@ aliases:
 - 當代哲學家
 - 현대철학
 has_id_wikidata: Q943303
-subclass_of: '[[_Standards/WikiData/WD~Western_philosophy,842333]]'
-different_from: '[[_Standards/WikiData/WD~modern_philosophy,860746]]'
-instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+subclass_of: '[[_Standards/WikiData/WD~Western_philosophy,842333|WD~Western_philosophy,842333]]'
+different_from: '[[_Standards/WikiData/WD~modern_philosophy,860746|WD~modern_philosophy,860746]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 Library_of_Congress_Classification: B790-B5802
 Commons_category: Contemporary philosophy
 dv_has_:

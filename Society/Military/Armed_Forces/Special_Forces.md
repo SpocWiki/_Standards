@@ -64,20 +64,20 @@ aliases:
 - 특수부대
 has_id_wikidata: Q234497
 field_of_this_occupation:
-- '[[_Standards/WikiData/WD~surveillance,334401]]'
-- '[[_Standards/WikiData/WD~counter_terrorism,909459]]'
-- '[[_Standards/WikiData/WD~assassination,3882219]]'
+- '[[_Standards/WikiData/WD~surveillance,334401|WD~surveillance,334401]]'
+- '[[_Standards/WikiData/WD~counter_terrorism,909459|WD~counter_terrorism,909459]]'
+- '[[_Standards/WikiData/WD~assassination,3882219|WD~assassination,3882219]]'
 has_use:
-- '[[_Standards/WikiData/WD~counter_revolution,755138]]'
-- '[[_Standards/WikiData/WD~counter_insurgency,760037]]'
-- '[[_Standards/WikiData/WD~counter_terrorist_operation,1047367]]'
-- '[[_Standards/WikiData/WD~special_operations,1060062]]'
-- '[[_Standards/WikiData/WD~assassination,3882219]]'
+- '[[_Standards/WikiData/WD~counter_revolution,755138|WD~counter_revolution,755138]]'
+- '[[_Standards/WikiData/WD~counter_insurgency,760037|WD~counter_insurgency,760037]]'
+- '[[_Standards/WikiData/WD~counter_terrorist_operation,1047367|WD~counter_terrorist_operation,1047367]]'
+- '[[_Standards/WikiData/WD~special_operations,1060062|WD~special_operations,1060062]]'
+- '[[_Standards/WikiData/WD~assassination,3882219|WD~assassination,3882219]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~military_branch,781132]]'
-- '[[_Standards/WikiData/WD~elite_unit,90049510]]'
-has_list: '[[_Standards/WikiData/WD~list_of_military_special_forces_units,1351358]]'
-instance_of: '[[_Standards/WikiData/WD~military_unit_type_class,23905069]]'
+- '[[_Standards/WikiData/WD~military_branch,781132|WD~military_branch,781132]]'
+- '[[_Standards/WikiData/WD~elite_unit,90049510|WD~elite_unit,90049510]]'
+has_list: '[[_Standards/WikiData/WD~list_of_military_special_forces_units,1351358|WD~list_of_military_special_forces_units,1351358]]'
+instance_of: '[[_Standards/WikiData/WD~military_unit_type_class,23905069|WD~military_unit_type_class,23905069]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Special%20Air%20Service%20in%20North%20Africa%20E%2021337.jpg
 IMDb_keyword: special-forces
 Commons_category: Special forces

@@ -58,24 +58,24 @@ aliases:
 - 플라스터
 has_id_wikidata: Q274988
 different_from:
-- '[[_Standards/WikiData/WD~gypsum,82658]]'
-- '[[_Standards/WikiData/WD~abrasion,331424]]'
-- '[[_Standards/WikiData/WD~gesso,1514256]]'
-- '[[_Standards/WikiData/WD~intonaco,4927228]]'
-- '[[_Standards/WikiData/WD~plaster_construction,109538882]]'
-- '[[_Standards/WikiData/WD~stucco,33526]]'
+- '[[_Standards/WikiData/WD~gypsum,82658|WD~gypsum,82658]]'
+- '[[_Standards/WikiData/WD~abrasion,331424|WD~abrasion,331424]]'
+- '[[_Standards/WikiData/WD~gesso,1514256|WD~gesso,1514256]]'
+- '[[_Standards/WikiData/WD~intonaco,4927228|WD~intonaco,4927228]]'
+- '[[_Standards/WikiData/WD~plaster_construction,109538882|WD~plaster_construction,109538882]]'
+- '[[_Standards/WikiData/WD~stucco,33526|WD~stucco,33526]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~building_material,206615]]'
-- '[[../../../../../WikiData/WD~architectural_element,391414]]'
-- '[[_Standards/WikiData/WD~coating,1570182]]'
-has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
-has_use: '[[_Standards/WikiData/WD~plasterwork,572879]]'
+- '[[_Standards/WikiData/WD~building_material,206615|WD~building_material,206615]]'
+- '[[../../../../../WikiData/WD~architectural_element,391414|WD~architectural_element,391414]]'
+- '[[_Standards/WikiData/WD~coating,1570182|WD~coating,1570182]]'
+has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678|WD~hygroscopy,216678]]'
+has_use: '[[_Standards/WikiData/WD~plasterwork,572879|WD~plasterwork,572879]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-associated_hazard: '[[_Standards/WikiData/WD~plaster_exposure,21175065]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+associated_hazard: '[[_Standards/WikiData/WD~plaster_exposure,21175065|WD~plaster_exposure,21175065]]'
 ISCO_88_occupation_class: 7123
 OmegaWiki_Defined_Meaning: 1704
 native_label: 漆喰

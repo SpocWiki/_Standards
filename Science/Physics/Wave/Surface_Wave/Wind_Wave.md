@@ -86,12 +86,12 @@ aliases:
 - 海浪
 - 파도
 has_id_wikidata: Q165848
-subclass_of: '[[../../../../WikiData/WD~surface_wave,889796]]'
+subclass_of: '[[../../../../WikiData/WD~surface_wave,889796|WD~surface_wave,889796]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-produced_sound: '[[_Standards/WikiData/WD~Q110068397,110068397]]'
-location: '[[_Standards/WikiData/WD~body_of_water,15324]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+produced_sound: '[[_Standards/WikiData/WD~Q110068397,110068397|WD~Q110068397,110068397]]'
+location: '[[_Standards/WikiData/WD~body_of_water,15324|WD~body_of_water,15324]]'
 OmegaWiki_Defined_Meaning: 4133
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Porto%20Covo%20July%202011-6.jpg
 Dewey_Decimal_Classification: 551.463

@@ -87,16 +87,16 @@ aliases:
 - 항일전쟁
 has_id_wikidata: Q170314
 participant:
-- '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
-- '[[_Standards/WikiData/WD~Republic_of_China,13426199]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Empire_of_Japan,188712|WD~Empire_of_Japan,188712]]'
+- '[[_Standards/WikiData/WD~Republic_of_China,13426199|WD~Republic_of_China,13426199]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Campaignbox_Second_Sino_Japanese_War,6392360]]'
-- '[[_Standards/WikiData/WD~Template_Second_Sino_Japanese_War,108046650]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~China_Incident,11498830]]'
-history_of_topic: '[[_Standards/WikiData/WD~timeline_of_the_Second_Sino_Japanese_War,85880641]]'
-location: '[[_Standards/WikiData/WD~China,29520]]'
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+- '[[_Standards/WikiData/WD~Template_Campaignbox_Second_Sino_Japanese_War,6392360|WD~Template_Campaignbox_Second_Sino_Japanese_War,6392360]]'
+- '[[_Standards/WikiData/WD~Template_Second_Sino_Japanese_War,108046650|WD~Template_Second_Sino_Japanese_War,108046650]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~China_Incident,11498830|WD~China_Incident,11498830]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_the_Second_Sino_Japanese_War,85880641|WD~timeline_of_the_Second_Sino_Japanese_War,85880641]]'
+location: '[[_Standards/WikiData/WD~China,29520|WD~China,29520]]'
+instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/AtaqueJapon%C3%A9sAShanghai.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20Occupation%20of%20China%201940.svg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Second%20Sino-Japanese%20War%20collection.png

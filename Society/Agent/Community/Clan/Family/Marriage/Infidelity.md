@@ -52,19 +52,19 @@ aliases:
 - 偷情
 - 부정 (관계)
 has_id_wikidata: Q2914621
-partially_coincident_with: '[[_Standards/WikiData/WD~divorce,93190]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~divorce,93190|WD~divorce,93190]]'
 different_from:
-- '[[_Standards/WikiData/WD~extramarital_sex,629129]]'
-- '[[_Standards/WikiData/WD~mandate_fraud,698086]]'
-- '[[_Standards/WikiData/WD~kleptogamy,1254140]]'
-- '[[_Standards/WikiData/WD~casual_relationship,1471039]]'
-- '[[_Standards/WikiData/WD~infidel,1587978]]'
-- '[[_Standards/WikiData/WD~consensual_non_monogamy,110515686]]'
-- '[[_Standards/WikiData/WD~cheating,19]]'
-opposite_of: '[[_Standards/WikiData/WD~fidelity,2119376]]'
+- '[[_Standards/WikiData/WD~extramarital_sex,629129|WD~extramarital_sex,629129]]'
+- '[[_Standards/WikiData/WD~mandate_fraud,698086|WD~mandate_fraud,698086]]'
+- '[[_Standards/WikiData/WD~kleptogamy,1254140|WD~kleptogamy,1254140]]'
+- '[[_Standards/WikiData/WD~casual_relationship,1471039|WD~casual_relationship,1471039]]'
+- '[[_Standards/WikiData/WD~infidel,1587978|WD~infidel,1587978]]'
+- '[[_Standards/WikiData/WD~consensual_non_monogamy,110515686|WD~consensual_non_monogamy,110515686]]'
+- '[[_Standards/WikiData/WD~cheating,19|WD~cheating,19]]'
+opposite_of: '[[_Standards/WikiData/WD~fidelity,2119376|WD~fidelity,2119376]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~transgression,3537603]]'
-- '[[_Standards/WikiData/WD~human_behavior,3769299]]'
+- '[[_Standards/WikiData/WD~transgression,3537603|WD~transgression,3537603]]'
+- '[[_Standards/WikiData/WD~human_behavior,3769299|WD~human_behavior,3769299]]'
 Commons_category: Adultery
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20and%20Mars%20Surprised%20by%20Vulcan%20-%20Il%20padovanino%20%281631%29.jpg
 IMDb_keyword: infidelity

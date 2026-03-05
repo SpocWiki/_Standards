@@ -1,4 +1,4 @@
-#is_/same_as :: [[_Standards/WikiData/WD~redundancy,122192]]  
+#is_/same_as :: [[_Standards/WikiData/WD~redundancy,122192|WD~redundancy,122192]]  
 
 ## #has_/text_of_/abstract 
 

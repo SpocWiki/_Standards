@@ -69,12 +69,12 @@ aliases:
 - 無產階級專政
 - 프롤레타리아 독재
 has_id_wikidata: Q118365
-instance_of: '[[_Standards/WikiData/WD~political_concept,33104069]]'
+instance_of: '[[_Standards/WikiData/WD~political_concept,33104069|WD~political_concept,33104069]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~communist_dictatorship,117405807]]'
-- '[[_Standards/WikiData/WD~dictatorship,317]]'
-named_after: '[[_Standards/WikiData/WD~dictatorship,317]]'
-part_of: '[[_Standards/WikiData/WD~Marxism,7264]]'
+- '[[_Standards/WikiData/WD~communist_dictatorship,117405807|WD~communist_dictatorship,117405807]]'
+- '[[_Standards/WikiData/WD~dictatorship,317|WD~dictatorship,317]]'
+named_after: '[[_Standards/WikiData/WD~dictatorship,317|WD~dictatorship,317]]'
+part_of: '[[_Standards/WikiData/WD~Marxism,7264|WD~Marxism,7264]]'
 Krugosvet_article: istoriya/DIKTATURA_PROLETARIATA.html
 dv_has_:
   name_:

@@ -71,14 +71,14 @@ aliases:
 - 實驗
 - 실험
 has_id_wikidata: Q101965
-has_part_s_: '[[_Standards/WikiData/WD~protocol,367158]]'
-different_from: '[[_Standards/WikiData/WD~Experiment,445178]]'
+has_part_s_: '[[_Standards/WikiData/WD~protocol,367158|WD~protocol,367158]]'
+different_from: '[[_Standards/WikiData/WD~Experiment,445178|WD~Experiment,445178]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~test,1003030]]'
-- '[[_Standards/WikiData/WD~research_work,118563234]]'
-practiced_by: '[[_Standards/WikiData/WD~laboratory_technician,1483433]]'
-part_of: '[[_Standards/WikiData/WD~experimentation,3331334]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_3534_3_2013(en)_Statistics_Vocabulary_and_symbols_Part_3_Design_of_experiments,116196923]]'
+- '[[_Standards/WikiData/WD~test,1003030|WD~test,1003030]]'
+- '[[_Standards/WikiData/WD~research_work,118563234|WD~research_work,118563234]]'
+practiced_by: '[[_Standards/WikiData/WD~laboratory_technician,1483433|WD~laboratory_technician,1483433]]'
+part_of: '[[_Standards/WikiData/WD~experimentation,3331334|WD~experimentation,3331334]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_3_2013(en)_Statistics_Vocabulary_and_symbols_Part_3_Design_of_experiments,116196923|WD~ISO_3534_3_2013(en)_Statistics_Vocabulary_and_symbols_Part_3_Design_of_experiments,116196923]]'
 OmegaWiki_Defined_Meaning: 1382
 Dewey_Decimal_Classification:
 - 507.2

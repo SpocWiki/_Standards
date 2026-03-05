@@ -81,20 +81,20 @@ aliases:
 - 벡토르공간
 has_id_wikidata: Q125977
 studied_by:
-- '[[_Standards/WikiData/WD~linear_algebra,82571]]'
-- '[[_Standards/WikiData/WD~theory_of_vector_spaces,114559305]]'
-facet_of: '[[_Standards/WikiData/WD~linear_algebra,82571]]'
+- '[[_Standards/WikiData/WD~linear_algebra,82571|WD~linear_algebra,82571]]'
+- '[[_Standards/WikiData/WD~theory_of_vector_spaces,114559305|WD~theory_of_vector_spaces,114559305]]'
+facet_of: '[[_Standards/WikiData/WD~linear_algebra,82571|WD~linear_algebra,82571]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~scalar_multiplication,126736]]'
-- '[[_Standards/WikiData/WD~vector_addition,10713659]]'
-- '[[_Standards/WikiData/WD~set,36161]]'
+- '[[_Standards/WikiData/WD~scalar_multiplication,126736|WD~scalar_multiplication,126736]]'
+- '[[_Standards/WikiData/WD~vector_addition,10713659|WD~vector_addition,10713659]]'
+- '[[_Standards/WikiData/WD~set,36161|WD~set,36161]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~space,472971]]'
-- '[[_Standards/WikiData/WD~free_module,1292333]]'
-has_characteristic: '[[_Standards/WikiData/WD~dimension_of_a_vector_space,929302]]'
-different_from: '[[_Standards/WikiData/WD~linear_space,1826459]]'
-has_list: '[[_Standards/WikiData/WD~list_of_vector_spaces_in_mathematics,6644572]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~space,472971|WD~space,472971]]'
+- '[[_Standards/WikiData/WD~free_module,1292333|WD~free_module,1292333]]'
+has_characteristic: '[[_Standards/WikiData/WD~dimension_of_a_vector_space,929302|WD~dimension_of_a_vector_space,929302]]'
+different_from: '[[_Standards/WikiData/WD~linear_space,1826459|WD~linear_space,1826459]]'
+has_list: '[[_Standards/WikiData/WD~list_of_vector_spaces_in_mathematics,6644572|WD~list_of_vector_spaces_in_mathematics,6644572]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 defining_formula: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D47D</mi></mrow><mo stretchy=\"false\">=</mo><mo stretchy=\"false\">(</mo><mi>V</mi><mo>,</mo><mo stretchy=\"false\">&#x2295;</mo><mo>,</mo><mo stretchy=\"false\">&#x2299;</mo><mo stretchy=\"false\">)</mo></mstyle></mrow></math>"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vector%20add%20scale.svg
 Stack_Exchange_tag:
@@ -215,7 +215,7 @@ dv_has_:
 > 
 > Real vector spaces and complex vector spaces are kinds of vector spaces 
 > based on different kinds of scalars: real numbers and complex numbers. 
-> Scalars can also be, more generally, elements of any [[../Group_Theory/Field(Math)]] .
+> Scalars can also be, more generally, elements of any [[../Group_Theory/Field(Math)|Field(Math)]] .
 >
 > Vector spaces generalize Euclidean vectors, which allow modeling of physical quantities (such as forces and velocity) that have not only a magnitude, but also a direction. The concept of vector spaces is fundamental for linear algebra, together with the concept of matrices, which allows computing in vector spaces. 
 > This provides a concise and synthetic way for manipulating 

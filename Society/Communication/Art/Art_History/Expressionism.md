@@ -70,15 +70,15 @@ aliases:
 - 表現主義
 - 표현주의
 has_id_wikidata: Q80113
-influenced_by: '[[_Standards/WikiData/WD~The_Blue_Rider,117035]]'
+influenced_by: '[[_Standards/WikiData/WD~The_Blue_Rider,117035|WD~The_Blue_Rider,117035]]'
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-different_from: '[[_Standards/WikiData/WD~expressivism,5421730]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+different_from: '[[_Standards/WikiData/WD~expressivism,5421730|WD~expressivism,5421730]]'
 start_time: 1900-01-01T00:00:00Z
 OmegaWiki_Defined_Meaning: 431563
 described_at_URL: https://human.libretexts.org/Bookshelves/Art/A_World_Perspective_of_Art_History%3A_1400CE_to_the_21st_Century_(Gustlin_and_Gustlin)/05%3A_A_World_in_Turmoil_(1900-1940)/5.06%3A_Expressionism_(1912-1935)

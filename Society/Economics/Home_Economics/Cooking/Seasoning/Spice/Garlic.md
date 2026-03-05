@@ -83,20 +83,20 @@ aliases:
 - 마늘
 has_id_wikidata: Q21546392
 instance_of:
-- '[[_Standards/WikiData/WD~bulb,188748]]'
-- '[[_Standards/WikiData/WD~crude_drug,735160]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-- '[[_Standards/WikiData/WD~herbal_medicinal_product,95997873]]'
+- '[[_Standards/WikiData/WD~bulb,188748|WD~bulb,188748]]'
+- '[[_Standards/WikiData/WD~crude_drug,735160|WD~crude_drug,735160]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~herbal_medicinal_product,95997873|WD~herbal_medicinal_product,95997873]]'
 has_use:
-- '[[_Standards/WikiData/WD~phytoncide,948217]]'
-- '[[_Standards/WikiData/WD~pickling,1503967]]'
-has_effect: '[[_Standards/WikiData/WD~garlic_allergy,3232749]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~garlic_clove,28966859]]'
-different_from: '[[_Standards/WikiData/WD~garlic_root,116964186]]'
+- '[[_Standards/WikiData/WD~phytoncide,948217|WD~phytoncide,948217]]'
+- '[[_Standards/WikiData/WD~pickling,1503967|WD~pickling,1503967]]'
+has_effect: '[[_Standards/WikiData/WD~garlic_allergy,3232749|WD~garlic_allergy,3232749]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~garlic_clove,28966859|WD~garlic_clove,28966859]]'
+different_from: '[[_Standards/WikiData/WD~garlic_root,116964186|WD~garlic_root,116964186]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
-- '[[_Standards/WikiData/WD~spice,42527]]'
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Allium_sativum,23400]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
+- '[[_Standards/WikiData/WD~spice,42527|WD~spice,42527]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Allium_sativum,23400|WD~Allium_sativum,23400]]'
 total_produced:
 - 20000000
 - 260000

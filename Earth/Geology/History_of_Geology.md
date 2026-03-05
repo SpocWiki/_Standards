@@ -42,12 +42,12 @@ aliases:
 - 地质学史
 - 지질학의 역사
 has_id_wikidata: Q1779809
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_natural_science,56296765]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_natural_science,56296765|WD~history_of_natural_science,56296765]]'
 facet_of:
-- '[[_Standards/WikiData/WD~history,309]]'
-- '[[_Standards/WikiData/WD~geology,1069]]'
-- '[[_Standards/WikiData/WD~mining,44497]]'
+- '[[_Standards/WikiData/WD~history,309|WD~history,309]]'
+- '[[_Standards/WikiData/WD~geology,1069|WD~geology,1069]]'
+- '[[_Standards/WikiData/WD~mining,44497|WD~mining,44497]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Athanasius%20Kircher%20Interior%20of%20the%20earth.jpg
 Commons_category: History of geology
 dv_is_:

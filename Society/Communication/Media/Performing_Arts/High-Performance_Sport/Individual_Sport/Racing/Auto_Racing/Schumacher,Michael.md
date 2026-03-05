@@ -44,62 +44,62 @@ aliases:
 - 麥可·舒馬克
 - 미하엘 슈마허
 has_id_wikidata: Q9671
-sibling: '[[_Standards/WikiData/WD~Ralf_Schumacher,75825]]'
-spouse: '[[_Standards/WikiData/WD~Corinna_Schumacher,95171]]'
+sibling: '[[_Standards/WikiData/WD~Ralf_Schumacher,75825|WD~Ralf_Schumacher,75825]]'
+spouse: '[[_Standards/WikiData/WD~Corinna_Schumacher,95171|WD~Corinna_Schumacher,95171]]'
 supported_sports_team:
-- '[[_Standards/WikiData/WD~1._FC_Köln,104770]]'
-- '[[_Standards/WikiData/WD~Juventus_FC,1422]]'
+- '[[_Standards/WikiData/WD~1._FC_Köln,104770|WD~1._FC_Köln,104770]]'
+- '[[_Standards/WikiData/WD~Juventus_FC,1422|WD~Juventus_FC,1422]]'
 member_of_sports_team:
-- '[[_Standards/WikiData/WD~Scuderia_Ferrari,169898]]'
-- '[[_Standards/WikiData/WD~Benetton_Formula,171329]]'
-- '[[_Standards/WikiData/WD~Jordan_Grand_Prix,171367]]'
-- '[[_Standards/WikiData/WD~Mercedes_F1_Team,172721]]'
+- '[[_Standards/WikiData/WD~Scuderia_Ferrari,169898|WD~Scuderia_Ferrari,169898]]'
+- '[[_Standards/WikiData/WD~Benetton_Formula,171329|WD~Benetton_Formula,171329]]'
+- '[[_Standards/WikiData/WD~Jordan_Grand_Prix,171367|WD~Jordan_Grand_Prix,171367]]'
+- '[[_Standards/WikiData/WD~Mercedes_F1_Team,172721|WD~Mercedes_F1_Team,172721]]'
 sports_discipline_competed_in:
-- '[[_Standards/WikiData/WD~24_Hours_of_Le_Mans,187579]]'
-- '[[_Standards/WikiData/WD~Formula_Nippon,283085]]'
-- '[[_Standards/WikiData/WD~Formula_One,1968]]'
+- '[[_Standards/WikiData/WD~24_Hours_of_Le_Mans,187579|WD~24_Hours_of_Le_Mans,187579]]'
+- '[[_Standards/WikiData/WD~Formula_Nippon,283085|WD~Formula_Nippon,283085]]'
+- '[[_Standards/WikiData/WD~Formula_One,1968|WD~Formula_One,1968]]'
 award_received:
-- '[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026]]'
-- '[[_Standards/WikiData/WD~German_Sportspersonality_of_the_Year,876882]]'
-- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-- '[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341]]'
-- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
-- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
-- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Merit_of_the_Italian_Republic,14539729]]'
-- '[[_Standards/WikiData/WD~honorary_citizen_of_Sarajevo,58382530]]'
-employer: '[[_Standards/WikiData/WD~UNICEF,740308]]'
-family_name: '[[_Standards/WikiData/WD~Schumacher,1773921]]'
+- '[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026|WD~Silbernes_Lorbeerblatt,315026]]'
+- '[[_Standards/WikiData/WD~German_Sportspersonality_of_the_Year,876882|WD~German_Sportspersonality_of_the_Year,876882]]'
+- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233|WD~L'Équipe_Champion_of_Champions,1061233]]"
+- '[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341|WD~Hall_of_Fame_des_deutschen_Sports,1571341]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301|WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370|WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195|WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Merit_of_the_Italian_Republic,14539729|WD~Commander_of_the_Order_of_Merit_of_the_Italian_Republic,14539729]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Sarajevo,58382530|WD~honorary_citizen_of_Sarajevo,58382530]]'
+employer: '[[_Standards/WikiData/WD~UNICEF,740308|WD~UNICEF,740308]]'
+family_name: '[[_Standards/WikiData/WD~Schumacher,1773921|WD~Schumacher,1773921]]'
 occupation:
-- '[[_Standards/WikiData/WD~motorcycle_racer,3014296]]'
-- '[[_Standards/WikiData/WD~Formula_One_driver,10841764]]'
-given_name: '[[_Standards/WikiData/WD~Michael,4927524]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+- '[[_Standards/WikiData/WD~motorcycle_racer,3014296|WD~motorcycle_racer,3014296]]'
+- '[[_Standards/WikiData/WD~Formula_One_driver,10841764|WD~Formula_One_driver,10841764]]'
+given_name: '[[_Standards/WikiData/WD~Michael,4927524|WD~Michael,4927524]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 child:
-- '[[_Standards/WikiData/WD~Mick_Schumacher,18119599]]'
-- '[[_Standards/WikiData/WD~Gina_Maria_Bethke,65210288]]'
-position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Mick_Schumacher,18119599|WD~Mick_Schumacher,18119599]]'
+- '[[_Standards/WikiData/WD~Gina_Maria_Bethke,65210288|WD~Gina_Maria_Bethke,65210288]]'
+position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187|WD~UNICEF_Goodwill_Ambassador,19969187]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
 competition_won:
-- "[[_Standards/WikiData/WD~1995_Formula_One_World_Drivers'_Championship,108861614]]"
-- "[[_Standards/WikiData/WD~1994_Formula_One_World_Drivers'_Championship,108861613]]"
-- "[[_Standards/WikiData/WD~2000_Formula_One_World_Drivers'_Championship,108861619]]"
-- "[[_Standards/WikiData/WD~2003_Formula_One_World_Drivers'_Championship,108861622]]"
-- "[[_Standards/WikiData/WD~2004_Formula_One_World_Drivers'_Championship,108861623]]"
-- "[[_Standards/WikiData/WD~2001_Formula_One_World_Drivers'_Championship,108861620]]"
-- "[[_Standards/WikiData/WD~2002_Formula_One_World_Drivers'_Championship,108861621]]"
+- "[[_Standards/WikiData/WD~1995_Formula_One_World_Drivers'_Championship,108861614|WD~1995_Formula_One_World_Drivers'_Championship,108861614]]"
+- "[[_Standards/WikiData/WD~1994_Formula_One_World_Drivers'_Championship,108861613|WD~1994_Formula_One_World_Drivers'_Championship,108861613]]"
+- "[[_Standards/WikiData/WD~2000_Formula_One_World_Drivers'_Championship,108861619|WD~2000_Formula_One_World_Drivers'_Championship,108861619]]"
+- "[[_Standards/WikiData/WD~2003_Formula_One_World_Drivers'_Championship,108861622|WD~2003_Formula_One_World_Drivers'_Championship,108861622]]"
+- "[[_Standards/WikiData/WD~2004_Formula_One_World_Drivers'_Championship,108861623|WD~2004_Formula_One_World_Drivers'_Championship,108861623]]"
+- "[[_Standards/WikiData/WD~2001_Formula_One_World_Drivers'_Championship,108861620|WD~2001_Formula_One_World_Drivers'_Championship,108861620]]"
+- "[[_Standards/WikiData/WD~2002_Formula_One_World_Drivers'_Championship,108861621|WD~2002_Formula_One_World_Drivers'_Championship,108861621]]"
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~Italian,652]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~German,188]]'
-place_of_birth: '[[_Standards/WikiData/WD~Hürth,4060]]'
-sport: '[[_Standards/WikiData/WD~auto_racing,5386]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
+place_of_birth: '[[_Standards/WikiData/WD~Hürth,4060|WD~Hürth,4060]]'
+sport: '[[_Standards/WikiData/WD~auto_racing,5386|WD~auto_racing,5386]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 country_for_sport:
-- '[[_Standards/WikiData/WD~Luxembourg,32]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183]]'
-native_language: '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Luxembourg,32|WD~Luxembourg,32]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+native_language: '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
 pole_positions: 68
 fastest_laps: 77
 number_of_wins: 91

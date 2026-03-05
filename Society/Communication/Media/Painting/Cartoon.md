@@ -69,15 +69,15 @@ aliases:
 - 카툰
 has_id_wikidata: Q627603
 subclass_of:
-- '[[_Standards/WikiData/WD~drawing,93184]]'
-- '[[_Standards/WikiData/WD~work_of_art,838948]]'
-- '[[_Standards/WikiData/WD~graphic_humour,3397153]]'
-different_from: '[[_Standards/WikiData/WD~caricature,482919]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~drawing,93184|WD~drawing,93184]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948|WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~graphic_humour,3397153|WD~graphic_humour,3397153]]'
+different_from: '[[_Standards/WikiData/WD~caricature,482919|WD~caricature,482919]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~cartoonist,1114448]]'
-- '[[_Standards/WikiData/WD~gag_cartoonist,106671598]]'
-instance_of: '[[_Standards/WikiData/WD~two_dimensional_visual_artwork_genre,116479606]]'
+- '[[_Standards/WikiData/WD~cartoonist,1114448|WD~cartoonist,1114448]]'
+- '[[_Standards/WikiData/WD~gag_cartoonist,106671598|WD~gag_cartoonist,106671598]]'
+instance_of: '[[_Standards/WikiData/WD~two_dimensional_visual_artwork_genre,116479606|WD~two_dimensional_visual_artwork_genre,116479606]]'
 Commons_category: Cartoons
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Busterbrown15.jpg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/cartoon

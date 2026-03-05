@@ -61,10 +61,10 @@ aliases:
 - 固體物理學
 - 고체물리학
 has_id_wikidata: Q715396
-instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
-part_of: '[[_Standards/WikiData/WD~physics,413]]'
-subclass_of: '[[_Standards/WikiData/WD~physics,413]]'
-is_the_study_of: '[[_Standards/WikiData/WD~solid,11438]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
+part_of: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
+subclass_of: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
+is_the_study_of: '[[_Standards/WikiData/WD~solid,11438|WD~solid,11438]]'
 OmegaWiki_Defined_Meaning: 796380
 Commons_category: Solid state physics
 image:

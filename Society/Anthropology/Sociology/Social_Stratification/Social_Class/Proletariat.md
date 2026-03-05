@@ -59,17 +59,17 @@ aliases:
 - 프로레타리아트
 - 프롤레타리아
 has_id_wikidata: Q132603
-instance_of: '[[_Standards/WikiData/WD~social_class,187588]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~working_class,191159]]'
+instance_of: '[[_Standards/WikiData/WD~social_class,187588|WD~social_class,187588]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~working_class,191159|WD~working_class,191159]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]'
-different_from: '[[_Standards/WikiData/WD~proletarii,1775730]]'
-named_after: '[[_Standards/WikiData/WD~proletarii,1775730]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825|WD~Meyer_s_Universum,_Sechster_Band,130477825]]'
+different_from: '[[_Standards/WikiData/WD~proletarii,1775730|WD~proletarii,1775730]]'
+named_after: '[[_Standards/WikiData/WD~proletarii,1775730|WD~proletarii,1775730]]'
 dv_has_:
   name_:
     af: proletariaat

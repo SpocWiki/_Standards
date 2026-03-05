@@ -28,7 +28,7 @@ tags:
 title: has_instance
 type: Predi_Relation
 dv_has_:
-  domain: "[[../Class]]"
+  domain: "[[../Class|Class]]"
   name: has_instance
   range: "[[Thing]]"
   inverse: "[[is_instance_of]]"
@@ -45,7 +45,7 @@ dv_is_:
   similar_to:
     - "[[../Relation/has/has_example|has_example]]"
     - "[[../Relation/has/has_child/has_child_class|has_child_class]]"
-dv_has_domain: "[[../Class]]"
+dv_has_domain: "[[../Class|Class]]"
 dv_has_name: has_instance
 dv_has_range: "[[Thing]]"
 dv_has_inverse: "[[is_instance_of]]"

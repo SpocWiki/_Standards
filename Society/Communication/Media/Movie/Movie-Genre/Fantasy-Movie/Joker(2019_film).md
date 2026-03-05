@@ -17,7 +17,7 @@
 > and DC Films in association with Village Roadshow Pictures, Bron Creative and Joint Effort.
 >
 > Phillips conceived Joker in 2016 and wrote the script with Silver throughout 2017. 
-> The two were inspired by 1970s character studies and the films of [[../Movie-Directors/Scorsese,Martin]], 
+> The two were inspired by 1970s character studies and the films of [[../Movie-Directors/Scorsese,Martin|Scorsese,Martin]], 
 > particularly Taxi Driver (1976) and The King of Comedy (1982); 
 > Scorsese was initially attached to the project as a producer. 
 > 

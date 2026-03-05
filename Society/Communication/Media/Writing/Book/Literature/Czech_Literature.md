@@ -48,18 +48,18 @@ aliases:
 - 체코 문학
 has_id_wikidata: Q282445
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q10800048,10800048]]'
-instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
-subclass_of: '[[_Standards/WikiData/WD~literature,8242]]'
-studied_by: '[[_Standards/WikiData/WD~Czech_studies,59068]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850|WD~Concise_Literary_Encyclopedia,4239850]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q10800048,10800048|WD~Q10800048,10800048]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
+subclass_of: '[[_Standards/WikiData/WD~literature,8242|WD~literature,8242]]'
+studied_by: '[[_Standards/WikiData/WD~Czech_studies,59068|WD~Czech_studies,59068]]'
 Provenio_UUID: 45372fc9-8b39-43d7-8e41-f1755b93fd7d
 Universal_Decimal_Classification: 821.162.3
 Dewey_Decimal_Classification: 891.86

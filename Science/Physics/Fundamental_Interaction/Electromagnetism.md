@@ -91,16 +91,16 @@ aliases:
 - 전자기학
 has_id_wikidata: Q11406
 is_the_study_of:
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~electricity,12725]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~electricity,12725|WD~electricity,12725]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-subclass_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-history_of_topic: '[[_Standards/WikiData/WD~timeline_of_electromagnetism_and_classical_optics,2913714]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Electromagnetism,6329058]]'
-part_of: '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220|WD~physical_phenomenon,1293220]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_electromagnetism_and_classical_optics,2913714|WD~timeline_of_electromagnetism_and_classical_optics,2913714]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Electromagnetism,6329058|WD~Template_Electromagnetism,6329058]]'
+part_of: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
 OmegaWiki_Defined_Meaning: 340954
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ferrofluid%20poles.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/VFPt%20Solenoid%20correct2.svg
@@ -251,7 +251,7 @@ dv_has_:
 
 # [[Electromagnetism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~electromagnetism,11406]] 
+#is_/same_as :: [[_Standards/WikiData/WD~electromagnetism,11406|WD~electromagnetism,11406]] 
 
 ## #has_/text_of_/abstract 
 

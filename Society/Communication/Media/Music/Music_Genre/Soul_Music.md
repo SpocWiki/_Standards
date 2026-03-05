@@ -44,12 +44,12 @@ aliases:
 - 靈魂樂
 - 솔 음악
 has_id_wikidata: Q131272
-instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_R&B_and_Soul_Music,55408346]]'
-practiced_by: '[[_Standards/WikiData/WD~soul_musician,105652947]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-subclass_of: '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_R&B_and_Soul_Music,55408346|WD~Portal_R&B_and_Soul_Music,55408346]]'
+practiced_by: '[[_Standards/WikiData/WD~soul_musician,105652947|WD~soul_musician,105652947]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+subclass_of: '[[_Standards/WikiData/WD~rhythm_and_blues,45981|WD~rhythm_and_blues,45981]]'
 short_name:
 - soul
 - سول

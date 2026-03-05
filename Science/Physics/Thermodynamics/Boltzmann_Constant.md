@@ -64,15 +64,15 @@ aliases:
 - 볼쯔만상수
 - 볼츠만 상수
 has_id_wikidata: Q5962
-named_after: '[[_Standards/WikiData/WD~Ludwig_Boltzmann,84296]]'
+named_after: '[[_Standards/WikiData/WD~Ludwig_Boltzmann,84296|WD~Ludwig_Boltzmann,84296]]'
 instance_of:
-- '[[_Standards/WikiData/WD~physical_constant,173227]]'
-- '[[_Standards/WikiData/WD~UCUM_constant,83155724]]'
-- '[[_Standards/WikiData/WD~entropy,45003]]'
+- '[[_Standards/WikiData/WD~physical_constant,173227|WD~physical_constant,173227]]'
+- '[[_Standards/WikiData/WD~UCUM_constant,83155724|WD~UCUM_constant,83155724]]'
+- '[[_Standards/WikiData/WD~entropy,45003|WD~entropy,45003]]'
 different_from:
-- '[[_Standards/WikiData/WD~Boltzmann_number,3343051]]'
-- '[[_Standards/WikiData/WD~Stefan_Boltzmann_constant,51374]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~entropy,45003]]'
+- '[[_Standards/WikiData/WD~Boltzmann_number,3343051|WD~Boltzmann_number,3343051]]'
+- '[[_Standards/WikiData/WD~Stefan_Boltzmann_constant,51374|WD~Stefan_Boltzmann_constant,51374]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~entropy,45003|WD~entropy,45003]]'
 IEV_number: 113-02-17
 numeric_value: 1.380649e-23
 UCUM_code: '[k]'

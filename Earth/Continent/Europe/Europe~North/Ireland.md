@@ -192,67 +192,67 @@ aliases:
 - "\U00010334\U00010339\U00010342\U00010330\U0001033B\U00010330\U0001033D\U00010333"
 has_id_wikidata: Q27
 age_of_majority: 18
-anthem: '[[_Standards/WikiData/WD~Amhrán_na_bhFiann,160672]]'
+anthem: '[[_Standards/WikiData/WD~Amhrán_na_bhFiann,160672|WD~Amhrán_na_bhFiann,160672]]'
 area: 69797
 Baidu_Tieba_name: 爱尔兰
 basic_form_of_government:
-- '[[_Standards/WikiData/WD~unitary_state,179164]]'
-- '[[_Standards/WikiData/WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~unitary_state,179164|WD~unitary_state,179164]]'
+- '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
 BHCL_UUID: 880809fc-d8c4-4ac7-8646-49754ce65f66
 birth_rate: 11.2
-capital: '[[_Standards/WikiData/WD~Dublin,1761]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Ireland,283785]]'
+capital: '[[_Standards/WikiData/WD~Dublin,1761|WD~Dublin,1761]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Ireland,283785|WD~Central_Bank_of_Ireland,283785]]'
 CIVICUS_Monitor_country_entry: ireland
-coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Ireland,187385]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Ireland,187385|WD~Coat_of_arms_of_Ireland,187385]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Ireland.svg
 Commons_category: Republic of Ireland
 Commons_gallery: Republic of Ireland / Poblacht na hÉireann
 confidential: public
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Ulster,93195]]'
-- '[[_Standards/WikiData/WD~County_Leitrim,107397]]'
-- '[[_Standards/WikiData/WD~Munster,131438]]'
-- '[[_Standards/WikiData/WD~Leinster,159736]]'
-- '[[_Standards/WikiData/WD~County_Cork,162475]]'
-- '[[_Standards/WikiData/WD~Connacht,164421]]'
-- '[[_Standards/WikiData/WD~County_Galway,169923]]'
-- '[[_Standards/WikiData/WD~County_Kildare,173332]]'
-- '[[_Standards/WikiData/WD~County_Dublin,173500]]'
-- '[[_Standards/WikiData/WD~County_Limerick,178283]]'
-- '[[_Standards/WikiData/WD~County_Mayo,178626]]'
-- '[[_Standards/WikiData/WD~County_Sligo,179325]]'
-- '[[_Standards/WikiData/WD~County_Donegal,179424]]'
-- '[[_Standards/WikiData/WD~County_Roscommon,179437]]'
-- '[[_Standards/WikiData/WD~County_Kilkenny,180231]]'
-- '[[_Standards/WikiData/WD~County_Clare,181862]]'
-- '[[_Standards/WikiData/WD~County_Carlow,181882]]'
-- '[[_Standards/WikiData/WD~County_Wicklow,182591]]'
-- '[[_Standards/WikiData/WD~County_Westmeath,182633]]'
-- '[[_Standards/WikiData/WD~County_Louth,183539]]'
-- '[[_Standards/WikiData/WD~County_Meath,183544]]'
-- '[[_Standards/WikiData/WD~County_Offaly,184445]]'
-- '[[_Standards/WikiData/WD~County_Kerry,184469]]'
-- '[[_Standards/WikiData/WD~County_Waterford,184594]]'
-- '[[_Standards/WikiData/WD~County_Wexford,184599]]'
-- '[[_Standards/WikiData/WD~County_Tipperary,184618]]'
-- '[[_Standards/WikiData/WD~County_Monaghan,184760]]'
-- '[[_Standards/WikiData/WD~County_Longford,186220]]'
-- '[[_Standards/WikiData/WD~County_Cavan,187402]]'
-- '[[_Standards/WikiData/WD~County_Laois,55299]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Ulster,93195|WD~Ulster,93195]]'
+- '[[_Standards/WikiData/WD~County_Leitrim,107397|WD~County_Leitrim,107397]]'
+- '[[_Standards/WikiData/WD~Munster,131438|WD~Munster,131438]]'
+- '[[_Standards/WikiData/WD~Leinster,159736|WD~Leinster,159736]]'
+- '[[_Standards/WikiData/WD~County_Cork,162475|WD~County_Cork,162475]]'
+- '[[_Standards/WikiData/WD~Connacht,164421|WD~Connacht,164421]]'
+- '[[_Standards/WikiData/WD~County_Galway,169923|WD~County_Galway,169923]]'
+- '[[_Standards/WikiData/WD~County_Kildare,173332|WD~County_Kildare,173332]]'
+- '[[_Standards/WikiData/WD~County_Dublin,173500|WD~County_Dublin,173500]]'
+- '[[_Standards/WikiData/WD~County_Limerick,178283|WD~County_Limerick,178283]]'
+- '[[_Standards/WikiData/WD~County_Mayo,178626|WD~County_Mayo,178626]]'
+- '[[_Standards/WikiData/WD~County_Sligo,179325|WD~County_Sligo,179325]]'
+- '[[_Standards/WikiData/WD~County_Donegal,179424|WD~County_Donegal,179424]]'
+- '[[_Standards/WikiData/WD~County_Roscommon,179437|WD~County_Roscommon,179437]]'
+- '[[_Standards/WikiData/WD~County_Kilkenny,180231|WD~County_Kilkenny,180231]]'
+- '[[_Standards/WikiData/WD~County_Clare,181862|WD~County_Clare,181862]]'
+- '[[_Standards/WikiData/WD~County_Carlow,181882|WD~County_Carlow,181882]]'
+- '[[_Standards/WikiData/WD~County_Wicklow,182591|WD~County_Wicklow,182591]]'
+- '[[_Standards/WikiData/WD~County_Westmeath,182633|WD~County_Westmeath,182633]]'
+- '[[_Standards/WikiData/WD~County_Louth,183539|WD~County_Louth,183539]]'
+- '[[_Standards/WikiData/WD~County_Meath,183544|WD~County_Meath,183544]]'
+- '[[_Standards/WikiData/WD~County_Offaly,184445|WD~County_Offaly,184445]]'
+- '[[_Standards/WikiData/WD~County_Kerry,184469|WD~County_Kerry,184469]]'
+- '[[_Standards/WikiData/WD~County_Waterford,184594|WD~County_Waterford,184594]]'
+- '[[_Standards/WikiData/WD~County_Wexford,184599|WD~County_Wexford,184599]]'
+- '[[_Standards/WikiData/WD~County_Tipperary,184618|WD~County_Tipperary,184618]]'
+- '[[_Standards/WikiData/WD~County_Monaghan,184760|WD~County_Monaghan,184760]]'
+- '[[_Standards/WikiData/WD~County_Longford,186220|WD~County_Longford,186220]]'
+- '[[_Standards/WikiData/WD~County_Cavan,187402|WD~County_Cavan,187402]]'
+- '[[_Standards/WikiData/WD~County_Laois,55299|WD~County_Laois,55299]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 coordinates_of_easternmost_point: Point(-5.997722222 52.965361111)
 coordinates_of_northernmost_point: Point(-7.371833333 55.384194444)
 coordinates_of_southernmost_point: Point(-9.514083333 51.419944444)
 coordinates_of_westernmost_point: Point(-10.669583333 52.073611111)
 coordinate_location: Point(-8.0 53.0)
-country: '[[_Standards/WikiData/WD~Ireland,27]]'
+country: '[[_Standards/WikiData/WD~Ireland,27|WD~Ireland,27]]'
 country_calling_code: 353
 cssclasses:
 - Country
-culture: '[[_Standards/WikiData/WD~culture_of_the_Republic_of_Ireland,2717004]]'
+culture: '[[_Standards/WikiData/WD~culture_of_the_Republic_of_Ireland,2717004|WD~culture_of_the_Republic_of_Ireland,2717004]]'
 death_rate: 6.9
 Democracy_Index: 9.05
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Republic_of_Ireland,2345263]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Republic_of_Ireland,2345263|WD~demographics_of_the_Republic_of_Ireland,2345263]]'
 demonym:
 - إرلاندي
 - إرلاندية
@@ -300,59 +300,59 @@ demonym:
 - Irlandczyk
 - Irlandaise
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519|WD~New_World_Encyclopedia,116780519]]'
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Ei-map.svg
 Dewey_Decimal_Classification: 2--417
 different_from:
-- '[[_Standards/WikiData/WD~Ireland,22890]]'
-- '[[_Standards/WikiData/WD~Northern_Ireland,26]]'
+- '[[_Standards/WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
+- '[[_Standards/WikiData/WD~Northern_Ireland,26|WD~Northern_Ireland,26]]'
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Holy_See,159583]]'
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Colombia,739]]'
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Philippines,928]]'
-- '[[_Standards/WikiData/WD~Zambia,953]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~Isle_of_Man,9676]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-- '[[_Standards/WikiData/WD~Ethiopia,115]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Belarus,184]]'
-- '[[_Standards/WikiData/WD~Ukraine,212]]'
-- '[[_Standards/WikiData/WD~Romania,218]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-- '[[_Standards/WikiData/WD~Cyprus,229]]'
+- '[[_Standards/WikiData/WD~Holy_See,159583|WD~Holy_See,159583]]'
+- '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Colombia,739|WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Zambia,953|WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Isle_of_Man,9676|WD~Isle_of_Man,9676]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Romania,218|WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Cyprus,229|WD~Cyprus,229]]'
 draft: false
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Republic_of_Ireland,8062]]'
-electrical_plug_type: '[[_Standards/WikiData/WD~BS_1363,1528507]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_Ireland,1672817]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Republic_of_Ireland,8062|WD~economy_of_the_Republic_of_Ireland,8062]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~BS_1363,1528507|WD~BS_1363,1528507]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Ireland,1672817|WD~Government_of_Ireland,1672817]]'
 expiryDate: ''
 female_population:
 - 2490220
@@ -360,23 +360,23 @@ female_population:
 - 2539135
 - 2586107
 FIPS_10_4_countries_and_regions_: EI
-flag: '[[_Standards/WikiData/WD~flag_of_Ireland,82205]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Ireland,82205|WD~flag_of_Ireland,82205]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ireland.svg
-follows: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Ireland,3338414]]'
+follows: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193|WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Ireland,3338414|WD~geography_of_Ireland,3338414]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Ireland.map
 GitHub_topic: ireland
 Gregorian_calendar_start_date: 1752-09-14
 GS1_country_code: 539
 hashtag: RepublicofIreland
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~county_of_Ireland,179872]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~county_of_Ireland,179872|WD~county_of_Ireland,179872]]'
 has_time_started: 1937-12-29
-head_of_government: '[[_Standards/WikiData/WD~Micheál_Martin,920403]]'
-head_of_state: '[[_Standards/WikiData/WD~Michael_D._Higgins,57276]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Ireland,153617]]'
-highest_point: '[[_Standards/WikiData/WD~Carrauntoohil,503368]]'
-history_of_topic: '[[_Standards/WikiData/WD~History_of_Ireland,205157]]'
+head_of_government: '[[_Standards/WikiData/WD~Micheál_Martin,920403|WD~Micheál_Martin,920403]]'
+head_of_state: '[[_Standards/WikiData/WD~Michael_D._Higgins,57276|WD~Michael_D._Higgins,57276]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Ireland,153617|WD~Supreme_Court_of_Ireland,153617]]'
+highest_point: '[[_Standards/WikiData/WD~Carrauntoohil,503368|WD~Carrauntoohil,503368]]'
+history_of_topic: '[[_Standards/WikiData/WD~History_of_Ireland,205157|WD~History_of_Ireland,205157]]'
 Human_Development_Index: 0.945
 IAB_code: 1322
 icon: flag-ie
@@ -384,10 +384,10 @@ inception: 1937-12-29
 Inequality_adjusted_Human_Development_Index: 0.886
 INSEE_countries_and_foreign_territories_code: 99136
 instance_of:
-- '[[_Standards/WikiData/WD~island_country,112099]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~successor_state,127693126]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~island_country,112099|WD~island_country,112099]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~successor_state,127693126|WD~successor_state,127693126]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 IOC_country_code: IRL
 IPA_transcription:
 - ˈaɪəɹlənd
@@ -404,26 +404,26 @@ Languages:
 - en-IE
 - ga-IE
 language_used:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Irish,9142]]'
-- '[[_Standards/WikiData/WD~Irish_Sign_Language,14183]]'
-- '[[_Standards/WikiData/WD~Shelta,36705]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Irish,9142|WD~Irish,9142]]'
+- '[[_Standards/WikiData/WD~Irish_Sign_Language,14183|WD~Irish_Sign_Language,14183]]'
+- '[[_Standards/WikiData/WD~Shelta,36705|WD~Shelta,36705]]'
 layout: ''
-legislative_body: '[[_Standards/WikiData/WD~Oireachtas,129821]]'
+legislative_body: '[[_Standards/WikiData/WD~Oireachtas,129821|WD~Oireachtas,129821]]'
 licence_plate_code: IRL
 license: CC BY-SA 4.0
 life_expectancy: 83
 linkTitle: ''
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Ireland,22890]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574|WD~UTC_00_00,6574]]'
 location:
 - 53.0702
 - -7.70895
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/EU-Ireland%20%28orthographic%20projection%29.svg
-lowest_point: '[[_Standards/WikiData/WD~North_Slob,7056767]]'
+lowest_point: '[[_Standards/WikiData/WD~North_Slob,7056767|WD~North_Slob,7056767]]'
 M49_code: 372
 mains_voltage: 230
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Ireland,6878112]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Ireland,6878112|WD~WikiProject_Ireland,6878112]]'
 male_population:
 - 2444120
 - 2469767
@@ -433,44 +433,44 @@ maritime_identification_digits: 250
 marriageable_age: 18
 median_income: 25969
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- '[[_Standards/WikiData/WD~Australia_Group,782942]]'
-- '[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]'
-- '[[_Standards/WikiData/WD~International_Energy_Agency,826700]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]'
-- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]'
-- '[[_Standards/WikiData/WD~Nordic_Battle_Group,1998131]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
-- '[[_Standards/WikiData/WD~European_Space_Agency,42262]]'
-- '[[_Standards/WikiData/WD~European_Economic_Community,52847]]'
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Eurocontrol,663492|WD~Eurocontrol,663492]]'
+- '[[_Standards/WikiData/WD~Australia_Group,782942|WD~Australia_Group,782942]]'
+- '[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428|WD~International_Holocaust_Remembrance_Alliance,823428]]'
+- '[[_Standards/WikiData/WD~International_Energy_Agency,826700|WD~International_Energy_Agency,826700]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120|WD~Missile_Technology_Control_Regime,1072120]]'
+- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[_Standards/WikiData/WD~Nordic_Battle_Group,1998131|WD~Nordic_Battle_Group,1998131]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550|WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+- '[[_Standards/WikiData/WD~European_Space_Agency,42262|WD~European_Space_Agency,42262]]'
+- '[[_Standards/WikiData/WD~European_Economic_Community,52847|WD~European_Economic_Community,52847]]'
 MeSH_tree_code:
 - Z01.542.467
 - Z01.639.587
 mobile_country_code: 272
 motto_text: Jump into Ireland
-named_after: '[[_Standards/WikiData/WD~Ireland,22890]]'
+named_after: '[[_Standards/WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
 native_label:
 - Ireland
 - Éire
@@ -479,11 +479,11 @@ nominal_GDP:
 - 504182603276
 number_of_out_of_school_children: 6033
 NUTS_code: IE
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Taoiseach,191827]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Ireland,213702]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Taoiseach,191827|WD~Taoiseach,191827]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Ireland,213702|WD~President_of_Ireland,213702]]'
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Irish,9142]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Irish,9142|WD~Irish,9142]]'
 official_name:
 - Airlann
 - Ireland
@@ -496,15 +496,15 @@ official_name:
 official_website: http://www.gov.ie/
 OmegaWiki_Defined_Meaning: 5744
 OpenStreetMap_zoom_level: 6
-open_data_portal: '[[_Standards/WikiData/WD~data.gov.ie,61454777]]'
+open_data_portal: '[[_Standards/WikiData/WD~data.gov.ie,61454777|WD~data.gov.ie,61454777]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cruaighpadraigh%20banner.jpg
 part_of:
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~European_Economic_Area,8932]]'
-- '[[_Standards/WikiData/WD~Northern_Europe,27479]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~European_Economic_Area,8932|WD~European_Economic_Area,8932]]'
+- '[[_Standards/WikiData/WD~Northern_Europe,27479|WD~Northern_Europe,27479]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q25929957,25929957]]'
-- '[[_Standards/WikiData/WD~Q83643185,83643185]]'
+- '[[_Standards/WikiData/WD~Q25929957,25929957|WD~Q25929957,25929957]]'
+- '[[_Standards/WikiData/WD~Q83643185,83643185|WD~Q83643185,83643185]]'
 PM20_geo_code: A22b
 population: 5149139
 pronunciation_audio:
@@ -514,8 +514,8 @@ pronunciation_audio:
 Provenio_UUID: cea218bf-ad0d-4a63-a865-8949e176fe7e
 publish: true
 publishDate: ''
-railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
-replaces: '[[_Standards/WikiData/WD~Irish_Free_State,31747]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+replaces: '[[_Standards/WikiData/WD~Irish_Free_State,31747|WD~Irish_Free_State,31747]]'
 retirement_age: 66
 rural_population:
 - 1805722
@@ -523,8 +523,8 @@ rural_population:
 - 1816368
 - 1836398
 shares_border_with:
-- '[[_Standards/WikiData/WD~Northern_Ireland,26]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Northern_Ireland,26|WD~Northern_Ireland,26]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 short_name:
 - Ireland
 - Éire
@@ -538,9 +538,9 @@ suicide_rate: 8.9
 tags:
 - geo/Country
 title: Ireland
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Counties_of_Ireland,5614052]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ireland,10815282]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.ie,39382]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Counties_of_Ireland,5614052|WD~Template_Counties_of_Ireland,5614052]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ireland,10815282|WD~Portal_Ireland,10815282]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ie,39382|WD~.ie,39382]]'
 total_fertility_rate: 1.96
 trunk_prefix: 0
 type: Country
@@ -559,12 +559,12 @@ urban_population:
 - 3290772
 U_S_National_Archives_Identifier: 10035801
 VAT_rate: 23
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Republic_of_Ireland,7112777]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Republic_of_Ireland,7112777|WD~outline_of_the_Republic_of_Ireland,7112777]]'
 WIPO_ST_3: IE
 Wolfram_Language_entity_code: Entity["Country", "Ireland"]
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Ireland,27]]'
+  - '[[_Standards/WikiData/WD~Ireland,27|WD~Ireland,27]]'
   - '[[../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
   - '[[../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
   - '[[../../../../WikiData/WD~Republic_of_Ireland,27|WD~Republic_of_Ireland,27]]'
@@ -921,7 +921,7 @@ dv_UNTERM_Chinese_Formal: 爱尔兰
 dv_UNTERM_French_Formal: l'Irlande
 dv_UNTERM_Russian: Ирландия
 dv_UNTERM_Russian_Formal: Ирландия
-dv_Region_Name: '[[../../Europe]]'
+dv_Region_Name: '[[../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Ireland]]'
 dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
@@ -947,14 +947,14 @@ dv_ISO3: IRL
 dv_has_name_de: Irland
 dv_Area-Total: 70285
 dv_Area-Land: 68890
-dv_has_place_continent: '[[../../Europe]]'
+dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: IRL
 dv_Alcohol-l: 14.4
 dv_Language-Id: 499
 dv_has_place_longitude: -7.70895
 dv_has_place_latitude: 53.0702
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Ireland,27]]'
+- '[[_Standards/WikiData/WD~Ireland,27|WD~Ireland,27]]'
 - '[[../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
 - '[[../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
 - '[[../../../../WikiData/WD~Republic_of_Ireland,27|WD~Republic_of_Ireland,27]]'
@@ -974,11 +974,11 @@ Unicode_character: 🇮🇪
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ireland,27]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Ireland,27|WD~Ireland,27]]  
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Ireland)
-into a Subfolder named `Ireland`, so that this Link into the Sub-Repository works: [[Ireland/ReadMe]] 
+into a Subfolder named `Ireland`, so that this Link into the Sub-Repository works: [[Ireland/ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1086,8 +1086,8 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[./Ireland/Counties/Dublin]]  
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Ireland.mp3]]
+Capital :: [[./Ireland/Counties/Dublin|Dublin]]  
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Ireland.mp3|Anthem-Ireland.mp3]]
 ![[Flag_of_Ireland.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`

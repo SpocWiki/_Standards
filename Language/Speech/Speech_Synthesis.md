@@ -60,10 +60,10 @@ aliases:
 - 音声合成
 - 음성 합성
 has_id_wikidata: Q16346
-topic_has_template: '[[_Standards/WikiData/WD~Template_Speech_synthesis,6373966]]'
-subclass_of: '[[_Standards/WikiData/WD~sound_synthesis,7554316]]'
-studied_by: '[[_Standards/WikiData/WD~natural_language_processing,30642]]'
-simulates: '[[_Standards/WikiData/WD~speech,52946]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Speech_synthesis,6373966|WD~Template_Speech_synthesis,6373966]]'
+subclass_of: '[[_Standards/WikiData/WD~sound_synthesis,7554316|WD~sound_synthesis,7554316]]'
+studied_by: '[[_Standards/WikiData/WD~natural_language_processing,30642|WD~natural_language_processing,30642]]'
+simulates: '[[_Standards/WikiData/WD~speech,52946|WD~speech,52946]]'
 audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Amiga%20speech%20synthesis.flac
 - http://commons.wikimedia.org/wiki/Special:FilePath/C64%20Software%20Automatic%20Mouth%20demo.flac

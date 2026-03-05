@@ -88,16 +88,16 @@ aliases:
 - 극작가
 has_id_wikidata: Q214917
 different_from:
-- '[[_Standards/WikiData/WD~dramaturge,487596]]'
-- '[[_Standards/WikiData/WD~screenwriter,28389]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~stage_author,1020593]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q9579050,9579050]]'
-instance_of: '[[_Standards/WikiData/WD~theatrical_occupation,15839299]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~playwriting,109567933]]'
+- '[[_Standards/WikiData/WD~dramaturge,487596|WD~dramaturge,487596]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389|WD~screenwriter,28389]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~stage_author,1020593|WD~stage_author,1020593]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q9579050,9579050|WD~Q9579050,9579050]]'
+instance_of: '[[_Standards/WikiData/WD~theatrical_occupation,15839299|WD~theatrical_occupation,15839299]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~playwriting,109567933|WD~playwriting,109567933]]'
 model_item:
-- '[[_Standards/WikiData/WD~William_Shakespeare,692]]'
-- '[[_Standards/WikiData/WD~Aristophanes,43353]]'
-subclass_of: '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~William_Shakespeare,692|WD~William_Shakespeare,692]]'
+- '[[_Standards/WikiData/WD~Aristophanes,43353|WD~Aristophanes,43353]]'
+subclass_of: '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
 ISCO_88_occupation_class: 2451
 ROME_Occupation_Code: 11427
 ISCO_08_occupation_class: 2641
@@ -296,7 +296,7 @@ dv_has_:
 
 # [[Playwright]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~playwright,214917]] 
+#is_/same_as :: [[_Standards/WikiData/WD~playwright,214917|WD~playwright,214917]] 
 
 ## #has_/text_of_/abstract 
 

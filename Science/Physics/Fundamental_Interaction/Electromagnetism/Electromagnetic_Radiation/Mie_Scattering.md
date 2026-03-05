@@ -26,10 +26,10 @@ aliases:
 - 米氏散射
 - 미 산란
 has_id_wikidata: Q901737
-named_after: '[[_Standards/WikiData/WD~Gustav_Mie,67020]]'
-subclass_of: '[[_Standards/WikiData/WD~scattering,210028]]'
-studied_by: '[[_Standards/WikiData/WD~Lorenz_Mie_theory,56297375]]'
-different_from: '[[_Standards/WikiData/WD~Lorenz_Mie_theory,56297375]]'
+named_after: '[[_Standards/WikiData/WD~Gustav_Mie,67020|WD~Gustav_Mie,67020]]'
+subclass_of: '[[_Standards/WikiData/WD~scattering,210028|WD~scattering,210028]]'
+studied_by: '[[_Standards/WikiData/WD~Lorenz_Mie_theory,56297375|WD~Lorenz_Mie_theory,56297375]]'
+different_from: '[[_Standards/WikiData/WD~Lorenz_Mie_theory,56297375|WD~Lorenz_Mie_theory,56297375]]'
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "MieScattering"]
 Commons_category: Mie scattering
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Miewik.svg

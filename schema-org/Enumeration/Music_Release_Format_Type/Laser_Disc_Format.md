@@ -27,9 +27,9 @@ tags:
 title: is_a_laser_disc_format Class
 type: Type
 dv_has_:
-  parent_class: "[[../MusicReleaseFormatType]]"
+  parent_class: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
 dv_is_:
-  enum_of: "[[../MusicReleaseFormatType]]"
+  enum_of: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format|Laser_Disc_Format]]"
     - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.public|Laser_Disc_Format.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.personal|Laser_Disc_Format.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.secret|Laser_Disc_Format.secret]]"
     - "[[Laser_Disc_Format]]"
-dv_has_parent_class: "[[../MusicReleaseFormatType]]"
-dv_is_enum_of: "[[../MusicReleaseFormatType]]"
+dv_has_parent_class: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
+dv_is_enum_of: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
 dv_is_same_as:
   - "[[Laser_Disc_Format]]"
   - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.public|Laser_Disc_Format.public]]"

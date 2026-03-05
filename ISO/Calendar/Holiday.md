@@ -120,33 +120,33 @@ aliases:
 - "\U00011093\U000110B3\U00011097\U000110B9\U00011097\U000110B2"
 has_id_wikidata: Q1445650
 has_cause:
-- '[[_Standards/WikiData/WD~tradition,82821]]'
-- '[[_Standards/WikiData/WD~law,7748]]'
-- '[[_Standards/WikiData/WD~religion,9174]]'
-has_characteristic: '[[_Standards/WikiData/WD~calendar_date,205892]]'
+- '[[_Standards/WikiData/WD~tradition,82821|WD~tradition,82821]]'
+- '[[_Standards/WikiData/WD~law,7748|WD~law,7748]]'
+- '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
+has_characteristic: '[[_Standards/WikiData/WD~calendar_date,205892|WD~calendar_date,205892]]'
 different_from:
-- '[[_Standards/WikiData/WD~Holiday,246051]]'
-- '[[_Standards/WikiData/WD~vacation,20850561]]'
-- '[[_Standards/WikiData/WD~Q54894546,54894546]]'
-facet_of: '[[_Standards/WikiData/WD~religious_holiday,375011]]'
+- '[[_Standards/WikiData/WD~Holiday,246051|WD~Holiday,246051]]'
+- '[[_Standards/WikiData/WD~vacation,20850561|WD~vacation,20850561]]'
+- '[[_Standards/WikiData/WD~Q54894546,54894546|WD~Q54894546,54894546]]'
+facet_of: '[[_Standards/WikiData/WD~religious_holiday,375011|WD~religious_holiday,375011]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~non_working_day,2174956]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~non_working_day,2174956|WD~non_working_day,2174956]]'
 has_use:
-- '[[_Standards/WikiData/WD~celebration,3010205]]'
-- '[[_Standards/WikiData/WD~religious_rite,11795110]]'
+- '[[_Standards/WikiData/WD~celebration,3010205|WD~celebration,3010205]]'
+- '[[_Standards/WikiData/WD~religious_rite,11795110|WD~religious_rite,11795110]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~template_Infobox_holiday,8559530]]'
-- '[[_Standards/WikiData/WD~Template_Name_day,10736181]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Holidays,11270471]]'
+- '[[_Standards/WikiData/WD~template_Infobox_holiday,8559530|WD~template_Infobox_holiday,8559530]]'
+- '[[_Standards/WikiData/WD~Template_Name_day,10736181|WD~Template_Name_day,10736181]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Holidays,11270471|WD~Portal_Holidays,11270471]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~point_in_time_with_respect_to_recurrent_timeframe,14795564]]'
-- '[[_Standards/WikiData/WD~recurring_event,15275719]]'
+- '[[_Standards/WikiData/WD~point_in_time_with_respect_to_recurrent_timeframe,14795564|WD~point_in_time_with_respect_to_recurrent_timeframe,14795564]]'
+- '[[_Standards/WikiData/WD~recurring_event,15275719|WD~recurring_event,15275719]]'
 IAB_code: 157
 OmegaWiki_Defined_Meaning: 5833
 Commons_category: Holidays

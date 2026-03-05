@@ -54,12 +54,12 @@ aliases:
 - 마르꼬브사슬
 - 마르코프 연쇄
 has_id_wikidata: Q176645
-named_after: '[[_Standards/WikiData/WD~Andrey_Markov,176659]]'
+named_after: '[[_Standards/WikiData/WD~Andrey_Markov,176659|WD~Andrey_Markov,176659]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mathematical_model,486902]]'
-- '[[_Standards/WikiData/WD~Markov_process,2221775]]'
-instance_of: '[[_Standards/WikiData/WD~statistical_model,3284399]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~mathematical_model,486902|WD~mathematical_model,486902]]'
+- '[[_Standards/WikiData/WD~Markov_process,2221775|WD~Markov_process,2221775]]'
+instance_of: '[[_Standards/WikiData/WD~statistical_model,3284399|WD~statistical_model,3284399]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 OmegaWiki_Defined_Meaning: 382987
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Markovkate%2001.svg
 UMLS_CUI: C0024828

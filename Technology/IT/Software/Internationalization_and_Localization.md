@@ -59,11 +59,11 @@ aliases:
 - 국제화와 지역화
 has_id_wikidata: Q41271
 has_part_s_:
-- '[[_Standards/WikiData/WD~software_localization,1758815]]'
-- '[[_Standards/WikiData/WD~g11n,9264835]]'
-- '[[_Standards/WikiData/WD~software_internationalization,12071165]]'
-- '[[_Standards/WikiData/WD~l10n,12071467]]'
-subclass_of: '[[_Standards/WikiData/WD~adaptation,31842289]]'
+- '[[_Standards/WikiData/WD~software_localization,1758815|WD~software_localization,1758815]]'
+- '[[_Standards/WikiData/WD~g11n,9264835|WD~g11n,9264835]]'
+- '[[_Standards/WikiData/WD~software_internationalization,12071165|WD~software_internationalization,12071165]]'
+- '[[_Standards/WikiData/WD~l10n,12071467|WD~l10n,12071467]]'
+subclass_of: '[[_Standards/WikiData/WD~adaptation,31842289|WD~adaptation,31842289]]'
 OmegaWiki_Defined_Meaning:
 - 375855
 - 375873

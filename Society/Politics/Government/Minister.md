@@ -73,17 +73,17 @@ aliases:
 - 部长
 - 장관
 has_id_wikidata: Q83307
-organization_directed_by_the_office_or_position: '[[_Standards/WikiData/WD~ministry,192350]]'
+organization_directed_by_the_office_or_position: '[[_Standards/WikiData/WD~ministry,192350|WD~ministry,192350]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~public_office,294414]]'
-- '[[_Standards/WikiData/WD~senior_government_officials,108290289]]'
+- '[[_Standards/WikiData/WD~public_office,294414|WD~public_office,294414]]'
+- '[[_Standards/WikiData/WD~senior_government_officials,108290289|WD~senior_government_officials,108290289]]'
 different_from:
-- '[[_Standards/WikiData/WD~chief_minister,1670755]]'
-- '[[_Standards/WikiData/WD~board_member,31225545]]'
-- '[[_Standards/WikiData/WD~Minister,56375643]]'
-- '[[_Standards/WikiData/WD~priest,42603]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q25734579,25734579]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_position,136649946]]'
+- '[[_Standards/WikiData/WD~chief_minister,1670755|WD~chief_minister,1670755]]'
+- '[[_Standards/WikiData/WD~board_member,31225545|WD~board_member,31225545]]'
+- '[[_Standards/WikiData/WD~Minister,56375643|WD~Minister,56375643]]'
+- '[[_Standards/WikiData/WD~priest,42603|WD~priest,42603]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q25734579,25734579|WD~Q25734579,25734579]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_position,136649946|WD~type_of_position,136649946]]'
 ISCO_88_occupation_class: 1110
 ISCO_08_occupation_class: 1111
 OmegaWiki_Defined_Meaning: 155405
@@ -262,7 +262,7 @@ dv_has_:
 # [[Minister]]
 
 #is_/similar_to :: [[Vizier|Vizier]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Minister,83307]]
+#is_/same_as :: [[_Standards/WikiData/WD~Minister,83307|WD~Minister,83307]]
 
 
 ## #has_/text_of_/abstract 

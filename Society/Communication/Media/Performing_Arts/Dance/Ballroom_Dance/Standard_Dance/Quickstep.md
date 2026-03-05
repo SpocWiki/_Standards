@@ -14,9 +14,9 @@ aliases:
 - クイックステップ
 - 快步
 has_id_wikidata: Q663529
-different_from: '[[_Standards/WikiData/WD~Soudal_Quick_Step,645032]]'
-subclass_of: '[[_Standards/WikiData/WD~ballroom_dance,1085001]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
+different_from: '[[_Standards/WikiData/WD~Soudal_Quick_Step,645032|WD~Soudal_Quick_Step,645032]]'
+subclass_of: '[[_Standards/WikiData/WD~ballroom_dance,1085001|WD~ballroom_dance,1085001]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104|WD~type_of_dance,107357104]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ballroom.jpg
 dv_has_:
   name_:

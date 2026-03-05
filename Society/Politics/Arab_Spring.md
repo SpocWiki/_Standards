@@ -95,15 +95,15 @@ aliases:
 - 아랍의 봄
 has_id_wikidata: Q33761
 instance_of:
-- '[[_Standards/WikiData/WD~rebellion,124734]]'
-- '[[_Standards/WikiData/WD~protest,273120]]'
-- '[[_Standards/WikiData/WD~civil_war,8465]]'
-- '[[_Standards/WikiData/WD~revolution,10931]]'
-locations: '[[_Standards/WikiData/WD~Arab_world,143487]]'
-has_part_s_: '[[_Standards/WikiData/WD~2011_Omani_protests,940675]]'
-different_from: '[[_Standards/WikiData/WD~history_of_Syria,943676]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Arab_Spring,6246349]]'
-described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~rebellion,124734|WD~rebellion,124734]]'
+- '[[_Standards/WikiData/WD~protest,273120|WD~protest,273120]]'
+- '[[_Standards/WikiData/WD~civil_war,8465|WD~civil_war,8465]]'
+- '[[_Standards/WikiData/WD~revolution,10931|WD~revolution,10931]]'
+locations: '[[_Standards/WikiData/WD~Arab_world,143487|WD~Arab_world,143487]]'
+has_part_s_: '[[_Standards/WikiData/WD~2011_Omani_protests,940675|WD~2011_Omani_protests,940675]]'
+different_from: '[[_Standards/WikiData/WD~history_of_Syria,943676|WD~history_of_Syria,943676]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Arab_Spring,6246349|WD~Template_Arab_Spring,6246349]]'
+described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Arab%20Spring%20and%20Regional%20Conflict%20Map.svg
 Commons_category: 2010–2011 Arab world protests
 Gujarati_Vishwakosh_entry: આરબ-ક્રાંતિ

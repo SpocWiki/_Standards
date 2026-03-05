@@ -37,14 +37,14 @@ aliases:
 - 擠製
 - 압출성형
 has_id_wikidata: Q139143
-instance_of: '[[_Standards/WikiData/WD~manufacturing_process,1408288]]'
+instance_of: '[[_Standards/WikiData/WD~manufacturing_process,1408288|WD~manufacturing_process,1408288]]'
 uses:
-- '[[_Standards/WikiData/WD~die,2609080]]'
-- '[[_Standards/WikiData/WD~compression,2712821]]'
+- '[[_Standards/WikiData/WD~die,2609080|WD~die,2609080]]'
+- '[[_Standards/WikiData/WD~compression,2712821|WD~compression,2712821]]'
 different_from:
-- '[[_Standards/WikiData/WD~drawing,2997961]]'
-- '[[_Standards/WikiData/WD~extrusion,99904327]]'
-subclass_of: '[[_Standards/WikiData/WD~forming,5470205]]'
+- '[[_Standards/WikiData/WD~drawing,2997961|WD~drawing,2997961]]'
+- '[[_Standards/WikiData/WD~extrusion,99904327|WD~extrusion,99904327]]'
+subclass_of: '[[_Standards/WikiData/WD~forming,5470205|WD~forming,5470205]]'
 Commons_gallery: Extrusion
 Commons_category: Extrusion
 dv_has_:

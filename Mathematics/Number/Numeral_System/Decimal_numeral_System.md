@@ -97,18 +97,18 @@ aliases:
 - 십진법
 has_id_wikidata: Q81365
 different_from:
-- '[[_Standards/WikiData/WD~decimal_separator,427968]]'
-- '[[_Standards/WikiData/WD~decimal_number,20154908]]'
+- '[[_Standards/WikiData/WD~decimal_separator,427968|WD~decimal_separator,427968]]'
+- '[[_Standards/WikiData/WD~decimal_number,20154908|WD~decimal_number,20154908]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-follows: '[[_Standards/WikiData/WD~nonary,3057662]]'
-followed_by: '[[_Standards/WikiData/WD~undecimal,5357322]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~positional_numeral_system,25457532]]'
-radix: '[[_Standards/WikiData/WD~10,23806]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740|WD~Encyclopædia_Britannica_First_Edition,5375740]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+follows: '[[_Standards/WikiData/WD~nonary,3057662|WD~nonary,3057662]]'
+followed_by: '[[_Standards/WikiData/WD~undecimal,5357322|WD~undecimal,5357322]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~positional_numeral_system,25457532|WD~positional_numeral_system,25457532]]'
+radix: '[[_Standards/WikiData/WD~10,23806|WD~10,23806]]'
 Colon_Classification: B1152
 Commons_category: Decimal numbers
 dv_has_:

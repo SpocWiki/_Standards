@@ -71,7 +71,7 @@ dv_is_same_as:
 #is_/similar_to :: #cancelled  
 has_dual_property = `=this.dv_has_dual_property` 
 
-Predicate to describe the date of [[../../Class/is_a_/Intangible/data_feed_item]].
+Predicate to describe the date of [[../../Class/is_a_/Intangible/data_feed_item|data_feed_item]].
 
 Use it like this: 
 - #has_/time_destroyed::P#Y#M#W#DT#H#M#s.fff  

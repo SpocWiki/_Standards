@@ -32,11 +32,11 @@ aliases:
 - 표현주의 음악
 has_id_wikidata: Q613707
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~musical_movement,12020884]]'
-different_from: '[[_Standards/WikiData/WD~expressionism,9252021]]'
-subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
-described_by_source: '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_movement,12020884|WD~musical_movement,12020884]]'
+different_from: '[[_Standards/WikiData/WD~expressionism,9252021|WD~expressionism,9252021]]'
+subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946|WD~modern_classical_music,65937946]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
 inception: 1908-01-01T00:00:00Z
 dv_has_:
   name_:

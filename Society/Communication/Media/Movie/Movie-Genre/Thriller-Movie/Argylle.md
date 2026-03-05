@@ -72,7 +72,7 @@ aliases:
 ## #has_/text_of_/abstract 
 
 > **Argylle** is a 2024 spy action-comedy film directed and produced by Matthew Vaughn, and written by Jason Fuchs. 
-> The film features an ensemble cast that includes [[../../Actor/British_Actor/Cavill,Henry]], [[../../Actor/US_Actor/Howard,Bryce_Dallas]], [[../../Actor/US_Actor/Rockwell,Sam]], [[../../Actor/US_Actor/Cranston,Bryan]], [[../../Actor/Canadian_Actor/O'Hara,Catherine]], [[../../Actor/British_Actor/Lipa,Dua]], [[../../Actor/US_Actor/DeBose,Ariana]], [[../../Actor/US_Actor/Cena,John]], and [[../../Actor/US_Actor/Jackson,Samuel_L.]]. 
+> The film features an ensemble cast that includes [[../../Actor/British_Actor/Cavill,Henry|Cavill,Henry]], [[../../Actor/US_Actor/Howard,Bryce_Dallas|Howard,Bryce_Dallas]], [[../../Actor/US_Actor/Rockwell,Sam|Rockwell,Sam]], [[../../Actor/US_Actor/Cranston,Bryan|Cranston,Bryan]], [[../../Actor/Canadian_Actor/O'Hara,Catherine|O'Hara,Catherine]], [[../../Actor/British_Actor/Lipa,Dua|Lipa,Dua]], [[../../Actor/US_Actor/DeBose,Ariana|DeBose,Ariana]], [[../../Actor/US_Actor/Cena,John|Cena,John]], and [[../../Actor/US_Actor/Jackson,Samuel_L.|Jackson,Samuel_L.]]. 
 > 
 > Its plot centers on a reclusive author who is drawn into the world of spies and espionage 
 > after she realizes that a new spy novel she is writing mirrors real-world events.

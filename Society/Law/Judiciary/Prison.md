@@ -141,42 +141,42 @@ IPTC_NewsCode: mediatopic/20000137
 Commons_category: Prisons
 GeoNames_feature_code: S.PRN
 OpenStreetMap_tag: amenity=prison
-named_after: '[[_Standards/WikiData/WD~Tyr,172713]]'
+named_after: '[[_Standards/WikiData/WD~Tyr,172713|WD~Tyr,172713]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~institution,178706]]'
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~facility,13226383]]'
+- '[[_Standards/WikiData/WD~institution,178706|WD~institution,178706]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
 has_use:
-- '[[_Standards/WikiData/WD~punishment,186361]]'
-- '[[_Standards/WikiData/WD~incarceration,853735]]'
-- '[[_Standards/WikiData/WD~reform,900406]]'
-- '[[_Standards/WikiData/WD~prison_agency,7162158]]'
+- '[[_Standards/WikiData/WD~punishment,186361|WD~punishment,186361]]'
+- '[[_Standards/WikiData/WD~incarceration,853735|WD~incarceration,853735]]'
+- '[[_Standards/WikiData/WD~reform,900406|WD~reform,900406]]'
+- '[[_Standards/WikiData/WD~prison_agency,7162158|WD~prison_agency,7162158]]'
 part_of:
-- '[[_Standards/WikiData/WD~corrections,328616]]'
-- '[[_Standards/WikiData/WD~human_settlement,486972]]'
-- '[[_Standards/WikiData/WD~government_building,16831714]]'
+- '[[_Standards/WikiData/WD~corrections,328616|WD~corrections,328616]]'
+- '[[_Standards/WikiData/WD~human_settlement,486972|WD~human_settlement,486972]]'
+- '[[_Standards/WikiData/WD~government_building,16831714|WD~government_building,16831714]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-used_by: '[[_Standards/WikiData/WD~imprisonment,841236]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_prison,8784047]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Prisons,14616093]]'
-studied_by: '[[_Standards/WikiData/WD~prison_studies,15920600]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+used_by: '[[_Standards/WikiData/WD~imprisonment,841236|WD~imprisonment,841236]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_prison,8784047|WD~Template_Infobox_prison,8784047]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Prisons,14616093|WD~Portal_Prisons,14616093]]'
+studied_by: '[[_Standards/WikiData/WD~prison_studies,15920600|WD~prison_studies,15920600]]'
 different_from:
-- '[[_Standards/WikiData/WD~prison,17567322]]'
-- '[[_Standards/WikiData/WD~Prison,128034364]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~prison_director,51530959]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_prisons,113861613]]'
+- '[[_Standards/WikiData/WD~prison,17567322|WD~prison,17567322]]'
+- '[[_Standards/WikiData/WD~Prison,128034364|WD~Prison,128034364]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~prison_director,51530959|WD~prison_director,51530959]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_prisons,113861613|WD~history_of_prisons,113861613]]'
 Wikidata_property: place of detention
 Dewey_Decimal_Classification: 365
 Nomenclature_for_Museum_Cataloging:

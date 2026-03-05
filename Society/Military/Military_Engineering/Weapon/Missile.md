@@ -74,21 +74,21 @@ aliases:
 - 미싸일
 has_id_wikidata: Q974850
 subclass_of:
-- '[[_Standards/WikiData/WD~ranged_weapon,153556]]'
-- '[[_Standards/WikiData/WD~precision_guided_munition,32050]]'
-- '[[_Standards/WikiData/WD~rocket,41291]]'
-has_list: '[[_Standards/WikiData/WD~list_of_missiles,3244242]]'
+- '[[_Standards/WikiData/WD~ranged_weapon,153556|WD~ranged_weapon,153556]]'
+- '[[_Standards/WikiData/WD~precision_guided_munition,32050|WD~precision_guided_munition,32050]]'
+- '[[_Standards/WikiData/WD~rocket,41291|WD~rocket,41291]]'
+has_list: '[[_Standards/WikiData/WD~list_of_missiles,3244242|WD~list_of_missiles,3244242]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Missile_types,8083630]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_missile,14357890]]'
-- '[[_Standards/WikiData/WD~Template_Missile_navboxes,20368795]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_missile_2,20690094]]'
+- '[[_Standards/WikiData/WD~Template_Missile_types,8083630|WD~Template_Missile_types,8083630]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_missile,14357890|WD~Template_Infobox_missile,14357890]]'
+- '[[_Standards/WikiData/WD~Template_Missile_navboxes,20368795|WD~Template_Missile_navboxes,20368795]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_missile_2,20690094|WD~Template_Infobox_missile_2,20690094]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Military_history,8486702]]'
-- '[[_Standards/WikiData/WD~WikiProject_Weaponry,19588592]]'
-- '[[_Standards/WikiData/WD~Military_science,_technology,_and_theory_task_force,21830399]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~WikiProject_Military_history,8486702|WD~WikiProject_Military_history,8486702]]'
+- '[[_Standards/WikiData/WD~WikiProject_Weaponry,19588592|WD~WikiProject_Weaponry,19588592]]'
+- '[[_Standards/WikiData/WD~Military_science,_technology,_and_theory_task_force,21830399|WD~Military_science,_technology,_and_theory_task_force,21830399]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422|WD~weapon_functional_class,124078422]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 Nomenclature_for_Museum_Cataloging: 7776
 U_S_National_Archives_Identifier: 10640854
 Commons_category: Missiles

@@ -51,11 +51,11 @@ aliases:
 - 리아시아기
 has_id_wikidata: Q870511
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523]]'
-named_after: '[[_Standards/WikiData/WD~lava_flow,2512740]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Rhyacian,131219301]]'
+- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+named_after: '[[_Standards/WikiData/WD~lava_flow,2512740|WD~lava_flow,2512740]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Rhyacian,131219301|WD~Category_Rhyacian,131219301]]'
 end_time: -2050000000-01-01T00:00:00Z
 start_time: -2300000000-01-01T00:00:00Z
 Commons_category: Rhyacian

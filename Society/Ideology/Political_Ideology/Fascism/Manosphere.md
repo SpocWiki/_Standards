@@ -111,7 +111,7 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Manosphere) 
 
 
-Modern [[../../../../../Philosophy/Stoicism]] was captured by the [[Manosphere]] to form [[Broicism]]. 
+Modern [[../../../../../Philosophy/Stoicism|Stoicism]] was captured by the [[Manosphere]] to form [[Broicism]]. 
 
 It is used to exploit insecure young men into 
 - giving their money 

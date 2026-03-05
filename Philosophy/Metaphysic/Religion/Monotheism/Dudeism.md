@@ -23,7 +23,7 @@ aliases:
 - 都得主义
 - 듀드주의
 has_id_wikidata: Q2671570
-instance_of: '[[_Standards/WikiData/WD~world_view,49447]]'
+instance_of: '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
 official_website: https://dudeism.com
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dudeism.svg
 subreddit: Dudeism
@@ -66,9 +66,9 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > **Dudeism** is a religion, philosophy, or lifestyle inspired by "The Dude", 
-> the protagonist of the Coen Brothers' 1998 film The [[../../../../../Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski]].
+> the protagonist of the Coen Brothers' 1998 film The [[../../../../../Society/Communication/Media/Movie/Movie-Genre/Comedy/Big_Lebowski|Big_Lebowski]].
 >
-> Dudeism's stated primary objective is to promote a modern form of Chinese [[../Nontheism/Natural_Law_Religion/Taoism]], 
+> Dudeism's stated primary objective is to promote a modern form of Chinese [[../Nontheism/Natural_Law_Religion/Taoism|Taoism]], 
 > outlined in Tao Te Ching by [[../../../../Philosopher/Ancient_Philosopher/Laozi|Laozi]] (6th century BCE), 
 > blended with concepts from the Ancient Greek philosopher Epicurus (341–270 BCE), 
 > and presented in a style as personified by the character of Jeffrey "The Dude" Lebowski, 

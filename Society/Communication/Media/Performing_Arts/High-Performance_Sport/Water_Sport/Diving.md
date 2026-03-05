@@ -75,16 +75,16 @@ aliases:
 - 다이빙
 has_id_wikidata: Q7735
 different_from:
-- '[[_Standards/WikiData/WD~underwater_diving,179643]]'
-- '[[_Standards/WikiData/WD~diving,633043]]'
-- '[[_Standards/WikiData/WD~swimming,6388]]'
-has_characteristic: '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-practiced_by: '[[_Standards/WikiData/WD~competitive_diver,16004431]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~underwater_diving,179643|WD~underwater_diving,179643]]'
+- '[[_Standards/WikiData/WD~diving,633043|WD~diving,633043]]'
+- '[[_Standards/WikiData/WD~swimming,6388|WD~swimming,6388]]'
+has_characteristic: '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+practiced_by: '[[_Standards/WikiData/WD~competitive_diver,16004431|WD~competitive_diver,16004431]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~competitive_swimming,31920]]'
-- '[[_Standards/WikiData/WD~water_sport,61065]]'
-sport: '[[_Standards/WikiData/WD~water_sport,61065]]'
+- '[[_Standards/WikiData/WD~competitive_swimming,31920|WD~competitive_swimming,31920]]'
+- '[[_Standards/WikiData/WD~water_sport,61065|WD~water_sport,61065]]'
+sport: '[[_Standards/WikiData/WD~water_sport,61065|WD~water_sport,61065]]'
 IAB_code: 495
 U_S_National_Archives_Identifier: 10645292
 Commons_category: Diving

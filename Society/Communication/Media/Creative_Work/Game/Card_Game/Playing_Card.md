@@ -92,32 +92,32 @@ aliases:
 - 溪之枋
 - 플레잉 카드
 has_id_wikidata: Q47883
-has_use: '[[_Standards/WikiData/WD~card_game,142714]]'
+has_use: '[[_Standards/WikiData/WD~card_game,142714|WD~card_game,142714]]'
 depicts:
-- '[[_Standards/WikiData/WD~jester,215548]]'
-- '[[_Standards/WikiData/WD~value,878143]]'
-- '[[_Standards/WikiData/WD~suit,27905]]'
-- '[[_Standards/WikiData/WD~face,37017]]'
+- '[[_Standards/WikiData/WD~jester,215548|WD~jester,215548]]'
+- '[[_Standards/WikiData/WD~value,878143|WD~value,878143]]'
+- '[[_Standards/WikiData/WD~suit,27905|WD~suit,27905]]'
+- '[[_Standards/WikiData/WD~face,37017|WD~face,37017]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~printed_matter,1261026]]'
-- '[[_Standards/WikiData/WD~game_equipment,17638008]]'
-- '[[_Standards/WikiData/WD~Card,29024343]]'
+- '[[_Standards/WikiData/WD~printed_matter,1261026|WD~printed_matter,1261026]]'
+- '[[_Standards/WikiData/WD~game_equipment,17638008|WD~game_equipment,17638008]]'
+- '[[_Standards/WikiData/WD~Card,29024343|WD~Card,29024343]]'
 part_of:
-- '[[_Standards/WikiData/WD~card_deck,3418492]]'
-- '[[_Standards/WikiData/WD~hand,56239758]]'
-made_from_material: '[[_Standards/WikiData/WD~card_stock,6432723]]'
+- '[[_Standards/WikiData/WD~card_deck,3418492|WD~card_deck,3418492]]'
+- '[[_Standards/WikiData/WD~hand,56239758|WD~hand,56239758]]'
+made_from_material: '[[_Standards/WikiData/WD~card_stock,6432723|WD~card_stock,6432723]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Playing_cards,14336042]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_playing_card,22712000]]'
-- '[[_Standards/WikiData/WD~Q25941906,25941906]]'
-different_from: '[[_Standards/WikiData/WD~map,4006]]'
+- '[[_Standards/WikiData/WD~Template_Playing_cards,14336042|WD~Template_Playing_cards,14336042]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_playing_card,22712000|WD~Template_Infobox_playing_card,22712000]]'
+- '[[_Standards/WikiData/WD~Q25941906,25941906|WD~Q25941906,25941906]]'
+different_from: '[[_Standards/WikiData/WD~map,4006|WD~map,4006]]'
 Nomenclature_for_Museum_Cataloging: 14230
 OmegaWiki_Defined_Meaning: 435911
 IMDb_keyword:

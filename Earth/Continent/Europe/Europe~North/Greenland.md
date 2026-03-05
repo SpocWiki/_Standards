@@ -454,9 +454,9 @@ dv_has_:
 dv_has_name_de: Grönland
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Europe]]'
+dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: KN
-dv_Capital: '[[Greenland/City/Godthab]]'
+dv_Capital: '[[Greenland/City/Godthab|Godthab]]'
 dv_has_place_longitude: -51.67
 dv_has_place_latitude: 64.25
 dv_developed_developing_countries: Developed
@@ -548,7 +548,7 @@ ISO3 = `=this.dv_ISO3`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Greenland/ReadMe]] 
+[[Greenland/ReadMe|ReadMe]] 
 
 ## #has_/map  
 

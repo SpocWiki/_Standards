@@ -52,12 +52,12 @@ aliases:
 - 도둑정치
 has_id_wikidata: Q191244
 subclass_of:
-- '[[_Standards/WikiData/WD~oligarchy,79751]]'
-- '[[_Standards/WikiData/WD~state_system,20076236]]'
+- '[[_Standards/WikiData/WD~oligarchy,79751|WD~oligarchy,79751]]'
+- '[[_Standards/WikiData/WD~state_system,20076236|WD~state_system,20076236]]'
 instance_of:
-- '[[_Standards/WikiData/WD~form_of_state,183039]]'
-- '[[_Standards/WikiData/WD~form_of_government,1307214]]'
-described_by_source: '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
+- '[[_Standards/WikiData/WD~form_of_state,183039|WD~form_of_state,183039]]'
+- '[[_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
+described_by_source: '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404|WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
 OmegaWiki_Defined_Meaning: 1493200
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Corrupt-Legislation-Vedder-Highsmith-detail-1.jpeg
 dv_has_:
@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Kleptocracy]] 
 
-#is_/same_as :: [[/_public/WikiData/WD~Kleptocracy,191244]] 
+#is_/same_as :: [[/_public/WikiData/WD~Kleptocracy,191244|WD~Kleptocracy,191244]] 
 
 ## #has_/text_of_/abstract 
 

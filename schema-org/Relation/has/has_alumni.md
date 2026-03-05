@@ -24,7 +24,7 @@ title: has_alumni
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
-  inverse: "[[../is/is_alumni_of]]"
+  inverse: "[[../is/is_alumni_of|is_alumni_of]]"
   domain:
     - "[[../../../Earth/Geography/Place/Civic_Structure/Educational_Organization|Educational_Organization]]"
     - "[[../../../Society/Agent/Community/Organization|Organization]]"
@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_alumni.private|has_alumni.private]]"
     - "[[/_personal/schema-org/Relation/has/has_alumni.personal|has_alumni.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_alumni.secret|has_alumni.secret]]"
-dv_has_inverse: "[[../is/is_alumni_of]]"
+dv_has_inverse: "[[../is/is_alumni_of|is_alumni_of]]"
 dv_has_domain:
   - "[[../../../Earth/Geography/Place/Civic_Structure/Educational_Organization|Educational_Organization]]"
   - "[[../../../Society/Agent/Community/Organization|Organization]]"

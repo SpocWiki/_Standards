@@ -83,8 +83,8 @@ has_id_wikidata: Q33705
 tags:
 - Lang_Family
 type: LangFamily
-subclass_of: '[[_Standards/WikiData/WD~human_language,20162172]]'
-instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+subclass_of: '[[_Standards/WikiData/WD~human_language,20162172|WD~human_language,20162172]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
 OmegaWiki_Defined_Meaning: 596391
 ISO_639_5_code: ssa
 IETF_language_tag: ssa

@@ -144,19 +144,19 @@ tags:
 - schema-org/Class
 title: is_an_integer Class
 type: Type
-different_from: '[[_Standards/WikiData/WD~integral,80091]]'
+different_from: '[[_Standards/WikiData/WD~integral,80091|WD~integral,80091]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Gaussian_integer,724975]]'
-- '[[_Standards/WikiData/WD~number_with_finite_decimal_representation,8424307]]'
-- '[[_Standards/WikiData/WD~p_adic_integer,11756524]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-part_of: '[[_Standards/WikiData/WD~set_of_integers,47007735]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_number,47460393]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_integer,101757284]]'
+- '[[_Standards/WikiData/WD~Gaussian_integer,724975|WD~Gaussian_integer,724975]]'
+- '[[_Standards/WikiData/WD~number_with_finite_decimal_representation,8424307|WD~number_with_finite_decimal_representation,8424307]]'
+- '[[_Standards/WikiData/WD~p_adic_integer,11756524|WD~p_adic_integer,11756524]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+part_of: '[[_Standards/WikiData/WD~set_of_integers,47007735|WD~set_of_integers,47007735]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_number,47460393|WD~type_of_number,47460393]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_integer,101757284|WD~Template_Infobox_integer,101757284]]'
 studied_by:
-- '[[_Standards/WikiData/WD~Q114703800,114703800]]'
-- '[[_Standards/WikiData/WD~number_theory,12479]]'
+- '[[_Standards/WikiData/WD~Q114703800,114703800|WD~Q114703800,114703800]]'
+- '[[_Standards/WikiData/WD~number_theory,12479|WD~number_theory,12479]]'
 OmegaWiki_Defined_Meaning: 968897
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EvenOddNumberLine.svg
 Stack_Exchange_tag: https://math.stackexchange.com/tags/integers
@@ -331,9 +331,9 @@ dv_has_:
     zh_sg: 整数
     zh_tw: 整數
   parent_class:
-  - '[[../Number]]'
+  - '[[../Number|Number]]'
 dv_has_parent_class:
-- '[[../Number]]'
+- '[[../Number|Number]]'
 dv_is_same_as:
 - '[[../../../../../WikiData/WD~Integer,12503|WD~Integer,12503]]'
 - '[[Integer]]'

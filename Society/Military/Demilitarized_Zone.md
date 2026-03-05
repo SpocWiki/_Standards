@@ -59,15 +59,15 @@ aliases:
 - 非軍事區
 - 비무장 지대
 has_id_wikidata: Q41691
-model_item: '[[_Standards/WikiData/WD~Korean_Demilitarized_Zone,331990]]'
+model_item: '[[_Standards/WikiData/WD~Korean_Demilitarized_Zone,331990|WD~Korean_Demilitarized_Zone,331990]]'
 different_from:
-- '[[_Standards/WikiData/WD~unarmed_neutrality_Japan_,11663741]]'
-- '[[_Standards/WikiData/WD~closed_border,87443571]]'
+- '[[_Standards/WikiData/WD~unarmed_neutrality_Japan_,11663741|WD~unarmed_neutrality_Japan_,11663741]]'
+- '[[_Standards/WikiData/WD~closed_border,87443571|WD~closed_border,87443571]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~military_restricted_area,11836899]]'
-- '[[_Standards/WikiData/WD~restricted_area,133521624]]'
-- '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
-does_not_have_characteristic: '[[_Standards/WikiData/WD~military,8473]]'
+- '[[_Standards/WikiData/WD~military_restricted_area,11836899|WD~military_restricted_area,11836899]]'
+- '[[_Standards/WikiData/WD~restricted_area,133521624|WD~restricted_area,133521624]]'
+- '[[_Standards/WikiData/WD~administrative_territorial_entity,56061|WD~administrative_territorial_entity,56061]]'
+does_not_have_characteristic: '[[_Standards/WikiData/WD~military,8473|WD~military,8473]]'
 U_S_National_Archives_Identifier: 10638054
 coordinate_location: Point(126.74704 37.967751)
 Commons_category: Demilitarized zones

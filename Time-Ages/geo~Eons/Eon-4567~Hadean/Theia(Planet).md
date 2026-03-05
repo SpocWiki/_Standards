@@ -32,16 +32,16 @@ aliases:
 - 테이아
 has_id_wikidata: Q1053432
 different_from:
-- '[[_Standards/WikiData/WD~Orpheus,174353]]'
-- '[[_Standards/WikiData/WD~Theia,10695999]]'
-named_after: '[[_Standards/WikiData/WD~Theia,184232]]'
+- '[[_Standards/WikiData/WD~Orpheus,174353|WD~Orpheus,174353]]'
+- '[[_Standards/WikiData/WD~Theia,10695999|WD~Theia,10695999]]'
+named_after: '[[_Standards/WikiData/WD~Theia,184232|WD~Theia,184232]]'
 instance_of:
-- '[[_Standards/WikiData/WD~protoplanet,849009]]'
-- '[[_Standards/WikiData/WD~hypothetical_astronomical_object,5961257]]'
-has_effect: '[[_Standards/WikiData/WD~origin_of_the_Moon,7102486]]'
+- '[[_Standards/WikiData/WD~protoplanet,849009|WD~protoplanet,849009]]'
+- '[[_Standards/WikiData/WD~hypothetical_astronomical_object,5961257|WD~hypothetical_astronomical_object,5961257]]'
+has_effect: '[[_Standards/WikiData/WD~origin_of_the_Moon,7102486|WD~origin_of_the_Moon,7102486]]'
 orbital_period: http://www.wikidata.org/.well-known/genid/cb952761e93eae9b253e3e14c079a51c
 start_time: -4568000000-01-01T00:00:00Z
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
 semi_major_axis_of_an_orbit: 1
 mass: 6e+23
 diameter: 6000

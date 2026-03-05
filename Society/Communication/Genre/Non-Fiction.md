@@ -85,11 +85,11 @@ publish: false
 publishDate: ''
 type: private_note
 opposite_of:
-- '[[_Standards/WikiData/WD~belletristic_literature,268416]]'
-- '[[_Standards/WikiData/WD~fiction,8253]]'
-subclass_of: '[[../../../WikiData/WD~work,386724]]'
-instance_of: '[[_Standards/WikiData/WD~genre,483394]]'
-different_from: '[[_Standards/WikiData/WD~non_fiction_literature,27801]]'
+- '[[_Standards/WikiData/WD~belletristic_literature,268416|WD~belletristic_literature,268416]]'
+- '[[_Standards/WikiData/WD~fiction,8253|WD~fiction,8253]]'
+subclass_of: '[[../../../WikiData/WD~work,386724|WD~work,386724]]'
+instance_of: '[[_Standards/WikiData/WD~genre,483394|WD~genre,483394]]'
+different_from: '[[_Standards/WikiData/WD~non_fiction_literature,27801|WD~non_fiction_literature,27801]]'
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wa-fel%20LM%20warab%C3%AA.ogg
 IPTC_NewsCode: mediatopic/20000016
 IMDb_keyword:
@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Non-Fiction]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~non-fiction,213051]]
+#is_/same_as :: [[_Standards/WikiData/WD~non-fiction,213051|WD~non-fiction,213051]]
 
 ## #has_/text_of_/abstract 
 

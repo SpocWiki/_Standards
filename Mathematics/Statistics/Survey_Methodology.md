@@ -47,11 +47,11 @@ aliases:
 - 설문
 has_id_wikidata: Q814232
 subclass_of:
-- '[[_Standards/WikiData/WD~survey_study,3490295]]'
-- '[[_Standards/WikiData/WD~statistical_investigation,64418432]]'
-different_from: '[[_Standards/WikiData/WD~Q9164029,9164029]]'
-instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-practiced_by: '[[_Standards/WikiData/WD~survey_methodologist,13294463]]'
+- '[[_Standards/WikiData/WD~survey_study,3490295|WD~survey_study,3490295]]'
+- '[[_Standards/WikiData/WD~statistical_investigation,64418432|WD~statistical_investigation,64418432]]'
+different_from: '[[_Standards/WikiData/WD~Q9164029,9164029|WD~Q9164029,9164029]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~survey_methodologist,13294463|WD~survey_methodologist,13294463]]'
 OmegaWiki_Defined_Meaning: 935794
 Commons_category: Survey methodology
 dv_has_:

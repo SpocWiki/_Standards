@@ -57,18 +57,18 @@ aliases:
 - 相 (物理)
 - 상
 has_id_wikidata: Q104837
-contains: '[[_Standards/WikiData/WD~material,214609]]'
+contains: '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~thermodynamic_state,230875]]'
-- '[[_Standards/WikiData/WD~region_of_space,26713767]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-has_characteristic: '[[_Standards/WikiData/WD~homogeneity,24188499]]'
+- '[[_Standards/WikiData/WD~thermodynamic_state,230875|WD~thermodynamic_state,230875]]'
+- '[[_Standards/WikiData/WD~region_of_space,26713767|WD~region_of_space,26713767]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+has_characteristic: '[[_Standards/WikiData/WD~homogeneity,24188499|WD~homogeneity,24188499]]'
 main_Wikidata_property: phase point
 different_from:
-- '[[_Standards/WikiData/WD~Phase,4555]]'
-- '[[_Standards/WikiData/WD~state_of_matter,11430]]'
-facet_of: '[[_Standards/WikiData/WD~state_of_matter,11430]]'
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~Phase,4555|WD~Phase,4555]]'
+- '[[_Standards/WikiData/WD~state_of_matter,11430|WD~state_of_matter,11430]]'
+facet_of: '[[_Standards/WikiData/WD~state_of_matter,11430|WD~state_of_matter,11430]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Ice%20water%20vapor.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Water%20and%20ice.jpg

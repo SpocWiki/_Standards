@@ -27,9 +27,9 @@ tags:
 title: is_a_toll_free Class
 type: Type
 dv_has_:
-  parent_class: "[[../ContactPointOption]]"
+  parent_class: "[[../ContactPointOption|ContactPointOption]]"
 dv_is_:
-  enum_of: "[[../ContactPointOption]]"
+  enum_of: "[[../ContactPointOption|ContactPointOption]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Contact_Point_Option/Toll_Free|Toll_Free]]"
     - "[[/_public/schema-org/Enumeration/Contact_Point_Option/Toll_Free.public|Toll_Free.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Contact_Point_Option/Toll_Free.personal|Toll_Free.personal]]"
     - "[[/_secret/schema-org/Enumeration/Contact_Point_Option/Toll_Free.secret|Toll_Free.secret]]"
     - "[[Toll_Free]]"
-dv_has_parent_class: "[[../ContactPointOption]]"
-dv_is_enum_of: "[[../ContactPointOption]]"
+dv_has_parent_class: "[[../ContactPointOption|ContactPointOption]]"
+dv_is_enum_of: "[[../ContactPointOption|ContactPointOption]]"
 dv_is_same_as:
   - "[[Toll_Free]]"
   - "[[/_public/schema-org/Enumeration/Contact_Point_Option/Toll_Free.public|Toll_Free.public]]"

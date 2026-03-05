@@ -42,11 +42,11 @@ aliases:
 - 障礙超越
 - 장애물 경주
 has_id_wikidata: Q211773
-subclass_of: '[[_Standards/WikiData/WD~equestrian_sport,902378]]'
-has_part_s_: '[[_Standards/WikiData/WD~jumping,1151752]]'
-instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
-practiced_by: '[[_Standards/WikiData/WD~show_jumper,24797688]]'
-uses: '[[_Standards/WikiData/WD~show_jumping_horse,60199356]]'
+subclass_of: '[[_Standards/WikiData/WD~equestrian_sport,902378|WD~equestrian_sport,902378]]'
+has_part_s_: '[[_Standards/WikiData/WD~jumping,1151752|WD~jumping,1151752]]'
+instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410|WD~sports_discipline,2312410]]'
+practiced_by: '[[_Standards/WikiData/WD~show_jumper,24797688|WD~show_jumper,24797688]]'
+uses: '[[_Standards/WikiData/WD~show_jumping_horse,60199356|WD~show_jumping_horse,60199356]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Equestrian%20Jumping%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kamal%20Bahamdan%20%26%20Noblesse%20Des%20Tess%20-%202013%20Longines%20Global%20Champions%20Tour.jpg
 Commons_gallery: Show jumping

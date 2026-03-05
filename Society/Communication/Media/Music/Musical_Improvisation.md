@@ -40,15 +40,15 @@ aliases:
 - 즉흥 연주
 has_id_wikidata: Q1049625
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~music_performance_technique,6942574]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~music_performance_technique,6942574|WD~music_performance_technique,6942574]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~improvisation,214961]]'
-- '[[_Standards/WikiData/WD~musical_performance,6942562]]'
-described_by_source: "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~improvisation,214961|WD~improvisation,214961]]'
+- '[[_Standards/WikiData/WD~musical_performance,6942562|WD~musical_performance,6942562]]'
+described_by_source: "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Andreas%20Paolo%20Perger%20live%20at%20Zionskirche%20Berlin%202014.jpg
 Commons_category: Musical improvisation
 dv_has_:

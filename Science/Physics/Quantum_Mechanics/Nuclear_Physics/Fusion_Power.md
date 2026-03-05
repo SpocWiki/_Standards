@@ -52,24 +52,24 @@ aliases:
 - 聚變能
 - 핵융합 발전
 has_id_wikidata: Q641442
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]'
-- '[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]'
-- '[[_Standards/WikiData/WD~WikiProject_Energy,15106301]]'
-- '[[_Standards/WikiData/WD~WikiProject_International_relations,15304945]]'
-- '[[_Standards/WikiData/WD~WikiProject_Science_Policy,134286021]]'
-has_characteristic: '[[_Standards/WikiData/WD~Fusion_energy_gain_factor,5510279]]'
+- '[[_Standards/WikiData/WD~WikiProject_Environment,5497659|WD~WikiProject_Environment,5497659]]'
+- '[[_Standards/WikiData/WD~WikiProject_Physics,8487193|WD~WikiProject_Physics,8487193]]'
+- '[[_Standards/WikiData/WD~WikiProject_Energy,15106301|WD~WikiProject_Energy,15106301]]'
+- '[[_Standards/WikiData/WD~WikiProject_International_relations,15304945|WD~WikiProject_International_relations,15304945]]'
+- '[[_Standards/WikiData/WD~WikiProject_Science_Policy,134286021|WD~WikiProject_Science_Policy,134286021]]'
+has_characteristic: '[[_Standards/WikiData/WD~Fusion_energy_gain_factor,5510279|WD~Fusion_energy_gain_factor,5510279]]'
 uses:
-- '[[_Standards/WikiData/WD~fusion_reactor,11536219]]'
-- '[[_Standards/WikiData/WD~nuclear_fusion,13082]]'
+- '[[_Standards/WikiData/WD~fusion_reactor,11536219|WD~fusion_reactor,11536219]]'
+- '[[_Standards/WikiData/WD~nuclear_fusion,13082|WD~nuclear_fusion,13082]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Fusion_power,13394130]]'
-- '[[_Standards/WikiData/WD~Template_Fusion_experiments,13775089]]'
+- '[[_Standards/WikiData/WD~Template_Fusion_power,13394130|WD~Template_Fusion_power,13394130]]'
+- '[[_Standards/WikiData/WD~Template_Fusion_experiments,13775089|WD~Template_Fusion_experiments,13775089]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~energy_technology,14554973]]'
-- '[[_Standards/WikiData/WD~nuclear_fusion,13082]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~energy_technology,14554973|WD~energy_technology,14554973]]'
+- '[[_Standards/WikiData/WD~nuclear_fusion,13082|WD~nuclear_fusion,13082]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 subreddit: fusion
 Commons_category: Nuclear fusion reactors
 dv_has_:

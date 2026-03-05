@@ -120,14 +120,14 @@ aliases:
 - 游泳
 - 수영
 has_id_wikidata: Q6388
-associated_hazard: '[[_Standards/WikiData/WD~drowning,506616]]'
+associated_hazard: '[[_Standards/WikiData/WD~drowning,506616|WD~drowning,506616]]'
 Commons_category: Swimming
 Commons_gallery: Swimming
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 different_from:
-- '[[_Standards/WikiData/WD~underwater_diving,179643]]'
-- '[[_Standards/WikiData/WD~Q1229875,1229875]]'
-- '[[_Standards/WikiData/WD~diving,7735]]'
+- '[[_Standards/WikiData/WD~underwater_diving,179643|WD~underwater_diving,179643]]'
+- '[[_Standards/WikiData/WD~Q1229875,1229875|WD~Q1229875,1229875]]'
+- '[[_Standards/WikiData/WD~diving,7735|WD~diving,7735]]'
 hashtag: Swimming
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Avishag%20Turek%20in%20training%20camp%20Eilat%20Israel.jpg
 MeSH_tree_code:
@@ -135,13 +135,13 @@ MeSH_tree_code:
 - G11.427.410.698.277.875
 - I03.350.875
 - I03.450.642.845.945.500
-practiced_by: '[[_Standards/WikiData/WD~swimmer,10843402]]'
-sport: '[[_Standards/WikiData/WD~swimming,31920]]'
+practiced_by: '[[_Standards/WikiData/WD~swimmer,10843402|WD~swimmer,10843402]]'
+sport: '[[_Standards/WikiData/WD~swimming,31920|WD~swimming,31920]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_activity,747883]]'
-- '[[_Standards/WikiData/WD~aquatic_locomotion,3467704]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Swimming,14615950]]'
+- '[[_Standards/WikiData/WD~physical_activity,747883|WD~physical_activity,747883]]'
+- '[[_Standards/WikiData/WD~aquatic_locomotion,3467704|WD~aquatic_locomotion,3467704]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Swimming,14615950|WD~Portal_Swimming,14615950]]'
 UMLS_CUI: C0039003
 dv_has_:
   name_:

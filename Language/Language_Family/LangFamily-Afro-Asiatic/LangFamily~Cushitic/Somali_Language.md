@@ -114,39 +114,39 @@ aliases:
 - "\U00010496\U0001048D \U00010488\U0001049D\U00010491\U0001049B\U00010490\U00010498"
 has_id_wikidata: Q13275
 linguistic_typology:
-- '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
-- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~agglutinative_language,171263|WD~agglutinative_language,171263]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808|WD~subject_object_verb,539808]]'
 indigenous_to:
-- '[[_Standards/WikiData/WD~Dire_Dawa,193486]]'
-- '[[_Standards/WikiData/WD~Afar_Region,193494]]'
-- '[[_Standards/WikiData/WD~Oromia_Region,202107]]'
-- '[[_Standards/WikiData/WD~Somali_Region,202800]]'
-- '[[_Standards/WikiData/WD~Mandera_County,1477874]]'
-- '[[_Standards/WikiData/WD~Garissa_County,1494292]]'
-- '[[_Standards/WikiData/WD~Wajir_County,1852209]]'
-- '[[_Standards/WikiData/WD~Djibouti,977]]'
-- '[[_Standards/WikiData/WD~Somalia,1045]]'
+- '[[_Standards/WikiData/WD~Dire_Dawa,193486|WD~Dire_Dawa,193486]]'
+- '[[_Standards/WikiData/WD~Afar_Region,193494|WD~Afar_Region,193494]]'
+- '[[_Standards/WikiData/WD~Oromia_Region,202107|WD~Oromia_Region,202107]]'
+- '[[_Standards/WikiData/WD~Somali_Region,202800|WD~Somali_Region,202800]]'
+- '[[_Standards/WikiData/WD~Mandera_County,1477874|WD~Mandera_County,1477874]]'
+- '[[_Standards/WikiData/WD~Garissa_County,1494292|WD~Garissa_County,1494292]]'
+- '[[_Standards/WikiData/WD~Wajir_County,1852209|WD~Wajir_County,1852209]]'
+- '[[_Standards/WikiData/WD~Djibouti,977|WD~Djibouti,977]]'
+- '[[_Standards/WikiData/WD~Somalia,1045|WD~Somalia,1045]]'
 instance_of:
-- '[[_Standards/WikiData/WD~modern_language,1288568]]'
-- '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568|WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742|WD~natural_language,33742]]'
 writing_system:
-- '[[_Standards/WikiData/WD~Osmanya,1377866]]'
-- "[[_Standards/WikiData/WD~Wadaad's_writing,1647368]]"
-- '[[_Standards/WikiData/WD~Latin_script,8229]]'
+- '[[_Standards/WikiData/WD~Osmanya,1377866|WD~Osmanya,1377866]]'
+- "[[_Standards/WikiData/WD~Wadaad's_writing,1647368|WD~Wadaad's_writing,1647368]]"
+- '[[_Standards/WikiData/WD~Latin_script,8229|WD~Latin_script,8229]]'
 country:
-- '[[_Standards/WikiData/WD~Waqooyi_Bari,2621587]]'
-- '[[_Standards/WikiData/WD~Djibouti,977]]'
-- '[[_Standards/WikiData/WD~Somalia,1045]]'
-- '[[_Standards/WikiData/WD~Kenya,114]]'
-- '[[_Standards/WikiData/WD~Ethiopia,115]]'
-- '[[_Standards/WikiData/WD~Somaliland,34754]]'
-different_from: '[[_Standards/WikiData/WD~Somali_languages,7559163]]'
-subclass_of: '[[_Standards/WikiData/WD~Somali_languages,7559163]]'
-UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
-Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
+- '[[_Standards/WikiData/WD~Waqooyi_Bari,2621587|WD~Waqooyi_Bari,2621587]]'
+- '[[_Standards/WikiData/WD~Djibouti,977|WD~Djibouti,977]]'
+- '[[_Standards/WikiData/WD~Somalia,1045|WD~Somalia,1045]]'
+- '[[_Standards/WikiData/WD~Kenya,114|WD~Kenya,114]]'
+- '[[_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]'
+- '[[_Standards/WikiData/WD~Somaliland,34754|WD~Somaliland,34754]]'
+different_from: '[[_Standards/WikiData/WD~Somali_languages,7559163|WD~Somali_languages,7559163]]'
+subclass_of: '[[_Standards/WikiData/WD~Somali_languages,7559163|WD~Somali_languages,7559163]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086|WD~1_safe,20672086]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546|WD~1_National,29051546]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
-- '[[_Standards/WikiData/WD~Q131938994,131938994]]'
+- '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263|WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+- '[[_Standards/WikiData/WD~Q131938994,131938994|WD~Q131938994,131938994]]'
 number_of_speakers_writers_or_signers: 16200000
 ABS_ASCL_2011_code: 9208
 IAB_code: 1178

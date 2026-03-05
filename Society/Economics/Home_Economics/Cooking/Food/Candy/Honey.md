@@ -178,44 +178,44 @@ MeSH_tree_code:
 - G07.203.300.581
 UNII: Y9H1V576FH
 natural_product_of_taxon:
-- '[[_Standards/WikiData/WD~Apis,102857]]'
-- '[[_Standards/WikiData/WD~Apis_mellifera,30034]]'
+- '[[_Standards/WikiData/WD~Apis,102857|WD~Apis,102857]]'
+- '[[_Standards/WikiData/WD~Apis_mellifera,30034|WD~Apis_mellifera,30034]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~viscosity,128709]]'
-- '[[_Standards/WikiData/WD~hygroscopy,216678]]'
+- '[[_Standards/WikiData/WD~viscosity,128709|WD~viscosity,128709]]'
+- '[[_Standards/WikiData/WD~hygroscopy,216678|WD~hygroscopy,216678]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~nectar,171934]]'
-- '[[_Standards/WikiData/WD~water,283]]'
-made_from_material: '[[_Standards/WikiData/WD~nectar,171934]]'
+- '[[_Standards/WikiData/WD~nectar,171934|WD~nectar,171934]]'
+- '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
+made_from_material: '[[_Standards/WikiData/WD~nectar,171934|WD~nectar,171934]]'
 fabrication_method:
-- '[[_Standards/WikiData/WD~beekeeping,176353]]'
-- '[[_Standards/WikiData/WD~gathering,2991771]]'
+- '[[_Standards/WikiData/WD~beekeeping,176353|WD~beekeeping,176353]]'
+- '[[_Standards/WikiData/WD~gathering,2991771|WD~gathering,2991771]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~fodder,211439]]'
-- '[[_Standards/WikiData/WD~confection,5159627]]'
-- '[[_Standards/WikiData/WD~syrup,6584340]]'
-- '[[_Standards/WikiData/WD~shelf_stable_food,7493597]]'
-- '[[_Standards/WikiData/WD~secretion_or_excretion,19388114]]'
+- '[[_Standards/WikiData/WD~fodder,211439|WD~fodder,211439]]'
+- '[[_Standards/WikiData/WD~confection,5159627|WD~confection,5159627]]'
+- '[[_Standards/WikiData/WD~syrup,6584340|WD~syrup,6584340]]'
+- '[[_Standards/WikiData/WD~shelf_stable_food,7493597|WD~shelf_stable_food,7493597]]'
+- '[[_Standards/WikiData/WD~secretion_or_excretion,19388114|WD~secretion_or_excretion,19388114]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
 has_use:
-- '[[_Standards/WikiData/WD~spread,1472481]]'
-- '[[_Standards/WikiData/WD~ingredient,10675206]]'
-- '[[_Standards/WikiData/WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~spread,1472481|WD~spread,1472481]]'
+- '[[_Standards/WikiData/WD~ingredient,10675206|WD~ingredient,10675206]]'
+- '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
 instance_of:
-- '[[_Standards/WikiData/WD~organic_matter,1783121]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-different_from: '[[_Standards/WikiData/WD~Q11783663,11783663]]'
+- '[[_Standards/WikiData/WD~organic_matter,1783121|WD~organic_matter,1783121]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+different_from: '[[_Standards/WikiData/WD~Q11783663,11783663|WD~Q11783663,11783663]]'
 OmegaWiki_Defined_Meaning: 404630
 USDA_NDB_number: 19296
 Commons_category: Honey

@@ -48,104 +48,104 @@ aliases:
 - 사라 베르나르
 - "\U00010343\U00010330\U00010342\U00010330\U00010337 \U00010331\U00010330\U00010339\U00010342\U0001033D\U00010337\U00010330\U00010342\U00010333\U00010344"
 has_id_wikidata: Q4605
-archives_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
-artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+archives_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855|WD~Harry_Ransom_Center,5671855]]'
+artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390|WD~Frick_Art_Research_Library,5503390]]'
 award_received:
-- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195|WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761|WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 birth_name:
 - Sarah Marie Henriette Bernard
 - Sara Marie Henriette Bernhardt
 cause_of_death:
-- '[[_Standards/WikiData/WD~kidney_failure,476921]]'
-- '[[_Standards/WikiData/WD~uremia,13365776]]'
-child: '[[_Standards/WikiData/WD~Maurice_Bernhardt,3300404]]'
+- '[[_Standards/WikiData/WD~kidney_failure,476921|WD~kidney_failure,476921]]'
+- '[[_Standards/WikiData/WD~uremia,13365776|WD~uremia,13365776]]'
+child: '[[_Standards/WikiData/WD~Maurice_Bernhardt,3300404|WD~Maurice_Bernhardt,3300404]]'
 Commons_category: Sarah Bernhardt
 Commons_Creator_page: Sarah Bernhardt
 Commons_gallery: Sarah Bernhardt
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 date_of_birth: 1844-10-23
 date_of_death: 1923-03-26
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Women_in_the_fine_arts,_from_the_seventh_century_B.C._to_the_twentieth_century_A.D.,23044604]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~Tooneel-herinneringen,103933886]]'
-- '[[_Standards/WikiData/WD~Q114355221,114355221]]'
-- "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
-different_from: '[[_Standards/WikiData/WD~Sandra_Bernhard,236181]]'
-documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
-educated_at: "[[_Standards/WikiData/WD~Conservatoire_national_supérieur_d'art_dramatique,1127387]]"
-ethnic_group: '[[_Standards/WikiData/WD~Jewish_people,7325]]'
-family_name: '[[_Standards/WikiData/WD~Bernhardt,18398084]]'
-father: '[[_Standards/WikiData/WD~Edouard_Bernhardt,108838539]]'
-given_name: '[[_Standards/WikiData/WD~Sarah,18201513]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836|WD~Larousse_Encyclopedia_online,17329836]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Women_in_the_fine_arts,_from_the_seventh_century_B.C._to_the_twentieth_century_A.D.,23044604|WD~Women_in_the_fine_arts,_from_the_seventh_century_B.C._to_the_twentieth_century_A.D.,23044604]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Tooneel-herinneringen,103933886|WD~Tooneel-herinneringen,103933886]]'
+- '[[_Standards/WikiData/WD~Q114355221,114355221|WD~Q114355221,114355221]]'
+- "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747|WD~Albert_Edelfelt's_letters,116452747]]"
+different_from: '[[_Standards/WikiData/WD~Sandra_Bernhard,236181|WD~Sandra_Bernhard,236181]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+educated_at: "[[_Standards/WikiData/WD~Conservatoire_national_supérieur_d'art_dramatique,1127387|WD~Conservatoire_national_supérieur_d'art_dramatique,1127387]]"
+ethnic_group: '[[_Standards/WikiData/WD~Jewish_people,7325|WD~Jewish_people,7325]]'
+family_name: '[[_Standards/WikiData/WD~Bernhardt,18398084|WD~Bernhardt,18398084]]'
+father: '[[_Standards/WikiData/WD~Edouard_Bernhardt,108838539|WD~Edouard_Bernhardt,108838539]]'
+given_name: '[[_Standards/WikiData/WD~Sarah,18201513|WD~Sarah,18201513]]'
 has_works_in_the_collection:
-- '[[_Standards/WikiData/WD~Hermitage_Museum,132783]]'
-- '[[_Standards/WikiData/WD~Victoria_and_Albert_Museum,213322]]'
-- '[[_Standards/WikiData/WD~Musée_Carnavalet,640447]]'
-- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Dijon,1955739]]'
-- '[[_Standards/WikiData/WD~Musée_de_la_Vie_romantique,2714932]]'
-- '[[_Standards/WikiData/WD~Fondation_Bemberg,16303680]]'
-- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_la_ville_de_Paris,59546080]]'
+- '[[_Standards/WikiData/WD~Hermitage_Museum,132783|WD~Hermitage_Museum,132783]]'
+- '[[_Standards/WikiData/WD~Victoria_and_Albert_Museum,213322|WD~Victoria_and_Albert_Museum,213322]]'
+- '[[_Standards/WikiData/WD~Musée_Carnavalet,640447|WD~Musée_Carnavalet,640447]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Dijon,1955739|WD~Musée_des_Beaux-Arts_de_Dijon,1955739]]'
+- '[[_Standards/WikiData/WD~Musée_de_la_Vie_romantique,2714932|WD~Musée_de_la_Vie_romantique,2714932]]'
+- '[[_Standards/WikiData/WD~Fondation_Bemberg,16303680|WD~Fondation_Bemberg,16303680]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_la_ville_de_Paris,59546080|WD~Musée_des_Beaux-Arts_de_la_ville_de_Paris,59546080]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Face%20detail%2C%20Sarah%20Bernhardt%20as%20Do%C3%B1a%20Sol%20in%20Hernani%20%28cropped%29.png
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Sarah%20Bernhardt%20grave.jpg
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ISNI:
 - 120963355
 - 368634272
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/BERNAR_SARA.html
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
 Libris_URI: 75kmg7qr3x14kw7
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-medical_condition: '[[_Standards/WikiData/WD~amputation,477415]]'
-mother: '[[_Standards/WikiData/WD~Judith-Julie_Bernardt,18776819]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+medical_condition: '[[_Standards/WikiData/WD~amputation,477415|WD~amputation,477415]]'
+mother: '[[_Standards/WikiData/WD~Judith-Julie_Bernardt,18776819|WD~Judith-Julie_Bernardt,18776819]]'
 name_in_native_language: Sarah Bernhardt
 occupation:
-- '[[_Standards/WikiData/WD~painter,1028181]]'
-- '[[_Standards/WikiData/WD~sculptor,1281618]]'
-- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-- '[[_Standards/WikiData/WD~dancer,5716684]]'
-- '[[_Standards/WikiData/WD~film_actor,10800557]]'
-- '[[_Standards/WikiData/WD~actor,33999]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
-owner_of: '[[_Standards/WikiData/WD~Fort_Sarah_Bernhardt,20669768]]'
-place_of_birth: '[[_Standards/WikiData/WD~Paris,90]]'
+- '[[_Standards/WikiData/WD~painter,1028181|WD~painter,1028181]]'
+- '[[_Standards/WikiData/WD~sculptor,1281618|WD~sculptor,1281618]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451|WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~dancer,5716684|WD~dancer,5716684]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~actor,33999|WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359|WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+owner_of: '[[_Standards/WikiData/WD~Fort_Sarah_Bernhardt,20669768|WD~Fort_Sarah_Bernhardt,20669768]]'
+place_of_birth: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
 place_of_burial:
-- '[[_Standards/WikiData/WD~Grave_of_Bernhardt,112324483]]'
-- '[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]'
-place_of_death: '[[_Standards/WikiData/WD~17th_arrondissement_of_Paris,197297]]'
-position_held: '[[_Standards/WikiData/WD~Sociétaire_of_the_Comédie-Française,3487553]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
-sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
-sibling: '[[_Standards/WikiData/WD~Jeanne_Bernhardt,60816241]]'
+- '[[_Standards/WikiData/WD~Grave_of_Bernhardt,112324483|WD~Grave_of_Bernhardt,112324483]]'
+- '[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311|WD~Père_Lachaise_Cemetery,311]]'
+place_of_death: '[[_Standards/WikiData/WD~17th_arrondissement_of_Paris,197297|WD~17th_arrondissement_of_Paris,197297]]'
+position_held: '[[_Standards/WikiData/WD~Sociétaire_of_the_Comédie-Française,3487553|WD~Sociétaire_of_the_Comédie-Française,3487553]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072|WD~female,6581072]]'
+sibling: '[[_Standards/WikiData/WD~Jeanne_Bernhardt,60816241|WD~Jeanne_Bernhardt,60816241]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Sarah%20Bernhardt%20signature%20droite.svg
-significant_event: '[[_Standards/WikiData/WD~funeral,201676]]'
-significant_person: '[[_Standards/WikiData/WD~Betty_Callish,66107776]]'
-spouse: '[[_Standards/WikiData/WD~Jacques_Damala,6120528]]'
+significant_event: '[[_Standards/WikiData/WD~funeral,201676|WD~funeral,201676]]'
+significant_person: '[[_Standards/WikiData/WD~Betty_Callish,66107776|WD~Betty_Callish,66107776]]'
+spouse: '[[_Standards/WikiData/WD~Jacques_Damala,6120528|WD~Jacques_Damala,6120528]]'
 student:
-- '[[_Standards/WikiData/WD~Princess_Der_Ling,3023540]]'
-- '[[_Standards/WikiData/WD~Georges_Le_Roy,3103055]]'
-- '[[_Standards/WikiData/WD~Lucie_Manvel,3265287]]'
-- '[[_Standards/WikiData/WD~Nellie_Yu_Roung_Ling,12269798]]'
-student_of: '[[_Standards/WikiData/WD~Jean-Baptiste_François_Provost,3164094]]'
-unmarried_partner: '[[_Standards/WikiData/WD~Samuel_Pozzi,3471213]]'
-work_location: '[[_Standards/WikiData/WD~Paris,90]]'
+- '[[_Standards/WikiData/WD~Princess_Der_Ling,3023540|WD~Princess_Der_Ling,3023540]]'
+- '[[_Standards/WikiData/WD~Georges_Le_Roy,3103055|WD~Georges_Le_Roy,3103055]]'
+- '[[_Standards/WikiData/WD~Lucie_Manvel,3265287|WD~Lucie_Manvel,3265287]]'
+- '[[_Standards/WikiData/WD~Nellie_Yu_Roung_Ling,12269798|WD~Nellie_Yu_Roung_Ling,12269798]]'
+student_of: '[[_Standards/WikiData/WD~Jean-Baptiste_François_Provost,3164094|WD~Jean-Baptiste_François_Provost,3164094]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Samuel_Pozzi,3471213|WD~Samuel_Pozzi,3471213]]'
+work_location: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
 work_period_start_: 1862
-writing_language: '[[_Standards/WikiData/WD~French,150]]'
+writing_language: '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
 dv_has_:
   name_:
     af: Sarah Bernhardt
@@ -339,7 +339,7 @@ dv_has_:
 #has_/name_/family ::  Bernhardt
 #has_/name_/given ::  Sarah
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Sarah_Bernhardt,4605]]   
+#is_/same_as :: [[../../../../../../WikiData/WD~Sarah_Bernhardt,4605|WD~Sarah_Bernhardt,4605]]   
 
 ## #has_/text_of_/abstract 
 

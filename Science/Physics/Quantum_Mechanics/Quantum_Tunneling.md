@@ -64,7 +64,7 @@ aliases:
 - 量子隧穿效應
 - 터널 효과
 has_id_wikidata: Q175751
-instance_of: '[[_Standards/WikiData/WD~quantum_effect,1872885]]'
+instance_of: '[[_Standards/WikiData/WD~quantum_effect,1872885|WD~quantum_effect,1872885]]'
 DataTrek_identifier: Q12688
 video:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20tunnel%20effect%20and%20its%20application%20to%20the%20scanning%20tunneling%20microscope.ogv

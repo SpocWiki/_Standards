@@ -241,51 +241,51 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/HRISTIANSTVO.html
 IPTC_NewsCode: mediatopic/20000659
 OpenStreetMap_tag_or_key: Tag:religion=christian
 practiced_by:
-  - "[[_Standards/WikiData/WD~Christian,106039]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Christianity,235329]]"
+  - "[[_Standards/WikiData/WD~Christian,106039|WD~Christian,106039]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Christianity,235329|WD~history_of_Christianity,235329]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Eastern_Christianity,245177]]"
-  - "[[_Standards/WikiData/WD~Western_Christianity,842798]]"
-  - "[[_Standards/WikiData/WD~Christian_denomination,879146]]"
-  - "[[_Standards/WikiData/WD~Christian_movement,995347]]"
-  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
+  - "[[_Standards/WikiData/WD~Eastern_Christianity,245177|WD~Eastern_Christianity,245177]]"
+  - "[[_Standards/WikiData/WD~Western_Christianity,842798|WD~Western_Christianity,842798]]"
+  - "[[_Standards/WikiData/WD~Christian_denomination,879146|WD~Christian_denomination,879146]]"
+  - "[[_Standards/WikiData/WD~Christian_movement,995347|WD~Christian_movement,995347]]"
+  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246|WD~Christian_denominational_family,123129246]]"
 named_after:
-  - "[[_Standards/WikiData/WD~Nazareth,430776]]"
-  - "[[_Standards/WikiData/WD~Christ,642420]]"
-  - "[[_Standards/WikiData/WD~Jesus_Christ,302]]"
+  - "[[_Standards/WikiData/WD~Nazareth,430776|WD~Nazareth,430776]]"
+  - "[[_Standards/WikiData/WD~Christ,642420|WD~Christ,642420]]"
+  - "[[_Standards/WikiData/WD~Jesus_Christ,302|WD~Jesus_Christ,302]]"
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Christianity,4587240|WD~WikiProject_Christianity,4587240]]"
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Christianity_sidebar,5881848]]"
-  - "[[_Standards/WikiData/WD~Template_Christianity_footer,6923874]]"
+  - "[[_Standards/WikiData/WD~Template_Christianity_sidebar,5881848|WD~Template_Christianity_sidebar,5881848]]"
+  - "[[_Standards/WikiData/WD~Template_Christianity_footer,6923874|WD~Template_Christianity_footer,6923874]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~major_religious_group,6957341]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Christianity,7112229]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Christianity,8586708]]"
-locations: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828226,22828226]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q33096581,33096581]]"
+  - "[[_Standards/WikiData/WD~major_religious_group,6957341|WD~major_religious_group,6957341]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Christianity,7112229|WD~outline_of_Christianity,7112229]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Christianity,8586708|WD~Portal_Christianity,8586708]]"
+locations: "[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828226,22828226|WD~Q22828226,22828226]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q33096581,33096581|WD~Q33096581,33096581]]"
 founded_by:
-  - "[[_Standards/WikiData/WD~Jesus_Christ,302]]"
-  - "[[_Standards/WikiData/WD~Mary,345]]"
-  - "[[_Standards/WikiData/WD~Paul_the_Apostle,9200]]"
-  - "[[_Standards/WikiData/WD~Saint_Peter,33923]]"
-location_of_formation: "[[_Standards/WikiData/WD~Jerusalem,1218]]"
+  - "[[_Standards/WikiData/WD~Jesus_Christ,302|WD~Jesus_Christ,302]]"
+  - "[[_Standards/WikiData/WD~Mary,345|WD~Mary,345]]"
+  - "[[_Standards/WikiData/WD~Paul_the_Apostle,9200|WD~Paul_the_Apostle,9200]]"
+  - "[[_Standards/WikiData/WD~Saint_Peter,33923|WD~Saint_Peter,33923]]"
+location_of_formation: "[[_Standards/WikiData/WD~Jerusalem,1218|WD~Jerusalem,1218]]"
 foundational_text:
-  - "[[_Standards/WikiData/WD~Bible,1845]]"
-  - "[[_Standards/WikiData/WD~New_Testament,18813]]"
+  - "[[_Standards/WikiData/WD~Bible,1845|WD~Bible,1845]]"
+  - "[[_Standards/WikiData/WD~New_Testament,18813|WD~New_Testament,18813]]"
 has_characteristic:
-  - "[[_Standards/WikiData/WD~monotheism,9159]]"
-separated_from: "[[_Standards/WikiData/WD~Judaism,9268]]"
+  - "[[_Standards/WikiData/WD~monotheism,9159|WD~monotheism,9159]]"
+separated_from: "[[_Standards/WikiData/WD~Judaism,9268|WD~Judaism,9268]]"
 member_count: 2400000000
 subclass_of:
-  - "[[_Standards/WikiData/WD~Abrahamic_religion,47280]]"
+  - "[[_Standards/WikiData/WD~Abrahamic_religion,47280|WD~Abrahamic_religion,47280]]"
 Universal_Decimal_Classification: 27
 Iconclass_notation: 11
 IAB_code: 459

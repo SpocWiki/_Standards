@@ -62,18 +62,18 @@ aliases:
 - 군산 복합체
 has_id_wikidata: Q744593
 has_part_s_:
-- '[[_Standards/WikiData/WD~arms_industry,392933]]'
-- '[[_Standards/WikiData/WD~armed_forces,772547]]'
-- '[[_Standards/WikiData/WD~academia,1211427]]'
+- '[[_Standards/WikiData/WD~arms_industry,392933|WD~arms_industry,392933]]'
+- '[[_Standards/WikiData/WD~armed_forces,772547|WD~armed_forces,772547]]'
+- '[[_Standards/WikiData/WD~academia,1211427|WD~academia,1211427]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~alliance,878249]]'
-- '[[_Standards/WikiData/WD~technology_industry,21157865]]'
-- '[[_Standards/WikiData/WD~industrial_complex,95641153]]'
-instance_of: '[[_Standards/WikiData/WD~iron_triangle,1151934]]'
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~militarization,2575688]]'
-contributing_factor_of: '[[_Standards/WikiData/WD~militarization,2575688]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q25752328,25752328]]'
+- '[[_Standards/WikiData/WD~alliance,878249|WD~alliance,878249]]'
+- '[[_Standards/WikiData/WD~technology_industry,21157865|WD~technology_industry,21157865]]'
+- '[[_Standards/WikiData/WD~industrial_complex,95641153|WD~industrial_complex,95641153]]'
+instance_of: '[[_Standards/WikiData/WD~iron_triangle,1151934|WD~iron_triangle,1151934]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~militarization,2575688|WD~militarization,2575688]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~militarization,2575688|WD~militarization,2575688]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q25752328,25752328|WD~Q25752328,25752328]]'
 short_name: MIC
 U_S_National_Archives_Identifier: 10640924
 Wolfram_Language_entity_code: Entity["Concept", "Military-industrialComplex::77v2g"]

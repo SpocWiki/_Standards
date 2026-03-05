@@ -66,16 +66,16 @@ aliases:
 - 國際開發協會
 - 국제 개발 협회
 has_id_wikidata: Q827525
-official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
-different_from: '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-chief_executive_officer: '[[_Standards/WikiData/WD~Kristalina_Georgieva,265277]]'
-parent_organization: '[[_Standards/WikiData/WD~World_Bank_Group,320863]]'
-instance_of: '[[_Standards/WikiData/WD~multilateral_development_bank,105758271]]'
-industry: '[[_Standards/WikiData/WD~international_governmental_or_non_governmental_organizations,107607934]]'
-foundational_text: '[[_Standards/WikiData/WD~Articles_of_Agreement_of_the_International_Development_Association,110559244]]'
-part_of: '[[_Standards/WikiData/WD~World_Bank,7164]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773|WD~World_Intellectual_Property_Organization,177773]]'
+different_from: '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Kristalina_Georgieva,265277|WD~Kristalina_Georgieva,265277]]'
+parent_organization: '[[_Standards/WikiData/WD~World_Bank_Group,320863|WD~World_Bank_Group,320863]]'
+instance_of: '[[_Standards/WikiData/WD~multilateral_development_bank,105758271|WD~multilateral_development_bank,105758271]]'
+industry: '[[_Standards/WikiData/WD~international_governmental_or_non_governmental_organizations,107607934|WD~international_governmental_or_non_governmental_organizations,107607934]]'
+foundational_text: '[[_Standards/WikiData/WD~Articles_of_Agreement_of_the_International_Development_Association,110559244|WD~Articles_of_Agreement_of_the_International_Development_Association,110559244]]'
+part_of: '[[_Standards/WikiData/WD~World_Bank,7164|WD~World_Bank,7164]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61|WD~Washington,_D.C.,61]]'
 member_count: 174
 social_media_followers: 31259
 EU_Corporate_body_code: IDA

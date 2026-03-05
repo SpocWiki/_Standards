@@ -55,13 +55,13 @@ aliases:
 has_id_wikidata: Q733897
 inception: -1829-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: -1749-01-01T00:00:00Z
-followed_by: '[[_Standards/WikiData/WD~Kassites,243312]]'
-follows: '[[_Standards/WikiData/WD~Third_Dynasty_of_Ur,723587]]'
-instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
-named_after: '[[_Standards/WikiData/WD~First_Dynasty_of_Babylon,17385266]]'
-capital: '[[_Standards/WikiData/WD~Babylon,5684]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
-part_of: '[[_Standards/WikiData/WD~Babylonia,47690]]'
+followed_by: '[[_Standards/WikiData/WD~Kassites,243312|WD~Kassites,243312]]'
+follows: '[[_Standards/WikiData/WD~Third_Dynasty_of_Ur,723587|WD~Third_Dynasty_of_Ur,723587]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
+named_after: '[[_Standards/WikiData/WD~First_Dynasty_of_Babylon,17385266|WD~First_Dynasty_of_Babylon,17385266]]'
+capital: '[[_Standards/WikiData/WD~Babylon,5684|WD~Babylon,5684]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
+part_of: '[[_Standards/WikiData/WD~Babylonia,47690|WD~Babylonia,47690]]'
 Commons_category: First Babylonian Empire
 Library_of_Congress_Classification:
 - DS73.2-DS73.87
@@ -70,7 +70,7 @@ Library_of_Congress_Classification:
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Babylone%201-es.svg
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Old_Babylonian_Empire,733897]]'
+  - '[[_Standards/WikiData/WD~Old_Babylonian_Empire,733897|WD~Old_Babylonian_Empire,733897]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749|-1829-Old_Babylon-1749]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.public|-1829-Old_Babylon-1749.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.internal|-1829-Old_Babylon-1749.internal]]'
@@ -79,7 +79,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.personal|-1829-Old_Babylon-1749.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.secret|-1829-Old_Babylon-1749.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Old_Babylonian_Empire,733897]]'
+- '[[_Standards/WikiData/WD~Old_Babylonian_Empire,733897|WD~Old_Babylonian_Empire,733897]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749|-1829-Old_Babylon-1749]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.public|-1829-Old_Babylon-1749.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.internal|-1829-Old_Babylon-1749.internal]]'
@@ -145,7 +145,7 @@ dv_has_:
 
 # [[-1829-Old_Babylon-1749]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Old_Babylonian_Empire,733897]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Old_Babylonian_Empire,733897|WD~Old_Babylonian_Empire,733897]] 
 
 ## #has_/text_of_/abstract 
 

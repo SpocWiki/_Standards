@@ -92,27 +92,27 @@ aliases:
 - 전기 기타
 has_id_wikidata: Q78987
 has_part_s_:
-- '[[_Standards/WikiData/WD~potentiometer,187868]]'
-- '[[_Standards/WikiData/WD~tuning_peg,303790]]'
-- '[[_Standards/WikiData/WD~string,326426]]'
-- '[[_Standards/WikiData/WD~pickup,572648]]'
-- '[[_Standards/WikiData/WD~bridge,830869]]'
-- '[[_Standards/WikiData/WD~neck,944038]]'
-- '[[_Standards/WikiData/WD~nut,1186738]]'
-- '[[_Standards/WikiData/WD~body,55185381]]'
-- '[[_Standards/WikiData/WD~electrical_receptacle,64537414]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~George_Beauchamp,596713]]'
+- '[[_Standards/WikiData/WD~potentiometer,187868|WD~potentiometer,187868]]'
+- '[[_Standards/WikiData/WD~tuning_peg,303790|WD~tuning_peg,303790]]'
+- '[[_Standards/WikiData/WD~string,326426|WD~string,326426]]'
+- '[[_Standards/WikiData/WD~pickup,572648|WD~pickup,572648]]'
+- '[[_Standards/WikiData/WD~bridge,830869|WD~bridge,830869]]'
+- '[[_Standards/WikiData/WD~neck,944038|WD~neck,944038]]'
+- '[[_Standards/WikiData/WD~nut,1186738|WD~nut,1186738]]'
+- '[[_Standards/WikiData/WD~body,55185381|WD~body,55185381]]'
+- '[[_Standards/WikiData/WD~electrical_receptacle,64537414|WD~electrical_receptacle,64537414]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~George_Beauchamp,596713|WD~George_Beauchamp,596713]]'
 different_from:
-- '[[_Standards/WikiData/WD~keytar,1112687]]'
-- '[[_Standards/WikiData/WD~acoustic_guitar,31561]]'
-- '[[_Standards/WikiData/WD~bass_guitar,46185]]'
+- '[[_Standards/WikiData/WD~keytar,1112687|WD~keytar,1112687]]'
+- '[[_Standards/WikiData/WD~acoustic_guitar,31561|WD~acoustic_guitar,31561]]'
+- '[[_Standards/WikiData/WD~bass_guitar,46185|WD~bass_guitar,46185]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~electro_acoustic_chordophones,55738960]]'
-- '[[_Standards/WikiData/WD~guitar,6607]]'
-connects_with: '[[_Standards/WikiData/WD~guitar_amplifier_loudspeaker,106316570]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
-used_by: '[[_Standards/WikiData/WD~electric_guitarist,121754124]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~electro_acoustic_chordophones,55738960|WD~electro_acoustic_chordophones,55738960]]'
+- '[[_Standards/WikiData/WD~guitar,6607|WD~guitar,6607]]'
+connects_with: '[[_Standards/WikiData/WD~guitar_amplifier_loudspeaker,106316570|WD~guitar_amplifier_loudspeaker,106316570]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396|WD~type_of_musical_instrument,110295396]]'
+used_by: '[[_Standards/WikiData/WD~electric_guitarist,121754124|WD~electric_guitarist,121754124]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 Hornbostel_Sachs_classification: 513
 Nomenclature_for_Museum_Cataloging: 10794
 Commons_category: Electric guitars

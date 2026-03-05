@@ -49,9 +49,9 @@ aliases:
 - ၁၉၇၀ ဘိုးလာ ဆိုင်ကလုန်း
 - 波拉氣旋
 has_id_wikidata: Q245551
-location: '[[_Standards/WikiData/WD~East_Pakistan,842931]]'
-part_of: '[[_Standards/WikiData/WD~Arch_of_Tiberius,2310019]]'
-instance_of: '[[_Standards/WikiData/WD~tropical_cyclone,8092]]'
+location: '[[_Standards/WikiData/WD~East_Pakistan,842931|WD~East_Pakistan,842931]]'
+part_of: '[[_Standards/WikiData/WD~Arch_of_Tiberius,2310019|WD~Arch_of_Tiberius,2310019]]'
+instance_of: '[[_Standards/WikiData/WD~tropical_cyclone,8092|WD~tropical_cyclone,8092]]'
 number_of_deaths:
 - 300000
 - 500000
@@ -118,7 +118,7 @@ dv_has_:
 # [[1970-Bhola_cyclone]] 
 
 
-#is_/same_as :: [[../../../../WikiData/WD~1970_Bhola_cyclone,245551]]
+#is_/same_as :: [[../../../../WikiData/WD~1970_Bhola_cyclone,245551|WD~1970_Bhola_cyclone,245551]]
 
 ## #has_/text_of_/abstract 
 

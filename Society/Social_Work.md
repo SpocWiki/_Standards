@@ -82,13 +82,13 @@ aliases:
 - 社會工作
 - 사회사업
 has_id_wikidata: Q205398
-studied_by: '[[_Standards/WikiData/WD~social_work_science,2305240]]'
+studied_by: '[[_Standards/WikiData/WD~social_work_science,2305240|WD~social_work_science,2305240]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~streetworker,2355404]]'
-- '[[_Standards/WikiData/WD~social_worker,7019111]]'
-subclass_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Social_work,19321065]]'
-instance_of: '[[_Standards/WikiData/WD~paramedical_speciality,30109942]]'
+- '[[_Standards/WikiData/WD~streetworker,2355404|WD~streetworker,2355404]]'
+- '[[_Standards/WikiData/WD~social_worker,7019111|WD~social_worker,7019111]]'
+subclass_of: '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Social_work,19321065|WD~Template_Social_work,19321065]]'
+instance_of: '[[_Standards/WikiData/WD~paramedical_speciality,30109942|WD~paramedical_speciality,30109942]]'
 subreddit: socialwork
 UMLS_CUI: C0037441
 MeSH_tree_code:

@@ -52,10 +52,10 @@ aliases:
 - 實變函數論
 - 실해석학
 has_id_wikidata: Q854531
-opposite_of: '[[_Standards/WikiData/WD~complex_analysis,193756]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
-subclass_of: '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
+opposite_of: '[[_Standards/WikiData/WD~complex_analysis,193756|WD~complex_analysis,193756]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_theory,20026918|WD~mathematical_theory,20026918]]'
+subclass_of: '[[_Standards/WikiData/WD~mathematical_analysis,7754|WD~mathematical_analysis,7754]]'
 Krugosvet_article_archived_: nauka_i_tehnika/matematika/FUNKTSI_TEORIYA.html
 Stack_Exchange_tag:
 - https://math.stackexchange.com/tags/real-analysis

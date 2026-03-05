@@ -43,7 +43,7 @@ dv_is_:
     - "[[is_part_of_series]]"
 dv_is_part_of_series: "[[../../../Class/is_a_/creative_work/creative_work_series|CreativeWorkSeries]]"
 dv_has_:
-  parent_property: "[[../is_part_of]]"
+  parent_property: "[[../is_part_of|is_part_of]]"
   domain:
     - "[[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
     - "[[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]"
@@ -56,7 +56,7 @@ dv_has_domain:
   - "[[../../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
 dv_has_name: is_part_of_series
 dv_has_range: "[[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Series|CreativeWorkSeries]]"
-dv_has_parent_property: "[[../is_part_of]]"
+dv_has_parent_property: "[[../is_part_of|is_part_of]]"
 dv_is_same_as:
   - "[[is_part_of_series]]"
   - "[[/_public/schema-org/Relation/is/part_of/is_part_of_series.public|is_part_of_series.public]]"

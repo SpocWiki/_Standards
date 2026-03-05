@@ -64,22 +64,22 @@ aliases:
 - 테일러 급수
 has_id_wikidata: Q131187
 subclass_of:
-- '[[_Standards/WikiData/WD~power_series,206925]]'
-- '[[_Standards/WikiData/WD~Laurent_series,425432]]'
-named_after: '[[_Standards/WikiData/WD~Brook_Taylor,212085]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Brook_Taylor,212085]]'
-facet_of: '[[_Standards/WikiData/WD~series_expansion,358733]]'
+- '[[_Standards/WikiData/WD~power_series,206925|WD~power_series,206925]]'
+- '[[_Standards/WikiData/WD~Laurent_series,425432|WD~Laurent_series,425432]]'
+named_after: '[[_Standards/WikiData/WD~Brook_Taylor,212085|WD~Brook_Taylor,212085]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Brook_Taylor,212085|WD~Brook_Taylor,212085]]'
+facet_of: '[[_Standards/WikiData/WD~series_expansion,358733|WD~series_expansion,358733]]'
 instance_of:
-- '[[_Standards/WikiData/WD~term,1969448]]'
-- '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~term,1969448|WD~term,1969448]]'
+- '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi><mo stretchy="false">!</mo></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x2211;</mo></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>f</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo></mrow></mrow></msup></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
-has_use: '[[_Standards/WikiData/WD~approximation,27058]]'
+has_use: '[[_Standards/WikiData/WD~approximation,27058|WD~approximation,27058]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sintay.svg
 Commons_category: Taylor series
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>n</mi><mo stretchy="false">=</mo><mn>0</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x221E;</mi></mrow></munderover></mstyle><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><msup><mi>f</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo></mrow></mrow></msup><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>n</mi><mo stretchy="false">!</mo></mrow></mrow></mfrac></mrow><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">&#x2212;</mo><mi>a</mi><msup><mo stretchy="false">)</mo><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msup></mstyle></mrow></math>

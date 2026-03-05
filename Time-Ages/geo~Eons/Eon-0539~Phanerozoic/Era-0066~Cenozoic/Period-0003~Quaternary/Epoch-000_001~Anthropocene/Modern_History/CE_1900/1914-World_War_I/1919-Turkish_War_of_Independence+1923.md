@@ -64,26 +64,26 @@ aliases:
 - 튀르키예 독립 전쟁
 has_id_wikidata: Q234738
 participant:
-- '[[_Standards/WikiData/WD~French_Third_Republic,70802]]'
-- '[[_Standards/WikiData/WD~First_Republic_of_Armenia,139670]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Greece,209065]]'
-- '[[_Standards/WikiData/WD~Democratic_Republic_of_Georgia,245160]]'
-- '[[_Standards/WikiData/WD~Kuva_yi_Milliye,1794757]]'
-- '[[_Standards/WikiData/WD~Kuva_yi_Inzibatiye,2760925]]'
-- '[[_Standards/WikiData/WD~Government_of_the_Grand_National_Assembly,2949827]]'
-- '[[_Standards/WikiData/WD~Turkish_National_Movement,6302107]]'
-- '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-has_characteristic: '[[_Standards/WikiData/WD~Medal_of_Independence,344339]]'
+- '[[_Standards/WikiData/WD~French_Third_Republic,70802|WD~French_Third_Republic,70802]]'
+- '[[_Standards/WikiData/WD~First_Republic_of_Armenia,139670|WD~First_Republic_of_Armenia,139670]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579|WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193|WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Greece,209065|WD~Kingdom_of_Greece,209065]]'
+- '[[_Standards/WikiData/WD~Democratic_Republic_of_Georgia,245160|WD~Democratic_Republic_of_Georgia,245160]]'
+- '[[_Standards/WikiData/WD~Kuva_yi_Milliye,1794757|WD~Kuva_yi_Milliye,1794757]]'
+- '[[_Standards/WikiData/WD~Kuva_yi_Inzibatiye,2760925|WD~Kuva_yi_Inzibatiye,2760925]]'
+- '[[_Standards/WikiData/WD~Government_of_the_Grand_National_Assembly,2949827|WD~Government_of_the_Grand_National_Assembly,2949827]]'
+- '[[_Standards/WikiData/WD~Turkish_National_Movement,6302107|WD~Turkish_National_Movement,6302107]]'
+- '[[_Standards/WikiData/WD~Ottoman_Empire,12560|WD~Ottoman_Empire,12560]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+has_characteristic: '[[_Standards/WikiData/WD~Medal_of_Independence,344339|WD~Medal_of_Independence,344339]]'
 instance_of:
-- '[[_Standards/WikiData/WD~war_of_national_liberation,1006311]]'
-- '[[_Standards/WikiData/WD~war_of_independence,21994376]]'
-country: '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~war_of_national_liberation,1006311|WD~war_of_national_liberation,1006311]]'
+- '[[_Standards/WikiData/WD~war_of_independence,21994376|WD~war_of_independence,21994376]]'
+country: '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
 location:
-- '[[_Standards/WikiData/WD~Thrace,41741]]'
-- '[[_Standards/WikiData/WD~Anatolia,51614]]'
+- '[[_Standards/WikiData/WD~Thrace,41741|WD~Thrace,41741]]'
+- '[[_Standards/WikiData/WD~Anatolia,51614|WD~Anatolia,51614]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Turkish%20War%20of%20Independence%20-%20collage.jpg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Turkish%20War%20of%20Independence%20-%20collage.jpg
 Commons_gallery: Turkish War of Independence

@@ -46,15 +46,15 @@ aliases:
 - 성소수자의 자녀 양육
 has_id_wikidata: Q46839
 subclass_of:
-- '[[_Standards/WikiData/WD~nuclear_family,720069]]'
-- '[[_Standards/WikiData/WD~parenting,1217379]]'
-different_from: '[[_Standards/WikiData/WD~Rainbow_Family,1274640]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_LGBTQ+_studies,15092984]]'
-part_of: '[[_Standards/WikiData/WD~LGBTQ_rights,17625913]]'
+- '[[_Standards/WikiData/WD~nuclear_family,720069|WD~nuclear_family,720069]]'
+- '[[_Standards/WikiData/WD~parenting,1217379|WD~parenting,1217379]]'
+different_from: '[[_Standards/WikiData/WD~Rainbow_Family,1274640|WD~Rainbow_Family,1274640]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_LGBTQ+_studies,15092984|WD~WikiProject_LGBTQ+_studies,15092984]]'
+part_of: '[[_Standards/WikiData/WD~LGBTQ_rights,17625913|WD~LGBTQ_rights,17625913]]'
 instance_of:
-- '[[_Standards/WikiData/WD~right_to_build_a_family,18578988]]'
-- '[[_Standards/WikiData/WD~family_structure,66363776]]'
-has_part_s_: '[[_Standards/WikiData/WD~same_sex_parenting,30715252]]'
+- '[[_Standards/WikiData/WD~right_to_build_a_family,18578988|WD~right_to_build_a_family,18578988]]'
+- '[[_Standards/WikiData/WD~family_structure,66363776|WD~family_structure,66363776]]'
+has_part_s_: '[[_Standards/WikiData/WD~same_sex_parenting,30715252|WD~same_sex_parenting,30715252]]'
 Commons_category: LGBT parenting
 image: http://commons.wikimedia.org/wiki/Special:FilePath/P051702-784212.jpg
 described_at_URL: https://www.parool.nl/columns-opinie/regenbooggezin-is-voor-velen-een-ver-van-mijn-bed-show~bd570c6f/

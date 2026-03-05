@@ -69,20 +69,20 @@ aliases:
 - 다이오드
 has_id_wikidata: Q11656
 Commons_category: Diodes
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-has_use: '[[_Standards/WikiData/WD~electrical_resistance,25358]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+has_use: '[[_Standards/WikiData/WD~electrical_resistance,25358|WD~electrical_resistance,25358]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Diode01.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Diode-closeup.jpg
-instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960|WD~type_of_electronic_component,125517960]]'
 Nomenclature_for_Museum_Cataloging: 8836
 subclass_of:
-- '[[_Standards/WikiData/WD~nonlinear_electrical_element,7049472]]'
-- '[[_Standards/WikiData/WD~passive_electronic_component,9252564]]'
-- '[[_Standards/WikiData/WD~active_electronic_component,12492106]]'
-- '[[_Standards/WikiData/WD~electronic_component,11653]]'
+- '[[_Standards/WikiData/WD~nonlinear_electrical_element,7049472|WD~nonlinear_electrical_element,7049472]]'
+- '[[_Standards/WikiData/WD~passive_electronic_component,9252564|WD~passive_electronic_component,9252564]]'
+- '[[_Standards/WikiData/WD~active_electronic_component,12492106|WD~active_electronic_component,12492106]]'
+- '[[_Standards/WikiData/WD~electronic_component,11653|WD~electronic_component,11653]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]'
-- '[[_Standards/WikiData/WD~WikiProject_Electronics,10802636]]'
+- '[[_Standards/WikiData/WD~WikiProject_Physics,8487193|WD~WikiProject_Physics,8487193]]'
+- '[[_Standards/WikiData/WD~WikiProject_Electronics,10802636|WD~WikiProject_Electronics,10802636]]'
 dv_has_:
   name_:
     af: diode

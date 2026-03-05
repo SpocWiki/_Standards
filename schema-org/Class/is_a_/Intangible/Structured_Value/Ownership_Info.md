@@ -37,7 +37,7 @@ dv_is_:
     - "[[Ownership_Info]]"
 dv_has_:
   parent_class:
-    - "[[../StructuredValue]]"
+    - "[[../StructuredValue|StructuredValue]]"
   properties:
     - "[[../../../../Relation/is/is_acquired_from|is_acquired_from]]"
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
@@ -56,7 +56,7 @@ dv_has_:
     - "[[../../../../Relation/has/has_type_of_good|has_type_of_good]]"
     - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../structured_value|../structured_value]]"
+  - "[[../structured_value|../structured_value|structured_value]]"
 dv_has_properties:
   - "[[../../../../Relation/is/is_acquired_from|is_acquired_from]]"
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

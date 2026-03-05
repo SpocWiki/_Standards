@@ -1,5 +1,5 @@
 
-TPL for [[../../Prog~Rust]] 
+TPL for [[../../Prog~Rust|Prog~Rust]] 
 
 ```rust
 use rayon::prelude::*;

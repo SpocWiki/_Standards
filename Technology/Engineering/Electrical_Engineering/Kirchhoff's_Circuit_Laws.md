@@ -68,15 +68,15 @@ aliases:
 - 키르흐호프의 법칙
 - 키르히호프의 전기회로 법칙
 has_id_wikidata: Q187672
-instance_of: '[[_Standards/WikiData/WD~physical_law,214070]]'
-different_from: "[[_Standards/WikiData/WD~Kirchhoff's_laws,11046107]]"
+instance_of: '[[_Standards/WikiData/WD~physical_law,214070|WD~physical_law,214070]]'
+different_from: "[[_Standards/WikiData/WD~Kirchhoff's_laws,11046107|WD~Kirchhoff's_laws,11046107]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~Kirchhoff's_current_law,25931714]]"
-- "[[_Standards/WikiData/WD~Kirchhoff's_voltage_law,25931712]]"
-named_after: '[[_Standards/WikiData/WD~Gustav_Kirchhoff,60052]]'
+- "[[_Standards/WikiData/WD~Kirchhoff's_current_law,25931714|WD~Kirchhoff's_current_law,25931714]]"
+- "[[_Standards/WikiData/WD~Kirchhoff's_voltage_law,25931712|WD~Kirchhoff's_voltage_law,25931712]]"
+named_after: '[[_Standards/WikiData/WD~Gustav_Kirchhoff,60052|WD~Gustav_Kirchhoff,60052]]'
 Commons_gallery: Kirchhoff's circuit laws
 Commons_category: Kirchhoff's circuit laws
 dv_has_:

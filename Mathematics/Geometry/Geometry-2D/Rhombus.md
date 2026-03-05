@@ -68,18 +68,18 @@ aliases:
 - 마름모
 has_id_wikidata: Q41159
 subclass_of:
-- '[[_Standards/WikiData/WD~kite,107061]]'
-- '[[_Standards/WikiData/WD~equilateral_polygon,428388]]'
-- '[[_Standards/WikiData/WD~quadrilateral,36810]]'
-- '[[_Standards/WikiData/WD~parallelogram,45867]]'
-studied_by: '[[_Standards/WikiData/WD~graph_theory,131476]]'
+- '[[_Standards/WikiData/WD~kite,107061|WD~kite,107061]]'
+- '[[_Standards/WikiData/WD~equilateral_polygon,428388|WD~equilateral_polygon,428388]]'
+- '[[_Standards/WikiData/WD~quadrilateral,36810|WD~quadrilateral,36810]]'
+- '[[_Standards/WikiData/WD~parallelogram,45867|WD~parallelogram,45867]]'
+studied_by: '[[_Standards/WikiData/WD~graph_theory,131476|WD~graph_theory,131476]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~inradius,3799068]]'
-- '[[_Standards/WikiData/WD~area,11500]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382]]'
-dual_to: '[[_Standards/WikiData/WD~rectangle,209]]'
+- '[[_Standards/WikiData/WD~inradius,3799068|WD~inradius,3799068]]'
+- '[[_Standards/WikiData/WD~area,11500|WD~area,11500]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382|WD~edge,26382]]'
+dual_to: '[[_Standards/WikiData/WD~rectangle,209|WD~rectangle,209]]'
 OmegaWiki_Defined_Meaning: 390688
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhombus.svg
 Commons_category: Rhombi

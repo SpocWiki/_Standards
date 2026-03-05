@@ -40,16 +40,16 @@ aliases:
 - 힙합
 has_id_wikidata: Q1132127
 has_part_s_:
-- '[[_Standards/WikiData/WD~breakdance,169737]]'
-- '[[_Standards/WikiData/WD~turntablism,1046801]]'
-- '[[_Standards/WikiData/WD~hip_hop,11401]]'
-subclass_of: '[[_Standards/WikiData/WD~subculture,264965]]'
-instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Hip_hop,11015433]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~hip_hop_subculture,12726073]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
-start_point: '[[_Standards/WikiData/WD~United_States_of_America,106315054]]'
-different_from: '[[_Standards/WikiData/WD~hip_hop,11401]]'
+- '[[_Standards/WikiData/WD~breakdance,169737|WD~breakdance,169737]]'
+- '[[_Standards/WikiData/WD~turntablism,1046801|WD~turntablism,1046801]]'
+- '[[_Standards/WikiData/WD~hip_hop,11401|WD~hip_hop,11401]]'
+subclass_of: '[[_Standards/WikiData/WD~subculture,264965|WD~subculture,264965]]'
+instance_of: '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Hip_hop,11015433|WD~Template_Hip_hop,11015433]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~hip_hop_subculture,12726073|WD~hip_hop_subculture,12726073]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
+start_point: '[[_Standards/WikiData/WD~United_States_of_America,106315054|WD~United_States_of_America,106315054]]'
+different_from: '[[_Standards/WikiData/WD~hip_hop,11401|WD~hip_hop,11401]]'
 inception: 1970-01-01T00:00:00Z
 social_media_followers: 2505860
 image: http://commons.wikimedia.org/wiki/Special:FilePath/B%20Boy%20doing%20a%20freeze.jpg

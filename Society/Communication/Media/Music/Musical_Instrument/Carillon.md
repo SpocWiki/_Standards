@@ -36,27 +36,27 @@ aliases:
 - 카리용
 has_id_wikidata: Q505174
 has_part_s_:
-- '[[_Standards/WikiData/WD~bell,101401]]'
-- '[[_Standards/WikiData/WD~musical_keyboard,901207]]'
-- '[[_Standards/WikiData/WD~clapper,9335418]]'
+- '[[_Standards/WikiData/WD~bell,101401|WD~bell,101401]]'
+- '[[_Standards/WikiData/WD~musical_keyboard,901207|WD~musical_keyboard,901207]]'
+- '[[_Standards/WikiData/WD~clapper,9335418|WD~clapper,9335418]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-different_from: '[[_Standards/WikiData/WD~glockenspiel,626035]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749|WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+different_from: '[[_Standards/WikiData/WD~glockenspiel,626035|WD~glockenspiel,626035]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~melodic_percussion_instrument,7198871]]'
-- '[[_Standards/WikiData/WD~sets_of_bells,55721745]]'
-- '[[_Standards/WikiData/WD~keyboard_instrument,52954]]'
-has_list: '[[_Standards/WikiData/WD~list_of_carillons,6608841]]'
-used_by: '[[_Standards/WikiData/WD~carillonist,18749693]]'
-operator: '[[_Standards/WikiData/WD~carillonist,18749693]]'
-intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_in_France,21011287]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~melodic_percussion_instrument,7198871|WD~melodic_percussion_instrument,7198871]]'
+- '[[_Standards/WikiData/WD~sets_of_bells,55721745|WD~sets_of_bells,55721745]]'
+- '[[_Standards/WikiData/WD~keyboard_instrument,52954|WD~keyboard_instrument,52954]]'
+has_list: '[[_Standards/WikiData/WD~list_of_carillons,6608841|WD~list_of_carillons,6608841]]'
+used_by: '[[_Standards/WikiData/WD~carillonist,18749693|WD~carillonist,18749693]]'
+operator: '[[_Standards/WikiData/WD~carillonist,18749693|WD~carillonist,18749693]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_in_France,21011287|WD~National_Inventory_of_Intangible_Cultural_Heritage_in_France,21011287]]'
 Nomenclature_for_Museum_Cataloging: 10699
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Carillon%20Olympiapark%20Muenchen.jpg

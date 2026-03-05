@@ -70,14 +70,14 @@ aliases:
 - 에너지 음료
 has_id_wikidata: Q215754
 subclass_of:
-- '[[_Standards/WikiData/WD~soft_drink,147538]]'
-- '[[_Standards/WikiData/WD~sports_&_energy_drink,115607684]]'
-made_from_material: '[[_Standards/WikiData/WD~stimulant,211036]]'
-has_effect: '[[_Standards/WikiData/WD~compulsive_behavior,266332]]'
-different_from: '[[_Standards/WikiData/WD~sports_drink,949948]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_drink,116861721]]'
+- '[[_Standards/WikiData/WD~soft_drink,147538|WD~soft_drink,147538]]'
+- '[[_Standards/WikiData/WD~sports_&_energy_drink,115607684|WD~sports_&_energy_drink,115607684]]'
+made_from_material: '[[_Standards/WikiData/WD~stimulant,211036|WD~stimulant,211036]]'
+has_effect: '[[_Standards/WikiData/WD~compulsive_behavior,266332|WD~compulsive_behavior,266332]]'
+different_from: '[[_Standards/WikiData/WD~sports_drink,949948|WD~sports_drink,949948]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_drink,116861721|WD~type_of_drink,116861721]]'
 Library_of_Congress_Classification: http://www.wikidata.org/.well-known/genid/3f1d800f6183b109b533423b07b37e67
-country: '[[_Standards/WikiData/WD~Serbia,403]]'
+country: '[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
 UNSPSC_Code: 50202309
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2012-06-06-Energy-Drink-Getest-Euroshopper-Energy-Drink.jpg
 Amazon_com_browse_node: 16318341

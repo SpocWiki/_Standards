@@ -52,10 +52,10 @@ aliases:
 - 學校圖書館
 - 학교 도서관
 has_id_wikidata: Q1076099
-instance_of: '[[_Standards/WikiData/WD~type_of_library,25397890]]'
-contains: '[[_Standards/WikiData/WD~school_library_book,92259219]]'
-part_of: '[[_Standards/WikiData/WD~school,3914]]'
-subclass_of: '[[_Standards/WikiData/WD~library,7075]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_library,25397890|WD~type_of_library,25397890]]'
+contains: '[[_Standards/WikiData/WD~school_library_book,92259219|WD~school_library_book,92259219]]'
+part_of: '[[_Standards/WikiData/WD~school,3914|WD~school,3914]]'
+subclass_of: '[[_Standards/WikiData/WD~library,7075|WD~library,7075]]'
 Colon_Classification: 231
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Boxwood%20PS%20Library%205.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1321%20%28spa%29-Centenoyespelta-biblioteca%20escolar.wav

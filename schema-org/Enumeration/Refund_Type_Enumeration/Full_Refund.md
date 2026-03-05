@@ -28,8 +28,8 @@ title: is_a_full_refund Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../RefundTypeEnumeration]]"
-  enum_of: "[[../RefundTypeEnumeration]]"
+  parent_class: "[[../RefundTypeEnumeration|RefundTypeEnumeration]]"
+  enum_of: "[[../RefundTypeEnumeration|RefundTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund|Full_Refund]]"
     - "[[/_public/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.public|Full_Refund.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.secret|Full_Refund.secret]]"
     - "[[Full_Refund]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../RefundTypeEnumeration]]"
-dv_is_enum_of: "[[../RefundTypeEnumeration]]"
+dv_has_parent_class: "[[../RefundTypeEnumeration|RefundTypeEnumeration]]"
+dv_is_enum_of: "[[../RefundTypeEnumeration|RefundTypeEnumeration]]"
 dv_is_same_as:
   - "[[Full_Refund]]"
   - "[[/_public/schema-org/Enumeration/Refund_Type_Enumeration/Full_Refund.public|Full_Refund.public]]"

@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Tower_of_London,62378]]'
+  - '[[_Standards/WikiData/WD~Tower_of_London,62378|WD~Tower_of_London,62378]]'
   - '[[/_Standards/Earth/Geography/Place/Tower_of_London|Tower_of_London]]'
   - '[[/_public/Earth/Geography/Place/Tower_of_London.public|Tower_of_London.public]]'
   - '[[/_internal/Earth/Geography/Place/Tower_of_London.internal|Tower_of_London.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Tower_of_London.personal|Tower_of_London.personal]]'
   - '[[/_secret/Earth/Geography/Place/Tower_of_London.secret|Tower_of_London.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Tower_of_London,62378]]'
+- '[[_Standards/WikiData/WD~Tower_of_London,62378|WD~Tower_of_London,62378]]'
 - '[[/_Standards/Earth/Geography/Place/Tower_of_London|Tower_of_London]]'
 - '[[/_public/Earth/Geography/Place/Tower_of_London.public|Tower_of_London.public]]'
 - '[[/_internal/Earth/Geography/Place/Tower_of_London.internal|Tower_of_London.internal]]'
@@ -95,51 +95,51 @@ X_Twitter_username: TowerOfLondon
 OS_grid_reference: TQ3358580570
 street_address: Tower Hill, London EC3N 4AB
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~moat,88480]]'
-- '[[_Standards/WikiData/WD~inner_bailey,381634]]'
-- '[[_Standards/WikiData/WD~outer_bailey,1401281]]'
-architectural_style: '[[_Standards/WikiData/WD~Norman_architecture,136693]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~London_Borough_of_Tower_Hamlets,208152]]'
+- '[[_Standards/WikiData/WD~moat,88480|WD~moat,88480]]'
+- '[[_Standards/WikiData/WD~inner_bailey,381634|WD~inner_bailey,381634]]'
+- '[[_Standards/WikiData/WD~outer_bailey,1401281|WD~outer_bailey,1401281]]'
+architectural_style: '[[_Standards/WikiData/WD~Norman_architecture,136693|WD~Norman_architecture,136693]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~London_Borough_of_Tower_Hamlets,208152|WD~London_Borough_of_Tower_Hamlets,208152]]'
 heritage_designation:
-- '[[_Standards/WikiData/WD~scheduled_monument,219538]]'
-- '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+- '[[_Standards/WikiData/WD~scheduled_monument,219538|WD~scheduled_monument,219538]]'
+- '[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~archaeological_site,839954]]'
-- '[[_Standards/WikiData/WD~independent_museum,115154402]]'
-- '[[_Standards/WikiData/WD~castle,23413]]'
-- '[[_Standards/WikiData/WD~museum,33506]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]'
+- '[[_Standards/WikiData/WD~independent_museum,115154402|WD~independent_museum,115154402]]'
+- '[[_Standards/WikiData/WD~castle,23413|WD~castle,23413]]'
+- '[[_Standards/WikiData/WD~museum,33506|WD~museum,33506]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Sketchfab,7534755]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
-- '[[_Standards/WikiData/WD~CastlesFortsBattles,113626792]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Sketchfab,7534755|WD~Sketchfab,7534755]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862|WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+- '[[_Standards/WikiData/WD~CastlesFortsBattles,113626792|WD~CastlesFortsBattles,113626792]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903|WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~Caen_stone,1421807]]'
-- '[[_Standards/WikiData/WD~mudstone,6642424]]'
-- '[[_Standards/WikiData/WD~rag_stone,7282754]]'
-- '[[_Standards/WikiData/WD~Reigate_stone,63385305]]'
-has_part_s_: '[[_Standards/WikiData/WD~White_Tower,1528473]]'
-has_facility: '[[_Standards/WikiData/WD~accessible_toilet,2775009]]'
-category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q9914330,9914330]]'
-category_for_people_buried_here: '[[_Standards/WikiData/WD~Q14920101,14920101]]'
+- '[[_Standards/WikiData/WD~Caen_stone,1421807|WD~Caen_stone,1421807]]'
+- '[[_Standards/WikiData/WD~mudstone,6642424|WD~mudstone,6642424]]'
+- '[[_Standards/WikiData/WD~rag_stone,7282754|WD~rag_stone,7282754]]'
+- '[[_Standards/WikiData/WD~Reigate_stone,63385305|WD~Reigate_stone,63385305]]'
+has_part_s_: '[[_Standards/WikiData/WD~White_Tower,1528473|WD~White_Tower,1528473]]'
+has_facility: '[[_Standards/WikiData/WD~accessible_toilet,2775009|WD~accessible_toilet,2775009]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q9914330,9914330|WD~Q9914330,9914330]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q14920101,14920101|WD~Q14920101,14920101]]'
 World_Heritage_criteria:
-- '[[_Standards/WikiData/WD~(iv),23038978]]'
-- '[[_Standards/WikiData/WD~(ii),23038976]]'
-category_of_associated_people: '[[_Standards/WikiData/WD~Q32649077,32649077]]'
+- '[[_Standards/WikiData/WD~(iv),23038978|WD~(iv),23038978]]'
+- '[[_Standards/WikiData/WD~(ii),23038976|WD~(ii),23038976]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32649077,32649077|WD~Q32649077,32649077]]'
 inception: 1066-01-01T00:00:00Z
-historic_county: '[[_Standards/WikiData/WD~Middlesex,19186]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~River_Thames,19686]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-founded_by: '[[_Standards/WikiData/WD~William_the_Conqueror,37594]]'
-commissioned_by: '[[_Standards/WikiData/WD~William_the_Conqueror,37594]]'
-owned_by: '[[_Standards/WikiData/WD~Charles_III,43274]]'
+historic_county: '[[_Standards/WikiData/WD~Middlesex,19186|WD~Middlesex,19186]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~River_Thames,19686|WD~River_Thames,19686]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+founded_by: '[[_Standards/WikiData/WD~William_the_Conqueror,37594|WD~William_the_Conqueror,37594]]'
+commissioned_by: '[[_Standards/WikiData/WD~William_the_Conqueror,37594|WD~William_the_Conqueror,37594]]'
+owned_by: '[[_Standards/WikiData/WD~Charles_III,43274|WD~Charles_III,43274]]'
 ARCHON_code: 2919
 social_media_followers: 95826
 National_Heritage_List_for_England_number:
@@ -257,9 +257,9 @@ dv_has_:
 
 # [[Tower_of_London]] 
 
-![[../../../assets/Tower_of_London.png]]  
+![[../../../assets/Tower_of_London.png|Tower_of_London.png]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Tower_of_London,62378]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Tower_of_London,62378|WD~Tower_of_London,62378]] 
 
 ## #has_/text_of_/abstract 
 

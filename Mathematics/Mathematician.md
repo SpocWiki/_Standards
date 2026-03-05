@@ -133,20 +133,20 @@ female_form_of_label:
 - matematiciană
 - matemática
 - математичка
-field_of_this_occupation: '[[_Standards/WikiData/WD~mathematics,395]]'
-has_list: '[[_Standards/WikiData/WD~lists_of_mathematicians,66777993]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~mathematics,395|WD~mathematics,395]]'
+has_list: '[[_Standards/WikiData/WD~lists_of_mathematicians,66777993|WD~lists_of_mathematicians,66777993]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CMAP%20-%20Centre%20de%20Math%C3%A9matiques%20Appliqu%C3%A9es%20de%20l%27Ecole%20polytechnique%20%2825911635211%29.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO-08,108300140]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO-08,108300140|WD~occupation_group_according_to_ISCO-08,108300140]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 ISCO_08_occupation_class:
 - 212
 - 2120
 ISCO_88_occupation_class:
 - 212
 - 2121
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 male_form_of_label:
 - matematikistulo
 - математичар
@@ -173,9 +173,9 @@ Provenio_UUID: 4a565061-b09f-47d5-8e75-9f87f6f8fe6e
 quantity: 80000
 SOC_Code_2010_: 15-2021
 Stack_Exchange_tag: https://hsm.stackexchange.com/tags/mathematicians
-subclass_of: '[[_Standards/WikiData/WD~scientist,901]]'
+subclass_of: '[[_Standards/WikiData/WD~scientist,901|WD~scientist,901]]'
 UMLS_CUI: C0402139
-uses: '[[_Standards/WikiData/WD~mathematical_terminology,66785817]]'
+uses: '[[_Standards/WikiData/WD~mathematical_terminology,66785817|WD~mathematical_terminology,66785817]]'
 Wikidata_property: zbMATH author ID
 Wolfram_Language_entity_code: Entity["Concept", "Mathematician::42t84"]
 dv_has_:

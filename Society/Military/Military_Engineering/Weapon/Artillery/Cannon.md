@@ -76,15 +76,15 @@ aliases:
 - 加農炮
 - 캐넌
 has_id_wikidata: Q81103
-different_from: '[[_Standards/WikiData/WD~Cannon,236268]]'
+different_from: '[[_Standards/WikiData/WD~Cannon,236268|WD~Cannon,236268]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-subclass_of: '[[_Standards/WikiData/WD~artillery_gun,1246258]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+subclass_of: '[[_Standards/WikiData/WD~artillery_gun,1246258|WD~artillery_gun,1246258]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422|WD~weapon_functional_class,124078422]]'
 time_of_discovery_or_invention: 1326-01-01T00:00:00Z
-part_of: '[[_Standards/WikiData/WD~artillery,64418]]'
+part_of: '[[_Standards/WikiData/WD~artillery,64418|WD~artillery,64418]]'
 Nomenclature_for_Museum_Cataloging: 8070
 OmegaWiki_Defined_Meaning: 871296
 Commons_gallery: Cannon

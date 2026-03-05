@@ -77,22 +77,22 @@ aliases:
 - 프라이버시
 has_id_wikidata: Q188728
 uses:
-- '[[_Standards/WikiData/WD~encryption,141090]]'
-- '[[_Standards/WikiData/WD~soundproofing,589260]]'
-- '[[_Standards/WikiData/WD~visual_obstruction,111081764]]'
-facet_of: '[[_Standards/WikiData/WD~information_security,189900]]'
+- '[[_Standards/WikiData/WD~encryption,141090|WD~encryption,141090]]'
+- '[[_Standards/WikiData/WD~soundproofing,589260|WD~soundproofing,589260]]'
+- '[[_Standards/WikiData/WD~visual_obstruction,111081764|WD~visual_obstruction,111081764]]'
+facet_of: '[[_Standards/WikiData/WD~information_security,189900|WD~information_security,189900]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~anonymity,308859]]'
-- '[[_Standards/WikiData/WD~confidentiality,2476929]]'
-- '[[_Standards/WikiData/WD~seclusion,3815274]]'
+- '[[_Standards/WikiData/WD~anonymity,308859|WD~anonymity,308859]]'
+- '[[_Standards/WikiData/WD~confidentiality,2476929|WD~confidentiality,2476929]]'
+- '[[_Standards/WikiData/WD~seclusion,3815274|WD~seclusion,3815274]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~rights,780687]]'
-- '[[_Standards/WikiData/WD~secrecy,1503443]]'
+- '[[_Standards/WikiData/WD~rights,780687|WD~rights,780687]]'
+- '[[_Standards/WikiData/WD~secrecy,1503443|WD~secrecy,1503443]]'
 main_subject:
-- '[[_Standards/WikiData/WD~personal_data,3702971]]'
-- '[[_Standards/WikiData/WD~human_activity,61788060]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Privacy,20343729]]'
+- '[[_Standards/WikiData/WD~personal_data,3702971|WD~personal_data,3702971]]'
+- '[[_Standards/WikiData/WD~human_activity,61788060|WD~human_activity,61788060]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Privacy,20343729|WD~Template_Privacy,20343729]]'
 U_S_National_Archives_Identifier: 10643791
 IMDb_keyword: privacy
 GitHub_topic: privacy

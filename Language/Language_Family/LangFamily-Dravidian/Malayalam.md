@@ -97,34 +97,34 @@ aliases:
 - 말라얄람어
 has_id_wikidata: Q36236
 indigenous_to:
-- '[[_Standards/WikiData/WD~Puducherry,66743]]'
-- '[[_Standards/WikiData/WD~Kerala,1186]]'
-- '[[_Standards/WikiData/WD~Karnataka,1185]]'
-- '[[_Standards/WikiData/WD~Tamil_Nadu,1445]]'
-- '[[_Standards/WikiData/WD~Lakshadweep,26927]]'
+- '[[_Standards/WikiData/WD~Puducherry,66743|WD~Puducherry,66743]]'
+- '[[_Standards/WikiData/WD~Kerala,1186|WD~Kerala,1186]]'
+- '[[_Standards/WikiData/WD~Karnataka,1185|WD~Karnataka,1185]]'
+- '[[_Standards/WikiData/WD~Tamil_Nadu,1445|WD~Tamil_Nadu,1445]]'
+- '[[_Standards/WikiData/WD~Lakshadweep,26927|WD~Lakshadweep,26927]]'
 linguistic_typology:
-- '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
-- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~agglutinative_language,171263|WD~agglutinative_language,171263]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808|WD~subject_object_verb,539808]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 writing_system:
-- '[[_Standards/WikiData/WD~Malayalam_script,1164129]]'
-- '[[_Standards/WikiData/WD~Arabi_Malayalam_script,1522134]]'
+- '[[_Standards/WikiData/WD~Malayalam_script,1164129|WD~Malayalam_script,1164129]]'
+- '[[_Standards/WikiData/WD~Arabi_Malayalam_script,1522134|WD~Arabi_Malayalam_script,1522134]]'
 instance_of:
-- '[[_Standards/WikiData/WD~modern_language,1288568]]'
-- '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568|WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742|WD~natural_language,33742]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Malayalam,6741581]]'
-- '[[_Standards/WikiData/WD~Dravidian,33311]]'
-Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q36491149,36491149]]'
+- '[[_Standards/WikiData/WD~Malayalam,6741581|WD~Malayalam,6741581]]'
+- '[[_Standards/WikiData/WD~Dravidian,33311|WD~Dravidian,33311]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547|WD~2_Provincial,29051547]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q36491149,36491149|WD~Q36491149,36491149]]'
 part_of:
-- '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]'
-- '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
-country: '[[_Standards/WikiData/WD~India,668]]'
-different_from: '[[_Standards/WikiData/WD~Malay,9237]]'
+- '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530|WD~Classical_Languages_of_India,116275530]]'
+- '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300|WD~Schedule_languages_of_India,134519300]]'
+country: '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+different_from: '[[_Standards/WikiData/WD~Malay,9237|WD~Malay,9237]]'
 number_of_speakers_writers_or_signers: 37100000
 IAB_code: 1135
 ABS_ASCL_2011_code: 5102

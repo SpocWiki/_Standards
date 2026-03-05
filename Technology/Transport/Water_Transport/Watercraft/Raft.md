@@ -67,12 +67,12 @@ aliases:
 - 뗏목
 has_id_wikidata: Q200433
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-different_from: '[[_Standards/WikiData/WD~Sailing_Song_Festival_Tratwa_,9259294]]'
-instance_of: '[[_Standards/WikiData/WD~boat_type,16103215]]'
-subclass_of: '[[_Standards/WikiData/WD~boat,35872]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~Sailing_Song_Festival_Tratwa_,9259294|WD~Sailing_Song_Festival_Tratwa_,9259294]]'
+instance_of: '[[_Standards/WikiData/WD~boat_type,16103215|WD~boat_type,16103215]]'
+subclass_of: '[[_Standards/WikiData/WD~boat,35872|WD~boat,35872]]'
 OmegaWiki_Defined_Meaning: 6853
 Nomenclature_for_Museum_Cataloging: 12682
 Commons_gallery: Raft

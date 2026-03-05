@@ -103,17 +103,17 @@ aliases:
 - 夏季奧林匹克運動會
 - 하계 올림픽
 has_id_wikidata: Q159821
-opposite_of: '[[_Standards/WikiData/WD~Winter_Olympic_Games,82414]]'
+opposite_of: '[[_Standards/WikiData/WD~Winter_Olympic_Games,82414|WD~Winter_Olympic_Games,82414]]'
 sport:
-- '[[_Standards/WikiData/WD~archery,108429]]'
-- '[[_Standards/WikiData/WD~3x3_basketball,210550]]'
-- '[[_Standards/WikiData/WD~figure_skating,38108]]'
-instance_of: '[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]'
-described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~archery,108429|WD~archery,108429]]'
+- '[[_Standards/WikiData/WD~3x3_basketball,210550|WD~3x3_basketball,210550]]'
+- '[[_Standards/WikiData/WD~figure_skating,38108|WD~figure_skating,38108]]'
+instance_of: '[[_Standards/WikiData/WD~recurring_sporting_event,18608583|WD~recurring_sporting_event,18608583]]'
+described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897|WD~Medvik,99413897]]'
 start_time: 1896-01-01T00:00:00Z
-subclass_of: '[[_Standards/WikiData/WD~Olympic_Games,5389]]'
+subclass_of: '[[_Standards/WikiData/WD~Olympic_Games,5389|WD~Olympic_Games,5389]]'
 event_interval: 4
-organizer: '[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]'
+organizer: '[[_Standards/WikiData/WD~International_Olympic_Committee,40970|WD~International_Olympic_Committee,40970]]'
 IAB_code: 522
 logo_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20rings%20without%20rims.svg

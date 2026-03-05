@@ -82,17 +82,17 @@ aliases:
 - 侵食
 - 침식
 has_id_wikidata: Q80026
-has_cause: '[[_Standards/WikiData/WD~weathering,179177]]'
+has_cause: '[[_Standards/WikiData/WD~weathering,179177|WD~weathering,179177]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~natural_phenomenon,1322005]]'
-- '[[_Standards/WikiData/WD~natural_process,13878858]]'
-- '[[_Standards/WikiData/WD~removal,23009442]]'
-different_from: '[[_Standards/WikiData/WD~Erozja,9254795]]'
-class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~terrain,14524493]]'
+- '[[_Standards/WikiData/WD~natural_phenomenon,1322005|WD~natural_phenomenon,1322005]]'
+- '[[_Standards/WikiData/WD~natural_process,13878858|WD~natural_process,13878858]]'
+- '[[_Standards/WikiData/WD~removal,23009442|WD~removal,23009442]]'
+different_from: '[[_Standards/WikiData/WD~Erozja,9254795|WD~Erozja,9254795]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~terrain,14524493|WD~terrain,14524493]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
 OmegaWiki_Defined_Meaning: 1339
 Commons_category: Erosion
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Sea%20dune%20Erosion%20at%20Talace%2C%20Wales.webm

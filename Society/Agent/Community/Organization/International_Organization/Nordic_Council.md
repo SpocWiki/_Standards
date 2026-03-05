@@ -79,39 +79,39 @@ aliases:
 - 北歐理事會
 - 북유럽 이사회
 has_id_wikidata: Q146165
-currency: '[[_Standards/WikiData/WD~Swedish_krona,122922]]'
-facet_of: '[[_Standards/WikiData/WD~international_relations,166542]]'
+currency: '[[_Standards/WikiData/WD~Swedish_krona,122922|WD~Swedish_krona,122922]]'
+facet_of: '[[_Standards/WikiData/WD~international_relations,166542|WD~international_relations,166542]]'
 instance_of:
-- '[[_Standards/WikiData/WD~confederation,170156]]'
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
-- '[[_Standards/WikiData/WD~political_territorial_entity,1048835]]'
-- '[[_Standards/WikiData/WD~supranational_union,1335818]]'
+- '[[_Standards/WikiData/WD~confederation,170156|WD~confederation,170156]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~political_territorial_entity,1048835|WD~political_territorial_entity,1048835]]'
+- '[[_Standards/WikiData/WD~supranational_union,1335818|WD~supranational_union,1335818]]'
 grants:
-- '[[_Standards/WikiData/WD~Nordic_Council_Music_Prize,182362]]'
-- '[[_Standards/WikiData/WD~Nordic_Council_Film_Prize,182366]]'
-- '[[_Standards/WikiData/WD~Nordic_Council_Environment_Prize,182375]]'
-- '[[_Standards/WikiData/WD~Nordic_Council_Literature_Prize,182419]]'
-- "[[_Standards/WikiData/WD~Nordic_Council_Children_and_Young_People's_Literature_Prize,15061759]]"
+- '[[_Standards/WikiData/WD~Nordic_Council_Music_Prize,182362|WD~Nordic_Council_Music_Prize,182362]]'
+- '[[_Standards/WikiData/WD~Nordic_Council_Film_Prize,182366|WD~Nordic_Council_Film_Prize,182366]]'
+- '[[_Standards/WikiData/WD~Nordic_Council_Environment_Prize,182375|WD~Nordic_Council_Environment_Prize,182375]]'
+- '[[_Standards/WikiData/WD~Nordic_Council_Literature_Prize,182419|WD~Nordic_Council_Literature_Prize,182419]]'
+- "[[_Standards/WikiData/WD~Nordic_Council_Children_and_Young_People's_Literature_Prize,15061759|WD~Nordic_Council_Children_and_Young_People's_Literature_Prize,15061759]]"
 different_from:
-- '[[_Standards/WikiData/WD~Nordic_Council_of_Ministers,182379]]'
-- '[[_Standards/WikiData/WD~West_Nordic_Council,1642145]]'
-flag: '[[_Standards/WikiData/WD~flag_of_the_Nordic_Council,1315705]]'
-head_of_government: '[[_Standards/WikiData/WD~Jorodd_Asphjell,6279004]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Nordic_Council,10650366]]'
+- '[[_Standards/WikiData/WD~Nordic_Council_of_Ministers,182379|WD~Nordic_Council_of_Ministers,182379]]'
+- '[[_Standards/WikiData/WD~West_Nordic_Council,1642145|WD~West_Nordic_Council,1642145]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Nordic_Council,1315705|WD~flag_of_the_Nordic_Council,1315705]]'
+head_of_government: '[[_Standards/WikiData/WD~Jorodd_Asphjell,6279004|WD~Jorodd_Asphjell,6279004]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Nordic_Council,10650366|WD~Template_Nordic_Council,10650366]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Nordic_Council_Secretariat,24238334]]'
-- '[[_Standards/WikiData/WD~Nordic_Council_Presidium,24255056]]'
-- '[[_Standards/WikiData/WD~Nordic_Council_National_Delegations,24255079]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Nordic_Council_Secretariat,24238334|WD~Nordic_Council_Secretariat,24238334]]'
+- '[[_Standards/WikiData/WD~Nordic_Council_Presidium,24255056|WD~Nordic_Council_Presidium,24255056]]'
+- '[[_Standards/WikiData/WD~Nordic_Council_National_Delegations,24255079|WD~Nordic_Council_National_Delegations,24255079]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 official_language:
-- '[[_Standards/WikiData/WD~Icelandic,294]]'
-- '[[_Standards/WikiData/WD~Finnish,1412]]'
-- '[[_Standards/WikiData/WD~Swedish,9027]]'
-- '[[_Standards/WikiData/WD~Danish,9035]]'
-- '[[_Standards/WikiData/WD~Norwegian,9043]]'
-headquarters_location: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
+- '[[_Standards/WikiData/WD~Icelandic,294|WD~Icelandic,294]]'
+- '[[_Standards/WikiData/WD~Finnish,1412|WD~Finnish,1412]]'
+- '[[_Standards/WikiData/WD~Swedish,9027|WD~Swedish,9027]]'
+- '[[_Standards/WikiData/WD~Danish,9035|WD~Danish,9035]]'
+- '[[_Standards/WikiData/WD~Norwegian,9043|WD~Norwegian,9043]]'
+headquarters_location: '[[_Standards/WikiData/WD~Copenhagen,1748|WD~Copenhagen,1748]]'
 employees: 300
-country: '[[_Standards/WikiData/WD~Nordic_countries,52062]]'
+country: '[[_Standards/WikiData/WD~Nordic_countries,52062|WD~Nordic_countries,52062]]'
 social_media_followers: 7618
 inception: 1952-03-16T00:00:00Z
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Nordic%20Council%202016.svg

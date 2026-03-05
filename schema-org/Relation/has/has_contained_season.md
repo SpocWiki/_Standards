@@ -29,7 +29,7 @@ tags:
 title: has_contained_season
 type: Predi_Relation
 dv_has_:
-  parent_property: "[[../../Composite/has_parts]]"
+  parent_property: "[[../../Composite/has_parts|has_parts]]"
   contained_season: "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]"
   domain:
     - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]]"
@@ -55,7 +55,7 @@ dv_has_domain:
   - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]]"
 dv_has_name: has_contained_season
 dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]"
-dv_has_parent_property: "[[../../Composite/has_parts]]"
+dv_has_parent_property: "[[../../Composite/has_parts|has_parts]]"
 dv_is_same_as:
   - "[[has_contained_season]]"
   - "[[/_public/schema-org/Relation/has/has_contained_season.public|has_contained_season.public]]"

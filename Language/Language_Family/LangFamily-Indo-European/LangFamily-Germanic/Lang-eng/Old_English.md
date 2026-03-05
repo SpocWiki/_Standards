@@ -113,34 +113,34 @@ aliases:
 - 고대 영어
 has_id_wikidata: Q42365
 linguistic_typology:
-- '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
-- '[[_Standards/WikiData/WD~fusional_language,318917]]'
-- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
-- '[[_Standards/WikiData/WD~V2_word_order,1516105]]'
-- '[[_Standards/WikiData/WD~stress_timed_language,7888721]]'
+- '[[_Standards/WikiData/WD~nominative_accusative_language,178435|WD~nominative_accusative_language,178435]]'
+- '[[_Standards/WikiData/WD~fusional_language,318917|WD~fusional_language,318917]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808|WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~V2_word_order,1516105|WD~V2_word_order,1516105]]'
+- '[[_Standards/WikiData/WD~stress_timed_language,7888721|WD~stress_timed_language,7888721]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-subclass_of: '[[_Standards/WikiData/WD~Anglic,1346342]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subclass_of: '[[_Standards/WikiData/WD~Anglic,1346342|WD~Anglic,1346342]]'
 writing_system:
-- '[[_Standards/WikiData/WD~futhark,1937113]]'
-- '[[_Standards/WikiData/WD~Latin_script,8229]]'
+- '[[_Standards/WikiData/WD~futhark,1937113|WD~futhark,1937113]]'
+- '[[_Standards/WikiData/WD~Latin_script,8229|WD~Latin_script,8229]]'
 instance_of:
-- '[[_Standards/WikiData/WD~historical_language,2315359]]'
-- '[[_Standards/WikiData/WD~extinct_language,38058796]]'
-- '[[_Standards/WikiData/WD~natural_language,33742]]'
-- '[[_Standards/WikiData/WD~dead_language,45762]]'
-different_from: '[[_Standards/WikiData/WD~Q11732661,11732661]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q36457709,36457709]]'
+- '[[_Standards/WikiData/WD~historical_language,2315359|WD~historical_language,2315359]]'
+- '[[_Standards/WikiData/WD~extinct_language,38058796|WD~extinct_language,38058796]]'
+- '[[_Standards/WikiData/WD~natural_language,33742|WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~dead_language,45762|WD~dead_language,45762]]'
+different_from: '[[_Standards/WikiData/WD~Q11732661,11732661|WD~Q11732661,11732661]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q36457709,36457709|WD~Q36457709,36457709]]'
 end_time: 1066-01-01T00:00:00Z
 indigenous_to:
-- '[[_Standards/WikiData/WD~Scotland,22]]'
-- '[[_Standards/WikiData/WD~England,21]]'
-- '[[_Standards/WikiData/WD~British_Isles,38272]]'
+- '[[_Standards/WikiData/WD~Scotland,22|WD~Scotland,22]]'
+- '[[_Standards/WikiData/WD~England,21|WD~England,21]]'
+- '[[_Standards/WikiData/WD~British_Isles,38272|WD~British_Isles,38272]]'
 number_of_speakers_writers_or_signers: 0
-replaced_by: '[[_Standards/WikiData/WD~Middle_English,36395]]'
+replaced_by: '[[_Standards/WikiData/WD~Middle_English,36395|WD~Middle_English,36395]]'
 Dewey_Decimal_Classification:
 - 420
 - 429

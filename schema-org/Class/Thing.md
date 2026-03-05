@@ -311,7 +311,7 @@ Every Class is a subclass of [[Thing]].
 The Class of all things. Everything you can think about is a 'thing'. 
 AKA AnyThing, EveryThing, SomeThing 
 
-This is the most generic [[../Class|Class/Type]] of items.
+This is the most generic [[../Class|Class/Type|Type]] of items.
 Each [Thing](Thing) has its own Identity.
 
 They are the Subject of the [[is_instance_of]] Relation to their [[../Classes.md|Classes]]. 

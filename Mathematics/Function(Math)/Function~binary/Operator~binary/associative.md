@@ -73,17 +73,17 @@ aliases:
 - 결합법칙
 has_id_wikidata: Q177251
 used_by:
-- '[[_Standards/WikiData/WD~union,185359]]'
-- '[[_Standards/WikiData/WD~addition,32043]]'
-- '[[_Standards/WikiData/WD~multiplication,40276]]'
+- '[[_Standards/WikiData/WD~union,185359|WD~union,185359]]'
+- '[[_Standards/WikiData/WD~addition,32043|WD~addition,32043]]'
+- '[[_Standards/WikiData/WD~multiplication,40276|WD~multiplication,40276]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 instance_of:
-- '[[_Standards/WikiData/WD~rule_of_replacement,1361787]]'
-- '[[_Standards/WikiData/WD~mathematical_property,3924032]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~rule_of_replacement,1361787|WD~rule_of_replacement,1361787]]'
+- '[[_Standards/WikiData/WD~mathematical_property,3924032|WD~mathematical_property,3924032]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Associativity%20of%20binary%20operations%20%28without%20question%20marks%29.svg
 defining_formula: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \forall x,y\colon (x\star y)\star z=x\star (y\star z)}">

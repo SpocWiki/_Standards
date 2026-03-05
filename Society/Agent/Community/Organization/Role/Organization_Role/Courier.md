@@ -48,16 +48,16 @@ aliases:
 - 速遞
 - 택배사
 has_id_wikidata: Q848466
-described_by_source: '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-different_from: '[[_Standards/WikiData/WD~Kurier,1222995]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~delivery_driver,2961574]]'
+described_by_source: '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+different_from: '[[_Standards/WikiData/WD~Kurier,1222995|WD~Kurier,1222995]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~delivery_driver,2961574|WD~delivery_driver,2961574]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~postal_worker,7234072]]'
-- '[[_Standards/WikiData/WD~errand_runner,134528004]]'
-instance_of: '[[_Standards/WikiData/WD~occupation,12737077]]'
-subclass_of: '[[_Standards/WikiData/WD~manual_worker,33394058]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~courier_service,57616098]]'
-industry: '[[_Standards/WikiData/WD~postal_sector,57616250]]'
+- '[[_Standards/WikiData/WD~postal_worker,7234072|WD~postal_worker,7234072]]'
+- '[[_Standards/WikiData/WD~errand_runner,134528004|WD~errand_runner,134528004]]'
+instance_of: '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+subclass_of: '[[_Standards/WikiData/WD~manual_worker,33394058|WD~manual_worker,33394058]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~courier_service,57616098|WD~courier_service,57616098]]'
+industry: '[[_Standards/WikiData/WD~postal_sector,57616250|WD~postal_sector,57616250]]'
 Merchant_Category_Code: 4215
 OmegaWiki_Defined_Meaning: 1016065
 female_form_of_label:

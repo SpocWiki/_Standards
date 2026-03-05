@@ -27,7 +27,7 @@ title: is_a_size_specification Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../QualitativeValue]]"
+  parent_class: "[[../QualitativeValue|QualitativeValue]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Size_Specification|Size_Specification]]"
     - "[[/_public/schema-org/Enumeration/Qualitative_Value/Size_Specification.public|Size_Specification.public]]"
@@ -40,7 +40,7 @@ dv_is_:
 dv_has_:
   properties: "[ additionalProperty, equal, greater, greaterOrEqual, hasMeasurement, lesser, lesserOrEqual, nonEqual, sizeGroup, sizeSystem, suggestedAge, suggestedGender, suggestedMeasurement, valueReference ]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../QualitativeValue]]"
+dv_has_parent_class: "[[../QualitativeValue|QualitativeValue]]"
 dv_has_properties: "[ additionalProperty, equal, greater, greaterOrEqual, hasMeasurement, lesser, lesserOrEqual, nonEqual, sizeGroup, sizeSystem, suggestedAge, suggestedGender, suggestedMeasurement, valueReference ]"
 dv_is_same_as:
   - "[[Size_Specification]]"

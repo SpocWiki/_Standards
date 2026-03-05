@@ -58,23 +58,23 @@ aliases:
 - 스테인드글라스
 has_id_wikidata: Q1473346
 significant_person:
-- '[[_Standards/WikiData/WD~William_Morris,182589]]'
-- '[[_Standards/WikiData/WD~Louis_Comfort_Tiffany,312950]]'
-- '[[_Standards/WikiData/WD~Johannes_Schreiter,1230597]]'
-- '[[_Standards/WikiData/WD~John_Piper,4363211]]'
-- '[[_Standards/WikiData/WD~Brian_Clarke,4963372]]'
-has_characteristic: '[[_Standards/WikiData/WD~polychromy,183127]]'
-subclass_of: '[[_Standards/WikiData/WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~William_Morris,182589|WD~William_Morris,182589]]'
+- '[[_Standards/WikiData/WD~Louis_Comfort_Tiffany,312950|WD~Louis_Comfort_Tiffany,312950]]'
+- '[[_Standards/WikiData/WD~Johannes_Schreiter,1230597|WD~Johannes_Schreiter,1230597]]'
+- '[[_Standards/WikiData/WD~John_Piper,4363211|WD~John_Piper,4363211]]'
+- '[[_Standards/WikiData/WD~Brian_Clarke,4963372|WD~Brian_Clarke,4963372]]'
+has_characteristic: '[[_Standards/WikiData/WD~polychromy,183127|WD~polychromy,183127]]'
+subclass_of: '[[_Standards/WikiData/WD~work_of_art,838948|WD~work_of_art,838948]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~metal_oxide,1795231]]'
-- '[[_Standards/WikiData/WD~glass,11469]]'
-different_from: '[[_Standards/WikiData/WD~stained_glass_window,21061279]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
-fabrication_method: '[[_Standards/WikiData/WD~stained_glass_design,115200950]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_work_of_art,116474095]]'
+- '[[_Standards/WikiData/WD~metal_oxide,1795231|WD~metal_oxide,1795231]]'
+- '[[_Standards/WikiData/WD~glass,11469|WD~glass,11469]]'
+different_from: '[[_Standards/WikiData/WD~stained_glass_window,21061279|WD~stained_glass_window,21061279]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806|WD~WikiProject_Craft,110249806]]'
+fabrication_method: '[[_Standards/WikiData/WD~stained_glass_design,115200950|WD~stained_glass_design,115200950]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_work_of_art,116474095|WD~type_of_work_of_art,116474095]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2014%20Nysa%2C%20Bazylika%20%C5%9Bw.%20Jakuba%20i%20%C5%9Bw.%20Agnieszki%2C%20witra%C5%BC.jpg
 Commons_gallery: Stained glass
 Commons_category: Stained glass

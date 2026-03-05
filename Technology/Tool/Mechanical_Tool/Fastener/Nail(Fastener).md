@@ -120,29 +120,29 @@ aliases:
 - 钉子
 - 못
 has_id_wikidata: Q37077
-made_from_material: '[[_Standards/WikiData/WD~wire,551997]]'
+made_from_material: '[[_Standards/WikiData/WD~wire,551997|WD~wire,551997]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-used_by: '[[_Standards/WikiData/WD~construction_worker,811122]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+used_by: '[[_Standards/WikiData/WD~construction_worker,811122|WD~construction_worker,811122]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~consumables,1681365]]'
-- '[[_Standards/WikiData/WD~metal_product,1746570]]'
-- '[[_Standards/WikiData/WD~fastener,2002016]]'
-- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
-- '[[_Standards/WikiData/WD~woodworking_tool,11789812]]'
-- '[[_Standards/WikiData/WD~art_material,15303351]]'
-- '[[_Standards/WikiData/WD~physical_tool,39546]]'
+- '[[_Standards/WikiData/WD~consumables,1681365|WD~consumables,1681365]]'
+- '[[_Standards/WikiData/WD~metal_product,1746570|WD~metal_product,1746570]]'
+- '[[_Standards/WikiData/WD~fastener,2002016|WD~fastener,2002016]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]'
+- '[[_Standards/WikiData/WD~woodworking_tool,11789812|WD~woodworking_tool,11789812]]'
+- '[[_Standards/WikiData/WD~art_material,15303351|WD~art_material,15303351]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]'
 has_use:
-- '[[_Standards/WikiData/WD~assembly,3625549]]'
-- '[[_Standards/WikiData/WD~construction,3875186]]'
+- '[[_Standards/WikiData/WD~assembly,3625549|WD~assembly,3625549]]'
+- '[[_Standards/WikiData/WD~construction,3875186|WD~construction,3875186]]'
 different_from:
-- '[[_Standards/WikiData/WD~Nagel,13403842]]'
-- '[[_Standards/WikiData/WD~On_the_Nail,19184430]]'
+- '[[_Standards/WikiData/WD~Nagel,13403842|WD~Nagel,13403842]]'
+- '[[_Standards/WikiData/WD~On_the_Nail,19184430|WD~On_the_Nail,19184430]]'
 Nomenclature_for_Museum_Cataloging: 7311
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nails.jpg
 Iconclass_notation: 47D8(NAIL)

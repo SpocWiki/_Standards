@@ -191,31 +191,31 @@ MeSH_tree_code:
 entry_in_abbreviations_table: оз.
 OpenStreetMap_tag: water=lake
 studied_by:
-- '[[_Standards/WikiData/WD~limnology,165838]]'
-- '[[_Standards/WikiData/WD~limnology,840436]]'
+- '[[_Standards/WikiData/WD~limnology,165838|WD~limnology,165838]]'
+- '[[_Standards/WikiData/WD~limnology,840436|WD~limnology,840436]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~landform,271669]]'
-- '[[_Standards/WikiData/WD~still_waters,337567]]'
-- '[[_Standards/WikiData/WD~open_water,2479431]]'
-- '[[_Standards/WikiData/WD~overground_still_body_of_fresh_water,3391202]]'
+- '[[_Standards/WikiData/WD~landform,271669|WD~landform,271669]]'
+- '[[_Standards/WikiData/WD~still_waters,337567|WD~still_waters,337567]]'
+- '[[_Standards/WikiData/WD~open_water,2479431|WD~open_water,2479431]]'
+- '[[_Standards/WikiData/WD~overground_still_body_of_fresh_water,3391202|WD~overground_still_body_of_fresh_water,3391202]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Lakes,5497887]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Lakes,5497887|WD~WikiProject_Lakes,5497887]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_lake,5825790]]'
-- '[[_Standards/WikiData/WD~Template_Lake_stub,13401990]]'
-- '[[_Standards/WikiData/WD~Q26019895,26019895]]'
-- '[[_Standards/WikiData/WD~Q26189069,26189069]]'
-instance_of: '[[_Standards/WikiData/WD~feature_type,12046615]]'
-different_from: '[[_Standards/WikiData/WD~lake_water_body,30092776]]'
-depicted_by: "[[_Standards/WikiData/WD~Le_acque_sognanti._L'enigma_del_lago,131937094]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q134291924,134291924]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_lake,5825790|WD~Template_Infobox_lake,5825790]]'
+- '[[_Standards/WikiData/WD~Template_Lake_stub,13401990|WD~Template_Lake_stub,13401990]]'
+- '[[_Standards/WikiData/WD~Q26019895,26019895|WD~Q26019895,26019895]]'
+- '[[_Standards/WikiData/WD~Q26189069,26189069|WD~Q26189069,26189069]]'
+instance_of: '[[_Standards/WikiData/WD~feature_type,12046615|WD~feature_type,12046615]]'
+different_from: '[[_Standards/WikiData/WD~lake_water_body,30092776|WD~lake_water_body,30092776]]'
+depicted_by: "[[_Standards/WikiData/WD~Le_acque_sognanti._L'enigma_del_lago,131937094|WD~Le_acque_sognanti._L'enigma_del_lago,131937094]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q134291924,134291924|WD~Q134291924,134291924]]'
 Wikidata_property: lake on watercourse
 properties_for_this_type:
 - inception
@@ -476,7 +476,7 @@ dv_has_:
     zh_hk: 湖泊
     zh_tw: 湖泊
     zu: ichibi
-  parent_class: '[[../BodyOfWater]]'
+  parent_class: '[[../BodyOfWater|BodyOfWater]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:
   same_as:
@@ -488,7 +488,7 @@ dv_is_:
   - '[[/_private/Earth/Geology/Landform/body_of_water/Lake.private|Lake.private]]'
   - '[[/_personal/Earth/Geology/Landform/body_of_water/Lake.personal|Lake.personal]]'
   - '[[/_secret/Earth/Geology/Landform/body_of_water/Lake.secret|Lake.secret]]'
-dv_has_parent_class: '[[../BodyOfWater]]'
+dv_has_parent_class: '[[../BodyOfWater|BodyOfWater]]'
 dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
 - '[[../../../../WikiData/WD~Lake,23397|WD~Lake,23397]]'

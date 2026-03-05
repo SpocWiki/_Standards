@@ -159,7 +159,7 @@ aliases:
 
 ## #has_/text_of_/abstract 
 
-> Robinson Crusoe ( KROO-soh) is an English adventure novel by [[../Defoe,Daniel]], 
+> Robinson Crusoe ( KROO-soh) is an English adventure novel by [[../Defoe,Daniel|Defoe,Daniel]], 
 > first published on 25 April 1719. 
 > 
 > It is often credited as marking the beginning of realistic fiction as a literary genre, 

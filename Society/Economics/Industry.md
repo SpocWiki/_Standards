@@ -114,30 +114,30 @@ has_id_wikidata: Q8148
 Colon_Classification: X8A
 Commons_category: Industry (manufacturing)
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 Dewey_Decimal_Classification:
 - 338
 - 338.4
-different_from: '[[_Standards/WikiData/WD~industry,268592]]'
+different_from: '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
 hashtag: industries
 IAB_code: 90
 Iconclass_notation: 47B2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Valero%20Three%20Rivers%20Refinery%20Texas%202020.jpg
-instance_of: '[[_Standards/WikiData/WD~economic_sector,3958441]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q52677530,52677530]]'
+instance_of: '[[_Standards/WikiData/WD~economic_sector,3958441|WD~economic_sector,3958441]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q52677530,52677530|WD~Q52677530,52677530]]'
 MeSH_tree_code: J01.576
 OmegaWiki_Defined_Meaning: 1922
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~nijverheid,3096286]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~nijverheid,3096286|WD~nijverheid,3096286]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~activity,1914636]]'
-- '[[_Standards/WikiData/WD~secondary_sector_of_the_economy,55639]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Industry,14615793]]'
+- '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~secondary_sector_of_the_economy,55639|WD~secondary_sector_of_the_economy,55639]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Industry,14615793|WD~Portal_Industry,14615793]]'
 UMLS_CUI: C0039567
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_industry,16000278]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_industry,16000278|WD~outline_of_industry,16000278]]'
 dv_has_:
   name_:
     ab: Аагалых

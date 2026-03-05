@@ -89,14 +89,14 @@ aliases:
 - 립자물리학
 - 입자물리학
 has_id_wikidata: Q18334
-is_the_study_of: '[[_Standards/WikiData/WD~subatomic_particle,177013]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~high_energy_physics,350265]]'
+is_the_study_of: '[[_Standards/WikiData/WD~subatomic_particle,177013|WD~subatomic_particle,177013]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~high_energy_physics,350265|WD~high_energy_physics,350265]]'
 part_of:
-- '[[_Standards/WikiData/WD~modern_physics,658544]]'
-- '[[_Standards/WikiData/WD~physics,413]]'
-subclass_of: '[[_Standards/WikiData/WD~modern_physics,658544]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
-practiced_by: '[[_Standards/WikiData/WD~particle_physicist,63017728]]'
+- '[[_Standards/WikiData/WD~modern_physics,658544|WD~modern_physics,658544]]'
+- '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
+subclass_of: '[[_Standards/WikiData/WD~modern_physics,658544|WD~modern_physics,658544]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
+practiced_by: '[[_Standards/WikiData/WD~particle_physicist,63017728|WD~particle_physicist,63017728]]'
 OmegaWiki_Defined_Meaning: 8229
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Institute%20of%20nuclear%20and%20particle%20physics%2000048%20REP%20SDR-65%20%280666%29.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A6%A3%E0%A6%BE%20%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8.wav

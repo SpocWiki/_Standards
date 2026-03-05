@@ -27,9 +27,9 @@ tags:
 title: is_a_parking_map Class
 type: Type
 dv_has_:
-  parent_class: "[[../MapCategoryType]]"
+  parent_class: "[[../MapCategoryType|MapCategoryType]]"
 dv_is_:
-  enum_of: "[[../MapCategoryType]]"
+  enum_of: "[[../MapCategoryType|MapCategoryType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Map_Category_Type/Parking_Map|Parking_Map]]"
     - "[[/_public/schema-org/Enumeration/Map_Category_Type/Parking_Map.public|Parking_Map.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Map_Category_Type/Parking_Map.personal|Parking_Map.personal]]"
     - "[[/_secret/schema-org/Enumeration/Map_Category_Type/Parking_Map.secret|Parking_Map.secret]]"
     - "[[Parking_Map]]"
-dv_has_parent_class: "[[../MapCategoryType]]"
-dv_is_enum_of: "[[../MapCategoryType]]"
+dv_has_parent_class: "[[../MapCategoryType|MapCategoryType]]"
+dv_is_enum_of: "[[../MapCategoryType|MapCategoryType]]"
 dv_is_same_as:
   - "[[Parking_Map]]"
   - "[[/_public/schema-org/Enumeration/Map_Category_Type/Parking_Map.public|Parking_Map.public]]"

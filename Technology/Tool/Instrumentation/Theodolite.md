@@ -41,15 +41,15 @@ aliases:
 - 경위의
 has_id_wikidata: Q181517
 has_use:
-- '[[_Standards/WikiData/WD~geodesy,131089]]'
-- '[[_Standards/WikiData/WD~surveying,816425]]'
-- '[[_Standards/WikiData/WD~angle_measurement,1652852]]'
-- '[[_Standards/WikiData/WD~cartography,42515]]'
-collection: '[[_Standards/WikiData/WD~ETH_Library,684773]]'
+- '[[_Standards/WikiData/WD~geodesy,131089|WD~geodesy,131089]]'
+- '[[_Standards/WikiData/WD~surveying,816425|WD~surveying,816425]]'
+- '[[_Standards/WikiData/WD~angle_measurement,1652852|WD~angle_measurement,1652852]]'
+- '[[_Standards/WikiData/WD~cartography,42515|WD~cartography,42515]]'
+collection: '[[_Standards/WikiData/WD~ETH_Library,684773|WD~ETH_Library,684773]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-subclass_of: '[[_Standards/WikiData/WD~measuring_instrument,2041172]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~measuring_instrument,2041172|WD~measuring_instrument,2041172]]'
 height: 25
 Nomenclature_for_Museum_Cataloging: 10230
 OmegaWiki_Defined_Meaning: 890058

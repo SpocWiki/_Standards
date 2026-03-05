@@ -1,5 +1,5 @@
 
-Package-Manager and Build-System for [[../Prog~Rust]] Programs. 
+Package-Manager and Build-System for [[../Prog~Rust|Prog~Rust]] Programs. 
 Pulls packages from https://crates.io 
 
 

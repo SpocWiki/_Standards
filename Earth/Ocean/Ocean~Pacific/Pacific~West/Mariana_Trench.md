@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Mariana_Trench,510]]'
+  - '[[../../../../WikiData/WD~Mariana_Trench,510|WD~Mariana_Trench,510]]'
   - '[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench|Mariana_Trench]]'
   - '[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.public|Mariana_Trench.public]]'
   - '[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.internal|Mariana_Trench.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.personal|Mariana_Trench.personal]]'
   - '[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.secret|Mariana_Trench.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Mariana_Trench,510]]'
+- '[[../../../../WikiData/WD~Mariana_Trench,510|WD~Mariana_Trench,510]]'
 - '[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench|Mariana_Trench]]'
 - '[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.public|Mariana_Trench.public]]'
 - '[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.internal|Mariana_Trench.internal]]'
@@ -114,14 +114,14 @@ has_id_wikidata: Q510
 location:
 - 11.35
 - 142.2
-instance_of: '[[_Standards/WikiData/WD~oceanic_trench,119253]]'
-named_after: '[[_Standards/WikiData/WD~Mariana_Islands,153732]]'
-lowest_point: '[[_Standards/WikiData/WD~Challenger_Deep,459173]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~North_Pacific_Ocean,12353254]]'
+instance_of: '[[_Standards/WikiData/WD~oceanic_trench,119253|WD~oceanic_trench,119253]]'
+named_after: '[[_Standards/WikiData/WD~Mariana_Islands,153732|WD~Mariana_Islands,153732]]'
+lowest_point: '[[_Standards/WikiData/WD~Challenger_Deep,459173|WD~Challenger_Deep,459173]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~North_Pacific_Ocean,12353254|WD~North_Pacific_Ocean,12353254]]'
 elevation_above_sea_level: -10994
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Northern_Mariana_Islands,16644]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Northern_Mariana_Islands,16644|WD~Northern_Mariana_Islands,16644]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Marianatrenchmap.png
 bathymetry_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Mariana%20trench%20location.jpg

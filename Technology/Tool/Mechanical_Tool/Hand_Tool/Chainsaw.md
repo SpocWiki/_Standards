@@ -67,21 +67,21 @@ aliases:
 - 체인톱
 has_id_wikidata: Q208040
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~handle,200266]]'
-- '[[_Standards/WikiData/WD~saw_chain,2378867]]'
-- '[[_Standards/WikiData/WD~chainsaw_safety_feature,5068036]]'
-- '[[_Standards/WikiData/WD~engine,44167]]'
+- '[[_Standards/WikiData/WD~handle,200266|WD~handle,200266]]'
+- '[[_Standards/WikiData/WD~saw_chain,2378867|WD~saw_chain,2378867]]'
+- '[[_Standards/WikiData/WD~chainsaw_safety_feature,5068036|WD~chainsaw_safety_feature,5068036]]'
+- '[[_Standards/WikiData/WD~engine,44167|WD~engine,44167]]'
 used_by:
-- '[[_Standards/WikiData/WD~gardener,758780]]'
-- '[[_Standards/WikiData/WD~arborist,776268]]'
-- '[[_Standards/WikiData/WD~logging,845249]]'
-- '[[_Standards/WikiData/WD~lumberjack,1124183]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-subclass_of: '[[_Standards/WikiData/WD~mechanical_saw,70875100]]'
-instance_of: '[[_Standards/WikiData/WD~saw_type,128602091]]'
+- '[[_Standards/WikiData/WD~gardener,758780|WD~gardener,758780]]'
+- '[[_Standards/WikiData/WD~arborist,776268|WD~arborist,776268]]'
+- '[[_Standards/WikiData/WD~logging,845249|WD~logging,845249]]'
+- '[[_Standards/WikiData/WD~lumberjack,1124183|WD~lumberjack,1124183]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+subclass_of: '[[_Standards/WikiData/WD~mechanical_saw,70875100|WD~mechanical_saw,70875100]]'
+instance_of: '[[_Standards/WikiData/WD~saw_type,128602091|WD~saw_type,128602091]]'
 source_of_energy:
-- '[[_Standards/WikiData/WD~electricity,12725]]'
-- '[[_Standards/WikiData/WD~gasoline,39558]]'
+- '[[_Standards/WikiData/WD~electricity,12725|WD~electricity,12725]]'
+- '[[_Standards/WikiData/WD~gasoline,39558|WD~gasoline,39558]]'
 Nomenclature_for_Museum_Cataloging: 5310
 OmegaWiki_Defined_Meaning: 915913
 GS1_GPC_code: 10003359

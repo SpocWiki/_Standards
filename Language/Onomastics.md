@@ -49,13 +49,13 @@ aliases:
 - 고유명사학
 has_id_wikidata: Q175156
 is_the_study_of:
-- '[[_Standards/WikiData/WD~name,82799]]'
-- '[[_Standards/WikiData/WD~naming,25488743]]'
-has_part_s_: '[[_Standards/WikiData/WD~toponymy,485762]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Personal_names,11131773]]'
-practiced_by: '[[_Standards/WikiData/WD~onomastician,15976327]]'
-subclass_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
+- '[[_Standards/WikiData/WD~name,82799|WD~name,82799]]'
+- '[[_Standards/WikiData/WD~naming,25488743|WD~naming,25488743]]'
+has_part_s_: '[[_Standards/WikiData/WD~toponymy,485762|WD~toponymy,485762]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Personal_names,11131773|WD~Template_Personal_names,11131773]]'
+practiced_by: '[[_Standards/WikiData/WD~onomastician,15976327|WD~onomastician,15976327]]'
+subclass_of: '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Onoma.jpg
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/ONOMASTIKA.html
 Commons_category: Onomastics
@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Onomastics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~onomastics,175156]] 
+#is_/same_as :: [[_Standards/WikiData/WD~onomastics,175156|WD~onomastics,175156]] 
 
 ## #has_/text_of_/abstract 
 

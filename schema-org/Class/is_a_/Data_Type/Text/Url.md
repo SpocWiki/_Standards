@@ -182,7 +182,7 @@ dv_has_:
     zh_hans: 统一资源定位符
     zh_hant: 網址
   parent_class:
-  - '[[../Text]]'
+  - '[[../Text|Text]]'
 dv_is_:
   same_as:
   - '[[/_Standards/schema-org/Class/is_a_/Property/has_url_for/has_url|has_url]]'
@@ -193,7 +193,7 @@ dv_is_:
   - '[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Url.personal|Url.personal]]'
   - '[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Url.secret|Url.secret]]'
 dv_has_parent_class:
-- '[[../Text]]'
+- '[[../Text|Text]]'
 dv_is_same_as:
 - '[[/_Standards/schema-org/Class/is_a_/Property/has_url_for/has_url|has_url]]'
 - '[[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]]'

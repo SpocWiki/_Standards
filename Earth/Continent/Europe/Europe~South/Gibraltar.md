@@ -50,7 +50,7 @@ dv_has_name_cn: 直布罗陀
 dv_has_name_ar: جبل طارق
 dv_has_name_ru: Гибралтар
 dv_CLDR_display_name: Gibraltar
-dv_Region_Name: "[[../../Europe]]"
+dv_Region_Name: "[[../../Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[Gibraltar]]"
 dv_Sub-region_Name: "[[Southern Europe]]"
 dv_Region: 150
@@ -79,11 +79,11 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 36.1
   - 36.143
-dv_has_place_country: "[[../Europe~North/UK]]"
+dv_has_place_country: "[[../Europe~North/UK|UK]]"
 dv_has_name_de: Gibraltar
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: "[[../../Europe|Europe]]"
 dv_VehicleCode: GBZ
 dv_is_:
   same_as:

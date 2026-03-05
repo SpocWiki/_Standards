@@ -26,19 +26,19 @@ aliases:
 - 土侖階
 - 투랜절
 has_id_wikidata: Q691429
-named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
+named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Pueblo,675576]]'
-different_from: '[[_Standards/WikiData/WD~Túrony,686116]]'
-described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Turonian,21771248]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Turonian,133929232]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Pueblo,675576|WD~Pueblo,675576]]'
+different_from: '[[_Standards/WikiData/WD~Túrony,686116|WD~Túrony,686116]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Turonian,21771248|WD~Category_Turonian,21771248]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Turonian,133929232|WD~GSSP_for_the_base_of_the_Turonian,133929232]]'
 coordinate_location: Point(-104.7275 38.2822)
 start_time: -93900000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Tours,288]]'
+named_after: '[[_Standards/WikiData/WD~Tours,288|WD~Tours,288]]'
 Commons_category: Turonian
 end_time: -89800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: C3DF79

@@ -192,31 +192,31 @@ Classification_of_Instructional_Programs_code:
 Colon_Classification: T
 Commons_category: Education
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 370
-different_from: '[[_Standards/WikiData/WD~Education,5340858]]'
-facet_of: '[[_Standards/WikiData/WD~paedology,2120372]]'
+different_from: '[[_Standards/WikiData/WD~Education,5340858|WD~Education,5340858]]'
+facet_of: '[[_Standards/WikiData/WD~paedology,2120372|WD~paedology,2120372]]'
 GitHub_topic: education
 Gujarati_Vishwakosh_entry: શિક્ષણ
-has_characteristic: '[[_Standards/WikiData/WD~educational_stage,18189]]'
+has_characteristic: '[[_Standards/WikiData/WD~educational_stage,18189|WD~educational_stage,18189]]'
 has_effect:
-- '[[_Standards/WikiData/WD~upbringing,2353731]]'
-- '[[_Standards/WikiData/WD~education,11499482]]'
+- '[[_Standards/WikiData/WD~upbringing,2353731|WD~upbringing,2353731]]'
+- '[[_Standards/WikiData/WD~education,11499482|WD~education,11499482]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~learning,133500]]'
-- '[[_Standards/WikiData/WD~teaching,352842]]'
-- '[[_Standards/WikiData/WD~self-education,11613008]]'
-- '[[_Standards/WikiData/WD~educational_activity,61788126]]'
+- '[[_Standards/WikiData/WD~learning,133500|WD~learning,133500]]'
+- '[[_Standards/WikiData/WD~teaching,352842|WD~teaching,352842]]'
+- '[[_Standards/WikiData/WD~self-education,11613008|WD~self-education,11613008]]'
+- '[[_Standards/WikiData/WD~educational_activity,61788126|WD~educational_activity,61788126]]'
 IAB_code:
 - 92
 - 132
@@ -225,49 +225,49 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q8434%20noun%20225573%2
 Iconclass_notation: 49A
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1887%20Bettannier%20Der%20Schwarze%20Fleck%20anagoria.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~topic,26256810]]'
-- '[[_Standards/WikiData/WD~service_type,130303173]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~topic,26256810|WD~topic,26256810]]'
+- '[[_Standards/WikiData/WD~service_type,130303173|WD~service_type,130303173]]'
 IPTC_NewsCode: mediatopic/05000000
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/LSF%20Vocab%20education.ogv
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Education,8486648]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Education,8486648|WD~WikiProject_Education,8486648]]'
 Mastodon_instance_URL: https://mastodon.education
 MeSH_tree_code: I02
 OmegaWiki_Defined_Meaning: 1087
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata__WikiProject_Systemic_Racism_Knowledge_Graph,120754096]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata__WikiProject_Systemic_Racism_Knowledge_Graph,120754096|WD~Wikidata__WikiProject_Systemic_Racism_Knowledge_Graph,120754096]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~teaching,352842]]'
-- '[[_Standards/WikiData/WD~education,11499482]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828648,22828648]]'
+- '[[_Standards/WikiData/WD~teaching,352842|WD~teaching,352842]]'
+- '[[_Standards/WikiData/WD~education,11499482|WD~education,11499482]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828648,22828648|WD~Q22828648,22828648]]'
 PhilPapers_topic: education
 practiced_by:
-- '[[_Standards/WikiData/WD~educator,974144]]'
-- '[[_Standards/WikiData/WD~lecturer,1569495]]'
-- '[[_Standards/WikiData/WD~social_educator,5819949]]'
-- '[[_Standards/WikiData/WD~educational_personnel,93918935]]'
-- '[[_Standards/WikiData/WD~assistant_(teacher),106542609]]'
-- '[[_Standards/WikiData/WD~teacher,37226]]'
+- '[[_Standards/WikiData/WD~educator,974144|WD~educator,974144]]'
+- '[[_Standards/WikiData/WD~lecturer,1569495|WD~lecturer,1569495]]'
+- '[[_Standards/WikiData/WD~social_educator,5819949|WD~social_educator,5819949]]'
+- '[[_Standards/WikiData/WD~educational_personnel,93918935|WD~educational_personnel,93918935]]'
+- '[[_Standards/WikiData/WD~assistant_(teacher),106542609|WD~assistant_(teacher),106542609]]'
+- '[[_Standards/WikiData/WD~teacher,37226|WD~teacher,37226]]'
 Provenio_UUID: dfeed428-0c3a-4831-b8df-22ff6aef549f
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~human_resource_development,5366892]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~human_resource_development,5366892|WD~human_resource_development,5366892]]'
 social_media_followers: 21700
 studied_in:
-- '[[_Standards/WikiData/WD~sociology_of_education,829367]]'
-- '[[_Standards/WikiData/WD~educational_sciences,861641]]'
-- '[[_Standards/WikiData/WD~educommunication,8772471]]'
-- '[[_Standards/WikiData/WD~pedagogy,7922]]'
+- '[[_Standards/WikiData/WD~sociology_of_education,829367|WD~sociology_of_education,829367]]'
+- '[[_Standards/WikiData/WD~educational_sciences,861641|WD~educational_sciences,861641]]'
+- '[[_Standards/WikiData/WD~educommunication,8772471|WD~educommunication,8772471]]'
+- '[[_Standards/WikiData/WD~pedagogy,7922|WD~pedagogy,7922]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_process,2305441]]'
-- '[[_Standards/WikiData/WD~knowledge_sharing,6423395]]'
-- '[[_Standards/WikiData/WD~service,7406919]]'
+- '[[_Standards/WikiData/WD~social_process,2305441|WD~social_process,2305441]]'
+- '[[_Standards/WikiData/WD~knowledge_sharing,6423395|WD~knowledge_sharing,6423395]]'
+- '[[_Standards/WikiData/WD~service,7406919|WD~service,7406919]]'
 subreddit: education
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_education_in_country,11838819]]'
-- '[[_Standards/WikiData/WD~Template_Education,14400727]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Education,13359951]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_education_in_country,11838819|WD~Template_Infobox_education_in_country,11838819]]'
+- '[[_Standards/WikiData/WD~Template_Education,14400727|WD~Template_Education,14400727]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Education,13359951|WD~Portal_Education,13359951]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 Universal_Decimal_Classification: 37
 U_S_National_Archives_Identifier: 10640533
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_education,7112612]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_education,7112612|WD~outline_of_education,7112612]]'
 WordLift_URL: http://data.thenextweb.com/tnw/entity/education
 dv_has_:
   name_:

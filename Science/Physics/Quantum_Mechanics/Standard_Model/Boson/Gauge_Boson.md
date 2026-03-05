@@ -56,16 +56,16 @@ aliases:
 - 게이지 보손
 has_id_wikidata: Q105580
 interaction:
-- '[[_Standards/WikiData/WD~fundamental_interaction,104934]]'
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
-has_superpartner: '[[_Standards/WikiData/WD~gaugino,1060144]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+- '[[_Standards/WikiData/WD~fundamental_interaction,104934|WD~fundamental_interaction,104934]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919|WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415|WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418|WD~weak_interaction,11418]]'
+has_superpartner: '[[_Standards/WikiData/WD~gaugino,1060144|WD~gaugino,1060144]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015|WD~type_of_quantum_particle,22675015]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~elementary_boson,28920814]]'
-- '[[_Standards/WikiData/WD~force_carrier,24364]]'
+- '[[_Standards/WikiData/WD~elementary_boson,28920814|WD~elementary_boson,28920814]]'
+- '[[_Standards/WikiData/WD~force_carrier,24364|WD~force_carrier,24364]]'
 spin_quantum_number: 1
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Eichboson.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles.svg

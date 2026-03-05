@@ -59,9 +59,9 @@ aliases:
 - 선형 계획법
 has_id_wikidata: Q202843
 subclass_of:
-- '[[_Standards/WikiData/WD~quadratic_programming,290117]]'
-- '[[_Standards/WikiData/WD~management_technique,118298890]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~quadratic_programming,290117|WD~quadratic_programming,290117]]'
+- '[[_Standards/WikiData/WD~management_technique,118298890|WD~management_technique,118298890]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 Stack_Exchange_tag:
 - https://cs.stackexchange.com/tags/linear-programming
 - https://cstheory.stackexchange.com/tags/linear-programming

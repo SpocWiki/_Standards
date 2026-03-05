@@ -77,29 +77,29 @@ aliases:
 - 불가지론
 has_id_wikidata: Q288928
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082|WD~Orthodox_Theological_Encyclopedia,19211082]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from:
-- '[[_Standards/WikiData/WD~apatheism,620834]]'
-- '[[_Standards/WikiData/WD~ignosticism,637230]]'
-- '[[_Standards/WikiData/WD~atheism,7066]]'
-- '[[_Standards/WikiData/WD~gnosticism,48420]]'
+- '[[_Standards/WikiData/WD~apatheism,620834|WD~apatheism,620834]]'
+- '[[_Standards/WikiData/WD~ignosticism,637230|WD~ignosticism,637230]]'
+- '[[_Standards/WikiData/WD~atheism,7066|WD~atheism,7066]]'
+- '[[_Standards/WikiData/WD~gnosticism,48420|WD~gnosticism,48420]]'
 instance_of:
-- '[[_Standards/WikiData/WD~religious_identity,4392985]]'
-- '[[_Standards/WikiData/WD~doxastic_attitude,5303685]]'
-- '[[_Standards/WikiData/WD~point_of_view,12558574]]'
-- '[[_Standards/WikiData/WD~uncertainty,13649246]]'
-practiced_by: '[[_Standards/WikiData/WD~agnostic,12358329]]'
-subclass_of: '[[_Standards/WikiData/WD~belief,34394]]'
-opposite_of: '[[_Standards/WikiData/WD~metaphysics,35277]]'
+- '[[_Standards/WikiData/WD~religious_identity,4392985|WD~religious_identity,4392985]]'
+- '[[_Standards/WikiData/WD~doxastic_attitude,5303685|WD~doxastic_attitude,5303685]]'
+- '[[_Standards/WikiData/WD~point_of_view,12558574|WD~point_of_view,12558574]]'
+- '[[_Standards/WikiData/WD~uncertainty,13649246|WD~uncertainty,13649246]]'
+practiced_by: '[[_Standards/WikiData/WD~agnostic,12358329|WD~agnostic,12358329]]'
+subclass_of: '[[_Standards/WikiData/WD~belief,34394|WD~belief,34394]]'
+opposite_of: '[[_Standards/WikiData/WD~metaphysics,35277|WD~metaphysics,35277]]'
 IAB_code: 454
 OmegaWiki_Defined_Meaning: 356435
 Dewey_Decimal_Classification: 211.7
@@ -241,7 +241,7 @@ dv_has_:
 
 # [[Agnosticism]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Agnosticism,288928]] 
+#is_/same_as :: [[../../../../WikiData/WD~Agnosticism,288928|WD~Agnosticism,288928]] 
 
 ## #has_/text_of_/abstract 
 

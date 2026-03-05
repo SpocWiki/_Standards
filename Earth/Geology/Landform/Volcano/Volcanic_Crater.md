@@ -60,13 +60,13 @@ aliases:
 - 화구
 has_id_wikidata: Q109391
 different_from:
-- '[[_Standards/WikiData/WD~explosion_crater,1384605]]'
-- '[[_Standards/WikiData/WD~impact_crater,55818]]'
+- '[[_Standards/WikiData/WD~explosion_crater,1384605|WD~explosion_crater,1384605]]'
+- '[[_Standards/WikiData/WD~impact_crater,55818|WD~impact_crater,55818]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~crater,3240715]]'
-- '[[_Standards/WikiData/WD~volcanic_landform,29025902]]'
-described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-part_of: '[[_Standards/WikiData/WD~volcano,8072]]'
+- '[[_Standards/WikiData/WD~crater,3240715|WD~crater,3240715]]'
+- '[[_Standards/WikiData/WD~volcanic_landform,29025902|WD~volcanic_landform,29025902]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+part_of: '[[_Standards/WikiData/WD~volcano,8072|WD~volcano,8072]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Cameroon%20craters.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000246
 Commons_category: Volcanic craters

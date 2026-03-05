@@ -1,7 +1,7 @@
 
-## [[Algebraic_Data-Types/Product-Type]] 
+## [[Algebraic_Data-Types/Product-Type|Product-Type]] 
 
-## [[Algebraic_Data-Types/Sum-Type]] 
+## [[Algebraic_Data-Types/Sum-Type|Sum-Type]] 
 
 
 ## Confidential Links & Embeds: 

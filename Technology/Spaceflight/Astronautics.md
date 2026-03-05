@@ -52,15 +52,15 @@ aliases:
 - 우주항행학
 has_id_wikidata: Q22719
 subclass_of:
-- '[[_Standards/WikiData/WD~space_sciences,1195766]]'
-- '[[_Standards/WikiData/WD~aerospace,2876213]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Spaceflight,8502972]]'
-described_by_source: '[[_Standards/WikiData/WD~Astronautyka,15511781]]'
+- '[[_Standards/WikiData/WD~space_sciences,1195766|WD~space_sciences,1195766]]'
+- '[[_Standards/WikiData/WD~aerospace,2876213|WD~aerospace,2876213]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Spaceflight,8502972|WD~WikiProject_Spaceflight,8502972]]'
+described_by_source: '[[_Standards/WikiData/WD~Astronautyka,15511781|WD~Astronautyka,15511781]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~astronautical_engineering,17386174]]'
-- '[[_Standards/WikiData/WD~spaceflight,5916]]'
-practiced_by: '[[_Standards/WikiData/WD~astronaut,11631]]'
+- '[[_Standards/WikiData/WD~astronautical_engineering,17386174|WD~astronautical_engineering,17386174]]'
+- '[[_Standards/WikiData/WD~spaceflight,5916|WD~spaceflight,5916]]'
+practiced_by: '[[_Standards/WikiData/WD~astronaut,11631|WD~astronaut,11631]]'
 OmegaWiki_Defined_Meaning: 268
 Iconclass_notation: 46C4
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hubble%20Space%20Telescope%20over%20Earth%20%28during%20the%20STS-109%20mission%29.jpg

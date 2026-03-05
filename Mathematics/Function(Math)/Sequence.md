@@ -95,24 +95,24 @@ aliases:
 - 수열
 has_id_wikidata: Q133250
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~arithmetic_function,140744]]'
-- '[[_Standards/WikiData/WD~function_of_an_integer_variable,105569679]]'
+- '[[_Standards/WikiData/WD~arithmetic_function,140744|WD~arithmetic_function,140744]]'
+- '[[_Standards/WikiData/WD~function_of_an_integer_variable,105569679|WD~function_of_an_integer_variable,105569679]]'
 different_from:
-- '[[_Standards/WikiData/WD~series,170198]]'
-- "[[_Standards/WikiData/WD~\U0001D45B_tuple,600590]]"
-- '[[_Standards/WikiData/WD~number_sequence,4516355]]'
-- '[[_Standards/WikiData/WD~infinite_sequence,11085785]]'
-- '[[_Standards/WikiData/WD~group,16887380]]'
-- '[[_Standards/WikiData/WD~succession,99632598]]'
+- '[[_Standards/WikiData/WD~series,170198|WD~series,170198]]'
+- "[[_Standards/WikiData/WD~\U0001D45B_tuple,600590|WD~\U0001D45B_tuple,600590]]"
+- '[[_Standards/WikiData/WD~number_sequence,4516355|WD~number_sequence,4516355]]'
+- '[[_Standards/WikiData/WD~infinite_sequence,11085785|WD~infinite_sequence,11085785]]'
+- '[[_Standards/WikiData/WD~group,16887380|WD~group,16887380]]'
+- '[[_Standards/WikiData/WD~succession,99632598|WD~succession,99632598]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~cardinality,4049983]]'
-- '[[_Standards/WikiData/WD~sequentiality,56857694]]'
-- '[[_Standards/WikiData/WD~index,136724397]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~cardinality,4049983|WD~cardinality,4049983]]'
+- '[[_Standards/WikiData/WD~sequentiality,56857694|WD~sequentiality,56857694]]'
+- '[[_Standards/WikiData/WD~index,136724397|WD~index,136724397]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~class,16889133]]'
-- '[[_Standards/WikiData/WD~function,11348]]'
-definition_domain: '[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634]]'
+- '[[_Standards/WikiData/WD~class,16889133|WD~class,16889133]]'
+- '[[_Standards/WikiData/WD~function,11348|WD~function,11348]]'
+definition_domain: '[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634|WD~set_of_non_negative_integers,28777634]]'
 Wikidata_property: part of the series
 OmegaWiki_Defined_Meaning: 475754
 Commons_gallery: Sequence

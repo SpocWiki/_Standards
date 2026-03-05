@@ -84,12 +84,12 @@ aliases:
 - 식용기름
 - 식용유
 has_id_wikidata: Q427457
-opposite_of: '[[_Standards/WikiData/WD~mineral_oil,583582]]'
-different_from: '[[_Standards/WikiData/WD~edible_fats_and_oils,912613]]'
+opposite_of: '[[_Standards/WikiData/WD~mineral_oil,583582|WD~mineral_oil,583582]]'
+different_from: '[[_Standards/WikiData/WD~edible_fats_and_oils,912613|WD~edible_fats_and_oils,912613]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~edible_fats_and_oils,912613]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-- '[[_Standards/WikiData/WD~oil,42962]]'
+- '[[_Standards/WikiData/WD~edible_fats_and_oils,912613|WD~edible_fats_and_oils,912613]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~oil,42962|WD~oil,42962]]'
 OmegaWiki_Defined_Meaning: 1300436
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Olive%20oil%20from%20Oneglia.jpg

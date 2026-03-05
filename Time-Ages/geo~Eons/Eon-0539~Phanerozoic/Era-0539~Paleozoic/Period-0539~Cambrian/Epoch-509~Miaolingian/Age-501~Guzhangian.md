@@ -25,12 +25,12 @@ aliases:
 - 古丈期
 has_id_wikidata: Q43667
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Guzhang_County,1199697]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Guzhangian,30869622]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Guzhangian,134959292]]'
+- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Guzhang_County,1199697|WD~Guzhang_County,1199697]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Guzhangian,30869622|WD~Category_Guzhangian,30869622]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Guzhangian,134959292|WD~GSSP_for_the_base_of_Guzhangian,134959292]]'
 coordinate_location: Point(109.9647 28.72)
 start_time: -500500000-01-01T00:00:00Z
 end_time: -497000000-01-01T00:00:00Z
@@ -140,7 +140,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 500.5 to 497 million years ago. 
 
-![[../../../../../../../xLarge/Earth/Geology/Earth-505_Ma_(Wuliuan_Stage).png]] 
+![[../../../../../../../xLarge/Earth/Geology/Earth-505_Ma_(Wuliuan_Stage).png|Earth-505_Ma_(Wuliuan_Stage).png]] 
 
 ## #has_/text_of_/abstract 
 

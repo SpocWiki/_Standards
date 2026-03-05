@@ -61,26 +61,26 @@ aliases:
 - 이슬람의 페르시아 정복
 has_id_wikidata: Q887684
 participant:
-- '[[_Standards/WikiData/WD~Sasanian_Empire,83891]]'
-- '[[_Standards/WikiData/WD~Arab_Christians,431164]]'
-- '[[_Standards/WikiData/WD~House_of_Karen,769552]]'
-- '[[_Standards/WikiData/WD~Dabuyid_dynasty,2816439]]'
-- '[[_Standards/WikiData/WD~House_of_Mihrān,3313087]]'
-- '[[_Standards/WikiData/WD~Rashidun_Caliphate,12490507]]'
-- '[[_Standards/WikiData/WD~House_of_Ispahbudhan,17004913]]'
-- '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
-- '[[_Standards/WikiData/WD~Hephthalites,26576]]'
+- '[[_Standards/WikiData/WD~Sasanian_Empire,83891|WD~Sasanian_Empire,83891]]'
+- '[[_Standards/WikiData/WD~Arab_Christians,431164|WD~Arab_Christians,431164]]'
+- '[[_Standards/WikiData/WD~House_of_Karen,769552|WD~House_of_Karen,769552]]'
+- '[[_Standards/WikiData/WD~Dabuyid_dynasty,2816439|WD~Dabuyid_dynasty,2816439]]'
+- '[[_Standards/WikiData/WD~House_of_Mihrān,3313087|WD~House_of_Mihrān,3313087]]'
+- '[[_Standards/WikiData/WD~Rashidun_Caliphate,12490507|WD~Rashidun_Caliphate,12490507]]'
+- '[[_Standards/WikiData/WD~House_of_Ispahbudhan,17004913|WD~House_of_Ispahbudhan,17004913]]'
+- '[[_Standards/WikiData/WD~Byzantine_Empire,12544|WD~Byzantine_Empire,12544]]'
+- '[[_Standards/WikiData/WD~Hephthalites,26576|WD~Hephthalites,26576]]'
 location:
-- '[[_Standards/WikiData/WD~Sasanian_Empire,83891]]'
-- '[[_Standards/WikiData/WD~Azerbaijan,274536]]'
-- '[[_Standards/WikiData/WD~Makran,695111]]'
-- '[[_Standards/WikiData/WD~Khorasan,2352322]]'
-- '[[_Standards/WikiData/WD~Fars_(land),4121865]]'
-- '[[_Standards/WikiData/WD~Arab_Iraq,6000379]]'
-- '[[_Standards/WikiData/WD~Persian_Iraq,17043605]]'
+- '[[_Standards/WikiData/WD~Sasanian_Empire,83891|WD~Sasanian_Empire,83891]]'
+- '[[_Standards/WikiData/WD~Azerbaijan,274536|WD~Azerbaijan,274536]]'
+- '[[_Standards/WikiData/WD~Makran,695111|WD~Makran,695111]]'
+- '[[_Standards/WikiData/WD~Khorasan,2352322|WD~Khorasan,2352322]]'
+- '[[_Standards/WikiData/WD~Fars_(land),4121865|WD~Fars_(land),4121865]]'
+- '[[_Standards/WikiData/WD~Arab_Iraq,6000379|WD~Arab_Iraq,6000379]]'
+- '[[_Standards/WikiData/WD~Persian_Iraq,17043605|WD~Persian_Iraq,17043605]]'
 instance_of:
-- '[[_Standards/WikiData/WD~conquest,1361229]]'
-- '[[_Standards/WikiData/WD~war,198]]'
+- '[[_Standards/WikiData/WD~conquest,1361229|WD~conquest,1361229]]'
+- '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 end_time: 0654-01-01T00:00:00Z
 start_time: 0633-01-01T00:00:00Z
 Commons_category: Muslim conquest of Persia
@@ -88,7 +88,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D9%81%D8%
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Islamic%20Conquest%20of%20Persia-ar.wav
 dv_is_:
   same_as:
-  - '[[../../../../../../../../../WikiData/WD~Muslim_conquest_of_Persia,887684]]'
+  - '[[../../../../../../../../../WikiData/WD~Muslim_conquest_of_Persia,887684|WD~Muslim_conquest_of_Persia,887684]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654|0632-Muslim_conquest_of_Persia-0654]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.public|0632-Muslim_conquest_of_Persia-0654.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.internal|0632-Muslim_conquest_of_Persia-0654.internal]]'
@@ -97,7 +97,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.personal|0632-Muslim_conquest_of_Persia-0654.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.secret|0632-Muslim_conquest_of_Persia-0654.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../../WikiData/WD~Muslim_conquest_of_Persia,887684]]'
+- '[[../../../../../../../../../WikiData/WD~Muslim_conquest_of_Persia,887684|WD~Muslim_conquest_of_Persia,887684]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654|0632-Muslim_conquest_of_Persia-0654]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.public|0632-Muslim_conquest_of_Persia-0654.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.internal|0632-Muslim_conquest_of_Persia-0654.internal]]'

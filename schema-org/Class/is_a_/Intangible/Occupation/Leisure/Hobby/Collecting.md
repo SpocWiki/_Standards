@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~collecting_hobby,12051052]]'
+  - '[[_Standards/WikiData/WD~collecting_hobby,12051052|WD~collecting_hobby,12051052]]'
   - '[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting|Collecting]]'
   - '[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.public|Collecting.public]]'
   - '[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.internal|Collecting.internal]]'
@@ -11,7 +11,7 @@ dv_is_:
   - '[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.secret|Collecting.secret]]'
   - '[[Collecting]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~collecting_hobby,12051052]]'
+- '[[_Standards/WikiData/WD~collecting_hobby,12051052|WD~collecting_hobby,12051052]]'
 - '[[Collecting]]'
 - '[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.public|Collecting.public]]'
 - '[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.internal|Collecting.internal]]'
@@ -145,7 +145,7 @@ aliases:
 
 # [[Collecting]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~collecting_hobby,12051052]] 
+#is_/same_as :: [[_Standards/WikiData/WD~collecting_hobby,12051052|WD~collecting_hobby,12051052]] 
 
 ## #has_/text_of_/abstract 
 

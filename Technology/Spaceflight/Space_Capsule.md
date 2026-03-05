@@ -35,11 +35,11 @@ aliases:
 - 우주 캡슐
 has_id_wikidata: Q957055
 has_part_s_:
-- '[[_Standards/WikiData/WD~reentry_capsule,798779]]'
-- '[[_Standards/WikiData/WD~orbital_module,1407434]]'
-- '[[_Standards/WikiData/WD~service_module,15607934]]'
-described_by_source: '[[_Standards/WikiData/WD~Historical_Dictionary_of_Science_Fiction,105085344]]'
-subclass_of: '[[_Standards/WikiData/WD~spacecraft,40218]]'
+- '[[_Standards/WikiData/WD~reentry_capsule,798779|WD~reentry_capsule,798779]]'
+- '[[_Standards/WikiData/WD~orbital_module,1407434|WD~orbital_module,1407434]]'
+- '[[_Standards/WikiData/WD~service_module,15607934|WD~service_module,15607934]]'
+described_by_source: '[[_Standards/WikiData/WD~Historical_Dictionary_of_Science_Fiction,105085344|WD~Historical_Dictionary_of_Science_Fiction,105085344]]'
+subclass_of: '[[_Standards/WikiData/WD~spacecraft,40218|WD~spacecraft,40218]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Soyuz%20TMA-7%20spacecraft2edit1%20%28cropped%29.jpg
 Commons_category: Space capsules
 dv_has_:

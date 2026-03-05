@@ -37,7 +37,7 @@ dv_is_:
     - "[[Medical_Code]]"
 dv_has_:
   parent_class:
-    - "[[../CategoryCode, MedicalIntangible]]"
+    - "[[../CategoryCode, MedicalIntangible|CategoryCode, MedicalIntangible]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -65,7 +65,7 @@ dv_has_:
     - "[[term_code|term_code]]"
     - "[[../../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
-  - "[[../category_code, medical_intangible|../category_code, medical_intangible]]"
+  - "[[../category_code, medical_intangible|../category_code, medical_intangible|category_code, medical_intangible]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"

@@ -93,7 +93,7 @@ aliases:
 
 # [[Police(Band)]]  
 
-- Member:: [[Police(Band)/Sting(musician)]], [[Copeland,Stuart]], [[Summers,Andy]] 
+- Member:: [[Police(Band)/Sting(musician)|Sting(musician)]], [[Copeland,Stuart]], [[Summers,Andy]] 
 
 #is_/instance_of :: [[../../../../../Agent/Community/Organization/Performing_Group/Music_Group|MusicGroup]] 
 

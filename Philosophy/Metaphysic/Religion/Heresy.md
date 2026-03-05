@@ -75,30 +75,30 @@ aliases:
 - "\U00010337\U00010330\U00010339\U00010342\U00010330\U00010339\U00010343\U00010334\U00010339\U00010343"
 has_id_wikidata: Q160598
 subclass_of:
-- '[[_Standards/WikiData/WD~doctrine,117850]]'
-- '[[_Standards/WikiData/WD~religious_controversy,7311342]]'
-- '[[_Standards/WikiData/WD~religious_crime,124457721]]'
+- '[[_Standards/WikiData/WD~doctrine,117850|WD~doctrine,117850]]'
+- '[[_Standards/WikiData/WD~religious_controversy,7311342|WD~religious_controversy,7311342]]'
+- '[[_Standards/WikiData/WD~religious_crime,124457721|WD~religious_crime,124457721]]'
 different_from:
-- '[[_Standards/WikiData/WD~blasphemy,200481]]'
-- '[[_Standards/WikiData/WD~apostasy,223681]]'
-- '[[_Standards/WikiData/WD~hearsay,1211464]]'
+- '[[_Standards/WikiData/WD~blasphemy,200481|WD~blasphemy,200481]]'
+- '[[_Standards/WikiData/WD~apostasy,223681|WD~apostasy,223681]]'
+- '[[_Standards/WikiData/WD~hearsay,1211464|WD~hearsay,1211464]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-practiced_by: '[[_Standards/WikiData/WD~heretic,350347]]'
-opposite_of: '[[_Standards/WikiData/WD~orthodoxy,383258]]'
-studied_by: '[[_Standards/WikiData/WD~heresiology,1365310]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+practiced_by: '[[_Standards/WikiData/WD~heretic,350347|WD~heretic,350347]]'
+opposite_of: '[[_Standards/WikiData/WD~orthodoxy,383258|WD~orthodoxy,383258]]'
+studied_by: '[[_Standards/WikiData/WD~heresiology,1365310|WD~heresiology,1365310]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~dhalal,12220599]]'
-- '[[_Standards/WikiData/WD~ilhad,131917674]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_world_view,110401282]]'
+- '[[_Standards/WikiData/WD~dhalal,12220599|WD~dhalal,12220599]]'
+- '[[_Standards/WikiData/WD~ilhad,131917674|WD~ilhad,131917674]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_world_view,110401282|WD~type_of_world_view,110401282]]'
 OmegaWiki_Defined_Meaning: 1410346
 Commons_category: Heresy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GustafVasakyrkan%20RightAltargroup1.jpg

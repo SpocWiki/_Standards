@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A legal document such as an act, decree, bill, etc. (enforceable or not) or a component of a legal act (like an article).
 
-#has_/parent_class :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork|CreativeWork]]  
 
 #has_/child_/class :: [ LegislationObject ]  
 

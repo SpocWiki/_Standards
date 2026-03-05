@@ -66,24 +66,24 @@ aliases:
 - 教派
 - 교파
 has_id_wikidata: Q13414953
-studied_by: '[[_Standards/WikiData/WD~sociology_of_religion,461659]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_religion,461659|WD~sociology_of_religion,461659]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~Christian_denomination,879146]]'
-- '[[_Standards/WikiData/WD~religious_organization,1530022]]'
-- '[[_Standards/WikiData/WD~association_of_churches,4809719]]'
-- '[[_Standards/WikiData/WD~de_nominalist_church,107434367]]'
-- '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
-- '[[_Standards/WikiData/WD~religion,9174]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Christian_denomination,879146]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_religious_group,6583952]]'
-subclass_of: '[[_Standards/WikiData/WD~religion_or_world_view,71966963]]'
-part_of: '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~Christian_denomination,879146|WD~Christian_denomination,879146]]'
+- '[[_Standards/WikiData/WD~religious_organization,1530022|WD~religious_organization,1530022]]'
+- '[[_Standards/WikiData/WD~association_of_churches,4809719|WD~association_of_churches,4809719]]'
+- '[[_Standards/WikiData/WD~de_nominalist_church,107434367|WD~de_nominalist_church,107434367]]'
+- '[[_Standards/WikiData/WD~Christian_denominational_family,123129246|WD~Christian_denominational_family,123129246]]'
+- '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Christian_denomination,879146|WD~Christian_denomination,879146]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_religious_group,6583952|WD~Template_Infobox_religious_group,6583952]]'
+subclass_of: '[[_Standards/WikiData/WD~religion_or_world_view,71966963|WD~religion_or_world_view,71966963]]'
+part_of: '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
 OpenStreetMap_key: denomination
 Commons_category: Religious denominations
 dv_has_:

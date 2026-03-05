@@ -95,20 +95,20 @@ aliases:
 - 조약
 has_id_wikidata: Q131569
 subclass_of:
-- '[[_Standards/WikiData/WD~agreement,321839]]'
-- '[[_Standards/WikiData/WD~statute,820655]]'
-- '[[_Standards/WikiData/WD~rule,1151067]]'
-- '[[_Standards/WikiData/WD~sources_of_international_law,2635077]]'
-- '[[_Standards/WikiData/WD~written_contract,68619446]]'
-- '[[_Standards/WikiData/WD~document,49848]]'
+- '[[_Standards/WikiData/WD~agreement,321839|WD~agreement,321839]]'
+- '[[_Standards/WikiData/WD~statute,820655|WD~statute,820655]]'
+- '[[_Standards/WikiData/WD~rule,1151067|WD~rule,1151067]]'
+- '[[_Standards/WikiData/WD~sources_of_international_law,2635077|WD~sources_of_international_law,2635077]]'
+- '[[_Standards/WikiData/WD~written_contract,68619446|WD~written_contract,68619446]]'
+- '[[_Standards/WikiData/WD~document,49848|WD~document,49848]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~international_law,4394526]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_treaty,6204205]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~treaty,118932455]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~international_law,4394526|WD~international_law,4394526]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_treaty,6204205|WD~Template_Infobox_treaty,6204205]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~treaty,118932455|WD~treaty,118932455]]'
 properties_for_this_type:
 - language of work or name
 - point in time
@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Treaty]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~treaty,131569]] 
+#is_/same_as :: [[_Standards/WikiData/WD~treaty,131569|WD~treaty,131569]] 
 
 ## #has_/text_of_/abstract 
 

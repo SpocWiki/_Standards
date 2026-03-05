@@ -63,16 +63,16 @@ aliases:
 - 대피소
 has_id_wikidata: Q989946
 has_immediate_cause:
-- '[[_Standards/WikiData/WD~conflict,180684]]'
-- '[[_Standards/WikiData/WD~weather,11663]]'
+- '[[_Standards/WikiData/WD~conflict,180684|WD~conflict,180684]]'
+- '[[_Standards/WikiData/WD~weather,11663|WD~weather,11663]]'
 has_use:
-- '[[_Standards/WikiData/WD~comfort,1367353]]'
-- '[[_Standards/WikiData/WD~protection,2251595]]'
-- '[[_Standards/WikiData/WD~survival,104482419]]'
-made_from_material: '[[_Standards/WikiData/WD~reed,2734060]]'
-different_from: '[[_Standards/WikiData/WD~Q4470720,4470720]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9868857,9868857]]'
-subclass_of: '[[_Standards/WikiData/WD~refuge,108147624]]'
+- '[[_Standards/WikiData/WD~comfort,1367353|WD~comfort,1367353]]'
+- '[[_Standards/WikiData/WD~protection,2251595|WD~protection,2251595]]'
+- '[[_Standards/WikiData/WD~survival,104482419|WD~survival,104482419]]'
+made_from_material: '[[_Standards/WikiData/WD~reed,2734060|WD~reed,2734060]]'
+different_from: '[[_Standards/WikiData/WD~Q4470720,4470720|WD~Q4470720,4470720]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9868857,9868857|WD~Q9868857,9868857]]'
+subclass_of: '[[_Standards/WikiData/WD~refuge,108147624|WD~refuge,108147624]]'
 OmegaWiki_Defined_Meaning: 1116631
 earliest_date: -500000-01-01T00:00:00Z
 Commons_category: Shelters
@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Shelter]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~shelter,989946]] 
+#is_/same_as :: [[../../../../WikiData/WD~shelter,989946|WD~shelter,989946]] 
 
 ## #has_/text_of_/abstract 
 

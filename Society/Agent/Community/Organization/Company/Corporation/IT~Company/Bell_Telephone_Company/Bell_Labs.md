@@ -114,7 +114,7 @@ aliases:
 > and the programming languages B, C, C++, S, SNOBOL, AWK, AMPL, and others. 
 > Ten Nobel Prizes and five Turing Awards have been awarded for work completed at Bell Laboratories.
 >
-> Bell Labs had its origin in the complex corporate organization of the [[../Bell_Telephone_Company]] telephone conglomerate. 
+> Bell Labs had its origin in the complex corporate organization of the [[../Bell_Telephone_Company|Bell_Telephone_Company]] telephone conglomerate. 
 > The laboratory began in the late 19th century as the Western Electric Engineering Department, 
 > located at 463 West Street in New York City. 
 > 

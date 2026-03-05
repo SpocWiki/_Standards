@@ -68,26 +68,26 @@ aliases:
 - 자동화
 has_id_wikidata: Q184199
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~technology,11016]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~technology,11016|WD~technology,11016]]'
 different_from:
-- '[[_Standards/WikiData/WD~autonomic_computing,788172]]'
-- '[[_Standards/WikiData/WD~automated_machine,16039868]]'
-- '[[_Standards/WikiData/WD~automatization,24410992]]'
+- '[[_Standards/WikiData/WD~autonomic_computing,788172|WD~autonomic_computing,788172]]'
+- '[[_Standards/WikiData/WD~automated_machine,16039868|WD~automated_machine,16039868]]'
+- '[[_Standards/WikiData/WD~automatization,24410992|WD~automatization,24410992]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~activity,1914636]]'
-- '[[_Standards/WikiData/WD~information_and_communications_technology,5268834]]'
-- '[[_Standards/WikiData/WD~process,10843872]]'
-described_by_source: '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-studied_by: '[[_Standards/WikiData/WD~automation_engineering,3952330]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Automation,6705401]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_automation,7112562]]'
-has_effect: '[[_Standards/WikiData/WD~technological_unemployment,7692538]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9421745,9421745]]'
-is_the_study_of: '[[_Standards/WikiData/WD~process,10843872]]'
-opposite_of: '[[_Standards/WikiData/WD~manual_operation,11496925]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~automation,12526674]]'
+- '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~information_and_communications_technology,5268834|WD~information_and_communications_technology,5268834]]'
+- '[[_Standards/WikiData/WD~process,10843872|WD~process,10843872]]'
+described_by_source: '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+studied_by: '[[_Standards/WikiData/WD~automation_engineering,3952330|WD~automation_engineering,3952330]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Automation,6705401|WD~Template_Automation,6705401]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_automation,7112562|WD~outline_of_automation,7112562]]'
+has_effect: '[[_Standards/WikiData/WD~technological_unemployment,7692538|WD~technological_unemployment,7692538]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9421745,9421745|WD~Q9421745,9421745]]'
+is_the_study_of: '[[_Standards/WikiData/WD~process,10843872|WD~process,10843872]]'
+opposite_of: '[[_Standards/WikiData/WD~manual_operation,11496925|WD~manual_operation,11496925]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~automation,12526674|WD~automation,12526674]]'
 OmegaWiki_Defined_Meaning: 534595
 GitHub_topic: automation
 Commons_gallery: Automation

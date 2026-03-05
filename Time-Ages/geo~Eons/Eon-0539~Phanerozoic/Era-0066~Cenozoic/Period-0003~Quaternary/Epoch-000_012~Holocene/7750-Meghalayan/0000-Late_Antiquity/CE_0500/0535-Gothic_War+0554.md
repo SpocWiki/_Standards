@@ -54,24 +54,24 @@ aliases:
 - 고트 전쟁
 has_id_wikidata: Q477973
 participant:
-- '[[_Standards/WikiData/WD~Visigothic_Kingdom,126936]]'
-- '[[_Standards/WikiData/WD~Lombards,130900]]'
-- '[[_Standards/WikiData/WD~Alamanni,132990]]'
-- '[[_Standards/WikiData/WD~Francia,146246]]'
-- '[[_Standards/WikiData/WD~Burgundians,150412]]'
-- '[[_Standards/WikiData/WD~Heruli,220643]]'
-- '[[_Standards/WikiData/WD~Ostrogothic_Kingdom,583038]]'
-- '[[_Standards/WikiData/WD~Sclaveni,1257426]]'
-- '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
-- '[[_Standards/WikiData/WD~Huns,45813]]'
+- '[[_Standards/WikiData/WD~Visigothic_Kingdom,126936|WD~Visigothic_Kingdom,126936]]'
+- '[[_Standards/WikiData/WD~Lombards,130900|WD~Lombards,130900]]'
+- '[[_Standards/WikiData/WD~Alamanni,132990|WD~Alamanni,132990]]'
+- '[[_Standards/WikiData/WD~Francia,146246|WD~Francia,146246]]'
+- '[[_Standards/WikiData/WD~Burgundians,150412|WD~Burgundians,150412]]'
+- '[[_Standards/WikiData/WD~Heruli,220643|WD~Heruli,220643]]'
+- '[[_Standards/WikiData/WD~Ostrogothic_Kingdom,583038|WD~Ostrogothic_Kingdom,583038]]'
+- '[[_Standards/WikiData/WD~Sclaveni,1257426|WD~Sclaveni,1257426]]'
+- '[[_Standards/WikiData/WD~Byzantine_Empire,12544|WD~Byzantine_Empire,12544]]'
+- '[[_Standards/WikiData/WD~Huns,45813|WD~Huns,45813]]'
 location:
-- '[[_Standards/WikiData/WD~Italian_Peninsula,145694]]'
-- '[[_Standards/WikiData/WD~Dalmatia,528042]]'
-- '[[_Standards/WikiData/WD~Sicily,4951156]]'
-part_of: '[[_Standards/WikiData/WD~Restauratio_Imperii,351301]]'
-described_by_source: '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Italian_Peninsula,145694|WD~Italian_Peninsula,145694]]'
+- '[[_Standards/WikiData/WD~Dalmatia,528042|WD~Dalmatia,528042]]'
+- '[[_Standards/WikiData/WD~Sicily,4951156|WD~Sicily,4951156]]'
+part_of: '[[_Standards/WikiData/WD~Restauratio_Imperii,351301|WD~Restauratio_Imperii,351301]]'
+described_by_source: '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
 start_time: 0535-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gothic%20Battle%20of%20Mons%20Lactarius%20on%20Vesuvius.jpg
 Commons_category: Gothic War (535–553)
 end_time: 0554-01-01T00:00:00Z

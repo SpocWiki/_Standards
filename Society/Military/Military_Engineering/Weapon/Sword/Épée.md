@@ -43,19 +43,19 @@ aliases:
 - 에페
 has_id_wikidata: Q840419
 different_from:
-- '[[_Standards/WikiData/WD~rapier,816745]]'
-- '[[_Standards/WikiData/WD~épée_fencing,25521891]]'
+- '[[_Standards/WikiData/WD~rapier,816745|WD~rapier,816745]]'
+- '[[_Standards/WikiData/WD~épée_fencing,25521891|WD~épée_fencing,25521891]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sporting_weapon,9180320]]'
-- '[[_Standards/WikiData/WD~sword,12791]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_family,15142889]]'
-used_by: '[[_Standards/WikiData/WD~épée_fencing,25521891]]'
-sport: '[[_Standards/WikiData/WD~fencing,12100]]'
+- '[[_Standards/WikiData/WD~sporting_weapon,9180320|WD~sporting_weapon,9180320]]'
+- '[[_Standards/WikiData/WD~sword,12791|WD~sword,12791]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_family,15142889|WD~weapon_family,15142889]]'
+used_by: '[[_Standards/WikiData/WD~épée_fencing,25521891|WD~épée_fencing,25521891]]'
+sport: '[[_Standards/WikiData/WD~fencing,12100|WD~fencing,12100]]'
 Nomenclature_for_Museum_Cataloging: 14546
 OmegaWiki_Defined_Meaning: 996768
 Commons_category: Fencing (épée)

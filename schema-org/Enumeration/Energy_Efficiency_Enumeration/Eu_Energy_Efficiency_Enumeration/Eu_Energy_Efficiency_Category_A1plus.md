@@ -28,8 +28,8 @@ title: is_an_eu_energy_efficiency_category_a1plus Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../EUEnergyEfficiencyEnumeration]]"
-  enum_of: "[[../EUEnergyEfficiencyEnumeration]]"
+  parent_class: "[[../EUEnergyEfficiencyEnumeration|EUEnergyEfficiencyEnumeration]]"
+  enum_of: "[[../EUEnergyEfficiencyEnumeration|EUEnergyEfficiencyEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus|Eu_Energy_Efficiency_Category_A1plus]]"
     - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.public|Eu_Energy_Efficiency_Category_A1plus.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.secret|Eu_Energy_Efficiency_Category_A1plus.secret]]"
     - "[[Eu_Energy_Efficiency_Category_A1plus]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../EUEnergyEfficiencyEnumeration]]"
-dv_is_enum_of: "[[../EUEnergyEfficiencyEnumeration]]"
+dv_has_parent_class: "[[../EUEnergyEfficiencyEnumeration|EUEnergyEfficiencyEnumeration]]"
+dv_is_enum_of: "[[../EUEnergyEfficiencyEnumeration|EUEnergyEfficiencyEnumeration]]"
 dv_is_same_as:
   - "[[Eu_Energy_Efficiency_Category_A1plus]]"
   - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.public|Eu_Energy_Efficiency_Category_A1plus.public]]"

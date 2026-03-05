@@ -35,16 +35,16 @@ aliases:
 - 전기레인지
 has_id_wikidata: Q1211746
 subclass_of:
-- '[[_Standards/WikiData/WD~kitchen_stove,182995]]'
-- '[[_Standards/WikiData/WD~electrical_appliance,2425052]]'
-- '[[_Standards/WikiData/WD~electric_cooker,5357575]]'
+- '[[_Standards/WikiData/WD~kitchen_stove,182995|WD~kitchen_stove,182995]]'
+- '[[_Standards/WikiData/WD~electrical_appliance,2425052|WD~electrical_appliance,2425052]]'
+- '[[_Standards/WikiData/WD~electric_cooker,5357575|WD~electric_cooker,5357575]]'
 uses:
-- "[[_Standards/WikiData/WD~Joule's_laws,210009]]"
-- '[[_Standards/WikiData/WD~electricity,12725]]'
+- "[[_Standards/WikiData/WD~Joule's_laws,210009|WD~Joule's_laws,210009]]"
+- '[[_Standards/WikiData/WD~electricity,12725|WD~electricity,12725]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~heating_element,610112]]'
-- '[[_Standards/WikiData/WD~heater,3588251]]'
-- '[[_Standards/WikiData/WD~electrical_switch,5320]]'
+- '[[_Standards/WikiData/WD~heating_element,610112|WD~heating_element,610112]]'
+- '[[_Standards/WikiData/WD~heater,3588251|WD~heater,3588251]]'
+- '[[_Standards/WikiData/WD~electrical_switch,5320|WD~electrical_switch,5320]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Electric%20stove.jpg
 Commons_category: Electrical stoves
 dv_has_:

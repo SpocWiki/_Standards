@@ -77,16 +77,16 @@ tags:
 - schema-org/Class
 title: is_a_statistical_population Class
 type: Type
-subclass_of: '[[_Standards/WikiData/WD~data_set,1172284]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[_Standards/WikiData/WD~data_set,1172284|WD~data_set,1172284]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
-- '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
-- '[[_Standards/WikiData/WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213]]'
-- '[[_Standards/WikiData/WD~Repetitorium_Statistik,115452005]]'
+- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862|WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+- '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641|WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
+- '[[_Standards/WikiData/WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213|WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213]]'
+- '[[_Standards/WikiData/WD~Repetitorium_Statistik,115452005|WD~Repetitorium_Statistik,115452005]]'
 equivalent_class: https://schema.org/StatisticalPopulation
 dv_is_:
-  parent_class: '[[../Intangible]]'
+  parent_class: '[[../Intangible|Intangible]]'
   part_of: https://pending.schema.org
   same_as:
   - '[[../../../../WikiData/WD~Statistical_population,49918|WD~Statistical_population,49918]]'
@@ -191,7 +191,7 @@ dv_is_same_as:
 - '[[/_secret/schema-org/Class/is_a_/Intangible/Statistical_Population.secret|Statistical_Population.secret]]'
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-- '[[../Intangible]]'
+- '[[../Intangible|Intangible]]'
 dv_has_properties:
 - '[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]'
 - '[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]'
@@ -221,7 +221,7 @@ Tag Instances like this:
 
 is_part_of = `=this.dv_is_part_of` 
 
-A StatisticalPopulation is a set of instances of a certain given type that satisfy some set of constraints. The property [[populationType]] is used to specify the type. Any property that can be used on instances of that type can appear on the statistical population. For example, a [[StatisticalPopulation]] representing all [[../../../../Society/Agent/Person]]s with a [[homeLocation]] of East Podunk California would be described by applying the appropriate [[homeLocation]] and [[populationType]] properties to a [[StatisticalPopulation]] item that stands for that set of people.
+A StatisticalPopulation is a set of instances of a certain given type that satisfy some set of constraints. The property [[populationType]] is used to specify the type. Any property that can be used on instances of that type can appear on the statistical population. For example, a [[StatisticalPopulation]] representing all [[../../../../Society/Agent/Person|Person]]s with a [[homeLocation]] of East Podunk California would be described by applying the appropriate [[homeLocation]] and [[populationType]] properties to a [[StatisticalPopulation]] item that stands for that set of people.
 The properties [[numConstraints]] and [[constrainingProperty]] are used to specify which of the populations properties are used to specify the population. Note that the sense of "population" used here is the general sense of a statistical
 population, and does not imply that the population consists of people. For example, a [[populationType]] of [[Event]] or [[NewsArticle]] could be used. See also [[Observation]], and the <a href="/docs/data-and-datasets.html">data and datasets</a> overview for more details.
 

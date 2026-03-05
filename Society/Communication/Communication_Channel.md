@@ -56,12 +56,12 @@ aliases:
 - 채널
 has_id_wikidata: Q733553
 has_characteristic:
-- '[[_Standards/WikiData/WD~signal_bandwidth,249998]]'
-- '[[_Standards/WikiData/WD~channel_capacity,870845]]'
-subclass_of: '[[_Standards/WikiData/WD~communications_media,340169]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~channel,23014216]]'
-instance_of: '[[_Standards/WikiData/WD~communication_science_term,76429716]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~signal_bandwidth,249998|WD~signal_bandwidth,249998]]'
+- '[[_Standards/WikiData/WD~channel_capacity,870845|WD~channel_capacity,870845]]'
+subclass_of: '[[_Standards/WikiData/WD~communications_media,340169|WD~communications_media,340169]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~channel,23014216|WD~channel,23014216]]'
+instance_of: '[[_Standards/WikiData/WD~communication_science_term,76429716|WD~communication_science_term,76429716]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 exact_match:
 - https://schema.org/BroadcastChannel
 - http://purl.org/ontology/po/Channel

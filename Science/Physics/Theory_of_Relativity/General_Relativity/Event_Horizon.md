@@ -66,9 +66,9 @@ aliases:
 - 事象の地平面
 - 사건 지평선
 has_id_wikidata: Q181741
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Schwarzschild_radius,72755]]'
-instance_of: '[[_Standards/WikiData/WD~hypersurface,973321]]'
-subclass_of: '[[_Standards/WikiData/WD~horizon,5903346]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Schwarzschild_radius,72755|WD~Schwarzschild_radius,72755]]'
+instance_of: '[[_Standards/WikiData/WD~hypersurface,973321|WD~hypersurface,973321]]'
+subclass_of: '[[_Standards/WikiData/WD~horizon,5903346|WD~horizon,5903346]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ergosphere%20of%20a%20rotating%20black%20hole.svg
 Stack_Exchange_tag:
 - https://physics.stackexchange.com/tags/event-horizon

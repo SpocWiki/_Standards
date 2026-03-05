@@ -59,7 +59,7 @@ tags:
 - ''
 title: Fillmore,Millard
 type: private_note
-dv_has_role: '[[../US_President]]'
+dv_has_role: '[[../US_President|US_President]]'
 dv_created: 1850-07-09
 dv_cancelled: 1853-03-04
 dv_has_:
@@ -249,7 +249,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 [is_member_of :: [[Know Nothings]] ] 
 [is_member_of :: [[Whig Party]] ] 
 
--   [has_role :: [[../US_President]] ] [created:: 1850-07-09]cancelled = `=this.dv_cancelled`
+-   [has_role :: [[../US_President|US_President]] ] [created:: 1850-07-09]cancelled = `=this.dv_cancelled`
 s
 
 

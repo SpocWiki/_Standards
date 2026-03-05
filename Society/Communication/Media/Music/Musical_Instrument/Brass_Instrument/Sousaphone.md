@@ -29,10 +29,10 @@ aliases:
 - 수자폰
 has_id_wikidata: Q499387
 subclass_of:
-- '[[_Standards/WikiData/WD~brass_instrument,180744]]'
-- '[[_Standards/WikiData/WD~valve_trumpets,55774273]]'
-named_after: '[[_Standards/WikiData/WD~John_Philip_Sousa,295935]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+- '[[_Standards/WikiData/WD~brass_instrument,180744|WD~brass_instrument,180744]]'
+- '[[_Standards/WikiData/WD~valve_trumpets,55774273|WD~valve_trumpets,55774273]]'
+named_after: '[[_Standards/WikiData/WD~John_Philip_Sousa,295935|WD~John_Philip_Sousa,295935]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396|WD~type_of_musical_instrument,110295396]]'
 Nomenclature_for_Museum_Cataloging: 10686
 Amazon_com_browse_node: 11971771
 Hornbostel_Sachs_classification: 423.232

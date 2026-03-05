@@ -86,18 +86,18 @@ aliases:
 - 電腦運算
 - 컴퓨팅
 has_id_wikidata: Q179310
-has_characteristic: '[[_Standards/WikiData/WD~computing_platform,241317]]'
+has_characteristic: '[[_Standards/WikiData/WD~computing_platform,241317|WD~computing_platform,241317]]'
 studied_by:
-- '[[_Standards/WikiData/WD~applied_computer_science,538722]]'
-- '[[_Standards/WikiData/WD~computer_science,21198]]'
+- '[[_Standards/WikiData/WD~applied_computer_science,538722|WD~applied_computer_science,538722]]'
+- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~activity,1914636]]'
-- '[[_Standards/WikiData/WD~economic_sector,3958441]]'
-- '[[_Standards/WikiData/WD~information_and_communications_technology,5268834]]'
-practiced_by: '[[_Standards/WikiData/WD~technology_specialist,5157565]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_computing,7112592]]'
-uses: '[[_Standards/WikiData/WD~computer,68]]'
-different_from: '[[_Standards/WikiData/WD~computer,68]]'
+- '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~economic_sector,3958441|WD~economic_sector,3958441]]'
+- '[[_Standards/WikiData/WD~information_and_communications_technology,5268834|WD~information_and_communications_technology,5268834]]'
+practiced_by: '[[_Standards/WikiData/WD~technology_specialist,5157565|WD~technology_specialist,5157565]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_computing,7112592|WD~outline_of_computing,7112592]]'
+uses: '[[_Standards/WikiData/WD~computer,68|WD~computer,68]]'
+different_from: '[[_Standards/WikiData/WD~computer,68|WD~computer,68]]'
 IAB_code: 600
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Napier%27s%20calculating%20tables.JPG
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Inform%C3%A1tica%20-%20NArrada.ogg

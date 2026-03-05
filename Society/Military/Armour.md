@@ -61,17 +61,17 @@ aliases:
 - 갑옷
 has_id_wikidata: Q485027
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~personal_protective_equipment,1333024]]'
-- '[[_Standards/WikiData/WD~armor,11886611]]'
-- '[[_Standards/WikiData/WD~protective_clothing,14524031]]'
-different_from: '[[_Standards/WikiData/WD~vehicle_armor,1937453]]'
-model_item: '[[_Standards/WikiData/WD~Armor_of_Emperor_Ferdinand_I,28790437]]'
+- '[[_Standards/WikiData/WD~personal_protective_equipment,1333024|WD~personal_protective_equipment,1333024]]'
+- '[[_Standards/WikiData/WD~armor,11886611|WD~armor,11886611]]'
+- '[[_Standards/WikiData/WD~protective_clothing,14524031|WD~protective_clothing,14524031]]'
+different_from: '[[_Standards/WikiData/WD~vehicle_armor,1937453|WD~vehicle_armor,1937453]]'
+model_item: '[[_Standards/WikiData/WD~Armor_of_Emperor_Ferdinand_I,28790437|WD~Armor_of_Emperor_Ferdinand_I,28790437]]'
 Product_and_Service_Code: 8470
 Nomenclature_for_Museum_Cataloging: 8103
 Iconclass_notation: 45C22

@@ -27,9 +27,9 @@ tags:
 title: is_an_order_payment_due Class
 type: Type
 dv_has_:
-  parent_class: "[[../OrderStatus]]"
+  parent_class: "[[../OrderStatus|OrderStatus]]"
 dv_is_:
-  enum_of: "[[../OrderStatus]]"
+  enum_of: "[[../OrderStatus|OrderStatus]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due|Order_Payment_Due]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.public|Order_Payment_Due.public]]"
@@ -39,8 +39,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.personal|Order_Payment_Due.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.secret|Order_Payment_Due.secret]]"
     - "[[Order_Payment_Due]]"
-dv_has_parent_class: "[[../OrderStatus]]"
-dv_is_enum_of: "[[../OrderStatus]]"
+dv_has_parent_class: "[[../OrderStatus|OrderStatus]]"
+dv_is_enum_of: "[[../OrderStatus|OrderStatus]]"
 dv_is_same_as:
   - "[[Order_Payment_Due]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.public|Order_Payment_Due.public]]"

@@ -52,27 +52,27 @@ aliases:
 - 생제르맹 조약
 has_id_wikidata: Q192924
 signatory:
-- '[[_Standards/WikiData/WD~French_Third_Republic,70802]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-- '[[_Standards/WikiData/WD~Republic_of_German_Austria,268970]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-named_after: '[[_Standards/WikiData/WD~Saint_Germain_en_Laye,185075]]'
-instance_of: '[[_Standards/WikiData/WD~peace_treaty,625298]]'
-location: '[[_Standards/WikiData/WD~Château_de_Saint_Germain_en_Laye,1520841]]'
+- '[[_Standards/WikiData/WD~French_Third_Republic,70802|WD~French_Third_Republic,70802]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579|WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~Republic_of_German_Austria,268970|WD~Republic_of_German_Austria,268970]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+named_after: '[[_Standards/WikiData/WD~Saint_Germain_en_Laye,185075|WD~Saint_Germain_en_Laye,185075]]'
+instance_of: '[[_Standards/WikiData/WD~peace_treaty,625298|WD~peace_treaty,625298]]'
+location: '[[_Standards/WikiData/WD~Château_de_Saint_Germain_en_Laye,1520841|WD~Château_de_Saint_Germain_en_Laye,1520841]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 language_of_work_or_name:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/TratadoDeSaintGermainRenner.png
 subject_named_as: Friede von Saint-Germain-en-Laye
 Commons_category: Treaty of Saint-Germain
 point_in_time: 1919-09-10T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../../../../../../../../WikiData/WD~Treaty_of_Saint-Germain-en-Laye,192924]]'
+  - '[[../../../../../../../../../WikiData/WD~Treaty_of_Saint-Germain-en-Laye,192924|WD~Treaty_of_Saint-Germain-en-Laye,192924]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye|1919-Treaty_of_Saint-Germain-en-Laye]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.public|1919-Treaty_of_Saint-Germain-en-Laye.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.internal|1919-Treaty_of_Saint-Germain-en-Laye.internal]]'
@@ -81,7 +81,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.personal|1919-Treaty_of_Saint-Germain-en-Laye.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.secret|1919-Treaty_of_Saint-Germain-en-Laye.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../../WikiData/WD~Treaty_of_Saint-Germain-en-Laye,192924]]'
+- '[[../../../../../../../../../WikiData/WD~Treaty_of_Saint-Germain-en-Laye,192924|WD~Treaty_of_Saint-Germain-en-Laye,192924]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye|1919-Treaty_of_Saint-Germain-en-Laye]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.public|1919-Treaty_of_Saint-Germain-en-Laye.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.internal|1919-Treaty_of_Saint-Germain-en-Laye.internal]]'

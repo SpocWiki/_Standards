@@ -68,7 +68,7 @@ Use it like this:
 - #has_/shipping_details : : OfferShippingDetails  
 - has_shipping_details = `=this.dv_has_shipping_details`  
 
-Indicates information about the shipping policies and options associated with an [[../../../../Society/Agent/Community/Organization/Business/Offer]].
+Indicates information about the shipping policies and options associated with an [[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]].
 
 Relation describes that: 
 

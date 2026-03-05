@@ -30,27 +30,27 @@ Instagram_username: thedoors
 X_Twitter_username: TheDoors
 work_period_end_: 2013-01-01T00:00:00Z
 has_part_s_:
-- '[[_Standards/WikiData/WD~Ray_Manzarek,108912]]'
-- '[[_Standards/WikiData/WD~John_Densmore,310113]]'
-- '[[_Standards/WikiData/WD~Robby_Krieger,311900]]'
-- '[[_Standards/WikiData/WD~Jim_Morrison,44301]]'
+- '[[_Standards/WikiData/WD~Ray_Manzarek,108912|WD~Ray_Manzarek,108912]]'
+- '[[_Standards/WikiData/WD~John_Densmore,310113|WD~John_Densmore,310113]]'
+- '[[_Standards/WikiData/WD~Robby_Krieger,311900|WD~Robby_Krieger,311900]]'
+- '[[_Standards/WikiData/WD~Jim_Morrison,44301|WD~Jim_Morrison,44301]]'
 award_received:
-- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191|WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843|WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761|WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 genre:
-- '[[_Standards/WikiData/WD~blues_rock,193355]]'
-- '[[_Standards/WikiData/WD~psychedelic_rock,206159]]'
-- '[[_Standards/WikiData/WD~classic_rock,56351111]]'
-field_of_work: '[[_Standards/WikiData/WD~musical_group,215380]]'
-record_label: '[[_Standards/WikiData/WD~Elektra,726251]]'
-different_from: '[[_Standards/WikiData/WD~The_Doors,937087]]'
-named_after: '[[_Standards/WikiData/WD~The_Doors_of_Perception,1215450]]'
-discography: '[[_Standards/WikiData/WD~The_Doors_discography,2287129]]'
-instance_of: '[[_Standards/WikiData/WD~rock_band,5741069]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_The_Doors,5892766]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-location_of_formation: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+- '[[_Standards/WikiData/WD~blues_rock,193355|WD~blues_rock,193355]]'
+- '[[_Standards/WikiData/WD~psychedelic_rock,206159|WD~psychedelic_rock,206159]]'
+- '[[_Standards/WikiData/WD~classic_rock,56351111|WD~classic_rock,56351111]]'
+field_of_work: '[[_Standards/WikiData/WD~musical_group,215380|WD~musical_group,215380]]'
+record_label: '[[_Standards/WikiData/WD~Elektra,726251|WD~Elektra,726251]]'
+different_from: '[[_Standards/WikiData/WD~The_Doors,937087|WD~The_Doors,937087]]'
+named_after: '[[_Standards/WikiData/WD~The_Doors_of_Perception,1215450|WD~The_Doors_of_Perception,1215450]]'
+discography: '[[_Standards/WikiData/WD~The_Doors_discography,2287129|WD~The_Doors_discography,2287129]]'
+instance_of: '[[_Standards/WikiData/WD~rock_band,5741069|WD~rock_band,5741069]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_The_Doors,5892766|WD~Template_The_Doors,5892766]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+location_of_formation: '[[_Standards/WikiData/WD~Los_Angeles,65|WD~Los_Angeles,65]]'
 social_media_followers:
 - 1300000
 - 945899

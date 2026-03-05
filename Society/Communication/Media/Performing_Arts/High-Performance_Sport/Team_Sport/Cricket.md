@@ -79,25 +79,25 @@ aliases:
 - ꠇ꠆ꠞꠤꠇꠦꠐ ꠈꠦꠁꠠ
 - 크리켓
 has_id_wikidata: Q5375
-different_from: '[[_Standards/WikiData/WD~croquet,193387]]'
+different_from: '[[_Standards/WikiData/WD~croquet,193387|WD~croquet,193387]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~team_sport,216048]]'
-- '[[_Standards/WikiData/WD~ball_game,877517]]'
-- '[[_Standards/WikiData/WD~bat_and_ball_game,2238071]]'
+- '[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~ball_game,877517|WD~ball_game,877517]]'
+- '[[_Standards/WikiData/WD~bat_and_ball_game,2238071|WD~bat_and_ball_game,2238071]]'
 uses:
-- '[[_Standards/WikiData/WD~cricket_bat,577263]]'
-- '[[_Standards/WikiData/WD~cricket_ball,1139973]]'
-- '[[_Standards/WikiData/WD~wicket,1196454]]'
+- '[[_Standards/WikiData/WD~cricket_bat,577263|WD~cricket_bat,577263]]'
+- '[[_Standards/WikiData/WD~cricket_ball,1139973|WD~cricket_ball,1139973]]'
+- '[[_Standards/WikiData/WD~wicket,1196454|WD~wicket,1196454]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-authority: '[[_Standards/WikiData/WD~International_Cricket_Council,722694]]'
-practiced_by: '[[_Standards/WikiData/WD~cricketer,12299841]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cricket,14615431]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+authority: '[[_Standards/WikiData/WD~International_Cricket_Council,722694|WD~International_Cricket_Council,722694]]'
+practiced_by: '[[_Standards/WikiData/WD~cricketer,12299841|WD~cricketer,12299841]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cricket,14615431|WD~Portal_Cricket,14615431]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+country_of_origin: '[[_Standards/WikiData/WD~England,21|WD~England,21]]'
 IAB_code: 491
 OmegaWiki_Defined_Meaning: 7773
 subreddit: Cricket

@@ -80,17 +80,17 @@ aliases:
 - 三角関数
 - 삼각 함수
 has_id_wikidata: Q93344
-approximation_algorithm: '[[_Standards/WikiData/WD~CORDIC,116076]]'
+approximation_algorithm: '[[_Standards/WikiData/WD~CORDIC,116076|WD~CORDIC,116076]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~periodic_function,184743]]'
-- '[[_Standards/WikiData/WD~elementary_function,824282]]'
-- '[[_Standards/WikiData/WD~transcendental_function,864333]]'
-mathematical_inverse: '[[_Standards/WikiData/WD~inverse_trigonometric_function,674533]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Trigonometry_2,22857577]]'
-has_part_s_: '[[_Standards/WikiData/WD~trigonometric_identity,58437145]]'
-studied_by: '[[_Standards/WikiData/WD~trigonometry,8084]]'
-instance_of: '[[_Standards/WikiData/WD~function,11348]]'
+- '[[_Standards/WikiData/WD~periodic_function,184743|WD~periodic_function,184743]]'
+- '[[_Standards/WikiData/WD~elementary_function,824282|WD~elementary_function,824282]]'
+- '[[_Standards/WikiData/WD~transcendental_function,864333|WD~transcendental_function,864333]]'
+mathematical_inverse: '[[_Standards/WikiData/WD~inverse_trigonometric_function,674533|WD~inverse_trigonometric_function,674533]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Trigonometry_2,22857577|WD~Template_Trigonometry_2,22857577]]'
+has_part_s_: '[[_Standards/WikiData/WD~trigonometric_identity,58437145|WD~trigonometric_identity,58437145]]'
+studied_by: '[[_Standards/WikiData/WD~trigonometry,8084|WD~trigonometry,8084]]'
+instance_of: '[[_Standards/WikiData/WD~function,11348|WD~function,11348]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sine%20cosine%20one%20period.svg
 Commons_gallery: Trigonometric functions
 Commons_category: Trigonometric functions

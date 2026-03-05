@@ -165,53 +165,53 @@ aliases:
 - 체스
 - "\U00010343\U0001033A\U00010330\U00010337"
 has_id_wikidata: Q718
-regulated_by: '[[_Standards/WikiData/WD~FIDE,102178]]'
+regulated_by: '[[_Standards/WikiData/WD~FIDE,102178|WD~FIDE,102178]]'
 uses:
-- '[[_Standards/WikiData/WD~chessboard,110079]]'
-- '[[_Standards/WikiData/WD~chess_piece,208440]]'
-- '[[_Standards/WikiData/WD~chess_clock,831765]]'
+- '[[_Standards/WikiData/WD~chessboard,110079|WD~chessboard,110079]]'
+- '[[_Standards/WikiData/WD~chess_piece,208440|WD~chess_piece,208440]]'
+- '[[_Standards/WikiData/WD~chess_clock,831765|WD~chess_clock,831765]]'
 instance_of:
-- '[[_Standards/WikiData/WD~board_game,131436]]'
-- '[[_Standards/WikiData/WD~abstract_strategy_game,573573]]'
-- '[[_Standards/WikiData/WD~game_based_sport,4438147]]'
-- '[[_Standards/WikiData/WD~two_player_game,7858742]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-named_after: '[[_Standards/WikiData/WD~shah,184299]]'
-inspired_by: '[[_Standards/WikiData/WD~shatranj,279829]]'
+- '[[_Standards/WikiData/WD~board_game,131436|WD~board_game,131436]]'
+- '[[_Standards/WikiData/WD~abstract_strategy_game,573573|WD~abstract_strategy_game,573573]]'
+- '[[_Standards/WikiData/WD~game_based_sport,4438147|WD~game_based_sport,4438147]]'
+- '[[_Standards/WikiData/WD~two_player_game,7858742|WD~two_player_game,7858742]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+named_after: '[[_Standards/WikiData/WD~shah,184299|WD~shah,184299]]'
+inspired_by: '[[_Standards/WikiData/WD~shatranj,279829|WD~shatranj,279829]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sequential_game,287618]]'
-- '[[_Standards/WikiData/WD~mind_sport,1188693]]'
-- '[[_Standards/WikiData/WD~individual_sport,2755547]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_chess,471257]]'
+- '[[_Standards/WikiData/WD~sequential_game,287618|WD~sequential_game,287618]]'
+- '[[_Standards/WikiData/WD~mind_sport,1188693|WD~mind_sport,1188693]]'
+- '[[_Standards/WikiData/WD~individual_sport,2755547|WD~individual_sport,2755547]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_chess,471257|WD~history_of_chess,471257]]'
 genre:
-- '[[_Standards/WikiData/WD~abstract_strategy_game,573573]]'
-- '[[_Standards/WikiData/WD~mind_game,41595400]]'
+- '[[_Standards/WikiData/WD~abstract_strategy_game,573573|WD~abstract_strategy_game,573573]]'
+- '[[_Standards/WikiData/WD~mind_game,41595400|WD~mind_game,41595400]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~chess_coach,2106721]]'
-- '[[_Standards/WikiData/WD~chess_arbiter,2229544]]'
-- '[[_Standards/WikiData/WD~chess_player,10873124]]'
+- '[[_Standards/WikiData/WD~chess_coach,2106721|WD~chess_coach,2106721]]'
+- '[[_Standards/WikiData/WD~chess_arbiter,2229544|WD~chess_arbiter,2229544]]'
+- '[[_Standards/WikiData/WD~chess_player,10873124|WD~chess_player,10873124]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Chess,6872478]]'
-- '[[_Standards/WikiData/WD~Template_Chess_grandmasters,131054795]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_chess,7112579]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Chess,8288922]]'
+- '[[_Standards/WikiData/WD~Template_Chess,6872478|WD~Template_Chess,6872478]]'
+- '[[_Standards/WikiData/WD~Template_Chess_grandmasters,131054795|WD~Template_Chess_grandmasters,131054795]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_chess,7112579|WD~outline_of_chess,7112579]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Chess,8288922|WD~Portal_Chess,8288922]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-- '[[_Standards/WikiData/WD~WikiProject_Chess,10998176]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Chess,22827605]]'
-different_from: '[[_Standards/WikiData/WD~chess_video_game,71679871]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~WikiProject_Chess,10998176|WD~WikiProject_Chess,10998176]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Chess,22827605|WD~Chess,22827605]]'
+different_from: '[[_Standards/WikiData/WD~chess_video_game,71679871|WD~chess_video_game,71679871]]'
 earliest_date: 1475-01-01T00:00:00Z
-country_of_origin: '[[_Standards/WikiData/WD~Gupta_Empire,11774]]'
+country_of_origin: '[[_Standards/WikiData/WD~Gupta_Empire,11774|WD~Gupta_Empire,11774]]'
 maximum_number_of_players: 2
 minimum_number_of_players: 2
 OmegaWiki_Defined_Meaning: 8128

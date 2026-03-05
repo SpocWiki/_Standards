@@ -67,19 +67,19 @@ aliases:
 - 拉斯特法里運動
 - 라스타파리 운동
 has_id_wikidata: Q101462
-part_of: '[[_Standards/WikiData/WD~new_religious_movement,477544]]'
+part_of: '[[_Standards/WikiData/WD~new_religious_movement,477544|WD~new_religious_movement,477544]]'
 different_from:
-- '[[_Standards/WikiData/WD~Rastafari,11833809]]'
-- '[[_Standards/WikiData/WD~Pastafarianism,14397660]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+- '[[_Standards/WikiData/WD~Rastafari,11833809|WD~Rastafari,11833809]]'
+- '[[_Standards/WikiData/WD~Pastafarianism,14397660|WD~Pastafarianism,14397660]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
 influenced_by:
-- '[[_Standards/WikiData/WD~Christianity,5043]]'
-- '[[_Standards/WikiData/WD~Judaism,9268]]'
+- '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~Judaism,9268|WD~Judaism,9268]]'
 instance_of:
-- '[[_Standards/WikiData/WD~ideology,7257]]'
-- '[[_Standards/WikiData/WD~religion,9174]]'
-- '[[_Standards/WikiData/WD~social_movement,49773]]'
-named_after: '[[_Standards/WikiData/WD~Haile_Selassie_I,41178]]'
+- '[[_Standards/WikiData/WD~ideology,7257|WD~ideology,7257]]'
+- '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~social_movement,49773|WD~social_movement,49773]]'
+named_after: '[[_Standards/WikiData/WD~Haile_Selassie_I,41178|WD~Haile_Selassie_I,41178]]'
 hashtag_: Rastafari
 Commons_category: Rastafari
 native_label: Rastafari
@@ -187,8 +187,8 @@ dv_has_:
 
 # [[Rastafari]] 
 
-#is_/different_from :: [[../Pastafari]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Rastafari,101462]] 
+#is_/different_from :: [[../Pastafari|Pastafari]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rastafari,101462|WD~Rastafari,101462]] 
 
 ## #has_/text_of_/abstract 
 

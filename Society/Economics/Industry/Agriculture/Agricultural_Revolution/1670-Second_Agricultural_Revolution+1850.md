@@ -88,7 +88,7 @@ dv_has_:
 
 # [[1670-Second_Agricultural_Revolution+1850]] 
 
-#is_/part_of :: [[../../../Knowledge/Economy/Agricultural_Revolution]] 
+#is_/part_of :: [[../../../Knowledge/Economy/Agricultural_Revolution|Agricultural_Revolution]] 
 #is_/different_from :: [[-9700-First_Agricultural_Revolution]]  
 
 #has_/time_/started :: 1670-06 

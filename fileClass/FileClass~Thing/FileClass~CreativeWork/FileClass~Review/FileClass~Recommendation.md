@@ -23,7 +23,7 @@ version: 2.0
 # Recommendation
 This is a kind of [[FileClass~Review]]
 
-[[../../../../Society/Communication/Media/Creative_Work/Review/Recommendation]] is a type of [[../../../../Society/Communication/Media/Creative_Work/Review]] that suggests or proposes something as the best option or best course of action. Recommendations may be for products or services, or other concrete things, as in the case of a ranked list or product guide. A [[../../../../Society/Communication/Media/Creative_Work/Guide]] may list multiple recommendations for different categories. For example, in a [[../../../../Society/Communication/Media/Creative_Work/Guide]] about which TVs to buy, the author may have several [[../../../../Society/Communication/Media/Creative_Work/Review/Recommendation]]s.
+[[../../../../Society/Communication/Media/Creative_Work/Review/Recommendation|Recommendation]] is a type of [[../../../../Society/Communication/Media/Creative_Work/Review|Review]] that suggests or proposes something as the best option or best course of action. Recommendations may be for products or services, or other concrete things, as in the case of a ranked list or product guide. A [[../../../../Society/Communication/Media/Creative_Work/Guide|Guide]] may list multiple recommendations for different categories. For example, in a [[../../../../Society/Communication/Media/Creative_Work/Guide|Guide]] about which TVs to buy, the author may have several [[../../../../Society/Communication/Media/Creative_Work/Review/Recommendation|Recommendation]]s.
 
 
 ## Use one of these Tags for Objects of this Type:

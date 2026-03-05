@@ -60,7 +60,7 @@ aliases:
 - 世界遺産委員会
 - 세계유산 위원회
 has_id_wikidata: Q1147477
-instance_of: '[[_Standards/WikiData/WD~panel,938236]]'
+instance_of: '[[_Standards/WikiData/WD~panel,938236|WD~panel,938236]]'
 P1015: 2043265
 inception: 1977-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2015-07-06%20World%20Heritage%20Committee%20Bonn%20by%20Olaf%20Kosinsky-16.jpg

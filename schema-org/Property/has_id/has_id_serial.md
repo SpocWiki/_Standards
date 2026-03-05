@@ -31,7 +31,7 @@ dv_has_:
   name: has_id_serial
   range: Text
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
   child_:
     property: "[ vehicleIdentificationNumber ]"
 dv_is_:
@@ -46,7 +46,7 @@ dv_is_:
 dv_has_domain: Demand, IndividualProduct, Offer
 dv_has_name: has_id_serial
 dv_has_range: Text
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_has_child_property: "[ vehicleIdentificationNumber ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_name/has_id_serial|has_id_serial]]"

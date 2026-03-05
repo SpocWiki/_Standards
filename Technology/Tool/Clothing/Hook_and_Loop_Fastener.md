@@ -49,12 +49,12 @@ aliases:
 - 魔鬼氈
 - 찍찍이
 has_id_wikidata: Q15411420
-discoverer_or_inventor: '[[_Standards/WikiData/WD~George_de_Mestral,123525]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~George_de_Mestral,123525|WD~George_de_Mestral,123525]]'
 different_from:
-- '[[_Standards/WikiData/WD~Velcro,207649]]'
-- '[[_Standards/WikiData/WD~Velcro,7918852]]'
-subclass_of: '[[_Standards/WikiData/WD~fastener,2002016]]'
-inspired_by: '[[_Standards/WikiData/WD~Arctium_lappa,26932]]'
+- '[[_Standards/WikiData/WD~Velcro,207649|WD~Velcro,207649]]'
+- '[[_Standards/WikiData/WD~Velcro,7918852|WD~Velcro,7918852]]'
+subclass_of: '[[_Standards/WikiData/WD~fastener,2002016|WD~fastener,2002016]]'
+inspired_by: '[[_Standards/WikiData/WD~Arctium_lappa,26932|WD~Arctium_lappa,26932]]'
 Nomenclature_for_Museum_Cataloging: 6839
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hook%20and%20loop%20fastener%20collage.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Velcro6.jpg

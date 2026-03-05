@@ -68,15 +68,15 @@ aliases:
 - 채석장
 has_id_wikidata: Q188040
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596|WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
 different_from:
-- '[[_Standards/WikiData/WD~Cantera,5033607]]'
-- '[[_Standards/WikiData/WD~Cava,41124]]'
+- '[[_Standards/WikiData/WD~Cantera,5033607|WD~Cantera,5033607]]'
+- '[[_Standards/WikiData/WD~Cava,41124|WD~Cava,41124]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~human_made_landform,12529452]]'
-- '[[_Standards/WikiData/WD~surface_mine,113594123]]'
+- '[[_Standards/WikiData/WD~human_made_landform,12529452|WD~human_made_landform,12529452]]'
+- '[[_Standards/WikiData/WD~surface_mine,113594123|WD~surface_mine,113594123]]'
 Nomenclature_for_Museum_Cataloging: 837
 IMDb_keyword: quarry
 Commons_gallery: Quarry

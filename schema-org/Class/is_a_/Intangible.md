@@ -201,11 +201,11 @@ dv_is_same_as:
 
 A utility class that serves as the umbrella for a number of 'intangible'  AKA 'abstract' things such as [Quantities](../../Predicate/Quantity), [Structured Values](Intangible/structured_value), etc.
 
-This is also a common category in most other Upper-Level Ontologies like [[cyc~Intangible]] and [[sumo~Abstract]] from [[../../../../Knowledge/Ontology/SUMO(Suggested_Upper_Merged_Ontology)]] 
+This is also a common category in most other Upper-Level Ontologies like [[cyc~Intangible]] and [[sumo~Abstract]] from [[../../../../Knowledge/Ontology/SUMO(Suggested_Upper_Merged_Ontology)|SUMO(Suggested_Upper_Merged_Ontology)]] 
 
 Intangibles have no Time and Space Properties, because they could exist universally, in any computational Structure or symbolic Storage. 
 Ideas are concrete Instances of Intangibles and these have definite Origins in Time (when the first Person thought of it), Space (the Head of the Person) and Creators but rarely Destructors. 
-These Properties are added only by the Sibling Concepts of [[../../../Earth/Geography/Place]] and [[event]] . 
+These Properties are added only by the Sibling Concepts of [[../../../Earth/Geography/Place|Place]] and [[event]] . 
 
 Tag Instances like this: 
 #is_an_/intangible

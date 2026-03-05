@@ -50,12 +50,12 @@ aliases:
 - 동굴학
 has_id_wikidata: Q179132
 subclass_of:
-- '[[_Standards/WikiData/WD~exploration,6502154]]'
-- '[[_Standards/WikiData/WD~sport,349]]'
-- '[[_Standards/WikiData/WD~geology,1069]]'
-practiced_by: '[[_Standards/WikiData/WD~speleologist,16742175]]'
-instance_of: '[[_Standards/WikiData/WD~science,336]]'
-is_the_study_of: '[[_Standards/WikiData/WD~cave,35509]]'
+- '[[_Standards/WikiData/WD~exploration,6502154|WD~exploration,6502154]]'
+- '[[_Standards/WikiData/WD~sport,349|WD~sport,349]]'
+- '[[_Standards/WikiData/WD~geology,1069|WD~geology,1069]]'
+practiced_by: '[[_Standards/WikiData/WD~speleologist,16742175|WD~speleologist,16742175]]'
+instance_of: '[[_Standards/WikiData/WD~science,336|WD~science,336]]'
+is_the_study_of: '[[_Standards/WikiData/WD~cave,35509|WD~cave,35509]]'
 OmegaWiki_Defined_Meaning: 525359
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gouffre%20padirac%20speleos%20jef%20tm.jpg
 Iconclass_notation: 43B17

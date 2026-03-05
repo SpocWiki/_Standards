@@ -56,21 +56,21 @@ aliases:
 - 케첩
 has_id_wikidata: Q178143
 subclass_of:
-- '[[_Standards/WikiData/WD~sauce,178359]]'
-- '[[_Standards/WikiData/WD~condiment,2596997]]'
-- '[[_Standards/WikiData/WD~tomato_sauce,3596097]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~sauce,178359|WD~sauce,178359]]'
+- '[[_Standards/WikiData/WD~condiment,2596997|WD~condiment,2596997]]'
+- '[[_Standards/WikiData/WD~tomato_sauce,3596097|WD~tomato_sauce,3596097]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~onion,3406628]]'
-- '[[_Standards/WikiData/WD~tomato,20638126]]'
-- '[[_Standards/WikiData/WD~garlic,21546392]]'
-- '[[_Standards/WikiData/WD~sugar,11002]]'
-- '[[_Standards/WikiData/WD~table_salt,11254]]'
-- '[[_Standards/WikiData/WD~vinegar,41354]]'
+- '[[_Standards/WikiData/WD~onion,3406628|WD~onion,3406628]]'
+- '[[_Standards/WikiData/WD~tomato,20638126|WD~tomato,20638126]]'
+- '[[_Standards/WikiData/WD~garlic,21546392|WD~garlic,21546392]]'
+- '[[_Standards/WikiData/WD~sugar,11002|WD~sugar,11002]]'
+- '[[_Standards/WikiData/WD~table_salt,11254|WD~table_salt,11254]]'
+- '[[_Standards/WikiData/WD~vinegar,41354|WD~vinegar,41354]]'
 different_from:
-- '[[_Standards/WikiData/WD~DJ_Ketchup,11301118]]'
-- '[[_Standards/WikiData/WD~Sadame,108757971]]'
-location_of_creation: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~DJ_Ketchup,11301118|WD~DJ_Ketchup,11301118]]'
+- '[[_Standards/WikiData/WD~Sadame,108757971|WD~Sadame,108757971]]'
+location_of_creation: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 water_footprint: 534
 USDA_NDB_number: 11935
 Commons_gallery: Ketchup

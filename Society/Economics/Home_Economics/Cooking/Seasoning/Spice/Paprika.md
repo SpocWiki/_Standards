@@ -40,16 +40,16 @@ aliases:
 - 辣椒粉
 - 파프리카 가루
 has_id_wikidata: Q3127593
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Capsicum,201959]]'
-different_from: '[[_Standards/WikiData/WD~bell_pepper,1548030]]'
-has_part_s_: '[[_Standards/WikiData/WD~bell_pepper,1548030]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Capsicum,201959|WD~Capsicum,201959]]'
+different_from: '[[_Standards/WikiData/WD~bell_pepper,1548030|WD~bell_pepper,1548030]]'
+has_part_s_: '[[_Standards/WikiData/WD~bell_pepper,1548030|WD~bell_pepper,1548030]]'
 fabrication_method:
-- '[[_Standards/WikiData/WD~food_drying,5514687]]'
-- '[[_Standards/WikiData/WD~grinding,26882416]]'
-instance_of: '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~food_drying,5514687|WD~food_drying,5514687]]'
+- '[[_Standards/WikiData/WD~grinding,26882416|WD~grinding,26882416]]'
+instance_of: '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~food_powder,56274178]]'
-- '[[_Standards/WikiData/WD~spice,42527]]'
+- '[[_Standards/WikiData/WD~food_powder,56274178|WD~food_powder,56274178]]'
+- '[[_Standards/WikiData/WD~spice,42527|WD~spice,42527]]'
 OmegaWiki_Defined_Meaning: 392618
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Piment%C3%B3n%20Tap%20de%20Cort%C3%AD.jpg
 USDA_NDB_number: 02028

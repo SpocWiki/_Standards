@@ -41,12 +41,12 @@ aliases:
 - 隨意性行為
 - 캐주얼 섹스
 has_id_wikidata: Q442358
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~promiscuity,261290]]'
-opposite_of: '[[_Standards/WikiData/WD~friend_zone,625853]]'
-participant: '[[_Standards/WikiData/WD~friend_with_benefits,28091984]]'
-has_part_s_: '[[_Standards/WikiData/WD~friend_with_benefits,28091984]]'
-instance_of: '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
-subclass_of: '[[_Standards/WikiData/WD~sexual_intercourse,5873]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~promiscuity,261290|WD~promiscuity,261290]]'
+opposite_of: '[[_Standards/WikiData/WD~friend_zone,625853|WD~friend_zone,625853]]'
+participant: '[[_Standards/WikiData/WD~friend_with_benefits,28091984|WD~friend_with_benefits,28091984]]'
+has_part_s_: '[[_Standards/WikiData/WD~friend_with_benefits,28091984|WD~friend_with_benefits,28091984]]'
+instance_of: '[[_Standards/WikiData/WD~human_sexual_behavior,608|WD~human_sexual_behavior,608]]'
+subclass_of: '[[_Standards/WikiData/WD~sexual_intercourse,5873|WD~sexual_intercourse,5873]]'
 dv_has_:
   name_:
     ar: جنس عرضي

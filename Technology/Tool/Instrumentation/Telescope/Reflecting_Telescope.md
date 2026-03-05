@@ -53,15 +53,15 @@ aliases:
 - 反射望遠鏡
 - 반사 망원경
 has_id_wikidata: Q35221
-discoverer_or_inventor: '[[_Standards/WikiData/WD~James_Gregory,313906]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~James_Gregory,313906|WD~James_Gregory,313906]]'
 creator:
-- '[[_Standards/WikiData/WD~John_Hadley,445128]]'
-- '[[_Standards/WikiData/WD~Isaac_Newton,935]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_instrument,751997]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~John_Hadley,445128|WD~John_Hadley,445128]]'
+- '[[_Standards/WikiData/WD~Isaac_Newton,935|WD~Isaac_Newton,935]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_instrument,751997|WD~astronomical_instrument,751997]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 start_time: 1721-01-01T00:00:00Z
-has_part_s_: '[[_Standards/WikiData/WD~mirror,35197]]'
-subclass_of: '[[_Standards/WikiData/WD~optical_telescope,35273]]'
+has_part_s_: '[[_Standards/WikiData/WD~mirror,35197|WD~mirror,35197]]'
+subclass_of: '[[_Standards/WikiData/WD~optical_telescope,35273|WD~optical_telescope,35273]]'
 Nomenclature_for_Museum_Cataloging: 8402
 Commons_category: Reflecting telescopes
 video:

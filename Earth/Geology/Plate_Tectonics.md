@@ -109,14 +109,14 @@ aliases:
 - 板塊構造論
 - 판 구조론
 has_id_wikidata: Q7950
-part_of: '[[_Standards/WikiData/WD~lithosphere,83296]]'
-manifestation_of: '[[_Standards/WikiData/WD~tectonic_plate,215680]]'
-subclass_of: '[[_Standards/WikiData/WD~geotectonics,1863355]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Tectonic_plates,10740776]]'
+part_of: '[[_Standards/WikiData/WD~lithosphere,83296|WD~lithosphere,83296]]'
+manifestation_of: '[[_Standards/WikiData/WD~tectonic_plate,215680|WD~tectonic_plate,215680]]'
+subclass_of: '[[_Standards/WikiData/WD~geotectonics,1863355|WD~geotectonics,1863355]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Tectonic_plates,10740776|WD~Template_Tectonic_plates,10740776]]'
 studied_by:
-- '[[_Standards/WikiData/WD~tectonics,78125729]]'
-- '[[_Standards/WikiData/WD~geology,1069]]'
-instance_of: '[[_Standards/WikiData/WD~theory,17737]]'
+- '[[_Standards/WikiData/WD~tectonics,78125729|WD~tectonics,78125729]]'
+- '[[_Standards/WikiData/WD~geology,1069|WD~geology,1069]]'
+instance_of: '[[_Standards/WikiData/WD~theory,17737|WD~theory,17737]]'
 publication_date: 1965-01-01T00:00:00Z
 OmegaWiki_Defined_Meaning: 720220
 Commons_category: Plate tectonics

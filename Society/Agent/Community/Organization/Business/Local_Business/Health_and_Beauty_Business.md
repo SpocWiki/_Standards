@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Health and beauty.
 
-#has_/parent_class :: [[../LocalBusiness]]  
+#has_/parent_class :: [[../LocalBusiness|LocalBusiness]]  
 
 #has_/child_/class :: [ BeautySalon, DaySpa, HairSalon, HealthClub, NailSalon, TattooParlor ]  
 

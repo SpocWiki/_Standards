@@ -80,23 +80,23 @@ has_id_wikidata: Q975405
 inception: 1077-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 1307-01-01T00:00:00Z
 capital:
-- '[[_Standards/WikiData/WD~Konya,79857]]'
-- '[[_Standards/WikiData/WD~Nicaea,739037]]'
+- '[[_Standards/WikiData/WD~Konya,79857|WD~Konya,79857]]'
+- '[[_Standards/WikiData/WD~Nicaea,739037|WD~Nicaea,739037]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
-replaced_by: '[[_Standards/WikiData/WD~Beylik_of_Adana,2261321]]'
-instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
-different_from: '[[_Standards/WikiData/WD~Seljuk_Empire,3708094]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Sultans_of_Rum,13219055]]'
+- '[[_Standards/WikiData/WD~New_History_of_Yuan,1053256|WD~New_History_of_Yuan,1053256]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+replaced_by: '[[_Standards/WikiData/WD~Beylik_of_Adana,2261321|WD~Beylik_of_Adana,2261321]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
+different_from: '[[_Standards/WikiData/WD~Seljuk_Empire,3708094|WD~Seljuk_Empire,3708094]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Sultans_of_Rum,13219055|WD~Template_Sultans_of_Rum,13219055]]'
 language_used:
-- '[[_Standards/WikiData/WD~Proto_Oghuz,20476512]]'
-- '[[_Standards/WikiData/WD~Persian,9168]]'
-- '[[_Standards/WikiData/WD~Medieval_Greek,36387]]'
-official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
-official_language: '[[_Standards/WikiData/WD~Persian,9168]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Proto_Oghuz,20476512|WD~Proto_Oghuz,20476512]]'
+- '[[_Standards/WikiData/WD~Persian,9168|WD~Persian,9168]]'
+- '[[_Standards/WikiData/WD~Medieval_Greek,36387|WD~Medieval_Greek,36387]]'
+official_religion: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
+official_language: '[[_Standards/WikiData/WD~Persian,9168|WD~Persian,9168]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 area: 400
 Commons_category: Sultanate of Rûm
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sultanate%20of%20R%C3%BBm.svg

@@ -48,13 +48,13 @@ aliases:
 - 항공의 역사
 has_id_wikidata: Q471043
 subclass_of:
-- '[[_Standards/WikiData/WD~history_of_technology,465352]]'
-- '[[_Standards/WikiData/WD~history_of_transport,468305]]'
-facet_of: '[[_Standards/WikiData/WD~aerospace_engineering,3798668]]'
+- '[[_Standards/WikiData/WD~history_of_technology,465352|WD~history_of_technology,465352]]'
+- '[[_Standards/WikiData/WD~history_of_transport,468305|WD~history_of_transport,468305]]'
+facet_of: '[[_Standards/WikiData/WD~aerospace_engineering,3798668|WD~aerospace_engineering,3798668]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-practiced_by: '[[_Standards/WikiData/WD~aviation_historian,55590647]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+practiced_by: '[[_Standards/WikiData/WD~aviation_historian,55590647|WD~aviation_historian,55590647]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Aviation%20history%20Planes%20on%20display%20in%20Sinsheim.jpg
 subreddit: AviationHistory
 Commons_category: History of aviation

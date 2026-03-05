@@ -53,19 +53,19 @@ aliases:
 - 帕西人
 - 파르시
 has_id_wikidata: Q200263
-part_of: '[[_Standards/WikiData/WD~Persians,484206]]'
+part_of: '[[_Standards/WikiData/WD~Persians,484206|WD~Persians,484206]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 native_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Gujarati,5137]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Zoroastrianism,9601]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Gujarati,5137|WD~Gujarati,5137]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Zoroastrianism,9601|WD~Zoroastrianism,9601]]'
 population: 110000
-instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
 OmegaWiki_Defined_Meaning: 1222994
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Indian%20-%20Leaf%20from%20Bound%20Collection%20of%2020%20Miniatures%20Depicting%20Village%20Life%20-%20Walters%2035176H.jpg
 Library_of_Congress_Classification:

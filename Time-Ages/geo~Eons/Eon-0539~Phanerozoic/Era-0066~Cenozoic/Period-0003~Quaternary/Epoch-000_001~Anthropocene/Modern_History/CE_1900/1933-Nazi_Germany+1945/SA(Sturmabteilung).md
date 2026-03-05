@@ -30,35 +30,35 @@ aliases:
 - 돌격대
 has_id_wikidata: Q150793
 chairperson:
-- '[[_Standards/WikiData/WD~Baldur_von_Schirach,76876]]'
-- '[[_Standards/WikiData/WD~Otto_Wagener,106014]]'
-- '[[_Standards/WikiData/WD~Heinrich_Himmler,43067]]'
-- '[[_Standards/WikiData/WD~Hermann_Göring,47906]]'
-- '[[_Standards/WikiData/WD~Viktor_Lutze,57703]]'
-- '[[_Standards/WikiData/WD~Ernst_Röhm,58583]]'
-- '[[_Standards/WikiData/WD~Wilhelm_Schepmann,61120]]'
-- '[[_Standards/WikiData/WD~Franz_Pfeffer_von_Salomon,62748]]'
+- '[[_Standards/WikiData/WD~Baldur_von_Schirach,76876|WD~Baldur_von_Schirach,76876]]'
+- '[[_Standards/WikiData/WD~Otto_Wagener,106014|WD~Otto_Wagener,106014]]'
+- '[[_Standards/WikiData/WD~Heinrich_Himmler,43067|WD~Heinrich_Himmler,43067]]'
+- '[[_Standards/WikiData/WD~Hermann_Göring,47906|WD~Hermann_Göring,47906]]'
+- '[[_Standards/WikiData/WD~Viktor_Lutze,57703|WD~Viktor_Lutze,57703]]'
+- '[[_Standards/WikiData/WD~Ernst_Röhm,58583|WD~Ernst_Röhm,58583]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Schepmann,61120|WD~Wilhelm_Schepmann,61120]]'
+- '[[_Standards/WikiData/WD~Franz_Pfeffer_von_Salomon,62748|WD~Franz_Pfeffer_von_Salomon,62748]]'
 instance_of:
-- '[[_Standards/WikiData/WD~paramilitary_organization,207320]]'
-- '[[_Standards/WikiData/WD~political_faction,1393724]]'
-- '[[_Standards/WikiData/WD~political_organization,7210356]]'
+- '[[_Standards/WikiData/WD~paramilitary_organization,207320|WD~paramilitary_organization,207320]]'
+- '[[_Standards/WikiData/WD~political_faction,1393724|WD~political_faction,1393724]]'
+- '[[_Standards/WikiData/WD~political_organization,7210356|WD~political_organization,7210356]]'
 replaces:
-- '[[_Standards/WikiData/WD~Der_Stahlhelm,_Bund_der_Frontsoldaten,568522]]'
-- '[[_Standards/WikiData/WD~Q96680094,96680094]]'
-follows: '[[_Standards/WikiData/WD~Der_Stahlhelm,_Bund_der_Frontsoldaten,568522]]'
-applies_to_jurisdiction: '[[_Standards/WikiData/WD~German_Reich,1206012]]'
-country: '[[_Standards/WikiData/WD~German_Reich,1206012]]'
-wears: '[[_Standards/WikiData/WD~Brownshirt,10436492]]'
-described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Der_Stahlhelm,_Bund_der_Frontsoldaten,568522|WD~Der_Stahlhelm,_Bund_der_Frontsoldaten,568522]]'
+- '[[_Standards/WikiData/WD~Q96680094,96680094|WD~Q96680094,96680094]]'
+follows: '[[_Standards/WikiData/WD~Der_Stahlhelm,_Bund_der_Frontsoldaten,568522|WD~Der_Stahlhelm,_Bund_der_Frontsoldaten,568522]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~German_Reich,1206012|WD~German_Reich,1206012]]'
+country: '[[_Standards/WikiData/WD~German_Reich,1206012|WD~German_Reich,1206012]]'
+wears: '[[_Standards/WikiData/WD~Brownshirt,10436492|WD~Brownshirt,10436492]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
 child_organization_or_unit:
-- '[[_Standards/WikiData/WD~Q122194776,122194776]]'
-- '[[_Standards/WikiData/WD~Q130216322,130216322]]'
-has_part_s_: '[[_Standards/WikiData/WD~Q130216322,130216322]]'
-headquarters_location: '[[_Standards/WikiData/WD~Munich,1726]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~Nazi_Party,7320]]'
+- '[[_Standards/WikiData/WD~Q122194776,122194776|WD~Q122194776,122194776]]'
+- '[[_Standards/WikiData/WD~Q130216322,130216322|WD~Q130216322,130216322]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q130216322,130216322|WD~Q130216322,130216322]]'
+headquarters_location: '[[_Standards/WikiData/WD~Munich,1726|WD~Munich,1726]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Nazi_Party,7320|WD~Nazi_Party,7320]]'
 member_count: 3000000
-different_from: '[[_Standards/WikiData/WD~Schutzstaffel,44687]]'
-founded_by: '[[_Standards/WikiData/WD~Ernst_Röhm,58583]]'
+different_from: '[[_Standards/WikiData/WD~Schutzstaffel,44687|WD~Schutzstaffel,44687]]'
+founded_by: '[[_Standards/WikiData/WD~Ernst_Röhm,58583|WD~Ernst_Röhm,58583]]'
 Commons_category: Sturmabteilung
 BHCL_UUID: 5c6a98a1-ccfc-4df2-9fb4-9a1e3403f8b3
 subject_named_as: SA
@@ -71,7 +71,7 @@ dissolved_abolished_or_demolished_date: 1945-10-10T00:00:00Z
 inception: 1921-01-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../../../../../../../../WikiData/WD~Sturmabteilung,150793]]'
+  - '[[../../../../../../../../../WikiData/WD~Sturmabteilung,150793|WD~Sturmabteilung,150793]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung)|SA(Sturmabteilung)]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).public|SA(Sturmabteilung).public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).internal|SA(Sturmabteilung).internal]]'
@@ -169,7 +169,7 @@ dv_has_:
   next_:
     item: '[[SS(Schutzstaffel)]]'
 dv_is_same_as:
-- '[[../../../../../../../../../WikiData/WD~Sturmabteilung,150793]]'
+- '[[../../../../../../../../../WikiData/WD~Sturmabteilung,150793|WD~Sturmabteilung,150793]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung)|SA(Sturmabteilung)]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).public|SA(Sturmabteilung).public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).internal|SA(Sturmabteilung).internal]]'

@@ -83,21 +83,21 @@ aliases:
 - 관악기
 has_id_wikidata: Q173453
 has_part_s_:
-- '[[_Standards/WikiData/WD~brass_instrument,180744]]'
-- '[[_Standards/WikiData/WD~woodwind_instrument,181247]]'
+- '[[_Standards/WikiData/WD~brass_instrument,180744|WD~brass_instrument,180744]]'
+- '[[_Standards/WikiData/WD~woodwind_instrument,181247|WD~woodwind_instrument,181247]]'
 part_of:
-- '[[_Standards/WikiData/WD~Hornbostel_Sachs,496327]]'
-- "[[_Standards/WikiData/WD~MIMO's_classification_of_musical_instruments,26836418]]"
-- "[[_Standards/WikiData/WD~Guizzi's_classification_of_musical_instruments,53424891]]"
+- '[[_Standards/WikiData/WD~Hornbostel_Sachs,496327|WD~Hornbostel_Sachs,496327]]'
+- "[[_Standards/WikiData/WD~MIMO's_classification_of_musical_instruments,26836418|WD~MIMO's_classification_of_musical_instruments,26836418]]"
+- "[[_Standards/WikiData/WD~Guizzi's_classification_of_musical_instruments,53424891|WD~Guizzi's_classification_of_musical_instruments,53424891]]"
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-subclass_of: '[[_Standards/WikiData/WD~aerophone,659216]]'
-instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Wind_musical_instruments,22849237]]'
-used_by: '[[_Standards/WikiData/WD~wind_instrument_player,97572814]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+subclass_of: '[[_Standards/WikiData/WD~aerophone,659216|WD~aerophone,659216]]'
+instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773|WD~family_of_musical_instruments,1254773]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Wind_musical_instruments,22849237|WD~Template_Wind_musical_instruments,22849237]]'
+used_by: '[[_Standards/WikiData/WD~wind_instrument_player,97572814|WD~wind_instrument_player,97572814]]'
 Hornbostel_Sachs_classification: 42
 Dewey_Decimal_Classification: 788
 Iconclass_notation: 48C735

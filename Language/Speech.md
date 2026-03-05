@@ -97,30 +97,30 @@ aliases:
 - 랑그와 파롤
 has_id_wikidata: Q52946
 subclass_of:
-- '[[_Standards/WikiData/WD~human_communication,1066689]]'
-- '[[_Standards/WikiData/WD~second_signal_system,4127956]]'
-- '[[_Standards/WikiData/WD~sound,11461]]'
-has_effect: '[[_Standards/WikiData/WD~spoken_language,1322198]]'
+- '[[_Standards/WikiData/WD~human_communication,1066689|WD~human_communication,1066689]]'
+- '[[_Standards/WikiData/WD~second_signal_system,4127956|WD~second_signal_system,4127956]]'
+- '[[_Standards/WikiData/WD~sound,11461|WD~sound,11461]]'
+has_effect: '[[_Standards/WikiData/WD~spoken_language,1322198|WD~spoken_language,1322198]]'
 uses:
-- '[[_Standards/WikiData/WD~movement,3326454]]'
-- '[[_Standards/WikiData/WD~human_voice,7390]]'
-- '[[_Standards/WikiData/WD~language,34770]]'
+- '[[_Standards/WikiData/WD~movement,3326454|WD~movement,3326454]]'
+- '[[_Standards/WikiData/WD~human_voice,7390|WD~human_voice,7390]]'
+- '[[_Standards/WikiData/WD~language,34770|WD~language,34770]]'
 fabrication_method:
-- '[[_Standards/WikiData/WD~movement,3326454]]'
-- '[[_Standards/WikiData/WD~vibration,3695508]]'
-instance_of: '[[_Standards/WikiData/WD~action,4026292]]'
+- '[[_Standards/WikiData/WD~movement,3326454|WD~movement,3326454]]'
+- '[[_Standards/WikiData/WD~vibration,3695508|WD~vibration,3695508]]'
+instance_of: '[[_Standards/WikiData/WD~action,4026292|WD~action,4026292]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-different_from: '[[_Standards/WikiData/WD~parole,10485156]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~talking,20680322]]'
-has_part_s_: '[[_Standards/WikiData/WD~speech_act,25481968]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~parole,10485156|WD~parole,10485156]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~talking,20680322|WD~talking,20680322]]'
+has_part_s_: '[[_Standards/WikiData/WD~speech_act,25481968|WD~speech_act,25481968]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~to_say,26254018]]'
-- '[[_Standards/WikiData/WD~language,315]]'
-facet_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
-has_use: '[[_Standards/WikiData/WD~communication,11024]]'
-part_of: '[[_Standards/WikiData/WD~communication,11024]]'
+- '[[_Standards/WikiData/WD~to_say,26254018|WD~to_say,26254018]]'
+- '[[_Standards/WikiData/WD~language,315|WD~language,315]]'
+facet_of: '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
+has_use: '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
+part_of: '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
 OmegaWiki_Defined_Meaning: 4834
 Commons_category: Speech
 Archive_of_Our_Own_tag: Talking
@@ -254,7 +254,7 @@ Unicode_character: 🗣
 # [[Speech]] 🗣 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~speech,52946]] 
+#is_/same_as :: [[_Standards/WikiData/WD~speech,52946|WD~speech,52946]] 
 
 ## #has_/text_of_/abstract 
 

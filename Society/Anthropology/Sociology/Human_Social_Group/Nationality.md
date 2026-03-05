@@ -85,21 +85,21 @@ aliases:
 - ꠎꠣꠔꠤꠅꠔꠣ
 - 국적
 has_id_wikidata: Q231002
-instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
+instance_of: '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~national_identity,1880695]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~national_identity,1880695|WD~national_identity,1880695]]'
 different_from:
-- '[[_Standards/WikiData/WD~ethnicity,5404323]]'
-- '[[_Standards/WikiData/WD~ethnos,12839330]]'
-- '[[_Standards/WikiData/WD~national_demonym,81058955]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-- '[[_Standards/WikiData/WD~nation,6266]]'
-- '[[_Standards/WikiData/WD~state,7275]]'
-- '[[_Standards/WikiData/WD~ethnic_group,41710]]'
-- '[[_Standards/WikiData/WD~citizenship,42138]]'
-subclass_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+- '[[_Standards/WikiData/WD~ethnicity,5404323|WD~ethnicity,5404323]]'
+- '[[_Standards/WikiData/WD~ethnos,12839330|WD~ethnos,12839330]]'
+- '[[_Standards/WikiData/WD~national_demonym,81058955|WD~national_demonym,81058955]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[_Standards/WikiData/WD~nation,6266|WD~nation,6266]]'
+- '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
+- '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
+- '[[_Standards/WikiData/WD~citizenship,42138|WD~citizenship,42138]]'
+subclass_of: '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
 Commons_category: Nationality
 dv_has_:
   name_:

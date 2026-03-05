@@ -52,27 +52,27 @@ aliases:
 - 전기 연결 단자
 has_id_wikidata: Q2119531
 has_part_s_:
-- '[[_Standards/WikiData/WD~insulator,178150]]'
-- '[[_Standards/WikiData/WD~electrical_contact,394001]]'
+- '[[_Standards/WikiData/WD~insulator,178150|WD~insulator,178150]]'
+- '[[_Standards/WikiData/WD~electrical_contact,394001|WD~electrical_contact,394001]]'
 connects_with:
-- '[[_Standards/WikiData/WD~electrical_cable,188447]]'
-- '[[_Standards/WikiData/WD~wire,551997]]'
-- '[[_Standards/WikiData/WD~electrical_connector,2119531]]'
-part_of: '[[_Standards/WikiData/WD~electrical_cable,188447]]'
+- '[[_Standards/WikiData/WD~electrical_cable,188447|WD~electrical_cable,188447]]'
+- '[[_Standards/WikiData/WD~wire,551997|WD~wire,551997]]'
+- '[[_Standards/WikiData/WD~electrical_connector,2119531|WD~electrical_connector,2119531]]'
+part_of: '[[_Standards/WikiData/WD~electrical_cable,188447|WD~electrical_cable,188447]]'
 has_use:
-- '[[_Standards/WikiData/WD~linkage,1153014]]'
-- '[[_Standards/WikiData/WD~electrical_connection,2647496]]'
-different_from: '[[_Standards/WikiData/WD~electrical_junction,5357725]]'
+- '[[_Standards/WikiData/WD~linkage,1153014|WD~linkage,1153014]]'
+- '[[_Standards/WikiData/WD~electrical_connection,2647496|WD~electrical_connection,2647496]]'
+different_from: '[[_Standards/WikiData/WD~electrical_junction,5357725|WD~electrical_junction,5357725]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~connector_gender,5531000]]'
-- '[[_Standards/WikiData/WD~plug_and_receptacle,65035030]]'
+- '[[_Standards/WikiData/WD~connector_gender,5531000|WD~connector_gender,5531000]]'
+- '[[_Standards/WikiData/WD~plug_and_receptacle,65035030|WD~plug_and_receptacle,65035030]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_connector,6326669]]'
-- '[[_Standards/WikiData/WD~Q25988978,25988978]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_connector,6326669|WD~Template_Infobox_connector,6326669]]'
+- '[[_Standards/WikiData/WD~Q25988978,25988978|WD~Q25988978,25988978]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~connector,18819626]]'
-- '[[_Standards/WikiData/WD~electronic_component,11653]]'
-instance_of: '[[_Standards/WikiData/WD~electrical_connector_system,58184783]]'
+- '[[_Standards/WikiData/WD~connector,18819626|WD~connector,18819626]]'
+- '[[_Standards/WikiData/WD~electronic_component,11653|WD~electronic_component,11653]]'
+instance_of: '[[_Standards/WikiData/WD~electrical_connector_system,58184783|WD~electrical_connector_system,58184783]]'
 properties_for_this_type:
 - used by
 - voltage

@@ -46,23 +46,23 @@ aliases:
 - 四元數
 - 사원수
 has_id_wikidata: Q173853
-followed_by: '[[_Standards/WikiData/WD~octonion,743418]]'
-subclass_of: '[[_Standards/WikiData/WD~hypercomplex_number,837414]]'
+followed_by: '[[_Standards/WikiData/WD~octonion,743418|WD~octonion,743418]]'
+subclass_of: '[[_Standards/WikiData/WD~hypercomplex_number,837414|WD~hypercomplex_number,837414]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-part_of: '[[_Standards/WikiData/WD~algebra_of_real_quaternions,47407672]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+part_of: '[[_Standards/WikiData/WD~algebra_of_real_quaternions,47407672|WD~algebra_of_real_quaternions,47407672]]'
 defining_formula:
 - <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>a</mi><mo stretchy="false">+</mo><mi>b</mi><mi>i</mi><mo stretchy="false">+</mo><mi>c</mi><mi>j</mi><mo stretchy="false">+</mo><mi>d</mi><mi>k</mi></mstyle></mrow></math>
 - <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>i</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><msup><mi>j</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><msup><mi>k</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><mi>i</mi><mi>j</mi><mi>k</mi><mo stretchy="false">=</mo><mo stretchy="false">-</mo><mn>1</mn></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>a</mi><mo stretchy="false">+</mo><mi>b</mi><mi>i</mi><mo stretchy="false">+</mo><mi>c</mi><mi>j</mi><mo stretchy="false">+</mo><mi>d</mi><mi>k</mi><mo>,</mo><mspace width="1em"></mspace><msup><mi>i</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><msup><mi>j</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><msup><mi>k</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><mi>i</mi><mi>j</mi><mi>k</mi><mo stretchy="false">=</mo><mo stretchy="false">&#x2212;</mo><mn>1</mn></mstyle></mrow></math>
 time_of_discovery_or_invention: 1843-01-01T00:00:00Z
 inception: 1843-01-01T00:00:00Z
-follows: '[[_Standards/WikiData/WD~complex_number,11567]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Rowan_Hamilton,11887]]'
-has_part_s_: '[[_Standards/WikiData/WD~real_number,12916]]'
+follows: '[[_Standards/WikiData/WD~complex_number,11567|WD~complex_number,11567]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Rowan_Hamilton,11887|WD~William_Rowan_Hamilton,11887]]'
+has_part_s_: '[[_Standards/WikiData/WD~real_number,12916|WD~real_number,12916]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>a</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>i</mi></mstyle></mrow></math>
@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Quaternion]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~quaternion,173853]] 
+#is_/same_as :: [[_Standards/WikiData/WD~quaternion,173853|WD~quaternion,173853]] 
 #has_/creator :: [[Hamilton,William_Rowan]] 
 
 ## #has_/text_of_/abstract 

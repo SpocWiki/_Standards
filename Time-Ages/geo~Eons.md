@@ -34,14 +34,14 @@ aliases:
 has_id_wikidata: Q108256
 Commons_category: Geologic eons
 different_from:
-- '[[_Standards/WikiData/WD~aeon,398085]]'
-- '[[_Standards/WikiData/WD~eonothem,2669627]]'
-has_part_s_: '[[_Standards/WikiData/WD~era,630830]]'
-next_higher_rank: '[[_Standards/WikiData/WD~supereon,15398983]]'
-part_of: '[[_Standards/WikiData/WD~supereon,15398983]]'
-standards_body: '[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]'
-studied_by: '[[_Standards/WikiData/WD~geochronology,213891]]'
-subclass_of: '[[_Standards/WikiData/WD~geochronological_unit,4005761]]'
+- '[[_Standards/WikiData/WD~aeon,398085|WD~aeon,398085]]'
+- '[[_Standards/WikiData/WD~eonothem,2669627|WD~eonothem,2669627]]'
+has_part_s_: '[[_Standards/WikiData/WD~era,630830|WD~era,630830]]'
+next_higher_rank: '[[_Standards/WikiData/WD~supereon,15398983|WD~supereon,15398983]]'
+part_of: '[[_Standards/WikiData/WD~supereon,15398983|WD~supereon,15398983]]'
+standards_body: '[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104|WD~International_Commission_on_Stratigraphy,402104]]'
+studied_by: '[[_Standards/WikiData/WD~geochronology,213891|WD~geochronology,213891]]'
+subclass_of: '[[_Standards/WikiData/WD~geochronological_unit,4005761|WD~geochronological_unit,4005761]]'
 dv_is_:
   part_of: '---'
   same_as:
@@ -120,9 +120,9 @@ dv_has_:
     yue: 宙
     zh: 宙
     zh-hant: 元
-  parts: '[[geo~Eons/geo~Eras]]'
+  parts: '[[geo~Eons/geo~Eras|geo~Eras]]'
 dv_is_part_of: '---'
-dv_has_parts: '[[geo~Eons/geo~Eras]]'
+dv_has_parts: '[[geo~Eons/geo~Eras|geo~Eras]]'
 dv_is_same_as:
 - '[[/_Standards/Time-Ages/geo~Eons|geo~Eons]]'
 - '[[/_public/Time-Ages/geo~Eons.public|geo~Eons.public]]'
@@ -142,7 +142,7 @@ An eon is the largest formal geo-chronologic time unit
 and is equivalent to a chronostratigraphic eonothem. 
 These are several hundred million years to two billion years in length.
 
-They naturally apply to the [[../Earth]] only. E.g. [[../Astronomy/Solar_System/Mars(Planet)|Mars(Planet)]] has its own Periods. 
+They naturally apply to the [[../Earth|Earth]] only. E.g. [[../Astronomy/Solar_System/Mars(Planet)|Mars(Planet)]] has its own Periods. 
 ## Eon 
 
 

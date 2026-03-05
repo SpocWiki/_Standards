@@ -132,7 +132,7 @@ dv_has_:
 > and a Golden Globe Award as well as nominations for a BAFTA Award, 
 > four Emmy Awards, and a Grammy Award. 
 > 
-> He came to prominence for his portrayal of [[Salieri,Antonio]] in the drama [[../../Movie-Genre/Horror-Movie/Film~Amadeus]] for which he won an Academy Award for Best Actor in 1984.
+> He came to prominence for his portrayal of [[Salieri,Antonio]] in the drama [[../../Movie-Genre/Horror-Movie/Film~Amadeus|Film~Amadeus]] for which he won an Academy Award for Best Actor in 1984.
 >
 > Abraham made his Broadway debut in the 1968 play The Man in the Glass Booth. 
 > He received the Obie Award for Outstanding Performance for his roles in Anton Chekhov's 
@@ -147,7 +147,7 @@ dv_has_:
 > which earned him two nominations for the Primetime Emmy Award 
 > for Outstanding Guest Actor in a Drama Series. 
 > 
-> He also starred in Mythic Quest (2020–2021), [[../../Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022)]] 
+> He also starred in Mythic Quest (2020–2021), [[../../Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment/Moon_Knight(2022)|Moon_Knight(2022)]] 
 > and The [[White_Lotus(2022)]], with the latter earning him a 
 > nominations for the Golden Globe Award and the Primetime Emmy Award.
 >

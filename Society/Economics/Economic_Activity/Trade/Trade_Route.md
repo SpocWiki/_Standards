@@ -55,10 +55,10 @@ aliases:
 - 무역로
 has_id_wikidata: Q405155
 subclass_of:
-- '[[_Standards/WikiData/WD~thoroughfare,83620]]'
-- '[[_Standards/WikiData/WD~trade_route,1574938]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Trade_route,7276661]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~thoroughfare,83620|WD~thoroughfare,83620]]'
+- '[[_Standards/WikiData/WD~trade_route,1574938|WD~trade_route,1574938]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Trade_route,7276661|WD~Template_Trade_route,7276661]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 Colon_Classification: U641
 GeoNames_feature_code: R.RTE
 Commons_category: Trade routes
@@ -125,7 +125,7 @@ dv_has_:
 
 # [[Trade_Route]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~trade_route,405155]] 
+#is_/same_as :: [[../../../../WikiData/WD~trade_route,405155|WD~trade_route,405155]] 
 
 ## #has_/text_of_/abstract 
 

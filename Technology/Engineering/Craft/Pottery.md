@@ -114,27 +114,27 @@ aliases:
 - 도예
 has_id_wikidata: Q11642
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-- '[[_Standards/WikiData/WD~handicraft,877729]]'
-- '[[_Standards/WikiData/WD~visual_arts_technique,26904132]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~handicraft,877729|WD~handicraft,877729]]'
+- '[[_Standards/WikiData/WD~visual_arts_technique,26904132|WD~visual_arts_technique,26904132]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~plastic_arts,1078913]]'
-- '[[_Standards/WikiData/WD~crafting,53178539]]'
-practiced_by: '[[_Standards/WikiData/WD~potter,3400050]]'
+- '[[_Standards/WikiData/WD~plastic_arts,1078913|WD~plastic_arts,1078913]]'
+- '[[_Standards/WikiData/WD~crafting,53178539|WD~crafting,53178539]]'
+practiced_by: '[[_Standards/WikiData/WD~potter,3400050|WD~potter,3400050]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~ceramic_art,13464614]]'
-- '[[_Standards/WikiData/WD~pottery_ware,17379525]]'
+- '[[_Standards/WikiData/WD~ceramic_art,13464614|WD~ceramic_art,13464614]]'
+- '[[_Standards/WikiData/WD~pottery_ware,17379525|WD~pottery_ware,17379525]]'
 different_from:
-- '[[_Standards/WikiData/WD~pottery_ware,17379525]]'
-- '[[_Standards/WikiData/WD~pottery_studio,18587891]]'
-- '[[_Standards/WikiData/WD~Alfarería,20134231]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
-made_from_material: '[[_Standards/WikiData/WD~clay,42302]]'
+- '[[_Standards/WikiData/WD~pottery_ware,17379525|WD~pottery_ware,17379525]]'
+- '[[_Standards/WikiData/WD~pottery_studio,18587891|WD~pottery_studio,18587891]]'
+- '[[_Standards/WikiData/WD~Alfarería,20134231|WD~Alfarería,20134231]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806|WD~WikiProject_Craft,110249806]]'
+made_from_material: '[[_Standards/WikiData/WD~clay,42302|WD~clay,42302]]'
 OmegaWiki_Defined_Meaning: 1112152
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Pottenbakkersschijf.JPG

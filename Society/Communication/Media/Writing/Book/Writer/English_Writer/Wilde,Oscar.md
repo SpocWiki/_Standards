@@ -47,83 +47,83 @@ aliases:
 - 오스카 와일드
 has_id_wikidata: Q30875
 archives_at:
-- '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
-- '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
-- '[[_Standards/WikiData/WD~Leeds_University_Library,24568958]]'
-award_received: '[[_Standards/WikiData/WD~Newdigate_Prize,1217528]]'
+- '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779|WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+- '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855|WD~Harry_Ransom_Center,5671855]]'
+- '[[_Standards/WikiData/WD~Leeds_University_Library,24568958|WD~Leeds_University_Library,24568958]]'
+award_received: '[[_Standards/WikiData/WD~Newdigate_Prize,1217528|WD~Newdigate_Prize,1217528]]'
 BHCL_UUID: b2b90553-1e97-47fe-aba6-eaf488b5b33b
-bibliography: '[[_Standards/WikiData/WD~Oscar_Wilde_bibliography,3884082]]'
+bibliography: '[[_Standards/WikiData/WD~Oscar_Wilde_bibliography,3884082|WD~Oscar_Wilde_bibliography,3884082]]'
 birth_name: Oscar Fingal O’Flahertie Wills Wilde
-cause_of_death: '[[_Standards/WikiData/WD~meningitis,48143]]'
+cause_of_death: '[[_Standards/WikiData/WD~meningitis,48143|WD~meningitis,48143]]'
 child:
-- '[[_Standards/WikiData/WD~Vyvyan_Holland,713325]]'
-- '[[_Standards/WikiData/WD~Cyril_Holland,3009019]]'
+- '[[_Standards/WikiData/WD~Vyvyan_Holland,713325|WD~Vyvyan_Holland,713325]]'
+- '[[_Standards/WikiData/WD~Cyril_Holland,3009019|WD~Cyril_Holland,3009019]]'
 Colon_Classification: O111,1M54
 Commons_category: Oscar Wilde
 Commons_Creator_page: Oscar Wilde
 Commons_gallery: Oscar Wilde
-convicted_of: '[[_Standards/WikiData/WD~gross_indecency,5610496]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+convicted_of: '[[_Standards/WikiData/WD~gross_indecency,5610496|WD~gross_indecency,5610496]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
 country_of_citizenship:
-- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-- '[[_Standards/WikiData/WD~Ireland,27]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193|WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~Ireland,27|WD~Ireland,27]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 CYT_CCS: AC000191932
 date_of_birth: 1854-10-16T00:00:00Z
 date_of_death: 1900-11-30T00:00:00Z
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_first_supplement,16014700]]'
-- '[[_Standards/WikiData/WD~Oxford_Dictionary_of_National_Biography,17565097]]'
-- '[[_Standards/WikiData/WD~Alumni_Oxonienses_the_Members_of_the_University_of_Oxford,_1715_1886,19036877]]'
-- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-- '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
-- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-- '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~The_Thief_of_Reason_Oscar_Wilde_and_Modern_Ireland,114510347]]'
-- '[[_Standards/WikiData/WD~Q134356203,134356203]]'
-- '[[_Standards/WikiData/WD~The_Times,50008]]'
-documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850|WD~Concise_Literary_Encyclopedia,4239850]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_first_supplement,16014700|WD~Dictionary_of_National_Biography,_first_supplement,16014700]]'
+- '[[_Standards/WikiData/WD~Oxford_Dictionary_of_National_Biography,17565097|WD~Oxford_Dictionary_of_National_Biography,17565097]]'
+- '[[_Standards/WikiData/WD~Alumni_Oxonienses_the_Members_of_the_University_of_Oxford,_1715_1886,19036877|WD~Alumni_Oxonienses_the_Members_of_the_University_of_Oxford,_1715_1886,19036877]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835|WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Iedereen_Leest,41981607|WD~Iedereen_Leest,41981607]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019|WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609|WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~The_Thief_of_Reason_Oscar_Wilde_and_Modern_Ireland,114510347|WD~The_Thief_of_Reason_Oscar_Wilde_and_Modern_Ireland,114510347]]'
+- '[[_Standards/WikiData/WD~Q134356203,134356203|WD~Q134356203,134356203]]'
+- '[[_Standards/WikiData/WD~The_Times,50008|WD~The_Times,50008]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 educated_at:
-- '[[_Standards/WikiData/WD~Magdalen_College,81162]]'
-- '[[_Standards/WikiData/WD~Trinity_College_Dublin,258464]]'
+- '[[_Standards/WikiData/WD~Magdalen_College,81162|WD~Magdalen_College,81162]]'
+- '[[_Standards/WikiData/WD~Trinity_College_Dublin,258464|WD~Trinity_College_Dublin,258464]]'
 Europeana_entity: agent/base/60190
-family_name: '[[_Standards/WikiData/WD~Wilde,21050435]]'
-father: '[[_Standards/WikiData/WD~William_Wilde,2540254]]'
+family_name: '[[_Standards/WikiData/WD~Wilde,21050435|WD~Wilde,21050435]]'
+father: '[[_Standards/WikiData/WD~William_Wilde,2540254|WD~William_Wilde,2540254]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~fiction,8253972]]'
-- '[[_Standards/WikiData/WD~literary_activity,115160290]]'
-- '[[_Standards/WikiData/WD~prose,676]]'
-- '[[_Standards/WikiData/WD~drama,25372]]'
-- '[[_Standards/WikiData/WD~essay,35760]]'
-- '[[_Standards/WikiData/WD~aesthetics,35986]]'
+- '[[_Standards/WikiData/WD~fiction,8253972|WD~fiction,8253972]]'
+- '[[_Standards/WikiData/WD~literary_activity,115160290|WD~literary_activity,115160290]]'
+- '[[_Standards/WikiData/WD~prose,676|WD~prose,676]]'
+- '[[_Standards/WikiData/WD~drama,25372|WD~drama,25372]]'
+- '[[_Standards/WikiData/WD~essay,35760|WD~essay,35760]]'
+- '[[_Standards/WikiData/WD~aesthetics,35986|WD~aesthetics,35986]]'
 genre:
-- '[[_Standards/WikiData/WD~tragedy,80930]]'
-- '[[_Standards/WikiData/WD~narrative_poetry,474090]]'
-- '[[_Standards/WikiData/WD~Gothic_literature,19715429]]'
-- '[[_Standards/WikiData/WD~drama_fiction,21010853]]'
-- '[[_Standards/WikiData/WD~poetry,482]]'
-- '[[_Standards/WikiData/WD~fairy_tale,699]]'
-- '[[_Standards/WikiData/WD~essay,35760]]'
-- '[[_Standards/WikiData/WD~comedy,40831]]'
-- '[[_Standards/WikiData/WD~short_story,49084]]'
+- '[[_Standards/WikiData/WD~tragedy,80930|WD~tragedy,80930]]'
+- '[[_Standards/WikiData/WD~narrative_poetry,474090|WD~narrative_poetry,474090]]'
+- '[[_Standards/WikiData/WD~Gothic_literature,19715429|WD~Gothic_literature,19715429]]'
+- '[[_Standards/WikiData/WD~drama_fiction,21010853|WD~drama_fiction,21010853]]'
+- '[[_Standards/WikiData/WD~poetry,482|WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~fairy_tale,699|WD~fairy_tale,699]]'
+- '[[_Standards/WikiData/WD~essay,35760|WD~essay,35760]]'
+- '[[_Standards/WikiData/WD~comedy,40831|WD~comedy,40831]]'
+- '[[_Standards/WikiData/WD~short_story,49084|WD~short_story,49084]]'
 given_name:
-- '[[_Standards/WikiData/WD~Oscar,1951683]]'
-- '[[_Standards/WikiData/WD~Fingal,10495329]]'
-- '[[_Standards/WikiData/WD~Wills,19871067]]'
+- '[[_Standards/WikiData/WD~Oscar,1951683|WD~Oscar,1951683]]'
+- '[[_Standards/WikiData/WD~Fingal,10495329|WD~Fingal,10495329]]'
+- '[[_Standards/WikiData/WD~Wills,19871067|WD~Wills,19871067]]'
 Google_Doodle: oscar-wildes-156th-birthday
 has_works_in_the_collection:
-- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
-- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
-- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867|WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335|WD~Stedelijk_Museum_Amsterdam,924335]]'
+- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481|WD~Minneapolis_Institute_of_Art,1700481]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Wilde%20by%20Napoleon%20Sarony.%20Three-quarter-length%20photograph%2C%20seated.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Wilde%20-%20Pere%20Lachaise%20-%2001.jpg
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 ISNI:
 - 121272652
 - 368639911
@@ -131,79 +131,79 @@ ISNI:
 - 368639938
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/UALD_OSKAR.html
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~Latin,397]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~German,188]]'
-- '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+- '[[_Standards/WikiData/WD~Latin,397|WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
+- '[[_Standards/WikiData/WD~Ancient_Greek,35497|WD~Ancient_Greek,35497]]'
 Libris_URI: 42gjk8jn5b26x4v
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-mother: '[[_Standards/WikiData/WD~Jane_Wilde,272303]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Iedereen_Leest,101246526|WD~Iedereen_Leest,101246526]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+mother: '[[_Standards/WikiData/WD~Jane_Wilde,272303|WD~Jane_Wilde,272303]]'
 movement:
-- '[[_Standards/WikiData/WD~Aestheticism,256922]]'
-- '[[_Standards/WikiData/WD~Decadent_movement,846094]]'
+- '[[_Standards/WikiData/WD~Aestheticism,256922|WD~Aestheticism,256922]]'
+- '[[_Standards/WikiData/WD~Decadent_movement,846094|WD~Decadent_movement,846094]]'
 name_in_native_language: Oscar Fingal O’Flahertie Wills Wilde
-native_language: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
 NLC_authorities: 78427
 notable_work:
-- '[[_Standards/WikiData/WD~The_Picture_of_Dorian_Gray,82464]]'
-- '[[_Standards/WikiData/WD~The_Canterville_Ghost,288020]]'
-- '[[_Standards/WikiData/WD~The_Importance_of_Being_Earnest,830501]]'
-- '[[_Standards/WikiData/WD~The_Soul_of_Man_under_Socialism,1196990]]'
-- '[[_Standards/WikiData/WD~The_Ballad_of_Reading_Gaol,2119279]]'
+- '[[_Standards/WikiData/WD~The_Picture_of_Dorian_Gray,82464|WD~The_Picture_of_Dorian_Gray,82464]]'
+- '[[_Standards/WikiData/WD~The_Canterville_Ghost,288020|WD~The_Canterville_Ghost,288020]]'
+- '[[_Standards/WikiData/WD~The_Importance_of_Being_Earnest,830501|WD~The_Importance_of_Being_Earnest,830501]]'
+- '[[_Standards/WikiData/WD~The_Soul_of_Man_under_Socialism,1196990|WD~The_Soul_of_Man_under_Socialism,1196990]]'
+- '[[_Standards/WikiData/WD~The_Ballad_of_Reading_Gaol,2119279|WD~The_Ballad_of_Reading_Gaol,2119279]]'
 occupation:
-- '[[_Standards/WikiData/WD~playwright,214917]]'
-- '[[_Standards/WikiData/WD~author,482980]]'
-- '[[_Standards/WikiData/WD~journalist,1930187]]'
-- '[[_Standards/WikiData/WD~fabulist,3064032]]'
-- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-- '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
-- '[[_Standards/WikiData/WD~novelist,6625963]]'
-- '[[_Standards/WikiData/WD~librettist,8178443]]'
-- '[[_Standards/WikiData/WD~essayist,11774202]]'
-- '[[_Standards/WikiData/WD~prose_writer,12144794]]'
-- '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-- '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~playwright,214917|WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~author,482980|WD~author,482980]]'
+- '[[_Standards/WikiData/WD~journalist,1930187|WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~fabulist,3064032|WD~fabulist,3064032]]'
+- "[[_Standards/WikiData/WD~children's_writer,4853732|WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~opinion_journalist,6051619|WD~opinion_journalist,6051619]]'
+- '[[_Standards/WikiData/WD~novelist,6625963|WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~librettist,8178443|WD~librettist,8178443]]'
+- '[[_Standards/WikiData/WD~essayist,11774202|WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~prose_writer,12144794|WD~prose_writer,12144794]]'
+- '[[_Standards/WikiData/WD~short_story_writer,15949613|WD~short_story_writer,15949613]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757|WD~poet,49757]]'
 official_website: http://www.cmgww.com/historic/wilde/
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685|WD~Wiki99_LGBT+,97285685]]'
 P8189: 987007294196105200
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23695089,23695089]]'
-place_of_birth: '[[_Standards/WikiData/WD~Dublin,1761]]'
-place_of_burial: "[[_Standards/WikiData/WD~Oscar_Wilde's_tomb,12432989]]"
-place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23695089,23695089|WD~Q23695089,23695089]]'
+place_of_birth: '[[_Standards/WikiData/WD~Dublin,1761|WD~Dublin,1761]]'
+place_of_burial: "[[_Standards/WikiData/WD~Oscar_Wilde's_tomb,12432989|WD~Oscar_Wilde's_tomb,12432989]]"
+place_of_death: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
 place_of_detention:
-- '[[_Standards/WikiData/WD~HM_Prison_Wandsworth,386707]]'
-- '[[_Standards/WikiData/WD~HM_Prison_Pentonville,1504639]]'
-- '[[_Standards/WikiData/WD~Newgate_Prison,1822183]]'
-- '[[_Standards/WikiData/WD~HM_Prison_Reading,3930959]]'
+- '[[_Standards/WikiData/WD~HM_Prison_Wandsworth,386707|WD~HM_Prison_Wandsworth,386707]]'
+- '[[_Standards/WikiData/WD~HM_Prison_Pentonville,1504639|WD~HM_Prison_Pentonville,1504639]]'
+- '[[_Standards/WikiData/WD~Newgate_Prison,1822183|WD~Newgate_Prison,1822183]]'
+- '[[_Standards/WikiData/WD~HM_Prison_Reading,3930959|WD~HM_Prison_Reading,3930959]]'
 Plex_person_key: 5d776dbb96b655001fe5167e
 Provenio_UUID: a0bad302-ddc0-4e70-9968-68db4e5cc159
 pseudonym:
 - Sebastian Melmoth
 - С.3.3.
-religion_or_worldview: '[[_Standards/WikiData/WD~Roman_Catholic,7361618]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Roman_Catholic,7361618|WD~Roman_Catholic,7361618]]'
 Royal_Academy_new_identifier: oscar-wilde
-sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636|WD~homosexuality,6636]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 short_name: Oscar Wilde
 sibling:
-- '[[_Standards/WikiData/WD~Willie_Wilde,1606342]]'
-- '[[_Standards/WikiData/WD~Isola_Francesca_Emily_Wilde,96090416]]'
+- '[[_Standards/WikiData/WD~Willie_Wilde,1606342|WD~Willie_Wilde,1606342]]'
+- '[[_Standards/WikiData/WD~Isola_Francesca_Emily_Wilde,96090416|WD~Isola_Francesca_Emily_Wilde,96090416]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Wilde%20Signature.svg
-significant_event: '[[_Standards/WikiData/WD~funeral,201676]]'
-spouse: '[[_Standards/WikiData/WD~Constance_Lloyd,445095]]'
+significant_event: '[[_Standards/WikiData/WD~funeral,201676|WD~funeral,201676]]'
+spouse: '[[_Standards/WikiData/WD~Constance_Lloyd,445095|WD~Constance_Lloyd,445095]]'
 Swedish_Royal_Theater_Archive: Person/1017
-unmarried_partner: '[[_Standards/WikiData/WD~Lord_Alfred_Douglas,460660]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Lord_Alfred_Douglas,460660|WD~Lord_Alfred_Douglas,460660]]'
 U_S_National_Archives_Identifier: 10583185
 Wolfram_Language_entity_code: Entity["Person", "OscarWilde::jptv3"]
-work_location: '[[_Standards/WikiData/WD~England,21]]'
+work_location: '[[_Standards/WikiData/WD~England,21|WD~England,21]]'
 work_period_end_: 1900-01-01T00:00:00Z
 work_period_start_: 1878-01-01T00:00:00Z
 writing_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
 dv_has_:
   name_:
     af: Oscar Wilde
@@ -354,7 +354,7 @@ dv_has_:
 #has_/time_/stopped  ::  1900-11-30 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
-#is_/same_as ::  [[../../../../../../../WikiData/WD~Oscar_Wilde,30875]] 
+#is_/same_as ::  [[../../../../../../../WikiData/WD~Oscar_Wilde,30875|WD~Oscar_Wilde,30875]] 
 #has_/created_/quote  :: The only way to get rid of a temptation is to yield to it. 
 #has_/created_/quote  :: I can resist everything except temptation. 
 #has_/created_/quote  :: To love oneself is the beginning of a lifelong romance. 

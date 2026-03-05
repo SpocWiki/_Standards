@@ -223,36 +223,36 @@ aliases:
 has_id_wikidata: Q8495
 carbon_footprint: 1.3
 Colon_Classification: KX31:71
-color: '[[_Standards/WikiData/WD~white,23444]]'
+color: '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
 Commons_category: Milk
 Commons_gallery: Milk
 Common_Procurement_Vocabulary_code: 15511000-3
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 different_from:
-- '[[_Standards/WikiData/WD~Milch,10856507]]'
-- "[[_Standards/WikiData/WD~cow's_milk,10988133]]"
+- '[[_Standards/WikiData/WD~Milch,10856507|WD~Milch,10856507]]'
+- "[[_Standards/WikiData/WD~cow's_milk,10988133|WD~cow's_milk,10988133]]"
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000012
 GEMS_Code: ML0106
 GS1_GPC_code: 10000025
 hashtag: milk
 has_part_s_:
-- '[[_Standards/WikiData/WD~fat,127980]]'
-- '[[_Standards/WikiData/WD~liquid_water,29053744]]'
-- '[[_Standards/WikiData/WD~sodium_chloride,2314]]'
-- '[[_Standards/WikiData/WD~protein,8054]]'
+- '[[_Standards/WikiData/WD~fat,127980|WD~fat,127980]]'
+- '[[_Standards/WikiData/WD~liquid_water,29053744|WD~liquid_water,29053744]]'
+- '[[_Standards/WikiData/WD~sodium_chloride,2314|WD~sodium_chloride,2314]]'
+- '[[_Standards/WikiData/WD~protein,8054|WD~protein,8054]]'
 has_use:
-- '[[_Standards/WikiData/WD~dairy_product,185217]]'
-- '[[_Standards/WikiData/WD~dairy-milk_beverage,115435123]]'
+- '[[_Standards/WikiData/WD~dairy_product,185217|WD~dairy_product,185217]]'
+- '[[_Standards/WikiData/WD~dairy-milk_beverage,115435123|WD~dairy-milk_beverage,115435123]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Glass%20of%20Milk%20%2833657535532%29.jpg
-instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
 MeSH_tree_code:
 - A12.200.455
 - G07.203.100.700
@@ -261,20 +261,20 @@ MeSH_tree_code:
 - J02.500.350.525
 - A12.790
 OmegaWiki_Defined_Meaning: 2358
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q97263987,97263987]]'
-produced_by: '[[_Standards/WikiData/WD~mammary_gland,189961]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q97263987,97263987|WD~Q97263987,97263987]]'
+produced_by: '[[_Standards/WikiData/WD~mammary_gland,189961|WD~mammary_gland,189961]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Jer-lait.ogg
 subclass_of:
-- '[[_Standards/WikiData/WD~emulsion,187634]]'
-- '[[_Standards/WikiData/WD~body_fluid,1058795]]'
-- '[[_Standards/WikiData/WD~non-alcoholic_beverage,2647467]]'
-- '[[_Standards/WikiData/WD~secretion,12334861]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-- '[[_Standards/WikiData/WD~dairy-milk_beverage,115435123]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9019827,9019827]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Milk_navbox,18343332]]'
+- '[[_Standards/WikiData/WD~emulsion,187634|WD~emulsion,187634]]'
+- '[[_Standards/WikiData/WD~body_fluid,1058795|WD~body_fluid,1058795]]'
+- '[[_Standards/WikiData/WD~non-alcoholic_beverage,2647467|WD~non-alcoholic_beverage,2647467]]'
+- '[[_Standards/WikiData/WD~secretion,12334861|WD~secretion,12334861]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~dairy-milk_beverage,115435123|WD~dairy-milk_beverage,115435123]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9019827,9019827|WD~Q9019827,9019827]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Milk_navbox,18343332|WD~Template_Milk_navbox,18343332]]'
 UMLS_CUI: C0026131
 USDA_NDB_number:
 - 1059

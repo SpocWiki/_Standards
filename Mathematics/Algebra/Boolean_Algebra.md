@@ -64,13 +64,13 @@ aliases:
 - 邏輯代數
 - 불 논리
 has_id_wikidata: Q173183
-named_after: '[[_Standards/WikiData/WD~George_Boole,134661]]'
+named_after: '[[_Standards/WikiData/WD~George_Boole,134661|WD~George_Boole,134661]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~Boolean_function,942353]]'
-- '[[_Standards/WikiData/WD~Boolean_algebra,4973304]]'
-instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-different_from: '[[_Standards/WikiData/WD~Boolean_algebra,4973304]]'
-subclass_of: '[[_Standards/WikiData/WD~algebra,3968]]'
+- '[[_Standards/WikiData/WD~Boolean_function,942353|WD~Boolean_function,942353]]'
+- '[[_Standards/WikiData/WD~Boolean_algebra,4973304|WD~Boolean_algebra,4973304]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384|WD~area_of_mathematics,1936384]]'
+different_from: '[[_Standards/WikiData/WD~Boolean_algebra,4973304|WD~Boolean_algebra,4973304]]'
+subclass_of: '[[_Standards/WikiData/WD~algebra,3968|WD~algebra,3968]]'
 Stack_Exchange_tag: https://math.stackexchange.com/tags/boolean-algebra
 Dewey_Decimal_Classification: 511.324
 P8189: 987007293933005171
@@ -178,7 +178,7 @@ dv_has_:
 > Boolean algebra is therefore a formal way of describing logical operations 
 > in the same way that elementary algebra describes numerical operations.
 >
-> Boolean algebra was introduced by [[../../../_Standards/Mathematics/Mathematician/Boole,George]] in his first book 
+> Boolean algebra was introduced by [[../../../_Standards/Mathematics/Mathematician/Boole,George|Boole,George]] in his first book 
 > The Mathematical Analysis of Logic (1847), 
 > and set forth more fully in his An Investigation of the Laws of Thought (1854).
 >

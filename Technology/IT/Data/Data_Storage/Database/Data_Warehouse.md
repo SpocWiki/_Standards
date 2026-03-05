@@ -50,13 +50,13 @@ aliases:
 - 资料仓储
 - 데이터 웨어하우스
 has_id_wikidata: Q193351
-has_use: '[[_Standards/WikiData/WD~data_mining,172491]]'
+has_use: '[[_Standards/WikiData/WD~data_mining,172491|WD~data_mining,172491]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~data_set,1172284]]'
-- '[[_Standards/WikiData/WD~repository,2145117]]'
-has_characteristic: '[[_Standards/WikiData/WD~dimension,4449270]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Data_warehouse,18518728]]'
-part_of: '[[_Standards/WikiData/WD~management_information_system,61905]]'
+- '[[_Standards/WikiData/WD~data_set,1172284|WD~data_set,1172284]]'
+- '[[_Standards/WikiData/WD~repository,2145117|WD~repository,2145117]]'
+has_characteristic: '[[_Standards/WikiData/WD~dimension,4449270|WD~dimension,4449270]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Data_warehouse,18518728|WD~Template_Data_warehouse,18518728]]'
+part_of: '[[_Standards/WikiData/WD~management_information_system,61905|WD~management_information_system,61905]]'
 OmegaWiki_Defined_Meaning: 865522
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Data%20warehouse%20overview.JPG
 MeSH_tree_code:

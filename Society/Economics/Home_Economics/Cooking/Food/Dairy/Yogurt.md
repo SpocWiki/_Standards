@@ -84,15 +84,15 @@ aliases:
 - 요구르트
 has_id_wikidata: Q13317
 subclass_of:
-- '[[_Standards/WikiData/WD~dairy_product,185217]]'
-- '[[_Standards/WikiData/WD~fermented_milk_products,_other_than_sour_cream_and_cottage_cheese,26868224]]'
-- '[[_Standards/WikiData/WD~yoghurt_and_other_types_of_milk_or_cream,_fermented_or_soured,26868628]]'
-produced_by: '[[_Standards/WikiData/WD~Lactobacillus_delbrueckii_subsp._bulgaricus,262677]]'
-part_of: '[[_Standards/WikiData/WD~Turkish_cuisine,654493]]'
-instance_of: '[[_Standards/WikiData/WD~food_product,951964]]'
-described_by_source: '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-has_part_s_: '[[_Standards/WikiData/WD~milk,8495]]'
-made_from_material: '[[_Standards/WikiData/WD~milk,8495]]'
+- '[[_Standards/WikiData/WD~dairy_product,185217|WD~dairy_product,185217]]'
+- '[[_Standards/WikiData/WD~fermented_milk_products,_other_than_sour_cream_and_cottage_cheese,26868224|WD~fermented_milk_products,_other_than_sour_cream_and_cottage_cheese,26868224]]'
+- '[[_Standards/WikiData/WD~yoghurt_and_other_types_of_milk_or_cream,_fermented_or_soured,26868628|WD~yoghurt_and_other_types_of_milk_or_cream,_fermented_or_soured,26868628]]'
+produced_by: '[[_Standards/WikiData/WD~Lactobacillus_delbrueckii_subsp._bulgaricus,262677|WD~Lactobacillus_delbrueckii_subsp._bulgaricus,262677]]'
+part_of: '[[_Standards/WikiData/WD~Turkish_cuisine,654493|WD~Turkish_cuisine,654493]]'
+instance_of: '[[_Standards/WikiData/WD~food_product,951964|WD~food_product,951964]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+has_part_s_: '[[_Standards/WikiData/WD~milk,8495|WD~milk,8495]]'
+made_from_material: '[[_Standards/WikiData/WD~milk,8495|WD~milk,8495]]'
 food_energy:
 - 230
 - 59

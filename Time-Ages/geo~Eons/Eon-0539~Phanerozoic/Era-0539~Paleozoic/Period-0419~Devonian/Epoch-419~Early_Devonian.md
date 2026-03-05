@@ -44,12 +44,12 @@ aliases:
 ischart: LowerDevonian
 has_id_wikidata: Q731293
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q32104229,32104229]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32104229,32104229|WD~Q32104229,32104229]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -393300000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Devon,23156]]'
+named_after: '[[_Standards/WikiData/WD~Devon,23156|WD~Devon,23156]]'
 start_time: -419200000-01-01T00:00:00Z
 sRGB_color_hex_triplet: EFB063
 Dewey_Decimal_Classification: 551.74
@@ -159,7 +159,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 419.2 to 393.3 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-420_Ma_(Přídolí_Epoch).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-420_Ma_(Přídolí_Epoch).png|Earth-420_Ma_(Přídolí_Epoch).png]] 
 
 ## #has_/text_of_/abstract 
 

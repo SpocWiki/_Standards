@@ -52,36 +52,36 @@ aliases:
 - "\U00012291\U00012140"
 has_id_wikidata: Q1252904
 child:
-- '[[_Standards/WikiData/WD~Tefnut,116273]]'
-- '[[_Standards/WikiData/WD~Bastet,129106]]'
-- '[[_Standards/WikiData/WD~Seth,131795]]'
-- '[[_Standards/WikiData/WD~Hathor,133343]]'
-- '[[_Standards/WikiData/WD~Nekhbet,145915]]'
-- '[[_Standards/WikiData/WD~Wadjet,146007]]'
-- '[[_Standards/WikiData/WD~Sekhmet,146104]]'
-- '[[_Standards/WikiData/WD~Maat,170471]]'
+- '[[_Standards/WikiData/WD~Tefnut,116273|WD~Tefnut,116273]]'
+- '[[_Standards/WikiData/WD~Bastet,129106|WD~Bastet,129106]]'
+- '[[_Standards/WikiData/WD~Seth,131795|WD~Seth,131795]]'
+- '[[_Standards/WikiData/WD~Hathor,133343|WD~Hathor,133343]]'
+- '[[_Standards/WikiData/WD~Nekhbet,145915|WD~Nekhbet,145915]]'
+- '[[_Standards/WikiData/WD~Wadjet,146007|WD~Wadjet,146007]]'
+- '[[_Standards/WikiData/WD~Sekhmet,146104|WD~Sekhmet,146104]]'
+- '[[_Standards/WikiData/WD~Maat,170471|WD~Maat,170471]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Ancient_Egyptian_deity,146083]]'
-- '[[_Standards/WikiData/WD~solar_deity,511056]]'
-enemy: '[[_Standards/WikiData/WD~Apophis,190511]]'
-mother: '[[_Standards/WikiData/WD~Neith,191815]]'
-part_of: '[[_Standards/WikiData/WD~Egyptian_mythology,205740]]'
-father: '[[_Standards/WikiData/WD~Nun,276563]]'
-worshipped_by: '[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]'
+- '[[_Standards/WikiData/WD~Ancient_Egyptian_deity,146083|WD~Ancient_Egyptian_deity,146083]]'
+- '[[_Standards/WikiData/WD~solar_deity,511056|WD~solar_deity,511056]]'
+enemy: '[[_Standards/WikiData/WD~Apophis,190511|WD~Apophis,190511]]'
+mother: '[[_Standards/WikiData/WD~Neith,191815|WD~Neith,191815]]'
+part_of: '[[_Standards/WikiData/WD~Egyptian_mythology,205740|WD~Egyptian_mythology,205740]]'
+father: '[[_Standards/WikiData/WD~Nun,276563|WD~Nun,276563]]'
+worshipped_by: '[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131|WD~religion_of_ancient_Egypt,447131]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 connects_with:
-- '[[_Standards/WikiData/WD~Eye_of_Ra,760218]]'
-- '[[_Standards/WikiData/WD~Egyptian_winged_solar_disk,3709400]]'
-different_from: '[[_Standards/WikiData/WD~Ra_expeditions,2124769]]'
-history_of_topic: '[[_Standards/WikiData/WD~myth_of_Ra,3331816]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Zeus,34201]]'
+- '[[_Standards/WikiData/WD~Eye_of_Ra,760218|WD~Eye_of_Ra,760218]]'
+- '[[_Standards/WikiData/WD~Egyptian_winged_solar_disk,3709400|WD~Egyptian_winged_solar_disk,3709400]]'
+different_from: '[[_Standards/WikiData/WD~Ra_expeditions,2124769|WD~Ra_expeditions,2124769]]'
+history_of_topic: '[[_Standards/WikiData/WD~myth_of_Ra,3331816|WD~myth_of_Ra,3331816]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Zeus,34201|WD~Zeus,34201]]'
 Commons_category: Ra
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Ra%20Enthroned%20in%20the%20Tomb%20of%20Roy.jpg

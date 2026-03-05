@@ -96,7 +96,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> **Falcon 9** is a partially reusable, [[../Human-rating_Certification]], 
+> **Falcon 9** is a partially reusable, [[../Human-rating_Certification|Human-rating_Certification]], 
 > two-stage-to-orbit, medium-lift launch vehicle 
 > designed and manufactured in the United States by SpaceX. 
 > 

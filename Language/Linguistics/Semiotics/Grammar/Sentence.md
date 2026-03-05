@@ -116,21 +116,21 @@ aliases:
 - 문장
 has_id_wikidata: Q41796
 different_from:
-- '[[_Standards/WikiData/WD~phrase,187931]]'
-- '[[_Standards/WikiData/WD~sentence,348486]]'
-- '[[_Standards/WikiData/WD~sentence,1763090]]'
+- '[[_Standards/WikiData/WD~phrase,187931|WD~phrase,187931]]'
+- '[[_Standards/WikiData/WD~sentence,348486|WD~sentence,348486]]'
+- '[[_Standards/WikiData/WD~sentence,1763090|WD~sentence,1763090]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~utterance,258403]]'
-- '[[_Standards/WikiData/WD~Q12132146,12132146]]'
-- '[[_Standards/WikiData/WD~semantic_unit,15916540]]'
-- '[[_Standards/WikiData/WD~form,115786086]]'
+- '[[_Standards/WikiData/WD~utterance,258403|WD~utterance,258403]]'
+- '[[_Standards/WikiData/WD~Q12132146,12132146|WD~Q12132146,12132146]]'
+- '[[_Standards/WikiData/WD~semantic_unit,15916540|WD~semantic_unit,15916540]]'
+- '[[_Standards/WikiData/WD~form,115786086|WD~form,115786086]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~constituent,1786828]]'
-opposite_of: '[[_Standards/WikiData/WD~Q9380011,9380011]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~constituent,1786828|WD~constituent,1786828]]'
+opposite_of: '[[_Standards/WikiData/WD~Q9380011,9380011|WD~Q9380011,9380011]]'
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/PREDLOZHENIE.html
 Gujarati_Vishwakosh_entry: વાક્ય
 dv_has_:

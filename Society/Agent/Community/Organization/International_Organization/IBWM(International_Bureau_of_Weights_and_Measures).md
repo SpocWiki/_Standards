@@ -65,30 +65,30 @@ aliases:
 - 국제계량국
 has_id_wikidata: Q229478
 director_manager:
-- '[[_Standards/WikiData/WD~Charles_Édouard_Guillaume,123026]]'
-- '[[_Standards/WikiData/WD~Ole_Jacob_Broch,1367532]]'
-- '[[_Standards/WikiData/WD~Michael_Kühne,1928359]]'
-- '[[_Standards/WikiData/WD~René_Benoît,55711481]]'
-- '[[_Standards/WikiData/WD~Terry_Quinn,95627733]]'
-- '[[_Standards/WikiData/WD~Andrew_John_Wallard,104052895]]'
-- '[[_Standards/WikiData/WD~Martin_J_T_Milton,128605389]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Sèvres,206493]]'
+- '[[_Standards/WikiData/WD~Charles_Édouard_Guillaume,123026|WD~Charles_Édouard_Guillaume,123026]]'
+- '[[_Standards/WikiData/WD~Ole_Jacob_Broch,1367532|WD~Ole_Jacob_Broch,1367532]]'
+- '[[_Standards/WikiData/WD~Michael_Kühne,1928359|WD~Michael_Kühne,1928359]]'
+- '[[_Standards/WikiData/WD~René_Benoît,55711481|WD~René_Benoît,55711481]]'
+- '[[_Standards/WikiData/WD~Terry_Quinn,95627733|WD~Terry_Quinn,95627733]]'
+- '[[_Standards/WikiData/WD~Andrew_John_Wallard,104052895|WD~Andrew_John_Wallard,104052895]]'
+- '[[_Standards/WikiData/WD~Martin_J_T_Milton,128605389|WD~Martin_J_T_Milton,128605389]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Sèvres,206493|WD~Sèvres,206493]]'
 instance_of:
-- '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
 member_of:
-- '[[_Standards/WikiData/WD~Joint_Committee_for_Traceability_in_Laboratory_Medicine,6269138]]'
-- '[[_Standards/WikiData/WD~Joint_Committee_for_Guides_in_Metrology,18283219]]'
+- '[[_Standards/WikiData/WD~Joint_Committee_for_Traceability_in_Laboratory_Medicine,6269138|WD~Joint_Committee_for_Traceability_in_Laboratory_Medicine,6269138]]'
+- '[[_Standards/WikiData/WD~Joint_Committee_for_Guides_in_Metrology,18283219|WD~Joint_Committee_for_Guides_in_Metrology,18283219]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~weights_and_measures,72389425]]'
-- '[[_Standards/WikiData/WD~metrology,394]]'
-- '[[_Standards/WikiData/WD~measurement,12453]]'
-- '[[_Standards/WikiData/WD~International_System_of_Units,12457]]'
-industry: '[[_Standards/WikiData/WD~activities_of_extraterritorial_organizations_and_bodies,112166212]]'
-legal_form: '[[_Standards/WikiData/WD~Q112176659,112176659]]'
+- '[[_Standards/WikiData/WD~weights_and_measures,72389425|WD~weights_and_measures,72389425]]'
+- '[[_Standards/WikiData/WD~metrology,394|WD~metrology,394]]'
+- '[[_Standards/WikiData/WD~measurement,12453|WD~measurement,12453]]'
+- '[[_Standards/WikiData/WD~International_System_of_Units,12457|WD~International_System_of_Units,12457]]'
+industry: '[[_Standards/WikiData/WD~activities_of_extraterritorial_organizations_and_bodies,112166212|WD~activities_of_extraterritorial_organizations_and_bodies,112166212]]'
+legal_form: '[[_Standards/WikiData/WD~Q112176659,112176659|WD~Q112176659,112176659]]'
 inception: 1875-05-20T00:00:00Z
-country: '[[_Standards/WikiData/WD~France,142]]'
-official_language: '[[_Standards/WikiData/WD~French,150]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+official_language: '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
 EU_Corporate_body_code: IBWM
 short_name:
 - BIPM

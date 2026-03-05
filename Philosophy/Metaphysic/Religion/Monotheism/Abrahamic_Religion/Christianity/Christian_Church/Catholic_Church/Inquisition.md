@@ -76,38 +76,38 @@ aliases:
 - 종교 재판
 has_id_wikidata: Q43173
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706|WD~Infernal_Dictionary,_6th_ed.,20961706]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Dicastery_for_the_Doctrine_of_the_Faith,625356]]'
-- '[[_Standards/WikiData/WD~Roman_Inquisition,3286938]]'
-- '[[_Standards/WikiData/WD~Sacred_Congregation_of_the_Holy_Office,104289954]]'
-- '[[_Standards/WikiData/WD~Dicastery_for_the_Doctrine_of_the_Faith,113468884]]'
-- '[[_Standards/WikiData/WD~Papal_Inquisition,115983953]]'
-- '[[_Standards/WikiData/WD~Episcopal_Inquisition,115984489]]'
+- '[[_Standards/WikiData/WD~Dicastery_for_the_Doctrine_of_the_Faith,625356|WD~Dicastery_for_the_Doctrine_of_the_Faith,625356]]'
+- '[[_Standards/WikiData/WD~Roman_Inquisition,3286938|WD~Roman_Inquisition,3286938]]'
+- '[[_Standards/WikiData/WD~Sacred_Congregation_of_the_Holy_Office,104289954|WD~Sacred_Congregation_of_the_Holy_Office,104289954]]'
+- '[[_Standards/WikiData/WD~Dicastery_for_the_Doctrine_of_the_Faith,113468884|WD~Dicastery_for_the_Doctrine_of_the_Faith,113468884]]'
+- '[[_Standards/WikiData/WD~Papal_Inquisition,115983953|WD~Papal_Inquisition,115983953]]'
+- '[[_Standards/WikiData/WD~Episcopal_Inquisition,115984489|WD~Episcopal_Inquisition,115984489]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tribunal,1412224]]'
-- '[[_Standards/WikiData/WD~religious_organization,1530022]]'
-- '[[_Standards/WikiData/WD~ecclesiastical_court,1640717]]'
-- '[[_Standards/WikiData/WD~legal_system,2478386]]'
-- '[[_Standards/WikiData/WD~type_of_Roman_Catholic_institution,118905629]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q22884814,22884814]]'
+- '[[_Standards/WikiData/WD~tribunal,1412224|WD~tribunal,1412224]]'
+- '[[_Standards/WikiData/WD~religious_organization,1530022|WD~religious_organization,1530022]]'
+- '[[_Standards/WikiData/WD~ecclesiastical_court,1640717|WD~ecclesiastical_court,1640717]]'
+- '[[_Standards/WikiData/WD~legal_system,2478386|WD~legal_system,2478386]]'
+- '[[_Standards/WikiData/WD~type_of_Roman_Catholic_institution,118905629|WD~type_of_Roman_Catholic_institution,118905629]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q22884814,22884814|WD~Q22884814,22884814]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Valenza_Gradenigo_before_the_Inquisition,105001687]]'
-- "[[_Standards/WikiData/WD~Valenza_Gradenigo_al_cospetto_dell'inquisitore_suo_padre,131617919]]"
-industry: '[[_Standards/WikiData/WD~religious_congregations_and_associations,130370869]]'
+- '[[_Standards/WikiData/WD~Valenza_Gradenigo_before_the_Inquisition,105001687|WD~Valenza_Gradenigo_before_the_Inquisition,105001687]]'
+- "[[_Standards/WikiData/WD~Valenza_Gradenigo_al_cospetto_dell'inquisitore_suo_padre,131617919|WD~Valenza_Gradenigo_al_cospetto_dell'inquisitore_suo_padre,131617919]]"
+industry: '[[_Standards/WikiData/WD~religious_congregations_and_associations,130370869|WD~religious_congregations_and_associations,130370869]]'
 start_time: 1184-01-01T00:00:00Z
-part_of: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
-different_from: '[[_Standards/WikiData/WD~inquisitorial_system,25669]]'
+part_of: '[[_Standards/WikiData/WD~Catholic_Church,9592|WD~Catholic_Church,9592]]'
+different_from: '[[_Standards/WikiData/WD~inquisitorial_system,25669|WD~inquisitorial_system,25669]]'
 Commons_gallery: Inquisition
 Commons_category: Inquisition
 OmegaWiki_Defined_Meaning: 1230277

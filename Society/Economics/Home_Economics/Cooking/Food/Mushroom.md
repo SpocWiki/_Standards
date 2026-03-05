@@ -138,22 +138,22 @@ aliases:
 - 蘑菇
 - 버섯
 has_id_wikidata: Q83093
-different_from: '[[_Standards/WikiData/WD~Aethalops,581985]]'
+different_from: '[[_Standards/WikiData/WD~Aethalops,581985|WD~Aethalops,581985]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~pileus,694118]]'
-- '[[_Standards/WikiData/WD~stipe,694131]]'
-- '[[_Standards/WikiData/WD~hymenium,914105]]'
-- '[[_Standards/WikiData/WD~hymenophore,1508277]]'
+- '[[_Standards/WikiData/WD~pileus,694118|WD~pileus,694118]]'
+- '[[_Standards/WikiData/WD~stipe,694131|WD~stipe,694131]]'
+- '[[_Standards/WikiData/WD~hymenium,914105|WD~hymenium,914105]]'
+- '[[_Standards/WikiData/WD~hymenophore,1508277|WD~hymenophore,1508277]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085950]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~fruiting_body,1132089]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085950|WD~The_Encyclopedia_Americana,19085950]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~fruiting_body,1132089|WD~fruiting_body,1132089]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~fungal_structure,56883667]]'
-- '[[_Standards/WikiData/WD~organism,7239]]'
+- '[[_Standards/WikiData/WD~fungal_structure,56883667|WD~fungal_structure,56883667]]'
+- '[[_Standards/WikiData/WD~organism,7239|WD~organism,7239]]'
 properties_for_this_type:
 - hymenium attachment
 - mushroom cap shape

@@ -63,16 +63,16 @@ aliases:
 - 정지 궤도
 has_id_wikidata: Q192316
 subclass_of:
-- '[[_Standards/WikiData/WD~geosynchronous_orbit,472251]]'
-- '[[_Standards/WikiData/WD~stationary_orbit,7604345]]'
-part_of: '[[_Standards/WikiData/WD~outer_space,4169]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Earth,2]]'
+- '[[_Standards/WikiData/WD~geosynchronous_orbit,472251|WD~geosynchronous_orbit,472251]]'
+- '[[_Standards/WikiData/WD~stationary_orbit,7604345|WD~stationary_orbit,7604345]]'
+part_of: '[[_Standards/WikiData/WD~outer_space,4169|WD~outer_space,4169]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
 short_name: GEO
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Geostationaryjava3D.gif
 Commons_category: Geostationary orbit
 dv_is_:
   same_as:
-  - '[[../WikiData/WD~Geostationary_orbit,192316]]'
+  - '[[../WikiData/WD~Geostationary_orbit,192316|WD~Geostationary_orbit,192316]]'
   - '[[/_Standards/Earth/Geostationary_Orbit|Geostationary_Orbit]]'
   - '[[/_public/Earth/Geostationary_Orbit.public|Geostationary_Orbit.public]]'
   - '[[/_internal/Earth/Geostationary_Orbit.internal|Geostationary_Orbit.internal]]'
@@ -81,7 +81,7 @@ dv_is_:
   - '[[/_personal/Earth/Geostationary_Orbit.personal|Geostationary_Orbit.personal]]'
   - '[[/_secret/Earth/Geostationary_Orbit.secret|Geostationary_Orbit.secret]]'
 dv_is_same_as:
-- '[[../WikiData/WD~Geostationary_orbit,192316]]'
+- '[[../WikiData/WD~Geostationary_orbit,192316|WD~Geostationary_orbit,192316]]'
 - '[[/_Standards/Earth/Geostationary_Orbit|Geostationary_Orbit]]'
 - '[[/_public/Earth/Geostationary_Orbit.public|Geostationary_Orbit.public]]'
 - '[[/_internal/Earth/Geostationary_Orbit.internal|Geostationary_Orbit.internal]]'

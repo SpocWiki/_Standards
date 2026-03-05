@@ -30,13 +30,13 @@ aliases:
 - 瓜德鲁普世
 - 瓜達鹿白階
 has_id_wikidata: Q1077376
-partially_coincident_with: '[[_Standards/WikiData/WD~Zechstein,184168]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Zechstein,184168|WD~Zechstein,184168]]'
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897]]'
-named_after: '[[_Standards/WikiData/WD~Guadalupe_Mountains,5613246]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Guadalupian,21557529]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Guadalupe_Mountains,5613246|WD~Guadalupe_Mountains,5613246]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Guadalupian,21557529|WD~Category_Guadalupian,21557529]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 sRGB_color_hex_triplet: FE8367
 start_time: -272950000-01-01T00:00:00Z
 end_time: -259100000-01-01T00:00:00Z
@@ -149,7 +149,7 @@ has_next_item = `=this.dv_has_next_item`
 
 A time period from 273.01 to 259.51 million years ago. 
 
-![[../../../../../../xLarge/Earth/Geology/Earth-265_Ma_(Wordian_Age).png]] 
+![[../../../../../../xLarge/Earth/Geology/Earth-265_Ma_(Wordian_Age).png|Earth-265_Ma_(Wordian_Age).png]] 
 
 
 ## #has_/text_of_/abstract 

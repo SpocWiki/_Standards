@@ -64,11 +64,11 @@ aliases:
 - 토후국
 has_id_wikidata: Q189898
 subclass_of:
-- '[[_Standards/WikiData/WD~realm,1250464]]'
-- '[[_Standards/WikiData/WD~Islamic_state,4204060]]'
-- '[[_Standards/WikiData/WD~state,7275]]'
-instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
+- '[[_Standards/WikiData/WD~realm,1250464|WD~realm,1250464]]'
+- '[[_Standards/WikiData/WD~Islamic_state,4204060|WD~Islamic_state,4204060]]'
+- '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Politics,5492483|WD~WikiProject_Politics,5492483]]'
 Commons_category: Emirates
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Emiratos.PNG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4.wav

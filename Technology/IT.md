@@ -132,28 +132,28 @@ aliases:
 - 资讯科技
 - 정보기술
 has_id_wikidata: Q11661
-history_of_topic: '[[_Standards/WikiData/WD~history_of_computer_science,1189238]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_computer_science,1189238|WD~history_of_computer_science,1189238]]'
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~information_systems_technician,3323515]]'
-- '[[_Standards/WikiData/WD~technology_specialist,5157565]]'
-- '[[_Standards/WikiData/WD~Information_Systems_Technician,6030872]]'
-- '[[_Standards/WikiData/WD~IT_professional,56604309]]'
-- '[[_Standards/WikiData/WD~information_technology_instructor,56827203]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Information_technology,3874978]]'
+- '[[_Standards/WikiData/WD~information_systems_technician,3323515|WD~information_systems_technician,3323515]]'
+- '[[_Standards/WikiData/WD~technology_specialist,5157565|WD~technology_specialist,5157565]]'
+- '[[_Standards/WikiData/WD~Information_Systems_Technician,6030872|WD~Information_Systems_Technician,6030872]]'
+- '[[_Standards/WikiData/WD~IT_professional,56604309|WD~IT_professional,56604309]]'
+- '[[_Standards/WikiData/WD~information_technology_instructor,56827203|WD~information_technology_instructor,56827203]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Information_technology,3874978|WD~Portal_Information_technology,3874978]]'
 studied_by:
-- '[[_Standards/WikiData/WD~informatics,4027615]]'
-- '[[_Standards/WikiData/WD~information_systems_studies,64812807]]'
-different_from: '[[_Standards/WikiData/WD~informatics,4027615]]'
-part_of: '[[_Standards/WikiData/WD~information_and_communications_technology,5268834]]'
+- '[[_Standards/WikiData/WD~informatics,4027615|WD~informatics,4027615]]'
+- '[[_Standards/WikiData/WD~information_systems_studies,64812807|WD~information_systems_studies,64812807]]'
+different_from: '[[_Standards/WikiData/WD~informatics,4027615|WD~informatics,4027615]]'
+part_of: '[[_Standards/WikiData/WD~information_and_communications_technology,5268834|WD~information_and_communications_technology,5268834]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~information_and_communications_technology,5268834]]'
-- '[[_Standards/WikiData/WD~service,7406919]]'
-industry: '[[_Standards/WikiData/WD~information_technology_industry,110702998]]'
-has_immediate_cause: '[[_Standards/WikiData/WD~information,11028]]'
-has_contributing_factor: '[[_Standards/WikiData/WD~data,42848]]'
+- '[[_Standards/WikiData/WD~information_and_communications_technology,5268834|WD~information_and_communications_technology,5268834]]'
+- '[[_Standards/WikiData/WD~service,7406919|WD~service,7406919]]'
+industry: '[[_Standards/WikiData/WD~information_technology_industry,110702998|WD~information_technology_industry,110702998]]'
+has_immediate_cause: '[[_Standards/WikiData/WD~information,11028|WD~information,11028]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~data,42848|WD~data,42848]]'
 OmegaWiki_Defined_Meaning: 1940
 short_name: IT
 pronunciation_audio:
@@ -372,7 +372,7 @@ dv_has_:
 | 2024 |           0.15 |    -0.82 |            0.05 |    -1.347 |      0.08 |               1.5 |         0.18 |          35 |     -1.46 |
 
 
-![[../../assets/Log_IT-Costs.png]] 
+![[../../assets/Log_IT-Costs.png|Log_IT-Costs.png]] 
 
 Especially the cost of Compute has drastically been reduced by 1.4 billion, enabling AI. 
 

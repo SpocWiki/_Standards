@@ -50,25 +50,25 @@ aliases:
 - 商籁
 - 소네트
 has_id_wikidata: Q80056
-country_of_origin: '[[_Standards/WikiData/WD~Kingdom_of_Sicily,188586]]'
+country_of_origin: '[[_Standards/WikiData/WD~Kingdom_of_Sicily,188586|WD~Kingdom_of_Sicily,188586]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~quatrain,570948]]'
-- '[[_Standards/WikiData/WD~tercet,1353779]]'
-- '[[_Standards/WikiData/WD~stanza,1756348]]'
-- '[[_Standards/WikiData/WD~verse,1661]]'
+- '[[_Standards/WikiData/WD~quatrain,570948|WD~quatrain,570948]]'
+- '[[_Standards/WikiData/WD~tercet,1353779|WD~tercet,1353779]]'
+- '[[_Standards/WikiData/WD~stanza,1756348|WD~stanza,1756348]]'
+- '[[_Standards/WikiData/WD~verse,1661|WD~verse,1661]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850|WD~Concise_Literary_Encyclopedia,4239850]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~poetic_form,89522629]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Giacomo_da_Lentini,1394847]]'
-subclass_of: '[[_Standards/WikiData/WD~forme_fixe,2572794]]'
-practiced_by: '[[_Standards/WikiData/WD~sonnetist,120436208]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436|WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~poetic_form,89522629|WD~poetic_form,89522629]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Giacomo_da_Lentini,1394847|WD~Giacomo_da_Lentini,1394847]]'
+subclass_of: '[[_Standards/WikiData/WD~forme_fixe,2572794|WD~forme_fixe,2572794]]'
+practiced_by: '[[_Standards/WikiData/WD~sonnetist,120436208|WD~sonnetist,120436208]]'
 time_of_discovery_or_invention: 1300-01-01T00:00:00Z
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/SONET.html
 Commons_category: Sonnets

@@ -44,11 +44,11 @@ aliases:
 - 破壞性創新
 - 와해성 기술
 has_id_wikidata: Q1192297
-subclass_of: '[[_Standards/WikiData/WD~innovation,174165]]'
-facet_of: '[[_Standards/WikiData/WD~strategic_management,376657]]'
-has_effect: '[[_Standards/WikiData/WD~disruption,2956685]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Clayton_Christensen,5130292]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~creative_disruption,17008061]]'
+subclass_of: '[[_Standards/WikiData/WD~innovation,174165|WD~innovation,174165]]'
+facet_of: '[[_Standards/WikiData/WD~strategic_management,376657|WD~strategic_management,376657]]'
+has_effect: '[[_Standards/WikiData/WD~disruption,2956685|WD~disruption,2956685]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Clayton_Christensen,5130292|WD~Clayton_Christensen,5130292]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~creative_disruption,17008061|WD~creative_disruption,17008061]]'
 UMLS_CUI: C5197874
 MeSH_tree_code: J01.897.200
 time_of_discovery_or_invention: 1995-01-01T00:00:00Z

@@ -41,19 +41,19 @@ aliases:
 - 營建工程
 - 토목시공학
 has_id_wikidata: Q2674423
-part_of: '[[_Standards/WikiData/WD~civil_engineering,77590]]'
+part_of: '[[_Standards/WikiData/WD~civil_engineering,77590|WD~civil_engineering,77590]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436|WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
 different_from:
-- '[[_Standards/WikiData/WD~structural_engineering,633538]]'
-- '[[_Standards/WikiData/WD~construction_management,811115]]'
-has_part_s_: '[[_Standards/WikiData/WD~construction_management,811115]]'
+- '[[_Standards/WikiData/WD~structural_engineering,633538|WD~structural_engineering,633538]]'
+- '[[_Standards/WikiData/WD~construction_management,811115|WD~construction_management,811115]]'
+has_part_s_: '[[_Standards/WikiData/WD~construction_management,811115|WD~construction_management,811115]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
-- '[[_Standards/WikiData/WD~building_engineer,21778977]]'
-subclass_of: '[[_Standards/WikiData/WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~civil_engineer,13582652|WD~civil_engineer,13582652]]'
+- '[[_Standards/WikiData/WD~building_engineer,21778977|WD~building_engineer,21778977]]'
+subclass_of: '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
 dv_has_:
   name_:
     ar: هندسة التشييد والبناء

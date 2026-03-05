@@ -70,12 +70,12 @@ aliases:
 - 스튜
 has_id_wikidata: Q2920963
 subclass_of:
-- '[[_Standards/WikiData/WD~dish,746549]]'
-- '[[_Standards/WikiData/WD~meat_dish,1427844]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
-has_part_s_: '[[_Standards/WikiData/WD~vegetable,11004]]'
-country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~dish,746549|WD~dish,746549]]'
+- '[[_Standards/WikiData/WD~meat_dish,1427844|WD~meat_dish,1427844]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951|WD~type_of_food_or_dish,19861951]]'
+has_part_s_: '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/20131117Estouffade8.jpg
 Commons_category:
 - Estouffade de boeuf à la provençale

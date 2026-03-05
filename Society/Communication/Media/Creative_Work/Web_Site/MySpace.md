@@ -19,25 +19,25 @@ aliases:
 - ማይስፔስ
 - 마이스페이스
 has_id_wikidata: Q40629
-locations: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
-creator: '[[_Standards/WikiData/WD~Tom_Anderson,1189725]]'
+locations: '[[_Standards/WikiData/WD~Beverly_Hills,127856|WD~Beverly_Hills,127856]]'
+creator: '[[_Standards/WikiData/WD~Tom_Anderson,1189725|WD~Tom_Anderson,1189725]]'
 founded_by:
-- '[[_Standards/WikiData/WD~Tom_Anderson,1189725]]'
-- '[[_Standards/WikiData/WD~Chris_DeWolfe,5106382]]'
-owner_of: '[[_Standards/WikiData/WD~Zephyr,1972018]]'
+- '[[_Standards/WikiData/WD~Tom_Anderson,1189725|WD~Tom_Anderson,1189725]]'
+- '[[_Standards/WikiData/WD~Chris_DeWolfe,5106382|WD~Chris_DeWolfe,5106382]]'
+owner_of: '[[_Standards/WikiData/WD~Zephyr,1972018|WD~Zephyr,1972018]]'
 instance_of:
-- '[[_Standards/WikiData/WD~social_networking_service,3220391]]'
-- '[[_Standards/WikiData/WD~online_community,6576792]]'
-- '[[_Standards/WikiData/WD~website,35127]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Myspace,5911954]]'
+- '[[_Standards/WikiData/WD~social_networking_service,3220391|WD~social_networking_service,3220391]]'
+- '[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]'
+- '[[_Standards/WikiData/WD~website,35127|WD~website,35127]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Myspace,5911954|WD~Template_Myspace,5911954]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-- '[[_Standards/WikiData/WD~Girl_Culture_An_Encyclopedia,116876043]]'
-different_from: '[[_Standards/WikiData/WD~SpaceHey,107123627]]'
-operator: '[[_Standards/WikiData/WD~Myspace,115258218]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Girl_Culture_An_Encyclopedia,116876043|WD~Girl_Culture_An_Encyclopedia,116876043]]'
+different_from: '[[_Standards/WikiData/WD~SpaceHey,107123627|WD~SpaceHey,107123627]]'
+operator: '[[_Standards/WikiData/WD~Myspace,115258218|WD~Myspace,115258218]]'
 Wikidata_property: Myspace ID
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-industry: '[[_Standards/WikiData/WD~Internet,75]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+industry: '[[_Standards/WikiData/WD~Internet,75|WD~Internet,75]]'
 visitors_per_year: 25000000
 social_media_followers:
 - 5610
@@ -48,25 +48,25 @@ search_formatter_URL: https://myspace.com/search?q=has_time_started: 2003-01-01
 aliases:
   - my␣
 has_id_wikidata: Q40629
-locations: "[[_Standards/WikiData/WD~Beverly_Hills,127856]]"
-creator: "[[_Standards/WikiData/WD~Tom_Anderson,1189725]]"
+locations: "[[_Standards/WikiData/WD~Beverly_Hills,127856|WD~Beverly_Hills,127856]]"
+creator: "[[_Standards/WikiData/WD~Tom_Anderson,1189725|WD~Tom_Anderson,1189725]]"
 founded_by:
-  - "[[_Standards/WikiData/WD~Tom_Anderson,1189725]]"
-  - "[[_Standards/WikiData/WD~Chris_DeWolfe,5106382]]"
-owner_of: "[[_Standards/WikiData/WD~Zephyr,1972018]]"
+  - "[[_Standards/WikiData/WD~Tom_Anderson,1189725|WD~Tom_Anderson,1189725]]"
+  - "[[_Standards/WikiData/WD~Chris_DeWolfe,5106382|WD~Chris_DeWolfe,5106382]]"
+owner_of: "[[_Standards/WikiData/WD~Zephyr,1972018|WD~Zephyr,1972018]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~social_networking_service,3220391]]"
-  - "[[_Standards/WikiData/WD~online_community,6576792]]"
-  - "[[_Standards/WikiData/WD~website,35127]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Myspace,5911954]]"
+  - "[[_Standards/WikiData/WD~social_networking_service,3220391|WD~social_networking_service,3220391]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792|WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~website,35127|WD~website,35127]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Myspace,5911954|WD~Template_Myspace,5911954]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Girl_Culture_An_Encyclopedia,116876043]]"
-different_from: "[[_Standards/WikiData/WD~SpaceHey,107123627]]"
-operator: "[[_Standards/WikiData/WD~Myspace,115258218]]"
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Girl_Culture_An_Encyclopedia,116876043|WD~Girl_Culture_An_Encyclopedia,116876043]]"
+different_from: "[[_Standards/WikiData/WD~SpaceHey,107123627|WD~SpaceHey,107123627]]"
+operator: "[[_Standards/WikiData/WD~Myspace,115258218|WD~Myspace,115258218]]"
 Wikidata_property: Myspace ID
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-industry: "[[_Standards/WikiData/WD~Internet,75]]"
+country: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+industry: "[[_Standards/WikiData/WD~Internet,75|WD~Internet,75]]"
 visitors_per_year: 25000000
 social_media_followers:
   - 5610

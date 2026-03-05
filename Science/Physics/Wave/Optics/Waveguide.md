@@ -40,12 +40,12 @@ aliases:
 - 도파관
 has_id_wikidata: Q11233438
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_technological_component,811909]]'
-- '[[_Standards/WikiData/WD~structure,6671777]]'
-has_use: '[[_Standards/WikiData/WD~wave_propagation,1758425]]'
-instance_of: '[[_Standards/WikiData/WD~physics_term,100724091]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-physically_interacts_with: '[[_Standards/WikiData/WD~wave,37172]]'
+- '[[_Standards/WikiData/WD~physical_technological_component,811909|WD~physical_technological_component,811909]]'
+- '[[_Standards/WikiData/WD~structure,6671777|WD~structure,6671777]]'
+has_use: '[[_Standards/WikiData/WD~wave_propagation,1758425|WD~wave_propagation,1758425]]'
+instance_of: '[[_Standards/WikiData/WD~physics_term,100724091|WD~physics_term,100724091]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~wave,37172|WD~wave,37172]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Diplexer1.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/WaveguideJ-Band.png

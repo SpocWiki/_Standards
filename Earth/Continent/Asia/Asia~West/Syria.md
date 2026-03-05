@@ -29,7 +29,7 @@ dv_UNTERM_Chinese_Formal: 阿拉伯叙利亚共和国
 dv_UNTERM_French_Formal: la République arabe syrienne
 dv_UNTERM_Russian: Сирийская Арабская Республика
 dv_UNTERM_Russian_Formal: Сирийская Арабская Республика
-dv_Region_Name: '[[../../Asia]]'
+dv_Region_Name: '[[../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Syria]]'
 dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
@@ -370,9 +370,9 @@ dv_has_:
 dv_has_name_de: Syrien, Syrian Arab Republic
 dv_Area-Total: 185180
 dv_Area-Land: 183780
-dv_has_place_continent: '[[../../Asia]]'
+dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: SYR
-dv_Capital: '[[Syria/Counties/Damascus/City/Damascus=Damaskus]]'
+dv_Capital: '[[Syria/Counties/Damascus/City/Damascus=Damaskus|Damascus=Damaskus]]'
 dv_Alcohol-l: 1.4
 dv_Language-Id: 472
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
@@ -528,27 +528,27 @@ location:
 - 34.335
 - 36.625
 trunk_prefix: 0
-madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
+madhhab: '[[_Standards/WikiData/WD~Malikism,48221|WD~Malikism,48221]]'
 death_rate:
 - 4.99
 - 5.033
 - 5.047
 - 5.117
-basic_form_of_government: '[[_Standards/WikiData/WD~semi-presidential_system,49890]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~semi-presidential_system,49890|WD~semi-presidential_system,49890]]'
 Inequality_adjusted_Human_Development_Index: 0.553
 Human_Development_Index: 0.577
 language_used:
-- '[[_Standards/WikiData/WD~Mesopotamian_Arabic,56232]]'
-- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]'
-- '[[_Standards/WikiData/WD~Najdi_Arabic,56574]]'
-- '[[_Standards/WikiData/WD~North_Mesopotamian_Arabic,56577]]'
-- '[[_Standards/WikiData/WD~Mlahsô,3393063]]'
-- '[[_Standards/WikiData/WD~North_Levantine_Arabic,22809485]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~Turoyo,34040]]'
-- '[[_Standards/WikiData/WD~Western_Neo-Aramaic,34226]]'
-- '[[_Standards/WikiData/WD~Kurmanji,36163]]'
+- '[[_Standards/WikiData/WD~Mesopotamian_Arabic,56232|WD~Mesopotamian_Arabic,56232]]'
+- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467|WD~Modern_Standard_Arabic,56467]]'
+- '[[_Standards/WikiData/WD~Najdi_Arabic,56574|WD~Najdi_Arabic,56574]]'
+- '[[_Standards/WikiData/WD~North_Mesopotamian_Arabic,56577|WD~North_Mesopotamian_Arabic,56577]]'
+- '[[_Standards/WikiData/WD~Mlahsô,3393063|WD~Mlahsô,3393063]]'
+- '[[_Standards/WikiData/WD~North_Levantine_Arabic,22809485|WD~North_Levantine_Arabic,22809485]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~Turoyo,34040|WD~Turoyo,34040]]'
+- '[[_Standards/WikiData/WD~Western_Neo-Aramaic,34226|WD~Western_Neo-Aramaic,34226]]'
+- '[[_Standards/WikiData/WD~Kurmanji,36163|WD~Kurmanji,36163]]'
 UIC_numerical_country_code: 97
 maritime_identification_digits: 468
 PM20_geo_code: B24
@@ -638,108 +638,108 @@ subreddit:
 - Syria
 GitHub_topic: syria
 Commons_category: Syria
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Levant,81483]]'
-lowest_point: '[[_Standards/WikiData/WD~Sea_of_Galilee,126982]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Levant,81483|WD~Levant,81483]]'
+lowest_point: '[[_Standards/WikiData/WD~Sea_of_Galilee,126982|WD~Sea_of_Galilee,126982]]'
 member_of:
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]'
-- '[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Arab_League,7172]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307|WD~Arab_Monetary_Fund,624307]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381|WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]'
+- '[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148|WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Arab_League,7172|WD~Arab_League,7172]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Kurdistan_Region,205047]]'
-- '[[_Standards/WikiData/WD~Armenia,399]]'
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Iraq,796]]'
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Yemen,805]]'
-- '[[_Standards/WikiData/WD~Jordan,810]]'
-- '[[_Standards/WikiData/WD~Lebanon,822]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Qatar,846]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
-- '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Morocco,1028]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- '[[_Standards/WikiData/WD~Egypt,79]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Bulgaria,219]]'
-- '[[_Standards/WikiData/WD~Croatia,224]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Syria,213037]]'
+- '[[_Standards/WikiData/WD~Kurdistan_Region,205047|WD~Kurdistan_Region,205047]]'
+- '[[_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Yemen,805|WD~Yemen,805]]'
+- '[[_Standards/WikiData/WD~Jordan,810|WD~Jordan,810]]'
+- '[[_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Qatar,846|WD~Qatar,846]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]'
+- '[[_Standards/WikiData/WD~Croatia,224|WD~Croatia,224]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Syria,213037|WD~coat_of_arms_of_Syria,213037]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Aleppo_Governorate,214064]]'
-- '[[_Standards/WikiData/WD~Homs_Governorate,214094]]'
-- '[[_Standards/WikiData/WD~Quneitra_Governorate,219690]]'
-- '[[_Standards/WikiData/WD~Hama_Governorate,232355]]'
-- '[[_Standards/WikiData/WD~Tartus_Governorate,232382]]'
-- '[[_Standards/WikiData/WD~Deir_ez-Zor_Governorate,232387]]'
-- '[[_Standards/WikiData/WD~Rif_Dimashq_Governorate,232399]]'
-- '[[_Standards/WikiData/WD~Idlib_Governorate,233218]]'
-- '[[_Standards/WikiData/WD~Latakia_Governorate,233236]]'
-- '[[_Standards/WikiData/WD~Al-Hasakah_Governorate,233914]]'
-- '[[_Standards/WikiData/WD~Al-Raqqah_Governorate,235563]]'
-- '[[_Standards/WikiData/WD~As-Suwayda_Governorate,236797]]'
-- '[[_Standards/WikiData/WD~Daraa_Governorate,1689560]]'
-- '[[_Standards/WikiData/WD~Damascus_Governorate,2007044]]'
-highest_point: '[[_Standards/WikiData/WD~Mount_Hermon,215471]]'
-currency: '[[_Standards/WikiData/WD~Syrian_pound,240468]]'
-has_cabinet: '[[_Standards/WikiData/WD~Council_of_Ministers_of_Syria,267276]]'
+- '[[_Standards/WikiData/WD~Aleppo_Governorate,214064|WD~Aleppo_Governorate,214064]]'
+- '[[_Standards/WikiData/WD~Homs_Governorate,214094|WD~Homs_Governorate,214094]]'
+- '[[_Standards/WikiData/WD~Quneitra_Governorate,219690|WD~Quneitra_Governorate,219690]]'
+- '[[_Standards/WikiData/WD~Hama_Governorate,232355|WD~Hama_Governorate,232355]]'
+- '[[_Standards/WikiData/WD~Tartus_Governorate,232382|WD~Tartus_Governorate,232382]]'
+- '[[_Standards/WikiData/WD~Deir_ez-Zor_Governorate,232387|WD~Deir_ez-Zor_Governorate,232387]]'
+- '[[_Standards/WikiData/WD~Rif_Dimashq_Governorate,232399|WD~Rif_Dimashq_Governorate,232399]]'
+- '[[_Standards/WikiData/WD~Idlib_Governorate,233218|WD~Idlib_Governorate,233218]]'
+- '[[_Standards/WikiData/WD~Latakia_Governorate,233236|WD~Latakia_Governorate,233236]]'
+- '[[_Standards/WikiData/WD~Al-Hasakah_Governorate,233914|WD~Al-Hasakah_Governorate,233914]]'
+- '[[_Standards/WikiData/WD~Al-Raqqah_Governorate,235563|WD~Al-Raqqah_Governorate,235563]]'
+- '[[_Standards/WikiData/WD~As-Suwayda_Governorate,236797|WD~As-Suwayda_Governorate,236797]]'
+- '[[_Standards/WikiData/WD~Daraa_Governorate,1689560|WD~Daraa_Governorate,1689560]]'
+- '[[_Standards/WikiData/WD~Damascus_Governorate,2007044|WD~Damascus_Governorate,2007044]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Hermon,215471|WD~Mount_Hermon,215471]]'
+currency: '[[_Standards/WikiData/WD~Syrian_pound,240468|WD~Syrian_pound,240468]]'
+has_cabinet: '[[_Standards/WikiData/WD~Council_of_Ministers_of_Syria,267276|WD~Council_of_Ministers_of_Syria,267276]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-anthem: '[[_Standards/WikiData/WD~Humat_ad-Diyar,309468]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~Interim_President_of_the_Syrian_Arab_Republic,648464]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Syria,806932]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Syria,862111]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Syria,943676]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Syria,1079446]]'
-legislative_body: '[[_Standards/WikiData/WD~Syrian_Interim_Legislative_Council,1372196]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_History_of_Yuan,1053256|WD~New_History_of_Yuan,1053256]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+anthem: '[[_Standards/WikiData/WD~Humat_ad-Diyar,309468|WD~Humat_ad-Diyar,309468]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~Interim_President_of_the_Syrian_Arab_Republic,648464|WD~Interim_President_of_the_Syrian_Arab_Republic,648464]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Syria,806932|WD~Central_Bank_of_Syria,806932]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Syria,862111|WD~geography_of_Syria,862111]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Syria,943676|WD~history_of_Syria,943676]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Syria,1079446|WD~demographics_of_Syria,1079446]]'
+legislative_body: '[[_Standards/WikiData/WD~Syrian_Interim_Legislative_Council,1372196|WD~Syrian_Interim_Legislative_Council,1372196]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~Type_L,1520890]]'
-- '[[_Standards/WikiData/WD~Type_E,2335536]]'
-different_from: '[[_Standards/WikiData/WD~Syria,1575282]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Syria,2747497]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Syria,3007303]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_L,1520890|WD~Type_L,1520890]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536|WD~Type_E,2335536]]'
+different_from: '[[_Standards/WikiData/WD~Syria,1575282|WD~Syria,1575282]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Syria,2747497|WD~economy_of_Syria,2747497]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Syria,3007303|WD~culture_of_Syria,3007303]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~Mediterranean_country,51576574]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Syria,7243302]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Constitutional_Court_of_Syria,7644818]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~Mediterranean_country,51576574|WD~Mediterranean_country,51576574]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Syria,7243302|WD~Prime_Minister_of_Syria,7243302]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Constitutional_Court_of_Syria,7644818|WD~Supreme_Constitutional_Court_of_Syria,7644818]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Syria.map
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Syrien.ogg
@@ -753,21 +753,21 @@ Provenio_UUID: e0b994fc-0d05-441f-a447-77528ee89f25
 Krugosvet_article: strany_mira/SIRIYA.html
 MeSH_tree_code: Z01.252.245.500.795
 short_name: "\U0001F1F8\U0001F1FE"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Syria,14357234]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Syria,16153635]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q16399924,16399924]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Syria,14357234|WD~Portal_Syria,14357234]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Syria,16153635|WD~outline_of_Syria,16153635]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q16399924,16399924|WD~Q16399924,16399924]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~113,25648804]]'
-- '[[_Standards/WikiData/WD~110,25648823]]'
-has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
+- '[[_Standards/WikiData/WD~113,25648804|WD~113,25648804]]'
+- '[[_Standards/WikiData/WD~110,25648823|WD~110,25648823]]'
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Asia_Damascus,63285958]]'
-- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_Syria,113519305]]'
-travel_advisory_category: '[[_Standards/WikiData/WD~Level_4_Evacuation_Advisory,116032017]]'
-head_of_government: '[[_Standards/WikiData/WD~Mohammed_al-Bashir,131377413]]'
-replaces: "[[_Standards/WikiData/WD~Ba'athist_Syria,131404661]]"
+- '[[_Standards/WikiData/WD~Asia_Damascus,63285958|WD~Asia_Damascus,63285958]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Syria,113519305|WD~Government_of_Syria,113519305]]'
+travel_advisory_category: '[[_Standards/WikiData/WD~Level_4_Evacuation_Advisory,116032017|WD~Level_4_Evacuation_Advisory,116032017]]'
+head_of_government: '[[_Standards/WikiData/WD~Mohammed_al-Bashir,131377413|WD~Mohammed_al-Bashir,131377413]]'
+replaces: "[[_Standards/WikiData/WD~Ba'athist_Syria,131404661|WD~Ba'athist_Syria,131404661]]"
 Baidu_Tieba_name: 叙利亚
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Damascus%2C%20Syria%2C%20Panoramic%20view%20of%20Damascus.jpg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Syrian%20revolution.svg
@@ -789,20 +789,20 @@ coordinates_of_southernmost_point: Point(36.838055555 32.311388888)
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Syria%20%282024%E2%80%93present%29.svg
 coordinates_of_northernmost_point: Point(42.22 37.318472222)
 shares_border_with:
-- '[[_Standards/WikiData/WD~Iraq,796]]'
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Jordan,810]]'
-- '[[_Standards/WikiData/WD~Lebanon,822]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-country: '[[_Standards/WikiData/WD~Syria,858]]'
-capital: '[[_Standards/WikiData/WD~Damascus,3766]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+- '[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Jordan,810|WD~Jordan,810]]'
+- '[[_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
+- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+country: '[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]'
+capital: '[[_Standards/WikiData/WD~Damascus,3766|WD~Damascus,3766]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
 part_of:
-- '[[_Standards/WikiData/WD~Middle_East,7204]]'
-- '[[_Standards/WikiData/WD~West_Asia,27293]]'
-official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
-territory_claimed_by: '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Middle_East,7204|WD~Middle_East,7204]]'
+- '[[_Standards/WikiData/WD~West_Asia,27293|WD~West_Asia,27293]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+territory_claimed_by: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 compulsory_education_minimum_age_: 6
 water_as_percent_of_area: 1.1
 compulsory_education_maximum_age_: 15
@@ -814,9 +814,9 @@ BTI_Governance_Index: 1.21
 Democracy_Index: 1.43
 BTI_Status_Index: 1.54
 total_fertility_rate: 2.95
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.sy,42778]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.sy,42778|WD~.sy,42778]]'
 Gini_coefficient: 37.5
-flag: '[[_Standards/WikiData/WD~flag_of_Syria,45136]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Syria,45136|WD~flag_of_Syria,45136]]'
 type: Country
 tags:
 - geo/Country
@@ -924,7 +924,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Syria/ReadMe]] 
+[[Syria/ReadMe|ReadMe]] 
 
 ## #has_/map  
 

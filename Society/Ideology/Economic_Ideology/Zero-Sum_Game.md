@@ -47,18 +47,18 @@ aliases:
 - 零和博弈
 - 제로섬 게임
 has_id_wikidata: Q156612
-uses: '[[_Standards/WikiData/WD~feedback,183635]]'
+uses: '[[_Standards/WikiData/WD~feedback,183635|WD~feedback,183635]]'
 instance_of:
-- '[[_Standards/WikiData/WD~identifier,853614]]'
-- '[[_Standards/WikiData/WD~representation,2905654]]'
+- '[[_Standards/WikiData/WD~identifier,853614|WD~identifier,853614]]'
+- '[[_Standards/WikiData/WD~representation,2905654|WD~representation,2905654]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~minimax_theorem,913849]]'
-- '[[_Standards/WikiData/WD~non_zero_sum_game,4321717]]'
-- '[[_Standards/WikiData/WD~non_cooperative_game,13422573]]'
-- '[[_Standards/WikiData/WD~Nash_equilibrium,23389]]'
-- '[[_Standards/WikiData/WD~Pareto_efficiency,36829]]'
-opposite_of: '[[_Standards/WikiData/WD~non_zero_sum_game,4321717]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~minimax_theorem,913849|WD~minimax_theorem,913849]]'
+- '[[_Standards/WikiData/WD~non_zero_sum_game,4321717|WD~non_zero_sum_game,4321717]]'
+- '[[_Standards/WikiData/WD~non_cooperative_game,13422573|WD~non_cooperative_game,13422573]]'
+- '[[_Standards/WikiData/WD~Nash_equilibrium,23389|WD~Nash_equilibrium,23389]]'
+- '[[_Standards/WikiData/WD~Pareto_efficiency,36829|WD~Pareto_efficiency,36829]]'
+opposite_of: '[[_Standards/WikiData/WD~non_zero_sum_game,4321717|WD~non_zero_sum_game,4321717]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 Dewey_Decimal_Classification: 519.3
 Wolfram_Language_entity_code: Entity["Concept", "Zero-sumGame::b4d6w"]
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20zero-sum%20three-person%20game.png

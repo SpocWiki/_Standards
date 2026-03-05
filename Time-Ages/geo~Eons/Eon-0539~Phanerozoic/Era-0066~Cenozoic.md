@@ -72,16 +72,16 @@ aliases:
 has_id_wikidata: Q102416
 ischart: Cenozoic
 instance_of:
-- '[[_Standards/WikiData/WD~era,630830]]'
-- '[[_Standards/WikiData/WD~erathem,2464485]]'
+- '[[_Standards/WikiData/WD~era,630830|WD~era,630830]]'
+- '[[_Standards/WikiData/WD~erathem,2464485|WD~erathem,2464485]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cenozoic,7144527]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Cenozoic_(navbox),10595896]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cenozoic,7144527|WD~Category_Cenozoic,7144527]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Cenozoic_(navbox),10595896|WD~Template_Cenozoic_(navbox),10595896]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -66000000-01-01T00:00:00Z
 OmegaWiki_Defined_Meaning: 952479
 subreddit: Cenozoic

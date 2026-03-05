@@ -69,12 +69,12 @@ aliases:
 - 线性方程组
 - 연립 일차 방정식
 has_id_wikidata: Q11203
-has_part_s_: '[[_Standards/WikiData/WD~linear_equation,484637]]'
-different_from: '[[_Standards/WikiData/WD~linear_system,1072174]]'
+has_part_s_: '[[_Standards/WikiData/WD~linear_equation,484637|WD~linear_equation,484637]]'
+different_from: '[[_Standards/WikiData/WD~linear_system,1072174|WD~linear_system,1072174]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~linear_system,1072174]]'
-- '[[_Standards/WikiData/WD~system_of_polynomial_equations,7663735]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~linear_system,1072174|WD~linear_system,1072174]]'
+- '[[_Standards/WikiData/WD~system_of_polynomial_equations,7663735|WD~system_of_polynomial_equations,7663735]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Secretsharing%203-point.svg
 Commons_category: System of linear equations
 short_name:

@@ -66,20 +66,20 @@ aliases:
 - 自然對數
 - 자연로그
 has_id_wikidata: Q204037
-uses: "[[_Standards/WikiData/WD~Euler's_number,82435]]"
+uses: "[[_Standards/WikiData/WD~Euler's_number,82435|WD~Euler's_number,82435]]"
 instance_of:
-- '[[_Standards/WikiData/WD~elementary_function,824282]]'
-- '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]'
-- '[[_Standards/WikiData/WD~logarithm,11197]]'
-codomain: '[[_Standards/WikiData/WD~set_of_real_numbers,1174982]]'
+- '[[_Standards/WikiData/WD~elementary_function,824282|WD~elementary_function,824282]]'
+- '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819|WD~type_of_mathematical_function,47279819]]'
+- '[[_Standards/WikiData/WD~logarithm,11197|WD~logarithm,11197]]'
+codomain: '[[_Standards/WikiData/WD~set_of_real_numbers,1174982|WD~set_of_real_numbers,1174982]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~polylogarithm,1238449]]'
-- '[[_Standards/WikiData/WD~logarithm,11197]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-mathematical_inverse: '[[_Standards/WikiData/WD~natural_exponential_function,47306354]]'
-definition_domain: '[[_Standards/WikiData/WD~set_of_positive_real_numbers,47494165]]'
-input_set: '[[_Standards/WikiData/WD~set_of_non_negative_real_numbers,91311892]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+- '[[_Standards/WikiData/WD~polylogarithm,1238449|WD~polylogarithm,1238449]]'
+- '[[_Standards/WikiData/WD~logarithm,11197|WD~logarithm,11197]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+mathematical_inverse: '[[_Standards/WikiData/WD~natural_exponential_function,47306354|WD~natural_exponential_function,47306354]]'
+definition_domain: '[[_Standards/WikiData/WD~set_of_positive_real_numbers,47494165|WD~set_of_positive_real_numbers,47494165]]'
+input_set: '[[_Standards/WikiData/WD~set_of_non_negative_real_numbers,91311892|WD~set_of_non_negative_real_numbers,91311892]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>log</mi><mrow data-mjx-texclass="ORD"><mi>a</mi></mrow></msub><mi>x</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>ln</mi><mo>&#x2061;</mo><mi>x</mi></mstyle></mrow></math>
@@ -180,7 +180,7 @@ dv_has_:
 
 # [[Natural_Logarithm]] 
 
-#has_/inverse :: [[Operator~unary/Exponential_Function]] 
+#has_/inverse :: [[Operator~unary/Exponential_Function|Exponential_Function]] 
 #is_/same_as :: [[wd~Natural_Logarithm,204037]] 
 #is_/instance_of :: [[../../Function~binary/Operator~binary/Logarithm|Logarithm]] 
 

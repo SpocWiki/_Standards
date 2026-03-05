@@ -65,19 +65,19 @@ aliases:
 - 製図
 - 제도
 has_id_wikidata: Q192521
-described_by_source: '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-practiced_by: '[[_Standards/WikiData/WD~drafter,683754]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~technical_illustration,857780]]'
+described_by_source: '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+practiced_by: '[[_Standards/WikiData/WD~drafter,683754|WD~drafter,683754]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~technical_illustration,857780|WD~technical_illustration,857780]]'
 part_of:
-- '[[../../../../../../WikiData/WD~graphics,1027879]]'
-- '[[_Standards/WikiData/WD~representation,1272626]]'
-instance_of: '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[../../../../../../WikiData/WD~graphics,1027879|WD~graphics,1027879]]'
+- '[[_Standards/WikiData/WD~representation,1272626|WD~representation,1272626]]'
+instance_of: '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~technical_communication,1132530]]'
-- '[[_Standards/WikiData/WD~visual_communication,1899679]]'
-- '[[_Standards/WikiData/WD~art_of_drawing,2921001]]'
-different_from: '[[_Standards/WikiData/WD~engineering_drawing,1788588]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~engineering_drawing,1788588]]'
+- '[[_Standards/WikiData/WD~technical_communication,1132530|WD~technical_communication,1132530]]'
+- '[[_Standards/WikiData/WD~visual_communication,1899679|WD~visual_communication,1899679]]'
+- '[[_Standards/WikiData/WD~art_of_drawing,2921001|WD~art_of_drawing,2921001]]'
+different_from: '[[_Standards/WikiData/WD~engineering_drawing,1788588|WD~engineering_drawing,1788588]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~engineering_drawing,1788588|WD~engineering_drawing,1788588]]'
 Nomenclature_for_Museum_Cataloging: 13472
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-1989-0523-016%2C%20Konstruktionsplan.jpg
 UNSPSC_Code:

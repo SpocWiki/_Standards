@@ -97,13 +97,13 @@ aliases:
 - 나폴레옹 전쟁
 has_id_wikidata: Q78994
 described_by_source:
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Napoleonic_Wars,14448129]]'
-instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151]]'
-named_after: '[[_Standards/WikiData/WD~Napoleon,517]]'
-locations: '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Napoleonic_Wars,14448129|WD~Template_Napoleonic_Wars,14448129]]'
+instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151|WD~series_of_wars,104212151]]'
+named_after: '[[_Standards/WikiData/WD~Napoleon,517|WD~Napoleon,517]]'
+locations: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 BHCL_UUID: bc8368cc-818a-41b0-a4ca-859fdc0ce10a
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bonaparte%20David%20Charlottenburg.jpg
 end_time: 1815-01-01T00:00:00Z
@@ -116,7 +116,7 @@ Wolfram_Language_entity_code: Entity["MilitaryConflict", "NapoleonicWars"]
 Krugosvet_article_archived_: istoriya/NAPOLEONOVSKIE_VONI.html
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Napoleonic_Wars,78994]]'
+  - '[[../../../../../../../../WikiData/WD~Napoleonic_Wars,78994|WD~Napoleonic_Wars,78994]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815|1803-Napoleonic_Wars+1815]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.public|1803-Napoleonic_Wars+1815.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.internal|1803-Napoleonic_Wars+1815.internal]]'
@@ -125,7 +125,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.personal|1803-Napoleonic_Wars+1815.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.secret|1803-Napoleonic_Wars+1815.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Napoleonic_Wars,78994]]'
+- '[[../../../../../../../../WikiData/WD~Napoleonic_Wars,78994|WD~Napoleonic_Wars,78994]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815|1803-Napoleonic_Wars+1815]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.public|1803-Napoleonic_Wars+1815.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.internal|1803-Napoleonic_Wars+1815.internal]]'

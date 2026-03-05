@@ -82,26 +82,26 @@ aliases:
 - 삽
 has_id_wikidata: Q7220961
 has_use:
-- '[[_Standards/WikiData/WD~construction,385378]]'
-- '[[_Standards/WikiData/WD~tillage,878333]]'
-- '[[_Standards/WikiData/WD~planting,2083967]]'
-- '[[_Standards/WikiData/WD~digging,4232202]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~construction,385378|WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~tillage,878333|WD~tillage,878333]]'
+- '[[_Standards/WikiData/WD~planting,2083967|WD~planting,2083967]]'
+- '[[_Standards/WikiData/WD~digging,4232202|WD~digging,4232202]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~shaft,2230201]]'
-- '[[_Standards/WikiData/WD~Blade,16736738]]'
+- '[[_Standards/WikiData/WD~shaft,2230201|WD~shaft,2230201]]'
+- '[[_Standards/WikiData/WD~Blade,16736738|WD~Blade,16736738]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~hand_tool,2578402]]'
-- '[[_Standards/WikiData/WD~mechanical_advantage_device,14861286]]'
-- '[[_Standards/WikiData/WD~physical_tool,39546]]'
-different_from: '[[_Standards/WikiData/WD~Q9394323,9394323]]'
+- '[[_Standards/WikiData/WD~hand_tool,2578402|WD~hand_tool,2578402]]'
+- '[[_Standards/WikiData/WD~mechanical_advantage_device,14861286|WD~mechanical_advantage_device,14861286]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]'
+different_from: '[[_Standards/WikiData/WD~Q9394323,9394323|WD~Q9394323,9394323]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_tool,123588392]]'
-- '[[_Standards/WikiData/WD~product_type,128889633]]'
+- '[[_Standards/WikiData/WD~type_of_tool,123588392|WD~type_of_tool,123588392]]'
+- '[[_Standards/WikiData/WD~product_type,128889633|WD~product_type,128889633]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~wood,287]]'
-- '[[_Standards/WikiData/WD~metal,11426]]'
-- '[[_Standards/WikiData/WD~plastic,11474]]'
+- '[[_Standards/WikiData/WD~wood,287|WD~wood,287]]'
+- '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~plastic,11474|WD~plastic,11474]]'
 Nomenclature_for_Museum_Cataloging: 8704
 IMDb_keyword: shovel
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Skovl.jpg

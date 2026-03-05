@@ -63,13 +63,13 @@ aliases:
 - 電影史
 - 영화의 역사
 has_id_wikidata: Q107478
-facet_of: '[[_Standards/WikiData/WD~cinematography,590870]]'
+facet_of: '[[_Standards/WikiData/WD~cinematography,590870|WD~cinematography,590870]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~film_scholar,4220878]]'
-- '[[_Standards/WikiData/WD~film_historian,20971250]]'
-studied_by: '[[_Standards/WikiData/WD~history_of_cinema,9292847]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-subclass_of: '[[_Standards/WikiData/WD~media_history,50636]]'
+- '[[_Standards/WikiData/WD~film_scholar,4220878|WD~film_scholar,4220878]]'
+- '[[_Standards/WikiData/WD~film_historian,20971250|WD~film_historian,20971250]]'
+studied_by: '[[_Standards/WikiData/WD~history_of_cinema,9292847|WD~history_of_cinema,9292847]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+subclass_of: '[[_Standards/WikiData/WD~media_history,50636|WD~media_history,50636]]'
 Basisklassifikation:
 - 24.33
 - 24.32

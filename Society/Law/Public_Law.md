@@ -60,20 +60,20 @@ aliases:
 - 공법
 has_id_wikidata: Q207892
 has_part_s_:
-- '[[_Standards/WikiData/WD~administrative_law,171251]]'
-- '[[_Standards/WikiData/WD~political_law,2270062]]'
-- '[[_Standards/WikiData/WD~constitutional_law,11206]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~social_law,1567259]]'
+- '[[_Standards/WikiData/WD~administrative_law,171251|WD~administrative_law,171251]]'
+- '[[_Standards/WikiData/WD~political_law,2270062|WD~political_law,2270062]]'
+- '[[_Standards/WikiData/WD~constitutional_law,11206|WD~constitutional_law,11206]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~social_law,1567259|WD~social_law,1567259]]'
 instance_of:
-- '[[_Standards/WikiData/WD~area_of_law,1756157]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~type_of_law,63718619]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~ius_publicum,3156043]]'
-opposite_of: '[[_Standards/WikiData/WD~private_law,4122235]]'
+- '[[_Standards/WikiData/WD~area_of_law,1756157|WD~area_of_law,1756157]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_law,63718619|WD~type_of_law,63718619]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~ius_publicum,3156043|WD~ius_publicum,3156043]]'
+opposite_of: '[[_Standards/WikiData/WD~private_law,4122235|WD~private_law,4122235]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~political_studies,15831440]]'
-- '[[_Standards/WikiData/WD~law,7748]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~political_studies,15831440|WD~political_studies,15831440]]'
+- '[[_Standards/WikiData/WD~law,7748|WD~law,7748]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sch%C3%B6nfelder%20-%20Deutsche%20Gesetze.%20Textsammlung%20%28C%20H%20Beck%29.jpg
 U_S_National_Archives_Identifier: 10644293
 Commons_category: Public law

@@ -65,21 +65,21 @@ aliases:
 - 식기
 has_id_wikidata: Q851782
 has_part_s_:
-- '[[_Standards/WikiData/WD~teacup,81707]]'
-- '[[_Standards/WikiData/WD~cup,81727]]'
-- '[[_Standards/WikiData/WD~cutlery,81944]]'
-- '[[_Standards/WikiData/WD~plate,57216]]'
+- '[[_Standards/WikiData/WD~teacup,81707|WD~teacup,81707]]'
+- '[[_Standards/WikiData/WD~cup,81727|WD~cup,81727]]'
+- '[[_Standards/WikiData/WD~cutlery,81944|WD~cutlery,81944]]'
+- '[[_Standards/WikiData/WD~plate,57216|WD~plate,57216]]'
 part_of:
-- '[[_Standards/WikiData/WD~eating,213449]]'
-- '[[_Standards/WikiData/WD~table_setting,1758541]]'
-- '[[_Standards/WikiData/WD~everyday_culture,2649476]]'
+- '[[_Standards/WikiData/WD~eating,213449|WD~eating,213449]]'
+- '[[_Standards/WikiData/WD~table_setting,1758541|WD~table_setting,1758541]]'
+- '[[_Standards/WikiData/WD~everyday_culture,2649476|WD~everyday_culture,2649476]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-instance_of: '[[_Standards/WikiData/WD~table_set,1191255]]'
-subclass_of: '[[_Standards/WikiData/WD~kitchenware,1521410]]'
-different_from: '[[_Standards/WikiData/WD~table_linen,111366781]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+instance_of: '[[_Standards/WikiData/WD~table_set,1191255|WD~table_set,1191255]]'
+subclass_of: '[[_Standards/WikiData/WD~kitchenware,1521410|WD~kitchenware,1521410]]'
+different_from: '[[_Standards/WikiData/WD~table_linen,111366781|WD~table_linen,111366781]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Silbertafel%20Reiss%203%20rem.jpg
 Iconclass_notation: 41C31
 U_S_National_Archives_Identifier: 10642939
@@ -165,7 +165,7 @@ dv_has_:
 
 # [[Tableware]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~tableware,851782]]
+#is_/same_as :: [[_Standards/WikiData/WD~tableware,851782|WD~tableware,851782]]
 
 ## #has_/text_of_/abstract 
 

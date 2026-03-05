@@ -181,7 +181,7 @@ dv_has_:
 > which he also co-wrote and starred in. 
 > Following roles in The Devil Wears Prada (2006) and Julie & Julia (2009), 
 > Tucci was nominated for the Academy Award for Best Supporting Actor for The [[Lovely Bones]] (2009). 
-> Tucci's other film roles include Burlesque (2010), [[../../../../../../../_private/Society/Communication/Media/TV-Series/Easy_A|Easy A]] (2010), [[Captain America: The First Avenger]] (2011), Margin Call (2011), The [[../../../../../../../_private/Society/Communication/Media/TV-Series/Hunger_Games_Franchise]] (2012–2015), Spotlight (2015), Supernova (2020), and Worth (2021).
+> Tucci's other film roles include Burlesque (2010), [[../../../../../../../_private/Society/Communication/Media/TV-Series/Easy_A|Easy A]] (2010), [[Captain America: The First Avenger]] (2011), Margin Call (2011), The [[../../../../../../../_private/Society/Communication/Media/TV-Series/Hunger_Games_Franchise|Hunger_Games_Franchise]] (2012–2015), Spotlight (2015), Supernova (2020), and Worth (2021).
 >
 > He has starred in numerous television series such as the legal drama Murder One (1995–96), 
 > the medical drama 3 lbs (2006), Ryan Murphy's limited series Feud: Bette & Joan (2017), 

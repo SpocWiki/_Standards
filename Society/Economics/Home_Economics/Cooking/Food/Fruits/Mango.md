@@ -105,22 +105,22 @@ aliases:
 - 망고
 has_id_wikidata: Q169
 different_from:
-- '[[_Standards/WikiData/WD~Mangifera,161807]]'
-- '[[_Standards/WikiData/WD~Garcinia_mangostana,170662]]'
-- '[[_Standards/WikiData/WD~Mango,204099]]'
+- '[[_Standards/WikiData/WD~Mangifera,161807|WD~Mangifera,161807]]'
+- '[[_Standards/WikiData/WD~Garcinia_mangostana,170662|WD~Garcinia_mangostana,170662]]'
+- '[[_Standards/WikiData/WD~Mango,204099|WD~Mango,204099]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~tropical_fruit,844144]]'
-- '[[_Standards/WikiData/WD~fruit,3314483]]'
-- '[[_Standards/WikiData/WD~drupe,14712]]'
-instance_of: '[[_Standards/WikiData/WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~tropical_fruit,844144|WD~tropical_fruit,844144]]'
+- '[[_Standards/WikiData/WD~fruit,3314483|WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~drupe,14712|WD~drupe,14712]]'
+instance_of: '[[_Standards/WikiData/WD~fruit,3314483|WD~fruit,3314483]]'
 natural_product_of_taxon:
-- '[[_Standards/WikiData/WD~Mangifera_indica,3919027]]'
-- '[[_Standards/WikiData/WD~tree,10884]]'
-described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Mangifera_indica,3919027|WD~Mangifera_indica,3919027]]'
+- '[[_Standards/WikiData/WD~tree,10884|WD~tree,10884]]'
+described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
 color:
-- '[[_Standards/WikiData/WD~yellow,943]]'
-- '[[_Standards/WikiData/WD~green,3133]]'
-- '[[_Standards/WikiData/WD~orange,39338]]'
+- '[[_Standards/WikiData/WD~yellow,943|WD~yellow,943]]'
+- '[[_Standards/WikiData/WD~green,3133|WD~green,3133]]'
+- '[[_Standards/WikiData/WD~orange,39338|WD~orange,39338]]'
 food_energy: 70
 water_footprint: 1800
 PLU_code:

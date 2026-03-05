@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 塔吉克斯坦共和国
 dv_UNTERM_French_Formal: la République du Tadjikistan
 dv_UNTERM_Russian: Таджикистан
 dv_UNTERM_Russian_Formal: Республика Таджикистан
-dv_Region_Name: '[[../../Asia]]'
+dv_Region_Name: '[[../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Tajikistan]]'
 dv_Sub-region_Name: '[[Central Asia]]'
 dv_Region: 142
@@ -358,9 +358,9 @@ dv_has_:
 dv_has_name_de: Tadschikistan
 dv_Area-Total: 143100
 dv_Area-Land: 140600
-dv_has_place_continent: '[[../../Asia]]'
+dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: TJ
-dv_Capital: '[[Tajikistan/Counties/Dushanbe/City/Dushanbe]]'
+dv_Capital: '[[Tajikistan/Counties/Dushanbe/City/Dushanbe|Dushanbe]]'
 dv_Alcohol-l: 3.4
 dv_Language-Id: 469
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
@@ -520,87 +520,87 @@ aliases:
 - 타지키스탄
 has_id_wikidata: Q863
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783]]'
-- '[[_Standards/WikiData/WD~Central_Asian_Cooperation_Organization,2297670]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693|WD~Collective_Security_Treaty_Organization,318693]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207|WD~Shanghai_Cooperation_Organisation,485207]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783|WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783]]'
+- '[[_Standards/WikiData/WD~Central_Asian_Cooperation_Organization,2297670|WD~Central_Asian_Cooperation_Organization,2297670]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779|WD~Commonwealth_of_Independent_States,7779]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
 instance_of:
-- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
-- '[[_Standards/WikiData/WD~unitary_state,179164]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Tajikistan,160124]]'
-anthem: '[[_Standards/WikiData/WD~National_anthem_of_Tajikistan,191802]]'
+- '[[_Standards/WikiData/WD~landlocked_country,123480|WD~landlocked_country,123480]]'
+- '[[_Standards/WikiData/WD~unitary_state,179164|WD~unitary_state,179164]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Tajikistan,160124|WD~flag_of_Tajikistan,160124]]'
+anthem: '[[_Standards/WikiData/WD~National_anthem_of_Tajikistan,191802|WD~National_anthem_of_Tajikistan,191802]]'
 replaces:
-- '[[_Standards/WikiData/WD~Tajik_Soviet_Socialist_Republic,199711]]'
-- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Tajik_Soviet_Socialist_Republic,199711|WD~Tajik_Soviet_Socialist_Republic,199711]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Gorno-Badakhshan_Autonomous_Region,207319]]'
-- '[[_Standards/WikiData/WD~Sughd_Province,241582]]'
-- '[[_Standards/WikiData/WD~Districts_under_Central_Government_Jurisdiction,633490]]'
-- '[[_Standards/WikiData/WD~Khatlon_Province,633511]]'
-coat_of_arms: '[[_Standards/WikiData/WD~emblem_of_Tajikistan,209816]]'
-lowest_point: '[[_Standards/WikiData/WD~Syr_Darya,483159]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~president_of_Tajikistan,1044136]]'
+- '[[_Standards/WikiData/WD~Gorno-Badakhshan_Autonomous_Region,207319|WD~Gorno-Badakhshan_Autonomous_Region,207319]]'
+- '[[_Standards/WikiData/WD~Sughd_Province,241582|WD~Sughd_Province,241582]]'
+- '[[_Standards/WikiData/WD~Districts_under_Central_Government_Jurisdiction,633490|WD~Districts_under_Central_Government_Jurisdiction,633490]]'
+- '[[_Standards/WikiData/WD~Khatlon_Province,633511|WD~Khatlon_Province,633511]]'
+coat_of_arms: '[[_Standards/WikiData/WD~emblem_of_Tajikistan,209816|WD~emblem_of_Tajikistan,209816]]'
+lowest_point: '[[_Standards/WikiData/WD~Syr_Darya,483159|WD~Syr_Darya,483159]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~president_of_Tajikistan,1044136|WD~president_of_Tajikistan,1044136]]'
 language_used:
-- '[[_Standards/WikiData/WD~Northern_Uzbek,1066766]]'
-- '[[_Standards/WikiData/WD~Parya,1135134]]'
-- '[[_Standards/WikiData/WD~Southern_Pashto,16112855]]'
-- '[[_Standards/WikiData/WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~Kyrgyz,9255]]'
-- '[[_Standards/WikiData/WD~Tajik,9260]]'
-- '[[_Standards/WikiData/WD~Ishkashimi,33419]]'
-- '[[_Standards/WikiData/WD~Shughni,34053]]'
-- '[[_Standards/WikiData/WD~Yazgulyam,34186]]'
-- '[[_Standards/WikiData/WD~Wakhi,34208]]'
-- '[[_Standards/WikiData/WD~Yaghnobi,34247]]'
-- '[[_Standards/WikiData/WD~Tajiki_Arabic,56833]]'
+- '[[_Standards/WikiData/WD~Northern_Uzbek,1066766|WD~Northern_Uzbek,1066766]]'
+- '[[_Standards/WikiData/WD~Parya,1135134|WD~Parya,1135134]]'
+- '[[_Standards/WikiData/WD~Southern_Pashto,16112855|WD~Southern_Pashto,16112855]]'
+- '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Kyrgyz,9255|WD~Kyrgyz,9255]]'
+- '[[_Standards/WikiData/WD~Tajik,9260|WD~Tajik,9260]]'
+- '[[_Standards/WikiData/WD~Ishkashimi,33419|WD~Ishkashimi,33419]]'
+- '[[_Standards/WikiData/WD~Shughni,34053|WD~Shughni,34053]]'
+- '[[_Standards/WikiData/WD~Yazgulyam,34186|WD~Yazgulyam,34186]]'
+- '[[_Standards/WikiData/WD~Wakhi,34208|WD~Wakhi,34208]]'
+- '[[_Standards/WikiData/WD~Yaghnobi,34247|WD~Yaghnobi,34247]]'
+- '[[_Standards/WikiData/WD~Tajiki_Arabic,56833|WD~Tajiki_Arabic,56833]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]'
-legislative_body: '[[_Standards/WikiData/WD~Supreme_Assembly,2011165]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Tajikistan,2385209]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Tajikistan,2404371]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Tajikistan,2734978]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Tajikistan,2987561]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Tajikistan,2997236]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Tajikistan,3137810]]'
-central_bank: '[[_Standards/WikiData/WD~National_Bank_of_Tajikistan,4314981]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tajikistan,10951390]]'
-railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-head_of_government: '[[_Standards/WikiData/WD~Kokhir_Rasulzoda,15222839]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Tajikistan,17065464]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Tajikistan,21662238]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103906,27103906]]'
+- '[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~AS_NZS_3112,2335539|WD~AS_NZS_3112,2335539]]'
+legislative_body: '[[_Standards/WikiData/WD~Supreme_Assembly,2011165|WD~Supreme_Assembly,2011165]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Tajikistan,2385209|WD~geography_of_Tajikistan,2385209]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Tajikistan,2404371|WD~economy_of_Tajikistan,2404371]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Tajikistan,2734978|WD~Prime_Minister_of_Tajikistan,2734978]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Tajikistan,2987561|WD~demographics_of_Tajikistan,2987561]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Tajikistan,2997236|WD~culture_of_Tajikistan,2997236]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Tajikistan,3137810|WD~history_of_Tajikistan,3137810]]'
+central_bank: '[[_Standards/WikiData/WD~National_Bank_of_Tajikistan,4314981|WD~National_Bank_of_Tajikistan,4314981]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tajikistan,10951390|WD~Portal_Tajikistan,10951390]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+head_of_government: '[[_Standards/WikiData/WD~Kokhir_Rasulzoda,15222839|WD~Kokhir_Rasulzoda,15222839]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Tajikistan,17065464|WD~outline_of_Tajikistan,17065464]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Tajikistan,21662238|WD~Supreme_Court_of_Tajikistan,21662238]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103906,27103906|WD~Q27103906,27103906]]'
 nominal_GDP:
 - 8937805347
 - 10492123388
-has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Asia_Dushanbe,63285959]]'
-- '[[_Standards/WikiData/WD~UTC+05_00,6806]]'
-described_by_source: '[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]'
+- '[[_Standards/WikiData/WD~Asia_Dushanbe,63285959|WD~Asia_Dushanbe,63285959]]'
+- '[[_Standards/WikiData/WD~UTC+05_00,6806|WD~UTC+05_00,6806]]'
+described_by_source: '[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075|WD~TASS_Encyclopedia,63985075]]'
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Tg-%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD.opus
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Tadjikistan.wav
@@ -649,30 +649,30 @@ ISNI: 121052676
 MeSH_tree_code: Z01.252.100.900
 coordinates_of_northernmost_point: Point(70.43 41.03)
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-- '[[_Standards/WikiData/WD~Armenia,399]]'
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Afghanistan,889]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
-- '[[_Standards/WikiData/WD~Afghanistan,889]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]'
+- '[[_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 U_S_National_Archives_Identifier: 10046449
 IAB_code: 1422
 Dewey_Decimal_Classification: 2--586
@@ -694,14 +694,14 @@ UIC_alphabetical_country_code: TJ
 HASC: TJ
 licence_plate_code: TJ
 ISO_3166_1_alpha_2_code: TJ
-country: '[[_Standards/WikiData/WD~Tajikistan,863]]'
+country: '[[_Standards/WikiData/WD~Tajikistan,863|WD~Tajikistan,863]]'
 official_language:
-- '[[_Standards/WikiData/WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~Tajik,9260]]'
-capital: '[[_Standards/WikiData/WD~Dushanbe,9365]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Central_Asia,27275]]'
-part_of: '[[_Standards/WikiData/WD~Central_Asia,27275]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Tajik,9260|WD~Tajik,9260]]'
+capital: '[[_Standards/WikiData/WD~Dushanbe,9365|WD~Dushanbe,9365]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Central_Asia,27275|WD~Central_Asia,27275]]'
+part_of: '[[_Standards/WikiData/WD~Central_Asia,27275|WD~Central_Asia,27275]]'
+continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 VAT_rate: 20
 unemployment_rate: 11
 age_of_majority: 17
@@ -729,15 +729,15 @@ BTI_Status_Index:
 - 3.45
 - 3.59
 Democracy_Index: 1.94
-highest_point: '[[_Standards/WikiData/WD~Ismoil_Somoni_Peak,41413]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.tj,42033]]'
+highest_point: '[[_Standards/WikiData/WD~Ismoil_Somoni_Peak,41413|WD~Ismoil_Somoni_Peak,41413]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tj,42033|WD~.tj,42033]]'
 total_fertility_rate: 3.49
 UIC_numerical_country_code: 66
 Happy_Planet_Index_score: 55.2
-basic_form_of_government: '[[_Standards/WikiData/WD~presidential_system,49892]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~presidential_system,49892|WD~presidential_system,49892]]'
 Inequality_adjusted_Human_Development_Index: 0.599
 Human_Development_Index: 0.685
-head_of_state: '[[_Standards/WikiData/WD~Emomali_Rahmon,57366]]'
+head_of_state: '[[_Standards/WikiData/WD~Emomali_Rahmon,57366|WD~Emomali_Rahmon,57366]]'
 area: 143100
 mobile_country_code: 436
 GS1_country_code: 488
@@ -910,7 +910,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Tajikistan/ReadMe]] 
+[[Tajikistan/ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -936,7 +936,7 @@ VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Tajikistan/Emblem_of_Tajikistan.svg|350]]  
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Tajikistan.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Tajikistan.mp3|Anthem-Tajikistan.mp3]]
 ![[Tajikistan/Flag_of_Tajikistan.svg|350]]  
 
 Alcohol-l = `=this.dv_Alcohol-l`

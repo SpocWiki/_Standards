@@ -2,7 +2,7 @@
 dv_"Bridge", "OresundBridge: v9grb"
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Øresund_Bridge,297871]]'
+  - '[[../../../../../WikiData/WD~Øresund_Bridge,297871|WD~Øresund_Bridge,297871]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge|Øresund_Bridge]]'
   - '[[/_public/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.public|Øresund_Bridge.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.internal|Øresund_Bridge.internal]]'
@@ -12,7 +12,7 @@ dv_is_:
   - '[[/_secret/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.secret|Øresund_Bridge.secret]]'
 dv_bridge-oresundbridge: v9grb"
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Øresund_Bridge,297871]]'
+- '[[../../../../../WikiData/WD~Øresund_Bridge,297871|WD~Øresund_Bridge,297871]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge|Øresund_Bridge]]'
 - '[[/_public/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.public|Øresund_Bridge.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.internal|Øresund_Bridge.internal]]'
@@ -90,47 +90,47 @@ location:
 - 55.576444444
 - 12.821638888
 coordinate_location: Point(12.821638888 55.576444444)
-locations: '[[_Standards/WikiData/WD~Øresund,104662]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Øresund,104662]]'
-crosses: '[[_Standards/WikiData/WD~Øresund,104662]]'
-named_after: '[[_Standards/WikiData/WD~Øresund,104662]]'
+locations: '[[_Standards/WikiData/WD~Øresund,104662|WD~Øresund,104662]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Øresund,104662|WD~Øresund,104662]]'
+crosses: '[[_Standards/WikiData/WD~Øresund,104662|WD~Øresund,104662]]'
+named_after: '[[_Standards/WikiData/WD~Øresund,104662|WD~Øresund,104662]]'
 main_building_contractor:
-- '[[_Standards/WikiData/WD~Hochtief,136542]]'
-- '[[_Standards/WikiData/WD~Skanska,1537811]]'
-- '[[_Standards/WikiData/WD~MT_Højgaard,12325556]]'
+- '[[_Standards/WikiData/WD~Hochtief,136542|WD~Hochtief,136542]]'
+- '[[_Standards/WikiData/WD~Skanska,1537811|WD~Skanska,1537811]]'
+- '[[_Standards/WikiData/WD~MT_Højgaard,12325556|WD~MT_Højgaard,12325556]]'
 instance_of:
-- '[[_Standards/WikiData/WD~cable_stayed_bridge,158555]]'
-- '[[_Standards/WikiData/WD~multi_level_bridge,1243306]]'
-- '[[_Standards/WikiData/WD~road_rail_bridge,6636777]]'
-- '[[_Standards/WikiData/WD~international_bridge,25297630]]'
-- '[[_Standards/WikiData/WD~double_decker_bridge,110848334]]'
+- '[[_Standards/WikiData/WD~cable_stayed_bridge,158555|WD~cable_stayed_bridge,158555]]'
+- '[[_Standards/WikiData/WD~multi_level_bridge,1243306|WD~multi_level_bridge,1243306]]'
+- '[[_Standards/WikiData/WD~road_rail_bridge,6636777|WD~road_rail_bridge,6636777]]'
+- '[[_Standards/WikiData/WD~international_bridge,25297630|WD~international_bridge,25297630]]'
+- '[[_Standards/WikiData/WD~double_decker_bridge,110848334|WD~double_decker_bridge,110848334]]'
 terminus:
-- '[[_Standards/WikiData/WD~Peberholm,163518]]'
-- '[[_Standards/WikiData/WD~Lernacken,3428392]]'
+- '[[_Standards/WikiData/WD~Peberholm,163518|WD~Peberholm,163518]]'
+- '[[_Standards/WikiData/WD~Lernacken,3428392|WD~Lernacken,3428392]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
-- '[[_Standards/WikiData/WD~steel,11427]]'
+- '[[_Standards/WikiData/WD~reinforced_concrete,184190|WD~reinforced_concrete,184190]]'
+- '[[_Standards/WikiData/WD~steel,11427|WD~steel,11427]]'
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Tårnby_Municipality,282496]]'
-- '[[_Standards/WikiData/WD~Malmö_Municipality,503361]]'
+- '[[_Standards/WikiData/WD~Tårnby_Municipality,282496|WD~Tårnby_Municipality,282496]]'
+- '[[_Standards/WikiData/WD~Malmö_Municipality,503361|WD~Malmö_Municipality,503361]]'
 structural_engineer:
-- '[[_Standards/WikiData/WD~Arup,716737]]'
-- "[[_Standards/WikiData/WD~Société_d'études_techniques_et_économiques,3480651]]"
-- '[[_Standards/WikiData/WD~ISC_A_S,20033287]]'
+- '[[_Standards/WikiData/WD~Arup,716737|WD~Arup,716737]]'
+- "[[_Standards/WikiData/WD~Société_d'études_techniques_et_économiques,3480651|WD~Société_d'études_techniques_et_économiques,3480651]]"
+- '[[_Standards/WikiData/WD~ISC_A_S,20033287|WD~ISC_A_S,20033287]]'
 carries:
-- '[[_Standards/WikiData/WD~Oresund_Line,802562]]'
-- '[[_Standards/WikiData/WD~European_route_E20_in_Sweden,1376038]]'
-- '[[_Standards/WikiData/WD~European_route_E20_in_Denmark,1788817]]'
+- '[[_Standards/WikiData/WD~Oresund_Line,802562|WD~Oresund_Line,802562]]'
+- '[[_Standards/WikiData/WD~European_route_E20_in_Sweden,1376038|WD~European_route_E20_in_Sweden,1376038]]'
+- '[[_Standards/WikiData/WD~European_route_E20_in_Denmark,1788817|WD~European_route_E20_in_Denmark,1788817]]'
 architect:
-- '[[_Standards/WikiData/WD~Dissing+Weitling,1229307]]'
-- '[[_Standards/WikiData/WD~Georg_Rotne,136447947]]'
+- '[[_Standards/WikiData/WD~Dissing+Weitling,1229307|WD~Dissing+Weitling,1229307]]'
+- '[[_Standards/WikiData/WD~Georg_Rotne,136447947|WD~Georg_Rotne,136447947]]'
 part_of:
-- '[[_Standards/WikiData/WD~Oresund_Connection,20191120]]'
-- '[[_Standards/WikiData/WD~Denmark_Sweden_border,21685994]]'
-significant_event: '[[_Standards/WikiData/WD~start_of_construction,27136782]]'
+- '[[_Standards/WikiData/WD~Oresund_Connection,20191120|WD~Oresund_Connection,20191120]]'
+- '[[_Standards/WikiData/WD~Denmark_Sweden_border,21685994|WD~Denmark_Sweden_border,21685994]]'
+significant_event: '[[_Standards/WikiData/WD~start_of_construction,27136782|WD~start_of_construction,27136782]]'
 country:
-- '[[_Standards/WikiData/WD~Sweden,34]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
 capital_cost: 2600000000
 longest_span: 490
 clearance: 57

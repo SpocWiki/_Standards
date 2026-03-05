@@ -84,26 +84,26 @@ aliases:
 - 스카우트 운동
 has_id_wikidata: Q872181
 subclass_of:
-- '[[_Standards/WikiData/WD~recreation,184872]]'
-- '[[_Standards/WikiData/WD~education,8434]]'
-field_of_work: '[[_Standards/WikiData/WD~youth,190007]]'
+- '[[_Standards/WikiData/WD~recreation,184872|WD~recreation,184872]]'
+- '[[_Standards/WikiData/WD~education,8434|WD~education,8434]]'
+field_of_work: '[[_Standards/WikiData/WD~youth,190007|WD~youth,190007]]'
 uses:
-- '[[_Standards/WikiData/WD~scouting_uniform,225195]]'
-- '[[_Standards/WikiData/WD~fleur_de_lis_in_Scouting,834113]]'
-interested_in: '[[_Standards/WikiData/WD~survival_skill,891382]]'
-has_characteristic: '[[_Standards/WikiData/WD~scout_group,2301851]]'
-practiced_by: '[[_Standards/WikiData/WD~scout_leader,2540793]]'
+- '[[_Standards/WikiData/WD~scouting_uniform,225195|WD~scouting_uniform,225195]]'
+- '[[_Standards/WikiData/WD~fleur_de_lis_in_Scouting,834113|WD~fleur_de_lis_in_Scouting,834113]]'
+interested_in: '[[_Standards/WikiData/WD~survival_skill,891382|WD~survival_skill,891382]]'
+has_characteristic: '[[_Standards/WikiData/WD~scout_group,2301851|WD~scout_group,2301851]]'
+practiced_by: '[[_Standards/WikiData/WD~scout_leader,2540793|WD~scout_leader,2540793]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Scouting,6634335]]'
-different_from: '[[_Standards/WikiData/WD~Skauting,9337732]]'
-facet_of: '[[_Standards/WikiData/WD~civil_defense,10427676]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Scouting,14410133]]'
-founded_by: '[[_Standards/WikiData/WD~Robert_Baden_Powell,_1st_Baron_Baden_Powell,12665]]'
-location_of_formation: '[[_Standards/WikiData/WD~England,21]]'
-start_point: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-instance_of: '[[_Standards/WikiData/WD~social_movement,49773]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Scouting,6634335|WD~Portal_Scouting,6634335]]'
+different_from: '[[_Standards/WikiData/WD~Skauting,9337732|WD~Skauting,9337732]]'
+facet_of: '[[_Standards/WikiData/WD~civil_defense,10427676|WD~civil_defense,10427676]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Scouting,14410133|WD~Template_Scouting,14410133]]'
+founded_by: '[[_Standards/WikiData/WD~Robert_Baden_Powell,_1st_Baron_Baden_Powell,12665|WD~Robert_Baden_Powell,_1st_Baron_Baden_Powell,12665]]'
+location_of_formation: '[[_Standards/WikiData/WD~England,21|WD~England,21]]'
+start_point: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+instance_of: '[[_Standards/WikiData/WD~social_movement,49773|WD~social_movement,49773]]'
 Colon_Classification: MY7
 Commons_gallery: Scouting
 Commons_category: Scouting

@@ -35,7 +35,7 @@ Tag Instances like this:
 A particular physical business or branch of an organization. 
 Examples of LocalBusiness include a restaurant, a particular branch of a restaurant chain, a branch of a bank, a medical practice, a club, a bowling alley, etc.
 
-#has_/parent_class :: [[../Organization, Place]]  
+#has_/parent_class :: [[../Organization, Place|Organization, Place]]  
 
 #has_/child_/class :: [ AnimalShelter, ArchiveOrganization, AutomotiveBusiness, ChildCare, Dentist, DryCleaningOrLaundry, EmergencyService, EmploymentAgency, EntertainmentBusiness, FinancialService, FoodEstablishment, GovernmentOffice, HealthAndBeautyBusiness, HomeAndConstructionBusiness, InternetCafe, LegalService, Library, LodgingBusiness, MedicalBusiness, ProfessionalService, RadioStation, RealEstateAgent, RecyclingCenter, SelfStorage, ShoppingCenter, SportsActivityLocation, Store, TelevisionStation, TouristInformationCenter, TravelAgency ]  
 

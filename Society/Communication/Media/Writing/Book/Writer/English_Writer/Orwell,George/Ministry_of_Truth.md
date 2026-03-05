@@ -42,7 +42,7 @@ dv_has_:
 
 > The **Ministry of Truth**, the Ministry of Peace, the Ministry of Love, and the Ministry of Plenty 
 > are the four ministries of the government of Oceania 
-> in the 1949 dystopian novel [[Nineteen_Eighty-Four]], by [[../Orwell,George]].
+> in the 1949 dystopian novel [[Nineteen_Eighty-Four]], by [[../Orwell,George|Orwell,George]].
 >
 > - The Ministry of Peace concerns itself with war, 
 > - the Ministry of Truth with lies, 

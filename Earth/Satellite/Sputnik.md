@@ -43,18 +43,18 @@ aliases:
 - 斯普特尼克1号
 - 스푸트니크 1호
 has_id_wikidata: Q80811
-followed_by: '[[_Standards/WikiData/WD~Sputnik_2,190555]]'
+followed_by: '[[_Standards/WikiData/WD~Sputnik_2,190555|WD~Sputnik_2,190555]]'
 significant_event:
-- '[[_Standards/WikiData/WD~atmospheric_entry,531716]]'
-- '[[_Standards/WikiData/WD~rocket_launch,797476]]'
-- '[[_Standards/WikiData/WD~loss_of_signal,20919161]]'
-type_of_orbit: '[[_Standards/WikiData/WD~low_Earth_orbit,663611]]'
-manufacturer: '[[_Standards/WikiData/WD~S.P._Korolev_Rocket_and_Space_Corporation_Energia,763402]]'
-space_launch_vehicle: '[[_Standards/WikiData/WD~Sputnik,1393751]]'
-start_point: "[[_Standards/WikiData/WD~Gagarin's_Start,2580456]]"
-cause_of_destruction: '[[_Standards/WikiData/WD~orbital_decay,2918240]]'
-instance_of: '[[_Standards/WikiData/WD~artificial_satellite_of_the_Earth,12832168]]'
-operator: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~atmospheric_entry,531716|WD~atmospheric_entry,531716]]'
+- '[[_Standards/WikiData/WD~rocket_launch,797476|WD~rocket_launch,797476]]'
+- '[[_Standards/WikiData/WD~loss_of_signal,20919161|WD~loss_of_signal,20919161]]'
+type_of_orbit: '[[_Standards/WikiData/WD~low_Earth_orbit,663611|WD~low_Earth_orbit,663611]]'
+manufacturer: '[[_Standards/WikiData/WD~S.P._Korolev_Rocket_and_Space_Corporation_Energia,763402|WD~S.P._Korolev_Rocket_and_Space_Corporation_Energia,763402]]'
+space_launch_vehicle: '[[_Standards/WikiData/WD~Sputnik,1393751|WD~Sputnik,1393751]]'
+start_point: "[[_Standards/WikiData/WD~Gagarin's_Start,2580456|WD~Gagarin's_Start,2580456]]"
+cause_of_destruction: '[[_Standards/WikiData/WD~orbital_decay,2918240|WD~orbital_decay,2918240]]'
+instance_of: '[[_Standards/WikiData/WD~artificial_satellite_of_the_Earth,12832168|WD~artificial_satellite_of_the_Earth,12832168]]'
+operator: '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
 nominal_power_output: 1
 semi_major_axis_of_an_orbit: 5
 diameter: 58
@@ -78,7 +78,7 @@ Commons_category: Sputnik-1
 Google_Doodle: sputnik-50th-anniversary
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Sputnik_1,80811]]'
+  - '[[../../WikiData/WD~Sputnik_1,80811|WD~Sputnik_1,80811]]'
   - '[[/_Standards/Earth/Satellite/Sputnik|Sputnik]]'
   - '[[/_public/Earth/Satellite/Sputnik.public|Sputnik.public]]'
   - '[[/_internal/Earth/Satellite/Sputnik.internal|Sputnik.internal]]'
@@ -87,7 +87,7 @@ dv_is_:
   - '[[/_personal/Earth/Satellite/Sputnik.personal|Sputnik.personal]]'
   - '[[/_secret/Earth/Satellite/Sputnik.secret|Sputnik.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Sputnik_1,80811]]'
+- '[[../../WikiData/WD~Sputnik_1,80811|WD~Sputnik_1,80811]]'
 - '[[/_Standards/Earth/Satellite/Sputnik|Sputnik]]'
 - '[[/_public/Earth/Satellite/Sputnik.public|Sputnik.public]]'
 - '[[/_internal/Earth/Satellite/Sputnik.internal|Sputnik.internal]]'

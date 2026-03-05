@@ -63,8 +63,8 @@ aliases:
 #is_a_/ComputerLanguage 
 #is_a_/computer_language  
 
-#has_/parent :: [[../Prog~Structured/Structured_Prog-Lang/Prog~Pascal]] 
-#has_/creator :: [[../../../../../Computer_Science/Computer_Scientist/Wirth,Niklaus]], [[Tesler~Larry]]    
+#has_/parent :: [[../Prog~Structured/Structured_Prog-Lang/Prog~Pascal|Prog~Pascal]] 
+#has_/creator :: [[../../../../../Computer_Science/Computer_Scientist/Wirth,Niklaus|Wirth,Niklaus]], [[Tesler~Larry]]    
 
 > Object Pascal is an extension to the programming language Pascal that provides object-oriented programming (OOP) features such as classes and methods.
 >
@@ -75,7 +75,7 @@ aliases:
 >
 > Symantec ported Object Pascal to the PC, and developed a similar object framework on that platform. In contrast to TCL, which eventually migrated to C++, the PC libraries remained mainly based on Pascal.
 >
-> Borland added support for object-oriented programming to [[OO-Lang/Turbo-Pascal]] 5.5, which would eventually become the basis for the Object Pascal dialect used in [[OO-Lang/Prog~Delphi]]. Delphi remained mainstream for business applications on the PC into the early 2000s, and was partly displaced in the 2000s with the introduction of the .NET Framework.
+> Borland added support for object-oriented programming to [[OO-Lang/Turbo-Pascal|Turbo-Pascal]] 5.5, which would eventually become the basis for the Object Pascal dialect used in [[OO-Lang/Prog~Delphi|Prog~Delphi]]. Delphi remained mainstream for business applications on the PC into the early 2000s, and was partly displaced in the 2000s with the introduction of the .NET Framework.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Object%20Pascal) 
 

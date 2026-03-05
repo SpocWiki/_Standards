@@ -90,24 +90,24 @@ aliases:
 - 君主
 - 군주
 has_id_wikidata: Q116
-wears: '[[_Standards/WikiData/WD~regalia,119814]]'
+wears: '[[_Standards/WikiData/WD~regalia,119814|WD~regalia,119814]]'
 instance_of:
-- '[[_Standards/WikiData/WD~noble_title,355567]]'
-- '[[_Standards/WikiData/WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~noble_title,355567|WD~noble_title,355567]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~ruler,1097498]]'
-- '[[_Standards/WikiData/WD~head_of_government,2285706]]'
-subclass_of: '[[_Standards/WikiData/WD~sovereign,2304859]]'
+- '[[_Standards/WikiData/WD~ruler,1097498|WD~ruler,1097498]]'
+- '[[_Standards/WikiData/WD~head_of_government,2285706|WD~head_of_government,2285706]]'
+subclass_of: '[[_Standards/WikiData/WD~sovereign,2304859|WD~sovereign,2304859]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_monarch,5626285]]'
-- '[[_Standards/WikiData/WD~Q10804899,10804899]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~wāli,12087689]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q18723048,18723048]]'
-depicted_by: '[[_Standards/WikiData/WD~Hall_of_the_Emperors,131812999]]'
-part_of: '[[_Standards/WikiData/WD~monarchy,7269]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_monarch,5626285|WD~Template_Infobox_monarch,5626285]]'
+- '[[_Standards/WikiData/WD~Q10804899,10804899|WD~Q10804899,10804899]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~wāli,12087689|WD~wāli,12087689]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q18723048,18723048|WD~Q18723048,18723048]]'
+depicted_by: '[[_Standards/WikiData/WD~Hall_of_the_Emperors,131812999|WD~Hall_of_the_Emperors,131812999]]'
+part_of: '[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
 Dewey_Decimal_Classification:
 - 321
 - 352.23

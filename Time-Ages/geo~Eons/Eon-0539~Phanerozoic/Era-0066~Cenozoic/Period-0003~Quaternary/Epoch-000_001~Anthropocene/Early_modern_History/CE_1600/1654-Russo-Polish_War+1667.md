@@ -47,13 +47,13 @@ aliases:
 - 러시아-폴란드 전쟁
 has_id_wikidata: Q631991
 participant:
-- '[[_Standards/WikiData/WD~Crimean_Khanate,160440]]'
-- '[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]'
-- '[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]'
-- '[[_Standards/WikiData/WD~Cossack_Hetmanate,212439]]'
-part_of: '[[_Standards/WikiData/WD~list_of_armed_conflicts_involving_Poland_against_Russia,591608]]'
-location: '[[_Standards/WikiData/WD~Europe,46]]'
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+- '[[_Standards/WikiData/WD~Crimean_Khanate,160440|WD~Crimean_Khanate,160440]]'
+- '[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107|WD~Polish_Lithuanian_Commonwealth,172107]]'
+- '[[_Standards/WikiData/WD~Tsardom_of_Russia,186096|WD~Tsardom_of_Russia,186096]]'
+- '[[_Standards/WikiData/WD~Cossack_Hetmanate,212439|WD~Cossack_Hetmanate,212439]]'
+part_of: '[[_Standards/WikiData/WD~list_of_armed_conflicts_involving_Poland_against_Russia,591608|WD~list_of_armed_conflicts_involving_Poland_against_Russia,591608]]'
+location: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
 end_time: 1667-01-01T00:00:00Z
 start_time: 1654-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/War%20between%20Muscovy%20and%20the%20Polish-Lithuanian%20Commonwealth%20of%201654-1667%20Montage.png

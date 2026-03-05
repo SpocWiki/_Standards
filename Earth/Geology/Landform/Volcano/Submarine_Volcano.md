@@ -46,10 +46,10 @@ aliases:
 - 해저화산
 has_id_wikidata: Q674775
 subclass_of:
-- '[[_Standards/WikiData/WD~seamount,503269]]'
-- '[[_Standards/WikiData/WD~volcano,8072]]'
-has_effect: '[[_Standards/WikiData/WD~submarine_eruption,2546109]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~seamount,503269|WD~seamount,503269]]'
+- '[[_Standards/WikiData/WD~volcano,8072|WD~volcano,8072]]'
+has_effect: '[[_Standards/WikiData/WD~submarine_eruption,2546109|WD~submarine_eruption,2546109]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bands%20of%20glowing%20magma%20from%20submarine%20volcano.jpg
 Commons_category: Submarine volcanoes
 dv_is_:

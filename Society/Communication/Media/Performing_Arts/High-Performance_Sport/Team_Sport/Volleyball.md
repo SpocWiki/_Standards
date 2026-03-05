@@ -116,32 +116,32 @@ inception: 1947-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Triple%20block%20%28Serbia%20vs%20China%2C%20Grand%20Prix%202017%29.jpg
 MeSH_tree_code: I03.450.642.845.932
 has_characteristic:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~demonstration_sport_competition,1186515]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~demonstration_sport_competition,1186515|WD~demonstration_sport_competition,1186515]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~team_sport,216048]]'
-- '[[_Standards/WikiData/WD~ball_game,877517]]'
-- '[[_Standards/WikiData/WD~racket_sport,2426135]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~William_G._Morgan,313949]]'
+- '[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~ball_game,877517|WD~ball_game,877517]]'
+- '[[_Standards/WikiData/WD~racket_sport,2426135|WD~racket_sport,2426135]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_G._Morgan,313949|WD~William_G._Morgan,313949]]'
 uses:
-- '[[_Standards/WikiData/WD~volleyball,927924]]'
-- '[[_Standards/WikiData/WD~volleyball_court,26707613]]'
-- '[[_Standards/WikiData/WD~volleyball_rules,41533146]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Volleyball,3595929]]'
-different_from: '[[_Standards/WikiData/WD~Volleyball,7940369]]'
+- '[[_Standards/WikiData/WD~volleyball,927924|WD~volleyball,927924]]'
+- '[[_Standards/WikiData/WD~volleyball_court,26707613|WD~volleyball_court,26707613]]'
+- '[[_Standards/WikiData/WD~volleyball_rules,41533146|WD~volleyball_rules,41533146]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Volleyball,3595929|WD~Portal_Volleyball,3595929]]'
+different_from: '[[_Standards/WikiData/WD~Volleyball,7940369|WD~Volleyball,7940369]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~volleyball_player,15117302]]'
-- '[[_Standards/WikiData/WD~volleyball_team,15720476]]'
-- '[[_Standards/WikiData/WD~volleyball_coach,20730881]]'
-model_item: '[[_Standards/WikiData/WD~volleyball_team,15720476]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27136411,27136411]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_volleyball,41437501]]'
+- '[[_Standards/WikiData/WD~volleyball_player,15117302|WD~volleyball_player,15117302]]'
+- '[[_Standards/WikiData/WD~volleyball_team,15720476|WD~volleyball_team,15720476]]'
+- '[[_Standards/WikiData/WD~volleyball_coach,20730881|WD~volleyball_coach,20730881]]'
+model_item: '[[_Standards/WikiData/WD~volleyball_team,15720476|WD~volleyball_team,15720476]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27136411,27136411|WD~Q27136411,27136411]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_volleyball,41437501|WD~history_of_volleyball,41437501]]'
 Dewey_Decimal_Classification: 796.325
 time_of_discovery_or_invention: 1895-01-01T00:00:00Z
-authority: '[[_Standards/WikiData/WD~Fédération_Internationale_de_Volleyball,6851]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+authority: '[[_Standards/WikiData/WD~Fédération_Internationale_de_Volleyball,6851|WD~Fédération_Internationale_de_Volleyball,6851]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 maximum_number_of_players: 12
 minimum_number_of_players: 12
 IAB_code: 541

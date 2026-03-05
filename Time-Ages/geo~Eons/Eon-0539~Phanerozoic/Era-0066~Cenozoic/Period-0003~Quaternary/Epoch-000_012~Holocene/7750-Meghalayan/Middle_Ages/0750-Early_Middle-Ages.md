@@ -73,11 +73,11 @@ aliases:
 - 中世纪前期
 - 중세 초기
 has_id_wikidata: Q202763
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Middle_Ages,7473381]]'
-instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Middle_Ages,7473381|WD~Category_Early_Middle_Ages,7473381]]'
+instance_of: '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
 start_time: 0500-01-01T00:00:00Z
 end_time: 0900-01-01T00:00:00Z
-location: '[[_Standards/WikiData/WD~Europe,46]]'
+location: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 OmegaWiki_Defined_Meaning: 1258174
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Meister%20der%20Reichenauer%20Schule%20004.jpg
 Basisklassifikation: 15.31
@@ -167,7 +167,7 @@ dv_has_:
     zh-tw: 中世紀前期
   next_:
     item: '[[1000-High_Middle-Ages+1300]]'
-  previous_item: '[[../0000-Late_Antiquity]]'
+  previous_item: '[[../0000-Late_Antiquity|0000-Late_Antiquity]]'
   time_:
     started: 0750-06-01T00:00:00.000+00:53
     stopped: 1000-06-01T00:00:00.000+00:53
@@ -185,7 +185,7 @@ dv_has_time_started: 0750-06-01
 dv_has_time_stopped: 1000-06-01
 dv_has_duration_years: 250
 dv_has_duration_: P250Y
-dv_has_previous_item: '[[../0000-Late_Antiquity]]'
+dv_has_previous_item: '[[../0000-Late_Antiquity|0000-Late_Antiquity]]'
 dv_has_next_item: '[[1000-High_Middle-Ages+1300]]'
 dv_is_same_as:
 - '[[WD~Early_Middle-Ages,202763]]'

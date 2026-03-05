@@ -55,14 +55,14 @@ aliases:
 - 訊號處理
 - 신호 처리
 has_id_wikidata: Q208163
-studied_by: '[[_Standards/WikiData/WD~signal_theory,2285159]]'
+studied_by: '[[_Standards/WikiData/WD~signal_theory,2285159|WD~signal_theory,2285159]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~process,3249551]]'
-- '[[_Standards/WikiData/WD~technology,11016]]'
+- '[[_Standards/WikiData/WD~process,3249551|WD~process,3249551]]'
+- '[[_Standards/WikiData/WD~technology,11016|WD~technology,11016]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~type_of_process,116505632]]'
-facet_of: '[[_Standards/WikiData/WD~electrical_engineering,43035]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_process,116505632|WD~type_of_process,116505632]]'
+facet_of: '[[_Standards/WikiData/WD~electrical_engineering,43035|WD~electrical_engineering,43035]]'
 All_Science_Journal_Classification_Codes: 1711
 OmegaWiki_Defined_Meaning: 1220460
 subreddit:

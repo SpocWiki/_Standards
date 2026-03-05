@@ -49,18 +49,18 @@ aliases:
 - 스케이트보딩
 has_id_wikidata: Q842284
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~boardsport,911069]]'
-- '[[../../../../../../WikiData/WD~roller_sport,2164355]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~boardsport,911069|WD~boardsport,911069]]'
+- '[[../../../../../../WikiData/WD~roller_sport,2164355|WD~roller_sport,2164355]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~individual_transportation,109732621]]'
-- '[[_Standards/WikiData/WD~alternative_transportation,109733629]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Skateboarding,14338253]]'
-practiced_by: '[[_Standards/WikiData/WD~skateboarder,17502714]]'
-uses: '[[_Standards/WikiData/WD~skateboard,15783]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~individual_transportation,109732621|WD~individual_transportation,109732621]]'
+- '[[_Standards/WikiData/WD~alternative_transportation,109733629|WD~alternative_transportation,109733629]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Skateboarding,14338253|WD~Template_Skateboarding,14338253]]'
+practiced_by: '[[_Standards/WikiData/WD~skateboarder,17502714|WD~skateboarder,17502714]]'
+uses: '[[_Standards/WikiData/WD~skateboard,15783|WD~skateboard,15783]]'
 IAB_code: 503
 social_media_followers: 480722
 Commons_category: Skateboarding

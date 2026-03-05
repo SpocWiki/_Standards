@@ -35,10 +35,10 @@ aliases:
 - 등각 사상
 has_id_wikidata: Q850275
 subclass_of:
-- '[[_Standards/WikiData/WD~smooth_function,868473]]'
-- '[[_Standards/WikiData/WD~projection,13415428]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~smooth_function,868473|WD~smooth_function,868473]]'
+- '[[_Standards/WikiData/WD~projection,13415428|WD~projection,13415428]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 OmegaWiki_Defined_Meaning: 962794
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt"><mtr><mtd></mtd><mtd><mi>f</mi><mo stretchy="false">&#x003A;</mo><mo stretchy="false">(</mo><mi>M</mi><mo>,</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false" accent="false">&#x2192;</mo><mo stretchy="false">(</mo><msup><mi>M</mi><mo>&#x2032;</mo></msup><mo>,</mo><msup><mi>g</mi><mo>&#x2032;</mo></msup><mo stretchy="false">)</mo></mtd></mtr><mtr><mtd></mtd><mtd><msup><mi>f</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">*</mo></mrow></msup><msup><mi>g</mi><mo>&#x2032;</mo></msup><mo stretchy="false">=</mo><mi>exp</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><mi>&#x03D5;</mi><mo stretchy="false">)</mo><mi>g</mi></mtd></mtr></mtable></mrow></mstyle></mrow></math>
 Commons_category: Conformal mapping
@@ -87,7 +87,7 @@ dv_has_:
 
 # [[conformal_Map]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~conformal_map,850275]]
+#is_/same_as :: [[_Standards/WikiData/WD~conformal_map,850275|WD~conformal_map,850275]]
 
 ## #has_/text_of_/abstract 
 

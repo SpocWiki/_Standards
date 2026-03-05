@@ -59,11 +59,11 @@ aliases:
 - 리코더
 has_id_wikidata: Q187851
 subclass_of:
-- '[[_Standards/WikiData/WD~duct_flute,478634]]'
-- '[[_Standards/WikiData/WD~open_flutes_with_internal_duct_with_fingerholes,55738665]]'
-used_by: '[[_Standards/WikiData/WD~recorder_player,3074722]]'
-described_by_source: "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+- '[[_Standards/WikiData/WD~duct_flute,478634|WD~duct_flute,478634]]'
+- '[[_Standards/WikiData/WD~open_flutes_with_internal_duct_with_fingerholes,55738665|WD~open_flutes_with_internal_duct_with_fingerholes,55738665]]'
+used_by: '[[_Standards/WikiData/WD~recorder_player,3074722|WD~recorder_player,3074722]]'
+described_by_source: "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396|WD~type_of_musical_instrument,110295396]]'
 Nomenclature_for_Museum_Cataloging: 10852
 OmegaWiki_Defined_Meaning: 375730
 Hornbostel_Sachs_classification: 421.221.12

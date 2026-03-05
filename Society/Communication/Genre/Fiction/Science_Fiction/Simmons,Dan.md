@@ -5,7 +5,7 @@ has_id_wikidata: Q297538
 
 # [[Simmons,Dan]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Dan_Simmons,297538]]
+#is_/same_as :: [[_Standards/WikiData/WD~Dan_Simmons,297538|WD~Dan_Simmons,297538]]
 
 ## #has_/text_of_/abstract 
 

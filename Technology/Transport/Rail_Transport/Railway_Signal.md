@@ -47,15 +47,15 @@ aliases:
 - 철도 신호기
 has_id_wikidata: Q862562
 subclass_of:
-- '[[_Standards/WikiData/WD~railway_facility,800279]]'
-- '[[_Standards/WikiData/WD~appliance,1183543]]'
-instance_of: '[[_Standards/WikiData/WD~signal_generator,1259123]]'
-part_of: '[[_Standards/WikiData/WD~rail_infrastructure,1311670]]'
-facet_of: '[[_Standards/WikiData/WD~railway_signalling_system,1316667]]'
+- '[[_Standards/WikiData/WD~railway_facility,800279|WD~railway_facility,800279]]'
+- '[[_Standards/WikiData/WD~appliance,1183543|WD~appliance,1183543]]'
+instance_of: '[[_Standards/WikiData/WD~signal_generator,1259123|WD~signal_generator,1259123]]'
+part_of: '[[_Standards/WikiData/WD~rail_infrastructure,1311670|WD~rail_infrastructure,1311670]]'
+facet_of: '[[_Standards/WikiData/WD~railway_signalling_system,1316667|WD~railway_signalling_system,1316667]]'
 has_use:
-- '[[_Standards/WikiData/WD~railway_signalling_system,1316667]]'
-- '[[_Standards/WikiData/WD~rail_safety,42297105]]'
-different_from: '[[_Standards/WikiData/WD~railway_signal,2285071]]'
+- '[[_Standards/WikiData/WD~railway_signalling_system,1316667|WD~railway_signalling_system,1316667]]'
+- '[[_Standards/WikiData/WD~rail_safety,42297105|WD~rail_safety,42297105]]'
+different_from: '[[_Standards/WikiData/WD~railway_signal,2285071|WD~railway_signal,2285071]]'
 Nomenclature_for_Museum_Cataloging: 11409
 Commons_category: Rail transport signals
 image:

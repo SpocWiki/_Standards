@@ -655,12 +655,12 @@ dv_has_image_for_flag: "[[./Switzerland/Flag_of_Switzerland.svg|200]]"
 dv_has_image_for_coat_of_arms: "[[./Switzerland/Coat_of_arms_of_Switzerland.svg|Coat_of_arms_of_Switzerland.svg|150]]"
 dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3|Anthem-Switzerland.mp3]]"
 dv_developed_developing_countries: Developed
-anthem: "[[_Standards/WikiData/WD~Swiss_Psalm,182536]]"
+anthem: "[[_Standards/WikiData/WD~Swiss_Psalm,182536|WD~Swiss_Psalm,182536]]"
 area: 41285
 Baidu_Tieba_name: 瑞士
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~federal_republic,512187]]"
-  - "[[_Standards/WikiData/WD~directorial_system,2523556]]"
+  - "[[_Standards/WikiData/WD~federal_republic,512187|WD~federal_republic,512187]]"
+  - "[[_Standards/WikiData/WD~directorial_system,2523556|WD~directorial_system,2523556]]"
 BHCL_UUID:
   - 33066f03-7ef2-489d-97b1-dde7f5fe59ef
   - d67bdc7e-4310-41d6-95ae-4ee5cee3e82c
@@ -670,61 +670,61 @@ birth_rate:
   - 9.9
   - 10.3
 budget: 89700000000
-capital: "[[_Standards/WikiData/WD~Bern,70]]"
-central_bank: "[[_Standards/WikiData/WD~Swiss_National_Bank,597394]]"
+capital: "[[_Standards/WikiData/WD~Bern,70|WD~Bern,70]]"
+central_bank: "[[_Standards/WikiData/WD~Swiss_National_Bank,597394|WD~Swiss_National_Bank,597394]]"
 CIVICUS_Monitor_country_entry: switzerland
-coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Switzerland,189560]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Switzerland,189560|WD~Coat_of_arms_of_Switzerland,189560]]"
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Switzerland.svg
 Colon_Classification: SG--594
 Commons_category: Switzerland
 Commons_gallery: Switzerland
 confidential: public
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Valais,834]]"
-  - "[[_Standards/WikiData/WD~Bern,11911]]"
-  - "[[_Standards/WikiData/WD~Canton_of_Geneva,11917]]"
-  - "[[_Standards/WikiData/WD~Glarus,11922]]"
-  - "[[_Standards/WikiData/WD~Grisons,11925]]"
-  - "[[_Standards/WikiData/WD~Solothurn,11929]]"
-  - "[[_Standards/WikiData/WD~Zug,11933]]"
-  - "[[_Standards/WikiData/WD~Canton_of_Zürich,11943]]"
-  - "[[_Standards/WikiData/WD~Aargau,11972]]"
-  - "[[_Standards/WikiData/WD~Appenzell_Ausserrhoden,12079]]"
-  - "[[_Standards/WikiData/WD~Appenzell_Innerrhoden,12094]]"
-  - "[[_Standards/WikiData/WD~Lucerne,12121]]"
-  - "[[_Standards/WikiData/WD~Basel-Landschaft,12146]]"
-  - "[[_Standards/WikiData/WD~Basel-Stadt,12172]]"
-  - "[[_Standards/WikiData/WD~Uri,12404]]"
-  - "[[_Standards/WikiData/WD~Schwyz,12433]]"
-  - "[[_Standards/WikiData/WD~Obwalden,12573]]"
-  - "[[_Standards/WikiData/WD~Nidwalden,12592]]"
-  - "[[_Standards/WikiData/WD~Canton_of_Fribourg,12640]]"
-  - "[[_Standards/WikiData/WD~Schaffhausen,12697]]"
-  - "[[_Standards/WikiData/WD~Thurgau,12713]]"
-  - "[[_Standards/WikiData/WD~Ticino,12724]]"
-  - "[[_Standards/WikiData/WD~Neuchâtel,12738]]"
-  - "[[_Standards/WikiData/WD~canton_St._Gallen,12746]]"
-  - "[[_Standards/WikiData/WD~Jura,12755]]"
-  - "[[_Standards/WikiData/WD~canton_Vaud,12771]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+  - "[[_Standards/WikiData/WD~Valais,834|WD~Valais,834]]"
+  - "[[_Standards/WikiData/WD~Bern,11911|WD~Bern,11911]]"
+  - "[[_Standards/WikiData/WD~Canton_of_Geneva,11917|WD~Canton_of_Geneva,11917]]"
+  - "[[_Standards/WikiData/WD~Glarus,11922|WD~Glarus,11922]]"
+  - "[[_Standards/WikiData/WD~Grisons,11925|WD~Grisons,11925]]"
+  - "[[_Standards/WikiData/WD~Solothurn,11929|WD~Solothurn,11929]]"
+  - "[[_Standards/WikiData/WD~Zug,11933|WD~Zug,11933]]"
+  - "[[_Standards/WikiData/WD~Canton_of_Zürich,11943|WD~Canton_of_Zürich,11943]]"
+  - "[[_Standards/WikiData/WD~Aargau,11972|WD~Aargau,11972]]"
+  - "[[_Standards/WikiData/WD~Appenzell_Ausserrhoden,12079|WD~Appenzell_Ausserrhoden,12079]]"
+  - "[[_Standards/WikiData/WD~Appenzell_Innerrhoden,12094|WD~Appenzell_Innerrhoden,12094]]"
+  - "[[_Standards/WikiData/WD~Lucerne,12121|WD~Lucerne,12121]]"
+  - "[[_Standards/WikiData/WD~Basel-Landschaft,12146|WD~Basel-Landschaft,12146]]"
+  - "[[_Standards/WikiData/WD~Basel-Stadt,12172|WD~Basel-Stadt,12172]]"
+  - "[[_Standards/WikiData/WD~Uri,12404|WD~Uri,12404]]"
+  - "[[_Standards/WikiData/WD~Schwyz,12433|WD~Schwyz,12433]]"
+  - "[[_Standards/WikiData/WD~Obwalden,12573|WD~Obwalden,12573]]"
+  - "[[_Standards/WikiData/WD~Nidwalden,12592|WD~Nidwalden,12592]]"
+  - "[[_Standards/WikiData/WD~Canton_of_Fribourg,12640|WD~Canton_of_Fribourg,12640]]"
+  - "[[_Standards/WikiData/WD~Schaffhausen,12697|WD~Schaffhausen,12697]]"
+  - "[[_Standards/WikiData/WD~Thurgau,12713|WD~Thurgau,12713]]"
+  - "[[_Standards/WikiData/WD~Ticino,12724|WD~Ticino,12724]]"
+  - "[[_Standards/WikiData/WD~Neuchâtel,12738|WD~Neuchâtel,12738]]"
+  - "[[_Standards/WikiData/WD~canton_St._Gallen,12746|WD~canton_St._Gallen,12746]]"
+  - "[[_Standards/WikiData/WD~Jura,12755|WD~Jura,12755]]"
+  - "[[_Standards/WikiData/WD~canton_Vaud,12771|WD~canton_Vaud,12771]]"
+continent: "[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]"
 coordinates_of_easternmost_point: Point(10.49234033 46.6151637)
 coordinates_of_geographic_center: Point(8.226667 46.801111)
 coordinates_of_northernmost_point: Point(8.57 47.8)
 coordinates_of_southernmost_point: Point(9.01705027 45.8179357)
 coordinates_of_westernmost_point: Point(5.9561348 46.13244515)
 coordinate_location: Point(8.231973 46.798562)
-country: "[[_Standards/WikiData/WD~Switzerland,39]]"
+country: "[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
 country_calling_code: 41
 cssclasses:
   - Country
-culture: "[[_Standards/WikiData/WD~culture_of_Switzerland,689645]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Switzerland,689645|WD~culture_of_Switzerland,689645]]"
 death_rate:
   - 7.9
   - 8.2
   - 8.5
   - 8.8
 Democracy_Index: 8.83
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Switzerland,688599]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Switzerland,688599|WD~demographics_of_Switzerland,688599]]"
 demonym:
   - سويسري
   - سويسرية
@@ -774,73 +774,73 @@ demonym:
   - suizo
   - Švicar
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Reliefkarte%20Schweiz.png
 Dewey_Decimal_Classification: 2--494
-different_from: "[[_Standards/WikiData/WD~Switzerland_County,507459]]"
+different_from: "[[_Standards/WikiData/WD~Switzerland_County,507459|WD~Switzerland_County,507459]]"
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Holy_See,159583]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Libya,1016]]"
-  - "[[_Standards/WikiData/WD~Mauritius,1027]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
-  - "[[_Standards/WikiData/WD~Moldova,217]]"
-  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
-  - "[[_Standards/WikiData/WD~South_Africa,258]]"
-  - "[[_Standards/WikiData/WD~Liechtenstein,347]]"
-  - "[[_Standards/WikiData/WD~Armenia,399]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~Holy_See,159583|WD~Holy_See,159583]]"
+  - "[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]"
+  - "[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]"
+  - "[[_Standards/WikiData/WD~Libya,1016|WD~Libya,1016]]"
+  - "[[_Standards/WikiData/WD~Mauritius,1027|WD~Mauritius,1027]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]"
+  - "[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77|WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~France,142|WD~France,142]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]"
+  - "[[_Standards/WikiData/WD~Romania,218|WD~Romania,218]]"
+  - "[[_Standards/WikiData/WD~Moldova,217|WD~Moldova,217]]"
+  - "[[_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+  - "[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]"
+  - "[[_Standards/WikiData/WD~Liechtenstein,347|WD~Liechtenstein,347]]"
+  - "[[_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]"
+  - "[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]"
 draft: false
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Switzerland,685175]]"
+driving_side: "[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Switzerland,685175|WD~economy_of_Switzerland,685175]]"
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~SN_441011,2335530]]"
+  - "[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]"
+  - "[[_Standards/WikiData/WD~SN_441011,2335530|WD~SN_441011,2335530]]"
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~117,4547615]]"
-  - "[[_Standards/WikiData/WD~118,11185210]]"
-  - "[[_Standards/WikiData/WD~144,25648814]]"
-  - "[[_Standards/WikiData/WD~140,25648888]]"
-  - "[[_Standards/WikiData/WD~145,25648913]]"
-  - "[[_Standards/WikiData/WD~1414,26258266]]"
-executive_body: "[[_Standards/WikiData/WD~Swiss_Federal_Council,30917]]"
+  - "[[_Standards/WikiData/WD~117,4547615|WD~117,4547615]]"
+  - "[[_Standards/WikiData/WD~118,11185210|WD~118,11185210]]"
+  - "[[_Standards/WikiData/WD~144,25648814|WD~144,25648814]]"
+  - "[[_Standards/WikiData/WD~140,25648888|WD~140,25648888]]"
+  - "[[_Standards/WikiData/WD~145,25648913|WD~145,25648913]]"
+  - "[[_Standards/WikiData/WD~1414,26258266|WD~1414,26258266]]"
+executive_body: "[[_Standards/WikiData/WD~Swiss_Federal_Council,30917|WD~Swiss_Federal_Council,30917]]"
 expiryDate: ""
 female_population:
   - 4322218
@@ -849,11 +849,11 @@ female_population:
   - 4417801
 FIPS_10_4_countries_and_regions_: SZ
 flag:
-  - "[[_Standards/WikiData/WD~flag_of_Switzerland,124020]]"
-  - "[[_Standards/WikiData/WD~civil_ensign_of_Switzerland,97752545]]"
+  - "[[_Standards/WikiData/WD~flag_of_Switzerland,124020|WD~flag_of_Switzerland,124020]]"
+  - "[[_Standards/WikiData/WD~civil_ensign_of_Switzerland,97752545|WD~civil_ensign_of_Switzerland,97752545]]"
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg
-foundational_text: "[[_Standards/WikiData/WD~Swiss_Federal_Constitution,30921]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Switzerland,215941]]"
+foundational_text: "[[_Standards/WikiData/WD~Swiss_Federal_Constitution,30921|WD~Swiss_Federal_Constitution,30921]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Switzerland,215941|WD~geography_of_Switzerland,215941]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:Switzerland.map
 Gini_coefficient: 33.1
 GitHub_topic: switzerland
@@ -865,13 +865,13 @@ hashtag:
   - Svizra
   - Switzerland
   - Suisse
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]"
 has_time_started: 1848-09-12
-head_of_government: "[[_Standards/WikiData/WD~Swiss_Federal_Council,30917]]"
-head_of_state: "[[_Standards/WikiData/WD~Swiss_Federal_Council,30917]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Federal_Supreme_Court_of_Switzerland,676553]]"
-highest_point: "[[_Standards/WikiData/WD~Dufourspitze,3403]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Switzerland,208761]]"
+head_of_government: "[[_Standards/WikiData/WD~Swiss_Federal_Council,30917|WD~Swiss_Federal_Council,30917]]"
+head_of_state: "[[_Standards/WikiData/WD~Swiss_Federal_Council,30917|WD~Swiss_Federal_Council,30917]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Federal_Supreme_Court_of_Switzerland,676553|WD~Federal_Supreme_Court_of_Switzerland,676553]]"
+highest_point: "[[_Standards/WikiData/WD~Dufourspitze,3403|WD~Dufourspitze,3403]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Switzerland,208761|WD~history_of_Switzerland,208761]]"
 Human_Development_Index: 0.962
 IAB_code: 1419
 inception: 1848-09-12
@@ -879,12 +879,12 @@ Inequality_adjusted_Human_Development_Index: 0.894
 INSEE_countries_and_foreign_territories_code: 99140
 Instagram_username: gov.ch
 instance_of:
-  - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
-  - "[[_Standards/WikiData/WD~confederation,170156]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
-  - "[[_Standards/WikiData/WD~federation,43702]]"
+  - "[[_Standards/WikiData/WD~landlocked_country,123480|WD~landlocked_country,123480]]"
+  - "[[_Standards/WikiData/WD~confederation,170156|WD~confederation,170156]]"
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256|WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~state,7275|WD~state,7275]]"
+  - "[[_Standards/WikiData/WD~federation,43702|WD~federation,43702]]"
 IOC_country_code: SUI
 isDeleted: false
 ISNI: 122974701
@@ -901,37 +901,37 @@ Languages:
   - it-CH
   - rm
 language_used:
-  - "[[_Standards/WikiData/WD~Alemannic,131339]]"
-  - "[[_Standards/WikiData/WD~Swiss_German,387066]]"
-  - "[[_Standards/WikiData/WD~Walser_German,680517]]"
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~Romansh,13199]]"
-  - "[[_Standards/WikiData/WD~Franco-Provençal,15087]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-  - "[[_Standards/WikiData/WD~Swiss-Italian_Sign_Language,12953479]]"
-  - "[[_Standards/WikiData/WD~Swiss-French_Sign_Language,12953483]]"
-  - "[[_Standards/WikiData/WD~Lombard,33754]]"
-  - "[[_Standards/WikiData/WD~Swiss-German_Sign_Language,35150]]"
+  - "[[_Standards/WikiData/WD~Alemannic,131339|WD~Alemannic,131339]]"
+  - "[[_Standards/WikiData/WD~Swiss_German,387066|WD~Swiss_German,387066]]"
+  - "[[_Standards/WikiData/WD~Walser_German,680517|WD~Walser_German,680517]]"
+  - "[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]"
+  - "[[_Standards/WikiData/WD~Romansh,13199|WD~Romansh,13199]]"
+  - "[[_Standards/WikiData/WD~Franco-Provençal,15087|WD~Franco-Provençal,15087]]"
+  - "[[_Standards/WikiData/WD~French,150|WD~French,150]]"
+  - "[[_Standards/WikiData/WD~German,188|WD~German,188]]"
+  - "[[_Standards/WikiData/WD~Swiss-Italian_Sign_Language,12953479|WD~Swiss-Italian_Sign_Language,12953479]]"
+  - "[[_Standards/WikiData/WD~Swiss-French_Sign_Language,12953483|WD~Swiss-French_Sign_Language,12953483]]"
+  - "[[_Standards/WikiData/WD~Lombard,33754|WD~Lombard,33754]]"
+  - "[[_Standards/WikiData/WD~Swiss-German_Sign_Language,35150|WD~Swiss-German_Sign_Language,35150]]"
 layout: ""
-legislative_body: "[[_Standards/WikiData/WD~Federal_Assembly_of_Switzerland,684719]]"
+legislative_body: "[[_Standards/WikiData/WD~Federal_Assembly_of_Switzerland,684719|WD~Federal_Assembly_of_Switzerland,684719]]"
 Libris_URI: nl0229c6538hjvc
 licence_plate_code: CH
 license: CC BY-SA 4.0
 life_expectancy: 82.89756
 linkTitle: ""
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central_Europe,27509]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central_Europe,27509|WD~Central_Europe,27509]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
 location:
   - 46.8963
   - 8.46058
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Switzerland%20location%20map.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Switzerland%20on%20the%20globe%20%28Europe%20centered%29.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20der%20Schweizerischen%20Eidgenossenschaft.svg
-lowest_point: "[[_Standards/WikiData/WD~Lake_Maggiore,14379]]"
+lowest_point: "[[_Standards/WikiData/WD~Lake_Maggiore,14379|WD~Lake_Maggiore,14379]]"
 M49_code: 756
 mains_voltage: 230
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Switzerland,6872806]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Switzerland,6872806|WD~WikiProject_Switzerland,6872806]]"
 male_population:
   - 4253063
   - 4285784
@@ -941,48 +941,48 @@ maritime_identification_digits: 269
 marriageable_age: 18
 maximum_temperature_record: 41.5
 member_of:
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
-  - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
-  - "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
-  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~European_Free_Trade_Association,166546]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
-  - "[[_Standards/WikiData/WD~Australia_Group,782942]]"
-  - "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
-  - "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
-  - "[[_Standards/WikiData/WD~European_Payments_Union,1377612]]"
-  - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
-  - "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Q131720477,131720477]]"
-  - "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
-  - "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
-  - "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]"
+  - "[[_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]"
+  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~European_Free_Trade_Association,166546|WD~European_Free_Trade_Association,166546]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496|WD~International_Centre_for_Migration_Policy_Development,498496]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Eurocontrol,663492|WD~Eurocontrol,663492]]"
+  - "[[_Standards/WikiData/WD~Australia_Group,782942|WD~Australia_Group,782942]]"
+  - "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428|WD~International_Holocaust_Remembrance_Alliance,823428]]"
+  - "[[_Standards/WikiData/WD~International_Energy_Agency,826700|WD~International_Energy_Agency,826700]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120|WD~Missile_Technology_Control_Regime,1072120]]"
+  - "[[_Standards/WikiData/WD~European_Payments_Union,1377612|WD~European_Payments_Union,1377612]]"
+  - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]"
+  - "[[_Standards/WikiData/WD~Schengen_Area,1969730|WD~Schengen_Area,1969730]]"
+  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Q131720477,131720477|WD~Q131720477,131720477]]"
+  - "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550|WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+  - "[[_Standards/WikiData/WD~European_Space_Agency,42262|WD~European_Space_Agency,42262]]"
+  - "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177|WD~Visa_Waiver_Program,45177]]"
 MeSH_tree_code: Z01.542.883
 mobile_country_code: 228
-motto: "[[_Standards/WikiData/WD~Unus_pro_omnibus,_omnes_pro_uno,2717243]]"
+motto: "[[_Standards/WikiData/WD~Unus_pro_omnibus,_omnes_pro_uno,2717243|WD~Unus_pro_omnibus,_omnes_pro_uno,2717243]]"
 motto_text: Unus pro omnibus, omnes pro uno
-named_after: "[[_Standards/WikiData/WD~Schwyz,12433]]"
+named_after: "[[_Standards/WikiData/WD~Schwyz,12433|WD~Schwyz,12433]]"
 native_label:
   - Schweizerische Eidgenossenschaft
   - Confederazione Svizzera
@@ -993,13 +993,13 @@ number_of_out_of_school_children: 69459
 NUTS_code:
   - CH0
   - CH
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_the_Swiss_Confederation,688230]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Member_of_the_Swiss_Federal_Council,11811941]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_the_Swiss_Confederation,688230|WD~President_of_the_Swiss_Confederation,688230]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Member_of_the_Swiss_Federal_Council,11811941|WD~Member_of_the_Swiss_Federal_Council,11811941]]"
 official_language:
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~Romansh,13199]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
+  - "[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]"
+  - "[[_Standards/WikiData/WD~Romansh,13199|WD~Romansh,13199]]"
+  - "[[_Standards/WikiData/WD~French,150|WD~French,150]]"
+  - "[[_Standards/WikiData/WD~German,188|WD~German,188]]"
 official_name:
   - Schweizerische Eidgenossenschaft
   - la Confédération suisse
@@ -1012,10 +1012,10 @@ official_name:
   - Confoederatio Helvetica
 official_website: https://www.admin.ch
 OmegaWiki_Defined_Meaning: 6791
-open_data_portal: "[[_Standards/WikiData/WD~opendata.swiss,63430264]]"
+open_data_portal: "[[_Standards/WikiData/WD~opendata.swiss,63430264|WD~opendata.swiss,63430264]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B6renberg%20banner.jpg
-part_of: "[[_Standards/WikiData/WD~Central_Europe,27509]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q20829665,20829665]]"
+part_of: "[[_Standards/WikiData/WD~Central_Europe,27509|WD~Central_Europe,27509]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q20829665,20829665|WD~Q20829665,20829665]]"
 PM20_geo_code: A34
 population: 8902308
 pronunciation_audio:
@@ -1027,35 +1027,35 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Roh-Svizra.ogg
 Provenio_UUID: b06a0af1-b509-41e1-ab18-570cd236f584
 public_holiday:
-  - "[[_Standards/WikiData/WD~Christmas_Eve,106010]]"
-  - "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
-  - "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
-  - "[[_Standards/WikiData/WD~Saint_Stephen's_Day_in_Hungary,2465259]]"
-  - "[[_Standards/WikiData/WD~Christmas_Day,2703710]]"
-  - "[[_Standards/WikiData/WD~Ascension_of_Jesus,5686605]]"
-  - "[[_Standards/WikiData/WD~New_Year's_Eve,11269]]"
-  - "[[_Standards/WikiData/WD~Q10631904,10631904]]"
-  - "[[_Standards/WikiData/WD~Swiss_National_Day,38087]]"
-  - "[[_Standards/WikiData/WD~Good_Friday,40317]]"
+  - "[[_Standards/WikiData/WD~Christmas_Eve,106010|WD~Christmas_Eve,106010]]"
+  - "[[_Standards/WikiData/WD~New_Year's_Day,196627|WD~New_Year's_Day,196627]]"
+  - "[[_Standards/WikiData/WD~Easter_Monday,209663|WD~Easter_Monday,209663]]"
+  - "[[_Standards/WikiData/WD~Saint_Stephen's_Day_in_Hungary,2465259|WD~Saint_Stephen's_Day_in_Hungary,2465259]]"
+  - "[[_Standards/WikiData/WD~Christmas_Day,2703710|WD~Christmas_Day,2703710]]"
+  - "[[_Standards/WikiData/WD~Ascension_of_Jesus,5686605|WD~Ascension_of_Jesus,5686605]]"
+  - "[[_Standards/WikiData/WD~New_Year's_Eve,11269|WD~New_Year's_Eve,11269]]"
+  - "[[_Standards/WikiData/WD~Q10631904,10631904|WD~Q10631904,10631904]]"
+  - "[[_Standards/WikiData/WD~Swiss_National_Day,38087|WD~Swiss_National_Day,38087]]"
+  - "[[_Standards/WikiData/WD~Good_Friday,40317|WD~Good_Friday,40317]]"
 publish: true
 publishDate: ""
 railway_traffic_side:
-  - "[[_Standards/WikiData/WD~left,13196750]]"
-  - "[[_Standards/WikiData/WD~right,14565199]]"
+  - "[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]"
+  - "[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
 rural_population:
   - 2263530
   - 2242521
   - 2253266
   - 2273624
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Liechtenstein,347]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]"
+  - "[[_Standards/WikiData/WD~France,142|WD~France,142]]"
+  - "[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Liechtenstein,347|WD~Liechtenstein,347]]"
+  - "[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]"
 short_name: 🇨🇭
-significant_event: "[[_Standards/WikiData/WD~introduction_of_universal_suffrage_for_men_and_women,131367891]]"
+significant_event: "[[_Standards/WikiData/WD~introduction_of_universal_suffrage_for_men_and_women,131367891|WD~introduction_of_universal_suffrage_for_men_and_women,131367891]]"
 social_media_followers: 80800
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26865
@@ -1064,11 +1064,11 @@ suicide_rate: 9.8
 tags:
   - geo/Country
 title: Switzerland
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Cantons_of_Switzerland,6489173]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Switzerland,3247839]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Cantons_of_Switzerland,6489173|WD~Template_Cantons_of_Switzerland,6489173]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Switzerland,3247839|WD~Portal_Switzerland,3247839]]"
 top_level_Internet_domain:
-  - "[[_Standards/WikiData/WD~.swiss,20577158]]"
-  - "[[_Standards/WikiData/WD~.ch,39676]]"
+  - "[[_Standards/WikiData/WD~.swiss,20577158|WD~.swiss,20577158]]"
+  - "[[_Standards/WikiData/WD~.ch,39676|WD~.ch,39676]]"
 total_fertility_rate: 1.52
 trunk_prefix: 0
 type: Country
@@ -1080,7 +1080,7 @@ urban_population:
   - 6384901
   - 6441016
   - 6502136
-uses: "[[_Standards/WikiData/WD~mandatory_referendum,1279357]]"
+uses: "[[_Standards/WikiData/WD~mandatory_referendum,1279357|WD~mandatory_referendum,1279357]]"
 U_S_National_Archives_Identifier: 10045644
 VAT_rate:
   - 2.5
@@ -1090,7 +1090,7 @@ VAT_rate:
   - 7.7
   - 8.1
 vehicles_per_thousand_people: 539
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Switzerland,7112470]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Switzerland,7112470|WD~outline_of_Switzerland,7112470]]"
 WIPO_ST_3: CH
 X_Twitter_username: BR_Sprecher
 Unicode_character: 🇨🇭
@@ -1133,7 +1133,7 @@ is_a = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Switzerland)
-into a Subfolder named `Switzerland`, so that this Link into the Sub-Repository works: [[Switzerland/ReadMe]] 
+into a Subfolder named `Switzerland`, so that this Link into the Sub-Repository works: [[Switzerland/ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1211,7 +1211,7 @@ Population in 1000s as of @2024
 > 
 > Switzerland originates from the Old [[Swiss_Confederacy]] established in the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Middle_Ages/1300-Late_Middle-Ages|Late Middle Ages]], 
 > following a series of military successes against Austria and Burgundy; 
-> the [[../../../../../Knowledge/Military.internal/Federal_Charter_of_1291]] is considered the country's founding document. 
+> the [[../../../../../Knowledge/Military.internal/Federal_Charter_of_1291|Federal_Charter_of_1291]] is considered the country's founding document. 
 > 
 > Swiss independence from the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire|Holy Roman Empire]] was __formally recognized__ 
 > in the [[Peace_of_Westphalia]] in 1648. 
@@ -1223,11 +1223,11 @@ Population in 1000s as of @2024
 > 
 > Switzerland is the birthplace of the [[Red_Cross]] 
 > and hosts the headquarters or offices of most major international institutions, 
-> including the [[WTO]], the [[WHO]], the [[ILO]], [[../../../../Society/Agent/Community/Organization/Sports_Organization/FIFA]], and the [[../../../_Standards/UN(United_Nations)]]. 
+> including the [[WTO]], the [[WHO]], the [[ILO]], [[../../../../Society/Agent/Community/Organization/Sports_Organization/FIFA|FIFA]], and the [[../../../_Standards/UN(United_Nations)|UN(United_Nations)]]. 
 > 
 > It is a founding member of the [[EFTA(European_Free_Trade_Association)]], 
-> but not part of the [[../EU(European_Union)]], the European Economic Area, or the eurozone; 
-> however, it participates in the European single market and the [[../Schengen-Area]]. 
+> but not part of the [[../EU(European_Union)|EU(European_Union)]], the European Economic Area, or the eurozone; 
+> however, it participates in the European single market and the [[../Schengen-Area|Schengen-Area]]. 
 > 
 > Switzerland is a federal republic composed of 26 cantons, 
 > with federal authorities based in Bern. 

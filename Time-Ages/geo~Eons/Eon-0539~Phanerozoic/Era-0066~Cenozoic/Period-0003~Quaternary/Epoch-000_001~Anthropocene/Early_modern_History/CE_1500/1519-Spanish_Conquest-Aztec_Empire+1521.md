@@ -54,14 +54,14 @@ aliases:
 - 멕시코 정복
 has_id_wikidata: Q828435
 participant:
-- '[[_Standards/WikiData/WD~Tlaxcala,614072]]'
-- '[[_Standards/WikiData/WD~Hispanic_Monarchy,766543]]'
-- '[[_Standards/WikiData/WD~Aztec_Triple_Alliance,794210]]'
-- '[[_Standards/WikiData/WD~Totonac_people,898658]]'
-- '[[_Standards/WikiData/WD~Texcoco,2047652]]'
-- '[[_Standards/WikiData/WD~Governorate_of_Cuba,5589753]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Zaachila,21003537]]'
-instance_of: '[[_Standards/WikiData/WD~conquest,1361229]]'
+- '[[_Standards/WikiData/WD~Tlaxcala,614072|WD~Tlaxcala,614072]]'
+- '[[_Standards/WikiData/WD~Hispanic_Monarchy,766543|WD~Hispanic_Monarchy,766543]]'
+- '[[_Standards/WikiData/WD~Aztec_Triple_Alliance,794210|WD~Aztec_Triple_Alliance,794210]]'
+- '[[_Standards/WikiData/WD~Totonac_people,898658|WD~Totonac_people,898658]]'
+- '[[_Standards/WikiData/WD~Texcoco,2047652|WD~Texcoco,2047652]]'
+- '[[_Standards/WikiData/WD~Governorate_of_Cuba,5589753|WD~Governorate_of_Cuba,5589753]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Zaachila,21003537|WD~Kingdom_of_Zaachila,21003537]]'
+instance_of: '[[_Standards/WikiData/WD~conquest,1361229|WD~conquest,1361229]]'
 end_time: 1521-08-23T00:00:00Z
 start_time: 1519-02-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Mendoza%20folio%2067r%20bottom.jpg

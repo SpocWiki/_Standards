@@ -99,31 +99,31 @@ location:
 - 101.166666694
 coordinate_location: Point(101.166666694 2.5)
 inflows:
-- '[[_Standards/WikiData/WD~Klang_River,619086]]'
-- '[[_Standards/WikiData/WD~Siak_River,1573651]]'
-- '[[_Standards/WikiData/WD~Asahan_River,2736616]]'
-- '[[_Standards/WikiData/WD~Kampar_River,3192497]]'
-- '[[_Standards/WikiData/WD~Muda_River,4209385]]'
-- '[[_Standards/WikiData/WD~Rokan_River,4260098]]'
-- '[[_Standards/WikiData/WD~Kedah_River,6382510]]'
-- '[[_Standards/WikiData/WD~Merbok_River,6817979]]'
-- '[[_Standards/WikiData/WD~Barumun_River,25004992]]'
+- '[[_Standards/WikiData/WD~Klang_River,619086|WD~Klang_River,619086]]'
+- '[[_Standards/WikiData/WD~Siak_River,1573651|WD~Siak_River,1573651]]'
+- '[[_Standards/WikiData/WD~Asahan_River,2736616|WD~Asahan_River,2736616]]'
+- '[[_Standards/WikiData/WD~Kampar_River,3192497|WD~Kampar_River,3192497]]'
+- '[[_Standards/WikiData/WD~Muda_River,4209385|WD~Muda_River,4209385]]'
+- '[[_Standards/WikiData/WD~Rokan_River,4260098|WD~Rokan_River,4260098]]'
+- '[[_Standards/WikiData/WD~Kedah_River,6382510|WD~Kedah_River,6382510]]'
+- '[[_Standards/WikiData/WD~Merbok_River,6817979|WD~Merbok_River,6817979]]'
+- '[[_Standards/WikiData/WD~Barumun_River,25004992|WD~Barumun_River,25004992]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Q35541239,35541239]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 basin_country:
-- '[[_Standards/WikiData/WD~Singapore,334]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~Singapore,334|WD~Singapore,334]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
 country:
-- '[[_Standards/WikiData/WD~Singapore,334]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Thailand,869]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~Singapore,334|WD~Singapore,334]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]'
+- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
 length: 930
-instance_of: '[[_Standards/WikiData/WD~strait,37901]]'
-named_after: '[[_Standards/WikiData/WD~Malacca,61089]]'
+instance_of: '[[_Standards/WikiData/WD~strait,37901|WD~strait,37901]]'
+named_after: '[[_Standards/WikiData/WD~Malacca,61089|WD~Malacca,61089]]'
 vertical_depth: 8765
 locator_map_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Detroit%20Malacca%20OHI.png

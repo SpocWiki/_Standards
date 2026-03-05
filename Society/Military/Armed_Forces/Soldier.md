@@ -121,25 +121,25 @@ aliases:
 - "\U00010332\U00010330\U00010333\U00010342\U00010330\U0001033F\U00010337\U00010344\U00010343"
 has_id_wikidata: Q4991371
 different_from:
-- '[[_Standards/WikiData/WD~private,158668]]'
-- '[[_Standards/WikiData/WD~soldat,24261291]]'
-- '[[_Standards/WikiData/WD~solderer,121904692]]'
+- '[[_Standards/WikiData/WD~private,158668|WD~private,158668]]'
+- '[[_Standards/WikiData/WD~soldat,24261291|WD~soldat,24261291]]'
+- '[[_Standards/WikiData/WD~solderer,121904692|WD~solderer,121904692]]'
 patron_saint:
-- '[[_Standards/WikiData/WD~Saint_Barbara,192816]]'
-- '[[_Standards/WikiData/WD~Ignatius_of_Loyola,44281]]'
-- '[[_Standards/WikiData/WD~Saint_George,48438]]'
+- '[[_Standards/WikiData/WD~Saint_Barbara,192816|WD~Saint_Barbara,192816]]'
+- '[[_Standards/WikiData/WD~Ignatius_of_Loyola,44281|WD~Ignatius_of_Loyola,44281]]'
+- '[[_Standards/WikiData/WD~Saint_George,48438|WD~Saint_George,48438]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-named_after: '[[_Standards/WikiData/WD~military_pay,872924]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+named_after: '[[_Standards/WikiData/WD~military_pay,872924|WD~military_pay,872924]]'
 instance_of:
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~military_profession,6857706]]'
-depicted_by: '[[_Standards/WikiData/WD~Soldiers_playing_dice,107467842]]'
-subclass_of: '[[_Standards/WikiData/WD~military_personnel,47064]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~military_profession,6857706|WD~military_profession,6857706]]'
+depicted_by: '[[_Standards/WikiData/WD~Soldiers_playing_dice,107467842|WD~Soldiers_playing_dice,107467842]]'
+subclass_of: '[[_Standards/WikiData/WD~military_personnel,47064|WD~military_personnel,47064]]'
 Commons_gallery: Soldier
 male_form_of_label:
 - soldato

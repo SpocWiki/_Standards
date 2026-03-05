@@ -64,16 +64,16 @@ aliases:
 - 기구
 has_id_wikidata: Q183951
 operator:
-- '[[_Standards/WikiData/WD~Royal_Netherlands_Meteorological_Institute,516346]]'
-- '[[_Standards/WikiData/WD~United_States_Navy,11220]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~gas_balloon,537420]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~gondola,1011817]]'
+- '[[_Standards/WikiData/WD~Royal_Netherlands_Meteorological_Institute,516346|WD~Royal_Netherlands_Meteorological_Institute,516346]]'
+- '[[_Standards/WikiData/WD~United_States_Navy,11220|WD~United_States_Navy,11220]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~gas_balloon,537420|WD~gas_balloon,537420]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~gondola,1011817|WD~gondola,1011817]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~aerostat,1299477]]'
-- '[[_Standards/WikiData/WD~unpowered_aircraft,17145920]]'
+- '[[_Standards/WikiData/WD~aerostat,1299477|WD~aerostat,1299477]]'
+- '[[_Standards/WikiData/WD~unpowered_aircraft,17145920|WD~unpowered_aircraft,17145920]]'
 different_from:
-- '[[_Standards/WikiData/WD~Ballon,2277458]]'
-- '[[_Standards/WikiData/WD~balloon,9706]]'
+- '[[_Standards/WikiData/WD~Ballon,2277458|WD~Ballon,2277458]]'
+- '[[_Standards/WikiData/WD~balloon,9706|WD~balloon,9706]]'
 military_designation: B
 Nomenclature_for_Museum_Cataloging: 11696
 OmegaWiki_Defined_Meaning: 867095

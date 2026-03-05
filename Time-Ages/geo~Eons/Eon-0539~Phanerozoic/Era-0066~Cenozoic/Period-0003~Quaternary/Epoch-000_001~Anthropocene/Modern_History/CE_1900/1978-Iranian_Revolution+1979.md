@@ -96,21 +96,21 @@ aliases:
 - 이란 혁명
 has_id_wikidata: Q126065
 participant:
-- '[[_Standards/WikiData/WD~Mohammad_Reza_I_of_Iran,128245]]'
-- '[[_Standards/WikiData/WD~Dariush_Forouhar,289766]]'
-- '[[_Standards/WikiData/WD~Mehdi_Bazargan,382369]]'
-- '[[_Standards/WikiData/WD~Shapour_Bakhtiar,471787]]'
-- '[[_Standards/WikiData/WD~Gholam_Reza_Azhari,700668]]'
-- '[[_Standards/WikiData/WD~Jafar_Sharif_Emami,951044]]'
-- '[[_Standards/WikiData/WD~Mahmoud_Taleghani,1255284]]'
-- '[[_Standards/WikiData/WD~people,2472587]]'
-- '[[_Standards/WikiData/WD~Gholam_Ali_Oveisi,5556852]]'
-- '[[_Standards/WikiData/WD~Karim_Sanjabi,6370654]]'
-- '[[_Standards/WikiData/WD~Ruhollah_Khomeini,38823]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Iranian_Revolution,8093138]]'
-location: '[[_Standards/WikiData/WD~Iran,794]]'
-country: '[[_Standards/WikiData/WD~Iran,794]]'
-instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
+- '[[_Standards/WikiData/WD~Mohammad_Reza_I_of_Iran,128245|WD~Mohammad_Reza_I_of_Iran,128245]]'
+- '[[_Standards/WikiData/WD~Dariush_Forouhar,289766|WD~Dariush_Forouhar,289766]]'
+- '[[_Standards/WikiData/WD~Mehdi_Bazargan,382369|WD~Mehdi_Bazargan,382369]]'
+- '[[_Standards/WikiData/WD~Shapour_Bakhtiar,471787|WD~Shapour_Bakhtiar,471787]]'
+- '[[_Standards/WikiData/WD~Gholam_Reza_Azhari,700668|WD~Gholam_Reza_Azhari,700668]]'
+- '[[_Standards/WikiData/WD~Jafar_Sharif_Emami,951044|WD~Jafar_Sharif_Emami,951044]]'
+- '[[_Standards/WikiData/WD~Mahmoud_Taleghani,1255284|WD~Mahmoud_Taleghani,1255284]]'
+- '[[_Standards/WikiData/WD~people,2472587|WD~people,2472587]]'
+- '[[_Standards/WikiData/WD~Gholam_Ali_Oveisi,5556852|WD~Gholam_Ali_Oveisi,5556852]]'
+- '[[_Standards/WikiData/WD~Karim_Sanjabi,6370654|WD~Karim_Sanjabi,6370654]]'
+- '[[_Standards/WikiData/WD~Ruhollah_Khomeini,38823|WD~Ruhollah_Khomeini,38823]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Iranian_Revolution,8093138|WD~Template_History_of_Iranian_Revolution,8093138]]'
+location: '[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+country: '[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+instance_of: '[[_Standards/WikiData/WD~revolution,10931|WD~revolution,10931]]'
 point_in_time: 1970-01-01T00:00:00Z
 number_of_deaths: 2781
 OmegaWiki_Defined_Meaning: 799090
@@ -122,7 +122,7 @@ Commons_category: Iranian Revolution
 native_label: انقلاب اسلامی
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Iranian_Revolution,126065]]'
+  - '[[../../../../../../../../WikiData/WD~Iranian_Revolution,126065|WD~Iranian_Revolution,126065]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979|1978-Iranian_Revolution+1979]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.public|1978-Iranian_Revolution+1979.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.internal|1978-Iranian_Revolution+1979.internal]]'
@@ -131,7 +131,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.personal|1978-Iranian_Revolution+1979.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.secret|1978-Iranian_Revolution+1979.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Iranian_Revolution,126065]]'
+- '[[../../../../../../../../WikiData/WD~Iranian_Revolution,126065|WD~Iranian_Revolution,126065]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979|1978-Iranian_Revolution+1979]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.public|1978-Iranian_Revolution+1979.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.internal|1978-Iranian_Revolution+1979.internal]]'

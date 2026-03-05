@@ -10,8 +10,8 @@ tags:
 type: Country
 dv_has_name_en: DEMOCRATIC REPUBLIC OF VIETNAM
 dv_has_name_de: Nord Vietnam
-dv_has_place_continent: "[[../../Asia]]"
-dv_Capital: "[[../../Europe/Europe~North/Sweden/City/Hanoe]]"
+dv_has_place_continent: "[[../../Asia|Asia]]"
+dv_Capital: "[[../../Europe/Europe~North/Sweden/City/Hanoe|Hanoe]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM|DEMOCRATIC_REPUBLIC_OF_VIETNAM]]"

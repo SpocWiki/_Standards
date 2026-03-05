@@ -61,16 +61,16 @@ aliases:
 - 슈퍼마켓
 has_id_wikidata: Q180846
 subclass_of:
-- '[[_Standards/WikiData/WD~shop,213441]]'
-- '[[_Standards/WikiData/WD~commercial_building,655686]]'
-- '[[_Standards/WikiData/WD~brick_and_mortar,726870]]'
-- '[[_Standards/WikiData/WD~grocery_store,1295201]]'
-- '[[_Standards/WikiData/WD~facility,13226383]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q883504,883504]]'
+- '[[_Standards/WikiData/WD~shop,213441|WD~shop,213441]]'
+- '[[_Standards/WikiData/WD~commercial_building,655686|WD~commercial_building,655686]]'
+- '[[_Standards/WikiData/WD~brick_and_mortar,726870|WD~brick_and_mortar,726870]]'
+- '[[_Standards/WikiData/WD~grocery_store,1295201|WD~grocery_store,1295201]]'
+- '[[_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q883504,883504|WD~Q883504,883504]]'
 uses:
-- '[[_Standards/WikiData/WD~self_service,1369310]]'
-- '[[_Standards/WikiData/WD~supermarket_building,76211894]]'
-industry: '[[_Standards/WikiData/WD~food_retail_sector,15825471]]'
+- '[[_Standards/WikiData/WD~self_service,1369310|WD~self_service,1369310]]'
+- '[[_Standards/WikiData/WD~supermarket_building,76211894|WD~supermarket_building,76211894]]'
+industry: '[[_Standards/WikiData/WD~food_retail_sector,15825471|WD~food_retail_sector,15825471]]'
 Commons_gallery: Supermarket
 IMDb_keyword: supermarket
 OmegaWiki_Defined_Meaning: 502263

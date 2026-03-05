@@ -41,12 +41,12 @@ dv_has_:
   name: has_id_call_sign
   range: Text
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
+    property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_part_of: "pending:"
 dv_has_domain: BroadcastService, Person, Vehicle
 dv_has_name: has_id_call_sign
 dv_has_range: Text
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_has_parent_property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_same_as:
   - "[[has_id_call_sign]]"
   - "[[/_public/schema-org/Property/has_name/has_id_call_sign.public|has_id_call_sign.public]]"

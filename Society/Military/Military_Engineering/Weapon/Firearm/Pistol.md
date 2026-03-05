@@ -72,42 +72,42 @@ aliases:
 - 피스톨
 has_id_wikidata: Q1907525
 has_part_s_:
-- '[[_Standards/WikiData/WD~magazine,148958]]'
-- '[[_Standards/WikiData/WD~handle,200266]]'
-- '[[_Standards/WikiData/WD~firearm_trigger,336751]]'
-- '[[_Standards/WikiData/WD~gun_barrel,487192]]'
-- '[[_Standards/WikiData/WD~pistol_slide,615302]]'
-- '[[_Standards/WikiData/WD~breechblock,1141263]]'
-- '[[_Standards/WikiData/WD~firing_pin,1412977]]'
-- '[[_Standards/WikiData/WD~hammer,2333657]]'
+- '[[_Standards/WikiData/WD~magazine,148958|WD~magazine,148958]]'
+- '[[_Standards/WikiData/WD~handle,200266|WD~handle,200266]]'
+- '[[_Standards/WikiData/WD~firearm_trigger,336751|WD~firearm_trigger,336751]]'
+- '[[_Standards/WikiData/WD~gun_barrel,487192|WD~gun_barrel,487192]]'
+- '[[_Standards/WikiData/WD~pistol_slide,615302|WD~pistol_slide,615302]]'
+- '[[_Standards/WikiData/WD~breechblock,1141263|WD~breechblock,1141263]]'
+- '[[_Standards/WikiData/WD~firing_pin,1412977|WD~firing_pin,1412977]]'
+- '[[_Standards/WikiData/WD~hammer,2333657|WD~hammer,2333657]]'
 used_by:
-- '[[_Standards/WikiData/WD~militia,153936]]'
-- '[[_Standards/WikiData/WD~military_officer,189290]]'
-- '[[_Standards/WikiData/WD~brigand,20650523]]'
-- '[[_Standards/WikiData/WD~police,35535]]'
+- '[[_Standards/WikiData/WD~militia,153936|WD~militia,153936]]'
+- '[[_Standards/WikiData/WD~military_officer,189290|WD~military_officer,189290]]'
+- '[[_Standards/WikiData/WD~brigand,20650523|WD~brigand,20650523]]'
+- '[[_Standards/WikiData/WD~police,35535|WD~police,35535]]'
 different_from:
-- '[[_Standards/WikiData/WD~revolver,170382]]'
-- '[[_Standards/WikiData/WD~Q2097049,2097049]]'
-- '[[_Standards/WikiData/WD~semi_automatic_pistol,3389302]]'
-- '[[_Standards/WikiData/WD~Pistol,7198468]]'
+- '[[_Standards/WikiData/WD~revolver,170382|WD~revolver,170382]]'
+- '[[_Standards/WikiData/WD~Q2097049,2097049|WD~Q2097049,2097049]]'
+- '[[_Standards/WikiData/WD~semi_automatic_pistol,3389302|WD~semi_automatic_pistol,3389302]]'
+- '[[_Standards/WikiData/WD~Pistol,7198468|WD~Pistol,7198468]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~calibre,170417]]'
-- '[[_Standards/WikiData/WD~length,36253]]'
+- '[[_Standards/WikiData/WD~calibre,170417|WD~calibre,170417]]'
+- '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Karabakh_War_1988_1994,16392167]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Karabakh_War_1988_1994,16392167|WD~Karabakh_War_1988_1994,16392167]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~handgun,1574963]]'
-- '[[_Standards/WikiData/WD~short_gun,7816242]]'
-- '[[_Standards/WikiData/WD~firearm,12796]]'
-uses: '[[_Standards/WikiData/WD~pistol_cartridge,9150231]]'
-ammunition: '[[_Standards/WikiData/WD~pistol_cartridge,9150231]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+- '[[_Standards/WikiData/WD~handgun,1574963|WD~handgun,1574963]]'
+- '[[_Standards/WikiData/WD~short_gun,7816242|WD~short_gun,7816242]]'
+- '[[_Standards/WikiData/WD~firearm,12796|WD~firearm,12796]]'
+uses: '[[_Standards/WikiData/WD~pistol_cartridge,9150231|WD~pistol_cartridge,9150231]]'
+ammunition: '[[_Standards/WikiData/WD~pistol_cartridge,9150231|WD~pistol_cartridge,9150231]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422|WD~weapon_functional_class,124078422]]'
 Nomenclature_for_Museum_Cataloging: 8278
 Commons_category: Pistols
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M9-pistolet.jpg

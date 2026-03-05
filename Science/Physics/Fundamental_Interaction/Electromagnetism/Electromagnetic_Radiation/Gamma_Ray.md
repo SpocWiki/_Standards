@@ -95,15 +95,15 @@ aliases:
 - 伽马射线
 - 감마선
 has_id_wikidata: Q11523
-part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]'
-has_cause: '[[_Standards/WikiData/WD~beta_decay,306786]]'
+part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139|WD~electromagnetic_spectrum,133139]]'
+has_cause: '[[_Standards/WikiData/WD~beta_decay,306786|WD~beta_decay,306786]]'
 different_from:
-- '[[_Standards/WikiData/WD~gamma_wave,2623017]]'
-- '[[_Standards/WikiData/WD~gamma_decay,10885797]]'
-instance_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-subclass_of: '[[_Standards/WikiData/WD~radiation,18335]]'
-followed_by: '[[_Standards/WikiData/WD~X_ray,34777]]'
+- '[[_Standards/WikiData/WD~gamma_wave,2623017|WD~gamma_wave,2623017]]'
+- '[[_Standards/WikiData/WD~gamma_decay,10885797|WD~gamma_decay,10885797]]'
+instance_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754|WD~electromagnetic_radiation,12969754]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~radiation,18335|WD~radiation,18335]]'
+followed_by: '[[_Standards/WikiData/WD~X_ray,34777|WD~X_ray,34777]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gamma%20Decay.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Gamma%20ray.ogg
 Dewey_Decimal_Classification: 539.7524

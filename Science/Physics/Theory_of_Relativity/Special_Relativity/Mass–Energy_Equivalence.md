@@ -75,17 +75,17 @@ aliases:
 - 질량-에너지 동등성
 - "\U0001D438=\U0001D45A\U0001D450²"
 has_id_wikidata: Q35875
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Physics,8487193|WD~WikiProject_Physics,8487193]]'
 instance_of:
-- '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-- '[[_Standards/WikiData/WD~concept_in_physics,33104303]]'
+- '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
+- '[[_Standards/WikiData/WD~concept_in_physics,33104303|WD~concept_in_physics,33104303]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>E</mi><mo stretchy="false">=</mo><mi>m</mi><msup><mi>c</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mstyle></mrow></math>
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Albert_Einstein,937]]'
-facet_of: '[[_Standards/WikiData/WD~special_relativity,11455]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Albert_Einstein,937|WD~Albert_Einstein,937]]'
+facet_of: '[[_Standards/WikiData/WD~special_relativity,11455|WD~special_relativity,11455]]'
 has_use:
-- '[[_Standards/WikiData/WD~nuclear_power,12739]]'
-- '[[_Standards/WikiData/WD~nuclear_weapon,12802]]'
-manifestation_of: '[[_Standards/WikiData/WD~theory_of_relativity,43514]]'
+- '[[_Standards/WikiData/WD~nuclear_power,12739|WD~nuclear_power,12739]]'
+- '[[_Standards/WikiData/WD~nuclear_weapon,12802|WD~nuclear_weapon,12802]]'
+manifestation_of: '[[_Standards/WikiData/WD~theory_of_relativity,43514|WD~theory_of_relativity,43514]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>m</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>c</mi></mstyle></mrow></math>

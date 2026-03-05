@@ -39,7 +39,7 @@ aliases:
 - 非有神论
 - 비신론
 has_id_wikidata: Q871396
-subclass_of: '[[_Standards/WikiData/WD~belief,34394]]'
+subclass_of: '[[_Standards/WikiData/WD~belief,34394|WD~belief,34394]]'
 dv_has_:
   name_:
     ar: لاألوهية

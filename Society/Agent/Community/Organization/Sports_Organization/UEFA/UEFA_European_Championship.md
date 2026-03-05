@@ -1,6 +1,6 @@
 ---
 has_time_started: 1960-07-06
-location: '[[_Standards/WikiData/WD~Europe,46]]'
+location: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 aliases:
 - Avrupa Futbol Şampiyonası
 - Campeonato Europeu de Futebol
@@ -100,24 +100,24 @@ aliases:
 - 歐洲國家盃
 - 歐洲足球錦標賽
 has_id_wikidata: Q260858
-subclass_of: '[[_Standards/WikiData/WD~European_championship,1375427]]'
+subclass_of: '[[_Standards/WikiData/WD~European_championship,1375427|WD~European_championship,1375427]]'
 instance_of:
-- '[[_Standards/WikiData/WD~association_football_competition,1478437]]'
-- '[[_Standards/WikiData/WD~recurring_event,15275719]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_UEFA_European_Championship,6003320]]'
-chairperson: '[[_Standards/WikiData/WD~Aleksander_Čeferin,26819142]]'
-competition_class: "[[_Standards/WikiData/WD~men's_association_football,31930761]]"
+- '[[_Standards/WikiData/WD~association_football_competition,1478437|WD~association_football_competition,1478437]]'
+- '[[_Standards/WikiData/WD~recurring_event,15275719|WD~recurring_event,15275719]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_UEFA_European_Championship,6003320|WD~Template_UEFA_European_Championship,6003320]]'
+chairperson: '[[_Standards/WikiData/WD~Aleksander_Čeferin,26819142|WD~Aleksander_Čeferin,26819142]]'
+competition_class: "[[_Standards/WikiData/WD~men's_association_football,31930761|WD~men's_association_football,31930761]]"
 coordinate_location: Point(9.14062 48.690959)
-sport: '[[_Standards/WikiData/WD~association_football,2736]]'
-winner: '[[_Standards/WikiData/WD~Spain,29]]'
-operating_area: '[[_Standards/WikiData/WD~Europe,46]]'
-headquarters_location: '[[_Standards/WikiData/WD~Europe,46]]'
-season_starts: '[[_Standards/WikiData/WD~June,120]]'
-month_of_the_year: '[[_Standards/WikiData/WD~June,120]]'
-country: '[[_Standards/WikiData/WD~Germany,183]]'
+sport: '[[_Standards/WikiData/WD~association_football,2736|WD~association_football,2736]]'
+winner: '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+operating_area: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+headquarters_location: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+season_starts: '[[_Standards/WikiData/WD~June,120|WD~June,120]]'
+month_of_the_year: '[[_Standards/WikiData/WD~June,120|WD~June,120]]'
+country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 event_interval: 4
 number_of_participants: 24
-organizer: '[[_Standards/WikiData/WD~Union_of_European_Football_Associations,35572]]'
+organizer: '[[_Standards/WikiData/WD~Union_of_European_Football_Associations,35572|WD~Union_of_European_Football_Associations,35572]]'
 OmegaWiki_Defined_Meaning: 1651760
 social_media_followers: 3262242
 inception: 1960-07-06T00:00:00Z

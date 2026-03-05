@@ -43,18 +43,18 @@ aliases:
 - 최빈값
 has_id_wikidata: Q188224
 different_from:
-- '[[_Standards/WikiData/WD~Dominanta,226289]]'
-- '[[_Standards/WikiData/WD~mode_of_probability_mass_function,112567924]]'
-- '[[_Standards/WikiData/WD~mode_of_probability_density_function,112577838]]'
+- '[[_Standards/WikiData/WD~Dominanta,226289|WD~Dominanta,226289]]'
+- '[[_Standards/WikiData/WD~mode_of_probability_mass_function,112567924|WD~mode_of_probability_mass_function,112567924]]'
+- '[[_Standards/WikiData/WD~mode_of_probability_density_function,112577838|WD~mode_of_probability_density_function,112577838]]'
 instance_of:
-- '[[_Standards/WikiData/WD~central_tendency,734219]]'
-- '[[_Standards/WikiData/WD~Q65169764,65169764]]'
-- '[[_Standards/WikiData/WD~local_mode,85900945]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-subclass_of: '[[_Standards/WikiData/WD~type,21146257]]'
+- '[[_Standards/WikiData/WD~central_tendency,734219|WD~central_tendency,734219]]'
+- '[[_Standards/WikiData/WD~Q65169764,65169764|WD~Q65169764,65169764]]'
+- '[[_Standards/WikiData/WD~local_mode,85900945|WD~local_mode,85900945]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~type,21146257|WD~type,21146257]]'
 Wikidata_property: mode of a probability distribution
-facet_of: '[[_Standards/WikiData/WD~statistics,12483]]'
+facet_of: '[[_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bar%20chart%20mode%2001.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20Moda.webm
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Moda.ogg

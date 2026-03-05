@@ -5,7 +5,7 @@
 
 #has_/creator :: [[David_Turner]] 
 #has_/time_/started :: 1985-07-01 
-#has_/parent :: [[Prog~ML]], [[../Prog~Structured/Structured_Prog-Lang/ISWIM]]
+#has_/parent :: [[Prog~ML]], [[../Prog~Structured/Structured_Prog-Lang/ISWIM|ISWIM]]
 
 > Miranda is a lazy, purely functional programming language designed by David Turner as a successor to his earlier programming languages SASL and KRC, using some concepts from ML and Hope. 
 > It was produced by Research Software Ltd. of England (which holds a trademark on the name Miranda) and was the first purely functional language to be commercially supported.

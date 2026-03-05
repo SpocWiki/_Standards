@@ -39,34 +39,34 @@ aliases:
 - 希臘語聖經
 has_id_wikidata: Q29334
 edition_or_translation_of:
-- '[[_Standards/WikiData/WD~Tanakh,83367]]'
-- '[[_Standards/WikiData/WD~Jewish_apocryphon,3620673]]'
-- '[[_Standards/WikiData/WD~Uncial_0281,7882596]]'
-- '[[_Standards/WikiData/WD~Bible,1845]]'
-- '[[_Standards/WikiData/WD~Old_Testament,19786]]'
-genre: '[[_Standards/WikiData/WD~Bible_translation,86860]]'
+- '[[_Standards/WikiData/WD~Tanakh,83367|WD~Tanakh,83367]]'
+- '[[_Standards/WikiData/WD~Jewish_apocryphon,3620673|WD~Jewish_apocryphon,3620673]]'
+- '[[_Standards/WikiData/WD~Uncial_0281,7882596|WD~Uncial_0281,7882596]]'
+- '[[_Standards/WikiData/WD~Bible,1845|WD~Bible,1845]]'
+- '[[_Standards/WikiData/WD~Old_Testament,19786|WD~Old_Testament,19786]]'
+genre: '[[_Standards/WikiData/WD~Bible_translation,86860|WD~Bible_translation,86860]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-named_after: '[[_Standards/WikiData/WD~70,712514]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+named_after: '[[_Standards/WikiData/WD~70,712514|WD~70,712514]]'
 instance_of:
-- '[[_Standards/WikiData/WD~version,_edition_or_translation,3331189]]'
-- '[[_Standards/WikiData/WD~written_work,47461344]]'
-- '[[_Standards/WikiData/WD~Heptacontad,135236682]]'
+- '[[_Standards/WikiData/WD~version,_edition_or_translation,3331189|WD~version,_edition_or_translation,3331189]]'
+- '[[_Standards/WikiData/WD~written_work,47461344|WD~written_work,47461344]]'
+- '[[_Standards/WikiData/WD~Heptacontad,135236682|WD~Heptacontad,135236682]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~The_Septuagint_version_of_the_Old_Testament_(Brenton),4961699]]'
-- "[[_Standards/WikiData/WD~La_Bible_d'Alexandrie,6461233]]"
-- '[[_Standards/WikiData/WD~New_English_Translation_of_the_Septuagint,16163547]]'
-- '[[_Standards/WikiData/WD~Kaige_revision,19572345]]'
-- "[[_Standards/WikiData/WD~Alfred_Rahlfs'_edition_of_the_Septuagint,20278655]]"
-- '[[_Standards/WikiData/WD~Roman_Septuagint,75164247]]'
-- '[[_Standards/WikiData/WD~Larger_Cambridge_Septuagint,115059794]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~Jewish_Koine_Greek,6189862]]'
-different_from: '[[_Standards/WikiData/WD~Septuaginta,18522764]]'
-part_of: '[[_Standards/WikiData/WD~biblical_literature,55017318]]'
+- '[[_Standards/WikiData/WD~The_Septuagint_version_of_the_Old_Testament_(Brenton),4961699|WD~The_Septuagint_version_of_the_Old_Testament_(Brenton),4961699]]'
+- "[[_Standards/WikiData/WD~La_Bible_d'Alexandrie,6461233|WD~La_Bible_d'Alexandrie,6461233]]"
+- '[[_Standards/WikiData/WD~New_English_Translation_of_the_Septuagint,16163547|WD~New_English_Translation_of_the_Septuagint,16163547]]'
+- '[[_Standards/WikiData/WD~Kaige_revision,19572345|WD~Kaige_revision,19572345]]'
+- "[[_Standards/WikiData/WD~Alfred_Rahlfs'_edition_of_the_Septuagint,20278655|WD~Alfred_Rahlfs'_edition_of_the_Septuagint,20278655]]"
+- '[[_Standards/WikiData/WD~Roman_Septuagint,75164247|WD~Roman_Septuagint,75164247]]'
+- '[[_Standards/WikiData/WD~Larger_Cambridge_Septuagint,115059794|WD~Larger_Cambridge_Septuagint,115059794]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Jewish_Koine_Greek,6189862|WD~Jewish_Koine_Greek,6189862]]'
+different_from: '[[_Standards/WikiData/WD~Septuaginta,18522764|WD~Septuaginta,18522764]]'
+part_of: '[[_Standards/WikiData/WD~biblical_literature,55017318|WD~biblical_literature,55017318]]'
 Stack_Exchange_tag:
 - https://christianity.stackexchange.com/tags/septuagint
 - https://hermeneutics.stackexchange.com/tags/septuagint

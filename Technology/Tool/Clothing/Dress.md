@@ -81,13 +81,13 @@ aliases:
 - 드레스
 has_id_wikidata: Q200539
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~bodice,930924]]'
-- '[[_Standards/WikiData/WD~skirt,2160801]]'
-has_list: '[[_Standards/WikiData/WD~list_of_dresses,6617280]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+- '[[_Standards/WikiData/WD~bodice,930924|WD~bodice,930924]]'
+- '[[_Standards/WikiData/WD~skirt,2160801|WD~skirt,2160801]]'
+has_list: '[[_Standards/WikiData/WD~list_of_dresses,6617280|WD~list_of_dresses,6617280]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800|WD~Art+Feminism,24909800]]'
 properties_for_this_type:
 - designed by
 - color

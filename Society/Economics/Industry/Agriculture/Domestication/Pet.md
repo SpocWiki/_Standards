@@ -84,13 +84,13 @@ aliases:
 - 애완동물
 - "\U00010332\U00010330\U00010342\U00010333\U00010339\U00010333\U00010339\U0001033F\U00010343"
 has_id_wikidata: Q39201
-opposite_of: '[[_Standards/WikiData/WD~working_animal,228534]]'
+opposite_of: '[[_Standards/WikiData/WD~working_animal,228534|WD~working_animal,228534]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~domesticated_animal,622852]]'
-- '[[_Standards/WikiData/WD~beneficial_organism,1936487]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Toaloom,12377009]]'
-has_use: '[[_Standards/WikiData/WD~companionship,16514899]]'
-instance_of: '[[_Standards/WikiData/WD~animal_role,135106502]]'
+- '[[_Standards/WikiData/WD~domesticated_animal,622852|WD~domesticated_animal,622852]]'
+- '[[_Standards/WikiData/WD~beneficial_organism,1936487|WD~beneficial_organism,1936487]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Toaloom,12377009|WD~Toaloom,12377009]]'
+has_use: '[[_Standards/WikiData/WD~companionship,16514899|WD~companionship,16514899]]'
+instance_of: '[[_Standards/WikiData/WD~animal_role,135106502|WD~animal_role,135106502]]'
 Wikidata_property: has pet
 IAB_code: 422
 Material_UI_icon: Pets

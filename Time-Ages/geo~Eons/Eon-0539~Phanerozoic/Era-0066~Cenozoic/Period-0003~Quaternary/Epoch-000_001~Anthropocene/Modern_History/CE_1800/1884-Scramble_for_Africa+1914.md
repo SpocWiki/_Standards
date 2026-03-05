@@ -79,13 +79,13 @@ aliases:
 - 瓜分非洲
 - 아프리카 분할
 has_id_wikidata: Q179848
-instance_of: '[[_Standards/WikiData/WD~partition,518554]]'
+instance_of: '[[_Standards/WikiData/WD~partition,518554|WD~partition,518554]]'
 facet_of:
-- '[[_Standards/WikiData/WD~colonization,815962]]'
-- '[[_Standards/WikiData/WD~colonisation_of_Africa,2353647]]'
-subclass_of: '[[_Standards/WikiData/WD~colonisation_of_Africa,2353647]]'
-different_from: '[[_Standards/WikiData/WD~Western_imperialism_in_Asia,3234208]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Campaignbox_Scramble_for_Africa,10981858]]'
+- '[[_Standards/WikiData/WD~colonization,815962|WD~colonization,815962]]'
+- '[[_Standards/WikiData/WD~colonisation_of_Africa,2353647|WD~colonisation_of_Africa,2353647]]'
+subclass_of: '[[_Standards/WikiData/WD~colonisation_of_Africa,2353647|WD~colonisation_of_Africa,2353647]]'
+different_from: '[[_Standards/WikiData/WD~Western_imperialism_in_Asia,3234208|WD~Western_imperialism_in_Asia,3234208]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Campaignbox_Scramble_for_Africa,10981858|WD~Template_Campaignbox_Scramble_for_Africa,10981858]]'
 start_time: 1885-01-01T00:00:00Z
 Commons_category: Scramble for Africa
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Africa%20in%201880.jpg
@@ -94,7 +94,7 @@ Krugosvet_article_archived_: istoriya/KOLONIALNI_RAZDEL_MIRA.html
 end_time: 1914-01-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../../../../../../../WikiData/WD~Scramble_for_Africa,179848]]'
+  - '[[../../../../../../../../WikiData/WD~Scramble_for_Africa,179848|WD~Scramble_for_Africa,179848]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914|1884-Scramble_for_Africa+1914]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.public|1884-Scramble_for_Africa+1914.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.internal|1884-Scramble_for_Africa+1914.internal]]'
@@ -103,7 +103,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.personal|1884-Scramble_for_Africa+1914.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.secret|1884-Scramble_for_Africa+1914.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../WikiData/WD~Scramble_for_Africa,179848]]'
+- '[[../../../../../../../../WikiData/WD~Scramble_for_Africa,179848|WD~Scramble_for_Africa,179848]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914|1884-Scramble_for_Africa+1914]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.public|1884-Scramble_for_Africa+1914.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.internal|1884-Scramble_for_Africa+1914.internal]]'

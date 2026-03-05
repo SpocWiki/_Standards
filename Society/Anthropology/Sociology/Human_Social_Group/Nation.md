@@ -104,27 +104,27 @@ aliases:
 - 국민체
 has_id_wikidata: Q6266
 part_of:
-- '[[_Standards/WikiData/WD~nation_state,179671]]'
-- '[[_Standards/WikiData/WD~humanity,1156970]]'
+- '[[_Standards/WikiData/WD~nation_state,179671|WD~nation_state,179671]]'
+- '[[_Standards/WikiData/WD~humanity,1156970|WD~humanity,1156970]]'
 different_from:
-- '[[_Standards/WikiData/WD~nationality,231002]]'
-- '[[_Standards/WikiData/WD~people,2472587]]'
-- '[[_Standards/WikiData/WD~ethnos,12839330]]'
-- '[[_Standards/WikiData/WD~state,7275]]'
-- '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+- '[[_Standards/WikiData/WD~nationality,231002|WD~nationality,231002]]'
+- '[[_Standards/WikiData/WD~people,2472587|WD~people,2472587]]'
+- '[[_Standards/WikiData/WD~ethnos,12839330|WD~ethnos,12839330]]'
+- '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
+- '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
 instance_of:
-- '[[_Standards/WikiData/WD~construct,659390]]'
-- '[[_Standards/WikiData/WD~political_concept,33104069]]'
+- '[[_Standards/WikiData/WD~construct,659390|WD~construct,659390]]'
+- '[[_Standards/WikiData/WD~political_concept,33104069|WD~political_concept,33104069]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~people,2472587]]'
-- '[[_Standards/WikiData/WD~ethnicity,5404323]]'
-- '[[_Standards/WikiData/WD~Qaum,7267188]]'
-subclass_of: '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~people,2472587|WD~people,2472587]]'
+- '[[_Standards/WikiData/WD~ethnicity,5404323|WD~ethnicity,5404323]]'
+- '[[_Standards/WikiData/WD~Qaum,7267188|WD~Qaum,7267188]]'
+subclass_of: '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
 Colon_Classification: Y38
 Commons_category: Nations
 dv_has_:

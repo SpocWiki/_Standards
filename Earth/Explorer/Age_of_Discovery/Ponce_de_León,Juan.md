@@ -27,35 +27,35 @@ aliases:
 - 胡安·龐塞·德萊昂
 - 후안 폰세 데 레온
 has_id_wikidata: Q185974
-military_or_police_rank: '[[_Standards/WikiData/WD~general,83460]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~general,83460|WD~general,83460]]'
 occupation:
-- '[[_Standards/WikiData/WD~conquistador,126236]]'
-- '[[_Standards/WikiData/WD~explorer,11900058]]'
-- '[[_Standards/WikiData/WD~military_personnel,47064]]'
-given_name: '[[_Standards/WikiData/WD~Juan,475210]]'
-place_of_birth: '[[_Standards/WikiData/WD~Santervás_de_Campos,930641]]'
+- '[[_Standards/WikiData/WD~conquistador,126236|WD~conquistador,126236]]'
+- '[[_Standards/WikiData/WD~explorer,11900058|WD~explorer,11900058]]'
+- '[[_Standards/WikiData/WD~military_personnel,47064|WD~military_personnel,47064]]'
+given_name: '[[_Standards/WikiData/WD~Juan,475210|WD~Juan,475210]]'
+place_of_birth: '[[_Standards/WikiData/WD~Santervás_de_Campos,930641|WD~Santervás_de_Campos,930641]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-place_of_burial: '[[_Standards/WikiData/WD~Cathedral_of_San_Juan_Bautista,5052384]]'
-family: '[[_Standards/WikiData/WD~House_Ponce_de_León,5754987]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Figueroa,21487824]]'
-family_name: '[[_Standards/WikiData/WD~Ponce_de_León,41140799]]'
-position_held: '[[_Standards/WikiData/WD~Spanish_governor_of_Puerto_Rico,45899956]]'
-member_of: '[[_Standards/WikiData/WD~Columbus_Conquistador_of_America,66823411]]'
-father: '[[_Standards/WikiData/WD~Pedro_Ponce_de_León,116471132]]'
-mother: '[[_Standards/WikiData/WD~Leonor_de_Figueroa,116471133]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667|WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+place_of_burial: '[[_Standards/WikiData/WD~Cathedral_of_San_Juan_Bautista,5052384|WD~Cathedral_of_San_Juan_Bautista,5052384]]'
+family: '[[_Standards/WikiData/WD~House_Ponce_de_León,5754987|WD~House_Ponce_de_León,5754987]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Figueroa,21487824|WD~Figueroa,21487824]]'
+family_name: '[[_Standards/WikiData/WD~Ponce_de_León,41140799|WD~Ponce_de_León,41140799]]'
+position_held: '[[_Standards/WikiData/WD~Spanish_governor_of_Puerto_Rico,45899956|WD~Spanish_governor_of_Puerto_Rico,45899956]]'
+member_of: '[[_Standards/WikiData/WD~Columbus_Conquistador_of_America,66823411|WD~Columbus_Conquistador_of_America,66823411]]'
+father: '[[_Standards/WikiData/WD~Pedro_Ponce_de_León,116471132|WD~Pedro_Ponce_de_León,116471132]]'
+mother: '[[_Standards/WikiData/WD~Leonor_de_Figueroa,116471133|WD~Leonor_de_Figueroa,116471133]]'
 date_of_birth:
 - 1474-01-01T00:00:00Z
 - 1460-01-01T00:00:00Z
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
-place_of_death: '[[_Standards/WikiData/WD~Havana,1563]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Spain,29]]'
-cause_of_death: '[[_Standards/WikiData/WD~poison,40867]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+place_of_death: '[[_Standards/WikiData/WD~Havana,1563|WD~Havana,1563]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592|WD~Catholic_Church,9592]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+cause_of_death: '[[_Standards/WikiData/WD~poison,40867|WD~poison,40867]]'
 Commons_gallery: Juan Ponce de León
 Commons_category: Juan Ponce de León
 name_in_native_language: Juan Ponce de León
@@ -65,7 +65,7 @@ ISNI: 59296898
 date_of_death: 1521-01-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Juan_Ponce_de_León,185974]]'
+  - '[[../../../WikiData/WD~Juan_Ponce_de_León,185974|WD~Juan_Ponce_de_León,185974]]'
   - '[[/_Standards/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan|Ponce_de_León,Juan]]'
   - '[[/_public/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.public|Ponce_de_León,Juan.public]]'
   - '[[/_internal/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.internal|Ponce_de_León,Juan.internal]]'
@@ -74,7 +74,7 @@ dv_is_:
   - '[[/_personal/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.personal|Ponce_de_León,Juan.personal]]'
   - '[[/_secret/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.secret|Ponce_de_León,Juan.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Juan_Ponce_de_León,185974]]'
+- '[[../../../WikiData/WD~Juan_Ponce_de_León,185974|WD~Juan_Ponce_de_León,185974]]'
 - '[[/_Standards/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan|Ponce_de_León,Juan]]'
 - '[[/_public/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.public|Ponce_de_León,Juan.public]]'
 - '[[/_internal/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.internal|Ponce_de_León,Juan.internal]]'

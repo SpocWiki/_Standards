@@ -37,12 +37,12 @@ aliases:
 - 表示理論
 - 군 표현론
 has_id_wikidata: Q1055807
-has_characteristic: '[[_Standards/WikiData/WD~character_of_a_group_representation,600043]]'
+has_characteristic: '[[_Standards/WikiData/WD~character_of_a_group_representation,600043|WD~character_of_a_group_representation,600043]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~group_homomorphism,868169]]'
-- '[[_Standards/WikiData/WD~linear_representation,77978698]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q32516772,32516772]]'
+- '[[_Standards/WikiData/WD~group_homomorphism,868169|WD~group_homomorphism,868169]]'
+- '[[_Standards/WikiData/WD~linear_representation,77978698|WD~linear_representation,77978698]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32516772,32516772|WD~Q32516772,32516772]]'
 dv_has_:
   name_:
     ar: تمثيل زمرة

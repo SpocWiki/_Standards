@@ -69,7 +69,7 @@ tags:
 - ''
 title: Buren,Martin_van
 type: private_note
-dv_has_role: '[[../US_President]]'
+dv_has_role: '[[../US_President|US_President]]'
 dv_created: 1837-03-04
 dv_cancelled: 1841-03-04
 dv_has_:
@@ -236,7 +236,7 @@ dv_has_:
     started: 1782-12-05T00:00:00.000+00:53
     stopped: 1862-07-24T00:00:00.000+00:53
 dv_is_member_of:
-- '[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]'
+- '[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party|US~Democratic_Party]]'
 - '[[Free Soil Party]]'
 - '[[Democratic-Republican Party]]'
 dv_is_:
@@ -265,11 +265,11 @@ dv_is_same_as:
 
 has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped`
-[is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]] ] 
+[is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party|US~Democratic_Party]]] ] 
 [is_member_of :: [[Free Soil Party]] ] 
 [is_member_of :: [[Democratic-Republican Party]] ] 
 
--   [has_role :: [[../US_President]] ] [created:: 1837-03-04]cancelled = `=this.dv_cancelled`
+-   [has_role :: [[../US_President|US_President]] ] [created:: 1837-03-04]cancelled = `=this.dv_cancelled`
 
 ## #has_/text_of_/abstract 
 

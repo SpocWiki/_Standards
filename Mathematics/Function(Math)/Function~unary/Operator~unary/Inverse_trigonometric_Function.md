@@ -59,14 +59,14 @@ aliases:
 - 逆三角関数
 - 역삼각 함수
 has_id_wikidata: Q674533
-mathematical_inverse: '[[_Standards/WikiData/WD~trigonometric_function,93344]]'
+mathematical_inverse: '[[_Standards/WikiData/WD~trigonometric_function,93344|WD~trigonometric_function,93344]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~elementary_function,824282]]'
-- '[[_Standards/WikiData/WD~transcendental_function,864333]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13166170,13166170]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]'
+- '[[_Standards/WikiData/WD~elementary_function,824282|WD~elementary_function,824282]]'
+- '[[_Standards/WikiData/WD~transcendental_function,864333|WD~transcendental_function,864333]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13166170,13166170|WD~Q13166170,13166170]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819|WD~type_of_mathematical_function,47279819]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mplwp%20inverse%20trigonometric%20functions%20piaxis.svg
 Commons_category: Inverse trigonometric functions
 dv_has_:

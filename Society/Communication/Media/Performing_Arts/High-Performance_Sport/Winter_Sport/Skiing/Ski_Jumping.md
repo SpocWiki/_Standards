@@ -69,16 +69,16 @@ aliases:
 - 스키점프
 has_id_wikidata: Q7718
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~Nordic_skiing,216613]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~Nordic_skiing,216613|WD~Nordic_skiing,216613]]'
 uses:
-- '[[_Standards/WikiData/WD~ski_jumping_hill,1109069]]'
-- '[[_Standards/WikiData/WD~ski_jumping_ski,48993038]]'
-record_or_record_progression: '[[_Standards/WikiData/WD~list_of_the_longest_ski_jumps,2292241]]'
-practiced_by: '[[_Standards/WikiData/WD~ski_jumper,13382603]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ski_jumping,18117323]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_FIS_ski_jumper,28851962]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~ski_jumping_hill,1109069|WD~ski_jumping_hill,1109069]]'
+- '[[_Standards/WikiData/WD~ski_jumping_ski,48993038|WD~ski_jumping_ski,48993038]]'
+record_or_record_progression: '[[_Standards/WikiData/WD~list_of_the_longest_ski_jumps,2292241|WD~list_of_the_longest_ski_jumps,2292241]]'
+practiced_by: '[[_Standards/WikiData/WD~ski_jumper,13382603|WD~ski_jumper,13382603]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ski_jumping,18117323|WD~Portal_Ski_jumping,18117323]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_FIS_ski_jumper,28851962|WD~Template_FIS_ski_jumper,28851962]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 BHCL_UUID: ebfebb8a-520c-42f1-942d-2b945f05fd67
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Koch%20World%20Cup%20Ski%20flying%20Vikersund%202011.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Ski%20jumping%20pictogram.svg

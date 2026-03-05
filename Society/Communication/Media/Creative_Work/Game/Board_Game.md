@@ -94,17 +94,17 @@ aliases:
 - 보드 게임
 has_id_wikidata: Q131436
 uses:
-- '[[_Standards/WikiData/WD~game_board,1258741]]'
-has_list: '[[_Standards/WikiData/WD~list_of_board_games,2600160]]'
+- '[[_Standards/WikiData/WD~game_board,1258741|WD~game_board,1258741]]'
+has_list: '[[_Standards/WikiData/WD~list_of_board_games,2600160|WD~list_of_board_games,2600160]]'
 different_from:
-- '[[_Standards/WikiData/WD~tabletop_game,3244175]]'
+- '[[_Standards/WikiData/WD~tabletop_game,3244175|WD~tabletop_game,3244175]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~tabletop_game,3244175]]'
-- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
+- '[[_Standards/WikiData/WD~tabletop_game,3244175|WD~tabletop_game,3244175]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Board_and_table_games,9456907]]'
+- '[[_Standards/WikiData/WD~WikiProject_Board_and_table_games,9456907|WD~WikiProject_Board_and_table_games,9456907]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_Board_game,10557372]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_Board_game,10557372|WD~Template_Infobox_Board_game,10557372]]'
 subreddit:
 - BoardGamesNews
 - boardgamescirclejerk
@@ -113,10 +113,10 @@ GitHub_topic:
 - boardgame
 - board-game
 instance_of:
-- '[[_Standards/WikiData/WD~product_category,63981612]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~product_category,63981612|WD~product_category,63981612]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~board_game_player,84380764]]'
+- '[[_Standards/WikiData/WD~board_game_player,84380764|WD~board_game_player,84380764]]'
 IAB_code: 270
 Nomenclature_for_Museum_Cataloging: 14217
 Library_of_Congress_Classification: GV1312-GV1469

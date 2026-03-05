@@ -52,22 +52,22 @@ aliases:
 - 선택 공리
 has_id_wikidata: Q179692
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~Teichmüller_Tukey_lemma,277987]]'
-- "[[_Standards/WikiData/WD~Zorn's_lemma,290810]]"
-- '[[_Standards/WikiData/WD~Hausdorff_maximal_principle,738328]]'
-- "[[_Standards/WikiData/WD~König's_theorem,1077462]]"
-- "[[_Standards/WikiData/WD~Tychonoff's_theorem,1137014]]"
-- '[[_Standards/WikiData/WD~well_ordering_theorem,1457052]]'
-- "[[_Standards/WikiData/WD~Krull's_theorem,2397775]]"
-- "[[_Standards/WikiData/WD~Tarski's_theorem,2908743]]"
+- '[[_Standards/WikiData/WD~Teichmüller_Tukey_lemma,277987|WD~Teichmüller_Tukey_lemma,277987]]'
+- "[[_Standards/WikiData/WD~Zorn's_lemma,290810|WD~Zorn's_lemma,290810]]"
+- '[[_Standards/WikiData/WD~Hausdorff_maximal_principle,738328|WD~Hausdorff_maximal_principle,738328]]'
+- "[[_Standards/WikiData/WD~König's_theorem,1077462|WD~König's_theorem,1077462]]"
+- "[[_Standards/WikiData/WD~Tychonoff's_theorem,1137014|WD~Tychonoff's_theorem,1137014]]"
+- '[[_Standards/WikiData/WD~well_ordering_theorem,1457052|WD~well_ordering_theorem,1457052]]'
+- "[[_Standards/WikiData/WD~Krull's_theorem,2397775|WD~Krull's_theorem,2397775]]"
+- "[[_Standards/WikiData/WD~Tarski's_theorem,2908743|WD~Tarski's_theorem,2908743]]"
 generalization_of:
-- "[[_Standards/WikiData/WD~Zorn's_lemma,290810]]"
-- '[[_Standards/WikiData/WD~equivalent_of_the_axiom_of_choice,4478785]]'
+- "[[_Standards/WikiData/WD~Zorn's_lemma,290810|WD~Zorn's_lemma,290810]]"
+- '[[_Standards/WikiData/WD~equivalent_of_the_axiom_of_choice,4478785|WD~equivalent_of_the_axiom_of_choice,4478785]]'
 part_of:
-- '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
-- '[[_Standards/WikiData/WD~list_of_axioms,3632199]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~axiom_of_set_theory,36191904]]'
+- '[[_Standards/WikiData/WD~list_of_theorems,944443|WD~list_of_theorems,944443]]'
+- '[[_Standards/WikiData/WD~list_of_axioms,3632199|WD~list_of_axioms,3632199]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~axiom_of_set_theory,36191904|WD~axiom_of_set_theory,36191904]]'
 defining_formula: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \left(\forall i\in I\colon S_{i}\neq \varnothing \right)\implies \prod _{i\in I}S_{i}\neq \varnothing }">
     <semantics>
@@ -116,8 +116,8 @@ defining_formula: >-
       <annotation encoding="application/x-tex">{\displaystyle \left(\forall i\in I\colon S_{i}\neq \varnothing \right)\implies \prod _{i\in I}S_{i}\neq \varnothing }</annotation>
     </semantics>
   </math>
-studied_by: '[[_Standards/WikiData/WD~set_theory,12482]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Ernst_Zermelo,57248]]'
+studied_by: '[[_Standards/WikiData/WD~set_theory,12482|WD~set_theory,12482]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Ernst_Zermelo,57248|WD~Ernst_Zermelo,57248]]'
 short_name:
 - AC
 - AE

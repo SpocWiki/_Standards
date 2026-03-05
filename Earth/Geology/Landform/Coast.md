@@ -88,15 +88,15 @@ aliases:
 - 海皮
 - 연안
 has_id_wikidata: Q93352
-subclass_of: '[[_Standards/WikiData/WD~shore,468756]]'
-different_from: '[[_Standards/WikiData/WD~Côte,549892]]'
+subclass_of: '[[_Standards/WikiData/WD~shore,468756|WD~shore,468756]]'
+different_from: '[[_Standards/WikiData/WD~Côte,549892|WD~Côte,549892]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
-studied_by: '[[_Standards/WikiData/WD~coastal_geography,1421309]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~coastline,1701967]]'
-instance_of: '[[_Standards/WikiData/WD~place_type,25894868]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
+studied_by: '[[_Standards/WikiData/WD~coastal_geography,1421309|WD~coastal_geography,1421309]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~coastline,1701967|WD~coastline,1701967]]'
+instance_of: '[[_Standards/WikiData/WD~place_type,25894868|WD~place_type,25894868]]'
 OmegaWiki_Defined_Meaning: 633
 IMDb_keyword: coast
 U_S_National_Archives_Identifier: 10638030

@@ -77,23 +77,23 @@ aliases:
 - 水球
 - 수구
 has_id_wikidata: Q7707
-country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-authority: '[[_Standards/WikiData/WD~World_Aquatics,189289]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193|WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+authority: '[[_Standards/WikiData/WD~World_Aquatics,189289|WD~World_Aquatics,189289]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-- '[[_Standards/WikiData/WD~team_sport,216048]]'
-- '[[_Standards/WikiData/WD~ball_game,877517]]'
-- '[[_Standards/WikiData/WD~water_sport,61065]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-uses: '[[_Standards/WikiData/WD~water_polo_ball,3892696]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434|WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~team_sport,216048|WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~ball_game,877517|WD~ball_game,877517]]'
+- '[[_Standards/WikiData/WD~water_sport,61065|WD~water_sport,61065]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+uses: '[[_Standards/WikiData/WD~water_polo_ball,3892696|WD~water_polo_ball,3892696]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~water_polo_player,17524364]]'
-- '[[_Standards/WikiData/WD~water_polo_coach,90479996]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Waterpolo_stub,19370757]]'
+- '[[_Standards/WikiData/WD~water_polo_player,17524364|WD~water_polo_player,17524364]]'
+- '[[_Standards/WikiData/WD~water_polo_coach,90479996|WD~water_polo_coach,90479996]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Waterpolo_stub,19370757|WD~Template_Waterpolo_stub,19370757]]'
 inception: 1900-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]'
 maximum_number_of_players: 14
-sport: '[[_Standards/WikiData/WD~water_sport,61065]]'
+sport: '[[_Standards/WikiData/WD~water_sport,61065|WD~water_sport,61065]]'
 IAB_code: 543
 OmegaWiki_Defined_Meaning: 535324
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DFC%20Sete%20v%20FNC%20Douai%20Coupe%20de%20la%20Ligue%202014%20t144334.jpg

@@ -70,19 +70,19 @@ aliases:
 - 世界音樂
 - 월드 뮤직
 has_id_wikidata: Q205049
-instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
 different_from:
-- '[[_Standards/WikiData/WD~traditional_folk_music,235858]]'
-- '[[_Standards/WikiData/WD~ethnic_music,3570024]]'
-- '[[_Standards/WikiData/WD~contemporary_folk_music,106298881]]'
-- '[[_Standards/WikiData/WD~music_by_ethnic_group,106537557]]'
-- '[[_Standards/WikiData/WD~folk_music,43343]]'
+- '[[_Standards/WikiData/WD~traditional_folk_music,235858|WD~traditional_folk_music,235858]]'
+- '[[_Standards/WikiData/WD~ethnic_music,3570024|WD~ethnic_music,3570024]]'
+- '[[_Standards/WikiData/WD~contemporary_folk_music,106298881|WD~contemporary_folk_music,106298881]]'
+- '[[_Standards/WikiData/WD~music_by_ethnic_group,106537557|WD~music_by_ethnic_group,106537557]]'
+- '[[_Standards/WikiData/WD~folk_music,43343|WD~folk_music,43343]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~popular_music,373342]]'
-- '[[_Standards/WikiData/WD~music,115484611]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~regional_music,3328755]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_World_music,22803531]]'
-described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
+- '[[_Standards/WikiData/WD~popular_music,373342|WD~popular_music,373342]]'
+- '[[_Standards/WikiData/WD~music,115484611|WD~music,115484611]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~regional_music,3328755|WD~regional_music,3328755]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_World_music,22803531|WD~Template_World_music,22803531]]'
+described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149|WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
 IAB_code: 352
 equivalent_class: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_WorldMusic
 Commons_category: World music

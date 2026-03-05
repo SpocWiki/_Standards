@@ -30,7 +30,7 @@ dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
   inverse:
     - 
-    - "[[../has/has_performer]]"
+    - "[[../has/has_performer|has_performer]]"
   domain: Person
   name: is_performer_in
   range: Event
@@ -45,7 +45,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/is/is_performer_in.secret|is_performer_in.secret]]"
 dv_has_inverse:
   - 
-  - "[[../has/has_performer]]"
+  - "[[../has/has_performer|has_performer]]"
 dv_has_domain: Person
 dv_has_name: is_performer_in
 dv_has_range: Event

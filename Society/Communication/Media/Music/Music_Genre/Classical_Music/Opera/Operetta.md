@@ -35,25 +35,25 @@ aliases:
 - 오페레타
 has_id_wikidata: Q170384
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~opéra_comique,785479]]'
-- '[[_Standards/WikiData/WD~musical_drama,123777276]]'
+- '[[_Standards/WikiData/WD~opéra_comique,785479|WD~opéra_comique,785479]]'
+- '[[_Standards/WikiData/WD~musical_drama,123777276|WD~musical_drama,123777276]]'
 instance_of:
-- '[[_Standards/WikiData/WD~musical_form,862597]]'
-- '[[_Standards/WikiData/WD~opera_genre,20643324]]'
-- '[[_Standards/WikiData/WD~type_of_dramatico_musical_work,112248470]]'
-has_list: '[[_Standards/WikiData/WD~list_of_operas_by_composer,1863918]]'
-different_from: '[[_Standards/WikiData/WD~Operetka,11798646]]'
+- '[[_Standards/WikiData/WD~musical_form,862597|WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~opera_genre,20643324|WD~opera_genre,20643324]]'
+- '[[_Standards/WikiData/WD~type_of_dramatico_musical_work,112248470|WD~type_of_dramatico_musical_work,112248470]]'
+has_list: '[[_Standards/WikiData/WD~list_of_operas_by_composer,1863918|WD~list_of_operas_by_composer,1863918]]'
+different_from: '[[_Standards/WikiData/WD~Operetka,11798646|WD~Operetka,11798646]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~operetta_composer,21680699]]'
-- '[[_Standards/WikiData/WD~operetta_singer,30157837]]'
-- '[[_Standards/WikiData/WD~operetta_actor,125389634]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_operetta,22851208]]'
+- '[[_Standards/WikiData/WD~operetta_composer,21680699|WD~operetta_composer,21680699]]'
+- '[[_Standards/WikiData/WD~operetta_singer,30157837|WD~operetta_singer,30157837]]'
+- '[[_Standards/WikiData/WD~operetta_actor,125389634|WD~operetta_actor,125389634]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_operetta,22851208|WD~Template_Infobox_operetta,22851208]]'
 inception: 1850-01-01T00:00:00Z
 IMDb_keyword: operetta
 Provenio_UUID: 11278cf8-3126-4c3c-8d8b-eea6b34c51f9

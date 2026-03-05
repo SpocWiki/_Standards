@@ -77,16 +77,16 @@ aliases:
 - 社會網絡
 - 소셜 네트워크
 has_id_wikidata: Q2715623
-facet_of: '[[_Standards/WikiData/WD~organizational_theory,149584]]'
+facet_of: '[[_Standards/WikiData/WD~organizational_theory,149584|WD~organizational_theory,149584]]'
 different_from:
-- '[[_Standards/WikiData/WD~social_media,202833]]'
-- '[[_Standards/WikiData/WD~social_networking_service,3220391]]'
-- '[[_Standards/WikiData/WD~social_networking,19368491]]'
+- '[[_Standards/WikiData/WD~social_media,202833|WD~social_media,202833]]'
+- '[[_Standards/WikiData/WD~social_networking_service,3220391|WD~social_networking_service,3220391]]'
+- '[[_Standards/WikiData/WD~social_networking,19368491|WD~social_networking,19368491]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_structure,211606]]'
-- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-studied_by: '[[_Standards/WikiData/WD~social_network_analysis,7551269]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Social_networking,19304784]]'
+- '[[_Standards/WikiData/WD~social_structure,211606|WD~social_structure,211606]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
+studied_by: '[[_Standards/WikiData/WD~social_network_analysis,7551269|WD~social_network_analysis,7551269]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Social_networking,19304784|WD~Template_Social_networking,19304784]]'
 DPLA_subject_term: Social networks
 Commons_category: Social networks
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Moreno%20Sociogram%202nd%20Grade.png

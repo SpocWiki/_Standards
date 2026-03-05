@@ -71,17 +71,17 @@ aliases:
 - 奇幻小说
 - 판타지
 has_id_wikidata: Q132311
-partially_coincident_with: '[[_Standards/WikiData/WD~mirabilia,3306693]]'
-subclass_of: '[[_Standards/WikiData/WD~speculative_fiction,9326077]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Fantasy_fiction,13427068]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fantasy,15146862]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fantasy,16000276]]'
-instance_of: '[[_Standards/WikiData/WD~speculative_fiction_genre,20076756]]'
-fandom: '[[_Standards/WikiData/WD~fantasy_fandom,24947067]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~mirabilia,3306693|WD~mirabilia,3306693]]'
+subclass_of: '[[_Standards/WikiData/WD~speculative_fiction,9326077|WD~speculative_fiction,9326077]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Fantasy_fiction,13427068|WD~Template_Fantasy_fiction,13427068]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fantasy,15146862|WD~Portal_Fantasy,15146862]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fantasy,16000276|WD~outline_of_fantasy,16000276]]'
+instance_of: '[[_Standards/WikiData/WD~speculative_fiction_genre,20076756|WD~speculative_fiction_genre,20076756]]'
+fandom: '[[_Standards/WikiData/WD~fantasy_fandom,24947067|WD~fantasy_fandom,24947067]]'
 different_from:
-- '[[_Standards/WikiData/WD~fantastique_literature,30918879]]'
-- '[[_Standards/WikiData/WD~fantastique,116213606]]'
-- '[[_Standards/WikiData/WD~literary_fairy_tale,24723]]'
+- '[[_Standards/WikiData/WD~fantastique_literature,30918879|WD~fantastique_literature,30918879]]'
+- '[[_Standards/WikiData/WD~fantastique,116213606|WD~fantastique,116213606]]'
+- '[[_Standards/WikiData/WD~literary_fairy_tale,24723|WD~literary_fairy_tale,24723]]'
 Archive_of_Our_Own_tag: Fantasy
 hashtag_: fantasy
 OmegaWiki_Defined_Meaning: 456120

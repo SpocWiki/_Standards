@@ -92,28 +92,28 @@ aliases:
 - 토목공학
 has_id_wikidata: Q77590
 different_from:
-- '[[_Standards/WikiData/WD~mechanical_engineering,101333]]'
-- '[[_Standards/WikiData/WD~structural_engineering,633538]]'
-- '[[_Standards/WikiData/WD~design_engineering,5638464]]'
-- '[[_Standards/WikiData/WD~civil_engineering,73303844]]'
-part_of: '[[_Standards/WikiData/WD~academic_degree,189533]]'
+- '[[_Standards/WikiData/WD~mechanical_engineering,101333|WD~mechanical_engineering,101333]]'
+- '[[_Standards/WikiData/WD~structural_engineering,633538|WD~structural_engineering,633538]]'
+- '[[_Standards/WikiData/WD~design_engineering,5638464|WD~design_engineering,5638464]]'
+- '[[_Standards/WikiData/WD~civil_engineering,73303844|WD~civil_engineering,73303844]]'
+part_of: '[[_Standards/WikiData/WD~academic_degree,189533|WD~academic_degree,189533]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436|WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~structural_engineering,633538]]'
-- '[[_Standards/WikiData/WD~transportation_engineering,775325]]'
-- '[[_Standards/WikiData/WD~construction_management,811115]]'
-- '[[_Standards/WikiData/WD~geotechnical_engineering,1349130]]'
-- '[[_Standards/WikiData/WD~construction_engineering,2674423]]'
-- '[[_Standards/WikiData/WD~foundation_engineering,11888449]]'
+- '[[_Standards/WikiData/WD~structural_engineering,633538|WD~structural_engineering,633538]]'
+- '[[_Standards/WikiData/WD~transportation_engineering,775325|WD~transportation_engineering,775325]]'
+- '[[_Standards/WikiData/WD~construction_management,811115|WD~construction_management,811115]]'
+- '[[_Standards/WikiData/WD~geotechnical_engineering,1349130|WD~geotechnical_engineering,1349130]]'
+- '[[_Standards/WikiData/WD~construction_engineering,2674423|WD~construction_engineering,2674423]]'
+- '[[_Standards/WikiData/WD~foundation_engineering,11888449|WD~foundation_engineering,11888449]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~engineer_of_the_French_Corps_of_Bridges_and_Roads,650012]]'
-- '[[_Standards/WikiData/WD~State_Public_Works_Engineering_Corps_(France),3151036]]'
-- '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
-relevant_qualification: '[[_Standards/WikiData/WD~Ordre_des_ingénieurs_du_Québec,782655]]'
-studied_by: '[[_Standards/WikiData/WD~civil_engineering_studies,106372013]]'
-subclass_of: '[[_Standards/WikiData/WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~engineer_of_the_French_Corps_of_Bridges_and_Roads,650012|WD~engineer_of_the_French_Corps_of_Bridges_and_Roads,650012]]'
+- '[[_Standards/WikiData/WD~State_Public_Works_Engineering_Corps_(France),3151036|WD~State_Public_Works_Engineering_Corps_(France),3151036]]'
+- '[[_Standards/WikiData/WD~civil_engineer,13582652|WD~civil_engineer,13582652]]'
+relevant_qualification: '[[_Standards/WikiData/WD~Ordre_des_ingénieurs_du_Québec,782655|WD~Ordre_des_ingénieurs_du_Québec,782655]]'
+studied_by: '[[_Standards/WikiData/WD~civil_engineering_studies,106372013|WD~civil_engineering_studies,106372013]]'
+subclass_of: '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
 Colon_Classification: D1
 IAB_code: 120
 Dewey_Decimal_Classification: 624

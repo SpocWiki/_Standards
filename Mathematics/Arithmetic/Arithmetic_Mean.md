@@ -64,22 +64,22 @@ aliases:
 - 算術平均值
 - 산술 평균
 has_id_wikidata: Q19033
-greater_than: '[[_Standards/WikiData/WD~geometric_mean,185049]]'
-less_than: '[[_Standards/WikiData/WD~root_mean_square,223323]]'
+greater_than: '[[_Standards/WikiData/WD~geometric_mean,185049|WD~geometric_mean,185049]]'
+less_than: '[[_Standards/WikiData/WD~root_mean_square,223323|WD~root_mean_square,223323]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~quasi_arithmetic_mean,583095]]'
-- '[[_Standards/WikiData/WD~weighted_mean,729113]]'
-- '[[_Standards/WikiData/WD~generalized_mean,855729]]'
-- '[[_Standards/WikiData/WD~statistic,1949963]]'
-- '[[_Standards/WikiData/WD~mean,2796622]]'
-- '[[_Standards/WikiData/WD~Pythagorean_mean,3281360]]'
+- '[[_Standards/WikiData/WD~quasi_arithmetic_mean,583095|WD~quasi_arithmetic_mean,583095]]'
+- '[[_Standards/WikiData/WD~weighted_mean,729113|WD~weighted_mean,729113]]'
+- '[[_Standards/WikiData/WD~generalized_mean,855729|WD~generalized_mean,855729]]'
+- '[[_Standards/WikiData/WD~statistic,1949963|WD~statistic,1949963]]'
+- '[[_Standards/WikiData/WD~mean,2796622|WD~mean,2796622]]'
+- '[[_Standards/WikiData/WD~Pythagorean_mean,3281360|WD~Pythagorean_mean,3281360]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_statistic,47103999]]'
-different_from: '[[_Standards/WikiData/WD~sample_mean,105675280]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582|WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_statistic,47103999|WD~type_of_statistic,47103999]]'
+different_from: '[[_Standards/WikiData/WD~sample_mean,105675280|WD~sample_mean,105675280]]'
 defining_formula:
 - >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\overline {x}}={\frac {1}{n}}\sum _{i=1}^{n}x_{n}}">

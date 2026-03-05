@@ -48,19 +48,19 @@ aliases:
 - 마이크로미터
 has_id_wikidata: Q12458
 different_from:
-- '[[_Standards/WikiData/WD~micrometre,175821]]'
-- '[[_Standards/WikiData/WD~micrometer,133100913]]'
+- '[[_Standards/WikiData/WD~micrometre,175821|WD~micrometre,175821]]'
+- '[[_Standards/WikiData/WD~micrometer,133100913|WD~micrometer,133100913]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Adrien_Auzout,376856]]'
-- '[[_Standards/WikiData/WD~William_Gascoigne,1090266]]'
-- '[[_Standards/WikiData/WD~Christiaan_Huygens,39599]]'
+- '[[_Standards/WikiData/WD~Adrien_Auzout,376856|WD~Adrien_Auzout,376856]]'
+- '[[_Standards/WikiData/WD~William_Gascoigne,1090266|WD~William_Gascoigne,1090266]]'
+- '[[_Standards/WikiData/WD~Christiaan_Huygens,39599|WD~Christiaan_Huygens,39599]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-subclass_of: '[[_Standards/WikiData/WD~thickness_measuring_device,136387329]]'
-measures: '[[_Standards/WikiData/WD~length,36253]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+subclass_of: '[[_Standards/WikiData/WD~thickness_measuring_device,136387329|WD~thickness_measuring_device,136387329]]'
+measures: '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
 Nomenclature_for_Museum_Cataloging: 10345
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Micrometers.jpg
 Wolfram_Language_entity_code: Entity["MeasurementDevice", "Micrometer"]

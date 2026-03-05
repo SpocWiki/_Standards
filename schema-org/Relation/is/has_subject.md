@@ -73,7 +73,7 @@ Use it like this:
 - has_subject : : [[../../Class/Thing|Thing]]  
 
 The subject matter of the content. 
-This has a very narrow meaning compared to [[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdf~subject|rdf~subject]],  [[../../../../RDF/RDF~Relations/rdf~predicate]], and [[../../../../RDF/RDF~Relations/rdf~object]]. 
+This has a very narrow meaning compared to [[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdf~subject|rdf~subject]],  [[../../../../RDF/RDF~Relations/rdf~predicate|rdf~predicate]], and [[../../../../RDF/RDF~Relations/rdf~object|rdf~object]]. 
 
 Relation describes that: 
 

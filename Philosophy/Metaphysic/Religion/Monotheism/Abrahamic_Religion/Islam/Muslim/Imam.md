@@ -52,20 +52,20 @@ aliases:
 - 이맘
 has_id_wikidata: Q125482
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-- '[[_Standards/WikiData/WD~title_of_honor,3320743]]'
-- '[[_Standards/WikiData/WD~priest,42603]]'
+- '[[_Standards/WikiData/WD~title_of_honor,3320743|WD~title_of_honor,3320743]]'
+- '[[_Standards/WikiData/WD~priest,42603|WD~priest,42603]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~religious_leader,15995642]]'
-- '[[_Standards/WikiData/WD~Islamic_cleric,105275968]]'
-part_of: '[[_Standards/WikiData/WD~Muslim_clergy,105322976]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Muslim_minister,107637527]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~religious_leader,15995642|WD~religious_leader,15995642]]'
+- '[[_Standards/WikiData/WD~Islamic_cleric,105275968|WD~Islamic_cleric,105275968]]'
+part_of: '[[_Standards/WikiData/WD~Muslim_clergy,105322976|WD~Muslim_clergy,105322976]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Muslim_minister,107637527|WD~Muslim_minister,107637527]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
 ISCO_08_occupation_class: 2636
 ISCO_88_occupation_class: 2460
 native_label:

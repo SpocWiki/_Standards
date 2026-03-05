@@ -16,29 +16,29 @@ aliases:
 - 約翰·斯托塞爾
 has_id_wikidata: Q579324
 employer:
-- '[[_Standards/WikiData/WD~Fox_Broadcasting_Company,166419]]'
-- '[[_Standards/WikiData/WD~American_Broadcasting_Company,169889]]'
-medical_condition: '[[_Standards/WikiData/WD~stuttering,186676]]'
-place_of_birth: '[[_Standards/WikiData/WD~Chicago_Heights,578277]]'
+- '[[_Standards/WikiData/WD~Fox_Broadcasting_Company,166419|WD~Fox_Broadcasting_Company,166419]]'
+- '[[_Standards/WikiData/WD~American_Broadcasting_Company,169889|WD~American_Broadcasting_Company,169889]]'
+medical_condition: '[[_Standards/WikiData/WD~stuttering,186676|WD~stuttering,186676]]'
+place_of_birth: '[[_Standards/WikiData/WD~Chicago_Heights,578277|WD~Chicago_Heights,578277]]'
 award_received:
-- '[[_Standards/WikiData/WD~George_Polk_Award,845188]]'
-- '[[_Standards/WikiData/WD~News_and_Documentary_Emmy_Awards,11247971]]'
+- '[[_Standards/WikiData/WD~George_Polk_Award,845188|WD~George_Polk_Award,845188]]'
+- '[[_Standards/WikiData/WD~News_and_Documentary_Emmy_Awards,11247971|WD~News_and_Documentary_Emmy_Awards,11247971]]'
 occupation:
-- '[[_Standards/WikiData/WD~television_presenter,947873]]'
-- '[[_Standards/WikiData/WD~journalist,1930187]]'
-- '[[_Standards/WikiData/WD~writer,36180]]'
-field_of_work: '[[_Standards/WikiData/WD~journalist,1930187]]'
-given_name: '[[_Standards/WikiData/WD~John,4925477]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+- '[[_Standards/WikiData/WD~television_presenter,947873|WD~television_presenter,947873]]'
+- '[[_Standards/WikiData/WD~journalist,1930187|WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+field_of_work: '[[_Standards/WikiData/WD~journalist,1930187|WD~journalist,1930187]]'
+given_name: '[[_Standards/WikiData/WD~John,4925477|WD~John,4925477]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
 educated_at:
-- '[[_Standards/WikiData/WD~New_Trier_High_School,7012169]]'
-- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
-family_name: '[[_Standards/WikiData/WD~Stossel,18821525]]'
-sibling: '[[_Standards/WikiData/WD~Thomas_P._Stossel,22096468]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~New_Trier_High_School,7012169|WD~New_Trier_High_School,7012169]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578|WD~Princeton_University,21578]]'
+family_name: '[[_Standards/WikiData/WD~Stossel,18821525|WD~Stossel,18821525]]'
+sibling: '[[_Standards/WikiData/WD~Thomas_P._Stossel,22096468|WD~Thomas_P._Stossel,22096468]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 social_media_followers:
 - 1030000
 - 1029978

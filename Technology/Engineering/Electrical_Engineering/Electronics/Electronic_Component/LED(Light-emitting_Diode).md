@@ -64,23 +64,23 @@ aliases:
 - 발광 다이오드
 has_id_wikidata: Q25504
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Nick_Holonyak,360445]]'
-- '[[_Standards/WikiData/WD~Oleg_Losev,641551]]'
-- '[[_Standards/WikiData/WD~Shuji_Nakamura,730065]]'
-- '[[_Standards/WikiData/WD~H._J._Round,1606934]]'
-- '[[_Standards/WikiData/WD~James_R._Biard,15994932]]'
+- '[[_Standards/WikiData/WD~Nick_Holonyak,360445|WD~Nick_Holonyak,360445]]'
+- '[[_Standards/WikiData/WD~Oleg_Losev,641551|WD~Oleg_Losev,641551]]'
+- '[[_Standards/WikiData/WD~Shuji_Nakamura,730065|WD~Shuji_Nakamura,730065]]'
+- '[[_Standards/WikiData/WD~H._J._Round,1606934|WD~H._J._Round,1606934]]'
+- '[[_Standards/WikiData/WD~James_R._Biard,15994932|WD~James_R._Biard,15994932]]'
 has_use:
-- '[[_Standards/WikiData/WD~light_fixture,815738]]'
-- '[[_Standards/WikiData/WD~lamp,1138737]]'
-- '[[_Standards/WikiData/WD~light_source,1146001]]'
-- '[[_Standards/WikiData/WD~signal,2150504]]'
-- '[[_Standards/WikiData/WD~indicator_light,64539065]]'
-different_from: '[[_Standards/WikiData/WD~lead,947546]]'
+- '[[_Standards/WikiData/WD~light_fixture,815738|WD~light_fixture,815738]]'
+- '[[_Standards/WikiData/WD~lamp,1138737|WD~lamp,1138737]]'
+- '[[_Standards/WikiData/WD~light_source,1146001|WD~light_source,1146001]]'
+- '[[_Standards/WikiData/WD~signal,2150504|WD~signal,2150504]]'
+- '[[_Standards/WikiData/WD~indicator_light,64539065|WD~indicator_light,64539065]]'
+different_from: '[[_Standards/WikiData/WD~lead,947546|WD~lead,947546]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~semiconductor_diode,1929430]]'
-- '[[_Standards/WikiData/WD~light_emitting_component,65037275]]'
-- '[[_Standards/WikiData/WD~capacitor,5322]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]'
+- '[[_Standards/WikiData/WD~semiconductor_diode,1929430|WD~semiconductor_diode,1929430]]'
+- '[[_Standards/WikiData/WD~light_emitting_component,65037275|WD~light_emitting_component,65037275]]'
+- '[[_Standards/WikiData/WD~capacitor,5322|WD~capacitor,5322]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960|WD~type_of_electronic_component,125517960]]'
 Nomenclature_for_Museum_Cataloging: 1764
 Commons_gallery: LED
 subreddit: led

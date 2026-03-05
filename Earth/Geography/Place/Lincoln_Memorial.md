@@ -74,31 +74,31 @@ aliases:
 - 링컨 기념관
 has_id_wikidata: Q213559
 made_from_material:
-- '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
-- '[[_Standards/WikiData/WD~Yule_marble,3287571]]'
-- '[[_Standards/WikiData/WD~Indiana_limestone,6023318]]'
-- '[[_Standards/WikiData/WD~Sylacauga_marble,7660541]]'
-- '[[_Standards/WikiData/WD~Tennessee_marble,7700258]]'
-locations: '[[_Standards/WikiData/WD~West_Potomac_Park,285616]]'
-operator: '[[_Standards/WikiData/WD~National_Park_Service,308439]]'
+- '[[_Standards/WikiData/WD~reinforced_concrete,184190|WD~reinforced_concrete,184190]]'
+- '[[_Standards/WikiData/WD~Yule_marble,3287571|WD~Yule_marble,3287571]]'
+- '[[_Standards/WikiData/WD~Indiana_limestone,6023318|WD~Indiana_limestone,6023318]]'
+- '[[_Standards/WikiData/WD~Sylacauga_marble,7660541|WD~Sylacauga_marble,7660541]]'
+- '[[_Standards/WikiData/WD~Tennessee_marble,7700258|WD~Tennessee_marble,7700258]]'
+locations: '[[_Standards/WikiData/WD~West_Potomac_Park,285616|WD~West_Potomac_Park,285616]]'
+operator: '[[_Standards/WikiData/WD~National_Park_Service,308439|WD~National_Park_Service,308439]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~National_Memorial_of_the_United_States,1967454]]'
-- '[[_Standards/WikiData/WD~memorial,5003624]]'
-creator: '[[_Standards/WikiData/WD~Daniel_Chester_French,720910]]'
-architectural_style: '[[_Standards/WikiData/WD~Greek_Revival_architecture,1513688]]'
-architect: '[[_Standards/WikiData/WD~Henry_Bacon,2530379]]'
-appears_in_the_heritage_monument_list: '[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listings_in_Washington,_D.C.,6977769]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~National_Memorial_of_the_United_States,1967454|WD~National_Memorial_of_the_United_States,1967454]]'
+- '[[_Standards/WikiData/WD~memorial,5003624|WD~memorial,5003624]]'
+creator: '[[_Standards/WikiData/WD~Daniel_Chester_French,720910|WD~Daniel_Chester_French,720910]]'
+architectural_style: '[[_Standards/WikiData/WD~Greek_Revival_architecture,1513688|WD~Greek_Revival_architecture,1513688]]'
+architect: '[[_Standards/WikiData/WD~Henry_Bacon,2530379|WD~Henry_Bacon,2530379]]'
+appears_in_the_heritage_monument_list: '[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listings_in_Washington,_D.C.,6977769|WD~National_Register_of_Historic_Places_listings_in_Washington,_D.C.,6977769]]'
 heritage_designation:
-- '[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listed_place,19558910]]'
-- '[[_Standards/WikiData/WD~District_of_Columbia_Inventory_of_Historic_Sites,73198230]]'
+- '[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listed_place,19558910|WD~National_Register_of_Historic_Places_listed_place,19558910]]'
+- '[[_Standards/WikiData/WD~District_of_Columbia_Inventory_of_Historic_Sites,73198230|WD~District_of_Columbia_Inventory_of_Historic_Sites,73198230]]'
 coordinate_location: Point(-77.050138888 38.889277777)
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-continent: '[[_Standards/WikiData/WD~North_America,49]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
-commemorates: '[[_Standards/WikiData/WD~Abraham_Lincoln,91]]'
-depicts: '[[_Standards/WikiData/WD~Abraham_Lincoln,91]]'
-named_after: '[[_Standards/WikiData/WD~Abraham_Lincoln,91]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+continent: '[[_Standards/WikiData/WD~North_America,49|WD~North_America,49]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Washington,_D.C.,61|WD~Washington,_D.C.,61]]'
+commemorates: '[[_Standards/WikiData/WD~Abraham_Lincoln,91|WD~Abraham_Lincoln,91]]'
+depicts: '[[_Standards/WikiData/WD~Abraham_Lincoln,91|WD~Abraham_Lincoln,91]]'
+named_after: '[[_Standards/WikiData/WD~Abraham_Lincoln,91|WD~Abraham_Lincoln,91]]'
 elevation_above_sea_level:
 - 11
 - 16
@@ -205,7 +205,7 @@ dv_has_:
 
 # [[Lincoln_Memorial]] 
 
-![[../../../assets/Lincoln_Memorial.png]] 
+![[../../../assets/Lincoln_Memorial.png|Lincoln_Memorial.png]] 
 
 #is_/same_as :: [[WD~Lincoln_Memorial,213559]]
 

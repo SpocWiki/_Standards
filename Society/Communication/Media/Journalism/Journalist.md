@@ -189,26 +189,26 @@ female_form_of_label:
 - صحافی
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Landes%20wla%20bfkuu%20denkmayr%200192%20%2835381936821%29.jpg
 subclass_of:
-- '[[_Standards/WikiData/WD~author,482980]]'
-- '[[_Standards/WikiData/WD~media_professional,15980804]]'
-- '[[_Standards/WikiData/WD~media_profession,58635633]]'
-- '[[_Standards/WikiData/WD~authors,_journalists_and_linguists,108289407]]'
+- '[[_Standards/WikiData/WD~author,482980|WD~author,482980]]'
+- '[[_Standards/WikiData/WD~media_professional,15980804|WD~media_professional,15980804]]'
+- '[[_Standards/WikiData/WD~media_profession,58635633|WD~media_profession,58635633]]'
+- '[[_Standards/WikiData/WD~authors,_journalists_and_linguists,108289407|WD~authors,_journalists_and_linguists,108289407]]'
 different_from:
-- '[[_Standards/WikiData/WD~operator,1970438]]'
-- '[[_Standards/WikiData/WD~reporter,42909]]'
+- '[[_Standards/WikiData/WD~operator,1970438|WD~operator,1970438]]'
+- '[[_Standards/WikiData/WD~reporter,42909|WD~reporter,42909]]'
 instance_of:
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_journalist,14458505]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140|WD~occupation_group_according_to_ISCO_08,108300140]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_journalist,14458505|WD~Template_Infobox_journalist,14458505]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~interviewer,46034607]]'
-- '[[_Standards/WikiData/WD~questioner,134749838]]'
+- '[[_Standards/WikiData/WD~interviewer,46034607|WD~interviewer,46034607]]'
+- '[[_Standards/WikiData/WD~questioner,134749838|WD~questioner,134749838]]'
 properties_for_this_type:
 - notable work
 - list of works
-field_of_this_occupation: '[[_Standards/WikiData/WD~journalism,11030]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~journalism,11030|WD~journalism,11030]]'
 ISCO_88_occupation_class: 2451
 ISCO_08_occupation_class: 2642
 OmegaWiki_Defined_Meaning: 159443
@@ -424,7 +424,7 @@ dv_has_:
 
 # [[Journalist]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~journalist,1930187]]
+#is_/same_as :: [[_Standards/WikiData/WD~journalist,1930187|WD~journalist,1930187]]
 
 ## #has_/text_of_/abstract 
 

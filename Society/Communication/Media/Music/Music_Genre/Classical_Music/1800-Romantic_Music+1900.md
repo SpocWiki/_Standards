@@ -67,13 +67,13 @@ has_id_wikidata: Q207591
 start_time: 1800-01-01T00:00:00Z
 end_time: 1900-01-01T00:00:00Z
 instance_of:
-- '[[_Standards/WikiData/WD~music_genre,188451]]'
-- '[[_Standards/WikiData/WD~musical_movement,12020884]]'
-described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-followed_by: '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
-different_from: '[[_Standards/WikiData/WD~neoromantic_music,105697818]]'
-subclass_of: '[[_Standards/WikiData/WD~classical_music,9730]]'
-follows: '[[_Standards/WikiData/WD~Classical_period,17723]]'
+- '[[_Standards/WikiData/WD~music_genre,188451|WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_movement,12020884|WD~musical_movement,12020884]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+followed_by: '[[_Standards/WikiData/WD~modern_classical_music,65937946|WD~modern_classical_music,65937946]]'
+different_from: '[[_Standards/WikiData/WD~neoromantic_music,105697818|WD~neoromantic_music,105697818]]'
+subclass_of: '[[_Standards/WikiData/WD~classical_music,9730|WD~classical_music,9730]]'
+follows: '[[_Standards/WikiData/WD~Classical_period,17723|WD~Classical_period,17723]]'
 Europeana_entity: agent/base/146915
 dv_has_:
   name_:

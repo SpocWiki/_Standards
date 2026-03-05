@@ -33,9 +33,9 @@ Tag Instances like this:
 #is_/part_of :: https://pending.schema.org  
 
 An enterprise (potentially individual but typically collaborative), planned to achieve a particular aim.
-Use properties from [[../Organization]], [[subOrganization]]/[[parentOrganization]] to indicate project sub-structures.
+Use properties from [[../Organization|Organization]], [[subOrganization]]/[[parentOrganization]] to indicate project sub-structures.
 
-#has_/parent_class :: [[../Organization]]  
+#has_/parent_class :: [[../Organization|Organization]]  
 
 #has_/child_/class :: [ FundingAgency, ResearchProject ]  
 

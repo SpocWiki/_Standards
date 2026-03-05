@@ -110,33 +110,33 @@ tags:
 - Lang/mr
 type: Lang
 has_grammatical_gender:
-- '[[_Standards/WikiData/WD~masculine,499327]]'
-- '[[_Standards/WikiData/WD~feminine,1775415]]'
-- '[[_Standards/WikiData/WD~neuter,1775461]]'
-linguistic_typology: '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~masculine,499327|WD~masculine,499327]]'
+- '[[_Standards/WikiData/WD~feminine,1775415|WD~feminine,1775415]]'
+- '[[_Standards/WikiData/WD~neuter,1775461|WD~neuter,1775461]]'
+linguistic_typology: '[[_Standards/WikiData/WD~subject_object_verb,539808|WD~subject_object_verb,539808]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-- '[[_Standards/WikiData/WD~modern_language,1288568]]'
-- '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568|WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742|WD~natural_language,33742]]'
 writing_system:
-- '[[_Standards/WikiData/WD~Modi,1703713]]'
-- '[[_Standards/WikiData/WD~Devanagari,38592]]'
-subclass_of: '[[_Standards/WikiData/WD~Southern_Indo_Aryan,10856062]]'
-Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547]]'
+- '[[_Standards/WikiData/WD~Modi,1703713|WD~Modi,1703713]]'
+- '[[_Standards/WikiData/WD~Devanagari,38592|WD~Devanagari,38592]]'
+subclass_of: '[[_Standards/WikiData/WD~Southern_Indo_Aryan,10856062|WD~Southern_Indo_Aryan,10856062]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547|WD~2_Provincial,29051547]]'
 part_of:
-- '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]'
-- '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
-country: '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530|WD~Classical_Languages_of_India,116275530]]'
+- '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300|WD~Schedule_languages_of_India,134519300]]'
+country: '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
 indigenous_to:
-- '[[_Standards/WikiData/WD~Andhra_Pradesh,1159]]'
-- '[[_Standards/WikiData/WD~Goa,1171]]'
-- '[[_Standards/WikiData/WD~Chhattisgarh,1168]]'
-- '[[_Standards/WikiData/WD~Karnataka,1185]]'
-- '[[_Standards/WikiData/WD~Maharashtra,1191]]'
-- '[[_Standards/WikiData/WD~Madhya_Pradesh,1188]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Maharashtra,1191]]'
+- '[[_Standards/WikiData/WD~Andhra_Pradesh,1159|WD~Andhra_Pradesh,1159]]'
+- '[[_Standards/WikiData/WD~Goa,1171|WD~Goa,1171]]'
+- '[[_Standards/WikiData/WD~Chhattisgarh,1168|WD~Chhattisgarh,1168]]'
+- '[[_Standards/WikiData/WD~Karnataka,1185|WD~Karnataka,1185]]'
+- '[[_Standards/WikiData/WD~Maharashtra,1191|WD~Maharashtra,1191]]'
+- '[[_Standards/WikiData/WD~Madhya_Pradesh,1188|WD~Madhya_Pradesh,1188]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Maharashtra,1191|WD~Maharashtra,1191]]'
 number_of_speakers_writers_or_signers: 83100000
 Ethnologue_com_language_code: mar
 ISO_639_3_code: mar

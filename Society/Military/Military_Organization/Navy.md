@@ -89,26 +89,26 @@ aliases:
 - 해군
 has_id_wikidata: Q4508
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-has_list: '[[_Standards/WikiData/WD~list_of_navies,737867]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+has_list: '[[_Standards/WikiData/WD~list_of_navies,737867|WD~list_of_navies,737867]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~military_branch,781132]]'
-- '[[_Standards/WikiData/WD~naval_unit,20749395]]'
-instance_of: '[[_Standards/WikiData/WD~military_branch,781132]]'
-has_use: '[[_Standards/WikiData/WD~naval_warfare,876274]]'
+- '[[_Standards/WikiData/WD~military_branch,781132|WD~military_branch,781132]]'
+- '[[_Standards/WikiData/WD~naval_unit,20749395|WD~naval_unit,20749395]]'
+instance_of: '[[_Standards/WikiData/WD~military_branch,781132|WD~military_branch,781132]]'
+has_use: '[[_Standards/WikiData/WD~naval_warfare,876274|WD~naval_warfare,876274]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~coast_guard,1353040]]'
-- '[[_Standards/WikiData/WD~marines,1898583]]'
-- '[[_Standards/WikiData/WD~naval_reserve_force,19344622]]'
-item_operated: '[[_Standards/WikiData/WD~aircraft_in_naval_service,63605536]]'
+- '[[_Standards/WikiData/WD~coast_guard,1353040|WD~coast_guard,1353040]]'
+- '[[_Standards/WikiData/WD~marines,1898583|WD~marines,1898583]]'
+- '[[_Standards/WikiData/WD~naval_reserve_force,19344622|WD~naval_reserve_force,19344622]]'
+item_operated: '[[_Standards/WikiData/WD~aircraft_in_naval_service,63605536|WD~aircraft_in_naval_service,63605536]]'
 Dewey_Decimal_Classification: 359
 U_S_National_Archives_Identifier: 10644763
 OmegaWiki_Defined_Meaning: 458647

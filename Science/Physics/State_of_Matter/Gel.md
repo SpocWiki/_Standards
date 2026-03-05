@@ -31,10 +31,10 @@ aliases:
 - 凝膠
 - 젤
 has_id_wikidata: Q185744
-subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
-different_from: '[[_Standards/WikiData/WD~Gel,3759252]]'
-instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529|WD~chemical_substance,79529]]'
+different_from: '[[_Standards/WikiData/WD~Gel,3759252|WD~Gel,3759252]]'
+instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814|WD~group_or_class_of_chemical_substances,17339814]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 UNSPSC_Code: 12161801
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001561
 UMLS_CUI: C0017243

@@ -79,14 +79,14 @@ aliases:
 - 단편 영화
 has_id_wikidata: Q24862
 instance_of:
-- '[[_Standards/WikiData/WD~film_format,759853]]'
-- '[[_Standards/WikiData/WD~type_of_cinematic_work,110900120]]'
-has_characteristic: '[[_Standards/WikiData/WD~duration,2199864]]'
-subclass_of: '[[_Standards/WikiData/WD~film,11424]]'
+- '[[_Standards/WikiData/WD~film_format,759853|WD~film_format,759853]]'
+- '[[_Standards/WikiData/WD~type_of_cinematic_work,110900120|WD~type_of_cinematic_work,110900120]]'
+has_characteristic: '[[_Standards/WikiData/WD~duration,2199864|WD~duration,2199864]]'
+subclass_of: '[[_Standards/WikiData/WD~film,11424|WD~film,11424]]'
 less_than:
-- '[[_Standards/WikiData/WD~medium_length_film,24865]]'
-- '[[_Standards/WikiData/WD~feature_film,24869]]'
-opposite_of: '[[_Standards/WikiData/WD~feature_film,24869]]'
+- '[[_Standards/WikiData/WD~medium_length_film,24865|WD~medium_length_film,24865]]'
+- '[[_Standards/WikiData/WD~feature_film,24869|WD~feature_film,24869]]'
+opposite_of: '[[_Standards/WikiData/WD~feature_film,24869|WD~feature_film,24869]]'
 duration: 45
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shortfilm.png
 Commons_category: Short films

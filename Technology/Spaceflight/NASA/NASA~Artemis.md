@@ -49,33 +49,33 @@ aliases:
 - 아르테미스 계획
 has_id_wikidata: Q63819987
 uses:
-- '[[_Standards/WikiData/WD~Orion,211727]]'
-- '[[_Standards/WikiData/WD~Blue_Moon,39045528]]'
-- '[[_Standards/WikiData/WD~Starship,62833385]]'
-- '[[_Standards/WikiData/WD~Starship_Human_Landing_System,98168901]]'
-- '[[_Standards/WikiData/WD~Space_Launch_System,64127]]'
+- '[[_Standards/WikiData/WD~Orion,211727|WD~Orion,211727]]'
+- '[[_Standards/WikiData/WD~Blue_Moon,39045528|WD~Blue_Moon,39045528]]'
+- '[[_Standards/WikiData/WD~Starship,62833385|WD~Starship,62833385]]'
+- '[[_Standards/WikiData/WD~Starship_Human_Landing_System,98168901|WD~Starship_Human_Landing_System,98168901]]'
+- '[[_Standards/WikiData/WD~Space_Launch_System,64127|WD~Space_Launch_System,64127]]'
 start_point:
-- '[[_Standards/WikiData/WD~Cape_Canaveral_Space_Force_Station,334465]]'
-- '[[_Standards/WikiData/WD~Kennedy_Space_Center,48821]]'
-has_goal: '[[_Standards/WikiData/WD~exploration_of_the_Moon,1064739]]'
-significant_event: '[[_Standards/WikiData/WD~maiden_flight,1362364]]'
+- '[[_Standards/WikiData/WD~Cape_Canaveral_Space_Force_Station,334465|WD~Cape_Canaveral_Space_Force_Station,334465]]'
+- '[[_Standards/WikiData/WD~Kennedy_Space_Center,48821|WD~Kennedy_Space_Center,48821]]'
+has_goal: '[[_Standards/WikiData/WD~exploration_of_the_Moon,1064739|WD~exploration_of_the_Moon,1064739]]'
+significant_event: '[[_Standards/WikiData/WD~maiden_flight,1362364|WD~maiden_flight,1362364]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Artemis_I,3389152]]'
-- '[[_Standards/WikiData/WD~Artemis_II,16947045]]'
-- '[[_Standards/WikiData/WD~Artemis_III,21028127]]'
-- '[[_Standards/WikiData/WD~Lunar_Gateway,29098442]]'
-- '[[_Standards/WikiData/WD~Artemis_IV,60846240]]'
-- '[[_Standards/WikiData/WD~Starship,62833385]]'
-- '[[_Standards/WikiData/WD~Artemis_V,110823547]]'
+- '[[_Standards/WikiData/WD~Artemis_I,3389152|WD~Artemis_I,3389152]]'
+- '[[_Standards/WikiData/WD~Artemis_II,16947045|WD~Artemis_II,16947045]]'
+- '[[_Standards/WikiData/WD~Artemis_III,21028127|WD~Artemis_III,21028127]]'
+- '[[_Standards/WikiData/WD~Lunar_Gateway,29098442|WD~Lunar_Gateway,29098442]]'
+- '[[_Standards/WikiData/WD~Artemis_IV,60846240|WD~Artemis_IV,60846240]]'
+- '[[_Standards/WikiData/WD~Starship,62833385|WD~Starship,62833385]]'
+- '[[_Standards/WikiData/WD~Artemis_V,110823547|WD~Artemis_V,110823547]]'
 instance_of:
-- '[[_Standards/WikiData/WD~human_spaceflight_program,13226541]]'
-- '[[_Standards/WikiData/WD~NASA_program,21605492]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Artemis_program,63910399]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Artemis_program,64007679]]'
-operator: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~human_spaceflight_program,13226541|WD~human_spaceflight_program,13226541]]'
+- '[[_Standards/WikiData/WD~NASA_program,21605492|WD~NASA_program,21605492]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Artemis_program,63910399|WD~Category_Artemis_program,63910399]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Artemis_program,64007679|WD~Template_Artemis_program,64007679]]'
+operator: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548|WD~National_Aeronautics_and_Space_Administration,23548]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 capital_cost: 35000000000
-named_after: '[[_Standards/WikiData/WD~Artemis,39503]]'
+named_after: '[[_Standards/WikiData/WD~Artemis,39503|WD~Artemis,39503]]'
 social_media_followers: 480791
 hashtag: Artemis
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Artemis%20program%20%28solid%20contrast%20with%20wordmark%29.svg

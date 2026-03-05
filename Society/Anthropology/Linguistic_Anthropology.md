@@ -51,18 +51,18 @@ aliases:
 - 语言人类学
 - 언어인류학
 has_id_wikidata: Q772835
-studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845]]'
+studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845|WD~sociolinguistics,160845]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_anthropology,106720965]]'
-- '[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]'
-described_by_source: '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436|WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_anthropology,106720965|WD~branch_of_anthropology,106720965]]'
+- '[[_Standards/WikiData/WD~branch_of_linguistics,135892289|WD~branch_of_linguistics,135892289]]'
+described_by_source: '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602|WD~Soziolinguistika_Hiztegia,124156602]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~linguistics,8162]]'
-- '[[_Standards/WikiData/WD~anthropology,23404]]'
+- '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
+- '[[_Standards/WikiData/WD~anthropology,23404|WD~anthropology,23404]]'
 dv_has_:
   name_:
     ar: علم الإنسان اللغوي

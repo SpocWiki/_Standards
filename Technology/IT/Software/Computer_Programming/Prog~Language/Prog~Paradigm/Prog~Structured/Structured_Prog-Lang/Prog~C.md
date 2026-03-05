@@ -45,48 +45,48 @@ media_type:
 - text/x-c
 JIS_standard: X3010
 influenced_by:
-- '[[_Standards/WikiData/WD~Fortran,83303]]'
-- '[[_Standards/WikiData/WD~assembly_language,165436]]'
-- '[[_Standards/WikiData/WD~ALGOL,188436]]'
-- '[[_Standards/WikiData/WD~PL_I,223433]]'
-- '[[_Standards/WikiData/WD~B,797302]]'
-- '[[_Standards/WikiData/WD~BCPL,810009]]'
-- '[[_Standards/WikiData/WD~ALGOL_60,1209759]]'
-- '[[_Standards/WikiData/WD~ALGOL_68,2166735]]'
-- '[[_Standards/WikiData/WD~CPL,2347334]]'
+- '[[_Standards/WikiData/WD~Fortran,83303|WD~Fortran,83303]]'
+- '[[_Standards/WikiData/WD~assembly_language,165436|WD~assembly_language,165436]]'
+- '[[_Standards/WikiData/WD~ALGOL,188436|WD~ALGOL,188436]]'
+- '[[_Standards/WikiData/WD~PL_I,223433|WD~PL_I,223433]]'
+- '[[_Standards/WikiData/WD~B,797302|WD~B,797302]]'
+- '[[_Standards/WikiData/WD~BCPL,810009|WD~BCPL,810009]]'
+- '[[_Standards/WikiData/WD~ALGOL_60,1209759|WD~ALGOL_60,1209759]]'
+- '[[_Standards/WikiData/WD~ALGOL_68,2166735|WD~ALGOL_68,2166735]]'
+- '[[_Standards/WikiData/WD~CPL,2347334|WD~CPL,2347334]]'
 developer:
-- '[[_Standards/WikiData/WD~American_National_Standards_Institute,180003]]'
-- '[[_Standards/WikiData/WD~Bell_Labs,217365]]'
-- '[[_Standards/WikiData/WD~Ken_Thompson,1107006]]'
-- '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]'
-- '[[_Standards/WikiData/WD~Dennis_M._Ritchie,45575]]'
-has_characteristic: '[[_Standards/WikiData/WD~Turing_completeness,197970]]'
+- '[[_Standards/WikiData/WD~American_National_Standards_Institute,180003|WD~American_National_Standards_Institute,180003]]'
+- '[[_Standards/WikiData/WD~Bell_Labs,217365|WD~Bell_Labs,217365]]'
+- '[[_Standards/WikiData/WD~Ken_Thompson,1107006|WD~Ken_Thompson,1107006]]'
+- '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028|WD~International_Organization_for_Standardization,15028]]'
+- '[[_Standards/WikiData/WD~Dennis_M._Ritchie,45575|WD~Dennis_M._Ritchie,45575]]'
+has_characteristic: '[[_Standards/WikiData/WD~Turing_completeness,197970|WD~Turing_completeness,197970]]'
 programming_paradigm:
-- '[[_Standards/WikiData/WD~structured_programming,223335]]'
-- '[[_Standards/WikiData/WD~imperative_programming,275596]]'
-- '[[_Standards/WikiData/WD~procedural_programming,1418502]]'
+- '[[_Standards/WikiData/WD~structured_programming,223335|WD~structured_programming,223335]]'
+- '[[_Standards/WikiData/WD~imperative_programming,275596|WD~imperative_programming,275596]]'
+- '[[_Standards/WikiData/WD~procedural_programming,1418502|WD~procedural_programming,1418502]]'
 instance_of:
-- '[[_Standards/WikiData/WD~compiled_language,651794]]'
-- '[[_Standards/WikiData/WD~imperative_programming_language,21562092]]'
-- '[[_Standards/WikiData/WD~structured_programming_language,28920117]]'
-- '[[_Standards/WikiData/WD~procedural_programming_language,28922885]]'
-- '[[_Standards/WikiData/WD~computer_science_term,66747126]]'
-- '[[_Standards/WikiData/WD~programming_language,9143]]'
-follows: '[[_Standards/WikiData/WD~B,797302]]'
-based_on: '[[_Standards/WikiData/WD~B,797302]]'
+- '[[_Standards/WikiData/WD~compiled_language,651794|WD~compiled_language,651794]]'
+- '[[_Standards/WikiData/WD~imperative_programming_language,21562092|WD~imperative_programming_language,21562092]]'
+- '[[_Standards/WikiData/WD~structured_programming_language,28920117|WD~structured_programming_language,28920117]]'
+- '[[_Standards/WikiData/WD~procedural_programming_language,28922885|WD~procedural_programming_language,28922885]]'
+- '[[_Standards/WikiData/WD~computer_science_term,66747126|WD~computer_science_term,66747126]]'
+- '[[_Standards/WikiData/WD~programming_language,9143|WD~programming_language,9143]]'
+follows: '[[_Standards/WikiData/WD~B,797302|WD~B,797302]]'
+based_on: '[[_Standards/WikiData/WD~B,797302|WD~B,797302]]'
 typing_discipline:
-- '[[_Standards/WikiData/WD~weak_typing,7977969]]'
-- '[[_Standards/WikiData/WD~manifest_typing,17123089]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_C_programming_language,8084962]]'
+- '[[_Standards/WikiData/WD~weak_typing,7977969|WD~weak_typing,7977969]]'
+- '[[_Standards/WikiData/WD~manifest_typing,17123089|WD~manifest_typing,17123089]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_C_programming_language,8084962|WD~Template_C_programming_language,8084962]]'
 has_edition_or_translation:
-- '[[_Standards/WikiData/WD~C17_(C_standard),56277125]]'
-- '[[_Standards/WikiData/WD~C23,67693987]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_IEC_9899,85547147]]'
+- '[[_Standards/WikiData/WD~C17_(C_standard),56277125|WD~C17_(C_standard),56277125]]'
+- '[[_Standards/WikiData/WD~C23,67693987|WD~C23,67693987]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_IEC_9899,85547147|WD~ISO_IEC_9899,85547147]]'
 operating_system:
-- '[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406]]'
-- '[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]'
-different_from: '[[_Standards/WikiData/WD~C,9820]]'
-designed_by: '[[_Standards/WikiData/WD~Dennis_M._Ritchie,45575]]'
+- '[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406|WD~Microsoft_Windows,1406]]'
+- '[[_Standards/WikiData/WD~Unix_like_operating_system,14656|WD~Unix_like_operating_system,14656]]'
+different_from: '[[_Standards/WikiData/WD~C,9820|WD~C,9820]]'
+designed_by: '[[_Standards/WikiData/WD~Dennis_M._Ritchie,45575|WD~Dennis_M._Ritchie,45575]]'
 ArchWiki_article:
 - C
 - C_(Español)
@@ -182,7 +182,7 @@ dv_has_:
 #is_a_/ComputerLanguage 
 #is_a_/computer_language  
 
-#has_/parent  :: [[../../Prog~Imperative/Prog~BCPL]] 
+#has_/parent  :: [[../../Prog~Imperative/Prog~BCPL|Prog~BCPL]] 
 #has_/creator :: [[Dennis_Ritchie]] 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~C,15777|WD~C,15777]]
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Q15777,15777|WD~Q15777,15777]]
@@ -197,7 +197,7 @@ by Martin Richards at MIT. BCPL introduced curly Braces.
 > C is commonly used on computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems.
 >
 > C was originally developed at Bell Labs by Ritchie between 1972 and 1973 to construct utilities running on Unix. 
-> It was successor to the programming language B, which itself was modelled after the minimal [[../../Prog~Imperative/Prog~BCPL]] 
+> It was successor to the programming language B, which itself was modelled after the minimal [[../../Prog~Imperative/Prog~BCPL|Prog~BCPL]] 
 > 
 > It was applied to re-implementing the kernel of the Unix operating system. During the 1980s, C gradually gained popularity. It has become one of the most widely used programming languages, with C compilers available for practically all modern computer architectures and operating systems. The book The C Programming Language, co-authored by the original language designer, served for many years as the de facto standard for the language. C has been standardized since 1989 by the American National Standards Institute (ANSI) and the International Organization for Standardization (ISO).
 >

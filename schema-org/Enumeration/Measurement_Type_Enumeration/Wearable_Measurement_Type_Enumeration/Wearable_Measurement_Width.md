@@ -28,8 +28,8 @@ title: is_a_wearable_measurement_width Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../WearableMeasurementTypeEnumeration]]"
-  enum_of: "[[../WearableMeasurementTypeEnumeration]]"
+  parent_class: "[[../WearableMeasurementTypeEnumeration|WearableMeasurementTypeEnumeration]]"
+  enum_of: "[[../WearableMeasurementTypeEnumeration|WearableMeasurementTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width|Wearable_Measurement_Width]]"
     - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.public|Wearable_Measurement_Width.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.secret|Wearable_Measurement_Width.secret]]"
     - "[[Wearable_Measurement_Width]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../WearableMeasurementTypeEnumeration]]"
-dv_is_enum_of: "[[../WearableMeasurementTypeEnumeration]]"
+dv_has_parent_class: "[[../WearableMeasurementTypeEnumeration|WearableMeasurementTypeEnumeration]]"
+dv_is_enum_of: "[[../WearableMeasurementTypeEnumeration|WearableMeasurementTypeEnumeration]]"
 dv_is_same_as:
   - "[[Wearable_Measurement_Width]]"
   - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.public|Wearable_Measurement_Width.public]]"
