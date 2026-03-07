@@ -1,74 +1,74 @@
 ---
 aliases:
-- Luhmann
-- Luhmann,Niklas
-- Nicolaus Luhmann
-- Niklas Luhmann
-- Niklas Luman
-- Niklas_Luhmann
-- Ніклас Луман
-- Нікляс Люман
-- Никлас Луман
-- نيكلاس لوهمان
-- نیکلاس لومان
-- ਨਿਕਲਸ ਲੁਹਮੰਨ
-- ニクラス・ルーマン
-- 尼克拉斯·卢曼
-- 니클라스 루만
+  - Luhmann
+  - Luhmann,Niklas
+  - Nicolaus Luhmann
+  - Niklas Luhmann
+  - Niklas Luman
+  - Niklas_Luhmann
+  - Ніклас Луман
+  - Нікляс Люман
+  - Никлас Луман
+  - نيكلاس لوهمان
+  - نیکلاس لومان
+  - ਨਿਕਲਸ ਲੁਹਮੰਨ
+  - ニクラス・ルーマン
+  - 尼克拉斯·卢曼
+  - 니클라스 루만
 has_id_wikidata: Q57238
 influenced_by:
-- '[[_Standards/WikiData/WD~Heinz_von_Foerster,78688|WD~Heinz_von_Foerster,78688]]'
-- '[[_Standards/WikiData/WD~Gilles_Deleuze,184226|WD~Gilles_Deleuze,184226]]'
-- '[[_Standards/WikiData/WD~Humberto_Maturana,376452|WD~Humberto_Maturana,376452]]'
-- '[[_Standards/WikiData/WD~G._Spencer_Brown,1508271|WD~G._Spencer_Brown,1508271]]'
-- '[[_Standards/WikiData/WD~Georg_Wilhelm_Friedrich_Hegel,9235|WD~Georg_Wilhelm_Friedrich_Hegel,9235]]'
-- '[[_Standards/WikiData/WD~Immanuel_Kant,9312|WD~Immanuel_Kant,9312]]'
-- '[[_Standards/WikiData/WD~Edmund_Husserl,58586|WD~Edmund_Husserl,58586]]'
+  - "[[_Standards/WikiData/WD~Heinz_von_Foerster,78688|WD~Heinz_von_Foerster,78688]]"
+  - "[[_Standards/WikiData/WD~Gilles_Deleuze,184226|WD~Gilles_Deleuze,184226]]"
+  - "[[_Standards/WikiData/WD~Humberto_Maturana,376452|WD~Humberto_Maturana,376452]]"
+  - "[[_Standards/WikiData/WD~G._Spencer_Brown,1508271|WD~G._Spencer_Brown,1508271]]"
+  - "[[_Standards/WikiData/WD~Georg_Wilhelm_Friedrich_Hegel,9235|WD~Georg_Wilhelm_Friedrich_Hegel,9235]]"
+  - "[[_Standards/WikiData/WD~Immanuel_Kant,9312|WD~Immanuel_Kant,9312]]"
+  - "[[_Standards/WikiData/WD~Edmund_Husserl,58586|WD~Edmund_Husserl,58586]]"
 field_of_work:
-- '[[_Standards/WikiData/WD~organizational_theory,149584|WD~organizational_theory,149584]]'
-- '[[_Standards/WikiData/WD~sociology_of_law,847034|WD~sociology_of_law,847034]]'
-- '[[_Standards/WikiData/WD~sociology,21201|WD~sociology,21201]]'
+  - "[[_Standards/WikiData/WD~organizational_theory,149584|WD~organizational_theory,149584]]"
+  - "[[_Standards/WikiData/WD~sociology_of_law,847034|WD~sociology_of_law,847034]]"
+  - "[[_Standards/WikiData/WD~sociology,21201|WD~sociology,21201]]"
 educated_at:
-- '[[_Standards/WikiData/WD~University_of_Freiburg,153987|WD~University_of_Freiburg,153987]]'
-- '[[_Standards/WikiData/WD~Harvard_University,13371|WD~Harvard_University,13371]]'
-- '[[_Standards/WikiData/WD~Bielefeld_University,24382|WD~Bielefeld_University,24382]]'
+  - "[[_Standards/WikiData/WD~University_of_Freiburg,153987|WD~University_of_Freiburg,153987]]"
+  - "[[_Standards/WikiData/WD~Harvard_University,13371|WD~Harvard_University,13371]]"
+  - "[[_Standards/WikiData/WD~Bielefeld_University,24382|WD~Bielefeld_University,24382]]"
 occupation:
-- '[[_Standards/WikiData/WD~jurist,185351|WD~jurist,185351]]'
-- '[[_Standards/WikiData/WD~university_teacher,1622272|WD~university_teacher,1622272]]'
-- '[[_Standards/WikiData/WD~sociologist,2306091|WD~sociologist,2306091]]'
-- '[[_Standards/WikiData/WD~cyberneticist,5197818|WD~cyberneticist,5197818]]'
-- '[[_Standards/WikiData/WD~social_scientist,15319501|WD~social_scientist,15319501]]'
-- '[[_Standards/WikiData/WD~lawyer,40348|WD~lawyer,40348]]'
-place_of_death: '[[_Standards/WikiData/WD~Oerlinghausen,242757|WD~Oerlinghausen,242757]]'
-is_member_of: '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439|WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
+  - "[[_Standards/WikiData/WD~jurist,185351|WD~jurist,185351]]"
+  - "[[_Standards/WikiData/WD~university_teacher,1622272|WD~university_teacher,1622272]]"
+  - "[[_Standards/WikiData/WD~sociologist,2306091|WD~sociologist,2306091]]"
+  - "[[_Standards/WikiData/WD~cyberneticist,5197818|WD~cyberneticist,5197818]]"
+  - "[[_Standards/WikiData/WD~social_scientist,15319501|WD~social_scientist,15319501]]"
+  - "[[_Standards/WikiData/WD~lawyer,40348|WD~lawyer,40348]]"
+place_of_death: "[[_Standards/WikiData/WD~Oerlinghausen,242757|WD~Oerlinghausen,242757]]"
+is_member_of: "[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439|WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]"
 academic_degree:
-- '[[_Standards/WikiData/WD~habilitation,308678|WD~habilitation,308678]]'
-- '[[_Standards/WikiData/WD~Doctor_of_Political_Science,11408904|WD~Doctor_of_Political_Science,11408904]]'
+  - "[[_Standards/WikiData/WD~habilitation,308678|WD~habilitation,308678]]"
+  - "[[_Standards/WikiData/WD~Doctor_of_Political_Science,11408904|WD~Doctor_of_Political_Science,11408904]]"
 award_received:
-- '[[_Standards/WikiData/WD~Hegel_Prize,895754|WD~Hegel_Prize,895754]]'
-- '[[_Standards/WikiData/WD~European_Amalfi_Prize_for_Sociology_and_Social_Sciences,1760527|WD~European_Amalfi_Prize_for_Sociology_and_Social_Sciences,1760527]]'
-- '[[_Standards/WikiData/WD~Honorary_doctors_of_Ghent_University,28814622|WD~Honorary_doctors_of_Ghent_University,28814622]]'
-- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Bologna,40743212|WD~Honorary_doctor_of_the_University_of_Bologna,40743212]]'
-- '[[_Standards/WikiData/WD~Honorary_degree_of_the_University_of_Macerata,96895980|WD~Honorary_degree_of_the_University_of_Macerata,96895980]]'
-- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Trier,97577686|WD~honorary_doctor_of_the_University_of_Trier,97577686]]'
-place_of_burial: '[[_Standards/WikiData/WD~Lipperreihe,1713505|WD~Lipperreihe,1713505]]'
+  - "[[_Standards/WikiData/WD~Hegel_Prize,895754|WD~Hegel_Prize,895754]]"
+  - "[[_Standards/WikiData/WD~European_Amalfi_Prize_for_Sociology_and_Social_Sciences,1760527|WD~European_Amalfi_Prize_for_Sociology_and_Social_Sciences,1760527]]"
+  - "[[_Standards/WikiData/WD~Honorary_doctors_of_Ghent_University,28814622|WD~Honorary_doctors_of_Ghent_University,28814622]]"
+  - "[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Bologna,40743212|WD~Honorary_doctor_of_the_University_of_Bologna,40743212]]"
+  - "[[_Standards/WikiData/WD~Honorary_degree_of_the_University_of_Macerata,96895980|WD~Honorary_degree_of_the_University_of_Macerata,96895980]]"
+  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Trier,97577686|WD~honorary_doctor_of_the_University_of_Trier,97577686]]"
+place_of_burial: "[[_Standards/WikiData/WD~Lipperreihe,1713505|WD~Lipperreihe,1713505]]"
 notable_work: "[[_Standards/WikiData/WD~Luhmann's_systems_theory,2377195|WD~Luhmann's_systems_theory,2377195]]"
-given_name: '[[_Standards/WikiData/WD~Niklas,3439273|WD~Niklas,3439273]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
-family_name: '[[_Standards/WikiData/WD~Luhmann,37443748|WD~Luhmann,37443748]]'
+given_name: "[[_Standards/WikiData/WD~Niklas,3439273|WD~Niklas,3439273]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]"
+family_name: "[[_Standards/WikiData/WD~Luhmann,37443748|WD~Luhmann,37443748]]"
 different_from:
-- '[[_Standards/WikiData/WD~Q57395747,57395747|WD~Q57395747,57395747]]'
-- '[[_Standards/WikiData/WD~Q58840553,58840553|WD~Q58840553,58840553]]'
-- '[[_Standards/WikiData/WD~Niklas_Luhmann,61803657|WD~Niklas_Luhmann,61803657]]'
-member_of_political_party: '[[_Standards/WikiData/WD~Q123632749,123632749|WD~Q123632749,123632749]]'
+  - "[[_Standards/WikiData/WD~Q57395747,57395747|WD~Q57395747,57395747]]"
+  - "[[_Standards/WikiData/WD~Q58840553,58840553|WD~Q58840553,58840553]]"
+  - "[[_Standards/WikiData/WD~Niklas_Luhmann,61803657|WD~Niklas_Luhmann,61803657]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Q123632749,123632749|WD~Q123632749,123632749]]"
 work_location:
-- '[[_Standards/WikiData/WD~Bielefeld,2112|WD~Bielefeld,2112]]'
-- '[[_Standards/WikiData/WD~Münster,2742|WD~Münster,2742]]'
-place_of_birth: '[[_Standards/WikiData/WD~Lüneburg,3920|WD~Lüneburg,3920]]'
-employer: '[[_Standards/WikiData/WD~Bielefeld_University,24382|WD~Bielefeld_University,24382]]'
-instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
+  - "[[_Standards/WikiData/WD~Bielefeld,2112|WD~Bielefeld,2112]]"
+  - "[[_Standards/WikiData/WD~Münster,2742|WD~Münster,2742]]"
+place_of_birth: "[[_Standards/WikiData/WD~Lüneburg,3920|WD~Lüneburg,3920]]"
+employer: "[[_Standards/WikiData/WD~Bielefeld_University,24382|WD~Bielefeld_University,24382]]"
+instance_of: "[[_Standards/WikiData/WD~human,5|WD~human,5]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188|WD~German,188]]"
 Commons_category: Niklas Luhmann
 BHCL_UUID: 0dd69411-1034-44ed-81f7-e5f736e77ca0
 Libris_URI: 86lnrj7s1j1prc8
@@ -76,7 +76,7 @@ date_of_death: 1998-11-06T00:00:00Z
 date_of_birth: 1927-12-08T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Niklas%20Luhmann.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HSGH%20022-000941%20Niklas%20Luhmann%20%28cropped%29.png
-ISNI: 0000000122778532
+ISNI: 122778532
 NSDAP_membership_number_1925_1945_: 9935113
 name_in_native_language: Niklas Luhmann
 Wolfram_Language_entity_code: Entity["Person", "NiklasLuhmann::4796k"]
@@ -136,6 +136,32 @@ dv_has_:
     tr: Niklas Luhmann
     uk: Ніклас Луман
     zh: 尼克拉斯·卢曼
+confidential: private
+license: (c)copyrighted
+linkTitle: Luhmann,Niklas
+title: Luhmann,Niklas
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started: 2026-03-07
+isDeleted: false
+isReadOnly: false
+keywords:
+  - Luhmann,Niklas
+lang: en
+layout:
+publish: false
+publishDate:
+tags:
+  - Luhmann,Niklas
+  - excalidraw
+type: private_note
 ---
 
 # [[Luhmann,Niklas]] 
@@ -200,3 +226,22 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.secret|Luhmann,Niklas.secret]] 
 
+
+# [[Luhmann,Niklas]] 
+
+#is_/part_of :: [[Luhmann,Niklas 1]] 
+
+![[Luhmann,Niklas.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Luhmann,Niklas.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
