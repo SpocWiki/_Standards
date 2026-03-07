@@ -1,59 +1,60 @@
 ---
 aliases:
-- agrableco
-- Agradável
-- agreeableness
-- agréabilité
-- amabilidad
-- amicability
-- Amicalità
-- amigałità
-- barátságosság
-- Big5~Agreeableness
-- Koostöövalmidus
-- Pajtueshmëria
-- Sovinnollisuus
-- Sprejemljivost
-- Verträglichkeit
-- vriendelijkheid
-- Vänlighet
-- Τερπνότητα
-- Кунĕлĕх
-- Покладистость
-- Привітність
-- Сарадљивост
-- נעימוּת
-- توافقپذیری
-- وفاق
-- सहमतता
-- 亲和性
-- 協調性
-- 親和度
-- 親和性
-- 우호성
+  - agrableco
+  - Agradável
+  - agreeableness
+  - agréabilité
+  - amabilidad
+  - amicability
+  - Amicalità
+  - amigałità
+  - barátságosság
+  - Big5~Agreeableness
+  - Koostöövalmidus
+  - Pajtueshmëria
+  - Sovinnollisuus
+  - Sprejemljivost
+  - Verträglichkeit
+  - vriendelijkheid
+  - Vänlighet
+  - Τερπνότητα
+  - Кунĕлĕх
+  - Покладистость
+  - Привітність
+  - Сарадљивост
+  - נעימוּת
+  - توافقپذیری
+  - وفاق
+  - सहमतता
+  - 亲和性
+  - 協調性
+  - 親和度
+  - 親和性
+  - 우호성
+  - Amicability
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: ''
-has_Template: '[[Extract~Note~Template]]'
+expiryDate: ""
+has_Template: "[[Extract~Note~Template]]"
 has_time_started: 2025-06-29
 isDeleted: false
 isReadOnly: false
 keywords: Verträglichkeit
 lang: en
-layout: ''
+layout: ""
 license: (c)copyrighted
 linkTitle: Verträglichkeit
 publish: false
-publishDate: ''
+publishDate: ""
 tags:
-- Verträglichkeit
-- excalidraw
+  - Verträglichkeit
+  - excalidraw
 title: Verträglichkeit
 type: private_note
 has_id_wikidata: Q380358
@@ -101,9 +102,9 @@ dv_has_:
 
 #is_/part_of :: [[../Personality~Big5|Personality~Big5]] 
 
-amicability or agreeableness (A) measures kindness, helpfulness, and willingness to cooperate.  
-HEXACO Agreeableness emphasizes forgiveness, patience, and tolerance.  
-Big Five Agreeableness emphasizes kindness and cooperation.
+Amicability or agreeableness (A) measures kindness, helpfulness, and willingness to cooperate.  
+- HEXACO: Agreeableness emphasizes forgiveness, patience, and tolerance.  
+- Big Five: Agreeableness emphasizes kindness and cooperation.
 
 ## #has_/text_of_/abstract 
 

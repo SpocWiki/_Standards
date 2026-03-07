@@ -176,7 +176,7 @@ Conscientiousness and Honesty–Humility show the strongest **general benefits**
 All other dimensions exhibit advantages and disadvantages **depending on context** and extremity. 
 
 ```dataviewjs
-dv.view("_orga/JS/HeatMapTableMd", {keyed2D:dv.current().correlations, colors:["#FF0000","#FFFFFF","#00FF00"], scale:100, digits:0, rowHead:"Trait", colHead:"HEXACO%:"});
+dv.view("_orga/JS/HeatMapTableMd", {keyed2D:dv.current().correlations, colors:["#FF0000","#FFFFFF","#00FF00"], scale:100, digits:0, rowHead:"Trait", colHead:"HEXACO%:", min:-100, max:100});
 ```
 
 

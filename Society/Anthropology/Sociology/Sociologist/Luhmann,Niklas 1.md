@@ -138,7 +138,7 @@ dv_has_:
     zh: 尼克拉斯·卢曼
 ---
 
-# [[Luhmann,Niklas]] 
+# [[Luhmann,Niklas 1]] 
 
 #is_/same_as :: [[WD~Niklas_Luhmann,57238]] 
 #has_/time_/started ::  1927-12-08 

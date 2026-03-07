@@ -29,40 +29,44 @@ dv_has_:
     yue: 經驗開放度
     zh: 经验开放性
 aliases:
-- Abertura à experiência
-- apertura a la experiencia
-- Apertura mentale
-- Avatus
-- Avoimuus
-- Esperientziarekiko irekitasun
-- malfermiteco al spertoj
-- obertura a l'experiència
-- Odprtost
-- Offenheit
-- openness to experience
-- otevřenost vůči zkušenosti
-- ouverture à l'expérience
-- tapasztalatok iránti nyitottság
-- Terbuka untuk pengalaman
-- verto mentalmente
-- Öppenhet (psykologi)
-- Отвореност за искуство
-- Открытость опыту (интеллект)
-- פתיחות לחוויה
-- انفتاح على التجربة
-- باز بودن
-- 経験への開放性
-- 經驗開放度
-- 经验开放性
-- 경험 개방성
+  - Abertura à experiência
+  - apertura a la experiencia
+  - Apertura mentale
+  - Avatus
+  - Avoimuus
+  - Esperientziarekiko irekitasun
+  - malfermiteco al spertoj
+  - obertura a l'experiència
+  - Odprtost
+  - Offenheit
+  - openness to experience
+  - otevřenost vůči zkušenosti
+  - ouverture à l'expérience
+  - tapasztalatok iránti nyitottság
+  - Terbuka untuk pengalaman
+  - verto mentalmente
+  - Öppenhet (psykologi)
+  - Отвореност за искуство
+  - Открытость опыту (интеллект)
+  - פתיחות לחוויה
+  - انفتاح على التجربة
+  - باز بودن
+  - 経験への開放性
+  - 經驗開放度
+  - 经验开放性
+  - 경험 개방성
+part_of: "[[_Standards/WikiData/WD~Big_Five_personality_traits,378132]]"
+instance_of: "[[_Standards/WikiData/WD~personality_trait,2393196]]"
 ---
 
-# [[openness to experience]]  
+# [[Openness(to_Experience)]]  
+
+#is_/same_as :: [[Openness_to_Experience,2015673]] 
 
 ## #has_/text_of_/abstract 
 
 > **openness to experience** is one of the domains which are used to describe human personality 
-> in the Five Factor Model and the [[../Personality~HEXACO|Personality~HEXACO]]. 
+> in both the [[../Personality~Big5|Personality~Big5]],Five Factor Model and the [[../Personality~HEXACO|Personality~HEXACO]]. 
 > 
 > Openness involves six facets, or dimensions: 
 > - active imagination (fantasy), 
@@ -72,7 +76,10 @@ aliases:
 > - intellectual curiosity, and 
 > - challenging authority (psychological liberalism). 
 > 
-> A great deal of psychometric research has demonstrated that these facets or qualities are significantly correlated. Thus, openness can be viewed as a global personality trait consisting of a set of specific traits, habits, and tendencies that cluster together.
+> A great deal of psychometric research has demonstrated that 
+> these facets or qualities are **significantly correlated**. 
+> Thus, openness can be viewed as a global personality trait 
+> consisting of a set of specific traits, habits, and tendencies that cluster together.
 >
 > Openness tends to be normally distributed, 
 > with a small number of people scoring extremely high or low on the trait 

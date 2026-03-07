@@ -36,11 +36,62 @@ official_website: https://www.myersbriggs.org
 subreddit: mbti
 Commons_category: Myers-Briggs Type Indicator
 Know_Your_Meme_slug: myers-briggs-type-indicator-mbti
+correlations:
+  Honesty-Humility:
+    E-I: 0.05
+    S-N: 0.05
+    T-F: 0.00
+    J-P: 0.05
+
+  Emotionality:
+    E-I: -0.20
+    S-N: 0.05
+    T-F: 0.35
+    J-P: -0.10
+
+  eXtraversion:
+    E-I: 0.60
+    S-N: 0.10
+    T-F: 0.10
+    J-P: 0.05
+
+  Agreeableness:
+    E-I: 0.15
+    S-N: 0.05
+    T-F: 0.45
+    J-P: 0.10
+
+  Conscientiousness:
+    E-I: 0.05
+    S-N: -0.10
+    T-F: 0.05
+    J-P: 0.50
+
+  Openness:
+    E-I: 0.10
+    S-N: 0.55
+    T-F: 0.10
+    J-P: -0.10
+
 ---
 
 # [[MBTI(Myers-Briggs Type Indicator)]] 
 
 #is_/same_as :: [[WD~Myers–Briggs Type Indicator,897939]] 
+
+
+```dataviewjs
+dv.view("_orga/JS/HeatMapTableMd", {keyed2D:dv.current().correlations, colors:["#FF0000","#FFFFFF","#00FF00"], scale:100, digits:0, rowHead:"HEXACO", colHead:"MBTI%:", min:-100, max:100});
+```
+
+Correlations to the stable HEXACO and Big5 Dimensions are weak to moderate 
+compared to ca. 80% among the HEXACO and Big5 Dimensions. 
+The H-Dimension is not correlated / covered by MBTI. 
+
+The MBTI-Dimensions are labeled according to their Sign: 
+E-I means Extraversion minus Intraversion etc. 
+
+
 
 ## #has_/text_of_/abstract 
 
@@ -50,10 +101,10 @@ Know_Your_Meme_slug: myers-briggs-type-indicator-mbti
 > (often called personality types). 
 > 
 > The test assigns a binary letter value to each of four dichotomous categories: 
-> - Introversion or Extraversion, 
-> - Sensing or iNtuition, 
-> - Thinking or Feeling, and 
-> - Judging or Perceiving. 
+> - **I**ntroversion or **E**xtraversion, 
+> - **S**ensing or i**N**tuition, 
+> - **T**hinking or **F**eeling, and 
+> - **J**udging or **P**erceiving. 
 > This produces a four-letter test result, such as "INTJ" or "ESFP", 
 > representing one of the 16 types.
 > 
@@ -68,7 +119,9 @@ Know_Your_Meme_slug: myers-briggs-type-indicator-mbti
 > and tried to organize the Jungian cognitive functions to make it more accessible.
 > 
 > The perceived accuracy of test results relies on the 
-> - Barnum effect, flattery, and confirmation bias, 
+> - Barnum effect, 
+> - flattery, and 
+> - confirmation bias, 
 > leading participants to personally identify with descriptions 
 > that are somewhat desirable, vague, and widely applicable. 
 > 
@@ -99,4 +152,5 @@ Know_Your_Meme_slug: myers-briggs-type-indicator-mbti
 > and 200 government agencies in the United States use it.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs%20Type%20Indicator)  
+
 

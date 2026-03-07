@@ -1,4 +1,10 @@
 ---
+aliases:
+  - HEXACOモデルの正直さ-謙虚さ
+  - honesty-humility
+  - honnêteté-humilité
+  - Iskrenost-skromnost
+  - Фактор чесності-скромності
 has_id_wikidata: Q5893319
 dv_has_:
   name_:
@@ -7,15 +13,9 @@ dv_has_:
     ja: HEXACOモデルの正直さ-謙虚さ
     sl: Iskrenost-skromnost
     uk: Фактор чесності-скромності
-aliases:
-- HEXACOモデルの正直さ-謙虚さ
-- honesty-humility
-- honnêteté-humilité
-- Iskrenost-skromnost
-- Фактор чесності-скромності
 ---
 
-# [[honesty-humility]] 
+# [[honesty+humility]] 
 
 
 ## #has_/text_of_/abstract 
