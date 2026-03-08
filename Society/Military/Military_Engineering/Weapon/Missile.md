@@ -215,15 +215,18 @@ dv_has_:
 > A **Missile** is an airborne ranged weapon capable of self-propelled flight 
 > aided usually by a propellant, jet engine or rocket motor.
 >
-> Historically, 'missile' referred to any projectile that is thrown, shot or propelled towards a target; 
-> this usage is still recognized today with any unguided jet- or rocket-propelled weapons 
+> Historically, 'missile' referred to any projectile 
+> that is thrown, shot or propelled towards a target; 
+> this usage is still recognized today with 
+> any unguided jet- or rocket-propelled weapons 
 > generally described as rocket artillery. 
 > 
-> Airborne explosive devices without propulsion are referred to as 
-> - shells if fired by an artillery piece and 
-> - bombs if dropped by an aircraft.
+> Airborne **explosive devices** without propulsion are referred to as 
+> - **shells** if fired by an artillery piece and 
+> - **bombs** if dropped by an aircraft.
 >
-> Missiles are also generally guided towards specific targets termed as guided missiles or guided rockets. 
+> Missiles are also generally guided towards specific targets 
+> termed as guided missiles or guided rockets. 
 > 
 > Missile systems usually have five system components: 
 > targeting, guidance system, flight system, engine, and warhead. 
@@ -236,6 +239,9 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Missile) 
 
+
+
+But they also 
 
 ## Confidential Links & Embeds: 
 
