@@ -110,7 +110,7 @@ dv_has_:
 
 # [[1880-New_Imperialism+1920]] 
 
-#is_/same_as :: [[WD~New_Imperialism,304121]] 
+#is_/same_as :: [[_Standards/WikiData/WD~New_Imperialism,304121]] 
 
 ## #has_/text_of_/abstract 
 

@@ -162,7 +162,7 @@ Unicode_character: 🍷
 
 # [[Red_Wine]] 🍷 
 
-#is_/same_as :: [[WD~Red_wine,1827]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Red_wine,1827]] 
 
 ## #has_/text_of_/abstract 
 

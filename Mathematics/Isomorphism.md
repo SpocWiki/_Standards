@@ -161,7 +161,7 @@ dv_has_:
 
 # [[Isomorphism]] 
 
-#is_/same_as :: [[WD~Isomorphism,189112]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Isomorphism,189112]] 
 
 ## #has_/text_of_/abstract 
 

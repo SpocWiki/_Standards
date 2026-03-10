@@ -1,7 +1,7 @@
 
 # [[Unit~Henry]] 
 
-#is_/same_as :: [[WD~Henry,163354]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Henry,163354]] 
 
 ## #has_/text_of_/abstract 
 

@@ -322,7 +322,7 @@ dv_has_:
 
 # [[IOC(International_Olympic_Committee)]] 
 
-#is_/same_as :: [[WD~International_Olympic_Committee,40970]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Olympic_Committee,40970]] 
 
 ## #has_/text_of_/abstract 
 

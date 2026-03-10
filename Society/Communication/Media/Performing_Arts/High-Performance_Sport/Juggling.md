@@ -143,7 +143,7 @@ Unicode_character: 🤹
 
 
 
-#is_/same_as :: [[WD~Juggling,194326]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Juggling,194326]] 
 
 ## #has_/text_of_/abstract 
 

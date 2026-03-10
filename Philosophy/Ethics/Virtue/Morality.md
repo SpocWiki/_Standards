@@ -221,7 +221,7 @@ dv_has_:
 
 # [[Morality]] 
 
-#is_/same_as :: [[WD~Morality,48324]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Morality,48324]] 
 
 ## #has_/text_of_/abstract 
 

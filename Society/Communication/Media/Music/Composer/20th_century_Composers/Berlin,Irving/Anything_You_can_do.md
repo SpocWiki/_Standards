@@ -23,7 +23,7 @@ dv_has_:
 
 # [[Anything_You_can_do]] 
 
-#is_/same_as :: [[WD~Anything_You_can_do,4778342]]
+#is_/same_as :: [[_Standards/WikiData/WD~Anything_You_can_do,4778342]]
 ## #has_/text_of_/abstract 
 
 > "Anything You Can Do (I Can Do Better)" 

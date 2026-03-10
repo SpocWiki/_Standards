@@ -133,7 +133,7 @@ dv_has_:
 
 # [[Improvised_explosive_Device]] 
 
-#is_/same_as :: [[WD~Improvised_explosive_device,1249453]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Improvised_explosive_device,1249453]] 
 
 ## #has_/text_of_/abstract 
 

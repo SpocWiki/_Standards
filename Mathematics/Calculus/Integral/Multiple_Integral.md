@@ -102,7 +102,7 @@ dv_has_:
 
 # [[Multiple_Integral]] 
 
-#is_/same_as :: [[WD~Multiple_integral,844937]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Multiple_integral,844937]] 
 
 ## #has_/text_of_/abstract 
 

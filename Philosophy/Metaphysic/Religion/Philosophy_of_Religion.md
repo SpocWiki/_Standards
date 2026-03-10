@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Philosophy_of_Religion]] 
 
-#is_/same_as :: [[WD~Philosophy_of_religion,209295]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Philosophy_of_religion,209295]] 
 
 ## #has_/text_of_/abstract 
 

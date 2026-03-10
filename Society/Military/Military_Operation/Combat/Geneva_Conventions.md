@@ -198,7 +198,7 @@ dv_has_:
 
 # [[Geneva_Conventions]] 
 
-#is_/same_as :: [[WD~Geneva_Conventions,133536]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Geneva_Conventions,133536]] 
 
 ## #has_/text_of_/abstract 
 

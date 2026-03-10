@@ -380,7 +380,7 @@ dv_has_:
 
 # [[Social_Science]] 
 
-#is_/same_as :: [[WD~Social_science,34749]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Social_science,34749]] 
 
 ## #has_/text_of_/abstract 
 

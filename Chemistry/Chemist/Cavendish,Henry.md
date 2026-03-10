@@ -221,7 +221,7 @@ dv_has_:
 
 # [[Cavendish,Henry]] 
 
-#is_/same_as :: [[WD~Henry_Cavendish,131733]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Henry_Cavendish,131733]] 
 
 ## #has_/text_of_/abstract 
 

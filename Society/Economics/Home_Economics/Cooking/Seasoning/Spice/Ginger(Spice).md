@@ -184,7 +184,7 @@ Unicode_character: 🫚
 # [[Ginger(Spice)]] 🫚 
 
 
-#is_/same_as :: [[WD~Ginger,15046077]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ginger,15046077]] 
 
 ## #has_/text_of_/abstract 
 

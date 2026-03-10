@@ -126,7 +126,7 @@ dv_has_:
 
 # [[Holomorphic_Function]] 
 
-#is_/same_as :: [[WD~Holomorphic_function,207476]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Holomorphic_function,207476]] 
 
 ## #has_/text_of_/abstract 
 

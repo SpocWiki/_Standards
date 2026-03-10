@@ -312,7 +312,7 @@ dv_has_:
 
 # [[Lawrence_of_Arabia(Film)]] 
 
-#is_/same_as :: [[WD~Lawrence_of_Arabia,228186]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lawrence_of_Arabia,228186]] 
 
 ## #has_/text_of_/abstract 
 

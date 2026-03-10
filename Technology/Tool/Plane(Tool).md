@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Plane(Tool)]] 
 
-#is_/same_as :: [[WD~Plane,204260]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plane,204260]] 
 
 ## #has_/text_of_/abstract 
 

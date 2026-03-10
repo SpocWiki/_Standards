@@ -126,7 +126,7 @@ dv_has_:
 
 # [[CGPM(General_Conference_on_Weights_and_Measures)]] 
 
-#is_/same_as :: [[wd~General_Conference_on_Weights_and_Measures,215650]] 
+#is_/same_as :: [[_Standards/WikiData/WD~General_Conference_on_Weights_and_Measures,215650]] 
 
 ## #has_/text_of_/abstract 
 

@@ -172,7 +172,7 @@ aliases:
 
 # [[Euclidean_Plane]] 
 
-#is_/same_as :: [[WD~Plane,17285]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plane,17285]] 
 
 ## #has_/text_of_/abstract 
 

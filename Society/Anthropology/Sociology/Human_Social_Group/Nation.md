@@ -271,7 +271,7 @@ dv_has_:
 
 # [[Nation]] 
 
-#is_/same_as :: [[WD~Nation,6266]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nation,6266]] 
 
 ## #has_/text_of_/abstract 
 

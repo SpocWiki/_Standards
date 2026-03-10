@@ -104,7 +104,7 @@ dv_has_:
     stopped: -237.0e6
 dv_is_:
   same_as:
-  - '[[WD~Middle_Triassic,929395]]'
+  - '[[_Standards/WikiData/WD~Middle_Triassic,929395]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic|Epoch-247~Middle_Triassic]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.public|Epoch-247~Middle_Triassic.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.internal|Epoch-247~Middle_Triassic.internal]]'
@@ -116,7 +116,7 @@ dv_has_duration_years: 1.020e+7
 dv_has_previous_item: '[[Epoch-252~Early_Triassic]]'
 dv_has_next_item: '[[Epoch-237~Late_Triassic]]'
 dv_is_same_as:
-- '[[WD~Middle_Triassic,929395]]'
+- '[[_Standards/WikiData/WD~Middle_Triassic,929395]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic|Epoch-247~Middle_Triassic]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.public|Epoch-247~Middle_Triassic.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.internal|Epoch-247~Middle_Triassic.internal]]'
@@ -158,7 +158,7 @@ dv_has_text_of_color: 0xB168B1
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Middle_Triassic,929395]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Middle_Triassic,929395]] 
 
 A time period from 247.2 to 237 million years ago. 
 

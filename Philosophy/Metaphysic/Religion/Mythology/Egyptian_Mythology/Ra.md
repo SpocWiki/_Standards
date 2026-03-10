@@ -196,7 +196,7 @@ dv_has_:
 
 # [[Ra]] 
 
-#is_/same_as :: [[WD~Ra,1252904]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ra,1252904]] 
 
 ## #has_/text_of_/abstract 
 

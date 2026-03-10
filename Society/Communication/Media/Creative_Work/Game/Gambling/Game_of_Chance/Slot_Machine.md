@@ -126,7 +126,7 @@ Unicode_character: 🎰
 
 # [[Slot_Machine]] 🎰 
 
-#is_/same_as :: [[WD~Slot_machine,33972]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Slot_machine,33972]] 
 
 ## #has_/text_of_/abstract 
 

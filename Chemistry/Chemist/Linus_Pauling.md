@@ -340,7 +340,7 @@ dv_has_:
 
 # [[Linus_Pauling]] 
 
-#is_/same_as :: [[WD~Linus_Pauling,48983]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Linus_Pauling,48983]] 
 
 ## #has_/text_of_/abstract 
 

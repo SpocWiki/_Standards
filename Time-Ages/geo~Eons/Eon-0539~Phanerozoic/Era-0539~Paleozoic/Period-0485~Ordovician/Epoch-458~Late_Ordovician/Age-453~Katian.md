@@ -77,7 +77,7 @@ dv_has_:
     stopped: -445.2e6
 dv_is_:
   same_as:
-  - '[[WD~Katian,1736601]]'
+  - '[[_Standards/WikiData/WD~Katian,1736601]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian|Age-453~Katian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.public|Age-453~Katian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.internal|Age-453~Katian.internal]]'
@@ -89,7 +89,7 @@ dv_has_duration_years: 7.800e+6
 dv_has_previous_item: '[[Age-458~Sandbian]]'
 dv_has_next_item: '[[Age-445~Hirnantian]]'
 dv_is_same_as:
-- '[[WD~Katian,1736601]]'
+- '[[_Standards/WikiData/WD~Katian,1736601]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian|Age-453~Katian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.public|Age-453~Katian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.internal|Age-453~Katian.internal]]'
@@ -131,7 +131,7 @@ dv_has_text_of_color: 0x99D69F
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Katian,1736601]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Katian,1736601]] 
 
 A time period from 453.0 to 445.2 million years ago. 
 

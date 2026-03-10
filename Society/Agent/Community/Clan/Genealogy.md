@@ -232,7 +232,7 @@ dv_has_:
 
 # [[Genealogy]] 
 
-#is_/same_as :: [[WD~Genealogy,47307]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Genealogy,47307]] 
 
 ## #has_/text_of_/abstract 
 

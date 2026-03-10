@@ -83,7 +83,7 @@ Libris_URI: 64jllgkq2s3xp18
 
 # [[Csikszentmihalyi,Mihaly]] 
 
-#is_/same_as :: [[WD~Mihaly Csikszentmihalyi,316147]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mihaly Csikszentmihalyi,316147]] 
 
 ## #has_/text_of_/abstract 
 

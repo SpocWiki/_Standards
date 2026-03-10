@@ -170,7 +170,7 @@ dv_has_:
 
 # [[Martial_Law]] 
 
-#is_/same_as :: [[WD~Martial_law,715625]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Martial_law,715625]] 
 
 ## #has_/text_of_/abstract 
 

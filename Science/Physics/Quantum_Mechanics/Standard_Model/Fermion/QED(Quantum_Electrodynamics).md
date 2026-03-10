@@ -166,7 +166,7 @@ dv_has_:
 
 # [[QED(Quantum_Electrodynamics)]] 
 
-#is_/same_as :: [[WD~Quantum_electrodynamics,234881]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Quantum_electrodynamics,234881]] 
 
 ## #has_/text_of_/abstract 
 

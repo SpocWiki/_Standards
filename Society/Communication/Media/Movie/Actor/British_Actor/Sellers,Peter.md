@@ -231,7 +231,7 @@ dv_has_:
 
 # [[Sellers,Peter]] 
 
-#is_/same_as :: [[WD~Peter_Sellers,177984]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peter_Sellers,177984]] 
 
 ## #has_/text_of_/abstract 
 

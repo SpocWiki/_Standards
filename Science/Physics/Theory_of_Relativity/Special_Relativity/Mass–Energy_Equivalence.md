@@ -198,7 +198,7 @@ dv_has_:
 
 # [[Mass–Energy_Equivalence]] 
 
-#is_/same_as :: [[WD~Mass–energy_equivalence,35875]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mass–energy_equivalence,35875]] 
 
 ## #has_/text_of_/abstract 
 

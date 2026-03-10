@@ -278,7 +278,7 @@ dv_has_:
 
 # [[Escher,M.C.]] 
 
-#is_/same_as :: [[WD~M._C._Escher,1470]] 
+#is_/same_as :: [[_Standards/WikiData/WD~M._C._Escher,1470]] 
 
 ## #has_/text_of_/abstract 
 

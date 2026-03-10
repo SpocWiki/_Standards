@@ -93,7 +93,7 @@ dv_has_:
     stopped: -372.2e6
 dv_is_:
   same_as:
-  - '[[WD~Frasnian,264200]]'
+  - '[[_Standards/WikiData/WD~Frasnian,264200]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.public|Age~1~Frasnian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.internal|Age~1~Frasnian.internal]]'
@@ -105,7 +105,7 @@ dv_has_duration_years: 1.050e+7
 dv_has_previous_item: '[[../Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]'
 dv_has_next_item: '[[Age~2~Famennian]]'
 dv_is_same_as:
-- '[[WD~Frasnian,264200]]'
+- '[[_Standards/WikiData/WD~Frasnian,264200]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.public|Age~1~Frasnian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.internal|Age~1~Frasnian.internal]]'
@@ -147,7 +147,7 @@ dv_has_text_of_color: 0xF2EDAD
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Frasnian,264200]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Frasnian,264200]] 
 
 
 A time period from 382.7 to 372.2 million years ago. 

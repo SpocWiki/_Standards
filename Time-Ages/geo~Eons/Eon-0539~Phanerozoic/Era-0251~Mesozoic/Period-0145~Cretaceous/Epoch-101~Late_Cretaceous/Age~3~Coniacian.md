@@ -103,7 +103,7 @@ dv_has_:
     stopped: -86.3e6
 dv_is_:
   same_as:
-  - '[[WD~Coniacian,645398]]'
+  - '[[_Standards/WikiData/WD~Coniacian,645398]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian|Age~3~Coniacian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.public|Age~3~Coniacian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.internal|Age~3~Coniacian.internal]]'
@@ -115,7 +115,7 @@ dv_has_duration_years: 3.500e+6
 dv_has_previous_item: '[[Age~2~Turonian]]'
 dv_has_next_item: '[[Age~4~Santonian]]'
 dv_is_same_as:
-- '[[WD~Coniacian,645398]]'
+- '[[_Standards/WikiData/WD~Coniacian,645398]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian|Age~3~Coniacian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.public|Age~3~Coniacian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.internal|Age~3~Coniacian.internal]]'
@@ -159,7 +159,7 @@ A time period from 89.8 to 86.3 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Coniacian,645398]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Coniacian,645398]] 
 
 ## #has_/text_of_/abstract 
 

@@ -192,7 +192,7 @@ dv_has_:
     zh_tw: 異戊二烯
 dv_is_:
   same_as:
-  - '[[WD~Isoprene,271943]]'
+  - '[[_Standards/WikiData/WD~Isoprene,271943]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene|Isoprene]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.public|Isoprene.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.internal|Isoprene.internal]]'
@@ -202,7 +202,7 @@ dv_is_:
   - '[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.secret|Isoprene.secret]]'
 dv_has_formula_: CH2=C(CH3)-CH=CH2
 dv_is_same_as:
-- '[[WD~Isoprene,271943]]'
+- '[[_Standards/WikiData/WD~Isoprene,271943]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene|Isoprene]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.public|Isoprene.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.internal|Isoprene.internal]]'
@@ -216,7 +216,7 @@ dv_has_created: '[[../../../Material/Rubber|Rubber]]'
 # [[Isoprene]] 
 
 has_formula_ = `=this.dv_has_formula_` 
-#is_/same_as :: [[WD~Isoprene,271943]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Isoprene,271943]] 
 has_created = `=this.dv_has_created` 
 
 ## #has_/formula_/structural 

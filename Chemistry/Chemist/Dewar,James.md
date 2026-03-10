@@ -169,7 +169,7 @@ dv_has_:
 
 # [[Dewar,James]] 
 
-#is_/same_as :: [[WD~James_Dewar,277579]] 
+#is_/same_as :: [[_Standards/WikiData/WD~James_Dewar,277579]] 
 
 ## #has_/text_of_/abstract 
 

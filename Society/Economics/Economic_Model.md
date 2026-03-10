@@ -117,7 +117,7 @@ dv_has_:
 
 # [[Economic_Model]] 
 
-#is_/same_as :: [[WD~Economic_model,2180497]]
+#is_/same_as :: [[_Standards/WikiData/WD~Economic_model,2180497]]
 
 ## #has_/text_of_/abstract 
 

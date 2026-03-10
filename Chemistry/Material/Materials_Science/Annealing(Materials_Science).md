@@ -56,7 +56,7 @@ Commons_category: Annealing
 dv_is_:
   opposite_of: '[[Quenching]]'
   same_as:
-  - '[[WD~Annealing,187360]]'
+  - '[[_Standards/WikiData/WD~Annealing,187360]]'
   - '[[/_Standards/Chemistry/Material/Materials_Science/Annealing(Materials_Science)|Annealing(Materials_Science)]]'
   - '[[/_public/Chemistry/Material/Materials_Science/Annealing(Materials_Science).public|Annealing(Materials_Science).public]]'
   - '[[/_internal/Chemistry/Material/Materials_Science/Annealing(Materials_Science).internal|Annealing(Materials_Science).internal]]'
@@ -66,7 +66,7 @@ dv_is_:
   - '[[/_secret/Chemistry/Material/Materials_Science/Annealing(Materials_Science).secret|Annealing(Materials_Science).secret]]'
 dv_is_opposite_of: '[[Quenching]]'
 dv_is_same_as:
-- '[[WD~Annealing,187360]]'
+- '[[_Standards/WikiData/WD~Annealing,187360]]'
 - '[[/_Standards/Chemistry/Material/Materials_Science/Annealing(Materials_Science)|Annealing(Materials_Science)]]'
 - '[[/_public/Chemistry/Material/Materials_Science/Annealing(Materials_Science).public|Annealing(Materials_Science).public]]'
 - '[[/_internal/Chemistry/Material/Materials_Science/Annealing(Materials_Science).internal|Annealing(Materials_Science).internal]]'
@@ -128,7 +128,7 @@ dv_has_:
 # [[Annealing(Materials_Science)]] 
 
 is_opposite_of = `=this.dv_is_opposite_of` 
-#is_/same_as :: [[WD~Annealing,187360]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Annealing,187360]] 
 
 ## #has_/text_of_/abstract 
 

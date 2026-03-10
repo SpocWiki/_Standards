@@ -140,7 +140,7 @@ dv_has_:
 
 # [[Internationalization_and_Localization]] 
 
-#is_/same_as :: [[WD~Internationalization_and_localization,41271]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Internationalization_and_localization,41271]] 
 
 ## #has_/text_of_/abstract 
 

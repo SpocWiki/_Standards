@@ -321,7 +321,7 @@ dv_has_:
 
 # [[Province]] 
 
-#is_/same_as :: [[WD~Province,34876]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Province,34876]] 
 
 ## #has_/text_of_/abstract 
 

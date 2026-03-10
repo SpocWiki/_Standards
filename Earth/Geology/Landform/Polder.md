@@ -157,7 +157,7 @@ dv_has_:
 
 # [[Polder]] 
 
-#is_/same_as :: [[WD~Polder,106259]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polder,106259]] 
 
 ## #has_/text_of_/abstract 
 

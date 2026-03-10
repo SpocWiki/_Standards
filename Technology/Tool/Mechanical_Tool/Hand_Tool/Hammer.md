@@ -322,7 +322,7 @@ Unicode_character: 🔨
 
 
 
-#is_/same_as :: [[WD~Hammer,25294]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hammer,25294]] 
 ## #has_/text_of_/abstract 
 
 > A  **Hammer** is a tool, most often a hand tool, consisting of a weighted "head" 

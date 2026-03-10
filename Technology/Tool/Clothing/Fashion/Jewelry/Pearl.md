@@ -235,7 +235,7 @@ dv_has_:
 
 # [[Pearl]] 
 
-#is_/same_as :: [[WD~Pearl,43436]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pearl,43436]] 
 
 ## #has_/text_of_/abstract 
 

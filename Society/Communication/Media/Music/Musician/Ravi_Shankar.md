@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Ravi_Shankar]] 
 
-#is_/same_as :: [[WD~Ravi_Shankar,103774]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ravi_Shankar,103774]] 
 
 ## #has_/text_of_/abstract 
 

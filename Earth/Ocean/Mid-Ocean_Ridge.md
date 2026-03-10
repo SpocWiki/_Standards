@@ -186,7 +186,7 @@ dv_has_:
 
 # [[Mid-Ocean_Ridge]] 
 
-#is_/same_as :: [[WD~Mid-ocean_ridge,104698]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mid-ocean_ridge,104698]] 
 
 ## #has_/text_of_/abstract 
 

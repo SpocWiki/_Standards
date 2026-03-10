@@ -267,7 +267,7 @@ dv_has_:
 
 # [[Dim~Pressure]] 
 
-#is_/same_as :: [[WD~Pressure,39552]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pressure,39552]] 
 
 ## #has_/text_of_/abstract 
 

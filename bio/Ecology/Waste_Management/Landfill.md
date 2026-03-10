@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Landfill]] 
 
-#is_/same_as :: [[WD~Landfill,152810]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Landfill,152810]] 
 
 ## #has_/text_of_/abstract 
 

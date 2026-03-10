@@ -197,7 +197,7 @@ dv_has_:
 
 # [[Upanishads]] 
 
-#is_/same_as :: [[WD~Upanishads,6113985]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Upanishads,6113985]] 
 
 ## #has_/text_of_/abstract 
 

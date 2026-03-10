@@ -98,7 +98,7 @@ dv_has_:
 
 # [[Principal_Quantum_Number]] 
 
-#is_/same_as :: [[WD~Principal_quantum_number,867448]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Principal_quantum_number,867448]] 
 
 ## #has_/text_of_/abstract 
 

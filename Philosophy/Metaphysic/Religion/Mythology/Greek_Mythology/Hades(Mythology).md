@@ -201,7 +201,7 @@ dv_has_:
 
 # [[Hades(Mythology)]] 
 
-#is_/same_as :: [[WD~Hades,41410]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hades,41410]] 
 
 ## #has_/text_of_/abstract 
 

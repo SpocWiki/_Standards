@@ -188,7 +188,7 @@ dv_has_:
 
 # [[Osiris]] 
 
-#is_/same_as :: [[WD~Osiris,46491]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Osiris,46491]] 
 
 ## #has_/text_of_/abstract 
 

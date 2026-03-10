@@ -193,7 +193,7 @@ dv_has_:
 
 # [[Messiah]] 
 
-#is_/same_as :: [[WD~Messiah,51626]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Messiah,51626]] 
 
 ## #has_/text_of_/abstract 
 

@@ -125,7 +125,7 @@ dv_has_:
 
 # [[Manifesto]] 
 
-#is_/same_as :: [[WD~Manifesto,46337]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Manifesto,46337]] 
 #is_/similar_to :: [[Creed]]
 #is_/similar_to :: [[Confession]]
 

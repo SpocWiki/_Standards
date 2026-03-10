@@ -353,7 +353,7 @@ dv_has_:
 
 # [[Magritte,René]] 
 
-#is_/same_as :: [[WD~René_Magritte,7836]] 
+#is_/same_as :: [[_Standards/WikiData/WD~René_Magritte,7836]] 
 
 ## #has_/text_of_/abstract 
 

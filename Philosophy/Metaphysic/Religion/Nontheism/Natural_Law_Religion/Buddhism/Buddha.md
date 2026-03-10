@@ -462,7 +462,7 @@ dv_has_:
 
 # [[Buddha]] 
 
-#is_/same_as :: [[WD~The_Buddha,9441]] 
+#is_/same_as :: [[_Standards/WikiData/WD~The_Buddha,9441]] 
 
 ## #has_/text_of_/abstract 
 

@@ -114,7 +114,7 @@ dv_has_:
 
 # [[Petanque]] 
 
-#is_/same_as :: [[WD~Petanque,189317]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Petanque,189317]] 
 
 ## #has_/text_of_/abstract 
 

@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Hagfish]] 
 
-#is_/same_as :: [[WD~Hagfish,75713]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hagfish,75713]] 
 
 ## #has_/text_of_/abstract 
 

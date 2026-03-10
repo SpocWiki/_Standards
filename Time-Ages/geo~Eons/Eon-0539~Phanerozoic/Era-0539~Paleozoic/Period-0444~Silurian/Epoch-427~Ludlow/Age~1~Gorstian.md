@@ -77,7 +77,7 @@ dv_has_:
     stopped: -425.6e6
 dv_is_:
   same_as:
-  - '[[WD~Gorstian,752878]]'
+  - '[[_Standards/WikiData/WD~Gorstian,752878]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.public|Age~1~Gorstian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.internal|Age~1~Gorstian.internal]]'
@@ -90,7 +90,7 @@ dv_has_duration_years: 1.800e+6
 dv_has_previous_item: '[[../Epoch-433~Wenlock/Age~2~Homerian|Age~2~Homerian]]'
 dv_has_next_item: '[[Age~2~Ludfordian]]'
 dv_is_same_as:
-- '[[WD~Gorstian,752878]]'
+- '[[_Standards/WikiData/WD~Gorstian,752878]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.public|Age~1~Gorstian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.internal|Age~1~Gorstian.internal]]'
@@ -132,7 +132,7 @@ dv_has_text_of_color: 0xCCECDD
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Gorstian,752878]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gorstian,752878]] 
 
 A time period from 427.4 to 425.6 million years ago. 
 

@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Nuclear_Chemistry]] 
 
-#is_/same_as :: [[WD~Nuclear_chemistry,243545]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nuclear_chemistry,243545]] 
 
 ## #has_/text_of_/abstract 
 

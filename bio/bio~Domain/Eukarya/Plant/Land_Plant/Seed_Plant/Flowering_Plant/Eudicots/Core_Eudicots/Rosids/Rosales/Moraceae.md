@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Moraceae]] 
 
-#is_/same_as :: [[WD~Moraceae,156579]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Moraceae,156579]] 
 
 ## #has_/text_of_/abstract 
 

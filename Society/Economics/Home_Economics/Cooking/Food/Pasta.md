@@ -230,7 +230,7 @@ dv_has_:
 
 # [[Pasta]] 
 
-#is_/same_as :: [[WD~Pasta,178]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pasta,178]] 
 
 ## #has_/text_of_/abstract 
 

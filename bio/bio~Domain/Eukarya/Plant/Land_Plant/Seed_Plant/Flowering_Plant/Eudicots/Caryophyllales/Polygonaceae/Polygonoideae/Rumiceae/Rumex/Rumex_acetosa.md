@@ -260,7 +260,7 @@ dv_has_:
 
 # [[Rumex_acetosa]] 
 
-#is_/same_as :: [[WD~Rumex_acetosa,26297]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rumex_acetosa,26297]] 
 
 ## #has_/text_of_/abstract 
 

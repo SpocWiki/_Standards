@@ -150,7 +150,7 @@ dv_has_:
 # [[Communication_Channel]] 
 
 #is_/similar_to :: [[Media|Media]] 
-#is_/same_as :: [[WD~Channel,733553]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Channel,733553]] 
 
 ## #has_/text_of_/abstract 
 

@@ -180,7 +180,7 @@ dv_has_:
 
 # [[Savanna]] 
 
-#is_/same_as :: [[WD~Savanna,42320]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Savanna,42320]] 
 
 ## #has_/text_of_/abstract 
 

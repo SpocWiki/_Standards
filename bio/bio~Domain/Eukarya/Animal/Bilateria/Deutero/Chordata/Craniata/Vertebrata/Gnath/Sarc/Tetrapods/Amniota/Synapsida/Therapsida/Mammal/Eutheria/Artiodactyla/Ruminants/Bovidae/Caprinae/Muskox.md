@@ -236,7 +236,7 @@ dv_has_:
 
 # [[Muskox]] 
 
-#is_/same_as :: [[WD~Ovibos_moschatus,184004]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ovibos_moschatus,184004]] 
 
 ## #has_/text_of_/abstract 
 

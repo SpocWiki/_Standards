@@ -151,7 +151,7 @@ dv_has_:
 
 # [[Prog~Paradigm]] 
 
-#is_/same_as :: [[WD~Programming_paradigm,188267]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Programming_paradigm,188267]] 
 
 ## #has_/text_of_/abstract 
 

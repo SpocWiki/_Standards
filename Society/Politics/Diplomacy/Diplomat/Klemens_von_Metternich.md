@@ -258,7 +258,7 @@ dv_has_:
 
 # [[Klemens_von_Metternich]] 
 
-#is_/same_as :: [[WD~Klemens_von_Metternich,45662]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Klemens_von_Metternich,45662]] 
 #is_a :: [[../Diplomat|Diplomat]] 
 ## #has_/text_of_/abstract 
 

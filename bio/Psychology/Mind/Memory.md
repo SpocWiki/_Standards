@@ -297,7 +297,7 @@ dv_has_:
 
 # [[Memory]] 
 
-#is_/same_as :: [[WD~Memory,492]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Memory,492]] 
 
 ## #has_/text_of_/abstract 
 

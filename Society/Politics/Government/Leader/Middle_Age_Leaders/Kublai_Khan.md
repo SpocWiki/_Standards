@@ -269,7 +269,7 @@ dv_has_:
 
 # [[Kublai_Khan]] 
 
-#is_/same_as :: [[WD~Kublai_Khan,7523]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kublai_Khan,7523]] 
 
 ## #has_/text_of_/abstract 
 

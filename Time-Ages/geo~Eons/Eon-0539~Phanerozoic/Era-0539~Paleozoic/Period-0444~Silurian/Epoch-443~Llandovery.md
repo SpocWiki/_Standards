@@ -88,7 +88,7 @@ dv_has_:
     stopped: -433.4e6
 dv_is_:
   same_as:
-  - '[[WD~Llandovery,1187992]]'
+  - '[[_Standards/WikiData/WD~Llandovery,1187992]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery|Epoch-443~Llandovery]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.public|Epoch-443~Llandovery.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.internal|Epoch-443~Llandovery.internal]]'
@@ -100,7 +100,7 @@ dv_has_duration_years: 1.040e+7
 dv_has_previous_item: '[[../Period-0485~Ordovician/Epoch-458~Late_Ordovician|Epoch~3~Late_Ordovician]]'
 dv_has_next_item: '[[Epoch-433~Wenlock]]'
 dv_is_same_as:
-- '[[WD~Llandovery,1187992]]'
+- '[[_Standards/WikiData/WD~Llandovery,1187992]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery|Epoch-443~Llandovery]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.public|Epoch-443~Llandovery.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.internal|Epoch-443~Llandovery.internal]]'
@@ -142,7 +142,7 @@ dv_has_text_of_color: 0x99D7B3
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Llandovery,1187992]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Llandovery,1187992]] 
 
 A time period from 443.8 to 433.4 million years ago. 
 

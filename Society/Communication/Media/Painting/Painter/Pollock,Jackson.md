@@ -259,7 +259,7 @@ dv_has_:
 
 # [[Pollock,Jackson]] 
 
-#is_/same_as :: [[WD~Jackson_Pollock,37571]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jackson_Pollock,37571]] 
 
 ## #has_/text_of_/abstract 
 

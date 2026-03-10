@@ -307,7 +307,7 @@ dv_has_:
 
 # [[JWST(James_Webb_Space_Telescope)]] 
 
-#is_/same_as :: [[WD~James_Webb_Space_Telescope,186447]] 
+#is_/same_as :: [[_Standards/WikiData/WD~James_Webb_Space_Telescope,186447]] 
 
 ## #has_/text_of_/abstract 
 

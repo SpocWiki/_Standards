@@ -203,7 +203,7 @@ dv_has_:
 
 # [[Numismatics]] 
 
-#is_/same_as :: [[WD~Numismatics,631286]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Numismatics,631286]] 
 
 ## #has_/text_of_/abstract 
 

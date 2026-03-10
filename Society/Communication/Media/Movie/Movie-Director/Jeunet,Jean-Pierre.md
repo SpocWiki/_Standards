@@ -143,7 +143,7 @@ dv_has_:
 
 # [[Jeunet,Jean-Pierre]] 
 
-#is_/same_as :: [[WD~Jean-Pierre_Jeunet,217324]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jean-Pierre_Jeunet,217324]] 
 
 ## #has_/text_of_/abstract 
 

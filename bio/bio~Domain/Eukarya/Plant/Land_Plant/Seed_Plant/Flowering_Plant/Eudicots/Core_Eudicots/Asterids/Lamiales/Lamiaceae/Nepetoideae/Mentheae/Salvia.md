@@ -249,7 +249,7 @@ dv_has_:
 
 # [[Salvia]] 
 
-#is_/same_as :: [[WD~Salvia,157151]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Salvia,157151]] 
 
 ## #has_/text_of_/abstract 
 

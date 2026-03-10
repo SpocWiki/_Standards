@@ -102,7 +102,7 @@ dv_has_:
 
 # [[Length_Contraction]] 
 
-#is_/same_as :: [[WD~Length_contraction,836595]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Length_contraction,836595]] 
 
 ## #has_/text_of_/abstract 
 

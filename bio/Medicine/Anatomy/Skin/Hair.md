@@ -392,7 +392,7 @@ dv_has_:
 
 # [[Hair]] 
 
-#is_/same_as :: [[WD~Hair,28472]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hair,28472]] 
 
 ## #has_/text_of_/abstract 
 

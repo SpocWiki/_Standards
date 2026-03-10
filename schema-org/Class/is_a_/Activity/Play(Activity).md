@@ -183,7 +183,7 @@ dv_has_:
 
 # [[Play(Activity)]] 
 
-#is_/same_as :: [[WD~Play,1150958]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Play,1150958]] 
 
 ## #has_/text_of_/abstract 
 

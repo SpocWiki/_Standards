@@ -245,7 +245,7 @@ dv_has_:
 
 # [[Physical_Quantity]] 
 
-#is_/same_as :: [[WD~Physical_quantity,107715]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Physical_quantity,107715]] 
 
 ## #has_/text_of_/abstract 
 

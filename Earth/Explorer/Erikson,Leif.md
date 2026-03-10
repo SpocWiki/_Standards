@@ -220,7 +220,7 @@ dv_has_:
 
 # [[Erikson,Leif]] 
 
-#is_/same_as :: [[WD~Leif_Erikson,42838]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leif_Erikson,42838]] 
 ## #has_/text_of_/abstract 
 
 > Leif Erikson, also known as Leif the Lucky (c. 970s – c. 1018 to 1025), 

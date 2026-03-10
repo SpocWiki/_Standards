@@ -218,7 +218,7 @@ dv_has_:
 
 # [[Hamilton,William_Rowan]] 
 
-#is_/same_as :: [[WD~William_Rowan_Hamilton,11887]] 
+#is_/same_as :: [[_Standards/WikiData/WD~William_Rowan_Hamilton,11887]] 
 #has_/created :: [[Quaternion]] 
 
 ## #has_/text_of_/abstract 

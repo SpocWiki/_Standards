@@ -186,7 +186,7 @@ dv_has_:
 
 # [[National_Olympic_Committee]] 
 
-#is_/same_as :: [[WD~National_Olympic_Committee,183288]] 
+#is_/same_as :: [[_Standards/WikiData/WD~National_Olympic_Committee,183288]] 
 
 ## #has_/text_of_/abstract 
 

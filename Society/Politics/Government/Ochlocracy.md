@@ -131,7 +131,7 @@ dv_has_:
 
 # [[Ochlocracy]] 
 
-#is_/same_as :: [[WD~Ochlocracy,191031]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ochlocracy,191031]] 
 
 ## #has_/text_of_/abstract 
 

@@ -109,7 +109,7 @@ dv_has_:
 
 # [[Hue]] 
 
-#is_/same_as :: [[WD~Hue,372948]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hue,372948]] 
 
 ## #has_/text_of_/abstract 
 

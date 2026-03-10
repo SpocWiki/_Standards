@@ -180,7 +180,7 @@ dv_has_:
 
 # [[1066-Norman_Conquest_of_England]] 
 
-#is_/same_as :: [[WD~Norman_conquest_of_England,200485]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Norman_conquest_of_England,200485]] 
 
 ## #has_/text_of_/abstract 
 

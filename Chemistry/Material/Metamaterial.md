@@ -101,7 +101,7 @@ dv_has_:
 
 # [[Metamaterial]] 
 
-#is_/same_as :: [[WD~Metamaterial,497166]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Metamaterial,497166]] 
 
 ## #has_/text_of_/abstract 
 

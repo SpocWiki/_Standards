@@ -167,7 +167,7 @@ dv_is_same_as:
 # [[1998-Second_Congo_War+2003]] 
 
 has_previous_ = `=this.dv_has_previous_` 
-#is_/same_as :: [[WD~Second_Congo_War,75756]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Second_Congo_War,75756]] 
 
 ## #has_/text_of_/abstract 
 

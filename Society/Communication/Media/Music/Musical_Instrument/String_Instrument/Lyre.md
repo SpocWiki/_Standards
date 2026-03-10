@@ -137,7 +137,7 @@ dv_has_:
 
 # [[Lyre]] 
 
-#is_/same_as :: [[WD~Lyre,201129]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lyre,201129]] 
 
 ## #has_/text_of_/abstract 
 

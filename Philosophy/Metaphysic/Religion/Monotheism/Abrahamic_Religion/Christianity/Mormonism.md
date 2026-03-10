@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Mormonism]] 
 
-#is_/same_as :: [[WD~Mormonism,747802]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mormonism,747802]] 
 
 ## #has_/text_of_/abstract 
 

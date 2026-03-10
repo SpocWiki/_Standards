@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Hope]] 
 
-#is_/same_as :: [[WD~Hope,190507]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hope,190507]] 
 
 ## #has_/text_of_/abstract 
 

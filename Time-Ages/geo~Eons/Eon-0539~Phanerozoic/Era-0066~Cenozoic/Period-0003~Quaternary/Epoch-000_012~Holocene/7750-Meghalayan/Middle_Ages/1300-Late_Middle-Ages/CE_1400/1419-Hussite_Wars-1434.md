@@ -159,7 +159,7 @@ dv_has_:
 
 # [[1419-Hussite_Wars-1434]] 
 
-#is_/same_as :: [[WD~Hussite_Wars,478301]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hussite_Wars,478301]] 
 
 ## #has_/text_of_/abstract 
 

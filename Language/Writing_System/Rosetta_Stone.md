@@ -251,7 +251,7 @@ dv_has_:
 
 # [[Rosetta_Stone]] 
 
-#is_/same_as :: [[WD~Rosetta_Stone,48584]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rosetta_Stone,48584]] 
 
 ## #has_/text_of_/abstract 
 

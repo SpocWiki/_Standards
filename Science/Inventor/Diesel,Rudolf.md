@@ -249,7 +249,7 @@ dv_has_:
 
 # [[Diesel,Rudolf]] 
 
-#is_/same_as :: [[WD~Rudolf_Diesel,12674]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rudolf_Diesel,12674]] 
 
 ## #has_/text_of_/abstract 
 

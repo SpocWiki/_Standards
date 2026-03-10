@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Hot_Chocolate]] 
 
-#is_/same_as :: [[WD~Hot_chocolate,13261]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hot_chocolate,13261]] 
 
 ## #has_/text_of_/abstract 
 

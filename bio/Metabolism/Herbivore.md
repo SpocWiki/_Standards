@@ -211,7 +211,7 @@ dv_has_:
 
 # [[Herbivore]] 
 
-#is_/same_as :: [[WD~Herbivore,59099]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Herbivore,59099]] 
 
 ## #has_/text_of_/abstract 
 

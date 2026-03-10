@@ -400,7 +400,7 @@ dv_has_:
 
 # [[Hermann_von_Helmholtz]] 
 
-#is_/same_as :: [[WD~Hermann_von_Helmholtz,60024]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hermann_von_Helmholtz,60024]] 
 
 ## #has_/text_of_/abstract 
 

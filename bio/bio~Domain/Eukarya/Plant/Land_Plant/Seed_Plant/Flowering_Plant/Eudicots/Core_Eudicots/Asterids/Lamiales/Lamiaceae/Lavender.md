@@ -201,7 +201,7 @@ dv_has_:
 
 # [[Lavender]] 
 
-#is_/same_as :: [[WD~Lavandula,171892]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lavandula,171892]] 
 
 ## #has_/text_of_/abstract 
 

@@ -450,7 +450,7 @@ dv_has_:
 
 # [[Pasteur,Louis]] 
 
-#is_/same_as :: [[WD~Louis_Pasteur,529]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Louis_Pasteur,529]] 
 
 ## #has_/text_of_/abstract 
 

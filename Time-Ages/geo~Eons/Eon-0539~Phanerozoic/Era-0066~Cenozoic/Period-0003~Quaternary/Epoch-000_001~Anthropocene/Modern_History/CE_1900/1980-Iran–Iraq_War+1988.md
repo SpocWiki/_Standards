@@ -251,7 +251,7 @@ dv_has_:
 
 # [[1980-Iran–Iraq_War+1988]] 
 
-#is_/same_as :: [[WD~Iran–Iraq_War,82664]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Iran–Iraq_War,82664]] 
 
 ## #has_/text_of_/abstract 
 

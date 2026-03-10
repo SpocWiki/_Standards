@@ -89,7 +89,7 @@ dv_has_:
 
 # [[Overton_Window]] 
 
-#is_/same_as :: [[WD~Overton_Window,542950]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Overton_Window,542950]] 
 
 ## #has_/text_of_/abstract 
 

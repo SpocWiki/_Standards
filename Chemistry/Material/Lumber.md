@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Lumber]] 
 
-#is_/same_as :: [[WD~Lumber,1370714]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lumber,1370714]] 
 
 ## #has_/text_of_/abstract 
 

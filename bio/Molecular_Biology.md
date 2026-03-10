@@ -218,7 +218,7 @@ dv_has_:
 
 # [[Molecular_Biology]] 
 
-#is_/same_as :: [[WD~Molecular_biology,7202]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Molecular_biology,7202]] 
 
 ## #has_/text_of_/abstract 
 

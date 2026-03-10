@@ -200,7 +200,7 @@ dv_has_:
 
 # [[J._P._Morgan]] 
 
-#is_/same_as :: [[WD~J._P._Morgan,54168]] 
+#is_/same_as :: [[_Standards/WikiData/WD~J._P._Morgan,54168]] 
 
 ## #has_/text_of_/abstract 
 

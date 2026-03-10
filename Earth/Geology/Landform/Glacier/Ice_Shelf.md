@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Ice_Shelf]] 
 
-#is_/same_as :: [[WD~Ice_shelf,46966]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ice_shelf,46966]] 
 
 ## #has_/text_of_/abstract 
 

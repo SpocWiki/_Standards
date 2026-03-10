@@ -243,7 +243,7 @@ dv_has_:
 
 # [[Bourdieu,Pierre]] 
 
-#is_/same_as :: [[WD~Pierre_Bourdieu,156268]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pierre_Bourdieu,156268]] 
 
 ## #has_/text_of_/abstract 
 

@@ -147,7 +147,7 @@ dv_has_:
 
 # [[Melanin]] 
 
-#is_/same_as :: [[WD~Melanin,187526]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Melanin,187526]] 
 
 ## #has_/text_of_/abstract 
 

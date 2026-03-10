@@ -155,7 +155,7 @@ dv_has_:
 # [[Realism]] 
 
 #is_/similar_to :: [[Naturalism(Art)]] 
-#is_/same_as :: [[WD~Realism,10857409]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Realism,10857409]] 
 
 ## #has_/text_of_/abstract 
 

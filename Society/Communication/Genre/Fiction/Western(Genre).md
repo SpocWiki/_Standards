@@ -23,7 +23,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Western%28
 
 # [[Western(Genre)]] 
 
-#is_/same_as :: [[WD~Western_(Genre),21590660]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Western_(Genre),21590660]]  
 
 ## #has_/text_of_/abstract 
 

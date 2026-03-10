@@ -243,7 +243,7 @@ dv_has_:
 
 # [[Hepatitis]] 
 
-#is_/same_as :: [[WD~Hepatitis,131742]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hepatitis,131742]] 
 
 ## #has_/text_of_/abstract 
 

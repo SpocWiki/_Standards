@@ -137,7 +137,7 @@ dv_has_:
 
 # [[Plant_Breeding]] 
 
-#is_/same_as :: [[WD~Plant_breeding,788558]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plant_breeding,788558]] 
 
 ## #has_/text_of_/abstract 
 

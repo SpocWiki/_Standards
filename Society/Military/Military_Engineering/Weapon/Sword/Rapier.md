@@ -99,7 +99,7 @@ dv_has_:
 
 # [[Rapier]] 
 
-#is_/same_as :: [[WD~Rapier,816745]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rapier,816745]] 
 
 ## #has_/text_of_/abstract 
 

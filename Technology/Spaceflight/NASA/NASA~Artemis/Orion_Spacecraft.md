@@ -123,7 +123,7 @@ dv_has_:
 
 # [[Orion_Spacecraft]] 
 
-#is_/same_as :: [[WD~Orion_Spacecraft,211727]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orion_Spacecraft,211727]] 
 
 ## #has_/text_of_/abstract 
 

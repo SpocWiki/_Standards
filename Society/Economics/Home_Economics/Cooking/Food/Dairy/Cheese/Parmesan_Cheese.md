@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Parmesan_Cheese]] 
 
-#is_/same_as :: [[WD~Parmesan_cheese,155922]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parmesan_cheese,155922]] 
 
 ## #has_/text_of_/abstract 
 

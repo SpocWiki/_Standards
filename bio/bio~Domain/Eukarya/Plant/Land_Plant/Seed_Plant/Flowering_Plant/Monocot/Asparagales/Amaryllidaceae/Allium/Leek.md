@@ -246,7 +246,7 @@ dv_has_:
 
 # [[Leek]] 
 
-#is_/same_as :: [[WD~Leek,1807269]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leek,1807269]] 
 
 ## #has_/text_of_/abstract 
 

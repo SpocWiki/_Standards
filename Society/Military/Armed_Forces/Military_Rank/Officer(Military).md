@@ -317,7 +317,7 @@ dv_has_:
 
 # [[Officer(Military)]] 
 
-#is_/same_as :: [[WD~Military_officer,189290]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_officer,189290]] 
 
 ## #has_/text_of_/abstract 
 

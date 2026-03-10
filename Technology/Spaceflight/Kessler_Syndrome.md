@@ -73,7 +73,7 @@ dv_has_:
 
 # [[Kessler_Syndrome]] 
 
-#is_/same_as :: [[WD~Kessler_Syndrome,693564]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kessler_Syndrome,693564]] 
 
 ## #has_/text_of_/abstract 
 

@@ -209,7 +209,7 @@ dv_has_:
 
 # [[Hemoglobin]] 
 
-#is_/same_as :: [[WD~Hemoglobin,43041]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hemoglobin,43041]] 
 
 ## #has_/text_of_/abstract 
 

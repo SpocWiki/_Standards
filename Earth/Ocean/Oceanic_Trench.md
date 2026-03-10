@@ -178,7 +178,7 @@ dv_has_:
 
 # [[Oceanic_Trench]] 
 
-#is_/same_as :: [[WD~Oceanic_trench,119253]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oceanic_trench,119253]] 
 
 ## #has_/text_of_/abstract 
 

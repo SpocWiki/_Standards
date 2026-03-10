@@ -122,7 +122,7 @@ aliases:
 
 # [[PH]]
 
-#is_/same_as :: [[WD~PH,40936]] 
+#is_/same_as :: [[_Standards/WikiData/WD~PH,40936]] 
 
 ## #has_/text_of_/abstract 
 

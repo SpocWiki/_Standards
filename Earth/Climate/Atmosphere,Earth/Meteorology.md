@@ -327,7 +327,7 @@ dv_has_:
 
 # [[Meteorology]] 
 
-#is_/same_as :: [[WD~Meteorology,25261]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Meteorology,25261]] 
 
 ## #has_/text_of_/abstract 
 

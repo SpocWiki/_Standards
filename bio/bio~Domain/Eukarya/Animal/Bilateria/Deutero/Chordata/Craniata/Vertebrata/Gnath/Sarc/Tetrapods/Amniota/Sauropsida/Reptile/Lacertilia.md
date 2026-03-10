@@ -358,7 +358,7 @@ dv_has_:
 
 # [[Lacertilia]]  
 
-#is_/same_as :: [[WD~Lacertilia,15879]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lacertilia,15879]] 
 
 ## #has_/text_of_/abstract 
 

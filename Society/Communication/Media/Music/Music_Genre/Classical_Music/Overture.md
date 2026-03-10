@@ -126,7 +126,7 @@ dv_has_:
 
 # [[Overture]] 
 
-#is_/same_as :: [[WD~Overture,202287]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Overture,202287]] 
 
 ## #has_/text_of_/abstract 
 

@@ -159,7 +159,7 @@ aliases:
 
 # [[Logistics]] 
 
-#is_/same_as :: [[WD~Logistics,177777]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Logistics,177777]] 
 
 ## #has_/text_of_/abstract 
 

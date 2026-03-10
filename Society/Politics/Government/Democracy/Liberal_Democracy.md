@@ -180,7 +180,7 @@ dv_has_:
 
 # [[Liberal_Democracy]] 
 
-#is_/same_as :: [[WD~Liberal_democracy,192125]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Liberal_democracy,192125]] 
 
 ## #has_/text_of_/abstract 
 

@@ -309,7 +309,7 @@ dv_has_:
 
 # [[Marconi,Guglielmo]] 
 
-#is_/same_as :: [[WD~Guglielmo_Marconi,36488]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Guglielmo_Marconi,36488]] 
 
 ## #has_/text_of_/abstract 
 

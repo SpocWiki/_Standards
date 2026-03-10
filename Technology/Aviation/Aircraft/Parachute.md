@@ -229,7 +229,7 @@ Unicode_character: 🪂
 
 # [[Parachute]] 🪂 
 
-#is_/same_as :: [[WD~Parachute,482816]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parachute,482816]] 
 
 ## #has_/text_of_/abstract 
 

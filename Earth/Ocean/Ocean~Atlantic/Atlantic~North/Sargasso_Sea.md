@@ -215,7 +215,7 @@ dv_has_:
 
 # [[Sargasso_Sea]] 
 
-#is_/same_as :: [[WD~Sargasso_Sea,169274]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sargasso_Sea,169274]] 
 
 ## #has_/text_of_/abstract 
 

@@ -357,7 +357,7 @@ dv_has_:
 
 # [[Ursula_von_der_Leyen]] 
 
-#is_/same_as :: [[WD~Ursula_von_der_Leyen,60772]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ursula_von_der_Leyen,60772]] 
 
 ## #has_/text_of_/abstract 
 

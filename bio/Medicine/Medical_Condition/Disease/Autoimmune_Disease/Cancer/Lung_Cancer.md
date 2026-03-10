@@ -322,7 +322,7 @@ dv_has_:
 
 # [[Lung_Cancer]] 
 
-#is_/same_as :: [[WD~Lung_cancer,47912]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lung_cancer,47912]] 
 
 ## #has_/text_of_/abstract 
 

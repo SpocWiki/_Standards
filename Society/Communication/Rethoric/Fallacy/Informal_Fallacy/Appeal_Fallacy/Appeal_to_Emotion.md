@@ -72,7 +72,7 @@ dv_has_:
 
 # [[Appeal_to_Emotion]] 
 
-#is_/same_as :: [[WD~Appeal_to_Emotion,2914471]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Appeal_to_Emotion,2914471]]  
 
 ## #has_/text_of_/abstract 
 

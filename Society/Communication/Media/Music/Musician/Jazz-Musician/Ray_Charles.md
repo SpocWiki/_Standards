@@ -230,7 +230,7 @@ dv_has_:
 
 # [[Ray_Charles]] 
 
-#is_/same_as :: [[WD~Ray_Charles,544387]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ray_Charles,544387]] 
 
 ## #has_/text_of_/abstract 
 

@@ -148,7 +148,7 @@ dv_has_:
 
 # [[Genetic_Drift]] 
 
-#is_/same_as :: [[WD~Genetic_drift,486420]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Genetic_drift,486420]] 
 
 ## #has_/text_of_/abstract 
 

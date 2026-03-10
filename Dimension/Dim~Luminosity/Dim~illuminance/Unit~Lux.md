@@ -149,7 +149,7 @@ dv_has_:
 
 # [[Unit~Lux]] 
 
-#is_/same_as :: [[WD~Lux,179836]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lux,179836]] 
 
 ## #has_/text_of_/abstract 
 

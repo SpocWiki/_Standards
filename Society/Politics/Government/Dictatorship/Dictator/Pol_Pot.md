@@ -229,7 +229,7 @@ dv_has_:
 
 # [[Pol_Pot]] 
 
-#is_/same_as :: [[WD~Pol_Pot,39464]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pol_Pot,39464]] 
 
 ## #has_/text_of_/abstract 
 

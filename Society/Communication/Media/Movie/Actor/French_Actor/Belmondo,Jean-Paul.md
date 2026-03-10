@@ -221,7 +221,7 @@ dv_has_:
 
 # [[Belmondo,Jean-Paul]] 
 
-#is_/same_as :: [[WD~Jean-Paul_Belmondo,106255]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jean-Paul_Belmondo,106255]] 
 
 ## #has_/text_of_/abstract 
 

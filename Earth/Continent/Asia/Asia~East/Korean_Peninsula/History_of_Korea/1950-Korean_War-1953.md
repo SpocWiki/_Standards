@@ -369,7 +369,7 @@ dv_has_:
 
 # [[1950-Korean_War-1953]] 
 
-#is_/same_as :: [[WD~Korean_War,8663]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Korean_War,8663]] 
 
 ## #has_/text_of_/abstract 
 

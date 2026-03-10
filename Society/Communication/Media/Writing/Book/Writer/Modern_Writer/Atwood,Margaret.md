@@ -354,7 +354,7 @@ dv_has_:
 
 # [[Atwood,Margaret]] 
 
-#is_/same_as :: [[WD~Margaret_Atwood,183492]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Margaret_Atwood,183492]] 
 
 ## #has_/text_of_/abstract 
 

@@ -108,7 +108,7 @@ dv_has_:
 
 # [[Magnetomotive_Force]] 
 
-#is_/same_as :: [[WD~Magnetomotive_force,1266982]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magnetomotive_force,1266982]] 
 
 ## #has_/text_of_/abstract 
 

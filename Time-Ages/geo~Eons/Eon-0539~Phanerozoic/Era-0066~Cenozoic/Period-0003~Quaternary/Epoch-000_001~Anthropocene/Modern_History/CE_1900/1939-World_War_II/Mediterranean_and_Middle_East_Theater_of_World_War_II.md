@@ -128,7 +128,7 @@ dv_has_:
 
 # [[Mediterranean_and_Middle_East_Theater_of_World_War_II]] 
 
-#is_/same_as :: [[WD~Mediterranean_and_Middle_East_Theater_of_World_War_II,696817]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mediterranean_and_Middle_East_Theater_of_World_War_II,696817]] 
 
 ## #has_/text_of_/abstract 
 

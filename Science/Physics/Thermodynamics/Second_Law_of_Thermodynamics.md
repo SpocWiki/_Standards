@@ -167,7 +167,7 @@ dv_has_:
 
 # [[Second_Law_of_Thermodynamics]] 
 
-#is_/same_as :: [[WD~Second_law_of_thermodynamics,177045]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Second_law_of_thermodynamics,177045]] 
 
 ## #has_/text_of_/abstract 
 

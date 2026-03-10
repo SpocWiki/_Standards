@@ -280,7 +280,7 @@ dv_has_:
 
 # [[Macbeth]] 
 
-#is_/same_as :: [[WD~Macbeth,130283]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Macbeth,130283]] 
 
 ## #has_/text_of_/abstract 
 

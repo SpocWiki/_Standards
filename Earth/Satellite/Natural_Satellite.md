@@ -317,7 +317,7 @@ dv_has_:
 
 # [[Natural_Satellite]] 
 
-#is_/same_as :: [[WD~Natural_satellite,2537]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Natural_satellite,2537]] 
 
 ## #has_/text_of_/abstract 
 

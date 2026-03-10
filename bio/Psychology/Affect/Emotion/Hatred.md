@@ -230,7 +230,7 @@ dv_has_:
 
 # [[Hatred]] 
 
-#is_/same_as :: [[WD~Hatred,160232]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hatred,160232]] 
 
 ## #has_/text_of_/abstract 
 

@@ -104,7 +104,7 @@ dv_has_:
 
 # [[Meet_the_Press]] 
 
-#is_/same_as :: [[WD~Meet_the_Press,1543066]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Meet_the_Press,1543066]] 
 
 ## #has_/text_of_/abstract 
 

@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Isoline]] 
 
-#is_/same_as :: [[WD~Isoline,6653802]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Isoline,6653802]] 
 
 ## #has_/text_of_/abstract 
 

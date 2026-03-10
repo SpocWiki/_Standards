@@ -102,7 +102,7 @@ dv_has_:
 
 # [[Crompton,Samuel]] 
 
-#is_/same_as :: [[WD~Samuel_Crompton,140692]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Samuel_Crompton,140692]] 
 
 ## #has_/text_of_/abstract 
 

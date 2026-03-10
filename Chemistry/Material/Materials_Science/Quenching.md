@@ -114,7 +114,7 @@ dv_has_:
 # [[Quenching]] 
 
 is_opposite_of = `=this.dv_is_opposite_of` 
-#is_/same_as :: [[WD~Quenching,871335]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Quenching,871335]] 
 
 ## #has_/text_of_/abstract 
 

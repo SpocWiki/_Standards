@@ -170,7 +170,7 @@ dv_has_:
 
 # [[Pauli_Exclusion_Principle]] 
 
-#is_/same_as :: [[WD~Pauli_exclusion_principle,131594]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pauli_exclusion_principle,131594]] 
 
 ## #has_/text_of_/abstract 
 

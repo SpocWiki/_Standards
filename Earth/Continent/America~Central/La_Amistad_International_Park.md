@@ -142,7 +142,7 @@ dv_has_:
 
 # [[La_Amistad_International_Park]] 
 
-#is_/same_as :: [[WD~La_Amistad_International_Park,379217]] 
+#is_/same_as :: [[_Standards/WikiData/WD~La_Amistad_International_Park,379217]] 
 
 ## #has_/text_of_/abstract 
 

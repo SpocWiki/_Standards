@@ -88,7 +88,7 @@ dv_has_:
 #is_/worse_than :: [[Epistemology/Wisdom|Wisdom]] 
 #is_/part_of :: [[Knowledge/Knowledge_Pyramid|Knowledge_Pyramid]] 
 
-#is_/similar_to :: [[WD~Insight,1553259]] 
+#is_/similar_to :: [[_Standards/WikiData/WD~Insight,1553259]] 
 
 Insight is associated with [[../../bio/Psychology/Cognition/Intelligence|Intelligence]], whereas knowledge can be acquired through rote learning alone.
 

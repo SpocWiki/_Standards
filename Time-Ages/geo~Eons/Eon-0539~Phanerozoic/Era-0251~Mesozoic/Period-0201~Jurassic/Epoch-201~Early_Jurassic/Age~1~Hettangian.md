@@ -90,7 +90,7 @@ dv_has_:
     stopped: -199.5e6
 dv_is_:
   same_as:
-  - '[[WD~Hettangian,633834]]'
+  - '[[_Standards/WikiData/WD~Hettangian,633834]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.public|Age~1~Hettangian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.internal|Age~1~Hettangian.internal]]'
@@ -102,7 +102,7 @@ dv_has_duration_years: 1.900e+6
 dv_has_previous_item: '[[../../Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]]'
 dv_has_next_item: '[[Age~2~Sinemurian]]'
 dv_is_same_as:
-- '[[WD~Hettangian,633834]]'
+- '[[_Standards/WikiData/WD~Hettangian,633834]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.public|Age~1~Hettangian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.internal|Age~1~Hettangian.internal]]'
@@ -146,7 +146,7 @@ A time period from 201.4 to 199.5 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Hettangian,633834]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hettangian,633834]] 
 
 ## #has_/text_of_/abstract 
 

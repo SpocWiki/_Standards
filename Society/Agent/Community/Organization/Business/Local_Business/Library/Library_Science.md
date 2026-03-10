@@ -242,7 +242,7 @@ dv_has_:
 
 # [[Library_Science]] 
 
-#is_/same_as :: [[WD~Library_science,199655]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Library_science,199655]] 
 
 ## #has_/text_of_/abstract 
 

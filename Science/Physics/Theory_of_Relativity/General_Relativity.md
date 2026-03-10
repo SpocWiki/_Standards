@@ -291,7 +291,7 @@ dv_has_:
 
 # [[General_Relativity]] 
 
-#is_/same_as :: [[WD~General_relativity,11452]] 
+#is_/same_as :: [[_Standards/WikiData/WD~General_relativity,11452]] 
 
 ## #has_/text_of_/abstract 
 

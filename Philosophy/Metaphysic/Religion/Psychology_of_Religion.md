@@ -139,7 +139,7 @@ dv_has_:
 
 # [[Psychology_of_Religion]] 
 
-#is_/same_as :: [[WD~Psychology_of_religion,368498]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Psychology_of_religion,368498]] 
 
 ## #has_/text_of_/abstract 
 

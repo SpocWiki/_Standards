@@ -118,7 +118,7 @@ Commons_category: Roman emperors
 equivalent_class: http://dbpedia.org/ontology/RomanEmperor
 dv_is_:
   same_as:
-  - '[[WD~Roman_Emperor,842606]]'
+  - '[[_Standards/WikiData/WD~Roman_Emperor,842606]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor|0027-Roman_Emperor]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor.public|0027-Roman_Emperor.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor.internal|0027-Roman_Emperor.internal]]'
@@ -127,7 +127,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor.personal|0027-Roman_Emperor.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor.secret|0027-Roman_Emperor.secret]]'
 dv_is_same_as:
-- '[[WD~Roman_Emperor,842606]]'
+- '[[_Standards/WikiData/WD~Roman_Emperor,842606]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor|0027-Roman_Emperor]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor.public|0027-Roman_Emperor.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor.internal|0027-Roman_Emperor.internal]]'
@@ -235,7 +235,7 @@ dv_has_:
 
 # [[0027-Roman_Emperor]] 
 
-#is_/same_as :: [[WD~Roman_Emperor,842606]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Roman_Emperor,842606]] 
 
 ## #has_/text_of_/abstract 
 

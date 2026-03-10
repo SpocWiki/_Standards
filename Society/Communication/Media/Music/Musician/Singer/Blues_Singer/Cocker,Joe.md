@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Cocker,Joe]] 
 
-#is_/same_as :: [[WD~Joe_Cocker,190076]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Joe_Cocker,190076]] 
 
 ## #has_/text_of_/abstract 
 

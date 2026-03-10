@@ -174,7 +174,7 @@ dv_has_:
 
 # [[1919-Interwar_Period+1939]] 
 
-#is_/same_as :: [[WD~Interwar_period,154611]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Interwar_period,154611]] 
 
 ## #has_/text_of_/abstract 
 

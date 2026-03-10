@@ -291,7 +291,7 @@ dv_has_:
 
 
 #has_/complement :: [[Irrational_Number]]
-#is_/same_as :: [[WD~Rational_number,1244890]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rational_number,1244890]] 
 
 ## #has_/text_of_/abstract 
 

@@ -236,7 +236,7 @@ dv_has_:
 
 # [[Nucleic_Acid]] 
 
-#is_/same_as :: [[WD~Nucleic_acids,123619]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nucleic_acids,123619]] 
 
 ## #has_/text_of_/abstract 
 

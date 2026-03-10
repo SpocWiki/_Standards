@@ -227,7 +227,7 @@ Unicode_character: 🎷
 
 # [[Saxophone]] 🎷 
 
-#is_/same_as :: [[WD~Saxophone,9798]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Saxophone,9798]] 
 
 ## #has_/text_of_/abstract 
 

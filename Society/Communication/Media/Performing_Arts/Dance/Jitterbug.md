@@ -49,7 +49,7 @@ dv_has_:
 
 # [[Jitterbug]] 
 
-#is_/same_as :: [[WD~Jitterbug,950354]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jitterbug,950354]] 
 
 ## #has_/text_of_/abstract 
 

@@ -334,7 +334,7 @@ dv_has_:
 
 # [[Poverty]] 
 
-#is_/same_as :: [[WD~Poverty,10294]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Poverty,10294]] 
 
 ## #has_/text_of_/abstract 
 

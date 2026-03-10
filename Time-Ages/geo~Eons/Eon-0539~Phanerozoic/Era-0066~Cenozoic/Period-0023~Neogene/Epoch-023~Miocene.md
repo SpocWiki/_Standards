@@ -168,7 +168,7 @@ dv_has_:
     stopped: -5.333e6
 dv_is_:
   same_as:
-  - '[[WD~Miocene,76267]]'
+  - '[[_Standards/WikiData/WD~Miocene,76267]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene|Epoch-023~Miocene]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.public|Epoch-023~Miocene.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.internal|Epoch-023~Miocene.internal]]'
@@ -179,7 +179,7 @@ dv_is_:
 dv_has_previous_item: '[[../Period-0066~Paleogene/Epoch-034~Oligocene|Epoch-034~Oligocene]]'
 dv_has_next_item: '[[Epoch-005~Pliocene]]'
 dv_is_same_as:
-- '[[WD~Miocene,76267]]'
+- '[[_Standards/WikiData/WD~Miocene,76267]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene|Epoch-023~Miocene]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.public|Epoch-023~Miocene.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.internal|Epoch-023~Miocene.internal]]'
@@ -220,7 +220,7 @@ dv_has_name_zh: 中新世
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Miocene,76267]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Miocene,76267]] 
 
 has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 has_time_started = `=this.dv_has_time_started` 

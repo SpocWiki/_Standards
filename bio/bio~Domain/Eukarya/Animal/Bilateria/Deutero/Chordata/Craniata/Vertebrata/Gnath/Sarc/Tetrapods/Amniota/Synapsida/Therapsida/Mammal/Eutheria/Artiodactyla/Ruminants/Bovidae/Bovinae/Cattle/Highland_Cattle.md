@@ -101,7 +101,7 @@ dv_has_:
 
 # [[Highland_Cattle]] 
 
-#is_/same_as :: [[WD~Highland_cattle,58903]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Highland_cattle,58903]] 
 
 ## #has_/text_of_/abstract 
 

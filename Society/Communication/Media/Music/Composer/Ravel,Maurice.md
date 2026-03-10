@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Ravel,Maurice]] 
 
-#is_/same_as :: [[WD~Maurice_Ravel,1178]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Maurice_Ravel,1178]] 
 
 ## #has_/text_of_/abstract 
 

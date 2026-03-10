@@ -292,7 +292,7 @@ dv_has_:
 
 # [[Pertussis]] 
 
-#is_/same_as :: [[WD~Pertussis,134859]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pertussis,134859]] 
 
 ## #has_/text_of_/abstract 
 

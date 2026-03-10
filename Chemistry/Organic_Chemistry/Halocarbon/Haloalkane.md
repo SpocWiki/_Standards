@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Haloalkane]] 
 
-#is_/same_as :: [[WD~Haloalkane,271026]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Haloalkane,271026]] 
 
 ## #has_/text_of_/abstract 
 

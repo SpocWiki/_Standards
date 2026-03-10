@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Herpes_Simplex]] 
 
-#is_/same_as :: [[WD~Herpes_simplex,6473911]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Herpes_simplex,6473911]] 
 
 ## #has_/text_of_/abstract 
 

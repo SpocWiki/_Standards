@@ -262,7 +262,7 @@ dv_has_:
 
 # [[Wayne,John]] 
 
-#is_/same_as :: [[WD~John_Wayne,40531]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Wayne,40531]] 
 
 ## #has_/text_of_/abstract 
 

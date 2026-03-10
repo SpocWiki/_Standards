@@ -189,7 +189,7 @@ dv_has_:
 
 # [[Nothing]] 
 
-#is_/same_as :: [[WD~Nothing,154242]]
+#is_/same_as :: [[_Standards/WikiData/WD~Nothing,154242]]
 
 ## #has_/text_of_/abstract 
 

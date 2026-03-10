@@ -124,7 +124,7 @@ dv_has_:
 
 # [[Linguistic_Anthropology]] 
 
-#is_/same_as :: [[WD~Linguistic_anthropology,772835]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Linguistic_anthropology,772835]] 
 
 ## #has_/text_of_/abstract 
 

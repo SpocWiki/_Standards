@@ -135,7 +135,7 @@ dv_has_:
 
 # [[Law_of_War]] 
 
-#is_/same_as :: [[WD~Law_of_war,14783702]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Law_of_war,14783702]] 
 
 ## #has_/text_of_/abstract 
 

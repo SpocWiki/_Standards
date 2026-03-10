@@ -157,7 +157,7 @@ dv_has_:
 
 # [[IHO(International_Hydrographic_Organization)]] 
 
-#is_/same_as :: [[WD~International_Hydrographic_Organization,233611]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]] 
 
 ## #has_/text_of_/abstract 
 

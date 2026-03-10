@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Jehovah]] 
 
-#is_/same_as :: [[WD~Jehovah,3678579]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jehovah,3678579]] 
 
 ## #has_/text_of_/abstract 
 

@@ -156,7 +156,7 @@ dv_has_:
 
 # [[Liturgy]] 
 
-#is_/same_as :: [[WD~Liturgy,172331]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Liturgy,172331]] 
 
 ## #has_/text_of_/abstract 
 

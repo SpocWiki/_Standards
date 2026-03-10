@@ -126,7 +126,7 @@ dv_has_:
 
 # [[Morgenthau,Hans]] 
 
-#is_/same_as :: [[WD~Hans_Morgenthau,77161]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hans_Morgenthau,77161]] 
 
 ## #has_/text_of_/abstract 
 

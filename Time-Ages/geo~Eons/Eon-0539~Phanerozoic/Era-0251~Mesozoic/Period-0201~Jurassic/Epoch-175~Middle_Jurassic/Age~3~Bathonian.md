@@ -93,7 +93,7 @@ dv_has_:
     stopped: -165.3e6
 dv_is_:
   same_as:
-  - '[[WD~Bathonian,791313]]'
+  - '[[_Standards/WikiData/WD~Bathonian,791313]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian|Age~3~Bathonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.public|Age~3~Bathonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.internal|Age~3~Bathonian.internal]]'
@@ -105,7 +105,7 @@ dv_has_duration_years: 2.900e+6
 dv_has_previous_item: '[[Age~2~Bajocian]]'
 dv_has_next_item: '[[Age~4~Callovian]]'
 dv_is_same_as:
-- '[[WD~Bathonian,791313]]'
+- '[[_Standards/WikiData/WD~Bathonian,791313]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian|Age~3~Bathonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.public|Age~3~Bathonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.internal|Age~3~Bathonian.internal]]'
@@ -149,7 +149,7 @@ A time period from 168.2 to 165.3 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Bathonian,791313]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Bathonian,791313]] 
 
 ## #has_/text_of_/abstract 
 

@@ -158,7 +158,7 @@ dv_has_:
 
 # [[World_Bank_Group]] 
 
-#is_/same_as :: [[WD~World_Bank_Group,320863]] 
+#is_/same_as :: [[_Standards/WikiData/WD~World_Bank_Group,320863]] 
 #has_/parts  :: [[../UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank|World_Bank]] 
 
 ## #has_/text_of_/abstract 

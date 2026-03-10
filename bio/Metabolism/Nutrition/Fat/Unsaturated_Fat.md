@@ -104,7 +104,7 @@ dv_has_:
 
 # [[Unsaturated_Fat]] 
 
-#is_/same_as :: [[WD~Unsaturated_fat,652555]]
+#is_/same_as :: [[_Standards/WikiData/WD~Unsaturated_fat,652555]]
 
 ## #has_/text_of_/abstract 
 

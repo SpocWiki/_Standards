@@ -123,7 +123,7 @@ dv_has_:
 
 # [[Middle_Eastern_theater_of_World_War_I]] 
 
-#is_/same_as :: [[WD~Middle_Eastern_theater_of_World_War_I,1765465]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Middle_Eastern_theater_of_World_War_I,1765465]] 
 
 ## #has_/text_of_/abstract 
 

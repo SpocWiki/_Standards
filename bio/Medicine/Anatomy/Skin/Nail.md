@@ -306,7 +306,7 @@ dv_has_:
 
 # [[Nail]] 
 
-#is_/same_as :: [[WD~Nail,36864]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nail,36864]] 
 
 ## #has_/text_of_/abstract 
 

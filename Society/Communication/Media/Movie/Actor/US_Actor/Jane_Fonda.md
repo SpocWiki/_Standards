@@ -281,7 +281,7 @@ dv_has_:
 
 # [[Jane_Fonda]] 
 
-#is_/same_as :: [[WD~Jane_Fonda,41142]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jane_Fonda,41142]] 
 
 ## #has_/text_of_/abstract 
 

@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Poker]] 
 
-#is_/same_as :: [[WD~Poker,80131]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Poker,80131]] 
 
 ## #has_/text_of_/abstract 
 

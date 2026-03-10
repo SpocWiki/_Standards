@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Pesticide]] 
 
-#is_/same_as :: [[WD~Pesticide,131656]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pesticide,131656]] 
 
 ## #has_/text_of_/abstract 
 

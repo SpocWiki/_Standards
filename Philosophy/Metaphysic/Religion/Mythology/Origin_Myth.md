@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Origin_Myth]] 
 
-#is_/same_as :: [[WD~Myth_of_origins,390248]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Myth_of_origins,390248]] 
 
 ## #has_/text_of_/abstract 
 

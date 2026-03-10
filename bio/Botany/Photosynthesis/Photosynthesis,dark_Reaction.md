@@ -47,7 +47,7 @@ dv_has_:
 
 # [[Photosynthesis,dark_Reaction]]  
 
-#is_/same_as :: [[WD~photosynthesis,_dark_reaction,22283112]]  
+#is_/same_as :: [[_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112]]  
 #has_/previous_/state :: [[Photosynthesis,light_Reactions|Photosynthesis,light_Reactions]] 
 
 ## #has_/text_of_/abstract 

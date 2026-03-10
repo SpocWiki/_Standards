@@ -408,7 +408,7 @@ dv_has_:
 
 # [[Mayor]] 
 
-#is_/same_as :: [[WD~Mayor,30185]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mayor,30185]] 
 
 ## #has_/text_of_/abstract 
 

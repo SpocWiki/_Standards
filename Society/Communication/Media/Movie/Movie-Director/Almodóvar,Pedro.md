@@ -244,7 +244,7 @@ dv_has_:
 
 # [[Almodóvar,Pedro]] 
 
-#is_/same_as :: [[WD~Pedro_Almodóvar,55171]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pedro_Almodóvar,55171]] 
 
 ## #has_/text_of_/abstract 
 

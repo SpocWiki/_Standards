@@ -198,7 +198,7 @@ dv_has_:
 
 # [[Barnum,P.T.]] 
 
-#is_/same_as :: [[WD~P._T._Barnum,223766]] 
+#is_/same_as :: [[_Standards/WikiData/WD~P._T._Barnum,223766]] 
 
 ## #has_/text_of_/abstract 
 

@@ -271,7 +271,7 @@ dv_has_:
 
 # [[Silk]] 
 
-#is_/same_as :: [[WD~Silk,37681]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Silk,37681]] 
 
 ## #has_/text_of_/abstract 
 

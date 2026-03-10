@@ -322,7 +322,7 @@ dv_has_:
 
 # [[1955-Warsaw_Pact+1991]] 
 
-#is_/same_as :: [[WD~Warsaw_Pact,41644]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Warsaw_Pact,41644]] 
 
 ## #has_/text_of_/abstract 
 

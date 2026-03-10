@@ -216,7 +216,7 @@ dv_has_:
 
 # [[Mountaineering]] 
 
-#is_/same_as :: [[WD~Mountaineering,36908]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mountaineering,36908]] 
 
 ## #has_/text_of_/abstract 
 

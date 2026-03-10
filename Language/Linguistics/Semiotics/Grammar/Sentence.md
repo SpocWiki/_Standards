@@ -277,7 +277,7 @@ dv_has_:
 
 # [[Sentence]] 
 
-#is_/same_as :: [[WD~Sentence,41796]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sentence,41796]] 
 
 ## #has_/text_of_/abstract 
 

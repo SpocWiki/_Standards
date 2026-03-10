@@ -86,7 +86,7 @@ dv_has_:
     stopped: -387.7e6
 dv_is_:
   same_as:
-  - '[[WD~Eifelian,730523]]'
+  - '[[_Standards/WikiData/WD~Eifelian,730523]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.public|Age~1~Eifelian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.internal|Age~1~Eifelian.internal]]'
@@ -98,7 +98,7 @@ dv_has_duration_years: 5.600e+6
 dv_has_previous_item: '[[../Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]]'
 dv_has_next_item: '[[Age~2~Givetian]]'
 dv_is_same_as:
-- '[[WD~Eifelian,730523]]'
+- '[[_Standards/WikiData/WD~Eifelian,730523]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.public|Age~1~Eifelian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.internal|Age~1~Eifelian.internal]]'
@@ -140,7 +140,7 @@ dv_has_text_of_color: 0xF1D576
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Eifelian,730523]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Eifelian,730523]] 
 
 A time period from 393.3 to 387.7 million years ago. 
 

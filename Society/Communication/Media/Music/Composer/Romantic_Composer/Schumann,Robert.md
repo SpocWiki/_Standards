@@ -329,7 +329,7 @@ dv_has_:
 
 # [[Schumann,Robert]] 
 
-#is_/same_as :: [[WD~Robert_Schumann,7351]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Schumann,7351]] 
 
 ## #has_/text_of_/abstract 
 

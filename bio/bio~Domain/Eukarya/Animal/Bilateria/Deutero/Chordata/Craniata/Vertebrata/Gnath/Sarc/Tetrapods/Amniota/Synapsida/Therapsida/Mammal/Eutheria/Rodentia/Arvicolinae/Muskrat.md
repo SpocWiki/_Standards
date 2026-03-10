@@ -192,7 +192,7 @@ dv_has_:
 
 # [[Muskrat]] 
 
-#is_/same_as :: [[WD~Muskrat,26283]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Muskrat,26283]] 
 
 ## #has_/text_of_/abstract 
 

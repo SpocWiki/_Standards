@@ -130,7 +130,7 @@ dv_has_:
 
 # [[Pleurotus]] 
 
-#is_/same_as :: [[WD~Pleurotus,852065]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pleurotus,852065]] 
 
 ## #has_/text_of_/abstract 
 

@@ -93,7 +93,7 @@ dv_has_:
     stopped: -251.200e6
 dv_is_:
   same_as:
-  - '[[WD~Induan,855153]]'
+  - '[[_Standards/WikiData/WD~Induan,855153]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan|Age~1~Induan]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.public|Age~1~Induan.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.internal|Age~1~Induan.internal]]'
@@ -105,7 +105,7 @@ dv_has_duration_years: 7.020e+5
 dv_has_previous_item: '[[../../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]]'
 dv_has_next_item: '[[Age~2~Olenekian]]'
 dv_is_same_as:
-- '[[WD~Induan,855153]]'
+- '[[_Standards/WikiData/WD~Induan,855153]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan|Age~1~Induan]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.public|Age~1~Induan.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.internal|Age~1~Induan.internal]]'
@@ -147,7 +147,7 @@ dv_has_text_of_color: 0xA4469F
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Induan,855153]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Induan,855153]] 
 
 A time period from 251.902 to 251.2 million years ago. 
 

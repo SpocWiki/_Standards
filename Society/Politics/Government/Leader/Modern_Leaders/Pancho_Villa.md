@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Pancho_Villa]] 
 
-#is_/same_as ::  [[WD~Pancho_Villa,192278]] 
+#is_/same_as ::  [[_Standards/WikiData/WD~Pancho_Villa,192278]] 
 
 ## #has_/text_of_/abstract 
 

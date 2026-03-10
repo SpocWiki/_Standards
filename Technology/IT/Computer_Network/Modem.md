@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Modem]] 
 
-#is_/same_as :: [[WD~Modem,5607]]
+#is_/same_as :: [[_Standards/WikiData/WD~Modem,5607]]
 
 ## #has_/text_of_/abstract 
 

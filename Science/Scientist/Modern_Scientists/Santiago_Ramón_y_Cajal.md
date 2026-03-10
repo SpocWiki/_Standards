@@ -264,7 +264,7 @@ dv_has_:
 
 # [[Santiago_Ramón_y_Cajal]] 
 
-#is_/same_as :: [[WD~Santiago_Ramón_y_Cajal,150526]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Santiago_Ramón_y_Cajal,150526]] 
 
 ## #has_/text_of_/abstract 
 

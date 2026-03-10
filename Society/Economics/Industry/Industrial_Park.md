@@ -95,7 +95,7 @@ dv_has_:
 
 # [[Industrial_Park]] 
 
-#is_/same_as :: [[WD~Industrial_park,1662100]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Industrial_park,1662100]] 
 
 ## #has_/text_of_/abstract 
 

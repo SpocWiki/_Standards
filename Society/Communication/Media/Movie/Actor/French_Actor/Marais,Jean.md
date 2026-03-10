@@ -209,7 +209,7 @@ dv_has_:
 
 # [[Marais,Jean]] 
 
-#is_/same_as :: [[WD~Jean_Marais,168359]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jean_Marais,168359]] 
 
 ## #has_/text_of_/abstract 
 

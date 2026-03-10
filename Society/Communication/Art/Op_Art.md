@@ -105,7 +105,7 @@ dv_has_:
 
 # [[Op_Art]] 
 
-#is_/same_as :: [[WD~Op_art,182331]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Op_art,182331]] 
 
 ## #has_/text_of_/abstract 
 

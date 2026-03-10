@@ -211,7 +211,7 @@ Unicode_character: 🦙
 
 # [[Llama]] 🦙 
 
-#is_/same_as :: [[WD~Lama_glama,42569]]
+#is_/same_as :: [[_Standards/WikiData/WD~Lama_glama,42569]]
 
 ## #has_/text_of_/abstract 
 

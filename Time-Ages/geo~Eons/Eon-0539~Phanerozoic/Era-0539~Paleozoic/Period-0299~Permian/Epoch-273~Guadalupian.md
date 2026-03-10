@@ -91,7 +91,7 @@ dv_has_:
     stopped: -259.51e6
 dv_is_:
   same_as:
-  - '[[WD~Guadalupian,1077376]]'
+  - '[[_Standards/WikiData/WD~Guadalupian,1077376]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian|Epoch-273~Guadalupian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.public|Epoch-273~Guadalupian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.internal|Epoch-273~Guadalupian.internal]]'
@@ -103,7 +103,7 @@ dv_has_duration_years: 1.350e+7
 dv_has_previous_item: '[[Epoch-298~Cisuralian]]'
 dv_has_next_item: '[[Epoch-259~Lopingian]]'
 dv_is_same_as:
-- '[[WD~Guadalupian,1077376]]'
+- '[[_Standards/WikiData/WD~Guadalupian,1077376]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian|Epoch-273~Guadalupian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.public|Epoch-273~Guadalupian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.internal|Epoch-273~Guadalupian.internal]]'
@@ -145,7 +145,7 @@ dv_has_text_of_color: 0xFB745C
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Guadalupian,1077376]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Guadalupian,1077376]]  
 
 A time period from 273.01 to 259.51 million years ago. 
 

@@ -149,7 +149,7 @@ dv_has_:
 
 # [[Hooker,John_Lee]] 
 
-#is_/same_as :: [[WD~John_Lee_Hooker,44570]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Lee_Hooker,44570]] 
 
 ## #has_/text_of_/abstract 
 

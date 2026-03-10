@@ -173,7 +173,7 @@ dv_has_:
 
 # [[National_Geographic]] 
 
-#is_/same_as :: [[WD~National_Geographic,5973845]] 
+#is_/same_as :: [[_Standards/WikiData/WD~National_Geographic,5973845]] 
 
 ## #has_/text_of_/abstract 
 

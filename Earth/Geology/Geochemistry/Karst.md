@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Karst]] 
 
-#is_/same_as :: [[WD~Karst,16817]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Karst,16817]] 
 
 ## #has_/text_of_/abstract 
 

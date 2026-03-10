@@ -242,7 +242,7 @@ dv_has_:
 
 # [[Pompey]] 
 
-#is_/same_as :: [[WD~Pompey,125414]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pompey,125414]] 
 
 ## #has_/text_of_/abstract 
 

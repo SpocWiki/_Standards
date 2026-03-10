@@ -152,7 +152,7 @@ dv_has_:
 
 # [[Vitamin_B]] 
 
-#is_/same_as :: [[WD~Vitamin_B,183206]]
+#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_B,183206]]
 
 ## #has_/text_of_/abstract 
 

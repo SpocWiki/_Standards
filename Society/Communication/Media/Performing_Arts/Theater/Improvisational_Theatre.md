@@ -100,7 +100,7 @@ dv_has_:
 
 # [[Improvisational_Theatre]] 
 
-#is_/same_as :: [[WD~Improvisational_theatre,1140700]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Improvisational_theatre,1140700]] 
 
 ## #has_/text_of_/abstract 
 

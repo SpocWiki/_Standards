@@ -147,7 +147,7 @@ dv_has_:
 
 # [[Safe_Sex]] 
 
-#is_/same_as :: [[WD~Safe_sex,318529]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Safe_sex,318529]] 
 
 ## #has_/text_of_/abstract 
 

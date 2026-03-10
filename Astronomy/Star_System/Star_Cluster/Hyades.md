@@ -157,7 +157,7 @@ dv_has_:
 
 # [[Hyades]] 
 
-#is_/same_as :: [[WD~Hyades,13511]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hyades,13511]] 
 
 ## #has_/text_of_/abstract 
 

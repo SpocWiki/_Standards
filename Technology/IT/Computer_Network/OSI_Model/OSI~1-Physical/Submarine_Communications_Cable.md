@@ -123,7 +123,7 @@ dv_has_:
 
 # [[Submarine_Communications_Cable]] 
 
-#is_/same_as :: [[WD~Submarine_communications_cable,506572]]
+#is_/same_as :: [[_Standards/WikiData/WD~Submarine_communications_cable,506572]]
 [[../../../../../WikiData/WD~Communications_satellite,149918|WD~Communications_satellite,149918]] 
 ## #has_/text_of_/abstract 
 

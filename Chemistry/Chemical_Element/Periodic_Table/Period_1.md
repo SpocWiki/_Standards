@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Period_1]] 
 
-#is_/same_as :: [[WD~Period_1,191936]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Period_1,191936]] 
 
 ## #has_/text_of_/abstract 
 

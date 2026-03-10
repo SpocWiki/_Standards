@@ -314,7 +314,7 @@ dv_has_:
 
 # [[Halley's_Comet]] 
 
-#is_/same_as :: [[WD~Halley's_Comet,23054]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Halley's_Comet,23054]] 
 
 ## #has_/text_of_/abstract 
 

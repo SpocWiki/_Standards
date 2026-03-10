@@ -128,7 +128,7 @@ dv_has_:
 
 # [[Rubin,Rick]] 
 
-#is_/same_as :: [[WD~Rick_Rubin,587361]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rick_Rubin,587361]] 
 
 ## #has_/text_of_/abstract 
 

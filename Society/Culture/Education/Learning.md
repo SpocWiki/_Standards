@@ -311,7 +311,7 @@ dv_has_:
 
 # [[Learning]] 
 
-#is_/same_as :: [[WD~Learning,133500]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Learning,133500]] 
 
 ## #has_/text_of_/abstract 
 

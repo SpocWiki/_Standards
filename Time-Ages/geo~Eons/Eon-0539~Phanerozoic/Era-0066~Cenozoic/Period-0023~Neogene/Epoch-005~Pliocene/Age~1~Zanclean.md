@@ -92,7 +92,7 @@ dv_has_:
     zh-hant: 讚克爾階
 dv_is_:
   same_as:
-  - '[[WD~Zanclean,146094]]'
+  - '[[_Standards/WikiData/WD~Zanclean,146094]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.public|Age~1~Zanclean.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.internal|Age~1~Zanclean.internal]]'
@@ -104,7 +104,7 @@ dv_has_duration_years: 1.733e+6
 dv_has_previous_item: '[[../Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]]'
 dv_has_next_item: '[[Age~2~Piacenzian]]'
 dv_is_same_as:
-- '[[WD~Zanclean,146094]]'
+- '[[_Standards/WikiData/WD~Zanclean,146094]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.public|Age~1~Zanclean.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.internal|Age~1~Zanclean.internal]]'
@@ -146,7 +146,7 @@ dv_has_text_of_color: 0xFFFFB3
 
 has_previous_item = `=this.dv_has_previous_item`
 has_next_item = `=this.dv_has_next_item`
-#is_/same_as :: [[WD~Zanclean,146094]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Zanclean,146094]] 
 
 A time period from 5.333 to 3.6 million years ago. 
 

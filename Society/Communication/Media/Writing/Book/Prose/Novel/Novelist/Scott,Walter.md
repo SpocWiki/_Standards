@@ -296,7 +296,7 @@ dv_has_:
 
 # [[Scott,Walter]] 
 
-#is_/same_as :: [[WD~Walter_Scott,79025]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Walter_Scott,79025]] 
 
 ## #has_/text_of_/abstract 
 

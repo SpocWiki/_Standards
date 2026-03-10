@@ -135,7 +135,7 @@ dv_has_:
 
 # [[Roman_Art]] 
 
-#is_/same_as :: [[wd~Roman_Art,3354732]]
+#is_/same_as :: [[_Standards/WikiData/WD~Roman_Art,3354732]]
 
 ## #has_/text_of_/abstract 
 

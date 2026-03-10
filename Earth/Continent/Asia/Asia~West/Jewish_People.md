@@ -427,7 +427,7 @@ dv_has_:
 
 # [[Jewish_People]] 
 
-#is_/same_as :: [[WD~Jewish_people,7325]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jewish_people,7325]] 
 
 ## #has_/text_of_/abstract 
 

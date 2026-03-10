@@ -216,7 +216,7 @@ dv_has_:
 
 # [[Odin]] 
 
-#is_/same_as :: [[WD~Odin,43610]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Odin,43610]] 
 
 ## #has_/text_of_/abstract 
 

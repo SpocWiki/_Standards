@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Low_Earth_Orbit]] 
 
-#is_/same_as :: [[WD~Low_Earth_orbit,663611]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Low_Earth_orbit,663611]] 
 
 ## #has_/text_of_/abstract 
 

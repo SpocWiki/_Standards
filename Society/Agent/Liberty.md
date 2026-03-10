@@ -292,7 +292,7 @@ dv_has_:
 | Practical Example       | Freedom to walk anywhere      | Liberty to vote in elections       |
 | Philosophical Dimension | Natural condition of autonomy | Civic condition of legal rights    |
 
-#is_/same_as :: [[WD~Liberty,2979]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Liberty,2979]] 
 
 ## #has_/text_of_/abstract 
 

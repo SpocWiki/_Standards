@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Hardness]] 
 
-#is_/same_as :: [[WD~Hardness,3236003]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hardness,3236003]] 
 #has_/antonym :: Softness 
 ## #has_/text_of_/abstract 
 

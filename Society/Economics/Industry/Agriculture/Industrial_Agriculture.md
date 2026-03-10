@@ -98,7 +98,7 @@ dv_has_:
 
 # [[Industrial_Agriculture]] 
 
-#is_/same_as :: [[WD~Industrial_agriculture,1347753]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Industrial_agriculture,1347753]] 
 
 ## #has_/text_of_/abstract 
 

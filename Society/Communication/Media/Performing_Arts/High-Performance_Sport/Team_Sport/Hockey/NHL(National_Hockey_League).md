@@ -230,7 +230,7 @@ dv_has_:
 
 # [[NHL(National_Hockey_League)]] 
 
-#is_/same_as :: [[WD~National_Hockey_League,1215892]] 
+#is_/same_as :: [[_Standards/WikiData/WD~National_Hockey_League,1215892]] 
 
 ## #has_/text_of_/abstract 
 

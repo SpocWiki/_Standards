@@ -116,7 +116,7 @@ dv_has_:
 
 #is_/similar_to :: [[Mood]] 
 #is_/similar_to :: [[Affect/Emotion|Emotion]] 
-#is_/same_as :: [[WD~Temperament,80157]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Temperament,80157]] 
 
 ## #has_/text_of_/abstract 
 

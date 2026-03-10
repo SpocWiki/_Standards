@@ -245,7 +245,7 @@ dv_has_:
 
 # [[Hooke,Robert]] 
 
-#is_/same_as :: [[WD~Robert_Hooke,46830]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Hooke,46830]] 
 
 ## #has_/text_of_/abstract 
 

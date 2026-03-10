@@ -103,7 +103,7 @@ dv_has_:
 
 # [[Hereford_Cattle]] 
 
-#is_/same_as :: [[WD~Hereford,737173]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hereford,737173]] 
 
 ## #has_/text_of_/abstract 
 

@@ -135,7 +135,7 @@ Unicode_character: 🏍
 
 
 
-#is_/same_as :: [[WD~Motorcycle_sport,328716]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Motorcycle_sport,328716]] 
 
 ## #has_/text_of_/abstract 
 

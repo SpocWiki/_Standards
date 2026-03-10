@@ -242,7 +242,7 @@ dv_has_:
 
 # [[Orinoco_River]] 
 
-#is_/same_as :: [[WD~Orinoco_River,131792]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orinoco_River,131792]] 
 
 ## #has_/map 
 

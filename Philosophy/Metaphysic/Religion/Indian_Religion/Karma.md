@@ -186,7 +186,7 @@ dv_has_:
 
 # [[Karma]] 
 
-#is_/same_as :: [[WD~Karma,132196]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Karma,132196]] 
 
 ## #has_/text_of_/abstract 
 

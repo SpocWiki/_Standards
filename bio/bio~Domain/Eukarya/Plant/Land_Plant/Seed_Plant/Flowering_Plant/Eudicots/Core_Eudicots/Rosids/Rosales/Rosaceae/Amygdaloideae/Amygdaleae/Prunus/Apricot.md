@@ -343,7 +343,7 @@ dv_has_:
 
 # [[Apricot]] 
 
-#is_/same_as :: [[WD~Prunus_armeniaca,37453]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Prunus_armeniaca,37453]] 
 
 ## #has_/text_of_/abstract 
 

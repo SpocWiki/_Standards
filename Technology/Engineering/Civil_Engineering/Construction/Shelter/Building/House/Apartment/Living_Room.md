@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Living_Room]] 
 
-#is_/same_as :: [[WD~Living_room,475018]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Living_room,475018]] 
 
 ## #has_/text_of_/abstract 
 

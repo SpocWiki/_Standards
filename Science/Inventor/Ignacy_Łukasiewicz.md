@@ -128,7 +128,7 @@ dv_has_:
 
 # [[Ignacy_Łukasiewicz]] 
 
-#is_/same_as :: [[WD~Ignacy_Łukasiewicz,28978]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ignacy_Łukasiewicz,28978]] 
 
 ## #has_/text_of_/abstract 
 

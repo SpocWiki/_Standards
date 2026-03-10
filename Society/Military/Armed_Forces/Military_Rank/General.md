@@ -243,7 +243,7 @@ dv_has_:
 
 # [[General]] 
 
-#is_/same_as :: [[WD~General,83460]] 
+#is_/same_as :: [[_Standards/WikiData/WD~General,83460]] 
 
 ## #has_/text_of_/abstract 
 

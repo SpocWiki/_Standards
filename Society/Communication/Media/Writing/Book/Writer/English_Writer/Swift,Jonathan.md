@@ -257,7 +257,7 @@ dv_has_:
 
 # [[Swift,Jonathan]] 
 
-#is_/same_as :: [[WD~Jonathan_Swift,41166]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jonathan_Swift,41166]] 
 
 ## #has_/text_of_/abstract 
 

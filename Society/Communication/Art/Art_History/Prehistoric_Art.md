@@ -145,7 +145,7 @@ dv_has_:
 
 # [[Prehistoric_Art]] 
 
-#is_/same_as :: [[wd~Prehistoric_Art,1842924]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Prehistoric_Art,1842924]] 
 
 ## #has_/text_of_/abstract 
 

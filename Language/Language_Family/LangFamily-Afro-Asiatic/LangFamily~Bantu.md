@@ -217,7 +217,7 @@ dv_has_:
 
 # [[LangFamily~Bantu]] 
 
-#is_/same_as :: [[WD~Bantu,33146]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Bantu,33146]] 
 
 ## #has_/text_of_/abstract 
 

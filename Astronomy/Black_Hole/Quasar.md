@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Quasar]] 
 
-#is_/same_as :: [[WD~Quasar,83373]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Quasar,83373]] 
 
 ## #has_/text_of_/abstract 
 

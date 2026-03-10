@@ -183,7 +183,7 @@ dv_has_:
 
 # [[LED(Light-emitting_Diode)]] 
 
-#is_/same_as :: [[WD~Light-emitting_diode,25504]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Light-emitting_diode,25504]] 
 
 ## #has_/text_of_/abstract 
 

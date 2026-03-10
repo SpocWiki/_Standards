@@ -111,7 +111,7 @@ work_location:
 - '[[_Standards/WikiData/WD~Plymouth,43382|WD~Plymouth,43382]]'
 described_by_source:
 - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208|WD~Allgemeine_Deutsche_Biographie,590208]]'
-- '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[_Standards/WikiData/WD~Schilder_boeck,1157807|WD~Schilder_boeck,1157807]]'
 - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
@@ -273,7 +273,7 @@ dv_has_:
 
 # [[1390-Eyck,Jan_van+1441]] 
 
-#is_/same_as :: [[WD~Jan_van_Eyck,102272]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jan_van_Eyck,102272]] 
 
 ## #has_/text_of_/abstract 
 

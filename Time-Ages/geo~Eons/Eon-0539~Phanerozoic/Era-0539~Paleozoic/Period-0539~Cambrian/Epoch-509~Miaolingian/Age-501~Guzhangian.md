@@ -82,7 +82,7 @@ dv_has_:
     stopped: -497.0e6
 dv_is_:
   same_as:
-  - '[[WD~Guzhangian,43667]]'
+  - '[[_Standards/WikiData/WD~Guzhangian,43667]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-501~Guzhangian|Age-501~Guzhangian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-501~Guzhangian.public|Age-501~Guzhangian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-501~Guzhangian.internal|Age-501~Guzhangian.internal]]'
@@ -94,7 +94,7 @@ dv_has_duration_years: 3.500e+6
 dv_has_previous_item: '[[Age-505~Drumian]]'
 dv_has_next_item: '[[../Epoch-497~Furongian/Age-497~Paibian|Age-497~Paibian]]'
 dv_is_same_as:
-- '[[WD~Guzhangian,43667]]'
+- '[[_Standards/WikiData/WD~Guzhangian,43667]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-501~Guzhangian|Age-501~Guzhangian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-501~Guzhangian.public|Age-501~Guzhangian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-501~Guzhangian.internal|Age-501~Guzhangian.internal]]'
@@ -136,7 +136,7 @@ dv_has_text_of_color: 0xCCDFAA
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Guzhangian,43667]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Guzhangian,43667]] 
 
 A time period from 500.5 to 497 million years ago. 
 

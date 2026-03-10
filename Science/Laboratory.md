@@ -71,7 +71,7 @@ aliases:
 - 연구실
 has_id_wikidata: Q483242
 described_by_source:
-- '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
 - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
@@ -216,7 +216,7 @@ dv_has_:
 
 # [[Laboratory]] 
 
-#is_/same_as :: [[WD~Laboratory,483242]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Laboratory,483242]] 
 
 ## #has_/text_of_/abstract 
 

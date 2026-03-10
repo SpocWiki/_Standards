@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Gnosticism]]
 
-#is_/same_as :: [[WD~Gnosticism,48420]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gnosticism,48420]] 
 
 ## #has_/text_of_/abstract 
 

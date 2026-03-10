@@ -126,7 +126,7 @@ dv_has_:
 
 # [[Laplace's_Equation]] 
 
-#is_/same_as :: [[WD~Laplace's_equation,339444]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Laplace's_equation,339444]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[WD~Meenakshi_Temple,1424358]]'
+  - '[[_Standards/WikiData/WD~Meenakshi_Temple,1424358]]'
   - '[[/_Standards/Earth/Geography/Place/Meenakshi_Temple|Meenakshi_Temple]]'
   - '[[/_public/Earth/Geography/Place/Meenakshi_Temple.public|Meenakshi_Temple.public]]'
   - '[[/_internal/Earth/Geography/Place/Meenakshi_Temple.internal|Meenakshi_Temple.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Meenakshi_Temple.personal|Meenakshi_Temple.personal]]'
   - '[[/_secret/Earth/Geography/Place/Meenakshi_Temple.secret|Meenakshi_Temple.secret]]'
 dv_is_same_as:
-- '[[WD~Meenakshi_Temple,1424358]]'
+- '[[_Standards/WikiData/WD~Meenakshi_Temple,1424358]]'
 - '[[/_Standards/Earth/Geography/Place/Meenakshi_Temple|Meenakshi_Temple]]'
 - '[[/_public/Earth/Geography/Place/Meenakshi_Temple.public|Meenakshi_Temple.public]]'
 - '[[/_internal/Earth/Geography/Place/Meenakshi_Temple.internal|Meenakshi_Temple.internal]]'
@@ -134,7 +134,7 @@ dv_has_:
 
 ![[../../../assets/Meenakshi_Temple.png|Meenakshi_Temple.png]] 
 By <a href="//commons.wikimedia.org/wiki/User:%E0%AE%8E%E0%AE%B8%E0%AF%8D%E0%AE%B8%E0%AE%BE%E0%AE%B0%E0%AF%8D" title="User:எஸ்ஸார்">எஸ்ஸார்</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14140355">Link</a> 
-#is_/same_as :: [[WD~Meenakshi_Temple,1424358]]
+#is_/same_as :: [[_Standards/WikiData/WD~Meenakshi_Temple,1424358]]
 
 ## #has_/map  
 

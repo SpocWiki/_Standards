@@ -269,7 +269,7 @@ dv_has_:
 
 # [[Piaget,Jean]] 
 
-#is_/same_as :: [[WD~Jean_Piaget,123190]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jean_Piaget,123190]] 
 
 ## #has_/text_of_/abstract 
 

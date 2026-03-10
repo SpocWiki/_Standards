@@ -118,7 +118,7 @@ dv_has_:
 
 # [[Pantry]] 
 
-#is_/same_as :: [[WD~Pantry,258313]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pantry,258313]] 
 
 ## #has_/text_of_/abstract 
 

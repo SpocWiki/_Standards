@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Organometallic_Chemistry]] 
 
-#is_/same_as :: [[WD~Organometallic_chemistry,237200]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Organometallic_chemistry,237200]] 
 
 ## #has_/text_of_/abstract 
 

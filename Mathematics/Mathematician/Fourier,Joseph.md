@@ -279,7 +279,7 @@ dv_has_:
 
 # [[Fourier,Joseph]] 
 
-#is_/same_as :: [[WD~Joseph_Fourier,8772]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Joseph_Fourier,8772]] 
 
 ## #has_/text_of_/abstract 
 

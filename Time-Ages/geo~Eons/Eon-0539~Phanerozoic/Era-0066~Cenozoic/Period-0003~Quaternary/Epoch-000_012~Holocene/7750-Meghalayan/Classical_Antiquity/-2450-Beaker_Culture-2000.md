@@ -123,7 +123,7 @@ dv_has_:
     stopped: -1800
 dv_is_:
   same_as:
-  - '[[wd~Beaker_Culture,470867]]'
+  - '[[_Standards/WikiData/WD~Beaker_Culture,470867]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000|-2450-Beaker_Culture-2000]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.public|-2450-Beaker_Culture-2000.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.internal|-2450-Beaker_Culture-2000.internal]]'
@@ -134,7 +134,7 @@ dv_is_:
 dv_has_time_started: -2450
 dv_has_time_stopped: -1800
 dv_is_same_as:
-- '[[wd~Beaker_Culture,470867]]'
+- '[[_Standards/WikiData/WD~Beaker_Culture,470867]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000|-2450-Beaker_Culture-2000]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.public|-2450-Beaker_Culture-2000.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.internal|-2450-Beaker_Culture-2000.internal]]'
@@ -150,7 +150,7 @@ has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped` 
 #has_/predecessor :: [[-3000-Corded_Ware_Culture-2350]]
 
-#is_/same_as :: [[wd~Beaker_Culture,470867]]
+#is_/same_as :: [[_Standards/WikiData/WD~Beaker_Culture,470867]]
 
 ## #has_/text_of_/abstract 
 

@@ -331,7 +331,7 @@ dv_has_:
 
 # [[Marcus_Aurelius]] 
 
-#is_/same_as :: [[WD~Marcus_Aurelius,1430]]
+#is_/same_as :: [[_Standards/WikiData/WD~Marcus_Aurelius,1430]]
 
 ## #has_/text_of_/abstract 
 

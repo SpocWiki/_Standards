@@ -254,7 +254,7 @@ dv_has_:
 # [[Leigh,Vivien]] 
 
 #is_/different_from :: [[Leigh,Janet|Leigh,Janet]] 
-#is_/same_as :: [[WD~Vivien_Leigh,129429]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Vivien_Leigh,129429]] 
 
 ## #has_/text_of_/abstract 
 

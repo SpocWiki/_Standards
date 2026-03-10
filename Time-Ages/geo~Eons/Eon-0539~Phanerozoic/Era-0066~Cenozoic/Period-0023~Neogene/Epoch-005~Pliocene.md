@@ -169,7 +169,7 @@ dv_has_:
     stopped: -2.580e6
 dv_is_:
   same_as:
-  - '[[WD~Pliocene,76259]]'
+  - '[[_Standards/WikiData/WD~Pliocene,76259]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene|Epoch-005~Pliocene]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.public|Epoch-005~Pliocene.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.internal|Epoch-005~Pliocene.internal]]'
@@ -184,7 +184,7 @@ dv_has_duration_years: 2.753e+6
 dv_has_previous_item: '[[Epoch-023~Miocene]]'
 dv_has_next_item: '[[../Period-0003~Quaternary/Epoch-002_568~Pleistocene|Epoch~1~Pleistocene]]'
 dv_is_same_as:
-- '[[WD~Pliocene,76259]]'
+- '[[_Standards/WikiData/WD~Pliocene,76259]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene|Epoch-005~Pliocene]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.public|Epoch-005~Pliocene.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.internal|Epoch-005~Pliocene.internal]]'
@@ -228,7 +228,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Pliocene,76259]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pliocene,76259]] 
 
 A time period from 5.333 to 2.58 million years ago. 
 

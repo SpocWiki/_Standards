@@ -161,7 +161,7 @@ Unicode_character: ‰
 # [[Unit~Permille]] ‰ 
 
 
-#is_/same_as :: [[WD~per_mille,181011]] 
+#is_/same_as :: [[_Standards/WikiData/WD~per_mille,181011]] 
 
 ## #has_/text_of_/abstract 
 

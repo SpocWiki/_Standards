@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Ritual]] 
 
-#is_/same_as :: [[WD~Ritual,189819]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ritual,189819]] 
 
 ## #has_/text_of_/abstract 
 

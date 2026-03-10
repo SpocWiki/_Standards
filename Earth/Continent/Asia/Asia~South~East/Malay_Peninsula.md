@@ -231,7 +231,7 @@ dv_has_:
 
 # [[Malay_Peninsula]] 
 
-#is_/same_as :: [[WD~Malay_Peninsula,18758]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Malay_Peninsula,18758]] 
 
 ## #has_/map  
 

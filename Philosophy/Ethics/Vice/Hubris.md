@@ -95,7 +95,7 @@ dv_has_:
 
 # [[Hubris]] 
 
-#is_/same_as :: [[WD~Hubris,735766]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hubris,735766]] 
 #is_/more_than :: [[Pride]] 
 #is_/similar_to :: [[../../../../_protect/bio/Psychology/Anti-Social-Disorder/Narcissism|Narcissism]] 
 

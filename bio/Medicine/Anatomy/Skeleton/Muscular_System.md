@@ -165,7 +165,7 @@ dv_has_:
 
 # [[Muscular_System]] 
 
-#is_/same_as :: [[WD~Muscular_system,7060553]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Muscular_system,7060553]] 
 
 ## #has_/text_of_/abstract 
 

@@ -241,7 +241,7 @@ dv_has_:
 
 # [[Humanism]] 
 
-#is_/same_as :: [[WD~Humanism,46158]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Humanism,46158]] 
 #has_/complement :: [[Metaphysic/Religion/Theism|Theism]] 
 
 ## #has_/text_of_/abstract 

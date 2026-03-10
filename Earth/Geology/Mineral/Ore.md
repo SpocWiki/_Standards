@@ -223,7 +223,7 @@ dv_has_:
 
 # [[Ore]] 
 
-#is_/same_as :: [[WD~Ore,102798]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ore,102798]] 
 
 ## #has_/text_of_/abstract 
 

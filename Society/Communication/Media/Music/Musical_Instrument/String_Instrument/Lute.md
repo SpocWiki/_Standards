@@ -165,7 +165,7 @@ dv_has_:
 
 # [[Lute]] 
 
-#is_/same_as :: [[WD~Lute,180733]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lute,180733]] 
 
 ## #has_/text_of_/abstract 
 

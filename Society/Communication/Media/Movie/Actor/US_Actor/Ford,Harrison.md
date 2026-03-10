@@ -207,7 +207,7 @@ dv_has_:
 
 # [[Ford,Harrison]] 
 
-#is_/same_as :: [[WD~Harrison_Ford,81328]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Harrison_Ford,81328]] 
 
 ## #has_/text_of_/abstract 
 

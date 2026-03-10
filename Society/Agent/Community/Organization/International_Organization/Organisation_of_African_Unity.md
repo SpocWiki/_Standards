@@ -169,7 +169,7 @@ dv_has_:
 
 # [[Organisation_of_African_Unity]] 
 
-#is_/same_as :: [[WD~Organisation_of_African_Unity,191703]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Organisation_of_African_Unity,191703]] 
 
 ## #has_/text_of_/abstract 
 

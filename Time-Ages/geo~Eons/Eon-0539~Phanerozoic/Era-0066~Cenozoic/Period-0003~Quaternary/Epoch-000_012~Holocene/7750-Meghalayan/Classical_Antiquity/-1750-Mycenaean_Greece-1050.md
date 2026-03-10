@@ -206,7 +206,7 @@ dv_has_:
 
 # [[-1750-Mycenaean_Greece-1050]] 
 
-#is_/same_as :: [[WD~Mycenaean_Greece,181264]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mycenaean_Greece,181264]] 
 
 ## #has_/text_of_/abstract 
 

@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Metric_Space]] 
 
-#is_/same_as :: [[WD~Metric_space,180953]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Metric_space,180953]] 
 
 ## #has_/text_of_/abstract 
 

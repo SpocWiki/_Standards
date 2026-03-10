@@ -261,7 +261,7 @@ dv_has_:
 
 # [[Anise]] 
 
-#is_/same_as :: [[WD~Pimpinella_anisum,28692]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pimpinella_anisum,28692]] 
 
 ## #has_/text_of_/abstract 
 

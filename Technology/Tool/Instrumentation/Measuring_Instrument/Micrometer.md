@@ -130,7 +130,7 @@ dv_has_:
 
 # [[Micrometer]] 
 
-#is_/same_as :: [[WD~Micrometer,12458]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Micrometer,12458]] 
 
 ## #has_/text_of_/abstract 
 

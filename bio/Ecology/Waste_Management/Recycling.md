@@ -242,7 +242,7 @@ dv_has_:
 
 # [[Recycling]] 
 
-#is_/same_as :: [[WD~Recycling,132580]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Recycling,132580]] 
 
 ## #has_/text_of_/abstract 
 

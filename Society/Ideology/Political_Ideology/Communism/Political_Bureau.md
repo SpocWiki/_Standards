@@ -99,7 +99,7 @@ dv_has_:
 
 # [[Political_Bureau]] 
 
-#is_/same_as :: [[WD~Political_bureau,309118]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Political_bureau,309118]] 
 
 ## #has_/text_of_/abstract 
 

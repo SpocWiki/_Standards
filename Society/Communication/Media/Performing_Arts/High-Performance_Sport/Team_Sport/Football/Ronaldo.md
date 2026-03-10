@@ -236,7 +236,7 @@ dv_has_:
 
 # [[Ronaldo]] 
 
-#is_/same_as :: [[WD~Ronaldo,529207]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ronaldo,529207]] 
 
 ## #has_/text_of_/abstract 
 

@@ -120,7 +120,7 @@ dv_has_:
 # [[Stiffness]] 
 
 #has_/reciprocal :: [[Elasticity|Elasticity]] 
-#is_/same_as :: [[WD~Stiffness,569057]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Stiffness,569057]] 
 
 ## #has_/text_of_/abstract 
 

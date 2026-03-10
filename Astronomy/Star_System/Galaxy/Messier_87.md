@@ -209,7 +209,7 @@ dv_has_:
 
 # [[Messier_87]] 
 
-#is_/same_as :: [[WD~Messier_87,14041]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Messier_87,14041]] 
 
 ## #has_/text_of_/abstract 
 

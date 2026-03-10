@@ -200,7 +200,7 @@ dv_has_:
 
 # [[IUPAC(International_Union_of_Pure_and_Applied_Chemistry)]] 
 
-#is_/same_as :: [[WD~International_Union_of_Pure_and_Applied_Chemistry,33438]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Union_of_Pure_and_Applied_Chemistry,33438]] 
 
 ## #has_/text_of_/abstract 
 

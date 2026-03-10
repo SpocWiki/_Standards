@@ -247,7 +247,7 @@ dv_has_:
 # [[Brin,Sergey]] 
 
 #has_/created :: [[../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google|Google]] 
-#is_/same_as :: [[WD~Sergey_Brin,92764]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sergey_Brin,92764]] 
 
 ## #has_/text_of_/abstract 
 

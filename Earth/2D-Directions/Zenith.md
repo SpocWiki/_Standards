@@ -177,7 +177,7 @@ dv_has_:
 # [[Zenith]] 
 
 is_opposite_of = `=this.dv_is_opposite_of`
-#is_/same_as :: [[WD~Zenith,82806]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Zenith,82806]] 
 
 ## #has_/text_of_/abstract 
 

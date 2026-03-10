@@ -98,7 +98,7 @@ dv_has_:
     stopped: -242.0e6
 dv_is_:
   same_as:
-  - '[[WD~Anisian,549024]]'
+  - '[[_Standards/WikiData/WD~Anisian,549024]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.public|Age~1~Anisian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.internal|Age~1~Anisian.internal]]'
@@ -110,7 +110,7 @@ dv_has_duration_years: 5.200e+6
 dv_has_previous_item: '[[../Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]]'
 dv_has_next_item: '[[Age~2~Ladinian]]'
 dv_is_same_as:
-- '[[WD~Anisian,549024]]'
+- '[[_Standards/WikiData/WD~Anisian,549024]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.public|Age~1~Anisian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.internal|Age~1~Anisian.internal]]'
@@ -152,7 +152,7 @@ dv_has_text_of_color: 0xBC75B7
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Anisian,549024]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Anisian,549024]] 
 
 A time period from 247.2 to 242 million years ago. 
 

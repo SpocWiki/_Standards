@@ -192,7 +192,7 @@ dv_has_:
 
 # [[Salmonellosis]] 
 
-#is_/same_as :: [[WD~Salmonellosis,326648]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Salmonellosis,326648]] 
 
 ## #has_/text_of_/abstract 
 

@@ -268,7 +268,7 @@ dv_has_:
 
 # [[Pharaoh]] 
 
-#is_/same_as :: [[WD~Pharaoh,37110]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pharaoh,37110]] 
 
 ## #has_/text_of_/abstract 
 

@@ -120,7 +120,7 @@ dv_has_:
 
 # [[Dempsey,Jack]] 
 
-#is_/same_as :: [[WD~Jack_Dempsey,313686]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jack_Dempsey,313686]] 
 
 ## #has_/text_of_/abstract 
 

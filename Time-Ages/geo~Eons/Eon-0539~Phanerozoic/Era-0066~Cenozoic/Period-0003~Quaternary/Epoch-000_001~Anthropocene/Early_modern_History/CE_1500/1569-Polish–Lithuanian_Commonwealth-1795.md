@@ -328,7 +328,7 @@ dv_has_:
 
 # [[1569-Polish–Lithuanian_Commonwealth-1795]] 
 
-#is_/same_as :: [[WD~Polish–Lithuanian_Commonwealth,172107]]
+#is_/same_as :: [[_Standards/WikiData/WD~Polish–Lithuanian_Commonwealth,172107]]
 
 ## #has_/text_of_/abstract 
 

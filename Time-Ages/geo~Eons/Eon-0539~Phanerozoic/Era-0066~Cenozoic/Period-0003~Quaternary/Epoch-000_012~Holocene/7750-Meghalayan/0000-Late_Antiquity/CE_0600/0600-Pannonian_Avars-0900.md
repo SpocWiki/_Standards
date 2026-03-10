@@ -172,7 +172,7 @@ dv_has_:
 
 # [[0600-Pannonian_Avars-0900]] 
 
-#is_/same_as :: [[WD~Pannonian_Avars,68962]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pannonian_Avars,68962]] 
 
 ## #has_/text_of_/abstract 
 

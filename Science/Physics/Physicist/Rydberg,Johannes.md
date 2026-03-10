@@ -134,7 +134,7 @@ dv_has_:
 # [[Rydberg,Johannes]] 
 
 #is_a :: [[../Physicist|Physicist]] 
-#is_/same_as :: [[WD~Johannes_Rydberg,311567]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Johannes_Rydberg,311567]] 
 
 ## #has_/text_of_/abstract 
 

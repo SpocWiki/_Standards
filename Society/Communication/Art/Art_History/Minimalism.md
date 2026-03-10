@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Minimalism]] 
 
-#is_/same_as :: [[WD~Minimalism,173436]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Minimalism,173436]] 
 
 ## #has_/text_of_/abstract 
 

@@ -234,7 +234,7 @@ dv_has_:
 # [[Typhus]] 
 
 #is_/different_from :: [[Typhoid_Fever|Typhoid_Fever]] 
-#is_/same_as :: [[WD~Typhus,160649]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Typhus,160649]] 
 
 ## #has_/text_of_/abstract 
 

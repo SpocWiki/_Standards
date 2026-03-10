@@ -148,7 +148,7 @@ dv_has_:
 
 # [[BSEC(Organization_of_the_Black_Sea_Economic_Cooperation)]] 
 
-#is_/same_as :: [[WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340]] 
 
 ## #has_/text_of_/abstract 
 

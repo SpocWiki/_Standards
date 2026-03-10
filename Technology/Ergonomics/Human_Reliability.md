@@ -69,7 +69,7 @@ dv_has_:
 
 # [[Human_Reliability]] 
 
-#is_/same_as :: [[WD~Human_reliability,186289]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Human_reliability,186289]] 
 
 ## #has_/text_of_/abstract 
 

@@ -88,7 +88,7 @@ dv_has_:
 
 # [[Boeing_Starliner]] 
 
-#is_/same_as :: [[WD~Boeing_Starliner,1024445]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Boeing_Starliner,1024445]] 
 
 ## #has_/text_of_/abstract 
 

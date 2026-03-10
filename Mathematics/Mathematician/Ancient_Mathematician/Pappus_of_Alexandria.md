@@ -151,7 +151,7 @@ dv_has_:
 
 # [[Pappus_of_Alexandria]] 
 
-#is_/same_as :: [[WD~Pappus_of_Alexandria,211783]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pappus_of_Alexandria,211783]] 
 
 ## #has_/text_of_/abstract 
 

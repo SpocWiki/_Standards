@@ -197,7 +197,7 @@ dv_has_:
 
 # [[Foucault,Léon]] 
 
-#is_/same_as :: [[WD~Léon_Foucault,187966]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Léon_Foucault,187966]] 
 
 ## #has_/text_of_/abstract 
 

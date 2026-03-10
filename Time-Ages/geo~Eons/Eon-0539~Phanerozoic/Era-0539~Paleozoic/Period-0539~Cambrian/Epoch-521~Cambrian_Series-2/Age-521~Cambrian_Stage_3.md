@@ -103,7 +103,7 @@ dv_has_:
     stopped: -514000000
 dv_is_:
   same_as:
-  - '[[WD~Cambrian-Stage-3,5025307]]'
+  - '[[_Standards/WikiData/WD~Cambrian-Stage-3,5025307]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-521~Cambrian_Stage_3|Age-521~Cambrian_Stage_3]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-521~Cambrian_Stage_3.public|Age-521~Cambrian_Stage_3.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-521~Cambrian_Stage_3.internal|Age-521~Cambrian_Stage_3.internal]]'
@@ -115,7 +115,7 @@ dv_has_duration_years: 7.000e+6
 dv_has_previous_item: '[[../Epoch-538~Terreneuvian/Age-529~Tommotian|Age~2~Tommotian]]'
 dv_has_next_item: '[[Age-514~Cambrian_Stage_4]]'
 dv_is_same_as:
-- '[[WD~Cambrian-Stage-3,5025307]]'
+- '[[_Standards/WikiData/WD~Cambrian-Stage-3,5025307]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-521~Cambrian_Stage_3|Age-521~Cambrian_Stage_3]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-521~Cambrian_Stage_3.public|Age-521~Cambrian_Stage_3.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-521~Cambrian_Stage_3.internal|Age-521~Cambrian_Stage_3.internal]]'
@@ -159,7 +159,7 @@ A time period from 521 to 514 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Cambrian-Stage-3,5025307]]   
+#is_/same_as :: [[_Standards/WikiData/WD~Cambrian-Stage-3,5025307]]   
 
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-515_Ma.png|Earth-515_Ma.png]] 

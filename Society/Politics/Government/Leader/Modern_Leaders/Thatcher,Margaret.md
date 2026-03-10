@@ -399,7 +399,7 @@ dv_has_:
 
 #has_/created_/quote :: There is no Alternative 
 #has_/created_/quote :: There is no such thing as society  
-#is_/same_as :: [[WD~Margaret_Thatcher,7416]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Margaret_Thatcher,7416]] 
 
 ## #has_/text_of_/abstract 
 

@@ -252,7 +252,7 @@ dv_has_:
 
 # [[Grotius,Hugo]] 
 
-#is_/same_as :: [[WD~Hugo_Grotius,154959]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hugo_Grotius,154959]] 
 
 ## #has_/text_of_/abstract 
 

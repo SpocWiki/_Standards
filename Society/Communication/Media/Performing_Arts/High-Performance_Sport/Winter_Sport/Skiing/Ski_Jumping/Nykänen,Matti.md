@@ -149,7 +149,7 @@ dv_has_:
 
 # [[Nykänen,Matti]] 
 
-#is_/same_as :: [[WD~Matti_Nykänen,16849]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Matti_Nykänen,16849]] 
 
 ## #has_/text_of_/abstract 
 

@@ -115,7 +115,7 @@ dv_has_:
 
 # [[Gunsmoke]] 
 
-#is_/same_as :: [[WD~Gunsmoke,29641]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gunsmoke,29641]] 
 
 ## #has_/text_of_/abstract 
 

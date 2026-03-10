@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Judiciary]] 
 
-#is_/same_as :: [[WD~Judiciary,105985]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Judiciary,105985]] 
 
 ## #has_/text_of_/abstract 
 

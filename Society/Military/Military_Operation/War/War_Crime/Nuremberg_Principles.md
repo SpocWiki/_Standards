@@ -84,7 +84,7 @@ dv_has_:
 
 # [[Nuremberg_Principles]] 
 
-#is_/same_as :: [[WD~Nuremberg_principles,2146981]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nuremberg_principles,2146981]] 
 
 ## #has_/text_of_/abstract 
 

@@ -169,7 +169,7 @@ dv_has_:
 
 # [[Modern_Pentathlon]] 
 
-#is_/same_as :: [[WD~Modern_pentathlon,32485]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Modern_pentathlon,32485]] 
 
 ## #has_/text_of_/abstract 
 

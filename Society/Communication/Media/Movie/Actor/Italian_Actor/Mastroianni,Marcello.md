@@ -199,7 +199,7 @@ dv_has_:
 
 # [[Mastroianni,Marcello]] 
 
-#is_/same_as :: [[WD~Marcello_Mastroianni,55469]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Marcello_Mastroianni,55469]] 
 
 ## #has_/text_of_/abstract 
 

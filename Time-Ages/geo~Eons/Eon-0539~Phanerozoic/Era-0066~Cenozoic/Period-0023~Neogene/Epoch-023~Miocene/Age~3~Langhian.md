@@ -103,7 +103,7 @@ dv_has_:
     stopped: -13.82e6
 dv_is_:
   same_as:
-  - '[[WD~Langhian,167254]]'
+  - '[[_Standards/WikiData/WD~Langhian,167254]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~3~Langhian|Age~3~Langhian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~3~Langhian.public|Age~3~Langhian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~3~Langhian.internal|Age~3~Langhian.internal]]'
@@ -115,7 +115,7 @@ dv_has_duration_years: 2.160e+6
 dv_has_previous_item: '[[Age~2~Burdigalian]]'
 dv_has_next_item: '[[Age~4~Serravallian]]'
 dv_is_same_as:
-- '[[WD~Langhian,167254]]'
+- '[[_Standards/WikiData/WD~Langhian,167254]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~3~Langhian|Age~3~Langhian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~3~Langhian.public|Age~3~Langhian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~3~Langhian.internal|Age~3~Langhian.internal]]'
@@ -159,7 +159,7 @@ A time period from 15.98 to 13.82 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Langhian,167254]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Langhian,167254]] 
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-015_Ma_(Langhian_Age).png|Earth-015_Ma_(Langhian_Age).png]] 
 

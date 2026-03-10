@@ -245,7 +245,7 @@ dv_has_:
 
 # [[Procter&Gamble]]  
 
-#is_/same_as :: [[WD~Procter_&_Gamble,212405]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Procter_&_Gamble,212405]] 
 
 ## #has_/text_of_/abstract 
 

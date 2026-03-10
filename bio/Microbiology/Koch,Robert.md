@@ -277,7 +277,7 @@ dv_has_:
 
 # [[Koch,Robert]] 
 
-#is_/same_as :: [[WD~Robert_Koch,37193]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Koch,37193]] 
 
 ## #has_/text_of_/abstract 
 

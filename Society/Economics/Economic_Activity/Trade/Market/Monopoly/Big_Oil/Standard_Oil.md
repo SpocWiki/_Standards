@@ -134,7 +134,7 @@ dv_has_:
 # [[Standard_Oil]] 
 
 #has_/next_/item :: [[Exxon_Mobil]] 
-#is_/same_as :: [[WD~Standard_Oil,375791]]
+#is_/same_as :: [[_Standards/WikiData/WD~Standard_Oil,375791]]
 
 ## #has_/text_of_/abstract 
 

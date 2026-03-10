@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Town_Hall]] 
 
-#is_/same_as :: [[WD~Rathaus,543654]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rathaus,543654]] 
 
 ## #has_/text_of_/abstract 
 

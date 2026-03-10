@@ -316,7 +316,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > The Three Musketeers (French: Les Trois Mousquetaires) is a French historical adventure novel 
-> written and published in 1844 by French author [[WD~Alexandre_Dumas,38337]].  
+> written and published in 1844 by French author [[_Standards/WikiData/WD~Alexandre_Dumas,38337]].  
 > It is the first of the author's three d'Artagnan Romances.  
 > 
 > As with some of his other works, he wrote it in collaboration with ghostwriter Auguste Maquet. 

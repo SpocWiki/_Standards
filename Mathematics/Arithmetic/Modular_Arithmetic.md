@@ -153,7 +153,7 @@ dv_has_:
 
 # [[Modular_Arithmetic]] 
 
-#is_/same_as :: [[WD~Modular_arithmetic,319400]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Modular_arithmetic,319400]] 
 
 ## #has_/text_of_/abstract 
 

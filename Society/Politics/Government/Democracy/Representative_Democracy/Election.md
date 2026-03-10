@@ -308,7 +308,7 @@ dv_has_:
 
 # [[Election]] 
 
-#is_/same_as :: [[WD~Public_election,40231]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Public_election,40231]] 
 
 ## #has_/text_of_/abstract 
 

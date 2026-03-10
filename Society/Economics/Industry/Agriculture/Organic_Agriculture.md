@@ -194,7 +194,7 @@ dv_has_:
 
 # [[Organic_Agriculture]] 
 
-#is_/same_as :: [[WD~Organic_agriculture,165647]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Organic_agriculture,165647]] 
 
 ## #has_/text_of_/abstract 
 

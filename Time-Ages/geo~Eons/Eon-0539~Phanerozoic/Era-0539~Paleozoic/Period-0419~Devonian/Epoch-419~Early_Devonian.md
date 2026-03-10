@@ -101,7 +101,7 @@ dv_has_:
     stopped: -393.3e6
 dv_is_:
   same_as:
-  - '[[WD~Early_Devonian,731293]]'
+  - '[[_Standards/WikiData/WD~Early_Devonian,731293]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian|Epoch-419~Early_Devonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian.public|Epoch-419~Early_Devonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian.internal|Epoch-419~Early_Devonian.internal]]'
@@ -113,7 +113,7 @@ dv_has_duration_years: 2.590e+7
 dv_has_previous_item: '[[../Period-0444~Silurian/Epoch-423~Pridoli|Epoch-423~Pridoli]]'
 dv_has_next_item: '[[Epoch-393~Middle_Devonian]]'
 dv_is_same_as:
-- '[[WD~Early_Devonian,731293]]'
+- '[[_Standards/WikiData/WD~Early_Devonian,731293]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian|Epoch-419~Early_Devonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian.public|Epoch-419~Early_Devonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian.internal|Epoch-419~Early_Devonian.internal]]'
@@ -155,7 +155,7 @@ dv_has_text_of_color: 0xE5AC4D
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Early_Devonian,731293]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Early_Devonian,731293]] 
 
 A time period from 419.2 to 393.3 million years ago. 
 

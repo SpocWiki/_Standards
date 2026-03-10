@@ -246,7 +246,7 @@ dv_has_:
 
 # [[Graphite]] 
 
-#is_/same_as :: [[WD~Graphite,5309]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Graphite,5309]] 
 
 ## #has_/text_of_/abstract 
 

@@ -266,7 +266,7 @@ dv_has_:
 
 # [[Olive_Oil]] 
 
-#is_/same_as :: [[WD~Olive_oil,93165]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Olive_oil,93165]] 
 
 ## #has_/text_of_/abstract 
 

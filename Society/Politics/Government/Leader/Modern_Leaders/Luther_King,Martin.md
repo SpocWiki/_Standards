@@ -432,7 +432,7 @@ dv_has_:
 
 # [[Luther_King,Martin]] 
 
-#is_/same_as :: [[WD~Martin_Luther_King_Jr.,8027]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Martin_Luther_King_Jr.,8027]] 
 
 ## #has_/text_of_/abstract 
 

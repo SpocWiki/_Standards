@@ -110,7 +110,7 @@ dv_has_:
 #has_/dependencies :: [[Jenoptik]] 
 #has_/dependents :: [[TSMC(Taiwan_Semiconductor)]], [[Samsung]], [[Intel|Intel]] 
 
-#is_/same_as :: [[WD~ASML,297879]] 
+#is_/same_as :: [[_Standards/WikiData/WD~ASML,297879]] 
 
 # [[ASML(Advanced_Semiconductor)]] Materials Lithography 
 

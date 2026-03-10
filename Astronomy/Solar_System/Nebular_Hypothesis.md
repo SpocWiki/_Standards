@@ -120,7 +120,7 @@ dv_has_:
 
 # [[Nebular_Hypothesis]] 
 
-#is_/same_as :: [[WD~Nebular_hypothesis,13599969]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nebular_hypothesis,13599969]] 
 
 ## #has_/text_of_/abstract 
 

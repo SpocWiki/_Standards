@@ -256,7 +256,7 @@ Unicode_character: 🎆
 
 # [[Firework]] 🎆 
 
-#is_/same_as :: [[WD~Firework,127933]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Firework,127933]] 
 
 ## #has_/text_of_/abstract 
 

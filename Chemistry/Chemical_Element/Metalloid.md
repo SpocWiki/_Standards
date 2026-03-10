@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Metalloid]] 
 
-#is_/same_as :: [[WD~Metalloid,19596]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Metalloid,19596]] 
 
 ## #has_/text_of_/abstract 
 

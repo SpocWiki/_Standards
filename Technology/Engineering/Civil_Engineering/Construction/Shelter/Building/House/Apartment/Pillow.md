@@ -252,7 +252,7 @@ dv_has_:
 
 # [[Pillow]] 
 
-#is_/same_as :: [[WD~Pillow,99895]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pillow,99895]] 
 
 ## #has_/text_of_/abstract 
 

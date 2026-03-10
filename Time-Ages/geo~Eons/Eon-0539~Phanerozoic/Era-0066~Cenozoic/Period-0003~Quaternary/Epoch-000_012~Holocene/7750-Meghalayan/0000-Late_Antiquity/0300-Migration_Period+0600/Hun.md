@@ -225,7 +225,7 @@ dv_has_:
 
 # [[Hun]] 
 
-#is_/same_as :: [[WD~Huns,45813]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Huns,45813]] 
 
 ## #has_/text_of_/abstract 
 

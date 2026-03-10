@@ -195,7 +195,7 @@ dv_has_:
 
 # [[1919-Paris_Peace_Conference]] 
 
-#is_/same_as :: [[WD~Paris_Peace_Conference,199820]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paris_Peace_Conference,199820]] 
 
 ## #has_/text_of_/abstract 
 

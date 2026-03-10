@@ -81,7 +81,7 @@ dv_has_:
     stopped: -443.8e6
 dv_is_:
   same_as:
-  - '[[WD~Hirnantian,583151]]'
+  - '[[_Standards/WikiData/WD~Hirnantian,583151]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.public|Age-445~Hirnantian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.internal|Age-445~Hirnantian.internal]]'
@@ -93,7 +93,7 @@ dv_has_duration_years: 1.400e+6
 dv_has_previous_item: '[[Age-453~Katian]]'
 dv_has_next_item: '[[../../Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]'
 dv_is_same_as:
-- '[[WD~Hirnantian,583151]]'
+- '[[_Standards/WikiData/WD~Hirnantian,583151]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.public|Age-445~Hirnantian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.internal|Age-445~Hirnantian.internal]]'
@@ -135,7 +135,7 @@ dv_has_text_of_color: 0xA6DBAB
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Hirnantian,583151]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Hirnantian,583151]]  
 
 A time period from 445.2 to 443.8 million years ago. 
 

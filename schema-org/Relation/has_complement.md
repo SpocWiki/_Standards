@@ -34,7 +34,7 @@ has_id_wikidata: P461
 dv_is_:
   part_of: https://meta.schema.org
   different_from: "[[has_inverse]]"
-  similar_to: "[[WD~opposite of,P461]]"
+  similar_to: "[[_Standards/WikiData/WD~opposite of,P461]]"
   same_as:
     - "[[has_complement]]"
     - "[[/_public/schema-org/Relation/has_complement.public|has_complement.public]]"
@@ -49,7 +49,7 @@ dv_has_:
   range: Property
 dv_is_part_of: https://meta.schema.org
 dv_is_different_from: "[[has_inverse]]"
-dv_is_similar_to: "[[WD~opposite of,P461]]"
+dv_is_similar_to: "[[_Standards/WikiData/WD~opposite of,P461]]"
 dv_has_domain: Property
 dv_has_name: has_complement
 dv_has_range: Property

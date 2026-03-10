@@ -255,7 +255,7 @@ dv_has_:
 
 # [[Updike,John]] 
 
-#is_/same_as :: [[WD~John_Updike,105756]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Updike,105756]] 
 
 ## #has_/text_of_/abstract 
 

@@ -257,7 +257,7 @@ dv_has_:
 
 # [[Jerusalem_Artichoke]] 
 
-#is_/same_as :: [[WD~Jerusalem_artichoke,146190]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jerusalem_artichoke,146190]] 
 
 ## #has_/text_of_/abstract 
 

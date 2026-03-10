@@ -145,7 +145,7 @@ dv_has_:
 
 # [[Magnetic_Permeability]] 
 
-#is_/same_as :: [[WD~Magnetic_permeability,28352]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magnetic_permeability,28352]] 
 
 ## #has_/text_of_/abstract 
 

@@ -280,7 +280,7 @@ dv_has_:
 
 # [[Hermes]] 
 
-#is_/same_as :: [[WD~Hermes,41484]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Hermes,41484]]  
 
 ## #has_/text_of_/abstract 
 

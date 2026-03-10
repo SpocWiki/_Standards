@@ -271,7 +271,7 @@ aliases:
 
 # [[Root]] 
 
-#is_/same_as :: [[WD~Root,41500]]
+#is_/same_as :: [[_Standards/WikiData/WD~Root,41500]]
 
 ## #has_/text_of_/abstract 
 

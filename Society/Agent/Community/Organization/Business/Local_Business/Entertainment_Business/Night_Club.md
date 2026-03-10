@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Night_Club]] 
 
-#is_/same_as :: [[WD~Night_Club,622425]]
+#is_/same_as :: [[_Standards/WikiData/WD~Night_Club,622425]]
 
 Class of all night clubs.
 

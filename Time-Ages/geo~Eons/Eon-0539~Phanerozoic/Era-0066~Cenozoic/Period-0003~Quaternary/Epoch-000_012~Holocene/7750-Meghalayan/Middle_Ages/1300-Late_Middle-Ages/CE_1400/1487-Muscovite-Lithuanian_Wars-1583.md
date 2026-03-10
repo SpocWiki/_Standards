@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Muscovite-Lithuanian_Wars]] 
 
-#is_/same_as :: [[WD~Muscovite-Lithuanian_Wars,1567698]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Muscovite-Lithuanian_Wars,1567698]] 
 
 ## #has_/text_of_/abstract 
 

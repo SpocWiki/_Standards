@@ -223,7 +223,7 @@ dv_has_:
 
 # [[Cousteau,Jacques]] 
 
-#is_/same_as :: [[WD~Jacques_Cousteau,83233]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jacques_Cousteau,83233]] 
 
 ## #has_/text_of_/abstract 
 

@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Kirchhoff's_Circuit_Laws]] 
 
-#is_/same_as :: [[WD~Kirchhoff's_circuit_laws,187672]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kirchhoff's_circuit_laws,187672]] 
 
 ## #has_/text_of_/abstract 
 

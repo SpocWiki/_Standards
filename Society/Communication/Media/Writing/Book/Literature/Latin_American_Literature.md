@@ -87,7 +87,7 @@ dv_has_:
 
 # [[Latin_American_Literature]] 
 
-#is_/same_as ::[[WD~Latin_American_literature,1147454]] 
+#is_/same_as ::[[_Standards/WikiData/WD~Latin_American_literature,1147454]] 
 
 ## #has_/text_of_/abstract 
 

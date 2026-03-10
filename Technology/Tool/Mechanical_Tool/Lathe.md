@@ -170,7 +170,7 @@ dv_has_:
 
 # [[Lathe]] 
 
-#is_/same_as :: [[WD~Lathe,187833]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lathe,187833]] 
 
 ## #has_/text_of_/abstract 
 

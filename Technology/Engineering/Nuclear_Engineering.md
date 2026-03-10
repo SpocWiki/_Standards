@@ -108,7 +108,7 @@ dv_has_:
 
 # [[Nuclear_Engineering]] 
 
-#is_/same_as :: [[WD~Nuclear_engineering,83504]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nuclear_engineering,83504]] 
 
 ## #has_/text_of_/abstract 
 

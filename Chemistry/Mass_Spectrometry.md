@@ -202,7 +202,7 @@ dv_has_:
 
 # [[Mass_Spectrometry]] 
 
-#is_/same_as :: [[WD~Mass_spectrometry,180809]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mass_spectrometry,180809]] 
 
 ## #has_/text_of_/abstract 
 

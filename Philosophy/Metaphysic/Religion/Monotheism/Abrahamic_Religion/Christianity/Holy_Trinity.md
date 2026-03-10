@@ -311,7 +311,7 @@ dv_has_:
 
 # [[Holy_Trinity]] 
 
-#is_/same_as :: [[WD~Holy_Trinity,37090]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Holy_Trinity,37090]] 
 
 ## #has_/text_of_/abstract 
 

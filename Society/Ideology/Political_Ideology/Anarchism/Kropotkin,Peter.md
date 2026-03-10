@@ -243,7 +243,7 @@ dv_has_:
 
 # [[Kropotkin,Peter]] 
 
-#is_/same_as :: [[WD~Peter_Kropotkin,5752]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peter_Kropotkin,5752]] 
 
 ## #has_/text_of_/abstract 
 

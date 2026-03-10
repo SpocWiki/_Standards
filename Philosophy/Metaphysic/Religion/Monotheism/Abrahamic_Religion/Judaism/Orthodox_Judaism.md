@@ -141,7 +141,7 @@ dv_has_:
 
 # [[Orthodox_Judaism]] 
 
-#is_/same_as :: [[WD~Orthodox_Judaism,80970]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orthodox_Judaism,80970]] 
 
 ## #has_/text_of_/abstract 
 

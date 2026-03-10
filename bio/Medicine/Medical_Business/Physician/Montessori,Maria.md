@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Montessori,Maria]] 
 
-#is_/same_as :: [[WD~Maria_Montessori,131117]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Maria_Montessori,131117]] 
 
 ## #has_/text_of_/abstract 
 

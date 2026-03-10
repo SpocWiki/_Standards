@@ -111,12 +111,12 @@ dv_has_:
 
 # [[Imago]] 
 
-#is_/same_as :: [[WD~Imago,207254]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Imago,207254]] 
 
 ## #has_/text_of_/abstract 
 
 > In biology, the **Imago** (Latin for "image") is the last stage an insect attains 
-> during its [[WD~Metamorphosis,33753]] , its process of growth and development; 
+> during its [[_Standards/WikiData/WD~Metamorphosis,33753]] , its process of growth and development; 
 > it is also called the imaginal stage ("imaginal" being "imago" in adjective form), 
 > the stage in which the insect attains maturity. 
 > It follows the final ecdysis of the immature instars.

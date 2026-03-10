@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Persian_Literature]] 
 
-#is_/same_as :: [[WD~Persian_literature,365585]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Persian_literature,365585]] 
 
 ## #has_/text_of_/abstract 
 

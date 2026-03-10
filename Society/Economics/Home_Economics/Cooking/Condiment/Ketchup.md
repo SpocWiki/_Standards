@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Ketchup]] 
 
-#is_/same_as :: [[WD~Ketchup,178143]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ketchup,178143]] 
 
 ## #has_/text_of_/abstract 
 

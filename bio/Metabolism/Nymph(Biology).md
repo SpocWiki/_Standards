@@ -112,7 +112,7 @@ dv_has_:
 # [[Nymph(Biology)]] 
 
 #is_/different_from :: [[Larva]] 
-#is_/same_as :: [[WD~Nymph,258362]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nymph,258362]] 
 
 ## #has_/text_of_/abstract 
 

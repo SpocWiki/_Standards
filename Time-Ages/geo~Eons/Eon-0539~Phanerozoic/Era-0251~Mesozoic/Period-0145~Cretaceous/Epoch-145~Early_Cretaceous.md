@@ -125,7 +125,7 @@ dv_has_:
     stopped: -100.5e6
 dv_is_:
   same_as:
-  - '[[WD~Early_Cretaceous,752187]]'
+  - '[[_Standards/WikiData/WD~Early_Cretaceous,752187]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch-145~Early_Cretaceous]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.public|Epoch-145~Early_Cretaceous.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.internal|Epoch-145~Early_Cretaceous.internal]]'
@@ -137,7 +137,7 @@ dv_has_duration_years: 4.450e+7
 dv_has_previous_item: '[[../Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch~3~Late_Jurassic]]'
 dv_has_next_item: '[[Epoch-101~Late_Cretaceous]]'
 dv_is_same_as:
-- '[[WD~Early_Cretaceous,752187]]'
+- '[[_Standards/WikiData/WD~Early_Cretaceous,752187]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch-145~Early_Cretaceous]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.public|Epoch-145~Early_Cretaceous.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.internal|Epoch-145~Early_Cretaceous.internal]]'
@@ -177,7 +177,7 @@ dv_has_text_of_color: 0x8CCD57
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Early_Cretaceous,752187]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Early_Cretaceous,752187]] 
 
 A time period from 145.0 to 100.5 million years ago. 
 

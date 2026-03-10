@@ -148,7 +148,7 @@ aliases:
 
 # [[Fallacy]] 
 
-#is_/same_as :: [[WD~Fallacy,]]
+#is_/same_as :: [[_Standards/WikiData/WD~Fallacy,]]
 
 ## #has_/text_of_/abstract 
 

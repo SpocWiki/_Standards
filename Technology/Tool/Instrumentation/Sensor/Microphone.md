@@ -230,7 +230,7 @@ dv_has_:
 
 # [[Microphone]] 🎤 
 
-#is_/same_as :: [[WD~Microphone,46384]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Microphone,46384]] 
 
 ## #has_/text_of_/abstract 
 

@@ -15,7 +15,7 @@ dv_has_:
 
 # [[Simon-Glatzel_Equation]] 
 
-#is_/same_as :: [[WD~Simon-Glatzel_Equation,7520530]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Simon-Glatzel_Equation,7520530]] 
 
 ## #has_/text_of_/abstract 
 

@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Impeachment]] 
 
-#is_/same_as :: [[WD~Impeachment,480498]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Impeachment,480498]] 
 
 ## #has_/text_of_/abstract 
 

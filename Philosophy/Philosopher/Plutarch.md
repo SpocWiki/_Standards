@@ -241,7 +241,7 @@ dv_has_:
 
 # [[Plutarch]] 
 
-#is_/same_as :: [[WD~Plutarch,41523]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plutarch,41523]] 
 
 ## #has_/text_of_/abstract 
 

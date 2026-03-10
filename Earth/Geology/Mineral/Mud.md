@@ -239,7 +239,7 @@ dv_has_:
 
 # [[Mud]] 
 
-#is_/same_as :: [[WD~Mud,170449]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mud,170449]] 
 
 ## #has_/text_of_/abstract 
 

@@ -241,7 +241,7 @@ aliases:
 
 # [[Irish_Sea]] 
 
-#is_/same_as :: [[WD~Irish_Sea,41735]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Irish_Sea,41735]] 
 
 ## #has_/text_of_/abstract 
 

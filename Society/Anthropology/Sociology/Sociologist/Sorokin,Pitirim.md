@@ -161,7 +161,7 @@ dv_has_:
 
 # [[Sorokin,Pitirim]] 
 
-#is_/same_as :: [[WD~Pitirim_Sorokin,319816]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pitirim_Sorokin,319816]] 
 
 ## #has_/text_of_/abstract 
 

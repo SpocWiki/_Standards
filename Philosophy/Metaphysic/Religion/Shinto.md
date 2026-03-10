@@ -314,7 +314,7 @@ dv_has_:
 
 # [[Shinto]] 
 
-#is_/same_as :: [[WD~Shinto,812767]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Shinto,812767]] 
 
 ## #has_/text_of_/abstract 
 

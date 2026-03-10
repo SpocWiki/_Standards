@@ -94,7 +94,7 @@ dv_has_:
     stopped: -168.2e6
 dv_is_:
   same_as:
-  - '[[WD~Bajocian,375180]]'
+  - '[[_Standards/WikiData/WD~Bajocian,375180]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian|Age~2~Bajocian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.public|Age~2~Bajocian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.internal|Age~2~Bajocian.internal]]'
@@ -106,7 +106,7 @@ dv_has_duration_years: 2.700e+6
 dv_has_previous_item: '[[Age~1~Aalenian]]'
 dv_has_next_item: '[[Age~3~Bathonian]]'
 dv_is_same_as:
-- '[[WD~Bajocian,375180]]'
+- '[[_Standards/WikiData/WD~Bajocian,375180]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian|Age~2~Bajocian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.public|Age~2~Bajocian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.internal|Age~2~Bajocian.internal]]'
@@ -148,7 +148,7 @@ dv_has_text_of_color: 0xA6DDE0
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Bajocian,375180]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Bajocian,375180]] 
 
 A time period from 170.9 to 168.2 million years ago. 
 

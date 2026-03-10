@@ -158,7 +158,7 @@ dv_has_:
 # [[Nadir]] 
 
 is_opposite_of = `=this.dv_is_opposite_of`
-#is_/same_as :: [[WD~Nadir,145825]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nadir,145825]] 
 
 ## #has_/text_of_/abstract 
 

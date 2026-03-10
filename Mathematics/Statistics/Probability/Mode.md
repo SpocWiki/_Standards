@@ -139,7 +139,7 @@ dv_has_:
 
 #is_/similar_to :: [[Probability/Mean|Mean]] 
 #is_/similar_to :: [[Probability/Median|Median]]  
-#is_/same_as :: [[WD~Mode,188224]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mode,188224]] 
 
 ## #has_/text_of_/abstract 
 

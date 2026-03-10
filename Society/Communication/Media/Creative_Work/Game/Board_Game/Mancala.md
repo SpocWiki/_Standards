@@ -95,7 +95,7 @@ dv_has_:
 
 # [[Mancala]] 
 
-#is_/same_as :: [[WD~Mancala,267989]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mancala,267989]] 
 
 ## #has_/text_of_/abstract 
 

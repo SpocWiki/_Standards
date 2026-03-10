@@ -39,7 +39,7 @@ dv_has_:
 
 # [[Paenungulatomorpha]] 
 
-#is_/same_as :: [[WD~Paenungulatomorpha,123509500]]
+#is_/same_as :: [[_Standards/WikiData/WD~Paenungulatomorpha,123509500]]
 
 ## #has_/text_of_/abstract 
 

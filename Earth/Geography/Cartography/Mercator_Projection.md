@@ -167,7 +167,7 @@ dv_has_:
 
 # [[Mercator_Projection]] 
 
-#is_/same_as :: [[WD~Mercator_projection,309372]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mercator_projection,309372]] 
 
 ## #has_/text_of_/abstract 
 

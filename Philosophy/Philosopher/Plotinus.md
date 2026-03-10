@@ -197,7 +197,7 @@ dv_has_:
 
 # [[Plotinus]] 
 
-#is_/same_as :: [[WD~Plotinus,134189]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plotinus,134189]] 
 
 ## #has_/text_of_/abstract 
 

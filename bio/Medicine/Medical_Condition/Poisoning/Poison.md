@@ -264,7 +264,7 @@ Unicode_character: ☠
 
 
 
-#is_/same_as :: [[WD~Poison,40867]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Poison,40867]] 
 
 ## #has_/text_of_/abstract 
 

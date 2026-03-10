@@ -7,7 +7,7 @@ dv_has_place_longitude: 39.3167
 dv_has_place_latitude: -6.13333
 dv_is_:
   same_as:
-  - '[[WD~Zanzibar,1774]]'
+  - '[[_Standards/WikiData/WD~Zanzibar,1774]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~East/Zanzibar|Zanzibar]]'
   - '[[/_public/Earth/Continent/Africa/Africa~East/Zanzibar.public|Zanzibar.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~East/Zanzibar.internal|Zanzibar.internal]]'
@@ -16,7 +16,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Africa/Africa~East/Zanzibar.personal|Zanzibar.personal]]'
   - '[[/_secret/Earth/Continent/Africa/Africa~East/Zanzibar.secret|Zanzibar.secret]]'
 dv_is_same_as:
-- '[[WD~Zanzibar,1774]]'
+- '[[_Standards/WikiData/WD~Zanzibar,1774]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~East/Zanzibar|Zanzibar]]'
 - '[[/_public/Earth/Continent/Africa/Africa~East/Zanzibar.public|Zanzibar.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~East/Zanzibar.internal|Zanzibar.internal]]'

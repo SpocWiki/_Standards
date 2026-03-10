@@ -214,7 +214,7 @@ dv_has_:
 
 # [[One_Hundred_Years_of_Solitude]] 
 
-#is_/same_as :: [[WD~One_Hundred_Years_of_Solitude,178869]] 
+#is_/same_as :: [[_Standards/WikiData/WD~One_Hundred_Years_of_Solitude,178869]] 
 
 ## #has_/text_of_/abstract 
 

@@ -323,7 +323,7 @@ dv_has_:
 
 # [[Foucault,Michel]] 
 
-#is_/same_as :: [[WD~Michel_Foucault,44272]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Michel_Foucault,44272]] 
 
 ## #has_/text_of_/abstract 
 

@@ -137,7 +137,7 @@ dv_has_:
 
 # [[Scorched_Earth]] 
 
-#is_/same_as :: [[WD~Scorched_earth,208485]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scorched_earth,208485]] 
 
 ## #has_/text_of_/abstract 
 

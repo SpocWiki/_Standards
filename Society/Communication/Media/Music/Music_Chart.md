@@ -131,7 +131,7 @@ dv_has_:
 
 # [[Music_Chart]] 
 
-#is_/same_as :: [[WD~Record_chart,373899]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Record_chart,373899]] 
 
 ## #has_/text_of_/abstract 
 

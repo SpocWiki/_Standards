@@ -182,7 +182,7 @@ aliases:
 
 # [[1397-Kalmar_Union-1523]] 
 
-#is_/same_as :: [[WD~Kalmar_Union,62623]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kalmar_Union,62623]] 
 
 ## #has_/text_of_/abstract 
 

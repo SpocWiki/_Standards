@@ -169,7 +169,7 @@ dv_has_:
 
 # [[Musket]] 
 
-#is_/same_as :: [[WD~Musket,178243]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Musket,178243]] 
 
 ## #has_/text_of_/abstract 
 

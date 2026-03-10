@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Nova]] 
 
-#is_/same_as :: [[WD~Nova,6458]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nova,6458]] 
 
 ## #has_/text_of_/abstract 
 

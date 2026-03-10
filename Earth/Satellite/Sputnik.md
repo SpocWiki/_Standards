@@ -194,7 +194,7 @@ dv_has_:
 
 # [[Sputnik]] 
 
-#is_/same_as :: [[WD~Sputnik_1,80811]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sputnik_1,80811]] 
 
 ## #has_/text_of_/abstract 
 

@@ -62,7 +62,7 @@ dv_has_:
 
 # [[Menthinae]] 
 
-#is_/same_as :: [[WD~Menthinae,12248709]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Menthinae,12248709]] 
 
 ## #has_/text_of_/abstract 
 

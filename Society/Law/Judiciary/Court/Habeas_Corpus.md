@@ -113,7 +113,7 @@ dv_has_:
 
 # [[Habeas_Corpus]] 
 
-#is_/same_as :: [[WD~Habeas_corpus,220596]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Habeas_corpus,220596]]  
 
 ## #has_/text_of_/abstract 
 

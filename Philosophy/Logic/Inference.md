@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Inference]] 
 
-#is_/same_as :: [[WD~Inference,408386]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Inference,408386]] 
 
 ## #has_/text_of_/abstract 
 

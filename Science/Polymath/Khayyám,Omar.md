@@ -274,7 +274,7 @@ dv_has_:
 
 # [[Khayyám,Omar]] 
 
-#is_/same_as :: [[WD~Omar_Khayyám,35900]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Omar_Khayyám,35900]] 
 
 ## #has_/text_of_/abstract 
 

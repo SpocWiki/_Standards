@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Sandpaper]]  
 
-#is_/same_as :: [[WD~Sandpaper,142274]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sandpaper,142274]] 
 
 ## #has_/text_of_/abstract 
 

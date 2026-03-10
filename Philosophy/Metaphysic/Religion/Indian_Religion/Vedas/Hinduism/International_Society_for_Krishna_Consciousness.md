@@ -176,7 +176,7 @@ dv_has_:
 
 # [[International_Society_for_Krishna_Consciousness]]   
 
-#is_/same_as :: [[WD~International_Society_for_Krishna_Consciousness,190193]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Society_for_Krishna_Consciousness,190193]] 
 
 ## #has_/text_of_/abstract 
 

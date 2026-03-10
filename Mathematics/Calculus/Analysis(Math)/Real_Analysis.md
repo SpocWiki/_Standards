@@ -128,7 +128,7 @@ dv_has_:
 # [[Real_Analysis]] 
 
 #is_/different_from :: [[Complex_Analysis|Complex_Analysis]] 
-#is_/same_as :: [[WD~Real_analysis,854531]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Real_analysis,854531]] 
 
 ## #has_/text_of_/abstract 
 

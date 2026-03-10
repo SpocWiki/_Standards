@@ -313,7 +313,7 @@ dv_has_:
 
 # [[Research]] 
 
-#is_/same_as :: [[WD~Research,42240]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Research,42240]] 
 
 ## #has_/text_of_/abstract 
 

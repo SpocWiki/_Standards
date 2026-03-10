@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Piperaceae]] 
 
-#is_/same_as :: [[WD~Piperaceae,156522]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Piperaceae,156522]]  
 
 ## #has_/text_of_/abstract 
 

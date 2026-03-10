@@ -262,7 +262,7 @@ dv_has_:
 
 # [[Vonnegut,Kurt]] 
 
-#is_/same_as :: [[WD~Kurt_Vonnegut,49074]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kurt_Vonnegut,49074]] 
 
 ## #has_/text_of_/abstract 
 

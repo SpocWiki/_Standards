@@ -247,7 +247,7 @@ dv_has_:
 
 # [[Maupassant,Guy_de]] 
 
-#is_/same_as :: [[WD~Guy_de_Maupassant,9327]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Guy_de_Maupassant,9327]] 
 
 ## #has_/text_of_/abstract 
 

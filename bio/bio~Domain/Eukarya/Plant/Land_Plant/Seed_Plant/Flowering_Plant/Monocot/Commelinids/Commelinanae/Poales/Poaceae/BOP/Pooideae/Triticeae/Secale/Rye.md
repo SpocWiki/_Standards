@@ -320,7 +320,7 @@ dv_has_:
 
 # [[Rye]] 
 
-#is_/same_as :: [[WD~Secale_cereale,12099]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Secale_cereale,12099]]  
 
 ## #has_/text_of_/abstract 
 

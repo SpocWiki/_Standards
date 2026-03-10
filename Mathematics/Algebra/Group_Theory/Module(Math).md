@@ -110,7 +110,7 @@ dv_has_:
 
 # [[Module(Math)]] 
 
-#is_/same_as :: [[WD~Module,18848]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Module,18848]] 
 
 ## #has_/text_of_/abstract 
 

@@ -195,7 +195,7 @@ dv_has_:
 
 # [[Nitrate_Ion]] 
 
-#is_/same_as :: [[WD~Nitrate_ion,182168]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nitrate_ion,182168]] 
 
 ## #has_/text_of_/abstract 
 

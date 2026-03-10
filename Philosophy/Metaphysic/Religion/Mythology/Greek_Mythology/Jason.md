@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Jason]] 
 
-#is_/same_as :: [[WD~Jason,176758]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jason,176758]] 
 
 ## #has_/text_of_/abstract 
 

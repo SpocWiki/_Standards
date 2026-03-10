@@ -323,7 +323,7 @@ dv_has_:
 
 # [[Industrial_Sector]] 
 
-#is_/same_as :: [[WD~Industrial_sector,8148]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Industrial_sector,8148]] 
 
 ## #has_/text_of_/abstract 
 

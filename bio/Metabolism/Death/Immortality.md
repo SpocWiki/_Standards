@@ -141,7 +141,7 @@ aliases:
 
 # [[Immortality]] 
 
-#is_/same_as :: [[WD~Immortality,193942]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Immortality,193942]] 
 
 ## #has_/text_of_/abstract 
 

@@ -229,7 +229,7 @@ Unicode_character: 👔
 
 # [[Necktie]] 👔 
 
-#is_/same_as :: [[WD~Necktie,44416]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Necktie,44416]] 
 
 ## #has_/text_of_/abstract 
 

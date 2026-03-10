@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Palaeography]] 
 
-#is_/same_as :: [[WD~Palaeography,179957]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Palaeography,179957]] 
 
 ## #has_/text_of_/abstract 
 

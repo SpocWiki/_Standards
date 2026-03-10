@@ -185,7 +185,7 @@ dv_has_:
 # [[Icon]] 
 
 #is_/different_from :: [[../../../../Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing)|Icon(Computing)]]  
-#is_/same_as :: [[WD~Icon,132137]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Icon,132137]] 
 
 ## #has_/text_of_/abstract 
 

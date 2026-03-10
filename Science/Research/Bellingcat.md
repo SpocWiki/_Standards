@@ -101,7 +101,7 @@ dv_has_:
 
 # [[Bellingcat]] 
 
-#is_/same_as  :: [[WD~Bellingcat,22938621]]
+#is_/same_as  :: [[_Standards/WikiData/WD~Bellingcat,22938621]]
 
 ## #has_/text_of_/abstract 
 

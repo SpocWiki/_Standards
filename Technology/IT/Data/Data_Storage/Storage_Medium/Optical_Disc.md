@@ -153,7 +153,7 @@ dv_has_:
 
 # [[Optical_Disc]] 💿 
 
-#is_/same_as :: [[WD~Optical_disc,234870]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Optical_disc,234870]] 
 
 ## #has_/text_of_/abstract 
 

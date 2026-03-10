@@ -186,7 +186,7 @@ dv_has_:
 
 # [[High_Jump]] 
 
-#is_/same_as :: [[WD~High_jump,165704]] 
+#is_/same_as :: [[_Standards/WikiData/WD~High_jump,165704]] 
 
 ## #has_/text_of_/abstract 
 

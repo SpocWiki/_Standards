@@ -178,7 +178,7 @@ dv_has_:
 
 # [[Ombudsman]] 
 
-#is_/same_as :: [[WD~Ombudsman,169180]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ombudsman,169180]] 
 
 ## #has_/text_of_/abstract 
 

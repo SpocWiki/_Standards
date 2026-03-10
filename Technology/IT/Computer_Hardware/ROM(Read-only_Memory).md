@@ -167,7 +167,7 @@ dv_has_:
 
 # [[ROM(Read-only_Memory)]] 
 
-#is_/same_as :: [[WD~Read-only_memory,160710]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Read-only_memory,160710]] 
 
 ## #has_/text_of_/abstract 
 

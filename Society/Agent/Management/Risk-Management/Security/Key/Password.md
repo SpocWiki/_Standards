@@ -207,7 +207,7 @@ dv_has_:
 
 # [[Password]] 
 
-#is_/same_as :: [[WD~Password,161157]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Password,161157]] 
 
 ## #has_/text_of_/abstract 
 

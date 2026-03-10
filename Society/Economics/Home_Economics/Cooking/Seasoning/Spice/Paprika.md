@@ -144,7 +144,7 @@ dv_has_:
 
 # [[Paprika]] 
 
-#is_/same_as :: [[WD~Paprika,3127593]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paprika,3127593]] 
 
 ## #has_/text_of_/abstract 
 

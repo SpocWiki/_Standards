@@ -114,7 +114,7 @@ dv_has_:
 
 # [[Lintel]] 
 
-#is_/same_as :: [[WD~Lintel,1370517]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lintel,1370517]] 
 
 ## #has_/text_of_/abstract 
 

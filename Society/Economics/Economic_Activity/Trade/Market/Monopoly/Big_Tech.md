@@ -109,7 +109,7 @@ dv_has_:
 
 # [[Big_Tech]] 
 
-#is_/same_as :: [[WD~Big_Tech,3122864]]
+#is_/same_as :: [[_Standards/WikiData/WD~Big_Tech,3122864]]
 
 ## #has_/text_of_/abstract 
 

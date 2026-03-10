@@ -417,7 +417,7 @@ dv_has_:
 
 # [[Barley]] 
 
-#is_/same_as :: [[WD~Hordeum_vulgare,11577]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hordeum_vulgare,11577]] 
 
 ## #has_/text_of_/abstract 
 

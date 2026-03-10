@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Poisson's_Ratio]] 
 
-#is_/same_as :: [[WD~Poisson's_ratio,190453]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Poisson's_ratio,190453]] 
 
 ## #has_/text_of_/abstract 
 

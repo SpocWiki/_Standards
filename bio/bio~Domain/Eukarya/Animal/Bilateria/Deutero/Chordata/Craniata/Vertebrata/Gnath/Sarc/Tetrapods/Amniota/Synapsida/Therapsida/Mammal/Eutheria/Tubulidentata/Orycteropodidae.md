@@ -124,7 +124,7 @@ dv_has_:
 
 # [[Orycteropodidae]] 
 
-#is_/same_as :: [[WD~Orycteropodidae,2895685]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orycteropodidae,2895685]] 
 
 ## #has_/text_of_/abstract 
 

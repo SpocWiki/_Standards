@@ -216,7 +216,7 @@ dv_has_:
 
 # [[Oxidation_Number]] 
 
-#is_/same_as :: [[WD~Oxidation_number,484152]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oxidation_number,484152]] 
 
 ## #has_/text_of_/abstract 
 

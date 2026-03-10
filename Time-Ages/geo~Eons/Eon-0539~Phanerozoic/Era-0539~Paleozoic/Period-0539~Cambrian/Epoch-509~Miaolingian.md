@@ -74,7 +74,7 @@ dv_has_:
     stopped: -497000000
 dv_is_:
   same_as:
-  - '[[WD~Miaolingian,5025304]]'
+  - '[[_Standards/WikiData/WD~Miaolingian,5025304]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian|Epoch-509~Miaolingian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.public|Epoch-509~Miaolingian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.internal|Epoch-509~Miaolingian.internal]]'
@@ -86,7 +86,7 @@ dv_has_duration_years: 1.200e+7
 dv_has_previous_item: '[[Epoch~]]'
 dv_has_next_item: '[[Epoch~]]'
 dv_is_same_as:
-- '[[WD~Miaolingian,5025304]]'
+- '[[_Standards/WikiData/WD~Miaolingian,5025304]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian|Epoch-509~Miaolingian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.public|Epoch-509~Miaolingian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.internal|Epoch-509~Miaolingian.internal]]'
@@ -108,7 +108,7 @@ dv_has_text_of_color: 0xA6CF86
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Miaolingian,5025304]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Miaolingian,5025304]] 
 
 A time period from 509 to 497 million years ago. 
 

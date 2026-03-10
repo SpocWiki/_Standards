@@ -195,7 +195,7 @@ dv_has_:
 
 # [[Imagination]] 
 
-#is_/same_as :: [[WD~Imagination,34516]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Imagination,34516]] 
 
 ## #has_/text_of_/abstract 
 

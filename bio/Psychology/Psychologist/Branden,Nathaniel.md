@@ -69,7 +69,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Nathaniel%20Branden%20
 
 # [[Branden,Nathaniel]] 
 
-#is_/same_as :: [[WD~Nathaniel_Branden,741456]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nathaniel_Branden,741456]] 
 
 ## #has_/text_of_/abstract 
 

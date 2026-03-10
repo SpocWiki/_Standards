@@ -1,7 +1,7 @@
 
 # [[Nut(Fastener)]] 
 
-#is_/same_as :: [[WD~Nut,190977]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nut,190977]] 
 
 ## #has_/text_of_/abstract 
 

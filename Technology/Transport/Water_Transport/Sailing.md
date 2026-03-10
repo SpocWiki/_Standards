@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Sailing]] 
 
-#is_/same_as :: [[WD~Sailing,192520]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sailing,192520]] 
 
 ## #has_/text_of_/abstract 
 

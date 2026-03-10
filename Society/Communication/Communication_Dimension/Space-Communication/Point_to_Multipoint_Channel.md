@@ -30,7 +30,7 @@ dv_has_:
 
 # [[Point_to_Multipoint_Channel]] 
 
-#is_/same_as :: [[WD~point-to-multipoint_communication,6554265]] 
+#is_/same_as :: [[_Standards/WikiData/WD~point-to-multipoint_communication,6554265]] 
 
 
 ## Confidential Links & Embeds: 

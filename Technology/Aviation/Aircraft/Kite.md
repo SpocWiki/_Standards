@@ -278,7 +278,7 @@ Unicode_character: 🪁
 
 # [[Kite]] 🪁 
 
-#is_/same_as :: [[WD~Kite,42861]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kite,42861]] 
 
 ## #has_/text_of_/abstract 
 

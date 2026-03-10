@@ -221,7 +221,7 @@ dv_has_:
 
 # [[Marathon]] 
 
-#is_/same_as :: [[WD~Marathon,40244]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Marathon,40244]] 
 
 ## #has_/text_of_/abstract 
 

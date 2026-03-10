@@ -119,7 +119,7 @@ dv_has_:
 
 # [[Cyclostomi]] 
 
-#is_/same_as :: [[WD~Cyclostomi,]]
+#is_/same_as :: [[_Standards/WikiData/WD~Cyclostomi,]]
 
 ## #has_/text_of_/abstract 
 

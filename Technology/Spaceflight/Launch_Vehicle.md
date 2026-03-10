@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Launch_Vehicle]] 
 
-#is_/same_as :: [[WD~Launch_vehicle,697175]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Launch_vehicle,697175]] 
 
 ## #has_/text_of_/abstract 
 

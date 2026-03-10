@@ -104,7 +104,7 @@ dv_has_:
 
 # [[Malayali]] 
 
-#is_/same_as :: [[WD~Malayali,1267987]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Malayali,1267987]] 
 
 ## #has_/text_of_/abstract 
 

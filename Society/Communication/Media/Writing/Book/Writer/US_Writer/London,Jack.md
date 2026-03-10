@@ -276,7 +276,7 @@ dv_has_:
 
 # [[London,Jack]] 
 
-#is_/same_as :: [[WD~Jack_London,45765]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jack_London,45765]] 
 
 ## #has_/text_of_/abstract 
 

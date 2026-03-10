@@ -220,7 +220,7 @@ dv_has_:
 
 # [[Paganism]] 
 
-#is_/same_as :: [[WD~Paganism,29536]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paganism,29536]] 
 
 ## #has_/text_of_/abstract 
 

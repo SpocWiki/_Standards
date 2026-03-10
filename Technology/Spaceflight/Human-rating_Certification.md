@@ -24,7 +24,7 @@ dv_has_:
 
 # [[Human-rating_Certification]] 
 
-#is_/same_as :: [[WD~Human-rating_certification,5936797]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Human-rating_certification,5936797]] 
 
 "Human-rated" is a term used primarily in aerospace and space exploration 
 to describe a system, vehicle, or spacecraft that has been designed, tested, and certified 

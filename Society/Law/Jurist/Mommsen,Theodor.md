@@ -302,7 +302,7 @@ dv_has_:
 
 # [[Mommsen,Theodor]] 
 
-#is_/same_as :: [[WD~Theodor_Mommsen,25351]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Theodor_Mommsen,25351]] 
 
 ## #has_/text_of_/abstract 
 

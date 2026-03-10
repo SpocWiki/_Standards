@@ -85,7 +85,7 @@ dv_has_:
 
 # [[Hells_Angels]] 
 
-#is_/same_as :: [[WD~Hells_Angels,622188]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hells_Angels,622188]] 
 
 ## #has_/text_of_/abstract 
 

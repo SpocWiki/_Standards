@@ -122,7 +122,7 @@ dv_has_:
 
 # [[P_versus_NP_Problem]] 
 
-#is_/same_as :: [[WD~P_versus_NP_problem,746242]] 
+#is_/same_as :: [[_Standards/WikiData/WD~P_versus_NP_problem,746242]] 
 
 ## #has_/text_of_/abstract 
 

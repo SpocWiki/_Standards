@@ -260,7 +260,7 @@ dv_has_:
 
 # [[Horizon]] 
 
-#is_/same_as :: [[WD~Horizon,43261]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Horizon,43261]] 
 
 ## #has_/text_of_/abstract 
 

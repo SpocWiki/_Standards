@@ -126,7 +126,7 @@ dv_has_:
 
 # [[Intermolecular_Force]] 
 
-#is_/same_as :: [[WD~Intermolecular_force,245031]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Intermolecular_force,245031]] 
 
 ## #has_/text_of_/abstract 
 

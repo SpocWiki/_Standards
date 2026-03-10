@@ -222,7 +222,7 @@ dv_has_:
 
 # [[-0322-Hellenistic_Period-0029]]  
 
-#is_/same_as :: [[WD~Hellenistic_period,428995]]
+#is_/same_as :: [[_Standards/WikiData/WD~Hellenistic_period,428995]]
 
 ## #has_/text_of_/abstract 
 

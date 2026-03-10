@@ -92,7 +92,7 @@ dv_has_:
 
 # [[1200-Muslim_conquest_in_India+1600]] 
 
-#is_/same_as :: [[WD~Muslim_conquest_in_the_Indian_subcontinent,2566899]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Muslim_conquest_in_the_Indian_subcontinent,2566899]] 
 
 ## #has_/text_of_/abstract 
 

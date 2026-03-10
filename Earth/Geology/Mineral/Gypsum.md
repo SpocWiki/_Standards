@@ -241,7 +241,7 @@ dv_has_:
 
 # [[Gypsum]] 
 
-#is_/same_as :: [[WD~Gypsum,82658]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gypsum,82658]] 
 
 ## #has_/text_of_/abstract 
 

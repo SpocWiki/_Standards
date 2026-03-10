@@ -229,7 +229,7 @@ dv_has_:
 # [[Redshift]] 
 
 is_opposite_of = `=this.dv_is_opposite_of` 
-#is_/same_as :: [[WD~Redshift,76250]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Redshift,76250]] 
 
 ## #has_/text_of_/abstract 
 

@@ -259,7 +259,7 @@ dv_has_:
 
 # [[Riboflavin]] 
 
-#is_/same_as :: [[WD~Riboflavin,130365]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Riboflavin,130365]] 
 
 ## #has_/text_of_/abstract 
 

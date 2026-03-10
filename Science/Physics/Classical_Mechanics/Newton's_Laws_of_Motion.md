@@ -267,7 +267,7 @@ dv_has_:
 
 # [[Newton's_Laws_of_Motion]] 
 
-#is_/same_as :: [[WD~Newton's_laws_of_motion,38433]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Newton's_laws_of_motion,38433]] 
 
 ## #has_/text_of_/abstract 
 

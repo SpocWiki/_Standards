@@ -220,7 +220,7 @@ dv_has_:
 
 # [[1358-Hanseatic_League-1669]] 
 
-#is_/same_as :: [[WD~Hanseatic_League,42908]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hanseatic_League,42908]] 
 
 ## #has_/text_of_/abstract 
 

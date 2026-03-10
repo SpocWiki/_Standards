@@ -308,7 +308,7 @@ dv_has_:
 
 # [[Djokovic,Novak]] 
 
-#is_/same_as :: [[WD~Novak_Djokovic,5812]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Novak_Djokovic,5812]] 
 
 ## #has_/text_of_/abstract 
 

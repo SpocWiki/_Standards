@@ -106,7 +106,7 @@ dv_has_:
     stopped: -227000000
 dv_is_:
   same_as:
-  - '[[WD~Carnian,911899]]'
+  - '[[_Standards/WikiData/WD~Carnian,911899]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.public|Age~1~Carnian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.internal|Age~1~Carnian.internal]]'
@@ -118,7 +118,7 @@ dv_has_duration_years: 1.000e+7
 dv_has_previous_item: '[[../Epoch-247~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]]'
 dv_has_next_item: '[[Age~2~Norian]]'
 dv_is_same_as:
-- '[[WD~Carnian,911899]]'
+- '[[_Standards/WikiData/WD~Carnian,911899]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.public|Age~1~Carnian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.internal|Age~1~Carnian.internal]]'
@@ -160,7 +160,7 @@ dv_has_text_of_color: 0xC99BCB
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Carnian,911899]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Carnian,911899]] 
 
 A time period from 237 to 227 million years ago. 
 

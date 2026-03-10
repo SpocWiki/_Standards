@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Rainforest]] 
 
-#is_/same_as :: [[WD~Rainforest,9444]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rainforest,9444]] 
 
 ## #has_/text_of_/abstract 
 

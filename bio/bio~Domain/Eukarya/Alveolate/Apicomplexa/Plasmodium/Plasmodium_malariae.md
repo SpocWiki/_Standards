@@ -91,7 +91,7 @@ aliases:
 
 # [[Plasmodium_malariae]] 
 
-#is_/same_as :: [[WD~Plasmodium_malariae,133969]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plasmodium_malariae,133969]] 
 
 ## #has_/text_of_/abstract 
 

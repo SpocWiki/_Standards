@@ -285,7 +285,7 @@ dv_has_:
 
 # [[Duchamp,Marcel]] 
 
-#is_/same_as :: [[WD~Marcel_Duchamp,5912]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Marcel_Duchamp,5912]] 
 
 ## #has_/text_of_/abstract 
 

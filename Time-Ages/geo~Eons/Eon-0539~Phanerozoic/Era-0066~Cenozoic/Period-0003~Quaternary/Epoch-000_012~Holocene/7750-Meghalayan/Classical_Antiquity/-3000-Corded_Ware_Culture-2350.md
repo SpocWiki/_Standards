@@ -46,8 +46,8 @@ aliases:
 - 전부문화
 has_id_wikidata: Q933996
 dv_is_:
-  same_as: '[[WD~Corded_Ware_Culture,933996]]'
-dv_is_same_as: '[[WD~Corded_Ware_Culture,933996]]'
+  same_as: '[[_Standards/WikiData/WD~Corded_Ware_Culture,933996]]'
+dv_is_same_as: '[[_Standards/WikiData/WD~Corded_Ware_Culture,933996]]'
 instance_of: '[[_Standards/WikiData/WD~archaeological_culture,465299|WD~archaeological_culture,465299]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Category_Corded_Ware_culture,7814673|WD~Category_Corded_Ware_culture,7814673]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Eesti_1000,57005414|WD~Eesti_1000,57005414]]'

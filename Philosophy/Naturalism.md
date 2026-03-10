@@ -140,7 +140,7 @@ dv_has_:
 
 # [[Naturalism]] 
 
-#is_/same_as :: [[WD~Naturalism,56000]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Naturalism,56000]] 
 
 ## #has_/text_of_/abstract 
 

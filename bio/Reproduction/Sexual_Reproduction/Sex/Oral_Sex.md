@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Oral_Sex]] 
 
-#is_/same_as :: [[WD~Oral_sex,2122]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oral_sex,2122]] 
 
 ## #has_/text_of_/abstract 
 

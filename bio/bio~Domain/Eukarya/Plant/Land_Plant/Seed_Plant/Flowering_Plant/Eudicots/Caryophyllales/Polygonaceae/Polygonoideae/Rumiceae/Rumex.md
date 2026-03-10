@@ -241,7 +241,7 @@ dv_has_:
 
 # [[Rumex]] 
 
-#is_/same_as :: [[WD~Rumex,157264]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rumex,157264]] 
 
 ## #has_/text_of_/abstract 
 

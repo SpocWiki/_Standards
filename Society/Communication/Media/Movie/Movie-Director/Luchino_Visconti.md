@@ -185,7 +185,7 @@ dv_has_:
 
 # [[Luchino_Visconti]] 
 
-#is_/same_as :: [[WD~Luchino_Visconti,13888]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Luchino_Visconti,13888]] 
 
 ## #has_/text_of_/abstract 
 

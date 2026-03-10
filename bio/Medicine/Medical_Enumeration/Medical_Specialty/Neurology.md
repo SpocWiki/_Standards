@@ -213,7 +213,7 @@ dv_has_:
 
 # [[Neurology]] 
 
-#is_/same_as :: [[WD~Neurology,83042]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Neurology,83042]] 
 
 ## #has_/text_of_/abstract 
 

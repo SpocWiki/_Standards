@@ -183,7 +183,7 @@ dv_has_:
 
 # [[Punk_Rock]] 
 
-#is_/same_as :: [[WD~Punk_rock,3071]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Punk_rock,3071]] 
 
 ## #has_/text_of_/abstract 
 

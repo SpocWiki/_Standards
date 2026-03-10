@@ -248,7 +248,7 @@ dv_has_:
 
 # [[Mariana_Trench]] 
 
-#is_/same_as :: [[WD~Mariana_Trench,510]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mariana_Trench,510]] 
 
 ## #has_/map  
 

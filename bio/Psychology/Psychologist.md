@@ -289,7 +289,7 @@ Commons_category: Psychologists
 
 # [[Psychologist]]  
 
-#is_/same_as :: [[WD~Psychologist,212980]]
+#is_/same_as :: [[_Standards/WikiData/WD~Psychologist,212980]]
 #is_/worse_than  :: [[Psychiatrist]]  
 
 ## #has_/text_of_/abstract 

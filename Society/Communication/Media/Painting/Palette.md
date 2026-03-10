@@ -105,7 +105,7 @@ Unicode_character: 🎨
 # [[Palette]] 🎨  
 
 #is_/different_from :: [[Pallet]] 
-#is_/same_as :: [[WD~Palette,425548]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Palette,425548]]  
 
 ## #has_/text_of_/abstract 
 

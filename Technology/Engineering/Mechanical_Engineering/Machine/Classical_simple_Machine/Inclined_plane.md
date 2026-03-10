@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Inclined_plane]] 
 
-#is_/same_as :: [[WD~Inclined_plane,161462]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Inclined_plane,161462]] 
 
 ## #has_/text_of_/abstract 
 

@@ -295,7 +295,7 @@ dv_has_:
 
 # [[UNICEF]] 
 
-#is_/same_as :: [[WD~UNICEF,740308]] 
+#is_/same_as :: [[_Standards/WikiData/WD~UNICEF,740308]] 
 
 ## #has_/text_of_/abstract 
 

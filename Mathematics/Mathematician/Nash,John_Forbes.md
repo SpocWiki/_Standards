@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Nash,John_Forbes]] 
 
-#is_/same_as :: [[WD~John_Forbes_Nash,128736]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Forbes_Nash,128736]] 
 
 ## #has_/text_of_/abstract 
 

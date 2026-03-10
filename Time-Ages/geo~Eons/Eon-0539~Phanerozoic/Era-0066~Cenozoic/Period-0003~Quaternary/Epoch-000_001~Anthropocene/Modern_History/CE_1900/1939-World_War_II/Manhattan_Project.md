@@ -233,7 +233,7 @@ dv_has_:
 
 # [[Manhattan_Project]] 
 
-#is_/same_as :: [[WD~Manhattan_Project,127050]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Manhattan_Project,127050]] 
 
 ## #has_/text_of_/abstract 
 

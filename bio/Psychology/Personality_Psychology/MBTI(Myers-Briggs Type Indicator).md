@@ -77,7 +77,7 @@ correlations:
 
 # [[MBTI(Myers-Briggs Type Indicator)]] 
 
-#is_/same_as :: [[WD~Myers–Briggs Type Indicator,897939]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Myers–Briggs Type Indicator,897939]] 
 
 
 ```dataviewjs

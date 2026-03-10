@@ -90,7 +90,7 @@ dv_has_:
     stopped: -283.5e6
 dv_is_:
   same_as:
-  - '[[WD~Artinskian,713094]]'
+  - '[[_Standards/WikiData/WD~Artinskian,713094]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~3~Artinskian|Age~3~Artinskian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~3~Artinskian.public|Age~3~Artinskian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~3~Artinskian.internal|Age~3~Artinskian.internal]]'
@@ -102,7 +102,7 @@ dv_has_duration_years: 6.600e+6
 dv_has_previous_item: '[[Age~2~Sakmarian]]'
 dv_has_next_item: '[[Age~4~Kungurian]]'
 dv_is_same_as:
-- '[[WD~Artinskian,713094]]'
+- '[[_Standards/WikiData/WD~Artinskian,713094]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~3~Artinskian|Age~3~Artinskian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~3~Artinskian.public|Age~3~Artinskian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~3~Artinskian.internal|Age~3~Artinskian.internal]]'
@@ -144,7 +144,7 @@ dv_has_text_of_color: 0xE37B68
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Artinskian,713094]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Artinskian,713094]]  
 
 A time period from 290.1 to 283.5 million years ago.
 

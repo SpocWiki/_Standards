@@ -108,7 +108,7 @@ dv_has_:
 
 # [[Olfactory_System]] 
 
-#is_/same_as :: [[WD~Olfactory_system,1054094]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Olfactory_system,1054094]] 
 
 ## #has_/text_of_/abstract 
 

@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Mirage]] 
 
-#is_/same_as :: [[WD~Mirage,308762]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mirage,308762]] 
 
 ## #has_/text_of_/abstract 
 

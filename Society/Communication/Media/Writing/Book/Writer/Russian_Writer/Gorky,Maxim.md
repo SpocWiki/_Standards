@@ -302,7 +302,7 @@ dv_has_:
 
 # [[Gorky,Maxim]] 
 
-#is_/same_as :: [[WD~Maxim_Gorky,12706]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Maxim_Gorky,12706]] 
 
 ## #has_/text_of_/abstract 
 

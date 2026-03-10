@@ -299,7 +299,7 @@ dv_has_:
 
 # [[Maria_Theresa_of_Austria]] 
 
-#is_/same_as :: [[WD~Maria_Theresa_of_Austria,131706]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Maria_Theresa_of_Austria,131706]] 
 
 ## #has_/text_of_/abstract 
 

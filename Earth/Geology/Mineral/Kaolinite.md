@@ -171,7 +171,7 @@ dv_is_same_as:
 # [[Kaolinite]] 
 
 has_formula_ = `=this.dv_has_formula_`
-#is_/same_as :: [[WD~Kaolinite,223197]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kaolinite,223197]] 
 
 ## #has_/text_of_/abstract 
 

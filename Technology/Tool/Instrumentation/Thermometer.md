@@ -246,7 +246,7 @@ Unicode_character: 🌡
 
 
 
-#is_/same_as :: [[WD~Thermometer,646]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Thermometer,646]] 
 
 ## #has_/text_of_/abstract 
 

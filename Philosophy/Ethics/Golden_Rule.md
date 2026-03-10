@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Golden_Rule]] 
 
-#is_/same_as :: [[WD~Golden_Rule,189573]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Golden_Rule,189573]] 
 
 ## #has_/text_of_/abstract 
 

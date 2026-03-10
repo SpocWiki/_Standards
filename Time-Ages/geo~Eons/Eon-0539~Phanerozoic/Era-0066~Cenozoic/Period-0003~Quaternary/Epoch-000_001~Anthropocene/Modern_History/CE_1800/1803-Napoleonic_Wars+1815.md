@@ -247,7 +247,7 @@ dv_has_:
 
 # [[1803-Napoleonic_Wars+1815]] 
 
-#is_/same_as :: [[WD~Napoleonic_Wars,78994]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Napoleonic_Wars,78994]] 
 
 ## #has_/text_of_/abstract 
 

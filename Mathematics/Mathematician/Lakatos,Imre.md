@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Lakatos,Imre]] 
 
-#is_/same_as :: [[WD~Imre_Lakatos,296249]]
+#is_/same_as :: [[_Standards/WikiData/WD~Imre_Lakatos,296249]]
 
 ## #has_/text_of_/abstract 
 

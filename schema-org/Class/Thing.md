@@ -123,7 +123,7 @@ title: is_a_thing Class
 type: Type
 dv_is_:
   same_as:
-  - '[[WD~Entity,35120]]'
+  - '[[_Standards/WikiData/WD~Entity,35120]]'
   - '[[Thing]]'
   - '[[/_public/schema-org/Class/Thing.public|Thing.public]]'
   - '[[/_internal/schema-org/Class/Thing.internal|Thing.internal]]'
@@ -277,7 +277,7 @@ dv_Predicate:
     'has_url_for_additional_type.md| #has_':
       properties: "[ \"[has_url_for_additional_type]]\", '[[Predicate/Texts/has_name_alternate.md|has_name_alternate]]', \"[[Predicate/Texts/has_description.md|has_description]]\", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url"
 dv_is_same_as:
-- '[[WD~Entity,35120]]'
+- '[[_Standards/WikiData/WD~Entity,35120]]'
 - '[[Thing]]'
 - '[[/_public/schema-org/Class/Thing.public|Thing.public]]'
 - '[[/_internal/schema-org/Class/Thing.internal|Thing.internal]]'
@@ -304,7 +304,7 @@ dv_has_properties:
 
 # [[Thing]]s/Entities/Objects/Instances/Resources 
 
-#is_/same_as :: [[WD~Entity,35120]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Entity,35120]] 
 
 Every Class is a subclass of [[Thing]]. 
 

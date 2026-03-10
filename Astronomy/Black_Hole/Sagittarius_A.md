@@ -148,7 +148,7 @@ dv_has_:
 
 # [[Sagittarius_A]] 
 
-#is_/same_as :: [[WD~Sagittarius_A_,237284]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sagittarius_A_,237284]] 
 
 The supermassive black hole at the center of the Milky Way Galaxy. 
 

@@ -160,7 +160,7 @@ dv_has_:
 
 # [[1076-Investiture_Controversy+1122]] 
 
-#is_/same_as :: [[WD~Investiture_controversy,154764]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Investiture_controversy,154764]] 
 
 ## #has_/text_of_/abstract 
 

@@ -170,7 +170,7 @@ dv_has_:
 
 # [[Parallax]] 
 
-#is_/same_as :: [[WD~Parallax,165074]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parallax,165074]] 
 
 ## #has_/text_of_/abstract 
 

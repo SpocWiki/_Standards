@@ -238,7 +238,7 @@ dv_has_:
 
 # [[Potential_Energy]] 
 
-#is_/same_as :: [[WD~Potential_energy,155640]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Potential_energy,155640]] 
 
 ## #has_/text_of_/abstract 
 

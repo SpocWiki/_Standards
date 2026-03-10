@@ -201,7 +201,7 @@ dv_has_:
 
 # [[Knot(speed)]] 
 
-#is_/same_as :: [[WD~Knot,128822]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Knot,128822]] 
 
 ## #has_/text_of_/abstract 
 

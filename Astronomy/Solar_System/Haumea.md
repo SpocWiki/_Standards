@@ -254,7 +254,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[WD~Haumea,601]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Haumea,601]] 
 
 ## #has_/text_of_/abstract 
 

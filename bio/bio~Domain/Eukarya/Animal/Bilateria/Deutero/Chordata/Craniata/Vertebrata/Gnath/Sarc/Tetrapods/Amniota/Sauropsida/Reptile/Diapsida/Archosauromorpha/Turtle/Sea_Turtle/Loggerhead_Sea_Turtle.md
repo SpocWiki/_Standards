@@ -207,7 +207,7 @@ dv_has_:
 
 # [[Loggerhead_Sea_Turtle]] 
 
-#is_/same_as :: [[WD~Loggerhead_sea_turtle,192095]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Loggerhead_sea_turtle,192095]] 
 
 ## #has_/text_of_/abstract 
 

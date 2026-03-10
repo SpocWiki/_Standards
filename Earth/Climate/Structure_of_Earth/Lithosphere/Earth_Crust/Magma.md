@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Magma]] 
 
-#is_/same_as :: [[WD~Magma,42278]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magma,42278]] 
 
 ## #has_/text_of_/abstract 
 

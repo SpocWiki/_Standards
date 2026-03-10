@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Public_Relations]] 
 
-#is_/same_as :: [[WD~Public_relations,133080]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Public_relations,133080]] 
 
 ## #has_/text_of_/abstract 
 

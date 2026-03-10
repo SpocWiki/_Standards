@@ -141,7 +141,7 @@ dv_has_:
 
 # [[TSMC(Taiwan_Semiconductor)]] Manufacturing Company 
 
-#is_/same_as :: [[WD~TSMC,713418]]
+#is_/same_as :: [[_Standards/WikiData/WD~TSMC,713418]]
 #has_/dependencies :: [[Jenoptik]] 
 #has_/dependents :: [[../../../../../../../../Technology/IT/Computer_Hardware/Apple_Inc|Apple,Company]], [[Nvidia|Nvidia]], [[Qualcomm|Qualcomm]], [[AMD(Advanced_Micro_Devices)|AMD]], [[Broadcom|Broadcom]], [[MediaTek]], [[Intel|Intel]]
 

@@ -106,7 +106,7 @@ dv_has_:
     stopped: -93.9e6
 dv_is_:
   same_as:
-  - '[[WD~Cenomanian,185567]]'
+  - '[[_Standards/WikiData/WD~Cenomanian,185567]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.public|Age~1~Cenomanian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.internal|Age~1~Cenomanian.internal]]'
@@ -118,7 +118,7 @@ dv_has_duration_years: 6.600e+6
 dv_has_previous_item: '[[../Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]'
 dv_has_next_item: '[[Age~2~Turonian]]'
 dv_is_same_as:
-- '[[WD~Cenomanian,185567]]'
+- '[[_Standards/WikiData/WD~Cenomanian,185567]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.public|Age~1~Cenomanian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.internal|Age~1~Cenomanian.internal]]'
@@ -162,7 +162,7 @@ A time period from 100.5 to 93.9 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Cenomanian,185567]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Cenomanian,185567]] 
 
 ## #has_/text_of_/abstract 
 

@@ -141,7 +141,7 @@ dv_has_:
 
 # [[Pilosa]] 
 
-#is_/same_as :: [[WD~Pilosa,143441]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pilosa,143441]] 
 
 ## #has_/text_of_/abstract 
 

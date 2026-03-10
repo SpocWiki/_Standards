@@ -183,7 +183,7 @@ dv_has_:
 
 # [[Mid-Atlantic_Ridge]] 
 
-#is_/same_as :: [[WD~Mid-Atlantic_Ridge,207313]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mid-Atlantic_Ridge,207313]] 
 
 ## #has_/text_of_/abstract 
 

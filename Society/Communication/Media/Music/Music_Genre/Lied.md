@@ -89,7 +89,7 @@ dv_has_:
 
 # [[Lied]] 
 
-#is_/same_as :: [[WD~Lied,216860]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lied,216860]] 
 
 ## #has_/text_of_/abstract 
 

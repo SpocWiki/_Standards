@@ -105,7 +105,7 @@ dv_has_:
     stopped: -170.9e6
 dv_is_:
   same_as:
-  - '[[WD~Aalenian,300887]]'
+  - '[[_Standards/WikiData/WD~Aalenian,300887]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.public|Age~1~Aalenian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.internal|Age~1~Aalenian.internal]]'
@@ -117,7 +117,7 @@ dv_has_duration_years: 3.800e+6
 dv_has_previous_item: '[[../Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]'
 dv_has_next_item: '[[Age~2~Bajocian]]'
 dv_is_same_as:
-- '[[WD~Aalenian,300887]]'
+- '[[_Standards/WikiData/WD~Aalenian,300887]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.public|Age~1~Aalenian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.internal|Age~1~Aalenian.internal]]'
@@ -161,7 +161,7 @@ A time period from 174.7 to 170.9 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Aalenian,300887]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Aalenian,300887]] 
 
 ## #has_/text_of_/abstract 
 

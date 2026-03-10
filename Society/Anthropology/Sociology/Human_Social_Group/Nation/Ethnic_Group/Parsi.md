@@ -167,7 +167,7 @@ dv_has_:
 
 # [[Parsi]] 
 
-#is_/same_as :: [[WD~Parsi,200263]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parsi,200263]] 
 
 ## #has_/text_of_/abstract 
 

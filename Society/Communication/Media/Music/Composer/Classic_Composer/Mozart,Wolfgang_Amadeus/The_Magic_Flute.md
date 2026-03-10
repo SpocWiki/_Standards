@@ -182,7 +182,7 @@ dv_has_:
 
 # [[The_Magic_Flute]] 
 
-#is_/same_as :: [[WD~The_Magic_Flute,5064]] 
+#is_/same_as :: [[_Standards/WikiData/WD~The_Magic_Flute,5064]] 
 
 ## #has_/text_of_/abstract 
 

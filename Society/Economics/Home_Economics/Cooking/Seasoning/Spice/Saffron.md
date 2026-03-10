@@ -199,7 +199,7 @@ dv_has_:
 
 # [[Saffron]] 
 
-#is_/same_as :: [[WD~Saffron,25434]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Saffron,25434]] 
 
 ## #has_/text_of_/abstract 
 

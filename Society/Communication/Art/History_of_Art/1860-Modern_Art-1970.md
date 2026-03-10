@@ -156,7 +156,7 @@ dv_has_:
 
 # [[1860-Modern_Art-1970]] 
 
-#is_/same_as :: [[WD~Modern_art,38166]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Modern_art,38166]] 
 
 ## #has_/text_of_/abstract 
 

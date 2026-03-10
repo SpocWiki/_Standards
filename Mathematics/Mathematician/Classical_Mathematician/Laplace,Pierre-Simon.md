@@ -305,7 +305,7 @@ dv_has_:
 
 # [[Laplace,Pierre-Simon]] 
 
-#is_/same_as :: [[WD~Pierre-Simon_Laplace,44481]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pierre-Simon_Laplace,44481]] 
 
 ## #has_/text_of_/abstract 
 

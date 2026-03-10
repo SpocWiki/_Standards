@@ -104,7 +104,7 @@ dv_has_:
 
 # [[Mimesis]] 
 
-#is_/same_as :: [[WD~Mimesis,468427]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mimesis,468427]] 
 
 ## #has_/text_of_/abstract 
 

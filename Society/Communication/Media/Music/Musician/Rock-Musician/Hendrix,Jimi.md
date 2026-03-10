@@ -270,7 +270,7 @@ dv_has_:
 
 # [[Hendrix,Jimi]] 
 
-#is_/same_as :: [[WD~Jimi_Hendrix,5928]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jimi_Hendrix,5928]] 
 
 ## #has_/text_of_/abstract 
 

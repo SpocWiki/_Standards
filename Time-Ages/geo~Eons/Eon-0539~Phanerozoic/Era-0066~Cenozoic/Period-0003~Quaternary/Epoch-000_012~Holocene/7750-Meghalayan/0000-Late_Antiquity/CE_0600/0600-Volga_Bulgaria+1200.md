@@ -215,7 +215,7 @@ dv_has_:
 
 # [[0600-Volga_Bulgaria+1200]] 
 
-#is_/same_as :: [[WD~Volga_Bulgaria,185488]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Volga_Bulgaria,185488]] 
 
 ## #has_/text_of_/abstract 
 

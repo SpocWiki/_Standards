@@ -84,7 +84,7 @@ dv_has_:
 
 # [[Pleurotaceae]] 
 
-#is_/same_as :: [[WD~Pleurotaceae,7319414]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pleurotaceae,7319414]] 
 
 ## #has_/text_of_/abstract 
 

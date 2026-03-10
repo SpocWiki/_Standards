@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Plaster]] 
 
-#is_/same_as :: [[WD~Plaster,274988]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plaster,274988]] 
 
 ## #has_/text_of_/abstract 
 

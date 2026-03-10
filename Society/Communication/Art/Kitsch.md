@@ -104,7 +104,7 @@ aliases:
 
 # [[Kitsch]] 
 
-#is_/same_as :: [[WD~Kitsch,131711]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Kitsch,131711]]  
 
 ## #has_/text_of_/abstract 
 

@@ -132,7 +132,7 @@ dv_has_:
 
 # [[ICOMOS(International_Council_on_Monuments_and_Sites)]] 
 
-#is_/same_as :: [[WD~International_Council_on_Monuments_and_Sites,273138]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Council_on_Monuments_and_Sites,273138]] 
 
 ## #has_/text_of_/abstract 
 

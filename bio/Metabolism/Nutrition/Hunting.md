@@ -330,7 +330,7 @@ dv_has_:
 
 # [[Hunting]] 
 
-#is_/same_as :: [[WD~Hunting,36963]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hunting,36963]] 
 
 ## #has_/text_of_/abstract 
 

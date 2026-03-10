@@ -296,7 +296,7 @@ dv_has_:
 
 # [[Rolling_Stones]] 
 
-#is_/same_as :: [[WD~The_Rolling_Stones,11036]] 
+#is_/same_as :: [[_Standards/WikiData/WD~The_Rolling_Stones,11036]] 
 
 ## #has_/text_of_/abstract 
 

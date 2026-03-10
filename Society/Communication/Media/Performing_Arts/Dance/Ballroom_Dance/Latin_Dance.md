@@ -82,7 +82,7 @@ dv_has_:
 
 # [[Latin_Dance]] 
 
-#is_/same_as :: [[WD~Latin_dance,1457972]]
+#is_/same_as :: [[_Standards/WikiData/WD~Latin_dance,1457972]]
 
 ## #has_/text_of_/abstract 
 

@@ -286,7 +286,7 @@ dv_has_:
 
 # [[Pound_Sterling]] 
 
-#is_/same_as :: [[WD~Pound_sterling,25224]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pound_sterling,25224]] 
 
 ## #has_/text_of_/abstract 
 

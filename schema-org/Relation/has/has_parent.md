@@ -39,7 +39,7 @@ dv_has_:
 dv_has_parent: "[[../../../Society/Agent/Person|Person]]"
 dv_is_:
   same_as:
-    - "[[WD~P40]]"
+    - "[[_Standards/WikiData/WD~P40]]"
     - "[[has_parent]]"
     - "[[/_public/schema-org/Relation/has/has_parent.public|has_parent.public]]"
     - "[[/_internal/schema-org/Relation/has/has_parent.internal|has_parent.internal]]"
@@ -50,7 +50,7 @@ dv_is_:
 dv_has_parent_relation: "[[has_parent/has_creator|has_creator]]"
 dv_has_inverse: "[[has_child]]"
 dv_is_same_as:
-  - "[[WD~P40]]"
+  - "[[_Standards/WikiData/WD~P40]]"
   - "[[has_parent]]"
   - "[[/_public/schema-org/Relation/has/has_parent.public|has_parent.public]]"
   - "[[/_internal/schema-org/Relation/has/has_parent.internal|has_parent.internal]]"
@@ -68,7 +68,7 @@ dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 has_inverse = `=this.dv_has_inverse` 
 has_parent_relation = `=this.dv_has_parent_relation` 
 
-#is_/same_as :: [[WD~P40]] 
+#is_/same_as :: [[_Standards/WikiData/WD~P40]] 
 
 Use it like this: 
 - #has_/parent : : [[../../../Society/Agent/Person|Person]]  

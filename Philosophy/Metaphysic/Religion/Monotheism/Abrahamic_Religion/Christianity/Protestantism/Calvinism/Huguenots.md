@@ -185,7 +185,7 @@ dv_has_:
 
 # [[Huguenots]] 
 
-#is_/same_as :: [[WD~Huguenots,101935]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Huguenots,101935]] 
 
 ## #has_/text_of_/abstract 
 

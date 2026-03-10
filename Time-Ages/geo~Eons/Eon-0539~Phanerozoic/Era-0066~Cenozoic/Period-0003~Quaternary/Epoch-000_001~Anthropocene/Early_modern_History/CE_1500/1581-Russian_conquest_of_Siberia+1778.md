@@ -127,7 +127,7 @@ dv_has_:
 
 # [[1581-Russian_conquest_of_Siberia+1778]] 
 
-#is_/same_as :: [[WD~Russian_conquest_of_Siberia,735349]]
+#is_/same_as :: [[_Standards/WikiData/WD~Russian_conquest_of_Siberia,735349]]
 
 ## #has_/text_of_/abstract 
 

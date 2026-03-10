@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Merovingian_Dynasty]] 
 
-#is_/same_as :: [[WD~Merovingian_dynasty,59488]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Merovingian_dynasty,59488]] 
 
 ## #has_/text_of_/abstract 
 

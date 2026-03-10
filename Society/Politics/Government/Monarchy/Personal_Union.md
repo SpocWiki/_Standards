@@ -152,7 +152,7 @@ dv_has_:
 
 # [[Personal_Union]] 
 
-#is_/same_as :: [[WD~Personal_union,188800]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Personal_union,188800]] 
 
 ## #has_/text_of_/abstract 
 

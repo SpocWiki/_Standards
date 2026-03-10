@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Stereotype]] 
 
-#is_/same_as :: [[WD~Stereotype,167172]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Stereotype,167172]] 
 
 ## #has_/text_of_/abstract 
 

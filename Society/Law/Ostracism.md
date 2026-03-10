@@ -138,7 +138,7 @@ dv_has_:
 
 # [[Ostracism]] 
 
-#is_/same_as :: [[WD~Ostracism,186240]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ostracism,186240]] 
 
 ## #has_/text_of_/abstract 
 

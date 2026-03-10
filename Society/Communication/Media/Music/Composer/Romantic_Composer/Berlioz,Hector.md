@@ -280,7 +280,7 @@ dv_has_:
 
 # [[Berlioz,Hector]] 
 
-#is_/same_as :: [[WD~Hector_Berlioz,1151]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hector_Berlioz,1151]] 
 
 ## #has_/text_of_/abstract 
 

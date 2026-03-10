@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Modern_Dance]] 
 
-#is_/same_as :: [[WD~Modern_dance,850130]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Modern_dance,850130]] 
 
 ## #has_/text_of_/abstract 
 

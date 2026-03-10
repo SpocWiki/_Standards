@@ -137,7 +137,7 @@ dv_has_:
 
 # [[Mandelbrot_Set]] 
 
-#is_/same_as :: [[WD~Mandelbrot_set,257]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mandelbrot_set,257]] 
 
 ## #has_/text_of_/abstract 
 

@@ -155,7 +155,7 @@ dv_has_:
 
 # [[Sanitation]] 
 
-#is_/same_as :: [[WD~Sanitation,949149]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sanitation,949149]] 
 
 ## #has_/text_of_/abstract 
 

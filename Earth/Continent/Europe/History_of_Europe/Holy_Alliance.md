@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Holy_Alliance]] 
 
-#is_/same_as :: [[WD~Holy_Alliance,154640]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Holy_Alliance,154640]] 
 
 ## #has_/text_of_/abstract 
 

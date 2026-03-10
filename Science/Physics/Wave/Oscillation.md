@@ -202,7 +202,7 @@ dv_has_:
 
 # [[Oscillation]] 
 
-#is_/same_as :: [[WD~Oscillation,170475]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oscillation,170475]] 
 
 ## #has_/text_of_/abstract 
 

@@ -135,7 +135,7 @@ dv_has_:
 
 # [[Tocharians]] 
 
-#is_/same_as :: [[WD~Tocharians,192858]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Tocharians,192858]] 
 
 ## #has_/text_of_/abstract 
 

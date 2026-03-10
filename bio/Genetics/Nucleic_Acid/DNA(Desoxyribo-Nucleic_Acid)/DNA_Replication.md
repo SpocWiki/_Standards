@@ -172,7 +172,7 @@ dv_has_:
     zh_sg: 脱氧核糖核酸复制
     zh_tw: 脫氧核糖核酸複製
 ---
-#is_/same_as :: [[WD~DNA_Replication,130996]] 
+#is_/same_as :: [[_Standards/WikiData/WD~DNA_Replication,130996]] 
 
 # [[DNA_Replication]] 
 

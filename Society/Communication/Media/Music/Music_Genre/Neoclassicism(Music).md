@@ -82,7 +82,7 @@ dv_has_:
 
 # [[Neoclassicism(Music)]] 
 
-#is_/same_as :: [[WD~Neoclassicism,535611]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Neoclassicism,535611]] 
 
 ## #has_/text_of_/abstract 
 

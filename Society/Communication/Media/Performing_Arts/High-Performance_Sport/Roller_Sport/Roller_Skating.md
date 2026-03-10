@@ -117,7 +117,7 @@ dv_has_:
 
 # [[Roller_Skating]] 
 
-#is_/same_as :: [[WD~Roller_skating,1707432]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Roller_skating,1707432]] 
 
 ## #has_/text_of_/abstract 
 

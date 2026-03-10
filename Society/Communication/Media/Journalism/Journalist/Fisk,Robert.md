@@ -148,7 +148,7 @@ dv_has_:
 
 # [[Fisk,Robert]] 
 
-#is_/same_as :: [[WD~Robert_Fisk,310900]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Fisk,310900]] 
 
 ## #has_/text_of_/abstract 
 

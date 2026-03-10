@@ -208,7 +208,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[WD~Hourglass,179904]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hourglass,179904]] 
 
 ## #has_/text_of_/abstract 
 

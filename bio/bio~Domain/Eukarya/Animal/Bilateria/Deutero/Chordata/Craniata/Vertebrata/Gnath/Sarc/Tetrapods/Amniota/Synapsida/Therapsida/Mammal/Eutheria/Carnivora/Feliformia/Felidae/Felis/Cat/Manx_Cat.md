@@ -92,7 +92,7 @@ dv_has_:
 
 # [[Manx_Cat]] 
 
-#is_/same_as :: [[WD~Manx,42675]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Manx,42675]] 
 
 ## #has_/text_of_/abstract 
 

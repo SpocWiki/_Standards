@@ -329,7 +329,7 @@ dv_has_:
 
 # [[Zuckerberg,Mark]] 
 
-#is_/same_as :: [[WD~Mark_Zuckerberg,36215]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mark_Zuckerberg,36215]] 
 
 ## #has_/text_of_/abstract 
 

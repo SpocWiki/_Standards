@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Hilbert's_Problems]] 
 
-#is_/same_as :: [[WD~Hilbert's_problems,273167]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hilbert's_problems,273167]] 
 
 ## #has_/text_of_/abstract 
 

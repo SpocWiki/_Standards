@@ -104,7 +104,7 @@ dv_has_:
 
 # [[Menno_Simons]] 
 
-#is_/same_as :: [[WD~Menno_Simons,335171]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Menno_Simons,335171]] 
 
 ## #has_/text_of_/abstract 
 

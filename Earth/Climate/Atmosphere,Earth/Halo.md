@@ -167,7 +167,7 @@ dv_has_:
 
 # [[Halo]] 
 
-#is_/same_as :: [[WD~Halo,186310]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Halo,186310]] 
 
 ## #has_/text_of_/abstract 
 

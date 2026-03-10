@@ -363,7 +363,7 @@ dv_has_:
 
 # [[Saint_Peter]] 
 
-#is_/same_as :: [[WD~Peter,33923]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peter,33923]] 
 
 ## #has_/text_of_/abstract 
 

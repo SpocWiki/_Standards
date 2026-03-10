@@ -255,7 +255,7 @@ dv_has_:
 
 # [[Samaranch,Juan_Antonio]] 
 
-#is_/same_as :: [[WD~Juan_Antonio_Samaranch,171166]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Juan_Antonio_Samaranch,171166]] 
 
 ## #has_/text_of_/abstract 
 

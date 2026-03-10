@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Pomegranate]] 
 
-#is_/same_as :: [[WD~Pomegranate,13222088]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pomegranate,13222088]] 
 
 ## #has_/text_of_/abstract 
 

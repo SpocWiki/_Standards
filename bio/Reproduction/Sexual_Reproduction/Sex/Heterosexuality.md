@@ -260,7 +260,7 @@ Unicode_character: ⚤
 
 
 
-#is_/same_as :: [[WD~Heterosexuality,1035954]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heterosexuality,1035954]] 
 
 ## #has_/text_of_/abstract 
 

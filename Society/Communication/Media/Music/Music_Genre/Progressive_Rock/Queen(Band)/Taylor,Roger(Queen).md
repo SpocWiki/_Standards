@@ -176,7 +176,7 @@ dv_has_:
 # [[Taylor,Roger(Queen)]] 
 
 #has_/time_/started :: 1949-07-26 
-#is_/same_as :: [[WD~Roger_Taylor,15880]]
+#is_/same_as :: [[_Standards/WikiData/WD~Roger_Taylor,15880]]
 
 ## #has_/text_of_/abstract  
 

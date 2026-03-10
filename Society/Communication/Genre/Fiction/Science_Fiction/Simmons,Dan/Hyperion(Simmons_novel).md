@@ -44,7 +44,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Shrike%20time%20tombs.
 
 # [[Hyperion(Simmons_novel)]] 
 
-#is_/same_as :: [[WD~Hyperion_(Simmons_novel),1798059]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hyperion_(Simmons_novel),1798059]] 
 
 ## #has_/text_of_/abstract 
 

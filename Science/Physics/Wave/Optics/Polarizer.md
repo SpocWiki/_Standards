@@ -80,7 +80,7 @@ dv_has_:
 
 # [[Polarizer]] 
 
-#is_/same_as :: [[WD~Polarizer,11942175]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polarizer,11942175]] 
 
 ## #has_/text_of_/abstract 
 

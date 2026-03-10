@@ -234,7 +234,7 @@ dv_has_:
 
 # [[Seal]] 
 
-#is_/same_as :: [[WD~Pinnipedia,30263]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pinnipedia,30263]] 
 
 ## #has_/text_of_/abstract 
 

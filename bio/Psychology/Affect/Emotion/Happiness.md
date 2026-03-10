@@ -322,7 +322,7 @@ Unicode_character: 😃
 
 #has_/complement :: [[Suffering]] 
 #is_/different_from :: [[Pleasure]] 
-#is_/same_as :: [[WD~Happiness,8]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Happiness,8]] 
 
 Happiness = Situation - Expectation  
 

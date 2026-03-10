@@ -763,7 +763,7 @@ dv_has_:
     zh_tw: 亞油酸
 dv_is_:
   same_as:
-  - '[[WD~Linoleic_Acid,407426]]'
+  - '[[_Standards/WikiData/WD~Linoleic_Acid,407426]]'
   - '[[Linoleic_Acid]]'
   - '[[/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.public|Linoleic_Acid.public]]'
   - '[[/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.internal|Linoleic_Acid.internal]]'
@@ -773,7 +773,7 @@ dv_is_:
   - '[[/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.secret|Linoleic_Acid.secret]]'
 dv_has_formula_structural: CH3(CH2)4CH=CHCH2CH=CH(CH2)7COOH
 dv_is_same_as:
-- '[[WD~Linoleic_Acid,407426]]'
+- '[[_Standards/WikiData/WD~Linoleic_Acid,407426]]'
 - '[[Linoleic_Acid]]'
 - '[[/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.public|Linoleic_Acid.public]]'
 - '[[/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.internal|Linoleic_Acid.internal]]'
@@ -786,7 +786,7 @@ dv_is_same_as:
 # [[Linoleic_Acid]] 
 
  has_formula_structural = `$= dv.current.dv_has_formula_structural` 
-#is_/same_as :: [[WD~Linoleic_Acid,407426]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Linoleic_Acid,407426]] 
 
 ## #has_/text_of_/abstract 
 

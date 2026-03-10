@@ -132,7 +132,7 @@ dv_has_:
 
 # [[Heath]] 
 
-#is_/same_as :: [[WD~Heath,27590]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heath,27590]] 
 
 ## #has_/text_of_/abstract 
 

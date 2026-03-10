@@ -322,7 +322,7 @@ dv_has_:
 
 # [[Radio_Communication]] 
 
-#is_/same_as :: [[WD~Radio_communications,872]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Radio_communications,872]] 
 
 ## #has_/text_of_/abstract 
 

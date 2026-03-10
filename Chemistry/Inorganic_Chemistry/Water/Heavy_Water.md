@@ -216,7 +216,7 @@ dv_has_:
 
 # [[Heavy_Water]] 
 
-#is_/same_as :: [[WD~Heavy_water,155890]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heavy_water,155890]] 
 
 ## #has_/text_of_/abstract 
 

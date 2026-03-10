@@ -269,7 +269,7 @@ dv_has_:
 
 # [[Orbit]] 
 
-#is_/same_as  :: [[WD~Orbit,4130]] 
+#is_/same_as  :: [[_Standards/WikiData/WD~Orbit,4130]] 
 
 ## #has_/text_of_/abstract 
 

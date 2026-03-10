@@ -151,7 +151,7 @@ dv_has_:
 
 # [[Madame_Butterfly]] 
 
-#is_/same_as :: [[WD~Madama_Butterfly,19005]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Madama_Butterfly,19005]] 
 
 ## #has_/text_of_/abstract 
 

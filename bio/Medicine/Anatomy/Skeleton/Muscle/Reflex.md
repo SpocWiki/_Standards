@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Reflex]] 
 
-#is_/same_as :: [[WD~Reflex,179405]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Reflex,179405]] 
 
 ## #has_/text_of_/abstract 
 

@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Metcalfe,Robert]] 
 
-#is_/same_as :: [[WD~Robert_Metcalfe,92766]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Metcalfe,92766]] 
 
 ## #has_/text_of_/abstract 
 

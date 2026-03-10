@@ -194,7 +194,7 @@ dv_has_:
 
 # [[Ionosphere]] 
 
-#is_/same_as :: [[WD~Ionosphere,162219]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ionosphere,162219]] 
 
 ## #has_/text_of_/abstract 
 

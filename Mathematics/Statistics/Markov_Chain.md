@@ -137,7 +137,7 @@ dv_has_:
 
 # [[Markov_Chain]] 
 
-#is_/same_as :: [[WD~Markov_chain,176645]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Markov_chain,176645]] 
 
 ## #has_/text_of_/abstract 
 

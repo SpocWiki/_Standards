@@ -167,7 +167,7 @@ dv_has_:
 # [[Rule_of_Law]] 
 
 #has_/complement :: [[Rule_of_Man]]
-#is_/same_as :: [[WD~Rule_of_law,44918]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rule_of_law,44918]] 
 
 ## #has_/text_of_/abstract 
 

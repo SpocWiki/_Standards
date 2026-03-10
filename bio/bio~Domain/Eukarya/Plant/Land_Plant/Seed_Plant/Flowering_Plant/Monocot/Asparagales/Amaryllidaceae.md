@@ -153,7 +153,7 @@ aliases:
 
 # [[Amaryllidaceae]] 
 
-#is_/same_as :: [[wd~Amaryllidaceae,]]
+#is_/same_as :: [[_Standards/WikiData/WD~Amaryllidaceae,]]
 
 ## #has_/text_of_/abstract 
 

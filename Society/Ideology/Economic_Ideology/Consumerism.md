@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Consumerism]] 
 
-#is_/same_as :: [[WD~Consumerism,89640]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Consumerism,89640]] 
 
 Modern Consumerism not only focuses on accumulating physical Goods, 
 but also on collecting as many Experiences as possible, especially romantic Experiences. 

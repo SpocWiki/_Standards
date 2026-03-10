@@ -247,7 +247,7 @@ dv_has_:
 
 # [[Leisure]] 
 
-#is_/same_as :: [[WD~Leisure,180910]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leisure,180910]] 
 ## #has_/text_of_/abstract 
 
 > **Leisure** has often been defined as a quality of experience or as free time. 

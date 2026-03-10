@@ -195,7 +195,7 @@ dv_has_:
 
 # [[1919-Polish–Soviet_War+1921]] 
 
-#is_/same_as :: [[WD~Polish–Soviet_War,186284]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polish–Soviet_War,186284]] 
 
 ## #has_/text_of_/abstract 
 

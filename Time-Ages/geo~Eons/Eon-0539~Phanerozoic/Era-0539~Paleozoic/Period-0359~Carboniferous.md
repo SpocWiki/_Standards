@@ -213,7 +213,7 @@ dv_has_:
     stopped: -298.9e6
 dv_is_:
   same_as:
-  - '[[WD~Carboniferous,133738]]'
+  - '[[_Standards/WikiData/WD~Carboniferous,133738]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous|Period-0359~Carboniferous]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.public|Period-0359~Carboniferous.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.internal|Period-0359~Carboniferous.internal]]'
@@ -225,7 +225,7 @@ dv_has_duration_years: 6.000e+7
 dv_has_previous_item: '[[Period-0419~Devonian]]'
 dv_has_next_item: '[[Period-0299~Permian]]'
 dv_is_same_as:
-- '[[WD~Carboniferous,133738]]'
+- '[[_Standards/WikiData/WD~Carboniferous,133738]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous|Period-0359~Carboniferous]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.public|Period-0359~Carboniferous.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.internal|Period-0359~Carboniferous.internal]]'
@@ -267,7 +267,7 @@ dv_has_text_of_color: 0x67A599
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Carboniferous,133738]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Carboniferous,133738]] 
 
 A time period from 358.9 to 298.9 million years ago. 
 

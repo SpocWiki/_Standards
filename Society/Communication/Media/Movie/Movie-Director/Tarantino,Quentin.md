@@ -209,7 +209,7 @@ dv_has_:
 
 # [[Tarantino,Quentin]] 
 
-#is_/same_as :: [[WD~Quentin_Tarantino,3772]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Quentin_Tarantino,3772]] 
 
 ## #has_/text_of_/abstract 
 

@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Main_Sequence]] 
 
-#is_/same_as :: [[WD~Main_sequence,3450]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Main_sequence,3450]] 
 
 ## #has_/text_of_/abstract 
 

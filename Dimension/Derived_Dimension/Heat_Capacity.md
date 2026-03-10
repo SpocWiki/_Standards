@@ -197,7 +197,7 @@ dv_has_:
 
 # [[Heat_Capacity]] 
 
-#is_/same_as :: [[WD~Heat_capacity,179388]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heat_capacity,179388]] 
 
 ## #has_/text_of_/abstract 
 

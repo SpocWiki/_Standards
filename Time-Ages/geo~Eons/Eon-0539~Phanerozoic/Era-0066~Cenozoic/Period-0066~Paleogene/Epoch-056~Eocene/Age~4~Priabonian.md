@@ -101,7 +101,7 @@ dv_has_:
     stopped: -33.90e6
 dv_is_:
   same_as:
-  - '[[WD~Priabonian,508438]]'
+  - '[[_Standards/WikiData/WD~Priabonian,508438]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.public|Age~4~Priabonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.internal|Age~4~Priabonian.internal]]'
@@ -113,7 +113,7 @@ dv_has_duration_years: 3.810e+6
 dv_has_previous_item: '[[Age~3~Bartonian]]'
 dv_has_next_item: '[[../Epoch-034~Oligocene/Age~1~Rupelian|Age~1~Rupelian]]'
 dv_is_same_as:
-- '[[WD~Priabonian,508438]]'
+- '[[_Standards/WikiData/WD~Priabonian,508438]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.public|Age~4~Priabonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.internal|Age~4~Priabonian.internal]]'
@@ -157,7 +157,7 @@ A time period from 37.71 to 33.9 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Priabonian,508438]]
+#is_/same_as :: [[_Standards/WikiData/WD~Priabonian,508438]]
 
 ## #has_/text_of_/abstract 
 

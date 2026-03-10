@@ -86,7 +86,7 @@ dv_has_:
     stopped: -251.2e6
 dv_is_:
   same_as:
-  - '[[WD~Olenekian,914322]]'
+  - '[[_Standards/WikiData/WD~Olenekian,914322]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.public|Age~2~Olenekian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.internal|Age~2~Olenekian.internal]]'
@@ -98,7 +98,7 @@ dv_has_duration_years: -4.000e+6
 dv_has_previous_item: '[[Age~1~Induan]]'
 dv_has_next_item: '[[../Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]]'
 dv_is_same_as:
-- '[[WD~Olenekian,914322]]'
+- '[[_Standards/WikiData/WD~Olenekian,914322]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.public|Age~2~Olenekian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.internal|Age~2~Olenekian.internal]]'
@@ -140,7 +140,7 @@ dv_has_text_of_color: 0xB051A5
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Olenekian,914322]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Olenekian,914322]] 
 
 A time period from 247.2 to 251.2 million years ago. 
 

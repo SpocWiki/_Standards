@@ -215,7 +215,7 @@ dv_has_:
 
 # [[Ophthalmology]] 
 
-#is_/same_as :: [[WD~Ophthalmology,161437]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ophthalmology,161437]] 
 
 ## #has_/text_of_/abstract 
 

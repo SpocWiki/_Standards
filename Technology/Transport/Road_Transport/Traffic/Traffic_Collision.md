@@ -260,7 +260,7 @@ dv_has_:
 
 # [[Traffic_Collision]] 
 
-#is_/same_as :: [[WD~Traffic_collision,9687]]
+#is_/same_as :: [[_Standards/WikiData/WD~Traffic_collision,9687]]
 
 ## #has_/text_of_/abstract 
 

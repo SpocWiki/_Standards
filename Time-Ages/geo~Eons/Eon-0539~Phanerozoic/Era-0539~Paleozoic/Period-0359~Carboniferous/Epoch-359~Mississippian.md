@@ -53,7 +53,7 @@ end_time: -323200000-01-01T00:00:00Z
 start_time: -358900000-01-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[WD~Mississippian,744718]]'
+  - '[[_Standards/WikiData/WD~Mississippian,744718]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian|Epoch-359~Mississippian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.public|Epoch-359~Mississippian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.internal|Epoch-359~Mississippian.internal]]'
@@ -118,7 +118,7 @@ dv_has_:
     started: -358.9e6
     stopped: -323.2e6
 dv_is_same_as:
-- '[[WD~Mississippian,744718]]'
+- '[[_Standards/WikiData/WD~Mississippian,744718]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian|Epoch-359~Mississippian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.public|Epoch-359~Mississippian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.internal|Epoch-359~Mississippian.internal]]'
@@ -155,7 +155,7 @@ dv_has_text_of_color: 0x678F66
 # [[Epoch-359~Mississippian]] 
 
 #is_a_/time_/Period 
-#is_/same_as :: [[WD~Mississippian,744718]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Mississippian,744718]]  
 
 A time period from 358.9 to 323.2 million years ago. 
 

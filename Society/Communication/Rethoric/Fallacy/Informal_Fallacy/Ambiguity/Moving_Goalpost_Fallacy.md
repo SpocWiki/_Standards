@@ -40,7 +40,7 @@ dv_has_:
 
 # [[Moving_Goalpost_Fallacy]] 
 
-#is_/same_as :: [[WD~Moving_the_goalposts,3244473]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Moving_the_goalposts,3244473]] 
 #has_/examples :: By constantly testing the borders, e.g. via [[../../../../../Propaganda|Propaganda]], the [[Moving_Goalpost_Fallacy/Overton_Window|Overton_Window]] can be moved. 
 
 

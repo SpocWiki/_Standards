@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Gravel]] 
 
-#is_/same_as :: [[WD~Gravel,133833]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gravel,133833]] 
 
 ## #has_/text_of_/abstract 
 

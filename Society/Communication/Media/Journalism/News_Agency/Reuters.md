@@ -298,7 +298,7 @@ dv_has_:
 
 # [[Reuters]] 
 
-#is_/same_as :: [[WD~Reuters,130879]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Reuters,130879]] 
 
 ## #has_/text_of_/abstract 
 

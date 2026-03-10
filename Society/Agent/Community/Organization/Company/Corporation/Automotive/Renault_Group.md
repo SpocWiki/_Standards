@@ -333,7 +333,7 @@ dv_has_:
 
 # [[Renault_Group]] 
 
-#is_/same_as :: [[WD~Renault_S.A.,6686]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Renault_S.A.,6686]] 
 
 ## #has_/text_of_/abstract 
 

@@ -354,7 +354,7 @@ dv_has_:
 
 # [[Tintoretto,Jacopo]] 
 
-#is_/same_as :: [[WD~Jacopo_Tintoretto,9319]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jacopo_Tintoretto,9319]] 
 
 ## #has_/text_of_/abstract 
 

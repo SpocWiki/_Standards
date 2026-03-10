@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Wire]] 
 
-#is_/same_as :: [[WD~Wire,551997]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Wire,551997]] 
 #is_/different_from :: [[Electrical_Cable|Cable]] 
 
 ## #has_/text_of_/abstract 

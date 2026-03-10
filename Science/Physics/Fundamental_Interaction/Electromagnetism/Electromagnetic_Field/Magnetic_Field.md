@@ -265,7 +265,7 @@ dv_has_:
 
 # [[Magnetic_Field]] 
 
-#is_/same_as :: [[WD~Magnetic_field,11408]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magnetic_field,11408]] 
 
 ## #has_/text_of_/abstract 
 

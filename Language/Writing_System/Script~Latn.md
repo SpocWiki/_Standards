@@ -455,7 +455,7 @@ dv_has_:
 
 # [[Script~Latn]] 
 
-#is_/same_as :: [[WD~Latin_script,8229]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Latin_script,8229]] 
 
 ## #has_/text_of_/abstract 
 

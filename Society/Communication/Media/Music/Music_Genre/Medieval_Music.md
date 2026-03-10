@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Medieval_Music]] 
 
-#is_/same_as :: [[WD~Medieval_music,163775]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Medieval_music,163775]] 
 
 ## #has_/text_of_/abstract 
 

@@ -329,7 +329,7 @@ Unicode_character: 👞
 
 
 
-#is_/same_as :: [[WD~Shoe,22676]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Shoe,22676]] 
 
 ## #has_/text_of_/abstract 
 

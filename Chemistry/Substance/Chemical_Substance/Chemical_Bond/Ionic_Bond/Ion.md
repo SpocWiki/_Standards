@@ -256,7 +256,7 @@ dv_has_:
 
 # [[Ion]] 
 
-#is_/same_as :: [[WD~Ion,36496]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ion,36496]] 
 
 ## #has_/text_of_/abstract 
 

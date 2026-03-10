@@ -272,7 +272,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[WD~Printer,82]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Printer,82]] 
 
 ## #has_/text_of_/abstract 
 

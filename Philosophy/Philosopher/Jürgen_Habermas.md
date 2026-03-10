@@ -293,7 +293,7 @@ dv_has_:
 
 # [[Jürgen_Habermas]] 
 
-#is_/same_as :: [[WD~Jürgen_Habermas,76357]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jürgen_Habermas,76357]] 
 
 ## #has_/text_of_/abstract 
 

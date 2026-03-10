@@ -63,7 +63,7 @@ dv_has_:
 
 # [[Appeal_to_Consequences]] 
 
-#is_/same_as :: [[WD~Appeal_to_Consequences,777000]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Appeal_to_Consequences,777000]] 
 
 ## #has_/text_of_/abstract 
 

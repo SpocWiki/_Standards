@@ -163,7 +163,7 @@ dv_has_:
 
 # [[IDA(International_Development_Association)]] 
 
-#is_/same_as :: [[WD~International_Development_Association,827525]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Development_Association,827525]] 
 
 ## #has_/text_of_/abstract 
 

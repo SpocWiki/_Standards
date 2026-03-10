@@ -242,7 +242,7 @@ dv_has_:
 
 # [[Nutmeg]] 
 
-#is_/same_as :: [[WD~Nutmeg,83165]]
+#is_/same_as :: [[_Standards/WikiData/WD~Nutmeg,83165]]
 
 ## #has_/text_of_/abstract 
 

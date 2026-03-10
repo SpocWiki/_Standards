@@ -152,7 +152,7 @@ dv_has_:
 
 # [[1928-Kellogg-Briand_Pact]] 
 
-#is_/same_as :: [[WD~Kellogg-Briand_pact,205073]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kellogg-Briand_pact,205073]] 
 
 ## #has_/text_of_/abstract 
 

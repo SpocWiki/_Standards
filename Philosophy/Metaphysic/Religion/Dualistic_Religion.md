@@ -50,7 +50,7 @@ dv_has_:
 
 # [[Dualistic_Religion]] 
 
-#is_/same_as :: [[WD~Dualistic_Religion,5310255]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Dualistic_Religion,5310255]] 
 #is_/instance_of :: [[Dualism]] 
 
 ## #has_/text_of_/abstract 

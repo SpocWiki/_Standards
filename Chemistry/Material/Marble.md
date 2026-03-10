@@ -251,7 +251,7 @@ dv_has_:
 
 # [[Marble]] 
 
-#is_/same_as :: [[WD~Marble,40861]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Marble,40861]] 
 
 Marble is moderately hard, which makes for versatile Application, but gets very slippery when wet!
 

@@ -197,7 +197,7 @@ dv_has_:
 
 # [[-2600-Minoan_Civilization-1100]] 
 
-#is_/same_as :: [[WD~Minoan_civilization,134178]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Minoan_civilization,134178]] 
 
 ## #has_/text_of_/abstract 
 

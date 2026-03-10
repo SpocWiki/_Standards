@@ -227,7 +227,7 @@ Unicode_character: 🍜
 
 # [[Noodle]] 🍜 
 
-#is_/same_as :: [[WD~Noodle,192874]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Noodle,192874]] 
 
 ## #has_/text_of_/abstract 
 

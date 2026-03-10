@@ -95,7 +95,7 @@ dv_has_:
     stopped: -184.2e6
 dv_is_:
   same_as:
-  - '[[WD~Pliensbachian,540479]]'
+  - '[[_Standards/WikiData/WD~Pliensbachian,540479]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian|Age~3~Pliensbachian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.public|Age~3~Pliensbachian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.internal|Age~3~Pliensbachian.internal]]'
@@ -107,7 +107,7 @@ dv_has_duration_years: 8.700e+6
 dv_has_previous_item: '[[Age~2~Sinemurian]]'
 dv_has_next_item: '[[Age~4~Toarcian]]'
 dv_is_same_as:
-- '[[WD~Pliensbachian,540479]]'
+- '[[_Standards/WikiData/WD~Pliensbachian,540479]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian|Age~3~Pliensbachian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.public|Age~3~Pliensbachian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.internal|Age~3~Pliensbachian.internal]]'
@@ -149,7 +149,7 @@ dv_has_text_of_color: 0x80C5DD
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Pliensbachian,540479]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pliensbachian,540479]] 
 
 A time period from 192.9 to 184.2 million years ago. 
 

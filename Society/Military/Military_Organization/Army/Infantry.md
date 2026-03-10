@@ -219,7 +219,7 @@ dv_has_:
 
 # [[Infantry]] 
 
-#is_/same_as :: [[WD~Infantry,29171]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Infantry,29171]] 
 
 Originally, the Italian/Spanish _infanteria_ referred to foot soldiers 
 who were considered too poor or too young to afford horses, 

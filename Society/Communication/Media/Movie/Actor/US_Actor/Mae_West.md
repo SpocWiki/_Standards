@@ -186,7 +186,7 @@ dv_has_:
 
 # [[Mae_West]] 
 
-#is_/same_as :: [[WD~Mae_West,202878]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mae_West,202878]] 
 
 ## #has_/text_of_/abstract 
 

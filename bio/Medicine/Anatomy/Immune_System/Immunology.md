@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Immunology]] 
 
-#is_/same_as :: [[WD~Immunology,101929]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Immunology,101929]] 
 
 ## #has_/text_of_/abstract 
 

@@ -245,7 +245,7 @@ dv_has_:
 
 # [[Tropic_of_Capricorn]] 
 
-#is_/same_as :: [[WD~Tropic_of_Capricorn,177440]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Tropic_of_Capricorn,177440]] 
 
 ## #has_/text_of_/abstract 
 

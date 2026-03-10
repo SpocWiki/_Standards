@@ -187,7 +187,7 @@ dv_has_:
 
 # [[IBWM(International_Bureau_of_Weights_and_Measures)]] 
 
-#is_/same_as :: [[WD~International_Bureau_of_Weights_and_Measures,229478]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Bureau_of_Weights_and_Measures,229478]] 
 
 ## #has_/text_of_/abstract 
 

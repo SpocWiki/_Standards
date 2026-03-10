@@ -189,7 +189,7 @@ dv_has_:
 
 # [[Pegasus]] 
 
-#is_/same_as :: [[WD~Pegasus,162797]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pegasus,162797]] 
 
 ## #has_/text_of_/abstract 
 

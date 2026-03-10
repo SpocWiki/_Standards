@@ -349,7 +349,7 @@ dv_has_:
 
 # [[Rabies]] 
 
-#is_/same_as :: [[WD~Rabies,39222]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rabies,39222]] 
 
 ## #has_/text_of_/abstract 
 

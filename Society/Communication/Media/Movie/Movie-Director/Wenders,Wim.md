@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Wenders,Wim]] 
 
-#is_/same_as :: [[WD~Wim_Wenders,55411]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Wim_Wenders,55411]] 
 
 ## #has_/text_of_/abstract 
 

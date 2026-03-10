@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Parody]] 
 
-#is_/same_as :: [[WD~Parody,170539]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parody,170539]] 
 
 ## #has_/text_of_/abstract 
 

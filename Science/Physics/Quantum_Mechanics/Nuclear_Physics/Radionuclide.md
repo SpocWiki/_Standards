@@ -161,7 +161,7 @@ dv_has_:
 
 # [[Radionuclide]] 
 
-#is_/same_as :: [[WD~Radionuclide,192900]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Radionuclide,192900]] 
 
 ## #has_/text_of_/abstract 
 

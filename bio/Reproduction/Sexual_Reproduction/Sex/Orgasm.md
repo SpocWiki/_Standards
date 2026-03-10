@@ -187,7 +187,7 @@ dv_has_:
 
 # [[Orgasm]] 
 
-#is_/same_as :: [[WD~Orgasm,5887]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orgasm,5887]] 
 
 ## #has_/text_of_/abstract 
 

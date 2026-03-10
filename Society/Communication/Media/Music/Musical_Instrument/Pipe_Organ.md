@@ -226,7 +226,7 @@ dv_has_:
 
 # [[Pipe_Organ]] 
 
-#is_/same_as :: [[WD~Pipe_organ,281460]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pipe_organ,281460]] 
 
 ## #has_/text_of_/abstract 
 

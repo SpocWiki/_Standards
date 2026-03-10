@@ -302,7 +302,7 @@ dv_has_:
 
 # [[Bosch,Hieronymus]] 
 
-#is_/same_as :: [[WD~Hieronymus_Bosch,130531]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hieronymus_Bosch,130531]] 
 
 ## #has_/text_of_/abstract 
 

@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Phidias]] 
 
-#is_/same_as :: [[WD~Phidias,177302]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Phidias,177302]] 
 
 ## #has_/text_of_/abstract 
 

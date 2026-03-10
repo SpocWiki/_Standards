@@ -388,7 +388,7 @@ dv_has_:
 
 # [[Bohr,Niels]] 
 
-#is_/same_as :: [[WD~Niels_Bohr,7085]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Niels_Bohr,7085]] 
 
 ## #has_/text_of_/abstract 
 

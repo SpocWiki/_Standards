@@ -195,7 +195,7 @@ dv_has_:
 
 # [[Philosophy_of_Language]] 
 
-#is_/same_as  [[WD~Philosophy_of_language,484761]] 
+#is_/same_as  [[_Standards/WikiData/WD~Philosophy_of_language,484761]] 
 
 ## #has_/text_of_/abstract 
 

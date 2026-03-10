@@ -675,7 +675,7 @@ dv_has_:
 
 # [[February]]
 
-#is_/same_as :: [[WD~February,109]]
+#is_/same_as :: [[_Standards/WikiData/WD~February,109]]
 
 ## #has_/text_of_/abstract 
 

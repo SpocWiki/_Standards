@@ -325,7 +325,7 @@ dv_has_:
 
 # [[Baby]] 👶 
 
-#is_/same_as :: [[WD~Infant,998]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Infant,998]] 
 
 ## #has_/text_of_/abstract 
 

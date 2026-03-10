@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Ohm]] 
 
-#is_/same_as :: [[WD~Ohm,47083]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ohm,47083]] 
 
 ## #has_/text_of_/abstract 
 

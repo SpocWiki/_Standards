@@ -164,7 +164,7 @@ Unicode_character: 🥷
 # [[Ninja]] 🥷 
 
 #is_/different_from :: [[../../../Armed_Forces/Soldier/Mercenary/Samurai|Samurai]]  
-#is_/same_as :: [[WD~Ninja,9402]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ninja,9402]] 
 
 ## #has_/text_of_/abstract 
 

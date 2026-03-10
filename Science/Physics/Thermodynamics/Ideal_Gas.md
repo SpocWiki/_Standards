@@ -168,7 +168,7 @@ dv_has_:
 
 # [[Ideal_Gas]] 
 
-#is_/same_as :: [[WD~Ideal_gas,172280]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ideal_gas,172280]] 
 
 ## #has_/text_of_/abstract 
 

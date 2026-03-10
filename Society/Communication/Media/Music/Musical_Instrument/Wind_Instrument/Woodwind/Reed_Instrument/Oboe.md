@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Oboe]] 
 
-#is_/same_as :: [[WD~Oboe,8377]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oboe,8377]] 
 
 ## #has_/text_of_/abstract 
 

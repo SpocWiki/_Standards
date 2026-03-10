@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Reynolds,Osborne]] 
 
-#is_/same_as :: [[WD~Osborne_Reynolds,323267]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Osborne_Reynolds,323267]] 
 
 The dimensionless Reynolds-Number is named after him. 
 

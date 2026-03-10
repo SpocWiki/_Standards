@@ -386,7 +386,7 @@ dv_has_:
 # [[Nighttime]] 
 
 #is_/part_of :: [[../Unit~Day|Unit~Day]] 
-#is_/same_as :: [[WD~Night,575]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Night,575]] 
 #has_/complement :: [[Daytime]] 
 
 ## #has_/text_of_/abstract 

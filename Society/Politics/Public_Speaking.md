@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Public_Speaking]] 
 
-#is_/same_as :: [[WD~Oration,861911]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oration,861911]] 
 
 ## #has_/text_of_/abstract 
 

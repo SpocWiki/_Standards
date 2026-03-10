@@ -196,7 +196,7 @@ dv_has_:
 
 # [[Guerrilla_Warfare]] 
 
-#is_/same_as :: [[WD~Guerrilla_warfare,80895]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Guerrilla_warfare,80895]] 
 
 ## #has_/text_of_/abstract 
 

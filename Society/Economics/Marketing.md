@@ -239,7 +239,7 @@ dv_has_:
 
 # [[Marketing]] 
 
-#is_/same_as :: [[WD~Marketing,39809]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Marketing,39809]] 
 
 ## #has_/text_of_/abstract 
 

@@ -77,7 +77,7 @@ dv_has_:
 
 # [[Kahn,Philippe]] 
 
-#is_/same_as :: [[WD~Philippe_Kahn,1373386]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Philippe_Kahn,1373386]] 
 
 ## #has_/text_of_/abstract 
 

@@ -229,7 +229,7 @@ dv_has_:
 
 # [[Motherboard]] 
 
-#is_/same_as :: [[WD~Motherboard,4321]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Motherboard,4321]] 
 
 ## #has_/text_of_/abstract 
 

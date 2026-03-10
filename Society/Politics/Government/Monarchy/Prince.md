@@ -227,7 +227,7 @@ Unicode_character: 🤴
 
 # [[Prince]] 🤴 
 
-#is_/same_as :: [[WD~Prince,2747456]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Prince,2747456]] 
 
 ## #has_/text_of_/abstract 
 

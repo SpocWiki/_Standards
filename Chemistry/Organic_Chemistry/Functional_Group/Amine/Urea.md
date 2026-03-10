@@ -183,7 +183,7 @@ EC_number: 200-315-5
 CAS_Registry_Number: 57-13-6
 dv_is_:
   same_as:
-  - '[[WD~Urea,48318]]'
+  - '[[_Standards/WikiData/WD~Urea,48318]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Amine/Urea|Urea]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Amine/Urea.public|Urea.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Amine/Urea.internal|Urea.internal]]'
@@ -284,7 +284,7 @@ dv_has_:
     yue: 尿素
     zh: 脲
 dv_is_same_as:
-- '[[WD~Urea,48318]]'
+- '[[_Standards/WikiData/WD~Urea,48318]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Amine/Urea|Urea]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Amine/Urea.public|Urea.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Amine/Urea.internal|Urea.internal]]'
@@ -297,7 +297,7 @@ dv_has_formula_structural: H²N-C(=O)-NH²
 
 # [[Urea]] 
 
-#is_/same_as :: [[WD~Urea,48318]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Urea,48318]] 
 
 has_formula_structural = `=this.dv_has_formula_structural` 
 

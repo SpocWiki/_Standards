@@ -141,7 +141,7 @@ dv_has_:
 
 # [[Unit~Weber]] 
 
-#is_/same_as :: [[WD~Weber,170804]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Weber,170804]] 
 
 ## #has_/text_of_/abstract 
 

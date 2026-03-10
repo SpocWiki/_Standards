@@ -301,7 +301,7 @@ dv_has_:
 
 # [[Herodotus]] 
 
-#is_/same_as :: [[WD~Herodotus,26825]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Herodotus,26825]] 
 
 ## #has_/text_of_/abstract 
 

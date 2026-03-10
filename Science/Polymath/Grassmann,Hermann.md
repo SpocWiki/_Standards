@@ -143,7 +143,7 @@ dv_has_:
 #has_/time_/stopped  :: 1877-09-26
 #has_/created :: [[../../Mathematics/Algebra/Linear_Algebra/Vector_Space|Vector_Space]] 
 #has_/created :: [[../../Mathematics/Geometry/Geometric_Algebra|Geometric_Algebra]]  
-#is_/same_as :: [[WD~Hermann_Grassmann,77219]]
+#is_/same_as :: [[_Standards/WikiData/WD~Hermann_Grassmann,77219]]
 
 ## #has_/text_of_/abstract 
 

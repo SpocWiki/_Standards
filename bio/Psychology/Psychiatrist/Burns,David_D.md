@@ -56,7 +56,7 @@ name_in_native_language: David D. Burns
 
 # [[Burns,David_D]] 
 
-#is_/same_as :: [[WD~David_D._Burns,5232764]] 
+#is_/same_as :: [[_Standards/WikiData/WD~David_D._Burns,5232764]] 
 
 ## #has_/text_of_/abstract 
 

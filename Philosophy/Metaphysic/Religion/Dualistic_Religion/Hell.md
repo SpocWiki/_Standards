@@ -261,7 +261,7 @@ dv_has_:
 
 # [[Hell]] 
 
-#is_/same_as :: [[WD~Hell,564]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hell,564]] 
 
 ## #has_/text_of_/abstract 
 

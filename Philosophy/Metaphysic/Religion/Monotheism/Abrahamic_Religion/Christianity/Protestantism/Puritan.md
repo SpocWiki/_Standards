@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Puritan]] 
 
-#is_/same_as :: [[WD~Puritans,137073]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Puritans,137073]] 
 
 ## #has_/text_of_/abstract 
 

@@ -318,7 +318,7 @@ dv_has_:
 
 # [[Google_Search]] 
 
-#is_/same_as :: [[WD~Google_Search,9366]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Google_Search,9366]] 
 
 ## #has_/text_of_/abstract 
 

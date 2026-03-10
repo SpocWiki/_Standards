@@ -126,7 +126,7 @@ dv_has_:
 
 # [[Permaculture]] 
 
-#is_/same_as :: [[WD~Permaculture,4572]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Permaculture,4572]] 
 
 ## #has_/text_of_/abstract 
 

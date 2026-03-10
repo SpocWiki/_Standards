@@ -284,7 +284,7 @@ Unicode_character: 🏊
 # [[Swimming]] 🏊 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Swimming,31920|WD~Swimming,31920]] 
-#is_/same_as :: [[WD~Swimming,6388]]
+#is_/same_as :: [[_Standards/WikiData/WD~Swimming,6388]]
 
 ## #has_/text_of_/abstract 
 

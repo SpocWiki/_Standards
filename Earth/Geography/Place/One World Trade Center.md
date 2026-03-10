@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[WD~One_World_Trade_Center,11245]]'
+  - '[[_Standards/WikiData/WD~One_World_Trade_Center,11245]]'
   - '[[/_Standards/Earth/Geography/Place/One World Trade Center|One World Trade Center]]'
   - '[[/_public/Earth/Geography/Place/One World Trade Center.public|One World Trade Center.public]]'
   - '[[/_internal/Earth/Geography/Place/One World Trade Center.internal|One World Trade Center.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/One World Trade Center.personal|One World Trade Center.personal]]'
   - '[[/_secret/Earth/Geography/Place/One World Trade Center.secret|One World Trade Center.secret]]'
 dv_is_same_as:
-- '[[WD~One_World_Trade_Center,11245]]'
+- '[[_Standards/WikiData/WD~One_World_Trade_Center,11245]]'
 - '[[/_Standards/Earth/Geography/Place/One World Trade Center|One World Trade Center]]'
 - '[[/_public/Earth/Geography/Place/One World Trade Center.public|One World Trade Center.public]]'
 - '[[/_internal/Earth/Geography/Place/One World Trade Center.internal|One World Trade Center.internal]]'
@@ -208,7 +208,7 @@ dv_has_:
 
 ![[../../../assets/Pasted image 20250817151541.png|Pasted image 20250817151541.png]] 
 
-#is_/same_as :: [[WD~One_World_Trade_Center,11245]] 
+#is_/same_as :: [[_Standards/WikiData/WD~One_World_Trade_Center,11245]] 
 
 ## #has_/text_of_/abstract 
 

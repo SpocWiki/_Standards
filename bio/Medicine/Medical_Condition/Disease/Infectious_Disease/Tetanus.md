@@ -263,7 +263,7 @@ dv_has_:
 
 # [[Tetanus]] 
 
-#is_/same_as :: [[WD~Tetanus,47790]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Tetanus,47790]] 
 
 ## #has_/text_of_/abstract 
 

@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Printed_Circuit_Board]] 
 
-#is_/same_as :: [[WD~Printed_circuit_board,173350]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Printed_circuit_board,173350]] 
 
 ## #has_/text_of_/abstract 
 

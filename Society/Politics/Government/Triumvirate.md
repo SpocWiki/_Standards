@@ -126,7 +126,7 @@ dv_has_:
 
 # [[Triumvirate]] 
 
-#is_/same_as :: [[WD~Triumvirate,83204]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Triumvirate,83204]] 
 
 ## #has_/text_of_/abstract 
 

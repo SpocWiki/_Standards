@@ -93,7 +93,7 @@ dv_has_:
     stopped: -382.7e6
 dv_is_:
   same_as:
-  - '[[WD~Givetian,650845]]'
+  - '[[_Standards/WikiData/WD~Givetian,650845]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.public|Age~2~Givetian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.internal|Age~2~Givetian.internal]]'
@@ -105,7 +105,7 @@ dv_has_duration_years: 5.000e+6
 dv_has_previous_item: '[[Age~1~Eifelian]]'
 dv_has_next_item: '[[../Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]'
 dv_is_same_as:
-- '[[WD~Givetian,650845]]'
+- '[[_Standards/WikiData/WD~Givetian,650845]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.public|Age~2~Givetian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.internal|Age~2~Givetian.internal]]'
@@ -147,7 +147,7 @@ dv_has_text_of_color: 0xF1E185
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Givetian,650845]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Givetian,650845]] 
 
 A time period from 387.7 to 382.7 million years ago. 
 

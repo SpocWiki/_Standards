@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Ranke,Leopold_von]] 
 
-#is_/same_as :: [[WD~Leopold_von_Ranke,77184]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leopold_von_Ranke,77184]] 
 
 ## #has_/text_of_/abstract 
 

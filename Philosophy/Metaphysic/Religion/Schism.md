@@ -43,7 +43,7 @@ instance_of:
 - '[[_Standards/WikiData/WD~discourse,190539|WD~discourse,190539]]'
 - '[[_Standards/WikiData/WD~type_of_conflict,125092269|WD~type_of_conflict,125092269]]'
 described_by_source:
-- '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
 - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
@@ -109,7 +109,7 @@ dv_has_:
 
 # [[Schism]] 
 
-#is_/same_as :: [[WD~Schism,41521]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Schism,41521]] 
 
 ## #has_/text_of_/abstract 
 

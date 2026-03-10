@@ -233,7 +233,7 @@ Unicode_character: 🏢
 
 
 
-#is_/same_as :: [[WD~Office,182060]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Office,182060]] 
 
 ## #has_/text_of_/abstract 
 

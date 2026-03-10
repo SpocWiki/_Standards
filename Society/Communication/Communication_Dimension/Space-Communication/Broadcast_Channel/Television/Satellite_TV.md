@@ -139,7 +139,7 @@ dv_has_:
 
 # [[Satellite_TV]] 
 
-#is_/same_as :: [[WD~Satellite_television,209588]]
+#is_/same_as :: [[_Standards/WikiData/WD~Satellite_television,209588]]
 
 ## #has_/text_of_/abstract 
 

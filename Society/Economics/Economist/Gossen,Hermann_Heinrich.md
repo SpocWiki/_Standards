@@ -92,7 +92,7 @@ dv_has_:
 
 # [[Gossen,Hermann_Heinrich]] 
 
-#is_/same_as :: [[WD~Hermann_Heinrich_Gossen,62835]]
+#is_/same_as :: [[_Standards/WikiData/WD~Hermann_Heinrich_Gossen,62835]]
 
 ## #has_/text_of_/abstract 
 

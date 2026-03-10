@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Pantheism]] 
 
-#is_/same_as :: [[WD~Pantheism,728455]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pantheism,728455]] 
 
 ## #has_/text_of_/abstract 
 

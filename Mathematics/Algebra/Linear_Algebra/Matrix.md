@@ -216,7 +216,7 @@ dv_has_:
 
 # [[Matrix]] 
 
-#is_/same_as :: [[WD~Matrix,44337]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Matrix,44337]] 
 
 ## #has_/text_of_/abstract 
 

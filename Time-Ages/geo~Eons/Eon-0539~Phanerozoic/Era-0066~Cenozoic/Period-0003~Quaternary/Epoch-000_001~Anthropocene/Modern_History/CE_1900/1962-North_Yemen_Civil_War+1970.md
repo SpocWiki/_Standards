@@ -152,7 +152,7 @@ dv_has_:
 
 # [[1962-North_Yemen_Civil_War+1970]] 
 
-#is_/same_as :: [[WD~North_Yemen_civil_war,521199]] 
+#is_/same_as :: [[_Standards/WikiData/WD~North_Yemen_civil_war,521199]] 
 
 ## #has_/text_of_/abstract 
 

@@ -117,7 +117,7 @@ dv_has_:
 
 # [[Organosilicon_Compound]] 
 
-#is_/same_as :: [[WD~Organosilicon_compound,422789]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Organosilicon_compound,422789]] 
 
 ## #has_/text_of_/abstract 
 

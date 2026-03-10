@@ -220,7 +220,7 @@ dv_has_:
 
 # [[Microwave_Oven]] 
 
-#is_/same_as :: [[WD~Microwave_oven,127956]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Microwave_oven,127956]] 
 
 ## #has_/text_of_/abstract 
 

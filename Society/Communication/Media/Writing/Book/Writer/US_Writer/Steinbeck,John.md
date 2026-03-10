@@ -264,7 +264,7 @@ dv_has_:
 
 # [[Steinbeck,John]] 
 
-#is_/same_as :: [[WD~John_Steinbeck,39212]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Steinbeck,39212]] 
 
 ## #has_/text_of_/abstract 
 

@@ -109,7 +109,7 @@ dv_has_:
 
 # [[Industrial_Robot]] 
 
-#is_/same_as :: [[WD~Industrial_robot,1128980]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Industrial_robot,1128980]] 
 
 ## #has_/text_of_/abstract 
 

@@ -146,7 +146,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[WD~Parallelism,53875]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parallelism,53875]] 
 
 ## #has_/text_of_/abstract 
 

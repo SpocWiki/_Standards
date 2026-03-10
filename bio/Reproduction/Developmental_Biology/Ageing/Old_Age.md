@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Old_Age]] 
 
-#is_/same_as :: [[WD~Old_age,191089]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Old_age,191089]] 
 
 ## #has_/text_of_/abstract 
 

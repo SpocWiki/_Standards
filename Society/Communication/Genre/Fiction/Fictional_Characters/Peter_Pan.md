@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Peter_Pan]] 
 
-#is_/same_as :: [[WD~Peter_Pan,107190]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peter_Pan,107190]] 
 
 ## #has_/text_of_/abstract 
 

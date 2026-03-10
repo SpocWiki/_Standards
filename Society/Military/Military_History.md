@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Military_History]] 
 
-#is_/same_as :: [[WD~Military_history,192781]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_history,192781]] 
 
 ## #has_/text_of_/abstract 
 

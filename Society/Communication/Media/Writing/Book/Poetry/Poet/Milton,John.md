@@ -291,7 +291,7 @@ dv_has_:
 
 # [[Milton,John]] 
 
-#is_/same_as :: [[WD~John_Milton,79759]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Milton,79759]] 
 
 ## #has_/text_of_/abstract 
 

@@ -70,7 +70,7 @@ end_time: 1997-05-16T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20Congo%20War%20offensive%20map%20en.svg
 dv_is_:
   same_as:
-  - '[[WD~First_Congo_War,838695]]'
+  - '[[_Standards/WikiData/WD~First_Congo_War,838695]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997|1996-First_Congo_War+1997]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.public|1996-First_Congo_War+1997.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.internal|1996-First_Congo_War+1997.internal]]'
@@ -79,7 +79,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.personal|1996-First_Congo_War+1997.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.secret|1996-First_Congo_War+1997.secret]]'
 dv_is_same_as:
-- '[[WD~First_Congo_War,838695]]'
+- '[[_Standards/WikiData/WD~First_Congo_War,838695]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997|1996-First_Congo_War+1997]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.public|1996-First_Congo_War+1997.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.internal|1996-First_Congo_War+1997.internal]]'
@@ -147,7 +147,7 @@ dv_has_:
 
 # [[1996-First_Congo_War+1997]] 
 
-#is_/same_as :: [[WD~First_Congo_War,838695]]
+#is_/same_as :: [[_Standards/WikiData/WD~First_Congo_War,838695]]
 
 ## #has_/text_of_/abstract 
 

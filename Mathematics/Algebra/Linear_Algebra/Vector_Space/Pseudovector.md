@@ -65,7 +65,7 @@ dv_has_:
 
 # [[Pseudovector]] 
 
-#is_/same_as :: [[WD~Pseudovector,621476]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pseudovector,621476]] 
 
 This is a [[BiVector]] which can be generalized to N-1-Blades in [[../../../Geometry/Geometric_Algebra|Geometric_Algebra]]. 
 

@@ -386,7 +386,7 @@ dv_has_:
 
 # [[President]] 
 
-#is_/same_as :: [[WD~President,30461]] 
+#is_/same_as :: [[_Standards/WikiData/WD~President,30461]] 
 
 ## #has_/text_of_/abstract 
 

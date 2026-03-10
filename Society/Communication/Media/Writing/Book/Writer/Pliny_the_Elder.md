@@ -259,7 +259,7 @@ dv_has_:
 
 # [[Pliny_the_Elder]] 
 
-#is_/same_as :: [[WD~Pliny_the_Elder,82778]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pliny_the_Elder,82778]] 
 
 ## #has_/text_of_/abstract 
 

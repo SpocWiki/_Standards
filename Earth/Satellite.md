@@ -150,7 +150,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Geosynchronous%20orbit
 Colon_Classification: B97894
 dv_is_:
   same_as:
-  - '[[WD~Satellite,26540]]'
+  - '[[_Standards/WikiData/WD~Satellite,26540]]'
   - '[[/_Standards/Earth/Satellite|Satellite]]'
   - '[[/_public/Earth/Satellite.public|Satellite.public]]'
   - '[[/_internal/Earth/Satellite.internal|Satellite.internal]]'
@@ -159,7 +159,7 @@ dv_is_:
   - '[[/_personal/Earth/Satellite.personal|Satellite.personal]]'
   - '[[/_secret/Earth/Satellite.secret|Satellite.secret]]'
 dv_is_same_as:
-- '[[WD~Satellite,26540]]'
+- '[[_Standards/WikiData/WD~Satellite,26540]]'
 - '[[/_Standards/Earth/Satellite|Satellite]]'
 - '[[/_public/Earth/Satellite.public|Satellite.public]]'
 - '[[/_internal/Earth/Satellite.internal|Satellite.internal]]'
@@ -340,7 +340,7 @@ Unicode_character: 🛰
 
 
 
-#is_/same_as :: [[WD~Satellite,26540]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Satellite,26540]]  
 
 Moons are also sorted into this Folder, 
 because they are categorized as Satellite generically Named S###P 

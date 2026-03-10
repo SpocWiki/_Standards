@@ -94,7 +94,7 @@ booru_tag: mel_gibson
 
 # [[Gibson,Mel]] 
 
-#is_/same_as :: [[WD~Mel_Gibson,42229]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mel_Gibson,42229]] 
 
 ## #has_/text_of_/abstract 
 

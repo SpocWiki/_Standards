@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Menstrual_Cycle]] 
 
-#is_/same_as :: [[WD~Menstrual_cycle,83864]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Menstrual_cycle,83864]] 
 
 ## #has_/text_of_/abstract 
 

@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Guilt]] 
 
-#is_/same_as :: [[WD~Guilt,628939]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Guilt,628939]] 
 
 ## #has_/text_of_/abstract 
 

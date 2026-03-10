@@ -146,7 +146,7 @@ dv_has_:
 ﻿
 # [[Deacon,John]] 
 
-#is_/same_as :: [[WD~John_Deacon,192103]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Deacon,192103]] 
 
 ## #has_/text_of_/abstract  
 

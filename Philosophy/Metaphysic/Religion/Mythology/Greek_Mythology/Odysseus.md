@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Odysseus]] 
 
-#is_/same_as :: [[WD~Odysseus,47231]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Odysseus,47231]] 
 
 ## #has_/text_of_/abstract 
 

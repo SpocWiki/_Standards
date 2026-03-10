@@ -61,7 +61,7 @@ dv_has_:
 # [[Operator~unary]] 
 
 #is_a :: [[Function~unary]] 
-#is_/same_as :: [[WD~unary_operator,30242895]]  
+#is_/same_as :: [[_Standards/WikiData/WD~unary_operator,30242895]]  
 
 ## #has_/text_of_/abstract 
 

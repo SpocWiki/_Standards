@@ -288,7 +288,7 @@ dv_has_:
 
 # [[Mantis]]  
 
-#is_/same_as :: [[WD~Mantodea,131250]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mantodea,131250]] 
 
 ## #has_/text_of_/abstract 
 

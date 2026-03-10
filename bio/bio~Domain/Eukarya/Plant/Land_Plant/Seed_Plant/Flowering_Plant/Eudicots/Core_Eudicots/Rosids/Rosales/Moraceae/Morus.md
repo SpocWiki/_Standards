@@ -268,7 +268,7 @@ dv_has_:
 
 # [[Morus]] 
 
-#is_/same_as :: [[WD~Morus,44789]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Morus,44789]] 
 
 ## #has_/text_of_/abstract 
 

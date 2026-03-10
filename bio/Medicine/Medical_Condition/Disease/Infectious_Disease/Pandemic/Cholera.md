@@ -327,7 +327,7 @@ dv_has_:
 
 # [[Cholera]] 
 
-#is_/same_as :: [[WD~Cholera,]]
+#is_/same_as :: [[_Standards/WikiData/WD~Cholera,]]
 
 ## #has_/text_of_/abstract 
 

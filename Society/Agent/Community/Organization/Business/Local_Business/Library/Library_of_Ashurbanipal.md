@@ -138,7 +138,7 @@ dv_has_:
 
 # [[Library_of_Ashurbanipal]] 
 
-#is_/same_as :: [[WD~Library_of_Ashurbanipal,856544]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Library_of_Ashurbanipal,856544]] 
 
 ## #has_/text_of_/abstract 
 

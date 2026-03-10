@@ -27,7 +27,7 @@ dv_has_:
 
 # [[Illicit_transference_Fallacy]] 
 
-#is_/same_as :: [[WD~Illicit_transference,2911615]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Illicit_transference,2911615]] 
 
 ## #has_/text_of_/abstract 
 

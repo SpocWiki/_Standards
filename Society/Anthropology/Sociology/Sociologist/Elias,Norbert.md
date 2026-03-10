@@ -141,7 +141,7 @@ dv_has_:
 
 # [[Elias,Norbert]] 
 
-#is_/same_as :: [[WD~Norbert_Elias,75812]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Norbert_Elias,75812]] 
 
 ## #has_/text_of_/abstract 
 

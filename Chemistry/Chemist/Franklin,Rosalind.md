@@ -110,7 +110,7 @@ Libris_URI: 0xbfk45j01x4337
 dv_is_:
   similar_to: '[[Hodgkin,Dorothy]]'
   same_as:
-  - '[[WD~Rosalind_Franklin,7474]]'
+  - '[[_Standards/WikiData/WD~Rosalind_Franklin,7474]]'
   - '[[/_Standards/Chemistry/Chemist/Franklin,Rosalind|Franklin,Rosalind]]'
   - '[[/_public/Chemistry/Chemist/Franklin,Rosalind.public|Franklin,Rosalind.public]]'
   - '[[/_internal/Chemistry/Chemist/Franklin,Rosalind.internal|Franklin,Rosalind.internal]]'
@@ -120,7 +120,7 @@ dv_is_:
   - '[[/_secret/Chemistry/Chemist/Franklin,Rosalind.secret|Franklin,Rosalind.secret]]'
 dv_is_similar_to: '[[Hodgkin,Dorothy]]'
 dv_is_same_as:
-- '[[WD~Rosalind_Franklin,7474]]'
+- '[[_Standards/WikiData/WD~Rosalind_Franklin,7474]]'
 - '[[/_Standards/Chemistry/Chemist/Franklin,Rosalind|Franklin,Rosalind]]'
 - '[[/_public/Chemistry/Chemist/Franklin,Rosalind.public|Franklin,Rosalind.public]]'
 - '[[/_internal/Chemistry/Chemist/Franklin,Rosalind.internal|Franklin,Rosalind.internal]]'
@@ -234,7 +234,7 @@ dv_has_:
 # [[Franklin,Rosalind]] 
 
 is_similar_to = `=this.dv_is_similar_to` 
-#is_/same_as :: [[WD~Rosalind_Franklin,7474]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rosalind_Franklin,7474]] 
 
 ## #has_/text_of_/abstract 
 

@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Juniper]] 
 
-#is_/same_as :: [[WD~Juniperus,25662]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Juniperus,25662]] 
 
 ## #has_/text_of_/abstract 
 

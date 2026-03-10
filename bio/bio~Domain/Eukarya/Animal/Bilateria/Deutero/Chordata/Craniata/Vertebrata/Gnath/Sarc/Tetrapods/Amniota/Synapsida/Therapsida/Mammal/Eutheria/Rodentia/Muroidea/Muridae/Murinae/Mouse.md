@@ -291,7 +291,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[WD~Mus,39275]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mus,39275]] 
 
 ## #has_/text_of_/abstract 
 

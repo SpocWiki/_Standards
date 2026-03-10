@@ -188,7 +188,7 @@ dv_has_:
 
 # [[Passenger]] 
 
-#is_/same_as :: [[WD~Passenger,319604]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Passenger,319604]] 
 
 ## #has_/text_of_/abstract 
 

@@ -365,7 +365,7 @@ dv_has_:
 
 # [[Hill]] 
 
-#is_/same_as :: [[WD~Hill,54050]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hill,54050]] 
 
 ## #has_/text_of_/abstract 
 

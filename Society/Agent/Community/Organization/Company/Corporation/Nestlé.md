@@ -262,7 +262,7 @@ dv_has_:
 
 # [[Nestlé]] 
 
-#is_/same_as :: [[WD~Nestlé,160746]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nestlé,160746]] 
 
 ## #has_/text_of_/abstract 
 

@@ -206,7 +206,7 @@ aliases:
 
 # [[Feudalism]] 
 
-#is_/same_as :: [[WD~Feudalism,37739]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Feudalism,37739]] 
 
 ## #has_/text_of_/abstract 
 

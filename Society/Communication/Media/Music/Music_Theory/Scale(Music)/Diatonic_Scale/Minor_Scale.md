@@ -118,7 +118,7 @@ aliases:
 
 # [[Minor_Scale]] 
 
-#is_/same_as :: [[WD~Minor,12827391]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Minor,12827391]] 
 #is_/different_from :: [[Major_Scale]] 
 
 Major: 2,2,1,2,2,2,1.2,2,1,2,2,2,1.

@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Oriental_Orthodox_Churches]]
 
-#is_/same_as :: [[WD~Oriental_Orthodox_Churches,49377]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oriental_Orthodox_Churches,49377]] 
 
 ## #has_/text_of_/abstract 
 

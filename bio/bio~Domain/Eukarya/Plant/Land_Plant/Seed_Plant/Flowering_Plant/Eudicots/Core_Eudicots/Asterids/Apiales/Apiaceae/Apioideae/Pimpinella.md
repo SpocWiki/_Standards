@@ -126,7 +126,7 @@ dv_has_:
 
 # [[Pimpinella]] 
 
-#is_/same_as :: [[WD~Pimpinella,588740]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pimpinella,588740]] 
 
 ## #has_/text_of_/abstract 
 

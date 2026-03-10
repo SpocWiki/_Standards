@@ -132,7 +132,7 @@ dv_has_:
 
 # [[Trans_Fat]] 
 
-#is_/same_as :: [[WD~Trans_Fat,243465]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Trans_Fat,243465]] 
 
 ## #has_/text_of_/abstract 
 

@@ -251,7 +251,7 @@ dv_has_:
 
 # [[Gabriel,Peter]] 
 
-#is_/same_as :: [[WD~Peter_Gabriel,175195]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peter_Gabriel,175195]] 
 
 ## #has_/text_of_/abstract 
 

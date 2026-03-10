@@ -402,7 +402,7 @@ Unicode_character: 🧊
 
 
 
-#is_/same_as :: [[WD~Ice,23392]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ice,23392]] 
 
 ## #has_/text_of_/abstract 
 

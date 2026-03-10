@@ -70,7 +70,7 @@ Commons_category: Amides
 UMLS_CUI: C0002482
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/AMIDI.html
 dv_is_:
-  same_as: '[[WD~Amide,188777]]'
+  same_as: '[[_Standards/WikiData/WD~Amide,188777]]'
 dv_has_:
   formula_:
     structural: R-C(=O)-NR′R″
@@ -147,7 +147,7 @@ dv_has_:
     zh_hk: 醯胺
     zh_sg: 酰胺
     zh_tw: 醯胺
-dv_is_same_as: '[[WD~Amide,188777]]'
+dv_is_same_as: '[[_Standards/WikiData/WD~Amide,188777]]'
 dv_has_formula_structural: R-C(=O)-NR′R″
 ---
 

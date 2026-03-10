@@ -108,7 +108,7 @@ dv_has_:
 
 # [[General_Topology]] 
 
-#is_/same_as :: [[WD~General_topology,621550]] 
+#is_/same_as :: [[_Standards/WikiData/WD~General_topology,621550]] 
 
 ## #has_/text_of_/abstract 
 

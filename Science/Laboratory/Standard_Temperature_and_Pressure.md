@@ -180,7 +180,7 @@ dv_has_:
 
 # [[Standard_Temperature_and_Pressure]] 
 
-#is_/same_as :: [[WD~Standard_temperature_and_pressure,102145]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Standard_temperature_and_pressure,102145]] 
 
 ## #has_/text_of_/abstract 
 

@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Regression_Analysis]] 
 
-#is_/same_as :: [[WD~Regression_analysis,208042]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Regression_analysis,208042]] 
 
 ## #has_/text_of_/abstract 
 

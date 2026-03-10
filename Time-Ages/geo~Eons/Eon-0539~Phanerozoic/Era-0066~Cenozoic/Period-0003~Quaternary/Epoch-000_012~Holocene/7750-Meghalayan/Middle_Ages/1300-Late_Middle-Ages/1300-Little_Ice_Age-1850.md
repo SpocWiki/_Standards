@@ -171,7 +171,7 @@ dv_has_:
 
 # [[1300-Little_Ice_Age-1850]] 
 
-#is_/same_as :: [[WD~Little_Ice_Age,190530]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Little_Ice_Age,190530]] 
 
 ## #has_/text_of_/abstract 
 

@@ -402,7 +402,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[WD~Human_pregnancy,11995]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Human_pregnancy,11995]] 
 
 ## #has_/text_of_/abstract 
 

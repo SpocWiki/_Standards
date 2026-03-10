@@ -180,7 +180,7 @@ dv_has_:
 
 # [[PBS(Public_Broadcasting_Service)]] 
 
-#is_/same_as :: [[WD~PBS,215616]] 
+#is_/same_as :: [[_Standards/WikiData/WD~PBS,215616]] 
 
 ## #has_/text_of_/abstract 
 

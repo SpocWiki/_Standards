@@ -220,7 +220,7 @@ Unicode_character: 🧄
 
 # [[Garlic]] 🧄 
 
-#is_/same_as :: [[WD~Garlic,21546392]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Garlic,21546392]] 
 
 ## #has_/text_of_/abstract 
 

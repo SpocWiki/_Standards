@@ -125,7 +125,7 @@ aliases:
 
 # [[Pāṇini]] 
 
-#is_/same_as :: [[WD~Panini,189725]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Panini,189725]] 
 
 ## #has_/text_of_/abstract 
 

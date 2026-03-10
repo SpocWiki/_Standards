@@ -121,7 +121,7 @@ dv_has_:
 
 # [[Jade_Emperor]] 
 
-#is_/same_as :: [[WD~Jade_Emperor,860434]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jade_Emperor,860434]] 
 
 ## #has_/text_of_/abstract 
 

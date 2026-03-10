@@ -291,7 +291,7 @@ dv_has_:
 
 # [[James_Stewart]] 
 
-#is_/same_as :: [[WD~James_Stewart,102462]] 
+#is_/same_as :: [[_Standards/WikiData/WD~James_Stewart,102462]] 
 
 ## #has_/text_of_/abstract 
 

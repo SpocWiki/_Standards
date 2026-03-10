@@ -305,7 +305,7 @@ dv_has_:
 
 # [[Monarch]] 
 
-#is_/same_as :: [[WD~Monarch,116]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Monarch,116]] 
 
 ## #has_/text_of_/abstract 
 

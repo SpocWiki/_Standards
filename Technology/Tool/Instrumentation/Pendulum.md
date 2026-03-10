@@ -185,7 +185,7 @@ dv_has_:
 
 # [[Pendulum]]
 
-#is_/same_as :: [[WD~Pendulum,20702]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pendulum,20702]] 
 
 ## #has_/text_of_/abstract 
 

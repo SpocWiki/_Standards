@@ -377,7 +377,7 @@ dv_has_:
 
 # [[Judge]] 
 
-#is_/same_as :: [[WD~Judge,16533]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Judge,16533]] 
 
 ## #has_/text_of_/abstract 
 

@@ -233,7 +233,7 @@ dv_has_:
 
 # [[Theory]] 
 
-#is_/same_as :: [[WD~Theory,17737]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Theory,17737]] 
 
 ## #has_/text_of_/abstract 
 

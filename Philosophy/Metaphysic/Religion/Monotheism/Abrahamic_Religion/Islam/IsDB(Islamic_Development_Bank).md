@@ -127,7 +127,7 @@ dv_has_:
 
 # [[IsDB(Islamic_Development_Bank)]] 
 
-#is_/same_as :: [[WD~Islamic_Development_Bank,41230]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Islamic_Development_Bank,41230]] 
 
 ## #has_/text_of_/abstract 
 

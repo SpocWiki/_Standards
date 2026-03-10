@@ -97,7 +97,7 @@ dv_has_:
 
 # [[International_Sports_Federation]] 
 
-#is_/same_as :: [[WD~international_sport_governing_body,11422536]]
+#is_/same_as :: [[_Standards/WikiData/WD~international_sport_governing_body,11422536]]
 
 ## #has_/text_of_/abstract 
 

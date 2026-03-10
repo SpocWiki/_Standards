@@ -306,7 +306,7 @@ dv_has_:
 
 # [[Hail]] 
 
-#is_/same_as :: [[WD~Hail,37602]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hail,37602]] 
 
 ## #has_/text_of_/abstract 
 

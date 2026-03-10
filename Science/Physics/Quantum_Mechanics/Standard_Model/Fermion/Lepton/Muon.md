@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Muon]] 
 
-#is_/same_as :: [[WD~Muon,3151]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Muon,3151]] 
 
 ## #has_/text_of_/abstract 
 

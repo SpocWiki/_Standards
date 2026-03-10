@@ -165,7 +165,7 @@ dv_has_:
 
 # [[Mortar(Cannon)]] 
 
-#is_/same_as :: [[WD~Mortar,7905205]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mortar,7905205]] 
 
 Artillery weapon that launches explosive projectiles at high angles. 
 

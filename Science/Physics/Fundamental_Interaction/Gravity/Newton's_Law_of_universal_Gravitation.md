@@ -207,7 +207,7 @@ aliases:
 
 # [[Newton's_Law_of_universal_Gravitation]] 
 
-#is_/same_as :: [[WD~Newton's_law_of_universal_gravitation,134465]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Newton's_law_of_universal_gravitation,134465]] 
 
 ## #has_/text_of_/abstract 
 

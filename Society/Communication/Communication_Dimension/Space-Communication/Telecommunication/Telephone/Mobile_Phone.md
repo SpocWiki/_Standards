@@ -423,7 +423,7 @@ Unicode_character: 📱
 
 
 
-#is_/same_as :: [[WD~Mobile_phone,17517]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mobile_phone,17517]] 
 
 ## #has_/text_of_/abstract 
 

@@ -165,7 +165,7 @@ dv_has_:
 
 # [[Vitamin_K]] 
 
-#is_/same_as :: [[WD~Vitamin_K,182338]]
+#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_K,182338]]
 
 ## #has_/text_of_/abstract 
 

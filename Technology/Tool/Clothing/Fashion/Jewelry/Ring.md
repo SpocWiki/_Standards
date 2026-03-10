@@ -25,7 +25,7 @@ Dewey_Decimal_Classification: "391.72"
 
 # [[Ring]] 💍 
 
-#is_/same_as :: [[WD~Ring,46847]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ring,46847]] 
 
 
 ## #has_/text_of_/abstract 

@@ -283,7 +283,7 @@ dv_has_:
 
 # [[Carey,Mariah]] 
 
-#is_/same_as :: [[WD~Mariah_Carey,41076]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mariah_Carey,41076]] 
 
 ## #has_/text_of_/abstract 
 

@@ -519,7 +519,7 @@ dv_has_:
 
 # [[Lang-hun]] 
 
-#is_/same_as :: [[WD~Hungarian,9067]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hungarian,9067]] 
 
 ## #has_/text_of_/abstract 
 

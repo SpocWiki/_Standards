@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Radio_Wave]] 
 
-#is_/same_as :: [[WD~Radio_wave,4262]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Radio_wave,4262]] 
 
 ## #has_/text_of_/abstract 
 

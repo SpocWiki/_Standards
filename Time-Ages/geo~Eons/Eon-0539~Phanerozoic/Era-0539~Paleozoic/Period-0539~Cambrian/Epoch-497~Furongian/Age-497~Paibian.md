@@ -83,7 +83,7 @@ dv_has_:
     stopped: -494000000
 dv_is_:
   same_as:
-  - '[[WD~Paibian,2060764]]'
+  - '[[_Standards/WikiData/WD~Paibian,2060764]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian|Age-497~Paibian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.public|Age-497~Paibian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.internal|Age-497~Paibian.internal]]'
@@ -95,7 +95,7 @@ dv_has_duration_years: 3.000e+6
 dv_has_previous_item: '[[../Epoch-509~Miaolingian/Age-501~Guzhangian|Age-501~Guzhangian]]'
 dv_has_next_item: '[[Age-494~Jiangshanian]]'
 dv_is_same_as:
-- '[[WD~Paibian,2060764]]'
+- '[[_Standards/WikiData/WD~Paibian,2060764]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian|Age-497~Paibian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.public|Age-497~Paibian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.internal|Age-497~Paibian.internal]]'
@@ -137,7 +137,7 @@ dv_has_text_of_color: 0xCCEBAE
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Paibian,2060764]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Paibian,2060764]]  
 
 A time period from 497 to 494 million years ago. 
 

@@ -147,7 +147,7 @@ dv_has_:
 
 # [[Pāli_Canon]] 
 
-#is_/same_as :: [[WD~Pāli_Canon,215685]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pāli_Canon,215685]] 
 
 ## #has_/text_of_/abstract 
 

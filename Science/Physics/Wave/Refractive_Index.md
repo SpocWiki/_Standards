@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Refractive_Index]] 
 
-#is_/same_as :: [[WD~Refractive_index,174102]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Refractive_index,174102]] 
 
 ## #has_/text_of_/abstract 
 

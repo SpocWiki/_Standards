@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Hammurabi]] 
 
-#is_/same_as :: [[WD~Hammurabi,36359]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hammurabi,36359]] 
 
 ## #has_/text_of_/abstract 
 

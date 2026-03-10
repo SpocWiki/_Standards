@@ -189,7 +189,7 @@ dv_has_:
 
 # [[Islamic_Philosophy]] 
 
-#is_/same_as :: [[WD~Islamic_philosophy,193104]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Islamic_philosophy,193104]] 
 
 ## #has_/text_of_/abstract 
 

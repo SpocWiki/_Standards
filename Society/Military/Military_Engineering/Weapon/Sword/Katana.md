@@ -129,7 +129,7 @@ dv_has_:
 
 # [[Katana]] 
 
-#is_/same_as :: [[WD~Katana,172736]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Katana,172736]] 
 
 ## #has_/text_of_/abstract 
 

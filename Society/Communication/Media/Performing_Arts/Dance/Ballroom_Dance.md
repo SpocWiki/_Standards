@@ -110,7 +110,7 @@ dv_has_:
 
 # [[Ballroom_Dance]] 
 
-#is_/same_as :: [[WD~Ballroom_Dance,1085001]]
+#is_/same_as :: [[_Standards/WikiData/WD~Ballroom_Dance,1085001]]
 
 ## #has_/text_of_/abstract 
 

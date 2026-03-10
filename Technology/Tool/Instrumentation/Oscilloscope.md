@@ -183,7 +183,7 @@ dv_has_:
 
 # [[Oscilloscope]] 
 
-#is_/same_as :: [[WD~Oscilloscope,174320]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oscilloscope,174320]] 
 
 ## #has_/text_of_/abstract 
 

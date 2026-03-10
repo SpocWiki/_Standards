@@ -151,7 +151,7 @@ dv_has_:
 
 # [[Power_Supply]] 
 
-#is_/same_as :: [[WD~Power_supply,204157]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Power_supply,204157]] 
 
 ## #has_/text_of_/abstract 
 

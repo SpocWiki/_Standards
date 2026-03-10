@@ -168,7 +168,7 @@ dv_has_:
 
 # [[Millikan,Robert_A]] 
 
-#is_/same_as :: [[WD~Robert_A._Millikan,130975]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_A._Millikan,130975]] 
 
 ## #has_/text_of_/abstract 
 

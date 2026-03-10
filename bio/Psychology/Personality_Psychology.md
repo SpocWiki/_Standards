@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Personality_Psychology]] 
 
-#is_/same_as :: [[WD~Personality_psychology,271716]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Personality_psychology,271716]] 
 
 ## #has_/text_of_/abstract 
 

@@ -261,7 +261,7 @@ dv_has_:
 
 # [[Isotope]]  
 
-#is_/same_as :: [[WD~Isotope,25276]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Isotope,25276]] 
 
 ## #has_/text_of_/abstract 
 

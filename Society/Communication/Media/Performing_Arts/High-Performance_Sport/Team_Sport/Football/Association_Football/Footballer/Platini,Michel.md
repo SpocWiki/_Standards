@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Platini,Michel]] 
 
-#is_/same_as :: [[WD~Michel_Platini,4261]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Michel_Platini,4261]] 
 
 ## #has_/text_of_/abstract 
 

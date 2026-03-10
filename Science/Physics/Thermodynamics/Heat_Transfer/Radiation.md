@@ -226,7 +226,7 @@ dv_has_:
 
 # [[Radiation]] 
 
-#is_/same_as :: [[WD~Radiation,18335]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Radiation,18335]]  
 
 ## #has_/text_of_/abstract 
 

@@ -27,7 +27,7 @@ booru_tag:
 
 # [[T-Shirt]] 👕 
 
-#is_/same_as :: [[WD~T-Shirt,131151]]
+#is_/same_as :: [[_Standards/WikiData/WD~T-Shirt,131151]]
 
 ## #has_/text_of_/abstract 
 

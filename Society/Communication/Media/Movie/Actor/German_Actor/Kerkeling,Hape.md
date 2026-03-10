@@ -63,7 +63,7 @@ ISNI: "0000000108996189"
 
 # [[Kerkeling,Hape]] 
 
-#is_/same_as :: [[WD~Hape_Kerkeling,68822]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hape_Kerkeling,68822]] 
 
 ## #has_/text_of_/abstract 
 

@@ -246,7 +246,7 @@ dv_has_:
 
 # [[Heraclitus]] 
 
-#is_/same_as :: [[WD~Heraclitus,41155]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heraclitus,41155]] 
 #has_/created_/quote :: pánta rheî, everything flows 
 
 

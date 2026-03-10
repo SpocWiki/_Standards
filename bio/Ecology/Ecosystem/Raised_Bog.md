@@ -109,7 +109,7 @@ dv_has_:
 
 # [[Raised_Bog]] 
 
-#is_/same_as :: [[WD~Raised_bog,3240227]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Raised_bog,3240227]] 
 
 ## #has_/text_of_/abstract 
 

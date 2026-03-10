@@ -210,7 +210,7 @@ dv_has_:
 
 # [[Niccolò_Paganini]] 
 
-#is_/same_as :: [[WD~Niccolò_Paganini,66075]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Niccolò_Paganini,66075]] 
 
 ## #has_/text_of_/abstract 
 

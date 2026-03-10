@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Julio-Claudian_dynasty]] 
 
-#is_/same_as :: [[WD~Julio-Claudian_dynasty,192841]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Julio-Claudian_dynasty,192841]] 
 ## #has_/text_of_/abstract 
 
 > The Julio-Claudian dynasty comprised the first five Roman emperors: 

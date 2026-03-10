@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Reference_Ellipsoid]] 
 
-#is_/same_as :: [[WD~Reference_ellipsoid,1335878]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Reference_ellipsoid,1335878]] 
 
 ## #has_/text_of_/abstract 
 

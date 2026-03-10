@@ -22,7 +22,7 @@ dv_is_same_as:
 
 # [[Period(periodic_Table)]] 
 
-#is_/same_as :: [[WD~Period,101843]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Period,101843]] 
 
 ## #has_/text_of_/abstract 
 

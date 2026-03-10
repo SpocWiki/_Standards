@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Metallicity]] 
 
-#is_/same_as :: [[WD~Metallicity,217030]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Metallicity,217030]] 
 
 ## #has_/text_of_/abstract 
 

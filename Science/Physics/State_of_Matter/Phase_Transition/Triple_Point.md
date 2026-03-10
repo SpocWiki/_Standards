@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Triple_Point]] 
 
-#is_/same_as :: [[WD~Triple_point,106410]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Triple_point,106410]] 
 
 There can be only a single Triple Point, because each boundary is a convex curve in the _T–p_ plane; 
 three such curves can intersect only once under ordinary conditions. 

@@ -39,7 +39,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/ORGANICHESKIE_GALOGENIDI.htm
 Commons_category: Organohalides
 dv_is_:
   same_as:
-  - '[[WD~Halocarbon,387914]]'
+  - '[[_Standards/WikiData/WD~Halocarbon,387914]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Halocarbon|Halocarbon]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Halocarbon.public|Halocarbon.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Halocarbon.internal|Halocarbon.internal]]'
@@ -48,7 +48,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Organic_Chemistry/Halocarbon.personal|Halocarbon.personal]]'
   - '[[/_secret/Chemistry/Organic_Chemistry/Halocarbon.secret|Halocarbon.secret]]'
 dv_is_same_as:
-- '[[WD~Halocarbon,387914]]'
+- '[[_Standards/WikiData/WD~Halocarbon,387914]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Halocarbon|Halocarbon]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Halocarbon.public|Halocarbon.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Halocarbon.internal|Halocarbon.internal]]'
@@ -90,7 +90,7 @@ dv_has_:
 
 # [[Halocarbon]] 
 
-#is_/same_as :: [[WD~Halocarbon,387914]]
+#is_/same_as :: [[_Standards/WikiData/WD~Halocarbon,387914]]
 
 ## #has_/text_of_/abstract 
 

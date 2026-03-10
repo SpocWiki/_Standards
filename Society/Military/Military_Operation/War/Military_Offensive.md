@@ -154,7 +154,7 @@ dv_has_:
 
 # [[Military_Offensive]] 
 
-#is_/same_as :: [[WD~Military_offensive,2001676]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_offensive,2001676]] 
 
 ## #has_/text_of_/abstract 
 

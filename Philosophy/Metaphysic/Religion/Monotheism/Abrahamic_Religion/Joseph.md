@@ -304,7 +304,7 @@ dv_has_:
 
 # [[Joseph]] 
 
-#is_/same_as :: [[WD~Joseph,145746]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Joseph,145746]] 
 
 ## #has_/text_of_/abstract 
 

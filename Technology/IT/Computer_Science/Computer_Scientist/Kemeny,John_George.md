@@ -137,7 +137,7 @@ dv_has_:
 
 # [[Kemeny,John_George]]
 
-#is_/same_as :: [[WD~John_George_Kemeny,28900]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_George_Kemeny,28900]] 
 
 ## #has_/text_of_/abstract 
 

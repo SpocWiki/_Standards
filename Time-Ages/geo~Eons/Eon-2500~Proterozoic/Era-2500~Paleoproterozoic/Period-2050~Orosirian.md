@@ -104,7 +104,7 @@ dv_has_:
     stopped: -1.800e9
 dv_is_:
   same_as:
-  - '[[WD~Orosirian,597383]]'
+  - '[[_Standards/WikiData/WD~Orosirian,597383]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian|Period-2050~Orosirian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.public|Period-2050~Orosirian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.internal|Period-2050~Orosirian.internal]]'
@@ -116,7 +116,7 @@ dv_has_duration_years: 2.500e+8
 dv_has_previous_item: '[[Period-2300~Rhyacian]]'
 dv_has_next_item: '[[Period-1800~Statherian]]'
 dv_is_same_as:
-- '[[WD~Orosirian,597383]]'
+- '[[_Standards/WikiData/WD~Orosirian,597383]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian|Period-2050~Orosirian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.public|Period-2050~Orosirian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.internal|Period-2050~Orosirian.internal]]'
@@ -160,7 +160,7 @@ A time period from 2050 to 1800 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Orosirian,597383]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orosirian,597383]] 
 
 ## #has_/text_of_/abstract 
 

@@ -120,7 +120,7 @@ dv_has_:
 
 # [[Land_Art]] 
 
-#is_/same_as :: [[WD~Land_art,326478]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Land_art,326478]] 
 
 ## #has_/text_of_/abstract 
 

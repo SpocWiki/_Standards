@@ -255,7 +255,7 @@ dv_has_:
 
 # [[Chimpanzee]] 
 
-#is_/same_as :: [[WD~Chimpanzee,4126704]]
+#is_/same_as :: [[_Standards/WikiData/WD~Chimpanzee,4126704]]
 
 ![Pan_troglodytes](Chimpanzee/Pan_troglodytes.jpg)
 

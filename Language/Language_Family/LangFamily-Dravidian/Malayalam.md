@@ -298,7 +298,7 @@ dv_has_:
 
 # [[Malayalam]] 
 
-#is_/same_as :: [[WD~Malayalam,36236]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Malayalam,36236]] 
 
 ## #has_/text_of_/abstract 
 

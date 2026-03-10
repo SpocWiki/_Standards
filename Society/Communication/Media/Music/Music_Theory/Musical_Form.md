@@ -149,7 +149,7 @@ dv_has_:
 
 # [[Musical_Form]] 
 
-#is_/same_as :: [[WD~Musical_form,862597]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Musical_form,862597]] 
 
 ## #has_/text_of_/abstract 
 

@@ -336,7 +336,7 @@ dv_has_:
 
 # [[GDP(Gross_domestic_Product)]] 
 
-#is_/same_as :: [[WD~Gross_domestic_product,12638]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gross_domestic_product,12638]] 
 
 ## #has_/text_of_/abstract 
 

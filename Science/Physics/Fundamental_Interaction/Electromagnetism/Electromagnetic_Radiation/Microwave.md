@@ -207,7 +207,7 @@ dv_has_:
 
 # [[Microwave]] 
 
-#is_/same_as :: [[WD~Microwave,127995]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Microwave,127995]] 
 
 ## #has_/text_of_/abstract 
 

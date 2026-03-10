@@ -128,7 +128,7 @@ dv_has_:
 
 # [[Open_Society]] 
 
-#is_/same_as :: [[WD~Open_society,505605]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Open_society,505605]] 
 
 ## #has_/text_of_/abstract 
 

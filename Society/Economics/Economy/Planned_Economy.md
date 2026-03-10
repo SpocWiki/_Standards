@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Planned_Economy]] 
 
-#is_/same_as :: [[WD~Planned_economy,189724]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Planned_economy,189724]] 
 
 ## #has_/text_of_/abstract 
 

@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Stock_Market]] 
 
-#is_/same_as :: [[WD~Stock_Market,475000]]
+#is_/same_as :: [[_Standards/WikiData/WD~Stock_Market,475000]]
 
 ## #has_/text_of_/abstract 
 

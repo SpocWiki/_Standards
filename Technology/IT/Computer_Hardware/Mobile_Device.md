@@ -153,7 +153,7 @@ dv_has_:
 
 # [[Mobile_Device]] 
 
-#is_/same_as :: [[WD~Mobile_device,5082128]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mobile_device,5082128]] 
 
 ## #has_/text_of_/abstract 
 

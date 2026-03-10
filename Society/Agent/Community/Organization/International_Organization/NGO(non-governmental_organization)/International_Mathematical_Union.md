@@ -126,7 +126,7 @@ dv_has_:
 
 # [[International_Mathematical_Union]] 
 
-#is_/same_as :: [[WD~International_Mathematical_Union,828490]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Mathematical_Union,828490]] 
 
 ## #has_/text_of_/abstract 
 

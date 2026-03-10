@@ -70,7 +70,7 @@ dv_has_:
 
 # [[FOMO]] 
 
-#is_/same_as :: [[WD~FOMO,16753510]] 
+#is_/same_as :: [[_Standards/WikiData/WD~FOMO,16753510]] 
 #has_/complement :: [[../../../../../bio/Psychology/Mind/Meditation|Meditation]]  
 
 ## #has_/text_of_/abstract 

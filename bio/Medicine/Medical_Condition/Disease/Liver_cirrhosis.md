@@ -298,7 +298,7 @@ dv_has_:
 
 # [[Liver_cirrhosis]] 
 
-#is_/same_as :: [[WD~Liver_cirrhosis,147778]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Liver_cirrhosis,147778]] 
 
 ## #has_/text_of_/abstract 
 

@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Lagoon]] 
 
-#is_/same_as :: [[WD~Lagoon,187223]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lagoon,187223]] 
 
 ## #has_/text_of_/abstract 
 

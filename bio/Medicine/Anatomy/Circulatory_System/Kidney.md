@@ -374,7 +374,7 @@ dv_has_:
 
 # [[Kidney]] 
 
-#is_/same_as :: [[WD~Kidney,9377]]
+#is_/same_as :: [[_Standards/WikiData/WD~Kidney,9377]]
 
 ## #has_/text_of_/abstract 
 

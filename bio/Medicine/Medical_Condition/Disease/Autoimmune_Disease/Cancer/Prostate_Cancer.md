@@ -311,7 +311,7 @@ dv_has_:
 
 # [[Prostate_Cancer]] 
 
-#is_/same_as :: [[WD~Prostate_cancer,181257]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Prostate_cancer,181257]] 
 
 ## #has_/text_of_/abstract 
 

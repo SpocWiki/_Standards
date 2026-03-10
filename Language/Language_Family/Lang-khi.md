@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Lang-khi]] 
 
-#is_/same_as :: [[WD~Khoisan,33614]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Khoisan,33614]] 
 
 ## #has_/text_of_/abstract 
 

@@ -99,7 +99,7 @@ dv_has_:
     stopped: -509000000
 dv_is_:
   same_as:
-  - '[[WD~Cambrian_Series_2,5025303]]'
+  - '[[_Standards/WikiData/WD~Cambrian_Series_2,5025303]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2|Epoch-521~Cambrian_Series-2]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.public|Epoch-521~Cambrian_Series-2.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.internal|Epoch-521~Cambrian_Series-2.internal]]'
@@ -111,7 +111,7 @@ dv_has_duration_years: 1.200e+7
 dv_has_previous_item: '[[Epoch~]]'
 dv_has_next_item: '[[Epoch~]]'
 dv_is_same_as:
-- '[[WD~Cambrian_Series_2,5025303]]'
+- '[[_Standards/WikiData/WD~Cambrian_Series_2,5025303]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2|Epoch-521~Cambrian_Series-2]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.public|Epoch-521~Cambrian_Series-2.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.internal|Epoch-521~Cambrian_Series-2.internal]]'
@@ -153,7 +153,7 @@ dv_has_text_of_color: 0x99C078
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Cambrian_Series_2,5025303]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Cambrian_Series_2,5025303]] 
 
 A time period from 521 to 509 million years ago. 
 

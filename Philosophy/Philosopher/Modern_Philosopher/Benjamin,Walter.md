@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Benjamin,Walter]] 
 
-#is_/same_as :: [[WD~Walter_Benjamin,61078]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Walter_Benjamin,61078]] 
 
 ## #has_/text_of_/abstract 
 

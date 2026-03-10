@@ -311,7 +311,7 @@ dv_has_:
 
 # [[Brahms,Johannes 1]] 
 
-#is_/same_as :: [[WD~Johannes_Brahms,7294]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Johannes_Brahms,7294]] 
 
 ## #has_/text_of_/abstract 
 

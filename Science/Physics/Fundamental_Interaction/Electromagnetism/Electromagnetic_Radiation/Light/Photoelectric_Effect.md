@@ -193,7 +193,7 @@ dv_has_:
 
 # [[Photoelectric_Effect]] 
 
-#is_/same_as :: [[WD~Photoelectric_effect,83213]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Photoelectric_effect,83213]] 
 
 ## #has_/text_of_/abstract 
 

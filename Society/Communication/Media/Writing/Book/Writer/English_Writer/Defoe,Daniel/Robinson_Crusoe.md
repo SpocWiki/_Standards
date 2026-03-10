@@ -155,7 +155,7 @@ aliases:
 
 # [[Robinson_Crusoe]] 
 
-#is_/same_as :: [[WD~Robinson_Crusoe,483034]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robinson_Crusoe,483034]] 
 
 ## #has_/text_of_/abstract 
 

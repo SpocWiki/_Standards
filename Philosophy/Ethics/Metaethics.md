@@ -110,7 +110,7 @@ dv_has_:
 
 # [[Metaethics]] 
 
-#is_/same_as :: [[WD~Metaethics,56003]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Metaethics,56003]] 
 
 ## #has_/text_of_/abstract 
 

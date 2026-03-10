@@ -285,7 +285,7 @@ dv_has_:
 
 # [[Leukemia]] 
 
-#is_/same_as :: [[WD~Leukemia,29496]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leukemia,29496]] 
 
 ## #has_/text_of_/abstract 
 

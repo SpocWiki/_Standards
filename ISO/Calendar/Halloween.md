@@ -298,7 +298,7 @@ dv_has_:
 
 # [[Halloween]] 
 
-#is_/same_as :: [[WD~Halloween,251868]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Halloween,251868]] 
 
 ## #has_/text_of_/abstract 
 

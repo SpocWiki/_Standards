@@ -193,7 +193,7 @@ dv_has_:
 
 # [[McLuhan,Marshall]] 
 
-#is_/same_as :: [[WD~Marshall_McLuhan,193871]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Marshall_McLuhan,193871]] 
 #has_/created_/quote :: The Media is the Message 
 #has_/created_/quote :: Global Village 
 

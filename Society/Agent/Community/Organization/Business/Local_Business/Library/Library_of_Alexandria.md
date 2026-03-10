@@ -232,7 +232,7 @@ dv_has_:
 
 # [[Library_of_Alexandria]] 
 
-#is_/same_as :: [[WD~Library_of_Alexandria,435]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Library_of_Alexandria,435]] 
 
 ## #has_/text_of_/abstract 
 

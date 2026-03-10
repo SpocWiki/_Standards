@@ -263,7 +263,7 @@ dv_has_:
 
 # [[Satan]] 
 
-#is_/same_as :: [[WD~Satan,35230]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Satan,35230]] 
 
 ## #has_/text_of_/abstract 
 

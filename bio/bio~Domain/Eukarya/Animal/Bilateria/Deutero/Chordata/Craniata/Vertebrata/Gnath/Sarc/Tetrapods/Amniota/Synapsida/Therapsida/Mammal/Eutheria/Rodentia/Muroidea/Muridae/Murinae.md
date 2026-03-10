@@ -116,7 +116,7 @@ dv_has_:
 ![ ](Murinae/327896667_150f8c707e_o.jpg)
 ![](Murinae/277642366_884c30cb87_o.jpg)
 
-#is_/same_as :: [[WD~Murinae,30266]]
+#is_/same_as :: [[_Standards/WikiData/WD~Murinae,30266]]
 
 ## #has_/text_of_/abstract 
 

@@ -74,7 +74,7 @@ dv_has_:
 # [[Nonlinear_Programming]] 
 
 #is_/similar_to :: [[Linear_Programming|Linear_Programming]] 
-#is_/same_as :: [[WD~Nonlinear_programming,769909]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nonlinear_programming,769909]] 
 
 ## #has_/text_of_/abstract 
 

@@ -145,7 +145,7 @@ dv_has_:
 
 # [[Partial_Derivative]] 
 
-#is_/same_as :: [[WD~Partial_derivative,186475]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Partial_derivative,186475]] 
 
 ## #has_/text_of_/abstract 
 

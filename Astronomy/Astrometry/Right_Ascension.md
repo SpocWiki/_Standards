@@ -189,7 +189,7 @@ dv_has_:
 
 # [[Right_Ascension]] 
 
-#is_/same_as :: [[WD~Right_ascension,13442]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Right_ascension,13442]] 
 
 ## #has_/text_of_/abstract 
 

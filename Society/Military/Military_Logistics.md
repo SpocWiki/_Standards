@@ -123,7 +123,7 @@ dv_has_:
 
 # [[Military_Logistics]] 
 
-#is_/same_as :: [[WD~Military_logistics,163059]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_logistics,163059]] 
 
 ## #has_/text_of_/abstract 
 

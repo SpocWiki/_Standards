@@ -279,7 +279,7 @@ dv_has_:
 
 # [[Meningitis]] 
 
-#is_/same_as :: [[WD~Meningitis,48143]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Meningitis,48143]] 
 
 ## #has_/text_of_/abstract 
 

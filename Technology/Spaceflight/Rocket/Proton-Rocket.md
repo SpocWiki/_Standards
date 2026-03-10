@@ -107,7 +107,7 @@ dv_has_:
 
 # [[Proton-Rocket]] 
 
-#is_/same_as :: [[WD~Proton,249231]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Proton,249231]] 
 
 ## #has_/text_of_/abstract 
 

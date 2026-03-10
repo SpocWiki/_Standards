@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Boltzmann,Ludwig]] 
 
-#is_/same_as :: [[WD~Ludwig_Boltzmann,84296]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ludwig_Boltzmann,84296]] 
 
 ## #has_/text_of_/abstract 
 

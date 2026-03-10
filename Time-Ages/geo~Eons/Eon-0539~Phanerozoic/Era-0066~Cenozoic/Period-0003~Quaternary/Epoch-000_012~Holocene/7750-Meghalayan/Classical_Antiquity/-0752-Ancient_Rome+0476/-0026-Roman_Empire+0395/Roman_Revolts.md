@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Roman_Revolts]] 
 
-#is_/same_as :: [[WD~List_of_Roman_civil_wars_and_revolts,1747183]] 
+#is_/same_as :: [[_Standards/WikiData/WD~List_of_Roman_civil_wars_and_revolts,1747183]] 
 
 ## #has_/text_of_/abstract 
 

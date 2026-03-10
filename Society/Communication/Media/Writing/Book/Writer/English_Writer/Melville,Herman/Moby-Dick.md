@@ -280,7 +280,7 @@ dv_has_:
 
 # [[Moby-Dick]] 
 
-#is_/same_as :: [[WD~Moby-Dick,174596]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Moby-Dick,174596]] 
 
 ## #has_/text_of_/abstract 
 

@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Monsoon]] 
 
-#is_/same_as :: [[WD~Monsoon,42967]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Monsoon,42967]] 
 
 ## #has_/text_of_/abstract 
 

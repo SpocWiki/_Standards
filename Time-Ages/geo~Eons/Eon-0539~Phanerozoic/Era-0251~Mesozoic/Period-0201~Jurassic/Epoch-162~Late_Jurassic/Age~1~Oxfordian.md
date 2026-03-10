@@ -91,7 +91,7 @@ dv_has_:
     stopped: -154.8e6
 dv_is_:
   same_as:
-  - '[[WD~Oxfordian,375784]]'
+  - '[[_Standards/WikiData/WD~Oxfordian,375784]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.public|Age~1~Oxfordian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.internal|Age~1~Oxfordian.internal]]'
@@ -103,7 +103,7 @@ dv_has_duration_years: 6.700e+6
 dv_has_previous_item: '[[../Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]'
 dv_has_next_item: '[[Age~2~Kimmeridgian]]'
 dv_is_same_as:
-- '[[WD~Oxfordian,375784]]'
+- '[[_Standards/WikiData/WD~Oxfordian,375784]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.public|Age~1~Oxfordian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.internal|Age~1~Oxfordian.internal]]'
@@ -145,7 +145,7 @@ dv_has_text_of_color: 0xBFE7F1
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Oxfordian,375784]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oxfordian,375784]] 
 
 A time period from 161.5 to 154.8 million years ago. 
 

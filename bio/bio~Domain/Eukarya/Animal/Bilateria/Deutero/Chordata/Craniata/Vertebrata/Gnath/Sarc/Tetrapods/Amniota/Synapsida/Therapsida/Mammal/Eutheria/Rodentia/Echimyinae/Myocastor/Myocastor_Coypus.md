@@ -218,7 +218,7 @@ dv_has_:
 
 # [[Myocastor_Coypus]] 
 
-#is_/same_as :: [[WD~Myocastor_coypus,187704]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Myocastor_coypus,187704]] 
 
 ## #has_/text_of_/abstract 
 

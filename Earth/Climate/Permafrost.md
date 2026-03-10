@@ -208,7 +208,7 @@ dv_has_:
 
 # [[Permafrost]] 
 
-#is_/same_as :: [[WD~Permafrost,179918]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Permafrost,179918]] 
 
 ## #has_/text_of_/abstract  
 

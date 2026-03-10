@@ -118,7 +118,7 @@ dv_has_:
 
 # [[Life_Magazine]] 
 
-#is_/same_as :: [[WD~Life,463198]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Life,463198]] 
 
 ## #has_/text_of_/abstract 
 

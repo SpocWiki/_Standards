@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Sadness]] 
 
-#is_/same_as :: [[WD~Sadness,169251]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sadness,169251]] 
 
 ## #has_/text_of_/abstract 
 

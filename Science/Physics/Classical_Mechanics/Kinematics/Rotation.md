@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Rotation]] 
 
-#is_/same_as :: [[WD~Rotation,107617]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rotation,107617]] 
 
 ## #has_/text_of_/abstract 
 

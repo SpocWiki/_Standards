@@ -195,7 +195,7 @@ dv_has_:
 
 # [[James_Bond,books]] 
 
-#is_/same_as :: [[WD~James_Bond,844]] 
+#is_/same_as :: [[_Standards/WikiData/WD~James_Bond,844]] 
 
 ## #has_/text_of_/abstract 
 

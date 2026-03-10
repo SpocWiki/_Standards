@@ -128,7 +128,7 @@ dv_has_:
 
 # [[Twelve-tone_Technique]] 
 
-#is_/same_as :: [[WD~Twelve-tone_technique,221686]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Twelve-tone_technique,221686]] 
 
 ## #has_/text_of_/abstract 
 

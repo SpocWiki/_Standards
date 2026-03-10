@@ -219,7 +219,7 @@ dv_has_:
 
 # [[Bernoulli,Jacob]] 
 
-#is_/same_as :: [[WD~Jacob_Bernoulli,122392]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jacob_Bernoulli,122392]] 
 
 ## #has_/text_of_/abstract 
 

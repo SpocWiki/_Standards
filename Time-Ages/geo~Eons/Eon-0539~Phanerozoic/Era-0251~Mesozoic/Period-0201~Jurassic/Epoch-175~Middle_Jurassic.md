@@ -115,7 +115,7 @@ dv_has_:
     stopped: -161.5e6
 dv_is_:
   same_as:
-  - '[[WD~Middle_Jurassic,500054]]'
+  - '[[_Standards/WikiData/WD~Middle_Jurassic,500054]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic|Epoch-175~Middle_Jurassic]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.public|Epoch-175~Middle_Jurassic.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.internal|Epoch-175~Middle_Jurassic.internal]]'
@@ -127,7 +127,7 @@ dv_has_duration_years: 1.320e+7
 dv_has_previous_item: '[[Epoch-201~Early_Jurassic]]'
 dv_has_next_item: '[[Epoch-162~Late_Jurassic]]'
 dv_is_same_as:
-- '[[WD~Middle_Jurassic,500054]]'
+- '[[_Standards/WikiData/WD~Middle_Jurassic,500054]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic|Epoch-175~Middle_Jurassic]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.public|Epoch-175~Middle_Jurassic.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.internal|Epoch-175~Middle_Jurassic.internal]]'
@@ -169,7 +169,7 @@ dv_has_text_of_color: 0x80CFD8
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Middle_Jurassic,500054]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Middle_Jurassic,500054]] 
 
 A time period from 174.7 to 161.5 million years ago. 
 

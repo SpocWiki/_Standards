@@ -208,7 +208,7 @@ dv_has_:
 
 # [[Heinlein,Robert_A]] 
 
-#is_/same_as :: [[WD~Robert_A._Heinlein,123078]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_A._Heinlein,123078]] 
 
 ## #has_/text_of_/abstract 
 

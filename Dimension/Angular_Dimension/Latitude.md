@@ -277,7 +277,7 @@ dv_has_:
 
 # [[Latitude]] 
 
-#is_/same_as :: [[WD~Latitude,34027]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Latitude,34027]] 
 #is_/different_from :: [[../../schema-org/Property/has_value_for/has_place_latitude|has_place_latitude]] 
 the latter is the Property to assign the Value for this Dimension 
 

@@ -216,7 +216,7 @@ dv_has_:
 
 # [[Microeconomics]] 
 
-#is_/same_as :: [[WD~Microeconomics,39072]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Microeconomics,39072]] 
 
 ## #has_/text_of_/abstract 
 

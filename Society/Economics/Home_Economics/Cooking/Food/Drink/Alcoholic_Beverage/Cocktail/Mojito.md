@@ -129,7 +129,7 @@ dv_has_:
 
 # [[Mojito]] 
 
-#is_/same_as :: [[WD~Mojito,487338]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mojito,487338]] 
 
 ## #has_/text_of_/abstract 
 

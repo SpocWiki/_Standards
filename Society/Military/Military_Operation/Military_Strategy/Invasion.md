@@ -149,7 +149,7 @@ dv_has_:
 
 # [[Invasion]] 
 
-#is_/same_as :: [[WD~Invasion,467011]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Invasion,467011]] 
 
 ## #has_/text_of_/abstract 
 

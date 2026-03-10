@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Rabbi]] 
 
-#is_/same_as :: [[WD~Rabbi,133485]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rabbi,133485]] 
 
 ## #has_/text_of_/abstract 
 

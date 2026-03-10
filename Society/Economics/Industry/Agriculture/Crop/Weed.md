@@ -224,7 +224,7 @@ dv_has_:
 
 # [[Weed]] 
 
-#is_/same_as :: [[WD~Weed,101879]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Weed,101879]] 
 
 ## #has_/text_of_/abstract 
 

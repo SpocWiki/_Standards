@@ -350,7 +350,7 @@ dv_has_:
 
 # [[Nazi_Party]]  
 
-#is_/same_as :: [[WD~Nazi_Party,7320]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nazi_Party,7320]] 
 
 ## #has_/text_of_/abstract 
 

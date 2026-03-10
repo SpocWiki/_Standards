@@ -241,7 +241,7 @@ dv_has_:
 
 # [[Osteichthyes]] 
 
-#is_/same_as :: [[WD~Osteichthyes,27207]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Osteichthyes,27207]] 
 
 ## #has_/text_of_/abstract 
 

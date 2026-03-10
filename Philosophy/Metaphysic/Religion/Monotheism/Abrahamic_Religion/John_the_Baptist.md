@@ -353,7 +353,7 @@ dv_has_:
 
 # [[John_the_Baptist]] 
 
-#is_/same_as :: [[WD~John_the_Baptist,40662]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_the_Baptist,40662]] 
 
 ## #has_/text_of_/abstract 
 

@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Orphan]] 
 
-#is_/same_as :: [[WD~Orphan,193279]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orphan,193279]] 
 ## #has_/text_of_/abstract 
 
 > An **Orphan** is a child whose parents have died, are unknown, or have permanently abandoned them. 

@@ -171,7 +171,7 @@ dv_has_:
 
 # [[Latin_Literature]] 
 
-#is_/same_as :: [[WD~Latin-language_literature,184890]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Latin-language_literature,184890]] 
 
 ## #has_/text_of_/abstract 
 

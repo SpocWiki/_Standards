@@ -272,7 +272,7 @@ dv_has_:
 
 # [[Local_Group]] 
 
-#is_/same_as :: [[WD~Local_Group,3944]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Local_Group,3944]] 
 
 ## #has_/text_of_/abstract 
 

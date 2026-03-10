@@ -436,7 +436,7 @@ dv_has_:
 
 # [[Heracles]] 
 
-#is_/same_as :: [[WD~Heracles,122248]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heracles,122248]] 
 
 ## #has_/text_of_/abstract 
 

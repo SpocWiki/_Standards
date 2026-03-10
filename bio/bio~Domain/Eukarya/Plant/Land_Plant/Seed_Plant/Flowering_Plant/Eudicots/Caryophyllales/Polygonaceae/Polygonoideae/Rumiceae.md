@@ -53,7 +53,7 @@ dv_has_:
 
 # [[Rumiceae]] 
 
-#is_/same_as :: [[WD~Rumiceae,15793487]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rumiceae,15793487]] 
 
 ## #has_/text_of_/abstract 
 

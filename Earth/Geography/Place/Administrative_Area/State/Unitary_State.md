@@ -264,7 +264,7 @@ dv_has_:
 # [[Unitary_State]] 
 
 is_opposite_of = `=this.dv_is_opposite_of`
-#is_/same_as :: [[WD~Unitary_state,179164]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Unitary_state,179164]] 
 
 ## #has_/text_of_/abstract 
 

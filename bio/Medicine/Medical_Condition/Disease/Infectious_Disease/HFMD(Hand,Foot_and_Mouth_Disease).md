@@ -148,7 +148,7 @@ dv_has_:
 
 # [[HFMD(Hand,Foot_and_Mouth_Disease)]]  
 
-#is_/same_as :: [[WD~Hand,_foot_and_mouth_disease,652744]]
+#is_/same_as :: [[_Standards/WikiData/WD~Hand,_foot_and_mouth_disease,652744]]
 
 ## #has_/text_of_/abstract 
 

@@ -779,7 +779,7 @@ dv_has_:
     zh_tw: 油酸
 dv_is_:
   same_as:
-  - '[[WD~Oleic_Acid,207688]]'
+  - '[[_Standards/WikiData/WD~Oleic_Acid,207688]]'
   - '[[Oleic_Acid]]'
   - '[[/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.public|Oleic_Acid.public]]'
   - '[[/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.internal|Oleic_Acid.internal]]'
@@ -789,7 +789,7 @@ dv_is_:
   - '[[/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.secret|Oleic_Acid.secret]]'
 dv_has_formula_structural: CH3-(CH2)7-CH=CH-(CH2)7-COOH
 dv_is_same_as:
-- '[[WD~Oleic_Acid,207688]]'
+- '[[_Standards/WikiData/WD~Oleic_Acid,207688]]'
 - '[[Oleic_Acid]]'
 - '[[/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.public|Oleic_Acid.public]]'
 - '[[/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.internal|Oleic_Acid.internal]]'
@@ -802,7 +802,7 @@ dv_is_same_as:
 # [[Oleic_Acid]] 
 
  has_formula_structural = `= this.dv_has_formula_structural` 
-#is_/same_as :: [[WD~Oleic_Acid,207688]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oleic_Acid,207688]] 
 
 ## #has_/text_of_/abstract 
 

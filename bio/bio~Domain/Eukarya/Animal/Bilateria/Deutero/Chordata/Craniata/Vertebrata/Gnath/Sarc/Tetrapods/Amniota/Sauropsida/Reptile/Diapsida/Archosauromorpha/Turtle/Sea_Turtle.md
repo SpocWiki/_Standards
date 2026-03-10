@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Sea_Turtle]] 
 
-#is_/same_as :: [[WD~Sea_turtle,219329]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sea_turtle,219329]] 
 
 ## #has_/text_of_/abstract 
 

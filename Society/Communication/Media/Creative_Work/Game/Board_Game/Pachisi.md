@@ -88,7 +88,7 @@ dv_has_:
 
 # [[Pachisi]] 
 
-#is_/same_as :: [[WD~Pachisi,796171]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pachisi,796171]] 
 
 ## #has_/text_of_/abstract 
 

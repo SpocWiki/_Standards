@@ -272,7 +272,7 @@ dv_has_:
 
 # [[Primary_School]] 
 
-#is_/same_as :: [[WD~Primary_school,9842]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Primary_school,9842]] 
 
 ## #has_/text_of_/abstract 
 

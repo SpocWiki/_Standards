@@ -111,7 +111,7 @@ dv_has_:
     stopped: -72.1e6
 dv_is_:
   same_as:
-  - '[[WD~Campanian,492941]]'
+  - '[[_Standards/WikiData/WD~Campanian,492941]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian|Age~5~Campanian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.public|Age~5~Campanian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.internal|Age~5~Campanian.internal]]'
@@ -123,7 +123,7 @@ dv_has_duration_years: 1.150e+7
 dv_has_previous_item: '[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Gelasian]]'
 dv_has_next_item: '[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian|Chibanian]]'
 dv_is_same_as:
-- '[[WD~Campanian,492941]]'
+- '[[_Standards/WikiData/WD~Campanian,492941]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian|Age~5~Campanian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.public|Age~5~Campanian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.internal|Age~5~Campanian.internal]]'
@@ -167,7 +167,7 @@ A time period from 83.6 to 72.1 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Campanian,492941]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Campanian,492941]] 
 
 ## #has_/text_of_/abstract 
 

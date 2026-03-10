@@ -127,7 +127,7 @@ dv_has_:
 
 # [[Medical_Examination]] 
 
-#is_/same_as :: [[WD~Physical_examination,835153]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Physical_examination,835153]] 
 
 ## #has_/text_of_/abstract 
 

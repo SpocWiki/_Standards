@@ -246,7 +246,7 @@ dv_has_:
 
 # [[Noah]] 
 
-#is_/same_as :: [[WD~Noah,81422]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Noah,81422]] 
 
 ## #has_/text_of_/abstract 
 

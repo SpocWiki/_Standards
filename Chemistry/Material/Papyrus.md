@@ -211,7 +211,7 @@ dv_has_:
 # [[Papyrus]] 
 
 is_similar_to = `=this.dv_is_similar_to` 
-#is_/same_as :: [[WD~Papyrus,125576]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Papyrus,125576]] 
 
 ## #has_/text_of_/abstract 
 

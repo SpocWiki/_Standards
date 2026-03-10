@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Soto,Hernando_de]] 
 
-#is_/same_as :: [[WD~Hernando_de_Soto,60040]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hernando_de_Soto,60040]] 
 
 ## #has_/text_of_/abstract 
 

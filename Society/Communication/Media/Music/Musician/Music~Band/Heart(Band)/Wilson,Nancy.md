@@ -114,7 +114,7 @@ dv_has_:
 
 # [[Wilson,Nancy]]  
 
-#is_/same_as :: [[WD~Nancy_Wilson,263772]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nancy_Wilson,263772]] 
 
 ## #has_/text_of_/abstract 
 

@@ -165,7 +165,7 @@ dv_has_:
 
 # [[Modulation]] 
 
-#is_/same_as :: [[WD~Modulation,170474]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Modulation,170474]] 
 
 ## #has_/text_of_/abstract 
 

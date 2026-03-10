@@ -194,7 +194,7 @@ dv_has_:
 
 # [[Phelps,Michael]] 
 
-#is_/same_as :: [[WD~Michael_Phelps,39562]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Michael_Phelps,39562]] 
 
 ## #has_/text_of_/abstract 
 

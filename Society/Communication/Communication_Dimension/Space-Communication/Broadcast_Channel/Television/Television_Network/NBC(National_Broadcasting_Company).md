@@ -188,7 +188,7 @@ dv_has_:
 
 # [[NBC(National_Broadcasting_Company)]]
 
-#is_/same_as :: [[WD~NBC,13974]] 
+#is_/same_as :: [[_Standards/WikiData/WD~NBC,13974]] 
 
 ## #has_/text_of_/abstract 
 

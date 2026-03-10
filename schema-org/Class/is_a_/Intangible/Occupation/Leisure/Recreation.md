@@ -234,7 +234,7 @@ dv_has_:
 
 # [[Recreation]] 
 
-#is_/same_as :: [[WD~Recreation,184872]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Recreation,184872]] 
 
 ## #has_/text_of_/abstract 
 

@@ -269,7 +269,7 @@ dv_has_:
 
 # [[Sibelius,Jean]]  
 
-#is_/same_as :: [[WD~Jean_Sibelius,45682]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Jean_Sibelius,45682]]  
 
 ## #has_/text_of_/abstract 
 

@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Masonry]] 
 
-#is_/same_as :: [[WD~Masonry,272999]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Masonry,272999]] 
 
 ## #has_/text_of_/abstract 
 

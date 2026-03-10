@@ -124,7 +124,7 @@ dv_has_:
 
 # [[Icon(Computing)]] 
 
-#is_/same_as :: [[wd~Icon,138754]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Icon,138754]] 
 
 ## #has_/text_of_/abstract 
 

@@ -287,7 +287,7 @@ Unicode_character: 🪞
 
 
 
-#is_/same_as :: [[WD~Mirror,35197]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mirror,35197]] 
 
 ## #has_/text_of_/abstract 
 

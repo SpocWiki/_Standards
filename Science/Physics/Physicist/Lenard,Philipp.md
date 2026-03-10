@@ -304,7 +304,7 @@ dv_has_:
 
 # [[Lenard,Philipp]] 
 
-#is_/same_as :: [[WD~Philipp_Lenard,57063]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Philipp_Lenard,57063]] 
 
 ## #has_/text_of_/abstract 
 

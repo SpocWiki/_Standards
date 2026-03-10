@@ -142,7 +142,7 @@ aliases:
 
 # [[Jewish_History]] 
 
-#is_/same_as :: [[WD~Jewish_history,961603]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jewish_history,961603]] 
 
 ## #has_/text_of_/abstract 
 

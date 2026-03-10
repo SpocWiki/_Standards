@@ -195,7 +195,7 @@ dv_has_:
 
 # [[Red_Giant]]
 
-#is_/same_as :: [[WD~Red_giant,50081]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Red_giant,50081]] 
 
 A Star powered by fusion of hydrogen in shell with an inactive core of helium.
 

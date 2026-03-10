@@ -276,7 +276,7 @@ dv_has_:
 # [[Oganesson]] 鿫 
 
 
-#is_/same_as :: [[WD~Oganesson,1307]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oganesson,1307]] 
 
 ## #has_/text_of_/abstract 
 

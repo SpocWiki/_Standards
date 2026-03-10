@@ -6,7 +6,7 @@ aliases:
 
 # [[Robbie,Margot]] 
 
-#is_/same_as :: [[WD~Margot_Robbie,]]
+#is_/same_as :: [[_Standards/WikiData/WD~Margot_Robbie,]]
 
 ## #has_/text_of_/abstract 
 

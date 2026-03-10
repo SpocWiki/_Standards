@@ -252,7 +252,7 @@ dv_has_:
 
 # [[Pseudoscience]] 
 
-#is_/same_as :: [[WD~Pseudoscience,483677]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pseudoscience,483677]] 
 
 ## #has_/text_of_/abstract 
 

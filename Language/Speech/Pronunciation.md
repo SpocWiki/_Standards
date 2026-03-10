@@ -219,7 +219,7 @@ dv_has_:
 
 # [[Pronunciation]] 
 
-#is_/same_as :: [[WD~Pronunciation,184377]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pronunciation,184377]] 
 
 ## #has_/text_of_/abstract 
 

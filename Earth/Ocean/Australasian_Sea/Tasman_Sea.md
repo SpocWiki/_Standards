@@ -331,7 +331,7 @@ dv_has_:
 
 # [[Tasman_Sea]] 
 
-#is_/same_as :: [[WD~Tasman_Sea,33254]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Tasman_Sea,33254]] 
 
 ## #has_/text_of_/abstract 
 

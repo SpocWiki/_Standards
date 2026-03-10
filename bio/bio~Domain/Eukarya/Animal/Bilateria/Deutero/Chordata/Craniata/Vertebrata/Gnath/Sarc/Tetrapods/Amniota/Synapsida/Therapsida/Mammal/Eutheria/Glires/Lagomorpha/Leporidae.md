@@ -232,7 +232,7 @@ dv_has_:
 
 # [[Leporidae]] 
 
-#is_/same_as :: [[WD~Leporidae,25900]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leporidae,25900]] 
 
 ## #has_/text_of_/abstract 
 

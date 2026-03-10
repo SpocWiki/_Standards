@@ -50,7 +50,7 @@ dv_has_:
 
 ## [[EMS(Electrical_muscle_stimulation)]] 
 
-#is_/same_as :: [[WD~Electrical_muscle_stimulation,653580]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Electrical_muscle_stimulation,653580]] 
 
 ## #has_/text_of_/abstract 
 

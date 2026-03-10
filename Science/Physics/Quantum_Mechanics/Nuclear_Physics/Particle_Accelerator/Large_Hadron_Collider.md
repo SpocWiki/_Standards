@@ -232,7 +232,7 @@ dv_has_:
 
 # [[Large_Hadron_Collider]] 
 
-#is_/same_as :: [[WD~Large_Hadron_Collider,40605]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Large_Hadron_Collider,40605]] 
 
 ## #has_/text_of_/abstract 
 

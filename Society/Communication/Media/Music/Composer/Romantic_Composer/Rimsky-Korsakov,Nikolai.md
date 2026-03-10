@@ -266,7 +266,7 @@ dv_has_:
 
 # [[Rimsky-Korsakov,Nikolai]] 
 
-#is_/same_as :: [[WD~Nikolai_Rimsky-Korsakov,93227]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nikolai_Rimsky-Korsakov,93227]] 
 
 ## #has_/text_of_/abstract 
 

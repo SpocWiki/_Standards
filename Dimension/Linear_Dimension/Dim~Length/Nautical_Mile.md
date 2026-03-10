@@ -216,7 +216,7 @@ dv_has_:
 
 # [[Nautical_Mile]] 
 
-#is_/same_as :: [[WD~Nautical_mile,93318]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nautical_mile,93318]] 
 
 ## #has_/text_of_/abstract 
 

@@ -186,7 +186,7 @@ dv_has_:
 # [[Idealism]] 
 
 #has_/complement :: [[Materialism]] 
-#is_/same_as :: [[WD~Idealism,33442]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Idealism,33442]] 
 
 ## #has_/text_of_/abstract 
 

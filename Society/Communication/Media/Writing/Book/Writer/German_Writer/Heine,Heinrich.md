@@ -274,7 +274,7 @@ dv_has_:
 # [[Heine,Heinrich]] 
 
 #has_/created_/quote :: Where books burn, so do people. 
-#is_/same_as :: [[WD~Heinrich_Heine,44403]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heinrich_Heine,44403]] 
 
 ## #has_/text_of_/abstract 
 

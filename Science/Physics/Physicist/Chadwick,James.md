@@ -237,7 +237,7 @@ dv_has_:
 
 # [[Chadwick,James]] 
 
-#is_/same_as :: [[WD~James_Chadwick,80884]] 
+#is_/same_as :: [[_Standards/WikiData/WD~James_Chadwick,80884]] 
 
 ## #has_/text_of_/abstract 
 

@@ -168,7 +168,7 @@ dv_has_:
 
 # [[Mankiewicz,Joseph_L.]] 
 
-#is_/same_as :: [[WD~Joseph_L._Mankiewicz,51583]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Joseph_L._Mankiewicz,51583]] 
 
 ## #has_/text_of_/abstract 
 

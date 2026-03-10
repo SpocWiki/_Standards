@@ -122,7 +122,7 @@ facet_of: '[[_Standards/WikiData/WD~measurement,12453|WD~measurement,12453]]'
 Commons_category: Quantity
 dv_is_:
   same_as:
-  - '[[WD~Quantity,309314]]'
+  - '[[_Standards/WikiData/WD~Quantity,309314]]'
   - '[[/_Standards/schema-org/Predicate/Quantity|Quantity]]'
   - '[[/_public/schema-org/Predicate/Quantity.public|Quantity.public]]'
   - '[[/_internal/schema-org/Predicate/Quantity.internal|Quantity.internal]]'
@@ -241,7 +241,7 @@ dv_has_:
     zu: umngakaniso
   properties: '[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]'
 dv_is_same_as:
-- '[[WD~Quantity,309314]]'
+- '[[_Standards/WikiData/WD~Quantity,309314]]'
 - '[[Quantity]]'
 - '[[/_public/schema-org/Predicate/Quantity.public|Quantity.public]]'
 - '[[/_internal/schema-org/Predicate/Quantity.internal|Quantity.internal]]'
@@ -257,7 +257,7 @@ dv_is_worse_than: '[[../Class/is_a_/Intangible/Structured_Value/Quantitative_Val
 
 # [[Quantity]] 
 
-#is_/same_as :: [[WD~Quantity,309314]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Quantity,309314]] 
 is_worse_than = `=this.dv_is_worse_than` 
 
 Class of all Quantities, i.e. **Types with a** [[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]].

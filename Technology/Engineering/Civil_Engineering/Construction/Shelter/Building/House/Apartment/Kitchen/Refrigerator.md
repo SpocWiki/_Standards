@@ -318,7 +318,7 @@ dv_has_:
 
 # [[Refrigerator]] 
 
-#is_/same_as :: [[WD~Refrigerator,37828]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Refrigerator,37828]] 
 
 ## #has_/text_of_/abstract 
 

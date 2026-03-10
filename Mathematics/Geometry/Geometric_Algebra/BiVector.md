@@ -43,7 +43,7 @@ dv_has_:
 
 # [[BiVector]] 
 
-#is_/same_as :: [[WD~Bivector,663908]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Bivector,663908]] 
 #is_/similar_to :: [[../../Algebra/Linear_Algebra/Vector_Space/Pseudovector|Pseudovector]] 
 
 ## #has_/text_of_/abstract 

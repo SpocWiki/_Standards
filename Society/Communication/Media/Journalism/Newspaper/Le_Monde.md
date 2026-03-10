@@ -115,7 +115,7 @@ dv_has_:
 
 # [[Le_Monde]] 
 
-#is_/same_as :: [[WD~Le_Monde,12461]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Le_Monde,12461]] 
 
 ## #has_/text_of_/abstract 
 

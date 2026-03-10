@@ -266,7 +266,7 @@ dv_has_:
 
 # [[Kerosene]] 
 
-#is_/same_as :: [[WD~Kerosene,76904]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kerosene,76904]] 
 
 ## #has_/text_of_/abstract 
 

@@ -269,7 +269,7 @@ dv_has_:
 
 # [[Gulf_of_Thailand]] 
 
-#is_/same_as :: [[WD~Gulf_of_Thailand,131217]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gulf_of_Thailand,131217]] 
 
 ## #has_/map  
 

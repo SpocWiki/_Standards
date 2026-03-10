@@ -221,7 +221,7 @@ dv_has_:
 
 # [[Quadratic_Equation]] 
 
-#is_/same_as :: [[WD~Quadratic_equation,41299]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Quadratic_equation,41299]] 
 
 ## #has_/text_of_/abstract 
 

@@ -315,7 +315,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[WD~Lighthouse,39715]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lighthouse,39715]] 
 
 ## #has_/text_of_/abstract 
 

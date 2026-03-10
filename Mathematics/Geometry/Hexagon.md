@@ -207,7 +207,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[WD~Hexagon,83043]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hexagon,83043]] 
 
 ## #has_/text_of_/abstract 
 

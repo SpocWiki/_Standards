@@ -152,7 +152,7 @@ dv_has_:
 # [[Military_Tactics]] 
 
 #is_/part_of :: [[../Military_Strategy|Military_Strategy]] 
-#is_/same_as :: [[WD~Military_tactics,207645]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_tactics,207645]] 
 
 ## #has_/text_of_/abstract 
 

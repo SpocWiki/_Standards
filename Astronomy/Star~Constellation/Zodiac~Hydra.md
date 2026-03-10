@@ -226,7 +226,7 @@ has_name_la = `=this.dv_has_name_la`
 has_name_la_genitive = `=this.dv_has_name_la_genitive` 
 has_name_de = `=this.dv_has_name_de` 
 
-#is_/same_as :: [[WD~Hydra,10578]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hydra,10578]] 
 
 ## #has_/text_of_/abstract 
 

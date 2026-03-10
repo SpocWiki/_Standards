@@ -229,7 +229,7 @@ dv_has_:
 
 # [[Biotin]] 
 
-#is_/same_as :: [[WD~Biotin,181354]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Biotin,181354]] 
 
 ## #has_/text_of_/abstract 
 

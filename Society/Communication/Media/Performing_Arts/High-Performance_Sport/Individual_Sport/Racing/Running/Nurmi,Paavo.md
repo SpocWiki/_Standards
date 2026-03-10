@@ -195,7 +195,7 @@ dv_has_:
 
 # [[Nurmi,Paavo]] 
 
-#is_/same_as :: [[WD~Paavo_Nurmi,101942]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paavo_Nurmi,101942]] 
 
 ## #has_/text_of_/abstract 
 

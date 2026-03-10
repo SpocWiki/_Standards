@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Blixen,Karen]] 
 
-#is_/same_as :: [[WD~Karen_Blixen,182804]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Karen_Blixen,182804]] 
 
 ## #has_/text_of_/abstract 
 

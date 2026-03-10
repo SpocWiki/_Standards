@@ -221,7 +221,7 @@ dv_has_:
 
 # [[Paracelsus]] 
 
-#is_/same_as :: [[WD~Paracelsus,83428]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paracelsus,83428]] 
 
 ## #has_/text_of_/abstract 
 

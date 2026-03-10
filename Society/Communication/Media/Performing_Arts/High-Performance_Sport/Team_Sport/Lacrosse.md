@@ -152,7 +152,7 @@ Unicode_character: 🥍
 
 
 
-#is_/same_as :: [[WD~Lacrosse,185851]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lacrosse,185851]] 
 
 ## #has_/text_of_/abstract 
 

@@ -151,7 +151,7 @@ dv_has_:
 
 # [[QCD(Quantum_Chromodynamics)]] 
 
-#is_/same_as :: [[WD~Quantum_chromodynamics,238170]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Quantum_chromodynamics,238170]] 
 
 ## #has_/text_of_/abstract 
 

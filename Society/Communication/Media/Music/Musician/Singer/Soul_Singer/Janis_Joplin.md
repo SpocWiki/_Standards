@@ -210,7 +210,7 @@ dv_has_:
 
 # [[Janis_Joplin]] 
 
-#is_/same_as :: [[WD~Janis_Joplin,1514]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Janis_Joplin,1514]] 
 
 ## #has_/text_of_/abstract 
 

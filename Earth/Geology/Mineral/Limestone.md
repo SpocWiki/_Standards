@@ -286,7 +286,7 @@ dv_has_:
 
 #is_/different_from :: [[Lime(Material)]]  
 #is_/different_from :: [[Sandstone]] 
-#is_/same_as :: [[WD~Limestone,23757]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Limestone,23757]] 
 
 ## #has_/text_of_/abstract 
 

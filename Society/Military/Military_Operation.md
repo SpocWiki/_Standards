@@ -201,7 +201,7 @@ dv_has_:
 # [[Military_Operation]] 
 
 #has_/parts :: [[Military_Operation/Military_Strategy|Military_Strategy]]  
-#is_/same_as :: [[WD~Military_operation,645883]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_operation,645883]] 
 
 ## #has_/text_of_/abstract 
 

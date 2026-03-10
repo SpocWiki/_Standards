@@ -276,7 +276,7 @@ dv_has_:
 
 # [[Homicide]] 
 
-#is_/same_as :: [[WD~Homicide,149086]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Homicide,149086]] 
 
 ## #has_/text_of_/abstract 
 

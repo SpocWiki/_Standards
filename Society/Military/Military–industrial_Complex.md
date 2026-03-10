@@ -152,7 +152,7 @@ dv_has_:
 
 # [[Military–industrial_Complex]]
 
-#is_/same_as :: [[WD~Military–industrial_complex,744593]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military–industrial_complex,744593]] 
 
 ## #has_/text_of_/abstract 
 

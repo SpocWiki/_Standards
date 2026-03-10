@@ -123,7 +123,7 @@ character_designer:
 - '[[_Standards/WikiData/WD~Albert_Hurter,2831248|WD~Albert_Hurter,2831248]]'
 depicts:
 - '[[_Standards/WikiData/WD~dwarf,214045|WD~dwarf,214045]]'
-- '[[WD~work,268378]]'
+- '[[_Standards/WikiData/WD~work,268378]]'
 - '[[_Standards/WikiData/WD~stepmother,15384699|WD~stepmother,15384699]]'
 - '[[_Standards/WikiData/WD~apple,89|WD~apple,89]]'
 - '[[_Standards/WikiData/WD~sleep,35831|WD~sleep,35831]]'
@@ -524,7 +524,7 @@ dv_has_:
 
 # [[Snow_White_and_the_Seven_Dwarfs(1937)]] 
 
-#is_/same_as :: [[WD~Snow_White_and_the_Seven_Dwarfs,134430]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Snow_White_and_the_Seven_Dwarfs,134430]] 
 
 ## #has_/text_of_/abstract 
 

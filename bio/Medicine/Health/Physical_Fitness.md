@@ -165,7 +165,7 @@ dv_has_:
 
 # [[Physical_Fitness]] 
 
-#is_/same_as :: [[WD~Physical_fitness,309252]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Physical_fitness,309252]] 
 
 ## #has_/text_of_/abstract 
 

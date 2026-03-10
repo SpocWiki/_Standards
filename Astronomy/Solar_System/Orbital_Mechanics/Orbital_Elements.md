@@ -132,7 +132,7 @@ dv_has_:
 
 # [[Orbital_Elements]] 
 
-#is_/same_as :: [[WD~Orbital_elements,272626]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orbital_elements,272626]] 
 
 ## #has_/text_of_/abstract 
 

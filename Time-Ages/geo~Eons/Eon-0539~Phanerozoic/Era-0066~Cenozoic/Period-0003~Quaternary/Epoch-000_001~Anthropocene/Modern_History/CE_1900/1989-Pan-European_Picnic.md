@@ -53,7 +53,7 @@ Commons_category: Pan-European Picnic
 dv_is_:
   same_as:
   - 
-  - '[[WD~Pan-European_Picnic,160056]]'
+  - '[[_Standards/WikiData/WD~Pan-European_Picnic,160056]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic|1989-Pan-European_Picnic]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.public|1989-Pan-European_Picnic.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.internal|1989-Pan-European_Picnic.internal]]'
@@ -107,7 +107,7 @@ dv_has_:
     started: 1989-08-19T00:00:00.000+02:00
 dv_is_same_as:
 - 
-- '[[WD~Pan-European_Picnic,160056]]'
+- '[[_Standards/WikiData/WD~Pan-European_Picnic,160056]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic|1989-Pan-European_Picnic]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.public|1989-Pan-European_Picnic.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.internal|1989-Pan-European_Picnic.internal]]'
@@ -122,7 +122,7 @@ dv_has_time_started: 1989-08-19
 
 #is_/same_as :: 
 has_time_started = `=this.dv_has_time_started` 
-#is_/same_as :: [[WD~Pan-European_Picnic,160056]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pan-European_Picnic,160056]] 
 
 ## #has_/text_of_/abstract 
 

@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Helen_of_Troy]] 
 
-#is_/same_as :: [[WD~Helen_of_Troy,164061]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Helen_of_Troy,164061]] 
 
 ## #has_/text_of_/abstract 
 

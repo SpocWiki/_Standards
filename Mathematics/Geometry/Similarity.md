@@ -1,7 +1,7 @@
 
 # [[Similarity]] 
 
-#is_/same_as :: [[WD~Similarity,254465]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Similarity,254465]] 
 
 ## #has_/text_of_/abstract 
 

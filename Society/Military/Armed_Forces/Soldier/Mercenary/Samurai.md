@@ -212,7 +212,7 @@ dv_has_:
 # [[Samurai]] 
 
 #is_/different_from :: [[../../../Military_Operation/Espionage/Spy/Ninja|Ninja]] 
-#is_/same_as :: [[WD~Samurai,38142]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Samurai,38142]] 
 
 ## #has_/text_of_/abstract 
 

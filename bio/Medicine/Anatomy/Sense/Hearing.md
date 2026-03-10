@@ -245,7 +245,7 @@ dv_has_:
 
 # [[Hearing]] 
 
-#is_/same_as :: [[WD~Hearing,160289]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hearing,160289]] 
 
 ## #has_/text_of_/abstract 
 

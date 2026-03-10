@@ -169,7 +169,7 @@ dv_has_:
 
 # [[Pteropodidae]] 
 
-#is_/same_as :: [[WD~Pteropodidae,185230]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pteropodidae,185230]] 
 
 ## #has_/text_of_/abstract 
 

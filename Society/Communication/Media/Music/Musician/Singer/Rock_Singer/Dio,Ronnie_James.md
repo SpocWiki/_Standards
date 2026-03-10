@@ -165,7 +165,7 @@ dv_has_:
 
 # [[Dio,Ronnie_James]] 
 
-#is_/same_as :: [[WD~Ronnie_James_Dio,185151]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ronnie_James_Dio,185151]] 
 
 ## #has_/text_of_/abstract 
 

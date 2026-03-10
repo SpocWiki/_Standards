@@ -146,7 +146,7 @@ dv_has_:
 
 # [[1890-Wounded_Knee_Massacre]] 
 
-#is_/same_as :: [[WD~Wounded_Knee_Massacre,108413]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Wounded_Knee_Massacre,108413]]  
 
 ## #has_/text_of_/abstract 
 

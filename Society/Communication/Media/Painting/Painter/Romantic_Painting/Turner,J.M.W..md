@@ -374,7 +374,7 @@ dv_has_:
 
 # [[Turner,J.M.W.]] 
 
-#is_/same_as :: [[WD~J._M._W._Turner,159758]]
+#is_/same_as :: [[_Standards/WikiData/WD~J._M._W._Turner,159758]]
 
 ## #has_/text_of_/abstract 
 

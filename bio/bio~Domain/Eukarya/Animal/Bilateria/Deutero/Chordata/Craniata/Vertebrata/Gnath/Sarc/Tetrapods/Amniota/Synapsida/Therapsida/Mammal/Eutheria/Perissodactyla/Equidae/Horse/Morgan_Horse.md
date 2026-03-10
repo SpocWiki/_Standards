@@ -65,7 +65,7 @@ dv_has_:
 
 # [[Morgan_Horse]] 
 
-#is_/same_as :: [[WD~Morgan_horse,1179217]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Morgan_horse,1179217]] 
 
 ## #has_/text_of_/abstract 
 

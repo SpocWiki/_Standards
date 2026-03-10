@@ -280,7 +280,7 @@ dv_has_:
 
 # [[Liquorice]] 
 
-#is_/same_as :: [[WD~Liquorice,257106]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Liquorice,257106]] 
 
 ## #has_/text_of_/abstract 
 

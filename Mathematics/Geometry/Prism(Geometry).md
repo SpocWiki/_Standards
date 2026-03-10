@@ -140,7 +140,7 @@ dv_has_:
 # [[Prism(Geometry)]] 
 
 #is_/different_from :: [[../../Science/Physics/Wave/Optics/Prism(Optics)|Prism(Optics)]] 
-#is_/same_as :: [[WD~Prism,180544]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Prism,180544]] 
 
 ## #has_/text_of_/abstract 
 

@@ -141,7 +141,7 @@ dv_has_:
 
 # [[Saffir–Simpson_hurricane_wind_scale]] 
 
-#is_/same_as :: [[WD~Saffir–Simpson_hurricane_wind_scale,205801]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Saffir–Simpson_hurricane_wind_scale,205801]] 
 
 ## #has_/text_of_/abstract 
 

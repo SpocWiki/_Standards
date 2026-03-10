@@ -132,7 +132,7 @@ dv_has_:
 # [[Economic_Bubble]] 
 
 #is_/similar_to :: [[../Ponzi_Scheme|Ponzi_Scheme]] 
-#is_/same_as :: [[WD~Economic_bubble,207781]]
+#is_/same_as :: [[_Standards/WikiData/WD~Economic_bubble,207781]]
 
 ## #has_/text_of_/abstract 
 

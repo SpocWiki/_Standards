@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Router]] 
 
-#is_/same_as :: [[WD~Router,5318]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Router,5318]] 
 
 ## #has_/text_of_/abstract 
 

@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Maya_Calendar]] 
 
-#is_/same_as :: [[WD~Maya_calendar,2012]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Maya_calendar,2012]] 
 
 ## #has_/text_of_/abstract 
 

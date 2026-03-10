@@ -81,7 +81,7 @@ dv_has_:
 
 # [[Shor's_Algorithm]] 
 
-#is_/same_as :: [[WD~Shor's_algorithm,940334]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Shor's_algorithm,940334]] 
 
 ## #has_/text_of_/abstract 
 

@@ -103,7 +103,7 @@ dv_has_:
 
 # [[Cochrane,Josephine]] 
 
-#is_/same_as :: [[WD~Josephine_Cochrane,21901]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Josephine_Cochrane,21901]] 
 
 ## #has_/text_of_/abstract 
 

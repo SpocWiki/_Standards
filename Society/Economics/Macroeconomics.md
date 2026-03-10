@@ -211,7 +211,7 @@ dv_has_:
 
 # [[Macroeconomics]] 
 
-#is_/same_as :: [[WD~Macroeconomics,39680]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Macroeconomics,39680]] 
 
 ## #has_/text_of_/abstract 
 

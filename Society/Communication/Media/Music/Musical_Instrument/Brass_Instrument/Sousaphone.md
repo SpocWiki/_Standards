@@ -97,7 +97,7 @@ dv_has_:
 
 # [[Sousaphone]] 
 
-#is_/same_as :: [[WD~Sousaphone,499387]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sousaphone,499387]] 
 
 ## #has_/text_of_/abstract 
 

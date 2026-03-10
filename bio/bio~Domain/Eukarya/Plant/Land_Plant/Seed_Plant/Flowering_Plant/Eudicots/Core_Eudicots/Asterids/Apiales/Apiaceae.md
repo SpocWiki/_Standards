@@ -279,7 +279,7 @@ dv_has_:
 
 # [[Apiaceae]] 
 
-#is_/same_as :: [[WD~Apiaceae,145794]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Apiaceae,145794]] 
 
 ## #has_/text_of_/abstract 
 

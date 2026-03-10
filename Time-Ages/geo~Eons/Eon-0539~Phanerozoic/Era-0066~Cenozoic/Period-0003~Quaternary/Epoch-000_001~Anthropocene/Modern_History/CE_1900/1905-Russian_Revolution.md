@@ -204,7 +204,7 @@ dv_has_:
 
 # [[1905-Russian_Revolution]] 
 
-#is_/same_as :: [[WD~Russian_Revolution_of_1905,184928]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Russian_Revolution_of_1905,184928]] 
 
 ## #has_/text_of_/abstract 
 

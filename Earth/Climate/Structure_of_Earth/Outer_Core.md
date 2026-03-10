@@ -113,7 +113,7 @@ dv_has_:
 
 # [[Outer_Core]] 
 
-#is_/same_as :: [[WD~Outer_core,857867]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Outer_core,857867]] 
 
 ## #has_/text_of_/abstract 
 

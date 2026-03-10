@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Manis]] 
 
-#is_/same_as :: [[WD~Manis,25397]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Manis,25397]] 
 
 ## #has_/text_of_/abstract 
 

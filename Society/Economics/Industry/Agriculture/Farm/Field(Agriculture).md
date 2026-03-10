@@ -232,7 +232,7 @@ dv_has_:
 
 # [[Field(Agriculture)]] 
 
-#is_/same_as :: [[WD~Field,188869]]
+#is_/same_as :: [[_Standards/WikiData/WD~Field,188869]]
 
 ## #has_/text_of_/abstract 
 

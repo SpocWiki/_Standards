@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Schumpeter,Joseph]] 
 
-#is_/same_as :: [[WD~Joseph_Schumpeter,78477]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Joseph_Schumpeter,78477]] 
 
 ## #has_/text_of_/abstract 
 

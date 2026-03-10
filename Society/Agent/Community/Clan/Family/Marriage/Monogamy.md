@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Monogamy]] 
 
-#is_/same_as :: [[WD~Monogamy,184211]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Monogamy,184211]] 
 
 ## #has_/text_of_/abstract 
 

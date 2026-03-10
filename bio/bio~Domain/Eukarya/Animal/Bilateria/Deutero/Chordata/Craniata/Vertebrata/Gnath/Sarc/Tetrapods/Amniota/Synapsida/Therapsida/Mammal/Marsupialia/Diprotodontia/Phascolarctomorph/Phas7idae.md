@@ -102,7 +102,7 @@ dv_has_:
 ---
 # Phascolarctidae 
 
-#is_/same_as :: [[WD~Phascolarctidae,431978]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Phascolarctidae,431978]] 
 
 ## #has_/text_of_/abstract 
 

@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Glycyrrhiza]] 
 
-#is_/same_as :: [[WD~Glycyrrhiza,157830]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Glycyrrhiza,157830]] 
 
 ## #has_/text_of_/abstract 
 

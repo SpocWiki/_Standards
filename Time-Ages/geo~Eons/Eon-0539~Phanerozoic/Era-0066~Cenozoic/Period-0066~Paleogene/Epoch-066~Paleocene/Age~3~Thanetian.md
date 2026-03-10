@@ -102,7 +102,7 @@ dv_has_:
     stopped: -56.0e6
 dv_is_:
   same_as:
-  - '[[WD~Thanetian,508587]]'
+  - '[[_Standards/WikiData/WD~Thanetian,508587]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian|Age~3~Thanetian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.public|Age~3~Thanetian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.internal|Age~3~Thanetian.internal]]'
@@ -114,7 +114,7 @@ dv_has_duration_years: 3.200e+6
 dv_has_previous_item: '[[Age~2~Selandian]]'
 dv_has_next_item: '[[../Epoch-056~Eocene/Age~1~Ypresian|Age~1~Ypresian]]'
 dv_is_same_as:
-- '[[WD~Thanetian,508587]]'
+- '[[_Standards/WikiData/WD~Thanetian,508587]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian|Age~3~Thanetian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.public|Age~3~Thanetian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.internal|Age~3~Thanetian.internal]]'
@@ -158,7 +158,7 @@ A time period from 59.2 to 56.0 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Thanetian,508587]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Thanetian,508587]] 
 
 ## #has_/text_of_/abstract 
 

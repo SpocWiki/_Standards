@@ -149,7 +149,7 @@ dv_has_:
 
 # [[Operational_Amplifier]] 
 
-#is_/same_as :: [[WD~Operational_amplifier,178947]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Operational_amplifier,178947]] 
 
 ## #has_/text_of_/abstract 
 

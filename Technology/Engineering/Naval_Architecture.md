@@ -123,7 +123,7 @@ dv_has_:
 
 # [[Naval_Architecture]] 
 
-#is_/same_as :: [[WD~Naval_architecture,1136352]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Naval_architecture,1136352]] 
 
 ## #has_/text_of_/abstract 
 

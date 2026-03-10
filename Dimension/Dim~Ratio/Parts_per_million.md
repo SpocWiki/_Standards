@@ -105,7 +105,7 @@ dv_has_:
 
 # [[Parts_per_million]] 
 
-#is_/same_as :: [[WD~Parts_per_million,21006887]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parts_per_million,21006887]] 
 
 ## #has_/text_of_/abstract 
 

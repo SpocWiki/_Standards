@@ -145,7 +145,7 @@ dv_has_:
 
 # [[High-rise_Building]] 
 
-#is_/same_as :: [[WD~High-rise_building,18142]] 
+#is_/same_as :: [[_Standards/WikiData/WD~High-rise_building,18142]] 
 
 ## #has_/text_of_/abstract 
 

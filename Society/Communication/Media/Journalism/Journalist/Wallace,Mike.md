@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Wallace,Mike]] 
 
-#is_/same_as :: [[WD~Mike_Wallace,325487]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mike_Wallace,325487]] 
 
 ## #has_/text_of_/abstract 
 

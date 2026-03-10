@@ -84,7 +84,7 @@ dv_has_:
     stopped: -266.90e6
 dv_is_:
   same_as:
-  - '[[WD~Roadian,1051453]]'
+  - '[[_Standards/WikiData/WD~Roadian,1051453]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.public|Age~1~Roadian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.internal|Age~1~Roadian.internal]]'
@@ -96,7 +96,7 @@ dv_has_duration_years: 6.110e+6
 dv_has_previous_item: '[[../Epoch-298~Cisuralian/Age~4~Kungurian|Age~4~Kungurian]]'
 dv_has_next_item: '[[Age~2~Wordian]]'
 dv_is_same_as:
-- '[[WD~Roadian,1051453]]'
+- '[[_Standards/WikiData/WD~Roadian,1051453]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.public|Age~1~Roadian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.internal|Age~1~Roadian.internal]]'
@@ -138,7 +138,7 @@ dv_has_text_of_color: 0xFB8069
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Roadian,1051453]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Roadian,1051453]]  
 
 A time period from 273.01 to 266.9 million years ago. 
 

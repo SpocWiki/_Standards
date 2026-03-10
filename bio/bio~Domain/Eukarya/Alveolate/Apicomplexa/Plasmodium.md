@@ -139,7 +139,7 @@ dv_has_:
 
 # [[Plasmodium]] 
 
-#is_/same_as :: [[WD~Plasmodium,130948]]
+#is_/same_as :: [[_Standards/WikiData/WD~Plasmodium,130948]]
 
 ## #has_/text_of_/abstract 
 

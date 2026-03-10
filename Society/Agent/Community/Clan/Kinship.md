@@ -271,7 +271,7 @@ dv_has_:
 # [[Kinship]] 
 
 #is_/worse_than :: [[Consanguinity]] 
-#is_/same_as :: [[WD~Kinship,171318]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kinship,171318]] 
 
 ## #has_/text_of_/abstract 
 

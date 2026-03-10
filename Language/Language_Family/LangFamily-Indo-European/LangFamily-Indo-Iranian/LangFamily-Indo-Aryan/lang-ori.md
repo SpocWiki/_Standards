@@ -286,7 +286,7 @@ dv_has_:
 
 # [[lang-ori]] 
 
-#is_/same_as :: [[WD~Odia,33810]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Odia,33810]] 
 
 ## #has_/text_of_/abstract 
 

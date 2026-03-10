@@ -120,7 +120,7 @@ dv_has_:
 
 # [[Intimate_Relationship]] 
 
-#is_/same_as :: [[WD~Intimate_relationship,736922]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Intimate_relationship,736922]] 
 
 ## #has_/text_of_/abstract 
 

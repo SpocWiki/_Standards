@@ -224,7 +224,7 @@ head_of_government:
 - '[[_Standards/WikiData/WD~Nikolay_Rumyantsev,546048|WD~Nikolay_Rumyantsev,546048]]'
 - '[[_Standards/WikiData/WD~Ivan_Shcheglovitov,2027257|WD~Ivan_Shcheglovitov,2027257]]'
 described_by_source:
-- '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
@@ -484,7 +484,7 @@ dv_is_same_as:
 # [[1721-Russian_Empire+1917]] 
 
 has_next_ = `=this.dv_has_next_` 
-#is_/same_as :: [[WD~Russian_Empire,34266]]
+#is_/same_as :: [[_Standards/WikiData/WD~Russian_Empire,34266]]
 
 ## #has_/text_of_/abstract 
 

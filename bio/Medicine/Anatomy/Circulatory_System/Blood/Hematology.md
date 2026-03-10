@@ -193,7 +193,7 @@ dv_has_:
 
 # [[Hematology]] 
 
-#is_/same_as :: [[WD~Hematology,103824]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hematology,103824]] 
 
 ## #has_/text_of_/abstract 
 

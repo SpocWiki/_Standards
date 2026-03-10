@@ -156,7 +156,7 @@ dv_has_:
 
 # [[Romantic_Love]] 
 
-#is_/same_as :: [[WD~Romantic_love,1189047]]
+#is_/same_as :: [[_Standards/WikiData/WD~Romantic_love,1189047]]
 
 ## #has_/text_of_/abstract 
 

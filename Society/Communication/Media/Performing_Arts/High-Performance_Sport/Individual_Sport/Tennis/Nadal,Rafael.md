@@ -341,7 +341,7 @@ dv_has_:
 
 # [[Nadal,Rafael]] 
 
-#is_/same_as :: [[WD~Rafael_Nadal,10132]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rafael_Nadal,10132]] 
 
 ## #has_/text_of_/abstract 
 

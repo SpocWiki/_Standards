@@ -273,7 +273,7 @@ dv_has_:
 
 # [[Beckett,Samuel]] 
 
-#is_/same_as :: [[WD~Samuel_Beckett,37327]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Samuel_Beckett,37327]] 
 
 ## #has_/text_of_/abstract 
 

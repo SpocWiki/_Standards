@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Reputation]] 
 
-#is_/same_as :: [[WD~Reputation,877546]]
+#is_/same_as :: [[_Standards/WikiData/WD~Reputation,877546]]
 
 ## #has_/text_of_/abstract 
 

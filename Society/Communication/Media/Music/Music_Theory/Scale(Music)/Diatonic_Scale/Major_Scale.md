@@ -100,9 +100,9 @@ dv_has_:
 
 # [[Major_Scale]]  
 
-#is_/same_as :: [[WD~Major,58795659]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Major,58795659]] 
 #is_/different_from :: [[Minor_Scale]] 
-#is_/different_from :: [[WD~Minor,12827391]] 
+#is_/different_from :: [[_Standards/WikiData/WD~Minor,12827391]] 
 
 A major scale may be seen as two identical [tetrachords](https://en.wikipedia.org/wiki/Tetrachord "Tetrachord") separated by a whole tone. 
 Each tetrachord consists of two whole tones followed by a [semitone](https://en.wikipedia.org/wiki/Semitone "Semitone") (i.e. whole, whole, half).

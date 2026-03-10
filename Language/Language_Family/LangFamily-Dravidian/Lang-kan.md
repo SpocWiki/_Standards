@@ -304,7 +304,7 @@ dv_has_:
 
 # [[Lang-kan]] 
 
-#is_/same_as :: [[WD~Kannada,33673]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kannada,33673]] 
 
 ## #has_/text_of_/abstract 
 

@@ -141,7 +141,7 @@ dv_has_:
 
 # [[Mixed_Economy]] 
 
-#is_/same_as :: [[WD~Mixed_economy,191675]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mixed_economy,191675]] 
 
 ## #has_/text_of_/abstract 
 

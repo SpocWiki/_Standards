@@ -195,7 +195,7 @@ dv_has_:
 
 # [[Pedro_Álvares_Cabral]] 
 
-#is_/same_as :: [[WD~Pedro_Álvares_Cabral,174432]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pedro_Álvares_Cabral,174432]] 
 
 ## #has_/text_of_/abstract 
 

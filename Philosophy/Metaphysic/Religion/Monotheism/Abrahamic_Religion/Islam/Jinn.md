@@ -241,7 +241,7 @@ dv_has_:
 
 # [[Jinn]] 🧞  
 
-#is_/same_as :: [[WD~Jinn,3465]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jinn,3465]] 
 
 ## #has_/text_of_/abstract 
 

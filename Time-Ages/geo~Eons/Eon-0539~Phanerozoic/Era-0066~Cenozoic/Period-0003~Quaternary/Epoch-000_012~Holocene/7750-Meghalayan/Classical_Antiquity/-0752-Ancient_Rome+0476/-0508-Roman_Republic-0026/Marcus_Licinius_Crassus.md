@@ -205,7 +205,7 @@ dv_has_:
 
 # [[Marcus_Licinius_Crassus]] 
 
-#is_/same_as :: [[WD~Marcus_Licinius_Crassus,175121]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Marcus_Licinius_Crassus,175121]] 
 
 ## #has_/text_of_/abstract 
 

@@ -169,7 +169,7 @@ dv_has_:
 
 # [[Resonance]] 
 
-#is_/same_as :: [[WD~Resonance,172858]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Resonance,172858]] 
 
 ## #has_/text_of_/abstract 
 

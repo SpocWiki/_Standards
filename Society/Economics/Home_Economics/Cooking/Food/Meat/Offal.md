@@ -140,7 +140,7 @@ dv_has_:
 
 # [[Offal]] 
 
-#is_/same_as  :: [[WD~Offal,157484]] 
+#is_/same_as  :: [[_Standards/WikiData/WD~Offal,157484]] 
 
 ## #has_/text_of_/abstract 
 

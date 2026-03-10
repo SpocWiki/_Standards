@@ -239,7 +239,7 @@ Commons_category: Psychiatrists
 
 # [[Psychiatrist]] 
 
-#is_/same_as :: [[WD~Psychiatrist,211346]]
+#is_/same_as :: [[_Standards/WikiData/WD~Psychiatrist,211346]]
 
 #is_/better_than :: [[./Psychologist]]  
 

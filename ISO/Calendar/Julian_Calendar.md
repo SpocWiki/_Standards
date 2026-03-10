@@ -294,7 +294,7 @@ dv_has_:
 
 # [[Julian_Calendar]] 
 
-#is_/same_as :: [[WD~Julian_calendar,11184]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Julian_calendar,11184]] 
 
 ## #has_/text_of_/abstract 
 

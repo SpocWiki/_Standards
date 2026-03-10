@@ -236,7 +236,7 @@ dv_has_:
 
 # [[Berlin,Irving]] 
 
-#is_/same_as :: [[WD~Irving_Berlin,128746]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Irving_Berlin,128746]] 
 
 ## #has_/text_of_/abstract 
 

@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Imaginary_Number]] 
 
-#is_/same_as :: [[WD~Imaginary_number,9165172]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Imaginary_number,9165172]] 
 
 ## #has_/text_of_/abstract 
 

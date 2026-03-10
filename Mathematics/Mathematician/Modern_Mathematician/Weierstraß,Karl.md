@@ -268,7 +268,7 @@ dv_has_:
 
 # [[Weierstraß,Karl]] 
 
-#is_/same_as :: [[WD~Karl_Weierstraß,57103]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Karl_Weierstraß,57103]] 
 
 ## #has_/text_of_/abstract 
 

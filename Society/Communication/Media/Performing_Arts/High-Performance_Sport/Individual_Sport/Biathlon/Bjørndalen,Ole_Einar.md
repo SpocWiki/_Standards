@@ -198,7 +198,7 @@ dv_has_:
 
 # [[Bjørndalen,Ole_Einar]] 
 
-#is_/same_as :: [[WD~Ole_Einar_Bjørndalen,189408]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ole_Einar_Bjørndalen,189408]] 
 
 ## #has_/text_of_/abstract 
 

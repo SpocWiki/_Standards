@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Reaction_Mechanism]] 
 
-#is_/same_as :: [[WD~Reaction_mechanism,373406]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Reaction_mechanism,373406]] 
 
 ## #has_/text_of_/abstract 
 

@@ -537,7 +537,7 @@ Unicode_character: 🐺
 
 # [[Wolf]] 🐺 
 
-#is_/same_as :: [[WD~Wolf,18498]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Wolf,18498]] 
 
 ## #has_/text_of_/abstract 
 

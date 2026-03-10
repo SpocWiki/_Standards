@@ -270,7 +270,7 @@ dv_has_:
 
 # [[Henri_Rousseau]] 
 
-#is_/same_as :: [[WD~Henri_Rousseau,156386]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Henri_Rousseau,156386]] 
 
 ## #has_/text_of_/abstract 
 

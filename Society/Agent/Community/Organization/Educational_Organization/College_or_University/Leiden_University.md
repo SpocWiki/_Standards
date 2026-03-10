@@ -308,7 +308,7 @@ dv_has_:
 
 # [[Leiden_University]] 
 
-#is_/same_as :: [[WD~Leiden_University,156598]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leiden_University,156598]] 
 
 ## #has_/text_of_/abstract 
 

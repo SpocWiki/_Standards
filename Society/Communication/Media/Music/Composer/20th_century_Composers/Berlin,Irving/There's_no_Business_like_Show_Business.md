@@ -52,7 +52,7 @@ dv_has_:
 
 # [[There's_no_Business_like_Show_Business]] 
 
-#is_/same_as :: [[WD~There's_no_Business_like_Show_Business,2419754]] 
+#is_/same_as :: [[_Standards/WikiData/WD~There's_no_Business_like_Show_Business,2419754]] 
 
 ## #has_/text_of_/abstract 
 

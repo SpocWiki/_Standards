@@ -290,7 +290,7 @@ dv_has_:
 
 # [[Paraná_River]] 
 
-#is_/same_as :: [[WD~Paraná_River,127892]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paraná_River,127892]] 
 
 ## #has_/map 
 

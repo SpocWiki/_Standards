@@ -232,7 +232,7 @@ dv_has_:
 
 # [[Goalkeeper]] 
 
-#is_/same_as :: [[WD~Goalkeeper,172964]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Goalkeeper,172964]] 
 
 ## #has_/text_of_/abstract 
 

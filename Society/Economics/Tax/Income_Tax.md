@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Income_Tax]] 
 
-#is_/same_as :: [[WD~Income_tax,179222]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Income_tax,179222]] 
 
 ## #has_/text_of_/abstract 
 

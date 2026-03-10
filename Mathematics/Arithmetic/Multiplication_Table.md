@@ -156,7 +156,7 @@ dv_has_:
 
 # [[Multiplication_Table]] 
 
-#is_/same_as :: [[WD~Multiplication_table,206049]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Multiplication_table,206049]] 
 
 ## #has_/text_of_/abstract 
 

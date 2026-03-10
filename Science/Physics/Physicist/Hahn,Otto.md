@@ -270,7 +270,7 @@ dv_has_:
 
 # [[Hahn,Otto]] 
 
-#is_/same_as :: [[WD~Otto_Hahn,57065]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Otto_Hahn,57065]] 
 
 ## #has_/text_of_/abstract 
 

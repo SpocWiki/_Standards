@@ -271,7 +271,7 @@ dv_has_:
 
 # [[Mendel,Gregor]] 
 
-#is_/same_as :: [[WD~Gregor_Mendel,37970]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gregor_Mendel,37970]] 
 ## #has_/text_of_/abstract 
 
 > Gregor Johann Mendel OSA (German: [ˈmɛndl̩]; Czech: Řehoř Jan Mendel; 

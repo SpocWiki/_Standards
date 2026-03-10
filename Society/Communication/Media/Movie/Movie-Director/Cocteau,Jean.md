@@ -270,7 +270,7 @@ dv_has_:
 
 # [[Cocteau,Jean]] 
 
-#is_/same_as :: [[WD~Jean_Cocteau,83158]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jean_Cocteau,83158]] 
 
 ## #has_/text_of_/abstract 
 

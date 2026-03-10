@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Isomer]] 
 
-#is_/same_as :: [[WD~Isomer,127950]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Isomer,127950]] 
 
 ## #has_/text_of_/abstract 
 

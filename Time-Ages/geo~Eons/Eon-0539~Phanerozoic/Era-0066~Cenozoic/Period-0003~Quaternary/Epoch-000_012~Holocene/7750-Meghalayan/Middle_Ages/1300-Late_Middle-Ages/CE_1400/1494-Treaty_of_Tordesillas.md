@@ -207,7 +207,7 @@ dv_has_:
 
 # [[1494-Treaty_of_Tordesillas]] 
 
-#is_/same_as :: [[WD~Treaty_of_Tordesillas,180897]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Treaty_of_Tordesillas,180897]] 
 
 ## #has_/text_of_/abstract 
 

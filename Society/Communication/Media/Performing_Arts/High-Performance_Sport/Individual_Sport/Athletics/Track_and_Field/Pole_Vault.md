@@ -199,7 +199,7 @@ dv_has_:
 
 # [[Pole_Vault]] 
 
-#is_/same_as :: [[WD~Pole_vault,185027]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pole_vault,185027]] 
 
 ## #has_/text_of_/abstract 
 

@@ -170,7 +170,7 @@ dv_has_:
 # [[Meritocracy]] 
 
 #is_/similar_to :: [[Technocracy|Technocracy]]  
-#is_/same_as :: [[WD~Meritocracy,178079]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Meritocracy,178079]] 
 
 ## #has_/text_of_/abstract 
 

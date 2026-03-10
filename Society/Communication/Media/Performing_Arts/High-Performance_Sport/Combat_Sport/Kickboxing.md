@@ -171,7 +171,7 @@ dv_has_:
 
 # [[Kickboxing]] 
 
-#is_/same_as :: [[WD~Kickboxing,178678]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kickboxing,178678]] 
 
 ## #has_/text_of_/abstract 
 

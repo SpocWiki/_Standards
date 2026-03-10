@@ -331,7 +331,7 @@ dv_has_:
 
 # [[Toulouse-Lautrec,Henri_de]] 
 
-#is_/same_as :: [[WD~Henri_de_Toulouse-Lautrec,82445]]
+#is_/same_as :: [[_Standards/WikiData/WD~Henri_de_Toulouse-Lautrec,82445]]
 
 ## #has_/text_of_/abstract 
 

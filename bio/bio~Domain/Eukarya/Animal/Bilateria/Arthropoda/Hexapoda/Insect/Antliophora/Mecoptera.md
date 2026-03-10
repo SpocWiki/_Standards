@@ -157,7 +157,7 @@ dv_has_:
 
 # [[Mecoptera]] 
 
-#is_/same_as :: [[WD~Mecoptera,205301]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mecoptera,205301]] 
 
 ## #has_/text_of_/abstract 
 

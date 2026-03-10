@@ -234,7 +234,7 @@ dv_has_:
 
 # [[Lunch]] 
 
-#is_/same_as :: [[WD~Lunch,12896105]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lunch,12896105]] 
 
 ## #has_/text_of_/abstract 
 

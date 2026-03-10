@@ -126,7 +126,7 @@ dv_has_:
 
 # [[Paradigm]] 
 
-#is_/same_as :: [[WD~Paradigm,28643]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paradigm,28643]] 
 
 ## #has_/text_of_/abstract 
 

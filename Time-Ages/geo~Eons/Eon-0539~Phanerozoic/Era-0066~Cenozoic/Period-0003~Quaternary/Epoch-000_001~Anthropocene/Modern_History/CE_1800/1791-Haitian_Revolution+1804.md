@@ -178,7 +178,7 @@ dv_has_:
 
 # [[1791-Haitian_Revolution+1804]] 
 
-#is_/same_as :: [[WD~Haitian_Revolution,689128]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Haitian_Revolution,689128]] 
 
 ## #has_/text_of_/abstract 
 

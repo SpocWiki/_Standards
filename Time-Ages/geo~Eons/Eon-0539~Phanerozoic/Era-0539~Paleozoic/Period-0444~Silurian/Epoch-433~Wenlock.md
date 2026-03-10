@@ -87,7 +87,7 @@ dv_has_:
     stopped: -427.4e6
 dv_is_:
   same_as:
-  - '[[WD~Wenlock,1064996]]'
+  - '[[_Standards/WikiData/WD~Wenlock,1064996]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock|Epoch-433~Wenlock]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.public|Epoch-433~Wenlock.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.internal|Epoch-433~Wenlock.internal]]'
@@ -99,7 +99,7 @@ dv_has_duration_years: 6.000e+6
 dv_has_previous_item: '[[Epoch-443~Llandovery]]'
 dv_has_next_item: '[[Epoch-427~Ludlow]]'
 dv_is_same_as:
-- '[[WD~Wenlock,1064996]]'
+- '[[_Standards/WikiData/WD~Wenlock,1064996]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock|Epoch-433~Wenlock]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.public|Epoch-433~Wenlock.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.internal|Epoch-433~Wenlock.internal]]'
@@ -141,7 +141,7 @@ dv_has_text_of_color: 0xB3E1C2
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Wenlock,1064996]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Wenlock,1064996]] 
 
 A time period from 433.4 to 427.4 million years ago. 
 

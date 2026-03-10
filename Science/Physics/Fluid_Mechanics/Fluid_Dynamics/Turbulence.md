@@ -171,7 +171,7 @@ dv_has_:
 # [[Turbulence]] 
 
 #has_/complement :: [[Laminar_Flow]]  
-#is_/same_as :: [[WD~Turbulence,190132]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Turbulence,190132]] 
 
 ## #has_/text_of_/abstract 
 

@@ -187,7 +187,7 @@ dv_has_:
 
 # [[Particle_Accelerator]] 
 
-#is_/same_as :: [[WD~Particle_accelerator,130825]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Particle_accelerator,130825]] 
 
 ## #has_/text_of_/abstract 
 

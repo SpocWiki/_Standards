@@ -132,7 +132,7 @@ dv_has_:
 
 # [[Pony]] 
 
-#is_/same_as :: [[WD~Pony,188828]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pony,188828]] 
 
 ## #has_/text_of_/abstract 
 

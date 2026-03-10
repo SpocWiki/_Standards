@@ -202,7 +202,7 @@ dv_has_:
 
 # [[Spring(Device)]] 
 
-#is_/same_as :: [[WD~Spring,102836]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Spring,102836]] 
 
 ## #has_/text_of_/abstract 
 

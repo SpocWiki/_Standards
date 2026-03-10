@@ -239,7 +239,7 @@ dv_has_:
 
 # [[Lang-ira]] 
 
-#is_/same_as :: [[WD~Iranian,33527]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Iranian,33527]] 
 **
 ## #has_/text_of_/abstract 
 

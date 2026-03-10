@@ -259,7 +259,7 @@ dv_has_:
     yue: 美國獨立戰爭
     zh: 美國獨立戰爭
   place_:
-    started: '[[WD~Lexington_Battle_Green,4257679]]'
+    started: '[[_Standards/WikiData/WD~Lexington_Battle_Green,4257679]]'
   time_:
     started: 1775-04-19T00:00:00.000+00:53
     stopped: 1783-09-03T00:00:00.000+00:53
@@ -275,7 +275,7 @@ dv_is_:
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1775-American_Revolutionary_War.secret|1775-American_Revolutionary_War.secret]]'
 dv_has_time_started: 1775-04-19
 dv_has_time_stopped: 1783-09-03
-dv_has_place_started: '[[WD~Lexington_Battle_Green,4257679]]'
+dv_has_place_started: '[[_Standards/WikiData/WD~Lexington_Battle_Green,4257679]]'
 dv_has_duration_years: 8
 dv_has_duration: P8Y4M2W1D
 dv_is_same_as:

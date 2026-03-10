@@ -36,7 +36,7 @@ dv_has_:
 
 # [[Australopithecus]] 
 
-#is_/same_as :: [[WD~Australopithecinae,33141205]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Australopithecinae,33141205]] 
 
 ## #has_/text_of_/abstract 
 

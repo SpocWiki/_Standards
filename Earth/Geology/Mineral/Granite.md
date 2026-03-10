@@ -259,7 +259,7 @@ dv_has_:
 
 # [[Granite]] 
 
-#is_/same_as :: [[WD~Granite,41177]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Granite,41177]] 
 ## #has_/text_of_/abstract 
 
 > **Granite** ( GRAN-it) is a coarse-grained (phaneritic) intrusive igneous rock 

@@ -269,7 +269,7 @@ dv_is_same_as:
 
 has_next_ = `=this.dv_has_next_` 
 has_previous_ = `=this.dv_has_previous_` 
-#is_/same_as :: [[WD~Russian_Civil_War,79911]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Russian_Civil_War,79911]] 
 
 ## #has_/text_of_/abstract 
 

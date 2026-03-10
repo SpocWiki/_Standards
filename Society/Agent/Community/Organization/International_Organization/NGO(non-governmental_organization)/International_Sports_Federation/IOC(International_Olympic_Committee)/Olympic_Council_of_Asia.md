@@ -133,7 +133,7 @@ dv_has_:
 
 # [[Olympic_Council_of_Asia]] 
 
-#is_/same_as :: [[WD~Olympic_Council_of_Asia,844293]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Olympic_Council_of_Asia,844293]] 
 
 ## #has_/text_of_/abstract 
 

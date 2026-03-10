@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Nirvana]] 
 
-#is_/same_as :: [[WD~Nirvana,42927]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nirvana,42927]] 
 
 ## #has_/text_of_/abstract 
 

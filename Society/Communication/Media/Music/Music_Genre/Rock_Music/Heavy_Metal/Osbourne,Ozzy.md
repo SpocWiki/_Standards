@@ -306,7 +306,7 @@ dv_has_:
 
 # [[Osbourne,Ozzy]] 
 
-#is_/same_as :: [[WD~Ozzy_Osbourne,133151]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ozzy_Osbourne,133151]] 
 
 ## #has_/text_of_/abstract 
 

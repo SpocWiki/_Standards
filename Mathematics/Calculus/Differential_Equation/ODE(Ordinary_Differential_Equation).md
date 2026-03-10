@@ -143,7 +143,7 @@ dv_has_:
 
 # [[Ordinary_Differential_Equation]] 
 
-#is_/same_as :: [[WD~Ordinary_differential_equation,465274]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ordinary_differential_equation,465274]] 
 
 ## #has_/text_of_/abstract 
 

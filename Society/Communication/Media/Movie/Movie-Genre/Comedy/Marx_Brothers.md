@@ -209,7 +209,7 @@ dv_has_:
 
 # [[Marx_Brothers]] 
 
-#is_/same_as :: [[WD~Marx_Brothers,64450]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Marx_Brothers,64450]] 
 
 ## #has_/text_of_/abstract 
 

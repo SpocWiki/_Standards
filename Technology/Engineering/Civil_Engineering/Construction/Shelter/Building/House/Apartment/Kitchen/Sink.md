@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Sink]] 
 
-#is_/same_as :: [[WD~Sink,140565]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sink,140565]] 
 
 ## #has_/text_of_/abstract 
 

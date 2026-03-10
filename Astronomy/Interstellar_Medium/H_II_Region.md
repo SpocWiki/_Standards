@@ -142,7 +142,7 @@ dv_has_:
 
 # [[H_II_Region]] 
 
-#is_/same_as :: [[WD~H_II_region,11282]] 
+#is_/same_as :: [[_Standards/WikiData/WD~H_II_region,11282]] 
 
 ## #has_/text_of_/abstract 
 

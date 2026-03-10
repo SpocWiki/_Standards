@@ -218,7 +218,7 @@ dv_has_:
 
 # [[Observatory]] 
 
-#is_/same_as :: [[WD~Observatory,62832]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Observatory,62832]] 
 
 ## #has_/text_of_/abstract 
 

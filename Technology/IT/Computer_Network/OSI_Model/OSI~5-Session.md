@@ -102,7 +102,7 @@ dv_has_:
 
 # [[OSI~5-Session]] 
 
-#is_/same_as :: [[WD~Session_layer,216292]]
+#is_/same_as :: [[_Standards/WikiData/WD~Session_layer,216292]]
 
 ## #has_/text_of_/abstract 
 

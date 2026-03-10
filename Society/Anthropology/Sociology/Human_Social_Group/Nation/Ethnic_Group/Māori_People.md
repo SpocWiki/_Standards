@@ -233,7 +233,7 @@ dv_has_:
 
 # [[Māori_People]] 
 
-#is_/same_as :: [[WD~Māori,6122670]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Māori,6122670]] 
 
 ## #has_/text_of_/abstract 
 

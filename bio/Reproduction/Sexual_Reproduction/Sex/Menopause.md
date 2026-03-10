@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Menopause]] 
 
-#is_/same_as :: [[WD~Menopause,177708]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Menopause,177708]] 
 
 ## #has_/text_of_/abstract 
 

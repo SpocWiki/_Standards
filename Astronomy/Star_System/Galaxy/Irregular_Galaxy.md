@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Irregular_Galaxy]] 
 
-#is_/same_as :: [[WD~Irregular_galaxy,190397]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Irregular_galaxy,190397]] 
 
 ## #has_/text_of_/abstract 
 

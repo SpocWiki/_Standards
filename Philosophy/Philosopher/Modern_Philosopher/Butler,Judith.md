@@ -243,7 +243,7 @@ dv_has_:
 
 # [[Butler,Judith]] 
 
-#is_/same_as :: [[WD~Judith_Butler,219368]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Judith_Butler,219368]] 
 
 ## #has_/text_of_/abstract 
 

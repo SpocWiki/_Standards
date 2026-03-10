@@ -320,7 +320,7 @@ dv_has_:
 
 # [[Sesame_Street]] 
 
-#is_/same_as :: [[WD~Sesame_Street,155629]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sesame_Street,155629]] 
 
 ## #has_/text_of_/abstract 
 

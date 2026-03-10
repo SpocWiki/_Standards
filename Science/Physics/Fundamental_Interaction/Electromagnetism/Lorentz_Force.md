@@ -167,7 +167,7 @@ dv_has_:
 
 # [[Lorentz_Force]] 
 
-#is_/same_as :: [[WD~Lorentz_force,172137]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lorentz_force,172137]] 
 
 ## #has_/text_of_/abstract 
 

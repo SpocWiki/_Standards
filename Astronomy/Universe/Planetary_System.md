@@ -203,7 +203,7 @@ dv_has_:
 
 # [[Planetary_System]] 
 
-#is_/same_as :: [[WD~Planetary_system,206717]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Planetary_system,206717]] 
 
 ## #has_/text_of_/abstract 
 

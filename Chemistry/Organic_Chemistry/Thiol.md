@@ -130,7 +130,7 @@ aliases:
 
 is_similar_to = `=this.dv_is_similar_to` 
 has_formula_structural = `=this.dv_has_formula_structural` 
-#is_/same_as :: [[WD~Thiol,220410]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Thiol,220410]] 
 
 ## #has_/text_of_/abstract 
 

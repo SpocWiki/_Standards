@@ -131,7 +131,7 @@ dv_has_:
 
 # [[Media_Studies]] 
 
-#is_/same_as :: [[WD~Media_studies,165650]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Media_studies,165650]] 
 
 ## #has_/text_of_/abstract 
 

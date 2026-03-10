@@ -329,7 +329,7 @@ dv_has_:
 
 # [[Heidegger,Martin]] 
 
-#is_/same_as :: [[WD~Martin_Heidegger,48301]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Martin_Heidegger,48301]] 
 
 ## #has_/text_of_/abstract 
 

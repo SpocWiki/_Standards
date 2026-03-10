@@ -131,7 +131,7 @@ dv_has_:
 
 # [[Perpetual_Motion]] 
 
-#is_/same_as :: [[WD~Perpetual_motion,12623]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Perpetual_motion,12623]] 
 
 ## #has_/text_of_/abstract 
 

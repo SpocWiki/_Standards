@@ -203,7 +203,7 @@ dv_has_:
 
 # [[Hand_Grenade]] 
 
-#is_/same_as :: [[WD~Hand_grenade,173517]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hand_grenade,173517]] 
 
 ## #has_/text_of_/abstract 
 

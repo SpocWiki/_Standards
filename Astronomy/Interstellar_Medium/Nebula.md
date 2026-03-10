@@ -238,7 +238,7 @@ aliases:
 
 # [[Nebula]] 
 
-#is_/same_as :: [[WD~Nebula,42372]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nebula,42372]] 
 
 ## #has_/text_of_/abstract 
 

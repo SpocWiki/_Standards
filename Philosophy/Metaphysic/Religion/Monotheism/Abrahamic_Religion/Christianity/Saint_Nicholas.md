@@ -285,7 +285,7 @@ dv_has_:
 
 # [[Saint_Nicholas]] 
 
-#is_/same_as :: [[WD~Saint_Nicholas,44269]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Saint_Nicholas,44269]] 
 
 ## #has_/text_of_/abstract 
 

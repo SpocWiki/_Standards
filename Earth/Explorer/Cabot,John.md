@@ -36,7 +36,7 @@ place_of_birth: '[[_Standards/WikiData/WD~Gaeta,128089|WD~Gaeta,128089]]'
 child: '[[_Standards/WikiData/WD~Sebastian_Cabot,348340|WD~Sebastian_Cabot,348340]]'
 place_of_death: '[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134|WD~North_Atlantic_Ocean,350134]]'
 described_by_source:
-- '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
 - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Cabot,John]] 
 
-#is_/same_as :: [[WD~John_Cabot,85642]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Cabot,85642]] 
 
 ## #has_/text_of_/abstract 
 

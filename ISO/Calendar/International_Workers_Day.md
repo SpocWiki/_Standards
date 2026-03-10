@@ -326,7 +326,7 @@ dv_has_:
 
 # [[International_Workers_Day]] 
 
-#is_/same_as :: [[WD~International_Workers'_Day,47499]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Workers'_Day,47499]] 
 
 ## #has_/text_of_/abstract 
 

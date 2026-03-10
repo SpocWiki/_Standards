@@ -96,7 +96,7 @@ dv_has_:
 
 # [[Representation_Theory]] 
 
-#is_/same_as :: [[WD~Representation_theory,13220368]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Representation_theory,13220368]] 
 
 ## #has_/text_of_/abstract 
 

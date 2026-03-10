@@ -182,7 +182,7 @@ dv_has_:
 
 # [[QFT(Quantum_Field_Theory)]] 
 
-#is_/same_as :: [[WD~Quantum_field_theory,54505]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Quantum_field_theory,54505]] 
 
 QFT describes particles as **excitations of corresponding quantum fields**. 
 QED, Quantum Chromodynamics (QCD) and Electroweak Theory are applications of this. 

@@ -121,7 +121,7 @@ dv_has_:
 dv_is_:
   part_of: '[[../../Eon-0539~Phanerozoic/Era-0251~Mesozoic|Era-0251~Mesozoic]]'
   same_as:
-  - '[[WD~Calymmian,876805]]'
+  - '[[_Standards/WikiData/WD~Calymmian,876805]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian|Period-1600~Calymmian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.public|Period-1600~Calymmian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.internal|Period-1600~Calymmian.internal]]'
@@ -134,7 +134,7 @@ dv_has_previous_item: '[[../Era-2500~Paleoproterozoic/Period-1800~Statherian|Per
 dv_has_next_item: '[[Period-1400~Ectasian]]'
 dv_is_part_of: '[[../../Eon-0539~Phanerozoic/Era-0251~Mesozoic|Era-0251~Mesozoic]]'
 dv_is_same_as:
-- '[[WD~Calymmian,876805]]'
+- '[[_Standards/WikiData/WD~Calymmian,876805]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian|Period-1600~Calymmian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.public|Period-1600~Calymmian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.internal|Period-1600~Calymmian.internal]]'
@@ -178,7 +178,7 @@ has_previous_item = `=this.dv_has_previous_item`
 has_next_item = `=this.dv_has_next_item` 
 
 is_part_of = `=this.dv_is_part_of` 
-#is_/same_as :: [[WD~Calymmian,876805]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Calymmian,876805]] 
 
 A time period from 1600 to 1400 million years ago. 
 

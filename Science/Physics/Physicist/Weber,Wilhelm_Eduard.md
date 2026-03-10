@@ -215,7 +215,7 @@ dv_has_:
 
 # [[Weber,Wilhelm_Eduard]] 
 
-#is_/same_as :: [[WD~Wilhelm_Eduard_Weber,76707]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Wilhelm_Eduard_Weber,76707]] 
 
 ## #has_/text_of_/abstract 
 

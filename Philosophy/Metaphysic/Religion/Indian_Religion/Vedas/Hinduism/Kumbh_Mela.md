@@ -133,7 +133,7 @@ dv_has_:
 
 # [[Kumbh_Mela]] 
 
-#is_/same_as :: [[WD~Kumbh_Mela,10283]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kumbh_Mela,10283]] 
 
 ## #has_/text_of_/abstract 
 

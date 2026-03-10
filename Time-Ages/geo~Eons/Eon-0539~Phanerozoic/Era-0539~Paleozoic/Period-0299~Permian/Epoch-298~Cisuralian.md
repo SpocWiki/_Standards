@@ -85,7 +85,7 @@ dv_has_:
     stopped: -273.01e6
 dv_is_:
   same_as:
-  - '[[WD~Cisuralian,642169]]'
+  - '[[_Standards/WikiData/WD~Cisuralian,642169]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.public|Epoch-298~Cisuralian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.internal|Epoch-298~Cisuralian.internal]]'
@@ -97,7 +97,7 @@ dv_has_duration_years: 2.589e+7
 dv_has_previous_item: '[[../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]'
 dv_has_next_item: '[[Epoch-273~Guadalupian]]'
 dv_is_same_as:
-- '[[WD~Cisuralian,642169]]'
+- '[[_Standards/WikiData/WD~Cisuralian,642169]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.public|Epoch-298~Cisuralian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.internal|Epoch-298~Cisuralian.internal]]'
@@ -139,7 +139,7 @@ dv_has_text_of_color: 0xEF5845
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Cisuralian,642169]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Cisuralian,642169]]  
 
 A time period from 298.9 to 273.01 million years ago. 
 

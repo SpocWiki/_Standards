@@ -198,7 +198,7 @@ dv_has_:
 
 # [[1815-Hundred_Days]]  
 
-#is_/same_as :: [[WD~Hundred_Days,199955]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hundred_Days,199955]] 
 
 ## #has_/text_of_/abstract 
 

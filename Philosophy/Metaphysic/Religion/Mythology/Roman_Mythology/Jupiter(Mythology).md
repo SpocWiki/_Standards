@@ -1,7 +1,7 @@
 
 # [[Jupiter(Mythology)]] 
 
-#is_/same_as :: [[WD~Jupiter,4649]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jupiter,4649]] 
 
 ## #has_/text_of_/abstract 
 

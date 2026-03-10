@@ -203,7 +203,7 @@ dv_has_:
 
 # [[Nation_State]] 
 
-#is_/same_as :: [[WD~Nation_state,179671]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nation_state,179671]] 
 
 ## #has_/text_of_/abstract 
 

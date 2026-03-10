@@ -237,7 +237,7 @@ dv_has_:
 
 # [[Strauss,Richard]] 
 
-#is_/same_as :: [[WD~Richard_Strauss,13894]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Richard_Strauss,13894]] 
 
 ## #has_/text_of_/abstract 
 

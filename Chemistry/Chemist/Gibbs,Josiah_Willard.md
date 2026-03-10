@@ -217,7 +217,7 @@ dv_has_:
 
 # [[Gibbs,Josiah_Willard]] 
 
-#is_/same_as :: [[WD~Josiah_Willard_Gibbs,153243]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Josiah_Willard_Gibbs,153243]] 
 
 ## #has_/text_of_/abstract 
 

@@ -381,7 +381,7 @@ dv_has_:
 
 # [[Leap_Year]] 
 
-#is_/same_as :: [[WD~Leap_year,19828]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leap_year,19828]] 
 
 ## #has_/text_of_/abstract 
 

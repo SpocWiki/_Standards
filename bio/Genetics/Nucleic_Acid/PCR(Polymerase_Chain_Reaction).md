@@ -176,7 +176,7 @@ dv_has_:
 
 # [[PCR(Polymerase_Chain_Reaction)]] 
 
-#is_/same_as :: [[WD~Polymerase_chain_reaction,176996]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polymerase_chain_reaction,176996]] 
 
 ## #has_/text_of_/abstract 
 

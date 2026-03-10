@@ -231,7 +231,7 @@ dv_has_:
 
 # [[Lymphoma]] 
 
-#is_/same_as :: [[WD~Lymphoma,208414]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lymphoma,208414]] 
 
 ## #has_/text_of_/abstract 
 

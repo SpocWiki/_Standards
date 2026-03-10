@@ -235,7 +235,7 @@ dv_has_:
 
 # [[Prisoner_of_War]] 
 
-#is_/same_as :: [[WD~Prisoner_of_war,179637]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Prisoner_of_war,179637]] 
 
 ## #has_/text_of_/abstract 
 

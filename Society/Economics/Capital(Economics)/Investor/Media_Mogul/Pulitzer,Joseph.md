@@ -196,7 +196,7 @@ dv_has_:
 
 # [[Pulitzer,Joseph]] 
 
-#is_/same_as :: [[WD~Joseph_Pulitzer,173417]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Joseph_Pulitzer,173417]] 
 
 ## #has_/text_of_/abstract 
 

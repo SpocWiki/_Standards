@@ -302,7 +302,7 @@ dv_has_:
 
 # [[William_Thomson,Baron_Kelvin]] 
 
-#is_/same_as :: [[WD~William_Thomson,_1st_Baron_Kelvin,122701]] 
+#is_/same_as :: [[_Standards/WikiData/WD~William_Thomson,_1st_Baron_Kelvin,122701]] 
 
 ## #has_/text_of_/abstract 
 

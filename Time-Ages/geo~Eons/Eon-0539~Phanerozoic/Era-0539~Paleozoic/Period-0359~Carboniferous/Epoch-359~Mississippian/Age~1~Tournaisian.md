@@ -79,7 +79,7 @@ described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1084
 start_time: -358900000-01-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[WD~Tournaisian,940381]]'
+  - '[[_Standards/WikiData/WD~Tournaisian,940381]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.public|Age~1~Tournaisian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.internal|Age~1~Tournaisian.internal]]'
@@ -137,7 +137,7 @@ dv_has_:
     started: -358.9e6
     stopped: -346.7e6
 dv_is_same_as:
-- '[[WD~Tournaisian,940381]]'
+- '[[_Standards/WikiData/WD~Tournaisian,940381]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.public|Age~1~Tournaisian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.internal|Age~1~Tournaisian.internal]]'
@@ -176,7 +176,7 @@ dv_has_text_of_color: 0x8CB06C
 # [[Age~1~Tournaisian]] 
 
 #is_a_/time_/Age 
-#is_/same_as :: [[WD~Tournaisian,940381]]   
+#is_/same_as :: [[_Standards/WikiData/WD~Tournaisian,940381]]   
 
 #has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 

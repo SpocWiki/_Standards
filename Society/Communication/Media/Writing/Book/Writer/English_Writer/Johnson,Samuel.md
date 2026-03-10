@@ -234,7 +234,7 @@ dv_has_:
 
 # [[Johnson,Samuel]] 
 
-#is_/same_as :: [[WD~Samuel_Johnson,183266]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Samuel_Johnson,183266]] 
 
 ## #has_/text_of_/abstract 
 

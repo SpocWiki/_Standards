@@ -120,7 +120,7 @@ dv_has_:
 
 # [[Numerical_Integration]] 
 
-#is_/same_as :: [[WD~Numerical_integration,753445]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Numerical_integration,753445]] 
 
 ## #has_/text_of_/abstract 
 

@@ -115,7 +115,7 @@ dv_has_:
 
 # [[Knot_Theory]] 
 
-#is_/same_as :: [[WD~Knot_theory,849798]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Knot_theory,849798]] 
 
 ## #has_/text_of_/abstract 
 

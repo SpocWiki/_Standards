@@ -244,7 +244,7 @@ dv_has_:
 
 # [[Humidity]] 
 
-#is_/same_as :: [[WD~Humidity,180600]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Humidity,180600]] 
 
 ## #has_/text_of_/abstract 
 

@@ -307,7 +307,7 @@ dv_has_:
 
 # [[Hesse,Hermann]] 
 
-#is_/same_as :: [[WD~Hermann_Hesse,25973]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hermann_Hesse,25973]] 
 
 ## #has_/text_of_/abstract 
 

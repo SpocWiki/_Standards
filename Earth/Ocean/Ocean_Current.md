@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Ocean_Current]] 
 
-#is_/same_as :: [[WD~Ocean_current,129558]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ocean_current,129558]] 
 
 ## #has_/text_of_/abstract 
 

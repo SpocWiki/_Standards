@@ -280,7 +280,7 @@ dv_has_:
 
 # [[Murder]] 
 
-#is_/same_as :: [[WD~Murder,132821]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Murder,132821]] 
 
 Historically, the Rate of Men to die from another Man 
 - was highest at 25% in early agricultural Societies. 

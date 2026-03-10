@@ -196,7 +196,7 @@ dv_has_:
 
 # [[0722-Reconquista-1492]] 
 
-#is_/same_as :: [[WD~Reconquista,79791]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Reconquista,79791]] 
 
 ## #has_/text_of_/abstract 
 

@@ -310,7 +310,7 @@ dv_has_:
 
 # [[Pork]] 
 
-#is_/same_as :: [[WD~Pork,191768]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pork,191768]] 
 
 ## #has_/text_of_/abstract 
 

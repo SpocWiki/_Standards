@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Phonology]] 
 
-#is_/same_as :: [[WD~Phonology,40998]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Phonology,40998]] 
 
 ## #has_/text_of_/abstract 
 

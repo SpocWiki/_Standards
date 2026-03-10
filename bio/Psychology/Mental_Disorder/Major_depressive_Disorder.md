@@ -328,7 +328,7 @@ dv_has_:
 
 # [[Major_depressive_Disorder]] 
 
-#is_/same_as :: [[WD~Major_depressive_disorder,42844]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Major_depressive_disorder,42844]] 
 
 ## #has_/text_of_/abstract 
 

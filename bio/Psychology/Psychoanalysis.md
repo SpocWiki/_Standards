@@ -239,7 +239,7 @@ dv_has_:
 
 # [[Psychoanalysis]] 
 
-#is_/same_as :: [[WD~Psychoanalysis,41630]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Psychoanalysis,41630]] 
 
 ## #has_/text_of_/abstract 
 

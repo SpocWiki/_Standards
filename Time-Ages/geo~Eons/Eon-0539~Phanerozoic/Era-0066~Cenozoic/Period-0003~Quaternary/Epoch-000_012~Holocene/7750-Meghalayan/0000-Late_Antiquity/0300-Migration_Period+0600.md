@@ -229,7 +229,7 @@ dv_has_:
 
 # [[Migration_Period]] 
 
-#is_/same_as :: [[WD~Migration_Period,131192]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Migration_Period,131192]] 
 
 ## #has_/text_of_/abstract 
 

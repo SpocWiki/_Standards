@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Jam]] 
 
-#is_/same_as :: [[WD~Jam,1269]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jam,1269]] 
 
 ## #has_/text_of_/abstract 
 

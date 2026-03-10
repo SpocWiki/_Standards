@@ -188,7 +188,7 @@ dv_has_:
 
 # [[NKVD]] 
 
-#is_/same_as :: [[WD~NKVD,182449]] 
+#is_/same_as :: [[_Standards/WikiData/WD~NKVD,182449]] 
 
 ## #has_/text_of_/abstract 
 

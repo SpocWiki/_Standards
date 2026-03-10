@@ -171,7 +171,7 @@ dv_has_:
 
 # [[Lego]] 
 
-#is_/same_as :: [[WD~Lego,170484]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lego,170484]] 
 
 ## #has_/text_of_/abstract 
 

@@ -259,7 +259,7 @@ dv_has_:
 
 # [[Muhammad_Yunus]] 
 
-#is_/same_as :: [[WD~Muhammad_Yunus,43969]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Muhammad_Yunus,43969]] 
 
 ## #has_/text_of_/abstract 
 

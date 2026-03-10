@@ -170,7 +170,7 @@ dv_has_:
 
 # [[Jealousy]] 
 
-#is_/same_as :: [[WD~Jealousy,6545811]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jealousy,6545811]] 
 
 ## #has_/text_of_/abstract 
 

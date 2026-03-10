@@ -273,7 +273,7 @@ dv_has_:
 
 # [[Scientific_Method]] 
 
-#is_/same_as :: [[WD~Scientific_method,46857]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scientific_method,46857]] 
 
 ## #has_/text_of_/abstract 
 

@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Navigation]] 
 
-#is_/same_as :: [[WD~Navigation,102066]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Navigation,102066]] 
 
 ## #has_/text_of_/abstract 
 

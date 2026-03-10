@@ -117,7 +117,7 @@ dv_has_:
 
 # [[Modernist_Literature]] 
 
-#is_/same_as :: [[WD~Modernist_literature,971480]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Modernist_literature,971480]] 
 
 ## #has_/text_of_/abstract 
 

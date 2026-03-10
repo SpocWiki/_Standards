@@ -18,7 +18,7 @@ dv_has_:
 
 # [[Fong,Joss]] 
 
-#is_/member_/of :: [[WD~Vox.com,20877087]] 
+#is_/member_/of :: [[_Standards/WikiData/WD~Vox.com,20877087]] 
 
 Fong was a founding Member of Vox, but left it after 9 years to create her own channel. 
 

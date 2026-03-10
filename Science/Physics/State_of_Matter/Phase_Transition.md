@@ -170,7 +170,7 @@ dv_has_:
 # [[Phase_Transition]] 
 
  
-#is_/same_as :: [[WD~Phase_change,185357]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Phase_change,185357]] 
 #see  :: [[_Standards/WikiData/WD~latent_heat_of_phase_transition,106553458|WD~latent_heat_of_phase_transition,106553458]]
 
 | From \ To  | [Solid](https://en.wikipedia.org/wiki/Solid "Solid")                                                        | [Liquid](https://en.wikipedia.org/wiki/Liquid "Liquid")                   | [Gas](https://en.wikipedia.org/wiki/Gas "Gas")                                             | [Plasma](https://en.wikipedia.org/wiki/Plasma_\(physics\) "Plasma (physics)") |

@@ -210,7 +210,7 @@ dv_has_:
 
 # [[Patriotism]] 
 
-#is_/same_as :: [[WD~Patriotism,6241]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Patriotism,6241]] 
 
 ## #has_/text_of_/abstract 
 

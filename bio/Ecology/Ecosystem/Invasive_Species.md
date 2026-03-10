@@ -189,7 +189,7 @@ dv_has_:
 
 # [[Invasive_Species]] 
 
-#is_/same_as :: [[WD~Invasive_species,183368]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Invasive_species,183368]] 
 
 ## #has_/text_of_/abstract 
 

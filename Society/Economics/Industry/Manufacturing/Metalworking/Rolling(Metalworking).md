@@ -129,7 +129,7 @@ dv_has_:
 
 # [[Rolling(Metalworking)]] 
 
-#is_/same_as :: [[WD~Rolling,452648]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rolling,452648]] 
 
 ## #has_/text_of_/abstract 
 

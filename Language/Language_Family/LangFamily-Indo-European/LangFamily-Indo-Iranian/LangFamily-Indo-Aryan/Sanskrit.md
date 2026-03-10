@@ -458,7 +458,7 @@ dv_has_:
 
 # [[Sanskrit]] 
 
-#is_/same_as :: [[WD~Sanskrit,11059]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sanskrit,11059]] 
 
 ## #has_/text_of_/abstract 
 

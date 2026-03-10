@@ -193,7 +193,7 @@ dv_has_:
 
 # [[Reinforced_Concrete]] 
 
-#is_/same_as :: [[WD~Reinforced_concrete,184190]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Reinforced_concrete,184190]] 
 
 ## #has_/text_of_/abstract 
 

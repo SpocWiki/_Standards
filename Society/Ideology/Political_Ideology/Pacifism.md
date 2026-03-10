@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Pacifism]] 
 
-#is_/same_as :: [[WD~Pacifism,58848]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pacifism,58848]] 
 
 ## #has_/text_of_/abstract 
 

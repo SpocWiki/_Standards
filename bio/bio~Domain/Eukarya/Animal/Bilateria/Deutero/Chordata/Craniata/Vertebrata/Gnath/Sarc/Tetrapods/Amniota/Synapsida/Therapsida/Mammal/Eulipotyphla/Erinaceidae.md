@@ -211,7 +211,7 @@ dv_has_:
 
 # [[Erinaceidae]] 
 
-#is_/same_as :: [[wd~Erinaceidae,28257]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Erinaceidae,28257]] 
 
 ## #has_/text_of_/abstract 
 

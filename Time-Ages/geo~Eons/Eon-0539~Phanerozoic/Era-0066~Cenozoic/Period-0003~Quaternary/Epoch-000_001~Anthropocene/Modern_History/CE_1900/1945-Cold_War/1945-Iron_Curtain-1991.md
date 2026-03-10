@@ -206,7 +206,7 @@ dv_has_:
 ﻿
 # [[1945-Iron_Curtain-1991]] 
 
-#is_/same_as :: [[WD~Iron_Curtain,124425]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Iron_Curtain,124425]] 
 
 ## #has_/text_of_/abstract 
 

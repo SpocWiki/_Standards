@@ -291,7 +291,7 @@ Unicode_character: 🐬
 
 # [[Dolphin]] 🐬 
 
-#is_/same_as :: [[WD~dolphin,7369]] 
+#is_/same_as :: [[_Standards/WikiData/WD~dolphin,7369]] 
 
 ## #has_/text_of_/abstract 
 

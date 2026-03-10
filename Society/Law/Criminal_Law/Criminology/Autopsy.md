@@ -187,7 +187,7 @@ dv_has_:
 
 # [[Autopsy]] 
 
-#is_/same_as :: [[WD~Past_photo,41482]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Past_photo,41482]] 
 
 ## #has_/text_of_/abstract 
 

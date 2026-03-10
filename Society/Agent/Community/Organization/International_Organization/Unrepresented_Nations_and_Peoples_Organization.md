@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Unrepresented_Nations_and_Peoples_Organization]] 
 
-#is_/same_as :: [[WD~Unrepresented_Nations_and_Peoples_Organization,215613]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Unrepresented_Nations_and_Peoples_Organization,215613]] 
 
 ## #has_/text_of_/abstract 
 

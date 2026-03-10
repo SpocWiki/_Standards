@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Linear_Programming]] 
 
-#is_/same_as :: [[WD~Linear_programming,202843]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Linear_programming,202843]] 
 
 ## #has_/text_of_/abstract 
 

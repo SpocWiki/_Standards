@@ -191,7 +191,7 @@ dv_has_:
 
 # [[Way_of_Saint_James]] 
 
-#is_/same_as :: [[WD~Way_of_Saint_James,41150]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Way_of_Saint_James,41150]] 
 
 ## #has_/text_of_/abstract 
 

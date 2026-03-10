@@ -147,7 +147,7 @@ dv_has_:
 
 # [[Metalworking]] 
 
-#is_/same_as :: [[WD~Metalworking,953045]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Metalworking,953045]] 
 
 ## #has_/text_of_/abstract 
 

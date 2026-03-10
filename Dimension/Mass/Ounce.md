@@ -180,7 +180,7 @@ dv_has_:
 # [[Ounce]] ℥ 
 
 
-#is_/same_as :: [[WD~Ounce,48013]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ounce,48013]] 
 
 ## #has_/text_of_/abstract 
 

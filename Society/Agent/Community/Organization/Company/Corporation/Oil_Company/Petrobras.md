@@ -144,7 +144,7 @@ dv_has_:
 
 # [[Petrobras]] 
 
-#is_/same_as :: [[WD~Petrobras,210047]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Petrobras,210047]] 
 
 ## #has_/text_of_/abstract 
 

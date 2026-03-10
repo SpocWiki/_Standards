@@ -114,7 +114,7 @@ dv_has_:
 
 # [[Pedosphere]] 
 
-#is_/same_as :: [[WD~Pedosphere,941094]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pedosphere,941094]] 
 
 ## #has_/text_of_/abstract 
 

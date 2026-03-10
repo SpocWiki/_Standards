@@ -201,7 +201,7 @@ dv_has_:
 
 # [[Hughes,Howard]] 
 
-#is_/same_as :: [[WD~Howard_Hughes,189081]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Howard_Hughes,189081]] 
 
 ## #has_/text_of_/abstract 
 

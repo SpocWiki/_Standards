@@ -196,7 +196,7 @@ dv_has_:
 
 # [[Othello]] 
 
-#is_/same_as :: [[WD~Othello,26833]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Othello,26833]] 
 
 ## #has_/text_of_/abstract 
 

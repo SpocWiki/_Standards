@@ -138,7 +138,7 @@ dv_has_:
 
 # [[Latin_Union]] 
 
-#is_/same_as :: [[WD~Latin_Union,123209]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Latin_Union,123209]] 
 
 ## #has_/text_of_/abstract 
 

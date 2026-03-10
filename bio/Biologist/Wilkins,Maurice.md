@@ -180,7 +180,7 @@ dv_has_:
 
 # [[Wilkins,Maurice]] 
 
-#is_/same_as :: [[WD~Maurice_Wilkins,184659]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Maurice_Wilkins,184659]] 
 
 ## #has_/text_of_/abstract 
 

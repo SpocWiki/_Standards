@@ -394,7 +394,7 @@ dv_has_:
 
 # [[Homosexuality]] 
 
-#is_/same_as :: [[WD~Homosexuality,6636]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Homosexuality,6636]] 
 
 ## #has_/text_of_/abstract 
 

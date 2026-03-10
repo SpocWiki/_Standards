@@ -178,7 +178,7 @@ dv_has_:
 
 # [[Norman]] 
 
-#is_/same_as :: [[WD~Normans,83418]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Normans,83418]] 
 
 ## #has_/text_of_/abstract 
 

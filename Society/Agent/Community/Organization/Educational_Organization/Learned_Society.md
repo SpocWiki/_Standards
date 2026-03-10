@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Learned_Society]] 
 
-#is_/same_as :: [[WD~Learned_society,955824]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Learned_society,955824]] 
 
 ## #has_/text_of_/abstract 
 

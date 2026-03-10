@@ -310,7 +310,7 @@ dv_has_:
 
 # [[Lech_Wałęsa]] 
 
-#is_/same_as :: [[WD~Lech_Wałęsa,444]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lech_Wałęsa,444]] 
 
 ## #has_/text_of_/abstract 
 

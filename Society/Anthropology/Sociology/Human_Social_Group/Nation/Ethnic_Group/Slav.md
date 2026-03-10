@@ -246,7 +246,7 @@ dv_has_:
 
 # [[Slav]] 
 
-#is_/same_as :: [[WD~Slavs,40477]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Slavs,40477]] 
 
 ## #has_/text_of_/abstract 
 

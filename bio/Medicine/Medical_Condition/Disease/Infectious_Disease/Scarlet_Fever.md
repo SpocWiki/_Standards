@@ -233,7 +233,7 @@ dv_has_:
 
 # [[Scarlet_Fever]] 
 
-#is_/same_as :: [[WD~Scarlet_fever,180266]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scarlet_fever,180266]] 
 
 ## #has_/text_of_/abstract 
 

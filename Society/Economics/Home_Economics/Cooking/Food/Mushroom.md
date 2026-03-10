@@ -331,7 +331,7 @@ dv_has_:
 # [[Mushroom]] 🍄🟫 
 
 
-#is_/same_as :: [[WD~Mushroom,83093]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mushroom,83093]] 
 
 ## #has_/text_of_/abstract 
 

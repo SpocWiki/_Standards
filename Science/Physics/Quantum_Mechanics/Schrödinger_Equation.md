@@ -186,7 +186,7 @@ dv_has_:
 
 # [[Schrödinger_Equation]] 
 
-#is_/same_as :: [[WD~Schrödinger_equation,165498]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Schrödinger_equation,165498]] 
 
 ## #has_/text_of_/abstract 
 

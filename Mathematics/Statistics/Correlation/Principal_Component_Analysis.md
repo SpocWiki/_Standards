@@ -107,7 +107,7 @@ dv_has_:
 
 # [[Principal_Component_Analysis]] 
 
-#is_/same_as :: [[WD~Principal_component_analysis,2873]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Principal_component_analysis,2873]] 
 
 ## #has_/text_of_/abstract 
 

@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Islamism]] 
 
-#is_/same_as :: [[WD~Islamism,189746]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Islamism,189746]] 
 
 ## #has_/text_of_/abstract 
 

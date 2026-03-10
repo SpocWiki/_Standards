@@ -284,7 +284,7 @@ dv_has_:
 
 # [[Maya_Civilization]] 
 
-#is_/same_as :: [[WD~Maya_civilization,28567]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Maya_civilization,28567]] 
 
 ## #has_/text_of_/abstract 
 

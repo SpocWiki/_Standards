@@ -157,7 +157,7 @@ dv_has_:
 
 # [[Tarsier]]
 
-#is_/same_as :: [[WD~Tarsier,1114471]]
+#is_/same_as :: [[_Standards/WikiData/WD~Tarsier,1114471]]
 
 ##  
 

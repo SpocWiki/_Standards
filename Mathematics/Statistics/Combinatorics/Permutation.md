@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Permutation]] 
 
-#is_/same_as :: [[WD~Permutation,161519]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Permutation,161519]] 
 
 ## #has_/text_of_/abstract 
 

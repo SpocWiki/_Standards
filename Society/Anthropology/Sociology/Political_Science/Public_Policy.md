@@ -168,7 +168,7 @@ dv_has_:
 
 # [[Public_Policy]] 
 
-#is_/same_as :: [[WD~Public_policy,546113]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Public_policy,546113]] 
 
 ## #has_/text_of_/abstract 
 

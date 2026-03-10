@@ -228,7 +228,7 @@ dv_has_:
 
 # [[Convolvulaceae]] 
 
-#is_/same_as :: [[WD~Convolvulaceae,145777]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Convolvulaceae,145777]] 
 
 ## #has_/text_of_/abstract 
 

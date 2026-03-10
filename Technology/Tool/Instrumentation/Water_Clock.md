@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Water_Clock]] 
 
-#is_/same_as :: [[WD~Water_clock,194173]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Water_clock,194173]] 
 
 ## #has_/text_of_/abstract 
 

@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Scientific_Theory]] 
 
-#is_/same_as :: [[WD~Scientific_theory,3239681]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scientific_theory,3239681]] 
 
 ## #has_/text_of_/abstract 
 

@@ -144,7 +144,7 @@ Unicode_character: 🛖
 
 
 
-#is_/same_as :: [[WD~Hut,5784097]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hut,5784097]] 
 
 ## #has_/text_of_/abstract 
 

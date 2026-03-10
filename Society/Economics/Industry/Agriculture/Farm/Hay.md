@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Hay]] 
 
-#is_/same_as :: [[WD~Hay,336989]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hay,336989]] 
 
 ## #has_/text_of_/abstract 
 

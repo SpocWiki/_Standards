@@ -292,7 +292,7 @@ dv_has_:
 
 # [[Manufacturing]] 
 
-#is_/same_as :: [[WD~Manufacturing,187939]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Manufacturing,187939]] 
 
 ## #has_/text_of_/abstract 
 

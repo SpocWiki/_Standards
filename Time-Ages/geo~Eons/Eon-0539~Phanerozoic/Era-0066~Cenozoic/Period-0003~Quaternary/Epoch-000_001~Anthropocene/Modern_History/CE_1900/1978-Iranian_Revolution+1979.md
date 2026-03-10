@@ -253,7 +253,7 @@ dv_has_:
 
 # [[1978-Iranian_Revolution+1979]] 
 
-#is_/same_as :: [[WD~Iranian_Revolution,126065]]
+#is_/same_as :: [[_Standards/WikiData/WD~Iranian_Revolution,126065]]
 
 ## #has_/text_of_/abstract 
 

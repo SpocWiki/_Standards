@@ -152,7 +152,7 @@ dv_has_:
 
 # [[Medicinal_Chemistry]] 
 
-#is_/same_as :: [[WD~Medicinal_chemistry,243455]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Medicinal_chemistry,243455]] 
 
 ## #has_/text_of_/abstract 
 

@@ -77,7 +77,7 @@ dv_has_:
     stopped: -430.5e6
 dv_is_:
   same_as:
-  - '[[WD~Sheinwoodian,582801]]'
+  - '[[_Standards/WikiData/WD~Sheinwoodian,582801]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.public|Age~1~Sheinwoodian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.internal|Age~1~Sheinwoodian.internal]]'
@@ -89,7 +89,7 @@ dv_has_duration_years: 2.900e+6
 dv_has_previous_item: '[[../Epoch-443~Llandovery/Age~3~Telychian|Age~3~Telychian]]'
 dv_has_next_item: '[[Age~2~Homerian]]'
 dv_is_same_as:
-- '[[WD~Sheinwoodian,582801]]'
+- '[[_Standards/WikiData/WD~Sheinwoodian,582801]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.public|Age~1~Sheinwoodian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.internal|Age~1~Sheinwoodian.internal]]'
@@ -131,7 +131,7 @@ dv_has_text_of_color: 0xBFE6C3
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Sheinwoodian,582801]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Sheinwoodian,582801]]  
 
 A time period from 433.4 to 430.5 million years ago. 
 

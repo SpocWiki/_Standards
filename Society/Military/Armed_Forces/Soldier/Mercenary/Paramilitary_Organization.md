@@ -161,7 +161,7 @@ dv_has_:
 
 # [[Paramilitary_Organization]] 
 
-#is_/same_as :: [[WD~Paramilitary_organization,207320]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paramilitary_organization,207320]] 
 
 ## #has_/text_of_/abstract 
 

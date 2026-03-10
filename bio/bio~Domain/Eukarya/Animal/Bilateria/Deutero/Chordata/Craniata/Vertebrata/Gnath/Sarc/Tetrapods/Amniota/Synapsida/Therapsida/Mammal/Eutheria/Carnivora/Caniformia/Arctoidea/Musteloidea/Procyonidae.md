@@ -194,7 +194,7 @@ dv_has_:
 
 # [[Procyonidae]] 
 
-#is_/same_as :: [[WD~Procyonidae,147114]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Procyonidae,147114]] 
 
 ## #has_/text_of_/abstract 
 

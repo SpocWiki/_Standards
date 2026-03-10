@@ -78,7 +78,7 @@ dv_has_:
     stopped: -438.5e6
 dv_is_:
   same_as:
-  - '[[WD~Aeronian,381595]]'
+  - '[[_Standards/WikiData/WD~Aeronian,381595]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian|Age~2~Aeronian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.public|Age~2~Aeronian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.internal|Age~2~Aeronian.internal]]'
@@ -90,7 +90,7 @@ dv_has_duration_years: 2.300e+6
 dv_has_previous_item: '[[Age~1~Rhuddanian]]'
 dv_has_next_item: '[[Age~3~Telychian]]'
 dv_is_same_as:
-- '[[WD~Aeronian,381595]]'
+- '[[_Standards/WikiData/WD~Aeronian,381595]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian|Age~2~Aeronian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.public|Age~2~Aeronian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.internal|Age~2~Aeronian.internal]]'
@@ -132,7 +132,7 @@ dv_has_text_of_color: 0xB3E1C2
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Aeronian,381595]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Aeronian,381595]]  
 
 A time period from 440.8 to 438.5 million years ago. 
 

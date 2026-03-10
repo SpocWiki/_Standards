@@ -156,7 +156,7 @@ dv_has_:
 
 # [[LangFamily-Nadene]] 
 
-#is_/same_as :: [[WD~Na-Dene,26986]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Na-Dene,26986]] 
 
 ## #has_/text_of_/abstract 
 

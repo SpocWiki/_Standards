@@ -203,7 +203,7 @@ dv_has_:
 
 # [[Rubber]] 
 
-#is_/same_as :: [[WD~Rubber,18113858]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rubber,18113858]] 
 
 ## #has_/text_of_/abstract 
 

@@ -296,7 +296,7 @@ dv_has_:
 
 # [[Pink]] 
 
-#is_/same_as :: [[WD~Pink,429220]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pink,429220]] 
 
 ## #has_/text_of_/abstract 
 

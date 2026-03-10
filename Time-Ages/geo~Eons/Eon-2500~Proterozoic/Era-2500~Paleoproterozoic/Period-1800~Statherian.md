@@ -112,7 +112,7 @@ dv_has_:
     stopped: -1600000000
 dv_is_:
   same_as:
-  - '[[WD~Statherian,684942]]'
+  - '[[_Standards/WikiData/WD~Statherian,684942]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian|Period-1800~Statherian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.public|Period-1800~Statherian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.internal|Period-1800~Statherian.internal]]'
@@ -124,7 +124,7 @@ dv_has_duration_years: 2.000e+8
 dv_has_previous_item: '[[Period-2050~Orosirian]]'
 dv_has_next_item: '[[../Era-1600~Mesoproterozoic/Period-1600~Calymmian|Period-1600~Calymmian]]'
 dv_is_same_as:
-- '[[WD~Statherian,684942]]'
+- '[[_Standards/WikiData/WD~Statherian,684942]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian|Period-1800~Statherian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.public|Period-1800~Statherian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.internal|Period-1800~Statherian.internal]]'
@@ -167,7 +167,7 @@ dv_has_text_of_color: 0xF875A7
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
 
-#is_/same_as :: [[WD~Statherian,684942]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Statherian,684942]]  
 
 ## #has_/text_of_/abstract 
 

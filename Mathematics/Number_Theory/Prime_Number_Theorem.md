@@ -118,7 +118,7 @@ dv_has_:
 
 # [[Prime_Number_Theorem]] 
 
-#is_/same_as :: [[WD~Prime_number_theorem,386292]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Prime_number_theorem,386292]] 
 
 ## #has_/text_of_/abstract 
 

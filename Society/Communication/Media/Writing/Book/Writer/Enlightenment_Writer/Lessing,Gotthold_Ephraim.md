@@ -208,7 +208,7 @@ dv_has_:
 
 # [[Lessing,Gotthold_Ephraim]] 
 
-#is_/same_as :: [[WD~Gotthold_Ephraim_Lessing,34628]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gotthold_Ephraim_Lessing,34628]] 
 ## #has_/text_of_/abstract 
 
 > Gotthold Ephraim Lessing (; German: [ˈɡɔthɔlt ˈʔeːfʁa.ɪm ˈlɛsɪŋ] ; 22 January 1729 – 15 February 1781) 

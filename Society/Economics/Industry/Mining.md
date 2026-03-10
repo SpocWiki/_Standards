@@ -252,7 +252,7 @@ dv_has_:
 
 # [[Mining]]  
 
-#is_/same_as :: [[WD~Mining,44497]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mining,44497]] 
 
 ## #has_/text_of_/abstract 
 

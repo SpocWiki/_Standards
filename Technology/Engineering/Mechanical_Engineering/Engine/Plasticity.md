@@ -132,7 +132,7 @@ dv_has_:
 
 # [[Plasticity]] 
 
-#is_/same_as :: [[WD~Plasticity,472074]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plasticity,472074]] 
 
 ## #has_/text_of_/abstract 
 

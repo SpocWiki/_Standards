@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Macromolecule]] 
 
-#is_/same_as :: [[WD~Macromolecule,178593]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Macromolecule,178593]] 
 
 ## #has_/text_of_/abstract 
 

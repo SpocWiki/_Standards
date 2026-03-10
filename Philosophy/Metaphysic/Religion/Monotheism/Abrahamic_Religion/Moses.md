@@ -448,7 +448,7 @@ dv_has_:
 
 # [[Moses]] 
 
-#is_/same_as :: [[WD~Moses,9077]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Moses,9077]] 
 
 ## #has_/text_of_/abstract 
 

@@ -89,7 +89,7 @@ dv_has_:
     stopped: -382.7e6
 dv_is_:
   same_as:
-  - '[[WD~Middle_Devonian,731313]]'
+  - '[[_Standards/WikiData/WD~Middle_Devonian,731313]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian|Epoch-393~Middle_Devonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.public|Epoch-393~Middle_Devonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.internal|Epoch-393~Middle_Devonian.internal]]'
@@ -101,7 +101,7 @@ dv_has_duration_years: 1.060e+7
 dv_has_previous_item: '[[Epoch-419~Early_Devonian]]'
 dv_has_next_item: '[[Epoch-382~Late_Devonian]]'
 dv_is_same_as:
-- '[[WD~Middle_Devonian,731313]]'
+- '[[_Standards/WikiData/WD~Middle_Devonian,731313]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian|Epoch-393~Middle_Devonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.public|Epoch-393~Middle_Devonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.internal|Epoch-393~Middle_Devonian.internal]]'
@@ -143,7 +143,7 @@ dv_has_text_of_color: 0xF1C868
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Middle_Devonian,731313]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Middle_Devonian,731313]] 
 
 A time period from 393.3 to 382.7 million years ago. 
 

@@ -127,7 +127,7 @@ dv_has_:
 
 # [[Legal_History]] 
 
-#is_/same_as :: [[WD~Legal_history,680004]]
+#is_/same_as :: [[_Standards/WikiData/WD~Legal_history,680004]]
 
 ## #has_/text_of_/abstract 
 

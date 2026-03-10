@@ -114,7 +114,7 @@ dv_has_:
 
 # [[Plunkett,Roy_J]] 
 
-#is_/same_as :: [[WD~Roy_J._Plunkett,908166]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Roy_J._Plunkett,908166]] 
 
 ## #has_/text_of_/abstract 
 

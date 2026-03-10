@@ -169,7 +169,7 @@ dv_has_:
 
 # [[Paradox]] 
 
-#is_/same_as :: [[WD~Paradox,483372]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paradox,483372]] 
 
 ## #has_/text_of_/abstract 
 

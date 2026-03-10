@@ -95,7 +95,7 @@ dv_has_:
 
 # [[Multivariate_normal_Distribution]] 
 
-#is_/same_as :: [[WD~Multivariate_normal_distribution,1149000]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Multivariate_normal_distribution,1149000]] 
 
 ## #has_/text_of_/abstract 
 

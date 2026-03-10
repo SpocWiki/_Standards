@@ -144,7 +144,7 @@ dv_has_:
 
 # [[lang-zh-min]] 
 
-#is_/same_as :: [[WD~Min_Chinese,56504]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Min_Chinese,56504]] 
 
 ## #has_/text_of_/abstract 
 

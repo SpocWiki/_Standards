@@ -207,7 +207,7 @@ dv_has_:
 
 # [[Human_Ageing]] 
 
-#is_/same_as :: [[WD~Human_ageing,332154]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Human_ageing,332154]] 
 
 ## #has_/text_of_/abstract 
 

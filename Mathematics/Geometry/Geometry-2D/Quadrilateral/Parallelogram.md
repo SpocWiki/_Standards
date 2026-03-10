@@ -210,7 +210,7 @@ dv_has_:
 
 # [[Parallelogram]] 
 
-#is_/same_as :: [[WD~Parallelogram,45867]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parallelogram,45867]] 
 
 ## #has_/text_of_/abstract 
 

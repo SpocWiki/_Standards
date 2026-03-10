@@ -148,7 +148,7 @@ dv_has_:
 
 # [[Hydraulic_Engineering]] 
 
-#is_/same_as :: [[WD~Hydraulic_engineering,1130265]]
+#is_/same_as :: [[_Standards/WikiData/WD~Hydraulic_engineering,1130265]]
 
 ## #has_/text_of_/abstract 
 

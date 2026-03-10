@@ -381,7 +381,7 @@ dv_has_:
 
 # [[Miró,Joan]] 
 
-#is_/same_as :: [[WD~Joan_Miró,152384]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Joan_Miró,152384]] 
 
 ## #has_/text_of_/abstract 
 

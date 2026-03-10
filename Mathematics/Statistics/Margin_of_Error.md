@@ -87,7 +87,7 @@ dv_has_:
 
 # [[Margin_of_Error]] 
 
-#is_/same_as :: [[WD~Margin_of_error,1352827]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Margin_of_error,1352827]] 
 
 ## #has_/text_of_/abstract 
 

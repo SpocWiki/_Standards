@@ -148,7 +148,7 @@ dv_has_:
 
 # [[Polarization(Waves)]] 
 
-#is_/same_as :: [[WD~Polarization,193760]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polarization,193760]] 
 
 ## #has_/text_of_/abstract 
 

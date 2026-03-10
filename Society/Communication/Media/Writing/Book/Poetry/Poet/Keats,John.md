@@ -268,7 +268,7 @@ dv_has_:
 
 # [[Keats,John]]
 
-#is_/same_as :: [[WD~John_Keats,82083]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Keats,82083]] 
 
 ## #has_/text_of_/abstract 
 

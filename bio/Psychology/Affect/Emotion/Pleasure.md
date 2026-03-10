@@ -198,7 +198,7 @@ dv_has_:
 # [[Pleasure]] 
 
 #has_/complement :: [[Pain]] 
-#is_/same_as :: [[WD~Pleasure,208195]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pleasure,208195]] 
 
 ## #has_/text_of_/abstract 
 

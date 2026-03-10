@@ -155,7 +155,7 @@ dv_has_:
 
 # [[Vizier]] 
 
-#is_/same_as :: [[WD~Vizier,175240]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Vizier,175240]] 
 #is_/similar_to :: [[Minister]] 
 
 ## #has_/text_of_/abstract 

@@ -210,7 +210,7 @@ dv_has_:
 
 # [[Palm_Oil]] 
 
-#is_/same_as :: [[WD~Palm_oil,231458]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Palm_oil,231458]] 
 
 ## #has_/text_of_/abstract 
 

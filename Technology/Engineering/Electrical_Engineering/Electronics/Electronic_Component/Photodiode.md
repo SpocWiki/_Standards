@@ -107,7 +107,7 @@ aliases:
 
 # [[Photodiode]] 
 
-#is_/same_as :: [[WD~Photodiode,175943]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Photodiode,175943]] 
 
 ## #has_/text_of_/abstract 
 

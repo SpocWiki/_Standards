@@ -255,7 +255,7 @@ dv_has_:
 
 # [[Unit~Percent]] 
 
-#is_/same_as :: [[WD~Percent,11229]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Percent,11229]] 
 
 ## #has_/text_of_/abstract  
 

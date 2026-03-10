@@ -135,7 +135,7 @@ dv_has_:
 
 # [[Human_Overpopulation]] 
 
-#is_/same_as :: [[WD~Human_overpopulation,331439]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Human_overpopulation,331439]] 
 
 ## #has_/text_of_/abstract 
 

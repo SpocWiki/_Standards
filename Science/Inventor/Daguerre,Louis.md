@@ -258,7 +258,7 @@ dv_has_:
 
 # [[Daguerre,Louis]] 
 
-#is_/same_as :: [[WD~Louis_Daguerre,131405]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Louis_Daguerre,131405]] 
 
 ## #has_/text_of_/abstract 
 

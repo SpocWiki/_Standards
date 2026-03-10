@@ -193,7 +193,7 @@ dv_has_:
 
 # [[Carnot,Nicolas_Léonard_Sadi]] 
 
-#is_/same_as :: [[WD~Nicolas_Carnot,181685]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nicolas_Carnot,181685]] 
 
 ## #has_/text_of_/abstract 
 

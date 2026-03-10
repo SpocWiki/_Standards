@@ -289,7 +289,7 @@ dv_has_:
 
 # [[Parsley]] 
 
-#is_/same_as :: [[WD~Parsley,25284]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parsley,25284]] 
 
 ## #has_/text_of_/abstract 
 

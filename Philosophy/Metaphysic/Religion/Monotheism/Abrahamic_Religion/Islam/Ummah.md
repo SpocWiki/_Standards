@@ -255,7 +255,7 @@ dv_has_:
 
 # [[Ummah]] 
 
-#is_/same_as :: [[WD~Ummah,205766]]
+#is_/same_as :: [[_Standards/WikiData/WD~Ummah,205766]]
 
 ## #has_/text_of_/abstract 
 

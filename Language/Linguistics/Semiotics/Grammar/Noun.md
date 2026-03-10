@@ -375,7 +375,7 @@ dv_has_:
 
 # [[Noun]] 
 
-#is_/same_as :: [[WD~Noun,1084]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Noun,1084]] 
 
 ## #has_/text_of_/abstract 
 

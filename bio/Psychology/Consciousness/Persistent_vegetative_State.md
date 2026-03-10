@@ -97,7 +97,7 @@ dv_has_:
 
 # [[Persistent_vegetative_State]] 
 
-#is_/same_as :: [[WD~Persistent_vegetative_state,139720]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Persistent_vegetative_state,139720]] 
 
 ## #has_/text_of_/abstract 
 

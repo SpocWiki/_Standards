@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Pitchfork]] 
 
-#is_/same_as :: [[WD~Pitchfork,107293]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pitchfork,107293]] 
 
 ## #has_/text_of_/abstract 
 

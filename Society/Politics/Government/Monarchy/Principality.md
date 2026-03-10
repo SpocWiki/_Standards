@@ -194,7 +194,7 @@ dv_has_:
 
 # [[Principality]] 
 
-#is_/same_as :: [[WD~Principality,208500]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Principality,208500]] 
 
 ## #has_/text_of_/abstract 
 

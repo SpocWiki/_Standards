@@ -266,7 +266,7 @@ dv_has_:
 
 # [[LangFamily-Indo-Iranian/Lang-ira|Lang-ira]] 
 
-#is_/same_as :: [[WD~Indo-Iranian,33514]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Indo-Iranian,33514]] 
 
 ## #has_/text_of_/abstract 
 

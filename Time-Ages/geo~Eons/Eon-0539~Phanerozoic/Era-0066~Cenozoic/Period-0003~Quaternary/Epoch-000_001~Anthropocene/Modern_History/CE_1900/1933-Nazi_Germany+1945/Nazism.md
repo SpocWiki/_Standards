@@ -301,7 +301,7 @@ dv_has_:
 
 # [[Nazism]] 
 
-#is_/same_as :: [[WD~Nazism,7310]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nazism,7310]] 
 
 ## #has_/text_of_/abstract 
 

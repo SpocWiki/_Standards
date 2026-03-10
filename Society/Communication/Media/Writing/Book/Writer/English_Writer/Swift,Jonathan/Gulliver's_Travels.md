@@ -224,7 +224,7 @@ dv_has_:
 
 # [[Gulliver's_Travels]] 
 
-#is_/same_as :: [[WD~Gulliver's_Travels,181488]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gulliver's_Travels,181488]] 
 
 ## #has_/text_of_/abstract 
 

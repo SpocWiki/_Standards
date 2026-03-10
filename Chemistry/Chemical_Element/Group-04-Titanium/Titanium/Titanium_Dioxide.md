@@ -226,7 +226,7 @@ dv_has_:
 
 # [[Titanium_Dioxide]] 
 
-#is_/same_as :: [[WD~Titanium_dioxide,193521]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Titanium_dioxide,193521]] 
 
 ## #has_/text_of_/abstract 
 

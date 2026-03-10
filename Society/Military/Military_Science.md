@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Military_Science]] 
 
-#is_/same_as :: [[WD~Military_science,192386]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_science,192386]] 
 
 ## #has_/text_of_/abstract 
 

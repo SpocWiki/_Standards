@@ -118,7 +118,7 @@ dv_has_:
 
 # [[Su_Song]] 
 
-#is_/same_as :: [[WD~Su_Song,1265657]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Su_Song,1265657]] 
 
 ## #has_/text_of_/abstract 
 

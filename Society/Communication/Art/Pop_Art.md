@@ -151,7 +151,7 @@ dv_has_:
 
 # [[Pop_Art]] 
 
-#is_/same_as :: [[WD~Pop_art,134147]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pop_art,134147]] 
 
 ## #has_/text_of_/abstract 
 

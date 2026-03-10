@@ -193,7 +193,7 @@ dv_has_:
 
 # [[Polynomial]] 
 
-#is_/same_as :: [[WD~Polynomial,43260]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polynomial,43260]] 
 
 ## #has_/text_of_/abstract 
 

@@ -426,7 +426,7 @@ dv_has_:
 
 # [[Road]] 
 
-#is_/same_as :: [[WD~Road,34442]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Road,34442]] 
 
 ## #has_/text_of_/abstract 
 

@@ -221,7 +221,7 @@ dv_has_:
 
 # [[Muridae]] 
 
-#is_/same_as :: [[WD~Muridae,25916]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Muridae,25916]] 
 
 ## #has_/text_of_/abstract 
 

@@ -142,7 +142,7 @@ dv_has_:
 # [[Ontogeny]] 
 
 #is_/different_from :: [[Phylogeny]] 
-#is_/same_as :: [[WD~Ontogeny,193603]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ontogeny,193603]] 
 
 ## #has_/text_of_/abstract 
 

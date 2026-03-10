@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Times_of_India]] 
 
-#is_/same_as :: [[WD~The_Times_of_India,46807]] 
+#is_/same_as :: [[_Standards/WikiData/WD~The_Times_of_India,46807]] 
 
 ## #has_/text_of_/abstract 
 

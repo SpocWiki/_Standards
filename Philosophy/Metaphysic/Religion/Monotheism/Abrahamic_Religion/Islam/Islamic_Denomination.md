@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Islamic_Denomination]] 
 
-#is_/same_as :: [[WD~Islamic_denomination,1192063]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Islamic_denomination,1192063]] 
 
 ## #has_/text_of_/abstract 
 

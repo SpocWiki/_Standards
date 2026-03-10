@@ -247,7 +247,7 @@ dv_has_:
 
 # [[Rural_Area]] 
 
-#is_/same_as :: [[WD~Rural_area,175185]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rural_area,175185]] 
 
 ## #has_/text_of_/abstract 
 

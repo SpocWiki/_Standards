@@ -299,7 +299,7 @@ dv_has_:
 
 # [[Nonprofit_Organization]]  
 
-#is_/same_as :: [[WD~Nonprofit_organization,163740]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nonprofit_organization,163740]] 
 
 ## #has_/text_of_/abstract 
 

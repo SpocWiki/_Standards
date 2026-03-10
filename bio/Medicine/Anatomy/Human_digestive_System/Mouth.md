@@ -397,7 +397,7 @@ Unicode_character: 👄
 
 # [[Mouth]] 👄 
 
-#is_/same_as :: [[WD~Mouth,9635]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mouth,9635]] 
 
 ## #has_/text_of_/abstract 
 

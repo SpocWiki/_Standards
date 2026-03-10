@@ -177,7 +177,7 @@ aliases:
 
 # [[Habitat]] 
 
-#is_/same_as :: [[WD~Habitat,52105]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Habitat,52105]] 
 
 ## #has_/text_of_/abstract 
 

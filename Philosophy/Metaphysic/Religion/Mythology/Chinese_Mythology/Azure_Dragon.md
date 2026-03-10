@@ -101,7 +101,7 @@ Unicode_character: 🐉
 
 # [[Azure_Dragon]] 🐉 
 
-#is_/same_as :: [[WD~Azure_Dragon,515882]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Azure_Dragon,515882]] 
 
 ## #has_/text_of_/abstract 
 

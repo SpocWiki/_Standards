@@ -234,7 +234,7 @@ dv_has_:
 
 # [[Brown,James]] 
 
-#is_/same_as :: [[WD~James_Brown,5950]] 
+#is_/same_as :: [[_Standards/WikiData/WD~James_Brown,5950]] 
 
 ## #has_/text_of_/abstract 
 

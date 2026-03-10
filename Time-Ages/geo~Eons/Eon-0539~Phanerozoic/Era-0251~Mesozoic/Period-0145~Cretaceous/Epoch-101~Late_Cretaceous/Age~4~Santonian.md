@@ -96,7 +96,7 @@ dv_has_:
     stopped: -83.6e6
 dv_is_:
   same_as:
-  - '[[WD~Santonian,257290]]'
+  - '[[_Standards/WikiData/WD~Santonian,257290]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian|Age~4~Santonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.public|Age~4~Santonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.internal|Age~4~Santonian.internal]]'
@@ -108,7 +108,7 @@ dv_has_duration_years: 2.700e+6
 dv_has_prev_item: '[[Age~5~Campanian]]'
 dv_has_next_item: '[[Age~6~Maastrichtian]]'
 dv_is_same_as:
-- '[[WD~Santonian,257290]]'
+- '[[_Standards/WikiData/WD~Santonian,257290]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian|Age~4~Santonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.public|Age~4~Santonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.internal|Age~4~Santonian.internal]]'
@@ -150,7 +150,7 @@ dv_has_text_of_color: 0xD9EF74
 
 has_prev_item = `=this.dv_has_prev_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Santonian,257290]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Santonian,257290]]  
 
 A time period from 86.3 to 83.6 million years ago. 
 

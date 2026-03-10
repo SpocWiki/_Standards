@@ -266,7 +266,7 @@ dv_has_:
 
 # [[Stevenson,Robert_Louis]] 
 
-#is_/same_as :: [[WD~Robert_Louis_Stevenson,1512]]
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Louis_Stevenson,1512]]
 
 ## #has_/text_of_/abstract 
 

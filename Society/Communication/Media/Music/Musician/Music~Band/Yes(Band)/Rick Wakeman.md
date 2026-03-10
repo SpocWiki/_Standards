@@ -64,7 +64,7 @@ dv_has_:
 
 # [[Rick Wakeman]] 
 
-#is_/same_as :: [[WD~Rick_Wakeman,]]
+#is_/same_as :: [[_Standards/WikiData/WD~Rick_Wakeman,]]
 
 ## #has_/text_of_/abstract 
 

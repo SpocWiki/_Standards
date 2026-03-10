@@ -194,7 +194,7 @@ dv_has_:
 
 # [[Time_Travel]] 
 
-#is_/same_as :: [[WD~Time_travel,182154]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Time_travel,182154]] 
 
 ## #has_/text_of_/abstract 
 

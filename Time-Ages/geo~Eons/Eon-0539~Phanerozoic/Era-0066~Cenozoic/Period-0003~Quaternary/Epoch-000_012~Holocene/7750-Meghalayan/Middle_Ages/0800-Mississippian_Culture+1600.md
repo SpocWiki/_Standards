@@ -116,7 +116,7 @@ dv_has_:
 
 # [[0800-Mississippian_Culture+1600]] 
 
-#is_/same_as :: [[WD~Mississippian_culture,1052095]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mississippian_culture,1052095]] 
 
 ## #has_/text_of_/abstract 
 

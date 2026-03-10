@@ -214,7 +214,7 @@ dv_has_:
 # [[Identity_Document]] 🪪 
 
 
-#is_/same_as :: [[WD~Identity_document,47988]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Identity_document,47988]] 
 
 ## #has_/text_of_/abstract 
 

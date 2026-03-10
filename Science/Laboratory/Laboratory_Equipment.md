@@ -129,7 +129,7 @@ dv_has_:
 
 # [[Laboratory_Equipment]] 
 
-#is_/same_as :: [[WD~Laboratory_equipment,834028]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Laboratory_equipment,834028]] 
 #is_/same_as :: [[_Standards/WikiData/WD~laboratory,483242|WD~laboratory,483242]]
 
 ## #has_/text_of_/abstract 

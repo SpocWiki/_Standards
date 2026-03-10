@@ -215,7 +215,7 @@ dv_has_:
 
 # [[Parliamentary_Republic]] 
 
-#is_/same_as :: [[WD~Parliamentary_republic,4198907]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parliamentary_republic,4198907]] 
 
 ## #has_/text_of_/abstract 
 

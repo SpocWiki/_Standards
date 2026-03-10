@@ -131,7 +131,7 @@ dv_has_:
 
 # [[1915-Italian_Front+1918]] 
 
-#is_/same_as :: [[WD~Italian_front,659745]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Italian_front,659745]] 
 
 ## #has_/text_of_/abstract 
 

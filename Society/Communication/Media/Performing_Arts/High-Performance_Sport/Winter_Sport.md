@@ -165,7 +165,7 @@ dv_has_:
 
 # [[Winter_Sport]] 
 
-#is_/same_as :: [[WD~Winter_sport,204686]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Winter_sport,204686]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,7 +1,7 @@
 
 # [[Mars(Mythology)]] 
 
-#is_/same_as :: [[WD~Mars,112]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mars,112]] 
 
 ## #has_/text_of_/abstract 
 

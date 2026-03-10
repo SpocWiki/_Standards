@@ -121,7 +121,7 @@ dv_has_:
 
 # [[Mushroom_Poisoning]] 
 
-#is_/same_as :: [[WD~Mushroom_poisoning,852186]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mushroom_poisoning,852186]] 
 
 ## #has_/text_of_/abstract 
 

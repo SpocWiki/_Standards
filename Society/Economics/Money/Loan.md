@@ -213,7 +213,7 @@ dv_has_:
 # [[Loan]] 
 
 #has_/complement :: [[Debt|Debt]]
-#is_/same_as :: [[WD~Loan,189539]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Loan,189539]] 
 
 ## #has_/text_of_/abstract 
 

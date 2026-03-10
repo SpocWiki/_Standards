@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Sewage_Treatment]] 
 
-#is_/same_as :: [[WD~Sewage_treatment,221275]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sewage_treatment,221275]] 
 
 ## #has_/text_of_/abstract 
 

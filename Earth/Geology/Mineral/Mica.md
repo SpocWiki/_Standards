@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Mica]] 
 
-#is_/same_as :: [[WD~Mica,114675]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mica,114675]] 
 
 ## #has_/text_of_/abstract 
 

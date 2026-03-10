@@ -74,7 +74,7 @@ dv_has_:
 
 # [[Mambo]] 
 
-#is_/same_as :: [[WD~Mambo,333002]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mambo,333002]] 
 
 ## #has_/text_of_/abstract 
 

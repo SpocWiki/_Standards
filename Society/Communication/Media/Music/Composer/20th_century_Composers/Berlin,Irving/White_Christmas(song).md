@@ -90,7 +90,7 @@ dv_has_:
 
 # [[White_Christmas(song)]]
 
-#is_/same_as :: [[WD~White_Christmas,1131761]] 
+#is_/same_as :: [[_Standards/WikiData/WD~White_Christmas,1131761]] 
 
 ## #has_/text_of_/abstract 
 

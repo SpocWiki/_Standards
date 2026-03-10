@@ -197,7 +197,7 @@ dv_has_:
 
 # [[Saxon]] 
 
-#is_/same_as :: [[WD~Saxons,101985]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Saxons,101985]] 
 
 ## #has_/text_of_/abstract 
 

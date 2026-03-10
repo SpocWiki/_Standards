@@ -10,7 +10,7 @@ dv_has_:
 
 # [[Big_Soda]] 
 
-#is_/same_as :: [[WD~Big_Soda,4906383]]
+#is_/same_as :: [[_Standards/WikiData/WD~Big_Soda,4906383]]
 
 ## #has_/text_of_/abstract 
 

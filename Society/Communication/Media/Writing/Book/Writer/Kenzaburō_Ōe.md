@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Kenzaburō_Ōe]] 
 
-#is_/same_as :: [[WD~Kenzaburō_Ōe,80095]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kenzaburō_Ōe,80095]] 
 
 ## #has_/text_of_/abstract 
 

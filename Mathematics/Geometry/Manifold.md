@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Manifold]] 
 
-#is_/same_as :: [[WD~Manifold,203920]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Manifold,203920]] 
 
 ## #has_/text_of_/abstract 
 

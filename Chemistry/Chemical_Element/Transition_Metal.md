@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Transition_Metal]] 
 
-#is_/same_as :: [[WD~Transition_metal,19588]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Transition_metal,19588]] 
 
 ## #has_/text_of_/abstract 
 

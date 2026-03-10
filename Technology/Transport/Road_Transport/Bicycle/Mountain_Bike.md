@@ -139,7 +139,7 @@ dv_has_:
 
 # [[Mountain_Bike]] 
 
-#is_/same_as :: [[WD~Mountain_bike,223705]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mountain_bike,223705]] 
 
 ## #has_/text_of_/abstract 
 

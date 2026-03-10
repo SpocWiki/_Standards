@@ -124,7 +124,7 @@ dv_has_:
 
 # [[PISA(Programme_for_International_Student_Assessment)]] 
 
-#is_/same_as :: [[WD~Programme_for_International_Student_Assessment,323481]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Programme_for_International_Student_Assessment,323481]] 
 
 ## #has_/text_of_/abstract 
 

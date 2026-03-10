@@ -317,7 +317,7 @@ dv_has_:
 
 # [[Jaguar]] 
 
-#is_/same_as :: [[WD~Jaguar,35694]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jaguar,35694]] 
 
 ## #has_/text_of_/abstract 
 

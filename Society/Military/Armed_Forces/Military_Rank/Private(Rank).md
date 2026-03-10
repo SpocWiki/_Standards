@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Private(Rank)]] 
 
-#is_/same_as :: [[WD~Private,158668]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Private,158668]] 
 
 ## #has_/text_of_/abstract 
 

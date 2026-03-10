@@ -265,9 +265,9 @@ dv_has_:
     zh_hant: 皮革
 ---
 
-# [[WD~Leather,286]] 
+# [[_Standards/WikiData/WD~Leather,286]] 
 
-#is_/same_as :: [[WD~Leather,286]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leather,286]] 
 
 ## #has_/text_of_/abstract 
 

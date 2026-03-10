@@ -85,7 +85,7 @@ dv_has_:
     stopped: -410.8e6
 dv_is_:
   same_as:
-  - '[[WD~Lochkovian,1089613]]'
+  - '[[_Standards/WikiData/WD~Lochkovian,1089613]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.public|Age~1~Lochkovian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.internal|Age~1~Lochkovian.internal]]'
@@ -97,7 +97,7 @@ dv_has_duration_years: 8.400e+6
 dv_has_previous_item: '[[../../Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]]'
 dv_has_next_item: '[[Age~2~Pragian]]'
 dv_is_same_as:
-- '[[WD~Lochkovian,1089613]]'
+- '[[_Standards/WikiData/WD~Lochkovian,1089613]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.public|Age~1~Lochkovian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.internal|Age~1~Lochkovian.internal]]'
@@ -139,7 +139,7 @@ dv_has_text_of_color: 0xE5B75A
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Lochkovian,1089613]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lochkovian,1089613]] 
 
 A time period from 419.2 to 410.8 million years ago. 
 

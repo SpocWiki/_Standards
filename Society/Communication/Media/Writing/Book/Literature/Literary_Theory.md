@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Literary_Theory]] 
 
-#is_/same_as :: [[WD~Literary_theory,459381]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Literary_theory,459381]] 
 
 ## #has_/text_of_/abstract 
 

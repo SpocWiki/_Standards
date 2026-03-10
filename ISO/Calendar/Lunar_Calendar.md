@@ -186,7 +186,7 @@ dv_has_:
 
 # [[Lunar_Calendar]] 
 
-#is_/same_as :: [[WD~Lunar_calendar,185688]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lunar_calendar,185688]] 
 
 ## #has_/text_of_/abstract 
 

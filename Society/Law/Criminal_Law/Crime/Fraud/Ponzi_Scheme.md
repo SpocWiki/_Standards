@@ -142,7 +142,7 @@ dv_has_:
 # [[Ponzi_Scheme]] 
 
 #is_/similar_to :: [[Pyramid_Scheme]]  
-#is_/same_as :: [[WD~Ponzi_scheme,219407]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ponzi_scheme,219407]] 
 
 ## #has_/text_of_/abstract 
 

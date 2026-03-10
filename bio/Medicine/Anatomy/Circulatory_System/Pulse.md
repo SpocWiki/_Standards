@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Pulse]] 
 
-#is_/same_as :: [[WD~Pulse,191733]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pulse,191733]] 
 
 ## #has_/text_of_/abstract 
 

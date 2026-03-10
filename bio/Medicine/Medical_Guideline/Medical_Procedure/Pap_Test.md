@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Pap_Test]] 
 
-#is_/same_as :: [[WD~Pap_test,942976]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pap_test,942976]] 
 
 ## #has_/text_of_/abstract 
 

@@ -154,7 +154,7 @@ dv_has_:
 
 # [[1592-Japanese_invasions_of_Korea-1598]] 
 
-#is_/same_as :: [[WD~Japanese_invasions_of_Korea,576338]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Japanese_invasions_of_Korea,576338]] 
 
 ## #has_/text_of_/abstract 
 

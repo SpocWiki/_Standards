@@ -295,7 +295,7 @@ dv_has_:
 
 # [[Pollution]] 
 
-#is_/same_as :: [[WD~Pollution,58734]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pollution,58734]] 
 
 ## #has_/text_of_/abstract 
 

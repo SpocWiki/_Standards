@@ -62,7 +62,7 @@ dv_has_:
 
 # [[Bullfrog_Productions]] 
 
-#is_/same_as :: [[WD~Bullfrog_Productions,611487]]
+#is_/same_as :: [[_Standards/WikiData/WD~Bullfrog_Productions,611487]]
 
 ## #has_/text_of_/abstract 
 

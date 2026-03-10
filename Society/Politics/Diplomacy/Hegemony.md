@@ -185,7 +185,7 @@ dv_has_:
 
 # [[Hegemony]] 
 
-#is_/same_as :: [[WD~Hegemony,182034]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hegemony,182034]] 
 
 ## #has_/text_of_/abstract 
 

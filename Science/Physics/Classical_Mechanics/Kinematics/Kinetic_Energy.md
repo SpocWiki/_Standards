@@ -239,7 +239,7 @@ dv_has_:
 
 # [[Kinetic_Energy]] 
 
-#is_/same_as :: [[WD~Kinetic_energy,46276]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kinetic_energy,46276]] 
 
 ## #has_/text_of_/abstract 
 

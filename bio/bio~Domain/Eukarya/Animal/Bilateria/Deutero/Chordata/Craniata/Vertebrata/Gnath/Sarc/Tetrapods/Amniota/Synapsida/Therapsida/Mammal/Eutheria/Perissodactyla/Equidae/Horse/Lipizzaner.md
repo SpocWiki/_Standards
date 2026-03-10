@@ -119,7 +119,7 @@ dv_has_:
 
 # [[Lipizzaner]] 
 
-#is_/same_as :: [[WD~Lipizzaner,217671]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lipizzaner,217671]] 
 
 ## #has_/text_of_/abstract 
 

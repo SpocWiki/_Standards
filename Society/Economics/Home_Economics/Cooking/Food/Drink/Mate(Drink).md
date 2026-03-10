@@ -141,7 +141,7 @@ Unicode_character: 🧉
 
 
 
-#is_/same_as :: [[WD~Mate,203540]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mate,203540]] 
 
 ## #has_/text_of_/abstract 
 

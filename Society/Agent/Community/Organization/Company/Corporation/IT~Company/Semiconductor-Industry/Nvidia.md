@@ -269,7 +269,7 @@ dv_has_:
 # [[Nvidia]]
 
 #is_/similar_to :: [[Broadcom]] 
-#is_/same_as :: [[WD~Nvidia,182477]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nvidia,182477]] 
 
 ## #has_/text_of_/abstract 
 

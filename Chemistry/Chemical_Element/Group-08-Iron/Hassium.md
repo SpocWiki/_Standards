@@ -283,7 +283,7 @@ Unicode_character: 𨭆
 
 
 
-#is_/same_as :: [[WD~Hassium,1252]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hassium,1252]] 
 
 ## #has_/text_of_/abstract 
 

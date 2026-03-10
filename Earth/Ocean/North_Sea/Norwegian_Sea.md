@@ -276,7 +276,7 @@ dv_has_:
 
 # [[Norwegian_Sea]] 
 
-#is_/same_as :: [[WD~Norwegian_Sea,47545]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Norwegian_Sea,47545]] 
 
 ## #has_/map 
 

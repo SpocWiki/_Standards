@@ -201,7 +201,7 @@ dv_has_:
 
 # [[Home_Appliance]] 
 
-#is_/same_as :: [[WD~Home_appliance,212920]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Home_appliance,212920]] 
 
 ## #has_/text_of_/abstract 
 

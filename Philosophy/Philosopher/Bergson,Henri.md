@@ -309,7 +309,7 @@ dv_has_:
 
 # [[Bergson,Henri]] 
 
-#is_/same_as :: [[WD~Henri_Bergson,42156]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Henri_Bergson,42156]] 
 
 ## #has_/text_of_/abstract 
 

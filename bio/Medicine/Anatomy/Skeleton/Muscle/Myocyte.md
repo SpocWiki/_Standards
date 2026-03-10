@@ -108,7 +108,7 @@ dv_has_:
 
 # [[Myocyte]] 
 
-#is_/same_as :: [[WD~Myocyte,428914]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Myocyte,428914]] 
 
 ## #has_/text_of_/abstract 
 

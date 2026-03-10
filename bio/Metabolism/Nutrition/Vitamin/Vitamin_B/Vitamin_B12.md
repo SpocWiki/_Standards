@@ -169,7 +169,7 @@ dv_has_:
 
 # [[Vitamin_B12]] 
 
-#is_/same_as :: [[WD~Vitamin_B12,187706]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_B12,187706]] 
 
 ## #has_/text_of_/abstract 
 

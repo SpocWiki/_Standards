@@ -247,7 +247,7 @@ dv_has_:
 
 # [[Laptev_Sea]] 
 
-#is_/same_as :: [[WD~Laptev_Sea,7988]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Laptev_Sea,7988]]  
 
 ## #has_/map 
 

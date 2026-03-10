@@ -292,7 +292,7 @@ dv_has_:
 
 # [[Heat]] 
 
-#is_/same_as :: [[WD~Heat,44432]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heat,44432]] 
 
 Heat is an random, undirected microscopic mechanical Energy, 
 that can be converted only incompletely into other Energy Forms. 

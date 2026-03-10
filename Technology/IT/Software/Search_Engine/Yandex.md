@@ -300,7 +300,7 @@ dv_has_:
 
 # [[Yandex]] 
 
-#is_/same_as :: [[WD~Yandex,5281]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Yandex,5281]] 
 
 ## #has_/text_of_/abstract 
 

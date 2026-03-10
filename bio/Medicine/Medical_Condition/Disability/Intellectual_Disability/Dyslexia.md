@@ -240,7 +240,7 @@ dv_has_:
 
 # [[Dyslexia]] 
 
-#is_/same_as :: [[WD~Dyslexia,132971]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Dyslexia,132971]] 
 
 ## #has_/text_of_/abstract 
 

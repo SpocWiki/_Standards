@@ -261,7 +261,7 @@ dv_has_:
 # [[Emerson,Ralph_Waldo]] 
 
 #is_/friend_of :: [[Thoreau,Henry_David|Thoreau,Henry_David]] 
-#is_/same_as :: [[WD~Ralph_Waldo_Emerson,48226]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ralph_Waldo_Emerson,48226]] 
 
 ## #has_/text_of_/abstract 
 

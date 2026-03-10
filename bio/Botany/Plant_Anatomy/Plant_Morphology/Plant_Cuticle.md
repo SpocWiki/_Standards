@@ -84,7 +84,7 @@ dv_has_:
 
 # [[Plant_Cuticle]] 
 
-#is_/same_as :: [[WD~Plant_cuticle,1146493]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plant_cuticle,1146493]] 
 
 ## #has_/text_of_/abstract 
 

@@ -233,7 +233,7 @@ dv_has_:
 
 # [[Sea_Piracy]] 
 
-#is_/same_as :: [[WD~Sea_piracy,45393]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sea_piracy,45393]] 
 
 ## #has_/text_of_/abstract 
 

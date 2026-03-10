@@ -266,7 +266,7 @@ dv_has_:
 
 # [[Metamorphoses]] 
 
-#is_/same_as :: [[WD~Metamorphoses,184742]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Metamorphoses,184742]] 
 
 ## #has_/text_of_/abstract 
 

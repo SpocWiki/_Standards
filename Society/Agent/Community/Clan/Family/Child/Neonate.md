@@ -132,7 +132,7 @@ dv_has_:
 
 # [[Neonate]] 
 
-#is_/same_as :: [[WD~Neonate,576104]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Neonate,576104]] 
 
 ## #has_/text_of_/abstract 
 

@@ -244,7 +244,7 @@ dv_has_:
 
 # [[Frost,Robert]] 
 
-#is_/same_as :: [[WD~Robert_Frost,168728]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Frost,168728]] 
 
 ## #has_/text_of_/abstract 
 

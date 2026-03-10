@@ -165,7 +165,7 @@ dv_has_:
 
 # [[Ponce_de_León,Juan]] 
 
-#is_/same_as :: [[WD~Juan_Ponce_de_León,185974]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Juan_Ponce_de_León,185974]] 
 
 ## #has_/text_of_/abstract 
 

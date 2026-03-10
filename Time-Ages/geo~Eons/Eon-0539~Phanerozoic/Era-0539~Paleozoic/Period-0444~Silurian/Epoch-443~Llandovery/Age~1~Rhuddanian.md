@@ -80,7 +80,7 @@ dv_has_:
     stopped: -440.8e6
 dv_is_:
   same_as:
-  - '[[WD~Rhuddanian,260369]]'
+  - '[[_Standards/WikiData/WD~Rhuddanian,260369]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.public|Age~1~Rhuddanian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.internal|Age~1~Rhuddanian.internal]]'
@@ -92,7 +92,7 @@ dv_has_duration_years: 3.000e+6
 dv_has_previous_item: '[[../../Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]'
 dv_has_next_item: '[[Age~2~Aeronian]]'
 dv_is_same_as:
-- '[[WD~Rhuddanian,260369]]'
+- '[[_Standards/WikiData/WD~Rhuddanian,260369]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.public|Age~1~Rhuddanian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.internal|Age~1~Rhuddanian.internal]]'
@@ -134,7 +134,7 @@ dv_has_text_of_color: 0xA6DCB5
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Rhuddanian,260369]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Rhuddanian,260369]]  
 
 A time period from 443.8 to 440.8 million years ago. 
 

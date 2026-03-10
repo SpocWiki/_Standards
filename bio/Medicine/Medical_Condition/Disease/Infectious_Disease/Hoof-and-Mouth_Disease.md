@@ -200,7 +200,7 @@ dv_has_:
 # [[Hoof-and-Mouth_Disease]] 
 
 #is_/different_from :: [[HFMD(Hand,Foot_and_Mouth_Disease)]]  
-#is_/same_as :: [[WD~foot-and-Mouth_Disease,152401]]
+#is_/same_as :: [[_Standards/WikiData/WD~foot-and-Mouth_Disease,152401]]
 
 ## #has_/text_of_/abstract 
 

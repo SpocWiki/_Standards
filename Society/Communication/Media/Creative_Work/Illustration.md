@@ -185,7 +185,7 @@ dv_has_:
 
 # [[Illustration]] 
 
-#is_/same_as :: [[WD~Illustration,178659]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Illustration,178659]] 
 
 ## #has_/text_of_/abstract 
 

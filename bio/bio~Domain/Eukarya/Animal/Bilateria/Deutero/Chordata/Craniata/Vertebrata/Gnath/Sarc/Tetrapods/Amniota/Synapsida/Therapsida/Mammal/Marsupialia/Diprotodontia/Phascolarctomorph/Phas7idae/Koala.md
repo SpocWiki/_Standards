@@ -270,7 +270,7 @@ Unicode_character: 🐨
 
 # [[Koala]]  🐨
 
-#is_/same_as :: [[WD~Koala,36101]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Koala,36101]] 
 
 ## #has_/text_of_/abstract 
 

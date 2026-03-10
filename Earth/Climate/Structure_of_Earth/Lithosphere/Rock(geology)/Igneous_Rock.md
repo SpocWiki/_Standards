@@ -229,7 +229,7 @@ dv_has_:
 
 # [[Igneous_Rock]] 
 
-#is_/same_as :: [[WD~Igneous_rock,42045]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Igneous_rock,42045]] 
 
 ## #has_/text_of_/abstract 
 

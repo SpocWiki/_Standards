@@ -90,7 +90,7 @@ dv_has_:
 
 # [[OpenVMS]] 
 
-#is_/same_as :: [[WD~OpenVMS,479882]] 
+#is_/same_as :: [[_Standards/WikiData/WD~OpenVMS,479882]] 
 
 ## #has_/text_of_/abstract 
 

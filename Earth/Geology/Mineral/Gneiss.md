@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Gneiss]]
 
-#is_/same_as :: [[WD~Gneiss,166409]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gneiss,166409]] 
 
 ## #has_/text_of_/abstract 
 

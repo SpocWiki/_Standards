@@ -189,7 +189,7 @@ dv_has_:
 
 # [[Methodism]] 
 
-#is_/same_as :: [[WD~Methodism,33203]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Methodism,33203]] 
 
 ## #has_/text_of_/abstract 
 

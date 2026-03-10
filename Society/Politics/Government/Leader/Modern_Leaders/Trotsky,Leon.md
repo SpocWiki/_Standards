@@ -381,7 +381,7 @@ dv_has_:
 
 # [[Trotsky,Leon]] 
 
-#is_/same_as :: [[WD~Leon_Trotsky,33391]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leon_Trotsky,33391]] 
 
 ## #has_/text_of_/abstract 
 

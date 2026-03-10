@@ -197,7 +197,7 @@ dv_has_:
 
 # [[Mutation]] 
 
-#is_/same_as :: [[WD~Mutation,42918]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mutation,42918]] 
 
 ## #has_/text_of_/abstract 
 

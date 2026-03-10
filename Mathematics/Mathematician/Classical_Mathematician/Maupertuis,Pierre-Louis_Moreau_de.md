@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Maupertuis,Pierre-Louis_Moreau_de]] 
 
-#is_/same_as :: [[WD~Pierre-Louis_Moreau_de_Maupertuis,164374]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pierre-Louis_Moreau_de_Maupertuis,164374]] 
 
 ## #has_/text_of_/abstract 
 

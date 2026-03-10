@@ -171,7 +171,7 @@ dv_has_:
 
 # [[Modern_Paganism]] 
 
-#is_/same_as :: [[WD~Modern_Paganism,189753]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Modern_Paganism,189753]] 
 
 ## #has_/text_of_/abstract 
 

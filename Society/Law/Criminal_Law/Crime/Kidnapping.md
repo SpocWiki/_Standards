@@ -201,7 +201,7 @@ dv_has_:
 
 # [[Kidnapping]] 
 
-#is_/same_as :: [[WD~Kidnapping,318296]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kidnapping,318296]] 
 
 ## #has_/text_of_/abstract 
 

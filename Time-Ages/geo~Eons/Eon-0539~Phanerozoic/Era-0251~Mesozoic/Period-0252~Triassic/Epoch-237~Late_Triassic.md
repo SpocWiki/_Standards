@@ -110,7 +110,7 @@ dv_has_:
     stopped: -201.4e6
 dv_is_:
   same_as:
-  - '[[WD~Late_Triassic,917293]]'
+  - '[[_Standards/WikiData/WD~Late_Triassic,917293]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic|Epoch-237~Late_Triassic]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic.public|Epoch-237~Late_Triassic.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic.internal|Epoch-237~Late_Triassic.internal]]'
@@ -122,7 +122,7 @@ dv_has_duration_years: 3.560e+7
 dv_has_previous_item: '[[Epoch-247~Middle_Triassic]]'
 dv_has_next_item: '[[../Period-0201~Jurassic/Epoch-201~Early_Jurassic|Epoch-201~Early_Jurassic]]'
 dv_is_same_as:
-- '[[WD~Late_Triassic,917293]]'
+- '[[_Standards/WikiData/WD~Late_Triassic,917293]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic|Epoch-237~Late_Triassic]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic.public|Epoch-237~Late_Triassic.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic.internal|Epoch-237~Late_Triassic.internal]]'
@@ -160,7 +160,7 @@ dv_has_text_of_color: 0xBD8CC3
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[WD~Late_Triassic,917293]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Late_Triassic,917293]] 
 
 A time period from 237 to 201.4 million years ago. 
 

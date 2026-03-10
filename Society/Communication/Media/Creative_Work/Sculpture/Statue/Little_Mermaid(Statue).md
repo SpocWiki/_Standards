@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Little_Mermaid(Statue)]] 
 
-#is_/same_as :: [[WD~The_Little_Mermaid,214619]]  
+#is_/same_as :: [[_Standards/WikiData/WD~The_Little_Mermaid,214619]]  
 
 ## #has_/text_of_/abstract 
 

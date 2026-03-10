@@ -291,7 +291,7 @@ dv_has_:
 
 # [[Mentha]] 
 
-#is_/same_as :: [[WD~Mentha,47859]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mentha,47859]] 
 
 ## #has_/text_of_/abstract 
 

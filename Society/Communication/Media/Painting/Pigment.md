@@ -157,7 +157,7 @@ dv_has_:
 # [[Pigment]] 
 
 #is_/same_as :: [[Dye]] 
-#is_/same_as :: [[WD~Pigment,161179]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pigment,161179]] 
 
 ## #has_/text_of_/abstract 
 

@@ -99,7 +99,7 @@ dv_has_:
 
 # [[Dictyoptera]] 
 
-#is_/same_as :: [[WD~Dictyoptera,2087279]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Dictyoptera,2087279]] 
 
 ## #has_/text_of_/abstract 
 

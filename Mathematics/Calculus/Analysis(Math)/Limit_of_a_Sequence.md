@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Limit_of_a_Sequence]] 
 
-#is_/same_as :: [[WD~Limit_of_a_sequence,847204]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Limit_of_a_sequence,847204]] 
 
 ## #has_/text_of_/abstract 
 

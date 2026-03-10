@@ -199,7 +199,7 @@ dv_has_:
 
 # [[Hansel_and_Gretel]] 
 
-#is_/same_as :: [[WD~Hansel_and_Gretel,11829]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hansel_and_Gretel,11829]] 
 
 ## #has_/text_of_/abstract 
 

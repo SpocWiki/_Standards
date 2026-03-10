@@ -199,7 +199,7 @@ dv_has_:
 
 # [[1956-Hungarian_Revolution]] 
 
-#is_/same_as :: [[WD~Hungarian_Revolution_of_1956,164348]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hungarian_Revolution_of_1956,164348]] 
 
 ## #has_/text_of_/abstract 
 

@@ -141,7 +141,7 @@ dv_has_:
 
 # [[1409-Polish-Lithuanian-Teutonic_War-1411]] 
 
-#is_/same_as :: [[WD~Polish-Lithuanian-Teutonic_War,937255]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polish-Lithuanian-Teutonic_War,937255]] 
 
 ## #has_/text_of_/abstract 
 

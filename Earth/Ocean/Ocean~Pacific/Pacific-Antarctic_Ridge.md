@@ -98,7 +98,7 @@ dv_has_:
 
 # [[Pacific-Antarctic_Ridge]] 
 
-#is_/same_as :: [[WD~Pacific-Antarctic_Ridge,558800]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pacific-Antarctic_Ridge,558800]] 
 
 ## #has_/text_of_/abstract 
 

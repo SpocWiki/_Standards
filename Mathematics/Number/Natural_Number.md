@@ -362,7 +362,7 @@ dv_has_:
 
 # [[Natural_Number]] 
 
-#is_/same_as :: [[WD~Natural_number,21199]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Natural_number,21199]] 
 
 ## #has_/text_of_/abstract 
 

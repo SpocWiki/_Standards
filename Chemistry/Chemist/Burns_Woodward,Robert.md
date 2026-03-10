@@ -209,7 +209,7 @@ dv_has_:
 
 # [[Burns_Woodward,Robert]] 
 
-#is_/same_as :: [[WD~Robert_Burns_Woodward,232316]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Burns_Woodward,232316]] 
 
 ## #has_/text_of_/abstract 
 

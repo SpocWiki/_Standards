@@ -205,7 +205,7 @@ dv_has_:
 
 # [[Passover]] 
 
-#is_/same_as :: [[WD~Passover,121393]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Passover,121393]] 
 
 ## #has_/text_of_/abstract 
 

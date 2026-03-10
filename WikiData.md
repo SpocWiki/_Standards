@@ -427,7 +427,7 @@ dv_has_:
 
 # [[WikiData]]
 
-#is_/same_as :: [[WD~WikiData,2013]]
+#is_/same_as :: [[_Standards/WikiData/WD~WikiData,2013]]
 
 This Folder contains more than 9999 Core-[[../Data/Wikipedia/WikiData|WikiData]] Entities in a flat structure,
 to allow for stable, generic, relative Links formed by the (english) Name 
@@ -486,8 +486,8 @@ The last was [[Earth/Continent/Europe/Europe~Central/Croatia|Croatia]]n User 'Ku
 - [[WikiData/WD~Douglas_Adams,42|WD~Douglas_Adams,42]] 
 - [[WikiData/WD~Star,523|WD~Star,523]] which has its [[Dewey-Number]] as an ID 
 - [[WikiData/WD~Stanley_Kubrick,2001|WD~Stanley_Kubrick,2001]] 
-- [[WD~Number_of_the_beast,666]] 
-- [[WD~Leet,1337]] 
+- [[_Standards/WikiData/WD~Number_of_the_beast,666]] 
+- [[_Standards/WikiData/WD~Leet,1337]] 
 
 The first 10_000 WikiData Entities are based on the Level 4 (10^4) curated [List of Articles Every Wikipedia Should Have](https://meta.wikimedia.org/wiki/List_of_articles_every_Wikipedia_should_have/Expanded). 
 These provide a basic, essential content framework for all language editions of Wikipedia, particularly smaller and newer ones. 

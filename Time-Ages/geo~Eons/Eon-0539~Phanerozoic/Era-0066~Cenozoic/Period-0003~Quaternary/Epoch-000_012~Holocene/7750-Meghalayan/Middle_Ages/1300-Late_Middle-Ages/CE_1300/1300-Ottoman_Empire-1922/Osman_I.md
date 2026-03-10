@@ -240,7 +240,7 @@ dv_has_:
 
 # [[Osman_I]] 
 
-#is_/same_as :: [[WD~Osman_I,83100]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Osman_I,83100]] 
 
 ## #has_/text_of_/abstract 
 

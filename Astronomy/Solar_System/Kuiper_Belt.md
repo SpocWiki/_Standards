@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Kuiper_Belt]] 
 
-#is_/same_as :: [[WD~Kuiper_Belt,427]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kuiper_Belt,427]] 
 
 ## #has_/text_of_/abstract 
 

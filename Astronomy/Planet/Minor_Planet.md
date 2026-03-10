@@ -191,7 +191,7 @@ dv_has_:
 
 # [[Minor_Planet]] 
 
-#is_/same_as :: [[WD~Minor_planet,1022867]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Minor_planet,1022867]] 
 #is_/similar_to :: [[Dwarf_Planet]] 
 
 ## #has_/text_of_/abstract 

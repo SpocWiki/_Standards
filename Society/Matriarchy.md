@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Matriarchy]] 
 
-#is_/same_as :: [[WD~Matriarchy,185681]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Matriarchy,185681]] 
 
 ## #has_/text_of_/abstract 
 

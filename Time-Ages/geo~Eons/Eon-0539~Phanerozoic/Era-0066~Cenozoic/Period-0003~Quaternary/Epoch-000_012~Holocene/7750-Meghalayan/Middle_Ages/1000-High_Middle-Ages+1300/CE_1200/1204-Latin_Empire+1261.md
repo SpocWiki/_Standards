@@ -225,7 +225,7 @@ dv_has_:
 
 # [[1204-Latin_Empire+1261]] 
 
-#is_/same_as :: [[WD~Latin_Empire,178897]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Latin_Empire,178897]] 
 
 ## #has_/text_of_/abstract 
 
