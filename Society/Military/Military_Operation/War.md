@@ -512,6 +512,17 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/War) 
 
+## Sedentism and War 
+
+Archeological Research on Wounds indicate that violent Deaths have increased 
+between [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic|0000-Mesolithic]] and [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/2000-Neolithic|Neolithic]], 
+the time frame between 15000 and 5000 years BC 
+while Agriculture and Settling increased. 
+
+The plausible Argument is that 
+- Conflicts over Ownership leads to 
+- sedentary communities have invested more and are more vulnerable  
+
 
 ```mermaid
 graph TD

@@ -42,6 +42,12 @@ A delivery service through which radio content is provided via broadcast over th
 
 #has_/properties :: [ additionalType, aggregateRating, alternateName, area, areaServed, audience, availableChannel, award, brand, broadcastAffiliateOf, broadcastDisplayName, broadcastFrequency, broadcastTimezone, broadcaster, broker, callSign, category, description, disambiguatingDescription, hasBroadcastChannel, hasOfferCatalog, hoursAvailable, identifier, image, inLanguage, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, parentService, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url, videoFormat ]  
 
+In the early 1930 the so-called Radio Wars 
+where  [[Grammophone]] Companies protested against Radio Stations to play Records 
+resulted in two new processes in Europe: 
+- increased Production of Material by Radio Stations 
+- Royalty Management 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Broadcast_Service/Radio_Broadcast_Service|Radio_Broadcast_Service]] 

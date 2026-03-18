@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Utilitarianism]] 
 
-#is_/same_as :: [[../../WikiData/WD~Utilitarianism,160590|WD~Utilitarianism,160590]] 
+#is_/same_as :: [[../../../WikiData/WD~Utilitarianism,160590|WD~Utilitarianism,160590]] 
 
 ## #has_/text_of_/abstract 
 
@@ -219,7 +219,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Utilitarianism|Utilitarianism]] 
+### #is_/same_as :: [[Utilitarianism|Utilitarianism]] 
 
 ### #is_/same_as :: [[/_public/Philosophy/Ethics/Utilitarianism.public|Utilitarianism.public]] 
 

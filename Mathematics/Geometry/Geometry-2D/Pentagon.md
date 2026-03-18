@@ -1,4 +1,5 @@
 ---
+has_id_wikidata: Q127840
 aliases:
 - bentagoon
 - beşbucaqlı
@@ -78,7 +79,6 @@ aliases:
 - 五边形
 - 五邊形
 - 오각형
-has_id_wikidata: Q127840
 followed_by: '[[_Standards/WikiData/WD~hexagon,83043|WD~hexagon,83043]]'
 has_vertex_figure: '[[_Standards/WikiData/WD~line_segment,166154|WD~line_segment,166154]]'
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
@@ -108,7 +108,7 @@ dv_has_:
     ba: бишмөйөш
     bcl: pentagono
     be: пяцівугольнік
-    be_tarask: пяцікутнік
+    be-tarask: пяцікутнік
     bg: петоъгълник
     bn: পঞ্চভুজ
     br: pempkorneg
@@ -168,7 +168,7 @@ dv_has_:
     pl: pięciokąt
     ps: پينځڅنډی
     pt: pentágono
-    pt_br: pentágono
+    pt-br: pentágono
     ro: pentagon
     ru: пятиугольник
     rue: пятокутник
@@ -179,8 +179,8 @@ dv_has_:
     sl: peterokotnik
     so: bentagoon
     sr: петоугао
-    sr_ec: петоугао
-    sr_el: petougao
+    sr-ec: петоугао
+    sr-el: petougao
     su: juru lima
     sv: femhörning
     ta: ஐங்கோணம்
@@ -190,7 +190,7 @@ dv_has_:
     tl: pentagono
     tr: beşgen
     tt: бишпочмак
-    tt_cyrl: бишпочмак
+    tt-cyrl: бишпочмак
     uk: п'ятикутник
     ur: مخمس (ہندسہ)
     uz: pentagon
@@ -200,17 +200,18 @@ dv_has_:
     yi: פינפעק
     yue: 五邊形
     zh: 五边形
-    zh_cn: 五边形
-    zh_hans: 五边形
-    zh_hant: 五邊形
-    zh_hk: 五邊形
-    zh_sg: 五边形
-    zh_tw: 五邊形
+    zh-cn: 五边形
+    zh-hans: 五边形
+    zh-hant: 五邊形
+    zh-hk: 五邊形
+    zh-sg: 五边形
+    zh-tw: 五邊形
 ---
 
-# [[Pentagon]] 
+# [[Pentagon]] ⬟ ⬠ ⭓ ⭔ ⯂
 
 #is_/same_as :: [[_Standards/WikiData/WD~Pentagon,127840]] 
+#is_/different_from :: [[Pentagram]] 
 
 ## #has_/text_of_/abstract 
 

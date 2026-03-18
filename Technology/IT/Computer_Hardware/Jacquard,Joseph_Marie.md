@@ -136,10 +136,11 @@ dv_has_:
 
 #has_/created :: [[Jacquard_Machine]] 
 #is_/same_as :: [[../../../WikiData/WD~Joseph_Marie_Jacquard,310833|WD~Joseph_Marie_Jacquard,310833]] 
+#is_/similar_to :: [[Lee,William(inventor)]]
 
 ## #has_/text_of_/abstract 
 
-> Joseph Marie Charles dit (called or nicknamed) Jacquard (French: [ʒakaʁ]; 7 July 1752 – 7 August 1834) 
+> Joseph Marie Charles dit (called) Jacquard (French: [ʒakaʁ]; 7 July 1752 – 7 August 1834) 
 > was a French weaver and merchant. 
 > 
 > He played an important role in the development of the earliest programmable loom 
