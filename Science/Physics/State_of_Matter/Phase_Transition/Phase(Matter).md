@@ -171,39 +171,45 @@ dv_has_:
     zh_tw: 相
 ---
 
-# [[Phase]] 
+# [[Phase(Matter)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Phase,104837|WD~Phase,104837]] 
+#is_/different_from :: [[../../State_of_Matter|State_of_Matter]] 
+
+Region in a substance 
+throughout which all physical and chemically properties are essentially uniform; 
+
+Distinct Phases are physically, (often) mechanically separable, 
+even if they are in the same [[../../State_of_Matter|State_of_Matter]] like e.g. [[../../../../Chemistry/Inorganic_Chemistry/Water|Water]] and [[../../../../bio/Metabolism/Nutrition/Fat/Oil|Oil]].
 
 ## #has_/text_of_/abstract 
 
-> In physics, a state of matter or **Phase** of matter 
-> is one of the distinct forms in which matter can exist. 
-> Four states of matter are observable in everyday life, 
-> and categorized as 'Elements' since Antiquity: 
-> - solid, 
-> - liquid, 
-> - gas, and 
-> - plasma.
->
-> Different states are distinguished 
-> by the ways the component particles (atoms, molecules, ions and electrons) are arranged, 
-> and how they behave collectively. 
+> In the physical sciences, 
+> a phase is a region of material that is chemically uniform, 
+> physically distinct, and (often) mechanically **separable**. 
 > 
-> In a solid, the particles are tightly packed and held in fixed positions, giving the material a definite shape and volume. In a liquid, the particles remain close together but can move past one another, allowing the substance to maintain a fixed volume while adapting to the shape of its container. In a gas, the particles are far apart and move freely, allowing the substance to expand and fill both the shape and volume of its container. Plasma is similar to a gas, but it also contains charged particles (ions and free electrons) that move independently and respond to electric and magnetic fields.
+> In a system consisting of ice and water in a glass jar, 
+> the ice cubes are one phase, the water is a second phase, 
+> and the humid air is a third phase over the ice and water. 
+> The glass of the jar is a different material, 
+> in its own separate phase. (See state of matter § Glass.)
+> 
+> More precisely, a phase is a region of space (a thermodynamic system), 
+> throughout which all physical properties of a material are essentially uniform. 
+> 
+> Examples of physical properties include 
+> density, index of refraction, magnetization and chemical composition.
+> 
+> The term phase is sometimes used as a synonym for [[../../State_of_Matter|State_of_Matter]], 
+> but there can be several **immiscible phases of the same state of matter** 
+> (as where oil and water separate into distinct phases, both in the liquid state).
 >
-> Beyond the classical states of matter, a wide variety of additional states are known to exist. Some of these lie between the traditional categories; for example, liquid crystals exhibit properties of both solids and liquids. Others represent entirely different kinds of ordering. Magnetic states, for instance, do not depend on the spatial arrangement of atoms, but rather on the alignment of their intrinsic magnetic moments (spins). Even in a solid where atoms are fixed in position, the spins can organize in distinct ways, giving rise to magnetic states such as ferromagnetism or antiferromagnetism.
->
-> Some states occur only under extreme conditions, such as Bose–Einstein condensates and Fermionic condensates (in extreme cold), neutron-degenerate matter (in extreme density), and quark–gluon plasma (at extremely high energy).
->
-> The term phase is sometimes used as a synonym for state of matter, but it is possible for a single compound to form different phases that are in the same state of matter. For example, ice is the solid state of water, but there are multiple phases of ice with different crystal structures, which are formed at different pressures and temperatures.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/State%20of%20matter) 
+> [Wikipedia](https://en.wikipedia.org/wiki/Phase%20(matter)) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Phase|Phase]] 
+### #is_/same_as :: [[Phase(Matter)|Phase(Matter)]] 
 
 ### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Phase_Transition/Phase.public|Phase.public]] 
 

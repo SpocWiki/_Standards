@@ -600,8 +600,9 @@ has_place_latitude = `=this.dv_has_place_latitude`
 > amounting to nearly half of the territory's total public revenue.
 >
 > Though a part of the continent of North America, 
-> Greenland has been politically and culturally associated with the European 
-> kingdoms of Norway and Denmark for more than a millennium, beginning in 986. 
+> Greenland has been politically and culturally 
+> associated with the European kingdoms of Norway and Denmark 
+> for more than a millennium, beginning in 986. 
 > 
 > Greenland has been inhabited at intervals over at least the last 4,500 years 
 > by circumpolar peoples whose forebears migrated there from what is now Canada. 

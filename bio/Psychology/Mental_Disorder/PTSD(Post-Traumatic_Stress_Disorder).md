@@ -286,6 +286,11 @@ dv_has_:
 
 #is_/same_as :: [[../../../WikiData/WD~Post-traumatic_stress_disorder,202387|WD~Post-traumatic_stress_disorder,202387]]  
 
+## #has_/facts 
+
+- Passivity increases/correlates with the Risk for developing PTSD. 
+- 
+
 ## #has_/text_of_/abstract 
 
 > Post-traumatic stress disorder (PTSD) is a mental disorder 

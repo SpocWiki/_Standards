@@ -1099,15 +1099,91 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ## #has_/text_of_/abstract 
 
-> **Ukraine** is a country in Eastern Europe. It is the second-largest country in Europe after Russia, which borders it to the east and northeast. Ukraine also borders Belarus to the north; Poland and Slovakia to the west; Hungary, Romania and Moldova to the southwest; and the Black Sea and the Sea of Azov to the south and southeast. Kyiv is the nation's capital and largest city, followed by Kharkiv, Dnipro, and Odesa. Ukraine's official language is Ukrainian.
+> **Ukraine** is a country in Eastern Europe. 
+> It is the second-largest country in Europe after Russia, 
+> which borders it to the east and northeast. 
+> 
+> Ukraine also borders 
+> - Belarus to the north; 
+> - Poland and Slovakia to the west; 
+> - Hungary, Romania and Moldova to the southwest; and 
+> - the Black Sea and the Sea of Azov to the south and southeast. 
+> 
+> Kyiv is the nation's capital and largest city, 
+> followed by Kharkiv, Dnipro, and Odesa. 
+> 
+> Ukraine's official language is Ukrainian.
 >
-> Humans have inhabited Ukraine since 32,000 BC. During the Middle Ages, it was the site of early Slavic expansion and later became a key centre of East Slavic culture under the state of Kievan Rus', which emerged in the 9th century. Kievan Rus' became the largest and most powerful realm in Europe in the 10th and 11th centuries, but gradually disintegrated into rival regional powers before being destroyed by the Mongols in the 13th century. The area was then contested, divided, and ruled by a variety of external powers for the next 600 years, including the Grand Duchy of Lithuania, the Kingdom of Poland, the Polish–Lithuanian Commonwealth, the Austrian Empire, the Ottoman Empire, and the Tsardom of Russia.
+> Humans have inhabited Ukraine since 32,000 BC. 
+> During the Middle Ages, it was the site of early Slavic expansion 
+> and later became a key centre of East Slavic culture 
+> under the state of Kievan Rus', which emerged in the 9th century. 
+> 
+> Kievan Rus' became the largest and most powerful realm in Europe 
+> in the 10th and 11th centuries, 
+> but gradually disintegrated into rival regional powers 
+> before being destroyed by the Mongols in the 13th century. 
+> 
+> The area was then contested, divided, 
+> and ruled by a variety of external powers for the next 600 years, 
+> including the Grand Duchy of Lithuania, the Kingdom of Poland, 
+> the Polish–Lithuanian Commonwealth, the Austrian Empire, 
+> the Ottoman Empire, and the Tsardom of Russia.
 >
-> The Cossack Hetmanate emerged in central Ukraine in the 17th century but was partitioned between Russia and Poland before being absorbed by the Russian Empire in the late 19th century. Ukrainian nationalism developed and, following the Russian Revolution in 1917, the short-lived Ukrainian People's Republic was formed. The Bolsheviks consolidated control over much of the former empire and established the Ukrainian Soviet Socialist Republic, which became a constituent republic of the Soviet Union in 1922. In the early 1930s, millions of Ukrainians died in the Holodomor, a human-made famine. During World War II, Ukraine was occupied by Germany and endured major battles and atrocities, resulting in 7 million civilians killed, including most Ukrainian Jews.
+> The Cossack Hetmanate emerged in central Ukraine in the 17th century 
+> but was partitioned between Russia and Poland 
+> before being absorbed by the Russian Empire in the late 19th century. 
+> 
+> Ukrainian nationalism developed and, 
+> following the Russian Revolution in 1917, 
+> the short-lived Ukrainian People's Republic was formed. 
+> 
+> The Bolsheviks consolidated control over much of the former empire 
+> and established the Ukrainian Soviet Socialist Republic, 
+> which became a constituent republic of the Soviet Union in 1922. 
+> In the early 1930s, millions of Ukrainians died in the Holodomor, 
+> a human-made famine. 
+> 
+> During World War II, Ukraine was occupied by Germany 
+> and endured major battles and atrocities, 
+> resulting in 7 million civilians killed, including most Ukrainian Jews.
 >
-> Ukraine gained independence in 1991 as the Soviet Union dissolved and declared itself neutral. A new constitution was adopted in 1996 as the country transitioned to a free market liberal democracy amid endemic corruption and a legacy of state control. The Orange Revolution of 2004–2005 ushered electoral and constitutional reforms. Resurgent political crises prompted a series of mass demonstrations in 2014 known as the Euromaidan, leading to a revolution, at the end of which Russia unilaterally occupied and annexed Ukraine's Crimean Peninsula, and pro-Russian unrest culminated in a war in Donbas with Russian-backed separatists and Russia. Russia launched a full-scale invasion of Ukraine in 2022.
+> Ukraine gained independence in 1991 as the Soviet Union dissolved 
+> and declared itself neutral. 
+> 
+> A new constitution was adopted in 1996 
+> as the country transitioned to a free market liberal democracy 
+> amid endemic corruption and a legacy of state control. 
+> 
+> The Orange Revolution of 2004 ushered electoral and constitutional reforms. 
+> Resurgent political crises prompted a series of mass demonstrations in 2014 
+> known as the Euromaidan, leading to a revolution, 
+> at the end of which Russia unilaterally occupied 
+> and annexed Ukraine's Crimean Peninsula, 
+> and pro-Russian unrest culminated in a war in Donbas 
+> with Russian-backed separatists and Russia. 
+> Russia launched a full-scale invasion of Ukraine in 2022.
 >
-> Ukraine is a unitary state and its system of government is a semi-presidential republic. Ukraine has a transition economy and has the lowest nominal GDP per capita in Europe as of 2024, with corruption being a significant issue. Due to its extensive fertile land, the country is an important exporter of grain, with grain produce reduced since 2022 due the Russian invasion, endangering global food security. Ukraine is considered a middle power in global affairs. Its military is the sixth largest in the world with the eighth largest defence budget, and operates one of the world's largest and most diverse drone fleets. Ukraine is a founding member of the United Nations and a member of the Council of Europe, the World Trade Organisation, and the OSCE. It is in the process of joining the European Union and has applied to join NATO.
+> Ukraine is a unitary state 
+> and its system of government is a semi-presidential republic. 
+> Ukraine has a transition economy 
+> and has the lowest nominal GDP per capita in Europe as of 2024, 
+> with corruption being a significant issue. 
+> Due to its extensive fertile land, the country is an important exporter of grain, 
+> with grain produce reduced since 2022 due the Russian invasion, 
+> endangering global food security. 
+> 
+> Ukraine is considered a middle power in global affairs. 
+> Its military is the sixth largest in the world 
+> with the eighth largest defence budget, and operates 
+> one of the world's largest and most diverse drone fleets. 
+> 
+> Ukraine is a founding member of the United Nations 
+> and a member of the Council of Europe, the World Trade Organisation, 
+> and the OSCE. 
+> 
+> It is in the process of joining the European Union 
+> and has applied to join NATO.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ukraine) 
 

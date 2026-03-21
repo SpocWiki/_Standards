@@ -288,6 +288,7 @@ dv_has_:
 # [[State_of_Matter]] 
 
 #is_/same_as :: [[../../WikiData/WD~State_of_matter,11430|WD~State_of_matter,11430]] 
+#is_/similar_to :: [[State_of_Matter/Phase_Transition/Phase(Matter)|Phase(Matter)]] 
 
 |          | Press | Shape | Volume | Isolation | Magnetic |
 | -------- | :---: | :---: | :----: | :-------: | :------: |

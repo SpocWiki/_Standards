@@ -234,7 +234,8 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> A card game is any game that uses playing cards as the primary device with which the game is played, 
+> A card game is any game that 
+> uses playing cards as the primary device with which the game is played, 
 > whether the cards are of a traditional design or specifically created for the game (proprietary). 
 > 
 > Countless card games exist, including families of related games (such as poker). 
@@ -247,13 +248,29 @@ dv_has_:
 > The faces of the cards may all be unique, or there can be duplicates. 
 > The composition of a deck is known to each player. 
 > In some cases several decks are shuffled together to form a single pack or shoe. 
-> Modern card games usually have bespoke decks, often with a vast amount of cards, 
+> Modern card games usually have bespoke decks, 
+> often with a vast amount of cards, 
 > and can include number or action cards. 
 > This type of game is generally regarded as part of the board game hobby.
 >
-> Games using playing cards exploit the fact that cards are individually identifiable from one side only, so that each player knows only the cards they hold and not those held by anyone else. For this reason card games are often characterized as games of "imperfect information"—as distinct from games of perfect information, where the current position is fully visible to all players throughout the game. Many games that are not generally placed in the family of card games do in fact use cards for some aspect of their play.
+> Games using playing cards exploit the fact that 
+> cards are individually **identifiable from one side only**, 
+> so that each player knows only the cards they hold 
+> and not those held by anyone else. 
+> 
+> For this reason card games are often characterized as 
+> games of "[[imperfect information]]"—as distinct from games of perfect information, 
+> where the current position is fully visible to all players throughout the game. 
+> Many games that are not generally placed in the family of card games 
+> do in fact use cards for some aspect of their play.
 >
-> Some games that are placed in the card game genre involve a board. The distinction is that the play in a card game chiefly depends on the use of the cards by players (the board is a guide for scorekeeping or for card placement), while board games (the principal non-card game genre to use cards) generally focus on the players' positions on the board, and use the cards for some secondary purpose.
+> Some games that are placed in the card game genre involve a board. 
+> The distinction is that the play in a card game 
+> chiefly depends on the use of the cards by players 
+> (the board is a guide for scorekeeping or for card placement), 
+> while board games (the principal non-card game genre to use cards) generally 
+> focus on the players' positions on the board, 
+> and use the cards for some secondary purpose.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Card%20game) 
 

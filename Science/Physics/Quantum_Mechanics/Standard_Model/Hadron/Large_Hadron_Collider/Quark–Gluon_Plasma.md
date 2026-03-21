@@ -145,7 +145,7 @@ dv_has_:
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Quark–gluon_plasma,733096|WD~Quark–gluon_plasma,733096]]  
 
-This is a new, 5th [[../../../../State_of_Matter|State_of_Matter]]. 
+This is a new, 5th [[../../../../State_of_Matter|State_of_Matter]] at the sub-atomic Level with correspondingly higher Energies. 
 
 ## #has_/text_of_/abstract 
 

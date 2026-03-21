@@ -155,11 +155,44 @@ dv_has_:
 > evolving into new forms including German Grosstarok 
 > and modern examples such as French Tarot and Austrian Königrufen.     
 >
-> Tarot is commonly found in many countries, especially in English and Spanish speaking countries where tarot games are not as widely played,  in the form of specially designed cartomantic decks used primarily for tarot card reading, in which each card corresponds to an assigned archetype or interpretation for divination, fortune-telling or for other non-gaming uses.
+> Tarot is commonly found in many countries, 
+> especially in English and Spanish speaking countries 
+> where tarot games are not as widely played,  
+> in the form of specially designed cartomantic decks 
+> used primarily for tarot card reading, 
+> in which each card corresponds to an assigned archetype 
+> or interpretation for divination, fortune-telling 
+> or for other non-gaming uses.
 >
-> The emergence of custom decks for use in divination via tarot card reading and cartomancy began after French occultists made elaborate, but unsubstantiated, claims about their history and meaning in the late 18th century. Thus, there are two distinct types of tarot packs in circulation: those used for card games and those used for divination. However, some older patterns, such as the Tarot de Marseille and the Swiss 1JJ Tarot, originally intended for playing card games, are also used for cartomancy. 
+> The emergence of custom decks for use in 
+> divination via tarot card reading and cartomancy 
+> began after French occultists made elaborate, but unsubstantiated, 
+> claims about their history and meaning in the late 18th century. 
+> 
+> Thus, there are two distinct types of tarot packs in circulation: 
+> those used for card games and those used for divination. 
+> 
+> However, some older patterns, 
+> such as the Tarot de Marseille and the Swiss 1JJ Tarot, 
+> originally intended for playing card games, 
+> are also used for cartomancy. 
 >
-> Tarot has four suits that vary by region: French suits are used in western, central and eastern Europe, and Latin suits in southern Europe. Each suit has 14 cards: ten pip cards numbering from one (or Ace) to ten; and four face cards: King, Queen, Knight, and Jack/Knave/Page. In addition, the tarot also has a separate 21-card trump suit and a single card known as the Fool. Depending on the game, the Fool may act as the top trump or may be played to avoid following suit. These tarot cards are still used throughout much of Europe to play trick-taking card games.
+> Tarot has four suits that vary by region: 
+> - French suits are used in western, central and eastern Europe, and 
+> - Latin suits in southern Europe. 
+> 
+> Each suit has 14 cards: 
+> - ten pip cards numbering from one (or Ace) to ten; 
+> - and four face cards: King, Queen, Knight, and Jack/Knave/Page. 
+> 
+> In addition, the tarot also has a separate 21-card trump suit 
+> and a single card known as the Fool, the [[Major_Arcana]]. 
+> 
+> Depending on the game, the Fool/Joker may act as the top trump 
+> or may be played to avoid following suit. 
+> 
+> These tarot cards are still used throughout much of Europe 
+> to play trick-taking card games.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tarot) 
 
