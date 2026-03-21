@@ -186,7 +186,7 @@ dv_has_:
 > - and four face cards: King, Queen, Knight, and Jack/Knave/Page. 
 > 
 > In addition, the tarot also has a separate 21-card trump suit 
-> and a single card known as the Fool, the [[Major_Arcana]]. 
+> and a single card known as the Fool, the [[Tarot/Major_Arcana]]. 
 > 
 > Depending on the game, the Fool/Joker may act as the top trump 
 > or may be played to avoid following suit. 
