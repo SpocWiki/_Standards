@@ -1,6 +1,8 @@
 
 # [[Tarot~06~Lovers]] 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~06~Lovers.jpg]] 
+
 
 ## #has_/text_of_/abstract 
 

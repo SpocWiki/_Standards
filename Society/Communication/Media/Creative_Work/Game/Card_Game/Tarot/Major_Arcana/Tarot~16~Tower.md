@@ -1,6 +1,8 @@
 
 # [[Tarot~16~Tower]] 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~16~Tower.jpg]] 
+
 
 ## #has_/text_of_/abstract 
 

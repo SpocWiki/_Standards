@@ -1,4 +1,6 @@
 
+#has_/required :: [[Physical_Synchronisation]] 
+#is_/different_from :: [[Brain-Synchronization]] 
 
 # Synchronisation Across Software System Layers
 
@@ -150,11 +152,16 @@ counter.incrementAndGet(); // atomic CAS, ~10 ns
 ### Memory and Hardware Layer
 
 #### Default State
-Modern CPUs employ **out-of-order execution, store buffers, and invalidation queues** that make writes from one core **not immediately visible** to other cores.
+Modern CPUs employ **out-of-order execution, store buffers, and invalidation queues** 
+that make writes from one core **not immediately visible** to other cores.
 
 #### Why Not Synchronised
-- Each CPU core has private L1/L2 caches; a write lands in the store buffer first (~1–5 cycles) before being committed to the cache hierarchy.
-- Hardware may reorder loads and stores for performance; x86 uses **Total Store Order (TSO)**, which allows load-store reordering. ARM/POWER use **weakly ordered** models, permitting almost any reorder.
+- Each CPU core has private L1/L2 caches; 
+	- a write lands in the store buffer first (~1–5 cycles) 
+	  before being committed to the cache hierarchy.
+- Hardware may reorder loads and stores for performance; 
+	- x86 uses **Total Store Order (TSO)**, which allows load-store reordering. 
+	- ARM/POWER use **weakly ordered** models, permitting almost any reorder.
 
 #### Memory Consistency Models Compared
 
@@ -168,10 +175,15 @@ Modern CPUs employ **out-of-order execution, store buffers, and invalidation que
 *Four reordering types: Load-Load, Load-Store, Store-Load, Store-Store.*
 
 #### How Synchronisation Is Achieved
+
 - **Memory barriers / fences**: force the CPU to drain the store buffer and/or invalidation queue before proceeding.
-- **`volatile` keyword** (Java / C#): ensures every read goes to main memory and every write is immediately visible; does **not** prevent compound operations from being non-atomic.
+- **`volatile` keyword** (Java / C#): ensures every **read** goes to main memory 
+	- and every **write** is immediately visible; 
+	- does **not** prevent compound operations from being non-atomic.
 - **`std::atomic` with `memory_order`** (C++11+): precisely specifies acquire/release/sequentially-consistent semantics.
-- **NUMA-aware allocation**: on Non-Uniform Memory Access systems, place data in the memory node local to the accessing core to reduce ~40–100 ns remote NUMA latency.
+- **NUMA-aware allocation**: on Non-Uniform Memory Access systems, 
+  place data in the memory node local to the accessing core 
+  to reduce ~40–100 ns remote NUMA latency.
 
 #### Example
 ```cpp

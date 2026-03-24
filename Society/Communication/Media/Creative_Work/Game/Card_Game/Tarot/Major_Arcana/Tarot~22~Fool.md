@@ -6,6 +6,9 @@ Unicode_character: 🃠
 
 # [[Tarot~22~Fool]] 🃠 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~22~Fool.jpg]] 
+
+
 ## #has_/text_of_/abstract 
 
 > The Fool is one of the 78 cards in a tarot deck. 

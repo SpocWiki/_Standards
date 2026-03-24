@@ -1,5 +1,7 @@
 
-# [[Tarot~10~Wheel of Fortune]] 
+# [[Tarot~10~Wheel_of_Fortune]] 
+
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~10~Wheel_of_Fortune.jpg]] 
 
 
 ## #has_/text_of_/abstract 

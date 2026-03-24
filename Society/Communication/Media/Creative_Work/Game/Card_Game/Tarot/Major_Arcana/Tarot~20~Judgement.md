@@ -1,6 +1,8 @@
 
 # [[Tarot~20~Judgement]] 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~20~Judgement.jpg]] 
+
 
 ## #has_/text_of_/abstract 
 

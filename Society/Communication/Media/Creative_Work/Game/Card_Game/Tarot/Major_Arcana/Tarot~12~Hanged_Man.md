@@ -1,5 +1,7 @@
 
-# [[Tarot~12~Hanged Man]] 
+# [[Tarot~12~Hanged_Man]] 
+
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~12~Hanged_Man.jpg]] 
 
 
 ## #has_/text_of_/abstract 

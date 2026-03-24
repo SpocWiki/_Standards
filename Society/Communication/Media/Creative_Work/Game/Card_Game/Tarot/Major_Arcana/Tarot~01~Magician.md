@@ -1,6 +1,7 @@
 
 # [[Tarot~01~Magician]] 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~01~Magician.jpg]]         
 
 ## #has_/text_of_/abstract 
 

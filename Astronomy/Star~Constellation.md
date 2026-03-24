@@ -367,7 +367,22 @@ but all 88 Star-Constellations, to totally partition the Night Sky.
 This Mercator Projection of the night sky shows most of the Constellations described here. 
 The Milky Way is projected as a white Band  through the Equator formed by the Earth's Ecliptic Plane. 
 
-![[Star~Constellation/StarConstellations-Mercator-Black.png|StarConstellations-Mercator-Black.png]] 
+
+```leaflet
+id: leaflet-map
+image: [[StarConstellations-Mercator-Black.png]]
+bounds:
+    - [90, -361]
+    - [-90, 271]
+height: 500px
+lat: 00
+long: 0
+markerFolder: ./Star/
+zoomFeatures: false 
+defaultZoom: 2
+unit: meters
+darkMode: false
+```
 
 
 ## #has_/text_of_/abstract 

@@ -1,6 +1,8 @@
 
 # [[Tarot~09~Hermit]] 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~09~Hermit.jpg]] 
+
 
 ## #has_/text_of_/abstract 
 

@@ -1,6 +1,8 @@
 
 # [[Tarot~07~Chariot]] 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~07~Chariot.jpg]] 
+
 
 
 ## #has_/text_of_/abstract 

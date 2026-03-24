@@ -1,6 +1,8 @@
 
 # [[Tarot~21~World]] 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~21~World.jpg]] 
+
 
 ## #has_/text_of_/abstract 
 

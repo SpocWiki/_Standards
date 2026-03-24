@@ -141,9 +141,20 @@ dv_has_:
 
 # [[TSMC(Taiwan_Semiconductor)]] Manufacturing Company 
 
-#is_/same_as :: [[_Standards/WikiData/WD~TSMC,713418]]
+#is_/same_as :: [[_Standards/WikiData/WD~TSMC,713418]] 
+#is_/different_from :: [[UMC(United_Microelectronics_Corporation)]] 
 #has_/dependencies :: [[Jenoptik]] 
-#has_/dependents :: [[../../../../../../../../Technology/IT/Computer_Hardware/Apple_Inc|Apple,Company]], [[Nvidia|Nvidia]], [[Qualcomm|Qualcomm]], [[AMD(Advanced_Micro_Devices)|AMD]], [[Broadcom|Broadcom]], [[MediaTek]], [[Intel|Intel]]
+#has_/dependents :: [[../../../../../../../../Technology/IT/Computer_Hardware/Apple_Inc|Apple,Company]], [[Nvidia|Nvidia]], [[Qualcomm|Qualcomm]], [[AMD(Advanced_Micro_Devices)|AMD]], [[Broadcom|Broadcom]], [[MediaTek]], [[Intel|Intel]] 
+#has_/time_started :: 1987-02-21 
+
+
+[[UMC(United_Microelectronics_Corporation)]] initially competed with TSMC, 
+but fell behind because they also designed their own Chips. 
+This potential Conflict of Interests with its own designing Clients made TSMC more attractive. 
+
+UMC followed suit but due to a bad decision they fell behind. 
+Since 2017 they focus on mature Technologies like dUV (Deep UltraViolet). 
+
 
 ## #has_/text_of_/abstract 
 

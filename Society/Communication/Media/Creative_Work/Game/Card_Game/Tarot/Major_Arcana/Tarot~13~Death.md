@@ -1,6 +1,8 @@
 
 # [[Tarot~13~Death]] 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~13~Death.jpg]] 
+
 
 ## #has_/text_of_/abstract 
 

@@ -1,6 +1,8 @@
 
 # [[Tarot~18~Moon]] 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~18~Moon.jpg]] 
+
 
 ## #has_/text_of_/abstract 
 

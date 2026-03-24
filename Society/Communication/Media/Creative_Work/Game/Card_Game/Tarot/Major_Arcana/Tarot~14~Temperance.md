@@ -1,6 +1,9 @@
 
 # [[Tarot~14~Temperance]] 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~14~Temperance.jpg]] 
+
+
 ## #has_/text_of_/abstract 
 
 > Temperance (XIV) is one of the 22 Major Arcana cards in Tarot decks. 

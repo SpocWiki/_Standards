@@ -81,7 +81,7 @@ by bisecting the angles.
 The ham sandwich theorem example in two dimensions 
 also applies to noncontiguous regions: 
 [cmglee, Cnbrb — CC BY‑SA 4.0, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ham_sandwich_theorem_2d.png "cmglee, Cnbrb, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")   
-![[../../../assets/Ham_sandwich_theorem_2d.png|Ham_sandwich_theorem_2d.png]] 
+![[../../../assets/Knowledge/Math/Ham_sandwich_theorem_2d.png|Ham_sandwich_theorem_2d.png]] 
 the lines at 5° increments bisect their similarly colored region into two equal areas, 
 the black line denoting the common bisector of both regions. 
 

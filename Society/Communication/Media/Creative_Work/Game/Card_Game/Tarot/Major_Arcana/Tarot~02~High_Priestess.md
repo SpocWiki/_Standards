@@ -1,7 +1,7 @@
 
-# [[Tarot~02~High Priestess]] 
+# [[Tarot~02~High_Priestess]] 
 
-
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~02~High_Priestess.jpg]]
 ## #has_/text_of_/abstract 
 
 > The High Priestess (II) is the second Major Arcana card in cartomantic Tarot decks. 

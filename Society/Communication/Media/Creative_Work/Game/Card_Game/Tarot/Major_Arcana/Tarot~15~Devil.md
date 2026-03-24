@@ -1,6 +1,9 @@
 
 # [[Tarot~15~Devil]] 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~15~Devil.jpg]] 
+
+
 ## #has_/text_of_/abstract 
 
 > The Devil (XV) is the fifteenth trump or Major Arcana card 

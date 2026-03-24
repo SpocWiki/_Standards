@@ -645,6 +645,9 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Star) 
 
+## Stars in the Sky 
+
+#see [[Star~Constellation|Zodiac]] for the different Constellations. 
 
 ```leaflet
 id: leaflet-map
@@ -653,14 +656,26 @@ bounds:
     - [90, -361]
     - [-90, 271]
 height: 500px
-lat: 50
-long: 50
+lat: 00
+long: 0
 markerFolder: ./Star/
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 2
 unit: meters
 darkMode: false
 ```
 
+## Evolution of massive Stars 
+
+
+| Burning Stage    |  MSol | Time/d |        T/MK | Main Products                    |
+| ---------------- | ----: | -----: | ----------: | -------------------------------- |
+| Hydrogen burning | ≥0.08 | 360e10 |       10–15 | Helium-4                         |
+| Helium burning   |  ≥0.5 |  360e6 |     100–200 | Carbon-12, Oxygen-16             |
+| Carbon burning   |    ≥8 |  360e3 |     600–800 | Neon-20, Sodium-23, Magnesium-24 |
+| Neon burning     |    ≥9 |    360 |      ~1,200 | Oxygen-16, Magnesium-24          |
+| Oxygen burning   |   ≥10 |    180 | 1,500–2,200 | Silicon-28, Sulfur-32, others    |
+| Silicon burning  |   ≥11 |      2 | 2,700–3,500 | Iron-group nuclei => Supernova   |
 
 ## Confidential Links & Embeds: 
 

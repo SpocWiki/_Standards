@@ -1,6 +1,8 @@
 
 # [[Tarot~05~Hierophant]] 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~05~Hierophant.jpg]] 
+
 
 ## #has_/text_of_/abstract 
 

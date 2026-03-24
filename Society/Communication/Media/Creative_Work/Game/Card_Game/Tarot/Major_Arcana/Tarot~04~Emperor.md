@@ -1,6 +1,7 @@
 
 # [[Tarot~04~Emperor]] 
 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~04~Emperor.jpg]]
 
 ## #has_/text_of_/abstract 
 
