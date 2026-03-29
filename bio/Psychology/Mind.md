@@ -306,9 +306,10 @@ dv_has_:
 
 #is_/same_as :: [[../../WikiData/WD~Mind,450|WD~Mind,450]] 
 
+
 ## #has_/text_of_/abstract 
 
-> The **Mind** is that which thinks, feels, perceives, imagines, remembers, and wills. 
+> The **Mind** is that which thinks, feels, perceives, **imagines**, remembers, and wills. 
 > It covers the totality of mental phenomena, including both 
 > - conscious processes, through which an individual is aware of external and internal circumstances, and 
 > - unconscious processes, which can influence an individual without intention or awareness. 
@@ -345,11 +346,20 @@ dv_has_:
 > The topic of artificial minds poses similar challenges 
 > and theorists discuss the possibility and consequences of creating them using computers.
 >
-> The main fields of inquiry studying the mind include psychology, neuroscience, cognitive science, and philosophy of mind. 
+> The main fields of inquiry studying the mind include 
+> - psychology, 
+> - neuroscience, 
+> - cognitive science, and 
+> - philosophy of mind. 
+> 
 > They tend to focus on different aspects of the mind 
 > and employ different methods of investigation, ranging from empirical observation and neuroimaging to conceptual analysis and thought experiments. 
 > 
-> The mind is relevant to many other fields, including epistemology, anthropology, religion, and education.
+> The mind is relevant to many other fields, including 
+> - epistemology, 
+> - anthropology, 
+> - religion, and 
+> - education.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mind) 
 

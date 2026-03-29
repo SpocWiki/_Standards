@@ -301,10 +301,11 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> **Memory** is the faculty of the mind by which data or information is encoded, stored, 
-> and retrieved when needed. 
+> **Memory** is the faculty of the mind 
+> by which data or information is encoded, stored, and retrieved when needed. 
 > 
-> It is the retention of information over time for the purpose of influencing future action. 
+> It is the retention of information over time 
+> for the purpose of influencing future action. 
 > If past events could not be remembered, 
 > it would be impossible for language, relationships, or personal identity to develop. 
 > 
@@ -391,7 +392,10 @@ Exceptions are traumatic Experiences.
 
 Autobiographic, Associative 
 
-Episodic memory refers to information that is encoded along a spatial and temporal plane. 
+- information that is encoded along a spatial and temporal plane. 
+- It includes most modes: sight, smell, audio etc. 
+- different Episodes are aggregated similar to Browser Tabs 
+
 Declarative memory is usually the primary process thought of when referencing memory. 
 
 ### Semantic Memory 

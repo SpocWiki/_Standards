@@ -1,6 +1,7 @@
 
-The Node Package Manager 
+
 Pulls packages from https://npmjs.com  
+These packages can be run in [[node.js]], which also has a Command Line Interface. 
 
 #has_/creator :: [[Ryan_Dahl]] 
 
@@ -20,7 +21,7 @@ add a `debugger;` Statement where you want to start debugging.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm|npm]] 
+### #is_/same_as :: [[npm(Node_Package_Manager)|npm(Node_Package_Manager)]] 
 
 ### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm.public|npm.public]] 
 
