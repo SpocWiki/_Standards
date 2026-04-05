@@ -552,7 +552,7 @@ dv_Area-Land: 0
 dv_has_place_continent: '[[../../../../Oceania|Oceania]]'
 dv_VehicleCode: TL
 dv_Alcohol-l: 0.9
-dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 125.567
 dv_has_place_latitude: -8.56667
 dv_developed_developing_countries: Developing
