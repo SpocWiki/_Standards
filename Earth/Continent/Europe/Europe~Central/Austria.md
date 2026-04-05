@@ -413,7 +413,7 @@ dv_VehicleCode: A
 dv_Capital: "[[Austria/Austrias_States/Wien,State/Wien,City|Wien,City]]]"
 dv_Alcohol-l: 13.2
 dv_Language-Id: 497
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 14.381
 dv_has_place_latitude: 47.712
 dv_is_member_of: "[[../EU(European_Union)|EU]]"

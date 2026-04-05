@@ -448,7 +448,7 @@ dv_VehicleCode: F
 dv_Capital: "[[France/regions~France/Île-de-France/departments~Île-de-France/Paris|Paris]]"
 dv_Alcohol-l: 13.7
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 2.33663
 dv_has_place_latitude: 46.8944
 dv_is_same_as:

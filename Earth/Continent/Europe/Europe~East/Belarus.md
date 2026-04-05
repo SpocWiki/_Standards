@@ -394,7 +394,7 @@ dv_VehicleCode: BY
 dv_Capital: "[[Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County|Minsk,County]]"
 dv_Alcohol-l: 15.1
 dv_Language-Id: 469
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 27.57
 dv_has_place_latitude: 53.9
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Belarus

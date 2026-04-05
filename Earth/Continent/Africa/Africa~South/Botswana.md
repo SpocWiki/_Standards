@@ -780,7 +780,7 @@ dv_has_place_continent: "[[../../Africa|Africa]]"
 dv_VehicleCode: RB
 dv_Alcohol-l: 8
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 25.9167
 dv_has_place_latitude: -24.6333
 dv_is_:

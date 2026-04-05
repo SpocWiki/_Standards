@@ -854,7 +854,6 @@ Unicode_character: 🇱🇧
 # [[Lebanon]] 🇱🇧 
 
 
-
 ## [[Lebanon]] has Properties...
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
@@ -960,11 +959,30 @@ Capital = `=this.dv_Capital`
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 
-
-
  is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
+
+
+```leaflet
+id: Lebanon_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 7
+geojsonFolder: ./Lebanon//
+markerFolder: ./Lebanon/
+coordinates: [[Lebanon]] 
+markerFile: [[Lebanon]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 
 ## #has_/text_of_/abstract 

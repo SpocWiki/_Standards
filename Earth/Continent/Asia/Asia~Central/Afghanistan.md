@@ -398,7 +398,7 @@ dv_VehicleCode: AFG
 dv_Capital: "[[Afghanistan/Counties/Kabul/City/Kabul|Kabul]]"
 dv_Alcohol-l: 0
 dv_Language-Id: 455
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 69.2
 dv_has_place_latitude: 34.5
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Afghanistan

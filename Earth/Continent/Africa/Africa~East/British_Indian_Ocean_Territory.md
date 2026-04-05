@@ -78,7 +78,7 @@ dv_has_name_de: Britisches Territorium im indischen Ozean
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Africa|Africa]]"
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 71.5
 dv_has_place_latitude: -6
 dv_is_:

@@ -405,7 +405,7 @@ dv_VehicleCode: B
 dv_Capital: "[[Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité|Bruxelles,Cité]]"
 dv_Alcohol-l: 10.8
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 4.29368
 dv_has_place_latitude: 50.8165
 dv_is_same_as:

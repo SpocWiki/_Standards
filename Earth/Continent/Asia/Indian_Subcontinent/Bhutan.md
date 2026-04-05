@@ -357,7 +357,7 @@ dv_has_place_continent: "[[../../Asia|Asia]]"
 dv_VehicleCode: BHT
 dv_Capital: "[[Bhutan/Counties/Tongsa/City/Thimphu|Thimphu]]"
 dv_Alcohol-l: 0.6
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 90.435
 dv_has_place_latitude: 27.417
 dv_is_:

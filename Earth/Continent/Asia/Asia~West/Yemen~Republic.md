@@ -752,7 +752,6 @@ Unicode_character: 🇾🇪
 # [[Yemen~Republic]] 🇾🇪 
 
 
-
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 is_a = `=this.dv_is_a_`
@@ -778,6 +777,25 @@ maxZoom: 18
 minZoom: 3
 ```
 
+```leaflet
+id: Yemen~Republic_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 6
+geojsonFolder: ./Yemen~Republic//
+markerFolder: ./Yemen~Republic/
+coordinates: [[Yemen~Republic]] 
+markerFile: [[Yemen~Republic]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 has_name_en = `=this.dv_has_name_en`
 has_name_de = `=this.dv_has_name_de`
@@ -788,8 +806,6 @@ VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-
-
 
  is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`

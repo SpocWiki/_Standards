@@ -403,7 +403,7 @@ dv_has_place_continent: "[[../../Europe|Europe]]"
 dv_VehicleCode: BG
 dv_Capital: "[[./Bulgaria/Counties/Sofia|Sofia]]"
 dv_Alcohol-l: 12.4
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 25.3029
 dv_has_place_latitude: 42.9342
 dv_has_number_of_people: 6795803

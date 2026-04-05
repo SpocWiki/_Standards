@@ -14,7 +14,7 @@ type: Country
 dv_has_name_en: Serbia and Montenegro
 dv_has_name_de: Serbien-Montenegro
 dv_has_place_continent: "[[../../Europe|Europe]]"
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 20.4667
 dv_has_place_latitude: 44.8167
 dv_is_:

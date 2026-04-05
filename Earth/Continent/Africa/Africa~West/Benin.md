@@ -363,7 +363,7 @@ dv_VehicleCode: BJ
 dv_Capital: "[[Benin/Departements~Benin/Ouémé/counties~Ouémé/Porto-Novo|Porto-Novo]]"
 dv_Alcohol-l: 2.2
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 2.6
 dv_has_place_latitude: 6.46667
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Benin

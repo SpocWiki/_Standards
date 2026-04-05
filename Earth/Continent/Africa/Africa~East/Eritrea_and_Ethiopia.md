@@ -16,7 +16,7 @@ dv_has_name_de: Eritrea und Äthiopien
 dv_has_place_continent: "[[../../Africa|Africa]]"
 dv_Capital: "[[Addis_Abeba]]"
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 38.74
 dv_has_place_latitude: 9.03
 dv_is_:

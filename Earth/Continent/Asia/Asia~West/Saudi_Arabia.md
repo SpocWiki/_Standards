@@ -1031,7 +1031,6 @@ Unicode_character: 🇸🇦
 # [[Saudi_Arabia]] 🇸🇦 
 
 
-
 ## [[Saudi_Arabia]] has Properties...
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
@@ -1137,11 +1136,30 @@ Capital = `=this.dv_Capital`
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 
-
-
  is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
+
+
+```leaflet
+id: Saudi_Arabia_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 4
+geojsonFolder: ./Saudi_Arabia//
+markerFolder: ./Saudi_Arabia/
+coordinates: [[Saudi_Arabia]] 
+markerFile: [[Saudi_Arabia]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 
 ## #has_/text_of_/abstract 

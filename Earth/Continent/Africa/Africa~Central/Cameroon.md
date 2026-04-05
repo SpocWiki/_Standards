@@ -363,7 +363,7 @@ dv_VehicleCode: CAM
 dv_Capital: "[[Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910)|Duala_Buea_(after_1910)]]"
 dv_Alcohol-l: 7.6
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 10.6
 dv_has_place_latitude: 3.94
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Cameroon

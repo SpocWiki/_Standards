@@ -333,7 +333,7 @@ dv_has_place_continent: "[[../../Europe|Europe]]"
 dv_VehicleCode: BIH
 dv_Capital: "[[geo/Continent/Europe/Europe~South/Bosnia-Herzegovina/Counties/Sarajevo|Sarajevo]]"
 dv_Alcohol-l: 9.6
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 18.43
 dv_has_place_latitude: 43.87
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Bosnia_and_Herzegovina

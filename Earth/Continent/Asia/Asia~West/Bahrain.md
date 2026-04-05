@@ -360,7 +360,7 @@ dv_VehicleCode: BRN
 dv_Capital: "[[Bahrain/Counties/Al_Manāmah/City/Manama|Manama]]"
 dv_Alcohol-l: 3.7
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 50.58
 dv_has_place_latitude: 26.2
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Bahrain
@@ -788,7 +788,9 @@ M49_code: 48
 U_S_National_Archives_Identifier: 10046225
 ---
 
-# [[Bahrain]] 🇧🇭 has Properties...
+# [[Bahrain]] 🇧🇭 
+
+## has Properties...
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -894,11 +896,28 @@ Capital = `=this.dv_Capital`
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 
-
-
  is_a = `=this.dv_is_a_`
-has_place_longitude = `=this.dv_has_place_longitude`
-has_place_latitude = `=this.dv_has_place_latitude`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+
+```leaflet
+id: Bahrain_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 7
+geojsonFolder: ./Bahrain//
+markerFolder: ./Bahrain/
+coordinates: [[Bahrain]] 
+markerFile: [[Bahrain]] 
+unit: px
+scale: 1
+darkMode: false
+```
 
 
 ## #has_/text_of_/abstract 

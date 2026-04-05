@@ -364,7 +364,7 @@ dv_has_place_continent: "[[../../Africa|Africa]]"
 dv_VehicleCode: TD
 dv_Capital: "[[N'Djamena]]"
 dv_Alcohol-l: 4.4
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 16.0333
 dv_has_place_latitude: 12.1
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Chad

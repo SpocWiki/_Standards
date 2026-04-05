@@ -815,7 +815,7 @@ dv_has_place_continent: "[[../../Africa|Africa]]"
 dv_VehicleCode: ANG
 dv_Alcohol-l: 5.4
 dv_Language-Id: 467
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 13.23
 dv_has_place_latitude: -8.8
 dv_is_:

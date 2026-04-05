@@ -76,7 +76,7 @@ dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Africa|Africa]]"
 dv_Capital: "[[Mamoudzou]]"
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 45.2278
 dv_has_place_latitude: -12.7806
 dv_is_:

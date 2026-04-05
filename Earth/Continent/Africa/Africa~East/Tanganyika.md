@@ -14,7 +14,7 @@ dv_has_name_en: Tanganyika
 dv_has_name_de: Tanganjika
 dv_has_place_continent: "[[../../Africa|Africa]]"
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 34.854
 dv_has_place_latitude: -6.307
 dv_is_:

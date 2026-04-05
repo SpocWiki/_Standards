@@ -1063,7 +1063,9 @@ X_Twitter_username:
 Unicode_character: 🇮🇱
 ---
 
-# [[Israel]] 🇮🇱 has Properties...
+# [[Israel]] 🇮🇱 
+
+## has Properties...
 
 has_time_started = `=this.dv_has_time_started`
 
@@ -1171,11 +1173,30 @@ Capital = `=this.dv_Capital`
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 
-
-
  is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
+
+
+```leaflet
+id: Israel_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 7
+geojsonFolder: ./Israel//
+markerFolder: ./Israel/
+coordinates: [[Israel]] 
+markerFile: [[Israel]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 
 ## #has_/text_of_/abstract 

@@ -371,7 +371,7 @@ dv_has_place_continent: "[[../../Asia|Asia]]"
 dv_VehicleCode: K
 dv_Capital: "[[Phnom_Penh]]"
 dv_Alcohol-l: 4.8
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 104.917
 dv_has_place_latitude: 11.55
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Cambodia

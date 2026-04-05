@@ -431,7 +431,7 @@ dv_VehicleCode: CHN
 dv_Capital: "[[China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City|Beijing,City]]"
 dv_Alcohol-l: 5.9
 dv_Language-Id: 485
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 117.985
 dv_has_place_latitude: 35.6637
 dv_developed_developing_countries: Developing

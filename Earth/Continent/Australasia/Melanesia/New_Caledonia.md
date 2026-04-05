@@ -84,7 +84,7 @@ dv_Area-Land: 0
 dv_has_place_continent: "[[../Australia|Australia]]"
 dv_VehicleCode: NCL
 dv_Capital: "[[../New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa|Nouméa]]"
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 166.458
 dv_has_place_latitude: -22.2758
 dv_is_:

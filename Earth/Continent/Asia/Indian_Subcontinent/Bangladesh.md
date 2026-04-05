@@ -389,7 +389,7 @@ dv_VehicleCode: BD
 dv_Capital: "[[Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka|Dhaka]]"
 dv_Alcohol-l: 0.2
 dv_Language-Id: 468
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 90.36
 dv_has_place_latitude: 23.7
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Bangladesh

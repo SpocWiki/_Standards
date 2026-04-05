@@ -302,7 +302,7 @@ dv_VehicleCode: RCA
 dv_Capital: "[[Bangui]]"
 dv_Alcohol-l: 3.4
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 18.5833
 dv_has_place_latitude: 4.36667
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Central_African_Rep
