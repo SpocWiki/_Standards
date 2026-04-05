@@ -986,7 +986,7 @@ dv_has_place_continent: '[[Australia]]'
 dv_VehicleCode: NZ
 dv_Alcohol-l: 9.6
 dv_Language-Id: 499
-dv_is_a_: '[[../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 174.78
 dv_has_place_latitude: -41.28
 dv_developed_developing_countries: Developed
