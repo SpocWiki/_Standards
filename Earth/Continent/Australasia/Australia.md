@@ -1561,7 +1561,7 @@ dv_has_place_continent: Australia
 dv_VehicleCode: AUS
 dv_Alcohol-l: 10
 dv_Language-Id: 499
-dv_is_a_: "[[../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 149.027
 dv_has_place_latitude: -35.4776
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Australia-Australia

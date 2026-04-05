@@ -78,7 +78,7 @@ dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[South-America]]"
 dv_Language-Id: 499
-dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands|USA~Virgin-Islands]]"

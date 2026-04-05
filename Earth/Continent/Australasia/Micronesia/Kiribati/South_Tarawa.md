@@ -15,7 +15,7 @@ SpocWebEntityId: 36739
 tags:
   - geo/City
 type: City
-dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 172.9667
 dv_has_place_latitude: 1.4
 dv_has_name: South Tarawa

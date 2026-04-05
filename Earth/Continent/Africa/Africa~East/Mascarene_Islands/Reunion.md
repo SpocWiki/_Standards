@@ -23,7 +23,7 @@ dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../../Africa|Africa]]"
 dv_Capital: "[[Saint_Denis]]"
-dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 55.45
 dv_has_place_latitude: -20.8833
 dv_is_:
