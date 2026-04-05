@@ -379,7 +379,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: LV
 dv_Capital: '[[./Latvia/Counties/Riga|Riga]]'
 dv_Alcohol-l: 12.5
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 24.11
 dv_has_place_latitude: 56.95
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Latvia

@@ -309,7 +309,7 @@ dv_VehicleCode: YEM
 dv_Capital: '[[Yemen~Republic/City/Sana‘a|Sana‘a]] ]'
 dv_Alcohol-l: 0.2
 dv_Language-Id: 472
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 44.61
 dv_has_place_latitude: 14.06
 dv_is_same_as:

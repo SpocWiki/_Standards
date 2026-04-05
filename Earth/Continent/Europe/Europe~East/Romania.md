@@ -387,7 +387,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: RO
 dv_Capital: '[[Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest|Bukarest]]'
 dv_Alcohol-l: 15.3
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 24.9906
 dv_has_place_latitude: 46.2258
 dv_developed_developing_countries: Developed

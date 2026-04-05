@@ -360,7 +360,7 @@ dv_VehicleCode: EAU
 dv_Capital: '[[Uganda/regions~Uganda/Uganda~Central/Kampala|Kampala]]'
 dv_Alcohol-l: 11.9
 dv_Language-Id: 499
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 32.5811
 dv_has_place_latitude: 0.313611
 dv_developed_developing_countries: Developing

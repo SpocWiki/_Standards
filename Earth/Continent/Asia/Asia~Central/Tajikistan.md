@@ -363,7 +363,7 @@ dv_VehicleCode: TJ
 dv_Capital: '[[Tajikistan/Counties/Dushanbe/City/Dushanbe|Dushanbe]]'
 dv_Alcohol-l: 3.4
 dv_Language-Id: 469
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 68.8
 dv_has_place_latitude: 38.55
 dv_developed_developing_countries: Developing

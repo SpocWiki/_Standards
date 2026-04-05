@@ -815,7 +815,7 @@ dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: MOC
 dv_Alcohol-l: 2.4
 dv_Language-Id: 467
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 33.7917
 dv_has_place_latitude: -22.1
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Mozambique

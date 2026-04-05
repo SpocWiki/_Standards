@@ -486,7 +486,7 @@ dv_Area-Land: 160
 dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: FL
 dv_Language-Id: 497
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 9.529
 dv_has_place_latitude: 47.158
 dv_is_:

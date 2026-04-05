@@ -615,7 +615,7 @@ dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: AZ
 dv_Capital: '[[Azerbaijan/Counties/Bakı/City/Baku|Baku]]'
 dv_Alcohol-l: 10.6
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 49.83
 dv_has_place_latitude: 40.42
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Azerbaijan

@@ -516,7 +516,7 @@ dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: MYR
 dv_Capital: '[[Naypyidaw]]'
 dv_Alcohol-l: 0.6
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 96.135
 dv_has_place_latitude: 18.265
 dv_developed_developing_countries: Developing

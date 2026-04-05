@@ -54,7 +54,7 @@ dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: '[[../../Oceania|Oceania]]'
 dv_Capital: '[[Guam/Villages~Guam/Hagåtña|Hagåtña]]'
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 144.75
 dv_has_place_latitude: 13.4792
 dv_developed_developing_countries: Developing

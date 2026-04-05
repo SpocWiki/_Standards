@@ -299,7 +299,7 @@ dv_VehicleCode: SOL
 dv_Capital: '[[Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara|Honiara]]'
 dv_Alcohol-l: 1.7
 dv_Language-Id: 499
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 159.817
 dv_has_place_latitude: -9.46667
 dv_developed_developing_countries: Developing

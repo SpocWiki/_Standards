@@ -68,7 +68,7 @@ dv_VehicleCode: PAL
 dv_Capital: '[[Palau/States~Palau/Melekeok|Melekeok]]'
 dv_Alcohol-l: 10.1
 dv_Language-Id: 499
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 134.467
 dv_has_place_latitude: 7.35
 dv_concept-republicofpalau: 62yw5"

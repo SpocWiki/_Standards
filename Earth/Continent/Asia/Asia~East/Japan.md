@@ -622,7 +622,7 @@ dv_VehicleCode: J
 dv_Capital: '[[Japan/Counties/Tokyo/City/Tokio|Tokio]]'
 dv_Alcohol-l: 8
 dv_Language-Id: 466
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 137.199
 dv_has_place_latitude: 36.8617
 dv_is_:

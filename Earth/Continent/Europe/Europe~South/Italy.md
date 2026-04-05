@@ -440,7 +440,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: I
 dv_Capital: '[[Italy/Counties/Lazio/Roma/City/Roma|Roma]]'
 dv_Alcohol-l: 10.7
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 11.8169
 dv_has_place_latitude: 43.4809
 dv_is_same_as:

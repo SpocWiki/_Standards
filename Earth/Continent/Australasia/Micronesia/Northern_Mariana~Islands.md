@@ -212,7 +212,7 @@ dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: '[[../../Oceania|Oceania]]'
 dv_Capital: '[[Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan|Saipan]]'
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 145.75
 dv_has_place_latitude: 15.1833
 dv_is_:

@@ -382,7 +382,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: AND
 dv_Capital: '[[Andorra]]'
 dv_Alcohol-l: 15.5
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 1.51333
 dv_has_place_latitude: 42.5167
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Andorra

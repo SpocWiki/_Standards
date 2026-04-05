@@ -351,7 +351,7 @@ dv_VehicleCode: CL
 dv_Capital: '[[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte|Sri_Jayawardenapura-Kotte]]'
 dv_Alcohol-l: 0.8
 dv_Language-Id: 458
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 80.425
 dv_has_place_latitude: 6.86
 dv_developed_developing_countries: Developing

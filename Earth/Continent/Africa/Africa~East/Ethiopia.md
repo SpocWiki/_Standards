@@ -384,7 +384,7 @@ dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: ETH
 dv_Capital: '[[Addis_Abeba]]'
 dv_Alcohol-l: 4
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 38.7
 dv_has_place_latitude: 9.05
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Ethiopia

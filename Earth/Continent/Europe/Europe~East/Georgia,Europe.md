@@ -337,7 +337,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: GEO
 dv_Capital: '[[Georgia,Europe/Regions~Georgia/Tbilisi|Tbilisi]]]'
 dv_Alcohol-l: 6.4
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 44.7833
 dv_has_place_latitude: 41.7167
 dv_is_same_as:

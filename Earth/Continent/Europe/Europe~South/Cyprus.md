@@ -374,7 +374,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: CY
 dv_Capital: '[[Cyprus/districts~Cyprus/Nicosia|Nicosia]]'
 dv_Alcohol-l: 9.3
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 33.4667
 dv_has_place_latitude: 35.1333
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Cyprus

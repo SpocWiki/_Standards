@@ -357,7 +357,7 @@ dv_VehicleCode: TM
 dv_Capital: '[[Turkmenistan/Counties/Ahal/City/Ashgabat|Ashgabat]]'
 dv_Alcohol-l: 4.6
 dv_Language-Id: 469
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 58.3333
 dv_has_place_latitude: 37.9667
 dv_developed_developing_countries: Developing

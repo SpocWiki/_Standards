@@ -368,7 +368,7 @@ dv_VehicleCode: TN
 dv_Capital: '[[Tunisia/governorates~Tunisia/Tunis|Tunis]]'
 dv_Alcohol-l: 1.3
 dv_Language-Id: 472
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 10.18
 dv_has_place_latitude: 36.8
 dv_concept-republicoftunisia: f4688"

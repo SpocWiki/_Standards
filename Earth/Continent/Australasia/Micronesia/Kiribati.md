@@ -69,7 +69,7 @@ dv_VehicleCode: KIR
 dv_Capital: '[[Kiribati/South_Tarawa|South_Tarawa]]'
 dv_Alcohol-l: 3.7
 dv_Language-Id: 499
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 172.967
 dv_has_place_latitude: 1.4
 dv_developed_developing_countries: Developing

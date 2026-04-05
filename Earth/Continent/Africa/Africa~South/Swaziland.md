@@ -661,7 +661,7 @@ dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: SD
 dv_Alcohol-l: 5.7
 dv_Language-Id: 499
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 31.1333
 dv_has_place_latitude: -26.3167
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Swaziland

@@ -421,7 +421,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: N
 dv_Capital: '[[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo|Oslo]]'
 dv_Alcohol-l: 7.8
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 11.4588
 dv_has_place_latitude: 61.8685
 dv_is_same_as:

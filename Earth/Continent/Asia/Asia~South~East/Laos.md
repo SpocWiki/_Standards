@@ -368,7 +368,7 @@ dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: LAO
 dv_Capital: '[[Laos/Counties/Vientiane|Vientiane]]'
 dv_Alcohol-l: 6.7
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 102.6
 dv_has_place_latitude: 17.9667
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Laos

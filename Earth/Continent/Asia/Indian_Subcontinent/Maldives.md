@@ -340,7 +340,7 @@ dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: MV
 dv_Capital: '[[Maldives/Counties/Malé/City/Malé|Malé]]'
 dv_Alcohol-l: 0.8
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 73.5
 dv_has_place_latitude: 4.16667
 dv_developed_developing_countries: Developing

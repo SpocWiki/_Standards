@@ -387,7 +387,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: SRB
 dv_Capital: '[[Serbia/districts~Serbia/Beograd|Beograd]]'
 dv_Alcohol-l: 11.1
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 20.48
 dv_has_place_latitude: 44.82
 dv_developed_developing_countries: Developed

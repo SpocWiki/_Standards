@@ -827,7 +827,7 @@ dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: RCB
 dv_Alcohol-l: 4.2
 dv_Language-Id: 496
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 15.2833
 dv_has_place_latitude: -4.26667
 dv_is_same_as:

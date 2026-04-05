@@ -358,7 +358,7 @@ dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: NEP
 dv_Capital: '[[Nepal/Counties/Bagmati/City/Kathmandu|Kathmandu]]'
 dv_Alcohol-l: 2.4
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 85.3167
 dv_has_place_latitude: 27.7
 dv_developed_developing_countries: Developing

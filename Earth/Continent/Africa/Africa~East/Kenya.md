@@ -380,7 +380,7 @@ dv_VehicleCode: EAK
 dv_Capital: '[[Kenya/Counties/Nairobi.County|Nairobi.County]]'
 dv_Alcohol-l: 4.1
 dv_Language-Id: 499
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 36.83
 dv_has_place_latitude: -1.28
 dv_developed_developing_countries: Developing

@@ -386,7 +386,7 @@ dv_VehicleCode: L
 dv_Capital: '[[geo/Continent/Europe/Europe~West/Luxembourg|Luxembourg]]'
 dv_Alcohol-l: 13
 dv_Language-Id: 496
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 6.07904
 dv_has_place_latitude: 49.6827
 dv_developed_developing_countries: Developed

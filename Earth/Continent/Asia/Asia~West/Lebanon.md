@@ -372,7 +372,7 @@ dv_VehicleCode: RL
 dv_Capital: '[[Lebanon/Counties/Beirut/City/Beirut|Beirut]]'
 dv_Alcohol-l: 2.2
 dv_Language-Id: 472
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 35.5
 dv_has_place_latitude: 33.87
 dv_developed_developing_countries: Developing

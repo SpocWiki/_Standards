@@ -312,7 +312,7 @@ dv_Area-Land: 0
 dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: YU
 dv_Capital: '[[Serbia/districts~Serbia/Beograd|Beograd]]]'
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 17.6905
 dv_has_place_latitude: 43.9957
 dv_has_time_started: 1918-12-01

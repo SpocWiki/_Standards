@@ -451,7 +451,7 @@ dv_VehicleCode: TR
 dv_Capital: '[[Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province|Istanbul,Province]]'
 dv_Alcohol-l: 2.9
 dv_Language-Id: 456
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 32.37
 dv_has_place_latitude: 39.3233
 dv_developed_developing_countries: Developing

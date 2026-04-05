@@ -358,7 +358,7 @@ dv_has_place_continent: '[Africa](../../Africa)'
 dv_VehicleCode: SO
 dv_Capital: '[Mogadishu](Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu)'
 dv_Alcohol-l: 0.5
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 45.33
 dv_has_place_latitude: 2.02
 dv_developed_developing_countries: Developing

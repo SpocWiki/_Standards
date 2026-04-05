@@ -221,7 +221,7 @@ age_of_majority: 18
 anthem: '[[_Standards/WikiData/WD~national_anthem_of_Germany,4122341|WD~national_anthem_of_Germany,4122341]]'
 archives_at: '[[_Standards/WikiData/WD~German_Federal_Archives,685753|WD~German_Federal_Archives,685753]]'
 area: 357587.77
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 10.1207
 dv_has_place_latitude: 50.8699
 dv_has_:

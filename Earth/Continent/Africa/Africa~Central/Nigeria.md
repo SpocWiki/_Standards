@@ -384,7 +384,7 @@ dv_VehicleCode: NGR
 dv_Capital: '[[Abuja]]'
 dv_Alcohol-l: 12.3
 dv_Language-Id: 499
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 6.46778
 dv_has_place_latitude: 9.17222
 dv_developed_developing_countries: Developing

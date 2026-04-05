@@ -418,7 +418,7 @@ dv_VehicleCode: UA
 dv_Capital: '[[Ukraine/Regions~Ukraine/Kiev,City|Kiev,City]]'
 dv_Alcohol-l: 15.6
 dv_Language-Id: 469
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 30.5
 dv_has_place_latitude: 50.45
 dv_developed_developing_countries: Developed

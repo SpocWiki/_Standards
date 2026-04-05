@@ -336,7 +336,7 @@ dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: RC
 dv_Capital: '[[Taiwan/Counties/Taipei_City/City/Taipei|Taipei]]'
 dv_Language-Id: 485
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 121.55
 dv_has_place_latitude: 25.08
 dv_is_same_as:

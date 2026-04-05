@@ -1,5 +1,5 @@
 ---
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 17.6996
 dv_has_place_latitude: 52.0027
 dv_has_name: Poland

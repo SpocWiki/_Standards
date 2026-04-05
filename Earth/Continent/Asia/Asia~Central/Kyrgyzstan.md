@@ -367,7 +367,7 @@ dv_VehicleCode: KS
 dv_Capital: '[[Kyrgyzstan/Counties/Bishkek/City/Bishkek|Bishkek]]'
 dv_Alcohol-l: 5.1
 dv_Language-Id: 469
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 74.6
 dv_has_place_latitude: 42.8667
 dv_developed_developing_countries: Developing

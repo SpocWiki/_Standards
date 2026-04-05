@@ -340,7 +340,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: CZ
 dv_Capital: '[[Czech_Republic/regions~Czech_Republic/Prague/City/Praha|Praha]]'
 dv_Alcohol-l: 16.5
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 15.8734
 dv_has_place_latitude: 49.7633
 dv_is_same_as:

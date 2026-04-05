@@ -551,7 +551,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: SK
 dv_Capital: '[[Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava|Bratislava]]'
 dv_Alcohol-l: 13.3
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 17.1
 dv_has_place_latitude: 48.13
 dv_developed_developing_countries: Developed

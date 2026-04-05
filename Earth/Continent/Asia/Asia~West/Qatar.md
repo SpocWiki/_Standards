@@ -357,7 +357,7 @@ dv_VehicleCode: Q
 dv_Capital: '[[Qatar/Counties/Ad_Dawhah/City/Doha|Doha]]'
 dv_Alcohol-l: 1.3
 dv_Language-Id: 472
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 51.53
 dv_has_place_latitude: 25.28
 dv_developed_developing_countries: Developing

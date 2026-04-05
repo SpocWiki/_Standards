@@ -366,7 +366,7 @@ dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: MGL
 dv_Capital: '[[Mongolia/Counties/Ulaanbaatar/City/Ulan_Bator|Ulan_Bator]]'
 dv_Alcohol-l: 3.2
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 106.883
 dv_has_place_latitude: 47.9167
 dv_developed_developing_countries: Developing

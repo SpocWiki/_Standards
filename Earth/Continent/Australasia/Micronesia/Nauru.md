@@ -375,7 +375,7 @@ dv_has_place_continent: '[[../../Oceania|Oceania]]'
 dv_VehicleCode: NAU
 dv_Alcohol-l: 4.8
 dv_Language-Id: 499
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 166.921
 dv_has_place_latitude: -0.547778
 dv_developed_developing_countries: Developing

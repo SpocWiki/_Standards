@@ -69,7 +69,7 @@ dv_has_place_continent: '[[../../Oceania|Oceania]]'
 dv_VehicleCode: MH
 dv_Capital: '[[Marshall_Islands/Counties/Ratak_Chain/Majuro|Majuro]]'
 dv_Language-Id: 499
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 168.348
 dv_has_place_latitude: 9.34833
 dv_developed_developing_countries: Developing

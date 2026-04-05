@@ -399,7 +399,7 @@ dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: IL
 dv_Capital: '[[Israel/Counties/Jerusalem|Jerusalem]]'
 dv_Alcohol-l: 2.9
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 35
 dv_has_place_latitude: 32.23
 dv_has_time_started: 1948-05-14

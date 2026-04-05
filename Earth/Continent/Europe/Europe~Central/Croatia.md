@@ -390,7 +390,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: HR
 dv_Capital: '[[Croatia/Counties/Grad_Zagreb/City/Zagreb|Zagreb]]'
 dv_Alcohol-l: 15.1
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 15.97
 dv_has_place_latitude: 45.8
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Croatia

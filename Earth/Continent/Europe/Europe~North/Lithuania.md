@@ -390,7 +390,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: LT
 dv_Capital: '[[Lithuania/Counties~Lithuania/Vilniaus/City/Vilnius|Vilnius]]'
 dv_Alcohol-l: 15
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 25.3167
 dv_has_place_latitude: 54.6833
 dv_developed_developing_countries: Developed

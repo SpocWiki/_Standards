@@ -768,7 +768,7 @@ dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: G
 dv_Alcohol-l: 9.3
 dv_Language-Id: 496
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 9.45
 dv_has_place_latitude: 0.383333
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Gabon

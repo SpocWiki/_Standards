@@ -1117,7 +1117,7 @@ dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: CGO
 dv_Alcohol-l: 3.3
 dv_Language-Id: 496
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 15.3
 dv_has_place_latitude: -4.3
 dv_is_same_as:

@@ -382,7 +382,7 @@ dv_VehicleCode: IRQ
 dv_Capital: '[[Iraq/Counties/Baghdad/City/Baghdad|Baghdad]]'
 dv_Alcohol-l: 0.4
 dv_Language-Id: 472
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 44.42
 dv_has_place_latitude: 33.34
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Iraq

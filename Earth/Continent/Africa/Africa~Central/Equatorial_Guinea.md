@@ -341,7 +341,7 @@ dv_VehicleCode: EQ
 dv_Capital: '[[Malabo]]'
 dv_Alcohol-l: 6.1
 dv_Language-Id: 492
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 8.78333
 dv_has_place_latitude: 3.75
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Equatorial_Guinea

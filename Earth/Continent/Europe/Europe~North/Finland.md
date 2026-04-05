@@ -440,7 +440,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: FIN
 dv_Capital: '[[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Helsingfors|Helsingfors]]'
 dv_Alcohol-l: 12.5
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 25.4668
 dv_has_place_latitude: 62.3173
 dv_is_member_of:

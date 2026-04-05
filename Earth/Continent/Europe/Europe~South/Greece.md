@@ -406,7 +406,7 @@ dv_VehicleCode: GR
 dv_Capital: '[[Greece/Regions-Greek/Attica/cities~Attica/Athens|Athens]]'
 dv_Alcohol-l: 10.8
 dv_Language-Id: 491
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 23.0356
 dv_has_place_latitude: 38.6175
 dv_developed_developing_countries: Developed

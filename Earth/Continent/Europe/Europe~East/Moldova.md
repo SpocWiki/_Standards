@@ -377,7 +377,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: MD
 dv_Capital: '[[Moldova/Districts~Moldova/Chişinău/City/Chisinau|Chisinau]]'
 dv_Alcohol-l: 18.2
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 28.9167
 dv_has_place_latitude: 47
 dv_developed_developing_countries: Developed

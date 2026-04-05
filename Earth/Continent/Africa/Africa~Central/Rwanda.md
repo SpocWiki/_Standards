@@ -720,7 +720,7 @@ dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: RWA
 dv_Alcohol-l: 9.8
 dv_Language-Id: 499
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 30.0595
 dv_has_place_latitude: -1.94388
 dv_developed_developing_countries: Developing

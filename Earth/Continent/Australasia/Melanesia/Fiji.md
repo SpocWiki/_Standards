@@ -440,7 +440,7 @@ dv_has_place_continent: '[[../../Oceania|Oceania]]'
 dv_VehicleCode: FJI
 dv_Alcohol-l: 2.4
 dv_Language-Id: 499
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 178.45
 dv_has_place_latitude: -18.1667
 dv_is_:

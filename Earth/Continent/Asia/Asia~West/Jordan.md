@@ -364,7 +364,7 @@ dv_VehicleCode: JOR
 dv_Capital: '[[Jordan/Counties/Amman/City/Amman|Amman]]'
 dv_Alcohol-l: 0.7
 dv_Language-Id: 472
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 35.93
 dv_has_place_latitude: 31.95
 dv_developed_developing_countries: Developing

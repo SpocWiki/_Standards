@@ -723,7 +723,7 @@ dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: MW
 dv_Alcohol-l: 1.7
 dv_Language-Id: 499
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 33.7
 dv_has_place_latitude: -13.95
 dv_developed_developing_countries: Developing

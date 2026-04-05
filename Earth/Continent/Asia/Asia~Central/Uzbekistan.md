@@ -364,7 +364,7 @@ dv_VehicleCode: UZ
 dv_Capital: '[[Uzbekistan/Counties/Tashkent/City/Taschkent|Taschkent]]'
 dv_Alcohol-l: 3.5
 dv_Language-Id: 469
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 69.3
 dv_has_place_latitude: 41.33
 dv_developed_developing_countries: Developing

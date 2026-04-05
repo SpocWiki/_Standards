@@ -355,7 +355,7 @@ dv_VehicleCode: RN
 dv_Capital: '[[Niger/Regions~Niger/Niamey|Niamey]]'
 dv_Alcohol-l: 0.3
 dv_Language-Id: 496
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 2.08333
 dv_has_place_latitude: 13.5333
 dv_developed_developing_countries: Developing

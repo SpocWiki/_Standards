@@ -491,7 +491,7 @@ dv_VehicleCode: RM
 dv_Capital: '[[Antananarivo]]'
 dv_Alcohol-l: 1.3
 dv_Language-Id: 496
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 47.5083
 dv_has_place_latitude: -18.8933
 dv_developed_developing_countries: Developing

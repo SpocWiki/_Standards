@@ -389,7 +389,7 @@ dv_VehicleCode: KSA
 dv_Capital: '[[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad|Riyadh=Er_Riad]]'
 dv_Alcohol-l: 0.3
 dv_Language-Id: 472
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 43.27
 dv_has_place_latitude: 23.05
 dv_developed_developing_countries: Developing

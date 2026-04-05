@@ -1149,7 +1149,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: E
 dv_Alcohol-l: 11.6
 dv_Language-Id: 492
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: -2.86673
 dv_has_place_latitude: 40.0911
 dv_is_same_as:

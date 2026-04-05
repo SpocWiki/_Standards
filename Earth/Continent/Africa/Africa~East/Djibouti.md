@@ -341,7 +341,7 @@ dv_VehicleCode: DJI
 dv_Capital: '[[Djibouti]]'
 dv_Alcohol-l: 1.9
 dv_Language-Id: 472
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 43.1667
 dv_has_place_latitude: 11.6
 dv_is_:

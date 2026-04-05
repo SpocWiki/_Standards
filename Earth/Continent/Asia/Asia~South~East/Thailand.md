@@ -386,7 +386,7 @@ dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: T
 dv_Capital: '[[Bangkok]]'
 dv_Alcohol-l: 7.1
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 100.5
 dv_has_place_latitude: 13.73
 dv_developed_developing_countries: Developing

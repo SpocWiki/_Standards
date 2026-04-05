@@ -21,7 +21,7 @@ dv_VehicleCode: FSM
 dv_Capital: '[[Micronesia~Fed._States/States~Micronesia/Pohnpei/City/Palikir|Palikir]]'
 dv_Alcohol-l: 5.5
 dv_Language-Id: 499
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 158.15
 dv_has_place_latitude: 6.91667
 dv_concept-federatedstatesofmicronesia: 6yt84"

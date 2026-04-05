@@ -395,7 +395,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: EST
 dv_Capital: '[[Estonia/Counties~Estonia/Harju/City/Tallinn|Tallinn]]'
 dv_Alcohol-l: 15.6
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 24.75
 dv_has_place_latitude: 59.4167
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Estonia

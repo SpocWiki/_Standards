@@ -384,7 +384,7 @@ dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: PK
 dv_Capital: '[[Pakistan/Counties/F.C.T/City/Islamabad|Islamabad]]'
 dv_Alcohol-l: 0.1
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 70.1033
 dv_has_place_latitude: 29.2633
 dv_concept-islamicrepublicofpakistan: gcd4v"

@@ -377,7 +377,7 @@ dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: SLO
 dv_Capital: '[[Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana,City|Ljubliana,City]]'
 dv_Alcohol-l: 15.2
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 14.52
 dv_has_place_latitude: 46.05
 dv_developed_developing_countries: Developed

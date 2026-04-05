@@ -344,7 +344,7 @@ dv_VehicleCode: TG
 dv_Capital: '[[Lomé]]'
 dv_Alcohol-l: 2
 dv_Language-Id: 496
-dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 1.21667
 dv_has_place_latitude: 6.11667
 dv_developed_developing_countries: Developing
