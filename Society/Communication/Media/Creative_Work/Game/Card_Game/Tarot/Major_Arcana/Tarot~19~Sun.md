@@ -1,6 +1,18 @@
+---
+aliases:
+  - 
+has_id_wikidata: Q590761
+Unicode_character: 🃳
+part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357]]"
+different_from: "[[_Standards/WikiData/WD~La_suno_brilas,132254794]]"
+instance_of: "[[_Standards/WikiData/WD~playing_card,47883]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/T19%20Tarot.png
+Commons_category: Sun (Major Arcana)
+---
 
-# [[Tarot~19~Sun]] 
+# [[Tarot~19~Sun]] 🃳 
 
+#is_/same_as :: [[WD~The_Sun_(tarot_card),590761]] 
 #has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~19~Sun.jpg]] 
 
 

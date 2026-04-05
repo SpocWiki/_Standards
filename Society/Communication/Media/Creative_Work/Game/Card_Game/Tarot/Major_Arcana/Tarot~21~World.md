@@ -1,6 +1,17 @@
+---
+aliases:
+  - Welt
+has_id_wikidata: Q2502635
+Unicode_character: 🃵
+part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357]]"
+instance_of: "[[_Standards/WikiData/WD~playing_card,47883]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/1JJ%20Tarot%20-%20Trump%2021%20-%20French%20-%20Le%20Monde.jpg
+Commons_category: The World (Major Arcana)
+---
 
-# [[Tarot~21~World]] 
+# [[Tarot~21~World]] 🃵
 
+#is_/same_as :: [[WD~The_World_(tarot_card),2502635]] 
 #has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~21~World.jpg]] 
 
 

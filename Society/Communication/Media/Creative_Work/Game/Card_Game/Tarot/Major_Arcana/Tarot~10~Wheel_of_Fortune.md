@@ -1,6 +1,17 @@
+---
+aliases:
+  - 
+has_id_wikidata: Q542302
+Unicode_character: 🃪
+part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357]]"
+instance_of: "[[_Standards/WikiData/WD~playing_card,47883]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Visconti-sforza-10-fortune.jpg
+Commons_category: Wheel of Fortune (Major Arcana)
+---
 
-# [[Tarot~10~Wheel_of_Fortune]] 
+# [[Tarot~10~Wheel_of_Fortune]] 🃪 
 
+#is_/same_as :: [[WD~Wheel_of_Fortune_(tarot_card),542302]] 
 #has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~10~Wheel_of_Fortune.jpg]] 
 
 

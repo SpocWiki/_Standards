@@ -196,13 +196,23 @@ dv_has_:
 > and enables mass flow of mineral nutrients. 
 > 
 > When water uptake by the roots is 
-> less than the water lost to the atmosphere by evaporation, 
+> **less than water lost** to the atmosphere by evaporation, 
 > plants close small pores called [[Transpiration/Stomata|Stomata]] to decrease water loss, 
 > which slows down nutrient uptake and decreases CO2 absorption from the atmosphere 
 > limiting metabolic processes, photosynthesis, and growth.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Transpiration) 
 
+
+Increased salinity also reduces evaporation 
+by reducing the Pressure proportionally to the water concentration c: 
+
+Raoult Law: p= $c_{\mathrm{H²O}} \cdot p^0$ 
+
+Saturated Water contains ca. 25% NaCl 
+which reduces the Pressure by 25% in **dry Air**. 
+In **humid air of 75%** both pressures are the same, 
+so no more cooling takes place. 
 
 ## Confidential Links & Embeds: 
 

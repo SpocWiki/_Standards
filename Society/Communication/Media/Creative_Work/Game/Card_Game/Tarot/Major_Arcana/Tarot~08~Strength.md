@@ -2,12 +2,18 @@
 aliases:
   - Fortitude
   - Lust
+has_id_wikidata: Q2502672
+Unicode_character: 🃫
+part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357]]"
+instance_of: "[[_Standards/WikiData/WD~playing_card,47883]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/1JJ%20Tarot%20-%20Trump%2011%20-%20French%20-%20La%20Force.jpg
+Commons_category: Strength (Major Arcana)
 ---
 
-# [[Tarot~08~Strength]] 
+# [[Tarot~08~Strength]] 🃫 
 
+#is_/same_as :: [[WD~Strength_(tarot_card),2502672]] 
 #is_/similar_to :: [[Tarot~11~Justice]] 
-
 #has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~08~Strength.jpg]] 
 
 
