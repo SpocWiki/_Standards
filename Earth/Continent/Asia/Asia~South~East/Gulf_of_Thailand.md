@@ -285,6 +285,28 @@ markerFile: [[Gulf_of_Thailand]]
 defaultZoom: 5 
 ```
 
+### #has_/map_/topologic 
+
+```leaflet
+id: Gulf_of_Thailand_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Gulf_of_Thailand//
+markerFolder: ./Gulf_of_Thailand/
+coordinates: [[Gulf_of_Thailand]] 
+markerFile: [[Gulf_of_Thailand]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 ## #has_/text_of_/abstract 
 
 > The Gulf of Thailand (Thai: อ่าวไทย), historically known as the Gulf of Siam (Thai: อ่าวสยาม), 
