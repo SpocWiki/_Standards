@@ -671,7 +671,9 @@ dv_has_:
 Unicode_character: 🇵🇼
 ---
 
-# [[Palau]] 🇵🇼 has Properties... 
+# [[Palau]] 🇵🇼
+## #has_/properties 
+
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 

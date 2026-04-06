@@ -1,428 +1,439 @@
 ---
 aliases:
-- A' Phortagail
-- an Phortaingéil
-- Bortuqaal
-- Brtqqiz
-- Buzdauzyaz
-- Buò-dò̤-ngà
-- Bồ Đào Nha
-- Dziil Binaashkǫ́ǫłii Bikéyah
-- IPhothugali
-- IPhuthukezi
-- la República Portuguesa
-- ma Potuke
-- Mputulukesi
-- Pertual
-- Phochugali
-- Photshugo
-- Phù-thò-ngà
-- Phû-tô-gâ
-- Poorchugaal
-- Porchugal
-- Portegal
-- Portekiz
-- Porthugallu
-- Portiwgal
-- Portogall
-- Portogallia
-- Portogallo
-- Portogało
-- Portogàllo
-- Portokal
-- Portokeesi
-- Portsiugar
-- Portugaal
-- Portugal
-- Portugala
-- Portugaleja
-- Portugali
-- Portugalia
-- Portugalii
-- Portugalija
-- Portugalijo
-- Portugalio
-- Portugaliya
-- Portugaliye
-- Portugaliýa
-- Portugall
-- Portugallia
-- Portugallu
-- Portugalska
-- Portugalsko
-- Portugesokondre
-- Portugis
-- Portugál
-- Portugália
-- Portugän
-- Portugéh
-- Portugāl
-- Portugāle
-- Portuhal
-- Portuqaliya
-- Portuqaliyə
-- Portyngal
-- Portúgal
-- Portûgal
-- Portûnga
-- Porutigali
-- Posugol
-- Potidjal
-- Potugala
-- Potugat
-- Potukali
-- Potukara
-- potygu'e
-- Poytuga
-- Pulutugal
-- Puortogalėjė
-- Puotigal
-- Purtuallo
-- Purtugal
-- Purtugalle
-- Purtugàl
-- Purtuwal
-- Purutchugalaq
-- Pårtugaal
-- Pòrtugalskô
-- Pòtigal
-- Pôrtogaly
-- Pōtītī
-- Pɔritigaalɩ
-- Pọtugalu
-- Pọ́rtúgàl
-- the Portuguese Republic
-- Ureno
-- y Phortiugal
-- Πορτογαλία
-- Партугалія
-- Портогалїꙗ
-- Португал
-- Португалія
-- Португали
-- Португалија
-- Португалиа
-- Португалие
-- Португалий
-- Португалия
-- Португалия Мастор
-- Португишин Орн
-- Портуґалія
-- Պորտուգալիա
-- Փորթուկալ
-- פארטוגאל
-- פורטוגל
-- البرتغال
-- البرتڨال
-- الپرتڨال
-- برطقيز
-- پؤرتۊغال
-- پرتغال
-- پرتګال
-- پرتگال
-- پورتوجال
-- پورتوقال
-- پورتوگال
-- پُرتَگال
-- ڤورتوݢل
-- ܦܘܪܛܘܓܠ
-- ޕޯޗުގަލް
-- ߔߐ߬ߙߑߕߐ߬ߜ߭ߊߟߌ߫
-- पुर्तगाल
-- पोर्चुगल
-- पोर्तुगाल
-- পর্তুগাল
-- পৰ্তুগাল
-- ਪੁਰਤਗਾਲ
-- પોર્ટુગલ
-- ପର୍ତ୍ତୁଗାଲ
-- போர்த்துகல்
-- పోర్చుగల్
-- ಪೋರ್ಚುಗಲ್
-- പോർച്ചുഗൽ
-- පෘතුගාලය
-- ประเทศโปรตุเกส
-- ປະເທດປອກຕຸຍການ
-- པོ་ཅུ་གྷལ།
-- པོར་ཅུ་གལ་
-- ပေါ်တူဂီနိုင်ငံ
-- မိူင်းပေႃးတူႉၵၢဝ်ႇ
-- პორტუგალია
-- ፖርቱጋል
-- ᏉᏧᎦᎵ
-- ប្រទេស ព័រទុយហ្គាល់
-- ᱯᱳᱨᱛᱩᱜᱟᱞ
-- ⴱⵔⵜⵇⵇⵉⵣ
-- ポルトガル
-- 葡萄牙
-- ꠙꠞ꠆ꠔꠥꠉꠣꠟ
-- ꯄꯣꯔꯇꯨꯒꯜ
-- 뽀르뚜갈
-- 포르투갈
-- "\U00010340\U00010330\U0001033F\U00010342\U00010344\U0001033F\U00010332\U00010330\U0001033B\U0001033E\U00010330"
+  - A' Phortagail
+  - an Phortaingéil
+  - Bortuqaal
+  - Brtqqiz
+  - Buzdauzyaz
+  - Buò-dò̤-ngà
+  - Bồ Đào Nha
+  - Dziil Binaashkǫ́ǫłii Bikéyah
+  - IPhothugali
+  - IPhuthukezi
+  - la República Portuguesa
+  - ma Potuke
+  - Mputulukesi
+  - Pertual
+  - Phochugali
+  - Photshugo
+  - Phù-thò-ngà
+  - Phû-tô-gâ
+  - Poorchugaal
+  - Porchugal
+  - Portegal
+  - Portekiz
+  - Porthugallu
+  - Portiwgal
+  - Portogall
+  - Portogallia
+  - Portogallo
+  - Portogało
+  - Portogàllo
+  - Portokal
+  - Portokeesi
+  - Portsiugar
+  - Portugaal
+  - Portugal
+  - Portugala
+  - Portugaleja
+  - Portugali
+  - Portugalia
+  - Portugalii
+  - Portugalija
+  - Portugalijo
+  - Portugalio
+  - Portugaliya
+  - Portugaliye
+  - Portugaliýa
+  - Portugall
+  - Portugallia
+  - Portugallu
+  - Portugalska
+  - Portugalsko
+  - Portugesokondre
+  - Portugis
+  - Portugál
+  - Portugália
+  - Portugän
+  - Portugéh
+  - Portugāl
+  - Portugāle
+  - Portuhal
+  - Portuqaliya
+  - Portuqaliyə
+  - Portyngal
+  - Portúgal
+  - Portûgal
+  - Portûnga
+  - Porutigali
+  - Posugol
+  - Potidjal
+  - Potugala
+  - Potugat
+  - Potukali
+  - Potukara
+  - potygu'e
+  - Poytuga
+  - Pulutugal
+  - Puortogalėjė
+  - Puotigal
+  - Purtuallo
+  - Purtugal
+  - Purtugalle
+  - Purtugàl
+  - Purtuwal
+  - Purutchugalaq
+  - Pårtugaal
+  - Pòrtugalskô
+  - Pòtigal
+  - Pôrtogaly
+  - Pōtītī
+  - Pɔritigaalɩ
+  - Pọtugalu
+  - Pọ́rtúgàl
+  - the Portuguese Republic
+  - Ureno
+  - y Phortiugal
+  - Πορτογαλία
+  - Партугалія
+  - Портогалїꙗ
+  - Португал
+  - Португалія
+  - Португали
+  - Португалија
+  - Португалиа
+  - Португалие
+  - Португалий
+  - Португалия
+  - Португалия Мастор
+  - Португишин Орн
+  - Портуґалія
+  - Պորտուգալիա
+  - Փորթուկալ
+  - פארטוגאל
+  - פורטוגל
+  - البرتغال
+  - البرتڨال
+  - الپرتڨال
+  - برطقيز
+  - پؤرتۊغال
+  - پرتغال
+  - پرتګال
+  - پرتگال
+  - پورتوجال
+  - پورتوقال
+  - پورتوگال
+  - پُرتَگال
+  - ڤورتوݢل
+  - ܦܘܪܛܘܓܠ
+  - ޕޯޗުގަލް
+  - ߔߐ߬ߙߑߕߐ߬ߜ߭ߊߟߌ߫
+  - पुर्तगाल
+  - पोर्चुगल
+  - पोर्तुगाल
+  - পর্তুগাল
+  - পৰ্তুগাল
+  - ਪੁਰਤਗਾਲ
+  - પોર્ટુગલ
+  - ପର୍ତ୍ତୁଗାଲ
+  - போர்த்துகல்
+  - పోర్చుగల్
+  - ಪೋರ್ಚುಗಲ್
+  - പോർച്ചുഗൽ
+  - පෘතුගාලය
+  - ประเทศโปรตุเกส
+  - ປະເທດປອກຕຸຍການ
+  - པོ་ཅུ་གྷལ།
+  - པོར་ཅུ་གལ་
+  - ပေါ်တူဂီနိုင်ငံ
+  - မိူင်းပေႃးတူႉၵၢဝ်ႇ
+  - პორტუგალია
+  - ፖርቱጋል
+  - ᏉᏧᎦᎵ
+  - ប្រទេស ព័រទុយហ្គាល់
+  - ᱯᱳᱨᱛᱩᱜᱟᱞ
+  - ⴱⵔⵜⵇⵇⵉⵣ
+  - ポルトガル
+  - 葡萄牙
+  - ꠙꠞ꠆ꠔꠥꠉꠣꠟ
+  - ꯄꯣꯔꯇꯨꯒꯜ
+  - 뽀르뚜갈
+  - 포르투갈
+  - 𐍀𐌰𐌿𐍂𐍄𐌿𐌲𐌰𐌻𐌾𐌰
 has_id_wikidata: Q45
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
-- '[[_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]'
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~European_Free_Trade_Association,166546|WD~European_Free_Trade_Association,166546]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500|WD~Community_of_Portuguese_Language_Countries,182500]]'
-- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496|WD~International_Centre_for_Migration_Policy_Development,498496]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~Eurocontrol,663492|WD~Eurocontrol,663492]]'
-- '[[_Standards/WikiData/WD~Australia_Group,782942|WD~Australia_Group,782942]]'
-- '[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428|WD~International_Holocaust_Remembrance_Alliance,823428]]'
-- '[[_Standards/WikiData/WD~International_Energy_Agency,826700|WD~International_Energy_Agency,826700]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120|WD~Missile_Technology_Control_Regime,1072120]]'
-- '[[_Standards/WikiData/WD~European_Payments_Union,1377612|WD~European_Payments_Union,1377612]]'
-- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]'
-- '[[_Standards/WikiData/WD~Schengen_Area,1969730|WD~Schengen_Area,1969730]]'
-- '[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537|WD~Movement_Coordination_Centre_Europe,3866537]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~Q131720477,131720477|WD~Q131720477,131720477]]'
-- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~NATO,7184|WD~NATO,7184]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550|WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
-- '[[_Standards/WikiData/WD~European_Space_Agency,42262|WD~European_Space_Agency,42262]]'
-- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177|WD~Visa_Waiver_Program,45177]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Portugal,128812|WD~flag_of_Portugal,128812]]'
-anthem: '[[_Standards/WikiData/WD~A_Portuguesa,161049|WD~A_Portuguesa,161049]]'
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]"
+  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~European_Free_Trade_Association,166546|WD~European_Free_Trade_Association,166546]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500|WD~Community_of_Portuguese_Language_Countries,182500]]"
+  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]"
+  - "[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496|WD~International_Centre_for_Migration_Policy_Development,498496]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Eurocontrol,663492|WD~Eurocontrol,663492]]"
+  - "[[_Standards/WikiData/WD~Australia_Group,782942|WD~Australia_Group,782942]]"
+  - "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428|WD~International_Holocaust_Remembrance_Alliance,823428]]"
+  - "[[_Standards/WikiData/WD~International_Energy_Agency,826700|WD~International_Energy_Agency,826700]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120|WD~Missile_Technology_Control_Regime,1072120]]"
+  - "[[_Standards/WikiData/WD~European_Payments_Union,1377612|WD~European_Payments_Union,1377612]]"
+  - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]"
+  - "[[_Standards/WikiData/WD~Schengen_Area,1969730|WD~Schengen_Area,1969730]]"
+  - "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537|WD~Movement_Coordination_Centre_Europe,3866537]]"
+  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~Q131720477,131720477|WD~Q131720477,131720477]]"
+  - "[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~NATO,7184|WD~NATO,7184]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550|WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+  - "[[_Standards/WikiData/WD~European_Space_Agency,42262|WD~European_Space_Agency,42262]]"
+  - "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177|WD~Visa_Waiver_Program,45177]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Portugal,128812|WD~flag_of_Portugal,128812]]"
+anthem: "[[Portugal]]"
 public_holiday:
-- '[[_Standards/WikiData/WD~Portugal_Day,183563|WD~Portugal_Day,183563]]'
-- '[[_Standards/WikiData/WD~Republic_Day,1207931|WD~Republic_Day,1207931]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Portugal,200195|WD~coat_of_arms_of_Portugal,200195]]'
+  - "[[_Standards/WikiData/WD~Portugal_Day,183563|WD~Portugal_Day,183563]]"
+  - "[[_Standards/WikiData/WD~Republic_Day,1207931|WD~Republic_Day,1207931]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Portugal,200195|WD~coat_of_arms_of_Portugal,200195]]"
 replaces:
-- '[[_Standards/WikiData/WD~Portuguese_Empire,200464|WD~Portuguese_Empire,200464]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670|WD~Kingdom_of_Portugal,45670]]'
+  - "[[_Standards/WikiData/WD~Portuguese_Empire,200464|WD~Portuguese_Empire,200464]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670|WD~Kingdom_of_Portugal,45670]]"
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Lisbon,207199|WD~Lisbon,207199]]'
-- '[[_Standards/WikiData/WD~Aveiro,210527|WD~Aveiro,210527]]'
-- '[[_Standards/WikiData/WD~Portalegre,225189|WD~Portalegre,225189]]'
-- '[[_Standards/WikiData/WD~Santarém,244510|WD~Santarém,244510]]'
-- '[[_Standards/WikiData/WD~Leiria,244512|WD~Leiria,244512]]'
-- '[[_Standards/WikiData/WD~Coimbra,244517|WD~Coimbra,244517]]'
-- '[[_Standards/WikiData/WD~Faro,244521|WD~Faro,244521]]'
-- '[[_Standards/WikiData/WD~Viseu,273525|WD~Viseu,273525]]'
-- '[[_Standards/WikiData/WD~Castelo_Branco,273529|WD~Castelo_Branco,273529]]'
-- '[[_Standards/WikiData/WD~Guarda,273533|WD~Guarda,273533]]'
-- '[[_Standards/WikiData/WD~Setúbal,274109|WD~Setúbal,274109]]'
-- '[[_Standards/WikiData/WD~Évora,274118|WD~Évora,274118]]'
-- '[[_Standards/WikiData/WD~Beja,321455|WD~Beja,321455]]'
-- '[[_Standards/WikiData/WD~Porto,322792|WD~Porto,322792]]'
-- '[[_Standards/WikiData/WD~Braga,326203|WD~Braga,326203]]'
-- '[[_Standards/WikiData/WD~Viana_do_Castelo,326214|WD~Viana_do_Castelo,326214]]'
-- '[[_Standards/WikiData/WD~Bragança,373528|WD~Bragança,373528]]'
-- '[[_Standards/WikiData/WD~Vila_Real,379372|WD~Vila_Real,379372]]'
-- '[[_Standards/WikiData/WD~Azores,25263|WD~Azores,25263]]'
-- '[[_Standards/WikiData/WD~Madeira,26253|WD~Madeira,26253]]'
+  - "[[_Standards/WikiData/WD~Lisbon,207199|WD~Lisbon,207199]]"
+  - "[[_Standards/WikiData/WD~Aveiro,210527|WD~Aveiro,210527]]"
+  - "[[_Standards/WikiData/WD~Portalegre,225189|WD~Portalegre,225189]]"
+  - "[[_Standards/WikiData/WD~Santarém,244510|WD~Santarém,244510]]"
+  - "[[_Standards/WikiData/WD~Leiria,244512|WD~Leiria,244512]]"
+  - "[[_Standards/WikiData/WD~Coimbra,244517|WD~Coimbra,244517]]"
+  - "[[_Standards/WikiData/WD~Faro,244521|WD~Faro,244521]]"
+  - "[[_Standards/WikiData/WD~Viseu,273525|WD~Viseu,273525]]"
+  - "[[_Standards/WikiData/WD~Castelo_Branco,273529|WD~Castelo_Branco,273529]]"
+  - "[[_Standards/WikiData/WD~Guarda,273533|WD~Guarda,273533]]"
+  - "[[_Standards/WikiData/WD~Setúbal,274109|WD~Setúbal,274109]]"
+  - "[[_Standards/WikiData/WD~Évora,274118|WD~Évora,274118]]"
+  - "[[_Standards/WikiData/WD~Beja,321455|WD~Beja,321455]]"
+  - "[[_Standards/WikiData/WD~Porto,322792|WD~Porto,322792]]"
+  - "[[_Standards/WikiData/WD~Braga,326203|WD~Braga,326203]]"
+  - "[[_Standards/WikiData/WD~Viana_do_Castelo,326214|WD~Viana_do_Castelo,326214]]"
+  - "[[_Standards/WikiData/WD~Bragança,373528|WD~Bragança,373528]]"
+  - "[[_Standards/WikiData/WD~Vila_Real,379372|WD~Vila_Real,379372]]"
+  - "[[_Standards/WikiData/WD~Azores,25263|WD~Azores,25263]]"
+  - "[[_Standards/WikiData/WD~Madeira,26253|WD~Madeira,26253]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278|WD~Meyer_s_Universum,_Zweiter_Band,126937278]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403|WD~Meyer_s_Universum,_Achter_Band,131447403]]'
-- '[[_Standards/WikiData/WD~History_of_Ming,28763|WD~History_of_Ming,28763]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Portugal,322459|WD~President_of_Portugal,322459]]'
-central_bank: '[[_Standards/WikiData/WD~Banco_de_Portugal,378372|WD~Banco_de_Portugal,378372]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Portugal,429135|WD~geography_of_Portugal,429135]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_Portugal,740205|WD~Government_of_Portugal,740205]]'
-legislative_body: '[[_Standards/WikiData/WD~Assembly_of_the_Republic,740564|WD~Assembly_of_the_Republic,740564]]'
-highest_point: '[[_Standards/WikiData/WD~Mount_Pico,928681|WD~Mount_Pico,928681]]'
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278|WD~Meyer_s_Universum,_Zweiter_Band,126937278]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403|WD~Meyer_s_Universum,_Achter_Band,131447403]]"
+  - "[[_Standards/WikiData/WD~History_of_Ming,28763|WD~History_of_Ming,28763]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Portugal,322459|WD~President_of_Portugal,322459]]"
+central_bank: "[[_Standards/WikiData/WD~Banco_de_Portugal,378372|WD~Banco_de_Portugal,378372]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Portugal,429135|WD~geography_of_Portugal,429135]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Portugal,740205|WD~Government_of_Portugal,740205]]"
+legislative_body: "[[_Standards/WikiData/WD~Assembly_of_the_Republic,740564|WD~Assembly_of_the_Republic,740564]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Pico,928681|WD~Mount_Pico,928681]]"
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Portugal,1649355|WD~economy_of_Portugal,1649355]]'
-studied_in: '[[_Standards/WikiData/WD~Portuguese_studies,1721024|WD~Portuguese_studies,1721024]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Portugal,1723031|WD~Prime_Minister_of_Portugal,1723031]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Portugal,1981371|WD~demographics_of_Portugal,1981371]]'
-named_after: '[[_Standards/WikiData/WD~Portus_Cale,1982979|WD~Portus_Cale,1982979]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Portugal,2746216|WD~culture_of_Portugal,2746216]]'
+  - "[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]"
+  - "[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Portugal,1649355|WD~economy_of_Portugal,1649355]]"
+studied_in: "[[_Standards/WikiData/WD~Portuguese_studies,1721024|WD~Portuguese_studies,1721024]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Portugal,1723031|WD~Prime_Minister_of_Portugal,1723031]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Portugal,1981371|WD~demographics_of_Portugal,1981371]]"
+named_after: "[[_Standards/WikiData/WD~Portus_Cale,1982979|WD~Portus_Cale,1982979]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Portugal,2746216|WD~culture_of_Portugal,2746216]]"
 part_of:
-- '[[_Standards/WikiData/WD~South-West_Europe,2749444|WD~South-West_Europe,2749444]]'
-- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~European_Economic_Area,8932|WD~European_Economic_Area,8932]]'
+  - "[[_Standards/WikiData/WD~South-West_Europe,2749444|WD~South-West_Europe,2749444]]"
+  - "[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~European_Economic_Area,8932|WD~European_Economic_Area,8932]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~autonomous_region_of_Portugal,2914565|WD~autonomous_region_of_Portugal,2914565]]'
-- '[[_Standards/WikiData/WD~Continental_Portugal,2915956|WD~Continental_Portugal,2915956]]'
-- '[[_Standards/WikiData/WD~district_of_Portugal,3032141|WD~district_of_Portugal,3032141]]'
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
+  - "[[_Standards/WikiData/WD~autonomous_region_of_Portugal,2914565|WD~autonomous_region_of_Portugal,2914565]]"
+  - "[[_Standards/WikiData/WD~Continental_Portugal,2915956|WD~Continental_Portugal,2915956]]"
+  - "[[_Standards/WikiData/WD~district_of_Portugal,3032141|WD~district_of_Portugal,3032141]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]"
 instance_of:
-- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~colonial_power,20181813|WD~colonial_power,20181813]]'
-- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~colonial_power,20181813|WD~colonial_power,20181813]]"
+  - "[[_Standards/WikiData/WD~country,6256|WD~country,6256]]"
 language_used:
-- '[[_Standards/WikiData/WD~Portuguese_Sign_Language,3915472|WD~Portuguese_Sign_Language,3915472]]'
-- '[[_Standards/WikiData/WD~Minderico,6863806|WD~Minderico,6863806]]'
-- '[[_Standards/WikiData/WD~Portuguese,5146|WD~Portuguese,5146]]'
-- '[[_Standards/WikiData/WD~Galician,9307|WD~Galician,9307]]'
-- '[[_Standards/WikiData/WD~Mirandese,13330|WD~Mirandese,13330]]'
-- '[[_Standards/WikiData/WD~Asturian,29507|WD~Asturian,29507]]'
+  - "[[_Standards/WikiData/WD~Portuguese_Sign_Language,3915472|WD~Portuguese_Sign_Language,3915472]]"
+  - "[[_Standards/WikiData/WD~Minderico,6863806|WD~Minderico,6863806]]"
+  - "[[_Standards/WikiData/WD~Portuguese,5146|WD~Portuguese,5146]]"
+  - "[[_Standards/WikiData/WD~Galician,9307|WD~Galician,9307]]"
+  - "[[_Standards/WikiData/WD~Mirandese,13330|WD~Mirandese,13330]]"
+  - "[[_Standards/WikiData/WD~Asturian,29507|WD~Asturian,29507]]"
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Districts_and_autonomous_regions_of_Portugal,6536468|WD~Template_Districts_and_autonomous_regions_of_Portugal,6536468]]'
-- '[[_Standards/WikiData/WD~Template_Portugal_geography,14937060|WD~Template_Portugal_geography,14937060]]'
-head_of_state: '[[_Standards/WikiData/WD~Marcelo_Rebelo_de_Sousa,6756617|WD~Marcelo_Rebelo_de_Sousa,6756617]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Portugal,7112415|WD~outline_of_Portugal,7112415]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Portuguese_Supreme_Court_of_Justice,7232693|WD~Portuguese_Supreme_Court_of_Justice,7232693]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Portugal,10815313|WD~Portal_Portugal,10815313]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Portugal,11142608|WD~WikiProject_Portugal,11142608]]'
-head_of_government: '[[_Standards/WikiData/WD~Luís_Montenegro,11764394|WD~Luís_Montenegro,11764394]]'
-railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
-has_cabinet: '[[_Standards/WikiData/WD~Council_of_Ministers,16850120|WD~Council_of_Ministers,16850120]]'
+  - "[[_Standards/WikiData/WD~Template_Districts_and_autonomous_regions_of_Portugal,6536468|WD~Template_Districts_and_autonomous_regions_of_Portugal,6536468]]"
+  - "[[_Standards/WikiData/WD~Template_Portugal_geography,14937060|WD~Template_Portugal_geography,14937060]]"
+head_of_state: "[[_Standards/WikiData/WD~Marcelo_Rebelo_de_Sousa,6756617|WD~Marcelo_Rebelo_de_Sousa,6756617]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Portugal,7112415|WD~outline_of_Portugal,7112415]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Portuguese_Supreme_Court_of_Justice,7232693|WD~Portuguese_Supreme_Court_of_Justice,7232693]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Portugal,10815313|WD~Portal_Portugal,10815313]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Portugal,11142608|WD~WikiProject_Portugal,11142608]]"
+head_of_government: "[[_Standards/WikiData/WD~Luís_Montenegro,11764394|WD~Luís_Montenegro,11764394]]"
+railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]"
+driving_side: "[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+has_cabinet: "[[_Standards/WikiData/WD~Council_of_Ministers,16850120|WD~Council_of_Ministers,16850120]]"
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q23059791,23059791|WD~Q23059791,23059791]]'
-- '[[_Standards/WikiData/WD~Q38527299,38527299|WD~Q38527299,38527299]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
-open_data_portal: '[[_Standards/WikiData/WD~Open_Data_Portugal,97061964|WD~Open_Data_Portugal,97061964]]'
-coordinates_of_westernmost_point: Point(-9.50053453 38.78099411)
+  - "[[_Standards/WikiData/WD~Q23059791,23059791|WD~Q23059791,23059791]]"
+  - "[[_Standards/WikiData/WD~Q38527299,38527299|WD~Q38527299,38527299]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Portugal,97061964|WD~Open_Data_Portugal,97061964]]"
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Log%C3%B3tipo%20do%20Governo%20Portugal.svg
 UMLS_CUI: C0032729
-coordinate_location: Point(-9.183333333 38.7)
 demonym:
-- برطقيزي
-- برطقيزية
-- برطقيزيين
-- برطقيزيات
-- Portaingéalach
-- portuguesa
-- ポルトガル人
-- برتغالي
-- برتغالية
-- برتغاليون
-- portugués
-- portuguesa
-- পর্তুগিজ
-- Portugiese
-- Portugiesin
-- Portuguese
-- portugalo
-- Portugais
-- Portugaise
-- פורטוגזי
-- פורטוגזית
-- portugál
-- Portugalano
-- portoghese
-- portoghesi
-- Portugis
-- Portugisin
-- portuges
-- Portugees
-- português
-- portughez
-- portugheză
-- portughezi
-- португалец
-- португалка
-- португальцы
-- Португалац
-- Португалка
-- portogheza
-- portogheze
-- portoghezi
-- portoghezo
-- Portugänan
+  - برطقيزي
+  - برطقيزية
+  - برطقيزيين
+  - برطقيزيات
+  - Portaingéalach
+  - portuguesa
+  - ポルトガル人
+  - برتغالي
+  - برتغالية
+  - برتغاليون
+  - portugués
+  - portuguesa
+  - পর্তুগিজ
+  - Portugiese
+  - Portugiesin
+  - Portuguese
+  - portugalo
+  - Portugais
+  - Portugaise
+  - פורטוגזי
+  - פורטוגזית
+  - portugál
+  - Portugalano
+  - portoghese
+  - portoghesi
+  - Portugis
+  - Portugisin
+  - portuges
+  - Portugees
+  - português
+  - portughez
+  - portugheză
+  - portughezi
+  - португалец
+  - португалка
+  - португальцы
+  - Португалац
+  - Португалка
+  - portogheza
+  - portogheze
+  - portoghezi
+  - portoghezo
+  - Portugänan
 ISNI: 122428399
 motto_text:
-- Arfordir Gorllewin Ewrop
-- Europe's West Coast
+  - Arfordir Gorllewin Ewrop
+  - Europe's West Coast
 official_website: https://www.portugal.gov.pt/
 inception: 1179-05-30
 has_time_started: 1179-05-30
+population: 10347892
+location:
+  - 39.7
+  - -8.1
+type: Country
+tags:
+  - geo/Country
+SpocWebEntityId: 27001
+isDeleted: false
+coordinate_location: Point(-8.1 39.7)
 coordinates_of_northernmost_point: Point(-8.198888888 42.154166666)
+coordinates_of_southernmost_point: Point(-7.88698196 36.96024856)
+coordinates_of_westernmost_point: Point(-9.50053453 38.78099411)
+coordinates_of_easternmost_point: Point(-6.19021386 41.57488702)
 Gregorian_calendar_start_date: 1582-10-15
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
-- '[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~Timor-Leste,574|WD~Timor-Leste,574]]'
-- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
-- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Angola,916|WD~Angola,916]]'
-- '[[_Standards/WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]]'
-- '[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
-- '[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
-- '[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039|WD~São_Tomé_and_Príncipe,1039]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
-- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
-- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
-- '[[_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]'
-- '[[_Standards/WikiData/WD~Malta,233|WD~Malta,233]]'
-- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
-capital: '[[_Standards/WikiData/WD~Lisbon,597|WD~Lisbon,597]]'
+  - "[[_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]"
+  - "[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~Timor-Leste,574|WD~Timor-Leste,574]]"
+  - "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Angola,916|WD~Angola,916]]"
+  - "[[_Standards/WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]]"
+  - "[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]"
+  - "[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]"
+  - "[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039|WD~São_Tomé_and_Príncipe,1039]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]"
+  - "[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77|WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]"
+  - "[[_Standards/WikiData/WD~Malta,233|WD~Malta,233]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+capital: "[[_Standards/WikiData/WD~Lisbon,597|WD~Lisbon,597]]"
 official_language:
-- '[[_Standards/WikiData/WD~Portuguese,5146|WD~Portuguese,5146]]'
-- '[[_Standards/WikiData/WD~Mirandese,13330|WD~Mirandese,13330]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574|WD~UTC_00_00,6574]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Portugal,7790|WD~history_of_Portugal,7790]]'
+  - "[[_Standards/WikiData/WD~Portuguese,5146|WD~Portuguese,5146]]"
+  - "[[_Standards/WikiData/WD~Mirandese,13330|WD~Mirandese,13330]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC_00_00,6574|WD~UTC_00_00,6574]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Portugal,7790|WD~history_of_Portugal,7790]]"
 located_in_on_physical_feature:
-- '[[_Standards/WikiData/WD~Iberian_Peninsula,12837|WD~Iberian_Peninsula,12837]]'
-- '[[_Standards/WikiData/WD~Southern_Europe,27449|WD~Southern_Europe,27449]]'
-shares_border_with: '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
-continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
-country: '[[_Standards/WikiData/WD~Portugal,45|WD~Portugal,45]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
-lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+  - "[[_Standards/WikiData/WD~Iberian_Peninsula,12837|WD~Iberian_Peninsula,12837]]"
+  - "[[_Standards/WikiData/WD~Southern_Europe,27449|WD~Southern_Europe,27449]]"
+shares_border_with: "[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]"
+continent: "[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]"
+country: "[[_Standards/WikiData/WD~Portugal,45|WD~Portugal,45]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]"
+lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:Portugal.map
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Capela%20Das%20Almas%20Oporto%20Banner.jpg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Portugal.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Portugal.svg
 pronunciation_audio:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Portugal.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Portugalia.wav
-- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Portugal.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Portugal.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Portugalia.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Portugal.ogg
 compulsory_education_minimum_age_: 6
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Portugal%20on%20the%20globe%20%28Europe%20centered%29.svg
 birth_rate:
-- 8
-- 7.7
-- 8.2
-- 8.4
+  - 8
+  - 7.7
+  - 8.2
+  - 8.4
 death_rate:
-- 12
-- 10.9
-- 11.9
+  - 12
+  - 10.9
+  - 11.9
 unemployment_rate: 14
 compulsory_education_maximum_age_: 18
 marriageable_age: 18
@@ -433,14 +444,14 @@ retirement_age: 66
 suicide_rate: 7.2
 Democracy_Index: 7.9
 total_fertility_rate: 1.21
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.pt,39959|WD~.pt,39959]]'
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.pt,39959|WD~.pt,39959]]"
 Gini_coefficient: 32.8
-follows: '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670|WD~Kingdom_of_Portugal,45670]]'
+follows: "[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670|WD~Kingdom_of_Portugal,45670]]"
 Happy_Planet_Index_score: 46.3
 country_calling_code: 351
 U_S_National_Archives_Identifier: 10035824
 IAB_code: 1382
-patron_saint: '[[_Standards/WikiData/WD~Saint_George,48438|WD~Saint_George,48438]]'
+patron_saint: "[[_Standards/WikiData/WD~Saint_George,48438|WD~Saint_George,48438]]"
 Dewey_Decimal_Classification: 2--469
 maritime_identification_digits: 263
 mobile_country_code: 268
@@ -451,12 +462,12 @@ M49_code: 620
 OmegaWiki_Defined_Meaning: 7867
 UIC_numerical_country_code: 94
 ISBN_identifier_group:
-- 978-972
-- 978-989
+  - 978-972
+  - 978-989
 INSEE_countries_and_foreign_territories_code: 99139
 BHCL_UUID:
-- 9f837a06-e7b1-49e9-82ad-84bef5552b06
-- e7794532-7bf2-4ceb-b000-b159dfcd1a56
+  - 9f837a06-e7b1-49e9-82ad-84bef5552b06
+  - e7794532-7bf2-4ceb-b000-b159dfcd1a56
 PM20_geo_code: A32
 licence_plate_code: P
 UIC_alphabetical_country_code: P
@@ -470,10 +481,9 @@ subreddit: portugal
 Commons_category: Portugal
 Commons_gallery: Portugal
 hashtag: Portugal
-coordinates_of_easternmost_point: Point(-6.19021386 41.57488702)
 nominal_GDP:
-- 251945377529
-- 253982847571
+  - 251945377529
+  - 253982847571
 ISO_3166_1_alpha_3_code: PRT
 ISO_3166_1_alpha_2_code: PT
 NUTS_code: PT
@@ -482,70 +492,60 @@ Colon_Classification: SG--542
 Krugosvet_article: strany_mira/PORTUGALIYA.html
 MeSH_tree_code: Z01.542.727
 official_name:
-- Portugalská republika
-- la République portugaise
-- Portugal
-- República Portuguesa
+  - Portugalská republika
+  - la République portugaise
+  - Portugal
+  - República Portuguesa
 name_in_native_language:
-- Portugalská republika
-- la République portugaise
-- República Portuguesa
+  - Portugalská republika
+  - la République portugaise
+  - República Portuguesa
 Inequality_adjusted_Human_Development_Index: 0.773
 native_label:
-- Portugal
-- República Portuguesa
+  - Portugal
+  - República Portuguesa
 Human_Development_Index: 0.866
-short_name: "\U0001F1F5\U0001F1F9"
+short_name: 🇵🇹
 number_of_out_of_school_children: 19620
 area: 92225
 urban_population:
-- 6926780
-- 6764658
-- 6827994
-- 7014163
+  - 6926780
+  - 6764658
+  - 6827994
+  - 7014163
 rural_population:
-- 3395541
-- 3435051
-- 3469087
-- 3521605
+  - 3395541
+  - 3435051
+  - 3469087
+  - 3521605
 male_population:
-- 4855992
-- 4859349
-- 4888573
-- 4911677
+  - 4855992
+  - 4859349
+  - 4888573
+  - 4911677
 female_population:
-- 5430271
-- 5437732
-- 5473258
-- 5498027
+  - 5430271
+  - 5437732
+  - 5473258
+  - 5498027
 life_expectancy: 81.12683
-population: 10347892
-coordinates_of_southernmost_point: Point(-7.88698196 36.96024856)
-location:
-- 42.1067
-- -5.10879
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27001
-isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Portugal
-linkTitle: ''
-keywords: ''
-layout: ''
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages:
-- pt-PT
-- mwl
+  - pt-PT
+  - mwl
 icon: flag-pt
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro
@@ -575,9 +575,9 @@ dv_UNTERM_Chinese_Formal: 葡萄牙共和国
 dv_UNTERM_French_Formal: la République portugaise
 dv_UNTERM_Russian: Португалия
 dv_UNTERM_Russian_Formal: Португальская Республика
-dv_Region_Name: '[[../../Europe|Europe]]'
-dv_Intermediate_Region_Name: '[[Portugal]]'
-dv_Sub-region_Name: '[[Southern Europe]]'
+dv_Region_Name: "[[../../Europe|Europe]]"
+dv_Intermediate_Region_Name: "[[Portugal]]"
+dv_Sub-region_Name: "[[Southern Europe]]"
 dv_Region: 150
 dv_Sub-region: 39
 dv_Geoname-ID: 2264397
@@ -600,14 +600,14 @@ dv_ISO2: PT
 dv_ISO3: PRT
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Portugal,45|WD~Portugal,45]]'
-  - '[[/_Standards/Earth/Continent/Europe/Europe~South/Portugal|Portugal]]'
-  - '[[/_public/Earth/Continent/Europe/Europe~South/Portugal.public|Portugal.public]]'
-  - '[[/_internal/Earth/Continent/Europe/Europe~South/Portugal.internal|Portugal.internal]]'
-  - '[[/_protect/Earth/Continent/Europe/Europe~South/Portugal.protect|Portugal.protect]]'
-  - '[[/_private/Earth/Continent/Europe/Europe~South/Portugal.private|Portugal.private]]'
-  - '[[/_personal/Earth/Continent/Europe/Europe~South/Portugal.personal|Portugal.personal]]'
-  - '[[/_secret/Earth/Continent/Europe/Europe~South/Portugal.secret|Portugal.secret]]'
+    - "[[../../../../WikiData/WD~Portugal,45|WD~Portugal,45]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South/Portugal|Portugal]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South/Portugal.public|Portugal.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South/Portugal.internal|Portugal.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South/Portugal.protect|Portugal.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South/Portugal.private|Portugal.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South/Portugal.personal|Portugal.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South/Portugal.secret|Portugal.secret]]"
 dv_has_:
   name_:
     ab: Португалиа
@@ -713,7 +713,7 @@ dv_has_:
     gom: Portugal
     gom-deva: पोर्तुगाल
     gom_latn: Portugal
-    got: "\U00010340\U00010330\U0001033F\U00010342\U00010344\U0001033F\U00010332\U00010330\U0001033B\U0001033E\U00010330"
+    got: 𐍀𐌰𐌿𐍂𐍄𐌿𐌲𐌰𐌻𐌾𐌰
     gpe: Portugal
     gsw: Portugal
     gu: પોર્ટુગલ
@@ -951,7 +951,7 @@ dv_has_:
 dv_has_name_de: Portugal
 dv_Area-Total: 92270
 dv_Area-Land: 91950
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: "[[../../Europe|Europe]]"
 dv_VehicleCode: P
 dv_Alcohol-l: 14.6
 dv_Language-Id: 467
@@ -959,21 +959,21 @@ dv_has_place_longitude: -5.10879
 dv_has_place_latitude: 42.1067
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Portugal,45|WD~Portugal,45]]'
-- '[[/_Standards/Earth/Continent/Europe/Europe~South/Portugal|Portugal]]'
-- '[[/_public/Earth/Continent/Europe/Europe~South/Portugal.public|Portugal.public]]'
-- '[[/_internal/Earth/Continent/Europe/Europe~South/Portugal.internal|Portugal.internal]]'
-- '[[/_protect/Earth/Continent/Europe/Europe~South/Portugal.protect|Portugal.protect]]'
-- '[[/_private/Earth/Continent/Europe/Europe~South/Portugal.private|Portugal.private]]'
-- '[[/_personal/Earth/Continent/Europe/Europe~South/Portugal.personal|Portugal.personal]]'
-- '[[/_secret/Earth/Continent/Europe/Europe~South/Portugal.secret|Portugal.secret]]'
+  - "[[../../../../WikiData/WD~Portugal,45|WD~Portugal,45]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South/Portugal|Portugal]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South/Portugal.public|Portugal.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South/Portugal.internal|Portugal.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South/Portugal.protect|Portugal.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South/Portugal.private|Portugal.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South/Portugal.personal|Portugal.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South/Portugal.secret|Portugal.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Portugal
 Unicode_character: 🇵🇹
 ---
 
 # [[Portugal]] 🇵🇹 
 
-
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1059,8 +1059,31 @@ geojsonFolder: ./Portugal//
 markerFolder: ./Portugal//
 coordinates: [[Portugal]] 
 markerFile: [[Portugal]] 
-defaultZoom: 11 
+defaultZoom: 6 
 ```
+
+
+### #has_map_/topologic 
+
+```leaflet
+id: Portugal_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 6
+geojsonFolder: ./Portugal//
+markerFolder: ./Portugal/
+coordinates: [[Portugal]] 
+markerFile: [[Portugal]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Portugal]
 has_name_de = `=this.dv_has_name_de`

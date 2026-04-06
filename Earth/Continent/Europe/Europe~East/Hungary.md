@@ -1111,7 +1111,9 @@ Image_Archive_Herder_Institute: Q28
 Unicode_character: 🇭🇺
 ---
 
-# [[Hungary]] 🇭🇺 has Properties... 
+# [[Hungary]] 🇭🇺 
+
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1200,7 +1202,31 @@ markerFile: [[Hungary]]
 defaultZoom: 5 
 ```
 
-[has_name_en::Hungary]
+
+### #has_map_/topologic 
+
+```leaflet
+id: Hungary_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Hungary//
+markerFolder: ./Hungary/
+coordinates: [[Hungary]] 
+markerFile: [[Hungary]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
+[has_name_en::Hungary] 
 has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`

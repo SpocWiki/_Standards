@@ -985,7 +985,10 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Bulgaria,7112213|WD~outl
 WIPO_ST_3: BG
 ---
 
-# [[Bulgaria]] 🇧🇬 has Properties... 
+# [[Bulgaria]] 🇧🇬 
+
+## #has_/properties 
+
 
 has_number_of_people = `=this.dv_has_number_of_people`
 Population = `=this.dv_Population`
@@ -1083,6 +1086,30 @@ coordinates: [[Bulgaria]]
 markerFile: [[Bulgaria]] 
 defaultZoom: 5 
 ```
+
+
+### #has_map_/topologic 
+
+```leaflet
+id: Bulgaria_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Bulgaria//
+markerFolder: ./Bulgaria/
+coordinates: [[Bulgaria]] 
+markerFile: [[Bulgaria]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 [has_name_en::Bulgaria]
 has_name_de = `=this.dv_has_name_de`

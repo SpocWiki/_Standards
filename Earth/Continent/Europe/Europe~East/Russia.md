@@ -1533,7 +1533,9 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/LocationRu
 official_website: http://gov.ru/
 ---
 
-# [[Russia]] 🇷🇺 has Properties... 
+# [[Russia]] 🇷🇺
+## #has_/properties 
+
 
 has_previous_item = `=this.dv_has_previous_item`
 

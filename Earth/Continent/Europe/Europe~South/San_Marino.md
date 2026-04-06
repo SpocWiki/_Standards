@@ -1,134 +1,134 @@
 ---
 aliases:
-- Dziłkʼi Yadaaʼáhí Hahoodzo
-- Hato Marino
-- la República de San Marino
-- ma Samalino
-- Mutagatifu Marino
-- Republega de San Marin
-- Repùblica ëd San Marin
-- Res publica Sancti Marini
-- Saan Maariinoo
-- Saint Mathîn
-- Saint-Marin
-- San Mairíne
-- San Marein
-- San Marin
-- San Marinas
-- San Marine
-- San Marino
-- San Marinokondre
-- San Marins
-- San Marinu
-- San Marín
-- San Maríno
-- San Marínó
-- San Marîno
-- San Marėns
-- San Màrínò
-- San-Marino
-- Sana Marino
-- Sanct Marinusland
-- Sanmarina
-- Sanmarinän
-- Sanmarīno
-- Sant Marin
-- Sant-Marin
-- Santu Marino
-- Santu Marinu
-- San_Marino
-- Saun Mariñu
-- Sen Maren
-- Sen Marin
-- Sen Marino
-- Sen-Maren
-- Sàn Marìn
-- Sā Malino
-- Tanmarino
-- the Republic of San Marino
-- USanti Marino
-- Άγιος Μαρίνος
-- Άι Μαρίνος
-- Сан Маринмудин Орн
-- Сан Марино
-- Сан-Марино
-- Сан-Марино Мастор
-- Сан-Марына
-- Санъ Марино
-- Սան Մարինո
-- סאן מארינא
-- סן מרינו
-- سان مارينؤ
-- سان مارينو
-- سان مارینو
-- سان مارینۆ
-- سان مرينو
-- سان مرینو
-- سان مَرینو
-- سن مارینو
-- ܣܢ ܡܪܝܢܘ
-- ސަން މަރީނޯ
-- सान मरिनो
-- सान मरीनो
-- सान मारिनो
-- सॅन मरिनो
-- सैन मरीनो
-- ছান মাৰিণ'
-- সান মারিনো
-- ਸਾਨ ਮਰੀਨੋ
-- સાન મૅરિનો
-- ସାନ ମାରିନିଓ
-- சான் மரீனோ
-- శాన్ మారినో
-- ಸಾನ್ ಮರಿನೊ
-- സാൻ മരീനോ
-- සැන් මැරීනෝ
-- ประเทศซานมารีโน
-- ປະເທດແຊັງມາແລງ
-- སན་མ་རི་ནོ།
-- ဆန်မာရီနို သမ္မတနိုင်ငံ
-- ဆန်မာရီနိုနိုင်ငံ
-- မိူင်းသၼ်းမႃႇရီႇၼေႃႇ
-- სან-მარინო
-- ሳን ማሪኖ
-- ሳን ማሪዮ
-- ᎠᏥᎸᏉᏗ ᎹᎵᎢᏃ
-- សាន់ម៉ារីណូ
-- ᱥᱟᱱ ᱢᱟᱨᱤᱱᱳ
-- ⵙⴰⵏ ⵎⴰⵔⵉⵏⵓ
-- サンマリノ
-- 圣马力诺
-- 聖馬利諾
-- 聖馬力諾
-- 聖馬連奴
-- ꯁꯦꯟ ꯃꯦꯔꯤꯅꯣ
-- 산마리노
-- 싼 마리노
-- "\U00010345\U00010334\U00010339\U00010337\U00010330 \U0001033C\U00010330\U00010342\U00010334\U00010339\U0001033D\U0001033F\U00010343"
+  - Dziłkʼi Yadaaʼáhí Hahoodzo
+  - Hato Marino
+  - la República de San Marino
+  - ma Samalino
+  - Mutagatifu Marino
+  - Republega de San Marin
+  - Repùblica ëd San Marin
+  - Res publica Sancti Marini
+  - Saan Maariinoo
+  - Saint Mathîn
+  - Saint-Marin
+  - San Mairíne
+  - San Marein
+  - San Marin
+  - San Marinas
+  - San Marine
+  - San Marino
+  - San Marinokondre
+  - San Marins
+  - San Marinu
+  - San Marín
+  - San Maríno
+  - San Marínó
+  - San Marîno
+  - San Marėns
+  - San Màrínò
+  - San-Marino
+  - Sana Marino
+  - Sanct Marinusland
+  - Sanmarina
+  - Sanmarinän
+  - Sanmarīno
+  - Sant Marin
+  - Sant-Marin
+  - Santu Marino
+  - Santu Marinu
+  - San_Marino
+  - Saun Mariñu
+  - Sen Maren
+  - Sen Marin
+  - Sen Marino
+  - Sen-Maren
+  - Sàn Marìn
+  - Sā Malino
+  - Tanmarino
+  - the Republic of San Marino
+  - USanti Marino
+  - Άγιος Μαρίνος
+  - Άι Μαρίνος
+  - Сан Маринмудин Орн
+  - Сан Марино
+  - Сан-Марино
+  - Сан-Марино Мастор
+  - Сан-Марына
+  - Санъ Марино
+  - Սան Մարինո
+  - סאן מארינא
+  - סן מרינו
+  - سان مارينؤ
+  - سان مارينو
+  - سان مارینو
+  - سان مارینۆ
+  - سان مرينو
+  - سان مرینو
+  - سان مَرینو
+  - سن مارینو
+  - ܣܢ ܡܪܝܢܘ
+  - ސަން މަރީނޯ
+  - सान मरिनो
+  - सान मरीनो
+  - सान मारिनो
+  - सॅन मरिनो
+  - सैन मरीनो
+  - ছান মাৰিণ'
+  - সান মারিনো
+  - ਸਾਨ ਮਰੀਨੋ
+  - સાન મૅરિનો
+  - ସାନ ମାରିନିଓ
+  - சான் மரீனோ
+  - శాన్ మారినో
+  - ಸಾನ್ ಮರಿನೊ
+  - സാൻ മരീനോ
+  - සැන් මැරීනෝ
+  - ประเทศซานมารีโน
+  - ປະເທດແຊັງມາແລງ
+  - སན་མ་རི་ནོ།
+  - ဆန်မာရီနို သမ္မတနိုင်ငံ
+  - ဆန်မာရီနိုနိုင်ငံ
+  - မိူင်းသၼ်းမႃႇရီႇၼေႃႇ
+  - სან-მარინო
+  - ሳን ማሪኖ
+  - ሳን ማሪዮ
+  - ᎠᏥᎸᏉᏗ ᎹᎵᎢᏃ
+  - សាន់ម៉ារីណូ
+  - ᱥᱟᱱ ᱢᱟᱨᱤᱱᱳ
+  - ⵙⴰⵏ ⵎⴰⵔⵉⵏⵓ
+  - サンマリノ
+  - 圣马力诺
+  - 聖馬利諾
+  - 聖馬力諾
+  - 聖馬連奴
+  - ꯁꯦꯟ ꯃꯦꯔꯤꯅꯣ
+  - 산마리노
+  - 싼 마리노
+  - 𐍅𐌴𐌹𐌷𐌰 𐌼𐌰𐍂𐌴𐌹𐌽𐌿𐍃
 has_id_wikidata: Q238
 confidential: public
 cssclasses:
-- Country
+  - Country
 draft: false
-expiryDate: ''
+expiryDate: ""
 icon: flag-sm
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
-- it-SM
-layout: ''
+  - it-SM
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
-- 43.93
-- 12.45
+  - 43.93
+  - 12.45
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 27020
 tags:
-- geo/Country
+  - geo/Country
 title: San Marino
 type: Country
 dv_ISO4217-currency_alphabetic: EUR
@@ -141,8 +141,8 @@ dv_Global: true
 dv_Global_Name: World
 dv_has_name: San Marino
 dv_has_name_en:
-- San Marino
-- San Marino
+  - San Marino
+  - San Marino
 dv_has_name_es: San Marino
 dv_has_name_fr: Saint-Marin
 dv_has_name_cn: 圣马力诺
@@ -161,9 +161,9 @@ dv_UNTERM_Chinese_Formal: 圣马力诺共和国
 dv_UNTERM_French_Formal: la République de Saint-Marin
 dv_UNTERM_Russian: Сан-Марино
 dv_UNTERM_Russian_Formal: Республика Сан-Марино
-dv_Region_Name: '[[../../Europe|Europe]]'
-dv_Intermediate_Region_Name: '[[San_Marino]]'
-dv_Sub-region_Name: '[[Southern Europe]]'
+dv_Region_Name: "[[../../Europe|Europe]]"
+dv_Intermediate_Region_Name: "[[San_Marino]]"
+dv_Sub-region_Name: "[[Southern Europe]]"
 dv_Region: 150
 dv_Sub-region: 39
 dv_Geoname-ID: 3168068
@@ -185,14 +185,14 @@ dv_ISO2: SM
 dv_ISO3: SMR
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~San_Marino,238|WD~San_Marino,238]]'
-  - '[[/_Standards/Earth/Continent/Europe/Europe~South/San_Marino|San_Marino]]'
-  - '[[/_public/Earth/Continent/Europe/Europe~South/San_Marino.public|San_Marino.public]]'
-  - '[[/_internal/Earth/Continent/Europe/Europe~South/San_Marino.internal|San_Marino.internal]]'
-  - '[[/_protect/Earth/Continent/Europe/Europe~South/San_Marino.protect|San_Marino.protect]]'
-  - '[[/_private/Earth/Continent/Europe/Europe~South/San_Marino.private|San_Marino.private]]'
-  - '[[/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal|San_Marino.personal]]'
-  - '[[/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret|San_Marino.secret]]'
+    - "[[../../../../WikiData/WD~San_Marino,238|WD~San_Marino,238]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South/San_Marino|San_Marino]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South/San_Marino.public|San_Marino.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South/San_Marino.internal|San_Marino.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South/San_Marino.protect|San_Marino.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South/San_Marino.private|San_Marino.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal|San_Marino.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret|San_Marino.secret]]"
 dv_has_:
   name_:
     ab: Сан Марино
@@ -287,7 +287,7 @@ dv_has_:
     gom: सॅन मरिनो
     gom-deva: सॅन मरिनो
     gom_latn: San Marino
-    got: "\U00010345\U00010334\U00010339\U00010337\U00010330 \U0001033C\U00010330\U00010342\U00010334\U00010339\U0001033D\U0001033F\U00010343"
+    got: 𐍅𐌴𐌹𐌷𐌰 𐌼𐌰𐍂𐌴𐌹𐌽𐌿𐍃
     gpe: San Marino
     gsw: San Marino
     gu: સાન મૅરિનો
@@ -505,29 +505,29 @@ dv_has_:
 dv_has_name_de: San Marino
 dv_Area-Total: 61
 dv_Area-Land: 60
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: "[[../../Europe|Europe]]"
 dv_VehicleCode: RSM
-dv_Capital: '[[San_Marino]]'
+dv_Capital: "[[San_Marino]]"
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 12.45
 dv_has_place_latitude: 43.93
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~San_Marino,238|WD~San_Marino,238]]'
-- '[[/_Standards/Earth/Continent/Europe/Europe~South/San_Marino|San_Marino]]'
-- '[[/_public/Earth/Continent/Europe/Europe~South/San_Marino.public|San_Marino.public]]'
-- '[[/_internal/Earth/Continent/Europe/Europe~South/San_Marino.internal|San_Marino.internal]]'
-- '[[/_protect/Earth/Continent/Europe/Europe~South/San_Marino.protect|San_Marino.protect]]'
-- '[[/_private/Earth/Continent/Europe/Europe~South/San_Marino.private|San_Marino.private]]'
-- '[[/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal|San_Marino.personal]]'
-- '[[/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret|San_Marino.secret]]'
+  - "[[../../../../WikiData/WD~San_Marino,238|WD~San_Marino,238]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South/San_Marino|San_Marino]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South/San_Marino.public|San_Marino.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South/San_Marino.internal|San_Marino.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South/San_Marino.protect|San_Marino.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South/San_Marino.private|San_Marino.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal|San_Marino.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret|San_Marino.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-San_Marino
 Unicode_character: 🇸🇲
 ---
 
 # [[San_Marino]] 🇸🇲 
 
-
+## #has_/properties  
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -607,12 +607,37 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 ```leaflet
 id: San Marino
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./San_Marino/
 markerFolder: ./San_Marino//
+coordinates: [[San_Marino]] 
+markerFile: [[San_Marino]] 
 ```
+
+### #has_map_/topologic 
+
+```leaflet
+id: San_Marino_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./San_Marino//
+markerFolder: ./San_Marino/
+coordinates: [[San_Marino]] 
+markerFile: [[San_Marino]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 [has_name_en::San Marino]
 has_name_de = `=this.dv_has_name_de`

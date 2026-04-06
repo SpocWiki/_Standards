@@ -664,7 +664,11 @@ Unicode_character: 🇰🇮
 
 
 
-## [[Kiribati]] has Properties...
+## [[Kiribati]] 
+
+## #has_/properties 
+
+
 
 [[Kiribati]] is difficult for Mapping, because its many Islands range in Longitude from 172° across the [[../../../Geography/Cartography/Meridian/Anti-Meridian|Anti-Meridian]] to 210°. 
 

@@ -625,7 +625,7 @@ instance_of:
 - '[[_Standards/WikiData/WD~landlocked_country,123480|WD~landlocked_country,123480]]'
 - '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 - '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
-contains_the_administrative_territorial_entity:
+contains_the_administrative_Macedonia~Northtorial_entity:
 - '[[_Standards/WikiData/WD~Bitola_Municipality,159380|WD~Bitola_Municipality,159380]]'
 - '[[_Standards/WikiData/WD~Češinovo-Obleševo_Municipality,281898|WD~Češinovo-Obleševo_Municipality,281898]]'
 - '[[_Standards/WikiData/WD~Pehčevo_Municipality,426114|WD~Pehčevo_Municipality,426114]]'
@@ -1044,6 +1044,29 @@ markerFile: [[Macedonia~North]]
 geojsonFolder: ./Macedonia~North//
 markerFolder: ./Macedonia~North//
 ```
+
+
+### #has_map_/topologic 
+
+```leaflet
+id: Macedonia~North_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Macedonia~North//
+markerFolder: ./Macedonia~North/
+coordinates: [[Macedonia~North]] 
+markerFile: [[Macedonia~North]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 has_name_en = `=this.dv_has_name_en`
 has_name_de = `=this.dv_has_name_de`

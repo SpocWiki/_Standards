@@ -410,7 +410,11 @@ dv_has_:
 
 # [[Palestine]] 
 
-## [[Palestine]] has Properties...
+## [[Palestine]] 
+
+## #has_/properties 
+
+
 
 [	ISO4217-currency_alphabetic	 ::  ]
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

@@ -105,6 +105,10 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Europe/Europe~South/Gibraltar.secret|Gibraltar.secret]]"
 ---
 
+# [[Gibraltar]] 
+
+## #has_/properties  
+
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
 ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
@@ -183,6 +187,7 @@ has_place_country = `=this.dv_has_place_country`
 [Population::]
 [Unknown::]
 
+## #has_/map  
 
 ```leaflet
 id: Gibraltar
@@ -193,6 +198,30 @@ geojsonFolder: ./Gibraltar/
 markerFolder: ./Gibraltar/
 coordinates: [[Gibraltar]]
 ```
+
+
+### #has_map_/topologic 
+
+```leaflet
+id: Gibraltar_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Gibraltar//
+markerFolder: ./Gibraltar/
+coordinates: [[Gibraltar]] 
+markerFile: [[Gibraltar]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 [has_name_en::Gibraltar]
 has_name_de = `=this.dv_has_name_de`

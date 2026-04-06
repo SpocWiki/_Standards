@@ -407,7 +407,9 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Africa/Africa~Central/Burundi.secret|Burundi.secret]]"
 ---
 
-# [[Burundi]] 🇧🇮 has Properties... 
+# [[Burundi]] 🇧🇮
+## #has_/properties 
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

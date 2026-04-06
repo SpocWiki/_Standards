@@ -243,6 +243,28 @@ aliases:
 
 #is_/same_as :: [[_Standards/WikiData/WD~Irish_Sea,41735]] 
 
+## #has_map_/topologic 
+
+```leaflet
+id: Irish_Sea_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Irish_Sea//
+markerFolder: ./Irish_Sea/
+coordinates: [[Irish_Sea]] 
+markerFile: [[Irish_Sea]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 ## #has_/text_of_/abstract 
 
 > The Irish Sea is a 46,007 km2 (17,763 sq mi) body of water 

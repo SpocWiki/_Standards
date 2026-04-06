@@ -1173,7 +1173,6 @@ Unicode_character: 🇫🇮
 # [[Finland]] 🇫🇮 
 
 
-
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 see = `=this.dv_see`
@@ -1191,6 +1190,28 @@ coordinates: [[Finland]]
 markerFile: [[Finland]] 
 defaultZoom: 5 
 ```
+
+### #has_map_/topologic 
+
+```leaflet
+id: Finland_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Finland//
+markerFolder: ./Finland/
+coordinates: [[Finland]] 
+markerFile: [[Finland]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 
 ## #has_/parts  

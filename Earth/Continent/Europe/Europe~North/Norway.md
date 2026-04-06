@@ -1094,7 +1094,6 @@ Unicode_character: 🇳🇴
 # [[Norway]] 🇳🇴 
 
 
-
 is_a = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
@@ -1124,6 +1123,8 @@ with numbers as of 2022-06
 | [[Norway/Counties~Norway/Møre_og_Romsdal\|Møre og Romsdal]]                                                          |   265 | 15.104 |  145.277 |    546.770 | 0.963 | Fjords and mountains; maritime industries                                                                                                    |
 | [[Norway/Counties~Norway/Troms\|Troms]] og [[Norway/Counties~Norway/Finnmark\|Finnmark]]                             |   244 | 74.831 |  134.145 |    554.434 | 0.950 | Northernmost county; Arctic climate and indigenous Sami population                                                                           |
 | [[Norway/Counties~Norway/Nordland\|Nordland]]                                                                        |   239 | 38.456 |  131.210 |    546.093 | 0.950 | Long coastline; fisheries and aquaculture                                                                                                    |
+
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1204,6 +1205,30 @@ coordinates: [[Norway]]
 markerFile: [[Norway]] 
 defaultZoom: 5 
 ```
+
+
+### #has_map_/topologic 
+
+```leaflet
+id: Norway_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Norway//
+markerFolder: ./Norway/
+coordinates: [[Norway]] 
+markerFile: [[Norway]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 [has_name_en::Norway]
 has_name_de = `=this.dv_has_name_de`

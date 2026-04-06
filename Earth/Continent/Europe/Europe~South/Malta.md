@@ -794,7 +794,9 @@ icon: flag-mt
 Unicode_character: 🇲🇹
 ---
 
-# [[Malta]] 🇲🇹 has Properties... 
+# [[Malta]] 🇲🇹 
+
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -883,7 +885,30 @@ markerFile: [[Malta]]
 defaultZoom: 7 
 ```
 
-[has_name_en::Malta]
+
+### #has_map_/topologic 
+
+```leaflet
+id: Malta_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Malta//
+markerFolder: ./Malta/
+coordinates: [[Malta]] 
+markerFile: [[Malta]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+[has_name_en::Malta] 
 has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`

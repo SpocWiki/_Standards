@@ -1168,10 +1168,6 @@ Unicode_character: 🇬🇧
 
 # [[UK]] 🇬🇧 
 
-
-
-
-
 ## International Names
 
 has_name_en = `=this.dv_has_name_en`
@@ -1359,6 +1355,30 @@ maxZoom: 18
 geojsonFolder: ./UK//
 markerFolder: ./UK/City/
 ```
+
+
+### #has_map_/topologic 
+
+```leaflet
+id: UK_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./UK//
+markerFolder: ./UK/
+coordinates: [[UK]] 
+markerFile: [[UK]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 

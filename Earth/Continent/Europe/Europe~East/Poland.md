@@ -1160,6 +1160,28 @@ markerFile: [[Poland]]
 defaultZoom: 5 
 ```
 
+### #has_map_/topologic 
+
+```leaflet
+id: Poland_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Poland//
+markerFolder: ./Poland/
+coordinates: [[Poland]] 
+markerFile: [[Poland]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 ## International Names
 
 name = `=this.dv_has_name`

@@ -106,6 +106,30 @@ dv_is_same_as:
 # [[Åland-Islands]] 
 
 
+## #has_map_/topologic 
+
+```leaflet
+id: Spain_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Spain//
+markerFolder: ./Spain/
+coordinates: [[Spain]] 
+markerFile: [[Spain]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+## #has_/properties 
+
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
 ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
@@ -202,6 +226,8 @@ independent = `=this.dv_independent`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
+
+
 
 
 ## Confidential Links & Embeds: 

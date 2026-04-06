@@ -963,7 +963,11 @@ Unicode_character: 🇹🇼
 
 
 
-## [[Taiwan]] has Properties...
+## [[Taiwan]] 
+
+## #has_/properties 
+
+
 
 is_a = `=this.dv_is_a_`
 [	ISO4217-currency_name	 ::  ]

@@ -1177,7 +1177,9 @@ darkMode: false
 
 has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
-## [[Austria]] has Properties... 
+## [[Austria]]
+## #has_/properties 
+
 
 has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

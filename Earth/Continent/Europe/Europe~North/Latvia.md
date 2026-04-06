@@ -1023,7 +1023,10 @@ icon: flag-lv
 Unicode_character: 🇱🇻
 ---
 
-# [[Latvia]] 🇱🇻  has Properties... 
+# [[Latvia]] 🇱🇻 
+
+## #has_/properties 
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
@@ -1112,7 +1115,31 @@ markerFile: [[Latvia]]
 defaultZoom: 5 
 ```
 
-[has_name_en::Latvia]
+
+### #has_map_/topologic 
+
+```leaflet
+id: Latvia_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Latvia//
+markerFolder: ./Latvia/
+coordinates: [[Latvia]] 
+markerFile: [[Latvia]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
+[has_name_en::Latvia] 
 has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`

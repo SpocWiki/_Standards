@@ -1065,7 +1065,11 @@ Unicode_character: 🇮🇱
 
 # [[Israel]] 🇮🇱 
 
-## has Properties...
+## 
+
+## #has_/properties 
+
+
 
 has_time_started = `=this.dv_has_time_started`
 

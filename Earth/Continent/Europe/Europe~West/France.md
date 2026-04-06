@@ -1487,7 +1487,9 @@ has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
 
 has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
-## [[France]] has Properties... 
+## [[France]]
+## #has_/properties 
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

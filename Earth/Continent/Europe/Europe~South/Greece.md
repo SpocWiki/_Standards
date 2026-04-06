@@ -775,7 +775,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
 - '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
 - '[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
-- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Greeced,36|WD~Poland,36]]'
 - '[[_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
 - '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
 - '[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
@@ -1096,7 +1096,9 @@ WIPO_ST_3: GR
 Unicode_character: 🇬🇷
 ---
 
-# [[Greece]] 🇬🇷 has Properties... 
+# [[Greece]] 🇬🇷 
+
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1190,6 +1192,28 @@ markerFolder: ./Greece////
 coordinates: [[Greece]] 
 markerFile: [[Greece]] 
 defaultZoom: 6 
+```
+
+
+### #has_map_/topologic 
+
+```leaflet
+id: Greece_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Greece//
+markerFolder: ./Greece/
+coordinates: [[Greece]] 
+markerFile: [[Greece]] 
+unit: px
+scale: 1
+darkMode: false
 ```
 
 

@@ -880,7 +880,10 @@ Krugosvet_article: strany_mira/MOLDAVIYA.html
 Unicode_character: 🇲🇩
 ---
 
-# [[Moldova]] 🇲🇩 has Properties... 
+# [[Moldova]] 🇲🇩 
+
+## #has_/properties 
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -966,8 +969,30 @@ geojsonFolder: ./Moldova//
 markerFolder: ./Moldova//
 coordinates: [[Moldova]] 
 markerFile: [[Moldova]] 
-defaultZoom: 11 
+defaultZoom: 7 
 ```
+
+### #has_map_/topologic 
+
+```leaflet
+id: Moldova_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 7
+geojsonFolder: ./Moldova//
+markerFolder: ./Moldova/
+coordinates: [[Moldova]] 
+markerFile: [[Moldova]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Moldova]
 has_name_de = `=this.dv_has_name_de`

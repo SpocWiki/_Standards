@@ -797,7 +797,11 @@ Unicode_character: 🇲🇻
 
 
 
-## [[Maldives]] has Properties...
+## [[Maldives]] 
+
+## #has_/properties 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

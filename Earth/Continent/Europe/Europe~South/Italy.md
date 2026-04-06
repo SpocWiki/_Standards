@@ -1175,8 +1175,6 @@ Unicode_character: 🇮🇹
 
 # [[Italy]] 🇮🇹 
 
-
-
 ## International Names
 
 #has_/name_ = 
@@ -1215,6 +1213,29 @@ coordinates: [[Italy]]
 markerFile: [[Italy]] 
 defaultZoom: 5 
 ```
+
+
+### #has_map_/topologic 
+
+```leaflet
+id: Italy_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Italy//
+markerFolder: ./Italy/
+coordinates: [[Italy]] 
+markerFile: [[Italy]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 ## #has_/parts 
 
@@ -1363,7 +1384,9 @@ has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
 has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
 
-## [[Italy]] has Properties... 
+## [[Italy]]
+## #has_/properties 
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

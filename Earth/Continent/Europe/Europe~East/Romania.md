@@ -976,7 +976,9 @@ WIPO_ST_3: RO
 Unicode_character: 🇷🇴
 ---
 
-# [[Romania]] 🇷🇴 has Properties...
+# [[Romania]] 🇷🇴 
+
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1065,6 +1067,28 @@ coordinates: [[Romania]]
 markerFile: [[Romania]] 
 defaultZoom: 5 
 ```
+
+### #has_map_/topologic 
+
+```leaflet
+id: Romania_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Romania//
+markerFolder: ./Romania/
+coordinates: [[Romania]] 
+markerFile: [[Romania]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Romania]
 has_name_de = `=this.dv_has_name_de`

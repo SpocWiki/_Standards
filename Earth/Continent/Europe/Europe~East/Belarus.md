@@ -987,7 +987,9 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Belarus,7112199|WD~outli
 WIPO_ST_3: BY
 ---
 
-# [[Belarus]] 🇧🇾 has Properties... 
+# [[Belarus]] 🇧🇾 
+
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1076,7 +1078,29 @@ markerFile: [[Belarus]]
 defaultZoom: 5 
 ```
 
-[has_name_en::Belarus]
+### #has_map_/topologic 
+
+```leaflet
+id: Belarus_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Belarus//
+markerFolder: ./Belarus/
+coordinates: [[Belarus]] 
+markerFile: [[Belarus]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+[has_name_en::Belarus] 
 has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
