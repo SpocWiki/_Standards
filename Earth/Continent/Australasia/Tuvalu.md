@@ -717,21 +717,23 @@ markerFolder: ./Tuvalu/
 
 ```leaflet
 id: Tuvalu_Topological
-
-image: [[/_public/xLarge.public/Earth/Earth-Topological.png]]  
-bounds: [[-90, -180],[90, 180]]
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
 width: 100%
-minZoom: 0
-maxZoom: 6
-defaultZoom: 2
-
-geojsonFolder: ./Tuvalu/
+minZoom: 2
+maxZoom: 8
+defaultZoom: 3
+geojsonFolder: ./Tuvalu//
 markerFolder: ./Tuvalu/
 coordinates: [[Tuvalu]] 
 markerFile: [[Tuvalu]] 
-
+unit: px
+scale: 1
 darkMode: false
 ```
+
 
 
 [has_name_en::Tuvalu] 
