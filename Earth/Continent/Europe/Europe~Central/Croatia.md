@@ -970,9 +970,13 @@ Unicode_character: 🇭🇷
 
 # [[Croatia]] 🇭🇷 
 
+<<<<<<< Updated upstream
 ## #has_/properties 
 
 
+=======
+## [[Croatia]] has Properties 
+>>>>>>> Stashed changes
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
