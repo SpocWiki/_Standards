@@ -109,7 +109,8 @@ has_time_stopped = `=this.dv_has_time_stopped`
 
 ## #has_/text_of_/abstract 
 
-> **Qian Xuesen** (Chinese: 钱学森; December 11, 1911 – October 31, 2009; also spelled as Tsien Hsue-shen) 
+> **Qian Xuesen** (Chinese: 钱学森; December 11, 1911 – October 31, 2009; 
+> also spelled as Tsien Hsue-shen) 
 > was a Chinese aerospace engineer and cyberneticist 
 > who made significant contributions to the field of aerodynamics and established engineering cybernetics. 
 > 

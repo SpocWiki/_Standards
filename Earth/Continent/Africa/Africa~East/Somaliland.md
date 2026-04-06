@@ -288,7 +288,10 @@ dv_has_:
     zh_tw: 索馬利蘭
     zu: ISomaliland
 ---
-# Somaliland
+# [[Somaliland]]
+
+
+## #has_/map 
 
 ```leaflet
 id: Somaliland
@@ -302,6 +305,28 @@ coordinates: [[Somaliland]]
 markerFile: [[Somaliland]] 
 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Somaliland_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Somaliland//
+markerFolder: ./Somaliland/
+coordinates: [[Somaliland]] 
+markerFile: [[Somaliland]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 
 ## #has_/text_of_/abstract 

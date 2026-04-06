@@ -794,8 +794,6 @@ U_S_National_Archives_Identifier: 10046225
 
 ## #has_/properties 
 
-
-
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
 ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
@@ -885,24 +883,7 @@ markerFile: [[Bahrain]]
 defaultZoom: 7 
 ```
 
-[has_name_en::Bahrain]
-has_name_de = `=this.dv_has_name_de`
-Area-Total = `=this.dv_Area-Total`
-Area-Land = `=this.dv_Area-Land`
-has_place_continent = `=this.dv_has_place_continent`
-VehicleCode = `=this.dv_VehicleCode`
-Capital = `=this.dv_Capital`
-![[Bahrain/Emblem_of_Bahrain.svg|350]]  
-
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bahrain.mp3|Anthem-Bahrain.mp3]]
-![[Bahrain/Flag_of_Bahrain.svg|350]]  
-
-Alcohol-l = `=this.dv_Alcohol-l`
-Language-Id = `=this.dv_Language-Id`
-
- is_a = `=this.dv_is_a_`
-has_place_longitude = `=this.dv_has_place_longitude` 
-has_place_latitude = `=this.dv_has_place_latitude` 
+### #has_/map_/topologic 
 
 ```leaflet
 id: Bahrain_Topological
@@ -922,6 +903,25 @@ unit: px
 scale: 1
 darkMode: false
 ```
+
+[has_name_en::Bahrain]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+![[Bahrain/Emblem_of_Bahrain.svg|350]]  
+
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bahrain.mp3|Anthem-Bahrain.mp3]]
+![[Bahrain/Flag_of_Bahrain.svg|350]]  
+
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+
+ is_a = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 

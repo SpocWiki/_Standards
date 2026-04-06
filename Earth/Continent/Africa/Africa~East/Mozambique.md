@@ -835,12 +835,12 @@ Unicode_character: 🇲🇿
 
 # [[Mozambique]] 🇲🇿 
 
-
-
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Earth/Continent/Africa/Africa~East/Mozambique/ReadMe|ReadMe]] 
+
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -919,7 +919,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Mozambique//
 markerFolder: ./Mozambique//
+coordinates: [[Mozambique]] 
+markerFile: [[Mozambique]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Mozambique_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 4
+geojsonFolder: ./Mozambique//
+markerFolder: ./Mozambique/
+coordinates: [[Mozambique]] 
+markerFile: [[Mozambique]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Mozambique]
 has_name_de = `=this.dv_has_name_de`

@@ -763,7 +763,7 @@ Unicode_character: 🇳🇮
 
 # [[Nicaragua]] 🇳🇮 
 
-
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -852,6 +852,28 @@ markerFile: [[Nicaragua]]
 geojsonFolder: ./Nicaragua//
 markerFolder: ./Nicaragua/
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Nicaragua_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Nicaragua//
+markerFolder: ./Nicaragua/
+coordinates: [[Nicaragua]] 
+markerFile: [[Nicaragua]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Nicaragua]
 has_name_de = `=this.dv_has_name_de`

@@ -1747,6 +1747,29 @@ zoomFeatures: true
 defaultZoom: 4 
 ```
 
+### #has_/map_/topologic 
+
+```leaflet
+id: China_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./China//
+markerFolder: ./China/
+coordinates: [[China]] 
+markerFile: [[China]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
 [has_name_en::China]
 has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`

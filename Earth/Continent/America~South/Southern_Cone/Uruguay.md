@@ -886,7 +886,7 @@ Unicode_character: 🇺🇾
 
 # [[Uruguay]] 🇺🇾 
 
-
+## #has_/properties 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
@@ -964,8 +964,6 @@ ISO3 = `=this.dv_ISO3`
 
 ## #has_/map  
 
-
-
 ```leaflet
 id: Uruguay
 zoomFeatures: true 
@@ -973,7 +971,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Uruguay//
 markerFolder: ./Uruguay/
+coordinates: [[Uruguay]] 
+markerFile: [[Uruguay]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Uruguay_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 4
+geojsonFolder: ./Uruguay//
+markerFolder: ./Uruguay/
+coordinates: [[Uruguay]] 
+markerFile: [[Uruguay]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Uruguay]
 has_name_de = `=this.dv_has_name_de`

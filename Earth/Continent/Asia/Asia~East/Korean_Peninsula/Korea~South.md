@@ -1018,8 +1018,6 @@ Unicode_character: 🇰🇷
 
 # [[Korea~South]] 🇰🇷 
 
-
-
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
@@ -1043,6 +1041,28 @@ coordinates: [[Korea~South]]
 markerFile: [[Korea~South]] 
 defaultZoom: 6 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Korea~South_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Korea~South//
+markerFolder: ./Korea~South/
+coordinates: [[Korea~South]] 
+markerFile: [[Korea~South]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 has_name_en = `=this.dv_has_name_en`
 has_name_de = `=this.dv_has_name_de`

@@ -628,7 +628,7 @@ Unicode_character: 🇹🇻
 
 # [[Tuvalu]] 🇹🇻 
 
-
+## #has_/properties  
 
 is_part_of = `=this.dv_is_part_of`
 
@@ -704,8 +704,6 @@ is_a = `=this.dv_is_a_`
 
 ## #has_/map  
 
-
-
 ```leaflet
 id: Tuvalu
 zoomFeatures: true 
@@ -714,6 +712,29 @@ maxZoom: 18
 geojsonFolder: ./Tuvalu/
 markerFolder: ./Tuvalu/
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Tuvalu_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 3
+geojsonFolder: ./Tuvalu//
+markerFolder: ./Tuvalu/
+coordinates: [[Tuvalu]] 
+markerFile: [[Tuvalu]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 [has_name_en::Tuvalu] 
 has_name_de = `=this.dv_has_name_de` 

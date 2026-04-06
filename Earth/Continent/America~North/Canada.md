@@ -1224,7 +1224,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Canada//
 markerFolder: ./Canada/
+coordinates: [[Canada]] 
+markerFile: [[Canada]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Canada_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 4
+geojsonFolder: ./Canada//
+markerFolder: ./Canada/
+coordinates: [[Canada]] 
+markerFile: [[Canada]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 ## Metadata 
 

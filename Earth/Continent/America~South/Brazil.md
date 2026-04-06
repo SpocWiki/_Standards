@@ -1311,6 +1311,8 @@ Unicode_character: 🇧🇷
 
 # [[Brazil]] 🇧🇷 
 
+## #has_/properties 
+
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
 ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
@@ -1389,7 +1391,6 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 ## #has_/map  
 
-
 ```leaflet
 id: Brazil
 zoomFeatures: true 
@@ -1397,7 +1398,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Brazil//
 markerFolder: ./Brazil/
+coordinates: [[Brazil]] 
+markerFile: [[Brazil]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Brazil_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 3
+geojsonFolder: ./Brazil//
+markerFolder: ./Brazil/
+coordinates: [[Brazil]] 
+markerFile: [[Brazil]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Brazil]
 has_name_de = `=this.dv_has_name_de`

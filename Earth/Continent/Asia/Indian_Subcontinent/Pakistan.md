@@ -516,7 +516,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Oman,842|WD~Oman,842]]'
 - '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
 - '[[_Standards/WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]'
-- '[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]'
+- '[[_Standards/WikiData/WD~Pakistana,858|WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Tajikistan,863|WD~Tajikistan,863]]'
 - '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]'
@@ -973,7 +973,8 @@ icon: flag-pk
 Unicode_character: 🇵🇰
 ---
 
-# [[Pakistan]] 🇵🇰
+# [[Pakistan]] 🇵🇰 
+
 ## #has_/properties 
 
 
@@ -1063,6 +1064,29 @@ coordinates: [[Pakistan]]
 markerFile: [[Pakistan]] 
 defaultZoom: 5 
 ```
+
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Pakistan_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Pakistan//
+markerFolder: ./Pakistan/
+coordinates: [[Pakistan]] 
+markerFile: [[Pakistan]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Pakistan]
 has_name_de = `=this.dv_has_name_de`

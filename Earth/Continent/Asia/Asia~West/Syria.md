@@ -849,8 +849,7 @@ Unicode_character: 🇸🇾
 
 # [[Syria]] 🇸🇾 
 
-
-## [[Syria]] 
+## #has_/properties  
 
 ## #has_/properties 
 

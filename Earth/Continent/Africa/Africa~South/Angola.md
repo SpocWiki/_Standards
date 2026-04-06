@@ -848,6 +848,7 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Angola/ReadMe|ReadMe]] 
 
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -912,18 +913,44 @@ Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
 
 ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-
-
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`
+
+## #has_/map 
+
 ```leaflet
 id: Angola
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 3 
 maxZoom: 18
+defaultZoom: 5
 geojsonFolder: ./Angola//
 markerFolder: ./Angola//
+coordinates: [[Angola]] 
+markerFile: [[Angola]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Angola_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Angola//
+markerFolder: ./Angola/
+coordinates: [[Angola]] 
+markerFile: [[Angola]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Angola]
 has_name_de = `=this.dv_has_name_de`

@@ -1014,8 +1014,6 @@ X_Twitter_username:
 
 ## #has_/properties 
 
-
-
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
 ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
@@ -1103,6 +1101,28 @@ coordinates: [[Afghanistan]]
 markerFile: [[Afghanistan]] 
 defaultZoom: 5 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Afghanistan_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Afghanistan//
+markerFolder: ./Afghanistan/
+coordinates: [[Afghanistan]] 
+markerFile: [[Afghanistan]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Afghanistan]
 has_name_de = `=this.dv_has_name_de`

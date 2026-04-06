@@ -902,6 +902,28 @@ markerFile: [[Sudan~South]]
 defaultZoom: 5 
 ```
 
+### #has_/map_/topologic 
+
+```leaflet
+id: Sudan~South_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Sudan~South//
+markerFolder: ./Sudan~South/
+coordinates: [[Sudan~South]] 
+markerFile: [[Sudan~South]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`

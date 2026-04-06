@@ -105,6 +105,8 @@ aliases:
   - ꠛꠥꠞꠇꠤꠘꠣ ꠙꠣꠌꠅ
   - ꯕꯨꯔꯀꯤꯅꯥ ꯐꯥꯁꯣ
   - 부르키나파소
+  - Obervolta
+  - Upper Volta
 has_id_wikidata: Q965
 highest_point: "[[_Standards/WikiData/WD~Mount_Tenakourou,116675|WD~Mount_Tenakourou,116675]]"
 instance_of:
@@ -868,6 +870,7 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Burkina_Faso/ReadMe|ReadMe]] 
 
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -932,10 +935,11 @@ Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
 
 ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-
-
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`
+
+## #has_/map 
+
 ```leaflet
 id: Burkina Faso
 zoomFeatures: true 
@@ -943,7 +947,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Burkina_Faso//
 markerFolder: ./Burkina_Faso//
+coordinates: [[Burkina_Faso]] 
+markerFile: [[Burkina_Faso]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Burkina_Faso_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Burkina_Faso//
+markerFolder: ./Burkina_Faso/
+coordinates: [[Burkina_Faso]] 
+markerFile: [[Burkina_Faso]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Burkina Faso]
 has_name_de = `=this.dv_has_name_de`
@@ -966,9 +994,22 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ## #has_/text_of_/abstract 
 
-> **Burkina Faso** is a landlocked country in West Africa, bordered by Mali to the northwest, Niger to the northeast, Benin to the southeast, Togo and Ghana to the south, and Ivory Coast to the southwest. It covers an area of 274,223 km2 (105,878 sq mi). In 2021, the country had an estimated population of approximately 23,674,480. Previously called the Republic of Upper Volta (1958–1984), it was renamed Burkina Faso by former president Thomas Sankara. Its citizens are known as Burkinabè, and its capital and largest city is Ouagadougou.
+> **Burkina Faso** is a landlocked country in West Africa, bordered by 
+> - Mali to the northwest, 
+> - Niger to the northeast, 
+> - Benin to the southeast, 
+> - Togo and Ghana to the south, and 
+> - Ivory Coast to the southwest. 
+> 
+> It covers an area of 274,223 km2 (105,878 sq mi). 
+> In 2021, the country had an estimated population of approximately 23,674,480. 
+> Previously called the Republic of Upper Volta (1958–1984), 
+> it was renamed Burkina Faso by former president Thomas Sankara. 
+> Its citizens are known as Burkinabè, and its capital and largest city is Ouagadougou.
 >
-> The largest ethnic group in Burkina Faso is the Mossi people, who settled the area in the 11th and 13th centuries. They established powerful kingdoms such as the Ouagadougou, Tenkodogo, and Yatenga. In 1896, it was colonized by the French as part of French West Africa; in 1958, Upper Volta became a self-governing colony within the French Community. In 1960, it gained full independence with Maurice Yaméogo as president. Since it gained its independence, the country has been subject to instability, droughts, famines and corruption. There have also been various coups, in 1966, 1980, 1982, 1983, 1987, and twice in 2022 (January and September). There were also unsuccessful coup attempts in 1989, 2015, and 2023.
+> The largest ethnic group in Burkina Faso is the Mossi people, 
+> who settled the area in the 11th and 13th centuries. 
+> They established powerful kingdoms such as the Ouagadougou, Tenkodogo, and Yatenga. In 1896, it was colonized by the French as part of French West Africa; in 1958, Upper Volta became a self-governing colony within the French Community. In 1960, it gained full independence with Maurice Yaméogo as president. Since it gained its independence, the country has been subject to instability, droughts, famines and corruption. There have also been various coups, in 1966, 1980, 1982, 1983, 1987, and twice in 2022 (January and September). There were also unsuccessful coup attempts in 1989, 2015, and 2023.
 >
 > Thomas Sankara came to power following a successful coup in 1983. As president, Sankara embarked on a series of ambitious socioeconomic reforms which included a nationwide literacy campaign, land redistribution to peasants, vaccinations for over 2 million children, railway and road construction, equalized access to education, and the outlawing of female genital mutilation, forced marriages, and polygamy. He served as the country's president until 1987 when he was deposed and assassinated in a coup led by Blaise Compaoré, who became president and ruled the country until his removal on 31 October 2014.
 >

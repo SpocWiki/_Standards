@@ -909,8 +909,8 @@ Unicode_character: 🇳🇵
 
 # [[Nepal]] 🇳🇵 
 
-## #has_/properties 
 
+## #has_/properties 
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
@@ -1001,6 +1001,30 @@ markerFile: [[Nepal]]
 defaultZoom: 6  
 ```
 
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Nepal_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Nepal//
+markerFolder: ./Nepal/
+coordinates: [[Nepal]] 
+markerFile: [[Nepal]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
 [has_name_en::Nepal]
 has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
@@ -1050,3 +1074,4 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal.secret|Nepal.secret]] 
 
+Nepal

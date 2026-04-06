@@ -110,11 +110,12 @@ dv_is_same_as:
 
 # [[French_Guiana]] 
 
+## #has_/properties  
+
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[French_Guiana/ReadMe|ReadMe]] 
-
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -186,8 +187,6 @@ ISO3 = `=this.dv_ISO3`
 
 ## #has_/map  
 
-
-
 ```leaflet
 id: French Guiana
 zoomFeatures: true 
@@ -195,7 +194,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./French_Guiana/
 markerFolder: ./French_Guiana/
+coordinates: [[French_Guiana]] 
+markerFile: [[French_Guiana]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: French_Guiana_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./French_Guiana//
+markerFolder: ./French_Guiana/
+coordinates: [[French_Guiana]] 
+markerFile: [[French_Guiana]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::French Guiana]
 has_name_de = `=this.dv_has_name_de`

@@ -378,6 +378,28 @@ coordinates: [[Lake_Victoria]]
 markerFile: [[Lake_Victoria]] 
 ```
 
+### #has_/map_/topologic 
+
+```leaflet
+id: Lake_Victoria_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Lake_Victoria//
+markerFolder: ./Lake_Victoria/
+coordinates: [[Lake_Victoria]] 
+markerFile: [[Lake_Victoria]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 ## #has_/text_of_/abstract 
 

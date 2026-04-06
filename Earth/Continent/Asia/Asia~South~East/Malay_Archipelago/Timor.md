@@ -47,6 +47,9 @@ highest_point: '[[_Standards/WikiData/WD~Tatamailau,1539961|WD~Tatamailau,153996
 part_of:
 - '[[_Standards/WikiData/WD~Timor_archipelago,15060436|WD~Timor_archipelago,15060436]]'
 - '[[_Standards/WikiData/WD~Lesser_Sunda_Islands,3803|WD~Lesser_Sunda_Islands,3803]]'
+location:
+- -9.083333333
+- 125.083333333
 coordinate_location:
 - Point(125.083333333 -9.083333333)
 - Point(124.354636111 -9.712225)
@@ -255,6 +258,28 @@ markerFolder: ./Timor//
 coordinates: [[Timor]] 
 markerFile: [[Timor]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Timor_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Timor//
+markerFolder: ./Timor/
+coordinates: [[Timor]] 
+markerFile: [[Timor]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 
 ## #has_/text_of_/abstract 

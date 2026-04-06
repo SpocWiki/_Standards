@@ -938,7 +938,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Cote_d'ivoire//
 markerFolder: ./Cote_d'ivoire//
+coordinates: [[Cote_d'ivoire]] 
+markerFile: [[Cote_d'ivoire]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Cote_d'ivoire_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Cote_d'ivoire//
+markerFolder: ./Cote_d'ivoire/
+coordinates: [[Cote_d'ivoire]] 
+markerFile: [[Cote_d'ivoire]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 has_name_en = `=this.dv_has_name_en`
 has_name_de = `=this.dv_has_name_de`

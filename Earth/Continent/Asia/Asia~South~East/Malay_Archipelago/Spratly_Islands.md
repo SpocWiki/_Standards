@@ -55,6 +55,28 @@ geojsonFolder: ./Spratly_Islands/
 markerFolder: ./Spratly_Islands/
 ```
 
+### #has_/map_/topologic 
+
+```leaflet
+id: Spratly_Islands_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Spratly_Islands//
+markerFolder: ./Spratly_Islands/
+coordinates: [[Spratly_Islands]] 
+markerFile: [[Spratly_Islands]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 ## Confidential Links & Embeds: 
 

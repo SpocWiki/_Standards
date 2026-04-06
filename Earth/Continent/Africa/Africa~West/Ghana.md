@@ -816,7 +816,7 @@ Unicode_character: 🇬🇭
 
 # [[Ghana]] 🇬🇭 
 
-
+## #has_/properties 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
@@ -887,10 +887,11 @@ developed_developing_countries = `=this.dv_developed_developing_countries`
 
 ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-
-
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`
+
+## #has_/map 
+
 ```leaflet
 id: Ghana
 zoomFeatures: true 
@@ -898,7 +899,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Ghana//
 markerFolder: ./Ghana//
+coordinates: [[Ghana]] 
+markerFile: [[Ghana]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Ghana_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Ghana//
+markerFolder: ./Ghana/
+coordinates: [[Ghana]] 
+markerFile: [[Ghana]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Ghana]
 has_name_de = `=this.dv_has_name_de`

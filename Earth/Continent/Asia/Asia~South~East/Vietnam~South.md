@@ -46,7 +46,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Vietnam~South/
 markerFolder: ./Vietnam~South/
+coordinates: [[Vietnam~South]] 
+markerFile: [[Vietnam~South]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Vietnam~South_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Vietnam~South//
+markerFolder: ./Vietnam~South/
+coordinates: [[Vietnam~South]] 
+markerFile: [[Vietnam~South]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 has_name_en = `=this.dv_has_name_en`
 has_name_de = `=this.dv_has_name_de`

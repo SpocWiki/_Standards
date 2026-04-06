@@ -389,8 +389,6 @@ Unicode_character: 🇵🇲
 
 # [[Saint-Pierre-et-Miquelon]] 🇵🇲 
 
-
-
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -410,7 +408,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Saint-Pierre-et-Miquelon//
 markerFolder: ./Saint-Pierre-et-Miquelon///
+coordinates: [[Saint-Pierre-et-Miquelon]] 
+markerFile: [[Saint-Pierre-et-Miquelon]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Saint-Pierre-et-Miquelon_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Saint-Pierre-et-Miquelon//
+markerFolder: ./Saint-Pierre-et-Miquelon/
+coordinates: [[Saint-Pierre-et-Miquelon]] 
+markerFile: [[Saint-Pierre-et-Miquelon]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 has_name_en = `=this.dv_has_name_en`
 has_name_de = `=this.dv_has_name_de`

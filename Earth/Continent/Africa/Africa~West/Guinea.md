@@ -812,7 +812,7 @@ Unicode_character: 🇬🇳
 
 # [[Guinea]] 🇬🇳 
 
-
+## #has_/properties 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
@@ -896,7 +896,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Guinea//
 markerFolder: ./Guinea//
+coordinates: [[Guinea]] 
+markerFile: [[Guinea]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Guinea_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Guinea//
+markerFolder: ./Guinea/
+coordinates: [[Guinea]] 
+markerFile: [[Guinea]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Guinea]
 has_name_de = `=this.dv_has_name_de`

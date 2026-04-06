@@ -837,11 +837,12 @@ dv_is_same_as:
 
 # [[Cape_Verde]] 🇨🇻 
 
+## #has_/properties 
+
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Cape_Verde/ReadMe|ReadMe]] 
-
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -920,7 +921,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Cape_Verde//
 markerFolder: ./Cape_Verde//
+coordinates: [[Cape_Verde]] 
+markerFile: [[Cape_Verde]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Cape_Verde_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Cape_Verde//
+markerFolder: ./Cape_Verde/
+coordinates: [[Cape_Verde]] 
+markerFile: [[Cape_Verde]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Cape Verde]
 has_name_de = `=this.dv_has_name_de`

@@ -923,7 +923,7 @@ Unicode_character: 🇪🇨
 
 # [[Ecuador]] 🇪🇨 
 
-
+## #has_/properties 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
@@ -1000,8 +1000,6 @@ ISO3 = `=this.dv_ISO3`
 
 ## #has_/map  
 
-
-
 ```leaflet
 id: Ecuador
 zoomFeatures: true 
@@ -1009,7 +1007,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Ecuador//
 markerFolder: ./Ecuador/
+coordinates: [[Ecuador]] 
+markerFile: [[Ecuador]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Ecuador_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Ecuador//
+markerFolder: ./Ecuador/
+coordinates: [[Ecuador]] 
+markerFile: [[Ecuador]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Ecuador]
 has_name_de = `=this.dv_has_name_de`

@@ -1058,9 +1058,7 @@ Unicode_character: 🇦🇪
 
 # [[United_Arab_Emirates]] 🇦🇪 
 
-
-
-## [[United_Arab_Emirates]] has Property...
+## #has_/properties  
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1149,6 +1147,29 @@ coordinates: [[United_Arab_Emirates]]
 markerFile: [[United_Arab_Emirates]] 
 defaultZoom: 6 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: United_Arab_Emirates_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./United_Arab_Emirates//
+markerFolder: ./United_Arab_Emirates/
+coordinates: [[United_Arab_Emirates]] 
+markerFile: [[United_Arab_Emirates]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 [has_name_en::United Arab Emirates]
 has_name_de = `=this.dv_has_name_de`

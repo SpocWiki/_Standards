@@ -910,6 +910,7 @@ Unicode_character: 🇹🇳
 
 # [[Tunisia]] 🇹🇳 
 
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -997,6 +998,28 @@ coordinates: [[Tunisia]]
 markerFile: [[Tunisia]] 
 defaultZoom: 5 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Tunisia_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Tunisia//
+markerFolder: ./Tunisia/
+coordinates: [[Tunisia]] 
+markerFile: [[Tunisia]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Tunisia]
 has_name_de = `=this.dv_has_name_de`

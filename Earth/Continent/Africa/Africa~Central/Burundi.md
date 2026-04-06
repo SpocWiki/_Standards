@@ -407,7 +407,8 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Africa/Africa~Central/Burundi.secret|Burundi.secret]]"
 ---
 
-# [[Burundi]] 🇧🇮
+# [[Burundi]] 🇧🇮 
+
 ## #has_/properties 
 
 
@@ -495,7 +496,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Burundi//
 markerFolder: ./Burundi//
+coordinates: [[Burundi]] 
+markerFile: [[Burundi]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Burundi_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Burundi//
+markerFolder: ./Burundi/
+coordinates: [[Burundi]] 
+markerFile: [[Burundi]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 ![[Coat_of_arms_of_Burundi.svg|350]]
 

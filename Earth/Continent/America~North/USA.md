@@ -1540,6 +1540,28 @@ markerFile: [[USA]]
 defaultZoom: 3 
 ```
 
+### #has_/map_/topologic 
+
+```leaflet
+id: USA_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 3
+geojsonFolder: ./USA//
+markerFolder: ./USA/
+coordinates: [[USA]] 
+markerFile: [[USA]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 has_telephone_prefix_international = `=this.dv_has_telephone_prefix_international`
 has_telephone_prefix_country = `=this.dv_has_telephone_prefix_country`
 

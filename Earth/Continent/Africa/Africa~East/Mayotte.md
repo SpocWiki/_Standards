@@ -107,6 +107,8 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Mayotte/ReadMe|ReadMe]] 
 
+## #has_/properties 
+
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
 ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
@@ -170,10 +172,11 @@ developed_developing_countries = `=this.dv_developed_developing_countries`
 
 ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-
-
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`
+
+## #has_/map 
+
 ```leaflet
 id: Mayotte
 zoomFeatures: true 
@@ -181,7 +184,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Mayotte//
 markerFolder: ./Mayotte//
+coordinates: [[Mayotte]] 
+markerFile: [[Mayotte]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Mayotte_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Mayotte//
+markerFolder: ./Mayotte/
+coordinates: [[Mayotte]] 
+markerFile: [[Mayotte]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Mayotte]
 has_name_de = `=this.dv_has_name_de`

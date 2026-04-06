@@ -634,7 +634,7 @@ Unicode_character: 🇦🇿
 
 # [[Azerbaijan]] 🇦🇿 
 
-
+## #has_/properties 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
@@ -712,7 +712,6 @@ is_a = `=this.dv_is_a_`
 
 ## #has_/map 
 
-
 ```leaflet
 id: Azerbaijan
 zoomFeatures: true 
@@ -720,7 +719,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Azerbaijan///
 markerFolder: ./Azerbaijan/
+coordinates: [[Azerbaijan]] 
+markerFile: [[Azerbaijan]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Azerbaijan_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Azerbaijan//
+markerFolder: ./Azerbaijan/
+coordinates: [[Azerbaijan]] 
+markerFile: [[Azerbaijan]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Azerbaijan]
 has_name_de = `=this.dv_has_name_de`

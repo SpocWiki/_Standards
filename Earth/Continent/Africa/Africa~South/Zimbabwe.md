@@ -820,7 +820,7 @@ Unicode_character: 🇿🇼
 
 # [[Zimbabwe]] 🇿🇼 
 
-
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -904,7 +904,33 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Zimbabwe//
 markerFolder: ./Zimbabwe//
+coordinates: [[Zimbabwe]] 
+markerFile: [[Zimbabwe]] 
 ```
+
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Zimbabwe_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Zimbabwe//
+markerFolder: ./Zimbabwe/
+coordinates: [[Zimbabwe]] 
+markerFile: [[Zimbabwe]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 [has_name_en::Zimbabwe]
 has_name_de = `=this.dv_has_name_de`

@@ -791,7 +791,8 @@ Languages:
 icon: flag-bt
 ---
 
-# [[Bhutan]] 🇧🇹
+# [[Bhutan]] 🇧🇹 
+
 ## #has_/properties 
 
 
@@ -882,6 +883,29 @@ markerFile: [[Bhutan]]
 defaultZoom: 5 
 ```
 
+### #has_/map_/topologic 
+
+```leaflet
+id: Bhutan_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Bhutan//
+markerFolder: ./Bhutan/
+coordinates: [[Bhutan]] 
+markerFile: [[Bhutan]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
 [has_name_en::Bhutan] 
 has_name_de = `=this.dv_has_name_de` 
 ![[Bhutan/Emblem_of_Bhutan.svg|350]]  
@@ -936,3 +960,4 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.secret|Bhutan.secret]] 
 
+Bhutan

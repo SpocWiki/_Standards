@@ -795,12 +795,7 @@ Unicode_character: 🇲🇻
 
 # [[Maldives]] 🇲🇻 
 
-
-
-## [[Maldives]] 
-
 ## #has_/properties 
-
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
@@ -890,6 +885,30 @@ markerFolder: ./Maldives/
 coordinates: [[Maldives]] 
 markerFile: [[Maldives]] 
 ```
+
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Maldives_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Maldives//
+markerFolder: ./Maldives/
+coordinates: [[Maldives]] 
+markerFile: [[Maldives]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 [has_name_en::Maldives]
 has_name_de = `=this.dv_has_name_de`

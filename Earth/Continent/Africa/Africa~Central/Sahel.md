@@ -274,6 +274,28 @@ markerFile: [[Sahel]]
 defaultZoom: 5 
 ```
 
+### #has_/map_/topologic 
+
+```leaflet
+id: Sahel_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Sahel//
+markerFolder: ./Sahel/
+coordinates: [[Sahel]] 
+markerFile: [[Sahel]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 ## Confidential Links & Embeds: 
 

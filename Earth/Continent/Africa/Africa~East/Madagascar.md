@@ -510,7 +510,7 @@ Unicode_character: 🇲🇬
 
 # [[Madagascar]] 🇲🇬 
 
-
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -597,6 +597,28 @@ markerFile: [[Madagascar]]
 geojsonFolder: ./Madagascar//
 markerFolder: ./Madagascar//
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Madagascar_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Madagascar//
+markerFolder: ./Madagascar/
+coordinates: [[Madagascar]] 
+markerFile: [[Madagascar]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Madagascar]
 has_name_de = `=this.dv_has_name_de`

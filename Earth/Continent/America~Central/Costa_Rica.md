@@ -763,7 +763,7 @@ Unicode_character: 🇨🇷
 
 # [[Costa_Rica]] 🇨🇷 
 
-
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -848,7 +848,31 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Costa_Rica//
 markerFolder: ./Costa_Rica/
+coordinates: [[Costa_Rica]] 
+markerFile: [[Costa_Rica]] 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Costa_Rica_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Costa_Rica//
+markerFolder: ./Costa_Rica/
+coordinates: [[Costa_Rica]] 
+markerFile: [[Costa_Rica]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Costa Rica]
 has_name_de = `=this.dv_has_name_de`

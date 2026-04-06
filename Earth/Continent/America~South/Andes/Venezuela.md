@@ -959,7 +959,7 @@ Unicode_character: 🇻🇪
 
 # [[Venezuela]] 🇻🇪 
 
-
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1048,6 +1048,28 @@ markerFile: [[Venezuela]]
 zoomFeatures: true
 defaultZoom: 7 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Venezuela_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 4
+geojsonFolder: ./Venezuela//
+markerFolder: ./Venezuela/
+coordinates: [[Venezuela]] 
+markerFile: [[Venezuela]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Venezuela]
 has_name_de = `=this.dv_has_name_de`

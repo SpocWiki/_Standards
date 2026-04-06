@@ -866,6 +866,28 @@ markerFile: [[Djibouti]]
 defaultZoom: 5 
 ```
 
+### #has_/map_/topologic 
+
+```leaflet
+id: Djibouti_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Djibouti//
+markerFolder: ./Djibouti/
+coordinates: [[Djibouti]] 
+markerFile: [[Djibouti]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 ## #has_/text_of_/abstract  
 

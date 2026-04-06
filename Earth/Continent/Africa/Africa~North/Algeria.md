@@ -1016,7 +1016,7 @@ Unicode_character: 🇩🇿
 
 # [[Algeria]] 🇩🇿 Ǳ 
 
-
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1104,6 +1104,28 @@ markerFile: [[Algeria]]
 zoomFeatures: true
 defaultZoom: 11 
 ```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Algeria_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Algeria//
+markerFolder: ./Algeria/
+coordinates: [[Algeria]] 
+markerFile: [[Algeria]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Algeria] 
 has_name_de = `=this.dv_has_name_de` 

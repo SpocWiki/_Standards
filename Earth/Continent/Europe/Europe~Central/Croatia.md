@@ -970,7 +970,6 @@ Unicode_character: 🇭🇷
 
 # [[Croatia]] 🇭🇷 
 
-
 ## [[Croatia]] 
 
 ## #has_/properties 

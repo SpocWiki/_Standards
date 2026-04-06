@@ -341,6 +341,28 @@ coordinates: [[Lake_Tanganyika]]
 markerFile: [[Lake_Tanganyika]] 
 ```
 
+### #has_/map_/topologic 
+
+```leaflet
+id: Lake_Tanganyika_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Lake_Tanganyika//
+markerFolder: ./Lake_Tanganyika/
+coordinates: [[Lake_Tanganyika]] 
+markerFile: [[Lake_Tanganyika]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 
 ## #has_/text_of_/abstract 
 
