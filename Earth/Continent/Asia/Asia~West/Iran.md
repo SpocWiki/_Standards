@@ -1057,7 +1057,6 @@ Unicode_character: 🇮🇷
 # [[Iran]] 🇮🇷 
 
 ## #has_/properties 
-<<<<<<< Updated upstream
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
@@ -1133,8 +1132,6 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 [[Iran/ReadMe|ReadMe]] 
 
 
-=======
->>>>>>> Stashed changes
 ## #has_/map  
 
 ```leaflet
