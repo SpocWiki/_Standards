@@ -8,8 +8,16 @@ if (-not $parent_directory) {
 
 Set-Location -Path $parent_directory
 
+Write-Host "Committing" -ForegroundColor Green
+
 .\GitCommit.ps1
+
+Write-Host "Pulling" -ForegroundColor Green
+
 .\GitPull.ps1
+
+Write-Host "Pushing" -ForegroundColor Green
+
 .\GitPush.ps1
 
 Set-Location -Path $parent_directory

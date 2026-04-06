@@ -6,32 +6,21 @@ if (-not $parent_directory) {
 	$parent_directory = Split-Path -Path $MyInvocation.MyCommand.Path -Parent # or $PWD
 }
 
+. .\Resolve-Rebase.ps1 
+
 Set-Location -Path $parent_directory
-
-git fetch origin
-
-# Merge remote changes into local automatically
-git merge origin/main --no-edit
-
-if (-not $?) {
-    Write-Host "Merge failed, aborting"
-    git merge --abort
-    exit 1
-}
+Resolve-Rebase $parent_directory   
+Invoke-SafePull $parent_directory
+#git pull --rebase --strategy-option=theirs
 
 Get-ChildItem -Path $parent_directory -Recurse -Directory | ForEach-Object {
     $directory = $_.FullName
     if (Test-Path "$directory/.git") {
-        Write-Host "Updating repository in $directory"
+        Write-Host "Pulling repository in $directory"
         Set-Location -Path $directory
-        git pull
-        #$stashList = git stash list
-        $latestStash = git stash list | Select-Object -First 1
-        if ($latestStash -match 'autostash') {
-        #if ($stashList -match 'autostash') {
-            # Apply the stash
-            git stash pop --index
-        }
+
+        Resolve-Rebase $directory 
+        Invoke-SafePull $directory
     }
 }
 
