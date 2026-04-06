@@ -1109,8 +1109,7 @@ Unicode_character: 🇸🇮
 
 # [[Slovenia]] 🇸🇮 
 
-
-## [[Slovenia]] has Problems... 
+## #has_/properties    
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1199,6 +1198,28 @@ coordinates: [[Slovenia]]
 markerFile: [[Slovenia]] 
 defaultZoom: 6 
 ```
+
+### #has_map_/topologic 
+
+```leaflet
+id: Slovenia_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 6
+geojsonFolder: ./Slovenia//
+markerFolder: ./Slovenia/
+coordinates: [[Slovenia]] 
+markerFile: [[Slovenia]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Slovenia]
 has_name_de = `=this.dv_has_name_de`

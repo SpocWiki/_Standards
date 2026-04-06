@@ -1122,7 +1122,9 @@ Krugosvet_article: strany_mira/NIDERLANDI.html
 Pinterest_username: visitholland
 ---
 
-# [[Netherlands]] 🇳🇱 has Properties... 
+# [[Netherlands]] 🇳🇱 
+
+## #has_/properties  
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1210,6 +1212,28 @@ markerFolder: ./Netherlands/
 coordinates: [[Netherlands]] 
 markerFile: [[Netherlands]] 
 ```
+
+### #has_map_/topologic 
+
+```leaflet
+id: Netherlands_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Netherlands//
+markerFolder: ./Netherlands/
+coordinates: [[Netherlands]] 
+markerFile: [[Netherlands]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Netherlands]
 has_name_de = `=this.dv_has_name_de`

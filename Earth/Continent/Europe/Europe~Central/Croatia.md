@@ -971,8 +971,7 @@ Unicode_character: 🇭🇷
 # [[Croatia]] 🇭🇷 
 
 
-
-## [[Croatia]] has Properties...
+## [[Croatia]] has Properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1064,6 +1063,28 @@ coordinates: [[Croatia]]
 markerFile: [[Croatia]] 
 defaultZoom: 6 
 ```
+
+### #has_map_/topologic 
+
+```leaflet
+id: Croatia_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Croatia//
+markerFolder: ./Croatia/
+coordinates: [[Croatia]] 
+markerFile: [[Croatia]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Croatia]
 has_name_de = `=this.dv_has_name_de`

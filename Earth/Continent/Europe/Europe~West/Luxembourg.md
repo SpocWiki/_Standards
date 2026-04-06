@@ -927,7 +927,7 @@ Unicode_character: 🇱🇺
 
 # [[Luxembourg]] 🇱🇺 
 
-
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1016,6 +1016,28 @@ markerFolder: ./Luxembourg//
 coordinates: [[Luxembourg]] 
 markerFile: [[Luxembourg]] 
 ```
+
+### #has_map_/topologic 
+
+```leaflet
+id: Luxembourg_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 6
+geojsonFolder: ./Luxembourg//
+markerFolder: ./Luxembourg/
+coordinates: [[Luxembourg]] 
+markerFile: [[Luxembourg]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Luxembourg]
 has_name_de = `=this.dv_has_name_de`

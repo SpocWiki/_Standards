@@ -1098,12 +1098,11 @@ Unicode_character: 🇨🇭
 
 # [[Switzerland]] 🇨🇭 
 
-
 ## #has_/map  
 
 ```leaflet
 id: Switzerland1
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 defaultZoom: 5 
@@ -1112,6 +1111,27 @@ markerFolder: ./Switzerland/
 coordinates: [[Switzerland]] 
 markerFile: [[Switzerland]] 
 ```
+### #has_map_/topologic 
+
+```leaflet
+id: Switzerland_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Switzerland//
+markerFolder: ./Switzerland/
+coordinates: [[Switzerland]] 
+markerFile: [[Switzerland]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 ## International Names
 

@@ -1281,6 +1281,28 @@ markerFile: [[France]]
 defaultZoom: 5 
 ```
 
+### #has_map_/topologic 
+
+```leaflet
+id: France_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./France//
+markerFolder: ./France/
+coordinates: [[France]] 
+markerFile: [[France]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
 ## International Names
 
 name = `=this.dv_has_name`

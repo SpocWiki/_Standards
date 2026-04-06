@@ -970,7 +970,9 @@ Krugosvet_article: strany-mira/serbiya
 Commons_gallery: Србија
 ---
 
-# [[Serbia]] 🇷🇸 has Properties... 
+# [[Serbia]] 🇷🇸 
+
+## #has_/properties  
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
@@ -1059,6 +1061,28 @@ coordinates: [[Serbia]]
 markerFile: [[Serbia]] 
 defaultZoom: 6 
 ```
+
+### #has_map_/topologic 
+
+```leaflet
+id: Spain_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Spain//
+markerFolder: ./Spain/
+coordinates: [[Spain]] 
+markerFile: [[Spain]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
 
 [has_name_en::Serbia]  
 has_name_de = `=this.dv_has_name_de`
