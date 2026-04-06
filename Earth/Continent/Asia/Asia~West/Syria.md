@@ -851,8 +851,6 @@ Unicode_character: 🇸🇾
 
 ## #has_/properties  
 
-## #has_/properties 
-
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

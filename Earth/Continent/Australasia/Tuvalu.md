@@ -721,6 +721,15 @@ image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
+imageOverlay:
+- url: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+  bounds: 
+    - [-90, -180]
+    - [90, 180]
+- url: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+  bounds: 
+    - [-90, 180]
+    - [90, 540]
 width: 100%
 minZoom: 2
 maxZoom: 8
