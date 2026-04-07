@@ -315,7 +315,7 @@ dv_has_:
 
 # [[Stevie_Wonder]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Stevie_Wonder,714]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Stevie_Wonder,714|WD~Stevie_Wonder,714]] 
 
 ## #has_/text_of_/abstract 
 

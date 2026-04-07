@@ -201,7 +201,7 @@ dv_has_:
 
 # [[Magnesium_Sulfate]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magnesium_sulfate,288266]]
+#is_/same_as :: [[_Standards/WikiData/WD~Magnesium_sulfate,288266|WD~Magnesium_sulfate,288266]]
 
 ## #has_/text_of_/abstract 
 

@@ -97,7 +97,7 @@ dv_has_:
     stopped: -509000000
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Tommotian,5025306]]'
+  - '[[_Standards/WikiData/WD~Tommotian,5025306|WD~Tommotian,5025306]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian|Age-529~Tommotian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.public|Age-529~Tommotian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.internal|Age-529~Tommotian.internal]]'
@@ -109,7 +109,7 @@ dv_has_duration_years: 1.200e+7
 dv_has_previous_item: '[[Age~1~Fortunian]]'
 dv_has_next_item: '[[../Epoch-521~Cambrian_Series-2/Age-521~Cambrian_Stage_3|Age-521~Cambrian_Stage_3]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Tommotian,5025306]]'
+- '[[_Standards/WikiData/WD~Tommotian,5025306|WD~Tommotian,5025306]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian|Age-529~Tommotian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.public|Age-529~Tommotian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.internal|Age-529~Tommotian.internal]]'
@@ -153,7 +153,7 @@ A time period from 529 to 521 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Tommotian,5025306]]
+#is_/same_as :: [[_Standards/WikiData/WD~Tommotian,5025306|WD~Tommotian,5025306]]
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-530_Ma_(Fortunian_Age).png|Earth-530_Ma_(Fortunian_Age).png]] 
 

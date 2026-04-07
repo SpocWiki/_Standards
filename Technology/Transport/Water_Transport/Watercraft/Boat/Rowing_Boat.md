@@ -99,7 +99,7 @@ Unicode_character: 🚣
 
 
 
-#is_/same_as ::: [[_Standards/WikiData/WD~Rowing_boat,1195684]] 
+#is_/same_as ::: [[_Standards/WikiData/WD~Rowing_boat,1195684|WD~Rowing_boat,1195684]] 
 
 ## #has_/text_of_/abstract 
 

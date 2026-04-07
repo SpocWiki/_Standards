@@ -125,7 +125,7 @@ dv_has_:
 
 # [[Military_Staff]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Military_staff,6813432]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_staff,6813432|WD~Military_staff,6813432]] 
 
 ## #has_/text_of_/abstract 
 

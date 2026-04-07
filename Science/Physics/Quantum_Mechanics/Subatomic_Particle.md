@@ -213,7 +213,7 @@ dv_has_:
 
 # [[Subatomic_Particle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Subatomic_particle,177013]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Subatomic_particle,177013|WD~Subatomic_particle,177013]] 
 
 ## #has_/text_of_/abstract 
 

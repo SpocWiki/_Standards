@@ -185,7 +185,7 @@ dv_has_:
     stopped: -443.8e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Ordovician,62100]]'
+  - '[[_Standards/WikiData/WD~Ordovician,62100|WD~Ordovician,62100]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician|Period-0485~Ordovician]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.public|Period-0485~Ordovician.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.internal|Period-0485~Ordovician.internal]]'
@@ -197,7 +197,7 @@ dv_has_duration_years: 4.160e+7
 dv_has_previous_item: '[[Period-0539~Cambrian]]'
 dv_has_next_item: '[[Period-0444~Silurian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Ordovician,62100]]'
+- '[[_Standards/WikiData/WD~Ordovician,62100|WD~Ordovician,62100]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician|Period-0485~Ordovician]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.public|Period-0485~Ordovician.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.internal|Period-0485~Ordovician.internal]]'
@@ -239,7 +239,7 @@ dv_has_text_of_color: 0x009270
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Ordovician,62100]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Ordovician,62100|WD~Ordovician,62100]]  
 
 A time period from 485.4 to 443.8 million years ago. 
 

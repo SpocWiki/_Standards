@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Samosa]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Samosa,491517]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Samosa,491517|WD~Samosa,491517]] 
 
 ## #has_/text_of_/abstract 
 

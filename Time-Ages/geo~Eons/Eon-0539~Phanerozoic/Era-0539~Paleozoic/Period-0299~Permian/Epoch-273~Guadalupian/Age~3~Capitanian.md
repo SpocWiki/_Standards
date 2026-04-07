@@ -84,7 +84,7 @@ dv_has_:
     stopped: -259.51e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Capitanian,858203]]'
+  - '[[_Standards/WikiData/WD~Capitanian,858203|WD~Capitanian,858203]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.public|Age~3~Capitanian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.internal|Age~3~Capitanian.internal]]'
@@ -96,7 +96,7 @@ dv_has_duration_years: 4.770e+6
 dv_has_previous_item: '[[Age~2~Wordian]]'
 dv_has_next_item: '[[../Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Capitanian,858203]]'
+- '[[_Standards/WikiData/WD~Capitanian,858203|WD~Capitanian,858203]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.public|Age~3~Capitanian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.internal|Age~3~Capitanian.internal]]'
@@ -138,7 +138,7 @@ dv_has_text_of_color: 0xFB9A85
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Capitanian,858203]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Capitanian,858203|WD~Capitanian,858203]]  
 
 A time period from 264.28 to 259.51 million years ago. 
 

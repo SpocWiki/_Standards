@@ -386,7 +386,7 @@ dv_has_:
 
 # [[Armstrong,Neil]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Neil_Armstrong,1615]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Neil_Armstrong,1615|WD~Neil_Armstrong,1615]] 
 
 ## #has_/text_of_/abstract 
 

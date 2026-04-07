@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Sea_Breeze]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sea_breeze,81242]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sea_breeze,81242|WD~Sea_breeze,81242]] 
 
 ## #has_/text_of_/abstract 
 

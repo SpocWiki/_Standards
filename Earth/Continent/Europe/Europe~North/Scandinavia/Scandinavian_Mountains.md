@@ -181,7 +181,7 @@ aliases:
 
 # [[Scandinavian_Mountains]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scandinavian_Mountains,186547]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scandinavian_Mountains,186547|WD~Scandinavian_Mountains,186547]] 
 
 ## #has_/text_of_/abstract 
 

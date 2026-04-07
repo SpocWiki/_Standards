@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Hovercraft]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hovercraft,185757]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hovercraft,185757|WD~Hovercraft,185757]] 
 
 ## #has_/text_of_/abstract 
 

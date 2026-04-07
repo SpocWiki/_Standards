@@ -160,7 +160,7 @@ dv_has_:
 
 #is_/similar_to :: [[Median|Median]]  
 #is_/similar_to :: [[Mode]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Mean,2796622]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mean,2796622|WD~Mean,2796622]] 
 
 ## #has_/text_of_/abstract 
 

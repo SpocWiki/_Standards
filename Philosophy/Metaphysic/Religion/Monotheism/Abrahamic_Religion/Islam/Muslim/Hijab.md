@@ -229,7 +229,7 @@ dv_has_:
 
 # [[Hijab]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hijab,172317]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hijab,172317|WD~Hijab,172317]] 
 
 ## #has_/text_of_/abstract 
 

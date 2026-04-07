@@ -114,7 +114,7 @@ dv_has_:
 
 # [[Hook_and_Loop_Fastener]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hook_and_loop_fastener,15411420]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hook_and_loop_fastener,15411420|WD~Hook_and_loop_fastener,15411420]] 
 
 ## #has_/text_of_/abstract 
 

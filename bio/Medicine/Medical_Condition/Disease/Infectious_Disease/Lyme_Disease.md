@@ -230,7 +230,7 @@ dv_has_:
 
 # [[Lyme_Disease]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lyme_disease,201989]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lyme_disease,201989|WD~Lyme_disease,201989]] 
 
 ## #has_/text_of_/abstract 
 

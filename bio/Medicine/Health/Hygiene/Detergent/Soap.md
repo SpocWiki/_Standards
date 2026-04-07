@@ -137,7 +137,7 @@ has_use:
 - '[[_Standards/WikiData/WD~shaving,369570|WD~shaving,369570]]'
 - '[[_Standards/WikiData/WD~hand_washing,552461|WD~hand_washing,552461]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
 - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
@@ -341,7 +341,7 @@ Unicode_character: 🧼
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Soap,34396]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Soap,34396|WD~Soap,34396]] 
 
 ## #has_/text_of_/abstract 
 

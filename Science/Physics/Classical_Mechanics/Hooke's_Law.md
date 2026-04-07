@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Hooke's_Law]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hooke's_law,170282]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hooke's_law,170282|WD~Hooke's_law,170282]] 
 
 ## #has_/text_of_/abstract 
 

@@ -126,7 +126,7 @@ dv_has_:
     stopped: -323.2e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Serpukhovian,1068088]]'
+  - '[[_Standards/WikiData/WD~Serpukhovian,1068088|WD~Serpukhovian,1068088]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.public|Age~3~Serpukhovian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.internal|Age~3~Serpukhovian.internal]]'
@@ -138,7 +138,7 @@ dv_has_duration_years: NaN
 dv_has_previous_item: '[[Age~2~Visean|Age~Visean]]'
 dv_has_next_item: '[[../Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Serpukhovian,1068088]]'
+- '[[_Standards/WikiData/WD~Serpukhovian,1068088|WD~Serpukhovian,1068088]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.public|Age~3~Serpukhovian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.internal|Age~3~Serpukhovian.internal]]'
@@ -179,7 +179,7 @@ dv_has_text_of_color: 0xBFC26B
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Serpukhovian,1068088]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Serpukhovian,1068088|WD~Serpukhovian,1068088]]  
 
 A time period from 330.9 to 323.2 million years ago. 
 

@@ -267,7 +267,7 @@ dv_has_:
 
 # [[Pancreas]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pancreas,9618]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pancreas,9618|WD~Pancreas,9618]] 
 
 ## #has_/text_of_/abstract 
 

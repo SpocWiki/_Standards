@@ -181,7 +181,7 @@ dv_has_:
 # [[Natural_Logarithm]] 
 
 #has_/inverse :: [[Operator~unary/Exponential_Function|Exponential_Function]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Natural_Logarithm,204037]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Natural_Logarithm,204037|WD~Natural_Logarithm,204037]] 
 #is_/instance_of :: [[../../Function~binary/Operator~binary/Logarithm|Logarithm]] 
 
 ## #has_/text_of_/abstract 

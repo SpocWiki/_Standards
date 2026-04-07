@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Redox]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Redox,82682]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Redox,82682|WD~Redox,82682]] 
 
 ## #has_/text_of_/abstract 
 

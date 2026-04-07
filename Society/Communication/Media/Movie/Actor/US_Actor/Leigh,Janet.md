@@ -179,7 +179,7 @@ dv_has_:
 #has_/time_/stopped  ::  2004-10-03
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
-#is_/same_as :: [[_Standards/WikiData/WD~Janet_Leigh,205314]]
+#is_/same_as :: [[_Standards/WikiData/WD~Janet_Leigh,205314|WD~Janet_Leigh,205314]]
 
 ## #has_/text_of_/abstract 
 

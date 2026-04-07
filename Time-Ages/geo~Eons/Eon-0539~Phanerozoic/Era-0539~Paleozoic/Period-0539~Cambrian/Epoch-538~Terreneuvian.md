@@ -100,7 +100,7 @@ dv_has_:
     stopped: -521.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Terreneuvian,515287]]'
+  - '[[_Standards/WikiData/WD~Terreneuvian,515287|WD~Terreneuvian,515287]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian|Epoch-538~Terreneuvian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.public|Epoch-538~Terreneuvian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.internal|Epoch-538~Terreneuvian.internal]]'
@@ -112,7 +112,7 @@ dv_has_duration_years: 1.780e+7
 dv_has_previous_item: '[[Epoch~]]'
 dv_has_next_item: '[[Epoch~]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Terreneuvian,515287]]'
+- '[[_Standards/WikiData/WD~Terreneuvian,515287|WD~Terreneuvian,515287]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian|Epoch-538~Terreneuvian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.public|Epoch-538~Terreneuvian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.internal|Epoch-538~Terreneuvian.internal]]'
@@ -154,7 +154,7 @@ dv_has_text_of_color: 0x8CB06C
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Terreneuvian,515287]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Terreneuvian,515287|WD~Terreneuvian,515287]] 
 
 A time period from 538.8 to 521 million years ago. 
 

@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Musicology]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Musicology,164204]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Musicology,164204|WD~Musicology,164204]] 
 
 ## #has_/text_of_/abstract 
 

@@ -141,7 +141,7 @@ dv_has_:
 
 # [[PDE(Partial_Differential_Equation)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Partial_differential_equation,271977]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Partial_differential_equation,271977|WD~Partial_differential_equation,271977]] 
 
 ## #has_/text_of_/abstract 
 

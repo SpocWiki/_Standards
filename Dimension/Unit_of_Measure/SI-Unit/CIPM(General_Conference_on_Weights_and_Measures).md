@@ -83,7 +83,7 @@ dv_has_:
 
 # [[CIPM(General_Conference_on_Weights_and_Measures)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Committee_for_Weights_and_Measures,616838]]
+#is_/same_as :: [[_Standards/WikiData/WD~International_Committee_for_Weights_and_Measures,616838|WD~International_Committee_for_Weights_and_Measures,616838]]
 
 ## #has_/text_of_/abstract 
 

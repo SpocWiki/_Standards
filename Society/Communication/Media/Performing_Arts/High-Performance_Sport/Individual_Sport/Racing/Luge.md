@@ -143,7 +143,7 @@ dv_has_:
 
 # [[Luge]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Luge,273285]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Luge,273285|WD~Luge,273285]] 
 
 ## #has_/text_of_/abstract 
 

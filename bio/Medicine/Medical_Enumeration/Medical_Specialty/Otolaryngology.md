@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Otolaryngology]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Otolaryngology,189553]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Otolaryngology,189553|WD~Otolaryngology,189553]] 
 
 ## #has_/text_of_/abstract 
 

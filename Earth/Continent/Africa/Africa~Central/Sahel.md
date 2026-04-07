@@ -229,7 +229,7 @@ dv_has_:
 
 # [[Sahel]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sahel,66065]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sahel,66065|WD~Sahel,66065]] 
 
 ## #has_/text_of_/abstract 
 
@@ -278,7 +278,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Sahel_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]

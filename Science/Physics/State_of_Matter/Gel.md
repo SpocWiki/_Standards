@@ -115,7 +115,7 @@ dv_has_:
 
 # [[Gel]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Gel,185744]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gel,185744|WD~Gel,185744]] 
 
 ## #has_/text_of_/abstract 
 

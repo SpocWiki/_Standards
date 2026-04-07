@@ -257,7 +257,7 @@ dv_has_:
 
 # [[Lighthouse_of_Alexandria]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lighthouse_of_Alexandria,43244]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lighthouse_of_Alexandria,43244|WD~Lighthouse_of_Alexandria,43244]] 
 
 ## #has_/map  
 

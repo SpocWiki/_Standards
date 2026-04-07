@@ -286,7 +286,7 @@ Unicode_character: 🦌
 
 # [[Red_Deer]] 🦌 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Red_deer,79794]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Red_deer,79794|WD~Red_deer,79794]] 
 
 ## #has_/text_of_/abstract 
 

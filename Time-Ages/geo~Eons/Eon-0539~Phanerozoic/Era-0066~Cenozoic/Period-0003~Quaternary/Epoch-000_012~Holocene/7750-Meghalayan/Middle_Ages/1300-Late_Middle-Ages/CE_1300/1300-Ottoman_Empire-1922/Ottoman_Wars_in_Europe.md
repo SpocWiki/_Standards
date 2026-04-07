@@ -121,7 +121,7 @@ dv_has_:
 
 # [[Ottoman_Wars_in_Europe]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ottoman_Wars_in_Europe,698985]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ottoman_Wars_in_Europe,698985|WD~Ottoman_Wars_in_Europe,698985]] 
 
 ## #has_/text_of_/abstract 
 

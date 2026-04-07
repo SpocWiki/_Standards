@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Philately]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Philately,131026]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Philately,131026|WD~Philately,131026]] 
 
 ## #has_/text_of_/abstract 
 

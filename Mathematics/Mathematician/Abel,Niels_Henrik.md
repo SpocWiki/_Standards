@@ -270,7 +270,7 @@ dv_has_:
 
 # [[Abel,Niels_Henrik]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Niels_Henrik_Abel,124115]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Niels_Henrik_Abel,124115|WD~Niels_Henrik_Abel,124115]] 
 
 ## #has_/text_of_/abstract 
 

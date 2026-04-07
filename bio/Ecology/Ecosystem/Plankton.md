@@ -178,7 +178,7 @@ dv_has_:
 
 # [[Plankton]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Plankton,25367]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plankton,25367|WD~Plankton,25367]] 
 
 ## #has_/text_of_/abstract 
 

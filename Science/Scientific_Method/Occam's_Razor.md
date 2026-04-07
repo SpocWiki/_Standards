@@ -192,7 +192,7 @@ dv_has_:
 
 # [[Occam's_Razor]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Occam's_razor,131012]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Occam's_razor,131012|WD~Occam's_razor,131012]] 
 #has_/creator :: [[../../Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of|Ockham,William_of]] 
 
 ## #has_/text_of_/abstract 

@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Permian-Triassic_Extinction_Event]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Permian-Triassic_extinction_event,141118]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Permian-Triassic_extinction_event,141118|WD~Permian-Triassic_extinction_event,141118]] 
 
 ## #has_/text_of_/abstract 
 

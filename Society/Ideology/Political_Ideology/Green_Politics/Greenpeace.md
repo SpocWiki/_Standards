@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Greenpeace]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Greenpeace,81307]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Greenpeace,81307|WD~Greenpeace,81307]] 
 
 ## #has_/text_of_/abstract 
 

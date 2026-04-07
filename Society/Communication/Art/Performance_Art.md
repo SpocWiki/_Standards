@@ -162,7 +162,7 @@ dv_has_:
 # [[Performance_Art]] 
 
 #is_/different_from :: [[../Media/Performing_Arts|Performing_Arts]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Performance_art,213156]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Performance_art,213156|WD~Performance_art,213156]] 
 
 ## #has_/text_of_/abstract 
 

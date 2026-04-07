@@ -170,7 +170,7 @@ dv_has_:
 
 # [[General_Practitioner]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~General_practitioner,6500773]] 
+#is_/same_as :: [[_Standards/WikiData/WD~General_practitioner,6500773|WD~General_practitioner,6500773]] 
 
 ## #has_/text_of_/abstract 
 

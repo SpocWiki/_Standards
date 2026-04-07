@@ -253,7 +253,7 @@ dv_has_:
 
 # [[Pedagogy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pedagogy,7922]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pedagogy,7922|WD~Pedagogy,7922]] 
 
 ## #has_/text_of_/abstract 
 

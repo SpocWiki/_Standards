@@ -113,7 +113,7 @@ dv_has_:
 
 # [[Polar_Vortex]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polar_vortex,1197111]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polar_vortex,1197111|WD~Polar_vortex,1197111]] 
 
 ## #has_/text_of_/abstract 
 

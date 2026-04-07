@@ -377,7 +377,7 @@ dv_has_:
 # [[Pain]] 
 
 #has_/complement :: [[Pleasure]]  
-#is_/same_as :: [[_Standards/WikiData/WD~Pain,81938]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pain,81938|WD~Pain,81938]] 
 
 ## #has_/text_of_/abstract 
 

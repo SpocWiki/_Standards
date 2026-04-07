@@ -264,7 +264,7 @@ dv_has_:
 
 # [[Ice_Age]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ice_age,49367]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ice_age,49367|WD~Ice_age,49367]] 
 
 ## #has_/text_of_/abstract 
 

@@ -191,7 +191,7 @@ dv_has_:
 
 # [[Medical_Diagnosis]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Medical_diagnosis,177719]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Medical_diagnosis,177719|WD~Medical_diagnosis,177719]] 
 
 ## #has_/text_of_/abstract 
 

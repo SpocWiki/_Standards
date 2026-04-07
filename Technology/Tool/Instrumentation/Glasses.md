@@ -287,7 +287,7 @@ Unicode_character: 👓
 
 # [[Glasses]] 👓 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Glasses,37501]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Glasses,37501|WD~Glasses,37501]] 
 ## #has_/text_of_/abstract 
 
 > **Glasses**, also known as eyeglasses, spectacles, or colloquially as specs, 

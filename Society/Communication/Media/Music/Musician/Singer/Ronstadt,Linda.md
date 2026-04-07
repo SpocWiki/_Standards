@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Ronstadt,Linda]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Linda_Ronstadt,229375]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Linda_Ronstadt,229375|WD~Linda_Ronstadt,229375]] 
 
 ## #has_/text_of_/abstract 
 

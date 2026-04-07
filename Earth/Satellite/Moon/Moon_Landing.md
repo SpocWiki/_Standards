@@ -170,7 +170,7 @@ dv_has_:
 
 # [[Moon_Landing]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Moon_landing,495307]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Moon_landing,495307|WD~Moon_landing,495307]] 
 
 ## #has_/text_of_/abstract 
 

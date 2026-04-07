@@ -4,30 +4,30 @@ aliases:
   - MBTI
 has_id_wikidata: Q897939
 has_part_s_:
-  - "[[_Standards/WikiData/WD~ISTP,767841]]"
-  - "[[_Standards/WikiData/WD~INTP,1322569]]"
-  - "[[_Standards/WikiData/WD~INTJ,2602819]]"
-  - "[[_Standards/WikiData/WD~INFP,2670566]]"
-  - "[[_Standards/WikiData/WD~ESTJ,3042066]]"
-  - "[[_Standards/WikiData/WD~ISFJ,3042075]]"
-  - "[[_Standards/WikiData/WD~ISTJ,3042642]]"
-  - "[[_Standards/WikiData/WD~ENFP,3045994]]"
-  - "[[_Standards/WikiData/WD~ENFJ,3046000]]"
-  - "[[_Standards/WikiData/WD~ENTJ,3046032]]"
-  - "[[_Standards/WikiData/WD~ENTP,3046036]]"
-  - "[[_Standards/WikiData/WD~ESFP,3046119]]"
-  - "[[_Standards/WikiData/WD~ESFJ,3046121]]"
-  - "[[_Standards/WikiData/WD~ESTP,3046207]]"
-  - "[[_Standards/WikiData/WD~ISFP,3116176]]"
-  - "[[_Standards/WikiData/WD~INFJ,3117731]]"
-instance_of: "[[_Standards/WikiData/WD~psychological_test,873512]]"
+  - "[[_Standards/WikiData/WD~ISTP,767841|WD~ISTP,767841]]"
+  - "[[_Standards/WikiData/WD~INTP,1322569|WD~INTP,1322569]]"
+  - "[[_Standards/WikiData/WD~INTJ,2602819|WD~INTJ,2602819]]"
+  - "[[_Standards/WikiData/WD~INFP,2670566|WD~INFP,2670566]]"
+  - "[[_Standards/WikiData/WD~ESTJ,3042066|WD~ESTJ,3042066]]"
+  - "[[_Standards/WikiData/WD~ISFJ,3042075|WD~ISFJ,3042075]]"
+  - "[[_Standards/WikiData/WD~ISTJ,3042642|WD~ISTJ,3042642]]"
+  - "[[_Standards/WikiData/WD~ENFP,3045994|WD~ENFP,3045994]]"
+  - "[[_Standards/WikiData/WD~ENFJ,3046000|WD~ENFJ,3046000]]"
+  - "[[_Standards/WikiData/WD~ENTJ,3046032|WD~ENTJ,3046032]]"
+  - "[[_Standards/WikiData/WD~ENTP,3046036|WD~ENTP,3046036]]"
+  - "[[_Standards/WikiData/WD~ESFP,3046119|WD~ESFP,3046119]]"
+  - "[[_Standards/WikiData/WD~ESFJ,3046121|WD~ESFJ,3046121]]"
+  - "[[_Standards/WikiData/WD~ESTP,3046207|WD~ESTP,3046207]]"
+  - "[[_Standards/WikiData/WD~ISFP,3116176|WD~ISFP,3116176]]"
+  - "[[_Standards/WikiData/WD~INFJ,3117731|WD~INFJ,3117731]]"
+instance_of: "[[_Standards/WikiData/WD~psychological_test,873512|WD~psychological_test,873512]]"
 named_after:
-  - "[[_Standards/WikiData/WD~Katherine_Cook_Briggs,2750262]]"
-  - "[[_Standards/WikiData/WD~Isabel_Briggs_Myers,3154819]]"
+  - "[[_Standards/WikiData/WD~Katherine_Cook_Briggs,2750262|WD~Katherine_Cook_Briggs,2750262]]"
+  - "[[_Standards/WikiData/WD~Isabel_Briggs_Myers,3154819|WD~Isabel_Briggs_Myers,3154819]]"
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Katherine_Cook_Briggs,2750262]]"
-  - "[[_Standards/WikiData/WD~Isabel_Briggs_Myers,3154819]]"
-based_on: "[[_Standards/WikiData/WD~Psychological_Types,4349243]]"
+  - "[[_Standards/WikiData/WD~Katherine_Cook_Briggs,2750262|WD~Katherine_Cook_Briggs,2750262]]"
+  - "[[_Standards/WikiData/WD~Isabel_Briggs_Myers,3154819|WD~Isabel_Briggs_Myers,3154819]]"
+based_on: "[[_Standards/WikiData/WD~Psychological_Types,4349243|WD~Psychological_Types,4349243]]"
 time_of_discovery_or_invention: 1944-01-01T00:00:00Z
 inception: 1944-01-01T00:00:00Z
 short_name: MBTI
@@ -77,7 +77,7 @@ correlations:
 
 # [[MBTI(Myers-Briggs Type Indicator)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Myers–Briggs Type Indicator,897939]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Myers–Briggs Type Indicator,897939|WD~Myers–Briggs Type Indicator,897939]] 
 
 
 ```dataviewjs

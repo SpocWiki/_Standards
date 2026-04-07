@@ -104,7 +104,7 @@ dv_has_:
 
 # [[Plant_Reproduction]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Plant_reproduction,2725616]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plant_reproduction,2725616|WD~Plant_reproduction,2725616]] 
 
 ## #has_/text_of_/abstract 
 

@@ -178,7 +178,7 @@ Unicode_character: 🪢
 
 
  is_similar_to = `= this.dv_is_similar_to` 
-#is_/same_as :: [[_Standards/WikiData/WD~Knot,527395]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Knot,527395|WD~Knot,527395]] 
 
 ## #has_/text_of_/abstract 
 

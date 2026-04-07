@@ -330,7 +330,7 @@ dv_has_:
 
 # [[Ibsen,Henrik]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Henrik_Ibsen,36661]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Henrik_Ibsen,36661|WD~Henrik_Ibsen,36661]] 
 
 ## #has_/text_of_/abstract 
 

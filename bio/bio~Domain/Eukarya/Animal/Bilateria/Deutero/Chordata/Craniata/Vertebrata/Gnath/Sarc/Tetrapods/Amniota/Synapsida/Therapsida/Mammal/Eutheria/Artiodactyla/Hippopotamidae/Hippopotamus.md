@@ -356,7 +356,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hippopotamus_amphibius,34505]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hippopotamus_amphibius,34505|WD~Hippopotamus_amphibius,34505]] 
 
 ## #has_/text_of_/abstract 
 

@@ -187,7 +187,7 @@ dv_has_:
 
 # [[Guiana_Highlands]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Guiana_Highlands,208807]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Guiana_Highlands,208807|WD~Guiana_Highlands,208807]] 
 ## #has_/text_of_/abstract 
 
 > The Guiana Shield (French: Plateau des Guyanes, Bouclier guyanais; Dutch: Hoogland van Guyana, Guianaschild; Portuguese: Planalto das Guianas, Escudo das Guianas; Spanish: Escudo guayanés) is one of the three cratons of the South American Plate. It is a 1.7 billion-year-old Precambrian geological formation in northeast South America that forms a portion of the northern coast. 

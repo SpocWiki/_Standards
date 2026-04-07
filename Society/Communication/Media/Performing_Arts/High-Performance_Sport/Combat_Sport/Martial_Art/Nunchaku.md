@@ -107,7 +107,7 @@ dv_has_:
 
 # [[Nunchaku]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nunchaku,204206]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nunchaku,204206|WD~Nunchaku,204206]] 
 
 ## #has_/text_of_/abstract 
 

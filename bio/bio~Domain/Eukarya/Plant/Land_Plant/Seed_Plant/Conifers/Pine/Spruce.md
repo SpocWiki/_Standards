@@ -230,7 +230,7 @@ dv_has_:
 
 # [[Spruce]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Picea,26782]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Picea,26782|WD~Picea,26782]] 
 
 ## #has_/text_of_/abstract 
 

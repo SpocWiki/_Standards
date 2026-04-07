@@ -278,7 +278,7 @@ dv_has_:
 
 # [[O'Toole,Peter]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peter_O'Toole,103876]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peter_O'Toole,103876|WD~Peter_O'Toole,103876]] 
 
 ## #has_/text_of_/abstract 
 

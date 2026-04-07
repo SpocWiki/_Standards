@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Naja]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Naja,220475]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Naja,220475|WD~Naja,220475]] 
 
 ## #has_/text_of_/abstract 
 

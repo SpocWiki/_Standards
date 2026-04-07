@@ -201,7 +201,7 @@ dv_has_:
 
 # [[Therapy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Medical_treatment,179661]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Medical_treatment,179661|WD~Medical_treatment,179661]] 
 
 ## #has_/text_of_/abstract 
 

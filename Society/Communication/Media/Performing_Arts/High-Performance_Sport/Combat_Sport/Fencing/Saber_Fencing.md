@@ -88,7 +88,7 @@ dv_has_:
 
 # [[Saber_Fencing]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sabre_fencing,1156606]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sabre_fencing,1156606|WD~Sabre_fencing,1156606]] 
 
 ## #has_/text_of_/abstract 
 

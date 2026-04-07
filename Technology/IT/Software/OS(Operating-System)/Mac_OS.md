@@ -106,7 +106,7 @@ dv_has_:
 
 # [[Mac_OS]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Macintosh_operating_systems,43627]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Macintosh_operating_systems,43627|WD~Macintosh_operating_systems,43627]] 
 
 ## #has_/text_of_/abstract 
 

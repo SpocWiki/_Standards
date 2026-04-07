@@ -269,7 +269,7 @@ dv_has_:
 
 # [[Hippocrates]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hippocrates,5264]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hippocrates,5264|WD~Hippocrates,5264]] 
 
 ## #has_/text_of_/abstract 
 

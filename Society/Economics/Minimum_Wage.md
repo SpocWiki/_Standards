@@ -169,7 +169,7 @@ dv_has_:
 
 # [[Minimum_Wage]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Minimum_wage,186228]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Minimum_wage,186228|WD~Minimum_wage,186228]] 
 
 ## #has_/text_of_/abstract 
 

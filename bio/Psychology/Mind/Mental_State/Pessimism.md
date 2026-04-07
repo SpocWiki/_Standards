@@ -176,7 +176,7 @@ dv_has_:
 # [[Pessimism]] 
 
 #has_/complement :: [[Optimism]]  
-#is_/same_as :: [[_Standards/WikiData/WD~Pessimism,484954]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pessimism,484954|WD~Pessimism,484954]] 
 
 ## #has_/text_of_/abstract 
 

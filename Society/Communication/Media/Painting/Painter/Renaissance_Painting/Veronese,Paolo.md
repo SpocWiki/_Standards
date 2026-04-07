@@ -372,7 +372,7 @@ dv_has_:
 
 # [[Veronese,Paolo]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paolo_Veronese,9440]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paolo_Veronese,9440|WD~Paolo_Veronese,9440]] 
 
 ## #has_/text_of_/abstract 
 

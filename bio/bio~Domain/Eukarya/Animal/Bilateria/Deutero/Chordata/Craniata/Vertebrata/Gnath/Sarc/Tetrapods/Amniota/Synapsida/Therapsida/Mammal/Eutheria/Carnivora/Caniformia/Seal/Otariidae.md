@@ -155,7 +155,7 @@ dv_has_:
 
 # [[Otariidae]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Otariidae,26700]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Otariidae,26700|WD~Otariidae,26700]] 
 
 ## #has_/text_of_/abstract 
 

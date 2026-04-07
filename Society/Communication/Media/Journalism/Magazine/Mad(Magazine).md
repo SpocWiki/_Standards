@@ -86,7 +86,7 @@ dv_has_:
 
 # [[Mad(Magazine)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mad,312086]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mad,312086|WD~Mad,312086]] 
 
 ## #has_/text_of_/abstract 
 

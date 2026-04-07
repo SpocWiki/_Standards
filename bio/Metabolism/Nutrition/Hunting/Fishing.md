@@ -283,7 +283,7 @@ Unicode_character: 🎣
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Fishing,14373]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Fishing,14373|WD~Fishing,14373]] 
 
 ## #has_/text_of_/abstract 
 

@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Pagoda]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pagoda,199451]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pagoda,199451|WD~Pagoda,199451]] 
 
 ## #has_/text_of_/abstract 
 

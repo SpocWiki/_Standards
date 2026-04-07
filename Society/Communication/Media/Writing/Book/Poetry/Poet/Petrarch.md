@@ -278,7 +278,7 @@ dv_has_:
 
 # [[Petrarch]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Petrarch,1401]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Petrarch,1401|WD~Petrarch,1401]] 
 
 ## #has_/text_of_/abstract 
 

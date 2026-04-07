@@ -185,7 +185,7 @@ dv_has_:
 
 # [[Patriarchy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Patriarchy,181339]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Patriarchy,181339|WD~Patriarchy,181339]] 
 
 ## #has_/text_of_/abstract 
 

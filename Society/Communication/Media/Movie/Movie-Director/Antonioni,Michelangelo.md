@@ -202,7 +202,7 @@ dv_has_:
 
 # [[Antonioni,Michelangelo]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Michelangelo_Antonioni,55433]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Michelangelo_Antonioni,55433|WD~Michelangelo_Antonioni,55433]] 
 
 ## #has_/text_of_/abstract 
 

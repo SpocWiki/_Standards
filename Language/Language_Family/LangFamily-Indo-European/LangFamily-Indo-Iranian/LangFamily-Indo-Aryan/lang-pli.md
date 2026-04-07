@@ -248,7 +248,7 @@ dv_has_:
 
 # [[lang-pli]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pali,36727]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pali,36727|WD~Pali,36727]] 
 
 ## #has_/text_of_/abstract 
 

@@ -81,7 +81,7 @@ dv_has_:
     stopped: -453.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Sandbian,1807140]]'
+  - '[[_Standards/WikiData/WD~Sandbian,1807140|WD~Sandbian,1807140]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian|Age-458~Sandbian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.public|Age-458~Sandbian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.internal|Age-458~Sandbian.internal]]'
@@ -93,7 +93,7 @@ dv_has_duration_years: 5.400e+6
 dv_has_previous_item: '[[../Epoch-470~Middle_Ordovician/Age-467~Darriwilian|Age-467~Darriwilian]]'
 dv_has_next_item: '[[Age-453~Katian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Sandbian,1807140]]'
+- '[[_Standards/WikiData/WD~Sandbian,1807140|WD~Sandbian,1807140]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian|Age-458~Sandbian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.public|Age-458~Sandbian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.internal|Age-458~Sandbian.internal]]'
@@ -135,7 +135,7 @@ dv_has_text_of_color: 0x8CD094
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Sandbian,1807140]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sandbian,1807140|WD~Sandbian,1807140]] 
 
 A time period from 458.4 to 453.0 million years ago. 
 

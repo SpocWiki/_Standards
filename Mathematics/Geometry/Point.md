@@ -240,7 +240,7 @@ dv_has_:
 
 # [[Point]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Point,44946]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Point,44946|WD~Point,44946]] 
 
 ## #has_/text_of_/abstract 
 

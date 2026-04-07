@@ -275,7 +275,7 @@ Unicode_character: 🥪
 
 # [[Sandwich(Dish)]] 🥪 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sandwich,28803]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sandwich,28803|WD~Sandwich,28803]] 
 
 ## #has_/text_of_/abstract 
 

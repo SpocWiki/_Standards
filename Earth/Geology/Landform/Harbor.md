@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Harbor]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Harbor,283202]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Harbor,283202|WD~Harbor,283202]] 
 is_different_from = `=this.dv_is_different_from`
 
 ## #has_/text_of_/abstract 

@@ -3,8 +3,8 @@ aliases:
   - 
 has_id_wikidata: Q2502772
 Unicode_character: 🃩
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357]]"
-instance_of: "[[_Standards/WikiData/WD~playing_card,47883]]"
+part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
+instance_of: "[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RWS%20Tarot%2009%20Hermit.jpg
 Commons_category: Hermit (Major Arcana)
 ---
@@ -12,7 +12,7 @@ Commons_category: Hermit (Major Arcana)
 # [[Tarot~09~Hermit]] 🃩 
 
 #is_/same_as :: [[WD~The_Hermit_(tarot_card),2502772]] 
-#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~09~Hermit.jpg]] 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~09~Hermit.jpg|Tarot~09~Hermit.jpg]] 
 
 
 ## #has_/text_of_/abstract 

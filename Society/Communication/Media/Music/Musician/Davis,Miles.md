@@ -254,7 +254,7 @@ dv_has_:
 
 # [[Davis,Miles]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Miles_Davis,93341]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Miles_Davis,93341|WD~Miles_Davis,93341]] 
 
 ## #has_/text_of_/abstract 
 

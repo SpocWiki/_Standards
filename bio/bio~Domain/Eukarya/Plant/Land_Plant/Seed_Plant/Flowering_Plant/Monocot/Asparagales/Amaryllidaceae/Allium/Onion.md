@@ -389,7 +389,7 @@ dv_has_:
 
 # [[Onion]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Onion,]]
+#is_/same_as :: [[_Standards/WikiData/WD~Onion,|WD~Onion,]]
 
 ## #has_/text_of_/abstract 
 

@@ -193,7 +193,7 @@ dv_has_:
 
 # [[Trier,Lars_von]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lars_von_Trier,133730]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lars_von_Trier,133730|WD~Lars_von_Trier,133730]] 
 
 ## #has_/text_of_/abstract 
 

@@ -242,7 +242,7 @@ dv_has_:
 
 # [[Orange_River]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orange_River,181475]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orange_River,181475|WD~Orange_River,181475]] 
 
 ## #has_/map 
 

@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Big_Ben,41225]]'
+  - '[[_Standards/WikiData/WD~Big_Ben,41225|WD~Big_Ben,41225]]'
   - '[[/_Standards/Earth/Geography/Place/Big_Ben|Big_Ben]]'
   - '[[/_public/Earth/Geography/Place/Big_Ben.public|Big_Ben.public]]'
   - '[[/_internal/Earth/Geography/Place/Big_Ben.internal|Big_Ben.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Big_Ben.personal|Big_Ben.personal]]'
   - '[[/_secret/Earth/Geography/Place/Big_Ben.secret|Big_Ben.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Big_Ben,41225]]'
+- '[[_Standards/WikiData/WD~Big_Ben,41225|WD~Big_Ben,41225]]'
 - '[[/_Standards/Earth/Geography/Place/Big_Ben|Big_Ben]]'
 - '[[/_public/Earth/Geography/Place/Big_Ben.public|Big_Ben.public]]'
 - '[[/_internal/Earth/Geography/Place/Big_Ben.internal|Big_Ben.internal]]'
@@ -220,7 +220,7 @@ dv_has_:
 
 ![[../../../assets/Big_Ben.png|Big_Ben.png]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Big_Ben,41225]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Big_Ben,41225|WD~Big_Ben,41225]] 
 
 ## #has_/text_of_/abstract 
 

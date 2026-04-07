@@ -108,7 +108,7 @@ dv_has_:
 
 # [[Panentheism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Panentheism,221390]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Panentheism,221390|WD~Panentheism,221390]] 
 
 ## #has_/text_of_/abstract 
 

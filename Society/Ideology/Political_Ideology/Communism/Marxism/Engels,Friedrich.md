@@ -297,7 +297,7 @@ dv_has_:
 
 # [[Engels,Friedrich]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Friedrich_Engels,34787]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Friedrich_Engels,34787|WD~Friedrich_Engels,34787]] 
 
 ## #has_/text_of_/abstract 
 

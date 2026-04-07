@@ -218,7 +218,7 @@ dv_has_:
 
 # [[Shamanism]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Shamanism,42042]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Shamanism,42042|WD~Shamanism,42042]] 
 
 ## #has_/text_of_/abstract 
 

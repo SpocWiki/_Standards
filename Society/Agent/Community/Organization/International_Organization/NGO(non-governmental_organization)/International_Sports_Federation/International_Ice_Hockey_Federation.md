@@ -161,7 +161,7 @@ dv_has_:
 
 # [[International_Ice_Hockey_Federation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Ice_Hockey_Federation,190173]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Ice_Hockey_Federation,190173|WD~International_Ice_Hockey_Federation,190173]] 
 
 ## #has_/text_of_/abstract 
 

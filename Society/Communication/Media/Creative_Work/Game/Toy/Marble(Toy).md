@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Marble(Toy)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Marble,200199]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Marble,200199|WD~Marble,200199]] 
 
 ## #has_/text_of_/abstract 
 

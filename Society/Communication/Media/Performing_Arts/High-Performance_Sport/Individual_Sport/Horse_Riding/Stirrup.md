@@ -155,7 +155,7 @@ dv_has_:
 
 # [[Stirrup]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Stirrup,191657]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Stirrup,191657|WD~Stirrup,191657]] 
 
 ## #has_/text_of_/abstract 
 

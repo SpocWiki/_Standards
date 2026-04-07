@@ -99,7 +99,7 @@ dv_has_:
 
 # [[Minimalist_Music]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Minimalist_music,572901]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Minimalist_music,572901|WD~Minimalist_music,572901]] 
 
 ## #has_/text_of_/abstract 
 

@@ -152,7 +152,7 @@ dv_has_:
 
 # [[Java_Man]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Java_Man,192993]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Java_Man,192993|WD~Java_Man,192993]] 
 
 ## #has_/text_of_/abstract 
 

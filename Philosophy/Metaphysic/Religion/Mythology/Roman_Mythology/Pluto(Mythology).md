@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Pluto(Mythology)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pluto,152262]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pluto,152262|WD~Pluto,152262]] 
 
 ## #has_/text_of_/abstract 
 

@@ -91,7 +91,7 @@ dv_has_:
 
 # [[Homotopy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Homotopy,746083]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Homotopy,746083|WD~Homotopy,746083]] 
 
 ## #has_/text_of_/abstract 
 

@@ -427,7 +427,7 @@ dv_has_:
 
 # [[Cézanne,Paul]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paul_Cézanne,35548]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paul_Cézanne,35548|WD~Paul_Cézanne,35548]] 
 
 ## #has_/text_of_/abstract 
 

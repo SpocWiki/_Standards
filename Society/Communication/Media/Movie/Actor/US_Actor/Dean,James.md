@@ -247,7 +247,7 @@ dv_has_:
 
 # [[Dean,James]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~James_Dean,83359]] 
+#is_/same_as :: [[_Standards/WikiData/WD~James_Dean,83359|WD~James_Dean,83359]] 
 
 ## #has_/text_of_/abstract 
 

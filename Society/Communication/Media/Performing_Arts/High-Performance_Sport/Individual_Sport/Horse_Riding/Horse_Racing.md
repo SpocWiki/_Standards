@@ -189,7 +189,7 @@ Unicode_character: 🏇
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Horse_racing,187916]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Horse_racing,187916|WD~Horse_racing,187916]] 
 
 ## #has_/text_of_/abstract 
 

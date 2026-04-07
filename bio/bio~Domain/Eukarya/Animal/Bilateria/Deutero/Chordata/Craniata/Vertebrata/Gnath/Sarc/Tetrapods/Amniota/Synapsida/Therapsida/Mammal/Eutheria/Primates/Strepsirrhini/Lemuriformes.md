@@ -141,7 +141,7 @@ dv_has_:
 
 # [[Lemuriformes]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lemuriformes,37212]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Lemuriformes,37212|WD~Lemuriformes,37212]]  
 
 ## #has_/text_of_/abstract 
 

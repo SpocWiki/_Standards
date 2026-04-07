@@ -186,7 +186,7 @@ dv_has_:
 
 # [[Pastry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pastry,477248]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pastry,477248|WD~Pastry,477248]] 
 
 ## #has_/text_of_/abstract 
 

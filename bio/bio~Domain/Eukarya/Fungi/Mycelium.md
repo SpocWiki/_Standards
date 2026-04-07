@@ -139,7 +139,7 @@ dv_has_:
 
 # [[Mycelium]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mycelium,326228]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mycelium,326228|WD~Mycelium,326228]] 
 
 ## #has_/text_of_/abstract 
 

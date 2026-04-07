@@ -94,7 +94,7 @@ dv_has_:
 
 # [[Kerr_Effect]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kerr_effect,883038]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kerr_effect,883038|WD~Kerr_effect,883038]] 
 
 ## #has_/text_of_/abstract 
 

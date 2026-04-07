@@ -252,7 +252,7 @@ dv_has_:
 
 # [[Rainer_Maria_Rilke]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rainer_Maria_Rilke,76483]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rainer_Maria_Rilke,76483|WD~Rainer_Maria_Rilke,76483]] 
 
 ## #has_/text_of_/abstract 
 

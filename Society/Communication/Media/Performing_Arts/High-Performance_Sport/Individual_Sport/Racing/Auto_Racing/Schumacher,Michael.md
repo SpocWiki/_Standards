@@ -292,7 +292,7 @@ dv_has_:
 
 # [[Schumacher,Michael]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Michael_Schumacher,9671]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Michael_Schumacher,9671|WD~Michael_Schumacher,9671]] 
 
 ## #has_/text_of_/abstract 
 

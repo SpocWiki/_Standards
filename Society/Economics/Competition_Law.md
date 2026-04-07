@@ -121,7 +121,7 @@ dv_has_:
 
 # [[Competition_Law]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Competition_Law,326498]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Competition_Law,326498|WD~Competition_Law,326498]] 
 
 ## #has_/text_of_/abstract 
 

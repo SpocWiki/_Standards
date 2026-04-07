@@ -151,7 +151,7 @@ dv_has_:
 
 # [[NASA~Artemis]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~NASA~Artemis,63819987]]
+#is_/same_as :: [[_Standards/WikiData/WD~NASA~Artemis,63819987|WD~NASA~Artemis,63819987]]
 
 ## #has_/text_of_/abstract 
 

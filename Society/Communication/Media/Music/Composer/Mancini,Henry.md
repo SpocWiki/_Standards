@@ -203,7 +203,7 @@ dv_has_:
 
 # [[Mancini,Henry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Henry_Mancini,185928]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Henry_Mancini,185928|WD~Henry_Mancini,185928]] 
 
 ## #has_/text_of_/abstract 
 

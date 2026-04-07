@@ -107,7 +107,7 @@ dv_has_:
 
 # [[LangFamily-Pama–Nyungan]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pama–Nyungan,33942]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pama–Nyungan,33942|WD~Pama–Nyungan,33942]] 
 
 ## #has_/text_of_/abstract 
 

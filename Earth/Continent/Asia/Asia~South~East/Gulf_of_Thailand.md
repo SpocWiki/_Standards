@@ -269,7 +269,7 @@ dv_has_:
 
 # [[Gulf_of_Thailand]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Gulf_of_Thailand,131217]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gulf_of_Thailand,131217|WD~Gulf_of_Thailand,131217]] 
 
 ## #has_/map  
 
@@ -289,7 +289,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Gulf_of_Thailand_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]

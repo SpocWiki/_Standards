@@ -141,7 +141,7 @@ dv_has_:
 
 # [[Periscope]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Periscope,183122]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Periscope,183122|WD~Periscope,183122]] 
 
 ## #has_/text_of_/abstract 
 

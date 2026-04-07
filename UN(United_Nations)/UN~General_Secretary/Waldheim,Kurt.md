@@ -210,7 +210,7 @@ dv_has_:
 
 # [[Waldheim,Kurt]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kurt_Waldheim,1260]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kurt_Waldheim,1260|WD~Kurt_Waldheim,1260]] 
 
 ## #has_/text_of_/abstract 
 

@@ -137,7 +137,7 @@ dv_has_:
 
 # [[Grand_Duke]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Grand_duke,205706]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Grand_duke,205706|WD~Grand_duke,205706]] 
 
 ## #has_/text_of_/abstract 
 

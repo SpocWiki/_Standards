@@ -254,7 +254,7 @@ dv_has_:
 
 # [[Polygon]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polygon,37555]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polygon,37555|WD~Polygon,37555]] 
 
 ## #has_/text_of_/abstract 
 

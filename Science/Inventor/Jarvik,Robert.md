@@ -85,7 +85,7 @@ dv_has_:
 
 # [[Jarvik,Robert]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Robert_Jarvik,588120]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Jarvik,588120|WD~Robert_Jarvik,588120]] 
 
 ## #has_/text_of_/abstract 
 

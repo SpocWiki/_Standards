@@ -201,7 +201,7 @@ dv_has_:
 
 # [[Linear_Equation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Linear_equation,484637]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Linear_equation,484637|WD~Linear_equation,484637]] 
 
 ## #has_/text_of_/abstract 
 

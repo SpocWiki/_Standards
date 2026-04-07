@@ -147,7 +147,7 @@ dv_has_:
 
 # [[Parapsychology]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Parapsychology,179098]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parapsychology,179098|WD~Parapsychology,179098]] 
 
 ## #has_/text_of_/abstract 
 

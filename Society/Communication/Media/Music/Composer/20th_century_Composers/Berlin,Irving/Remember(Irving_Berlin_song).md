@@ -57,7 +57,7 @@ dv_has_:
 
 # [[Remember(Irving_Berlin_song)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Remember,7311630]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Remember,7311630|WD~Remember,7311630]] 
 
 ## #has_/text_of_/abstract 
 

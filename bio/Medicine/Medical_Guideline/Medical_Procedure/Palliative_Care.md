@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Palliative_Care]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Palliative_care,29483]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Palliative_care,29483|WD~Palliative_care,29483]] 
 
 ## #has_/text_of_/abstract 
 

@@ -124,7 +124,7 @@ dv_has_:
 
 # [[Zero-Sum_Game]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Zero-Sum_Game,156612]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Zero-Sum_Game,156612|WD~Zero-Sum_Game,156612]] 
 #is_/similar_to :: [[Mercantilism]] 
 
 [[../../Military/Military_Operation/War|War]] is actually worse, because it has an overall negative Result, and sometimes even for the 'Winner'. 

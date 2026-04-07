@@ -42,7 +42,7 @@ dv_has_:
 
 # [[Point-to-Point_Channel]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~point-to-point,681349]]
+#is_/same_as :: [[_Standards/WikiData/WD~point-to-point,681349|WD~point-to-point,681349]]
 
 ## #has_/text_of_/abstract 
 

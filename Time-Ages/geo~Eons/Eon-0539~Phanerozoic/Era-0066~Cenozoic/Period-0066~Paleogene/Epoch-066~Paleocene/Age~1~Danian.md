@@ -105,7 +105,7 @@ dv_has_:
     stopped: -61.6e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Danian,502179]]'
+  - '[[_Standards/WikiData/WD~Danian,502179|WD~Danian,502179]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.public|Age~1~Danian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.internal|Age~1~Danian.internal]]'
@@ -117,7 +117,7 @@ dv_has_duration_years: 4.400e+6
 dv_has_previous_item: '[[../../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]'
 dv_has_next_item: '[[Age~2~Selandian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Danian,502179]]'
+- '[[_Standards/WikiData/WD~Danian,502179|WD~Danian,502179]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.public|Age~1~Danian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.internal|Age~1~Danian.internal]]'
@@ -161,7 +161,7 @@ A time period from 66.0 to 61.6 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Danian,502179]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Danian,502179|WD~Danian,502179]] 
 
 ## #has_/text_of_/abstract 
 

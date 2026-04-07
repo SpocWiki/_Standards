@@ -316,7 +316,7 @@ Unicode_character: ♂
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Male_organism,44148]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Male_organism,44148|WD~Male_organism,44148]] 
 
 ## #has_/text_of_/abstract 
 

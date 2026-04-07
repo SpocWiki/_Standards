@@ -91,7 +91,7 @@ dv_has_:
 
 # [[Homology]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Homology,1144780]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Homology,1144780|WD~Homology,1144780]] 
 
 ## #has_/text_of_/abstract 
 

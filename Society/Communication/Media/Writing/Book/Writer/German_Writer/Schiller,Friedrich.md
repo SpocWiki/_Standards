@@ -385,7 +385,7 @@ dv_has_:
 
 # [[Schiller,Friedrich]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Friedrich_Schiller,22670]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Friedrich_Schiller,22670|WD~Friedrich_Schiller,22670]] 
 
 ## #has_/text_of_/abstract 
 

@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Barry,John(composer)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Barry,111074]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Barry,111074|WD~John_Barry,111074]] 
 
 ## #has_/text_of_/abstract 
 

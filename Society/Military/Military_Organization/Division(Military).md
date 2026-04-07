@@ -185,7 +185,7 @@ dv_has_:
 
 # [[Division(Military)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Military_division,169534]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_division,169534|WD~Military_division,169534]] 
 #has_/parts :: [[Brigade]] 
 #is_/part_of_ :: [[Corps]]
 

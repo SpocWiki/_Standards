@@ -261,7 +261,7 @@ dv_has_:
 
 # [[Dalton,John]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Dalton,41284]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Dalton,41284|WD~John_Dalton,41284]] 
 
 ## #has_/text_of_/abstract 
 

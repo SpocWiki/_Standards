@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Mechanical_Stress]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mechanical_stress,206175]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mechanical_stress,206175|WD~Mechanical_stress,206175]] 
 
 ## #has_/text_of_/abstract 
 

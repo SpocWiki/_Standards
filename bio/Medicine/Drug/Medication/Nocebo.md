@@ -80,7 +80,7 @@ dv_has_:
 # [[Nocebo]] 
 
 #has_/complement :: [[Placebo]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Nocebo,1332954]]
+#is_/same_as :: [[_Standards/WikiData/WD~Nocebo,1332954|WD~Nocebo,1332954]]
 
 ## #has_/text_of_/abstract 
 

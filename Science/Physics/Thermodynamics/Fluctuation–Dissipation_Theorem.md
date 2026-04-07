@@ -48,7 +48,7 @@ dv_has_:
 
 # [[Fluctuation–Dissipation_Theorem]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Fluctuation–Dissipation_Theorem,1434158]]
+#is_/same_as :: [[_Standards/WikiData/WD~Fluctuation–Dissipation_Theorem,1434158|WD~Fluctuation–Dissipation_Theorem,1434158]]
 
 ## #has_/text_of_/abstract 
 

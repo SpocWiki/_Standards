@@ -143,7 +143,7 @@ dv_has_:
 
 # [[Louis,Joe]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Joe_Louis,273206]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Joe_Louis,273206|WD~Joe_Louis,273206]] 
 
 ## #has_/text_of_/abstract 
 

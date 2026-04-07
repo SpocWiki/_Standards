@@ -252,7 +252,7 @@ dv_has_:
 
 # [[Pleurotus_ostreatus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pleurotus_ostreatus,186451]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pleurotus_ostreatus,186451|WD~Pleurotus_ostreatus,186451]] 
 
 ## #has_/text_of_/abstract 
 

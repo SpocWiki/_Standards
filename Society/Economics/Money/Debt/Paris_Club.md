@@ -117,7 +117,7 @@ dv_has_:
 
 # [[Paris_Club]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paris_Club,461736]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paris_Club,461736|WD~Paris_Club,461736]] 
 
 ## #has_/text_of_/abstract 
 

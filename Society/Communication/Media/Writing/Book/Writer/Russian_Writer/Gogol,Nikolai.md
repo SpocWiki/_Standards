@@ -304,7 +304,7 @@ dv_has_:
 
 # [[Gogol,Nikolai]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nikolai_Gogol,43718]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nikolai_Gogol,43718|WD~Nikolai_Gogol,43718]] 
 #is_/different_from :: [[../../../../../../../Mathematics/Number/Constant/Googol|Googol]] 
 
 ## #has_/text_of_/abstract 

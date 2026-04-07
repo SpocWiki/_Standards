@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Scale(Map)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scale,193642]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scale,193642|WD~Scale,193642]] 
 
 ## #has_/text_of_/abstract 
 

@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Propositional_Logic]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Propositional_calculus,200694]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Propositional_calculus,200694|WD~Propositional_calculus,200694]] 
 
 ## #has_/text_of_/abstract 
 

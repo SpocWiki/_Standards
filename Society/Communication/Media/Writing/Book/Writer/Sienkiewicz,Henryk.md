@@ -258,7 +258,7 @@ dv_has_:
 
 # [[Sienkiewicz,Henryk]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Henryk_Sienkiewicz,41502]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Henryk_Sienkiewicz,41502|WD~Henryk_Sienkiewicz,41502]] 
 
 ## #has_/text_of_/abstract 
 

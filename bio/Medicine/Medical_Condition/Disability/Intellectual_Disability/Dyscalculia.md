@@ -123,7 +123,7 @@ dv_has_:
 
 # [[Dyscalculia]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Dyscalculia,742672]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Dyscalculia,742672|WD~Dyscalculia,742672]] 
 
 ## #has_/text_of_/abstract 
 

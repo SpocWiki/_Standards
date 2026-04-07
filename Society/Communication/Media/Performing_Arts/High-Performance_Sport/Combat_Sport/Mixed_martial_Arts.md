@@ -191,7 +191,7 @@ dv_has_:
 
 # [[Mixed_martial_Arts]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mixed_martial_arts,114466]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mixed_martial_arts,114466|WD~Mixed_martial_arts,114466]] 
 
 ## #has_/text_of_/abstract 
 

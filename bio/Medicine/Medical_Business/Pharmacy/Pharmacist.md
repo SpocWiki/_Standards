@@ -283,7 +283,7 @@ dv_has_:
 
 # [[Pharmacist]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pharmacist,105186]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pharmacist,105186|WD~Pharmacist,105186]] 
 
 ## #has_/text_of_/abstract 
 

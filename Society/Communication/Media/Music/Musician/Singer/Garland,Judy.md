@@ -305,7 +305,7 @@ dv_has_:
 
 # [[Garland,Judy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Judy_Garland,11637]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Judy_Garland,11637|WD~Judy_Garland,11637]] 
 
 ## #has_/text_of_/abstract 
 

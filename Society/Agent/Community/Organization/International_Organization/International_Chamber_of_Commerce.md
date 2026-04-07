@@ -138,7 +138,7 @@ dv_has_:
 
 # [[International_Chamber_of_Commerce]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Chamber_of_Commerce,848633]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Chamber_of_Commerce,848633|WD~International_Chamber_of_Commerce,848633]] 
 
 ## #has_/text_of_/abstract 
 

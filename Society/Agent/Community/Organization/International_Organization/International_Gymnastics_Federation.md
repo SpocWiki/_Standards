@@ -132,7 +132,7 @@ dv_has_:
 
 # [[International_Gymnastics_Federation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Gymnastics_Federation,379079]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Gymnastics_Federation,379079|WD~International_Gymnastics_Federation,379079]] 
 
 ## #has_/text_of_/abstract 
 

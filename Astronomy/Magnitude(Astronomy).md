@@ -137,7 +137,7 @@ dv_has_:
 
 # [[Magnitude(Astronomy)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magnitude,2028919]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magnitude,2028919|WD~Magnitude,2028919]] 
 
 ## #has_/text_of_/abstract 
 

@@ -249,7 +249,7 @@ dv_has_:
 
 # [[Niemeyer,Oscar]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oscar_Niemeyer,134165]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oscar_Niemeyer,134165|WD~Oscar_Niemeyer,134165]] 
 
 ## #has_/text_of_/abstract 
 

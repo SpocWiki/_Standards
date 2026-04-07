@@ -98,7 +98,7 @@ dv_has_:
     stopped: -161.5e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Callovian,764255]]'
+  - '[[_Standards/WikiData/WD~Callovian,764255|WD~Callovian,764255]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.public|Age~4~Callovian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.internal|Age~4~Callovian.internal]]'
@@ -110,7 +110,7 @@ dv_has_duration_years: 3.800e+6
 dv_has_previous_item: '[[Age~3~Bathonian]]'
 dv_has_next_item: '[[../Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Callovian,764255]]'
+- '[[_Standards/WikiData/WD~Callovian,764255|WD~Callovian,764255]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.public|Age~4~Callovian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.internal|Age~4~Callovian.internal]]'
@@ -154,7 +154,7 @@ A time period from 165.3 to 161.5 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Callovian,764255]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Callovian,764255|WD~Callovian,764255]] 
 
 ## #has_/text_of_/abstract 
 

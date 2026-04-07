@@ -252,7 +252,7 @@ dv_has_:
 
 # [[Ruby]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ruby,43088]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ruby,43088|WD~Ruby,43088]] 
 
 ## #has_/text_of_/abstract 
 

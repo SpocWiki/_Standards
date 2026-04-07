@@ -168,7 +168,7 @@ dv_has_:
 
 # [[Moat]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Moat,88480]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Moat,88480|WD~Moat,88480]] 
 
 ## #has_/text_of_/abstract 
 

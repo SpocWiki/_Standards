@@ -84,7 +84,7 @@ dv_has_:
     stopped: -458.4e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Darriwilian,1032866]]'
+  - '[[_Standards/WikiData/WD~Darriwilian,1032866|WD~Darriwilian,1032866]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian|Age-467~Darriwilian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.public|Age-467~Darriwilian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.internal|Age-467~Darriwilian.internal]]'
@@ -96,7 +96,7 @@ dv_has_duration_years: 8.900e+6
 dv_has_previous_item: '[[Age-470~Dapingian]]'
 dv_has_next_item: '[[../Epoch-458~Late_Ordovician/Age-458~Sandbian|Age-458~Sandbian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Darriwilian,1032866]]'
+- '[[_Standards/WikiData/WD~Darriwilian,1032866|WD~Darriwilian,1032866]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian|Age-467~Darriwilian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.public|Age-467~Darriwilian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.internal|Age-467~Darriwilian.internal]]'
@@ -138,7 +138,7 @@ dv_has_text_of_color: 0x74C69C
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Darriwilian,1032866]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Darriwilian,1032866|WD~Darriwilian,1032866]]  
 
 A time period from 467.3 to 458.4 million years ago. 
 

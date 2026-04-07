@@ -300,7 +300,7 @@ dv_has_:
 
 # [[Hyena]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hyaenidae,42046]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hyaenidae,42046|WD~Hyaenidae,42046]] 
 
 ## #has_/text_of_/abstract 
 

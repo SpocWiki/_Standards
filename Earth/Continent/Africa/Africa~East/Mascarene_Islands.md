@@ -191,7 +191,7 @@ dv_has_:
 
 # [[Mascarene_Islands]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mascarene_Islands,205695]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mascarene_Islands,205695|WD~Mascarene_Islands,205695]] 
 
 ## #has_/text_of_/abstract 
 

@@ -131,7 +131,7 @@ dv_has_:
 
 # [[Military_Uniform]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Military_uniform,1196123]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_uniform,1196123|WD~Military_uniform,1196123]] 
 
 ## #has_/text_of_/abstract 
 

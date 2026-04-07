@@ -233,7 +233,7 @@ dv_has_:
 
 # [[Mask]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mask,161524]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mask,161524|WD~Mask,161524]] 
 
 ## #has_/text_of_/abstract 
 

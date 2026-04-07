@@ -206,7 +206,7 @@ dv_has_:
 
 # [[United_Nations_Secretariat]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~United_Nations_Secretariat,220563]] 
+#is_/same_as :: [[_Standards/WikiData/WD~United_Nations_Secretariat,220563|WD~United_Nations_Secretariat,220563]] 
 
 ## #has_/text_of_/abstract 
 

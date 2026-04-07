@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Starlink,19867977]]'
+  - '[[_Standards/WikiData/WD~Starlink,19867977|WD~Starlink,19867977]]'
   - '[[/_Standards/Earth/Satellite/Starlink|Starlink]]'
   - '[[/_public/Earth/Satellite/Starlink.public|Starlink.public]]'
   - '[[/_internal/Earth/Satellite/Starlink.internal|Starlink.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Satellite/Starlink.personal|Starlink.personal]]'
   - '[[/_secret/Earth/Satellite/Starlink.secret|Starlink.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Starlink,19867977]]'
+- '[[_Standards/WikiData/WD~Starlink,19867977|WD~Starlink,19867977]]'
 - '[[/_Standards/Earth/Satellite/Starlink|Starlink]]'
 - '[[/_public/Earth/Satellite/Starlink.public|Starlink.public]]'
 - '[[/_internal/Earth/Satellite/Starlink.internal|Starlink.internal]]'
@@ -152,7 +152,7 @@ dv_has_:
 
 # [[Starlink]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Starlink,19867977]]
+#is_/same_as :: [[_Standards/WikiData/WD~Starlink,19867977|WD~Starlink,19867977]]
 
 ## #has_/text_of_/abstract 
 

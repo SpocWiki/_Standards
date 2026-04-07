@@ -124,7 +124,7 @@ dv_has_:
 
 # [[Soil_Mechanics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Soil_mechanics,471872]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Soil_mechanics,471872|WD~Soil_mechanics,471872]] 
 
 ## #has_/text_of_/abstract 
 

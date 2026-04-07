@@ -215,7 +215,7 @@ dv_has_:
 
 # [[Oasis]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oasis,43742]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oasis,43742|WD~Oasis,43742]] 
 
 ## #has_/text_of_/abstract 
 

@@ -275,7 +275,7 @@ dv_has_:
 
 # [[1415-Portuguese_Empire-1999]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Portuguese_Empire,200464]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Portuguese_Empire,200464|WD~Portuguese_Empire,200464]] 
 
 ## #has_/text_of_/abstract 
 

@@ -133,7 +133,7 @@ aliases:
 
 # [[Iconoclasm]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Iconoclasm,181543]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Iconoclasm,181543|WD~Iconoclasm,181543]] 
 
 ## #has_/text_of_/abstract 
 

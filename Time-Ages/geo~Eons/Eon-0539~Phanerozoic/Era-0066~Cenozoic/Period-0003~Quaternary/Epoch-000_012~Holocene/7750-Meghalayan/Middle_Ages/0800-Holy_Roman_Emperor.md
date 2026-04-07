@@ -197,7 +197,7 @@ dv_has_:
   previous_: '[[../Classical_Antiquity/9247-Ancient_Rome/0027-Roman_Emperor|0027-Roman_Emperor]]'
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Holy_Roman_Emperor,181765]]'
+  - '[[_Standards/WikiData/WD~Holy_Roman_Emperor,181765|WD~Holy_Roman_Emperor,181765]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor|0800-Holy_Roman_Emperor]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.public|0800-Holy_Roman_Emperor.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.internal|0800-Holy_Roman_Emperor.internal]]'
@@ -207,7 +207,7 @@ dv_is_:
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.secret|0800-Holy_Roman_Emperor.secret]]'
 dv_has_previous_: '[[../Classical_Antiquity/9247-Ancient_Rome/0027-Roman_Emperor|0027-Roman_Emperor]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Holy_Roman_Emperor,181765]]'
+- '[[_Standards/WikiData/WD~Holy_Roman_Emperor,181765|WD~Holy_Roman_Emperor,181765]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor|0800-Holy_Roman_Emperor]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.public|0800-Holy_Roman_Emperor.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.internal|0800-Holy_Roman_Emperor.internal]]'
@@ -220,7 +220,7 @@ dv_is_same_as:
 # [[0800-Holy_Roman_Emperor]]  
 
 has_previous_ = `=this.dv_has_previous_` 
-#is_/same_as :: [[_Standards/WikiData/WD~Holy_Roman_Emperor,181765]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Holy_Roman_Emperor,181765|WD~Holy_Roman_Emperor,181765]] 
 
 ## #has_/text_of_/abstract 
 

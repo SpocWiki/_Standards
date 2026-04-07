@@ -293,7 +293,7 @@ dv_has_:
 
 # [[Derrida,Jacques]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jacques_Derrida,130631]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jacques_Derrida,130631|WD~Jacques_Derrida,130631]] 
 
 ## #has_/text_of_/abstract 
 

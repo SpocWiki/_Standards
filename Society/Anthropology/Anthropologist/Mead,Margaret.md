@@ -270,7 +270,7 @@ dv_has_:
 
 # [[Mead,Margaret]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Margaret_Mead,180099]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Margaret_Mead,180099|WD~Margaret_Mead,180099]] 
 
 ## #has_/text_of_/abstract 
 

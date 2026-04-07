@@ -238,7 +238,7 @@ dv_has_:
 
 # [[Mongoose]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Herpestidae,80479]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Herpestidae,80479|WD~Herpestidae,80479]] 
 
 ## #has_/text_of_/abstract 
 

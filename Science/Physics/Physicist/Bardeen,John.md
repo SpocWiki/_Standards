@@ -246,7 +246,7 @@ dv_has_:
 
 # [[Bardeen,John]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Bardeen,949]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Bardeen,949|WD~John_Bardeen,949]] 
 
 ## #has_/text_of_/abstract 
 

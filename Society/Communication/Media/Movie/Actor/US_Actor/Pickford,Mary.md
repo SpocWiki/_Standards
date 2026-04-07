@@ -216,7 +216,7 @@ dv_has_:
 
 # [[Pickford,Mary]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mary_Pickford,104109]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mary_Pickford,104109|WD~Mary_Pickford,104109]] 
 
 ## #has_/text_of_/abstract 
 

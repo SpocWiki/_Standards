@@ -194,7 +194,7 @@ Unicode_character: 🌭
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hot_dog,181055]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hot_dog,181055|WD~Hot_dog,181055]] 
 
 ## #has_/text_of_/abstract 
 

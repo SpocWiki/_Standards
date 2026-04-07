@@ -86,7 +86,7 @@ dv_has_:
 
 # [[Marriage_of_Convenience]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Marriage_of_convenience,279394]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Marriage_of_convenience,279394|WD~Marriage_of_convenience,279394]] 
 
 ## #has_/text_of_/abstract 
 

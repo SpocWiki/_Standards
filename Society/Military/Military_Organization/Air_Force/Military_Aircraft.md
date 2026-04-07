@@ -165,7 +165,7 @@ Unicode_character: 🛦
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Military_aircraft,216916]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_aircraft,216916|WD~Military_aircraft,216916]] 
 
 ## #has_/text_of_/abstract 
 

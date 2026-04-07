@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Lord,Jon]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jon_Lord,192114]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jon_Lord,192114|WD~Jon_Lord,192114]] 
 
 ## #has_/text_of_/abstract 
 

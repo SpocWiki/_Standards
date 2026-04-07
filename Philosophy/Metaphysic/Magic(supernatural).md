@@ -235,7 +235,7 @@ dv_has_:
 
 # [[Magic(supernatural)]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magic,81741]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magic,81741|WD~Magic,81741]] 
 
 ## #has_/text_of_/abstract 
 

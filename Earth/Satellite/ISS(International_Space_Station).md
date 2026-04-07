@@ -394,7 +394,7 @@ dv_has_:
 
 # [[ISS(International_Space_Station)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Space_Station,25271]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Space_Station,25271|WD~International_Space_Station,25271]] 
 
 ## #has_/text_of_/abstract 
 

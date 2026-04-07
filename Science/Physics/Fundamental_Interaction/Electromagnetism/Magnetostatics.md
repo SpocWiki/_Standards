@@ -98,7 +98,7 @@ dv_has_:
 
 # [[Magnetostatics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magnetostatics,665093]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magnetostatics,665093|WD~Magnetostatics,665093]] 
 
 ## #has_/text_of_/abstract 
 

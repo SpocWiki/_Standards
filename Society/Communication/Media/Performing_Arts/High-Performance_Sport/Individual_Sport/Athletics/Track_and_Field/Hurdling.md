@@ -131,7 +131,7 @@ dv_has_:
 
 # [[Hurdling]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hurdling,537769]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hurdling,537769|WD~Hurdling,537769]] 
 
 ## #has_/text_of_/abstract 
 

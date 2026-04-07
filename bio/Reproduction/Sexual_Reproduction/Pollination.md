@@ -194,7 +194,7 @@ dv_has_:
 
 # [[Pollination]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pollination,134624]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pollination,134624|WD~Pollination,134624]] 
 
 ## #has_/text_of_/abstract 
 

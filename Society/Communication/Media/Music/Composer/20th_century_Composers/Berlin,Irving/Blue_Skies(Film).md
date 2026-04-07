@@ -61,7 +61,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Blue_Skies,885875]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Blue_Skies,885875|WD~Blue_Skies,885875]] 
 
 > Blue Skies is a 1929 American Synchronized sound drama film directed by Alfred L. Werker 
 > and starring Carmencita Johnson, Freddie Burke Frederick, and Ethel Wales. 

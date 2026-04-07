@@ -195,7 +195,7 @@ dv_has_:
 
 # [[Isis]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Isis,79876]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Isis,79876|WD~Isis,79876]] 
 
 ## #has_/text_of_/abstract 
 

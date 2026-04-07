@@ -105,7 +105,7 @@ dv_has_:
 
 # [[Petroleum_Engineering]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Petroleum_engineering,1273174]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Petroleum_engineering,1273174|WD~Petroleum_engineering,1273174]] 
 
 ## #has_/text_of_/abstract 
 

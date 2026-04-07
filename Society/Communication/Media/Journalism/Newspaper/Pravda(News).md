@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Pravda(News)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pravda,183644]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pravda,183644|WD~Pravda,183644]] 
 
 ## #has_/text_of_/abstract 
 

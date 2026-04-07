@@ -210,7 +210,7 @@ dv_has_:
 
 # [[Helmet]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Helmet,173603]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Helmet,173603|WD~Helmet,173603]] 
 
 ## #has_/text_of_/abstract 
 

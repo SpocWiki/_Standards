@@ -165,7 +165,7 @@ dv_has_:
 
 # [[Land_Mine]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Land_mine,178795]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Land_mine,178795|WD~Land_mine,178795]] 
 
 ## #has_/text_of_/abstract 
 

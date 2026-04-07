@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Scale(Zoology)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scale,188488]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scale,188488|WD~Scale,188488]] 
 
 ## #has_/text_of_/abstract 
 

@@ -154,7 +154,7 @@ dv_has_:
 
 # [[Public_Law]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Public_law,207892]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Public_law,207892|WD~Public_law,207892]] 
 
 ## #has_/text_of_/abstract 
 

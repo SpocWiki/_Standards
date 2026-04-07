@@ -245,7 +245,7 @@ dv_has_:
 
 # [[Morphology]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Morphology,38311]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Morphology,38311|WD~Morphology,38311]] 
 
 ## #has_/text_of_/abstract 
 

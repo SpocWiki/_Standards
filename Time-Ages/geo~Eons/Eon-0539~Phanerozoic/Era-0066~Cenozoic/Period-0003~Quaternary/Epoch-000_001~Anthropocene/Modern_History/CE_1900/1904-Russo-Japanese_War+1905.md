@@ -248,7 +248,7 @@ dv_has_:
 
 # [[1904-Russo-Japanese_War+1905]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Russo-Japanese_War,159950]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Russo-Japanese_War,159950|WD~Russo-Japanese_War,159950]] 
 
 ## #has_/text_of_/abstract 
 

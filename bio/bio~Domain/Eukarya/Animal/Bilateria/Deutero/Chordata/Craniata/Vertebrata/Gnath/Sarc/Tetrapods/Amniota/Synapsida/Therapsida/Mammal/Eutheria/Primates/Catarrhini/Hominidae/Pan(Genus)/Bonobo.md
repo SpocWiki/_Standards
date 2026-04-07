@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Bonobo]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~bonobo,19537]]
+#is_/same_as :: [[_Standards/WikiData/WD~bonobo,19537|WD~bonobo,19537]]
 
 ## #has_/text_of_/abstract 
 

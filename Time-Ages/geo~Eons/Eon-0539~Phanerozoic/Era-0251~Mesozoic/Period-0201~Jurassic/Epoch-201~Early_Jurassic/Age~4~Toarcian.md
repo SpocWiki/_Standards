@@ -106,7 +106,7 @@ dv_has_:
     stopped: -174.7e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Toarcian,914363]]'
+  - '[[_Standards/WikiData/WD~Toarcian,914363|WD~Toarcian,914363]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.public|Age~4~Toarcian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.internal|Age~4~Toarcian.internal]]'
@@ -118,7 +118,7 @@ dv_has_duration_years: 9.500e+6
 dv_has_previous_item: '[[Age~3~Pliensbachian]]'
 dv_has_next_item: '[[../Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Toarcian,914363]]'
+- '[[_Standards/WikiData/WD~Toarcian,914363|WD~Toarcian,914363]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.public|Age~4~Toarcian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.internal|Age~4~Toarcian.internal]]'
@@ -164,7 +164,7 @@ A time period from 184.2 to 174.7 million years ago.
 
  has_previous_item = `$= dv.current.dv_has_previous_item` 
  has_next_item = `$= dv.current.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Toarcian,914363]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Toarcian,914363|WD~Toarcian,914363]] 
 
 ## #has_/text_of_/abstract 
 

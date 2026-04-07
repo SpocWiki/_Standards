@@ -149,7 +149,7 @@ dv_has_:
 
 # [[1800-Romantic_Music+1900]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Romantic_music,207591]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Romantic_music,207591|WD~Romantic_music,207591]] 
 
 ## #has_/text_of_/abstract 
 

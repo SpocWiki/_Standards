@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Map_Projection]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Map_projection,186386]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Map_projection,186386|WD~Map_projection,186386]] 
 
 ## #has_/text_of_/abstract 
 

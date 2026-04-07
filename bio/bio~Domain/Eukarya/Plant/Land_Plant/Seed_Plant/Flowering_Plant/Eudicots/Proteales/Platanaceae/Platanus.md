@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Platanus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Platanus,163025]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Platanus,163025|WD~Platanus,163025]] 
 #has_/parent_taxon :: [[../Platanaceae|Platanaceae]] 
 
 ## #has_/text_of_/abstract 

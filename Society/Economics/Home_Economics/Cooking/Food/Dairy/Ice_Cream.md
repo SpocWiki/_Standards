@@ -378,7 +378,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ice_cream,13233]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ice_cream,13233|WD~Ice_cream,13233]] 
 
 ## #has_/text_of_/abstract 
 

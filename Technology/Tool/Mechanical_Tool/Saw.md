@@ -257,7 +257,7 @@ Unicode_character: 🪚
 
 # [[Saw]] 🪚 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Saw,125356]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Saw,125356|WD~Saw,125356]] 
 
 ## #has_/text_of_/abstract 
 

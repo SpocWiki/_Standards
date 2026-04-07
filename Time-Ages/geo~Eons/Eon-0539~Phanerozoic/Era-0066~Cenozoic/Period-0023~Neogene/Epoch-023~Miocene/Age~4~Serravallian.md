@@ -102,7 +102,7 @@ dv_has_:
     stopped: -11.63e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Serravallian,499307]]'
+  - '[[_Standards/WikiData/WD~Serravallian,499307|WD~Serravallian,499307]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian|Age~4~Serravallian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.public|Age~4~Serravallian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.internal|Age~4~Serravallian.internal]]'
@@ -114,7 +114,7 @@ dv_has_duration_years: 2.190e+6
 dv_has_previous_item: '[[Age~3~Langhian]]'
 dv_has_next_item: '[[Age~5~Tortonian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Serravallian,499307]]'
+- '[[_Standards/WikiData/WD~Serravallian,499307|WD~Serravallian,499307]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian|Age~4~Serravallian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.public|Age~4~Serravallian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.internal|Age~4~Serravallian.internal]]'
@@ -158,7 +158,7 @@ A time period from 13.82 to 11.63 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Serravallian,499307]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Serravallian,499307|WD~Serravallian,499307]] 
 
 ## #has_/text_of_/abstract 
 

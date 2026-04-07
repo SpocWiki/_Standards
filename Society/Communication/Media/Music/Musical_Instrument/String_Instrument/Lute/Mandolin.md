@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Mandolin]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mandolin,302497]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mandolin,302497|WD~Mandolin,302497]] 
 
 ## #has_/text_of_/abstract 
 

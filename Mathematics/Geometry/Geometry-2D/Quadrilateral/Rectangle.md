@@ -280,7 +280,7 @@ dv_has_:
 
 # [[Rectangle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rectangle,209]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rectangle,209|WD~Rectangle,209]] 
 
 ## #has_/text_of_/abstract 
 

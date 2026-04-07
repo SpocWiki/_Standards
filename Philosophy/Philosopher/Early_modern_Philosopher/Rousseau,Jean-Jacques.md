@@ -363,7 +363,7 @@ dv_has_:
 
 # [[Rousseau,Jean-Jacques]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jean-Jacques_Rousseau,6527]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jean-Jacques_Rousseau,6527|WD~Jean-Jacques_Rousseau,6527]] 
 
 ## #has_/text_of_/abstract 
 

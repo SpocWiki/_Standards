@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Social_Philosophy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Social_philosophy,180592]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Social_philosophy,180592|WD~Social_philosophy,180592]] 
 
 ## #has_/text_of_/abstract 
 

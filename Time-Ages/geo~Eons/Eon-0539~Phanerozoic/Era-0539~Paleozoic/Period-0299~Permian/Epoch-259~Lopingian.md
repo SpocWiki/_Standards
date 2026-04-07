@@ -95,7 +95,7 @@ dv_has_:
     stopped: -251.902e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Lopingian,1077390]]'
+  - '[[_Standards/WikiData/WD~Lopingian,1077390|WD~Lopingian,1077390]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian|Epoch-259~Lopingian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.public|Epoch-259~Lopingian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.internal|Epoch-259~Lopingian.internal]]'
@@ -107,7 +107,7 @@ dv_has_duration_years: 7.608e+6
 dv_has_previous_item: '[[Epoch-273~Guadalupian]]'
 dv_has_next_item: '[[../../Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic|Epoch~1~Early_Triassic]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Lopingian,1077390]]'
+- '[[_Standards/WikiData/WD~Lopingian,1077390|WD~Lopingian,1077390]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian|Epoch-259~Lopingian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.public|Epoch-259~Lopingian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.internal|Epoch-259~Lopingian.internal]]'
@@ -149,7 +149,7 @@ dv_has_text_of_color: 0xFBA794
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Lopingian,1077390]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lopingian,1077390|WD~Lopingian,1077390]] 
 
 A time period from 259.51 to 251.902 million years ago. 
 

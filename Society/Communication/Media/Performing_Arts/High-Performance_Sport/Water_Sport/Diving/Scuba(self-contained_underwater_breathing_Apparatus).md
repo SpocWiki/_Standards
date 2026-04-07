@@ -100,7 +100,7 @@ dv_has_:
 
 # [[Scuba(self-contained_underwater_breathing_Apparatus)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scuba_set,2079255]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scuba_set,2079255|WD~Scuba_set,2079255]] 
 
 ## #has_/text_of_/abstract 
 

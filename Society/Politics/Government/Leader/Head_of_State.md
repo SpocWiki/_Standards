@@ -294,7 +294,7 @@ dv_has_:
 
 # [[Head_of_State]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Head_of_state,48352]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Head_of_state,48352|WD~Head_of_state,48352]] 
 
 ## #has_/text_of_/abstract 
 

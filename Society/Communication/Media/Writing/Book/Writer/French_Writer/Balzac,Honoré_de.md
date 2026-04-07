@@ -287,7 +287,7 @@ dv_has_:
 
 # [[Balzac,Honoré_de]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Honoré_de_Balzac,9711]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Honoré_de_Balzac,9711|WD~Honoré_de_Balzac,9711]] 
 
 ## #has_/text_of_/abstract 
 

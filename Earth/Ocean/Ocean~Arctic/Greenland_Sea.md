@@ -263,7 +263,7 @@ dv_has_:
 
 # [[../../../Society/Economics/Industry/Agriculture/Greenhouse|Greenhouse]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Greenland_Sea,132868]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Greenland_Sea,132868|WD~Greenland_Sea,132868]] 
 ## #has_/text_of_/abstract 
 
 > The Greenland Sea (Danish: Grønlandshavet) is a body of water 

@@ -238,7 +238,7 @@ dv_has_:
 
 # [[MySpace]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Myspace,40629]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Myspace,40629|WD~Myspace,40629]] 
 
 ## #has_/text_of_/abstract 
 

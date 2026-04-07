@@ -217,7 +217,7 @@ dv_has_:
 
 # [[Rebellion]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rebellion,124734]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rebellion,124734|WD~Rebellion,124734]] 
 
 ## #has_/text_of_/abstract 
 

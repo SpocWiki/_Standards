@@ -202,7 +202,7 @@ dv_has_:
 
 # [[Personality]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Personality,641118]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Personality,641118|WD~Personality,641118]] 
 
 ## #has_/text_of_/abstract 
 

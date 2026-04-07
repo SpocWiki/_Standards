@@ -161,7 +161,7 @@ dv_has_:
 
 # [[Shipping_Container]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Intermodal_container,187956]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Intermodal_container,187956|WD~Intermodal_container,187956]] 
 
 ## #has_/text_of_/abstract 
 

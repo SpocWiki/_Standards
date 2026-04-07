@@ -168,7 +168,7 @@ dv_has_:
 
 # [[Om]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Om,184128]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Om,184128|WD~Om,184128]] 
 
 ## #has_/text_of_/abstract 
 

@@ -197,7 +197,7 @@ dv_has_:
 
 # [[Palk_Strait]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Palk_Strait,186299]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Palk_Strait,186299|WD~Palk_Strait,186299]] 
 
 ## #has_/map  
 

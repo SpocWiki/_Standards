@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Dim~Luminosity]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Luminosity,105902]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Luminosity,105902|WD~Luminosity,105902]] 
 
 ## #has_/text_of_/abstract 
 

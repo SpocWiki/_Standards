@@ -195,7 +195,7 @@ dv_has_:
 
 # [[ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Covenant_on_Economic,_Social_and_Cultural_Rights,457862]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Covenant_on_Economic,_Social_and_Cultural_Rights,457862|WD~International_Covenant_on_Economic,_Social_and_Cultural_Rights,457862]] 
 
 ## #has_/text_of_/abstract 
 

@@ -224,7 +224,7 @@ dv_has_:
 
 # [[Mayonnaise]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mayonnaise,167893]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mayonnaise,167893|WD~Mayonnaise,167893]] 
 
 ## #has_/text_of_/abstract 
 

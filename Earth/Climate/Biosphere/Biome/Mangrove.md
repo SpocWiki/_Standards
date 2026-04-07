@@ -223,7 +223,7 @@ dv_has_:
 
 # [[Mangrove]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mangrove,19756]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mangrove,19756|WD~Mangrove,19756]] 
 
 ## #has_/text_of_/abstract 
 

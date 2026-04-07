@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Villa]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Villa,3950]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Villa,3950|WD~Villa,3950]] 
 
 ## #has_/text_of_/abstract 
 

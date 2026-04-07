@@ -4,9 +4,9 @@ aliases:
 has_id_wikidata: Q2617566
 Unicode_character: 🃱
 instance_of:
-  - "[[_Standards/WikiData/WD~trump,727407]]"
-  - "[[_Standards/WikiData/WD~playing_card,47883]]"
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357]]"
+  - "[[_Standards/WikiData/WD~trump,727407|WD~trump,727407]]"
+  - "[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
+part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Visconti-sforza-17-star.jpg
 Commons_category: Star (Major Arcana)
 ---
@@ -15,7 +15,7 @@ Commons_category: Star (Major Arcana)
 
 #is_/same_as :: [[WD~The_Star_(tarot_card),2617566]] 
 #is_/similar_to :: [[Tarot~14~Temperance]]  
-#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~17~Star.jpg]] 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~17~Star.jpg|Tarot~17~Star.jpg]] 
 
 
 ## #has_/text_of_/abstract 

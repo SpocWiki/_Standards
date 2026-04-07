@@ -118,7 +118,7 @@ dv_has_:
     stopped: -1200000000
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Ectasian,367597]]'
+  - '[[_Standards/WikiData/WD~Ectasian,367597|WD~Ectasian,367597]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian|Period-1400~Ectasian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.public|Period-1400~Ectasian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.internal|Period-1400~Ectasian.internal]]'
@@ -130,7 +130,7 @@ dv_has_duration_years: 2.000e+8
 dv_has_previous_item: '[[Period-1600~Calymmian]]'
 dv_has_next_item: '[[Period-1200~Stenian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Ectasian,367597]]'
+- '[[_Standards/WikiData/WD~Ectasian,367597|WD~Ectasian,367597]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian|Period-1400~Ectasian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.public|Period-1400~Ectasian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.internal|Period-1400~Ectasian.internal]]'
@@ -172,7 +172,7 @@ dv_has_text_of_color: 0xFDCC8A
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Ectasian,367597]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Ectasian,367597|WD~Ectasian,367597]]  
 
 ## #has_/text_of_/abstract 
 

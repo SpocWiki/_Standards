@@ -390,7 +390,7 @@ dv_has_:
 
 # [[McDonald’s]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~McDonald’s,38076]] 
+#is_/same_as :: [[_Standards/WikiData/WD~McDonald’s,38076|WD~McDonald’s,38076]] 
 
 ## #has_/text_of_/abstract 
 

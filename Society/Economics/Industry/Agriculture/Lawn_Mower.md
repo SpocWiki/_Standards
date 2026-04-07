@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Lawn_Mower]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lawn_mower,260521]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Lawn_mower,260521|WD~Lawn_mower,260521]]  
 
 ## #has_/text_of_/abstract 
 

@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Zemeckis,Robert]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Robert_Zemeckis,187364]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Zemeckis,187364|WD~Robert_Zemeckis,187364]] 
 
 ## #has_/text_of_/abstract 
 

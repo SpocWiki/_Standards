@@ -105,7 +105,7 @@ dv_has_:
 
 # [[Stossel,John]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Stossel,579324]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Stossel,579324|WD~John_Stossel,579324]] 
 
 ## #has_/text_of_/abstract 
 

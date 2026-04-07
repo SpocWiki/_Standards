@@ -128,7 +128,7 @@ dv_has_:
 
 # [[Intensive_Farming]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Intensive_farming,1148482]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Intensive_farming,1148482|WD~Intensive_farming,1148482]] 
 
 ## #has_/text_of_/abstract 
 

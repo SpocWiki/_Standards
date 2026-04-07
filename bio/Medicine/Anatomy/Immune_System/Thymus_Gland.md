@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Thymus_Gland]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Thymus,163987]]
+#is_/same_as :: [[_Standards/WikiData/WD~Thymus,163987|WD~Thymus,163987]]
 
 The Thymus generates ca. 5e8 random T-Blood-Cells (hence the T) with arbitrary Antibodies per day, 
 from a theoretical set of 1e15, but 98% are eliminated via positive or negative Selection, 

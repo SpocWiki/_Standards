@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Optical_Illusion]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Optical_illusion,174923]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Optical_illusion,174923|WD~Optical_illusion,174923]] 
 
 ## #has_/text_of_/abstract 
 

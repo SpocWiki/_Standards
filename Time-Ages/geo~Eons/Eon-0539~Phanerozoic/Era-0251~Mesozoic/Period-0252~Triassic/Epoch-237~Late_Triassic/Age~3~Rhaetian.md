@@ -89,7 +89,7 @@ dv_has_:
     stopped: -201.4e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Rhaetian,530828]]'
+  - '[[_Standards/WikiData/WD~Rhaetian,530828|WD~Rhaetian,530828]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.public|Age~3~Rhaetian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.internal|Age~3~Rhaetian.internal]]'
@@ -101,7 +101,7 @@ dv_has_duration_years: 7.100e+6
 dv_has_previous_item: '[[Age~2~Norian]]'
 dv_has_next_item: '[[../../Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Rhaetian,530828]]'
+- '[[_Standards/WikiData/WD~Rhaetian,530828|WD~Rhaetian,530828]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.public|Age~3~Rhaetian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.internal|Age~3~Rhaetian.internal]]'
@@ -143,7 +143,7 @@ dv_has_text_of_color: 0xE3B9DB
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Rhaetian,530828]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rhaetian,530828|WD~Rhaetian,530828]] 
 
 A time period from 208.5 to 201.4 million years ago. 
 

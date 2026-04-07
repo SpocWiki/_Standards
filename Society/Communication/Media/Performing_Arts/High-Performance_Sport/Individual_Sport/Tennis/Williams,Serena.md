@@ -304,7 +304,7 @@ dv_has_:
 
 # [[Williams,Serena]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Serena_Williams,11459]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Serena_Williams,11459|WD~Serena_Williams,11459]] 
 
 ## #has_/text_of_/abstract 
 

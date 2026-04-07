@@ -183,7 +183,7 @@ dv_has_:
 
 # [[Motivation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Motivation,644302]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Motivation,644302|WD~Motivation,644302]] 
 
 ## #has_/text_of_/abstract 
 

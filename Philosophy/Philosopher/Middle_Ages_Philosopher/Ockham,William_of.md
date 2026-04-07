@@ -249,7 +249,7 @@ dv_has_:
 
 # [[Ockham,William_of]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~William_of_Ockham,43936]] 
+#is_/same_as :: [[_Standards/WikiData/WD~William_of_Ockham,43936|WD~William_of_Ockham,43936]] 
 #has_/created :: [[../../../Science/Scientific_Method/Occam's_Razor|Occam's_Razor]] 
 
 ## #has_/text_of_/abstract 

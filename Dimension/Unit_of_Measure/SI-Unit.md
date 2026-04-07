@@ -360,7 +360,7 @@ dv_has_:
 
 SI-Units are defined since 1967 and standardized in ISO_80000. 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_System_of_Units,12457]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_System_of_Units,12457|WD~International_System_of_Units,12457]] 
 
 ## #has_/text_of_/abstract 
 

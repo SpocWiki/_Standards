@@ -205,7 +205,7 @@ dv_has_:
 
 # [[Juridical_Person]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Juridical_person,155076]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Juridical_person,155076|WD~Juridical_person,155076]] 
 
 ## #has_/text_of_/abstract 
 

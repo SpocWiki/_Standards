@@ -126,7 +126,7 @@ dv_has_:
 
 # [[Rush_Hour]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rush_hour,868252]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rush_hour,868252|WD~Rush_hour,868252]] 
 
 ## #has_/text_of_/abstract 
 

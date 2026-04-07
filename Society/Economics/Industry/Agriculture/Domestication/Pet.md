@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Pet]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pet,39201]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pet,39201|WD~Pet,39201]] 
 
 ## #has_/text_of_/abstract 
 

@@ -369,7 +369,7 @@ dv_has_:
 
 # [[Mother_Teresa]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mother_Teresa,30547]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mother_Teresa,30547|WD~Mother_Teresa,30547]] 
 
 ## #has_/text_of_/abstract 
 

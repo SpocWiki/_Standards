@@ -159,7 +159,7 @@ aliases:
 
 # [[Pulsar]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pulsar,4360]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pulsar,4360|WD~Pulsar,4360]] 
 
 ## #has_/text_of_/abstract 
 

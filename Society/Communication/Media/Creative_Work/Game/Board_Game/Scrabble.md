@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Scrabble]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scrabble,170436]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scrabble,170436|WD~Scrabble,170436]] 
 
 ## #has_/text_of_/abstract 
 

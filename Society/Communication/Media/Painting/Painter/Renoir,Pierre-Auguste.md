@@ -556,7 +556,7 @@ dv_has_:
 
 # [[Renoir,Pierre-Auguste]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pierre-Auguste_Renoir,39931]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pierre-Auguste_Renoir,39931|WD~Pierre-Auguste_Renoir,39931]] 
 
 ## #has_/text_of_/abstract 
 

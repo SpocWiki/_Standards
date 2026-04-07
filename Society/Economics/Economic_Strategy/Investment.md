@@ -202,7 +202,7 @@ dv_has_:
 
 # [[Investment]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Investment,4290]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Investment,4290|WD~Investment,4290]] 
 
 ## #has_/text_of_/abstract 
 

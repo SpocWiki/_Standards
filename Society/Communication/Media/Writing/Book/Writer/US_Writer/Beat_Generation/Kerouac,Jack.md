@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Kerouac,Jack]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jack_Kerouac,160534]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jack_Kerouac,160534|WD~Jack_Kerouac,160534]] 
 
 ## #has_/text_of_/abstract 
 

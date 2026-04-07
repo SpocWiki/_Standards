@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Mamluk]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mamluk,947784]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mamluk,947784|WD~Mamluk,947784]] 
 
 ## #has_/text_of_/abstract 
 

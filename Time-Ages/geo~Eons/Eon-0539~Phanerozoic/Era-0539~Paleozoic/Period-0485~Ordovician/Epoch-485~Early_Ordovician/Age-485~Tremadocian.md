@@ -95,7 +95,7 @@ dv_has_:
     stopped: -477.7e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Tremadocian,1267676]]'
+  - '[[_Standards/WikiData/WD~Tremadocian,1267676|WD~Tremadocian,1267676]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.public|Age-485~Tremadocian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.internal|Age-485~Tremadocian.internal]]'
@@ -107,7 +107,7 @@ dv_has_duration_years: 7.700e+6
 dv_has_previous_item: '[[../../Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]'
 dv_has_next_item: '[[Age-477~Floian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Tremadocian,1267676]]'
+- '[[_Standards/WikiData/WD~Tremadocian,1267676|WD~Tremadocian,1267676]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.public|Age-485~Tremadocian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.internal|Age-485~Tremadocian.internal]]'
@@ -149,7 +149,7 @@ dv_has_text_of_color: 0x33A97E
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Tremadocian,1267676]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Tremadocian,1267676|WD~Tremadocian,1267676]]  
 
 A time period from 485.4 to 477.7 million years ago. 
 

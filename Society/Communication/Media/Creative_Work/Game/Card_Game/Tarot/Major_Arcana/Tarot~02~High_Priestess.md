@@ -3,13 +3,13 @@ aliases:
   - 
 has_id_wikidata: Q1964135
 Unicode_character: 🃢
-different_from: "[[_Standards/WikiData/WD~Pope_Joan,243811]]"
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357]]"
+different_from: "[[_Standards/WikiData/WD~Pope_Joan,243811|WD~Pope_Joan,243811]]"
+part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
 depicts:
-  - "[[_Standards/WikiData/WD~woman,467]]"
-  - "[[_Standards/WikiData/WD~Pope,19546]]"
-  - "[[_Standards/WikiData/WD~priest,42603]]"
-instance_of: "[[_Standards/WikiData/WD~playing_card,47883]]"
+  - "[[_Standards/WikiData/WD~woman,467|WD~woman,467]]"
+  - "[[_Standards/WikiData/WD~Pope,19546|WD~Pope,19546]]"
+  - "[[_Standards/WikiData/WD~priest,42603|WD~priest,42603]]"
+instance_of: "[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/PAPESSE.%20Papisa%2C%20Tarot%20Marsella.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Visconti-sforza-02-popess.jpg
@@ -19,7 +19,7 @@ Commons_category: Popess (Major Arcana)
 # [[Tarot~02~High_Priestess]] 🃢 
 
 #is_/same_as :: [[WD~The_High_Priestess,1964135]] 
-#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~02~High_Priestess.jpg]]
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~02~High_Priestess.jpg|Tarot~02~High_Priestess.jpg]]
 ## #has_/text_of_/abstract 
 
 > The High Priestess (II) is the second Major Arcana card in cartomantic Tarot decks. 

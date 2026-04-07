@@ -291,7 +291,7 @@ dv_has_:
 
 # [[Pleiades]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pleiades,13423]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pleiades,13423|WD~Pleiades,13423]] 
 
 ## #has_/text_of_/abstract 
 

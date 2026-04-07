@@ -139,7 +139,7 @@ dv_has_:
 
 # [[Navier–Stokes_Equations]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Navier–Stokes_equations,201321]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Navier–Stokes_equations,201321|WD~Navier–Stokes_equations,201321]] 
 
 ## #has_/text_of_/abstract 
 

@@ -283,7 +283,7 @@ dv_has_:
 
 # [[Nero]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nero,1413]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nero,1413|WD~Nero,1413]] 
 
 ## #has_/text_of_/abstract 
 

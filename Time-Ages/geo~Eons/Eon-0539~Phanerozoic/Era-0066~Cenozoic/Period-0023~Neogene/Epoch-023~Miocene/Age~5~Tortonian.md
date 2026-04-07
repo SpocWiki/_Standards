@@ -105,7 +105,7 @@ dv_has_:
     stopped: -7.246e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Tortonian,499299]]'
+  - '[[_Standards/WikiData/WD~Tortonian,499299|WD~Tortonian,499299]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~5~Tortonian|Age~5~Tortonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~5~Tortonian.public|Age~5~Tortonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~5~Tortonian.internal|Age~5~Tortonian.internal]]'
@@ -117,7 +117,7 @@ dv_has_duration_years: 4.384e+6
 dv_has_previous_item: '[[Age~4~Serravallian]]'
 dv_has_next_item: '[[Age~6~Messinian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Tortonian,499299]]'
+- '[[_Standards/WikiData/WD~Tortonian,499299|WD~Tortonian,499299]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~5~Tortonian|Age~5~Tortonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~5~Tortonian.public|Age~5~Tortonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~5~Tortonian.internal|Age~5~Tortonian.internal]]'
@@ -161,7 +161,7 @@ A time period from 11.63 to 7.246 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Tortonian,499299]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Tortonian,499299|WD~Tortonian,499299]] 
 
 ## #has_/text_of_/abstract 
 

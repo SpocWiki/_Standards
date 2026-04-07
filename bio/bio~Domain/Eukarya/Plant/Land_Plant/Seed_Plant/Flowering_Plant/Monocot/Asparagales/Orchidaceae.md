@@ -275,7 +275,7 @@ dv_has_:
 
 # [[Orchidaceae]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orchidaceae,25308]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orchidaceae,25308|WD~Orchidaceae,25308]] 
 
 ## #has_/text_of_/abstract 
 

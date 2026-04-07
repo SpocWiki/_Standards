@@ -123,7 +123,7 @@ dv_has_:
 
 # [[Cryptodira]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Cryptodira,499621]]
+#is_/same_as :: [[_Standards/WikiData/WD~Cryptodira,499621|WD~Cryptodira,499621]]
 
 ## #has_/text_of_/abstract 
 

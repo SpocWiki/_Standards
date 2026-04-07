@@ -230,7 +230,7 @@ dv_has_:
 
 # [[Escobar,Pablo]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pablo_Escobar,187447]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pablo_Escobar,187447|WD~Pablo_Escobar,187447]] 
 
 ## #has_/text_of_/abstract 
 

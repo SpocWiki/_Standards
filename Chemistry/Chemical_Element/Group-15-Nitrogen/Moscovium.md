@@ -260,7 +260,7 @@ dv_has_:
 # [[Moscovium]] 鏌 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Moscovium,1303]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Moscovium,1303|WD~Moscovium,1303]] 
 
 ## #has_/text_of_/abstract 
 

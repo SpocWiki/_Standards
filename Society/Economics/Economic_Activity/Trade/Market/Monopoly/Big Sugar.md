@@ -100,7 +100,7 @@ dv_has_:
 
 # [[Big Sugar]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sugar_industry,227870]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sugar_industry,227870|WD~Sugar_industry,227870]] 
 
 ## #has_/text_of_/abstract 
 

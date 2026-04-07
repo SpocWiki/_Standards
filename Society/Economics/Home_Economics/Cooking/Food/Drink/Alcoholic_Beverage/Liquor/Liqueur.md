@@ -167,7 +167,7 @@ dv_has_:
 # [[Liqueur]] 
 
 #is_/similar_to :: [[Liquor]]  
-#is_/same_as :: [[_Standards/WikiData/WD~Liqueur,178780]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Liqueur,178780|WD~Liqueur,178780]] 
 
 ## #has_/text_of_/abstract 
 

@@ -301,7 +301,7 @@ dv_has_:
 
 # [[Selma_Lagerlöf]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Selma_Lagerlöf,44519]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Selma_Lagerlöf,44519|WD~Selma_Lagerlöf,44519]] 
 
 ## #has_/text_of_/abstract 
 

@@ -273,7 +273,7 @@ dv_has_:
 
 # [[Jagger,Mick]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mick_Jagger,128121]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mick_Jagger,128121|WD~Mick_Jagger,128121]] 
 
 ## #has_/text_of_/abstract 
 

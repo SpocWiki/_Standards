@@ -113,7 +113,7 @@ dv_has_:
 
 # [[Cradle_of_Civilization]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Cradle_of_civilization,1207629]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Cradle_of_civilization,1207629|WD~Cradle_of_civilization,1207629]] 
 
 ## #has_/text_of_/abstract 
 

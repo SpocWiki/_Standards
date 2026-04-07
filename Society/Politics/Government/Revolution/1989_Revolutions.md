@@ -150,7 +150,7 @@ dv_has_:
 
 # [[1989_Revolutions]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Revolutions_of_1989,382861]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Revolutions_of_1989,382861|WD~Revolutions_of_1989,382861]] 
 
 ## #has_/text_of_/abstract 
 

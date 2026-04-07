@@ -133,7 +133,7 @@ dv_has_:
 
 # [[Peking_Man]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peking_Man,45931]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peking_Man,45931|WD~Peking_Man,45931]] 
 
 ## #has_/text_of_/abstract 
 

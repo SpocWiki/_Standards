@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Leninism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Leninism,155059]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leninism,155059|WD~Leninism,155059]] 
 
 ## #has_/text_of_/abstract 
 

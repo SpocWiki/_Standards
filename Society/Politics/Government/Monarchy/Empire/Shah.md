@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Shah]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Shah,184299]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Shah,184299|WD~Shah,184299]] 
 
 ## #has_/text_of_/abstract 
 

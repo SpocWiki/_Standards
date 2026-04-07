@@ -237,7 +237,7 @@ dv_has_:
 
 # [[Mustelidae]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mustelidae,25437]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mustelidae,25437|WD~Mustelidae,25437]] 
 
 ## #has_/text_of_/abstract 
 

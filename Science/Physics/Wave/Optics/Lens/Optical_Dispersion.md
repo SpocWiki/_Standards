@@ -161,7 +161,7 @@ dv_has_:
 
 # [[Optical_Dispersion]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Optical_dispersion,182893]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Optical_dispersion,182893|WD~Optical_dispersion,182893]] 
 
 ## #has_/text_of_/abstract 
 

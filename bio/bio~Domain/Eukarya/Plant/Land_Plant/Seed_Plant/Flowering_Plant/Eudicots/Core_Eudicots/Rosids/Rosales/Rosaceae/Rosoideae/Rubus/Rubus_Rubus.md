@@ -210,7 +210,7 @@ dv_has_:
 
 # [[Rubus_Rubus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rubus_subg._Rubus,13180]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rubus_subg._Rubus,13180|WD~Rubus_subg._Rubus,13180]] 
 
 ## #has_/text_of_/abstract 
 

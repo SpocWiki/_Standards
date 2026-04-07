@@ -57,7 +57,7 @@ aliases:
 
 # [[Parzival]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Parzival,1247232]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parzival,1247232|WD~Parzival,1247232]] 
 
 ## #has_/text_of_/abstract 
 

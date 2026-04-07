@@ -135,7 +135,7 @@ dv_has_:
 
 # [[Vitamin_A]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_A,18225]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_A,18225|WD~Vitamin_A,18225]]  
 
 ## #has_/text_of_/abstract 
 

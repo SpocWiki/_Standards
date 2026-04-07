@@ -58,7 +58,7 @@ first_line: "One thing was certain, that the white kitten had had nothing to do 
 
 # [[Through the Looking-Glass]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Through the Looking-Glass,220331]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Through the Looking-Glass,220331|WD~Through the Looking-Glass,220331]] 
 
 ## #has_/text_of_/abstract 
 

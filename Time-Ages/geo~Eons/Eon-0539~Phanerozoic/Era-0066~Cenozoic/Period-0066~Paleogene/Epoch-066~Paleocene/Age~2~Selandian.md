@@ -103,7 +103,7 @@ dv_has_:
     stopped: -59.2e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Selandian,503349]]'
+  - '[[_Standards/WikiData/WD~Selandian,503349|WD~Selandian,503349]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian|Age~2~Selandian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.public|Age~2~Selandian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.internal|Age~2~Selandian.internal]]'
@@ -115,7 +115,7 @@ dv_has_duration_years: 2.400e+6
 dv_has_previous_item: '[[Age~1~Danian]]'
 dv_has_next_item: '[[Age~3~Thanetian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Selandian,503349]]'
+- '[[_Standards/WikiData/WD~Selandian,503349|WD~Selandian,503349]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian|Age~2~Selandian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.public|Age~2~Selandian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.internal|Age~2~Selandian.internal]]'
@@ -159,7 +159,7 @@ A time period from 61.6 to 59.2 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Selandian,503349]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Selandian,503349|WD~Selandian,503349]] 
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-060_Ma_(Selandian_Age).png|Earth-060_Ma_(Selandian_Age).png]] 
 

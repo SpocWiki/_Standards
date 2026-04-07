@@ -189,7 +189,7 @@ dv_has_:
 # [[Pyramid(Geometry)]] 
 
 #is_/similar_to :: [[../../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid|Pyramid]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Pyramid,3358290]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pyramid,3358290|WD~Pyramid,3358290]] 
 
 ## #has_/text_of_/abstract 
 

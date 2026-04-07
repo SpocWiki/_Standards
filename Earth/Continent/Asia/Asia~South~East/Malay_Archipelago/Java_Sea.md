@@ -271,7 +271,7 @@ dv_has_:
 
 # [[Java_Sea]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Java_Sea,49364]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Java_Sea,49364|WD~Java_Sea,49364]] 
 
 ## #has_/text_of_/abstract 
 

@@ -89,7 +89,7 @@ dv_has_:
 
 # [[IUPAC_Nomenclature_of_Chemistry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~IUPAC_nomenclature_of_chemistry,20826683]] 
+#is_/same_as :: [[_Standards/WikiData/WD~IUPAC_nomenclature_of_chemistry,20826683|WD~IUPAC_nomenclature_of_chemistry,20826683]] 
 
 ## #has_/text_of_/abstract 
 

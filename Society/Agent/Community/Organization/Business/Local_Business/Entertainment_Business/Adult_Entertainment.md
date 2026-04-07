@@ -151,7 +151,7 @@ dv_has_:
 
 # [[Adult_Entertainment]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~erotic_entertainment,106466629]]
+#is_/same_as :: [[_Standards/WikiData/WD~erotic_entertainment,106466629|WD~erotic_entertainment,106466629]]
 
 Class of all adult entertainment Businesses.
 

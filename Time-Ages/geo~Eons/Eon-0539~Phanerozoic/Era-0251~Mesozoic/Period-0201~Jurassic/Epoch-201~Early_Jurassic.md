@@ -126,7 +126,7 @@ dv_has_:
     stopped: -174.7e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Early_Jurassic,284787]]'
+  - '[[_Standards/WikiData/WD~Early_Jurassic,284787|WD~Early_Jurassic,284787]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic|Epoch-201~Early_Jurassic]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.public|Epoch-201~Early_Jurassic.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.internal|Epoch-201~Early_Jurassic.internal]]'
@@ -138,7 +138,7 @@ dv_has_duration_years: 2.670e+7
 dv_has_previous_item: '[[../Period-0252~Triassic/Epoch-237~Late_Triassic|Epoch~3~Late_Triassic]]'
 dv_has_next_item: '[[Epoch-175~Middle_Jurassic]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Early_Jurassic,284787]]'
+- '[[_Standards/WikiData/WD~Early_Jurassic,284787|WD~Early_Jurassic,284787]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic|Epoch-201~Early_Jurassic]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.public|Epoch-201~Early_Jurassic.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.internal|Epoch-201~Early_Jurassic.internal]]'
@@ -180,7 +180,7 @@ dv_has_text_of_color: 0x42AED0
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Early_Jurassic,284787]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Early_Jurassic,284787|WD~Early_Jurassic,284787]] 
 
 A time period from 201.4 to 174.7 million years ago. 
 

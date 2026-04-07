@@ -180,7 +180,7 @@ dv_has_:
 
 # [[Shiitake]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lentinula_edodes,320999]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lentinula_edodes,320999|WD~Lentinula_edodes,320999]] 
 
 ## #has_/text_of_/abstract 
 

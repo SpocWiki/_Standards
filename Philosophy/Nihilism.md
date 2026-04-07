@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Nihilism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nihilism,80968]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nihilism,80968|WD~Nihilism,80968]] 
 
 ## #has_/text_of_/abstract 
 

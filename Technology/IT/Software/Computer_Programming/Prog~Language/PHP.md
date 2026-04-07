@@ -197,7 +197,7 @@ dv_has_:
 # [[PHP]] 
 
 #has_/creator :: [[Lerdorf,Rasmus]] 
-#is_/same_as :: [[_Standards/WikiData/WD~PHP,59]] 
+#is_/same_as :: [[_Standards/WikiData/WD~PHP,59|WD~PHP,59]] 
 
 ## #has_/text_of_/abstract 
 

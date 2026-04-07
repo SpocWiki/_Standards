@@ -155,7 +155,7 @@ dv_has_:
 
 # [[Militarism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Militarism,177266]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Militarism,177266|WD~Militarism,177266]] 
 
 ## #has_/text_of_/abstract 
 

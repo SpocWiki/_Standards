@@ -196,7 +196,7 @@ dv_has_:
 
 # [[Parsec]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Parsec,12129]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parsec,12129|WD~Parsec,12129]] 
 
 ## #has_/text_of_/abstract 
 

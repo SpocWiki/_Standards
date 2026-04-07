@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Celan,Paul]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paul_Celan,153905]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paul_Celan,153905|WD~Paul_Celan,153905]] 
 
 ## #has_/text_of_/abstract 
 

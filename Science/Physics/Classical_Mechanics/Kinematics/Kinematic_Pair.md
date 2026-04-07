@@ -77,7 +77,7 @@ dv_has_:
 
 # [[Kinematic_Pair]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kinematic_pair,526016]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kinematic_pair,526016|WD~Kinematic_pair,526016]] 
 
 ## #has_/text_of_/abstract 
 

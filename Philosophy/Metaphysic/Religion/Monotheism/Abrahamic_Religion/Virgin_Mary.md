@@ -307,7 +307,7 @@ aliases:
 
 # [[Virgin_Mary]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Virgin_Mary,345]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Virgin_Mary,345|WD~Virgin_Mary,345]] 
 
 ## #has_/text_of_/abstract 
 

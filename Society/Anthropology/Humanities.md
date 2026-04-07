@@ -285,7 +285,7 @@ dv_has_:
 
 # [[Humanities]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Humanities,80083]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Humanities,80083|WD~Humanities,80083]] 
 
 ## #has_/text_of_/abstract 
 

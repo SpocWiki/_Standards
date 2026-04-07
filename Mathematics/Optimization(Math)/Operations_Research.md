@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Operations_Research]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Operations_research,194292]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Operations_research,194292|WD~Operations_research,194292]] 
 
 ## #has_/text_of_/abstract 
 

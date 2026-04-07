@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Igloo]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Igloo,101805]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Igloo,101805|WD~Igloo,101805]] 
 
 ## #has_/text_of_/abstract 
 

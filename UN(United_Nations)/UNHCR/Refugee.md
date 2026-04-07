@@ -254,7 +254,7 @@ dv_has_:
 
 # [[Refugee]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Refugee,131572]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Refugee,131572|WD~Refugee,131572]] 
 
 ## #has_/text_of_/abstract 
 

@@ -220,7 +220,7 @@ dv_has_:
 
 # [[Hašek,Jaroslav]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jaroslav_Hašek,2754]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jaroslav_Hašek,2754|WD~Jaroslav_Hašek,2754]] 
 
 ## #has_/text_of_/abstract 
 

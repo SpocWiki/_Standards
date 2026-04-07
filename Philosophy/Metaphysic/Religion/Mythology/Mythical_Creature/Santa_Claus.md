@@ -337,7 +337,7 @@ Unicode_character: 🎅
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Santa_Claus,315796]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Santa_Claus,315796|WD~Santa_Claus,315796]] 
 
 ## #has_/text_of_/abstract 
 

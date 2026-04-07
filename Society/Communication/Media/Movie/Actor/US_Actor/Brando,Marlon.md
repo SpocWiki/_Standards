@@ -317,7 +317,7 @@ dv_has_:
 
 # [[Brando,Marlon]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Marlon_Brando,34012]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Marlon_Brando,34012|WD~Marlon_Brando,34012]] 
 
 ## #has_/text_of_/abstract 
 

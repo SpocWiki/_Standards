@@ -140,7 +140,7 @@ aliases:
 
 # [[IKEA]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~IKEA,54078]] 
+#is_/same_as :: [[_Standards/WikiData/WD~IKEA,54078|WD~IKEA,54078]] 
 
 ## #has_/text_of_/abstract 
 

@@ -125,7 +125,7 @@ dv_has_:
 
 # [[Maximum_Likelihood_Estimation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Maximum_likelihood_estimation,1045555]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Maximum_likelihood_estimation,1045555|WD~Maximum_likelihood_estimation,1045555]] 
 
 ## #has_/text_of_/abstract 
 

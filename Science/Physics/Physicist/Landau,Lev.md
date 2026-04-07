@@ -303,7 +303,7 @@ dv_has_:
 
 # [[Landau,Lev]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lev_Landau,133267]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lev_Landau,133267|WD~Lev_Landau,133267]] 
 
 ## #has_/text_of_/abstract 
 

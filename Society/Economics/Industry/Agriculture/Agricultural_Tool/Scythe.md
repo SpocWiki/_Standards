@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Scythe]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scythe,130912]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scythe,130912|WD~Scythe,130912]] 
 #is_/similar_to :: [[Sickle|Sickle]] 
 
 ## #has_/text_of_/abstract 

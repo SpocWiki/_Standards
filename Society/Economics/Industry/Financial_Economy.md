@@ -115,7 +115,7 @@ dv_has_:
 
 # [[Financial_Economy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Financial_Economy,2294553]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Financial_Economy,2294553|WD~Financial_Economy,2294553]] 
 #has_/complement :: [[../../../../_internal/Society/Economy/Real_Economy|Real_Economy]] 
 
 ## #has_/text_of_/abstract 

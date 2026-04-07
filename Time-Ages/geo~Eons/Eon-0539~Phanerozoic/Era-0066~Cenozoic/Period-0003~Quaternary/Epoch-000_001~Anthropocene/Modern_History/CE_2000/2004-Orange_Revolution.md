@@ -173,7 +173,7 @@ dv_has_:
 
 # [[2004-Orange_Revolution]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orange_Revolution,836386]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orange_Revolution,836386|WD~Orange_Revolution,836386]] 
 
 ## #has_/text_of_/abstract 
 

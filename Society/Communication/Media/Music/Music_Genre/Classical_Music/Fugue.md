@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Fugue]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Fugue,181014]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Fugue,181014|WD~Fugue,181014]] 
 
 ## #has_/text_of_/abstract 
 

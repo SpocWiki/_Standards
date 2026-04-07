@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Libertarianism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Libertarianism,178598]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Libertarianism,178598|WD~Libertarianism,178598]] 
 
 ## #has_/text_of_/abstract 
 

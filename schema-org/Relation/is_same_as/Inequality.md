@@ -194,7 +194,7 @@ dv_has_:
 
 # [[Inequality]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Inequality,28113351]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Inequality,28113351|WD~Inequality,28113351]] 
 
 ## #has_/text_of_/abstract 
 

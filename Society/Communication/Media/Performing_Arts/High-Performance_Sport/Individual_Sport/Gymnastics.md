@@ -251,7 +251,7 @@ dv_has_:
 
 # [[Gymnastics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Gymnastics,43450]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gymnastics,43450|WD~Gymnastics,43450]] 
 
 ## #has_/text_of_/abstract 
 

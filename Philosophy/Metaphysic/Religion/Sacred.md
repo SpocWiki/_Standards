@@ -128,7 +128,7 @@ dv_has_:
 
 # [[Sacred]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sacred,1151419]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sacred,1151419|WD~Sacred,1151419]] 
 
 ## #has_/text_of_/abstract 
 

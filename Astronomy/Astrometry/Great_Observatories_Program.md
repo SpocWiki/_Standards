@@ -95,7 +95,7 @@ dv_has_:
 
 # [[Great_Observatories_Program]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Great_Observatories_program,901553]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Great_Observatories_program,901553|WD~Great_Observatories_program,901553]] 
 
 ## #has_/text_of_/abstract 
 

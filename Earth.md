@@ -988,7 +988,7 @@ dv_has_:
 
 # [[Earth]] 🌎 ♁ 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Earth,2]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Earth,2|WD~Earth,2]] 
 
 ## #has_/text_of_/abstract 
 

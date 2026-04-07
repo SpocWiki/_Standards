@@ -291,7 +291,7 @@ dv_has_:
 
 # [[Telecommunication]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Telecommunication,418]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Telecommunication,418|WD~Telecommunication,418]] 
 
 ## #has_/text_of_/abstract 
 

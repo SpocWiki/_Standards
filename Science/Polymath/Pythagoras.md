@@ -366,7 +366,7 @@ dv_has_:
 
 # [[Pythagoras]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pythagoras,10261]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pythagoras,10261|WD~Pythagoras,10261]] 
 
 ## #has_/text_of_/abstract 
 

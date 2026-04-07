@@ -259,7 +259,7 @@ dv_has_:
 
 # [[Baden-Powell,Robert]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Robert_Baden-Powell,_1st_Baron_Baden-Powell,12665]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Baden-Powell,_1st_Baron_Baden-Powell,12665|WD~Robert_Baden-Powell,_1st_Baron_Baden-Powell,12665]] 
 
 ## #has_/text_of_/abstract 
 

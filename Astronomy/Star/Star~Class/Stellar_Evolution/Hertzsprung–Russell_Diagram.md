@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Hertzsprung–Russell_Diagram]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hertzsprung–Russell_diagram,3270143]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hertzsprung–Russell_diagram,3270143|WD~Hertzsprung–Russell_diagram,3270143]] 
 
 ## #has_/text_of_/abstract 
 

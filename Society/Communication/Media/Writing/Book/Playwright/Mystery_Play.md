@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Mystery_Play]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mystery_play,240911]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mystery_play,240911|WD~Mystery_play,240911]] 
 
 ## #has_/text_of_/abstract 
 

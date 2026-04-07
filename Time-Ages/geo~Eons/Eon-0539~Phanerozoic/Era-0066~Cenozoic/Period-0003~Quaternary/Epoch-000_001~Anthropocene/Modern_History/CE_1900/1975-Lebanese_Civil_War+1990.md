@@ -190,7 +190,7 @@ dv_has_:
 
 # [[1975-Lebanese_Civil_War+1990]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lebanese_Civil_War,208484]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lebanese_Civil_War,208484|WD~Lebanese_Civil_War,208484]] 
 
 ## #has_/text_of_/abstract 
 

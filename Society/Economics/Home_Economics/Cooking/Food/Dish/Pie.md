@@ -165,7 +165,7 @@ Unicode_character: 🥧
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pie,13360264]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pie,13360264|WD~Pie,13360264]] 
 
 ## #has_/text_of_/abstract 
 

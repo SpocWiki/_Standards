@@ -60,7 +60,7 @@ dv_has_:
 
 # [[Operator(Math)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~operator,3354588]]
+#is_/same_as :: [[_Standards/WikiData/WD~operator,3354588|WD~operator,3354588]]
 
 ## #has_/text_of_/abstract 
 

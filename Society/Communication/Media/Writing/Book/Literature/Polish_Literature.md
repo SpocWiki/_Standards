@@ -108,7 +108,7 @@ dv_has_:
 
 # [[Polish_Literature]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polish_literature,692327]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polish_literature,692327|WD~Polish_literature,692327]] 
 
 ## #has_/text_of_/abstract 
 

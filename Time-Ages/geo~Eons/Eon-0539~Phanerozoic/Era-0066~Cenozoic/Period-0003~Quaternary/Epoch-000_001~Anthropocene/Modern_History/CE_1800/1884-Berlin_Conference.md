@@ -93,7 +93,7 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "BerlinConference1885"]
 dv_is_:
   different_from: '[[1878-Congress_of_Berlin]]'
   same_as:
-  - '[[_Standards/WikiData/WD~Berlin_Conference,13582]]'
+  - '[[_Standards/WikiData/WD~Berlin_Conference,13582|WD~Berlin_Conference,13582]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference|1884-Berlin_Conference]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.public|1884-Berlin_Conference.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.internal|1884-Berlin_Conference.internal]]'
@@ -103,7 +103,7 @@ dv_is_:
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.secret|1884-Berlin_Conference.secret]]'
 dv_is_different_from: '[[1878-Congress_of_Berlin]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Berlin_Conference,13582]]'
+- '[[_Standards/WikiData/WD~Berlin_Conference,13582|WD~Berlin_Conference,13582]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference|1884-Berlin_Conference]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.public|1884-Berlin_Conference.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.internal|1884-Berlin_Conference.internal]]'
@@ -190,7 +190,7 @@ dv_has_:
 
 is_different_from = `=this.dv_is_different_from` 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Berlin_Conference,13582]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Berlin_Conference,13582|WD~Berlin_Conference,13582]] 
 
 ## #has_/text_of_/abstract 
 

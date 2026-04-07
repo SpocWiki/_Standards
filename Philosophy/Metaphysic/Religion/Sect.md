@@ -135,7 +135,7 @@ aliases:
 
 # [[Sect]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sect,19097]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sect,19097|WD~Sect,19097]] 
 
 ## #has_/text_of_/abstract 
 

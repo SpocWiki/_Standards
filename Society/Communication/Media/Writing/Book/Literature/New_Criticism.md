@@ -85,7 +85,7 @@ dv_has_:
 
 # [[New_Criticism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~New_Criticism,742302]] 
+#is_/same_as :: [[_Standards/WikiData/WD~New_Criticism,742302|WD~New_Criticism,742302]] 
 
 ## #has_/text_of_/abstract 
 

@@ -168,7 +168,7 @@ dv_has_:
 
 # [[Philosophy_of_Mind]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Philosophy_of_mind,23407]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Philosophy_of_mind,23407|WD~Philosophy_of_mind,23407]] 
 
 ## #has_/text_of_/abstract 
 

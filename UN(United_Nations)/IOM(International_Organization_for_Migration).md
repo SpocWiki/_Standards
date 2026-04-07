@@ -193,7 +193,7 @@ dv_has_:
 
 # [[IOM(International_Organization_for_Migration)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Organization_for_Migration,472311]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Organization_for_Migration,472311|WD~International_Organization_for_Migration,472311]] 
 
 ## #has_/text_of_/abstract 
 

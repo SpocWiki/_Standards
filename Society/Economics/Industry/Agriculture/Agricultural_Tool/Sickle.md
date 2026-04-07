@@ -264,7 +264,7 @@ dv_has_:
 
 # [[Sickle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sickle,42233]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sickle,42233|WD~Sickle,42233]] 
 #is_/similar_to :: [[Scythe]]  
 
 ## #has_/text_of_/abstract 

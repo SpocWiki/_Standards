@@ -198,7 +198,7 @@ dv_has_:
 
 # [[Radar(Radio_Detection_and_Ranging)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Radar,47528]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Radar,47528|WD~Radar,47528]] 
 
 ## #has_/text_of_/abstract 
 

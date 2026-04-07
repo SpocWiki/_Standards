@@ -224,7 +224,7 @@ dv_has_:
 
 # [[Poultry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Poultry,178559]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Poultry,178559|WD~Poultry,178559]] 
 
 ## #has_/text_of_/abstract 
 

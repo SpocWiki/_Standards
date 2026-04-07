@@ -238,7 +238,7 @@ dv_has_:
 
 # [[Livestock]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Livestock,103459]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Livestock,103459|WD~Livestock,103459]] 
 
 ## #has_/text_of_/abstract 
 

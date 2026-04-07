@@ -389,7 +389,7 @@ dv_has_:
 
 # [[Vitamin_C]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_C,199678]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_C,199678|WD~Vitamin_C,199678]]  
 
 ## #has_/text_of_/abstract 
 

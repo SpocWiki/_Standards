@@ -254,7 +254,7 @@ dv_has_:
 
 # [[Motion]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Motion,79782]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Motion,79782|WD~Motion,79782]] 
 
 ## #has_/text_of_/abstract 
 

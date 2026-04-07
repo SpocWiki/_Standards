@@ -156,7 +156,7 @@ dv_has_:
 
 # [[Knox,John]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Knox,189937]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Knox,189937|WD~John_Knox,189937]] 
 
 ## #has_/text_of_/abstract 
 

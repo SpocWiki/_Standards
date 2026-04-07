@@ -1,22 +1,22 @@
 ---
 has_id_wikidata: Q12499775
-medical_condition_treated: "[[_Standards/WikiData/WD~myalgic_encephalomyelitis_chronic_fatigue_syndrome,209733]]"
+medical_condition_treated: "[[_Standards/WikiData/WD~myalgic_encephalomyelitis_chronic_fatigue_syndrome,209733|WD~myalgic_encephalomyelitis_chronic_fatigue_syndrome,209733]]"
 part_of:
-  - "[[_Standards/WikiData/WD~NAD_biosynthetic_process,14877323]]"
-  - "[[_Standards/WikiData/WD~NAD_binding,14890060]]"
-  - "[[_Standards/WikiData/WD~NAD_catabolic_process,21116884]]"
-  - "[[_Standards/WikiData/WD~NAD_transport,21122480]]"
-  - "[[_Standards/WikiData/WD~NAD_transmembrane_transporter_activity,21122481]]"
-  - "[[_Standards/WikiData/WD~NAD_salvage,22275582]]"
-  - "[[_Standards/WikiData/WD~NAD_transmembrane_transport,22290402]]"
-  - "[[_Standards/WikiData/WD~mitochondrial_NAD_transmembrane_transport,22290403]]"
+  - "[[_Standards/WikiData/WD~NAD_biosynthetic_process,14877323|WD~NAD_biosynthetic_process,14877323]]"
+  - "[[_Standards/WikiData/WD~NAD_binding,14890060|WD~NAD_binding,14890060]]"
+  - "[[_Standards/WikiData/WD~NAD_catabolic_process,21116884|WD~NAD_catabolic_process,21116884]]"
+  - "[[_Standards/WikiData/WD~NAD_transport,21122480|WD~NAD_transport,21122480]]"
+  - "[[_Standards/WikiData/WD~NAD_transmembrane_transporter_activity,21122481|WD~NAD_transmembrane_transporter_activity,21122481]]"
+  - "[[_Standards/WikiData/WD~NAD_salvage,22275582|WD~NAD_salvage,22275582]]"
+  - "[[_Standards/WikiData/WD~NAD_transmembrane_transport,22290402|WD~NAD_transmembrane_transport,22290402]]"
+  - "[[_Standards/WikiData/WD~mitochondrial_NAD_transmembrane_transport,22290403|WD~mitochondrial_NAD_transmembrane_transport,22290403]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~NAD+,26987253]]"
-  - "[[_Standards/WikiData/WD~NADH,26987453]]"
-  - "[[_Standards/WikiData/WD~NAD_zwitterion,71535049]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
-instance_of: "[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]"
-subclass_of: "[[_Standards/WikiData/WD~NAD(P),71525833]]"
+  - "[[_Standards/WikiData/WD~NAD+,26987253|WD~NAD+,26987253]]"
+  - "[[_Standards/WikiData/WD~NADH,26987453|WD~NADH,26987453]]"
+  - "[[_Standards/WikiData/WD~NAD_zwitterion,71535049|WD~NAD_zwitterion,71535049]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+instance_of: "[[_Standards/WikiData/WD~group_of_chemical_entities,55640599|WD~group_of_chemical_entities,55640599]]"
+subclass_of: "[[_Standards/WikiData/WD~NAD(P),71525833|WD~NAD(P),71525833]]"
 CosIng_number: "57411"
 PubChem_CID: "925"
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/NAD%2B.svg
@@ -35,7 +35,7 @@ RTECS_number: UU3450000
 
 # [[NADH(Nicotinamide_Adenine_Dinucleotide)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nicotinamide_Adenine_Dinucleotide,12499775]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nicotinamide_Adenine_Dinucleotide,12499775|WD~Nicotinamide_Adenine_Dinucleotide,12499775]] 
 
 ## #has_/text_of_/abstract 
 

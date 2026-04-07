@@ -167,7 +167,7 @@ dv_has_:
 
 # [[Center_of_Mass]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Center_of_Mass,2945123]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Center_of_Mass,2945123|WD~Center_of_Mass,2945123]] 
 
 ## #has_/text_of_/abstract 
 

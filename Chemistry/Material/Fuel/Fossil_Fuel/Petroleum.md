@@ -356,7 +356,7 @@ dv_has_:
 
 # [[Petroleum]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Petroleum,22656]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Petroleum,22656|WD~Petroleum,22656]] 
 
 ## #has_/text_of_/abstract 
 

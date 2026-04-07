@@ -244,7 +244,7 @@ dv_has_:
 
 # [[GPS(Global_Positioning_System)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Global_Positioning_System,18822]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Global_Positioning_System,18822|WD~Global_Positioning_System,18822]] 
 ## #has_/text_of_/abstract 
 
 > The Global Positioning System (GPS) is a satellite-based hyperbolic navigation system 

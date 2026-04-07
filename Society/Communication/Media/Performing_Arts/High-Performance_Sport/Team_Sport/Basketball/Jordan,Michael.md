@@ -380,7 +380,7 @@ dv_has_:
 
 # [[Jordan,Michael]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Michael_Jordan,41421]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Michael_Jordan,41421|WD~Michael_Jordan,41421]] 
 
 ## #has_/text_of_/abstract 
 

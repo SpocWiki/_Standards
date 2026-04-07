@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Orbital_Eccentricity]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orbital_eccentricity,208474]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orbital_eccentricity,208474|WD~Orbital_eccentricity,208474]] 
 
 ## #has_/text_of_/abstract 
 

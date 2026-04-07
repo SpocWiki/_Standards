@@ -117,7 +117,7 @@ dv_has_:
 
 # [[Pirate_Parties_International]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pirate_Parties_International,170]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pirate_Parties_International,170|WD~Pirate_Parties_International,170]] 
 
 ## #has_/text_of_/abstract 
 

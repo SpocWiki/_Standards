@@ -287,7 +287,7 @@ dv_has_:
 
 # [[Old_English]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Old_English,42365]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Old_English,42365|WD~Old_English,42365]] 
 
 ## #has_/text_of_/abstract 
 

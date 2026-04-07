@@ -68,7 +68,7 @@ dv_has_:
 
 # [[Jive]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jive,17237]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jive,17237|WD~Jive,17237]] 
 
 ## #has_/text_of_/abstract 
 

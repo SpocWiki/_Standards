@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Øresund_Bridge]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Øresund_Bridge,297871]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Øresund_Bridge,297871|WD~Øresund_Bridge,297871]] 
 
 ## #has_/text_of_/abstract 
 

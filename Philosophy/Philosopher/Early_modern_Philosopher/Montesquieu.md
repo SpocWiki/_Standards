@@ -271,7 +271,7 @@ dv_has_:
 # [[Montesquieu]] 
 
 #has_/created :: [[../../../Society/Politics/Political_Power/Separation_of_Powers|Separation_of_Powers]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Montesquieu,15975]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Montesquieu,15975|WD~Montesquieu,15975]] 
 
 ## #has_/text_of_/abstract 
 

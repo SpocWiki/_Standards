@@ -257,7 +257,7 @@ dv_has_:
 
 # [[Olivier,Laurence]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Laurence_Olivier,55245]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Laurence_Olivier,55245|WD~Laurence_Olivier,55245]] 
 
 ## #has_/text_of_/abstract 
 

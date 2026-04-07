@@ -225,7 +225,7 @@ Unicode_character: 💏
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kiss,7307]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kiss,7307|WD~Kiss,7307]] 
 
 ## #has_/text_of_/abstract 
 

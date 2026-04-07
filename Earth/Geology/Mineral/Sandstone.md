@@ -241,7 +241,7 @@ dv_has_:
 # [[Sandstone]] 
 
 is_different_from = `=this.dv_is_different_from`
-#is_/same_as :: [[_Standards/WikiData/WD~Sandstone,13085]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sandstone,13085|WD~Sandstone,13085]] 
 
 ## #has_/text_of_/abstract 
 

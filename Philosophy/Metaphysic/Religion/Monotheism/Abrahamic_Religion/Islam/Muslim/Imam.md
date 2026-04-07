@@ -226,7 +226,7 @@ dv_has_:
 
 # [[Imam]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Imam,125482]]
+#is_/same_as :: [[_Standards/WikiData/WD~Imam,125482|WD~Imam,125482]]
 
 ## #has_/text_of_/abstract 
 

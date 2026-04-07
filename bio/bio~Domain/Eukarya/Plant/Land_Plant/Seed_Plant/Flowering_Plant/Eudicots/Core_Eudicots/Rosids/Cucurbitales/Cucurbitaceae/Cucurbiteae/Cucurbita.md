@@ -192,7 +192,7 @@ dv_has_:
 
 # [[Cucurbita]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Cucurbita,5339301]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Cucurbita,5339301|WD~Cucurbita,5339301]]  
 
 ## #has_/text_of_/abstract 
 

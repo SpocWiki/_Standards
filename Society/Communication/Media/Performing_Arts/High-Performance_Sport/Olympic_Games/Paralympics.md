@@ -238,7 +238,7 @@ dv_has_:
 
 # [[Paralympics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paralympic_Games,73633]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paralympic_Games,73633|WD~Paralympic_Games,73633]] 
 
 ## #has_/text_of_/abstract 
 

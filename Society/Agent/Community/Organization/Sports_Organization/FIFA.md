@@ -223,7 +223,7 @@ aliases:
 
 # [[FIFA]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~FIFA,253414]] 
+#is_/same_as :: [[_Standards/WikiData/WD~FIFA,253414|WD~FIFA,253414]] 
 
 ## #has_/text_of_/abstract 
 

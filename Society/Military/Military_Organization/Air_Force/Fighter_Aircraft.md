@@ -218,7 +218,7 @@ dv_has_:
 
 # [[Fighter_Aircraft]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Fighter,127771]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Fighter,127771|WD~Fighter,127771]] 
 
 ## #has_/text_of_/abstract 
 

@@ -259,7 +259,7 @@ dv_has_:
 
 # [[Samuelson,Paul]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paul_Samuelson,102454]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paul_Samuelson,102454|WD~Paul_Samuelson,102454]] 
 
 ## #has_/text_of_/abstract 
 

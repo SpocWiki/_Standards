@@ -193,7 +193,7 @@ dv_has_:
 
 # [[Jungle]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jungle,191086]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jungle,191086|WD~Jungle,191086]] 
 
 ## #has_/text_of_/abstract 
 

@@ -355,7 +355,7 @@ dv_has_:
 
 # [[Prison]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Prison,40357]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Prison,40357|WD~Prison,40357]] 
 
 ## #has_/text_of_/abstract 
 

@@ -171,7 +171,7 @@ dv_has_:
 
 # [[Puzo,Mario]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mario_Puzo,182870]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mario_Puzo,182870|WD~Mario_Puzo,182870]] 
 
 ## #has_/text_of_/abstract 
 

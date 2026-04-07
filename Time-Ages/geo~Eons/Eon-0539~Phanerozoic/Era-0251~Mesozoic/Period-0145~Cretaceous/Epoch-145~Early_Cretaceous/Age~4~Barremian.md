@@ -103,7 +103,7 @@ dv_has_:
     stopped: -121.40e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Barremian,732702]]'
+  - '[[_Standards/WikiData/WD~Barremian,732702|WD~Barremian,732702]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian|Age~4~Barremian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.public|Age~4~Barremian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.internal|Age~4~Barremian.internal]]'
@@ -115,7 +115,7 @@ dv_has_duration_years: 4.370e+6
 dv_has_previous_item: '[[Age~3~Hauterivian]]'
 dv_has_next_item: '[[Age~5~Aptian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Barremian,732702]]'
+- '[[_Standards/WikiData/WD~Barremian,732702|WD~Barremian,732702]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian|Age~4~Barremian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.public|Age~4~Barremian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.internal|Age~4~Barremian.internal]]'
@@ -159,7 +159,7 @@ A time period from 125.77 to 121.4 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Barremian,732702]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Barremian,732702|WD~Barremian,732702]] 
 
 ## #has_/text_of_/abstract 
 

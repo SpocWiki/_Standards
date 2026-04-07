@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Magnetic_Tape]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magnetic_tape,193663]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magnetic_tape,193663|WD~Magnetic_tape,193663]] 
 
 ## #has_/text_of_/abstract 
 

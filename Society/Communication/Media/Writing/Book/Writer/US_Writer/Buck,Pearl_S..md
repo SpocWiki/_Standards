@@ -281,7 +281,7 @@ dv_has_:
 
 # [[Buck,Pearl_S.]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pearl_S._Buck,80900]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pearl_S._Buck,80900|WD~Pearl_S._Buck,80900]] 
 
 ## #has_/text_of_/abstract 
 

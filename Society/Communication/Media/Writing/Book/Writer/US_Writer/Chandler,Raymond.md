@@ -170,7 +170,7 @@ dv_has_:
 
 # [[Chandler,Raymond]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Raymond_Chandler,180377]]
+#is_/same_as :: [[_Standards/WikiData/WD~Raymond_Chandler,180377|WD~Raymond_Chandler,180377]]
 
 ## #has_/text_of_/abstract 
 

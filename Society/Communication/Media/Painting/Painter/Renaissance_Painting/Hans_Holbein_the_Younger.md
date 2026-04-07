@@ -327,7 +327,7 @@ dv_has_:
 
 # [[Hans_Holbein_the_Younger]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hans_Holbein_the_Younger,48319]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hans_Holbein_the_Younger,48319|WD~Hans_Holbein_the_Younger,48319]] 
 
 ## #has_/text_of_/abstract 
 

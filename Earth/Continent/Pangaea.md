@@ -184,7 +184,7 @@ aliases:
 
 # [[Pangaea]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pangaea,4398]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pangaea,4398|WD~Pangaea,4398]] 
 
 ## #has_/text_of_/abstract 
 

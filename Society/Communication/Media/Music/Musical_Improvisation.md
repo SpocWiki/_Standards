@@ -101,7 +101,7 @@ dv_has_:
 
 # [[Musical_Improvisation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Musical_improvisation,1049625]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Musical_improvisation,1049625|WD~Musical_improvisation,1049625]] 
 
 ## #has_/text_of_/abstract 
 

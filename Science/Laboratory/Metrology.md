@@ -189,7 +189,7 @@ dv_has_:
 
 # [[Metrology]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Metrology,394]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Metrology,394|WD~Metrology,394]] 
 
 ## #has_/text_of_/abstract 
 

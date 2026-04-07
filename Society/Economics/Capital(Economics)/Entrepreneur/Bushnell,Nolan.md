@@ -127,7 +127,7 @@ dv_has_:
 
 # [[Bushnell,Nolan]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nolan_Bushnell,335039]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nolan_Bushnell,335039|WD~Nolan_Bushnell,335039]] 
 #has_/created :: [[Atari]] 
 
 ## #has_/text_of_/abstract 

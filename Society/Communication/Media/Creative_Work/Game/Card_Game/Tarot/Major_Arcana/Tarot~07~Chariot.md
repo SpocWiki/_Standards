@@ -3,8 +3,8 @@ aliases:
   - 
 has_id_wikidata: Q745564
 Unicode_character: 🃧
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357]]"
-instance_of: "[[_Standards/WikiData/WD~playing_card,47883]]"
+part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
+instance_of: "[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CHARRIOT%2C%20CARRO%2C%20Tarot%20Marsella.jpg
 Commons_category: Chariot (Major Arcana)
 ---
@@ -12,7 +12,7 @@ Commons_category: Chariot (Major Arcana)
 # [[Tarot~07~Chariot]] 🃧 
 
 #is_/same_as :: [[WD~The_Chariot_(tarot_card),745564]] 
-#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~07~Chariot.jpg]] 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~07~Chariot.jpg|Tarot~07~Chariot.jpg]] 
 
 
 

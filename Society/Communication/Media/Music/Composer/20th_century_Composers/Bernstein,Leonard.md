@@ -291,7 +291,7 @@ dv_has_:
 
 # [[Bernstein,Leonard]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Leonard_Bernstein,152505]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leonard_Bernstein,152505|WD~Leonard_Bernstein,152505]] 
 
 ## #has_/text_of_/abstract 
 

@@ -254,7 +254,7 @@ dv_has_:
 
 # [[Sea_Level]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sea_level,125465]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sea_level,125465|WD~Sea_level,125465]] 
 
 ## #has_/text_of_/abstract 
 

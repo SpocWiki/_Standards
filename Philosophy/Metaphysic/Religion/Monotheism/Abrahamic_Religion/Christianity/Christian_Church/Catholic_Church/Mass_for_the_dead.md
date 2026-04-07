@@ -133,7 +133,7 @@ dv_has_:
 
 # [[Mass_for_the_dead]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mass_for_the_dead,51616]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mass_for_the_dead,51616|WD~Mass_for_the_dead,51616]] 
 
 ## #has_/text_of_/abstract 
 

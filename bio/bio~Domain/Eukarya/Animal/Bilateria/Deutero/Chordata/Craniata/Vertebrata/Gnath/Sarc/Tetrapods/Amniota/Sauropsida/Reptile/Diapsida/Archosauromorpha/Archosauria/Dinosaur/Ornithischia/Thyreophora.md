@@ -106,7 +106,7 @@ dv_has_:
 
 # [[Thyreophora]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Thyreophora,823931]]
+#is_/same_as :: [[_Standards/WikiData/WD~Thyreophora,823931|WD~Thyreophora,823931]]
 
 ## #has_/text_of_/abstract 
 

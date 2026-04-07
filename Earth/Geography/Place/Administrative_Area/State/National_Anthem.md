@@ -380,7 +380,7 @@ dv_has_:
 
 # [[National_Anthem]] 
 
-#is_/same_as  :: [[_Standards/WikiData/WD~National_anthem,23691]] 
+#is_/same_as  :: [[_Standards/WikiData/WD~National_anthem,23691|WD~National_anthem,23691]] 
 
 ## #has_/text_of_/abstract 
 

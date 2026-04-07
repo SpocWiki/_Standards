@@ -36,7 +36,7 @@ image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Messinian%20Mediterranean%20and%20Gibraltar%20-%20reconstructed%20landscape.jpg
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Zanclean_flood,3612703]]'
+  - '[[_Standards/WikiData/WD~Zanclean_flood,3612703|WD~Zanclean_flood,3612703]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood|Zanclean_Flood]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.public|Zanclean_Flood.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.internal|Zanclean_Flood.internal]]'
@@ -45,7 +45,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.personal|Zanclean_Flood.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.secret|Zanclean_Flood.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Zanclean_flood,3612703]]'
+- '[[_Standards/WikiData/WD~Zanclean_flood,3612703|WD~Zanclean_flood,3612703]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood|Zanclean_Flood]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.public|Zanclean_Flood.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.internal|Zanclean_Flood.internal]]'
@@ -84,7 +84,7 @@ dv_has_:
 
 # [[Zanclean_Flood]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Zanclean_flood,3612703]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Zanclean_flood,3612703|WD~Zanclean_flood,3612703]] 
 
 ## #has_/text_of_/abstract 
 

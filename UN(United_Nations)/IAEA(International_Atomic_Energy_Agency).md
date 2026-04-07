@@ -274,7 +274,7 @@ dv_has_:
 
 # [[IAEA(International_Atomic_Energy_Agency)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984|WD~International_Atomic_Energy_Agency,41984]] 
 
 ## #has_/text_of_/abstract 
 

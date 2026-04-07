@@ -149,7 +149,7 @@ dv_has_:
 
 # [[Gregorian_Chant]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Gregorian_chant,26473]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gregorian_chant,26473|WD~Gregorian_chant,26473]] 
 
 ## #has_/text_of_/abstract 
 

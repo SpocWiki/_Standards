@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Group]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Group,83478]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Group,83478|WD~Group,83478]] 
 
 ## #has_/text_of_/abstract 
 

@@ -106,7 +106,7 @@ dv_has_:
 
 # [[Peopling_of_the_Americas]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peopling_of_the_Americas,13925462]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peopling_of_the_Americas,13925462|WD~Peopling_of_the_Americas,13925462]] 
 
 ![[../../../../../../../../../xLarge/Earth/Human_early_migrations.svg|Human_early_migrations.svg]] 
 

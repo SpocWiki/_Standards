@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Menander]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Menander,118992]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Menander,118992|WD~Menander,118992]] 
 
 ## #has_/text_of_/abstract 
 

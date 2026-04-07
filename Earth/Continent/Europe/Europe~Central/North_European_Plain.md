@@ -168,7 +168,7 @@ dv_has_:
 
 # [[North_European_Plain]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~North_European_Plain,560549]] 
+#is_/same_as :: [[_Standards/WikiData/WD~North_European_Plain,560549|WD~North_European_Plain,560549]] 
 
 ## #has_/map  
 

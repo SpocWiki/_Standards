@@ -454,7 +454,7 @@ dv_has_:
 
 # [[Red_Sea]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Red_Sea,23406]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Red_Sea,23406|WD~Red_Sea,23406]] 
 
 ## #has_/map  
 

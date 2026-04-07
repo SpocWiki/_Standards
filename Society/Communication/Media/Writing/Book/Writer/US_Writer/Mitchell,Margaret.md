@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Mitchell,Margaret]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Margaret_Mitchell,173540]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Margaret_Mitchell,173540|WD~Margaret_Mitchell,173540]] 
 
 ## #has_/text_of_/abstract 
 

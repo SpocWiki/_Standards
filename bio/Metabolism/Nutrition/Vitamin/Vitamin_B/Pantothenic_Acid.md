@@ -171,7 +171,7 @@ dv_has_:
 
 # [[Pantothenic_Acid]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pantothenic_Acid,179894]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pantothenic_Acid,179894|WD~Pantothenic_Acid,179894]] 
 
 ## #has_/text_of_/abstract 
 

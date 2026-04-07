@@ -201,7 +201,7 @@ dv_has_:
     stopped: -358.9e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Devonian,65955]]'
+  - '[[_Standards/WikiData/WD~Devonian,65955|WD~Devonian,65955]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian|Period-0419~Devonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.public|Period-0419~Devonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.internal|Period-0419~Devonian.internal]]'
@@ -213,7 +213,7 @@ dv_has_duration_years: 6.030e+7
 dv_has_previous_item: '[[Period-0444~Silurian]]'
 dv_has_next_item: '[[Period-0359~Carboniferous]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Devonian,65955]]'
+- '[[_Standards/WikiData/WD~Devonian,65955|WD~Devonian,65955]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian|Period-0419~Devonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.public|Period-0419~Devonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.internal|Period-0419~Devonian.internal]]'
@@ -255,7 +255,7 @@ dv_has_text_of_color: 0xCB8C37
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Devonian,65955]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Devonian,65955|WD~Devonian,65955]]  
 
 A time period from 419.2 to 358.9 million years ago. 
 

@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Nissan_Motor]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nissan_Motor_Co._Ltd.,20165]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nissan_Motor_Co._Ltd.,20165|WD~Nissan_Motor_Co._Ltd.,20165]] 
 
 ## #has_/text_of_/abstract 
 

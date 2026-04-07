@@ -101,7 +101,7 @@ dv_has_:
 
 # [[White_Tiger(Mythology)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~White_Tiger,1072455]] 
+#is_/same_as :: [[_Standards/WikiData/WD~White_Tiger,1072455|WD~White_Tiger,1072455]] 
 
 ## #has_/text_of_/abstract 
 

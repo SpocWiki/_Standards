@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Salk,Jonas]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jonas_Salk,200101]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jonas_Salk,200101|WD~Jonas_Salk,200101]] 
 
 ## #has_/text_of_/abstract 
 

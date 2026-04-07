@@ -52,7 +52,7 @@ dv_has_:
 
 # [[Alexander's_Ragtime_Band]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Alexander's_Ragtime_Band,1293813]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Alexander's_Ragtime_Band,1293813|WD~Alexander's_Ragtime_Band,1293813]] 
 
 ## #has_/text_of_/abstract 
 

@@ -288,7 +288,7 @@ dv_has_:
 
 # [[Cacao_Tree]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Theobroma_Cacao,42385]]
+#is_/same_as :: [[_Standards/WikiData/WD~Theobroma_Cacao,42385|WD~Theobroma_Cacao,42385]]
 
 ## #has_/text_of_/abstract 
 

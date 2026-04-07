@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Harvest]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Harvest,213753]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Harvest,213753|WD~Harvest,213753]] 
 
 ## #has_/text_of_/abstract 
 

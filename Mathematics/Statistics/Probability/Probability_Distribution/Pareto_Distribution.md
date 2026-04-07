@@ -94,7 +94,7 @@ dv_has_:
 	- -1.57 for France 
 	- -1.60 for Prussia 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pareto_distribution,837683]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pareto_distribution,837683|WD~Pareto_distribution,837683]] 
 #has_/url_/for_/wikidata :: https://www.wikidata.org/wiki/Q837683 
 
 ## #has_/text_of_/abstract 

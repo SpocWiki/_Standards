@@ -90,7 +90,7 @@ dv_has_:
 
 # [[Multivariable_Calculus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Multivariable_calculus,2035437]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Multivariable_calculus,2035437|WD~Multivariable_calculus,2035437]] 
 
 ## #has_/text_of_/abstract 
 

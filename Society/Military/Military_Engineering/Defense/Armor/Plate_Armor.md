@@ -99,7 +99,7 @@ dv_has_:
 
 # [[Plate_Armor]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Plate_armor,3391846]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plate_armor,3391846|WD~Plate_armor,3391846]] 
 
 ## #has_/text_of_/abstract 
 

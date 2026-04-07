@@ -80,7 +80,7 @@ dv_has_:
     stopped: -470.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Floian,10528257]]'
+  - '[[_Standards/WikiData/WD~Floian,10528257|WD~Floian,10528257]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-477~Floian|Age-477~Floian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-477~Floian.public|Age-477~Floian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-477~Floian.internal|Age-477~Floian.internal]]'
@@ -92,7 +92,7 @@ dv_has_duration_years: 7.700e+6
 dv_has_previous_item: '[[Age-485~Tremadocian]]'
 dv_has_next_item: '[[../Epoch-470~Middle_Ordovician/Age-470~Dapingian|Age-470~Dapingian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Floian,10528257]]'
+- '[[_Standards/WikiData/WD~Floian,10528257|WD~Floian,10528257]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-477~Floian|Age-477~Floian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-477~Floian.public|Age-477~Floian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-477~Floian.internal|Age-477~Floian.internal]]'
@@ -133,7 +133,7 @@ dv_has_text_of_color: 0x41B087
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Floian,10528257]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Floian,10528257|WD~Floian,10528257]] 
 
 A time period from 477.7 to 470.0 million years ago. 
 

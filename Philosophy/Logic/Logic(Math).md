@@ -208,7 +208,7 @@ dv_has_:
 
 # [[Logic(Math)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mathematical_logic,1166618]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mathematical_logic,1166618|WD~Mathematical_logic,1166618]] 
 
 ## #has_/text_of_/abstract 
 

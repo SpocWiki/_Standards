@@ -55,8 +55,8 @@ aliases:
   - 經驗開放度
   - 经验开放性
   - 경험 개방성
-part_of: "[[_Standards/WikiData/WD~Big_Five_personality_traits,378132]]"
-instance_of: "[[_Standards/WikiData/WD~personality_trait,2393196]]"
+part_of: "[[_Standards/WikiData/WD~Big_Five_personality_traits,378132|WD~Big_Five_personality_traits,378132]]"
+instance_of: "[[_Standards/WikiData/WD~personality_trait,2393196|WD~personality_trait,2393196]]"
 ---
 
 # [[Openness(to_Experience)]]  

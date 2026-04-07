@@ -225,7 +225,7 @@ dv_has_:
 
 # [[Reincarnation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Reincarnation,128593]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Reincarnation,128593|WD~Reincarnation,128593]] 
 
 ## #has_/text_of_/abstract 
 

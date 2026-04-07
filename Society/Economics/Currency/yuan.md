@@ -218,7 +218,7 @@ dv_has_:
 
 # [[yuan]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Renminbi,39099]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Renminbi,39099|WD~Renminbi,39099]] 
 
 ## #has_/text_of_/abstract 
 

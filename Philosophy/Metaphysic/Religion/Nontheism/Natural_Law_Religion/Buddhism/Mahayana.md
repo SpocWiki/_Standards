@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Mahayana]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mahāyāna,48362]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mahāyāna,48362|WD~Mahāyāna,48362]] 
 
 ## #has_/text_of_/abstract 
 

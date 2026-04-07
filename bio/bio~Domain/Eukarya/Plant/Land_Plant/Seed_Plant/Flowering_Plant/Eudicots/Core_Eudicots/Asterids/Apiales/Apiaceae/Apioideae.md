@@ -93,7 +93,7 @@ dv_has_:
 
 # [[Apioideae]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Apioideae,149875]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Apioideae,149875|WD~Apioideae,149875]] 
 
 ## #has_/text_of_/abstract 
 

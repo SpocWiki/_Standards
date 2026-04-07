@@ -173,25 +173,25 @@ dv_has_:
     zh-hant: 精神科醫師
     zh-tw: 精神科醫師
 different_from:
-  - "[[_Standards/WikiData/WD~psychologist,212980]]"
-  - "[[_Standards/WikiData/WD~psychotherapist,1900167]]"
+  - "[[_Standards/WikiData/WD~psychologist,212980|WD~psychologist,212980]]"
+  - "[[_Standards/WikiData/WD~psychotherapist,1900167|WD~psychotherapist,1900167]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-replaces: "[[_Standards/WikiData/WD~Q2024959,2024959]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+replaces: "[[_Standards/WikiData/WD~Q2024959,2024959|WD~Q2024959,2024959]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~medical_specialist,3332438]]"
-  - "[[_Standards/WikiData/WD~mental_health_professional,6817473]]"
-  - "[[_Standards/WikiData/WD~physician,39631]]"
+  - "[[_Standards/WikiData/WD~medical_specialist,3332438|WD~medical_specialist,3332438]]"
+  - "[[_Standards/WikiData/WD~mental_health_professional,6817473|WD~mental_health_professional,6817473]]"
+  - "[[_Standards/WikiData/WD~physician,39631|WD~physician,39631]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~position,4164871]]"
-  - "[[_Standards/WikiData/WD~profession,28640]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~alienist,4726509]]"
-has_list: "[[_Standards/WikiData/WD~list_of_psychiatrists,6635543]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Psychiatrists,8804168]]"
-category_for_eponymous_categories: "[[_Standards/WikiData/WD~Category_Categories_named_after_psychiatrists_or_psychologists,31960710]]"
+  - "[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]"
+  - "[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~alienist,4726509|WD~alienist,4726509]]"
+has_list: "[[_Standards/WikiData/WD~list_of_psychiatrists,6635543|WD~list_of_psychiatrists,6635543]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Psychiatrists,8804168|WD~Category_Psychiatrists,8804168]]"
+category_for_eponymous_categories: "[[_Standards/WikiData/WD~Category_Categories_named_after_psychiatrists_or_psychologists,31960710|WD~Category_Categories_named_after_psychiatrists_or_psychologists,31960710]]"
 properties_for_this_type: Biographisches Archiv der Psychiatrie  ID
-field_of_this_occupation: "[[_Standards/WikiData/WD~psychiatry,7867]]"
+field_of_this_occupation: "[[_Standards/WikiData/WD~psychiatry,7867|WD~psychiatry,7867]]"
 ISCO_08_occupation_class: "2212"
 ISCO_88_occupation_class: "2221"
 ROME_Occupation_Code: "18227"
@@ -239,9 +239,9 @@ Commons_category: Psychiatrists
 
 # [[Psychiatrist]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Psychiatrist,211346]]
+#is_/same_as :: [[_Standards/WikiData/WD~Psychiatrist,211346|WD~Psychiatrist,211346]]
 
-#is_/better_than :: [[./Psychologist]]  
+#is_/better_than :: [[./Psychologist|Psychologist]]  
 
 ## #has_/text_of_/abstract 
 

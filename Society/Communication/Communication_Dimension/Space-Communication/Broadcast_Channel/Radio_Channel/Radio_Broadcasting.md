@@ -180,7 +180,7 @@ dv_has_:
 
 # [[Radio_Broadcasting]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Radio_broadcasting,273623]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Radio_broadcasting,273623|WD~Radio_broadcasting,273623]] 
 
 ## #has_/text_of_/abstract 
 

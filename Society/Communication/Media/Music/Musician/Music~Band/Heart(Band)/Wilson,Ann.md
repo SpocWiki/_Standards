@@ -107,7 +107,7 @@ dv_has_:
 
 # [[Wilson,Ann]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ann_Wilson,258053]]
+#is_/same_as :: [[_Standards/WikiData/WD~Ann_Wilson,258053|WD~Ann_Wilson,258053]]
 
 ## #has_/text_of_/abstract 
 

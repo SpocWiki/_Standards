@@ -495,7 +495,7 @@ dv_has_:
 
 # [[Toyota]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Toyota,53268]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Toyota,53268|WD~Toyota,53268]] 
 
 ## #has_/text_of_/abstract 
 

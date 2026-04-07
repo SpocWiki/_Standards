@@ -205,7 +205,7 @@ dv_has_:
 
 # [[2001-War_on_Terror+2021]] 
 
-#is_/same_as ::  [[_Standards/WikiData/WD~War_on_Terror,185729]] 
+#is_/same_as ::  [[_Standards/WikiData/WD~War_on_Terror,185729|WD~War_on_Terror,185729]] 
 
 ## #has_/text_of_/abstract 
 

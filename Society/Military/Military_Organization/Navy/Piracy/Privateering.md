@@ -164,7 +164,7 @@ dv_has_:
 # [[Privateering]] 
 
 #is_/similar_to :: [[../Piracy|Piracy]]  
-#is_/same_as :: [[_Standards/WikiData/WD~Privateer,201559]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Privateer,201559|WD~Privateer,201559]] 
 
 ## #has_/text_of_/abstract 
 

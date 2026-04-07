@@ -322,7 +322,7 @@ Unicode_character: 👒
 
 # [[Hat]] 👒 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hat,80151]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hat,80151|WD~Hat,80151]] 
 
 ## #has_/text_of_/abstract 
 

@@ -101,7 +101,7 @@ dv_has_:
     stopped: -37.71e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Bartonian,508675]]'
+  - '[[_Standards/WikiData/WD~Bartonian,508675|WD~Bartonian,508675]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian|Age~3~Bartonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.public|Age~3~Bartonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.internal|Age~3~Bartonian.internal]]'
@@ -113,7 +113,7 @@ dv_has_duration_years: 3.490e+6
 dv_has_previous_item: '[[Age~2~Lutetian]]'
 dv_has_next_item: '[[Age~4~Priabonian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Bartonian,508675]]'
+- '[[_Standards/WikiData/WD~Bartonian,508675|WD~Bartonian,508675]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian|Age~3~Bartonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.public|Age~3~Bartonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.internal|Age~3~Bartonian.internal]]'
@@ -157,7 +157,7 @@ A time period from 41.2 to 37.71 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Bartonian,508675]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Bartonian,508675|WD~Bartonian,508675]] 
 
 ## #has_/text_of_/abstract 
 

@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Sail]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sail,25999]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sail,25999|WD~Sail,25999]] 
 
 ## #has_/text_of_/abstract 
 

@@ -98,7 +98,7 @@ dv_has_:
     stopped: -358.9e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Famennian,253839]]'
+  - '[[_Standards/WikiData/WD~Famennian,253839|WD~Famennian,253839]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.public|Age~2~Famennian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.internal|Age~2~Famennian.internal]]'
@@ -110,7 +110,7 @@ dv_has_duration_years: 1.330e+7
 dv_has_previous_item: '[[Age~1~Frasnian]]'
 dv_has_next_item: '[[../../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Famennian,253839]]'
+- '[[_Standards/WikiData/WD~Famennian,253839|WD~Famennian,253839]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.public|Age~2~Famennian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.internal|Age~2~Famennian.internal]]'
@@ -152,7 +152,7 @@ dv_has_text_of_color: 0xF2EDB3
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Famennian,253839]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Famennian,253839|WD~Famennian,253839]] 
 
 A time period from 372.2 to 358.9 million years ago. 
 

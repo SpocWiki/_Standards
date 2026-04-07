@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Origami]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Origami,83357]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Origami,83357|WD~Origami,83357]] 
 
 ## #has_/text_of_/abstract 
 

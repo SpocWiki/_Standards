@@ -535,7 +535,7 @@ dv_has_:
 
 # [[Library_of_Congress]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Library_of_Congress,131454]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Library_of_Congress,131454|WD~Library_of_Congress,131454]] 
 
 ## #has_/text_of_/abstract 
 

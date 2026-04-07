@@ -88,7 +88,7 @@ taxon_range:
 - '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
 named_after: '[[_Standards/WikiData/WD~spermaceti,369682|WD~spermaceti,369682]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
 - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
@@ -228,7 +228,7 @@ dv_has_:
 
 # [[Sperm_Whale]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Physeter_macrocephalus,81214]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Physeter_macrocephalus,81214|WD~Physeter_macrocephalus,81214]]  
 
 ## #has_/text_of_/abstract 
 

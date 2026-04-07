@@ -273,7 +273,7 @@ dv_has_:
 
 # [[Nitroglycerin]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nitroglycerin,162867]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nitroglycerin,162867|WD~Nitroglycerin,162867]] 
 
 ## #has_/text_of_/abstract 
 

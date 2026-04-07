@@ -103,7 +103,7 @@ dv_has_:
 
 # [[Fender,Leo]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Leo_Fender,297469]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leo_Fender,297469|WD~Leo_Fender,297469]] 
 
 ## #has_/text_of_/abstract 
 

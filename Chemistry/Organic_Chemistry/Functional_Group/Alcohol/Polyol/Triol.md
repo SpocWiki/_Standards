@@ -19,7 +19,7 @@ instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,471
 Commons_category: Triols
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Triol,3539455]]'
+  - '[[_Standards/WikiData/WD~Triol,3539455|WD~Triol,3539455]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol|Triol]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.public|Triol.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.internal|Triol.internal]]'
@@ -28,7 +28,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.personal|Triol.personal]]'
   - '[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.secret|Triol.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Triol,3539455]]'
+- '[[_Standards/WikiData/WD~Triol,3539455|WD~Triol,3539455]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol|Triol]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.public|Triol.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.internal|Triol.internal]]'
@@ -60,7 +60,7 @@ dv_has_:
 
 # [[Triol]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Triol,3539455]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Triol,3539455|WD~Triol,3539455]] 
 
 
 ## #has_/text_of_/abstract 

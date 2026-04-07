@@ -121,7 +121,7 @@ dv_has_:
 
 # [[NASCAR]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~NASCAR,233929]] 
+#is_/same_as :: [[_Standards/WikiData/WD~NASCAR,233929|WD~NASCAR,233929]] 
 
 ## #has_/text_of_/abstract 
 

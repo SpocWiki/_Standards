@@ -95,7 +95,7 @@ dv_has_:
 
 # [[Nontheism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nontheism,871396]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nontheism,871396|WD~Nontheism,871396]] 
 
 ## #has_/text_of_/abstract 
 

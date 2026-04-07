@@ -272,7 +272,7 @@ dv_has_:
 
 # [[d'Alembert,Jean_le_Rond]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jean_le_Rond_d'Alembert,153232]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jean_le_Rond_d'Alembert,153232|WD~Jean_le_Rond_d'Alembert,153232]] 
 
 ## #has_/text_of_/abstract 
 

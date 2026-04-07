@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Peroxide]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peroxide,107429]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peroxide,107429|WD~Peroxide,107429]] 
 
 ## #has_/text_of_/abstract 
 

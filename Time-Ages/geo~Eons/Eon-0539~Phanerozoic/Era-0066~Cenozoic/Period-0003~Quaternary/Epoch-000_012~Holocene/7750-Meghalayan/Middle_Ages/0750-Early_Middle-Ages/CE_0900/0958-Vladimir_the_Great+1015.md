@@ -266,7 +266,7 @@ dv_has_:
 
 # [[0958-Vladimir_the_Great+1015]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Vladimir_the_Great,14974]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Vladimir_the_Great,14974|WD~Vladimir_the_Great,14974]] 
 
 Christianized the Kievan Rus
 

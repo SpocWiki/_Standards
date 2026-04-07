@@ -49,7 +49,7 @@ dv_has_:
 
 # [[PACMAD]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~PACMAD,17117466]]
+#is_/same_as :: [[_Standards/WikiData/WD~PACMAD,17117466|WD~PACMAD,17117466]]
 
 ## #has_/text_of_/abstract 
 

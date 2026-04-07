@@ -214,7 +214,7 @@ Unicode_character: 🦥
 
 # [[Sloth]] 🦥 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sloth,2274076]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sloth,2274076|WD~Sloth,2274076]] 
 
 ## #has_/text_of_/abstract 
 

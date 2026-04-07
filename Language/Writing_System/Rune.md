@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Rune]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Runes,82996]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Runes,82996|WD~Runes,82996]] 
 
 ## #has_/text_of_/abstract 
 

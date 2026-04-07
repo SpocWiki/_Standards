@@ -187,7 +187,7 @@ dv_has_:
 
 # [[Petrology]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Petrology,163082]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Petrology,163082|WD~Petrology,163082]] 
 
 ## #has_/text_of_/abstract 
 

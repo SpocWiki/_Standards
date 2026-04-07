@@ -249,7 +249,7 @@ dv_has_:
 
 # [[Lobachevsky,Nikolai_Ivanovich]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nikolai_Ivanovich_Lobachevsky,129199]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nikolai_Ivanovich_Lobachevsky,129199|WD~Nikolai_Ivanovich_Lobachevsky,129199]] 
 
 ## #has_/text_of_/abstract 
 

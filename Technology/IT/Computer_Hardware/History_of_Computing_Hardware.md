@@ -150,7 +150,7 @@ dv_has_:
 
 # [[History_of_Computing_Hardware]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~History_of_computing_hardware,186148]] 
+#is_/same_as :: [[_Standards/WikiData/WD~History_of_computing_hardware,186148|WD~History_of_computing_hardware,186148]] 
 
 ## #has_/text_of_/abstract 
 

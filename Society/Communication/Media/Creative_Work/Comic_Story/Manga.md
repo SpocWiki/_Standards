@@ -217,7 +217,7 @@ dv_has_:
 
 # [[Manga]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Manga,8274]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Manga,8274|WD~Manga,8274]] 
 
 ## #has_/text_of_/abstract 
 

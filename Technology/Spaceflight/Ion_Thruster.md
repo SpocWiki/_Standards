@@ -116,7 +116,7 @@ dv_has_:
 
 # [[Ion_Thruster]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ion_thruster,205702]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ion_thruster,205702|WD~Ion_thruster,205702]] 
 
 ## #has_/text_of_/abstract 
 

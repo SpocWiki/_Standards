@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Mysticism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mysticism,45996]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mysticism,45996|WD~Mysticism,45996]] 
 
 ## #has_/text_of_/abstract 
 

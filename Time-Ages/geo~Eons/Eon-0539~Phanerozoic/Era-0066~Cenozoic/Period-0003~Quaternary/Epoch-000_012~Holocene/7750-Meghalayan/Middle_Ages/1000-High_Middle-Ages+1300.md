@@ -136,7 +136,7 @@ dv_has_:
     stopped: 1300-06-01T00:00:00.000+00:53
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~High_Middle-Ages,212685]]'
+  - '[[_Standards/WikiData/WD~High_Middle-Ages,212685|WD~High_Middle-Ages,212685]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300|1000-High_Middle-Ages+1300]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.public|1000-High_Middle-Ages+1300.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.internal|1000-High_Middle-Ages+1300.internal]]'
@@ -151,7 +151,7 @@ dv_has_duration_: P300Y
 dv_has_previous_item: '[[0750-Early_Middle-Ages]]'
 dv_has_next_item: '[[1300-Late_Middle-Ages]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~High_Middle-Ages,212685]]'
+- '[[_Standards/WikiData/WD~High_Middle-Ages,212685|WD~High_Middle-Ages,212685]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300|1000-High_Middle-Ages+1300]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.public|1000-High_Middle-Ages+1300.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.internal|1000-High_Middle-Ages+1300.internal]]'
@@ -173,7 +173,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~High_Middle-Ages,212685]] 
+#is_/same_as :: [[_Standards/WikiData/WD~High_Middle-Ages,212685|WD~High_Middle-Ages,212685]] 
 
 ## #has_/text_of_/abstract 
 

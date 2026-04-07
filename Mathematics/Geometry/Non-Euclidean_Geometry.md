@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Non-Euclidean_Geometry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Non-Euclidean_geometry,233858]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Non-Euclidean_geometry,233858|WD~Non-Euclidean_geometry,233858]] 
 
 ## #has_/text_of_/abstract 
 

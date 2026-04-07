@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Larva]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Larva,129270]]
+#is_/same_as :: [[_Standards/WikiData/WD~Larva,129270|WD~Larva,129270]]
 
 ## #has_/text_of_/abstract 
 

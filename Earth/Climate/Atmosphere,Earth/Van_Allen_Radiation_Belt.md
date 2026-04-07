@@ -161,7 +161,7 @@ dv_has_:
 
 # [[Van_Allen_Radiation_Belt]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Van_Allen_radiation_belt,188533]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Van_Allen_radiation_belt,188533|WD~Van_Allen_radiation_belt,188533]] 
 
 ## #has_/text_of_/abstract 
 

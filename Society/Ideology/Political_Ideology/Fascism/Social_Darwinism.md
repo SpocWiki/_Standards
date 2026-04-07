@@ -140,7 +140,7 @@ dv_has_:
 
 # [[Social_Darwinism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Social_Darwinism,202261]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Social_Darwinism,202261|WD~Social_Darwinism,202261]] 
 
 
 ## #has_/text_of_/abstract 

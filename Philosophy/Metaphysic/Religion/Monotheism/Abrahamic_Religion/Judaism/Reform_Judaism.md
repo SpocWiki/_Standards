@@ -128,7 +128,7 @@ dv_has_:
 
 # [[Reform_Judaism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Reform_Judaism,1133485]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Reform_Judaism,1133485|WD~Reform_Judaism,1133485]] 
 
 ## #has_/text_of_/abstract 
 

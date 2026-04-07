@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Lunisolar_Calendar]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lunisolar_calendar,194235]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lunisolar_calendar,194235|WD~Lunisolar_calendar,194235]] 
 
 ## #has_/text_of_/abstract 
 

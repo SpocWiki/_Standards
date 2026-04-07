@@ -175,7 +175,7 @@ aliases:
 
 # [[Limnology]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Limnology,165838]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Limnology,165838|WD~Limnology,165838]] 
 
 ## #has_/text_of_/abstract 
 

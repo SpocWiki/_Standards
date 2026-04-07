@@ -4,7 +4,7 @@ dv_"HistoricalSite", "LincolnMemorial: j8vmv"
 dv_"Park", "LincolnMemorial: cp3zk"
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Lincoln_Memorial,213559]]'
+  - '[[_Standards/WikiData/WD~Lincoln_Memorial,213559|WD~Lincoln_Memorial,213559]]'
   - '[[/_Standards/Earth/Geography/Place/Lincoln_Memorial|Lincoln_Memorial]]'
   - '[[/_public/Earth/Geography/Place/Lincoln_Memorial.public|Lincoln_Memorial.public]]'
   - '[[/_internal/Earth/Geography/Place/Lincoln_Memorial.internal|Lincoln_Memorial.internal]]'
@@ -16,7 +16,7 @@ dv_building-lincolnmemorial: z9s68"
 dv_historicalsite-lincolnmemorial: j8vmv"
 dv_park-lincolnmemorial: cp3zk"
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Lincoln_Memorial,213559]]'
+- '[[_Standards/WikiData/WD~Lincoln_Memorial,213559|WD~Lincoln_Memorial,213559]]'
 - '[[/_Standards/Earth/Geography/Place/Lincoln_Memorial|Lincoln_Memorial]]'
 - '[[/_public/Earth/Geography/Place/Lincoln_Memorial.public|Lincoln_Memorial.public]]'
 - '[[/_internal/Earth/Geography/Place/Lincoln_Memorial.internal|Lincoln_Memorial.internal]]'
@@ -207,7 +207,7 @@ dv_has_:
 
 ![[../../../assets/Lincoln_Memorial.png|Lincoln_Memorial.png]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lincoln_Memorial,213559]]
+#is_/same_as :: [[_Standards/WikiData/WD~Lincoln_Memorial,213559|WD~Lincoln_Memorial,213559]]
 
 ## #has_/text_of_/abstract 
 

@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Partnership]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Partnership,728646]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Partnership,728646|WD~Partnership,728646]] 
 
 ## #has_/text_of_/abstract 
 

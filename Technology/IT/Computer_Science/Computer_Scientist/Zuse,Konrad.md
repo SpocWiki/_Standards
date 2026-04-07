@@ -187,7 +187,7 @@ dv_has_:
 
 # [[Zuse,Konrad]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Konrad_Zuse,60093]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Konrad_Zuse,60093|WD~Konrad_Zuse,60093]] 
 
 ## #has_/text_of_/abstract 
 

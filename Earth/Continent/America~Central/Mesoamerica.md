@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Mesoamerica]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mesoamerica,13703]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mesoamerica,13703|WD~Mesoamerica,13703]] 
 
 ## #has_/text_of_/abstract 
 

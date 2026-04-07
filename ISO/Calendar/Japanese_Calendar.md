@@ -101,7 +101,7 @@ dv_has_:
 
 # [[Japanese_Calendar]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Japanese_calendar,13788]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Japanese_calendar,13788|WD~Japanese_calendar,13788]] 
 
 ## #has_/text_of_/abstract 
 

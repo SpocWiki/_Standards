@@ -126,7 +126,7 @@ dv_has_:
 
 # [[Net]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Net,986291]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Net,986291|WD~Net,986291]] 
 
 ## #has_/text_of_/abstract 
 

@@ -261,7 +261,7 @@ dv_has_:
 
 # [[-2499-Phoenicia-0063]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Phoenicia,41642]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Phoenicia,41642|WD~Phoenicia,41642]] 
 
 ## #has_/text_of_/abstract 
 

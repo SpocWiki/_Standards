@@ -100,7 +100,7 @@ aliases:
 
 # [[Metropolis(Film)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Metropolis,151599]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Metropolis,151599|WD~Metropolis,151599]] 
 
 ## #has_/text_of_/abstract 
 

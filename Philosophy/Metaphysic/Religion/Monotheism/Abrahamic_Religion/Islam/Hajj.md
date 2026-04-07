@@ -271,7 +271,7 @@ dv_has_:
 
 # [[Hajj]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hajj,234915]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hajj,234915|WD~Hajj,234915]] 
 
 ## #has_/text_of_/abstract 
 

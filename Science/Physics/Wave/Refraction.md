@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Refraction]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Refraction,72277]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Refraction,72277|WD~Refraction,72277]] 
 
 ## #has_/text_of_/abstract 
 

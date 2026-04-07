@@ -377,7 +377,7 @@ dv_has_:
 
 # [[Godfather(Film)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~The_Godfather,47703]] 
+#is_/same_as :: [[_Standards/WikiData/WD~The_Godfather,47703|WD~The_Godfather,47703]] 
 
 ## #has_/text_of_/abstract 
 

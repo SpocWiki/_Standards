@@ -331,7 +331,7 @@ aliases:
 
 # [[Lang-kaz]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kazakh,9252]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kazakh,9252|WD~Kazakh,9252]] 
 
 ## #has_/text_of_/abstract 
 

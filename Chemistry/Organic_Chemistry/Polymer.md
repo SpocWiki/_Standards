@@ -217,7 +217,7 @@ dv_has_:
 
 # [[Polymer]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polymer,81163]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polymer,81163|WD~Polymer,81163]] 
 
 ## #has_/text_of_/abstract 
 

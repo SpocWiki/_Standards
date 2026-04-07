@@ -124,7 +124,7 @@ dv_has_:
 
 # [[Longevity]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Longevity,1066907]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Longevity,1066907|WD~Longevity,1066907]] 
 
 ## #has_/text_of_/abstract 
 

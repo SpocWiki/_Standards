@@ -186,7 +186,7 @@ dv_has_:
 
 # [[Sewer_Network]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sewer_network,156849]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sewer_network,156849|WD~Sewer_network,156849]] 
 
 ## #has_/text_of_/abstract 
 

@@ -378,7 +378,7 @@ dv_has_:
 
 # [[McCartney,Paul]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paul_McCartney,2599]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paul_McCartney,2599|WD~Paul_McCartney,2599]] 
 
 ## #has_/text_of_/abstract 
 

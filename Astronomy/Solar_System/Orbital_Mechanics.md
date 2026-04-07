@@ -124,7 +124,7 @@ dv_has_:
 
 # [[Orbital_Mechanics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orbital_mechanics,842433]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orbital_mechanics,842433|WD~Orbital_mechanics,842433]] 
 
 ## #has_/text_of_/abstract 
 

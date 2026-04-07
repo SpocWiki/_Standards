@@ -169,7 +169,7 @@ Unicode_character: 🏇
 
 # [[Polo]] 🏇 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polo,134211]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polo,134211|WD~Polo,134211]] 
 
 ## #has_/text_of_/abstract 
 

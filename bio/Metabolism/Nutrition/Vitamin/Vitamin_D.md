@@ -205,7 +205,7 @@ dv_has_:
 # [[Vitamin_D]] 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Vitamine,175621]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Vitamine,175621|WD~Vitamine,175621]] 
 
 ## #has_/text_of_/abstract 
 

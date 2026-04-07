@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Photonics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Photonics,467054]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Photonics,467054|WD~Photonics,467054]] 
 
 ## #has_/text_of_/abstract 
 

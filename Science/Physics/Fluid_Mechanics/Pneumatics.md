@@ -121,7 +121,7 @@ dv_has_:
 # [[Pneumatics]] 
 
 #is_/similar_to :: [[Hydraulics|Hydraulics]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Pneumatics,211500]]
+#is_/same_as :: [[_Standards/WikiData/WD~Pneumatics,211500|WD~Pneumatics,211500]]
 
 ## #has_/text_of_/abstract 
 

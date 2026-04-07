@@ -198,7 +198,7 @@ dv_has_:
 
 # [[Hadamard,Jacques]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jacques_Hadamard,164425]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jacques_Hadamard,164425|WD~Jacques_Hadamard,164425]] 
 
 ## #has_/text_of_/abstract 
 

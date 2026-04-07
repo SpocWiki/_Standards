@@ -465,7 +465,7 @@ dv_has_:
 
 # [[Paul_Gauguin]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paul_Gauguin,37693]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paul_Gauguin,37693|WD~Paul_Gauguin,37693]] 
 
 ## #has_/text_of_/abstract 
 

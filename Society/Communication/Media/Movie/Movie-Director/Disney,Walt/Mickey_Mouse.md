@@ -415,7 +415,7 @@ dv_has_:
 
 # [[Mickey_Mouse]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mickey_Mouse,11934]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mickey_Mouse,11934|WD~Mickey_Mouse,11934]] 
 
 ## #has_/text_of_/abstract 
 

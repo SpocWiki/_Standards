@@ -277,7 +277,7 @@ Unicode_character: 🏒
 
 # [[Ice_Hockey]] 🏒 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ice_hockey,41466]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ice_hockey,41466|WD~Ice_hockey,41466]] 
 
 ## #has_/text_of_/abstract 
 

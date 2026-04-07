@@ -216,7 +216,7 @@ Unicode_character: 🍋🟩
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lime,13195]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lime,13195|WD~Lime,13195]] 
 
 ## #has_/text_of_/abstract 
 

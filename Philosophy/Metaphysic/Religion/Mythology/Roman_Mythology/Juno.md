@@ -64,7 +64,7 @@ child:
 - '[[_Standards/WikiData/WD~Mars,112|WD~Mars,112]]'
 worshipped_by: '[[_Standards/WikiData/WD~ancient_Roman_religion,337547|WD~ancient_Roman_religion,337547]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
 - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
@@ -216,7 +216,7 @@ dv_has_:
 # [[Juno]] 
 
 #is_/similar_to :: [[../Greek_Mythology/Hera|Hera]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Juno,125046]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Juno,125046|WD~Juno,125046]] 
 
 ## #has_/text_of_/abstract 
 

@@ -119,7 +119,7 @@ dv_has_:
 
 # [[Machete]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Machete,230711]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Machete,230711|WD~Machete,230711]] 
 
 ## #has_/text_of_/abstract 
 

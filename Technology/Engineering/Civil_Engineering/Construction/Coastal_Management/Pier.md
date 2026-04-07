@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Pier]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pier,863454]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pier,863454|WD~Pier,863454]] 
 
 ## #has_/text_of_/abstract 
 

@@ -297,7 +297,7 @@ dv_has_:
 
 # [[Methanol]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Methanol,14982]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Methanol,14982|WD~Methanol,14982]] 
 
 ## #has_/text_of_/abstract 
 

@@ -221,7 +221,7 @@ dv_has_:
 
 # [[Nordic_Council]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nordic_Council,146165]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nordic_Council,146165|WD~Nordic_Council,146165]] 
 
 ## #has_/text_of_/abstract 
 

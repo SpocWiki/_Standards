@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Rocket_Engine]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rocket_engine,335225]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rocket_engine,335225|WD~Rocket_engine,335225]] 
 
 ## #has_/text_of_/abstract 
 

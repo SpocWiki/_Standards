@@ -210,7 +210,7 @@ dv_has_:
 
 # [[Heresy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Heresy,160598]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heresy,160598|WD~Heresy,160598]] 
 
 ## #has_/text_of_/abstract 
 

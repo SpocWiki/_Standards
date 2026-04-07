@@ -264,7 +264,7 @@ dv_has_:
 
 # [[Rockefeller,John_D.]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_D._Rockefeller,160278]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_D._Rockefeller,160278|WD~John_D._Rockefeller,160278]] 
 
 ## #has_/text_of_/abstract 
 

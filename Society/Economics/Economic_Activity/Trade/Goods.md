@@ -216,7 +216,7 @@ dv_has_:
 
 # [[Goods]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Goods,28877]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Goods,28877|WD~Goods,28877]] 
 
 ## #has_/text_of_/abstract 
 

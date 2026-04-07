@@ -219,7 +219,7 @@ dv_has_:
 
 # [[Glenn,John]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Glenn,182642]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Glenn,182642|WD~John_Glenn,182642]] 
 
 ## #has_/text_of_/abstract 
 

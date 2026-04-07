@@ -69,7 +69,7 @@ dv_has_:
 
 # [[Viverroidea]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Viverroidea,9776562]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Viverroidea,9776562|WD~Viverroidea,9776562]] 
 
 ## #has_/text_of_/abstract 
 

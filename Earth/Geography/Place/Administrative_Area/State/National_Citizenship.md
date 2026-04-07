@@ -321,7 +321,7 @@ dv_has_:
 
 # [[National_Citizenship]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~National_citizenship,42138]] 
+#is_/same_as :: [[_Standards/WikiData/WD~National_citizenship,42138|WD~National_citizenship,42138]] 
 
 ## #has_/text_of_/abstract 
 

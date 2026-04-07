@@ -360,7 +360,7 @@ dv_has_:
 
 # [[Priest]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Priest,42603]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Priest,42603|WD~Priest,42603]] 
 
 ## #has_/text_of_/abstract 
 

@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Secularism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Secularism,216920]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Secularism,216920|WD~Secularism,216920]] 
 
 ## #has_/text_of_/abstract 
 

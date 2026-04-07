@@ -193,7 +193,7 @@ dv_has_:
 
 # [[Oedipus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oedipus,130890]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oedipus,130890|WD~Oedipus,130890]] 
 
 ## #has_/text_of_/abstract 
 

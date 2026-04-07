@@ -115,7 +115,7 @@ dv_has_:
 
 # [[Hadley_Cell]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hadley_cell,338589]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hadley_cell,338589|WD~Hadley_cell,338589]] 
 
 ## #has_/text_of_/abstract 
 

@@ -292,7 +292,7 @@ dv_has_:
 
 # [[Neruda,Pablo]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pablo_Neruda,34189]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pablo_Neruda,34189|WD~Pablo_Neruda,34189]] 
 
 ## #has_/text_of_/abstract 
 

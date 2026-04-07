@@ -207,7 +207,7 @@ dv_has_:
 
 # [[Primulaceae]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Primulaceae,157115]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Primulaceae,157115|WD~Primulaceae,157115]] 
 
 ## #has_/text_of_/abstract 
 

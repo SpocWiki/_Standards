@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Human_Nature]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Human_nature,742609]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Human_nature,742609|WD~Human_nature,742609]] 
 
 ## #has_/text_of_/abstract 
 

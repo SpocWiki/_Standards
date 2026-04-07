@@ -247,7 +247,7 @@ dv_has_:
 
 # [[Lilium]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lilium,5194627]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lilium,5194627|WD~Lilium,5194627]] 
 
 ## #has_/text_of_/abstract 
 

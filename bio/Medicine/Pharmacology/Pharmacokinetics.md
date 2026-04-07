@@ -129,7 +129,7 @@ dv_has_:
 
 # [[Pharmacokinetics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pharmacokinetics,323936]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pharmacokinetics,323936|WD~Pharmacokinetics,323936]] 
 
 ## #has_/text_of_/abstract 
 

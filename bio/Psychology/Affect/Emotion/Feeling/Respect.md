@@ -155,7 +155,7 @@ dv_has_:
 
 # [[Respect]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Respect,28510]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Respect,28510|WD~Respect,28510]] 
 
 ## #has_/text_of_/abstract 
 

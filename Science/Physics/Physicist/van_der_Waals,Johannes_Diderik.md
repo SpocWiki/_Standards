@@ -269,7 +269,7 @@ dv_has_:
 
 # [[van_der_Waals,Johannes_Diderik]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Johannes_Diderik_van_der_Waals,131721]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Johannes_Diderik_van_der_Waals,131721|WD~Johannes_Diderik_van_der_Waals,131721]] 
 
 ## #has_/text_of_/abstract 
 

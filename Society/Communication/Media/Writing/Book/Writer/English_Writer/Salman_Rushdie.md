@@ -287,7 +287,7 @@ dv_has_:
 
 # [[Salman_Rushdie]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Salman_Rushdie,44306]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Salman_Rushdie,44306|WD~Salman_Rushdie,44306]] 
 
 ## #has_/text_of_/abstract 
 

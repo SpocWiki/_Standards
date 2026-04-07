@@ -272,7 +272,7 @@ dv_has_:
 
 # [[Pelé]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pelé,12897]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pelé,12897|WD~Pelé,12897]] 
 
 ## #has_/text_of_/abstract 
 

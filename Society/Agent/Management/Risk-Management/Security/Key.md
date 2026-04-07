@@ -250,7 +250,7 @@ dv_has_:
 
 #has_/complement :: [[Lock]] 
 #is_/similar_to :: [[../../../../../Technology/IT/Cryptography/Cryptographic_Key|Cryptographic_Key]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Key,132041]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Key,132041|WD~Key,132041]] 
 
 ## #has_/text_of_/abstract 
 

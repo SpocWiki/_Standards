@@ -120,7 +120,7 @@ dv_has_:
 
 # [[Roulette]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Roulette,190975]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Roulette,190975|WD~Roulette,190975]] 
 
 ## #has_/text_of_/abstract 
 

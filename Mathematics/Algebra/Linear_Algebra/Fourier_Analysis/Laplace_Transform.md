@@ -180,7 +180,7 @@ dv_has_:
 
 # [[Laplace_Transform]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Laplace_transform,199691]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Laplace_transform,199691|WD~Laplace_transform,199691]] 
 
 ## #has_/text_of_/abstract 
 

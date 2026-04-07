@@ -269,7 +269,7 @@ dv_has_:
 # [[Ignatius_of_Loyola]] 
 
 #has_/created :: [[../Jesuit|Jesuit]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Ignatius_of_Loyola,44281]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ignatius_of_Loyola,44281|WD~Ignatius_of_Loyola,44281]] 
 
 ## #has_/text_of_/abstract 
 

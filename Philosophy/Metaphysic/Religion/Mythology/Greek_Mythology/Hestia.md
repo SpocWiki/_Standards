@@ -185,7 +185,7 @@ dv_has_:
 
 # [[Hestia]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hestia,41419]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hestia,41419|WD~Hestia,41419]] 
 ## #has_/text_of_/abstract 
 
 > In ancient Greek religion and mythology, **Hestia** (Ancient Greek: Ἑστία, lit. 'hearth, fireplace, altar') 

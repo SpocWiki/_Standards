@@ -266,7 +266,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nihonium,1301]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nihonium,1301|WD~Nihonium,1301]] 
 
 ## #has_/text_of_/abstract 
 

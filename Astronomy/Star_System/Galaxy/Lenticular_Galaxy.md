@@ -155,7 +155,7 @@ dv_has_:
 
 # [[Lenticular_Galaxy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lenticular_galaxy,192078]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lenticular_galaxy,192078|WD~Lenticular_galaxy,192078]] 
 
 ## #has_/text_of_/abstract 
 

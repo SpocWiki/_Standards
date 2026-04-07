@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Anderson,Marian]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Marian_Anderson,231923]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Marian_Anderson,231923|WD~Marian_Anderson,231923]] 
 
 ## #has_/text_of_/abstract 
 

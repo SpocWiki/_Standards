@@ -283,7 +283,7 @@ dv_has_:
 
 # [[Oceanography]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oceanography,43518]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oceanography,43518|WD~Oceanography,43518]] 
 
 ## #has_/text_of_/abstract 
 

@@ -208,7 +208,7 @@ Unicode_character: 📏
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ruler,104555]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ruler,104555|WD~Ruler,104555]] 
 
 ## #has_/text_of_/abstract 
 

@@ -260,7 +260,7 @@ dv_has_:
 
 # [[Krugman,Paul]]
 
-#is_/same_as  [[_Standards/WikiData/WD~Paul_Krugman,131112]]  
+#is_/same_as  [[_Standards/WikiData/WD~Paul_Krugman,131112|WD~Paul_Krugman,131112]]  
 
 ## #has_/text_of_/abstract 
 

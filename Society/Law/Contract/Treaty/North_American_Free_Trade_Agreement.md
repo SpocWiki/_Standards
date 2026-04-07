@@ -178,7 +178,7 @@ dv_has_:
 
 # [[North_American_Free_Trade_Agreement]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~North_American_Free_Trade_Agreement,181574]] 
+#is_/same_as :: [[_Standards/WikiData/WD~North_American_Free_Trade_Agreement,181574|WD~North_American_Free_Trade_Agreement,181574]] 
 
 ## #has_/text_of_/abstract 
 

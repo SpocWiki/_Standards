@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Dome_of_the_Rock,41470]]'
+  - '[[_Standards/WikiData/WD~Dome_of_the_Rock,41470|WD~Dome_of_the_Rock,41470]]'
   - '[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock|Dome_of_the_Rock]]'
   - '[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.public|Dome_of_the_Rock.public]]'
   - '[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.internal|Dome_of_the_Rock.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.personal|Dome_of_the_Rock.personal]]'
   - '[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.secret|Dome_of_the_Rock.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Dome_of_the_Rock,41470]]'
+- '[[_Standards/WikiData/WD~Dome_of_the_Rock,41470|WD~Dome_of_the_Rock,41470]]'
 - '[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock|Dome_of_the_Rock]]'
 - '[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.public|Dome_of_the_Rock.public]]'
 - '[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.internal|Dome_of_the_Rock.internal]]'
@@ -276,7 +276,7 @@ dv_has_:
 
 ![[../../../../assets/Dome_of_the_Rock,Jerusalem.png|Dome_of_the_Rock,Jerusalem.png]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Dome_of_the_Rock,172077]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Dome_of_the_Rock,172077|WD~Dome_of_the_Rock,172077]] 
 ## #has_/map  
 
 ```leaflet

@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Atanasoff,John_Vincent]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Vincent_Atanasoff,314308]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Vincent_Atanasoff,314308|WD~John_Vincent_Atanasoff,314308]] 
 
 ## #has_/text_of_/abstract 
 

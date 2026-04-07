@@ -135,7 +135,7 @@ dv_has_:
 
 # [[Secret_Society]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Secret_society,276548]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Secret_society,276548|WD~Secret_society,276548]] 
 
 ## #has_/text_of_/abstract 
 

@@ -54,7 +54,7 @@ MeSH_tree_code:
 Commons_category: Nitrates
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Nitrate,49916468]]'
+  - '[[_Standards/WikiData/WD~Nitrate,49916468|WD~Nitrate,49916468]]'
   - '[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate|Nitrate]]'
   - '[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.public|Nitrate.public]]'
   - '[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.internal|Nitrate.internal]]'
@@ -63,7 +63,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.personal|Nitrate.personal]]'
   - '[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.secret|Nitrate.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Nitrate,49916468]]'
+- '[[_Standards/WikiData/WD~Nitrate,49916468|WD~Nitrate,49916468]]'
 - '[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate|Nitrate]]'
 - '[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.public|Nitrate.public]]'
 - '[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.internal|Nitrate.internal]]'
@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Nitrate]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nitrate,49916468]]
+#is_/same_as :: [[_Standards/WikiData/WD~Nitrate,49916468|WD~Nitrate,49916468]]
 
 ## #has_/text_of_/abstract 
 

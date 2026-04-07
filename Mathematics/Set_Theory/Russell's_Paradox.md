@@ -119,7 +119,7 @@ dv_has_:
 
 # [[Russell's_Paradox]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Russell's_paradox,33401]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Russell's_paradox,33401|WD~Russell's_paradox,33401]] 
 
 ## #has_/text_of_/abstract 
 

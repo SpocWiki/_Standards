@@ -193,7 +193,7 @@ dv_has_:
 
 # [[HTTP]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~HTTP,8777]] 
+#is_/same_as :: [[_Standards/WikiData/WD~HTTP,8777|WD~HTTP,8777]] 
 
 ## #has_/text_of_/abstract 
 

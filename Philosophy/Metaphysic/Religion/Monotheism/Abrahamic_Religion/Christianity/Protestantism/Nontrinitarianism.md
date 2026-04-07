@@ -115,7 +115,7 @@ dv_has_:
 
 # [[Nontrinitarianism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nontrinitarianism,584205]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nontrinitarianism,584205|WD~Nontrinitarianism,584205]] 
 
 ## #has_/text_of_/abstract 
 

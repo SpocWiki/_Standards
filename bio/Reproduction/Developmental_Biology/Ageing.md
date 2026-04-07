@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Ageing]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ageing]]
+#is_/same_as :: [[_Standards/WikiData/WD~Ageing|WD~Ageing]]
 
 ## #has_/text_of_/abstract 
 

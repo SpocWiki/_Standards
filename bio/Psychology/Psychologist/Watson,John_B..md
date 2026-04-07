@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Watson,John_B.]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_B._Watson,217477]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_B._Watson,217477|WD~John_B._Watson,217477]] 
 
 ## #has_/text_of_/abstract 
 

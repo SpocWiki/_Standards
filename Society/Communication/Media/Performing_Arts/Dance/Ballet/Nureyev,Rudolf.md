@@ -205,7 +205,7 @@ dv_has_:
 
 # [[Nureyev,Rudolf]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rudolf_Nureyev,84217]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rudolf_Nureyev,84217|WD~Rudolf_Nureyev,84217]] 
 
 ## #has_/text_of_/abstract 
 

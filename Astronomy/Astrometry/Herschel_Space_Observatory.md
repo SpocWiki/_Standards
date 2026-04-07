@@ -169,7 +169,7 @@ dv_has_:
 
 # [[Herschel_Space_Observatory]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Herschel_Space_Observatory,209630]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Herschel_Space_Observatory,209630|WD~Herschel_Space_Observatory,209630]] 
 
 ## #has_/text_of_/abstract 
 

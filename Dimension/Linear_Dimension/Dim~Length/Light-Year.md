@@ -353,7 +353,7 @@ dv_has_:
 
 # [[Light-Year]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Light-year,531]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Light-year,531|WD~Light-year,531]] 
 
 ## #has_/text_of_/abstract 
 

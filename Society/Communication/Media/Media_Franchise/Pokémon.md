@@ -247,7 +247,7 @@ dv_has_:
 
 # [[Pokémon]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pokémon,864]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pokémon,864|WD~Pokémon,864]] 
 
 ## #has_/text_of_/abstract 
 

@@ -229,7 +229,7 @@ dv_has_:
 # [[Isthmus]] 
 
 is_opposite_of = `=this.dv_is_opposite_of`
-#is_/same_as :: [[_Standards/WikiData/WD~Isthmus,93267]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Isthmus,93267|WD~Isthmus,93267]] 
 
 ## #has_/text_of_/abstract 
 

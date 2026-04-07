@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Melting]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Melting,106080]]
+#is_/same_as :: [[_Standards/WikiData/WD~Melting,106080|WD~Melting,106080]]
 
 ## #has_/text_of_/abstract 
 

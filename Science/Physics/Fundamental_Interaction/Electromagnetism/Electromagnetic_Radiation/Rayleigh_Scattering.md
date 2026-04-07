@@ -125,7 +125,7 @@ dv_has_:
 
 # [[Rayleigh_Scattering]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rayleigh_scattering,193709]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rayleigh_scattering,193709|WD~Rayleigh_scattering,193709]] 
 
 ## #has_/text_of_/abstract 
 

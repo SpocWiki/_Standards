@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Hadith]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hadith,234343]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hadith,234343|WD~Hadith,234343]] 
 
 ## #has_/text_of_/abstract 
 

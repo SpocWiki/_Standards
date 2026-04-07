@@ -190,7 +190,7 @@ dv_has_:
     stopped: -419.2e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Silurian,62412]]'
+  - '[[_Standards/WikiData/WD~Silurian,62412|WD~Silurian,62412]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian|Period-0444~Silurian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.public|Period-0444~Silurian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.internal|Period-0444~Silurian.internal]]'
@@ -202,7 +202,7 @@ dv_has_duration_years: 2.460e+7
 dv_has_previous_item: '[[Period-0485~Ordovician]]'
 dv_has_next_item: '[[Period-0419~Devonian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Silurian,62412]]'
+- '[[_Standards/WikiData/WD~Silurian,62412|WD~Silurian,62412]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian|Period-0444~Silurian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.public|Period-0444~Silurian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.internal|Period-0444~Silurian.internal]]'
@@ -244,7 +244,7 @@ dv_has_text_of_color: 0xB3E1B6
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Silurian,62412]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Silurian,62412|WD~Silurian,62412]]  
 
 A time period from 443.8 to 419.2 million years ago.
 

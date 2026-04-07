@@ -86,7 +86,7 @@ dv_has_:
 # [[Science_Studies]] 
 
 #is_/similar_to :: [[Science_and_Technology_Studies|Science_and_Technology_Studies]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Science_studies,1332231]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Science_studies,1332231|WD~Science_studies,1332231]] 
 
 ## #has_/text_of_/abstract 
 

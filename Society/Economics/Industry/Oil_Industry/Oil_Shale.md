@@ -148,7 +148,7 @@ dv_has_:
 
 # [[Oil_Shale]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oil_shale,221378]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oil_shale,221378|WD~Oil_shale,221378]] 
 
 ## #has_/text_of_/abstract 
 

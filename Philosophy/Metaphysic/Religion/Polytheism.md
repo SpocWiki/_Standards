@@ -243,7 +243,7 @@ dv_has_:
 # [[Polytheism]] 
 
 #has_/complement :: [[Monotheism|Monotheism]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Polytheism,9163]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polytheism,9163|WD~Polytheism,9163]] 
 
 ## #has_/text_of_/abstract 
 

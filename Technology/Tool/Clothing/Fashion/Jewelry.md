@@ -267,7 +267,7 @@ dv_has_:
 
 # [[Jewelry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jewelry,161439]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jewelry,161439|WD~Jewelry,161439]] 
 
 ## #has_/text_of_/abstract 
 

@@ -311,7 +311,7 @@ dv_has_:
 
 # [[Rosa_Luxemburg]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rosa_Luxemburg,7231]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rosa_Luxemburg,7231|WD~Rosa_Luxemburg,7231]] 
 
 ## #has_/text_of_/abstract 
 

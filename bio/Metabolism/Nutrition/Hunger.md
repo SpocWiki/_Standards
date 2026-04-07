@@ -220,7 +220,7 @@ dv_has_:
 
 # [[Hunger]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hunger,165947]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hunger,165947|WD~Hunger,165947]] 
 
 ## #has_/text_of_/abstract 
 

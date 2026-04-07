@@ -196,7 +196,7 @@ dv_has_:
 
 # [[Pasteurization]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pasteurization,58148]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pasteurization,58148|WD~Pasteurization,58148]] 
 
 ## #has_/text_of_/abstract 
 

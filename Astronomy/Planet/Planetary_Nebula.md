@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Planetary_Nebula]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Planetary_nebula,13632]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Planetary_nebula,13632|WD~Planetary_nebula,13632]] 
 
 ## #has_/text_of_/abstract 
 

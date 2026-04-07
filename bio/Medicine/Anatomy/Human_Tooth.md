@@ -296,7 +296,7 @@ dv_has_:
 
 # [[Human_Tooth]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Human_tooth,561]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Human_tooth,561|WD~Human_tooth,561]] 
 
 ## #has_/text_of_/abstract 
 

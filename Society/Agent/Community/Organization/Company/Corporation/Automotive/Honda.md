@@ -247,7 +247,7 @@ dv_has_:
 
 # [[Honda]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Honda,9584]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Honda,9584|WD~Honda,9584]] 
 
 ## #has_/text_of_/abstract 
 

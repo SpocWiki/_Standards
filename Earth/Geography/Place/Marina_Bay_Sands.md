@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Marina_Bay_Sands,548679]]'
+  - '[[_Standards/WikiData/WD~Marina_Bay_Sands,548679|WD~Marina_Bay_Sands,548679]]'
   - '[[/_Standards/Earth/Geography/Place/Marina_Bay_Sands|Marina_Bay_Sands]]'
   - '[[/_public/Earth/Geography/Place/Marina_Bay_Sands.public|Marina_Bay_Sands.public]]'
   - '[[/_internal/Earth/Geography/Place/Marina_Bay_Sands.internal|Marina_Bay_Sands.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Marina_Bay_Sands.personal|Marina_Bay_Sands.personal]]'
   - '[[/_secret/Earth/Geography/Place/Marina_Bay_Sands.secret|Marina_Bay_Sands.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Marina_Bay_Sands,548679]]'
+- '[[_Standards/WikiData/WD~Marina_Bay_Sands,548679|WD~Marina_Bay_Sands,548679]]'
 - '[[/_Standards/Earth/Geography/Place/Marina_Bay_Sands|Marina_Bay_Sands]]'
 - '[[/_public/Earth/Geography/Place/Marina_Bay_Sands.public|Marina_Bay_Sands.public]]'
 - '[[/_internal/Earth/Geography/Place/Marina_Bay_Sands.internal|Marina_Bay_Sands.internal]]'
@@ -140,7 +140,7 @@ dv_has_:
 ![[../../../assets/Marina_Bay_Sands,Singapore.png|Marina_Bay_Sands,Singapore.png]] 
 By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/87400200@N07">Erwin Soo</a> from Singapore, Singapore - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/erwin_soo/8026531707/">view of MBS from the gardens</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24777160">Link</a> 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Marina_Bay_Sands,548679]]
+#is_/same_as :: [[_Standards/WikiData/WD~Marina_Bay_Sands,548679|WD~Marina_Bay_Sands,548679]]
 
 ## #has_/map  
 

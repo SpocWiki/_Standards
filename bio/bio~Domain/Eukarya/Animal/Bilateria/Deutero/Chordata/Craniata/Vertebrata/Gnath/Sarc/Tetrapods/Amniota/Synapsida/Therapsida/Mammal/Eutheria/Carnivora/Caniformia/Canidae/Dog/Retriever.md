@@ -85,7 +85,7 @@ dv_has_:
 
 # [[Retriever]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Retriever,39017]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Retriever,39017|WD~Retriever,39017]] 
 
 ## #has_/text_of_/abstract 
 

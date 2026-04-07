@@ -132,7 +132,7 @@ dv_has_:
     stopped: -1000000000
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Mesoproterozoic,210611]]'
+  - '[[_Standards/WikiData/WD~Mesoproterozoic,210611|WD~Mesoproterozoic,210611]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic|Era-1600~Mesoproterozoic]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.public|Era-1600~Mesoproterozoic.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.internal|Era-1600~Mesoproterozoic.internal]]'
@@ -144,7 +144,7 @@ dv_has_duration_years: 6.000e+8
 dv_has_previous_item: '[[Era-2500~Paleoproterozoic]]'
 dv_has_next_item: '[[Era-1000~Neoproterozoic]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Mesoproterozoic,210611]]'
+- '[[_Standards/WikiData/WD~Mesoproterozoic,210611|WD~Mesoproterozoic,210611]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic|Era-1600~Mesoproterozoic]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.public|Era-1600~Mesoproterozoic.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.internal|Era-1600~Mesoproterozoic.internal]]'
@@ -186,7 +186,7 @@ dv_has_text_of_color: 0xFDB462
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Mesoproterozoic,210611]]
+#is_/same_as :: [[_Standards/WikiData/WD~Mesoproterozoic,210611|WD~Mesoproterozoic,210611]]
 
 A time period from 1600 to 1000 million years ago. 
 

@@ -348,7 +348,7 @@ dv_has_:
 
 # [[Annan,Kofi]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kofi_Annan,1254]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kofi_Annan,1254|WD~Kofi_Annan,1254]] 
 
 ## #has_/text_of_/abstract 
 

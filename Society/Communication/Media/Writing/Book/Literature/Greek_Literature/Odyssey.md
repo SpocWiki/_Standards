@@ -338,7 +338,7 @@ dv_has_:
 
 # [[Odyssey]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Odyssey,35160]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Odyssey,35160|WD~Odyssey,35160]] 
 
 ## #has_/text_of_/abstract 
 

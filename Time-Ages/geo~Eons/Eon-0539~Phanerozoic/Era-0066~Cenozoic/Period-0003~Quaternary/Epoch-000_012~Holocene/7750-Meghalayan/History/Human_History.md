@@ -281,7 +281,7 @@ dv_has_:
 
 # [[Human_History]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Human_history,200325]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Human_history,200325|WD~Human_history,200325]] 
 
 ## #has_/text_of_/abstract 
 

@@ -242,7 +242,7 @@ dv_has_:
 
 # [[Abelard,Peter]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peter_Abelard,4295]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peter_Abelard,4295|WD~Peter_Abelard,4295]] 
 
 ## #has_/text_of_/abstract 
 

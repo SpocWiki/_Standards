@@ -306,7 +306,7 @@ dv_has_:
 
 # [[Ki-moon,Ban]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ban_Ki-moon,1253]]
+#is_/same_as :: [[_Standards/WikiData/WD~Ban_Ki-moon,1253|WD~Ban_Ki-moon,1253]]
 
 ## #has_/text_of_/abstract 
 

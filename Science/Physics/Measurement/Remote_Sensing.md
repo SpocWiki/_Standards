@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Remote_Sensing]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Remote_sensing,199687]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Remote_sensing,199687|WD~Remote_sensing,199687]] 
 
 ## #has_/text_of_/abstract 
 

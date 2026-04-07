@@ -254,7 +254,7 @@ dv_has_:
 
 # [[Nicholson,Jack]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jack_Nicholson,39792]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jack_Nicholson,39792|WD~Jack_Nicholson,39792]] 
 
 ## #has_/text_of_/abstract 
 

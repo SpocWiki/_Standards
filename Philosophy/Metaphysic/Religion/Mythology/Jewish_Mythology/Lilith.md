@@ -151,7 +151,7 @@ dv_has_:
 
 # [[Lilith]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lilith,180627]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lilith,180627|WD~Lilith,180627]] 
 
 ## #has_/text_of_/abstract 
 

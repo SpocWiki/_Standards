@@ -248,7 +248,7 @@ dv_has_:
 
 # [[Crawford,Joan]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Joan_Crawford,40475]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Joan_Crawford,40475|WD~Joan_Crawford,40475]] 
 
 ## #has_/text_of_/abstract 
 

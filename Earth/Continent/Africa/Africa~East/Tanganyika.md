@@ -56,7 +56,7 @@ markerFile: [[Tanganyika]]
 
 ```leaflet
 id: Tanganyika_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png]]
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]

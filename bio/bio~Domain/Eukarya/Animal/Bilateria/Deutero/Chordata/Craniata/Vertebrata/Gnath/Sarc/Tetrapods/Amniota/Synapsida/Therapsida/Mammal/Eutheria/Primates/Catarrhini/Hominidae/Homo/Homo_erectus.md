@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Homo_erectus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Homo_erectus,101362]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Homo_erectus,101362|WD~Homo_erectus,101362]] 
 
 ## #has_/text_of_/abstract 
 

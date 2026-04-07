@@ -294,7 +294,7 @@ dv_has_:
 
 # [[Lake_Titicaca]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Titicaca,35342]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Titicaca,35342|WD~Titicaca,35342]] 
 
 ## #has_/map 
 

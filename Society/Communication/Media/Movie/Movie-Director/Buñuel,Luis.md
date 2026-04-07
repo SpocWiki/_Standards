@@ -213,7 +213,7 @@ dv_has_:
 
 # [[Buñuel,Luis]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Luis_Buñuel,51545]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Luis_Buñuel,51545|WD~Luis_Buñuel,51545]] 
 
 ## #has_/text_of_/abstract 
 

@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Rutabaga]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rutabaga,158464]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rutabaga,158464|WD~Rutabaga,158464]] 
 
 ## #has_/text_of_/abstract 
 

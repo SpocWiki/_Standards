@@ -304,7 +304,7 @@ dv_has_:
 
 # [[Popper,Karl]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Karl_Popper,81244]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Karl_Popper,81244|WD~Karl_Popper,81244]] 
 #has_/created_/quote :: Optimismus ist die einzig vernünftige Alternative 
 
 ## #has_/text_of_/abstract 

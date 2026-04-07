@@ -143,7 +143,7 @@ dv_has_:
 
 # [[Bernard_Madoff]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Bernard_Madoff,14043]]
+#is_/same_as :: [[_Standards/WikiData/WD~Bernard_Madoff,14043|WD~Bernard_Madoff,14043]]
 ## #has_/text_of_/abstract 
 
 > Bernard Lawrence  Madoff (; April 29, 1938 – April 14, 2021) was an American financial criminal and financier 

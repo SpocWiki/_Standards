@@ -106,7 +106,7 @@ dv_has_:
 
 # [[P-Value]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~P-value,253255]] 
+#is_/same_as :: [[_Standards/WikiData/WD~P-value,253255|WD~P-value,253255]] 
 
 ## #has_/text_of_/abstract 
 

@@ -329,7 +329,7 @@ dv_has_:
 
 # [[1776-US_Declaration_of_Independence]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~United_States_Declaration_of_Independence,127912]] 
+#is_/same_as :: [[_Standards/WikiData/WD~United_States_Declaration_of_Independence,127912|WD~United_States_Declaration_of_Independence,127912]] 
 
 ## #has_/text_of_/abstract 
 

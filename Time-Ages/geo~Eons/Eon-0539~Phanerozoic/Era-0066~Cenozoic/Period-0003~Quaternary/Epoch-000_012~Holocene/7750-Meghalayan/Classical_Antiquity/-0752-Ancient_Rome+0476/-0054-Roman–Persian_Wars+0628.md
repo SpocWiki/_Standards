@@ -157,7 +157,7 @@ dv_has_:
 
 # [[-0054-Roman–Persian_Wars+0628]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Roman–Persian_Wars,500409]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Roman–Persian_Wars,500409|WD~Roman–Persian_Wars,500409]] 
 
 ## #has_/text_of_/abstract 
 

@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Vaughan,Stevie_Ray]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Stevie_Ray_Vaughan,202937]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Stevie_Ray_Vaughan,202937|WD~Stevie_Ray_Vaughan,202937]] 
 
 ## #has_/text_of_/abstract 
 

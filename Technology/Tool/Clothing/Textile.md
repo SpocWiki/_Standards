@@ -292,7 +292,7 @@ dv_has_:
 
 # [[Textile]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Textile,28823]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Textile,28823|WD~Textile,28823]] 
 
 ## #has_/text_of_/abstract 
 

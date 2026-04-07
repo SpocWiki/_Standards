@@ -449,7 +449,7 @@ dv_has_:
 
 # [[Madonna]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Madonna,1744]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Madonna,1744|WD~Madonna,1744]] 
 
 ## #has_/text_of_/abstract 
 

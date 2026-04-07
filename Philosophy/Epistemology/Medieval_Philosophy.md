@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Medieval_Philosophy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Medieval_philosophy,192292]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Medieval_philosophy,192292|WD~Medieval_philosophy,192292]] 
 
 ## #has_/text_of_/abstract 
 

@@ -270,7 +270,7 @@ dv_has_:
 
 # [[Berzelius,Jöns_Jacob]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911|WD~Jöns_Jacob_Berzelius,151911]] 
 
 ## #has_/text_of_/abstract 
 

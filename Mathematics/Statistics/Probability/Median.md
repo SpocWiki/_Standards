@@ -155,7 +155,7 @@ dv_has_:
 
 #is_/similar_to :: [[Probability/Mean|Mean]] 
 #is_/similar_to :: [[Mode]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Median,226995]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Median,226995|WD~Median,226995]] 
 
 ## #has_/text_of_/abstract 
 

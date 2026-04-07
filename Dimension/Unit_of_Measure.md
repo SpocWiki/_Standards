@@ -315,7 +315,7 @@ dv_has_:
 
 # [[Unit_of_Measure]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Unit_of_measurement,47574]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Unit_of_measurement,47574|WD~Unit_of_measurement,47574]] 
 
 A Unit  is a standardized Scales for a [[Dimension]]. 
 Units are required, because Measurements are always relative to a standard Quantity. 

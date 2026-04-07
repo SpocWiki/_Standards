@@ -156,7 +156,7 @@ dv_has_:
 
 # [[Maersk]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Maersk,18224]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Maersk,18224|WD~Maersk,18224]] 
 
 ## #has_/text_of_/abstract 
 

@@ -293,7 +293,7 @@ dv_has_:
 
 # [[van_'t_Hoff,Jacobus_Henricus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jacobus_Henricus_van_'t_Hoff,102822]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jacobus_Henricus_van_'t_Hoff,102822|WD~Jacobus_Henricus_van_'t_Hoff,102822]] 
 
 ## #has_/text_of_/abstract 
 

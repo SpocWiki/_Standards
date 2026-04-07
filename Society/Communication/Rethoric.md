@@ -209,7 +209,7 @@ dv_has_:
 
 # [[Rethoric]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rhetoric,81009]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rhetoric,81009|WD~Rhetoric,81009]] 
 
 ## #has_/text_of_/abstract 
 

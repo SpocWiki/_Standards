@@ -174,7 +174,7 @@ dv_has_:
 
 # [[0632-Muslim_conquest_of_Persia-0654]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Muslim_conquest_of_Persia,887684]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Muslim_conquest_of_Persia,887684|WD~Muslim_conquest_of_Persia,887684]] 
 
 ## #has_/text_of_/abstract 
 

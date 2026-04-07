@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Sampling]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sampling,49908]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sampling,49908|WD~Sampling,49908]] 
 
 ## #has_/text_of_/abstract 
 

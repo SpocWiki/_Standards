@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Script~Phoenician]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Phoenician_script,26752]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Phoenician_script,26752|WD~Phoenician_script,26752]] 
 
 ## #has_/text_of_/abstract 
 

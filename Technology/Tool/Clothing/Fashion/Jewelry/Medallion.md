@@ -233,7 +233,7 @@ Unicode_character: 🏅
 
 # [[Medallion]] 🏅 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Medallion,131647]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Medallion,131647|WD~Medallion,131647]] 
 
 ## #has_/text_of_/abstract 
 

@@ -88,7 +88,7 @@ dv_has_:
     stopped: -419.2e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Pridoli,1062563]]'
+  - '[[_Standards/WikiData/WD~Pridoli,1062563|WD~Pridoli,1062563]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli|Epoch-423~Pridoli]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.public|Epoch-423~Pridoli.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.internal|Epoch-423~Pridoli.internal]]'
@@ -100,7 +100,7 @@ dv_has_duration_years: 3.800e+6
 dv_has_previous_item: '[[Epoch-427~Ludlow]]'
 dv_has_next_item: '[[../Period-0419~Devonian/Epoch-419~Early_Devonian|Epoch~1~Early_Devonian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Pridoli,1062563]]'
+- '[[_Standards/WikiData/WD~Pridoli,1062563|WD~Pridoli,1062563]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli|Epoch-423~Pridoli]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.public|Epoch-423~Pridoli.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.internal|Epoch-423~Pridoli.internal]]'
@@ -142,7 +142,7 @@ dv_has_text_of_color: 0xE6F5E1
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Pridoli,1062563]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Pridoli,1062563|WD~Pridoli,1062563]]  
 
 A time period from 423.0 to 419.2 million years ago. 
 

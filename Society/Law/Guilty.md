@@ -96,7 +96,7 @@ dv_has_:
 
 # [[Guilty]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Guilty,705178]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Guilty,705178|WD~Guilty,705178]] 
 
 ## #has_/text_of_/abstract 
 

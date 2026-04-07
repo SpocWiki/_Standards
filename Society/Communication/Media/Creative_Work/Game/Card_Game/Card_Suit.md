@@ -41,7 +41,7 @@
 > German Switzerland uses the Swiss suits of acorns, shields, yellow roses and bells. 
 > Asian countries such as China and Japan also have their own traditional suits. 
 > 
-> Tarot card packs have a set of distinct picture cards (the [[Tarot/Major_Arcana]]) 
+> Tarot card packs have a set of distinct picture cards (the [[Tarot/Major_Arcana|Major_Arcana]]) 
 > alongside the traditional four suits.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Playing%20card%20suit)  

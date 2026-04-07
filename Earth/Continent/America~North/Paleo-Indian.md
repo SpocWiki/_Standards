@@ -113,7 +113,7 @@ dv_has_:
 
 # [[Paleo-Indian]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paleo-Indians,888099]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paleo-Indians,888099|WD~Paleo-Indians,888099]] 
 
 ## #has_/text_of_/abstract 
 

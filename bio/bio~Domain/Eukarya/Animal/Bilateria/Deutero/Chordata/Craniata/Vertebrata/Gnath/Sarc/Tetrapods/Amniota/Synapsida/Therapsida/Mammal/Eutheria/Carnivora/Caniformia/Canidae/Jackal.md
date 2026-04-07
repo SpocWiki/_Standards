@@ -197,7 +197,7 @@ aliases:
 
 # [[Jackal]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jackal,125525]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jackal,125525|WD~Jackal,125525]] 
 
 ## #has_/text_of_/abstract 
 

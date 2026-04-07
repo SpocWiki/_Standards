@@ -182,7 +182,7 @@ dv_has_next_item: '[[SS(Schutzstaffel)]]'
 
 # [[SA(Sturmabteilung)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sturmabteilung,150793]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sturmabteilung,150793|WD~Sturmabteilung,150793]] 
 has_next_item = `=this.dv_has_next_item` 
 
 ## #has_/text_of_/abstract 

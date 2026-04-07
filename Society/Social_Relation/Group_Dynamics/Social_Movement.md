@@ -243,7 +243,7 @@ dv_has_:
 
 # [[Social_Movement]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Social_movement,49773]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Social_movement,49773|WD~Social_movement,49773]] 
 
 ## #has_/text_of_/abstract 
 

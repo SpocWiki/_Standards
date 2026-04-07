@@ -147,7 +147,7 @@ dv_has_:
 
 # [[Stefan,Josef]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Josef_Stefan,16581]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Josef_Stefan,16581|WD~Josef_Stefan,16581]] 
 
 ## #has_/text_of_/abstract 
 

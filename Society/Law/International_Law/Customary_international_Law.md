@@ -88,7 +88,7 @@ dv_has_:
 
 # [[Customary_international_Law]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Customary_international_law,1194894]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Customary_international_law,1194894|WD~Customary_international_law,1194894]] 
 
 ## #has_/text_of_/abstract 
 

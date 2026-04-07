@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Honor]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Honor,207333]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Honor,207333|WD~Honor,207333]] 
 
 ## #has_/text_of_/abstract 
 

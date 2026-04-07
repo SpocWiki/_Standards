@@ -188,7 +188,7 @@ dv_has_:
 
 # [[Origen]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Origen,170472]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Origen,170472|WD~Origen,170472]] 
 
 ## #has_/text_of_/abstract 
 

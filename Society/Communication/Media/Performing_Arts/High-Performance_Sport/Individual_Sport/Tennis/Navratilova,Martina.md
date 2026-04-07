@@ -223,7 +223,7 @@ dv_has_:
 
 # [[Navratilova,Martina]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Martina_Navratilova,54545]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Martina_Navratilova,54545|WD~Martina_Navratilova,54545]] 
 
 ## #has_/text_of_/abstract 
 

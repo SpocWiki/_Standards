@@ -279,7 +279,7 @@ dv_has_:
 
 # [[Millennium]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Millennium,36507]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Millennium,36507|WD~Millennium,36507]] 
 
 ## #has_/text_of_/abstract 
 

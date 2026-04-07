@@ -256,7 +256,7 @@ dv_has_:
 
 # [[Holy_Spirit]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Holy_Spirit,37302]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Holy_Spirit,37302|WD~Holy_Spirit,37302]] 
 
 ## #has_/text_of_/abstract 
 

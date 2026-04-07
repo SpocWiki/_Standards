@@ -92,7 +92,7 @@ dv_has_:
     stopped: -293.51e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Asselian,740340]]'
+  - '[[_Standards/WikiData/WD~Asselian,740340|WD~Asselian,740340]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.public|Age~1~Asselian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.internal|Age~1~Asselian.internal]]'
@@ -104,7 +104,7 @@ dv_has_duration_years: 5.390e+6
 dv_has_previous_item: '[[../../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]'
 dv_has_next_item: '[[Age~2~Sakmarian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Asselian,740340]]'
+- '[[_Standards/WikiData/WD~Asselian,740340|WD~Asselian,740340]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.public|Age~1~Asselian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.internal|Age~1~Asselian.internal]]'
@@ -146,7 +146,7 @@ dv_has_text_of_color: 0xE36350
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Asselian,740340]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Asselian,740340|WD~Asselian,740340]]  
 
 A time period from 298.9 to 293.51 million years ago. 
 

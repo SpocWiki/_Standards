@@ -381,7 +381,7 @@ dv_has_:
 
 # [[Persian_Gulf]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Persian_Gulf,34675]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Persian_Gulf,34675|WD~Persian_Gulf,34675]] 
 
 ## #has_/map  
 

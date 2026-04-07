@@ -508,7 +508,7 @@ dv_has_:
 
 # [[Unit~Month]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Month,5151]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Month,5151|WD~Month,5151]] 
 
 ## #has_/text_of_/abstract 
 

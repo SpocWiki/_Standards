@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Petronas_Towers,83063]]'
+  - '[[_Standards/WikiData/WD~Petronas_Towers,83063|WD~Petronas_Towers,83063]]'
   - '[[/_Standards/Earth/Geography/Place/Petronas_Towers|Petronas_Towers]]'
   - '[[/_public/Earth/Geography/Place/Petronas_Towers.public|Petronas_Towers.public]]'
   - '[[/_internal/Earth/Geography/Place/Petronas_Towers.internal|Petronas_Towers.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Petronas_Towers.personal|Petronas_Towers.personal]]'
   - '[[/_secret/Earth/Geography/Place/Petronas_Towers.secret|Petronas_Towers.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Petronas_Towers,83063]]'
+- '[[_Standards/WikiData/WD~Petronas_Towers,83063|WD~Petronas_Towers,83063]]'
 - '[[/_Standards/Earth/Geography/Place/Petronas_Towers|Petronas_Towers]]'
 - '[[/_public/Earth/Geography/Place/Petronas_Towers.public|Petronas_Towers.public]]'
 - '[[/_internal/Earth/Geography/Place/Petronas_Towers.internal|Petronas_Towers.internal]]'
@@ -245,7 +245,7 @@ dv_has_:
 
 ![[../../../assets/Petronas_Towers.png|Petronas_Towers.png]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Petronas_Towers,83063]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Petronas_Towers,83063|WD~Petronas_Towers,83063]] 
 
 ## #has_/map  
 

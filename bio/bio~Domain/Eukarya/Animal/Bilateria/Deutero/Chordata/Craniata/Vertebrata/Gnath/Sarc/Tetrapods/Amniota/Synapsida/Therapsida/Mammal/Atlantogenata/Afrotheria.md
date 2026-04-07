@@ -102,7 +102,7 @@ dv_has_:
 
 # [[Afrotheria]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Afrotheria,27399]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Afrotheria,27399|WD~Afrotheria,27399]] 
 
 ## #has_/text_of_/abstract 
 

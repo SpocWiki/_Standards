@@ -451,7 +451,7 @@ dv_has_:
 
 # [[Gorbachev,Mikhail]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mikhail_Gorbachev,30487]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mikhail_Gorbachev,30487|WD~Mikhail_Gorbachev,30487]] 
 
 ## #has_/text_of_/abstract 
 

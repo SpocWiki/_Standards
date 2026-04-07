@@ -224,7 +224,7 @@ dv_has_:
 
 # [[Search_Engine]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Search_engine,19541]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Search_engine,19541|WD~Search_engine,19541]] 
 
 ## #has_/text_of_/abstract 
 

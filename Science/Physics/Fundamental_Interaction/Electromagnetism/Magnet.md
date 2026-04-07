@@ -252,7 +252,7 @@ Unicode_character: 🧲
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magnet,11421]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magnet,11421|WD~Magnet,11421]] 
 
 ## #has_/text_of_/abstract 
 

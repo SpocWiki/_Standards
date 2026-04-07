@@ -193,7 +193,7 @@ dv_has_:
 
 # [[Heat_Transfer]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Heat_transfer,179635]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heat_transfer,179635|WD~Heat_transfer,179635]] 
 
 ## #has_/text_of_/abstract 
 

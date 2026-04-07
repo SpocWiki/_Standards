@@ -202,7 +202,7 @@ Unicode_character: 🌐
 
 # [[Meridian]] 🌐 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Meridian,32099]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Meridian,32099|WD~Meridian,32099]] 
 
 line between the Earth's poles with the same longitude. 
 ## #has_/text_of_/abstract 

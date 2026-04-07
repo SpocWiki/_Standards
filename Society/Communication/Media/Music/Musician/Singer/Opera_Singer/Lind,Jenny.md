@@ -224,7 +224,7 @@ dv_has_:
 
 # [[Lind,Jenny]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jenny_Lind,231345]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jenny_Lind,231345|WD~Jenny_Lind,231345]] 
 
 ## #has_/text_of_/abstract 
 

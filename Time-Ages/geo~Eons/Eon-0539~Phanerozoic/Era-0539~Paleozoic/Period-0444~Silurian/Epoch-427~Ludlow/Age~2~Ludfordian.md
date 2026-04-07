@@ -76,7 +76,7 @@ dv_has_:
     stopped: -423.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Ludfordian,912190]]'
+  - '[[_Standards/WikiData/WD~Ludfordian,912190|WD~Ludfordian,912190]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.public|Age~2~Ludfordian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.internal|Age~2~Ludfordian.internal]]'
@@ -89,7 +89,7 @@ dv_has_duration_years: 2.600e+6
 dv_has_previous_item: '[[Age~1~Gorstian]]'
 dv_has_next_item: '[[../../Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Ludfordian,912190]]'
+- '[[_Standards/WikiData/WD~Ludfordian,912190|WD~Ludfordian,912190]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.public|Age~2~Ludfordian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.internal|Age~2~Ludfordian.internal]]'
@@ -131,7 +131,7 @@ dv_has_text_of_color: 0xD9F0DF
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Ludfordian,912190]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ludfordian,912190|WD~Ludfordian,912190]] 
 
 A time period from 425.6 to 423.0 million years ago. 
 

@@ -246,7 +246,7 @@ aliases:
 
 # [[Parliament]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Parliament,35749]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parliament,35749|WD~Parliament,35749]] 
 
 ## #has_/text_of_/abstract 
 

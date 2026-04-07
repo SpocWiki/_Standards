@@ -135,7 +135,7 @@ dv_has_:
 
 # [[Sound_Recording_Process]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sound_recording_process,5057302]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sound_recording_process,5057302|WD~Sound_recording_process,5057302]] 
 
 ## #has_/text_of_/abstract 
 

@@ -201,7 +201,7 @@ dv_has_:
 
 # [[Observable_Universe]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Observable_universe,221392]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Observable_universe,221392|WD~Observable_universe,221392]] 
 
 ## #has_/text_of_/abstract 
 

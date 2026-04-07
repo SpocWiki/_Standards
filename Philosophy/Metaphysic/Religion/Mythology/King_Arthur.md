@@ -199,7 +199,7 @@ aliases:
 
 # [[King_Arthur]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~King_Arthur,45792]] 
+#is_/same_as :: [[_Standards/WikiData/WD~King_Arthur,45792|WD~King_Arthur,45792]] 
 
 ## #has_/text_of_/abstract 
 

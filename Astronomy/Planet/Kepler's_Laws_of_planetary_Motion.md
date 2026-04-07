@@ -213,7 +213,7 @@ dv_has_:
 
 # [[Kepler's_Laws_of_planetary_Motion]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kepler's_laws_of_planetary_motion,83219]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kepler's_laws_of_planetary_motion,83219|WD~Kepler's_laws_of_planetary_motion,83219]] 
 
 ## #has_/text_of_/abstract 
 

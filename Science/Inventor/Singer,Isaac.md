@@ -135,7 +135,7 @@ dv_has_:
 
 # [[Singer,Isaac]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Isaac_Singer,312011]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Isaac_Singer,312011|WD~Isaac_Singer,312011]] 
 
 ## #has_/text_of_/abstract 
 

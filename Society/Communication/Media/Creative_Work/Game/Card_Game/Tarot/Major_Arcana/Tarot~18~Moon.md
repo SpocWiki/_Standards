@@ -3,8 +3,8 @@ aliases:
   - 
 has_id_wikidata: Q2502695
 Unicode_character: 🃲
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357]]"
-instance_of: "[[_Standards/WikiData/WD~playing_card,47883]]"
+part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
+instance_of: "[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Dodal%20Tarot%20trump%2018.jpg
 Commons_category: Moon (Major Arcana)
 ---
@@ -12,7 +12,7 @@ Commons_category: Moon (Major Arcana)
 # [[Tarot~18~Moon]] 🃲 
 
 #is_/same_as :: [[WD~The_Moon_(tarot_card),2502695]] 
-#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~18~Moon.jpg]] 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~18~Moon.jpg|Tarot~18~Moon.jpg]] 
 
 
 ## #has_/text_of_/abstract 

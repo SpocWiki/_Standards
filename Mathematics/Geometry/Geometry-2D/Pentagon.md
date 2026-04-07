@@ -210,7 +210,7 @@ dv_has_:
 
 # [[Pentagon]] ⬟ ⬠ ⭓ ⭔ ⯂
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pentagon,127840]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pentagon,127840|WD~Pentagon,127840]] 
 #is_/different_from :: [[Pentagram]] 
 
 ## #has_/text_of_/abstract 

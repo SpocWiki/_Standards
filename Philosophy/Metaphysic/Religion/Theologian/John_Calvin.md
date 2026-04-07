@@ -294,7 +294,7 @@ dv_has_:
 
 # [[John_Calvin]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Calvin,37577]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Calvin,37577|WD~John_Calvin,37577]] 
 
 ## #has_/text_of_/abstract 
 

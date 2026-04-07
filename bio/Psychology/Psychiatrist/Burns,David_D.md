@@ -30,24 +30,24 @@ tags:
   - excalidraw
 type: private_note
 field_of_work:
-  - "[[_Standards/WikiData/WD~psychotherapy,183257]]"
-  - "[[_Standards/WikiData/WD~psychiatrist,211346]]"
-occupation: "[[_Standards/WikiData/WD~psychiatrist,211346]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Aaron_Beck,302849]]"
-professorship: "[[_Standards/WikiData/WD~adjunct_professor,357813]]"
-family_name: "[[_Standards/WikiData/WD~Burns,1408775]]"
+  - "[[_Standards/WikiData/WD~psychotherapy,183257|WD~psychotherapy,183257]]"
+  - "[[_Standards/WikiData/WD~psychiatrist,211346|WD~psychiatrist,211346]]"
+occupation: "[[_Standards/WikiData/WD~psychiatrist,211346|WD~psychiatrist,211346]]"
+doctoral_advisor: "[[_Standards/WikiData/WD~Aaron_Beck,302849|WD~Aaron_Beck,302849]]"
+professorship: "[[_Standards/WikiData/WD~adjunct_professor,357813|WD~adjunct_professor,357813]]"
+family_name: "[[_Standards/WikiData/WD~Burns,1408775|WD~Burns,1408775]]"
 educated_at:
-  - "[[_Standards/WikiData/WD~Stanford_University_School_of_Medicine,4115969]]"
-  - "[[_Standards/WikiData/WD~Perelman_School_of_Medicine_at_the_University_of_Pennsylvania,4120165]]"
-  - "[[_Standards/WikiData/WD~Stanford_University,41506]]"
-  - "[[_Standards/WikiData/WD~Amherst_College,49165]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-academic_degree: "[[_Standards/WikiData/WD~Doctor_of_Sciences_in_Medicine,17281165]]"
-given_name: "[[_Standards/WikiData/WD~David,18057751]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-employer: "[[_Standards/WikiData/WD~Stanford_University,41506]]"
+  - "[[_Standards/WikiData/WD~Stanford_University_School_of_Medicine,4115969|WD~Stanford_University_School_of_Medicine,4115969]]"
+  - "[[_Standards/WikiData/WD~Perelman_School_of_Medicine_at_the_University_of_Pennsylvania,4120165|WD~Perelman_School_of_Medicine_at_the_University_of_Pennsylvania,4120165]]"
+  - "[[_Standards/WikiData/WD~Stanford_University,41506|WD~Stanford_University,41506]]"
+  - "[[_Standards/WikiData/WD~Amherst_College,49165|WD~Amherst_College,49165]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]"
+academic_degree: "[[_Standards/WikiData/WD~Doctor_of_Sciences_in_Medicine,17281165|WD~Doctor_of_Sciences_in_Medicine,17281165]]"
+given_name: "[[_Standards/WikiData/WD~David,18057751|WD~David,18057751]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+instance_of: "[[_Standards/WikiData/WD~human,5|WD~human,5]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+employer: "[[_Standards/WikiData/WD~Stanford_University,41506|WD~Stanford_University,41506]]"
 date_of_birth: 1942-09-19T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/David%20Burns%201.jpg
 ISNI: "0000000082622452"
@@ -56,7 +56,7 @@ name_in_native_language: David D. Burns
 
 # [[Burns,David_D]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~David_D._Burns,5232764]] 
+#is_/same_as :: [[_Standards/WikiData/WD~David_D._Burns,5232764|WD~David_D._Burns,5232764]] 
 
 ## #has_/text_of_/abstract 
 

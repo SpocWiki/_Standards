@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Optical_Fiber]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Optical_fiber,162]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Optical_fiber,162|WD~Optical_fiber,162]] 
 
 ## #has_/text_of_/abstract 
 

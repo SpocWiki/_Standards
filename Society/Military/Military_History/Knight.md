@@ -228,7 +228,7 @@ dv_has_:
 
 # [[Knight]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Knight,102083]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Knight,102083|WD~Knight,102083]] 
 
 ## #has_/text_of_/abstract 
 

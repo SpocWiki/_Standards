@@ -55,7 +55,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Theia%20ar
 end_time: -4520000000-01-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Theia,1053432]]'
+  - '[[_Standards/WikiData/WD~Theia,1053432|WD~Theia,1053432]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet)|Theia(Planet)]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).public|Theia(Planet).public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).internal|Theia(Planet).internal]]'
@@ -64,7 +64,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).personal|Theia(Planet).personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).secret|Theia(Planet).secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Theia,1053432]]'
+- '[[_Standards/WikiData/WD~Theia,1053432|WD~Theia,1053432]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet)|Theia(Planet)]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).public|Theia(Planet).public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).internal|Theia(Planet).internal]]'
@@ -138,7 +138,7 @@ dv_has_:
 
 # [[Theia(Planet)]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Theia,1053432]]
+#is_/same_as :: [[_Standards/WikiData/WD~Theia,1053432|WD~Theia,1053432]]
 
 ## #has_/text_of_/abstract 
 

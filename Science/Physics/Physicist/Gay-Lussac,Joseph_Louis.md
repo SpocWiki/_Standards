@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Gay-Lussac,Joseph_Louis]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Joseph_Louis_Gay-Lussac,153185]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Joseph_Louis_Gay-Lussac,153185|WD~Joseph_Louis_Gay-Lussac,153185]] 
 
 ## #has_/text_of_/abstract 
 

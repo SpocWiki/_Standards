@@ -321,7 +321,7 @@ dv_has_:
 
 # [[Pencil]] ✏️ 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pencil,14674]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pencil,14674|WD~Pencil,14674]] 
 
 ## #has_/text_of_/abstract 
 

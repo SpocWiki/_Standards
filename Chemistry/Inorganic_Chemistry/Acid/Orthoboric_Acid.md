@@ -235,7 +235,7 @@ dv_is_same_as:
 # [[Orthoboric_Acid]] 
 
 has_formula_ = `=this.dv_has_formula_` 
-#is_/same_as :: [[_Standards/WikiData/WD~Orthoboric_acid,187045]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orthoboric_acid,187045|WD~Orthoboric_acid,187045]] 
 ## #has_/text_of_/abstract 
 
 > Boric acid, more specifically orthoboric acid, 

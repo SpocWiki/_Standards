@@ -272,7 +272,7 @@ dv_has_:
 
 # [[Masturbation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Masturbation,8396]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Masturbation,8396|WD~Masturbation,8396]] 
 
 ## #has_/text_of_/abstract 
 

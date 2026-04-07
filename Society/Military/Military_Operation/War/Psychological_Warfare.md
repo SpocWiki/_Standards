@@ -149,7 +149,7 @@ dv_has_:
 
 # [[Psychological_Warfare]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Psychological_warfare,163698]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Psychological_warfare,163698|WD~Psychological_warfare,163698]] 
 
 ## #has_/text_of_/abstract 
 

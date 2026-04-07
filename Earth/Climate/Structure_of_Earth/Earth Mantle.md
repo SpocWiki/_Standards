@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Earth Mantle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mantle,101949]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mantle,101949|WD~Mantle,101949]] 
 
 ## #has_/text_of_/abstract 
 

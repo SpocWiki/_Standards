@@ -128,7 +128,7 @@ aliases:
 
 # [[Howitzer]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Howitzer,180126]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Howitzer,180126|WD~Howitzer,180126]] 
 
 The name **"Howitzer"** comes from the Czech word **"houfnice"**, 
 which itself originates from the medieval military term **"houf"**, meaning _crowd_ or _heap_. 

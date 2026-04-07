@@ -276,7 +276,7 @@ dv_has_:
 
 # [[Passport]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Passport,43812]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Passport,43812|WD~Passport,43812]] 
 
 ## #has_/text_of_/abstract 
 

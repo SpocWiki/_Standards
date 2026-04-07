@@ -207,7 +207,7 @@ dv_has_:
 
 # [[Polygamy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polygamy,170585]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polygamy,170585|WD~Polygamy,170585]] 
 
 ## #has_/text_of_/abstract 
 

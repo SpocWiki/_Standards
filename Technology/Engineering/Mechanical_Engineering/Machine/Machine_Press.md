@@ -99,7 +99,7 @@ dv_has_:
 
 # [[Machine_Press]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Machine_press,674484]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Machine_press,674484|WD~Machine_press,674484]] 
 
 ## #has_/text_of_/abstract 
 

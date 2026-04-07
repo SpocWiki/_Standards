@@ -84,7 +84,7 @@ dv_has_:
 
 # [[Naive_Set_Theory]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Naive_set_theory,903783]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Naive_set_theory,903783|WD~Naive_set_theory,903783]] 
 
 ## #has_/text_of_/abstract 
 

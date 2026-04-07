@@ -41,7 +41,7 @@ country: '[[_Standards/WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]
 BHCL_UUID: b26c8083-3a61-48ef-846c-8e25ba880caa
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Benes-Decrees,165559]]'
+  - '[[_Standards/WikiData/WD~Benes-Decrees,165559|WD~Benes-Decrees,165559]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946|1940-Benes-Decrees+1946]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.public|1940-Benes-Decrees+1946.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.internal|1940-Benes-Decrees+1946.internal]]'
@@ -50,7 +50,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.personal|1940-Benes-Decrees+1946.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.secret|1940-Benes-Decrees+1946.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Benes-Decrees,165559]]'
+- '[[_Standards/WikiData/WD~Benes-Decrees,165559|WD~Benes-Decrees,165559]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946|1940-Benes-Decrees+1946]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.public|1940-Benes-Decrees+1946.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.internal|1940-Benes-Decrees+1946.internal]]'
@@ -104,7 +104,7 @@ dv_has_:
 
 # [[1940-Benes-Decrees+1946]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Benes-Decrees,165559]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Benes-Decrees,165559|WD~Benes-Decrees,165559]] 
 
 ## #has_/text_of_/abstract 
 

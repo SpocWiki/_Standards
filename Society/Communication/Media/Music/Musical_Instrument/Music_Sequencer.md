@@ -99,7 +99,7 @@ dv_has_:
 
 # [[Music_Sequencer]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Music_sequencer,646683]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Music_sequencer,646683|WD~Music_sequencer,646683]] 
 
 ## #has_/text_of_/abstract 
 

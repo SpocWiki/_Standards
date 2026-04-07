@@ -118,7 +118,7 @@ name_in_native_language: Robert Rodriguez
 
 # [[Rodriguez,Robert]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Robert_Rodriguez,47284]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Rodriguez,47284|WD~Robert_Rodriguez,47284]] 
 
 ## #has_/text_of_/abstract 
 

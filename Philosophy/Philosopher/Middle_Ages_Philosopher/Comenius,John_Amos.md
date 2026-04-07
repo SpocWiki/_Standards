@@ -233,7 +233,7 @@ dv_has_:
 
 # [[Comenius,John_Amos]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Amos_Comenius,12735]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Amos_Comenius,12735|WD~John_Amos_Comenius,12735]] 
 
 ## #has_/text_of_/abstract 
 

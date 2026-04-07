@@ -121,7 +121,7 @@ dv_has_:
 
 # [[Religious_Law]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Religious_law,670732]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Religious_law,670732|WD~Religious_law,670732]] 
 
 ## #has_/text_of_/abstract 
 

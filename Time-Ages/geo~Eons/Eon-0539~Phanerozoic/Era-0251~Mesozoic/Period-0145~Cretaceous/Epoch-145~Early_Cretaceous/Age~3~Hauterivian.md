@@ -100,7 +100,7 @@ dv_has_:
     stopped: -125.77e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Hauterivian,734179]]'
+  - '[[_Standards/WikiData/WD~Hauterivian,734179|WD~Hauterivian,734179]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian|Age~3~Hauterivian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.public|Age~3~Hauterivian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.internal|Age~3~Hauterivian.internal]]'
@@ -112,7 +112,7 @@ dv_has_duration_years: 6.830e+6
 dv_has_previous_item: '[[Age~2~Valanginian]]'
 dv_has_next_item: '[[Age~4~Barremian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Hauterivian,734179]]'
+- '[[_Standards/WikiData/WD~Hauterivian,734179|WD~Hauterivian,734179]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian|Age~3~Hauterivian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.public|Age~3~Hauterivian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.internal|Age~3~Hauterivian.internal]]'
@@ -156,7 +156,7 @@ A time period from 132.6 to 125.77 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Hauterivian,734179]]
+#is_/same_as :: [[_Standards/WikiData/WD~Hauterivian,734179|WD~Hauterivian,734179]]
 
 ## #has_/text_of_/abstract 
 

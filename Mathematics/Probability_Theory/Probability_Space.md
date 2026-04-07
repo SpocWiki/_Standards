@@ -105,7 +105,7 @@ dv_has_:
 
 # [[Probability_Space]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Probability_space,623472]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Probability_space,623472|WD~Probability_space,623472]] 
 
 ## #has_/text_of_/abstract 
 

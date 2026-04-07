@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Orphanage]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orphanage,160645]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orphanage,160645|WD~Orphanage,160645]] 
 
 ## #has_/text_of_/abstract 
 

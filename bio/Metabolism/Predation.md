@@ -180,7 +180,7 @@ dv_has_:
 
 # [[Predation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Predation,170430]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Predation,170430|WD~Predation,170430]] 
 
 ## #has_/text_of_/abstract 
 

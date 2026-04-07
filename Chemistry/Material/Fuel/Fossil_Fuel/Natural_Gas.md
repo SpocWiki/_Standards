@@ -289,7 +289,7 @@ dv_has_:
 
 # [[Natural_Gas]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Natural_gas,40858]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Natural_gas,40858|WD~Natural_gas,40858]] 
 
 ## #has_/text_of_/abstract 
 

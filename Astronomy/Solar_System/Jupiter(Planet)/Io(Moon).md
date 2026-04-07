@@ -223,7 +223,7 @@ dv_has_:
 
 # [[Io(Moon)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Io,3123]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Io,3123|WD~Io,3123]] 
 
 ## #has_/text_of_/abstract 
 

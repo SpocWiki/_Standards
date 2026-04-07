@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Schmidt,Eric]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Eric_Schmidt,92747]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Eric_Schmidt,92747|WD~Eric_Schmidt,92747]] 
 
 ## #has_/text_of_/abstract 
 

@@ -180,7 +180,7 @@ dv_has_:
 
 # [[Historical_Linguistics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Historical_linguistics,190375]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Historical_linguistics,190375|WD~Historical_linguistics,190375]] 
 
 ## #has_/text_of_/abstract 
 

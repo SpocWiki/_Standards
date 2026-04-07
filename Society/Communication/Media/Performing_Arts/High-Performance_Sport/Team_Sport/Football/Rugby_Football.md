@@ -296,7 +296,7 @@ Unicode_character: 🏉
 
 # [[Rugby_Football]] 🏉 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rugby,5378]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rugby,5378|WD~Rugby,5378]] 
 
 ## #has_/text_of_/abstract 
 

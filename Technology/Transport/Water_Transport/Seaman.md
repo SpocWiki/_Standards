@@ -123,7 +123,7 @@ dv_has_:
 
 # [[Seaman]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Seaman,707995]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Seaman,707995|WD~Seaman,707995]] 
 
 ## #has_/text_of_/abstract 
 

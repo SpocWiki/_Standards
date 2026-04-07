@@ -62,7 +62,7 @@ official_website: https://sheckley.com
 
 # [[Sheckley,Robert]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Robert_Sheckley,333246]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Sheckley,333246|WD~Robert_Sheckley,333246]] 
 
 ## #has_/text_of_/abstract 
 

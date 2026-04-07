@@ -223,7 +223,7 @@ dv_has_:
 
 # [[Mineralogy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mineralogy,83353]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mineralogy,83353|WD~Mineralogy,83353]] 
 
 ## #has_/text_of_/abstract 
 

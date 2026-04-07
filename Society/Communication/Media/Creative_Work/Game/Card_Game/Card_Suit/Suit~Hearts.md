@@ -1,13 +1,13 @@
 ---
 aliases:
 has_id_wikidata: Q3419242
-part_of: "[[_Standards/WikiData/WD~French_suits,3054813]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Hearts_(playing_cards),9658755]]"
+part_of: "[[_Standards/WikiData/WD~French_suits,3054813|WD~French_suits,3054813]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Hearts_(playing_cards),9658755|WD~Category_Hearts_(playing_cards),9658755]]"
 depicted_by:
-  - "[[_Standards/WikiData/WD~Q87526856,87526856]]"
-  - "[[_Standards/WikiData/WD~Q87526864,87526864]]"
-color: "[[_Standards/WikiData/WD~red,3142]]"
-subclass_of: "[[_Standards/WikiData/WD~suit,27905]]"
+  - "[[_Standards/WikiData/WD~Q87526856,87526856|WD~Q87526856,87526856]]"
+  - "[[_Standards/WikiData/WD~Q87526864,87526864|WD~Q87526864,87526864]]"
+color: "[[_Standards/WikiData/WD~red,3142|WD~red,3142]]"
+subclass_of: "[[_Standards/WikiData/WD~suit,27905|WD~suit,27905]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/U%2B2665.svg
 TeX_string: \heartsuit
 Commons_category: Hearts (playing cards)

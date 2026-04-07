@@ -188,7 +188,7 @@ dv_has_:
 
 # [[Pampas]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pampas,184382]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pampas,184382|WD~Pampas,184382]] 
 
 ## #has_/text_of_/abstract 
 

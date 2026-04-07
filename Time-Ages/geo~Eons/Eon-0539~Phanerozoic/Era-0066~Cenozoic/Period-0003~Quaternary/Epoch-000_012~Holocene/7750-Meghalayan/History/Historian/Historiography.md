@@ -232,7 +232,7 @@ dv_has_:
 
 # [[Historiography]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Historiography,50675]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Historiography,50675|WD~Historiography,50675]] 
 
 ## #has_/text_of_/abstract 
 

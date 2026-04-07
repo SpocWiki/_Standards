@@ -81,7 +81,7 @@ dv_has_:
     stopped: -264.28e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Wordian,686803]]'
+  - '[[_Standards/WikiData/WD~Wordian,686803|WD~Wordian,686803]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~2~Wordian|Age~2~Wordian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~2~Wordian.public|Age~2~Wordian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~2~Wordian.internal|Age~2~Wordian.internal]]'
@@ -93,7 +93,7 @@ dv_has_duration_years: 2.620e+6
 dv_has_previous_item: '[[Age~1~Roadian]]'
 dv_has_next_item: '[[Age~3~Capitanian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Wordian,686803]]'
+- '[[_Standards/WikiData/WD~Wordian,686803|WD~Wordian,686803]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~2~Wordian|Age~2~Wordian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~2~Wordian.public|Age~2~Wordian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~2~Wordian.internal|Age~2~Wordian.internal]]'
@@ -135,7 +135,7 @@ dv_has_text_of_color: 0xFB8D76
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Wordian,686803]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Wordian,686803|WD~Wordian,686803]]  
 
 A time period from 266.9 to 264.28 million years ago. 
 

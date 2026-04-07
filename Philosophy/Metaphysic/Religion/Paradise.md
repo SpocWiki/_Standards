@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Paradise]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paradise,3363340]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paradise,3363340|WD~Paradise,3363340]] 
 
 ## #has_/text_of_/abstract 
 

@@ -264,7 +264,7 @@ Unicode_character: 🍔
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hamburger,6663]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hamburger,6663|WD~Hamburger,6663]] 
 
 ## #has_/text_of_/abstract 
 

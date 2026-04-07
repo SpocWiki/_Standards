@@ -313,7 +313,7 @@ dv_has_:
 
 # [[Prime_Number]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Prime_number,49008]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Prime_number,49008|WD~Prime_number,49008]] 
 
 ## #has_/text_of_/abstract 
 

@@ -104,7 +104,7 @@ dv_has_:
 
 # [[Irrigation_Sprinkler]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Irrigation_sprinkler,998539]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Irrigation_sprinkler,998539|WD~Irrigation_sprinkler,998539]] 
 
 ## #has_/text_of_/abstract 
 
