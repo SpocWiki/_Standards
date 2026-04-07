@@ -680,13 +680,73 @@ has_properties = `=this.dv_has_properties` ]
 
 ## #has_/text_of_/abstract 
 
-> A **River** is a natural freshwater stream that flows on land or inside caves towards another body of water at a lower elevation, such as an ocean, lake, or another river. A river may run dry before reaching the end of its course if it runs out of water, or only flow during certain seasons. Rivers are regulated by the water cycle, the processes by which water moves around the Earth. Water first enters rivers through precipitation, whether from rainfall, the runoff of water down a slope, the melting of glaciers or snow, or seepage from aquifers beneath the surface of the Earth.
+> A **River** is a natural freshwater stream 
+> that flows on land or inside caves 
+> towards another body of water at a lower elevation, 
+> such as an ocean, lake, or another river. 
+> 
+> A river may run dry before reaching the end of its course 
+> if it runs out of water, or only flow during certain seasons. 
+> Rivers are regulated by the water cycle, 
+> the processes by which water moves around the Earth. 
+> Water first enters rivers through precipitation, 
+> whether from rainfall, the runoff of water down a slope, 
+> the melting of glaciers or snow, or seepage from aquifers 
+> beneath the surface of the Earth.
 >
-> Rivers flow in channeled watercourses and merge in confluences to form drainage basins, areas where surface water eventually flows to a common outlet. Rivers have a great effect on the landscape around them. They may regularly overflow their banks and flood the surrounding area, spreading nutrients to the surrounding area. Sediment or alluvium carried by rivers shapes the landscape around it, forming deltas and islands where the flow slows down. Rivers rarely run in a straight line, instead, they bend or meander; the locations of a river's banks can change frequently. Rivers get their alluvium from erosion, which carves rock into canyons and valleys.
+> Rivers flow in channeled watercourses 
+> and merge in confluences to form drainage basins, 
+> areas where surface water eventually flows to a common outlet. 
+> 
+> Rivers have a great effect on the landscape around them. 
+> They may regularly overflow their banks 
+> and flood the surrounding area, 
+> spreading nutrients to the surrounding area. 
+> Sediment or alluvium carried by rivers 
+> shapes the landscape around it, forming deltas and islands 
+> where the flow slows down. 
+> Rivers rarely run in a straight line, 
+> instead, they bend or meander; 
+> the locations of a river's banks can change frequently. 
+> 
+> Rivers get their alluvium from erosion, 
+> which carves rock into canyons and valleys.
 >
-> Rivers have sustained human and animal life for millennia, including the first human civilizations. The organisms that live around or in a river such as fish, aquatic plants, and insects have different roles, including processing organic matter and predation. Rivers have produced abundant resources for humans, including food, transportation, drinking water, and recreation. Humans have engineered rivers to prevent flooding, irrigate crops, perform work with water wheels, and produce hydroelectricity from dams. People associate rivers with life and fertility and have strong religious, political, social, and mythological attachments to them.
+> Rivers have sustained human and animal life for millennia, 
+> including the first human civilizations. 
+> 
+> The organisms that live around or in a river such as 
+> fish, aquatic plants, and insects have different roles, 
+> including processing organic matter and predation. 
+> 
+> Rivers have produced abundant resources for humans, 
+> including food, transportation, drinking water, and recreation. 
+> 
+> Humans have engineered rivers to 
+> - prevent flooding, 
+> - irrigate crops, 
+> - perform work with water wheels, and 
+> - produce hydroelectricity from dams. 
+> 
+> People associate rivers with life and fertility 
+> and have strong religious, political, social, 
+> and mythological attachments to them.
 >
-> Rivers and river ecosystems are threatened by water pollution, climate change, and human activity. The construction of dams, canals, levees, and other engineered structures has eliminated habitats, has caused the extinction of some species, and lowered the amount of alluvium flowing through rivers. Decreased snowfall from climate change has resulted in less water available for rivers during the summer. Regulation of pollution, dam removal, and sewage treatment have helped to improve water quality and restore river habitats.
+> Rivers and river ecosystems are threatened by 
+> - water pollution, 
+> - climate change, and 
+> - other human activity. 
+> 
+> The construction of dams, canals, levees, 
+> and other engineered structures 
+> - has eliminated habitats, 
+> - has caused the extinction of some species, and 
+> - lowered the amount of alluvium flowing through rivers. 
+> 
+> Decreased snowfall from climate change has resulted in 
+> less water available for rivers during the summer. 
+> Regulation of pollution, dam removal, and sewage treatment 
+> have helped to improve water quality and restore river habitats.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/River) 
 
