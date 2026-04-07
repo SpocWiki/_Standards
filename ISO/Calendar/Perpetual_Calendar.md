@@ -72,7 +72,7 @@ dv_has_:
 
 # [[Perpetual_Calendar]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Perpetual_calendar,1383171]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Perpetual_calendar,1383171|WD~Perpetual_calendar,1383171]] 
 
 ## #has_/text_of_/abstract 
 

@@ -41,7 +41,7 @@ dv_has_:
 
 # [[Questionable_Cause]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Questionable_Cause,2917891]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Questionable_Cause,2917891|WD~Questionable_Cause,2917891]] 
 
 ## #has_/text_of_/abstract 
 

@@ -173,7 +173,7 @@ aliases:
 
 # [[Ionization_Energy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ionization_energy,483769]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ionization_energy,483769|WD~Ionization_energy,483769]] 
 
 ## #has_/text_of_/abstract 
 

@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Peripheral]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peripheral,178648]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peripheral,178648|WD~Peripheral,178648]] 
 
 ## #has_/text_of_/abstract 
 

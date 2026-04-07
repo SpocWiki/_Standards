@@ -100,7 +100,7 @@ dv_has_:
 
 # [[International_Motorcycling_Federation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Motorcycling_Federation,430371]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Motorcycling_Federation,430371|WD~International_Motorcycling_Federation,430371]] 
 
 ## #has_/text_of_/abstract 
 

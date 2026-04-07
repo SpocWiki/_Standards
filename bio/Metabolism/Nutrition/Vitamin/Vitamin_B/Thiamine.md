@@ -259,7 +259,7 @@ dv_has_:
 
 # [[Thiamine]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Thiamine,83187]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Thiamine,83187|WD~Thiamine,83187]] 
 
 ## #has_/text_of_/abstract 
 

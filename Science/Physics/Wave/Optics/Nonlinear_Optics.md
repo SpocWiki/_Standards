@@ -114,7 +114,7 @@ dv_has_:
 
 # [[Nonlinear_Optics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nonlinear_optics,756033]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nonlinear_optics,756033|WD~Nonlinear_optics,756033]] 
 
 ## #has_/text_of_/abstract 
 

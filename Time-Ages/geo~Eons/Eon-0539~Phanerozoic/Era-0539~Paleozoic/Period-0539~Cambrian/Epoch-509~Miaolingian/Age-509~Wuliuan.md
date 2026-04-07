@@ -69,7 +69,7 @@ dv_has_:
     stopped: -504.5e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Wuliuan,5025311]]'
+  - '[[_Standards/WikiData/WD~Wuliuan,5025311|WD~Wuliuan,5025311]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan|Age-509~Wuliuan]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.public|Age-509~Wuliuan.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.internal|Age-509~Wuliuan.internal]]'
@@ -82,7 +82,7 @@ dv_has_time_started: -509.0e6
 dv_has_time_stopped: -504.5e6
 dv_has_text_of_color: 0xB3D492
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Wuliuan,5025311]]'
+- '[[_Standards/WikiData/WD~Wuliuan,5025311|WD~Wuliuan,5025311]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan|Age-509~Wuliuan]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.public|Age-509~Wuliuan.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.internal|Age-509~Wuliuan.internal]]'
@@ -108,7 +108,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
     sh:order 149 
 
 has_text_of_color = `=this.dv_has_text_of_color` 
-#is_/same_as :: [[_Standards/WikiData/WD~Wuliuan,5025311]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Wuliuan,5025311|WD~Wuliuan,5025311]] 
 
 #has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 

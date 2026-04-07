@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Gravitational_Constant]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Gravitational_constant,18373]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gravitational_constant,18373|WD~Gravitational_constant,18373]] 
 
 ## #has_/text_of_/abstract 
 

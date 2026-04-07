@@ -152,7 +152,7 @@ dv_has_:
 
 # [[Ergonomics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ergonomics,1750812]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Ergonomics,1750812|WD~Ergonomics,1750812]]  
 
 ## #has_/text_of_/abstract 
 

@@ -239,7 +239,7 @@ Unicode_character: 🪛
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Screwdriver,161071]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Screwdriver,161071|WD~Screwdriver,161071]] 
 
 ## #has_/text_of_/abstract 
 

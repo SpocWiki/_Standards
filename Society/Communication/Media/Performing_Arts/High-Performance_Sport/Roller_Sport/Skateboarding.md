@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Skateboarding]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Skateboarding,842284]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Skateboarding,842284|WD~Skateboarding,842284]] 
 
 ## #has_/text_of_/abstract 
 

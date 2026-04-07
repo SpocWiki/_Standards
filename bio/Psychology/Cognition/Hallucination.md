@@ -223,7 +223,7 @@ dv_has_:
 
 # [[Hallucination]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hallucination,130741]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hallucination,130741|WD~Hallucination,130741]] 
 
 ## #has_/text_of_/abstract 
 

@@ -122,7 +122,7 @@ dv_has_:
 
 # [[Nordic_Skiing]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nordic_skiing,216613]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nordic_skiing,216613|WD~Nordic_skiing,216613]] 
 
 ## #has_/text_of_/abstract 
 

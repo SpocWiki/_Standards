@@ -269,7 +269,7 @@ dv_has_:
 
 # [[Lomonosov,Mikhail]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mikhail_Lomonosov,58720]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mikhail_Lomonosov,58720|WD~Mikhail_Lomonosov,58720]] 
 
 ## #has_/text_of_/abstract 
 

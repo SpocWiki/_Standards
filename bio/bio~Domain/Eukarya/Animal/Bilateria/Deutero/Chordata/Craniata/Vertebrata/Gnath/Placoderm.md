@@ -130,7 +130,7 @@ dv_has_:
 
 # [[Placoderm]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Placodermi,130932]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Placodermi,130932|WD~Placodermi,130932]] 
 
 ## #has_/text_of_/abstract 
 

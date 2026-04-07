@@ -120,7 +120,7 @@ dv_has_:
 
 # [[Poetics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Poetics,835023]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Poetics,835023|WD~Poetics,835023]] 
 
 ## #has_/text_of_/abstract 
 

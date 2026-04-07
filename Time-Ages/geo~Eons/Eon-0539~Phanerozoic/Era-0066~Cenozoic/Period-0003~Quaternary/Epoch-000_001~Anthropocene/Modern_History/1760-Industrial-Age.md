@@ -43,7 +43,7 @@ dv_has_:
     stopped: 1900-06-01T00:00:00.000+01:00
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Industrial_age,6027480]]'
+  - '[[_Standards/WikiData/WD~Industrial_age,6027480|WD~Industrial_age,6027480]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age|1760-Industrial-Age]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.public|1760-Industrial-Age.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.internal|1760-Industrial-Age.internal]]'
@@ -56,7 +56,7 @@ dv_has_time_stopped: 1900-06-01
 dv_has_duration_years: 100
 dv_has_duration_: P100Y
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Industrial_age,6027480]]'
+- '[[_Standards/WikiData/WD~Industrial_age,6027480|WD~Industrial_age,6027480]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age|1760-Industrial-Age]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.public|1760-Industrial-Age.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.internal|1760-Industrial-Age.internal]]'
@@ -76,7 +76,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 
 #has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.dv_has_time_stopped, date(now)) - this.dv_has_time_started` 
-#is_/same_as :: [[_Standards/WikiData/WD~Industrial_age,6027480]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Industrial_age,6027480|WD~Industrial_age,6027480]] 
 
 ## #has_/text_of_/abstract 
 

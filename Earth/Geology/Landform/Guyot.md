@@ -105,7 +105,7 @@ dv_has_:
 # [[Guyot]] 
 
 is_similar_to = `=this.dv_is_similar_to`
-#is_/same_as :: [[_Standards/WikiData/WD~Guyot,151957]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Guyot,151957|WD~Guyot,151957]] 
 
 ## #has_/text_of_/abstract 
 

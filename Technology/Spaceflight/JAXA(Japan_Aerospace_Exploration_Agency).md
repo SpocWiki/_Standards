@@ -179,7 +179,7 @@ dv_has_:
 
 # [[JAXA(Japan_Aerospace_Exploration_Agency)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Japan_Aerospace_Exploration_Agency,179103]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Japan_Aerospace_Exploration_Agency,179103|WD~Japan_Aerospace_Exploration_Agency,179103]] 
 
 ## #has_/text_of_/abstract 
 

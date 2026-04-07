@@ -186,7 +186,7 @@ dv_has_:
 
 # [[Induction_Proof]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mathematical_induction,178377]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mathematical_induction,178377|WD~Mathematical_induction,178377]] 
 #is_/different_from :: [[../../Philosophy/Epistemology/Empiricism/Inductive_Reasoning|Inductive_Reasoning]] 
 
 ## #has_/text_of_/abstract 

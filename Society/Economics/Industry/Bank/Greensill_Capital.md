@@ -1,8 +1,8 @@
 ---
 aliases:
 has_id_wikidata: Q105042735
-instance_of: "[[_Standards/WikiData/WD~company,783794]]"
-industry: "[[_Standards/WikiData/WD~financial_services,837171]]"
+instance_of: "[[_Standards/WikiData/WD~company,783794|WD~company,783794]]"
+industry: "[[_Standards/WikiData/WD~financial_services,837171|WD~financial_services,837171]]"
 official_website: https://www.greensill.com
 dissolved_abolished_or_demolished_date: 2021-03-08
 ---

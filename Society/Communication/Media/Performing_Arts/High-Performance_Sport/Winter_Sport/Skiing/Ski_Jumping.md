@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Ski_Jumping]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ski_jumping,7718]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ski_jumping,7718|WD~Ski_jumping,7718]] 
 
 #isakindof :: [[../../Winter_Sport|Winter_Sport]]  
 

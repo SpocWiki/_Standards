@@ -156,7 +156,7 @@ dv_has_:
 #has_/time_/started :: 1839-09-10 
 #has_/time_/stopped  :: 1914-04-19 
 #has_/created :: [[Peirce_quincuncial_Projection]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Charles_Sanders_Peirce,187520]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Charles_Sanders_Peirce,187520|WD~Charles_Sanders_Peirce,187520]] 
 
 Peirce was a tragic figure, who died poor, 
 because was shunned by the scientific community in Harvard and the US east coast. 

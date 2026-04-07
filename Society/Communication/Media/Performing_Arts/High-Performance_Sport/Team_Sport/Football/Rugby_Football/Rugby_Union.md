@@ -199,7 +199,7 @@ dv_has_:
 
 # [[Rugby_Union]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rugby_union,5849]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rugby_union,5849|WD~Rugby_union,5849]] 
 
 ## #has_/text_of_/abstract 
 

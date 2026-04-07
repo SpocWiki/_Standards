@@ -107,7 +107,7 @@ dv_has_:
     stopped: -2.58e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Piacenzian,514873]]'
+  - '[[_Standards/WikiData/WD~Piacenzian,514873|WD~Piacenzian,514873]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.public|Age~2~Piacenzian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.internal|Age~2~Piacenzian.internal]]'
@@ -119,7 +119,7 @@ dv_has_duration_years: 1.020e+6
 dv_has_previous_item: '[[Age~1~Zanclean]]'
 dv_has_next_item: '[[../../Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Age~1~Gelasian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Piacenzian,514873]]'
+- '[[_Standards/WikiData/WD~Piacenzian,514873|WD~Piacenzian,514873]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.public|Age~2~Piacenzian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.internal|Age~2~Piacenzian.internal]]'
@@ -164,7 +164,7 @@ A time period from 3.60 to 2.58 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Piacenzian,514873]]
+#is_/same_as :: [[_Standards/WikiData/WD~Piacenzian,514873|WD~Piacenzian,514873]]
 
 ## #has_/text_of_/abstract 
 

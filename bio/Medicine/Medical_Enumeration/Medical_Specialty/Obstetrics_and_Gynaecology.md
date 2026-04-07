@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Obstetrics_and_Gynaecology]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Obstetrics_and_gynaecology,80015]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Obstetrics_and_gynaecology,80015|WD~Obstetrics_and_gynaecology,80015]] 
 
 ## #has_/text_of_/abstract 
 

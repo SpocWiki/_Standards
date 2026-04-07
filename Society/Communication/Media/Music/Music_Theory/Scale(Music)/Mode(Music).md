@@ -120,7 +120,7 @@ dv_has_:
 
 # [[Mode(Music)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mode,731978]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mode,731978|WD~Mode,731978]] 
 
 ## #has_/text_of_/abstract 
 

@@ -157,7 +157,7 @@ dv_has_:
 
 # [[Ice_Sheet]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ice_sheet,12599]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ice_sheet,12599|WD~Ice_sheet,12599]] 
 
 ## #has_/text_of_/abstract 
 

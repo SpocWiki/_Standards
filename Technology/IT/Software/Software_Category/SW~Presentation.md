@@ -96,7 +96,7 @@ dv_has_:
 # [[SW~Presentation]] 
 
 #is_/editor_of :: [[../../../../Society/Communication/Media/Creative_Work/Digital_Document/Presentation_Digital_Document|Presentation_Digital_Document]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Presentation_Program,2115026]]
+#is_/same_as :: [[_Standards/WikiData/WD~Presentation_Program,2115026|WD~Presentation_Program,2115026]]
 
 ## #has_/text_of_/abstract 
 

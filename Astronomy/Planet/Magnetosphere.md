@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Magnetosphere]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magnetosphere,6915]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magnetosphere,6915|WD~Magnetosphere,6915]] 
 
 ## #has_/text_of_/abstract 
 

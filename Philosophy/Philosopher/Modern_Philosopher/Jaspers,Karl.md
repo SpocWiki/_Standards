@@ -346,7 +346,7 @@ dv_has_:
 
 # [[Jaspers,Karl]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Karl_Jaspers,76509]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Karl_Jaspers,76509|WD~Karl_Jaspers,76509]] 
 
 ## #has_/text_of_/abstract 
 

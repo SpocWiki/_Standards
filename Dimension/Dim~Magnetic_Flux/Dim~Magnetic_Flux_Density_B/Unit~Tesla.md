@@ -145,7 +145,7 @@ dv_has_:
 
 # [[Unit~Tesla]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Tesla,163343]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Tesla,163343|WD~Tesla,163343]] 
 
 ## #has_/text_of_/abstract 
 

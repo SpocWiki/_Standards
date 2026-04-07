@@ -290,7 +290,7 @@ dv_has_:
 
 # [[Plain]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Plain,160091]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plain,160091|WD~Plain,160091]] 
 
 ## #has_/text_of_/abstract 
 

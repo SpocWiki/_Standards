@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Welding]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Welding,131172]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Welding,131172|WD~Welding,131172]] 
 
 Any fabrication process for joining workpieces **without adding a dissimilar adhesive material**. 
 

@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Pong]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pong,216293]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pong,216293|WD~Pong,216293]] 
 
 ## #has_/text_of_/abstract 
 

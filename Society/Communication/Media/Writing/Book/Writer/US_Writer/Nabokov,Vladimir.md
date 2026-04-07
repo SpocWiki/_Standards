@@ -324,7 +324,7 @@ dv_has_:
 
 # [[Nabokov,Vladimir]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Vladimir_Nabokov,36591]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Vladimir_Nabokov,36591|WD~Vladimir_Nabokov,36591]] 
 #has_/created :: [[Nabokov,Vladimir/Lolita(Novel)|Lolita(Novel)]]
 
 ## #has_/text_of_/abstract 

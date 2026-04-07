@@ -186,7 +186,7 @@ dv_has_:
 
 # [[Shame]] 
 
-#is_/same_as  [[_Standards/WikiData/WD~Shame,152282]] 
+#is_/same_as  [[_Standards/WikiData/WD~Shame,152282|WD~Shame,152282]] 
 
 ## #has_/text_of_/abstract 
 

@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Friction]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Friction,82580]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Friction,82580|WD~Friction,82580]] 
 
 ## #has_/text_of_/abstract 
 

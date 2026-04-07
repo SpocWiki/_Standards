@@ -336,7 +336,7 @@ dv_has_:
 
 # [[Hamlet]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hamlet,41567]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hamlet,41567|WD~Hamlet,41567]] 
 
 ## #has_/text_of_/abstract 
 

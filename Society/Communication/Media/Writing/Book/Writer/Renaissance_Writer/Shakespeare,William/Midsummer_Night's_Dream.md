@@ -237,7 +237,7 @@ dv_has_:
 
 # [[Midsummer_Night's_Dream]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Midsummer_Night's_Dream,104871]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Midsummer_Night's_Dream,104871|WD~Midsummer_Night's_Dream,104871]] 
 
 ## #has_/text_of_/abstract 
 

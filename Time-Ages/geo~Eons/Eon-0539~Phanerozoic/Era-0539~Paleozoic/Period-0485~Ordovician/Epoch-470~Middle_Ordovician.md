@@ -205,7 +205,7 @@ dv_has_:
     stopped: -458.4e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Middle_Ordovician,62100]]'
+  - '[[_Standards/WikiData/WD~Middle_Ordovician,62100|WD~Middle_Ordovician,62100]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician|Epoch-470~Middle_Ordovician]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.public|Epoch-470~Middle_Ordovician.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.internal|Epoch-470~Middle_Ordovician.internal]]'
@@ -217,7 +217,7 @@ dv_has_duration_years: 1.160e+7
 dv_has_previous_item: '[[Epoch-485~Early_Ordovician]]'
 dv_has_next_item: '[[Epoch-458~Late_Ordovician]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Middle_Ordovician,62100]]'
+- '[[_Standards/WikiData/WD~Middle_Ordovician,62100|WD~Middle_Ordovician,62100]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician|Epoch-470~Middle_Ordovician]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.public|Epoch-470~Middle_Ordovician.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.internal|Epoch-470~Middle_Ordovician.internal]]'
@@ -259,7 +259,7 @@ dv_has_text_of_color: 0x4DB47E
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Middle_Ordovician,62100]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Middle_Ordovician,62100|WD~Middle_Ordovician,62100]]  
 
 A time period from 470.0 to 458.4 million years ago. 
 

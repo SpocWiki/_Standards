@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Heat_Pump]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Heat_Pump,131313]]
+#is_/same_as :: [[_Standards/WikiData/WD~Heat_Pump,131313|WD~Heat_Pump,131313]]
 
 ## #has_/text_of_/abstract 
 

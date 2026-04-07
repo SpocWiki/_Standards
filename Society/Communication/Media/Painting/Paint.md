@@ -231,7 +231,7 @@ dv_has_:
 
 # [[Paint]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paint,174219]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paint,174219|WD~Paint,174219]] 
 
 ## #has_/text_of_/abstract 
 

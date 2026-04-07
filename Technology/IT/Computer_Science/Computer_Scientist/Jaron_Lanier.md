@@ -122,7 +122,7 @@ dv_has_:
 
 # [[Jaron_Lanier]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jaron_Lanier,92862]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jaron_Lanier,92862|WD~Jaron_Lanier,92862]] 
 
 ## #has_/text_of_/abstract 
 

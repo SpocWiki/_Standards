@@ -94,7 +94,7 @@ dv_has_:
 
 # [[Combined-Cycle_Power_Plant]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Combined_cycle_power_plant,900729]]
+#is_/same_as :: [[_Standards/WikiData/WD~Combined_cycle_power_plant,900729|WD~Combined_cycle_power_plant,900729]]
 
 ## #has_/text_of_/abstract 
 

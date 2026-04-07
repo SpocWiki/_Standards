@@ -275,7 +275,7 @@ dv_has_:
 
 # [[Litchi_chinensis]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Litchi_chinensis,13182]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Litchi_chinensis,13182|WD~Litchi_chinensis,13182]] 
 
 ## #has_/text_of_/abstract 
 

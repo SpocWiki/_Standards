@@ -117,7 +117,7 @@ aliases:
 
 # [[Olympic_Council_of_Asia 1]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Olympic_Council_of_Asia,844293]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Olympic_Council_of_Asia,844293|WD~Olympic_Council_of_Asia,844293]] 
 
 ## #has_/text_of_/abstract 
 

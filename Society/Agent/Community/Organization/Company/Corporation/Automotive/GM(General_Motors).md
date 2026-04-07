@@ -257,7 +257,7 @@ dv_has_:
 
 # [[GM(General_Motors)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~General_Motors,81965]] 
+#is_/same_as :: [[_Standards/WikiData/WD~General_Motors,81965|WD~General_Motors,81965]] 
 
 ## #has_/text_of_/abstract 
 

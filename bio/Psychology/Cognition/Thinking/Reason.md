@@ -216,7 +216,7 @@ dv_has_:
 
 # [[Reason]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Reason,178354]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Reason,178354|WD~Reason,178354]] 
 
 ## #has_/text_of_/abstract 
 

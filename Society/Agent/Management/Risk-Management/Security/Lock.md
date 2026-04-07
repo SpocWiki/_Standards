@@ -180,7 +180,7 @@ Unicode_character: 🔏
 # [[Lock]] 🔏 
 
 #has_/complement ::  [[Key]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Lock,228039]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lock,228039|WD~Lock,228039]] 
 
 ## #has_/text_of_/abstract 
 

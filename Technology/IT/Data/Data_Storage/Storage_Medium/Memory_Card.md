@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Memory_Card]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Memory_card,183731]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Memory_card,183731|WD~Memory_card,183731]] 
 
 ## #has_/text_of_/abstract 
 

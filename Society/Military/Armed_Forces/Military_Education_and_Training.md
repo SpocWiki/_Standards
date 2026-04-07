@@ -101,7 +101,7 @@ dv_has_:
 
 # [[Military_Education_and_Training]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Military_education_and_training,2351849]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_education_and_training,2351849|WD~Military_education_and_training,2351849]] 
 
 ## #has_/text_of_/abstract 
 

@@ -217,7 +217,7 @@ dv_has_:
 
 # [[Scipio_Africanus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scipio_Africanus,2253]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scipio_Africanus,2253|WD~Scipio_Africanus,2253]] 
 
 ## #has_/text_of_/abstract 
 

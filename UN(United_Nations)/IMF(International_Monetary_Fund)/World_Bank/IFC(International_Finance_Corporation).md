@@ -166,7 +166,7 @@ dv_has_:
 
 # [[IFC(International_Finance_Corporation)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Finance_Corporation,656801]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]] 
 
 ## #has_/text_of_/abstract 
 

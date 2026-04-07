@@ -268,7 +268,7 @@ dv_has_:
 
 # [[Lutheranism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lutheranism,75809]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lutheranism,75809|WD~Lutheranism,75809]] 
 
 ## #has_/text_of_/abstract 
 

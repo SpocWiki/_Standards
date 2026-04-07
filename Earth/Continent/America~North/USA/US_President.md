@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~US_President,11696]]'
+  - '[[_Standards/WikiData/WD~US_President,11696|WD~US_President,11696]]'
   - '[[/_Standards/Earth/Continent/America~North/USA/US_President|US_President]]'
   - '[[/_public/Earth/Continent/America~North/USA/US_President.public|US_President.public]]'
   - '[[/_internal/Earth/Continent/America~North/USA/US_President.internal|US_President.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/America~North/USA/US_President.personal|US_President.personal]]'
   - '[[/_secret/Earth/Continent/America~North/USA/US_President.secret|US_President.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~US_President,11696]]'
+- '[[_Standards/WikiData/WD~US_President,11696|WD~US_President,11696]]'
 - '[[/_Standards/Earth/Continent/America~North/USA/US_President|US_President]]'
 - '[[/_public/Earth/Continent/America~North/USA/US_President.public|US_President.public]]'
 - '[[/_internal/Earth/Continent/America~North/USA/US_President.internal|US_President.internal]]'
@@ -421,7 +421,7 @@ dv_has_:
 
 # [[US_President]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~US_President,11696]]
+#is_/same_as :: [[_Standards/WikiData/WD~US_President,11696|WD~US_President,11696]]
 
 ## #has_/text_of_/abstract 
 

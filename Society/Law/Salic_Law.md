@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Salic_Law]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Salic_law,152507]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Salic_law,152507|WD~Salic_law,152507]] 
 
 ## #has_/text_of_/abstract 
 

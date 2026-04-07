@@ -166,7 +166,7 @@ dv_has_:
 # [[Suffering]] 
 
 #has_/complement :: [[Happiness|Happiness]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Suffering,5780945]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Suffering,5780945|WD~Suffering,5780945]] 
 
 ## #has_/text_of_/abstract 
 

@@ -83,7 +83,7 @@ dv_has_:
 
 # [[Municipal_or_Urban_Engineering]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Municipal_or_urban_engineering,1380395]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Municipal_or_urban_engineering,1380395|WD~Municipal_or_urban_engineering,1380395]] 
 
 ## #has_/text_of_/abstract 
 

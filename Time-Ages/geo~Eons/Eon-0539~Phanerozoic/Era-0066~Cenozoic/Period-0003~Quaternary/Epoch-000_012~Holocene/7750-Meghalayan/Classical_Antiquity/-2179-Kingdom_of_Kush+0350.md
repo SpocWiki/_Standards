@@ -171,7 +171,7 @@ dv_has_:
 
 # [[-2179-Kingdom_of_Kush+0350]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Late_Egypt,241790]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Late_Egypt,241790|WD~Late_Egypt,241790]] 
 
 ## #has_/text_of_/abstract 
 

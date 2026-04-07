@@ -178,7 +178,7 @@ aliases:
 
 # [[Interstellar_Medium]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Interstellar_medium,41872]]   
+#is_/same_as :: [[_Standards/WikiData/WD~Interstellar_medium,41872|WD~Interstellar_medium,41872]]   
 
 ## #has_/text_of_/abstract 
 

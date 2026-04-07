@@ -321,7 +321,7 @@ dv_has_:
 
 # [[Police]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Police,35535]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Police,35535|WD~Police,35535]] 
 
 ## #has_/text_of_/abstract 
 

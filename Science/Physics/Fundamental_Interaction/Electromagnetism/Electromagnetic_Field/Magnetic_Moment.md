@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Magnetic_Moment]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magnetic_moment,242657]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magnetic_moment,242657|WD~Magnetic_moment,242657]] 
 
 ## #has_/text_of_/abstract 
 

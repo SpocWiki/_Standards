@@ -210,7 +210,7 @@ dv_has_:
 
 # [[International_Maritime_Organization]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Maritime_Organization,201054]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Maritime_Organization,201054|WD~International_Maritime_Organization,201054]] 
 
 ## #has_/text_of_/abstract 
 

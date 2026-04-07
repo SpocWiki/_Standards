@@ -22,7 +22,7 @@ dv_is_same_as:
 
 # [[Photometry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Photometry,1073340]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Photometry,1073340|WD~Photometry,1073340]] 
 
 ## #has_/text_of_/abstract 
 

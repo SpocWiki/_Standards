@@ -294,7 +294,7 @@ Unicode_character: 🍕
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pizza,177]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pizza,177|WD~Pizza,177]] 
 
 ## #has_/text_of_/abstract 
 

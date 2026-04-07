@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Kolkhoz]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kolkhoz,485016]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kolkhoz,485016|WD~Kolkhoz,485016]] 
 
 ## #has_/text_of_/abstract 
 

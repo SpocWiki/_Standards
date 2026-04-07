@@ -321,7 +321,7 @@ dv_has_:
 
 # [[Romani_People]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Romani_people,8060]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Romani_people,8060|WD~Romani_people,8060]] 
 #has_/parts :: [[Sinti_People]]
 
 ## #has_/text_of_/abstract 

@@ -120,7 +120,7 @@ dv_has_:
     stopped: -66.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Maastrichtian,278141]]'
+  - '[[_Standards/WikiData/WD~Maastrichtian,278141|WD~Maastrichtian,278141]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.public|Age~6~Maastrichtian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.internal|Age~6~Maastrichtian.internal]]'
@@ -132,7 +132,7 @@ dv_has_duration_years: 6.100e+6
 dv_has_previous_item: '[[Age~5~Campanian]]'
 dv_has_next_item: '[[../../../Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Maastrichtian,278141]]'
+- '[[_Standards/WikiData/WD~Maastrichtian,278141|WD~Maastrichtian,278141]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.public|Age~6~Maastrichtian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.internal|Age~6~Maastrichtian.internal]]'
@@ -176,7 +176,7 @@ A time period from 72.1 to 66.0 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Maastrichtian,278141]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Maastrichtian,278141|WD~Maastrichtian,278141]] 
 
 ## #has_/text_of_/abstract 
 

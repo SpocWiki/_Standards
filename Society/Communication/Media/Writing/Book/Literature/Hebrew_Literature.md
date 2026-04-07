@@ -99,7 +99,7 @@ dv_has_:
 
 # [[Hebrew_Literature]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hebrew_literature,1057314]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hebrew_literature,1057314|WD~Hebrew_literature,1057314]] 
 
 ## #has_/text_of_/abstract 
 

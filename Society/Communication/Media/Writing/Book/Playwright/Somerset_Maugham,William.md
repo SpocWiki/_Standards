@@ -224,7 +224,7 @@ dv_has_:
 # [[Somerset_Maugham,William]] 
 
 #has_/created_/quote :: There are three rules for writing a novel. Unfortunately, no one knows what they are.
-#is_/same_as :: [[_Standards/WikiData/WD~William_Somerset_Maugham,134942]]
+#is_/same_as :: [[_Standards/WikiData/WD~William_Somerset_Maugham,134942|WD~William_Somerset_Maugham,134942]]
 
 ## #has_/text_of_/abstract 
 

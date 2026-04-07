@@ -464,7 +464,7 @@ dv_has_:
 
 # [[Messi,Lionel]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lionel_Messi,615]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lionel_Messi,615|WD~Lionel_Messi,615]] 
 
 ## #has_/text_of_/abstract 
 

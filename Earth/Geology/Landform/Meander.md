@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Meander]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Meander,180537]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Meander,180537|WD~Meander,180537]] 
 
 ## #has_/text_of_/abstract 
 

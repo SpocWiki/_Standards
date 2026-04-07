@@ -71,7 +71,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Absorber.svg
 dv_is_:
   different_from: '[[Adsorption]]'
   same_as:
-  - '[[_Standards/WikiData/WD~Absorption,332828]]'
+  - '[[_Standards/WikiData/WD~Absorption,332828|WD~Absorption,332828]]'
   - '[[/_Standards/Chemistry/Chemical_Reaction/Absorption|Absorption]]'
   - '[[/_public/Chemistry/Chemical_Reaction/Absorption.public|Absorption.public]]'
   - '[[/_internal/Chemistry/Chemical_Reaction/Absorption.internal|Absorption.internal]]'
@@ -81,7 +81,7 @@ dv_is_:
   - '[[/_secret/Chemistry/Chemical_Reaction/Absorption.secret|Absorption.secret]]'
 dv_is_different_from: '[[Adsorption]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Absorption,332828]]'
+- '[[_Standards/WikiData/WD~Absorption,332828|WD~Absorption,332828]]'
 - '[[/_Standards/Chemistry/Chemical_Reaction/Absorption|Absorption]]'
 - '[[/_public/Chemistry/Chemical_Reaction/Absorption.public|Absorption.public]]'
 - '[[/_internal/Chemistry/Chemical_Reaction/Absorption.internal|Absorption.internal]]'
@@ -152,7 +152,7 @@ dv_has_:
 # [[Absorption]]  
 
 is_different_from = `=this.dv_is_different_from` 
-#is_/same_as :: [[_Standards/WikiData/WD~Absorption,332828]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Absorption,332828|WD~Absorption,332828]] 
 
 ## #has_/text_of_/abstract 
 

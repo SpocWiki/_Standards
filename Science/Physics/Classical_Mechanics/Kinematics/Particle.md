@@ -195,7 +195,7 @@ dv_has_:
 
 # [[Particle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Particle,1621273]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Particle,1621273|WD~Particle,1621273]] 
 
 ## #has_/text_of_/abstract 
 

@@ -353,7 +353,7 @@ dv_has_:
 
 # [[Peninsula]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peninsula,34763]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peninsula,34763|WD~Peninsula,34763]] 
 
 ## #has_/text_of_/abstract 
 

@@ -199,7 +199,7 @@ dv_has_:
 
 # [[Jack_the_Ripper]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jack_the_Ripper,43963]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jack_the_Ripper,43963|WD~Jack_the_Ripper,43963]] 
 
 ## #has_/text_of_/abstract 
 

@@ -51,7 +51,7 @@ aliases:
 - 중세 사회 계급
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Third_Estate,]]'
+  - '[[_Standards/WikiData/WD~Third_Estate,|WD~Third_Estate,]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate|Third_Estate]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.public|Third_Estate.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.internal|Third_Estate.internal]]'
@@ -60,7 +60,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.personal|Third_Estate.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.secret|Third_Estate.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Third_Estate,]]'
+- '[[_Standards/WikiData/WD~Third_Estate,|WD~Third_Estate,]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate|Third_Estate]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.public|Third_Estate.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.internal|Third_Estate.internal]]'
@@ -135,7 +135,7 @@ dv_has_:
 
 # [[Third_Estate]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Third_Estate,]]
+#is_/same_as :: [[_Standards/WikiData/WD~Third_Estate,|WD~Third_Estate,]]
 
 ## #has_/text_of_/abstract 
 

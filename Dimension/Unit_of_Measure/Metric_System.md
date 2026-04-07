@@ -205,7 +205,7 @@ dv_has_:
 
 # [[Metric_System]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Metric_system,232405]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Metric_system,232405|WD~Metric_system,232405]] 
 
 ## #has_/text_of_/abstract 
 

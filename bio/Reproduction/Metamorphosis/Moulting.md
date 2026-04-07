@@ -131,7 +131,7 @@ dv_has_:
 
 # [[Moulting]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Moulting,381084]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Moulting,381084|WD~Moulting,381084]] 
 
 ## #has_/text_of_/abstract 
 

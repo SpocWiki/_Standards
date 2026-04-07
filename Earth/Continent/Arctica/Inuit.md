@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Inuit]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Inuit,189975]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Inuit,189975|WD~Inuit,189975]] 
 
 ## #has_/text_of_/abstract 
 

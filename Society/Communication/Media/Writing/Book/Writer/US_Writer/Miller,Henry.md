@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Miller,Henry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Henry_Miller,187765]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Henry_Miller,187765|WD~Henry_Miller,187765]] 
 
 ## #has_/text_of_/abstract 
 

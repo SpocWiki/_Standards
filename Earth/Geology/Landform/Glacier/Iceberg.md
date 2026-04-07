@@ -221,7 +221,7 @@ aliases:
 
 # [[Iceberg]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Iceberg,47568]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Iceberg,47568|WD~Iceberg,47568]] 
 
 ## #has_/text_of_/abstract 
 

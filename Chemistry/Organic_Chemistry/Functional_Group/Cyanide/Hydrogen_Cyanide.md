@@ -194,8 +194,8 @@ RTECS_number: MW6825000
 SPLASH: splash10-004i-9000000000-ff23e89c9d09e6b92cbc
 image_of_molecular_model_or_crystal_lattice_model: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen-cyanide-3D-balls.png
 dv_is_:
-  same_as: '[[_Standards/WikiData/WD~Hydrogen_Cyanide,26075]]'
-dv_is_same_as: '[[_Standards/WikiData/WD~Hydrogen_Cyanide,26075]]'
+  same_as: '[[_Standards/WikiData/WD~Hydrogen_Cyanide,26075|WD~Hydrogen_Cyanide,26075]]'
+dv_is_same_as: '[[_Standards/WikiData/WD~Hydrogen_Cyanide,26075|WD~Hydrogen_Cyanide,26075]]'
 dv_has_:
   name_:
     af: Blousuur

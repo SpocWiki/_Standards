@@ -178,7 +178,7 @@ dv_has_:
 
 # [[Nasdaq]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nasdaq,82059]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nasdaq,82059|WD~Nasdaq,82059]] 
 
 ## #has_/text_of_/abstract 
 

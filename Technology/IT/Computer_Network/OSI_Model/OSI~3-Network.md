@@ -130,7 +130,7 @@ dv_has_:
 
 # [[OSI~3-Network]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Network_layer,208074]]
+#is_/same_as :: [[_Standards/WikiData/WD~Network_layer,208074|WD~Network_layer,208074]]
 
 ## #has_/text_of_/abstract 
 

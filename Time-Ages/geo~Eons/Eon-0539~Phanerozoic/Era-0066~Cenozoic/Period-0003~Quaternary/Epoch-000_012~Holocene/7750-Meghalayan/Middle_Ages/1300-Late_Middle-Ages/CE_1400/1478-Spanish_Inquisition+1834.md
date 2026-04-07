@@ -182,7 +182,7 @@ dv_has_:
 
 # [[1478-Spanish_Inquisition+1834]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Spanish_Inquisition,184725]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Spanish_Inquisition,184725|WD~Spanish_Inquisition,184725]] 
 
 ## #has_/text_of_/abstract 
 

@@ -191,7 +191,7 @@ dv_has_:
 
 # [[Marshal]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Marshal,111837]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Marshal,111837|WD~Marshal,111837]] 
 
 ## #has_/text_of_/abstract 
 

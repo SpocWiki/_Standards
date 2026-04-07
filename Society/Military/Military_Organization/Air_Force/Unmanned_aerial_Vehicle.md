@@ -298,7 +298,7 @@ dv_has_:
 
 # [[Unmanned_aerial_Vehicle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Unmanned_aerial_vehicle,484000]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Unmanned_aerial_vehicle,484000|WD~Unmanned_aerial_vehicle,484000]] 
 
 ## #has_/text_of_/abstract 
 

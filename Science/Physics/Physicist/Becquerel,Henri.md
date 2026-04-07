@@ -265,7 +265,7 @@ dv_has_:
 
 # [[Becquerel,Henri]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Henri_Becquerel,41269]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Henri_Becquerel,41269|WD~Henri_Becquerel,41269]] 
 
 ## #has_/text_of_/abstract 
 

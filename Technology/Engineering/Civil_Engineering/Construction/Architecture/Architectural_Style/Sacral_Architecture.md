@@ -123,7 +123,7 @@ dv_has_:
 
 # [[Sacral_Architecture]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sacred_architecture,47848]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sacred_architecture,47848|WD~Sacred_architecture,47848]] 
 
 ## #has_/text_of_/abstract 
 

@@ -229,7 +229,7 @@ dv_has_:
 
 # [[Lamarck,Jean-Baptiste_de]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jean-Baptiste_de_Lamarck,82122]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jean-Baptiste_de_Lamarck,82122|WD~Jean-Baptiste_de_Lamarck,82122]] 
 
 ## #has_/text_of_/abstract 
 

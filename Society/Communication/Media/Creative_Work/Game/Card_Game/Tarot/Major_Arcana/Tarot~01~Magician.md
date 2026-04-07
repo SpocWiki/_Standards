@@ -4,10 +4,10 @@ aliases:
 has_id_wikidata: Q1765476
 Unicode_character: 🃡
 depicts:
-  - "[[_Standards/WikiData/WD~magician,148401]]"
-  - "[[_Standards/WikiData/WD~man,8441]]"
-instance_of: "[[_Standards/WikiData/WD~trump,727407]]"
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357]]"
+  - "[[_Standards/WikiData/WD~magician,148401|WD~magician,148401]]"
+  - "[[_Standards/WikiData/WD~man,8441|WD~man,8441]]"
+instance_of: "[[_Standards/WikiData/WD~trump,727407|WD~trump,727407]]"
+part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/01%20Le%20Bateleur%2C%20Oswald%20Wirth%20Tarot%20Deck%201889.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Magician%20visconti.jpg
@@ -18,7 +18,7 @@ Commons_category: Magician (Major Arcana)
 # [[Tarot~01~Magician]] 🃡 
 
 #is_/same_as :: [[WD~The_Magician_(tarot_card),1765476]] 
-#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~01~Magician.jpg]]         
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~01~Magician.jpg|Tarot~01~Magician.jpg]]         
 
 ## #has_/text_of_/abstract 
 

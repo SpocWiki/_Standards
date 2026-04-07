@@ -226,7 +226,7 @@ Unicode_character: 🥋
 
 # [[Karate]]  🥋
 
-#is_/same_as :: [[_Standards/WikiData/WD~Karate,11419]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Karate,11419|WD~Karate,11419]] 
 
 ## #has_/text_of_/abstract 
 

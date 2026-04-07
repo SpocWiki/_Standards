@@ -270,7 +270,7 @@ dv_has_:
 
 # [[Sausage]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sausage,131419]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sausage,131419|WD~Sausage,131419]] 
 
 ## #has_/text_of_/abstract 
 

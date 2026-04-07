@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Unit~Mohs]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mohs_scale_of_mineral_hardness,41472]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mohs_scale_of_mineral_hardness,41472|WD~Mohs_scale_of_mineral_hardness,41472]] 
 
 ## #has_/text_of_/abstract 
 

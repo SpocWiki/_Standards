@@ -350,7 +350,7 @@ dv_has_:
 
 # [[Neighborhood]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Neighborhood,123705]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Neighborhood,123705|WD~Neighborhood,123705]] 
 
 ## #has_/text_of_/abstract 
 

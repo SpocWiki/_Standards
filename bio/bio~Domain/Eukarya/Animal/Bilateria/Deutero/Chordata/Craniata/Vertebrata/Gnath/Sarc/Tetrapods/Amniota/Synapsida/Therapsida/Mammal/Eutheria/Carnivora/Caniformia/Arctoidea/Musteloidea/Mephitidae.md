@@ -203,7 +203,7 @@ Unicode_character: 🦨
 
 # [[Mephitidae]] 🦨 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mephitidae,83244]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mephitidae,83244|WD~Mephitidae,83244]] 
 
 ## #has_/text_of_/abstract 
 

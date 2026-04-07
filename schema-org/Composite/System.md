@@ -275,7 +275,7 @@ dv_has_:
 
 # [[System]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~System,58778]] 
+#is_/same_as :: [[_Standards/WikiData/WD~System,58778|WD~System,58778]] 
 
 ## #has_/text_of_/abstract 
 

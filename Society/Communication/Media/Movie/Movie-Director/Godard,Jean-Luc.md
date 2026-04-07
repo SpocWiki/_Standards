@@ -266,7 +266,7 @@ dv_has_:
 
 # [[Godard,Jean-Luc]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jean-Luc_Godard,53001]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jean-Luc_Godard,53001|WD~Jean-Luc_Godard,53001]] 
 
 ## #has_/text_of_/abstract 
 

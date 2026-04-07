@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Pristidae]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pristidae,190736]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pristidae,190736|WD~Pristidae,190736]] 
 
 ## #has_/text_of_/abstract 
 

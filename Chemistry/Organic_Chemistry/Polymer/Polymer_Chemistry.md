@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Polymer_Chemistry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polymer_chemistry,750446]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polymer_chemistry,750446|WD~Polymer_chemistry,750446]] 
 
 ## #has_/text_of_/abstract 
 

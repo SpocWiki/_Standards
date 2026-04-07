@@ -213,7 +213,7 @@ dv_has_:
 
 # [[Social_Psychology]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Social_psychology,161272]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Social_psychology,161272|WD~Social_psychology,161272]] 
 
 ## #has_/text_of_/abstract 
 

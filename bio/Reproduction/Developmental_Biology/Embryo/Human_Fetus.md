@@ -190,7 +190,7 @@ dv_has_:
 # [[Human_Fetus]] 
 
 #has_/previous_/state :: [[../Embryo|Embryo]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Human_fetus,26513]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Human_fetus,26513|WD~Human_fetus,26513]] 
 
 ## #has_/text_of_/abstract 
 

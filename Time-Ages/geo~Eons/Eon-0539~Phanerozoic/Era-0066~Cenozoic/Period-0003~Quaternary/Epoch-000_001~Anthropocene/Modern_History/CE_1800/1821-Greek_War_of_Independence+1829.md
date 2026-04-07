@@ -194,7 +194,7 @@ dv_has_:
 
 # [[1821-Greek_War_of_Independence+1829]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Greek_War_of_Independence,182062]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Greek_War_of_Independence,182062|WD~Greek_War_of_Independence,182062]] 
 
 ## #has_/text_of_/abstract 
 

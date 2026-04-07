@@ -127,7 +127,7 @@ dv_has_:
 # [[Unbearable_Lightness_of_Being]] 
 
 #has_/time_/started :: 1968-06-01 
-#is_/same_as :: [[_Standards/WikiData/WD~Unbearable_Lightness_of_Being,917055]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Unbearable_Lightness_of_Being,917055|WD~Unbearable_Lightness_of_Being,917055]] 
 
 ## #has_/text_of_/abstract  
 

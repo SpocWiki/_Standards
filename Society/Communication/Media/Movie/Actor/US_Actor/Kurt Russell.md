@@ -6,7 +6,7 @@ aliases:
 
 # [[Kurt Russell]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kurt_Russell,]]
+#is_/same_as :: [[_Standards/WikiData/WD~Kurt_Russell,|WD~Kurt_Russell,]]
 
 ## #has_/text_of_/abstract 
 

@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Geostationary_Orbit]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Geostationary_orbit,192316]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Geostationary_orbit,192316|WD~Geostationary_orbit,192316]] 
 ## #has_/text_of_/abstract 
 
 > A geostationary orbit, also referred to as a geosynchronous equatorial orbit (GEO), is a circular geosynchronous orbit 35,786 km (22,236 mi) in altitude above Earth's equator, 42,164 km (26,199 mi) in radius from Earth's center, and following the direction of Earth's rotation.

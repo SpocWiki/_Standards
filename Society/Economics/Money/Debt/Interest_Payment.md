@@ -188,7 +188,7 @@ dv_has_:
 
 # [[Interest_Payment]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Interest,170924]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Interest,170924|WD~Interest,170924]] 
 
 ## #has_/text_of_/abstract 
 

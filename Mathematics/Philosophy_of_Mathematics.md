@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Philosophy_of_Mathematics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Philosophy_of_mathematics,180536]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Philosophy_of_mathematics,180536|WD~Philosophy_of_mathematics,180536]]  
 
 ## #has_/text_of_/abstract 
 

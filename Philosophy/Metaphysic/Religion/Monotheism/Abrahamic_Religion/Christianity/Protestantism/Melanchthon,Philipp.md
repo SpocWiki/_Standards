@@ -242,7 +242,7 @@ dv_has_:
 
 # [[Melanchthon,Philipp]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Philipp_Melanchthon,76325]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Philipp_Melanchthon,76325|WD~Philipp_Melanchthon,76325]] 
 
 ## #has_/text_of_/abstract 
 

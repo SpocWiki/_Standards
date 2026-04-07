@@ -299,7 +299,7 @@ dv_has_:
 
 # [[Birth]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Parturition,34581]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parturition,34581|WD~Parturition,34581]] 
 
 ## #has_/text_of_/abstract 
 

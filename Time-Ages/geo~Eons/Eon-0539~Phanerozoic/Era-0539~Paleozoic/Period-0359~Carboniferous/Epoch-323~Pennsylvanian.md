@@ -115,7 +115,7 @@ dv_has_:
     stopped: -298.9e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Pennsylvanian,373772]]'
+  - '[[_Standards/WikiData/WD~Pennsylvanian,373772|WD~Pennsylvanian,373772]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian|Epoch-323~Pennsylvanian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.public|Epoch-323~Pennsylvanian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.internal|Epoch-323~Pennsylvanian.internal]]'
@@ -127,7 +127,7 @@ dv_has_duration_years: 2.430e+7
 dv_has_previous_item: '[[Epoch-323~Pennsylvanian/Age~2~Moscovian|Age~2~Moscovian]]'
 dv_has_next_item: '[[../../Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Pennsylvanian,373772]]'
+- '[[_Standards/WikiData/WD~Pennsylvanian,373772|WD~Pennsylvanian,373772]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian|Epoch-323~Pennsylvanian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.public|Epoch-323~Pennsylvanian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.internal|Epoch-323~Pennsylvanian.internal]]'
@@ -169,7 +169,7 @@ dv_has_text_of_color: 0x7EBCC6
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Pennsylvanian,373772]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pennsylvanian,373772|WD~Pennsylvanian,373772]] 
 
 A time period from 323.2 to 298.9 million years ago. 
 

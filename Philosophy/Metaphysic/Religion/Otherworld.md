@@ -5,7 +5,7 @@ has_id_wikidata: Q16354816
 
 # [[Otherworld]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Otherworld,16354816]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Otherworld,16354816|WD~Otherworld,16354816]] 
 
 ## #has_/text_of_/abstract 
 

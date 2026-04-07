@@ -149,7 +149,7 @@ dv_has_:
 
 #is_/similar_to :: [[Plateau]] 
 #is_/similar_to :: [[Guyot|Guyot]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Mesa,623319]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mesa,623319|WD~Mesa,623319]] 
 
 ## #has_/text_of_/abstract 
 

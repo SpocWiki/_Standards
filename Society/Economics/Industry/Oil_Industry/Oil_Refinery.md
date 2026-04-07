@@ -153,7 +153,7 @@ dv_has_:
 
 # [[Oil_Refinery]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oil_refinery,12353044]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oil_refinery,12353044|WD~Oil_refinery,12353044]] 
 
 ## #has_/text_of_/abstract 
 

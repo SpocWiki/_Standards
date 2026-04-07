@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Maglev_Train]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Maglev_train,160047]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Maglev_train,160047|WD~Maglev_train,160047]] 
 
 ## #has_/text_of_/abstract 
 

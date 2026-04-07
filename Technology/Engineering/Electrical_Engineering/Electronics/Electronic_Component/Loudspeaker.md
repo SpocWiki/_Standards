@@ -248,7 +248,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Loudspeaker,570]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Loudspeaker,570|WD~Loudspeaker,570]] 
 
 ## #has_/text_of_/abstract 
 

@@ -205,7 +205,7 @@ dv_has_:
 
 # [[Parmenides]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Parmenides,125551]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parmenides,125551|WD~Parmenides,125551]] 
 
 ## #has_/text_of_/abstract 
 

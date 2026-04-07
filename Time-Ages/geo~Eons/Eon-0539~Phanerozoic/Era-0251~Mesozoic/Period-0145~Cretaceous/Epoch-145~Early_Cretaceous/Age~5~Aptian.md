@@ -102,7 +102,7 @@ dv_has_:
     stopped: -113.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Aptian,622265]]'
+  - '[[_Standards/WikiData/WD~Aptian,622265|WD~Aptian,622265]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian|Age~5~Aptian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.public|Age~5~Aptian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.internal|Age~5~Aptian.internal]]'
@@ -114,7 +114,7 @@ dv_has_duration_years: 8.400e+6
 dv_has_previous_item: '[[Age~4~Barremian]]'
 dv_has_next_item: '[[Age~6~Albian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Aptian,622265]]'
+- '[[_Standards/WikiData/WD~Aptian,622265|WD~Aptian,622265]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian|Age~5~Aptian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.public|Age~5~Aptian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.internal|Age~5~Aptian.internal]]'
@@ -156,7 +156,7 @@ dv_has_text_of_color: 0xBFE48A
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Aptian,622265]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Aptian,622265|WD~Aptian,622265]] 
 
 A time period from 121.4 to 113.0 million years ago. 
 

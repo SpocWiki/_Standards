@@ -65,7 +65,7 @@ dv_has_:
 
 # [[Formal_Fallacy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Formal_Fallacy,962165]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Formal_Fallacy,962165|WD~Formal_Fallacy,962165]] 
 
 ## #has_/text_of_/abstract 
 

@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Herbicide]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Herbicide,178266]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Herbicide,178266|WD~Herbicide,178266]] 
 
 ## #has_/text_of_/abstract 
 

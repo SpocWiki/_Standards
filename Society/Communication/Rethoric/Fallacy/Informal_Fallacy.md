@@ -88,7 +88,7 @@ dv_has_:
 
 # [[Informal_Fallacy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Informal_Fallacy,3312438]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Informal_Fallacy,3312438|WD~Informal_Fallacy,3312438]] 
  
 ## #has_/text_of_/abstract 
 

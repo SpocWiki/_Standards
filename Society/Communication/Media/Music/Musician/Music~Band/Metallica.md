@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Metallica]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Metallica,15920]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Metallica,15920|WD~Metallica,15920]] 
 
 ## #has_/text_of_/abstract 
 

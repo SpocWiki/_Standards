@@ -154,7 +154,7 @@ dv_has_:
 
 # [[Operetta]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Operetta,170384]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Operetta,170384|WD~Operetta,170384]] 
 
 ## #has_/text_of_/abstract 
 

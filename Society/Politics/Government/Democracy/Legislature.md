@@ -275,7 +275,7 @@ dv_has_:
 
 # [[Legislature]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Legislature,11204]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Legislature,11204|WD~Legislature,11204]] 
 
 ## #has_/text_of_/abstract 
 

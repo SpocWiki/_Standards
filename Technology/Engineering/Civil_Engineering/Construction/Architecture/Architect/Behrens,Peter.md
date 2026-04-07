@@ -209,7 +209,7 @@ dv_has_:
 
 # [[Behrens,Peter]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peter_Behrens,76726]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peter_Behrens,76726|WD~Peter_Behrens,76726]] 
 
 ## #has_/text_of_/abstract 
 

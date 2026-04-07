@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Magellanic_Clouds]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magellanic_Clouds,50028]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magellanic_Clouds,50028|WD~Magellanic_Clouds,50028]] 
 
 ## #has_/text_of_/abstract 
 

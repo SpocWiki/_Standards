@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Liberal_Arts_Education]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Liberal_arts_education,189329]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Liberal_arts_education,189329|WD~Liberal_arts_education,189329]] 
 
 ## #has_/text_of_/abstract 
 

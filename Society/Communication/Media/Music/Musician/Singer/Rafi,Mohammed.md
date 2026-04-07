@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Rafi,Mohammed]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mohammed_Rafi,156815]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mohammed_Rafi,156815|WD~Mohammed_Rafi,156815]] 
 
 ## #has_/text_of_/abstract 
 

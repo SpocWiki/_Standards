@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Oxidizing_Agent]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oxidizing_agent,187689]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oxidizing_agent,187689|WD~Oxidizing_agent,187689]] 
 
 ## #has_/text_of_/abstract 
 

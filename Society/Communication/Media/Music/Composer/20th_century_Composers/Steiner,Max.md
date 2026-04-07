@@ -131,7 +131,7 @@ dv_has_:
 
 # [[Steiner,Max]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Max_Steiner,350704]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Max_Steiner,350704|WD~Max_Steiner,350704]] 
 
 ## #has_/text_of_/abstract 
 

@@ -286,7 +286,7 @@ dv_has_created: '[[../Chemical_Element/Group-09-Cobalt/Meitnerium|Meitnerium]]'
 
 # [[Meitner,Lise]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lise_Meitner,56189]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lise_Meitner,56189|WD~Lise_Meitner,56189]] 
 has_created = `=this.dv_has_created` 
 
 ## #has_/text_of_/abstract 

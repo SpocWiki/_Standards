@@ -233,7 +233,7 @@ dv_has_:
 
 # [[Lobster]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nephropidae,1038113]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nephropidae,1038113|WD~Nephropidae,1038113]] 
 
 ## #has_/text_of_/abstract 
 

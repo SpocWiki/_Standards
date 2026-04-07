@@ -234,7 +234,7 @@ Unicode_character: 🔫
 
 # [[Pistol]] 🔫 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pistol,1907525]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pistol,1907525|WD~Pistol,1907525]] 
 
 ## #has_/text_of_/abstract 
 

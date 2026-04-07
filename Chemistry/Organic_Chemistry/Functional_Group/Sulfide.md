@@ -47,7 +47,7 @@ MeSH_tree_code:
 - D02.886.520
 Commons_category: Sulfides
 dv_is_:
-  same_as: '[[_Standards/WikiData/WD~Sulfide,221205]]'
+  same_as: '[[_Standards/WikiData/WD~Sulfide,221205|WD~Sulfide,221205]]'
 dv_has_:
   formula_:
     structural: R-S-R'
@@ -111,7 +111,7 @@ dv_has_:
     zh_hk: 硫化物
     zh_sg: 硫化物
     zh_tw: 硫化物
-dv_is_same_as: '[[_Standards/WikiData/WD~Sulfide,221205]]'
+dv_is_same_as: '[[_Standards/WikiData/WD~Sulfide,221205|WD~Sulfide,221205]]'
 dv_has_formula_structural: R-S-R'
 ---
 

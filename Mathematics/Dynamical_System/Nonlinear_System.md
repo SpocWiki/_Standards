@@ -106,7 +106,7 @@ dv_has_:
 
 # [[Nonlinear_System]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nonlinear_system,660848]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nonlinear_system,660848|WD~Nonlinear_system,660848]] 
 
 ## #has_/text_of_/abstract 
 

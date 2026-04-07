@@ -319,7 +319,7 @@ dv_has_:
 
 # [[Letter]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Letter,9788]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Letter,9788|WD~Letter,9788]] 
 
 ## #has_/text_of_/abstract 
 

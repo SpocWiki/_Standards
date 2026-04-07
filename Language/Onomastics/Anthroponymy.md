@@ -115,7 +115,7 @@ dv_has_:
 
 # [[Anthroponymy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Anthroponymy,1973833]]
+#is_/same_as :: [[_Standards/WikiData/WD~Anthroponymy,1973833|WD~Anthroponymy,1973833]]
 
 ## #has_/text_of_/abstract 
 

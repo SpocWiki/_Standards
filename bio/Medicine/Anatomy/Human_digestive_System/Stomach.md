@@ -370,7 +370,7 @@ dv_has_:
 
 # [[Stomach]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Stomach,1029907]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Stomach,1029907|WD~Stomach,1029907]] 
 
 ## #has_/text_of_/abstract 
 

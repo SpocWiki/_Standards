@@ -85,7 +85,7 @@ dv_has_:
 
 # [[Delphinoidea]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Delphinoidea,1139670]]
+#is_/same_as :: [[_Standards/WikiData/WD~Delphinoidea,1139670|WD~Delphinoidea,1139670]]
 
 ## #has_/text_of_/abstract 
 

@@ -82,7 +82,7 @@ dv_has_:
 
 # [[Wire(Messenger)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Wire,26934461]]
+#is_/same_as :: [[_Standards/WikiData/WD~Wire,26934461|WD~Wire,26934461]]
 
 ## #has_/text_of_/abstract 
 

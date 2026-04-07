@@ -186,7 +186,7 @@ Unicode_character: 🚄
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~High-speed_rail,211382]] 
+#is_/same_as :: [[_Standards/WikiData/WD~High-speed_rail,211382|WD~High-speed_rail,211382]] 
 
 ## #has_/text_of_/abstract 
 

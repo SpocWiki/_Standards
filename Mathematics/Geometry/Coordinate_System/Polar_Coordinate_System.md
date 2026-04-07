@@ -157,7 +157,7 @@ dv_has_:
 
 # [[Polar_Coordinate_System]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polar_coordinate_system,62494]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polar_coordinate_system,62494|WD~Polar_coordinate_system,62494]] 
 
 ## #has_/text_of_/abstract 
 

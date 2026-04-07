@@ -139,7 +139,7 @@ dv_has_:
 
 # [[Leontyne_Price]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Leontyne_Price,233718]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leontyne_Price,233718|WD~Leontyne_Price,233718]] 
 
 ## #has_/text_of_/abstract 
 

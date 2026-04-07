@@ -220,7 +220,7 @@ dv_has_:
 
 # [[Locomotive]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Locomotive,93301]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Locomotive,93301|WD~Locomotive,93301]] 
 
 ## #has_/text_of_/abstract 
 

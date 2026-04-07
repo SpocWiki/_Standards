@@ -137,7 +137,7 @@ dv_has_:
 
 # [[Plant_Cell]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Plant_cell,1056194]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plant_cell,1056194|WD~Plant_cell,1056194]] 
 
 ## #has_/text_of_/abstract 
 

@@ -250,7 +250,7 @@ dv_has_:
 
 # [[May,Brian]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Brian_May,15873]]
+#is_/same_as :: [[_Standards/WikiData/WD~Brian_May,15873|WD~Brian_May,15873]]
 
 > Sir Brian Harold May  (born 19 July 1947) is an English musician, songwriter, 
 > record producer, animal rights activist and astrophysicist. 

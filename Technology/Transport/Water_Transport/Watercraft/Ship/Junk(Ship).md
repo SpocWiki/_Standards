@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Junk(Ship)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Junk,205011]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Junk,205011|WD~Junk,205011]] 
 
 ## #has_/text_of_/abstract 
 

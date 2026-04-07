@@ -151,7 +151,7 @@ dv_has_:
 
 # [[Scheler,Max]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Max_Scheler,76521]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Max_Scheler,76521|WD~Max_Scheler,76521]] 
 
 ## #has_/text_of_/abstract 
 

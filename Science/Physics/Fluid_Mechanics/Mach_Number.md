@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Mach_Number]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mach_number,160669]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mach_number,160669|WD~Mach_number,160669]] 
 
 ## #has_/text_of_/abstract 
 

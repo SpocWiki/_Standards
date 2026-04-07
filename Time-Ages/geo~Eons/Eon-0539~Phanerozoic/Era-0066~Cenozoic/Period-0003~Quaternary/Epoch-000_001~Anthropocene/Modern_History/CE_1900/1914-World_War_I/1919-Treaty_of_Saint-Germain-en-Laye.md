@@ -154,7 +154,7 @@ dv_has_:
 
 # [[1919-Treaty_of_Saint-Germain-en-Laye]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Treaty_of_Saint-Germain-en-Laye,192924]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Treaty_of_Saint-Germain-en-Laye,192924|WD~Treaty_of_Saint-Germain-en-Laye,192924]] 
 
 ## #has_/text_of_/abstract 
 

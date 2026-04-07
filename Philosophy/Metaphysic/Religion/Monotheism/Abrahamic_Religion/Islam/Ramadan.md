@@ -306,7 +306,7 @@ dv_has_:
 
 # [[Ramadan]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ramadan,41662]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ramadan,41662|WD~Ramadan,41662]] 
 
 ## #has_/text_of_/abstract 
 

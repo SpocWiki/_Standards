@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Roots(1977)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Roots,1247168]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Roots,1247168|WD~Roots,1247168]] 
 
 ## #has_/text_of_/abstract 
 

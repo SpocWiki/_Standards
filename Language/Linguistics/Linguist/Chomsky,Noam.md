@@ -487,7 +487,7 @@ dv_has_:
 
 # [[Chomsky,Noam]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Noam_Chomsky,9049]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Noam_Chomsky,9049|WD~Noam_Chomsky,9049]] 
 
 ## #has_/text_of_/abstract 
 

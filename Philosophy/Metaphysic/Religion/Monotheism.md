@@ -280,7 +280,7 @@ dv_has_:
 # [[Monotheism]] 
 
 #has_/complement :: [[Polytheism]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Monotheism,9159]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Monotheism,9159|WD~Monotheism,9159]] 
 
 Monotheistic Religions were the most fanatic in history. 
 They caused many [[../../../Society/Military/Military_Operation/War|War]]s, forced Conversions and [[Pogrom]]s. 

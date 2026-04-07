@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Multiculturalism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Multiculturalism,190656]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Multiculturalism,190656|WD~Multiculturalism,190656]] 
 
 ## #has_/text_of_/abstract 
 

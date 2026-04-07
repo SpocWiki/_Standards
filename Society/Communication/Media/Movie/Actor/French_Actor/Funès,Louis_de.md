@@ -243,7 +243,7 @@ dv_has_:
 
 # [[Funès,Louis_de]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Louis_de_Funès,2737]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Louis_de_Funès,2737|WD~Louis_de_Funès,2737]]  
 
 ## #has_/text_of_/abstract 
 

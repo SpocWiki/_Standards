@@ -251,7 +251,7 @@ dv_has_:
 
 # [[Goebbels,Joseph]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Joseph_Goebbels,41749]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Joseph_Goebbels,41749|WD~Joseph_Goebbels,41749]] 
 
 ## #has_/text_of_/abstract 
 

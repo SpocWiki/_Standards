@@ -499,7 +499,7 @@ dv_has_:
 
 # [[Middle_East]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Middle_East,7204]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Middle_East,7204|WD~Middle_East,7204]] 
 
 ## #has_/map  
 

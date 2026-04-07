@@ -117,7 +117,7 @@ dv_has_:
 
 # [[Legal_Liability]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Legal_liability,1404417]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Legal_liability,1404417|WD~Legal_liability,1404417]] 
 
 ## #has_/text_of_/abstract 
 

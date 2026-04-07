@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Oedipus_Complex]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oedipus_complex,131246]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oedipus_complex,131246|WD~Oedipus_complex,131246]] 
 
 ## #has_/text_of_/abstract 
 

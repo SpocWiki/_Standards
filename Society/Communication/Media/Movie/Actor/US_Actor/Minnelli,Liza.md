@@ -254,7 +254,7 @@ dv_has_:
 
 #has_/parent :: [[../../Movie-Director/Minnelli,Vincente|Vincente Minnelli]] 
 #has_/parent :: [[../../../Music/Musician/Singer/Garland,Judy|Judy Garland]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Liza_Minnelli,14441]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Liza_Minnelli,14441|WD~Liza_Minnelli,14441]] 
 
 ## #has_/text_of_/abstract 
 

@@ -81,7 +81,7 @@ dv_has_:
 
 # [[Klezmer]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Klezmer,212944]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Klezmer,212944|WD~Klezmer,212944]] 
 
 ## #has_/text_of_/abstract 
 

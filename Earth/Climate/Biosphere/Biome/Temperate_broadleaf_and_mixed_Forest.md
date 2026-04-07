@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Temperate_broadleaf_and_mixed_Forest]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Temperate_broadleaf_and_mixed_forest,622896]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Temperate_broadleaf_and_mixed_forest,622896|WD~Temperate_broadleaf_and_mixed_forest,622896]] 
 
 ## #has_/text_of_/abstract 
 

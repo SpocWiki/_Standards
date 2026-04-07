@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Labor_Law]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Labor_law,628967]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Labor_law,628967|WD~Labor_law,628967]] 
 
 ## #has_/text_of_/abstract 
 

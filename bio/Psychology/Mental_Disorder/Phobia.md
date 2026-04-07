@@ -224,7 +224,7 @@ dv_has_:
 
 # [[Phobia]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Phobia,175854]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Phobia,175854|WD~Phobia,175854]] 
 
 ## #has_/text_of_/abstract 
 

@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Getty,J._Paul]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~J._Paul_Getty,318591]] 
+#is_/same_as :: [[_Standards/WikiData/WD~J._Paul_Getty,318591|WD~J._Paul_Getty,318591]] 
 
 ## #has_/text_of_/abstract 
 

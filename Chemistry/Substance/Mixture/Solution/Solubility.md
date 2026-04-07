@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Solubility]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Solubility,170731]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Solubility,170731|WD~Solubility,170731]] 
 
 ## #has_/text_of_/abstract 
 

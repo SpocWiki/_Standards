@@ -294,7 +294,7 @@ dv_has_:
 
 # [[Pronoun]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pronoun,36224]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pronoun,36224|WD~Pronoun,36224]] 
 
 ## #has_/text_of_/abstract 
 

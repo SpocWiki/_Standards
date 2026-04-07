@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Molecular_Cloud]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Molecular_cloud,272447]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Molecular_cloud,272447|WD~Molecular_cloud,272447]] 
 
 ## #has_/text_of_/abstract 
 

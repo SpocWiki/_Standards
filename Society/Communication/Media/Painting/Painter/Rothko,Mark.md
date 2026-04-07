@@ -241,7 +241,7 @@ dv_has_:
 
 # [[Rothko,Mark]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mark_Rothko,160149]]
+#is_/same_as :: [[_Standards/WikiData/WD~Mark_Rothko,160149|WD~Mark_Rothko,160149]]
 
 ## #has_/text_of_/abstract 
 

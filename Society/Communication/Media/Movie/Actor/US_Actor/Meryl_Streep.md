@@ -328,7 +328,7 @@ dv_has_:
 
 # [[Meryl_Streep]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Meryl_Streep,873]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Meryl_Streep,873|WD~Meryl_Streep,873]] 
 
 ## #has_/text_of_/abstract 
 

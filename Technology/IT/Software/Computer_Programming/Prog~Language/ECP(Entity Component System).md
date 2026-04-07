@@ -32,7 +32,7 @@ aliases:
 
 # [[ECP(Entity Component System)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Entity_component_system,]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Entity_component_system,|WD~Entity_component_system,]] 
 
 Entities have only an ID, but their Properties are split along orthogonal Dimensions, 
 and put into Aspect-Tables with the ID as primary Key. 

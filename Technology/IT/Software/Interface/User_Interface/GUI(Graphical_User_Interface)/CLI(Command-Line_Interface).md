@@ -142,7 +142,7 @@ aliases:
 # [[CLI(Command-Line_Interface)]] 
 
 #is_/alternative_to :: [[../GUI(Graphical_User_Interface)|GUI(Graphical_User_Interface)]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Command_Line_Interface]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Command_Line_Interface|WD~Command_Line_Interface]] 
 
 ## #has_/text_of_/abstract 
 

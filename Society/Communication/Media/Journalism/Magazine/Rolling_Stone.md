@@ -119,7 +119,7 @@ dv_has_:
 
 # [[Rolling_Stone]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rolling_Stone,33511]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rolling_Stone,33511|WD~Rolling_Stone,33511]] 
 
 ## #has_/text_of_/abstract 
 

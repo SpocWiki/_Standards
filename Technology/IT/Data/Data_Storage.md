@@ -181,8 +181,8 @@ dv_has_:
 
 # [[Data_Storage]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Recording_medium,193395]] 
-#is_/same_as :: [[_Standards/WikiData/WD~computer_storage_media,66221]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Recording_medium,193395|WD~Recording_medium,193395]] 
+#is_/same_as :: [[_Standards/WikiData/WD~computer_storage_media,66221|WD~computer_storage_media,66221]] 
 
 ## #has_/text_of_/abstract 
 

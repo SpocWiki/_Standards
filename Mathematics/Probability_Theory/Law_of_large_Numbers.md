@@ -141,7 +141,7 @@ dv_has_:
 
 # [[Law_of_large_Numbers]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Law_of_large_numbers,207952]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Law_of_large_numbers,207952|WD~Law_of_large_numbers,207952]] 
 
 ## #has_/text_of_/abstract 
 

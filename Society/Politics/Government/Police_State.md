@@ -115,7 +115,7 @@ dv_has_:
 
 # [[Police_State]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Police_state,217405]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Police_state,217405|WD~Police_state,217405]] 
 
 ## #has_/text_of_/abstract 
 

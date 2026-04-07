@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Hephaestus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hephaestus,44384]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hephaestus,44384|WD~Hephaestus,44384]] 
 
 ## #has_/text_of_/abstract 
 

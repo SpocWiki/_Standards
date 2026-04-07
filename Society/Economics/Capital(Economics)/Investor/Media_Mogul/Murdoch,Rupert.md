@@ -261,7 +261,7 @@ dv_has_:
 
 # [[Murdoch,Rupert]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rupert_Murdoch,53944]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rupert_Murdoch,53944|WD~Rupert_Murdoch,53944]] 
 
 ## #has_/text_of_/abstract 
 

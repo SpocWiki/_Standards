@@ -230,7 +230,7 @@ dv_has_:
 
 # [[Sound_of_Music(Film)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~The_Sound_of_Music,60072]] 
+#is_/same_as :: [[_Standards/WikiData/WD~The_Sound_of_Music,60072|WD~The_Sound_of_Music,60072]] 
 
 ## #has_/text_of_/abstract 
 

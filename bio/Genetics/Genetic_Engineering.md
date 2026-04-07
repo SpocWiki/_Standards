@@ -233,7 +233,7 @@ dv_has_:
 
 # [[Genetic_Engineering]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Genetic_engineering,159236]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Genetic_engineering,159236|WD~Genetic_engineering,159236]] 
 
 ## #has_/text_of_/abstract 
 

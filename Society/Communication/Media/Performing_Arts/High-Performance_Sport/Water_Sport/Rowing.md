@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Rowing]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rowing,159354]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rowing,159354|WD~Rowing,159354]] 
 
 ## #has_/text_of_/abstract 
 

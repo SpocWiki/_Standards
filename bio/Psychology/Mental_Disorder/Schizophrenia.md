@@ -389,7 +389,7 @@ dv_has_:
 
 # [[Schizophrenia]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Schizophrenia,41112]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Schizophrenia,41112|WD~Schizophrenia,41112]] 
 
 ## #has_/text_of_/abstract 
 

@@ -294,7 +294,7 @@ dv_has_:
 
 # [[Dumas,Alexandre]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Alexandre_Dumas,38337]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Alexandre_Dumas,38337|WD~Alexandre_Dumas,38337]] 
 
 ## #has_/text_of_/abstract 
 

@@ -151,7 +151,7 @@ dv_has_:
 
 # [[Mechatronics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mechatronics,180165]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mechatronics,180165|WD~Mechatronics,180165]] 
 
 ## #has_/text_of_/abstract 
 

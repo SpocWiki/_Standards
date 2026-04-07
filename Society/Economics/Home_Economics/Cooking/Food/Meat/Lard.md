@@ -147,7 +147,7 @@ dv_has_:
 
 # [[Lard]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lard,72827]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lard,72827|WD~Lard,72827]] 
 #is_/similar_to :: [[Tallow]] 
 
 ## #has_/text_of_/abstract 

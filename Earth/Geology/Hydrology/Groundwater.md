@@ -249,7 +249,7 @@ dv_has_:
 
 # [[Groundwater]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Groundwater,161598]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Groundwater,161598|WD~Groundwater,161598]] 
 ## #has_/text_of_/abstract 
 
 > **Groundwater** is the water present beneath Earth's surface in rock and soil pore spaces 

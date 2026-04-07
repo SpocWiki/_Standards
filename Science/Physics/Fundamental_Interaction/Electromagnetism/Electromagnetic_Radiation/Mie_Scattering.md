@@ -73,7 +73,7 @@ dv_has_:
 
 #is_/similar_to :: [[Raman_Scattering]] 
 #is_/similar_to :: [[Rayleigh_Scattering]]  
-#is_/same_as :: [[_Standards/WikiData/WD~Mie_Scattering,901737]]
+#is_/same_as :: [[_Standards/WikiData/WD~Mie_Scattering,901737|WD~Mie_Scattering,901737]]
 
 ## #has_/text_of_/abstract 
 

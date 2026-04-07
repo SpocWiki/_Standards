@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Long_Depression,1417847]]'
+  - '[[_Standards/WikiData/WD~Long_Depression,1417847|WD~Long_Depression,1417847]]'
   - '[[/_Standards/Earth/Continent/America~North/USA/US_President/Long_Depression|Long_Depression]]'
   - '[[/_public/Earth/Continent/America~North/USA/US_President/Long_Depression.public|Long_Depression.public]]'
   - '[[/_internal/Earth/Continent/America~North/USA/US_President/Long_Depression.internal|Long_Depression.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/America~North/USA/US_President/Long_Depression.personal|Long_Depression.personal]]'
   - '[[/_secret/Earth/Continent/America~North/USA/US_President/Long_Depression.secret|Long_Depression.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Long_Depression,1417847]]'
+- '[[_Standards/WikiData/WD~Long_Depression,1417847|WD~Long_Depression,1417847]]'
 - '[[/_Standards/Earth/Continent/America~North/USA/US_President/Long_Depression|Long_Depression]]'
 - '[[/_public/Earth/Continent/America~North/USA/US_President/Long_Depression.public|Long_Depression.public]]'
 - '[[/_internal/Earth/Continent/America~North/USA/US_President/Long_Depression.internal|Long_Depression.internal]]'
@@ -95,7 +95,7 @@ dv_has_:
 
 # [[Long_Depression]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Long_Depression,1417847]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Long_Depression,1417847|WD~Long_Depression,1417847]] 
 
 ## #has_/text_of_/abstract 
 

@@ -167,7 +167,7 @@ dv_has_:
 
 # [[Pupa]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pupa,170595]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pupa,170595|WD~Pupa,170595]] 
 
 ## #has_/text_of_/abstract 
 

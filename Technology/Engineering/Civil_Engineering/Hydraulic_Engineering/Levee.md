@@ -201,7 +201,7 @@ dv_has_:
 # [[Levee]] 
 
 #is_/different_from :: [[../Construction/Dam|Dam]]
-#is_/same_as :: [[_Standards/WikiData/WD~Levee,105190]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Levee,105190|WD~Levee,105190]] 
 
 ## #has_/text_of_/abstract 
 

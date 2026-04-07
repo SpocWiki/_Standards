@@ -103,7 +103,7 @@ dv_has_:
 
 # [[Impressionism_in_Music]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Impressionism_in_music,837182]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Impressionism_in_music,837182|WD~Impressionism_in_music,837182]] 
 
 ## #has_/text_of_/abstract 
 

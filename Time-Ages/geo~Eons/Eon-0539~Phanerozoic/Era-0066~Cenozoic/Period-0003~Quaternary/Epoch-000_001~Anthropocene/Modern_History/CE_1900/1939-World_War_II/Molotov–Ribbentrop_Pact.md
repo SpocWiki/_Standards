@@ -285,7 +285,7 @@ dv_has_:
 
 # [[Molotov–Ribbentrop_Pact]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Molotov–Ribbentrop_Pact,130796]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Molotov–Ribbentrop_Pact,130796|WD~Molotov–Ribbentrop_Pact,130796]] 
 
 ## #has_/text_of_/abstract 
 

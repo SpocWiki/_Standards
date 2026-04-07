@@ -157,7 +157,7 @@ dv_has_:
 
 # [[Frostbite]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Frostbite,1350326]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Frostbite,1350326|WD~Frostbite,1350326]] 
 
 ## #has_/text_of_/abstract 
 

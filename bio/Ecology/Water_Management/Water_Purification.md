@@ -130,7 +130,7 @@ dv_has_:
 
 # [[Water_Purification]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Water_purification,1463025]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Water_purification,1463025|WD~Water_purification,1463025]] 
 
 ## #has_/text_of_/abstract 
 

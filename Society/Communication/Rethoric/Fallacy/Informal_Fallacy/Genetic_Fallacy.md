@@ -67,7 +67,7 @@ dv_has_:
 
 # [[Genetic_Fallacy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Genetic_Fallacy,1202868]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Genetic_Fallacy,1202868|WD~Genetic_Fallacy,1202868]] 
 
 ## #has_/text_of_/abstract 
 

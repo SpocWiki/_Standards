@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Opium]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Opium,46452]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Opium,46452|WD~Opium,46452]] 
 
 ## #has_/text_of_/abstract 
 

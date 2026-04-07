@@ -249,7 +249,7 @@ dv_has_:
 
 # [[Television_Program]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Television_program,15416]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Television_program,15416|WD~Television_program,15416]] 
 
 ## #has_/text_of_/abstract 
 

@@ -236,7 +236,7 @@ dv_has_:
 
 # [[Mona_Lisa]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mona_Lisa,12418]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mona_Lisa,12418|WD~Mona_Lisa,12418]] 
 
 ## #has_/text_of_/abstract 
 

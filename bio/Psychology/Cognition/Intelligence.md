@@ -237,7 +237,7 @@ dv_has_:
 
 # [[Intelligence]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Intelligence,83500]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Intelligence,83500|WD~Intelligence,83500]] 
 
 ## #has_/text_of_/abstract 
 

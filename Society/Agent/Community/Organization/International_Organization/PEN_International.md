@@ -172,7 +172,7 @@ dv_has_:
 
 # [[PEN_International]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~PEN_International,206811]] 
+#is_/same_as :: [[_Standards/WikiData/WD~PEN_International,206811|WD~PEN_International,206811]] 
 
 ## #has_/text_of_/abstract 
 

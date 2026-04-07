@@ -164,7 +164,7 @@ dv_has_:
 
 # [[Vanilla]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Vanilla,13241]]
+#is_/same_as :: [[_Standards/WikiData/WD~Vanilla,13241|WD~Vanilla,13241]]
 
 ## #has_/text_of_/abstract 
 

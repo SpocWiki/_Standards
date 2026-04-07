@@ -193,7 +193,7 @@ dv_has_:
 
 # [[Dewey_Decimal_Classification]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Dewey_Decimal_Classification,48460]]
+#is_/same_as :: [[_Standards/WikiData/WD~Dewey_Decimal_Classification,48460|WD~Dewey_Decimal_Classification,48460]]
 
 ## Top-Level Classes 
 

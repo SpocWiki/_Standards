@@ -137,7 +137,7 @@ dv_has_:
 
 # [[Meristem]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Meristem,207604]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Meristem,207604|WD~Meristem,207604]] 
 
 ## #has_/text_of_/abstract 
 

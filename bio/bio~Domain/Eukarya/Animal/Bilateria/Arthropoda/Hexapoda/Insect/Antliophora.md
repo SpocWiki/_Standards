@@ -105,7 +105,7 @@ dv_has_:
 
 # [[Antliophora]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Antliophora,21354350]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Antliophora,21354350|WD~Antliophora,21354350]] 
 
 ## #has_/text_of_/abstract 
 

@@ -107,7 +107,7 @@ dv_has_:
 
 # [[Petrochemical_Product]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Petrochemical_product,1364904]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Petrochemical_product,1364904|WD~Petrochemical_product,1364904]] 
 
 ## #has_/text_of_/abstract 
 

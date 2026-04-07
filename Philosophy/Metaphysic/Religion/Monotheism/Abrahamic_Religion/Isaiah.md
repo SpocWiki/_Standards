@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Isaiah]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Isaiah,188794]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Isaiah,188794|WD~Isaiah,188794]] 
 
 ## #has_/text_of_/abstract 
 

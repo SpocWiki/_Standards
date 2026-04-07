@@ -221,7 +221,7 @@ dv_has_:
 
 # [[Sensory_nervous_System]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sensory_nervous_system,11101]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sensory_nervous_system,11101|WD~Sensory_nervous_system,11101]] 
 
 ## #has_/text_of_/abstract 
 

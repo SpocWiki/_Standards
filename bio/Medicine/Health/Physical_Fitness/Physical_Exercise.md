@@ -221,7 +221,7 @@ dv_has_:
 
 # [[Physical_Exercise]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Physical_exercise,219067]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Physical_exercise,219067|WD~Physical_exercise,219067]] 
 
 ## #has_/text_of_/abstract 
 

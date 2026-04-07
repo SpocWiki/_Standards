@@ -279,7 +279,7 @@ dv_has_:
 
 # [[Real_Number]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Real_number,12916]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Real_number,12916|WD~Real_number,12916]] 
 
 ## #has_/text_of_/abstract 
 

@@ -155,7 +155,7 @@ EC_number: 231-977-3
 Reaxys_registry_number: 3535004
 CAS_Registry_Number: 7783-06-4
 dv_is_:
-  same_as: '[[_Standards/WikiData/WD~hydrogen_sulphide,170591]]'
+  same_as: '[[_Standards/WikiData/WD~hydrogen_sulphide,170591|WD~hydrogen_sulphide,170591]]'
 dv_has_:
   formula_:
     structural: H-S-H
@@ -243,7 +243,7 @@ dv_has_:
     zh_hk: 硫化氫
     zh_sg: 硫化氢
     zh_tw: 硫化氫
-dv_is_same_as: '[[_Standards/WikiData/WD~hydrogen_sulphide,170591]]'
+dv_is_same_as: '[[_Standards/WikiData/WD~hydrogen_sulphide,170591|WD~hydrogen_sulphide,170591]]'
 dv_has_formula_structural: H-S-H
 ---
 

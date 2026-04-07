@@ -69,7 +69,7 @@ dv_has_:
 
 # [[Faulty_Generalization]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Faulty_Generalization,2890850]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Faulty_Generalization,2890850|WD~Faulty_Generalization,2890850]] 
 
 ## #has_/text_of_/abstract 
 

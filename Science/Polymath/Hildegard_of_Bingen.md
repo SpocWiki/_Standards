@@ -246,7 +246,7 @@ dv_has_:
 
 # [[Hildegard_of_Bingen]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hildegard_of_Bingen,70991]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hildegard_of_Bingen,70991|WD~Hildegard_of_Bingen,70991]] 
 
 ## #has_/text_of_/abstract 
 

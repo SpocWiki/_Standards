@@ -177,7 +177,7 @@ dv_has_:
 
 # [[VW(Volkswagen)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Volkswagen,246]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Volkswagen,246|WD~Volkswagen,246]] 
 
 ## #has_/text_of_/abstract 
 

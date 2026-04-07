@@ -268,7 +268,7 @@ dv_has_:
 
 # [[Leatherback_Sea_Turtle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Leatherback_sea_turtle,120043]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leatherback_sea_turtle,120043|WD~Leatherback_sea_turtle,120043]] 
 
 ## #has_/text_of_/abstract 
 

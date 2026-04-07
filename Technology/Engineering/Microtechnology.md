@@ -86,7 +86,7 @@ dv_has_:
 
 # [[Microtechnology]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Microtechnology,1484779]]
+#is_/same_as :: [[_Standards/WikiData/WD~Microtechnology,1484779|WD~Microtechnology,1484779]]
 
 ## #has_/text_of_/abstract 
 

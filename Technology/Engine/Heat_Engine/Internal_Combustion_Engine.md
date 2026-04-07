@@ -278,7 +278,7 @@ dv_has_:
 
 # [[Internal_Combustion_Engine]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Internal_combustion_engine,12757]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Internal_combustion_engine,12757|WD~Internal_combustion_engine,12757]] 
 
 
 ## #has_/text_of_/abstract 

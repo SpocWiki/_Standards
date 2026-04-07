@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Robbery]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Robbery,53706]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robbery,53706|WD~Robbery,53706]] 
 
 ## #has_/text_of_/abstract 
 

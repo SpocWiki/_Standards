@@ -288,7 +288,7 @@ dv_has_:
 
 # [[Winfrey,Oprah]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oprah_Winfrey,55800]]
+#is_/same_as :: [[_Standards/WikiData/WD~Oprah_Winfrey,55800|WD~Oprah_Winfrey,55800]]
 
 ## #has_/text_of_/abstract 
 

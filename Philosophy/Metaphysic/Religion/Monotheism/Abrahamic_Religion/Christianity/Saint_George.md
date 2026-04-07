@@ -274,7 +274,7 @@ dv_has_:
 
 # [[Saint_George]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Saint_George,48438]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Saint_George,48438|WD~Saint_George,48438]] 
 
 ## #has_/text_of_/abstract 
 

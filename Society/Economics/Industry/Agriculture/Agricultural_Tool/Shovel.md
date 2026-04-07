@@ -220,7 +220,7 @@ Unicode_character: 🪏
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Shovel,7220961]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Shovel,7220961|WD~Shovel,7220961]] 
 
 ## #has_/text_of_/abstract 
 

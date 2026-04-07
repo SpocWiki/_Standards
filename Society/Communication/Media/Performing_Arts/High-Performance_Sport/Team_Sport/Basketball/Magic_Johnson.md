@@ -235,7 +235,7 @@ dv_has_:
 
 # [[Magic_Johnson]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magic_Johnson,134183]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magic_Johnson,134183|WD~Magic_Johnson,134183]] 
 
 ## #has_/text_of_/abstract 
 

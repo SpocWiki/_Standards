@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Meadow]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Meadow,7777019]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Meadow,7777019|WD~Meadow,7777019]] 
 
 ## #has_/text_of_/abstract 
 

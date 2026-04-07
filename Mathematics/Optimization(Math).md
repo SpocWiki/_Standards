@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Optimization(Math)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mathematical_optimization,141495]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mathematical_optimization,141495|WD~Mathematical_optimization,141495]] 
 
 ## #has_/text_of_/abstract 
 

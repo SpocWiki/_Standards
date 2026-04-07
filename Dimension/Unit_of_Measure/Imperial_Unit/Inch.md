@@ -270,7 +270,7 @@ dv_has_:
 # [[Inch]] ㏌ 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Inch,218593]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Inch,218593|WD~Inch,218593]] 
 
 ## #has_/text_of_/abstract 
 

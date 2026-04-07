@@ -126,7 +126,7 @@ dv_has_:
 
 # [[Leviathan(Hobbes)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Leviathan,193034]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leviathan,193034|WD~Leviathan,193034]] 
 
 ## #has_/text_of_/abstract 
 

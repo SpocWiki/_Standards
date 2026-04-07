@@ -224,7 +224,7 @@ dv_has_:
 
 # [[IBRD(International_Bank_for_Reconstruction_and_Development)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]] 
 
 ## #has_/text_of_/abstract 
 

@@ -334,7 +334,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mouse,7987]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mouse,7987|WD~Mouse,7987]] 
 
 ## #has_/text_of_/abstract 
 

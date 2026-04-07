@@ -191,7 +191,7 @@ dv_has_:
 
 # [[1968-Prague_Spring]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Prague_Spring,162401]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Prague_Spring,162401|WD~Prague_Spring,162401]] 
 
 ## #has_/text_of_/abstract 
 

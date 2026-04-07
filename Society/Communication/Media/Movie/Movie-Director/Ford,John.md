@@ -209,7 +209,7 @@ dv_has_:
 
 # [[Ford,John]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Ford,51114]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Ford,51114|WD~John_Ford,51114]] 
 
 ## #has_/text_of_/abstract 
 

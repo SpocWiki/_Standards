@@ -182,7 +182,7 @@ dv_has_:
 # [[Monism]] 
 
 #has_/next_/item ::  [[Dualism]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Monism,178801]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Monism,178801|WD~Monism,178801]] 
 
 ## #has_/text_of_/abstract 
 

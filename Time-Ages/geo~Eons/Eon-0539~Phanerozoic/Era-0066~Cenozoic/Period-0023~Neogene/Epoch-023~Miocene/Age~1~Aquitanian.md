@@ -99,7 +99,7 @@ dv_has_:
     stopped: -20.44e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Aquitanian,508479]]'
+  - '[[_Standards/WikiData/WD~Aquitanian,508479|WD~Aquitanian,508479]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian|Age~1~Aquitanian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian.public|Age~1~Aquitanian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian.internal|Age~1~Aquitanian.internal]]'
@@ -111,7 +111,7 @@ dv_has_duration_years: 2.590e+6
 dv_has_previous_item: '[[../../Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian|Age~2~Chattian]]'
 dv_has_next_item: '[[Age~2~Burdigalian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Aquitanian,508479]]'
+- '[[_Standards/WikiData/WD~Aquitanian,508479|WD~Aquitanian,508479]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian|Age~1~Aquitanian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian.public|Age~1~Aquitanian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian.internal|Age~1~Aquitanian.internal]]'
@@ -155,7 +155,7 @@ A time period from 23.03 to 20.44 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Aquitanian,508479]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Aquitanian,508479|WD~Aquitanian,508479]] 
 
 ## #has_/text_of_/abstract 
 

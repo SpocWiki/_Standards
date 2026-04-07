@@ -167,7 +167,7 @@ dv_has_:
 # [[Campaign(Military)]] 
 
 #is_/part_of_ :: [[../War|War]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Military_campaign,831663]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_campaign,831663|WD~Military_campaign,831663]] 
 
 ## #has_/text_of_/abstract 
 

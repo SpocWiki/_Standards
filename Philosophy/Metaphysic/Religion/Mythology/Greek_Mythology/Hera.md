@@ -219,7 +219,7 @@ dv_has_:
 # [[Hera]] 
 
 #is_/similar_to :: [[../Roman_Mythology/Juno|Juno]]  
-#is_/same_as :: [[_Standards/WikiData/WD~Hera,38012]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hera,38012|WD~Hera,38012]] 
 
 ## #has_/text_of_/abstract 
 

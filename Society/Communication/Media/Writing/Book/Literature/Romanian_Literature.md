@@ -93,7 +93,7 @@ dv_has_:
 
 # [[Romanian_Literature]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Romanian_literature,2077256]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Romanian_literature,2077256|WD~Romanian_literature,2077256]] 
 
 ## #has_/text_of_/abstract 
 

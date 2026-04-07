@@ -242,7 +242,7 @@ dv_has_:
 
 # [[Bogart,Humphrey]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Humphrey_Bogart,16390]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Humphrey_Bogart,16390|WD~Humphrey_Bogart,16390]] 
 
 ## #has_/text_of_/abstract 
 

@@ -228,7 +228,7 @@ dv_has_:
 
 # [[Les_Misérables]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Les_Misérables,180736]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Les_Misérables,180736|WD~Les_Misérables,180736]] 
 
 ## #has_/text_of_/abstract 
 

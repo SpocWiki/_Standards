@@ -258,7 +258,7 @@ dv_has_:
 #has_/logo ::[[../../../../../../../../assets/Pictures/Companies/General_Electric_logo.svg|General_Electric_logo.svg]]]![[../../../../../../../../assets/Pictures/Companies/General_Electric_logo.svg|200]]]
 Their Logo inspired the Logo of the [[../../../media/music/Music~Album/ELO(Electric_Light_Orchestra)|ELO(Electric_Light_Orchestra)]] by [[Lynne,Jeff]]. 
 
-#is_/same_as :: [[_Standards/WikiData/WD~General_Electric,54173]] 
+#is_/same_as :: [[_Standards/WikiData/WD~General_Electric,54173|WD~General_Electric,54173]] 
 
 ## #has_/text_of_/abstract 
 

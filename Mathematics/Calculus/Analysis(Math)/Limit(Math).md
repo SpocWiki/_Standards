@@ -183,7 +183,7 @@ dv_has_:
 
 # [[Limit(Math)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Limit,177239]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Limit,177239|WD~Limit,177239]] 
 
 ## #has_/text_of_/abstract 
 

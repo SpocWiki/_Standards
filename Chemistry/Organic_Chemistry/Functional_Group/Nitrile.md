@@ -49,8 +49,8 @@ UMLS_CUI: C0028131
 MeSH_tree_code: D02.626
 Commons_category: Nitriles
 dv_is_:
-  same_as: '[[_Standards/WikiData/WD~Nitrile,333936]]'
-dv_is_same_as: '[[_Standards/WikiData/WD~Nitrile,333936]]'
+  same_as: '[[_Standards/WikiData/WD~Nitrile,333936|WD~Nitrile,333936]]'
+dv_is_same_as: '[[_Standards/WikiData/WD~Nitrile,333936|WD~Nitrile,333936]]'
 dv_has_:
   name_:
     af: Nitriel

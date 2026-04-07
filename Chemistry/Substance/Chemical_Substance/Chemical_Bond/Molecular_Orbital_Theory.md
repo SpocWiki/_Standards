@@ -117,7 +117,7 @@ dv_has_:
 
 # [[Molecular_Orbital_Theory]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Molecular_orbital_theory,898432]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Molecular_orbital_theory,898432|WD~Molecular_orbital_theory,898432]] 
 
 ## #has_/text_of_/abstract 
 

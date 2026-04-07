@@ -124,7 +124,7 @@ dv_has_:
 
 #has_/complement :: [[Universalism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Relativism,83188]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Relativism,83188|WD~Relativism,83188]] 
 
 ## #has_/text_of_/abstract 
 

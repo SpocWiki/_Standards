@@ -242,7 +242,7 @@ Unicode_character: 🧜
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mermaid,182559]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mermaid,182559|WD~Mermaid,182559]] 
 
 ## #has_/text_of_/abstract 
 

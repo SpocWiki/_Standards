@@ -218,7 +218,7 @@ dv_has_:
     stopped: -358.9e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Late_Devonian,65955]]'
+  - '[[_Standards/WikiData/WD~Late_Devonian,65955|WD~Late_Devonian,65955]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian|Epoch-382~Late_Devonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.public|Epoch-382~Late_Devonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.internal|Epoch-382~Late_Devonian.internal]]'
@@ -230,7 +230,7 @@ dv_has_duration_years: 2.380e+7
 dv_has_previous_item: '[[Epoch-393~Middle_Devonian]]'
 dv_has_next_item: '[[../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Late_Devonian,65955]]'
+- '[[_Standards/WikiData/WD~Late_Devonian,65955|WD~Late_Devonian,65955]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian|Epoch-382~Late_Devonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.public|Epoch-382~Late_Devonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.internal|Epoch-382~Late_Devonian.internal]]'
@@ -268,7 +268,7 @@ dv_has_text_of_color: 0xF1E19D
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Late_Devonian,65955]]
+#is_/same_as :: [[_Standards/WikiData/WD~Late_Devonian,65955|WD~Late_Devonian,65955]]
 
 A time period from 382.7 to 358.9 million years ago. 
 

@@ -44,7 +44,7 @@ SMARTS_notation: '[$([6]);!$([6][OX2H1])][6]([OX2H1])[6]([OX2H1])[$([6]);!$([6][
 Commons_category: Diols
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Diol,421916]]'
+  - '[[_Standards/WikiData/WD~Diol,421916|WD~Diol,421916]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol|Diol]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol.public|Diol.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol.internal|Diol.internal]]'
@@ -53,7 +53,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol.personal|Diol.personal]]'
   - '[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol.secret|Diol.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Diol,421916]]'
+- '[[_Standards/WikiData/WD~Diol,421916|WD~Diol,421916]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol|Diol]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol.public|Diol.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol.internal|Diol.internal]]'
@@ -116,7 +116,7 @@ dv_has_:
 
 # [[Diol]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Diol,421916]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Diol,421916|WD~Diol,421916]] 
 
 ## #has_/text_of_/abstract 
 

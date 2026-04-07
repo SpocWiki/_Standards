@@ -89,7 +89,7 @@ dv_has_:
     stopped: -208.5e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Norian,1080207]]'
+  - '[[_Standards/WikiData/WD~Norian,1080207|WD~Norian,1080207]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian|Age~2~Norian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.public|Age~2~Norian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.internal|Age~2~Norian.internal]]'
@@ -101,7 +101,7 @@ dv_has_duration_years: 1.850e+7
 dv_has_previous_item: '[[Age~1~Carnian]]'
 dv_has_next_item: '[[Age~3~Rhaetian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Norian,1080207]]'
+- '[[_Standards/WikiData/WD~Norian,1080207|WD~Norian,1080207]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian|Age~2~Norian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.public|Age~2~Norian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.internal|Age~2~Norian.internal]]'
@@ -143,7 +143,7 @@ dv_has_text_of_color: 0xD6AAD3
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Norian,1080207]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Norian,1080207|WD~Norian,1080207]] 
 
 A time period from 227 to 208.5 million years ago. 
 

@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Steven_Chu]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Steven_Chu,172466]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Steven_Chu,172466|WD~Steven_Chu,172466]] 
 
 ## #has_/text_of_/abstract 
 

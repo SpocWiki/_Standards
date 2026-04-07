@@ -165,7 +165,7 @@ dv_has_:
 
 # [[NFL(National_Football_League)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~National_Football_League,1215884]] 
+#is_/same_as :: [[_Standards/WikiData/WD~National_Football_League,1215884|WD~National_Football_League,1215884]] 
 
 ## #has_/text_of_/abstract 
 

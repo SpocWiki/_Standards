@@ -240,7 +240,7 @@ dv_has_:
 
 # [[Melville,Herman]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Herman_Melville,4985]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Herman_Melville,4985|WD~Herman_Melville,4985]] 
 
 ## #has_/text_of_/abstract 
 

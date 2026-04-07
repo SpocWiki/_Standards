@@ -92,7 +92,7 @@ dv_has_:
     stopped: -254.14e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Wuchiapingian,591906]]'
+  - '[[_Standards/WikiData/WD~Wuchiapingian,591906|WD~Wuchiapingian,591906]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.public|Age~1~Wuchiapingian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.internal|Age~1~Wuchiapingian.internal]]'
@@ -104,7 +104,7 @@ dv_has_duration_years: 5.370e+6
 dv_has_previous_item: '[[../Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]]'
 dv_has_next_item: '[[Age~2~Changhsingian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Wuchiapingian,591906]]'
+- '[[_Standards/WikiData/WD~Wuchiapingian,591906|WD~Wuchiapingian,591906]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.public|Age~1~Wuchiapingian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.internal|Age~1~Wuchiapingian.internal]]'
@@ -146,7 +146,7 @@ dv_has_text_of_color: 0xFCB4A2
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Wuchiapingian,591906]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Wuchiapingian,591906|WD~Wuchiapingian,591906]] 
 
 A time period from 259.51 to 254.14 million years ago. 
 

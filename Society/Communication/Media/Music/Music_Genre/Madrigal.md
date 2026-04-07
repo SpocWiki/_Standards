@@ -105,7 +105,7 @@ dv_has_:
 
 # [[Madrigal]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Madrigal,193217]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Madrigal,193217|WD~Madrigal,193217]] 
 
 ## #has_/text_of_/abstract 
 

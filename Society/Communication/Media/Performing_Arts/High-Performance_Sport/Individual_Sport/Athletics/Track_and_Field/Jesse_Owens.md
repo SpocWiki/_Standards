@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Jesse_Owens]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jesse_Owens,52651]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jesse_Owens,52651|WD~Jesse_Owens,52651]] 
 
 ## #has_/text_of_/abstract 
 

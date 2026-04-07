@@ -209,7 +209,7 @@ dv_has_:
 
 # [[Lieutenant]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lieutenant,186024]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lieutenant,186024|WD~Lieutenant,186024]] 
 
 ## #has_/text_of_/abstract 
 

@@ -188,7 +188,7 @@ dv_has_:
 
 # [[Scotia_Sea]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scotia_Sea,204703]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scotia_Sea,204703|WD~Scotia_Sea,204703]] 
 
 ## #has_/text_of_/abstract 
 

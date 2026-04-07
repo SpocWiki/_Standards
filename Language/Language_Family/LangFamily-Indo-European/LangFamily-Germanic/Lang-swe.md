@@ -548,7 +548,7 @@ dv_has_:
 
 # [[Lang-swe]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Swedish,9027]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Swedish,9027|WD~Swedish,9027]] 
 
 ## #has_/text_of_/abstract 
 

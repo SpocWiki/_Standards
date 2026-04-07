@@ -171,7 +171,7 @@ dv_has_:
 
 # [[Parabola]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Parabola,48297]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Parabola,48297|WD~Parabola,48297]] 
 
 ## #has_/text_of_/abstract 
 

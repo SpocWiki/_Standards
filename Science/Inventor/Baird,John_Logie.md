@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Baird,John_Logie]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Logie_Baird,133544]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Logie_Baird,133544|WD~John_Logie_Baird,133544]] 
 
 ## #has_/text_of_/abstract 
 

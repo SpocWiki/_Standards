@@ -3570,7 +3570,7 @@ dv_has_:
 
 # [[YouTube]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~YouTube,866]] 
+#is_/same_as :: [[_Standards/WikiData/WD~YouTube,866|WD~YouTube,866]] 
 
 ## #has_/text_of_/abstract 
 

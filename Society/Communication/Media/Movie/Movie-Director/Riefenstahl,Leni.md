@@ -296,7 +296,7 @@ dv_has_:
 
 # [[Riefenstahl,Leni]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Leni_Riefenstahl,55415]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leni_Riefenstahl,55415|WD~Leni_Riefenstahl,55415]] 
 ## #has_/text_of_/abstract 
 
 > Helene Bertha Amalie "Leni" Riefenstahl (German: [ˈleːniː ˈʁiːfn̩ʃtaːl] ; 22 August 1902 – 8 September 2003) was a German filmmaker, photographer, and actress. She is considered one of the most controversial personalities in film history. Regarded by many critics as an "innovative filmmaker and creative aesthete", she is also criticized for her works in the service of propaganda during the Nazi era.

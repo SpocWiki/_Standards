@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Scabies]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scabies,167178]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scabies,167178|WD~Scabies,167178]] 
 
 ## #has_/text_of_/abstract 
 

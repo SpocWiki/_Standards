@@ -484,7 +484,7 @@ Unicode_character: 🐆
 
 # [[Leopard]] 🐆 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Leopard,34706]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leopard,34706|WD~Leopard,34706]] 
 
 ## #has_/text_of_/abstract 
 

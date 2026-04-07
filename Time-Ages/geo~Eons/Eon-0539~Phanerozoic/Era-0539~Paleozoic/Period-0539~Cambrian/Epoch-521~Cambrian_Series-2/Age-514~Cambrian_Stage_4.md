@@ -100,7 +100,7 @@ dv_has_:
     stopped: -509000000
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Cambrian-Stage-4,5025308]]'
+  - '[[_Standards/WikiData/WD~Cambrian-Stage-4,5025308|WD~Cambrian-Stage-4,5025308]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4|Age-514~Cambrian_Stage_4]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.public|Age-514~Cambrian_Stage_4.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.internal|Age-514~Cambrian_Stage_4.internal]]'
@@ -112,7 +112,7 @@ dv_has_duration_years: 5.000e+6
 dv_has_previous_item: '[[Age-521~Cambrian_Stage_3]]'
 dv_has_next_item: '[[../Epoch-509~Miaolingian/Age-509~Wuliuan|Age-509~Wuliuan]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Cambrian-Stage-4,5025308]]'
+- '[[_Standards/WikiData/WD~Cambrian-Stage-4,5025308|WD~Cambrian-Stage-4,5025308]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4|Age-514~Cambrian_Stage_4]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.public|Age-514~Cambrian_Stage_4.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.internal|Age-514~Cambrian_Stage_4.internal]]'
@@ -154,7 +154,7 @@ dv_has_text_of_color: 0xB3CA8E
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Cambrian-Stage-4,5025308]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Cambrian-Stage-4,5025308|WD~Cambrian-Stage-4,5025308]]  
 
 A time period from 514 to 509 million years ago. 
 

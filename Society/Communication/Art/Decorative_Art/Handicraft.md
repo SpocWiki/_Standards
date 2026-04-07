@@ -211,7 +211,7 @@ dv_has_:
 
 # [[Handicraft]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Handicraft,877729]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Handicraft,877729|WD~Handicraft,877729]] 
 
 ## #has_/text_of_/abstract 
 

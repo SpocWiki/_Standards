@@ -245,7 +245,7 @@ dv_has_:
 
 # [[Neutron_Star]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Neutron_star,4202]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Neutron_star,4202|WD~Neutron_star,4202]] 
 
 ## #has_/text_of_/abstract 
 

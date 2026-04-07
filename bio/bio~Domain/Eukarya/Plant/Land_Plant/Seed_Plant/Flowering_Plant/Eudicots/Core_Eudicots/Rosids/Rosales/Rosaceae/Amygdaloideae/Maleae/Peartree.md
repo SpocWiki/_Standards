@@ -344,7 +344,7 @@ Unicode_character: 🍐
 
 # [[Peartree]] 🍐 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pyrus,434]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pyrus,434|WD~Pyrus,434]] 
 
 ## #has_/text_of_/abstract 
 

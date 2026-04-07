@@ -205,7 +205,7 @@ dv_has_:
 
 # [[NBA(National_Basketball_Association)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~National_Basketball_Association,155223]] 
+#is_/same_as :: [[_Standards/WikiData/WD~National_Basketball_Association,155223|WD~National_Basketball_Association,155223]] 
 
 ## #has_/text_of_/abstract 
 

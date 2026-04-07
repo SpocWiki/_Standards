@@ -202,7 +202,7 @@ dv_has_:
 
 # [[Party]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Party,200538]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Party,200538|WD~Party,200538]] 
 
 ## #has_/text_of_/abstract 
 

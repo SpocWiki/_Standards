@@ -245,7 +245,7 @@ dv_has_:
 
 # [[Montaigne,Michel_de]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Michel_de_Montaigne,41568]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Michel_de_Montaigne,41568|WD~Michel_de_Montaigne,41568]] 
 
 ## #has_/text_of_/abstract 
 

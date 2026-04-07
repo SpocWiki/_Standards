@@ -130,7 +130,7 @@ dv_has_:
 
 # [[Lava_Dome]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lava_dome,534282]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lava_dome,534282|WD~Lava_dome,534282]] 
 
 ## #has_/text_of_/abstract 
 

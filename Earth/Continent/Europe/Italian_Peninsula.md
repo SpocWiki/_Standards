@@ -281,7 +281,7 @@ dv_has_:
 
 # [[Italian_Peninsula]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Italian_Peninsula,145694]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Italian_Peninsula,145694|WD~Italian_Peninsula,145694]] 
 
 ## #has_/map  
 

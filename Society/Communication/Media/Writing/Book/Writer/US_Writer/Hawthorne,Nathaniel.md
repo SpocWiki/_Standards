@@ -231,7 +231,7 @@ dv_has_:
 # [[Hawthorne,Nathaniel]] 
 
 #has_/created_  :: [[Hawthorne,Nathaniel/Scarlet_Letter|Scarlet_Letter]]  
-#is_/same_as :: [[_Standards/WikiData/WD~Nathaniel_Hawthorne,69339]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nathaniel_Hawthorne,69339|WD~Nathaniel_Hawthorne,69339]] 
 
 ## #has_/text_of_/abstract 
 

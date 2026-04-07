@@ -235,7 +235,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Makemake,604]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Makemake,604|WD~Makemake,604]] 
 
 ## #has_/text_of_/abstract 
 

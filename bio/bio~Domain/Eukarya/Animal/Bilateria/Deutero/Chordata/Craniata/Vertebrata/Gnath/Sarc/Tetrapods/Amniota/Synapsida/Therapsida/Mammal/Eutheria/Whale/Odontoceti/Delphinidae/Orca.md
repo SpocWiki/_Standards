@@ -329,7 +329,7 @@ Unicode_character: 🫍
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orca,26843]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orca,26843|WD~Orca,26843]] 
 
 ## #has_/text_of_/abstract 
 

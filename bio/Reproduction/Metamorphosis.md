@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Metamorphosis]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Metamorphosis,33753]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Metamorphosis,33753|WD~Metamorphosis,33753]] 
 
 ## #has_/text_of_/abstract 
 

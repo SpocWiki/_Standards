@@ -168,7 +168,7 @@ dv_has_:
 
 # [[Phenomenology]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Phenomenology,179235]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Phenomenology,179235|WD~Phenomenology,179235]] 
 
 ## #has_/text_of_/abstract 
 

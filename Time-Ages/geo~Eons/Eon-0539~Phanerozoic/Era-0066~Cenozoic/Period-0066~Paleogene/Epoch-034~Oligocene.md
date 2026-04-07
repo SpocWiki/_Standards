@@ -162,7 +162,7 @@ dv_has_:
     stopped: -23.03e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Oligocene,101873]]'
+  - '[[_Standards/WikiData/WD~Oligocene,101873|WD~Oligocene,101873]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene|Epoch-034~Oligocene]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene.public|Epoch-034~Oligocene.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene.internal|Epoch-034~Oligocene.internal]]'
@@ -174,7 +174,7 @@ dv_has_duration_years: 1.087e+7
 dv_has_previous_item: '[[Epoch-056~Eocene]]'
 dv_has_next_item: '[[../Period-0023~Neogene/Epoch-023~Miocene|Epoch~1~Miocene]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Oligocene,101873]]'
+- '[[_Standards/WikiData/WD~Oligocene,101873|WD~Oligocene,101873]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene|Epoch-034~Oligocene]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene.public|Epoch-034~Oligocene.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene.internal|Epoch-034~Oligocene.internal]]'
@@ -216,7 +216,7 @@ dv_has_text_of_color: 0xFEC07A
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Oligocene,101873]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oligocene,101873|WD~Oligocene,101873]] 
 
 A time period from 33.9 to 23.03 million years ago. 
 

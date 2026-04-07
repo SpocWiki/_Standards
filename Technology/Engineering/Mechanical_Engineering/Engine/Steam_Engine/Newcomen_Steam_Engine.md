@@ -76,7 +76,7 @@ dv_has_:
 
 # [[Newcomen_Steam_Engine]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Newcomen_Steam_Engine,2224989]]
+#is_/same_as :: [[_Standards/WikiData/WD~Newcomen_Steam_Engine,2224989|WD~Newcomen_Steam_Engine,2224989]]
 #has_/creator :: [[../../../../../Science/Inventor/Newcomen,Thomas|Newcomen,Thomas]] 
 
 ## #has_/text_of_/abstract 

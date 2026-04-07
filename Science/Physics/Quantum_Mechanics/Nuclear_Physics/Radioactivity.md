@@ -274,7 +274,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Radioactivity,11448]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Radioactivity,11448|WD~Radioactivity,11448]] 
 
 ## #has_/text_of_/abstract 
 

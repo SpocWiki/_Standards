@@ -295,7 +295,7 @@ dv_has_:
 
 # [[Born,Max]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Max_Born,58978]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Max_Born,58978|WD~Max_Born,58978]] 
 
 ## #has_/text_of_/abstract 
 

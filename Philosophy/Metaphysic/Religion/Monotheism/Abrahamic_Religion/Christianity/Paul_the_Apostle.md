@@ -472,7 +472,7 @@ dv_has_:
 
 # [[Paul_the_Apostle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paul_the_Apostle,9200]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paul_the_Apostle,9200|WD~Paul_the_Apostle,9200]] 
 
 ## #has_/text_of_/abstract 
 

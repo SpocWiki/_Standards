@@ -220,7 +220,7 @@ dv_has_:
 
 # [[Melanoma]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Melanoma,180614]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Melanoma,180614|WD~Melanoma,180614]] 
 
 ## #has_/text_of_/abstract 
 

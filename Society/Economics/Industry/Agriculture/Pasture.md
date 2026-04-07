@@ -218,7 +218,7 @@ dv_has_:
 
 # [[Pasture]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pasture,30121]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pasture,30121|WD~Pasture,30121]] 
 
 ## #has_/text_of_/abstract 
 

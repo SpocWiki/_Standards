@@ -137,7 +137,7 @@ dv_has_:
 
 # [[Almond]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Prunus_amygdalus,15545507]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Prunus_amygdalus,15545507|WD~Prunus_amygdalus,15545507]] 
 
 ## #has_/text_of_/abstract 
 

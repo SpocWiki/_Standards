@@ -985,7 +985,7 @@ SPLASH:
 - splash10-0fba-9200000000-23c995bf81d5ef609489
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Palmitic_Acid,209727]]'
+  - '[[_Standards/WikiData/WD~Palmitic_Acid,209727|WD~Palmitic_Acid,209727]]'
   - '[[Palmitic_Acid]]'
   - '[[/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.public|Palmitic_Acid.public]]'
   - '[[/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.internal|Palmitic_Acid.internal]]'
@@ -994,7 +994,7 @@ dv_is_:
   - '[[/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.personal|Palmitic_Acid.personal]]'
   - '[[/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.secret|Palmitic_Acid.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Palmitic_Acid,209727]]'
+- '[[_Standards/WikiData/WD~Palmitic_Acid,209727|WD~Palmitic_Acid,209727]]'
 - '[[Palmitic_Acid]]'
 - '[[/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.public|Palmitic_Acid.public]]'
 - '[[/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.internal|Palmitic_Acid.internal]]'
@@ -1080,7 +1080,7 @@ dv_has_formula_structural: CH3(CH2)14COOH
 # [[Palmitic_Acid]] 
 
  has_formula_structural = `= this.dv_has_formula_structural` 
-#is_/same_as :: [[_Standards/WikiData/WD~Palmitic_Acid,209727]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Palmitic_Acid,209727|WD~Palmitic_Acid,209727]]  
 
 ## #has_/text_of_/abstract  
 

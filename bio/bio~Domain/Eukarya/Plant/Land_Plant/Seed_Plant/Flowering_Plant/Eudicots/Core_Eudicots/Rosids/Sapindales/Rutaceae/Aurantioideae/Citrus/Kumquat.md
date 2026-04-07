@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Kumquat]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kumquat,5122903]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kumquat,5122903|WD~Kumquat,5122903]] 
 
 ## #has_/text_of_/abstract 
 

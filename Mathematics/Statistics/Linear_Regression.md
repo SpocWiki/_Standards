@@ -121,7 +121,7 @@ dv_has_:
 
 # [[Linear_Regression]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Linear_regression,10861030]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Linear_regression,10861030|WD~Linear_regression,10861030]] 
 
 ## #has_/text_of_/abstract 
 

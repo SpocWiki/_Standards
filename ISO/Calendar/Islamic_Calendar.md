@@ -300,7 +300,7 @@ dv_has_:
 
 # [[Islamic_Calendar]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Islamic_calendar,28892]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Islamic_calendar,28892|WD~Islamic_calendar,28892]] 
 
 ## #has_/text_of_/abstract 
 

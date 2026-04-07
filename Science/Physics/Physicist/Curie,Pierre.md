@@ -315,7 +315,7 @@ dv_has_:
 
 # [[Curie,Pierre]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pierre_Curie,37463]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pierre_Curie,37463|WD~Pierre_Curie,37463]] 
 
 ## #has_/text_of_/abstract 
 

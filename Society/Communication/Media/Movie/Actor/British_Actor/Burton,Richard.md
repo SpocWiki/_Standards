@@ -258,7 +258,7 @@ dv_has_:
 
 # [[Burton,Richard]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Richard_Burton,151973]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Richard_Burton,151973|WD~Richard_Burton,151973]] 
 
 ## #has_/text_of_/abstract 
 

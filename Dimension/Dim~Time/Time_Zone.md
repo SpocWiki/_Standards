@@ -419,7 +419,7 @@ dv_has_:
 
 # [[Time_Zone]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Time_zone,12143]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Time_zone,12143|WD~Time_zone,12143]] 
 
 ## #has_/text_of_/abstract 
 

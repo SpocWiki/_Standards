@@ -676,7 +676,7 @@ Unicode_character: 🦁
 
 # [[Lion]] 🦁 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lion,140]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lion,140|WD~Lion,140]] 
 
 ## #has_/text_of_/abstract 
 

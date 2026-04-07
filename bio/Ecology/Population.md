@@ -197,7 +197,7 @@ dv_has_:
 
 # [[Population]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Population,2625603]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Population,2625603|WD~Population,2625603]] 
 
 ## #has_/text_of_/abstract 
 

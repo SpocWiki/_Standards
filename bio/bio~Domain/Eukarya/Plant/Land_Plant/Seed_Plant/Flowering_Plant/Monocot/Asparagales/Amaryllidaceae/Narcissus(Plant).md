@@ -228,7 +228,7 @@ dv_has_:
 # [[Narcissus(Plant)]] 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Narcissus,29465]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Narcissus,29465|WD~Narcissus,29465]] 
 
 #is_/different_from :: [[../../../../../../../../../../Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Narcissus(Mythology)|Narcissus(Mythology)]] 
  

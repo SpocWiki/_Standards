@@ -214,7 +214,7 @@ dv_has_:
 # [[Heliocentrism]] 
 
 is_opposite_of = `=this.dv_is_opposite_of` 
-#is_/same_as :: [[_Standards/WikiData/WD~Heliocentrism,103983]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heliocentrism,103983|WD~Heliocentrism,103983]] 
 
 ## #has_/text_of_/abstract 
 

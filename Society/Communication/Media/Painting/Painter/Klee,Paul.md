@@ -343,7 +343,7 @@ dv_has_:
 
 # [[Klee,Paul]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paul_Klee,44007]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paul_Klee,44007|WD~Paul_Klee,44007]] 
 
 ## #has_/text_of_/abstract 
 

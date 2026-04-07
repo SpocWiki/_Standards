@@ -480,7 +480,7 @@ dv_has_:
 
 # [[Island]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Island,23442]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Island,23442|WD~Island,23442]] 
 
 ## #has_/text_of_/abstract 
 

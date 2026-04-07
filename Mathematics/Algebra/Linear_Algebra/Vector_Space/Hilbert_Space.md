@@ -163,7 +163,7 @@ dv_has_:
 A [[Hilbert_Space]] is a [[Banach_Space]] with an **inner product** ⟨⋅,⋅⟩ inducing the Norm 
 ∥x∥=⟨x,x⟩ 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hilbert_space,190056]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hilbert_space,190056|WD~Hilbert_space,190056]] 
 
 ## #has_/text_of_/abstract 
 

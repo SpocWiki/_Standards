@@ -343,7 +343,7 @@ dv_has_:
 
 # [[Sandro_Botticelli]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sandro_Botticelli,5669]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sandro_Botticelli,5669|WD~Sandro_Botticelli,5669]] 
 
 ## #has_/text_of_/abstract 
 

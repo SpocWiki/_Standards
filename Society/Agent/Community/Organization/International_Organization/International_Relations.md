@@ -271,7 +271,7 @@ dv_has_:
 
 # [[International_Relations]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_relations,166542]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_relations,166542|WD~International_relations,166542]] 
 
 ## #has_/text_of_/abstract 
 

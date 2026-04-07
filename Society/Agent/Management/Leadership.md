@@ -213,7 +213,7 @@ dv_has_:
 
 # [[Leadership]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Leadership,484275]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leadership,484275|WD~Leadership,484275]] 
 
 ## #has_/text_of_/abstract 
 

@@ -256,7 +256,7 @@ dv_has_:
 
 # [[Fichte,Johann_Gottlieb]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Johann_Gottlieb_Fichte,102585]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Johann_Gottlieb_Fichte,102585|WD~Johann_Gottlieb_Fichte,102585]] 
 
 ## #has_/text_of_/abstract 
 

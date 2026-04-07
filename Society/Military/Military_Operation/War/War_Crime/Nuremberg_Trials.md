@@ -241,7 +241,7 @@ dv_has_:
 
 # [[Nuremberg_Trials]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nuremberg_trials,80130]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nuremberg_trials,80130|WD~Nuremberg_trials,80130]] 
 
 ## #has_/text_of_/abstract 
 

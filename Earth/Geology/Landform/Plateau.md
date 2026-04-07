@@ -249,7 +249,7 @@ dv_has_:
 # [[Plateau]] 
 
 is_similar_to = `=this.dv_is_similar_to`
-#is_/same_as :: [[_Standards/WikiData/WD~Plateau,75520]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plateau,75520|WD~Plateau,75520]] 
 
 ## #has_/text_of_/abstract 
 

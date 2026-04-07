@@ -132,7 +132,7 @@ dv_has_:
 
 # [[Quetzalcoatl]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Quetzalcoatl,179818]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Quetzalcoatl,179818|WD~Quetzalcoatl,179818]] 
 
 ## #has_/text_of_/abstract 
 

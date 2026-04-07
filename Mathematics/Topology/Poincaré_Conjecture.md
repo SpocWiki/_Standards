@@ -117,7 +117,7 @@ dv_has_:
 # [[Poincaré_Conjecture]] 
 
 #is_/worse_than :: [[Geometrization_Conjecture]]  
-#is_/same_as :: [[_Standards/WikiData/WD~Poincaré_conjecture,203586]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Poincaré_conjecture,203586|WD~Poincaré_conjecture,203586]] 
 
 ## #has_/text_of_/abstract 
 

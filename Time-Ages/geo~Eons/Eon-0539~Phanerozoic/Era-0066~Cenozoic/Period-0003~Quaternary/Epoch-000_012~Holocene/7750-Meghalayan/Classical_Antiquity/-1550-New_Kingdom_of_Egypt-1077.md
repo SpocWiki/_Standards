@@ -209,7 +209,7 @@ dv_has_:
 
 # [[-1550-New_Kingdom_of_Egypt-1077]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~New_Kingdom_of_Egypt,180568]] 
+#is_/same_as :: [[_Standards/WikiData/WD~New_Kingdom_of_Egypt,180568|WD~New_Kingdom_of_Egypt,180568]] 
 
 ## #has_/text_of_/abstract 
 

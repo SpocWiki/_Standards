@@ -165,7 +165,7 @@ dv_has_:
 
 # [[Vitamin_E]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_E,141180]]
+#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_E,141180|WD~Vitamin_E,141180]]
 
 ## #has_/text_of_/abstract 
 

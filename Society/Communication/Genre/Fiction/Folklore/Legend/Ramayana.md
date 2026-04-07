@@ -244,7 +244,7 @@ dv_has_:
 # [[Ramayana]] 
 
 #is_/similar_to :: [[Mahabharata|Mahabharata]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Ramayana,37293]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ramayana,37293|WD~Ramayana,37293]] 
 
 ## #has_/text_of_/abstract 
 

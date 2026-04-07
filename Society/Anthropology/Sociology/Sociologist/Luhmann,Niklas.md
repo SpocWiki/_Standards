@@ -166,7 +166,7 @@ type: private_note
 
 # [[Luhmann,Niklas]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Niklas_Luhmann,57238]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Niklas_Luhmann,57238|WD~Niklas_Luhmann,57238]] 
 #has_/time_/started ::  1927-12-08 
 #has_/time_/stopped ::  1998-11-11  
 

@@ -347,7 +347,7 @@ dv_has_:
 
 # [[Mountain_Range]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mountain_range,46831]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mountain_range,46831|WD~Mountain_range,46831]] 
 
 ## #has_/text_of_/abstract 
 

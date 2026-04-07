@@ -240,7 +240,7 @@ Unicode_character: 🍟
 
 # [[Fries]] 🍟 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Fries,152088]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Fries,152088|WD~Fries,152088]] 
 
 ## #has_/text_of_/abstract 
 

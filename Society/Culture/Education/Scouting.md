@@ -218,7 +218,7 @@ dv_has_:
 
 # [[Scouting]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scouting,872181]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scouting,872181|WD~Scouting,872181]] 
 
 ## #has_/text_of_/abstract 
 

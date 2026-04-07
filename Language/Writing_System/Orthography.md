@@ -235,7 +235,7 @@ dv_has_:
 
 # [[Orthography]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orthography,43091]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orthography,43091|WD~Orthography,43091]] 
 
 ## #has_/text_of_/abstract 
 

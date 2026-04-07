@@ -137,7 +137,7 @@ dv_has_:
     stopped: -330.9e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Visean,Q647290]]'
+  - '[[_Standards/WikiData/WD~Visean,Q647290|WD~Visean,Q647290]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean|Age~2~Visean]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.public|Age~2~Visean.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.internal|Age~2~Visean.internal]]'
@@ -149,7 +149,7 @@ dv_has_duration_years: NaN
 dv_has_previous_item: '[[Age~1~Tournaisian]]'
 dv_has_next_item: '[[Age~3~Serpukhovian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Visean,Q647290]]'
+- '[[_Standards/WikiData/WD~Visean,Q647290|WD~Visean,Q647290]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean|Age~2~Visean]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.public|Age~2~Visean.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.internal|Age~2~Visean.internal]]'
@@ -190,7 +190,7 @@ dv_has_text_of_color: 0xA6B96C
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Visean,Q647290]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Visean,Q647290|WD~Visean,Q647290]] 
 
 A time period from 346.7 to 330.9 million years ago. 
 

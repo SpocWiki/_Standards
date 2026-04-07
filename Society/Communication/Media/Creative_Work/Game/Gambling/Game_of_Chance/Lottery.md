@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Lottery]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lottery,189409]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lottery,189409|WD~Lottery,189409]] 
 
 ## #has_/text_of_/abstract 
 

@@ -203,7 +203,7 @@ dv_has_:
 
 # [[Rodgers,Richard]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Richard_Rodgers,269094]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Richard_Rodgers,269094|WD~Richard_Rodgers,269094]] 
 
 ## #has_/text_of_/abstract 
 

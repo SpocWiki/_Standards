@@ -218,7 +218,7 @@ dv_has_:
 
 # [[Particle_Physics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Particle_physics,18334]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Particle_physics,18334|WD~Particle_physics,18334]] 
 
 ## #has_/text_of_/abstract 
 

@@ -266,7 +266,7 @@ dv_has_:
 
 # [[Davy,Humphry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Humphry_Davy,131761]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Humphry_Davy,131761|WD~Humphry_Davy,131761]] 
 
 ## #has_/text_of_/abstract 
 

@@ -139,7 +139,7 @@ dv_has_:
 
 # [[Iced_Tea]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Iced_tea,348958]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Iced_tea,348958|WD~Iced_tea,348958]] 
 
 ## #has_/text_of_/abstract 
 

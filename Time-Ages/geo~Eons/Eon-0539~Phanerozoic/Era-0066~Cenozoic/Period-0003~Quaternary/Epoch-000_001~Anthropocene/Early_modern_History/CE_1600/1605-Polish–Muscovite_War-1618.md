@@ -113,7 +113,7 @@ dv_has_:
 
 # [[1605-Polish–Muscovite_War-1618]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polish–Muscovite_War,1044829]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polish–Muscovite_War,1044829|WD~Polish–Muscovite_War,1044829]] 
 
 ## #has_/text_of_/abstract 
 

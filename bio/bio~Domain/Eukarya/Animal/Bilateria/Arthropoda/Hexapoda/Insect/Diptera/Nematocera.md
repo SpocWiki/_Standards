@@ -158,7 +158,7 @@ aliases:
 
 # [[Nematocera]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nematocera,27605]]
+#is_/same_as :: [[_Standards/WikiData/WD~Nematocera,27605|WD~Nematocera,27605]]
 
 ## #has_/text_of_/abstract 
 

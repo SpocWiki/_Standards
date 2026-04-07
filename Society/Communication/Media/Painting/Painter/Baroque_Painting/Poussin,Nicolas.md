@@ -281,7 +281,7 @@ dv_has_:
 
 # [[Poussin,Nicolas]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nicolas_Poussin,41554]]
+#is_/same_as :: [[_Standards/WikiData/WD~Nicolas_Poussin,41554|WD~Nicolas_Poussin,41554]]
 
 ## #has_/text_of_/abstract 
 

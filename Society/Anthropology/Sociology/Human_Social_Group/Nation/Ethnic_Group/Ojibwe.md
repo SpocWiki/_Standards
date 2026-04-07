@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Ojibwe]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ojibwe,255872]]
+#is_/same_as :: [[_Standards/WikiData/WD~Ojibwe,255872|WD~Ojibwe,255872]]
 
 ## #has_/text_of_/abstract 
 

@@ -110,7 +110,7 @@ dv_has_:
 
 # [[Mechanization]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mechanization,1160362]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mechanization,1160362|WD~Mechanization,1160362]] 
 #has_/next_/state  :: [[Automation]]  
 
 ## #has_/text_of_/abstract 

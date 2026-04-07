@@ -122,7 +122,7 @@ dv_has_:
 
 # [[Plum_Pudding_Model]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Plum_pudding_model,274116]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plum_pudding_model,274116|WD~Plum_pudding_model,274116]] 
 
 ## #has_/text_of_/abstract 
 

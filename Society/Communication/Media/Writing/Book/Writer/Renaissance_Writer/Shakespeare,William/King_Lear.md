@@ -239,7 +239,7 @@ dv_has_:
 
 # [[King_Lear]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~King_Lear,181598]] 
+#is_/same_as :: [[_Standards/WikiData/WD~King_Lear,181598|WD~King_Lear,181598]] 
 
 ## #has_/text_of_/abstract 
 

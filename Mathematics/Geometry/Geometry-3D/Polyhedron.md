@@ -191,7 +191,7 @@ dv_has_:
 
 # [[Polyhedron]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polyhedron,172937]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polyhedron,172937|WD~Polyhedron,172937]] 
 
 ## #has_/text_of_/abstract 
 

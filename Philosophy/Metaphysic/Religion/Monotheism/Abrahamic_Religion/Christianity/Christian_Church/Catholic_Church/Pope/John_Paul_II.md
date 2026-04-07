@@ -501,7 +501,7 @@ dv_has_:
 
 # [[John_Paul_II]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Paul_II,989]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Paul_II,989|WD~John_Paul_II,989]] 
 
 ## #has_/text_of_/abstract 
 

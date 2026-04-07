@@ -120,7 +120,7 @@ dv_has_:
 
 # [[Tertiary_Education]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Higher_education,136822]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Higher_education,136822|WD~Higher_education,136822]] 
 
 ## #has_/text_of_/abstract 
 

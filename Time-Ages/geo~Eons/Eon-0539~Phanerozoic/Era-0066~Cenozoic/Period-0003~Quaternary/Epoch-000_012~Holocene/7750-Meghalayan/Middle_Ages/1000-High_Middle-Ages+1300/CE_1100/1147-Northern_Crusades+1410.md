@@ -136,7 +136,7 @@ dv_has_:
 
 # [[1147-Northern_Crusades+1410]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Northern_Crusades,51662]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Northern_Crusades,51662|WD~Northern_Crusades,51662]] 
 
 ## #has_/text_of_/abstract 
 

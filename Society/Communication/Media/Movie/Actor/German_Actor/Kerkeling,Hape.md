@@ -14,45 +14,45 @@ name_in_native_language: Hape Kerkeling
 catchphrase: Hurz!
 Instagram_username: hapekerkeling.official
 occupation:
-  - "[[_Standards/WikiData/WD~entertainer,138858]]"
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~television_presenter,947873]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~cabaret_performer,15214752]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-employer: "[[_Standards/WikiData/WD~Westdeutscher_Rundfunk,203453]]"
+  - "[[_Standards/WikiData/WD~entertainer,138858|WD~entertainer,138858]]"
+  - "[[_Standards/WikiData/WD~singer,177220|WD~singer,177220]]"
+  - "[[_Standards/WikiData/WD~television_presenter,947873|WD~television_presenter,947873]]"
+  - "[[_Standards/WikiData/WD~film_director,2526255|WD~film_director,2526255]]"
+  - "[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]"
+  - "[[_Standards/WikiData/WD~cabaret_performer,15214752|WD~cabaret_performer,15214752]]"
+  - "[[_Standards/WikiData/WD~autobiographer,18814623|WD~autobiographer,18814623]]"
+  - "[[_Standards/WikiData/WD~screenwriter,28389|WD~screenwriter,28389]]"
+employer: "[[_Standards/WikiData/WD~Westdeutscher_Rundfunk,203453|WD~Westdeutscher_Rundfunk,203453]]"
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_Merit_of_North_Rhine_Westphalia,318770]]"
-  - "[[_Standards/WikiData/WD~Bavarian_TV_Awards,812332]]"
-  - "[[_Standards/WikiData/WD~Steiger_Award,821717]]"
-  - "[[_Standards/WikiData/WD~Romy,873842]]"
-  - "[[_Standards/WikiData/WD~Order_of_Karl_Valentin,1730163]]"
-  - "[[_Standards/WikiData/WD~Tie_Man_of_the_Year,1786936]]"
-member_of: "[[_Standards/WikiData/WD~Verein_Deutsche_Sprache,1147735]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - "[[_Standards/WikiData/WD~Order_of_Merit_of_North_Rhine_Westphalia,318770|WD~Order_of_Merit_of_North_Rhine_Westphalia,318770]]"
+  - "[[_Standards/WikiData/WD~Bavarian_TV_Awards,812332|WD~Bavarian_TV_Awards,812332]]"
+  - "[[_Standards/WikiData/WD~Steiger_Award,821717|WD~Steiger_Award,821717]]"
+  - "[[_Standards/WikiData/WD~Romy,873842|WD~Romy,873842]]"
+  - "[[_Standards/WikiData/WD~Order_of_Karl_Valentin,1730163|WD~Order_of_Karl_Valentin,1730163]]"
+  - "[[_Standards/WikiData/WD~Tie_Man_of_the_Year,1786936|WD~Tie_Man_of_the_Year,1786936]]"
+member_of: "[[_Standards/WikiData/WD~Verein_Deutsche_Sprache,1147735|WD~Verein_Deutsche_Sprache,1147735]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]"
 given_name:
-  - "[[_Standards/WikiData/WD~Wilhelm,11027623]]"
-  - "[[_Standards/WikiData/WD~Hans_Peter,18156274]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-family_name: "[[_Standards/WikiData/WD~Kerkeling,108655383]]"
-father: "[[_Standards/WikiData/WD~Q131618867,131618867]]"
+  - "[[_Standards/WikiData/WD~Wilhelm,11027623|WD~Wilhelm,11027623]]"
+  - "[[_Standards/WikiData/WD~Hans_Peter,18156274|WD~Hans_Peter,18156274]]"
+instrument: "[[_Standards/WikiData/WD~voice,17172850|WD~voice,17172850]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]"
+family_name: "[[_Standards/WikiData/WD~Kerkeling,108655383|WD~Kerkeling,108655383]]"
+father: "[[_Standards/WikiData/WD~Q131618867,131618867|WD~Q131618867,131618867]]"
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Dutch,7411]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-place_of_birth: "[[_Standards/WikiData/WD~Recklinghausen,3050]]"
-sexual_orientation: "[[_Standards/WikiData/WD~homosexuality,6636]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Berlin,64]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Germany,183]]"
-writing_language: "[[_Standards/WikiData/WD~German,188]]"
+  - "[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]"
+  - "[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Dutch,7411|WD~Dutch,7411]]"
+  - "[[_Standards/WikiData/WD~French,150|WD~French,150]]"
+  - "[[_Standards/WikiData/WD~German,188|WD~German,188]]"
+place_of_birth: "[[_Standards/WikiData/WD~Recklinghausen,3050|WD~Recklinghausen,3050]]"
+sexual_orientation: "[[_Standards/WikiData/WD~homosexuality,6636|WD~homosexuality,6636]]"
+instance_of: "[[_Standards/WikiData/WD~human,5|WD~human,5]]"
+work_location: "[[_Standards/WikiData/WD~Berlin,64|WD~Berlin,64]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
+writing_language: "[[_Standards/WikiData/WD~German,188|WD~German,188]]"
 Commons_category: Hape Kerkeling
 date_of_birth: 1964-12-09T00:00:00Z
 nickname: Hape
@@ -63,7 +63,7 @@ ISNI: "0000000108996189"
 
 # [[Kerkeling,Hape]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hape_Kerkeling,68822]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hape_Kerkeling,68822|WD~Hape_Kerkeling,68822]] 
 
 ## #has_/text_of_/abstract 
 

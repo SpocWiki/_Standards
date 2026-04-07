@@ -131,7 +131,7 @@ dv_has_:
 
 # [[Kinetic_Art]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kinetic_art,466521]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kinetic_art,466521|WD~Kinetic_art,466521]] 
 
 ## #has_/text_of_/abstract 
 

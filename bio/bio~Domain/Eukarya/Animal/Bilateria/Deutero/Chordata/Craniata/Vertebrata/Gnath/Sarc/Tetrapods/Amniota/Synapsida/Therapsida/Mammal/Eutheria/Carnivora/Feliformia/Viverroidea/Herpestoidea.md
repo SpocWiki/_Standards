@@ -65,7 +65,7 @@ dv_has_:
 
 # [[Herpestoidea]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Herpestoidea,9776204]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Herpestoidea,9776204|WD~Herpestoidea,9776204]] 
 
 ## #has_/text_of_/abstract 
 

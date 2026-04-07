@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Quakers]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Quakers,170208]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Quakers,170208|WD~Quakers,170208]] 
 
 ## #has_/text_of_/abstract 
 

@@ -44,7 +44,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ahu%20Tongariki.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Moai.stl
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Moai,20350]]'
+  - '[[_Standards/WikiData/WD~Moai,20350|WD~Moai,20350]]'
   - '[[/_Standards/Earth/Geography/Place/Moai|Moai]]'
   - '[[/_public/Earth/Geography/Place/Moai.public|Moai.public]]'
   - '[[/_internal/Earth/Geography/Place/Moai.internal|Moai.internal]]'
@@ -53,7 +53,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Moai.personal|Moai.personal]]'
   - '[[/_secret/Earth/Geography/Place/Moai.secret|Moai.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Moai,20350]]'
+- '[[_Standards/WikiData/WD~Moai,20350|WD~Moai,20350]]'
 - '[[/_Standards/Earth/Geography/Place/Moai|Moai]]'
 - '[[/_public/Earth/Geography/Place/Moai.public|Moai.public]]'
 - '[[/_internal/Earth/Geography/Place/Moai.internal|Moai.internal]]'
@@ -152,7 +152,7 @@ Unicode_character: 🗿
 
 ![[../../../assets/Moai.png|Moai.png]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Moai,20350]]
+#is_/same_as :: [[_Standards/WikiData/WD~Moai,20350|WD~Moai,20350]]
 
 ## #has_/text_of_/abstract 
 

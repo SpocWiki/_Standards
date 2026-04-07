@@ -157,7 +157,7 @@ dv_has_:
 
 # [[Molotov_Cocktail]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Molotov_cocktail,167096]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Molotov_cocktail,167096|WD~Molotov_cocktail,167096]] 
 
 ## #has_/text_of_/abstract 
 

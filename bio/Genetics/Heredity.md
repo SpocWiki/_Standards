@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Heredity]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Heredity,178694]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heredity,178694|WD~Heredity,178694]] 
 
 ## #has_/text_of_/abstract 
 

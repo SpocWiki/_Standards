@@ -145,7 +145,7 @@ dv_has_:
 
 # [[Star_Formation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Star_formation,16744]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Star_formation,16744|WD~Star_formation,16744]] 
 
 ## #has_/text_of_/abstract 
 

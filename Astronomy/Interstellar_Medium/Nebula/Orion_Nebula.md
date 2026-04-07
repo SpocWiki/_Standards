@@ -215,7 +215,7 @@ dv_has_:
 
 # [[Orion_Nebula]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orion_Nebula,13903]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orion_Nebula,13903|WD~Orion_Nebula,13903]] 
 
 ## #has_/text_of_/abstract 
 

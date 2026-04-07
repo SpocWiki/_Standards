@@ -256,21 +256,21 @@ female_form_of_label:
   - psychologowka
   - psikologino
 field_of_this_occupation:
-  - "[[_Standards/WikiData/WD~psychotherapy,183257]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
+  - "[[_Standards/WikiData/WD~psychotherapy,183257|WD~psychotherapy,183257]]"
+  - "[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]"
 model_item:
-  - "[[_Standards/WikiData/WD~clinical_psychologist,1113899]]"
-  - "[[_Standards/WikiData/WD~sports_psychologist,88108912]]"
-has_list: "[[_Standards/WikiData/WD~list_of_psychologists,1460245]]"
+  - "[[_Standards/WikiData/WD~clinical_psychologist,1113899|WD~clinical_psychologist,1113899]]"
+  - "[[_Standards/WikiData/WD~sports_psychologist,88108912|WD~sports_psychologist,88108912]]"
+has_list: "[[_Standards/WikiData/WD~list_of_psychologists,1460245|WD~list_of_psychologists,1460245]]"
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~alienist,4726509]]"
-  - "[[_Standards/WikiData/WD~Q11490598,11490598]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Psychologists,8882178]]"
-category_for_eponymous_categories: "[[_Standards/WikiData/WD~Category_Categories_named_after_psychiatrists_or_psychologists,31960710]]"
-subclass_of: "[[_Standards/WikiData/WD~social_and_religious_professionals,108289406]]"
+  - "[[_Standards/WikiData/WD~alienist,4726509|WD~alienist,4726509]]"
+  - "[[_Standards/WikiData/WD~Q11490598,11490598|WD~Q11490598,11490598]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Psychologists,8882178|WD~Category_Psychologists,8882178]]"
+category_for_eponymous_categories: "[[_Standards/WikiData/WD~Category_Categories_named_after_psychiatrists_or_psychologists,31960710|WD~Category_Categories_named_after_psychiatrists_or_psychologists,31960710]]"
+subclass_of: "[[_Standards/WikiData/WD~social_and_religious_professionals,108289406|WD~social_and_religious_professionals,108289406]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]"
-  - "[[_Standards/WikiData/WD~profession,28640]]"
+  - "[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140|WD~occupation_group_according_to_ISCO_08,108300140]]"
+  - "[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]"
 ROME_Occupation_Code: "38675"
 ISCO_08_occupation_class: "2634"
 ISCO_88_occupation_class: "2445"
@@ -289,7 +289,7 @@ Commons_category: Psychologists
 
 # [[Psychologist]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Psychologist,212980]]
+#is_/same_as :: [[_Standards/WikiData/WD~Psychologist,212980|WD~Psychologist,212980]]
 #is_/worse_than  :: [[Psychiatrist]]  
 
 ## #has_/text_of_/abstract 

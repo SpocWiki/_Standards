@@ -218,7 +218,7 @@ dv_has_:
 
 # [[Gilbert,William(Physicist)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~William_Gilbert,192706]] 
+#is_/same_as :: [[_Standards/WikiData/WD~William_Gilbert,192706|WD~William_Gilbert,192706]] 
 
 ## #has_/text_of_/abstract 
 

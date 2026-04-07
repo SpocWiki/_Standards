@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Magnetism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magnetism,3294789]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Magnetism,3294789|WD~Magnetism,3294789]] 
 
 ## #has_/text_of_/abstract 
 

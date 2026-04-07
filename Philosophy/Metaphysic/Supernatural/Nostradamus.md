@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Nostradamus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nostradamus,39978]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nostradamus,39978|WD~Nostradamus,39978]] 
 
 ## #has_/text_of_/abstract 
 

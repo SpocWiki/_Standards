@@ -240,7 +240,7 @@ dv_has_:
 
 # [[Quadrilateral]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Quadrilateral,36810]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Quadrilateral,36810|WD~Quadrilateral,36810]] 
 
 ## #has_/text_of_/abstract 
 

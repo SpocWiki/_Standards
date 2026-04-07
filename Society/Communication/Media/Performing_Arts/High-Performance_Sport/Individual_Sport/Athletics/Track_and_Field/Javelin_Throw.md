@@ -192,7 +192,7 @@ dv_has_:
 
 # [[Javelin_Throw]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Javelin_throw,178108]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Javelin_throw,178108|WD~Javelin_throw,178108]] 
 
 ## #has_/text_of_/abstract 
 

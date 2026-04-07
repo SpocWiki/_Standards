@@ -202,7 +202,7 @@ dv_has_:
 
 # [[Piscis_Austrinus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Piscis_Austrinus,10409]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Piscis_Austrinus,10409|WD~Piscis_Austrinus,10409]] 
 
 ## #has_/text_of_/abstract 
 

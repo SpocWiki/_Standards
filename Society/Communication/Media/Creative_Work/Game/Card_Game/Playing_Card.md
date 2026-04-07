@@ -249,7 +249,7 @@ dv_has_:
 
 # [[Playing_Card]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Playing_card,47883]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Playing_card,47883|WD~Playing_card,47883]] 
 
 ## #has_/text_of_/abstract 
 

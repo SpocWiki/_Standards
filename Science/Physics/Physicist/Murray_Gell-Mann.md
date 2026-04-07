@@ -252,7 +252,7 @@ dv_has_:
 
 # [[Murray_Gell-Mann]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Murray_Gell-Mann,172840]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Murray_Gell-Mann,172840|WD~Murray_Gell-Mann,172840]] 
 
 ## #has_/text_of_/abstract 
 

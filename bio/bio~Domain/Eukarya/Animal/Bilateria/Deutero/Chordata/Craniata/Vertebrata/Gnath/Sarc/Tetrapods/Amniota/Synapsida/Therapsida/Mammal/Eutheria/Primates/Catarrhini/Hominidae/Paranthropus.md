@@ -98,7 +98,7 @@ dv_has_:
 
 # [[Paranthropus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paranthropus,111463]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paranthropus,111463|WD~Paranthropus,111463]] 
 
 ## #has_/text_of_/abstract 
 

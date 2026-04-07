@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Gish,Lillian]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lillian_Gish,104183]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lillian_Gish,104183|WD~Lillian_Gish,104183]] 
 
 ## #has_/text_of_/abstract 
 

@@ -121,7 +121,7 @@ dv_has_:
 
 # [[Molecular_Orbital]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Molecular_orbital,725417]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Molecular_orbital,725417|WD~Molecular_orbital,725417]] 
 
 ## #has_/text_of_/abstract 
 

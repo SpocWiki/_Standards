@@ -95,7 +95,7 @@ dv_has_:
 
 # [[Homological_Algebra]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Homological_algebra,579978]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Homological_algebra,579978|WD~Homological_algebra,579978]] 
 
 ## #has_/text_of_/abstract 
 

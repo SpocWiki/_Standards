@@ -156,7 +156,7 @@ dv_has_:
 
 # [[Jet_Stream]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jet_stream,202325]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jet_stream,202325|WD~Jet_stream,202325]] 
 
 ## #has_/text_of_/abstract 
 

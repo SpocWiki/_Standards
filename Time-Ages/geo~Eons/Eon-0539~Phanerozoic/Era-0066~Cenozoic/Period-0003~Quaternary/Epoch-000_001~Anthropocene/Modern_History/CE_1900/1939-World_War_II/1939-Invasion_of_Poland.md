@@ -209,7 +209,7 @@ dv_has_:
 
 # [[1939-Invasion_of_Poland]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Invasion_of_Poland,150812]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Invasion_of_Poland,150812|WD~Invasion_of_Poland,150812]] 
 
 ## #has_/text_of_/abstract 
 

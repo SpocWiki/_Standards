@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Rubik's_Cube]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rubik's_Cube,47043]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rubik's_Cube,47043|WD~Rubik's_Cube,47043]] 
 
 ## #has_/text_of_/abstract  
 

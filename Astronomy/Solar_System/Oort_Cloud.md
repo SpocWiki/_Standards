@@ -230,7 +230,7 @@ dv_has_:
 
 # [[Oort_Cloud]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oort_cloud,40864]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oort_cloud,40864|WD~Oort_cloud,40864]] 
 
 ## #has_/text_of_/abstract 
 

@@ -143,7 +143,7 @@ dv_has_:
 
 # [[Simon_&_Garfunkel]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Simon_&_Garfunkel,484918]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Simon_&_Garfunkel,484918|WD~Simon_&_Garfunkel,484918]] 
 
 ## #has_/text_of_/abstract 
 

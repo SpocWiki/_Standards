@@ -150,7 +150,7 @@ dv_has_:
 # [[Silicone]] 
 
 #is_/different_from :: [[../../Chemical_Element/Group-14-Carbon/Silicon|Silicon]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Silicone,146439]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Silicone,146439|WD~Silicone,146439]] 
 
 ## #has_/text_of_/abstract 
 

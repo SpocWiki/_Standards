@@ -223,7 +223,7 @@ dv_has_:
 # [[Unit~Pound]] ℔ 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pound,100995]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pound,100995|WD~Pound,100995]] 
 
 ## #has_/text_of_/abstract 
 

@@ -121,7 +121,7 @@ dv_has_:
 
 # [[Open_Set]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Open_set,213363]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Open_set,213363|WD~Open_set,213363]] 
 
 ## #has_/text_of_/abstract 
 

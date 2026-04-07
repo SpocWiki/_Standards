@@ -241,7 +241,7 @@ dv_has_:
 
 # [[Public_Transport]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Public_transport,178512]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Public_transport,178512|WD~Public_transport,178512]] 
 
 ## #has_/text_of_/abstract 
 

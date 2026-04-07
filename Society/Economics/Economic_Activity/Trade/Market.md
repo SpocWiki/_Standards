@@ -1,7 +1,7 @@
 
 # [[Market]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Market,37654]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Market,37654|WD~Market,37654]] 
 
 ## #has_/text_of_/abstract 
 

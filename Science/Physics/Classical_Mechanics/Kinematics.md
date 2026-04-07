@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Kinematics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kinematics,11476]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kinematics,11476|WD~Kinematics,11476]] 
 
 ## #has_/text_of_/abstract 
 

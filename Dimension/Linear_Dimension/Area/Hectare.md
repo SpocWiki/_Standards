@@ -69,7 +69,7 @@ aliases:
 - 헥타르
 has_id_wikidata: Q35852
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
 - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
 - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
@@ -271,7 +271,7 @@ dv_has_:
 # [[Hectare]] ㏊ 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hectare,35852]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hectare,35852|WD~Hectare,35852]] 
 
 ## #has_/text_of_/abstract 
 

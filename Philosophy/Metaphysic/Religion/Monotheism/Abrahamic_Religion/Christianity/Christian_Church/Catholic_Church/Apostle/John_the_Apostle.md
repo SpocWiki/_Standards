@@ -264,7 +264,7 @@ dv_has_:
 
 # [[John_the_Apostle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_the_Apostle,44015]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_the_Apostle,44015|WD~John_the_Apostle,44015]] 
 
 ## #has_/text_of_/abstract 
 

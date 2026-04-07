@@ -263,7 +263,7 @@ dv_has_:
 
 # [[Strauss,Johann_II]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Johann_Strauss_II,83309]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Johann_Strauss_II,83309|WD~Johann_Strauss_II,83309]] 
 #has_/parent :: [[Strauss,Johann_I]] 
 ## #has_/text_of_/abstract 
 

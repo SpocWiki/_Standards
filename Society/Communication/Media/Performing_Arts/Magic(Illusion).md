@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Magic(Illusion)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magic,148442]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Magic,148442|WD~Magic,148442]]  
 
 ## #has_/text_of_/abstract 
 

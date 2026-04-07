@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Major_League_Baseball]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Major_League_Baseball,1163715]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Major_League_Baseball,1163715|WD~Major_League_Baseball,1163715]] 
 
 ## #has_/text_of_/abstract 
 

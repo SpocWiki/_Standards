@@ -291,7 +291,7 @@ dv_has_:
 
 # [[Nail(Fastener)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nail,37077]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nail,37077|WD~Nail,37077]] 
 
 ## #has_/text_of_/abstract 
 

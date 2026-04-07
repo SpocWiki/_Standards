@@ -187,7 +187,7 @@ dv_has_:
 
 # [[Impact_Crater]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Impact_crater,55818]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Impact_crater,55818|WD~Impact_crater,55818]] 
 
 ## #has_/text_of_/abstract 
 

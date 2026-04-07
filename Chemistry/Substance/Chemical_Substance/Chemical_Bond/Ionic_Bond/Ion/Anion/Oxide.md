@@ -197,7 +197,7 @@ dv_has_:
 
 # [[Oxide]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oxide,50690]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oxide,50690|WD~Oxide,50690]] 
 
 ## #has_/text_of_/abstract 
 

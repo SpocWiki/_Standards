@@ -214,7 +214,7 @@ dv_has_:
 
 # [[1884-Scramble_for_Africa+1914]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scramble_for_Africa,179848]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scramble_for_Africa,179848|WD~Scramble_for_Africa,179848]] 
 
 ## #has_/text_of_/abstract 
 

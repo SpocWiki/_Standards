@@ -203,7 +203,7 @@ dv_has_:
 
 # [[Vleck,John_Hasbrouck_van]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Hasbrouck_Van_Vleck,193655]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Hasbrouck_Van_Vleck,193655|WD~John_Hasbrouck_Van_Vleck,193655]] 
 
 ## #has_/text_of_/abstract 
 

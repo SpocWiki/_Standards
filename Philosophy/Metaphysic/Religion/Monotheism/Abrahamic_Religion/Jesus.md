@@ -872,7 +872,7 @@ dv_has_:
 
 # [[Jesus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jesus,302]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jesus,302|WD~Jesus,302]] 
 
 ## #has_/text_of_/abstract 
 

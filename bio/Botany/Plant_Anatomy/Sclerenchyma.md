@@ -83,7 +83,7 @@ dv_has_:
 
 # [[Sclerenchyma]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sclerenchyma,375601]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sclerenchyma,375601|WD~Sclerenchyma,375601]] 
 
 ## #has_/text_of_/abstract 
 

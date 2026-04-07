@@ -189,7 +189,7 @@ dv_has_:
 
 # [[Scalar_Product]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scalar_product,181365]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scalar_product,181365|WD~Scalar_product,181365]] 
 
 ## #has_/text_of_/abstract 
 

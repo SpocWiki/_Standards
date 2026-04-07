@@ -197,7 +197,7 @@ dv_has_:
 
 # [[ICCPR(International_Covenant_on_Civil_and_Political_Rights)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Covenant_on_Civil_and_Political_Rights,392119]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Covenant_on_Civil_and_Political_Rights,392119|WD~International_Covenant_on_Civil_and_Political_Rights,392119]] 
 
 ## #has_/text_of_/abstract 
 

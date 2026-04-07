@@ -281,7 +281,7 @@ Unicode_character: 🤾
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Handball,8418]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Handball,8418|WD~Handball,8418]] 
 
 ## #has_/text_of_/abstract 
 

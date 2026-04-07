@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Nadia_Comăneci]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nadia_Comăneci,33228]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nadia_Comăneci,33228|WD~Nadia_Comăneci,33228]] 
 
 ## #has_/text_of_/abstract 
 

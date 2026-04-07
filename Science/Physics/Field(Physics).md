@@ -161,7 +161,7 @@ dv_has_:
 
 # [[Field(Physics)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Field,185674]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Field,185674|WD~Field,185674]] 
 
 ## #has_/text_of_/abstract 
 

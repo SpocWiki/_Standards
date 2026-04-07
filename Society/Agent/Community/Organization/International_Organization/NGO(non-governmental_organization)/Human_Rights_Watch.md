@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Human_Rights_Watch]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Human_Rights_Watch,187052]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Human_Rights_Watch,187052|WD~Human_Rights_Watch,187052]] 
 
 ## #has_/text_of_/abstract 
 

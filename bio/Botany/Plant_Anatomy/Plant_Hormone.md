@@ -139,7 +139,7 @@ dv_has_:
 
 # [[Plant_Hormone]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Plant_hormone,192949]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plant_hormone,192949|WD~Plant_hormone,192949]] 
 
 ## #has_/text_of_/abstract 
 

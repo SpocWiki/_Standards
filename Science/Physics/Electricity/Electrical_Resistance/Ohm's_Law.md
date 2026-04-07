@@ -223,7 +223,7 @@ dv_has_:
 
 # [[Ohm's_Law]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ohm's_law,41591]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ohm's_law,41591|WD~Ohm's_law,41591]] 
 
 ## #has_/text_of_/abstract 
 

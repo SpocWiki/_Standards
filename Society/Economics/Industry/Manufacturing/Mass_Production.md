@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Mass_Production]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mass_production,215768]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mass_production,215768|WD~Mass_production,215768]] 
 
 ## #has_/text_of_/abstract 
 

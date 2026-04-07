@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Semi-presidential_System]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Semi-presidential_system,49890]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Semi-presidential_system,49890|WD~Semi-presidential_system,49890]] 
 
 ## #has_/text_of_/abstract 
 

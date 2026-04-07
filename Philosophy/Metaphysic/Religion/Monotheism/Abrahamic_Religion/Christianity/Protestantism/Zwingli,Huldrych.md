@@ -239,7 +239,7 @@ dv_has_:
 
 # [[Zwingli,Huldrych]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Huldrych_Zwingli,123034]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Huldrych_Zwingli,123034|WD~Huldrych_Zwingli,123034]] 
 
 ## #has_/text_of_/abstract 
 

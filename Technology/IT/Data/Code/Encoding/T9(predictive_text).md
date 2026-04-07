@@ -43,7 +43,7 @@ aliases:
 
 # [[T9(predictive_text)]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~T9,1142557]] 
+#is_/same_as :: [[_Standards/WikiData/WD~T9,1142557|WD~T9,1142557]] 
 
 ## Key-Mapping:
 

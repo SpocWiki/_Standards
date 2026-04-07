@@ -85,7 +85,7 @@ dv_has_:
 
 # [[Multilinear_Algebra]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Multilinear_algebra,1197190]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Multilinear_algebra,1197190|WD~Multilinear_algebra,1197190]] 
 
 ## #has_/text_of_/abstract 
 

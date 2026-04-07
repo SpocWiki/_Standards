@@ -93,7 +93,7 @@ dv_has_:
     stopped: -298.9e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Gzhelian,1030848]]'
+  - '[[_Standards/WikiData/WD~Gzhelian,1030848|WD~Gzhelian,1030848]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.public|Age~4~Gzhelian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.internal|Age~4~Gzhelian.internal]]'
@@ -105,7 +105,7 @@ dv_has_duration_years: 4.800e+6
 dv_has_previous_item: '[[Age~3~Kasimovian]]'
 dv_has_next_item: '[[../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Gzhelian,1030848]]'
+- '[[_Standards/WikiData/WD~Gzhelian,1030848|WD~Gzhelian,1030848]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.public|Age~4~Gzhelian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.internal|Age~4~Gzhelian.internal]]'
@@ -147,7 +147,7 @@ dv_has_text_of_color: 0xCCD4C7
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Gzhelian,1030848]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gzhelian,1030848|WD~Gzhelian,1030848]] 
 
 A time period from 303.7 to 298.9 million years ago. 
 

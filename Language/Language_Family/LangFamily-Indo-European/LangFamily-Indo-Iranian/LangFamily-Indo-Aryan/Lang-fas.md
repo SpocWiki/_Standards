@@ -556,7 +556,7 @@ dv_has_:
 
 # [[Lang-fas]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Persian,9168]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Persian,9168|WD~Persian,9168]] 
 
 ## #has_/text_of_/abstract 
 

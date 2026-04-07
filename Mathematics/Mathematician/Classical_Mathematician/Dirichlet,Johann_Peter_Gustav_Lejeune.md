@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Dirichlet,Johann_Peter_Gustav_Lejeune]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Johann_Peter_Gustav_Lejeune_Dirichlet,29193]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Johann_Peter_Gustav_Lejeune_Dirichlet,29193|WD~Johann_Peter_Gustav_Lejeune_Dirichlet,29193]] 
 
 ## #has_/text_of_/abstract 
 

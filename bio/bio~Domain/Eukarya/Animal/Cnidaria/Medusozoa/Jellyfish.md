@@ -234,7 +234,7 @@ Unicode_character: 🪼
 
 # [[Jellyfish]] 🪼 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jellyfish,30178]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jellyfish,30178|WD~Jellyfish,30178]] 
 
 ## #has_/text_of_/abstract 
 

@@ -338,7 +338,7 @@ dv_has_:
 
 # [[Sand]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sand,34679]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sand,34679|WD~Sand,34679]] 
 
 ## #has_/text_of_/abstract 
 

@@ -137,7 +137,7 @@ dv_has_:
 
 # [[Racket(Sports)]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Racket,240502]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Racket,240502|WD~Racket,240502]] 
 
 ## #has_/text_of_/abstract 
 

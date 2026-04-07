@@ -102,7 +102,7 @@ dv_has_:
     stopped: -15.98e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Burdigalian,508650]]'
+  - '[[_Standards/WikiData/WD~Burdigalian,508650|WD~Burdigalian,508650]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian|Age~2~Burdigalian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.public|Age~2~Burdigalian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.internal|Age~2~Burdigalian.internal]]'
@@ -114,7 +114,7 @@ dv_has_duration_years: 4.460e+6
 dv_has_previous_item: '[[Age~1~Aquitanian]]'
 dv_has_next_item: '[[Age~3~Langhian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Burdigalian,508650]]'
+- '[[_Standards/WikiData/WD~Burdigalian,508650|WD~Burdigalian,508650]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian|Age~2~Burdigalian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.public|Age~2~Burdigalian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.internal|Age~2~Burdigalian.internal]]'
@@ -158,7 +158,7 @@ A time period from 20.44 to 15.98 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Burdigalian,508650]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Burdigalian,508650|WD~Burdigalian,508650]] 
 
 ## #has_/text_of_/abstract 
 

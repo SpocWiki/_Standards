@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Geosynchronous_Orbit]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Geosynchronous_orbit,472251]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Geosynchronous_orbit,472251|WD~Geosynchronous_orbit,472251]] 
 ## #has_/text_of_/abstract 
 
 > A geosynchronous orbit (sometimes abbreviated GSO) is an Earth-centered orbit 

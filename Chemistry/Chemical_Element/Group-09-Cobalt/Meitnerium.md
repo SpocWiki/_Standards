@@ -268,7 +268,7 @@ Unicode_character: 䥑
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Meitnerium,1258]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Meitnerium,1258|WD~Meitnerium,1258]] 
 
 ## #has_/text_of_/abstract 
 

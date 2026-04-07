@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Respiration]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Respiration,472287]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Respiration,472287|WD~Respiration,472287]] 
 
 ## #has_/text_of_/abstract 
 

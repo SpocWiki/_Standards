@@ -256,7 +256,7 @@ dv_has_:
 
 # [[OAS(Organization_of_American_States)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Organization_of_American_States,123759]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Organization_of_American_States,123759|WD~Organization_of_American_States,123759]] 
 
 ## #has_/text_of_/abstract 
 

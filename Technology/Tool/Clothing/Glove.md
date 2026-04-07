@@ -233,7 +233,7 @@ Unicode_character: 🧤
 
 #is_/similar_to :: [[Mitten]] 
 #is_/similar_to :: [[Gauntlet]]
-#is_/same_as :: [[_Standards/WikiData/WD~Glove,169031]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Glove,169031|WD~Glove,169031]] 
 
 ## #has_/text_of_/abstract 
 

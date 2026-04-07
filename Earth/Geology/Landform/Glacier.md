@@ -359,7 +359,7 @@ dv_has_:
 
 # [[Glacier]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Glacier,35666]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Glacier,35666|WD~Glacier,35666]] 
 
 ## #has_/text_of_/abstract 
 

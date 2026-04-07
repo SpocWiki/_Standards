@@ -154,7 +154,7 @@ dv_has_:
 
 # [[High_Tech]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~High_tech,466410]] 
+#is_/same_as :: [[_Standards/WikiData/WD~High_tech,466410|WD~High_tech,466410]] 
 
 ## #has_/text_of_/abstract 
 

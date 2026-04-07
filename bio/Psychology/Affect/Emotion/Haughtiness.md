@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Haughtiness]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Haughtiness,187234]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Haughtiness,187234|WD~Haughtiness,187234]] 
 
 ## #has_/text_of_/abstract 
 

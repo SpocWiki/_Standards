@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Logical_Positivism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Logical_positivism,193627]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Logical_positivism,193627|WD~Logical_positivism,193627]] 
 
 ## #has_/text_of_/abstract 
 

@@ -259,7 +259,7 @@ dv_has_:
 
 # [[Kindergarten]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kindergarten,126807]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kindergarten,126807|WD~Kindergarten,126807]] 
 
 ## #has_/text_of_/abstract 
 

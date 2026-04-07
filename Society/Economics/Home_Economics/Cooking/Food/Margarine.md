@@ -194,7 +194,7 @@ dv_has_:
 
 # [[Margarine]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Margarine,4287]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Margarine,4287|WD~Margarine,4287]] 
 
 ## #has_/text_of_/abstract 
 

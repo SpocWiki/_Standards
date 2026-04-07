@@ -208,7 +208,7 @@ dv_has_:
     stopped: -2.500e9
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Archean,104168]]'
+  - '[[_Standards/WikiData/WD~Archean,104168|WD~Archean,104168]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean|Eon-4031~Archean]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean.public|Eon-4031~Archean.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean.internal|Eon-4031~Archean.internal]]'
@@ -221,7 +221,7 @@ dv_has_duration_years: 1.531e+9
 dv_has_previous_item: '[[Eon-4567~Hadean]]'
 dv_has_next_item: '[[Eon-2500~Proterozoic]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Archean,104168]]'
+- '[[_Standards/WikiData/WD~Archean,104168|WD~Archean,104168]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean|Eon-4031~Archean]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean.public|Eon-4031~Archean.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean.internal|Eon-4031~Archean.internal]]'
@@ -269,7 +269,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Archean,104168]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Archean,104168|WD~Archean,104168]] 
 
 ## #has_/text_of_/abstract 
 

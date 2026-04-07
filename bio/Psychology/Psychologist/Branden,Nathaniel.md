@@ -31,30 +31,30 @@ tags:
   - excalidraw
 type: private_note
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_California,_Los_Angeles,174710]]"
-  - "[[_Standards/WikiData/WD~New_York_University,49210]]"
+  - "[[_Standards/WikiData/WD~University_of_California,_Los_Angeles,174710|WD~University_of_California,_Los_Angeles,174710]]"
+  - "[[_Standards/WikiData/WD~New_York_University,49210|WD~New_York_University,49210]]"
 occupation:
-  - "[[_Standards/WikiData/WD~psychologist,212980]]"
-  - "[[_Standards/WikiData/WD~psychotherapist,1900167]]"
-  - "[[_Standards/WikiData/WD~academic,3400985]]"
-  - "[[_Standards/WikiData/WD~non_fiction_writer,15980158]]"
-family_name: "[[_Standards/WikiData/WD~Blumenthal,886296]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+  - "[[_Standards/WikiData/WD~psychologist,212980|WD~psychologist,212980]]"
+  - "[[_Standards/WikiData/WD~psychotherapist,1900167|WD~psychotherapist,1900167]]"
+  - "[[_Standards/WikiData/WD~academic,3400985|WD~academic,3400985]]"
+  - "[[_Standards/WikiData/WD~non_fiction_writer,15980158|WD~non_fiction_writer,15980158]]"
+family_name: "[[_Standards/WikiData/WD~Blumenthal,886296|WD~Blumenthal,886296]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]"
 spouse:
-  - "[[_Standards/WikiData/WD~Barbara_Branden,4858770]]"
-  - "[[_Standards/WikiData/WD~Patrecia_Scott,28946819]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - "[[_Standards/WikiData/WD~Barbara_Branden,4858770|WD~Barbara_Branden,4858770]]"
+  - "[[_Standards/WikiData/WD~Patrecia_Scott,28946819|WD~Patrecia_Scott,28946819]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]"
 given_name:
-  - "[[_Standards/WikiData/WD~Nathan,11167678]]"
-  - "[[_Standards/WikiData/WD~Nathaniel,18978396]]"
+  - "[[_Standards/WikiData/WD~Nathan,11167678|WD~Nathan,11167678]]"
+  - "[[_Standards/WikiData/WD~Nathaniel,18978396|WD~Nathaniel,18978396]]"
 place_of_burial: http://www.wikidata.org/.well-known/genid/f111667e063418d416c270bb2738cd4b
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
-cause_of_death: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_death: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
-place_of_birth: "[[_Standards/WikiData/WD~Brampton,44198]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085|WD~Parkinson's_disease,11085]]"
+cause_of_death: "[[_Standards/WikiData/WD~Parkinson's_disease,11085|WD~Parkinson's_disease,11085]]"
+instance_of: "[[_Standards/WikiData/WD~human,5|WD~human,5]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+place_of_death: "[[_Standards/WikiData/WD~Los_Angeles,65|WD~Los_Angeles,65]]"
+place_of_birth: "[[_Standards/WikiData/WD~Brampton,44198|WD~Brampton,44198]]"
 social_media_followers: 1431
 date_of_birth: 1930-04-09T00:00:00Z
 date_of_death: 2014-12-03T00:00:00Z
@@ -69,7 +69,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Nathaniel%20Branden%20
 
 # [[Branden,Nathaniel]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nathaniel_Branden,741456]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nathaniel_Branden,741456|WD~Nathaniel_Branden,741456]] 
 
 ## #has_/text_of_/abstract 
 

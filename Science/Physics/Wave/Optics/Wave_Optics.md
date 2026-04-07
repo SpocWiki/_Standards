@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Wave_Optics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Physical_optics,942347]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Physical_optics,942347|WD~Physical_optics,942347]] 
 
 ## #has_/text_of_/abstract 
 

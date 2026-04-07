@@ -221,7 +221,7 @@ dv_has_:
 
 # [[Kohlrabi]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kohlrabi,147202]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kohlrabi,147202|WD~Kohlrabi,147202]] 
 #is_a :: [[../../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Vegetable|Vegetable]] 
 
 ## #has_/text_of_/abstract 

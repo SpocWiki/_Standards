@@ -151,7 +151,7 @@ dv_has_:
 
 # [[Idolatry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Idolatry,840665]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Idolatry,840665|WD~Idolatry,840665]] 
 
 ## #has_/text_of_/abstract 
 

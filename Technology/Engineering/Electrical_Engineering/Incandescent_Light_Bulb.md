@@ -256,7 +256,7 @@ Unicode_character: 💡
 
 # [[Incandescent_Light_Bulb]] 💡 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Incandescent_light_bulb,47616]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Incandescent_light_bulb,47616|WD~Incandescent_light_bulb,47616]] 
 
 ## #has_/text_of_/abstract 
 

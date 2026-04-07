@@ -101,7 +101,7 @@ dv_has_:
 
 # [[Peter,Paul_and_Mary]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peter,_Paul_and_Mary,654716]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peter,_Paul_and_Mary,654716|WD~Peter,_Paul_and_Mary,654716]] 
 
 ## #has_/text_of_/abstract 
 

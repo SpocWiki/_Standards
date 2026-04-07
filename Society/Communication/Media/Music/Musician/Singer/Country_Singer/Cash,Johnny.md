@@ -280,7 +280,7 @@ dv_has_:
 
 # [[Cash,Johnny]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Johnny_Cash,42775]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Johnny_Cash,42775|WD~Johnny_Cash,42775]] 
 
 ## #has_/text_of_/abstract 
 

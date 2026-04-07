@@ -199,7 +199,7 @@ dv_has_:
 
 # [[Women's_suffrage]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Women's_suffrage,205204]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Women's_suffrage,205204|WD~Women's_suffrage,205204]]  
 
 ## #has_/text_of_/abstract 
 

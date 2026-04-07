@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Obsidian]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Obsidian,53754]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Obsidian,53754|WD~Obsidian,53754]] 
 
 ## #has_/text_of_/abstract 
 

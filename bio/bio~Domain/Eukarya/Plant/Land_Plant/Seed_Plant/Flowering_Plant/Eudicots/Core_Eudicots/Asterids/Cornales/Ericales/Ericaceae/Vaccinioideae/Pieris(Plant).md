@@ -117,7 +117,7 @@ dv_has_:
 
 # [[Pieris(Plant)]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pieris,997547]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pieris,997547|WD~Pieris,997547]] 
 
 ## #has_/text_of_/abstract 
 

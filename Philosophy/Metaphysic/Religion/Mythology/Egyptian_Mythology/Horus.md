@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Horus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Horus,84122]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Horus,84122|WD~Horus,84122]] 
 
 ## #has_/text_of_/abstract 
 

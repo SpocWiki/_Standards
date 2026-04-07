@@ -279,7 +279,7 @@ dv_has_:
 
 # [[Porridge]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Porridge,186817]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Porridge,186817|WD~Porridge,186817]] 
 
 ## #has_/text_of_/abstract 
 

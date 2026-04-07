@@ -252,7 +252,7 @@ dv_has_:
 
 # [[Revolution]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Revolution,10931]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Revolution,10931|WD~Revolution,10931]] 
 
 ## #has_/text_of_/abstract 
 

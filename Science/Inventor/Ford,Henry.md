@@ -289,7 +289,7 @@ dv_has_:
 
 # [[Ford,Henry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Henry_Ford,8768]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Henry_Ford,8768|WD~Henry_Ford,8768]] 
 
 ## #has_/text_of_/abstract 
 

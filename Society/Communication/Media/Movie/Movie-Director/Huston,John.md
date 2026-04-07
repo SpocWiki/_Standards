@@ -208,7 +208,7 @@ dv_has_:
 
 # [[Huston,John]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Huston,51575]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Huston,51575|WD~John_Huston,51575]] 
 
 ## #has_/text_of_/abstract 
 

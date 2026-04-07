@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Legume]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Legume,145909]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Legume,145909|WD~Legume,145909]] 
 
 ## #has_/text_of_/abstract 
 

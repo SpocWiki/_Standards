@@ -256,7 +256,7 @@ dv_has_:
 
 # [[Mitchell,Joni]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Joni_Mitchell,205721]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Joni_Mitchell,205721|WD~Joni_Mitchell,205721]] 
 
 ## #has_/text_of_/abstract 
 

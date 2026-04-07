@@ -189,7 +189,7 @@ dv_has_:
 
 # [[Osmosis]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Osmosis,54237]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Osmosis,54237|WD~Osmosis,54237]] 
 
 ## #has_/text_of_/abstract 
 

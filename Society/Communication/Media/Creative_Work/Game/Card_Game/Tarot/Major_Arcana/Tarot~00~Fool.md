@@ -3,11 +3,11 @@ aliases:
   - Narr
 has_id_wikidata: Q608392
 Unicode_character: 🃠
-instance_of: "[[_Standards/WikiData/WD~trump,727407]]"
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357]]"
+instance_of: "[[_Standards/WikiData/WD~trump,727407|WD~trump,727407]]"
+part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
 depicts:
-  - "[[_Standards/WikiData/WD~fool,17105495]]"
-  - "[[_Standards/WikiData/WD~man,8441]]"
+  - "[[_Standards/WikiData/WD~fool,17105495|WD~fool,17105495]]"
+  - "[[_Standards/WikiData/WD~man,8441|WD~man,8441]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Excuse.png
 Commons_category: Fool (Major Arcana)
 ---
@@ -15,7 +15,7 @@ Commons_category: Fool (Major Arcana)
 # [[Tarot~00~Fool]] 🃠 
 
 #is_/same_as :: [[WD~The_Fool_(tarot_card),608392]] 
-#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~22~Fool.jpg]] 
+#has_/image :: ![[../../../../../../../../../assets/Society/Tarot/Trumps/Tarot~22~Fool.jpg|Tarot~22~Fool.jpg]] 
 
 
 ## #has_/text_of_/abstract 

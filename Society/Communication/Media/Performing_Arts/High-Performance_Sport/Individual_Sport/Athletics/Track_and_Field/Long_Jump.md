@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Long_Jump]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Long_jump,170737]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Long_jump,170737|WD~Long_jump,170737]] 
 
 ## #has_/text_of_/abstract 
 

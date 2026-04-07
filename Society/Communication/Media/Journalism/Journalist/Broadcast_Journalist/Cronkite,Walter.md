@@ -154,7 +154,7 @@ dv_has_:
 
 # [[Cronkite,Walter]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Walter_Cronkite,31073]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Walter_Cronkite,31073|WD~Walter_Cronkite,31073]] 
 
 ## #has_/text_of_/abstract 
 

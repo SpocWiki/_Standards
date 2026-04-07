@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Moral_Hazard]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Moral_hazard,44454]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Moral_hazard,44454|WD~Moral_hazard,44454]] 
 
 ## #has_/text_of_/abstract 
 

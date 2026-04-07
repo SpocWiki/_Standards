@@ -150,7 +150,7 @@ Unicode_character: 🧭
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orienteering,29358]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orienteering,29358|WD~Orienteering,29358]] 
 
 ## #has_/text_of_/abstract 
 

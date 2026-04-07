@@ -134,7 +134,7 @@ dv_has_:
 # [[Reductionism]] 
 
 #has_/complement :: [[Holism]]   
-#is_/same_as :: [[_Standards/WikiData/WD~Reductionism,206829]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Reductionism,206829|WD~Reductionism,206829]] 
 
 ## #has_/text_of_/abstract 
 

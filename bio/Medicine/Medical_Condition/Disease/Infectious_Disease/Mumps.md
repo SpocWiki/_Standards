@@ -255,7 +255,7 @@ dv_has_:
 
 # [[Mumps]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mumps,176741]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mumps,176741|WD~Mumps,176741]] 
 
 ## #has_/text_of_/abstract 
 

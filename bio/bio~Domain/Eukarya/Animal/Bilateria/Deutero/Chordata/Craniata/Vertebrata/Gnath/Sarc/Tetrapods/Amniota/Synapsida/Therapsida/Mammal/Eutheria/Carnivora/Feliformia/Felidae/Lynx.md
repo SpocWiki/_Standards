@@ -35,7 +35,7 @@ dv_has_:
 
 # [[Lynx]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lynx,677014]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lynx,677014|WD~Lynx,677014]] 
 
 ## #has_/text_of_/abstract 
 

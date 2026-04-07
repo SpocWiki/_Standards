@@ -128,7 +128,7 @@ dv_has_:
     stopped: -145.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Late_Jurassic,499312]]'
+  - '[[_Standards/WikiData/WD~Late_Jurassic,499312|WD~Late_Jurassic,499312]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch-162~Late_Jurassic]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.public|Epoch-162~Late_Jurassic.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.internal|Epoch-162~Late_Jurassic.internal]]'
@@ -140,7 +140,7 @@ dv_has_duration_years: 1.650e+7
 dv_has_previous_item: '[[Epoch-175~Middle_Jurassic]]'
 dv_has_next_item: '[[../Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch~1~Early_Cretaceous]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Late_Jurassic,499312]]'
+- '[[_Standards/WikiData/WD~Late_Jurassic,499312|WD~Late_Jurassic,499312]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch-162~Late_Jurassic]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.public|Epoch-162~Late_Jurassic.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.internal|Epoch-162~Late_Jurassic.internal]]'
@@ -178,7 +178,7 @@ dv_has_text_of_color: 0xB3E3EE
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Late_Jurassic,499312]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Late_Jurassic,499312|WD~Late_Jurassic,499312]] 
 
 A time period from 161.5 to 145 million years ago. 
 

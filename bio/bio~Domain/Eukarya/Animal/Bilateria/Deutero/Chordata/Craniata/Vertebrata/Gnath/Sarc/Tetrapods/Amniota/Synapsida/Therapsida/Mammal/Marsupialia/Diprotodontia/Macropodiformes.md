@@ -83,7 +83,7 @@ dv_has_:
 
 # [[Macropodiformes]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Macropodiformes,691795]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Macropodiformes,691795|WD~Macropodiformes,691795]] 
 
 ## #has_/text_of_/abstract 
 

@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Rømer,Ole]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ole_Rømer,160187]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ole_Rømer,160187|WD~Ole_Rømer,160187]] 
 
 ## #has_/text_of_/abstract 
 

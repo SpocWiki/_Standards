@@ -209,7 +209,7 @@ dv_has_:
 
 # [[Semantics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Semantics,39645]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Semantics,39645|WD~Semantics,39645]] 
 
 ## #has_/text_of_/abstract 
 

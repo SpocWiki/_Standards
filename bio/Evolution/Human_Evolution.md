@@ -231,7 +231,7 @@ dv_has_:
 
 # [[Human_Evolution]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Human_evolution,83944]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Human_evolution,83944|WD~Human_evolution,83944]] 
 
 ## #has_/text_of_/abstract 
 

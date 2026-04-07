@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Hebrew_Calendar]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hebrew_calendar,44722]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hebrew_calendar,44722|WD~Hebrew_calendar,44722]] 
 
 ## #has_/text_of_/abstract 
 

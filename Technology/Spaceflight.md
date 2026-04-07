@@ -235,7 +235,7 @@ dv_has_:
 
 # [[Spaceflight]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Space_exploration,180046]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Space_exploration,180046|WD~Space_exploration,180046]] 
 #is_/same_as :: [[../WikiData/WD~Spaceflight,5916|WD~Spaceflight,5916]]  
 ## #has_/text_of_/abstract 
 

@@ -246,7 +246,7 @@ dv_has_:
 
 # [[Wyler,William]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~William_Wyler,51495]] 
+#is_/same_as :: [[_Standards/WikiData/WD~William_Wyler,51495|WD~William_Wyler,51495]] 
 
 ## #has_/text_of_/abstract 
 

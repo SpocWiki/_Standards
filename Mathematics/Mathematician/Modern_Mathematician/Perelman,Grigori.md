@@ -202,7 +202,7 @@ dv_has_:
 
 # [[Perelman,Grigori]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Grigori_Perelman,117346]]
+#is_/same_as :: [[_Standards/WikiData/WD~Grigori_Perelman,117346|WD~Grigori_Perelman,117346]]
 
 ## #has_/text_of_/abstract 
 

@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Schell,Maximilian]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Maximilian_Schell,153018]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Maximilian_Schell,153018|WD~Maximilian_Schell,153018]] 
 
 ## #has_/text_of_/abstract 
 

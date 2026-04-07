@@ -56,7 +56,7 @@ Commons_gallery: Milankovitch cycles
 Commons_category: Milankovitch cycles
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Milankovitch_cycle,Q211446]]'
+  - '[[_Standards/WikiData/WD~Milankovitch_cycle,Q211446|WD~Milankovitch_cycle,Q211446]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle|Milankovitch_Cycle]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.public|Milankovitch_Cycle.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.internal|Milankovitch_Cycle.internal]]'
@@ -65,7 +65,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.personal|Milankovitch_Cycle.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.secret|Milankovitch_Cycle.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Milankovitch_cycle,Q211446]]'
+- '[[_Standards/WikiData/WD~Milankovitch_cycle,Q211446|WD~Milankovitch_cycle,Q211446]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle|Milankovitch_Cycle]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.public|Milankovitch_Cycle.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.internal|Milankovitch_Cycle.internal]]'
@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Milankovitch_Cycle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Milankovitch_cycle,Q211446]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Milankovitch_cycle,Q211446|WD~Milankovitch_cycle,Q211446]]  
 
 ## #has_/text_of_/abstract 
 

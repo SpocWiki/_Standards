@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Human_Sexuality]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Human_sexuality,154136]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Human_sexuality,154136|WD~Human_sexuality,154136]] 
 
 ## #has_/text_of_/abstract 
 

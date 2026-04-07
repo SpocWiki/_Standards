@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Autoimmune_Disease]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Autoimmune_disease,8084905]]
+#is_/same_as :: [[_Standards/WikiData/WD~Autoimmune_disease,8084905|WD~Autoimmune_disease,8084905]]
 
 ## #has_/text_of_/abstract 
 

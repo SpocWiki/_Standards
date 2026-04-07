@@ -114,7 +114,7 @@ dv_has_:
 
 # [[Newcomen,Thomas]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Thomas_Newcomen,193042]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Thomas_Newcomen,193042|WD~Thomas_Newcomen,193042]] 
 #has_/created :: [[../../Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Newcomen_Steam_Engine|Newcomen_Steam_Engine]] 
 
 ## #has_/text_of_/abstract 

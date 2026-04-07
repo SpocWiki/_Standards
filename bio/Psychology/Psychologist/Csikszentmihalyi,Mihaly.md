@@ -36,44 +36,44 @@ name_in_native_language: Mihaly Csikszentmihalyi
 birth_name: Csíkszentmihályi Mihály Robert
 date_of_birth: 1934-09-29T00:00:00Z
 date_of_death: 2021-10-20T00:00:00Z
-educated_at: "[[_Standards/WikiData/WD~University_of_Chicago,131252]]"
+educated_at: "[[_Standards/WikiData/WD~University_of_Chicago,131252|WD~University_of_Chicago,131252]]"
 employer:
-  - "[[_Standards/WikiData/WD~University_of_Chicago,131252]]"
-  - "[[_Standards/WikiData/WD~Claremont_Graduate_University,50015]]"
+  - "[[_Standards/WikiData/WD~University_of_Chicago,131252|WD~University_of_Chicago,131252]]"
+  - "[[_Standards/WikiData/WD~Claremont_Graduate_University,50015|WD~Claremont_Graduate_University,50015]]"
 occupation:
-  - "[[_Standards/WikiData/WD~psychologist,212980]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
+  - "[[_Standards/WikiData/WD~psychologist,212980|WD~psychologist,212980]]"
+  - "[[_Standards/WikiData/WD~university_teacher,1622272|WD~university_teacher,1622272]]"
+  - "[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]"
 member_of:
-  - "[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-place_of_death: "[[_Standards/WikiData/WD~Claremont,506398]]"
+  - "[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058|WD~Hungarian_Academy_of_Sciences,265058]]"
+  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303|WD~American_Academy_of_Arts_and_Sciences,463303]]"
+place_of_death: "[[_Standards/WikiData/WD~Claremont,506398|WD~Claremont,506398]]"
 field_of_work:
-  - "[[_Standards/WikiData/WD~positive_psychology,718809]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
+  - "[[_Standards/WikiData/WD~positive_psychology,718809|WD~positive_psychology,718809]]"
+  - "[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]"
+  - "[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]"
 award_received:
-  - "[[_Standards/WikiData/WD~Széchenyi_Prize,1301832]]"
-  - "[[_Standards/WikiData/WD~James_McKeen_Cattell_Fellow_Award,17113252]]"
+  - "[[_Standards/WikiData/WD~Széchenyi_Prize,1301832|WD~Széchenyi_Prize,1301832]]"
+  - "[[_Standards/WikiData/WD~James_McKeen_Cattell_Fellow_Award,17113252|WD~James_McKeen_Cattell_Fellow_Award,17113252]]"
 given_name:
-  - "[[_Standards/WikiData/WD~Robert,4927937]]"
-  - "[[_Standards/WikiData/WD~Mihály,6845358]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - "[[_Standards/WikiData/WD~Robert,4927937|WD~Robert,4927937]]"
+  - "[[_Standards/WikiData/WD~Mihály,6845358|WD~Mihály,6845358]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]"
 child:
-  - "[[_Standards/WikiData/WD~Christopher_Csíkszentmihályi,22073790]]"
-  - "[[_Standards/WikiData/WD~Mark_Csikszentmihalyi,113790737]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-family_name: "[[_Standards/WikiData/WD~Csíkszentmihályi,135989756]]"
+  - "[[_Standards/WikiData/WD~Christopher_Csíkszentmihályi,22073790|WD~Christopher_Csíkszentmihályi,22073790]]"
+  - "[[_Standards/WikiData/WD~Mark_Csikszentmihalyi,113790737|WD~Mark_Csikszentmihalyi,113790737]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]"
+family_name: "[[_Standards/WikiData/WD~Csíkszentmihályi,135989756|WD~Csíkszentmihályi,135989756]]"
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Hungarian,9067]]"
-place_of_birth: "[[_Standards/WikiData/WD~Rijeka,1647]]"
-native_language: "[[_Standards/WikiData/WD~Hungarian,9067]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - "[[_Standards/WikiData/WD~Italian,652|WD~Italian,652]]"
+  - "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Hungarian,9067|WD~Hungarian,9067]]"
+place_of_birth: "[[_Standards/WikiData/WD~Rijeka,1647|WD~Rijeka,1647]]"
+native_language: "[[_Standards/WikiData/WD~Hungarian,9067|WD~Hungarian,9067]]"
+instance_of: "[[_Standards/WikiData/WD~human,5|WD~human,5]]"
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mih%C3%A1ly%20Cs%C3%ADkszentmih%C3%A1lyi.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mihaly%20Csikszentmihalyi.jpg
 IPA_transcription: "[ˈmiha:j ˈt͡ʃi:ksɛntmiha:ji]"
@@ -83,7 +83,7 @@ Libris_URI: 64jllgkq2s3xp18
 
 # [[Csikszentmihalyi,Mihaly]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mihaly Csikszentmihalyi,316147]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mihaly Csikszentmihalyi,316147|WD~Mihaly Csikszentmihalyi,316147]] 
 
 ## #has_/text_of_/abstract 
 

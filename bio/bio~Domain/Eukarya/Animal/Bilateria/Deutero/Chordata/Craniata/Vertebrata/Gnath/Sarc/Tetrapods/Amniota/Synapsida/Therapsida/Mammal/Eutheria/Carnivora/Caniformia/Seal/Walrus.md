@@ -255,7 +255,7 @@ dv_has_:
 
 # [[Walrus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Odobenus_rosmarus,40994]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Odobenus_rosmarus,40994|WD~Odobenus_rosmarus,40994]] 
 
 ## #has_/text_of_/abstract 
 

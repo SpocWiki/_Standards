@@ -156,7 +156,7 @@ dv_has_:
 
 # [[Pre-Raphaelite_Brotherhood]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pre-Raphaelite_Brotherhood,184814]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pre-Raphaelite_Brotherhood,184814|WD~Pre-Raphaelite_Brotherhood,184814]] 
 
 ## #has_/text_of_/abstract 
 

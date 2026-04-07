@@ -231,7 +231,7 @@ dv_has_:
 # [[Presidential_System]] 
 
 #is_/different_from :: [[Parliamentary_System|Parliamentary_System]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Presidential_system,49892]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Presidential_system,49892|WD~Presidential_system,49892]] 
 
 ## #has_/text_of_/abstract 
 

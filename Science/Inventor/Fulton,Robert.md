@@ -169,7 +169,7 @@ dv_has_:
 
 # [[Fulton,Robert]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Robert_Fulton,192496]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Fulton,192496|WD~Robert_Fulton,192496]] 
 
 ## #has_/text_of_/abstract 
 

@@ -143,7 +143,7 @@ dv_has_:
 
 # [[Ambiguity]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ambiguity,1140419]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ambiguity,1140419|WD~Ambiguity,1140419]] 
 
 ## #has_/text_of_/abstract 
 

@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Precession]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Precession,104225]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Precession,104225|WD~Precession,104225]] 
 
 ## #has_/text_of_/abstract 
 

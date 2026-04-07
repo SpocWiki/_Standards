@@ -254,7 +254,7 @@ dv_has_:
 
 # [[Justice]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Justice,13189320]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Justice,13189320|WD~Justice,13189320]] 
 
 ## #has_/text_of_/abstract 
 

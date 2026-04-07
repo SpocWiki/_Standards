@@ -207,7 +207,7 @@ dv_has_:
 
 # [[Mercenary]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mercenary,178197]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mercenary,178197|WD~Mercenary,178197]] 
 
 ## #has_/text_of_/abstract 
 

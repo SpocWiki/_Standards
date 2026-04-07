@@ -209,7 +209,7 @@ dv_has_:
 
 # [[Pronghorn]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pronghorn,187943]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pronghorn,187943|WD~Pronghorn,187943]] 
 
 ## #has_/text_of_/abstract 
 

@@ -167,7 +167,7 @@ dv_has_:
 
 # [[Wave_Interference]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Interference,136980]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Interference,136980|WD~Interference,136980]] 
 
 ## #has_/text_of_/abstract 
 

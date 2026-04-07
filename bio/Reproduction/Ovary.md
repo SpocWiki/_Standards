@@ -241,7 +241,7 @@ dv_has_:
 
 # [[Ovary]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ovary,9631]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ovary,9631|WD~Ovary,9631]] 
 
 ## #has_/text_of_/abstract 
 

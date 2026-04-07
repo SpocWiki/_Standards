@@ -224,7 +224,7 @@ Unicode_character: 🤥
 
 # [[Lie]] 🤥 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lie,4925193]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lie,4925193|WD~Lie,4925193]] 
 
 ## #has_/text_of_/abstract 
 

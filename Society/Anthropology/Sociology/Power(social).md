@@ -232,7 +232,7 @@ dv_has_:
 
 # [[Power(social)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Power,25107]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Power,25107|WD~Power,25107]] 
 
 ## #has_/text_of_/abstract 
 

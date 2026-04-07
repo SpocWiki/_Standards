@@ -96,7 +96,7 @@ aliases:
 
 # [[Laser_Cutting]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Laser_cutting,593053]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Laser_cutting,593053|WD~Laser_cutting,593053]] 
 
 ## #has_/text_of_/abstract 
 

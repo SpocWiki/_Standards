@@ -91,7 +91,7 @@ date_of_official_opening:
 - 2013-02-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~The_Shard,18536]]'
+  - '[[_Standards/WikiData/WD~The_Shard,18536|WD~The_Shard,18536]]'
   - '[[/_Standards/Earth/Geography/Place/Shard,London|Shard,London]]'
   - '[[/_public/Earth/Geography/Place/Shard,London.public|Shard,London.public]]'
   - '[[/_internal/Earth/Geography/Place/Shard,London.internal|Shard,London.internal]]'
@@ -100,7 +100,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Shard,London.personal|Shard,London.personal]]'
   - '[[/_secret/Earth/Geography/Place/Shard,London.secret|Shard,London.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~The_Shard,18536]]'
+- '[[_Standards/WikiData/WD~The_Shard,18536|WD~The_Shard,18536]]'
 - '[[/_Standards/Earth/Geography/Place/Shard,London|Shard,London]]'
 - '[[/_public/Earth/Geography/Place/Shard,London.public|Shard,London.public]]'
 - '[[/_internal/Earth/Geography/Place/Shard,London.internal|Shard,London.internal]]'
@@ -184,7 +184,7 @@ dv_has_:
 
 ![[../../../assets/Pasted image 20250817173659.png|Pasted image 20250817173659.png]] 
 By © <a href="//commons.wikimedia.org/wiki/User:Colin" title="User:Colin">User:Colin</a>&nbsp;/&nbsp;<a href="//commons.wikimedia.org/wiki/Main_Page" title="Main Page">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=172503960">Link</a> 
-#is_/same_as :: [[_Standards/WikiData/WD~The_Shard,18536]] 
+#is_/same_as :: [[_Standards/WikiData/WD~The_Shard,18536|WD~The_Shard,18536]] 
 
 ## #has_/text_of_/abstract 
 

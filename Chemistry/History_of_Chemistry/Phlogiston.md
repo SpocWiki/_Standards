@@ -130,7 +130,7 @@ dv_has_:
 
 # [[Phlogiston]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Phlogiston,193353]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Phlogiston,193353|WD~Phlogiston,193353]] 
 
 ## #has_/text_of_/abstract 
 

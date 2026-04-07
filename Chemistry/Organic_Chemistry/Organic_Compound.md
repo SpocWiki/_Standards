@@ -258,7 +258,7 @@ dv_has_:
 
 # [[Organic_Compound]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Organic_compound,174211]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Organic_compound,174211|WD~Organic_compound,174211]] 
 
 ## #has_/text_of_/abstract 
 

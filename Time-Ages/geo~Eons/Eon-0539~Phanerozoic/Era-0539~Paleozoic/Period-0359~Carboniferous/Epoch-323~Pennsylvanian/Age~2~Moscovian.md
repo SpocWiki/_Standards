@@ -134,7 +134,7 @@ dv_has_:
     - -307.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Moscovian,1179385]]'
+  - '[[_Standards/WikiData/WD~Moscovian,1179385|WD~Moscovian,1179385]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian|Age~2~Moscovian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.public|Age~2~Moscovian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.internal|Age~2~Moscovian.internal]]'
@@ -152,7 +152,7 @@ dv_has_duration_years: NaN
 dv_has_previous_item: '[[Age~1~Bashkirian]]'
 dv_has_next_item: '[[Age~3~Kasimovian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Moscovian,1179385]]'
+- '[[_Standards/WikiData/WD~Moscovian,1179385|WD~Moscovian,1179385]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian|Age~2~Moscovian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.public|Age~2~Moscovian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.internal|Age~2~Moscovian.internal]]'
@@ -199,7 +199,7 @@ dv_has_name_abbreviated: c5
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Moscovian,1179385]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Moscovian,1179385|WD~Moscovian,1179385]]  
 
 A time period from 315.2 to 307.0 million years ago. 
 

@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Loch_Ness_Monster]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Loch_Ness_Monster,49658]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Loch_Ness_Monster,49658|WD~Loch_Ness_Monster,49658]] 
 
 ## #has_/text_of_/abstract 
 

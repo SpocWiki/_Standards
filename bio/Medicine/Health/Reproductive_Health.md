@@ -135,7 +135,7 @@ dv_has_:
 
 # [[Reproductive_Health]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Reproductive_health,1981388]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Reproductive_health,1981388|WD~Reproductive_health,1981388]] 
 
 ## #has_/text_of_/abstract 
 

@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Porpoise]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Porpoise,10867]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Porpoise,10867|WD~Porpoise,10867]] 
 
 ## #has_/text_of_/abstract 
 

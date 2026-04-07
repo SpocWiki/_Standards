@@ -157,7 +157,7 @@ dv_has_:
 
 # [[Psidium]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Psidium,320179]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Psidium,320179|WD~Psidium,320179]] 
 
 ## #has_/text_of_/abstract 
 

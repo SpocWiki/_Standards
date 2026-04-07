@@ -143,7 +143,7 @@ dv_has_:
 
 # [[London_Times]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~The_Times,50008]] 
+#is_/same_as :: [[_Standards/WikiData/WD~The_Times,50008|WD~The_Times,50008]] 
 
 ## #has_/text_of_/abstract 
 

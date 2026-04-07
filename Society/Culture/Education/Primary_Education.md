@@ -191,7 +191,7 @@ dv_has_:
 
 # [[Primary_Education]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Primary_education,975085]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Primary_education,975085|WD~Primary_education,975085]] 
 
 ## #has_/text_of_/abstract 
 

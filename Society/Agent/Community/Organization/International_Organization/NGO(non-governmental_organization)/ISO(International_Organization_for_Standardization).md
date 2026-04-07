@@ -319,7 +319,7 @@ dv_has_:
 
 # [[ISO(International_Organization_for_Standardization)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Organization_for_Standardization,15028|WD~International_Organization_for_Standardization,15028]] 
 
 ## #has_/text_of_/abstract 
 

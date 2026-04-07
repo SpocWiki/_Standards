@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Mosaic]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mosaic,133067]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mosaic,133067|WD~Mosaic,133067]] 
 
 ## #has_/text_of_/abstract 
 

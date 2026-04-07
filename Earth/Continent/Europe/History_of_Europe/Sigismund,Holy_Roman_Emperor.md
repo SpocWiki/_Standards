@@ -249,7 +249,7 @@ dv_has_:
 
 # [[Sigismund,Holy_Roman_Emperor]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sigismund,57124]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sigismund,57124|WD~Sigismund,57124]] 
 
 ## #has_/text_of_/abstract 
 

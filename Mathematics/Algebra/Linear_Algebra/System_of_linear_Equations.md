@@ -163,7 +163,7 @@ dv_has_:
 
 # [[System_of_linear_Equations]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~System_of_linear_equations,11203]] 
+#is_/same_as :: [[_Standards/WikiData/WD~System_of_linear_equations,11203|WD~System_of_linear_equations,11203]] 
 
 ## #has_/text_of_/abstract 
 

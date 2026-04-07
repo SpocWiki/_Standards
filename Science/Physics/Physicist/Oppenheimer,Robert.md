@@ -326,7 +326,7 @@ dv_has_:
 
 # [[Oppenheimer,Robert]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Robert_Oppenheimer,132537]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Oppenheimer,132537|WD~Robert_Oppenheimer,132537]] 
 
 ## #has_/text_of_/abstract 
 

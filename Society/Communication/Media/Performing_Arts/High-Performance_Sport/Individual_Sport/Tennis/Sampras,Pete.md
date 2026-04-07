@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Sampras,Pete]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pete_Sampras,9446]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pete_Sampras,9446|WD~Pete_Sampras,9446]] 
 
 ## #has_/text_of_/abstract 
 

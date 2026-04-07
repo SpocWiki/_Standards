@@ -178,7 +178,7 @@ dv_has_:
 
 # [[Horn(Instrument)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Horn,163759]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Horn,163759|WD~Horn,163759]] 
 
 ## #has_/text_of_/abstract 
 

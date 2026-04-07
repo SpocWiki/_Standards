@@ -279,7 +279,7 @@ dv_has_:
 
 # [[Mekong_River]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mekong_River,41179]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mekong_River,41179|WD~Mekong_River,41179]] 
 
 ## #has_/text_of_/abstract 
 

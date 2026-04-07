@@ -159,7 +159,7 @@ dv_has_:
 
 # [[LCD(Liquid-Crystal_Display)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Liquid-crystal_display,83341]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Liquid-crystal_display,83341|WD~Liquid-crystal_display,83341]] 
 
 ## #has_/text_of_/abstract 
 

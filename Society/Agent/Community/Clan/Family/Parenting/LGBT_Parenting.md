@@ -114,7 +114,7 @@ dv_has_:
 
 # [[LGBT_Parenting]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~LGBT_parenting,46839]] 
+#is_/same_as :: [[_Standards/WikiData/WD~LGBT_parenting,46839|WD~LGBT_parenting,46839]] 
 
 ## #has_/text_of_/abstract 
 

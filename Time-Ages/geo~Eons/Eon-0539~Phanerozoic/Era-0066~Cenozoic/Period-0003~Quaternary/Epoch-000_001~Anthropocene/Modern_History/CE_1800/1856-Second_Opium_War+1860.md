@@ -191,7 +191,7 @@ dv_has_:
 
 # [[1856-Second_Opium_War+1860]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Second_Opium_War,418151]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Second_Opium_War,418151|WD~Second_Opium_War,418151]] 
 
 ## #has_/text_of_/abstract 
 

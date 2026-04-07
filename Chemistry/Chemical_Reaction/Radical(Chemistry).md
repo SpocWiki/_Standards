@@ -53,7 +53,7 @@ different_from:
 - '[[_Standards/WikiData/WD~moiety,23005640|WD~moiety,23005640]]'
 has_part_s_: '[[_Standards/WikiData/WD~unpaired_electron,374793|WD~unpaired_electron,374793]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 has_characteristic: '[[_Standards/WikiData/WD~reactivity,778774|WD~reactivity,778774]]'
@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Radical(Chemistry)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Radical,185056]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Radical,185056|WD~Radical,185056]] 
 
 ## #has_/text_of_/abstract 
 

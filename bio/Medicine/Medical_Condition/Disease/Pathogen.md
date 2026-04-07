@@ -201,7 +201,7 @@ dv_has_:
 
 # [[Pathogen]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pathogen,170065]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pathogen,170065|WD~Pathogen,170065]] 
 
 ## #has_/text_of_/abstract 
 

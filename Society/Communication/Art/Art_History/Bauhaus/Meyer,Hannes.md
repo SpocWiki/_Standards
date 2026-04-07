@@ -98,7 +98,7 @@ dv_has_:
 
 # [[Meyer,Hannes]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hannes_Meyer,123948]]
+#is_/same_as :: [[_Standards/WikiData/WD~Hannes_Meyer,123948|WD~Hannes_Meyer,123948]]
 
 ## #has_/text_of_/abstract 
 

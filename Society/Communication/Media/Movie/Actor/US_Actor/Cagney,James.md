@@ -199,7 +199,7 @@ dv_has_:
 
 # [[Cagney,James]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~James_Cagney,94041]] 
+#is_/same_as :: [[_Standards/WikiData/WD~James_Cagney,94041|WD~James_Cagney,94041]] 
 
 ## #has_/text_of_/abstract 
 

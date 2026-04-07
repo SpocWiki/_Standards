@@ -288,7 +288,7 @@ dv_has_:
 # [[Thomson,J.J.]] 
 
 #is_a :: [[../Physicist|Physicist]] 
-#is_/same_as :: [[_Standards/WikiData/WD~J._J._Thomson,47285]] 
+#is_/same_as :: [[_Standards/WikiData/WD~J._J._Thomson,47285|WD~J._J._Thomson,47285]] 
 
 ## #has_/text_of_/abstract 
 

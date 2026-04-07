@@ -254,7 +254,7 @@ dv_has_:
 
 # [[Invertebrate]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Invertebrate,43806]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Invertebrate,43806|WD~Invertebrate,43806]] 
 
 ## #has_/text_of_/abstract 
 

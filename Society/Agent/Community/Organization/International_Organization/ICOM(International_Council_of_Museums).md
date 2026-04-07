@@ -156,7 +156,7 @@ dv_has_:
 
 # [[ICOM(International_Council_of_Museums)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Council_of_Museums,653054]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Council_of_Museums,653054|WD~International_Council_of_Museums,653054]] 
 
 ## #has_/text_of_/abstract  
 

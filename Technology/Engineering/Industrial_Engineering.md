@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Industrial_Engineering]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Industrial_engineering_and_management,6314146]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Industrial_engineering_and_management,6314146|WD~Industrial_engineering_and_management,6314146]]  
 #is_/same_as :: [[../../WikiData/WD~Industrial_engineering,4489420|WD~Industrial_engineering,4489420]]  
 
 ## #has_/text_of_/abstract 

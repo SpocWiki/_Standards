@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Pyrolysis]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pyrolysis,176848]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pyrolysis,176848|WD~Pyrolysis,176848]] 
 
 ## #has_/text_of_/abstract 
 

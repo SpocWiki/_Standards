@@ -217,7 +217,7 @@ dv_has_:
 
 # [[Lorenz,Konrad]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Konrad_Lorenz,78496]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Konrad_Lorenz,78496|WD~Konrad_Lorenz,78496]] 
 
 ## #has_/text_of_/abstract 
 

@@ -327,7 +327,7 @@ dv_has_:
 
 # [[Black_Pepper]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Piper_nigrum,43084]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Piper_nigrum,43084|WD~Piper_nigrum,43084]] 
 
 ## #has_/text_of_/abstract 
 

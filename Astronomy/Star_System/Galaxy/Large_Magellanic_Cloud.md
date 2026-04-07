@@ -238,7 +238,7 @@ dv_has_:
 
 # [[Large_Magellanic_Cloud]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Large_Magellanic_Cloud,49957]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Large_Magellanic_Cloud,49957|WD~Large_Magellanic_Cloud,49957]] 
 
 ## #has_/text_of_/abstract 
 

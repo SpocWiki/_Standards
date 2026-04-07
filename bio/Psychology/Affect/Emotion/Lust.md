@@ -151,7 +151,7 @@ dv_has_:
 # [[Lust]] 
 
 #is_/similar_to :: [[Passion]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Lust,6498477]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lust,6498477|WD~Lust,6498477]] 
 
 ## #has_/text_of_/abstract 
 

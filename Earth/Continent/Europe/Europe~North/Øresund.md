@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Øresund]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Øresund,104662]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Øresund,104662|WD~Øresund,104662]] 
 
 ## #has_/map  
 

@@ -342,7 +342,7 @@ dv_has_:
 
 # [[Leprosy]] 
 
-#is_/same_as  :: [[_Standards/WikiData/WD~Leprosy,36956]] 
+#is_/same_as  :: [[_Standards/WikiData/WD~Leprosy,36956|WD~Leprosy,36956]] 
 
 ## #has_/text_of_/abstract 
 

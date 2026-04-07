@@ -180,7 +180,7 @@ dv_has_:
 
 # [[Altman,Robert]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Robert_Altman,55163]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Altman,55163|WD~Robert_Altman,55163]] 
 
 ## #has_/text_of_/abstract 
 

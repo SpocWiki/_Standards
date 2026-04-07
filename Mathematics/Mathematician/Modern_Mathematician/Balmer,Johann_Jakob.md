@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Balmer,Johann_Jakob]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Johann_Jakob_Balmer,122986]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Johann_Jakob_Balmer,122986|WD~Johann_Jakob_Balmer,122986]] 
 
 ## #has_/text_of_/abstract 
 

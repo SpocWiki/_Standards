@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Flaubert,Gustave]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Gustave_Flaubert,43444]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gustave_Flaubert,43444|WD~Gustave_Flaubert,43444]] 
 
 ## #has_/text_of_/abstract 
 

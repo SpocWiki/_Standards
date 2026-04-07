@@ -89,7 +89,7 @@ dv_has_:
 
 # [[Neo-Expressionism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Neo-expressionism,589655]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Neo-expressionism,589655|WD~Neo-expressionism,589655]] 
 
 ## #has_/text_of_/abstract 
 

@@ -244,7 +244,7 @@ dv_has_:
 
 # [[Stone,Oliver]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oliver_Stone,179497]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oliver_Stone,179497|WD~Oliver_Stone,179497]] 
 
 ## #has_/text_of_/abstract 
 

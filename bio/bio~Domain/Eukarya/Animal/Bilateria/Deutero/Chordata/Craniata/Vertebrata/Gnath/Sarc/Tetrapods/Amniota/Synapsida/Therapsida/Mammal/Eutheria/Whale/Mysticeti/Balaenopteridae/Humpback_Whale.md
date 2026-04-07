@@ -237,7 +237,7 @@ dv_has_:
 
 # [[Humpback_Whale]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Humpback_Whale,132905]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Humpback_Whale,132905|WD~Humpback_Whale,132905]] 
 
 ## #has_/text_of_/abstract 
 

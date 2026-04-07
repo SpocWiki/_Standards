@@ -254,7 +254,7 @@ dv_has_:
 
 # [[Boyle,Robert]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Robert_Boyle,43393]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Robert_Boyle,43393|WD~Robert_Boyle,43393]] 
 
 ## #has_/text_of_/abstract 
 

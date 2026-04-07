@@ -471,7 +471,7 @@ dv_has_:
 
 # [[Peanut]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peanut,37383]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peanut,37383|WD~Peanut,37383]] 
 
 ## #has_/text_of_/abstract 
 

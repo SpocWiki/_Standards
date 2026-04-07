@@ -145,7 +145,7 @@ dv_has_:
 
 # [[Libido]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Libido,178066]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Libido,178066|WD~Libido,178066]] 
 
 ## #has_/text_of_/abstract 
 

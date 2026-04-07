@@ -145,7 +145,7 @@ dv_has_:
 
 # [[Simons,Jim]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jim_Simons,560847]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jim_Simons,560847|WD~Jim_Simons,560847]] 
 
 ## #has_/text_of_/abstract 
 

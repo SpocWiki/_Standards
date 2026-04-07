@@ -459,7 +459,7 @@ dv_has_:
 
 # [[Old_Testament]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Old_Testament,19786]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Old_Testament,19786|WD~Old_Testament,19786]] 
 
 ## #has_/text_of_/abstract 
 

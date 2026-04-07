@@ -183,7 +183,7 @@ dv_has_:
 
 # [[Medes]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Medes,8735]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Medes,8735|WD~Medes,8735]] 
 
 ## #has_/text_of_/abstract 
 

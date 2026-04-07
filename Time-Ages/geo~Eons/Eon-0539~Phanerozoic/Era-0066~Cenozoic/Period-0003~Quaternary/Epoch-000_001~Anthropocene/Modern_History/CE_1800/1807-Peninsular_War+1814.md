@@ -203,7 +203,7 @@ dv_has_:
 
 # [[1807-Peninsular_War+1814]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peninsular_War,152499]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peninsular_War,152499|WD~Peninsular_War,152499]] 
 
 ## #has_/text_of_/abstract 
 

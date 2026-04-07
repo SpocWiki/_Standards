@@ -73,7 +73,7 @@ dv_has_:
 
 # [[Sleight_of_Hand]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sleight_of_hand,350834]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sleight_of_hand,350834|WD~Sleight_of_hand,350834]] 
 
 ## #has_/text_of_/abstract 
 

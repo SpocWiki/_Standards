@@ -123,7 +123,7 @@ dv_has_:
 
 # [[Llanos]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Llanos,141501]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Llanos,141501|WD~Llanos,141501]] 
 
 ## #has_/map 
 

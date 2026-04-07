@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Mood]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mood,331769]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mood,331769|WD~Mood,331769]] 
 #is_/similar_to :: [[Affect/Emotion|Emotion]] 
 #is_/similar_to :: [[Affect/Emotion|Emotion]] 
 

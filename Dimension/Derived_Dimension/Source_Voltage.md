@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Source_Voltage]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Source_voltage,185329]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Source_voltage,185329|WD~Source_voltage,185329]] 
 #is_/similar_to :: [[Dim~Voltage|Dim~Voltage]] 
 
 ## #has_/text_of_/abstract 

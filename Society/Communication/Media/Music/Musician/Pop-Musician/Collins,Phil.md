@@ -294,7 +294,7 @@ dv_has_:
 
 # [[Collins,Phil]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Phil_Collins,144622]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Phil_Collins,144622|WD~Phil_Collins,144622]] 
 
 ## #has_/text_of_/abstract 
 

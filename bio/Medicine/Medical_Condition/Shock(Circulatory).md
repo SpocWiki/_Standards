@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Shock(Circulatory)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Shock,178061]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Shock,178061|WD~Shock,178061]] 
 
 ## #has_/text_of_/abstract 
 

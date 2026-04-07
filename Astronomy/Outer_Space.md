@@ -334,7 +334,7 @@ dv_has_:
 
 # [[Outer_Space]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Outer_space,4169]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Outer_space,4169|WD~Outer_space,4169]] 
 
 ## #has_/text_of_/abstract 
 

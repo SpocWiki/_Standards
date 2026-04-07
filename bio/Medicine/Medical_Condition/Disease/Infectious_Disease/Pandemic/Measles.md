@@ -339,7 +339,7 @@ dv_has_:
 
 # [[Measles]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Measles,79793]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Measles,79793|WD~Measles,79793]] 
 
 ## #has_/text_of_/abstract 
 

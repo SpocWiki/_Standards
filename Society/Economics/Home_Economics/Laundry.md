@@ -149,7 +149,7 @@ dv_has_:
 
 # [[Laundry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Laundering,852100]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Laundering,852100|WD~Laundering,852100]] 
 
 ## #has_/text_of_/abstract 
 

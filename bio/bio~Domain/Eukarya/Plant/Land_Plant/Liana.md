@@ -141,7 +141,7 @@ dv_has_:
 
 # [[Liana]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Liana,14079]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Liana,14079|WD~Liana,14079]] 
 
 ## #has_/text_of_/abstract 
 

@@ -61,7 +61,7 @@ dv_has_:
 
 # [[Dudeism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Dudeism,2671570]]
+#is_/same_as :: [[_Standards/WikiData/WD~Dudeism,2671570|WD~Dudeism,2671570]]
 
 ## #has_/text_of_/abstract 
 

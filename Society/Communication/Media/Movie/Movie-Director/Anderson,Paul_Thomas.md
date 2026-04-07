@@ -181,7 +181,7 @@ name_in_native_language: Paul Thomas Anderson
 
 # [[Anderson,Paul_Thomas]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paul_Thomas_Anderson,25132]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Paul_Thomas_Anderson,25132|WD~Paul_Thomas_Anderson,25132]] 
 
 ## #has_/text_of_/abstract 
 

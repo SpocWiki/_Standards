@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Post-Impressionism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Post-impressionism,166713]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Post-impressionism,166713|WD~Post-impressionism,166713]] 
 
 ## #has_/text_of_/abstract 
 

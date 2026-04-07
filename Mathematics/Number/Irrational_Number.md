@@ -218,7 +218,7 @@ dv_has_:
 # [[Irrational_Number]] 
 
 #has_/complement :: [[Rational_Number]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Irrational_number,607728]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Irrational_number,607728|WD~Irrational_number,607728]] 
 
 ## #has_/text_of_/abstract 
 

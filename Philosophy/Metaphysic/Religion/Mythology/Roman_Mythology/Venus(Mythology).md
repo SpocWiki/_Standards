@@ -253,7 +253,7 @@ dv_has_:
 # [[Venus(Mythology)]] 
 
 #is_/similar_to :: [[../Greek_Mythology/Aphrodite|Aphrodite]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Venus,47652]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Venus,47652|WD~Venus,47652]] 
 
 ## #has_/text_of_/abstract 
 

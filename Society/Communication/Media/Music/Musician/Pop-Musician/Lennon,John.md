@@ -392,7 +392,7 @@ dv_has_:
 # [[Lennon,John]] 
 
 #is_/part_of_ :: [[Music~Band/Beatles|Beatles]] 
-#is_/same_as :: [[_Standards/WikiData/WD~John_Lennon,1203]] 
+#is_/same_as :: [[_Standards/WikiData/WD~John_Lennon,1203|WD~John_Lennon,1203]] 
 
 ## #has_/text_of_/abstract 
 

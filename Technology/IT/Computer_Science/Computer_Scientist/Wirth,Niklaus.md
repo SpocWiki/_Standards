@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Wirth,Niklaus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Niklaus_Wirth,92604]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Niklaus_Wirth,92604|WD~Niklaus_Wirth,92604]] 
 
 ## #has_/text_of_/abstract 
 

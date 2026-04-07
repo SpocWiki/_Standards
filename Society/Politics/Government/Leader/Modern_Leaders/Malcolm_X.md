@@ -233,7 +233,7 @@ dv_has_:
 
 # [[Malcolm_X]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Malcolm_X,43303]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Malcolm_X,43303|WD~Malcolm_X,43303]] 
 
 ## #has_/text_of_/abstract 
 

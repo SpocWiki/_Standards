@@ -188,7 +188,7 @@ dv_has_:
 
 # [[Haiku]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Haiku,37707]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Haiku,37707|WD~Haiku,37707]] 
 #is_/similar_to :: [[Senryū]]
 
 ## #has_/text_of_/abstract 

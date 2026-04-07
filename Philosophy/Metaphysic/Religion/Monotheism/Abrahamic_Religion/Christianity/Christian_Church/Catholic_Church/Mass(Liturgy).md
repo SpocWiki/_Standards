@@ -119,7 +119,7 @@ dv_has_:
 
 # [[Mass(Liturgy)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mass,217295]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mass,217295|WD~Mass,217295]] 
 
 ## #has_/text_of_/abstract 
 

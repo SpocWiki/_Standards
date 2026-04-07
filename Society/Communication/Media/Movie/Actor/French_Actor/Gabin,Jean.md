@@ -198,7 +198,7 @@ dv_has_:
 
 # [[Gabin,Jean]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jean_Gabin,23842]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jean_Gabin,23842|WD~Jean_Gabin,23842]] 
 
 ## #has_/text_of_/abstract 
 

@@ -230,7 +230,7 @@ dv_has_:
 
 # [[Public_Administration]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Public_administration,31728]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Public_administration,31728|WD~Public_administration,31728]] 
 
 ## #has_/text_of_/abstract 
 

@@ -212,7 +212,7 @@ Unicode_character: 🪜
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ladder,168639]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ladder,168639|WD~Ladder,168639]] 
 
 ## #has_/text_of_/abstract 
 

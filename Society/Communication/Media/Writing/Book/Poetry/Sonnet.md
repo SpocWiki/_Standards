@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Sonnet]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sonnet,80056]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sonnet,80056|WD~Sonnet,80056]] 
 
 ## #has_/text_of_/abstract 
 

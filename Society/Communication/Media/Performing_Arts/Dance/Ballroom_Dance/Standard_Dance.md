@@ -29,7 +29,7 @@ dv_has_:
 
 # [[Standard_Dance]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Standard_Dance,11900060]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Standard_Dance,11900060|WD~Standard_Dance,11900060]] 
 
 
 ## Confidential Links & Embeds: 

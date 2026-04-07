@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Velociraptor]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Velociraptor,14403]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Velociraptor,14403|WD~Velociraptor,14403]] 
 
 ## #has_/text_of_/abstract 
 

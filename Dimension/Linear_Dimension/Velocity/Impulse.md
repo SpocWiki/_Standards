@@ -1,7 +1,7 @@
 
 # [[Impulse]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Impulse,837940]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Impulse,837940|WD~Impulse,837940]] 
 
 ## #has_/text_of_/abstract 
 

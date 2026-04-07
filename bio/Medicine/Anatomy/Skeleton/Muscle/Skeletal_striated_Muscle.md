@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Skeletal_striated_Muscle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Skeletal_striated_muscle,1048687]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Skeletal_striated_muscle,1048687|WD~Skeletal_striated_muscle,1048687]] 
 
 ## #has_/text_of_/abstract 
 

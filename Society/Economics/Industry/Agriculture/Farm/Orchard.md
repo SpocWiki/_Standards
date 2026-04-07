@@ -167,7 +167,7 @@ dv_has_:
 
 # [[Orchard]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orchard,236371]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orchard,236371|WD~Orchard,236371]] 
 
 ## #has_/text_of_/abstract 
 

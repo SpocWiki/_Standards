@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Klimke,Reiner]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Reiner_Klimke,467676]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Reiner_Klimke,467676|WD~Reiner_Klimke,467676]] 
 
 ## #has_/text_of_/abstract 
 

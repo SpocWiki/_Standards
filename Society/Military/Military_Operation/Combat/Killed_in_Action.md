@@ -204,7 +204,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Killed_in_action,210392]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Killed_in_action,210392|WD~Killed_in_action,210392]] 
 
 ## #has_/text_of_/abstract 
 

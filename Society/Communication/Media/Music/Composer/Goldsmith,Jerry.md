@@ -171,7 +171,7 @@ dv_has_:
 
 # [[Goldsmith,Jerry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jerry_Goldsmith,235077]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jerry_Goldsmith,235077|WD~Jerry_Goldsmith,235077]] 
 
 ## #has_/text_of_/abstract 
 

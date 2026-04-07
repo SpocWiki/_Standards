@@ -202,7 +202,7 @@ dv_has_:
 
 # [[Kilby,Jack]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jack_Kilby,182031]]
+#is_/same_as :: [[_Standards/WikiData/WD~Jack_Kilby,182031|WD~Jack_Kilby,182031]]
 
 ## #has_/text_of_/abstract 
 

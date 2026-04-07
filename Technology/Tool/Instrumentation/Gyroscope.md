@@ -183,7 +183,7 @@ dv_has_:
 
 # [[Gyroscope]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Gyroscope,483400]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gyroscope,483400|WD~Gyroscope,483400]] 
 
 ## #has_/text_of_/abstract 
 

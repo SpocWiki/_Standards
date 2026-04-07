@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Plant_Stem]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Plant_stem,134267]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Plant_stem,134267|WD~Plant_stem,134267]] 
 
 ## #has_/text_of_/abstract 
 

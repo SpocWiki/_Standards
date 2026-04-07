@@ -273,7 +273,7 @@ dv_has_:
 
 # [[Unit~Mile]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mile,253276]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mile,253276|WD~Mile,253276]] 
 
 ## #has_/text_of_/abstract 
 

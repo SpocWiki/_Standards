@@ -124,7 +124,7 @@ dv_has_:
 
 # [[Omega_Centauri]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Omega_Centauri,14275]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Omega_Centauri,14275|WD~Omega_Centauri,14275]] 
 
 ## #has_/text_of_/abstract 
 

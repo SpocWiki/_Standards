@@ -108,7 +108,7 @@ dv_has_:
 
 # [[Vitamin_B3]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_B3,30715691]]
+#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_B3,30715691|WD~Vitamin_B3,30715691]]
 
 ## #has_/text_of_/abstract 
 

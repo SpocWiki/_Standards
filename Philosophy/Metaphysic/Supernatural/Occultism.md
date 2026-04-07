@@ -186,7 +186,7 @@ dv_has_:
 
 # [[Occultism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Occultism,178934]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Occultism,178934|WD~Occultism,178934]] 
 
 ## #has_/text_of_/abstract 
 

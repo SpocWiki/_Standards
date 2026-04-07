@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Noh]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Noh,226887]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Noh,226887|WD~Noh,226887]] 
 
 ## #has_/text_of_/abstract 
 

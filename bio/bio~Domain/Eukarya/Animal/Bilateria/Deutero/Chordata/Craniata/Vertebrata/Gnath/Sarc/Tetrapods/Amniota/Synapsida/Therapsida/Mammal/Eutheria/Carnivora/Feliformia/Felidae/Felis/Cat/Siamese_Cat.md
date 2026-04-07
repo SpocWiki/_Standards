@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Siamese_Cat]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Siamese,42604]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Siamese,42604|WD~Siamese,42604]] 
 
 ## #has_/text_of_/abstract 
 

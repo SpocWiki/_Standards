@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~The_Gherkin]]'
+  - '[[_Standards/WikiData/WD~The_Gherkin|WD~The_Gherkin]]'
   - '[[/_Standards/Earth/Geography/Place/Gherkin,London|Gherkin,London]]'
   - '[[/_public/Earth/Geography/Place/Gherkin,London.public|Gherkin,London.public]]'
   - '[[/_internal/Earth/Geography/Place/Gherkin,London.internal|Gherkin,London.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Gherkin,London.personal|Gherkin,London.personal]]'
   - '[[/_secret/Earth/Geography/Place/Gherkin,London.secret|Gherkin,London.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~The_Gherkin]]'
+- '[[_Standards/WikiData/WD~The_Gherkin|WD~The_Gherkin]]'
 - '[[/_Standards/Earth/Geography/Place/Gherkin,London|Gherkin,London]]'
 - '[[/_public/Earth/Geography/Place/Gherkin,London.public|Gherkin,London.public]]'
 - '[[/_internal/Earth/Geography/Place/Gherkin,London.internal|Gherkin,London.internal]]'
@@ -156,7 +156,7 @@ dv_has_:
 
 ![[../../../assets/Gherkin,London.png|Gherkin,London.png]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~The_Gherkin]] 
+#is_/same_as :: [[_Standards/WikiData/WD~The_Gherkin|WD~The_Gherkin]] 
 
 ## #has_/text_of_/abstract 
 

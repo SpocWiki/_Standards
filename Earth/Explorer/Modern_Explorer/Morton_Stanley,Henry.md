@@ -213,7 +213,7 @@ dv_has_:
 
 # [[Morton_Stanley,Henry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Henry_Morton_Stanley,171421]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Henry_Morton_Stanley,171421|WD~Henry_Morton_Stanley,171421]] 
 
 ## #has_/text_of_/abstract 
 

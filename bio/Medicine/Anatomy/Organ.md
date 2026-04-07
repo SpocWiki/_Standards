@@ -288,7 +288,7 @@ dv_has_:
 
 # [[Organ]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Organ,712378]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Organ,712378|WD~Organ,712378]] 
 
 ## #has_/text_of_/abstract 
 

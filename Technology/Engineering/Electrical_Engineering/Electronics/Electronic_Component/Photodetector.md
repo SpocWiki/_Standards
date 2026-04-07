@@ -104,7 +104,7 @@ dv_has_:
 
 # [[Photodetector]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Photodetector,210765]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Photodetector,210765|WD~Photodetector,210765]] 
 
 ## #has_/text_of_/abstract 
 

@@ -186,7 +186,7 @@ dv_is_same_as:
 # [[Propene]] 
 
 has_formula_structural = `=this.dv_has_formula_structural` 
-#is_/same_as :: [[_Standards/WikiData/WD~Propylene,151324]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Propylene,151324|WD~Propylene,151324]] 
 
 ## #has_/text_of_/abstract 
 

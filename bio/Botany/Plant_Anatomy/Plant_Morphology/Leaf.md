@@ -372,7 +372,7 @@ dv_has_:
 
 # [[Leaf]] 🍃 🍂 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Leaf,33971]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leaf,33971|WD~Leaf,33971]] 
 
 ## #has_/text_of_/abstract 
 

@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Incest]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Incest,127683]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Incest,127683|WD~Incest,127683]] 
 
 ## #has_/text_of_/abstract 
 

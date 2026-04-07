@@ -141,7 +141,7 @@ dv_has_:
 
 # [[Gray(Radiation)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Gray,190095]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gray,190095|WD~Gray,190095]] 
 ## #has_/text_of_/abstract 
 
 > The gray (symbol: Gy) is the unit of ionizing radiation dose 

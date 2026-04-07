@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Ulyanov,Mikhail]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mikhail_Ulyanov,376335]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mikhail_Ulyanov,376335|WD~Mikhail_Ulyanov,376335]] 
 
 ## #has_/text_of_/abstract 
 

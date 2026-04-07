@@ -213,7 +213,7 @@ dv_has_:
 
 # [[Premier_League]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Premier_League,9448]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Premier_League,9448|WD~Premier_League,9448]] 
 
 ## #has_/text_of_/abstract 
 

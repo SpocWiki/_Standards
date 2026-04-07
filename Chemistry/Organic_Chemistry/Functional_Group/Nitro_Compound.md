@@ -59,8 +59,8 @@ UMLS_CUI: C0028138
 MeSH_tree_code: D02.640
 Commons_category: Nitro compounds
 dv_is_:
-  same_as: '[[_Standards/WikiData/WD~Nitro_Compound,422772]]'
-dv_is_same_as: '[[_Standards/WikiData/WD~Nitro_Compound,422772]]'
+  same_as: '[[_Standards/WikiData/WD~Nitro_Compound,422772|WD~Nitro_Compound,422772]]'
+dv_is_same_as: '[[_Standards/WikiData/WD~Nitro_Compound,422772|WD~Nitro_Compound,422772]]'
 dv_has_:
   name_:
     af: Nitroverbindings

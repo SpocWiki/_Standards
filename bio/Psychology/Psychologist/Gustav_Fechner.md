@@ -168,7 +168,7 @@ dv_has_:
 
 # [[Gustav_Fechner]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Gustav_Fechner,76881]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gustav_Fechner,76881|WD~Gustav_Fechner,76881]] 
 
 ## #has_/text_of_/abstract 
 

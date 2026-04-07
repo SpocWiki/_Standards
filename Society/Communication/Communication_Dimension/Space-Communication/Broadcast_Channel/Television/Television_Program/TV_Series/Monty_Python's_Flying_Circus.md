@@ -114,7 +114,7 @@ dv_has_:
 
 # [[Monty_Python's_Flying_Circus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,16401]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,16401|WD~Monty_Python's_Flying_Circus,16401]] 
 
 ## #has_/text_of_/abstract 
 

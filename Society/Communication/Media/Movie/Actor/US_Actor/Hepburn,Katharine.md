@@ -237,7 +237,7 @@ dv_has_:
 
 # [[Hepburn,Katharine]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Katharine_Hepburn,56016]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Katharine_Hepburn,56016|WD~Katharine_Hepburn,56016]] 
 
 ## #has_/text_of_/abstract 
 

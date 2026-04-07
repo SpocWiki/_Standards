@@ -158,7 +158,7 @@ aliases:
 
 # [[Phylogenetics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Phylogenetics,171184]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Phylogenetics,171184|WD~Phylogenetics,171184]] 
 
 ## #has_/text_of_/abstract 
 

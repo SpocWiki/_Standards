@@ -173,7 +173,7 @@ dv_has_:
 
 # [[LangFamily-Kra-Dai]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kra–Dai,34171]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kra–Dai,34171|WD~Kra–Dai,34171]] 
 
 ## #has_/text_of_/abstract 
 

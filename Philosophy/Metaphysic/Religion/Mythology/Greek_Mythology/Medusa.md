@@ -190,7 +190,7 @@ dv_has_:
 
 # [[Medusa]] 
 
-#is_/same_as ::  [[_Standards/WikiData/WD~Medusa,160730]] 
+#is_/same_as ::  [[_Standards/WikiData/WD~Medusa,160730|WD~Medusa,160730]] 
 
 ## #has_/text_of_/abstract 
 

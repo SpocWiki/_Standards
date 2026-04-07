@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Military_Organization]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Military_organization,15627509]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Military_organization,15627509|WD~Military_organization,15627509]] 
 
 ## #has_/text_of_/abstract 
 

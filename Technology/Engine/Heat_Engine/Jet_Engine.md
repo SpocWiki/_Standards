@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Jet_Engine]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jet_engine,178777]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jet_engine,178777|WD~Jet_engine,178777]] 
 
 ## #has_/text_of_/abstract 
 

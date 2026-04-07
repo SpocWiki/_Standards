@@ -256,7 +256,7 @@ dv_has_:
 
 # [[Conrad,Joseph]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Joseph_Conrad,82925]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Joseph_Conrad,82925|WD~Joseph_Conrad,82925]] 
 
 ## #has_/text_of_/abstract 
 

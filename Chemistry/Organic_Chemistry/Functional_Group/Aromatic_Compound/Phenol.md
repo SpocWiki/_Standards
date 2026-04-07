@@ -327,7 +327,7 @@ dv_is_same_as:
 # [[Phenol]] 
 
 has_formula_sum = `=this.dv_has_formula_sum` 
-#is_/same_as :: [[_Standards/WikiData/WD~Phenol,130336]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Phenol,130336|WD~Phenol,130336]] 
 
 #has_/formula_/structural 
 ```

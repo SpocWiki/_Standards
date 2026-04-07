@@ -57,7 +57,7 @@ aliases:
 
 # [[Uber]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Uber,]]
+#is_/same_as :: [[_Standards/WikiData/WD~Uber,|WD~Uber,]]
 
 ## #has_/text_of_/abstract 
 

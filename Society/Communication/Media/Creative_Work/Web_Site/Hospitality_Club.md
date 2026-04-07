@@ -57,7 +57,7 @@ dv_has_:
 
 # [[Hospitality_Club]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hospitality_Club,744312]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hospitality_Club,744312|WD~Hospitality_Club,744312]] 
 
 ## #has_/text_of_/abstract 
 

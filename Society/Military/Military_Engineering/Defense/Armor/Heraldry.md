@@ -193,7 +193,7 @@ dv_has_:
 # [[Heraldry]] 
 
 #is_/similar_to :: [[Vexillology]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Heraldry,18336]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heraldry,18336|WD~Heraldry,18336]] 
 
 ## #has_/text_of_/abstract 
 

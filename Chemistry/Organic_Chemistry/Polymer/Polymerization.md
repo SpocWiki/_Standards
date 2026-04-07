@@ -167,7 +167,7 @@ dv_has_:
 
 # [[Polymerization]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polymerization,181898]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polymerization,181898|WD~Polymerization,181898]] 
 
 ## #has_/text_of_/abstract 
 

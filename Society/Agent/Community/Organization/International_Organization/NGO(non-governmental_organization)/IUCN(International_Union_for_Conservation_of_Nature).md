@@ -312,7 +312,7 @@ dv_has_:
 
 # [[IUCN(International_Union_for_Conservation_of_Nature)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Union_for_Conservation_of_Nature,48268]] 
+#is_/same_as :: [[_Standards/WikiData/WD~International_Union_for_Conservation_of_Nature,48268|WD~International_Union_for_Conservation_of_Nature,48268]] 
 
 ## #has_/text_of_/abstract 
 

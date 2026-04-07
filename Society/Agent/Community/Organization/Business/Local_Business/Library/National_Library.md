@@ -191,7 +191,7 @@ dv_has_:
 
 # [[National_Library]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~National_library,22806]] 
+#is_/same_as :: [[_Standards/WikiData/WD~National_library,22806|WD~National_library,22806]] 
 
 ## #has_/text_of_/abstract 
 

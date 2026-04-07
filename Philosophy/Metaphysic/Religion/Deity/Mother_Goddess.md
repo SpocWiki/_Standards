@@ -135,7 +135,7 @@ dv_has_:
 
 # [[Mother_Goddess]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mother_goddess,334486]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mother_goddess,334486|WD~Mother_goddess,334486]] 
 
 ## #has_/text_of_/abstract 
 

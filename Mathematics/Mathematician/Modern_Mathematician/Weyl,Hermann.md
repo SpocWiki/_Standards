@@ -267,7 +267,7 @@ dv_has_:
 
 # [[Weyl,Hermann]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hermann_Weyl,71029]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hermann_Weyl,71029|WD~Hermann_Weyl,71029]] 
 
 ## #has_/text_of_/abstract 
 

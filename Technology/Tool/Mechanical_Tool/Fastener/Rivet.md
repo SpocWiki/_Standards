@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Rivet]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rivet,212500]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Rivet,212500|WD~Rivet,212500]] 
 
 ## #has_/text_of_/abstract 
 

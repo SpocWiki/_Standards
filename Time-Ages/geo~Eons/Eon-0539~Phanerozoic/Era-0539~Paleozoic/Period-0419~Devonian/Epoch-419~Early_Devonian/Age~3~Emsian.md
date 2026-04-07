@@ -90,7 +90,7 @@ dv_has_:
     stopped: -393.3e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Emsian,576789]]'
+  - '[[_Standards/WikiData/WD~Emsian,576789|WD~Emsian,576789]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.public|Age~3~Emsian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.internal|Age~3~Emsian.internal]]'
@@ -102,7 +102,7 @@ dv_has_duration_years: 1.430e+7
 dv_has_previous_item: '[[Age~2~Pragian]]'
 dv_has_next_item: '[[../Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Emsian,576789]]'
+- '[[_Standards/WikiData/WD~Emsian,576789|WD~Emsian,576789]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.public|Age~3~Emsian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.internal|Age~3~Emsian.internal]]'
@@ -144,7 +144,7 @@ dv_has_text_of_color: 0xE5D075
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Emsian,576789]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Emsian,576789|WD~Emsian,576789]] 
 
 A time period from 407.6 to 393.3 million years ago. 
 

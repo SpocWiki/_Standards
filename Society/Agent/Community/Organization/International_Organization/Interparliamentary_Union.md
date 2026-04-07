@@ -138,7 +138,7 @@ dv_has_:
 
 # [[Interparliamentary_Union]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Interparliamentary_Union,176815]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Interparliamentary_Union,176815|WD~Interparliamentary_Union,176815]] 
 
 ## #has_/text_of_/abstract 
 

@@ -322,7 +322,7 @@ dv_has_:
 
 # [[Feynman,Richard]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Richard_Feynman,39246]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Richard_Feynman,39246|WD~Richard_Feynman,39246]] 
 ## #has_/text_of_/abstract 
 
 > Richard Phillips Feynman (May 11, 1918 – February 15, 1988) 

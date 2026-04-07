@@ -147,7 +147,7 @@ dv_has_:
 
 # [[Peking_Opera]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peking_opera,335101]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Peking_opera,335101|WD~Peking_opera,335101]] 
 
 ## #has_/text_of_/abstract 
 

@@ -332,7 +332,7 @@ dv_has_:
 
 # [[Nepali]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nepali,33823]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nepali,33823|WD~Nepali,33823]] 
 
 ## #has_/text_of_/abstract 
 

@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Michelson–Morley_Experiment]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Michelson–Morley_experiment,154844]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Michelson–Morley_experiment,154844|WD~Michelson–Morley_experiment,154844]] 
 
 ## #has_/text_of_/abstract 
 

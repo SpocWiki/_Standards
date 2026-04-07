@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Tata,Jamsetji]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jamsetji_Tata,320109]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jamsetji_Tata,320109|WD~Jamsetji_Tata,320109]] 
 
 ## #has_/text_of_/abstract 
 

@@ -140,7 +140,7 @@ dv_has_:
 
 # [[Hotspot(Geology)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hotspot,105131]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hotspot,105131|WD~Hotspot,105131]] 
 
 ## #has_/text_of_/abstract 
 

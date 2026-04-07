@@ -240,7 +240,7 @@ dv_has_:
 
 # [[Perfume]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Perfume,131746]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Perfume,131746|WD~Perfume,131746]] 
 
 ## #has_/text_of_/abstract 
 

@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Poisson_Distribution]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Poisson_distribution,205692]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Poisson_distribution,205692|WD~Poisson_distribution,205692]] 
 
 ## #has_/text_of_/abstract 
 

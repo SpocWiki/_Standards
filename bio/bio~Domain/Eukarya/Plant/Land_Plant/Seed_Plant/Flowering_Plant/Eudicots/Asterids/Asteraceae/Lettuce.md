@@ -313,7 +313,7 @@ dv_has_:
 
 # [[Lettuce]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lettuce,83193]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lettuce,83193|WD~Lettuce,83193]] 
 
 ## #has_/text_of_/abstract 
 

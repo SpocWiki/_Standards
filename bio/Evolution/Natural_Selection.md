@@ -237,7 +237,7 @@ dv_has_:
 
 # [[Natural_Selection]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Natural_selection,43478]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Natural_selection,43478|WD~Natural_selection,43478]] 
 
 ## #has_/text_of_/abstract 
 

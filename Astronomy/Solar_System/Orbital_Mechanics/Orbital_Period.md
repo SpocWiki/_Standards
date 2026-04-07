@@ -193,7 +193,7 @@ dv_has_:
 
 # [[Orbital_Period]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orbital_period,37640]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Orbital_period,37640|WD~Orbital_period,37640]] 
 
 ## #has_/text_of_/abstract 
 

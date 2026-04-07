@@ -241,7 +241,7 @@ dv_has_:
 
 # [[Abdul-Jabbar,Kareem]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kareem_Abdul-Jabbar,179051]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kareem_Abdul-Jabbar,179051|WD~Kareem_Abdul-Jabbar,179051]] 
 
 ## #has_/text_of_/abstract 
 

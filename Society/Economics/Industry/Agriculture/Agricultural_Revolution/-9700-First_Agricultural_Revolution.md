@@ -204,7 +204,7 @@ dv_has_:
 
 #is_/part_of :: [[../Agricultural_Revolution|Agricultural_Revolution]] 
 #is_/different_from :: [[1670-Second_Agricultural_Revolution+1850]]  
-#is_/same_as :: [[_Standards/WikiData/WD~Neolithic_revolution,180548]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Neolithic_revolution,180548|WD~Neolithic_revolution,180548]] 
 
 (circa 10,000 BC), the prehistoric transition from hunting and gathering 
 to settled agriculture (also known as the Neolithic Revolution).

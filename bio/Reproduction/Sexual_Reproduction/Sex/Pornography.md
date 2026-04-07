@@ -253,7 +253,7 @@ dv_has_:
 
 # [[Pornography]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pornography,291]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pornography,291|WD~Pornography,291]] 
 
 ## #has_/text_of_/abstract 
 

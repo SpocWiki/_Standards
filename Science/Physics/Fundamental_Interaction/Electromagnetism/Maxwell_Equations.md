@@ -213,7 +213,7 @@ dv_has_:
 
 # [[Maxwell_Equations]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Maxwell's_equations,51501]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Maxwell's_equations,51501|WD~Maxwell's_equations,51501]] 
 
 ## #has_/text_of_/abstract 
 

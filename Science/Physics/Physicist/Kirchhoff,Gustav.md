@@ -256,7 +256,7 @@ dv_has_:
 
 # [[Kirchhoff,Gustav]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Gustav_Kirchhoff,60052]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gustav_Kirchhoff,60052|WD~Gustav_Kirchhoff,60052]] 
 
 ## #has_/text_of_/abstract 
 

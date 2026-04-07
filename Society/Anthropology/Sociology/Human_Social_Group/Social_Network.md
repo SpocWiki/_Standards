@@ -194,7 +194,7 @@ dv_has_:
 
 # [[Social_Network]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Social_network,2715623]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Social_network,2715623|WD~Social_network,2715623]] 
 
 ## #has_/text_of_/abstract 
 

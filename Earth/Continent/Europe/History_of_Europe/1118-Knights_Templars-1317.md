@@ -261,7 +261,7 @@ dv_has_:
 
 # [[1118-Knights_Templars-1317]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Knights_Templars,41300]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Knights_Templars,41300|WD~Knights_Templars,41300]] 
 
 ## #has_/text_of_/abstract 
 

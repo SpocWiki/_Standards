@@ -199,7 +199,7 @@ dv_has_:
 
 # [[Kebab]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kebab,179010]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kebab,179010|WD~Kebab,179010]] 
 
 ## #has_/text_of_/abstract 
 

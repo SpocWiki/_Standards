@@ -255,7 +255,7 @@ dv_has_:
 
 # [[Jurisprudence]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jurisprudence,4932206]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Jurisprudence,4932206|WD~Jurisprudence,4932206]] 
 
 ## #has_/text_of_/abstract 
 

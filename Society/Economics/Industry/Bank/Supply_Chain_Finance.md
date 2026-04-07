@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q7644556
-instance_of: "[[_Standards/WikiData/WD~Wikimedia_disambiguation_page,4167410]]"
+instance_of: "[[_Standards/WikiData/WD~Wikimedia_disambiguation_page,4167410|WD~Wikimedia_disambiguation_page,4167410]]"
 ---
 
 

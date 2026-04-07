@@ -133,7 +133,7 @@ dv_has_:
 
 # [[Ramanuja]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ramanuja,1741798]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ramanuja,1741798|WD~Ramanuja,1741798]] 
 
 ## #has_/text_of_/abstract 
 

@@ -123,7 +123,7 @@ dv_has_:
 
 # [[Land_Reclamation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Land_reclamation,1130322]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Land_reclamation,1130322|WD~Land_reclamation,1130322]] 
 
 ## #has_/text_of_/abstract 
 

@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Pump_Organ]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pump_organ,12460259]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pump_organ,12460259|WD~Pump_organ,12460259]] 
 
 ## #has_/text_of_/abstract 
 

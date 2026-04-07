@@ -83,7 +83,7 @@ dv_has_:
 
 # [[Operational_Level_of_War]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Operational_level_of_war,2287072]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Operational_level_of_war,2287072|WD~Operational_level_of_war,2287072]] 
 
 ## #has_/text_of_/abstract 
 

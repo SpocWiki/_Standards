@@ -189,7 +189,7 @@ dv_has_:
 
 # [[0800-Islamic_Golden_Age-1300]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Islamic_Golden_Age,745799]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Islamic_Golden_Age,745799|WD~Islamic_Golden_Age,745799]] 
 
 ## #has_/text_of_/abstract 
 

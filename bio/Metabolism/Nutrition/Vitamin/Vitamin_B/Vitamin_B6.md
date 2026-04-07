@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Vitamin_B6]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_B6,205130]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_B6,205130|WD~Vitamin_B6,205130]] 
 
 ## #has_/text_of_/abstract 
 

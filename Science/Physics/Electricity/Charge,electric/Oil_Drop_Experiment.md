@@ -91,7 +91,7 @@ dv_has_:
 
 # [[Oil_Drop_Experiment]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oil_drop_experiment,649803]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Oil_drop_experiment,649803|WD~Oil_drop_experiment,649803]] 
 
 ## #has_/text_of_/abstract 
 

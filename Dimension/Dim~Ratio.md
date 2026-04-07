@@ -164,7 +164,7 @@ dv_has_:
 # [[Dim~Ratio]] ∶ 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~ratio,3481047]] 
+#is_/same_as :: [[_Standards/WikiData/WD~ratio,3481047|WD~ratio,3481047]] 
 
 ## #has_/text_of_/abstract 
 

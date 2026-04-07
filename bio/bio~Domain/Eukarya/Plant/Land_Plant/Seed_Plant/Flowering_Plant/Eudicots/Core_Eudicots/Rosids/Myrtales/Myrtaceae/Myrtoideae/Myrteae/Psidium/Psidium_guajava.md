@@ -283,7 +283,7 @@ dv_has_:
 
 # [[Psidium_guajava]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Psidium_guajava,166843]]
+#is_/same_as :: [[_Standards/WikiData/WD~Psidium_guajava,166843|WD~Psidium_guajava,166843]]
 
 ## #has_/text_of_/abstract 
 

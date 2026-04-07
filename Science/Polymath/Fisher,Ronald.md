@@ -252,7 +252,7 @@ dv_has_:
 
 # [[Fisher,Ronald]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ronald_Fisher,216723]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ronald_Fisher,216723|WD~Ronald_Fisher,216723]] 
 
 ## #has_/text_of_/abstract 
 

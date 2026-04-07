@@ -50,7 +50,7 @@ dv_has_:
 
 # [[Cheek_to_Cheek]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Cheek_to_Cheek,3351931]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Cheek_to_Cheek,3351931|WD~Cheek_to_Cheek,3351931]] 
 
 ## #has_/text_of_/abstract 
 

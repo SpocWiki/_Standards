@@ -188,7 +188,7 @@ dv_has_:
 
 # [[Printing_Press]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Printing_press,144334]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Printing_press,144334|WD~Printing_press,144334]] 
 
 ## #has_/text_of_/abstract 
 

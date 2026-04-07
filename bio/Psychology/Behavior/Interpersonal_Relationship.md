@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Interpersonal_Relationship]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Interpersonal_relationship,223642]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Interpersonal_relationship,223642|WD~Interpersonal_relationship,223642]] 
 
 ## #has_/text_of_/abstract 
 

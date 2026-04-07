@@ -199,7 +199,7 @@ dv_has_:
 
 # [[Baryshnikov,Mikhail]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mikhail_Baryshnikov,295420]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mikhail_Baryshnikov,295420|WD~Mikhail_Baryshnikov,295420]] 
 
 ## #has_/text_of_/abstract 
 

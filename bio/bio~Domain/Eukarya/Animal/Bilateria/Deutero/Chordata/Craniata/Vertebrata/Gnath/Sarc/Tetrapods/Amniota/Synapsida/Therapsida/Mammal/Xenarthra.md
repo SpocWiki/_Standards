@@ -149,7 +149,7 @@ dv_has_:
 
 # [[Xenarthra]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Xenarthra,173612]]
+#is_/same_as :: [[_Standards/WikiData/WD~Xenarthra,173612|WD~Xenarthra,173612]]
 
 ## #has_/text_of_/abstract 
 

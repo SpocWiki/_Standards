@@ -330,7 +330,7 @@ dv_has_:
 
 # [[Mondrian,Piet]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Piet_Mondrian,151803]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Piet_Mondrian,151803|WD~Piet_Mondrian,151803]] 
 
 ## #has_/text_of_/abstract 
 

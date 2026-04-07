@@ -139,7 +139,7 @@ dv_has_:
   next_: {}
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Late_Middle_Ages,212976]]'
+  - '[[_Standards/WikiData/WD~Late_Middle_Ages,212976|WD~Late_Middle_Ages,212976]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages|1300-Late_Middle-Ages]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.public|1300-Late_Middle-Ages.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.internal|1300-Late_Middle-Ages.internal]]'
@@ -153,7 +153,7 @@ dv_has_duration_years: 200
 dv_has_duration_: P200Y
 dv_has_previous_item: '[[1000-High_Middle-Ages+1300]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Late_Middle_Ages,212976]]'
+- '[[_Standards/WikiData/WD~Late_Middle_Ages,212976|WD~Late_Middle_Ages,212976]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages|1300-Late_Middle-Ages]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.public|1300-Late_Middle-Ages.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.internal|1300-Late_Middle-Ages.internal]]'
@@ -175,7 +175,7 @@ dv_is_same_as:
 
  has_previous_item = `$= dv.current().dv_has_previous_item` 
 #has_/next_/item :: 
-#is_/same_as :: [[_Standards/WikiData/WD~Late_Middle_Ages,212976]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Late_Middle_Ages,212976|WD~Late_Middle_Ages,212976]] 
 
 ## #has_/text_of_/abstract 
 

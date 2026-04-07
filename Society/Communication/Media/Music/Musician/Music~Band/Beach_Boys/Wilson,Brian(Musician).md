@@ -153,7 +153,7 @@ dv_has_:
 
 # [[Wilson,Brian(Musician)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Brian_Wilson,313013]]
+#is_/same_as :: [[_Standards/WikiData/WD~Brian_Wilson,313013|WD~Brian_Wilson,313013]]
 
 ## #has_/text_of_/abstract 
 

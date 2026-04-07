@@ -205,7 +205,7 @@ dv_has_:
 
 # [[Geothermal_Energy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Geothermal_energy,127993]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Geothermal_energy,127993|WD~Geothermal_energy,127993]] 
 ## #has_/text_of_/abstract 
 
 > Geothermal energy is thermal energy extracted from the Earth's crust. 

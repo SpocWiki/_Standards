@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Pipe]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pipe,41551]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pipe,41551|WD~Pipe,41551]] 
 
 ## #has_/text_of_/abstract 
 

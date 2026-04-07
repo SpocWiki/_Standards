@@ -208,7 +208,7 @@ dv_has_:
 
 # [[0264-Punic_Wars-0146]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Punic_Wars,124988]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Punic_Wars,124988|WD~Punic_Wars,124988]] 
 
 ## #has_/text_of_/abstract 
 

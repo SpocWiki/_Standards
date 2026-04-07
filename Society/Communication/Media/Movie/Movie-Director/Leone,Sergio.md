@@ -65,7 +65,7 @@ date_of_birth: 1929-01-03T00:00:00Z
 
 # [[Leone,Sergio]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sergio_Leone,164562]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sergio_Leone,164562|WD~Sergio_Leone,164562]] 
 
 ## #has_/text_of_/abstract 
 

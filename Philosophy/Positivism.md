@@ -161,7 +161,7 @@ aliases:
 
 # [[Positivism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Positivism,131015]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Positivism,131015|WD~Positivism,131015]] 
 
 ## #has_/text_of_/abstract 
 

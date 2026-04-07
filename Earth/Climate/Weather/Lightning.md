@@ -396,7 +396,7 @@ dv_has_:
 # [[Lightning]] ⚡ 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lightning,33741]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lightning,33741|WD~Lightning,33741]] 
 
 ## #has_/text_of_/abstract 
 

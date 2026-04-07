@@ -262,7 +262,7 @@ dv_has_:
 
 # [[Folate]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Folate,127060]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Folate,127060|WD~Folate,127060]] 
 
 ## #has_/text_of_/abstract 
 

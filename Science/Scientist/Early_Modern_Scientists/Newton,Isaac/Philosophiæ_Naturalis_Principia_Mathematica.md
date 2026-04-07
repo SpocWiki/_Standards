@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Philosophiæ_Naturalis_Principia_Mathematica]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Philosophiæ_Naturalis_Principia_Mathematica,205921]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Philosophiæ_Naturalis_Principia_Mathematica,205921|WD~Philosophiæ_Naturalis_Principia_Mathematica,205921]] 
 
 ## #has_/text_of_/abstract 
 

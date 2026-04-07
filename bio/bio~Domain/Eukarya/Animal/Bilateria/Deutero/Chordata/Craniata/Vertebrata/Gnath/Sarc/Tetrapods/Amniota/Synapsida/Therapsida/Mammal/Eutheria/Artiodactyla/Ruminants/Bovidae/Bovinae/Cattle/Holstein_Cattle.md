@@ -131,7 +131,7 @@ dv_has_:
 
 # [[Holstein_Cattle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Holstein,58910]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Holstein,58910|WD~Holstein,58910]] 
 
 ## #has_/text_of_/abstract 
 

@@ -222,7 +222,7 @@ dv_has_:
 
 # [[River_Delta]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~River_delta,43197]] 
+#is_/same_as :: [[_Standards/WikiData/WD~River_delta,43197|WD~River_delta,43197]] 
 
 ## #has_/text_of_/abstract 
 

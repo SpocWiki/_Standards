@@ -297,7 +297,7 @@ dv_has_:
 
 # [[Klimt,Gustav]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Gustav_Klimt,34661]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gustav_Klimt,34661|WD~Gustav_Klimt,34661]] 
 
 ## #has_/text_of_/abstract 
 

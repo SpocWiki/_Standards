@@ -90,7 +90,7 @@ dv_has_:
     stopped: -192.9e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Sinemurian,911869]]'
+  - '[[_Standards/WikiData/WD~Sinemurian,911869|WD~Sinemurian,911869]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian|Age~2~Sinemurian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.public|Age~2~Sinemurian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.internal|Age~2~Sinemurian.internal]]'
@@ -102,7 +102,7 @@ dv_has_duration_years: 6.600e+6
 dv_has_previous_item: '[[Age~1~Hettangian]]'
 dv_has_next_item: '[[Age~3~Pliensbachian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Sinemurian,911869]]'
+- '[[_Standards/WikiData/WD~Sinemurian,911869|WD~Sinemurian,911869]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian|Age~2~Sinemurian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.public|Age~2~Sinemurian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.internal|Age~2~Sinemurian.internal]]'
@@ -146,7 +146,7 @@ A time period from 199.5 to 192.9 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Sinemurian,911869]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Sinemurian,911869|WD~Sinemurian,911869]] 
 
 ## #has_/text_of_/abstract 
 

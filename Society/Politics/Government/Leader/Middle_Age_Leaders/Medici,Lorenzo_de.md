@@ -223,7 +223,7 @@ dv_has_:
 
 # [[Medici,Lorenzo_de]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lorenzo_de'_Medici,177854]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lorenzo_de'_Medici,177854|WD~Lorenzo_de'_Medici,177854]] 
 
 ## #has_/text_of_/abstract 
 

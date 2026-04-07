@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Nuclear_Family]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nuclear_family,720069]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nuclear_family,720069|WD~Nuclear_family,720069]] 
 
 ## #has_/text_of_/abstract 
 

@@ -103,7 +103,7 @@ dv_has_:
 
 # [[Root_Canal]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Root_canal,848390]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Root_canal,848390|WD~Root_canal,848390]] 
 
 ## #has_/text_of_/abstract 
 

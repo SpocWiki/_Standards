@@ -247,7 +247,7 @@ dv_has_:
 
 # [[Tortoise]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Testudinidae,46360]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Testudinidae,46360|WD~Testudinidae,46360]] 
 
 ## #has_/text_of_/abstract 
 
