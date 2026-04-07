@@ -25,21 +25,36 @@ function Invoke-SafePull {
         $stashed = $true
     }
 
-    #git pull --rebase --strategy-option=theirs #auto-merge 
-    git pull --no-rebase # avoid rebase
+    git fetch
+
+    $local  = git rev-parse HEAD
+	$remote = git rev-parse "@{u}"
+	$base   = git merge-base HEAD "@{u}"
+
+    if ($local -eq $remote) {
+        Write-Host "Up to date"
+    }
+    elseif ($local -eq $base) {
+        Write-Host "Fast-forwarding"
+        git merge --ff-only "@{u}"
+    }
+    else {
+        Write-Host "Diverged → skipping $repoPath" -ForegroundColor Yellow
+    }
 
     if ($stashed) {
         Write-Host "Re-applying stash in $repoPath" -ForegroundColor Green
-        git stash pop #may create conflicts that appear only on commit
-    }
 
-    #$stashList = git stash list
-    $latestStash = git stash list | Select-Object -First 1
-    if ($latestStash -match 'autostash') {
-    #if ($stashList -match 'autostash') {
-        # Apply the stash
-        #git stash pop --index don't do this! this can reset the index to a very old state!
-    }
+        git stash apply --quiet
 
+        if ($LASTEXITCODE -ne 0) {
+            Write-Host "Conflict during stash apply!" -ForegroundColor Red
+        } else {
+            git stash drop
+        }
+
+        if (git diff --name-only --diff-filter=U) {
+            Write-Host "Unresolved conflicts remain!" -ForegroundColor Red
+        }
+    }
 }
-
