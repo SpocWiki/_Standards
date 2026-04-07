@@ -1,35 +1,88 @@
-# Set the path to the directory containing the files
 param (
-    [string]$parent_directory,
-    [string]$message
+    [string]$message = "auto-commit"
 )
 
-if (-not $parent_directory -or $parent_directory -eq '.') {
-	$parent_directory = Split-Path -Path $MyInvocation.MyCommand.Path -Parent # or $PWD
-}
-
-if (-not $message) {
-	$message = "auto-commit"
-}
+$parent_directory = Get-Location
 
 . .\Resolve-Rebase.ps1 
 
-Set-Location -Path $parent_directory
+function Has-Conflicts {
+    return (git diff --name-only --diff-filter=U)
+}
 
-Get-ChildItem -Path $parent_directory -Recurse -Directory | ForEach-Object {
+function Has-Changes {
+    return (git status --porcelain)
+}
+
+function Has-Upstream {
+    git rev-parse --abbrev-ref "@{u}" 2>$null | Out-Null
+    return ($LASTEXITCODE -eq 0)
+}
+
+Get-ChildItem -Recurse -Directory | ForEach-Object {
     $directory = $_.FullName
-    if (Test-Path "$directory\.git") {
-        Write-Host "Committing repository in $directory"
-        Set-Location -Path $directory
 
-        Resolve-Rebase $directory  
+    if (Test-Path "$directory\.git") {
+        Write-Host "Processing $directory"
+        Set-Location $directory
+
+        Resolve-Rebase $directory
+
+        # Skip if no upstream (optional but safer)
+        if (-not (Has-Upstream)) {
+            Write-Host "Skipping (no upstream configured)" -ForegroundColor Yellow
+            return
+        }
+
+        # Skip if conflicts exist
+        if (Has-Conflicts) {
+            Write-Host "Skipping (merge conflicts present)" -ForegroundColor Red
+            return
+        }
+
+        # Skip if nothing to commit
+        if (-not (Has-Changes)) {
+            Write-Host "No changes"
+            return
+        }
 
         git add .
-        git commit -a -m $message
+
+        # Double-check conflicts after staging (edge case safety)
+        if (Has-Conflicts) {
+            Write-Host "Skipping after add (conflicts detected)" -ForegroundColor Red
+            return
+        }
+
+        git commit -m $message
     }
 }
 
-Set-Location -Path $parent_directory
-Resolve-Rebase $directory  
-git add .
-git commit -a -m $message
+# Root repo
+Set-Location $parent_directory
+
+Resolve-Rebase $parent_directory
+
+if (Has-Upstream) {
+
+    if (Has-Conflicts) {
+        Write-Host "Skipping root (merge conflicts present)" -ForegroundColor Red
+    }
+    elseif (Has-Changes) {
+        git add .
+
+        if (Has-Conflicts) {
+            Write-Host "Skipping root after add (conflicts detected)" -ForegroundColor Red
+        } else {
+            git commit -m $message
+        }
+    }
+    else {
+        Write-Host "No changes in root repo"
+    }
+
+} else {
+    Write-Host "Root repo has no upstream → skipping" -ForegroundColor Yellow
+}
+
+Set-Location $parent_directory
