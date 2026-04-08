@@ -38,7 +38,8 @@ aliases:
 - sunnalašvuohta
 - Sunni
 - Sunni Islam
-- Sunni-islam
+- Sunni-Islam
+- Sunni-Muslim
 - Sunni-phài
 - Sunniidid
 - sunniislam
@@ -179,7 +180,7 @@ dv_has_:
     azb: سونیلر
     ba: Сөнниҙәр
     be: суніты
-    be_tarask: суніты
+    be-tarask: суніты
     bg: сунитски ислям
     bn: সুন্নি ইসলাম
     br: Islam sunnit
@@ -189,19 +190,19 @@ dv_has_:
     ca: sunnisme
     ce: суннизм
     ckb: سوننە
-    crh_latn: Sünniy İslâm
+    crh-latn: Sünniy İslâm
     cs: sunnitský islám
     cv: Суннăçăлăх
     cy: Sunni
     da: Sunni-islam
     de: Sunniten
-    de_ch: Sunniten
+    de-ch: Sunniten
     diq: İslamo Sunni
     dv: ސުއްނީ މުސްލިމުން
     el: Σουνιτισμός
     en: Sunni Islam
-    en_ca: Sunni Islam
-    en_gb: Sunni Islam
+    en-ca: Sunni Islam
+    en-gb: Sunni Islam
     eo: sunaismo
     es: sunismo
     et: Sunniidid
@@ -240,16 +241,16 @@ dv_has_:
     kab: Tasunnit
     kge: Islam Sunni
     kk: сүнни ислам
-    kk_arab: سۋننىي ٴىيسلام
-    kk_cyrl: Сунни Исләм
-    kk_latn: Swnnï Ïsläm
+    kk-arab: سۋننىي ٴىيسلام
+    kk-cyrl: Сунни Исләм
+    kk-latn: Swnnï Ïsläm
     km: និកាយស៊ុននី
     kn: ಸುನ್ನಿ ಇಸ್ಲಾಂ
     ko: 수니파 이슬람교
     ks: سُنی اِسلام
     ku: sunîtî
-    ku_arab: سونیتی
-    ku_latn: sunîtî
+    ku-arab: سونیتی
+    ku-latn: sunîtî
     kw: Islam Sunni
     ky: Сунниттер
     la: secta Sunnitica
@@ -270,7 +271,7 @@ dv_has_:
     ml: സുന്നി
     mr: सुन्नी इस्लाम
     ms: Ahli Sunah Waljamaah
-    ms_arab: اهل سنة والجماعة
+    ms-arab: اهل سنة والجماعة
     mt: Iżlam Sunni
     my: ဆွန်နီမူဆလင်
     mzn: تسنن
@@ -288,7 +289,7 @@ dv_has_:
     pnb: سنی اسلام
     ps: سني
     pt: sunismo
-    pt_br: Sunismo
+    pt-br: Sunismo
     ro: Islamul sunit
     ru: суннитский ислам
     sah: Суннизм
@@ -304,21 +305,21 @@ dv_has_:
     so: Ahlu sunno waljamaaca
     sq: Islami Sunnit
     sr: сунизам
-    sr_ec: Сунити
-    sr_el: Suniti
+    sr-ec: Сунити
+    sr-el: Suniti
     su: Sunni
     sv: sunni
     sw: Wasunni
     ta: சுன்னி இஸ்லாம்
     te: సున్నీ ఇస్లాం
     tg: суннӣ
-    tg_latn: Sunnī
+    tg-latn: Sunnī
     th: ซุนนี
     tl: Sunismo
     tr: ehlisünnet
     tt: сөнничелек
-    tt_cyrl: сөнничелек
-    tt_latn: sönniçeleq
+    tt-cyrl: сөнничелек
+    tt-latn: sönniçeleq
     udm: суннизм
     ug: ئەھلى سۇننە ۋەلجامائە
     uk: сунізм
@@ -334,24 +335,53 @@ dv_has_:
     yo: Sunni
     yue: 遜尼派
     zh: 遜尼派
-    zh_cn: 逊尼派
-    zh_hans: 逊尼派
-    zh_hant: 遜尼派
-    zh_hk: 遜尼派
-    zh_tw: 遜尼派
+    zh-cn: 逊尼派
+    zh-hans: 逊尼派
+    zh-hant: 遜尼派
+    zh-hk: 遜尼派
+    zh-tw: 遜尼派
 ---
 
 # [[Sunni_Islam]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Sunni_Islam,483654|WD~Sunni_Islam,483654]]  
 
+#is_/part_of ::  [[Abrahamitic_Religion]] 
+
+Pigs and Blood are considered unclean, which results in the tradition of Halal. 
+
 ## #has_/text_of_/abstract 
 
-> Sunni Islam is the largest branch of Islam and the largest religious denomination in the world. It holds that Muhammad did not appoint any successor and that his closest companion Abu Bakr (r. 632–634) rightfully succeeded him as the caliph of the Muslim community, being appointed at the meeting of Saqifa. This contrasts with the Shia view, which holds that Muhammad appointed Ali ibn Abi Talib (r. 656–661) as his successor. Nevertheless, Sunnis revere Ali, along with Abu Bakr, Umar (r. 634–644) and Uthman (r. 644–656) as 'rightly-guided caliphs'.
+> **Sunni Islam** is the largest branch of Islam, followed by 85–90% of the world's Muslims, 
+> and simultaneously the largest religious denomination in the world. 
 >
-> The term Sunni means those who observe the sunna, the practices of Muhammad. The Quran, together with hadith (especially the Six Books) and ijma (scholarly consensus), form the basis of all traditional jurisprudence within Sunni Islam. Sharia legal rulings are derived from these basic sources, in conjunction with consideration of public welfare and juristic discretion, using the principles of jurisprudence developed by the four legal schools: Hanafi, Hanbali, Maliki and Shafi'i.
+> Its name comes from the word Sunnah, referring to the tradition of Muhammad. 
+> The differences between Sunni and Shia Muslims arose from a 
+> disagreement over the succession to Muhammad and subsequently 
+> acquired broader political significance, as well as theological and juridical dimensions. 
 >
-> In matters of creed, the Sunni tradition upholds the six pillars of iman (faith) and comprises the Ash'ari and Maturidi schools of kalam (theology) as well as the textualist Athari school. Sunnis regard the first four caliphs Abu Bakr (r. 632–634), Umar (r. 634–644), Uthman (r. 644–656) and Ali (r. 656–661) as rashidun (rightly-guided) and revere the sahaba, tabi'in, and tabi al-tabi'in as the salaf (predecessors).
+> According to Sunni traditions, Muhammad left no successor and the 
+> participants of the Saqifah event appointed Abu Bakr as the next-in-line (the first caliph). 
+> This contrasts with the Shia view, 
+> which holds that Muhammad appointed his son-in-law and cousin Ali ibn Abi Talib as his successor.
+>
+> The adherents of Sunni Islam are referred to in Arabic as ahl as-sunnah wa l-jamāʻah 
+> ("the people of the Sunnah and the community") or ahl as-Sunnah for short. 
+> In English, its doctrines and practices are sometimes called Sunnism. 
+> Sunni Islam is sometimes referred to as "orthodox Islam", 
+> though some scholars view this as inappropriate, and many non-Sunnis may find this offensive.
+>
+> The Quran, together with hadith (especially the Six Books) and ijma (juristic consensus), 
+> form the basis of all traditional jurisprudence within Sunni Islam. 
+> Sharia rulings are derived from these basic sources, in conjunction with analogical reasoning, 
+> consideration of public welfare and juristic discretion, 
+> using the principles of jurisprudence developed by the traditional legal schools. 
+> 
+> In matters of creed, the Sunni tradition upholds the six pillars of iman (faith) 
+> and comprises the Ash'ari and Maturidi schools of kalam (theology) as well as the textualist Athari school. 
+> 
+> Sunnis regard the first four caliphs Abu Bakr (r. 632–634), Umar (r. 634–644), Uthman (r. 644–656) 
+> and Ali (r. 656–661) as rashidun (righly-guided) and revere the sahaba, tabi'in and tabi al-tabi'in as the salaf (predecessors).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sunni%20Islam) 
 
