@@ -1,4 +1,4 @@
-g---
+---
 aliases:
 - Chủ nghĩa trọng thương
 - marsantachas
