@@ -1,160 +1,160 @@
 ---
-has_time_started: 0601-01-01
+has_time_started: 2026-04-08
 aliases:
-- Ahl as-Sunna val-Jamoa
-- Ahli Sunah Waljamaah
-- Ahlu sunno waljamaaca
-- Ahlussunah Wal-jama'ah
-- Alakụba Sunni
-- an tIoslam Sunnaíoch
-- ehlisünnet
-- Hồi giáo Sunni
-- Ioslam Sunnitheach
-- Islam Sunita
-- Islam Sunni
-- Islam sunnit
-- Islami Sunnit
-- Islamul sunit
-- Islã suníta
-- Iżlam Sunni
-- Mabiya Sunnah
-- secta Sunnitica
-- Soenni
-- soennisme
-- Sonisma
-- sunaismo
-- Suni
-- Sunisme
-- sunismo
-- sunismu
-- Sunite
-- Suniti
-- sunitizem
-- sunitski islam
-- sunizam
-- sunizmas
-- Sunić
-- sunnalaisuus
-- sunnalašvuohta
-- Sunni
-- Sunni Islam
-- Sunni-Islam
-- Sunni-Muslim
-- Sunni-phài
-- Sunniidid
-- sunniislam
-- Sunnism
-- sunnisme
-- sunnismo
-- Sunnismu
-- Sunniten
-- Sunnitischer Islam
-- Sunnitský islam
-- sunnitský islám
-- sunnizm
-- Sunni_Islam
-- sunnića
-- Sunnī
-- sunnītu islāms
-- sunîtî
-- Sunėzmos
-- Swnnï Ïsläm
-- szunnita iszlám
-- sönniçeleq
-- Súnní
-- sünnilik
-- Sünniy İslâm
-- Tasunnit
-- Wasunni
-- yn Islam Sunni
-- İslamo Sunni
-- Σουνιτισμός
-- сунізм
-- суніты
-- сунизам
-- Сунити
-- сунитски ислям
-- Суниял
-- Сунияр
-- Суннăçăлăх
-- Сунни Исләм
-- Сунни лалын шажан
-- суннизм
-- Сунниташ
-- суннитский ислам
-- сунниттал ислам
-- Сунниттер
-- суннӣ
-- сүнни ислам
-- сөнничелек
-- Сөнниҙәр
-- Սիւննի
-- սուննի իսլամ
-- אסלאם סוני
-- סוניס
-- أهل السنة والجماعة
-- إسلام سني
-- ئەھلى سۇننە ۋەلجامائە
-- اهل السنه و الجماعه
-- اهل سنة والجماعة
-- اہل سنت
-- تسنن
-- سنة
-- سني
-- سنی
-- سنی اسلام
-- سوننە
-- سونیتی
-- سونیلر
-- سُنی اِسلام
-- سۋننىي ٴىيسلام
-- ސުއްނީ މުސްލިމުން
-- ߛߎ߲ߣߊߡߐ߮
-- सुन्नी इस्लाम
-- চুন্নী ইছলাম
-- সুন্নি ইসলাম
-- ਸੁੰਨੀ ਇਸਲਾਮ
-- சுன்னி இஸ்லாம்
-- సున్నీ ఇస్లాం
-- ಸುನ್ನಿ ಇಸ್ಲಾಂ
-- സുന്നി
-- සුන්නි ඉස්ලාම් ආගම
-- ซุนนี
-- ဆွန်နီမူဆလင်
-- სუნიზმი
-- និកាយស៊ុននី
-- スンナ派
-- 逊尼派
-- 遜尼派
-- 수니파 이슬람교
+  - Ahl as-Sunna val-Jamoa
+  - Ahli Sunah Waljamaah
+  - Ahlu sunno waljamaaca
+  - Ahlussunah Wal-jama'ah
+  - Alakụba Sunni
+  - an tIoslam Sunnaíoch
+  - ehlisünnet
+  - Hồi giáo Sunni
+  - Ioslam Sunnitheach
+  - Islam Sunita
+  - Islam Sunni
+  - Islam sunnit
+  - Islami Sunnit
+  - Islamul sunit
+  - Islã suníta
+  - Iżlam Sunni
+  - Mabiya Sunnah
+  - secta Sunnitica
+  - Soenni
+  - soennisme
+  - Sonisma
+  - sunaismo
+  - Suni
+  - Sunisme
+  - sunismo
+  - sunismu
+  - Sunite
+  - Suniti
+  - sunitizem
+  - sunitski islam
+  - sunizam
+  - sunizmas
+  - Sunić
+  - sunnalaisuus
+  - sunnalašvuohta
+  - Sunni
+  - Sunni Islam
+  - Sunni-Islam
+  - Sunni-Muslim
+  - Sunni-phài
+  - Sunniidid
+  - sunniislam
+  - Sunnism
+  - sunnisme
+  - sunnismo
+  - Sunnismu
+  - Sunniten
+  - Sunnitischer Islam
+  - Sunnitský islam
+  - sunnitský islám
+  - sunnizm
+  - Sunni_Islam
+  - sunnića
+  - Sunnī
+  - sunnītu islāms
+  - sunîtî
+  - Sunėzmos
+  - Swnnï Ïsläm
+  - szunnita iszlám
+  - sönniçeleq
+  - Súnní
+  - sünnilik
+  - Sünniy İslâm
+  - Tasunnit
+  - Wasunni
+  - yn Islam Sunni
+  - İslamo Sunni
+  - Σουνιτισμός
+  - сунізм
+  - суніты
+  - сунизам
+  - Сунити
+  - сунитски ислям
+  - Суниял
+  - Сунияр
+  - Суннăçăлăх
+  - Сунни Исләм
+  - Сунни лалын шажан
+  - суннизм
+  - Сунниташ
+  - суннитский ислам
+  - сунниттал ислам
+  - Сунниттер
+  - суннӣ
+  - сүнни ислам
+  - сөнничелек
+  - Сөнниҙәр
+  - Սիւննի
+  - սուննի իսլամ
+  - אסלאם סוני
+  - סוניס
+  - أهل السنة والجماعة
+  - إسلام سني
+  - ئەھلى سۇننە ۋەلجامائە
+  - اهل السنه و الجماعه
+  - اهل سنة والجماعة
+  - اہل سنت
+  - تسنن
+  - سنة
+  - سني
+  - سنی
+  - سنی اسلام
+  - سوننە
+  - سونیتی
+  - سونیلر
+  - سُنی اِسلام
+  - سۋننىي ٴىيسلام
+  - ސުއްނީ މުސްލިމުން
+  - ߛߎ߲ߣߊߡߐ߮
+  - सुन्नी इस्लाम
+  - চুন্নী ইছলাম
+  - সুন্নি ইসলাম
+  - ਸੁੰਨੀ ਇਸਲਾਮ
+  - சுன்னி இஸ்லாம்
+  - సున్నీ ఇస్లాం
+  - ಸುನ್ನಿ ಇಸ್ಲಾಂ
+  - സുന്നി
+  - සුන්නි ඉස්ලාම් ආගම
+  - ซุนนี
+  - ဆွန်နီမူဆလင်
+  - სუნიზმი
+  - និកាយស៊ុននី
+  - スンナ派
+  - 逊尼派
+  - 遜尼派
+  - 수니파 이슬람교
 has_id_wikidata: Q483654
 has_part_s_:
-- "[[_Standards/WikiData/WD~Shafi'i,82245|WD~Shafi'i,82245]]"
-- '[[_Standards/WikiData/WD~Hanafism,228986|WD~Hanafism,228986]]'
-- '[[_Standards/WikiData/WD~Hanbalism,233387|WD~Hanbalism,233387]]'
-- '[[_Standards/WikiData/WD~Maturidi,492501|WD~Maturidi,492501]]'
-- "[[_Standards/WikiData/WD~Ash'ari,539918|WD~Ash'ari,539918]]"
-- '[[_Standards/WikiData/WD~Athari,638043|WD~Athari,638043]]'
-- "[[_Standards/WikiData/WD~Mu'tazila,668460|WD~Mu'tazila,668460]]"
-- "[[_Standards/WikiData/WD~Murji'ah,2359550|WD~Murji'ah,2359550]]"
-- '[[_Standards/WikiData/WD~Sufism,9603|WD~Sufism,9603]]'
-- '[[_Standards/WikiData/WD~Malikism,48221|WD~Malikism,48221]]'
+  - "[[_Standards/WikiData/WD~Shafi'i,82245|WD~Shafi'i,82245]]"
+  - "[[_Standards/WikiData/WD~Hanafism,228986|WD~Hanafism,228986]]"
+  - "[[_Standards/WikiData/WD~Hanbalism,233387|WD~Hanbalism,233387]]"
+  - "[[_Standards/WikiData/WD~Maturidi,492501|WD~Maturidi,492501]]"
+  - "[[_Standards/WikiData/WD~Ash'ari,539918|WD~Ash'ari,539918]]"
+  - "[[_Standards/WikiData/WD~Athari,638043|WD~Athari,638043]]"
+  - "[[_Standards/WikiData/WD~Mu'tazila,668460|WD~Mu'tazila,668460]]"
+  - "[[_Standards/WikiData/WD~Murji'ah,2359550|WD~Murji'ah,2359550]]"
+  - "[[_Standards/WikiData/WD~Sufism,9603|WD~Sufism,9603]]"
+  - "[[_Standards/WikiData/WD~Malikism,48221|WD~Malikism,48221]]"
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~Islamic_denomination,1192063|WD~Islamic_denomination,1192063]]'
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+instance_of: "[[_Standards/WikiData/WD~Islamic_denomination,1192063|WD~Islamic_denomination,1192063]]"
 foundational_text:
-- '[[_Standards/WikiData/WD~list_of_hadith_books,3602186|WD~list_of_hadith_books,3602186]]'
-- '[[_Standards/WikiData/WD~Qur_an,428|WD~Qur_an,428]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12831260,12831260|WD~Q12831260,12831260]]'
+  - "[[_Standards/WikiData/WD~list_of_hadith_books,3602186|WD~list_of_hadith_books,3602186]]"
+  - "[[_Standards/WikiData/WD~Qur_an,428|WD~Qur_an,428]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q12831260,12831260|WD~Q12831260,12831260]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B1%D8%B3%D9%85%20%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1%D9%8A%20%D9%84%D9%84%D9%81%D8%B8%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%D8%A9%20%D9%88%D9%85%D9%86%20%D9%8A%D8%AC%D9%84%D9%87%D9%85%20%D8%A3%D9%87%D9%84%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9.png
-subclass_of: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
-official_language: '[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
+subclass_of: "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
+official_language: "[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]"
 inception: 0601-01-01T00:00:00Z
 Commons_category: Sunni Islam
 Colon_Classification: Q71
@@ -340,6 +340,31 @@ dv_has_:
     zh-hant: 遜尼派
     zh-hk: 遜尼派
     zh-tw: 遜尼派
+confidential: private
+license: (c)copyrighted
+linkTitle: Sunni_Islam
+title: Sunni_Islam
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+isDeleted: false
+isReadOnly: false
+keywords:
+  - Sunni_Islam
+lang: en
+layout:
+publish: false
+publishDate:
+tags:
+  - Sunni_Islam
+  - excalidraw
+type: private_note
 ---
 
 # [[Sunni_Islam]] 
@@ -402,3 +427,22 @@ Pigs and Blood are considered unclean, which results in the tradition of Halal.
 
 ### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Sunni_Islam.secret|Sunni_Islam.secret]] 
 
+
+# [[Sunni_Islam]] 
+
+#is_/part_of :: [[Sunni-Islam]] 
+
+![[Sunni_Islam.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Sunni_Islam.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
