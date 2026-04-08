@@ -22,7 +22,8 @@ aliases:
 - Shia
 - Shia Islam
 - Shia nga Islam
-- Shia-islam
+- Shia-Islam
+- Shia-Muslim
 - Shia-phài
 - Shialik
 - shialıq
@@ -166,7 +167,7 @@ dv_has_:
     ba: Шиғыйҙар
     bar: Schia
     be: шыіты
-    be_tarask: шыізм
+    be-tarask: шыізм
     bg: Шиитски ислям
     bn: শিয়া ইসলাম
     br: Islam chiit
@@ -186,8 +187,8 @@ dv_has_:
     dv: ޝީޢީ މަޛްހަބު
     el: Σιιτισμός
     en: Shia Islam
-    en_ca: Shia Islam
-    en_gb: Shia Islam
+    en-ca: Shia Islam
+    en-gb: Shia Islam
     en-us: Shia Islam
     eo: Ŝijaismo
     es: chiismo
@@ -229,7 +230,7 @@ dv_has_:
     ko: 시아파 이슬람교
     ks: شیعہ
     ku: şiîtî
-    ku_latn: şiîtî
+    ku-latn: şiîtî
     kw: Islam Shia
     ky: Шиизм
     la: secta Siitica
@@ -265,7 +266,7 @@ dv_has_:
     pnb: شیعہ
     ps: شيعه
     pt: xiismo
-    pt_br: Xiismo
+    pt-br: Xiismo
     ro: șiism
     ru: шиитский ислам
     rue: Шіїты
@@ -305,25 +306,28 @@ dv_has_:
     yi: שיא איסלאם
     yue: 什葉派
     zh: 什叶派
-    zh_cn: 什叶派
-    zh_hans: 什叶派
-    zh_hant: 什葉派
-    zh_tw: 什葉派
+    zh-cn: 什叶派
+    zh-hans: 什叶派
+    zh-hant: 什葉派
+    zh-tw: 什葉派
 ---
 
 # [[Shia_Islam]] 
+
+#has_/place_ :: [[../../../../_Standards/Earth/Continent/Asia/Asia~West/Iran|Iran]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Shia_Islam,9585|WD~Shia_Islam,9585]]  
 
 ## #has_/text_of_/abstract 
 
-> Shia Islam is the second-largest branch of Islam. 
-> It holds that Muhammad designated Ali ibn Abi Talib (r. 656–661) 
-> as both his political successor (caliph) and as the spiritual leader of the Muslim community (imam). 
+> Shia Islam is the second-largest branch of Islam with ca. 10%. 
+> It holds that the Islamic prophet Muhammad designated Ali (656–661 CE) as his successor (khalifa) 
+> and the Imam (spiritual and political leader) after him, most notably at the event of Ghadir Khumm, 
 > 
 > However, his right is understood to have been usurped 
 > by a number of Muhammad's companions at the meeting of Saqifa, 
 > during which they appointed Abu Bakr (r. 632–634) as caliph instead. 
+> Adherents of Shia Islam are called **Shia Muslim**s.
 > 
 > As such, Sunni Muslims believe Abu Bakr, Umar (r. 634–644), Uthman (r. 644–656) and Ali to be 'rightly-guided caliphs', 
 > whereas Shia Muslims regard only Ali as the legitimate successor.
