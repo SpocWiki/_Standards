@@ -157,6 +157,8 @@ dv_is_same_as:
 has_time_started: 1346-01-01
 has_time_stopped: 1352-01-01
 aliases:
+- 1346-Black Death
+- 1346-Black_Death
 - 1347 Tlīltic Miquiztli
 - Am Bàs Dubh
 - An Phlá Mhór
@@ -307,8 +309,9 @@ number_of_deaths: 75000000
 OmegaWiki_Defined_Meaning: 1074229
 Commons_category: Black Death
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Doutielt3.jpg
+P8189: 987007283124505171
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "BlackDeath"]
-Krugosvet_article_archived_: istoriya/CHERNAYA_SMERT.html
+Krugosvet_article: istoriya/CHERNAYA_SMERT.html
 ---
 
 # [[1346-Black_Death+1353]] 
@@ -320,7 +323,7 @@ Krugosvet_article_archived_: istoriya/CHERNAYA_SMERT.html
 
 ## #has_/text_of_/abstract 
 
-> The Black Death was a bubonic plague pandemic occurring in Europe from 1346 to 1353. 
+> The Black Death was a bubonic plague pandemic that occurred in Europe from 1346 to 1353. 
 > It was one of the most fatal pandemics in human history; 
 > as many as 50 million people perished, perhaps 50% of Europe's 14th century population.  
 > 
@@ -332,8 +335,8 @@ Krugosvet_article_archived_: istoriya/CHERNAYA_SMERT.html
 > with profound effects on the course of European history.
 >
 > The origin of the Black Death is disputed. 
-> Genetic analysis suggests the Yersinia pestis bacteria evolved about 2,600 years ago 
-> in the Tian Shan mountains, on the border of present-day Kyrgyzstan and China. 
+> Genetic analysis suggests Yersinia pestis bacteria evolved approximately 7,000 years ago, 
+> at the beginning of the Neolithic, with flea-mediated strains emerging around 3,800 years ago during the late Bronze Age. 
 > 
 > The immediate territorial origins of the Black Death and its outbreak remain unclear, 
 > with some evidence pointing towards Central Asia, China, the Middle East, and Europe. 
@@ -346,13 +349,15 @@ Krugosvet_article_archived_: istoriya/CHERNAYA_SMERT.html
 > spreading through the Mediterranean Basin and reaching North Africa, West Asia, 
 > and the rest of Europe via Constantinople, Sicily, and the Italian Peninsula. 
 > 
-> There is evidence that once it came ashore, the Black Death mainly spread from person-to-person 
-> as pneumonic plague, thus explaining the quick inland spread of the epidemic, 
+> There is evidence that once it came ashore, 
+> the Black Death mainly spread from person-to-person as pneumonic plague, 
+> thus explaining the quick inland spread of the epidemic, 
 > which was faster than would be expected if the primary vector was rat fleas causing bubonic plague. 
 > 
 > In 2022, it was discovered that there was a sudden surge of deaths in what is today Kyrgyzstan 
 > from the Black Death in the late 1330s; when combined with genetic evidence, 
-> this implies that the initial spread may not have been due to Mongol conquests in the 14th century.
+> this implies that the initial spread may have been unrelated to the 14th century Mongol conquests 
+> previously postulated as the cause.
 >
 > The Black Death was the second great natural disaster to strike Europe during the Late Middle Ages 
 > (the first one being the [[1315-Great_Famine-1322]] of 1315–1317) 

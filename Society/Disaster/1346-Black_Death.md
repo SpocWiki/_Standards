@@ -1,162 +1,4 @@
 ---
-has_time_started: 1346-01-01
-has_time_stopped: 1352-01-01
-aliases:
-- 1346-Black Death
-- 1346-Black_Death
-- 1347 Tlīltic Miquiztli
-- Am Bàs Dubh
-- An Phlá Mhór
-- Angimbanua Saitö
-- Black Daith
-- Black Death
-- Blak Det
-- Bosenn Zu
-- Büyük Veba Salgını
-- Crna smrt
-- Cudurka Madow
-- czarna śmierć
-- Czŏrnŏ śmierć
-- Cái chết Đen
-- Den sorte død
-- digerdöden
-- Doba kuge
-- Dr Schwarz Dod
-- Fahafatesana Mainty
-- fekete halál
-- Hazinura negra
-- Hek-sú-pēng
-- Het-sí-phiang
-- Háik-sṳ̄-bêng
-- Izurri Beltza
-- Juodoji mirtis
-- Kamatayon nga itom
-- Kɩzɩkʊ kɩkpɛdʊʊ
-- Lapès nwa
-- Lapès nwè
-- Maut Hitam
-- Melnā nāve
-- Mergo Siya
-- Mirina reş
-- moartea neagră
-- Mors atra
-- Mort Foscia
-- Morte Nigre
-- Must surm
-- musta surma
-- nigra morto
-- Nigra pesto
-- Pesse des djins
-- Pesta negra
-- Pesta s-sewda
-- Peste negra
-- peste nera
-- Peste Nere
-- Peste niedda
-- peste noire
-- Pesti bubbònica
-- Pla Du
-- Qara ölüm
-- Qora O'lim
-- Salot na Itim
-- Schwarzer Tod
-- Svartedauden
-- Svarti dauði
-- Swart Dood
-- Swarte Dea
-- Sóttin svarta
-- Tterka taberkant
-- Vdekja e Zezë
-- Wabah Hitam
-- Zjwarte Doeëd
-- zwarte dood
-- Čapis sorme
-- Černá smrt
-- Čierna smrť
-- čorna smjerć
-- črna smrt
-- Μαύρη πανώλη
-- Емынэ фӀыцӀэ
-- Оба індеті
-- Сау мæлæт
-- Хар үхэл
-- Црна смрт
-- Чёрная смерть
-- Черната смърт
-- Чорна смерть
-- Чорная смерць
-- Чорная сьмерць
-- Ҡара үлем
-- Սեւ Մահ
-- Սև մահ
-- המוות השחור
-- الموت الأسود
-- الموت الاسود
-- تور مرګ
-- سیاہ موت
-- قارا اؤلوم
-- مردنی ڕەش
-- مرگ سیاه
-- काली मौत
-- कालो मृत्यु
-- काळा प्लेग
-- ब्ल्याक डेथ
-- हाकुगु मृत्यु
-- কালো মৃত্যু
-- ਕਾਲੀ ਮੌਤ
-- கறுப்புச் சாவு
-- ബ്ലാക്ക് ഡെത്ത്
-- කළු මරණය
-- แบล็กเดท
-- မဲသေရောဂါ
-- უჩა ჭირი
-- შავი ჭირი
-- 黑死病
-- 黒死病
-- 흑사병
-- "\U00010343\U00010345\U00010330\U00010342\U00010344\U00010343 \U00010333\U00010330\U0001033F\U00010338\U0001033F\U00010343"
-has_id_wikidata: Q42005
-has_immediate_cause:
-- '[[_Standards/WikiData/WD~Rattus_rattus,106133|WD~Rattus_rattus,106133]]'
-- '[[_Standards/WikiData/WD~Oriental_rat_flea,499106|WD~Oriental_rat_flea,499106]]'
-has_cause: '[[_Standards/WikiData/WD~plague,133780|WD~plague,133780]]'
-has_part_s_:
-- '[[_Standards/WikiData/WD~plague,133780|WD~plague,133780]]'
-- '[[_Standards/WikiData/WD~bubonic_plague,217519|WD~bubonic_plague,217519]]'
-described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-instance_of:
-- '[[_Standards/WikiData/WD~disease_outbreak,3241045|WD~disease_outbreak,3241045]]'
-- '[[_Standards/WikiData/WD~pandemic,12184|WD~pandemic,12184]]'
-depicted_by: '[[_Standards/WikiData/WD~St._Gregory_the_Great,133281076|WD~St._Gregory_the_Great,133281076]]'
-end_time: 1352-01-01T00:00:00Z
-start_time: 1346-01-01T00:00:00Z
-country:
-- '[[_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
-- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
-- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
-country_of_origin:
-- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
-- '[[_Standards/WikiData/WD~Mongol_Empire,12557|WD~Mongol_Empire,12557]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
-location:
-- '[[_Standards/WikiData/WD~Caucasus,18869|WD~Caucasus,18869]]'
-- '[[_Standards/WikiData/WD~North_Africa,27381|WD~North_Africa,27381]]'
-- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
-- '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
-number_of_deaths: 75000000
-OmegaWiki_Defined_Meaning: 1074229
-Commons_category: Black Death
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Doutielt3.jpg
-P8189: 987007283124505171
-Wolfram_Language_entity_code: Entity["HistoricalEvent", "BlackDeath"]
-Krugosvet_article: istoriya/CHERNAYA_SMERT.html
 dv_has_:
   name_:
     af: Swart Dood
@@ -290,14 +132,194 @@ dv_has_:
     yue: 黑死病
     zh: 黑死病
     zh_hant: 黑死病
+  time_:
+    started: 1346-06-01T00:00:00.000+00:53
+    stopped: 1353-06-01T00:00:00.000+00:53
+dv_is_:
+  same_as:
+  - '[[../../../../WikiData/WD~Black_Death,42005|WD~Black_Death,42005]]'
+  - '[[/_Standards/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353|1346-Black_Death+1353]]'
+  - '[[/_public/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.public|1346-Black_Death+1353.public]]'
+  - '[[/_internal/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.internal|1346-Black_Death+1353.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.protect|1346-Black_Death+1353.protect]]'
+  - '[[/_private/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.private|1346-Black_Death+1353.private]]'
+  - '[[/_personal/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.personal|1346-Black_Death+1353.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.secret|1346-Black_Death+1353.secret]]'
+dv_is_same_as:
+- '[[../../../../WikiData/WD~Black_Death,42005|WD~Black_Death,42005]]'
+- '[[/_Standards/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353|1346-Black_Death+1353]]'
+- '[[/_public/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.public|1346-Black_Death+1353.public]]'
+- '[[/_internal/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.internal|1346-Black_Death+1353.internal]]'
+- '[[/_protect/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.protect|1346-Black_Death+1353.protect]]'
+- '[[/_private/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.private|1346-Black_Death+1353.private]]'
+- '[[/_personal/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.personal|1346-Black_Death+1353.personal]]'
+- '[[/_secret/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.secret|1346-Black_Death+1353.secret]]'
+has_time_started: 1346-01-01
+has_time_stopped: 1352-01-01
+aliases:
+- 1346-Black Death
+- 1346-Black_Death
+- 1347 Tlīltic Miquiztli
+- Am Bàs Dubh
+- An Phlá Mhór
+- Angimbanua Saitö
+- Black Daith
+- Black Death
+- Blak Det
+- Bosenn Zu
+- Büyük Veba Salgını
+- Crna smrt
+- Cudurka Madow
+- czarna śmierć
+- Czŏrnŏ śmierć
+- Cái chết Đen
+- Den sorte død
+- digerdöden
+- Doba kuge
+- Dr Schwarz Dod
+- Fahafatesana Mainty
+- fekete halál
+- Hazinura negra
+- Hek-sú-pēng
+- Het-sí-phiang
+- Háik-sṳ̄-bêng
+- Izurri Beltza
+- Juodoji mirtis
+- Kamatayon nga itom
+- Kɩzɩkʊ kɩkpɛdʊʊ
+- Lapès nwa
+- Lapès nwè
+- Maut Hitam
+- Melnā nāve
+- Mergo Siya
+- Mirina reş
+- moartea neagră
+- Mors atra
+- Mort Foscia
+- Morte Nigre
+- Must surm
+- musta surma
+- nigra morto
+- Nigra pesto
+- Pesse des djins
+- Pesta negra
+- Pesta s-sewda
+- Peste negra
+- peste nera
+- Peste Nere
+- Peste niedda
+- peste noire
+- Pesti bubbònica
+- Pla Du
+- Qara ölüm
+- Qora O'lim
+- Salot na Itim
+- Schwarzer Tod
+- Svartedauden
+- Svarti dauði
+- Swart Dood
+- Swarte Dea
+- Sóttin svarta
+- Tterka taberkant
+- Vdekja e Zezë
+- Wabah Hitam
+- Zjwarte Doeëd
+- zwarte dood
+- Čapis sorme
+- Černá smrt
+- Čierna smrť
+- čorna smjerć
+- črna smrt
+- Μαύρη πανώλη
+- Емынэ фӀыцӀэ
+- Оба індеті
+- Сау мæлæт
+- Хар үхэл
+- Црна смрт
+- Чёрная смерть
+- Черната смърт
+- Чорна смерть
+- Чорная смерць
+- Чорная сьмерць
+- Ҡара үлем
+- Սեւ Մահ
+- Սև մահ
+- המוות השחור
+- الموت الأسود
+- الموت الاسود
+- تور مرګ
+- سیاہ موت
+- قارا اؤلوم
+- مردنی ڕەش
+- مرگ سیاه
+- काली मौत
+- कालो मृत्यु
+- काळा प्लेग
+- ब्ल्याक डेथ
+- हाकुगु मृत्यु
+- কালো মৃত্যু
+- ਕਾਲੀ ਮੌਤ
+- கறுப்புச் சாவு
+- ബ്ലാക്ക് ഡെത്ത്
+- කළු මරණය
+- แบล็กเดท
+- မဲသေရောဂါ
+- უჩა ჭირი
+- შავი ჭირი
+- 黑死病
+- 黒死病
+- 흑사병
+- "\U00010343\U00010345\U00010330\U00010342\U00010344\U00010343 \U00010333\U00010330\U0001033F\U00010338\U0001033F\U00010343"
+has_id_wikidata: Q42005
+has_immediate_cause:
+- '[[_Standards/WikiData/WD~Rattus_rattus,106133|WD~Rattus_rattus,106133]]'
+- '[[_Standards/WikiData/WD~Oriental_rat_flea,499106|WD~Oriental_rat_flea,499106]]'
+has_cause: '[[_Standards/WikiData/WD~plague,133780|WD~plague,133780]]'
+has_part_s_:
+- '[[_Standards/WikiData/WD~plague,133780|WD~plague,133780]]'
+- '[[_Standards/WikiData/WD~bubonic_plague,217519|WD~bubonic_plague,217519]]'
+described_by_source:
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+instance_of:
+- '[[_Standards/WikiData/WD~disease_outbreak,3241045|WD~disease_outbreak,3241045]]'
+- '[[_Standards/WikiData/WD~pandemic,12184|WD~pandemic,12184]]'
+depicted_by: '[[_Standards/WikiData/WD~St._Gregory_the_Great,133281076|WD~St._Gregory_the_Great,133281076]]'
+end_time: 1352-01-01T00:00:00Z
+start_time: 1346-01-01T00:00:00Z
+country:
+- '[[_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+country_of_origin:
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Mongol_Empire,12557|WD~Mongol_Empire,12557]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
+location:
+- '[[_Standards/WikiData/WD~Caucasus,18869|WD~Caucasus,18869]]'
+- '[[_Standards/WikiData/WD~North_Africa,27381|WD~North_Africa,27381]]'
+- '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+number_of_deaths: 75000000
+OmegaWiki_Defined_Meaning: 1074229
+Commons_category: Black Death
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Doutielt3.jpg
+P8189: 987007283124505171
+Wolfram_Language_entity_code: Entity["HistoricalEvent", "BlackDeath"]
+Krugosvet_article: istoriya/CHERNAYA_SMERT.html
 ---
 
-# [[1346-Black_Death]] 
+# [[1346-Black_Death+1353]] 
 
+#has_/time_/started :: 1346-06-01
+#has_/time_/stopped  :: 1353-06-01
 
-#has_/time_/started :: 1346-06  
-#has_/time_/started :: 1353-06 
-#is_/same_as :: [[../../WikiData/WD~Black_Death,42005|WD~Black_Death,42005]] 
+#is_/same_as :: [[../../../../WikiData/WD~Black_Death,42005|WD~Black_Death,42005]] 
 
 ## #has_/text_of_/abstract 
 
@@ -309,7 +331,8 @@ dv_has_:
 > One of the most significant events in European history, 
 > the Black Death had far-reaching population, economic, and cultural impacts. 
 > It was the beginning of the second plague pandemic. 
-> The plague created religious, social and economic upheavals, with profound effects on the course of European history.
+> The plague created religious, social and economic upheavals, 
+> with profound effects on the course of European history.
 >
 > The origin of the Black Death is disputed. 
 > Genetic analysis suggests Yersinia pestis bacteria evolved approximately 7,000 years ago, 
@@ -317,6 +340,7 @@ dv_has_:
 > 
 > The immediate territorial origins of the Black Death and its outbreak remain unclear, 
 > with some evidence pointing towards Central Asia, China, the Middle East, and Europe. 
+> 
 > The pandemic was reportedly first introduced to Europe 
 > during the siege of the Genoese trading port of Kaffa in Crimea 
 > by the Golden Horde army of Jani Beg in 1347. 
@@ -335,7 +359,10 @@ dv_has_:
 > this implies that the initial spread may have been unrelated to the 14th century Mongol conquests 
 > previously postulated as the cause.
 >
-> The Black Death was the second great natural disaster to strike Europe during the Late Middle Ages (the first one being the Great Famine of 1315–1317) and is estimated to have killed 30% to 60% of the European population, as well as approximately 33% of the population of the Middle East. There were further outbreaks throughout the Late Middle Ages and, also due to other contributing factors (the crisis of the late Middle Ages), the European population did not regain its 14th century level until the 16th century. Outbreaks of the plague recurred around the world until the early 19th century.
+> The Black Death was the second great natural disaster to strike Europe during the Late Middle Ages 
+> (the first one being the [[1315-Great_Famine-1322]] of 1315–1317) 
+> and is estimated to have killed 30% to 60% of the European population, 
+> as well as approximately 33% of the population of the Middle East. There were further outbreaks throughout the Late Middle Ages and, also due to other contributing factors (the Crisis of the Late Middle Ages), the European population did not regain its 14th century level until the 16th century. Outbreaks of the plague recurred around the world until the early 19th century.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Black%20Death) 
 
