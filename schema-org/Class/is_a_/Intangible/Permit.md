@@ -34,9 +34,11 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Permit.secret|Permit.secret]]"
     - "[[Permit]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Permit/Government_Permit|Government_Permit]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

@@ -29,7 +29,8 @@ title: is_a_merchant_return_unlimited_window Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../MerchantReturnEnumeration|MerchantReturnEnumeration]]"
+  parent_: 
+    class: "[[../MerchantReturnEnumeration|MerchantReturnEnumeration]]"
   enum_of: "[[../MerchantReturnEnumeration|MerchantReturnEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window|Merchant_Return_Unlimited_Window]]"

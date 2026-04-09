@@ -36,7 +36,8 @@ dv_is_:
     - "[[Text]]"
   similar_to: "[[../../../../../IT/Data/Data~Text/JSON(JavaScript_Object_Notation)/Type~primitive/Type~String|Type~String]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Text/Css_Selector_Type|Css_Selector_Type]]"
     - "[[Text/Pronounceable_Text|Pronounceable_Text]]"
     - "[[Text/Url|Url]]"

@@ -27,7 +27,8 @@ tags:
 title: is_a_css_selector_type Class
 type: Type
 dv_is_:
-  parent_class: "[[../Text|Text]]"
+  parent_: 
+    class: "[[../Text|Text]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type|Css_Selector_Type]]"

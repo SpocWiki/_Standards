@@ -35,7 +35,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience/Patient.secret|Patient.secret]]"
     - "[[Patient]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../MedicalAudience, Person|MedicalAudience, Person]]"
   properties:
     - "[[additional_name|additional_name]]"

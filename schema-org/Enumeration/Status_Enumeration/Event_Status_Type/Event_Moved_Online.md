@@ -27,7 +27,8 @@ tags:
 title: is_an_event_moved_online Class
 type: Type
 dv_has_:
-  parent_class: "[[../EventStatusType|EventStatusType]]"
+  parent_: 
+    class: "[[../EventStatusType|EventStatusType]]"
 dv_is_:
   enum_of: "[[../EventStatusType|EventStatusType]]"
   same_as:

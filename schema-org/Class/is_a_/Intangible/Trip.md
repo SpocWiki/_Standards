@@ -34,13 +34,15 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip.secret|Trip.secret]]"
     - "[[Trip]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Trip/Boat_Trip|Boat_Trip]]"
     - "[[Trip/Bus_Trip|Bus_Trip]]"
     - "[[Trip/Flight|Flight]]"
     - "[[Trip/Tourist_Trip|Tourist_Trip]]"
     - "[[Trip/Train_Trip|Train_Trip]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

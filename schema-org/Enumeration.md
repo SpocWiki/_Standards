@@ -34,7 +34,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration.secret|Enumeration.secret]]"
     - "[[Enumeration]]"
 dv_has_:
-  parent_class: "[[Class/is_a_/Intangible|Intangible]]"
+  parent_: 
+    class: "[[Class/is_a_/Intangible|Intangible]]"
   child_class: "[ AdultOrientedEnumeration, BoardingPolicyType, BookFormatType, BusinessEntityType, BusinessFunction, CarUsageType, ContactPointOption, DayOfWeek, DeliveryMethod, DigitalDocumentPermissionType, DigitalPlatformEnumeration, EnergyEfficiencyEnumeration, EventAttendanceModeEnumeration, GameAvailabilityEnumeration, GamePlayMode, GenderType, GovernmentBenefitsType, HealthAspectEnumeration, ItemAvailability, ItemListOrderType, LegalValueLevel, MapCategoryType, MeasurementTypeEnumeration, MediaManipulationRatingEnumeration, MedicalEnumeration, MerchantReturnEnumeration, MusicAlbumProductionType, MusicAlbumReleaseType, MusicReleaseFormatType, NonprofitType, OfferItemCondition, PaymentMethod, PhysicalActivityCategory, PriceComponentTypeEnumeration, PriceTypeEnumeration, ProductReturnEnumeration, QualitativeValue, RefundTypeEnumeration, RestrictedDiet, ReturnFeesEnumeration, ReturnLabelSourceEnumeration, ReturnMethodEnumeration, RsvpResponseType, SizeGroupEnumeration, SizeSystemEnumeration, Specialty, StatusEnumeration, WarrantyScope ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ]"
 dv_has_parent_class: "[[Class/is_a_/Intangible|Intangible]]"

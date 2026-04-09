@@ -27,7 +27,8 @@ tags:
 title: is_a_zone_boarding_policy Class
 type: Type
 dv_has_:
-  parent_class: "[[../BoardingPolicyType|BoardingPolicyType]]"
+  parent_: 
+    class: "[[../BoardingPolicyType|BoardingPolicyType]]"
 dv_is_:
   enum_of: "[[../BoardingPolicyType|BoardingPolicyType]]"
   same_as:

@@ -27,7 +27,8 @@ tags:
 title: is_an_on_site_pickup Class
 type: Type
 dv_has_:
-  parent_class: "[[../DeliveryMethod|DeliveryMethod]]"
+  parent_: 
+    class: "[[../DeliveryMethod|DeliveryMethod]]"
 dv_is_:
   enum_of: "[[../DeliveryMethod|DeliveryMethod]]"
   same_as:

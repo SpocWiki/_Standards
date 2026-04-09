@@ -35,7 +35,8 @@ dv_is_:
     - "[[/_secret/schema-org/Collection/list_item/how_to_item.secret|how_to_item.secret]]"
     - "[[how_to_item]]"
 dv_has_:
-  parent_class: "[[../ListItem|ListItem]]"
+  parent_: 
+    class: "[[../ListItem|ListItem]]"
   child_class: "[ HowToSupply, HowToTool ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../ListItem|ListItem]]"

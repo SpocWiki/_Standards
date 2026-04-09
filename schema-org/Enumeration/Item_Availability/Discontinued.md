@@ -25,7 +25,8 @@ tags:
 title: is_discontinued Class
 type: Type
 dv_has_:
-  parent_class: "[[../ItemAvailability|ItemAvailability]]"
+  parent_: 
+    class: "[[../ItemAvailability|ItemAvailability]]"
 dv_is_:
   enum_of: "[[../ItemAvailability|ItemAvailability]]"
   same_as:

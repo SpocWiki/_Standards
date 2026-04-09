@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.secret|Parent_Audience.secret]]"
     - "[[Parent_Audience]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../PeopleAudience|PeopleAudience]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

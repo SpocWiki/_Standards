@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.secret|Medical_Code.secret]]"
     - "[[Medical_Code]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../CategoryCode, MedicalIntangible|CategoryCode, MedicalIntangible]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

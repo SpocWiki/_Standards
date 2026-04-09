@@ -37,7 +37,8 @@ dv_is_:
     - "[[Lend_Action]]"
 dv_has_:
   inverse: "[[Borrow_Action]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../TransferAction|TransferAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"

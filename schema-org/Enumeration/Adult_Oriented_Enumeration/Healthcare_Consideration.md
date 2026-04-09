@@ -28,7 +28,8 @@ title: is_a_healthcare_consideration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../AdultOrientedEnumeration|AdultOrientedEnumeration]]"
+  parent_: 
+    class: "[[../AdultOrientedEnumeration|AdultOrientedEnumeration]]"
   enum_of: "[[../AdultOrientedEnumeration|AdultOrientedEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration|Healthcare_Consideration]]"

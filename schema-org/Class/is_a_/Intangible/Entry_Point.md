@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Entry_Point.secret|Entry_Point.secret]]"
     - "[[Entry_Point]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_application|has_action_application]]"

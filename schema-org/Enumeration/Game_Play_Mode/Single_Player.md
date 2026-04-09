@@ -27,7 +27,8 @@ tags:
 title: is_a_single_player Class
 type: Type
 dv_has_:
-  parent_class: "[[../GamePlayMode|GamePlayMode]]"
+  parent_: 
+    class: "[[../GamePlayMode|GamePlayMode]]"
 dv_is_:
   enum_of: "[[../GamePlayMode|GamePlayMode]]"
   same_as:

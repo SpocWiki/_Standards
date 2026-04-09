@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Order.secret|Order.secret]]"
     - "[[Order]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../Intangible|Intangible]]"
   properties:
     - "[[accepted_offer|accepted_offer]]"

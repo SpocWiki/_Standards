@@ -25,7 +25,8 @@ tags:
 title: is_a_hardcover Class
 type: Type
 dv_has_:
-  parent_class: "[[../BookFormatType|BookFormatType]]"
+  parent_: 
+    class: "[[../BookFormatType|BookFormatType]]"
 dv_is_:
   enum_of: "[[../BookFormatType|BookFormatType]]"
   same_as:

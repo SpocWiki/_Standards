@@ -24,7 +24,8 @@ tags:
 title: is_a_grant Class
 type: Type
 dv_is_:
-  parent_class: "[[../Intangible|Intangible]]"
+  parent_: 
+    class: "[[../Intangible|Intangible]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Grant|Grant]]"
@@ -36,7 +37,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Grant.secret|Grant.secret]]"
     - "[[Grant]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Grant/Monetary_Grant|Monetary_Grant]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

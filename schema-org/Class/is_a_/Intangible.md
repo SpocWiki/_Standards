@@ -35,7 +35,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible.secret|Intangible.secret]]"
     - "[[Intangible]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Intangible/Action_Access_Specification|Action_Access_Specification]]"
     - "[[Intangible/Alignment_Object|Alignment_Object]]"
     - "[[Intangible/Audience|Audience]]"
@@ -97,7 +98,8 @@ dv_has_:
     - "[[Intangible/Ticket|Ticket]]"
     - "[[Intangible/Trip|Trip]]"
     - "[[Intangible/Virtual_Location|Virtual_Location]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Thing|Thing]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

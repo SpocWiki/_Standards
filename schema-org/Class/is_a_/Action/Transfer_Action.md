@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Transfer_Action.secret|Transfer_Action.secret]]"
     - "[[Transfer_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Transfer_Action/Borrow_Action|Borrow_Action]]"
     - "[[Transfer_Action/Download_Action|Download_Action]]"
     - "[[Transfer_Action/Give_Action|Give_Action]]"
@@ -46,7 +47,8 @@ dv_has_:
     - "[[Transfer_Action/Return_Action|Return_Action]]"
     - "[[Transfer_Action/Send_Action|Send_Action]]"
     - "[[Transfer_Action/Take_Action|Take_Action]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_status|has_action_status]]"

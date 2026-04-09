@@ -27,7 +27,8 @@ tags:
 title: is_an_online_full Class
 type: Type
 dv_has_:
-  parent_class: "[[../GameServerStatus|GameServerStatus]]"
+  parent_: 
+    class: "[[../GameServerStatus|GameServerStatus]]"
 dv_is_:
   enum_of: "[[../GameServerStatus|GameServerStatus]]"
   same_as:

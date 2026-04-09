@@ -27,7 +27,8 @@ tags:
 title: is_an_item_list_order_ascending Class
 type: Type
 dv_has_:
-  parent_class: "[[../ItemListOrderType|ItemListOrderType]]"
+  parent_: 
+    class: "[[../ItemListOrderType|ItemListOrderType]]"
 dv_is_:
   enum_of: "[[../ItemListOrderType|ItemListOrderType]]"
   same_as:

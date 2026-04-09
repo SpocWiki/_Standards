@@ -106,7 +106,8 @@ Commons_category: Observation
 UMLS_CUI: C0302523
 MeSH_tree_code: E05.581.249
 dv_is_:
-  parent_class: '[[../Intangible|Intangible]]'
+  parent_: 
+    class: '[[../Intangible|Intangible]]'
   part_of: https://pending.schema.org
   same_as:
   - '[[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]]'

@@ -26,7 +26,8 @@ tags:
 title: is_a_payment_status_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../StatusEnumeration|StatusEnumeration]]"
+  parent_: 
+    class: "[[../StatusEnumeration|StatusEnumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type|Payment_Status_Type]]"

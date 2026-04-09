@@ -28,7 +28,8 @@ title: is_a_wearable_size_system_europe Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../Wearable_Size_System_Enumeration|Wearable_Size_System_Enumeration]]"
+  parent_: 
+    class: "[[../Wearable_Size_System_Enumeration|Wearable_Size_System_Enumeration]]"
   enum_of: "[[../Wearable_Size_System_Enumeration|Wearable_Size_System_Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Europe|Wearable_Size_System_Europe]]"

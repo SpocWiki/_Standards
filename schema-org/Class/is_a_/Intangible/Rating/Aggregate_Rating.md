@@ -36,9 +36,11 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating.secret|Aggregate_Rating.secret]]"
     - "[[Aggregate_Rating]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Aggregate_Rating/Employer_Aggregate_Rating|Employer_Aggregate_Rating]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Rating|Rating]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

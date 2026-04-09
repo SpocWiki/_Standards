@@ -28,7 +28,8 @@ title: is_an_unincorporated_association_charity Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../UKNonprofitType|UKNonprofitType]]"
+  parent_: 
+    class: "[[../UKNonprofitType|UKNonprofitType]]"
   enum_of: "[[../UKNonprofitType|UKNonprofitType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity|Unincorporated_Association_Charity]]"

@@ -154,7 +154,8 @@ MeSH_tree_code:
 - N05.300
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: '[[../GovernmentBenefitsType|GovernmentBenefitsType]]'
+  parent_: 
+    class: '[[../GovernmentBenefitsType|GovernmentBenefitsType]]'
   enum_of: '[[../GovernmentBenefitsType|GovernmentBenefitsType]]'
   same_as:
   - '[[../../../WikiData/WD~Health_care,31207|WD~Health_care,31207]]'

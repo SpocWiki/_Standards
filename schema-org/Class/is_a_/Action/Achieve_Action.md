@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Achieve_Action.secret|Achieve_Action.secret]]"
     - "[[Achieve_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Achieve_Action/Lose_Action|Lose_Action]]"
     - "[[Achieve_Action/Tie_Action|Tie_Action]]"
     - "[[Achieve_Action/Win_Action|Win_Action]]"

@@ -39,7 +39,8 @@ dv_is_:
     - "[[/_secret/schema-org/Predicate/Quantity/Duration.secret|Duration.secret]]"
     - "[[Duration]]"
 dv_has_:
-  parent_class: "[[../Quantity|Quantity]]"
+  parent_: 
+    class: "[[../Quantity|Quantity]]"
   properties:
 dv_has_parent_class: "[[../Quantity|Quantity]]"
 dv_has_properties:

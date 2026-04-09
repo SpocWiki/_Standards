@@ -27,7 +27,8 @@ tags:
 title: is_a_defined_term Class
 type: Type
 dv_is_:
-  parent_class: "[[../Intangible|Intangible]]"
+  parent_: 
+    class: "[[../Intangible|Intangible]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
@@ -39,7 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term.secret|Defined_Term.secret]]"
     - "[[Defined_Term]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[defined_term/category_code|CategoryCode]]"
   properties:
     - "[[../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"

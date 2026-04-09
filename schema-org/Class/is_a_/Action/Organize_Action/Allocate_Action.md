@@ -36,12 +36,14 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.secret|Allocate_Action.secret]]"
     - "[[Allocate_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Allocate_Action/Accept_Action|Accept_Action]]"
     - "[[Allocate_Action/Assign_Action|Assign_Action]]"
     - "[[Allocate_Action/Authorize_Action|Authorize_Action]]"
     - "[[Allocate_Action/Reject_Action|Reject_Action]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../OrganizeAction|OrganizeAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"

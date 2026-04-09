@@ -217,7 +217,8 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/numbers
 Krugosvet_article_archived_: nauka_i_tehnika/matematika/CHISLO.html
 IMDb_keyword: number-in-title
 dv_has_:
-  child_class:
+  child_:
+    class:
   - '[[Number/Float|Float]]'
   - '[[Number/Integer|Integer]]'
   name_:

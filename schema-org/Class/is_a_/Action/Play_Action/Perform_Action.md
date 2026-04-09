@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Play_Action/Perform_Action.secret|Perform_Action.secret]]"
     - "[[Perform_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../PlayAction|PlayAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"

@@ -26,7 +26,8 @@ tags:
 title: is_an_order_status Class
 type: Type
 dv_has_:
-  parent_class: "[[../StatusEnumeration|StatusEnumeration]]"
+  parent_: 
+    class: "[[../StatusEnumeration|StatusEnumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status|Order_Status]]"

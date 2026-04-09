@@ -27,7 +27,8 @@ tags:
 title: is_a_four_wheel_drive_configuration Class
 type: Type
 dv_has_:
-  parent_class: "[[../DriveWheelConfigurationValue|DriveWheelConfigurationValue]]"
+  parent_: 
+    class: "[[../DriveWheelConfigurationValue|DriveWheelConfigurationValue]]"
 dv_is_:
   enum_of: "[[../DriveWheelConfigurationValue|DriveWheelConfigurationValue]]"
   same_as:

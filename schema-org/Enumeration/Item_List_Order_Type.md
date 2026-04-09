@@ -26,7 +26,8 @@ tags:
 title: is_an_item_list_order_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration|Enumeration]]"
+  parent_: 
+    class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Item_List_Order_Type|Item_List_Order_Type]]"

@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.secret|On_Demand_Event.secret]]"
     - "[[On_Demand_Event]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../PublicationEvent|PublicationEvent]]"
   properties:
     - "[[about|about]]"

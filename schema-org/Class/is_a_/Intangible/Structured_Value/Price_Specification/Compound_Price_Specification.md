@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification.secret|Compound_Price_Specification.secret]]"
     - "[[Compound_Price_Specification]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../PriceSpecification|PriceSpecification]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

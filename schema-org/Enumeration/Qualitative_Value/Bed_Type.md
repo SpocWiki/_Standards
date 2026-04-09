@@ -26,7 +26,8 @@ tags:
 title: is_a_bed_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../DayOfWeek|DayOfWeek]]"
+  parent_: 
+    class: "[[../DayOfWeek|DayOfWeek]]"
 dv_is_:
   enum_of: "[[../DayOfWeek|DayOfWeek]]"
   same_as:

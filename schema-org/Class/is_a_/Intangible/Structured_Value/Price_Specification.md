@@ -36,12 +36,14 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.secret|Price_Specification.secret]]"
     - "[[Price_Specification]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Price_Specification/Compound_Price_Specification|Compound_Price_Specification]]"
     - "[[Price_Specification/Delivery_Charge_Specification|Delivery_Charge_Specification]]"
     - "[[Price_Specification/Payment_Charge_Specification|Payment_Charge_Specification]]"
     - "[[Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../StructuredValue|StructuredValue]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

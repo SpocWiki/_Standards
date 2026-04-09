@@ -36,9 +36,11 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.secret|Geo_Shape.secret]]"
     - "[[Geo_Shape]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Geo_Shape/Geo_Circle|Geo_Circle]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../StructuredValue|StructuredValue]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

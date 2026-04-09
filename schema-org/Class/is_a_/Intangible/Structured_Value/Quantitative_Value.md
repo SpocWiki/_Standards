@@ -37,7 +37,8 @@ dv_is_:
     - "[[Quantitative_Value]]"
   better_than: "[[../../../../Predicate/Quantity|Quantity]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../Structured_Value|Structured_Value]]"
   properties:
     - "[[../../../../Relation/has/has_additional_property|has_additional_property]]"

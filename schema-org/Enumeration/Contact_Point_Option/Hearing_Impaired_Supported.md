@@ -27,7 +27,8 @@ tags:
 title: is_a_hearing_impaired_supported Class
 type: Type
 dv_has_:
-  parent_class: "[[../ContactPointOption|ContactPointOption]]"
+  parent_: 
+    class: "[[../ContactPointOption|ContactPointOption]]"
 dv_is_:
   enum_of: "[[../ContactPointOption|ContactPointOption]]"
   same_as:

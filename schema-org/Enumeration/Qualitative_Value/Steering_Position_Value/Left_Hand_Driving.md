@@ -27,7 +27,8 @@ tags:
 title: is_a_left_hand_driving Class
 type: Type
 dv_has_:
-  parent_class: "[[../SteeringPositionValue|SteeringPositionValue]]"
+  parent_: 
+    class: "[[../SteeringPositionValue|SteeringPositionValue]]"
 dv_is_:
   enum_of: "[[../SteeringPositionValue|SteeringPositionValue]]"
   same_as:

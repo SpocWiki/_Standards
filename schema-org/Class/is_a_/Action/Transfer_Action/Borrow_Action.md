@@ -54,7 +54,8 @@ dv_has_:
     sat: ᱨᱤᱱ
     th: ยืม
     yue: 借
-  parent_class:
+  parent_: 
+    class:
   - '[[../TransferAction|TransferAction]]'
   properties:
   - '[[../../../../Relation/has/has_action/has_action_status|has_action_status]]'

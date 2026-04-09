@@ -36,11 +36,13 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Find_Action.secret|Find_Action.secret]]"
     - "[[Find_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Find_Action/Check_Action|Check_Action]]"
     - "[[Find_Action/Discover_Action|Discover_Action]]"
     - "[[Find_Action/Track_Action|Track_Action]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_status|has_action_status]]"

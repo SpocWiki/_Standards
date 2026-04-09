@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Reserve_Action.secret|Reserve_Action.secret]]"
     - "[[Reserve_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../PlanAction|PlanAction]]"
   properties:
     - "[[../../../../../Relation/has/has_action/has_action_status|has_action_status]]"

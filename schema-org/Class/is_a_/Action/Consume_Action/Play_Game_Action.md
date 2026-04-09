@@ -26,7 +26,8 @@ tags:
 title: is_a_play_game_action Class
 type: Type
 dv_is_:
-  parent_class: "[[../ConsumeAction|ConsumeAction]]"
+  parent_: 
+    class: "[[../ConsumeAction|ConsumeAction]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action|Play_Game_Action]]"

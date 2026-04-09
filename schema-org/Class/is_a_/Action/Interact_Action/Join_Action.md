@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Join_Action.secret|Join_Action.secret]]"
     - "[[Join_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../InteractAction|InteractAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"

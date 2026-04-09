@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Trade_Action.secret|Trade_Action.secret]]"
     - "[[Trade_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Trade_Action/Buy_Action|Buy_Action]]"
     - "[[Trade_Action/Donate_Action|Donate_Action]]"
     - "[[Trade_Action/Order_Action|Order_Action]]"
@@ -46,7 +47,8 @@ dv_has_:
     - "[[Trade_Action/Rent_Action|Rent_Action]]"
     - "[[Trade_Action/Sell_Action|Sell_Action]]"
     - "[[Trade_Action/Tip_Action|Tip_Action]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_status|has_action_status]]"

@@ -24,7 +24,8 @@ tags:
 title: is_a_boolean Class
 type: Type
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Boolean/False|False]]"
     - "[[Boolean/True|True]]"
 dv_is_:

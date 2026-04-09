@@ -161,7 +161,8 @@ dv_is_:
   - '[[Event]]'
   similar_to: '[[Event(computing)]]'
 dv_has_:
-  child_class:
+  child_:
+    class:
   - '[[Event/Business_Event|Business_Event]]'
   - '[[Event/Childrens_Event|Childrens_Event]]'
   - '[[Event/Comedy_Event|Comedy_Event]]'
@@ -291,7 +292,8 @@ dv_has_:
     zh_hant: 活動
     zh_hk: 活動
     zh_tw: 活動
-  parent_class:
+  parent_: 
+    class:
   - '[[../Thing|Thing]]'
   properties:
   - '[[about|about]]'

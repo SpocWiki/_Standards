@@ -28,7 +28,8 @@ title: is_a_definitive_legal_value Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../LegalValueLevel|LegalValueLevel]]"
+  parent_: 
+    class: "[[../LegalValueLevel|LegalValueLevel]]"
   enum_of: "[[../LegalValueLevel|LegalValueLevel]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Legal_Value_Level/Definitive_Legal_Value|Definitive_Legal_Value]]"

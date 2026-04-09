@@ -36,14 +36,16 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Create_Action.secret|Create_Action.secret]]"
     - "[[Create_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Create_Action/Cook_Action|Cook_Action]]"
     - "[[Create_Action/Draw_Action|Draw_Action]]"
     - "[[Create_Action/Film_Action|Film_Action]]"
     - "[[Create_Action/Paint_Action|Paint_Action]]"
     - "[[Create_Action/Photograph_Action|Photograph_Action]]"
     - "[[Create_Action/Write_Action|Write_Action]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_status|has_action_status]]"

@@ -27,7 +27,8 @@ tags:
 title: is_a_payment_due Class
 type: Type
 dv_has_:
-  parent_class: "[[../PaymentStatusType|PaymentStatusType]]"
+  parent_: 
+    class: "[[../PaymentStatusType|PaymentStatusType]]"
 dv_is_:
   enum_of: "[[../PaymentStatusType|PaymentStatusType]]"
   same_as:

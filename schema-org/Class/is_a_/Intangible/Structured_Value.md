@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value.secret|Structured_Value.secret]]"
     - "[[Structured_Value]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Structured_Value/Cdcpmd_Record|CDCPMDRecord]]"
     - "[[Structured_Value/Contact_Point|Contact_Point]]"
     - "[[dated_money_specification|dated_money_specification]]"
@@ -62,7 +63,8 @@ dv_has_:
     - "[[Structured_Value/Shipping_Rate_Settings|Shipping_Rate_Settings]]"
     - "[[Structured_Value/Type_and_Quantity_Node|Type_and_Quantity_Node]]"
     - "[[Structured_Value/Warranty_Promise|Warranty_Promise|]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

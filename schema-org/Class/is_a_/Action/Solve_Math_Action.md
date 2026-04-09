@@ -26,7 +26,8 @@ tags:
 title: is_a_solve_math_action Class
 type: Type
 dv_is_:
-  parent_class: "[[../Action|Action]]"
+  parent_: 
+    class: "[[../Action|Action]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Solve_Math_Action|Solve_Math_Action]]"

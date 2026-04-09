@@ -37,7 +37,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.secret|User_Comments.secret]]"
     - "[[User_Comments]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../UserInteraction|UserInteraction]]"
   properties:
     - "[[about|about]]"

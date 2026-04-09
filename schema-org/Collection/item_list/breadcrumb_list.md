@@ -35,7 +35,8 @@ dv_is_:
     - "[[/_secret/schema-org/Collection/item_list/breadcrumb_list.secret|breadcrumb_list.secret]]"
     - "[[breadcrumb_list]]"
 dv_has_:
-  parent_class: "[[../ItemList|ItemList]]"
+  parent_: 
+    class: "[[../ItemList|ItemList]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../ItemList|ItemList]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"

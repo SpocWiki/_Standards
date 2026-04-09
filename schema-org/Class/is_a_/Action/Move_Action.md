@@ -36,11 +36,13 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Move_Action.secret|Move_Action.secret]]"
     - "[[Move_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Move_Action/Arrive_Action|Arrive_Action]]"
     - "[[Move_Action/Depart_Action|Depart_Action]]"
     - "[[Move_Action/Travel_Action|Travel_Action]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_status|has_action_status]]"

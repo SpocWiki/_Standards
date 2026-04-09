@@ -28,7 +28,8 @@ title: is_a_self_care_health_aspect Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../HealthAspectEnumeration|HealthAspectEnumeration]]"
+  parent_: 
+    class: "[[../HealthAspectEnumeration|HealthAspectEnumeration]]"
   enum_of: "[[../HealthAspectEnumeration|HealthAspectEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/Self_Care_Health_Aspect|Self_Care_Health_Aspect]]"

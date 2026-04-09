@@ -28,7 +28,8 @@ tags:
 title: is_a_read_permission Class
 type: Type
 dv_has_:
-  parent_class: "[[../DigitalDocumentPermissionType|DigitalDocumentPermissionType]]"
+  parent_: 
+    class: "[[../DigitalDocumentPermissionType|DigitalDocumentPermissionType]]"
 dv_is_:
   enum_of: "[[../DigitalDocumentPermissionType|DigitalDocumentPermissionType]]"
   same_as:

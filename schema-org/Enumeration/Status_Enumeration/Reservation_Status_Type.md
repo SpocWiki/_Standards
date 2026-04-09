@@ -26,7 +26,8 @@ tags:
 title: is_a_reservation_status_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../StatusEnumeration|StatusEnumeration]]"
+  parent_: 
+    class: "[[../StatusEnumeration|StatusEnumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type|Reservation_Status_Type]]"

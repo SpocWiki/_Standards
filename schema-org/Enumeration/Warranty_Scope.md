@@ -26,7 +26,8 @@ tags:
 title: is_a_warranty_scope Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration|Enumeration]]"
+  parent_: 
+    class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Warranty_Scope|Warranty_Scope]]"

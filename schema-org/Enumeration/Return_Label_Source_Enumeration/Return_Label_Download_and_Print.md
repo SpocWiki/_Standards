@@ -28,7 +28,8 @@ title: is_a_return_label_download_and_print Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../ReturnLabelSourceEnumeration|ReturnLabelSourceEnumeration]]"
+  parent_: 
+    class: "[[../ReturnLabelSourceEnumeration|ReturnLabelSourceEnumeration]]"
   enum_of: "[[../ReturnLabelSourceEnumeration|ReturnLabelSourceEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print|Return_Label_Download_and_Print]]"

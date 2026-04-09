@@ -25,7 +25,8 @@ tags:
 title: is_a_balance Class
 type: Type
 dv_has_:
-  parent_class: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
+  parent_: 
+    class: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
 dv_is_:
   enum_of: "[[../PhysicalActivityCategory|PhysicalActivityCategory]]"
   same_as:

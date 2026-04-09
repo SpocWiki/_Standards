@@ -27,7 +27,8 @@ tags:
 title: is_a_reservation_hold Class
 type: Type
 dv_has_:
-  parent_class: "[[../ReservationStatusType|ReservationStatusType]]"
+  parent_: 
+    class: "[[../ReservationStatusType|ReservationStatusType]]"
 dv_is_:
   enum_of: "[[../ReservationStatusType|ReservationStatusType]]"
   same_as:

@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.secret|Delete_Action.secret]]"
     - "[[Delete_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../UpdateAction|UpdateAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"

@@ -28,7 +28,8 @@ title: is_a_store_credit_refund Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../RefundTypeEnumeration|RefundTypeEnumeration]]"
+  parent_: 
+    class: "[[../RefundTypeEnumeration|RefundTypeEnumeration]]"
   enum_of: "[[../RefundTypeEnumeration|RefundTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund|Store_Credit_Refund]]"

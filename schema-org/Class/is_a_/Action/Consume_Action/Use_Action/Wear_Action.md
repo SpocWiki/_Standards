@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.secret|Wear_Action.secret]]"
     - "[[Wear_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../UseAction|UseAction]]"
   properties:
     - "[[../../../../../Relation/has/has_action/has_action_accessibility_requirement|has_action_accessibility_requirement]]"

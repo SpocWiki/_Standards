@@ -28,7 +28,8 @@ title: is_an_eu_energy_efficiency_category_a2plus Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../EUEnergyEfficiencyEnumeration|EUEnergyEfficiencyEnumeration]]"
+  parent_: 
+    class: "[[../EUEnergyEfficiencyEnumeration|EUEnergyEfficiencyEnumeration]]"
   enum_of: "[[../EUEnergyEfficiencyEnumeration|EUEnergyEfficiencyEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A2plus|Eu_Energy_Efficiency_Category_A2plus]]"

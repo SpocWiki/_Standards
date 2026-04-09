@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Event/Literary_Event.secret|Literary_Event.secret]]"
     - "[[Literary_Event]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../Event|Event]]"
   properties:
     - "[[about|about]]"

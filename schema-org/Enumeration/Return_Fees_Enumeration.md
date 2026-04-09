@@ -27,7 +27,8 @@ title: is_a_return_fees_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../Enumeration|Enumeration]]"
+  parent_: 
+    class: "[[../Enumeration|Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration|Return_Fees_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Return_Fees_Enumeration.public|Return_Fees_Enumeration.public]]"

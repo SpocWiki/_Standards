@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Achieve_Action/Tie_Action.secret|Tie_Action.secret]]"
     - "[[Tie_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../AchieveAction|AchieveAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"
@@ -99,6 +100,8 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Class/is_a_/Action/Achieve_Action/Tie_Action.personal|Tie_Action.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Action/Achieve_Action/Tie_Action.secret|Tie_Action.secret]]"
 ---
+
+# [[Tie_Action]] 
 
 Class of all tie_actions.
 

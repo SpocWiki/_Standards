@@ -28,7 +28,8 @@ title: is_a_wearable_measurement_hips Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../WearableMeasurementTypeEnumeration|WearableMeasurementTypeEnumeration]]"
+  parent_: 
+    class: "[[../WearableMeasurementTypeEnumeration|WearableMeasurementTypeEnumeration]]"
   enum_of: "[[../WearableMeasurementTypeEnumeration|WearableMeasurementTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Hips|Wearable_Measurement_Hips]]"

@@ -26,7 +26,8 @@ tags:
 title: is_a_delivery_time_settings Class
 type: Type
 dv_is_:
-  parent_class: "[[../StructuredValue|StructuredValue]]"
+  parent_: 
+    class: "[[../StructuredValue|StructuredValue]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings|Delivery_Time_Settings]]"

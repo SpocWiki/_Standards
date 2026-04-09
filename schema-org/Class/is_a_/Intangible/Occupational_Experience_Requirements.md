@@ -26,7 +26,8 @@ tags:
 title: is_an_occupational_experience_requirements Class
 type: Type
 dv_is_:
-  parent_class: "[[../Intangible|Intangible]]"
+  parent_: 
+    class: "[[../Intangible|Intangible]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements|Occupational_Experience_Requirements]]"

@@ -26,7 +26,8 @@ tags:
 title: is_a_health_plan_network Class
 type: Type
 dv_is_:
-  parent_class: "[[../Intangible|Intangible]]"
+  parent_: 
+    class: "[[../Intangible|Intangible]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Health_Plan_Network|Health_Plan_Network]]"

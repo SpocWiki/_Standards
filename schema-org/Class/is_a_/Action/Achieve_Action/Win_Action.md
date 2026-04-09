@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Achieve_Action/Win_Action.secret|Win_Action.secret]]"
     - "[[Win_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../AchieveAction|AchieveAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"

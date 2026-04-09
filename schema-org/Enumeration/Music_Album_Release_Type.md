@@ -26,7 +26,8 @@ tags:
 title: is_a_music_album_release_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration|Enumeration]]"
+  parent_: 
+    class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Album_Release_Type|Music_Album_Release_Type]]"

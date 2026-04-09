@@ -27,7 +27,8 @@ tags:
 title: is_a_pronounceable_text Class
 type: Type
 dv_is_:
-  parent_class: "[[../Text|Text]]"
+  parent_: 
+    class: "[[../Text|Text]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text|Pronounceable_Text]]"
