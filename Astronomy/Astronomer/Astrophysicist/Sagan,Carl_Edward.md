@@ -330,21 +330,67 @@ dv_has_:
 # [[Sagan,Carl_Edward]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Carl_Sagan,410|WD~Carl_Sagan,410]] 
+#has_/created_/quote :: Absence of Evidence is not Evidence of Absence (_Broca’s Brain_, 1979)
+applied to SETI 
+but since this was also used to defend Religion, he refined it: 
+#has_/created_/quote :: Absence of Evidence is not Evidence of Absence, unless Evidence should be there... (_The Demon-Haunted World_, 1995)
+which is the case for: 
+- exhaustive Search 
+- scientific Theories (which are not scientific if they cannot make predictions) 
+
+## Bayesian Framework 
+
+- Evidence updates probability:
+    - No observation → reduces likelihood
+    - update-Strength depends on detection power
+
+P(H & E) = P(H∣E) * P(E) = P(E∣H) * P(H)​ 
+<=> 
+P(H∣E)=P(E∣H) * P(H) / P(E) 
+
+$P(H\mid E)=\frac{P(E\mid H) * P(H)}{P(E)}$
+$$
+P(H\mid E)=\frac{P(E\mid H)*P(H)}{P(E)}
+$$
+### Interpretation
 
 ## #has_/text_of_/abstract 
 
-> Carl Edward Sagan (; SAY-gən; November 9, 1934 – December 20, 1996) 
+> Carl Edward Sagan (SAY-gən; November 9, 1934 – December 20, 1996) 
 > was an American astronomer, planetary scientist and science communicator. 
 > 
-> His best known scientific contribution is his research on the possibility of extraterrestrial life, 
-> including experimental demonstration of the production of amino acids from basic chemicals 
-> by exposure to light. 
+> His best known scientific contribution is his 
+> research on the possibility of extraterrestrial life, 
+> including experimental demonstration of the production of amino acids 
+> from basic chemicals by exposure to light. 
 > 
-> He assembled the first physical messages sent into space, the Pioneer plaque and the Voyager Golden Record, which are universal messages that could potentially be understood by any extraterrestrial intelligence that might find them. He argued in favor of the hypothesis, which has since been accepted, that the high surface temperatures of Venus are the result of the greenhouse effect.
+> He assembled the first physical messages sent into space, 
+> - the Pioneer plaque and the Voyager Golden Record, which are universal messages 
+>   that could potentially be understood by any extraterrestrial intelligence that might find them. 
+> He argued in favor of the hypothesis, which has since been accepted, 
+> that the high surface temperatures of Venus are the result of the greenhouse effect.
 >
-> Initially an assistant professor at Harvard, Sagan later moved to Cornell University, where he spent most of his career. He published more than 600 scientific papers and articles and was author, co-author or editor of more than 20 books. He wrote many popular science books, such as The Dragons of Eden, Broca's Brain, Pale Blue Dot and The Demon-Haunted World. He also co-wrote and narrated the award-winning 1980 television series Cosmos: A Personal Voyage, which became the most widely watched series in the history of American public television: Cosmos has been seen by at least 500 million people in 60 countries. A book, also called Cosmos, was published to accompany the series. Sagan also wrote a science-fiction novel, published in 1985, called Contact, which became the basis for the 1997 film Contact. His papers, comprising 595,000 items, are archived in the Library of Congress.
+> Initially an assistant professor at Harvard, 
+> Sagan later moved to Cornell University, where he spent most of his career. 
+> He published more than 600 scientific papers and articles 
+> and was author, co-author or editor of more than 20 books. 
+> 
+> He wrote many popular science books, such as The Dragons of Eden, Broca's Brain, Pale Blue Dot and The Demon-Haunted World. 
+> 
+> He also co-wrote and narrated the award-winning 1980 television series 
+> Cosmos: A Personal Voyage, 
+> which became the most widely watched series in the history of American public TV: 
+> Cosmos has been seen by at least 500 million people in 60 countries. 
+> A book, also called Cosmos, was published to accompany the series. 
+> Sagan also wrote a science-fiction novel, published in 1985, called Contact, 
+> which became the basis for the 1997 film Contact. 
+> His papers, comprising 595,000 items, are archived in the Library of Congress.
 >
-> Sagan was a popular public advocate of skeptical scientific inquiry and the scientific method; he pioneered the field of exobiology and promoted the search for extraterrestrial intelligence (SETI). He spent most of his career as a professor of astronomy at Cornell University, where he directed the Laboratory for Planetary Studies. Sagan and his works received numerous awards and honors, including the NASA Distinguished Public Service Medal, the National Academy of Sciences Public Welfare Medal, the Pulitzer Prize for General Nonfiction (for his book The Dragons of Eden), and (for Cosmos: A Personal Voyage) two Emmy Awards, the Peabody Award, and the Hugo Award. He married three times and had five children. After developing myelodysplasia, Sagan died of pneumonia at the age of 62 on December 20, 1996.
+> Sagan was a popular public advocate of skeptical scientific inquiry 
+> and the scientific method; he pioneered the field of exobiology 
+> and promoted the search for extraterrestrial intelligence (SETI). 
+> 
+> He spent most of his career as a professor of astronomy at Cornell University, where he directed the Laboratory for Planetary Studies. Sagan and his works received numerous awards and honors, including the NASA Distinguished Public Service Medal, the National Academy of Sciences Public Welfare Medal, the Pulitzer Prize for General Nonfiction (for his book The Dragons of Eden), and (for Cosmos: A Personal Voyage) two Emmy Awards, the Peabody Award, and the Hugo Award. He married three times and had five children. After developing myelodysplasia, Sagan died of pneumonia at the age of 62 on December 20, 1996.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Sagan) 
 

@@ -281,7 +281,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> **Actinopterygii** (from Ancient Greek  ἀκτίς (aktis) 'having rays' and  πτέρυξ (ptérux) 'wing, fins'), 
+> **Actinopterygii** ( from Ancient Greek  ἀκτίς (aktis) 'having rays' and  πτέρυξ (ptérux) 'wing, fins'), 
 > members of which are known as ray-finned fish or actinopterygians, 
 > is a class of bony fish that comprise over 50% of living vertebrate species. 
 > 

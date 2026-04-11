@@ -3,7 +3,7 @@
 
 #is_/same_as :: [[WD~Coelacanth,]]
 
-Absence of evidence is not evidence of Absence 
+Absence of Evidence is not Evidence of Absence 
 Socrates you cannot improve what you cannot measure 
 Dr. [[Spock,Benjamin]] published the bad advice of letting children sleep on their front in a 1958 revision of his book ""
 

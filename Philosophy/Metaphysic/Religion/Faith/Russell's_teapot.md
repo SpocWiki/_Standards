@@ -113,10 +113,23 @@ dv_has_:
 # [[Russell's_teapot]] 
 
 #is_/similar_to :: [[Monotheism/Pastafari|Pastafari]] 
+#is_/different_from :: Absence of Evidence is not Evidence of Absence ([[../../../../Astronomy/Astronomer/Astrophysicist/Sagan,Carl_Edward|Sagan,Carl_Edward]])
+
+Evidence => Truth  
+=> 
+Not Truth => Not Evidence 
+
+but not:
+
+ Truth => Evidence 
+
+But the Relevance of such Truths is questionable, 
+when it has not evidential consequence. 
 
 ## #has_/text_of_/abstract 
 
-> **Russell's teapot** is an analogy, formulated by the philosopher Bertrand Russell (1872–1970), 
+> **Russell's teapot** is an analogy, 
+> formulated by the philosopher Bertrand Russell (1872–1970), 
 > to illustrate that the philosophic burden of proof lies upon a person making empirically unfalsifiable claims, 
 > as **opposed to shifting the burden of disproof to others**.
 >

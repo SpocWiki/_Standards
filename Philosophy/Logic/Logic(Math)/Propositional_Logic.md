@@ -154,7 +154,9 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> Propositional logic is a branch of logic. It is also called statement logic, sentential calculus, propositional calculus, sentential logic, or sometimes zeroth-order logic. 
+> Propositional logic is a branch of logic. 
+> It is also called statement logic, sentential calculus, propositional calculus, 
+> sentential logic, or sometimes zeroth-order logic. 
 > Sometimes, it is called first-order propositional logic to contrast it with System F, 
 > but it should not be confused with first-order logic. 
 > 
