@@ -732,7 +732,9 @@ dv_has_:
 > A **Fish** (pl.: fish or fishes) is an aquatic, anamniotic, gill-bearing vertebrate animal 
 > with swimming fins and a hard skull, but lacking limbs with digits. 
 > 
-> Fish can be grouped into the more basal jawless fish and the more common jawed fish, the latter including all living cartilaginous and bony fish, as well as the extinct placoderms and acanthodians. In a break to the long tradition of grouping all fish into a single class (Pisces), contemporary phylogenetics views fish as a paraphyletic group.
+> Fish can be grouped into the more basal jawless fish 
+> and the more common jawed fish, 
+> the latter including all living cartilaginous and bony fish, as well as the extinct placoderms and acanthodians. In a break to the long tradition of grouping all fish into a single class (Pisces), contemporary phylogenetics views fish as a paraphyletic group.
 >
 > Most fish are cold-blooded, their body temperature varying with the surrounding water, though some large active swimmers like white shark and tuna can hold a higher core temperature. Many fish can communicate acoustically with each other, such as during courtship displays. The study of fish is known as ichthyology.
 >
@@ -747,7 +749,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish|Fish]] 
+### #is_/same_as :: [[Fish|Fish]] 
 
 ### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.public|Fish.public]] 
 

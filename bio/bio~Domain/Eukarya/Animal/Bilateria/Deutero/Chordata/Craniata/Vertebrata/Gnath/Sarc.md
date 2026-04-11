@@ -1,5 +1,7 @@
 ---
 aliases:
+- Sarcopterygii
+- Crossopterygii
 - Actinopterígio
 - Aycha wayt'ana
 - Bojtosúszójú halak
@@ -32,7 +34,6 @@ aliases:
 - Sarcopterigieni
 - sarcopterigis
 - Sarcopterixios
-- Sarcopterygii
 - Sarcoptérygiens
 - Sarkopterigije
 - Sarkopterigoj
@@ -230,7 +231,7 @@ dv_has_:
 
 ![ ](Sarc/Latimeria35531239_a870f7a78.jpg)
 Sarcopterygii, or lobe-finned fish, are distinguished 
-from their parent group within the superclass [[Sarc/Fish/Osteichthyes|Osteichthyes]] (bony fish) 
+from their parent group within the superclass [[Fish/Osteichthyes|Osteichthyes]] (bony fish) 
 by several key anatomical and evolutionary features. Here are some of the main differences:
 
 ## Characteristics 
@@ -255,7 +256,7 @@ Modern sarcopterygian fish include two extant groups: lungfish and coelacanths.
 Lungfish are known for their ability to breathe air using primitive lungs, in addition to gills, 
 allowing them to survive in oxygen-poor water or even burrow into mud during dry periods. 
 
-[[Coelacanth]]s are deep-sea fish that were thought to be extinct 
+[[Sarc/Coelacanth]]s are deep-sea fish that were thought to be extinct 
 until living specimens were discovered in the 20th century. 
 Both lungfish and coelacanths exhibit primitive characteristics 
 reminiscent of early sarcopterygians.
@@ -282,7 +283,7 @@ facilitating more precise movements
 and potentially contributing to the locomotor abilities of early tetrapods.
 
 Overall, sarcopterygian fish represent an important evolutionary lineage 
-within the superclass [[Sarc/Fish/Osteichthyes|Osteichthyes]], 
+within the superclass [[Fish/Osteichthyes|Osteichthyes]], 
 characterized by the presence of lobed fins and other adaptations 
 that played a crucial role in the transition from aquatic to terrestrial environments.
 
@@ -303,7 +304,7 @@ that played a crucial role in the transition from aquatic to terrestrial environ
 
 -   ◊ Sibling Groups of  Gnathostomata
     -   Sarcopterygii
-    -   [Actinopterygii](Actinopterygii.md)
+    -   [Ray-finned_Fish](Ray-finned_Fish.md)
 
 -   » Sub-Groups
     -   [Terrestrial Vertebrates](Sarc/Terrestrial.md)

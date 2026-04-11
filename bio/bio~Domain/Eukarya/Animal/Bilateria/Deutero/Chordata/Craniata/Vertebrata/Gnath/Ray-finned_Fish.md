@@ -269,9 +269,9 @@ dv_has_:
     zu: Actinopterygii
 ---
 
-# [[Actinopterygii]]
+# [[Ray-finned_Fish]]
 
-## Ray-finned fishes 
+## Ray-finned fish 
 
 
 ![ ](Actinopterygii/1411angelfish.jpg)
@@ -281,7 +281,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> **Actinopterygii** ( ; from Ancient Greek  ἀκτίς (aktis) 'having rays' and  πτέρυξ (ptérux) 'wing, fins'), 
+> **Actinopterygii** (from Ancient Greek  ἀκτίς (aktis) 'having rays' and  πτέρυξ (ptérux) 'wing, fins'), 
 > members of which are known as ray-finned fish or actinopterygians, 
 > is a class of bony fish that comprise over 50% of living vertebrate species. 
 > 
@@ -349,7 +349,7 @@ copyright ::            © 2005 [Vearl Brown](http://flickr.com/people/80835774@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Actinopterygii|Actinopterygii]] 
+### #is_/same_as :: [[Ray-finned_Fish|Ray-finned_Fish]] 
 
 ### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Actinopterygii.public|Actinopterygii.public]] 
 
