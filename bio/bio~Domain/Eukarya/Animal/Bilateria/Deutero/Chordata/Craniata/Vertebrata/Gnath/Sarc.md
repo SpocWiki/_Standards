@@ -231,7 +231,7 @@ dv_has_:
 
 ![ ](Sarc/Latimeria35531239_a870f7a78.jpg)
 Sarcopterygii, or lobe-finned fish, are distinguished 
-from their parent group within the superclass [[Fish/Osteichthyes|Osteichthyes]] (bony fish) 
+from their parent group within the superclass [[Fish/Bony_Fish|Bony_Fish]] (bony fish) 
 by several key anatomical and evolutionary features. Here are some of the main differences:
 
 ## Characteristics 
@@ -283,7 +283,7 @@ facilitating more precise movements
 and potentially contributing to the locomotor abilities of early tetrapods.
 
 Overall, sarcopterygian fish represent an important evolutionary lineage 
-within the superclass [[Fish/Osteichthyes|Osteichthyes]], 
+within the superclass [[Fish/Bony_Fish|Bony_Fish]], 
 characterized by the presence of lobed fins and other adaptations 
 that played a crucial role in the transition from aquatic to terrestrial environments.
 

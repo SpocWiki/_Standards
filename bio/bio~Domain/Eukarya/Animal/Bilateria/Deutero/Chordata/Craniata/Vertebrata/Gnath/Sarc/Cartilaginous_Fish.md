@@ -1,101 +1,102 @@
 ---
 aliases:
-- Brjóskfiskar
-- broskfiskar
-- bruskfisk
-- bruskfiskar
-- bruskfisker
-- cartilaginous fish
-- Chnorpelfisch
-- Chondrichthyes
-- Condrictians
-- Condrictios
-- Condrictis
-- Condritti
-- Drsnokožce
-- Graselfasker
-- Hrskavičnjače
-- hrustančnice
-- iasc loingeánach
-- Ika niuniu
-- K'apa challwa
-- Kartilagaj fiŝoj
-- Kimerçäkle-qılçıqlı balıqlar
-- Knorpelfisch
-- Knorpelfische
-- Knorpelfësch
-- Kondriktie
-- Kondriktied
-- Kraakbeenvisse
-- kraakbeenvissen
-- Kreakbienfisken
-- kremzlinės žuvys
-- Kroakbêenvisn
-- Kõhrkalad
-- Kıkırdaklı balıklar
-- Lớp Cá sụn
-- masiyên kirkirkdar
-- Nńg-kut-hî
-- paryby
-- Pichons cartiladjineus
-- Pira ikyrýuva
-- porcos halak
-- Qığırdaqlı balıqlar
-- rustokalat
-- Rušljoribe
-- ryby chrzęstnoszkieletowe
-- Skrimšļzivis
-- Togʻayli baliqlar
-- Æргъиуджын кæфтæ
-- Łóóʼ ooshgę́ęzhii
-- Χονδριχθύες
-- Кемирчектүү балыктар
-- Кимерчәкле балыклар
-- Кимерчәкле-кылчыклы балыклар
-- рушљорибе
-- храстковыя рыбы
-- хрущялни риби
-- хрящевые рыбы
-- хрящові риби
-- Шеміршекті балықтар
-- կռճիկային ձկներ
-- דגי סחוס
-- أسماك غضروفية
-- اسماك غضروفيه
-- غضروفماهیان
-- غضروفی کبان
-- قیغیرداقلی بالیقلار
-- مڑکنی مچھیاں
-- ڪانڊرڪٿيز
-- कन्ड्रिक्थिस
-- कॉन्ड्रीइक्थीज़
-- কনড্রিকথিস
-- ಕಾಂಡ್ರಿಕ್ತೈಸ್
-- ปลากระดูกอ่อน
-- ხრტილიანი თევზები
-- ’рскавични риби
-- 軟骨魚綱
-- 软骨鱼纲
-- 연골어류
+  - Brjóskfiskar
+  - broskfiskar
+  - bruskfisk
+  - bruskfiskar
+  - bruskfisker
+  - cartilaginous fish
+  - Chnorpelfisch
+  - Chondrichthyes
+  - Condrictians
+  - Condrictios
+  - Condrictis
+  - Condritti
+  - Drsnokožce
+  - Graselfasker
+  - Hrskavičnjače
+  - hrustančnice
+  - iasc loingeánach
+  - Ika niuniu
+  - K'apa challwa
+  - Kartilagaj fiŝoj
+  - Kimerçäkle-qılçıqlı balıqlar
+  - Knorpelfisch
+  - Knorpelfische
+  - Knorpelfësch
+  - Kondriktie
+  - Kondriktied
+  - Kraakbeenvisse
+  - kraakbeenvissen
+  - Kreakbienfisken
+  - kremzlinės žuvys
+  - Kroakbêenvisn
+  - Kõhrkalad
+  - Kıkırdaklı balıklar
+  - Lớp Cá sụn
+  - masiyên kirkirkdar
+  - Nńg-kut-hî
+  - paryby
+  - Pichons cartiladjineus
+  - Pira ikyrýuva
+  - porcos halak
+  - Qığırdaqlı balıqlar
+  - rustokalat
+  - Rušljoribe
+  - ryby chrzęstnoszkieletowe
+  - Skrimšļzivis
+  - Togʻayli baliqlar
+  - Æргъиуджын кæфтæ
+  - Łóóʼ ooshgę́ęzhii
+  - Χονδριχθύες
+  - Кемирчектүү балыктар
+  - Кимерчәкле балыклар
+  - Кимерчәкле-кылчыклы балыклар
+  - рушљорибе
+  - храстковыя рыбы
+  - хрущялни риби
+  - хрящевые рыбы
+  - хрящові риби
+  - Шеміршекті балықтар
+  - կռճիկային ձկներ
+  - דגי סחוס
+  - أسماك غضروفية
+  - اسماك غضروفيه
+  - غضروفماهیان
+  - غضروفی کبان
+  - قیغیرداقلی بالیقلار
+  - مڑکنی مچھیاں
+  - ڪانڊرڪٿيز
+  - कन्ड्रिक्थिस
+  - कॉन्ड्रीइक्थीज़
+  - কনড্রিকথিস
+  - ಕಾಂಡ್ರಿಕ್ತೈಸ್
+  - ปลากระดูกอ่อน
+  - ხრტილიანი თევზები
+  - ’рскавични риби
+  - 軟骨魚綱
+  - 软骨鱼纲
+  - 연골어류
+  - Cartilaginous_Fish
 has_id_wikidata: Q25371
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]"
 Commons_category: Chondrichthyes
 described_by_source:
-- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 EPPO_Code: 1CHONC
 Iconclass_notation: 25F61
 image: http://commons.wikimedia.org/wiki/Special:FilePath/White%20shark.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+  - "[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]"
 ITIS_TSN: 159785
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Chondrichthyes.jpg
 start_time: -430000000-01-01
 taxon_name: Chondrichthyes
-taxon_rank: '[[_Standards/WikiData/WD~class,37517|WD~class,37517]]'
+taxon_rank: "[[_Standards/WikiData/WD~class,37517|WD~class,37517]]"
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Taxonomy_Chondrichthyes,13217777|WD~Template_Taxonomy_Chondrichthyes,13217777]]'
+  - "[[_Standards/WikiData/WD~Template_Taxonomy_Chondrichthyes,13217777|WD~Template_Taxonomy_Chondrichthyes,13217777]]"
 UMLS_CUI: C0327606
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]"
 dv_has_:
   name_:
     af: Kraakbeenvisse
@@ -204,6 +205,32 @@ dv_has_:
     zh_cn: 软骨鱼纲
     zh_hans: 软骨鱼纲
     zh_tw: 軟骨魚綱
+confidential: private
+license: (c)copyrighted
+linkTitle: Cartilaginous_Fish
+title: Cartilaginous_Fish
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started: 2026-04-11
+isDeleted: false
+isReadOnly: false
+keywords:
+  - Cartilaginous_Fish
+lang: en
+layout:
+publish: false
+publishDate:
+tags:
+  - Cartilaginous_Fish
+  - excalidraw
+type: private_note
 ---
 
 # [[Cartilaginous_Fish]] 
@@ -251,3 +278,22 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes.secret|Chondrichthyes.secret]] 
 
+
+# [[Cartilaginous_Fish]] 
+
+#is_/part_of :: [[Chondrichthyes]] 
+
+![[Cartilaginous_Fish.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Cartilaginous_Fish.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

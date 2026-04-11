@@ -239,7 +239,7 @@ dv_has_:
     zu: Osteichthyes
 ---
 
-# [[Osteichthyes]] 
+# [[Bony_Fish]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Osteichthyes,27207|WD~Osteichthyes,27207]] 
 
@@ -261,7 +261,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Osteichthyes|Osteichthyes]] 
+### #is_/same_as :: [[Bony_Fish|Osteichthyes]] 
 
 ### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes.public|Osteichthyes.public]] 
 

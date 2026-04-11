@@ -1,189 +1,189 @@
 ---
 aliases:
-- amiter
-- gŭng-chióh
-- huehcan
-- kong-chhioh
-- kûng-tshak
-- linja pi mute weka pi ma ale
-- Läng
-- m
-- meatair
-- meeter
-- meetere
-- meetter
-- mehtar
-- mehter
-- mehtir
-- metar
-- metatra
-- Meter
-- metr
-- metras
-- Metre
-- metri
-- metro
-- metros
-- metrs
-- metru
-- metrum
-- mettar
-- metur
-- metër
-- miita
-- mika
-- mita
-- mitara
-- miter
-- mitir
-- mitre
-- mitru
-- myjter
-- mèt
-- mète
-- mèter
-- mètre
-- méadar
-- mét
-- méter
-- mítà
-- mēter
-- mɛtɛlɛ
-- temira'ãha
-- Unit~Meter
-- μέτρο
-- аметр
-- м
-- мєтро
-- метар
-- Метер
-- метр
-- метра
-- метър
-- миэтэрэ
-- мэтар
-- մեթր
-- մետր
-- מטר
-- מעטער
-- متر
-- ميتر
-- ميترو
-- میٖٹَر
-- میٹر
-- مەتر
-- މީޓަރު
-- ߜߟߊ߬ߜߟߊ
-- मान
-- मिटर
-- मीटर
-- মিটার
-- মিটাৰ
-- ਮੀਟਰ
-- મીટર
-- ମିଟର
-- மீற்றர்
-- మీటరు
-- ಮೀಟರ್
-- മീറ്റർ
-- මීටරය
-- เมตร
-- ແມັດ
-- སྨི།
-- မီတာ
-- မဳတာ
-- მეტრა
-- მეტრი
-- ሜትር
-- ⵎⵉⵜⵔⵓ
-- メートル
-- 公尺
-- 米
-- 메터
-- 미터
+  - amiter
+  - gŭng-chióh
+  - huehcan
+  - kong-chhioh
+  - kûng-tshak
+  - linja pi mute weka pi ma ale
+  - Läng
+  - m
+  - meatair
+  - meeter
+  - meetere
+  - meetter
+  - mehtar
+  - mehter
+  - mehtir
+  - metar
+  - metatra
+  - Meter
+  - metr
+  - metras
+  - Metre
+  - metri
+  - metro
+  - metros
+  - metrs
+  - metru
+  - metrum
+  - mettar
+  - metur
+  - metër
+  - miita
+  - mika
+  - mita
+  - mitara
+  - miter
+  - mitir
+  - mitre
+  - mitru
+  - myjter
+  - mèt
+  - mète
+  - mèter
+  - mètre
+  - méadar
+  - mét
+  - méter
+  - mítà
+  - mēter
+  - mɛtɛlɛ
+  - temira'ãha
+  - Unit~Meter
+  - μέτρο
+  - аметр
+  - м
+  - мєтро
+  - метар
+  - Метер
+  - метр
+  - метра
+  - метър
+  - миэтэрэ
+  - мэтар
+  - մեթր
+  - մետր
+  - מטר
+  - מעטער
+  - متر
+  - ميتر
+  - ميترو
+  - میٖٹَر
+  - میٹر
+  - مەتر
+  - މީޓަރު
+  - ߜߟߊ߬ߜߟߊ
+  - मान
+  - मिटर
+  - मीटर
+  - মিটার
+  - মিটাৰ
+  - ਮੀਟਰ
+  - મીટર
+  - ମିଟର
+  - மீற்றர்
+  - మీటరు
+  - ಮೀಟರ್
+  - മീറ്റർ
+  - මීටරය
+  - เมตร
+  - ແມັດ
+  - སྨི།
+  - မီတာ
+  - မဳတာ
+  - მეტრა
+  - მეტრი
+  - ሜትር
+  - ⵎⵉⵜⵔⵓ
+  - メートル
+  - 公尺
+  - 米
+  - 메터
+  - 미터
 has_id_wikidata: Q11573
 calculated_from:
-- '[[_Standards/WikiData/WD~speed_of_light_in_vacuum,2111|WD~speed_of_light_in_vacuum,2111]]'
-- '[[_Standards/WikiData/WD~second,11574|WD~second,11574]]'
+  - "[[_Standards/WikiData/WD~speed_of_light_in_vacuum,2111|WD~speed_of_light_in_vacuum,2111]]"
+  - "[[_Standards/WikiData/WD~second,11574|WD~second,11574]]"
 Commons_category: Metre
 conversion_to_SI_unit: 1
 conversion_to_standard_unit:
-- 0.0006213711922373339
-- 1
-- 0.001
-- 3.28084
+  - 0.0006213711922373339
+  - 1
+  - 0.001
+  - 3.28084
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932|WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
-different_from: '[[_Standards/WikiData/WD~Damlakaya,6808876|WD~Damlakaya,6808876]]'
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932|WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]"
+different_from: "[[_Standards/WikiData/WD~Damlakaya,6808876|WD~Damlakaya,6808876]]"
 IEV_number: 112-02-05
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Platinum-Iridium%20meter%20bar.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~SI_base_unit,223662|WD~SI_base_unit,223662]]'
-- '[[_Standards/WikiData/WD~unit_of_length,1978718|WD~unit_of_length,1978718]]'
-- '[[_Standards/WikiData/WD~metric_unit,12036470|WD~metric_unit,12036470]]'
-- '[[_Standards/WikiData/WD~UCUM_base_unit,82047053|WD~UCUM_base_unit,82047053]]'
+  - "[[_Standards/WikiData/WD~SI_base_unit,223662|WD~SI_base_unit,223662]]"
+  - "[[_Standards/WikiData/WD~unit_of_length,1978718|WD~unit_of_length,1978718]]"
+  - "[[_Standards/WikiData/WD~metric_unit,12036470|WD~metric_unit,12036470]]"
+  - "[[_Standards/WikiData/WD~UCUM_base_unit,82047053|WD~UCUM_base_unit,82047053]]"
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~distance,126017|WD~distance,126017]]'
-- '[[_Standards/WikiData/WD~radius,173817|WD~radius,173817]]'
-- '[[_Standards/WikiData/WD~displacement,190291|WD~displacement,190291]]'
-- '[[_Standards/WikiData/WD~position_vector,192388|WD~position_vector,192388]]'
-- '[[_Standards/WikiData/WD~height,208826|WD~height,208826]]'
-- '[[_Standards/WikiData/WD~proper_length,3153623|WD~proper_length,3153623]]'
-- '[[_Standards/WikiData/WD~thickness,3589038|WD~thickness,3589038]]'
-- '[[_Standards/WikiData/WD~diffusion_coefficient_for_fluence_rate,98876254|WD~diffusion_coefficient_for_fluence_rate,98876254]]'
-- '[[_Standards/WikiData/WD~width,35059|WD~width,35059]]'
-- '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
-- '[[_Standards/WikiData/WD~diameter,37221|WD~diameter,37221]]'
+  - "[[_Standards/WikiData/WD~distance,126017|WD~distance,126017]]"
+  - "[[_Standards/WikiData/WD~radius,173817|WD~radius,173817]]"
+  - "[[_Standards/WikiData/WD~displacement,190291|WD~displacement,190291]]"
+  - "[[_Standards/WikiData/WD~position_vector,192388|WD~position_vector,192388]]"
+  - "[[_Standards/WikiData/WD~height,208826|WD~height,208826]]"
+  - "[[_Standards/WikiData/WD~proper_length,3153623|WD~proper_length,3153623]]"
+  - "[[_Standards/WikiData/WD~thickness,3589038|WD~thickness,3589038]]"
+  - "[[_Standards/WikiData/WD~diffusion_coefficient_for_fluence_rate,98876254|WD~diffusion_coefficient_for_fluence_rate,98876254]]"
+  - "[[_Standards/WikiData/WD~width,35059|WD~width,35059]]"
+  - "[[_Standards/WikiData/WD~length,36253|WD~length,36253]]"
+  - "[[_Standards/WikiData/WD~diameter,37221|WD~diameter,37221]]"
 OmegaWiki_Defined_Meaning: 160750
 part_of:
-- '[[_Standards/WikiData/WD~MKS_system_of_units,512417|WD~MKS_system_of_units,512417]]'
-- '[[_Standards/WikiData/WD~MKSA_system_of_units,730906|WD~MKSA_system_of_units,730906]]'
-- '[[_Standards/WikiData/WD~International_System_of_Units,12457|WD~International_System_of_Units,12457]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25507292,25507292|WD~Q25507292,25507292]]'
+  - "[[_Standards/WikiData/WD~MKS_system_of_units,512417|WD~MKS_system_of_units,512417]]"
+  - "[[_Standards/WikiData/WD~MKSA_system_of_units,730906|WD~MKSA_system_of_units,730906]]"
+  - "[[_Standards/WikiData/WD~International_System_of_Units,12457|WD~International_System_of_Units,12457]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25507292,25507292|WD~Q25507292,25507292]]"
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Meter-article.ogg
-subdivision_of_this_unit: '[[_Standards/WikiData/WD~decimetre,200323|WD~decimetre,200323]]'
+subdivision_of_this_unit: "[[_Standards/WikiData/WD~decimetre,200323|WD~decimetre,200323]]"
 UCUM_code: m
 unit_symbol:
-- m
-- m
-- m
-- m
-- m
-- م
-- متر
-- м
-- м
-- м
-- м
-- м
-- м
-- м
-- মি
-- ㍍
-- മീ.
-- 公尺
-- மீ
-- 公尺
-- מ'
-- 米
-- m
-- m
-- m
-- м
-- 米
-- م
-- m
-- m
-- m
-- m
-- م
-- μ
-- m
-- m
-- m
-- m
+  - m
+  - m
+  - m
+  - m
+  - m
+  - م
+  - متر
+  - м
+  - м
+  - м
+  - м
+  - м
+  - м
+  - м
+  - মি
+  - ㍍
+  - മീ.
+  - 公尺
+  - மீ
+  - 公尺
+  - מ'
+  - 米
+  - m
+  - m
+  - m
+  - м
+  - 米
+  - م
+  - m
+  - m
+  - m
+  - m
+  - م
+  - μ
+  - m
+  - m
+  - m
+  - m
 UN_CEFACT_Common_Code: MTR
 Wikidata_SPARQL_query_equivalent: wd:Q11573 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 Wolfram_Language_unit_code: '"Meters"'
@@ -431,14 +431,24 @@ Unit :: #Unit/SI/m
 
 ## #has_/text_of_/abstract  
 
-> The metre (or **meter** in American spelling; symbol: m) is the base unit of length in the International System of Units (SI).
+> The metre (or **meter** in American spelling; symbol: m) is the 
+> base unit of length in the International System of Units (SI).
 >
-> The metre was originally defined in 1791 by the French National Assembly as one ten-millionth of the distance from the equator to the North Pole along a great circle, 
-> so the Earth's polar circumference is approximately 40000 km.
+> The metre was originally defined in 1791 by the French National Assembly as 
+> one ten-millionth of the distance from the equator to the North Pole along a great circle, 
+> so the Earth's **polar circumference is ca. 40008 km**,
+> unlike **equatorial circumference which is ca. 60' * 360° = 21600 [[../../Linear_Dimension/Dim~Length/Nautical_Mile|Nautical_Mile]]**.
 >
-> In 1799, the metre was redefined in terms of a prototype metre bar, the bar used was changed in 1889, and in 1960 the metre was redefined in terms of a certain number of wavelengths of a certain emission line of krypton-86. The current definition was adopted in 1983 and modified slightly in 2002 to clarify that the metre is a measure of proper length. From 1983 until 2019, the metre was formally defined as the **length of the path travelled by light in a vacuum in 1/299792458 of a second**. After the 2019 redefinition of the SI base units, this definition was rephrased to include the definition of a second in terms of the caesium frequency ΔνCs. 
+> In 1799, the metre was redefined in terms of a prototype metre bar, 
+> the bar used was changed in 1889, and in 1960 the metre was redefined in terms of a certain number of wavelengths of a certain emission line of krypton-86. 
 > 
-> This series of amendments did **not** alter the size of the metre significantly - today Earth's polar circumference measures 40007.863 km, a change of 0.02% from the original value of exactly 40000 km, which also includes improvements in the accuracy of measuring the circumference.
+> The current definition was adopted in 1983 and modified slightly in 2002 to clarify that the metre is a measure of proper length. From 1983 until 2019, the metre was formally defined as the **length of the path travelled by light in a vacuum in 1/299792458 of a second**. 
+> After the 2019 redefinition of the SI base units, this definition was rephrased to include the definition of a second in terms of the caesium frequency ΔνCs. 
+> 
+> This series of amendments did **not** alter the size of the metre significantly - 
+> today Earth's polar circumference measures 40007.863 km, 
+> a change of 0.02% from the original value of exactly 40000 km, 
+> which also includes improvements in the accuracy of measuring the circumference.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metre) 
 

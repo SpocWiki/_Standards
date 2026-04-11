@@ -1,84 +1,84 @@
 ---
 aliases:
-- Gomeopatiya
-- hoiméapaite
-- homeopathi
-- homeopathia
-- homeopathic
-- homeopathie
-- homeopathy
-- homeopati
-- homeopatia
-- homeopatie
-- homeopatija
-- homeopatio
-- homeopatiya
-- homeopaty
-- homeopatía
-- homeopátia
-- homeopātija
-- homoeopathy
-- homoiopathia
-- homéopathie
-- homéopati
-- Homöopaatia
-- Homöopathie
-- homöopathisch
-- homøopati
-- is_a_homeopathic
-- omeopatia
-- smáskammtalækningar
-- Vi lượng đồng căn
-- ομοιοπαθητική
-- гамеапатыя
-- гамэапатыя
-- гомеопатія
-- гомеопати
-- гомеопатия
-- хомеопатија
-- хомеопатия
-- האמעאפאטיע
-- הומאופתיה
-- معالجة مثلية
-- معالجہ المثلیہ
-- هومئوپاتی
-- هومیوپاتي
-- ہومیوپیھتی
-- होमिओपथी
-- होमिओपॅथी
-- होमियोपति
-- होमियोप्याथी
-- होम्योपैथी
-- হোমিঅ’পেথি
-- হোমিওপ্যাথি
-- ਹੋਮੀਓਪੈਥੀ
-- હોમિયોપેથી
-- ஓமியோபதி
-- హోమియోపతీ వైద్య విధానం
-- ಹೋಮಿಯೋಪಥಿ
-- ഹോമിയോപ്പതി
-- හෝමියෝපති
-- โฮมีโอพาธี
-- ჰომეოპათია
-- ホメオパシー
-- 順勢療法
-- 顺势疗法
-- 동종요법
+  - Gomeopatiya
+  - hoiméapaite
+  - homeopathi
+  - homeopathia
+  - homeopathic
+  - homeopathie
+  - homeopathy
+  - homeopati
+  - homeopatia
+  - homeopatie
+  - homeopatija
+  - homeopatio
+  - homeopatiya
+  - homeopaty
+  - homeopatía
+  - homeopátia
+  - homeopātija
+  - homoeopathy
+  - homoiopathia
+  - homéopathie
+  - homéopati
+  - Homöopaatia
+  - Homöopathie
+  - homöopathisch
+  - homøopati
+  - is_a_homeopathic
+  - omeopatia
+  - smáskammtalækningar
+  - Vi lượng đồng căn
+  - ομοιοπαθητική
+  - гамеапатыя
+  - гамэапатыя
+  - гомеопатія
+  - гомеопати
+  - гомеопатия
+  - хомеопатија
+  - хомеопатия
+  - האמעאפאטיע
+  - הומאופתיה
+  - معالجة مثلية
+  - معالجہ المثلیہ
+  - هومئوپاتی
+  - هومیوپاتي
+  - ہومیوپیھتی
+  - होमिओपथी
+  - होमिओपॅथी
+  - होमियोपति
+  - होमियोप्याथी
+  - होम्योपैथी
+  - হোমিঅ’পেথি
+  - হোমিওপ্যাথি
+  - ਹੋਮੀਓਪੈਥੀ
+  - હોમિયોપેથી
+  - ஓமியோபதி
+  - హోమియోపతీ వైద్య విధానం
+  - ಹೋಮಿಯೋಪಥಿ
+  - ഹോമിയോപ്പതി
+  - හෝමියෝපති
+  - โฮมีโอพาธี
+  - ჰომეოპათია
+  - ホメオパシー
+  - 順勢療法
+  - 顺势疗法
+  - 동종요법
 has_id_wikidata: Q81058
-founded_by: '[[_Standards/WikiData/WD~Samuel_Hahnemann,157056|WD~Samuel_Hahnemann,157056]]'
-subclass_of: '[[_Standards/WikiData/WD~alternative_medicine,188504|WD~alternative_medicine,188504]]'
+founded_by: "[[_Standards/WikiData/WD~Samuel_Hahnemann,157056|WD~Samuel_Hahnemann,157056]]"
+subclass_of: "[[_Standards/WikiData/WD~alternative_medicine,188504|WD~alternative_medicine,188504]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541|WD~Encyclop�dia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclop�dia,3181656|WD~The_Nuttall_Encyclop�dia,3181656]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclop�dia,19077875|WD~The_American_Cyclop�dia,19077875]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541|WD~Encyclop�dia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclop�dia,3181656|WD~The_Nuttall_Encyclop�dia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclop�dia,19077875|WD~The_American_Cyclop�dia,19077875]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 instance_of:
-- '[[_Standards/WikiData/WD~parascience,1517851|WD~parascience,1517851]]'
-- '[[_Standards/WikiData/WD~alternative_medicine,31338769|WD~alternative_medicine,31338769]]'
-- '[[_Standards/WikiData/WD~branch_of_pseudoscience,60031086|WD~branch_of_pseudoscience,60031086]]'
-uses: '[[_Standards/WikiData/WD~homeopathic_preparation,1626450|WD~homeopathic_preparation,1626450]]'
-practiced_by: '[[_Standards/WikiData/WD~homeopath,12020057|WD~homeopath,12020057]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27096430,27096430|WD~Q27096430,27096430]]'
+  - "[[_Standards/WikiData/WD~parascience,1517851|WD~parascience,1517851]]"
+  - "[[_Standards/WikiData/WD~alternative_medicine,31338769|WD~alternative_medicine,31338769]]"
+  - "[[_Standards/WikiData/WD~branch_of_pseudoscience,60031086|WD~branch_of_pseudoscience,60031086]]"
+uses: "[[_Standards/WikiData/WD~homeopathic_preparation,1626450|WD~homeopathic_preparation,1626450]]"
+practiced_by: "[[_Standards/WikiData/WD~homeopath,12020057|WD~homeopath,12020057]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27096430,27096430|WD~Q27096430,27096430]]"
 OmegaWiki_Defined_Meaning: 8121
 Colon_Classification: LL
 Commons_category: Homeopathy
@@ -88,29 +88,29 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Homoepathikas.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lecture%205%20-%20Homeopathy.webm
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/homeopathy
 Dewey_Decimal_Classification:
-- 615.532
-- 636.0895532
+  - 615.532
+  - 636.0895532
 UMLS_CUI: C0684199
 MeSH_tree_code: E02.190.388
 OpenStreetMap_tag: healthcare:speciality=homeopathy
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
 enumerationtype: MedicineSystem
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- homeopathic
-layout: ''
+  - homeopathic
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_homeopathic Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_homeopathic Class
 type: Type
 dv_has_:
@@ -219,7 +219,11 @@ dv_has_:
 Tag Instances like this: 
 #is_a_/homeopathic
 
-A system of medicine based on the principle that a disease can be cured by a substance that produces similar symptoms in healthy people.
+A system of medicine based on the 
+principle that a disease can be cured by a 
+**substance that produces similar symptoms** in healthy people.
+
+The [[../../Drug/Medication/Placebo|Placebo]] Effect largely contributes to its success. 
 
 #has_/parent_class :: [[../MedicineSystem|MedicineSystem]]  
 

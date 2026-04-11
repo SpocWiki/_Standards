@@ -278,7 +278,7 @@ and have contributed to their evolutionary success and diversity.
 
 -   » Sub-Groups
     -   [Sarcopterygii](Gnath/Sarc.md)
-    -   [Actinopterygii](Gnath/Actinopterygii.md)
+    -   [Ray-finned_Fish](Gnath/Ray-finned_Fish.md)
 
 ## Jawed Vertebrates 
 
