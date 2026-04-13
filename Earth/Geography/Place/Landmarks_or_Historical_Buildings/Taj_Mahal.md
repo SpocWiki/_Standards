@@ -335,7 +335,7 @@ dv_has_:
 
 # [[Taj_Mahal]] 
 
-![[../../../../assets/Taj_Mahal.png|Taj_Mahal.png]] 
+![[../../../../assets/Taj_Mahal.png|Taj_Mahal.png|850]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Taj_Mahal,9141|WD~Taj_Mahal,9141]] 
 

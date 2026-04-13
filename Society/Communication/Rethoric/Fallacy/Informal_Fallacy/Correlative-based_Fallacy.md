@@ -11,17 +11,20 @@ dv_has_:
     sl: zmota glede korelacije
     uk: помилки корелятивних сполучників
 aliases:
-- correlative-based fallacy
-- korrelasjonsbasert feilslutning
-- korrelativbaseret fejlslutning
-- op correlatie gebaseerde misvatting
-- zmota glede korelacije
-- Διαζευκτικές Πλάνες
-- помилки корелятивних сполучників
-- כשלי מתאם
+  - correlative-based fallacy
+  - korrelasjonsbasert feilslutning
+  - korrelativbaseret fejlslutning
+  - op correlatie gebaseerde misvatting
+  - zmota glede korelacije
+  - Διαζευκτικές Πλάνες
+  - помилки корелятивних сполучників
+  - כשלי מתאם
+subclass_of: "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
 ---
 
 # [[Correlative-based_Fallacy]]  
+
+#is_/same_as :: [[WD~Correlative-based_Fallacy,2912344]]  
 
 ## #has_/text_of_/abstract 
 
