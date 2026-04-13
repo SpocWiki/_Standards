@@ -66,7 +66,7 @@ instance_of: "[[_Standards/WikiData/WD~personality_trait,2393196|WD~personality_
 ## #has_/text_of_/abstract 
 
 > **openness to experience** is one of the domains which are used to describe human personality 
-> in both the [[../Personality~Big5|Personality~Big5]],Five Factor Model and the [[../Personality~HEXACO|Personality~HEXACO]]. 
+> in both the [[../Personality~Big5(OCEAN)|Personality~Big5(OCEAN)]],Five Factor Model and the [[../Personality~HEXACO|Personality~HEXACO]]. 
 > 
 > Openness involves six facets, or dimensions: 
 > - active imagination (fantasy), 

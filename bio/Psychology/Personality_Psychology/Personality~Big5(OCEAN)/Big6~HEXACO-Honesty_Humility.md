@@ -14,7 +14,7 @@ Approximately 93.75 % of Honesty–Humility variance remains unexplained by the 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big6~HEXACO-Honesty_Humility|Big6~HEXACO-Honesty_Humility]] 
+### #is_/same_as :: [[Big6~HEXACO-Honesty_Humility|Big6~HEXACO-Honesty_Humility]] 
 
 ### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big6~HEXACO-Honesty_Humility.public|Big6~HEXACO-Honesty_Humility.public]] 
 

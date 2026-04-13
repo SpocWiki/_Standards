@@ -151,7 +151,7 @@ correlations:
     O: 0.05
 ---
 
-# [[Personality~Big5]] 
+# [[Personality~Big5(OCEAN)]] 
 
 #is_/similar_to :: [[./Personality~HEXACO|Personality~HEXACO]] 
 
@@ -185,15 +185,15 @@ dv.view("_orga/JS/HeatMapTableMd", {keyed2D:dv.current().correlations, colors:["
 
 #has_/url_ :: [Persönlichkeitstest](https://www.lw.uni-leipzig.de/wilhelm-wundt-institut-fuer-psychologie/arbeitsgruppen/persoenlichkeitspsychologie-und-psychologische-diagnostik/persoenlichkeitstest)  
 
-## [[Personality~Big5/Big5~X-Extraversion|Big5~X-Extraversion]]
+## [[Personality~Big5(OCEAN)/Big5~X-Extraversion|Big5~X-Extraversion]]
 
-## [[Personality~Big5/Big5~A-Agreeableness|Big5~A-Agreeableness]]
+## [[Personality~Big5(OCEAN)/Big5~A-Agreeableness|Big5~A-Agreeableness]]
 
-## [[Personality~Big5/Big5~C-Conscientiousness|Big5~C-Conscientiousness]] 
+## [[Personality~Big5(OCEAN)/Big5~C-Conscientiousness|Big5~C-Conscientiousness]] 
 
-## [[Personality~Big5/Big5~E-Emotional_Stability|Big5~E-Emotional_Stability]] 
+## [[Personality~Big5(OCEAN)/Big5~E-Emotional_Stability|Big5~E-Emotional_Stability]] 
 
-## [[Personality~Big5/Big5~O-Openness|Big5~O-Openness]] 
+## [[Personality~Big5(OCEAN)/Big5~O-Openness|Big5~O-Openness]] 
 
 
 ## #has_/text_of_/abstract 
@@ -238,7 +238,7 @@ dv.view("_orga/JS/HeatMapTableMd", {keyed2D:dv.current().correlations, colors:["
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5|Personality~Big5]] 
+### #is_/same_as :: [[Personality~Big5(OCEAN)|Personality~Big5(OCEAN)]] 
 
 ### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5.public|Personality~Big5.public]] 
 

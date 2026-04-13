@@ -100,7 +100,7 @@ dv_has_:
 
 # [[Big5~A-Agreeableness]] 
 
-#is_/part_of :: [[../Personality~Big5|Personality~Big5]] 
+#is_/part_of :: [[../Personality~Big5(OCEAN)|Personality~Big5(OCEAN)]] 
 
 Amicability or agreeableness (A) measures kindness, helpfulness, and willingness to cooperate.  
 - HEXACO: Agreeableness emphasizes forgiveness, patience, and tolerance.  
@@ -137,7 +137,7 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~A-Agreeableness|Big5~A-Agreeableness]] 
+### #is_/same_as :: [[Big5~A-Agreeableness|Big5~A-Agreeableness]] 
 
 ### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~A-Agreeableness.public|Big5~A-Agreeableness.public]] 
 

@@ -29,7 +29,7 @@ aliases:
 
 # [[Personality~HEXACO]] 
 
-#is_/similar_to :: [[./Personality~Big5|Personality~Big5]] 
+#is_/similar_to :: [[Personality~Big5(OCEAN)|Personality~Big5(OCEAN)]] 
 
 ## #has_/text_of_/abstract 
 

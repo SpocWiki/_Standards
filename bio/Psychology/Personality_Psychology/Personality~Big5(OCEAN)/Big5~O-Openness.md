@@ -86,7 +86,7 @@ dv_has_:
 
 # [[Big5~O-Openness]] 
 
-#is_/part_of :: [[../Personality~Big5|Personality~Big5]] 
+#is_/part_of :: [[../Personality~Big5(OCEAN)|Personality~Big5(OCEAN)]] 
 
 openness (O) measures creativity, curiosity, and willingness to entertain new ideas. 
 
@@ -148,7 +148,7 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~O-Openness|Big5~O-Openness]] 
+### #is_/same_as :: [[Big5~O-Openness|Big5~O-Openness]] 
 
 ### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~O-Openness.public|Big5~O-Openness.public]] 
 
