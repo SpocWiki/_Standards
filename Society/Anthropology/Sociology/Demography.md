@@ -1,90 +1,91 @@
 ---
 aliases:
-- aalmugtieđâ
-- demograafia
-- demograffeg
-- demografi
-- demografia
-- demografie
-- demografiija
-- demografija
-- demografije
-- Demografio
-- demografiya
-- demografiye
-- demografy
-- demografía
-- demographia
-- Demography
-- demograpiya
-- demográfia
-- demogrāfija
-- demoqrafiya
-- dimografìa
-- déimeagrafaíocht
-- démografi
-- démographie
-- fólkatalsfrøði
-- Gelhenasî
-- Jîn-kháu-ha̍k
-- Lýðfræði
-- narodtiõđ
-- nhân khẩu học
-- poblañsouriezh
-- runayupay
-- tatauranga ā-iwi
-- väestötiede
-- δημογραφία
-- демографія
-- демографи
-- Демографија
-- демография
-- демографиясь
-- дэмаграфія
-- Ҷамъиятшиносӣ
-- Ժողովրդագրություն
-- דמוגרפיה
-- דעמאגראפיע
-- آبادیات
-- جمعیتشناسی
-- جەماوەرناسی
-- ديموݢرافي
-- علم السكان
-- وګړشمېرنه
-- जनगणनाशास्त्र
-- जनसांख्यिकी
-- जनसाङ्ख्यिकी
-- জনসংখ্যাতত্ত্ব
-- ਡੈਮੋਗਰਾਫ਼ੀ
-- વસ્તી-વિષયક માહિતીઓ
-- மக்கள் தொகையியல்
-- ಅಂಕಿಸಂಖ್ಯಾಶಾಸ್ತ್ರ/ಜನಸಂಖ್ಯಾ ವಿಜ್ಞಾನ /ಜನಸ್ಥಿತಿ ಅಧ್ಯಯನ
-- ജനസംഖ്യാപഠനം
-- ประชากรศาสตร์
-- დემოგრაფია
-- ⵜⴰⵔⴰⵎⵣⴷⴰⵖⵜ
-- 人口学
-- 人口學
-- 人口統計学
-- 人口統計學
-- 인구통계학
+  - aalmugtieđâ
+  - demograafia
+  - demograffeg
+  - demografi
+  - demografia
+  - demografie
+  - demografiija
+  - demografija
+  - demografije
+  - Demografio
+  - demografiya
+  - demografiye
+  - demografy
+  - demografía
+  - demographia
+  - Demography
+  - demograpiya
+  - demográfia
+  - demogrāfija
+  - demoqrafiya
+  - dimografìa
+  - déimeagrafaíocht
+  - démografi
+  - démographie
+  - fólkatalsfrøði
+  - Gelhenasî
+  - Jîn-kháu-ha̍k
+  - Lýðfræði
+  - narodtiõđ
+  - nhân khẩu học
+  - poblañsouriezh
+  - runayupay
+  - tatauranga ā-iwi
+  - väestötiede
+  - δημογραφία
+  - демографія
+  - демографи
+  - Демографија
+  - демография
+  - демографиясь
+  - дэмаграфія
+  - Ҷамъиятшиносӣ
+  - Ժողովրդագրություն
+  - דמוגרפיה
+  - דעמאגראפיע
+  - آبادیات
+  - جمعیتشناسی
+  - جەماوەرناسی
+  - ديموݢرافي
+  - علم السكان
+  - وګړشمېرنه
+  - जनगणनाशास्त्र
+  - जनसांख्यिकी
+  - जनसाङ्ख्यिकी
+  - জনসংখ্যাতত্ত্ব
+  - ਡੈਮੋਗਰਾਫ਼ੀ
+  - વસ્તી-વિષયક માહિતીઓ
+  - மக்கள் தொகையியல்
+  - ಅಂಕಿಸಂಖ್ಯಾಶಾಸ್ತ್ರ/ಜನಸಂಖ್ಯಾ ವಿಜ್ಞಾನ /ಜನಸ್ಥಿತಿ ಅಧ್ಯಯನ
+  - ജനസംഖ്യാപഠനം
+  - ประชากรศาสตร์
+  - დემოგრაფია
+  - ⵜⴰⵔⴰⵎⵣⴷⴰⵖⵜ
+  - 人口学
+  - 人口學
+  - 人口統計学
+  - 人口統計學
+  - 인구통계학
+  - Demographics
 has_id_wikidata: Q37732
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-is_the_study_of: '[[_Standards/WikiData/WD~demographics,2725376|WD~demographics,2725376]]'
-different_from: '[[_Standards/WikiData/WD~demographics,2725376|WD~demographics,2725376]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+is_the_study_of: "[[_Standards/WikiData/WD~demographics,2725376|WD~demographics,2725376]]"
+different_from: "[[_Standards/WikiData/WD~demographics,2725376|WD~demographics,2725376]]"
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
-uses: '[[_Standards/WikiData/WD~population_statistics,7229821|WD~population_statistics,7229821]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Demography,10963921|WD~Template_Demography,10963921]]'
-practiced_by: '[[_Standards/WikiData/WD~demographer,12360779|WD~demographer,12360779]]'
+  - "[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]"
+uses: "[[_Standards/WikiData/WD~population_statistics,7229821|WD~population_statistics,7229821]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Demography,10963921|WD~Template_Demography,10963921]]"
+practiced_by: "[[_Standards/WikiData/WD~demographer,12360779|WD~demographer,12360779]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~geography,1071|WD~geography,1071]]'
-- '[[_Standards/WikiData/WD~social_science,34749|WD~social_science,34749]]'
-part_of: '[[_Standards/WikiData/WD~geography,1071|WD~geography,1071]]'
+  - "[[_Standards/WikiData/WD~geography,1071|WD~geography,1071]]"
+  - "[[_Standards/WikiData/WD~social_science,34749|WD~social_science,34749]]"
+part_of: "[[_Standards/WikiData/WD~geography,1071|WD~geography,1071]]"
 Universal_Decimal_Classification: 314
 OmegaWiki_Defined_Meaning: 874
 All_Science_Journal_Classification_Codes: 3317
@@ -95,9 +96,9 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Demogra
 Wolfram_Language_entity_code: Entity["Concept", "Demography::7xbx7"]
 Krugosvet_article: gumanitarnye_nauki/sociologiya/DEMOGRAFIYA.html
 MeSH_tree_code:
-- I01.240
-- N01.224
-- N06.850.505.400
+  - I01.240
+  - N01.224
+  - N06.850.505.400
 dv_has_:
   name_:
     af: Demografie
@@ -234,6 +235,35 @@ dv_has_:
 # [[Demography]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Demography,37732|WD~Demography,37732]] 
+
+
+| Aspect         | Demography                    | Demographics                        |
+| -------------- | ----------------------------- | ----------------------------------- |
+| Nature         | Academic field                | Data / attributes                   |
+| Focus          | Population dynamics over time | Snapshot of population traits       |
+| Output type    | Models, theories, projections | Statistics, profiles                |
+| Time dimension | **Longitudinal** (time-based) | **Cross-sectional** (point-in-time) |
+| Main users     | Researchers, statisticians    | Marketers, policymakers, businesses |
+## Demographics
+
+**Demographics** refers to the **statistical characteristics of a population at a given time**,
+i.e. specific Instances of Demography. 
+It is the descriptive data that demography studies and analyzes.
+### Common variables
+
+#### [[Demography/Age-Group|Age-Group]]  
+
+#### [[../../../bio/Reproduction/Sexual_Reproduction/Gender|Gender]] 
+#### Income-Groups 
+#### Education level 
+#### Occupation 
+#### [[Human_Social_Group/Nation/Ethnic_Group|ethnicity]] 
+
+### Typical uses
+
+- Market research
+- Public policy targeting
+- Customer segmentation
 
 ## #has_/text_of_/abstract 
 

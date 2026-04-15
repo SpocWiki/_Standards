@@ -29,7 +29,7 @@ type: private note
 dv_is_:
   part_of: "[[China]]"
   same_as:
-    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Population-Groups|Population-Groups]]"
+    - "[[Age-Group|Age-Groups]]"
     - "[[/_public/Earth/Continent/Asia/Asia~East/Population-Groups.public|Population-Groups.public]]"
     - "[[/_internal/Earth/Continent/Asia/Asia~East/Population-Groups.internal|Population-Groups.internal]]"
     - "[[/_protect/Earth/Continent/Asia/Asia~East/Population-Groups.protect|Population-Groups.protect]]"
@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_secret/Earth/Continent/Asia/Asia~East/Population-Groups.secret|Population-Groups.secret]]"
 dv_is_part_of: "[[China]]"
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Population-Groups|Population-Groups]]"
+  - "[[Age-Group|Age-Groups]]"
   - "[[/_public/Earth/Continent/Asia/Asia~East/Population-Groups.public|Population-Groups.public]]"
   - "[[/_internal/Earth/Continent/Asia/Asia~East/Population-Groups.internal|Population-Groups.internal]]"
   - "[[/_protect/Earth/Continent/Asia/Asia~East/Population-Groups.protect|Population-Groups.protect]]"
@@ -47,9 +47,7 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Asia/Asia~East/Population-Groups.secret|Population-Groups.secret]]"
 ---
 
-# [[Population-Groups]] 
-
-is_part_of = `=this.dv_is_part_of`
+# [[Age-Group]] 
 
 ## Population-Groups 
 
@@ -65,7 +63,7 @@ Highest Productivity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Population-Groups|Population-Groups]] 
+### #is_/same_as :: [[Age-Group|Age-Groups]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Population-Groups.public|Population-Groups.public]] 
 

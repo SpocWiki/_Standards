@@ -104,7 +104,7 @@ dv_is_same_as:
 Predicate to describe the geo:lat_long of an Action, Event, InteractionCounter, Organization.
 For [[../../../../Knowledge/PKM(Personal_Knowledge_Management)/Obsidian-SW/Obsidian~PlugIn/Obsidian~Leaflet|Obsidian~Leaflet]] the location Predicate must be a JSON-Array of 2 or 3 float-point Numbers, 
 but otherwise the square brackets may be omitted. 
-[[../../../../_public/geo|geo]]  
+[[../../../Earth|Earth]]  
 The Units are defaulted to degrees and meters for the optional elevation, 
 the Event can be appended like so: 
 #has_/location_/created 
