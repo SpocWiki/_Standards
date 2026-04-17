@@ -334,17 +334,23 @@ dv_has_:
 applied to SETI 
 but since this was also used to defend Religion, he refined it: 
 #has_/created_/quote :: Absence of Evidence is not Evidence of Absence, unless Evidence should be there... (_The Demon-Haunted World_, 1995)
-which is the case for: 
+...which is the case for: 
 - exhaustive Search 
 - scientific Theories (which are not scientific if they cannot make predictions) 
 
 ## Bayesian Framework 
 
 - Evidence updates probability:
-    - No observation → reduces likelihood
+    - No observation → reduces likelihood 
     - update-Strength depends on detection power
 
-P(H & E) = P(H∣E) * P(E) = P(E∣H) * P(H)​ 
+P(H) = P(H | E) * P(E) + P(H | !E) * (1 - P(E))
+
+P(H) * P(E) = (P(H | E) * P(E) + P(H | !E) * (1 - P(E))) * P(E)  
+= P(H | E) * P(E)² + P(H | !E) * (1-P(E)) * P(E) 
+
+P(H)        = P(H | E) * P(E) + P(H | !E) * (1 - P(E)) >= 
+P(H & E) = P(H ∣ E) * P(E) = P(E ∣ H) * P(H)​  
 <=> 
 P(H∣E)=P(E∣H) * P(H) / P(E) 
 

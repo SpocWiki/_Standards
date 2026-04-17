@@ -163,10 +163,145 @@ dv_has_:
 
 #is_/same_as :: [[../../../WikiData/WD~Argument,186619|WD~Argument,186619]] 
 
+the main flows are:  
+Facts → true premises → argument evaluation → warranted conclusion.  
+Lies → false premises → argument evaluation → unjustified or misleading conclusion.
+
+The decisive formal distinction is:  
+- Deductive quality is assessed by validity and soundness.  
+- Inductive quality is assessed by strength and cogency.
+
+## #has_/diagram  
+
+| Symbol   | Meaning                                          | Typical domain                        |
+| -------- | ------------------------------------------------ | ------------------------------------- |
+| Γ        | Set of premises                                  | Deductive and general argument schema |
+| C        | Conclusion                                       | Both                                  |
+| Γ ⊢ C    | `C` is derivable from `Γ` in a proof system      | Syntactic notion                      |
+| Γ ⊨ C    | `C` is a semantic consequence of `Γ`             | Semantic notion                       |
+| Δ        | Set of premises for inductive schema             | **Inductive** arguments               |
+| Pr(C\|Δ) | Conditional probability of `C` given `Δ`         | **Inductive** support                 |
+| Valid    | If premises are true, conclusion cannot be false | **Deductive** evaluation              |
+| Sound    | Valid and premises are true                      | **Deductive** evaluation              |
+| Strong   | Premises make conclusion highly probable         | **Inductive** evaluation              |
+| Cogent   | Strong and premises are true                     | **Inductive** evaluation              |
+
+
+
+```mermaid
+flowchart TB  
+    subgraph Sources  
+        F["F<br/>Fact-set / verified information"]  
+        L["L<br/>Lie-set / deceptive information"]  
+    end  
+  
+    subgraph Premise_Construction  
+        G{"Γ<br/>Premise set for deductive argument"}  
+        D{"Δ<br/>Premise set for inductive argument"}  
+        T["T(Γ), T(Δ)<br/>Premises are true / reliable"]  
+        NT["¬T(Γ), ¬T(Δ)<br/>Premises are false / unreliable"]  
+    end  
+  
+    subgraph Deductive_Schema  
+        Deriv{"Γ ⊢ C<br/>Derivability claim"}  
+        Conseq{"Γ ⊨ C<br/>Semantic consequence claim"}  
+        Valid{"Valid<br/>Correct deductive support"}  
+        FormalFall["Formal fallacy<br/>¬Valid"]  
+        Sound["Sound<br/>Valid ∧ T(Γ)"]  
+        Unsound["Unsound<br/>Valid ∧ ¬T(Γ)"]  
+    end  
+  
+    subgraph Inductive_Schema  
+        Prob{"Pr(C | Δ)<br/>Degree of support"} 
+        Strong{"Strong<br/>Pr(C | Δ) is high"}  
+        Weak["Weak<br/>Pr(C | Δ) is low"]  
+        InformalFall["Informal fallacy<br/>defective relevance, sufficiency, or clarity"]  
+        Cogent["Cogent<br/>Strong ∧ T(Δ)"]  
+        Uncogent["Uncogent<br/>Weak ∨ ¬T(Δ)"]  
+    end  
+  
+    subgraph Conclusion_Status  
+        Nec["C as warranted necessary conclusion"]  
+        Probable["C as warranted probable conclusion"]  
+        Unwarranted["C as unwarranted conclusion"]  
+        FalseOrMisleading["C as false or misleading conclusion"]  
+    end  
+  
+    F --> G  
+    F --> D  
+    L --> G  
+    L --> D  
+  
+    G --> T  
+    G --> NT  
+    D --> T  
+    D --> NT  
+  
+    G --> Deriv  
+    G --> Conseq  
+    Deriv --> Valid  
+    Conseq --> Valid  
+    Deriv --> FormalFall  
+    Conseq --> FormalFall  
+  
+    Valid --> Sound  
+    Valid --> Unsound  
+    T --> Sound  
+    NT --> Unsound  
+  
+    D --> Prob  
+    Prob --> Strong  
+    Prob --> Weak  
+    InformalFall --> Weak  
+    Strong --> Cogent  
+    Strong --> Uncogent  
+    T --> Cogent  
+    NT --> Uncogent  
+    Weak --> Uncogent  
+  
+    Sound --> Nec  
+    Cogent --> Probable  
+    Unsound --> Unwarranted  
+    FormalFall --> FalseOrMisleading  
+    Uncogent --> Unwarranted  
+    FalseOrMisleading --> Unwarranted  
+  
+    L -.increases chance of.-> NT  
+    F -.increases chance of.-> T  
+    InformalFall -.secondary view: may also infect deductive practice.-> G  
+  
+    classDef facts fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px,color:#000000;  
+    classDef lies fill:#ffcdd2,stroke:#c62828,stroke-width:2px,color:#000000;  
+    classDef fallacies fill:#ffe0b2,stroke:#ef6c00,stroke-width:2px,color:#000000;  
+    classDef conclusions fill:#bbdefb,stroke:#1565c0,stroke-width:2px,color:#000000;  
+  
+    class F,T facts;  
+    class L,NT,FalseOrMisleading lies;  
+    class FormalFall,InformalFall,Unsound,Unwarranted,Uncogent,Weak fallacies;  
+    class Nec,Probable conclusions;  
+  
+    linkStyle 0,1 stroke:#337733,stroke-width:2.6px;  
+    linkStyle 34  stroke:#337733,stroke-width:2.6px,stroke-dasharray:5 5;  
+  
+    linkStyle 2,3 stroke:#c62828,stroke-width:2.6px;  
+    linkStyle 33  stroke:#c62828,stroke-width:2.6px,stroke-dasharray:5 5;  
+  
+    linkStyle 12,13,21,30,29,31,32 stroke:#ef6c00,stroke-width:2.6px;  
+    linkStyle 35 stroke:#EE6600,stroke-width:2.6px,stroke-dasharray:5 5;  
+  
+    linkStyle 27,28 stroke:#1166BB,stroke-width:2.6px;  
+  
+    linkStyle 4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,22,23,24,25,26 stroke:#666666,stroke-width:1.8px;  
+
+```
+
+
+
 ## #has_/text_of_/abstract 
 
 > An **Argument** is a series of sentences, statements, or propositions 
 > some of which are called premises and one is the conclusion. 
+> 
 > The purpose of an argument is to give reasons for one's conclusion 
 > via justification, explanation, and/or persuasion.
 >
