@@ -21,7 +21,7 @@ dv_has_place_continent: "[[../../Asia|Asia]]"
 dv_VehicleCode: HK
 dv_Capital: "[[China/provinces~China/Guangdong/Hong_Kong|Hong_Kong]]"
 dv_Language-Id: 485
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 114.159
 dv_has_place_latitude: 22.2783
 dv_is_:
