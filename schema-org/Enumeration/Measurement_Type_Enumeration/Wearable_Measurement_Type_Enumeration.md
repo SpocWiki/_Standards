@@ -27,7 +27,8 @@ title: is_a_wearable_measurement_type_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../MeasurementTypeEnumeration|MeasurementTypeEnumeration]]"
+  parent_: 
+    class: "[[../MeasurementTypeEnumeration|MeasurementTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration|Wearable_Measurement_Type_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration.public|Wearable_Measurement_Type_Enumeration.public]]"

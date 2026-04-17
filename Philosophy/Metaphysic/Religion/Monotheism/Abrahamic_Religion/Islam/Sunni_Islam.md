@@ -1,159 +1,160 @@
 ---
-has_time_started: 0601-01-01
+has_time_started: 2026-04-08
 aliases:
-- Ahl as-Sunna val-Jamoa
-- Ahli Sunah Waljamaah
-- Ahlu sunno waljamaaca
-- Ahlussunah Wal-jama'ah
-- Alakụba Sunni
-- an tIoslam Sunnaíoch
-- ehlisünnet
-- Hồi giáo Sunni
-- Ioslam Sunnitheach
-- Islam Sunita
-- Islam Sunni
-- Islam sunnit
-- Islami Sunnit
-- Islamul sunit
-- Islã suníta
-- Iżlam Sunni
-- Mabiya Sunnah
-- secta Sunnitica
-- Soenni
-- soennisme
-- Sonisma
-- sunaismo
-- Suni
-- Sunisme
-- sunismo
-- sunismu
-- Sunite
-- Suniti
-- sunitizem
-- sunitski islam
-- sunizam
-- sunizmas
-- Sunić
-- sunnalaisuus
-- sunnalašvuohta
-- Sunni
-- Sunni Islam
-- Sunni-islam
-- Sunni-phài
-- Sunniidid
-- sunniislam
-- Sunnism
-- sunnisme
-- sunnismo
-- Sunnismu
-- Sunniten
-- Sunnitischer Islam
-- Sunnitský islam
-- sunnitský islám
-- sunnizm
-- Sunni_Islam
-- sunnića
-- Sunnī
-- sunnītu islāms
-- sunîtî
-- Sunėzmos
-- Swnnï Ïsläm
-- szunnita iszlám
-- sönniçeleq
-- Súnní
-- sünnilik
-- Sünniy İslâm
-- Tasunnit
-- Wasunni
-- yn Islam Sunni
-- İslamo Sunni
-- Σουνιτισμός
-- сунізм
-- суніты
-- сунизам
-- Сунити
-- сунитски ислям
-- Суниял
-- Сунияр
-- Суннăçăлăх
-- Сунни Исләм
-- Сунни лалын шажан
-- суннизм
-- Сунниташ
-- суннитский ислам
-- сунниттал ислам
-- Сунниттер
-- суннӣ
-- сүнни ислам
-- сөнничелек
-- Сөнниҙәр
-- Սիւննի
-- սուննի իսլամ
-- אסלאם סוני
-- סוניס
-- أهل السنة والجماعة
-- إسلام سني
-- ئەھلى سۇننە ۋەلجامائە
-- اهل السنه و الجماعه
-- اهل سنة والجماعة
-- اہل سنت
-- تسنن
-- سنة
-- سني
-- سنی
-- سنی اسلام
-- سوننە
-- سونیتی
-- سونیلر
-- سُنی اِسلام
-- سۋننىي ٴىيسلام
-- ސުއްނީ މުސްލިމުން
-- ߛߎ߲ߣߊߡߐ߮
-- सुन्नी इस्लाम
-- চুন্নী ইছলাম
-- সুন্নি ইসলাম
-- ਸੁੰਨੀ ਇਸਲਾਮ
-- சுன்னி இஸ்லாம்
-- సున్నీ ఇస్లాం
-- ಸುನ್ನಿ ಇಸ್ಲಾಂ
-- സുന്നി
-- සුන්නි ඉස්ලාම් ආගම
-- ซุนนี
-- ဆွန်နီမူဆလင်
-- სუნიზმი
-- និកាយស៊ុននី
-- スンナ派
-- 逊尼派
-- 遜尼派
-- 수니파 이슬람교
+  - Ahl as-Sunna val-Jamoa
+  - Ahli Sunah Waljamaah
+  - Ahlu sunno waljamaaca
+  - Ahlussunah Wal-jama'ah
+  - Alakụba Sunni
+  - an tIoslam Sunnaíoch
+  - ehlisünnet
+  - Hồi giáo Sunni
+  - Ioslam Sunnitheach
+  - Islam Sunita
+  - Islam Sunni
+  - Islam sunnit
+  - Islami Sunnit
+  - Islamul sunit
+  - Islã suníta
+  - Iżlam Sunni
+  - Mabiya Sunnah
+  - secta Sunnitica
+  - Soenni
+  - soennisme
+  - Sonisma
+  - sunaismo
+  - Suni
+  - Sunisme
+  - sunismo
+  - sunismu
+  - Sunite
+  - Suniti
+  - sunitizem
+  - sunitski islam
+  - sunizam
+  - sunizmas
+  - Sunić
+  - sunnalaisuus
+  - sunnalašvuohta
+  - Sunni
+  - Sunni Islam
+  - Sunni-Islam
+  - Sunni-Muslim
+  - Sunni-phài
+  - Sunniidid
+  - sunniislam
+  - Sunnism
+  - sunnisme
+  - sunnismo
+  - Sunnismu
+  - Sunniten
+  - Sunnitischer Islam
+  - Sunnitský islam
+  - sunnitský islám
+  - sunnizm
+  - Sunni_Islam
+  - sunnića
+  - Sunnī
+  - sunnītu islāms
+  - sunîtî
+  - Sunėzmos
+  - Swnnï Ïsläm
+  - szunnita iszlám
+  - sönniçeleq
+  - Súnní
+  - sünnilik
+  - Sünniy İslâm
+  - Tasunnit
+  - Wasunni
+  - yn Islam Sunni
+  - İslamo Sunni
+  - Σουνιτισμός
+  - сунізм
+  - суніты
+  - сунизам
+  - Сунити
+  - сунитски ислям
+  - Суниял
+  - Сунияр
+  - Суннăçăлăх
+  - Сунни Исләм
+  - Сунни лалын шажан
+  - суннизм
+  - Сунниташ
+  - суннитский ислам
+  - сунниттал ислам
+  - Сунниттер
+  - суннӣ
+  - сүнни ислам
+  - сөнничелек
+  - Сөнниҙәр
+  - Սիւննի
+  - սուննի իսլամ
+  - אסלאם סוני
+  - סוניס
+  - أهل السنة والجماعة
+  - إسلام سني
+  - ئەھلى سۇننە ۋەلجامائە
+  - اهل السنه و الجماعه
+  - اهل سنة والجماعة
+  - اہل سنت
+  - تسنن
+  - سنة
+  - سني
+  - سنی
+  - سنی اسلام
+  - سوننە
+  - سونیتی
+  - سونیلر
+  - سُنی اِسلام
+  - سۋننىي ٴىيسلام
+  - ސުއްނީ މުސްލިމުން
+  - ߛߎ߲ߣߊߡߐ߮
+  - सुन्नी इस्लाम
+  - চুন্নী ইছলাম
+  - সুন্নি ইসলাম
+  - ਸੁੰਨੀ ਇਸਲਾਮ
+  - சுன்னி இஸ்லாம்
+  - సున్నీ ఇస్లాం
+  - ಸುನ್ನಿ ಇಸ್ಲಾಂ
+  - സുന്നി
+  - සුන්නි ඉස්ලාම් ආගම
+  - ซุนนี
+  - ဆွန်နီမူဆလင်
+  - სუნიზმი
+  - និកាយស៊ុននី
+  - スンナ派
+  - 逊尼派
+  - 遜尼派
+  - 수니파 이슬람교
 has_id_wikidata: Q483654
 has_part_s_:
-- "[[_Standards/WikiData/WD~Shafi'i,82245|WD~Shafi'i,82245]]"
-- '[[_Standards/WikiData/WD~Hanafism,228986|WD~Hanafism,228986]]'
-- '[[_Standards/WikiData/WD~Hanbalism,233387|WD~Hanbalism,233387]]'
-- '[[_Standards/WikiData/WD~Maturidi,492501|WD~Maturidi,492501]]'
-- "[[_Standards/WikiData/WD~Ash'ari,539918|WD~Ash'ari,539918]]"
-- '[[_Standards/WikiData/WD~Athari,638043|WD~Athari,638043]]'
-- "[[_Standards/WikiData/WD~Mu'tazila,668460|WD~Mu'tazila,668460]]"
-- "[[_Standards/WikiData/WD~Murji'ah,2359550|WD~Murji'ah,2359550]]"
-- '[[_Standards/WikiData/WD~Sufism,9603|WD~Sufism,9603]]'
-- '[[_Standards/WikiData/WD~Malikism,48221|WD~Malikism,48221]]'
+  - "[[_Standards/WikiData/WD~Shafi'i,82245|WD~Shafi'i,82245]]"
+  - "[[_Standards/WikiData/WD~Hanafism,228986|WD~Hanafism,228986]]"
+  - "[[_Standards/WikiData/WD~Hanbalism,233387|WD~Hanbalism,233387]]"
+  - "[[_Standards/WikiData/WD~Maturidi,492501|WD~Maturidi,492501]]"
+  - "[[_Standards/WikiData/WD~Ash'ari,539918|WD~Ash'ari,539918]]"
+  - "[[_Standards/WikiData/WD~Athari,638043|WD~Athari,638043]]"
+  - "[[_Standards/WikiData/WD~Mu'tazila,668460|WD~Mu'tazila,668460]]"
+  - "[[_Standards/WikiData/WD~Murji'ah,2359550|WD~Murji'ah,2359550]]"
+  - "[[_Standards/WikiData/WD~Sufism,9603|WD~Sufism,9603]]"
+  - "[[_Standards/WikiData/WD~Malikism,48221|WD~Malikism,48221]]"
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~Islamic_denomination,1192063|WD~Islamic_denomination,1192063]]'
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+instance_of: "[[_Standards/WikiData/WD~Islamic_denomination,1192063|WD~Islamic_denomination,1192063]]"
 foundational_text:
-- '[[_Standards/WikiData/WD~list_of_hadith_books,3602186|WD~list_of_hadith_books,3602186]]'
-- '[[_Standards/WikiData/WD~Qur_an,428|WD~Qur_an,428]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12831260,12831260|WD~Q12831260,12831260]]'
+  - "[[_Standards/WikiData/WD~list_of_hadith_books,3602186|WD~list_of_hadith_books,3602186]]"
+  - "[[_Standards/WikiData/WD~Qur_an,428|WD~Qur_an,428]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q12831260,12831260|WD~Q12831260,12831260]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B1%D8%B3%D9%85%20%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1%D9%8A%20%D9%84%D9%84%D9%81%D8%B8%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%D8%A9%20%D9%88%D9%85%D9%86%20%D9%8A%D8%AC%D9%84%D9%87%D9%85%20%D8%A3%D9%87%D9%84%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9.png
-subclass_of: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
-official_language: '[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
+subclass_of: "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
+official_language: "[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]"
 inception: 0601-01-01T00:00:00Z
 Commons_category: Sunni Islam
 Colon_Classification: Q71
@@ -179,7 +180,7 @@ dv_has_:
     azb: سونیلر
     ba: Сөнниҙәр
     be: суніты
-    be_tarask: суніты
+    be-tarask: суніты
     bg: сунитски ислям
     bn: সুন্নি ইসলাম
     br: Islam sunnit
@@ -189,19 +190,19 @@ dv_has_:
     ca: sunnisme
     ce: суннизм
     ckb: سوننە
-    crh_latn: Sünniy İslâm
+    crh-latn: Sünniy İslâm
     cs: sunnitský islám
     cv: Суннăçăлăх
     cy: Sunni
     da: Sunni-islam
     de: Sunniten
-    de_ch: Sunniten
+    de-ch: Sunniten
     diq: İslamo Sunni
     dv: ސުއްނީ މުސްލިމުން
     el: Σουνιτισμός
     en: Sunni Islam
-    en_ca: Sunni Islam
-    en_gb: Sunni Islam
+    en-ca: Sunni Islam
+    en-gb: Sunni Islam
     eo: sunaismo
     es: sunismo
     et: Sunniidid
@@ -240,16 +241,16 @@ dv_has_:
     kab: Tasunnit
     kge: Islam Sunni
     kk: сүнни ислам
-    kk_arab: سۋننىي ٴىيسلام
-    kk_cyrl: Сунни Исләм
-    kk_latn: Swnnï Ïsläm
+    kk-arab: سۋننىي ٴىيسلام
+    kk-cyrl: Сунни Исләм
+    kk-latn: Swnnï Ïsläm
     km: និកាយស៊ុននី
     kn: ಸುನ್ನಿ ಇಸ್ಲಾಂ
     ko: 수니파 이슬람교
     ks: سُنی اِسلام
     ku: sunîtî
-    ku_arab: سونیتی
-    ku_latn: sunîtî
+    ku-arab: سونیتی
+    ku-latn: sunîtî
     kw: Islam Sunni
     ky: Сунниттер
     la: secta Sunnitica
@@ -270,7 +271,7 @@ dv_has_:
     ml: സുന്നി
     mr: सुन्नी इस्लाम
     ms: Ahli Sunah Waljamaah
-    ms_arab: اهل سنة والجماعة
+    ms-arab: اهل سنة والجماعة
     mt: Iżlam Sunni
     my: ဆွန်နီမူဆလင်
     mzn: تسنن
@@ -288,7 +289,7 @@ dv_has_:
     pnb: سنی اسلام
     ps: سني
     pt: sunismo
-    pt_br: Sunismo
+    pt-br: Sunismo
     ro: Islamul sunit
     ru: суннитский ислам
     sah: Суннизм
@@ -304,21 +305,21 @@ dv_has_:
     so: Ahlu sunno waljamaaca
     sq: Islami Sunnit
     sr: сунизам
-    sr_ec: Сунити
-    sr_el: Suniti
+    sr-ec: Сунити
+    sr-el: Suniti
     su: Sunni
     sv: sunni
     sw: Wasunni
     ta: சுன்னி இஸ்லாம்
     te: సున్నీ ఇస్లాం
     tg: суннӣ
-    tg_latn: Sunnī
+    tg-latn: Sunnī
     th: ซุนนี
     tl: Sunismo
     tr: ehlisünnet
     tt: сөнничелек
-    tt_cyrl: сөнничелек
-    tt_latn: sönniçeleq
+    tt-cyrl: сөнничелек
+    tt-latn: sönniçeleq
     udm: суннизм
     ug: ئەھلى سۇننە ۋەلجامائە
     uk: сунізм
@@ -334,24 +335,78 @@ dv_has_:
     yo: Sunni
     yue: 遜尼派
     zh: 遜尼派
-    zh_cn: 逊尼派
-    zh_hans: 逊尼派
-    zh_hant: 遜尼派
-    zh_hk: 遜尼派
-    zh_tw: 遜尼派
+    zh-cn: 逊尼派
+    zh-hans: 逊尼派
+    zh-hant: 遜尼派
+    zh-hk: 遜尼派
+    zh-tw: 遜尼派
+confidential: private
+license: (c)copyrighted
+linkTitle: Sunni_Islam
+title: Sunni_Islam
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+isDeleted: false
+isReadOnly: false
+keywords:
+  - Sunni_Islam
+lang: en
+layout:
+publish: false
+publishDate:
+tags:
+  - Sunni_Islam
+  - excalidraw
+type: private_note
 ---
 
 # [[Sunni_Islam]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Sunni_Islam,483654|WD~Sunni_Islam,483654]]  
 
+#is_/part_of ::  [[Abrahamitic_Religion]] 
+
+Pigs and Blood are considered unclean, which results in the tradition of Halal. 
+
 ## #has_/text_of_/abstract 
 
-> Sunni Islam is the largest branch of Islam and the largest religious denomination in the world. It holds that Muhammad did not appoint any successor and that his closest companion Abu Bakr (r. 632–634) rightfully succeeded him as the caliph of the Muslim community, being appointed at the meeting of Saqifa. This contrasts with the Shia view, which holds that Muhammad appointed Ali ibn Abi Talib (r. 656–661) as his successor. Nevertheless, Sunnis revere Ali, along with Abu Bakr, Umar (r. 634–644) and Uthman (r. 644–656) as 'rightly-guided caliphs'.
+> **Sunni Islam** is the largest branch of Islam, followed by 85–90% of the world's Muslims, 
+> and simultaneously the largest religious denomination in the world. 
 >
-> The term Sunni means those who observe the sunna, the practices of Muhammad. The Quran, together with hadith (especially the Six Books) and ijma (scholarly consensus), form the basis of all traditional jurisprudence within Sunni Islam. Sharia legal rulings are derived from these basic sources, in conjunction with consideration of public welfare and juristic discretion, using the principles of jurisprudence developed by the four legal schools: Hanafi, Hanbali, Maliki and Shafi'i.
+> Its name comes from the word Sunnah, referring to the tradition of Muhammad. 
+> The differences between Sunni and Shia Muslims arose from a 
+> disagreement over the succession to Muhammad and subsequently 
+> acquired broader political significance, as well as theological and juridical dimensions. 
 >
-> In matters of creed, the Sunni tradition upholds the six pillars of iman (faith) and comprises the Ash'ari and Maturidi schools of kalam (theology) as well as the textualist Athari school. Sunnis regard the first four caliphs Abu Bakr (r. 632–634), Umar (r. 634–644), Uthman (r. 644–656) and Ali (r. 656–661) as rashidun (rightly-guided) and revere the sahaba, tabi'in, and tabi al-tabi'in as the salaf (predecessors).
+> According to Sunni traditions, Muhammad left no successor and the 
+> participants of the Saqifah event appointed Abu Bakr as the next-in-line (the first caliph). 
+> This contrasts with the Shia view, 
+> which holds that Muhammad appointed his son-in-law and cousin Ali ibn Abi Talib as his successor.
+>
+> The adherents of Sunni Islam are referred to in Arabic as ahl as-sunnah wa l-jamāʻah 
+> ("the people of the Sunnah and the community") or ahl as-Sunnah for short. 
+> In English, its doctrines and practices are sometimes called Sunnism. 
+> Sunni Islam is sometimes referred to as "orthodox Islam", 
+> though some scholars view this as inappropriate, and many non-Sunnis may find this offensive.
+>
+> The Quran, together with hadith (especially the Six Books) and ijma (juristic consensus), 
+> form the basis of all traditional jurisprudence within Sunni Islam. 
+> Sharia rulings are derived from these basic sources, in conjunction with analogical reasoning, 
+> consideration of public welfare and juristic discretion, 
+> using the principles of jurisprudence developed by the traditional legal schools. 
+> 
+> In matters of creed, the Sunni tradition upholds the six pillars of iman (faith) 
+> and comprises the Ash'ari and Maturidi schools of kalam (theology) as well as the textualist Athari school. 
+> 
+> Sunnis regard the first four caliphs Abu Bakr (r. 632–634), Umar (r. 634–644), Uthman (r. 644–656) 
+> and Ali (r. 656–661) as rashidun (righly-guided) and revere the sahaba, tabi'in and tabi al-tabi'in as the salaf (predecessors).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sunni%20Islam) 
 
@@ -372,3 +427,22 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Sunni_Islam.secret|Sunni_Islam.secret]] 
 
+
+# [[Sunni_Islam]] 
+
+#is_/part_of :: [[Sunni-Islam]] 
+
+![[Sunni_Islam.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Sunni_Islam.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

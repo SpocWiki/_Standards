@@ -36,9 +36,11 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.secret|Quantitative_Value_Distribution.secret]]"
     - "[[Quantitative_Value_Distribution]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../StructuredValue|StructuredValue]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

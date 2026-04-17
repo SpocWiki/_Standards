@@ -27,7 +27,8 @@ tags:
 title: is_a_new_condition Class
 type: Type
 dv_has_:
-  parent_class: "[[../OfferItemCondition|OfferItemCondition]]"
+  parent_: 
+    class: "[[../OfferItemCondition|OfferItemCondition]]"
 dv_is_:
   enum_of: "[[../OfferItemCondition|OfferItemCondition]]"
   same_as:

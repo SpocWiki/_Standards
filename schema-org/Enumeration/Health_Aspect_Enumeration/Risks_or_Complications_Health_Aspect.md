@@ -28,7 +28,8 @@ title: is_a_risks_or_complications_health_aspect Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../HealthAspectEnumeration|HealthAspectEnumeration]]"
+  parent_: 
+    class: "[[../HealthAspectEnumeration|HealthAspectEnumeration]]"
   enum_of: "[[../HealthAspectEnumeration|HealthAspectEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/Risks_or_Complications_Health_Aspect|Risks_or_Complications_Health_Aspect]]"

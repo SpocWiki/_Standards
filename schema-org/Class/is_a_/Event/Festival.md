@@ -34,7 +34,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Event/Festival.secret|Festival.secret]]"
     - "[[Festival]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../Event|Event]]"
   properties:
     - "[[about|about]]"

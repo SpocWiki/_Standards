@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Send_Action.secret|Send_Action.secret]]"
     - "[[Send_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../TransferAction|TransferAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"

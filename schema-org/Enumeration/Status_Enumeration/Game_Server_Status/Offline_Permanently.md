@@ -27,7 +27,8 @@ tags:
 title: is_an_offline_permanently Class
 type: Type
 dv_has_:
-  parent_class: "[[../GameServerStatus|GameServerStatus]]"
+  parent_: 
+    class: "[[../GameServerStatus|GameServerStatus]]"
 dv_is_:
   enum_of: "[[../GameServerStatus|GameServerStatus]]"
   same_as:

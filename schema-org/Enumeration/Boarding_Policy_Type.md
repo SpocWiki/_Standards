@@ -26,7 +26,8 @@ tags:
 title: is_a_boarding_policy_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration|Enumeration]]"
+  parent_: 
+    class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Boarding_Policy_Type|Boarding_Policy_Type]]"

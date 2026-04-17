@@ -37,7 +37,8 @@ dv_is_:
   similar_to: "[[Activity]]"
 dv__has_parent_class: "[[../Thing|Thing]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Action/Achieve_Action|Achieve_Action]]"
     - "[[Action/Assess_Action|Assess_Action]]"
     - "[[Action/Consume_Action|Consume_Action]]"

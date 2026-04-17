@@ -36,10 +36,12 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action.secret|Inform_Action.secret]]"
     - "[[Inform_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Inform_Action/Confirm_Action|Confirm_Action]]"
     - "[[Inform_Action/Rsvp_Action|Rsvp_Action]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../CommunicateAction|CommunicateAction]]"
   properties:
     - "[[about|about]]"

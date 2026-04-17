@@ -27,7 +27,8 @@ title: is_a_legal_force_status Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../StatusEnumeration|StatusEnumeration]]"
+  parent_: 
+    class: "[[../StatusEnumeration|StatusEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status|Legal_Force_Status]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.public|Legal_Force_Status.public]]"

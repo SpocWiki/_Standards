@@ -27,7 +27,8 @@ tags:
 title: is_a_rsvp_response_no Class
 type: Type
 dv_has_:
-  parent_class: "[[../RsvpResponseType|RsvpResponseType]]"
+  parent_: 
+    class: "[[../RsvpResponseType|RsvpResponseType]]"
 dv_is_:
   enum_of: "[[../RsvpResponseType|RsvpResponseType]]"
   same_as:

@@ -202,8 +202,9 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> **Agnatha** (; from Ancient Greek  ἀ- (a-) 'without' and  γνάθος (gnáthos) 'jaws') or jawless fish 
-> is a paraphyletic infraphylum of animals in the subphylum Vertebrata of the phylum Chordata, 
+> **Agnatha** (from Ancient Greek  ἀ- (a-) 'without' and  γνάθος (gnáthos) 'jaws') 
+> or jawless fish is a paraphyletic infraphylum of animals 
+> in the subphylum Vertebrata of the phylum Chordata, 
 > characterized by the lack of jaws. 
 > 
 > The group consists of both living (cyclostomes such as hagfishes and lampreys) 
@@ -214,8 +215,9 @@ dv_has_:
 > by developing folding articulations in the first pairs of gill arches.
 >
 > Molecular data, both from rRNA and from mtDNA as well as embryological data, 
-> strongly supports the hypothesis that both groups of living agnathans, hagfishes and lampreys, 
-> are more closely related to each other than to jawed fish, forming the superclass Cyclostomi.
+> strongly supports the hypothesis that both groups of living agnathans, 
+> hagfishes and lampreys, are more closely related to each other 
+> than to jawed fish, forming the superclass Cyclostomi.
 >
 > The oldest fossil agnathans appeared in the Cambrian. 
 > Living jawless fish comprise about 120 species in total. 

@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action.secret|Interact_Action.secret]]"
     - "[[Interact_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Interact_Action/Befriend_Action|Befriend_Action]]"
     - "[[Interact_Action/Communicate_Action|Communicate_Action]]"
     - "[[Interact_Action/Follow_Action|Follow_Action]]"
@@ -46,7 +47,8 @@ dv_has_:
     - "[[Interact_Action/Register_Action|Register_Action]]"
     - "[[Interact_Action/Subscribe_Action|Subscribe_Action]]"
     - "[[Interact_Action/Un_Register_Action|Un_Register_Action]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_status|has_action_status]]"

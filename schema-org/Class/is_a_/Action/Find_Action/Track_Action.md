@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Find_Action/Track_Action.secret|Track_Action.secret]]"
     - "[[Track_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../FindAction|FindAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"

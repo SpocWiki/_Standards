@@ -330,7 +330,8 @@ dv_has_:
     zh-my: 整数
     zh_sg: 整数
     zh_tw: 整數
-  parent_class:
+  parent_: 
+    class:
   - '[[../Number|Number]]'
 dv_has_parent_class:
 - '[[../Number|Number]]'

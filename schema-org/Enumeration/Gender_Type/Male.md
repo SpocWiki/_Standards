@@ -25,7 +25,8 @@ tags:
 title: is_a_male Class
 type: Type
 dv_has_:
-  parent_class: "[[../GenderType|GenderType]]"
+  parent_: 
+    class: "[[../GenderType|GenderType]]"
 dv_is_:
   enum_of: "[[../GenderType|GenderType]]"
   same_as:
@@ -37,8 +38,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Gender_Type/Male.personal|Male.personal]]"
     - "[[/_secret/schema-org/Enumeration/Gender_Type/Male.secret|Male.secret]]"
     - "[[Male]]"
-dv_has_parent_class: "[[../GenderType|GenderType]]"
-dv_is_enum_of: "[[../GenderType|GenderType]]"
+dv_has_parent_class: "[[../Gender_Type|Gender_Type]]"
+dv_is_enum_of: "[[../Gender_Type|Gender_Type]]"
 dv_is_same_as:
   - "[[Male]]"
   - "[[/_public/schema-org/Enumeration/Gender_Type/Male.public|Male.public]]"
@@ -47,18 +48,23 @@ dv_is_same_as:
   - "[[/_private/schema-org/Enumeration/Gender_Type/Male.private|Male.private]]"
   - "[[/_personal/schema-org/Enumeration/Gender_Type/Male.personal|Male.personal]]"
   - "[[/_secret/schema-org/Enumeration/Gender_Type/Male.secret|Male.secret]]"
+Unicode_character: ♂️
 ---
+
+# [[Male]] ♂️ 
+
+The male gender.
 
 Class of all males.
 
 Tag Instances like this: 
 #is_a_/male
 
-The male gender.
-
 has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
+
+#has_/complement :: [[Female]]
 
 ## Confidential Links & Embeds: 
 

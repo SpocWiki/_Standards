@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action/Vote_Action.secret|Vote_Action.secret]]"
     - "[[Vote_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../ChooseAction|ChooseAction]]"
   properties:
     - "[[../../../../../Property/Texts/has_action_option|has_action_option]]"

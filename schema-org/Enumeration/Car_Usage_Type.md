@@ -27,7 +27,8 @@ title: is_a_car_usage_type Class
 type: Type
 dv_is_:
   part_of: https://auto.schema.org
-  parent_class: "[[../Enumeration|Enumeration]]"
+  parent_: 
+    class: "[[../Enumeration|Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Car_Usage_Type|Car_Usage_Type]]"
     - "[[/_public/schema-org/Enumeration/Car_Usage_Type.public|Car_Usage_Type.public]]"

@@ -27,7 +27,8 @@ tags:
 title: is_a_broadcast_release Class
 type: Type
 dv_has_:
-  parent_class: "[[../MusicAlbumReleaseType|MusicAlbumReleaseType]]"
+  parent_: 
+    class: "[[../MusicAlbumReleaseType|MusicAlbumReleaseType]]"
 dv_is_:
   enum_of: "[[../MusicAlbumReleaseType|MusicAlbumReleaseType]]"
   same_as:

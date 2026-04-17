@@ -86,7 +86,8 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Repetitorium_Statistik,115452005|WD~Repetitorium_Statistik,115452005]]'
 equivalent_class: https://schema.org/StatisticalPopulation
 dv_is_:
-  parent_class: '[[../Intangible|Intangible]]'
+  parent_: 
+    class: '[[../Intangible|Intangible]]'
   part_of: https://pending.schema.org
   same_as:
   - '[[../../../../WikiData/WD~Statistical_population,49918|WD~Statistical_population,49918]]'

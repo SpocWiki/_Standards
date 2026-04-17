@@ -37,7 +37,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Bio_Chem_Entity.personal|Bio_Chem_Entity.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Bio_Chem_Entity.secret|Bio_Chem_Entity.secret]]"
 dv_has_:
-  parent_class: "[[../Thing|Thing]]"
+  parent_: 
+    class: "[[../Thing|Thing]]"
   child_:
     class:
       - "[[../../../Chemistry/Substance/Chemical_Substance|Chemical_Substance]]"

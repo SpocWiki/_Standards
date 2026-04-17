@@ -1,84 +1,84 @@
 ---
 aliases:
-- Bông-moâ
-- Fam. Myxinidae
-- Hagfish
-- Miksiniai apskritažiomeniai
-- Miksinlər
-- Mixine
-- Mixinea
-- Mixinoïdeu
-- mixín
-- Mixíns
-- Mkunga-ute
-- Mukofiŝoj
-- Myxini
-- Myxinidae
-- Myxiniformes
-- nyálkahalak
-- Peixe-bruxa
-- Pihklased
-- Pirålar
-- Remang
-- Schleimaale
-- slijmprikken
-- Slimialer
-- Slimål
-- Slimåler
-- slimålfamilien
-- Sliznatky
-- Sljepulje
-- Slymnjoggeneagen
-- viiksiympyräsuiset
-- Łóóʼ bíígháántsiighąąʼ ádaadinígíí
-- Śluzice
-- Μυξινίδες
-- лигави јагули
-- Міксіны
-- Міксини
-- Миксиналар
-- миксинови
-- Миксиновые
-- слепуље
-- Լորձունակերպեր
-- מיקסינות
-- أسماك مخاطية
-- اسماك مخاطيه
-- مخاطیواران
-- میکسینلر
-- హాగ్ చేప
-- แฮ็กฟิช
-- მიქსინები
-- ヌタウナギ
-- 盲鰻
-- 盲鰻科
-- 盲鳗
-- 盲鳗科
-- 먹장어
+  - Bông-moâ
+  - Fam. Myxinidae
+  - Hagfish
+  - Miksiniai apskritažiomeniai
+  - Miksinlər
+  - Mixine
+  - Mixinea
+  - Mixinoïdeu
+  - mixín
+  - Mixíns
+  - Mkunga-ute
+  - Mukofiŝoj
+  - Myxini
+  - Myxinidae
+  - Myxiniformes
+  - nyálkahalak
+  - Peixe-bruxa
+  - Pihklased
+  - Pirålar
+  - Remang
+  - Schleimaale
+  - slijmprikken
+  - Slimialer
+  - Slimål
+  - Slimåler
+  - slimålfamilien
+  - Sliznatky
+  - Sljepulje
+  - Slymnjoggeneagen
+  - viiksiympyräsuiset
+  - Łóóʼ bíígháántsiighąąʼ ádaadinígíí
+  - Śluzice
+  - Μυξινίδες
+  - лигави јагули
+  - Міксіны
+  - Міксини
+  - Миксиналар
+  - миксинови
+  - Миксиновые
+  - слепуље
+  - Լորձունակերպեր
+  - מיקסינות
+  - أسماك مخاطية
+  - اسماك مخاطيه
+  - مخاطیواران
+  - میکسینلر
+  - హాగ్ చేప
+  - แฮ็กฟิช
+  - მიქსინები
+  - ヌタウナギ
+  - 盲鰻
+  - 盲鰻科
+  - 盲鳗
+  - 盲鳗科
+  - 먹장어
 has_id_wikidata: Q75713
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Hogfish,1278753|WD~Hogfish,1278753]]'
-parent_taxon: '[[_Standards/WikiData/WD~Myxiniformes,2072138|WD~Myxiniformes,2072138]]'
-named_after: '[[_Standards/WikiData/WD~hag,9303881|WD~hag,9303881]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[_Standards/WikiData/WD~Hogfish,1278753|WD~Hogfish,1278753]]"
+parent_taxon: "[[_Standards/WikiData/WD~Myxiniformes,2072138|WD~Myxiniformes,2072138]]"
+named_after: "[[_Standards/WikiData/WD~hag,9303881|WD~hag,9303881]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~family,35409|WD~family,35409]]"
 ITIS_TSN: 159753
 Commons_category: Myxinidae
 taxon_name: Myxinidae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pacific%20hagfish%20Myxine.jpg
 EPPO_Code: 1MYXIF
 MeSH_tree_code:
-- B01.050.150.200.400.380
-- B01.050.150.900.493.516
-- B01.050.500.272.400.380
+  - B01.050.150.200.400.380
+  - B01.050.150.900.493.516
+  - B01.050.500.272.400.380
 NBN_System_Key: NBNSYS0000160490
 taxon_common_name:
-- mixín
-- slimålfamilien
+  - mixín
+  - slimålfamilien
 dv_has_:
   name_:
     ar: أسماك مخاطية

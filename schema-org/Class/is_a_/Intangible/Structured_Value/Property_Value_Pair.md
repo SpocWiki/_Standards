@@ -36,9 +36,11 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value.secret|Property_Value.secret]]"
     - "[[Property_Value_Pair]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Property_Value_Pair/Location_Feature_Specification|Location_Feature_Specification]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Structured_Value|Structured_Value]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

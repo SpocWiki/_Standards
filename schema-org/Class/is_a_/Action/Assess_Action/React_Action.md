@@ -36,14 +36,16 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action.secret|React_Action.secret]]"
     - "[[React_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[react_action/agree_action|AgreeAction]]"
     - "[[react_action/disagree_action|DisagreeAction]]"
     - "[[react_action/dislike_action|DislikeAction]]"
     - "[[react_action/endorse_action|EndorseAction]]"
     - "[[react_action/like_action|LikeAction]]"
     - "[[react_action/want_action|WantAction]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../AssessAction|AssessAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"

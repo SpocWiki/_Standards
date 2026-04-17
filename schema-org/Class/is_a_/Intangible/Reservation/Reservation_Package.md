@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.secret|Reservation_Package.secret]]"
     - "[[Reservation_Package]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../Reservation|Reservation]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

@@ -181,7 +181,8 @@ dv_has_:
     zh_cn: 统一资源定位符
     zh_hans: 统一资源定位符
     zh_hant: 網址
-  parent_class:
+  parent_: 
+    class:
   - '[[../Text|Text]]'
 dv_is_:
   same_as:

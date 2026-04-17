@@ -34,7 +34,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation.secret|Reservation.secret]]"
     - "[[Reservation]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Reservation/Boat_Reservation|Boat_Reservation]]"
     - "[[Reservation/Bus_Reservation|Bus_Reservation]]"
     - "[[Reservation/Event_Reservation|Event_Reservation]]"
@@ -45,7 +46,8 @@ dv_has_:
     - "[[Reservation/Reservation_Package|Reservation_Package]]"
     - "[[Reservation/Taxi_Reservation|Taxi_Reservation]]"
     - "[[Reservation/Train_Reservation|Train_Reservation]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

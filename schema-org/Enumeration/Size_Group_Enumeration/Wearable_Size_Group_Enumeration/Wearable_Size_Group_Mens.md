@@ -28,7 +28,8 @@ title: is_a_wearable_size_group_mens Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../WearableSizeGroupEnumeration|WearableSizeGroupEnumeration]]"
+  parent_: 
+    class: "[[../WearableSizeGroupEnumeration|WearableSizeGroupEnumeration]]"
   enum_of: "[[../WearableSizeGroupEnumeration|WearableSizeGroupEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Mens|Wearable_Size_Group_Mens]]"

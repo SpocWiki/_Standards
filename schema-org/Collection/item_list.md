@@ -35,7 +35,8 @@ dv_is_:
     - "[[/_secret/schema-org/Collection/item_list.secret|item_list.secret]]"
     - "[[item_list]]"
 dv_has_:
-  parent_class: "[[../Class/is_a_/Intangible|Intangible]]"
+  parent_: 
+    class: "[[../Class/is_a_/Intangible|Intangible]]"
   child_class:
     - "[[item_list/breadcrumb_list|breadcrumb_list]]"
     - "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Section|How_to_Section]]"

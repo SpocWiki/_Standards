@@ -470,7 +470,8 @@ dv_has_:
     zh_hans: 能量
     zh_hant: 能量
     zu: amandla
-  parent_class: '[[../Quantity|Quantity]]'
+  parent_: 
+    class: '[[../Quantity|Quantity]]'
   properties: '[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]'
 dv_has_parent_class: '[[../Quantity|Quantity]]'
 dv_has_properties: '[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]'

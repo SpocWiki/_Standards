@@ -36,12 +36,14 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action.secret|Assess_Action.secret]]"
     - "[[Assess_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Assess_Action/Choose_Action|Choose_Action]]"
     - "[[Assess_Action/Ignore_Action|Ignore_Action]]"
     - "[[Assess_Action/React_Action|React_Action]]"
     - "[[Assess_Action/Review_Action|Review_Action]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_status|has_action_status]]"

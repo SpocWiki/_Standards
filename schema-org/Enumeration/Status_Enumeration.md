@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration.secret|Status_Enumeration.secret]]"
     - "[[Status_Enumeration]]"
 dv_has_:
-  parent_class: "[[../Enumeration|Enumeration]]"
+  parent_: 
+    class: "[[../Enumeration|Enumeration]]"
   child_class: "[ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ]"
 dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_has_child_class: "[ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ]"

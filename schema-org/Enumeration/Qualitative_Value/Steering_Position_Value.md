@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.secret|Steering_Position_Value.secret]]"
     - "[[Steering_Position_Value]]"
 dv_has_:
-  parent_class: "[[../QualitativeValue|QualitativeValue]]"
+  parent_: 
+    class: "[[../QualitativeValue|QualitativeValue]]"
   properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
 dv_has_parent_class: "[[../QualitativeValue|QualitativeValue]]"
 dv_has_properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"

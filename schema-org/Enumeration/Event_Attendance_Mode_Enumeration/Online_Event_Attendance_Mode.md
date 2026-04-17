@@ -28,7 +28,8 @@ title: is_an_online_event_attendance_mode Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../EventAttendanceModeEnumeration|EventAttendanceModeEnumeration]]"
+  parent_: 
+    class: "[[../EventAttendanceModeEnumeration|EventAttendanceModeEnumeration]]"
   enum_of: "[[../EventAttendanceModeEnumeration|EventAttendanceModeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Online_Event_Attendance_Mode|Online_Event_Attendance_Mode]]"

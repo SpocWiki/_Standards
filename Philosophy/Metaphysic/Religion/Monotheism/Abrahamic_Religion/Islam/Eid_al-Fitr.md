@@ -288,7 +288,7 @@ dv_has_:
 > 
 > It falls on the first day of Shawwal, the tenth month of the Islamic calendar. 
 > Eid al-Fitr is celebrated by Muslims worldwide 
-> as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. 
+> as it marks the **end of** the month-long, dawn-to-dusk fasting (sawm) during **Ramadan**. 
 > The holiday is known under various other names in different languages and countries around the world.
 >
 > Eid al-Fitr has a particular salah that consists of two rakats 

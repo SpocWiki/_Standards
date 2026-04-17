@@ -26,7 +26,8 @@ title: is_a_nonprofit501d Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../USNonprofitType|USNonprofitType]]"
+  parent_: 
+    class: "[[../USNonprofitType|USNonprofitType]]"
   enum_of: "[[../USNonprofitType|USNonprofitType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501d|Nonprofit501d]]"

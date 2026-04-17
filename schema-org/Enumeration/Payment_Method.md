@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Payment_Method.secret|Payment_Method.secret]]"
     - "[[Payment_Method]]"
 dv_has_:
-  parent_class: "[[../Enumeration|Enumeration]]"
+  parent_: 
+    class: "[[../Enumeration|Enumeration]]"
   child_class: "[ PaymentCard ]"
 dv_has_parent_class: "[[../Enumeration|Enumeration]]"
 dv_has_child_class: "[ PaymentCard ]"

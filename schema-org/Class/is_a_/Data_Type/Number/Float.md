@@ -34,7 +34,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number/Float.secret|Float.secret]]"
     - "[[Float]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../Number|Number]]"
 dv_has_parent_class:
   - "[[../Number|Number]]"

@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.secret|Tip_Action.secret]]"
     - "[[Tip_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../TradeAction|TradeAction]]"
   properties:
     - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"

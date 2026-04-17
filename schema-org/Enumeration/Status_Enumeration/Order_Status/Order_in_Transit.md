@@ -27,7 +27,8 @@ tags:
 title: is_an_order_in_transit Class
 type: Type
 dv_has_:
-  parent_class: "[[../OrderStatus|OrderStatus]]"
+  parent_: 
+    class: "[[../OrderStatus|OrderStatus]]"
 dv_is_:
   enum_of: "[[../OrderStatus|OrderStatus]]"
   same_as:

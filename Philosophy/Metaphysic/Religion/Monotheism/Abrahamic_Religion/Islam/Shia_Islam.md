@@ -1,149 +1,150 @@
 ---
 aliases:
-- Chiisme
-- chiismo
-- Hồi giáo Shia
-- Islam chiit
-- Islam Shia
-- Islam shiiste
-- Islam Siita
-- Islam Syi'ah
-- Islam Syiah
-- islam szyicki
-- Islã chía
-- Nasyid
-- Schia
-- Sciism
-- Sciismo
-- Sciismu
-- Sciić
-- secta Siitica
-- Shi'a
-- Shia
-- Shia Islam
-- Shia nga Islam
-- Shia-islam
-- Shia-phài
-- Shialik
-- shialıq
-- Shia_Islam
-- Shiica
-- Shiisma
-- Shiismo
-- Siach
-- Sjia
-- sjiaislam
-- sjiisme
-- Sjyiten
-- Sjía
-- Syi' ah
-- Syi'ah
-- Syiah
-- Szyjity
-- síita iszlám
-- Taciɛit
-- Washia
-- Xia
-- Xigħa
-- xiismo
-- xiísmo
-- xiísmu
-- xiïsme
-- Ŝijaismo
-- Şiilik
-- Şiiylik
-- şiîtî
-- şiəlik
-- Şıiyiye
-- šiialaisuus
-- Šiiidid
-- šiitizem
-- Šiitizmus
-- Šiitski islam
-- šiizm
-- Šiizmas
-- šijitizam
-- Šijėzmos
-- Šijəti
-- šiītu islāms
-- ší'itský islám
-- șiism
-- Σιιτισμός
-- Шіїты
-- шиїти
-- Шигыйчелек
-- ШигӀиял
-- шиизам
-- шиизм
-- Шиизмась
-- Шиитски ислям
-- шиитский ислам
-- Шииттер
-- Шиияр
-- шиъа
-- Шиғыйҙар
-- ШиӀий
-- ШиӀиташ
-- шыізм
-- шыіты
-- շիա իսլամ
-- אסלאם שיעי
-- שיא איסלאם
-- الشيعا
-- الشيعة
-- اہل تشیع
-- تشیع
-- شىئەلەر
-- شيعه
-- شیعه
-- شیعہ
-- شیعە
-- ޝީޢީ މަޛްހަބު
-- शिया इस्लाम
-- ছিয়া ইছলাম
-- শিয়া ইসলাম
-- ਸ਼ੀਆ ਇਸਲਾਮ
-- சியா இசுலாம்
-- షియా ఇస్లాం
-- ഷിയാ ഇസ്ലാം
-- ෂියා ඉස්ලාම් ආගම
-- ชีอะฮ์
-- ရှီယာမူဆလင်
-- შიიზმი
-- შიიტობა
-- ሺዓ እስልምና
-- ទំនាក់ទំនងសាសនាអ៊ីស្លាម
-- シーア派
-- 什叶派
-- 什葉派
-- 시아파 이슬람교
+  - Chiisme
+  - chiismo
+  - Hồi giáo Shia
+  - Islam chiit
+  - Islam Shia
+  - Islam shiiste
+  - Islam Siita
+  - Islam Syi'ah
+  - Islam Syiah
+  - islam szyicki
+  - Islã chía
+  - Nasyid
+  - Schia
+  - Sciism
+  - Sciismo
+  - Sciismu
+  - Sciić
+  - secta Siitica
+  - Shi'a
+  - Shia
+  - Shia Islam
+  - Shia nga Islam
+  - Shia-Islam
+  - Shia-Muslim
+  - Shia-phài
+  - Shialik
+  - shialıq
+  - Shia_Islam
+  - Shiica
+  - Shiisma
+  - Shiismo
+  - Siach
+  - Sjia
+  - sjiaislam
+  - sjiisme
+  - Sjyiten
+  - Sjía
+  - Syi' ah
+  - Syi'ah
+  - Syiah
+  - Szyjity
+  - síita iszlám
+  - Taciɛit
+  - Washia
+  - Xia
+  - Xigħa
+  - xiismo
+  - xiísmo
+  - xiísmu
+  - xiïsme
+  - Ŝijaismo
+  - Şiilik
+  - Şiiylik
+  - şiîtî
+  - şiəlik
+  - Şıiyiye
+  - šiialaisuus
+  - Šiiidid
+  - šiitizem
+  - Šiitizmus
+  - Šiitski islam
+  - šiizm
+  - Šiizmas
+  - šijitizam
+  - Šijėzmos
+  - Šijəti
+  - šiītu islāms
+  - ší'itský islám
+  - șiism
+  - Σιιτισμός
+  - Шіїты
+  - шиїти
+  - Шигыйчелек
+  - ШигӀиял
+  - шиизам
+  - шиизм
+  - Шиизмась
+  - Шиитски ислям
+  - шиитский ислам
+  - Шииттер
+  - Шиияр
+  - шиъа
+  - Шиғыйҙар
+  - ШиӀий
+  - ШиӀиташ
+  - шыізм
+  - шыіты
+  - շիա իսլամ
+  - אסלאם שיעי
+  - שיא איסלאם
+  - الشيعا
+  - الشيعة
+  - اہل تشیع
+  - تشیع
+  - شىئەلەر
+  - شيعه
+  - شیعه
+  - شیعہ
+  - شیعە
+  - ޝީޢީ މަޛްހަބު
+  - शिया इस्लाम
+  - ছিয়া ইছলাম
+  - শিয়া ইসলাম
+  - ਸ਼ੀਆ ਇਸਲਾਮ
+  - சியா இசுலாம்
+  - షియా ఇస్లాం
+  - ഷിയാ ഇസ്ലാം
+  - ෂියා ඉස්ලාම් ආගම
+  - ชีอะฮ์
+  - ရှီယာမူဆလင်
+  - შიიზმი
+  - შიიტობა
+  - ሺዓ እስልምና
+  - ទំនាក់ទំនងសាសនាអ៊ីស្លាម
+  - シーア派
+  - 什叶派
+  - 什葉派
+  - 시아파 이슬람교
 has_id_wikidata: Q9585
 has_part_s_:
-- '[[_Standards/WikiData/WD~Zaidism,144333|WD~Zaidism,144333]]'
-- "[[_Standards/WikiData/WD~Isma'ilism,230386|WD~Isma'ilism,230386]]"
-- '[[_Standards/WikiData/WD~Twelver_Shiism,269785|WD~Twelver_Shiism,269785]]'
-- '[[_Standards/WikiData/WD~Ghulat,2592417|WD~Ghulat,2592417]]'
+  - "[[_Standards/WikiData/WD~Zaidism,144333|WD~Zaidism,144333]]"
+  - "[[_Standards/WikiData/WD~Isma'ilism,230386|WD~Isma'ilism,230386]]"
+  - "[[_Standards/WikiData/WD~Twelver_Shiism,269785|WD~Twelver_Shiism,269785]]"
+  - "[[_Standards/WikiData/WD~Ghulat,2592417|WD~Ghulat,2592417]]"
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Shi'a_Islam,606114|WD~history_of_Shi'a_Islam,606114]]"
-instance_of: '[[_Standards/WikiData/WD~Islamic_denomination,1192063|WD~Islamic_denomination,1192063]]'
-part_of: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
-subclass_of: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
-significant_person: '[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619|WD~Alī_ibn_Abī_Ṭālib,39619]]'
-named_after: '[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619|WD~Alī_ibn_Abī_Ṭālib,39619]]'
-different_from: '[[_Standards/WikiData/WD~schism,41521|WD~schism,41521]]'
+instance_of: "[[_Standards/WikiData/WD~Islamic_denomination,1192063|WD~Islamic_denomination,1192063]]"
+part_of: "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
+subclass_of: "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
+significant_person: "[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619|WD~Alī_ibn_Abī_Ṭālib,39619]]"
+named_after: "[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619|WD~Alī_ibn_Abī_Ṭālib,39619]]"
+different_from: "[[_Standards/WikiData/WD~schism,41521|WD~schism,41521]]"
 Colon_Classification: Q72
 Commons_category: Shiism
 pronunciation_audio:
-- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%A7%D9%84%D8%B4%D9%8A%D8%B9%D8%A9.wav
-- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A7%D9%84%D8%B4%D9%8A%D8%B9%D8%A9.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%A7%D9%84%D8%B4%D9%8A%D8%B9%D8%A9.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A7%D9%84%D8%B4%D9%8A%D8%B9%D8%A9.wav
 Stack_Exchange_tag: https://islam.stackexchange.com/tags/shiism
 Dewey_Decimal_Classification: 297.82
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/SHIITI.html
@@ -166,7 +167,7 @@ dv_has_:
     ba: Шиғыйҙар
     bar: Schia
     be: шыіты
-    be_tarask: шыізм
+    be-tarask: шыізм
     bg: Шиитски ислям
     bn: শিয়া ইসলাম
     br: Islam chiit
@@ -186,8 +187,8 @@ dv_has_:
     dv: ޝީޢީ މަޛްހަބު
     el: Σιιτισμός
     en: Shia Islam
-    en_ca: Shia Islam
-    en_gb: Shia Islam
+    en-ca: Shia Islam
+    en-gb: Shia Islam
     en-us: Shia Islam
     eo: Ŝijaismo
     es: chiismo
@@ -229,7 +230,7 @@ dv_has_:
     ko: 시아파 이슬람교
     ks: شیعہ
     ku: şiîtî
-    ku_latn: şiîtî
+    ku-latn: şiîtî
     kw: Islam Shia
     ky: Шиизм
     la: secta Siitica
@@ -265,7 +266,7 @@ dv_has_:
     pnb: شیعہ
     ps: شيعه
     pt: xiismo
-    pt_br: Xiismo
+    pt-br: Xiismo
     ro: șiism
     ru: шиитский ислам
     rue: Шіїты
@@ -305,25 +306,54 @@ dv_has_:
     yi: שיא איסלאם
     yue: 什葉派
     zh: 什叶派
-    zh_cn: 什叶派
-    zh_hans: 什叶派
-    zh_hant: 什葉派
-    zh_tw: 什葉派
+    zh-cn: 什叶派
+    zh-hans: 什叶派
+    zh-hant: 什葉派
+    zh-tw: 什葉派
+confidential: private
+license: (c)copyrighted
+linkTitle: Shia_Islam
+title: Shia_Islam
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started: 2026-04-08
+isDeleted: false
+isReadOnly: false
+keywords:
+  - Shia_Islam
+lang: en
+layout:
+publish: false
+publishDate:
+tags:
+  - Shia_Islam
+  - excalidraw
+type: private_note
 ---
 
 # [[Shia_Islam]] 
+
+#has_/place_ :: [[../../../../_Standards/Earth/Continent/Asia/Asia~West/Iran|Iran]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Shia_Islam,9585|WD~Shia_Islam,9585]]  
 
 ## #has_/text_of_/abstract 
 
-> Shia Islam is the second-largest branch of Islam. 
-> It holds that Muhammad designated Ali ibn Abi Talib (r. 656–661) 
-> as both his political successor (caliph) and as the spiritual leader of the Muslim community (imam). 
+> Shia Islam is the second-largest branch of Islam with ca. 10%. 
+> It holds that the Islamic prophet Muhammad designated Ali (656–661 CE) as his successor (khalifa) 
+> and the Imam (spiritual and political leader) after him, most notably at the event of Ghadir Khumm, 
 > 
 > However, his right is understood to have been usurped 
 > by a number of Muhammad's companions at the meeting of Saqifa, 
 > during which they appointed Abu Bakr (r. 632–634) as caliph instead. 
+> Adherents of Shia Islam are called **Shia Muslim**s.
 > 
 > As such, Sunni Muslims believe Abu Bakr, Umar (r. 634–644), Uthman (r. 644–656) and Ali to be 'rightly-guided caliphs', 
 > whereas Shia Muslims regard only Ali as the legitimate successor.
@@ -362,3 +392,22 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Shia_Islam.secret|Shia_Islam.secret]] 
 
+
+# [[Shia_Islam]] 
+
+#is_/part_of :: [[Shia-Islam]] 
+
+![[Shia_Islam.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Shia_Islam.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

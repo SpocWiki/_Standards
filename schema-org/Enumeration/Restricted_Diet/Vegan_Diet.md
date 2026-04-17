@@ -27,7 +27,8 @@ tags:
 title: is_a_vegan_diet Class
 type: Type
 dv_has_:
-  parent_class: "[[../RestrictedDiet|RestrictedDiet]]"
+  parent_: 
+    class: "[[../RestrictedDiet|RestrictedDiet]]"
 dv_is_:
   enum_of: "[[../RestrictedDiet|RestrictedDiet]]"
   same_as:

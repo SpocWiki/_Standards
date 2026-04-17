@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Property_Value_Specification.secret|Property_Value_Specification.secret]]"
     - "[[Property_Value_Specification]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"

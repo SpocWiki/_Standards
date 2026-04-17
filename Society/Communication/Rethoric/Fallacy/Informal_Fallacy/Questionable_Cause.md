@@ -49,35 +49,23 @@ dv_has_:
 > 
 > Questionable cause can be logically reduced to: "A is regularly associated with B; therefore, A causes B."
 > 
-> For example: "Every time I score an A on the test its a sunny day. Therefore the sunny day causes me to score well on the test." Here is the example the two events may coincide or correlate, but have no causal connection.
+> For example: "Every time I score an A on the test its a sunny day. 
+> Therefore the sunny day causes me to score well on the test." Here is the example the 
+> two events may **coincide or correlate, but have no causal connection**.
 > 
 > Fallacies of questionable cause include:
-> 
-> 
-> 
-> Circular cause and consequence
-> 
-> Correlation implies causation (cum hoc, ergo propter hoc)
-> 
-> Third-cause fallacy
-> 
-> Wrong direction
-> 
-> Fallacy of the single cause
-> 
-> Post hoc ergo propter hoc
-> 
-> Observational interpretation fallacy
-> 
-> Regression fallacy
-> 
-> Texas sharpshooter fallacy
-> 
-> Jumping to conclusions
-> 
-> Association fallacy
-> 
-> Magical thinking
+> - Circular cause and consequence
+> - Correlation implies causation (cum hoc, ergo propter hoc)
+> - Third-cause fallacy
+> - Wrong direction
+> - Fallacy of the single cause
+> - Post hoc ergo propter hoc
+> - Observational interpretation fallacy
+> - Regression fallacy
+> - Texas sharpshooter fallacy
+> - Jumping to conclusions
+> - Association fallacy
+> - Magical thinking
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Questionable%20cause)  
 

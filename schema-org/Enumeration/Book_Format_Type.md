@@ -26,7 +26,8 @@ tags:
 title: is_a_book_format_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration|Enumeration]]"
+  parent_: 
+    class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Book_Format_Type|Book_Format_Type]]"

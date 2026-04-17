@@ -34,7 +34,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Invoice.secret|Invoice.secret]]"
     - "[[Invoice]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../Intangible|Intangible]]"
   properties:
     - "[[account_id|account_id]]"

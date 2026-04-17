@@ -37,13 +37,15 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience.secret|Audience.secret]]"
     - "[[Audience]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Audience/Business_Audience|Business_Audience]]"
     - "[[Audience/Educational_Audience|Educational_Audience]]"
     - "[[Audience/Medical_Audience|Medical_Audience]]"
     - "[[Audience/People_Audience|People_Audience]]"
     - "[[Audience/Researcher|Researcher]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

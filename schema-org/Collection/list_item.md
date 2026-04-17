@@ -35,7 +35,8 @@ dv_is_:
     - "[[/_secret/schema-org/Collection/list_item.secret|list_item.secret]]"
     - "[[list_item]]"
 dv_has_:
-  parent_class: "[[../Class/is_a_/Intangible|Intangible]]]"
+  parent_: 
+    class: "[[../Class/is_a_/Intangible|Intangible]]]"
   child_class: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Class/is_a_/Intangible|Intangible]]]"

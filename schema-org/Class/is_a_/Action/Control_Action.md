@@ -36,12 +36,14 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Control_Action.secret|Control_Action.secret]]"
     - "[[Control_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Control_Action/Activate_Action|Activate_Action]]"
     - "[[Control_Action/Deactivate_Action|Deactivate_Action]]"
     - "[[Control_Action/Resume_Action|Resume_Action]]"
     - "[[Control_Action/Suspend_Action|Suspend_Action]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_status|has_action_status]]"

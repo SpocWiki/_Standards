@@ -37,7 +37,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Event/User_Interaction.secret|User_Interaction.secret]]"
     - "[[User_Interaction]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[User_Interaction/User_Blocks|User_Blocks]]"
     - "[[User_Interaction/User_Checkins|User_Checkins]]"
     - "[[User_Interaction/User_Comments|User_Comments]]"
@@ -47,7 +48,8 @@ dv_has_:
     - "[[User_Interaction/User_Plays|User_Plays]]"
     - "[[User_Interaction/User_Plus_Ones|User_Plus_Ones]]"
     - "[[User_Interaction/User_Tweets|User_Tweets]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Event|Event]]"
   properties:
     - "[[about|about]]"

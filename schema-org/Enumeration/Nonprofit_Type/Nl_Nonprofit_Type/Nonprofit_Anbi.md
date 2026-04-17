@@ -28,7 +28,8 @@ title: is_a_nonprofit_anbi Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../NLNonprofitType|NLNonprofitType]]"
+  parent_: 
+    class: "[[../NLNonprofitType|NLNonprofitType]]"
   enum_of: "[[../NLNonprofitType|NLNonprofitType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi|Nonprofit_Anbi]]"

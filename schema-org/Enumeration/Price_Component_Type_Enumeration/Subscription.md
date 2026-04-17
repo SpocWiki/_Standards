@@ -26,7 +26,8 @@ title: is_a_subscription Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../PriceComponentTypeEnumeration|PriceComponentTypeEnumeration]]"
+  parent_: 
+    class: "[[../PriceComponentTypeEnumeration|PriceComponentTypeEnumeration]]"
   enum_of: "[[../PriceComponentTypeEnumeration|PriceComponentTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription|Subscription]]"

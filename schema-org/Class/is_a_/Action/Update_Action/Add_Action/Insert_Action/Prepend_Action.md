@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.secret|Prepend_Action.secret]]"
     - "[[Prepend_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../InsertAction|InsertAction]]"
   properties:
     - "[[../../../../../../Relation/has/has_action/has_action_status|has_action_status]]"

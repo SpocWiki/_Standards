@@ -27,7 +27,8 @@ tags:
 title: is_a_completed_action_status Class
 type: Type
 dv_has_:
-  parent_class: "[[../ActionStatusType|ActionStatusType]]"
+  parent_: 
+    class: "[[../ActionStatusType|ActionStatusType]]"
 dv_is_:
   enum_of: "[[../ActionStatusType|ActionStatusType]]"
   same_as:

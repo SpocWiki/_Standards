@@ -27,7 +27,8 @@ tags:
 title: is_a_seating_map Class
 type: Type
 dv_has_:
-  parent_class: "[[../MapCategoryType|MapCategoryType]]"
+  parent_: 
+    class: "[[../MapCategoryType|MapCategoryType]]"
 dv_is_:
   enum_of: "[[../MapCategoryType|MapCategoryType]]"
   same_as:

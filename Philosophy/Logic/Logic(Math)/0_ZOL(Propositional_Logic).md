@@ -1,0 +1,224 @@
+---
+aliases:
+  - Aussagenlogik
+  - statement logic
+  - sentential calculus
+  - propositional calculus
+  - sentential logic
+  - zeroth-order logic
+  - calcul des propositions
+  - first-order propositional logic
+  - Iskazni račun
+  - Kalkulus proposisional
+  - Lauseloogika
+  - logica propositionalis
+  - logica proposizionale
+  - logică propozițională
+  - Logika proposizional
+  - lògica proposicional
+  - lógica proposicional
+  - Lóxica proposicional
+  - Mệnh đề toán học
+  - Proposisionele logika
+  - propositielogica
+  - propositiologiikka
+  - propositional calculus
+  - Propositional logic
+  - Propositional_calculus
+  - Propositional_Logic
+  - propozicia kalkulo
+  - propozicijski račun
+  - Propozicionala logiko
+  - rachunek zdań
+  - Rhesymeg osodiadol
+  - satslogik
+  - sentential calculus
+  - sentential logic
+  - setningslogikk
+  - statement logic
+  - Teiginių logika
+  - utsegnslogikk
+  - výroková logika
+  - zeroth-order logic
+  - ítéletlogika
+  - Önermeler mantığı
+  - Ütjsaagenloogik
+  - Προτασιακός λογισμός
+  - зьлічэньне выказваньняў
+  - исказна логика
+  - Исказни рачун
+  - исчисление высказываний
+  - Каланăлăхсен шутлавĕ
+  - Логіка выказванняў
+  - Логикалык сүйлөө
+  - Пропозиционна логика
+  - Пропозицын логик
+  - числення висловлень
+  - ասույթների տրամաբանություն
+  - תחשיב הפסוקים
+  - حساب القضايا
+  - حساب گزارهای
+  - قضیوي حساب (منطق)
+  - प्रतिज्ञप्तिक कलन
+  - แคลคูลัสเชิงประพจน์
+  - 命題論理
+  - 命題邏輯
+  - 命题逻辑
+  - 명제 논리
+has_id_wikidata: Q200694
+has_characteristic: "[[_Standards/WikiData/WD~validity,1047000|WD~validity,1047000]]"
+part_of:
+  - "[[_Standards/WikiData/WD~mathematical_logic,1166618|WD~mathematical_logic,1166618]]"
+  - "[[_Standards/WikiData/WD~logic,8078|WD~logic,8078]]"
+is_the_study_of: "[[_Standards/WikiData/WD~propositional_formula,1372900|WD~propositional_formula,1372900]]"
+different_from: "[[_Standards/WikiData/WD~zeroth_order_logic,8069651|WD~zeroth_order_logic,8069651]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~propositional_logic,16705128|WD~propositional_logic,16705128]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~propositional_logic,16705128|WD~propositional_logic,16705128]]"
+subclass_of: "[[_Standards/WikiData/WD~logical_system,17488292|WD~logical_system,17488292]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+OmegaWiki_Defined_Meaning: 967134
+Stack_Exchange_tag: https://philosophy.stackexchange.com/tags/propositional-logic
+Commons_category: Propositional logic
+GitHub_topic: propositional-logic
+PhilPapers_topic: propositional-logic
+defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>P</mi><mo stretchy="false" accent="false">&#x2192;</mo><mi>Q</mi><mo>,</mo><mi>P</mi><mo stretchy="false">&#x22A2;</mo><mi>Q</mi></mstyle></mrow></math>
+dv_has_:
+  name_:
+    af: Proposisionele logika
+    ar: حساب القضايا
+    ast: Lóxica proposicional
+    be: Логіка выказванняў
+    be_tarask: зьлічэньне выказваньняў
+    bg: Пропозиционна логика
+    ca: lògica proposicional
+    cs: výroková logika
+    cv: Каланăлăхсен шутлавĕ
+    cy: Rhesymeg osodiadol
+    de: Aussagenlogik
+    de_ch: Aussagenlogik
+    el: Προτασιακός λογισμός
+    en: propositional calculus
+    en_ca: Propositional calculus
+    en_gb: Propositional calculus
+    eo: propozicia kalkulo
+    es: lógica proposicional
+    et: Lauseloogika
+    eu: Logika proposizional
+    fa: حساب گزارهای
+    fi: propositiologiikka
+    fr: calcul des propositions
+    frr: Ütjsaagenloogik
+    gl: lóxica proposicional
+    he: תחשיב הפסוקים
+    hi: प्रतिज्ञप्तिक कलन
+    hu: ítéletlogika
+    hy: ասույթների տրամաբանություն
+    id: Kalkulus proposisional
+    io: Propozicionala logiko
+    it: logica proposizionale
+    ja: 命題論理
+    ko: 명제 논리
+    ky: Логикалык сүйлөө
+    la: logica propositionalis
+    lt: Teiginių logika
+    mk: исказна логика
+    mn: Пропозицын логик
+    nb: setningslogikk
+    nl: propositielogica
+    nn: utsegnslogikk
+    pl: rachunek zdań
+    ps: قضیوي حساب (منطق)
+    pt: lógica proposicional
+    pt_br: lógica proposicional
+    ro: logică propozițională
+    ru: исчисление высказываний
+    sk: výroková logika
+    sl: propozicijski račun
+    sr: Исказни рачун
+    sr_ec: Исказни рачун
+    sr_el: Iskazni račun
+    sv: satslogik
+    th: แคลคูลัสเชิงประพจน์
+    tr: Önermeler mantığı
+    uk: числення висловлень
+    vi: Mệnh đề toán học
+    yue: 命題邏輯
+    zh: 命题逻辑
+    zh_cn: 命题逻辑
+    zh_hans: 命题逻辑
+    zh_hant: 命題邏輯
+    zh_hk: 命題邏輯
+    zh_sg: 命题逻辑
+    zh_tw: 命題邏輯
+---
+
+# [[0_ZOL(Propositional_Logic)]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~Propositional_calculus,200694|WD~Propositional_calculus,200694]] 
+
+## #has_/feature 
+
+### Atomic Propositions with a Truth Value 
+
+Represent whole facts like “It is raining”. 
+
+### Logical Connectives ∧,∨,¬,→ 
+
+All these can be formed from NAND or NOR Gates. 
+
+## #has_/text_of_/abstract 
+
+> Propositional logic is a branch of logic. 
+> It is also called statement logic, sentential calculus, propositional calculus, 
+> sentential logic, or sometimes zeroth-order logic. 
+> Sometimes, it is called first-order propositional logic to contrast it with System F, 
+> but it should not be confused with first-order logic. 
+> 
+> By comparison with first-order logic, truth-functional propositional logic is considered to be zeroth-order logic.
+>
+> It deals with propositions (which can be true or false) and relations between propositions, 
+> including the construction of arguments based on them. 
+> 
+> Compound propositions are formed by connecting propositions by logical connectives 
+> representing the truth functions of conjunction, disjunction, implication, biconditional, and negation. 
+> Some sources include other connectives, as in the table below.
+>
+> Unlike first-order logic, propositional logic does not deal with non-logical objects, 
+> predicates about them, or quantifiers. 
+> However, all the machinery of propositional logic 
+> is included in first-order logic and higher-order logics. 
+> In this sense, propositional logic is the foundation of first-order logic and higher-order logic.
+>
+> Propositional logic is typically studied with a formal language, 
+> in which propositions are represented by letters, which are called propositional variables. 
+> These are then used, together with symbols for connectives, to make propositional formulas. 
+> 
+> Because of this, the propositional variables are called atomic formulas of a formal propositional language. 
+> While the atomic propositions are typically represented by letters of the alphabet, 
+> there is a variety of notations to represent the logical connectives. 
+>
+> The most thoroughly researched branch of propositional logic 
+> is classical truth-functional propositional logic, in which formulas are interpreted as 
+> having precisely one of two possible truth values, **true** or **false**. 
+> The principle of bivalence and the **law of excluded middle** are upheld. 
+> 
+> [Wikipedia](https://en.wikipedia.org/wiki/Propositional%20logic) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[0_ZOL(Propositional_Logic)|0]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Logic/Logic(Math)/Propositional_Logic.public|Propositional_Logic.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Logic/Logic(Math)/Propositional_Logic.internal|Propositional_Logic.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Logic/Logic(Math)/Propositional_Logic.protect|Propositional_Logic.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Logic/Logic(Math)/Propositional_Logic.private|Propositional_Logic.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Logic/Logic(Math)/Propositional_Logic.personal|Propositional_Logic.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Logic/Logic(Math)/Propositional_Logic.secret|Propositional_Logic.secret]] 
+

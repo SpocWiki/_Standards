@@ -28,7 +28,8 @@ title: is_a_free_return Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../ReturnFeesEnumeration|ReturnFeesEnumeration]]"
+  parent_: 
+    class: "[[../ReturnFeesEnumeration|ReturnFeesEnumeration]]"
   enum_of: "[[../ReturnFeesEnumeration|ReturnFeesEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return|Free_Return]]"

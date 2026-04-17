@@ -27,7 +27,8 @@ tags:
 title: is_a_cd_format Class
 type: Type
 dv_has_:
-  parent_class: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
+  parent_: 
+    class: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
 dv_is_:
   enum_of: "[[../MusicReleaseFormatType|MusicReleaseFormatType]]"
   same_as:

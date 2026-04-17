@@ -26,7 +26,8 @@ tags:
 title: is_an_event_series Class
 type: Type
 dv_is_:
-  parent_class: "[[../Event, Series|Event, Series]]"
+  parent_: 
+    class: "[[../Event, Series|Event, Series]]"
   part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Event/Event_Series|Event_Series]]"

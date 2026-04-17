@@ -26,7 +26,8 @@ tags:
 title: is_a_rsvp_response_type Class
 type: Type
 dv_has_:
-  parent_class: "[[../Enumeration|Enumeration]]"
+  parent_: 
+    class: "[[../Enumeration|Enumeration]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type|Rsvp_Response_Type]]"

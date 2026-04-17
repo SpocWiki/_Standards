@@ -37,7 +37,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.secret|Interaction_Counter.secret]]"
     - "[[Interaction_Counter]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../StructuredValue|StructuredValue]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

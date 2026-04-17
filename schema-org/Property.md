@@ -36,7 +36,8 @@ dv_has_range: "[[Class/is_a_/Data_Type|Data_Type]]"
 dv_has_domain: "[[Class/Thing|Thing]]"
 dv_is_:
   part_of: https://meta.schema.org
-  parent_class: "[[Class/is_a_/Intangible|Intangible]]"
+  parent_: 
+    class: "[[Class/is_a_/Intangible|Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Property|Property]]"
     - "[[/_public/schema-org/Property.public|Property.public]]"

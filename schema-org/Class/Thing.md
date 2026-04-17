@@ -132,7 +132,8 @@ dv_is_:
   - '[[/_personal/schema-org/Class/Thing.personal|Thing.personal]]'
   - '[[/_secret/schema-org/Class/Thing.secret|Thing.secret]]'
   instance_of: '[[../Class|Class]]'
-  parent_class: '[[Thing]]'
+  parent_: 
+    class: '[[Thing]]'
 dv_has_:
   child_:
     class:

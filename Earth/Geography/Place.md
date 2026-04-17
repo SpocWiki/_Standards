@@ -73,7 +73,7 @@ dv_has_properties:
   - "[[event]]"
   - "[[events]]"
   - "[[faxNumber]]"
-  - "[[geo]]"
+  - "[[../../Earth]]"
   - "[[geoContains]]"
   - "[[geoCoveredBy]]"
   - "[[geoCovers]]"

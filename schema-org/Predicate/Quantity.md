@@ -131,10 +131,12 @@ dv_is_:
   - '[[/_personal/schema-org/Predicate/Quantity.personal|Quantity.personal]]'
   - '[[/_secret/schema-org/Predicate/Quantity.secret|Quantity.secret]]'
   - '[[Quantity]]'
-  parent_class: '[[../Class/is_a_/Intangible|Intangible]]'
+  parent_: 
+    class: '[[../Class/is_a_/Intangible|Intangible]]'
   worse_than: '[[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]'
 dv_has_:
-  child_class: '[ Distance, Duration, Energy, Mass ]'
+  child_:
+    class: '[ Distance, Duration, Energy, Mass ]'
   name_:
     anp: मात्रा
     ar: كمية

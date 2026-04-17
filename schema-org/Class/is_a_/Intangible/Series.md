@@ -34,10 +34,12 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Series.secret|Series.secret]]"
     - "[[Series]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[creative_work_series|creative_work_series]]"
     - "[[../Event/Event_Series|Event_Series]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Intangible|Intangible]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

@@ -37,7 +37,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Agree_Action.secret|Agree_Action.secret]]"
     - "[[Agree_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../ReactAction|ReactAction]]"
   properties:
     - "[[../../../../../Relation/has/has_action/has_action_status|has_action_status]]"

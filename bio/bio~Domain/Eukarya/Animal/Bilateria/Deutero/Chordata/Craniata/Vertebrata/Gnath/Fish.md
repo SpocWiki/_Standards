@@ -1,0 +1,765 @@
+---
+aliases:
+- aalisagaq
+- abakan
+- akpa
+- arrain
+- Asan
+- aska
+- Aslem
+- Aslm
+- azụ
+- A̱fa̱n
+- bale
+- Baliqlar
+- balyk
+- balîk
+- balık
+- Balıq
+- balıqlar
+- bapgù
+- Binyi
+- Challwa
+- cwí
+- cá
+- Diing
+- djegè
+- Duzbya
+- eeast
+- eiya
+- eja
+- ek
+- esōh
+- etsəgha
+- Eungkôt
+- Fasker
+- Fesch
+- Fesh
+- fi
+- Fiisch
+- finpe
+- Fis
+- Fisc
+- Fisch
+- Fische
+- Fish
+- fishe
+- Fishes
+- Fisho
+- Fisi
+- Fisk
+- Fiskur
+- fit
+- fiŝo
+- Foting
+- Fusch
+- Fësch
+- fū
+- guelie
+- guolle
+- guolli
+- guöllie
+- hal
+- Hazandrano
+- hiobi
+- hiɔfɔ́
+- Hove
+- Hî
+- həré
+- hɛɔbɔ́
+- iasc
+- Iasg
+- ika
+- ikan
+- inhlanzi
+- Intlanzi
+- Iqaluk
+- irin̄
+- Isda
+- Iwak
+- Iy
+- iʻa
+- i‘a
+- Jhuko'
+- jën
+- kala
+- kalad
+- kalā
+- kifi
+- kinocew
+- Kpakpayaɣ
+- kueʹll
+- kyeli
+- kùlúf
+- kɔh
+- kɔ̀ɔ́s
+- kɔ̌s
+- lauak
+- Lauk
+- liingu
+- Machhri
+- Malaay
+- Mase
+- Masî
+- mbiēnshi
+- Mbísi
+- messó
+- Michin
+- moj
+- ngǒntsə
+- Ngṳ̀
+- nomaˀne
+- nsha
+- nsuomu nam
+- nsí
+- Nsú
+- nyam nà'
+- Paîsson
+- peci
+- Peis
+- peix
+- peixe
+- pes
+- pesce
+- pesch
+- pesciu
+- Pescu
+- pese
+- peshku
+- pesk
+- Pess
+- Pex
+- pexe
+- Pexhon
+- pexi
+- pez
+- pește
+- Pichon
+- Pira
+- pis
+- Pisc
+- Pisce
+- Pisces
+- pische
+- Pisci
+- Piscis
+- Pishkados
+- piská
+- poisson
+- Poson
+- Pwason
+- pysgodyn
+- Pysk
+- Pès
+- Pêsson
+- Pësc
+- Qulih
+- qurxummii
+- riba
+- Ribe
+- ryba
+- Ryby
+- Rëbë
+- sada
+- Samaki
+- sehlapi
+- si
+- sira
+- sue
+- susu
+- syiŋ
+- thamaki
+- Tola
+- tsû
+- ulam
+- Vis
+- visk
+- Visschn
+- vissen
+- vèsse
+- yɔ́pɔ́
+- Zaham
+- ziiŋ
+- zivis
+- zivs
+- Zombo
+- zoro
+- zĩm
+- ítsî
+- ħuta
+- łóóʼ
+- Žovis
+- žuvys
+- Ǹg-è
+- οψάρ'
+- ψάρι
+- Аҧсыӡ
+- балык
+- балыклар
+- балыкъ
+- Балықтар
+- Балыҡтар
+- Гъед
+- Загаhан
+- загас
+- Заһсн
+- кал
+- калт
+- Кол
+- кӕсаг
+- кӯлль
+- Моҳӣ
+- Пулă
+- риба
+- рибе
+- риби
+- Рыбы
+- рꙑба
+- Чавахъ
+- Чери
+- Чкъаьрий
+- чорыг
+- ччугӏа
+- чӏара
+- ձկներ
+- Ձուկեր
+- דג
+- פיש
+- ايکن
+- بالق
+- بالیقلار
+- بېلىق
+- حوت
+- سمك
+- ماسی
+- ماهی
+- مچھلی
+- مچھی
+- کب
+- گاڈٕ
+- މަސް
+- ߖߍ߮
+- न्या
+- मच्छी
+- मछरी
+- मछली
+- मत्स्याः
+- माछा
+- मासा
+- মাছ
+- ਮੱਛੀ
+- માછલી
+- ମାଛ
+- மீன்
+- చేప
+- ಮಸ್ಳೀ
+- ಮೀನು
+- ಮೀನ್
+- മത്സ്യം
+- මාළු
+- ปลา
+- ປາ
+- ཉ།
+- ငါး
+- ပႃ
+- თევზები
+- ჩხომი
+- ዓሣ
+- ᎠᏣᏗ
+- ᐃᖃᓗᒃ
+- ᓇᒣᔅ
+- ត្រី
+- ᠨᡳᠮᠠᡥᠠ
+- ᥙᥣ
+- ᱦᱟᱹᱠᱩ
+- ἰχθύς
+- ”kǝzɛ́n"
+- ⴰⵙⵍⵎ
+- 魚
+- 魚類
+- 鱼
+- ꉛ
+- ꠝꠣꠍ
+- ꯉꯥ
+- 물고기
+- "\U00010346\U00010339\U00010343\U0001033A\U00010343"
+has_id_wikidata: Q152
+carbon_footprint: 1.1
+Colon_Classification: K92
+Commons_category: Fish
+Commons_gallery: Fish
+described_by_source:
+- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Fishes_of_the_World,757293|WD~Fishes_of_the_World,757293]]'
+- '[[_Standards/WikiData/WD~FishBase,837101|WD~FishBase,837101]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+Dewey_Decimal_Classification:
+- 597
+- 333.956
+- 641.692
+different_from:
+- '[[_Standards/WikiData/WD~common_carp,81110|WD~common_carp,81110]]'
+- '[[_Standards/WikiData/WD~Ryba,1691448|WD~Ryba,1691448]]'
+equivalent_class: http://dbpedia.org/ontology/Fish
+exact_match: http://purl.obolibrary.org/obo/ENVO_00003875
+GS1_GPC_code: 10005456
+habitat: '[[_Standards/WikiData/WD~body_of_water,15324|WD~body_of_water,15324]]'
+has_characteristic: '[[_Standards/WikiData/WD~diversity_of_fish,5283970|WD~diversity_of_fish,5283970]]'
+has_use:
+- '[[_Standards/WikiData/WD~fish_as_food,600396|WD~fish_as_food,600396]]'
+IAB_code: 426
+Iconclass_notation:
+- 25F6
+- 41C68
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Georgia%20Aquarium%20-%20Giant%20Grouper%20edit.jpg
+instance_of:
+- '[[_Standards/WikiData/WD~grade,2612572|WD~grade,2612572]]'
+- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]'
+- '[[_Standards/WikiData/WD~paraphyletic_group,58051350|WD~paraphyletic_group,58051350]]'
+Krugosvet_article: biologiya/ryby
+means_of_locomotion: '[[_Standards/WikiData/WD~fish_locomotion,5454646|WD~fish_locomotion,5454646]]'
+MeSH_tree_code:
+- B01.050.150.900.493
+montage_image:
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fish-coll002.jpg
+OmegaWiki_Defined_Meaning: 1460
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20page%20banner%20tropical%20fish%20white.jpg
+pronunciation_audio:
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fish-ar.oga
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ja-uo-fish.oga
+- http://commons.wikimedia.org/wiki/Special:FilePath/Jer-Pa%C3%AEsson.ogg
+properties_for_this_type:
+- main food source
+- habitat
+- image
+start_time: -530000000-01-01
+studied_in:
+- '[[_Standards/WikiData/WD~ichthyology,60242|WD~ichthyology,60242]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~marine_life,1230015|WD~marine_life,1230015]]'
+- '[[_Standards/WikiData/WD~aquatic_animal,1756633|WD~aquatic_animal,1756633]]'
+subreddit:
+- Fish
+taxon_known_by_this_common_name: '[[_Standards/WikiData/WD~Acanthodii,130955|WD~Acanthodii,130955]]'
+taxon_name: Pisces
+taxon_rank: '[[_Standards/WikiData/WD~class,37517|WD~class,37517]]'
+this_taxon_is_source_of:
+- '[[_Standards/WikiData/WD~roe,219426|WD~roe,219426]]'
+- '[[_Standards/WikiData/WD~fish_as_food,600396|WD~fish_as_food,600396]]'
+- '[[_Standards/WikiData/WD~cod_liver_oil,748786|WD~cod_liver_oil,748786]]'
+- '[[_Standards/WikiData/WD~shagreen,1511939|WD~shagreen,1511939]]'
+- '[[_Standards/WikiData/WD~umi_no_foagura,17231497|WD~umi_no_foagura,17231497]]'
+- '[[_Standards/WikiData/WD~fish_intestine,96756279|WD~fish_intestine,96756279]]'
+- '[[_Standards/WikiData/WD~fish_tail,107246611|WD~fish_tail,107246611]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Diversity_of_fish,13478705|WD~Template_Diversity_of_fish,13478705]]'
+Unicode_character: "\U0001F41F"
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+U_S_National_Archives_Identifier: 10638092
+video:
+- http://commons.wikimedia.org/wiki/Special:FilePath/Begiaren%20migrazioa.webm
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fish,7112636|WD~outline_of_fish,7112636]]'
+dv_has_:
+  name_:
+    ab: Аҧсыӡ
+    ace: Eungkôt
+    af: Vis
+    agq: etsəgha
+    ak: nsuomu nam
+    alt: Балык
+    am: ዓሣ
+    ami: Foting
+    an: Pisces
+    ang: Fisc
+    ann: irin̄
+    anp: मछली
+    ar: سمك
+    arq: حوت
+    ary: حوت
+    arz: سمك
+    as: মাছ
+    ast: pexe
+    atj: kinocew
+    av: ччугӏа
+    ay: Challwa
+    az: balıq
+    azb: بالیقلار
+    ba: Балыҡтар
+    bag: cwí
+    ban: ulam
+    bar: Fiisch
+    bas: hiobi
+    bax: nsha
+    bbj: bapgù
+    bcl: sira
+    bdr: Diing
+    be: рыбы
+    be_tarask: рыбы
+    bg: риба
+    bho: मछरी
+    bi: Fis
+    bjn: Iwak
+    bkc: si
+    bkh: kɔh
+    bkm: tsû
+    bm: djegè
+    bn: মাছ
+    bo: ཉ།
+    br: pesk
+    bs: Ribe
+    bug: bale
+    bxr: Загаhан
+    byv: ngǒntsə
+    ca: peix
+    cdo: Ngṳ̀
+    ce: чӏара
+    ceb: Isda
+    chr: ᎠᏣᏗ
+    chy: nomaˀne
+    ckb: ماسی
+    co: pesciu
+    cr: ᓇᒣᔅ
+    crh: balıq
+    crh_latn: Balıq
+    crh-ro: balîk
+    cs: ryby
+    csb: Rëbë
+    cu: рꙑба
+    cv: Пулă
+    cy: pysgodyn
+    da: fisk
+    dag: Zaham
+    de: Fisch
+    de_ch: Fische
+    dga: Zombo
+    diq: Mase
+    dsb: Ryby
+    dtp: sada
+    dua: sue
+    dv: މަސް
+    ee: akpa
+    el: ψάρι
+    en: fish
+    en_ca: Fish
+    en_gb: fish
+    eo: fiŝo
+    es: pez
+    et: kala
+    eto: kɔ̀ɔ́s
+    etu: nsí
+    eu: arrain
+    ewo: kɔ̌s
+    ext: peci
+    fa: ماهی
+    ff: liingu
+    fi: kala
+    fj: Ika
+    fmp: mbiēnshi
+    fo: Fiskur
+    fr: poisson
+    frp: Pêsson
+    frr: Fasker
+    fur: pes
+    fy: fisk
+    ga: iasc
+    gag: balık
+    gan: 魚
+    gcr: Poson
+    gd: Iasg
+    gl: peixe
+    gn: Pira
+    gom: ಮಸ್ಳೀ
+    gor: Tola
+    got: "\U00010346\U00010339\U00010343\U0001033A\U00010343"
+    gpe: fish
+    grc: ἰχθύς
+    gsw: Fisch
+    gu: માછલી
+    gv: eeast
+    gya: zoro
+    ha: kifi
+    hak: Ǹg-è
+    haw: iʻa
+    he: דג
+    hi: मछली
+    hif: Machhri
+    hil: abakan
+    hr: ribe
+    hsb: Ryby
+    ht: Pwason
+    hu: hal
+    hy: ձկներ
+    hyw: Ձուկեր
+    ia: pisce
+    iba: Ikan
+    id: ikan
+    ie: Pisc
+    ig: azụ
+    ii: ꉛ
+    ik: Iqaluk
+    ilo: ikan
+    inh: Чкъаьрий
+    io: Fisho
+    is: Fiskur
+    isu: ítsî
+    it: pesce
+    iu: ᐃᖃᓗᒃ
+    ja: 魚類
+    jam: Fish
+    jbo: finpe
+    jv: Iwak
+    ka: თევზები
+    kaa: Balıq
+    kab: Aslem
+    kbp: Kpakpayaɣ
+    kcg: A̱fa̱n
+    kea: pexi
+    ker: aska
+    kge: Iwak
+    ki: thamaki
+    kk: Балықтар
+    kl: aalisagaq
+    km: ត្រី
+    kn: ಮೀನು
+    knc: Binyi
+    ko: 물고기
+    krc: балыкъ
+    ks: گاڈٕ
+    ksh: Fesch
+    ku: Masî
+    kus: ziiŋ
+    kv: Чери
+    kw: Pysk
+    ky: балык
+    la: Piscis
+    lad: Pishkados
+    lb: Fësch
+    lbe: Чавахъ
+    lem: hiɔfɔ́
+    lez: Гъед
+    lfn: Pex
+    li: vèsse
+    liv: kalā
+    lld: Pësc
+    lmo: Pès
+    ln: Mbísi
+    lns: nyam nà'
+    lo: ປາ
+    lt: žuvys
+    ltg: zivs
+    lv: zivis
+    lzh: 魚
+    mad: Jhuko'
+    mcn: kùlúf
+    mcp: ”kǝzɛ́n"
+    mdf: кал
+    mg: Hazandrano
+    mh: ek
+    mhr: Кол
+    mi: ika
+    min: lauak
+    mk: риби
+    ml: മത്സ്യം
+    mn: загас
+    mnc: ᠨᡳᠮᠠᡥᠠ
+    mni: ꯉꯥ
+    mos: zĩm
+    mr: मासा
+    mrj: Кол
+    ms: ikan
+    ms_arab: ايکن
+    mt: ħuta
+    mua: syiŋ
+    mul: Pisces
+    my: ငါး
+    myv: калт
+    mzn: ماهی
+    na: Iy
+    nah: Michin
+    nan: Hî
+    nap: Pisce
+    nb: fisk
+    nds: Fisch
+    nds_nl: visk
+    ne: माछा
+    new: न्या
+    niu: ika
+    nl: vissen
+    nmg: fū
+    nn: fisk
+    nnh: messó
+    nov: fishe
+    nqo: ߖߍ߮
+    nrm: Paîsson
+    nv: łóóʼ
+    oc: Peis
+    om: qurxummii
+    or: ମାଛ
+    os: кӕсаг
+    ota: بالق
+    pa: ਮੱਛੀ
+    pam: Asan
+    pap: piská
+    pcd: Pichon
+    pfl: Fusch
+    pih: Fesh
+    pl: ryba
+    pms: Pess
+    pnb: مچھی
+    pnt: οψάρ'
+    ps: کب
+    pt: peixe
+    pt_br: peixe
+    qu: Challwa
+    rm: pesch
+    ro: pește
+    roa-tara: pesce
+    ru: рыбы
+    rue: Рыбы
+    rup: Pescu
+    rw: fi
+    sa: मत्स्याः
+    sah: Балык
+    sat: ᱦᱟᱹᱠᱩ
+    sc: pische
+    scn: Pisci
+    sco: fish
+    sd: मच्छी
+    se: guolli
+    sg: susu
+    sgs: Žovis
+    sh: riba
+    shi: Aslm
+    shn: ပႃ
+    si: මාළු
+    sjd: кӯлль
+    sju: guöllie
+    sk: ryby
+    skr: مچھی
+    sl: riba
+    sm: i‘a
+    sma: guelie
+    smj: guolle
+    smn: kyeli
+    sms: kueʹll
+    sn: Hove
+    so: Malaay
+    sq: peshku
+    sr: рибе
+    srn: Fisi
+    st: sehlapi
+    stq: Fisk
+    su: Lauk
+    sv: fisk
+    sw: Samaki
+    syl: ꠝꠣꠍ
+    szl: Ryby
+    ta: மீன்
+    tay: Qulih
+    tcy: ಮೀನ್
+    tdd: ᥙᥣ
+    te: చేప
+    tet: ikan
+    tg: Моҳӣ
+    th: ปลา
+    tk: balyk
+    tl: isda
+    tly: moj
+    to: ika
+    tok: kala
+    tpi: pis
+    tr: balık
+    tt: балыклар
+    tt_cyrl: балыклар
+    tt_latn: balıqlar
+    tvu: hiɔfɔ́
+    ty: eiya
+    tyv: балык
+    tzm: ⴰⵙⵍⵎ
+    udm: чорыг
+    ug: بېلىق
+    uk: риби
+    ur: مچھلی
+    uz: Baliqlar
+    vec: pese
+    vep: kalad
+    vi: cá
+    vls: Visschn
+    vo: fit
+    vot: kala
+    vro: Kala
+    vut: həré
+    wa: Pexhon
+    war: Isda
+    wes: fish
+    wo: jën
+    wuu: 鱼
+    xal: Заһсн
+    xh: Intlanzi
+    xmf: ჩხომი
+    yas: hɛɔbɔ́
+    yat: Nsú
+    yav: yɔ́pɔ́
+    ybb: esōh
+    yi: פיש
+    yo: eja
+    yue: 魚
+    za: Duzbya
+    zh: 魚
+    zh_cn: 鱼
+    zh_hans: 鱼
+    zh_hant: 魚
+    zh_hk: 魚
+    zh_mo: 魚
+    zh_sg: 鱼
+    zh_tw: 魚
+    zu: inhlanzi
+---
+
+# [[Fish]] 🐟 
+
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Fish,152|WD~Fish,152]]  
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Osteichthyes,27207|WD~Osteichthyes,27207]]  
+
+## #has_/text_of_/abstract 
+
+> A **Fish** (pl.: fish or fishes) is an aquatic, anamniotic, gill-bearing vertebrate animal 
+> with swimming fins and a hard skull, but lacking limbs with digits. 
+> 
+> Fish can be grouped into the more basal jawless fish 
+> and the more common jawed fish, 
+> the latter including all living cartilaginous and bony fish, as well as the extinct placoderms and acanthodians. In a break to the long tradition of grouping all fish into a single class (Pisces), contemporary phylogenetics views fish as a paraphyletic group.
+>
+> Most fish are cold-blooded, their body temperature varying with the surrounding water, though some large active swimmers like white shark and tuna can hold a higher core temperature. Many fish can communicate acoustically with each other, such as during courtship displays. The study of fish is known as ichthyology.
+>
+> The earliest fish appeared during the Cambrian as small filter feeders; they continued to evolve through the Paleozoic, diversifying into many forms. The earliest fish with dedicated respiratory gills and paired fins, the ostracoderms, had heavy bony plates that served as protective exoskeletons against invertebrate predators. The first fish with jaws, the placoderms, appeared in the Silurian and greatly diversified during the Devonian, the "Age of Fishes".
+>
+> Bony fish, distinguished by the presence of swim bladders and later ossified endoskeletons, emerged as the dominant group of fish after the end-Devonian extinction wiped out the apex predators, the placoderms. Bony fish are further divided into the lobe-finned and ray-finned fish. About 96% of all living fish species today are teleosts, a crown group of ray-finned fish that can protrude their jaws. The tetrapods, a mostly terrestrial clade of vertebrates that have dominated the top trophic levels in both aquatic and terrestrial ecosystems since the Late Paleozoic, evolved from lobe-finned fish during the Carboniferous, developing air-breathing lungs homologous to swim bladders. Despite the cladistic lineage, tetrapods are usually not considered to be fish.
+>
+> Fish have been an important natural resource for humans since prehistoric times, especially as food. Commercial and subsistence fishers harvest fish in wild fisheries or farm them in ponds or in breeding cages in the ocean. Fish are caught for recreation, or raised by fishkeepers as ornaments for private and public exhibition in aquaria and garden ponds. Fish have had a role in human culture through the ages, serving as deities, religious symbols, and as the subjects of art, books and movies.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Fish) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[Fish|Fish]] 
+
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.public|Fish.public]] 
+
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.internal|Fish.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.protect|Fish.protect]] 
+
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.private|Fish.private]] 
+
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.personal|Fish.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.secret|Fish.secret]] 
+

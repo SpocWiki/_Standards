@@ -309,25 +309,263 @@ dv_has_:
 > Not all steps take place in every scientific inquiry (nor to the same degree), 
 > and they are not always in the same order. 
 > 
-> Numerous discoveries have not followed the textbook model of the scientific method, 
+> Numerous discoveries have **not** followed the textbook model of the scientific method, 
 > and, in some cases, chance has played a role.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scientific%20method) 
 
+## Philosophy of Science  
 
-## Confidential Links & Embeds: 
+The Philosophy of science studies what science is, how scientific knowledge is justified, 
+how theories change, and where the boundary lies between science and non-science. 
 
-### #is_/same_as :: [[/_Standards/Science/Scientific_Method|Scientific_Method]] 
+The field asks both **normative** questions, such as how inquiry ought to proceed, 
+and **descriptive** questions, such as how successful sciences actually develop. 
 
-### #is_/same_as :: [[/_public/Science/Scientific_Method.public|Scientific_Method.public]] 
+A central lesson of twentieth-century debate is that science is 
+neither a simple accumulation of facts nor pure social construction; 
+it is a fallible, historically situated, but still evidence-constrained enterprise.  
+  
+### Orientation  
 
-### #is_/same_as :: [[/_internal/Science/Scientific_Method.internal|Scientific_Method.internal]] 
+A useful first contrast is between two broad outlooks. 
+The older outlook sought one universal logic or method of science. 
+The newer, more prevalent outlook treats science as a family of related practices 
+that vary across fields while sharing common virtues such as 
+- empirical testing, 
+- explanatory power, 
+- predictive success, 
+- reproducibility, and 
+- openness to criticism.  
+  
+#### Approximate standing of major outlooks  
 
-### #is_/same_as :: [[/_protect/Science/Scientific_Method.protect|Scientific_Method.protect]] 
+The figures below are heuristic ranges, not survey data. They indicate relative current sympathy in philosophy of science and teaching presence. The positions overlap, so the percentages are not additive. 
+  
+| Outlook                            | Core claim                                                                            | Min% | Max% | Teach% |
+| ---------------------------------- | ------------------------------------------------------------------------------------- | ---: | ---: | -----: |
+| Methodological monism              | There is one universal scientific method.                                             |   10 |   20 |      80 |
+| Methodological pluralism           | Sciences use multiple methods under shared norms of evidence and criticism.           |   60 |   80 |      90 |
+| Strong inductivism                 | Science mainly justifies laws by accumulating confirming instances.                   |    5 |   15 |      70 |
+| Strict Popperian falsificationism  | Science advances by conjectures and refutations; falsifiability is the key criterion. |   10 |   20 |     100 |
+| Kuhnian historical paradigm view   | Science is structured by paradigms, normal science, crises, and revolutions.          |   20 |   35 |     100 |
+| Lakatosian research-programme view | Theories are appraised as programmes over time, not by single tests.                  |   15 |   25 |      80 |
+| Strong Feyerabendian anarchism     | No universal methodological rules should govern science.                              |    5 |   10 |      70 |
+| Sharp demarcation criterion        | One clear rule separates science from non-science.                                    |   15 |   25 |      70 |
+| Multi-criteria demarcation view    | Demarcation is context-sensitive and uses several indicators.                         |   60 |   80 |      90 |
+| Moderate theory-ladenness          | Observation is influenced by theory but not wholly determined by it.                  |   70 |   90 |      90 |
+| Strong theory-determination        | Observation is so theory-bound that neutral evidence is largely impossible.           |   10 |   20 |      60 |
+  
+### The Scientific Method  
 
-### #is_/same_as :: [[/_private/Science/Scientific_Method.private|Scientific_Method.private]] 
+In school textbooks, the scientific method is often presented as a sequence: 
+- observe, hypothesize, predict, test, and revise. 
 
-### #is_/same_as :: [[/_personal/Science/Scientific_Method.personal|Scientific_Method.personal]] 
+This model captures something important, namely the cyclic relation between theory and evidence, 
+but it is too simple to describe all sciences. 
 
-### #is_/same_as :: [[/_secret/Science/Scientific_Method.secret|Scientific_Method.secret]] 
+Astronomy often relies on observation and mathematical modeling rather than controlled experiment. 
+Geology and evolutionary biology often infer past causes from present traces. 
+Particle physics depends heavily on instrumentation, statistics, and model-based detection.  
+  
+```mermaid  
+flowchart   
+    Observation --> Hypothesis  
+    Hypothesis --> Prediction  
+    Prediction --> Test  
+    Test --> Analysis  
+    Analysis --> Revision  
+    Revision --> Hypothesis  
+    Analysis --> Replication  
+    Replication --> Acceptance  
+    Replication --> FurtherTesting  
+    FurtherTesting --> Revision  
+```  
+  
+#### Two main viewpoints  
+
+##### monist viewpoint 
+there is one core method common to all sciences. Historically, this was highly influential because it promised a clear logic of discovery and justification. Its authority today is lower because actual sciences differ too much in tools and standards.  
+  
+##### pluralist viewpoint 
+ there is no single algorithm, but there are shared norms: empirical accountability, inferential discipline, public criticism, and readiness to revise. This is the more prevalent contemporary position. It preserves scientific objectivity without pretending that chemistry, cosmology, epidemiology, and economics proceed identically.  
+  
+### Inductivism and Hume's Problem  
+
+Inductivism holds that science begins with observations and builds general laws from repeated instances. If many observed metals expand when heated, one may infer that all metals expand when heated. This fits the intuitive image of science as generalization from data.  
+  
+#### The core problem  
+David Hume argued that no purely logical route justifies the step from observed cases to unobserved cases. The fact that the future has resembled the past does not deductively prove that it always will. Any attempt to justify induction by saying that induction worked in the past is circular, because it already relies on induction.  
+  
+#### The structure of the problem  
+A simple inductive projection can be written as follows.  
+$$
+ProjectedProb(FutureCaseMatchesPattern \mid ObservedCasesMatchPattern)
+$$  
+Hume's point is that repeated success does not entail, by deduction alone, that future cases must match the pattern. The hidden assumption is often called the UniformityOfNature principle. The difficulty is that this principle itself seems to require justification.  
+  
+#### Main responses  
+One response accepts Hume's challenge and concludes that induction lacks rational foundation in the strong sense. This skeptical reading has lasting authority. A second response tries to soften the problem rather than dissolve it. Bayesian philosophers, for example, describe rational updating by the formula below.  
+$$
+PosteriorProb(Hypothesis \mid Evidence) 
+= \frac{Likelihood(Evidence \mid Hypothesis) \times PriorProb(Hypothesis)}{TotalProb(Evidence)}
+$$ 
+Bayesianism is influential because it formalizes how evidence can increase or decrease confidence. However, it does not fully escape Hume's challenge, because priors, model assumptions, and likelihoods still need justification. Pragmatist and naturalized responses make a different move: they argue that induction need not be philosophically guaranteed in order to be indispensable and successful in practice.  
+  
+#### Assessment  
+Most philosophers accept Hume's negative point that induction is not deductively justified. What remains disputed is whether probabilistic, pragmatic, or naturalized approaches count as adequate vindications. Pure inductivism is now a minority position, but the problem it raised remains central.  
+  
+### Falsificationism, associated with Karl Popper  
+Popper rejected the idea that science advances by confirming theories through induction. He argued that science proceeds by bold conjectures that expose themselves to possible refutation. A theory is scientific, on this view, if it is falsifiable, meaning that it forbids certain possible observations.  
+  
+#### Popper's central idea  
+The statement "All swans are white" can be refuted by one black swan. By contrast, a claim flexible enough to fit every possible outcome is not genuinely testable. For Popper, the virtue of science lies not in verification but in severe testing. Theories that survive demanding tests are corroborated, though never finally proven.  
+  
+#### Strengths and limits  
+
+| Aspect        | Popperian claim                                                                           | Contemporary assessment                                         |     |
+| ------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --- |
+| Justification | Science does not verify theories; it tests them critically.                               | Widely influential as an ideal of critical inquiry.             |     |
+| Demarcation   | Scientific theories must be falsifiable.                                                  | Still important, but rarely treated as the sole criterion.      |     |
+| Progress      | Knowledge grows through error elimination.                                                | Plausible in part, but incomplete as a full history of science. |     |
+| Weakness      | A failed prediction can be blamed on auxiliaries, instruments, or background assumptions. | This is a major challenge to strict falsificationism.           |     |
+  
+#### Two viewpoints on Popper  
+A strong Popperian view treats falsifiability as both the essence of science and the key to scientific progress. Its current endorsement is limited, though its teaching authority remains very high.  
+  
+A softer contemporary view retains Popper's emphasis on risky prediction, testability, and criticism, but rejects naïve one-shot falsification. This softer view is more prevalent. Scientists usually evaluate bodies of theory together with auxiliary assumptions, measurement practices, and competing alternatives.  
+  
+### Kuhn's structure of scientific revolutions  
+Thomas Kuhn argued that science is not best understood as a smooth accumulation of truths. Instead, long periods of normal science occur within a paradigm, interrupted by crises and revolutionary shifts. A paradigm includes exemplary achievements, standards of good explanation, accepted problems, techniques, and sometimes even ways of seeing the world.  
+  
+#### Kuhn's basic cycle  
+
+| Stage                | Main activity                                                   | Treatment of anomalies                          |     |
+| -------------------- | --------------------------------------------------------------- | ----------------------------------------------- | --- |
+| Normal science       | Puzzle-solving within an accepted paradigm                      | Usually set aside or locally repaired           |     |
+| Anomaly accumulation | Increasing mismatch between paradigm and recalcitrant phenomena | Becomes harder to ignore                        |     |
+| Crisis               | Confidence in existing framework weakens                        | Anomalies press for deeper change               |     |
+| Revolution           | A rival paradigm gains support                                  | Old standards and concepts are partly replaced  |     |
+| New normal science   | Puzzle-solving resumes under the new paradigm                   | Some former anomalies disappear; new ones arise |     |
+  
+#### Why Kuhn mattered  
+Kuhn redirected attention from abstract logic to scientific history and scientific communities. He showed that standards of evidence, acceptable questions, and even observational salience are partly paradigm-dependent. This was a major corrective to overly simple pictures of rationality.  
+  
+#### Controversies  
+One reading of Kuhn emphasizes discontinuity and incommensurability, the idea that rival paradigms may not be fully comparable because they organize concepts and standards differently. This radical reading is influential but not dominant.  
+  
+A more moderate reading, which is more prevalent today, says Kuhn revealed genuine historical breaks without denying rational comparison altogether. Kuhn himself later emphasized evaluative values such as accuracy, consistency, scope, simplicity, and fruitfulness. On this reading, revolutions are not irrational leaps; they are comparisons under changing standards.  
+  
+### Lakatos's research programmes  
+Imre Lakatos tried to combine Popper's rational criticism with Kuhn's historical realism. He argued that science should not be judged by isolated theories or single tests, but by research programmes that develop over time.  
+  
+#### Core structure  
+A research programme has a hard core, a set of central commitments not easily abandoned, and a protective belt of auxiliary hypotheses that can be modified. It also has a heuristic, meaning a strategy for further development.  
+  
+#### Progressive and degenerating programmes  
+A programme is progressive when theoretical changes lead to novel predictions and empirical successes. It is degenerating when modifications merely protect the programme from failure after the fact. Lakatos thus allows temporary resistance to apparent falsification while still demanding long-run empirical growth.  
+  
+#### Comparison with Popper and Kuhn  
+
+| Thinker | Unit of appraisal                 | Main standard                               | Main advantage                               | Main limitation                              |     |
+| ------- | --------------------------------- | ------------------------------------------- | -------------------------------------------- | -------------------------------------------- | --- |
+| Popper  | Individual theory or conjecture   | Falsifiability and severe testing           | Strong critical ideal                        | Too simple about actual testing practice     |     |
+| Kuhn    | Paradigm and scientific community | Puzzle-solving under a paradigm             | Historically realistic                       | Can seem vague about rational comparison     |     |
+| Lakatos | Research programme over time      | Progressive versus degenerating development | Balances criticism and historical continuity | Hard to specify exact thresholds of progress |     |
+  
+#### Relative standing  
+Lakatos has less broad public recognition than Popper or Kuhn, but among philosophers he is often treated as a sophisticated middle position. His framework has moderate current authority because it captures how scientists often protect core ideas while still demanding comparative empirical success.  
+  
+### Feyerabend's anarchism  
+Paul Feyerabend criticized the search for universal methodological rules. His famous slogan, "anything goes," was meant as a provocation against methodological rigidity, not as a recommendation for chaos in everyday inquiry. His claim was that strict rules, if consistently enforced, would often have blocked important scientific advances.  
+  
+#### Main thesis  
+Historical episodes suggest that successful scientists sometimes violated accepted methodological standards. New theories may begin with weak evidence, conceptual confusion, or ad hoc elements. On Feyerabend's view, creativity and plurality are therefore essential to progress.  
+  
+#### Two readings  
+A strong reading takes Feyerabend to support epistemic anarchism, according to which there are no binding methodological constraints. This remains a minority view.  
+  
+A milder and more influential reading sees him as a radical pluralist. On this interpretation, his main lesson is that science should not be imprisoned by one official method, one style of explanation, or one intellectual authority. That lesson has had real influence, even though few philosophers accept unrestricted anarchism.  
+  
+#### Assessment  
+Feyerabend is valuable as a critic of dogmatism, scientistic self-certainty, and the myth of a timeless method. His weakness is that, taken too far, his view can blur the distinction between disciplined heterodoxy and mere irresponsibility.  
+  
+### The demarcation problem  
+The demarcation problem asks how to distinguish science from non-science, pseudoscience, metaphysics, or ideology. This matters both intellectually and socially, because scientific authority carries educational, legal, and political weight.  
+  
+#### Why the problem is difficult  
+No single criterion appears to work in every case. Some non-scientific claims are meaningful and rational. Some scientific research programmes are immature or temporarily weakly testable. Some pseudosciences imitate scientific language and selective testing.  
+  
+#### Major demarcation proposals  
+
+| Criterion | What it says | Main strength | Main difficulty |  
+|---|---|---|---|  
+| Verification | Scientific claims must be verifiable by observation. | Emphasizes empirical accountability | Universal laws are not straightforwardly verifiable |  
+| Falsifiability | Scientific claims must be open to refutation. | Strong tool against immunized doctrines | Too crude as a complete criterion |  
+| Puzzle-solving within a tradition | Science works within a mature problem-solving framework. | Captures disciplinary practice | Can exclude novel or fringe but promising work |  
+| Reliability and reproducibility | Science yields stable, publicly checkable results. | Fits modern experimental ideals | Some exploratory science is not yet reproducible |  
+| Multi-criteria cluster view | Science is identified by several converging features. | Flexible and realistic | Less sharp and less rhetorically simple |  
+  
+#### Two dominant viewpoints  
+The sharp-criterion viewpoint seeks a necessary and sufficient rule, such as falsifiability. It has historical authority because it is clear, teachable, and useful in some disputes. Its current prevalence is lower.  
+  
+The multi-criteria viewpoint is more common today. It treats science as marked by a cluster of features: empirical testability, methodological transparency, explanatory integration, predictive success, openness to criticism, and cumulative problem-solving. This approach is less elegant but better suited to real cases.  
+  
+### Theory-ladenness of observation  
+Theory-ladenness is the thesis that observation is influenced by prior concepts, training, background beliefs, and instrumentation. Scientists do not simply read facts directly from nature. What counts as a signal, a relevant variable, or an anomaly often depends on theory.  
+  
+#### Why observation is theory-laden  
+A cloud-chamber track is not self-interpreting. A microscope image requires assumptions about optics, staining, and sample preparation. Even ordinary perception is shaped by learned categories and expectations. Thus, observation is rarely "pure."  
+  
+#### Two versions  
+
+| Version | Core claim | Current sympathy Minimum /% | Current sympathy Maximum /% | Main implication |  
+|---|---|---:|---:|---|  
+| Moderate theory-ladenness | Observation is influenced by theory but still constrained by public methods and shared evidence. | 70 | 90 | Objectivity is difficult but possible |  
+| Strong theory-determination | Observation is so theory-bound that neutral testing is largely impossible. | 10 | 20 | Objectivity becomes deeply unstable |  
+  
+#### Assessment  
+The moderate view is far more prevalent. It explains why scientific training matters and why rival groups can initially "see" the same data differently. Yet it also leaves room for objectivity through calibration, reproducibility, triangulation, intersubjective criticism, and instrumentally mediated measurement. The strong view is less widely accepted because it risks collapsing into epistemic relativism.  
+  
+### Overall synthesis  
+The philosophy of science developed from a search for a single logic of scientific justification into a more complex picture. Inductivism highlighted the role of evidence but was shaken by Hume's problem. Popper emphasized criticism and testability. Kuhn stressed paradigms, history, and scientific communities. Lakatos tried to preserve rational evaluation across time. Feyerabend warned against methodological dogmatism. Current work on demarcation and theory-ladenness usually favors nuanced, multi-criteria, and historically informed accounts.  
+  
+A fair summary is that contemporary philosophy of science is neither strictly Popperian nor purely Kuhnian. The prevailing view is more pluralist: science has no universal algorithm, but it is still distinguished by disciplined interaction between theory, evidence, instruments, models, and communal criticism.  
+  
+### Reliable starting points  
+The homepages below are stable entry points for authoritative reference material. Searching the listed names from those sites is usually safer than relying on memory for every article-specific URL.  
+  
+| Resource | Best use | URL |  
+|---|---|---|  
+| Stanford Encyclopedia of Philosophy | Authoritative overview articles on Popper, Kuhn, induction, and related topics | https://plato.stanford.edu/ |  
+| Internet Encyclopedia of Philosophy | Accessible introductions and teaching-oriented summaries | https://iep.utm.edu/ |  
+| PhilPapers | Bibliography and recent academic literature | https://philpapers.org/ |  
+  
+### Canonical texts  
+
+| Author | Work | Publication year | Lasting importance |  
+|---|---|---:|---|  
+| David Hume | *An Enquiry Concerning Human Understanding* | 1748 | Classical statement of the problem of induction |  
+| Karl Popper | *The Logic of Scientific Discovery* | 1934 | Canonical statement of falsificationism |  
+| Thomas S. Kuhn | *The Structure of Scientific Revolutions* | 1962 | Paradigm theory and scientific revolutions |  
+| Imre Lakatos | *Falsification and the Methodology of Scientific Research Programmes* | 1970 | Middle position between Popper and Kuhn |  
+| Paul Feyerabend | *Against Method* | 1975 | Landmark critique of methodological monism |  
+  
+
+
+### Confidential Links & Embeds: 
+
+#### #is_/same_as :: [[/_Standards/Science/Scientific_Method|Scientific_Method]] 
+
+#### #is_/same_as :: [[/_public/Science/Scientific_Method.public|Scientific_Method.public]] 
+
+#### #is_/same_as :: [[/_internal/Science/Scientific_Method.internal|Scientific_Method.internal]] 
+
+#### #is_/same_as :: [[/_protect/Science/Scientific_Method.protect|Scientific_Method.protect]] 
+
+#### #is_/same_as :: [[/_private/Science/Scientific_Method.private|Scientific_Method.private]] 
+
+#### #is_/same_as :: [[/_personal/Science/Scientific_Method.personal|Scientific_Method.personal]] 
+
+#### #is_/same_as :: [[/_secret/Science/Scientific_Method.secret|Scientific_Method.secret]] 
 

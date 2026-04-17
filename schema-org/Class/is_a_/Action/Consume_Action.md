@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Consume_Action.secret|Consume_Action.secret]]"
     - "[[Consume_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Consume_Action/Drink_Action|Drink_Action]]"
     - "[[Consume_Action/Eat_Action|Eat_Action]]"
     - "[[Consume_Action/Install_Action|Install_Action]]"
@@ -46,7 +47,8 @@ dv_has_:
     - "[[Consume_Action/Use_Action|Use_Action]]"
     - "[[Consume_Action/View_Action|View_Action]]"
     - "[[Consume_Action/Watch_Action|Watch_Action]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Action|Action]]"
   properties:
     - "[[../../../Relation/has/has_action/has_action_accessibility_requirement|has_action_accessibility_requirement]]"

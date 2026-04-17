@@ -36,9 +36,11 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.secret|Medical_Audience.secret]]"
     - "[[Medical_Audience]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Medical_Audience/Patient|Patient]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../Audience, PeopleAudience|Audience, PeopleAudience]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

@@ -34,7 +34,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Flight.secret|Flight.secret]]"
     - "[[Flight]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../Trip|Trip]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

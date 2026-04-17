@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.secret|Communicate_Action.secret]]"
     - "[[Communicate_Action]]"
 dv_has_:
-  child_class:
+  child_:
+    class:
     - "[[Communicate_Action/Ask_Action|Ask_Action]]"
     - "[[Communicate_Action/Check_in_Action|Check_in_Action]]"
     - "[[Communicate_Action/Check_Out_Action|Check_Out_Action]]"
@@ -45,7 +46,8 @@ dv_has_:
     - "[[Communicate_Action/Invite_Action|Invite_Action]]"
     - "[[Communicate_Action/Reply_Action|Reply_Action]]"
     - "[[Communicate_Action/Share_Action|Share_Action]]"
-  parent_class:
+  parent_: 
+    class:
     - "[[../InteractAction|InteractAction]]"
   properties:
     - "[[about|about]]"

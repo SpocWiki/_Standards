@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.secret|Ownership_Info.secret]]"
     - "[[Ownership_Info]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../StructuredValue|StructuredValue]]"
   properties:
     - "[[../../../../Relation/is/is_acquired_from|is_acquired_from]]"

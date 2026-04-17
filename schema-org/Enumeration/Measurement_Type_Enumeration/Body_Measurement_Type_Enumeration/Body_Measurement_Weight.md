@@ -28,7 +28,8 @@ title: is_a_body_measurement_weight Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../BodyMeasurementTypeEnumeration|BodyMeasurementTypeEnumeration]]"
+  parent_: 
+    class: "[[../BodyMeasurementTypeEnumeration|BodyMeasurementTypeEnumeration]]"
   enum_of: "[[../BodyMeasurementTypeEnumeration|BodyMeasurementTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Weight|Body_Measurement_Weight]]"

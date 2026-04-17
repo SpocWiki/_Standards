@@ -28,7 +28,8 @@ title: is_a_tobacco_nicotine_consideration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../AdultOrientedEnumeration|AdultOrientedEnumeration]]"
+  parent_: 
+    class: "[[../AdultOrientedEnumeration|AdultOrientedEnumeration]]"
   enum_of: "[[../AdultOrientedEnumeration|AdultOrientedEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Tobacco_Nicotine_Consideration|Tobacco_Nicotine_Consideration]]"

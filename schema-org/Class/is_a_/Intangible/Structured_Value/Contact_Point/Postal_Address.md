@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.secret|Postal_Address.secret]]"
     - "[[Postal_Address]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../ContactPoint|ContactPoint]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"

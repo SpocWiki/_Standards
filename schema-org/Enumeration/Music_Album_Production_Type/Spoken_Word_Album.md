@@ -27,7 +27,8 @@ tags:
 title: is_a_spoken_word_album Class
 type: Type
 dv_has_:
-  parent_class: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
+  parent_: 
+    class: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
 dv_is_:
   enum_of: "[[../MusicAlbumProductionType|MusicAlbumProductionType]]"
   same_as:

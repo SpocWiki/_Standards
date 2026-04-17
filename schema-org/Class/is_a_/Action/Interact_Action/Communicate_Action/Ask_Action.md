@@ -36,7 +36,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Ask_Action.secret|Ask_Action.secret]]"
     - "[[Ask_Action]]"
 dv_has_:
-  parent_class:
+  parent_: 
+    class:
     - "[[../CommunicateAction|CommunicateAction]]"
   properties:
     - "[[about|about]]"
