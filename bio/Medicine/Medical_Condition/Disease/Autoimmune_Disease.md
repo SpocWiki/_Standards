@@ -181,9 +181,17 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> An **Autoimmune disease** is a condition that results from an anomalous response of the adaptive immune system, wherein it mistakenly targets and attacks healthy, functioning parts of the body as if they were foreign organisms. It is estimated that there are more than 80 recognized autoimmune diseases, with recent scientific evidence suggesting the existence of potentially more than 100 distinct conditions. Nearly any body part can be involved.
+> An **Autoimmune disease** is a condition that results from an 
+> anomalous response of the adaptive immune system, 
+> wherein it mistakenly targets and attacks healthy, functioning parts of the body 
+> as if they were foreign organisms. 
+> 
+> It is estimated that there are more than 80 recognized autoimmune diseases, 
+> with recent scientific evidence suggesting the existence of 
+> potentially more than 100 distinct conditions. Nearly any body part can be involved.
 >
-> Autoimmune diseases are a separate class from autoinflammatory diseases. Both are characterized by an immune system malfunction which may cause similar symptoms, such as rash, swelling, or fatigue, but the cardinal cause or mechanism of the diseases is different. A key difference is a malfunction of the innate immune system in autoinflammatory diseases, whereas in autoimmune diseases there is a malfunction of the adaptive immune system.
+> Autoimmune diseases are a separate class from autoinflammatory diseases. 
+> Both are characterized by an immune system malfunction which may cause similar symptoms, such as rash, swelling, or fatigue, but the cardinal cause or mechanism of the diseases is different. A key difference is a malfunction of the innate immune system in autoinflammatory diseases, whereas in autoimmune diseases there is a malfunction of the adaptive immune system.
 >
 > Symptoms of autoimmune diseases can significantly vary, primarily based on the specific type of the disease and the body part that it affects. Symptoms are often diverse and can be fleeting, fluctuating from mild to severe, and typically comprise low-grade fever, fatigue, and general malaise. However, some autoimmune diseases may present with more specific symptoms such as joint pain, skin rashes (e.g., urticaria), or neurological symptoms.
 >
