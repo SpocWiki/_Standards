@@ -1,2 +1,2 @@
-{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"UMI","country":"United States Minor Outlying Islands","fill":"#F0F","id":"5172","name":"Howland Island"},
-"geometry":{"type": "Polygon","coordinates": [[[-176.63618,0.79019,0.0],[-176.6361,0.80341,0.0],[-176.63903,0.80695,0.0],[-176.63964,0.80496,0.0],[-176.64004,0.80353,0.0],[-176.64049,0.80199,0.0],[-176.63618,0.79019,0.0]]]}}
+{"type": "Feature","id": "5172","bbox": [-176.64049,0.79019,-176.6361,0.80695],"geometry": {"type": "Polygon","coordinates": [[[-176.63618,0.79019,0.0],[-176.6361,0.80341,0.0],[-176.63903,0.80695,0.0],[-176.63964,0.80496,0.0],[-176.64004,0.80353,0.0],[-176.64049,0.80199,0.0],[-176.63618,0.79019,0.0]]]}
+,"properties": {"ISO3166-1-Alpha-3": "UMI","country": "United States Minor Outlying Islands","fill": "#F0F","name": "Howland Island","area_km2": 0.5512037,"hist_schema_id": "Elevation0-9000","hist_area_km2": {"0": 0.5512037}}}

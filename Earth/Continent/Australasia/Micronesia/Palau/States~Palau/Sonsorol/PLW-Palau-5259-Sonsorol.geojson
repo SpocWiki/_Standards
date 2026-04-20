@@ -1,2 +1,2 @@
-{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"PLW","country":"Palau","fill":"#F0F","id":"5259","name":"Sonsorol"},
-"geometry":{"type": "Polygon","coordinates": [[[132.22039,5.29222,0.0],[132.22674,5.30435,0.0],[132.22023,5.31025,0.0],[132.21388,5.30711,0.0],[132.22039,5.29222,0.0]]]}}
+{"type": "Feature","id": "5259","bbox": [132.21388,5.29222,132.22674,5.31025],"geometry": {"type": "Polygon","coordinates": [[[132.22039,5.29222,0.0],[132.22674,5.30435,0.0],[132.22023,5.31025,0.0],[132.21388,5.30711,0.0],[132.22039,5.29222,0.0]]]}
+,"properties": {"ISO3166-1-Alpha-3": "PLW","country": "Palau","fill": "#F0F","name": "Sonsorol","area_km2": 1.43558,"hist_schema_id": "Elevation0-9000","hist_area_km2": {"0": 1.43558}}}

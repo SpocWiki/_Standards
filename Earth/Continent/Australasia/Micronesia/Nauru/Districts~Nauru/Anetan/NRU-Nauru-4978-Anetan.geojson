@@ -1,2 +1,2 @@
-{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"NRU","country":"Nauru","fill":"#FF0","id":"4978","name":"Anetan"},
-"geometry":{"type": "Polygon","coordinates": [[[166.93899,-0.50418,5.1892],[166.93881,-0.49041,0.0],[166.9312,-0.49334,0.0],[166.93899,-0.50418,5.1892]]]}}
+{"type": "Feature","id": "4978","bbox": [166.9312,-0.50418,166.93899,-0.49041],"geometry": {"type": "Polygon","coordinates": [[[166.93899,-0.50418,5.1892],[166.93881,-0.49041,0.0],[166.9312,-0.49334,0.0],[166.93899,-0.50418,5.1892]]]}
+,"properties": {"ISO3166-1-Alpha-3": "NRU","country": "Nauru","fill": "#FF0","name": "Anetan","area_km2": 0.7632508,"hist_schema_id": "Elevation0-9000","hist_area_km2": {"0": 0.7632508}}}
