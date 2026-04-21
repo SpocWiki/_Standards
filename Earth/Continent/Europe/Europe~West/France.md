@@ -1304,31 +1304,7 @@ darkMode: false
 ```
 
 
-## International Names
-
-name = `=this.dv_has_name`
-has_name_en = `=this.dv_has_name_en`
-has_name_es = `=this.dv_has_name_es`
-has_name_fr = `=this.dv_has_name_fr`
-has_name_cn = `=this.dv_has_name_cn`
-has_name_ar = `=this.dv_has_name_ar`
-has_name_ru = `=this.dv_has_name_ru`
-has_name_de = `=this.dv_has_name_de`
-
-ISO2 = `=this.dv_ISO2`
-ISO3 = `=this.dv_ISO3`
-
-is_a = `=this.dv_is_a_`
-
-> [!info] This Article is only a Stub. 
-For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-France)
-into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[France/ReadMe|ReadMe]] 
-
-has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
-
-> [!warning] This can considerably increase the total size and depth of your wiki.
-
-## Area by Elevation 
+### Area by Elevation 
 
 
 ```dataviewjs
@@ -1355,6 +1331,31 @@ value: dv.current().hist_area_km2
 });
 ```
 
+
+
+## International Names
+
+name = `=this.dv_has_name`
+has_name_en = `=this.dv_has_name_en`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+has_name_de = `=this.dv_has_name_de`
+
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
+
+is_a = `=this.dv_is_a_`
+
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-France)
+into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[France/ReadMe|ReadMe]] 
+
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
+
+> [!warning] This can considerably increase the total size and depth of your wiki.
 
 ## #has_/parts 
 
