@@ -610,6 +610,7 @@ id: San Marino
 zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
+defaultZoom: 6
 geojsonFolder: ./San_Marino/
 markerFolder: ./San_Marino//
 coordinates: [[San_Marino]] 

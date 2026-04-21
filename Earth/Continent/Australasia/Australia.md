@@ -1587,6 +1587,9 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Australia/ReadMe|ReadMe]] 
 
+## #has_/properties 
+
+
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
 ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`

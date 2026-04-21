@@ -1035,10 +1035,10 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 ```leaflet
 id: Macedonia, FYR
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
-defaultZoom: 2 
+defaultZoom: 7 
 coordinates: [[Macedonia~North]] 
 markerFile: [[Macedonia~North]] 
 geojsonFolder: ./Macedonia~North//
