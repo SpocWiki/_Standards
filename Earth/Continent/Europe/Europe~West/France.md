@@ -1310,11 +1310,9 @@ darkMode: false
 ```dataviewjs
 await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
 , scale: "lin"
-, showHeader: true
+, minRow: 0
+, maxRow: 20
 , widthFrom : "all"
-, headerFormat: "scale={scale} min={min} max={max} \n\
-valueMin={valueMin} valueMax={valueMax} \n\
-rangeMin={rangeMin} rangeMax={rangeMax} rows={rows}"
 });
 ```
 
@@ -1326,10 +1324,7 @@ value: dv.current().hist_area_km2
 , scale: "lin", width: 60
 , minRow: 0
 , maxRow: 20
-, showHeader: true
 , widthFrom : "all"
-, rowFormat: "{label} {value} │{bar}│"
-, headerFormat: "scale={scale} min={min} max={max} width={width} rows={rows}"
 });
 ```
 
