@@ -585,11 +585,11 @@ type_of_orbit: "[[_Standards/WikiData/WD~heliocentric_orbit,737809|WD~heliocentr
 UMLS_CUI: C0242744
 Unicode_character:
   - ♁
-  - 🜨
-  - 🌎
-  - 🌍
-  - 🌏
-  - 🗺
+- "\U0001F728"
+- "\U0001F30E"
+- "\U0001F30D"
+- "\U0001F30F"
+- "\U0001F5FA"
 U_S_National_Archives_Identifier:
   - 10046628
   - 10637787
@@ -1010,7 +1010,6 @@ tags:
   - excalidraw
 type: private_note
 ---
-
 # [[Earth]] 🌎 ♁ 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Earth,2|WD~Earth,2]] 

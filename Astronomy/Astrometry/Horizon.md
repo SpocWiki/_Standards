@@ -257,7 +257,6 @@ dv_has_:
     yue: 地平線
     zh: 地平線
 ---
-
 # [[Horizon]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Horizon,43261|WD~Horizon,43261]] 

@@ -514,9 +514,7 @@ dv_has_:
     zh_tw: 天文學
     zu: izinkanyezi
 ---
-
 # [[Astronomy]] 
-
 
 #is_/same_as :: [[WikiData/WD~Astronomy,333|WD~Astronomy,333]]
 

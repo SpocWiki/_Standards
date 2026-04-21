@@ -331,7 +331,6 @@ dv_has_:
     zh_sg: 外太空
     zh_tw: 外太空
 ---
-
 # [[Outer_Space]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Outer_space,4169|WD~Outer_space,4169]] 

@@ -653,7 +653,6 @@ dv_has_:
     zh_tw: 語言
     zu: izilimi
 ---
-
 # [[Language]] 
 
 #is_/different_from :: [[ComputerLanguage]] 

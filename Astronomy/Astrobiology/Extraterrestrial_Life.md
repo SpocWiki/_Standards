@@ -235,7 +235,6 @@ dv_has_:
     zh_sg: 外星生命
     zh_tw: 外星生命
 ---
-
 # [[Extraterrestrial_Life]] 
 
 #is_/same_as :: [[../../WikiData/WD~Extraterrestrial_life,181508|WD~Extraterrestrial_life,181508]] 

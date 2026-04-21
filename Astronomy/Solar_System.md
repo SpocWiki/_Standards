@@ -553,7 +553,6 @@ dv_has_:
     zh_tw: 太陽系
     zu: Uhlelo Lemihlaba YeLanga
 ---
-
 # [[Solar_System]]
 
 #is_/same_as :: [[../WikiData/WD~Solar_System,544|WD~Solar_System,544]] 

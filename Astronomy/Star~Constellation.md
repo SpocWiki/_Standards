@@ -356,7 +356,6 @@ dv_has_:
     zh_hant: 星座
     zu: IsiShomo
 ---
-
 # [[Star~Constellation]] 
 
 #is_/same_as :: [[../WikiData/WD~Constellation,8928|WD~Constellation,8928]] 

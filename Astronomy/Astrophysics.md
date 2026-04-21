@@ -258,7 +258,6 @@ dv_has_:
     zh_hant: 天體物理學
     zh_hk: 天體物理學
 ---
-
 # [[Astrophysics]] 
 
 #is_/same_as :: [[WikiData/WD~Astrophysics,37547|WD~Astrophysics,37547]] 

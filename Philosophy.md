@@ -527,7 +527,6 @@ dv_has_:
     zh_tw: 哲學
     zu: ifilosofi
 ---
-
 # [[Philosophy]] 
 
 #is_/same_as :: [[WikiData/WD~Philosophy,5891|WD~Philosophy,5891]] 

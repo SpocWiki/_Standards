@@ -485,7 +485,6 @@ dv_has_:
     zh_tw: 行星
     zu: iplanethi
 ---
-
 # [[Planet]] 🪐 
 
 ## #has_/text_of_/abstract 
