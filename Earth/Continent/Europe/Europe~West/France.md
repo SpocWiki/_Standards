@@ -1308,11 +1308,13 @@ darkMode: false
 
 
 ```dataviewjs
-await dv.view("_orga/JS/SparkLine", { value: dv.current().hist_area_km2
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
 , scale: "lin"
 , showHeader: true
 , widthFrom : "all"
-, headerFormat: "scale={scale} min={min} max={max} width={width} rows={rows}"
+, headerFormat: "scale={scale} min={min} max={max} \n\
+valueMin={valueMin} valueMax={valueMax} \n\
+rangeMin={rangeMin} rangeMax={rangeMax} rows={rows}"
 });
 ```
 
