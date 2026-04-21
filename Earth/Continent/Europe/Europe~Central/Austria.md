@@ -997,6 +997,7 @@ geoshape: http://commons.wikimedia.org/data/main/Data:Austria.map
 U_S_National_Archives_Identifier: 10035760
 CIVICUS_Monitor_country_entry: austria
 GitHub_topic: austria
+
 ---
 
 # [[Austria]] 🇦🇹 
@@ -1091,7 +1092,7 @@ bounds:
 width: 100%
 minZoom: 2
 maxZoom: 8
-defaultZoom: 5
+defaultZoom: 6
 geojsonFolder: ./Austria//
 markerFolder: ./Austria/
 coordinates: [[Austria]] 
@@ -1100,6 +1101,33 @@ unit: px
 scale: 1
 darkMode: false
 ```
+
+
+
+### Area by Elevation 
+
+```dataviewjs
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
+, scale: "lin"
+, minRow: 0
+, maxRow: 30
+, widthFrom : "all"
+});
+```
+
+
+
+```dataviewjs
+dv.view("_orga/JS/Histogram", {
+value: dv.current().hist_area_km2
+, scale: "lin", width: 60
+, minRow: 0
+, maxRow: 30
+, widthFrom : "all"
+});
+```
+
+
 
 
 ## #has_/text_of_/abstract  
