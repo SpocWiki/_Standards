@@ -158,7 +158,7 @@ dv_has_:
 | Operators  | =                                                                | >                                                  | +,-                                            | *,/                                         |
 | Centrality | [[../../../Mathematics/Statistics/Probability/Mode\|Mode]]                   | [[../../../Mathematics/Statistics/Probability/Median\|Median]] | [[../../../Mathematics/Statistics/Probability/Mean\|Mean]] | [[Geometric_Mean]]                          |
 | Dispersion | -                                                                | [[Percentile]]                                     | [[Deviation]],[[Range]]                        | [[Coefficient_of_Variation]]                |
-| Examples   | [[../../../bio/Reproduction/Sexual_Reproduction/Gender\|Gender]] | [[Rank]]                                           | °C,                                            | physical                                    |
+| Examples   | [[../../../Society/Social_Issues/Discrimination/Gender\|Gender]] | [[Rank]]                                           | °C,                                            | physical                                    |
 |            |                                                                  |                                                    | only Differences                               | true Origin                                 |
 
 ### nominal 

@@ -338,6 +338,8 @@ dv_has_:
 #is_/different_from :: [[Sex/Biological_Sex|Biological_Sex]] 
 #is_/same_as :: [[../../../WikiData/WD~gender,48277|WD~gender,48277]]
 
+#see :: [[Heinze-Frauen]] 
+
 ## #has_/text_of_/abstract 
 
 > **Gender** is the range of social, psychological, cultural, and behavioral aspects 
@@ -385,11 +387,11 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Gender|Gender]] 
+### #is_/same_as :: [[Gender|Gender]] 
 
 ### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Gender.public|Gender.public]] 
 
-### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Gender.internal|Gender.internal]] 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Discrimination/Gender.internal|Gender.internal]] 
 
 ### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Gender.protect|Gender.protect]] 
 

@@ -104,6 +104,7 @@ dv_has_:
 > On land, when used to make electricity 
 > the most common type is called a combined cycle gas turbine (CCGT) plant, 
 > which is a kind of gas-fired power plant. 
+> 
 > The same principle is also used for marine propulsion, 
 > where it is called a combined gas and steam (COGAS) plant. 
 > Combining two or more thermodynamic cycles improves overall efficiency, 
@@ -111,12 +112,12 @@ dv_has_:
 >
 > The principle is that after completing its cycle in the first (usually gas turbine) engine, 
 > the working fluid (the exhaust) is still hot enough 
-> that a second **subsequent heat engine can extract energy from the heat in the exhaust**. 
+> that a **second subsequent heat engine can extract energy from the heat in the exhaust**. 
 > Usually the heat passes through a heat exchanger 
 > so that the two engines can use different working fluids.
 >
 > By generating power from multiple streams of work, 
-> the overall efficiency can be increased by 50–60%. 
+> **the overall efficiency can be increased by 50–60%**. 
 > That is, from an overall efficiency of say 43% for a simple cycle with the turbine alone, 
 > to as much as 64% net with the full combined cycle running.
 >

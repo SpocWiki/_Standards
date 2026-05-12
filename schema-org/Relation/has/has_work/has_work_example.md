@@ -69,7 +69,7 @@ but also used to express the [[../../../Class/has_parent_class|has_parent_class]
 
 Enumerating Examples is rarely exact or exhaustive, but very helpful for Humans to illustrate a Concept with already known Instances. 
 
-Therefore the partially inverse Relation is included in the non-standard more generic [[../has_example|has_example]] Relation. 
+Therefore the partially inverse Relation is included in the non-standard more generic [[../has_examples|has_examples]] Relation. 
 
 Use it like this: 
 - #has_/work_example : : CreativeWork  

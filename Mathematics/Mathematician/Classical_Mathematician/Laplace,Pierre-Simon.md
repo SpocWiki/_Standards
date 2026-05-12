@@ -306,6 +306,7 @@ dv_has_:
 # [[Laplace,Pierre-Simon]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Pierre-Simon_Laplace,44481|WD~Pierre-Simon_Laplace,44481]] 
+#has_/created :: [[../../Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform|Laplace_Transform]] 
 
 ## #has_/text_of_/abstract 
 

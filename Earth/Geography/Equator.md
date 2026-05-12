@@ -330,6 +330,8 @@ dv_has_:
 # [[Equator]] 
 
 #is_/same_as :: [[../../WikiData/WD~Equator,23538|WD~Equator,23538]] 
+#has_/complement :: [[Cartography/Meridian|Meridian]] 
+#is_/similar_to :: [[Cartography/Circle_of_Latitude]] 
 
 ## #has_/text_of_/abstract 
 

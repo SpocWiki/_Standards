@@ -1,112 +1,112 @@
 ---
 aliases:
-- An Ciorcal Antartach
-- Antarctic Circle
-- Antarctic_Circle
-- antarkta cirklo
-- Antarktiese Sirkel
-- Antarktički krug
-- Antarktički polarni krug
-- Cearcall na h-Antartaig
-- Ceke polaire antartike
-- Cerc polar antarctic
-- Cercle Antarctique
-- Cercle antartic
-- cercle polar antàrtic
-- Circolo polare antartico
-- Circulus Antarcticus
-- círculo polar antártico
-- Círculu polar antárticu
-- Cənub Qütb dairəsi
-- Den antarktiske polarsirkelen
-- Dienvidu polārais loks
-- déli sarkkör
-- eteläinen napapiiri
-- Faribolana antarktika
-- Garisan Antartik
-- Güney Kutup Dairesi
-- jižní polární kruh
-- južni tečajnik
-- Južný polárny kruh
-- Kiarkyl yn Antarctagh
-- koło podbiegunowe południowe
-- Lingkar Antarktik
-- Lingkehan Antartika
-- lõunapolaarjoon
-- Mzingo antaktiki
-- máddáápiälááš näpikiärdu
-- Palibot Antartiko
-- Pietų poliaratis
-- Sirkulo ti Antartiko
-- Sirkulong Antartiko
-- södra polcirkeln
-- sørlige polarsirkel
-- Súdpoalsirkel
-- südlicher Polarkreis
-- Vòng Nam Cực
-- Zirkulu Polar Antartikoa
-- Zuidpoolcirkel
-- Ανταρκτικός κύκλος
-- Јужен Поларник
-- Антарктички поларни круг
-- көньяҡ поляр түңәрәк
-- Лымшор полярной котрет
-- Південне полярне коло
-- Паўднёвы палярны круг
-- Соҕуруу полюс эргимтэтэ
-- Южен полярен кръг
-- южный полярный круг
-- Өмнөд туйлын цагираг
-- Հարավային բևեռային շրջագիծ
-- החוג האנטארקטי
-- الدائرة القطبية الجنوبية
-- بازنەی جەمسەری باشوور
-- دائرہ قطب جنوبی
-- مدار جنوبگان
-- अंटार्कटिक रेखा
-- अंटार्क्टिक वृत्त
-- কুমেরু বৃত্ত
-- அந்தாட்டிக்க வட்டம்
-- అంటార్కిటిక్ వలయం
-- അന്റാർട്ടിക് വൃത്തം
-- วงกลมแอนตาร์กติก
-- အန္တာတိတ်စက်ဝိုင်း
-- სამხრეთ პოლარული წრე
-- 南极圈
-- 南極圈
-- 南極圏
-- 남극권
+  - An Ciorcal Antartach
+  - Antarctic Circle
+  - Antarctic_Circle
+  - antarkta cirklo
+  - Antarktiese Sirkel
+  - Antarktički krug
+  - Antarktički polarni krug
+  - Cearcall na h-Antartaig
+  - Ceke polaire antartike
+  - Cerc polar antarctic
+  - Cercle Antarctique
+  - Cercle antartic
+  - cercle polar antàrtic
+  - Circolo polare antartico
+  - Circulus Antarcticus
+  - círculo polar antártico
+  - Círculu polar antárticu
+  - Cənub Qütb dairəsi
+  - Den antarktiske polarsirkelen
+  - Dienvidu polārais loks
+  - déli sarkkör
+  - eteläinen napapiiri
+  - Faribolana antarktika
+  - Garisan Antartik
+  - Güney Kutup Dairesi
+  - jižní polární kruh
+  - južni tečajnik
+  - Južný polárny kruh
+  - Kiarkyl yn Antarctagh
+  - koło podbiegunowe południowe
+  - Lingkar Antarktik
+  - Lingkehan Antartika
+  - lõunapolaarjoon
+  - Mzingo antaktiki
+  - máddáápiälááš näpikiärdu
+  - Palibot Antartiko
+  - Pietų poliaratis
+  - Sirkulo ti Antartiko
+  - Sirkulong Antartiko
+  - södra polcirkeln
+  - sørlige polarsirkel
+  - Súdpoalsirkel
+  - südlicher Polarkreis
+  - Vòng Nam Cực
+  - Zirkulu Polar Antartikoa
+  - Zuidpoolcirkel
+  - Ανταρκτικός κύκλος
+  - Јужен Поларник
+  - Антарктички поларни круг
+  - көньяҡ поляр түңәрәк
+  - Лымшор полярной котрет
+  - Південне полярне коло
+  - Паўднёвы палярны круг
+  - Соҕуруу полюс эргимтэтэ
+  - Южен полярен кръг
+  - южный полярный круг
+  - Өмнөд туйлын цагираг
+  - Հարավային բևեռային շրջագիծ
+  - החוג האנטארקטי
+  - الدائرة القطبية الجنوبية
+  - بازنەی جەمسەری باشوور
+  - دائرہ قطب جنوبی
+  - مدار جنوبگان
+  - अंटार्कटिक रेखा
+  - अंटार्क्टिक वृत्त
+  - কুমেরু বৃত্ত
+  - அந்தாட்டிக்க வட்டம்
+  - అంటార్కిటిక్ వలయం
+  - അന്റാർട്ടിക് വൃത്തം
+  - วงกลมแอนตาร์กติก
+  - အန္တာတိတ်စက်ဝိုင်း
+  - სამხრეთ პოლარული წრე
+  - 南极圈
+  - 南極圈
+  - 南極圏
+  - 남극권
 has_id_wikidata: Q182657
 instance_of:
-- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
-- '[[_Standards/WikiData/WD~polar_circle,202490|WD~polar_circle,202490]]'
-opposite_of: '[[_Standards/WikiData/WD~Arctic_Circle,176609|WD~Arctic_Circle,176609]]'
+  - "[[_Standards/WikiData/WD~region,82794|WD~region,82794]]"
+  - "[[_Standards/WikiData/WD~polar_circle,202490|WD~polar_circle,202490]]"
+opposite_of: "[[_Standards/WikiData/WD~Arctic_Circle,176609|WD~Arctic_Circle,176609]]"
 described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062|WD~Antarctic_Treaty_area,21590062]]'
-continent: '[[_Standards/WikiData/WD~Antarctica,51|WD~Antarctica,51]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062|WD~Antarctic_Treaty_area,21590062]]"
+continent: "[[_Standards/WikiData/WD~Antarctica,51|WD~Antarctica,51]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Antarctic%20circle.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Antarctic%20Circle%20Icberg.JPG
 Commons_category: Antarctic Circle
 coordinate_location: Point(0.0 -66.566666666)
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Antarctic_Circle,182657|WD~Antarctic_Circle,182657]]'
-  - '[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle|Antarctic_Circle]]'
-  - '[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.public|Antarctic_Circle.public]]'
-  - '[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.internal|Antarctic_Circle.internal]]'
-  - '[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.protect|Antarctic_Circle.protect]]'
-  - '[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.private|Antarctic_Circle.private]]'
-  - '[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.personal|Antarctic_Circle.personal]]'
-  - '[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.secret|Antarctic_Circle.secret]]'
+    - "[[../../../../WikiData/WD~Antarctic_Circle,182657|WD~Antarctic_Circle,182657]]"
+    - "[[Antarctic_Circle|Antarctic_Circle]]"
+    - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.public|Antarctic_Circle.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.internal|Antarctic_Circle.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.protect|Antarctic_Circle.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.private|Antarctic_Circle.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.personal|Antarctic_Circle.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.secret|Antarctic_Circle.secret]]"
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Antarctic_Circle,182657|WD~Antarctic_Circle,182657]]'
-- '[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle|Antarctic_Circle]]'
-- '[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.public|Antarctic_Circle.public]]'
-- '[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.internal|Antarctic_Circle.internal]]'
-- '[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.protect|Antarctic_Circle.protect]]'
-- '[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.private|Antarctic_Circle.private]]'
-- '[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.personal|Antarctic_Circle.personal]]'
-- '[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.secret|Antarctic_Circle.secret]]'
+  - "[[../../../../WikiData/WD~Antarctic_Circle,182657|WD~Antarctic_Circle,182657]]"
+  - "[[Antarctic_Circle|Antarctic_Circle]]"
+  - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.public|Antarctic_Circle.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.internal|Antarctic_Circle.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.protect|Antarctic_Circle.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.private|Antarctic_Circle.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.personal|Antarctic_Circle.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.secret|Antarctic_Circle.secret]]"
 dv_has_:
   name_:
     af: Antarktiese Sirkel
@@ -229,7 +229,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle|Antarctic_Circle]] 
+### #is_/same_as :: [[Antarctic_Circle|Antarctic_Circle]] 
 
 ### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.public|Antarctic_Circle.public]] 
 

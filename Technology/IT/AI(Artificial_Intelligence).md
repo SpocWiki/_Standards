@@ -1,176 +1,176 @@
 ---
 aliases:
-- Aatifishal intelijens
-- adimen artifizial
-- airtifeecial intelligence
-- Akili bandia
-- artefarita intelekto
-- Artifical inteligenteso
-- Artificial Intelligence
-- Artificial_Intelligence
-- artificiell intelligens
-- Artifitial inteligenci
-- Artipisyal na intelihensya
-- artipisyal na katalinuhan
-- Artipisyal nga intelihensya
-- Ava japopyre arandu
-- Bohlale bja Maitirelo
-- Calakan bikinan
-- dahkojiermme
-- dahkujierbmi
-- deallusrwydd artiffisial
-- dirbtinis intelektas
-- Dėrbtėns intelekts
-- Enteligencia artificial
-- Entèlijans atifisyèl
-- Entélijans artifisyèl
-- Far-inçhynaght
-- gervigreind
-- Haranita-tsaina voatrolombelona
-- inteleto artifis
-- Intelichencia artificial
-- inteligencia artificial
-- Inteligensa artificial
-- Inteligensa Artifissial
-- Inteligentie artificial
-- inteligență artificială
-- Inteligjenca artificiale
-- Inteligjence artificiâl
-- inteligência artificial
-- Intelihensiya artipisyal
-- intelixencia artificial
-- Intellegentia artificialis
-- Intelligence artificiel
-- intelligence artificielle
-- intelligensa artifiçiale
-- Intelligentia artificial
-- Intelligenza artificiala
-- intelligenza artificiale
-- Intelligéncia artificiala
-- intelliġenza artifiċjali
-- intel·ligència artificial
-- intleacht shaorga
-- Intérligince artificielle
-- jasalma intellekt
-- jîn-kang tì-huī
-- jîriya destkarî
-- jîriya çêkirî
-- Kabaalan Tinanda
-- Kacerdhasan gawéyan
-- Kapchisqa yachay
-- Kategoryjo:Sztuczno inteligencyjo
-- kecerdasan buatan
-- keunstklookte
-- Kinschtlicha Intelligenz
-- Kirkirar Basira (Artificial Intelligence)
-- Konstelk inteligens
-- kunsmatige intelligensie
-- kunstig intelligens
-- kunstmatige intelligentie
-- Kunstmõistus
-- kuånsttjeäʹrmm
-- kënschtlech Intelligenz
-- Kónsmaesige intelligentie
-- künstliche Intelligenz
-- Künstlike Intelligenz
-- mesterséges intelligencia
-- mākslīgais intelekts
-- naouegezh artifisiel
-- ntilliggenza artificiali
-- Nunyɛn gbɛtɔ ɖɔhun tɔn
-- parbo a saririt
-- Pemintar tiru
-- rutni menli
-- Suniy zekâ
-- sunʼiy intellekt
-- sztuczna inteligencja
-- Sûtisté éndjolike
-- süni intellekt
-- tahojiermi
-- tehisintellekt
-- tekoäly
-- trí tuệ nhân tạo
-- Tuigse inntealta
-- UHlakahlisombulu
-- umelá inteligencia
-- umetna inteligenca
-- umjetna inteligencija
-- umělá inteligence
-- Viro vıraştıkên
-- vitlíki
-- vještačka inteligencija
-- yapay zekâ
-- Ýasama akyl
-- Ũũgĩ wa Kanyonde
-- τεχνητή νοημοσύνη
-- вјештачка интелигенција
-- вештачка интелигенција
-- Жасалма интеллект
-- Жасанды интеллект
-- Изкуствен интелект
-- искусственный интеллект
-- Оҥоһуу интеллект
-- Умела інтеліґенція
-- Хиймэл оюун ухаан
-- Хэмэл оюун
-- штучний інтелект
-- штучны інтэлект
-- Юрилле интеллект
-- ясалма интеллект
-- яһалма интеллект
-- ҳӯши маснуъӣ
-- Ҳӯши маснӯӣ
-- ӧнерлыко визьбур
-- Արհեստական Բանականութիւն
-- արհեստական բանականություն
-- בינה מלאכותית
-- קינסטלעכע אינטעליגענץ
-- بنائی گئی ذہانت
-- بَنٲومٕژ ذَہٲنِیَتھ
-- دكا صطيناعي
-- ذكاء اصطناعي
-- ذكاء صناعى
-- سۈنئى ئىدىراك
-- مصنوعي ځيرکتیا
-- مصنوعی ذکا
-- مصنوعی ذہانت
-- هوش مصنوعی
-- ژیریی دەستکرد
-- کچردسن بواتن
-- ھٿرادو ذھانت
-- आर्टिफिशियल इंटेलिजेंस
-- आर्टिफिसियल इन्टेलिजेन्स
-- कृत्रिम बुद्धि
-- कृत्रिम बुद्धिमत्ता
-- कृत्रिम बुध्दी
-- कृत्रिम बौद्धिकता
-- कृत्रिमबुद्धिमत्ता
-- কৃত্রিম বুদ্ধিমত্তা
-- কৃত্ৰিম বুদ্ধিমত্তা
-- ਬਣਾਉਟੀ ਮਸ਼ੀਨੀ ਬੁੱਧੀ
-- କୃତ୍ରିମ ବୁଦ୍ଧିମତ୍ତା
-- செயற்கை அறிவுத்திறன்
-- కృత్రిమ మేధస్సు
-- ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ
-- കൃത്രിമബുദ്ധി
-- කෘතීම බුද්ධිය
-- ปัญญาประดิษฐ์
-- ປັນຍາປະດິດ
-- མི་བཟོས་རིག་ནུས།
-- ဉာဏ်တု
-- ဉာဏ်ႏတုꩻ
-- ხელოვნური ინტელექტი
-- ხელუანური ინტელექტი
-- ሠው ሰራሽ ዕውቀት
-- បញ្ញាសិប្បនិម្មិត
-- ᱵᱮᱱᱟᱣᱟᱜ ᱜᱮᱭᱟᱱ
-- Ọgụgụ isi
-- ⵜⵉⵖⵉⵙⵜ ⵜⴰⵙⵎⴳⵓⵔⵜ
-- 人工智慧
-- 人工智能
-- 人工知能
-- ꠀꠉ꠆ꠟꠣ ꠀꠇꠟꠖꠣꠞ
-- 인공지능
+  - Aatifishal intelijens
+  - adimen artifizial
+  - airtifeecial intelligence
+  - Akili bandia
+  - artefarita intelekto
+  - Artifical inteligenteso
+  - Artificial Intelligence
+  - Artificial_Intelligence
+  - artificiell intelligens
+  - Artifitial inteligenci
+  - Artipisyal na intelihensya
+  - artipisyal na katalinuhan
+  - Artipisyal nga intelihensya
+  - Ava japopyre arandu
+  - Bohlale bja Maitirelo
+  - Calakan bikinan
+  - dahkojiermme
+  - dahkujierbmi
+  - deallusrwydd artiffisial
+  - dirbtinis intelektas
+  - Dėrbtėns intelekts
+  - Enteligencia artificial
+  - Entèlijans atifisyèl
+  - Entélijans artifisyèl
+  - Far-inçhynaght
+  - gervigreind
+  - Haranita-tsaina voatrolombelona
+  - inteleto artifis
+  - Intelichencia artificial
+  - inteligencia artificial
+  - Inteligensa artificial
+  - Inteligensa Artifissial
+  - Inteligentie artificial
+  - inteligență artificială
+  - Inteligjenca artificiale
+  - Inteligjence artificiâl
+  - inteligência artificial
+  - Intelihensiya artipisyal
+  - intelixencia artificial
+  - Intellegentia artificialis
+  - Intelligence artificiel
+  - intelligence artificielle
+  - intelligensa artifiçiale
+  - Intelligentia artificial
+  - Intelligenza artificiala
+  - intelligenza artificiale
+  - Intelligéncia artificiala
+  - intelliġenza artifiċjali
+  - intel·ligència artificial
+  - intleacht shaorga
+  - Intérligince artificielle
+  - jasalma intellekt
+  - jîn-kang tì-huī
+  - jîriya destkarî
+  - jîriya çêkirî
+  - Kabaalan Tinanda
+  - Kacerdhasan gawéyan
+  - Kapchisqa yachay
+  - Kategoryjo:Sztuczno inteligencyjo
+  - kecerdasan buatan
+  - keunstklookte
+  - Kinschtlicha Intelligenz
+  - Kirkirar Basira (Artificial Intelligence)
+  - Konstelk inteligens
+  - kunsmatige intelligensie
+  - kunstig intelligens
+  - kunstmatige intelligentie
+  - Kunstmõistus
+  - kuånsttjeäʹrmm
+  - kënschtlech Intelligenz
+  - Kónsmaesige intelligentie
+  - künstliche Intelligenz
+  - Künstlike Intelligenz
+  - mesterséges intelligencia
+  - mākslīgais intelekts
+  - naouegezh artifisiel
+  - ntilliggenza artificiali
+  - Nunyɛn gbɛtɔ ɖɔhun tɔn
+  - parbo a saririt
+  - Pemintar tiru
+  - rutni menli
+  - Suniy zekâ
+  - sunʼiy intellekt
+  - sztuczna inteligencja
+  - Sûtisté éndjolike
+  - süni intellekt
+  - tahojiermi
+  - tehisintellekt
+  - tekoäly
+  - trí tuệ nhân tạo
+  - Tuigse inntealta
+  - UHlakahlisombulu
+  - umelá inteligencia
+  - umetna inteligenca
+  - umjetna inteligencija
+  - umělá inteligence
+  - Viro vıraştıkên
+  - vitlíki
+  - vještačka inteligencija
+  - yapay zekâ
+  - Ýasama akyl
+  - Ũũgĩ wa Kanyonde
+  - τεχνητή νοημοσύνη
+  - вјештачка интелигенција
+  - вештачка интелигенција
+  - Жасалма интеллект
+  - Жасанды интеллект
+  - Изкуствен интелект
+  - искусственный интеллект
+  - Оҥоһуу интеллект
+  - Умела інтеліґенція
+  - Хиймэл оюун ухаан
+  - Хэмэл оюун
+  - штучний інтелект
+  - штучны інтэлект
+  - Юрилле интеллект
+  - ясалма интеллект
+  - яһалма интеллект
+  - ҳӯши маснуъӣ
+  - Ҳӯши маснӯӣ
+  - ӧнерлыко визьбур
+  - Արհեստական Բանականութիւն
+  - արհեստական բանականություն
+  - בינה מלאכותית
+  - קינסטלעכע אינטעליגענץ
+  - بنائی گئی ذہانت
+  - بَنٲومٕژ ذَہٲنِیَتھ
+  - دكا صطيناعي
+  - ذكاء اصطناعي
+  - ذكاء صناعى
+  - سۈنئى ئىدىراك
+  - مصنوعي ځيرکتیا
+  - مصنوعی ذکا
+  - مصنوعی ذہانت
+  - هوش مصنوعی
+  - ژیریی دەستکرد
+  - کچردسن بواتن
+  - ھٿرادو ذھانت
+  - आर्टिफिशियल इंटेलिजेंस
+  - आर्टिफिसियल इन्टेलिजेन्स
+  - कृत्रिम बुद्धि
+  - कृत्रिम बुद्धिमत्ता
+  - कृत्रिम बुध्दी
+  - कृत्रिम बौद्धिकता
+  - कृत्रिमबुद्धिमत्ता
+  - কৃত্রিম বুদ্ধিমত্তা
+  - কৃত্ৰিম বুদ্ধিমত্তা
+  - ਬਣਾਉਟੀ ਮਸ਼ੀਨੀ ਬੁੱਧੀ
+  - କୃତ୍ରିମ ବୁଦ୍ଧିମତ୍ତା
+  - செயற்கை அறிவுத்திறன்
+  - కృత్రిమ మేధస్సు
+  - ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ
+  - കൃത്രിമബുദ്ധി
+  - කෘතීම බුද්ධිය
+  - ปัญญาประดิษฐ์
+  - ປັນຍາປະດິດ
+  - མི་བཟོས་རིག་ནུས།
+  - ဉာဏ်တု
+  - ဉာဏ်ႏတုꩻ
+  - ხელოვნური ინტელექტი
+  - ხელუანური ინტელექტი
+  - ሠው ሰራሽ ዕውቀት
+  - បញ្ញាសិប្បនិម្មិត
+  - ᱵᱮᱱᱟᱣᱟᱜ ᱜᱮᱭᱟᱱ
+  - Ọgụgụ isi
+  - ⵜⵉⵖⵉⵙⵜ ⵜⴰⵙⵎⴳⵓⵔⵜ
+  - 人工智慧
+  - 人工智能
+  - 人工知能
+  - ꠀꠉ꠆ꠟꠣ ꠀꠇꠟꠖꠣꠞ
+  - 인공지능
 has_id_wikidata: Q11660
 ACM_Classification_Code_2012_: 10010178
 All_Science_Journal_Classification_Codes: 1702
@@ -179,149 +179,149 @@ Classification_of_Instructional_Programs_code: 11.0102
 Commons_category: Artificial intelligence
 described_at_URL: https://eudml.org/subject/MSC/68Txx
 described_by_source:
-- '[[_Standards/WikiData/WD~Artificial_Intelligence,4801030|WD~Artificial_Intelligence,4801030]]'
-- '[[_Standards/WikiData/WD~Artificial_Intelligence_Review,15751393|WD~Artificial_Intelligence_Review,15751393]]'
-- '[[_Standards/WikiData/WD~Open_Science_Thesaurus,108928644|WD~Open_Science_Thesaurus,108928644]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+  - "[[_Standards/WikiData/WD~Artificial_Intelligence,4801030|WD~Artificial_Intelligence,4801030]]"
+  - "[[_Standards/WikiData/WD~Artificial_Intelligence_Review,15751393|WD~Artificial_Intelligence_Review,15751393]]"
+  - "[[_Standards/WikiData/WD~Open_Science_Thesaurus,108928644|WD~Open_Science_Thesaurus,108928644]]"
+  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]"
 different_from:
-- '[[_Standards/WikiData/WD~artificial_intelligence_model_type,117349475|WD~artificial_intelligence_model_type,117349475]]'
-- '[[_Standards/WikiData/WD~artificial_intelligence_model,117349473|WD~artificial_intelligence_model,117349473]]'
+  - "[[_Standards/WikiData/WD~artificial_intelligence_model_type,117349475|WD~artificial_intelligence_model_type,117349475]]"
+  - "[[_Standards/WikiData/WD~artificial_intelligence_model,117349473|WD~artificial_intelligence_model,117349473]]"
 facet_of:
-- '[[_Standards/WikiData/WD~cognitive_science,147638|WD~cognitive_science,147638]]'
-- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
+  - "[[_Standards/WikiData/WD~cognitive_science,147638|WD~cognitive_science,147638]]"
+  - "[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]"
 GitHub_topic: artificial-intelligence
 has_characteristic:
-- '[[_Standards/WikiData/WD~artificiality,14623823|WD~artificiality,14623823]]'
-- '[[_Standards/WikiData/WD~regulation_of_artificial_intelligence,96482266|WD~regulation_of_artificial_intelligence,96482266]]'
+  - "[[_Standards/WikiData/WD~artificiality,14623823|WD~artificiality,14623823]]"
+  - "[[_Standards/WikiData/WD~regulation_of_artificial_intelligence,96482266|WD~regulation_of_artificial_intelligence,96482266]]"
 has_goal:
-- '[[_Standards/WikiData/WD~motion_planning,366872|WD~motion_planning,366872]]'
-- '[[_Standards/WikiData/WD~affective_computing,1185804|WD~affective_computing,1185804]]'
-- '[[_Standards/WikiData/WD~artificial_general_intelligence,2264109|WD~artificial_general_intelligence,2264109]]'
-- '[[_Standards/WikiData/WD~automated_reasoning,2555318|WD~automated_reasoning,2555318]]'
-- '[[_Standards/WikiData/WD~automated_planning_and_scheduling,2631895|WD~automated_planning_and_scheduling,2631895]]'
-- '[[_Standards/WikiData/WD~knowledge_representation_and_reasoning,3478658|WD~knowledge_representation_and_reasoning,3478658]]'
-- '[[_Standards/WikiData/WD~machine_perception,6723726|WD~machine_perception,6723726]]'
-- '[[_Standards/WikiData/WD~knowledge_representation,109642276|WD~knowledge_representation,109642276]]'
-- '[[_Standards/WikiData/WD~natural_language_processing,30642|WD~natural_language_processing,30642]]'
+  - "[[_Standards/WikiData/WD~motion_planning,366872|WD~motion_planning,366872]]"
+  - "[[_Standards/WikiData/WD~affective_computing,1185804|WD~affective_computing,1185804]]"
+  - "[[_Standards/WikiData/WD~artificial_general_intelligence,2264109|WD~artificial_general_intelligence,2264109]]"
+  - "[[_Standards/WikiData/WD~automated_reasoning,2555318|WD~automated_reasoning,2555318]]"
+  - "[[_Standards/WikiData/WD~automated_planning_and_scheduling,2631895|WD~automated_planning_and_scheduling,2631895]]"
+  - "[[_Standards/WikiData/WD~knowledge_representation_and_reasoning,3478658|WD~knowledge_representation_and_reasoning,3478658]]"
+  - "[[_Standards/WikiData/WD~machine_perception,6723726|WD~machine_perception,6723726]]"
+  - "[[_Standards/WikiData/WD~knowledge_representation,109642276|WD~knowledge_representation,109642276]]"
+  - "[[_Standards/WikiData/WD~natural_language_processing,30642|WD~natural_language_processing,30642]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~connectionism,203790|WD~connectionism,203790]]'
-- '[[_Standards/WikiData/WD~symbolic_artificial_intelligence,5514059|WD~symbolic_artificial_intelligence,5514059]]'
-- '[[_Standards/WikiData/WD~ethical_artificial_intelligence,105604957|WD~ethical_artificial_intelligence,105604957]]'
-- '[[_Standards/WikiData/WD~machine_learning,2539|WD~machine_learning,2539]]'
+  - "[[_Standards/WikiData/WD~connectionism,203790|WD~connectionism,203790]]"
+  - "[[_Standards/WikiData/WD~symbolic_artificial_intelligence,5514059|WD~symbolic_artificial_intelligence,5514059]]"
+  - "[[_Standards/WikiData/WD~ethical_artificial_intelligence,105604957|WD~ethical_artificial_intelligence,105604957]]"
+  - "[[_Standards/WikiData/WD~machine_learning,2539|WD~machine_learning,2539]]"
 has_use:
-- '[[_Standards/WikiData/WD~recommender_system,554950|WD~recommender_system,554950]]'
-- '[[_Standards/WikiData/WD~autonomous_car,741490|WD~autonomous_car,741490]]'
-- '[[_Standards/WikiData/WD~natural_language_understanding,1078276|WD~natural_language_understanding,1078276]]'
-- '[[_Standards/WikiData/WD~search_engine,4182287|WD~search_engine,4182287]]'
-- '[[_Standards/WikiData/WD~automated_decision-making,108704339|WD~automated_decision-making,108704339]]'
+  - "[[_Standards/WikiData/WD~recommender_system,554950|WD~recommender_system,554950]]"
+  - "[[_Standards/WikiData/WD~autonomous_car,741490|WD~autonomous_car,741490]]"
+  - "[[_Standards/WikiData/WD~natural_language_understanding,1078276|WD~natural_language_understanding,1078276]]"
+  - "[[_Standards/WikiData/WD~search_engine,4182287|WD~search_engine,4182287]]"
+  - "[[_Standards/WikiData/WD~automated_decision-making,108704339|WD~automated_decision-making,108704339]]"
 history_of_topic:
-- '[[_Standards/WikiData/WD~history_of_artificial_intelligence,2592244|WD~history_of_artificial_intelligence,2592244]]'
-- '[[_Standards/WikiData/WD~timeline_of_artificial_intelligence,16000353|WD~timeline_of_artificial_intelligence,16000353]]'
+  - "[[_Standards/WikiData/WD~history_of_artificial_intelligence,2592244|WD~history_of_artificial_intelligence,2592244]]"
+  - "[[_Standards/WikiData/WD~timeline_of_artificial_intelligence,16000353|WD~timeline_of_artificial_intelligence,16000353]]"
 IAB_code: 597
 IEV_number: 171-09-16
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dall-e%203%20%28jan%20%2724%29%20artificial%20intelligence%20icon.png
 influenced_by:
-- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
-- '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
-- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+  - "[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]"
+  - "[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]"
+  - "[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]"
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~type_of_technology,112057532|WD~type_of_technology,112057532]]'
-- '[[_Standards/WikiData/WD~branch_of_computer_science,123370638|WD~branch_of_computer_science,123370638]]'
-- '[[_Standards/WikiData/WD~type_of_intelligence,125161275|WD~type_of_intelligence,125161275]]'
+  - "[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]"
+  - "[[_Standards/WikiData/WD~type_of_technology,112057532|WD~type_of_technology,112057532]]"
+  - "[[_Standards/WikiData/WD~branch_of_computer_science,123370638|WD~branch_of_computer_science,123370638]]"
+  - "[[_Standards/WikiData/WD~type_of_intelligence,125161275|WD~type_of_intelligence,125161275]]"
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/INTELLEKT_ISKUSSTVENNI.html
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Artificial_Intelligence,113171054|WD~WikiProject_Artificial_Intelligence,113171054]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Artificial_Intelligence,113171054|WD~WikiProject_Artificial_Intelligence,113171054]]"
 MeSH_tree_code:
-- G17.035.250
-- L01.224.050.375
+  - G17.035.250
+  - L01.224.050.375
 model_item:
-- '[[_Standards/WikiData/WD~intelligence_amplification,1362688|WD~intelligence_amplification,1362688]]'
-- '[[_Standards/WikiData/WD~machine_learning,2539|WD~machine_learning,2539]]'
+  - "[[_Standards/WikiData/WD~intelligence_amplification,1362688|WD~intelligence_amplification,1362688]]"
+  - "[[_Standards/WikiData/WD~machine_learning,2539|WD~machine_learning,2539]]"
 OmegaWiki_Defined_Meaning: 524106
 practiced_by:
-- '[[_Standards/WikiData/WD~artificial_intelligence_researcher,15976092|WD~artificial_intelligence_researcher,15976092]]'
-- '[[_Standards/WikiData/WD~artificial_intelligence_engineer,126116209|WD~artificial_intelligence_engineer,126116209]]'
+  - "[[_Standards/WikiData/WD~artificial_intelligence_researcher,15976092|WD~artificial_intelligence_researcher,15976092]]"
+  - "[[_Standards/WikiData/WD~artificial_intelligence_engineer,126116209|WD~artificial_intelligence_engineer,126116209]]"
 short_name:
-- AI
-- AI
-- AI
-- AI
-- AI
-- KI
-- MI
-- MI
-- IA
-- KI
-- KI
-- AA
-- IA
-- SI
-- এআই
-- Sİ
-- IA
-- IA
-- IA
-- IA
-- VI
-- IA
-- IA
-- KI
-- KI
-- ИИ
-- YZ
-- ЯИ
-- NA
-- KY
-- IA
-- KI
-- KI
-- ШІ
-- ИИ
-- ХО
-- ЯИ
-- ЮИ
-- ЖИ
-- JÏ
-- УІ
-- ШІ
-- ΤΝ
-- UI
-- IA
-- IA
-- एआई
-- SZ
-- СЗ
-- IA
-- ВИ
-- DI
-- ОИ
-- IA
-- VI
-- KI
-- UI
-- UI
+  - AI
+  - AI
+  - AI
+  - AI
+  - AI
+  - KI
+  - MI
+  - MI
+  - IA
+  - KI
+  - KI
+  - AA
+  - IA
+  - SI
+  - এআই
+  - Sİ
+  - IA
+  - IA
+  - IA
+  - IA
+  - VI
+  - IA
+  - IA
+  - KI
+  - KI
+  - ИИ
+  - YZ
+  - ЯИ
+  - NA
+  - KY
+  - IA
+  - KI
+  - KI
+  - ШІ
+  - ИИ
+  - ХО
+  - ЯИ
+  - ЮИ
+  - ЖИ
+  - JÏ
+  - УІ
+  - ШІ
+  - ΤΝ
+  - UI
+  - IA
+  - IA
+  - एआई
+  - SZ
+  - СЗ
+  - IA
+  - ВИ
+  - DI
+  - ОИ
+  - IA
+  - VI
+  - KI
+  - UI
+  - UI
 spoken_text_audio:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Um%C4%9Bl%C3%A1%20inteligence%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Artificial%20intelligence%20%28spoken%20by%20AI%20voice%29.mp3
-- http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20K%C3%BCnstliche%20Intelligenz%20%28gesprochene%20Wikipedia%20mit%20KI-Stimme%29.mp3
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Um%C4%9Bl%C3%A1%20inteligence%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Artificial%20intelligence%20%28spoken%20by%20AI%20voice%29.mp3
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20K%C3%BCnstliche%20Intelligenz%20%28gesprochene%20Wikipedia%20mit%20KI-Stimme%29.mp3
 Stack_Exchange_site_URL: https://ai.stackexchange.com
 Stack_Exchange_tag:
-- https://stackoverflow.com/tags/artificial-intelligence
-- https://ai.stackexchange.com/tags
-- https://genai.stackexchange.com/tags
+  - https://stackoverflow.com/tags/artificial-intelligence
+  - https://ai.stackexchange.com/tags
+  - https://genai.stackexchange.com/tags
 subclass_of:
-- '[[_Standards/WikiData/WD~emerging_technology,120208|WD~emerging_technology,120208]]'
-- '[[_Standards/WikiData/WD~reasoning,1156402|WD~reasoning,1156402]]'
-- '[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]'
+  - "[[_Standards/WikiData/WD~emerging_technology,120208|WD~emerging_technology,120208]]"
+  - "[[_Standards/WikiData/WD~reasoning,1156402|WD~reasoning,1156402]]"
+  - "[[_Standards/WikiData/WD~computer_science,21198|WD~computer_science,21198]]"
 subreddit: artificial
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Artificial_intelligence,14411202|WD~Template_Artificial_intelligence,14411202]]'
-- '[[_Standards/WikiData/WD~Template_Artificial_intelligence,119057776|WD~Template_Artificial_intelligence,119057776]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Artificial_intelligence,14614961|WD~Portal_Artificial_intelligence,14614961]]'
+  - "[[_Standards/WikiData/WD~Template_Artificial_intelligence,14411202|WD~Template_Artificial_intelligence,14411202]]"
+  - "[[_Standards/WikiData/WD~Template_Artificial_intelligence,119057776|WD~Template_Artificial_intelligence,119057776]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Artificial_intelligence,14614961|WD~Portal_Artificial_intelligence,14614961]]"
 uses:
-- '[[_Standards/WikiData/WD~large_language_model,115305900|WD~large_language_model,115305900]]'
-- '[[_Standards/WikiData/WD~AI-generated_content,125361038|WD~AI-generated_content,125361038]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_artificial_intelligence,7112560|WD~outline_of_artificial_intelligence,7112560]]'
+  - "[[_Standards/WikiData/WD~large_language_model,115305900|WD~large_language_model,115305900]]"
+  - "[[_Standards/WikiData/WD~AI-generated_content,125361038|WD~AI-generated_content,125361038]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_artificial_intelligence,7112560|WD~outline_of_artificial_intelligence,7112560]]"
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "ArtificialIntelligence"]
 dv_has_:
   name_:

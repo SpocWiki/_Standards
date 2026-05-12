@@ -77,7 +77,7 @@ Use it like this:
 A parent (Object) of this person (Subject). 
 Typically parent relations are considered unique, so they form a Hierarchy. 
 
-This is not strictly hierarchical, since a Human already has 2 biological Parents of different [[../../../bio/Reproduction/Sexual_Reproduction/Gender|Gender]]. 
+This is not strictly hierarchical, since a Human already has 2 biological Parents of different [[../../../Society/Social_Issues/Discrimination/Gender|Gender]]. 
 Additionally there can me more legal Parents. 
 
 Relation describes that: 

@@ -1,30 +1,30 @@
 ---
 dv_has_:
-  inverse: "[[is_example_for]]"
+  inverse: "[[is_example_of]]"
   domain: "[[../../Class|Class]]"
   sub_properties:
     - "[[has_work_example]]"
-  name: "[[has_example]]"
+  name: "[[has_examples]]"
   range: "[[../../Class/Thing|Thing]]"
 dv_is_:
   same_as:
-    - "[[has_example|has_example]]"
+    - "[[has_examples|has_example]]"
     - "[[/_public/schema-org/Relation/has/has_examples.public|has_examples.public]]"
     - "[[/_internal/schema-org/Relation/has/has_examples.internal|has_examples.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_examples.protect|has_examples.protect]]"
     - "[[/_private/schema-org/Relation/has/has_examples.private|has_examples.private]]"
     - "[[/_personal/schema-org/Relation/has/has_examples.personal|has_examples.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_examples.secret|has_examples.secret]]"
-    - "[[has_example]]"
+    - "[[has_examples]]"
   similar_to: "[[../../Class/has_instance|has_instance]]"
 dv_has_domain: "[[../../Class|Class]]"
-dv_has_name: "[[has_example]]"
+dv_has_name: "[[has_examples]]"
 dv_has_range: "[[../../Class/Thing|Thing]]"
-dv_has_inverse: "[[is_example_for]]"
+dv_has_inverse: "[[is_example_of]]"
 dv_has_child_property:
   - "[[has_work_example]]"
 dv_is_same_as:
-  - "[[has_example]]"
+  - "[[has_examples]]"
   - "[[/_public/schema-org/Relation/has/has_examples.public|has_examples.public]]"
   - "[[/_internal/schema-org/Relation/has/has_examples.internal|has_examples.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_examples.protect|has_examples.protect]]"
@@ -34,7 +34,7 @@ dv_is_same_as:
 dv_is_similar_to: "[[../../Class/has_instance|has_instance]]"
 ---
 
-# [[has_example]] 
+# [[has_examples]] 
 
 has_inverse = `=this.dv_has_inverse` 
 
@@ -49,12 +49,12 @@ but very helpful for Humans to illustrate a Concept with already known Instances
 Plural Form chosen to indicate the [[../../Collection|Collection]]-Nature. 
 
 Therefore this partially(incomplete) inverse Relation 
-is included in the non-standard more generic [[has_example]] Relation. 
+is included in the non-standard more generic [[has_examples]] Relation. 
 
 Use it like this: 
-- #has_/example : : `=this.dv_has_range` 
+- #has_/examples : : `=this.dv_has_range` 
 - has_example : : `=this.dv_has_range` 
-- is_example_for : : `=this.dv_has_domain` 
+- is_example_of : : `=this.dv_has_domain` 
 - #is_/example_for : : `=this.dv_has_domain` 
 
 Relation describes that: 
@@ -65,7 +65,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_example|has_example]] 
+### #is_/same_as :: [[has_examples|has_example]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_examples.public|has_examples.public]] 
 

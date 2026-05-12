@@ -229,6 +229,16 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Laplace%20transform) 
 
 
+## Key Properties
+
+### exp(a t) --> 1/(s - a) 
+
+### Linear:  a f + b g --> a F + b G 
+
+### Derivation becomes algebraic; f' --> s F - f(0)
+
+
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform|Laplace_Transform]] 

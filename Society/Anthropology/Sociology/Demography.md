@@ -253,7 +253,7 @@ It is the descriptive data that demography studies and analyzes.
 
 #### [[Demography/Age-Group|Age-Group]]  
 
-#### [[../../../bio/Reproduction/Sexual_Reproduction/Gender|Gender]] 
+#### [[../../Social_Issues/Discrimination/Gender|Gender]] 
 #### Income-Groups 
 #### Education level 
 #### Occupation 

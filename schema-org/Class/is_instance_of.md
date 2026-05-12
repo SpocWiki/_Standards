@@ -38,7 +38,7 @@ type: Predi_Relation
 dv_is_:
   instance_of: Class
   similar_to:
-    - "[[is_example_for]]"
+    - "[[is_example_of]]"
     - "[[../Relation/has/has_parent/has_parent_class|is_child_class_of]]"
   same_as:
     - "[[is_instance_of]]"
@@ -56,7 +56,7 @@ dv_has_:
   range: Class
 dv_is_instance_of: Class
 dv_is_similar_to:
-  - "[[is_example_for]]"
+  - "[[is_example_of]]"
   - "[[../Relation/has/has_parent/has_parent_class|is_child_class_of]]"
 dv_has_inverse: "[[has_instance]]"
 dv_has_domain: "[[Thing]]"

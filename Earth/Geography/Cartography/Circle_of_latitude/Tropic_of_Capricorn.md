@@ -1,113 +1,113 @@
 ---
 aliases:
-- Baktérítő
-- Capricorni tropicus
-- Chí tuyến Nam
-- Dienvidu tropu loks
-- Garis balik selatan
-- Garisan Jadi
-- Hvarfbaugur syðri
-- Jarčeva obratnica
-- Južni povratnik
-- kaljukitse pöörijoon
-- Kaprikornioko tropikoa
-- kauriin kääntöpiiri
-- kavrâs jorgáldâskiärdu
-- Kelûya Karê
-- kozorogov povratnik
-- Nàm-fì Kûi-sien
-- Obratník Kozoroha
-- Obratník Kozorožca
-- Oğlak Dönencesi
-- Ožiaragio atogrąža
-- ruoiggu jorggihanbirradat
-- Sarara Kaappirikoornii
-- Steenbokskeerkring
-- Steinbukken sin vendekrins
-- Stenbockens vändkrets
-- Stenbukkens vendekreds
-- stenbukkens vendekrets
-- Stienbokskearkring
-- Südleche Wendekrees
-- südlicher Wendekreis
-- Trofan yr Afr
-- Tropic del Capricòrne
-- Tropic of Capricorn
-- Tropico de Capricorno
-- Tropico del Capricorno
-- Tropicul Capricornului
-- Tropike do Gadot
-- Tropiko de Kaprikorno
-- Tropiko di Kaprikorno
-- Tropiko han Kaprikorn
-- Tropiko kan Kaprikorn
-- Tropiko ng Kaprikorn
-- Tropiko ti Kaprikornio
-- tropique du Capricorne
-- Trovan ar C'havr
-- Tròpic dal Capricòran
-- tròpic de Capricorn
-- Trópico de Capricornio
-- Trópico de Capricórnio
-- Trópicu de Capricorniu
-- Trôpikan'ny Adijady
-- zwrotnik Koziorożca
-- Τροπικός του Αιγόκερω
-- Јужен Повратник
-- Јужни повратник
-- Зворотник Козорога
-- Көньяҡ тропик
-- Лымшор тропик
-- Матрын зам
-- Паўднёвы тропік
-- тропік Казярога
-- Тропік Козерога
-- Тропик на Козирога
-- Южный тропик
-- Հարավային արևադարձ
-- חוג הגדי
-- اوغلاق دؤننجهسی
-- خط جدی
-- مدار الجدى
-- مدار الجدي
-- مدار رأسالجدی
-- کەلوویا کارێ
-- ھێڵی کارژۆڵە
-- मकर रेखा
-- मकरवृत्त
-- মকরক্রান্তি
-- মকৰ ক্ৰান্তি
-- ମକର କ୍ରାନ୍ତି
-- மகர ரேகை
-- మకర రేఖ
-- ദക്ഷിണായനരേഖ
-- මකර නිවර්තනය
-- ทรอปิกออฟแคปริคอร์น
-- ལྷོའི་ལྡོག་ཐིག
-- တောင်ယဉ်စွန်းတန်း
-- სამხრეთი ტროპიკი
-- 南回帰線
-- 南回归线
-- 南回歸線
-- ꠖꠇꠘꠧ ꠈꠞꠐ
-- 남회귀선
+  - Baktérítő
+  - Capricorni tropicus
+  - Chí tuyến Nam
+  - Dienvidu tropu loks
+  - Garis balik selatan
+  - Garisan Jadi
+  - Hvarfbaugur syðri
+  - Jarčeva obratnica
+  - Južni povratnik
+  - kaljukitse pöörijoon
+  - Kaprikornioko tropikoa
+  - kauriin kääntöpiiri
+  - kavrâs jorgáldâskiärdu
+  - Kelûya Karê
+  - kozorogov povratnik
+  - Nàm-fì Kûi-sien
+  - Obratník Kozoroha
+  - Obratník Kozorožca
+  - Oğlak Dönencesi
+  - Ožiaragio atogrąža
+  - ruoiggu jorggihanbirradat
+  - Sarara Kaappirikoornii
+  - Steenbokskeerkring
+  - Steinbukken sin vendekrins
+  - Stenbockens vändkrets
+  - Stenbukkens vendekreds
+  - stenbukkens vendekrets
+  - Stienbokskearkring
+  - Südleche Wendekrees
+  - südlicher Wendekreis
+  - Trofan yr Afr
+  - Tropic del Capricòrne
+  - Tropic of Capricorn
+  - Tropico de Capricorno
+  - Tropico del Capricorno
+  - Tropicul Capricornului
+  - Tropike do Gadot
+  - Tropiko de Kaprikorno
+  - Tropiko di Kaprikorno
+  - Tropiko han Kaprikorn
+  - Tropiko kan Kaprikorn
+  - Tropiko ng Kaprikorn
+  - Tropiko ti Kaprikornio
+  - tropique du Capricorne
+  - Trovan ar C'havr
+  - Tròpic dal Capricòran
+  - tròpic de Capricorn
+  - Trópico de Capricornio
+  - Trópico de Capricórnio
+  - Trópicu de Capricorniu
+  - Trôpikan'ny Adijady
+  - zwrotnik Koziorożca
+  - Τροπικός του Αιγόκερω
+  - Јужен Повратник
+  - Јужни повратник
+  - Зворотник Козорога
+  - Көньяҡ тропик
+  - Лымшор тропик
+  - Матрын зам
+  - Паўднёвы тропік
+  - тропік Казярога
+  - Тропік Козерога
+  - Тропик на Козирога
+  - Южный тропик
+  - Հարավային արևադարձ
+  - חוג הגדי
+  - اوغلاق دؤننجهسی
+  - خط جدی
+  - مدار الجدى
+  - مدار الجدي
+  - مدار رأسالجدی
+  - کەلوویا کارێ
+  - ھێڵی کارژۆڵە
+  - मकर रेखा
+  - मकरवृत्त
+  - মকরক্রান্তি
+  - মকৰ ক্ৰান্তি
+  - ମକର କ୍ରାନ୍ତି
+  - மகர ரேகை
+  - మకర రేఖ
+  - ദക്ഷിണായനരേഖ
+  - මකර නිවර්තනය
+  - ทรอปิกออฟแคปริคอร์น
+  - ལྷོའི་ལྡོག་ཐིག
+  - တောင်ယဉ်စွန်းတန်း
+  - სამხრეთი ტროპიკი
+  - 南回帰線
+  - 南回归线
+  - 南回歸線
+  - ꠖꠇꠘꠧ ꠈꠞꠐ
+  - 남회귀선
 has_id_wikidata: Q177440
 instance_of:
-- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
-- '[[_Standards/WikiData/WD~tropic,149273|WD~tropic,149273]]'
-opposite_of: '[[_Standards/WikiData/WD~Tropic_of_Cancer,176635|WD~Tropic_of_Cancer,176635]]'
+  - "[[_Standards/WikiData/WD~region,82794|WD~region,82794]]"
+  - "[[_Standards/WikiData/WD~tropic,149273|WD~tropic,149273]]"
+opposite_of: "[[_Standards/WikiData/WD~Tropic_of_Cancer,176635|WD~Tropic_of_Cancer,176635]]"
 country:
-- '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
-- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~Paraguay,733|WD~Paraguay,733]]'
-- '[[_Standards/WikiData/WD~Botswana,963|WD~Botswana,963]]'
-- '[[_Standards/WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]'
-- '[[_Standards/WikiData/WD~Namibia,1030|WD~Namibia,1030]]'
-- '[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
-- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Hemisphere,41228|WD~Southern_Hemisphere,41228]]'
+  - "[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]"
+  - "[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Paraguay,733|WD~Paraguay,733]]"
+  - "[[_Standards/WikiData/WD~Botswana,963|WD~Botswana,963]]"
+  - "[[_Standards/WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]"
+  - "[[_Standards/WikiData/WD~Namibia,1030|WD~Namibia,1030]]"
+  - "[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]"
+  - "[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]"
+part_of: "[[_Standards/WikiData/WD~Southern_Hemisphere,41228|WD~Southern_Hemisphere,41228]]"
 OmegaWiki_Defined_Meaning: 807841
 image: http://commons.wikimedia.org/wiki/Special:FilePath/00%201836%20West%20Coastel%20Highway%20%28National%20Route%201%29%20-%20Tropic%20of%20Capricorn.jpg
 place_name_sign: http://commons.wikimedia.org/wiki/Special:FilePath/Jpeg%2039.jpeg
@@ -116,23 +116,23 @@ Commons_category: Tropic of Capricorn
 coordinate_location: Point(0.0 -23.436694444)
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Tropic_of_Capricorn,177440|WD~Tropic_of_Capricorn,177440]]'
-  - '[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn|Tropic_of_Capricorn]]'
-  - '[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.public|Tropic_of_Capricorn.public]]'
-  - '[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.internal|Tropic_of_Capricorn.internal]]'
-  - '[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.protect|Tropic_of_Capricorn.protect]]'
-  - '[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.private|Tropic_of_Capricorn.private]]'
-  - '[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.personal|Tropic_of_Capricorn.personal]]'
-  - '[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.secret|Tropic_of_Capricorn.secret]]'
+    - "[[../../../../WikiData/WD~Tropic_of_Capricorn,177440|WD~Tropic_of_Capricorn,177440]]"
+    - "[[Tropic_of_Capricorn|Tropic_of_Capricorn]]"
+    - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.public|Tropic_of_Capricorn.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.internal|Tropic_of_Capricorn.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.protect|Tropic_of_Capricorn.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.private|Tropic_of_Capricorn.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.personal|Tropic_of_Capricorn.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.secret|Tropic_of_Capricorn.secret]]"
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Tropic_of_Capricorn,177440|WD~Tropic_of_Capricorn,177440]]'
-- '[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn|Tropic_of_Capricorn]]'
-- '[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.public|Tropic_of_Capricorn.public]]'
-- '[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.internal|Tropic_of_Capricorn.internal]]'
-- '[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.protect|Tropic_of_Capricorn.protect]]'
-- '[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.private|Tropic_of_Capricorn.private]]'
-- '[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.personal|Tropic_of_Capricorn.personal]]'
-- '[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.secret|Tropic_of_Capricorn.secret]]'
+  - "[[../../../../WikiData/WD~Tropic_of_Capricorn,177440|WD~Tropic_of_Capricorn,177440]]"
+  - "[[Tropic_of_Capricorn|Tropic_of_Capricorn]]"
+  - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.public|Tropic_of_Capricorn.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.internal|Tropic_of_Capricorn.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.protect|Tropic_of_Capricorn.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.private|Tropic_of_Capricorn.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.personal|Tropic_of_Capricorn.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.secret|Tropic_of_Capricorn.secret]]"
 dv_has_:
   name_:
     af: Steenbokskeerkring
@@ -265,7 +265,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn|Tropic_of_Capricorn]] 
+### #is_/same_as :: [[Tropic_of_Capricorn|Tropic_of_Capricorn]] 
 
 ### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.public|Tropic_of_Capricorn.public]] 
 

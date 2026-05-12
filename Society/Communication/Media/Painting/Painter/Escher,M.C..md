@@ -279,6 +279,7 @@ dv_has_:
 # [[Escher,M.C.]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~M._C._Escher,1470|WD~M._C._Escher,1470]] 
+#has_/created_/Picture :: [[Print_Gallery(Escher)]] 
 
 ## #has_/text_of_/abstract 
 

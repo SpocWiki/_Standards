@@ -43,7 +43,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/has_instance.secret|has_instance.secret]]"
     - "[[has_instance]]"
   similar_to:
-    - "[[../Relation/has/has_example|has_example]]"
+    - "[[../Relation/has/has_examples|has_examples]]"
     - "[[../Relation/has/has_child/has_child_class|has_child_class]]"
 dv_has_domain: "[[../Class|Class]]"
 dv_has_name: has_instance
@@ -58,7 +58,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Class/has_instance.personal|has_instance.personal]]"
   - "[[/_secret/schema-org/Class/has_instance.secret|has_instance.secret]]"
 dv_is_similar_to:
-  - "[[../Relation/has/has_example|has_example]]"
+  - "[[../Relation/has/has_examples|has_examples]]"
   - "[[../Relation/has/has_child/has_child_class|has_child_class]]"
 ---
 
@@ -68,7 +68,7 @@ is_similar_to = `=this.dv_is_similar_to`
 has_inverse = `=this.dv_has_inverse` 
 
 Indicates a ([[../Collection/item_list|Item_list]] of) [[Thing]] is an instance of this Subject-[[../Class|Class]]. 
-This is subtly different from [[../Relation/has/has_example|has_example]] for teaching or describing the world. 
+This is subtly different from [[../Relation/has/has_examples|has_examples]] for teaching or describing the world. 
 It is also different from the relation between [[../Class|Classes]], 
 which is often  confounded in natural language using "is a", 
 but can lead to confusion between instances and classes, 

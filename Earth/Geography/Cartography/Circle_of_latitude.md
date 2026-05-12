@@ -1,108 +1,108 @@
 ---
 aliases:
-- Breddekreds
-- breddesirkel
-- Breetekrees
-- Breitengrad
-- Breitenkreis
-- Bulatan latitud
-- circle of latitude
-- Circle_of_latitude
-- circulus parallelus
-- cirklo de latitudo
-- Da'irar Latitud
-- enlem dairesi
-- govdodatgierdu
-- Kabilugan ng latitud
-- kobdodâhkiärdu
-- Latitudo
-- leveyspiiri
-- line of latitude
-- lygiagretė
-- Palibot hin latitud
-- Paralel
-- Paralela
-- Paralela (geografija)
-- paralelo
-- paralelu
-- paralleel
-- Parallel
-- parallell
-- parallellsirkel
-- parallelo
-- Parallèl
-- parallèle
-- paralēle
-- paraŀlel
-- Rovnobežka
-- rovnoběžka
-- równoleżnik
-- sirkulo ti latitud
-- szélességi kör
-- vzporednik
-- vĩ tuyến
-- Šyrinowy krejz
-- Šěrokostnik
-- Παράλληλος κύκλος
-- валлингож
-- напоредник
-- Паралел
-- паралель
-- параллель
-- Упоредник
-- Զուգահեռական
-- חוג (גאוגרפיה)
-- د عرض البلد دایره
-- دائرة العرض
-- دائرۃ العرض
-- مدار
-- अक्षवृत्त
-- अक्षांश वृत्त
-- অক্ষরেখা
-- நிலநேர்க்கோட்டு வட்டம்
-- วงกลมละติจูด
-- პარალელი
-- 緯線
-- 纬线
-- 위선
+  - Breddekreds
+  - breddesirkel
+  - Breetekrees
+  - Breitengrad
+  - Breitenkreis
+  - Bulatan latitud
+  - circle of latitude
+  - Circle_of_latitude
+  - circulus parallelus
+  - cirklo de latitudo
+  - Da'irar Latitud
+  - enlem dairesi
+  - govdodatgierdu
+  - Kabilugan ng latitud
+  - kobdodâhkiärdu
+  - Latitudo
+  - leveyspiiri
+  - line of latitude
+  - lygiagretė
+  - Palibot hin latitud
+  - Paralel
+  - Paralela
+  - Paralela (geografija)
+  - paralelo
+  - paralelu
+  - paralleel
+  - Parallel
+  - parallell
+  - parallellsirkel
+  - parallelo
+  - Parallèl
+  - parallèle
+  - paralēle
+  - paraŀlel
+  - Rovnobežka
+  - rovnoběžka
+  - równoleżnik
+  - sirkulo ti latitud
+  - szélességi kör
+  - vzporednik
+  - vĩ tuyến
+  - Šyrinowy krejz
+  - Šěrokostnik
+  - Παράλληλος κύκλος
+  - валлингож
+  - напоредник
+  - Паралел
+  - паралель
+  - параллель
+  - Упоредник
+  - Զուգահեռական
+  - חוג (גאוגרפיה)
+  - د عرض البلد دایره
+  - دائرة العرض
+  - دائرۃ العرض
+  - مدار
+  - अक्षवृत्त
+  - अक्षांश वृत्त
+  - অক্ষরেখা
+  - நிலநேர்க்கோட்டு வட்டம்
+  - วงกลมละติจูด
+  - პარალელი
+  - 緯線
+  - 纬线
+  - 위선
 has_id_wikidata: Q146591
 subclass_of:
-- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
-- '[[_Standards/WikiData/WD~geographic_entity,27096213|WD~geographic_entity,27096213]]'
-- '[[_Standards/WikiData/WD~circle,17278|WD~circle,17278]]'
+  - "[[_Standards/WikiData/WD~region,82794|WD~region,82794]]"
+  - "[[_Standards/WikiData/WD~geographic_entity,27096213|WD~geographic_entity,27096213]]"
+  - "[[_Standards/WikiData/WD~circle,17278|WD~circle,17278]]"
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 model_item:
-- '[[_Standards/WikiData/WD~90th_parallel,4032714|WD~90th_parallel,4032714]]'
-- '[[_Standards/WikiData/WD~equator,23538|WD~equator,23538]]'
-has_list: '[[_Standards/WikiData/WD~list_of_circles_of_latitude,18348508|WD~list_of_circles_of_latitude,18348508]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~degree_of_latitude_on_Earth,21948574|WD~degree_of_latitude_on_Earth,21948574]]'
-manifestation_of: '[[_Standards/WikiData/WD~latitude,34027|WD~latitude,34027]]'
+  - "[[_Standards/WikiData/WD~90th_parallel,4032714|WD~90th_parallel,4032714]]"
+  - "[[_Standards/WikiData/WD~equator,23538|WD~equator,23538]]"
+has_list: "[[_Standards/WikiData/WD~list_of_circles_of_latitude,18348508|WD~list_of_circles_of_latitude,18348508]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~degree_of_latitude_on_Earth,21948574|WD~degree_of_latitude_on_Earth,21948574]]"
+manifestation_of: "[[_Standards/WikiData/WD~latitude,34027|WD~latitude,34027]]"
 Commons_category: Latitudes
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Earth-lighting-summer-solstice%20CAT.png
 Dewey_Decimal_Classification: 526.6
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Circle_of_latitude,146591|WD~Circle_of_latitude,146591]]'
-  - '[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude|Circle_of_latitude]]'
-  - '[[/_public/Earth/Geography/Cartography/Circle_of_latitude.public|Circle_of_latitude.public]]'
-  - '[[/_internal/Earth/Geography/Cartography/Circle_of_latitude.internal|Circle_of_latitude.internal]]'
-  - '[[/_protect/Earth/Geography/Cartography/Circle_of_latitude.protect|Circle_of_latitude.protect]]'
-  - '[[/_private/Earth/Geography/Cartography/Circle_of_latitude.private|Circle_of_latitude.private]]'
-  - '[[/_personal/Earth/Geography/Cartography/Circle_of_latitude.personal|Circle_of_latitude.personal]]'
-  - '[[/_secret/Earth/Geography/Cartography/Circle_of_latitude.secret|Circle_of_latitude.secret]]'
+    - "[[../../../WikiData/WD~Circle_of_latitude,146591|WD~Circle_of_latitude,146591]]"
+    - "[[Circle_of_Latitude|Circle_of_Latitude]]"
+    - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude.public|Circle_of_latitude.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude.internal|Circle_of_latitude.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude.protect|Circle_of_latitude.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude.private|Circle_of_latitude.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude.personal|Circle_of_latitude.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude.secret|Circle_of_latitude.secret]]"
 dv_is_same_as:
-- '[[../../../WikiData/WD~Circle_of_latitude,146591|WD~Circle_of_latitude,146591]]'
-- '[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude|Circle_of_latitude]]'
-- '[[/_public/Earth/Geography/Cartography/Circle_of_latitude.public|Circle_of_latitude.public]]'
-- '[[/_internal/Earth/Geography/Cartography/Circle_of_latitude.internal|Circle_of_latitude.internal]]'
-- '[[/_protect/Earth/Geography/Cartography/Circle_of_latitude.protect|Circle_of_latitude.protect]]'
-- '[[/_private/Earth/Geography/Cartography/Circle_of_latitude.private|Circle_of_latitude.private]]'
-- '[[/_personal/Earth/Geography/Cartography/Circle_of_latitude.personal|Circle_of_latitude.personal]]'
-- '[[/_secret/Earth/Geography/Cartography/Circle_of_latitude.secret|Circle_of_latitude.secret]]'
+  - "[[../../../WikiData/WD~Circle_of_latitude,146591|WD~Circle_of_latitude,146591]]"
+  - "[[Circle_of_Latitude|Circle_of_Latitude]]"
+  - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude.public|Circle_of_latitude.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude.internal|Circle_of_latitude.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude.protect|Circle_of_latitude.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude.private|Circle_of_latitude.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude.personal|Circle_of_latitude.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude.secret|Circle_of_latitude.secret]]"
 dv_has_:
   name_:
     ar: دائرة العرض
@@ -192,9 +192,11 @@ dv_has_:
     zh_tw: 緯線
 ---
 
-# [[Circle_of_latitude]] 
+# [[Circle_of_Latitude]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Circle_of_latitude,146591|WD~Circle_of_latitude,146591]] 
+#is_/similar_to :: [[../Equator|Equator]] 
+#has_/complement :: [[Meridian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -231,7 +233,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Circle_of_latitude|Circle_of_latitude]] 
+### #is_/same_as :: [[Circle_of_Latitude|Circle_of_Latitude]] 
 
 ### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_latitude.public|Circle_of_latitude.public]] 
 

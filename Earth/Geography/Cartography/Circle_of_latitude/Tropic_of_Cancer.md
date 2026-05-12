@@ -1,145 +1,145 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Tropic_of_Cancer,176635|WD~Tropic_of_Cancer,176635]]'
-  - '[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer|Tropic_of_Cancer]]'
-  - '[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.public|Tropic_of_Cancer.public]]'
-  - '[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.internal|Tropic_of_Cancer.internal]]'
-  - '[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.protect|Tropic_of_Cancer.protect]]'
-  - '[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.private|Tropic_of_Cancer.private]]'
-  - '[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.personal|Tropic_of_Cancer.personal]]'
-  - '[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.secret|Tropic_of_Cancer.secret]]'
+    - "[[../../../../WikiData/WD~Tropic_of_Cancer,176635|WD~Tropic_of_Cancer,176635]]"
+    - "[[Tropic_of_Cancer|Tropic_of_Cancer]]"
+    - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.public|Tropic_of_Cancer.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.internal|Tropic_of_Cancer.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.protect|Tropic_of_Cancer.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.private|Tropic_of_Cancer.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.personal|Tropic_of_Cancer.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.secret|Tropic_of_Cancer.secret]]"
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Tropic_of_Cancer,176635|WD~Tropic_of_Cancer,176635]]'
-- '[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer|Tropic_of_Cancer]]'
-- '[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.public|Tropic_of_Cancer.public]]'
-- '[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.internal|Tropic_of_Cancer.internal]]'
-- '[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.protect|Tropic_of_Cancer.protect]]'
-- '[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.private|Tropic_of_Cancer.private]]'
-- '[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.personal|Tropic_of_Cancer.personal]]'
-- '[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.secret|Tropic_of_Cancer.secret]]'
+  - "[[../../../../WikiData/WD~Tropic_of_Cancer,176635|WD~Tropic_of_Cancer,176635]]"
+  - "[[Tropic_of_Cancer|Tropic_of_Cancer]]"
+  - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.public|Tropic_of_Cancer.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.internal|Tropic_of_Cancer.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.protect|Tropic_of_Cancer.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.private|Tropic_of_Cancer.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.personal|Tropic_of_Cancer.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.secret|Tropic_of_Cancer.secret]]"
 location:
-- 0.0
-- 23.436027777
+  - 0
+  - 23.436027777
 aliases:
-- amislic
-- Asorotany (zana-pehintany)
-- Cancri tropicus
-- Chí tuyến Bắc
-- Garis balik utara
-- Garisan Sartan
-- Hvarfbaugur nyrðri
-- Kantzerko tropikoa
-- Kelûya Kêvjalê
-- kravun kääntöpiiri
-- Krebsens vendekreds
-- Kreefskeerkring
-- Kreeftskearkring
-- Kreeftskeerkring
-- Krepsen sin vendekrins
-- krepsens vendekrets
-- kräftans vändkrets
-- Nërdleche Wendekrees
-- nördlicher Wendekreis
-- Obratník Raka
-- Pak Hôe-kui-sòaⁿ
-- rakov povratnik
-- Rakova obratnica
-- rapu jorgáldâskiärdu
-- reappá jorggihanbirradat
-- Ráktérítő
-- Sarara Kaansarii
-- Severni povratnik
-- Trofan Cancr
-- Tropic del Càncer
-- Tropic of Cancer
-- Tropico de Cancro
-- Tropico del Cancro
-- Tropicul Racului
-- Tropike del Crantche
-- Tropiko de Kankro
-- Tropiko di Kankro
-- Tropiko han Kanser
-- Tropiko kan Kanser
-- Tropiko ng Kanser
-- Tropiko ti Kanser
-- Tropique du Cancer
-- Trovan ar C'hrank
-- Tròpic dal Càncar
-- tròpic de Càncer
-- Trópico de Cáncer
-- Trópico de Câncer
-- Trópicu de Cáncer
-- vähi pöörijoon
-- Vėžio atogrąža
-- Yengeç Dönencesi
-- Ziemeļu tropu loks
-- zwrotnik Raka
-- Τροπικός του Καρκίνου
-- Зворотник Рака
-- Мэлхийн зам
-- Паўночны тропік
-- Северен Повратник
-- Северни повратник
-- Северный тропик
-- тропік Рака
-- Тропик на Рака
-- Төньяҡ тропик
-- Уйпал тропик
-- Հյուսիսային արևադարձ
-- חוג הסרטן
-- خط سرطان
-- رأسالسرطان
-- سرطان دؤننجه سی
-- مدار السرطان
-- ھێڵی قڕژاڵ
-- कर्क रेखा
-- कर्कवृत्त
-- কর্কটক্রান্তি
-- কৰ্কট ক্ৰান্তি
-- ਕਰਕ ਰੇਖਾ
-- କର୍କଟ କ୍ରାନ୍ତି
-- கடக ரேகை
-- కర్కట రేఖ
-- ಕರ್ಕಾಟಕ ಸಂಕ್ರಾಂತಿ ವೃತ್ತ
-- ഉത്തരായനരേഖ
-- කර්කටක නිවර්තනය
-- ทรอปิกออฟแคนเซอร์
-- བྱང་གི་ལྡོག་ཐིག
-- မြောက်ယဉ်စွန်းတန်း
-- ჩრდილოეთი ტროპიკი
-- 北回帰線
-- 北回归线
-- 北回歸線
-- 북회귀선
+  - amislic
+  - Asorotany (zana-pehintany)
+  - Cancri tropicus
+  - Chí tuyến Bắc
+  - Garis balik utara
+  - Garisan Sartan
+  - Hvarfbaugur nyrðri
+  - Kantzerko tropikoa
+  - Kelûya Kêvjalê
+  - kravun kääntöpiiri
+  - Krebsens vendekreds
+  - Kreefskeerkring
+  - Kreeftskearkring
+  - Kreeftskeerkring
+  - Krepsen sin vendekrins
+  - krepsens vendekrets
+  - kräftans vändkrets
+  - Nërdleche Wendekrees
+  - nördlicher Wendekreis
+  - Obratník Raka
+  - Pak Hôe-kui-sòaⁿ
+  - rakov povratnik
+  - Rakova obratnica
+  - rapu jorgáldâskiärdu
+  - reappá jorggihanbirradat
+  - Ráktérítő
+  - Sarara Kaansarii
+  - Severni povratnik
+  - Trofan Cancr
+  - Tropic del Càncer
+  - Tropic of Cancer
+  - Tropico de Cancro
+  - Tropico del Cancro
+  - Tropicul Racului
+  - Tropike del Crantche
+  - Tropiko de Kankro
+  - Tropiko di Kankro
+  - Tropiko han Kanser
+  - Tropiko kan Kanser
+  - Tropiko ng Kanser
+  - Tropiko ti Kanser
+  - Tropique du Cancer
+  - Trovan ar C'hrank
+  - Tròpic dal Càncar
+  - tròpic de Càncer
+  - Trópico de Cáncer
+  - Trópico de Câncer
+  - Trópicu de Cáncer
+  - vähi pöörijoon
+  - Vėžio atogrąža
+  - Yengeç Dönencesi
+  - Ziemeļu tropu loks
+  - zwrotnik Raka
+  - Τροπικός του Καρκίνου
+  - Зворотник Рака
+  - Мэлхийн зам
+  - Паўночны тропік
+  - Северен Повратник
+  - Северни повратник
+  - Северный тропик
+  - тропік Рака
+  - Тропик на Рака
+  - Төньяҡ тропик
+  - Уйпал тропик
+  - Հյուսիսային արևադարձ
+  - חוג הסרטן
+  - خط سرطان
+  - رأسالسرطان
+  - سرطان دؤننجه سی
+  - مدار السرطان
+  - ھێڵی قڕژاڵ
+  - कर्क रेखा
+  - कर्कवृत्त
+  - কর্কটক্রান্তি
+  - কৰ্কট ক্ৰান্তি
+  - ਕਰਕ ਰੇਖਾ
+  - କର୍କଟ କ୍ରାନ୍ତି
+  - கடக ரேகை
+  - కర్కట రేఖ
+  - ಕರ್ಕಾಟಕ ಸಂಕ್ರಾಂತಿ ವೃತ್ತ
+  - ഉത്തരായനരേഖ
+  - කර්කටක නිවර්තනය
+  - ทรอปิกออฟแคนเซอร์
+  - བྱང་གི་ལྡོག་ཐིག
+  - မြောက်ယဉ်စွန်းတန်း
+  - ჩრდილოეთი ტროპიკი
+  - 北回帰線
+  - 北回归线
+  - 北回歸線
+  - 북회귀선
 has_id_wikidata: Q176635
 instance_of:
-- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
-- '[[_Standards/WikiData/WD~tropic,149273|WD~tropic,149273]]'
-opposite_of: '[[_Standards/WikiData/WD~Tropic_of_Capricorn,177440|WD~Tropic_of_Capricorn,177440]]'
-different_from: '[[_Standards/WikiData/WD~Tropic_of_Cancer,1501700|WD~Tropic_of_Cancer,1501700]]'
+  - "[[_Standards/WikiData/WD~region,82794|WD~region,82794]]"
+  - "[[_Standards/WikiData/WD~tropic,149273|WD~tropic,149273]]"
+opposite_of: "[[_Standards/WikiData/WD~Tropic_of_Capricorn,177440|WD~Tropic_of_Capricorn,177440]]"
+different_from: "[[_Standards/WikiData/WD~Tropic_of_Cancer,1501700|WD~Tropic_of_Cancer,1501700]]"
 coordinate_location: Point(0.0 23.436027777)
 country:
-- '[[_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]'
-- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
-- '[[_Standards/WikiData/WD~The_Bahamas,778|WD~The_Bahamas,778]]'
-- '[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
-- '[[_Standards/WikiData/WD~Oman,842|WD~Oman,842]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
-- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Mali,912|WD~Mali,912]]'
-- '[[_Standards/WikiData/WD~Libya,1016|WD~Libya,1016]]'
-- '[[_Standards/WikiData/WD~Mauritania,1025|WD~Mauritania,1025]]'
-- '[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
-- '[[_Standards/WikiData/WD~Niger,1032|WD~Niger,1032]]'
-- '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
-- '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362|WD~Sahrawi_Arab_Democratic_Republic,40362]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
-part_of: '[[_Standards/WikiData/WD~Northern_Hemisphere,39061|WD~Northern_Hemisphere,39061]]'
+  - "[[_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]"
+  - "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+  - "[[_Standards/WikiData/WD~The_Bahamas,778|WD~The_Bahamas,778]]"
+  - "[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]"
+  - "[[_Standards/WikiData/WD~Oman,842|WD~Oman,842]]"
+  - "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Mali,912|WD~Mali,912]]"
+  - "[[_Standards/WikiData/WD~Libya,1016|WD~Libya,1016]]"
+  - "[[_Standards/WikiData/WD~Mauritania,1025|WD~Mauritania,1025]]"
+  - "[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]"
+  - "[[_Standards/WikiData/WD~Niger,1032|WD~Niger,1032]]"
+  - "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362|WD~Sahrawi_Arab_Democratic_Republic,40362]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
+part_of: "[[_Standards/WikiData/WD~Northern_Hemisphere,39061|WD~Northern_Hemisphere,39061]]"
 OmegaWiki_Defined_Meaning: 807848
 Commons_category: Tropic of Cancer
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20map%20with%20tropic%20of%20cancer.svg
@@ -285,7 +285,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer|Tropic_of_Cancer]] 
+### #is_/same_as :: [[Tropic_of_Cancer|Tropic_of_Cancer]] 
 
 ### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.public|Tropic_of_Cancer.public]] 
 

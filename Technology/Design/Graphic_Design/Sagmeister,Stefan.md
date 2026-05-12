@@ -47,7 +47,7 @@ Threads_username: stefansagmeister
 Instagram_username: stefansagmeister
 ---
 
-# [[Stefan Sagmeister]] 
+# [[Sagmeister,Stefan]] 
 
 #is_/same_as :: [[WD~Stefan_Sagmeister,89568]] 
 
