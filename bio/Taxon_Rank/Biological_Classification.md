@@ -138,7 +138,7 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Baidu_Baike,803722|WD~Baidu_Baike,803722]]'
 - '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
 draft: true
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: 

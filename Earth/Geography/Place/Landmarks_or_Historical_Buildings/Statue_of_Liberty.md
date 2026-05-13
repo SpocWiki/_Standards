@@ -190,7 +190,7 @@ depicts:
 - '[[_Standards/WikiData/WD~book,571|WD~book,571]]'
 different_from: '[[_Standards/WikiData/WD~Statue_of_Liberty,408577|WD~Statue_of_Liberty,408577]]'
 draft: true
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''

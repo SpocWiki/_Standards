@@ -33,9 +33,9 @@ cssclasses:
 - private
 - note
 draft: true
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-plugin: parsed
 expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-06-29
@@ -139,26 +139,71 @@ openness (O) measures creativity, curiosity, and willingness to entertain new id
 ![[Big5~Offenheit.svg]] 
 
 
+# Excalidraw Data
+
+## Text Elements
 %%
 ## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-``` 
-
-
-## Confidential Links & Embeds: 
-
-### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness|Big5~O-Openness]] 
-
-### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness.public|Big5~O-Openness.public]] 
-
-### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness.internal|Big5~O-Openness.internal]] 
-
-### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness.protect|Big5~O-Openness.protect]] 
-
-### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness.private|Big5~O-Openness.private]] 
-
-### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness.personal|Big5~O-Openness.personal]] 
-
-### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness.secret|Big5~O-Openness.secret]] 
-
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.22.3",
+	"elements": [],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 5,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemArrowType": "round",
+		"currentItemFrameRole": null,
+		"scrollX": 405,
+		"scrollY": 416.8625183105469,
+		"zoom": {
+			"value": 1
+		},
+		"currentItemRoundness": "round",
+		"gridSize": 20,
+		"gridStep": 5,
+		"gridModeEnabled": false,
+		"gridColor": {
+			"Bold": "rgba(217, 217, 217, 0.5)",
+			"Regular": "rgba(230, 230, 230, 0.5)"
+		},
+		"currentStrokeOptions": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true,
+			"markerName": true,
+			"markerEnabled": true
+		},
+		"objectsSnapModeEnabled": false,
+		"activeTool": {
+			"type": "selection",
+			"customType": null,
+			"locked": false,
+			"fromSelection": false,
+			"lastActiveTool": null
+		},
+		"disableContextMenu": false,
+		"bindingPreference": "enabled",
+		"isBindingEnabled": true,
+		"isMidpointSnappingEnabled": true,
+		"boxSelectionMode": "contain"
+	},
+	"files": {}
+}
+```
+%%

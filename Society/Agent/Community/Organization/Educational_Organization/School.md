@@ -199,7 +199,7 @@ tags:
 title:
   School: ''
 type: private_note
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template: '[[Extract~Note~Template]]'

@@ -182,7 +182,7 @@ different_from:
 - '[[_Standards/WikiData/WD~business_studies,5001951|WD~business_studies,5001951]]'
 - '[[../WikiData/WD~economic_activity,8187769|WD~economic_activity,8187769]]'
 draft: true
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: 

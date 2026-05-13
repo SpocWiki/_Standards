@@ -333,7 +333,7 @@ Universal_Decimal_Classification: 811
 used_by: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 uses: '[[_Standards/WikiData/WD~capacity_for_language,4536530|WD~capacity_for_language,4536530]]'
 Wolfram_Language_entity_type: Language
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template: '[[Extract~Note~Template]]'

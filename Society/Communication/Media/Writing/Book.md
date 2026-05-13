@@ -339,7 +339,7 @@ union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~lis
 U_S_National_Archives_Identifier: 10639916
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_books,7112569|WD~outline_of_books,7112569]]"
 Wolfram_Language_entity_type: Book
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template: "[[Extract~Note~Template]]"

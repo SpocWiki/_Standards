@@ -192,7 +192,7 @@ equivalent_class:
 - http://dbpedia.org/ontology/Newspaper
 - https://schema.org/Newspaper
 exact_match: http://purl.org/coar/resource_type/c_2fe3
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''

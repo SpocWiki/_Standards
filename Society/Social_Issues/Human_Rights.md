@@ -192,7 +192,7 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 - '[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072|WD~Der_Volks-Brockhaus,107433072]]'
 draft: true
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''

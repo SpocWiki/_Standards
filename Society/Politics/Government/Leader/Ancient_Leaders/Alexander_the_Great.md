@@ -254,7 +254,7 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from: '[[_Standards/WikiData/WD~Pseudo-Alexander_the_Great,115561503|WD~Pseudo-Alexander_the_Great,115561503]]'
 draft: true
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''

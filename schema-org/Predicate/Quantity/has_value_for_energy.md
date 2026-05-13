@@ -252,7 +252,7 @@ title:
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Energy_footer,8093244|WD~Template_Energy_footer,8093244]]'
 type: private_note
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_energy,7112616|WD~outline_of_energy,7112616]]'
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template: '[[Extract~Note~Template]]'

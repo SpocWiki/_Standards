@@ -116,7 +116,7 @@ described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Taggin
 Dewey_Decimal_Classification: 109.2
 draft: true
 equivalent_class: http://dbpedia.org/ontology/Philosopher
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''

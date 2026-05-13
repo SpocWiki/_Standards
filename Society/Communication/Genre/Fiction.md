@@ -124,7 +124,7 @@ different_from:
 - '[[_Standards/WikiData/WD~mythology,9134|WD~mythology,9134]]'
 draft: true
 exact_match: http://cv.iptc.org/newscodes/subjectcode/01010001
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''

@@ -55,7 +55,7 @@ tags:
 - excalidraw
 title: is_a_drug_class Class
 type: private_note
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template:

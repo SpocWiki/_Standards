@@ -219,7 +219,7 @@ different_from:
 - '[[_Standards/WikiData/WD~Earthquake,412822|WD~Earthquake,412822]]'
 - '[[_Standards/WikiData/WD~Earthquake,500280|WD~Earthquake,500280]]'
 draft: true
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''

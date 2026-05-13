@@ -71,7 +71,7 @@ dv_is_same_as:
   - "[[/_private/schema-org/Property/has_parent_property.private|has_parent_property.private]]"
   - "[[/_personal/schema-org/Property/has_parent_property.personal|has_parent_property.personal]]"
   - "[[/_secret/schema-org/Property/has_parent_property.secret|has_parent_property.secret]]"
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template: "[[Extract~Note~Template]]"

@@ -96,7 +96,7 @@ educated_at:
 - '[[_Standards/WikiData/WD~Madison_Central_High_School,105764085|WD~Madison_Central_High_School,105764085]]'
 employer: '[[_Standards/WikiData/WD~The_New_School,599316|WD~The_New_School,599316]]'
 Europeana_entity: agent/base/146814
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''

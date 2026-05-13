@@ -115,7 +115,7 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 - '[[_Standards/WikiData/WD~The_Art_of_The_Countries_and_Peoples_of_The_World._Tome_5,127157391|WD~The_Art_of_The_Countries_and_Peoples_of_The_World._Tome_5,127157391]]'
 draft: true
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''

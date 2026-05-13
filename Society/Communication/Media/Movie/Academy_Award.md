@@ -121,7 +121,7 @@ different_from:
 Douban_site_name: oscar
 draft: true
 exact_match: http://wordnet-rdf.princeton.edu/pwn30/07268967-n
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''

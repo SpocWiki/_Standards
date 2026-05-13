@@ -659,7 +659,7 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~160,25648824|WD~160,25648824]]'
 - '[[_Standards/WikiData/WD~140,25648888|WD~140,25648888]]'
 - '[[_Standards/WikiData/WD~175,25648889|WD~175,25648889]]'
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''

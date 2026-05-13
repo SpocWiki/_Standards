@@ -116,7 +116,7 @@ equivalent_class:
 P8189: 987007295068605200
 UMLS_CUI: C0004171
 entry_in_abbreviations_table: атл.
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template: '[[Extract~Note~Template]]'

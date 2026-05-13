@@ -116,7 +116,7 @@ educated_at:
 - '[[_Standards/WikiData/WD~Harvard_College,49123|WD~Harvard_College,49123]]'
 - '[[_Standards/WikiData/WD~Groton_School,872541|WD~Groton_School,872541]]'
 - '[[_Standards/WikiData/WD~Columbia_Law_School,1149089|WD~Columbia_Law_School,1149089]]'
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''

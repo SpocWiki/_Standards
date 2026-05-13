@@ -56,7 +56,7 @@ dv_is_same_as:
   - "[[/_private/schema-org/Property/has_duration.private|has_duration.private]]"
   - "[[/_personal/schema-org/Property/has_duration.personal|has_duration.personal]]"
   - "[[/_secret/schema-org/Property/has_duration.secret|has_duration.secret]]"
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template: "[[Extract~Note~Template]]"

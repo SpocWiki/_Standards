@@ -992,8 +992,8 @@ cssclasses:
   - private
   - note
 draft: true
-excalidraw_autoexport: svg
-excalidraw_open_md: true
+excalidraw-autoexport: none
+excalidraw_open_md: false
 excalidraw_plugin: parsed
 expiryDate:
 has_Template: "[[Extract~Note~Template]]"

@@ -105,7 +105,7 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838|WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]'
 - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 draft: true
-excalidraw_autoexport: svg
+excalidraw-autoexport: none
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''
