@@ -1011,7 +1011,7 @@ tags:
 type: private_note
 ---
 
-# [[Earth]] 🌎 ♁ 
+# [[Earth]] ♁ 🜨 🌎 🌍 🌏 🗺
 
 #is_/same_as :: [[_Standards/WikiData/WD~Earth,2|WD~Earth,2]] 
 
